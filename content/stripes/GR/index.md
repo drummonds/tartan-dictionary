@@ -28,19 +28,17 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r1g1/">Moncreiffe</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r1g1/"><img src="/variants/s2/r1g1/sett.png" alt="Moncreiffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/r14g13~x2/">Moncreiffe (MacLachlan) Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/r14g13~x2/"><img src="/variants/s2/r14g13~x2/sett.png" alt="Moncreiffe (MacLachlan) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/dg14r13~x2~dg1605139-r2109032/">Wilson's No.099</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/dg14r13~x2~dg1605139-r2109032/"><img src="/variants/s2/dg14r13~x2~dg1605139-r2109032/sett.png" alt="Wilson's No.099 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/r3dg1~x14~r2109032-dg1605139/">Wilson's No.134</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/r3dg1~x14~r2109032-dg1605139/"><img src="/variants/s2/r3dg1~x14~r2109032-dg1605139/sett.png" alt="Wilson's No.134 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/r3g1~x14/">Wilson's, No 134</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/r3g1~x14/"><img src="/variants/s2/r3g1~x14/sett.png" alt="Wilson's, No 134 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moncreiffe/">Moncreiffe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moncreiffe/"><img src="/variants/s2/r1g1/sett.png" alt="Moncreiffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-099/">Wilson's No.099</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-099/"><img src="/variants/s2/dg14r13~x2~dg1605139-r2109032/sett.png" alt="Wilson's No.099 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-134/">Wilson's No.134</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-134/"><img src="/variants/s2/r3dg1~x14~r2109032-dg1605139/sett.png" alt="Wilson's No.134 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-134-2/">Wilson's, No 134</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-134-2/"><img src="/variants/s2/r3g1~x14/sett.png" alt="Wilson's, No 134 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s2/y1m1~x2/">Une Energie Nouvelle (Corporate) XXX</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/y1m1~x2/"><img src="/variants/s2/y1m1~x2/sett.png" alt="Une Energie Nouvelle (Corporate) XXX sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/une-energie-nouvelle-xxx/">Une Energie Nouvelle XXX</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/une-energie-nouvelle-xxx/"><img src="/variants/s2/y1m1~x2/sett.png" alt="Une Energie Nouvelle XXX sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

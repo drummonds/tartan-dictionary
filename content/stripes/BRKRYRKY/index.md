@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/">degli Uberti, Baron of Cartsburn (P)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/"><img src="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/sett.png" alt="degli Uberti, Baron of Cartsburn (P) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/degli-uberti-baron-of-cartsburn/">degli Uberti, Baron of Cartsburn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/degli-uberti-baron-of-cartsburn/"><img src="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/sett.png" alt="degli Uberti, Baron of Cartsburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

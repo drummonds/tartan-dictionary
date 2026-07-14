@@ -12,10 +12,10 @@ crumbs:
 - name: "Graham Dress"
   url: "/tartans/g/gr/graham-dress/"
 - name: "Graham Dress"
-  url: "/setts/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/graham-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWKBKBKGWGWGKWBWBW](/stripes/wbwbwkbkbkgwgwgkwbwbw/).
 
 Part of the [Graham Dress](/tartans/g/gr/graham-dress/) tartan — the named design grouping this sett with its other cloths.

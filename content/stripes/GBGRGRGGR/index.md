@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/">Stevenson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/"><img src="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/">Stevenson Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/"><img src="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/sett.png" alt="Stevenson Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stevenson-2/">Stevenson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stevenson-2/"><img src="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

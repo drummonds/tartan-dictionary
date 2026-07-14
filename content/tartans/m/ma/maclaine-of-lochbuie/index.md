@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/maclaine/"
 - name: "MacLaine of Lochbuie"
   url: "/families/maclaine-of-lochbuie/"
+aliases:
+- "/setts/db32r3db4y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbg/">BRBG</a></nav>
 A tartan of the [MacLaine of Lochbuie](/families/maclaine-of-lochbuie/) family.
 Its design is pattern [BRBG](/stripes/brbg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacLaine of Lochbuie** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db32r3db4y3/">MacLaine of Lochbuie</a></td><td><code>DB/64 R6 DB8 Y/6</code></td><td>98</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db32r3db4y3/"><img src="/variants/s4/db32r3db4y3~x2/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db32r3db4y3~x2/">MacLaine of Lochbuie</a></td><td><code>DB/64 R6 DB8 Y/6</code></td><td>98</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/db32r3db4y3~x2/"><img src="/variants/s4/db32r3db4y3~x2/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db140r11db14y11/"><circle cx="626.0" cy="205.9" r="4" fill="#3465a4"><title>Gem</title></circle></a><a href="/variants/s4/db102r11db14w11/"><circle cx="538.7" cy="200.0" r="4" fill="#3465a4"><title>Westfield</title></circle></a><a href="/variants/s4/db1lb1db8r1~x2/"><circle cx="535.1" cy="216.5" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/variants/s5/dy1db9dy2db9r1~x4/"><circle cx="621.4" cy="267.3" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="541.7" cy="248.7" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="442.7" cy="232.7" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s4/b30y5b4r12~x4/"><circle cx="451.9" cy="270.2" r="4" fill="#3465a4"><title>UEFA</title></circle></a><a href="/variants/s5/db32r3db4k1y3~x2/"><circle cx="591.7" cy="124.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s4/db50k12db21w5~x2/"><circle cx="480.8" cy="213.6" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/variants/s4/db16r4db3dp1~x2/"><circle cx="561.1" cy="211.3" r="4" fill="#3465a4"><title>Elliott</title></circle></a><circle cx="620.8" cy="214.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db140r11db14y11/"><circle cx="626.0" cy="206.6" r="4" fill="#3465a4"><title>Gem</title></circle></a><a href="/variants/s4/db102r11db14w11/"><circle cx="540.1" cy="200.5" r="4" fill="#3465a4"><title>Westfield</title></circle></a><a href="/variants/s4/db1lb1db8r1~x2/"><circle cx="536.5" cy="217.0" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/variants/s5/dy1db9dy2db9r1~x4/"><circle cx="622.5" cy="268.0" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="542.8" cy="249.2" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="443.6" cy="233.0" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s4/b30y5b4r12~x4/"><circle cx="452.6" cy="270.5" r="4" fill="#3465a4"><title>UEFA</title></circle></a><a href="/variants/s5/db32r3db4k1y3~x2/"><circle cx="593.4" cy="125.0" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s4/db50k12db21w5~x2/"><circle cx="482.1" cy="214.1" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/variants/s4/db16r4db3dp1~x2/"><circle cx="562.4" cy="211.8" r="4" fill="#3465a4"><title>Elliott</title></circle></a><circle cx="622.3" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

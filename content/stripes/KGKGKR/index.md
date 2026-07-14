@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k88dg17k8g28k8r6~dg1405139-g1903114/">Childers (Gurkha Rifles) (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k88dg17k8g28k8r6~dg1405139-g1903114/"><img src="/variants/s6/k88dg17k8g28k8r6~dg1405139-g1903114/sett.png" alt="Childers (Gurkha Rifles) (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/">Childers Regimental Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><img src="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/sett.png" alt="Childers Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/childers-3/">Childers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/childers-3/"><img src="/variants/s6/k88dg17k8g28k8r6~dg1405139-g1903114/sett.png" alt="Childers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/childers-regimental/">Childers Regimental</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/childers-regimental/"><img src="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/sett.png" alt="Childers Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/k2y6k2y11k9r1~x2/">Porter Drinkers', The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k2y6k2y11k9r1~x2/"><img src="/variants/s6/k2y6k2y11k9r1~x2/sett.png" alt="Porter Drinkers', The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/porter-drinkers-the/">Porter Drinkers', The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/porter-drinkers-the/"><img src="/variants/s6/k2y6k2y11k9r1~x2/sett.png" alt="Porter Drinkers', The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

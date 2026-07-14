@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db80r8w1r8y20db15/"
+- "/setts/db80r7w1r7y20db15/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgrwrb/">BGRWRB</a></nav>
 Its design is pattern [BGRWRB](/stripes/bgrwrb/) — the page of every tartan sharing this colour sequence.
 
 The **Auchtermuchty Tartan Army** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Auchtermuchty Tartan Army** tartan groups 2 setts — the same named desig
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db80r8w1r8y20db15/">Auchtermuchty Tartan Army</a> ★</td><td><code>DB/160 R16 W2 R16 Y40 DB/30</code></td><td>338</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db80r8w1r8y20db15/"><img src="/variants/s6/db80r8w1r8y20db15~x2/sett.png" alt="Auchtermuchty Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db80r7w1r7y20db15/">(Corp)</a></td><td><code>DB/160 R14 W2 R14 Y40 DB/30</code></td><td>330</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db80r7w1r7y20db15/"><img src="/variants/s6/db80r7w1r7y20db15~x2/sett.png" alt="(Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db80r8w1r8y20db15~x2/">Auchtermuchty Tartan Army</a> ★</td><td><code>DB/160 R16 W2 R16 Y40 DB/30</code></td><td>338</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db80r8w1r8y20db15~x2/"><img src="/variants/s6/db80r8w1r8y20db15~x2/sett.png" alt="Auchtermuchty Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db80r7w1r7y20db15~x2/">(Corp)</a></td><td><code>DB/160 R14 W2 R14 Y40 DB/30</code></td><td>330</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db80r7w1r7y20db15~x2/"><img src="/variants/s6/db80r7w1r7y20db15~x2/sett.png" alt="(Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db67w10y14db10w2/"><circle cx="506.7" cy="163.5" r="4" fill="#3465a4"><title>St. John</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="450.0" cy="155.3" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="531.5" cy="144.5" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="569.4" cy="170.9" r="4" fill="#3465a4"><title>Norwich University Regimental</title></circle></a><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="587.3" cy="131.5" r="4" fill="#3465a4"><title>Coogan</title></circle></a><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="543.2" cy="105.0" r="4" fill="#3465a4"><title>Duke of York</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="551.4" cy="104.4" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s6/y2r5y2r5db49w2~x2/"><circle cx="499.4" cy="118.8" r="4" fill="#3465a4"><title>Balmer</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="404.1" cy="106.3" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="450.8" cy="102.6" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><circle cx="495.7" cy="121.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db67w10y14db10w2/"><circle cx="508.0" cy="163.8" r="4" fill="#3465a4"><title>St. John</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="451.3" cy="155.7" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="532.9" cy="144.9" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="570.7" cy="171.3" r="4" fill="#3465a4"><title>Norwich University Regimental</title></circle></a><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="588.6" cy="131.9" r="4" fill="#3465a4"><title>Coogan</title></circle></a><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="544.7" cy="105.4" r="4" fill="#3465a4"><title>Duke of York</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="552.9" cy="104.8" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s6/y2r5y2r5db49w2~x2/"><circle cx="500.8" cy="119.1" r="4" fill="#3465a4"><title>Balmer</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="405.2" cy="106.4" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="452.2" cy="102.9" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><circle cx="497.0" cy="121.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

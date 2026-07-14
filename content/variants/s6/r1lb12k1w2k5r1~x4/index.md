@@ -8,10 +8,10 @@ crumbs:
 - name: "Rui"
   url: "/tartans/r/ru/rui/"
 - name: "Rui (Personal)"
-  url: "/setts/r1lb12k1w2k5r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1lb12k1w2k5r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ru/rui/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKWR](/stripes/rkwkwr/).
 
 Part of the [Rui](/tartans/r/ru/rui/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3617](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Rui (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3617">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Personal tartan kilt worn by piper Sarah Deming 1996. She named it Rui.</em></li>
-<li>1996 — Rui (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5391">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Personal tartan kilt worn by piper Sarah Deming 1996. she named it Rui.</em></li>
+<li>1996 — Rui (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5391/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Personal tartan kilt worn by piper Sarah Deming 1996. she named it Rui.</em></li>
 </ul>
 </details>
 

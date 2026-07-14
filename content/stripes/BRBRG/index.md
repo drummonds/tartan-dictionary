@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dy1r9db2r9db1~x4/">Brooks Brothers Tattersall Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dy1r9db2r9db1~x4/"><img src="/variants/s5/dy1r9db2r9db1~x4/sett.png" alt="Brooks Brothers Tattersall Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brooks-brothers-tattersall/">Brooks Brothers Tattersall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brooks-brothers-tattersall/"><img src="/variants/s5/dy1r9db2r9db1~x4/sett.png" alt="Brooks Brothers Tattersall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

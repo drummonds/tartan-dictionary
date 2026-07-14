@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/angle/"
 - name: "Angle"
   url: "/families/angle/"
+aliases:
+- "/setts/ly1dg11k6dg3ly1dg1ly1/"
+- "/setts/w1lg11k6lg3w1lg1w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ygkgygy/">YGKGYGY</a></nav>
 A tartan of the [Angle](/families/angle/) family.
 Its design is pattern [YGKGYGY](/stripes/ygkgygy/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Angle** tartan groups 2 setts — the same named design recorded as differ
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly1dg11k6dg3ly1dg1ly1/">Angle</a> ★</td><td><code>LY/4 DG44 K24 DG12 LY4 DG4 LY/4</code></td><td>184</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly1dg11k6dg3ly1dg1ly1/"><img src="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/sett.png" alt="Angle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w1lg11k6lg3w1lg1w1/">Blue</a></td><td><code>W/4 LG44 K24 LG12 W4 LG4 W/4</code></td><td>184</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w1lg11k6lg3w1lg1w1/"><img src="/variants/s7/w1lg11k6lg3w1lg1w1~x4/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/">Angle</a> ★</td><td><code>LY/4 DG44 K24 DG12 LY4 DG4 LY/4</code></td><td>184</td><td>1986</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/"><img src="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/sett.png" alt="Angle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w1lg11k6lg3w1lg1w1~x4/">Blue</a></td><td><code>W/4 LG44 K24 LG12 W4 LG4 W/4</code></td><td>184</td><td>1986</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w1lg11k6lg3w1lg1w1~x4/"><img src="/variants/s7/w1lg11k6lg3w1lg1w1~x4/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -43,6 +47,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="280.7" cy="175.1" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/variants/s6/g18ly2g18k4g2k15~x2/"><circle cx="315.9" cy="207.2" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="297.5" cy="160.1" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="293.8" cy="157.0" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s7/g20dp2g3dp2g14k18g4~x2/"><circle cx="326.0" cy="191.6" r="4" fill="#3465a4"><title>Pringle, James</title></circle></a><a href="/variants/s7/g24r4g3k14g5r2g10~x2/"><circle cx="344.4" cy="184.0" r="4" fill="#3465a4"><title>Northcroft</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x2/"><circle cx="286.7" cy="173.2" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s6/r2g12k12g1k12g2~x2/"><circle cx="299.1" cy="188.4" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/g3k8g8lb3k18g2~x4/"><circle cx="300.8" cy="194.4" r="4" fill="#3465a4"><title>Kincardine City</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="296.6" cy="190.2" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><circle cx="339.3" cy="174.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="281.5" cy="175.2" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/variants/s6/g18ly2g18k4g2k15~x2/"><circle cx="316.7" cy="207.4" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="298.3" cy="160.2" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="294.6" cy="157.2" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s7/g20dp2g3dp2g14k18g4~x2/"><circle cx="326.9" cy="191.8" r="4" fill="#3465a4"><title>Pringle, James</title></circle></a><a href="/variants/s7/g24r4g3k14g5r2g10~x2/"><circle cx="345.3" cy="184.3" r="4" fill="#3465a4"><title>Northcroft</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x2/"><circle cx="287.5" cy="173.3" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s6/r2g12k12g1k12g2~x2/"><circle cx="300.0" cy="188.6" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/g3k8g8lb3k18g2~x4/"><circle cx="301.7" cy="194.6" r="4" fill="#3465a4"><title>Kincardine City</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="297.3" cy="190.4" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><circle cx="340.2" cy="174.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

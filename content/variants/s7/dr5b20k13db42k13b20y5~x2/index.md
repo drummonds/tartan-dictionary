@@ -12,10 +12,10 @@ crumbs:
 - name: "Newmill"
   url: "/tartans/n/ne/newmill/"
 - name: "Newmill"
-  url: "/setts/dr5b20k13db42k13b20y5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr5b20k13db42k13b20y5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/newmill/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKBG](/stripes/bbkbkbg/).
 
 Part of the [Newmill](/tartans/n/ne/newmill/) tartan — the named design grouping this sett with its other cloths.

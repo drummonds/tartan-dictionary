@@ -8,10 +8,10 @@ crumbs:
 - name: "Kansai Highland Games"
   url: "/tartans/k/ka/kansai-highland-games/"
 - name: "Kansai Highland Games Corporate Tartan"
-  url: "/setts/dp2k1dp16g16w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2k1dp16g16w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ka/kansai-highland-games/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGW](/stripes/bkbgw/).
 
 Part of the [Kansai Highland Games](/tartans/k/ka/kansai-highland-games/) tartan — the named design grouping this sett with its other cloths.

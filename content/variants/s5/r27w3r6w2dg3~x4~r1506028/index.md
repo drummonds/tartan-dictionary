@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/martin/"
 - name: "Martin, Robert N"
   url: "/tartans/m/ma/martin-robert-n/"
-- name: "Martin, Robert N (Personal)"
-  url: "/setts/r27w3r6w2dg3/"
+- name: "Martin Family, Robert N Personal Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r27w3r6w2dg3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/martin-robert-n/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRWR](/stripes/gwrwr/).
 
 Part of the [Martin, Robert N](/tartans/m/ma/martin-robert-n/) tartan — the named design grouping this sett with its other cloths.

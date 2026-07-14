@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/">Moncrieffe (1998)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/"><img src="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/sett.png" alt="Moncrieffe (1998) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/">Moncrieffe Athol</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/"><img src="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/sett.png" alt="Moncrieffe Athol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moncrieffe/">Moncrieffe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moncrieffe/"><img src="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/sett.png" alt="Moncrieffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moncrieffe-athol/">Moncrieffe Athol</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moncrieffe-athol/"><img src="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/sett.png" alt="Moncrieffe Athol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

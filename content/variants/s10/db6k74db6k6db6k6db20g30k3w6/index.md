@@ -8,10 +8,10 @@ crumbs:
 - name: "Scruffy Wallace"
   url: "/tartans/s/sc/scruffy-wallace/"
 - name: "Scruffy Wallace"
-  url: "/setts/db6k74db6k6db6k6db20g30k3w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6k74db6k6db6k6db20g30k3w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scruffy-wallace/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBGKW](/stripes/bkbkbkbgkw/).
 
 Part of the [Scruffy Wallace](/tartans/s/sc/scruffy-wallace/) tartan — the named design grouping this sett with its other cloths.

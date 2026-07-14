@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/">Serenade</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/"><img src="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/sett.png" alt="Serenade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/serenade/">Serenade</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/serenade/"><img src="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/sett.png" alt="Serenade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

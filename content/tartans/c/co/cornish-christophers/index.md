@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Cornish"
   url: "/clan/cornish/"
+aliases:
+- "/setts/g5lg5y26k4y6r5k15w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gygkgrkw/">GYGKGRKW</a></nav>
 A tartan of [Clan Cornish](/clan/cornish/).
 Its design is pattern [GYGKGRKW](/stripes/gygkgrkw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Cornish Christophers** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g5lg5y26k4y6r5k15w4/">Cornish Christophers</a></td><td><code>G/10 LG10 Y52 K8 Y12 R10 K30 W/8</code></td><td>262</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g5lg5y26k4y6r5k15w4/"><img src="/variants/s8/g5lg5y26k4y6r5k15w4~x2/sett.png" alt="Cornish Christophers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/">Cornish Christophers</a></td><td><code>G/10 LG10 Y52 K8 Y12 R10 K30 W/8</code></td><td>262</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><img src="/variants/s8/g5lg5y26k4y6r5k15w4~x2/sett.png" alt="Cornish Christophers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.6" cy="152.5" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="146.6" cy="148.9" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s7/ly4y2ly21do11w2k20r3~x2/"><circle cx="114.0" cy="145.3" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s6/k5r2dy7ly18dy2w2~x4/"><circle cx="183.9" cy="162.2" r="4" fill="#3465a4"><title>Shepherd, Derek</title></circle></a><a href="/variants/s12/o4k12b2k2b2k2b2ly16dr3ly2lr2ly4~x2/"><circle cx="103.5" cy="125.4" r="4" fill="#3465a4"><title>Cailean</title></circle></a><a href="/variants/s8/g8r11k3y2dp8g15r5w2~x2/"><circle cx="128.3" cy="188.5" r="4" fill="#3465a4"><title>Wilson's, No 109</title></circle></a><a href="/variants/s12/dy4k12db2k2db2k2db2ly16dr3ly2w2ly4~x2/"><circle cx="105.4" cy="127.5" r="4" fill="#3465a4"><title>Cailean</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/"><circle cx="145.1" cy="149.9" r="4" fill="#3465a4"><title>Wilson's, No 33</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="114.9" cy="188.3" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="83.8" cy="154.4" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><circle cx="123.0" cy="163.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.9" cy="152.2" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="147.0" cy="148.7" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s7/ly4y2ly21do11w2k20r3~x2/"><circle cx="114.3" cy="145.0" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s6/k5r2dy7ly18dy2w2~x4/"><circle cx="184.4" cy="162.1" r="4" fill="#3465a4"><title>Shepherd, Derek</title></circle></a><a href="/variants/s12/o4k12b2k2b2k2b2ly16dr3ly2lr2ly4~x2/"><circle cx="103.9" cy="125.1" r="4" fill="#3465a4"><title>Cailean</title></circle></a><a href="/variants/s8/g8r11k3y2dp8g15r5w2~x2/"><circle cx="128.5" cy="188.2" r="4" fill="#3465a4"><title>Wilson's, No 109</title></circle></a><a href="/variants/s12/dy4k12db2k2db2k2db2ly16dr3ly2w2ly4~x2/"><circle cx="105.7" cy="127.2" r="4" fill="#3465a4"><title>Cailean</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/"><circle cx="145.4" cy="149.6" r="4" fill="#3465a4"><title>Wilson's, No 33</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="115.1" cy="188.0" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="84.1" cy="154.1" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><circle cx="123.4" cy="162.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

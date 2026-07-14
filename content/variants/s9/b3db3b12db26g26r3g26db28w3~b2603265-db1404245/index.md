@@ -8,10 +8,10 @@ crumbs:
 - name: "Seaford House"
   url: "/tartans/s/se/seaford-house/"
 - name: "Seaford House"
-  url: "/setts/b3db3b12db26g26r3g26db28w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b3db3b12db26g26r3g26db28w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/se/seaford-house/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGRGBW](/stripes/bbbbgrgbw/).
 
 Part of the [Seaford House](/tartans/s/se/seaford-house/) tartan — the named design grouping this sett with its other cloths.

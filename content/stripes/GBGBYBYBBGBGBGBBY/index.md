@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/y3n3dg2n3lyi2n2lyi2n13t4y3t3y3t3y3t4n20ly3~x2~lyi3305093-ly2703076/">Fermanagh Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/y3n3dg2n3lyi2n2lyi2n13t4y3t3y3t3y3t4n20ly3~x2~lyi3305093-ly2703076/"><img src="/variants/s17/y3n3dg2n3lyi2n2lyi2n13t4y3t3y3t3y3t4n20ly3~x2~lyi3305093-ly2703076/sett.png" alt="Fermanagh Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fermanagh-irish-county/">Fermanagh Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fermanagh-irish-county/"><img src="/variants/s17/y3n3dg2n3lyi2n2lyi2n13t4y3t3y3t3y3t4n20ly3~x2~lyi3305093-ly2703076/sett.png" alt="Fermanagh Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

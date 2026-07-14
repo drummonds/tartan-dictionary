@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/dg12dp1db2dp1db2dp1dg12g2dp12y1dp12g2db12dp1dg2dp1dg2dp1db12~x2/">O'Connor, Hugh (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/dg12dp1db2dp1db2dp1dg12g2dp12y1dp12g2db12dp1dg2dp1dg2dp1db12~x2/"><img src="/variants/s19/dg12dp1db2dp1db2dp1dg12g2dp12y1dp12g2db12dp1dg2dp1dg2dp1db12~x2/sett.png" alt="O'Connor, Hugh (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-connor-hugh/">O'Connor, Hugh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-connor-hugh/"><img src="/variants/s19/dg12dp1db2dp1db2dp1dg12g2dp12y1dp12g2db12dp1dg2dp1dg2dp1db12~x2/sett.png" alt="O'Connor, Hugh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

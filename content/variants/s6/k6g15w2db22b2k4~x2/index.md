@@ -10,10 +10,10 @@ crumbs:
 - name: "Leslie, Hebridean"
   url: "/tartans/l/le/leslie-hebridean/"
 - name: "Leslie, Hebridean"
-  url: "/setts/k6g15w2db22b2k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6g15w2db22b2k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/leslie-hebridean/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBWGK](/stripes/kbbwgk/).
 
 Part of the [Leslie, Hebridean](/tartans/l/le/leslie-hebridean/) tartan — the named design grouping this sett with its other cloths.

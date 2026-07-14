@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w2db40g22y3g2r3g2w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbgggrgw/">WBGGGRGW</a></nav>
 Its design is pattern [WBGGGRGW](/stripes/wbgggrgw/) — the page of every tartan sharing this colour sequence.
 
 The **Tartan Day SA** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Tartan Day SA** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2db40g22y3g2r3g2w2/">Tartan Day SA</a></td><td><code>W/4 DB80 G44 Y6 G4 R6 G4 W/4</code></td><td>296</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2db40g22y3g2r3g2w2/"><img src="/variants/s8/w2db40g22y3g2r3g2w2~x2/sett.png" alt="Tartan Day SA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w2db40g22y3g2r3g2w2~x2/">Tartan Day SA</a></td><td><code>W/4 DB80 G44 Y6 G4 R6 G4 W/4</code></td><td>296</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w2db40g22y3g2r3g2w2~x2/"><img src="/variants/s8/w2db40g22y3g2r3g2w2~x2/sett.png" alt="Tartan Day SA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><circle cx="276.1" cy="129.6" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2~dg1806142-g2408144/"><circle cx="241.7" cy="132.5" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="325.0" cy="177.0" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps</title></circle></a><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="322.9" cy="177.6" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s9/k4y1g2y1g32lb1g3db32lb3~x2/"><circle cx="282.2" cy="96.5" r="4" fill="#3465a4"><title>McClurg</title></circle></a><a href="/variants/s8/w10db2w1db35dg10dy3dg10r4~x2/"><circle cx="271.5" cy="117.9" r="4" fill="#3465a4"><title>Sandelin</title></circle></a><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/"><circle cx="239.0" cy="168.3" r="4" fill="#3465a4"><title>Tennessee</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.2" cy="145.7" r="4" fill="#3465a4"><title>Kruenaegel-Schropp</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="344.4" cy="146.7" r="4" fill="#3465a4"><title>Caig</title></circle></a><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><circle cx="276.5" cy="159.7" r="4" fill="#3465a4"><title>Singh</title></circle></a><circle cx="307.6" cy="128.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><circle cx="276.8" cy="129.5" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2~dg1806142-g2408144/"><circle cx="242.2" cy="132.4" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="325.6" cy="177.1" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps</title></circle></a><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="323.5" cy="177.7" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s9/k4y1g2y1g32lb1g3db32lb3~x2/"><circle cx="283.0" cy="96.5" r="4" fill="#3465a4"><title>McClurg</title></circle></a><a href="/variants/s8/w10db2w1db35dg10dy3dg10r4~x2/"><circle cx="272.1" cy="117.8" r="4" fill="#3465a4"><title>Sandelin</title></circle></a><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/"><circle cx="239.4" cy="168.2" r="4" fill="#3465a4"><title>Tennessee</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.8" cy="145.6" r="4" fill="#3465a4"><title>Kruenaegel-Schropp</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="345.1" cy="146.8" r="4" fill="#3465a4"><title>Caig</title></circle></a><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><circle cx="277.0" cy="159.6" r="4" fill="#3465a4"><title>Singh</title></circle></a><circle cx="308.3" cy="128.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

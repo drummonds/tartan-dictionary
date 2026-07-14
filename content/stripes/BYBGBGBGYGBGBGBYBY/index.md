@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4~x2~db1204274/">Rice of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4~x2~db1204274/"><img src="/variants/s18/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4~x2~db1204274/sett.png" alt="Rice of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/rice-of-wales/">Rice of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/rice-of-wales/"><img src="/variants/s18/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4~x2~db1204274/sett.png" alt="Rice of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

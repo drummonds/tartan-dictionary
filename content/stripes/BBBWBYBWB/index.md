@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/t14lb1t3lo2t3lb1t4db24dr3~x4~t2503227-lb3200000/">Musselburgh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/t14lb1t3lo2t3lb1t4db24dr3~x4~t2503227-lb3200000/"><img src="/variants/s9/t14lb1t3lo2t3lb1t4db24dr3~x4~t2503227-lb3200000/sett.png" alt="Musselburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/musselburgh/">Musselburgh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/musselburgh/"><img src="/variants/s9/t14lb1t3lo2t3lb1t4db24dr3~x4~t2503227-lb3200000/sett.png" alt="Musselburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

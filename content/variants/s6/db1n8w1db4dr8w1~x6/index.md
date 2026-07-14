@@ -8,10 +8,10 @@ crumbs:
 - name: "Little's Chauffeur Drive"
   url: "/tartans/l/li/little-s-chauffeur-drive/"
 - name: "Little's Chauffeur Drive"
-  url: "/setts/db1n8w1db4dr8w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1n8w1db4dr8w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/little-s-chauffeur-drive/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBBW](/stripes/bbwbbw/).
 
 Part of the [Little's Chauffeur Drive](/tartans/l/li/little-s-chauffeur-drive/) tartan — the named design grouping this sett with its other cloths.

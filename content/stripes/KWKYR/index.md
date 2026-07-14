@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k3w3k3ly10r1~x6/">Burberry (Genuine)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k3w3k3ly10r1~x6/"><img src="/variants/s5/k3w3k3ly10r1~x6/sett.png" alt="Burberry (Genuine) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k6w6k6ly21r2~x4/">Burberry Check Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k6w6k6ly21r2~x4/"><img src="/variants/s5/k6w6k6ly21r2~x4/sett.png" alt="Burberry Check Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burberry/">Burberry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burberry/"><img src="/variants/s5/k3w3k3ly10r1~x6/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burberry-check/">Burberry Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burberry-check/"><img src="/variants/s5/k6w6k6ly21r2~x4/sett.png" alt="Burberry Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

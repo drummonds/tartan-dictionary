@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w1g10db4lb1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbgw/">WBGW</a></nav>
 Its design is pattern [WBGW](/stripes/wbgw/) — the page of every tartan sharing this colour sequence.
 
 The **Wilson's, No 205** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Wilson's, No 205** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w1g10db4lb1/">Wilson's, No 205</a></td><td><code>LB/2 DB8 G20 W/2</code></td><td>60</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w1g10db4lb1/"><img src="/variants/s4/w1g10db4lb1~x2/sett.png" alt="Wilson's, No 205 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/w1g10db4lb1~x2/">Wilson's, No 205</a></td><td><code>W/2 G20 DB8 LB/2</code></td><td>60</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/w1g10db4lb1~x2/"><img src="/variants/s4/w1g10db4lb1~x2/sett.png" alt="Wilson's, No 205 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="392.8" cy="252.9" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="346.9" cy="202.3" r="4" fill="#3465a4"><title>Farooq</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="302.1" cy="304.4" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="260.7" cy="262.7" r="4" fill="#3465a4"><title>Unidentified 10</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="260.3" cy="259.4" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="271.6" cy="255.2" r="4" fill="#3465a4"><title>Sterling</title></circle></a><a href="/variants/s4/g9b20g40w5~x2/"><circle cx="438.4" cy="298.4" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="378.8" cy="158.7" r="4" fill="#3465a4"><title>Spencer</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="239.9" cy="236.0" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s4/w1g10dp4lt1~x2/"><circle cx="371.0" cy="242.0" r="4" fill="#3465a4"><title>Wilson's No.205</title></circle></a><circle cx="371.5" cy="245.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="393.3" cy="253.1" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="347.6" cy="202.4" r="4" fill="#3465a4"><title>Farooq</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="302.3" cy="304.5" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="261.0" cy="262.8" r="4" fill="#3465a4"><title>Unidentified 10</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="260.6" cy="259.5" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="271.7" cy="255.1" r="4" fill="#3465a4"><title>Sterling</title></circle></a><a href="/variants/s4/g9b20g40w5~x2/"><circle cx="438.9" cy="298.7" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.5" cy="158.9" r="4" fill="#3465a4"><title>Spencer</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="240.1" cy="236.0" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s4/w1g10dp4lt1~x2/"><circle cx="371.6" cy="242.2" r="4" fill="#3465a4"><title>Wilson's No.205</title></circle></a><circle cx="372.0" cy="245.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

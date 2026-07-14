@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db30t10lb10db5r3y3g3~x2/">Wrigglesworth (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db30t10lb10db5r3y3g3~x2/"><img src="/variants/s7/db30t10lb10db5r3y3g3~x2/sett.png" alt="Wrigglesworth (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wr/wrigglesworth/">Wrigglesworth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wr/wrigglesworth/"><img src="/variants/s7/db30t10lb10db5r3y3g3~x2/sett.png" alt="Wrigglesworth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

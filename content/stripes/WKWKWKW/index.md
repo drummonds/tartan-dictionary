@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w24k16w1k16w3k8w2~x2/">Saks Fifth Avenue (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w24k16w1k16w3k8w2~x2/"><img src="/variants/s7/w24k16w1k16w3k8w2~x2/sett.png" alt="Saks Fifth Avenue (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/w2k1w6k6w2k1w1~x2/">Scott (Abbreviated)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><img src="/variants/s7/w2k1w6k6w2k1w1~x2/sett.png" alt="Scott (Abbreviated) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/saks-fifth-avenue/">Saks Fifth Avenue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/saks-fifth-avenue/"><img src="/variants/s7/w24k16w1k16w3k8w2~x2/sett.png" alt="Saks Fifth Avenue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scott-7/">Scott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scott-7/"><img src="/variants/s7/w2k1w6k6w2k1w1~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

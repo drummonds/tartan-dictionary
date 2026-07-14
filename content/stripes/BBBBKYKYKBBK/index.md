@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/">Johnnie Walker (2003) (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/"><img src="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/sett.png" alt="Johnnie Walker (2003) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/johnnie-walker/">Johnnie Walker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/johnnie-walker/"><img src="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/sett.png" alt="Johnnie Walker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

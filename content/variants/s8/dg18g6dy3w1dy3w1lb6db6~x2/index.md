@@ -8,10 +8,10 @@ crumbs:
 - name: "Iroquois Falls Centenary"
   url: "/tartans/i/ir/iroquois-falls-centenary/"
 - name: "Iroquois Falls Centenary"
-  url: "/setts/dg18g6dy3w1dy3w1lb6db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg18g6dy3w1dy3w1lb6db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/ir/iroquois-falls-centenary/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWGWGGG](/stripes/bwwgwggg/).
 
 Part of the [Iroquois Falls Centenary](/tartans/i/ir/iroquois-falls-centenary/) tartan — the named design grouping this sett with its other cloths.

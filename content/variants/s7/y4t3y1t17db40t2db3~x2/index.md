@@ -8,10 +8,10 @@ crumbs:
 - name: "Danzas"
   url: "/tartans/d/da/danzas/"
 - name: "Danzas"
-  url: "/setts/y4t3y1t17db40t2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4t3y1t17db40t2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/danzas/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBG](/stripes/bbbbgbg/).
 
 Part of the [Danzas](/tartans/d/da/danzas/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=888](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/2000 — Danzas (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=888">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>A corporate tartan for Danzas (UK) - a cargo handling company based in Scotland. Scottish Tartans Society data calls for colour MB - assume this is muted blue and have used ancient in its place.</em></li>
-<li>Feb. 2000 — Danzas (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>A corporate tartan for Danzas (UK) - a cargo handling company based in Scotland - uisng their corporate colours.</em></li>
+<li>Feb. 2000 — Danzas (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2666/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>A corporate tartan for Danzas (UK) - a cargo handling company based in Scotland - uisng their corporate colours.</em></li>
 </ul>
 </details>
 

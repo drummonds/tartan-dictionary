@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3w2db27k19w27dp2y3~x2/">Christian Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3w2db27k19w27dp2y3~x2/"><img src="/variants/s7/r3w2db27k19w27dp2y3~x2/sett.png" alt="Christian Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/christian-dress/">Christian Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/christian-dress/"><img src="/variants/s7/r3w2db27k19w27dp2y3~x2/sett.png" alt="Christian Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

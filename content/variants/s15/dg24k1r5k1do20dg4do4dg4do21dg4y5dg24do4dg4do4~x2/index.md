@@ -10,10 +10,10 @@ crumbs:
 - name: "Ontario, Ensign of"
   url: "/tartans/o/on/ontario-ensign-of/"
 - name: "Ontario Ensign of.. District Tartan"
-  url: "/setts/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/on/ontario-ensign-of/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGGBGBGBKRKG](/stripes/bgbgggbgbgbkrkg/).
 
 Part of the [Ontario, Ensign of](/tartans/o/on/ontario-ensign-of/) tartan — the named design grouping this sett with its other cloths.

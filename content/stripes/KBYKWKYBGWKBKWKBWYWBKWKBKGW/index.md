@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/">MacPerl (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/"><img src="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/sett.png" alt="MacPerl (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macperl/">MacPerl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macperl/"><img src="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/sett.png" alt="MacPerl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

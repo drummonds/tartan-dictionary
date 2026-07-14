@@ -12,10 +12,10 @@ crumbs:
 - name: "Arran"
   url: "/tartans/a/ar/arran/"
 - name: "Arran (Strathmore)"
-  url: "/setts/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/arran/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKRKRKRKRW](/stripes/bgbgbkrkrkrkrw/).
 
 Part of the [Arran](/tartans/a/ar/arran/) tartan — the named design grouping this sett with its other cloths.

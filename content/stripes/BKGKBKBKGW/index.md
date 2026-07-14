@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/">Pitceathly Chamberlain (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><img src="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/sett.png" alt="Pitceathly Chamberlain (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/">Pitceathly Chamberlain Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/"><img src="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/sett.png" alt="Pitceathly Chamberlain Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pitceathley-chamberlain/">Pitceathley Chamberlain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pitceathley-chamberlain/"><img src="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/sett.png" alt="Pitceathley Chamberlain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pitceathly-chamberlain/">Pitceathly Chamberlain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pitceathly-chamberlain/"><img src="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/sett.png" alt="Pitceathly Chamberlain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

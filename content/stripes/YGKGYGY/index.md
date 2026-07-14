@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/">Angle, Green (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/"><img src="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/sett.png" alt="Angle, Green (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/angle/">Angle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/angle/"><img src="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/sett.png" alt="Angle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "McCulloch, Grant"
   url: "/tartans/m/mc/mcculloch-grant/"
 - name: "McCulloch, Grant (Personal)"
-  url: "/setts/g6db1g1db1g3lb2r1lb2t3db1t1db1t6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g6db1g1db1g3lb2r1lb2t3db1t1db1t6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcculloch-grant/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBWRWGBGBG](/stripes/bbbbbwrwgbgbg/).
 
 Part of the [McCulloch, Grant](/tartans/m/mc/mcculloch-grant/) tartan — the named design grouping this sett with its other cloths.

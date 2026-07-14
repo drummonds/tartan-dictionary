@@ -8,15 +8,15 @@ crumbs:
 - name: "Pike Personal Weavers"
   url: "/tartans/p/pi/pike-personal-weavers/"
 - name: "Pike Personal Weavers Tartan"
-  url: "/setts/g10k3g3k20dp3k5g3k20g3k3g10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g10k3g3k20dp3k5g3k20g3k3g10/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGKGKBKGKGKGKBKGKGK](/stripes/gkgkgkbkgkgkgkbkgkgk/).
+provenance below. It is one weaving of the [sett](/tartans/p/pi/pike-personal-weavers/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKBKGKGKG](/stripes/gkgkbkgkgkg/).
 
 Part of the [Pike Personal Weavers](/tartans/p/pi/pike-personal-weavers/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3229](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3229)
 
@@ -41,9 +41,11 @@ Earliest known date: 2/4/02 Darker version, final design
 </details>
 
 ## Thread count
-G/20 K6 G6 K40 G6 K10 DP6 K40 G6 K6 G20 K6 G6 K40 DP6 K10 G6 K40 G6 K/6
+G/20 K6 G6 K40 DP6 K10 G6 K40 G6 K6 G/20
 
-One full sett is **558 threads**.
+One full sett is **292 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/20 K6 G6 K40 G6 K10 DP6 K40 G6 K6 G20 K6 G6 K40 DP6 K10 G6 K40 G6 K/6 — 558 threads; it folds to the canonical 292-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **558 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/20 K6 G6 K40 G6 K10 DP6 K40 G6 K6 G20 K6 G6 K40 DP6 K10 G6 K40 G6 K/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/20 K6 G6 K40 DP6 K10 G6 K40 G6 K6 G/20 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

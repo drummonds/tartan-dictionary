@@ -28,12 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/">Deeside</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/"><img src="/variants/s7/y1b5g1n7dp2n1w1~x4/sett.png" alt="Deeside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/y1db5g1n7dp2n1w1~x4/">Deeside District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y1db5g1n7dp2n1w1~x4/"><img src="/variants/s7/y1db5g1n7dp2n1w1~x4/sett.png" alt="Deeside District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/">Deeside Plaid (Taobh Dhi) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/"><img src="/variants/s7/y4b22g4n24dp6n4w3~x2/sett.png" alt="Deeside Plaid (Taobh Dhi) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/deeside/">Deeside</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/deeside/"><img src="/variants/s7/y4b22g4n24dp6n4w3~x2/sett.png" alt="Deeside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

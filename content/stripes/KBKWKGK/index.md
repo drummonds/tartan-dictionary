@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k6y2k16lb6k3db18k2~x2/">Carrick High School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k6y2k16lb6k3db18k2~x2/"><img src="/variants/s7/k6y2k16lb6k3db18k2~x2/sett.png" alt="Carrick High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carrick-high/">Carrick High</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carrick-high/"><img src="/variants/s7/k6y2k16lb6k3db18k2~x2/sett.png" alt="Carrick High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

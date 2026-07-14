@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y21g26db62w2dg2w2/">Nynashamn Whisky Society (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y21g26db62w2dg2w2/"><img src="/variants/s6/y21g26db62w2dg2w2/sett.png" alt="Nynashamn Whisky Society (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ny/nynaeshamn-whisky-society/">Nynaeshamn Whisky Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ny/nynaeshamn-whisky-society/"><img src="/variants/s6/y21g26db62w2dg2w2/sett.png" alt="Nynaeshamn Whisky Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

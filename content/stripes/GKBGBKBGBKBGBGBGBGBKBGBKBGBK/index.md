@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/k2dr30dg2dr3k2dr6dg1dr6k2dr3dg2dr13y2dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/">Williams of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/k2dr30dg2dr3k2dr6dg1dr6k2dr3dg2dr13y2dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/"><img src="/variants/s28/k2dr30dg2dr3k2dr6dg1dr6k2dr3dg2dr13y2dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/sett.png" alt="Williams of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/williams-of-wales/">Williams of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/williams-of-wales/"><img src="/variants/s28/k2dr30dg2dr3k2dr6dg1dr6k2dr3dg2dr13y2dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/sett.png" alt="Williams of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

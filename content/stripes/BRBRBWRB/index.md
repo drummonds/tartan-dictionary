@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/b10r24b4r3b24w2r6b6~x2/">Embrace, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b10r24b4r3b24w2r6b6~x2/"><img src="/variants/s8/b10r24b4r3b24w2r6b6~x2/sett.png" alt="Embrace, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/em/embrace/">Embrace</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/em/embrace/"><img src="/variants/s8/b10r24b4r3b24w2r6b6~x2/sett.png" alt="Embrace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/">Orkney Slate (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/"><img src="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/sett.png" alt="Orkney Slate (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/orkney-slate/">Orkney Slate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orkney-slate/"><img src="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/sett.png" alt="Orkney Slate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

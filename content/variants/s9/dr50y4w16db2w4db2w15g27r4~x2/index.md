@@ -8,10 +8,10 @@ crumbs:
 - name: "Rosevear"
   url: "/tartans/r/ro/rosevear/"
 - name: "Rosevear Family/Clan Tartan"
-  url: "/setts/dr50y4w16db2w4db2w15g27r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr50y4w16db2w4db2w15g27r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/rosevear/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBWBWGR](/stripes/bgwbwbwgr/).
 
 Part of the [Rosevear](/tartans/r/ro/rosevear/) tartan — the named design grouping this sett with its other cloths.

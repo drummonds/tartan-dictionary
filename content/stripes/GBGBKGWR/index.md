@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/">Sheffield, City of (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/"><img src="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/sett.png" alt="Sheffield, City of (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/sheffield-city-of-2/">Sheffield, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/sheffield-city-of-2/"><img src="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/sett.png" alt="Sheffield, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

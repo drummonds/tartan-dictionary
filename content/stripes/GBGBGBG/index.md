@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/">Blackwood (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/"><img src="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/sett.png" alt="Blackwood (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/">Blackwood (Loch Wood)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/"><img src="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/sett.png" alt="Blackwood (Loch Wood) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blackwood/">Blackwood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blackwood/"><img src="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/sett.png" alt="Blackwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

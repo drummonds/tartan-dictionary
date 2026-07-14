@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/">Welsh Assembly</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/"><img src="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/sett.png" alt="Welsh Assembly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/welsh-assembly-2/">Welsh Assembly</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/welsh-assembly-2/"><img src="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/sett.png" alt="Welsh Assembly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

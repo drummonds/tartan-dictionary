@@ -8,10 +8,10 @@ crumbs:
 - name: "Fox-Eves Wedding"
   url: "/tartans/f/fo/fox-eves-wedding-2/"
 - name: "Fox-Eves Wedding"
-  url: "/setts/r9db6dbi13db21y18w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r9db6dbi13db21y18w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/fox-eves-wedding-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBGW](/stripes/rbbbgw/).
 
 Part of the [Fox-Eves Wedding](/tartans/f/fo/fox-eves-wedding-2/) tartan — the named design grouping this sett with its other cloths.

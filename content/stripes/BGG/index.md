@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/dp10g12y1~x2~dp1607327/">Wilson's No.081</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dp10g12y1~x2~dp1607327/"><img src="/variants/s3/dp10g12y1~x2~dp1607327/sett.png" alt="Wilson's No.081 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/dp2g4y1~x4/">Wilson's No.201</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dp2g4y1~x4/"><img src="/variants/s3/dp2g4y1~x4/sett.png" alt="Wilson's No.201 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/dp5g6y1~x4/">Wilson's, No 81</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dp5g6y1~x4/"><img src="/variants/s3/dp5g6y1~x4/sett.png" alt="Wilson's, No 81 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-081/">Wilson's No.081</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-081/"><img src="/variants/s3/dp10g12y1~x2~dp1607327/sett.png" alt="Wilson's No.081 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-201/">Wilson's No.201</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-201/"><img src="/variants/s3/dp2g4y1~x4/sett.png" alt="Wilson's No.201 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-81/">Wilson's, No 81</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-81/"><img src="/variants/s3/dp5g6y1~x4/sett.png" alt="Wilson's, No 81 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

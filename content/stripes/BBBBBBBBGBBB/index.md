@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/">Cara O Cruz</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/"><img src="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/sett.png" alt="Cara O Cruz sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cara-o-cruz/">Cara O Cruz</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cara-o-cruz/"><img src="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/sett.png" alt="Cara O Cruz sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Laing"
   url: "/tartans/l/la/laing/"
 - name: "Laing Clan/Family Tartan"
-  url: "/setts/r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/laing/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBRBKBKBKBKBKBKBRBGBGBGR](/stripes/gbgbgbrbkbkbkbkbkbkbrbgbgbgr/).
 
 Part of the [Laing](/tartans/l/la/laing/) tartan — the named design grouping this sett with its other cloths.

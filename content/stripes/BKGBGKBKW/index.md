@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/">Dove (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><img src="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/sett.png" alt="Dove (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dove/">Dove</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dove/"><img src="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/sett.png" alt="Dove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/">Blue Castlefield (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/"><img src="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/sett.png" alt="Blue Castlefield (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blue-castlefield-2/">Blue Castlefield</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-castlefield-2/"><img src="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/sett.png" alt="Blue Castlefield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

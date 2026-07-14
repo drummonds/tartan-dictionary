@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g8k7db8r2db8k7g8k2~x2/">Denholm</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g8k7db8r2db8k7g8k2~x2/"><img src="/variants/s8/g8k7db8r2db8k7g8k2~x2/sett.png" alt="Denholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/denholm/">Denholm</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/denholm/"><img src="/variants/s8/g8k7db8r2db8k7g8k2~x2/sett.png" alt="Denholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

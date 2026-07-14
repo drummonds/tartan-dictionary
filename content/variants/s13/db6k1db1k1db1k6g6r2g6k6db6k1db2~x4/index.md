@@ -11,11 +11,11 @@ crumbs:
   url: "/families/murray/"
 - name: "Murray"
   url: "/tartans/m/mu/murray/"
-- name: "Murray"
-  url: "/setts/db6k1db1k1db1k6g6r2g6k6db6k1db2/"
+- name: "Murray #2"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6k1db1k1db1k6g6r2g6k6db6k1db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murray/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRGKBKB](/stripes/bkbkbkgrgkbkb/).
 
 Part of the [Murray](/tartans/m/mu/murray/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3057](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1831 — Murray #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3057">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A version of the Murray sett but with a single red on the green and two blue pivots. Vestiarium Scoticum No: 61. The Setts No: 202. Logan's count for the Murray tartan shows a red line centred in the green only. This is No. 347 in James Scarlett's 'Highland Textile'.</em></li>
-<li>1885 — NSW Scottish Rifles (Military) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=226">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>An Australian regiment dating back to 1885. The tartan is based on the ubiquitous Black Watch and was used by the regiment from 1885 - 1911. Same as early version of Murray/MacKinlay.)..</em></li>
+<li>1885 — NSW Scottish Rifles (Military) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/226/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>An Australian regiment dating back to 1885. The tartan is based on the ubiquitous Black Watch and was used by the regiment from 1885 - 1911. Same as early version of Murray/MacKinlay.)..</em></li>
 </ul>
 </details>
 

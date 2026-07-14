@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/">Italian (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/"><img src="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/sett.png" alt="Italian (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/it/italian/">Italian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/it/italian/"><img src="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/sett.png" alt="Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

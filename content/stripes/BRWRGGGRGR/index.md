@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/t20o2w1o5g8y1g2r1g8o8~x4~o2500000-w4000000-r2109032/">Connecticut, State of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/t20o2w1o5g8y1g2r1g8o8~x4~o2500000-w4000000-r2109032/"><img src="/variants/s10/t20o2w1o5g8y1g2r1g8o8~x4~o2500000-w4000000-r2109032/sett.png" alt="Connecticut, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connecticut-state/">Connecticut State</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connecticut-state/"><img src="/variants/s10/t20o2w1o5g8y1g2r1g8o8~x4~o2500000-w4000000-r2109032/sett.png" alt="Connecticut State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

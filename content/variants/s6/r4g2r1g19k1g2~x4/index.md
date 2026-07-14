@@ -8,15 +8,15 @@ crumbs:
 - name: "Loch Laggan"
   url: "/tartans/l/lo/loch-laggan/"
 - name: "Loch Laggan"
-  url: "/setts/r4g2r1g19k1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4g2r1g19k1g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGRGRGRGK](/stripes/gkgrgrgrgk/).
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-laggan/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGRGR](/stripes/gkgrgr/).
 
 Part of the [Loch Laggan](/tartans/l/lo/loch-laggan/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2147](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2147)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 796
 
 ## Thread count
-G/8 K4 G76 R4 G8 R16 G8 R4 G76 K/4
+R/16 G8 R4 G76 K4 G/8
 
-One full sett is **404 threads**.
+One full sett is **208 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/8 K4 G76 R4 G8 R16 G8 R4 G76 K/4 — 404 threads; it folds to the canonical 208-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **404 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/8 K4 G76 R4 G8 R16 G8 R4 G76 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/16 G8 R4 G76 K4 G/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

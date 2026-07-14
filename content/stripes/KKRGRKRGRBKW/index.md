@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k9r2g3r2k15r2g3r2t20k1lb6~x2~t2503227-lb3200000/">Royal Scottish Pipe Band Association</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k9r2g3r2k15r2g3r2t20k1lb6~x2~t2503227-lb3200000/"><img src="/variants/s11/k9r2g3r2k15r2g3r2t20k1lb6~x2~t2503227-lb3200000/sett.png" alt="Royal Scottish Pipe Band Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-scottish-pipe-band-association-2/">Royal Scottish Pipe Band Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-scottish-pipe-band-association-2/"><img src="/variants/s11/k9r2g3r2k15r2g3r2t20k1lb6~x2~t2503227-lb3200000/sett.png" alt="Royal Scottish Pipe Band Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

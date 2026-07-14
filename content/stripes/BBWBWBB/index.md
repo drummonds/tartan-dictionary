@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db3n1w1n25w1n1dp3~x2/">St Giles Check Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3n1w1n25w1n1dp3~x2/"><img src="/variants/s7/db3n1w1n25w1n1dp3~x2/sett.png" alt="St Giles Check Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp3n1w1n25w1n1t3~x4/">St. Giles Check (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp3n1w1n25w1n1t3~x4/"><img src="/variants/s7/dp3n1w1n25w1n1t3~x4/sett.png" alt="St. Giles Check (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-giles-check/">St Giles Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-giles-check/"><img src="/variants/s7/db3n1w1n25w1n1dp3~x2/sett.png" alt="St Giles Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

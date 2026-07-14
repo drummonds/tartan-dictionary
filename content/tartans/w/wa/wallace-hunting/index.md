@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/wallace/"
 - name: "Wallace"
   url: "/families/wallace/"
+aliases:
+- "/setts/dg8k8ly1k8dg8k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkykgk/">GKYKGK</a></nav>
 A tartan of the [Wallace](/families/wallace/) family.
 Its design is pattern [GKYKGK](/stripes/gkykgk/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **Wallace Hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg8k8ly1k8dg8k1/">Wallace Hunting</a></td><td><code>DG/32 K32 LY4 K32 DG32 K/4</code></td><td>236</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg8k8ly1k8dg8k1/"><img src="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/sett.png" alt="Wallace Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/">Wallace Hunting</a></td><td><code>DG/32 K32 LY4 K32 DG32 K/4</code></td><td>236</td><td>1980</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/"><img src="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/sett.png" alt="Wallace Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -33,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g30k12g6k6db2k5~x2/"><circle cx="320.2" cy="173.6" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="255.2" cy="149.4" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s5/k9g3k3g12y2~x4/"><circle cx="242.6" cy="236.9" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s8/k6y3k18g20k2db3k2g4~x2/"><circle cx="228.3" cy="164.6" r="4" fill="#3465a4"><title>Choinka</title></circle></a><a href="/variants/s6/dy7k2dy12k10g12k3~x2/"><circle cx="191.1" cy="261.0" r="4" fill="#3465a4"><title>Brown Watch</title></circle></a><a href="/variants/s5/k5g14k16db12g4~x2/"><circle cx="157.9" cy="281.5" r="4" fill="#3465a4"><title>Unnamed 1</title></circle></a><a href="/variants/s6/dr3k9g20k16g7t3~x2/"><circle cx="196.1" cy="218.7" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/variants/s6/k3t4g20k20g3ly3~x4/"><circle cx="192.1" cy="198.2" r="4" fill="#3465a4"><title>Michaluk</title></circle></a><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="148.9" cy="220.5" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s5/k3dg20k20g20k3~x2/"><circle cx="185.0" cy="247.0" r="4" fill="#3465a4"><title>MacCormick Hunting</title></circle></a><circle cx="255.4" cy="231.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g30k12g6k6db2k5~x2/"><circle cx="321.1" cy="173.8" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="255.9" cy="149.5" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s5/k9g3k3g12y2~x4/"><circle cx="243.2" cy="237.0" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s8/k6y3k18g20k2db3k2g4~x2/"><circle cx="229.0" cy="164.6" r="4" fill="#3465a4"><title>Choinka</title></circle></a><a href="/variants/s6/dy7k2dy12k10g12k3~x2/"><circle cx="191.4" cy="261.1" r="4" fill="#3465a4"><title>Brown Watch</title></circle></a><a href="/variants/s5/k5g14k16db12g4~x2/"><circle cx="158.2" cy="281.5" r="4" fill="#3465a4"><title>Unnamed 1</title></circle></a><a href="/variants/s6/dr3k9g20k16g7t3~x2/"><circle cx="196.6" cy="218.7" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/variants/s6/k3t4g20k20g3ly3~x4/"><circle cx="192.6" cy="198.2" r="4" fill="#3465a4"><title>Michaluk</title></circle></a><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="149.3" cy="220.4" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s5/k3dg20k20g20k3~x2/"><circle cx="185.3" cy="247.0" r="4" fill="#3465a4"><title>MacCormick Hunting</title></circle></a><circle cx="256.1" cy="231.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

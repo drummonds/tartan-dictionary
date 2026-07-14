@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Rikaco"
   url: "/clan/rikaco/"
+aliases:
+- "/setts/dbi4w2dbi1lb24dbi10w1db2w5db3r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbwbwbwbr/">BWBWBWBWBR</a></nav>
 A tartan of [Clan Rikaco](/clan/rikaco/).
 Its design is pattern [BWBWBWBWBR](/stripes/bwbwbwbwbr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Rikaco Morning Dew** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dbi4w2dbi1lb24dbi10w1db2w5db3r2/">Rikaco Morning Dew</a></td><td><code>DBi/8 W4 DBi2 LB48 DBi20 W2 DB4 W10 DB6 R/4</code></td><td>—</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dbi4w2dbi1lb24dbi10w1db2w5db3r2/"><img src="/variants/s10/dbi4w2dbi1lb24dbi10w1db2w5db3r2~x2~dbi1204274-db1106275/sett.png" alt="Rikaco Morning Dew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dbi4w2dbi1lb24dbi10w1db2w5db3r2~x2~dbi1204274-db1106275/">Rikaco Morning Dew</a></td><td><code>DBi/4 W2 DBi1 LB24 DBi10 W1 DB2 W5 DB3 R/2</code></td><td>—</td><td>2001</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dbi4w2dbi1lb24dbi10w1db2w5db3r2~x2~dbi1204274-db1106275/"><img src="/variants/s10/dbi4w2dbi1lb24dbi10w1db2w5db3r2~x2~dbi1204274-db1106275/sett.png" alt="Rikaco Morning Dew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

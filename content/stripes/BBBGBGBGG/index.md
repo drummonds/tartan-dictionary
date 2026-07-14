@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg2g8dt1g1dt1g1dt8db9n1~x4/">Cowal Highland Gathering</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg2g8dt1g1dt1g1dt8db9n1~x4/"><img src="/variants/s9/dg2g8dt1g1dt1g1dt8db9n1~x4/sett.png" alt="Cowal Highland Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cowal-highland-gathering/">Cowal Highland Gathering</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cowal-highland-gathering/"><img src="/variants/s9/dg2g8dt1g1dt1g1dt8db9n1~x4/sett.png" alt="Cowal Highland Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

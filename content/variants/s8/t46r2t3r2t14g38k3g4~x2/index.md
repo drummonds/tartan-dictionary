@@ -8,15 +8,15 @@ crumbs:
 - name: "Greenlaw, American"
   url: "/tartans/g/gr/greenlaw-american/"
 - name: "Greenlaw, American"
-  url: "/setts/t46r2t3r2t14g38k3g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t46r2t3r2t14g38k3g4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBRBGKGKGBRBR](/stripes/brbrbgkgkgbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/greenlaw-american/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBGKG](/stripes/brbrbgkg/).
 
 Part of the [Greenlaw, American](/tartans/g/gr/greenlaw-american/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1528)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1528](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Greenlaw, American (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1528">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Carol Clark Worthley of Hiram, Maine in the US for the American Greenlaws to coincide with 'Greenlaw 250' a celebration in 2003 of the arrival of the Greenlaw family in America in 1753. Sole US agents Tam o'Shanter Highland Outfitters. Woven by Lochcarron. Sample in Scottish Tartans Authority's Collection and Lochcarron swatch. Formal ownership passed from Stephen Snell (Co-ordinator) to the embryonic Greenlaw Family Association in October 2004. At its inaugural meeting, that association formally adopted the tartan as the official tartan of the American Greenlaw Family Association and by extension, the official tartan for the Greenlaws of North America. Copy of that resolution and associated documents held in the Scottish Tartans Authority's archives.</em></li>
-<li>2002 — Greenlaw, American (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5791">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Carol Clark Worthley of Hiram, Maine in the US for the American Greenlaws to coincide with 'Greenlaw 250' a celebration in 2003 of the arrival of the Greenlaw family in America in 1753. Sole US agents Tam o'Shanter Highland Outfitters, 19 S. Hiram Rd., Hiram, ME 04041. e-mail: worthly@psouth.net. Woven by Lochcarron. Sample in STA Collection + Lochcarron swatch. Formal ownership passed from Stephen Snell (Co-ordinator) to the embrionic Greenlaw Family Association in October 2004. At its inaugural meeting, that association formally adopted the tartan as the official tartan of the American Greenlaw Family Association and by extension, the official tartan for the Greenlaws of North America. Copy of that resolution and associated documents held in the STA archives.</em></li>
+<li>2002 — Greenlaw, American (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5791/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Carol Clark Worthley of Hiram, Maine in the US for the American Greenlaws to coincide with 'Greenlaw 250' a celebration in 2003 of the arrival of the Greenlaw family in America in 1753. Sole US agents Tam o'Shanter Highland Outfitters, 19 S. Hiram Rd., Hiram, ME 04041. e-mail: worthly@psouth.net. Woven by Lochcarron. Sample in STA Collection + Lochcarron swatch. Formal ownership passed from Stephen Snell (Co-ordinator) to the embrionic Greenlaw Family Association in October 2004. At its inaugural meeting, that association formally adopted the tartan as the official tartan of the American Greenlaw Family Association and by extension, the official tartan for the Greenlaws of North America. Copy of that resolution and associated documents held in the STA archives.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5791
 
 ## Thread count
-T/92 R4 T6 R4 T28 G76 K6 G8 K6 G76 T28 R4 T6 R/4
+T/92 R4 T6 R4 T28 G76 K6 G/8
 
-One full sett is **600 threads**.
+One full sett is **348 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/92 R4 T6 R4 T28 G76 K6 G8 K6 G76 T28 R4 T6 R/4 — 600 threads; it folds to the canonical 348-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **600 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/92 R4 T6 R4 T28 G76 K6 G8 K6 G76 T28 R4 T6 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/92 R4 T6 R4 T28 G76 K6 G/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

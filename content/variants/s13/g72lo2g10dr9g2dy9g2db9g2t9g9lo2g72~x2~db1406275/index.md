@@ -8,15 +8,15 @@ crumbs:
 - name: "U.S. Seabees"
   url: "/tartans/u/u/u-s-seabees/"
 - name: "U.S. Seabees"
-  url: "/setts/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GYGBGGGBGBGYGYGBGBGGGBGY](/stripes/gygbgggbgbgygygbgbgggbgy/).
+provenance below. It is one weaving of the [sett](/tartans/u/u/u-s-seabees/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGBGBGGGBGYG](/stripes/gygbgbgggbgyg/).
 
 Part of the [U.S. Seabees](/tartans/u/u/u-s-seabees/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4877](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4877)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3838
 
 ## Thread count
-G/144 LO4 G20 DR18 G4 DY18 G4 DB18 G4 T18 G18 LO4 G144 LO4 G18 T18 G4 DB18 G4 DY18 G4 DR18 G20 LO/4
+G/144 LO4 G20 DR18 G4 DY18 G4 DB18 G4 T18 G18 LO4 G/144
 
-One full sett is **948 threads**.
+One full sett is **548 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/144 LO4 G20 DR18 G4 DY18 G4 DB18 G4 T18 G18 LO4 G144 LO4 G18 T18 G4 DB18 G4 DY18 G4 DR18 G20 LO/4 — 948 threads; it folds to the canonical 548-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **948 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/144 LO4 G20 DR18 G4 DY18 G4 DB18 G4 T18 G18 LO4 G144 LO4 G18 T18 G4 DB18 G4 DY18 G4 DR18 G20 LO/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/144 LO4 G20 DR18 G4 DY18 G4 DB18 G4 T18 G18 LO4 G/144 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7~x4/">Debian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7~x4/"><img src="/variants/s36/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7~x4/sett.png" alt="Debian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/debian/">Debian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/debian/"><img src="/variants/s36/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7~x4/sett.png" alt="Debian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

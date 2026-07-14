@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/dg2g1dg2g1dg24r2dg10y1dg10w2dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2~x2/">Womens Royal Army Corps Assoc.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/dg2g1dg2g1dg24r2dg10y1dg10w2dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2~x2/"><img src="/variants/s22/dg2g1dg2g1dg24r2dg10y1dg10w2dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2~x2/sett.png" alt="Womens Royal Army Corps Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/womens-royal-army-corps-assoc/">Womens Royal Army Corps Assoc.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/womens-royal-army-corps-assoc/"><img src="/variants/s22/dg2g1dg2g1dg24r2dg10y1dg10w2dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2~x2/sett.png" alt="Womens Royal Army Corps Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g91y3k28n18r12b18w2g12~n1700000-r2209032/">Mull Millenium Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g91y3k28n18r12b18w2g12~n1700000-r2209032/"><img src="/variants/s8/g91y3k28n18r12b18w2g12~n1700000-r2209032/sett.png" alt="Mull Millenium Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g92dy3k28n18r12db18w2g12/">Mull Millennium</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g92dy3k28n18r12db18w2g12/"><img src="/variants/s8/g92dy3k28n18r12db18w2g12/sett.png" alt="Mull Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/mull-millenium/">Mull Millenium</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/mull-millenium/"><img src="/variants/s8/g91y3k28n18r12b18w2g12~n1700000-r2209032/sett.png" alt="Mull Millenium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/mull-millennium/">Mull Millennium</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/mull-millennium/"><img src="/variants/s8/g92dy3k28n18r12db18w2g12/sett.png" alt="Mull Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

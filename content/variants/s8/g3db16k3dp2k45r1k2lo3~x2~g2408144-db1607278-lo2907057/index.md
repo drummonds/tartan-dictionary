@@ -11,11 +11,11 @@ crumbs:
   url: "/families/cumnock/"
 - name: "Cumnock"
   url: "/tartans/c/cu/cumnock/"
-- name: "Cumnock"
-  url: "/setts/g3db16k3dp2k45r1k2lo3/"
+- name: "Cumnock District Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3db16k3dp2k45r1k2lo3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cumnock/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKRKY](/stripes/gbkbkrky/).
 
 Part of the [Cumnock](/tartans/c/cu/cumnock/) tartan — the named design grouping this sett with its other cloths.

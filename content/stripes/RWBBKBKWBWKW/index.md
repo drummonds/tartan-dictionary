@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/">YMCA</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/"><img src="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/sett.png" alt="YMCA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/ym/ymca-2/">YMCA</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ym/ymca-2/"><img src="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/sett.png" alt="YMCA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

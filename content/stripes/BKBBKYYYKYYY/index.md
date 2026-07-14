@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/">Merise and Lars (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/"><img src="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/sett.png" alt="Merise and Lars (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/merise-and-lars/">Merise and Lars</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/merise-and-lars/"><img src="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/sett.png" alt="Merise and Lars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/">Womack (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/"><img src="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/sett.png" alt="Womack (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/">Womack (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/"><img src="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/sett.png" alt="Womack (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/womack/">Womack</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/womack/"><img src="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/sett.png" alt="Womack sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

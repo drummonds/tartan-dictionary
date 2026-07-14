@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/">Aquascutum (Kinloch Anderson)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/"><img src="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/sett.png" alt="Aquascutum (Kinloch Anderson) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/aq/aquascutum/">Aquascutum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/aq/aquascutum/"><img src="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/sett.png" alt="Aquascutum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

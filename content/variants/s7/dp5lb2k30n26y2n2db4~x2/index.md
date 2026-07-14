@@ -8,10 +8,10 @@ crumbs:
 - name: "Milne-Murtagh"
   url: "/tartans/m/mi/milne-murtagh/"
 - name: "Milne-Murtagh (2009)"
-  url: "/setts/dp5lb2k30n26y2n2db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp5lb2k30n26y2n2db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/milne-murtagh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBKWB](/stripes/bbgbkwb/).
 
 Part of the [Milne-Murtagh](/tartans/m/mi/milne-murtagh/) tartan — the named design grouping this sett with its other cloths.

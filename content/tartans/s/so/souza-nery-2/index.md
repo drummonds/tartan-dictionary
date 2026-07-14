@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ly4g22r3k17r3db37w3/"
+- "/setts/y4g22r3k17r3db37w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbrkrgy/">WBRKRGY</a></nav>
 Its design is pattern [WBRKRGY](/stripes/wbrkrgy/) — the page of every tartan sharing this colour sequence.
 
 The **Souza Nery** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Souza Nery** tartan groups 2 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly4g22r3k17r3db37w3/">Souza Nery</a> ★</td><td><code>LY/8 G44 R6 K34 R6 DB74 W/6</code></td><td>342</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly4g22r3k17r3db37w3/"><img src="/variants/s7/ly4g22r3k17r3db37w3~x2/sett.png" alt="Souza Nery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/y4g22r3k17r3db37w3/">Souza Nery</a></td><td><code>Y/8 G44 R6 K34 R6 DB74 W/6</code></td><td>342</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y4g22r3k17r3db37w3/"><img src="/variants/s7/y4g22r3k17r3db37w3~x2/sett.png" alt="Souza Nery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/">Souza Nery</a> ★</td><td><code>LY/8 G44 R6 K34 R6 DB74 W/6</code></td><td>342</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><img src="/variants/s7/ly4g22r3k17r3db37w3~x2/sett.png" alt="Souza Nery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y4g22r3k17r3db37w3~x2/">Souza Nery</a></td><td><code>Y/8 G44 R6 K34 R6 DB74 W/6</code></td><td>342</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><img src="/variants/s7/y4g22r3k17r3db37w3~x2/sett.png" alt="Souza Nery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="86.4" cy="169.9" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s6/lb2g13r2k6db23w1~x4/"><circle cx="218.7" cy="122.3" r="4" fill="#3465a4"><title>Gamblin Thompson</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="162.1" cy="168.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="114.1" cy="170.0" r="4" fill="#3465a4"><title>Morris of Eddergoll</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="123.4" cy="170.2" r="4" fill="#3465a4"><title>Turnbull of Thornton</title></circle></a><a href="/variants/s7/y6g28r4k20r3db45k5~x2/"><circle cx="176.1" cy="152.6" r="4" fill="#3465a4"><title>Nery</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="146.7" cy="108.8" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="171.8" cy="167.6" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="151.0" cy="160.2" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="159.0" cy="118.2" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><circle cx="142.6" cy="140.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="86.6" cy="169.6" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s6/lb2g13r2k6db23w1~x4/"><circle cx="219.4" cy="122.2" r="4" fill="#3465a4"><title>Gamblin Thompson</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="162.5" cy="168.5" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="114.4" cy="169.7" r="4" fill="#3465a4"><title>Morris of Eddergoll</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="123.7" cy="169.9" r="4" fill="#3465a4"><title>Turnbull of Thornton</title></circle></a><a href="/variants/s7/y6g28r4k20r3db45k5~x2/"><circle cx="176.6" cy="152.4" r="4" fill="#3465a4"><title>Nery</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="147.3" cy="108.5" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="172.3" cy="167.5" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="151.3" cy="160.0" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="159.6" cy="117.9" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><circle cx="143.1" cy="140.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

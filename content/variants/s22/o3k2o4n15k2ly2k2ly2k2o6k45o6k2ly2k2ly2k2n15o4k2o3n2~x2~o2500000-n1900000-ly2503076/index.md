@@ -8,10 +8,10 @@ crumbs:
 - name: "Granton"
   url: "/tartans/g/gr/granton/"
 - name: "Granton"
-  url: "/setts/o3k2o4n15k2ly2k2ly2k2o6k45o6k2ly2k2ly2k2n15o4k2o3n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o3k2o4n15k2ly2k2ly2k2o6k45o6k2ly2k2ly2k2n15o4k2o3n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/granton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRBKYKYKRKRKYKYKBRKR](/stripes/brkrbkykykrkrkykykbrkr/).
 
 Part of the [Granton](/tartans/g/gr/granton/) tartan — the named design grouping this sett with its other cloths.

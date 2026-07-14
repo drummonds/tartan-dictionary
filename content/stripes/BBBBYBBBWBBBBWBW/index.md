@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12/">Henbury</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12/"><img src="/variants/s16/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12~dp1105325-ly3104101/sett.png" alt="Henbury sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/henbury/">Henbury</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/henbury/"><img src="/variants/s16/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12~dp1105325-ly3104101/sett.png" alt="Henbury sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

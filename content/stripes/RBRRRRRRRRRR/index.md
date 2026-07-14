@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/">Ferguson Red, George (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/"><img src="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/sett.png" alt="Ferguson Red, George (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-red-george/">Ferguson Red, George</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-red-george/"><img src="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/sett.png" alt="Ferguson Red, George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

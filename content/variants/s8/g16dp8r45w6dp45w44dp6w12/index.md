@@ -12,15 +12,15 @@ crumbs:
 - name: "Culloden Red Dress"
   url: "/tartans/c/cu/culloden-red-dress/"
 - name: "Culloden Red Dress (Dance)"
-  url: "/setts/g16dp8r45w6dp45w44dp6w12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16dp8r45w6dp45w44dp6w12/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWRBGBRWBWBW](/stripes/bwbwrbgbrwbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/c/cu/culloden-red-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBRWBWBW](/stripes/gbrwbwbw/).
 
 Part of the [Culloden Red Dress](/tartans/c/cu/culloden-red-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=827](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=827)
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 742
 
 ## Thread count
-W/12 DP6 W44 DP45 W6 R45 DP8 G16 DP8 R45 W6 DP45 W44 DP/6
+G/16 DP8 R45 W6 DP45 W44 DP6 W/12
 
-One full sett is **654 threads**.
+One full sett is **336 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/12 DP6 W44 DP45 W6 R45 DP8 G16 DP8 R45 W6 DP45 W44 DP/6 — 654 threads; it folds to the canonical 336-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **654 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/12 DP6 W44 DP45 W6 R45 DP8 G16 DP8 R45 W6 DP45 W44 DP/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/16 DP8 R45 W6 DP45 W44 DP6 W/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

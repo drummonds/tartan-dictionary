@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Air Force Lossiemouth"
   url: "/tartans/r/ro/royal-air-force-lossiemouth/"
 - name: "Royal Air Force Lossiemouth"
-  url: "/setts/y4k7dg3k27db10g4lb24r3lb24b4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4k7dg3k27db10g4lb24r3lb24b4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-air-force-lossiemouth/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWGBKGKG](/stripes/bwrwgbkgkg/).
 
 Part of the [Royal Air Force Lossiemouth](/tartans/r/ro/royal-air-force-lossiemouth/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/">Canuck Place</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/"><img src="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/sett.png" alt="Canuck Place sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canuck-place/">Canuck Place</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canuck-place/"><img src="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/sett.png" alt="Canuck Place sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

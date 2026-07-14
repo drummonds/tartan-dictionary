@@ -12,10 +12,10 @@ crumbs:
 - name: "MacNicol"
   url: "/tartans/m/ma/macnicol/"
 - name: "MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)"
-  url: "/setts/r8g2r8k8db1k3r2g15r8k2r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8g2r8k8db1k3r2g15r8k2r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macnicol/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRKBKRGRKR](/stripes/rgrkbkrgrkr/).
 
 Part of the [MacNicol](/tartans/m/ma/macnicol/) tartan — the named design grouping this sett with its other cloths.

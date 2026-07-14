@@ -8,10 +8,10 @@ crumbs:
 - name: "Hewitt"
   url: "/tartans/h/he/hewitt/"
 - name: "Hewitt"
-  url: "/setts/r30db12k6g12y2g3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r30db12k6g12y2g3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hewitt/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGGGW](/stripes/rbkgggw/).
 
 Part of the [Hewitt](/tartans/h/he/hewitt/) tartan — the named design grouping this sett with its other cloths.

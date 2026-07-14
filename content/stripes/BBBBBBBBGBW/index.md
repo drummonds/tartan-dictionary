@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/">Royal Highland Yacht Club (Corporate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><img src="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/sett.png" alt="Royal Highland Yacht Club (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-highland-yacht-club-corporate/">Royal Highland Yacht Club (Corporate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-highland-yacht-club-corporate/"><img src="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/sett.png" alt="Royal Highland Yacht Club (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

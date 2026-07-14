@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r1k23y3db16y3k22r1w1~x2/">Schöbitz (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r1k23y3db16y3k22r1w1~x2/"><img src="/variants/s8/r1k23y3db16y3k22r1w1~x2/sett.png" alt="Schöbitz (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/sch-bitz/">Schöbitz</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/sch-bitz/"><img src="/variants/s8/r1k23y3db16y3k22r1w1~x2/sett.png" alt="Schöbitz sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

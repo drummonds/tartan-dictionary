@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/">Dunans Rising</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/"><img src="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/sett.png" alt="Dunans Rising sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunans-rising/">Dunans Rising</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunans-rising/"><img src="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/sett.png" alt="Dunans Rising sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/y1dy5r5w1~x4/">Manx Mannin Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/y1dy5r5w1~x4/"><img src="/variants/s4/y1dy5r5w1~x4/sett.png" alt="Manx Mannin Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-mannin/">Manx Mannin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-mannin/"><img src="/variants/s4/y1dy5r5w1~x4/sett.png" alt="Manx Mannin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/lb2r4g5y1~x4/">Wilson's No.203</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb2r4g5y1~x4/"><img src="/variants/s4/lb2r4g5y1~x4/sett.png" alt="Wilson's No.203 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-203/">Wilson's No.203</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-203/"><img src="/variants/s4/lb2r4g5y1~x4/sett.png" alt="Wilson's No.203 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

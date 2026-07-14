@@ -12,15 +12,15 @@ crumbs:
 - name: "Oliver Hunting"
   url: "/tartans/o/ol/oliver-hunting/"
 - name: "Oliver Hunting"
-  url: "/setts/lb62g5lb3g22k3g3y3g3k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb62g5lb3g22k3g3y3g3k6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGGKGWGWGWGKGGGK](/stripes/gggkgwgwgwgkgggk/).
+provenance below. It is one weaving of the [sett](/tartans/o/ol/oliver-hunting/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGGGKGWGW](/stripes/kgggkgwgw/).
 
 Part of the [Oliver Hunting](/tartans/o/ol/oliver-hunting/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3240](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3240)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 126
 
 ## Thread count
-K/12 G6 Y6 G6 K6 G44 LB6 G10 LB124 G10 LB6 G44 K6 G6 Y6 G/6
+LB/124 G10 LB6 G44 K6 G6 Y6 G6 K/12
 
-One full sett is **590 threads**.
+One full sett is **304 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/12 G6 Y6 G6 K6 G44 LB6 G10 LB124 G10 LB6 G44 K6 G6 Y6 G/6 — 590 threads; it folds to the canonical 304-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **590 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 G6 Y6 G6 K6 G44 LB6 G10 LB124 G10 LB6 G44 K6 G6 Y6 G/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/124 G10 LB6 G44 K6 G6 Y6 G6 K/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

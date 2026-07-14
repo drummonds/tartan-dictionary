@@ -10,10 +10,10 @@ crumbs:
 - name: "Ferguson Red, George"
   url: "/tartans/f/fe/ferguson-red-george-2/"
 - name: "Ferguson Red, George (Architect)"
-  url: "/setts/dr8ri48riii6rii48riii3rii6riii6rii4riii8rii2riii22r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr8ri48riii6rii48riii3rii6riii6rii4riii8rii2riii22r8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/ferguson-red-george-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRRRRRRRRRRR](/stripes/brrrrrrrrrrr/).
 
 Part of the [Ferguson Red, George](/tartans/f/fe/ferguson-red-george-2/) tartan — the named design grouping this sett with its other cloths.

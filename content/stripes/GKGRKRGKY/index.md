@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/">Cozumel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/"><img src="/variants/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/sett.png" alt="Cozumel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cozumel/">Cozumel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cozumel/"><img src="/variants/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/sett.png" alt="Cozumel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

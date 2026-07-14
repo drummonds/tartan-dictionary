@@ -8,10 +8,10 @@ crumbs:
 - name: "Clan Pipers Frankfurt and District Pipe Band"
   url: "/tartans/c/cl/clan-pipers-frankfurt-and-district-pipe-band/"
 - name: "Clan Pipers Frankfurt and District Pipe Band"
-  url: "/setts/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clan-pipers-frankfurt-and-district-pipe-band/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKRKWKRKBKR](/stripes/bkbkbkrkwkrkbkr/).
 
 Part of the [Clan Pipers Frankfurt and District Pipe Band](/tartans/c/cl/clan-pipers-frankfurt-and-district-pipe-band/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10447](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/2011 — Clan Pipers Frankfurt and District Pipe Band (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10447">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #000080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><br><em>New uniform design for the Clan Pipers Frankfurt and District Pipe Band.</em></li>
-<li>23rd June 2011 — Frankfurt & Disttrict P & D (Corpora (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10447">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A new uniform design for the Clan Pipers FRankfurt and District Pipe Band.</em></li>
+<li>23rd June 2011 — Frankfurt & Disttrict P & D (Corpora (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10447/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A new uniform design for the Clan Pipers FRankfurt and District Pipe Band.</em></li>
 </ul>
 </details>
 

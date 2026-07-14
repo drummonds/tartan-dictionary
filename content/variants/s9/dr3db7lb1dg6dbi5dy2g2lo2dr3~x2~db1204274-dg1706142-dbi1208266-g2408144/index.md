@@ -8,10 +8,10 @@ crumbs:
 - name: "Bailey, Leslie A"
   url: "/tartans/b/ba/bailey-leslie-a/"
 - name: "Bailey, Leslie A (Personal)"
-  url: "/setts/dr3db7lb1dg6dbi5dy2g2lo2dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3db7lb1dg6dbi5dy2g2lo2dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bailey-leslie-a/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWGBGGYB](/stripes/bbwgbggyb/).
 
 Part of the [Bailey, Leslie A](/tartans/b/ba/bailey-leslie-a/) tartan — the named design grouping this sett with its other cloths.

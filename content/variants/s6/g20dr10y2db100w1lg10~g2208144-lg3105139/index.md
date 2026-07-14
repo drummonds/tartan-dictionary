@@ -8,10 +8,10 @@ crumbs:
 - name: "Ravetta, Phil"
   url: "/tartans/r/ra/ravetta-phil/"
 - name: "Ravetta, Phil (Fife)"
-  url: "/setts/g20dr10y2db100w1lg10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g20dr10y2db100w1lg10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/ravetta-phil/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBWY](/stripes/gbgbwy/).
 
 Part of the [Ravetta, Phil](/tartans/r/ra/ravetta-phil/) tartan — the named design grouping this sett with its other cloths.

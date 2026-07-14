@@ -10,15 +10,15 @@ crumbs:
 - name: "Menzies"
   url: "/families/menzies/"
 - name: "Menzies"
-  url: "/tartans/m/me/menzies/"
+  url: "/tartans/m/me/menzies-2/"
 - name: "Menzies (1938)"
-  url: "/setts/k36w4k3w4k6w2k1w12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k36w4k3w4k6w2k1w12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/menzies-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKW](/stripes/kwkwkwkw/).
 
-Part of the [Menzies](/tartans/m/me/menzies/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Menzies](/tartans/m/me/menzies-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2924](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1934 — Menzies (1938) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2924">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>From Robert Bain's book 1938. In 2006 it was regarded by the clan as its mourning tartan.</em></li>
-<li>pre 1934 — Menzies 1938 - Mourning (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1244">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>From Robert Bain's book 1938. Now (2006) regarded by the clan as its mourning tartan.</em></li>
+<li>pre 1934 — Menzies 1938 - Mourning (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1244/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>From Robert Bain's book 1938. Now (2006) regarded by the clan as its mourning tartan.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/">Monroig, Eric (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/"><img src="/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/sett.png" alt="Monroig, Eric (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/monroig-eric/">Monroig, Eric</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/monroig-eric/"><img src="/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/sett.png" alt="Monroig, Eric sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1~x2~db1404245-b1511266/">Khalsa</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1~x2~db1404245-b1511266/"><img src="/variants/s22/db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1~x2~db1404245-b1511266/sett.png" alt="Khalsa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/kh/khalsa/">Khalsa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kh/khalsa/"><img src="/variants/s22/db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1~x2~db1404245-b1511266/sett.png" alt="Khalsa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

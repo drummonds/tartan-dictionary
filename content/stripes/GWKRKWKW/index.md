@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w83k6w3k9r2k5w2y2~x2/">Crane of Cluny Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w83k6w3k9r2k5w2y2~x2/"><img src="/variants/s8/w83k6w3k9r2k5w2y2~x2/sett.png" alt="Crane of Cluny Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crane-of-cluny-dress/">Crane of Cluny Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crane-of-cluny-dress/"><img src="/variants/s8/w83k6w3k9r2k5w2y2~x2/sett.png" alt="Crane of Cluny Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

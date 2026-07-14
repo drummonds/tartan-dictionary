@@ -8,10 +8,10 @@ crumbs:
 - name: "Kendle"
   url: "/tartans/k/ke/kendle/"
 - name: "Kendle (2013)"
-  url: "/setts/r5db58lb4n6y4k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5db58lb4n6y4k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kendle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBWBR](/stripes/kgbwbr/).
 
 Part of the [Kendle](/tartans/k/ke/kendle/) tartan — the named design grouping this sett with its other cloths.

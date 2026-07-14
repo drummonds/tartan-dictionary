@@ -12,10 +12,10 @@ crumbs:
 - name: "Lorne"
   url: "/tartans/l/lo/lorne/"
 - name: "Lorne - Marquis of (Personal)"
-  url: "/setts/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lorne/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKGRGWGYGKGKGK](/stripes/bkgkgkgrgwgygkgkgk/).
 
 Part of the [Lorne](/tartans/l/lo/lorne/) tartan — the named design grouping this sett with its other cloths.

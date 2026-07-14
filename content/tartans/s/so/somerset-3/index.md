@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/somerset/"
 - name: "Somerset"
   url: "/families/somerset/"
+aliases:
+- "/setts/g8n8lb7b5o2k2o2k2o2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbwbrkrkr/">GBWBRKRKR</a></nav>
 A tartan of the [Somerset](/families/somerset/) family.
 Its design is pattern [GBWBRKRKR](/stripes/gbwbrkrkr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Somerset** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g8n8lb7b5o2k2o2k2o2/">Somerset</a></td><td><code>G/16 N16 LB14 B10 O4 K4 O4 K4 O/4</code></td><td>132</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8n8lb7b5o2k2o2k2o2/"><img src="/variants/s9/g8n8lb7b5o2k2o2k2o2~x2/sett.png" alt="Somerset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g8n8lb7b5o2k2o2k2o2~x2/">Somerset</a></td><td><code>G/16 N16 LB14 B10 O4 K4 O4 K4 O/4</code></td><td>132</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g8n8lb7b5o2k2o2k2o2~x2/"><img src="/variants/s9/g8n8lb7b5o2k2o2k2o2~x2/sett.png" alt="Somerset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g8n8lb7r5dy2k2dy2k2dy2~x2/"><circle cx="14.0" cy="222.6" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s8/g14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="215.8" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/"><circle cx="19.0" cy="223.1" r="4" fill="#3465a4"><title>Ellis</title></circle></a><a href="/variants/s9/g8n8lg7r5w2k2w2k2w2~x4/"><circle cx="14.0" cy="227.7" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s8/y1ly4k1r1k1g4w1g1~x8~ly2704144-g2304202/"><circle cx="66.6" cy="208.6" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s7/r3lb8k9g16r12n12lo3~x2/"><circle cx="16.0" cy="229.6" r="4" fill="#3465a4"><title>Alabama</title></circle></a><a href="/variants/s12/w3dr3k3dr10t7db8g4db3g3db3g13lo3~x2/"><circle cx="25.2" cy="198.5" r="4" fill="#3465a4"><title>Chattahoochee River</title></circle></a><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/"><circle cx="26.9" cy="185.4" r="4" fill="#3465a4"><title>Manderson</title></circle></a><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="214.1" r="4" fill="#3465a4"><title>Kilkenny County Crest</title></circle></a><a href="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="213.1" r="4" fill="#3465a4"><title>Kilkenny County, Crest Range</title></circle></a><circle cx="14.0" cy="228.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g8n8lb7r5dy2k2dy2k2dy2~x2/"><circle cx="14.0" cy="222.1" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s8/g14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="215.3" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/"><circle cx="18.8" cy="222.6" r="4" fill="#3465a4"><title>Ellis</title></circle></a><a href="/variants/s9/g8n8lg7r5w2k2w2k2w2~x4/"><circle cx="14.0" cy="227.2" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s8/y1ly4k1r1k1g4w1g1~x8~ly2704144-g2304202/"><circle cx="66.5" cy="208.2" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s7/r3lb8k9g16r12n12lo3~x2/"><circle cx="15.8" cy="229.1" r="4" fill="#3465a4"><title>Alabama</title></circle></a><a href="/variants/s12/w3dr3k3dr10t7db8g4db3g3db3g13lo3~x2/"><circle cx="25.0" cy="198.1" r="4" fill="#3465a4"><title>Chattahoochee River</title></circle></a><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/"><circle cx="26.9" cy="185.0" r="4" fill="#3465a4"><title>Manderson</title></circle></a><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="213.6" r="4" fill="#3465a4"><title>Kilkenny County Crest</title></circle></a><a href="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="212.6" r="4" fill="#3465a4"><title>Kilkenny County, Crest Range</title></circle></a><circle cx="14.0" cy="228.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

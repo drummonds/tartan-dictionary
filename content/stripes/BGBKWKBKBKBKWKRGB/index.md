@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24~x2/">Selkirk, New (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24~x2/"><img src="/variants/s17/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24~x2/sett.png" alt="Selkirk, New (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/selkirk-new/">Selkirk, New</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/selkirk-new/"><img src="/variants/s17/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24~x2~db1406275/sett.png" alt="Selkirk, New sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "MacDonald from Rawtenstall"
   url: "/tartans/m/ma/macdonald-from-rawtenstall/"
 - name: "MacDonald from Rawtenstall (Personal)"
-  url: "/setts/lb7w2dr7w4lb50w2k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb7w2dr7w4lb50w2k2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-from-rawtenstall/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWWWBWW](/stripes/rkwwwbww/).
 
 Part of the [MacDonald from Rawtenstall](/tartans/m/ma/macdonald-from-rawtenstall/) tartan — the named design grouping this sett with its other cloths.

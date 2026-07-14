@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/ly60w1o15w1ly9o15w1g9w1o15~x2/">Smith Hunting (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/ly60w1o15w1ly9o15w1g9w1o15~x2/"><img src="/variants/s10/ly60w1o15w1ly9o15w1g9w1o15~x2/sett.png" alt="Smith Hunting (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sm/smith-hunting/">Smith Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sm/smith-hunting/"><img src="/variants/s10/ly60w1o15w1ly9o15w1g9w1o15~x2/sett.png" alt="Smith Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

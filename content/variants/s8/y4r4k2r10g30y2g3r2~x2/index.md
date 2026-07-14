@@ -8,10 +8,10 @@ crumbs:
 - name: "Beard"
   url: "/tartans/b/be/beard/"
 - name: "Beard"
-  url: "/setts/y4r4k2r10g30y2g3r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4r4k2r10g30y2g3r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/beard/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRGGGR](/stripes/grkrgggr/).
 
 Part of the [Beard](/tartans/b/be/beard/) tartan — the named design grouping this sett with its other cloths.

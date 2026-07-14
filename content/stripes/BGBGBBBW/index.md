@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/">Yes Scotland (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/"><img src="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/sett.png" alt="Yes Scotland (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/ye/yes-scotland-2/">Yes Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ye/yes-scotland-2/"><img src="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/sett.png" alt="Yes Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

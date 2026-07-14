@@ -8,15 +8,15 @@ crumbs:
 - name: "St. Andrews"
   url: "/tartans/s/st/st-andrews-3/"
 - name: "St. Andrews (Queens University)"
-  url: "/setts/dy11db1dy11w10db1r11db1r11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy11db1dy11w10db1r11db1r11/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBWGBGBGWBRBR](/stripes/brbwgbgbgwbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-andrews-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGWBRBR](/stripes/gbgwbrbr/).
 
 Part of the [St. Andrews](/tartans/s/st/st-andrews-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3875](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3875)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3875](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — St. Andrews (Queens University) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3875">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><br><em>Scottish Tartans Society record states that this was adopted by Queens University, St Andrews and that its source was Bannockbane. The sett is certainly very close to that series of fashion tartans designed from the 1970s onwards.</em></li>
-<li>pre 2002 — St. Andrews (Queens University) (Cor (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1416">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><br><em>STS record states that this was adopted by Queens University, St Andrews and that its source was Bannockbane. The sett is certainly very close to that series of fashion tartans designed from the 1970s onwards.</em></li>
+<li>pre 2002 — St. Andrews (Queens University) (Cor (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1416/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><br><em>STS record states that this was adopted by Queens University, St Andrews and that its source was Bannockbane. The sett is certainly very close to that series of fashion tartans designed from the 1970s onwards.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1416
 
 ## Thread count
-R/22 DB2 R22 DB2 W20 DY22 DB2 DY22 DB2 DY22 W20 DB2 R22 DB/2
+DY/22 DB2 DY22 W20 DB2 R22 DB2 R/22
 
-One full sett is **344 threads**.
+One full sett is **184 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/22 DB2 R22 DB2 W20 DY22 DB2 DY22 DB2 DY22 W20 DB2 R22 DB/2 — 344 threads; it folds to the canonical 184-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **344 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/22 DB2 R22 DB2 W20 DY22 DB2 DY22 DB2 DY22 W20 DB2 R22 DB/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/22 DB2 DY22 W20 DB2 R22 DB2 R/22 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Philadelphia Police and Fire Pipes and Drums"
   url: "/tartans/p/ph/philadelphia-police-and-fire-pipes-and-drums/"
 - name: "Philadelphia Police and Fire Pipes and Drums"
-  url: "/setts/db9y4db4lb41db4r4lb4r15lb4r4db41w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db9y4db4lb41db4r4lb4r15lb4r4db41w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/ph/philadelphia-police-and-fire-pipes-and-drums/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBRWRWRBW](/stripes/bgbwbrwrwrbw/).
 
 Part of the [Philadelphia Police and Fire Pipes and Drums](/tartans/p/ph/philadelphia-police-and-fire-pipes-and-drums/) tartan — the named design grouping this sett with its other cloths.

@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k12g12k2g12k12db12lb3~x2/">MacIntyre Hunting Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k12g12k2g12k12db12lb3~x2/"><img src="/variants/s7/k12g12k2g12k12db12lb3~x2/sett.png" alt="MacIntyre Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/k8g8k1g8k8b8w2~x2/">Unnamed, No 31</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k8g8k1g8k8b8w2~x2/"><img src="/variants/s7/k8g8k1g8k8b8w2~x2/sett.png" alt="Unnamed, No 31 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macintyre-2/">MacIntyre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macintyre-2/"><img src="/variants/s7/k12g12k2g12k12db12lb3~x2/sett.png" alt="MacIntyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unnamed-no-31/">Unnamed, No 31</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-no-31/"><img src="/variants/s7/k8g8k1g8k8b8w2~x2/sett.png" alt="Unnamed, No 31 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/k11g12k2g12k12dp12w3~x2/">Wilson's No 97</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k11g12k2g12k12dp12w3~x2/"><img src="/variants/s7/k11g12k2g12k12dp12w3~x2/sett.png" alt="Wilson's No 97 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-97/">Wilson's No 97</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-97/"><img src="/variants/s7/k11g12k2g12k12dp12w3~x2/sett.png" alt="Wilson's No 97 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

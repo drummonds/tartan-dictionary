@@ -10,10 +10,10 @@ crumbs:
 - name: "Meeson Formal"
   url: "/tartans/m/me/meeson-formal/"
 - name: "Meeson Formal"
-  url: "/setts/lb26n10db19dr6dy2t9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb26n10db19dr6dy2t9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/meeson-formal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBW](/stripes/bgbbbw/).
 
 Part of the [Meeson Formal](/tartans/m/me/meeson-formal/) tartan — the named design grouping this sett with its other cloths.

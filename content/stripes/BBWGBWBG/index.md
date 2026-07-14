@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/t27db9lb3dg6db33lb3dr3y2/">Blue Ridge Highlands Heritage</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/t27db9lb3dg6db33lb3dr3y2/"><img src="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/sett.png" alt="Blue Ridge Highlands Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blue-ridge-highlands-heritage/">Blue Ridge Highlands Heritage</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-ridge-highlands-heritage/"><img src="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/sett.png" alt="Blue Ridge Highlands Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

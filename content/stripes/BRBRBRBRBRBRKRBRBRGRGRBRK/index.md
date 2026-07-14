@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/">Murray of Tullibardine #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/"><img src="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/sett.png" alt="Murray of Tullibardine #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-tullibardine-5/">Murray of Tullibardine 5</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-of-tullibardine-5/"><img src="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/sett.png" alt="Murray of Tullibardine 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

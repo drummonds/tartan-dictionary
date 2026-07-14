@@ -8,10 +8,10 @@ crumbs:
 - name: "Khosla, Sarah and Justin"
   url: "/tartans/k/kh/khosla-sarah-and-justin/"
 - name: "Khosla, Sarah and Jatin (Personal)"
-  url: "/setts/dp4n10r18ly3r3ly5ri8n9w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4n10r18ly3r3ly5ri8n9w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/kh/khosla-sarah-and-justin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRYRYRBW](/stripes/bbryryrbw/).
 
 Part of the [Khosla, Sarah and Justin](/tartans/k/kh/khosla-sarah-and-justin/) tartan — the named design grouping this sett with its other cloths.

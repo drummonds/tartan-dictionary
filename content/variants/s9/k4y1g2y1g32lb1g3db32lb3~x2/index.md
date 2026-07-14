@@ -12,10 +12,10 @@ crumbs:
 - name: "McClurg"
   url: "/tartans/m/mc/mcclurg/"
 - name: "McClurg"
-  url: "/setts/k4y1g2y1g32lb1g3db32lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4y1g2y1g32lb1g3db32lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcclurg/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGGGWGBW](/stripes/kggggwgbw/).
 
 Part of the [McClurg](/tartans/m/mc/mcclurg/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Hage-West"
   url: "/tartans/h/ha/hage-west/"
 - name: "Hage-West (Personal)"
-  url: "/setts/dg8k8dg8y6k3y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg8k8dg8y6k3y6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hage-west/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGKG](/stripes/gkggkg/).
 
 Part of the [Hage-West](/tartans/h/ha/hage-west/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10845](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>31/10/2012 — Hage-West (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10845">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#23321B;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #23321B"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1714;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #1C1714"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8E38C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #F8E38C"></span><br><em>Designed by Jamie Hage, born Jamie Vincent West, to celebrate his Irish heritage. The black, green and yellow colours are based on West family colours.</em></li>
-<li>2013 — Hage-West (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10845">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by Jamie Hage, born Jamie Vincent West, to celebrate his Irish heritage. The black, green and yellow colours are based on West family colours.</em></li>
+<li>2013 — Hage-West (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10845/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by Jamie Hage, born Jamie Vincent West, to celebrate his Irish heritage. The black, green and yellow colours are based on West family colours.</em></li>
 </ul>
 </details>
 

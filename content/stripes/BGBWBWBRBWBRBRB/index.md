@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db3r1db1r1db15w1db1r4db1w1db1lb15db1y1db3~x4/">Federal Memorial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db3r1db1r1db15w1db1r4db1w1db1lb15db1y1db3~x4/"><img src="/variants/s15/db3r1db1r1db15w1db1r4db1w1db1lb15db1y1db3~x4/sett.png" alt="Federal Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/b3r1b1r1b15w1b1r4b1w1b1lb15b1y1b3~x4/">Federal Memorial (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/b3r1b1r1b15w1b1r4b1w1b1lb15b1y1b3~x4/"><img src="/variants/s15/b3r1b1r1b15w1b1r4b1w1b1lb15b1y1b3~x4/sett.png" alt="Federal Memorial (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/federal-memorial/">Federal Memorial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/federal-memorial/"><img src="/variants/s15/db3r1db1r1db15w1db1r4db1w1db1lb15db1y1db3~x4/sett.png" alt="Federal Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

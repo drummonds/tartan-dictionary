@@ -8,10 +8,10 @@ crumbs:
 - name: "Grewar"
   url: "/tartans/g/gr/grewar/"
 - name: "Grewar"
-  url: "/setts/dy2gi2dy16gi2dp17dg10g10gi15dg1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy2gi2dy16gi2dp17dg10g10gi15dg1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grewar/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGBGGGGW](/stripes/ggggbggggw/).
 
 Part of the [Grewar](/tartans/g/gr/grewar/) tartan — the named design grouping this sett with its other cloths.

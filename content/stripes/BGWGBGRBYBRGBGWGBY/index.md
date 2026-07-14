@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/db44g5w2g2db2g2r2db3ly3db3r2g2db2g2w2g5db44ly4~x2/">Oxford University Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db44g5w2g2db2g2r2db3ly3db3r2g2db2g2w2g5db44ly4~x2/"><img src="/variants/s18/db44g5w2g2db2g2r2db3ly3db3r2g2db2g2w2g5db44ly4~x2/sett.png" alt="Oxford University Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ox/oxford-university-dress/">Oxford University Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ox/oxford-university-dress/"><img src="/variants/s18/db44g5w2g2db2g2r2db3ly3db3r2g2db2g2w2g5db44ly4~x2/sett.png" alt="Oxford University Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Erskine"
   url: "/tartans/e/er/erskine-4/"
 - name: "Erskine Purple (Dance) Fashion Tartan"
-  url: "/setts/dp6w2dp29w29dp2w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp6w2dp29w29dp2w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/er/erskine-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
 
 Part of the [Erskine](/tartans/e/er/erskine-4/) tartan — the named design grouping this sett with its other cloths.

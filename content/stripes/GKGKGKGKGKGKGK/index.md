@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/">Watertown Library Assoc.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/"><img src="/variants/s8/k4y2k27y2k8y31k2y4~x2/sett.png" alt="Watertown Library Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/justus-yellow/">Justus Yellow &amp;</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/justus-yellow/"><img src="/variants/s14/y20k19y8k3y3k3y3k40y5k10y15k40y3k3~x2/sett.png" alt="Justus Yellow &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

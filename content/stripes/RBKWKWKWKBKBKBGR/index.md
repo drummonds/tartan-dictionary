@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/">Royal Scottish Country Dance Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/"><img src="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/sett.png" alt="Royal Scottish Country Dance Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/rs/rscds/">RSCDS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/rs/rscds/"><img src="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/sett.png" alt="RSCDS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Marshall Fields"
   url: "/tartans/m/ma/marshall-fields/"
 - name: "Marshall Fields Corporate Tartan"
-  url: "/setts/g40db2w2db2y2db23g32r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g40db2w2db2y2db23g32r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/marshall-fields/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBGBGR](/stripes/gbwbgbgr/).
 
 Part of the [Marshall Fields](/tartans/m/ma/marshall-fields/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/r4k3r15g42w5db3lo3db13k13w66r4w2r2w10r2w2r4w66k13db13lo3db3w5g42r15k3r4w2/">Stewart/Stuart Dress (Four red lines)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/r4k3r15g42w5db3lo3db13k13w66r4w2r2w10r2w2r4w66k13db13lo3db3w5g42r15k3r4w2/"><img src="/variants/s28/r4k3r15g42w5db3lo3db13k13w66r4w2r2w10r2w2r4w66k13db13lo3db3w5g42r15k3r4w2/sett.png" alt="Stewart/Stuart Dress (Four red lines) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-stuart-dress/">Stewart/Stuart Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-stuart-dress/"><img src="/variants/s28/r4k3r15g42w5db3lo3db13k13w66r4w2r2w10r2w2r4w66k13db13lo3db3w5g42r15k3r4w2/sett.png" alt="Stewart/Stuart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

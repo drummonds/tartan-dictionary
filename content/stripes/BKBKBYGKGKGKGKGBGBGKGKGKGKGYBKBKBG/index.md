@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s34/db3k2db1k2db3lo1g3k2g2k6g2k6g2k2g24dr2g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/">Hislop Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s34/db3k2db1k2db3lo1g3k2g2k6g2k6g2k2g24dr2g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/"><img src="/variants/s34/db3k2db1k2db3lo1g3k2g2k6g2k6g2k2g24dr2g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/sett.png" alt="Hislop Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hislop-hunting/">Hislop Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hislop-hunting/"><img src="/variants/s34/db3k2db1k2db3lo1g3k2g2k6g2k6g2k2g24dr2g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/sett.png" alt="Hislop Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

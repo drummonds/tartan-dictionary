@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k50r1db3dp1~x4/">Alich (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k50r1db3dp1~x4/"><img src="/variants/s4/k50r1db3dp1~x4/sett.png" alt="Alich (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alich/">Alich</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alich/"><img src="/variants/s4/k50r1db3dp1~x4/sett.png" alt="Alich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

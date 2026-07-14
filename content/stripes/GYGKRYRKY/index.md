@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/">Durango</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/"><img src="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/sett.png" alt="Durango sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/durango/">Durango</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/durango/"><img src="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/sett.png" alt="Durango sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

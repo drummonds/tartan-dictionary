@@ -8,10 +8,10 @@ crumbs:
 - name: "Wilson's No.219"
   url: "/tartans/w/wi/wilson-s-no-219/"
 - name: "Wilson's No.219"
-  url: "/setts/dg7g6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg7g6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-219/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GG](/stripes/gg/).
 
 Part of the [Wilson's No.219](/tartans/w/wi/wilson-s-no-219/) tartan — the named design grouping this sett with its other cloths.

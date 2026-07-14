@@ -12,22 +12,22 @@ crumbs:
 - name: "Largs"
   url: "/tartans/l/la/largs-2/"
 - name: "Largs (1981) (District)"
-  url: "/setts/db4r4db44w6db5o4db3o8db3o16db4r24w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4r4db44w6db5o4db3o8db3o16db4r24w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/largs-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBRBRBRBRW](/stripes/brbwbrbrbrbrw/).
 
 Part of the [Largs](/tartans/l/la/largs-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=478](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=478)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/478/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/478/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1981 — Largs (1981) (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=478">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><br><em>Per "District Tartans" designed by Sidney Samuels 1981, but swatch handwoven by Marcella Castro in 1986. "District Tartans" calls for threads 1 & 11 to be royal blue, but this does not appear in that book's illustration nor in the swatch. Sample in STA's Johnston Collection.</em></li>
+<li>1981 — Largs (1981) (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/478/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><br><em>Per "District Tartans" designed by Sidney Samuels 1981, but swatch handwoven by Marcella Castro in 1986. "District Tartans" calls for threads 1 & 11 to be royal blue, but this does not appear in that book's illustration nor in the swatch. Sample in STA's Johnston Collection.</em></li>
 <li>01/01/1983 — Largs (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2051">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><br><em>Per 'District Tartans' designed by Sidney Samuels 1981, but swatch handwoven by Marcella Castro (a Handloom Weaver) in 1986. 'District Tartans' calls for threads 1 & 11 to be royal blue, but this does not appear in that book's illustration nor in the swatch. Sample in Scottish Tartans Authority Johnston Collection. created for the town and officially adopted in 1981. There is also a dress version.</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=478](htt
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

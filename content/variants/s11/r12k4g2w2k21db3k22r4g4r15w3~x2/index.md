@@ -10,10 +10,10 @@ crumbs:
 - name: "MacDonald, Sir John A"
   url: "/tartans/m/ma/macdonald-sir-john-a/"
 - name: "MacDonald, Sir John A."
-  url: "/setts/r12k4g2w2k21db3k22r4g4r15w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12k4g2w2k21db3k22r4g4r15w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-sir-john-a/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGWKBKRGRW](/stripes/rkgwkbkrgrw/).
 
 Part of the [MacDonald, Sir John A](/tartans/m/ma/macdonald-sir-john-a/) tartan — the named design grouping this sett with its other cloths.

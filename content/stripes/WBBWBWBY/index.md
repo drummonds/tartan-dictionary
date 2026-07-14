@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/">Monaghan County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><img src="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/sett.png" alt="Monaghan County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/monaghan-county-crest/">Monaghan County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/monaghan-county-crest/"><img src="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/sett.png" alt="Monaghan County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

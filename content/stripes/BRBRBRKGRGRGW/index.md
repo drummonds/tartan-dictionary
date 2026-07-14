@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db8r1db2r3db12r1k12g12r3g2r1g4w1/">MacDonell of Glengarry D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db8r1db2r3db12r1k12g12r3g2r1g4w1/"><img src="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1/sett.png" alt="MacDonell of Glengarry D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonell-of-glengarry-d/">MacDonell of Glengarry D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonell-of-glengarry-d/"><img src="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1/sett.png" alt="MacDonell of Glengarry D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/">Braveheart -Warrior (hunting)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/"><img src="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/sett.png" alt="Braveheart -Warrior (hunting) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/braveheart-warrior/">Braveheart -Warrior</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braveheart-warrior/"><img src="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/sett.png" alt="Braveheart -Warrior sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

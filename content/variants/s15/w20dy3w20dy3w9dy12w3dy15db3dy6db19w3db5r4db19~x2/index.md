@@ -10,10 +10,10 @@ crumbs:
 - name: "Black and White Colourway"
   url: "/tartans/b/bl/black-and-white-colourway/"
 - name: "Black and White Colourway"
-  url: "/setts/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-and-white-colourway/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBGBGWGWGWGW](/stripes/brbwbgbgwgwgwgw/).
 
 Part of the [Black and White Colourway](/tartans/b/bl/black-and-white-colourway/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=272](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Black and White Colourway (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=272">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Sindex notes compiled by the Scottish Tartans Society say both this and STR #271 were used by James Buchanan & Co for a range of promotional material named Black & White.</em></li>
-<li>pre 2002 — Black & White Colourway (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2006">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Not sure what is meant by the use of the term 'Colourway' but Sindex notes say both this and #2042 were used by James Buchanan & Co., for a range of promotional material named Black & White.</em></li>
+<li>pre 2002 — Black & White Colourway (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2006/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Not sure what is meant by the use of the term 'Colourway' but Sindex notes say both this and #2042 were used by James Buchanan & Co., for a range of promotional material named Black & White.</em></li>
 </ul>
 </details>
 

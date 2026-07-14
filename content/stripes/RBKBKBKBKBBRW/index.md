@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/ri1db14k10db10k1db2k1db10k10dr8db2r2w1~x2~ri2806019-r2510029/">Hynett, William (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/ri1db14k10db10k1db2k1db10k10dr8db2r2w1~x2~ri2806019-r2510029/"><img src="/variants/s13/ri1db14k10db10k1db2k1db10k10dr8db2r2w1~x2~ri2806019-r2510029/sett.png" alt="Hynett, William (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hy/hynett-william/">Hynett, William</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hy/hynett-william/"><img src="/variants/s13/ri1db14k10db10k1db2k1db10k10dr8db2r2w1~x2~ri2806019-r2510029/sett.png" alt="Hynett, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

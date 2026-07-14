@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dp46b15k12o8g8dp8~x2/">Haut (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dp46b15k12o8g8dp8~x2/"><img src="/variants/s6/dp46b15k12o8g8dp8~x2/sett.png" alt="Haut (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/">Haut Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/"><img src="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/sett.png" alt="Haut Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/haut/">Haut</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haut/"><img src="/variants/s6/dp46b15k12o8g8dp8~x2/sett.png" alt="Haut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

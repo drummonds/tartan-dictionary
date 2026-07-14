@@ -12,10 +12,10 @@ crumbs:
 - name: "Hebridean 5"
   url: "/tartans/h/he/hebridean-5/"
 - name: "Hebridean 5"
-  url: "/setts/db25dbi2r25g10r4db25r2g2r25g2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db25dbi2r25g10r4db25r2g2r25g2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebridean-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRGRBRGRGR](/stripes/bbrgrbrgrgr/).
 
 Part of the [Hebridean 5](/tartans/h/he/hebridean-5/) tartan — the named design grouping this sett with its other cloths.

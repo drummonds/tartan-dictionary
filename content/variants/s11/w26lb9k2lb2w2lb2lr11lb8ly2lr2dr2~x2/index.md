@@ -8,10 +8,10 @@ crumbs:
 - name: "Manchester Blues Dress"
   url: "/tartans/m/ma/manchester-blues-dress/"
 - name: "Manchester Blues Dress"
-  url: "/setts/w26lb9k2lb2w2lb2lr11lb8ly2lr2dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w26lb9k2lb2w2lb2lr11lb8ly2lr2dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/manchester-blues-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYYWYWWWKWW](/stripes/byywywwwkww/).
 
 Part of the [Manchester Blues Dress](/tartans/m/ma/manchester-blues-dress/) tartan — the named design grouping this sett with its other cloths.

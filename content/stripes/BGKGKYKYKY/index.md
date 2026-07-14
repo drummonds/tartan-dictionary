@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/">Hickory</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/"><img src="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/sett.png" alt="Hickory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hickory-2/">Hickory</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hickory-2/"><img src="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/sett.png" alt="Hickory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

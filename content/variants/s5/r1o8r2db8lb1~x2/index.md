@@ -8,10 +8,10 @@ crumbs:
 - name: "Unamed, Riding cloak 1745"
   url: "/tartans/u/un/unamed-riding-cloak-1745-2/"
 - name: "Unamed, Riding cloak 1745"
-  url: "/setts/r1o8r2db8lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1o8r2db8lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unamed-riding-cloak-1745-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRRBW](/stripes/rrrbw/).
 
 Part of the [Unamed, Riding cloak 1745](/tartans/u/un/unamed-riding-cloak-1745-2/) tartan — the named design grouping this sett with its other cloths.

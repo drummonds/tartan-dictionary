@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/g16k11g16dr2~x4/">Kincaid of Kincaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g16k11g16dr2~x4/"><img src="/variants/s4/g16k11g16dr2~x4/sett.png" alt="Kincaid of Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kincaid-of-kincaid-2/">Kincaid of Kincaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kincaid-of-kincaid-2/"><img src="/variants/s4/g16k11g16dr2~x4/sett.png" alt="Kincaid of Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

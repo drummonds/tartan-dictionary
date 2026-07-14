@@ -12,15 +12,15 @@ crumbs:
 - name: "Gordon 2"
   url: "/tartans/g/go/gordon-2/"
 - name: "Gordon Clan"
-  url: "/setts/db23k3db3k3db3k17g22k2y4k2g22k17db22k3db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db23k3db3k3db3k17g22k2y4k2g22k17db22k3db3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGKGKBKBKBKGKGKGKBKBK](/stripes/bkbkbkgkgkgkbkbkbkgkgkgkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/g/go/gordon-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGKGKBKB](/stripes/bkbkbkgkgkgkbkb/).
 
 Part of the [Gordon 2](/tartans/g/go/gordon-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1453](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1453)
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 223
 
 ## Thread count
-DB/46 K6 DB6 K6 DB6 K34 G44 K4 Y8 K4 G44 K34 DB44 K6 DB6 K6 DB44 K34 G44 K4 Y8 K4 G44 K34 DB6 K6 DB6 K/6
+DB/46 K6 DB6 K6 DB6 K34 G44 K4 Y8 K4 G44 K34 DB44 K6 DB/6
 
-One full sett is **1036 threads**.
+One full sett is **544 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/46 K6 DB6 K6 DB6 K34 G44 K4 Y8 K4 G44 K34 DB44 K6 DB6 K6 DB44 K34 G44 K4 Y8 K4 G44 K34 DB6 K6 DB6 K/6 — 1036 threads; it folds to the canonical 544-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **1036 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/46 K6 DB6 K6 DB6 K34 G44 K4 Y8 K4 G44 K34 DB44 K6 DB6 K6 DB44 K34 G44 K4 Y8 K4 G44 K34 DB6 K6 DB6 K/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/46 K6 DB6 K6 DB6 K34 G44 K4 Y8 K4 G44 K34 DB44 K6 DB/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

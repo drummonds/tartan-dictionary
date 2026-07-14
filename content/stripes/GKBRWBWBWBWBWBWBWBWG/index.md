@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/">Gallacher, (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/"><img src="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/sett.png" alt="Gallacher, (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gallacher/">Gallacher</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gallacher/"><img src="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/sett.png" alt="Gallacher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

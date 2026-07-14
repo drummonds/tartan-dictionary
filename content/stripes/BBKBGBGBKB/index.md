@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/">Scottish Airports Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/"><img src="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/sett.png" alt="Scottish Airports Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-airports/">Scottish Airports</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-airports/"><img src="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/sett.png" alt="Scottish Airports sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

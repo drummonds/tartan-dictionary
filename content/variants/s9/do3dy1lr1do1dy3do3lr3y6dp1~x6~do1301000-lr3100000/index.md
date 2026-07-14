@@ -8,10 +8,10 @@ crumbs:
 - name: "Toorak Chapler"
   url: "/tartans/t/to/toorak-chapler/"
 - name: "Toorak Chapler"
-  url: "/setts/do3dy1lr1do1dy3do3lr3y6dp1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do3dy1lr1do1dy3do3lr3y6dp1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/toorak-chapler/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYBGBYGB](/stripes/bgybgbygb/).
 
 Part of the [Toorak Chapler](/tartans/t/to/toorak-chapler/) tartan — the named design grouping this sett with its other cloths.

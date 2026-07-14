@@ -28,18 +28,16 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/">British Caledonian Airways #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/"><img src="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/sett.png" alt="British Caledonian Airways #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/r18b2k3y1k1w1k1g4r2k1r1w1~x4/">Royal Stewart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r18b2k3y1k1w1k1g4r2k1r1w1~x4/"><img src="/variants/s12/r18b2k3y1k1w1k1g4r2k1r1w1~x4/sett.png" alt="Royal Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r36db4k6y1k1w1k1g8r4k1r2w1/">Stewart Royal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r36db4k6y1k1w1k1g8r4k1r2w1/"><img src="/variants/s12/r36db4k6y1k1w1k1g8r4k1r2w1/sett.png" alt="Stewart Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/r87db8k11y2k3w2k3g13r11k2r5w3/">Stewart/Stuart, Royal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r87db8k11y2k3w2k3g13r11k2r5w3/"><img src="/variants/s12/r87db8k11y2k3w2k3g13r11k2r5w3/sett.png" alt="Stewart/Stuart, Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r18db2k3y1k1w1k1g4r2k1r1w1/">Stewart/Stuart, Royal #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r18db2k3y1k1w1k1g4r2k1r1w1/"><img src="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x2/sett.png" alt="Stewart/Stuart, Royal #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/">TIlted Kilt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/"><img src="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/sett.png" alt="TIlted Kilt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/british-caledonian-airways/">British Caledonian Airways</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/british-caledonian-airways/"><img src="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/sett.png" alt="British Caledonian Airways sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-stewart-2/">Royal Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-stewart-2/"><img src="/variants/s12/r87db8k11y2k3w2k3g13r11k2r5w3/sett.png" alt="Royal Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-stewart-mini-design/">Royal Stewart MINI Design</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-stewart-mini-design/"><img src="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x2/sett.png" alt="Royal Stewart MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-royal/">Stewart Royal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-royal/"><img src="/variants/s12/r36db4k6y1k1w1k1g8r4k1r2w1/sett.png" alt="Stewart Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tilted/">TIlted</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tilted/"><img src="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/sett.png" alt="TIlted sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

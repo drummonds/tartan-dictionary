@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r5t3g24db24r4y2/"
+- "/setts/r10dbi6g24db24r6y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grbgbr/">GRBGBR</a></nav>
 Its design is pattern [GRBGBR](/stripes/grbgbr/) — the page of every tartan sharing this colour sequence.
 
 The **Canine All Dogs** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Canine All Dogs** tartan groups 2 setts — the same named design recorded
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r5t3g24db24r4y2/">Canine All Dogs</a> ★</td><td><code>R/10 T6 G48 DB48 R8 Y/4</code></td><td>234</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r5t3g24db24r4y2/"><img src="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/sett.png" alt="Canine All Dogs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r10dbi6g24db24r6y3/">(Fashion)</a></td><td><code>R/10 DBi6 G24 DB24 R6 Y/3</code></td><td>133</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r10dbi6g24db24r6y3/"><img src="r10dbi6g24db24r6y3-rev.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/">Canine All Dogs</a> ★</td><td><code>R/10 T6 G48 DB48 R8 Y/4</code></td><td>234</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><img src="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/sett.png" alt="Canine All Dogs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/">(Fashion)</a></td><td><code>R/10 DBi6 G24 DB24 R6 Y/3</code></td><td>133</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><img src="r10dbi6g24db24r6y3-rev.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="239.9" cy="236.0" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="203.4" cy="197.6" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="261.9" cy="180.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="166.5" cy="182.4" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="258.9" cy="170.0" r="4" fill="#3465a4"><title>Wright, Anne</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="235.5" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="221.9" cy="230.1" r="4" fill="#3465a4"><title>Alvis of Lee</title></circle></a><a href="/variants/s6/n7w1r6db10g10w1~x4/"><circle cx="137.1" cy="237.6" r="4" fill="#3465a4"><title>McEachem</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="229.9" cy="199.9" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="255.6" cy="211.9" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><circle cx="234.6" cy="201.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="240.1" cy="236.0" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="203.8" cy="197.5" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="262.4" cy="180.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="166.8" cy="182.1" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="259.3" cy="169.9" r="4" fill="#3465a4"><title>Wright, Anne</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="236.1" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="222.0" cy="229.9" r="4" fill="#3465a4"><title>Alvis of Lee</title></circle></a><a href="/variants/s6/n7w1r6db10g10w1~x4/"><circle cx="137.1" cy="237.3" r="4" fill="#3465a4"><title>McEachem</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="230.2" cy="199.8" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="255.8" cy="211.8" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><circle cx="234.9" cy="201.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

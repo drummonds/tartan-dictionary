@@ -12,10 +12,10 @@ crumbs:
 - name: "Sommerville"
   url: "/tartans/s/so/sommerville/"
 - name: "Sommerville Family Tartan"
-  url: "/setts/y2ri5r3g54r5g3r5db21ri5r3ri5g17r2db4r48ri5r3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2ri5r3g54r5g3r5db21ri5r3ri5g17r2db4r48ri5r3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/sommerville/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRGRGRBRRRGRBRRRW](/stripes/grrgrgrbrrrgrbrrrw/).
 
 Part of the [Sommerville](/tartans/s/so/sommerville/) tartan — the named design grouping this sett with its other cloths.

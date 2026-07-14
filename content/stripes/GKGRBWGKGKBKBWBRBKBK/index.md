@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3/">Shaw of Carolina (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3/"><img src="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~r2109032-db1204274/sett.png" alt="Shaw of Carolina (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shaw-of-carolina/">Shaw of Carolina</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shaw-of-carolina/"><img src="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~r2109032-db1204274/sett.png" alt="Shaw of Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

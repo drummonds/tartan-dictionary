@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr9g4dr6db4g2k2g2dr5db3lo2k2lo2~x2/">Westgaard Htg (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr9g4dr6db4g2k2g2dr5db3lo2k2lo2~x2/"><img src="/variants/s12/dr9g4dr6db4g2k2g2dr5db3lo2k2lo2~x2/sett.png" alt="Westgaard Htg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westgaard-hunting/">Westgaard Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westgaard-hunting/"><img src="/variants/s12/dr9g4dr6db4g2k2g2dr5db3lo2k2lo2~x2/sett.png" alt="Westgaard Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

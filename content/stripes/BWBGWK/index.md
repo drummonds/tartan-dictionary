@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k2w1g5dr1lb18dr2~x2/">Norris (1998) (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k2w1g5dr1lb18dr2~x2/"><img src="/variants/s6/k2w1g5dr1lb18dr2~x2/sett.png" alt="Norris (1998) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/norris/">Norris</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norris/"><img src="/variants/s6/k2w1g5dr1lb18dr2~x2/sett.png" alt="Norris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

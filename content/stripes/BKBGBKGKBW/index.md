@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/">European Union (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><img src="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/sett.png" alt="European Union (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/eu/european-union-2/">European Union</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eu/european-union-2/"><img src="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/sett.png" alt="European Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

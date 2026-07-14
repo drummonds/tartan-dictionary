@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/">1314 (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><img src="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/sett.png" alt="1314 (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/1314/">1314</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/1314/"><img src="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/sett.png" alt="1314 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

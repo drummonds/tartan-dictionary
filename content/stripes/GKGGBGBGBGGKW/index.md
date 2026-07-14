@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/">Campbell, Brown (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/"><img src="/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/sett.png" alt="Campbell, Brown (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-7/">Campbell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-7/"><img src="/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/sett.png" alt="Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

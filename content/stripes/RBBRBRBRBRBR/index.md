@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/">Drumbeg</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/"><img src="/variants/s12/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/sett.png" alt="Drumbeg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drumbeg/">Drumbeg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drumbeg/"><img src="/variants/s12/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/sett.png" alt="Drumbeg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

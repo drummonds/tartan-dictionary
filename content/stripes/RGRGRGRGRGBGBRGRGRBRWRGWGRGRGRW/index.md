@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/">MacDonald of Staffa #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><img src="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/sett.png" alt="MacDonald of Staffa #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-staffa-1/">MacDonald of Staffa 1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-1/"><img src="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/sett.png" alt="MacDonald of Staffa 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

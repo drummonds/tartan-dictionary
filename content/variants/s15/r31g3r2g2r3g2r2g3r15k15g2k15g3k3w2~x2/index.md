@@ -12,10 +12,10 @@ crumbs:
 - name: "Moir"
   url: "/tartans/m/mo/moir-2/"
 - name: "Moir (Loch Insh) (Personal)"
-  url: "/setts/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/moir-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRGRGRKGKGKW](/stripes/rgrgrgrgrkgkgkw/).
 
 Part of the [Moir](/tartans/m/mo/moir-2/) tartan — the named design grouping this sett with its other cloths.

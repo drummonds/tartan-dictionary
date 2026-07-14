@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/">Bannockbane Hunting (MacBean and Bishop)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><img src="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/sett.png" alt="Bannockbane Hunting (MacBean and Bishop) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bannockbane-hunting/">Bannockbane Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-hunting/"><img src="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/sett.png" alt="Bannockbane Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w4do1t32g5do4w4do4g5do5ly10do4ly4do23ly4~x2/">State Seal of Oklahoma (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w4do1t32g5do4w4do4g5do5ly10do4ly4do23ly4~x2/"><img src="/variants/s14/w4do1t32g5do4w4do4g5do5ly10do4ly4do23ly4~x2/sett.png" alt="State Seal of Oklahoma (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-oklahoma/">State Seal of Oklahoma</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-oklahoma/"><img src="/variants/s14/w4do1t32g5do4w4do4g5do5ly10do4ly4do23ly4~x2/sett.png" alt="State Seal of Oklahoma sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

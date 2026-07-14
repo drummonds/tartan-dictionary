@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k8db8k2db2w2k5db5r2~x5/">Lexington Fire Department</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k8db8k2db2w2k5db5r2~x5/"><img src="/variants/s8/k8db8k2db2w2k5db5r2~x5/sett.png" alt="Lexington Fire Department sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lexington-fire-department/">Lexington Fire Department</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lexington-fire-department/"><img src="/variants/s8/k8db8k2db2w2k5db5r2~x5/sett.png" alt="Lexington Fire Department sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

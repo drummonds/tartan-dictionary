@@ -8,10 +8,10 @@ crumbs:
 - name: "Pride of the Glen"
   url: "/tartans/p/pr/pride-of-the-glen/"
 - name: "Pride of the Glen"
-  url: "/setts/g3db3dp4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3db3dp4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/pride-of-the-glen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBW](/stripes/gbbw/).
 
 Part of the [Pride of the Glen](/tartans/p/pr/pride-of-the-glen/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11091](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/07/2014 — Pride of the Glen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11091">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #000080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><br><em>The colours of this tartan were inspired by a journey through the Great Glen: the blue lochs, the conifers, purple for the heather and the snow-capped peaks of the mountains.</em></li>
-<li>2014 — Pride of the Glen (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11091">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This tartan was inspired by a journey through the Great Glen: the blue lochs, the green conifers, purple for the heather and the snow-capped peaks of the mountains. The tartan may only be reproduced with the written permission of Signature Ribbon Company Limited.</em></li>
+<li>2014 — Pride of the Glen (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11091/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This tartan was inspired by a journey through the Great Glen: the blue lochs, the green conifers, purple for the heather and the snow-capped peaks of the mountains. The tartan may only be reproduced with the written permission of Signature Ribbon Company Limited.</em></li>
 </ul>
 </details>
 

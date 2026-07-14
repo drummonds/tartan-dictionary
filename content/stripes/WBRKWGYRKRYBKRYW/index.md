@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/">Finzean's Fancy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/"><img src="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/sett.png" alt="Finzean's Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/finzean-s-fancy-2/">Finzean's Fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/finzean-s-fancy-2/"><img src="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/sett.png" alt="Finzean's Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

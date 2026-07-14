@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/">Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/"><img src="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blue-2/">Blue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-2/"><img src="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/lb60db19w3db2r2db7~x2/">Federal Bureaux (FBI) Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb60db19w3db2r2db7~x2/"><img src="/variants/s6/lb60db19w3db2r2db7~x2/sett.png" alt="Federal Bureaux (FBI) Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/federal-bureaux/">Federal Bureaux</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/federal-bureaux/"><img src="/variants/s6/lb60db19w3db2r2db7~x2/sett.png" alt="Federal Bureaux sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w1lo1k1lo12k12lo1k1lo1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wykykyky/">WYKYKYKY</a></nav>
 Its design is pattern [WYKYKYKY](/stripes/wykykyky/) — the page of every tartan sharing this colour sequence.
 
 The **Atlas Textile** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Atlas Textile** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w1lo1k1lo12k12lo1k1lo1/">Atlas Textile</a></td><td><code>LO/4 K4 LO4 K48 LO48 K4 LO4 W/4</code></td><td>232</td><td>1945</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w1lo1k1lo12k12lo1k1lo1/"><img src="/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/sett.png" alt="Atlas Textile sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/">Atlas Textile</a></td><td><code>W/4 LO4 K4 LO48 K48 LO4 K4 LO/4</code></td><td>232</td><td>1945</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/"><img src="/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/sett.png" alt="Atlas Textile sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k3dr1k14lo14dr1lo1dr1lo1dr2~x4/"><circle cx="246.3" cy="129.1" r="4" fill="#3465a4"><title>Brecheen</title></circle></a><a href="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/"><circle cx="278.6" cy="122.2" r="4" fill="#3465a4"><title>Johnston Orange/Black</title></circle></a><a href="/variants/s6/o72k16w9k4w5k16~x2/"><circle cx="320.2" cy="134.2" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/"><circle cx="276.8" cy="139.3" r="4" fill="#3465a4"><title>MacLeod Snuffbox</title></circle></a><a href="/variants/s9/k1y12r1y2k4r1k4y2k1~x4/"><circle cx="298.8" cy="142.8" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/"><circle cx="296.4" cy="173.9" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="234.0" cy="148.1" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><circle cx="285.5" cy="121.2" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="330.3" cy="162.6" r="4" fill="#3465a4"><title>Baileville</title></circle></a><a href="/variants/s7/r1lb5k8o18lb1k1lb1~x4/"><circle cx="259.2" cy="124.3" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><circle cx="285.6" cy="137.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k3dr1k14lo14dr1lo1dr1lo1dr2~x4/"><circle cx="247.1" cy="129.1" r="4" fill="#3465a4"><title>Brecheen</title></circle></a><a href="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/"><circle cx="279.4" cy="122.3" r="4" fill="#3465a4"><title>Johnston Orange/Black</title></circle></a><a href="/variants/s6/o72k16w9k4w5k16~x2/"><circle cx="321.2" cy="134.2" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/"><circle cx="277.7" cy="139.3" r="4" fill="#3465a4"><title>MacLeod Snuffbox</title></circle></a><a href="/variants/s9/k1y12r1y2k4r1k4y2k1~x4/"><circle cx="299.7" cy="142.9" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/"><circle cx="297.3" cy="174.0" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="234.7" cy="148.0" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><circle cx="286.4" cy="121.2" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="331.3" cy="162.8" r="4" fill="#3465a4"><title>Baileville</title></circle></a><a href="/variants/s7/r1lb5k8o18lb1k1lb1~x4/"><circle cx="260.0" cy="124.3" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><circle cx="286.5" cy="138.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "O'Brien"
   url: "/tartans/o/o/o-brien-3/"
 - name: "O'Brien"
-  url: "/setts/b13g6y2g3y2g6lb3g2lb3g12r3g6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b13g6y2g3y2g6lb3g2lb3g12r3g6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-brien-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGGWGWGRG](/stripes/bgggggwgwgrg/).
 
 Part of the [O'Brien](/tartans/o/o/o-brien-3/) tartan — the named design grouping this sett with its other cloths.

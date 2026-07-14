@@ -12,10 +12,10 @@ crumbs:
 - name: "Leach"
   url: "/tartans/l/le/leach-2/"
 - name: "Leach (1999)"
-  url: "/setts/k6r3k3r24lb4g10r2g4r2g24r6lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6r3k3r24lb4g10r2g4r2g24r6lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/leach-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRWGRGRGRW](/stripes/krkrwgrgrgrw/).
 
 Part of the [Leach](/tartans/l/le/leach-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2074](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1999 — Leach (1999) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2074">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Dr Phil Smith for Carl Leach. Originally the name given to physicians and has been in Scotland for centuries. Can be worn by all people with all spellings of the name Leach.</em></li>
-<li>pre 1999 — Leach 1999 (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5203">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Phil Smith as a personal tartan for Carl Leach. Leach is the name originally given to physicians and has been in Scotland for centuries. Can be worn by all people with all spellings of the name Leach.</em></li>
+<li>pre 1999 — Leach 1999 (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5203/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Phil Smith as a personal tartan for Carl Leach. Leach is the name originally given to physicians and has been in Scotland for centuries. Can be worn by all people with all spellings of the name Leach.</em></li>
 </ul>
 </details>
 

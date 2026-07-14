@@ -10,10 +10,10 @@ crumbs:
 - name: "Walker, James"
   url: "/tartans/w/wa/walker-james-2/"
 - name: "Walker, James"
-  url: "/setts/k2g7lb1k6r4g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2g7lb1k6r4g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/walker-james-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKWGK](/stripes/grkwgk/).
 
 Part of the [Walker, James](/tartans/w/wa/walker-james-2/) tartan — the named design grouping this sett with its other cloths.

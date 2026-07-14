@@ -8,10 +8,10 @@ crumbs:
 - name: "Unnamed 18th century"
   url: "/tartans/u/un/unnamed-18th-century/"
 - name: "Unnamed 18th century plaid (Carlisle Museum)"
-  url: "/setts/r2db2k3y3r3k3dy10k12dr3r16w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2db2k3y3r3k3dy10k12dr3r16w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unnamed-18th-century/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGRKGKBRW](/stripes/rbkgrkgkbrw/).
 
 Part of the [Unnamed 18th century](/tartans/u/un/unnamed-18th-century/) tartan — the named design grouping this sett with its other cloths.

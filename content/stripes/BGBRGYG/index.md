@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr5dg8do13o21y34lr55dg3/">Canadian Shield (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr5dg8do13o21y34lr55dg3/"><img src="/variants/s7/dr5dg8do13o21y34lr55dg3/sett.png" alt="Canadian Shield (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canadian-shield/">Canadian Shield</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canadian-shield/"><img src="/variants/s7/dr5dg8do13o21y34lr55dg3/sett.png" alt="Canadian Shield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

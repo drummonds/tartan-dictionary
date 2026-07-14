@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/">Waddell (Fife), Greg</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/"><img src="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/sett.png" alt="Waddell (Fife), Greg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/waddell/">Waddell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/waddell/"><img src="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/sett.png" alt="Waddell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

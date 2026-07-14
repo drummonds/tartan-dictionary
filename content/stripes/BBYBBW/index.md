@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dr4do27ly6n19t38w4~x2/">State Seal of Michigan (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr4do27ly6n19t38w4~x2/"><img src="/variants/s6/dr4do27ly6n19t38w4~x2/sett.png" alt="State Seal of Michigan (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-michigan/">State Seal of Michigan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-michigan/"><img src="/variants/s6/dr4do27ly6n19t38w4~x2/sett.png" alt="State Seal of Michigan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

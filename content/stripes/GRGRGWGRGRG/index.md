@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/">Brithwe Dewi Sant (Welsh)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/"><img src="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/sett.png" alt="Brithwe Dewi Sant (Welsh) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brithwe-dewi-sant/">Brithwe Dewi Sant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brithwe-dewi-sant/"><img src="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/sett.png" alt="Brithwe Dewi Sant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

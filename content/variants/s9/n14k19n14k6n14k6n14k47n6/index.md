@@ -8,10 +8,10 @@ crumbs:
 - name: "Grey Breton"
   url: "/tartans/g/gr/grey-breton/"
 - name: "Grey Breton"
-  url: "/setts/n14k19n14k6n14k6n14k47n6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n14k19n14k6n14k6n14k47n6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grey-breton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKB](/stripes/bkbkbkbkb/).
 
 Part of the [Grey Breton](/tartans/g/gr/grey-breton/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Earliest known date: 1 May 2012 A woven sample of this tartan has been received 
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>05/09/2009 — Grey Breton (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10608">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#666666;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #666666"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>A modern variation on the Brittany National tartan (STR ref #364).</em></li>
-<li>05/09/2009 — Grey Breton (District|) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10608">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>A modern variation on the Brittany National tartan (STR ref #364). A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Records of Scotland. The grey may be a marl.</em></li>
+<li>05/09/2009 — Grey Breton (District|) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10608/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>A modern variation on the Brittany National tartan (STR ref #364). A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Records of Scotland. The grey may be a marl.</em></li>
 <li>1 May 2012 — Grey Breton District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10608">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#666666;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #666666"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span></li>
 </ul>
 </details>

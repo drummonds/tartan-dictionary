@@ -10,10 +10,10 @@ crumbs:
 - name: "Cairns, David"
   url: "/tartans/c/ca/cairns-david/"
 - name: "Cairns, David (Personal)"
-  url: "/setts/do11n1do4n8dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do11n1do4n8dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cairns-david/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBB](/stripes/bbbbb/).
 
 Part of the [Cairns, David](/tartans/c/ca/cairns-david/) tartan — the named design grouping this sett with its other cloths.

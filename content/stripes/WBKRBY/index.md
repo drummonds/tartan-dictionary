@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w5n20k8r5dp36ly5~x2/">Lord's Own Highlanders (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w5n20k8r5dp36ly5~x2/"><img src="/variants/s6/w5n20k8r5dp36ly5~x2/sett.png" alt="Lord's Own Highlanders (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lord-s-own-highlanders/">Lord's Own Highlanders</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lord-s-own-highlanders/"><img src="/variants/s6/w5n20k8r5dp36ly5~x2/sett.png" alt="Lord's Own Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

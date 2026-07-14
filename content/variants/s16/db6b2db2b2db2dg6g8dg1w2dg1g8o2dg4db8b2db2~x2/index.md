@@ -12,10 +12,10 @@ crumbs:
 - name: "Forbes, of Druminnor"
   url: "/tartans/f/fo/forbes-of-druminnor-3/"
 - name: "Forbes, of Druminnor"
-  url: "/setts/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/forbes-of-druminnor-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBGGGWGGRGBBB](/stripes/bbbbbgggwggrgbbb/).
 
 Part of the [Forbes, of Druminnor](/tartans/f/fo/forbes-of-druminnor-3/) tartan — the named design grouping this sett with its other cloths.

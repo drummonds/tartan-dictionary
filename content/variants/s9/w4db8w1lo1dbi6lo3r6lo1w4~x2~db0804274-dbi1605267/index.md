@@ -12,10 +12,10 @@ crumbs:
 - name: "Wombles 6"
   url: "/tartans/w/wo/wombles-6/"
 - name: "Wombles #5"
-  url: "/setts/w4db8w1lo1dbi6lo3r6lo1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db8w1lo1dbi6lo3r6lo1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wo/wombles-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWYBYRYW](/stripes/wbwybyryw/).
 
 Part of the [Wombles 6](/tartans/w/wo/wombles-6/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k23lb25r4lb25k23y2g25k4g25y2~x2/">Forsyth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k23lb25r4lb25k23y2g25k4g25y2~x2/"><img src="/variants/s10/k23lb25r4lb25k23y2g25k4g25y2~x2/sett.png" alt="Forsyth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/k23lb25r4lb25k23y2g25k4g25y4/">Forsyth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k23lb25r4lb25k23y2g25k4g25y4/"><img src="/variants/s10/k23lb25r4lb25k23y2g25k4g25y4/sett.png" alt="Forsyth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forsyth/">Forsyth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forsyth/"><img src="/variants/s10/k23lb25r4lb25k23y2g25k4g25y4/sett.png" alt="Forsyth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

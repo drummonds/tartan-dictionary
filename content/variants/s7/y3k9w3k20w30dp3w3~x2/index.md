@@ -10,15 +10,15 @@ crumbs:
 - name: "MacPherson"
   url: "/families/macpherson/"
 - name: "MacPherson Dress"
-  url: "/tartans/m/ma/macpherson-dress-3/"
+  url: "/tartans/m/ma/macpherson-dress-6/"
 - name: "MacPherson Dress (1951)"
-  url: "/setts/y3k9w3k20w30dp3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3k9w3k20w30dp3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macpherson-dress-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKWBW](/stripes/gkwkwbw/).
 
-Part of the [MacPherson Dress](/tartans/m/ma/macpherson-dress-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacPherson Dress](/tartans/m/ma/macpherson-dress-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2714](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1842 — MacPherson Dress (1951) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2714">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#940094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #940094"></span><br><em>See also STR #2713. This is the sett featured in W and A Smith's 'Authenticated Tartans of the Clans and Families of Scotland' (1850). It is also the sett woven by Lochcarron of Scotland.</em></li>
-<li>1842 — MacPherson Dress (1951) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5921">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#940094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #940094"></span><br><em>See also #1872 for a confusing situation! This is the sett featured in Andrew & William Smith's 1850 "Authenticated Tartans of the Clans and Families of Scotland." It is also the sett woven by Lochcarron of Scotland.</em></li>
+<li>1842 — MacPherson Dress (1951) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5921/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#940094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #940094"></span><br><em>See also #1872 for a confusing situation! This is the sett featured in Andrew & William Smith's 1850 "Authenticated Tartans of the Clans and Families of Scotland." It is also the sett woven by Lochcarron of Scotland.</em></li>
 </ul>
 </details>
 

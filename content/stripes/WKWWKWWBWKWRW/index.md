@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/">Euphoria</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/"><img src="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/sett.png" alt="Euphoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/">Euphoria (Universal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/"><img src="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/sett.png" alt="Euphoria (Universal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/eu/euphoria/">Euphoria</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eu/euphoria/"><img src="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/sett.png" alt="Euphoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

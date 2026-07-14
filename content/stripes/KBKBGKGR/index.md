@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/">Peter of Lee (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><img src="/variants/s8/r3g1k1g12t12k1t1k1~x4/sett.png" alt="Peter of Lee (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/">Peter of Lee Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><img src="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/sett.png" alt="Peter of Lee Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/peter-of-lee-2/">Peter of Lee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peter-of-lee-2/"><img src="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/sett.png" alt="Peter of Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

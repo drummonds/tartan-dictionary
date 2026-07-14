@@ -10,10 +10,10 @@ crumbs:
 - name: "Hackett William Hunting"
   url: "/tartans/h/ha/hackett-william-hunting/"
 - name: "Hackett William (Coatbridge) Hunting (Personal)"
-  url: "/setts/k20ly4r4ly20dg20w5dg2lyi2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k20ly4r4ly20dg20w5dg2lyi2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hackett-william-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYRYGWGY](/stripes/kyrygwgy/).
 
 Part of the [Hackett William Hunting](/tartans/h/ha/hackett-william-hunting/) tartan — the named design grouping this sett with its other cloths.

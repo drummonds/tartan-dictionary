@@ -8,10 +8,10 @@ crumbs:
 - name: "Lindenwood University"
   url: "/tartans/l/li/lindenwood-university/"
 - name: "Lindenwood University"
-  url: "/setts/w8k2w6y8k34w4k2w4r6k12y18k12w4g6k65w4db6k12y8w8k2w6y8b6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w8k2w6y8k34w4k2w4r6k12y18k12w4g6k65w4db6k12y8w8k2w6y8b6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/lindenwood-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWKWGKBWKGWKGKRWKWKGWKW](/stripes/bgwkwgkbwkgwkgkrwkwkgwkw/).
 
 Part of the [Lindenwood University](/tartans/l/li/lindenwood-university/) tartan — the named design grouping this sett with its other cloths.

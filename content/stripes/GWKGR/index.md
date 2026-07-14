@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r2y36k12w3g2~x2/">Port Moresby City Pipes &amp; Drums</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2y36k12w3g2~x2/"><img src="/variants/s5/r2y36k12w3g2~x2/sett.png" alt="Port Moresby City Pipes &amp; Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r2y33k5w3g2~x2/">Port Moresby City Pipes and Drums</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2y33k5w3g2~x2/"><img src="/variants/s5/r2y33k5w3g2~x2/sett.png" alt="Port Moresby City Pipes and Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/port-moresby-city/">Port Moresby City</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/port-moresby-city/"><img src="/variants/s5/r2y36k12w3g2~x2/sett.png" alt="Port Moresby City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/port-moresby-city-pipes-and-drums/">Port Moresby City Pipes and Drums</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/port-moresby-city-pipes-and-drums/"><img src="/variants/s5/r2y33k5w3g2~x2/sett.png" alt="Port Moresby City Pipes and Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

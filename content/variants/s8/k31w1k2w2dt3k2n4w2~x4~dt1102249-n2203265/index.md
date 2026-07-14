@@ -8,10 +8,10 @@ crumbs:
 - name: "Capco"
   url: "/tartans/c/ca/capco/"
 - name: "Capco"
-  url: "/setts/k31w1k2w2dt3k2n4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k31w1k2w2dt3k2n4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/capco/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWBKBW](/stripes/kwkwbkbw/).
 
 Part of the [Capco](/tartans/c/ca/capco/) tartan — the named design grouping this sett with its other cloths.

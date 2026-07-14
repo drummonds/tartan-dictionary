@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/y1db6k1dy5db6w1/">Ancient Atlantic</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y1db6k1dy5db6w1/"><img src="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/sett.png" alt="Ancient Atlantic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/ancient-atlantic/">Ancient Atlantic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/ancient-atlantic/"><img src="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/sett.png" alt="Ancient Atlantic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

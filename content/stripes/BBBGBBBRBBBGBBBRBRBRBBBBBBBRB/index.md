@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/db8r2db2n1db1n1db1n1db2r2db6o1db12o1db6n1db1dy4db1n1db2r3db3n1db1dy2db1n1db8~x2/">Delmarva</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/db8r2db2n1db1n1db1n1db2r2db6o1db12o1db6n1db1dy4db1n1db2r3db3n1db1dy2db1n1db8~x2/"><img src="/variants/s29/db8r2db2n1db1n1db1n1db2r2db6o1db12o1db6n1db1dy4db1n1db2r3db3n1db1dy2db1n1db8~x2/sett.png" alt="Delmarva sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/delmarva-2/">Delmarva</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/delmarva-2/"><img src="/variants/s29/db8r2db2n1db1n1db1n1db2r2db6o1db12o1db6n1db1dy4db1n1db2r3db3n1db1dy2db1n1db8~x2/sett.png" alt="Delmarva sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

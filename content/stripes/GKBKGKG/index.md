@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/">Caledonian Canals (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/"><img src="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/sett.png" alt="Caledonian Canals (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledonian-canals/">Caledonian Canals</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-canals/"><img src="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/sett.png" alt="Caledonian Canals sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/y5k5g17k6n24k6y3~x2/">Cape Breton District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y5k5g17k6n24k6y3~x2/"><img src="/variants/s7/y5k5g17k6n24k6y3~x2/sett.png" alt="Cape Breton District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cape-breton-3/">Cape Breton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cape-breton-3/"><img src="/variants/s7/y5k5g17k6n24k6y3~x2/sett.png" alt="Cape Breton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

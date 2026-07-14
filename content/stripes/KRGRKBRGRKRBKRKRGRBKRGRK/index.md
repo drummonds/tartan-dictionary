@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/k2r2g27r2k6db2r6g6r2k24r2k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/">Cumming/Buchan Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/k2r2g27r2k6db2r6g6r2k24r2k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/"><img src="/variants/s24/k2r2g27r2k6db2r6g6r2k24r2k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/sett.png" alt="Cumming/Buchan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cumming-buchan-hunting/">Cumming/Buchan Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cumming-buchan-hunting/"><img src="/variants/s24/k2r2g27r2k6db2r6g6r2k24r2k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/sett.png" alt="Cumming/Buchan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

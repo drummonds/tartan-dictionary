@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/n5y1k5dg46k5r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgkgkr/">BGKGKR</a></nav>
 Its design is pattern [BGKGKR](/stripes/bgkgkr/) — the page of every tartan sharing this colour sequence.
 
 The **Touch** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Touch** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n5y1k5dg46k5r3/">Touch</a></td><td><code>N/10 Y2 K10 DG92 K10 R/6</code></td><td>244</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n5y1k5dg46k5r3/"><img src="/variants/s6/n5y1k5dg46k5r3~x2/sett.png" alt="Touch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/n5y1k5dg46k5r3~x2/">Touch</a></td><td><code>N/10 Y2 K10 DG92 K10 R/6</code></td><td>244</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/n5y1k5dg46k5r3~x2/"><img src="/variants/s6/n5y1k5dg46k5r3~x2/sett.png" alt="Touch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/n4ly1k4g32k4dr2~x2/"><circle cx="380.5" cy="101.9" r="4" fill="#3465a4"><title>Tough</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="373.6" cy="100.5" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="380.1" cy="135.7" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><circle cx="352.9" cy="129.7" r="4" fill="#3465a4"><title>Sevlon Bruce</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="423.0" cy="119.2" r="4" fill="#3465a4"><title>Perry Dress</title></circle></a><a href="/variants/s7/k8dr26k22dt110w4k5w4/"><circle cx="388.0" cy="121.6" r="4" fill="#3465a4"><title>Edinburgh, The University of</title></circle></a><a href="/variants/s7/dy45k5dy28k5o5w2do6~x2/"><circle cx="491.2" cy="140.7" r="4" fill="#3465a4"><title>Leiato of American Samoa</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="430.5" cy="46.8" r="4" fill="#3465a4"><title>Greeven, Wolfgang H</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="422.2" cy="104.7" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="419.2" cy="178.9" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><circle cx="476.0" cy="98.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/n4ly1k4g32k4dr2~x2/"><circle cx="381.6" cy="102.1" r="4" fill="#3465a4"><title>Tough</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="374.6" cy="100.7" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="381.0" cy="135.9" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><circle cx="353.9" cy="129.9" r="4" fill="#3465a4"><title>Sevlon Bruce</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="424.3" cy="119.5" r="4" fill="#3465a4"><title>Perry Dress</title></circle></a><a href="/variants/s7/k8dr26k22dt110w4k5w4/"><circle cx="389.0" cy="121.8" r="4" fill="#3465a4"><title>Edinburgh, The University of</title></circle></a><a href="/variants/s7/dy45k5dy28k5o5w2do6~x2/"><circle cx="492.4" cy="141.1" r="4" fill="#3465a4"><title>Leiato of American Samoa</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="431.8" cy="47.1" r="4" fill="#3465a4"><title>Greeven, Wolfgang H</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="423.3" cy="104.9" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="420.1" cy="179.2" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><circle cx="477.2" cy="99.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k3w7k4w6o3~x2~o2102055/">Daks - House Check, C.6700.03</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k3w7k4w6o3~x2~o2102055/"><img src="/variants/s5/k3w7k4w6o3~x2~o2102055/sett.png" alt="Daks - House Check, C.6700.03 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k27w29k5w14r2~x2/">McPartlin (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k27w29k5w14r2~x2/"><img src="/variants/s5/k27w29k5w14r2~x2/sett.png" alt="McPartlin (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/daks/">Daks</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daks/"><img src="/variants/s5/k3w7k4w6o3~x2~o2102055/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcpartlin/">McPartlin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcpartlin/"><img src="/variants/s5/k27w29k5w14r2~x2/sett.png" alt="McPartlin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

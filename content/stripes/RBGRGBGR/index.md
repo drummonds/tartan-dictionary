@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/o5b12dg4r4dg27b3dg4o5/">Daks, Muted Loden</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/o5b12dg4r4dg27b3dg4o5/"><img src="/variants/s8/o5b12dg4r4dg27b3dg4o5/sett.png" alt="Daks, Muted Loden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/daks-muted-loden/">Daks, Muted Loden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daks-muted-loden/"><img src="/variants/s8/o5b12dg4r4dg27b3dg4o5/sett.png" alt="Daks, Muted Loden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Grelloch"
   url: "/tartans/g/gr/grelloch/"
 - name: "Grelloch"
-  url: "/setts/r2lb1dr12ri12k1ri2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2lb1dr12ri12k1ri2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRBWRWBRKR](/stripes/krbwrwbrkr/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grelloch/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKRBWR](/stripes/rkrbwr/).
 
 Part of the [Grelloch](/tartans/g/gr/grelloch/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1536](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1536)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1536](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1951 — Grelloch (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1536">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><br><em>A theatrical invention by Molly MacEwan for Clan Bracken which featured in the play 'The Highland Fair' presented at the Edinburgh Festival in 1951. As a rule, only tartans which have been woven are included in this Register but exceptions are made here and there for such items of interest as this.</em></li>
-<li>1951 — Grelloch (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4001">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><br><em>A theatrical invention by Molly MacEwan for Clan Bracken which featured in the play 'The Highland Fair' presented at the Highland Festival in 1951.</em></li>
+<li>1951 — Grelloch (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4001/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><br><em>A theatrical invention by Molly MacEwan for Clan Bracken which featured in the play 'The Highland Fair' presented at the Highland Festival in 1951.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4001
 
 ## Thread count
-Ri/8 K4 Ri48 DR48 LB4 R8 LB4 DR48 Ri48 K/4
+R/8 LB4 DR48 Ri48 K4 Ri/8
 
-One full sett is **436 threads**.
+One full sett is **224 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Ri/8 K4 Ri48 DR48 LB4 R8 LB4 DR48 Ri48 K/4 — 436 threads; it folds to the canonical 224-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **436 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Ri/8 K4 Ri48 DR48 LB4 R8 LB4 DR48 Ri48 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 LB4 DR48 Ri48 K4 Ri/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

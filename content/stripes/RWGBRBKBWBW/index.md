@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/">Fitzgerald Hunting Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/"><img src="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/sett.png" alt="Fitzgerald Hunting Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fitzgerald-hunting-3/">Fitzgerald, hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fitzgerald-hunting-3/"><img src="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/sett.png" alt="Fitzgerald, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

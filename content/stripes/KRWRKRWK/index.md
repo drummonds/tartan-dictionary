@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/">Mull Rugby Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><img src="/variants/s8/k44r2w10r3k6r1w2k18~x2/sett.png" alt="Mull Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/mull-rugby-club-2/">Mull Rugby Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/mull-rugby-club-2/"><img src="/variants/s8/k44r2w10r3k6r1w2k18~x2/sett.png" alt="Mull Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

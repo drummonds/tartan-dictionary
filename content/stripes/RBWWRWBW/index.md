@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb70t5lb3ri5lb3w5t3r5~x2~ri2806019-r2109032/">Wyckoff (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb70t5lb3ri5lb3w5t3r5~x2~ri2806019-r2109032/"><img src="/variants/s8/lb70t5lb3ri5lb3w5t3r5~x2~ri2806019-r2109032/sett.png" alt="Wyckoff (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wy/wyckoff/">Wyckoff</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wy/wyckoff/"><img src="/variants/s8/lb70t5lb3ri5lb3w5t3r5~x2~ri2806019-r2109032/sett.png" alt="Wyckoff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Calais"
   url: "/tartans/c/ca/calais/"
 - name: "Calais (Fashion)"
-  url: "/setts/dg11t4dg6dy11t1k1dy4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg11t4dg6dy11t1k1dy4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/calais/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGBKG](/stripes/gbggbkg/).
 
 Part of the [Calais](/tartans/c/ca/calais/) tartan — the named design grouping this sett with its other cloths.

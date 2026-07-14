@@ -12,10 +12,10 @@ crumbs:
 - name: "Cunningham Dress"
   url: "/tartans/c/cu/cunningham-dress/"
 - name: "Cunningham Dress Green (Dance)"
-  url: "/setts/w5g2w34g34k2g2y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5g2w34g34k2g2y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cunningham-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGWGW](/stripes/ggkgwgw/).
 
 Part of the [Cunningham Dress](/tartans/c/cu/cunningham-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=848](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1988 — Cunningham Dress Green (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=848">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A dancers' tartan now woven by D C Dalgliesh of Selkirk.</em></li>
-<li>1988 — Cunningham Dress, Green (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6532">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A dancers' tartan now woven by D C Dalgliesh of Selkirk.</em></li>
+<li>1988 — Cunningham Dress, Green (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6532/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A dancers' tartan now woven by D C Dalgliesh of Selkirk.</em></li>
 </ul>
 </details>
 

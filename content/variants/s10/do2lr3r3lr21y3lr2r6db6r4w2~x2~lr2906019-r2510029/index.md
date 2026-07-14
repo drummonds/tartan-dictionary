@@ -8,10 +8,10 @@ crumbs:
 - name: "Hello Kitty"
   url: "/tartans/h/he/hello-kitty-2/"
 - name: "Hello Kitty"
-  url: "/setts/do2lr3r3lr21y3lr2r6db6r4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do2lr3r3lr21y3lr2r6db6r4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hello-kitty-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYRYGYRBRW](/stripes/byrygyrbrw/).
 
 Part of the [Hello Kitty](/tartans/h/he/hello-kitty-2/) tartan — the named design grouping this sett with its other cloths.

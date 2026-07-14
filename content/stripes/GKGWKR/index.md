@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r3k4lb2g64k6y3~x2/">Braemar Royal Highland Gathering</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r3k4lb2g64k6y3~x2/"><img src="/variants/s6/r3k4lb2g64k6y3~x2/sett.png" alt="Braemar Royal Highland Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/braemar-royal-highland-gathering/">Braemar Royal Highland Gathering</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braemar-royal-highland-gathering/"><img src="/variants/s6/r3k4lb2g64k6y3~x2/sett.png" alt="Braemar Royal Highland Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

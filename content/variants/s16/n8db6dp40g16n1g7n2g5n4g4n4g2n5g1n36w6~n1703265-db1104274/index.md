@@ -8,10 +8,10 @@ crumbs:
 - name: "Bell-McTier Thistle"
   url: "/tartans/b/be/bell-mctier-thistle/"
 - name: "Bell-McTier Thistle"
-  url: "/setts/n8db6dp40g16n1g7n2g5n4g4n4g2n5g1n36w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n8db6dp40g16n1g7n2g5n4g4n4g2n5g1n36w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/bell-mctier-thistle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBGBGBGBGBW](/stripes/bbbgbgbgbgbgbgbw/).
 
 Part of the [Bell-McTier Thistle](/tartans/b/be/bell-mctier-thistle/) tartan — the named design grouping this sett with its other cloths.

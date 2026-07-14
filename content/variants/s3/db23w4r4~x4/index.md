@@ -8,15 +8,15 @@ crumbs:
 - name: "Auchmaliddie Samkoma"
   url: "/tartans/a/au/auchmaliddie-samkoma/"
 - name: "Auchmaliddie Samkoma"
-  url: "/setts/db23w4r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db23w4r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWBW](/stripes/rwbw/).
+provenance below. It is one weaving of the [sett](/tartans/a/au/auchmaliddie-samkoma/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWR](/stripes/bwr/).
 
 Part of the [Auchmaliddie Samkoma](/tartans/a/au/auchmaliddie-samkoma/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10348](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10348)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10348](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>17/01/2011 — Auchmaliddie Samkoma (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10348">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B62531;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #B62531"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F9F5EF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F9F5EF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#433A5A;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #433A5A"></span><br><em>Designed for those Icelanders who wore Highland Dress for the wedding of Dr Kate Taylor Smith (a Scot)and Ólafur Egilsson (an Icelander) in Scotland in 2010. The name "Auchmaliddie Samkoma" is Icelandic for gathering or meeting at Auchmaliddie which is where the wedding took place (ie the designer's family home in Scotland).</em></li>
-<li>17 Jan 2011 — Auchmaliddie Samkoma (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10348">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>Designed for those Icelanders who wore Highland Dress for the wedding of Dr Kate Taylor Smith (a Scot) and ?lafur Egilsson (an Icelander) in Scotland in 2010.</em></li>
+<li>17 Jan 2011 — Auchmaliddie Samkoma (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10348/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>Designed for those Icelanders who wore Highland Dress for the wedding of Dr Kate Taylor Smith (a Scot) and ?lafur Egilsson (an Icelander) in Scotland in 2010.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 10348
 
 ## Thread count
-R/16 W16 DB92 W/16
+DB/92 W16 R/16
 
-One full sett is **248 threads**.
+One full sett is **140 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/16 W16 DB92 W/16 — 248 threads; it folds to the canonical 140-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **248 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/16 W16 DB92 W/16 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/92 W16 R/16 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

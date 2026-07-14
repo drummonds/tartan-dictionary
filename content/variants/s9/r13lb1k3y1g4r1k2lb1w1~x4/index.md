@@ -12,10 +12,10 @@ crumbs:
 - name: "Gillespie"
   url: "/tartans/g/gi/gillespie/"
 - name: "Gillespie"
-  url: "/setts/r13lb1k3y1g4r1k2lb1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r13lb1k3y1g4r1k2lb1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gi/gillespie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKGGRKWW](/stripes/rwkggrkww/).
 
 Part of the [Gillespie](/tartans/g/gi/gillespie/) tartan — the named design grouping this sett with its other cloths.

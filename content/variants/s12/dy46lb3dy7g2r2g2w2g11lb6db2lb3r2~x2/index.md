@@ -12,10 +12,10 @@ crumbs:
 - name: "Diana Hunting"
   url: "/tartans/d/di/diana-hunting/"
 - name: "Diana Hunting Plaid Tartan"
-  url: "/setts/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/diana-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGGRGWGWBWR](/stripes/gwggrgwgwbwr/).
 
 Part of the [Diana Hunting](/tartans/d/di/diana-hunting/) tartan — the named design grouping this sett with its other cloths.

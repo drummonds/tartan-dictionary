@@ -11,7 +11,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/t/tu/tulloch-homes-2/"><img src="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/sett.png" alt="Tulloch Homes" width="140"><br><strong>Tulloch Homes (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/tu/tulsa/"><img src="/variants/s6/r14k3r14g13db8g13~x2/sett.png" alt="Tulsa" width="140"><br><strong>Tulsa (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/tu/tulsa-city-of/"><img src="/variants/s6/dg14db8dg14r14k3r14~x2/sett.png" alt="Tulsa, City of" width="140"><br><strong>Tulsa, City of (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/tu/tune-hotels/"><img src="/variants/s9/ri3r18dr6ri15r4ri3r4ri7w2~x2~ri2509032-r1807025/sett.png" alt="Tune Hotels" width="140"><br><strong>Tune Hotels (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/t/tu/tune-hotels/"><img src="/variants/s9/ri3r18dr6ri15r4ri3r4ri7w2~x2~ri2406019-r2109032/sett.png" alt="Tune Hotels" width="140"><br><strong>Tune Hotels (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/tu/tunes-of-glory/"><img src="/variants/s8/lo3dy40db12lo3k2lb4k2lo3~x2/sett.png" alt="Tunes of Glory" width="140"><br><strong>Tunes of Glory (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/tu/tupper-john-charles/"><img src="/variants/s10/dr2w2dg8g2dg2db20lb8g2db15w2~x2/sett.png" alt="Tupper, John Charles" width="140"><br><strong>Tupper, John Charles (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/tu/tupper-sir-charles/"><img src="/variants/s10/k4dy6ly3dy10dt14r6k18r6dt4r2~x2/sett.png" alt="Tupper, Sir Charles" width="140"><br><strong>Tupper, Sir Charles (1)</strong></a></li>

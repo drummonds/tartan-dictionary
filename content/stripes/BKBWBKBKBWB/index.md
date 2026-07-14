@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/">Newlands, Charlie (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><img src="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/sett.png" alt="Newlands, Charlie (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/newlands-charlie/">Newlands, Charlie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/newlands-charlie/"><img src="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/sett.png" alt="Newlands, Charlie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

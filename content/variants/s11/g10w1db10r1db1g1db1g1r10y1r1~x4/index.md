@@ -8,10 +8,10 @@ crumbs:
 - name: "Belfast Tattoo"
   url: "/tartans/b/be/belfast-tattoo/"
 - name: "Belfast Tattoo"
-  url: "/setts/g10w1db10r1db1g1db1g1r10y1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g10w1db10r1db1g1db1g1r10y1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/belfast-tattoo/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBRBGBGRGR](/stripes/gwbrbgbgrgr/).
 
 Part of the [Belfast Tattoo](/tartans/b/be/belfast-tattoo/) tartan — the named design grouping this sett with its other cloths.

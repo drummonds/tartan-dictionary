@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db6lb2db2lb3db16t26dr2~x2/">Federal Bureau of Investigation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db6lb2db2lb3db16t26dr2~x2/"><img src="/variants/s7/db6lb2db2lb3db16t26dr2~x2/sett.png" alt="Federal Bureau of Investigation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fb/fbi/">FBI</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fb/fbi/"><img src="/variants/s7/db6lb2db2lb3db16t26dr2~x2/sett.png" alt="FBI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

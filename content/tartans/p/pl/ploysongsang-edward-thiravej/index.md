@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r34w4db7y10db7r18/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbgbwr/">RBGBWR</a></nav>
 Its design is pattern [RBGBWR](/stripes/rbgbwr/) — the page of every tartan sharing this colour sequence.
 
 The **Ploysongsang, Edward Thiravej** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Ploysongsang, Edward Thiravej** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r34w4db7y10db7r18/">Ploysongsang, Edward Thiravej</a></td><td><code>R/68 W8 DB14 Y20 DB14 R/36</code></td><td>216</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r34w4db7y10db7r18/"><img src="/variants/s6/r34w4db7y10db7r18~x2/sett.png" alt="Ploysongsang, Edward Thiravej sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r34w4db7y10db7r18~x2/">Ploysongsang, Edward Thiravej</a></td><td><code>R/68 W8 DB14 Y20 DB14 R/36</code></td><td>216</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r34w4db7y10db7r18~x2/"><img src="/variants/s6/r34w4db7y10db7r18~x2/sett.png" alt="Ploysongsang, Edward Thiravej sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r34w4lb7ly10lb7r18~x2/"><circle cx="372.0" cy="218.1" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Pers</title></circle></a><a href="/variants/s7/r50db14w6db9y3db4r4~x2/"><circle cx="360.3" cy="138.3" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><circle cx="345.7" cy="225.4" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.6" cy="210.8" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="324.2" cy="234.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/r15db5k2db5r15b3r15w2~x2/"><circle cx="355.9" cy="169.6" r="4" fill="#3465a4"><title>Goodwillie</title></circle></a><a href="/variants/s6/r5g3lb3db5r16y3~x2/"><circle cx="296.1" cy="220.8" r="4" fill="#3465a4"><title>McCartney</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="438.4" cy="156.6" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="505.3" cy="195.8" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="322.4" cy="231.9" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><circle cx="358.7" cy="208.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r34w4lb7ly10lb7r18~x2/"><circle cx="372.7" cy="218.2" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Pers</title></circle></a><a href="/variants/s7/r50db14w6db9y3db4r4~x2/"><circle cx="361.3" cy="138.3" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><circle cx="346.4" cy="225.5" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="274.2" cy="210.7" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="324.7" cy="234.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/r15db5k2db5r15b3r15w2~x2/"><circle cx="356.8" cy="169.6" r="4" fill="#3465a4"><title>Goodwillie</title></circle></a><a href="/variants/s6/r5g3lb3db5r16y3~x2/"><circle cx="296.6" cy="220.8" r="4" fill="#3465a4"><title>McCartney</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="439.4" cy="156.8" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="506.2" cy="196.1" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="323.0" cy="232.0" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><circle cx="359.4" cy="208.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

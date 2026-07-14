@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/o32w2o9lyi2o12ly21r1~x2~lyi3407090-ly2503076/">Weathered Cyclist (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/o32w2o9lyi2o12ly21r1~x2~lyi3407090-ly2503076/"><img src="/variants/s7/o32w2o9lyi2o12ly21r1~x2~lyi3407090-ly2503076/sett.png" alt="Weathered Cyclist (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/weathered-cyclist/">Weathered Cyclist</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/weathered-cyclist/"><img src="/variants/s7/o32w2o9lyi2o12ly21r1~x2~lyi3407090-ly2503076/sett.png" alt="Weathered Cyclist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k4db9y6db22g4w20g6w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbgbgwgw/">KBGBGWGW</a></nav>
 Its design is pattern [KBGBGWGW](/stripes/kbgbgwgw/) — the page of every tartan sharing this colour sequence.
 
 The **Ship Hector** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Ship Hector** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4db9y6db22g4w20g6w4/">Ship Hector</a></td><td><code>K/4 DB9 Y6 DB22 G4 W20 G6 W/4</code></td><td>142</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4db9y6db22g4w20g6w4/"><img src="/variants/s8/k4db9y6db22g4w20g6w4/sett.png" alt="Ship Hector sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k4db9y6db22g4w20g6w4/">Ship Hector</a></td><td><code>K/4 DB9 Y6 DB22 G4 W20 G6 W/4</code></td><td>142</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><img src="/variants/s8/k4db9y6db22g4w20g6w4/sett.png" alt="Ship Hector sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k3db10ly5db16g3w16g5w3~x2/"><circle cx="114.8" cy="204.4" r="4" fill="#3465a4"><title>Ship Hector, The</title></circle></a><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><circle cx="143.5" cy="194.6" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><circle cx="123.4" cy="184.8" r="4" fill="#3465a4"><title>Kile</title></circle></a><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="145.0" cy="160.7" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="141.0" cy="147.4" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="169.6" cy="207.8" r="4" fill="#3465a4"><title>Birnham</title></circle></a><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><circle cx="110.4" cy="174.1" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/"><circle cx="131.1" cy="202.8" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="116.9" cy="203.1" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db1208266-b2603265/"><circle cx="117.1" cy="190.0" r="4" fill="#3465a4"><title>Ballater</title></circle></a><circle cx="114.1" cy="198.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k3db10ly5db16g3w16g5w3~x2/"><circle cx="115.0" cy="204.1" r="4" fill="#3465a4"><title>Ship Hector, The</title></circle></a><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><circle cx="143.8" cy="194.3" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><circle cx="123.7" cy="184.5" r="4" fill="#3465a4"><title>Kile</title></circle></a><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="145.3" cy="160.4" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="141.4" cy="147.1" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="169.9" cy="207.5" r="4" fill="#3465a4"><title>Birnham</title></circle></a><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><circle cx="110.7" cy="173.7" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/"><circle cx="131.4" cy="202.5" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="117.2" cy="202.8" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db1208266-b2603265/"><circle cx="117.4" cy="189.7" r="4" fill="#3465a4"><title>Ballater</title></circle></a><circle cx="114.3" cy="198.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

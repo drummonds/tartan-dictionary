@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g3dr22lb5g10k10g2~x2/">Strathspey (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><img src="/variants/s6/g3dr22lb5g10k10g2~x2/sett.png" alt="Strathspey (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathspey/">Strathspey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathspey/"><img src="/variants/s6/g3dr22lb5g10k10g2~x2/sett.png" alt="Strathspey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k15db10k15dr7k15w5k15db10/">Millarkie, Will (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k15db10k15dr7k15w5k15db10/"><img src="/variants/s8/k15db10k15dr7k15w5k15db10/sett.png" alt="Millarkie, Will (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/millarkie-will/">Millarkie, Will</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/millarkie-will/"><img src="/variants/s8/k15db10k15dr7k15w5k15db10/sett.png" alt="Millarkie, Will sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,17 +10,17 @@ crumbs:
 - name: "Scott"
   url: "/families/scott/"
 - name: "Scott"
-  url: "/tartans/s/sc/scott-7/"
+  url: "/tartans/s/sc/scott-9/"
 - name: "Scott (Green)"
-  url: "/setts/k8g3w3g3r3g12k8g6db12y4k6w3k3g8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8g3w3g3r3g12k8g6db12y4k6w3k3g8/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKWKGBGKGRGWGKGWGRGKGBGKWK](/stripes/gkwkgbgkgrgwgkgwgrgkgbgkwk/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scott-9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKWKGBGKGRGWGK](/stripes/gkwkgbgkgrgwgk/).
 
-Part of the [Scott](/tartans/s/sc/scott-7/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scott](/tartans/s/sc/scott-9/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3692](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3692)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 825
 
 ## Thread count
-G/16 K6 W6 K12 Y8 DB24 G12 K16 G24 R6 G6 W6 G6 K16 G6 W6 G6 R6 G24 K16 G12 DB24 Y8 K12 W6 K/6
+K/16 G6 W6 G6 R6 G24 K16 G12 DB24 Y8 K12 W6 K6 G/16
 
-One full sett is **570 threads**.
+One full sett is **296 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/16 K6 W6 K12 Y8 DB24 G12 K16 G24 R6 G6 W6 G6 K16 G6 W6 G6 R6 G24 K16 G12 DB24 Y8 K12 W6 K/6 — 570 threads; it folds to the canonical 296-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **570 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/16 K6 W6 K12 Y8 DB24 G12 K16 G24 R6 G6 W6 G6 K16 G6 W6 G6 R6 G24 K16 G12 DB24 Y8 K12 W6 K/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/16 G6 W6 G6 R6 G24 K16 G12 DB24 Y8 K12 W6 K6 G/16 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

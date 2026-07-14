@@ -8,10 +8,10 @@ crumbs:
 - name: "Mayo"
   url: "/tartans/m/ma/mayo/"
 - name: "Mayo"
-  url: "/setts/k4g16db11r16g25y2lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4g16db11r16g25y2lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mayo/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBRGGW](/stripes/kgbrggw/).
 
 Part of the [Mayo](/tartans/m/ma/mayo/) tartan — the named design grouping this sett with its other cloths.

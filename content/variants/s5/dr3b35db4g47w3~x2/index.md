@@ -8,10 +8,10 @@ crumbs:
 - name: "Exabyte"
   url: "/tartans/e/ex/exabyte/"
 - name: "Exabyte"
-  url: "/setts/dr3b35db4g47w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3b35db4g47w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ex/exabyte/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGW](/stripes/bbbgw/).
 
 Part of the [Exabyte](/tartans/e/ex/exabyte/) tartan — the named design grouping this sett with its other cloths.

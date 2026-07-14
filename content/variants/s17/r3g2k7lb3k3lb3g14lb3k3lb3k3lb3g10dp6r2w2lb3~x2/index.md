@@ -8,17 +8,17 @@ crumbs:
 - name: "Lee Cox"
   url: "/tartans/l/le/lee-cox/"
 - name: "Lee Cox (Personal)"
-  url: "/setts/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/lee-cox/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKWKWGWKWKWGBRWW](/stripes/rgkwkwgwkwkwgbrww/).
 
 Part of the [Lee Cox](/tartans/l/le/lee-cox/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10205](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10205)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/10205/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10205/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: 15th Dec. 2009 This tartan combines the basic pattern of th
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>15th Dec. 2009 — Lee Cox (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10205">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SCR #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>This tartan combines the basic pattern of the Bell tartan (the designer's wife's maiden name) and the Marshall tartan (the designer's mother's tartan) with an additional pattern representing the designer (red) and his wife (blue), their marriage (white) surrounded by purple happiness. Developed for weaving by House of Tartan</em></li>
+<li>15th Dec. 2009 — Lee Cox (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10205/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SCR #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>This tartan combines the basic pattern of the Bell tartan (the designer's wife's maiden name) and the Marshall tartan (the designer's mother's tartan) with an additional pattern representing the designer (red) and his wife (blue), their marriage (white) surrounded by purple happiness. Developed for weaving by House of Tartan</em></li>
 <li>undated — Lee Cox Personal Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10205">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SCR #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Earliest known date: 15th Dec. 2009 This tartan combines the basic pattern of th
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

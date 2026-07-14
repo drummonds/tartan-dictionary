@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w4r1w5dbi1w3db5y1db2w1db2n8r16dbi2~x4~dbi1406275-db1004274/">Warden</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w4r1w5dbi1w3db5y1db2w1db2n8r16dbi2~x4~dbi1406275-db1004274/"><img src="/variants/s13/w4r1w5dbi1w3db5y1db2w1db2n8r16dbi2~x4~dbi1406275-db1004274/sett.png" alt="Warden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/warden/">Warden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/warden/"><img src="/variants/s13/w4r1w5dbi1w3db5y1db2w1db2n8r16dbi2~x4~dbi1406275-db1004274/sett.png" alt="Warden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

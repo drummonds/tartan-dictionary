@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/o17b2w2b2o20oi18db3oi6k2~x2~b2603265-oi2600000/">Salt Lake Scots</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/o17b2w2b2o20oi18db3oi6k2~x2~b2603265-oi2600000/"><img src="/variants/s9/o17b2w2b2o20oi18db3oi6k2~x2~b2603265-oi2600000/sett.png" alt="Salt Lake Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/salt-lake-scots/">Salt Lake Scots</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/salt-lake-scots/"><img src="/variants/s9/o17b2w2b2o20oi18db3oi6k2~x2~b2603265-oi2600000/sett.png" alt="Salt Lake Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/n4dr20k2dr2k2dr3k6o26w3o2w2o4~x2~n1900000-o2500000/">Eidart 1990 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n4dr20k2dr2k2dr3k6o26w3o2w2o4~x2~n1900000-o2500000/"><img src="/variants/s12/n4dr20k2dr2k2dr3k6o26w3o2w2o4~x2~n1900000-o2500000/sett.png" alt="Eidart 1990 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ei/eidart-1990/">Eidart 1990</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ei/eidart-1990/"><img src="/variants/s12/n4dr20k2dr2k2dr3k6o26w3o2w2o4~x2~n1900000-o2500000/sett.png" alt="Eidart 1990 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

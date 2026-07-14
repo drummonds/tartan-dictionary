@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Scarlett"
-  url: "/tartans/u/un/unidentified-scarlett-9/"
+  url: "/tartans/u/un/unidentified-scarlett-11/"
 - name: "Unidentified Scarlett #10"
-  url: "/setts/g28r2lb2r18db9r9lb9y1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g28r2lb2r18db9r9lb9y1r3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GWRBRWRGRWRBRWGR](/stripes/gwrbrwrgrwrbrwgr/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-scarlett-11/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRWRBRWGR](/stripes/grwrbrwgr/).
 
-Part of the [Unidentified Scarlett](/tartans/u/un/unidentified-scarlett-9/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Scarlett](/tartans/u/un/unidentified-scarlett-11/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4366](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4366)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6335
 
 ## Thread count
-R/6 Y2 LB18 R18 DB18 R36 LB4 R4 G56 R4 LB4 R36 DB18 R18 LB18 Y/2
+G/56 R4 LB4 R36 DB18 R18 LB18 Y2 R/6
 
-One full sett is **516 threads**.
+One full sett is **262 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/6 Y2 LB18 R18 DB18 R36 LB4 R4 G56 R4 LB4 R36 DB18 R18 LB18 Y/2 — 516 threads; it folds to the canonical 262-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **516 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 Y2 LB18 R18 DB18 R36 LB4 R4 G56 R4 LB4 R36 DB18 R18 LB18 Y/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/56 R4 LB4 R36 DB18 R18 LB18 Y2 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

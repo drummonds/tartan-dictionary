@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/">Hueg (Munich) Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/"><img src="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/sett.png" alt="Hueg (Munich) Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hueg-hunting/">Hueg Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hueg-hunting/"><img src="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/sett.png" alt="Hueg Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

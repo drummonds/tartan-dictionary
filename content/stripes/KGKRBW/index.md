@@ -28,14 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k2g17k16r2db17w2~x2/">Galbraith</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k2g17k16r2db17w2~x2/"><img src="/variants/s6/k2g17k16r2db17w2~x2/sett.png" alt="Galbraith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k2g12k12r1db12w2/">Mitchell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k2g12k12r1db12w2/"><img src="/variants/s6/k2g12k12r1db12w2/sett.png" alt="Mitchell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k3g8k8r2db8w2~x2/">Mitchell Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3g8k8r2db8w2~x2/"><img src="/variants/s6/k3g8k8r2db8w2~x2/sett.png" alt="Mitchell Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k3g10k10r3db8w3~x2/">Russell (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3g10k10r3db8w3~x2/"><img src="/variants/s6/k3g10k10r3db8w3~x2/sett.png" alt="Russell (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/galbraith/">Galbraith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/galbraith/"><img src="/variants/s6/k2g17k16r2db17w2~x2/sett.png" alt="Galbraith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mitchell-2/">Mitchell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mitchell-2/"><img src="/variants/s6/k2g12k12r1db12w2/sett.png" alt="Mitchell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/russell/">Russell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/russell/"><img src="/variants/s6/k3g10k10r3db8w3~x2/sett.png" alt="Russell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

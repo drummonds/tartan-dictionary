@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1~x2/">Glover, Thomas Blake (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1~x2/"><img src="/variants/s12/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1~x2/sett.png" alt="Glover, Thomas Blake (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glover-thomas-blake/">Glover, Thomas Blake</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glover-thomas-blake/"><img src="/variants/s12/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1~x2/sett.png" alt="Glover, Thomas Blake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

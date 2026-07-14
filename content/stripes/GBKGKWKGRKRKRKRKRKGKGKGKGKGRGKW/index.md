@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s31/g105db9k16y6k8w3k8g16r24k1r4k2r3k3r2k4r1k9g1k4g2k3g3k2g4k1g40r9g10k3w5~x2/">Un-named C19th Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/g105db9k16y6k8w3k8g16r24k1r4k2r3k3r2k4r1k9g1k4g2k3g3k2g4k1g40r9g10k3w5~x2/"><img src="/variants/s31/g105db9k16y6k8w3k8g16r24k1r4k2r3k3r2k4r1k9g1k4g2k3g3k2g4k1g40r9g10k3w5~x2/sett.png" alt="Un-named C19th Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/un-named-c19th/">Un-named C19th</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/un-named-c19th/"><img src="/variants/s31/g105db9k16y6k8w3k8g16r24k1r4k2r3k3r2k4r1k9g1k4g2k3g3k2g4k1g40r9g10k3w5~x2/sett.png" alt="Un-named C19th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

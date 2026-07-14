@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w25k9w12y2db2~x2~w3600000-y2400000/">Gairloch (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w25k9w12y2db2~x2~w3600000-y2400000/"><img src="/variants/s5/w25k9w12y2db2~x2~w3600000-y2400000/sett.png" alt="Gairloch (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gairloch/">Gairloch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gairloch/"><img src="/variants/s5/w25k9w12y2db2~x2~w3600000-y2400000/sett.png" alt="Gairloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

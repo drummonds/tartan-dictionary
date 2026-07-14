@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/">United Colours of Scotland (Corporat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/"><img src="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/sett.png" alt="United Colours of Scotland (Corporat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/united-colours-of-scotland/">United Colours of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/united-colours-of-scotland/"><img src="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/sett.png" alt="United Colours of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

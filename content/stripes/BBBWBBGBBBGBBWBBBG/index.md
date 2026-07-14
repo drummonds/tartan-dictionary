@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/n1do1n12lb1do3n1g6n2do1n2g6n1do3lb1n12do1n1g1~x4/">Wicklow, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/n1do1n12lb1do3n1g6n2do1n2g6n1do3lb1n12do1n1g1~x4/"><img src="/variants/s18/n1do1n12lb1do3n1g6n2do1n2g6n1do3lb1n12do1n1g1~x4/sett.png" alt="Wicklow, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wicklow-county/">Wicklow, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wicklow-county/"><img src="/variants/s18/n1do1n12lb1do3n1g6n2do1n2g6n1do3lb1n12do1n1g1~x4/sett.png" alt="Wicklow, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

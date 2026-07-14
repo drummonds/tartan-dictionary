@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/">Mackay, John W. (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><img src="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/sett.png" alt="Mackay, John W. (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/john-w-mackay/">John.W.Mackay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/john-w-mackay/"><img src="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/sett.png" alt="John.W.Mackay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

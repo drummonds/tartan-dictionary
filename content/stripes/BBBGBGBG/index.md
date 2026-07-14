@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/">Chindecella Gorse (Kemete Heil)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/"><img src="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/sett.png" alt="Chindecella Gorse (Kemete Heil) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chindecella-gorse/">Chindecella Gorse</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chindecella-gorse/"><img src="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/sett.png" alt="Chindecella Gorse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dg36db3dg3db3dg6t34dr4t4~x2/">Wcwm 1530</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg36db3dg3db3dg6t34dr4t4~x2/"><img src="/variants/s8/dg36db3dg3db3dg6t34dr4t4~x2/sett.png" alt="Wcwm 1530 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wc/wcwm-1530/">Wcwm 1530</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wc/wcwm-1530/"><img src="/variants/s8/dg36db3dg3db3dg6t34dr4t4~x2/sett.png" alt="Wcwm 1530 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

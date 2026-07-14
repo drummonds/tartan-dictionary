@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r1dy3g5ly5dt5lb1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rggybw/">RGGYBW</a></nav>
 Its design is pattern [RGGYBW](/stripes/rggybw/) — the page of every tartan sharing this colour sequence.
 
 The **Loch Fyne** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Loch Fyne** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r1dy3g5ly5dt5lb1/">Loch Fyne</a></td><td><code>R/4 DY12 G20 LY20 DT20 LB/4</code></td><td>152</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1dy3g5ly5dt5lb1/"><img src="/variants/s6/r1dy3g5ly5dt5lb1~x4/sett.png" alt="Loch Fyne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r1dy3g5ly5dt5lb1~x4/">Loch Fyne</a></td><td><code>R/4 DY12 G20 LY20 DT20 LB/4</code></td><td>152</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r1dy3g5ly5dt5lb1~x4/"><img src="/variants/s6/r1dy3g5ly5dt5lb1~x4/sett.png" alt="Loch Fyne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w5g4lb1g4r4lb1dg4dy1~x6/"><circle cx="60.5" cy="242.9" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.1" cy="239.8" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><circle cx="111.5" cy="211.8" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/variants/s5/r1dy5g5w5y1~x8/"><circle cx="90.9" cy="263.0" r="4" fill="#3465a4"><title>Eastern Townshippers</title></circle></a><a href="/variants/s9/g8n8lg7r5w2k2w2k2w2~x4/"><circle cx="14.0" cy="227.7" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="95.9" cy="212.8" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke</title></circle></a><a href="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/"><circle cx="85.0" cy="228.0" r="4" fill="#3465a4"><title>Mounth The..</title></circle></a><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/"><circle cx="19.0" cy="223.1" r="4" fill="#3465a4"><title>Ellis</title></circle></a><a href="/variants/s8/k3lb11g15dgi5g10dg14dgi14lo2~x2~dgi1605139/"><circle cx="102.4" cy="237.9" r="4" fill="#3465a4"><title>Brocliande )</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="109.0" cy="279.8" r="4" fill="#3465a4"><title>Clan Haggis World</title></circle></a><circle cx="58.6" cy="262.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w5g4lb1g4r4lb1dg4dy1~x6/"><circle cx="60.3" cy="242.5" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.0" cy="239.5" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><circle cx="111.5" cy="211.5" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/variants/s5/r1dy5g5w5y1~x8/"><circle cx="90.8" cy="262.7" r="4" fill="#3465a4"><title>Eastern Townshippers</title></circle></a><a href="/variants/s9/g8n8lg7r5w2k2w2k2w2~x4/"><circle cx="14.0" cy="227.2" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="95.9" cy="212.5" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke</title></circle></a><a href="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/"><circle cx="84.8" cy="227.6" r="4" fill="#3465a4"><title>Mounth The..</title></circle></a><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/"><circle cx="18.8" cy="222.6" r="4" fill="#3465a4"><title>Ellis</title></circle></a><a href="/variants/s8/k3lb11g15dgi5g10dg14dgi14lo2~x2~dgi1605139/"><circle cx="102.3" cy="237.6" r="4" fill="#3465a4"><title>Brocliande )</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="108.8" cy="279.5" r="4" fill="#3465a4"><title>Clan Haggis World</title></circle></a><circle cx="58.3" cy="262.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

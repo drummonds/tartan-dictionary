@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/">Goldwire (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><img src="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/sett.png" alt="Goldwire (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/goldwire/">Goldwire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/goldwire/"><img src="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/sett.png" alt="Goldwire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

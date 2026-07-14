@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/allanton/"
 - name: "Allanton"
   url: "/families/allanton/"
+aliases:
+- "/setts/g4w28db14y2lb17g4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwbgwg/">GWBGWG</a></nav>
 A tartan of the [Allanton](/families/allanton/) family.
 Its design is pattern [GWBGWG](/stripes/gwbgwg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Allanton Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g4w28db14y2lb17g4/">Allanton Dress</a></td><td><code>G/8 W56 DB28 Y4 LB34 G/8</code></td><td>260</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g4w28db14y2lb17g4/"><img src="/variants/s6/g4w28db14y2lb17g4~x2/sett.png" alt="Allanton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g4w28db14y2lb17g4~x2/">Allanton Dress</a></td><td><code>G/8 W56 DB28 Y4 LB34 G/8</code></td><td>260</td><td>1980</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><img src="/variants/s6/g4w28db14y2lb17g4~x2/sett.png" alt="Allanton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="221.9" cy="230.1" r="4" fill="#3465a4"><title>Alvis of Lee</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.0" cy="190.9" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.4" cy="224.9" r="4" fill="#3465a4"><title>Wallace Blue Dress</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="271.6" cy="255.2" r="4" fill="#3465a4"><title>Sterling</title></circle></a><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><circle cx="209.9" cy="204.0" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="258.5" cy="202.7" r="4" fill="#3465a4"><title>Shiel Lavender</title></circle></a><a href="/variants/s5/w14dp4dy1g8db2~x2/"><circle cx="231.0" cy="206.7" r="4" fill="#3465a4"><title>Manx Laxey Dress</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.5" cy="199.7" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s5/w2g29lb12db29lb2~x2/"><circle cx="261.7" cy="238.8" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s6/w15lg98db72lb25db8ly15/"><circle cx="235.0" cy="230.4" r="4" fill="#3465a4"><title>Afternoon Tea / Mint Tea</title></circle></a><circle cx="196.7" cy="210.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="222.0" cy="229.9" r="4" fill="#3465a4"><title>Alvis of Lee</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.3" cy="190.7" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.6" cy="224.7" r="4" fill="#3465a4"><title>Wallace Blue Dress</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="271.7" cy="255.1" r="4" fill="#3465a4"><title>Sterling</title></circle></a><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><circle cx="210.0" cy="203.7" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="258.7" cy="202.5" r="4" fill="#3465a4"><title>Shiel Lavender</title></circle></a><a href="/variants/s5/w14dp4dy1g8db2~x2/"><circle cx="231.3" cy="206.5" r="4" fill="#3465a4"><title>Manx Laxey Dress</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.8" cy="199.5" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s5/w2g29lb12db29lb2~x2/"><circle cx="261.9" cy="238.7" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s6/w15lg98db72lb25db8ly15/"><circle cx="235.1" cy="230.2" r="4" fill="#3465a4"><title>Afternoon Tea / Mint Tea</title></circle></a><circle cx="196.8" cy="210.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

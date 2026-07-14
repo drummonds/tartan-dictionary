@@ -12,10 +12,10 @@ crumbs:
 - name: "Midlothian"
   url: "/tartans/m/mi/midlothian/"
 - name: "Midlothian"
-  url: "/setts/db31t4db5k19g20lo4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db31t4db5k19g20lo4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/midlothian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKGY](/stripes/bbbkgy/).
 
 Part of the [Midlothian](/tartans/m/mi/midlothian/) tartan — the named design grouping this sett with its other cloths.

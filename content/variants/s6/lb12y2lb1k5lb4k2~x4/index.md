@@ -8,10 +8,10 @@ crumbs:
 - name: "Rea"
   url: "/tartans/r/re/rea/"
 - name: "Rea"
-  url: "/setts/lb12y2lb1k5lb4k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb12y2lb1k5lb4k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/rea/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWGW](/stripes/kwkwgw/).
 
 Part of the [Rea](/tartans/r/re/rea/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3470](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1973 — Rea (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3470">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed in 1973 by Dr Phil Smith for a Robert Rea of Paoli, Pennsylvania but may be worn by all of the name.</em></li>
-<li>1973 — Rea (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6613">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed in 1973 by Dr Phil Smith for a Robert Rea of Paoli, Pennsylvania but may be worn by all of the name.</em></li>
+<li>1973 — Rea (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6613/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed in 1973 by Dr Phil Smith for a Robert Rea of Paoli, Pennsylvania but may be worn by all of the name.</em></li>
 </ul>
 </details>
 

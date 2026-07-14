@@ -8,10 +8,10 @@ crumbs:
 - name: "Southern Illinois University"
   url: "/tartans/s/so/southern-illinois-university/"
 - name: "Southern Illinois University - Carbondale"
-  url: "/setts/k5dr40k4w2k4dr10w4dr5w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5dr40k4w2k4dr10w4dr5w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/southern-illinois-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKWKBWBW](/stripes/kbkwkbwbw/).
 
 Part of the [Southern Illinois University](/tartans/s/so/southern-illinois-university/) tartan — the named design grouping this sett with its other cloths.

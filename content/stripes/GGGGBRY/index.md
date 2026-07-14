@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/">Pubcrawlers (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><img src="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/sett.png" alt="Pubcrawlers (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pu/pubcrawlers/">Pubcrawlers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pu/pubcrawlers/"><img src="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/sett.png" alt="Pubcrawlers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

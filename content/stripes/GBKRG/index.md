@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dy4r27k12db15dy4~x2/">Aberdeen University (1992)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dy4r27k12db15dy4~x2/"><img src="/variants/s5/dy4r27k12db15dy4~x2/sett.png" alt="Aberdeen University (1992) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/y2r15k7db8y2~x4/">Aberdeen University Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/y2r15k7db8y2~x4/"><img src="/variants/s5/y2r15k7db8y2~x4/sett.png" alt="Aberdeen University Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberdeen-university/">Aberdeen University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen-university/"><img src="/variants/s5/dy4r27k12db15dy4~x2/sett.png" alt="Aberdeen University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

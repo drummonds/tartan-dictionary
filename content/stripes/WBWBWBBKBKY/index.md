@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/">Wcwm 1873-4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/"><img src="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/sett.png" alt="Wcwm 1873-4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wc/wcwm-1873-4/">Wcwm 1873-4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wc/wcwm-1873-4/"><img src="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/sett.png" alt="Wcwm 1873-4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

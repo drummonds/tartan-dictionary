@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/">Mill o Forest Primary School (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/"><img src="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/sett.png" alt="Mill o Forest Primary School (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mill-o-forest-primary-school/">Mill o Forest Primary School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mill-o-forest-primary-school/"><img src="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/sett.png" alt="Mill o Forest Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

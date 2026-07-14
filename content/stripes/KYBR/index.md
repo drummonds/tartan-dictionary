@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k70lo16db3o45/">Klymson (Chicago) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k70lo16db3o45/"><img src="/variants/s4/k70lo16db3o45/sett.png" alt="Klymson (Chicago) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/kl/klymson/">Klymson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kl/klymson/"><img src="/variants/s4/k70lo16db3o45/sett.png" alt="Klymson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

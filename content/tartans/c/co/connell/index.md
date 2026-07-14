@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/connell/"
 - name: "Connell"
   url: "/families/connell/"
+aliases:
+- "/setts/r3g12r1g2r2g2r1g12r3k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krgrgrgrgr/">KRGRGRGRGR</a></nav>
 A tartan of the [Connell](/families/connell/) family.
 Its design is pattern [KRGRGRGRGR](/stripes/krgrgrgrgr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Connell** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3g12r1g2r2g2r1g12r3k1/">Connell</a></td><td><code>R/12 G48 R4 G8 R8 G8 R4 G48 R12 K/4</code></td><td>296</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g12r1g2r2g2r1g12r3k1/"><img src="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/sett.png" alt="Connell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/">Connell</a></td><td><code>R/12 G48 R4 G8 R8 G8 R4 G48 R12 K/4</code></td><td>296</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><img src="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/sett.png" alt="Connell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/"><circle cx="382.2" cy="191.6" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><circle cx="568.3" cy="166.6" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/"><circle cx="344.9" cy="152.6" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="419.7" cy="181.8" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/variants/s8/g164r20g6r20g23r14g4r36/"><circle cx="529.3" cy="150.2" r="4" fill="#3465a4"><title>Aukland &amp; District Pipe Band</title></circle></a><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><circle cx="390.4" cy="191.8" r="4" fill="#3465a4"><title>MacRea ? MacRae</title></circle></a><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="267.3" cy="130.7" r="4" fill="#3465a4"><title>Ronald</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="429.8" cy="217.1" r="4" fill="#3465a4"><title>Leeds, University of</title></circle></a><a href="/variants/s6/r2g2r1g12r3k1~x4/"><circle cx="397.3" cy="179.8" r="4" fill="#3465a4"><title>Connell</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="355.7" cy="247.0" r="4" fill="#3465a4"><title>Leeds University</title></circle></a><circle cx="429.1" cy="169.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/"><circle cx="382.9" cy="191.8" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><circle cx="569.5" cy="167.1" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/"><circle cx="345.8" cy="152.7" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="420.5" cy="182.1" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/variants/s8/g164r20g6r20g23r14g4r36/"><circle cx="530.4" cy="150.7" r="4" fill="#3465a4"><title>Aukland &amp; District Pipe Band</title></circle></a><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><circle cx="391.1" cy="192.0" r="4" fill="#3465a4"><title>MacRea ? MacRae</title></circle></a><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="268.1" cy="130.7" r="4" fill="#3465a4"><title>Ronald</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="430.6" cy="217.4" r="4" fill="#3465a4"><title>Leeds, University of</title></circle></a><a href="/variants/s6/r2g2r1g12r3k1~x4/"><circle cx="398.2" cy="180.1" r="4" fill="#3465a4"><title>Connell</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="356.2" cy="247.2" r="4" fill="#3465a4"><title>Leeds University</title></circle></a><circle cx="430.1" cy="169.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

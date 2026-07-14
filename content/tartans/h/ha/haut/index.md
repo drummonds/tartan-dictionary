@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/haut/"
 - name: "Haut"
   url: "/families/haut/"
+aliases:
+- "/setts/dp46b15k12o8g8dp8/"
+- "/setts/dp46dpi15k12o8g8dp8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbkrgb/">BBKRGB</a></nav>
 A tartan of the [Haut](/families/haut/) family.
 Its design is pattern [BBKRGB](/stripes/bbkrgb/) — the page of every tartan sharing this colour sequence.
 
@@ -20,10 +24,10 @@ The **Haut** tartan groups 2 setts — the same named design recorded as differe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp46b15k12o8g8dp8/">Haut</a> ★</td><td><code>DP/92 B30 K24 O16 G16 DP/16</code></td><td>280</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp46b15k12o8g8dp8/"><img src="/variants/s6/dp46b15k12o8g8dp8~x2/sett.png" alt="Haut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dp46dpi15k12o8g8dp8/">Name Tartan</a></td><td><code>DP/92 DPi30 K24 O16 G16 DP/16</code></td><td>280</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp46dpi15k12o8g8dp8/"><img src="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/sett.png" alt="Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp46b15k12o8g8dp8~x2/">Haut</a> ★</td><td><code>DP/92 B30 K24 O16 G16 DP/16</code></td><td>280</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp46b15k12o8g8dp8~x2/"><img src="/variants/s6/dp46b15k12o8g8dp8~x2/sett.png" alt="Haut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/">Name Tartan</a></td><td><code>DP/92 DPi30 K24 O16 G16 DP/16</code></td><td>280</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/"><img src="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/sett.png" alt="Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp2r1dp5k4db5lb1~x4/"><circle cx="153.5" cy="241.8" r="4" fill="#3465a4"><title>Kintore</title></circle></a><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="216.0" cy="197.8" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/"><circle cx="223.3" cy="180.6" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s7/dp18g24k3db6dp2db5dp18~x2/"><circle cx="270.0" cy="198.0" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s7/dp22ly10dp6lb18dp50db71k6/"><circle cx="233.2" cy="177.3" r="4" fill="#3465a4"><title>Charleston Police Department</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/"><circle cx="283.2" cy="217.9" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="293.5" cy="215.1" r="4" fill="#3465a4"><title>Woodcock</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="172.8" cy="205.7" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s5/dp19w2g12lb3k4~x2/"><circle cx="200.2" cy="188.7" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="162.3" cy="189.0" r="4" fill="#3465a4"><title>Fife</title></circle></a><circle cx="248.3" cy="198.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp2r1dp5k4db5lb1~x4/"><circle cx="153.7" cy="241.6" r="4" fill="#3465a4"><title>Kintore</title></circle></a><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="216.5" cy="197.7" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/"><circle cx="223.9" cy="180.5" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s7/dp18g24k3db6dp2db5dp18~x2/"><circle cx="270.6" cy="198.0" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s7/dp22ly10dp6lb18dp50db71k6/"><circle cx="233.7" cy="177.1" r="4" fill="#3465a4"><title>Charleston Police Department</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/"><circle cx="283.8" cy="217.9" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="294.0" cy="215.1" r="4" fill="#3465a4"><title>Woodcock</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="173.2" cy="205.6" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s5/dp19w2g12lb3k4~x2/"><circle cx="200.7" cy="188.6" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="162.8" cy="188.8" r="4" fill="#3465a4"><title>Fife</title></circle></a><circle cx="248.9" cy="198.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

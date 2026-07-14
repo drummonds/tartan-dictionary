@@ -8,15 +8,15 @@ crumbs:
 - name: "Same Sex Marriage"
   url: "/tartans/s/sa/same-sex-marriage/"
 - name: "Same Sex Marriage"
-  url: "/setts/dp2k2dp1k14db1k2db2k2db1k14g1k2g2k2g1k36lo1k2lo2k2lo1k14r1k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2k2dp1k14db1k2db2k2db1k14g1k2g2k2g1k36lo1k2lo2k2lo1k14r1k2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/same-sex-marriage/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKGKGKGKKKKKKKYKYKYKRKR](/stripes/bkbkbkbkbkgkgkgkkkkkkkykykykrkr/).
 
 Part of the [Same Sex Marriage](/tartans/s/sa/same-sex-marriage/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11452](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11452)
 

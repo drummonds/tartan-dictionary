@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/">Commonwealth Games - 2014</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/"><img src="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/sett.png" alt="Commonwealth Games - 2014 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/commonwealth-games-2/">Commonwealth Games</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/commonwealth-games-2/"><img src="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/sett.png" alt="Commonwealth Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

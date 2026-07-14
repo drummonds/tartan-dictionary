@@ -8,10 +8,10 @@ crumbs:
 - name: "Quraysh"
   url: "/tartans/q/qu/quraysh/"
 - name: "Quraysh"
-  url: "/setts/db8k50y2k2dy2k24db8k2y2n1y2n8y2n8y2n1y2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8k50y2k2dy2k24db8k2y2n1y2n8y2n8y2n1y2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/q/qu/quraysh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKBKGBGBGBGBGK](/stripes/bkgkgkbkgbgbgbgbgk/).
 
 Part of the [Quraysh](/tartans/q/qu/quraysh/) tartan — the named design grouping this sett with its other cloths.

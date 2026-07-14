@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/">Ancient Universal (Fashion?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/"><img src="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/sett.png" alt="Ancient Universal (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/ancient-universal/">Ancient Universal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/ancient-universal/"><img src="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/sett.png" alt="Ancient Universal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/">Semper</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><img src="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/sett.png" alt="Semper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/semper/">Semper</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/semper/"><img src="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/sett.png" alt="Semper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dy48y9dy6y9dy12y4dy2y16~x2/">Yellow Pencil</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy48y9dy6y9dy12y4dy2y16~x2/"><img src="/variants/s8/dy48y9dy6y9dy12y4dy2y16~x2/sett.png" alt="Yellow Pencil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/ye/yellow-pencil/">Yellow Pencil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ye/yellow-pencil/"><img src="/variants/s8/dy48y9dy6y9dy12y4dy2y16~x2/sett.png" alt="Yellow Pencil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

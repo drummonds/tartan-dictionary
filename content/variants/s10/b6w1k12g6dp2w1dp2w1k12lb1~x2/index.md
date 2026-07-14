@@ -8,10 +8,10 @@ crumbs:
 - name: "Head of the Lakes"
   url: "/tartans/h/he/head-of-the-lakes-2/"
 - name: "Head of the Lakes"
-  url: "/setts/b6w1k12g6dp2w1dp2w1k12lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b6w1k12g6dp2w1dp2w1k12lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/head-of-the-lakes-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGBWBWKW](/stripes/bwkgbwbwkw/).
 
 Part of the [Head of the Lakes](/tartans/h/he/head-of-the-lakes-2/) tartan — the named design grouping this sett with its other cloths.

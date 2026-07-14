@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r2dbi35db35ly1~x2~dbi1406275-db1204274/">Mackaw (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r2dbi35db35ly1~x2~dbi1406275-db1204274/"><img src="/variants/s4/r2dbi35db35ly1~x2~dbi1406275-db1204274/sett.png" alt="Mackaw (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackaw/">Mackaw</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackaw/"><img src="/variants/s4/r2dbi35db35ly1~x2~dbi1406275-db1204274/sett.png" alt="Mackaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

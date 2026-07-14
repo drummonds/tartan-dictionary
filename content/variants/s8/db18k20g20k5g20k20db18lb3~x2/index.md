@@ -12,15 +12,15 @@ crumbs:
 - name: "Smith"
   url: "/tartans/s/sm/smith/"
 - name: "Smith (Sir William)"
-  url: "/setts/db18k20g20k5g20k20db18lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18k20g20k5g20k20db18lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sm/smith/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKKKGKBW](/stripes/bkgkkkgkbw/).
 
 Part of the [Smith](/tartans/s/sm/smith/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3823](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3823)
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Murray Threipland of Fingask"
   url: "/tartans/m/mu/murray-threipland-of-fingask/"
 - name: "Drummond of Fingask"
-  url: "/setts/r48db3ly2dg14r8db3lb4w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r48db3ly2dg14r8db3lb4w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murray-threipland-of-fingask/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBYGRBWW](/stripes/rbygrbww/).
 
 Part of the [Murray Threipland of Fingask](/tartans/m/mu/murray-threipland-of-fingask/) tartan — the named design grouping this sett with its other cloths.

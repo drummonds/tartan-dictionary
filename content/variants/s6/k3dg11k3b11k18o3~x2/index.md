@@ -8,10 +8,10 @@ crumbs:
 - name: "The Harbour Town, Hilton Head"
   url: "/tartans/t/th/the-harbour-town-hilton-head/"
 - name: "The Harbour Town, Hilton Head"
-  url: "/setts/k3dg11k3b11k18o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3dg11k3b11k18o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/the-harbour-town-hilton-head/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKR](/stripes/kgkbkr/).
 
 Part of the [The Harbour Town, Hilton Head](/tartans/t/th/the-harbour-town-hilton-head/) tartan — the named design grouping this sett with its other cloths.

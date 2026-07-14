@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r2g23db11dbi22r2~x2~db0805267-dbi1604274/">Skibo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2g23db11dbi22r2~x2~db0805267-dbi1604274/"><img src="/variants/s5/r2g23db11dbi22r2~x2~db0805267-dbi1604274/sett.png" alt="Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r2dg23db11t22r2~x2/">Skibo (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2dg23db11t22r2~x2/"><img src="/variants/s5/r2dg23db11t22r2~x2/sett.png" alt="Skibo (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skibo-2/">Skibo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skibo-2/"><img src="/variants/s5/r2dg23db11t22r2~x2/sett.png" alt="Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

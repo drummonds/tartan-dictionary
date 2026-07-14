@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3~x2~r2109032-lr3204029/">King George IV - 1824 (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3~x2~r2109032-lr3204029/"><img src="/variants/s17/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3~x2~r2109032-lr3204029/sett.png" alt="King George IV - 1824 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/king-george-2/">King George</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/king-george-2/"><img src="/variants/s17/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3~x2~r2109032-lr3204029/sett.png" alt="King George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

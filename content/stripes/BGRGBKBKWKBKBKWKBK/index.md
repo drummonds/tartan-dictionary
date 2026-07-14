@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/t32y1r3y1t32k5t3k2w1k2t3k53t3k2w1k2t3k5~x2~t2105244/">Estonian National Tartan Estonian District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/t32y1r3y1t32k5t3k2w1k2t3k53t3k2w1k2t3k5~x2~t2105244/"><img src="/variants/s18/t32y1r3y1t32k5t3k2w1k2t3k53t3k2w1k2t3k5~x2~t2105244/sett.png" alt="Estonian National Tartan Estonian District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/es/estonian-national-tartan-estonian/">Estonian National Tartan Estonian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/es/estonian-national-tartan-estonian/"><img src="/variants/s18/t32y1r3y1t32k5t3k2w1k2t3k53t3k2w1k2t3k5~x2~t2105244/sett.png" alt="Estonian National Tartan Estonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k4y2k4r29w29db4w2g4~x2/">Clan MacLeod Societies of Canada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k4y2k4r29w29db4w2g4~x2/"><img src="/variants/s8/k4y2k4r29w29db4w2g4~x2/sett.png" alt="Clan MacLeod Societies of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clan-macleod-societies-of-canada/">Clan MacLeod Societies of Canada</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clan-macleod-societies-of-canada/"><img src="/variants/s8/k4y2k4r29w29db4w2g4~x2/sett.png" alt="Clan MacLeod Societies of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

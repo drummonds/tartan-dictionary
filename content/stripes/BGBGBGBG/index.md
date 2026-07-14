@@ -28,32 +28,26 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dy31do3dy3do3dy3do22g26dr4~x2/">Devarr (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy31do3dy3do3dy3do22g26dr4~x2/"><img src="/variants/s8/dy31do3dy3do3dy3do22g26dr4~x2/sett.png" alt="Devarr (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/devarr/">Devarr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/devarr/"><img src="/variants/s8/dy31do3dy3do3dy3do22g26dr4~x2/sett.png" alt="Devarr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dt2y3dt3y3dt10y2dt18y1~x4~dt1600000/">Hebridean Cairn Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dt2y3dt3y3dt10y2dt18y1~x4~dt1600000/"><img src="/variants/s8/dt2y3dt3y3dt10y2dt18y1~x4~dt1600000/sett.png" alt="Hebridean Cairn Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebridean-cairn-2/">Hebridean Cairn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-cairn-2/"><img src="/variants/s8/dt2y3dt3y3dt10y2dt18y1~x4~dt1600000/sett.png" alt="Hebridean Cairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dg8db27dg11do2dg11db27dg8dr2~x2/">Hector, James</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg8db27dg11do2dg11db27dg8dr2~x2/"><img src="/variants/s8/dg8db27dg11do2dg11db27dg8dr2~x2/sett.png" alt="Hector, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hector-james-2/">Hector, James</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hector-james-2/"><img src="/variants/s8/dg8db27dg11do2dg11db27dg8dr2~x2/sett.png" alt="Hector, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/dr100dg4dr8dg18dr3~x2/">KaDeWe</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr100dg4dr8dg18dr3~x2/"><img src="/variants/s5/dr100dg4dr8dg18dr3~x2/sett.png" alt="KaDeWe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/land-s-end-3/">Land's End</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/land-s-end-3/"><img src="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/sett.png" alt="Land's End sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/">Land's End Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/"><img src="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/sett.png" alt="Land's End Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochleven/">Lochleven</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochleven/"><img src="/variants/s8/b48dg6b3dg6b6dg4b2dg10~x2/sett.png" alt="Lochleven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/">Land's End, Blue (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/"><img src="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/sett.png" alt="Land's End, Blue (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclachlan-2/">MacLachlan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclachlan-2/"><img src="/variants/s8/y6p2y24p6y2p21y2p6~x2/sett.png" alt="MacLachlan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/b48dg6b3dg6b6dg4b2dg10~x2/">Lochleven (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b48dg6b3dg6b6dg4b2dg10~x2/"><img src="/variants/s8/b48dg6b3dg6b6dg4b2dg10~x2/sett.png" alt="Lochleven (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/y6p2y24p6y2p21y2p6~x2/">MacLachlan (Chief's Dress) Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y6p2y24p6y2p21y2p6~x2/"><img src="/variants/s8/y6p2y24p6y2p21y2p6~x2/sett.png" alt="MacLachlan (Chief's Dress) Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/">Marist School, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/"><img src="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/sett.png" alt="Marist School, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/marist-school-the/">Marist School, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/marist-school-the/"><img src="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/sett.png" alt="Marist School, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

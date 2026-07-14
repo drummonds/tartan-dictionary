@@ -8,10 +8,10 @@ crumbs:
 - name: "Ben Murad"
   url: "/tartans/b/be/ben-murad/"
 - name: "Ben Murad (Personal)"
-  url: "/setts/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/ben-murad/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGGGGGRGBGW](/stripes/grgrgrgrgggggrgbgw/).
 
 Part of the [Ben Murad](/tartans/b/be/ben-murad/) tartan — the named design grouping this sett with its other cloths.

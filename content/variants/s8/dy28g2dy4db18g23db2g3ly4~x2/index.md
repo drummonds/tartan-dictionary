@@ -8,10 +8,10 @@ crumbs:
 - name: "Dalbraith-Eastern Western (Corporate"
   url: "/tartans/d/da/dalbraith-eastern-western-corporate/"
 - name: "Eastern Western Motor Group, Dalbraith"
-  url: "/setts/dy28g2dy4db18g23db2g3ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy28g2dy4db18g23db2g3ly4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dalbraith-eastern-western-corporate/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGBGBGY](/stripes/gggbgbgy/).
 
 Part of the [Dalbraith-Eastern Western (Corporate](/tartans/d/da/dalbraith-eastern-western-corporate/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=875](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Eastern Western Motor Group, Dalbraith (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=875">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>A corporate tartan for the Eastern Western Motor Group, Dalbraith.</em></li>
-<li>pre 2002 — Dalbraith-Eastern Western (Corporate (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2197">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>Dalbraith-Eastern Western Motor Club</em></li>
+<li>pre 2002 — Dalbraith-Eastern Western (Corporate (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2197/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>Dalbraith-Eastern Western Motor Club</em></li>
 </ul>
 </details>
 

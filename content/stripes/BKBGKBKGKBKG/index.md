@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/">Tomatin Distillery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/"><img src="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/sett.png" alt="Tomatin Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/tomatin-distillery/">Tomatin Distillery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/tomatin-distillery/"><img src="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/sett.png" alt="Tomatin Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

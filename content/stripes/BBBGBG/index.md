@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dr6do26dt28g26dt8y3~x2/">House of Bruar (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr6do26dt28g26dt8y3~x2/"><img src="/variants/s6/dr6do26dt28g26dt8y3~x2/sett.png" alt="House of Bruar (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/house-of-bruar-2/">House of Bruar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/house-of-bruar-2/"><img src="/variants/s6/dr6do26dt28g26dt8y3~x2/sett.png" alt="House of Bruar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

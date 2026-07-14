@@ -28,13 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/">Hannay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><img src="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/sett.png" alt="Hannay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/">Hannay Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><img src="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/sett.png" alt="Hannay Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/k9lb4k2lb4k2lb30k9lb4db14dy2~x2/">Hannay Blue (Fashion?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k9lb4k2lb4k2lb30k9lb4db14dy2~x2/"><img src="/variants/s10/k9lb4k2lb4k2lb30k9lb4db14dy2~x2/sett.png" alt="Hannay Blue (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hannay/">Hannay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hannay/"><img src="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/sett.png" alt="Hannay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

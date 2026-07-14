@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k7r5w3db2~x4/">Thomas Newcomen's Combustion Engine</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k7r5w3db2~x4/"><img src="/variants/s4/k7r5w3db2~x4/sett.png" alt="Thomas Newcomen's Combustion Engine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thomas-newcomen-s-combustion-engine/">Thomas Newcomen's Combustion Engine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thomas-newcomen-s-combustion-engine/"><img src="/variants/s4/k7r5w3db2~x4/sett.png" alt="Thomas Newcomen's Combustion Engine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

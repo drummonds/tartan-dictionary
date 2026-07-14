@@ -8,15 +8,15 @@ crumbs:
 - name: "Orlando, City of"
   url: "/tartans/o/or/orlando-city-of/"
 - name: "Orlando, City of"
-  url: "/setts/db12k1g16db1g1db14g3db14r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db12k1g16db1g1db14g3db14r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKGBGBGBRBGBGBGK](/stripes/bkgbgbgbrbgbgbgk/).
+provenance below. It is one weaving of the [sett](/tartans/o/or/orlando-city-of/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGBGBGBR](/stripes/bkgbgbgbr/).
 
 Part of the [Orlando, City of](/tartans/o/or/orlando-city-of/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4957](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4957)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3045
 
 ## Thread count
-DB/48 K4 G64 DB4 G4 DB56 G12 DB56 R8 DB56 G12 DB56 G4 DB4 G64 K/4
+DB/48 K4 G64 DB4 G4 DB56 G12 DB56 R/8
 
-One full sett is **860 threads**.
+One full sett is **456 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/48 K4 G64 DB4 G4 DB56 G12 DB56 R8 DB56 G12 DB56 G4 DB4 G64 K/4 — 860 threads; it folds to the canonical 456-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **860 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/48 K4 G64 DB4 G4 DB56 G12 DB56 R8 DB56 G12 DB56 G4 DB4 G64 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/48 K4 G64 DB4 G4 DB56 G12 DB56 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

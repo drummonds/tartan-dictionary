@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/">Muir Homes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/"><img src="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/sett.png" alt="Muir Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/muir-homes/">Muir Homes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/muir-homes/"><img src="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/sett.png" alt="Muir Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

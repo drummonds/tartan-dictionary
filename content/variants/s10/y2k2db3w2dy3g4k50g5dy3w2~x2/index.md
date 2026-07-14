@@ -12,10 +12,10 @@ crumbs:
 - name: "Hawes"
   url: "/tartans/h/ha/hawes/"
 - name: "Hawes (2014)"
-  url: "/setts/y2k2db3w2dy3g4k50g5dy3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2k2db3w2dy3g4k50g5dy3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hawes/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBWGGKGGW](/stripes/gkbwggkggw/).
 
 Part of the [Hawes](/tartans/h/ha/hawes/) tartan — the named design grouping this sett with its other cloths.

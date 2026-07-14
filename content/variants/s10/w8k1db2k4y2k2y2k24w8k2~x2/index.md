@@ -8,10 +8,10 @@ crumbs:
 - name: "Newcastle"
   url: "/tartans/n/ne/newcastle/"
 - name: "Newcastle"
-  url: "/setts/w8k1db2k4y2k2y2k24w8k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w8k1db2k4y2k2y2k24w8k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/newcastle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKGKGKBKW](/stripes/kwkgkgkbkw/).
 
 Part of the [Newcastle](/tartans/n/ne/newcastle/) tartan — the named design grouping this sett with its other cloths.

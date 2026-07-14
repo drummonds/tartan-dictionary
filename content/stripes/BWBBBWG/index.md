@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db4lb4db8n8db12lb12y1~x2/">von Prondzynski (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db4lb4db8n8db12lb12y1~x2/"><img src="/variants/s7/db4lb4db8n8db12lb12y1~x2/sett.png" alt="von Prondzynski (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vo/von-prondzynski/">von Prondzynski</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vo/von-prondzynski/"><img src="/variants/s7/db4lb4db8n8db12lb12y1~x2/sett.png" alt="von Prondzynski sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

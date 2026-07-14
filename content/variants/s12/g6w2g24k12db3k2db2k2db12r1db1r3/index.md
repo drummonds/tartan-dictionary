@@ -10,15 +10,15 @@ crumbs:
 - name: "Sutherland"
   url: "/families/sutherland/"
 - name: "Sutherland"
-  url: "/tartans/s/su/sutherland-2/"
+  url: "/tartans/s/su/sutherland-3/"
 - name: "Sutherland"
-  url: "/setts/g6w2g24k12db3k2db2k2db12r1db1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g6w2g24k12db3k2db2k2db12r1db1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/su/sutherland-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKBKBKBRBR](/stripes/gwgkbkbkbrbr/).
 
-Part of the [Sutherland](/tartans/s/su/sutherland-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sutherland](/tartans/s/su/sutherland-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Smithsonian"
   url: "/tartans/s/sm/smithsonian-2/"
 - name: "Smithsonian (Corporate) American Corporate Tartan"
-  url: "/setts/dg2db24ly1r2dg2r2ly1k24dg24w2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2db24ly1r2dg2r2ly1k24dg24w2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sm/smithsonian-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGKYRGRYBG](/stripes/bwgkyrgrybg/).
 
 Part of the [Smithsonian](/tartans/s/sm/smithsonian-2/) tartan — the named design grouping this sett with its other cloths.

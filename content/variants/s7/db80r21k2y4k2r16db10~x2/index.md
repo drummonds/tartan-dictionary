@@ -8,10 +8,10 @@ crumbs:
 - name: "Salvation Army Dress"
   url: "/tartans/s/sa/salvation-army-dress/"
 - name: "Salvation Army Dress Corporate Tartan"
-  url: "/setts/db80r21k2y4k2r16db10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db80r21k2y4k2r16db10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/salvation-army-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKGKRB](/stripes/brkgkrb/).
 
 Part of the [Salvation Army Dress](/tartans/s/sa/salvation-army-dress/) tartan — the named design grouping this sett with its other cloths.

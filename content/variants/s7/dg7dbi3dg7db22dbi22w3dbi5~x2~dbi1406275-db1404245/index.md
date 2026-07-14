@@ -8,22 +8,22 @@ crumbs:
 - name: "United Colours of Scotland"
   url: "/tartans/u/un/united-colours-of-scotland/"
 - name: "United Colours of Scotland (Corporat"
-  url: "/setts/dg7dbi3dg7db22dbi22w3dbi5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg7dbi3dg7db22dbi22w3dbi5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/united-colours-of-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBGBG](/stripes/bwbbgbg/).
 
 Part of the [United Colours of Scotland](/tartans/u/un/united-colours-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6504](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6504)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/6504/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6504/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>2004, December — United Colours of Scotland (Corporat (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6504">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Corporate tartan for the kilt hire business of Nicholsons Highland Supplies, Ingatestone, Essex. CM4 9EY. Marton Mills & Thread count from Lochcarron.</em></li>
+<li>2004, December — United Colours of Scotland (Corporat (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6504/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Corporate tartan for the kilt hire business of Nicholsons Highland Supplies, Ingatestone, Essex. CM4 9EY. Marton Mills & Thread count from Lochcarron.</em></li>
 <li>undated — United Colours of Scotland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4978">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Corporate tartan for the kilt hire business of Nicholsons Highland Supplies, Ingatestone, Essex. CM4 9EY. www.nicholsonssupplies.com. Tel: 01277 356969. Weavers Marton Mills. Woven sample.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6504](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

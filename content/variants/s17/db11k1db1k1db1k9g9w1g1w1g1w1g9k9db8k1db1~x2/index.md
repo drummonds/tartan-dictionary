@@ -11,11 +11,11 @@ crumbs:
   url: "/families/baillie-of-polkemett/"
 - name: "Baillie of Polkemett"
   url: "/tartans/b/ba/baillie-of-polkemett/"
-- name: "Baillie of Polkemmet"
-  url: "/setts/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1/"
+- name: "Baillie of Polkemett Family Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/baillie-of-polkemett/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWGWGWGKBKB](/stripes/bkbkbkgwgwgwgkbkb/).
 
 Part of the [Baillie of Polkemett](/tartans/b/ba/baillie-of-polkemett/) tartan — the named design grouping this sett with its other cloths.

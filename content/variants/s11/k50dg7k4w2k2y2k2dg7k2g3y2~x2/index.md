@@ -8,10 +8,10 @@ crumbs:
 - name: "Initial City Link"
   url: "/tartans/i/in/initial-city-link/"
 - name: "Initial City Link #2"
-  url: "/setts/k50dg7k4w2k2y2k2dg7k2g3y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k50dg7k4w2k2y2k2dg7k2g3y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/initial-city-link/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGKGKWKGK](/stripes/ggkgkgkwkgk/).
 
 Part of the [Initial City Link](/tartans/i/in/initial-city-link/) tartan — the named design grouping this sett with its other cloths.

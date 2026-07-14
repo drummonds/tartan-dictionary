@@ -12,15 +12,15 @@ crumbs:
 - name: "Highfield Dress"
   url: "/tartans/h/hi/highfield-dress/"
 - name: "Highfield Dress"
-  url: "/setts/db10k2g2r2g2k2w2k2w4k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10k2g2r2g2k2w2k2w4k1w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKGRGKWKWKWKWKWKGRGK](/stripes/bkgrgkwkwkwkwkwkgrgk/).
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highfield-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGRGKWKWKW](/stripes/bkgrgkwkwkw/).
 
 Part of the [Highfield Dress](/tartans/h/hi/highfield-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1704](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1704)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1704](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1982 — Highfield Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1704">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>One of three tartans designed in 1982 for the William Paul Highfield family and applicable to all of the name and any spelling variations. Original threadcount multiplied by two.</em></li>
-<li>1982 — Highfield Dress (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4183">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>One of three tartans designed in 1982 for the William Paul Highfield family and applicable to all of the name and any spelling variations. Original threadcount multiplied by two.</em></li>
+<li>1982 — Highfield Dress (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4183/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>One of three tartans designed in 1982 for the William Paul Highfield family and applicable to all of the name and any spelling variations. Original threadcount multiplied by two.</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4183
 
 ## Thread count
-DB/40 K8 G8 R8 G8 K8 W8 K8 W16 K4 W8 K4 W16 K8 W8 K8 G8 R8 G8 K/8
+DB/40 K8 G8 R8 G8 K8 W8 K8 W16 K4 W/8
 
-One full sett is **352 threads**.
+One full sett is **200 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/40 K8 G8 R8 G8 K8 W8 K8 W16 K4 W8 K4 W16 K8 W8 K8 G8 R8 G8 K/8 — 352 threads; it folds to the canonical 200-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **352 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/40 K8 G8 R8 G8 K8 W8 K8 W16 K4 W8 K4 W16 K8 W8 K8 G8 R8 G8 K/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/40 K8 G8 R8 G8 K8 W8 K8 W16 K4 W/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

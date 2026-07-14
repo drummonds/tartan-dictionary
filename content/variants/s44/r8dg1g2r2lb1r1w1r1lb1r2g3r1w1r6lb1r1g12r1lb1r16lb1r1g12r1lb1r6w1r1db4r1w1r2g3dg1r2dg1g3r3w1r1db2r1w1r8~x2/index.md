@@ -12,10 +12,10 @@ crumbs:
 - name: "MacAlister"
   url: "/tartans/m/ma/macalister-6/"
 - name: "MacAlister"
-  url: "/setts/r8dg1g2r2lb1r1w1r1lb1r2g3r1w1r6lb1r1g12r1lb1r16lb1r1g12r1lb1r6w1r1db4r1w1r2g3dg1r2dg1g3r3w1r1db2r1w1r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8dg1g2r2lb1r1w1r1lb1r2g3r1w1r6lb1r1g12r1lb1r16lb1r1g12r1lb1r6w1r1db4r1w1r2g3dg1r2dg1g3r3w1r1db2r1w1r8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macalister-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGRWRWRWRGRWRWRGRWRWRGRWRWRBRWRGGRGGRWRBRWR](/stripes/rggrwrwrwrgrwrwrgrwrwrgrwrwrbrwrggrggrwrbrwr/).
 
 Part of the [MacAlister](/tartans/m/ma/macalister-6/) tartan — the named design grouping this sett with its other cloths.

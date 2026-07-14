@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n56w30n8r10n3r20/">Walsh, Michael Edward (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n56w30n8r10n3r20/"><img src="/variants/s6/n56w30n8r10n3r20/sett.png" alt="Walsh, Michael Edward (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/walsh-michael-edward/">Walsh, Michael Edward</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/walsh-michael-edward/"><img src="/variants/s6/n56w30n8r10n3r20/sett.png" alt="Walsh, Michael Edward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k60w8lo15dp74k14/">Gingles (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k60w8lo15dp74k14/"><img src="/variants/s5/k60w8lo15dp74k14/sett.png" alt="Gingles (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gi/gingles/">Gingles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/gingles/"><img src="/variants/s5/k60w8lo15dp74k14/sett.png" alt="Gingles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w2k1w2r10k4r2w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wkwrkrw/">WKWRKRW</a></nav>
 Its design is pattern [WKWRKRW](/stripes/wkwrkrw/) — the page of every tartan sharing this colour sequence.
 
 The **Russell, Ralph T.** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Russell, Ralph T.** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2k1w2r10k4r2w1/">Russell, Ralph T.</a></td><td><code>W/16 K8 W16 R80 K32 R16 W/8</code></td><td>328</td><td>1966</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2k1w2r10k4r2w1/"><img src="/variants/s7/w2k1w2r10k4r2w1~x8/sett.png" alt="Russell, Ralph T. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w2k1w2r10k4r2w1~x8/">Russell, Ralph T.</a></td><td><code>W/16 K8 W16 R80 K32 R16 W/8</code></td><td>328</td><td>1966</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w2k1w2r10k4r2w1~x8/"><img src="/variants/s7/w2k1w2r10k4r2w1~x8/sett.png" alt="Russell, Ralph T. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r6k9r12w2k2w4~x2/"><circle cx="211.3" cy="214.1" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/variants/s6/r6w3r37k16w16g4~x2/"><circle cx="228.9" cy="157.9" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="242.2" cy="161.2" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="329.9" cy="161.1" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><circle cx="201.0" cy="191.1" r="4" fill="#3465a4"><title>Thomson</title></circle></a><a href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/"><circle cx="252.8" cy="179.4" r="4" fill="#3465a4"><title>Austin College</title></circle></a><a href="/variants/s6/r3w1r20k8w8g2~x4/"><circle cx="261.2" cy="134.0" r="4" fill="#3465a4"><title>Nisbet Dress Rose</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="340.5" cy="145.6" r="4" fill="#3465a4"><title>Hopkins</title></circle></a><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="291.9" cy="175.0" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s6/k4r33k24w3k4r3~x2/"><circle cx="283.9" cy="154.4" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><circle cx="258.0" cy="161.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r6k9r12w2k2w4~x2/"><circle cx="211.8" cy="214.1" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/variants/s6/r6w3r37k16w16g4~x2/"><circle cx="229.5" cy="157.8" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="243.0" cy="161.1" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="331.0" cy="161.2" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><circle cx="201.6" cy="191.0" r="4" fill="#3465a4"><title>Thomson</title></circle></a><a href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/"><circle cx="253.5" cy="179.3" r="4" fill="#3465a4"><title>Austin College</title></circle></a><a href="/variants/s6/r3w1r20k8w8g2~x4/"><circle cx="261.9" cy="133.9" r="4" fill="#3465a4"><title>Nisbet Dress Rose</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="341.6" cy="145.7" r="4" fill="#3465a4"><title>Hopkins</title></circle></a><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="292.7" cy="175.0" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s6/k4r33k24w3k4r3~x2/"><circle cx="284.9" cy="154.5" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><circle cx="258.8" cy="161.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

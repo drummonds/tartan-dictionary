@@ -10,10 +10,10 @@ crumbs:
 - name: "Manx National"
   url: "/tartans/m/ma/manx-national/"
 - name: "Manx National District Tartan"
-  url: "/setts/dp2g8r1dy1db6lb15w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2g8r1dy1db6lb15w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/manx-national/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGBWW](/stripes/bgrgbww/).
 
 Part of the [Manx National](/tartans/m/ma/manx-national/) tartan — the named design grouping this sett with its other cloths.

@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan East"
   url: "/clan/east/"
+aliases:
+- "/setts/lb6db17dp4db2k11g3lo4/"
+- "/setts/lb6db17dp4db2k11g33y4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbbbkgy/">WBBBKGY</a></nav>
 A tartan of [Clan East](/clan/east/).
 Its design is pattern [WBBBKGY](/stripes/wbbbkgy/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **East Lothian** tartan groups 2 setts — the same named design recorded as
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb6db17dp4db2k11g3lo4/">East Lothian</a> ★</td><td><code>LB/12 DB34 DP8 DB4 K22 G6 LO/8</code></td><td>168</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb6db17dp4db2k11g3lo4/"><img src="/variants/s7/lb6db17dp4db2k11g3lo4~x2/sett.png" alt="East Lothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lb6db17dp4db2k11g33y4/">East Lothian</a></td><td><code>LB/12 DB34 DP8 DB4 K22 G66 Y/8</code></td><td>288</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb6db17dp4db2k11g33y4/"><img src="/variants/s7/lb6db17dp4db2k11g33y4~x2/sett.png" alt="East Lothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/">East Lothian</a> ★</td><td><code>LB/12 DB34 DP8 DB4 K22 G6 LO/8</code></td><td>168</td><td>1999</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/"><img src="/variants/s7/lb6db17dp4db2k11g3lo4~x2/sett.png" alt="East Lothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb6db17dp4db2k11g33y4~x2/">East Lothian</a></td><td><code>LB/12 DB34 DP8 DB4 K22 G66 Y/8</code></td><td>288</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb6db17dp4db2k11g33y4~x2/"><img src="/variants/s7/lb6db17dp4db2k11g33y4~x2/sett.png" alt="East Lothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="161.8" cy="201.2" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s7/dp11db2lb4db21k16g19y4~x2/"><circle cx="77.9" cy="186.8" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="143.5" cy="162.8" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="114.1" cy="170.0" r="4" fill="#3465a4"><title>Morris of Eddergoll</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="116.7" cy="193.9" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="162.3" cy="189.0" r="4" fill="#3465a4"><title>Fife</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="120.6" cy="229.4" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s6/db15k10n30dy11w3lb5~x2/"><circle cx="139.3" cy="189.7" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/variants/s9/w3db1w1db3k1y1k8g3dp2~x2/"><circle cx="79.7" cy="151.6" r="4" fill="#3465a4"><title>Scottish Cultural Society Ltd</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="200.9" cy="156.0" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><circle cx="109.2" cy="172.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="162.2" cy="201.1" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s7/dp11db2lb4db21k16g19y4~x2/"><circle cx="78.0" cy="186.4" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="143.9" cy="162.5" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="114.4" cy="169.7" r="4" fill="#3465a4"><title>Morris of Eddergoll</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="117.0" cy="193.7" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="162.8" cy="188.8" r="4" fill="#3465a4"><title>Fife</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="120.8" cy="229.2" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s6/db15k10n30dy11w3lb5~x2/"><circle cx="139.6" cy="189.4" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/variants/s9/w3db1w1db3k1y1k8g3dp2~x2/"><circle cx="80.0" cy="151.2" r="4" fill="#3465a4"><title>Scottish Cultural Society Ltd</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="201.5" cy="155.8" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><circle cx="109.5" cy="172.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

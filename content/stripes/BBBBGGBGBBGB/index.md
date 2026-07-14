@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/">Bowhunter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/"><img src="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/sett.png" alt="Bowhunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/dp3g10dp2db25dy3n4dy3dg10db3dp2n3dp1~x2~g1903114-dg1806142/">Bowhunter (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dp3g10dp2db25dy3n4dy3dg10db3dp2n3dp1~x2~g1903114-dg1806142/"><img src="/variants/s12/dp3g10dp2db25dy3n4dy3dg10db3dp2n3dp1~x2~g1903114-dg1806142/sett.png" alt="Bowhunter (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bowhunter/">Bowhunter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bowhunter/"><img src="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/sett.png" alt="Bowhunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/n10k1db3g3ly1~x6/">Celtic Norse Heritage Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/n10k1db3g3ly1~x6/"><img src="/variants/s5/n10k1db3g3ly1~x6/sett.png" alt="Celtic Norse Heritage Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/celtic-norse-heritage-society/">Celtic Norse Heritage Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/celtic-norse-heritage-society/"><img src="/variants/s5/n10k1db3g3ly1~x6/sett.png" alt="Celtic Norse Heritage Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

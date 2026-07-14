@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/barclay/"
 - name: "Barclay"
   url: "/families/barclay/"
+aliases:
+- "/setts/dy5dt32dy32w5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgw/">GBGW</a></nav>
 A tartan of the [Barclay](/families/barclay/) family.
 Its design is pattern [GBGW](/stripes/gbgw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Barclay Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dy5dt32dy32w5/">Barclay Dress</a></td><td><code>DY/10 DT64 DY64 W/10</code></td><td>276</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy5dt32dy32w5/"><img src="/variants/s4/dy5dt32dy32w5~x2/sett.png" alt="Barclay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dy5dt32dy32w5~x2/">Barclay Dress</a></td><td><code>DY/10 DT64 DY64 W/10</code></td><td>276</td><td>1842</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dy5dt32dy32w5~x2/"><img src="/variants/s4/dy5dt32dy32w5~x2/sett.png" alt="Barclay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y7dg7db2dg7y7w1~x2~dg1806142-db1406275-w4000000/"><circle cx="342.1" cy="331.1" r="4" fill="#3465a4"><title>Norwich No.078</title></circle></a><a href="/variants/s3/dp5g6y1~x4/"><circle cx="324.9" cy="325.7" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s5/dg37dy9dg3r9dy3~x2/"><circle cx="509.2" cy="253.2" r="4" fill="#3465a4"><title>Glen Trool</title></circle></a><a href="/variants/s3/dp2g4y1~x4/"><circle cx="345.4" cy="349.6" r="4" fill="#3465a4"><title>Wilson's No.201</title></circle></a><a href="/variants/s3/dp10g12y1~x2~dp1607327/"><circle cx="374.0" cy="288.7" r="4" fill="#3465a4"><title>Wilson's No.081</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="315.3" cy="254.2" r="4" fill="#3465a4"><title>McMoosie Hunting</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.5" cy="285.9" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="253.8" cy="264.5" r="4" fill="#3465a4"><title>Phinn</title></circle></a><a href="/variants/s5/g7dy6dt7dy1dt2~x6/"><circle cx="333.7" cy="347.5" r="4" fill="#3465a4"><title>Bright of Garth</title></circle></a><a href="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/"><circle cx="347.0" cy="321.2" r="4" fill="#3465a4"><title>Wilson's No.084</title></circle></a><circle cx="396.7" cy="322.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y7dg7db2dg7y7w1~x2~dg1806142-db1406275-w4000000/"><circle cx="342.1" cy="331.3" r="4" fill="#3465a4"><title>Norwich No.078</title></circle></a><a href="/variants/s3/dp5g6y1~x4/"><circle cx="325.2" cy="325.9" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s5/dg37dy9dg3r9dy3~x2/"><circle cx="509.8" cy="253.7" r="4" fill="#3465a4"><title>Glen Trool</title></circle></a><a href="/variants/s3/dp2g4y1~x4/"><circle cx="345.6" cy="349.9" r="4" fill="#3465a4"><title>Wilson's No.201</title></circle></a><a href="/variants/s3/dp10g12y1~x2~dp1607327/"><circle cx="374.5" cy="288.9" r="4" fill="#3465a4"><title>Wilson's No.081</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="315.5" cy="254.3" r="4" fill="#3465a4"><title>McMoosie Hunting</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="452.1" cy="286.3" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="253.9" cy="264.5" r="4" fill="#3465a4"><title>Phinn</title></circle></a><a href="/variants/s5/g7dy6dt7dy1dt2~x6/"><circle cx="333.6" cy="347.7" r="4" fill="#3465a4"><title>Bright of Garth</title></circle></a><a href="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/"><circle cx="347.4" cy="321.5" r="4" fill="#3465a4"><title>Wilson's No.084</title></circle></a><circle cx="396.9" cy="322.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

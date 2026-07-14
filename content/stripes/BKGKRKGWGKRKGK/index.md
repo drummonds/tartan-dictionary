@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28db3~x2/">Lambert (Front Royal) Dark Night</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28db3~x2/"><img src="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28db3~x2/sett.png" alt="Lambert (Front Royal) Dark Night sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/">Lambert Dark (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/"><img src="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/sett.png" alt="Lambert Dark (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lambert-dark/">Lambert Dark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lambert-dark/"><img src="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/sett.png" alt="Lambert Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lambert-dark-night/">Lambert Dark Night</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lambert-dark-night/"><img src="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28db3~x2/sett.png" alt="Lambert Dark Night sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

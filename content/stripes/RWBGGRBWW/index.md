@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r36w1db3y1g16r8db3lb2w1/">Drummond of Perth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r36w1db3y1g16r8db3lb2w1/"><img src="/variants/s9/r36w1db3y1g16r8db3lb2w1/sett.png" alt="Drummond of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/">Perth - 1819 (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/"><img src="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/sett.png" alt="Perth - 1819 (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r36w1db3y1dg16r8db3lb2w1~x2/">Perthshire or Drummond of Perth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r36w1db3y1dg16r8db3lb2w1~x2/"><img src="/variants/s9/r36w1db3y1dg16r8db3lb2w1~x2/sett.png" alt="Perthshire or Drummond of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drummond-of-perth-2/">Drummond of Perth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-of-perth-2/"><img src="/variants/s9/r36w1db3y1g16r8db3lb2w1/sett.png" alt="Drummond of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perth/">Perth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perth/"><img src="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/sett.png" alt="Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perthshire-or-drummond-of-perth/">Perthshire or Drummond of Perth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perthshire-or-drummond-of-perth/"><img src="/variants/s9/r36w1db3y1dg16r8db3lb2w1~x2/sett.png" alt="Perthshire or Drummond of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

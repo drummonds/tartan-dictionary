@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/lb4ly15lb4w2~x2/">Takla Makan #2 (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb4ly15lb4w2~x2/"><img src="/variants/s4/lb4ly15lb4w2~x2/sett.png" alt="Takla Makan #2 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/takla-makan/">Takla Makan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/takla-makan/"><img src="/variants/s4/lb4ly15lb4w2~x2/sett.png" alt="Takla Makan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

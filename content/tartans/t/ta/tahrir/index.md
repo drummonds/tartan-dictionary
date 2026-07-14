@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k5w4r15g70k4w5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwrgkw/">KWRGKW</a></nav>
 Its design is pattern [KWRGKW](/stripes/kwrgkw/) — the page of every tartan sharing this colour sequence.
 
 The **Tahrir** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Tahrir** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k5w4r15g70k4w5/">Tahrir</a></td><td><code>K/10 W8 R30 G140 K8 W/10</code></td><td>392</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k5w4r15g70k4w5/"><img src="/variants/s6/k5w4r15g70k4w5~x2/sett.png" alt="Tahrir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k5w4r15g70k4w5~x2/">Tahrir</a></td><td><code>K/10 W8 R30 G140 K8 W/10</code></td><td>392</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k5w4r15g70k4w5~x2/"><img src="/variants/s6/k5w4r15g70k4w5~x2/sett.png" alt="Tahrir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="357.1" cy="115.5" r="4" fill="#3465a4"><title>Military Medical Memorial</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="273.4" cy="148.6" r="4" fill="#3465a4"><title>Limerick County Crest</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="274.8" cy="148.0" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s5/g62k40y3k3w3~x2/"><circle cx="304.9" cy="143.5" r="4" fill="#3465a4"><title>O'Donoghue</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="373.6" cy="100.5" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s5/r2k4g45k3y2/"><circle cx="495.4" cy="124.4" r="4" fill="#3465a4"><title>Mar</title></circle></a><a href="/variants/s5/dr2k4g45k3y2~x2/"><circle cx="499.4" cy="127.3" r="4" fill="#3465a4"><title>Mar, Tribe of</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="355.2" cy="171.1" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.6" cy="124.3" r="4" fill="#3465a4"><title>Sarros XX</title></circle></a><a href="/variants/s5/r1k2g16k2y1~x2/"><circle cx="407.7" cy="142.5" r="4" fill="#3465a4"><title>Mar District</title></circle></a><circle cx="372.0" cy="131.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="358.2" cy="115.7" r="4" fill="#3465a4"><title>Military Medical Memorial</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="274.1" cy="148.6" r="4" fill="#3465a4"><title>Limerick County Crest</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="275.5" cy="148.0" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s5/g62k40y3k3w3~x2/"><circle cx="305.8" cy="143.6" r="4" fill="#3465a4"><title>O'Donoghue</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="374.6" cy="100.7" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s5/r2k4g45k3y2/"><circle cx="496.7" cy="124.9" r="4" fill="#3465a4"><title>Mar</title></circle></a><a href="/variants/s5/dr2k4g45k3y2~x2/"><circle cx="500.7" cy="127.8" r="4" fill="#3465a4"><title>Mar, Tribe of</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="355.9" cy="171.2" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="359.6" cy="124.5" r="4" fill="#3465a4"><title>Sarros XX</title></circle></a><a href="/variants/s5/r1k2g16k2y1~x2/"><circle cx="408.8" cy="142.8" r="4" fill="#3465a4"><title>Mar District</title></circle></a><circle cx="373.0" cy="132.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -12,10 +12,10 @@ crumbs:
 - name: "Gunn"
   url: "/tartans/g/gu/gunn-3/"
 - name: "Gunn (Logan)"
-  url: "/setts/r2g12k12g1k12g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2g12k12g1k12g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gu/gunn-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGR](/stripes/gkgkgr/).
 
 Part of the [Gunn](/tartans/g/gu/gunn-3/) tartan — the named design grouping this sett with its other cloths.

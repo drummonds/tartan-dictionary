@@ -8,10 +8,10 @@ crumbs:
 - name: "Krifa-Jean"
   url: "/tartans/k/kr/krifa-jean/"
 - name: "Krifa-Jean (Personal)"
-  url: "/setts/dg4ri5y4db4do2n4r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4ri5y4db4do2n4r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/kr/krifa-jean/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBBBR](/stripes/grgbbbr/).
 
 Part of the [Krifa-Jean](/tartans/k/kr/krifa-jean/) tartan — the named design grouping this sett with its other cloths.

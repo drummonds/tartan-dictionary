@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w5k3y6k5w3k30y2~x2/">Northern Kentucky University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><img src="/variants/s7/w5k3y6k5w3k30y2~x2/sett.png" alt="Northern Kentucky University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/northern-kentucky-university/">Northern Kentucky University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/northern-kentucky-university/"><img src="/variants/s7/w5k3y6k5w3k30y2~x2/sett.png" alt="Northern Kentucky University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

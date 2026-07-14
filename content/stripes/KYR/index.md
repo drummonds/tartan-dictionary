@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/k1lr1o1~x6/">Coigach Tweed</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k1lr1o1~x6/"><img src="/variants/s3/k1lr1o1~x6/sett.png" alt="Coigach Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coigach-tweed/">Coigach Tweed</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coigach-tweed/"><img src="/variants/s3/k1lr1o1~x6/sett.png" alt="Coigach Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

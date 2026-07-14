@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/cumnock/"
 - name: "Cumnock"
   url: "/families/cumnock/"
+aliases:
+- "/setts/g3db16k3dp2k45r1k2lo3/"
+- "/setts/g3db16k3dp2k45r1k2lr3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkbkrky/">GBKBKRKY</a></nav>
 A tartan of the [Cumnock](/families/cumnock/) family.
 Its design is pattern [GBKBKRKY](/stripes/gbkbkrky/) — the page of every tartan sharing this colour sequence.
 
@@ -20,11 +24,11 @@ The **Cumnock** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g3db16k3dp2k45r1k2lo3/">Cumnock</a> ★</td><td><code>LO/6 K4 R2 K90 DP4 K6 DB32 G/6</code></td><td>288</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g3db16k3dp2k45r1k2lo3/"><img src="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png" alt="Cumnock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/">Cumnock</a> ★</td><td><code>G/6 DB32 K6 DP4 K90 R2 K4 LO/6</code></td><td>288</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/"><img src="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png" alt="Cumnock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/">Cumnock</a> · <a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2~g2408144-db1607278-lo2907057/">District Tartan</a></td></tr>
-<tr><td><a href="/setts/g3db16k3dp2k45r1k2lr3/">(District)</a></td><td><code>G/6 DB32 K6 DP4 K90 R2 K4 LR/6</code></td><td>288</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g3db16k3dp2k45r1k2lr3/"><img src="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/">(District)</a></td><td><code>G/6 DB32 K6 DP4 K90 R2 K4 LR/6</code></td><td>288</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/"><img src="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="432.1" cy="60.8" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"><circle cx="420.0" cy="64.8" r="4" fill="#3465a4"><title>McCuaig Hunting</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="356.3" cy="35.8" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="308.7" cy="71.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s10/lb6dg2lb2dg5k49r2k2r4g10k2~x2/"><circle cx="312.2" cy="55.8" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><circle cx="483.6" cy="28.5" r="4" fill="#3465a4"><title>Colleges Scotland</title></circle></a><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><circle cx="382.7" cy="110.5" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/"><circle cx="352.1" cy="33.8" r="4" fill="#3465a4"><title>Pompili, Antonio and Alessandro</title></circle></a><a href="/variants/s8/k43y3b1w1db1y3db25r2~x2/"><circle cx="309.0" cy="53.6" r="4" fill="#3465a4"><title>Royal Yaght Britannia, The</title></circle></a><a href="/variants/s11/k49db15k2ly6k33dr4k3dy8w3db5k3~x2/"><circle cx="335.8" cy="62.5" r="4" fill="#3465a4"><title>State Seal of Wisconsin</title></circle></a><circle cx="375.2" cy="42.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="433.6" cy="61.1" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"><circle cx="421.4" cy="65.1" r="4" fill="#3465a4"><title>McCuaig Hunting</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="357.6" cy="35.9" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="309.9" cy="71.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s10/lb6dg2lb2dg5k49r2k2r4g10k2~x2/"><circle cx="313.4" cy="55.9" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><circle cx="485.3" cy="28.8" r="4" fill="#3465a4"><title>Colleges Scotland</title></circle></a><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><circle cx="383.9" cy="110.8" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/"><circle cx="353.3" cy="33.8" r="4" fill="#3465a4"><title>Pompili, Antonio and Alessandro</title></circle></a><a href="/variants/s8/k43y3b1w1db1y3db25r2~x2/"><circle cx="310.1" cy="53.6" r="4" fill="#3465a4"><title>Royal Yaght Britannia, The</title></circle></a><a href="/variants/s11/k49db15k2ly6k33dr4k3dy8w3db5k3~x2/"><circle cx="337.0" cy="62.6" r="4" fill="#3465a4"><title>State Seal of Wisconsin</title></circle></a><circle cx="376.6" cy="42.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

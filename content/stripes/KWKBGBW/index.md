@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k19w8k19b16y4b16w2~x2/">St Johnstone F.C.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k19w8k19b16y4b16w2~x2/"><img src="/variants/s7/k19w8k19b16y4b16w2~x2/sett.png" alt="St Johnstone F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-johnstone-f-c/">St. Johnstone F.C.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-johnstone-f-c/"><img src="/variants/s7/k19w8k19b16y4b16w2~x2/sett.png" alt="St. Johnstone F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

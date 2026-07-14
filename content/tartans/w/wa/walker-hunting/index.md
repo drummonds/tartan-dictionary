@@ -8,17 +8,20 @@ crumbs:
   url: "/clan/walker/"
 - name: "Walker"
   url: "/families/walker/"
+aliases:
+- "/setts/r4db2g7db15g3db3g3db7g28k7g6k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkgbgbgbgbr/">KGKGBGBGBGBR</a></nav>
 A tartan of the [Walker](/families/walker/) family.
-Its design is pattern [BGBGBGBGKGKGKGBGBGBGBR](/stripes/bgbgbgbgkgkgkgbgbgbgbr/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [KGKGBGBGBGBR](/stripes/kgkgbgbgbgbr/) — the page of every tartan sharing this colour sequence.
 
 The **Walker Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4db2g7db15g3db3g3db7g28k7g6k2/">Walker Hunting</a></td><td><code>R/8 DB4 G14 DB30 G6 DB6 G6 DB14 G56 K14 G12 K4 G12 K14 G56 DB14 G6 DB6 G6 DB30 G14 DB/4</code></td><td>336</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4db2g7db15g3db3g3db7g28k7g6k2/"><img src="/variants/s12/r4db2g7db15g3db3g3db7g28k7g6k2~x2/sett.png" alt="Walker Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r4db2g7db15g3db3g3db7g28k7g6k2~x2/">Walker Hunting</a></td><td><code>R/8 DB4 G14 DB30 G6 DB6 G6 DB14 G56 K14 G12 K/4</code></td><td>336</td><td>1992</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r4db2g7db15g3db3g3db7g28k7g6k2~x2/"><img src="/variants/s12/r4db2g7db15g3db3g3db7g28k7g6k2~x2/sett.png" alt="Walker Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/"><circle cx="249.7" cy="138.0" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/"><circle cx="239.2" cy="136.2" r="4" fill="#3465a4"><title>Hudson Hunting</title></circle></a><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="227.1" cy="157.1" r="4" fill="#3465a4"><title>Marthas Vineyard</title></circle></a><a href="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/"><circle cx="256.7" cy="179.9" r="4" fill="#3465a4"><title>Mayhew</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="276.7" cy="147.3" r="4" fill="#3465a4"><title>Harley , Robert</title></circle></a><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><circle cx="194.1" cy="140.7" r="4" fill="#3465a4"><title>Sardar Chadha</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="207.3" cy="166.3" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s12/g10k1g10db1g1k1g1k1db10k1lo1dr1~x4/"><circle cx="255.9" cy="132.6" r="4" fill="#3465a4"><title>Old Dobbs County</title></circle></a><a href="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/"><circle cx="238.7" cy="116.2" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/"><circle cx="203.5" cy="139.3" r="4" fill="#3465a4"><title>MacInroy Hunting</title></circle></a><circle cx="261.5" cy="145.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/"><circle cx="250.4" cy="138.0" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/"><circle cx="239.8" cy="136.2" r="4" fill="#3465a4"><title>Hudson Hunting</title></circle></a><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="227.6" cy="157.0" r="4" fill="#3465a4"><title>Marthas Vineyard</title></circle></a><a href="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/"><circle cx="257.1" cy="179.9" r="4" fill="#3465a4"><title>Mayhew</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="277.5" cy="147.3" r="4" fill="#3465a4"><title>Harley , Robert</title></circle></a><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><circle cx="194.6" cy="140.6" r="4" fill="#3465a4"><title>Sardar Chadha</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="207.8" cy="166.2" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s12/g10k1g10db1g1k1g1k1db10k1lo1dr1~x4/"><circle cx="256.6" cy="132.6" r="4" fill="#3465a4"><title>Old Dobbs County</title></circle></a><a href="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/"><circle cx="239.4" cy="116.2" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/"><circle cx="204.0" cy="139.2" r="4" fill="#3465a4"><title>MacInroy Hunting</title></circle></a><circle cx="262.2" cy="145.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

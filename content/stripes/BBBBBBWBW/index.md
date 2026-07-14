@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/t22db3t3db3t3db9lb28db3lb6~x2~t2405244-lb3200000/">Kildonan Blue (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/t22db3t3db3t3db9lb28db3lb6~x2~t2405244-lb3200000/"><img src="/variants/s9/t22db3t3db3t3db9lb28db3lb6~x2~t2405244-lb3200000/sett.png" alt="Kildonan Blue (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kildonan/">Kildonan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kildonan/"><img src="/variants/s9/t22db3t3db3t3db9lb28db3lb6~x2~t2405244-lb3200000/sett.png" alt="Kildonan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

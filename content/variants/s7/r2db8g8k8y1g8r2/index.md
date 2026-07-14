@@ -12,10 +12,10 @@ crumbs:
 - name: "Brodie Hunting"
   url: "/tartans/b/br/brodie-hunting/"
 - name: "Brodie Hunting"
-  url: "/setts/r2db8g8k8y1g8r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2db8g8k8y1g8r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brodie-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGKGGR](/stripes/rbgkggr/).
 
 Part of the [Brodie Hunting](/tartans/b/br/brodie-hunting/) tartan — the named design grouping this sett with its other cloths.

@@ -8,15 +8,15 @@ crumbs:
 - name: "Loch Freuchie"
   url: "/tartans/l/lo/loch-freuchie/"
 - name: "Loch Freuchie District Tartan"
-  url: "/setts/r3db3k2db13k27g20r2g3lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3db3k2db13k27g20r2g3lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-freuchie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKKGRGW](/stripes/rbkbkkgrgw/).
 
 Part of the [Loch Freuchie](/tartans/l/lo/loch-freuchie/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10725](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10725)
 

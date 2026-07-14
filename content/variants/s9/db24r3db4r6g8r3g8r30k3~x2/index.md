@@ -12,10 +12,10 @@ crumbs:
 - name: "Gates"
   url: "/tartans/g/ga/gates/"
 - name: "Gates"
-  url: "/setts/db24r3db4r6g8r3g8r30k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db24r3db4r6g8r3g8r30k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ga/gates/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGRGRK](/stripes/brbrgrgrk/).
 
 Part of the [Gates](/tartans/g/ga/gates/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1316](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Gates (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1316">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed in 2002 by Dr Phil Smith for Daniel Gates but can be worn by all of the name. See also Gates Htg (#6263, original Scottish Tartans Authority reference).</em></li>
-<li>2002 — Gates (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6309">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed in 2002 by Dr Phil Smith for Daniel Gates but can be worn by all of the name. See also Gates Htg (#6263)</em></li>
+<li>2002 — Gates (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6309/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed in 2002 by Dr Phil Smith for Daniel Gates but can be worn by all of the name. See also Gates Htg (#6263)</em></li>
 </ul>
 </details>
 

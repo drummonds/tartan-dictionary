@@ -10,10 +10,10 @@ crumbs:
 - name: "Westmeath Irish County"
   url: "/tartans/w/we/westmeath-irish-county/"
 - name: "Westmeath Irish County Tartan"
-  url: "/setts/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/westmeath-irish-county/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYGYGBBGGGBBG](/stripes/bbygygbbgggbbg/).
 
 Part of the [Westmeath Irish County](/tartans/w/we/westmeath-irish-county/) tartan — the named design grouping this sett with its other cloths.

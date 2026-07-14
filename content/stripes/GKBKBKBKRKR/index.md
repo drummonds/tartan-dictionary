@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/">Brotherhood of Dirk (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><img src="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/sett.png" alt="Brotherhood of Dirk (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/">Brotherhood of Dirk, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><img src="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/sett.png" alt="Brotherhood of Dirk, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brotherhood-of-dirk/">Brotherhood of Dirk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brotherhood-of-dirk/"><img src="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/sett.png" alt="Brotherhood of Dirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brotherhood-of-dirk-the/">Brotherhood of Dirk, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brotherhood-of-dirk-the/"><img src="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/sett.png" alt="Brotherhood of Dirk, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

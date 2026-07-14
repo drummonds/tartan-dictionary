@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k64g12n6k15dy1g5lb1~x2/">McCann of Castlecraig (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k64g12n6k15dy1g5lb1~x2/"><img src="/variants/s7/k64g12n6k15dy1g5lb1~x2/sett.png" alt="McCann of Castlecraig (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mccann-of-castlecraig/">McCann of Castlecraig</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccann-of-castlecraig/"><img src="/variants/s7/k64g12n6k15dy1g5lb1~x2/sett.png" alt="McCann of Castlecraig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

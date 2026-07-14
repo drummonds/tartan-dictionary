@@ -8,10 +8,10 @@ crumbs:
 - name: "Alma College"
   url: "/tartans/a/al/alma-college/"
 - name: "Alma College"
-  url: "/setts/g24k3g2k3g4k4r20k3r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g24k3g2k3g4k4r20k3r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/alma-college/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKRKR](/stripes/gkgkgkrkr/).
 
 Part of the [Alma College](/tartans/a/al/alma-college/) tartan — the named design grouping this sett with its other cloths.

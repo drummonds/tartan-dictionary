@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/t32dy16g3lo4dg28~x2/">Corey (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><img src="/variants/s5/t32dy16g3lo4dg28~x2/sett.png" alt="Corey (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/db32dy16g3lo4dg28~x2/">Corey in Balachuirn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><img src="/variants/s5/db32dy16g3lo4dg28~x2/sett.png" alt="Corey in Balachuirn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/corey/">Corey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/corey/"><img src="/variants/s5/t32dy16g3lo4dg28~x2/sett.png" alt="Corey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/corey-in-balachuirn/">Corey in Balachuirn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/corey-in-balachuirn/"><img src="/variants/s5/db32dy16g3lo4dg28~x2/sett.png" alt="Corey in Balachuirn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

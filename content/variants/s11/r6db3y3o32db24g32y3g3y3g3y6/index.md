@@ -8,10 +8,10 @@ crumbs:
 - name: "Bonnie Brae"
   url: "/tartans/b/bo/bonnie-brae-2/"
 - name: "Bonnie Brae Corporate Tartan"
-  url: "/setts/r6db3y3o32db24g32y3g3y3g3y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6db3y3o32db24g32y3g3y3g3y6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bonnie-brae-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGBRGBR](/stripes/ggggggbrgbr/).
 
 Part of the [Bonnie Brae](/tartans/b/bo/bonnie-brae-2/) tartan — the named design grouping this sett with its other cloths.

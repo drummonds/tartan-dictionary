@@ -10,15 +10,15 @@ crumbs:
 - name: "Williams Lake"
   url: "/tartans/w/wi/williams-lake/"
 - name: "Williams Lake Canadian District Tartan"
-  url: "/setts/y6k1y3g3w3r3k2r3db3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y6k1y3g3w3r3k2r3db3w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGGWRKRBWBRKRWGGK](/stripes/gkggwrkrbwbrkrwggk/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/williams-lake/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGGWRKRBW](/stripes/gkggwrkrbw/).
 
 Part of the [Williams Lake](/tartans/w/wi/williams-lake/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6736](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6736)
 
@@ -43,9 +43,11 @@ Earliest known date: 2004 March Designed and woven by the city's Spinners & Weav
 </details>
 
 ## Thread count
-Y/12 K2 Y6 G6 W6 R6 K4 R6 DB6 W6 DB6 R6 K4 R6 W6 G6 Y6 K/2
+Y/12 K2 Y6 G6 W6 R6 K4 R6 DB6 W/6
 
-One full sett is **190 threads**.
+One full sett is **102 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/12 K2 Y6 G6 W6 R6 K4 R6 DB6 W6 DB6 R6 K4 R6 W6 G6 Y6 K/2 — 190 threads; it folds to the canonical 102-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **190 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/12 K2 Y6 G6 W6 R6 K4 R6 DB6 W6 DB6 R6 K4 R6 W6 G6 Y6 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/12 K2 Y6 G6 W6 R6 K4 R6 DB6 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

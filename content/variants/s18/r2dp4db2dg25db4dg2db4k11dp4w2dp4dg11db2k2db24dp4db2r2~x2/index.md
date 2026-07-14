@@ -8,22 +8,22 @@ crumbs:
 - name: "Empire Golf Check"
   url: "/tartans/e/em/empire-golf-check/"
 - name: "Empire Golf Check (Fashion)"
-  url: "/setts/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/em/empire-golf-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBKBGBWBKBGBGBBR](/stripes/rbbbkbgbwbkbgbgbbr/).
 
 Part of the [Empire Golf Check](/tartans/e/em/empire-golf-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6888](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6888)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/6888/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6888/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1999 — Empire Golf Check (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6888">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#306800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #306800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed in 1999 and first woven by Lochcarron in 2000 for a company called High Cross. No relevant results on High Cross in a Google search.</em></li>
+<li>1999 — Empire Golf Check (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6888/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#306800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #306800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed in 1999 and first woven by Lochcarron in 2000 for a company called High Cross. No relevant results on High Cross in a Google search.</em></li>
 <li>01/01/2004 — Empire Golf Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1110">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>No details except that it was produced for 'High Cross EDI'.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6888](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

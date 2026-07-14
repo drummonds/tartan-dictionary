@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r2db12dg2g11dg4db5g2dg24w2~x2/">Fraser Gathering, Green (1997)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r2db12dg2g11dg4db5g2dg24w2~x2/"><img src="/variants/s9/r2db12dg2g11dg4db5g2dg24w2~x2/sett.png" alt="Fraser Gathering, Green (1997) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-gathering-hunting/">Fraser Gathering Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-gathering-hunting/"><img src="/variants/s9/r2db12dg2g11dg4db5g2dg24w2~x2/sett.png" alt="Fraser Gathering Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

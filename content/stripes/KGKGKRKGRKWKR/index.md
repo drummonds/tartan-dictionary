@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k25dg5k2y2ki2r2k2dg20r20ki2w2ki2r2~x2~k0504259-ki0700000/">Quebec, Plaid du (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k25dg5k2y2ki2r2k2dg20r20ki2w2ki2r2~x2~k0504259-ki0700000/"><img src="/variants/s13/k25dg5k2y2ki2r2k2dg20r20ki2w2ki2r2~x2~k0504259-ki0700000/sett.png" alt="Quebec, Plaid du (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/quebec-plaid-du-2/">Quebec, Plaid du</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/quebec-plaid-du-2/"><img src="/variants/s13/k25dg5k2y2ki2r2k2dg20r20ki2w2ki2r2~x2~k0504259-ki0700000/sett.png" alt="Quebec, Plaid du sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Monaghan County, Crest Range"
   url: "/tartans/m/mo/monaghan-county-crest-range/"
 - name: "Monaghan County, Crest Range"
-  url: "/setts/dy15dbi2lb8db21w2dbi21db6w7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy15dbi2lb8db21w2dbi21db6w7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/monaghan-county-crest-range/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBWBBW](/stripes/gbwbwbbw/).
 
 Part of the [Monaghan County, Crest Range](/tartans/m/mo/monaghan-county-crest-range/) tartan — the named design grouping this sett with its other cloths.

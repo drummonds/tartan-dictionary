@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n7w1r6db10g10w1~x4/">McEachem (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n7w1r6db10g10w1~x4/"><img src="/variants/s6/n7w1r6db10g10w1~x4/sett.png" alt="McEachem (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/n7w1r6db10dg10w1~x4/">McEachern, Andrew</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><img src="/variants/s6/n7w1r6db10dg10w1~x4/sett.png" alt="McEachern, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mceachem/">McEachem</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mceachem/"><img src="/variants/s6/n7w1r6db10g10w1~x4/sett.png" alt="McEachem sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mceachern-andrew/">McEachern, Andrew</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mceachern-andrew/"><img src="/variants/s6/n7w1r6db10dg10w1~x4/sett.png" alt="McEachern, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

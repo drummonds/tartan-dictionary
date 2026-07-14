@@ -12,10 +12,10 @@ crumbs:
 - name: "Bryce"
   url: "/tartans/b/br/bryce-2/"
 - name: "Bryce"
-  url: "/setts/dr5o35dr46ly5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr5o35dr46ly5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bryce-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBY](/stripes/brby/).
 
 Part of the [Bryce](/tartans/b/br/bryce-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=408](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1953 — Bryce (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=408">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#684038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #684038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A88000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #A88000"></span><br><em>Source said to be the Scottish Tartans Society MacGregor-Hastie collection.</em></li>
-<li>1953 — Bryce (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1537">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#684038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #684038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A88000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #A88000"></span><br><em>Source said to be MacGregor-Hastie. This count is from a woven sample from the Jack Dalgety Collection but it may have been a 'muted' version since James Cant MA's manuscript book 450+ hand-painted colour strips completed prior to 1960 shows the grey/brown as being green.</em></li>
+<li>1953 — Bryce (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1537/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#684038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #684038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A88000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #A88000"></span><br><em>Source said to be MacGregor-Hastie. This count is from a woven sample from the Jack Dalgety Collection but it may have been a 'muted' version since James Cant MA's manuscript book 450+ hand-painted colour strips completed prior to 1960 shows the grey/brown as being green.</em></li>
 </ul>
 </details>
 

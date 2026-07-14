@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/">Castle Bay (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/"><img src="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/sett.png" alt="Castle Bay (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/castle-bay/">Castle Bay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/castle-bay/"><img src="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/sett.png" alt="Castle Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

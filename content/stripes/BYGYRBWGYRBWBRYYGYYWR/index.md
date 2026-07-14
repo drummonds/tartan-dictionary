@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/">Victoria, County of (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/"><img src="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/sett.png" alt="Victoria, County of (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/victoria-county-of/">Victoria, County of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/victoria-county-of/"><img src="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/sett.png" alt="Victoria, County of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

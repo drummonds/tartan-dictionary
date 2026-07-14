@@ -8,10 +8,10 @@ crumbs:
 - name: "Purdy"
   url: "/tartans/p/pu/purdy/"
 - name: "Purdy Black (Illinois)"
-  url: "/setts/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pu/purdy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKBWKBWKBWKBWK](/stripes/bwkwkbwkbwkbwkbwk/).
 
 Part of the [Purdy](/tartans/p/pu/purdy/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10587](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>20/01/2011 — Purdy Black (Illinois) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10587">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#120A01;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #120A01"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F7F1E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F7F1E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CC99FF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #CC99FF"></span><br><em>Created as a family tartan for R Scott Purdy (St Charles, Illinois, US). The designer is happy for anyone sharing the surname Purdy to wear this tartan.</em></li>
-<li>20/01/2011 — Purdy Black (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10587">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Created as a family tartan for R Scott Purdy (St Charles, Illinois, US). The designer is happy for anyone sharing the surname Purdy to wear this tartan.</em></li>
+<li>20/01/2011 — Purdy Black (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10587/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Created as a family tartan for R Scott Purdy (St Charles, Illinois, US). The designer is happy for anyone sharing the surname Purdy to wear this tartan.</em></li>
 </ul>
 </details>
 

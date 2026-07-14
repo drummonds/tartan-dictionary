@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1604274-db0805267/">St Andrews, Earl of, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1604274-db0805267/"><img src="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1604274-db0805267/sett.png" alt="St Andrews, Earl of, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-andrews-earl-of-dress/">St Andrews, Earl of, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-earl-of-dress/"><img src="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1406275-db1204274/sett.png" alt="St Andrews, Earl of, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

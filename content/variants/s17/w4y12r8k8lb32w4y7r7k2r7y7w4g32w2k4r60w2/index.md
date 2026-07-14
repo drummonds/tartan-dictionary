@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/chattan/"
 - name: "Chattan Chief"
   url: "/tartans/c/ch/chattan-chief/"
-- name: "Chattan, Chief of Clan"
-  url: "/setts/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/"
+- name: "Chattan Chief Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chattan-chief/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGRKWWGRKRGWGWKRW](/stripes/wgrkwwgrkrgwgwkrw/).
 
 Part of the [Chattan Chief](/tartans/c/ch/chattan-chief/) tartan — the named design grouping this sett with its other cloths.

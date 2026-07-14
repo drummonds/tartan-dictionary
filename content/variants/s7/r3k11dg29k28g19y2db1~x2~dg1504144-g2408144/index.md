@@ -12,10 +12,10 @@ crumbs:
 - name: "PMMC"
   url: "/tartans/p/pm/pmmc/"
 - name: "PMMC"
-  url: "/setts/r3k11dg29k28g19y2db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k11dg29k28g19y2db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pm/pmmc/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGKGKR](/stripes/bggkgkr/).
 
 Part of the [PMMC](/tartans/p/pm/pmmc/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/">Fermanagh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/"><img src="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/sett.png" alt="Fermanagh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fermanagh-2/">Fermanagh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fermanagh-2/"><img src="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/sett.png" alt="Fermanagh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

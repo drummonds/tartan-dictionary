@@ -12,22 +12,22 @@ crumbs:
 - name: "Lyon"
   url: "/tartans/l/ly/lyon-2/"
 - name: "Lyon (Clan)"
-  url: "/setts/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/ly/lyon-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWBWGKBKB](/stripes/bkbkbkgwbwgkbkb/).
 
 Part of the [Lyon](/tartans/l/ly/lyon-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5517](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5517)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/5517/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5517/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 1999 — Lyon (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5517">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Same as Black Watch but with black stripe on green changed to blue with white guards. As such it is similar to Polaris which has black and yellow guards. Date not specified. 'Tartans (Johnston/Smith 1999) calls it LyonS.</em></li>
+<li>pre 1999 — Lyon (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5517/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Same as Black Watch but with black stripe on green changed to blue with white guards. As such it is similar to Polaris which has black and yellow guards. Date not specified. 'Tartans (Johnston/Smith 1999) calls it LyonS.</em></li>
 <li>01/01/2002 — Lyon (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2256">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Same as Black Watch but with black stripe on green changed to blue with white guards. As such it is similar to Polaris which has black and yellow guards. Date not specified. 'Tartans (Johnston/Smith 1999) calls it Lyons.</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5517](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

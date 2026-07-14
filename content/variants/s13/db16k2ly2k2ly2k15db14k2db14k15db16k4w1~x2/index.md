@@ -8,10 +8,10 @@ crumbs:
 - name: "Bredillet"
   url: "/tartans/b/br/bredillet/"
 - name: "Bredillet (Personal)"
-  url: "/setts/db16k2ly2k2ly2k15db14k2db14k15db16k4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16k2ly2k2ly2k15db14k2db14k15db16k4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bredillet/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKYKBKBKBKW](/stripes/bkykykbkbkbkw/).
 
 Part of the [Bredillet](/tartans/b/br/bredillet/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=346](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/06/2005 — Bredillet (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=346">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FFFFFF"></span><br><em>A private design for Professor Christophe Bredillet, Lille, France based on his Coat of Arms.</em></li>
-<li>Jun 2005 — Bredillet (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6949">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>A private design for Professor Christophe Bredillet, Lille, France based on his Coat of Arms.</em></li>
+<li>Jun 2005 — Bredillet (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6949/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>A private design for Professor Christophe Bredillet, Lille, France based on his Coat of Arms.</em></li>
 </ul>
 </details>
 

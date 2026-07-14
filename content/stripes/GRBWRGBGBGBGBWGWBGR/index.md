@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/g28r12db1w2r1g4db20y2db3y2db3g7db3w1y2w1db20g4r12~x2/">O'Kelly Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/g28r12db1w2r1g4db20y2db3y2db3g7db3w1y2w1db20g4r12~x2/"><img src="/variants/s19/g28r12db1w2r1g4db20y2db3y2db3g7db3w1y2w1db20g4r12~x2/sett.png" alt="O'Kelly Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-kelly/">O'Kelly</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-kelly/"><img src="/variants/s19/g28r12db1w2r1g4db20y2db3y2db3g7db3w1y2w1db20g4r12~x2/sett.png" alt="O'Kelly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "McCarthy"
   url: "/tartans/m/mc/mccarthy-2/"
 - name: "McCarthy"
-  url: "/setts/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mccarthy-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBBGBGBBGB](/stripes/bbgbbbgbgbbgb/).
 
 Part of the [McCarthy](/tartans/m/mc/mccarthy-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2873](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — McCarthy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2873">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>The livery tartan for McCarthy & Stone Limited using their corporate colours. Thread count taken from a sample of sett size of 1.5 inches. Designed by Sue Stedman Limited of London.</em></li>
-<li>1998 — McCarthy (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2438">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>The livery tartan for McCarthy & Stone Limited using their corporate colours. Thread count taken from a sample of sett size of 1.5 inches. Designed by Sue Stedman Limited of London.</em></li>
+<li>1998 — McCarthy (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2438/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>The livery tartan for McCarthy & Stone Limited using their corporate colours. Thread count taken from a sample of sett size of 1.5 inches. Designed by Sue Stedman Limited of London.</em></li>
 </ul>
 </details>
 

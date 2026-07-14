@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s44/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4~x2/">Coutts 80th (James Robert)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s44/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4~x2/"><img src="/variants/s44/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4~x2/sett.png" alt="Coutts 80th (James Robert) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coutts-80th/">Coutts 80th</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coutts-80th/"><img src="/variants/s44/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4~x2/sett.png" alt="Coutts 80th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

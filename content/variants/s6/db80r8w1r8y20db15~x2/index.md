@@ -8,10 +8,10 @@ crumbs:
 - name: "Auchtermuchty Tartan Army"
   url: "/tartans/a/au/auchtermuchty-tartan-army/"
 - name: "Auchtermuchty Tartan Army"
-  url: "/setts/db80r8w1r8y20db15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db80r8w1r8y20db15/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/auchtermuchty-tartan-army/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRWRB](/stripes/bgrwrb/).
 
 Part of the [Auchtermuchty Tartan Army](/tartans/a/au/auchtermuchty-tartan-army/) tartan — the named design grouping this sett with its other cloths.

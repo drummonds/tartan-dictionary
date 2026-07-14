@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/do12n12ly2n12do12db11do2db2do2db11do12n12dr2n12do12db2do2db2do2db12do2db2do2db2~x2/">Bartlam (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/do12n12ly2n12do12db11do2db2do2db11do12n12dr2n12do12db2do2db2do2db12do2db2do2db2~x2/"><img src="/variants/s24/do12n12ly2n12do12db11do2db2do2db11do12n12dr2n12do12db2do2db2do2db12do2db2do2db2~x2/sett.png" alt="Bartlam (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bartlam/">Bartlam</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bartlam/"><img src="/variants/s24/do12n12ly2n12do12db11do2db2do2db11do12n12dr2n12do12db2do2db2do2db12do2db2do2db2~x2/sett.png" alt="Bartlam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

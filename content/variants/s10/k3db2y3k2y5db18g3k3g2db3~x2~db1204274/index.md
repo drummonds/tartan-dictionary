@@ -8,10 +8,10 @@ crumbs:
 - name: "St Andrews University"
   url: "/tartans/s/st/st-andrews-university/"
 - name: "St Andrews University Corporate Tartan"
-  url: "/setts/k3db2y3k2y5db18g3k3g2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3db2y3k2y5db18g3k3g2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-andrews-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGBGKGBK](/stripes/bgkgbgkgbk/).
 
 Part of the [St Andrews University](/tartans/s/st/st-andrews-university/) tartan — the named design grouping this sett with its other cloths.

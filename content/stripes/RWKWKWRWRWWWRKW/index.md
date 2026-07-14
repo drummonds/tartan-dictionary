@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/">Ivanka Trump (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/"><img src="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/sett.png" alt="Ivanka Trump (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/iv/ivanka-trump/">Ivanka Trump</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/iv/ivanka-trump/"><img src="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/sett.png" alt="Ivanka Trump sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Longniddry Eildon Blue Dress Fancy"
   url: "/tartans/l/lo/longniddry-eildon-blue-dress-fancy/"
 - name: "Longniddry Eildon Blue Dress Fancy Tartan"
-  url: "/setts/db42lb2lbi2lb2db5dbi12lbi32db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db42lb2lbi2lb2db5dbi12lbi32db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/longniddry-eildon-blue-dress-fancy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBWWWB](/stripes/bwbbwwwb/).
 
 Part of the [Longniddry Eildon Blue Dress Fancy](/tartans/l/lo/longniddry-eildon-blue-dress-fancy/) tartan — the named design grouping this sett with its other cloths.

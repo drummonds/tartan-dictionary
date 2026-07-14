@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r1dy7g7db7g7db7r1~x8/">Tennant (Yules)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r1dy7g7db7g7db7r1~x8/"><img src="/variants/s7/r1dy7g7db7g7db7r1~x8/sett.png" alt="Tennant (Yules) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/tennant-4/">Tennant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/tennant-4/"><img src="/variants/s7/r1dy7g7db7g7db7r1~x8/sett.png" alt="Tennant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

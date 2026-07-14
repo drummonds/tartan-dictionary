@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/">Colquhoun Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/"><img src="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/sett.png" alt="Colquhoun Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/colquhoun-dress-2/">Colquhoun Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/colquhoun-dress-2/"><img src="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/sett.png" alt="Colquhoun Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

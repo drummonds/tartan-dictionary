@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/">MacDonell of Keppach</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/"><img src="/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/sett.png" alt="MacDonell of Keppach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonell-of-keppach/">MacDonell of Keppach</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonell-of-keppach/"><img src="/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/sett.png" alt="MacDonell of Keppach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

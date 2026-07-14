@@ -8,10 +8,10 @@ crumbs:
 - name: "Nazarian"
   url: "/tartans/n/na/nazarian/"
 - name: "Nazarian (Personal)"
-  url: "/setts/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/na/nazarian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKWWRKWWGWGK](/stripes/gwkwwrkwwgwgk/).
 
 Part of the [Nazarian](/tartans/n/na/nazarian/) tartan — the named design grouping this sett with its other cloths.

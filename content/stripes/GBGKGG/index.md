@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y1g6k5g1db5g1~x2/">MacKay (Bonner)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y1g6k5g1db5g1~x2/"><img src="/variants/s6/y1g6k5g1db5g1~x2/sett.png" alt="MacKay (Bonner) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackay/">MacKay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackay/"><img src="/variants/s6/y1g6k5g1db5g1~x2/sett.png" alt="MacKay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

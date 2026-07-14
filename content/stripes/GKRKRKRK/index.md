@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y4k1r30k15r24k2r4k1~x4/">Oilmens Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y4k1r30k15r24k2r4k1~x4/"><img src="/variants/s8/y4k1r30k15r24k2r4k1~x4/sett.png" alt="Oilmens Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/">Royal Army PTC Assoc. (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><img src="/variants/s8/k59r3k6r3k8r15k2dy3~x2/sett.png" alt="Royal Army PTC Assoc. (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k94r3k6r3k8r15k2y3~x2/">Royal Army Physical Training Corps Association (Scotland)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k94r3k6r3k8r15k2y3~x2/"><img src="/variants/s8/k94r3k6r3k8r15k2y3~x2/sett.png" alt="Royal Army Physical Training Corps Association (Scotland) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/oi/oilmens-2/">Oilmens</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/oi/oilmens-2/"><img src="/variants/s8/y4k1r30k15r24k2r4k1~x4/sett.png" alt="Oilmens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-army-ptc-assoc/">Royal Army PTC Assoc.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-army-ptc-assoc/"><img src="/variants/s8/k59r3k6r3k8r15k2dy3~x2/sett.png" alt="Royal Army PTC Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-army-physical-training-corps-association/">Royal Army Physical Training Corps Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-army-physical-training-corps-association/"><img src="/variants/s8/k94r3k6r3k8r15k2y3~x2/sett.png" alt="Royal Army Physical Training Corps Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

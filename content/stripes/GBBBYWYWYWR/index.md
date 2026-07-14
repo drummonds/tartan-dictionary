@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g12db1dp4db30ly3w2ly3w2ly3w10r4~x2/">Rosslyn Chapel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g12db1dp4db30ly3w2ly3w2ly3w10r4~x2/"><img src="/variants/s11/g12db1dp4db30ly3w2ly3w2ly3w10r4~x2/sett.png" alt="Rosslyn Chapel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rosslyn-chapel/">Rosslyn Chapel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rosslyn-chapel/"><img src="/variants/s11/g12db1dp4db30ly3w2ly3w2ly3w10r4~x2/sett.png" alt="Rosslyn Chapel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

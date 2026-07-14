@@ -10,10 +10,10 @@ crumbs:
 - name: "Young Enterprise Scotland"
   url: "/tartans/y/yo/young-enterprise-scotland/"
 - name: "Young Enterprise Scotland"
-  url: "/setts/ly3k8lo3gi4g4dt22y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly3k8lo3gi4g4dt22y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/yo/young-enterprise-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGYKY](/stripes/gbggyky/).
 
 Part of the [Young Enterprise Scotland](/tartans/y/yo/young-enterprise-scotland/) tartan — the named design grouping this sett with its other cloths.

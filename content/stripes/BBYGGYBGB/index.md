@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dt47y1db27lr4g5y1lr8b1db1~x2~dt1000000-lr3201060/">Brighton Mac Dermotte</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dt47y1db27lr4g5y1lr8b1db1~x2~dt1000000-lr3201060/"><img src="/variants/s9/dt47y1db27lr4g5y1lr8b1db1~x2~dt1000000-lr3201060/sett.png" alt="Brighton Mac Dermotte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brighton-mac-dermotte/">Brighton Mac Dermotte</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brighton-mac-dermotte/"><img src="/variants/s9/dt47y1db27lr4g5y1lr8b1db1~x2~dt1000000-lr3201060/sett.png" alt="Brighton Mac Dermotte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

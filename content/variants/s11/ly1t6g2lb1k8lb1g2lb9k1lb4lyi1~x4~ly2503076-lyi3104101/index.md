@@ -12,10 +12,10 @@ crumbs:
 - name: "Tiree"
   url: "/tartans/t/ti/tiree/"
 - name: "Tiree"
-  url: "/setts/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ti/tiree/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBGWKWGWKWY](/stripes/ybgwkwgwkwy/).
 
 Part of the [Tiree](/tartans/t/ti/tiree/) tartan — the named design grouping this sett with its other cloths.

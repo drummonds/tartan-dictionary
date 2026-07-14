@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/">Hinnigan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/"><img src="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/sett.png" alt="Hinnigan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hinnigan-2/">Hinnigan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hinnigan-2/"><img src="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/sett.png" alt="Hinnigan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

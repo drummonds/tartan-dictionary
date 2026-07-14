@@ -8,10 +8,10 @@ crumbs:
 - name: "Prince David"
   url: "/tartans/p/pr/prince-david/"
 - name: "Prince David"
-  url: "/setts/b4dg1o21g18o2g3o2g18o21b2dg1g3b2dg1g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b4dg1o21g18o2g3o2g18o21b2dg1g3b2dg1g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/prince-david/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGRGRGRBGGBGG](/stripes/bgrgrgrgrbggbgg/).
 
 Part of the [Prince David](/tartans/p/pr/prince-david/) tartan — the named design grouping this sett with its other cloths.

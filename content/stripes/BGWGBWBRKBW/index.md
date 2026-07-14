@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/">World Peace</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/"><img src="/variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/sett.png" alt="World Peace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/dp8g8w3g8dp8w3t40r3k3t40w3~x2/">World Peace (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dp8g8w3g8dp8w3t40r3k3t40w3~x2/"><img src="/variants/s11/dp8g8w3g8dp8w3t40r3k3t40w3~x2/sett.png" alt="World Peace (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/world-peace/">World Peace</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/world-peace/"><img src="/variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/sett.png" alt="World Peace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

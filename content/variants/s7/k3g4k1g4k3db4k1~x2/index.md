@@ -8,10 +8,10 @@ crumbs:
 - name: "Unidentified No 63"
   url: "/tartans/u/un/unidentified-no-63/"
 - name: "Unidentified No 63"
-  url: "/setts/k3g4k1g4k3db4k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3g4k1g4k3db4k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-no-63/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGKGK](/stripes/kbkgkgk/).
 
 Part of the [Unidentified No 63](/tartans/u/un/unidentified-no-63/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s34/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/">Hunter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s34/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/"><img src="/variants/s34/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/sett.png" alt="Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hunter-2/">Hunter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hunter-2/"><img src="/variants/s34/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/sett.png" alt="Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

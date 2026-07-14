@@ -8,10 +8,10 @@ crumbs:
 - name: "Osborne, Luke Alexander"
   url: "/tartans/o/os/osborne-luke-alexander/"
 - name: "Osborne, Luke Alexander (Personal)"
-  url: "/setts/db31k8dp4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db31k8dp4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/os/osborne-luke-alexander/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBW](/stripes/bkbw/).
 
 Part of the [Osborne, Luke Alexander](/tartans/o/os/osborne-luke-alexander/) tartan — the named design grouping this sett with its other cloths.

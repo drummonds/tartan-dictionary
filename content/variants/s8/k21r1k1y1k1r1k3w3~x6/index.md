@@ -10,22 +10,22 @@ crumbs:
 - name: "Black Country"
   url: "/tartans/b/bl/black-country/"
 - name: "Black Country (District)"
-  url: "/setts/k21r1k1y1k1r1k3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k21r1k1y1k1r1k3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-country/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKRKW](/stripes/krkgkrkw/).
 
 Part of the [Black Country](/tartans/b/bl/black-country/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7844](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7844)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7844/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7844/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>Dec. 2008 — Black Country (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7844">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Philip Tibbetts of Halesowen, this tartan is primarily black, with a white cross representing the white-hot metal of industry and crossed chains. Red is for fire since the Black Country is famously known as being black by day and red by night. The yellow is from the golden saltire that features on the flag of Mercia - the ancient kingdom of the area. It can only be purchased at www.heartlandheritagewear.com Woven by Marton Mills.</em></li>
+<li>Dec. 2008 — Black Country (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7844/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Philip Tibbetts of Halesowen, this tartan is primarily black, with a white cross representing the white-hot metal of industry and crossed chains. Red is for fire since the Black Country is famously known as being black by day and red by night. The yellow is from the golden saltire that features on the flag of Mercia - the ancient kingdom of the area. It can only be purchased at www.heartlandheritagewear.com Woven by Marton Mills.</em></li>
 <li>undated — Black Country (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5796">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Philip Tibbetts of Halesowen. The Black Country is a region of the British Isles encompassing the South Staffordshire coal field. Roughly ten by twelve miles it is bounded by the settlements of Wolverhampton, Walsall, West Bromwich, Smethwick, Halesowen and Stourbridge. The town of Dudley is seen as the capital of the area. The name 'Black Country' may have originated in the Middle Ages from where the coal seams came to the surface discolouring the heath land. In the Industrial Revolution the discovery of iron smelting with coke, the formation of the industries of glassmaking, leather work and brewing either created the area's name or reinforced the original one. The people who live in the area are called "Yam Yams", have their own culture and the oldest surviving dialect of English. They are not to be confused with their friendly rivals - the "Brummies" from next door Birmingham.</em></li>
 </ul>
 </details>
@@ -40,7 +40,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7844](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

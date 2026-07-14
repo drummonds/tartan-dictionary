@@ -8,10 +8,10 @@ crumbs:
 - name: "Gunning, Robert Maxwell Stewart"
   url: "/tartans/g/gu/gunning-robert-maxwell-stewart/"
 - name: "Gunning, Robert Maxwell Stewart (Personal)"
-  url: "/setts/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gu/gunning-robert-maxwell-stewart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKGBGKGKGKGKGRGKBKBG](/stripes/gbkbkgbgkgkgkgkgrgkbkbg/).
 
 Part of the [Gunning, Robert Maxwell Stewart](/tartans/g/gu/gunning-robert-maxwell-stewart/) tartan — the named design grouping this sett with its other cloths.

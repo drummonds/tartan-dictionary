@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/">Blaylock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/"><img src="/variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/sett.png" alt="Blaylock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blaylock/">Blaylock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blaylock/"><img src="/variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/sett.png" alt="Blaylock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

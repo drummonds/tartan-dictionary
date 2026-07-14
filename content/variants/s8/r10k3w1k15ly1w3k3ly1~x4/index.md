@@ -8,10 +8,10 @@ crumbs:
 - name: "Cunard O' The Clyde"
   url: "/tartans/c/cu/cunard-o-the-clyde/"
 - name: "Cunard o' the Clyde"
-  url: "/setts/r10k3w1k15ly1w3k3ly1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r10k3w1k15ly1w3k3ly1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cunard-o-the-clyde/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKYWKY](/stripes/rkwkywky/).
 
 Part of the [Cunard O' The Clyde](/tartans/c/cu/cunard-o-the-clyde/) tartan — the named design grouping this sett with its other cloths.

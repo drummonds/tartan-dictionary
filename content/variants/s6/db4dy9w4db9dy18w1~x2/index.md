@@ -8,10 +8,10 @@ crumbs:
 - name: "WVU Mountaineer"
   url: "/tartans/w/wv/wvu-mountaineer/"
 - name: "WVU Mountaineer Tartan"
-  url: "/setts/db4dy9w4db9dy18w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4dy9w4db9dy18w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wv/wvu-mountaineer/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBGW](/stripes/bgwbgw/).
 
 Part of the [WVU Mountaineer](/tartans/w/wv/wvu-mountaineer/) tartan — the named design grouping this sett with its other cloths.

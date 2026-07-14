@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/">Drummond - 1739 Lord John (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/"><img src="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/sett.png" alt="Drummond - 1739 Lord John (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drummond-4/">Drummond</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-4/"><img src="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/">Cleikum</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/"><img src="/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/sett.png" alt="Cleikum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/cleikum/">Cleikum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/cleikum/"><img src="/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/sett.png" alt="Cleikum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

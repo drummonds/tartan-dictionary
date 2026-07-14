@@ -28,13 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/">MacCandlish Arisaid Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/"><img src="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/sett.png" alt="MacCandlish Arisaid Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6w12k1lo1~x4/">McCandlish Arisaid, Red (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6w12k1lo1~x4/"><img src="/variants/s11/lb3k1dr12k1dr1k2dr1k6w12k1lo1~x4/sett.png" alt="McCandlish Arisaid, Red (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/">McCandlish Arisaid, Grey (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/"><img src="/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/sett.png" alt="McCandlish Arisaid, Grey (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maccandlish-arisaid-2/">MacCandlish Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccandlish-arisaid-2/"><img src="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/sett.png" alt="MacCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mccandlish-arisaid-2/">McCandlish Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccandlish-arisaid-2/"><img src="/variants/s11/lb3k1dr12k1dr1k2dr1k6w12k1lo1~x4/sett.png" alt="McCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

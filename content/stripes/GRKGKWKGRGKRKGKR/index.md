@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2~x2/">Brown-Wells (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2~x2/"><img src="/variants/s16/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2~x2/sett.png" alt="Brown-Wells (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brown-wells/">Brown-Wells</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brown-wells/"><img src="/variants/s16/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2~x2/sett.png" alt="Brown-Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

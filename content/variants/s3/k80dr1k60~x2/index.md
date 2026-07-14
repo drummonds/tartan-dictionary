@@ -8,10 +8,10 @@ crumbs:
 - name: "Bodog"
   url: "/tartans/b/bo/bodog/"
 - name: "Bodog"
-  url: "/setts/k80dr1k60/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k80dr1k60/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bodog/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBK](/stripes/kbk/).
 
 Part of the [Bodog](/tartans/b/bo/bodog/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Earliest known date: 20th March 2010 The red stripe which delineates the 3 and 4
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>20/03/2010 — Bodog (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10194">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>The red stripe which delineates the 3 and 4 inch squares, is intended to be almost invisible in certain lights. This design supercedes the original bodog.com tartan (STR #306, STA #6889) to reflect the new brand licensing model that now controls all the intellectual property of bodogbrand.com.</em></li>
-<li>20th March 2010 — Bodog (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10194">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>The red stripe which delineates the 3 and 4 inch squares, is intended to be almost invisible in certain lights. This design supercedes the original bodog.com tartan (STR ref: 306, STA ref:6889) to reflect the new brand licensing model that now controls all the intellectual property of bodogbrand.com.</em></li>
+<li>20th March 2010 — Bodog (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10194/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>The red stripe which delineates the 3 and 4 inch squares, is intended to be almost invisible in certain lights. This design supercedes the original bodog.com tartan (STR ref: 306, STA ref:6889) to reflect the new brand licensing model that now controls all the intellectual property of bodogbrand.com.</em></li>
 <li>undated — Bodog Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10194">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span></li>
 </ul>
 </details>

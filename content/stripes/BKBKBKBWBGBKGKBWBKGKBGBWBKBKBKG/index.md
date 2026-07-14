@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s31/db1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1~x4/">Innes of Cowie (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/db1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1~x4/"><img src="/variants/s31/db1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1~x4/sett.png" alt="Innes of Cowie (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/innes-of-cowie-2/">Innes of Cowie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/innes-of-cowie-2/"><img src="/variants/s31/db1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1~x4/sett.png" alt="Innes of Cowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

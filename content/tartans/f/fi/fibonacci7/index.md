@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db13g8r5db3g2r1y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgrbgrg/">BGRBGRG</a></nav>
 Its design is pattern [BGRBGRG](/stripes/bgrbgrg/) — the page of every tartan sharing this colour sequence.
 
 The **Fibonacci7** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Fibonacci7** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db13g8r5db3g2r1y1/">Fibonacci7</a></td><td><code>DB/52 G32 R20 DB12 G8 R4 Y/4</code></td><td>208</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db13g8r5db3g2r1y1/"><img src="/variants/s7/db13g8r5db3g2r1y1~x4/sett.png" alt="Fibonacci7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db13g8r5db3g2r1y1~x4/">Fibonacci7</a></td><td><code>DB/52 G32 R20 DB12 G8 R4 Y/4</code></td><td>208</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><img src="/variants/s7/db13g8r5db3g2r1y1~x4/sett.png" alt="Fibonacci7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="292.1" cy="190.0" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s8/db1r1g6db6y1db6r1g1~x2/"><circle cx="297.7" cy="224.2" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><circle cx="341.4" cy="164.6" r="4" fill="#3465a4"><title>Unnamed C20th</title></circle></a><a href="/variants/s7/db51g5r15g37db17r6g7~x2/"><circle cx="295.1" cy="222.4" r="4" fill="#3465a4"><title>Cadence Design Systems</title></circle></a><a href="/variants/s6/db3dg21db3o21db35w3~x2/"><circle cx="288.7" cy="218.7" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><a href="/variants/s7/db30r5g30r22db30r5g4/"><circle cx="255.5" cy="245.2" r="4" fill="#3465a4"><title>GS Gaelic School</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="255.3" cy="237.2" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="334.7" cy="205.8" r="4" fill="#3465a4"><title>Connaught</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="335.1" cy="200.0" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="325.0" cy="177.0" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps</title></circle></a><circle cx="275.6" cy="198.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="292.7" cy="190.0" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s8/db1r1g6db6y1db6r1g1~x2/"><circle cx="298.2" cy="224.3" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><circle cx="342.2" cy="164.6" r="4" fill="#3465a4"><title>Unnamed C20th</title></circle></a><a href="/variants/s7/db51g5r15g37db17r6g7~x2/"><circle cx="295.6" cy="222.5" r="4" fill="#3465a4"><title>Cadence Design Systems</title></circle></a><a href="/variants/s6/db3dg21db3o21db35w3~x2/"><circle cx="289.1" cy="218.7" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><a href="/variants/s7/db30r5g30r22db30r5g4/"><circle cx="255.9" cy="245.3" r="4" fill="#3465a4"><title>GS Gaelic School</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="255.7" cy="237.2" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="335.3" cy="205.9" r="4" fill="#3465a4"><title>Connaught</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="335.7" cy="200.1" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="325.6" cy="177.1" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps</title></circle></a><circle cx="276.1" cy="198.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

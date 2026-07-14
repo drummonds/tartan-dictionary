@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k83y2db4r2k8g5r4w3~x2/">Spirit of Lanarkshire (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k83y2db4r2k8g5r4w3~x2/"><img src="/variants/s8/k83y2db4r2k8g5r4w3~x2/sett.png" alt="Spirit of Lanarkshire (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-lanarkshire/">Spirit of Lanarkshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-lanarkshire/"><img src="/variants/s8/k83y2db4r2k8g5r4w3~x2/sett.png" alt="Spirit of Lanarkshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

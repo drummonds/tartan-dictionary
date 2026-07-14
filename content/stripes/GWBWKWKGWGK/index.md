@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/">Bro-Roazhon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/"><img src="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/sett.png" alt="Bro-Roazhon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bro-roazhon/">Bro-Roazhon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bro-roazhon/"><img src="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/sett.png" alt="Bro-Roazhon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

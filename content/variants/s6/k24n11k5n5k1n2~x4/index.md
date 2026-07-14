@@ -10,10 +10,10 @@ crumbs:
 - name: "Black Isle"
   url: "/tartans/b/bl/black-isle/"
 - name: "Black Isle Corporate Tartan"
-  url: "/setts/k24n11k5n5k1n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k24n11k5n5k1n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-isle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
 Part of the [Black Isle](/tartans/b/bl/black-isle/) tartan — the named design grouping this sett with its other cloths.

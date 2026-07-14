@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/">Elsa Dance</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/"><img src="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/sett.png" alt="Elsa Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elsa-dance/">Elsa Dance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elsa-dance/"><img src="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/sett.png" alt="Elsa Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

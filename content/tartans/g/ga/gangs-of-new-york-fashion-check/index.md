@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/gangs/"
 - name: "Gangs of New York Fashion Check"
   url: "/families/gangs-of-new-york-fashion-check/"
+aliases:
+- "/setts/w5k20w2r5w20r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rwrwkw/">RWRWKW</a></nav>
 A tartan of the [Gangs of New York Fashion Check](/families/gangs-of-new-york-fashion-check/) family.
 Its design is pattern [RWRWKW](/stripes/rwrwkw/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **Gangs of New York Fashion Check** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w5k20w2r5w20r2/">Gangs of New York Fashion Check</a></td><td><code>W/10 K40 W4 R10 W40 R/4</code></td><td>202</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w5k20w2r5w20r2/"><img src="/variants/s6/w5k20w2r5w20r2~x2/sett.png" alt="Gangs of New York Fashion Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w5k20w2r5w20r2~x2/">Gangs of New York Fashion Check</a></td><td><code>W/10 K40 W4 R10 W40 R/4</code></td><td>202</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w5k20w2r5w20r2~x2/"><img src="/variants/s6/w5k20w2r5w20r2~x2/sett.png" alt="Gangs of New York Fashion Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -33,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w8dr14w8dr14w35k4~x2/"><circle cx="299.0" cy="207.9" r="4" fill="#3465a4"><title>Clayton Dress</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="245.5" cy="162.9" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="257.8" cy="132.3" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="195.7" cy="211.3" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s5/k27w29k5w14r2~x2/"><circle cx="279.2" cy="186.6" r="4" fill="#3465a4"><title>McPartlin</title></circle></a><a href="/variants/s5/w8k1w8k12w1~x2/"><circle cx="312.0" cy="213.1" r="4" fill="#3465a4"><title>MacLeod Black &amp;</title></circle></a><a href="/variants/s5/w14k2w14k19w2~x2/"><circle cx="309.9" cy="225.4" r="4" fill="#3465a4"><title>MacLeod B&amp;W</title></circle></a><a href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="241.0" cy="129.4" r="4" fill="#3465a4"><title>St Piran Dress</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="296.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="309.1" cy="151.3" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><circle cx="242.2" cy="189.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w8dr14w8dr14w35k4~x2/"><circle cx="299.6" cy="207.9" r="4" fill="#3465a4"><title>Clayton Dress</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="162.8" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="258.6" cy="132.2" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="196.2" cy="211.2" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s5/k27w29k5w14r2~x2/"><circle cx="280.0" cy="186.6" r="4" fill="#3465a4"><title>McPartlin</title></circle></a><a href="/variants/s5/w8k1w8k12w1~x2/"><circle cx="312.8" cy="213.2" r="4" fill="#3465a4"><title>MacLeod Black &amp;</title></circle></a><a href="/variants/s5/w14k2w14k19w2~x2/"><circle cx="310.6" cy="225.5" r="4" fill="#3465a4"><title>MacLeod B&amp;W</title></circle></a><a href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="241.7" cy="129.3" r="4" fill="#3465a4"><title>St Piran Dress</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="297.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="310.0" cy="151.4" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><circle cx="242.8" cy="189.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

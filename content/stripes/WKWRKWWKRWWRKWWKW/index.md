@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/">Abergaveny (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/"><img src="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/sett.png" alt="Abergaveny (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/abergavenny/">Abergavenny</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/abergavenny/"><img src="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/sett.png" alt="Abergavenny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

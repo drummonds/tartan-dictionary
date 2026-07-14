@@ -8,10 +8,10 @@ crumbs:
 - name: "Prince of Wales Check"
   url: "/tartans/p/pr/prince-of-wales-check/"
 - name: "Prince of Wales Check"
-  url: "/setts/lb2do2lb2do2lb2db4lb2do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb2do2lb2do2lb2db4lb2do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/prince-of-wales-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWBWBWBWBWBWBWBWBW](/stripes/wbwbwbwbwbwbwbwbwbwbw/).
 
 Part of the [Prince of Wales Check](/tartans/p/pr/prince-of-wales-check/) tartan — the named design grouping this sett with its other cloths.

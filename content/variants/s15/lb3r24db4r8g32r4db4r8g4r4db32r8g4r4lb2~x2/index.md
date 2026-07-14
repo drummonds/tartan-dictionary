@@ -12,10 +12,10 @@ crumbs:
 - name: "MacIntyre"
   url: "/tartans/m/ma/macintyre-3/"
 - name: "MacIntyre (of Gatehouse)"
-  url: "/setts/lb3r24db4r8g32r4db4r8g4r4db32r8g4r4lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb3r24db4r8g32r4db4r8g4r4db32r8g4r4lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macintyre-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/).
 
 Part of the [MacIntyre](/tartans/m/ma/macintyre-3/) tartan — the named design grouping this sett with its other cloths.

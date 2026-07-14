@@ -28,14 +28,17 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y15g98n72r25n8lb15/">Afternoon Tea / Afternoon Tea</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y15g98n72r25n8lb15/"><img src="/variants/s6/y15g98n72r25n8lb15/sett.png" alt="Afternoon Tea / Afternoon Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/af/afternoon-tea-afternoon-tea/">Afternoon Tea / Afternoon Tea</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/af/afternoon-tea-afternoon-tea/"><img src="/variants/s6/y15g98n72r25n8lb15/sett.png" alt="Afternoon Tea / Afternoon Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/">Atlantic, Ancient</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/"><img src="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/sett.png" alt="Atlantic, Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/at/atlantic/">Atlantic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/at/atlantic/"><img src="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/sett.png" alt="Atlantic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/w3db23r44db26g4y2~x2/">Tartan Lassie (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w3db23r44db26g4y2~x2/"><img src="/variants/s6/w3db23r44db26g4y2~x2/sett.png" alt="Tartan Lassie (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kilsyth/">Kilsyth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilsyth/"><img src="/variants/s6/g4y3db35r13dp8w3~x2/sett.png" alt="Kilsyth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/t/ta/tartan-lassie/">Tartan Lassie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-lassie/"><img src="/variants/s6/w3db23r44db26g4y2~x2/sett.png" alt="Tartan Lassie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

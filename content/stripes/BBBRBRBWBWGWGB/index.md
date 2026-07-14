@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/">De Clercq, Christian Family (Belgium)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/"><img src="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/sett.png" alt="De Clercq, Christian Family (Belgium) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/de-clercq-christian-2/">De Clercq, Christian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/de-clercq-christian-2/"><img src="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/sett.png" alt="De Clercq, Christian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

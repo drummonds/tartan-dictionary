@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/">United States Trade sett Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><img src="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/sett.png" alt="United States Trade sett Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/united-states/">United States</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/united-states/"><img src="/variants/s9/t7db5lr6db5r7db2t2db70lr2/sett.png" alt="United States sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/united-states-trade-sett/">United States Trade sett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/united-states-trade-sett/"><img src="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/sett.png" alt="United States Trade sett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

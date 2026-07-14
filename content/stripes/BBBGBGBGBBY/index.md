@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/">Telfer, Jamie (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/"><img src="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/sett.png" alt="Telfer, Jamie (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/jamie-telfer-of-the-fair-dodhead-commemorative/">Jamie Telfer of the Fair Dodhead Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/jamie-telfer-of-the-fair-dodhead-commemorative/"><img src="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/sett.png" alt="Jamie Telfer of the Fair Dodhead Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

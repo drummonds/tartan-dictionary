@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/">Coleburn (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><img src="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/sett.png" alt="Coleburn (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coleburn/">Coleburn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coleburn/"><img src="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/sett.png" alt="Coleburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

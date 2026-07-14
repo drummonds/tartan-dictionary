@@ -8,10 +8,10 @@ crumbs:
 - name: "Majewski-White"
   url: "/tartans/m/ma/majewski-white/"
 - name: "Majewski-White (Personal)"
-  url: "/setts/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/majewski-white/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBBBBBWBW](/stripes/bwbwbwbbbbbwbw/).
 
 Part of the [Majewski-White](/tartans/m/ma/majewski-white/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10823](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>23/04/2013 — Majewski-White (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10823">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #000080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #800080"></span><br><em>Designed by Joe White for himself and his partner and their immediate family, this tartan is based on the Ross Hunting STR ref #3560. Colours: navy blue, the base colour for this tartan, is the corporate colour of Rolls-Royce which represents both an industry they are passionate about as well as where they met; purple links to their universities: Loughborough and Glasgow; white is for the designer’s surname.</em></li>
-<li>23/04/2013 — Majewski-White (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10823">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>Designed by Joe White for himself and his partner and their immediate family, this tartan is based on the Ross Hunting STR ref #3560. Colours: navy blue, the base colour for this tartan, is the corporate colour of Rolls-Royce which represents both an industry they are passionate about as well as where they met; purple links to their universities: Loughborough and Glasgow; white is for the designer?s surname.</em></li>
+<li>23/04/2013 — Majewski-White (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10823/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>Designed by Joe White for himself and his partner and their immediate family, this tartan is based on the Ross Hunting STR ref #3560. Colours: navy blue, the base colour for this tartan, is the corporate colour of Rolls-Royce which represents both an industry they are passionate about as well as where they met; purple links to their universities: Loughborough and Glasgow; white is for the designer?s surname.</em></li>
 </ul>
 </details>
 

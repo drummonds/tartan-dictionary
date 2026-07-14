@@ -8,10 +8,10 @@ crumbs:
 - name: "Boxing Scotland"
   url: "/tartans/b/bo/boxing-scotland/"
 - name: "Boxing Scotland"
-  url: "/setts/db26r2t16db23t16r2w2y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db26r2t16db23t16r2w2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/boxing-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBBRWG](/stripes/brbbbrwg/).
 
 Part of the [Boxing Scotland](/tartans/b/bo/boxing-scotland/) tartan — the named design grouping this sett with its other cloths.

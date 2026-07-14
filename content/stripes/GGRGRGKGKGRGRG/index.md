@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/">Balnagowan (Harrods)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/"><img src="/variants/s14/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/sett.png" alt="Balnagowan (Harrods) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/balnagowan/">Balnagowan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/balnagowan/"><img src="/variants/s14/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/sett.png" alt="Balnagowan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

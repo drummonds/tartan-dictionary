@@ -12,10 +12,10 @@ crumbs:
 - name: "Longniddry"
   url: "/tartans/l/lo/longniddry-4/"
 - name: "Longniddry, Green"
-  url: "/setts/g42b2w2b2g5dg12w32g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g42b2w2b2g5dg12w32g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/longniddry-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBGGWG](/stripes/gbwbggwg/).
 
 Part of the [Longniddry](/tartans/l/lo/longniddry-4/) tartan — the named design grouping this sett with its other cloths.

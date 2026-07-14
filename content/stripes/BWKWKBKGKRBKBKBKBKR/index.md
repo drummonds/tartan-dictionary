@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2~x2/">Douglas Grey Dress Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2~x2/"><img src="/variants/s19/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2~x2/sett.png" alt="Douglas Grey Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/douglas-ancient-dress/">Douglas Ancient Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-ancient-dress/"><img src="/variants/s19/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2~x2/sett.png" alt="Douglas Ancient Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

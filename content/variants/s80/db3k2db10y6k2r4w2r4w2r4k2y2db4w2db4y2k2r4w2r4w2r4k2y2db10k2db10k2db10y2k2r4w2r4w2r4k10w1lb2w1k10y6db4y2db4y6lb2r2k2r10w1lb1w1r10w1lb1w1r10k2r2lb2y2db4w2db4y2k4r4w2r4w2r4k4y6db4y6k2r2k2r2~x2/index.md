@@ -12,10 +12,10 @@ crumbs:
 - name: "Ogilvy"
   url: "/tartans/o/og/ogilvy-2/"
 - name: "Ogilvy #2"
-  url: "/setts/db3k2db10y6k2r4w2r4w2r4k2y2db4w2db4y2k2r4w2r4w2r4k2y2db10k2db10k2db10y2k2r4w2r4w2r4k10w1lb2w1k10y6db4y2db4y6lb2r2k2r10w1lb1w1r10w1lb1w1r10k2r2lb2y2db4w2db4y2k4r4w2r4w2r4k4y6db4y6k2r2k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3k2db10y6k2r4w2r4w2r4k2y2db4w2db4y2k2r4w2r4w2r4k2y2db10k2db10k2db10y2k2r4w2r4w2r4k10w1lb2w1k10y6db4y2db4y6lb2r2k2r10w1lb1w1r10w1lb1w1r10k2r2lb2y2db4w2db4y2k4r4w2r4w2r4k4y6db4y6k2r2k2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/og/ogilvy-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGKRWRWRKGBWBGKRWRWRKGBKBKBGKRWRWRKWWWKGBGBGWRKRWWWRWWWRKRWGBWBGKRWRWRKGBGKRKR](/stripes/bkbgkrwrwrkgbwbgkrwrwrkgbkbkbgkrwrwrkwwwkgbgbgwrkrwwwrwwwrkrwgbwbgkrwrwrkgbgkrkr/).
 
 Part of the [Ogilvy](/tartans/o/og/ogilvy-2/) tartan — the named design grouping this sett with its other cloths.

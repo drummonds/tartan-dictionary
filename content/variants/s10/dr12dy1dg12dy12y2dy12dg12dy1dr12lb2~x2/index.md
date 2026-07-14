@@ -8,10 +8,10 @@ crumbs:
 - name: "United Distillers"
   url: "/tartans/u/un/united-distillers-2/"
 - name: "United Distillers Corporate Tartan"
-  url: "/setts/dr12dy1dg12dy12y2dy12dg12dy1dr12lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr12dy1dg12dy12y2dy12dg12dy1dr12lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/united-distillers-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGGGGBW](/stripes/bgggggggbw/).
 
 Part of the [United Distillers](/tartans/u/un/united-distillers-2/) tartan — the named design grouping this sett with its other cloths.

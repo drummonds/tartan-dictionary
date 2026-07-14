@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r52y2r1y2lb8db4g18r11w2db5lb8~x2/">Doig (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r52y2r1y2lb8db4g18r11w2db5lb8~x2/"><img src="/variants/s11/r52y2r1y2lb8db4g18r11w2db5lb8~x2/sett.png" alt="Doig (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/doig/">Doig</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/doig/"><img src="/variants/s11/r52y2r1y2lb8db4g18r11w2db5lb8~x2/sett.png" alt="Doig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

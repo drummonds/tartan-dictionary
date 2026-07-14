@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/db3n1db2r14n2r1n2db10r10db10w2r2w2r14n6r10db10w2~x2/">Ensemble Pour L'Avenir</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db3n1db2r14n2r1n2db10r10db10w2r2w2r14n6r10db10w2~x2/"><img src="/variants/s18/db3n1db2r14n2r1n2db10r10db10w2r2w2r14n6r10db10w2~x2/sett.png" alt="Ensemble Pour L'Avenir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/en/ensemble-pour-l-avenir/">Ensemble Pour L'Avenir</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/en/ensemble-pour-l-avenir/"><img src="/variants/s18/db3n1db2r14n2r1n2db10r10db10w2r2w2r14n6r10db10w2~x2/sett.png" alt="Ensemble Pour L'Avenir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

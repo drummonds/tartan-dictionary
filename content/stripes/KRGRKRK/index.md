@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k15r4k1r4dg15r4k1~x4/">Logan (Dark)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k15r4k1r4dg15r4k1~x4/"><img src="/variants/s7/k15r4k1r4dg15r4k1~x4/sett.png" alt="Logan (Dark) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/k14r6k2r6dg25r6k2~x2/">Logan - 1810 (Cockburn Collection)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k14r6k2r6dg25r6k2~x2/"><img src="/variants/s7/k14r6k2r6dg25r6k2~x2/sett.png" alt="Logan - 1810 (Cockburn Collection) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/logan/">Logan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/logan/"><img src="/variants/s7/k14r6k2r6dg25r6k2~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

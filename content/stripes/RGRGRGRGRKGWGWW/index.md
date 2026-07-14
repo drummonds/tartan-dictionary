@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2lb15g3lb3w2~x2/">Moir (Loch Insch) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2lb15g3lb3w2~x2/"><img src="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2lb15g3lb3w2~x2/sett.png" alt="Moir (Loch Insch) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moir/">Moir</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moir/"><img src="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2lb15g3lb3w2~x2/sett.png" alt="Moir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

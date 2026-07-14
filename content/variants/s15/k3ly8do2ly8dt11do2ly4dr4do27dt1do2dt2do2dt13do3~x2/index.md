@@ -12,10 +12,10 @@ crumbs:
 - name: "Strathdon"
   url: "/tartans/s/st/strathdon/"
 - name: "Strathdon District Tartan"
-  url: "/setts/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathdon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBYBBYBYK](/stripes/bbbbbbbbybbybyk/).
 
 Part of the [Strathdon](/tartans/s/st/strathdon/) tartan — the named design grouping this sett with its other cloths.

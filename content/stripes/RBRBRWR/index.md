@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r6w3r17db3r3db25r3~x2/">Bon Accord</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r6w3r17db3r3db25r3~x2/"><img src="/variants/s7/r6w3r17db3r3db25r3~x2/sett.png" alt="Bon Accord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bon-accord/">Bon Accord</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bon-accord/"><img src="/variants/s7/r6w3r17db3r3db25r3~x2/sett.png" alt="Bon Accord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

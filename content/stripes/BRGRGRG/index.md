@@ -28,20 +28,16 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db6r3g1r3g12r3g1/">Skene</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db6r3g1r3g12r3g1/"><img src="/variants/s7/db6r3g1r3g12r3g1~x2/sett.png" alt="Skene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db6r3g2r3g12r3g2~x2/">Skene Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><img src="/variants/s7/db6r3g2r3g12r3g2~x2/sett.png" alt="Skene Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db9r6g2r6g18r6g2/">Skene D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db9r6g2r6g18r6g2/"><img src="/variants/s7/db9r6g2r6g18r6g2/sett.png" alt="Skene D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skene/">Skene</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skene/"><img src="/variants/s7/db6r3g2r3g12r3g2~x2/sett.png" alt="Skene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skene-d/">Skene D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skene-d/"><img src="/variants/s7/db9r6g2r6g18r6g2/sett.png" alt="Skene D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/">Logan - 1819 (with yellow)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/"><img src="/variants/s7/dp8r3y1r3dg14r3y1~x4/sett.png" alt="Logan - 1819 (with yellow) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/">Logan with Yellow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/"><img src="/variants/s7/dp8r3y1r3g14r3y1~x4/sett.png" alt="Logan with Yellow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/logan-7/">Logan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-7/"><img src="/variants/s7/db9r3y1r3g9r3y1~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/db9r3y1r3g9r3y1~x2/">Logan #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><img src="/variants/s7/db9r3y1r3g9r3y1~x2/sett.png" alt="Logan #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/logan-with/">Logan with</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-with/"><img src="/variants/s7/dp8r3y1r3g14r3y1~x4/sett.png" alt="Logan with sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

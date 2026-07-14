@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/">Bowie (Dalgety) Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/"><img src="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/sett.png" alt="Bowie (Dalgety) Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bowie-3/">Bowie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bowie-3/"><img src="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/sett.png" alt="Bowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

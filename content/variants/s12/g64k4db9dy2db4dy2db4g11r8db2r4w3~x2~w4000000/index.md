@@ -8,15 +8,15 @@ crumbs:
 - name: "Sillars"
   url: "/tartans/s/si/sillars/"
 - name: "Sillars"
-  url: "/setts/g64k4db9dy2db4dy2db4g11r8db2r4w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g64k4db9dy2db4dy2db4g11r8db2r4w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKBGBGBGRBRWRBRGBGBGBK](/stripes/gkbgbgbgrbrwrbrgbgbgbk/).
+provenance below. It is one weaving of the [sett](/tartans/s/si/sillars/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBGBGBGRBRW](/stripes/gkbgbgbgrbrw/).
 
 Part of the [Sillars](/tartans/s/si/sillars/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5083](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5083)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3207
 
 ## Thread count
-G/128 K8 DB18 DY4 DB8 DY4 DB8 G22 R16 DB4 R8 W6 R8 DB4 R16 G22 DB8 DY4 DB8 DY4 DB18 K/8
+G/128 K8 DB18 DY4 DB8 DY4 DB8 G22 R16 DB4 R8 W/6
 
-One full sett is **532 threads**.
+One full sett is **334 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/128 K8 DB18 DY4 DB8 DY4 DB8 G22 R16 DB4 R8 W6 R8 DB4 R16 G22 DB8 DY4 DB8 DY4 DB18 K/8 — 532 threads; it folds to the canonical 334-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **532 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/128 K8 DB18 DY4 DB8 DY4 DB8 G22 R16 DB4 R8 W6 R8 DB4 R16 G22 DB8 DY4 DB8 DY4 DB18 K/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/128 K8 DB18 DY4 DB8 DY4 DB8 G22 R16 DB4 R8 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

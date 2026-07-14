@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp6g15dg15k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bggk/">BGGK</a></nav>
 Its design is pattern [BGGK](/stripes/bggk/) — the page of every tartan sharing this colour sequence.
 
 Corporate tartan of the Thistle and Kudzu Scottish Society of Athens, Georgia, USA; winner of a 2010 design contest.
@@ -14,8 +17,8 @@ The **Thistle and Kudzu Scottish Socie** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp6g15dg15k2/">Thistle and Kudzu Scottish Socie</a></td><td><code>DP/12 G30 DG30 K/4</code></td><td>136</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp6g15dg15k2/"><img src="/variants/s4/dp6g15dg15k2~x2/sett.png" alt="Thistle and Kudzu Scottish Socie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dp6g15dg15k2~x2/">Thistle and Kudzu Scottish Socie</a></td><td><code>DP/12 G30 DG30 K/4</code></td><td>136</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dp6g15dg15k2~x2/"><img src="/variants/s4/dp6g15dg15k2~x2/sett.png" alt="Thistle and Kudzu Scottish Socie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -28,6 +31,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="232.2" cy="231.2" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s4/k11dp4lb1g9~x4/"><circle cx="197.4" cy="218.4" r="4" fill="#3465a4"><title>Wilson's, No 228</title></circle></a><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="263.7" cy="255.5" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="136.3" cy="268.2" r="4" fill="#3465a4"><title>Breon</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="152.2" cy="216.7" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/k3dg20k20g20k3~x2/"><circle cx="185.0" cy="247.0" r="4" fill="#3465a4"><title>MacCormick Hunting</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="141.4" cy="220.4" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s4/b5g7k1lb1~x4/"><circle cx="255.6" cy="248.1" r="4" fill="#3465a4"><title>Wilson's, No 195</title></circle></a><a href="/variants/s6/dg20r8dg20y8g20k5~x2/"><circle cx="184.6" cy="272.9" r="4" fill="#3465a4"><title>Cates Armigers</title></circle></a><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="163.4" cy="240.5" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><circle cx="222.1" cy="271.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="232.4" cy="231.2" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s4/k11dp4lb1g9~x4/"><circle cx="197.8" cy="218.4" r="4" fill="#3465a4"><title>Wilson's, No 228</title></circle></a><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="264.0" cy="255.5" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="136.3" cy="268.0" r="4" fill="#3465a4"><title>Breon</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="152.5" cy="216.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/k3dg20k20g20k3~x2/"><circle cx="185.3" cy="247.0" r="4" fill="#3465a4"><title>MacCormick Hunting</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="141.6" cy="220.2" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s4/b5g7k1lb1~x4/"><circle cx="256.0" cy="248.1" r="4" fill="#3465a4"><title>Wilson's, No 195</title></circle></a><a href="/variants/s6/dg20r8dg20y8g20k5~x2/"><circle cx="184.7" cy="272.8" r="4" fill="#3465a4"><title>Cates Armigers</title></circle></a><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="163.6" cy="240.4" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><circle cx="222.3" cy="271.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

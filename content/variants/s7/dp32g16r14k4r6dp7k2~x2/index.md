@@ -8,10 +8,10 @@ crumbs:
 - name: "Aisteach"
   url: "/tartans/a/ai/aisteach/"
 - name: "Aisteach"
-  url: "/setts/dp32g16r14k4r6dp7k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp32g16r14k4r6dp7k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ai/aisteach/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRKRBK](/stripes/bgrkrbk/).
 
 Part of the [Aisteach](/tartans/a/ai/aisteach/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Thompson"
   url: "/tartans/t/th/thompson-4/"
 - name: "Thompson (Pendleton)"
-  url: "/setts/t15w13dy6t2dy2r2dy2t2dy6w13t15r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t15w13dy6t2dy2r2dy2t2dy6w13t15r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thompson-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGBGRGBGWBR](/stripes/bwgbgrgbgwbr/).
 
 Part of the [Thompson](/tartans/t/th/thompson-4/) tartan — the named design grouping this sett with its other cloths.

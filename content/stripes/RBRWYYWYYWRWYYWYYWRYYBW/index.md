@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/">B &amp; Q (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/"><img src="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/sett.png" alt="B &amp; Q (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/b/b-q/">B &amp; Q</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/b/b-q/"><img src="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/sett.png" alt="B &amp; Q sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

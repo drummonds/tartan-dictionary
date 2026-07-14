@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/">Mensa</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><img src="/variants/s7/lb3k19db24r2db2y2db2~x2/sett.png" alt="Mensa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/mensa/">Mensa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/mensa/"><img src="/variants/s7/lb3k19db24r2db2y2db2~x2/sett.png" alt="Mensa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

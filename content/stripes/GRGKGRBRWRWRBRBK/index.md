@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/">Catalan Dance</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><img src="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/sett.png" alt="Catalan Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/catalan-dance/">Catalan Dance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/catalan-dance/"><img src="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/sett.png" alt="Catalan Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

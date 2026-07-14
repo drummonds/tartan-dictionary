@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Harris"
   url: "/clan/harris/"
+aliases:
+- "/setts/w3db2w30db4o26w2o2dp4o2w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbwbrwrbrw/">WBWBRWRBRW</a></nav>
 A tartan of [Clan Harris](/clan/harris/).
 Its design is pattern [WBWBRWRBRW](/stripes/wbwbrwrbrw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Harris Lilac** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w3db2w30db4o26w2o2dp4o2w3/">Harris Lilac</a></td><td><code>W/6 DB4 W60 DB8 O52 W4 O4 DP8 O4 W/6</code></td><td>300</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w3db2w30db4o26w2o2dp4o2w3/"><img src="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/sett.png" alt="Harris Lilac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/">Harris Lilac</a></td><td><code>W/6 DB4 W60 DB8 O52 W4 O4 DP8 O4 W/6</code></td><td>300</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/"><img src="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/sett.png" alt="Harris Lilac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="263.1" cy="123.3" r="4" fill="#3465a4"><title>Ben Cleuch</title></circle></a><a href="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/"><circle cx="233.6" cy="129.1" r="4" fill="#3465a4"><title>Largs Dress</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="247.1" cy="128.4" r="4" fill="#3465a4"><title>Ben Ledi</title></circle></a><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="223.0" cy="124.8" r="4" fill="#3465a4"><title>Largs Dress</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="233.1" cy="161.1" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><circle cx="256.0" cy="132.5" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="274.5" cy="94.5" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2ly14r7g2r3w2~x2/"><circle cx="255.2" cy="112.3" r="4" fill="#3465a4"><title>Grant of Achnarrow</title></circle></a><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/"><circle cx="287.1" cy="154.9" r="4" fill="#3465a4"><title>Torridon Burgundy</title></circle></a><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><circle cx="299.4" cy="156.7" r="4" fill="#3465a4"><title>Hose</title></circle></a><circle cx="276.7" cy="139.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="263.6" cy="123.1" r="4" fill="#3465a4"><title>Ben Cleuch</title></circle></a><a href="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/"><circle cx="234.0" cy="128.9" r="4" fill="#3465a4"><title>Largs Dress</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="247.6" cy="128.2" r="4" fill="#3465a4"><title>Ben Ledi</title></circle></a><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="223.5" cy="124.6" r="4" fill="#3465a4"><title>Largs Dress</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="233.4" cy="160.9" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><circle cx="256.4" cy="132.3" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="275.2" cy="94.3" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2ly14r7g2r3w2~x2/"><circle cx="255.7" cy="112.1" r="4" fill="#3465a4"><title>Grant of Achnarrow</title></circle></a><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/"><circle cx="287.7" cy="154.8" r="4" fill="#3465a4"><title>Torridon Burgundy</title></circle></a><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><circle cx="300.0" cy="156.7" r="4" fill="#3465a4"><title>Hose</title></circle></a><circle cx="277.3" cy="139.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

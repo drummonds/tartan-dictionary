@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/n24t2n4o2t2n4o4t5g5y3r7dp2r2dp3r1dp23n4~x2~t2304245/">Scotland's Grace</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/n24t2n4o2t2n4o4t5g5y3r7dp2r2dp3r1dp23n4~x2~t2304245/"><img src="/variants/s17/n24t2n4o2t2n4o4t5g5y3r7dp2r2dp3r1dp23n4~x2~t2304245/sett.png" alt="Scotland's Grace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotland-s-grace/">Scotland's Grace</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-s-grace/"><img src="/variants/s17/n24t2n4o2t2n4o4t5g5y3r7dp2r2dp3r1dp23n4~x2~t2304245/sett.png" alt="Scotland's Grace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

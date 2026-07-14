@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/">Crozier/Crosser</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><img src="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/sett.png" alt="Crozier/Crosser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crozier/">Crozier</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crozier/"><img src="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/sett.png" alt="Crozier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

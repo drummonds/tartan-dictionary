@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r52db12n9y2n2g2n2dg11r7n2r3db2~x2~g2408144-dg1806142/">McPrato</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r52db12n9y2n2g2n2dg11r7n2r3db2~x2~g2408144-dg1806142/"><img src="/variants/s12/r52db12n9y2n2g2n2dg11r7n2r3db2~x2~g2408144-dg1806142/sett.png" alt="McPrato sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcprato/">McPrato</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcprato/"><img src="/variants/s12/r52db12n9y2n2g2n2dg11r7n2r3db2~x2~g2408144-dg1806142/sett.png" alt="McPrato sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

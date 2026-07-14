@@ -8,10 +8,10 @@ crumbs:
 - name: "Day"
   url: "/tartans/d/da/day/"
 - name: "Day (2016)"
-  url: "/setts/r60k1r2y1g6db6r2o3r2db6g6y1k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r60k1r2y1g6db6r2o3r2db6g6y1k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/day/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGBRRRBGGRKR](/stripes/kggbrrrbggrkr/).
 
 Part of the [Day](/tartans/d/da/day/) tartan — the named design grouping this sett with its other cloths.

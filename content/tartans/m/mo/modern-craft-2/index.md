@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k108n4lb4w2lb4n1db2w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbwwwbbw/">KBWWWBBW</a></nav>
 Its design is pattern [KBWWWBBW](/stripes/kbwwwbbw/) — the page of every tartan sharing this colour sequence.
 
 The **Modern Craft** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Modern Craft** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k108n4lb4w2lb4n1db2w2/">Modern Craft</a></td><td><code>K/216 N8 LB8 W4 LB8 N2 DB4 W/4</code></td><td>288</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k108n4lb4w2lb4n1db2w2/"><img src="/variants/s8/k108n4lb4w2lb4n1db2w2~x2/sett.png" alt="Modern Craft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k108n4lb4w2lb4n1db2w2~x2/">Modern Craft</a></td><td><code>K/216 N8 LB8 W4 LB8 N2 DB4 W/4</code></td><td>288</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k108n4lb4w2lb4n1db2w2~x2/"><img src="/variants/s8/k108n4lb4w2lb4n1db2w2~x2/sett.png" alt="Modern Craft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/"><circle cx="535.7" cy="14.0" r="4" fill="#3465a4"><title>Modern Craft</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="544.0" cy="69.7" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s5/k50db3p2r3w1~x4/"><circle cx="556.3" cy="57.0" r="4" fill="#3465a4"><title>Fettes</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="550.6" cy="58.5" r="4" fill="#3465a4"><title>McHattie</title></circle></a><a href="/variants/s6/k45db2dr2r2y1w1~x2/"><circle cx="545.9" cy="37.5" r="4" fill="#3465a4"><title>MacHattie</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="402.7" cy="42.1" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><circle cx="483.6" cy="28.5" r="4" fill="#3465a4"><title>Colleges Scotland</title></circle></a><a href="/variants/s10/k85r6k1w3k3w3k1r6k6y1~x2/"><circle cx="529.5" cy="14.0" r="4" fill="#3465a4"><title>Ambassador</title></circle></a><a href="/variants/s8/k83y2db4r2k8g5r4w3~x2/"><circle cx="484.5" cy="17.0" r="4" fill="#3465a4"><title>Spirit of Lanarkshire</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="482.4" cy="87.5" r="4" fill="#3465a4"><title>London Fog</title></circle></a><circle cx="541.6" cy="14.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/"><circle cx="537.7" cy="14.0" r="4" fill="#3465a4"><title>Modern Craft</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="545.8" cy="70.3" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s5/k50db3p2r3w1~x4/"><circle cx="558.2" cy="57.5" r="4" fill="#3465a4"><title>Fettes</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="552.5" cy="59.0" r="4" fill="#3465a4"><title>McHattie</title></circle></a><a href="/variants/s6/k45db2dr2r2y1w1~x2/"><circle cx="547.7" cy="38.0" r="4" fill="#3465a4"><title>MacHattie</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="404.1" cy="42.3" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><circle cx="485.3" cy="28.8" r="4" fill="#3465a4"><title>Colleges Scotland</title></circle></a><a href="/variants/s10/k85r6k1w3k3w3k1r6k6y1~x2/"><circle cx="531.5" cy="14.0" r="4" fill="#3465a4"><title>Ambassador</title></circle></a><a href="/variants/s8/k83y2db4r2k8g5r4w3~x2/"><circle cx="486.3" cy="17.4" r="4" fill="#3465a4"><title>Spirit of Lanarkshire</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="484.1" cy="87.9" r="4" fill="#3465a4"><title>London Fog</title></circle></a><circle cx="543.5" cy="14.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

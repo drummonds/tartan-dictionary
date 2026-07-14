@@ -10,10 +10,10 @@ crumbs:
 - name: "Italian American"
   url: "/tartans/i/it/italian-american/"
 - name: "Italian American"
-  url: "/setts/r4k2w6k2db40k80g10w6r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k2w6k2db40k80g10w6r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/it/italian-american/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKBKGWR](/stripes/rkwkbkgwr/).
 
 Part of the [Italian American](/tartans/i/it/italian-american/) tartan — the named design grouping this sett with its other cloths.

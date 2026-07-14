@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db3r2n15w10k2y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbwkg/">BRBWKG</a></nav>
 Its design is pattern [BRBWKG](/stripes/brbwkg/) — the page of every tartan sharing this colour sequence.
 
 The **SCH '67 Class** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **SCH '67 Class** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db3r2n15w10k2y3/">SCH '67 Class</a></td><td><code>DB/6 R4 N30 W20 K4 Y/6</code></td><td>128</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3r2n15w10k2y3/"><img src="/variants/s6/db3r2n15w10k2y3~x2/sett.png" alt="SCH '67 Class sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db3r2n15w10k2y3~x2/">SCH '67 Class</a></td><td><code>DB/6 R4 N30 W20 K4 Y/6</code></td><td>128</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db3r2n15w10k2y3~x2/"><img src="/variants/s6/db3r2n15w10k2y3~x2/sett.png" alt="SCH '67 Class sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="145.0" cy="160.7" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="178.6" cy="154.1" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s6/w5n20k8r5dp36ly5~x2/"><circle cx="160.2" cy="169.8" r="4" fill="#3465a4"><title>Lord's Own Highlanders</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="138.5" cy="176.5" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s8/r4dy2lb15y2k14w14k2w4~x2/"><circle cx="58.1" cy="166.5" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.4" cy="143.9" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/"><circle cx="179.4" cy="161.7" r="4" fill="#3465a4"><title>Allman-Jones</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.6" cy="152.5" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="108.0" cy="161.0" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/"><circle cx="214.5" cy="138.0" r="4" fill="#3465a4"><title>Wynberg Boys' High School</title></circle></a><circle cx="133.5" cy="177.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="145.3" cy="160.4" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="179.1" cy="153.9" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s6/w5n20k8r5dp36ly5~x2/"><circle cx="160.6" cy="169.5" r="4" fill="#3465a4"><title>Lord's Own Highlanders</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="138.9" cy="176.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s8/r4dy2lb15y2k14w14k2w4~x2/"><circle cx="58.2" cy="166.0" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.8" cy="143.6" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/"><circle cx="179.7" cy="161.5" r="4" fill="#3465a4"><title>Allman-Jones</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.9" cy="152.2" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="108.2" cy="160.6" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/"><circle cx="215.1" cy="137.8" r="4" fill="#3465a4"><title>Wynberg Boys' High School</title></circle></a><circle cx="133.8" cy="177.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

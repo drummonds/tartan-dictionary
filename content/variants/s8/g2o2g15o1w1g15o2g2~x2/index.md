@@ -12,10 +12,10 @@ crumbs:
 - name: "Bannockbane Hunting"
   url: "/tartans/b/ba/bannockbane-hunting-2/"
 - name: "Bannockbane, hunting"
-  url: "/setts/g2o2g15o1w1g15o2g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2o2g15o1w1g15o2g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bannockbane-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRWGRG](/stripes/grgrwgrg/).
 
 Part of the [Bannockbane Hunting](/tartans/b/ba/bannockbane-hunting-2/) tartan — the named design grouping this sett with its other cloths.

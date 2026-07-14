@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/">Encyclopaedia Britannica</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/"><img src="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/sett.png" alt="Encyclopaedia Britannica sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/en/encyclopaedia-britannica/">Encyclopaedia Britannica</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/en/encyclopaedia-britannica/"><img src="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/sett.png" alt="Encyclopaedia Britannica sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

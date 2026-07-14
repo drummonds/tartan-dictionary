@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/">MacClure Htg (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><img src="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/sett.png" alt="MacClure Htg (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macclure-hunting/">MacClure Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macclure-hunting/"><img src="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/sett.png" alt="MacClure Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

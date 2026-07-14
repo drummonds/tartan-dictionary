@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k76db11k3y6k3db13k11n76/">Kunbi</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k76db11k3y6k3db13k11n76/"><img src="/variants/s8/k76db11k3y6k3db13k11n76/sett.png" alt="Kunbi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ku/kunbi/">Kunbi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ku/kunbi/"><img src="/variants/s8/k76db11k3y6k3db13k11n76/sett.png" alt="Kunbi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

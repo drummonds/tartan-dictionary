@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g20dp2g3dp2g14k18g4~x2/">Pringle, James (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g20dp2g3dp2g14k18g4~x2/"><img src="/variants/s7/g20dp2g3dp2g14k18g4~x2/sett.png" alt="Pringle, James (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pringle-james/">Pringle, James</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pringle-james/"><img src="/variants/s7/g20dp2g3dp2g14k18g4~x2/sett.png" alt="Pringle, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

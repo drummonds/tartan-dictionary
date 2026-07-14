@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/">Manx Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/"><img src="/variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/sett.png" alt="Manx Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-hunting/">Manx Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-hunting/"><img src="/variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/sett.png" alt="Manx Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

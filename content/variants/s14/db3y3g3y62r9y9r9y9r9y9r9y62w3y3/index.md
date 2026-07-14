@@ -12,10 +12,10 @@ crumbs:
 - name: "Catalan"
   url: "/tartans/c/ca/catalan/"
 - name: "Catalan District Tartan"
-  url: "/setts/db3y3g3y62r9y9r9y9r9y9r9y62w3y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3y3g3y62r9y9r9y9r9y9r9y62w3y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/catalan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGRGRGRGRGWG](/stripes/bgggrgrgrgrgwg/).
 
 Part of the [Catalan](/tartans/c/ca/catalan/) tartan — the named design grouping this sett with its other cloths.

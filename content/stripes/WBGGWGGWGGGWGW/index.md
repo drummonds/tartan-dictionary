@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/lb2g3lb2g12y5g12w1dg16y3w3g3dg2dp2w1~x2/">Malone, Keagan Allen (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/lb2g3lb2g12y5g12w1dg16y3w3g3dg2dp2w1~x2/"><img src="/variants/s14/lb2g3lb2g12y5g12w1dg16y3w3g3dg2dp2w1~x2/sett.png" alt="Malone, Keagan Allen (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/malone-keagan-allen/">Malone, Keagan Allen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/malone-keagan-allen/"><img src="/variants/s14/lb2g3lb2g12y5g12w1dg16y3w3g3dg2dp2w1~x2/sett.png" alt="Malone, Keagan Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

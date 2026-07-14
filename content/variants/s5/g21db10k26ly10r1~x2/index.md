@@ -8,10 +8,10 @@ crumbs:
 - name: "Charles-Carberry"
   url: "/tartans/c/ch/charles-carberry/"
 - name: "Charles-Carberry (Personal)"
-  url: "/setts/g21db10k26ly10r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g21db10k26ly10r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/charles-carberry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKYR](/stripes/gbkyr/).
 
 Part of the [Charles-Carberry](/tartans/c/ch/charles-carberry/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "McWilliams"
   url: "/tartans/m/mc/mcwilliams-3/"
 - name: "McWilliams (2014)"
-  url: "/setts/k3db15k9dy3k2dy14k2dy3k9db13k2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3db15k9dy3k2dy14k2dy3k9db13k2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcwilliams-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKGKBK](/stripes/bkbkgkgkgkbk/).
 
 Part of the [McWilliams](/tartans/m/mc/mcwilliams-3/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11154](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>10/10/2014 — McWilliams (2014) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11154">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #4C3428"></span><br><em>The tartan was created for the McWilliams family and their descendants. All those with the surname McWilliams or McWilliam are welcome to wear the tartan.</em></li>
-<li>2014 — McWilliams (2014) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11154">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><br><em>The tartan was created by Aaron M. McWilliams for his wife and daughters. However, all those with the surname McWilliams or McWilliam are welcome to wear the tartan.</em></li>
+<li>2014 — McWilliams (2014) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11154/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><br><em>The tartan was created by Aaron M. McWilliams for his wife and daughters. However, all those with the surname McWilliams or McWilliam are welcome to wear the tartan.</em></li>
 </ul>
 </details>
 

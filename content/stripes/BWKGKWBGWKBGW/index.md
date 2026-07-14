@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/">Dinarzh: Fortress of the Bear</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><img src="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/sett.png" alt="Dinarzh: Fortress of the Bear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/dinarzh-fortress-of-the-bear/">Dinarzh: Fortress of the Bear</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/dinarzh-fortress-of-the-bear/"><img src="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/sett.png" alt="Dinarzh: Fortress of the Bear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

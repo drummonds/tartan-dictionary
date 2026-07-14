@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/">Miss Emma Halford-MacLeod</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><img src="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/sett.png" alt="Miss Emma Halford-MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/miss-emma-halford-macleod/">Miss Emma Halford-MacLeod</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/miss-emma-halford-macleod/"><img src="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/sett.png" alt="Miss Emma Halford-MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

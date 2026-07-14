@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dp3ni24n10ni2g11ni8lb3~x2~ni1900000-n1700000/">Hesco</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp3ni24n10ni2g11ni8lb3~x2~ni1900000-n1700000/"><img src="/variants/s7/dp3ni24n10ni2g11ni8lb3~x2~ni1900000-n1700000/sett.png" alt="Hesco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hesco/">Hesco</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hesco/"><img src="/variants/s7/dp3ni24n10ni2g11ni8lb3~x2~ni1900000-n1700000/sett.png" alt="Hesco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

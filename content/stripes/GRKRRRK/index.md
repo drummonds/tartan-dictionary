@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k4o2r2o2k2o15y2~x4/">Welsh, National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k4o2r2o2k2o15y2~x4/"><img src="/variants/s7/k4o2r2o2k2o15y2~x4/sett.png" alt="Welsh, National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/welsh-national-4/">Welsh, National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/welsh-national-4/"><img src="/variants/s7/k4o2r2o2k2o15y2~x4/sett.png" alt="Welsh, National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

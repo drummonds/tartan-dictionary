@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/r50w1dr12lo4dr1lo4dr12w1r4dr1r4w1dr6r1dr6w1r4dr1r4w1dr12w1r50~x2/">Glenorchy, Lord (Portrait)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/r50w1dr12lo4dr1lo4dr12w1r4dr1r4w1dr6r1dr6w1r4dr1r4w1dr12w1r50~x2/"><img src="/variants/s23/r50w1dr12lo4dr1lo4dr12w1r4dr1r4w1dr6r1dr6w1r4dr1r4w1dr12w1r50~x2/sett.png" alt="Glenorchy, Lord (Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenorchy-lord/">Glenorchy, Lord</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenorchy-lord/"><img src="/variants/s23/r50w1dr12lo4dr1lo4dr12w1r4dr1r4w1dr6r1dr6w1r4dr1r4w1dr12w1r50~x2/sett.png" alt="Glenorchy, Lord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

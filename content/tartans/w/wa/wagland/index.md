@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/wagland/"
 - name: "Wagland"
   url: "/families/wagland/"
+aliases:
+- "/setts/r3db6y2db15g12dg39w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbgbggw/">RBGBGGW</a></nav>
 A tartan of the [Wagland](/families/wagland/) family.
 Its design is pattern [RBGBGGW](/stripes/rbgbggw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Wagland** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3db6y2db15g12dg39w3/">Wagland</a></td><td><code>R/6 DB12 Y4 DB30 G24 DG78 W/6</code></td><td>308</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3db6y2db15g12dg39w3/"><img src="/variants/s7/r3db6y2db15g12dg39w3~x2/sett.png" alt="Wagland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3db6y2db15g12dg39w3~x2/">Wagland</a></td><td><code>R/6 DB12 Y4 DB30 G24 DG78 W/6</code></td><td>308</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3db6y2db15g12dg39w3~x2/"><img src="/variants/s7/r3db6y2db15g12dg39w3~x2/sett.png" alt="Wagland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/"><circle cx="227.5" cy="168.9" r="4" fill="#3465a4"><title>MacCord / McCord</title></circle></a><a href="/variants/s7/g20dg14db9y2db9k1w2~x4/"><circle cx="173.0" cy="168.0" r="4" fill="#3465a4"><title>Hughes</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="229.9" cy="199.9" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/r3g13db13dy2dg34w3~x2/"><circle cx="267.1" cy="174.4" r="4" fill="#3465a4"><title>Glencross, Tynron</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="359.5" cy="186.5" r="4" fill="#3465a4"><title>Hydesville Tower</title></circle></a><a href="/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2~dgi1605139/"><circle cx="256.3" cy="143.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="264.4" cy="173.2" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2~dg1806142-g2408144/"><circle cx="241.7" cy="132.5" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><circle cx="276.5" cy="159.7" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="241.4" cy="190.8" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><circle cx="277.2" cy="161.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/"><circle cx="227.8" cy="168.8" r="4" fill="#3465a4"><title>MacCord / McCord</title></circle></a><a href="/variants/s7/g20dg14db9y2db9k1w2~x4/"><circle cx="173.3" cy="167.8" r="4" fill="#3465a4"><title>Hughes</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="230.2" cy="199.8" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/r3g13db13dy2dg34w3~x2/"><circle cx="267.5" cy="174.4" r="4" fill="#3465a4"><title>Glencross, Tynron</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="360.0" cy="186.7" r="4" fill="#3465a4"><title>Hydesville Tower</title></circle></a><a href="/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2~dgi1605139/"><circle cx="256.7" cy="143.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="264.8" cy="173.1" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2~dg1806142-g2408144/"><circle cx="242.2" cy="132.4" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><circle cx="277.0" cy="159.6" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="241.7" cy="190.7" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><circle cx="277.6" cy="161.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Varenne"
   url: "/tartans/v/va/varenne/"
 - name: "Varenne"
-  url: "/setts/ly32n4dr2k8dr3w2dr3k8dr2n4dr30/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly32n4dr2k8dr3w2dr3k8dr2n4dr30/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/va/varenne/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBWBKBBY](/stripes/bbbkbwbkbby/).
 
 Part of the [Varenne](/tartans/v/va/varenne/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4443](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Varenne (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4443">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C3C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3C3C3C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><br><em>Note said 'FRCH' so possibly Fashion sett for the French Canadian market.</em></li>
-<li>pre 2002 — Varenne (Fashion?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4350">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C3C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3C3C3C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><br><em>Note said 'FRCH' so possibly Fashion sett for the French Canadian market.</em></li>
+<li>pre 2002 — Varenne (Fashion?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4350/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C3C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3C3C3C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><br><em>Note said 'FRCH' so possibly Fashion sett for the French Canadian market.</em></li>
 </ul>
 </details>
 

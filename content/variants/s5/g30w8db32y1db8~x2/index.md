@@ -8,10 +8,10 @@ crumbs:
 - name: "Wimbledon"
   url: "/tartans/w/wi/wimbledon/"
 - name: "Wimbledon"
-  url: "/setts/g30w8db32y1db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g30w8db32y1db8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wimbledon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWG](/stripes/bgbwg/).
 
 Part of the [Wimbledon](/tartans/w/wi/wimbledon/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/">Aggreko Shepherd (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/"><img src="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/sett.png" alt="Aggreko Shepherd (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ag/aggreko-shepherd/">Aggreko Shepherd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ag/aggreko-shepherd/"><img src="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/sett.png" alt="Aggreko Shepherd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

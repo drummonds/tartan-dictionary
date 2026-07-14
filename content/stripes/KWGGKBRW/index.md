@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/">Kaptain Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><img src="/variants/s8/k1w1y2g1k10db1r2w1~x10/sett.png" alt="Kaptain Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ka/kaptain/">Kaptain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/kaptain/"><img src="/variants/s8/k1w1y2g1k10db1r2w1~x10/sett.png" alt="Kaptain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

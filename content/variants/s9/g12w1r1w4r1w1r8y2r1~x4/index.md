@@ -8,10 +8,10 @@ crumbs:
 - name: "Karibu"
   url: "/tartans/k/ka/karibu/"
 - name: "Karibu"
-  url: "/setts/g12w1r1w4r1w1r8y2r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12w1r1w4r1w1r8y2r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ka/karibu/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRWRWRGR](/stripes/gwrwrwrgr/).
 
 Part of the [Karibu](/tartans/k/ka/karibu/) tartan — the named design grouping this sett with its other cloths.

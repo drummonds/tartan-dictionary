@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/">Van Loo (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><img src="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/sett.png" alt="Van Loo (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/lb5db30k25lb5db30dp3lb5~x2/">Van Loo Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb5db30k25lb5db30dp3lb5~x2/"><img src="/variants/s7/lb5db30k25lb5db30dp3lb5~x2/sett.png" alt="Van Loo Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/van-loo/">Van Loo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/van-loo/"><img src="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/sett.png" alt="Van Loo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

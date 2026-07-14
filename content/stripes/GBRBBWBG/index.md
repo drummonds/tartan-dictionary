@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/">Wellmont Golf Tournament</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/"><img src="/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/sett.png" alt="Wellmont Golf Tournament sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wellmont-golf-tournament/">Wellmont Golf Tournament</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wellmont-golf-tournament/"><img src="/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/sett.png" alt="Wellmont Golf Tournament sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/gordon/"
 - name: "Gordon VS"
   url: "/tartans/g/go/gordon-vs/"
-- name: "Gordon VS"
-  url: "/setts/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4/"
+- name: "Gordon Old Clan/Family Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/gordon-vs/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGGGGGGGKBKB](/stripes/bkbkbkgggggggkbkb/).
 
 Part of the [Gordon VS](/tartans/g/go/gordon-vs/) tartan — the named design grouping this sett with its other cloths.

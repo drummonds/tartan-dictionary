@@ -8,15 +8,15 @@ crumbs:
 - name: "Heartlands"
   url: "/tartans/h/he/heartlands/"
 - name: "Heartlands"
-  url: "/setts/db4t1dt20db2dt2db18dg2db2dg22r2dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4t1dt20db2dt2db18dg2db2dg22r2dp4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBGRBRGBGBBBBB](/stripes/bbbbbbgbgrbrgbgbbbbb/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/heartlands/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBGRB](/stripes/bbbbbbgbgrb/).
 
 Part of the [Heartlands](/tartans/h/he/heartlands/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1645](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1645)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1645](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>07/11/2001 — Heartlands (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1645">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2474E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #2474E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Designed by Erica Randall of House of Edgar for MacGregor and MacDuff of 41 Bath Street, Glasgow G2 1HW for use in their kilt hire business. The customer requested that the tartan be based upon the Melville sett. Date of application 6th November 2002. In May 2003 the business was sold by Mr Robert Brown who elected to retain the copyright of this tartan.</em></li>
-<li>2002 — Heartlands (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3443">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2474E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #2474E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Designed by Erica Randall of House of Edgar for MacGregor & MacDuff of 41 Bath Street, Glasgow G2 1HW for use in their kilt hire business. The customer requested that the tartan be based upon the Melville sett. Date of application 6th November 2002. In May 2003 the business was sold by Mr Robert Brown who elected to retain the copyright of this tartan.</em></li>
+<li>2002 — Heartlands (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3443/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2474E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #2474E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Designed by Erica Randall of House of Edgar for MacGregor & MacDuff of 41 Bath Street, Glasgow G2 1HW for use in their kilt hire business. The customer requested that the tartan be based upon the Melville sett. Date of application 6th November 2002. In May 2003 the business was sold by Mr Robert Brown who elected to retain the copyright of this tartan.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2749
 
 ## Thread count
-DB/8 T2 DT40 DB4 DT4 DB36 DG4 DB4 DG44 R4 DP8 R4 DG44 DB4 DG4 DB36 DT4 DB4 DT40 T/2
+DB/8 T2 DT40 DB4 DT4 DB36 DG4 DB4 DG44 R4 DP/8
 
-One full sett is **590 threads**.
+One full sett is **300 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/8 T2 DT40 DB4 DT4 DB36 DG4 DB4 DG44 R4 DP8 R4 DG44 DB4 DG4 DB36 DT4 DB4 DT40 T/2 — 590 threads; it folds to the canonical 300-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **590 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 T2 DT40 DB4 DT4 DB36 DG4 DB4 DG44 R4 DP8 R4 DG44 DB4 DG4 DB36 DT4 DB4 DT40 T/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 T2 DT40 DB4 DT4 DB36 DG4 DB4 DG44 R4 DP/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

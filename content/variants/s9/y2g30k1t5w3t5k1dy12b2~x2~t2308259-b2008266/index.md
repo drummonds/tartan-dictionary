@@ -8,10 +8,10 @@ crumbs:
 - name: "St Brigid's Quirindi"
   url: "/tartans/s/st/st-brigid-s-quirindi/"
 - name: "St Brigid's Quirindi"
-  url: "/setts/y2g30k1t5w3t5k1dy12b2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2g30k1t5w3t5k1dy12b2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-brigid-s-quirindi/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBWBKGG](/stripes/bgkbwbkgg/).
 
 Part of the [St Brigid's Quirindi](/tartans/s/st/st-brigid-s-quirindi/) tartan — the named design grouping this sett with its other cloths.

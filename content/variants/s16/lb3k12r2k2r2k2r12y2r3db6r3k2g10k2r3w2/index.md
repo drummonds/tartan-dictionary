@@ -10,10 +10,10 @@ crumbs:
 - name: "Innes D"
   url: "/tartans/i/in/innes-d/"
 - name: "Innes D"
-  url: "/setts/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/innes-d/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKRKRKRGRBRKGKRW](/stripes/wkrkrkrgrbrkgkrw/).
 
 Part of the [Innes D](/tartans/i/in/innes-d/) tartan — the named design grouping this sett with its other cloths.

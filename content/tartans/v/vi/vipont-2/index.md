@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/vipont/"
 - name: "Vipont"
   url: "/families/vipont/"
+aliases:
+- "/setts/r4g14k3o3g12db36w4/"
+- "/setts/r4g14k3b3g12db36w4/"
+- "/setts/r4g14k3lp3g12db36w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgkrgbw/">RGKRGBW</a></nav>
 A tartan of the [Vipont](/families/vipont/) family.
 Its design is pattern [RGKRGBW](/stripes/rgkrgbw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,12 +23,12 @@ The **Vipont** tartan groups 3 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4g14k3o3g12db36w4/">Vipont</a> ★</td><td><code>R/8 G28 K6 O6 G24 DB72 W/8</code></td><td>288</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4g14k3o3g12db36w4/"><img src="/variants/s7/r4g14k3o3g12db36w4~x2/sett.png" alt="Vipont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r4g14k3b3g12db36w4/">Vipont</a></td><td><code>R/8 G28 K6 B6 G24 DB72 W/8</code></td><td>288</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4g14k3b3g12db36w4/"><img src="/variants/s7/r4g14k3b3g12db36w4~x2/sett.png" alt="Vipont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r4g14k3lp3g12db36w4/">Family Tartan</a></td><td><code>R/8 G28 K6 LP6 G24 DB72 W/8</code></td><td>288</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4g14k3lp3g12db36w4/"><img src="/variants/s7/r4g14k3lp3g12db36w4~x2/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r4g14k3o3g12db36w4~x2/">Vipont</a> ★</td><td><code>R/8 G28 K6 O6 G24 DB72 W/8</code></td><td>288</td><td>1930</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r4g14k3o3g12db36w4~x2/"><img src="/variants/s7/r4g14k3o3g12db36w4~x2/sett.png" alt="Vipont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r4g14k3b3g12db36w4~x2/">Vipont</a></td><td><code>R/8 G28 K6 B6 G24 DB72 W/8</code></td><td>288</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r4g14k3b3g12db36w4~x2/"><img src="/variants/s7/r4g14k3b3g12db36w4~x2/sett.png" alt="Vipont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r4g14k3lp3g12db36w4~x2/">Family Tartan</a></td><td><code>R/8 G28 K6 LP6 G24 DB72 W/8</code></td><td>288</td><td>1983</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r4g14k3lp3g12db36w4~x2/"><img src="/variants/s7/r4g14k3lp3g12db36w4~x2/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="218.5" cy="175.8" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s7/db20r2g9w6y4k2g8~x2/"><circle cx="126.2" cy="172.4" r="4" fill="#3465a4"><title>Crofters</title></circle></a><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="166.0" cy="180.1" r="4" fill="#3465a4"><title>Paterson</title></circle></a><a href="/variants/s6/r3w3db36g36k2r2~x2/"><circle cx="247.7" cy="141.6" r="4" fill="#3465a4"><title>Militello Dress</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="191.3" cy="196.4" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="114.1" cy="170.0" r="4" fill="#3465a4"><title>Morris of Eddergoll</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="171.8" cy="167.6" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="142.6" cy="140.8" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="235.5" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="151.2" cy="138.4" r="4" fill="#3465a4"><title>Greene</title></circle></a><circle cx="198.9" cy="143.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="219.0" cy="175.7" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s7/db20r2g9w6y4k2g8~x2/"><circle cx="126.4" cy="172.1" r="4" fill="#3465a4"><title>Crofters</title></circle></a><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="166.4" cy="179.9" r="4" fill="#3465a4"><title>Paterson</title></circle></a><a href="/variants/s6/r3w3db36g36k2r2~x2/"><circle cx="248.4" cy="141.5" r="4" fill="#3465a4"><title>Militello Dress</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="191.7" cy="196.2" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="114.4" cy="169.7" r="4" fill="#3465a4"><title>Morris of Eddergoll</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="172.3" cy="167.5" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="143.1" cy="140.5" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="236.1" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="151.6" cy="138.1" r="4" fill="#3465a4"><title>Greene</title></circle></a><circle cx="199.4" cy="143.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

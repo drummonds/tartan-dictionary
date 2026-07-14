@@ -8,10 +8,10 @@ crumbs:
 - name: "Raibert, Check"
   url: "/tartans/r/ra/raibert-check-2/"
 - name: "Raibert, Check"
-  url: "/setts/db3o14g2o2g2o3g6w18db3o2db2o2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3o14g2o2g2o3g6w18db3o2db2o2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/raibert-check-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGRGWBRBR](/stripes/brgrgrgwbrbr/).
 
 Part of the [Raibert, Check](/tartans/r/ra/raibert-check-2/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Keilar"
   url: "/tartans/k/ke/keilar/"
 - name: "Keilar (2013)"
-  url: "/setts/y15r3y3r1y35g5w2db2g35r1g3r3g15y5w2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y15r3y3r1y35g5w2db2g35r1g3r3g15y5w2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/keilar/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGGRGRGBWGGRGRG](/stripes/bwggrgrgbwggrgrg/).
 
 Part of the [Keilar](/tartans/k/ke/keilar/) tartan — the named design grouping this sett with its other cloths.

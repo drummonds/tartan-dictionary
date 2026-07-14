@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp2dg6k2db6k1r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgkbkr/">BGKBKR</a></nav>
 Its design is pattern [BGKBKR](/stripes/bgkbkr/) — the page of every tartan sharing this colour sequence.
 
 The **MacCaughan** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **MacCaughan** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp2dg6k2db6k1r2/">MacCaughan</a></td><td><code>R/8 K4 DB24 K8 DG24 DP/8</code></td><td>136</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp2dg6k2db6k1r2/"><img src="/variants/s6/dp2dg6k2db6k1r2~x4/sett.png" alt="MacCaughan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp2dg6k2db6k1r2~x4/">MacCaughan</a></td><td><code>DP/8 DG24 K8 DB24 K4 R/8</code></td><td>136</td><td>1993</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><img src="/variants/s6/dp2dg6k2db6k1r2~x4/sett.png" alt="MacCaughan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r2k1db6k2g6b2~x4/"><circle cx="91.0" cy="224.2" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/variants/s6/dr2k1db6k2g6o2~x4/"><circle cx="101.3" cy="229.9" r="4" fill="#3465a4"><title>MacEachain</title></circle></a><a href="/variants/s6/k11db3o5k2g15dp11~x2/"><circle cx="94.5" cy="215.3" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><circle cx="111.1" cy="241.6" r="4" fill="#3465a4"><title>Atholl Highlanders</title></circle></a><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="57.7" cy="234.2" r="4" fill="#3465a4"><title>Williamson</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="81.6" cy="215.3" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s7/k1dg8w1k8w1db8r1~x4/"><circle cx="122.8" cy="181.2" r="4" fill="#3465a4"><title>Caie</title></circle></a><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><circle cx="135.8" cy="234.0" r="4" fill="#3465a4"><title>Heritage</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="171.5" cy="231.6" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="72.6" cy="265.3" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><circle cx="143.3" cy="241.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r2k1db6k2g6b2~x4/"><circle cx="91.1" cy="223.9" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/variants/s6/dr2k1db6k2g6o2~x4/"><circle cx="101.4" cy="229.7" r="4" fill="#3465a4"><title>MacEachain</title></circle></a><a href="/variants/s6/k11db3o5k2g15dp11~x2/"><circle cx="94.7" cy="215.1" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><circle cx="111.3" cy="241.4" r="4" fill="#3465a4"><title>Atholl Highlanders</title></circle></a><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="57.7" cy="233.9" r="4" fill="#3465a4"><title>Williamson</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="81.6" cy="215.0" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s7/k1dg8w1k8w1db8r1~x4/"><circle cx="123.1" cy="180.9" r="4" fill="#3465a4"><title>Caie</title></circle></a><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><circle cx="135.9" cy="233.8" r="4" fill="#3465a4"><title>Heritage</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="171.7" cy="231.5" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="72.6" cy="265.1" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><circle cx="143.4" cy="241.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

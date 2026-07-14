@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/">Custer (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/"><img src="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/sett.png" alt="Custer (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/custer/">Custer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/custer/"><img src="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/sett.png" alt="Custer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

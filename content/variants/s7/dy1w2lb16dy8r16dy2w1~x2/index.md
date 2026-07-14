@@ -12,10 +12,10 @@ crumbs:
 - name: "Jones"
   url: "/tartans/j/jo/jones-3/"
 - name: "Jones (2016)"
-  url: "/setts/dy1w2lb16dy8r16dy2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy1w2lb16dy8r16dy2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/jo/jones-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWWGRGW](/stripes/gwwgrgw/).
 
 Part of the [Jones](/tartans/j/jo/jones-3/) tartan — the named design grouping this sett with its other cloths.

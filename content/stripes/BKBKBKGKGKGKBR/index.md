@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/">Bonner (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/"><img src="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/sett.png" alt="Bonner (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/db10k1db1k1db1k6g6k1y2k1g6k6db6r3~x2/">MacLeod of Skye</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db10k1db1k1db1k6g6k1y2k1g6k6db6r3~x2/"><img src="/variants/s14/db10k1db1k1db1k6g6k1y2k1g6k6db6r3~x2/sett.png" alt="MacLeod of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4/">MacLeod of Skye (Johnston)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4/"><img src="/variants/s14/t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4/sett.png" alt="MacLeod of Skye (Johnston) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bonner/">Bonner</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bonner/"><img src="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/sett.png" alt="Bonner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-of-skye/">MacLeod of Skye</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-of-skye/"><img src="/variants/s14/db10k1db1k1db1k6g6k1y2k1g6k6db6r3~x2/sett.png" alt="MacLeod of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r1y13k8g1/"
+- "/setts/r1ly13k8g1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgr/">GKGR</a></nav>
 Its design is pattern [GKGR](/stripes/gkgr/) — the page of every tartan sharing this colour sequence.
 
 The **Billy Apple®** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Billy Apple®** tartan groups 2 setts — the same named design recorded a
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r1y13k8g1/">Billy Apple®</a> ★</td><td><code>R/6 Y78 K48 G/6</code></td><td>264</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1y13k8g1/"><img src="/variants/s4/r1y13k8g1~x6/sett.png" alt="Billy Apple® sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r1ly13k8g1/">Billy Apple - Yellow</a></td><td><code>R/6 LY78 K48 G/6</code></td><td>264</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1ly13k8g1/"><img src="/variants/s4/r1ly13k8g1~x6/sett.png" alt="Billy Apple - Yellow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r1y13k8g1~x6/">Billy Apple®</a> ★</td><td><code>R/6 Y78 K48 G/6</code></td><td>264</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r1y13k8g1~x6/"><img src="/variants/s4/r1y13k8g1~x6/sett.png" alt="Billy Apple® sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r1ly13k8g1~x6/">Billy Apple - Yellow</a></td><td><code>R/6 LY78 K48 G/6</code></td><td>264</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r1ly13k8g1~x6/"><img src="/variants/s4/r1ly13k8g1~x6/sett.png" alt="Billy Apple - Yellow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="335.1" cy="125.6" r="4" fill="#3465a4"><title>Port Moresby City</title></circle></a><a href="/variants/s4/r1g11k11y1~x4/"><circle cx="237.0" cy="197.3" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s3/k15y20w3~x2/"><circle cx="248.2" cy="257.1" r="4" fill="#3465a4"><title>Silvicola</title></circle></a><a href="/variants/s4/g10w7y41k7~x2/"><circle cx="300.9" cy="222.6" r="4" fill="#3465a4"><title>Hogan</title></circle></a><a href="/variants/s4/r4k25y25w4~x2/"><circle cx="185.8" cy="219.5" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/variants/s5/k6w6k6ly21r2~x4/"><circle cx="207.6" cy="183.8" r="4" fill="#3465a4"><title>Burberry Check</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="261.6" cy="137.4" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="273.1" cy="126.3" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="198.8" cy="237.4" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s4/dr80lb40k5dy6/"><circle cx="336.8" cy="166.7" r="4" fill="#3465a4"><title>Broberg</title></circle></a><circle cx="292.2" cy="180.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="336.1" cy="125.7" r="4" fill="#3465a4"><title>Port Moresby City</title></circle></a><a href="/variants/s4/r1g11k11y1~x4/"><circle cx="237.6" cy="197.4" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s3/k15y20w3~x2/"><circle cx="248.8" cy="257.2" r="4" fill="#3465a4"><title>Silvicola</title></circle></a><a href="/variants/s4/g10w7y41k7~x2/"><circle cx="301.5" cy="222.7" r="4" fill="#3465a4"><title>Hogan</title></circle></a><a href="/variants/s4/r4k25y25w4~x2/"><circle cx="186.3" cy="219.5" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/variants/s5/k6w6k6ly21r2~x4/"><circle cx="208.2" cy="183.7" r="4" fill="#3465a4"><title>Burberry Check</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="262.5" cy="137.4" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="274.0" cy="126.3" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="199.2" cy="237.3" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s4/dr80lb40k5dy6/"><circle cx="337.7" cy="166.8" r="4" fill="#3465a4"><title>Broberg</title></circle></a><circle cx="293.0" cy="180.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

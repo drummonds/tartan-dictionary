@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/o3lb3n3db3n3g3k1g3n3db3n3lb3o3k1~x4~o2403057/">Stewarton (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/o3lb3n3db3n3g3k1g3n3db3n3lb3o3k1~x4~o2403057/"><img src="/variants/s14/o3lb3n3db3n3g3k1g3n3db3n3lb3o3k1~x4~o2403057/sett.png" alt="Stewarton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewarton/">Stewarton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewarton/"><img src="/variants/s14/o3lb3n3db3n3g3k1g3n3db3n3lb3o3k1~x4~o2403057/sett.png" alt="Stewarton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

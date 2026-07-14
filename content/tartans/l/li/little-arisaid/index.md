@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Little"
   url: "/clan/little/"
+aliases:
+- "/setts/k5w4k4r4k4w7k2w7k8y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkwkwkrkwk/">GKWKWKRKWK</a></nav>
 A tartan of [Clan Little](/clan/little/).
 Its design is pattern [GKWKWKRKWK](/stripes/gkwkwkrkwk/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Little, Arisaid** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k5w4k4r4k4w7k2w7k8y1/">Little, Arisaid</a></td><td><code>K/20 W16 K16 R16 K16 W28 K8 W28 K32 Y/4</code></td><td>344</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k5w4k4r4k4w7k2w7k8y1/"><img src="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/sett.png" alt="Little, Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/">Little, Arisaid</a></td><td><code>K/20 W16 K16 R16 K16 W28 K8 W28 K32 Y/4</code></td><td>344</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/"><img src="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/sett.png" alt="Little, Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/"><circle cx="146.9" cy="198.4" r="4" fill="#3465a4"><title>Little Dress</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="170.6" cy="204.8" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><circle cx="157.4" cy="197.8" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><circle cx="165.1" cy="200.3" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg1806142/"><circle cx="199.2" cy="179.2" r="4" fill="#3465a4"><title>Kierson</title></circle></a><a href="/variants/s8/k22w16lo2w14lo2w16k22db3~x2/"><circle cx="199.3" cy="178.9" r="4" fill="#3465a4"><title>Kennison</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="169.2" cy="197.3" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="182.4" cy="170.6" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s9/k40w25k10y8k3y8k10r25w4~x2/"><circle cx="176.6" cy="148.1" r="4" fill="#3465a4"><title>Buchanan Old Dress</title></circle></a><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/"><circle cx="87.3" cy="194.0" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><circle cx="159.8" cy="197.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/"><circle cx="147.3" cy="198.2" r="4" fill="#3465a4"><title>Little Dress</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="171.0" cy="204.7" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><circle cx="157.9" cy="197.6" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><circle cx="165.6" cy="200.1" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg1806142/"><circle cx="199.7" cy="179.1" r="4" fill="#3465a4"><title>Kierson</title></circle></a><a href="/variants/s8/k22w16lo2w14lo2w16k22db3~x2/"><circle cx="199.9" cy="178.8" r="4" fill="#3465a4"><title>Kennison</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="169.6" cy="197.2" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="183.0" cy="170.4" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s9/k40w25k10y8k3y8k10r25w4~x2/"><circle cx="177.2" cy="147.9" r="4" fill="#3465a4"><title>Buchanan Old Dress</title></circle></a><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/"><circle cx="87.5" cy="193.7" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><circle cx="160.3" cy="197.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

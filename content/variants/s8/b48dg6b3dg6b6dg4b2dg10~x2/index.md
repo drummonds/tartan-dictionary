@@ -8,10 +8,10 @@ crumbs:
 - name: "Lochleven"
   url: "/tartans/l/lo/lochleven/"
 - name: "Lochleven (Dance)"
-  url: "/setts/b48dg6b3dg6b6dg4b2dg10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b48dg6b3dg6b6dg4b2dg10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lochleven/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBG](/stripes/bgbgbgbg/).
 
 Part of the [Lochleven](/tartans/l/lo/lochleven/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2175](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1993 — Lochleven (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2175">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><br><em>Lochleven dancers' kilt 1993 (Susan Ferguson).</em></li>
-<li>1993 — Lochleven (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4990">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #000000"></span><br><em>Lochleven dancers' kilt 1993 (Susan Ferguson)</em></li>
+<li>1993 — Lochleven (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4990/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #000000"></span><br><em>Lochleven dancers' kilt 1993 (Susan Ferguson)</em></li>
 </ul>
 </details>
 

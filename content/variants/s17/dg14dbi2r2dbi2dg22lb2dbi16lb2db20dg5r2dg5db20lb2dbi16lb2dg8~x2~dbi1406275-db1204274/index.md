@@ -8,10 +8,10 @@ crumbs:
 - name: "Frangord"
   url: "/tartans/f/fr/frangord/"
 - name: "Frangord"
-  url: "/setts/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/frangord/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBGWBWBGRGBWBWG](/stripes/gbrbgwbwbgrgbwbwg/).
 
 Part of the [Frangord](/tartans/f/fr/frangord/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1245](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Frangord (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1245">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by the House of Edgar.</em></li>
-<li>pre 2002 — Frangord (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4907">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by the House of Edgar.</em></li>
+<li>pre 2002 — Frangord (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4907/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by the House of Edgar.</em></li>
 </ul>
 </details>
 

@@ -11,11 +11,11 @@ crumbs:
   url: "/families/carnegie/"
 - name: "Carnegie"
   url: "/tartans/c/ca/carnegie/"
-- name: "Carnegie"
-  url: "/setts/db3r1db1r2db6r1k6g6r2g1r1g2y1/"
+- name: "Carnegie Family Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3r1db1r2db6r1k6g6r2g1r1g2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/carnegie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKGRGRGG](/stripes/brbrbrkgrgrgg/).
 
 Part of the [Carnegie](/tartans/c/ca/carnegie/) tartan — the named design grouping this sett with its other cloths.

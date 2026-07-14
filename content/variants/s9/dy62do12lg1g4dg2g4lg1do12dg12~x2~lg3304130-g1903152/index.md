@@ -8,10 +8,10 @@ crumbs:
 - name: "Roast Den, The"
   url: "/tartans/r/ro/roast-den-the/"
 - name: "Roast Den, The"
-  url: "/setts/dy62do12lg1g4dg2g4lg1do12dg12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy62do12lg1g4dg2g4lg1do12dg12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/roast-den-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBYGGGYBG](/stripes/gbygggybg/).
 
 Part of the [Roast Den, The](/tartans/r/ro/roast-den-the/) tartan — the named design grouping this sett with its other cloths.

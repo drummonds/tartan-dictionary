@@ -28,13 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db60g16w8dy3~x2/">Hsu (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db60g16w8dy3~x2/"><img src="/variants/s4/db60g16w8dy3~x2/sett.png" alt="Hsu (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/db60g16w8y3~x2/">MaleHsuHK (Hong Kong) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db60g16w8y3~x2/"><img src="/variants/s4/db60g16w8y3~x2/sett.png" alt="MaleHsuHK (Hong Kong) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/lb8dg1dr2~x20/">Gyle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/lb8dg1dr2~x20/"><img src="/variants/s3/lb8dg1dr2~x20/sett.png" alt="Gyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hs/hsu/">Hsu</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hs/hsu/"><img src="/variants/s4/db60g16w8dy3~x2/sett.png" alt="Hsu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/malehsuhk/">MaleHsuHK</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/malehsuhk/"><img src="/variants/s4/db60g16w8y3~x2/sett.png" alt="MaleHsuHK sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

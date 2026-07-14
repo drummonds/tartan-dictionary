@@ -10,10 +10,10 @@ crumbs:
 - name: "Black Onyx"
   url: "/tartans/b/bl/black-onyx/"
 - name: "Black Onyx"
-  url: "/setts/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-onyx/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKYKBKYKBKYWKY](/stripes/kbkykbkykbkywky/).
 
 Part of the [Black Onyx](/tartans/b/bl/black-onyx/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4829](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>pre 2002 — Black Onyx (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4829">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#949494;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #949494"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A67D3D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A67D3D"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><br><em>Threadcount taken by the STA from a woven sample.</em></li>
-<li>pre 2002 — Black Onyx (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3807">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Sample in STA Johnston Collection.</em></li>
+<li>pre 2002 — Black Onyx (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3807/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

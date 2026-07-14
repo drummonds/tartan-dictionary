@@ -9,18 +9,18 @@ crumbs:
   url: "/clan/blue/"
 - name: "Blue Spruce, The"
   url: "/tartans/b/bl/blue-spruce-the/"
-- name: "Blue Spruce, The"
-  url: "/setts/db2w18lb2w2db3t3db3lb6g24w2/"
+- name: "Blue Spruce, The (Fashion)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2w18lb2w2db3t3db3lb6g24w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blue-spruce-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWWBBBWGW](/stripes/bwwwbbbwgw/).
 
 Part of the [Blue Spruce, The](/tartans/b/bl/blue-spruce-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3710](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3710)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3710/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3710/*)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -32,7 +32,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3710](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

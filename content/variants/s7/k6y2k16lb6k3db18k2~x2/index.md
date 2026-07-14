@@ -10,10 +10,10 @@ crumbs:
 - name: "Carrick High"
   url: "/tartans/c/ca/carrick-high/"
 - name: "Carrick High School"
-  url: "/setts/k6y2k16lb6k3db18k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6y2k16lb6k3db18k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/carrick-high/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKWKGK](/stripes/kbkwkgk/).
 
 Part of the [Carrick High](/tartans/c/ca/carrick-high/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=576](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Carrick High School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=576">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#788CB4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #788CB4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>Taken from a kilt at the Colonial Highland Games, Fair Hill, Maryland. May 2000.</em></li>
-<li>2000 — Carrick High (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4145">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#788CB4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #788CB4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>Taken from a kilt at the Colonial Highland Games, Fair Hill, Maryland. May 2000.</em></li>
+<li>2000 — Carrick High (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4145/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#788CB4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #788CB4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>Taken from a kilt at the Colonial Highland Games, Fair Hill, Maryland. May 2000.</em></li>
 </ul>
 </details>
 

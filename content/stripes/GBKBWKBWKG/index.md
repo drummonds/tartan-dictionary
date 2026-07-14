@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy32db10k52db10w5k24db16w10k11dy15/">Cavan County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy32db10k52db10w5k24db16w10k11dy15/"><img src="/variants/s10/dy32db10k52db10w5k24db16w10k11dy15/sett.png" alt="Cavan County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cavan-county-crest-range/">Cavan County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cavan-county-crest-range/"><img src="/variants/s10/dy32db10k52db10w5k24db16w10k11dy15/sett.png" alt="Cavan County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

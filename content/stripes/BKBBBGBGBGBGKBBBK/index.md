@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db24k2db2dp2db2g16n1g2n3g2n1g16k20db2dp2db2k2~x2/">Sandilands-Watson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db24k2db2dp2db2g16n1g2n3g2n1g16k20db2dp2db2k2~x2/"><img src="/variants/s17/db24k2db2dp2db2g16n1g2n3g2n1g16k20db2dp2db2k2~x2/sett.png" alt="Sandilands-Watson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sandilands-watson/">Sandilands-Watson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sandilands-watson/"><img src="/variants/s17/db24k2db2dp2db2g16n1g2n3g2n1g16k20db2dp2db2k2~x2/sett.png" alt="Sandilands-Watson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

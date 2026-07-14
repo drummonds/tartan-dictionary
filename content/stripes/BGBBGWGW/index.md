@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/">Business Air</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><img src="/variants/s8/b4y2b16db15g16w3g3w4~x2/sett.png" alt="Business Air sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/business-air/">Business Air</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/business-air/"><img src="/variants/s8/b4y2b16db15g16w3g3w4~x2/sett.png" alt="Business Air sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

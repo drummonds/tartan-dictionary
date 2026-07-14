@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/y4k30dr30k2dr2y2k2dr5w5g2/">Haileybury Pipe Band (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y4k30dr30k2dr2y2k2dr5w5g2/"><img src="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/sett.png" alt="Haileybury Pipe Band (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/haileybury-pipe-band/">Haileybury Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haileybury-pipe-band/"><img src="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/sett.png" alt="Haileybury Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

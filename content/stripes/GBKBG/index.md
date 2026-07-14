@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g27db14k2db2y2~x4/">Irving of Bonshaw</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g27db14k2db2y2~x4/"><img src="/variants/s5/g27db14k2db2y2~x4/sett.png" alt="Irving of Bonshaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ir/irving-of-bonshaw/">Irving of Bonshaw</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ir/irving-of-bonshaw/"><img src="/variants/s5/g27db14k2db2y2~x4/sett.png" alt="Irving of Bonshaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/y6b38k3b38y6~x2/">The Poulain League</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/y6b38k3b38y6~x2/"><img src="/variants/s5/y6b38k3b38y6~x2/sett.png" alt="The Poulain League sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/the-poulain-league/">The Poulain League</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/the-poulain-league/"><img src="/variants/s5/y6b38k3b38y6~x2/sett.png" alt="The Poulain League sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

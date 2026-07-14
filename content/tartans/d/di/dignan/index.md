@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y2r1lb16k5dp2w11dp1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbkwrg/">BWBKWRG</a></nav>
 Its design is pattern [BWBKWRG](/stripes/bwbkwrg/) — the page of every tartan sharing this colour sequence.
 
 The **Dignan** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Dignan** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y2r1lb16k5dp2w11dp1/">Dignan</a></td><td><code>Y/8 R4 LB64 K20 DP8 W44 DP/4</code></td><td>292</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y2r1lb16k5dp2w11dp1/"><img src="/variants/s7/y2r1lb16k5dp2w11dp1~x4/sett.png" alt="Dignan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/">Dignan</a></td><td><code>Y/8 R4 LB64 K20 DP8 W44 DP/4</code></td><td>292</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><img src="/variants/s7/y2r1lb16k5dp2w11dp1~x4/sett.png" alt="Dignan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="169.0" cy="139.1" r="4" fill="#3465a4"><title>Dignan Corporate School</title></circle></a><a href="/variants/s7/r3w2db27k19w27dp2y3~x2/"><circle cx="113.7" cy="138.2" r="4" fill="#3465a4"><title>Christian Dress</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.4" cy="143.9" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s9/w37k4db12g12w2lr2r23w4r6~x2~lr2805035-r1506019/"><circle cx="147.1" cy="114.7" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="141.0" cy="147.4" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="138.5" cy="176.5" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/w18k1db4g4dp10lo2~x4/"><circle cx="166.9" cy="135.7" r="4" fill="#3465a4"><title>Edgar-Feyen</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.5" cy="129.5" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="145.0" cy="160.7" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="168.5" cy="110.9" r="4" fill="#3465a4"><title>Edinburgh Dress</title></circle></a><circle cx="152.8" cy="132.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="169.4" cy="138.8" r="4" fill="#3465a4"><title>Dignan Corporate School</title></circle></a><a href="/variants/s7/r3w2db27k19w27dp2y3~x2/"><circle cx="114.1" cy="137.8" r="4" fill="#3465a4"><title>Christian Dress</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.8" cy="143.6" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s9/w37k4db12g12w2lr2r23w4r6~x2~lr2805035-r1506019/"><circle cx="147.5" cy="114.3" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="141.4" cy="147.1" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="138.9" cy="176.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/w18k1db4g4dp10lo2~x4/"><circle cx="167.3" cy="135.4" r="4" fill="#3465a4"><title>Edgar-Feyen</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.8" cy="129.1" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="145.3" cy="160.4" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="169.0" cy="110.5" r="4" fill="#3465a4"><title>Edinburgh Dress</title></circle></a><circle cx="153.2" cy="132.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

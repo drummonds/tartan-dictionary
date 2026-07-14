@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/hall/"
 - name: "Hall"
   url: "/families/hall/"
+aliases:
+- "/setts/y5g3y3g53dr7db5dr13w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggggbbbw/">GGGGBBBW</a></nav>
 A tartan of the [Hall](/families/hall/) family.
 Its design is pattern [GGGGBBBW](/stripes/ggggbbbw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Hall** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y5g3y3g53dr7db5dr13w4/">Hall</a></td><td><code>Y/10 G6 Y6 G106 DR14 DB10 DR26 W/8</code></td><td>354</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y5g3y3g53dr7db5dr13w4/"><img src="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/sett.png" alt="Hall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/">Hall</a></td><td><code>Y/10 G6 Y6 G106 DR14 DB10 DR26 W/8</code></td><td>354</td><td>~2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/"><img src="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/sett.png" alt="Hall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/b6dg14r9db7r9dg54ly6~dg1304144-db1003265-ly3608101/"><circle cx="344.8" cy="179.4" r="4" fill="#3465a4"><title>Tulloch Homes</title></circle></a><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/"><circle cx="308.7" cy="130.7" r="4" fill="#3465a4"><title>Pienaar</title></circle></a><a href="/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"><circle cx="400.9" cy="191.1" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn</title></circle></a><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="367.8" cy="193.5" r="4" fill="#3465a4"><title>McGirr David</title></circle></a><a href="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/"><circle cx="364.1" cy="127.4" r="4" fill="#3465a4"><title>Cavalier</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="293.2" cy="215.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><circle cx="362.5" cy="162.5" r="4" fill="#3465a4"><title>Crieff and Strathearn</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="378.8" cy="158.7" r="4" fill="#3465a4"><title>Spencer</title></circle></a><a href="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/"><circle cx="322.0" cy="149.5" r="4" fill="#3465a4"><title>Manitoba Province</title></circle></a><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><circle cx="373.2" cy="133.2" r="4" fill="#3465a4"><title>Mullikin</title></circle></a><circle cx="376.5" cy="163.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/b6dg14r9db7r9dg54ly6~dg1304144-db1003265-ly3608101/"><circle cx="345.5" cy="179.5" r="4" fill="#3465a4"><title>Tulloch Homes</title></circle></a><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/"><circle cx="309.4" cy="130.7" r="4" fill="#3465a4"><title>Pienaar</title></circle></a><a href="/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"><circle cx="401.4" cy="191.3" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn</title></circle></a><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="368.4" cy="193.7" r="4" fill="#3465a4"><title>McGirr David</title></circle></a><a href="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/"><circle cx="364.8" cy="127.5" r="4" fill="#3465a4"><title>Cavalier</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="293.4" cy="215.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><circle cx="363.2" cy="162.6" r="4" fill="#3465a4"><title>Crieff and Strathearn</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.5" cy="158.9" r="4" fill="#3465a4"><title>Spencer</title></circle></a><a href="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/"><circle cx="322.5" cy="149.5" r="4" fill="#3465a4"><title>Manitoba Province</title></circle></a><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><circle cx="373.9" cy="133.3" r="4" fill="#3465a4"><title>Mullikin</title></circle></a><circle cx="377.1" cy="163.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

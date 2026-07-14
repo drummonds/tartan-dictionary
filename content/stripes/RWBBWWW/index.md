@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/">Kuehle (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><img src="/variants/s7/lp6w2lp1db6n30lb1r3~x2/sett.png" alt="Kuehle (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ku/kuehle-2/">Kuehle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ku/kuehle-2/"><img src="/variants/s7/lp6w2lp1db6n30lb1r3~x2/sett.png" alt="Kuehle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

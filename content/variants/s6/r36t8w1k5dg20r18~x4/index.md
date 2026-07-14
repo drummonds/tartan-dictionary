@@ -12,10 +12,10 @@ crumbs:
 - name: "Sinclair of Auldbar"
   url: "/tartans/s/si/sinclair-of-auldbar/"
 - name: "Sinclair of Auldbar"
-  url: "/setts/r36t8w1k5dg20r18/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r36t8w1k5dg20r18/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/sinclair-of-auldbar/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWKGR](/stripes/rbwkgr/).
 
 Part of the [Sinclair of Auldbar](/tartans/s/si/sinclair-of-auldbar/) tartan — the named design grouping this sett with its other cloths.

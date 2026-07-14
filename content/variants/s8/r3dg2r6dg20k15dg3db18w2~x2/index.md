@@ -12,10 +12,10 @@ crumbs:
 - name: "Curry"
   url: "/tartans/c/cu/curry/"
 - name: "Curry (Personal)"
-  url: "/setts/r3dg2r6dg20k15dg3db18w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3dg2r6dg20k15dg3db18w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/curry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGKGBW](/stripes/rgrgkgbw/).
 
 Part of the [Curry](/tartans/c/cu/curry/) tartan — the named design grouping this sett with its other cloths.

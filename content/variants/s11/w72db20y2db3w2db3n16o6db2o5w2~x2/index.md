@@ -12,10 +12,10 @@ crumbs:
 - name: "Stewart dress"
   url: "/tartans/s/st/stewart-dress-6/"
 - name: "Stewart dress, Blue"
-  url: "/setts/w72db20y2db3w2db3n16o6db2o5w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w72db20y2db3w2db3n16o6db2o5w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-dress-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBWBBRBRW](/stripes/wbgbwbbrbrw/).
 
 Part of the [Stewart dress](/tartans/s/st/stewart-dress-6/) tartan — the named design grouping this sett with its other cloths.

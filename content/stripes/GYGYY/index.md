@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dg100ly4dg2lyi3lyii6~x2~ly2503076-lyi2705081-lyii3104101/">Lagrande</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dg100ly4dg2lyi3lyii6~x2~ly2503076-lyi2705081-lyii3104101/"><img src="/variants/s5/dg100ly4dg2lyi3lyii6~x2~ly2503076-lyi2705081-lyii3104101/sett.png" alt="Lagrande sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lagrande/">Lagrande</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lagrande/"><img src="/variants/s5/dg100ly4dg2lyi3lyii6~x2~ly2503076-lyi2705081-lyii3104101/sett.png" alt="Lagrande sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

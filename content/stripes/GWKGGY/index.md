@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g11w11k3y3dg36lo7~x2/">Driver, RC</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g11w11k3y3dg36lo7~x2/"><img src="/variants/s6/g11w11k3y3dg36lo7~x2/sett.png" alt="Driver, RC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/driver/">Driver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/driver/"><img src="/variants/s6/g11w11k3y3dg36lo7~x2/sett.png" alt="Driver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

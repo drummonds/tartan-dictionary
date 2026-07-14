@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/">Celkilt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/"><img src="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/sett.png" alt="Celkilt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/celkilt/">Celkilt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/celkilt/"><img src="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/sett.png" alt="Celkilt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

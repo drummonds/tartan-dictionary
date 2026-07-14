@@ -8,15 +8,15 @@ crumbs:
 - name: "City of Williams Lake"
   url: "/tartans/c/ci/city-of-williams-lake/"
 - name: "Williams Lake, City of"
-  url: "/setts/y6k1y3g3w3dr3k2dr3db3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y6k1y3g3w3dr3k2dr3db3w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGGWBKBBWBBKBWGGK](/stripes/gkggwbkbbwbbkbwggk/).
+provenance below. It is one weaving of the [sett](/tartans/c/ci/city-of-williams-lake/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGGWBKBBW](/stripes/gkggwbkbbw/).
 
 Part of the [City of Williams Lake](/tartans/c/ci/city-of-williams-lake/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4628](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4628)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4628](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Williams Lake, City of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4628">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>City of Williams Lake, British Columbia, Canada has its 75th year anniversary 15th March 2004. This tartan was endorsed by the City Council under Mayor Rick Gibson. It was designed and made by the city's Spinners and Weavers Guild.</em></li>
-<li>2004 March — City of Williams Lake (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6736">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Designed by Dorothy Unrau of the City of WilliamsLake Spinners & Weavers Guild (who also wove it) to celebrate the city's 75th anniversary on March 15th 2004. Officially accepted by the City Council (Mayor Rick Gibson). Yellow for the gold rush, blue for the lakes and rivers, green for the forest, red for the Hereford cattle, white for the winter playground and black for the Angus cattle.</em></li>
+<li>2004 March — City of Williams Lake (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6736/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Designed by Dorothy Unrau of the City of WilliamsLake Spinners & Weavers Guild (who also wove it) to celebrate the city's 75th anniversary on March 15th 2004. Officially accepted by the City Council (Mayor Rick Gibson). Yellow for the gold rush, blue for the lakes and rivers, green for the forest, red for the Hereford cattle, white for the winter playground and black for the Angus cattle.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2999
 
 ## Thread count
-Y/12 K2 Y6 G6 W6 DR6 K4 DR6 DB6 W6 DB6 DR6 K4 DR6 W6 G6 Y6 K/2
+Y/12 K2 Y6 G6 W6 DR6 K4 DR6 DB6 W/6
 
-One full sett is **190 threads**.
+One full sett is **102 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/12 K2 Y6 G6 W6 DR6 K4 DR6 DB6 W6 DB6 DR6 K4 DR6 W6 G6 Y6 K/2 — 190 threads; it folds to the canonical 102-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **190 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/12 K2 Y6 G6 W6 DR6 K4 DR6 DB6 W6 DB6 DR6 K4 DR6 W6 G6 Y6 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/12 K2 Y6 G6 W6 DR6 K4 DR6 DB6 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

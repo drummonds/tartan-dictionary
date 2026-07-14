@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/t6dp5k2g18r28w2~x2/">Dundhuin Ladies (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><img src="/variants/s6/t6dp5k2g18r28w2~x2/sett.png" alt="Dundhuin Ladies (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dundhuin-ladies/">Dundhuin Ladies</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dundhuin-ladies/"><img src="/variants/s6/t6dp5k2g18r28w2~x2/sett.png" alt="Dundhuin Ladies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

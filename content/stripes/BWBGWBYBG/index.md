@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/">Scotts Valley</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/"><img src="/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/sett.png" alt="Scotts Valley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotts-valley/">Scotts Valley</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotts-valley/"><img src="/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/sett.png" alt="Scotts Valley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

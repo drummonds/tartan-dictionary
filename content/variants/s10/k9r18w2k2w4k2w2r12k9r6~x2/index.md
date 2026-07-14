@@ -12,10 +12,10 @@ crumbs:
 - name: "Brice"
   url: "/tartans/b/br/brice-2/"
 - name: "Brice"
-  url: "/setts/k9r18w2k2w4k2w2r12k9r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k9r18w2k2w4k2w2r12k9r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brice-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWKWKWRKR](/stripes/krwkwkwrkr/).
 
 Part of the [Brice](/tartans/b/br/brice-2/) tartan — the named design grouping this sett with its other cloths.

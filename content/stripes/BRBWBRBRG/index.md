@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/">Newton Primary School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/"><img src="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/sett.png" alt="Newton Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/">Newton Primary School, Dunblane</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/"><img src="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/sett.png" alt="Newton Primary School, Dunblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/newton-primary/">Newton Primary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/newton-primary/"><img src="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/sett.png" alt="Newton Primary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/newton-primary-school-dunblane/">Newton Primary School, Dunblane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/newton-primary-school-dunblane/"><img src="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/sett.png" alt="Newton Primary School, Dunblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

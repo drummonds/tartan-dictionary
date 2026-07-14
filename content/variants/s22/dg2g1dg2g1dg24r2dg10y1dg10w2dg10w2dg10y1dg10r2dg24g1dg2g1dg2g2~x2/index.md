@@ -8,10 +8,10 @@ crumbs:
 - name: "Womens Royal Army Corps Assoc."
   url: "/tartans/w/wo/womens-royal-army-corps-assoc/"
 - name: "Womens Royal Army Corps Assoc."
-  url: "/setts/dg2g1dg2g1dg24r2dg10y1dg10w2dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2g1dg2g1dg24r2dg10y1dg10w2dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wo/womens-royal-army-corps-assoc/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGRGGGWGWGGGRGGGGG](/stripes/ggggggrgggwgwgggrggggg/).
 
 Part of the [Womens Royal Army Corps Assoc.](/tartans/w/wo/womens-royal-army-corps-assoc/) tartan — the named design grouping this sett with its other cloths.

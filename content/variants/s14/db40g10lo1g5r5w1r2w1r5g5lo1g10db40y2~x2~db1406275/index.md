@@ -8,10 +8,10 @@ crumbs:
 - name: "St. Andrew Quebec City"
   url: "/tartans/s/st/st-andrew-quebec-city/"
 - name: "St. Andrew Quebec City"
-  url: "/setts/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-andrew-quebec-city/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYGRWRWRGYGBG](/stripes/bgygrwrwrgygbg/).
 
 Part of the [St. Andrew Quebec City](/tartans/s/st/st-andrew-quebec-city/) tartan — the named design grouping this sett with its other cloths.

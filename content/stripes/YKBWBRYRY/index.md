@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/">Arbroath Smokie Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/"><img src="/variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/sett.png" alt="Arbroath Smokie Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arbroath-smokie-2/">Arbroath Smokie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arbroath-smokie-2/"><img src="/variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/sett.png" alt="Arbroath Smokie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

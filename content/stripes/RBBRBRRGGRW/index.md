@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/">Scottish H &amp; I Film Com (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/"><img src="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/sett.png" alt="Scottish H &amp; I Film Com (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-h-i-film-com/">Scottish H &amp; I Film Com</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-h-i-film-com/"><img src="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/sett.png" alt="Scottish H &amp; I Film Com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k1db1k8r1k1r8db1y8k1y1k8db1k1~x6/">Robieson QAHS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k1db1k8r1k1r8db1y8k1y1k8db1k1~x6/"><img src="/variants/s13/k1db1k8r1k1r8db1y8k1y1k8db1k1~x6/sett.png" alt="Robieson QAHS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robieson-qahs/">Robieson QAHS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robieson-qahs/"><img src="/variants/s13/k1db1k8r1k1r8db1y8k1y1k8db1k1~x6/sett.png" alt="Robieson QAHS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1~x2~ri2406019-r2109032-g2408144-dg1806142/">Waggrall Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1~x2~ri2406019-r2109032-g2408144-dg1806142/"><img src="/variants/s36/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1~x2~ri2406019-r2109032-g2408144-dg1806142/sett.png" alt="Waggrall Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/waggrall/">Waggrall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/waggrall/"><img src="/variants/s36/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1~x2~ri2406019-r2109032-g2408144-dg1806142/sett.png" alt="Waggrall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

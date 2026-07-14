@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Italian"
   url: "/clan/italian/"
+aliases:
+- "/setts/dy3db40k35g5w2r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkgwr/">GBKGWR</a></nav>
 A tartan of [Clan Italian](/clan/italian/).
 Its design is pattern [GBKGWR](/stripes/gbkgwr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Italian National** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dy3db40k35g5w2r3/">Italian National</a></td><td><code>R/6 W4 G10 K70 DB80 DY/6</code></td><td>340</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy3db40k35g5w2r3/"><img src="/variants/s6/dy3db40k35g5w2r3~x2/sett.png" alt="Italian National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy3db40k35g5w2r3~x2/">Italian National</a></td><td><code>DY/6 DB80 K70 G10 W4 R/6</code></td><td>340</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><img src="/variants/s6/dy3db40k35g5w2r3~x2/sett.png" alt="Italian National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="282.6" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="206.8" cy="120.6" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="205.0" cy="136.5" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="243.1" cy="113.2" r="4" fill="#3465a4"><title>Pipers' Trail</title></circle></a><a href="/variants/s6/r2db38k20w1dg20r2/"><circle cx="286.0" cy="137.0" r="4" fill="#3465a4"><title>Waterfront</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="233.5" cy="139.8" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="272.4" cy="108.6" r="4" fill="#3465a4"><title>Fuller of Hopewell</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="217.3" cy="174.9" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s7/y2do4dg11k30r2db16w1~x2/"><circle cx="212.7" cy="99.0" r="4" fill="#3465a4"><title>Buschke</title></circle></a><a href="/variants/s6/db25k84w5g23y5dp8~x2/"><circle cx="247.5" cy="119.9" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><circle cx="239.6" cy="122.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="283.4" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="207.5" cy="120.5" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="205.6" cy="136.3" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="243.9" cy="113.1" r="4" fill="#3465a4"><title>Pipers' Trail</title></circle></a><a href="/variants/s6/r2db38k20w1dg20r2/"><circle cx="286.7" cy="137.0" r="4" fill="#3465a4"><title>Waterfront</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="234.2" cy="139.7" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="273.3" cy="108.6" r="4" fill="#3465a4"><title>Fuller of Hopewell</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="217.8" cy="174.8" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s7/y2do4dg11k30r2db16w1~x2/"><circle cx="213.4" cy="98.9" r="4" fill="#3465a4"><title>Buschke</title></circle></a><a href="/variants/s6/db25k84w5g23y5dp8~x2/"><circle cx="248.4" cy="119.8" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><circle cx="240.3" cy="122.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

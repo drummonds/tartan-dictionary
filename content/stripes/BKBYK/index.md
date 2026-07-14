@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db20k5db18lo26k6~x2/">Johore Regiment (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db20k5db18lo26k6~x2/"><img src="/variants/s5/db20k5db18lo26k6~x2/sett.png" alt="Johore Regiment (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/johore-regiment/">Johore Regiment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/johore-regiment/"><img src="/variants/s5/db20k5db18lo26k6~x2~db1406275/sett.png" alt="Johore Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

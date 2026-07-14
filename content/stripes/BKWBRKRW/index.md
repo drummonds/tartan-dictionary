@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/">President High School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><img src="/variants/s8/n83k7w6n10r7k3r20w3~x2/sett.png" alt="President High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/president-high-school-2/">President High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/president-high-school-2/"><img src="/variants/s8/n83k7w6n10r7k3r20w3~x2/sett.png" alt="President High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k62r23k1y5k1r3k1y2k1r8~x2/">Burke (Kennesaw), Kevin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k62r23k1y5k1r3k1y2k1r8~x2/"><img src="/variants/s10/k62r23k1y5k1r3k1y2k1r8~x2/sett.png" alt="Burke (Kennesaw), Kevin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burke-kevin/">Burke , Kevin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burke-kevin/"><img src="/variants/s10/k62r23k1y5k1r3k1y2k1r8~x2/sett.png" alt="Burke , Kevin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

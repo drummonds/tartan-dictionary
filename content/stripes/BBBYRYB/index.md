@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/n37ly2r6ly2n8db49n3~x2/">U.S. Merchant Marine Academy (Corpo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n37ly2r6ly2n8db49n3~x2/"><img src="/variants/s7/n37ly2r6ly2n8db49n3~x2/sett.png" alt="U.S. Merchant Marine Academy (Corpo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/u/u-s-merchant-marine-academy/">U.S. Merchant Marine Academy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-merchant-marine-academy/"><img src="/variants/s7/n37ly2r6ly2n8db49n3~x2/sett.png" alt="U.S. Merchant Marine Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

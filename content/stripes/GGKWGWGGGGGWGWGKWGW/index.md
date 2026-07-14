@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10~x2/">Shepherd, (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10~x2/"><img src="/variants/s19/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10~x2/sett.png" alt="Shepherd, (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shepherd/">Shepherd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shepherd/"><img src="/variants/s19/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10~x2/sett.png" alt="Shepherd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

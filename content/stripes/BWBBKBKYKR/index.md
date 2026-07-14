@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dp23w1dp2db16k3db2k30lr1k2r3~x2/">Cumnock Hunting (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dp23w1dp2db16k3db2k30lr1k2r3~x2/"><img src="/variants/s10/dp23w1dp2db16k3db2k30lr1k2r3~x2/sett.png" alt="Cumnock Hunting (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cumnock-hunting/">Cumnock Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cumnock-hunting/"><img src="/variants/s10/dp23w1dp2db16k3db2k30lr1k2r3~x2/sett.png" alt="Cumnock Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

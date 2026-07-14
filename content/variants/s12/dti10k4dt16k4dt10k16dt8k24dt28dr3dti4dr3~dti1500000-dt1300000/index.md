@@ -8,22 +8,22 @@ crumbs:
 - name: "St. Mirren"
   url: "/tartans/s/st/st-mirren/"
 - name: "St. Mirren (Corporate)"
-  url: "/setts/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-mirren/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKBKBKBKB](/stripes/bbbbkbkbkbkb/).
 
 Part of the [St. Mirren](/tartans/s/st/st-mirren/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7745](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7745)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7745/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7745/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>August 2008 — St. Mirren (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7745">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#404040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #404040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#343434;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #343434"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Ken MacDonald of Houston Kilts, Paisley as an addition to his in-house range of tartans, Although called St. Mirren it has no direct connection with the Paisley football team but Houston Kilts will be paying a small royalty to the club for the use of their name. Saint Mirin or Mirren was an Irish monk and missionary (circa 565 - 620 BC) also known as Mirren of Benchor (now called Bangor in Wales) He is the patron saint of the town of Paisley in Scotland and was the founder of a religious community which grew to become Paisley Abbey. His shrine in thje abbey becamea centre of pilgrimage.</em></li>
+<li>August 2008 — St. Mirren (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7745/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#404040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #404040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#343434;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #343434"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Ken MacDonald of Houston Kilts, Paisley as an addition to his in-house range of tartans, Although called St. Mirren it has no direct connection with the Paisley football team but Houston Kilts will be paying a small royalty to the club for the use of their name. Saint Mirin or Mirren was an Irish monk and missionary (circa 565 - 620 BC) also known as Mirren of Benchor (now called Bangor in Wales) He is the patron saint of the town of Paisley in Scotland and was the founder of a religious community which grew to become Paisley Abbey. His shrine in thje abbey becamea centre of pilgrimage.</em></li>
 <li>undated — St. Mirren (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5726">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#404040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #404040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#343434;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #343434"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Ken MacDonald of Houston Kilts, Paisley as an addition to his in-house range of tartans, Although called St. Mirren it has no direct connection with the Paisley football team but Houston Kilts will be paying a small royalty to the club for the use of their name. Saint Mirin or Mirren was an Irish monk and missionary (circa 565 - 620 BC) also known as Mirren of Benchor (now called Bangor in Wales). He is the patron saint of the town of Paisley in Scotland and was the founder of a religious community which grew to become Paisley Abbey. His shrine in the abbey becamea centre of pilgrimage.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7745](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

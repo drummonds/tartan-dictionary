@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/">Longmount</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/"><img src="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/sett.png" alt="Longmount sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/longmount/">Longmount</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/longmount/"><img src="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/sett.png" alt="Longmount sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r3db36w10k8g13y6g3y3g3y1~x2/">Crookdake Cheng</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r3db36w10k8g13y6g3y3g3y1~x2/"><img src="/variants/s10/r3db36w10k8g13y6g3y3g3y1~x2/sett.png" alt="Crookdake Cheng sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crookdake-cheng/">Crookdake Cheng</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crookdake-cheng/"><img src="/variants/s10/r3db36w10k8g13y6g3y3g3y1~x2/sett.png" alt="Crookdake Cheng sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

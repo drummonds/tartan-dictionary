@@ -8,10 +8,10 @@ crumbs:
 - name: "Diana Princess of Wales"
   url: "/tartans/d/di/diana-princess-of-wales/"
 - name: "Diana Princess of Wales"
-  url: "/setts/g5dr1r4db2r20g12db16r4dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g5dr1r4db2r20g12db16r4dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/diana-princess-of-wales/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGRBRBG](/stripes/brbgrbrbg/).
 
 Part of the [Diana Princess of Wales](/tartans/d/di/diana-princess-of-wales/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=931](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1997 — Diana Princess of Wales (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=931">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #004028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B43C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #B43C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WM #780028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WB #000048"></span><br><em>Designed by Peter MacDonald in 1997 and sold to London House (231) Ltd.</em></li>
-<li>1997 — Diana Princess of Wales (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4683">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #004028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B43C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #B43C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WM #780028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WB #000048"></span><br><em>Designed by Peter MacDonald in 1997 and sold to London House (231) Ltd.</em></li>
+<li>1997 — Diana Princess of Wales (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4683/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #004028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B43C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #B43C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WM #780028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WB #000048"></span><br><em>Designed by Peter MacDonald in 1997 and sold to London House (231) Ltd.</em></li>
 </ul>
 </details>
 

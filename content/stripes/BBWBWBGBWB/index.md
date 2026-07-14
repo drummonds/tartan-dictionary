@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/">Glenfinnan (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><img src="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/sett.png" alt="Glenfinnan (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenfinnan-3/">Glenfinnan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenfinnan-3/"><img src="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/sett.png" alt="Glenfinnan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

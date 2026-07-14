@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db1w1r1/">Usa</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db1w1r1/"><img src="/variants/s3/db1w1r1~x4/sett.png" alt="Usa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/aq/aquascutum-2/">Aquascutum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/aq/aquascutum-2/"><img src="/variants/s3/db1w1r1~x4/sett.png" alt="Aquascutum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auchmaliddie-samkoma/">Auchmaliddie Samkoma</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auchmaliddie-samkoma/"><img src="/variants/s3/db23w4r4~x4/sett.png" alt="Auchmaliddie Samkoma sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

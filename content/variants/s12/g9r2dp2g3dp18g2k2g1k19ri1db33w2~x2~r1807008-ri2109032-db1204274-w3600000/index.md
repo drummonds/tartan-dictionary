@@ -8,10 +8,10 @@ crumbs:
 - name: "Western Isles"
   url: "/tartans/w/we/western-isles/"
 - name: "Western Isles"
-  url: "/setts/g9r2dp2g3dp18g2k2g1k19ri1db33w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g9r2dp2g3dp18g2k2g1k19ri1db33w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/western-isles/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGBGKGKRBW](/stripes/grbgbgkgkrbw/).
 
 Part of the [Western Isles](/tartans/w/we/western-isles/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/do22g26dr4g26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/">Devarr</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/do22g26dr4g26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/"><img src="/variants/s14/do22g26dr4g26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/sett.png" alt="Devarr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/devarr-2/">Devarr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/devarr-2/"><img src="/variants/s14/do22g26dr4g26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/sett.png" alt="Devarr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

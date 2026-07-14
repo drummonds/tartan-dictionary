@@ -12,10 +12,10 @@ crumbs:
 - name: "Cook"
   url: "/tartans/c/co/cook/"
 - name: "(2) Cook"
-  url: "/setts/g12lb6g6r15k1r1k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12lb6g6r15k1r1k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cook/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRKRK](/stripes/gwgrkrk/).
 
 Part of the [Cook](/tartans/c/co/cook/) tartan — the named design grouping this sett with its other cloths.

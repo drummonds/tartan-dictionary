@@ -3,7 +3,7 @@ title: "Families & clans — J"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-36 clans and families beginning with J. [Back to the A–Z](/families/).
+35 clans and families beginning with J. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/families/jackson/"><img src="/variants/s8/g5y2dp40w1db15w1db1w1~x2/sett.png" alt="Jackson" width="140"><br><strong>Jackson</strong></a></li>
@@ -34,7 +34,6 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s14/db2lb2db3lb8g4db4g3db8r12g7r3g2k1w1~x2/"><strong>Jones-MacGregor</strong></a></li>
 <li><a class="tartan" href="/clan/jorgensen/"><img src="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r1707016-dg1503171/sett.png" alt="Jorgensen" width="140"><br><strong>Jorgensen</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/jorgensen-of-taasinge/"><img src="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r1707016-dg1503171/sett.png" alt="Jorgensen of Taasinge" width="140"><br><strong>Jorgensen of Taasinge</strong></a></li>
-<li><a class="tartan" href="/families/joss/"><img src="/variants/s13/r3dg1db2dg4db30k2db4k2db30dg27y3k3w3~x2/sett.png" alt="Joss" width="140"><br><strong>Joss</strong></a></li>
 <li><a class="tartan" href="/families/jouy/"><img src="/variants/s13/db5w5db5w5db15w1lo2w1db21y2db5k2y4~x2/sett.png" alt="Jouy" width="140"><br><strong>Jouy</strong></a></li>
 <li><a class="tartan" href="/clan/jrgensen/"><img src="/variants/s19/lb4dr10dt6dg10dt6dr22g6dr4dt22dr4dt22dg36dt22dr4dt22dr4g6dt10g3~dt1103265-dg1704144/sett.png" alt="Jrgensen" width="140"><br><strong>Jrgensen</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/jrgensen-of-taasingee/"><img src="/variants/s19/lb4dr10dt6dg10dt6dr22g6dr4dt22dr4dt22dg36dt22dr4dt22dr4g6dt10g3~dt1103265-dg1704144/sett.png" alt="Jrgensen of Taasingee" width="140"><br><strong>Jrgensen of Taasingee</strong></a></li>

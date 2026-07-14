@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/skye/"
 - name: "Skye"
   url: "/families/skye/"
+aliases:
+- "/setts/db4w2db1w36g21y4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbwgg/">BWBWGG</a></nav>
 A tartan of the [Skye](/families/skye/) family.
 Its design is pattern [BWBWGG](/stripes/bwbwgg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Skye** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db4w2db1w36g21y4/">Skye</a></td><td><code>DB/8 W4 DB2 W72 G42 Y/8</code></td><td>256</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db4w2db1w36g21y4/"><img src="/variants/s6/db4w2db1w36g21y4~x2/sett.png" alt="Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db4w2db1w36g21y4~x2/">Skye</a></td><td><code>DB/8 W4 DB2 W72 G42 Y/8</code></td><td>256</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db4w2db1w36g21y4~x2/"><img src="/variants/s6/db4w2db1w36g21y4~x2/sett.png" alt="Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -38,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="378.8" cy="158.7" r="4" fill="#3465a4"><title>Spencer</title></circle></a><a href="/variants/s7/y6dg36w5t4w30t1w2~x2/"><circle cx="289.9" cy="148.1" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4</title></circle></a><a href="/variants/s5/w14dp4dy1g8db2~x2/"><circle cx="231.0" cy="206.7" r="4" fill="#3465a4"><title>Manx Laxey Dress</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="258.5" cy="202.7" r="4" fill="#3465a4"><title>Shiel Lavender</title></circle></a><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><circle cx="390.9" cy="204.4" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s6/w36db12w1r12g16y2~x2/"><circle cx="230.7" cy="144.2" r="4" fill="#3465a4"><title>MacNappy</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="355.2" cy="171.1" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s6/w44dg18w6dg11db1r4~x2/"><circle cx="352.1" cy="129.8" r="4" fill="#3465a4"><title>Westfalia Dress</title></circle></a><a href="/variants/s6/dg44w18dg6w11db1r4~x2/"><circle cx="352.2" cy="126.8" r="4" fill="#3465a4"><title>Westfalia</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="270.6" cy="192.5" r="4" fill="#3465a4"><title>Laxey Manx</title></circle></a><circle cx="352.9" cy="158.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.5" cy="158.9" r="4" fill="#3465a4"><title>Spencer</title></circle></a><a href="/variants/s7/y6dg36w5t4w30t1w2~x2/"><circle cx="290.5" cy="148.1" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4</title></circle></a><a href="/variants/s5/w14dp4dy1g8db2~x2/"><circle cx="231.3" cy="206.5" r="4" fill="#3465a4"><title>Manx Laxey Dress</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="258.7" cy="202.5" r="4" fill="#3465a4"><title>Shiel Lavender</title></circle></a><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><circle cx="391.5" cy="204.5" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s6/w36db12w1r12g16y2~x2/"><circle cx="231.2" cy="144.0" r="4" fill="#3465a4"><title>MacNappy</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="355.9" cy="171.2" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s6/w44dg18w6dg11db1r4~x2/"><circle cx="352.9" cy="129.8" r="4" fill="#3465a4"><title>Westfalia Dress</title></circle></a><a href="/variants/s6/dg44w18dg6w11db1r4~x2/"><circle cx="353.1" cy="126.9" r="4" fill="#3465a4"><title>Westfalia</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="271.0" cy="192.4" r="4" fill="#3465a4"><title>Laxey Manx</title></circle></a><circle cx="353.5" cy="158.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

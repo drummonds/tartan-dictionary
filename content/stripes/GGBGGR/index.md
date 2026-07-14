@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g18y1dp5y1dg18r1~x4/">Symonds (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g18y1dp5y1dg18r1~x4/"><img src="/variants/s6/g18y1dp5y1dg18r1~x4/sett.png" alt="Symonds (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sy/symonds/">Symonds</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sy/symonds/"><img src="/variants/s6/g18y1dp5y1dg18r1~x4/sett.png" alt="Symonds sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

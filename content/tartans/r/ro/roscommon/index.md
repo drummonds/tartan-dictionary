@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/b32do6o5do6dg19o3dg5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbrbgrg/">BBRBGRG</a></nav>
 Its design is pattern [BBRBGRG](/stripes/bbrbgrg/) — the page of every tartan sharing this colour sequence.
 
 The **Roscommon** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Roscommon** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b32do6o5do6dg19o3dg5/">Roscommon</a></td><td><code>DG/10 O6 DG38 DO12 O10 DO12 B/64</code></td><td>230</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b32do6o5do6dg19o3dg5/"><img src="/variants/s7/b32do6o5do6dg19o3dg5~x2/sett.png" alt="Roscommon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/b32do6o5do6dg19o3dg5~x2/">Roscommon</a></td><td><code>B/64 DO12 O10 DO12 DG38 O6 DG/10</code></td><td>230</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/b32do6o5do6dg19o3dg5~x2/"><img src="/variants/s7/b32do6o5do6dg19o3dg5~x2/sett.png" alt="Roscommon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="271.0" cy="187.8" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="331.6" cy="189.2" r="4" fill="#3465a4"><title>Hardie</title></circle></a><a href="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/"><circle cx="290.6" cy="221.0" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s7/dp9b4dp1b4dg15r4dp1~x2/"><circle cx="274.8" cy="214.6" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.5" cy="216.2" r="4" fill="#3465a4"><title>Ballantyne STWR</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="265.1" cy="249.2" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="275.6" cy="202.2" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/"><circle cx="294.9" cy="204.8" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/variants/s6/db3dg21db3o21db35w3~x2/"><circle cx="288.7" cy="218.7" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="284.9" cy="219.8" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><circle cx="285.1" cy="228.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="271.3" cy="187.7" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="332.1" cy="189.3" r="4" fill="#3465a4"><title>Hardie</title></circle></a><a href="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/"><circle cx="290.9" cy="221.0" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s7/dp9b4dp1b4dg15r4dp1~x2/"><circle cx="275.2" cy="214.6" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.7" cy="216.1" r="4" fill="#3465a4"><title>Ballantyne STWR</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="265.4" cy="249.2" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="275.9" cy="202.2" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/"><circle cx="295.3" cy="204.8" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/variants/s6/db3dg21db3o21db35w3~x2/"><circle cx="289.1" cy="218.7" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.2" cy="219.7" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><circle cx="285.3" cy="228.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

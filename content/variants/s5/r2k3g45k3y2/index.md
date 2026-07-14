@@ -10,10 +10,10 @@ crumbs:
 - name: "Mar Tribe"
   url: "/tartans/m/ma/mar-tribe/"
 - name: "Mar Tribe"
-  url: "/setts/r2k3g45k3y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k3g45k3y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mar-tribe/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKR](/stripes/gkgkr/).
 
 Part of the [Mar Tribe](/tartans/m/ma/mar-tribe/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "Bruce Old"
   url: "/tartans/b/br/bruce-old/"
 - name: "Bruce Old Clan Tartan"
-  url: "/setts/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bruce-old/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/).
 
 Part of the [Bruce Old](/tartans/b/br/bruce-old/) tartan — the named design grouping this sett with its other cloths.

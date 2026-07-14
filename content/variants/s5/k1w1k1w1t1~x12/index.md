@@ -10,17 +10,17 @@ crumbs:
 - name: "Haig Check"
   url: "/tartans/h/ha/haig-check-2/"
 - name: "Haig Check (Estate Check)"
-  url: "/setts/k1w1k1w1t1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1w1k1w1t1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWKWKWKW](/stripes/bwkwkwkw/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/haig-check-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKWK](/stripes/bwkwk/).
 
 Part of the [Haig Check](/tartans/h/ha/haig-check-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6244](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6244)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/6244/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6244/*)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -32,7 +32,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6244](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
@@ -51,9 +51,11 @@ Setts a curator has related to this one.
 - **derived-from**: [Shepherd or Falkirk](/setts/k1lb1/) — The Haig estate check is a coloured elaboration of the black-and-white Shepherd's Check — the Border check — with a blue overcheck added. It was designed in 1908 by the Colonel of the 4th Battalion King's Own Scottish Borderers for the regiment's pipers and later taken up by Earl Haig's family of Bemersyde in the Scottish Borders.
 
 ## Thread count
-T/12 W12 K12 W12 K12 W12 K12 W/12
+K/12 W12 K12 W12 T/12
 
-One full sett is **168 threads**.
+One full sett is **96 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/12 W12 K12 W12 K12 W12 K12 W/12 — 168 threads; it folds to the canonical 96-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -62,7 +64,7 @@ One full sett is **168 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/12 W12 K12 W12 K12 W12 K12 W/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 W12 K12 W12 T/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

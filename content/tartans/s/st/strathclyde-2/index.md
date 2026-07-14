@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/strathclyde/"
 - name: "Strathclyde"
   url: "/families/strathclyde/"
+aliases:
+- "/setts/k4db2k15w10lb15db2lb4/"
+- "/setts/k4db2k15w10b15db2b4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbkwwbw/">KBKWWBW</a></nav>
 A tartan of the [Strathclyde](/families/strathclyde/) family.
 Its design is pattern [KBKWWBW](/stripes/kbkwwbw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Strathclyde** tartan groups 2 setts — the same named design recorded as 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4db2k15w10lb15db2lb4/">Strathclyde</a> ★</td><td><code>K/8 DB4 K30 W20 LB30 DB4 LB/8</code></td><td>192</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4db2k15w10lb15db2lb4/"><img src="/variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/sett.png" alt="Strathclyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k4db2k15w10b15db2b4/">Strathclyde</a></td><td><code>K/8 DB4 K30 W20 B30 DB4 B/8</code></td><td>192</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4db2k15w10b15db2b4/"><img src="/variants/s7/k4db2k15w10b15db2b4~x2/sett.png" alt="Strathclyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/">Strathclyde</a> ★</td><td><code>K/8 DB4 K30 W20 LB30 DB4 LB/8</code></td><td>192</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/"><img src="/variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/sett.png" alt="Strathclyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k4db2k15w10b15db2b4~x2/">Strathclyde</a></td><td><code>K/8 DB4 K30 W20 B30 DB4 B/8</code></td><td>192</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k4db2k15w10b15db2b4~x2/"><img src="/variants/s7/k4db2k15w10b15db2b4~x2/sett.png" alt="Strathclyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/"><circle cx="104.9" cy="206.5" r="4" fill="#3465a4"><title>Mary Washington</title></circle></a><a href="/variants/s7/k2lb16w2db16w15k2w2~x2/"><circle cx="139.7" cy="198.1" r="4" fill="#3465a4"><title>Strathclyde 1975</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~db1605267-ki0503265/"><circle cx="146.7" cy="192.0" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/r3db15w13dy6db2dy2r2~x2/"><circle cx="163.9" cy="202.2" r="4" fill="#3465a4"><title>Thompson Navy</title></circle></a><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><circle cx="104.6" cy="169.5" r="4" fill="#3465a4"><title>St. Francis Xavier University</title></circle></a><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="116.9" cy="203.1" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><circle cx="114.1" cy="198.8" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="169.6" cy="207.8" r="4" fill="#3465a4"><title>Birnham</title></circle></a><a href="/variants/s8/b2w4k2w1b4k1b1g1~x4/"><circle cx="126.7" cy="232.4" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="156.0" cy="196.1" r="4" fill="#3465a4"><title>RSCDS Australia?</title></circle></a><circle cx="131.1" cy="202.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/"><circle cx="105.1" cy="206.1" r="4" fill="#3465a4"><title>Mary Washington</title></circle></a><a href="/variants/s7/k2lb16w2db16w15k2w2~x2/"><circle cx="139.9" cy="197.8" r="4" fill="#3465a4"><title>Strathclyde 1975</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~db1605267-ki0503265/"><circle cx="147.1" cy="191.8" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/r3db15w13dy6db2dy2r2~x2/"><circle cx="164.2" cy="201.9" r="4" fill="#3465a4"><title>Thompson Navy</title></circle></a><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><circle cx="104.9" cy="169.2" r="4" fill="#3465a4"><title>St. Francis Xavier University</title></circle></a><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="117.2" cy="202.8" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><circle cx="114.3" cy="198.5" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="169.9" cy="207.5" r="4" fill="#3465a4"><title>Birnham</title></circle></a><a href="/variants/s8/b2w4k2w1b4k1b1g1~x4/"><circle cx="126.9" cy="232.1" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="156.4" cy="195.8" r="4" fill="#3465a4"><title>RSCDS Australia?</title></circle></a><circle cx="131.4" cy="202.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

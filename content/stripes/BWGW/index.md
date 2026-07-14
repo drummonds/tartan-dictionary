@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/lb53g20w18db14~x2/">Leutz (Name?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb53g20w18db14~x2/"><img src="/variants/s4/lb53g20w18db14~x2/sett.png" alt="Leutz (Name?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leutz/">Leutz</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leutz/"><img src="/variants/s4/lb53g20w18db14~x2/sett.png" alt="Leutz sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

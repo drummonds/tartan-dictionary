@@ -8,15 +8,15 @@ crumbs:
 - name: "Scottish Rugby Union"
   url: "/tartans/s/sc/scottish-rugby-union/"
 - name: "Scottish Rugby Union"
-  url: "/setts/db6k2db24k10g2o2g2o2g10k2lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6k2db24k10g2o2g2o2g10k2lb3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKGRGRGKWKGRGRGKBK](/stripes/bkbkgrgrgkwkgrgrgkbk/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-rugby-union/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKGRGRGKW](/stripes/bkbkgrgrgkw/).
 
 Part of the [Scottish Rugby Union](/tartans/s/sc/scottish-rugby-union/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3743](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3743)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3743](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1991 — Scottish Rugby Union (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3743">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed by Chris Aitken of Geoffrey Tailor (Highland) Crafts. Sample in Scottish Tartans Authority Johnston Collection. Originally woven by D C Dalgliesh but now said to be woven by Geoffrey (Tailor) themselves. enquiries@geoffreykilts.co.uk. S.R.U. requested that the Navy of their jersey should be prominent, including the green and lilac of the thistle, and the white of the shorts. This version is approved by the Scottish Rugby Union, 1990.</em></li>
-<li>pre 1991 — Scottish Rugby Union (Sports) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2101">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed by Chris Aitken of Geoffrey Tailor (Highland) Crafts. Sample in STA Johnston Collection. Originally woven by D C Dalgliesh but now said to be woven by Geoffrey (Tailor) themselves. Tel: 0131 557 0256. enquiries@geoffreykilts.co.uk S.R.U. requested that the Navy of their jersey should be prominent, including the green and lilac of the thistle, and the white of the shorts.</em></li>
+<li>pre 1991 — Scottish Rugby Union (Sports) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2101/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed by Chris Aitken of Geoffrey Tailor (Highland) Crafts. Sample in STA Johnston Collection. Originally woven by D C Dalgliesh but now said to be woven by Geoffrey (Tailor) themselves. Tel: 0131 557 0256. enquiries@geoffreykilts.co.uk S.R.U. requested that the Navy of their jersey should be prominent, including the green and lilac of the thistle, and the white of the shorts.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2101
 
 ## Thread count
-DB/12 K4 DB48 K20 G4 O4 G4 O4 G20 K4 LB6 K4 G20 O4 G4 O4 G4 K20 DB48 K/4
+DB/12 K4 DB48 K20 G4 O4 G4 O4 G20 K4 LB/6
 
-One full sett is **468 threads**.
+One full sett is **242 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/12 K4 DB48 K20 G4 O4 G4 O4 G20 K4 LB6 K4 G20 O4 G4 O4 G4 K20 DB48 K/4 — 468 threads; it folds to the canonical 242-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **468 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 K4 DB48 K20 G4 O4 G4 O4 G20 K4 LB6 K4 G20 O4 G4 O4 G4 K20 DB48 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 K4 DB48 K20 G4 O4 G4 O4 G20 K4 LB/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

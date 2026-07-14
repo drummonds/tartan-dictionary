@@ -8,15 +8,15 @@ crumbs:
 - name: "Weisfeld"
   url: "/tartans/w/we/weisfeld/"
 - name: "Weisfeld"
-  url: "/setts/k6dbi3dg28w1db28dbi2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6dbi3dg28w1db28dbi2w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGWBBWBBWGBK](/stripes/bgwbbwbbwgbk/).
+provenance below. It is one weaving of the [sett](/tartans/w/we/weisfeld/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBGWBBW](/stripes/kbgwbbw/).
 
 Part of the [Weisfeld](/tartans/w/we/weisfeld/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4585](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4585)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4585](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/1999 — Weisfeld (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4585">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by Douglas Mathers of Highland Dress Hire and can be used by anyone of the name Weisfeld but designer's consent required. It was aid to have been produced for Glasgow businessman Gerals Weisfield who owned the 'What Everyone Wants' chain of stores.</em></li>
-<li>September 1999 — Weisfeld (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2617">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by Douglas Mathers of Highland Dress Hire and can be used by anyone of the name Weisfeld but designer's consent required. It was said to have been produced for Glasgow businessman Gerald Weisfield who owned the 'What Everyone Wants' chain of stores. Now regarded as a 'name' tartan.</em></li>
+<li>September 1999 — Weisfeld (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2617/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by Douglas Mathers of Highland Dress Hire and can be used by anyone of the name Weisfeld but designer's consent required. It was said to have been produced for Glasgow businessman Gerald Weisfield who owned the 'What Everyone Wants' chain of stores. Now regarded as a 'name' tartan.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2617
 
 ## Thread count
-K/12 DBi6 DG56 W2 DB56 DBi4 W6 DBi4 DB56 W2 DG56 DBi/6
+K/12 DB6 DG56 W2 DT56 DB4 W/6
 
-One full sett is **514 threads**.
+One full sett is **266 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/12 DBi6 DG56 W2 DB56 DBi4 W6 DBi4 DB56 W2 DG56 DBi/6 — 514 threads; it folds to the canonical 266-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **514 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 DBi6 DG56 W2 DB56 DBi4 W6 DBi4 DB56 W2 DG56 DBi/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 DB6 DG56 W2 DT56 DB4 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Campbell"
   url: "/tartans/c/ca/campbell-7/"
 - name: "Campbell, Brown (Personal)"
-  url: "/setts/y9k1dy31g30db36g3db3g3db36g30dy31k1w9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y9k1dy31g30db36g3db3g3db36g30dy31k1w9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGBGBGBGGKW](/stripes/gkggbgbgbggkw/).
 
 Part of the [Campbell](/tartans/c/ca/campbell-7/) tartan — the named design grouping this sett with its other cloths.

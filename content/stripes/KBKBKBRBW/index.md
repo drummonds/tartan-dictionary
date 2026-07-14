@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/">Broz Sanz Elementary (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/"><img src="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/sett.png" alt="Broz Sanz Elementary (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/broz-sanz-elementary/">Broz Sanz Elementary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/broz-sanz-elementary/"><img src="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/sett.png" alt="Broz Sanz Elementary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

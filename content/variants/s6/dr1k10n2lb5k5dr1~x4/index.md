@@ -12,10 +12,10 @@ crumbs:
 - name: "Callaway"
   url: "/tartans/c/ca/callaway-2/"
 - name: "Callaway (Corporate)"
-  url: "/setts/dr1k10n2lb5k5dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr1k10n2lb5k5dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/callaway-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWKB](/stripes/bkbwkb/).
 
 Part of the [Callaway](/tartans/c/ca/callaway-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=484](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1997 — Callaway (Corporate) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=484">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed by Arthur Bell of Scotch Tweeds for Callaway Golf. Callaway Golf was founded in 1982 by the late Ely Callaway. Originally a manufacturer of high-quality wedges and putters, Callaway is now the world's largest maker of premium, performance golf products. Under the Callaway and Odyssey brands, Callaway manufactures and sells golf clubs and golf balls, and sells golf apparel, footwear and accessories worldwide.</em></li>
-<li>pre 1997 — Callaway (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2313">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed by Arthur Bell (Scotch Tweeds) for a golf course and golf merchandising company in California.</em></li>
+<li>pre 1997 — Callaway (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2313/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed by Arthur Bell (Scotch Tweeds) for a golf course and golf merchandising company in California.</em></li>
 </ul>
 </details>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Campbell Collegiate"
   url: "/tartans/c/ca/campbell-collegiate/"
 - name: "Campbell Collegiate"
-  url: "/setts/y18k3y3k3y3k13dg16k4dg16k13y16k3y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y18k3y3k3y3k13dg16k4dg16k13y16k3y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-collegiate/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/).
 
 Part of the [Campbell Collegiate](/tartans/c/ca/campbell-collegiate/) tartan — the named design grouping this sett with its other cloths.

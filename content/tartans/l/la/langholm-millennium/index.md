@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr43db3dy1db2w1db6r2g1db1g3db1ly3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgbwbrgbgby/">BBGBWBRGBGBY</a></nav>
 Its design is pattern [BBGBWBRGBGBY](/stripes/bbgbwbrgbgby/) — the page of every tartan sharing this colour sequence.
 
 The **Langholm Millennium** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Langholm Millennium** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr43db3dy1db2w1db6r2g1db1g3db1ly3/">Langholm Millennium</a></td><td><code>DR/86 DB6 DY2 DB4 W2 DB12 R4 G2 DB2 G6 DB2 LY/6</code></td><td>176</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr43db3dy1db2w1db6r2g1db1g3db1ly3/"><img src="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/sett.png" alt="Langholm Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/">Langholm Millennium</a></td><td><code>DR/86 DB6 DY2 DB4 W2 DB12 R4 G2 DB2 G6 DB2 LY/6</code></td><td>176</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/"><img src="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/sett.png" alt="Langholm Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/"><circle cx="406.2" cy="90.7" r="4" fill="#3465a4"><title>Roseline</title></circle></a><a href="/variants/s12/dr43k3dy1k2w1k6r2dg1k1dg3k1y3~x2~dy1603076-dg1104144/"><circle cx="382.7" cy="15.1" r="4" fill="#3465a4"><title>Langholm Millennium</title></circle></a><a href="/variants/s16/dr100b6k14ly2k3w3k4dg14dr6k3dr3w2dr3k3dr6dg14~x2/"><circle cx="389.9" cy="15.8" r="4" fill="#3465a4"><title>Wcwm 1438</title></circle></a><a href="/variants/s9/dy60db8o16db4lo8dy4r2db6w1~x2~o2007033-lo2905070/"><circle cx="389.0" cy="88.4" r="4" fill="#3465a4"><title>Wattenhofer</title></circle></a><a href="/variants/s12/dy63k4lb9y2db4y2db4dy11r8lb2r4w5~x2/"><circle cx="309.6" cy="34.2" r="4" fill="#3465a4"><title>Seller</title></circle></a><a href="/variants/s12/dr42db3dr6lo2dr2lb2dr2g14r8dr2r3lb2~x2/"><circle cx="350.9" cy="90.8" r="4" fill="#3465a4"><title>Wcwm 1286-9</title></circle></a><circle cx="399.5" cy="34.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/"><circle cx="407.2" cy="90.8" r="4" fill="#3465a4"><title>Roseline</title></circle></a><a href="/variants/s12/dr43k3dy1k2w1k6r2dg1k1dg3k1y3~x2~dy1603076-dg1104144/"><circle cx="383.9" cy="15.1" r="4" fill="#3465a4"><title>Langholm Millennium</title></circle></a><a href="/variants/s16/dr100b6k14ly2k3w3k4dg14dr6k3dr3w2dr3k3dr6dg14~x2/"><circle cx="391.0" cy="15.8" r="4" fill="#3465a4"><title>Wcwm 1438</title></circle></a><a href="/variants/s9/dy60db8o16db4lo8dy4r2db6w1~x2~o2007033-lo2905070/"><circle cx="389.9" cy="88.4" r="4" fill="#3465a4"><title>Wattenhofer</title></circle></a><a href="/variants/s12/dy63k4lb9y2db4y2db4dy11r8lb2r4w5~x2/"><circle cx="310.6" cy="34.1" r="4" fill="#3465a4"><title>Seller</title></circle></a><a href="/variants/s12/dr42db3dr6lo2dr2lb2dr2g14r8dr2r3lb2~x2/"><circle cx="351.7" cy="90.8" r="4" fill="#3465a4"><title>Wcwm 1286-9</title></circle></a><circle cx="400.6" cy="34.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

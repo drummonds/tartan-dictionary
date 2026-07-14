@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db9k30db9lb3db5r3db5y3db5g3~x2/">Fed. of Circles &amp; Solitaries (Corp.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db9k30db9lb3db5r3db5y3db5g3~x2/"><img src="/variants/s10/db9k30db9lb3db5r3db5y3db5g3~x2/sett.png" alt="Fed. of Circles &amp; Solitaries (Corp.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fed-of-circles-solitaries/">Fed. of Circles &amp; Solitaries</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fed-of-circles-solitaries/"><img src="/variants/s10/db9k30db9lb3db5r3db5y3db5g3~x2/sett.png" alt="Fed. of Circles &amp; Solitaries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

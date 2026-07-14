@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/">Bathija (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/"><img src="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/sett.png" alt="Bathija (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bathija/">Bathija</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bathija/"><img src="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/sett.png" alt="Bathija sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

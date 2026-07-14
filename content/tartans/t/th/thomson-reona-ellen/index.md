@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Thomson"
   url: "/clan/thomson/"
+aliases:
+- "/setts/w2dp5r34k5n9k12dp1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkrbw/">BKBKRBW</a></nav>
 A tartan of [Clan Thomson](/clan/thomson/).
 Its design is pattern [BKBKRBW](/stripes/bkbkrbw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Thomson, Reona Ellen** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2dp5r34k5n9k12dp1/">Thomson, Reona Ellen</a></td><td><code>W/4 DP10 R68 K10 N18 K24 DP/2</code></td><td>266</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2dp5r34k5n9k12dp1/"><img src="/variants/s7/w2dp5r34k5n9k12dp1~x2/sett.png" alt="Thomson, Reona Ellen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/">Thomson, Reona Ellen</a></td><td><code>W/4 DP10 R68 K10 N18 K24 DP/2</code></td><td>266</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><img src="/variants/s7/w2dp5r34k5n9k12dp1~x2/sett.png" alt="Thomson, Reona Ellen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="271.1" cy="97.1" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="269.9" cy="98.1" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="259.2" cy="65.9" r="4" fill="#3465a4"><title>Aberdeen Football Club</title></circle></a><a href="/variants/s8/y3g9db9k1y2k15r37g2~x2/"><circle cx="234.9" cy="83.2" r="4" fill="#3465a4"><title>Mensah</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="258.9" cy="66.4" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><circle cx="307.6" cy="101.1" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s7/r72g16k8y4db8w3k50~x2/"><circle cx="199.6" cy="90.2" r="4" fill="#3465a4"><title>Stewart, Anthony C</title></circle></a><a href="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/"><circle cx="234.8" cy="72.0" r="4" fill="#3465a4"><title>Svanholm</title></circle></a><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><circle cx="274.8" cy="94.9" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/variants/s6/r97k18w5dr26k18n14/"><circle cx="266.4" cy="118.9" r="4" fill="#3465a4"><title>Bradley University</title></circle></a><circle cx="253.2" cy="90.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="272.0" cy="97.0" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="270.8" cy="98.0" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="260.2" cy="65.8" r="4" fill="#3465a4"><title>Aberdeen Football Club</title></circle></a><a href="/variants/s8/y3g9db9k1y2k15r37g2~x2/"><circle cx="235.7" cy="83.1" r="4" fill="#3465a4"><title>Mensah</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="259.8" cy="66.3" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><circle cx="308.7" cy="101.1" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s7/r72g16k8y4db8w3k50~x2/"><circle cx="200.3" cy="90.0" r="4" fill="#3465a4"><title>Stewart, Anthony C</title></circle></a><a href="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/"><circle cx="235.6" cy="71.8" r="4" fill="#3465a4"><title>Svanholm</title></circle></a><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><circle cx="275.6" cy="94.8" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/variants/s6/r97k18w5dr26k18n14/"><circle cx="267.2" cy="118.8" r="4" fill="#3465a4"><title>Bradley University</title></circle></a><circle cx="254.0" cy="90.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

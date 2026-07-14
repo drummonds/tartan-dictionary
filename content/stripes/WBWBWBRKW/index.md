@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/">Hebridean Fire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/"><img src="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/sett.png" alt="Hebridean Fire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebridean-fire/">Hebridean Fire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-fire/"><img src="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/sett.png" alt="Hebridean Fire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

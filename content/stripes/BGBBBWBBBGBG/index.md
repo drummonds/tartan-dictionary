@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/b22g4n24dp6n4w3n4dp6n24g4b22y4~x2/">Deeside Plaid (Taobh Dhi)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/b22g4n24dp6n4w3n4dp6n24g4b22y4~x2/"><img src="/variants/s12/b22g4n24dp6n4w3n4dp6n24g4b22y4~x2/sett.png" alt="Deeside Plaid (Taobh Dhi) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/deeside-2/">Deeside</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/deeside-2/"><img src="/variants/s12/b22g4n24dp6n4w3n4dp6n24g4b22y4~x2/sett.png" alt="Deeside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

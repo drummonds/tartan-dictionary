@@ -12,10 +12,10 @@ crumbs:
 - name: "MacGuire"
   url: "/tartans/m/ma/macguire/"
 - name: "MacGuire"
-  url: "/setts/w5k3g15r3db6r15b3r3b3r3db3r15g15k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5k3g15r3db6r15b3r3b3r3db3r15g15k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macguire/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRBRBRBRBRGKW](/stripes/kgrbrbrbrbrgkw/).
 
 Part of the [MacGuire](/tartans/m/ma/macguire/) tartan — the named design grouping this sett with its other cloths.

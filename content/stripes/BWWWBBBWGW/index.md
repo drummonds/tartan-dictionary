@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db2w18lb2w2db3t3db3lb6g24w2/">Blue Spruce, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db2w18lb2w2db3t3db3lb6g24w2/"><img src="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2~t2105244/sett.png" alt="Blue Spruce, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blue-spruce-the/">Blue Spruce, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-spruce-the/"><img src="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2~t2105244/sett.png" alt="Blue Spruce, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

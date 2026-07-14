@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg50k3w4k1ly5r4k1w2k2t15k5dg4w2~x2/">City of Abbotsford (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg50k3w4k1ly5r4k1w2k2t15k5dg4w2~x2/"><img src="/variants/s13/dg50k3w4k1ly5r4k1w2k2t15k5dg4w2~x2/sett.png" alt="City of Abbotsford (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-abbotsford/">City of Abbotsford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-abbotsford/"><img src="/variants/s13/dg50k3w4k1ly5r4k1w2k2t15k5dg4w2~x2/sett.png" alt="City of Abbotsford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

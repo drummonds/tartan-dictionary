@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n38dr4n8ly2n4b3n18r7n2r4o2~x2~n2002277-dr1404346-ly3608101-r2008029/">Louth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n38dr4n8ly2n4b3n18r7n2r4o2~x2~n2002277-dr1404346-ly3608101-r2008029/"><img src="/variants/s11/n38dr4n8ly2n4b3n18r7n2r4o2~x2~n2002277-dr1404346-ly3608101-r2008029/sett.png" alt="Louth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/louth/">Louth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/louth/"><img src="/variants/s11/n38dr4n8ly2n4b3n18r7n2r4o2~x2~n2002277-dr1404346-ly3608101-r2008029/sett.png" alt="Louth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

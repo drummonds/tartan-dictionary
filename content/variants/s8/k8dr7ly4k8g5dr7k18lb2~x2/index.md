@@ -8,10 +8,10 @@ crumbs:
 - name: "Malliou, Despina"
   url: "/tartans/m/ma/malliou-despina/"
 - name: "Malliou, Despina (Personal)"
-  url: "/setts/k8dr7ly4k8g5dr7k18lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8dr7ly4k8g5dr7k18lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/malliou-despina/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBYKGBKW](/stripes/kbykgbkw/).
 
 Part of the [Malliou, Despina](/tartans/m/ma/malliou-despina/) tartan — the named design grouping this sett with its other cloths.

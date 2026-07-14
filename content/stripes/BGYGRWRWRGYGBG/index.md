@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/">St. Andrew Quebec City</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/"><img src="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/sett.png" alt="St. Andrew Quebec City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-andrew-quebec-city/">St. Andrew Quebec City</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrew-quebec-city/"><img src="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/sett.png" alt="St. Andrew Quebec City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

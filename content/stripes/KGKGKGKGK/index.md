@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k6y20k6y4k4y10k8y2k5~x2/">Bute Heather, Black</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k6y20k6y4k4y10k8y2k5~x2/"><img src="/variants/s9/k6y20k6y4k4y10k8y2k5~x2/sett.png" alt="Bute Heather, Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/bute-heather-5/">Bute Heather</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/bute-heather-5/"><img src="/variants/s9/k6y20k6y4k4y10k8y2k5~x2/sett.png" alt="Bute Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/">Glen Carron (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/"><img src="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/sett.png" alt="Glen Carron (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-carron/">Glen Carron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-carron/"><img src="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/sett.png" alt="Glen Carron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

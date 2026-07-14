@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Dunoon"
   url: "/clan/dunoon/"
+aliases:
+- "/setts/db2dp3g3n6y2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgbg/">BBGBG</a></nav>
 A tartan of [Clan Dunoon](/clan/dunoon/).
 Its design is pattern [BBGBG](/stripes/bbgbg/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Dunoon Burgh Hall Trust** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db2dp3g3n6y2/">Dunoon Burgh Hall Trust</a></td><td><code>DB/4 DP6 G6 N12 Y/4</code></td><td>56</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2dp3g3n6y2/"><img src="/variants/s5/db2dp3g3n6y2~x2/sett.png" alt="Dunoon Burgh Hall Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db2dp3g3n6y2~x2/">Dunoon Burgh Hall Trust</a></td><td><code>DB/4 DP6 G6 N12 Y/4</code></td><td>56</td><td>2016</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db2dp3g3n6y2~x2/"><img src="/variants/s5/db2dp3g3n6y2~x2/sett.png" alt="Dunoon Burgh Hall Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/dp3n1g2~x10/"><circle cx="296.4" cy="366.0" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise</title></circle></a><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><circle cx="329.9" cy="274.7" r="4" fill="#3465a4"><title>Sterling, Rob (Persona</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.2" cy="309.6" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s4/ly28dr24dg55dp19~x2/"><circle cx="190.0" cy="338.7" r="4" fill="#3465a4"><title>Hirstwood</title></circle></a><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/"><circle cx="81.8" cy="334.2" r="4" fill="#3465a4"><title>Currens</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="250.1" cy="317.5" r="4" fill="#3465a4"><title>Heriot Bay</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="186.7" cy="268.6" r="4" fill="#3465a4"><title>Isle of Rona</title></circle></a><a href="/variants/s4/g3db3dp4w1~x4/"><circle cx="161.6" cy="332.5" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/variants/s5/g15dg18dp23w4r8~x2/"><circle cx="127.4" cy="270.2" r="4" fill="#3465a4"><title>Friebe</title></circle></a><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/"><circle cx="243.4" cy="299.0" r="4" fill="#3465a4"><title>Styrian</title></circle></a><circle cx="207.4" cy="356.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/dp3n1g2~x10/"><circle cx="296.4" cy="366.0" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise</title></circle></a><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><circle cx="330.0" cy="274.8" r="4" fill="#3465a4"><title>Sterling, Rob (Persona</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.0" cy="309.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s4/ly28dr24dg55dp19~x2/"><circle cx="189.9" cy="338.6" r="4" fill="#3465a4"><title>Hirstwood</title></circle></a><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/"><circle cx="81.5" cy="333.9" r="4" fill="#3465a4"><title>Currens</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="250.0" cy="317.5" r="4" fill="#3465a4"><title>Heriot Bay</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="186.4" cy="268.5" r="4" fill="#3465a4"><title>Isle of Rona</title></circle></a><a href="/variants/s4/g3db3dp4w1~x4/"><circle cx="161.4" cy="332.4" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/variants/s5/g15dg18dp23w4r8~x2/"><circle cx="127.3" cy="270.0" r="4" fill="#3465a4"><title>Friebe</title></circle></a><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/"><circle cx="243.3" cy="299.0" r="4" fill="#3465a4"><title>Styrian</title></circle></a><circle cx="207.0" cy="356.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/y4db3y2db2k1r1k1db7k1r1k1g10r1db3y1db3~x2/">Tartan de Longueuil</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/y4db3y2db2k1r1k1db7k1r1k1g10r1db3y1db3~x2/"><img src="/variants/s16/y4db3y2db2k1r1k1db7k1r1k1g10r1db3y1db3~x2/sett.png" alt="Tartan de Longueuil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tartan-de-longueuil/">Tartan de Longueuil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-de-longueuil/"><img src="/variants/s16/y4db3y2db2k1r1k1db7k1r1k1g10r1db3y1db3~x2/sett.png" alt="Tartan de Longueuil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

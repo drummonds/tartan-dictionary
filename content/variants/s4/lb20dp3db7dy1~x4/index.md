@@ -12,10 +12,10 @@ crumbs:
 - name: "Peacock"
   url: "/tartans/p/pe/peacock-2/"
 - name: "Peacock (Samantha)"
-  url: "/setts/lb20dp3db7dy1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb20dp3db7dy1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/peacock-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBW](/stripes/gbbw/).
 
 Part of the [Peacock](/tartans/p/pe/peacock-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3309](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>14/02/2000 — Peacock (Samantha) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3309">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Designed by Samantha Peacock as part of her BSc honours, in clothing design and manufacture. Can be worn by anyone of the name. Thread count called for 'LA' and it is assumed azure was meant but it could be lavender.</em></li>
-<li>Feb. 2000 — Peacock (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2655">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Designed by Samantha Peacock as part of her BSc.(hon) in clothing design and manufacture. Can be worn by anyone of the name but can only be woven with permission from the holder of the design rights.</em></li>
+<li>Feb. 2000 — Peacock (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2655/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Designed by Samantha Peacock as part of her BSc.(hon) in clothing design and manufacture. Can be worn by anyone of the name but can only be woven with permission from the holder of the design rights.</em></li>
 </ul>
 </details>
 

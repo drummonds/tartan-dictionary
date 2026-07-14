@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/">Paterson (Dalgleish Version)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><img src="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/sett.png" alt="Paterson (Dalgleish Version) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/paterson-2/">Paterson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/paterson-2/"><img src="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/sett.png" alt="Paterson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

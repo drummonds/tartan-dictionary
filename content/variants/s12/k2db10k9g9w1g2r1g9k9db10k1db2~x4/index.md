@@ -8,10 +8,10 @@ crumbs:
 - name: "Spar Ltd"
   url: "/tartans/s/sp/spar-ltd/"
 - name: "Spar (UK) Ltd"
-  url: "/setts/k2db10k9g9w1g2r1g9k9db10k1db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2db10k9g9w1g2r1g9k9db10k1db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spar-ltd/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGRGWGKBK](/stripes/bkbkgrgwgkbk/).
 
 Part of the [Spar Ltd](/tartans/s/sp/spar-ltd/) tartan — the named design grouping this sett with its other cloths.

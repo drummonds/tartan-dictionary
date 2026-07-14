@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db2r2db28k11r27w2r2~x2/">Americana - 1978 #2 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><img src="/variants/s7/db2r2db28k11r27w2r2~x2/sett.png" alt="Americana - 1978 #2 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/americana/">Americana</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/americana/"><img src="/variants/s7/db2r2db28k11r27w2r2~x2/sett.png" alt="Americana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

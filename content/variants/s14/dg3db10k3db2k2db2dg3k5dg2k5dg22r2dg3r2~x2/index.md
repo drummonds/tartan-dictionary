@@ -12,10 +12,10 @@ crumbs:
 - name: "Lochcarron Hunting"
   url: "/tartans/l/lo/lochcarron-hunting/"
 - name: "Lochcarron Hunting Corporate Tartan"
-  url: "/setts/dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lochcarron-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKBGKGKGRGR](/stripes/gbkbkbgkgkgrgr/).
 
 Part of the [Lochcarron Hunting](/tartans/l/lo/lochcarron-hunting/) tartan — the named design grouping this sett with its other cloths.

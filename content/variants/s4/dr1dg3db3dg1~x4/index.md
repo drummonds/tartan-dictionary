@@ -8,10 +8,10 @@ crumbs:
 - name: "Barwell"
   url: "/tartans/b/ba/barwell/"
 - name: "Barwell"
-  url: "/setts/dr1dg3db3dg1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr1dg3db3dg1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barwell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBG](/stripes/bgbg/).
 
 Part of the [Barwell](/tartans/b/ba/barwell/) tartan — the named design grouping this sett with its other cloths.

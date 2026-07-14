@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/">Connecticut State Police PB (Cor.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><img src="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/sett.png" alt="Connecticut State Police PB (Cor.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connecticut-state-police-pb/">Connecticut State Police PB</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connecticut-state-police-pb/"><img src="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/sett.png" alt="Connecticut State Police PB sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

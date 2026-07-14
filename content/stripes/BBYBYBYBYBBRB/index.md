@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/">Budge (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/"><img src="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/sett.png" alt="Budge (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/budge/">Budge</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/budge/"><img src="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/sett.png" alt="Budge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

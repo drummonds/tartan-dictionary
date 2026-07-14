@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Gorman"
   url: "/clan/gorman/"
+aliases:
+- "/setts/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbwbgwrwgbgwrwgbwb/">BGBWBGWRWGBGWRWGBWB</a></nav>
 A tartan of [Clan Gorman](/clan/gorman/).
 Its design is pattern [BGBWBGWRWGBGWRWGBWB](/stripes/bgbwbgwrwgbgwrwgbwb/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Gorman Spring** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/">Gorman Spring</a></td><td><code>DB/72 LB4 DB10 G4 W4 O6 W4 G4 DB10 G4 W4 O6 W4 G4 DB10 LB4 DB23 Y2 DB/18</code></td><td>304</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/"><img src="/variants/s19/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/sett.png" alt="Gorman Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/">Gorman Spring</a></td><td><code>DB/72 LB4 DB10 G4 W4 O6 W4 G4 DB10 G4 W4 O6 W4 G4 DB10 LB4 DB23 Y2 DB/18</code></td><td>304</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/"><img src="/variants/s19/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/sett.png" alt="Gorman Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s18/db44g5w2g2db2g2r2db3ly3db3r2g2db2g2w2g5db44ly4~x2/"><circle cx="438.5" cy="63.2" r="4" fill="#3465a4"><title>Oxford University Dress</title></circle></a><a href="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/"><circle cx="448.5" cy="95.3" r="4" fill="#3465a4"><title>World Youth Congress</title></circle></a><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/"><circle cx="369.3" cy="50.0" r="4" fill="#3465a4"><title>Bartlett of El Paso</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.5" cy="58.0" r="4" fill="#3465a4"><title>Stratford , City of</title></circle></a><a href="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/"><circle cx="368.3" cy="68.7" r="4" fill="#3465a4"><title>St. Andrew Quebec City</title></circle></a><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><circle cx="386.1" cy="54.7" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><circle cx="404.9" cy="48.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s18/db44g5w2g2db2g2r2db3ly3db3r2g2db2g2w2g5db44ly4~x2/"><circle cx="439.8" cy="63.4" r="4" fill="#3465a4"><title>Oxford University Dress</title></circle></a><a href="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/"><circle cx="449.7" cy="95.5" r="4" fill="#3465a4"><title>World Youth Congress</title></circle></a><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/"><circle cx="370.4" cy="50.0" r="4" fill="#3465a4"><title>Bartlett of El Paso</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="437.8" cy="58.2" r="4" fill="#3465a4"><title>Stratford , City of</title></circle></a><a href="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/"><circle cx="369.3" cy="68.7" r="4" fill="#3465a4"><title>St. Andrew Quebec City</title></circle></a><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><circle cx="387.2" cy="54.7" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><circle cx="406.1" cy="48.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

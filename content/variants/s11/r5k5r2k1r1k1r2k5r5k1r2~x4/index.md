@@ -8,10 +8,10 @@ crumbs:
 - name: "Border Reiver, The"
   url: "/tartans/b/bo/border-reiver-the/"
 - name: "Border Reiver, The"
-  url: "/setts/r5k5r2k1r1k1r2k5r5k1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5k5r2k1r1k1r2k5r5k1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/border-reiver-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRKRKRKR](/stripes/rkrkrkrkrkr/).
 
 Part of the [Border Reiver, The](/tartans/b/bo/border-reiver-the/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=312](htt
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — Border Reiver, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=312">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Madam May McKerrell of Hillhouse for the Border Gathering in 1998, with the proceeds going to the Border Gathering. The Shepherd's Check (STR #3781) is/was also known as Border Reiver - a fact perhaps unknown when this one was named.</em></li>
-<li>1998 — Border Reiver, The (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2471">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Madam May McKerrell of Hillhouse for the Border Gathering in 1998 with the proceeds going to the Border Gathering. Weavers possibly Lochcarron. The Shepherd's Check (#3205 and 1253) is/was also known as Border Reiver - a fact perhaps unknown when this one was named. Note: The "i before e except after c" rule does not apply to Reiver! Woven sample</em></li>
+<li>1998 — Border Reiver, The (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2471/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Madam May McKerrell of Hillhouse for the Border Gathering in 1998 with the proceeds going to the Border Gathering. Weavers possibly Lochcarron. The Shepherd's Check (#3205 and 1253) is/was also known as Border Reiver - a fact perhaps unknown when this one was named. Note: The "i before e except after c" rule does not apply to Reiver! Woven sample</em></li>
 <li>undated — Border Reiver, The (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span></li>
 </ul>
 </details>

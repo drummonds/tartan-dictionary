@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb5r5k58r5lb5r5w25r5lb4/">Meg Merrilees, New (1831)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb5r5k58r5lb5r5w25r5lb4/"><img src="/variants/s9/lb5r5k58r5lb5r5w25r5lb4/sett.png" alt="Meg Merrilees, New (1831) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/meg-merrilees-new/">Meg Merrilees, New</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meg-merrilees-new/"><img src="/variants/s9/lb5r5k58r5lb5r5w25r5lb4/sett.png" alt="Meg Merrilees, New sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

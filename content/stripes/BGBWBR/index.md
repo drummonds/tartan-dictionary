@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r5t25w5t3dg25t3~x2/">Thayer USA</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><img src="/variants/s6/r5t25w5t3dg25t3~x2/sett.png" alt="Thayer USA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r5db25w5db3g25db3~x2/">Thayer USA (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r5db25w5db3g25db3~x2/"><img src="/variants/s6/r5db25w5db3g25db3~x2/sett.png" alt="Thayer USA (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thayer-usa/">Thayer USA</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thayer-usa/"><img src="/variants/s6/r5db25w5db3g25db3~x2/sett.png" alt="Thayer USA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

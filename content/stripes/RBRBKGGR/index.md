@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r6db3r3db32k30g30y3r3~x2/">MacDonald of Borrodale (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r6db3r3db32k30g30y3r3~x2/"><img src="/variants/s8/r6db3r3db32k30g30y3r3~x2/sett.png" alt="MacDonald of Borrodale (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-borrodale/">MacDonald of Borrodale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-borrodale/"><img src="/variants/s8/r6db3r3db32k30g30y3r3~x2/sett.png" alt="MacDonald of Borrodale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

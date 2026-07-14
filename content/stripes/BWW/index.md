@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/db1w1lb1~x8/">Glen Moriston Estate Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/db1w1lb1~x8/"><img src="/variants/s3/db1w1lb1~x8/sett.png" alt="Glen Moriston Estate Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-moriston/">Glen Moriston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-moriston/"><img src="/variants/s3/db1w1lb1~x8/sett.png" alt="Glen Moriston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

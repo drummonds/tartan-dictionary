@@ -12,10 +12,10 @@ crumbs:
 - name: "Fraser Red Dress"
   url: "/tartans/f/fr/fraser-red-dress/"
 - name: "Fraser Red Dress"
-  url: "/setts/r4db18dr4g19w25r10w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4db18dr4g19w25r10w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraser-red-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBGWRW](/stripes/rbbgwrw/).
 
 Part of the [Fraser Red Dress](/tartans/f/fr/fraser-red-dress/) tartan — the named design grouping this sett with its other cloths.

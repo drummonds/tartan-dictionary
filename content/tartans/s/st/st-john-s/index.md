@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w2db1w15lb12w1dy3db1/"
 ---
-Its design is pattern [BWWWGBGWWWBW](/stripes/bwwwgbgwwwbw/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgwwwbw/">BGWWWBW</a></nav>
+Its design is pattern [BGWWWBW](/stripes/bgwwwbw/) — the page of every tartan sharing this colour sequence.
 
 The **St John's** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2db1w15lb12w1dy3db1/">St John's</a></td><td><code>W/12 DB6 W90 LB72 W6 DY18 DB6 DY18 W6 LB72 W90 DB/6</code></td><td>402</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2db1w15lb12w1dy3db1/"><img src="/variants/s7/w2db1w15lb12w1dy3db1~x6/sett.png" alt="St John's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/">St John's</a></td><td><code>W/12 DB6 W90 LB72 W6 DY18 DB/6</code></td><td>402</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><img src="/variants/s7/w2db1w15lb12w1dy3db1~x6/sett.png" alt="St John's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db3t2w2t30w30r2w3~x2/"><circle cx="315.5" cy="177.9" r="4" fill="#3465a4"><title>Torridon Royal</title></circle></a><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/"><circle cx="434.7" cy="182.7" r="4" fill="#3465a4"><title>Madras 1</title></circle></a><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.1" cy="199.3" r="4" fill="#3465a4"><title>MacPherson Blue/White</title></circle></a><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="208.3" cy="151.1" r="4" fill="#3465a4"><title>South Canterbury Jubillee (Corporate</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.5" cy="199.7" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s8/y8db4lb23w3db22w25db3w6~x2/"><circle cx="179.0" cy="231.4" r="4" fill="#3465a4"><title>Culloden Blue Dress Fancy</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="258.5" cy="202.7" r="4" fill="#3465a4"><title>Shiel Lavender</title></circle></a><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><circle cx="373.8" cy="155.6" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="341.7" cy="235.3" r="4" fill="#3465a4"><title>Ailsa</title></circle></a><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><circle cx="209.9" cy="204.0" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><circle cx="324.4" cy="198.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db3t2w2t30w30r2w3~x2/"><circle cx="316.1" cy="177.8" r="4" fill="#3465a4"><title>Torridon Royal</title></circle></a><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/"><circle cx="435.2" cy="182.7" r="4" fill="#3465a4"><title>Madras 1</title></circle></a><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.6" cy="199.1" r="4" fill="#3465a4"><title>MacPherson Blue/White</title></circle></a><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="208.6" cy="150.8" r="4" fill="#3465a4"><title>South Canterbury Jubillee (Corporate</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.8" cy="199.5" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s8/y8db4lb23w3db22w25db3w6~x2/"><circle cx="179.1" cy="231.1" r="4" fill="#3465a4"><title>Culloden Blue Dress Fancy</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="258.7" cy="202.5" r="4" fill="#3465a4"><title>Shiel Lavender</title></circle></a><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><circle cx="374.4" cy="155.6" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="342.1" cy="235.4" r="4" fill="#3465a4"><title>Ailsa</title></circle></a><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><circle cx="210.0" cy="203.7" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><circle cx="324.8" cy="198.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

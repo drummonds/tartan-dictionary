@@ -5,22 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Clan Walter"
-  url: "/clan/walter/"
-- name: "Walter"
-  url: "/families/walter/"
 - name: "Walter"
   url: "/tartans/w/wa/walter/"
 - name: "Walter (Personal)"
-  url: "/setts/r24w3y4dg18dp18g3lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r24w3y4dg18dp18g3lb4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWGGBGWGBGGW](/stripes/rwggbgwgbggw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wa/walter/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWGGBGW](/stripes/rwggbgw/).
 
 Part of the [Walter](/tartans/w/wa/walter/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4488](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4488)
 
@@ -28,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4488](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1994 — Walter (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4488">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Personal tartan for a James Gordon Walter and his family.</em></li>
-<li>pre 1998 — Walter (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2436">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Personal tartan for a James Gordon Walter and his family.</em></li>
+<li>pre 1998 — Walter (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2436/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Personal tartan for a James Gordon Walter and his family.</em></li>
 </ul>
 </details>
 
@@ -57,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2436
 
 ## Thread count
-R/48 W6 Y8 DG36 DP36 G6 LB8 G6 DP36 DG36 Y8 W/6
+R/48 W6 Y8 DG36 DP36 G6 LB/8
 
-One full sett is **426 threads**.
+One full sett is **240 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/48 W6 Y8 DG36 DP36 G6 LB8 G6 DP36 DG36 Y8 W/6 — 426 threads; it folds to the canonical 240-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +66,7 @@ One full sett is **426 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/48 W6 Y8 DG36 DP36 G6 LB8 G6 DP36 DG36 Y8 W/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/48 W6 Y8 DG36 DP36 G6 LB/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

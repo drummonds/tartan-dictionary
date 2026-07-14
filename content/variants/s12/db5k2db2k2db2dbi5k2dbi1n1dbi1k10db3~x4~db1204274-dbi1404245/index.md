@@ -12,10 +12,10 @@ crumbs:
 - name: "Hopkins"
   url: "/tartans/h/ho/hopkins/"
 - name: "Hopkins Welsh Name Tartan"
-  url: "/setts/db5k2db2k2db2dbi5k2dbi1n1dbi1k10db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5k2db2k2db2dbi5k2dbi1n1dbi1k10db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hopkins/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBKBBKBKB](/stripes/bkbbbkbbkbkb/).
 
 Part of the [Hopkins](/tartans/h/ho/hopkins/) tartan — the named design grouping this sett with its other cloths.

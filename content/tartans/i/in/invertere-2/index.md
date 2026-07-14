@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/invertere/"
 - name: "Invertere"
   url: "/families/invertere/"
+aliases:
+- "/setts/r5dg12o4db4o22dg3o4r5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgrbrgrr/">RGRBRGRR</a></nav>
 A tartan of the [Invertere](/families/invertere/) family.
 Its design is pattern [RGRBRGRR](/stripes/rgrbrgrr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Invertere** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r5dg12o4db4o22dg3o4r5/">Invertere</a></td><td><code>R/5 DG12 O4 DB4 O22 DG3 O4 R/5</code></td><td>108</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r5dg12o4db4o22dg3o4r5/"><img src="/variants/s8/r5dg12o4db4o22dg3o4r5/sett.png" alt="Invertere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r5dg12o4db4o22dg3o4r5/">Invertere</a></td><td><code>R/5 DG12 O4 DB4 O22 DG3 O4 R/5</code></td><td>108</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r5dg12o4db4o22dg3o4r5/"><img src="/variants/s8/r5dg12o4db4o22dg3o4r5/sett.png" alt="Invertere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/y5dg14o4db4o27dg3o4y5~x2/"><circle cx="362.5" cy="235.3" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2~dp1607327/"><circle cx="345.6" cy="230.4" r="4" fill="#3465a4"><title>Unidentified 18th Century</title></circle></a><a href="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/"><circle cx="267.1" cy="227.6" r="4" fill="#3465a4"><title>Talladale</title></circle></a><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.0" cy="290.2" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><circle cx="311.7" cy="217.3" r="4" fill="#3465a4"><title>Pubcrawlers</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="321.3" cy="210.3" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="284.9" cy="219.8" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="329.0" cy="223.6" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s6/r1ri7r4g7r1g1~x4~r1707016-ri2008029/"><circle cx="287.9" cy="271.5" r="4" fill="#3465a4"><title>MacNab, Variant</title></circle></a><a href="/variants/s8/db4y1r12y2r2y12r1y4~x4/"><circle cx="381.2" cy="226.0" r="4" fill="#3465a4"><title>Glassary</title></circle></a><circle cx="308.5" cy="233.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/y5dg14o4db4o27dg3o4y5~x2/"><circle cx="362.8" cy="235.4" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2~dp1607327/"><circle cx="346.0" cy="230.5" r="4" fill="#3465a4"><title>Unidentified 18th Century</title></circle></a><a href="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/"><circle cx="267.3" cy="227.6" r="4" fill="#3465a4"><title>Talladale</title></circle></a><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.1" cy="290.2" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><circle cx="312.0" cy="217.3" r="4" fill="#3465a4"><title>Pubcrawlers</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="321.7" cy="210.3" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.2" cy="219.7" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="329.4" cy="223.7" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s6/r1ri7r4g7r1g1~x4~r1707016-ri2008029/"><circle cx="288.0" cy="271.5" r="4" fill="#3465a4"><title>MacNab, Variant</title></circle></a><a href="/variants/s8/db4y1r12y2r2y12r1y4~x4/"><circle cx="381.7" cy="226.1" r="4" fill="#3465a4"><title>Glassary</title></circle></a><circle cx="308.9" cy="233.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

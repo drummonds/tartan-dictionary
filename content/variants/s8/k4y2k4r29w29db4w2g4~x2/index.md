@@ -8,10 +8,10 @@ crumbs:
 - name: "Clan MacLeod Societies of Canada"
   url: "/tartans/c/cl/clan-macleod-societies-of-canada/"
 - name: "Clan MacLeod Societies of Canada"
-  url: "/setts/k4y2k4r29w29db4w2g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4y2k4r29w29db4w2g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clan-macleod-societies-of-canada/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWRKGK](/stripes/gwbwrkgk/).
 
 Part of the [Clan MacLeod Societies of Canada](/tartans/c/cl/clan-macleod-societies-of-canada/) tartan — the named design grouping this sett with its other cloths.

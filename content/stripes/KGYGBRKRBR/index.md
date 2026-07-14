@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k4dy6ly3dy10dt14r6k18r6dt4r2~x2/">Tupper, Sir Charles</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k4dy6ly3dy10dt14r6k18r6dt4r2~x2/"><img src="/variants/s10/k4dy6ly3dy10dt14r6k18r6dt4r2~x2/sett.png" alt="Tupper, Sir Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/tupper-sir-charles/">Tupper, Sir Charles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/tupper-sir-charles/"><img src="/variants/s10/k4dy6ly3dy10dt14r6k18r6dt4r2~x2/sett.png" alt="Tupper, Sir Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Cranston Dress"
   url: "/tartans/c/cr/cranston-dress/"
 - name: "Cranston Dress Family Tartan"
-  url: "/setts/r30db3r2db3r6db14g26dg6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r30db3r2db3r6db14g26dg6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/cranston-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBRBRBR](/stripes/ggbrbrbr/).
 
 Part of the [Cranston Dress](/tartans/c/cr/cranston-dress/) tartan — the named design grouping this sett with its other cloths.

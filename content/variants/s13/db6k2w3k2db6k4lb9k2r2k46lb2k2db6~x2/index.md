@@ -8,10 +8,10 @@ crumbs:
 - name: "Kieck"
   url: "/tartans/k/ki/kieck/"
 - name: "Kieck (2015)"
-  url: "/setts/db6k2w3k2db6k4lb9k2r2k46lb2k2db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6k2w3k2db6k4lb9k2r2k46lb2k2db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kieck/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKBKWKRKWKB](/stripes/bkwkbkwkrkwkb/).
 
 Part of the [Kieck](/tartans/k/ki/kieck/) tartan — the named design grouping this sett with its other cloths.

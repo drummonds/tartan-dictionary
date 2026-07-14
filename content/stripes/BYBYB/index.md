@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dr1ly9db2ly9db1~x4/">Brooks Bros Tattersall Camel (Fashio</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr1ly9db2ly9db1~x4/"><img src="/variants/s5/dr1ly9db2ly9db1~x4/sett.png" alt="Brooks Bros Tattersall Camel (Fashio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brooks-bros-tattersall-camel-fashio/">Brooks Bros Tattersall Camel (Fashio</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brooks-bros-tattersall-camel-fashio/"><img src="/variants/s5/dr1ly9db2ly9db1~x4/sett.png" alt="Brooks Bros Tattersall Camel (Fashio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/t11lo2dr1lo2dr1~x4/">Carlisle Ancient</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/t11lo2dr1lo2dr1~x4/"><img src="/variants/s5/t11lo2dr1lo2dr1~x4/sett.png" alt="Carlisle Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carlisle/">Carlisle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carlisle/"><img src="/variants/s5/t11lo2dr1lo2dr1~x4/sett.png" alt="Carlisle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

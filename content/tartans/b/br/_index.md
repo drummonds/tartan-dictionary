@@ -6,18 +6,18 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/b/br/brabender/"><img src="/variants/s8/k1g4r1k4db1k1db7g1~x6/sett.png" alt="Brabender" width="140"><br><strong>Brabender (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/b/br/bracken/"><img src="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/sett.png" alt="Bracken" width="140"><br><strong>Bracken (2)</strong></a><div class="clan-territory">Bracken</div></li>
+<li><a class="tartan" href="/tartans/b/br/bracken/"><img src="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2/sett.png" alt="Bracken" width="140"><br><strong>Bracken (2)</strong></a><div class="clan-territory">Bracken</div></li>
 <li><a class="tartan" href="/tartans/b/br/bracken-2/"><img src="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/sett.png" alt="Bracken" width="140"><br><strong>Bracken (1)</strong></a><div class="clan-territory">Bracken</div></li>
 <li><a class="tartan" href="/tartans/b/br/brad-majors/"><img src="/variants/s13/y3r2k7r2db7r18k2r2k2r18db7r2k2~x2/sett.png" alt="Brad Majors" width="140"><br><strong>Brad Majors (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/braddock/"><img src="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/sett.png" alt="Braddock" width="140"><br><strong>Braddock (1)</strong></a><div class="clan-territory">Braddock</div></li>
 <li><a class="tartan" href="/tartans/b/br/braddock-2/"><img src="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/sett.png" alt="Braddock" width="140"><br><strong>Braddock (1)</strong></a><div class="clan-territory">Braddock</div></li>
-<li><a class="tartan" href="/tartans/b/br/bradey-blue-dress/"><img src="/variants/s9/r1k1w13t13db7k7w13k1r1~x4~t2205244-db1106275/sett.png" alt="Bradey Blue Dress" width="140"><br><strong>Bradey Blue Dress (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/b/br/bradey-blue-dress/"><img src="/variants/s9/r1k1w13t13db7k7w13k1r1~x4/sett.png" alt="Bradey Blue Dress" width="140"><br><strong>Bradey Blue Dress (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/bradley-university/"><img src="/variants/s6/r97k18w5dr26k18n14/sett.png" alt="Bradley University" width="140"><br><strong>Bradley University (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/bradwell-amy/"><img src="/variants/s16/r4n3dr2w4dr2w3dr4w3dr6w2dr8w2dr6w2db4y3~x2/sett.png" alt="Bradwell, Amy" width="140"><br><strong>Bradwell, Amy (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/bradwell-amy-xxxxxxxxxx/"><img src="/variants/s16/r4n3dp2w4dp2w3dp4w3dp6w2dp8w2dp6w2lb4lo3~x2/sett.png" alt="Bradwell, Amy XXXXXXXXXX" width="140"><br><strong>Bradwell, Amy XXXXXXXXXX (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/brady-60th/"><img src="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/sett.png" alt="Brady 60th" width="140"><br><strong>Brady 60th (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/brady-60th-keith-james/"><img src="/variants/s10/n1r1n7k3n1k1n1k1db9y1~x4/sett.png" alt="Brady 60th, Keith James" width="140"><br><strong>Brady 60th, Keith James (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/b/br/braemar-castle/"><img src="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2~ly2503076-do1103038/sett.png" alt="Braemar Castle" width="140"><br><strong>Braemar Castle (3)</strong></a></li>
+<li><a class="tartan" href="/tartans/b/br/braemar-castle/"><img src="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2/sett.png" alt="Braemar Castle" width="140"><br><strong>Braemar Castle (3)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/braemar-house/"><img src="/variants/s7/dg3dy2gi12g12w1dg1y3~x2~dg1806142-gi2408144-g1903114/sett.png" alt="Braemar House" width="140"><br><strong>Braemar House (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/braemar-house-2/"><img src="/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/sett.png" alt="Braemar House" width="140"><br><strong>Braemar House (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/braemar-house-3/"><img src="/variants/s7/y3g1w1gi12gii12o2g3~x2~gi2104115-gii2508144/sett.png" alt="Braemar House" width="140"><br><strong>Braemar House (1)</strong></a></li>
@@ -47,7 +47,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/b/br/breckon-2/"><img src="/variants/s9/k3ly1k14dr14ly1dr1ly1dr1k2~x4/sett.png" alt="Breckon" width="140"><br><strong>Breckon (1)</strong></a><div class="clan-territory">Breckon</div></li>
 <li><a class="tartan" href="/tartans/b/br/breckon-hunting/"><img src="/variants/s9/db3dr1db14dg14dr1dg1dr1dg1dr2~x4/sett.png" alt="Breckon Hunting" width="140"><br><strong>Breckon Hunting (1)</strong></a><div class="clan-territory">Breckon</div></li>
 <li><a class="tartan" href="/tartans/b/br/bredillet/"><img src="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/sett.png" alt="Bredillet" width="140"><br><strong>Bredillet (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/b/br/breeding/"><img src="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2~db1404245/sett.png" alt="Breeding" width="140"><br><strong>Breeding (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/b/br/breeding/"><img src="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/sett.png" alt="Breeding" width="140"><br><strong>Breeding (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/brehat/"><img src="/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/sett.png" alt="Brehat" width="140"><br><strong>Brehat (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/breifne/"><img src="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/sett.png" alt="Breifne" width="140"><br><strong>Breifne (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/breon/"><img src="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/sett.png" alt="Breon" width="140"><br><strong>Breon (2)</strong></a></li>
@@ -75,7 +75,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/b/br/britannia/"><img src="/variants/s5/k14r4k25db30w4~x2/sett.png" alt="Britannia" width="140"><br><strong>Britannia (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/brithwe-dewi-sant/"><img src="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/sett.png" alt="Brithwe Dewi Sant" width="140"><br><strong>Brithwe Dewi Sant (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/british-airways/"><img src="/variants/s15/ly2g2dg20lb2r2lb2r10lb2r2lb2db20ri2r1db2w1~x2~r2109032-ri2307033/sett.png" alt="British Airways" width="140"><br><strong>British Airways (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/b/br/british-american-school/"><img src="/variants/s7/db2b2r1b16w1db20r2~x2~db1406275/sett.png" alt="British American School" width="140"><br><strong>British American School (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/b/br/british-american-school/"><img src="/variants/s7/db2b2r1b16w1db20r2~x2/sett.png" alt="British American School" width="140"><br><strong>British American School (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/british-caledonian-airways/"><img src="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/sett.png" alt="British Caledonian Airways" width="140"><br><strong>British Caledonian Airways (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/british-caledonian-airways-2/"><img src="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/sett.png" alt="British Caledonian Airways" width="140"><br><strong>British Caledonian Airways (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/b/br/british-caledonian-airways-3/"><img src="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/sett.png" alt="British Caledonian Airways" width="140"><br><strong>British Caledonian Airways (1)</strong></a></li>
@@ -172,7 +172,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/b/br/bruce-3/"><img src="/variants/s11/y1db8g2db2g6db1g6db2g2db8w1~x4/sett.png" alt="Bruce" width="140"><br><strong>Bruce (1)</strong></a><div class="clan-territory">Bruce</div></li>
 <li><a class="tartan" href="/tartans/b/br/bruce-4/"><img src="/variants/s14/r60db2r2g63r2db2r2db20r2db2r54g2r2g40/sett.png" alt="Bruce" width="140"><br><strong>Bruce (1)</strong></a><div class="clan-territory">Bruce</div></li>
 <li><a class="tartan" href="/tartans/b/br/bruce-5/"><img src="/variants/s15/r15dp1r2dp2r78lg1r2dp21r3g2r3g89r2dp2r10/sett.png" alt="Bruce" width="140"><br><strong>Bruce (1)</strong></a><div class="clan-territory">Bruce</div></li>
-<li><a class="tartan" href="/tartans/b/br/bruce-county/"><img src="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x4/sett.png" alt="Bruce County" width="140"><br><strong>Bruce County (2)</strong></a><div class="clan-territory">Clan Bruce</div></li>
+<li><a class="tartan" href="/tartans/b/br/bruce-county/"><img src="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/sett.png" alt="Bruce County" width="140"><br><strong>Bruce County (2)</strong></a><div class="clan-territory">Clan Bruce</div></li>
 <li><a class="tartan" href="/tartans/b/br/bruce-hunting/"><img src="/variants/s13/y3k1g19r4g3r11g5r11g3r4g19k1w3~x2/sett.png" alt="Bruce Hunting" width="140"><br><strong>Bruce Hunting (2)</strong></a><div class="clan-territory">Bruce</div></li>
 <li><a class="tartan" href="/tartans/b/br/bruce-old/"><img src="/variants/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/sett.png" alt="Bruce Old" width="140"><br><strong>Bruce Old (2)</strong></a><div class="clan-territory">Clan Bruce</div></li>
 <li><a class="tartan" href="/tartans/b/br/bruce-special-1985-xxx/"><img src="/variants/s2/t1lb1~x2/sett.png" alt="Bruce Special 1985 XXX" width="140"><br><strong>Bruce Special 1985 XXX (1)</strong></a><div class="clan-territory">Clan Bruce</div></li>

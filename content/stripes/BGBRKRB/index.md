@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db64r3k3r3dp61dg5dp6~x2/">Rutherford, John (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db64r3k3r3dp61dg5dp6~x2/"><img src="/variants/s7/db64r3k3r3dp61dg5dp6~x2/sett.png" alt="Rutherford, John (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/rutherford-john/">Rutherford, John</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/rutherford-john/"><img src="/variants/s7/db64r3k3r3dp61dg5dp6~x2/sett.png" alt="Rutherford, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

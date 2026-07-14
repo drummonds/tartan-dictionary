@@ -8,10 +8,10 @@ crumbs:
 - name: "Kilmaine Saints"
   url: "/tartans/k/ki/kilmaine-saints/"
 - name: "Kilmaine Saints"
-  url: "/setts/k54n11g13y1db13w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k54n11g13y1db13w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kilmaine-saints/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGGBW](/stripes/kbggbw/).
 
 Part of the [Kilmaine Saints](/tartans/k/ki/kilmaine-saints/) tartan — the named design grouping this sett with its other cloths.

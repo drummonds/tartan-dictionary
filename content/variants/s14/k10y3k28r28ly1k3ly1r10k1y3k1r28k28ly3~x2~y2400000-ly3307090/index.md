@@ -8,10 +8,10 @@ crumbs:
 - name: "Unknown U.S."
   url: "/tartans/u/un/unknown-u-s/"
 - name: "Unknown U.S. kilt"
-  url: "/setts/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unknown-u-s/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRYKYRKGKRKY](/stripes/kgkrykyrkgkrky/).
 
 Part of the [Unknown U.S.](/tartans/u/un/unknown-u-s/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dp12dg1r4dg1r4o5g3o5w34o5r2g2dp4~x2/">Fyvie, Magenta (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dp12dg1r4dg1r4o5g3o5w34o5r2g2dp4~x2/"><img src="/variants/s13/dp12dg1r4dg1r4o5g3o5w34o5r2g2dp4~x2/sett.png" alt="Fyvie, Magenta (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fy/fyvie-magenta/">Fyvie Magenta</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fy/fyvie-magenta/"><img src="/variants/s13/dp12dg1r4dg1r4o5g3o5w34o5r2g2dp4~x2/sett.png" alt="Fyvie Magenta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

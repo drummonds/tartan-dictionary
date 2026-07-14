@@ -11,11 +11,11 @@ crumbs:
   url: "/families/telfer/"
 - name: "Telfer"
   url: "/tartans/t/te/telfer-2/"
-- name: "Telfer (Name)"
-  url: "/setts/g9y2g6r35db6lb1dr20db5lb2/"
+- name: "Telfer Name Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g9y2g6r35db6lb1dr20db5lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/te/telfer-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRBWBBW](/stripes/gggrbwbbw/).
 
 Part of the [Telfer](/tartans/t/te/telfer-2/) tartan — the named design grouping this sett with its other cloths.

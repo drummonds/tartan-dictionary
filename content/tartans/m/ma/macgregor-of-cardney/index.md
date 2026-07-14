@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/macgregor/"
 - name: "MacGregor of Cardney"
   url: "/families/macgregor-of-cardney/"
+aliases:
+- "/setts/r18g9r2g3k1w1/"
+- "/setts/r18g9r2g3k1n1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgrgkw/">RGRGKW</a></nav>
 A tartan of the [MacGregor of Cardney](/families/macgregor-of-cardney/) family.
 Its design is pattern [RGRGKW](/stripes/rgrgkw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **MacGregor of Cardney** tartan groups 2 setts — the same named design rec
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r18g9r2g3k1w1/">MacGregor of Cardney</a> ★</td><td><code>R/72 G36 R8 G12 K4 W/4</code></td><td>196</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r18g9r2g3k1w1/"><img src="/variants/s6/r18g9r2g3k1w1~x4/sett.png" alt="MacGregor of Cardney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r18g9r2g3k1n1/">1930 (Clan)</a></td><td><code>R/72 G36 R8 G12 K4 N/4</code></td><td>196</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r18g9r2g3k1n1/"><img src="/variants/s6/r18g9r2g3k1n1~x4/sett.png" alt="1930 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r18g9r2g3k1w1~x4/">MacGregor of Cardney</a> ★</td><td><code>R/72 G36 R8 G12 K4 W/4</code></td><td>196</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r18g9r2g3k1w1~x4/"><img src="/variants/s6/r18g9r2g3k1w1~x4/sett.png" alt="MacGregor of Cardney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r18g9r2g3k1n1~x4/">1930 (Clan)</a></td><td><code>R/72 G36 R8 G12 K4 N/4</code></td><td>196</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r18g9r2g3k1n1~x4/"><img src="/variants/s6/r18g9r2g3k1n1~x4/sett.png" alt="1930 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="396.5" cy="144.9" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/variants/s6/r36g18r4g6k1w2~x2/"><circle cx="392.5" cy="123.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="389.9" cy="142.0" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="352.2" cy="185.5" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="316.3" cy="214.6" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="296.6" cy="170.3" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="379.0" cy="124.3" r="4" fill="#3465a4"><title>Greig</title></circle></a><a href="/variants/s6/g10r4g46r69k2w6/"><circle cx="352.0" cy="126.1" r="4" fill="#3465a4"><title>Colchester &amp; District P&amp;D (Corporate</title></circle></a><a href="/variants/s6/g9r2g9r14k1w2~x2/"><circle cx="271.1" cy="186.8" r="4" fill="#3465a4"><title>MacGregor of Balquhidder</title></circle></a><a href="/variants/s7/r21g3r21g16y3w2y3~x2/"><circle cx="372.7" cy="209.2" r="4" fill="#3465a4"><title>Claus of the North Pole</title></circle></a><circle cx="355.5" cy="148.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="397.5" cy="145.1" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/variants/s6/r36g18r4g6k1w2~x2/"><circle cx="393.5" cy="124.0" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="390.8" cy="142.2" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="352.8" cy="185.6" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="317.0" cy="214.7" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="297.3" cy="170.3" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="380.0" cy="124.4" r="4" fill="#3465a4"><title>Greig</title></circle></a><a href="/variants/s6/g10r4g46r69k2w6/"><circle cx="352.9" cy="126.2" r="4" fill="#3465a4"><title>Colchester &amp; District P&amp;D (Corporate</title></circle></a><a href="/variants/s6/g9r2g9r14k1w2~x2/"><circle cx="271.7" cy="186.8" r="4" fill="#3465a4"><title>MacGregor of Balquhidder</title></circle></a><a href="/variants/s7/r21g3r21g16y3w2y3~x2/"><circle cx="373.3" cy="209.3" r="4" fill="#3465a4"><title>Claus of the North Pole</title></circle></a><circle cx="356.3" cy="148.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

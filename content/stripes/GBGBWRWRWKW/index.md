@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y2db3y2db22lb8r1lb3r1lb22k1w2~x2/">Liddell (Newfane, New York)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y2db3y2db22lb8r1lb3r1lb22k1w2~x2/"><img src="/variants/s11/y2db3y2db22lb8r1lb3r1lb22k1w2~x2/sett.png" alt="Liddell (Newfane, New York) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/liddell/">Liddell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/liddell/"><img src="/variants/s11/y2db3y2db22lb8r1lb3r1lb22k1w2~x2/sett.png" alt="Liddell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

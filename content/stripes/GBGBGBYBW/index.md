@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dy3n2dg19n6dg2n6ly14dr4w2~x2/">Royal Pharmaceutical Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy3n2dg19n6dg2n6ly14dr4w2~x2/"><img src="/variants/s9/dy3n2dg19n6dg2n6ly14dr4w2~x2/sett.png" alt="Royal Pharmaceutical Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/">Royal Pharmaceutical Society (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/"><img src="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/sett.png" alt="Royal Pharmaceutical Society (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-pharmaceutical-society/">Royal Pharmaceutical Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-pharmaceutical-society/"><img src="/variants/s9/dy3n2dg19n6dg2n6ly14dr4w2~x2/sett.png" alt="Royal Pharmaceutical Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

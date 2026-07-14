@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/do40n19k2n2lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbkbw/">BBKBW</a></nav>
 Its design is pattern [BBKBW](/stripes/bbkbw/) — the page of every tartan sharing this colour sequence.
 
 The **National Ballet of Canada** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **National Ballet of Canada** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/do40n19k2n2lb2/">National Ballet of Canada</a></td><td><code>DO/160 N76 K8 N8 LB/8</code></td><td>352</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/do40n19k2n2lb2/"><img src="/variants/s5/do40n19k2n2lb2~x4/sett.png" alt="National Ballet of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/do40n19k2n2lb2~x4/">National Ballet of Canada</a></td><td><code>DO/160 N76 K8 N8 LB/8</code></td><td>352</td><td>1994</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/do40n19k2n2lb2~x4/"><img src="/variants/s5/do40n19k2n2lb2~x4/sett.png" alt="National Ballet of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/n52k10do16n1w2~x2/"><circle cx="433.3" cy="124.6" r="4" fill="#3465a4"><title>Wcwm 1163</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="419.2" cy="178.9" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/variants/s6/o59n28ly5dg3w4ly5~x2/"><circle cx="424.3" cy="196.1" r="4" fill="#3465a4"><title>Dundhuin Gold</title></circle></a><a href="/variants/s4/n25k5db5dp3~x2/"><circle cx="378.6" cy="215.1" r="4" fill="#3465a4"><title>Lord Willy's</title></circle></a><a href="/variants/s7/db13k3db20dy70db20dy30w3~x2/"><circle cx="460.6" cy="187.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/"><circle cx="425.3" cy="153.6" r="4" fill="#3465a4"><title>Barrance, Paul and Kelly</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="397.9" cy="183.0" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s5/do18o9n9r1lb1~x4/"><circle cx="355.4" cy="231.7" r="4" fill="#3465a4"><title>Jardine</title></circle></a><a href="/variants/s5/n10k1db3g3y1~x6/"><circle cx="318.0" cy="214.8" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="517.5" cy="244.0" r="4" fill="#3465a4"><title>Glen Trool</title></circle></a><circle cx="461.5" cy="188.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/n52k10do16n1w2~x2/"><circle cx="434.4" cy="124.9" r="4" fill="#3465a4"><title>Wcwm 1163</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="420.1" cy="179.2" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/variants/s6/o59n28ly5dg3w4ly5~x2/"><circle cx="424.8" cy="196.3" r="4" fill="#3465a4"><title>Dundhuin Gold</title></circle></a><a href="/variants/s4/n25k5db5dp3~x2/"><circle cx="379.5" cy="215.3" r="4" fill="#3465a4"><title>Lord Willy's</title></circle></a><a href="/variants/s7/db13k3db20dy70db20dy30w3~x2/"><circle cx="461.5" cy="187.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/"><circle cx="426.2" cy="153.8" r="4" fill="#3465a4"><title>Barrance, Paul and Kelly</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="398.9" cy="183.2" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s5/do18o9n9r1lb1~x4/"><circle cx="355.6" cy="231.8" r="4" fill="#3465a4"><title>Jardine</title></circle></a><a href="/variants/s5/n10k1db3g3y1~x6/"><circle cx="318.5" cy="214.9" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="518.2" cy="244.5" r="4" fill="#3465a4"><title>Glen Trool</title></circle></a><circle cx="462.4" cy="189.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

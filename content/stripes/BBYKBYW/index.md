@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/">Ritchie, Stephen James (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><img src="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/sett.png" alt="Ritchie, Stephen James (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/ritchie-stephen-james/">Ritchie, Stephen James</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/ritchie-stephen-james/"><img src="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/sett.png" alt="Ritchie, Stephen James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

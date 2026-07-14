@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/w3k1g15k6g5k3g8k2g5y3w2y4k1w3/">Avalon - Calvert House</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w3k1g15k6g5k3g8k2g5y3w2y4k1w3/"><img src="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2~g2203152/sett.png" alt="Avalon - Calvert House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/av/avalon/">Avalon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/av/avalon/"><img src="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2~g2203152/sett.png" alt="Avalon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

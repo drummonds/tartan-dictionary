@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/ly3g3dr2g16k2db24k2g16dr2g3lb3~x2/">Loch Tay (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/ly3g3dr2g16k2db24k2g16dr2g3lb3~x2/"><img src="/variants/s11/ly3g3dr2g16k2db24k2g16dr2g3lb3~x2/sett.png" alt="Loch Tay (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-tay/">Loch Tay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-tay/"><img src="/variants/s11/ly3g3dr2g16k2db24k2g16dr2g3lb3~x2/sett.png" alt="Loch Tay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

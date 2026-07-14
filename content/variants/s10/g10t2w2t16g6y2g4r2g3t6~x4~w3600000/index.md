@@ -11,16 +11,16 @@ crumbs:
   url: "/families/harkness/"
 - name: "Harkness Hunting"
   url: "/tartans/h/ha/harkness-hunting/"
-- name: "Harkness Htg (Name)"
-  url: "/setts/g10t2w2t16g6y2g4r2g3t6/"
+- name: "Harkness Hunting #2"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g10t2w2t16g6y2g4r2g3t6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBGGGRGBGRGGGBWBG](/stripes/bwbgggrgbgrgggbwbg/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harkness-hunting/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRGGGBWBG](/stripes/bgrgggbwbg/).
 
 Part of the [Harkness Hunting](/tartans/h/ha/harkness-hunting/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1598](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1598)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5710
 
 ## Thread count
-G/40 T8 W8 T64 G24 Y8 G16 R8 G12 T24 G12 R8 G16 Y8 G24 T64 W8 T/8
+G/40 T8 W8 T64 G24 Y8 G16 R8 G12 T/24
 
-One full sett is **672 threads**.
+One full sett is **360 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/40 T8 W8 T64 G24 Y8 G16 R8 G12 T24 G12 R8 G16 Y8 G24 T64 W8 T/8 — 672 threads; it folds to the canonical 360-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **672 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/40 T8 W8 T64 G24 Y8 G16 R8 G12 T24 G12 R8 G16 Y8 G24 T64 W8 T/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/40 T8 W8 T64 G24 Y8 G16 R8 G12 T/24 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/">Red Deer, City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><img src="/variants/s8/g16db4g8k2y1k6w8r10~x2/sett.png" alt="Red Deer, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/red-deer-city-of/">Red Deer, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/red-deer-city-of/"><img src="/variants/s8/g16db4g8k2y1k6w8r10~x2/sett.png" alt="Red Deer, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

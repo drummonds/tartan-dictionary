@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/">Scottish Islamic (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><img src="/variants/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/sett.png" alt="Scottish Islamic (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-islamic/">Scottish Islamic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-islamic/"><img src="/variants/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/sett.png" alt="Scottish Islamic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

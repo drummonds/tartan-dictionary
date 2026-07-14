@@ -8,15 +8,15 @@ crumbs:
 - name: "Wyse"
   url: "/tartans/w/wy/wyse/"
 - name: "Wyse (2016)"
-  url: "/setts/k19r2k20db6k8db6ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k19r2k20db6k8db6ly2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wy/wyse/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKKRKBKBY](/stripes/kkkrkbkby/).
 
 Part of the [Wyse](/tartans/w/wy/wyse/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11472](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11472)
 
@@ -43,9 +43,11 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11472](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11472)
 
 ## Thread count
-K/16 K6 K16 R4 K40 DB12 K16 DB12 LY/4
+K/38 R4 K40 DB12 K16 DB12 LY/4
 
-One full sett is **232 threads**.
+One full sett is **210 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/16 K6 K16 R4 K40 DB12 K16 DB12 LY/4 — 232 threads; it folds to the canonical 210-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **232 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/16 K6 K16 R4 K40 DB12 K16 DB12 LY/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/38 R4 K40 DB12 K16 DB12 LY/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

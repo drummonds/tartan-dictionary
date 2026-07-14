@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Australian"
   url: "/clan/australian/"
+aliases:
+- "/setts/db52g15w1g2w1g2y2g2k2dbi3w2db2r2dbi5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgwgwgggkbwbrb/">BGWGWGGGKBWBRB</a></nav>
 A tartan of [Clan Australian](/clan/australian/).
 Its design is pattern [BGWGWGGGKBWBRB](/stripes/bgwgwgggkbwbrb/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Australian National** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db52g15w1g2w1g2y2g2k2dbi3w2db2r2dbi5/">Australian National</a></td><td><code>DB/104 G30 W2 G4 W2 G4 Y4 G4 K4 DBi6 W4 DB4 R4 DBi/10</code></td><td>—</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db52g15w1g2w1g2y2g2k2dbi3w2db2r2dbi5/"><img src="/variants/s14/db52g15w1g2w1g2y2g2k2dbi3w2db2r2dbi5~x2~db1204274-dbi1406275/sett.png" alt="Australian National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db52g15w1g2w1g2y2g2k2dbi3w2db2r2dbi5~x2~db1204274-dbi1406275/">Australian National</a></td><td><code>DB/52 G15 W1 G2 W1 G2 Y2 G2 K2 DBi3 W2 DB2 R2 DBi/5</code></td><td>—</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db52g15w1g2w1g2y2g2k2dbi3w2db2r2dbi5~x2~db1204274-dbi1406275/"><img src="/variants/s14/db52g15w1g2w1g2y2g2k2dbi3w2db2r2dbi5~x2~db1204274-dbi1406275/sett.png" alt="Australian National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

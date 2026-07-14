@@ -12,15 +12,15 @@ crumbs:
 - name: "Saltcoats"
   url: "/tartans/s/sa/saltcoats-2/"
 - name: "Saltcoats"
-  url: "/setts/dp5w1k1t14k1r12k1t14k1r5k1y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp5w1k1t14k1r12k1t14k1r5k1y3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWKBKRKBKRKGKRKBKRKBKW](/stripes/bwkbkrkbkrkgkrkbkrkbkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sa/saltcoats-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKBKRKBKRKG](/stripes/bwkbkrkbkrkg/).
 
 Part of the [Saltcoats](/tartans/s/sa/saltcoats-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3645](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3645)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3645](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>24/04/2001 — Saltcoats (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3645">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed for the Ayrshire seaside town of Saltcoats. Produed in conjunction with Baxters Jewellers Saltcoats.</em></li>
-<li>2001 — Saltcoats (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3980">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Apparently commissioned by Baxters Jewellers of Saltcoats from designer Ronnie Hek for the Ayrshire seaside town of Saltcoats. Baxters' notes read as follows: "The history of Saltcoats, Ayrshire, is held within the colours of it's tartan; the blue of the sea, the biege of the sand, the black of the coal, the white of the salt and red for the sun combined with a deep and rich purple, the traditional colour of Scotland. Saltcoats tartan was first worn by the Queen of the Sea at the annual Queen of the Sea Festival held in the middle of July."</em></li>
+<li>2001 — Saltcoats (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3980/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Apparently commissioned by Baxters Jewellers of Saltcoats from designer Ronnie Hek for the Ayrshire seaside town of Saltcoats. Baxters' notes read as follows: "The history of Saltcoats, Ayrshire, is held within the colours of it's tartan; the blue of the sea, the biege of the sand, the black of the coal, the white of the salt and red for the sun combined with a deep and rich purple, the traditional colour of Scotland. Saltcoats tartan was first worn by the Queen of the Sea at the annual Queen of the Sea Festival held in the middle of July."</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2819
 
 ## Thread count
-DP/10 W2 K2 T28 K2 R24 K2 T28 K2 R10 K2 Y6 K2 R10 K2 T28 K2 R24 K2 T28 K2 W/2
+DP/10 W2 K2 T28 K2 R24 K2 T28 K2 R10 K2 Y/6
 
-One full sett is **428 threads**.
+One full sett is **220 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/10 W2 K2 T28 K2 R24 K2 T28 K2 R10 K2 Y6 K2 R10 K2 T28 K2 R24 K2 T28 K2 W/2 — 428 threads; it folds to the canonical 220-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **428 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/10 W2 K2 T28 K2 R24 K2 T28 K2 R10 K2 Y6 K2 R10 K2 T28 K2 R24 K2 T28 K2 W/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/10 W2 K2 T28 K2 R24 K2 T28 K2 R10 K2 Y/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

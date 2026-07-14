@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/">Drumlithie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><img src="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/sett.png" alt="Drumlithie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2~r2109032-ri2406019/">Drumlithie - 1790 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><img src="/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2~r2109032-ri2406019/sett.png" alt="Drumlithie - 1790 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/">Drumlithie Rock and Wheel Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><img src="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/sett.png" alt="Drumlithie Rock and Wheel Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drumlithie/">Drumlithie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drumlithie/"><img src="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/sett.png" alt="Drumlithie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drumlithie-rock-and-wheel/">Drumlithie Rock and Wheel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drumlithie-rock-and-wheel/"><img src="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/sett.png" alt="Drumlithie Rock and Wheel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

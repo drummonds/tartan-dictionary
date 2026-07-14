@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/">Carr (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/"><img src="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/sett.png" alt="Carr (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carr/">Carr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carr/"><img src="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/sett.png" alt="Carr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

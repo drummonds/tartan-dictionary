@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/r1n19w1~x2/">Dunbar of Pitgaveny Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r1n19w1~x2/"><img src="/variants/s3/r1n19w1~x2/sett.png" alt="Dunbar of Pitgaveny Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunbar-of-pitgaveny/">Dunbar of Pitgaveny</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunbar-of-pitgaveny/"><img src="/variants/s3/r1n19w1~x2/sett.png" alt="Dunbar of Pitgaveny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/r24dp16w3~x4/">National Autistic Society Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r24dp16w3~x4/"><img src="/variants/s3/r24dp16w3~x4/sett.png" alt="National Autistic Society Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/national-autistic-society-scotla/">National Autistic Society Scotla</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/national-autistic-society-scotla/"><img src="/variants/s3/r24dp16w3~x4/sett.png" alt="National Autistic Society Scotla sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/lb9db14r1~x4/">Stakis Hotels (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/lb9db14r1~x4/"><img src="/variants/s3/lb9db14r1~x4/sett.png" alt="Stakis Hotels (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stakis-hotels/">Stakis Hotels</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stakis-hotels/"><img src="/variants/s3/lb9db14r1~x4/sett.png" alt="Stakis Hotels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

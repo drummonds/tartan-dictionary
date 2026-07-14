@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp4k3b18r3db34w3/"
+- "/setts/m4k3t18r3db34w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbrbw/">BKBRBW</a></nav>
 Its design is pattern [BKBRBW](/stripes/bkbrbw/) — the page of every tartan sharing this colour sequence.
 
 The **Margach, William** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Margach, William** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp4k3b18r3db34w3/">Margach, William</a> ★</td><td><code>DP/8 K6 B36 R6 DB68 W/6</code></td><td>246</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp4k3b18r3db34w3/"><img src="/variants/s6/dp4k3b18r3db34w3~x2/sett.png" alt="Margach, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/m4k3t18r3db34w3/">(Personal)</a></td><td><code>M/8 K6 T36 R6 DB68 W/6</code></td><td>246</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/m4k3t18r3db34w3/"><img src="/variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp4k3b18r3db34w3~x2/">Margach, William</a> ★</td><td><code>DP/8 K6 B36 R6 DB68 W/6</code></td><td>246</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><img src="/variants/s6/dp4k3b18r3db34w3~x2/sett.png" alt="Margach, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/">(Personal)</a></td><td><code>M/8 K6 T36 R6 DB68 W/6</code></td><td>246</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/"><img src="/variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="149.4" r="4" fill="#3465a4"><title>Shearer</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="243.8" cy="215.4" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="194.7" cy="164.8" r="4" fill="#3465a4"><title>Nicolson of Harris</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="200.9" cy="156.0" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="282.0" cy="217.3" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="282.6" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="293.3" cy="168.6" r="4" fill="#3465a4"><title>Peterson, Oren</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="341.6" cy="174.6" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/db40b16k5dt16w2dp6~x2/"><circle cx="267.3" cy="172.5" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/variants/s6/lb3k2g2k1db10w1~x8/"><circle cx="212.3" cy="158.9" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><circle cx="258.8" cy="156.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.9" cy="149.3" r="4" fill="#3465a4"><title>Shearer</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="244.2" cy="215.3" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.1" cy="164.6" r="4" fill="#3465a4"><title>Nicolson of Harris</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="201.5" cy="155.8" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="282.3" cy="217.3" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="283.4" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="293.8" cy="168.5" r="4" fill="#3465a4"><title>Peterson, Oren</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="342.5" cy="174.8" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/db40b16k5dt16w2dp6~x2/"><circle cx="267.7" cy="172.4" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/variants/s6/lb3k2g2k1db10w1~x8/"><circle cx="212.9" cy="158.8" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><circle cx="259.5" cy="156.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

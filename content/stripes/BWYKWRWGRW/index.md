@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db20lb8lo5k6lb4r3lb3y30r2lb3~x2/">Thousand Islands District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db20lb8lo5k6lb4r3lb3y30r2lb3~x2/"><img src="/variants/s10/db20lb8lo5k6lb4r3lb3y30r2lb3~x2/sett.png" alt="Thousand Islands District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thousand-islands/">Thousand Islands</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thousand-islands/"><img src="/variants/s10/db20lb8lo5k6lb4r3lb3y30r2lb3~x2/sett.png" alt="Thousand Islands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

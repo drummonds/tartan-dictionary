@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/">Livingstone (Australia) Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/"><img src="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/sett.png" alt="Livingstone (Australia) Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/livingstone-dress-2/">Livingstone Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/livingstone-dress-2/"><img src="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/sett.png" alt="Livingstone Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

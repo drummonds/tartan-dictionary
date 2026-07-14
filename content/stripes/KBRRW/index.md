@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k50db3o2r3w1~x2/">Fettes Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k50db3o2r3w1~x2/"><img src="/variants/s5/k50db3o2r3w1~x2/sett.png" alt="Fettes Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k4db2o13m13w2~x4/">Think Pink (ICF)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k4db2o13m13w2~x4/"><img src="/variants/s5/k4db2o13m13w2~x4/sett.png" alt="Think Pink (ICF) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fettes/">Fettes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fettes/"><img src="/variants/s5/k50db3o2r3w1~x2/sett.png" alt="Fettes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/think-pink/">Think Pink</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/think-pink/"><img src="/variants/s5/k4db2o13m13w2~x4/sett.png" alt="Think Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

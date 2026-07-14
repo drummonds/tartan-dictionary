@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Christmas"
   url: "/clan/christmas/"
+aliases:
+- "/setts/dy5ly20r3dg13dy13dp3b3/"
+- "/setts/dy5ly20r3dg13dy13db3b3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbggryg/">BBGGRYG</a></nav>
 A tartan of [Clan Christmas](/clan/christmas/).
 Its design is pattern [BBGGRYG](/stripes/bbggryg/) — the page of every tartan sharing this colour sequence.
 
@@ -16,10 +20,10 @@ The **Christmas Hill Game Farm** tartan groups 2 setts — the same named design
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dy5ly20r3dg13dy13dp3b3/">Christmas Hill Game Farm</a> ★</td><td><code>DY/10 LY40 R6 DG26 DY26 DP6 B/6</code></td><td>224</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy5ly20r3dg13dy13dp3b3/"><img src="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/sett.png" alt="Christmas Hill Game Farm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dy5ly20r3dg13dy13db3b3/">(Corporate)</a></td><td><code>DY/10 LY40 R6 DG26 DY26 DB6 B/6</code></td><td>224</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy5ly20r3dg13dy13db3b3/"><img src="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/">Christmas Hill Game Farm</a> ★</td><td><code>DY/10 LY40 R6 DG26 DY26 DP6 B/6</code></td><td>224</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><img src="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/sett.png" alt="Christmas Hill Game Farm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/">(Corporate)</a></td><td><code>DY/10 LY40 R6 DG26 DY26 DB6 B/6</code></td><td>224</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/"><img src="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="187.2" cy="197.6" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/"><circle cx="105.8" cy="197.4" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><a href="/variants/s7/o17n5db2w12db2y4g7~x2/"><circle cx="123.2" cy="210.6" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.7" cy="205.4" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.5" cy="164.6" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="95.9" cy="212.8" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.1" cy="239.8" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11/"><circle cx="175.6" cy="212.8" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/"><circle cx="118.6" cy="216.8" r="4" fill="#3465a4"><title>Utah Centennial</title></circle></a><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><circle cx="203.2" cy="189.6" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><circle cx="111.5" cy="211.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="187.4" cy="197.4" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/"><circle cx="105.7" cy="197.0" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><a href="/variants/s7/o17n5db2w12db2y4g7~x2/"><circle cx="123.1" cy="210.3" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.9" cy="205.2" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.6" cy="164.3" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="95.9" cy="212.5" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.0" cy="239.5" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11/"><circle cx="175.7" cy="212.6" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/"><circle cx="118.6" cy="216.5" r="4" fill="#3465a4"><title>Utah Centennial</title></circle></a><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><circle cx="203.5" cy="189.4" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><circle cx="111.5" cy="211.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

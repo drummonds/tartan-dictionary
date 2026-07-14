@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k3g3k2g4r2g6k6g4k4g36k2/">Madoc (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k3g3k2g4r2g6k6g4k4g36k2/"><img src="/variants/s11/k3g3k2g4r2g6k6g4k4g36k2/sett.png" alt="Madoc (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/madoc/">Madoc</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/madoc/"><img src="/variants/s11/k3g3k2g4r2g6k6g4k4g36k2/sett.png" alt="Madoc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

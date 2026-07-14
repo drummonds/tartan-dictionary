@@ -8,10 +8,10 @@ crumbs:
 - name: "Florida"
   url: "/tartans/f/fl/florida/"
 - name: "Florida"
-  url: "/setts/w8db1dbi20db2dbi1db2dbi4db2dbi1db2dbi4w2r4w1r2w20db1r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w8db1dbi20db2dbi1db2dbi4db2dbi1db2dbi4w2r4w1r2w20db1r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fl/florida/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWRWRWBBBBBBBBBBW](/stripes/rbwrwrwbbbbbbbbbbw/).
 
 Part of the [Florida](/tartans/f/fl/florida/) tartan — the named design grouping this sett with its other cloths.

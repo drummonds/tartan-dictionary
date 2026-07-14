@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/">Salaberry-de-Valleyfield (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><img src="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/sett.png" alt="Salaberry-de-Valleyfield (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/salaberry-de-valleyfield/">Salaberry-de-Valleyfield</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/salaberry-de-valleyfield/"><img src="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/sett.png" alt="Salaberry-de-Valleyfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w5db6r18k8lb5k4db27w3~x2/">Clinton (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w5db6r18k8lb5k4db27w3~x2/"><img src="/variants/s8/w5db6r18k8lb5k4db27w3~x2/sett.png" alt="Clinton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clinton/">Clinton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clinton/"><img src="/variants/s8/w5db6r18k8lb5k4db27w3~x2/sett.png" alt="Clinton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

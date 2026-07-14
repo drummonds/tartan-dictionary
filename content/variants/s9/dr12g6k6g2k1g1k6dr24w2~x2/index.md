@@ -12,15 +12,15 @@ crumbs:
 - name: "Hunter of Bute"
   url: "/tartans/h/hu/hunter-of-bute/"
 - name: "Hunter of Bute (Personal)"
-  url: "/setts/dr12g6k6g2k1g1k6dr24w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr12g6k6g2k1g1k6dr24w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGKGKGKBWBKGKGKG](/stripes/bgkgkgkbwbkgkgkg/).
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hunter-of-bute/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKGKGKBW](/stripes/bgkgkgkbw/).
 
 Part of the [Hunter of Bute](/tartans/h/hu/hunter-of-bute/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1792](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1792)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6671
 
 ## Thread count
-DR/24 G12 K12 G4 K2 G2 K12 DR48 W4 DR48 K12 G2 K2 G4 K12 G/12
+DR/24 G12 K12 G4 K2 G2 K12 DR48 W/4
 
-One full sett is **388 threads**.
+One full sett is **212 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/24 G12 K12 G4 K2 G2 K12 DR48 W4 DR48 K12 G2 K2 G4 K12 G/12 — 388 threads; it folds to the canonical 212-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **388 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/24 G12 K12 G4 K2 G2 K12 DR48 W4 DR48 K12 G2 K2 G4 K12 G/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/24 G12 K12 G4 K2 G2 K12 DR48 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

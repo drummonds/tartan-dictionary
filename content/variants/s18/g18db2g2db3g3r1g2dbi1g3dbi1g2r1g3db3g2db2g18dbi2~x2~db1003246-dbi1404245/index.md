@@ -12,10 +12,10 @@ crumbs:
 - name: "Owen of Wales"
   url: "/tartans/o/ow/owen-of-wales/"
 - name: "Owen of Wales"
-  url: "/setts/g18db2g2db3g3r1g2dbi1g3dbi1g2r1g3db3g2db2g18dbi2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g18db2g2db3g3r1g2dbi1g3dbi1g2r1g3db3g2db2g18dbi2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ow/owen-of-wales/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGRGBGBGRGBGBG](/stripes/bgbgbgrgbgbgrgbgbg/).
 
 Part of the [Owen of Wales](/tartans/o/ow/owen-of-wales/) tartan — the named design grouping this sett with its other cloths.

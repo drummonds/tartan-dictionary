@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/">Leblant-Macqueron (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><img src="/variants/s7/lb5dy6w2g7w2t44w2~x2/sett.png" alt="Leblant-Macqueron (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leblant-macqueron-2/">Leblant-Macqueron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leblant-macqueron-2/"><img src="/variants/s7/lb5dy6w2g7w2t44w2~x2/sett.png" alt="Leblant-Macqueron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

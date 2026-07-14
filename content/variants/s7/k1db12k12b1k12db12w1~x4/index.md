@@ -12,10 +12,10 @@ crumbs:
 - name: "Marchmont"
   url: "/tartans/m/ma/marchmont/"
 - name: "Marchmont"
-  url: "/setts/k1db12k12b1k12db12w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1db12k12b1k12db12w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/marchmont/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBW](/stripes/kbkbkbw/).
 
 Part of the [Marchmont](/tartans/m/ma/marchmont/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/n26k10r10y10n3~x2/">Ikelman No 2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/n26k10r10y10n3~x2/"><img src="/variants/s5/n26k10r10y10n3~x2/sett.png" alt="Ikelman No 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/n5k2r2y2n5~x10/">Ikelman No 3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/n5k2r2y2n5~x10/"><img src="/variants/s5/n5k2r2y2n5~x10/sett.png" alt="Ikelman No 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ik/ikelman-no-2/">Ikelman No 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ik/ikelman-no-2/"><img src="/variants/s5/n26k10r10y10n3~x2/sett.png" alt="Ikelman No 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ik/ikelman-no-3/">Ikelman No 3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ik/ikelman-no-3/"><img src="/variants/s5/n5k2r2y2n5~x10/sett.png" alt="Ikelman No 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

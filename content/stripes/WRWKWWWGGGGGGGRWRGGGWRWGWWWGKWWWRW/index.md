@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s34/w2r8w2k15w2lb5w2dg20g2dg4g2dg20g3y3r2w2r2y3g3dg20w2r32w2dg20w2lb5w2g4k15w2lb5w2r8w2/">Hunter (Wilsons1819)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s34/w2r8w2k15w2lb5w2dg20g2dg4g2dg20g3y3r2w2r2y3g3dg20w2r32w2dg20w2lb5w2g4k15w2lb5w2r8w2/"><img src="/variants/s34/w2r8w2k15w2lb5w2dg20g2dg4g2dg20g3y3r2w2r2y3g3dg20w2r32w2dg20w2lb5w2g4k15w2lb5w2r8w2/sett.png" alt="Hunter (Wilsons1819) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hunter-7/">Hunter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hunter-7/"><img src="/variants/s34/w2r8w2k15w2lb5w2dg20g2dg4g2dg20g3y3r2w2r2y3g3dg20w2r32w2dg20w2lb5w2g4k15w2lb5w2r8w2/sett.png" alt="Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

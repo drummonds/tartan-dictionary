@@ -10,10 +10,10 @@ crumbs:
 - name: "Brown Ellis"
   url: "/tartans/b/br/brown-ellis/"
 - name: "Brown Ellis (Personal)"
-  url: "/setts/k4dbi11k1dbi2k1dbi11k2db14k2g14k1lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4dbi11k1dbi2k1dbi11k2db14k2g14k1lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brown-ellis/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKGKY](/stripes/kbkbkbkbkgky/).
 
 Part of the [Brown Ellis](/tartans/b/br/brown-ellis/) tartan — the named design grouping this sett with its other cloths.

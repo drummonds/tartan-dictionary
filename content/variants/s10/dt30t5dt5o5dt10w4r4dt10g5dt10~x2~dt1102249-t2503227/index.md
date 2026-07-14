@@ -8,10 +8,10 @@ crumbs:
 - name: "Bukowski-Jackson"
   url: "/tartans/b/bu/bukowski-jackson/"
 - name: "Bukowski-Jackson (Personal)"
-  url: "/setts/dt30t5dt5o5dt10w4r4dt10g5dt10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt30t5dt5o5dt10w4r4dt10g5dt10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/bukowski-jackson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBWRBGB](/stripes/bbbrbwrbgb/).
 
 Part of the [Bukowski-Jackson](/tartans/b/bu/bukowski-jackson/) tartan — the named design grouping this sett with its other cloths.

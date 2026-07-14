@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/">Menzies of Pitfoddels</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/"><img src="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/sett.png" alt="Menzies of Pitfoddels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/menzies-of-pitfoddels/">Menzies of Pitfoddels</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/menzies-of-pitfoddels/"><img src="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/sett.png" alt="Menzies of Pitfoddels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Poulter"
   url: "/tartans/p/po/poulter-3/"
 - name: "Poulter Blue Corporate Tartan"
-  url: "/setts/t25db4t4db4t4db23b23lr4b23db23t23db4t4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t25db4t4db4t4db23b23lr4b23db23t23db4t4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/poulter-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBYBBBBB](/stripes/bbbbbbbybbbbb/).
 
 Part of the [Poulter](/tartans/p/po/poulter-3/) tartan — the named design grouping this sett with its other cloths.

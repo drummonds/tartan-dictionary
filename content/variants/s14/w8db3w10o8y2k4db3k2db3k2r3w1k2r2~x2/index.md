@@ -12,10 +12,10 @@ crumbs:
 - name: "MacInnes Ancient Hunting"
   url: "/tartans/m/ma/macinnes-ancient-hunting/"
 - name: "MacInnes, Ancient hunting"
-  url: "/setts/w8db3w10o8y2k4db3k2db3k2r3w1k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w8db3w10o8y2k4db3k2db3k2r3w1k2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macinnes-ancient-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWRKBKBKGRWBW](/stripes/rkwrkbkbkgrwbw/).
 
 Part of the [MacInnes Ancient Hunting](/tartans/m/ma/macinnes-ancient-hunting/) tartan — the named design grouping this sett with its other cloths.

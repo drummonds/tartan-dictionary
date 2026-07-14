@@ -8,15 +8,15 @@ crumbs:
 - name: "Hobkirk"
   url: "/tartans/h/ho/hobkirk/"
 - name: "Hobkirk"
-  url: "/setts/t5w1o9t5r4t5g20y1g1y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t5w1o9t5r4t5g20y1g1y1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWRBRBGGGGGGGBRBRW](/stripes/bwrbrbgggggggbrbrw/).
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hobkirk/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRBRBGGGG](/stripes/bwrbrbgggg/).
 
 Part of the [Hobkirk](/tartans/h/ho/hobkirk/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1742](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1742)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1742](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>30/07/2002 — Hobkirk (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1742">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A tartan from Ronnie Hek of Coldstream for Hobkirk School in Bonchester Bridge, Roxburghshire in the Scottish Borders. Thread count doubled.</em></li>
-<li>pre 2004 — Hobkirk (School) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6201">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A tartan from Ronnie Hek of Coldstream for Hobkirk School in Bonchester Bridge, Roxburghshire in the Scottish Borders. Thread count doubled.</em></li>
+<li>pre 2004 — Hobkirk (School) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6201/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A tartan from Ronnie Hek of Coldstream for Hobkirk School in Bonchester Bridge, Roxburghshire in the Scottish Borders. Thread count doubled.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2904
 
 ## Thread count
-T/20 W4 O36 T20 R16 T20 G80 Y4 G4 Y4 G4 Y4 G80 T20 R16 T20 O36 W/4
+T/20 W4 O36 T20 R16 T20 G80 Y4 G4 Y/4
 
-One full sett is **760 threads**.
+One full sett is **392 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/20 W4 O36 T20 R16 T20 G80 Y4 G4 Y4 G4 Y4 G80 T20 R16 T20 O36 W/4 — 760 threads; it folds to the canonical 392-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **760 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/20 W4 O36 T20 R16 T20 G80 Y4 G4 Y4 G4 Y4 G80 T20 R16 T20 O36 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/20 W4 O36 T20 R16 T20 G80 Y4 G4 Y/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

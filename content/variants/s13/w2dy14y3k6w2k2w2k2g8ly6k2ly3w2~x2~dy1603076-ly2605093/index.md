@@ -8,10 +8,10 @@ crumbs:
 - name: "O'Farrell"
   url: "/tartans/o/o/o-farrell/"
 - name: "O'Farrell Irish Family Tartan"
-  url: "/setts/w2dy14y3k6w2k2w2k2g8ly6k2ly3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2dy14y3k6w2k2w2k2g8ly6k2ly3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-farrell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGGKWKWKGYKYW](/stripes/wggkwkwkgykyw/).
 
 Part of the [O'Farrell](/tartans/o/o/o-farrell/) tartan — the named design grouping this sett with its other cloths.

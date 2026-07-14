@@ -8,10 +8,10 @@ crumbs:
 - name: "Strakan"
   url: "/tartans/s/st/strakan/"
 - name: "Strakan"
-  url: "/setts/db18n5db18ly14k3w3k3ly14n3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18n5db18ly14k3w3k3ly14n3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/strakan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBYKWKYB](/stripes/bbbykwkyb/).
 
 Part of the [Strakan](/tartans/s/st/strakan/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3974](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1999 — Strakan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3974">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #000064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C8C8C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #8C8C8C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCCC00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Designed by Lochcarron of Scotland for Strakan Ltd of Galashiels as a Corporate tartan.</em></li>
-<li>1999 — Strakan (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4234">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #000064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C8C8C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #8C8C8C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCCC00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Designed by Lochcarron of Scotland for Strakan Ltd of Galashiels as a Corporate tartan.</em></li>
+<li>1999 — Strakan (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4234/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #000064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C8C8C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #8C8C8C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCCC00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Designed by Lochcarron of Scotland for Strakan Ltd of Galashiels as a Corporate tartan.</em></li>
 </ul>
 </details>
 

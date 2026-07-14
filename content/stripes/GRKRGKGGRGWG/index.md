@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/">Royal Army of Oman</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/"><img src="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/sett.png" alt="Royal Army of Oman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-army-of-oman/">Royal Army of Oman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-army-of-oman/"><img src="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/sett.png" alt="Royal Army of Oman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/">Lawrence's Seven Pillars of Khaki</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><img src="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/sett.png" alt="Lawrence's Seven Pillars of Khaki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lawrence-s-seven-pillars-of-khaki/">Lawrence's Seven Pillars of Khaki</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lawrence-s-seven-pillars-of-khaki/"><img src="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/sett.png" alt="Lawrence's Seven Pillars of Khaki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Connel"
   url: "/tartans/c/co/connel-2/"
 - name: "Connel"
-  url: "/setts/r8k8y1k8r8w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8k8y1k8r8w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/connel-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKRW](/stripes/rkgkrw/).
 
 Part of the [Connel](/tartans/c/co/connel-2/) tartan — the named design grouping this sett with its other cloths.

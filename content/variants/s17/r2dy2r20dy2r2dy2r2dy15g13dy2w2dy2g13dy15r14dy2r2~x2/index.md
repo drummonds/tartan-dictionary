@@ -8,10 +8,10 @@ crumbs:
 - name: "Mauthe Unidentified"
   url: "/tartans/m/ma/mauthe-unidentified/"
 - name: "Mauthe Unidentified"
-  url: "/setts/r2dy2r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2dy2r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mauthe-unidentified/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGGGWGGGRGRGRGR](/stripes/rgrgggwgggrgrgrgr/).
 
 Part of the [Mauthe Unidentified](/tartans/m/ma/mauthe-unidentified/) tartan — the named design grouping this sett with its other cloths.

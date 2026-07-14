@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/">Sweetheart, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/"><img src="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/sett.png" alt="Sweetheart, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sw/sweetheart-the/">Sweetheart, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/sweetheart-the/"><img src="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/sett.png" alt="Sweetheart, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

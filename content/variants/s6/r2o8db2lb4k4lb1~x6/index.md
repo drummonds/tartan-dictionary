@@ -8,10 +8,10 @@ crumbs:
 - name: "Thomson's, Fancy"
   url: "/tartans/t/th/thomson-s-fancy/"
 - name: "Thom(p)son's, Fancy"
-  url: "/setts/r2o8db2lb4k4lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2o8db2lb4k4lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thomson-s-fancy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRBWKW](/stripes/rrbwkw/).
 
 Part of the [Thomson's, Fancy](/tartans/t/th/thomson-s-fancy/) tartan — the named design grouping this sett with its other cloths.

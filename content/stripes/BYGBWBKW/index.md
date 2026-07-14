@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/">State Seal of Utah (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/"><img src="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/sett.png" alt="State Seal of Utah (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-utah/">State Seal of Utah</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-utah/"><img src="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/sett.png" alt="State Seal of Utah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

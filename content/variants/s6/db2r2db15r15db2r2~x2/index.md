@@ -12,15 +12,15 @@ crumbs:
 - name: "Hebridean 2"
   url: "/tartans/h/he/hebridean-2/"
 - name: "Hebrides #7"
-  url: "/setts/db2r2db15r15db2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2r2db15r15db2r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRBR](/stripes/brbrbrbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebridean-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBR](/stripes/brbrbr/).
 
 Part of the [Hebridean 2](/tartans/h/he/hebridean-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1663](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1663)
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 451
 
 ## Thread count
-DB/4 R4 DB30 R30 DB4 R4 DB4 R30 DB30 R/4
+DB/4 R4 DB30 R30 DB4 R/4
 
-One full sett is **280 threads**.
+One full sett is **144 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/4 R4 DB30 R30 DB4 R4 DB4 R30 DB30 R/4 — 280 threads; it folds to the canonical 144-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **280 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/4 R4 DB30 R30 DB4 R4 DB4 R30 DB30 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/4 R4 DB30 R30 DB4 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s2/t1lb1~x2/">Bruce Special 1985 XXX</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/t1lb1~x2/"><img src="/variants/s2/t1lb1~x2/sett.png" alt="Bruce Special 1985 XXX sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bruce-special-1985-xxx/">Bruce Special 1985 XXX</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bruce-special-1985-xxx/"><img src="/variants/s2/t1lb1~x2/sett.png" alt="Bruce Special 1985 XXX sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s2/db1w1~x20/">Sillitoe</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/db1w1~x20/"><img src="/variants/s2/db1w1~x20/sett.png" alt="Sillitoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sillitoe/">Sillitoe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sillitoe/"><img src="/variants/s2/db1w1~x20/sett.png" alt="Sillitoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

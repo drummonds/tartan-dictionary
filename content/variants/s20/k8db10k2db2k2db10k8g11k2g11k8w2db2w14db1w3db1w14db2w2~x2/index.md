@@ -10,10 +10,10 @@ crumbs:
 - name: "Campbell, Forty Second"
   url: "/tartans/c/ca/campbell-forty-second/"
 - name: "Campbell, Forty Second"
-  url: "/setts/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-forty-second/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKGKGKWBWBWBWBW](/stripes/kbkbkbkgkgkwbwbwbwbw/).
 
 Part of the [Campbell, Forty Second](/tartans/c/ca/campbell-forty-second/) tartan — the named design grouping this sett with its other cloths.

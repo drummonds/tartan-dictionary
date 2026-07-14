@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/t12ly2t12k6o10k1w2k1o10k6~x2/">Soroptimist International</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/t12ly2t12k6o10k1w2k1o10k6~x2/"><img src="/variants/s10/t12ly2t12k6o10k1w2k1o10k6~x2/sett.png" alt="Soroptimist International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/soroptimist-international-2/">Soroptimist International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/soroptimist-international-2/"><img src="/variants/s10/t12ly2t12k6o10k1w2k1o10k6~x2/sett.png" alt="Soroptimist International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

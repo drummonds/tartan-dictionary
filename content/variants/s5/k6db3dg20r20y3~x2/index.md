@@ -12,10 +12,10 @@ crumbs:
 - name: "Douglas of Roxburgh"
   url: "/tartans/d/do/douglas-of-roxburgh/"
 - name: "Douglas of Roxburgh"
-  url: "/setts/k6db3dg20r20y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6db3dg20r20y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/douglas-of-roxburgh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBK](/stripes/grgbk/).
 
 Part of the [Douglas of Roxburgh](/tartans/d/do/douglas-of-roxburgh/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=961](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — Douglas of Roxburgh (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=961">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>No information on this tartan. Not a stock item for any of the weavers.</em></li>
-<li>1984 — Douglas of Roxburgh (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4699">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>No information on this tartan. Not a stock item for any of the weavers.</em></li>
+<li>1984 — Douglas of Roxburgh (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4699/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>No information on this tartan. Not a stock item for any of the weavers.</em></li>
 </ul>
 </details>
 

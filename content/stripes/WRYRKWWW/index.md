@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w4lb32w12k5r9lo8r4w4~x2/">Brunnbauer (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w4lb32w12k5r9lo8r4w4~x2/"><img src="/variants/s8/w4lb32w12k5r9lo8r4w4~x2/sett.png" alt="Brunnbauer (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brunnbauer/">Brunnbauer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brunnbauer/"><img src="/variants/s8/w4lb32w12k5r9lo8r4w4~x2/sett.png" alt="Brunnbauer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

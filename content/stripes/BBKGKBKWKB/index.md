@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dt76db22k1y3k1db3k1w2k1db10~x2/">Canberra, City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dt76db22k1y3k1db3k1w2k1db10~x2/"><img src="/variants/s10/dt76db22k1y3k1db3k1w2k1db10~x2/sett.png" alt="Canberra, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canberra-city-of-2/">Canberra, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canberra-city-of-2/"><img src="/variants/s10/dt76db22k1y3k1db3k1w2k1db10~x2/sett.png" alt="Canberra, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

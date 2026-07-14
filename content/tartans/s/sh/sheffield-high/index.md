@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lb5db12g8lb4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbgw/">WBGW</a></nav>
 Its design is pattern [WBGW](/stripes/wbgw/) — the page of every tartan sharing this colour sequence.
 
 The **Sheffield High** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Sheffield High** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb5db12g8lb4/">Sheffield High</a></td><td><code>LB/5 DB12 G8 LB/4</code></td><td>49</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb5db12g8lb4/"><img src="/variants/s4/lb5db12g8lb4/sett.png" alt="Sheffield High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/lb5db12g8lb4/">Sheffield High</a></td><td><code>LB/5 DB12 G8 LB/4</code></td><td>49</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/lb5db12g8lb4/"><img src="/variants/s4/lb5db12g8lb4/sett.png" alt="Sheffield High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/lb6db6g6r1~x2/"><circle cx="143.9" cy="297.5" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/variants/s4/b6db6g6r1~x2/"><circle cx="184.2" cy="314.8" r="4" fill="#3465a4"><title>Unnamed No 40</title></circle></a><a href="/variants/s4/t6db6g6r1~x2~t2503227-db1406275-r2109032/"><circle cx="195.3" cy="322.4" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><a href="/variants/s4/b1db5b5w1~x4/"><circle cx="348.9" cy="325.1" r="4" fill="#3465a4"><title>Manx, Cornaa</title></circle></a><a href="/variants/s6/db12g8lb4g8db12lb5/"><circle cx="225.7" cy="343.2" r="4" fill="#3465a4"><title>Sheffield High School</title></circle></a><a href="/variants/s5/lb3w10db10g10r2~x4/"><circle cx="76.6" cy="268.7" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="260.7" cy="262.7" r="4" fill="#3465a4"><title>Unidentified 10</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="260.3" cy="259.4" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s4/g3db3dp4w1~x4/"><circle cx="161.6" cy="332.5" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="255.5" cy="333.2" r="4" fill="#3465a4"><title>Agnew</title></circle></a><circle cx="201.6" cy="351.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/lb6db6g6r1~x2/"><circle cx="143.9" cy="297.3" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/variants/s4/b6db6g6r1~x2/"><circle cx="184.1" cy="314.7" r="4" fill="#3465a4"><title>Unnamed No 40</title></circle></a><a href="/variants/s4/t6db6g6r1~x2~t2503227-db1406275-r2109032/"><circle cx="195.1" cy="322.3" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><a href="/variants/s4/b1db5b5w1~x4/"><circle cx="349.2" cy="325.2" r="4" fill="#3465a4"><title>Manx, Cornaa</title></circle></a><a href="/variants/s6/db12g8lb4g8db12lb5/"><circle cx="225.7" cy="343.2" r="4" fill="#3465a4"><title>Sheffield High School</title></circle></a><a href="/variants/s5/lb3w10db10g10r2~x4/"><circle cx="76.5" cy="268.3" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="261.0" cy="262.8" r="4" fill="#3465a4"><title>Unidentified 10</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="260.6" cy="259.5" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s4/g3db3dp4w1~x4/"><circle cx="161.4" cy="332.4" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="255.8" cy="333.3" r="4" fill="#3465a4"><title>Agnew</title></circle></a><circle cx="201.5" cy="351.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

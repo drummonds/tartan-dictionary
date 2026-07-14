@@ -8,10 +8,10 @@ crumbs:
 - name: "University of North Texas"
   url: "/tartans/u/un/university-of-north-texas-2/"
 - name: "University of North Texas"
-  url: "/setts/k1gi3w3g15k1g3gi2k1gi1lg1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1gi3w3g15k1g3gi2k1gi1lg1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/university-of-north-texas-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWGKGGKGYW](/stripes/kgwgkggkgyw/).
 
 Part of the [University of North Texas](/tartans/u/un/university-of-north-texas-2/) tartan — the named design grouping this sett with its other cloths.

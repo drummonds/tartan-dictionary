@@ -10,10 +10,10 @@ crumbs:
 - name: "West Lothian/Linlithgowshire"
   url: "/tartans/w/we/west-lothian-linlithgowshire/"
 - name: "West Lothian/Linlithgowshire"
-  url: "/setts/g40k8g4k8g4dr14b64lb9b3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g40k8g4k8g4dr14b64lb9b3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/west-lothian-linlithgowshire/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBGKGKG](/stripes/bwbbgkgkg/).
 
 Part of the [West Lothian/Linlithgowshire](/tartans/w/we/west-lothian-linlithgowshire/) tartan — the named design grouping this sett with its other cloths.

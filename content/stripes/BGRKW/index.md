@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db4y4r33k30w2~x2/">Wormeck (2013) Germany</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db4y4r33k30w2~x2/"><img src="/variants/s5/db4y4r33k30w2~x2/sett.png" alt="Wormeck (2013) Germany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/wormeck-german/">Wormeck German</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/wormeck-german/"><img src="/variants/s5/db4y4r33k30w2~x2/sett.png" alt="Wormeck German sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

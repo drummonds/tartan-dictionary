@@ -8,17 +8,20 @@ crumbs:
   url: "/clan/macan/"
 - name: "Macan of Lurgyvallan"
   url: "/families/macan-of-lurgyvallan/"
+aliases:
+- "/setts/r10k1r4g6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grkr/">GRKR</a></nav>
 A tartan of the [Macan of Lurgyvallan](/families/macan-of-lurgyvallan/) family.
-Its design is pattern [KRGRKR](/stripes/krgrkr/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [GRKR](/stripes/grkr/) — the page of every tartan sharing this colour sequence.
 
 The **Macan, of Lurgyvallan** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r10k1r4g6/">Macan, of Lurgyvallan</a></td><td><code>R/20 K2 R8 G12 R8 K/2</code></td><td>52</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r10k1r4g6/"><img src="/variants/s4/r10k1r4g6~x2/sett.png" alt="Macan, of Lurgyvallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r10k1r4g6~x2/">Macan, of Lurgyvallan</a></td><td><code>R/20 K2 R8 G/12</code></td><td>52</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r10k1r4g6~x2/"><img src="/variants/s4/r10k1r4g6~x2/sett.png" alt="Macan, of Lurgyvallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="348.9" cy="250.0" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="385.1" cy="258.3" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="465.5" cy="281.7" r="4" fill="#3465a4"><title>MacGregor of Glenstrae</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="480.1" cy="176.2" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="240.0" cy="210.6" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="343.6" cy="233.7" r="4" fill="#3465a4"><title>Menzies 1819</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="435.4" cy="180.8" r="4" fill="#3465a4"><title>Unidentified Cant</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="324.2" cy="234.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s4/r38g2r5g16/"><circle cx="523.5" cy="218.3" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/"><circle cx="369.7" cy="234.4" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan</title></circle></a><circle cx="378.5" cy="228.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="349.4" cy="250.2" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="385.7" cy="258.5" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="466.3" cy="282.1" r="4" fill="#3465a4"><title>MacGregor of Glenstrae</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="481.1" cy="176.5" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="240.6" cy="210.5" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="344.2" cy="233.8" r="4" fill="#3465a4"><title>Menzies 1819</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="436.3" cy="181.0" r="4" fill="#3465a4"><title>Unidentified Cant</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="324.7" cy="234.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s4/r38g2r5g16/"><circle cx="524.5" cy="218.8" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/"><circle cx="370.6" cy="234.7" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan</title></circle></a><circle cx="379.4" cy="228.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

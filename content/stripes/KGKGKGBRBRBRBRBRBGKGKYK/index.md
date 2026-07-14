@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/k3dy2k6g3k3g21db18r1db2r1db2r3db2r1db2r1db18g21k3g3k6lr2k3~x2/">Wood (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/k3dy2k6g3k3g21db18r1db2r1db2r3db2r1db2r1db18g21k3g3k6lr2k3~x2/"><img src="/variants/s23/k3dy2k6g3k3g21db18r1db2r1db2r3db2r1db2r1db18g21k3g3k6lr2k3~x2/sett.png" alt="Wood (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s23/k3dy2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6lr2k3~x2/">Wood Clan/Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/k3dy2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6lr2k3~x2/"><img src="/variants/s23/k3dy2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6lr2k3~x2/sett.png" alt="Wood Clan/Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/wood-2/">Wood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/wood-2/"><img src="/variants/s23/k3dy2k6g3k3g21db18r1db2r1db2r3db2r1db2r1db18g21k3g3k6lr2k3~x2/sett.png" alt="Wood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

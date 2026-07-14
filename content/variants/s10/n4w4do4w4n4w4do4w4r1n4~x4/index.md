@@ -12,10 +12,10 @@ crumbs:
 - name: "Brook"
   url: "/tartans/b/br/brook/"
 - name: "Brook (Check)"
-  url: "/setts/n4w4do4w4n4w4do4w4r1n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n4w4do4w4n4w4do4w4r1n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brook/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWBWBWBWB](/stripes/brwbwbwbwb/).
 
 Part of the [Brook](/tartans/b/br/brook/) tartan — the named design grouping this sett with its other cloths.

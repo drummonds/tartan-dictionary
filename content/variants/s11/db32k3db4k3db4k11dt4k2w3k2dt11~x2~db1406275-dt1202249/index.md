@@ -8,10 +8,10 @@ crumbs:
 - name: "Dawson-Nunes"
   url: "/tartans/d/da/dawson-nunes/"
 - name: "Dawson-Nunes (Personal)"
-  url: "/setts/db32k3db4k3db4k11dt4k2w3k2dt11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db32k3db4k3db4k11dt4k2w3k2dt11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dawson-nunes/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKWKB](/stripes/bkbkbkbkwkb/).
 
 Part of the [Dawson-Nunes](/tartans/d/da/dawson-nunes/) tartan — the named design grouping this sett with its other cloths.

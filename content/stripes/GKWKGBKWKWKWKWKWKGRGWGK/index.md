@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/">Abbotsford Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/"><img src="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/sett.png" alt="Abbotsford Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5~x2/">Abbotsford Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5~x2/"><img src="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5~x2/sett.png" alt="Abbotsford Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/abbotsford/">Abbotsford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/abbotsford/"><img src="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/sett.png" alt="Abbotsford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

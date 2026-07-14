@@ -8,10 +8,10 @@ crumbs:
 - name: "St. Andrews New Golf Club"
   url: "/tartans/s/st/st-andrews-new-golf-club/"
 - name: "St. Andrews New Golf Club"
-  url: "/setts/dp4db18r2db2r2db9g20db3g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4db18r2db2r2db9g20db3g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-andrews-new-golf-club/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBRBGBG](/stripes/bbrbrbgbg/).
 
 Part of the [St. Andrews New Golf Club](/tartans/s/st/st-andrews-new-golf-club/) tartan — the named design grouping this sett with its other cloths.

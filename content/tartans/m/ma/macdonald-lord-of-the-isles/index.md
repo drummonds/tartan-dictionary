@@ -4,16 +4,22 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r38g2r5g16/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgr/">GRGR</a></nav>
 Its design is pattern [GRGR](/stripes/grgr/) — the page of every tartan sharing this colour sequence.
 
-The **MacDonald Lord of the Isles** tartan is recorded as a single sett.
+The **MacDonald Lord of the Isles** tartan is one sett, recorded at 2 scales — the same proportion woven
+finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r38g2r5g16/">MacDonald Lord of the Isles</a></td><td><code>R/38 G2 R5 G/16</code></td><td>68</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r38g2r5g16/"><img src="/variants/s4/r38g2r5g16/sett.png" alt="MacDonald Lord of the Isles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r38g2r5g16/">MacDonald Lord of the Isles</a></td><td><code>R/38 G2 R5 G/16</code></td><td>68</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r38g2r5g16/"><img src="/variants/s4/r38g2r5g16/sett.png" alt="MacDonald Lord of the Isles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s4/r38g2r5g16/">MacDonald Lord of the Isles</a></td><td><code>R/38 G2 R5 G/16</code></td><td>68</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s4/r38g2r5g16~x2/">MacDonald Lord of the Isles</a></td><td><code>R/76 G4 R10 G/32</code></td><td>136</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s4/r38g2r5g16/">MacDonald Lord of the Isles</a> · <a href="/variants/s4/r38g2r5g16~x2/">MacDonald Lord of the Isles</a></td></tr>
 </tbody>
 </table>
@@ -27,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="404.9" cy="290.2" r="4" fill="#3465a4"><title>Applecross</title></circle></a><a href="/variants/s4/g16r1g2r11~x8/"><circle cx="442.7" cy="244.6" r="4" fill="#3465a4"><title>Middleton</title></circle></a><a href="/variants/s4/g75r2g4r40~x2/"><circle cx="505.4" cy="202.4" r="4" fill="#3465a4"><title>Duke of Windsor</title></circle></a><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="396.5" cy="144.9" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="389.9" cy="142.0" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle</title></circle></a><a href="/variants/s6/r18g9r2g3k1w1~x4/"><circle cx="355.5" cy="148.2" r="4" fill="#3465a4"><title>MacGregor of Cardney</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="352.2" cy="185.5" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><a href="/variants/s6/r36g18r4g6k1w2~x2/"><circle cx="392.5" cy="123.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s7/r21g3r21g16y3w2y3~x2/"><circle cx="372.7" cy="209.2" r="4" fill="#3465a4"><title>Claus of the North Pole</title></circle></a><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="378.5" cy="228.3" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan</title></circle></a><circle cx="523.5" cy="218.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="405.5" cy="290.5" r="4" fill="#3465a4"><title>Applecross</title></circle></a><a href="/variants/s4/g16r1g2r11~x8/"><circle cx="443.5" cy="245.0" r="4" fill="#3465a4"><title>Middleton</title></circle></a><a href="/variants/s4/g75r2g4r40~x2/"><circle cx="506.4" cy="202.8" r="4" fill="#3465a4"><title>Duke of Windsor</title></circle></a><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="397.5" cy="145.1" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="390.8" cy="142.2" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle</title></circle></a><a href="/variants/s6/r18g9r2g3k1w1~x4/"><circle cx="356.3" cy="148.3" r="4" fill="#3465a4"><title>MacGregor of Cardney</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="352.8" cy="185.6" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><a href="/variants/s6/r36g18r4g6k1w2~x2/"><circle cx="393.5" cy="124.0" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s7/r21g3r21g16y3w2y3~x2/"><circle cx="373.3" cy="209.3" r="4" fill="#3465a4"><title>Claus of the North Pole</title></circle></a><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="379.4" cy="228.5" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan</title></circle></a><circle cx="524.5" cy="218.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/">Miller</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><img src="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/sett.png" alt="Miller sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/miller/">Miller</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/miller/"><img src="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/sett.png" alt="Miller sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/">Prince George's Police Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/"><img src="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/sett.png" alt="Prince George's Police Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/prince-george-s-police/">Prince George's Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-george-s-police/"><img src="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/sett.png" alt="Prince George's Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

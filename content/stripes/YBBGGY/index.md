@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/ly4dg30g15db5t10ly4~x2/">MPS Emerald Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/ly4dg30g15db5t10ly4~x2/"><img src="/variants/s6/ly4dg30g15db5t10ly4~x2/sett.png" alt="MPS Emerald Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mp/mps-emerald-society/">MPS Emerald Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mp/mps-emerald-society/"><img src="/variants/s6/ly4dg30g15db5t10ly4~x2/sett.png" alt="MPS Emerald Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

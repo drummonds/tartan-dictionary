@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp20lb8g8db8dp33r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwgbbr/">BWGBBR</a></nav>
 Its design is pattern [BWGBBR](/stripes/bwgbbr/) — the page of every tartan sharing this colour sequence.
 
 The **McIntosh, Stuart** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **McIntosh, Stuart** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp20lb8g8db8dp33r3/">McIntosh, Stuart</a></td><td><code>DP/40 LB16 G16 DB16 DP66 R/6</code></td><td>274</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp20lb8g8db8dp33r3/"><img src="/variants/s6/dp20lb8g8db8dp33r3~x2/sett.png" alt="McIntosh, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/">McIntosh, Stuart</a></td><td><code>DP/40 LB16 G16 DB16 DP66 R/6</code></td><td>274</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><img src="/variants/s6/dp20lb8g8db8dp33r3~x2/sett.png" alt="McIntosh, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/"><circle cx="309.5" cy="137.0" r="4" fill="#3465a4"><title>Brigid Mhairi</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="276.7" cy="146.5" r="4" fill="#3465a4"><title>Cramer</title></circle></a><a href="/variants/s6/dp46b15k12o8g8dp8~x2/"><circle cx="248.3" cy="198.3" r="4" fill="#3465a4"><title>Haut</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="371.4" cy="209.7" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s5/dp46k6g9lo9r4/"><circle cx="309.6" cy="151.1" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="261.0" cy="165.9" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="377.7" cy="211.1" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/variants/s4/n25k5db5dp3~x2/"><circle cx="378.6" cy="215.1" r="4" fill="#3465a4"><title>Lord Willy's</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="293.5" cy="215.1" r="4" fill="#3465a4"><title>Woodcock</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="274.5" cy="192.1" r="4" fill="#3465a4"><title>Telfer, Brian William</title></circle></a><circle cx="361.4" cy="198.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/"><circle cx="310.3" cy="137.0" r="4" fill="#3465a4"><title>Brigid Mhairi</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="277.5" cy="146.4" r="4" fill="#3465a4"><title>Cramer</title></circle></a><a href="/variants/s6/dp46b15k12o8g8dp8~x2/"><circle cx="248.9" cy="198.3" r="4" fill="#3465a4"><title>Haut</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="372.2" cy="209.8" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s5/dp46k6g9lo9r4/"><circle cx="310.5" cy="151.1" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="261.6" cy="165.7" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="378.5" cy="211.3" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/variants/s4/n25k5db5dp3~x2/"><circle cx="379.5" cy="215.3" r="4" fill="#3465a4"><title>Lord Willy's</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="294.0" cy="215.1" r="4" fill="#3465a4"><title>Woodcock</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="275.0" cy="192.0" r="4" fill="#3465a4"><title>Telfer, Brian William</title></circle></a><circle cx="362.1" cy="198.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

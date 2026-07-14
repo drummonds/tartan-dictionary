@@ -12,10 +12,10 @@ crumbs:
 - name: "TIlted"
   url: "/tartans/t/ti/tilted/"
 - name: "TIlted Kilt"
-  url: "/setts/r66db2k11y4k2w4k11g2r8k2r8w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r66db2k11y4k2w4k11g2r8k2r8w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ti/tilted/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKWKGRKRW](/stripes/rbkgkwkgrkrw/).
 
 Part of the [TIlted](/tartans/t/ti/tilted/) tartan — the named design grouping this sett with its other cloths.

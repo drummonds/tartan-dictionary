@@ -8,10 +8,10 @@ crumbs:
 - name: "Ancient Caledonian Society"
   url: "/tartans/a/an/ancient-caledonian-society/"
 - name: "Caledonian Society Ancient Artifact Tartan"
-  url: "/setts/r40g16y2k8lb4w1db5w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r40g16y2k8lb4w1db5w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/ancient-caledonian-society/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGKWWBW](/stripes/rggkwwbw/).
 
 Part of the [Ancient Caledonian Society](/tartans/a/an/ancient-caledonian-society/) tartan — the named design grouping this sett with its other cloths.

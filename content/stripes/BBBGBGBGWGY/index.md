@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lo40y10w6dy10do6dy4do6dy4do60n34db11/">Angels' Share, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lo40y10w6dy10do6dy4do6dy4do60n34db11/"><img src="/variants/s11/lo40y10w6dy10do6dy4do6dy4do60n34db11/sett.png" alt="Angels' Share, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/angels-share-the/">Angels' Share, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/angels-share-the/"><img src="/variants/s11/lo40y10w6dy10do6dy4do6dy4do60n34db11/sett.png" alt="Angels' Share, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

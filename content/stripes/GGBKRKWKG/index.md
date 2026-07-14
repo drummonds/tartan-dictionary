@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/">Kings Mountain 1780</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/"><img src="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/sett.png" alt="Kings Mountain 1780 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/y9k1lb4k1r40k1n4g9y1~x2/">Kings Mountain 1780 (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y9k1lb4k1r40k1n4g9y1~x2/"><img src="/variants/s9/y9k1lb4k1r40k1n4g9y1~x2/sett.png" alt="Kings Mountain 1780 (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kings-mountain-1780/">Kings Mountain 1780</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kings-mountain-1780/"><img src="/variants/s9/y9k1lb4k1r40k1n4g9y1~x2/sett.png" alt="Kings Mountain 1780 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

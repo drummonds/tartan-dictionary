@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1~x2~loi2806047-lo2706066/">Highland Aircraft</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1~x2~loi2806047-lo2706066/"><img src="/variants/s20/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1~x2~loi2806047-lo2706066/sett.png" alt="Highland Aircraft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-aircraft-2/">Highland Aircraft</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-aircraft-2/"><img src="/variants/s20/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1~x2~loi2806047-lo2706066/sett.png" alt="Highland Aircraft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

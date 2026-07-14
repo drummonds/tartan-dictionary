@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w4n15db8k4db28k2db4w2/">Kelvinside Academy (School)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w4n15db8k4db28k2db4w2/"><img src="/variants/s8/w4n15db8k4db28k2db4w2/sett.png" alt="Kelvinside Academy (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kelvinside-academy/">Kelvinside Academy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kelvinside-academy/"><img src="/variants/s8/w4n15db8k4db28k2db4w2/sett.png" alt="Kelvinside Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

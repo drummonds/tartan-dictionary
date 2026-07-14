@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w5lb2w25lb25w2lb5~x2/">Erskine Blue Dress Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w5lb2w25lb25w2lb5~x2/"><img src="/variants/s6/w5lb2w25lb25w2lb5~x2/sett.png" alt="Erskine Blue Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w6lb2w29lb29w2lb6~x2/">Erskine, Lt Blue (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w6lb2w29lb29w2lb6~x2/"><img src="/variants/s6/w6lb2w29lb29w2lb6~x2/sett.png" alt="Erskine, Lt Blue (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/er/erskine-blue-dress/">Erskine Blue Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-blue-dress/"><img src="/variants/s6/w5lb2w25lb25w2lb5~x2/sett.png" alt="Erskine Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/er/erskine-lt/">Erskine, Lt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-lt/"><img src="/variants/s6/w6lb2w29lb29w2lb6~x2/sett.png" alt="Erskine, Lt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w12lo12w12k5lo45k5lb5lo10/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wywkykwy/">WYWKYKWY</a></nav>
 Its design is pattern [WYWKYKWY](/stripes/wywkykwy/) — the page of every tartan sharing this colour sequence.
 
 The **Tennessee Volunteer** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Tennessee Volunteer** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w12lo12w12k5lo45k5lb5lo10/">Tennessee Volunteer</a></td><td><code>W/24 LO24 W24 K10 LO90 K10 LB10 LO/20</code></td><td>380</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w12lo12w12k5lo45k5lb5lo10/"><img src="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/sett.png" alt="Tennessee Volunteer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/">Tennessee Volunteer</a></td><td><code>W/24 LO24 W24 K10 LO90 K10 LB10 LO/20</code></td><td>380</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/"><img src="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/sett.png" alt="Tennessee Volunteer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="303.3" cy="151.1" r="4" fill="#3465a4"><title>Dobrain</title></circle></a><a href="/variants/s5/o13w3o1k3w1~x6/"><circle cx="358.7" cy="161.8" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="372.9" cy="169.6" r="4" fill="#3465a4"><title>Guzzo Dress</title></circle></a><a href="/variants/s10/r22lb3ly14k3ly14k3ly14y3ly14y3~x2/"><circle cx="248.6" cy="184.1" r="4" fill="#3465a4"><title>Sutherland of Duffus</title></circle></a><a href="/variants/s7/lb12lo75k22w12k22w16lb8/"><circle cx="177.9" cy="176.9" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/variants/s6/lo26k10lo3g3lo3k3~x6/"><circle cx="341.8" cy="171.1" r="4" fill="#3465a4"><title>Volkswagen Orange</title></circle></a><a href="/variants/s6/g3lo3k10lo26k3lo3~x2/"><circle cx="341.8" cy="171.1" r="4" fill="#3465a4"><title>Volkswagen Orange Trim</title></circle></a><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><circle cx="263.7" cy="166.6" r="4" fill="#3465a4"><title>MacPherson Dress Burgandy</title></circle></a><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/"><circle cx="260.1" cy="132.2" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s7/w20g2w20k8r20g3r2~x2/"><circle cx="214.2" cy="174.6" r="4" fill="#3465a4"><title>Bull-Dog Sauce</title></circle></a><circle cx="299.4" cy="171.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.0" cy="151.1" r="4" fill="#3465a4"><title>Dobrain</title></circle></a><a href="/variants/s5/o13w3o1k3w1~x6/"><circle cx="359.7" cy="161.9" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="373.8" cy="169.7" r="4" fill="#3465a4"><title>Guzzo Dress</title></circle></a><a href="/variants/s10/r22lb3ly14k3ly14k3ly14y3ly14y3~x2/"><circle cx="249.1" cy="184.0" r="4" fill="#3465a4"><title>Sutherland of Duffus</title></circle></a><a href="/variants/s7/lb12lo75k22w12k22w16lb8/"><circle cx="178.3" cy="176.7" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/variants/s6/lo26k10lo3g3lo3k3~x6/"><circle cx="342.7" cy="171.2" r="4" fill="#3465a4"><title>Volkswagen Orange</title></circle></a><a href="/variants/s6/g3lo3k10lo26k3lo3~x2/"><circle cx="342.7" cy="171.2" r="4" fill="#3465a4"><title>Volkswagen Orange Trim</title></circle></a><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><circle cx="264.3" cy="166.4" r="4" fill="#3465a4"><title>MacPherson Dress Burgandy</title></circle></a><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/"><circle cx="260.7" cy="132.1" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s7/w20g2w20k8r20g3r2~x2/"><circle cx="214.7" cy="174.4" r="4" fill="#3465a4"><title>Bull-Dog Sauce</title></circle></a><circle cx="300.1" cy="171.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

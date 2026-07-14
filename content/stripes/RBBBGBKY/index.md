@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/">Royal College of General Practitioners</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><img src="/variants/s8/lo11k66n32dg11n10db6n10o4/sett.png" alt="Royal College of General Practitioners sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-college-of-general-practitioners/">Royal College of General Practitioners</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-college-of-general-practitioners/"><img src="/variants/s8/lo11k66n32dg11n10db6n10o4/sett.png" alt="Royal College of General Practitioners sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

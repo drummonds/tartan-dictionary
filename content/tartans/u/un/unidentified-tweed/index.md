@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db4w1db12g12db1g4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbgbg/">BWBGBG</a></nav>
 Its design is pattern [BWBGBG](/stripes/bwbgbg/) — the page of every tartan sharing this colour sequence.
 
 The **Unidentified Tweed** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unidentified Tweed** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db4w1db12g12db1g4/">Unidentified Tweed</a></td><td><code>G/8 DB2 G24 DB24 W2 DB/8</code></td><td>120</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db4w1db12g12db1g4/"><img src="/variants/s6/db4w1db12g12db1g4~x2/sett.png" alt="Unidentified Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db4w1db12g12db1g4~x2/">Unidentified Tweed</a></td><td><code>DB/8 W2 DB24 G24 DB2 G/8</code></td><td>120</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db4w1db12g12db1g4~x2/"><img src="/variants/s6/db4w1db12g12db1g4~x2/sett.png" alt="Unidentified Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db5w3db36g38y5g5~x2/"><circle cx="317.8" cy="216.9" r="4" fill="#3465a4"><title>St. Andrew Society, Sao Paulo</title></circle></a><a href="/variants/s6/db6g2db29g29db2g6~x2/"><circle cx="406.5" cy="243.0" r="4" fill="#3465a4"><title>Harmony 12</title></circle></a><a href="/variants/s6/db2g15do3db7g7db2~x4/"><circle cx="385.7" cy="275.3" r="4" fill="#3465a4"><title>Green Highland, The</title></circle></a><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="270.6" cy="226.9" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="344.1" cy="269.8" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s8/db1r1g6db6y1db6r1g1~x2/"><circle cx="297.7" cy="224.2" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="335.1" cy="200.0" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="334.7" cy="205.8" r="4" fill="#3465a4"><title>Connaught</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="290.5" cy="248.2" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s6/db8dr4db24g35lb4g8/"><circle cx="319.9" cy="246.3" r="4" fill="#3465a4"><title>Heritage Tartan, The</title></circle></a><circle cx="351.1" cy="244.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db5w3db36g38y5g5~x2/"><circle cx="318.2" cy="217.0" r="4" fill="#3465a4"><title>St. Andrew Society, Sao Paulo</title></circle></a><a href="/variants/s6/db6g2db29g29db2g6~x2/"><circle cx="407.1" cy="243.3" r="4" fill="#3465a4"><title>Harmony 12</title></circle></a><a href="/variants/s6/db2g15do3db7g7db2~x4/"><circle cx="386.2" cy="275.5" r="4" fill="#3465a4"><title>Green Highland, The</title></circle></a><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="270.9" cy="226.9" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="344.6" cy="270.0" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s8/db1r1g6db6y1db6r1g1~x2/"><circle cx="298.2" cy="224.3" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="335.7" cy="200.1" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="335.3" cy="205.9" r="4" fill="#3465a4"><title>Connaught</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="290.8" cy="248.3" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s6/db8dr4db24g35lb4g8/"><circle cx="320.3" cy="246.4" r="4" fill="#3465a4"><title>Heritage Tartan, The</title></circle></a><circle cx="351.6" cy="244.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

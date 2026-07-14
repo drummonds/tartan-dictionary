@@ -10,10 +10,10 @@ crumbs:
 - name: "Brown Castlehaven"
   url: "/tartans/b/br/brown-castlehaven/"
 - name: "Brown Castlehaven Artifact Tartan"
-  url: "/setts/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brown-castlehaven/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBWKGKWKGRKRW](/stripes/krbwkgkwkgrkrw/).
 
 Part of the [Brown Castlehaven](/tartans/b/br/brown-castlehaven/) tartan — the named design grouping this sett with its other cloths.

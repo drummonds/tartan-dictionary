@@ -10,10 +10,10 @@ crumbs:
 - name: "Berwick -upon-Tweed"
   url: "/tartans/b/be/berwick-upon-tweed/"
 - name: "Berwick -upon-Tweed (asymmetric)"
-  url: "/setts/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/berwick-upon-tweed/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYGYGYBKGKGKRW](/stripes/rygygybkgkgkrw/).
 
 Part of the [Berwick -upon-Tweed](/tartans/b/be/berwick-upon-tweed/) tartan — the named design grouping this sett with its other cloths.

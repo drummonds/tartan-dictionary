@@ -8,10 +8,10 @@ crumbs:
 - name: "Heriot"
   url: "/tartans/h/he/heriot/"
 - name: "Heriot"
-  url: "/setts/r20db2r2db2ly3db12w18db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r20db2r2db2ly3db12w18db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/heriot/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBYBRBR](/stripes/bwbybrbr/).
 
 Part of the [Heriot](/tartans/h/he/heriot/) tartan — the named design grouping this sett with its other cloths.

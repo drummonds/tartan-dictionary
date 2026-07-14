@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/logan/"
 - name: "Logan"
   url: "/families/logan/"
+aliases:
+- "/setts/g10b4g1b4g15r4g1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbgrg/">GBGBGRG</a></nav>
 A tartan of the [Logan](/families/logan/) family.
 Its design is pattern [GBGBGRG](/stripes/gbgbgrg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Logan** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g10b4g1b4g15r4g1/">Logan</a></td><td><code>G/40 B16 G4 B16 G60 R16 G/4</code></td><td>268</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g10b4g1b4g15r4g1/"><img src="/variants/s7/g10b4g1b4g15r4g1~x4/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g10b4g1b4g15r4g1~x4/">Logan</a></td><td><code>G/40 B16 G4 B16 G60 R16 G/4</code></td><td>268</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g10b4g1b4g15r4g1~x4/"><img src="/variants/s7/g10b4g1b4g15r4g1~x4/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="405.8" cy="160.9" r="4" fill="#3465a4"><title>Island Weavers</title></circle></a><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/"><circle cx="453.0" cy="234.9" r="4" fill="#3465a4"><title>Crow</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.6" cy="200.5" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/"><circle cx="360.9" cy="215.1" r="4" fill="#3465a4"><title>Ayrton Laoch</title></circle></a><a href="/variants/s10/r2g12dy2g12db3g2db2g2db4r2~x2/"><circle cx="342.4" cy="214.2" r="4" fill="#3465a4"><title>Ayrton of Laoch</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="435.1" cy="200.8" r="4" fill="#3465a4"><title>Gayre Bodyguard</title></circle></a><a href="/variants/s8/g18r6g75db6g13o35g12db6/"><circle cx="467.6" cy="216.7" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="351.3" cy="196.2" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/g9ri4g1ri4g15r4g1~x4~ri2806019-r2109032/"><circle cx="449.4" cy="222.6" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="449.1" cy="187.8" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><circle cx="463.8" cy="230.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="406.7" cy="161.1" r="4" fill="#3465a4"><title>Island Weavers</title></circle></a><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/"><circle cx="453.7" cy="235.2" r="4" fill="#3465a4"><title>Crow</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="326.2" cy="200.6" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/"><circle cx="361.5" cy="215.3" r="4" fill="#3465a4"><title>Ayrton Laoch</title></circle></a><a href="/variants/s10/r2g12dy2g12db3g2db2g2db4r2~x2/"><circle cx="343.0" cy="214.3" r="4" fill="#3465a4"><title>Ayrton of Laoch</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="435.9" cy="201.1" r="4" fill="#3465a4"><title>Gayre Bodyguard</title></circle></a><a href="/variants/s8/g18r6g75db6g13o35g12db6/"><circle cx="468.2" cy="217.1" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="351.9" cy="196.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s7/g9ri4g1ri4g15r4g1~x4~ri2806019-r2109032/"><circle cx="450.1" cy="222.9" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="449.8" cy="188.1" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><circle cx="464.5" cy="230.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

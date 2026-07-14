@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s33/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2~x2/">Hawick Corporate District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s33/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2~x2/"><img src="/variants/s33/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2~x2/sett.png" alt="Hawick Corporate District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hawick-corporate/">Hawick Corporate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hawick-corporate/"><img src="/variants/s33/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2~x2/sett.png" alt="Hawick Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

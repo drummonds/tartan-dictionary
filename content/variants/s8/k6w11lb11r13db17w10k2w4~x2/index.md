@@ -10,22 +10,22 @@ crumbs:
 - name: "Edinburgh Military Tattoo Dress"
   url: "/tartans/e/ed/edinburgh-military-tattoo-dress/"
 - name: "Edinburgh Tatttoo Dress (Corporate)"
-  url: "/setts/k6w11lb11r13db17w10k2w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6w11lb11r13db17w10k2w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-military-tattoo-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWWRBWKW](/stripes/kwwrbwkw/).
 
 Part of the [Edinburgh Military Tattoo Dress](/tartans/e/ed/edinburgh-military-tattoo-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1223](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1223)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/1223/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1223/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2002 — Edinburgh Tatttoo Dress (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1223">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>No further details. Woven sample.</em></li>
+<li>pre 2002 — Edinburgh Tatttoo Dress (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1223/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>No further details. Woven sample.</em></li>
 <li>undated — Edinburgh Military Tattoo Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1084">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0596FA;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #0596FA"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #DC0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C4084;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C4084"></span><br><em>Designed by D.C. Dalgliesh a weaving firm in Selkirk, c1982. Sample in Scottish Tartans Society archive.</em></li>
 </ul>
 </details>
@@ -40,7 +40,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1223](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

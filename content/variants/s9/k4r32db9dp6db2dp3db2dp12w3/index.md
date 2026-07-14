@@ -10,10 +10,10 @@ crumbs:
 - name: "Rose VS"
   url: "/tartans/r/ro/rose-vs/"
 - name: "Rose VS"
-  url: "/setts/k4r32db9dp6db2dp3db2dp12w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4r32db9dp6db2dp3db2dp12w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/rose-vs/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBBBBBBW](/stripes/krbbbbbbw/).
 
 Part of the [Rose VS](/tartans/r/ro/rose-vs/) tartan — the named design grouping this sett with its other cloths.

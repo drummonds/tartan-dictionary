@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3dg44db27y6r10w3~x2/">Official Glasgow 2014, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><img src="/variants/s6/k3dg44db27y6r10w3~x2/sett.png" alt="Official Glasgow 2014, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/of/official-glasgow-2014-the/">Official Glasgow 2014, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/of/official-glasgow-2014-the/"><img src="/variants/s6/k3dg44db27y6r10w3~x2/sett.png" alt="Official Glasgow 2014, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

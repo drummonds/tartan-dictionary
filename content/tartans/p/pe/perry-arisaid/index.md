@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Perry"
   url: "/clan/perry/"
+aliases:
+- "/setts/lb65r27w2lb4dy5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwwrw/">GWWRW</a></nav>
 A tartan of [Clan Perry](/clan/perry/).
 Its design is pattern [GWWRW](/stripes/gwwrw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Perry Arisaid** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb65r27w2lb4dy5/">Perry Arisaid</a></td><td><code>LB/130 R54 W4 LB8 DY/10</code></td><td>272</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb65r27w2lb4dy5/"><img src="/variants/s5/lb65r27w2lb4dy5~x2/sett.png" alt="Perry Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/lb65r27w2lb4dy5~x2/">Perry Arisaid</a></td><td><code>LB/130 R54 W4 LB8 DY/10</code></td><td>272</td><td>1982</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/lb65r27w2lb4dy5~x2/"><img src="/variants/s5/lb65r27w2lb4dy5~x2/sett.png" alt="Perry Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="419.1" cy="122.6" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s5/r32w4db7y2lb2~x5/"><circle cx="409.3" cy="149.5" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s4/r60w28y2lb3~x2/"><circle cx="425.1" cy="161.0" r="4" fill="#3465a4"><title>Willis, H Graham</title></circle></a><a href="/variants/s6/lb48n28w4n28lb48y3~x2/"><circle cx="429.5" cy="257.3" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="370.6" cy="157.8" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="387.8" cy="175.2" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="437.6" cy="83.3" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="353.8" cy="106.0" r="4" fill="#3465a4"><title>Thomas Jean Marc</title></circle></a><a href="/variants/s5/b86g3r3g6r85~x2/"><circle cx="407.1" cy="182.0" r="4" fill="#3465a4"><title>MacNab 2</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="382.0" cy="107.4" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><circle cx="465.4" cy="160.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="420.1" cy="122.8" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s5/r32w4db7y2lb2~x5/"><circle cx="410.2" cy="149.6" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s4/r60w28y2lb3~x2/"><circle cx="426.0" cy="161.1" r="4" fill="#3465a4"><title>Willis, H Graham</title></circle></a><a href="/variants/s6/lb48n28w4n28lb48y3~x2/"><circle cx="429.9" cy="257.5" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="371.2" cy="157.8" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="388.7" cy="175.2" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="438.8" cy="83.4" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.8" cy="105.9" r="4" fill="#3465a4"><title>Thomas Jean Marc</title></circle></a><a href="/variants/s5/b86g3r3g6r85~x2/"><circle cx="407.9" cy="182.1" r="4" fill="#3465a4"><title>MacNab 2</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.0" cy="107.4" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><circle cx="466.3" cy="160.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/">Duke of Edinburgh (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/"><img src="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/sett.png" alt="Duke of Edinburgh (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duke-of-edinburgh/">Duke of Edinburgh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duke-of-edinburgh/"><img src="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/sett.png" alt="Duke of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

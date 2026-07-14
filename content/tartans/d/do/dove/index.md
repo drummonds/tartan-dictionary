@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db33k16g17n3g17k16db15k3w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkgbgkbkw/">BKGBGKBKW</a></nav>
 Its design is pattern [BKGBGKBKW](/stripes/bkgbgkbkw/) — the page of every tartan sharing this colour sequence.
 
 The **Dove** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Dove** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db33k16g17n3g17k16db15k3w3/">Dove</a></td><td><code>DB/66 K32 G34 N6 G34 K32 DB30 K6 W/6</code></td><td>420</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db33k16g17n3g17k16db15k3w3/"><img src="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/sett.png" alt="Dove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/">Dove</a></td><td><code>DB/66 K32 G34 N6 G34 K32 DB30 K6 W/6</code></td><td>420</td><td>2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><img src="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/sett.png" alt="Dove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/t22k12g11y2g11k12t11k2r2~x2/"><circle cx="130.4" cy="181.0" r="4" fill="#3465a4"><title>Huntly Gordon Fancy</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="120.4" cy="175.5" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><circle cx="126.3" cy="169.7" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s8/k4db8k4db8r2g10k1w2~x2/"><circle cx="133.0" cy="185.7" r="4" fill="#3465a4"><title>MacKean</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="117.6" cy="174.3" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/"><circle cx="105.1" cy="187.5" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/"><circle cx="134.7" cy="182.0" r="4" fill="#3465a4"><title>Maresh</title></circle></a><a href="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="120.5" cy="168.9" r="4" fill="#3465a4"><title>Lloyd of Dolobran</title></circle></a><a href="/variants/s6/y1k5g12k12db12w1~x4/"><circle cx="153.4" cy="184.1" r="4" fill="#3465a4"><title>MacNeil 5</title></circle></a><a href="/variants/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="98.7" cy="186.0" r="4" fill="#3465a4"><title>Hunter</title></circle></a><circle cx="142.4" cy="180.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/t22k12g11y2g11k12t11k2r2~x2/"><circle cx="130.7" cy="180.8" r="4" fill="#3465a4"><title>Huntly Gordon Fancy</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="120.7" cy="175.3" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><circle cx="126.6" cy="169.5" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s8/k4db8k4db8r2g10k1w2~x2/"><circle cx="133.4" cy="185.5" r="4" fill="#3465a4"><title>MacKean</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="117.8" cy="174.1" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/"><circle cx="105.4" cy="187.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/"><circle cx="135.0" cy="181.8" r="4" fill="#3465a4"><title>Maresh</title></circle></a><a href="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="120.9" cy="168.7" r="4" fill="#3465a4"><title>Lloyd of Dolobran</title></circle></a><a href="/variants/s6/y1k5g12k12db12w1~x4/"><circle cx="153.8" cy="184.0" r="4" fill="#3465a4"><title>MacNeil 5</title></circle></a><a href="/variants/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="99.0" cy="185.7" r="4" fill="#3465a4"><title>Hunter</title></circle></a><circle cx="142.8" cy="179.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

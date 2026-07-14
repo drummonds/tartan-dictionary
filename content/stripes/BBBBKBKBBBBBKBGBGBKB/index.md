@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3~x4/">Washington, Stockman</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3~x4/"><img src="/variants/s20/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3~x4/sett.png" alt="Washington, Stockman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/washington-stockmens/">Washington Stockmens</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/washington-stockmens/"><img src="/variants/s20/db4n3db4n19k2n3k2n12db4n3db4n3k1n2dy1n2dy1n2k1n3~x4/sett.png" alt="Washington Stockmens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/washington-stockman/">Washington, Stockman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/washington-stockman/"><img src="/variants/s20/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3~x4/sett.png" alt="Washington, Stockman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

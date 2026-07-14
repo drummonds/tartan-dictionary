@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "University of Edinburgh Business Sch"
   url: "/tartans/u/un/university-of-edinburgh-business-sch/"
-- name: "University of Edinburgh Business Sch"
-  url: "/setts/dy2db25r4g4r4w3db3k3db6w2/"
+- name: "University of Edinburgh Business School, The"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy2db25r4g4r4w3db3k3db6w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/university-of-edinburgh-business-sch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRGRWBKBW](/stripes/gbrgrwbkbw/).
 
 Part of the [University of Edinburgh Business Sch](/tartans/u/un/university-of-edinburgh-business-sch/) tartan — the named design grouping this sett with its other cloths.

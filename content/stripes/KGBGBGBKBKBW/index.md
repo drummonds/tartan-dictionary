@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/">Aceo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/"><img src="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/sett.png" alt="Aceo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ac/aceo/">Aceo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ac/aceo/"><img src="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/sett.png" alt="Aceo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

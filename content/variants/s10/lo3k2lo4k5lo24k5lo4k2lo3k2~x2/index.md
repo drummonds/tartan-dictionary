@@ -8,10 +8,10 @@ crumbs:
 - name: "Schranz-Gritte"
   url: "/tartans/s/sc/schranz-gritte/"
 - name: "Schranz-Gritte"
-  url: "/setts/lo3k2lo4k5lo24k5lo4k2lo3k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo3k2lo4k5lo24k5lo4k2lo3k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/schranz-gritte/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYKYKYKY](/stripes/kykykykyky/).
 
 Part of the [Schranz-Gritte](/tartans/s/sc/schranz-gritte/) tartan — the named design grouping this sett with its other cloths.

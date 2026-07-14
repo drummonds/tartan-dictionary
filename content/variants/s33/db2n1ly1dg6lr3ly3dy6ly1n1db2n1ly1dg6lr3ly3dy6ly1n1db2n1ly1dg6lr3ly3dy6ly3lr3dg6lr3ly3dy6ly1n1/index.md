@@ -8,10 +8,10 @@ crumbs:
 - name: "Equorian Olympic Commemorative"
   url: "/tartans/e/eq/equorian-olympic-commemorative/"
 - name: "Equorian Olympic Commemorative Tartan"
-  url: "/setts/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/eq/equorian-olympic-commemorative/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYGYYGYBBBYGYYGYBBBYGYYGYYGYYGYB](/stripes/bbygyygybbbygyygybbbygyygyygyygyb/).
 
 Part of the [Equorian Olympic Commemorative](/tartans/e/eq/equorian-olympic-commemorative/) tartan — the named design grouping this sett with its other cloths.

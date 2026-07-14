@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db1y6db8r1db8g6y1/">Hill of Banchory Primary School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db1y6db8r1db8g6y1/"><img src="/variants/s7/db1y6db8r1db8g6y1~x4~g2408144/sett.png" alt="Hill of Banchory Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hill-of-banchory-primary/">Hill of Banchory Primary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hill-of-banchory-primary/"><img src="/variants/s7/db1y6db8r1db8g6y1~x4~g2408144/sett.png" alt="Hill of Banchory Primary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

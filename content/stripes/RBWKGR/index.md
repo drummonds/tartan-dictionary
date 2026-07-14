@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r36t8w1k5g20r18~x4/">Sinclair</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r36t8w1k5g20r18~x4/"><img src="/variants/s6/r36t8w1k5g20r18~x4/sett.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r28g16k4w1db6r28~x2/">Sinclair (Logan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r28g16k4w1db6r28~x2/"><img src="/variants/s6/r28g16k4w1db6r28~x2/sett.png" alt="Sinclair (Logan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r36t8w1k5dg20r18~x4/">Sinclair of Auldbar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r36t8w1k5dg20r18~x4/"><img src="/variants/s6/r36t8w1k5dg20r18~x4/sett.png" alt="Sinclair of Auldbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sinclair-2/">Sinclair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sinclair-2/"><img src="/variants/s6/r28g16k4w1db6r28~x2/sett.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sinclair-of-auldbar/">Sinclair of Auldbar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sinclair-of-auldbar/"><img src="/variants/s6/r36t8w1k5dg20r18~x4/sett.png" alt="Sinclair of Auldbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

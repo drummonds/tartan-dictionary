@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k4dg10dy4dg10k4g20dg5k2do6k2r10k2w4~x2/">Donegal County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k4dg10dy4dg10k4g20dg5k2do6k2r10k2w4~x2/"><img src="/variants/s13/k4dg10dy4dg10k4g20dg5k2do6k2r10k2w4~x2/sett.png" alt="Donegal County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/donegal-county-crest-range/">Donegal County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/donegal-county-crest-range/"><img src="/variants/s13/k4dg10dy4dg10k4g20dg5k2do6k2r10k2w4~x2/sett.png" alt="Donegal County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/">Russian Scottish (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><img src="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/sett.png" alt="Russian Scottish (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/russian-scottish/">Russian Scottish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/russian-scottish/"><img src="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/sett.png" alt="Russian Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/">Dewar's Highlander</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><img src="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/sett.png" alt="Dewar's Highlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dewar-s-highlander/">Dewar's Highlander</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/dewar-s-highlander/"><img src="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/sett.png" alt="Dewar's Highlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

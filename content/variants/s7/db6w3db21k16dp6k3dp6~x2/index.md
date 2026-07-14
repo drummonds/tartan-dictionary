@@ -8,10 +8,10 @@ crumbs:
 - name: "Heritage of Scotland"
   url: "/tartans/h/he/heritage-of-scotland/"
 - name: "Heritage of Scotland"
-  url: "/setts/db6w3db21k16dp6k3dp6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6w3db21k16dp6k3dp6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/heritage-of-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWB](/stripes/bkbkbwb/).
 
 Part of the [Heritage of Scotland](/tartans/h/he/heritage-of-scotland/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1695](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/2007 — Heritage of Scotland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1695">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>A 'fashion' tartan woven and supplied by the Gold Brothers.</em></li>
-<li>September 2007 — Heritage of Scotland (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7300">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>A 'fashion' tartan that appeared on one the Gold Brothers' many websites. Threadcount supplied by an e-mailed enquiry. Sample seen had been woven in polyviscose. See also Heritage of Wales/Ireland.</em></li>
+<li>September 2007 — Heritage of Scotland (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7300/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>A 'fashion' tartan that appeared on one the Gold Brothers' many websites. Threadcount supplied by an e-mailed enquiry. Sample seen had been woven in polyviscose. See also Heritage of Wales/Ireland.</em></li>
 </ul>
 </details>
 

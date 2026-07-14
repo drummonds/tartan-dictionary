@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/ly12dg4ly24k9ly8dg36dr4/">Harmer (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/ly12dg4ly24k9ly8dg36dr4/"><img src="/variants/s7/ly12dg4ly24k9ly8dg36dr4/sett.png" alt="Harmer (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harmer-2/">Harmer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harmer-2/"><img src="/variants/s7/ly12dg4ly24k9ly8dg36dr4/sett.png" alt="Harmer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Buchanan Dress"
   url: "/tartans/b/bu/buchanan-dress/"
 - name: "Buchanan Dress Blue (Dance)"
-  url: "/setts/w5db16w5db16w33dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5db16w5db16w33dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/buchanan-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
 
 Part of the [Buchanan Dress](/tartans/b/bu/buchanan-dress/) tartan — the named design grouping this sett with its other cloths.

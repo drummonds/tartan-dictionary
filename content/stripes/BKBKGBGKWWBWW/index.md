@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/">North of Scotland Tartan Army</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><img src="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/sett.png" alt="North of Scotland Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/north-of-scotland-tartan-army/">North of Scotland Tartan Army</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/north-of-scotland-tartan-army/"><img src="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/sett.png" alt="North of Scotland Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

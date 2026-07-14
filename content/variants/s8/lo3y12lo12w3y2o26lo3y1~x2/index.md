@@ -8,10 +8,10 @@ crumbs:
 - name: "Desert in Bloom"
   url: "/tartans/d/de/desert-in-bloom/"
 - name: "Desert in Bloom"
-  url: "/setts/lo3y12lo12w3y2o26lo3y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo3y12lo12w3y2o26lo3y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/desert-in-bloom/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYRGWYGY](/stripes/gyrgwygy/).
 
 Part of the [Desert in Bloom](/tartans/d/de/desert-in-bloom/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=919](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Desert in Bloom (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=919">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F88410;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #F88410"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A89448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A89448"></span><br><em>Fashion tartan for Aljeans.</em></li>
-<li>1972 — Desert in Bloom (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7054">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F88410;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #F88410"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A89448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A89448"></span><br><em>Fashion tartan for Aljeans. Aljean - women's clothes retailer in Vancouver Canada traded under Aljean name from 1950-2012.</em></li>
+<li>1972 — Desert in Bloom (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7054/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F88410;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #F88410"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A89448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A89448"></span><br><em>Fashion tartan for Aljeans. Aljean - women's clothes retailer in Vancouver Canada traded under Aljean name from 1950-2012.</em></li>
 </ul>
 </details>
 

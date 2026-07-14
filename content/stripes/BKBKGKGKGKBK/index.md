@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k3db15k9dy3k2dy14k2dy3k9db13k2db3~x2/">McWilliams (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k3db15k9dy3k2dy14k2dy3k9db13k2db3~x2/"><img src="/variants/s12/k3db15k9dy3k2dy14k2dy3k9db13k2db3~x2/sett.png" alt="McWilliams (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcwilliams-3/">McWilliams</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcwilliams-3/"><img src="/variants/s12/k3db15k9dy3k2dy14k2dy3k9db13k2db3~x2/sett.png" alt="McWilliams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

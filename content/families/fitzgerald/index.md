@@ -22,7 +22,7 @@ crumbs:
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fi/fitzgerald-dress/"><img src="w2k1ri3db3ri3r3ri19r3ri3db3ri3db29ly3g29ri3db3ri3r3ri19r3ri3db3ri3k1w2-rev.png" alt="Fitzgerald Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fi/fitzgerald-3/">Fitzgerald</a></td><td>1970</td><td>2</td><td>2</td><td>7.10</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fi/fitzgerald-3/"><img src="/variants/s9/r3t22r3t3k14t14lb3t3w2~x2/sett.png" alt="Fitzgerald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/f/fi/fitzgerald-dress-2/">Fitzgerald dress</a></td><td>1975</td><td>2</td><td>3</td><td>7.29</td></tr>
+<tr><td><a href="/tartans/f/fi/fitzgerald-dress-2/">Fitzgerald dress</a></td><td>1975</td><td>2</td><td>3</td><td>7.25</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fi/fitzgerald-dress-2/"><img src="w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2-rev.png" alt="Fitzgerald dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fi/fitzgerald-hunting-3/">Fitzgerald, hunting</a></td><td>1985</td><td>2</td><td>2</td><td>8.31</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fi/fitzgerald-hunting-3/"><img src="w2db3lb3db13k13db4r2db4g12b3r1-rev.png" alt="Fitzgerald, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

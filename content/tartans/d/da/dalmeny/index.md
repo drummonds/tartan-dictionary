@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/dalmeny/"
 - name: "Dalmeny"
   url: "/families/dalmeny/"
+aliases:
+- "/setts/db8k1db8k2g6r1g6k2db8w1/"
+- "/setts/db8k1db8k2dg6r1dg6k2db8lb1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkgrgkbw/">BKBKGRGKBW</a></nav>
 A tartan of the [Dalmeny](/families/dalmeny/) family.
 Its design is pattern [BKBKGRGKBW](/stripes/bkbkgrgkbw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Dalmeny** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db8k1db8k2g6r1g6k2db8w1/">Dalmeny</a> ★</td><td><code>DB/16 K2 DB16 K4 G12 R2 G12 K4 DB16 W/2</code></td><td>154</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8k1db8k2g6r1g6k2db8w1/"><img src="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/sett.png" alt="Dalmeny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db8k1db8k2dg6r1dg6k2db8lb1/">1965 (Fashion)</a></td><td><code>DB/16 K2 DB16 K4 DG12 R2 DG12 K4 DB16 LB/2</code></td><td>154</td><td>~1965</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8k1db8k2dg6r1dg6k2db8lb1/"><img src="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/sett.png" alt="1965 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/">Dalmeny</a> ★</td><td><code>DB/16 K2 DB16 K4 G12 R2 G12 K4 DB16 W/2</code></td><td>154</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><img src="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/sett.png" alt="Dalmeny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/">1965 (Fashion)</a></td><td><code>DB/16 K2 DB16 K4 DG12 R2 DG12 K4 DB16 LB/2</code></td><td>154</td><td>~1965</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/"><img src="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/sett.png" alt="1965 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/db10k2db4k4g7y2g7k4db10k2/"><circle cx="166.0" cy="228.9" r="4" fill="#3465a4"><title>Gordon Miniature</title></circle></a><a href="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/"><circle cx="183.5" cy="204.1" r="4" fill="#3465a4"><title>Glackin-McColgan</title></circle></a><a href="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/"><circle cx="261.9" cy="155.7" r="4" fill="#3465a4"><title>Spirit of Alva</title></circle></a><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="192.5" cy="163.6" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="142.4" cy="180.0" r="4" fill="#3465a4"><title>Dove</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="232.6" cy="184.9" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/"><circle cx="212.2" cy="198.6" r="4" fill="#3465a4"><title>Notre Dame Marching Guard</title></circle></a><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><circle cx="259.9" cy="148.9" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/"><circle cx="269.3" cy="153.6" r="4" fill="#3465a4"><title>Lochranza</title></circle></a><a href="/variants/s9/w3db3r2db14k3g12k14db16y2~x2/"><circle cx="150.3" cy="164.3" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><circle cx="223.6" cy="181.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/db10k2db4k4g7y2g7k4db10k2/"><circle cx="166.4" cy="228.8" r="4" fill="#3465a4"><title>Gordon Miniature</title></circle></a><a href="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/"><circle cx="183.9" cy="204.0" r="4" fill="#3465a4"><title>Glackin-McColgan</title></circle></a><a href="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/"><circle cx="262.5" cy="155.7" r="4" fill="#3465a4"><title>Spirit of Alva</title></circle></a><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="193.0" cy="163.4" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="142.8" cy="179.9" r="4" fill="#3465a4"><title>Dove</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="233.2" cy="184.9" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/"><circle cx="212.7" cy="198.6" r="4" fill="#3465a4"><title>Notre Dame Marching Guard</title></circle></a><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><circle cx="260.6" cy="148.9" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/"><circle cx="270.0" cy="153.5" r="4" fill="#3465a4"><title>Lochranza</title></circle></a><a href="/variants/s9/w3db3r2db14k3g12k14db16y2~x2/"><circle cx="150.7" cy="164.1" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><circle cx="224.2" cy="181.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

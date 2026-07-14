@@ -10,10 +10,10 @@ crumbs:
 - name: "North West Territories"
   url: "/tartans/n/no/north-west-territories/"
 - name: "North West Territories Canadian District Tartan"
-  url: "/setts/y4g2y2g2y2g24k2r16w9db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4g2y2g2y2g24k2r16w9db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/north-west-territories/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRKGGGGGG](/stripes/bwrkgggggg/).
 
 Part of the [North West Territories](/tartans/n/no/north-west-territories/) tartan — the named design grouping this sett with its other cloths.

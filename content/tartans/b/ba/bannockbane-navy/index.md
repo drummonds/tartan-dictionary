@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Bannockbane"
   url: "/clan/bannockbane/"
+aliases:
+- "/setts/db3r2db30r1w18o30r2o3/"
+- "/setts/k3r2db30r1k18o30r2o3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbrwrrr/">BRBRWRRR</a></nav>
 A tartan of [Clan Bannockbane](/clan/bannockbane/).
 Its design is pattern [BRBRWRRR](/stripes/brbrwrrr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Bannockbane Navy** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db3r2db30r1w18o30r2o3/">Bannockbane Navy</a> ★</td><td><code>DB/6 R4 DB60 R2 W36 O60 R4 O/6</code></td><td>344</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3r2db30r1w18o30r2o3/"><img src="/variants/s8/db3r2db30r1w18o30r2o3~x2/sett.png" alt="Bannockbane Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3r2db30r1k18o30r2o3/">Fashion Tartan</a></td><td><code>K/6 R4 DB60 R2 K36 O60 R4 O/6</code></td><td>344</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3r2db30r1k18o30r2o3/"><img src="/variants/s8/k3r2db30r1k18o30r2o3~x2/sett.png" alt="Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db3r2db30r1w18o30r2o3~x2/">Bannockbane Navy</a> ★</td><td><code>DB/6 R4 DB60 R2 W36 O60 R4 O/6</code></td><td>344</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db3r2db30r1w18o30r2o3~x2/"><img src="/variants/s8/db3r2db30r1w18o30r2o3~x2/sett.png" alt="Bannockbane Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3r2db30r1k18o30r2o3~x2/">Fashion Tartan</a></td><td><code>K/6 R4 DB60 R2 K36 O60 R4 O/6</code></td><td>344</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3r2db30r1k18o30r2o3~x2/"><img src="/variants/s8/k3r2db30r1k18o30r2o3~x2/sett.png" alt="Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/"><circle cx="226.6" cy="139.1" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="281.3" cy="128.0" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/"><circle cx="288.6" cy="150.9" r="4" fill="#3465a4"><title>Bannockbane Variant</title></circle></a><a href="/variants/s10/lb63dp21w16dp2w4dp4w12lo6w16k21~x2/"><circle cx="171.1" cy="108.3" r="4" fill="#3465a4"><title>Xain</title></circle></a><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/"><circle cx="198.8" cy="141.4" r="4" fill="#3465a4"><title>Forrester</title></circle></a><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/"><circle cx="197.8" cy="120.7" r="4" fill="#3465a4"><title>Kyle Grape</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="179.3" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s9/g5dr1r4db2r20g12db16r4dr1~x2/"><circle cx="260.3" cy="165.2" r="4" fill="#3465a4"><title>Diana Princess of Wales</title></circle></a><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/"><circle cx="194.7" cy="137.3" r="4" fill="#3465a4"><title>Hermitage Academy</title></circle></a><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="262.2" cy="111.8" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><circle cx="230.1" cy="133.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/"><circle cx="227.0" cy="138.9" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="281.9" cy="127.9" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/"><circle cx="289.1" cy="150.8" r="4" fill="#3465a4"><title>Bannockbane Variant</title></circle></a><a href="/variants/s10/lb63dp21w16dp2w4dp4w12lo6w16k21~x2/"><circle cx="171.5" cy="108.0" r="4" fill="#3465a4"><title>Xain</title></circle></a><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/"><circle cx="199.2" cy="141.2" r="4" fill="#3465a4"><title>Forrester</title></circle></a><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/"><circle cx="198.4" cy="120.4" r="4" fill="#3465a4"><title>Kyle Grape</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.8" cy="179.1" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s9/g5dr1r4db2r20g12db16r4dr1~x2/"><circle cx="260.8" cy="165.1" r="4" fill="#3465a4"><title>Diana Princess of Wales</title></circle></a><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/"><circle cx="195.3" cy="137.2" r="4" fill="#3465a4"><title>Hermitage Academy</title></circle></a><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="263.0" cy="111.6" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><circle cx="230.7" cy="132.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

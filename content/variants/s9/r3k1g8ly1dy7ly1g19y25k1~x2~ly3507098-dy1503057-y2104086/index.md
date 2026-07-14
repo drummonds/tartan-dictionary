@@ -8,10 +8,10 @@ crumbs:
 - name: "Broons, The"
   url: "/tartans/b/br/broons-the/"
 - name: "Broons, The (DC Thomson)"
-  url: "/setts/r3k1g8ly1dy7ly1g19y25k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k1g8ly1dy7ly1g19y25k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/broons-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGYGYGKR](/stripes/kggygygkr/).
 
 Part of the [Broons, The](/tartans/b/br/broons-the/) tartan — the named design grouping this sett with its other cloths.

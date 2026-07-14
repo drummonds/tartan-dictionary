@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2~lb3200000-t2503227/">Royal Scottish P.B. Assoc. (Corp.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2~lb3200000-t2503227/"><img src="/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2~lb3200000-t2503227/sett.png" alt="Royal Scottish P.B. Assoc. (Corp.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-scottish-p-b-assoc/">Royal Scottish P.B. Assoc.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-scottish-p-b-assoc/"><img src="/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2~lb3200000-t2503227/sett.png" alt="Royal Scottish P.B. Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

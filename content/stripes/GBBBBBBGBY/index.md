@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/">Blue Peter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/"><img src="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/sett.png" alt="Blue Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blue-peter-2/">Blue Peter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-peter-2/"><img src="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/sett.png" alt="Blue Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

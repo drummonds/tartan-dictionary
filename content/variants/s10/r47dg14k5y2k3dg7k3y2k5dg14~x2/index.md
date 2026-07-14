@@ -8,15 +8,15 @@ crumbs:
 - name: "Harbor Club"
   url: "/tartans/h/ha/harbor-club/"
 - name: "Harbor Club"
-  url: "/setts/r47dg14k5y2k3dg7k3y2k5dg14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r47dg14k5y2k3dg7k3y2k5dg14/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGRGKGKGKGK](/stripes/gkgkgkgkgrgkgkgkgk/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harbor-club/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGR](/stripes/gkgkgkgkgr/).
 
 Part of the [Harbor Club](/tartans/h/ha/harbor-club/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1591](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1591)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6469
 
 ## Thread count
-DG/28 K10 Y4 K6 DG14 K6 Y4 K10 DG28 R94 DG28 K10 Y4 K6 DG14 K6 Y4 K/10
+R/94 DG28 K10 Y4 K6 DG14 K6 Y4 K10 DG/28
 
-One full sett is **534 threads**.
+One full sett is **286 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/28 K10 Y4 K6 DG14 K6 Y4 K10 DG28 R94 DG28 K10 Y4 K6 DG14 K6 Y4 K/10 — 534 threads; it folds to the canonical 286-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **534 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/28 K10 Y4 K6 DG14 K6 Y4 K10 DG28 R94 DG28 K10 Y4 K6 DG14 K6 Y4 K/10 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/94 DG28 K10 Y4 K6 DG14 K6 Y4 K10 DG/28 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

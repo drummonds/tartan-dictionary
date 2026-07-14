@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k16lr25db4lr2db4lr2db4lr2db4lr2db4lr2db4~x2/">Hanna (Bible)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k16lr25db4lr2db4lr2db4lr2db4lr2db4lr2db4~x2/"><img src="/variants/s13/k16lr25db4lr2db4lr2db4lr2db4lr2db4lr2db4~x2/sett.png" alt="Hanna (Bible) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hanna/">Hanna</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hanna/"><img src="/variants/s13/k16lr25db4lr2db4lr2db4lr2db4lr2db4lr2db4~x2/sett.png" alt="Hanna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

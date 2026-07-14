@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4~x2~dg1605139/">St. Patrick</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4~x2~dg1605139/"><img src="/variants/s18/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4~x2~dg1605139/sett.png" alt="St. Patrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-patrick-2/">St. Patrick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-patrick-2/"><img src="/variants/s18/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4~x2~dg1605139/sett.png" alt="St. Patrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

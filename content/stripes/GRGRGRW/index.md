@@ -28,14 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y1r12g162r1g2r12w1~x2/">MacFie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y1r12g162r1g2r12w1~x2/"><img src="/variants/s7/y1r12g162r1g2r12w1~x2/sett.png" alt="MacFie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macfie-2/">MacFie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macfie-2/"><img src="/variants/s7/y1r12g162r1g2r12w1~x2/sett.png" alt="MacFie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/g1r8g8ri1g8r8w1~x2~r1906028-ri2109032/">MacKinnon Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g1r8g8ri1g8r8w1~x2~r1906028-ri2109032/"><img src="/variants/s7/g1r8g8ri1g8r8w1~x2~r1906028-ri2109032/sett.png" alt="MacKinnon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/g1o8g8r1g8o8w1~x4/">MacKinnon, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g1o8g8r1g8o8w1~x4/"><img src="/variants/s7/g1o8g8r1g8o8w1~x4/sett.png" alt="MacKinnon, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-hunting-5/">MacKinnon, hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackinnon-hunting-5/"><img src="/variants/s7/g1r8g8ri1g8r8w1~x2~r1906028-ri2109032/sett.png" alt="MacKinnon, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

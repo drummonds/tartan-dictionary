@@ -8,17 +8,17 @@ crumbs:
 - name: "Grey Pride of Scotland"
   url: "/tartans/g/gr/grey-pride-of-scotland/"
 - name: "Grey Pride of Scotland (Fashion)"
-  url: "/setts/k8n2k2n2k14n2k2n1k14n26k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8n2k2n2k14n2k2n1k14n26k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grey-pride-of-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/).
 
 Part of the [Grey Pride of Scotland](/tartans/g/gr/grey-pride-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7519](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7519)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7519/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7519/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: pre 2008 Count and sample from Lochcarron. Grey is in fact 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2008 — Grey Pride of Scotland (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7519">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><br><em>Count and sample from Lochcarron. Grey is in fact a grey/black mixture (marl) which can't be replicated with this software.</em></li>
+<li>pre 2008 — Grey Pride of Scotland (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7519/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><br><em>Count and sample from Lochcarron. Grey is in fact a grey/black mixture (marl) which can't be replicated with this software.</em></li>
 <li>pre 2008 — Grey Pride of Scotland Fashion Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7519">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span></li>
 <li>undated — Grey Pride of Scotland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5557">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><br><em>Count and sample from Lochcarron. Grey is in fact a grey/black mixture (marl) which can't be replicated with this software.</em></li>
 </ul>
@@ -43,7 +43,7 @@ Earliest known date: pre 2008 Count and sample from Lochcarron. Grey is in fact 
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

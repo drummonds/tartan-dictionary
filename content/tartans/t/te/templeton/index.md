@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/t4r1k11r20k20r20g4ly1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brkrkrgy/">BRKRKRGY</a></nav>
 Its design is pattern [BRKRKRGY](/stripes/brkrkrgy/) — the page of every tartan sharing this colour sequence.
 
 The **Templeton** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Templeton** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t4r1k11r20k20r20g4ly1/">Templeton</a></td><td><code>T/8 R2 K22 R40 K40 R40 G8 LY/2</code></td><td>314</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t4r1k11r20k20r20g4ly1/"><img src="/variants/s8/t4r1k11r20k20r20g4ly1~x2/sett.png" alt="Templeton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/t4r1k11r20k20r20g4ly1~x2/">Templeton</a></td><td><code>T/8 R2 K22 R40 K40 R40 G8 LY/2</code></td><td>314</td><td>~2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/t4r1k11r20k20r20g4ly1~x2/"><img src="/variants/s8/t4r1k11r20k20r20g4ly1~x2/sett.png" alt="Templeton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="295.9" cy="85.0" r="4" fill="#3465a4"><title>Cunningham</title></circle></a><a href="/variants/s7/k51r21y4r12g8db4r5~x2/"><circle cx="219.6" cy="126.3" r="4" fill="#3465a4"><title>Totté</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="193.2" cy="134.3" r="4" fill="#3465a4"><title>Memery</title></circle></a><a href="/variants/s6/r25k7r3g13y1k2~x4/"><circle cx="292.6" cy="127.7" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/"><circle cx="205.8" cy="89.4" r="4" fill="#3465a4"><title>Haileybury</title></circle></a><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><circle cx="307.6" cy="101.1" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s8/k22ly4k4g4k16r36y3r6~x2/"><circle cx="199.9" cy="130.0" r="4" fill="#3465a4"><title>Dean Brae</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="223.7" cy="151.8" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="221.4" cy="135.3" r="4" fill="#3465a4"><title>Wormeck German</title></circle></a><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><circle cx="181.2" cy="157.5" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><circle cx="230.7" cy="119.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="297.0" cy="85.0" r="4" fill="#3465a4"><title>Cunningham</title></circle></a><a href="/variants/s7/k51r21y4r12g8db4r5~x2/"><circle cx="220.3" cy="126.2" r="4" fill="#3465a4"><title>Totté</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="193.9" cy="134.1" r="4" fill="#3465a4"><title>Memery</title></circle></a><a href="/variants/s6/r25k7r3g13y1k2~x4/"><circle cx="293.4" cy="127.7" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/"><circle cx="206.6" cy="89.2" r="4" fill="#3465a4"><title>Haileybury</title></circle></a><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><circle cx="308.7" cy="101.1" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s8/k22ly4k4g4k16r36y3r6~x2/"><circle cx="200.6" cy="129.8" r="4" fill="#3465a4"><title>Dean Brae</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="224.5" cy="151.7" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="222.2" cy="135.2" r="4" fill="#3465a4"><title>Wormeck German</title></circle></a><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><circle cx="181.8" cy="157.3" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><circle cx="231.5" cy="119.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/o1dy1o1dy1o4dy3ly1~x12/">Burns' Birthplace (Commem)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/o1dy1o1dy1o4dy3ly1~x12/"><img src="/variants/s7/o1dy1o1dy1o4dy3ly1~x12/sett.png" alt="Burns' Birthplace (Commem) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burns-birthplace/">Burns' Birthplace</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burns-birthplace/"><img src="/variants/s7/o1dy1o1dy1o4dy3ly1~x12/sett.png" alt="Burns' Birthplace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

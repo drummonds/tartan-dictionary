@@ -12,10 +12,10 @@ crumbs:
 - name: "Vaughan"
   url: "/tartans/v/va/vaughan-2/"
 - name: "Vaughan (Welsh Name) Welsh Name Tartan"
-  url: "/setts/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/va/vaughan-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKYKYKYKGKWYWKGKYKYKYKWKWK](/stripes/kwkwkykykykgkwywkgkykykykwkwk/).
 
 Part of the [Vaughan](/tartans/v/va/vaughan-2/) tartan — the named design grouping this sett with its other cloths.

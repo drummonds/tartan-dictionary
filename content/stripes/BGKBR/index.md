@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/">Breon (Jersey Shore, Pennsylvania) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><img src="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/sett.png" alt="Breon (Jersey Shore, Pennsylvania) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/t25g25k6db10r6~x2/">Breon (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/t25g25k6db10r6~x2/"><img src="/variants/s5/t25g25k6db10r6~x2/sett.png" alt="Breon (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/breon/">Breon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/breon/"><img src="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/sett.png" alt="Breon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

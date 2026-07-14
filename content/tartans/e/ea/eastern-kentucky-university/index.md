@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r15n9w4k12r15k5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krkwbr/">KRKWBR</a></nav>
 Its design is pattern [KRKWBR](/stripes/krkwbr/) — the page of every tartan sharing this colour sequence.
 
 The **Eastern Kentucky University** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Eastern Kentucky University** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r15n9w4k12r15k5/">Eastern Kentucky University</a></td><td><code>R/30 N18 W8 K24 R30 K/10</code></td><td>200</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r15n9w4k12r15k5/"><img src="/variants/s6/r15n9w4k12r15k5~x2/sett.png" alt="Eastern Kentucky University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r15n9w4k12r15k5~x2/">Eastern Kentucky University</a></td><td><code>R/30 N18 W8 K24 R30 K/10</code></td><td>200</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r15n9w4k12r15k5~x2/"><img src="/variants/s6/r15n9w4k12r15k5~x2/sett.png" alt="Eastern Kentucky University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r6k9r12w2k2w4~x2/"><circle cx="211.3" cy="214.1" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/variants/s5/k6r33k18w20db6~x2/"><circle cx="123.3" cy="220.9" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s5/r26k18r7k4y4~x2/"><circle cx="275.1" cy="203.8" r="4" fill="#3465a4"><title>Haig</title></circle></a><a href="/variants/s5/r9k9r9w1g9~x8/"><circle cx="178.7" cy="228.6" r="4" fill="#3465a4"><title>Unidentified item</title></circle></a><a href="/variants/s5/w3r2w1k2r2~x4/"><circle cx="110.9" cy="298.5" r="4" fill="#3465a4"><title>Oakland Centre</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="248.1" cy="192.2" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="195.7" cy="211.3" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s5/r21k21w10k10w21~x2/"><circle cx="82.7" cy="310.3" r="4" fill="#3465a4"><title>Havel</title></circle></a><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/"><circle cx="176.4" cy="157.6" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s4/r25k13w8db5~x2/"><circle cx="172.0" cy="230.5" r="4" fill="#3465a4"><title>Hamby Sport</title></circle></a><circle cx="152.3" cy="245.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r6k9r12w2k2w4~x2/"><circle cx="211.8" cy="214.1" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/variants/s5/k6r33k18w20db6~x2/"><circle cx="123.6" cy="220.6" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s5/r26k18r7k4y4~x2/"><circle cx="275.9" cy="203.9" r="4" fill="#3465a4"><title>Haig</title></circle></a><a href="/variants/s5/r9k9r9w1g9~x8/"><circle cx="179.1" cy="228.4" r="4" fill="#3465a4"><title>Unidentified item</title></circle></a><a href="/variants/s5/w3r2w1k2r2~x4/"><circle cx="111.0" cy="298.3" r="4" fill="#3465a4"><title>Oakland Centre</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="248.9" cy="192.2" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="196.2" cy="211.2" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s5/r21k21w10k10w21~x2/"><circle cx="82.7" cy="310.1" r="4" fill="#3465a4"><title>Havel</title></circle></a><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/"><circle cx="177.0" cy="157.4" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s4/r25k13w8db5~x2/"><circle cx="172.4" cy="230.3" r="4" fill="#3465a4"><title>Hamby Sport</title></circle></a><circle cx="152.6" cy="245.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

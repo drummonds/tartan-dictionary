@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/">Lock in Northumberland (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/"><img src="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/sett.png" alt="Lock in Northumberland (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lock-in-northumberland/">Lock in Northumberland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lock-in-northumberland/"><img src="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/sett.png" alt="Lock in Northumberland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

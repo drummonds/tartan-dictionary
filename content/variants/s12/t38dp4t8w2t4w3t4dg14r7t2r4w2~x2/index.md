@@ -8,10 +8,10 @@ crumbs:
 - name: "Louth Irish County"
   url: "/tartans/l/lo/louth-irish-county/"
 - name: "Louth Irish County Tartan"
-  url: "/setts/t38dp4t8w2t4w3t4dg14r7t2r4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t38dp4t8w2t4w3t4dg14r7t2r4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/louth-irish-county/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBWBGRBRW](/stripes/bbbwbwbgrbrw/).
 
 Part of the [Louth Irish County](/tartans/l/lo/louth-irish-county/) tartan — the named design grouping this sett with its other cloths.

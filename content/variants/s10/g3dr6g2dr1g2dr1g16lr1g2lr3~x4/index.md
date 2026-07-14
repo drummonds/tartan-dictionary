@@ -8,15 +8,15 @@ crumbs:
 - name: "Prince of Wales Fashion Weavers"
   url: "/tartans/p/pr/prince-of-wales-fashion-weavers/"
 - name: "Prince of Wales Fashion Weavers Tartan"
-  url: "/setts/g3dr6g2dr1g2dr1g16lr1g2lr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3dr6g2dr1g2dr1g16lr1g2lr3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GYGBGBGBGBGBGBGYGY](/stripes/gygbgbgbgbgbgbgygy/).
+provenance below. It is one weaving of the [sett](/tartans/p/pr/prince-of-wales-fashion-weavers/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBGYGY](/stripes/gbgbgbgygy/).
 
 Part of the [Prince of Wales Fashion Weavers](/tartans/p/pr/prince-of-wales-fashion-weavers/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3306](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3306)
 
@@ -41,9 +41,11 @@ Earliest known date: 1998 From Lochcarron. Also produced by Ingles Buchan (Texti
 </details>
 
 ## Thread count
-LR/12 G8 LR4 G64 DR4 G8 DR4 G8 DR24 G12 DR24 G8 DR4 G8 DR4 G64 LR4 G/8
+G/12 DR24 G8 DR4 G8 DR4 G64 LR4 G8 LR/12
 
-One full sett is **524 threads**.
+One full sett is **272 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LR/12 G8 LR4 G64 DR4 G8 DR4 G8 DR24 G12 DR24 G8 DR4 G8 DR4 G64 LR4 G/8 — 524 threads; it folds to the canonical 272-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **524 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LR/12 G8 LR4 G64 DR4 G8 DR4 G8 DR24 G12 DR24 G8 DR4 G8 DR4 G64 LR4 G/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/12 DR24 G8 DR4 G8 DR4 G64 LR4 G8 LR/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

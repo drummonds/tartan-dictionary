@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w48dy15lr2dy3w2dy3ly12w8dy2w6~x2/">Loch Skene (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w48dy15lr2dy3w2dy3ly12w8dy2w6~x2/"><img src="/variants/s10/w48dy15lr2dy3w2dy3ly12w8dy2w6~x2/sett.png" alt="Loch Skene (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-skene/">Loch Skene</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-skene/"><img src="/variants/s10/w48dy15lr2dy3w2dy3ly12w8dy2w6~x2/sett.png" alt="Loch Skene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

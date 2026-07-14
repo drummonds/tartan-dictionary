@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db2w2db8b8w10db2w1db1~x2/">Laval (Tartan de..), dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db2w2db8b8w10db2w1db1~x2/"><img src="/variants/s8/db2w2db8b8w10db2w1db1~x2/sett.png" alt="Laval (Tartan de..), dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laval-dress/">Laval , dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laval-dress/"><img src="/variants/s8/db2w2db8b8w10db2w1db1~x2/sett.png" alt="Laval , dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/">Laval Dress, Tartan de</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/"><img src="/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/sett.png" alt="Laval Dress, Tartan de sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laval-dress-tartan-de/">Laval Dress, Tartan de</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laval-dress-tartan-de/"><img src="/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/sett.png" alt="Laval Dress, Tartan de sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

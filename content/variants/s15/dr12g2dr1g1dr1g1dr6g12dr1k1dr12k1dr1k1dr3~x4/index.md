@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonell of Keppoch"
   url: "/tartans/m/ma/macdonell-of-keppoch-3/"
 - name: "MacDonell of Keppoch #3"
-  url: "/setts/dr12g2dr1g1dr1g1dr6g12dr1k1dr12k1dr1k1dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr12g2dr1g1dr1g1dr6g12dr1k1dr12k1dr1k1dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonell-of-keppoch-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBKBKBKB](/stripes/bgbgbgbgbkbkbkb/).
 
 Part of the [MacDonell of Keppoch](/tartans/m/ma/macdonell-of-keppoch-3/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2388](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1845 — MacDonell of Keppoch #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2388">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>This sett has been woven by the House of Edgar, who call it MacDonnell of Keppoch (Ancient).</em></li>
-<li>1845 — MacDonell of Keppoch - 1845 (McIain) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1506">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>This would appear to be from one of McIan's illustrations and is only woven by The House of Edgar who calle it MacDonnell of Keppoch (Ancient). They also weave 511 which is the accepted clan tartan.</em></li>
+<li>1845 — MacDonell of Keppoch - 1845 (McIain) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1506/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>This would appear to be from one of McIan's illustrations and is only woven by The House of Edgar who calle it MacDonnell of Keppoch (Ancient). They also weave 511 which is the accepted clan tartan.</em></li>
 </ul>
 </details>
 

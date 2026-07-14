@@ -8,10 +8,10 @@ crumbs:
 - name: "Coopers & Lybrand Corporate Commem."
   url: "/tartans/c/co/coopers-lybrand-corporate-commem/"
 - name: "Coopers & Lybrand Corporate Commem. Tartan"
-  url: "/setts/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/coopers-lybrand-corporate-commem/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBBKGRBBBBBRGKBBRG](/stripes/bgrbbkgrbbbbbrgkbbrg/).
 
 Part of the [Coopers & Lybrand Corporate Commem.](/tartans/c/co/coopers-lybrand-corporate-commem/) tartan — the named design grouping this sett with its other cloths.

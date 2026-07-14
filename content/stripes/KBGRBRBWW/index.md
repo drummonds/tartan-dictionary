@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/">Dunedin (USA) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/"><img src="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/sett.png" alt="Dunedin (USA) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunedin/">Dunedin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunedin/"><img src="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/sett.png" alt="Dunedin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

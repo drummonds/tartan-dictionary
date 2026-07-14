@@ -6,19 +6,25 @@ crumbs:
   url: "/"
 - name: "Clan Erskine"
   url: "/clan/erskine/"
+aliases:
+- "/setts/k2w1k9w9k1w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwkwkw/">KWKWKW</a></nav>
 A tartan of [Clan Erskine](/clan/erskine/).
 Its design is pattern [KWKWKW](/stripes/kwkwkw/) — the page of every tartan sharing this colour sequence.
 
 Possibly a dress variant of the Vestiarium Scoticum (1842) sett; woven by Dalgliesh of Selkirk.
 
-The **Erskine BW MINI Design** tartan is recorded as a single sett.
+The **Erskine BW MINI Design** tartan is one sett, recorded at 2 scales — the same proportion woven
+finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k2w1k9w9k1w2/">Erskine BW MINI Design</a></td><td><code>K/12 W6 K54 W54 K6 W/12</code></td><td>264</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2w1k9w9k1w2/"><img src="/variants/s6/k2w1k9w9k1w2~x6/sett.png" alt="Erskine BW MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k2w1k9w9k1w2~x6/">Erskine BW MINI Design</a></td><td><code>K/2 W1 K9 W9 K1 W/2</code></td><td>44</td><td>1980</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k2w1k9w9k1w2~x6/"><img src="/variants/s6/k2w1k9w9k1w2~x6/sett.png" alt="Erskine BW MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×3 — <a href="/variants/s6/k2w1k9w9k1w2~x3/">Tartan</a></td><td><code>K/6 W3 K27 W27 K3 W/6</code></td><td>132</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s6/k2w1k9w9k1w2~x6/">Erskine (Black and White)</a></td><td><code>K/12 W6 K54 W54 K6 W/12</code></td><td>264</td><td>1980</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/k2w1k9w9k1w2~x3/">Tartan</a> · <a href="/variants/s6/k2w1k9w9k1w2~x6/">Erskine (Black and White)</a></td></tr>
 </tbody>
 </table>
@@ -41,6 +47,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w5k4w32k32w5k4~x2/"><circle cx="292.5" cy="202.4" r="4" fill="#3465a4"><title>Valley Forge</title></circle></a><a href="/variants/s6/k3n25k3n3k21n3~x2/"><circle cx="333.0" cy="200.6" r="4" fill="#3465a4"><title>Slanj</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="369.6" cy="193.8" r="4" fill="#3465a4"><title>Grey Spirit</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="208.4" cy="223.6" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="296.3" cy="167.7" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/variants/s7/n34k7n12k40n3k4lb3~x2/"><circle cx="299.9" cy="165.8" r="4" fill="#3465a4"><title>TACC</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="316.3" cy="119.0" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s5/k2w1k8w8k1~x8/"><circle cx="288.8" cy="205.8" r="4" fill="#3465a4"><title>Cairn</title></circle></a><a href="/variants/s6/k3n23k3n3k20lb3~x2/"><circle cx="267.8" cy="194.2" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="293.9" cy="175.8" r="4" fill="#3465a4"><title>Scottish National Party</title></circle></a><circle cx="288.9" cy="203.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w5k4w32k32w5k4~x2/"><circle cx="293.2" cy="202.5" r="4" fill="#3465a4"><title>Valley Forge</title></circle></a><a href="/variants/s6/k3n25k3n3k21n3~x2/"><circle cx="333.9" cy="200.9" r="4" fill="#3465a4"><title>Slanj</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="370.6" cy="194.1" r="4" fill="#3465a4"><title>Grey Spirit</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="208.9" cy="223.6" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="297.1" cy="167.9" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/variants/s7/n34k7n12k40n3k4lb3~x2/"><circle cx="300.7" cy="165.9" r="4" fill="#3465a4"><title>TACC</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="317.3" cy="119.1" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s5/k2w1k8w8k1~x8/"><circle cx="289.6" cy="205.9" r="4" fill="#3465a4"><title>Cairn</title></circle></a><a href="/variants/s6/k3n23k3n3k20lb3~x2/"><circle cx="268.6" cy="194.3" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="294.7" cy="175.9" r="4" fill="#3465a4"><title>Scottish National Party</title></circle></a><circle cx="289.7" cy="203.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

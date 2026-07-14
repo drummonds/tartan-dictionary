@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g8r11k3y2dp8g15r5w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grkgbgrw/">GRKGBGRW</a></nav>
 Its design is pattern [GRKGBGRW](/stripes/grkgbgrw/) — the page of every tartan sharing this colour sequence.
 
 The **Wilson's, No 109** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Wilson's, No 109** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g8r11k3y2dp8g15r5w2/">Wilson's, No 109</a></td><td><code>G/16 R22 K6 Y4 DP16 G30 R10 W/4</code></td><td>196</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8r11k3y2dp8g15r5w2/"><img src="/variants/s8/g8r11k3y2dp8g15r5w2~x2/sett.png" alt="Wilson's, No 109 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g8r11k3y2dp8g15r5w2~x2/">Wilson's, No 109</a></td><td><code>G/16 R22 K6 Y4 DP16 G30 R10 W/4</code></td><td>196</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g8r11k3y2dp8g15r5w2~x2/"><img src="/variants/s8/g8r11k3y2dp8g15r5w2~x2/sett.png" alt="Wilson's, No 109 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="155.7" cy="203.4" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="146.6" cy="148.9" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s14/r5g15dp8ly2k3r11g8r11k3ly2dp8g15r5w2~x2/"><circle cx="97.4" cy="166.7" r="4" fill="#3465a4"><title>Wilson's No.109</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="123.0" cy="163.1" r="4" fill="#3465a4"><title>Cornish Christophers</title></circle></a><a href="/variants/s9/y4k2dg7g7r5k2r15k2w4~x2/"><circle cx="97.2" cy="163.8" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.5" cy="164.6" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy</title></circle></a><a href="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/"><circle cx="70.3" cy="166.7" r="4" fill="#3465a4"><title>Wilson's No.011</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="56.6" cy="189.5" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><circle cx="119.7" cy="154.2" r="4" fill="#3465a4"><title>Red Deer, City of</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.2" cy="172.5" r="4" fill="#3465a4"><title>Mayo</title></circle></a><circle cx="128.3" cy="188.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="156.0" cy="203.2" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="147.0" cy="148.7" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s14/r5g15dp8ly2k3r11g8r11k3ly2dp8g15r5w2~x2/"><circle cx="97.5" cy="166.4" r="4" fill="#3465a4"><title>Wilson's No.109</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="123.4" cy="162.8" r="4" fill="#3465a4"><title>Cornish Christophers</title></circle></a><a href="/variants/s9/y4k2dg7g7r5k2r15k2w4~x2/"><circle cx="97.4" cy="163.5" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.6" cy="164.3" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy</title></circle></a><a href="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/"><circle cx="70.5" cy="166.3" r="4" fill="#3465a4"><title>Wilson's No.011</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="56.6" cy="189.1" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><circle cx="120.0" cy="153.9" r="4" fill="#3465a4"><title>Red Deer, City of</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.6" cy="172.4" r="4" fill="#3465a4"><title>Mayo</title></circle></a><circle cx="128.5" cy="188.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

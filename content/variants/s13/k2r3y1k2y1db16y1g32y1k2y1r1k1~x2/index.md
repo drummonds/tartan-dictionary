@@ -12,10 +12,10 @@ crumbs:
 - name: "Neumann"
   url: "/tartans/n/ne/neumann-2/"
 - name: "Neumann - GPS German Pipe Smokers"
-  url: "/setts/k2r3y1k2y1db16y1g32y1k2y1r1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2r3y1k2y1db16y1g32y1k2y1r1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/neumann-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGKGBGGGKGRK](/stripes/krgkgbgggkgrk/).
 
 Part of the [Neumann](/tartans/n/ne/neumann-2/) tartan — the named design grouping this sett with its other cloths.

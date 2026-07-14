@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/">Bannockbane Blue #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/"><img src="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/sett.png" alt="Bannockbane Blue #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/b3t2b30t1w18lb14t2lb3~x2/">Bannockbane Blue #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b3t2b30t1w18lb14t2lb3~x2/"><img src="/variants/s8/b3t2b30t1w18lb14t2lb3~x2/sett.png" alt="Bannockbane Blue #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bannockbane-8/">Bannockbane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-8/"><img src="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

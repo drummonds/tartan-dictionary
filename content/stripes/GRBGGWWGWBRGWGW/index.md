@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/">Highlands of Haliburton (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/"><img src="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/sett.png" alt="Highlands of Haliburton (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/haliburton/">Haliburton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haliburton/"><img src="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/sett.png" alt="Haliburton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

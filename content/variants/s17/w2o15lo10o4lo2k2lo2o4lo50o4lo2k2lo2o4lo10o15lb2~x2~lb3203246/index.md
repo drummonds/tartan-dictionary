@@ -12,10 +12,10 @@ crumbs:
 - name: "Australia"
   url: "/tartans/a/au/australia/"
 - name: "Australia, The"
-  url: "/setts/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/australia/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRYRYKYRYRYKYRYRW](/stripes/wryrykyryrykyryrw/).
 
 Part of the [Australia](/tartans/a/au/australia/) tartan — the named design grouping this sett with its other cloths.

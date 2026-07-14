@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/g3k1g1r12g1r1g1k4g1lb2g15k1g1k1g3~x4/">Hickey (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g3k1g1r12g1r1g1k4g1lb2g15k1g1k1g3~x4/"><img src="/variants/s15/g3k1g1r12g1r1g1k4g1lb2g15k1g1k1g3~x4/sett.png" alt="Hickey (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hickey/">Hickey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hickey/"><img src="/variants/s15/g3k1g1r12g1r1g1k4g1lb2g15k1g1k1g3~x4/sett.png" alt="Hickey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

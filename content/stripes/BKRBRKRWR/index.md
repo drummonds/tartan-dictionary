@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/">Hampden-Sydney College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><img src="/variants/s9/r80w2r5k10r6n4r10k2n6/sett.png" alt="Hampden-Sydney College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hampden-sydney-college/">Hampden-Sydney College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hampden-sydney-college/"><img src="/variants/s9/r80w2r5k10r6n4r10k2n6/sett.png" alt="Hampden-Sydney College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

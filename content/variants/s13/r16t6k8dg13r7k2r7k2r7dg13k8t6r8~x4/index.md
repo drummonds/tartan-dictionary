@@ -12,10 +12,10 @@ crumbs:
 - name: "Duff of Careston"
   url: "/tartans/d/du/duff-of-careston/"
 - name: "Duff of Careston"
-  url: "/setts/r16t6k8dg13r7k2r7k2r7dg13k8t6r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r16t6k8dg13r7k2r7k2r7dg13k8t6r8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duff-of-careston/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGRKRKRGKBR](/stripes/rbkgrkrkrgkbr/).
 
 Part of the [Duff of Careston](/tartans/d/du/duff-of-careston/) tartan — the named design grouping this sett with its other cloths.

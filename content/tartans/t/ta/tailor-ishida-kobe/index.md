@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db25r1g1n9w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgbw/">BRGBW</a></nav>
 Its design is pattern [BRGBW](/stripes/brgbw/) — the page of every tartan sharing this colour sequence.
 
 The **Tailor Ishida, Kobe** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Tailor Ishida, Kobe** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db25r1g1n9w4/">Tailor Ishida, Kobe</a></td><td><code>DB/50 R2 G2 N18 W/8</code></td><td>102</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db25r1g1n9w4/"><img src="/variants/s5/db25r1g1n9w4~x2/sett.png" alt="Tailor Ishida, Kobe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db25r1g1n9w4~x2/">Tailor Ishida, Kobe</a></td><td><code>DB/50 R2 G2 N18 W/8</code></td><td>102</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db25r1g1n9w4~x2/"><img src="/variants/s5/db25r1g1n9w4~x2/sett.png" alt="Tailor Ishida, Kobe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="404.1" cy="106.3" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="348.2" cy="199.5" r="4" fill="#3465a4"><title>McNiff, Kevin</title></circle></a><a href="/variants/s6/m1g2n10r1db15w1~x4/"><circle cx="297.3" cy="168.6" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="341.6" cy="174.6" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="433.6" cy="192.9" r="4" fill="#3465a4"><title>Hsu</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="432.2" cy="192.5" r="4" fill="#3465a4"><title>MaleHsuHK</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.5" cy="102.2" r="4" fill="#3465a4"><title>Wilton</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="347.6" cy="101.2" r="4" fill="#3465a4"><title>Leblant-Macqueron</title></circle></a><a href="/variants/s5/r14w6db38k3g2~x2/"><circle cx="302.7" cy="130.8" r="4" fill="#3465a4"><title>Doten</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="389.5" cy="184.7" r="4" fill="#3465a4"><title>Bacon</title></circle></a><circle cx="368.5" cy="146.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="405.2" cy="106.4" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="348.9" cy="199.6" r="4" fill="#3465a4"><title>McNiff, Kevin</title></circle></a><a href="/variants/s6/m1g2n10r1db15w1~x4/"><circle cx="297.9" cy="168.5" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="342.5" cy="174.8" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="434.5" cy="193.1" r="4" fill="#3465a4"><title>Hsu</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="433.1" cy="192.7" r="4" fill="#3465a4"><title>MaleHsuHK</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="431.5" cy="102.3" r="4" fill="#3465a4"><title>Wilton</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="348.6" cy="101.2" r="4" fill="#3465a4"><title>Leblant-Macqueron</title></circle></a><a href="/variants/s5/r14w6db38k3g2~x2/"><circle cx="303.6" cy="130.8" r="4" fill="#3465a4"><title>Doten</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="390.6" cy="184.9" r="4" fill="#3465a4"><title>Bacon</title></circle></a><circle cx="369.4" cy="146.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

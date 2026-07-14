@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Napier"
   url: "/tartans/n/na/napier/"
-- name: "Napier"
-  url: "/setts/k4w2k2w2k2w4k2w2k4db12w1/"
+- name: "Napier Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4w2k2w2k2w4k2w2k4db12w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/na/napier/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKBW](/stripes/kwkwkwkwkbw/).
 
 Part of the [Napier](/tartans/n/na/napier/) tartan — the named design grouping this sett with its other cloths.

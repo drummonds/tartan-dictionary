@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/">Scotch House (Dalgliesh)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/"><img src="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/sett.png" alt="Scotch House (Dalgliesh) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotch-house-2/">Scotch House</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-house-2/"><img src="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/sett.png" alt="Scotch House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

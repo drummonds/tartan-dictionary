@@ -12,10 +12,10 @@ crumbs:
 - name: "Myron"
   url: "/tartans/m/my/myron/"
 - name: "Myron Family Tartan"
-  url: "/setts/k3g3dr2g3y2g2y2g11db3k3db3k3db3k3db3g20r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3g3dr2g3y2g2y2g11db3k3db3k3db3k3db3g20r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/my/myron/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBGGGGGBKBKBKBGR](/stripes/kgbgggggbkbkbkbgr/).
 
 Part of the [Myron](/tartans/m/my/myron/) tartan — the named design grouping this sett with its other cloths.

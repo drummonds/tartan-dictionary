@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/">Green Watch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/"><img src="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/sett.png" alt="Green Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/green-watch/">Green Watch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/green-watch/"><img src="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/sett.png" alt="Green Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

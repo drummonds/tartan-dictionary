@@ -8,10 +8,10 @@ crumbs:
 - name: "Porcelanosa"
   url: "/tartans/p/po/porcelanosa/"
 - name: "Porcelanosa"
-  url: "/setts/lb24o9n23y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb24o9n23y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/porcelanosa/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRW](/stripes/gbrw/).
 
 Part of the [Porcelanosa](/tartans/p/po/porcelanosa/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5426](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/2004 — Porcelanosa (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5426">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>The Porcelanosa Group is a Spanish ceramic tile manufacturer with outlets around the world. This tartan was designed for the opening of their Glasgow showroom.</em></li>
-<li>pre 2005 — Porcelanosa (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6726">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>The Porcelanosa Group is a Spanish ceramic tile manufacturer with outlets around the world. This tartan was designed by Kinloch Anderson for the opening of their Glasgow showroom.</em></li>
+<li>pre 2005 — Porcelanosa (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6726/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>The Porcelanosa Group is a Spanish ceramic tile manufacturer with outlets around the world. This tartan was designed by Kinloch Anderson for the opening of their Glasgow showroom.</em></li>
 </ul>
 </details>
 

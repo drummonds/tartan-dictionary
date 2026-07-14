@@ -8,10 +8,10 @@ crumbs:
 - name: "Ostermeier"
   url: "/tartans/o/os/ostermeier/"
 - name: "Ostermeier (2015)"
-  url: "/setts/r11w1r32k8db6k1db16k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r11w1r32k8db6k1db16k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/os/ostermeier/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKRWR](/stripes/kbkbkrwr/).
 
 Part of the [Ostermeier](/tartans/o/os/ostermeier/) tartan — the named design grouping this sett with its other cloths.

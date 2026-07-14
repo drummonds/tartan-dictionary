@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1~x8/">Alliance of Border Scots (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1~x8/"><img src="/variants/s15/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1~x8/sett.png" alt="Alliance of Border Scots (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alliance-of-border-scots-2/">Alliance of Border Scots</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alliance-of-border-scots-2/"><img src="/variants/s15/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1~x8/sett.png" alt="Alliance of Border Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

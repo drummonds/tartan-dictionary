@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dp12n3r13dp4r10w2lb18n22r4~x2/">Wild Rose (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp12n3r13dp4r10w2lb18n22r4~x2/"><img src="/variants/s9/dp12n3r13dp4r10w2lb18n22r4~x2/sett.png" alt="Wild Rose (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wild-rose/">Wild Rose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wild-rose/"><img src="/variants/s9/dp12n3r13dp4r10w2lb18n22r4~x2/sett.png" alt="Wild Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

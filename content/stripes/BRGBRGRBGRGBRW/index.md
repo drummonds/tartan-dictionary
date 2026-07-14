@@ -28,15 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/">MacDonald of Staffa #5</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/"><img src="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/sett.png" alt="MacDonald of Staffa #5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2/">MacKinnon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2/"><img src="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-staffa-6/">MacDonald of Staffa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-6/"><img src="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/sett.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-3/">MacKinnon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackinnon-3/"><img src="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/">MacKinnon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/"><img src="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/">MacKinnon #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/"><img src="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/sett.png" alt="MacKinnon #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-10/">MacKinnon 10</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackinnon-10/"><img src="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/sett.png" alt="MacKinnon 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

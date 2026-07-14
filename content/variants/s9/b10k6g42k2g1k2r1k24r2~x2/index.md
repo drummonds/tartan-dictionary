@@ -10,10 +10,10 @@ crumbs:
 - name: "Black Thistle"
   url: "/tartans/b/bl/black-thistle/"
 - name: "Black Thistle"
-  url: "/setts/b10k6g42k2g1k2r1k24r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b10k6g42k2g1k2r1k24r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-thistle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKRKR](/stripes/bkgkgkrkr/).
 
 Part of the [Black Thistle](/tartans/b/bl/black-thistle/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5815](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>pre 2007 — Black Thistle (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5815">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Threadcount taken from a kilt shown to Dr Phil Smith at the Grandfather Mountain Games, USA in 2007. Purchased from Australia, the coarse weave and light texture suggest that it was not of Scottish origin.</em></li>
-<li>pre 2007 — Black Thistle (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7867">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A kilt shown to Dr Phil Smith in 2007 at Grandfather Mountain Games. The lady said she had purchased it over Ebay from someone in Australia. The coarse weave and light texture led Phil to think that it was not of Scottish origin.</em></li>
+<li>pre 2007 — Black Thistle (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7867/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A kilt shown to Dr Phil Smith in 2007 at Grandfather Mountain Games. The lady said she had purchased it over Ebay from someone in Australia. The coarse weave and light texture led Phil to think that it was not of Scottish origin.</em></li>
 </ul>
 </details>
 

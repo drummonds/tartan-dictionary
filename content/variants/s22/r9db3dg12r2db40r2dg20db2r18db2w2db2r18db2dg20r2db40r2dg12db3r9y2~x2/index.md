@@ -12,10 +12,10 @@ crumbs:
 - name: "Kormylo"
   url: "/tartans/k/ko/kormylo/"
 - name: "Kormylo (Personal)"
-  url: "/setts/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ko/kormylo/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGRBRGBRBWBRBGRBRGBR](/stripes/grbgrbrgbrbwbrbgrbrgbr/).
 
 Part of the [Kormylo](/tartans/k/ko/kormylo/) tartan — the named design grouping this sett with its other cloths.

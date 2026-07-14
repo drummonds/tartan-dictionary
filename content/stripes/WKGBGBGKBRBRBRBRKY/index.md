@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/">Daniel Melrose Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/"><img src="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/sett.png" alt="Daniel Melrose Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/daniel-melrose/">Daniel Melrose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daniel-melrose/"><img src="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/sett.png" alt="Daniel Melrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

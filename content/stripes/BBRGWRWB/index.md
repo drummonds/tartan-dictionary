@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db18n4r4g12lb3ri2w2dp10~x2~r1807033-ri2109032/">Serco Caledonian Sleeper</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db18n4r4g12lb3ri2w2dp10~x2~r1807033-ri2109032/"><img src="/variants/s8/db18n4r4g12lb3ri2w2dp10~x2~r1807033-ri2109032/sett.png" alt="Serco Caledonian Sleeper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/serco-caledonian-sleeper/">Serco Caledonian Sleeper</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/serco-caledonian-sleeper/"><img src="/variants/s8/db18n4r4g12lb3ri2w2dp10~x2~r1807033-ri2109032/sett.png" alt="Serco Caledonian Sleeper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

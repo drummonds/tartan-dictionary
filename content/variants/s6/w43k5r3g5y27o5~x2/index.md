@@ -8,10 +8,10 @@ crumbs:
 - name: "Reekie, Charlene"
   url: "/tartans/r/re/reekie-charlene/"
 - name: "Reekie, Charlene"
-  url: "/setts/w43k5r3g5y27o5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w43k5r3g5y27o5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/reekie-charlene/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGRKW](/stripes/rggrkw/).
 
 Part of the [Reekie, Charlene](/tartans/r/re/reekie-charlene/) tartan — the named design grouping this sett with its other cloths.

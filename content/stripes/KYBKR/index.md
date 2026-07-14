@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/o30k7n20ly4k4~x2/">Drumfintley (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/o30k7n20ly4k4~x2/"><img src="/variants/s5/o30k7n20ly4k4~x2/sett.png" alt="Drumfintley (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drumfintley/">Drumfintley</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drumfintley/"><img src="/variants/s5/o30k7n20ly4k4~x2/sett.png" alt="Drumfintley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

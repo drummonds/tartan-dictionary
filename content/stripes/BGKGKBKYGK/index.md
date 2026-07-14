@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/">Danareth (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/"><img src="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/sett.png" alt="Danareth (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/danareth/">Danareth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/danareth/"><img src="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/sett.png" alt="Danareth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

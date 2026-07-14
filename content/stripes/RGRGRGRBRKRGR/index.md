@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/">Grant of Monymusk</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/"><img src="/variants/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/sett.png" alt="Grant of Monymusk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grant-of-monymusk/">Grant of Monymusk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-of-monymusk/"><img src="/variants/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/sett.png" alt="Grant of Monymusk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

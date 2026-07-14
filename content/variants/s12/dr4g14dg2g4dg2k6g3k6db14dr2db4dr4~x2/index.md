@@ -10,10 +10,10 @@ crumbs:
 - name: "Kinloch Anderson Hunting"
   url: "/tartans/k/ki/kinloch-anderson-hunting/"
 - name: "Kinloch Anderson, hunting"
-  url: "/setts/dr4g14dg2g4dg2k6g3k6db14dr2db4dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4g14dg2g4dg2k6g3k6db14dr2db4dr4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kinloch-anderson-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKGKGGGGB](/stripes/bbbbkgkggggb/).
 
 Part of the [Kinloch Anderson Hunting](/tartans/k/ki/kinloch-anderson-hunting/) tartan — the named design grouping this sett with its other cloths.

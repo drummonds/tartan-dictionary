@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/">Sardar Chadha (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><img src="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/sett.png" alt="Sardar Chadha (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sardar-chadha/">Sardar Chadha</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sardar-chadha/"><img src="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/sett.png" alt="Sardar Chadha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

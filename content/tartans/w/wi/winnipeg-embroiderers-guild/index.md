@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r6db1y1w1db2w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbgwbw/">RBGWBW</a></nav>
 Its design is pattern [RBGWBW](/stripes/rbgwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Winnipeg Embroiderers' Guild** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Winnipeg Embroiderers' Guild** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r6db1y1w1db2w3/">Winnipeg Embroiderers' Guild</a></td><td><code>R/24 DB4 Y4 W4 DB8 W/12</code></td><td>76</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6db1y1w1db2w3/"><img src="/variants/s6/r6db1y1w1db2w3~x4/sett.png" alt="Winnipeg Embroiderers' Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r6db1y1w1db2w3~x4/">Winnipeg Embroiderers' Guild</a></td><td><code>R/24 DB4 Y4 W4 DB8 W/12</code></td><td>76</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r6db1y1w1db2w3~x4/"><img src="/variants/s6/r6db1y1w1db2w3~x4/sett.png" alt="Winnipeg Embroiderers' Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r12db2y2w2db4w3~x2/"><circle cx="224.4" cy="215.1" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild</title></circle></a><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><circle cx="201.0" cy="191.1" r="4" fill="#3465a4"><title>Thomson</title></circle></a><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="172.1" cy="278.7" r="4" fill="#3465a4"><title>Doohan , Andrew</title></circle></a><a href="/variants/s6/db1n8w1db4r8w1~x6/"><circle cx="209.0" cy="230.6" r="4" fill="#3465a4"><title>Little's</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.6" cy="210.8" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s8/g16dp8r45w6dp45w44dp6w12/"><circle cx="148.5" cy="209.8" r="4" fill="#3465a4"><title>Culloden Red Dress</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.0" cy="174.9" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="178.6" cy="199.9" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.8" cy="157.5" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s9/w6ly1r4w1db4ly1r8w1r2~x2/"><circle cx="231.8" cy="198.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="190.6" cy="225.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r12db2y2w2db4w3~x2/"><circle cx="224.8" cy="215.0" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild</title></circle></a><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><circle cx="201.6" cy="191.0" r="4" fill="#3465a4"><title>Thomson</title></circle></a><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="172.3" cy="278.5" r="4" fill="#3465a4"><title>Doohan , Andrew</title></circle></a><a href="/variants/s6/db1n8w1db4r8w1~x6/"><circle cx="209.2" cy="230.5" r="4" fill="#3465a4"><title>Little's</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="274.2" cy="210.7" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s8/g16dp8r45w6dp45w44dp6w12/"><circle cx="148.7" cy="209.5" r="4" fill="#3465a4"><title>Culloden Red Dress</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.5" cy="174.8" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="179.0" cy="199.7" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="161.3" cy="157.3" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s9/w6ly1r4w1db4ly1r8w1r2~x2/"><circle cx="232.2" cy="198.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="190.8" cy="224.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

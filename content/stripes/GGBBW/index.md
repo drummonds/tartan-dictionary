@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/">Sterling, Rob (Florida) (Persona Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><img src="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/sett.png" alt="Sterling, Rob (Florida) (Persona Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/g11y10dp11t33w3~x2~dp1502305-t2105244/">Sterling, Rob (Florida) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g11y10dp11t33w3~x2~dp1502305-t2105244/"><img src="/variants/s5/g11y10dp11t33w3~x2~dp1502305-t2105244/sett.png" alt="Sterling, Rob (Florida) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/sterling-rob/">Sterling, Rob</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/sterling-rob/"><img src="/variants/s5/g11y10dp11t33w3~x2~dp1502305-t2105244/sett.png" alt="Sterling, Rob sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/sterling-rob-persona/">Sterling, Rob (Persona</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/sterling-rob-persona/"><img src="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/sett.png" alt="Sterling, Rob (Persona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

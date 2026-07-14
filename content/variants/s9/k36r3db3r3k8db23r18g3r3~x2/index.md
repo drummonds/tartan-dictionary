@@ -8,10 +8,10 @@ crumbs:
 - name: "Grady Highlands"
   url: "/tartans/g/gr/grady-highlands/"
 - name: "Grady Highlands Family Tartan"
-  url: "/setts/k36r3db3r3k8db23r18g3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k36r3db3r3k8db23r18g3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grady-highlands/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRKBRGR](/stripes/krbrkbrgr/).
 
 Part of the [Grady Highlands](/tartans/g/gr/grady-highlands/) tartan — the named design grouping this sett with its other cloths.

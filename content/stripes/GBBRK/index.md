@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k100r1n10db10y2~x2/">Forand (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k100r1n10db10y2~x2/"><img src="/variants/s5/k100r1n10db10y2~x2/sett.png" alt="Forand (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forand/">Forand</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forand/"><img src="/variants/s5/k100r1n10db10y2~x2/sett.png" alt="Forand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

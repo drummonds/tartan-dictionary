@@ -8,10 +8,10 @@ crumbs:
 - name: "Beanpole Brown Trial"
   url: "/tartans/b/be/beanpole-brown-trial/"
 - name: "Beanpole Brown Trial"
-  url: "/setts/o4do31o2dr2o2dr2o2do2doi2do4doi11o4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o4do31o2dr2o2dr2o2do2doi2do4doi11o4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/beanpole-brown-trial/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBBRBRBRBR](/stripes/rbbbbrbrbrbr/).
 
 Part of the [Beanpole Brown Trial](/tartans/b/be/beanpole-brown-trial/) tartan — the named design grouping this sett with its other cloths.

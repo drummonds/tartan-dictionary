@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/">Montgomerie Artifact Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/"><img src="/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/sett.png" alt="Montgomerie Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/montgomerie/">Montgomerie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montgomerie/"><img src="/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/sett.png" alt="Montgomerie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

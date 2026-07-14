@@ -12,10 +12,10 @@ crumbs:
 - name: "Alabama"
   url: "/tartans/a/al/alabama/"
 - name: "Alabama (Provisional)"
-  url: "/setts/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/alabama/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWBRBRBRBBWBWBBBWBWBW](/stripes/rwbwbrbrbrbbwbwbbbwbwbw/).
 
 Part of the [Alabama](/tartans/a/al/alabama/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/">Wood Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/"><img src="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/sett.png" alt="Wood Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/wood-dress/">Wood Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/wood-dress/"><img src="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/sett.png" alt="Wood Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

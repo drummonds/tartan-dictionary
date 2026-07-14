@@ -12,10 +12,10 @@ crumbs:
 - name: "Allison"
   url: "/tartans/a/al/allison/"
 - name: "Allison (MacBean and Bishop)"
-  url: "/setts/db3k2db12k18g14k2g14k8y2k8lb4r4k2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3k2db12k18g14k2g14k8y2k8lb4r4k2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/allison/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKGKWRKW](/stripes/bkbkgkgkgkwrkw/).
 
 Part of the [Allison](/tartans/a/al/allison/) tartan — the named design grouping this sett with its other cloths.

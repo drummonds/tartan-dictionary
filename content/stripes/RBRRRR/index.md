@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r13o3r4o56n4o4~x2~o2500000-n1900000/">Auchairne Grey</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r13o3r4o56n4o4~x2~o2500000-n1900000/"><img src="/variants/s6/r13o3r4o56n4o4~x2~o2500000-n1900000/sett.png" alt="Auchairne Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auchairne/">Auchairne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auchairne/"><img src="/variants/s6/r13o3r4o56n4o4~x2~o2500000-n1900000/sett.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/rii2r2ri2r2dr6r1~x8~rii2806019-r2109032-ri2307033/">Youth on The Horizon (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/rii2r2ri2r2dr6r1~x8~rii2806019-r2109032-ri2307033/"><img src="/variants/s6/rii2r2ri2r2dr6r1~x8~rii2806019-r2109032-ri2307033/sett.png" alt="Youth on The Horizon (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yo/youth-on-the-horizon/">Youth on The Horizon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yo/youth-on-the-horizon/"><img src="/variants/s6/rii2r2ri2r2dr6r1~x8~rii2806019-r2109032-ri2307033/sett.png" alt="Youth on The Horizon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

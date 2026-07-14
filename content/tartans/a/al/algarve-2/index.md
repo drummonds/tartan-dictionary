@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/algarve/"
 - name: "Algarve"
   url: "/families/algarve/"
+aliases:
+- "/setts/k1db1w1db1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbk/">BWBK</a></nav>
 A tartan of the [Algarve](/families/algarve/) family.
 Its design is pattern [BWBK](/stripes/bwbk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Algarve** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k1db1w1db1/">Algarve</a></td><td><code>DB/20 W20 DB20 K/20</code></td><td>—</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1db1w1db1/"><img src="/variants/s4/k1db1w1db1~x20~db1208266/sett.png" alt="Algarve sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k1db1w1db1~x20~db1208266/">Algarve</a></td><td><code>K/1 DB1 W1 DB/1</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k1db1w1db1~x20~db1208266/"><img src="/variants/s4/k1db1w1db1~x20~db1208266/sett.png" alt="Algarve sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

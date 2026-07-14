@@ -8,10 +8,10 @@ crumbs:
 - name: "California Firefighters"
   url: "/tartans/c/ca/california-firefighters/"
 - name: "California Firefighters (Corporate)"
-  url: "/setts/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/california-firefighters/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYBBKBKBKY](/stripes/gygybbkbkbky/).
 
 Part of the [California Firefighters](/tartans/c/ca/california-firefighters/) tartan — the named design grouping this sett with its other cloths.

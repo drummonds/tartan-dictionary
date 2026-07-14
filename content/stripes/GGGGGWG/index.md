@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g14y7g14dg50g64w6g7/">Freedom of Derry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g14y7g14dg50g64w6g7/"><img src="/variants/s7/g14y7g14dg50g64w6g7/sett.png" alt="Freedom of Derry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/freedom-of-derry/">Freedom of Derry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/freedom-of-derry/"><img src="/variants/s7/g14y7g14dg50g64w6g7/sett.png" alt="Freedom of Derry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,22 +8,22 @@ crumbs:
 - name: "Pride of Scotland Dark"
   url: "/tartans/p/pr/pride-of-scotland-dark/"
 - name: "Pride of Scotland, Dark (Fashion)"
-  url: "/setts/dt8k2o2dt2k13dt2k2lr1dt14k26lr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt8k2o2dt2k13dt2k2lr1dt14k26lr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/pride-of-scotland-dark/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRBKBKYBKY](/stripes/bkrbkbkybky/).
 
 Part of the [Pride of Scotland Dark](/tartans/p/pr/pride-of-scotland-dark/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7520](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7520)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7520/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7520/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2008 — Pride of Scotland, Dark (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7520">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#343434;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #343434"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D0B480;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #D0B480"></span><br><em>One of a series of tartans from McCalls of Aberdeen based on the Pride of Scotland (#2469).</em></li>
+<li>pre 2008 — Pride of Scotland, Dark (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7520/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#343434;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #343434"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D0B480;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #D0B480"></span><br><em>One of a series of tartans from McCalls of Aberdeen based on the Pride of Scotland (#2469).</em></li>
 <li>undated — Pride of Scotland Dark (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5558">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#343434;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #343434"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D0B480;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #D0B480"></span><br><em>One of a series of tartans from McCalls of Aberdeen based on the Pride of Scotland #2469 (original Scottish Tartans Authority reference).</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7520](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

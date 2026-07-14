@@ -12,10 +12,10 @@ crumbs:
 - name: "Campbell"
   url: "/tartans/c/ca/campbell-5/"
 - name: "Campbell Red (artefact)"
-  url: "/setts/r4k1r24k22r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k1r24k22r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKR](/stripes/rkrkr/).
 
 Part of the [Campbell](/tartans/c/ca/campbell-5/) tartan — the named design grouping this sett with its other cloths.

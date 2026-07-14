@@ -12,10 +12,10 @@ crumbs:
 - name: "Vermont Dress"
   url: "/tartans/v/ve/vermont-dress/"
 - name: "Vermont Dress"
-  url: "/setts/g1w1g6db5w6r1g1lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g1w1g6db5w6r1g1lo1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/ve/vermont-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBWRGY](/stripes/gwgbwrgy/).
 
 Part of the [Vermont Dress](/tartans/v/ve/vermont-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4450](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Vermont Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4450">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by Andrew Elliot of Elliots of Selkirk.</em></li>
-<li>pre 1996 — Vermont Dress (US State) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4348">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by Andrew Elliot of Elliots of Selkirk. Sample in STA Johnston Collection.</em></li>
+<li>pre 1996 — Vermont Dress (US State) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4348/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by Andrew Elliot of Elliots of Selkirk. Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

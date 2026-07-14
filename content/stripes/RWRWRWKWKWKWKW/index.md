@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/">d'Andeville, Xavier (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/"><img src="/variants/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/sett.png" alt="d'Andeville, Xavier (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/d/d-andeville-xavier/">D'Andeville, Xavier</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/d/d-andeville-xavier/"><img src="/variants/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/sett.png" alt="D'Andeville, Xavier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

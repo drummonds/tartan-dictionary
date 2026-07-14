@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/">Bennett, J P. (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/"><img src="/variants/s7/r2n18k2n3k20dy30w2~x2/sett.png" alt="Bennett, J P. (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bennett-j-p/">Bennett, J P.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bennett-j-p/"><img src="/variants/s7/r2n18k2n3k20dy30w2~x2/sett.png" alt="Bennett, J P. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

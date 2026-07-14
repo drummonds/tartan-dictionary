@@ -10,15 +10,15 @@ crumbs:
 - name: "Hebrides North Uist"
   url: "/tartans/h/he/hebrides-north-uist/"
 - name: "Hebrides North Uist"
-  url: "/setts/db5r3w2db1w2r3g9dy2w1dy2g9r1g1r27db1r1db1r27db1r1db9w1db1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5r3w2db1w2r3g9dy2w1dy2g9r1g1r27db1r1db1r27db1r1db9w1db1w4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRWBWRGGWGGRGRBRBRBRBWBWBWBRBRBRBRGRGGWGGRWBWR](/stripes/brwbwrggwggrgrbrbrbrbwbwbwbrbrbrbrgrggwggrwbwr/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebrides-north-uist/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRWBWRGGWGGRGRBRBRBRBWBW](/stripes/brwbwrggwggrgrbrbrbrbwbw/).
 
 Part of the [Hebrides North Uist](/tartans/h/he/hebrides-north-uist/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [46 stripe tartan](/stripes/stripes46/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1668](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1668)
 
@@ -47,9 +47,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 583
 
 ## Thread count
-DB/10 R6 W4 DB2 W4 R6 G18 DY4 W2 DY4 G18 R2 G2 R54 DB2 R2 DB2 R54 DB2 R2 DB18 W2 DB2 W8 DB2 W2 DB18 R2 DB2 R54 DB2 R2 DB2 R54 G2 R2 G18 DY4 W2 DY4 G18 R6 W4 DB2 W4 R/6
+DB/10 R6 W4 DB2 W4 R6 G18 DY4 W2 DY4 G18 R2 G2 R54 DB2 R2 DB2 R54 DB2 R2 DB18 W2 DB2 W/8
 
-One full sett is **868 threads**.
+One full sett is **442 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/10 R6 W4 DB2 W4 R6 G18 DY4 W2 DY4 G18 R2 G2 R54 DB2 R2 DB2 R54 DB2 R2 DB18 W2 DB2 W8 DB2 W2 DB18 R2 DB2 R54 DB2 R2 DB2 R54 G2 R2 G18 DY4 W2 DY4 G18 R6 W4 DB2 W4 R/6 — 868 threads; it folds to the canonical 442-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -58,7 +60,7 @@ One full sett is **868 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/10 R6 W4 DB2 W4 R6 G18 DY4 W2 DY4 G18 R2 G2 R54 DB2 R2 DB2 R54 DB2 R2 DB18 W2 DB2 W8 DB2 W2 DB18 R2 DB2 R54 DB2 R2 DB2 R54 G2 R2 G18 DY4 W2 DY4 G18 R6 W4 DB2 W4 R/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/10 R6 W4 DB2 W4 R6 G18 DY4 W2 DY4 G18 R2 G2 R54 DB2 R2 DB2 R54 DB2 R2 DB18 W2 DB2 W/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Hughes of Wales"
   url: "/tartans/h/hu/hughes-of-wales/"
 - name: "Hughes of Wales"
-  url: "/setts/db34dbi20db4dbi8db6r2db5dbi2db3g4db3dbi2db5r2db6dbi8db4dbi20db34g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db34dbi20db4dbi8db6r2db5dbi2db3g4db3dbi2db5r2db6dbi8db4dbi20db34g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hughes-of-wales/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBRBBBGBBBRBBBBBG](/stripes/bbbbbrbbbgbbbrbbbbbg/).
 
 Part of the [Hughes of Wales](/tartans/h/hu/hughes-of-wales/) tartan — the named design grouping this sett with its other cloths.

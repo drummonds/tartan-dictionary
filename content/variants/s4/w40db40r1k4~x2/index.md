@@ -8,10 +8,10 @@ crumbs:
 - name: "Kimon Andreou"
   url: "/tartans/k/ki/kimon-andreou/"
 - name: "Kimon Andreou Family (Personal)"
-  url: "/setts/w40db40r1k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w40db40r1k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kimon-andreou/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBW](/stripes/krbw/).
 
 Part of the [Kimon Andreou](/tartans/k/ki/kimon-andreou/) tartan — the named design grouping this sett with its other cloths.

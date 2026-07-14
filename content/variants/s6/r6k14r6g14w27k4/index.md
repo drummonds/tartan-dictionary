@@ -12,10 +12,10 @@ crumbs:
 - name: "Fraser Dress"
   url: "/tartans/f/fr/fraser-dress/"
 - name: "Fraser Dress"
-  url: "/setts/r6k14r6g14w27k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6k14r6g14w27k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraser-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGRKR](/stripes/kwgrkr/).
 
 Part of the [Fraser Dress](/tartans/f/fr/fraser-dress/) tartan — the named design grouping this sett with its other cloths.

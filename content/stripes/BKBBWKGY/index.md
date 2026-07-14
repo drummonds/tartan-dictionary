@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dbi2k2dp1db30lb1k12dg25ly1~x2~dbi1406275-db1004274/">Castellari of Lochaber Lairds (Pers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dbi2k2dp1db30lb1k12dg25ly1~x2~dbi1406275-db1004274/"><img src="/variants/s8/dbi2k2dp1db30lb1k12dg25ly1~x2~dbi1406275-db1004274/sett.png" alt="Castellari of Lochaber Lairds (Pers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/castellari-of-lochaber-lairds-pers/">Castellari of Lochaber Lairds (Pers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/castellari-of-lochaber-lairds-pers/"><img src="/variants/s8/dbi2k2dp1db30lb1k12dg25ly1~x2~dbi1406275-db1004274/sett.png" alt="Castellari of Lochaber Lairds (Pers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Blair Dress"
   url: "/tartans/b/bl/blair-dress/"
 - name: "Blair Dress Clan Tartan"
-  url: "/setts/db1r1db8k3g8r1g1r1g8k3w10r1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1r1db8k3g8r1g1r1g8k3w10r1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blair-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGRGRGKWRW](/stripes/brbkgrgrgkwrw/).
 
 Part of the [Blair Dress](/tartans/b/bl/blair-dress/) tartan — the named design grouping this sett with its other cloths.

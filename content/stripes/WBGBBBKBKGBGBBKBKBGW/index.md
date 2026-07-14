@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1~x2/">McDill (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1~x2/"><img src="/variants/s20/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1~x2/sett.png" alt="McDill (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcdill/">McDill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcdill/"><img src="/variants/s20/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1~x2/sett.png" alt="McDill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k1db1k1db8n8k1n1lt1~x6/">Auld Lang Syne Burns Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k1db1k1db8n8k1n1lt1~x6/"><img src="/variants/s8/k1db1k1db8n8k1n1lt1~x6/sett.png" alt="Auld Lang Syne Burns Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auld-lang-syne-burns-commemorative/">Auld Lang Syne Burns Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auld-lang-syne-burns-commemorative/"><img src="/variants/s8/k1db1k1db8n8k1n1lt1~x6/sett.png" alt="Auld Lang Syne Burns Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/k3ni3k3ni21n21k3n3lb1~x2~ni1900000-n1700000/">Granite City (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k3ni3k3ni21n21k3n3lb1~x2~ni1900000-n1700000/"><img src="/variants/s8/k3ni3k3ni21n21k3n3lb1~x2~ni1900000-n1700000/sett.png" alt="Granite City (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/granite-city-2/">Granite City</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/granite-city-2/"><img src="/variants/s8/k3ni3k3ni21n21k3n3lb1~x2~ni1900000-n1700000/sett.png" alt="Granite City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/k21db3k12dr2db12k2db12w2~x2/">Inverness Caledonian Thistle F.C Corporate Weavers Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k21db3k12dr2db12k2db12w2~x2/"><img src="/variants/s8/k21db3k12dr2db12k2db12w2~x2/sett.png" alt="Inverness Caledonian Thistle F.C Corporate Weavers Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inverness-caledonian-thistle-f-c-corporate-weavers/">Inverness Caledonian Thistle F.C Corporate Weavers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inverness-caledonian-thistle-f-c-corporate-weavers/"><img src="/variants/s8/k21db3k12dr2db12k2db12w2~x2/sett.png" alt="Inverness Caledonian Thistle F.C Corporate Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

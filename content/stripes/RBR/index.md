@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/r1b2o1~x10/">Glenmorangie, Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r1b2o1~x10/"><img src="/variants/s3/r1b2o1~x10/sett.png" alt="Glenmorangie, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenmorangie-check-2/">Glenmorangie, Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenmorangie-check-2/"><img src="/variants/s3/r1b2o1~x10/sett.png" alt="Glenmorangie, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

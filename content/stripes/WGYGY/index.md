@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/">Amber Rose (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/"><img src="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/sett.png" alt="Amber Rose (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/amber-rose/">Amber Rose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/amber-rose/"><img src="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/sett.png" alt="Amber Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

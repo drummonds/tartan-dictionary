@@ -10,10 +10,10 @@ crumbs:
 - name: "Australian Federal Police"
   url: "/tartans/a/au/australian-federal-police/"
 - name: "Australian Federal Police"
-  url: "/setts/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/australian-federal-police/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBKGYGWGWGBK](/stripes/brbwbkgygwgwgbk/).
 
 Part of the [Australian Federal Police](/tartans/a/au/australian-federal-police/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/">Manx National (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><img src="/variants/s7/lp5g9r2dy2db6lb14w3~x4/sett.png" alt="Manx National (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-national/">Manx National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-national/"><img src="/variants/s7/lp5g9r2dy2db6lb14w3~x4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,17 +8,17 @@ crumbs:
 - name: "Clan Hay"
   url: "/clan/hay/"
 - name: "Hay & Leith"
-  url: "/tartans/h/ha/hay-leith/"
+  url: "/tartans/h/ha/hay-leith-2/"
 - name: "Hay & Leith #2"
-  url: "/setts/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRGRGRGRGWKRBRGRBRKGRKRGKRBRGRBRKWGRGRGRGR](/stripes/krgrgrgrgwkrbrgrbrkgrkrgkrbrgrbrkwgrgrgrgr/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hay-leith-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRGKRBRGRBRKWGRGRGRGRK](/stripes/krgkrbrgrbrkwgrgrgrgrk/).
 
-Part of the [Hay & Leith](/tartans/h/ha/hay-leith/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hay & Leith](/tartans/h/ha/hay-leith-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [42 stripe tartan](/stripes/stripes42/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1632](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1632)
 
@@ -47,9 +47,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1215
 
 ## Thread count
-K/7 R3 Y2 R60 G7 R2 Y2 R7 G50 W2 K50 R2 DB50 R7 Y2 R2 DB7 R60 K7 Y2 R3 K7 R3 Y2 K7 R60 DB7 R2 Y2 R7 DB50 R2 K50 W2 G50 R7 Y2 R2 G7 R60 Y2 R/3
+K/7 R3 Y2 R60 G7 R2 Y2 R7 G50 W2 K50 R2 DB50 R7 Y2 R2 DB7 R60 K7 Y2 R3 K/7
 
-One full sett is **1326 threads**.
+One full sett is **668 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/7 R3 Y2 R60 G7 R2 Y2 R7 G50 W2 K50 R2 DB50 R7 Y2 R2 DB7 R60 K7 Y2 R3 K7 R3 Y2 K7 R60 DB7 R2 Y2 R7 DB50 R2 K50 W2 G50 R7 Y2 R2 G7 R60 Y2 R/3 — 1326 threads; it folds to the canonical 668-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -58,7 +60,7 @@ One full sett is **1326 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/7 R3 Y2 R60 G7 R2 Y2 R7 G50 W2 K50 R2 DB50 R7 Y2 R2 DB7 R60 K7 Y2 R3 K7 R3 Y2 K7 R60 DB7 R2 Y2 R7 DB50 R2 K50 W2 G50 R7 Y2 R2 G7 R60 Y2 R/3 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/7 R3 Y2 R60 G7 R2 Y2 R7 G50 W2 K50 R2 DB50 R7 Y2 R2 DB7 R60 K7 Y2 R3 K/7 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

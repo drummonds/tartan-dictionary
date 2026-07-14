@@ -12,15 +12,15 @@ crumbs:
 - name: "Shaw of Tordarroch"
   url: "/tartans/s/sh/shaw-of-tordarroch-2/"
 - name: "Shaw of Tordarroch Red (Dress)"
-  url: "/setts/lb5k1r30dp15r8dg30r8dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb5k1r30dp15r8dg30r8dp2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRBRGRBRGRBRKW](/stripes/krbrgrbrgrbrkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shaw-of-tordarroch-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGRBRKW](/stripes/brgrbrkw/).
 
 Part of the [Shaw of Tordarroch](/tartans/s/sh/shaw-of-tordarroch-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3779](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3779)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 352
 
 ## Thread count
-LB/10 K2 R60 DP30 R16 DG60 R16 DP4 R16 DG60 R16 DP30 R60 K/2
+LB/10 K2 R60 DP30 R16 DG60 R16 DP/4
 
-One full sett is **752 threads**.
+One full sett is **382 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/10 K2 R60 DP30 R16 DG60 R16 DP4 R16 DG60 R16 DP30 R60 K/2 — 752 threads; it folds to the canonical 382-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **752 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/10 K2 R60 DP30 R16 DG60 R16 DP4 R16 DG60 R16 DP30 R60 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/10 K2 R60 DP30 R16 DG60 R16 DP/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

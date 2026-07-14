@@ -12,10 +12,10 @@ crumbs:
 - name: "Bright of Garth"
   url: "/tartans/b/br/bright-of-garth/"
 - name: "Bright of Garth (Personal)"
-  url: "/setts/g7dy6dt7dy1dt2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g7dy6dt7dy1dt2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bright-of-garth/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGG](/stripes/bgbgg/).
 
 Part of the [Bright of Garth](/tartans/b/br/bright-of-garth/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=353](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2005 — Bright of Garth (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=353">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><br><em>Peter MacDonald. Personal</em></li>
-<li>pre 2005 — Bright of Garth (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6576">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#845800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #845800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#245078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #245078"></span><br><em>No further details.</em></li>
+<li>pre 2005 — Bright of Garth (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6576/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#845800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #845800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#245078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #245078"></span><br><em>No further details.</em></li>
 </ul>
 </details>
 

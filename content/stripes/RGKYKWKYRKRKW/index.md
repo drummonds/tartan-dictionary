@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r4dg20k16ly2k3w3k2ly18r6k2r4k1w2~x4/">Johnson, J.M.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r4dg20k16ly2k3w3k2ly18r6k2r4k1w2~x4/"><img src="/variants/s13/r4dg20k16ly2k3w3k2ly18r6k2r4k1w2~x4/sett.png" alt="Johnson, J.M. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/johnson-j-m/">Johnson, J.M.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/johnson-j-m/"><img src="/variants/s13/r4dg20k16ly2k3w3k2ly18r6k2r4k1w2~x4/sett.png" alt="Johnson, J.M. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

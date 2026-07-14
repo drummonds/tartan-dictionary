@@ -8,10 +8,10 @@ crumbs:
 - name: "Real Mary King's Close, The"
   url: "/tartans/r/re/real-mary-king-s-close-the/"
 - name: "Real Mary King's Close, The"
-  url: "/setts/k2r2k15lb2k4lb2n9dt27w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2r2k15lb2k4lb2n9dt27w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/real-mary-king-s-close-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWKWBBW](/stripes/krkwkwbbw/).
 
 Part of the [Real Mary King's Close, The](/tartans/r/re/real-mary-king-s-close-the/) tartan — the named design grouping this sett with its other cloths.

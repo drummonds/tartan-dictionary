@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/">Currie of Arran</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><img src="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/sett.png" alt="Currie of Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/currie-of-arran/">Currie of Arran</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/currie-of-arran/"><img src="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/sett.png" alt="Currie of Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

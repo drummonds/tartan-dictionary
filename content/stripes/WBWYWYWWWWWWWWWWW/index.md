@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2~x2~wi4000000-lr2800000-w3600000/">Weston-McCue (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2~x2~wi4000000-lr2800000-w3600000/"><img src="/variants/s17/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2~x2~wi4000000-lr2800000-w3600000/sett.png" alt="Weston-McCue (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/weston-mccue/">Weston-McCue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/weston-mccue/"><img src="/variants/s17/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2~x2~wi4000000-lr2800000-w3600000/sett.png" alt="Weston-McCue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

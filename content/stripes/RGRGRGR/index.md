@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r58y3r6g16r12g16r6/">Cameron Ancient</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r58y3r6g16r12g16r6/"><img src="/variants/s7/r58y3r6g16r12g16r6/sett.png" alt="Cameron Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r8y2r15g10r4g10r4~x2/">Caspari (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r8y2r15g10r4g10r4~x2/"><img src="/variants/s7/r8y2r15g10r4g10r4~x2/sett.png" alt="Caspari (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cameron-2/">Cameron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-2/"><img src="/variants/s7/r58y3r6g16r12g16r6/sett.png" alt="Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caspari/">Caspari</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caspari/"><img src="/variants/s7/r8y2r15g10r4g10r4~x2/sett.png" alt="Caspari sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

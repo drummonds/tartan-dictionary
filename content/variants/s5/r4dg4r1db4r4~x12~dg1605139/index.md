@@ -12,15 +12,15 @@ crumbs:
 - name: "Gow"
   url: "/tartans/g/go/gow/"
 - name: "Gow"
-  url: "/setts/r4dg4r1db4r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4dg4r1db4r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRBRBRGR](/stripes/grbrbrgr/).
+provenance below. It is one weaving of the [sett](/tartans/g/go/gow/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRGR](/stripes/rbrgr/).
 
 Part of the [Gow](/tartans/g/go/gow/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1472](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1472)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5916
 
 ## Thread count
-R/48 DG48 R12 DB48 R48 DB48 R12 DG/48
+R/48 DG48 R12 DB48 R/48
 
-One full sett is **528 threads**.
+One full sett is **312 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/48 DG48 R12 DB48 R48 DB48 R12 DG/48 — 528 threads; it folds to the canonical 312-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **528 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/48 DG48 R12 DB48 R48 DB48 R12 DG/48 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/48 DG48 R12 DB48 R/48 tartan" width="880" height="480">
 
 ## Compared to the master
 

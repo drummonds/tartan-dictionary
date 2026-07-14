@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/">Women's Wear Daily 'Clan' (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/"><img src="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/sett.png" alt="Women's Wear Daily 'Clan' (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/women-s-wear-daily/">Women's Wear Daily</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/women-s-wear-daily/"><img src="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/sett.png" alt="Women's Wear Daily sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

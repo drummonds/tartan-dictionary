@@ -28,14 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/dp3n1g2~x10/">Coleman, Sarah-Louise (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dp3n1g2~x10/"><img src="/variants/s3/dp3n1g2~x10/sett.png" alt="Coleman, Sarah-Louise (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/dg8dr1db1n1~x10/">Jodi Williams (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dg8dr1db1n1~x10/"><img src="/variants/s4/dg8dr1db1n1~x10/sett.png" alt="Jodi Williams (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/b20dp3db7y1~x4/">Peacock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/b20dp3db7y1~x4/"><img src="/variants/s4/b20dp3db7y1~x4/sett.png" alt="Peacock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/peacock-2/">Peacock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peacock-2/"><img src="/variants/s4/b20dp3db7y1~x4/sett.png" alt="Peacock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

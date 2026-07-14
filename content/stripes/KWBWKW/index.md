@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w8k16w2db2w1k1~x4/">Ikelman No 1</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w8k16w2db2w1k1~x4/"><img src="/variants/s6/w8k16w2db2w1k1~x4/sett.png" alt="Ikelman No 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ik/ikelman-no-1/">Ikelman No 1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ik/ikelman-no-1/"><img src="/variants/s6/w8k16w2db2w1k1~x4/sett.png" alt="Ikelman No 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Cadence"
   url: "/tartans/c/ca/cadence/"
 - name: "Cadence"
-  url: "/setts/db51dg5r15dg37db17r6dg5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db51dg5r15dg37db17r6dg5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cadence/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGBRG](/stripes/bgrgbrg/).
 
 Part of the [Cadence](/tartans/c/ca/cadence/) tartan — the named design grouping this sett with its other cloths.

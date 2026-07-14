@@ -8,15 +8,15 @@ crumbs:
 - name: "Scotland's National"
   url: "/tartans/s/sc/scotland-s-national/"
 - name: "Scotland's National"
-  url: "/setts/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBBBKGKGKGKBKBKBKGKGKGKBBBW](/stripes/bwbbbkgkgkgkbkbkbkgkgkgkbbbw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scotland-s-national/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKGKBBBWB](/stripes/bkbkgkgkgkbbbwb/).
 
 Part of the [Scotland's National](/tartans/s/sc/scotland-s-national/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3682](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3682)
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2154
 
 ## Thread count
-DT/24 W4 DT4 DR4 DT4 K20 DG24 K4 DG8 K4 DG24 K20 DT24 K4 DR6 K4 DT24 K20 DG24 K4 DG8 K4 DG24 K20 DT4 DR4 DT4 W/4
+DT/24 W4 DT4 DR4 DT4 K20 DG24 K4 DG8 K4 DG24 K20 DT24 K4 DR/6
 
-One full sett is **624 threads**.
+One full sett is **326 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DT/24 W4 DT4 DR4 DT4 K20 DG24 K4 DG8 K4 DG24 K20 DT24 K4 DR6 K4 DT24 K20 DG24 K4 DG8 K4 DG24 K20 DT4 DR4 DT4 W/4 — 624 threads; it folds to the canonical 326-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **624 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/24 W4 DT4 DR4 DT4 K20 DG24 K4 DG8 K4 DG24 K20 DT24 K4 DR6 K4 DT24 K20 DG24 K4 DG8 K4 DG24 K20 DT4 DR4 DT4 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/24 W4 DT4 DR4 DT4 K20 DG24 K4 DG8 K4 DG24 K20 DT24 K4 DR/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

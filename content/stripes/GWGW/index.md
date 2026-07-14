@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/lb48g25lb13y5~x2/">Laurel Park</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb48g25lb13y5~x2/"><img src="/variants/s4/lb48g25lb13y5~x2/sett.png" alt="Laurel Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laurel-park/">Laurel Park</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laurel-park/"><img src="/variants/s4/lb48g25lb13y5~x2/sett.png" alt="Laurel Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/dg4w35g31w4~x2/">Lewis, Green (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dg4w35g31w4~x2/"><img src="/variants/s4/dg4w35g31w4~x2/sett.png" alt="Lewis, Green (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lewis/">Lewis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lewis/"><img src="/variants/s4/dg4w35g31w4~x2/sett.png" alt="Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

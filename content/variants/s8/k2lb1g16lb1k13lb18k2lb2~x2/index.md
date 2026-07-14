@@ -10,10 +10,10 @@ crumbs:
 - name: "Hebridean Old"
   url: "/tartans/h/he/hebridean-old-2/"
 - name: "Hebridean Old"
-  url: "/setts/k2lb1g16lb1k13lb18k2lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2lb1g16lb1k13lb18k2lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebridean-old-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGWKWKW](/stripes/kwgwkwkw/).
 
 Part of the [Hebridean Old](/tartans/h/he/hebridean-old-2/) tartan — the named design grouping this sett with its other cloths.

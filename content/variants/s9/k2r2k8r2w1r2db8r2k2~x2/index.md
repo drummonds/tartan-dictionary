@@ -8,10 +8,10 @@ crumbs:
 - name: "Gipsy"
   url: "/tartans/g/gi/gipsy/"
 - name: "Gipsy"
-  url: "/setts/k2r2k8r2w1r2db8r2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2r2k8r2w1r2db8r2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gi/gipsy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRWRKRK](/stripes/krbrwrkrk/).
 
 Part of the [Gipsy](/tartans/g/gi/gipsy/) tartan — the named design grouping this sett with its other cloths.

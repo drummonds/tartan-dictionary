@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4g19k16w2db15g4~x2/">Graham of Montrose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4g19k16w2db15g4~x2/"><img src="/variants/s6/k4g19k16w2db15g4~x2/sett.png" alt="Graham of Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/graham-of-montrose/">Graham of Montrose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-of-montrose/"><img src="/variants/s6/k4g19k16w2db15g4~x2/sett.png" alt="Graham of Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

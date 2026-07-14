@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/">13, Centennial Warp</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/"><img src="/variants/s36/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/sett.png" alt="13, Centennial Warp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/13-centennial-warp/">13, Centennial Warp</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/13-centennial-warp/"><img src="/variants/s36/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/sett.png" alt="13, Centennial Warp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

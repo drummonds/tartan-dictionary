@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dp24do2g3o2g3k11do29w2~x2/">Alba</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp24do2g3o2g3k11do29w2~x2/"><img src="/variants/s8/dp24do2g3o2g3k11do29w2~x2/sett.png" alt="Alba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alba/">Alba</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alba/"><img src="/variants/s8/dp24do2g3o2g3k11do29w2~x2/sett.png" alt="Alba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

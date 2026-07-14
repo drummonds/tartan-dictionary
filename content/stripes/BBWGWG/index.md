@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g32lb6g12lb28dr2db1~x2/">Palm Beach Gardens Police</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g32lb6g12lb28dr2db1~x2/"><img src="/variants/s6/g32lb6g12lb28dr2db1~x2/sett.png" alt="Palm Beach Gardens Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/palm-beach-gardens-police/">Palm Beach Gardens Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/palm-beach-gardens-police/"><img src="/variants/s6/g32lb6g12lb28dr2db1~x2/sett.png" alt="Palm Beach Gardens Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

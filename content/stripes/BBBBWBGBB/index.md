@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/">Nethybridge</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/"><img src="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/sett.png" alt="Nethybridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/nethybridge/">Nethybridge</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/nethybridge/"><img src="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/sett.png" alt="Nethybridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

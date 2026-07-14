@@ -12,10 +12,10 @@ crumbs:
 - name: "Fraser"
   url: "/tartans/f/fr/fraser-4/"
 - name: "Fraser"
-  url: "/setts/db16r1db1r1g12r16g2r16g12db12r1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16r1db1r1g12r16g2r16g12db12r1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraser-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
 
 Part of the [Fraser](/tartans/f/fr/fraser-4/) tartan — the named design grouping this sett with its other cloths.

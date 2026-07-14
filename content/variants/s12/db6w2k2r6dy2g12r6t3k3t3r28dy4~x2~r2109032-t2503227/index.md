@@ -12,15 +12,15 @@ crumbs:
 - name: "Wren"
   url: "/tartans/w/wr/wren/"
 - name: "Wren"
-  url: "/setts/db6w2k2r6dy2g12r6t3k3t3r28dy4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6w2k2r6dy2g12r6t3k3t3r28dy4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWKRGGRBKBRGRBKBRGGRKW](/stripes/bwkrggrbkbrgrbkbrggrkw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wr/wren/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKRGGRBKBRG](/stripes/bwkrggrbkbrg/).
 
 Part of the [Wren](/tartans/w/wr/wren/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5300](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5300)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3815
 
 ## Thread count
-DB/12 W4 K4 R12 DY4 G24 R12 T6 K6 T6 R56 DY8 R56 T6 K6 T6 R12 G24 DY4 R12 K4 W/4
+DB/12 W4 K4 R12 DY4 G24 R12 T6 K6 T6 R56 DY/8
 
-One full sett is **560 threads**.
+One full sett is **288 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/12 W4 K4 R12 DY4 G24 R12 T6 K6 T6 R56 DY8 R56 T6 K6 T6 R12 G24 DY4 R12 K4 W/4 — 560 threads; it folds to the canonical 288-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **560 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 W4 K4 R12 DY4 G24 R12 T6 K6 T6 R56 DY8 R56 T6 K6 T6 R12 G24 DY4 R12 K4 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 W4 K4 R12 DY4 G24 R12 T6 K6 T6 R56 DY/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

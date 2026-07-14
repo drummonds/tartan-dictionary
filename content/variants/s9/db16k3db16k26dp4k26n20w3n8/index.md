@@ -8,10 +8,10 @@ crumbs:
 - name: "Scotsburn Croft"
   url: "/tartans/s/sc/scotsburn-croft/"
 - name: "Scotsburn Croft"
-  url: "/setts/db16k3db16k26dp4k26n20w3n8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16k3db16k26dp4k26n20w3n8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scotsburn-croft/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBWB](/stripes/bkbkbkbwb/).
 
 Part of the [Scotsburn Croft](/tartans/s/sc/scotsburn-croft/) tartan — the named design grouping this sett with its other cloths.

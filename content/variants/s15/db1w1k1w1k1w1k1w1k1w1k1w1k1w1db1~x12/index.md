@@ -10,10 +10,10 @@ crumbs:
 - name: "Haig Check"
   url: "/tartans/h/ha/haig-check/"
 - name: "Haig Check"
-  url: "/setts/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/haig-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKWKWKWKWKWB](/stripes/bwkwkwkwkwkwkwb/).
 
 Part of the [Haig Check](/tartans/h/ha/haig-check/) tartan — the named design grouping this sett with its other cloths.

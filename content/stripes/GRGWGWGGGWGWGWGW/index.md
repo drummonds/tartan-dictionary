@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/">Jubilee Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/"><img src="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/sett.png" alt="Jubilee Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/jubilee-2/">Jubilee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/jubilee-2/"><img src="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/sett.png" alt="Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

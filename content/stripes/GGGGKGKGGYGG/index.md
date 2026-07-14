@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dy14y3dy14g14k14g5k14g14dy14ly3dy14g14~x2~y2602166-ly3307090/">Buchanan Hunting #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dy14y3dy14g14k14g5k14g14dy14ly3dy14g14~x2~y2602166-ly3307090/"><img src="/variants/s12/dy14y3dy14g14k14g5k14g14dy14ly3dy14g14~x2~y2602166-ly3307090/sett.png" alt="Buchanan Hunting #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buchanan-hunting/">Buchanan Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buchanan-hunting/"><img src="/variants/s12/dy14y3dy14g14k14g5k14g14dy14ly3dy14g14~x2~y2602166-ly3307090/sett.png" alt="Buchanan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

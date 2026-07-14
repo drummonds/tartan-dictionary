@@ -15,7 +15,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/a/ar/arctic-2/"><img src="/variants/s22/w6lb1w1lb2r2dg2k2w1t2db16w1db16t2w1k2dg2r2lb2w1lb1w6t1~x4/sett.png" alt="Arctic" width="140"><br><strong>Arctic (1)</strong></a><div class="clan-territory">Arctic</div></li>
 <li><a class="tartan" href="/tartans/a/ar/ardalansish-tweed/"><img src="/variants/s6/do1ly1do2lr4n1lr1~x8/sett.png" alt="Ardalansish Tweed" width="140"><br><strong>Ardalansish Tweed (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ar/ardee/"><img src="/variants/s5/db4r1db18n18lb1~x4/sett.png" alt="Ardee" width="140"><br><strong>Ardee (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/ar/ardmore/"><img src="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/sett.png" alt="Ardmore" width="140"><br><strong>Ardmore (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/a/ar/ardmore/"><img src="/variants/s8/k21o2k8w2o16n6k2n8~x2/sett.png" alt="Ardmore" width="140"><br><strong>Ardmore (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ar/arduaine/"><img src="/variants/s7/w5k2w30r24w3r8db3~x2/sett.png" alt="Arduaine" width="140"><br><strong>Arduaine (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ar/argentina/"><img src="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/sett.png" alt="Argentina" width="140"><br><strong>Argentina (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ar/argentina-argentinian/"><img src="/variants/s12/db36dbi3db3dbi33w3dbi5w3dbi33db3dbi3db36dbi3~x2~db1204274-dbi1406275-w3600000/sett.png" alt="Argentina Argentinian" width="140"><br><strong>Argentina Argentinian (1)</strong></a></li>
@@ -24,7 +24,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/a/ar/argyll/"><img src="/variants/s7/r2k1db8k8g8k1lb2~x2/sett.png" alt="Argyll" width="140"><br><strong>Argyll (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ar/argyll-campbell/"><img src="/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/sett.png" alt="Argyll Campbell" width="140"><br><strong>Argyll Campbell (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ar/arisaig/"><img src="/variants/s11/lb4r4lb12w12k4g4db8r1w1db1y1~x2/sett.png" alt="Arisaig" width="140"><br><strong>Arisaig (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/ar/arizona/"><img src="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4~ly2503076/sett.png" alt="Arizona" width="140"><br><strong>Arizona (1)</strong></a><div class="clan-territory">Arizona</div></li>
+<li><a class="tartan" href="/tartans/a/ar/arizona/"><img src="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4/sett.png" alt="Arizona" width="140"><br><strong>Arizona (1)</strong></a><div class="clan-territory">Arizona</div></li>
 <li><a class="tartan" href="/tartans/a/ar/arizona-2/"><img src="/variants/s12/dy3g2w2r2dy12k12g12r2g2t2g2y2~x2~w4000000-t2503227/sett.png" alt="Arizona" width="140"><br><strong>Arizona (1)</strong></a><div class="clan-territory">Arizona</div></li>
 <li><a class="tartan" href="/tartans/a/ar/arizona-jones/"><img src="/variants/s10/dg18k1dr9k12dr9k1dg18k1n6dg1~x2/sett.png" alt="Arizona Jones" width="140"><br><strong>Arizona Jones (1)</strong></a><div class="clan-territory">Clan Arizona</div></li>
 <li><a class="tartan" href="/tartans/a/ar/arkansas/"><img src="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/sett.png" alt="Arkansas" width="140"><br><strong>Arkansas (3)</strong></a><div class="clan-territory">Arkansas</div></li>
@@ -32,7 +32,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/a/ar/armagh/"><img src="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/sett.png" alt="Armagh" width="140"><br><strong>Armagh (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ar/armagh-county-crest/"><img src="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/sett.png" alt="Armagh County Crest" width="140"><br><strong>Armagh County Crest (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ar/armagh-county/"><img src="/variants/s9/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171/sett.png" alt="Armagh, County" width="140"><br><strong>Armagh, County (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/a/ar/armstrong/"><img src="/variants/s10/r3db12k1db1k1db2k12g30k1g2~x2~db1406275/sett.png" alt="Armstrong" width="140"><br><strong>Armstrong (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/a/ar/armstrong/"><img src="/variants/s10/r3db12k1db1k1db2k12g30k1g2~x2/sett.png" alt="Armstrong" width="140"><br><strong>Armstrong (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ar/army-benevolent-fund/"><img src="/variants/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2~dbi1406275-db1106275/sett.png" alt="Army Benevolent Fund" width="140"><br><strong>Army Benevolent Fund (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ar/army-cadet-force/"><img src="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/sett.png" alt="Army Cadet Force" width="140"><br><strong>Army Cadet Force (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ar/army-medical-services/"><img src="/variants/s12/r16db2r2db2r2db16g16dy1r16db16r2n2~x2/sett.png" alt="Army Medical Services" width="140"><br><strong>Army Medical Services (1)</strong></a></li>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/lb6do28lo20lb3~x2/">Prince of Orange</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb6do28lo20lb3~x2/"><img src="/variants/s4/lb6do28lo20lb3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/prince-of-orange-4/">Prince of Orange</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-of-orange-4/"><img src="/variants/s4/lb6do28lo20lb3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

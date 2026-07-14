@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/">Ogilvie of Strathallan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/"><img src="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/sett.png" alt="Ogilvie of Strathallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/og/ogilvie-of-strathallan/">Ogilvie of Strathallan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvie-of-strathallan/"><img src="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/sett.png" alt="Ogilvie of Strathallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

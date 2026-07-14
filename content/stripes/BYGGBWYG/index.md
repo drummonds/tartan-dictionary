@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dy31ly6lb3db36dy8g60ly7n7~x2~db1004274-n2203265/">Little-Dowse Wedding</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy31ly6lb3db36dy8g60ly7n7~x2~db1004274-n2203265/"><img src="/variants/s8/dy31ly6lb3db36dy8g60ly7n7~x2~db1004274-n2203265/sett.png" alt="Little-Dowse Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/little-dowse-wedding/">Little-Dowse Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/little-dowse-wedding/"><img src="/variants/s8/dy31ly6lb3db36dy8g60ly7n7~x2~db1004274-n2203265/sett.png" alt="Little-Dowse Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

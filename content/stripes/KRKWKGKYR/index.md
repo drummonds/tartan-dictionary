@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/">State Seal of Alabama (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/"><img src="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/sett.png" alt="State Seal of Alabama (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-alabama/">State Seal of Alabama</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-alabama/"><img src="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/sett.png" alt="State Seal of Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

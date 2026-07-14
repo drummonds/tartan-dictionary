@@ -12,10 +12,10 @@ crumbs:
 - name: "Binder"
   url: "/tartans/b/bi/binder-2/"
 - name: "Binder (2013)"
-  url: "/setts/r2k26db10w1k2g9k1dg9k26db1k26dg9k1g9k2w1db10k25r2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k26db10w1k2g9k1dg9k26db1k26dg9k1g9k2w1db10k25r2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bi/binder-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBWKGKGKBKGKGKWBKRW](/stripes/rkbwkgkgkbkgkgkwbkrw/).
 
 Part of the [Binder](/tartans/b/bi/binder-2/) tartan — the named design grouping this sett with its other cloths.

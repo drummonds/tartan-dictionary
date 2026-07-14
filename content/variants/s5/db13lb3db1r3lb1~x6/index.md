@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Moy"
   url: "/tartans/g/gl/glen-moy-2/"
 - name: "Glen Moy"
-  url: "/setts/db13lb3db1r3lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db13lb3db1r3lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-moy-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRW](/stripes/bwbrw/).
 
 Part of the [Glen Moy](/tartans/g/gl/glen-moy-2/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1387](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1986 — Glen Moy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1387">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Gordon teall gave specimen to Scottish Tartans Society in 1986. This also called 'dress' Moy.. Scottish Tartans World Register archive.</em></li>
-<li>pre 1986 — Glen Moy 1986 (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=635">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>GordonTteall gave specimen to STS in 1986.</em></li>
+<li>pre 1986 — Glen Moy 1986 (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/635/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>GordonTteall gave specimen to STS in 1986.</em></li>
 </ul>
 </details>
 

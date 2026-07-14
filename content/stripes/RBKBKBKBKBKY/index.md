@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r3n23k3db3k3n18k2n2k2n2k19ly3~x2/">MacInnes Homecoming (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r3n23k3db3k3n18k2n2k2n2k19ly3~x2/"><img src="/variants/s12/r3n23k3db3k3n18k2n2k2n2k19ly3~x2/sett.png" alt="MacInnes Homecoming (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macinnes-homecoming/">MacInnes Homecoming</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macinnes-homecoming/"><img src="/variants/s12/r3n23k3db3k3n18k2n2k2n2k19ly3~x2/sett.png" alt="MacInnes Homecoming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

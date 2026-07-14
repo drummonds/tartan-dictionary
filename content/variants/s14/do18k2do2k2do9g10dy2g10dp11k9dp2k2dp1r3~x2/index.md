@@ -12,10 +12,10 @@ crumbs:
 - name: "Hay"
   url: "/tartans/h/ha/hay/"
 - name: "Hay Gray (Personal)"
-  url: "/setts/do18k2do2k2do9g10dy2g10dp11k9dp2k2dp1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do18k2do2k2do9g10dy2g10dp11k9dp2k2dp1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hay/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBGGGBKBKBR](/stripes/bkbkbgggbkbkbr/).
 
 Part of the [Hay](/tartans/h/ha/hay/) tartan — the named design grouping this sett with its other cloths.

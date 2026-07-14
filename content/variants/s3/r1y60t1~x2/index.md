@@ -8,10 +8,10 @@ crumbs:
 - name: "Nutwood"
   url: "/tartans/n/nu/nutwood/"
 - name: "Nutwood"
-  url: "/setts/r1y60t1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1y60t1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/nu/nutwood/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGR](/stripes/bgr/).
 
 Part of the [Nutwood](/tartans/n/nu/nutwood/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3207](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2006 — Nutwood (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3207">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #1474B4"></span><br><em>A tartan for Rupert Bear's home town of Nutwood.</em></li>
-<li>pre 2006 — Nutwood (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7053">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #1474B4"></span><br><em>A tartan for Rupert Bear's home town of Nutwood.</em></li>
+<li>pre 2006 — Nutwood (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7053/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #1474B4"></span><br><em>A tartan for Rupert Bear's home town of Nutwood.</em></li>
 </ul>
 </details>
 

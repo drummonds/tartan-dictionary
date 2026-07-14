@@ -8,10 +8,10 @@ crumbs:
 - name: "Hydro-Electric"
   url: "/tartans/h/hy/hydro-electric-3/"
 - name: "Hydro-Electric"
-  url: "/setts/db11k4w5k1r3k1w5k4db11r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11k4w5k1r3k1w5k4db11r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hy/hydro-electric-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKRKWKBR](/stripes/bkwkrkwkbr/).
 
 Part of the [Hydro-Electric](/tartans/h/hy/hydro-electric-3/) tartan — the named design grouping this sett with its other cloths.

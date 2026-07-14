@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/">Smith (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><img src="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/sett.png" alt="Smith (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sm/smith-3/">Smith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sm/smith-3/"><img src="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4~db1406275/sett.png" alt="Smith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s11/dr2k1g7k6t7db2t7k6g7k1lo2~x4/">Smith of Pennilands (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr2k1g7k6t7db2t7k6g7k1lo2~x4/"><img src="/variants/s11/dr2k1g7k6t7db2t7k6g7k1lo2~x4/sett.png" alt="Smith of Pennilands (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sm/smith-of-pennilands/">Smith of Pennilands</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sm/smith-of-pennilands/"><img src="/variants/s11/dr2k1g7k6t7db2t7k6g7k1lo2~x4/sett.png" alt="Smith of Pennilands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

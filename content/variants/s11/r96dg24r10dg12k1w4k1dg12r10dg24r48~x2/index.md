@@ -12,10 +12,10 @@ crumbs:
 - name: "Maconachie of Meadowbank"
   url: "/tartans/m/ma/maconachie-of-meadowbank/"
 - name: "Maconachie of Meadowbank"
-  url: "/setts/r96dg24r10dg12k1w4k1dg12r10dg24r48/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r96dg24r10dg12k1w4k1dg12r10dg24r48/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maconachie-of-meadowbank/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGKWKGRGR](/stripes/rgrgkwkgrgr/).
 
 Part of the [Maconachie of Meadowbank](/tartans/m/ma/maconachie-of-meadowbank/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "George, Stuart"
   url: "/tartans/g/ge/george-stuart/"
 - name: "George, Stuart (Personal)"
-  url: "/setts/db62w2db4w5db6y2dr8y3w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db62w2db4w5db6y2dr8y3w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ge/george-stuart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBGBGW](/stripes/bwbwbgbgw/).
 
 Part of the [George, Stuart](/tartans/g/ge/george-stuart/) tartan — the named design grouping this sett with its other cloths.

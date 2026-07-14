@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/crane/"
 - name: "Crane of Cluny"
   url: "/families/crane-of-cluny/"
+aliases:
+- "/setts/k83w6k3w9r2w5k2y2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkwrwkwk/">GKWRWKWK</a></nav>
 A tartan of the [Crane of Cluny](/families/crane-of-cluny/) family.
 Its design is pattern [GKWRWKWK](/stripes/gkwrwkwk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Crane of Cluny Mourning** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k83w6k3w9r2w5k2y2/">Crane of Cluny Mourning</a></td><td><code>K/166 W12 K6 W18 R4 W10 K4 Y/4</code></td><td>278</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k83w6k3w9r2w5k2y2/"><img src="/variants/s8/k83w6k3w9r2w5k2y2~x2/sett.png" alt="Crane of Cluny Mourning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k83w6k3w9r2w5k2y2~x2/">Crane of Cluny Mourning</a></td><td><code>K/166 W12 K6 W18 R4 W10 K4 Y/4</code></td><td>278</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k83w6k3w9r2w5k2y2~x2/"><img src="/variants/s8/k83w6k3w9r2w5k2y2~x2/sett.png" alt="Crane of Cluny Mourning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/"><circle cx="403.6" cy="78.9" r="4" fill="#3465a4"><title>Tweedside Variation</title></circle></a><a href="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/"><circle cx="469.8" cy="52.7" r="4" fill="#3465a4"><title>Marine Harvest Scotland</title></circle></a><a href="/variants/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="465.4" cy="76.5" r="4" fill="#3465a4"><title>Volkswagen Black Trim</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="431.0" cy="65.9" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="443.4" cy="63.9" r="4" fill="#3465a4"><title>Racing Stewart, Stealth</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="356.3" cy="35.8" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="468.3" cy="66.7" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="499.3" cy="41.4" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s8/k38y1w7y1k4y2k3y2~x2/"><circle cx="471.7" cy="62.4" r="4" fill="#3465a4"><title>Erck, Georges van</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="506.9" cy="54.4" r="4" fill="#3465a4"><title>Perratt</title></circle></a><circle cx="471.7" cy="35.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/"><circle cx="405.0" cy="79.2" r="4" fill="#3465a4"><title>Tweedside Variation</title></circle></a><a href="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/"><circle cx="471.4" cy="53.0" r="4" fill="#3465a4"><title>Marine Harvest Scotland</title></circle></a><a href="/variants/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="467.0" cy="76.9" r="4" fill="#3465a4"><title>Volkswagen Black Trim</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="432.5" cy="66.2" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="444.9" cy="64.3" r="4" fill="#3465a4"><title>Racing Stewart, Stealth</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="357.6" cy="35.9" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="470.0" cy="67.1" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="501.0" cy="41.8" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s8/k38y1w7y1k4y2k3y2~x2/"><circle cx="473.4" cy="62.8" r="4" fill="#3465a4"><title>Erck, Georges van</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="508.6" cy="54.8" r="4" fill="#3465a4"><title>Perratt</title></circle></a><circle cx="473.4" cy="36.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Crawford"
   url: "/tartans/c/cr/crawford/"
 - name: "Crawford"
-  url: "/setts/r6w2r30g12r3g12r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6w2r30g12r3g12r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crawford/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRWR](/stripes/rgrgrwr/).
 
 Part of the [Crawford](/tartans/c/cr/crawford/) tartan — the named design grouping this sett with its other cloths.

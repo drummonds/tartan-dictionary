@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/">Capco</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><img src="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/sett.png" alt="Capco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/capco/">Capco</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/capco/"><img src="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/sett.png" alt="Capco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

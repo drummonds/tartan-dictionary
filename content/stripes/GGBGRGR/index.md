@@ -28,14 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r3g10r3g14db16g3y2/">Cameron Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r3g10r3g14db16g3y2/"><img src="/variants/s7/r3g10r3g14db16g3y2/sett.png" alt="Cameron Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/">Cameron Hunting Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><img src="/variants/s7/r3g10r3g14db16g3dy2~x2/sett.png" alt="Cameron Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/">Cameron of Locheil Htg (1952) (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><img src="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/sett.png" alt="Cameron of Locheil Htg (1952) (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r5g20r5g20db24g6y4/">Cameron of Lochiel (Hunting) Clan/Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r5g20r5g20db24g6y4/"><img src="/variants/s7/r5g20r5g20db24g6y4/sett.png" alt="Cameron of Lochiel (Hunting) Clan/Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cameron-hunting-2/">Cameron Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-hunting-2/"><img src="/variants/s7/r3g10r3g14db16g3y2/sett.png" alt="Cameron Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cameron-of-locheil-hunting/">Cameron of Locheil Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-of-locheil-hunting/"><img src="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/sett.png" alt="Cameron of Locheil Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cameron-of-lochiel/">Cameron of Lochiel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-of-lochiel/"><img src="/variants/s7/r5g20r5g20db24g6y4/sett.png" alt="Cameron of Lochiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

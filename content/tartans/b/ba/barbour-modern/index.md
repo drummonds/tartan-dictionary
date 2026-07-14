@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Barbour"
   url: "/clan/barbour/"
+aliases:
+- "/setts/lb4ly2lb21k11w2n21r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbwkwyw/">RBWKWYW</a></nav>
 A tartan of [Clan Barbour](/clan/barbour/).
 Its design is pattern [RBWKWYW](/stripes/rbwkwyw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Barbour -Modern** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb4ly2lb21k11w2n21r2/">Barbour -Modern</a></td><td><code>LB/8 LY4 LB42 K22 W4 N42 R/4</code></td><td>240</td><td>~2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb4ly2lb21k11w2n21r2/"><img src="/variants/s7/lb4ly2lb21k11w2n21r2~x2/sett.png" alt="Barbour -Modern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/">Barbour -Modern</a></td><td><code>LB/8 LY4 LB42 K22 W4 N42 R/4</code></td><td>240</td><td>~2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><img src="/variants/s7/lb4ly2lb21k11w2n21r2~x2/sett.png" alt="Barbour -Modern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db3r2n15w10k2y3~x2/"><circle cx="133.5" cy="177.5" r="4" fill="#3465a4"><title>SCH '67 Class</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="110.8" cy="167.3" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="141.0" cy="147.4" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="152.8" cy="132.4" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.5" cy="129.5" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="169.0" cy="139.1" r="4" fill="#3465a4"><title>Dignan Corporate School</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="115.6" cy="168.3" r="4" fill="#3465a4"><title>Alexander Brothers</title></circle></a><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/"><circle cx="123.6" cy="155.2" r="4" fill="#3465a4"><title>State Seal of Utah</title></circle></a><a href="/variants/s7/r3w2db27k19w27dp2y3~x2/"><circle cx="113.7" cy="138.2" r="4" fill="#3465a4"><title>Christian Dress</title></circle></a><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="108.7" cy="140.5" r="4" fill="#3465a4"><title>Moran</title></circle></a><circle cx="145.0" cy="160.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db3r2n15w10k2y3~x2/"><circle cx="133.8" cy="177.2" r="4" fill="#3465a4"><title>SCH '67 Class</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="111.1" cy="167.0" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="141.4" cy="147.1" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.2" cy="132.1" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.8" cy="129.1" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="169.4" cy="138.8" r="4" fill="#3465a4"><title>Dignan Corporate School</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="115.8" cy="167.9" r="4" fill="#3465a4"><title>Alexander Brothers</title></circle></a><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/"><circle cx="124.0" cy="154.9" r="4" fill="#3465a4"><title>State Seal of Utah</title></circle></a><a href="/variants/s7/r3w2db27k19w27dp2y3~x2/"><circle cx="114.1" cy="137.8" r="4" fill="#3465a4"><title>Christian Dress</title></circle></a><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="109.1" cy="140.2" r="4" fill="#3465a4"><title>Moran</title></circle></a><circle cx="145.3" cy="160.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

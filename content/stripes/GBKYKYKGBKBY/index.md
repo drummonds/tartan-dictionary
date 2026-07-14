@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/">Princess Mary #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><img src="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/sett.png" alt="Princess Mary #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/princess-mary/">Princess Mary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-mary/"><img src="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/sett.png" alt="Princess Mary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

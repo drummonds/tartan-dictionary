@@ -8,15 +8,15 @@ crumbs:
 - name: "Unnamed C18th"
   url: "/tartans/u/un/unnamed-c18th/"
 - name: "Unnamed C18th - Prince Charles Edward"
-  url: "/setts/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWGWBGGWGBWBBRWRBBWBGWGGBWGW](/stripes/rwgwbggwgbwbbrwrbbwbgwggbwgw/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unnamed-c18th/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWGWBGGWGBWBBRW](/stripes/rwgwbggwgbwbbrw/).
 
 Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4420](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4420)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1707
 
 ## Thread count
-R/16 W4 DY100 W4 DB34 G30 Y10 W3 G16 DP12 W4 DB16 DO64 R26 W4 R26 DO64 DB16 W4 DP12 G16 W3 Y10 G30 DB34 W4 DY100 W/4
+R/16 W4 DY100 W4 DB34 G30 Y10 W3 G16 DP12 W4 DB16 DO64 R26 W/4
 
-One full sett is **1312 threads**.
+One full sett is **666 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/16 W4 DY100 W4 DB34 G30 Y10 W3 G16 DP12 W4 DB16 DO64 R26 W4 R26 DO64 DB16 W4 DP12 G16 W3 Y10 G30 DB34 W4 DY100 W/4 — 1312 threads; it folds to the canonical 666-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **1312 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/16 W4 DY100 W4 DB34 G30 Y10 W3 G16 DP12 W4 DB16 DO64 R26 W4 R26 DO64 DB16 W4 DP12 G16 W3 Y10 G30 DB34 W4 DY100 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/16 W4 DY100 W4 DB34 G30 Y10 W3 G16 DP12 W4 DB16 DO64 R26 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

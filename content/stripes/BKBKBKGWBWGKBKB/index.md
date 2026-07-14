@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/">Lyon (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/"><img src="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/sett.png" alt="Lyon (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ly/lyon-2/">Lyon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ly/lyon-2/"><img src="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/sett.png" alt="Lyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

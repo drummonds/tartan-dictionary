@@ -8,10 +8,10 @@ crumbs:
 - name: "Héritage Séquane"
   url: "/tartans/h/h/h-ritage-s-quane/"
 - name: "Héritage Séquane"
-  url: "/setts/db5r2y7r2db42g28k5db10k15g5w3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5r2y7r2db42g28k5db10k15g5w3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/h/h-ritage-s-quane/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBGKBKGWR](/stripes/brgrbgkbkgwr/).
 
 Part of the [Héritage Séquane](/tartans/h/h/h-ritage-s-quane/) tartan — the named design grouping this sett with its other cloths.

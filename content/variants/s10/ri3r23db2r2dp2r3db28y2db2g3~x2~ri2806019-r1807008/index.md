@@ -8,10 +8,10 @@ crumbs:
 - name: "Yarns to Yearn For"
   url: "/tartans/y/ya/yarns-to-yearn-for/"
 - name: "Yarns to Yearn For"
-  url: "/setts/ri3r23db2r2dp2r3db28y2db2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ri3r23db2r2dp2r3db28y2db2g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/ya/yarns-to-yearn-for/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBRBRBRR](/stripes/gbgbrbrbrr/).
 
 Part of the [Yarns to Yearn For](/tartans/y/ya/yarns-to-yearn-for/) tartan — the named design grouping this sett with its other cloths.

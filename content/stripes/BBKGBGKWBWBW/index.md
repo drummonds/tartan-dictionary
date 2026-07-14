@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/">Murray of Atholl Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/"><img src="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/sett.png" alt="Murray of Atholl Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-atholl-dress/">Murray of Atholl Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-of-atholl-dress/"><img src="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/sett.png" alt="Murray of Atholl Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

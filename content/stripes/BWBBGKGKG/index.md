@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g40k8g4k8g4dr14db64lb9db3/">West Lothian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g40k8g4k8g4dr14db64lb9db3/"><img src="/variants/s9/g40k8g4k8g4dr14db64lb9db3/sett.png" alt="West Lothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/g40k8g4k8g4dr14b64lb9b3/">West Lothian/Linlithgowshire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g40k8g4k8g4dr14b64lb9b3/"><img src="/variants/s9/g40k8g4k8g4dr14b64lb9b3/sett.png" alt="West Lothian/Linlithgowshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/west-lothian/">West Lothian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/west-lothian/"><img src="/variants/s9/g40k8g4k8g4dr14db64lb9db3/sett.png" alt="West Lothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/west-lothian-linlithgowshire/">West Lothian/Linlithgowshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/west-lothian-linlithgowshire/"><img src="/variants/s9/g40k8g4k8g4dr14b64lb9b3/sett.png" alt="West Lothian/Linlithgowshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

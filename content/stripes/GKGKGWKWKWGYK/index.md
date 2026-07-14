@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/">Lomond (1983)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/"><img src="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/sett.png" alt="Lomond (1983) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lomond/">Lomond</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lomond/"><img src="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/sett.png" alt="Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

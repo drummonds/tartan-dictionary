@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o16k2o9g12y2g10t3k2t3k2t3o10~x2/">Highland Spring (1985)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o16k2o9g12y2g10t3k2t3k2t3o10~x2/"><img src="/variants/s12/o16k2o9g12y2g10t3k2t3k2t3o10~x2/sett.png" alt="Highland Spring (1985) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-spring/">Highland Spring</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-spring/"><img src="/variants/s12/o16k2o9g12y2g10t3k2t3k2t3o10~x2/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

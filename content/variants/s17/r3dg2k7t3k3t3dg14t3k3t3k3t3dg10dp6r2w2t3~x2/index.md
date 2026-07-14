@@ -12,10 +12,10 @@ crumbs:
 - name: "Cox"
   url: "/tartans/c/co/cox/"
 - name: "Lee Cox (Personal)"
-  url: "/setts/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cox/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBGBKBKBGBKBKGR](/stripes/bwrbgbkbkbgbkbkgr/).
 
 Part of the [Cox](/tartans/c/co/cox/) tartan — the named design grouping this sett with its other cloths.

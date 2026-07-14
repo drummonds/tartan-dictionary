@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/">Carson of Rusco (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/"><img src="/variants/s13/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/sett.png" alt="Carson of Rusco (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carson-of-rusco/">Carson of Rusco</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carson-of-rusco/"><img src="/variants/s13/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/sett.png" alt="Carson of Rusco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

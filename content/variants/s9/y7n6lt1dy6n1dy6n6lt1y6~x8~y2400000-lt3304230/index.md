@@ -12,10 +12,10 @@ crumbs:
 - name: "Outlander"
   url: "/tartans/o/ou/outlander-2/"
 - name: "Outlander #2"
-  url: "/setts/y7n6lt1dy6n1dy6n6lt1y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y7n6lt1dy6n1dy6n6lt1y6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ou/outlander-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWGBGBWG](/stripes/gbwgbgbwg/).
 
 Part of the [Outlander](/tartans/o/ou/outlander-2/) tartan — the named design grouping this sett with its other cloths.

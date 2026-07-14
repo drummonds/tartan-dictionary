@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/">Muirhead (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/"><img src="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/sett.png" alt="Muirhead (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/muirhead-2/">Muirhead</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/muirhead-2/"><img src="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/sett.png" alt="Muirhead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

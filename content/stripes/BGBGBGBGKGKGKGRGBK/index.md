@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k6db3dg4r8dg13k3dg3k3dg3k3dg4db4dy3db3dy3db3dy3db3~x2/">Glasgow Celtic Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k6db3dg4r8dg13k3dg3k3dg3k3dg4db4dy3db3dy3db3dy3db3~x2/"><img src="/variants/s18/k6db3dg4r8dg13k3dg3k3dg3k3dg4db4dy3db3dy3db3dy3db3~x2/sett.png" alt="Glasgow Celtic Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/db8dy3db3dy3db3dy3db4g4k3g3k3g3k3g13r8g4db3k6~x2/">Glasgow Celtic Society Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db8dy3db3dy3db3dy3db4g4k3g3k3g3k3g13r8g4db3k6~x2/"><img src="/variants/s18/db8dy3db3dy3db3dy3db4g4k3g3k3g3k3g13r8g4db3k6~x2/sett.png" alt="Glasgow Celtic Society Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forbes-of-druminnor/">Forbes of Druminnor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forbes-of-druminnor/"><img src="/variants/s18/k6db3dg4r8dg13k3dg3k3dg3k3dg4db4dy3db3dy3db3dy3db3~x2/sett.png" alt="Forbes of Druminnor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow-celtic-society/">Glasgow Celtic Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-celtic-society/"><img src="/variants/s18/db8dy3db3dy3db3dy3db4g4k3g3k3g3k3g13r8g4db3k6~x2/sett.png" alt="Glasgow Celtic Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

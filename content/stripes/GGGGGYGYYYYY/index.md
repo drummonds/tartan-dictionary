@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3/">Shrek</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3/"><img src="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/sett.png" alt="Shrek sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shrek/">Shrek</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shrek/"><img src="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/sett.png" alt="Shrek sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

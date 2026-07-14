@@ -8,10 +8,10 @@ crumbs:
 - name: "Glengoyne Distillery"
   url: "/tartans/g/gl/glengoyne-distillery/"
 - name: "Glengoyne Distillery Corporate Tartan"
-  url: "/setts/db11k3db3k3db3k9dg9k1dy3k1dg9k9db9k1w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11k3db3k3db3k9dg9k1dy3k1dg9k9db9k1w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glengoyne-distillery/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGKGKBKW](/stripes/bkbkbkgkgkgkbkw/).
 
 Part of the [Glengoyne Distillery](/tartans/g/gl/glengoyne-distillery/) tartan — the named design grouping this sett with its other cloths.

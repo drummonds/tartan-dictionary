@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/balfour/"
 - name: "Balfour"
   url: "/families/balfour/"
+aliases:
+- "/setts/db18y2dy6y2dy19r3/"
+- "/setts/db30y3dy11y3g33r6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bggggr/">BGGGGR</a></nav>
 A tartan of the [Balfour](/families/balfour/) family.
 Its design is pattern [BGGGGR](/stripes/bggggr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,11 +22,13 @@ The **Balfour Hunting** tartan groups 2 setts — the same named design recorded
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db18y2dy6y2dy19r3/">Balfour Hunting</a> ★</td><td><code>DB/36 Y4 DY12 Y4 DY38 R/6</code></td><td>158</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db18y2dy6y2dy19r3/"><img src="/variants/s6/db18y2dy6y2dy19r3~x2/sett.png" alt="Balfour Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db18y2dy6y2dy19r3~x2/">Balfour Hunting</a> ★</td><td><code>DB/18 Y2 DY6 Y2 DY19 R/3</code></td><td>79</td><td>1984</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db18y2dy6y2dy19r3~x2/"><img src="/variants/s6/db18y2dy6y2dy19r3~x2/sett.png" alt="Balfour Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/db18y2dy6y2dy19r3~x2/">Balfour #2</a></td><td><code>DB/36 Y4 DY12 Y4 DY38 R/6</code></td><td>158</td><td>1984</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/db18y2dy6y2dy19r3~x4/">Balfour (Clan)</a></td><td><code>DB/72 Y8 DY24 Y8 DY76 R/12</code></td><td>316</td><td>1984</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/db18y2dy6y2dy19r3~x2/">Balfour #2</a> · <a href="/variants/s6/db18y2dy6y2dy19r3~x4/">Balfour (Clan)</a></td></tr>
-<tr><td><a href="/setts/db30y3dy11y3g33r6/">Balfour Hunting</a></td><td><code>DB/60 Y6 DY22 Y6 G66 R/12</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db30y3dy11y3g33r6/"><img src="db30y3dy11y3g33r6-rev.png" alt="Balfour Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db30y3dy11y3g33r6~x2/">Balfour Hunting</a></td><td><code>DB/60 Y6 DY22 Y6 G66 R/12</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db30y3dy11y3g33r6~x2/"><img src="db30y3dy11y3g33r6-rev.png" alt="Balfour Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -42,6 +48,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db30y3dy11y3n33r6~x2/"><circle cx="278.6" cy="236.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s6/do15r5do30db32do4lo3~x2/"><circle cx="389.1" cy="240.9" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="347.2" cy="255.4" r="4" fill="#3465a4"><title>Cameron of Locheil Hunting</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="421.6" cy="293.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/r1dy8r2db8lb1~x2/"><circle cx="266.0" cy="242.9" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="379.3" cy="261.4" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s6/dy15r5dy30t32dy4lo3~x2/"><circle cx="343.5" cy="224.9" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s5/db6w1dy6do12r2~x4/"><circle cx="293.9" cy="251.0" r="4" fill="#3465a4"><title>Vass</title></circle></a><a href="/variants/s6/r2db13dr3db3dr16lb2~x4/"><circle cx="336.4" cy="235.0" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/variants/s6/db8y1dg5y12r1dg2~x6/"><circle cx="291.0" cy="228.1" r="4" fill="#3465a4"><title>McCabe</title></circle></a><circle cx="362.8" cy="245.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db30y3dy11y3n33r6~x2/"><circle cx="278.7" cy="236.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s6/do15r5do30db32do4lo3~x2/"><circle cx="389.7" cy="241.1" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="347.6" cy="255.6" r="4" fill="#3465a4"><title>Cameron of Locheil Hunting</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="422.1" cy="293.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/r1dy8r2db8lb1~x2/"><circle cx="266.3" cy="242.9" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="379.8" cy="261.6" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s6/dy15r5dy30t32dy4lo3~x2/"><circle cx="344.0" cy="225.1" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s5/db6w1dy6do12r2~x4/"><circle cx="294.0" cy="251.0" r="4" fill="#3465a4"><title>Vass</title></circle></a><a href="/variants/s6/r2db13dr3db3dr16lb2~x4/"><circle cx="336.9" cy="235.1" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/variants/s6/db8y1dg5y12r1dg2~x6/"><circle cx="291.3" cy="228.2" r="4" fill="#3465a4"><title>McCabe</title></circle></a><circle cx="363.2" cy="245.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

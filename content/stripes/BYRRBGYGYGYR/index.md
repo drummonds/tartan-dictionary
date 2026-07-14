@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o3lr14dy3lr3dy3lr4dy11dt11r11o11lr1dt1~x2/">Bridge of Weir Leather Co. (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o3lr14dy3lr3dy3lr4dy11dt11r11o11lr1dt1~x2/"><img src="/variants/s12/o3lr14dy3lr3dy3lr4dy11dt11r11o11lr1dt1~x2/sett.png" alt="Bridge of Weir Leather Co. (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bridge-of-weir-leather-co/">Bridge of Weir Leather Co.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bridge-of-weir-leather-co/"><img src="/variants/s12/o3lr14dy3lr3dy3lr4dy11dt11r11o11lr1dt1~x2/sett.png" alt="Bridge of Weir Leather Co. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

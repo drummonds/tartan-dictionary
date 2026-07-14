@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/">Hackett, William (Coatbridge) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><img src="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/sett.png" alt="Hackett, William (Coatbridge) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hackett-william/">Hackett, William</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hackett-william/"><img src="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/sett.png" alt="Hackett, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

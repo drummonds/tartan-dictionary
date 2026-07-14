@@ -40,8 +40,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2~dg1804158/"><img src="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2~dg1804158/sett.png" alt="Scotland's National" width="140"><br>Scotland's National</a></li>
 <li><a class="tartan" href="/variants/s12/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/"><img src="/variants/s12/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/sett.png" alt="Scotland's Own" width="140"><br>Scotland's Own</a></li>
 <li><a class="tartan" href="/variants/s12/r7y3r27k14o5k3o5k3o8g3o4g4~x2/"><img src="/variants/s12/r7y3r27k14o5k3o5k3o8g3o4g4~x2/sett.png" alt="Scotland's People" width="140"><br>Scotland's People</a></li>
-<li><a class="tartan" href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><img src="/variants/s9/db16k3db16k26dp4k26n20w3n8/sett.png" alt="Scotsburn Croft" width="140"><br>Scotsburn Croft</a></li>
 <li><a class="tartan" href="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/"><img src="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/sett.png" alt="Scotsburn Croft" width="140"><br>Scotsburn Croft</a></li>
+<li><a class="tartan" href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><img src="/variants/s9/db16k3db16k26dp4k26n20w3n8/sett.png" alt="Scotsburn Croft" width="140"><br>Scotsburn Croft</a></li>
 <li><a class="tartan" href="/variants/s7/g16lo3g14dr16g2dr2g3~x2/"><img src="/variants/s7/g16lo3g14dr16g2dr2g3~x2/sett.png" alt="Scott Autumn (Fashion)" width="140"><br>Scott Autumn (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/"><img src="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/sett.png" alt="Scott, Sir Walter" width="140"><br>Scott, Sir Walter</a></li>
 <li><a class="tartan" href="/variants/s8/w4k4w4k4w4db3w2r2~x2/"><img src="/variants/s8/w4k4w4k4w4db3w2r2~x2/sett.png" alt="Scott, Sir Walter #2" width="140"><br>Scott, Sir Walter #2</a></li>

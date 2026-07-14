@@ -12,10 +12,10 @@ crumbs:
 - name: "Diaspora"
   url: "/tartans/d/di/diaspora-3/"
 - name: "Diaspora"
-  url: "/setts/b3dg1r24b16db28w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b3dg1r24b16db28w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/diaspora-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBBW](/stripes/bgrbbw/).
 
 Part of the [Diaspora](/tartans/d/di/diaspora-3/) tartan — the named design grouping this sett with its other cloths.

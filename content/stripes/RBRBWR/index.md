@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r12db2r12db17w2r2/">British European</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r12db2r12db17w2r2/"><img src="/variants/s6/r12db2r12db17w2r2~x2~r1807033/sett.png" alt="British European sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/british-european/">British European</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/british-european/"><img src="/variants/s6/r12db2r12db17w2r2~x2~r1807033/sett.png" alt="British European sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

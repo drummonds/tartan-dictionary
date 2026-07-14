@@ -12,10 +12,10 @@ crumbs:
 - name: "Clyde"
   url: "/tartans/c/cl/clyde-2/"
 - name: "Clyde Family (Hurleford) (Personal)"
-  url: "/setts/r64k30y30db18w4db2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r64k30y30db18w4db2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clyde-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGBWBW](/stripes/rkgbwbw/).
 
 Part of the [Clyde](/tartans/c/cl/clyde-2/) tartan — the named design grouping this sett with its other cloths.

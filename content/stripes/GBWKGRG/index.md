@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/">MacPhedran/MacFadzean</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><img src="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/sett.png" alt="MacPhedran/MacFadzean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g3db12w1k12g13r2g2/">Paterson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g3db12w1k12g13r2g2/"><img src="/variants/s7/g3db12w1k12g13r2g2~x2/sett.png" alt="Paterson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macphedran-macfadzean/">MacPhedran/MacFadzean</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macphedran-macfadzean/"><img src="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/sett.png" alt="MacPhedran/MacFadzean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/paterson-3/">Paterson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/paterson-3/"><img src="/variants/s7/g3db12w1k12g13r2g2~x2/sett.png" alt="Paterson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

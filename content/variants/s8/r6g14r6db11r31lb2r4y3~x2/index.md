@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Lochy"
   url: "/tartans/l/lo/loch-lochy/"
 - name: "Loch Lochy"
-  url: "/setts/r6g14r6db11r31lb2r4y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6g14r6db11r31lb2r4y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-lochy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWRBRGR](/stripes/grwrbrgr/).
 
 Part of the [Loch Lochy](/tartans/l/lo/loch-lochy/) tartan — the named design grouping this sett with its other cloths.

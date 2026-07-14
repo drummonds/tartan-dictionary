@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/r15w2r15y1db8w2db8y1db12r1y3r1db12w2g20w2y1db20y1~x2/">Hébert Kitenge Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/r15w2r15y1db8w2db8y1db12r1y3r1db12w2g20w2y1db20y1~x2/"><img src="/variants/s19/r15w2r15y1db8w2db8y1db12r1y3r1db12w2g20w2y1db20y1~x2/sett.png" alt="Hébert Kitenge Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebert-kitenge/">Hebert Kitenge</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebert-kitenge/"><img src="/variants/s19/r15w2r15y1db8w2db8y1db12r1y3r1db12w2g20w2y1db20y1~x2/sett.png" alt="Hebert Kitenge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

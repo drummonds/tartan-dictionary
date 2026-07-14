@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/">George (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><img src="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/sett.png" alt="George (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/">George (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><img src="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/sett.png" alt="George (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/george/">George</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/george/"><img src="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/sett.png" alt="George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

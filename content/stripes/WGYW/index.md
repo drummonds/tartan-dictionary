@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/w2g13lo13w2~x6/">Dunoon Irish Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w2g13lo13w2~x6/"><img src="/variants/s4/w2g13lo13w2~x6/sett.png" alt="Dunoon Irish Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunoon-2/">Dunoon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunoon-2/"><img src="/variants/s4/w2g13lo13w2~x6/sett.png" alt="Dunoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/lb6lo28dy20lb3~x2/">Prince of Orange Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb6lo28dy20lb3~x2/"><img src="/variants/s4/lb6lo28dy20lb3~x2/sett.png" alt="Prince of Orange Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/prince-of-orange/">Prince of Orange</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-of-orange/"><img src="/variants/s4/lb6lo28dy20lb3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

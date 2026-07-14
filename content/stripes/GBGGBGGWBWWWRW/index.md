@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dg4n1dg5y4dp3y5g6w3db5w2lb3w4r3w1~x2/">Werris Creek Catholic Parish</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dg4n1dg5y4dp3y5g6w3db5w2lb3w4r3w1~x2/"><img src="/variants/s14/dg4n1dg5y4dp3y5g6w3db5w2lb3w4r3w1~x2/sett.png" alt="Werris Creek Catholic Parish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/werris-creek-catholic-parish-2/">Werris Creek Catholic Parish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/werris-creek-catholic-parish-2/"><img src="/variants/s14/dg4n1dg5y4dp3y5g6w3db5w2lb3w4r3w1~x2/sett.png" alt="Werris Creek Catholic Parish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

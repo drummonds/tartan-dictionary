@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db9n3db2w2db9n6db3w3db3g18dg8r2/">Patterson, William J.M. (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db9n3db2w2db9n6db3w3db3g18dg8r2/"><img src="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/sett.png" alt="Patterson, William J.M. (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/patterson-william-j-m/">Patterson, William J.M.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/patterson-william-j-m/"><img src="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/sett.png" alt="Patterson, William J.M. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

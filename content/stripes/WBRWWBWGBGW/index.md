@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w21n4r1lb1w1n1lb4y3n1y1w1~x4/">Glen Ross (WCWM - 1)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w21n4r1lb1w1n1lb4y3n1y1w1~x4/"><img src="/variants/s11/w21n4r1lb1w1n1lb4y3n1y1w1~x4/sett.png" alt="Glen Ross (WCWM - 1) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-ross/">Glen Ross</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-ross/"><img src="/variants/s11/w21n4r1lb1w1n1lb4y3n1y1w1~x4/sett.png" alt="Glen Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

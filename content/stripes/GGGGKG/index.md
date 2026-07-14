@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dg11y1dg1y6k1y1/">Big Spruce Brewing</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dg11y1dg1y6k1y1/"><img src="/variants/s6/dg11y1dg1y6k1y1~x4/sett.png" alt="Big Spruce Brewing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bi/big-spruce-brewing/">Big Spruce Brewing</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/big-spruce-brewing/"><img src="/variants/s6/dg11y1dg1y6k1y1~x4/sett.png" alt="Big Spruce Brewing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/y10g30dg25g30k2g3~x2/">Gordon Cumming (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y10g30dg25g30k2g3~x2/"><img src="/variants/s6/y10g30dg25g30k2g3~x2/sett.png" alt="Gordon Cumming (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gordon-cumming/">Gordon Cumming</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gordon-cumming/"><img src="/variants/s6/y10g30dg25g30k2g3~x2/sett.png" alt="Gordon Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

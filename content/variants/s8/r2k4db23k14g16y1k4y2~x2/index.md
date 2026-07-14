@@ -8,10 +8,10 @@ crumbs:
 - name: "Thomas, baron of Craigie, Robert"
   url: "/tartans/t/th/thomas-baron-of-craigie-robert/"
 - name: "Thomas, baron of Craigie, Robert (Personal)"
-  url: "/setts/r2k4db23k14g16y1k4y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k4db23k14g16y1k4y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thomas-baron-of-craigie-robert/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGKBKR](/stripes/gkggkbkr/).
 
 Part of the [Thomas, baron of Craigie, Robert](/tartans/t/th/thomas-baron-of-craigie-robert/) tartan — the named design grouping this sett with its other cloths.

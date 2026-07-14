@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb6k6lb6t3w1k39ly3k3~x2/">Washington County Sheriff's Office</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb6k6lb6t3w1k39ly3k3~x2/"><img src="/variants/s8/lb6k6lb6t3w1k39ly3k3~x2/sett.png" alt="Washington County Sheriff's Office sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/washington-county-sheriff-s-office/">Washington County Sheriff’s Office</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/washington-county-sheriff-s-office/"><img src="/variants/s8/lb6k6lb6t3w1k39ly3k3~x2/sett.png" alt="Washington County Sheriff’s Office sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

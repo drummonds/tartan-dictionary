@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r36g18r4g6k1lr2k1g2/"
 ---
-Its design is pattern [GRGKYKGKYKGRGR](/stripes/grgkykgkykgrgr/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkykgrgr/">GKYKGRGR</a></nav>
+Its design is pattern [GKYKGRGR](/stripes/gkykgrgr/) — the page of every tartan sharing this colour sequence.
 
 The **Strang** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r36g18r4g6k1lr2k1g2/">Strang</a></td><td><code>R/72 G36 R8 G12 K2 LR4 K2 G4 K2 LR4 K2 G12 R8 G/36</code></td><td>204</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r36g18r4g6k1lr2k1g2/"><img src="/variants/s8/r36g18r4g6k1lr2k1g2~x2/sett.png" alt="Strang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r36g18r4g6k1lr2k1g2~x2/">Strang</a></td><td><code>R/72 G36 R8 G12 K2 LR4 K2 G/4</code></td><td>204</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r36g18r4g6k1lr2k1g2~x2/"><img src="/variants/s8/r36g18r4g6k1lr2k1g2~x2/sett.png" alt="Strang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r36g18r4g6k1w2~x2/"><circle cx="392.5" cy="123.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="347.5" cy="111.6" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="389.9" cy="142.0" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle</title></circle></a><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="396.5" cy="144.9" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/variants/s6/r18g9r2g3k1w1~x4/"><circle cx="355.5" cy="148.2" r="4" fill="#3465a4"><title>MacGregor of Cardney</title></circle></a><a href="/variants/s8/w5g1w1g33y3r24g3r4~x2/"><circle cx="343.6" cy="137.1" r="4" fill="#3465a4"><title>Sutherland de Albergaria Dress</title></circle></a><a href="/variants/s8/r2db1g2db1g19db2r27g2~x2/"><circle cx="389.0" cy="145.2" r="4" fill="#3465a4"><title>Thomas</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="296.6" cy="170.3" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/g10r4g46r69k2w6/"><circle cx="352.0" cy="126.1" r="4" fill="#3465a4"><title>Colchester &amp; District P&amp;D (Corporate</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="379.0" cy="124.3" r="4" fill="#3465a4"><title>Greig</title></circle></a><circle cx="380.8" cy="102.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r36g18r4g6k1w2~x2/"><circle cx="393.5" cy="124.0" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="348.4" cy="111.7" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="390.8" cy="142.2" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle</title></circle></a><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="397.5" cy="145.1" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/variants/s6/r18g9r2g3k1w1~x4/"><circle cx="356.3" cy="148.3" r="4" fill="#3465a4"><title>MacGregor of Cardney</title></circle></a><a href="/variants/s8/w5g1w1g33y3r24g3r4~x2/"><circle cx="344.3" cy="137.1" r="4" fill="#3465a4"><title>Sutherland de Albergaria Dress</title></circle></a><a href="/variants/s8/r2db1g2db1g19db2r27g2~x2/"><circle cx="389.8" cy="145.3" r="4" fill="#3465a4"><title>Thomas</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="297.3" cy="170.3" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/g10r4g46r69k2w6/"><circle cx="352.9" cy="126.2" r="4" fill="#3465a4"><title>Colchester &amp; District P&amp;D (Corporate</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="380.0" cy="124.4" r="4" fill="#3465a4"><title>Greig</title></circle></a><circle cx="381.8" cy="102.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

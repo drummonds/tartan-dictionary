@@ -8,10 +8,10 @@ crumbs:
 - name: "Sirens & Swords"
   url: "/tartans/s/si/sirens-swords/"
 - name: "Sirens & Swords"
-  url: "/setts/db36y20dg6w12k6r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db36y20dg6w12k6r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/sirens-swords/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGWKR](/stripes/bggwkr/).
 
 Part of the [Sirens & Swords](/tartans/s/si/sirens-swords/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/">Mina Perhonen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><img src="/variants/s7/y4k4lb5t24y2k24w4~x2/sett.png" alt="Mina Perhonen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mina-perhonen/">Mina Perhonen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mina-perhonen/"><img src="/variants/s7/y4k4lb5t24y2k24w4~x2/sett.png" alt="Mina Perhonen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

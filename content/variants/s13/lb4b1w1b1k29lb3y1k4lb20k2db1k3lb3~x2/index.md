@@ -8,10 +8,10 @@ crumbs:
 - name: "Silverton"
   url: "/tartans/s/si/silverton/"
 - name: "Silverton Family (Basingstoke)"
-  url: "/setts/lb4b1w1b1k29lb3y1k4lb20k2db1k3lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4b1w1b1k29lb3y1k4lb20k2db1k3lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/silverton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBKWGKWKBKW](/stripes/wbwbkwgkwkbkw/).
 
 Part of the [Silverton](/tartans/s/si/silverton/) tartan — the named design grouping this sett with its other cloths.

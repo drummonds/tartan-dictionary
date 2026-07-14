@@ -8,10 +8,10 @@ crumbs:
 - name: "Ladybird"
   url: "/tartans/l/la/ladybird/"
 - name: "Ladybird"
-  url: "/setts/r20dp1r1db2r1dp1r4db4g2db4g2db4g19r1dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r20dp1r1db2r1dp1r4db4g2db4g2db4g19r1dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/ladybird/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBGBGBRBRBRBR](/stripes/brgbgbgbrbrbrbr/).
 
 Part of the [Ladybird](/tartans/l/la/ladybird/) tartan — the named design grouping this sett with its other cloths.

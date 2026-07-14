@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/">Taiwan Scottish</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/"><img src="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/sett.png" alt="Taiwan Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/taiwan-scottish/">Taiwan Scottish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/taiwan-scottish/"><img src="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/sett.png" alt="Taiwan Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/y1k8r13g1~x6/">Billy Apple® Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/y1k8r13g1~x6/"><img src="/variants/s4/y1k8r13g1~x6/sett.png" alt="Billy Apple® Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bi/billy-apple-2/">Billy Apple®</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/billy-apple-2/"><img src="/variants/s4/y1k8r13g1~x6/sett.png" alt="Billy Apple® sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

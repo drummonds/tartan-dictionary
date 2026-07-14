@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/">Stewart Black Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><img src="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/sett.png" alt="Stewart Black Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/">Stewart, Black ground</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><img src="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/sett.png" alt="Stewart, Black ground sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-10/">Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-10/"><img src="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-black-ground/">Stewart, Black ground</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-black-ground/"><img src="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/sett.png" alt="Stewart, Black ground sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

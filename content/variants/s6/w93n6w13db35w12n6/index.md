@@ -8,10 +8,10 @@ crumbs:
 - name: "Butties"
   url: "/tartans/b/bu/butties/"
 - name: "Butties"
-  url: "/setts/w93n6w13db35w12n6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w93n6w13db35w12n6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/butties/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
 
 Part of the [Butties](/tartans/b/bu/butties/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10955](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>16/10/2013 — Butties (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10955">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #B0B0B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #3850C8"></span><br><em>Designed for Lee Tait for his wedding and named for his sandwich take-away shops in Dundee.</em></li>
-<li>2013 — Butties (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10955">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed for Lee Tait for his wedding and named for his sandwich take-away shops in Dundee.</em></li>
+<li>2013 — Butties (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10955/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed for Lee Tait for his wedding and named for his sandwich take-away shops in Dundee.</em></li>
 </ul>
 </details>
 

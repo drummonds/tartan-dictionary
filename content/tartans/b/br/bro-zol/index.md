@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k3w9k2dr8db1g3db1dr25w5db3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbbgbbkwk/">BWBBGBBKWK</a></nav>
 Its design is pattern [BWBBGBBKWK](/stripes/bwbbgbbkwk/) — the page of every tartan sharing this colour sequence.
 
 The **Bro-Zol** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Bro-Zol** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3w9k2dr8db1g3db1dr25w5db3/">Bro-Zol</a></td><td><code>K/6 W18 K4 DR16 DB2 G6 DB2 DR50 W10 DB/6</code></td><td>228</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3w9k2dr8db1g3db1dr25w5db3/"><img src="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/sett.png" alt="Bro-Zol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/">Bro-Zol</a></td><td><code>K/6 W18 K4 DR16 DB2 G6 DB2 DR50 W10 DB/6</code></td><td>228</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/"><img src="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/sett.png" alt="Bro-Zol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="252.1" cy="84.1" r="4" fill="#3465a4"><title>Motherwell F.C.</title></circle></a><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="228.2" cy="81.0" r="4" fill="#3465a4"><title>Liddell</title></circle></a><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="262.2" cy="111.8" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/variants/s11/n53y6k10w3k3y4k10r8k3r6w3/"><circle cx="221.7" cy="89.1" r="4" fill="#3465a4"><title>Stevens</title></circle></a><a href="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/"><circle cx="237.3" cy="76.7" r="4" fill="#3465a4"><title>Bro-Roazhon</title></circle></a><a href="/variants/s8/k54lb6k6lb6n20lo40k6y3/"><circle cx="189.5" cy="115.5" r="4" fill="#3465a4"><title>Clyde Valley HOG</title></circle></a><a href="/variants/s11/lo1n8lb2k15lb20dr1lb1dr1lb8n3lb1~x2/"><circle cx="235.5" cy="105.6" r="4" fill="#3465a4"><title>Harris</title></circle></a><a href="/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/"><circle cx="231.9" cy="83.6" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="257.5" cy="53.5" r="4" fill="#3465a4"><title>Glen Coe</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.9" cy="73.8" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><circle cx="252.5" cy="89.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="252.9" cy="83.9" r="4" fill="#3465a4"><title>Motherwell F.C.</title></circle></a><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="229.1" cy="80.8" r="4" fill="#3465a4"><title>Liddell</title></circle></a><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="263.0" cy="111.6" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/variants/s11/n53y6k10w3k3y4k10r8k3r6w3/"><circle cx="222.4" cy="88.9" r="4" fill="#3465a4"><title>Stevens</title></circle></a><a href="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/"><circle cx="238.2" cy="76.5" r="4" fill="#3465a4"><title>Bro-Roazhon</title></circle></a><a href="/variants/s8/k54lb6k6lb6n20lo40k6y3/"><circle cx="190.2" cy="115.3" r="4" fill="#3465a4"><title>Clyde Valley HOG</title></circle></a><a href="/variants/s11/lo1n8lb2k15lb20dr1lb1dr1lb8n3lb1~x2/"><circle cx="236.2" cy="105.4" r="4" fill="#3465a4"><title>Harris</title></circle></a><a href="/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/"><circle cx="232.7" cy="83.4" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="258.4" cy="53.4" r="4" fill="#3465a4"><title>Glen Coe</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="326.9" cy="73.8" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><circle cx="253.3" cy="89.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

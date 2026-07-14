@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/">Lions Canadian Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/"><img src="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/sett.png" alt="Lions Canadian Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/lions/">Lions</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/lions/"><img src="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/sett.png" alt="Lions sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

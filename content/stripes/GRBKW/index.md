@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/">Kenspeckle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/"><img src="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/sett.png" alt="Kenspeckle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/g50r1dr20k2w1~x2/">Kenspeckle (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g50r1dr20k2w1~x2/"><img src="/variants/s5/g50r1dr20k2w1~x2/sett.png" alt="Kenspeckle (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kenspeckle/">Kenspeckle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kenspeckle/"><img src="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/sett.png" alt="Kenspeckle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/">Homecoming (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/"><img src="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/sett.png" alt="Homecoming (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/homecoming/">Homecoming</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/homecoming/"><img src="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/sett.png" alt="Homecoming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

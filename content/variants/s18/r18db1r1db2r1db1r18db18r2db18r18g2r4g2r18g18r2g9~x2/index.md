@@ -11,11 +11,11 @@ crumbs:
   url: "/families/mactier-of-durris/"
 - name: "MacTier of Durris"
   url: "/tartans/m/ma/mactier-of-durris/"
-- name: "Ross"
-  url: "/setts/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9/"
+- name: "MacTier of Durris"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mactier-of-durris/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRBRBRBRBRBR](/stripes/grgrgrgrbrbrbrbrbr/).
 
 Part of the [MacTier of Durris](/tartans/m/ma/mactier-of-durris/) tartan — the named design grouping this sett with its other cloths.

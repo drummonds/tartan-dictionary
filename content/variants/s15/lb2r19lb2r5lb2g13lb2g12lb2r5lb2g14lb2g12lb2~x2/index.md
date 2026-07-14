@@ -12,10 +12,10 @@ crumbs:
 - name: "Fraser of Castle Leathers, Major James"
   url: "/tartans/f/fr/fraser-of-castle-leathers-major-james/"
 - name: "Fraser of Castle Leathers, Major James"
-  url: "/setts/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraser-of-castle-leathers-major-james/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWGWRWGWGWRWRW](/stripes/wgwgwrwgwgwrwrw/).
 
 Part of the [Fraser of Castle Leathers, Major James](/tartans/f/fr/fraser-of-castle-leathers-major-james/) tartan — the named design grouping this sett with its other cloths.

@@ -10,15 +10,15 @@ crumbs:
 - name: "MacNab WI1"
   url: "/tartans/m/ma/macnab-wi1/"
 - name: "MacNab WI1"
-  url: "/setts/dp24g1w1g2r24/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp24g1w1g2r24/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGWGRGWG](/stripes/bgwgrgwg/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macnab-wi1/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGWGR](/stripes/bgwgr/).
 
 Part of the [MacNab WI1](/tartans/m/ma/macnab-wi1/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb)
 
@@ -39,9 +39,11 @@ Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb](http://
 </details>
 
 ## Thread count
-DP/24 G1 W1 G2 R24 G2 W1 G/1
+DP/24 G1 W1 G2 R/24
 
-One full sett is **87 threads**.
+One full sett is **56 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/24 G1 W1 G2 R24 G2 W1 G/1 — 87 threads; it folds to the canonical 56-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -50,7 +52,7 @@ One full sett is **87 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/24 G1 W1 G2 R24 G2 W1 G/1 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/24 G1 W1 G2 R/24 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

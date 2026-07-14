@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/">Scott, Sir Walter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/"><img src="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/sett.png" alt="Scott, Sir Walter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scott-sir-walter-4/">Scott, Sir Walter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scott-sir-walter-4/"><img src="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/sett.png" alt="Scott, Sir Walter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

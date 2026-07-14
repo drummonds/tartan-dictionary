@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dg27g14db2g2ly2~x4~dg1806142-g2304202/">Irving of Bonshaw (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dg27g14db2g2ly2~x4~dg1806142-g2304202/"><img src="/variants/s5/dg27g14db2g2ly2~x4~dg1806142-g2304202/sett.png" alt="Irving of Bonshaw (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ir/irving-of-bonshaw-3/">Irving of Bonshaw</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ir/irving-of-bonshaw-3/"><img src="/variants/s5/dg27g14db2g2ly2~x4~dg1806142-g2304202/sett.png" alt="Irving of Bonshaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

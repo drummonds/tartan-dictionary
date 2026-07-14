@@ -12,10 +12,10 @@ crumbs:
 - name: "Crieff"
   url: "/tartans/c/cr/crieff/"
 - name: "Crieff District Tartan"
-  url: "/setts/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crieff/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRGRGRBRGRGRR](/stripes/rrgrgrbrgrgrr/).
 
 Part of the [Crieff](/tartans/c/cr/crieff/) tartan — the named design grouping this sett with its other cloths.

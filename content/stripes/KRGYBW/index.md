@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k6r3g30ly10db30w3~x2/">Turnbull of Thornton (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><img src="/variants/s6/k6r3g30ly10db30w3~x2/sett.png" alt="Turnbull of Thornton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/turnbull-of-thornton/">Turnbull of Thornton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/turnbull-of-thornton/"><img src="/variants/s6/k6r3g30ly10db30w3~x2/sett.png" alt="Turnbull of Thornton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

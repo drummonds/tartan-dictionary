@@ -12,10 +12,10 @@ crumbs:
 - name: "MacCorquodale"
   url: "/tartans/m/ma/maccorquodale-2/"
 - name: "MacCorquodale #2"
-  url: "/setts/r8t32k24db24k3t3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8t32k24db24k3t3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maccorquodale-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBR](/stripes/bkbkbr/).
 
 Part of the [MacCorquodale](/tartans/m/ma/maccorquodale-2/) tartan — the named design grouping this sett with its other cloths.

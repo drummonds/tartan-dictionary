@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/">Donohoe Grey, Peter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/"><img src="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/sett.png" alt="Donohoe Grey, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/donohoe-grey-peter/">Donohoe Grey, Peter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/donohoe-grey-peter/"><img src="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/sett.png" alt="Donohoe Grey, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

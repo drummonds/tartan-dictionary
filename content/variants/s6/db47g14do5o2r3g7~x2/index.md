@@ -8,10 +8,10 @@ crumbs:
 - name: "Round Table of Britain and Ireland, RtbI."
   url: "/tartans/r/ro/round-table-of-britain-and-ireland-rtbi/"
 - name: "Round Table of Britain and Ireland, RtbI."
-  url: "/setts/db47g14do5o2r3g7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db47g14do5o2r3g7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/round-table-of-britain-and-ireland-rtbi/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRRG](/stripes/bgbrrg/).
 
 Part of the [Round Table of Britain and Ireland, RtbI.](/tartans/r/ro/round-table-of-britain-and-ireland-rtbi/) tartan — the named design grouping this sett with its other cloths.

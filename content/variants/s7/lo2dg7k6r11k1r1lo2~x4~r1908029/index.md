@@ -12,10 +12,10 @@ crumbs:
 - name: "Blackstock"
   url: "/tartans/b/bl/blackstock/"
 - name: "Blackstock Red (Dress)"
-  url: "/setts/lo2dg7k6r11k1r1lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo2dg7k6r11k1r1lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blackstock/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGKRKRY](/stripes/ygkrkry/).
 
 Part of the [Blackstock](/tartans/b/bl/blackstock/) tartan — the named design grouping this sett with its other cloths.

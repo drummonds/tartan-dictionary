@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/">Lang of Sherbrooke (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/"><img src="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/sett.png" alt="Lang of Sherbrooke (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lang-of-sherbrooke/">Lang of Sherbrooke</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lang-of-sherbrooke/"><img src="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/sett.png" alt="Lang of Sherbrooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

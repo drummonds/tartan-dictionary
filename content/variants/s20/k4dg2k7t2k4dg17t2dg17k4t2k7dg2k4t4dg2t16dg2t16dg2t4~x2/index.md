@@ -12,10 +12,10 @@ crumbs:
 - name: "Blackwater"
   url: "/tartans/b/bl/blackwater/"
 - name: "Blackwater (Personal)"
-  url: "/setts/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blackwater/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBKGKBKGBGKBKGK](/stripes/bgbgbgbkgkbkgbgkbkgk/).
 
 Part of the [Blackwater](/tartans/b/bl/blackwater/) tartan — the named design grouping this sett with its other cloths.

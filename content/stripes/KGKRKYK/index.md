@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k40dg15k10o2k10lo2k10~x2/">Langhein, Alex (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k40dg15k10o2k10lo2k10~x2/"><img src="/variants/s7/k40dg15k10o2k10lo2k10~x2/sett.png" alt="Langhein, Alex (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/langhein-alex/">Langhein, Alex</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/langhein-alex/"><img src="/variants/s7/k40dg15k10o2k10lo2k10~x2/sett.png" alt="Langhein, Alex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y6k8g7r6k2r18w6~x4/">Thirkill (Dalgliesh)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y6k8g7r6k2r18w6~x4/"><img src="/variants/s7/y6k8g7r6k2r18w6~x4/sett.png" alt="Thirkill (Dalgliesh) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thirkill/">Thirkill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thirkill/"><img src="/variants/s7/y6k8g7r6k2r18w6~x4/sett.png" alt="Thirkill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

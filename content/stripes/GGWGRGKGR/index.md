@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/">Cawte of Middlebanknock (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><img src="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/sett.png" alt="Cawte of Middlebanknock (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cawte-of-middlebanknock/">Cawte of Middlebanknock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cawte-of-middlebanknock/"><img src="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/sett.png" alt="Cawte of Middlebanknock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

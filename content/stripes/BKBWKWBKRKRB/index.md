@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/t4r3k3r6k8t10w8k12w8t24k2t2~x2/">Trillard (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/t4r3k3r6k8t10w8k12w8t24k2t2~x2/"><img src="/variants/s12/t4r3k3r6k8t10w8k12w8t24k2t2~x2/sett.png" alt="Trillard (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/trillard/">Trillard</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/trillard/"><img src="/variants/s12/t4r3k3r6k8t10w8k12w8t24k2t2~x2/sett.png" alt="Trillard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

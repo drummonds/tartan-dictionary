@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r5db2ly1r46db4w1k5lb9db2ly2db2k10w2~x2/">Stratford City Police PB (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r5db2ly1r46db4w1k5lb9db2ly2db2k10w2~x2/"><img src="/variants/s13/r5db2ly1r46db4w1k5lb9db2ly2db2k10w2~x2/sett.png" alt="Stratford City Police PB (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stratford-city-police-pb/">Stratford City Police PB</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stratford-city-police-pb/"><img src="/variants/s13/r5db2ly1r46db4w1k5lb9db2ly2db2k10w2~x2/sett.png" alt="Stratford City Police PB sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

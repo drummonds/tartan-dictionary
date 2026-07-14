@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k3lb1k32db6k4db16k3r2~x2/">Little of Morton Rigg Red (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k3lb1k32db6k4db16k3r2~x2/"><img src="/variants/s8/k3lb1k32db6k4db16k3r2~x2/sett.png" alt="Little of Morton Rigg Red (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/little-of-morton-rigg/">Little of Morton Rigg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/little-of-morton-rigg/"><img src="/variants/s8/k3lb1k32db6k4db16k3r2~x2/sett.png" alt="Little of Morton Rigg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

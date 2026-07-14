@@ -8,10 +8,10 @@ crumbs:
 - name: "Weathered Cyclist"
   url: "/tartans/w/we/weathered-cyclist-2/"
 - name: "Weathered Cyclist"
-  url: "/setts/g32w2g9y2g12ly21r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g32w2g9y2g12ly21r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/weathered-cyclist-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGGGYR](/stripes/gwgggyr/).
 
 Part of the [Weathered Cyclist](/tartans/w/we/weathered-cyclist-2/) tartan — the named design grouping this sett with its other cloths.

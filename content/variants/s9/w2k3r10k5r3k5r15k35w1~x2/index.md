@@ -8,10 +8,10 @@ crumbs:
 - name: "Bertea, A H"
   url: "/tartans/b/be/bertea-a-h/"
 - name: "Bertea, A H (Personal)"
-  url: "/setts/w2k3r10k5r3k5r15k35w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2k3r10k5r3k5r15k35w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/bertea-a-h/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKRKRKRKW](/stripes/wkrkrkrkw/).
 
 Part of the [Bertea, A H](/tartans/b/be/bertea-a-h/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10880](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>03/08/2013 — Bertea, A H (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10880">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #DC0000"></span><br><em>Designed by Alex Bertea as a family tartan. The red and white colours are taken from the arms of Florence, Italy and Switzerland to represent his family's ancestry.</em></li>
-<li>2013 — Bertea, A H (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10880">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><br><em>Designed by Alex Bertea as a family tartan. The red and white colours are taken from the arms of Florence, Italy and Switzerland to represent his family's ancestry.</em></li>
+<li>2013 — Bertea, A H (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10880/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><br><em>Designed by Alex Bertea as a family tartan. The red and white colours are taken from the arms of Florence, Italy and Switzerland to represent his family's ancestry.</em></li>
 </ul>
 </details>
 

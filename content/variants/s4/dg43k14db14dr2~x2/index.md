@@ -8,10 +8,10 @@ crumbs:
 - name: "Feddinch Club, St Andrews"
   url: "/tartans/f/fe/feddinch-club-st-andrews/"
 - name: "Feddinch Club, St Andrews Limited, The"
-  url: "/setts/dg43k14db14dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg43k14db14dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/feddinch-club-st-andrews/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKG](/stripes/bbkg/).
 
 Part of the [Feddinch Club, St Andrews](/tartans/f/fe/feddinch-club-st-andrews/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3879](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/2000 — Feddinch Club, St Andrews Limited, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3879">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #1C0030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>A corporate tartan for The Feddinch Club, St Andrews Ltd (SC 468291). The tartan was previously registered as the St Andrews International Golf Club Limited.</em></li>
-<li>Feb. 2000 — Feddinch Club, St Andrews (Corp) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2687">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C0030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Originally called the St. Andrews Int. Golf Club Tartan, the name was changed in April 2014 to the present Feddinch Club.</em></li>
+<li>Feb. 2000 — Feddinch Club, St Andrews (Corp) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2687/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C0030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Originally called the St. Andrews Int. Golf Club Tartan, the name was changed in April 2014 to the present Feddinch Club.</em></li>
 </ul>
 </details>
 

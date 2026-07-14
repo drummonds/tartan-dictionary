@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/">Laing (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/"><img src="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/sett.png" alt="Laing (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laing/">Laing</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laing/"><img src="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/sett.png" alt="Laing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

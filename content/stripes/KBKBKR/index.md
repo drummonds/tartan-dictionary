@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r8k24db10k5db10k5~x2/">Allen, Nicholas (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r8k24db10k5db10k5~x2/"><img src="/variants/s6/r8k24db10k5db10k5~x2/sett.png" alt="Allen, Nicholas (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/o4k28t3k3t25k3~x2/">Slanj (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/o4k28t3k3t25k3~x2/"><img src="/variants/s6/o4k28t3k3t25k3~x2/sett.png" alt="Slanj (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/allen-nicholas-2/">Allen, Nicholas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allen-nicholas-2/"><img src="/variants/s6/r8k24db10k5db10k5~x2/sett.png" alt="Allen, Nicholas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sl/slanj-2/">Slanj</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sl/slanj-2/"><img src="/variants/s6/o4k28t3k3t25k3~x2/sett.png" alt="Slanj sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/k2n6k2n6k12r1~x4/">MacSween, Black (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k2n6k2n6k12r1~x4/"><img src="/variants/s6/k2n6k2n6k12r1~x4/sett.png" alt="MacSween, Black (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macsween/">MacSween</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macsween/"><img src="/variants/s6/k2n6k2n6k12r1~x4/sett.png" alt="MacSween sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

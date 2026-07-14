@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s58/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1~x2/">Victoria, Highland dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s58/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1~x2/"><img src="/variants/s58/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1~x2/sett.png" alt="Victoria, Highland dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/victoria-highland-dress-4/">Victoria, Highland dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/victoria-highland-dress-4/"><img src="/variants/s58/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1~x2/sett.png" alt="Victoria, Highland dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

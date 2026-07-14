@@ -10,10 +10,10 @@ crumbs:
 - name: "Hebridean, South Uist"
   url: "/tartans/h/he/hebridean-south-uist-2/"
 - name: "Hebridean, South Uist"
-  url: "/setts/db19r2g3r2db2r20g1y1r1g2r2db18r2g2r22g3w1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db19r2g3r2db2r20g1y1r1g2r2db18r2g2r22g3w1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebridean-south-uist-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRGGRGRBRGRGWR](/stripes/brgrbrggrgrbrgrgwr/).
 
 Part of the [Hebridean, South Uist](/tartans/h/he/hebridean-south-uist-2/) tartan — the named design grouping this sett with its other cloths.

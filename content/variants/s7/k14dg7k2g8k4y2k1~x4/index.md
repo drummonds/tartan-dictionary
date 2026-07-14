@@ -8,10 +8,10 @@ crumbs:
 - name: "Grass of Rasunda"
   url: "/tartans/g/gr/grass-of-rasunda/"
 - name: "Grass of Rasunda (2009), The"
-  url: "/setts/k14dg7k2g8k4y2k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k14dg7k2g8k4y2k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grass-of-rasunda/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGK](/stripes/kgkgkgk/).
 
 Part of the [Grass of Rasunda](/tartans/g/gr/grass-of-rasunda/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10346](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>12/01/2011 — Grass of Rasunda (2009), The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10346">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#120A01;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #120A01"></span><span style="display:inline-block;width:.85em;height:.85em;background:#052F14;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BG #052F14"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5A601E;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #5A601E"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0A126;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E0A126"></span><br><em>Designed by a fan to honour the league victory of Swedish football team AIK (Allmänna Idrottsklubben) in 2009. The green represents the pitch of Råsunda (the stadium) framed by yellow and black, the colours of AIK. Created using the tartan design software at www.scotweb.co.uk.</em></li>
-<li>12 Jan 2011 — Grass of Rasunda (Commemorative) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10346">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by a fan to honour the league victory of Swedish football team AIK (Allm?nna Idrottsklubben) in 2009. The green represents the pitch of R?sunda (the stadium) framed by yellow and black, the colours of AIK.</em></li>
+<li>12 Jan 2011 — Grass of Rasunda (Commemorative) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10346/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by a fan to honour the league victory of Swedish football team AIK (Allm?nna Idrottsklubben) in 2009. The green represents the pitch of R?sunda (the stadium) framed by yellow and black, the colours of AIK.</em></li>
 </ul>
 </details>
 

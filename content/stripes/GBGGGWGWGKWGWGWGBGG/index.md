@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/">Tenon Tours</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/"><img src="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/sett.png" alt="Tenon Tours sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/tenon-tours/">Tenon Tours</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/tenon-tours/"><img src="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/sett.png" alt="Tenon Tours sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

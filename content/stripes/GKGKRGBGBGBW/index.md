@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/">Tweedbank</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/"><img src="/variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/sett.png" alt="Tweedbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/">Tweedbank (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/"><img src="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/sett.png" alt="Tweedbank (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tw/tweedbank/">Tweedbank</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tw/tweedbank/"><img src="/variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/sett.png" alt="Tweedbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

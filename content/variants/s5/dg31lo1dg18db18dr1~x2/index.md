@@ -8,10 +8,10 @@ crumbs:
 - name: "Miramichi"
   url: "/tartans/m/mi/miramichi/"
 - name: "Miramichi"
-  url: "/setts/dg31lo1dg18db18dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg31lo1dg18db18dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/miramichi/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGYG](/stripes/bbgyg/).
 
 Part of the [Miramichi](/tartans/m/mi/miramichi/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2962](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Miramichi (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2962">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>This tartan was designed as a class project at a craft school. Registered with ATS/TECA on 8-29-96. Sample labelled Miramichi Celtic Pipes & Drums, Canada. Miramichi is a city in the province of New Brunswick.</em></li>
-<li>1996 — Miramichi (P&D) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5678">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>This tartan was designed as a class project at a craft school. Registered with ATS/TECA on 8-29-96. 1996. Sample labelled Miramichi Celtic Pipes & Drums, Canada. Miramichi is a city in the province of New Brunswick.</em></li>
+<li>1996 — Miramichi (P&D) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5678/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>This tartan was designed as a class project at a craft school. Registered with ATS/TECA on 8-29-96. 1996. Sample labelled Miramichi Celtic Pipes & Drums, Canada. Miramichi is a city in the province of New Brunswick.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db8lo2db8dg7db57k3lb1~x2/">Cullen (Christian Hill)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db8lo2db8dg7db57k3lb1~x2/"><img src="/variants/s7/db8lo2db8dg7db57k3lb1~x2/sett.png" alt="Cullen (Christian Hill) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cullen/">Cullen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cullen/"><img src="/variants/s7/db8lo2db8dg7db57k3lb1~x2/sett.png" alt="Cullen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

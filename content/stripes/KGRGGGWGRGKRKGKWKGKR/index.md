@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/k40g8r1g57y5g9w5g57r1g8k40o7k4g4k2w4k2g4k4o7~x2/">Unidentified Phyllis Gordon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/k40g8r1g57y5g9w5g57r1g8k40o7k4g4k2w4k2g4k4o7~x2/"><img src="/variants/s20/k40g8r1g57y5g9w5g57r1g8k40o7k4g4k2w4k2g4k4o7~x2/sett.png" alt="Unidentified Phyllis Gordon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-phyllis-gordon/">Unidentified Phyllis Gordon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-phyllis-gordon/"><img src="/variants/s20/k40g8r1g57y5g9w5g57r1g8k40o7k4g4k2w4k2g4k4o7~x2/sett.png" alt="Unidentified Phyllis Gordon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

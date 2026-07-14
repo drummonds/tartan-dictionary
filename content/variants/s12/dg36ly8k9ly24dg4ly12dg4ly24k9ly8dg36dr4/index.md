@@ -12,10 +12,10 @@ crumbs:
 - name: "Harmer"
   url: "/tartans/h/ha/harmer/"
 - name: "Harmer"
-  url: "/setts/dg36ly8k9ly24dg4ly12dg4ly24k9ly8dg36dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg36ly8k9ly24dg4ly12dg4ly24k9ly8dg36dr4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harmer/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYKYGYGYKYG](/stripes/bgykygygykyg/).
 
 Part of the [Harmer](/tartans/h/ha/harmer/) tartan — the named design grouping this sett with its other cloths.

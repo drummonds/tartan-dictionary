@@ -10,10 +10,10 @@ crumbs:
 - name: "Lamont Heather"
   url: "/tartans/l/la/lamont-heather/"
 - name: "Lamont Heather"
-  url: "/setts/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lamont-heather/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBYBYBYBGWGBYBYBY](/stripes/wgbybybybgwgbybyby/).
 
 Part of the [Lamont Heather](/tartans/l/la/lamont-heather/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2037](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — Lamont Heather (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2037">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>20th January 1998 for Lamont Sporrans. Light brown colour not right. Lochcarron swatch.</em></li>
-<li>1998 — Lamont Heather (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4090">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #5C6428"></span><br><em>20th January 1998 for Lamont Sporrans. Light brown colour not right. Lochcarron swatch.</em></li>
+<li>1998 — Lamont Heather (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4090/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #5C6428"></span><br><em>20th January 1998 for Lamont Sporrans. Light brown colour not right. Lochcarron swatch.</em></li>
 </ul>
 </details>
 

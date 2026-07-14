@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/">Crow (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/"><img src="/variants/s8/g2db2g6db4g3db4g18ly2~x4/sett.png" alt="Crow (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crow/">Crow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crow/"><img src="/variants/s8/g2db2g6db4g3db4g18ly2~x4/sett.png" alt="Crow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/">Scottish Pup</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><img src="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/sett.png" alt="Scottish Pup sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-pup/">Scottish Pup</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-pup/"><img src="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/sett.png" alt="Scottish Pup sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

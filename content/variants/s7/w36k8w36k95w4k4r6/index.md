@@ -10,15 +10,15 @@ crumbs:
 - name: "Gretna Football Club"
   url: "/tartans/g/gr/gretna-football-club/"
 - name: "Gretna Football Club"
-  url: "/setts/w36k8w36k95w4k4r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w36k8w36k95w4k4r6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKWKRKWKWKW](/stripes/kwkwkrkwkwkw/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/gretna-football-club/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKWKWKW](/stripes/rkwkwkw/).
 
 Part of the [Gretna Football Club](/tartans/g/gr/gretna-football-club/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1538](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1538)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1538](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2006 — Gretna Football Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1538">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCDC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCDC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>The offical tartan of Gretna Football Club which incorporates the black and white of the team strip together with the red from the thistle in the club badge. Designed by Graeme Anderson in conjunction with Lochcarron. Anderson Kilts of Gretna are the exclusive suppliers of the tartan and Gretna FC has launched a range of products incorporating the tartan. For further details contact Anderson Kilts or Gretna FC.</em></li>
-<li>2006 January — Gretna Football Club (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6841">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCDC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCDC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>The offical tartan of Gretna Football Club which incorporates the black and white of the team strip together with the red from the thistle in the club badge. Designed by Graeme Anderson in conjunction with Lochcarron. Anderson Kilts of Getna are the exclusive suppliers of the tartan and Gretna FC has launched a range of products incorporating the tartan. For further details contact Anderson Kilts (01387 250 250) or Gretna FC - 01461 337 602.</em></li>
+<li>2006 January — Gretna Football Club (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6841/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCDC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCDC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>The offical tartan of Gretna Football Club which incorporates the black and white of the team strip together with the red from the thistle in the club badge. Designed by Graeme Anderson in conjunction with Lochcarron. Anderson Kilts of Getna are the exclusive suppliers of the tartan and Gretna FC has launched a range of products incorporating the tartan. For further details contact Anderson Kilts (01387 250 250) or Gretna FC - 01461 337 602.</em></li>
 </ul>
 </details>
 
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6841
 
 ## Thread count
-W/36 K8 W36 K95 W4 K4 R6 K4 W4 K95 W36 K/8
+W/36 K8 W36 K95 W4 K4 R/6
 
-One full sett is **628 threads**.
+One full sett is **336 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/36 K8 W36 K95 W4 K4 R6 K4 W4 K95 W36 K/8 — 628 threads; it folds to the canonical 336-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **628 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/36 K8 W36 K95 W4 K4 R6 K4 W4 K95 W36 K/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/36 K8 W36 K95 W4 K4 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

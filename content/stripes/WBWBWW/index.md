@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w4db25lb25db2lb5w2~x2/">Douglas Variation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><img src="/variants/s6/w4db25lb25db2lb5w2~x2/sett.png" alt="Douglas Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/douglas-variation/">Douglas Variation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-variation/"><img src="/variants/s6/w4db25lb25db2lb5w2~x2/sett.png" alt="Douglas Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/w1dp1lb7n4lb1w1~x4/">Lochnagar Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w1dp1lb7n4lb1w1~x4/"><img src="/variants/s6/w1dp1lb7n4lb1w1~x4/sett.png" alt="Lochnagar Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochnagar-2/">Lochnagar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochnagar-2/"><img src="/variants/s6/w1dp1lb7n4lb1w1~x4/sett.png" alt="Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

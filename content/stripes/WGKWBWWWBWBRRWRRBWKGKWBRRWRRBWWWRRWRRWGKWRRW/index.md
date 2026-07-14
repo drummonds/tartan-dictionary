@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s44/w2g4k16w2dp6lb4w2lb4dp6w2dp3r8ri3w2ri3r8dp3w2k12g4k12w2dp3r8ri3w2ri3r8dp3w2lb10w1r6ri3w1ri3r6w1g4k16w2r23ri3w2~x2~r2209032-ri2806019/">Aberdeen - 1819 (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s44/w2g4k16w2dp6lb4w2lb4dp6w2dp3r8ri3w2ri3r8dp3w2k12g4k12w2dp3r8ri3w2ri3r8dp3w2lb10w1r6ri3w1ri3r6w1g4k16w2r23ri3w2~x2~r2209032-ri2806019/"><img src="/variants/s44/w2g4k16w2dp6lb4w2lb4dp6w2dp3r8ri3w2ri3r8dp3w2k12g4k12w2dp3r8ri3w2ri3r8dp3w2lb10w1r6ri3w1ri3r6w1g4k16w2r23ri3w2~x2~r2209032-ri2806019/sett.png" alt="Aberdeen - 1819 (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberdeen-3/">Aberdeen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen-3/"><img src="/variants/s44/w2g4k16w2dp6lb4w2lb4dp6w2dp3r8ri3w2ri3r8dp3w2k12g4k12w2dp3r8ri3w2ri3r8dp3w2lb10w1r6ri3w1ri3r6w1g4k16w2r23ri3w2~x2~r2209032-ri2806019/sett.png" alt="Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

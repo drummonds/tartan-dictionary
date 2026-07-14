@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/">Kilbarchan Unidentified No. 14</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/"><img src="/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/sett.png" alt="Kilbarchan Unidentified No. 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kilbarchan-unidentified-no-14/">Kilbarchan Unidentified No. 14</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilbarchan-unidentified-no-14/"><img src="/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/sett.png" alt="Kilbarchan Unidentified No. 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

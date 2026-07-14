@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g25r9lb3y7w3dp11/">Montessori School of Denver</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g25r9lb3y7w3dp11/"><img src="/variants/s6/g25r9lb3y7w3dp11/sett.png" alt="Montessori School of Denver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/montessori-school-of-denver/">Montessori School of Denver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montessori-school-of-denver/"><img src="/variants/s6/g25r9lb3y7w3dp11/sett.png" alt="Montessori School of Denver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Rutherford, John"
   url: "/tartans/r/ru/rutherford-john/"
 - name: "Rutherford, John (Personal)"
-  url: "/setts/db64r3k3r3dp61dg5dp6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db64r3k3r3dp61dg5dp6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ru/rutherford-john/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRKRB](/stripes/bgbrkrb/).
 
 Part of the [Rutherford, John](/tartans/r/ru/rutherford-john/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10937](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>09/11/2011 — Rutherford, John (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10937">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C14;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003C14"></span><br><em>Designed for the personal use of Mr and Mrs John Rutherford, Kelso.</em></li>
-<li>2013 — Rutherford, John (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10937">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Designed for the personal use of Mr and Mrs John Rutherford, Kelso.</em></li>
+<li>2013 — Rutherford, John (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10937/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Designed for the personal use of Mr and Mrs John Rutherford, Kelso.</em></li>
 </ul>
 </details>
 

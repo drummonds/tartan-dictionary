@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/">Hatcher (Texas) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/"><img src="/variants/s7/lp33dr7db9dp7g12r3k29~x2/sett.png" alt="Hatcher (Texas) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hatcher/">Hatcher</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hatcher/"><img src="/variants/s7/lp33dr7db9dp7g12r3k29~x2/sett.png" alt="Hatcher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

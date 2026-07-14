@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w3db12k12r20g2~x2/">Baillie of Polkemett</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w3db12k12r20g2~x2/"><img src="/variants/s5/w3db12k12r20g2~x2/sett.png" alt="Baillie of Polkemett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/w3t12k12r20g2~x2/">Baillie of Polkemmet Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w3t12k12r20g2~x2/"><img src="/variants/s5/w3t12k12r20g2~x2/sett.png" alt="Baillie of Polkemmet Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baillie-of-polkemett-2/">Baillie of Polkemett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baillie-of-polkemett-2/"><img src="/variants/s5/w3db12k12r20g2~x2/sett.png" alt="Baillie of Polkemett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baillie-of-polkemmet/">Baillie of Polkemmet</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baillie-of-polkemmet/"><img src="/variants/s5/w3t12k12r20g2~x2/sett.png" alt="Baillie of Polkemmet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

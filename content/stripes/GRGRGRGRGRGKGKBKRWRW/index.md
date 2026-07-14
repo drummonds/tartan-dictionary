@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3~x2/">Moray Plaid Artifact Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3~x2/"><img src="/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3~x2/sett.png" alt="Moray Plaid Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moray/">Moray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moray/"><img src="/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3~x2/sett.png" alt="Moray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

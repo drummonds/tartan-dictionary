@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lo49db16k2w3db2w2db3lo2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ybkwbwby/">YBKWBWBY</a></nav>
 Its design is pattern [YBKWBWBY](/stripes/ybkwbwby/) — the page of every tartan sharing this colour sequence.
 
 Corporate tartan for A.G. Barr's Irn Bru soft drink, colours based on the brand label.
@@ -14,8 +17,8 @@ The **Irn Bru** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lo49db16k2w3db2w2db3lo2/">Irn Bru</a></td><td><code>LO/98 DB32 K4 W6 DB4 W4 DB6 LO/4</code></td><td>214</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lo49db16k2w3db2w2db3lo2/"><img src="/variants/s8/lo49db16k2w3db2w2db3lo2~x2/sett.png" alt="Irn Bru sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lo49db16k2w3db2w2db3lo2~x2/">Irn Bru</a></td><td><code>LO/98 DB32 K4 W6 DB4 W4 DB6 LO/4</code></td><td>214</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lo49db16k2w3db2w2db3lo2~x2/"><img src="/variants/s8/lo49db16k2w3db2w2db3lo2~x2/sett.png" alt="Irn Bru sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -28,6 +31,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="302.7" cy="103.6" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s7/r1lb5k8o18lb1k1lb1~x4/"><circle cx="259.2" cy="124.3" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><a href="/variants/s9/lr18k1dy3k1lr2dr2k2dr2lr2~x4/"><circle cx="345.0" cy="93.2" r="4" fill="#3465a4"><title>Anthony Plaid Ecru</title></circle></a><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><circle cx="422.7" cy="109.2" r="4" fill="#3465a4"><title>Vemma XXXXXXXXX</title></circle></a><a href="/variants/s8/r2lr2k2lr28k8lr9k1y2~x2/"><circle cx="396.8" cy="83.7" r="4" fill="#3465a4"><title>Summer Spirit</title></circle></a><a href="/variants/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="321.6" cy="73.2" r="4" fill="#3465a4"><title>Rothesay, Dress</title></circle></a><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="295.5" cy="106.4" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><a href="/variants/s8/lo5r6k5r6lo36db3lo2k1~x2/"><circle cx="383.7" cy="79.6" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="408.8" cy="99.3" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/"><circle cx="413.0" cy="64.9" r="4" fill="#3465a4"><title>Unnamed C20th</title></circle></a><circle cx="367.5" cy="90.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="303.4" cy="103.5" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s7/r1lb5k8o18lb1k1lb1~x4/"><circle cx="260.0" cy="124.3" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><a href="/variants/s9/lr18k1dy3k1lr2dr2k2dr2lr2~x4/"><circle cx="346.1" cy="93.2" r="4" fill="#3465a4"><title>Anthony Plaid Ecru</title></circle></a><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><circle cx="423.8" cy="109.4" r="4" fill="#3465a4"><title>Vemma XXXXXXXXX</title></circle></a><a href="/variants/s8/r2lr2k2lr28k8lr9k1y2~x2/"><circle cx="398.1" cy="83.8" r="4" fill="#3465a4"><title>Summer Spirit</title></circle></a><a href="/variants/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="322.6" cy="73.1" r="4" fill="#3465a4"><title>Rothesay, Dress</title></circle></a><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="296.3" cy="106.3" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><a href="/variants/s8/lo5r6k5r6lo36db3lo2k1~x2/"><circle cx="384.8" cy="79.7" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="409.9" cy="99.5" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/"><circle cx="414.3" cy="65.1" r="4" fill="#3465a4"><title>Unnamed C20th</title></circle></a><circle cx="368.6" cy="90.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

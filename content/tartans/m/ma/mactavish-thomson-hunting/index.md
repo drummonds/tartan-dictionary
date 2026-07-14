@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan MacTavish"
   url: "/clan/mactavish/"
+aliases:
+- "/setts/lb3o26g4lb13k13lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wkwgrw/">WKWGRW</a></nav>
 A tartan of [Clan MacTavish](/clan/mactavish/).
 Its design is pattern [WKWGRW](/stripes/wkwgrw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **MacTavish / Thomson, hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb3o26g4lb13k13lb2/">MacTavish / Thomson, hunting</a></td><td><code>LB/6 O52 G8 LB26 K26 LB/4</code></td><td>234</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb3o26g4lb13k13lb2/"><img src="/variants/s6/lb3o26g4lb13k13lb2~x2/sett.png" alt="MacTavish / Thomson, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb3o26g4lb13k13lb2~x2/">MacTavish / Thomson, hunting</a></td><td><code>LB/6 O52 G8 LB26 K26 LB/4</code></td><td>234</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb3o26g4lb13k13lb2~x2/"><img src="/variants/s6/lb3o26g4lb13k13lb2~x2/sett.png" alt="MacTavish / Thomson, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/lb4o28g6lb12k12lb3~x2/"><circle cx="188.4" cy="202.9" r="4" fill="#3465a4"><title>Thomson, Lord</title></circle></a><a href="/variants/s6/lb4dy28g6lb12k12lb3~x2/"><circle cx="185.5" cy="201.9" r="4" fill="#3465a4"><title>MacTavish Hunting</title></circle></a><a href="/variants/s5/db6lo25dy16k2db3~x2/"><circle cx="229.2" cy="181.3" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="180.8" cy="185.1" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="168.7" cy="177.7" r="4" fill="#3465a4"><title>Thomson camel</title></circle></a><a href="/variants/s6/w6g15db18r30g2r4~x2/"><circle cx="238.1" cy="194.3" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="168.4" cy="175.2" r="4" fill="#3465a4"><title>Black &amp; White Golf</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="178.6" cy="199.9" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="158.3" cy="193.5" r="4" fill="#3465a4"><title>Thompson Camel</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="178.6" cy="154.1" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><circle cx="198.9" cy="184.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/lb4o28g6lb12k12lb3~x2/"><circle cx="188.8" cy="202.8" r="4" fill="#3465a4"><title>Thomson, Lord</title></circle></a><a href="/variants/s6/lb4dy28g6lb12k12lb3~x2/"><circle cx="185.9" cy="201.7" r="4" fill="#3465a4"><title>MacTavish Hunting</title></circle></a><a href="/variants/s5/db6lo25dy16k2db3~x2/"><circle cx="229.7" cy="181.2" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="181.2" cy="184.9" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="169.1" cy="177.6" r="4" fill="#3465a4"><title>Thomson camel</title></circle></a><a href="/variants/s6/w6g15db18r30g2r4~x2/"><circle cx="238.5" cy="194.1" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="168.9" cy="175.1" r="4" fill="#3465a4"><title>Black &amp; White Golf</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="179.0" cy="199.7" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="158.6" cy="193.3" r="4" fill="#3465a4"><title>Thompson Camel</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="179.1" cy="153.9" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><circle cx="199.3" cy="184.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

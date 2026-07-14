@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lb2g13r2k6db23w1~x4/">Gamblin Thompson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb2g13r2k6db23w1~x4/"><img src="/variants/s6/lb2g13r2k6db23w1~x4/sett.png" alt="Gamblin Thompson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gamblin-thompson/">Gamblin Thompson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gamblin-thompson/"><img src="/variants/s6/lb2g13r2k6db23w1~x4/sett.png" alt="Gamblin Thompson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

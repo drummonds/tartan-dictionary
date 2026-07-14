@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/">Quadra</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/"><img src="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/sett.png" alt="Quadra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/quadra/">Quadra</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/quadra/"><img src="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/sett.png" alt="Quadra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

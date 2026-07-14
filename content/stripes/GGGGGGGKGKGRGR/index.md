@@ -28,13 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/">Ross Hunting #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/"><img src="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/sett.png" alt="Ross Hunting #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1~x2~dg1806142-g2408144/">Ross Hunting Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1~x2~dg1806142-g2408144/"><img src="/variants/s14/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1~x2~dg1806142-g2408144/sett.png" alt="Ross Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s14/g2dg4g2dg1g1dg1g3k2g2k2g12r1g2r1~x2/">Ross Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g2dg4g2dg1g1dg1g3k2g2k2g12r1g2r1~x2/"><img src="/variants/s14/g2dg4g2dg1g1dg1g3k2g2k2g12r1g2r1~x2/sett.png" alt="Ross Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-hunting/">Ross Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-hunting/"><img src="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/sett.png" alt="Ross Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

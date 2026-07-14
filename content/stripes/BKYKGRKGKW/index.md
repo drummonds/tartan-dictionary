@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dp6k2ly6k60g60r6k25y4k2w6/">US Army Civil Affairs</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dp6k2ly6k60g60r6k25y4k2w6/"><img src="/variants/s10/dp6k2ly6k60g60r6k25y4k2w6/sett.png" alt="US Army Civil Affairs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/us/us-army-civil-affairs/">US Army Civil Affairs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/us/us-army-civil-affairs/"><img src="/variants/s10/dp6k2ly6k60g60r6k25y4k2w6/sett.png" alt="US Army Civil Affairs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

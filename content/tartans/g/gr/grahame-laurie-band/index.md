@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Grahame"
   url: "/clan/grahame/"
+aliases:
+- "/setts/k8ly2dp6ly2k36db84w7/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kybykbw/">KYBYKBW</a></nav>
 A tartan of [Clan Grahame](/clan/grahame/).
 Its design is pattern [KYBYKBW](/stripes/kybykbw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Grahame Laurie Band** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k8ly2dp6ly2k36db84w7/">Grahame Laurie Band</a></td><td><code>K/8 LY2 DP6 LY2 K36 DB84 W/7</code></td><td>275</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k8ly2dp6ly2k36db84w7/"><img src="/variants/s7/k8ly2dp6ly2k36db84w7/sett.png" alt="Grahame Laurie Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k8ly2dp6ly2k36db84w7/">Grahame Laurie Band</a></td><td><code>K/8 LY2 DP6 LY2 K36 DB84 W/7</code></td><td>275</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><img src="/variants/s7/k8ly2dp6ly2k36db84w7/sett.png" alt="Grahame Laurie Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="336.9" cy="99.5" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/"><circle cx="345.5" cy="72.4" r="4" fill="#3465a4"><title>Nocken</title></circle></a><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="317.7" cy="136.2" r="4" fill="#3465a4"><title>Hannah</title></circle></a><a href="/variants/s6/db48k32r1k8r3w3~x2/"><circle cx="334.4" cy="104.1" r="4" fill="#3465a4"><title>Koot Wedding</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="337.4" cy="94.0" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s8/k4n1dp5n1k20db37n4db4~x2/"><circle cx="373.8" cy="121.7" r="4" fill="#3465a4"><title>Finnie</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="262.8" cy="74.5" r="4" fill="#3465a4"><title>Stewart Blue MINI</title></circle></a><a href="/variants/s6/r2w6k12db36n12y1~x2/"><circle cx="251.2" cy="103.6" r="4" fill="#3465a4"><title>Alan Stone</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.0" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="272.4" cy="108.6" r="4" fill="#3465a4"><title>Fuller of Hopewell</title></circle></a><circle cx="342.1" cy="81.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="338.0" cy="99.5" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/"><circle cx="346.6" cy="72.5" r="4" fill="#3465a4"><title>Nocken</title></circle></a><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="318.7" cy="136.3" r="4" fill="#3465a4"><title>Hannah</title></circle></a><a href="/variants/s6/db48k32r1k8r3w3~x2/"><circle cx="335.5" cy="104.2" r="4" fill="#3465a4"><title>Koot Wedding</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="338.4" cy="94.0" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s8/k4n1dp5n1k20db37n4db4~x2/"><circle cx="374.8" cy="121.8" r="4" fill="#3465a4"><title>Finnie</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="263.8" cy="74.4" r="4" fill="#3465a4"><title>Stewart Blue MINI</title></circle></a><a href="/variants/s6/r2w6k12db36n12y1~x2/"><circle cx="252.0" cy="103.5" r="4" fill="#3465a4"><title>Alan Stone</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.9" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="273.3" cy="108.6" r="4" fill="#3465a4"><title>Fuller of Hopewell</title></circle></a><circle cx="343.2" cy="81.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

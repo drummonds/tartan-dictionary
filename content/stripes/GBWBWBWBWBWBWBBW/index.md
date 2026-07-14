@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/">Ryder Cup, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/"><img src="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/sett.png" alt="Ryder Cup, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ry/ryder-cup-the/">Ryder Cup, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ry/ryder-cup-the/"><img src="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/sett.png" alt="Ryder Cup, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

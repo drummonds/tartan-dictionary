@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2n1ly2k1dbi4k1ly2db8dbi2db4dbi4lb1k2~x4~dbi1605267-db1204274/">Solberg-Bell Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2n1ly2k1dbi4k1ly2db8dbi2db4dbi4lb1k2~x4~dbi1605267-db1204274/"><img src="/variants/s13/k2n1ly2k1dbi4k1ly2db8dbi2db4dbi4lb1k2~x4~dbi1605267-db1204274/sett.png" alt="Solberg-Bell Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/solberg-bell-hunting/">Solberg-Bell Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/solberg-bell-hunting/"><img src="/variants/s13/k2n1ly2k1dbi4k1ly2db8dbi2db4dbi4lb1k2~x4~dbi1605267-db1204274/sett.png" alt="Solberg-Bell Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3y18g6r17k31g3~x2/">MacMillan Varient (Unidentified)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3y18g6r17k31g3~x2/"><img src="/variants/s6/k3y18g6r17k31g3~x2/sett.png" alt="MacMillan Varient (Unidentified) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macmillan-variant/">MacMillan Variant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macmillan-variant/"><img src="/variants/s6/k3y18g6r17k31g3~x2/sett.png" alt="MacMillan Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

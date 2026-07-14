@@ -8,9 +8,13 @@ crumbs:
   url: "/clan/stinson/"
 - name: "Stinson"
   url: "/families/stinson/"
+aliases:
+- "/setts/k7t20lb2r6lb2k20y3g20t27r3g6/"
+- "/setts/k7t20lb2r6lb2k20y3g20t27r3t6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grbggkwrwbk/">GRBGGKWRWBK</a></nav>
 A tartan of the [Stinson](/families/stinson/) family.
-Its design is pattern [GRBGGKWRWBKBWRWKGGBR](/stripes/grbggkwrwbkbwrwkggbr/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [GRBGGKWRWBK](/stripes/grbggkwrwbk/) — the page of every tartan sharing this colour sequence.
 
 The **Stinson** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
@@ -18,10 +22,10 @@ The **Stinson** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k7t20lb2r6lb2k20y3g20t27r3g6/">Stinson</a> ★</td><td><code>G/12 R6 T54 G40 Y6 K40 LB4 R12 LB4 T40 K14 T40 LB4 R12 LB4 K40 Y6 G40 T54 R/6</code></td><td>438</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k7t20lb2r6lb2k20y3g20t27r3g6/"><img src="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3g6~x2/sett.png" alt="Stinson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k7t20lb2r6lb2k20y3g20t27r3t6/">(Name)</a></td><td><code>K/14 T40 LB4 R12 LB4 K40 Y6 G40 T54 R6 T/12</code></td><td>438</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k7t20lb2r6lb2k20y3g20t27r3t6/"><img src="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3t6~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3g6~x2/">Stinson</a> ★</td><td><code>K/14 T40 LB4 R12 LB4 K40 Y6 G40 T54 R6 G/12</code></td><td>438</td><td>1985</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3g6~x2/"><img src="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3g6~x2/sett.png" alt="Stinson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3t6~x2/">(Name)</a></td><td><code>K/14 T40 LB4 R12 LB4 K40 Y6 G40 T54 R6 T/12</code></td><td>438</td><td>1985</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3t6~x2/"><img src="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3t6~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="123.5" cy="138.4" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="151.2" cy="138.4" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><circle cx="166.9" cy="125.8" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/"><circle cx="102.3" cy="137.0" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s10/g9w9k2w2k2y2dg28g2db12g4~x2/"><circle cx="128.3" cy="125.0" r="4" fill="#3465a4"><title>Order of Saint Lazarus</title></circle></a><a href="/variants/s12/g7r2g3r5g17y2k15y2t22g3w2t7~x2/"><circle cx="109.6" cy="146.4" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/"><circle cx="100.1" cy="151.3" r="4" fill="#3465a4"><title>State Seal of Kentucky</title></circle></a><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/"><circle cx="143.7" cy="139.5" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s10/k6g14t2r3t2k16y2ti16g16r3~x2~t2304245-ti2607245/"><circle cx="84.3" cy="162.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/"><circle cx="89.1" cy="153.2" r="4" fill="#3465a4"><title>McCuaig</title></circle></a><circle cx="126.0" cy="139.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="123.8" cy="138.1" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="151.6" cy="138.1" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><circle cx="167.4" cy="125.6" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/"><circle cx="102.6" cy="136.7" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s10/g9w9k2w2k2y2dg28g2db12g4~x2/"><circle cx="128.6" cy="124.7" r="4" fill="#3465a4"><title>Order of Saint Lazarus</title></circle></a><a href="/variants/s12/g7r2g3r5g17y2k15y2t22g3w2t7~x2/"><circle cx="109.8" cy="146.1" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/"><circle cx="100.3" cy="150.9" r="4" fill="#3465a4"><title>State Seal of Kentucky</title></circle></a><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/"><circle cx="144.1" cy="139.2" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s10/k6g14t2r3t2k16y2ti16g16r3~x2~t2304245-ti2607245/"><circle cx="84.5" cy="161.9" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/"><circle cx="89.3" cy="152.9" r="4" fill="#3465a4"><title>McCuaig</title></circle></a><circle cx="126.3" cy="139.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

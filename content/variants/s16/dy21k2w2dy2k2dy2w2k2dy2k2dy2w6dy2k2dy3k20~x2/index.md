@@ -8,15 +8,15 @@ crumbs:
 - name: "Corps Suevia Heidelburg"
   url: "/tartans/c/co/corps-suevia-heidelburg/"
 - name: "Corps Suevia Heidelburg"
-  url: "/setts/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKWGKGWKGKGWGKGKGKGWGKGKWGKGWK](/stripes/gkwgkgwkgkgwgkgkgkgwgkgkwgkgwk/).
+provenance below. It is one weaving of the [sett](/tartans/c/co/corps-suevia-heidelburg/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKWGKGWKGKGWGKGK](/stripes/gkwgkgwkgkgwgkgk/).
 
 Part of the [Corps Suevia Heidelburg](/tartans/c/co/corps-suevia-heidelburg/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=772](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=772)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=772](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2001 — Corps Suevia Heidelburg (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=772">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #FCCC00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #C8C8C8"></span><br><em>Designed by Chevalier Andrew Stuart-Houghton KHT. Copyright of designer. For use by members of the Corps Suevia zu Heidelburg, a student fraternity of Heidelburg University.</em></li>
-<li>2001 — Corps Suevia Heidelburg (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4123">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #FCCC00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #C8C8C8"></span><br><em>Designed by Chevalier Andrew Stuart-Houghton KHT. Copyright of designer. For use by members of the Corps Suevia zu Heidelburg, a student fraternity of Heidelburg University.</em></li>
+<li>2001 — Corps Suevia Heidelburg (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4123/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #FCCC00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #C8C8C8"></span><br><em>Designed by Chevalier Andrew Stuart-Houghton KHT. Copyright of designer. For use by members of the Corps Suevia zu Heidelburg, a student fraternity of Heidelburg University.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4123
 
 ## Thread count
-DY/42 K4 W4 DY4 K4 DY4 W4 K4 DY4 K4 DY4 W12 DY4 K4 DY6 K40 DY6 K4 DY4 W12 DY4 K4 DY4 K4 W4 DY4 K4 DY4 W4 K/4
+DY/42 K4 W4 DY4 K4 DY4 W4 K4 DY4 K4 DY4 W12 DY4 K4 DY6 K/40
 
-One full sett is **382 threads**.
+One full sett is **214 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DY/42 K4 W4 DY4 K4 DY4 W4 K4 DY4 K4 DY4 W12 DY4 K4 DY6 K40 DY6 K4 DY4 W12 DY4 K4 DY4 K4 W4 DY4 K4 DY4 W4 K/4 — 382 threads; it folds to the canonical 214-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **382 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/42 K4 W4 DY4 K4 DY4 W4 K4 DY4 K4 DY4 W12 DY4 K4 DY6 K40 DY6 K4 DY4 W12 DY4 K4 DY4 K4 W4 DY4 K4 DY4 W4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/42 K4 W4 DY4 K4 DY4 W4 K4 DY4 K4 DY4 W12 DY4 K4 DY6 K/40 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

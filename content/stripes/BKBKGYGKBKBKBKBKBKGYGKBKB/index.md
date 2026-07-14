@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/db2k2db11k12dg12ly2dg12k12db2k2db2k2db12k2db2k2db2k12dg12ly2dg12k12db11k2db1~x4/">Gordon of The Burn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/db2k2db11k12dg12ly2dg12k12db2k2db2k2db12k2db2k2db2k12dg12ly2dg12k12db11k2db1~x4/"><img src="/variants/s25/db2k2db11k12dg12ly2dg12k12db2k2db2k2db12k2db2k2db2k12dg12ly2dg12k12db11k2db1~x4/sett.png" alt="Gordon of The Burn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gordon-of-the-burn/">Gordon of The Burn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gordon-of-the-burn/"><img src="/variants/s25/db2k2db11k12dg12ly2dg12k12db2k2db2k2db12k2db2k2db2k12dg12ly2dg12k12db11k2db1~x4/sett.png" alt="Gordon of The Burn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

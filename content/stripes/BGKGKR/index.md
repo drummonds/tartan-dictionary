@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n5y1k5dg46k5r3~x2/">Touch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n5y1k5dg46k5r3~x2/"><img src="/variants/s6/n5y1k5dg46k5r3~x2/sett.png" alt="Touch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/touch/">Touch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/touch/"><img src="/variants/s6/n5y1k5dg46k5r3~x2/sett.png" alt="Touch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

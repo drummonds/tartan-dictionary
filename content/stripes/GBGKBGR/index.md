@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3g2db27k19g27dp2y3~x2/">Christian Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3g2db27k19g27dp2y3~x2/"><img src="/variants/s7/r3g2db27k19g27dp2y3~x2/sett.png" alt="Christian Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/christian-hunting/">Christian Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/christian-hunting/"><img src="/variants/s7/r3g2db27k19g27dp2y3~x2/sett.png" alt="Christian Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

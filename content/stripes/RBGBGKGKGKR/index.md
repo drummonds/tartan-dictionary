@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r1k6g1k1g8k1g8db1g1db6r1/">Davidson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r1k6g1k1g8k1g8db1g1db6r1/"><img src="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/sett.png" alt="Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/">Davidson Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/"><img src="/variants/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/sett.png" alt="Davidson Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/davidson-3/">Davidson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/davidson-3/"><img src="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/sett.png" alt="Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Norwich No.001"
   url: "/tartans/n/no/norwich-no-001/"
 - name: "Norwich No.001"
-  url: "/setts/r8y7k8lo2k1lb3k1dg19k1r8y3r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8y7k8lo2k1lb3k1dg19k1r8y3r8/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKYKWKGKRGRGRKGKWKYKGR](/stripes/gkykwkgkrgrgrkgkwkykgr/).
+provenance below. It is one weaving of the [sett](/tartans/n/no/norwich-no-001/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGKYKWKGKRGR](/stripes/rgkykwkgkrgr/).
 
 Part of the [Norwich No.001](/tartans/n/no/norwich-no-001/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3169](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3169)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5583
 
 ## Thread count
-R/16 Y14 K16 LO4 K2 LB6 K2 DG38 K2 R16 Y6 R16 Y6 R16 K2 DG38 K2 LB6 K2 LO4 K16 Y/14
+R/16 Y14 K16 LO4 K2 LB6 K2 DG38 K2 R16 Y6 R/16
 
-One full sett is **458 threads**.
+One full sett is **244 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/16 Y14 K16 LO4 K2 LB6 K2 DG38 K2 R16 Y6 R16 Y6 R16 K2 DG38 K2 LB6 K2 LO4 K16 Y/14 — 458 threads; it folds to the canonical 244-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **458 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/16 Y14 K16 LO4 K2 LB6 K2 DG38 K2 R16 Y6 R16 Y6 R16 K2 DG38 K2 LB6 K2 LO4 K16 Y/14 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/16 Y14 K16 LO4 K2 LB6 K2 DG38 K2 R16 Y6 R/16 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

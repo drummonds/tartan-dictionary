@@ -8,10 +8,10 @@ crumbs:
 - name: "Blackwood"
   url: "/tartans/b/bl/blackwood/"
 - name: "Blackwood (Loch Wood)"
-  url: "/setts/dg5db1g5dp1dg5b1dg5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg5db1g5dp1dg5b1dg5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blackwood/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBG](/stripes/gbgbgbg/).
 
 Part of the [Blackwood](/tartans/b/bl/blackwood/) tartan — the named design grouping this sett with its other cloths.

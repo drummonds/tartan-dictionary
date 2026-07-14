@@ -8,10 +8,10 @@ crumbs:
 - name: "Elvan"
   url: "/tartans/e/el/elvan/"
 - name: "Elvan"
-  url: "/setts/ly42dy10b2dy2w2dy2ly10w6dy2w3ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly42dy10b2dy2w2dy2ly10w6dy2w3ly2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/el/elvan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGBGWGYWGWY](/stripes/ygbgwgywgwy/).
 
 Part of the [Elvan](/tartans/e/el/elvan/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1106](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — Elvan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1106">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D8C0A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TNC #D8C0A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection - from Jedburgh Kiltmakers.</em></li>
-<li>pre 1984 — Elvan (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4809">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D8C0A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TNC #D8C0A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><br><em>Sample in STA's Johnston Collection - from Jedburgh Kiltmakers.</em></li>
+<li>pre 1984 — Elvan (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4809/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D8C0A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TNC #D8C0A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><br><em>Sample in STA's Johnston Collection - from Jedburgh Kiltmakers.</em></li>
 </ul>
 </details>
 

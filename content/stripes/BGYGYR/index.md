@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/do4g25lr10g3lr18r4~x2/">Unidentfied (Ligioner Highland Games</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/do4g25lr10g3lr18r4~x2/"><img src="/variants/s6/do4g25lr10g3lr18r4~x2/sett.png" alt="Unidentfied (Ligioner Highland Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentfied-ligioner-highland-games/">Unidentfied (Ligioner Highland Games</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentfied-ligioner-highland-games/"><img src="/variants/s6/do4g25lr10g3lr18r4~x2/sett.png" alt="Unidentfied (Ligioner Highland Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

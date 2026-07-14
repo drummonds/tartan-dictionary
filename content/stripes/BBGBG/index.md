@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dg3dr1dg9n10db3~x4/">Bethlehem, City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><img src="/variants/s5/dg3dr1dg9n10db3~x4/sett.png" alt="Bethlehem, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bethlehem-city-of/">Bethlehem, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bethlehem-city-of/"><img src="/variants/s5/dg3dr1dg9n10db3~x4/sett.png" alt="Bethlehem, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/db2dp3g3n6y2~x2/">Dunoon Burgh Hall Trust</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db2dp3g3n6y2~x2/"><img src="/variants/s5/db2dp3g3n6y2~x2/sett.png" alt="Dunoon Burgh Hall Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunoon-burgh-hall-trust/">Dunoon Burgh Hall Trust</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunoon-burgh-hall-trust/"><img src="/variants/s5/db2dp3g3n6y2~x2/sett.png" alt="Dunoon Burgh Hall Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

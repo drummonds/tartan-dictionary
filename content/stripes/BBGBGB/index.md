@@ -28,17 +28,17 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dt4dg2dr26dg10dt32n3~x2/">Dempster Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dt4dg2dr26dg10dt32n3~x2/"><img src="/variants/s6/dt4dg2dr26dg10dt32n3~x2/sett.png" alt="Dempster Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dempster-3/">Dempster</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/dempster-3/"><img src="/variants/s6/dt4dg2dr26dg10dt32n3~x2/sett.png" alt="Dempster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db9dy12db44dy12db9dr3~x2/">Elliot</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db9dy12db44dy12db9dr3~x2/"><img src="/variants/s6/db9dy12db44dy12db9dr3~x2/sett.png" alt="Elliot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elliot-3/">Elliot</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elliot-3/"><img src="/variants/s6/db9dy12db44dy12db9dr3~x2/sett.png" alt="Elliot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db26dr6g16db8g3dr2~x2/">Perthshire (New) District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db26dr6g16db8g3dr2~x2/"><img src="/variants/s6/db26dr6g16db8g3dr2~x2/sett.png" alt="Perthshire (New) District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perthshire/">Perthshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perthshire/"><img src="/variants/s6/db26dr6g16db8g3dr2~x2/sett.png" alt="Perthshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/">Perthshire Tourist Board (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/"><img src="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/sett.png" alt="Perthshire Tourist Board (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perthshire-tourist-board/">Perthshire Tourist Board</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perthshire-tourist-board/"><img src="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/sett.png" alt="Perthshire Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/">Payeur, Francois (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/"><img src="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/sett.png" alt="Payeur, Francois (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/payeur-francois/">Payeur, Francois</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/payeur-francois/"><img src="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/sett.png" alt="Payeur, Francois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

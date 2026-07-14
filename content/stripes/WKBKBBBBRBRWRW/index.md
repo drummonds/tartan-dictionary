@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/">Snowy Owl</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><img src="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/sett.png" alt="Snowy Owl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sn/snowy-owl/">Snowy Owl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sn/snowy-owl/"><img src="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/sett.png" alt="Snowy Owl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

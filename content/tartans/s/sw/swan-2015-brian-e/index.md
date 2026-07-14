@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Swan"
   url: "/clan/swan/"
+aliases:
+- "/setts/k2db9k2db9k13w1k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbkbkwk/">KBKBKWK</a></nav>
 A tartan of [Clan Swan](/clan/swan/).
 Its design is pattern [KBKBKWK](/stripes/kbkbkwk/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Swan 2015, Brian E** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k2db9k2db9k13w1k2/">Swan 2015, Brian E</a></td><td><code>K/8 DB36 K8 DB36 K52 W4 K/8</code></td><td>288</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2db9k2db9k13w1k2/"><img src="/variants/s7/k2db9k2db9k13w1k2~x4/sett.png" alt="Swan 2015, Brian E sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k2db9k2db9k13w1k2~x4/">Swan 2015, Brian E</a></td><td><code>K/8 DB36 K8 DB36 K52 W4 K/8</code></td><td>288</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><img src="/variants/s7/k2db9k2db9k13w1k2~x4/sett.png" alt="Swan 2015, Brian E sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="282.8" cy="144.8" r="4" fill="#3465a4"><title>Slanj Dress</title></circle></a><a href="/variants/s6/k3b16k4b3k12w2~x3/"><circle cx="250.5" cy="202.0" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s6/k3w2k18b18k2b3~x4/"><circle cx="274.4" cy="184.0" r="4" fill="#3465a4"><title>Swan</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="358.7" cy="144.0" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s8/k1db5w2k30db30k1db1k1~x2/"><circle cx="364.1" cy="110.4" r="4" fill="#3465a4"><title>Binder Wedding</title></circle></a><a href="/variants/s7/k6y2k16lb6k3db18k2~x2/"><circle cx="226.6" cy="174.7" r="4" fill="#3465a4"><title>Carrick High</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="304.7" cy="165.8" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="357.1" cy="178.7" r="4" fill="#3465a4"><title>Casterton</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="307.1" cy="154.0" r="4" fill="#3465a4"><title>Oakleigh</title></circle></a><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="275.9" cy="172.8" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><circle cx="311.3" cy="184.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="283.7" cy="144.9" r="4" fill="#3465a4"><title>Slanj Dress</title></circle></a><a href="/variants/s6/k3b16k4b3k12w2~x3/"><circle cx="251.2" cy="202.1" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s6/k3w2k18b18k2b3~x4/"><circle cx="275.2" cy="184.0" r="4" fill="#3465a4"><title>Swan</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="359.7" cy="144.2" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s8/k1db5w2k30db30k1db1k1~x2/"><circle cx="365.3" cy="110.6" r="4" fill="#3465a4"><title>Binder Wedding</title></circle></a><a href="/variants/s7/k6y2k16lb6k3db18k2~x2/"><circle cx="227.3" cy="174.7" r="4" fill="#3465a4"><title>Carrick High</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="305.7" cy="166.0" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="358.1" cy="179.0" r="4" fill="#3465a4"><title>Casterton</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="308.0" cy="154.1" r="4" fill="#3465a4"><title>Oakleigh</title></circle></a><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="276.7" cy="172.8" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><circle cx="312.2" cy="184.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

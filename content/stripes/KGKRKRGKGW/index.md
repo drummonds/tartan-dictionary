@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w15g8k12g14r64k12r16k10y8k14/">Carlow County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w15g8k12g14r64k12r16k10y8k14/"><img src="/variants/s10/w15g8k12g14r64k12r16k10y8k14/sett.png" alt="Carlow County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carlow-county-crest/">Carlow County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carlow-county-crest/"><img src="/variants/s10/w15g8k12g14r64k12r16k10y8k14/sett.png" alt="Carlow County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

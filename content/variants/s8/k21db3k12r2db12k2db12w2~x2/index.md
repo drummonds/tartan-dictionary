@@ -10,10 +10,10 @@ crumbs:
 - name: "Inverness Caledonian Thistle Football Club"
   url: "/tartans/i/in/inverness-caledonian-thistle-football-club/"
 - name: "Inverness Caledonian Thistle Football Club"
-  url: "/setts/k21db3k12r2db12k2db12w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k21db3k12r2db12k2db12w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/inverness-caledonian-thistle-football-club/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRBKBW](/stripes/kbkrbkbw/).
 
 Part of the [Inverness Caledonian Thistle Football Club](/tartans/i/in/inverness-caledonian-thistle-football-club/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1843](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Inverness Caledonian Thistle Football Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1843">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BZ #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BW #FCFCFC"></span><br><em>Designed by Polly Wittering of the House of Edgar C.1996.</em></li>
-<li>1996 — Inverness Caledonian Thistle F.C. (C (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5272">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BZ #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BW #FCFCFC"></span><br><em>Designed by Polly Wittering of the House of Edgar C.1996</em></li>
+<li>1996 — Inverness Caledonian Thistle F.C. (C (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5272/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BZ #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BW #FCFCFC"></span><br><em>Designed by Polly Wittering of the House of Edgar C.1996</em></li>
 </ul>
 </details>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2g20r2db8r36g1~x2/">Robertson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2g20r2db8r36g1~x2/"><img src="/variants/s6/r2g20r2db8r36g1~x2/sett.png" alt="Robertson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r1g10r1db4r18g1~x4/">Robertson 6</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r1g10r1db4r18g1~x4/"><img src="/variants/s6/r1g10r1db4r18g1~x4/sett.png" alt="Robertson 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robertson-4/">Robertson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-4/"><img src="/variants/s6/r2g20r2db8r36g1~x2/sett.png" alt="Robertson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robertson-6/">Robertson 6</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-6/"><img src="/variants/s6/r1g10r1db4r18g1~x4/sett.png" alt="Robertson 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

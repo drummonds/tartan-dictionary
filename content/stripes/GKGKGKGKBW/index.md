@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y10k24y5k13y24k5g52k5db18w8/">Leitrim County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y10k24y5k13y24k5g52k5db18w8/"><img src="/variants/s10/y10k24y5k13y24k5g52k5db18w8/sett.png" alt="Leitrim County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leitrim-county-crest-range/">Leitrim County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leitrim-county-crest-range/"><img src="/variants/s10/y10k24y5k13y24k5g52k5db18w8/sett.png" alt="Leitrim County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

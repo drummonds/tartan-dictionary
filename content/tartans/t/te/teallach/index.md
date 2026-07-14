@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/teallach/"
 - name: "Teallach"
   url: "/families/teallach/"
+aliases:
+- "/setts/y4r24dy19w3g23n13dy3ni13dy3/"
+- "/setts/y4r24dy19w3g23o13dy3n13dy3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbgwgrg/">GBGBGWGRG</a></nav>
 A tartan of the [Teallach](/families/teallach/) family.
 Its design is pattern [GBGBGWGRG](/stripes/gbgbgwgrg/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Teallach** tartan groups 2 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y4r24dy19w3g23n13dy3ni13dy3/">Teallach</a> ★</td><td><code>Y/8 R48 DY38 W6 G46 N26 DY6 Ni26 DY/6</code></td><td>—</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y4r24dy19w3g23n13dy3ni13dy3/"><img src="/variants/s9/y4r24dy19w3g23n13dy3ni13dy3~x2~r2008029-dy1603076-g2104115-ni1700000/sett.png" alt="Teallach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/y4r24dy19w3g23o13dy3n13dy3/">Family Tartan</a></td><td><code>Y/8 R48 DY38 W6 G46 O26 DY6 N26 DY/6</code></td><td>406</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y4r24dy19w3g23o13dy3n13dy3/"><img src="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o2500000-n1900000/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y4r24dy19w3g23n13dy3ni13dy3~x2~r2008029-dy1603076-g2104115-ni1700000/">Teallach</a> ★</td><td><code>Y/4 R24 DY19 W3 G23 N13 DY3 N13 DY/3</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y4r24dy19w3g23n13dy3ni13dy3~x2~r2008029-dy1603076-g2104115-ni1700000/"><img src="/variants/s9/y4r24dy19w3g23n13dy3ni13dy3~x2~r2008029-dy1603076-g2104115-ni1700000/sett.png" alt="Teallach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o2500000-n1900000/">Family Tartan</a></td><td><code>Y/8 R48 DY38 W6 G46 O26 DY6 N26 DY/6</code></td><td>406</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o2500000-n1900000/"><img src="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o2500000-n1900000/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

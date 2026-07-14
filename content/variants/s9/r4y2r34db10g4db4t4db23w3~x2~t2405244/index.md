@@ -8,15 +8,15 @@ crumbs:
 - name: "Heirloom Red Alba"
   url: "/tartans/h/he/heirloom-red-alba/"
 - name: "Heirloom Red Alba"
-  url: "/setts/r4y2r34db10g4db4t4db23w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4y2r34db10g4db4t4db23w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRBGBBBWBBBGBRGR](/stripes/grbgbbbwbbbgbrgr/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/heirloom-red-alba/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGRBGBBBW](/stripes/rgrbgbbbw/).
 
 Part of the [Heirloom Red Alba](/tartans/h/he/heirloom-red-alba/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1680](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1680)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6407
 
 ## Thread count
-R/8 Y4 R68 DB20 G8 DB8 T8 DB46 W6 DB46 T8 DB8 G8 DB20 R68 Y/4
+R/8 Y4 R68 DB20 G8 DB8 T8 DB46 W/6
 
-One full sett is **664 threads**.
+One full sett is **338 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/8 Y4 R68 DB20 G8 DB8 T8 DB46 W6 DB46 T8 DB8 G8 DB20 R68 Y/4 — 664 threads; it folds to the canonical 338-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **664 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 Y4 R68 DB20 G8 DB8 T8 DB46 W6 DB46 T8 DB8 G8 DB20 R68 Y/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 Y4 R68 DB20 G8 DB8 T8 DB46 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

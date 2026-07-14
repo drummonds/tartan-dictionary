@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k15r8y2db25k5db13k5~x2/">Gifford (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k15r8y2db25k5db13k5~x2/"><img src="/variants/s7/k15r8y2db25k5db13k5~x2/sett.png" alt="Gifford (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gi/gifford/">Gifford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/gifford/"><img src="/variants/s7/k15r8y2db25k5db13k5~x2/sett.png" alt="Gifford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/k9b4k1b4g15r4k1~x2/">Logan, Dark</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k9b4k1b4g15r4k1~x2/"><img src="/variants/s7/k9b4k1b4g15r4k1~x2/sett.png" alt="Logan, Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/logan-dark/">Logan, Dark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-dark/"><img src="/variants/s7/k9b4k1b4g15r4k1~x2/sett.png" alt="Logan, Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

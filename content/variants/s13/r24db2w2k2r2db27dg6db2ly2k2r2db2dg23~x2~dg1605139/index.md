@@ -8,10 +8,10 @@ crumbs:
 - name: "Montreal Olympics"
   url: "/tartans/m/mo/montreal-olympics/"
 - name: "Olympic"
-  url: "/setts/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/montreal-olympics/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRKYBGBRKWBR](/stripes/gbrkybgbrkwbr/).
 
 Part of the [Montreal Olympics](/tartans/m/mo/montreal-olympics/) tartan — the named design grouping this sett with its other cloths.

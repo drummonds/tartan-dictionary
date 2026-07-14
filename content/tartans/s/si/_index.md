@@ -17,7 +17,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/s/si/sikh/"><img src="/variants/s8/o56k12o7k12o7dg50db50y10/sett.png" alt="Sikh" width="140"><br><strong>Sikh (2)</strong></a><div class="clan-territory">Sikh</div></li>
 <li><a class="tartan" href="/tartans/s/si/sikh-2/"><img src="/variants/s14/dt20g20o3k4o3k4o30k4o3k4o3g20dt20y4~x2/sett.png" alt="Sikh" width="140"><br><strong>Sikh (1)</strong></a><div class="clan-territory">Sikh</div></li>
 <li><a class="tartan" href="/tartans/s/si/sildesalaten/"><img src="/variants/s5/r32w4db7y2lb2~x5/sett.png" alt="Sildesalaten" width="140"><br><strong>Sildesalaten (2)</strong></a><div class="clan-territory">Sildesalaten</div></li>
-<li><a class="tartan" href="/tartans/s/si/sillars/"><img src="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2~w4000000/sett.png" alt="Sillars" width="140"><br><strong>Sillars (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/si/sillars/"><img src="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/sett.png" alt="Sillars" width="140"><br><strong>Sillars (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/sillitoe/"><img src="/variants/s2/db1w1~x20/sett.png" alt="Sillitoe" width="140"><br><strong>Sillitoe (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/silver/"><img src="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/sett.png" alt="Silver" width="140"><br><strong>Silver (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/si/silver-mist/"><img src="/variants/s5/n2k13n31k1n1~x4/sett.png" alt="Silver Mist" width="140"><br><strong>Silver Mist (1)</strong></a></li>
@@ -37,7 +37,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/s/si/sinclair/"><img src="/variants/s7/dr4db15w2n15g30dr2g4~x2/sett.png" alt="Sinclair" width="140"><br><strong>Sinclair (2)</strong></a><div class="clan-territory">Sinclair</div></li>
 <li><a class="tartan" href="/tartans/s/si/sinclair-2/"><img src="/variants/s6/r28g16k4w1db6r28~x2/sett.png" alt="Sinclair" width="140"><br><strong>Sinclair (4)</strong></a><div class="clan-territory">Sinclair</div></li>
 <li><a class="tartan" href="/tartans/s/si/sinclair-3/"><img src="/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/sett.png" alt="Sinclair" width="140"><br><strong>Sinclair (1)</strong></a><div class="clan-territory">Sinclair</div></li>
-<li><a class="tartan" href="/tartans/s/si/sinclair-dress/"><img src="/variants/s6/r28g16k4w1lb6r28~x2/sett.png" alt="Sinclair Dress" width="140"><br><strong>Sinclair Dress (2)</strong></a><div class="clan-territory">Sinclair</div></li>
+<li><a class="tartan" href="/tartans/s/si/sinclair-dress/"><img src="/variants/s6/r28g16k4w1lb6r28/sett.png" alt="Sinclair Dress" width="140"><br><strong>Sinclair Dress (2)</strong></a><div class="clan-territory">Sinclair</div></li>
 <li><a class="tartan" href="/tartans/s/si/sinclair-dress-2/"><img src="/variants/s7/db4r2db31k10g4w21g2~x2/sett.png" alt="Sinclair Dress" width="140"><br><strong>Sinclair Dress (3)</strong></a><div class="clan-territory">Sinclair</div></li>
 <li><a class="tartan" href="/tartans/s/si/sinclair-hunting/"><img src="/variants/s7/r2db16w1k16g30r1g2~x2/sett.png" alt="Sinclair Hunting" width="140"><br><strong>Sinclair Hunting (1)</strong></a><div class="clan-territory">Sinclair</div></li>
 <li><a class="tartan" href="/tartans/s/si/sinclair-hunting-2/"><img src="/variants/s7/g6r2g13k6w2k16r3~x2/sett.png" alt="Sinclair Hunting" width="140"><br><strong>Sinclair Hunting (1)</strong></a><div class="clan-territory">Sinclair</div></li>

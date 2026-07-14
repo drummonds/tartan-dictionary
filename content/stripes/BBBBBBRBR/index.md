@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/">POF (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/"><img src="/variants/s9/t27db8t14db8t14db26r84db6r12/sett.png" alt="POF (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/pof/">POF</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/pof/"><img src="/variants/s9/t27db8t14db8t14db26r84db6r12/sett.png" alt="POF sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

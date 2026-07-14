@@ -12,10 +12,10 @@ crumbs:
 - name: "Pendleton dress"
   url: "/tartans/p/pe/pendleton-dress-3/"
 - name: "Pendleton dress Corporate Tartan"
-  url: "/setts/db40dg34r5dg34k6dg34y5dg34db40dbi6db40dg34y5dg34k6dg34r5dg34db40dbi6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db40dg34r5dg34k6dg34y5dg34db40dbi6db40dg34y5dg34k6dg34r5dg34db40dbi6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/pendleton-dress-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGRGKGGGBBBGGGKGRGB](/stripes/bbgrgkgggbbbgggkgrgb/).
 
 Part of the [Pendleton dress](/tartans/p/pe/pendleton-dress-3/) tartan — the named design grouping this sett with its other cloths.

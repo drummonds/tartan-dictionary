@@ -10,10 +10,10 @@ crumbs:
 - name: "Kerry Irish County"
   url: "/tartans/k/ke/kerry-irish-county/"
 - name: "Kerry Irish County Tartan"
-  url: "/setts/ly2t3k3t4y16t3k3t4y3t3k16t4y3t3ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly2t3k3t4y16t3k3t4y3t3k16t4y3t3ly2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kerry-irish-county/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBGBKBGBKBGBKBY](/stripes/ybgbkbgbkbgbkby/).
 
 Part of the [Kerry Irish County](/tartans/k/ke/kerry-irish-county/) tartan — the named design grouping this sett with its other cloths.

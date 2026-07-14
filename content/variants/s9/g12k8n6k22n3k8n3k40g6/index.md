@@ -8,10 +8,10 @@ crumbs:
 - name: "Jensen, Sven"
   url: "/tartans/j/je/jensen-sven/"
 - name: "Jensen, Sven (Personal)"
-  url: "/setts/g12k8n6k22n3k8n3k40g6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12k8n6k22n3k8n3k40g6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/je/jensen-sven/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBKG](/stripes/gkbkbkbkg/).
 
 Part of the [Jensen, Sven](/tartans/j/je/jensen-sven/) tartan — the named design grouping this sett with its other cloths.

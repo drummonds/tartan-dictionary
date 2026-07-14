@@ -8,10 +8,10 @@ crumbs:
 - name: "Clans of Caledonia"
   url: "/tartans/c/cl/clans-of-caledonia/"
 - name: "Clans of Caledonia"
-  url: "/setts/db4g5dp3g5db46dp42w4dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4g5dp3g5db46dp42w4dp4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clans-of-caledonia/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBBWB](/stripes/bgbgbbwb/).
 
 Part of the [Clans of Caledonia](/tartans/c/cl/clans-of-caledonia/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=662](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/2003 — Clans of Caledonia (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=662">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Introduced primarily for MacTag's American market but also to commemorate the 10th anniversary of MacTag ltd. Sample in Scottish Tartans Authority's Collection.</em></li>
-<li>September 2003 — Clans of Caledonia (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5923">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Introduced primarily for MacTag's American market but also to commemorate the 10th anniversary of MacTag Ltd. Sample in STA Collection.</em></li>
+<li>September 2003 — Clans of Caledonia (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5923/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Introduced primarily for MacTag's American market but also to commemorate the 10th anniversary of MacTag Ltd. Sample in STA Collection.</em></li>
 </ul>
 </details>
 

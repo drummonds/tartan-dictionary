@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1/">Baillie of Polkemmet</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1/"><img src="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/sett.png" alt="Baillie of Polkemmet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baillie-of-polkemett/">Baillie of Polkemett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baillie-of-polkemett/"><img src="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/sett.png" alt="Baillie of Polkemett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

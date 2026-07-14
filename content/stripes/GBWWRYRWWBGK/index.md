@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/">Kentucky, State of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/"><img src="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/sett.png" alt="Kentucky, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kentucky-state-of/">Kentucky, State of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kentucky-state-of/"><img src="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/sett.png" alt="Kentucky, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rybyygbyybgyr/">RYBYYGBYYBGYR</a></nav>
 Its design is pattern [RYBYYGBYYBGYR](/stripes/rybyygbyybgyr/) — the page of every tartan sharing this colour sequence.
 
 The **Callanish, The** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Callanish, The** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2/">Callanish, The</a></td><td><code>R/4 LR4 DT4 LO4 LR12 G6 DT6 LO8 LR4 DT6 G4 LR4 R/4</code></td><td>132</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2/"><img src="/variants/s13/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2~x2~lr3301060-dt1300000/sett.png" alt="Callanish, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2~x2~lr3301060-dt1300000/">Callanish, The</a></td><td><code>R/4 LR4 DT4 LO4 LR12 G6 DT6 LO8 LR4 DT6 G4 LR4 R/4</code></td><td>132</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2~x2~lr3301060-dt1300000/"><img src="/variants/s13/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2~x2~lr3301060-dt1300000/sett.png" alt="Callanish, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s14/o10dy5w8ly8dy5w8dy14w4dy5w4ly5w4ly4y10/"><circle cx="37.2" cy="253.2" r="4" fill="#3465a4"><title>Glen Forest</title></circle></a><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/"><circle cx="66.8" cy="218.8" r="4" fill="#3465a4"><title>Haliburton</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="159.9" cy="264.3" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s12/g2k1g4lb4y1lb4r4k1r4lb2r4w1~x4/"><circle cx="63.9" cy="210.8" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/variants/s11/r3db6g5db1g1db3y6w6y2w6r2~x2/"><circle cx="53.7" cy="226.1" r="4" fill="#3465a4"><title>Canice-Moodie</title></circle></a><circle cx="64.9" cy="270.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s14/o10dy5w8ly8dy5w8dy14w4dy5w4ly5w4ly4y10/"><circle cx="36.9" cy="252.8" r="4" fill="#3465a4"><title>Glen Forest</title></circle></a><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/"><circle cx="66.6" cy="218.3" r="4" fill="#3465a4"><title>Haliburton</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="159.8" cy="264.0" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s12/g2k1g4lb4y1lb4r4k1r4lb2r4w1~x4/"><circle cx="63.8" cy="210.3" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/variants/s11/r3db6g5db1g1db3y6w6y2w6r2~x2/"><circle cx="53.6" cy="225.7" r="4" fill="#3465a4"><title>Canice-Moodie</title></circle></a><circle cx="64.6" cy="270.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Paget"
   url: "/tartans/p/pa/paget/"
 - name: "Paget Family Tartan"
-  url: "/setts/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/paget/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGKGBGBGKGWR](/stripes/rgggkgbgbgkgwr/).
 
 Part of the [Paget](/tartans/p/pa/paget/) tartan — the named design grouping this sett with its other cloths.

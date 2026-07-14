@@ -8,15 +8,15 @@ crumbs:
 - name: "CSCA"
   url: "/tartans/c/cs/csca/"
 - name: "CSCA"
-  url: "/setts/g5r4g19k10g8w4db18r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g5r4g19k10g8w4db18r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGKGWBRBWGKGR](/stripes/grgkgwbrbwgkgr/).
+provenance below. It is one weaving of the [sett](/tartans/c/cs/csca/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGKGWBR](/stripes/grgkgwbr/).
 
 Part of the [CSCA](/tartans/c/cs/csca/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=818](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=818)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=818](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — CSCA (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=818">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Count taken in 2002 by Phil Smith form a D C Dalgliesh swatch. Not known what CSCA stands for. Assumed Corporate.</em></li>
-<li>pre 2002 — CSCA (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6050">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Count taken in 2002 by Phil Smith form a D C Dalgliesh swatch. Not known what CSCA stands for. Assumed Corporate.</em></li>
+<li>pre 2002 — CSCA (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6050/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Count taken in 2002 by Phil Smith form a D C Dalgliesh swatch. Not known what CSCA stands for. Assumed Corporate.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6050
 
 ## Thread count
-G/10 R8 G38 K20 G16 W8 DB36 R8 DB36 W8 G16 K20 G38 R/8
+G/10 R8 G38 K20 G16 W8 DB36 R/8
 
-One full sett is **522 threads**.
+One full sett is **270 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/10 R8 G38 K20 G16 W8 DB36 R8 DB36 W8 G16 K20 G38 R/8 — 522 threads; it folds to the canonical 270-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **522 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/10 R8 G38 K20 G16 W8 DB36 R8 DB36 W8 G16 K20 G38 R/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/10 R8 G38 K20 G16 W8 DB36 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dr2k4g45k3y2~x2/">Mar, Tribe of (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr2k4g45k3y2~x2/"><img src="/variants/s5/dr2k4g45k3y2~x2/sett.png" alt="Mar, Tribe of (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mar-tribe-of/">Mar, Tribe of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mar-tribe-of/"><img src="/variants/s5/dr2k4g45k3y2~x2/sett.png" alt="Mar, Tribe of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/t32k10g15k2y4~x2/">Rothesay &amp; Caithness Fencibles (Mil)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/t32k10g15k2y4~x2/"><img src="/variants/s5/t32k10g15k2y4~x2/sett.png" alt="Rothesay &amp; Caithness Fencibles (Mil) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rothesay-caithness-fencibles/">Rothesay &amp; Caithness Fencibles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rothesay-caithness-fencibles/"><img src="/variants/s5/t32k10g15k2y4~x2/sett.png" alt="Rothesay &amp; Caithness Fencibles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

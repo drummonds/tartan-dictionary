@@ -10,10 +10,10 @@ crumbs:
 - name: "Culloden, Stirling"
   url: "/tartans/c/cu/culloden-stirling/"
 - name: "Culloden, Stirling"
-  url: "/setts/b4o2dg15y2k14w14k2w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b4o2dg15y2k14w14k2w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/culloden-stirling/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGGKWKW](/stripes/brggkwkw/).
 
 Part of the [Culloden, Stirling](/tartans/c/cu/culloden-stirling/) tartan — the named design grouping this sett with its other cloths.

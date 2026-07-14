@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/">Henschke, Felix (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><img src="/variants/s7/dg42y1k23dr7w1db4y3~x2/sett.png" alt="Henschke, Felix (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/henschke-felix/">Henschke, Felix</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/henschke-felix/"><img src="/variants/s7/dg42y1k23dr7w1db4y3~x2/sett.png" alt="Henschke, Felix sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

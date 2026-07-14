@@ -12,10 +12,10 @@ crumbs:
 - name: "Hartmann"
   url: "/tartans/h/ha/hartmann/"
 - name: "Hartmann (Personal)"
-  url: "/setts/k8w3k8g4k4g32k4g32k4g4k8w3k8lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8w3k8g4k4g32k4g32k4g4k8w3k8lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hartmann/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKGKGKGKGKWKW](/stripes/kwkgkgkgkgkwkw/).
 
 Part of the [Hartmann](/tartans/h/ha/hartmann/) tartan — the named design grouping this sett with its other cloths.

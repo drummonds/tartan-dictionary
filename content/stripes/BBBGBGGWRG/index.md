@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/">Lévesque, Pascal (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><img src="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/sett.png" alt="Lévesque, Pascal (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/l/l-vesque-pascal/">Lévesque, Pascal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/l/l-vesque-pascal/"><img src="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/sett.png" alt="Lévesque, Pascal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

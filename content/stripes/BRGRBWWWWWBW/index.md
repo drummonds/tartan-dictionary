@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/">StammBar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/"><img src="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/sett.png" alt="StammBar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stammbar/">StammBar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stammbar/"><img src="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/sett.png" alt="StammBar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

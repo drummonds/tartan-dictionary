@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db7lo8g15ly6dy3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bygyg/">BYGYG</a></nav>
 Its design is pattern [BYGYG](/stripes/bygyg/) — the page of every tartan sharing this colour sequence.
 
 The **Unidentified Silk** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unidentified Silk** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db7lo8g15ly6dy3/">Unidentified Silk</a></td><td><code>DB/70 LO80 G150 LY60 DY/30</code></td><td>680</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db7lo8g15ly6dy3/"><img src="/variants/s5/db7lo8g15ly6dy3~x10/sett.png" alt="Unidentified Silk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db7lo8g15ly6dy3~x10/">Unidentified Silk</a></td><td><code>DB/70 LO80 G150 LY60 DY/30</code></td><td>680</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db7lo8g15ly6dy3~x10/"><img src="/variants/s5/db7lo8g15ly6dy3~x10/sett.png" alt="Unidentified Silk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/"><circle cx="134.3" cy="229.4" r="4" fill="#3465a4"><title>Deeside District</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="203.0" cy="223.2" r="4" fill="#3465a4"><title>Inglis</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><circle cx="111.5" cy="211.8" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="222.8" cy="305.9" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s7/db2n1ly1dg6w3ly4n1/"><circle cx="124.1" cy="250.4" r="4" fill="#3465a4"><title>Equorian Olympic</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.1" cy="239.8" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="197.5" cy="279.6" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s6/o2g8dp4w2o13t2~x4/"><circle cx="250.2" cy="240.1" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="217.9" cy="284.5" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><a href="/variants/s5/dy4lb11dy14ly30r4~x2/"><circle cx="231.8" cy="237.1" r="4" fill="#3465a4"><title>Trinity Bicycles</title></circle></a><circle cx="150.2" cy="298.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/"><circle cx="134.3" cy="229.1" r="4" fill="#3465a4"><title>Deeside District</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="203.2" cy="223.1" r="4" fill="#3465a4"><title>Inglis</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><circle cx="111.5" cy="211.5" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="222.8" cy="305.8" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s7/db2n1ly1dg6w3ly4n1/"><circle cx="123.9" cy="250.1" r="4" fill="#3465a4"><title>Equorian Olympic</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.0" cy="239.5" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="197.6" cy="279.5" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s6/o2g8dp4w2o13t2~x4/"><circle cx="250.4" cy="240.0" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="218.0" cy="284.4" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><a href="/variants/s5/dy4lb11dy14ly30r4~x2/"><circle cx="232.0" cy="237.0" r="4" fill="#3465a4"><title>Trinity Bicycles</title></circle></a><circle cx="149.9" cy="298.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

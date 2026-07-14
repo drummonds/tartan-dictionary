@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/">Graham of Menteith (Red)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/"><img src="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/sett.png" alt="Graham of Menteith (Red) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r26lb3r4k16db16k4~x2/">Graham of Menteith, (Red)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r26lb3r4k16db16k4~x2/"><img src="/variants/s6/r26lb3r4k16db16k4~x2/sett.png" alt="Graham of Menteith, (Red) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/graham-of-menteith-2/">Graham of Menteith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-of-menteith-2/"><img src="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/k23t6k6r5w35r10~x2/">Merrilees Dress (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k23t6k6r5w35r10~x2/"><img src="/variants/s6/k23t6k6r5w35r10~x2/sett.png" alt="Merrilees Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/merrilees-dress/">Merrilees Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/merrilees-dress/"><img src="/variants/s6/k23t6k6r5w35r10~x2/sett.png" alt="Merrilees Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

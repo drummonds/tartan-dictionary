@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/">Royal Burgh of Peebles (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><img src="/variants/s7/r3g3db4g17k13dt26w3~x2/sett.png" alt="Royal Burgh of Peebles (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/peebles-beltane-centenary/">Peebles Beltane Centenary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peebles-beltane-centenary/"><img src="/variants/s7/r3g3db4g17k13dt26w3~x2/sett.png" alt="Peebles Beltane Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

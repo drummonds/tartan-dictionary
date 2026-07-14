@@ -12,10 +12,10 @@ crumbs:
 - name: "Graham of Montrose"
   url: "/tartans/g/gr/graham-of-montrose/"
 - name: "Graham of Montrose"
-  url: "/setts/k4g19k16w2db15g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4g19k16w2db15g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/graham-of-montrose/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWKGK](/stripes/gbwkgk/).
 
 Part of the [Graham of Montrose](/tartans/g/gr/graham-of-montrose/) tartan — the named design grouping this sett with its other cloths.

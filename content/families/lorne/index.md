@@ -15,7 +15,7 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/l/lo/lorne-2/">Lorne</a> ★</td><td>1871</td><td>1</td><td>2</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/lo/lorne-2/"><img src="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/sett.png" alt="Lorne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/lo/lorne-2/"><img src="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/sett.png" alt="Lorne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/l/lo/lorne-dress/">Lorne Dress</a></td><td>2005</td><td>1</td><td>1</td><td>7.09</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/lo/lorne-dress/"><img src="k3db1g19db19w2db2w2db2w27k1db3-rev.png" alt="Lorne Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/l/lo/lorne/">Lorne</a></td><td>1871</td><td>1</td><td>1</td><td>7.26</td></tr>

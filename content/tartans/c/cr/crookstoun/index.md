@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/t53w27r5k19ly1g11/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwrkyg/">BWRKYG</a></nav>
 Its design is pattern [BWRKYG](/stripes/bwrkyg/) — the page of every tartan sharing this colour sequence.
 
 The **Crookstoun** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Crookstoun** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t53w27r5k19ly1g11/">Crookstoun</a></td><td><code>T/106 W54 R10 K38 LY2 G/22</code></td><td>336</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t53w27r5k19ly1g11/"><img src="/variants/s6/t53w27r5k19ly1g11~x2/sett.png" alt="Crookstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t53w27r5k19ly1g11~x2/">Crookstoun</a></td><td><code>T/106 W54 R10 K38 LY2 G/22</code></td><td>336</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/t53w27r5k19ly1g11~x2/"><img src="/variants/s6/t53w27r5k19ly1g11~x2/sett.png" alt="Crookstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/b53w27r5k19y1g11~x2/"><circle cx="194.3" cy="97.7" r="4" fill="#3465a4"><title>Crookstoun, James</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.4" cy="143.9" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s8/w3k1r4g20k3t30w4r2~x2/"><circle cx="238.4" cy="119.6" r="4" fill="#3465a4"><title>Scottish Prison Service</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="182.1" cy="142.3" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S</title></circle></a><a href="/variants/s6/g27db12k12r9k1y2~x2/"><circle cx="185.4" cy="143.5" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.2" cy="121.6" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="199.6" cy="150.8" r="4" fill="#3465a4"><title>Shawlands International</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="298.7" cy="132.0" r="4" fill="#3465a4"><title>Kinloch of Loch Awe</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="299.4" cy="132.7" r="4" fill="#3465a4"><title>Kinloch at Loch Awe</title></circle></a><a href="/variants/s7/r2w1lb50db24g12k1y1~x2/"><circle cx="274.9" cy="59.7" r="4" fill="#3465a4"><title>Pincock , Dougie</title></circle></a><circle cx="192.6" cy="102.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/b53w27r5k19y1g11~x2/"><circle cx="194.9" cy="97.4" r="4" fill="#3465a4"><title>Crookstoun, James</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.8" cy="143.6" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s8/w3k1r4g20k3t30w4r2~x2/"><circle cx="239.0" cy="119.4" r="4" fill="#3465a4"><title>Scottish Prison Service</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="182.6" cy="142.2" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S</title></circle></a><a href="/variants/s6/g27db12k12r9k1y2~x2/"><circle cx="185.9" cy="143.4" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.6" cy="121.3" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="200.1" cy="150.6" r="4" fill="#3465a4"><title>Shawlands International</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="299.4" cy="132.0" r="4" fill="#3465a4"><title>Kinloch of Loch Awe</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="300.2" cy="132.6" r="4" fill="#3465a4"><title>Kinloch at Loch Awe</title></circle></a><a href="/variants/s7/r2w1lb50db24g12k1y1~x2/"><circle cx="275.7" cy="59.5" r="4" fill="#3465a4"><title>Pincock , Dougie</title></circle></a><circle cx="193.2" cy="101.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Old Brigade"
   url: "/tartans/o/ol/old-brigade/"
 - name: "Old Brigade"
-  url: "/setts/db9k9r3db9k9y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db9k9r3db9k9y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ol/old-brigade/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRBKG](/stripes/bkrbkg/).
 
 Part of the [Old Brigade](/tartans/o/ol/old-brigade/) tartan — the named design grouping this sett with its other cloths.

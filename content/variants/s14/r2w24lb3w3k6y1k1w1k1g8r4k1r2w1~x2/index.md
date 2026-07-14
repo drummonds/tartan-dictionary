@@ -10,10 +10,10 @@ crumbs:
 - name: "Stewart Victoria"
   url: "/tartans/s/st/stewart-victoria-2/"
 - name: "Stewart Victoria Royal Family Tartan"
-  url: "/setts/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-victoria-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWWWKGKWKGRKRW](/stripes/rwwwkgkwkgrkrw/).
 
 Part of the [Stewart Victoria](/tartans/s/st/stewart-victoria-2/) tartan — the named design grouping this sett with its other cloths.

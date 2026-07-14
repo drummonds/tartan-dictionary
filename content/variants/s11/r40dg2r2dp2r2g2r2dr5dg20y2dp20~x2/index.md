@@ -8,10 +8,10 @@ crumbs:
 - name: "Cadden-Phillips"
   url: "/tartans/c/ca/cadden-phillips/"
 - name: "Cadden-Phillips (Personal)"
-  url: "/setts/r40dg2r2dp2r2g2r2dr5dg20y2dp20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r40dg2r2dp2r2g2r2dr5dg20y2dp20/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cadden-phillips/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBRGRBRGR](/stripes/bggbrgrbrgr/).
 
 Part of the [Cadden-Phillips](/tartans/c/ca/cadden-phillips/) tartan — the named design grouping this sett with its other cloths.

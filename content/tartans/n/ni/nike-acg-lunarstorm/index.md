@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db8r2db18r1db2w10db4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbrbwb/">BRBRBWB</a></nav>
 Its design is pattern [BRBRBWB](/stripes/brbrbwb/) — the page of every tartan sharing this colour sequence.
 
 The **Nike ACG Lunarstorm** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Nike ACG Lunarstorm** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db8r2db18r1db2w10db4/">Nike ACG Lunarstorm</a></td><td><code>DB/16 R4 DB36 R2 DB4 W20 DB/8</code></td><td>156</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8r2db18r1db2w10db4/"><img src="/variants/s7/db8r2db18r1db2w10db4~x2/sett.png" alt="Nike ACG Lunarstorm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db8r2db18r1db2w10db4~x2/">Nike ACG Lunarstorm</a></td><td><code>DB/16 R4 DB36 R2 DB4 W20 DB/8</code></td><td>156</td><td>~2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><img src="/variants/s7/db8r2db18r1db2w10db4~x2/sett.png" alt="Nike ACG Lunarstorm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="418.1" cy="143.1" r="4" fill="#3465a4"><title>Masai Shuka 29</title></circle></a><a href="/variants/s8/t18r1t1r1t1k7t13w2~x4/"><circle cx="410.7" cy="129.7" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="385.9" cy="154.2" r="4" fill="#3465a4"><title>Americana</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><circle cx="506.5" cy="116.9" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="376.2" cy="134.6" r="4" fill="#3465a4"><title>Gonzaga University's True Blue and W</title></circle></a><a href="/variants/s7/db27r5db27r3db3r30db23~x2/"><circle cx="430.4" cy="232.5" r="4" fill="#3465a4"><title>Unidentified Plaid 7</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x4/"><circle cx="356.8" cy="197.9" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="425.8" cy="100.9" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="456.8" cy="133.4" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/"><circle cx="318.3" cy="120.1" r="4" fill="#3465a4"><title>California Riverside, Uni.</title></circle></a><circle cx="404.5" cy="169.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="419.2" cy="143.3" r="4" fill="#3465a4"><title>Masai Shuka 29</title></circle></a><a href="/variants/s8/t18r1t1r1t1k7t13w2~x4/"><circle cx="411.9" cy="129.9" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="386.9" cy="154.3" r="4" fill="#3465a4"><title>Americana</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><circle cx="507.9" cy="117.2" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="377.3" cy="134.7" r="4" fill="#3465a4"><title>Gonzaga University's True Blue and W</title></circle></a><a href="/variants/s7/db27r5db27r3db3r30db23~x2/"><circle cx="431.4" cy="232.8" r="4" fill="#3465a4"><title>Unidentified Plaid 7</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x4/"><circle cx="357.6" cy="198.0" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="427.0" cy="101.0" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="458.2" cy="133.7" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/"><circle cx="319.4" cy="120.2" r="4" fill="#3465a4"><title>California Riverside, Uni.</title></circle></a><circle cx="405.6" cy="169.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

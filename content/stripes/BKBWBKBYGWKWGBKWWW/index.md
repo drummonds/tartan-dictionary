@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dr11k4dr6w8dr16k13dr4ly12y6w2k3w2y6dr7k4w3lb3w2~x2/">Jacobite Old Sett (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dr11k4dr6w8dr16k13dr4ly12y6w2k3w2y6dr7k4w3lb3w2~x2/"><img src="/variants/s18/dr11k4dr6w8dr16k13dr4ly12y6w2k3w2y6dr7k4w3lb3w2~x2/sett.png" alt="Jacobite Old Sett (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/jacobite-old-sett/">Jacobite Old Sett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/jacobite-old-sett/"><img src="/variants/s18/dr11k4dr6w8dr16k13dr4ly12y6w2k3w2y6dr7k4w3lb3w2~x2/sett.png" alt="Jacobite Old Sett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

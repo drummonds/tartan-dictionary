@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/g30ly3db8r25~x2/">Dohmen (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g30ly3db8r25~x2/"><img src="/variants/s4/g30ly3db8r25~x2/sett.png" alt="Dohmen (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dohmen/">Dohmen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dohmen/"><img src="/variants/s4/g30ly3db8r25~x2/sett.png" alt="Dohmen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

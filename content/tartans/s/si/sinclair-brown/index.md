@@ -4,8 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db64k11r2k4r2k4g32ly4/"
+- "/setts/db64k11r2k4r2k4g32y4/"
 ---
-Its design is pattern [BKRKRKGYGKRKRK](/stripes/bkrkrkgygkrkrk/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkrkrkgy/">BKRKRKGY</a></nav>
+Its design is pattern [BKRKRKGY](/stripes/bkrkrkgy/) — the page of every tartan sharing this colour sequence.
 
 The **Sinclair-Brown** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
@@ -13,10 +17,10 @@ The **Sinclair-Brown** tartan groups 2 setts — the same named design recorded 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db64k11r2k4r2k4g32ly4/">Sinclair-Brown</a> ★</td><td><code>DB/128 K22 R4 K8 R4 K8 G64 LY8 G64 K8 R4 K8 R4 K/22</code></td><td>356</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db64k11r2k4r2k4g32ly4/"><img src="/variants/s8/db64k11r2k4r2k4g32ly4~x2/sett.png" alt="Sinclair-Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db64k11r2k4r2k4g32y4/">Sinclair-Brown</a></td><td><code>DB/128 K22 R4 K8 R4 K8 G64 Y/8</code></td><td>356</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db64k11r2k4r2k4g32y4/"><img src="/variants/s8/db64k11r2k4r2k4g32y4~x2/sett.png" alt="Sinclair-Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/">Sinclair-Brown</a> ★</td><td><code>DB/128 K22 R4 K8 R4 K8 G64 LY/8</code></td><td>356</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><img src="/variants/s8/db64k11r2k4r2k4g32ly4~x2/sett.png" alt="Sinclair-Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db64k11r2k4r2k4g32y4~x2/">Sinclair-Brown</a></td><td><code>DB/128 K22 R4 K8 R4 K8 G64 Y/8</code></td><td>356</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db64k11r2k4r2k4g32y4~x2/"><img src="/variants/s8/db64k11r2k4r2k4g32y4~x2/sett.png" alt="Sinclair-Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k6r2k6r12w2db36y1g3~x2/"><circle cx="260.7" cy="66.4" r="4" fill="#3465a4"><title>Fremont Presbyterian Church</title></circle></a><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="234.4" cy="102.5" r="4" fill="#3465a4"><title>Spirit of Morningside</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><circle cx="268.7" cy="98.7" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="274.7" cy="80.8" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="273.4" cy="97.3" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><a href="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/"><circle cx="275.6" cy="67.1" r="4" fill="#3465a4"><title>Muir</title></circle></a><a href="/variants/s8/k2dbi6k1db7g13k11db42r2~x2~dbi1605267-db1003265/"><circle cx="347.4" cy="98.8" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><circle cx="221.8" cy="99.8" r="4" fill="#3465a4"><title>King</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="250.1" cy="79.1" r="4" fill="#3465a4"><title>Huaum, Patrick Antoine )</title></circle></a><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><circle cx="276.1" cy="129.6" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><circle cx="278.7" cy="89.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k6r2k6r12w2db36y1g3~x2/"><circle cx="261.6" cy="66.3" r="4" fill="#3465a4"><title>Fremont Presbyterian Church</title></circle></a><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="235.1" cy="102.4" r="4" fill="#3465a4"><title>Spirit of Morningside</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><circle cx="269.5" cy="98.7" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="275.7" cy="80.7" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="274.2" cy="97.3" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><a href="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/"><circle cx="276.5" cy="67.0" r="4" fill="#3465a4"><title>Muir</title></circle></a><a href="/variants/s8/k2dbi6k1db7g13k11db42r2~x2~dbi1605267-db1003265/"><circle cx="348.4" cy="98.9" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><circle cx="222.4" cy="99.6" r="4" fill="#3465a4"><title>King</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="250.9" cy="79.0" r="4" fill="#3465a4"><title>Huaum, Patrick Antoine )</title></circle></a><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><circle cx="276.8" cy="129.5" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><circle cx="279.6" cy="89.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

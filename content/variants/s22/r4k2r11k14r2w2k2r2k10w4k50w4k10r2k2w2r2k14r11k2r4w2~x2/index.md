@@ -8,10 +8,10 @@ crumbs:
 - name: "Knights Templar Dress"
   url: "/tartans/k/kn/knights-templar-dress-2/"
 - name: "Knights Templar Dress"
-  url: "/setts/r4k2r11k14r2w2k2r2k10w4k50w4k10r2k2w2r2k14r11k2r4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k2r11k14r2w2k2r2k10w4k50w4k10r2k2w2r2k14r11k2r4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/kn/knights-templar-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRWKRKWKWKRKWRKRKRW](/stripes/rkrkrwkrkwkwkrkwrkrkrw/).
 
 Part of the [Knights Templar Dress](/tartans/k/kn/knights-templar-dress-2/) tartan — the named design grouping this sett with its other cloths.

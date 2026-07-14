@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db20k4g5dp14w1db2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkgbwb/">BKGBWB</a></nav>
 Its design is pattern [BKGBWB](/stripes/bkgbwb/) — the page of every tartan sharing this colour sequence.
 
 Created for Riley Hagel as thanks for helping the designer recover from two reconstructive surgeries.
@@ -14,8 +17,8 @@ The **Riley's Theme** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db20k4g5dp14w1db2/">Riley's Theme</a></td><td><code>DB/40 K8 G10 DP28 W2 DB/4</code></td><td>140</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db20k4g5dp14w1db2/"><img src="/variants/s6/db20k4g5dp14w1db2~x2/sett.png" alt="Riley's Theme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db20k4g5dp14w1db2~x2/">Riley's Theme</a></td><td><code>DB/40 K8 G10 DP28 W2 DB/4</code></td><td>140</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db20k4g5dp14w1db2~x2/"><img src="/variants/s6/db20k4g5dp14w1db2~x2/sett.png" alt="Riley's Theme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +37,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/"><circle cx="294.5" cy="166.2" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="329.7" cy="172.3" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="341.3" cy="115.3" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen'</title></circle></a><a href="/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="223.3" cy="186.5" r="4" fill="#3465a4"><title>Moray</title></circle></a><a href="/variants/s4/dp20db25w3k2~x2/"><circle cx="331.9" cy="222.5" r="4" fill="#3465a4"><title>Murdoch, Ellis</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="311.2" cy="127.3" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/variants/s6/db40b16k5dt16w2dp6~x2/"><circle cx="267.3" cy="172.5" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/variants/s6/k3g2m3db30dp32w3~x2/"><circle cx="275.2" cy="152.2" r="4" fill="#3465a4"><title>Pride of Glencoe</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="277.2" cy="155.7" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="334.1" cy="121.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><circle cx="281.0" cy="168.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/"><circle cx="295.1" cy="166.2" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="330.3" cy="172.4" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="342.3" cy="115.4" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen'</title></circle></a><a href="/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="223.8" cy="186.5" r="4" fill="#3465a4"><title>Moray</title></circle></a><a href="/variants/s4/dp20db25w3k2~x2/"><circle cx="332.5" cy="222.6" r="4" fill="#3465a4"><title>Murdoch, Ellis</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="312.1" cy="127.3" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/variants/s6/db40b16k5dt16w2dp6~x2/"><circle cx="267.7" cy="172.4" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/variants/s6/k3g2m3db30dp32w3~x2/"><circle cx="275.8" cy="152.1" r="4" fill="#3465a4"><title>Pride of Glencoe</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="278.0" cy="155.8" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="335.0" cy="121.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><circle cx="281.7" cy="168.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

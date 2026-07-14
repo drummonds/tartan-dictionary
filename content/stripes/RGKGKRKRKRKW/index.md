@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o30y1k2g10k1r3k1r3k1r3k1w1~x2/">Tweedmouth Middle School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o30y1k2g10k1r3k1r3k1r3k1w1~x2/"><img src="/variants/s12/o30y1k2g10k1r3k1r3k1r3k1w1~x2/sett.png" alt="Tweedmouth Middle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tw/tweedmouth-middle-school/">Tweedmouth Middle School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tw/tweedmouth-middle-school/"><img src="/variants/s12/o30y1k2g10k1r3k1r3k1r3k1w1~x2/sett.png" alt="Tweedmouth Middle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

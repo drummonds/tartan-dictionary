@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/">MacWhirter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/"><img src="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/sett.png" alt="MacWhirter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macwhirter-2/">MacWhirter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macwhirter-2/"><img src="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/sett.png" alt="MacWhirter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

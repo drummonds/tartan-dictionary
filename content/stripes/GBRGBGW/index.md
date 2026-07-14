@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/">Deeside District</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/"><img src="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/sett.png" alt="Deeside District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/deeside-district/">Deeside District</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/deeside-district/"><img src="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/sett.png" alt="Deeside District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

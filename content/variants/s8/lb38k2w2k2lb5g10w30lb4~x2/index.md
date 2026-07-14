@@ -10,10 +10,10 @@ crumbs:
 - name: "Longniddry Turquoise"
   url: "/tartans/l/lo/longniddry-turquoise/"
 - name: "Longniddry Turquoise (Dance)"
-  url: "/setts/lb38k2w2k2lb5g10w30lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb38k2w2k2lb5g10w30lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/longniddry-turquoise/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWGWW](/stripes/wkwkwgww/).
 
 Part of the [Longniddry Turquoise](/tartans/l/lo/longniddry-turquoise/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2212](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Longniddry Turquoise (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2212">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>A Dancers' Fancy from D.C. Dalgliesh of Selkirk.</em></li>
-<li>pre 2002 — Longniddry, Turquoise (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=369">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>A Dancers' Fancy from D.C. Dalgliesh of Selkirk.</em></li>
+<li>pre 2002 — Longniddry, Turquoise (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/369/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>A Dancers' Fancy from D.C. Dalgliesh of Selkirk.</em></li>
 </ul>
 </details>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Brethwe Powys"
   url: "/tartans/b/br/brethwe-powys/"
 - name: "Brethwe Powys"
-  url: "/setts/dg24db7dg7db7k22db7k4dy4k4db40dr14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg24db7dg7db7k22db7k4dy4k4db40dr14/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brethwe-powys/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGKBKBGBG](/stripes/bbkgkbkbgbg/).
 
 Part of the [Brethwe Powys](/tartans/b/br/brethwe-powys/) tartan — the named design grouping this sett with its other cloths.

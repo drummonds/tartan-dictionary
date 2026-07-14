@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonald of Staffa"
   url: "/tartans/m/ma/macdonald-of-staffa-4/"
 - name: "MacDonald of Staffa Clan Tartan"
-  url: "/setts/r24db4r22g4r4g4r4g4r4g4r20g4r4k2g22k2r4g4r22g4r4db22r21w4r21g19w2g19r5g4r22g4r5g4k4r5db4r5db4r19/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r24db4r22g4r4g4r4g4r4g4r20g4r4k2g22k2r4g4r22g4r4db22r21w4r21g19w2g19r5g4r22g4r5g4k4r5db4r5db4r19/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-of-staffa-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRKGRGRGRGWGRWRBRGRGRKGKRGRGRGRGRGRBR](/stripes/rbrbrkgrgrgrgwgrwrbrgrgrkgkrgrgrgrgrgrbr/).
 
 Part of the [MacDonald of Staffa](/tartans/m/ma/macdonald-of-staffa-4/) tartan — the named design grouping this sett with its other cloths.

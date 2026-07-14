@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/">Casely Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/"><img src="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/sett.png" alt="Casely Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/casely-2/">Casely</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/casely-2/"><img src="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/sett.png" alt="Casely sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

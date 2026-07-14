@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k15g15y3g15k15g15r3g15k15db15k2db15~x2/">Rollo Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k15g15y3g15k15g15r3g15k15db15k2db15~x2/"><img src="/variants/s12/k15g15y3g15k15g15r3g15k15db15k2db15~x2/sett.png" alt="Rollo Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rollo/">Rollo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rollo/"><img src="/variants/s12/k15g15y3g15k15g15r3g15k15db15k2db15~x2/sett.png" alt="Rollo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

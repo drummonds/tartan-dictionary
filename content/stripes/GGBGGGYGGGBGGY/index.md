@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2~g2408144-dy1603076-db1406275-ly3307090/">Invertere (Daks #2)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2~g2408144-dy1603076-db1406275-ly3307090/"><img src="/variants/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2~g2408144-dy1603076-db1406275-ly3307090/sett.png" alt="Invertere (Daks #2) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/invertere-3/">Invertere</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/invertere-3/"><img src="/variants/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2~g2408144-dy1603076-db1406275-ly3307090/sett.png" alt="Invertere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

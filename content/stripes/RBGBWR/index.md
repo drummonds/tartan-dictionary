@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r34w4db7y10db7r18~x2/">Ploysongsang, Edward Thiravej (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r34w4db7y10db7r18~x2/"><img src="/variants/s6/r34w4db7y10db7r18~x2/sett.png" alt="Ploysongsang, Edward Thiravej (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pl/ploysongsang-edward-thiravej/">Ploysongsang, Edward Thiravej</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pl/ploysongsang-edward-thiravej/"><img src="/variants/s6/r34w4db7y10db7r18~x2/sett.png" alt="Ploysongsang, Edward Thiravej sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

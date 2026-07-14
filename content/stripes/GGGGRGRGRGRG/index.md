@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2/">Maple Leaf Canadian District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2/"><img src="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/sett.png" alt="Maple Leaf Canadian District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maple-leaf-mini/">Maple Leaf MINI</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maple-leaf-mini/"><img src="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/sett.png" alt="Maple Leaf MINI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

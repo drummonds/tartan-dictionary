@@ -10,10 +10,10 @@ crumbs:
 - name: "Macleod, Winnifred"
   url: "/tartans/m/ma/macleod-winnifred/"
 - name: "Macleod, Winnifred Mary, Dress"
-  url: "/setts/k23y3k23w36r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k23y3k23w36r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macleod-winnifred/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKWR](/stripes/kgkwr/).
 
 Part of the [Macleod, Winnifred](/tartans/m/ma/macleod-winnifred/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2647](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/05/2001 — Macleod, Winnifred Mary, Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2647">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C80028"></span><br><em>Presented to a descendent of Winnifred Mary MacLeod to commerate Winnifred's life. Designed by Jessica Maclead-Dent and MacIsaac Kiltmakers. It can be used by Highland dancers with permission - Family Restricted.</em></li>
-<li>2001 — Macleod, Winnifred (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7377">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>"Presented to a descendent of Winnifred Mary MacLeod to commerate Winnifred's life. Designed as a dance tartan by Jessica Macleod-Dent and MacIsaac Kiltmakers of Cape Breton, Canada. Can be used by Highland dancers with permission.</em></li>
+<li>2001 — Macleod, Winnifred (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7377/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>"Presented to a descendent of Winnifred Mary MacLeod to commerate Winnifred's life. Designed as a dance tartan by Jessica Macleod-Dent and MacIsaac Kiltmakers of Cape Breton, Canada. Can be used by Highland dancers with permission.</em></li>
 </ul>
 </details>
 

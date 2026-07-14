@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r23k1g9r3db1lb1r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkgrbwr/">RKGRBWR</a></nav>
 Its design is pattern [RKGRBWR](/stripes/rkgrbwr/) — the page of every tartan sharing this colour sequence.
 
 Early 18th-century plaid woven for Janet Craigie of Clayquhat (Cloquhat), East Perthshire.
@@ -14,8 +17,8 @@ The **Perthshire Clayquhat** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r23k1g9r3db1lb1r1/">Perthshire Clayquhat</a></td><td><code>R/92 K4 G36 R12 DB4 LB4 R/4</code></td><td>216</td><td>~1739</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r23k1g9r3db1lb1r1/"><img src="/variants/s7/r23k1g9r3db1lb1r1~x4/sett.png" alt="Perthshire Clayquhat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r23k1g9r3db1lb1r1~x4/">Perthshire Clayquhat</a></td><td><code>R/92 K4 G36 R12 DB4 LB4 R/4</code></td><td>216</td><td>~1739</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r23k1g9r3db1lb1r1~x4/"><img src="/variants/s7/r23k1g9r3db1lb1r1~x4/sett.png" alt="Perthshire Clayquhat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -28,6 +31,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="493.3" cy="145.5" r="4" fill="#3465a4"><title>Howard, Vincent</title></circle></a><a href="/variants/s8/r48db3ly2dg14r8db3lb4w3~x2/"><circle cx="377.8" cy="93.3" r="4" fill="#3465a4"><title>Murray Threipland of Fingask</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="490.4" cy="89.2" r="4" fill="#3465a4"><title>MacAndrew Dress</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3lb2w1~x2/"><circle cx="372.0" cy="82.0" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s9/r36w1db3y1dg16r8db3lb2w1~x2/"><circle cx="367.7" cy="76.0" r="4" fill="#3465a4"><title>Perthshire or Drummond of Perth</title></circle></a><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><circle cx="410.2" cy="89.5" r="4" fill="#3465a4"><title>Stewart of Fingask</title></circle></a><a href="/variants/s8/r48db3y1g14r8db3lb4w1/"><circle cx="436.1" cy="71.4" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="449.2" cy="80.2" r="4" fill="#3465a4"><title>Hackston</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="389.9" cy="142.0" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="485.5" cy="83.7" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><circle cx="417.7" cy="98.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="494.5" cy="145.8" r="4" fill="#3465a4"><title>Howard, Vincent</title></circle></a><a href="/variants/s8/r48db3ly2dg14r8db3lb4w3~x2/"><circle cx="378.8" cy="93.3" r="4" fill="#3465a4"><title>Murray Threipland of Fingask</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="491.8" cy="89.4" r="4" fill="#3465a4"><title>MacAndrew Dress</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3lb2w1~x2/"><circle cx="372.9" cy="81.9" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s9/r36w1db3y1dg16r8db3lb2w1~x2/"><circle cx="368.6" cy="76.0" r="4" fill="#3465a4"><title>Perthshire or Drummond of Perth</title></circle></a><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><circle cx="411.1" cy="89.6" r="4" fill="#3465a4"><title>Stewart of Fingask</title></circle></a><a href="/variants/s8/r48db3y1g14r8db3lb4w1/"><circle cx="437.2" cy="71.5" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="450.5" cy="80.4" r="4" fill="#3465a4"><title>Hackston</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="390.8" cy="142.2" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="486.9" cy="83.9" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><circle cx="418.8" cy="98.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

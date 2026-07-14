@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Pincock"
   url: "/clan/pincock/"
+aliases:
+- "/setts/r2w1lb50db24g12k1y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgbwwr/">GKGBWWR</a></nav>
 A tartan of [Clan Pincock](/clan/pincock/).
 Its design is pattern [GKGBWWR](/stripes/gkgbwwr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Pincock , Dougie** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2w1lb50db24g12k1y1/">Pincock , Dougie</a></td><td><code>R/4 W2 LB100 DB48 G24 K2 Y/2</code></td><td>358</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2w1lb50db24g12k1y1/"><img src="/variants/s7/r2w1lb50db24g12k1y1~x2/sett.png" alt="Pincock , Dougie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2w1lb50db24g12k1y1~x2/">Pincock , Dougie</a></td><td><code>R/4 W2 LB100 DB48 G24 K2 Y/2</code></td><td>358</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2w1lb50db24g12k1y1~x2/"><img src="/variants/s7/r2w1lb50db24g12k1y1~x2/sett.png" alt="Pincock , Dougie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k2g12t24lb50w1r2~x2~t2405244-lb3203246/"><circle cx="342.8" cy="118.7" r="4" fill="#3465a4"><title>Pincock</title></circle></a><a href="/variants/s7/lb58ly2db24g2r1dr5w1~x2/"><circle cx="348.5" cy="61.4" r="4" fill="#3465a4"><title>Hier</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="353.8" cy="106.0" r="4" fill="#3465a4"><title>Thomas Jean Marc</title></circle></a><a href="/variants/s5/lb25db11r5w1k1~x4/"><circle cx="309.7" cy="137.5" r="4" fill="#3465a4"><title>Mount Vernon Primary School</title></circle></a><a href="/variants/s8/db4lb50g4dp4w2y2k3w2~x2/"><circle cx="358.2" cy="55.0" r="4" fill="#3465a4"><title>Glasgow Islay</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.2" cy="121.6" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s6/lb23w3k10r2db45y1~x2/"><circle cx="262.6" cy="78.9" r="4" fill="#3465a4"><title>Kirkcaldy</title></circle></a><a href="/variants/s7/dr4lb16k3db44dr1w3y2~x2/"><circle cx="320.7" cy="65.4" r="4" fill="#3465a4"><title>Dress</title></circle></a><a href="/variants/s7/r8y2b7y2db24k2g1~x2/"><circle cx="268.2" cy="113.4" r="4" fill="#3465a4"><title>Traill</title></circle></a><a href="/variants/s7/db50g25y3n8r1w1r1~x2/"><circle cx="363.3" cy="103.1" r="4" fill="#3465a4"><title>Wells</title></circle></a><circle cx="274.9" cy="59.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k2g12t24lb50w1r2~x2~t2405244-lb3203246/"><circle cx="343.5" cy="118.7" r="4" fill="#3465a4"><title>Pincock</title></circle></a><a href="/variants/s7/lb58ly2db24g2r1dr5w1~x2/"><circle cx="349.5" cy="61.3" r="4" fill="#3465a4"><title>Hier</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.8" cy="105.9" r="4" fill="#3465a4"><title>Thomas Jean Marc</title></circle></a><a href="/variants/s5/lb25db11r5w1k1~x4/"><circle cx="310.5" cy="137.4" r="4" fill="#3465a4"><title>Mount Vernon Primary School</title></circle></a><a href="/variants/s8/db4lb50g4dp4w2y2k3w2~x2/"><circle cx="359.3" cy="54.9" r="4" fill="#3465a4"><title>Glasgow Islay</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.6" cy="121.3" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s6/lb23w3k10r2db45y1~x2/"><circle cx="263.5" cy="78.7" r="4" fill="#3465a4"><title>Kirkcaldy</title></circle></a><a href="/variants/s7/dr4lb16k3db44dr1w3y2~x2/"><circle cx="321.8" cy="65.3" r="4" fill="#3465a4"><title>Dress</title></circle></a><a href="/variants/s7/r8y2b7y2db24k2g1~x2/"><circle cx="268.9" cy="113.3" r="4" fill="#3465a4"><title>Traill</title></circle></a><a href="/variants/s7/db50g25y3n8r1w1r1~x2/"><circle cx="364.1" cy="103.1" r="4" fill="#3465a4"><title>Wells</title></circle></a><circle cx="275.7" cy="59.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

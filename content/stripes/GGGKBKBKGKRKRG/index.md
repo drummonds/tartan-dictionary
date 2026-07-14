@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1~x2~y2505139-g2408144/">King, Garry (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1~x2~y2505139-g2408144/"><img src="/variants/s14/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1~x2~y2505139-g2408144/sett.png" alt="King, Garry (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/king-garry/">King, Garry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/king-garry/"><img src="/variants/s14/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1~x2~y2505139-g2408144/sett.png" alt="King, Garry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

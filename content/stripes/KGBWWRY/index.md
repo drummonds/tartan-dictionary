@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/">Kentucky State American District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><img src="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/sett.png" alt="Kentucky State American District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/">Kentucky, State of (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><img src="/variants/s7/ly3r3lb4w2db11g13k2~x2/sett.png" alt="Kentucky, State of (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kentucky-state/">Kentucky State</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kentucky-state/"><img src="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/sett.png" alt="Kentucky State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kentucky-state-of-2/">Kentucky, State of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kentucky-state-of-2/"><img src="/variants/s7/ly3r3lb4w2db11g13k2~x2/sett.png" alt="Kentucky, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

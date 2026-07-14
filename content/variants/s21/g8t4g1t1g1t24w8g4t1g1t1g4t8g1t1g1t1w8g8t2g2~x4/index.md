@@ -10,10 +10,10 @@ crumbs:
 - name: "Matheson Htg Dance"
   url: "/tartans/m/ma/matheson-htg-dance/"
 - name: "Matheson Hunting (Crowe 1974) (Personal)"
-  url: "/setts/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/matheson-htg-dance/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBWGBGBGBGBGBWGBG](/stripes/gbgbgbwgbgbgbgbgbwgbg/).
 
 Part of the [Matheson Htg Dance](/tartans/m/ma/matheson-htg-dance/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2856](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1974 — Matheson Hunting (Crowe 1974) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2856">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>This is STR#2855 with the black replaced by white. It was supplied by the Kilt Shop in Edinburgh for a Highland dancer Miss Christine Crowe, Edinburgh, for her personal use. Info from Miss Crowe via Tony Murray, Stirling 1974.</em></li>
-<li>1974 — Matheson Htg Dance (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6368">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>This is #693 with the black replaced by white. It was supplied by the Kilt Shop in Edinburgh for a Highland dancer Miss Christine Crowe, 251 Dalkeith Road, Edinburgh for her personal use. Info from Miss Crowe via Tony Murray, Stirling 1974.</em></li>
+<li>1974 — Matheson Htg Dance (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6368/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>This is #693 with the black replaced by white. It was supplied by the Kilt Shop in Edinburgh for a Highland dancer Miss Christine Crowe, 251 Dalkeith Road, Edinburgh for her personal use. Info from Miss Crowe via Tony Murray, Stirling 1974.</em></li>
 </ul>
 </details>
 

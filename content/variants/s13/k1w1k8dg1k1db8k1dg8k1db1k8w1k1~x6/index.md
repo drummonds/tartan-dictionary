@@ -12,10 +12,10 @@ crumbs:
 - name: "Chess"
   url: "/tartans/c/ch/chess/"
 - name: "Chess"
-  url: "/setts/k1w1k8dg1k1db8k1dg8k1db1k8w1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1w1k8dg1k1db8k1dg8k1db1k8w1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chess/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKBKGKBKGKWK](/stripes/kwkbkgkbkgkwk/).
 
 Part of the [Chess](/tartans/c/ch/chess/) tartan — the named design grouping this sett with its other cloths.

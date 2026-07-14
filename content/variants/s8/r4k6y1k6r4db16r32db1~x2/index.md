@@ -12,10 +12,10 @@ crumbs:
 - name: "Leslie Dress"
   url: "/tartans/l/le/leslie-dress/"
 - name: "Leslie Dress"
-  url: "/setts/r4k6y1k6r4db16r32db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k6y1k6r4db16r32db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/leslie-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRKGKR](/stripes/brbrkgkr/).
 
 Part of the [Leslie Dress](/tartans/l/le/leslie-dress/) tartan — the named design grouping this sett with its other cloths.

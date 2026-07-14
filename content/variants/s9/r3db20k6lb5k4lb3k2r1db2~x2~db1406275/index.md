@@ -7,16 +7,16 @@ crumbs:
   url: "/"
 - name: "Scottish Knights Templar International"
   url: "/tartans/s/sc/scottish-knights-templar-international/"
-- name: "Scottish Knights Templar Int. (Corp)"
-  url: "/setts/r3db20k6lb5k4lb3k2r1db2/"
+- name: "Scottish Knights Templar International"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3db20k6lb5k4lb3k2r1db2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRKWKWKBRBKWKWKR](/stripes/brkwkwkbrbkwkwkr/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-knights-templar-international/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRKWKWKBR](/stripes/brkwkwkbr/).
 
 Part of the [Scottish Knights Templar International](/tartans/s/sc/scottish-knights-templar-international/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3726](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3726)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 560
 
 ## Thread count
-DB/4 R2 K4 LB6 K8 LB10 K12 DB40 R6 DB40 K12 LB10 K8 LB6 K4 R/2
+R/6 DB40 K12 LB10 K8 LB6 K4 R2 DB/4
 
-One full sett is **342 threads**.
+One full sett is **174 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/4 R2 K4 LB6 K8 LB10 K12 DB40 R6 DB40 K12 LB10 K8 LB6 K4 R/2 — 342 threads; it folds to the canonical 174-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **342 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/4 R2 K4 LB6 K8 LB10 K12 DB40 R6 DB40 K12 LB10 K8 LB6 K4 R/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 DB40 K12 LB10 K8 LB6 K4 R2 DB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

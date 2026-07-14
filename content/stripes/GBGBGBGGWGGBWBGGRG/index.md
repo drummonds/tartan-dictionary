@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dy27dt3dy8dt4dy8dt3dy14dg8lb5dy5dg14dt12lb6dt12dy15dg9r4dg9~x2/">Turcan Connell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dy27dt3dy8dt4dy8dt3dy14dg8lb5dy5dg14dt12lb6dt12dy15dg9r4dg9~x2/"><img src="/variants/s18/dy27dt3dy8dt4dy8dt3dy14dg8lb5dy5dg14dt12lb6dt12dy15dg9r4dg9~x2/sett.png" alt="Turcan Connell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/turcan-connell/">Turcan Connell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/turcan-connell/"><img src="/variants/s18/dy27dt3dy8dt4dy8dt3dy14dg8lb5dy5dg14dt12lb6dt12dy15dg9r4dg9~x2/sett.png" alt="Turcan Connell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

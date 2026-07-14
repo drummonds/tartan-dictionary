@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/">Galego</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/"><img src="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/sett.png" alt="Galego sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/galego/">Galego</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/galego/"><img src="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/sett.png" alt="Galego sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

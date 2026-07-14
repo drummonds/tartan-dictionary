@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/">Pride of Loch Leven (Fashion?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/"><img src="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/sett.png" alt="Pride of Loch Leven (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-loch-leven/">Pride of Loch Leven</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-loch-leven/"><img src="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/sett.png" alt="Pride of Loch Leven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

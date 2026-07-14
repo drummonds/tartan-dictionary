@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r1707016-dg1503171/">Jorgensen of Taasinge Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r1707016-dg1503171/"><img src="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r1707016-dg1503171/sett.png" alt="Jorgensen of Taasinge Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jorgensen-of-taasinge/">Jorgensen of Taasinge</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jorgensen-of-taasinge/"><img src="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r1707016-dg1503171/sett.png" alt="Jorgensen of Taasinge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

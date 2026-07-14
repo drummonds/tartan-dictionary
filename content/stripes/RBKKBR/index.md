@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r1n12k7do10r1~x4/">Andover</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r1n12k7do10r1~x4/"><img src="/variants/s5/r1n12k7do10r1~x4/sett.png" alt="Andover sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/andover/">Andover</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/andover/"><img src="/variants/s5/r1n12k7do10r1~x4/sett.png" alt="Andover sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

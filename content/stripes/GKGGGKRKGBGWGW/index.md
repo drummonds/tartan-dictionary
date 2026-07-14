@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g10k13g10dy2g7k5r2k6g7db8g3w1g3lb1~x2/">Williams Arbutus (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g10k13g10dy2g7k5r2k6g7db8g3w1g3lb1~x2/"><img src="/variants/s14/g10k13g10dy2g7k5r2k6g7db8g3w1g3lb1~x2/sett.png" alt="Williams Arbutus (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/williams-arbutus/">Williams Arbutus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/williams-arbutus/"><img src="/variants/s14/g10k13g10dy2g7k5r2k6g7db8g3w1g3lb1~x2/sett.png" alt="Williams Arbutus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

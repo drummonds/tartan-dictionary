@@ -8,10 +8,10 @@ crumbs:
 - name: "Tune Hotels"
   url: "/tartans/t/tu/tune-hotels/"
 - name: "Tune Hotels"
-  url: "/setts/ri3r18dr6ri15r4ri3r4ri7w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ri3r18dr6ri15r4ri3r4ri7w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tu/tune-hotels/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRBRRRRRW](/stripes/rrbrrrrrw/).
 
 Part of the [Tune Hotels](/tartans/t/tu/tune-hotels/) tartan — the named design grouping this sett with its other cloths.

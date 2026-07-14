@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1/">Hash House Harriers Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1/"><img src="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/sett.png" alt="Hash House Harriers Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hash-house-harriers-hunting/">Hash House Harriers Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hash-house-harriers-hunting/"><img src="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/sett.png" alt="Hash House Harriers Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

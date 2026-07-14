@@ -10,10 +10,10 @@ crumbs:
 - name: "Stewart Hunting Early"
   url: "/tartans/s/st/stewart-hunting-early/"
 - name: "Stewart Hunting Early"
-  url: "/setts/g2db4k1db1k3g12r2g12k3g2k6g2k6g2k3g12y2g12k4db1k1db3g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2db4k1db1k3g12r2g12k3g2k6g2k6g2k3g12y2g12k4db1k1db3g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-hunting-early/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKGGGKGKGKGKGRGKBKBG](/stripes/gbkbkgggkgkgkgkgrgkbkbg/).
 
 Part of the [Stewart Hunting Early](/tartans/s/st/stewart-hunting-early/) tartan — the named design grouping this sett with its other cloths.

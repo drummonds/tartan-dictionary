@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g25w1k23b7y2b2y2b7k23w1g39b4g14~x2/">Duffy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g25w1k23b7y2b2y2b7k23w1g39b4g14~x2/"><img src="/variants/s13/g25w1k23b7y2b2y2b7k23w1g39b4g14~x2/sett.png" alt="Duffy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duffy-2/">Duffy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duffy-2/"><img src="/variants/s13/g25w1k23b7y2b2y2b7k23w1g39b4g14~x2/sett.png" alt="Duffy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

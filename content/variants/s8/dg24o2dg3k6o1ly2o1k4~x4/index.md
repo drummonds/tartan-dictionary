@@ -8,10 +8,10 @@ crumbs:
 - name: "Green Ridge"
   url: "/tartans/g/gr/green-ridge/"
 - name: "Green Ridge"
-  url: "/setts/dg24o2dg3k6o1ly2o1k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg24o2dg3k6o1ly2o1k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/green-ridge/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKRYRK](/stripes/grgkryrk/).
 
 Part of the [Green Ridge](/tartans/g/gr/green-ridge/) tartan — the named design grouping this sett with its other cloths.

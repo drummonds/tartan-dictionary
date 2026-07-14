@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/">Project, Faith Inc (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/"><img src="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/sett.png" alt="Project, Faith Inc (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/project-faith-inc/">Project, Faith Inc</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/project-faith-inc/"><img src="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/sett.png" alt="Project, Faith Inc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

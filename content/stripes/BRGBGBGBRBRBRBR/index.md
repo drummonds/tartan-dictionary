@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r20dp1r1db2r1dp1r4db4g2db4g2db4g19r1dp2~x2/">Ladybird</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r20dp1r1db2r1dp1r4db4g2db4g2db4g19r1dp2~x2/"><img src="/variants/s15/r20dp1r1db2r1dp1r4db4g2db4g2db4g19r1dp2~x2/sett.png" alt="Ladybird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s15/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2~x2~r1606028-dr1004029/">Ladybird (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2~x2~r1606028-dr1004029/"><img src="/variants/s15/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2~x2~r1606028-dr1004029/sett.png" alt="Ladybird (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/ladybird/">Ladybird</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/ladybird/"><img src="/variants/s15/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2~x2~r1606028-dr1004029/sett.png" alt="Ladybird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,16 +28,16 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/g2r4g2lb1~x4/">Wilson's No.188</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g2r4g2lb1~x4/"><img src="/variants/s4/g2r4g2lb1~x4/sett.png" alt="Wilson's No.188 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/g2r2g2lb1~x4~r2109032/">Wilson's No.207</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g2r2g2lb1~x4~r2109032/"><img src="/variants/s4/g2r2g2lb1~x4~r2109032/sett.png" alt="Wilson's No.207 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-188/">Wilson's No.188</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-188/"><img src="/variants/s4/g2r4g2lb1~x4/sett.png" alt="Wilson's No.188 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-207/">Wilson's No.207</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-207/"><img src="/variants/s4/g2r2g2lb1~x4~r2109032/sett.png" alt="Wilson's No.207 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/g9o20g40w5~x2/">O'Neill (Australia) (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g9o20g40w5~x2/"><img src="/variants/s4/g9o20g40w5~x2/sett.png" alt="O'Neill (Australia) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-neill-8/">O'Neill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-neill-8/"><img src="/variants/s4/g9o20g40w5~x2/sett.png" alt="O'Neill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/g72r25y8w5/">Sugell (Name?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g72r25y8w5/"><img src="/variants/s4/g72r25y8w5/sett.png" alt="Sugell (Name?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/sugell/">Sugell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sugell/"><img src="/variants/s4/g72r25y8w5/sett.png" alt="Sugell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

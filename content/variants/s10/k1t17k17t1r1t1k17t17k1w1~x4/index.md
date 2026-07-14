@@ -12,10 +12,10 @@ crumbs:
 - name: "Sorbie"
   url: "/tartans/s/so/sorbie-2/"
 - name: "Sorbie"
-  url: "/setts/k1t17k17t1r1t1k17t17k1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1t17k17t1r1t1k17t17k1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/sorbie-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBRBKBKW](/stripes/kbkbrbkbkw/).
 
 Part of the [Sorbie](/tartans/s/so/sorbie-2/) tartan — the named design grouping this sett with its other cloths.

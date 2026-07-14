@@ -8,10 +8,10 @@ crumbs:
 - name: "Bailey Atlanta National"
   url: "/tartans/b/ba/bailey-atlanta-national/"
 - name: "Bailey Atlanta National"
-  url: "/setts/db13k2db2k2db2dbi13dg13k2dg3k2dg13k13dg13k2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db13k2db2k2db2dbi13dg13k2dg3k2dg13k13dg13k2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bailey-atlanta-national/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBBGKGKGKGKB](/stripes/bkbkbbgkgkgkgkb/).
 
 Part of the [Bailey Atlanta National](/tartans/b/ba/bailey-atlanta-national/) tartan — the named design grouping this sett with its other cloths.

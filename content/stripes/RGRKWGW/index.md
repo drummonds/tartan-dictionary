@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w20g2w20k8r20g3r2~x2/">Bull-Dog Sauce</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w20g2w20k8r20g3r2~x2/"><img src="/variants/s7/w20g2w20k8r20g3r2~x2/sett.png" alt="Bull-Dog Sauce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/bull-dog-sauce/">Bull-Dog Sauce</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/bull-dog-sauce/"><img src="/variants/s7/w20g2w20k8r20g3r2~x2/sett.png" alt="Bull-Dog Sauce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

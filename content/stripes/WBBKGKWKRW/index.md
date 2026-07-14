@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w45r9k2w8k2y1k10db8dp12w2~x2/">Bruce of Kinnaird Dress (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w45r9k2w8k2y1k10db8dp12w2~x2/"><img src="/variants/s10/w45r9k2w8k2y1k10db8dp12w2~x2/sett.png" alt="Bruce of Kinnaird Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bruce-of-kinnaird-dress/">Bruce of Kinnaird Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bruce-of-kinnaird-dress/"><img src="/variants/s10/w45r9k2w8k2y1k10db8dp12w2~x2/sett.png" alt="Bruce of Kinnaird Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

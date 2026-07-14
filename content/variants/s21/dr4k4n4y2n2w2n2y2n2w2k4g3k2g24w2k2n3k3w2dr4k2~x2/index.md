@@ -12,10 +12,10 @@ crumbs:
 - name: "Murtaugh Hunting"
   url: "/tartans/m/mu/murtaugh-hunting/"
 - name: "Murtaugh Hunting Tartan"
-  url: "/setts/dr4k4n4y2n2w2n2y2n2w2k4g3k2g24w2k2n3k3w2dr4k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4k4n4y2n2w2n2y2n2w2k4g3k2g24w2k2n3k3w2dr4k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murtaugh-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBWBGBWKGKGWKBKWBK](/stripes/bkbgbwbgbwkgkgwkbkwbk/).
 
 Part of the [Murtaugh Hunting](/tartans/m/mu/murtaugh-hunting/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r7k6r62k15r20n15ly10k16db10k3w6/">Cork County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r7k6r62k15r20n15ly10k16db10k3w6/"><img src="/variants/s11/r7k6r62k15r20n15ly10k16db10k3w6/sett.png" alt="Cork County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cork-county-crest/">Cork County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cork-county-crest/"><img src="/variants/s11/r7k6r62k15r20n15ly10k16db10k3w6/sett.png" alt="Cork County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

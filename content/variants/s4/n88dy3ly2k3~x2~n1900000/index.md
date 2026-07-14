@@ -12,15 +12,15 @@ crumbs:
 - name: "Eternity"
   url: "/tartans/e/et/eternity/"
 - name: "Eternity Fashion Tartan"
-  url: "/setts/n88dy3ly2k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n88dy3ly2k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/et/eternity/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYKK](/stripes/bgykk/).
 
 Part of the [Eternity](/tartans/e/et/eternity/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10214](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10214)
 
@@ -45,9 +45,11 @@ Earliest known date: 01/02/2010 This tartan was designed for day wear grey tweed
 </details>
 
 ## Thread count
-N/176 DY6 LY4 K4 K/2
+N/176 DY6 LY4 K/6
 
-One full sett is **206 threads**.
+One full sett is **202 threads**.
+
+<p class="recorded-note">The source recorded this cloth as N/176 DY6 LY4 K4 K/2 — 206 threads; it folds to the canonical 202-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **206 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/176 DY6 LY4 K4 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/176 DY6 LY4 K/6 tartan" width="880" height="480">
 
 ## Compared to the master
 

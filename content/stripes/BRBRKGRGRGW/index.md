@@ -28,12 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/">MacDonell of Glengarry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><img src="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/sett.png" alt="MacDonell of Glengarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/">MacDonell of Glengarry #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><img src="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/sett.png" alt="MacDonell of Glengarry #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/">MacDonell of Glengarry #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/"><img src="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/sett.png" alt="MacDonell of Glengarry #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonell-of-glengarry/">MacDonell of Glengarry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonell-of-glengarry/"><img src="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/sett.png" alt="MacDonell of Glengarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

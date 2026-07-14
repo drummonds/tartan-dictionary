@@ -12,10 +12,10 @@ crumbs:
 - name: "Turnbull Hunting"
   url: "/tartans/t/tu/turnbull-hunting/"
 - name: "Turnbull Hunting Clan Tartan"
-  url: "/setts/k7y3g28db28w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7y3g28db28w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tu/turnbull-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGBW](/stripes/kggbw/).
 
 Part of the [Turnbull Hunting](/tartans/t/tu/turnbull-hunting/) tartan — the named design grouping this sett with its other cloths.

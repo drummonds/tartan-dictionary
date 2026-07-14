@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/">MacDonald of Staffa #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/"><img src="/variants/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/sett.png" alt="MacDonald of Staffa #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-staffa-3/">MacDonald of Staffa 3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-3/"><img src="/variants/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/sett.png" alt="MacDonald of Staffa 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

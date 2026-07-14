@@ -8,15 +8,15 @@ crumbs:
 - name: "Wild Highlanders"
   url: "/tartans/w/wi/wild-highlanders/"
 - name: "Wild Highlanders"
-  url: "/setts/k36w3k10w3dg28dr6k18/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k36w3k10w3dg28dr6k18/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKWGBKBGWKW](/stripes/kwkwgbkbgwkw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wild-highlanders/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBGWKWK](/stripes/kbgwkwk/).
 
 Part of the [Wild Highlanders](/tartans/w/wi/wild-highlanders/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4625)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4046
 
 ## Thread count
-K/72 W6 K20 W6 DG56 DR12 K36 DR12 DG56 W6 K20 W/6
+K/72 W6 K20 W6 DG56 DR12 K/36
 
-One full sett is **538 threads**.
+One full sett is **308 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/72 W6 K20 W6 DG56 DR12 K36 DR12 DG56 W6 K20 W/6 — 538 threads; it folds to the canonical 308-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **538 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/72 W6 K20 W6 DG56 DR12 K36 DR12 DG56 W6 K20 W/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/72 W6 K20 W6 DG56 DR12 K/36 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

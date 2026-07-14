@@ -8,15 +8,15 @@ crumbs:
 - name: "Dunbog Primary"
   url: "/tartans/d/du/dunbog-primary/"
 - name: "Dunbog Primary School"
-  url: "/setts/r12db3g5db16y2g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12db3g5db16y2g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBGGGBGBR](/stripes/bgbgggbgbr/).
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunbog-primary/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGBR](/stripes/ggbgbr/).
 
 Part of the [Dunbog Primary](/tartans/d/du/dunbog-primary/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1024](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1024)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1024](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1985 — Dunbog Primary School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1024">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#447438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #447438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Sample in Scottish Tartans Authority Johnston Collection & in Scarlett Collection. Winning design for primary school competition from pupil Colin Armstrong. Dunbog school in Newburgh, Fife. Colours good. Threadcount checked against woven sample and modified slightly (Brian Wilton).</em></li>
-<li>1985 October. — Dunbog Primary (School) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=954">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#447438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #447438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Sample in STA's Johnston Collection & in Scarlett Collection.. Winning design for primary school competition from 10 yr old pupil Colin Armstrong. Dunbog school in Newburgh, Fife. Colours good. Threadcount checked against woven sample and modified slightly. (BW).</em></li>
+<li>1985 October. — Dunbog Primary (School) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/954/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#447438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #447438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Sample in STA's Johnston Collection & in Scarlett Collection.. Winning design for primary school competition from 10 yr old pupil Colin Armstrong. Dunbog school in Newburgh, Fife. Colours good. Threadcount checked against woven sample and modified slightly. (BW).</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 954
 
 ## Thread count
-R/24 DB6 G10 DB32 Y4 G4 Y4 DB32 G10 DB/6
+R/24 DB6 G10 DB32 Y4 G/4
 
-One full sett is **234 threads**.
+One full sett is **132 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/24 DB6 G10 DB32 Y4 G4 Y4 DB32 G10 DB/6 — 234 threads; it folds to the canonical 132-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **234 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/24 DB6 G10 DB32 Y4 G4 Y4 DB32 G10 DB/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/24 DB6 G10 DB32 Y4 G/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

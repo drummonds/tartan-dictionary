@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db15k20n12r34lb3~x2/">McCurdy-Stribbling (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db15k20n12r34lb3~x2/"><img src="/variants/s5/db15k20n12r34lb3~x2/sett.png" alt="McCurdy-Stribbling (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mccurdy-stribbling/">McCurdy-Stribbling</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccurdy-stribbling/"><img src="/variants/s5/db15k20n12r34lb3~x2/sett.png" alt="McCurdy-Stribbling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

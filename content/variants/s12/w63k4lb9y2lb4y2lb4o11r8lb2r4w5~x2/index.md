@@ -10,10 +10,10 @@ crumbs:
 - name: "Seller, Sillar"
   url: "/tartans/s/se/seller-sillar-2/"
 - name: "Seller, Sillar"
-  url: "/setts/w63k4lb9y2lb4y2lb4o11r8lb2r4w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w63k4lb9y2lb4y2lb4o11r8lb2r4w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/se/seller-sillar-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWGWGWRRWRW](/stripes/wkwgwgwrrwrw/).
 
 Part of the [Seller, Sillar](/tartans/s/se/seller-sillar-2/) tartan — the named design grouping this sett with its other cloths.

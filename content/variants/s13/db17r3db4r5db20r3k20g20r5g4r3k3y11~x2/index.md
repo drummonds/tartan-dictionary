@@ -12,10 +12,10 @@ crumbs:
 - name: "MacSporran"
   url: "/tartans/m/ma/macsporran/"
 - name: "MacSporran Clan Tartan"
-  url: "/setts/db17r3db4r5db20r3k20g20r5g4r3k3y11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db17r3db4r5db20r3k20g20r5g4r3k3y11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macsporran/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKGRGRKG](/stripes/brbrbrkgrgrkg/).
 
 Part of the [MacSporran](/tartans/m/ma/macsporran/) tartan — the named design grouping this sett with its other cloths.

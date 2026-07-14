@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r21g3r21g16y3w2y3~x2/">Claus of the North Pole (Restricted)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r21g3r21g16y3w2y3~x2/"><img src="/variants/s7/r21g3r21g16y3w2y3~x2/sett.png" alt="Claus of the North Pole (Restricted) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/claus-of-the-north-pole/">Claus of the North Pole</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/claus-of-the-north-pole/"><img src="/variants/s7/r21g3r21g16y3w2y3~x2/sett.png" alt="Claus of the North Pole sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

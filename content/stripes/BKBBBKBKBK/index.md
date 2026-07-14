@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/">Lochnagar Dress (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/"><img src="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/sett.png" alt="Lochnagar Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochnagar-dress-2/">Lochnagar Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochnagar-dress-2/"><img src="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/sett.png" alt="Lochnagar Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

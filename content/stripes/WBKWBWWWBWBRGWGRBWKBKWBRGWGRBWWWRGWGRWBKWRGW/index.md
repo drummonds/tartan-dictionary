@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s44/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2~x2/">Aberdeen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s44/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2~x2/"><img src="/variants/s44/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2~x2/sett.png" alt="Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberdeen/">Aberdeen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen/"><img src="/variants/s44/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2~x2/sett.png" alt="Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

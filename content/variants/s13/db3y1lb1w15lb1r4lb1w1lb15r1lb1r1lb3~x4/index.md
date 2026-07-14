@@ -8,10 +8,10 @@ crumbs:
 - name: "Federal Memorial Dress"
   url: "/tartans/f/fe/federal-memorial-dress/"
 - name: "Federal Memorial Dress"
-  url: "/setts/db3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/federal-memorial-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWWWRWWWRWRW](/stripes/bgwwwrwwwrwrw/).
 
 Part of the [Federal Memorial Dress](/tartans/f/fe/federal-memorial-dress/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Care Leaver"
   url: "/tartans/c/ca/care-leaver/"
 - name: "Care Leaver"
-  url: "/setts/lg15k50w4r18k5db5k15y10k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lg15k50w4r18k5db5k15y10k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/care-leaver/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKRWKY](/stripes/kgkbkrwky/).
 
 Part of the [Care Leaver](/tartans/c/ca/care-leaver/) tartan — the named design grouping this sett with its other cloths.

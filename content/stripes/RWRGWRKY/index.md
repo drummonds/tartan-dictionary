@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ly57k1r12w1g12r14w1r2~x2/">MacBrair Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ly57k1r12w1g12r14w1r2~x2/"><img src="/variants/s8/ly57k1r12w1g12r14w1r2~x2/sett.png" alt="MacBrair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macbrair-hunting/">MacBrair Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macbrair-hunting/"><img src="/variants/s8/ly57k1r12w1g12r14w1r2~x2/sett.png" alt="MacBrair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

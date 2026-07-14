@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/">Moonlight Glen (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><img src="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/sett.png" alt="Moonlight Glen (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moonlight-glen/">Moonlight Glen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moonlight-glen/"><img src="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/sett.png" alt="Moonlight Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

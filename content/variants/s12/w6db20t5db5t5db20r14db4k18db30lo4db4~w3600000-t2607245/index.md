@@ -10,10 +10,10 @@ crumbs:
 - name: "Edinburgh Bus Tours"
   url: "/tartans/e/ed/edinburgh-bus-tours/"
 - name: "Edinburgh Bus Tours"
-  url: "/setts/w6db20t5db5t5db20r14db4k18db30lo4db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w6db20t5db5t5db20r14db4k18db30lo4db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-bus-tours/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBKBRBBBBBW](/stripes/bybkbrbbbbbw/).
 
 Part of the [Edinburgh Bus Tours](/tartans/e/ed/edinburgh-bus-tours/) tartan — the named design grouping this sett with its other cloths.

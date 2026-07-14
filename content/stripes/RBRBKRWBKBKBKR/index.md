@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/">Katie Targett-Adams</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/"><img src="/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/sett.png" alt="Katie Targett-Adams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ka/katie-targett-adams/">Katie Targett-Adams</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/katie-targett-adams/"><img src="/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/sett.png" alt="Katie Targett-Adams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

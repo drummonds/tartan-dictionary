@@ -8,10 +8,10 @@ crumbs:
 - name: "Clemens and August"
   url: "/tartans/c/cl/clemens-and-august/"
 - name: "Clemens and August (Personal)"
-  url: "/setts/y35db3r4db3r8db30w3db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y35db3r4db3r8db30w3db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clemens-and-august/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRBRBG](/stripes/bwbrbrbg/).
 
 Part of the [Clemens and August](/tartans/c/cl/clemens-and-august/) tartan — the named design grouping this sett with its other cloths.

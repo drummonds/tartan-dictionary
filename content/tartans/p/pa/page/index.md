@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g46k18g6k13r4k4w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgkrkw/">GKGKRKW</a></nav>
 Its design is pattern [GKGKRKW](/stripes/gkgkrkw/) — the page of every tartan sharing this colour sequence.
 
 Designed in 2007 by George Page of Quebec and Trudie Ainsworth of House of Edgar.
@@ -14,8 +17,8 @@ The **Page** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g46k18g6k13r4k4w4/">Page</a></td><td><code>G/92 K36 G12 K26 R8 K8 W/8</code></td><td>280</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g46k18g6k13r4k4w4/"><img src="/variants/s7/g46k18g6k13r4k4w4~x2/sett.png" alt="Page sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g46k18g6k13r4k4w4~x2/">Page</a></td><td><code>G/92 K36 G12 K26 R8 K8 W/8</code></td><td>280</td><td>2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><img src="/variants/s7/g46k18g6k13r4k4w4~x2/sett.png" alt="Page sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -28,6 +31,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g30k12g6k6db2k5~x2/"><circle cx="320.2" cy="173.6" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/variants/s6/g70k26g12k14db3k16~x2/"><circle cx="333.1" cy="156.4" r="4" fill="#3465a4"><title>Duchess of Fife</title></circle></a><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/"><circle cx="208.0" cy="135.4" r="4" fill="#3465a4"><title>Derick Wardrope</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="255.2" cy="149.4" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="235.4" cy="137.9" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="224.0" cy="179.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="305.9" cy="150.5" r="4" fill="#3465a4"><title>Instakilt</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="264.8" cy="125.8" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8b4~x2/"><circle cx="249.6" cy="151.8" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="299.5" cy="124.5" r="4" fill="#3465a4"><title>Moran</title></circle></a><circle cx="258.2" cy="152.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g30k12g6k6db2k5~x2/"><circle cx="321.1" cy="173.8" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/variants/s6/g70k26g12k14db3k16~x2/"><circle cx="334.0" cy="156.6" r="4" fill="#3465a4"><title>Duchess of Fife</title></circle></a><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/"><circle cx="208.6" cy="135.3" r="4" fill="#3465a4"><title>Derick Wardrope</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="255.9" cy="149.5" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="236.1" cy="137.9" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="224.7" cy="179.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="306.8" cy="150.6" r="4" fill="#3465a4"><title>Instakilt</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="265.7" cy="125.8" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8b4~x2/"><circle cx="250.3" cy="151.9" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="300.4" cy="124.6" r="4" fill="#3465a4"><title>Moran</title></circle></a><circle cx="258.9" cy="152.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

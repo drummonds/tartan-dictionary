@@ -12,10 +12,10 @@ crumbs:
 - name: "Hislop"
   url: "/tartans/h/hi/hislop/"
 - name: "Hislop Family Tartan"
-  url: "/setts/r2k8y1k8g8db8k2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k8y1k8g8db8k2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/hislop/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKGBKW](/stripes/rkgkgbkw/).
 
 Part of the [Hislop](/tartans/h/hi/hislop/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "Highland Park HS Pipe Band"
   url: "/tartans/h/hi/highland-park-hs-pipe-band/"
 - name: "Highland Park HS Pipe Band"
-  url: "/setts/y22w1y2w2db2w1db14w1db2w2db2w1db14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y22w1y2w2db2w1db14w1db2w2db2w1db14/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highland-park-hs-pipe-band/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/).
 
 Part of the [Highland Park HS Pipe Band](/tartans/h/hi/highland-park-hs-pipe-band/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1714](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1940 — Highland Park HS Pipe Band (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1714">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Highland Park High School (Texas) Pipe Band. Formerly woven by Peter Anderson of Galashiels. Tartan is Blue/Green version of MacDonald, Lord of the Isles Hunting with the green changed to yellow. Almost indistinguishable from the Thain Dress tartan (SRT #4099) which swaps black for the blue.</em></li>
-<li>pre 1940 — Highland Park HS Pipe Band (School) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5191">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Highland Park High School (Texas) Pipe Band. Woven by Peter Anderson of Galashiels at one time. Tartan is Blue/Green version of MacDonald, Lord of the Isles Hunting with the green changed to yellow. Thus almost indistinguishable from the Thain #1 tartan (#1256) which swaps black for the blue. Woven sample.</em></li>
+<li>pre 1940 — Highland Park HS Pipe Band (School) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5191/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Highland Park High School (Texas) Pipe Band. Woven by Peter Anderson of Galashiels at one time. Tartan is Blue/Green version of MacDonald, Lord of the Isles Hunting with the green changed to yellow. Thus almost indistinguishable from the Thain #1 tartan (#1256) which swaps black for the blue. Woven sample.</em></li>
 </ul>
 </details>
 

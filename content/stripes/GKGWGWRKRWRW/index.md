@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g2k1g4lb4y1lb4r4k1r4lb2r4w1~x4/">British Columbia District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g2k1g4lb4y1lb4r4k1r4lb2r4w1~x4/"><img src="/variants/s12/g2k1g4lb4y1lb4r4k1r4lb2r4w1~x4/sett.png" alt="British Columbia District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/british-columbia-3/">British Columbia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/british-columbia-3/"><img src="/variants/s12/g2k1g4lb4y1lb4r4k1r4lb2r4w1~x4/sett.png" alt="British Columbia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

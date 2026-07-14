@@ -8,10 +8,10 @@ crumbs:
 - name: "Yorston"
   url: "/tartans/y/yo/yorston/"
 - name: "Yorston (2014)"
-  url: "/setts/db109lb12r4w4db5y4g5k4r4lb18/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db109lb12r4w4db5y4g5k4r4lb18/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/yo/yorston/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWBGGKRW](/stripes/bwrwbggkrw/).
 
 Part of the [Yorston](/tartans/y/yo/yorston/) tartan — the named design grouping this sett with its other cloths.

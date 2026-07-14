@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/">Clergy (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/"><img src="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/sett.png" alt="Clergy (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clergy-8/">Clergy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clergy-8/"><img src="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

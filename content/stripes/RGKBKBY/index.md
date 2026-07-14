@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3dg20k2n11k2db20lr2~x2/">Grandfather Mountain Games (District</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3dg20k2n11k2db20lr2~x2/"><img src="/variants/s7/r3dg20k2n11k2db20lr2~x2/sett.png" alt="Grandfather Mountain Games (District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r3g20k2n11k2db20lr2~x2/">Grandfather Mountain Games American Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3g20k2n11k2db20lr2~x2/"><img src="/variants/s7/r3g20k2n11k2db20lr2~x2/sett.png" alt="Grandfather Mountain Games American Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grandfather-mountain-games/">Grandfather Mountain Games</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grandfather-mountain-games/"><img src="/variants/s7/r3dg20k2n11k2db20lr2~x2/sett.png" alt="Grandfather Mountain Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

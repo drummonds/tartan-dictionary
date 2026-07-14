@@ -12,10 +12,10 @@ crumbs:
 - name: "Campbell of Armaddie"
   url: "/tartans/c/ca/campbell-of-armaddie/"
 - name: "Campbell of Armaddie"
-  url: "/setts/r4k1r12k12r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k1r12k12r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-of-armaddie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKR](/stripes/rkrkr/).
 
 Part of the [Campbell of Armaddie](/tartans/c/ca/campbell-of-armaddie/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5030](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1750 — Campbell of Armaddie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5030">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>Sett originally from the portrait of John 'of the Bank' Campbell of Ardmaddie, now owned by the Royal Bank of Scotland. Threadcount taken from the Peter MacDonald swatch collection, Stone Mountain Games, 1994.</em></li>
-<li>1750 — Campbell of Armaddie (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3800">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>Peter MacDonald swatch collection, Stone Mountain Games, 1994. similar in design to #3816. From the portrait of John 'of the Bank' Campbell of Ardmaddie now owned by the Royal Bank of Scotland.</em></li>
+<li>1750 — Campbell of Armaddie (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3800/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>Peter MacDonald swatch collection, Stone Mountain Games, 1994. similar in design to #3816. From the portrait of John 'of the Bank' Campbell of Ardmaddie now owned by the Royal Bank of Scotland.</em></li>
 </ul>
 </details>
 

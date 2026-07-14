@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/t15db65y7t4y3db30t15w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgbgbbw/">BBGBGBBW</a></nav>
 Its design is pattern [BBGBGBBW](/stripes/bbgbgbbw/) — the page of every tartan sharing this colour sequence.
 
 The **Hoosier** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Hoosier** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t15db65y7t4y3db30t15w3/">Hoosier</a></td><td><code>T/30 DB130 Y14 T8 Y6 DB60 T30 W/6</code></td><td>532</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t15db65y7t4y3db30t15w3/"><img src="/variants/s8/t15db65y7t4y3db30t15w3~x2/sett.png" alt="Hoosier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/">Hoosier</a></td><td><code>T/30 DB130 Y14 T8 Y6 DB60 T30 W/6</code></td><td>532</td><td>~2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><img src="/variants/s8/t15db65y7t4y3db30t15w3~x2/sett.png" alt="Hoosier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/"><circle cx="435.4" cy="118.1" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="416.0" cy="208.8" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/"><circle cx="564.1" cy="168.1" r="4" fill="#3465a4"><title>Pride of the Clyde</title></circle></a><a href="/variants/s6/t4db2t1db23lb2t2~x2~t2405244-lb3103284/"><circle cx="575.9" cy="199.8" r="4" fill="#3465a4"><title>Covenant College</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="503.8" cy="174.5" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><circle cx="484.7" cy="193.0" r="4" fill="#3465a4"><title>JetBlue</title></circle></a><a href="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/"><circle cx="481.5" cy="139.8" r="4" fill="#3465a4"><title>Aberdeen Mither Kirk</title></circle></a><a href="/variants/s8/g20lb6db20y3db48dr6db4dr6~x2/"><circle cx="385.5" cy="181.0" r="4" fill="#3465a4"><title>Warren Wilson College</title></circle></a><a href="/variants/s12/db15g2db2w1db1w1db1w1db2g2db15dr10~x4/"><circle cx="425.3" cy="159.4" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><a href="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/"><circle cx="467.9" cy="215.2" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><circle cx="461.8" cy="180.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/"><circle cx="436.6" cy="118.3" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="416.8" cy="209.0" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/"><circle cx="565.1" cy="168.5" r="4" fill="#3465a4"><title>Pride of the Clyde</title></circle></a><a href="/variants/s6/t4db2t1db23lb2t2~x2~t2405244-lb3103284/"><circle cx="577.0" cy="200.2" r="4" fill="#3465a4"><title>Covenant College</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="504.8" cy="174.8" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><circle cx="485.7" cy="193.3" r="4" fill="#3465a4"><title>JetBlue</title></circle></a><a href="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/"><circle cx="482.6" cy="140.1" r="4" fill="#3465a4"><title>Aberdeen Mither Kirk</title></circle></a><a href="/variants/s8/g20lb6db20y3db48dr6db4dr6~x2/"><circle cx="386.2" cy="181.1" r="4" fill="#3465a4"><title>Warren Wilson College</title></circle></a><a href="/variants/s12/db15g2db2w1db1w1db1w1db2g2db15dr10~x4/"><circle cx="426.2" cy="159.6" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><a href="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/"><circle cx="468.8" cy="215.5" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><circle cx="462.7" cy="180.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

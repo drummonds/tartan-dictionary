@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/">City of Sarnia (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/"><img src="/variants/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/sett.png" alt="City of Sarnia (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-sarnia/">City of Sarnia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-sarnia/"><img src="/variants/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/sett.png" alt="City of Sarnia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

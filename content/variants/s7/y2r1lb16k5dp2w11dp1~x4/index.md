@@ -8,10 +8,10 @@ crumbs:
 - name: "Dignan"
   url: "/tartans/d/di/dignan/"
 - name: "Dignan"
-  url: "/setts/y2r1lb16k5dp2w11dp1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2r1lb16k5dp2w11dp1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/dignan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKWRG](/stripes/bwbkwrg/).
 
 Part of the [Dignan](/tartans/d/di/dignan/) tartan — the named design grouping this sett with its other cloths.

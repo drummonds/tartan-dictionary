@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r50db14w6db9ly3db4r4~x2/">Texas Lone Star (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r50db14w6db9ly3db4r4~x2/"><img src="/variants/s7/r50db14w6db9ly3db4r4~x2/sett.png" alt="Texas Lone Star (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/texas-lone-star/">Texas Lone Star</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/texas-lone-star/"><img src="/variants/s7/r50db14w6db9ly3db4r4~x2/sett.png" alt="Texas Lone Star sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

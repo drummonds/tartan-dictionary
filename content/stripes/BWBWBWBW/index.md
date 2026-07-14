@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb4db1lb4db24w6db4w1db2~x4/">Antigonish</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb4db1lb4db24w6db4w1db2~x4/"><img src="/variants/s8/lb4db1lb4db24w6db4w1db2~x4/sett.png" alt="Antigonish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/antigonish-2/">Antigonish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/antigonish-2/"><img src="/variants/s8/lb4db1lb4db24w6db4w1db2~x4/sett.png" alt="Antigonish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/db32w4db2w4db4w2db1w6~x2/">Menzies Navy design Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db32w4db2w4db4w2db1w6~x2/"><img src="/variants/s8/db32w4db2w4db4w2db1w6~x2/sett.png" alt="Menzies Navy design Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/menzies-navy-design/">Menzies Navy design</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/menzies-navy-design/"><img src="/variants/s8/db32w4db2w4db4w2db1w6~x2/sett.png" alt="Menzies Navy design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

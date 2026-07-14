@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/dundhuin/"
 - name: "Dundhuin"
   url: "/families/dundhuin/"
+aliases:
+- "/setts/dg62y17ly12n8o8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggybr/">GGYBR</a></nav>
 A tartan of the [Dundhuin](/families/dundhuin/) family.
 Its design is pattern [GGYBR](/stripes/ggybr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Dundhuin Hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg62y17ly12n8o8/">Dundhuin Hunting</a></td><td><code>DG/124 Y34 LY24 N16 O/16</code></td><td>288</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg62y17ly12n8o8/"><img src="/variants/s5/dg62y17ly12n8o8~x2/sett.png" alt="Dundhuin Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dg62y17ly12n8o8~x2/">Dundhuin Hunting</a></td><td><code>DG/124 Y34 LY24 N16 O/16</code></td><td>288</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dg62y17ly12n8o8~x2/"><img src="/variants/s5/dg62y17ly12n8o8~x2/sett.png" alt="Dundhuin Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.2" cy="196.5" r="4" fill="#3465a4"><title>Clare, Richard</title></circle></a><a href="/variants/s4/r1g8dy8w1~x2/"><circle cx="274.0" cy="253.9" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.2" cy="228.9" r="4" fill="#3465a4"><title>ChuMac</title></circle></a><a href="/variants/s4/dy22dp1g22r4~x4/"><circle cx="342.3" cy="227.4" r="4" fill="#3465a4"><title>McWilliams Hunting</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="321.1" cy="181.9" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><circle cx="350.4" cy="221.2" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="352.5" cy="223.0" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s5/r17db7ly8g58k6~x2/"><circle cx="284.1" cy="176.4" r="4" fill="#3465a4"><title>St Johns County Sheriff Office</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.6" cy="247.5" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/variants/s6/ly4dg30g15db5t10ly4~x2/"><circle cx="232.9" cy="251.8" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><circle cx="317.7" cy="222.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.8" cy="196.7" r="4" fill="#3465a4"><title>Clare, Richard</title></circle></a><a href="/variants/s4/r1g8dy8w1~x2/"><circle cx="274.3" cy="254.0" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.5" cy="228.8" r="4" fill="#3465a4"><title>ChuMac</title></circle></a><a href="/variants/s4/dy22dp1g22r4~x4/"><circle cx="342.7" cy="227.6" r="4" fill="#3465a4"><title>McWilliams Hunting</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="321.8" cy="182.0" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><circle cx="351.0" cy="221.4" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="353.1" cy="223.2" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s5/r17db7ly8g58k6~x2/"><circle cx="284.8" cy="176.4" r="4" fill="#3465a4"><title>St Johns County Sheriff Office</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.7" cy="247.4" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/variants/s6/ly4dg30g15db5t10ly4~x2/"><circle cx="232.9" cy="251.7" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><circle cx="318.2" cy="223.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

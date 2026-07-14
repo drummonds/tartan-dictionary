@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g2r3g4y1g1w1g4r3g2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgggwgrg/">GRGGGWGRG</a></nav>
 Its design is pattern [GRGGGWGRG](/stripes/grgggwgrg/) — the page of every tartan sharing this colour sequence.
 
 The **Unnamed 7** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unnamed 7** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g2r3g4y1g1w1g4r3g2/">Unnamed 7</a></td><td><code>G/4 R6 G8 Y2 G2 W2 G8 R6 G/4</code></td><td>76</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g2r3g4y1g1w1g4r3g2/"><img src="/variants/s9/g2r3g4y1g1w1g4r3g2~x2/sett.png" alt="Unnamed 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g2r3g4y1g1w1g4r3g2~x2/">Unnamed 7</a></td><td><code>G/4 R6 G8 Y2 G2 W2 G8 R6 G/4</code></td><td>76</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g2r3g4y1g1w1g4r3g2~x2/"><img src="/variants/s9/g2r3g4y1g1w1g4r3g2~x2/sett.png" alt="Unnamed 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g5r9g10y2g2w2g10r9g5~x2/"><circle cx="300.7" cy="262.1" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/"><circle cx="275.5" cy="240.2" r="4" fill="#3465a4"><title>Norwich No.077</title></circle></a><a href="/variants/s7/g16lo3g14dr16g2dr2g3~x2/"><circle cx="396.7" cy="257.0" r="4" fill="#3465a4"><title>Scott Autumn</title></circle></a><a href="/variants/s10/g3lr2g3dr1g6dr3g3dr1g3lr2~x4/"><circle cx="362.1" cy="286.1" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="355.7" cy="247.0" r="4" fill="#3465a4"><title>Leeds University</title></circle></a><a href="/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/"><circle cx="293.2" cy="260.2" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~x2/"><circle cx="265.3" cy="237.3" r="4" fill="#3465a4"><title>Wilson's No.169</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="429.8" cy="217.1" r="4" fill="#3465a4"><title>Leeds, University of</title></circle></a><a href="/variants/s7/y1r3g7r3g7r3y1~x4/"><circle cx="350.6" cy="270.8" r="4" fill="#3465a4"><title>Unidentified 24</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="321.1" cy="222.1" r="4" fill="#3465a4"><title>Burnett of Powis</title></circle></a><circle cx="296.8" cy="278.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g5r9g10y2g2w2g10r9g5~x2/"><circle cx="301.0" cy="262.2" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/"><circle cx="276.0" cy="240.2" r="4" fill="#3465a4"><title>Norwich No.077</title></circle></a><a href="/variants/s7/g16lo3g14dr16g2dr2g3~x2/"><circle cx="397.2" cy="257.3" r="4" fill="#3465a4"><title>Scott Autumn</title></circle></a><a href="/variants/s10/g3lr2g3dr1g6dr3g3dr1g3lr2~x4/"><circle cx="362.5" cy="286.3" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="356.2" cy="247.2" r="4" fill="#3465a4"><title>Leeds University</title></circle></a><a href="/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/"><circle cx="293.6" cy="260.3" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~x2/"><circle cx="265.5" cy="237.4" r="4" fill="#3465a4"><title>Wilson's No.169</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="430.6" cy="217.4" r="4" fill="#3465a4"><title>Leeds, University of</title></circle></a><a href="/variants/s7/y1r3g7r3g7r3y1~x4/"><circle cx="351.0" cy="271.0" r="4" fill="#3465a4"><title>Unidentified 24</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="321.6" cy="222.2" r="4" fill="#3465a4"><title>Burnett of Powis</title></circle></a><circle cx="297.1" cy="278.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

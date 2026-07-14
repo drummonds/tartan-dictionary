@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/">Nigeria</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><img src="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/sett.png" alt="Nigeria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ni/nigeria/">Nigeria</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nigeria/"><img src="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/sett.png" alt="Nigeria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Williamson"
   url: "/tartans/w/wi/williamson/"
 - name: "Williamson (Personal)"
-  url: "/setts/r7db20r4k18g20dp5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r7db20r4k18g20dp5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/williamson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKRBR](/stripes/bgkrbr/).
 
 Part of the [Williamson](/tartans/w/wi/williamson/) tartan — the named design grouping this sett with its other cloths.

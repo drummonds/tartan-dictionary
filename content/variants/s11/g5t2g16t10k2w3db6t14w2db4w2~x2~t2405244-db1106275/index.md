@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Motor Trade Association"
-  url: "/tartans/s/sc/scottish-motor-trade-association/"
+  url: "/tartans/s/sc/scottish-motor-trade-association-2/"
 - name: "Scottish Motor Trade Association Trade Tartan"
-  url: "/setts/g5t2g16t10k2w3db6t14w2db4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g5t2g16t10k2w3db6t14w2db4w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBKWBBWBWBWBBWKBGBG](/stripes/bgbkwbbwbwbwbbwkbgbg/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-motor-trade-association-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBKWBBWBW](/stripes/gbgbkwbbwbw/).
 
-Part of the [Scottish Motor Trade Association](/tartans/s/sc/scottish-motor-trade-association/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish Motor Trade Association](/tartans/s/sc/scottish-motor-trade-association-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2392](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2392)
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2392
 
 ## Thread count
-G/10 T4 G32 T20 K4 W6 DB12 T28 W4 DB8 W4 DB8 W4 T28 DB12 W6 K4 T20 G32 T/4
+G/10 T4 G32 T20 K4 W6 DB12 T28 W4 DB8 W/4
 
-One full sett is **486 threads**.
+One full sett is **250 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/10 T4 G32 T20 K4 W6 DB12 T28 W4 DB8 W4 DB8 W4 T28 DB12 W6 K4 T20 G32 T/4 — 486 threads; it folds to the canonical 250-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **486 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/10 T4 G32 T20 K4 W6 DB12 T28 W4 DB8 W4 DB8 W4 T28 DB12 W6 K4 T20 G32 T/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/10 T4 G32 T20 K4 W6 DB12 T28 W4 DB8 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/dobson/"
 - name: "Dobson"
   url: "/families/dobson/"
+aliases:
+- "/setts/g15y1dy2db5k4dg5/"
+- "/setts/g15ly1dy2db5k4dg5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gggbkg/">GGGBKG</a></nav>
 A tartan of the [Dobson](/families/dobson/) family.
 Its design is pattern [GGGBKG](/stripes/gggbkg/) — the page of every tartan sharing this colour sequence.
 
@@ -20,10 +24,10 @@ The **Dobson** tartan groups 2 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g15y1dy2db5k4dg5/">Dobson</a> ★</td><td><code>G/90 Y6 DY12 DB30 K24 DG/30</code></td><td>264</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g15y1dy2db5k4dg5/"><img src="/variants/s6/g15y1dy2db5k4dg5~x6/sett.png" alt="Dobson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g15ly1dy2db5k4dg5/">(Palm Bay) (Personal)</a></td><td><code>G/90 LY6 DY12 DB30 K24 DG/30</code></td><td>264</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g15ly1dy2db5k4dg5/"><img src="/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/sett.png" alt="(Palm Bay) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g15y1dy2db5k4dg5~x6/">Dobson</a> ★</td><td><code>G/90 Y6 DY12 DB30 K24 DG/30</code></td><td>264</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g15y1dy2db5k4dg5~x6/"><img src="/variants/s6/g15y1dy2db5k4dg5~x6/sett.png" alt="Dobson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/">(Palm Bay) (Personal)</a></td><td><code>G/90 LY6 DY12 DB30 K24 DG/30</code></td><td>264</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/"><img src="/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/sett.png" alt="(Palm Bay) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3k2g20k10t20y2~x2/"><circle cx="143.6" cy="191.1" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="232.2" cy="231.2" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s6/db3g19dg29k11r4y2~x2/"><circle cx="183.9" cy="165.9" r="4" fill="#3465a4"><title>Zimmermann, Martin</title></circle></a><a href="/variants/s7/dr16y2dy7y2t24k2g2~x2/"><circle cx="222.5" cy="167.3" r="4" fill="#3465a4"><title>Traill Clan/Family Weavers</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="165.0" cy="169.1" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="193.6" cy="194.6" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="188.6" cy="193.1" r="4" fill="#3465a4"><title>Cultoquhey</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="203.2" cy="155.2" r="4" fill="#3465a4"><title>Royal British Legion</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="177.7" cy="178.7" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="264.4" cy="173.2" r="4" fill="#3465a4"><title>Glencross</title></circle></a><circle cx="195.5" cy="169.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3k2g20k10t20y2~x2/"><circle cx="143.8" cy="190.9" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="232.4" cy="231.2" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s6/db3g19dg29k11r4y2~x2/"><circle cx="184.2" cy="165.8" r="4" fill="#3465a4"><title>Zimmermann, Martin</title></circle></a><a href="/variants/s7/dr16y2dy7y2t24k2g2~x2/"><circle cx="222.8" cy="167.1" r="4" fill="#3465a4"><title>Traill Clan/Family Weavers</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="165.3" cy="168.9" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="194.0" cy="194.6" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="189.0" cy="193.0" r="4" fill="#3465a4"><title>Cultoquhey</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="203.7" cy="155.0" r="4" fill="#3465a4"><title>Royal British Legion</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="178.0" cy="178.5" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="264.8" cy="173.1" r="4" fill="#3465a4"><title>Glencross</title></circle></a><circle cx="195.9" cy="169.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

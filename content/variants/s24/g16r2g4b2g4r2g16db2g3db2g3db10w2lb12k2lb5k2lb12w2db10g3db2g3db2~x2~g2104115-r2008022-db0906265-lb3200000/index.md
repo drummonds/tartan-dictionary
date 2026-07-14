@@ -8,10 +8,10 @@ crumbs:
 - name: "O'Sullivan, McCragh"
   url: "/tartans/o/o/o-sullivan-mccragh-3/"
 - name: "O'Sullivan, McCragh"
-  url: "/setts/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-sullivan-mccragh-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWWKWKWWBGBGBGRGBGRG](/stripes/bgbgbwwkwkwwbgbgbgrgbgrg/).
 
 Part of the [O'Sullivan, McCragh](/tartans/o/o/o-sullivan-mccragh-3/) tartan — the named design grouping this sett with its other cloths.

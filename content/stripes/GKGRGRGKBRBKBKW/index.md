@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/y6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/">Unidentified Flora MacDonald</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/y6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/"><img src="/variants/s15/y6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/sett.png" alt="Unidentified Flora MacDonald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-flora-macdonald/">Unidentified Flora MacDonald</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-flora-macdonald/"><img src="/variants/s15/y6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/sett.png" alt="Unidentified Flora MacDonald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

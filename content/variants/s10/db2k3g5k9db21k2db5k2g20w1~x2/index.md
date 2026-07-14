@@ -8,10 +8,10 @@ crumbs:
 - name: "Pitceathley Chamberlain"
   url: "/tartans/p/pi/pitceathley-chamberlain/"
 - name: "Pitceathly Chamberlain (Personal)"
-  url: "/setts/db2k3g5k9db21k2db5k2g20w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2k3g5k9db21k2db5k2g20w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pi/pitceathley-chamberlain/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBKBKGW](/stripes/bkgkbkbkgw/).
 
 Part of the [Pitceathley Chamberlain](/tartans/p/pi/pitceathley-chamberlain/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10190](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>25/11/2009 — Pitceathly Chamberlain (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10190">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#0000CD;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #0000CD"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008B00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008B00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><br><em>Designed for the 80th birthday of Sophia Joan Chamberlain nee Pitceathly for her own use and that of her immediate family.</em></li>
-<li>25th Nov. 2009 — Pitceathley Chamberlain (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10190">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed for the 80th birthday of Sophia Joan Chamberlain nee Pitceathly for her own use and that of her immediate family. Only to be used by the immediate family of Sophia Joan Chamberlain nee Pitceathly.</em></li>
+<li>25th Nov. 2009 — Pitceathley Chamberlain (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10190/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed for the 80th birthday of Sophia Joan Chamberlain nee Pitceathly for her own use and that of her immediate family. Only to be used by the immediate family of Sophia Joan Chamberlain nee Pitceathly.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/">Palmer, Edward</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/"><img src="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/sett.png" alt="Palmer, Edward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/palmer-edward/">Palmer, Edward</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/palmer-edward/"><img src="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/sett.png" alt="Palmer, Edward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

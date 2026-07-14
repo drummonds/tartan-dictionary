@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/">MacRae of Ardentoul</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/"><img src="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/sett.png" alt="MacRae of Ardentoul sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macrae-of-ardentoul/">MacRae of Ardentoul</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrae-of-ardentoul/"><img src="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/sett.png" alt="MacRae of Ardentoul sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

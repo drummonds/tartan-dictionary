@@ -12,10 +12,10 @@ crumbs:
 - name: "MacKenzie"
   url: "/tartans/m/ma/mackenzie-5/"
 - name: "MacKenzie"
-  url: "/setts/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackenzie-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKWKGKBKRKBKGKWKGKBKBKB](/stripes/bkbkbkgkwkgkbkrkbkgkwkgkbkbkb/).
 
 Part of the [MacKenzie](/tartans/m/ma/mackenzie-5/) tartan — the named design grouping this sett with its other cloths.

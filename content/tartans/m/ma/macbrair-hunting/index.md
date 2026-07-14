@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ly57k1r12w1g12r14w1r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rwrgwrky/">RWRGWRKY</a></nav>
 Its design is pattern [RWRGWRKY](/stripes/rwrgwrky/) — the page of every tartan sharing this colour sequence.
 
 The **MacBrair Hunting** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **MacBrair Hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly57k1r12w1g12r14w1r2/">MacBrair Hunting</a></td><td><code>LY/114 K2 R24 W2 G24 R28 W2 R/4</code></td><td>282</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly57k1r12w1g12r14w1r2/"><img src="/variants/s8/ly57k1r12w1g12r14w1r2~x2/sett.png" alt="MacBrair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly57k1r12w1g12r14w1r2~x2/">MacBrair Hunting</a></td><td><code>LY/114 K2 R24 W2 G24 R28 W2 R/4</code></td><td>282</td><td>1982</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly57k1r12w1g12r14w1r2~x2/"><img src="/variants/s8/ly57k1r12w1g12r14w1r2~x2/sett.png" alt="MacBrair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/y50k1dr12lb1g12dr14lb1dr2~x4/"><circle cx="386.8" cy="111.0" r="4" fill="#3465a4"><title>MacByrd</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="350.9" cy="77.5" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="333.7" cy="81.5" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s8/w50k1r14w1dg14r14w1r2~x4~w4000000/"><circle cx="303.0" cy="78.2" r="4" fill="#3465a4"><title>Wilson's Blanket Pattern</title></circle></a><a href="/variants/s8/o50k1dr14lb1dg14dr14lb1dr2~x4/"><circle cx="374.6" cy="107.0" r="4" fill="#3465a4"><title>McBrayer</title></circle></a><a href="/variants/s8/g18w3y1r2y1r3y1r10~x4/"><circle cx="305.9" cy="166.7" r="4" fill="#3465a4"><title>Brisbane</title></circle></a><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/"><circle cx="306.2" cy="67.1" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.2" cy="110.9" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/"><circle cx="277.6" cy="159.4" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/"><circle cx="320.1" cy="97.5" r="4" fill="#3465a4"><title>Bell's Whisky</title></circle></a><circle cx="361.1" cy="84.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/y50k1dr12lb1g12dr14lb1dr2~x4/"><circle cx="387.5" cy="111.1" r="4" fill="#3465a4"><title>MacByrd</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="351.8" cy="77.4" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="334.6" cy="81.4" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s8/w50k1r14w1dg14r14w1r2~x4~w4000000/"><circle cx="303.9" cy="78.1" r="4" fill="#3465a4"><title>Wilson's Blanket Pattern</title></circle></a><a href="/variants/s8/o50k1dr14lb1dg14dr14lb1dr2~x4/"><circle cx="375.4" cy="107.1" r="4" fill="#3465a4"><title>McBrayer</title></circle></a><a href="/variants/s8/g18w3y1r2y1r3y1r10~x4/"><circle cx="306.4" cy="166.7" r="4" fill="#3465a4"><title>Brisbane</title></circle></a><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/"><circle cx="307.2" cy="67.0" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="349.2" cy="111.0" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/"><circle cx="278.2" cy="159.3" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/"><circle cx="320.8" cy="97.4" r="4" fill="#3465a4"><title>Bell's Whisky</title></circle></a><circle cx="362.0" cy="84.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/">Am Yisrael Chair (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/"><img src="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/sett.png" alt="Am Yisrael Chair (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/am-yisrael-chair/">Am Yisrael Chair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/am-yisrael-chair/"><img src="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/sett.png" alt="Am Yisrael Chair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

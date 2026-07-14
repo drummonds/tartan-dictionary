@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w1db15r1n10g2lp1~x4/">Peterson, Oren (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><img src="/variants/s6/w1db15r1n10g2lp1~x4/sett.png" alt="Peterson, Oren (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/peterson-oren/">Peterson, Oren</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peterson-oren/"><img src="/variants/s6/w1db15r1n10g2lp1~x4/sett.png" alt="Peterson, Oren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

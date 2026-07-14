@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/">Yarrow Dress, Purple (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/"><img src="/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/sett.png" alt="Yarrow Dress, Purple (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/ya/yarrow-dress/">Yarrow Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ya/yarrow-dress/"><img src="/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/sett.png" alt="Yarrow Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Rosalyn"
   url: "/tartans/r/ro/rosalyn/"
 - name: "Rosalyn"
-  url: "/setts/k8dg25k1ly8k1g2k1ly8k1lo25k8r8k1ly2k1r8k8db8k1r2k1db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8dg25k1ly8k1g2k1ly8k1lo25k8r8k1ly2k1r8k8db8k1r2k1db8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/rosalyn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKBKRKYKRKYKYKGKYKGK](/stripes/bkrkbkrkykrkykykgkykgk/).
 
 Part of the [Rosalyn](/tartans/r/ro/rosalyn/) tartan — the named design grouping this sett with its other cloths.

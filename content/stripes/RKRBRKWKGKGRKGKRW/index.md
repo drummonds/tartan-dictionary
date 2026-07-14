@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/">Scotia Village (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/"><img src="/variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/sett.png" alt="Scotia Village (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotia-village/">Scotia Village</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotia-village/"><img src="/variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/sett.png" alt="Scotia Village sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

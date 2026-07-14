@@ -12,10 +12,10 @@ crumbs:
 - name: "MacGregor"
   url: "/tartans/m/ma/macgregor-5/"
 - name: "MacGregor Dress Green (Dance)"
-  url: "/setts/w52g22w6g8k1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w52g22w6g8k1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGWGW](/stripes/rkgwgw/).
 
 Part of the [MacGregor](/tartans/m/ma/macgregor-5/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2453](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1975 — MacGregor Dress Green (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2453">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><br><em>From Dalgliesh. Possibly a Dalgleish Dancers' Fancy</em></li>
-<li>1975 — MacGregor - 1975 (Dance, Green) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6533">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><br><em>C.1975 from Dalgliesh. Possibly a Dalgleish Dancers' Fancy. Sept. 2009 - still being woven for dancers by D C Dalgliesh in K7 (11-12oz) 56" wide.</em></li>
+<li>1975 — MacGregor - 1975 (Dance, Green) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6533/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><br><em>C.1975 from Dalgliesh. Possibly a Dalgleish Dancers' Fancy. Sept. 2009 - still being woven for dancers by D C Dalgliesh in K7 (11-12oz) 56" wide.</em></li>
 </ul>
 </details>
 

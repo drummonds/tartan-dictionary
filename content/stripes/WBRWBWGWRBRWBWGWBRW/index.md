@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/">McDougall, Miss Anne (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><img src="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/sett.png" alt="McDougall, Miss Anne (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcdougall-miss-anne/">McDougall, Miss Anne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcdougall-miss-anne/"><img src="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/sett.png" alt="McDougall, Miss Anne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "MacQuarrie 1815"
   url: "/tartans/m/ma/macquarrie-1815/"
 - name: "MacQuarrie 1815"
-  url: "/setts/g1r2g1r26g1r1db14r1g21r1g1r2g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g1r2g1r26g1r1db14r1g21r1g1r2g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macquarrie-1815/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRBRGRGRG](/stripes/grgrgrbrgrgrg/).
 
 Part of the [MacQuarrie 1815](/tartans/m/ma/macquarrie-1815/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/">Arran - 1989 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><img src="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/sett.png" alt="Arran - 1989 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arran-2/">Arran</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arran-2/"><img src="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/sett.png" alt="Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

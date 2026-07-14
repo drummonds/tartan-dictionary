@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y15r7k12y12k12o12r7~x2/">Duffus, Lord</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y15r7k12y12k12o12r7~x2/"><img src="/variants/s7/y15r7k12y12k12o12r7~x2/sett.png" alt="Duffus, Lord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duffus-lord-2/">Duffus, Lord</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duffus-lord-2/"><img src="/variants/s7/y15r7k12y12k12o12r7~x2/sett.png" alt="Duffus, Lord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

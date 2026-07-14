@@ -8,10 +8,10 @@ crumbs:
 - name: "Brighton & Hove"
   url: "/tartans/b/br/brighton-hove/"
 - name: "Brighton & Hove"
-  url: "/setts/db16n8dy1n1w1n1lb6g3n1g3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16n8dy1n1w1n1lb6g3n1g3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brighton-hove/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBWBWGBGW](/stripes/bbgbwbwgbgw/).
 
 Part of the [Brighton & Hove](/tartans/b/br/brighton-hove/) tartan — the named design grouping this sett with its other cloths.

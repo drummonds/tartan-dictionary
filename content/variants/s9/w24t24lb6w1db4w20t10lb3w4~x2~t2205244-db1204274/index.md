@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Silver"
   url: "/tartans/s/si/silver/"
-- name: "Silver (Personal)"
-  url: "/setts/w24t24lb6w1db4w20t10lb3w4/"
+- name: "Silver Personal Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w24t24lb6w1db4w20t10lb3w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/silver/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWWBWBWW](/stripes/wbwwbwbww/).
 
 Part of the [Silver](/tartans/s/si/silver/) tartan — the named design grouping this sett with its other cloths.

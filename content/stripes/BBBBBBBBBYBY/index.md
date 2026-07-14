@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/">Lysaght</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/"><img src="/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/sett.png" alt="Lysaght sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ly/lysaght/">Lysaght</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ly/lysaght/"><img src="/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/sett.png" alt="Lysaght sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

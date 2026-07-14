@@ -8,10 +8,10 @@ crumbs:
 - name: "degli Uberti, Baron of Cartsburn"
   url: "/tartans/d/de/degli-uberti-baron-of-cartsburn/"
 - name: "degli Uberti, Baron of Cartsburn (Personal)"
-  url: "/setts/db8r1k6r1dy8r1k45dy1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8r1k6r1dy8r1k45dy1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/degli-uberti-baron-of-cartsburn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRGRKG](/stripes/brkrgrkg/).
 
 Part of the [degli Uberti, Baron of Cartsburn](/tartans/d/de/degli-uberti-baron-of-cartsburn/) tartan — the named design grouping this sett with its other cloths.

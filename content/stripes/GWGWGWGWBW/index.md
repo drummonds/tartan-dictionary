@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/">Spirit of Pakistan, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/"><img src="/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/sett.png" alt="Spirit of Pakistan, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-pakistan-the/">Spirit of Pakistan, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-pakistan-the/"><img src="/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/sett.png" alt="Spirit of Pakistan, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

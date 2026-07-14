@@ -8,10 +8,10 @@ crumbs:
 - name: "St Margaret's School for Girls, Aberdeen"
   url: "/tartans/s/st/st-margaret-s-school-for-girls-aberdeen/"
 - name: "St Margaret's School for Girls, Aberdeen"
-  url: "/setts/r6db3r3db54g6db3g6db4lb24dbi4lb4dbi50db6dbi4db12dy4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6db3r3db54g6db3g6db4lb24dbi4lb4dbi50db6dbi4db12dy4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-margaret-s-school-for-girls-aberdeen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBBWBWBGBGBRBR](/stripes/gbbbbwbwbgbgbrbr/).
 
 Part of the [St Margaret's School for Girls, Aberdeen](/tartans/s/st/st-margaret-s-school-for-girls-aberdeen/) tartan — the named design grouping this sett with its other cloths.

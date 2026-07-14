@@ -28,11 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/">Glenmorangie Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/"><img src="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/sett.png" alt="Glenmorangie Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lu/lugo/">Lugo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/lugo/"><img src="/variants/s3/r10dg4y1~x8/sett.png" alt="Lugo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-watch/">Scottish Watch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-watch/"><img src="/variants/s3/r104g39y4/sett.png" alt="Scottish Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/r104g39y4/">Scottish Watch General Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r104g39y4/"><img src="/variants/s3/r104g39y4/sett.png" alt="Scottish Watch General Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenmorangie-check/">Glenmorangie Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenmorangie-check/"><img src="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/sett.png" alt="Glenmorangie Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

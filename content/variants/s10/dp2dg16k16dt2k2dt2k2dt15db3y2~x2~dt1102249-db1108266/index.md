@@ -8,10 +8,10 @@ crumbs:
 - name: "Brydon"
   url: "/tartans/b/br/brydon/"
 - name: "Brydon (Scottish Borders)"
-  url: "/setts/dp2dg16k16dt2k2dt2k2dt15db3y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2dg16k16dt2k2dt2k2dt15db3y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brydon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBKBKBBG](/stripes/bgkbkbkbbg/).
 
 Part of the [Brydon](/tartans/b/br/brydon/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/">Ulster Scots (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/"><img src="/variants/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/sett.png" alt="Ulster Scots (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/ul/ulster-scots/">Ulster Scots</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/ul/ulster-scots/"><img src="/variants/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/sett.png" alt="Ulster Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

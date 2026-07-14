@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r1dy5g5w5y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwggr/">GWGGR</a></nav>
 Its design is pattern [GWGGR](/stripes/gwggr/) — the page of every tartan sharing this colour sequence.
 
 The **Eastern Townshippers** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Eastern Townshippers** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r1dy5g5w5y1/">Eastern Townshippers</a></td><td><code>R/8 DY40 G40 W40 Y/8</code></td><td>256</td><td>1968</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1dy5g5w5y1/"><img src="/variants/s5/r1dy5g5w5y1~x8/sett.png" alt="Eastern Townshippers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r1dy5g5w5y1~x8/">Eastern Townshippers</a></td><td><code>R/8 DY40 G40 W40 Y/8</code></td><td>256</td><td>1968</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r1dy5g5w5y1~x8/"><img src="/variants/s5/r1dy5g5w5y1~x8/sett.png" alt="Eastern Townshippers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/g9dy7w7r1~x4/"><circle cx="162.2" cy="268.6" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><a href="/variants/s7/ly8r3t2db1w6g12db2~x2/"><circle cx="132.7" cy="200.1" r="4" fill="#3465a4"><title>Carmen Lau</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.2" cy="228.9" r="4" fill="#3465a4"><title>ChuMac</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="109.0" cy="279.8" r="4" fill="#3465a4"><title>Clan Haggis World</title></circle></a><a href="/variants/s4/db8g8w4r1~x5/"><circle cx="176.7" cy="266.4" r="4" fill="#3465a4"><title>Farooq in Livingston</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="146.9" cy="225.9" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="217.9" cy="284.5" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="228.2" cy="287.7" r="4" fill="#3465a4"><title>Delroeux, John Michael</title></circle></a><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="221.9" cy="230.1" r="4" fill="#3465a4"><title>Alvis of Lee</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.1" cy="239.8" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><circle cx="90.9" cy="263.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/g9dy7w7r1~x4/"><circle cx="162.2" cy="268.4" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><a href="/variants/s7/ly8r3t2db1w6g12db2~x2/"><circle cx="132.7" cy="199.7" r="4" fill="#3465a4"><title>Carmen Lau</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.5" cy="228.8" r="4" fill="#3465a4"><title>ChuMac</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="108.8" cy="279.5" r="4" fill="#3465a4"><title>Clan Haggis World</title></circle></a><a href="/variants/s4/db8g8w4r1~x5/"><circle cx="176.8" cy="266.3" r="4" fill="#3465a4"><title>Farooq in Livingston</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="146.8" cy="225.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="218.0" cy="284.4" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="228.4" cy="287.6" r="4" fill="#3465a4"><title>Delroeux, John Michael</title></circle></a><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="222.0" cy="229.9" r="4" fill="#3465a4"><title>Alvis of Lee</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.0" cy="239.5" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><circle cx="90.8" cy="262.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

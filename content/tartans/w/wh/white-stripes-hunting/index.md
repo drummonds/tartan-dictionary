@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r2k1r2k14w1k1w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkrkwkw/">RKRKWKW</a></nav>
 Its design is pattern [RKRKWKW](/stripes/rkrkwkw/) — the page of every tartan sharing this colour sequence.
 
 The **White Stripes Hunting** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **White Stripes Hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2k1r2k14w1k1w1/">White Stripes Hunting</a></td><td><code>R/16 K8 R16 K112 W8 K8 W/8</code></td><td>328</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2k1r2k14w1k1w1/"><img src="/variants/s7/r2k1r2k14w1k1w1~x8/sett.png" alt="White Stripes Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2k1r2k14w1k1w1~x8/">White Stripes Hunting</a></td><td><code>R/16 K8 R16 K112 W8 K8 W/8</code></td><td>328</td><td>2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><img src="/variants/s7/r2k1r2k14w1k1w1~x8/sett.png" alt="White Stripes Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="474.8" cy="132.4" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="496.5" cy="137.0" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="471.2" cy="96.7" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="468.3" cy="66.7" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="397.5" cy="94.5" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="454.6" cy="94.7" r="4" fill="#3465a4"><title>Laird Abdullah</title></circle></a><a href="/variants/s6/k80r6g3r12k2w2~x2/"><circle cx="485.3" cy="59.8" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/"><circle cx="365.4" cy="122.1" r="4" fill="#3465a4"><title>Lougheed</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="438.5" cy="134.8" r="4" fill="#3465a4"><title>Sunderland of Scotland</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="372.0" cy="142.7" r="4" fill="#3465a4"><title>Holden</title></circle></a><circle cx="403.0" cy="109.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="476.4" cy="132.9" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="498.1" cy="137.6" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="472.8" cy="97.1" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="470.0" cy="67.1" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="398.9" cy="94.8" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="456.1" cy="95.1" r="4" fill="#3465a4"><title>Laird Abdullah</title></circle></a><a href="/variants/s6/k80r6g3r12k2w2~x2/"><circle cx="487.0" cy="60.2" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/"><circle cx="366.6" cy="122.2" r="4" fill="#3465a4"><title>Lougheed</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="439.9" cy="135.2" r="4" fill="#3465a4"><title>Sunderland of Scotland</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="373.2" cy="143.0" r="4" fill="#3465a4"><title>Holden</title></circle></a><circle cx="404.4" cy="110.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

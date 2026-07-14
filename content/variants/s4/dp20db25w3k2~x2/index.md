@@ -10,10 +10,10 @@ crumbs:
 - name: "Murdoch, Ellis"
   url: "/tartans/m/mu/murdoch-ellis/"
 - name: "Murdoch, Ellis (Personal)"
-  url: "/setts/dp20db25w3k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp20db25w3k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murdoch-ellis/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWK](/stripes/bbwk/).
 
 Part of the [Murdoch, Ellis](/tartans/m/mu/murdoch-ellis/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5368](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>06/08/2004 — Murdoch, Ellis (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5368">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8642AF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #8642AF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#28429F;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #28429F"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>A family tartan for the descendants of Ellis Murdoch and their spouses.</em></li>
-<li>pre 2007 — Murdoch, Ellis (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7386">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3838A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #3838A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>A personal family tartan for Andrew C. Murdoch from Richmond, British Columbia and all the descendents of Ellis Murdock and their families.</em></li>
+<li>pre 2007 — Murdoch, Ellis (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7386/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3838A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #3838A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>A personal family tartan for Andrew C. Murdoch from Richmond, British Columbia and all the descendents of Ellis Murdock and their families.</em></li>
 </ul>
 </details>
 

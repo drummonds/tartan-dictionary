@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y4k28r2db22b8db3~x2/">Loch Long One Design</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y4k28r2db22b8db3~x2/"><img src="/variants/s6/y4k28r2db22b8db3~x2/sett.png" alt="Loch Long One Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-long-one-design/">Loch Long One Design</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-long-one-design/"><img src="/variants/s6/y4k28r2db22b8db3~x2/sett.png" alt="Loch Long One Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

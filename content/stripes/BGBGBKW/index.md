@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db3g6db2y3db42k6w3~x2/">Bro-sant-Brieg</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3g6db2y3db42k6w3~x2/"><img src="/variants/s7/db3g6db2y3db42k6w3~x2/sett.png" alt="Bro-sant-Brieg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db8y2db8g7db57k3lb1~x2/">Cullen (Christian Hill) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db8y2db8g7db57k3lb1~x2/"><img src="/variants/s7/db8y2db8g7db57k3lb1~x2/sett.png" alt="Cullen (Christian Hill) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bro-sant-brieg/">Bro-sant-Brieg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bro-sant-brieg/"><img src="/variants/s7/db3g6db2y3db42k6w3~x2/sett.png" alt="Bro-sant-Brieg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cullen/">Cullen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cullen/"><img src="/variants/s7/db8y2db8g7db57k3lb1~x2/sett.png" alt="Cullen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

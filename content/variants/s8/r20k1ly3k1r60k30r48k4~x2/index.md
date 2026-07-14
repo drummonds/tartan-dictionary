@@ -8,10 +8,10 @@ crumbs:
 - name: "Barkwell"
   url: "/tartans/b/ba/barkwell/"
 - name: "Barkwell (Personal)"
-  url: "/setts/r20k1ly3k1r60k30r48k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r20k1ly3k1r60k30r48k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barkwell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKYKR](/stripes/krkrkykr/).
 
 Part of the [Barkwell](/tartans/b/ba/barkwell/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=217](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/1982 — Barkwell (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=217">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCCC00"></span><br><em>Originally designed and named 'Oilmens' for the 33rd Oilmens' Golf Tournament, the designer subsequently requested that it be renamed 'Barkwell'.</em></li>
-<li>pre 2002 — Barkwell (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2044">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCCC00"></span><br><em>Asymmetric. This is an asymmetric design by Don Barkwell and originally named the "The Oilmans' 33rd Tournament" The name was later changed to Barkwell. The colour strip should be ignored for this entry since it shows the tartan as symmetrical.</em></li>
+<li>pre 2002 — Barkwell (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2044/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCCC00"></span><br><em>Asymmetric. This is an asymmetric design by Don Barkwell and originally named the "The Oilmans' 33rd Tournament" The name was later changed to Barkwell. The colour strip should be ignored for this entry since it shows the tartan as symmetrical.</em></li>
 </ul>
 </details>
 

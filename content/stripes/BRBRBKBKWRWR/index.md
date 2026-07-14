@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/">Ross Purple Dress Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/"><img src="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/sett.png" alt="Ross Purple Dress Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-purple-dress/">Ross Purple Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-purple-dress/"><img src="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/sett.png" alt="Ross Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

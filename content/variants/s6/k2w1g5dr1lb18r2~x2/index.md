@@ -12,10 +12,10 @@ crumbs:
 - name: "Norris"
   url: "/tartans/n/no/norris/"
 - name: "Norris (1998)"
-  url: "/setts/k2w1g5dr1lb18r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2w1g5dr1lb18r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/norris/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGBWR](/stripes/kwgbwr/).
 
 Part of the [Norris](/tartans/n/no/norris/) tartan — the named design grouping this sett with its other cloths.

@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/outlander/"
 - name: "Outlander"
   url: "/families/outlander/"
+aliases:
+- "/setts/o14n7ly7n2/"
+- "/setts/o52lyi2n24r3ly26n4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bybr/">BYBR</a></nav>
 A tartan of the [Outlander](/families/outlander/) family.
 Its design is pattern [BYBR](/stripes/bybr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Outlander** tartan groups 2 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/o14n7ly7n2/">Outlander</a> ★</td><td><code>O/112 N56 LY56 N/16</code></td><td>352</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/o14n7ly7n2/"><img src="/variants/s4/o14n7ly7n2~x8~o2500000-n1900000/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/o52lyi2n24r3ly26n4/">#1</a></td><td><code>O/104 LYi4 N48 R6 LY52 N/8</code></td><td>—</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/o52lyi2n24r3ly26n4/"><img src="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/sett.png" alt="#1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/o14n7ly7n2~x8~o2500000-n1900000/">Outlander</a> ★</td><td><code>O/112 N56 LY56 N/16</code></td><td>352</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/o14n7ly7n2~x8~o2500000-n1900000/"><img src="/variants/s4/o14n7ly7n2~x8~o2500000-n1900000/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/">#1</a></td><td><code>O/52 LYi2 N24 R3 LY26 N/4</code></td><td>—</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/"><img src="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/sett.png" alt="#1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -41,6 +45,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><circle cx="295.6" cy="303.7" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="496.3" cy="273.4" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/"><circle cx="324.6" cy="264.2" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="303.4" cy="307.6" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/variants/s7/r3n20y2n20o20lb20r3~x2~n1900000-o2500000/"><circle cx="292.1" cy="254.8" r="4" fill="#3465a4"><title>Brodie Silver</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="324.7" cy="300.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s6/g4o25g6lb12g12lb3~x2/"><circle cx="300.3" cy="283.3" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s4/dy5dt32dy32w5~x2/"><circle cx="396.7" cy="322.2" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><circle cx="357.2" cy="337.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><circle cx="295.7" cy="303.7" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="496.7" cy="273.8" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/"><circle cx="324.7" cy="264.3" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="303.4" cy="307.7" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/variants/s7/r3n20y2n20o20lb20r3~x2~n1900000-o2500000/"><circle cx="292.2" cy="254.8" r="4" fill="#3465a4"><title>Brodie Silver</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="324.9" cy="300.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s6/g4o25g6lb12g12lb3~x2/"><circle cx="300.3" cy="283.4" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s4/dy5dt32dy32w5~x2/"><circle cx="396.9" cy="322.5" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><circle cx="357.2" cy="338.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

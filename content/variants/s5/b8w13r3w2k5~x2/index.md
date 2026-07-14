@@ -12,10 +12,10 @@ crumbs:
 - name: "Boswell Dress"
   url: "/tartans/b/bo/boswell-dress/"
 - name: "Boswell Dress (Personal)"
-  url: "/setts/b8w13r3w2k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b8w13r3w2k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/boswell-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWK](/stripes/bwrwk/).
 
 Part of the [Boswell Dress](/tartans/b/bo/boswell-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=318](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/08/2004 — Boswell Dress (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=318">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by House of Tartan and woven by Elliots of Selkirk. Colours from Colonel W P Boswell of Toberchurn's Arms as recorded in Lyon Register V.74. P 61. The Boswell family from Maryland now owns Balmuto in Fife.</em></li>
-<li>Aug 2004 — Boswell Dress Check (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6359">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>House of Tartan. Woven by Elliots of Selkirk. Sample. Colours are from W P Boswell's coat of arms in Lyon Register V.74. P 61. The Boswell family from Pennsylvania now owns Balmuto in Fife</em></li>
+<li>Aug 2004 — Boswell Dress Check (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6359/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>House of Tartan. Woven by Elliots of Selkirk. Sample. Colours are from W P Boswell's coat of arms in Lyon Register V.74. P 61. The Boswell family from Pennsylvania now owns Balmuto in Fife</em></li>
 </ul>
 </details>
 

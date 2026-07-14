@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/">Stewart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/"><img src="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/">Stuart-Forbes of Fettercairn and Pitsligo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/"><img src="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/sett.png" alt="Stuart-Forbes of Fettercairn and Pitsligo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-13/">Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-13/"><img src="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stuart-forbes-of-fettercairn-and-pitsligo-2/">Stuart-Forbes of Fettercairn and Pitsligo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stuart-forbes-of-fettercairn-and-pitsligo-2/"><img src="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/sett.png" alt="Stuart-Forbes of Fettercairn and Pitsligo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

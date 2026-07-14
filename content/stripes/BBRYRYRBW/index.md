@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dp4n10r18ly3r3ly5ri8n9w4/">Khosla, Sarah and Jatin (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dp4n10r18ly3r3ly5ri8n9w4/"><img src="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2806019/sett.png" alt="Khosla, Sarah and Jatin (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/kh/khosla-sarah-and-justin/">Khosla, Sarah and Justin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kh/khosla-sarah-and-justin/"><img src="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2806019/sett.png" alt="Khosla, Sarah and Justin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

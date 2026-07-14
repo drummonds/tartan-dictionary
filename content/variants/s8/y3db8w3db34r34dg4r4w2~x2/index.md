@@ -10,10 +10,10 @@ crumbs:
 - name: "Manitoba Masonic"
   url: "/tartans/m/ma/manitoba-masonic/"
 - name: "Manitoba Masonic"
-  url: "/setts/y3db8w3db34r34dg4r4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3db8w3db34r34dg4r4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/manitoba-masonic/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBRGRW](/stripes/gbwbrgrw/).
 
 Part of the [Manitoba Masonic](/tartans/m/ma/manitoba-masonic/) tartan — the named design grouping this sett with its other cloths.

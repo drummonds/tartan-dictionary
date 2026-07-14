@@ -8,10 +8,10 @@ crumbs:
 - name: "Reuben J Jolley"
   url: "/tartans/r/re/reuben-j-jolley/"
 - name: "Reuben J Jolley Family (Personal)"
-  url: "/setts/lg4n2dg24dy10w12r1w12dg2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lg4n2dg24dy10w12r1w12dg2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/reuben-j-jolley/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRWGGBY](/stripes/gwrwggby/).
 
 Part of the [Reuben J Jolley](/tartans/r/re/reuben-j-jolley/) tartan — the named design grouping this sett with its other cloths.

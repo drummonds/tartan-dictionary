@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ly8lt24db21g18y4lb3dy2lo1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ygwggbwy/">YGWGGBWY</a></nav>
 Its design is pattern [YGWGGBWY](/stripes/ygwggbwy/) — the page of every tartan sharing this colour sequence.
 
 The **Philpotts, Brian** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Philpotts, Brian** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly8lt24db21g18y4lb3dy2lo1/">Philpotts, Brian</a></td><td><code>LY/16 LT48 DB42 G36 Y8 LB6 DY4 LO/2</code></td><td>306</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly8lt24db21g18y4lb3dy2lo1/"><img src="/variants/s8/ly8lt24db21g18y4lb3dy2lo1~x2~lt3606199-lb3300000/sett.png" alt="Philpotts, Brian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly8lt24db21g18y4lb3dy2lo1~x2~lt3606199-lb3300000/">Philpotts, Brian</a></td><td><code>LY/16 LT48 DB42 G36 Y8 LB6 DY4 LO/2</code></td><td>306</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly8lt24db21g18y4lb3dy2lo1~x2~lt3606199-lb3300000/"><img src="/variants/s8/ly8lt24db21g18y4lb3dy2lo1~x2~lt3606199-lb3300000/sett.png" alt="Philpotts, Brian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/"><circle cx="201.0" cy="176.5" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.1" cy="185.9" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><circle cx="221.5" cy="163.9" r="4" fill="#3465a4"><title>Lachance</title></circle></a><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><circle cx="210.4" cy="138.9" r="4" fill="#3465a4"><title>Manx National</title></circle></a><circle cx="102.0" cy="148.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/"><circle cx="201.2" cy="176.3" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.1" cy="185.4" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><circle cx="221.6" cy="163.6" r="4" fill="#3465a4"><title>Lachance</title></circle></a><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><circle cx="210.8" cy="138.6" r="4" fill="#3465a4"><title>Manx National</title></circle></a><circle cx="101.9" cy="147.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

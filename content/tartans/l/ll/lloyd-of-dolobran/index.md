@@ -8,9 +8,13 @@ crumbs:
   url: "/clan/lloyd/"
 - name: "Lloyd of Dolobran"
   url: "/families/lloyd-of-dolobran/"
+aliases:
+- "/setts/k10g4w1g4k1g4r1g4k5db5k1db5/"
+- "/setts/k5g4w1g4k1g4r1g4k5db5k1db5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkgrgkgwgk/">BKBKGRGKGWGK</a></nav>
 A tartan of the [Lloyd of Dolobran](/families/lloyd-of-dolobran/) family.
-Its design is pattern [BKBKGRGKGWGKGWGKGRGKBK](/stripes/bkbkgrgkgwgkgwgkgrgkbk/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [BKBKGRGKGWGK](/stripes/bkbkgrgkgwgk/) — the page of every tartan sharing this colour sequence.
 
 Welsh family tartan from the MacGregor-Hastie collection, dating circa 1930–1950.
 
@@ -20,10 +24,10 @@ The **Lloyd of Dolobran** tartan groups 2 setts — the same named design record
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k10g4w1g4k1g4r1g4k5db5k1db5/">Lloyd of Dolobran</a> ★</td><td><code>DB/20 K4 DB20 K20 G16 R4 G16 K4 G16 W4 G16 K40 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K/4</code></td><td>300</td><td>1950</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k10g4w1g4k1g4r1g4k5db5k1db5/"><img src="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png" alt="Lloyd of Dolobran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k5g4w1g4k1g4r1g4k5db5k1db5/">Family Tartan</a></td><td><code>K/20 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K4 DB/20</code></td><td>280</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k5g4w1g4k1g4r1g4k5db5k1db5/"><img src="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/">Lloyd of Dolobran</a> ★</td><td><code>K/40 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K4 DB/20</code></td><td>300</td><td>1950</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/"><img src="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png" alt="Lloyd of Dolobran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/">Family Tartan</a></td><td><code>K/20 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K4 DB/20</code></td><td>280</td><td>1930</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><img src="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -42,6 +46,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/k21g21r4g21k21g21y4g21k21db21k3db21~x2/"><circle cx="108.8" cy="209.2" r="4" fill="#3465a4"><title>Rollo</title></circle></a><a href="/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/"><circle cx="108.5" cy="174.7" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><circle cx="126.3" cy="169.7" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="117.6" cy="174.3" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/variants/s13/y3k1g10k7db10g2db2g2db10k7g10k1lb3~x2/"><circle cx="110.4" cy="168.7" r="4" fill="#3465a4"><title>Doon Valley Crafters</title></circle></a><a href="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/"><circle cx="105.5" cy="196.7" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/variants/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="98.7" cy="186.0" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="95.1" cy="174.9" r="4" fill="#3465a4"><title>Hunter of Peebleshire</title></circle></a><a href="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/"><circle cx="105.1" cy="187.5" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="112.2" cy="163.0" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><circle cx="120.5" cy="168.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/k21g21r4g21k21g21y4g21k21db21k3db21~x2/"><circle cx="109.0" cy="209.0" r="4" fill="#3465a4"><title>Rollo</title></circle></a><a href="/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/"><circle cx="108.8" cy="174.4" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><circle cx="126.6" cy="169.5" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="117.8" cy="174.1" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/variants/s13/y3k1g10k7db10g2db2g2db10k7g10k1lb3~x2/"><circle cx="110.7" cy="168.5" r="4" fill="#3465a4"><title>Doon Valley Crafters</title></circle></a><a href="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/"><circle cx="105.7" cy="196.5" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/variants/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="99.0" cy="185.7" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="95.4" cy="174.6" r="4" fill="#3465a4"><title>Hunter of Peebleshire</title></circle></a><a href="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/"><circle cx="105.4" cy="187.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="112.5" cy="162.8" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><circle cx="120.9" cy="168.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

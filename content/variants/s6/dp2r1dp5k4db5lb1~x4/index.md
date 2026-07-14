@@ -8,15 +8,15 @@ crumbs:
 - name: "Kintore"
   url: "/tartans/k/ki/kintore/"
 - name: "Kintore"
-  url: "/setts/dp2r1dp5k4db5lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2r1dp5k4db5lb1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBKBWBKBR](/stripes/brbkbwbkbr/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kintore/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBKBW](/stripes/brbkbw/).
 
 Part of the [Kintore](/tartans/k/ki/kintore/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2000](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2000)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2000](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1988 — Kintore (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2000">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><br><em>Spean Bridge, Pitlochry, 1988.</em></li>
-<li>1988 — Kintore (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5364">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><br><em>Spean Bridge, Pitlochry 1988# 3308,3309,3310, and 3311 are color modifications of each other.</em></li>
+<li>1988 — Kintore (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5364/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><br><em>Spean Bridge, Pitlochry 1988# 3308,3309,3310, and 3311 are color modifications of each other.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5364
 
 ## Thread count
-DP/8 R4 DP20 K16 DB20 LB4 DB20 K16 DP20 R/4
+DP/8 R4 DP20 K16 DB20 LB/4
 
-One full sett is **252 threads**.
+One full sett is **132 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/8 R4 DP20 K16 DB20 LB4 DB20 K16 DP20 R/4 — 252 threads; it folds to the canonical 132-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **252 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/8 R4 DP20 K16 DB20 LB4 DB20 K16 DP20 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/8 R4 DP20 K16 DB20 LB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

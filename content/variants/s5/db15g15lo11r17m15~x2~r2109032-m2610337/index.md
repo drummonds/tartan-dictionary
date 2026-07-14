@@ -10,10 +10,10 @@ crumbs:
 - name: "Highland Princess, The"
   url: "/tartans/h/hi/highland-princess-the/"
 - name: "Highland Princess, The"
-  url: "/setts/db15g15lo11r17m15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db15g15lo11r17m15/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highland-princess-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYRR](/stripes/bgyrr/).
 
 Part of the [Highland Princess, The](/tartans/h/hi/highland-princess-the/) tartan — the named design grouping this sett with its other cloths.

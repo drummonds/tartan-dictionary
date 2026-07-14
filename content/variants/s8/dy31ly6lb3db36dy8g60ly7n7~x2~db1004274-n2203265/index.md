@@ -8,10 +8,10 @@ crumbs:
 - name: "Little-Dowse Wedding"
   url: "/tartans/l/li/little-dowse-wedding/"
 - name: "Little-Dowse Wedding"
-  url: "/setts/dy31ly6lb3db36dy8g60ly7n7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy31ly6lb3db36dy8g60ly7n7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/little-dowse-wedding/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGGBWYG](/stripes/byggbwyg/).
 
 Part of the [Little-Dowse Wedding](/tartans/l/li/little-dowse-wedding/) tartan — the named design grouping this sett with its other cloths.

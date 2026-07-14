@@ -10,10 +10,10 @@ crumbs:
 - name: "Thompson Variant"
   url: "/tartans/t/th/thompson-variant/"
 - name: "Thompson Variant"
-  url: "/setts/r1k1lb2k2lb2k1lb4k1db9lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1k1lb2k2lb2k1lb4k1db9lo1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thompson-variant/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKWKWKBY](/stripes/rkwkwkwkby/).
 
 Part of the [Thompson Variant](/tartans/t/th/thompson-variant/) tartan — the named design grouping this sett with its other cloths.

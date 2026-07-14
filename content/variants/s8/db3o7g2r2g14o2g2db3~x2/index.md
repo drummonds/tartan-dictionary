@@ -10,10 +10,10 @@ crumbs:
 - name: "Daks, Tartan-Loden"
   url: "/tartans/d/da/daks-tartan-loden/"
 - name: "Daks, Tartan-Loden"
-  url: "/setts/db3o7g2r2g14o2g2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3o7g2r2g14o2g2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/daks-tartan-loden/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGRGRB](/stripes/bgrgrgrb/).
 
 Part of the [Daks, Tartan-Loden](/tartans/d/da/daks-tartan-loden/) tartan — the named design grouping this sett with its other cloths.

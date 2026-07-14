@@ -12,10 +12,10 @@ crumbs:
 - name: "Lochnagar Dress"
   url: "/tartans/l/lo/lochnagar-dress/"
 - name: "Lochnagar Dress fashion Tartan"
-  url: "/setts/w8k1w40dp1k16db16w6db3dp3db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w8k1w40dp1k16db16w6db3dp3db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lochnagar-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBKBWKW](/stripes/bbbwbkbwkw/).
 
 Part of the [Lochnagar Dress](/tartans/l/lo/lochnagar-dress/) tartan — the named design grouping this sett with its other cloths.

@@ -8,22 +8,22 @@ crumbs:
 - name: "SOBHD"
   url: "/tartans/s/so/sobhd/"
 - name: "S.O.B.H.D. (Corporate)"
-  url: "/setts/r3w30b10k3dp15g2dp3g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3w30b10k3dp15g2dp3g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/sobhd/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKBWR](/stripes/gbgbkbwr/).
 
 Part of the [SOBHD](/tartans/s/so/sobhd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7833](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7833)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7833/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7833/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2008 — S.O.B.H.D. (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7833">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E4CC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E4CC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C3C98;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #2C3C98"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#640064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #640064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#208414;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #208414"></span><br><em>For the Scottish Official Board of Highland Dancing. Colours chosen by the SOBHD Board and design and weaving executed by D C Dalgliesh of Selkirk.</em></li>
+<li>pre 2008 — S.O.B.H.D. (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7833/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E4CC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E4CC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C3C98;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #2C3C98"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#640064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #640064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#208414;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #208414"></span><br><em>For the Scottish Official Board of Highland Dancing. Colours chosen by the SOBHD Board and design and weaving executed by D C Dalgliesh of Selkirk.</em></li>
 <li>undated — SOBHD (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5786">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C3C98;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #2C3C98"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#640064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #640064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#208414;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #208414"></span><br><em>For the Scottish Official Board of Highland Dancing.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7833](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/">Baronage</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/"><img src="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/sett.png" alt="Baronage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/">Convention of the Baronage (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/"><img src="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/sett.png" alt="Convention of the Baronage (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baronage/">Baronage</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baronage/"><img src="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/sett.png" alt="Baronage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/convention-of-the-baronage/">Convention of the Baronage</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/convention-of-the-baronage/"><img src="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/sett.png" alt="Convention of the Baronage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Burns, Virginia"
   url: "/tartans/b/bu/burns-virginia-2/"
 - name: "Burns, Virginia (Personal)"
-  url: "/setts/dp12db12dp24db12dp12k5r2k5r2dp4k2db3k2db3k2dp4k5r2k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp12db12dp24db12dp12k5r2k5r2dp4k2db3k2db3k2dp4k5r2k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/burns-virginia-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBKRKRBKBKBKBKRK](/stripes/bbbbbkrkrbkbkbkbkrk/).
 
 Part of the [Burns, Virginia](/tartans/b/bu/burns-virginia-2/) tartan — the named design grouping this sett with its other cloths.

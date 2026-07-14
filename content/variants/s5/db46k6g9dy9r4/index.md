@@ -8,10 +8,10 @@ crumbs:
 - name: "Ayllu Thuban"
   url: "/tartans/a/ay/ayllu-thuban-2/"
 - name: "Ayllu Thuban"
-  url: "/setts/db46k6g9dy9r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db46k6g9dy9r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ay/ayllu-thuban-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGR](/stripes/bkggr/).
 
 Part of the [Ayllu Thuban](/tartans/a/ay/ayllu-thuban-2/) tartan — the named design grouping this sett with its other cloths.

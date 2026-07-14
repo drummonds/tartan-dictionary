@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/ayrshire/"
 - name: "Ayrshire"
   url: "/families/ayrshire/"
+aliases:
+- "/setts/dp11db2lb4db21k16g19y4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbwbkgg/">BBWBKGG</a></nav>
 A tartan of the [Ayrshire](/families/ayrshire/) family.
 Its design is pattern [BBWBKGG](/stripes/bbwbkgg/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **Ayrshire** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp11db2lb4db21k16g19y4/">Ayrshire</a></td><td><code>DP/22 DB4 LB8 DB42 K32 G38 Y/8</code></td><td>278</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp11db2lb4db21k16g19y4/"><img src="/variants/s7/dp11db2lb4db21k16g19y4~x2/sett.png" alt="Ayrshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp11db2lb4db21k16g19y4~x2/">Ayrshire</a></td><td><code>DP/22 DB4 LB8 DB42 K32 G38 Y/8</code></td><td>278</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp11db2lb4db21k16g19y4~x2/"><img src="/variants/s7/dp11db2lb4db21k16g19y4~x2/sett.png" alt="Ayrshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -33,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="143.5" cy="162.8" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="103.0" cy="222.1" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="102.8" cy="211.9" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="107.6" cy="165.4" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/"><circle cx="109.2" cy="172.8" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="81.6" cy="215.3" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s7/db2dy3db16k18g18k2r2~x2/"><circle cx="130.3" cy="179.4" r="4" fill="#3465a4"><title>McEwan '1856', The</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="116.7" cy="193.9" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s6/dg10k1db13k3w9y3~x2/"><circle cx="102.4" cy="184.8" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s6/k4w1g13k11db11lb3~x4/"><circle cx="123.1" cy="189.5" r="4" fill="#3465a4"><title>New York Fire Department Pipe Band</title></circle></a><circle cx="77.9" cy="186.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="143.9" cy="162.5" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="103.2" cy="221.8" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="103.0" cy="211.6" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="107.9" cy="165.1" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/"><circle cx="109.5" cy="172.5" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="81.6" cy="215.0" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s7/db2dy3db16k18g18k2r2~x2/"><circle cx="130.6" cy="179.2" r="4" fill="#3465a4"><title>McEwan '1856', The</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="117.0" cy="193.7" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s6/dg10k1db13k3w9y3~x2/"><circle cx="102.7" cy="184.5" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s6/k4w1g13k11db11lb3~x4/"><circle cx="123.4" cy="189.3" r="4" fill="#3465a4"><title>New York Fire Department Pipe Band</title></circle></a><circle cx="78.0" cy="186.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

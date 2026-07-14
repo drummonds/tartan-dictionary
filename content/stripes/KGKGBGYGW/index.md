@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k3dg14k8dg8dr3dg4lo3dg24w3~x2/">MacStumer Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k3dg14k8dg8dr3dg4lo3dg24w3~x2/"><img src="/variants/s9/k3dg14k8dg8dr3dg4lo3dg24w3~x2/sett.png" alt="MacStumer Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macstumer-hunting/">MacStumer Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macstumer-hunting/"><img src="/variants/s9/k3dg14k8dg8dr3dg4lo3dg24w3~x2/sett.png" alt="MacStumer Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

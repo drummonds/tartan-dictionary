@@ -8,10 +8,10 @@ crumbs:
 - name: "Chambers, Christopher J"
   url: "/tartans/c/ch/chambers-christopher-j/"
 - name: "Chambers, Christopher J (Personal)"
-  url: "/setts/b16r1g16w1dy1w8dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b16r1g16w1dy1w8dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chambers-christopher-j/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGWGWB](/stripes/brgwgwb/).
 
 Part of the [Chambers, Christopher J](/tartans/c/ch/chambers-christopher-j/) tartan — the named design grouping this sett with its other cloths.

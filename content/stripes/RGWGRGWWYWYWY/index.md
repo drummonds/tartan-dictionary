@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/">Pille Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/"><img src="/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/sett.png" alt="Pille Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pille/">Pille</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pille/"><img src="/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/sett.png" alt="Pille sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

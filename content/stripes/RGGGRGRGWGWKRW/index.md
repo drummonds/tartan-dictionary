@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/">Hay, White Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/"><img src="/variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/sett.png" alt="Hay, White Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hay-white-dress/">Hay, White Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-white-dress/"><img src="/variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/sett.png" alt="Hay, White Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

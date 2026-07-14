@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/">New York State Troopers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><img src="/variants/s7/n6dp4n2w2n25k26y4~x2/sett.png" alt="New York State Troopers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-york-state-troopers/">New York State Troopers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-york-state-troopers/"><img src="/variants/s7/n6dp4n2w2n25k26y4~x2/sett.png" alt="New York State Troopers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

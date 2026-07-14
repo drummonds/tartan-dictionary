@@ -8,10 +8,10 @@ crumbs:
 - name: "Esteba-Quer"
   url: "/tartans/e/es/esteba-quer/"
 - name: "Esteba-Quer (Personal)"
-  url: "/setts/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/es/esteba-quer/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYKBBKYGBGBG](/stripes/bybykbbkygbgbg/).
 
 Part of the [Esteba-Quer](/tartans/e/es/esteba-quer/) tartan — the named design grouping this sett with its other cloths.

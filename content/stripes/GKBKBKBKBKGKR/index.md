@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/">Gold-Smith (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/"><img src="/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/sett.png" alt="Gold-Smith (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gold-smith/">Gold-Smith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gold-smith/"><img src="/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/sett.png" alt="Gold-Smith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

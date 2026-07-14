@@ -9,23 +9,23 @@ crumbs:
   url: "/clan/forbes/"
 - name: "Forbes LC"
   url: "/tartans/f/fo/forbes-lc/"
-- name: "Forbes LC"
-  url: "/setts/db1k6db6k6g6k1w1/"
+- name: "Forbes - 1947 (Lyon Court)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1k6db6k6g6k1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/forbes-lc/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKW](/stripes/bkbkgkw/).
 
 Part of the [Forbes LC](/tartans/f/fo/forbes-lc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=212](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=212)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/212/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/212/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1831 — Forbes - 1947 (Lyon Court) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=212">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Although this is not the version used by weavers it is the Official Forbes (Ancient) as recorded in Lord Lyon's Register of All Arms and Bearings in Scotland. (PRA 37/124) 2nd December 1949. Lyon count: B2 K12 B12 K12 G12 K2 W2. STS notes: Lord Lyon includes the word 'Ancient' in register entry. The Clan Forbes is said to originate from one Ochonochar, who slew a bear to gain possession of the Braes of Forbes in Aberdeenshire. The charter for the land was granted later in 1271.</em></li>
+<li>1831 — Forbes - 1947 (Lyon Court) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/212/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Although this is not the version used by weavers it is the Official Forbes (Ancient) as recorded in Lord Lyon's Register of All Arms and Bearings in Scotland. (PRA 37/124) 2nd December 1949. Lyon count: B2 K12 B12 K12 G12 K2 W2. STS notes: Lord Lyon includes the word 'Ancient' in register entry. The Clan Forbes is said to originate from one Ochonochar, who slew a bear to gain possession of the Braes of Forbes in Aberdeenshire. The charter for the land was granted later in 1271.</em></li>
 <li>01/01/1949 — Forbes, Ancient (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1225">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Although this is not the version used by weavers it is the Official Forbes (Ancient) as recorded in Lord Lyon's Register of All Arms and Bearings in Scotland. (PRA 37/124) 2nd December 1949. Lyon count: B2 K12 B12 K12 G12 K2 W2. Scottish Tartans Society notes: Lord Lyon includes the word 'Ancient' in register entry. The Clan Forbes is said to originate from one Ochonochar, who slew a bear to gain possession of the Braes of Forbes in Aberdeenshire. The charter for the land was granted later in 1271.</em></li>
 </ul>
 </details>
@@ -40,7 +40,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=212](htt
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

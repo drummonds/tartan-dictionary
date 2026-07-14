@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Thomas"
   url: "/clan/thomas/"
+aliases:
+- "/setts/k7r5w3db2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwrk/">BWRK</a></nav>
 A tartan of [Clan Thomas](/clan/thomas/).
 Its design is pattern [BWRK](/stripes/bwrk/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Thomas Newcomen's Combustion Engine** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k7r5w3db2/">Thomas Newcomen's Combustion Engine</a></td><td><code>K/28 R20 W12 DB/8</code></td><td>100</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k7r5w3db2/"><img src="/variants/s4/k7r5w3db2~x4/sett.png" alt="Thomas Newcomen's Combustion Engine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k7r5w3db2~x4/">Thomas Newcomen's Combustion Engine</a></td><td><code>K/28 R20 W12 DB/8</code></td><td>100</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k7r5w3db2~x4/"><img src="/variants/s4/k7r5w3db2~x4/sett.png" alt="Thomas Newcomen's Combustion Engine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="134.3" cy="240.0" r="4" fill="#3465a4"><title>Raven</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="101.8" cy="269.7" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="143.9" cy="184.4" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="140.6" cy="187.4" r="4" fill="#3465a4"><title>Baillie of Polkemmet</title></circle></a><a href="/variants/s4/r25k13w8db5~x2/"><circle cx="172.0" cy="230.5" r="4" fill="#3465a4"><title>Hamby Sport</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="92.0" cy="234.0" r="4" fill="#3465a4"><title>Heidrick</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="190.2" cy="239.9" r="4" fill="#3465a4"><title>Thompson, Dress</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="203.3" cy="228.7" r="4" fill="#3465a4"><title>Mayer, Chris</title></circle></a><a href="/variants/s4/r5n32k31w5/"><circle cx="198.8" cy="223.1" r="4" fill="#3465a4"><title>Loganair Uniform Skirt</title></circle></a><a href="/variants/s4/dr5n32k31w5~x2/"><circle cx="202.4" cy="225.7" r="4" fill="#3465a4"><title>Loganair</title></circle></a><circle cx="105.6" cy="266.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="134.7" cy="239.8" r="4" fill="#3465a4"><title>Raven</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="102.0" cy="269.5" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="144.3" cy="184.1" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="141.0" cy="187.1" r="4" fill="#3465a4"><title>Baillie of Polkemmet</title></circle></a><a href="/variants/s4/r25k13w8db5~x2/"><circle cx="172.4" cy="230.3" r="4" fill="#3465a4"><title>Hamby Sport</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="92.2" cy="233.7" r="4" fill="#3465a4"><title>Heidrick</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="190.6" cy="239.9" r="4" fill="#3465a4"><title>Thompson, Dress</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="203.8" cy="228.6" r="4" fill="#3465a4"><title>Mayer, Chris</title></circle></a><a href="/variants/s4/r5n32k31w5/"><circle cx="199.3" cy="223.1" r="4" fill="#3465a4"><title>Loganair Uniform Skirt</title></circle></a><a href="/variants/s4/dr5n32k31w5~x2/"><circle cx="202.9" cy="225.7" r="4" fill="#3465a4"><title>Loganair</title></circle></a><circle cx="105.9" cy="266.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

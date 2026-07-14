@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4r4k20r1k20w4~x6/">Lanoir</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4r4k20r1k20w4~x6/"><img src="/variants/s6/k4r4k20r1k20w4~x6/sett.png" alt="Lanoir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lanoir/">Lanoir</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lanoir/"><img src="/variants/s6/k4r4k20r1k20w4~x6/sett.png" alt="Lanoir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

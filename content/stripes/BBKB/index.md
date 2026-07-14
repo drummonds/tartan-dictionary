@@ -28,12 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db8dr1k1n1~x10/">Kucher, Gregory</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db8dr1k1n1~x10/"><img src="/variants/s4/db8dr1k1n1~x10/sett.png" alt="Kucher, Gregory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/n10k2db2dp1~x5/">Lord Willy's (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/n10k2db2dp1~x5/"><img src="/variants/s4/n10k2db2dp1~x5/sett.png" alt="Lord Willy's (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/n25k5db5dp3~x2/">Lord Willy's (New York)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/n25k5db5dp3~x2/"><img src="/variants/s4/n25k5db5dp3~x2/sett.png" alt="Lord Willy's (New York) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lord-willy-s/">Lord Willy's</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lord-willy-s/"><img src="/variants/s4/n25k5db5dp3~x2/sett.png" alt="Lord Willy's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

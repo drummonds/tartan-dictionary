@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/ly5db5k3~x4/">Kazakhstan Relic (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/ly5db5k3~x4/"><img src="/variants/s3/ly5db5k3~x4/sett.png" alt="Kazakhstan Relic (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k62t33ly1~x2/">Westwater (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k62t33ly1~x2/"><img src="/variants/s3/k62t33ly1~x2/sett.png" alt="Westwater (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ka/kazakhstan-relic/">Kazakhstan Relic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/kazakhstan-relic/"><img src="/variants/s3/ly5db5k3~x4/sett.png" alt="Kazakhstan Relic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westwater/">Westwater</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westwater/"><img src="/variants/s3/k62t33ly1~x2/sett.png" alt="Westwater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

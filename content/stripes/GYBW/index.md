@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/w80db30lo5y4~x2/">Tarbh Deargh (Red Bull)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w80db30lo5y4~x2/"><img src="/variants/s4/w80db30lo5y4~x2/sett.png" alt="Tarbh Deargh (Red Bull) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tarbh-deargh/">Tarbh Deargh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tarbh-deargh/"><img src="/variants/s4/w80db30lo5y4~x2/sett.png" alt="Tarbh Deargh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

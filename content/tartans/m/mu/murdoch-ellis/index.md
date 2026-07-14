@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Murdoch"
   url: "/clan/murdoch/"
+aliases:
+- "/setts/dp20db25w3k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbwk/">BBWK</a></nav>
 A tartan of [Clan Murdoch](/clan/murdoch/).
 Its design is pattern [BBWK](/stripes/bbwk/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Murdoch, Ellis** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp20db25w3k2/">Murdoch, Ellis</a></td><td><code>DP/40 DB50 W6 K/4</code></td><td>156</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp20db25w3k2/"><img src="/variants/s4/dp20db25w3k2~x2/sett.png" alt="Murdoch, Ellis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dp20db25w3k2~x2/">Murdoch, Ellis</a></td><td><code>DP/40 DB50 W6 K/4</code></td><td>156</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dp20db25w3k2~x2/"><img src="/variants/s4/dp20db25w3k2~x2/sett.png" alt="Murdoch, Ellis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/n25k5db5dp3~x2/"><circle cx="378.6" cy="215.1" r="4" fill="#3465a4"><title>Lord Willy's</title></circle></a><a href="/variants/s6/k3g2m3db30dp32w3~x2/"><circle cx="275.2" cy="152.2" r="4" fill="#3465a4"><title>Pride of Glencoe</title></circle></a><a href="/variants/s6/dy2db12k6dp10k1w2~x2/"><circle cx="176.0" cy="189.7" r="4" fill="#3465a4"><title>Soroptimist International</title></circle></a><a href="/variants/s4/db31k8dp4w2~x4/"><circle cx="415.3" cy="177.0" r="4" fill="#3465a4"><title>Osborne, Luke Alexander</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="389.5" cy="184.7" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/"><circle cx="223.3" cy="180.6" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s5/k4dg3dp18k18w2~x2/"><circle cx="262.4" cy="196.6" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="300.5" cy="189.0" r="4" fill="#3465a4"><title>Mirror</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="258.8" cy="156.6" r="4" fill="#3465a4"><title>Margach, William</title></circle></a><a href="/variants/s5/db16r1k16w1r1~x4/"><circle cx="283.0" cy="158.0" r="4" fill="#3465a4"><title>Christie</title></circle></a><circle cx="331.9" cy="222.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/n25k5db5dp3~x2/"><circle cx="379.5" cy="215.3" r="4" fill="#3465a4"><title>Lord Willy's</title></circle></a><a href="/variants/s6/k3g2m3db30dp32w3~x2/"><circle cx="275.8" cy="152.1" r="4" fill="#3465a4"><title>Pride of Glencoe</title></circle></a><a href="/variants/s6/dy2db12k6dp10k1w2~x2/"><circle cx="176.3" cy="189.5" r="4" fill="#3465a4"><title>Soroptimist International</title></circle></a><a href="/variants/s4/db31k8dp4w2~x4/"><circle cx="416.4" cy="177.3" r="4" fill="#3465a4"><title>Osborne, Luke Alexander</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="390.6" cy="184.9" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/"><circle cx="223.9" cy="180.5" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s5/k4dg3dp18k18w2~x2/"><circle cx="263.2" cy="196.6" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="301.3" cy="189.1" r="4" fill="#3465a4"><title>Mirror</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="259.5" cy="156.5" r="4" fill="#3465a4"><title>Margach, William</title></circle></a><a href="/variants/s5/db16r1k16w1r1~x4/"><circle cx="283.9" cy="158.1" r="4" fill="#3465a4"><title>Christie</title></circle></a><circle cx="332.5" cy="222.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

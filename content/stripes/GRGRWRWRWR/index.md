@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r4w8r3w2r3w2r21g2r2g4~x2/">Queen Alexandra Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r4w8r3w2r3w2r21g2r2g4~x2/"><img src="/variants/s10/r4w8r3w2r3w2r21g2r2g4~x2/sett.png" alt="Queen Alexandra Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/queen-alexandra/">Queen Alexandra</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/queen-alexandra/"><img src="/variants/s10/r4w8r3w2r3w2r21g2r2g4~x2/sett.png" alt="Queen Alexandra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

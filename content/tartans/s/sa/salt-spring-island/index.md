@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r1g6db6w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgbw/">RGBW</a></nav>
 Its design is pattern [RGBW](/stripes/rgbw/) — the page of every tartan sharing this colour sequence.
 
 The **Salt Spring Island** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Salt Spring Island** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r1g6db6w1/">Salt Spring Island</a></td><td><code>R/4 G24 DB24 W/4</code></td><td>104</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1g6db6w1/"><img src="/variants/s4/r1g6db6w1~x4/sett.png" alt="Salt Spring Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r1g6db6w1~x4/">Salt Spring Island</a></td><td><code>R/4 G24 DB24 W/4</code></td><td>104</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r1g6db6w1~x4/"><img src="/variants/s4/r1g6db6w1~x4/sett.png" alt="Salt Spring Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/db13r2g13~x2/"><circle cx="290.8" cy="304.7" r="4" fill="#3465a4"><title>Wilson's No 62</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="207.6" cy="257.8" r="4" fill="#3465a4"><title>Thorntons Law</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="294.3" cy="308.6" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s3/db6g5r1~x4/"><circle cx="295.1" cy="306.7" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="197.5" cy="279.6" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="239.9" cy="236.0" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="191.3" cy="196.4" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="203.4" cy="197.6" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="147.2" cy="220.5" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="255.5" cy="333.2" r="4" fill="#3465a4"><title>Agnew</title></circle></a><circle cx="225.3" cy="261.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/db13r2g13~x2/"><circle cx="291.1" cy="304.9" r="4" fill="#3465a4"><title>Wilson's No 62</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="207.9" cy="257.7" r="4" fill="#3465a4"><title>Thorntons Law</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="294.6" cy="308.7" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s3/db6g5r1~x4/"><circle cx="295.5" cy="306.8" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="197.6" cy="279.5" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="240.1" cy="236.0" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="191.7" cy="196.2" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="203.8" cy="197.5" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="147.4" cy="220.3" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="255.8" cy="333.3" r="4" fill="#3465a4"><title>Agnew</title></circle></a><circle cx="225.5" cy="261.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

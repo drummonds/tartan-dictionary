@@ -8,10 +8,10 @@ crumbs:
 - name: "Coarse"
   url: "/tartans/c/co/coarse/"
 - name: "Coarse Kilt"
-  url: "/setts/r3k2db25k28g25k2r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k2db25k28g25k2r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/coarse/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBKGKR](/stripes/rkbkgkr/).
 
 Part of the [Coarse](/tartans/c/co/coarse/) tartan — the named design grouping this sett with its other cloths.

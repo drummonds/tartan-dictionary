@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g165k12g6k18r4k10g4y4/">Crane of Clunie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g165k12g6k18r4k10g4y4/"><img src="/variants/s8/g165k12g6k18r4k10g4y4/sett.png" alt="Crane of Clunie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g82k6g3k9r2k5g2dy2~x2/">Crane of Cluny (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g82k6g3k9r2k5g2dy2~x2/"><img src="/variants/s8/g82k6g3k9r2k5g2dy2~x2/sett.png" alt="Crane of Cluny (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g83k6g3k9r2k5g2y2~x2/">Stewart from Cairnie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g83k6g3k9r2k5g2y2~x2/"><img src="/variants/s8/g83k6g3k9r2k5g2y2~x2/sett.png" alt="Stewart from Cairnie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crane-of-clunie/">Crane of Clunie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crane-of-clunie/"><img src="/variants/s8/g165k12g6k18r4k10g4y4/sett.png" alt="Crane of Clunie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-from-cairnie/">Stewart from Cairnie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-from-cairnie/"><img src="/variants/s8/g83k6g3k9r2k5g2y2~x2/sett.png" alt="Stewart from Cairnie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Black Isle"
   url: "/tartans/b/bl/black-isle/"
 - name: "Black Isle"
-  url: "/setts/k53n22k10n10k2n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k53n22k10n10k2n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-isle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
 Part of the [Black Isle](/tartans/b/bl/black-isle/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=275](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>15/07/2003 — Black Isle (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=275">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Designed for Black Isle Pewter Limited by Robert Howarth Guibal of Black Isle Pewter. Threadcount taken from a Marton Mills swatch book.</em></li>
-<li>pre 2004 — Black Isle (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6183">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>For the Black Isle Pewter company. Designer thought to be Robert Howard Guibal of Black Isle Pewter. Marton Mills swatch book. No more details.</em></li>
+<li>pre 2004 — Black Isle (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6183/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>For the Black Isle Pewter company. Designer thought to be Robert Howard Guibal of Black Isle Pewter. Marton Mills swatch book. No more details.</em></li>
 </ul>
 </details>
 

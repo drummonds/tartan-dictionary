@@ -12,10 +12,10 @@ crumbs:
 - name: "Little Dress"
   url: "/tartans/l/li/little-dress/"
 - name: "Little Dress"
-  url: "/setts/k4dr4k4dr4k4w8k2w8k8lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4dr4k4dr4k4w8k2w8k8lo1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/little-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKWKWKY](/stripes/kbkbkwkwky/).
 
 Part of the [Little Dress](/tartans/l/li/little-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2126](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Little Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2126">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#AC0040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #AC0040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Designed in 2000 by Sandy Frediani, CA, USA. This is a colour change on the 1991 Little tartan with the R and W reversed. See also Little Arisaid.</em></li>
-<li>2000 — Little Dress (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4138">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#AC0040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #AC0040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Designed in 2000 by Sandy Frediani, CA, USA. This is a colour change on the 1991 Little tartan with the R and W reversed. See also Little Arisaid. Assumed to be 'Name'</em></li>
+<li>2000 — Little Dress (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4138/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#AC0040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #AC0040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Designed in 2000 by Sandy Frediani, CA, USA. This is a colour change on the 1991 Little tartan with the R and W reversed. See also Little Arisaid. Assumed to be 'Name'</em></li>
 </ul>
 </details>
 

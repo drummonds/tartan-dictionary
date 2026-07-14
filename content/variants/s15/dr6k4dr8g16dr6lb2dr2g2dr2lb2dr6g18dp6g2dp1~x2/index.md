@@ -8,10 +8,10 @@ crumbs:
 - name: "MacCall"
   url: "/tartans/m/ma/maccall/"
 - name: "MacCall Family Tartan"
-  url: "/setts/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maccall/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWBGBWBGBKB](/stripes/bgbgbwbgbwbgbkb/).
 
 Part of the [MacCall](/tartans/m/ma/maccall/) tartan — the named design grouping this sett with its other cloths.

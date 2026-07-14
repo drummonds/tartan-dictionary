@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/">Kruenaegel-Schropp Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><img src="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/sett.png" alt="Kruenaegel-Schropp Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/kr/kruenaegel-schropp/">Kruenaegel-Schropp</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kr/kruenaegel-schropp/"><img src="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/sett.png" alt="Kruenaegel-Schropp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

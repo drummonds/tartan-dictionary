@@ -8,10 +8,10 @@ crumbs:
 - name: "New York Tartan Day Parade"
   url: "/tartans/n/ne/new-york-tartan-day-parade/"
 - name: "New York Tartan Day Parade"
-  url: "/setts/n2db1r8db1g2db1r4db4lo1db57w1db2w2db2w1db28lo1db4r4db1g2db1r8db1r8db1n2db1n2db1n2db1n2db1dg2db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n2db1r8db1g2db1r4db4lo1db57w1db2w2db2w1db28lo1db4r4db1g2db1r8db1r8db1n2db1n2db1n2db1n2db1dg2db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/new-york-tartan-day-parade/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBGBRBYBWBWBWBYBRBGBRBRBBBBBBBBBGB](/stripes/bbrbgbrbybwbwbwbybrbgbrbrbbbbbbbbbgb/).
 
 Part of the [New York Tartan Day Parade](/tartans/n/ne/new-york-tartan-day-parade/) tartan — the named design grouping this sett with its other cloths.

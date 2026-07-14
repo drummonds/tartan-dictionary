@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y2r5y2r5db49w2~x2/">Balmer (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y2r5y2r5db49w2~x2/"><img src="/variants/s6/y2r5y2r5db49w2~x2/sett.png" alt="Balmer (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/balmer/">Balmer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/balmer/"><img src="/variants/s6/y2r5y2r5db49w2~x2/sett.png" alt="Balmer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

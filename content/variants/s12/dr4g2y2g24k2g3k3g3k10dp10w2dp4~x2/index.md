@@ -8,15 +8,15 @@ crumbs:
 - name: "Kerby"
   url: "/tartans/k/ke/kerby/"
 - name: "Kerby (Personal)"
-  url: "/setts/dr4g2y2g24k2g3k3g3k10dp10w2dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4g2y2g24k2g3k3g3k10dp10w2dp4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBKGKGKGGGBGGGKGKGKBW](/stripes/bwbkgkgkgggbgggkgkgkbw/).
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kerby/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGGKGKGKBWB](/stripes/bgggkgkgkbwb/).
 
 Part of the [Kerby](/tartans/k/ke/kerby/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1952](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1952)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1952](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — Kerby (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1952">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>From Kenneth W.H.Kerby from Tennessee's Cumberland Basin to celebrate the birth of a first son. The Kerby family originally came from Berwickshire being early American settlers. Possible confusion over spelling of name (Kerby - v Kirby).</em></li>
-<li>pre 2002 — Kerby (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2496">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>From Kenneth W.H.Kerby from Tennessee's Cumberland Basin to celebrate the birth of a first son. The Kerby family originally came from Berwickshire being early American settlers. Possible confusion over spelling of name. (Kerby - v - Kirby).</em></li>
+<li>pre 2002 — Kerby (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2496/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>From Kenneth W.H.Kerby from Tennessee's Cumberland Basin to celebrate the birth of a first son. The Kerby family originally came from Berwickshire being early American settlers. Possible confusion over spelling of name. (Kerby - v - Kirby).</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2496
 
 ## Thread count
-DP/8 W4 DP20 K20 G6 K6 G6 K4 G48 Y4 G4 DR8 G4 Y4 G48 K4 G6 K6 G6 K20 DP20 W/4
+DR/8 G4 Y4 G48 K4 G6 K6 G6 K20 DP20 W4 DP/8
 
-One full sett is **508 threads**.
+One full sett is **260 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/8 W4 DP20 K20 G6 K6 G6 K4 G48 Y4 G4 DR8 G4 Y4 G48 K4 G6 K6 G6 K20 DP20 W/4 — 508 threads; it folds to the canonical 260-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **508 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/8 W4 DP20 K20 G6 K6 G6 K4 G48 Y4 G4 DR8 G4 Y4 G48 K4 G6 K6 G6 K20 DP20 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/8 G4 Y4 G48 K4 G6 K6 G6 K20 DP20 W4 DP/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

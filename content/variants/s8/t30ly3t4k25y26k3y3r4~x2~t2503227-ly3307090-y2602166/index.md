@@ -12,15 +12,15 @@ crumbs:
 - name: "Ogilvie Hunting"
   url: "/tartans/o/og/ogilvie-hunting/"
 - name: "Ogilvie Hunting"
-  url: "/setts/t30ly3t4k25y26k3y3r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t30ly3t4k25y26k3y3r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGKBYBYBKGKGR](/stripes/gkgkbybybkgkgr/).
+provenance below. It is one weaving of the [sett](/tartans/o/og/ogilvie-hunting/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYBKGKGR](/stripes/bybkgkgr/).
 
 Part of the [Ogilvie Hunting](/tartans/o/og/ogilvie-hunting/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3231](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3231)
 
@@ -60,9 +60,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6082
 
 ## Thread count
-R/8 Y6 K6 Y52 K50 T8 LY6 T60 LY6 T8 K50 Y52 K6 Y/6
+T/60 LYi6 T8 K50 LY52 K6 LY6 R/8
 
-One full sett is **634 threads**.
+One full sett is **324 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/8 Y6 K6 Y52 K50 T8 LY6 T60 LY6 T8 K50 Y52 K6 Y/6 — 634 threads; it folds to the canonical 324-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -71,7 +73,7 @@ One full sett is **634 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 Y6 K6 Y52 K50 T8 LY6 T60 LY6 T8 K50 Y52 K6 Y/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/60 LYi6 T8 K50 LY52 K6 LY6 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

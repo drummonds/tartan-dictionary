@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/clyde/"
 - name: "Clyde"
   url: "/families/clyde/"
+aliases:
+- "/setts/b4dg2b18r2dg5n16r2n2r2n2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbrgbrbrb/">BGBRGBRBRB</a></nav>
 A tartan of the [Clyde](/families/clyde/) family.
 Its design is pattern [BGBRGBRBRB](/stripes/bgbrgbrbrb/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Clyde** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b4dg2b18r2dg5n16r2n2r2n2/">Clyde</a></td><td><code>B/8 DG4 B36 R4 DG10 N32 R4 N4 R4 N/4</code></td><td>208</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b4dg2b18r2dg5n16r2n2r2n2/"><img src="/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/sett.png" alt="Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/">Clyde</a></td><td><code>B/8 DG4 B36 R4 DG10 N32 R4 N4 R4 N/4</code></td><td>208</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/"><img src="/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/sett.png" alt="Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/lb4n2lb18r2n5o16r2o2r2o2~x2~n1900000-o2500000/"><circle cx="310.4" cy="228.3" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/variants/s8/b26w2b3db15n26r2n3db4~x2/"><circle cx="286.5" cy="217.5" r="4" fill="#3465a4"><title>Scottish Highlander</title></circle></a><a href="/variants/s8/o24n3o3n3o3n20lb22n4~x2~o2500000-n1900000/"><circle cx="342.9" cy="283.7" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/"><circle cx="251.9" cy="232.2" r="4" fill="#3465a4"><title>MacPherson Gathering 1996</title></circle></a><a href="/variants/s7/b32do6o5do6dg19o3dg5~x2/"><circle cx="285.1" cy="228.6" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/"><circle cx="346.7" cy="217.7" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s7/dbi12lb6dbi52db41o12dp6o12~dbi1406275-db1404245/"><circle cx="311.9" cy="247.0" r="4" fill="#3465a4"><title>Great Scot</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.5" cy="216.2" r="4" fill="#3465a4"><title>Ballantyne STWR</title></circle></a><a href="/variants/s8/n2b30y3b2n16r2g16w2~x2/"><circle cx="300.6" cy="197.9" r="4" fill="#3465a4"><title>WCWM 3947</title></circle></a><a href="/variants/s6/db30y3dy11y3n33r6~x2/"><circle cx="278.6" cy="236.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><circle cx="318.0" cy="230.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/lb4n2lb18r2n5o16r2o2r2o2~x2~n1900000-o2500000/"><circle cx="310.6" cy="228.3" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/variants/s8/b26w2b3db15n26r2n3db4~x2/"><circle cx="286.6" cy="217.4" r="4" fill="#3465a4"><title>Scottish Highlander</title></circle></a><a href="/variants/s8/o24n3o3n3o3n20lb22n4~x2~o2500000-n1900000/"><circle cx="342.9" cy="283.7" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/"><circle cx="251.9" cy="232.2" r="4" fill="#3465a4"><title>MacPherson Gathering 1996</title></circle></a><a href="/variants/s7/b32do6o5do6dg19o3dg5~x2/"><circle cx="285.3" cy="228.6" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/"><circle cx="347.1" cy="217.7" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s7/dbi12lb6dbi52db41o12dp6o12~dbi1406275-db1404245/"><circle cx="312.1" cy="247.0" r="4" fill="#3465a4"><title>Great Scot</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.7" cy="216.1" r="4" fill="#3465a4"><title>Ballantyne STWR</title></circle></a><a href="/variants/s8/n2b30y3b2n16r2g16w2~x2/"><circle cx="300.8" cy="197.8" r="4" fill="#3465a4"><title>WCWM 3947</title></circle></a><a href="/variants/s6/db30y3dy11y3n33r6~x2/"><circle cx="278.7" cy="236.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><circle cx="318.1" cy="230.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

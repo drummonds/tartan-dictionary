@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/">Leckie (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/"><img src="/variants/s7/r3b1r12o3dg12w1dg2~x4/sett.png" alt="Leckie (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leckie/">Leckie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leckie/"><img src="/variants/s7/r3b1r12o3dg12w1dg2~x4/sett.png" alt="Leckie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

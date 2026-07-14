@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1~x2/">Hawick (Trade Sett)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1~x2/"><img src="/variants/s20/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1~x2/sett.png" alt="Hawick (Trade Sett) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hawick-2/">Hawick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hawick-2/"><img src="/variants/s20/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1~x2/sett.png" alt="Hawick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/t9k9t9dr2k20g13dr2g4dr2g4~x2~t2205244-k0700000/">Newlands of Lauriston (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/t9k9t9dr2k20g13dr2g4dr2g4~x2~t2205244-k0700000/"><img src="/variants/s10/t9k9t9dr2k20g13dr2g4dr2g4~x2~t2205244-k0700000/sett.png" alt="Newlands of Lauriston (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/newlands-of-lauriston/">Newlands of Lauriston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/newlands-of-lauriston/"><img src="/variants/s10/t9k9t9dr2k20g13dr2g4dr2g4~x2~t2205244-k0700000/sett.png" alt="Newlands of Lauriston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

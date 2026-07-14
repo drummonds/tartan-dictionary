@@ -8,17 +8,17 @@ crumbs:
 - name: "Covenant College"
   url: "/tartans/c/co/covenant-college/"
 - name: "Covenant College (Corporate)"
-  url: "/setts/t4db2t1db23lb2t2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t4db2t1db23lb2t2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBBBBBBBW](/stripes/bwbbbbbbbw/).
+provenance below. It is one weaving of the [sett](/tartans/c/co/covenant-college/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBWB](/stripes/bbbbwb/).
 
 Part of the [Covenant College](/tartans/c/co/covenant-college/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7518](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7518)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7518/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7518/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: pre 2008 Covenant College is a four-year Christian college 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2008 — Covenant College (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7518">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>Covenant College is a four-year Christian college that emphasizes the liberal arts. Founded in 1955 in Pasadena, California, the college moved its campus to Lookout Mountain, Georgia in 1965. It is an educational institution of the Presbyterian Church in America.</em></li>
+<li>pre 2008 — Covenant College (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7518/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>Covenant College is a four-year Christian college that emphasizes the liberal arts. Founded in 1955 in Pasadena, California, the college moved its campus to Lookout Mountain, Georgia in 1965. It is an educational institution of the Presbyterian Church in America.</em></li>
 <li>pre 2008 — Covenant College Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7518">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span></li>
 <li>undated — Covenant College (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5556">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>Covenant College is a four-year Christian college that emphasizes the liberal arts. Founded in 1955 in Pasadena, California, the college moved its campus to Lookout Mountain, Georgia in 1965. It is an educational institution of the Presbyterian Church in America.</em></li>
 </ul>
@@ -43,7 +43,7 @@ Earliest known date: pre 2008 Covenant College is a four-year Christian college 
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7518
 
 ## Thread count
-T/4 LB4 DB46 T2 DB4 T8 DB4 T2 DB46 LB/4
+T/8 DB4 T2 DB46 LB4 T/4
 
-One full sett is **240 threads**.
+One full sett is **124 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/4 LB4 DB46 T2 DB4 T8 DB4 T2 DB46 LB/4 — 240 threads; it folds to the canonical 124-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **240 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/4 LB4 DB46 T2 DB4 T8 DB4 T2 DB46 LB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/8 DB4 T2 DB46 LB4 T/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

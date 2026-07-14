@@ -8,15 +8,15 @@ crumbs:
 - name: "Wiseman, Robert"
   url: "/tartans/w/wi/wiseman-robert/"
 - name: "Wiseman, Robert"
-  url: "/setts/lb5w2lb2w4k27w2g2w2g6w2g2w22dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb5w2lb2w4k27w2g2w2g6w2g2w22dr2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [WWWKWGWGWGWBWGWGWGWKWWWW](/stripes/wwwkwgwgwgwbwgwgwgwkwwww/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wiseman-robert/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWGWGWGWKWWWW](/stripes/bwgwgwgwkwwww/).
 
 Part of the [Wiseman, Robert](/tartans/w/wi/wiseman-robert/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4767](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4767)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4767](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1997 — Wiseman, Robert (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4767">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><br><em>Designed on the occasion of the Golden Jubileee of Robert Wiseman - a major milk retailer in Scotland.</em></li>
-<li>1997 — Wiseman, Robert (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2393">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><br><em>Designed on the occasion of the Golden Jubileee of Robert Wiseman - a major milk retailer in Scotland.</em></li>
+<li>1997 — Wiseman, Robert (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2393/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><br><em>Designed on the occasion of the Golden Jubileee of Robert Wiseman - a major milk retailer in Scotland.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2393
 
 ## Thread count
-LB/10 W4 LB4 W8 K54 W4 G4 W4 G12 W4 G4 W44 DR4 W44 G4 W4 G12 W4 G4 W4 K54 W8 LB4 W/4
+LB/10 W4 LB4 W8 K54 W4 G4 W4 G12 W4 G4 W44 DR/4
 
-One full sett is **598 threads**.
+One full sett is **306 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/10 W4 LB4 W8 K54 W4 G4 W4 G12 W4 G4 W44 DR4 W44 G4 W4 G12 W4 G4 W4 K54 W8 LB4 W/4 — 598 threads; it folds to the canonical 306-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **598 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/10 W4 LB4 W8 K54 W4 G4 W4 G12 W4 G4 W44 DR4 W44 G4 W4 G12 W4 G4 W4 K54 W8 LB4 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/10 W4 LB4 W8 K54 W4 G4 W4 G12 W4 G4 W44 DR/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

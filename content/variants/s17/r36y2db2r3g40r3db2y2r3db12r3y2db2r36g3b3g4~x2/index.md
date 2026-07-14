@@ -12,10 +12,10 @@ crumbs:
 - name: "Lochiel"
   url: "/tartans/l/lo/lochiel-2/"
 - name: "Lochiel, (Cameron)"
-  url: "/setts/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lochiel-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRBGRBRGBRGRBGR](/stripes/gbgrbgrbrgbrgrbgr/).
 
 Part of the [Lochiel](/tartans/l/lo/lochiel-2/) tartan — the named design grouping this sett with its other cloths.

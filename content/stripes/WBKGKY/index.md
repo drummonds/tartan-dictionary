@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/ly3k1g20k20db18lb3~x2/">Smith, Sir William (?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/ly3k1g20k20db18lb3~x2/"><img src="/variants/s6/ly3k1g20k20db18lb3~x2/sett.png" alt="Smith, Sir William (?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sm/smith-sir-william/">Smith, Sir William</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sm/smith-sir-william/"><img src="/variants/s6/ly3k1g20k20db18lb3~x2/sett.png" alt="Smith, Sir William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

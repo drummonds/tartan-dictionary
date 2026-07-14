@@ -10,17 +10,17 @@ crumbs:
 - name: "Cockburn"
   url: "/families/cockburn/"
 - name: "Cockburn"
-  url: "/tartans/c/co/cockburn-4/"
-- name: "Cockburn"
-  url: "/setts/r5k2g30k2y5k2db31k2w5k2db31k6g2k2g2k2g86k2g2k2g2k6db31k2w5k2db31k6g25k2r5/"
+  url: "/tartans/c/co/cockburn-2/"
+- name: "Cockburn #4"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5k2g30k2y5k2db31k2w5k2db31k6g2k2g2k2g86k2g2k2g2k6db31k2w5k2db31k6g25k2r5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KGKBKWKBKGKGKGKGKGKBKWKBKGKGKRKGKGKBKWKBKGKGKGKGKGKBKWKBKGKR](/stripes/kgkbkwkbkgkgkgkgkgkbkwkbkgkgkrkgkgkbkwkbkgkgkgkgkgkbkwkbkgkr/).
+provenance below. It is one weaving of the [sett](/tartans/c/co/cockburn-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKGKBKWKBKGKGKGKGKGKBKWKBKGKGKR](/stripes/rkgkbkwkbkgkgkgkgkgkbkwkbkgkgkr/).
 
-Part of the [Cockburn](/tartans/c/co/cockburn-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cockburn](/tartans/c/co/cockburn-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [60 stripe tartan](/stripes/stripes60/).
+Sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=702](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=702)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 798
 
 ## Thread count
-R/5 K2 G25 K6 DB31 K2 W5 K2 DB31 K6 G2 K2 G2 K2 G86 K2 G2 K2 G2 K6 DB31 K2 W5 K2 DB31 K2 Y5 K2 G30 K2 R5 K2 G30 K2 Y5 K2 DB31 K2 W5 K2 DB31 K6 G2 K2 G2 K2 G86 K2 G2 K2 G2 K6 DB31 K2 W5 K2 DB31 K6 G25 K/2
+R/5 K2 G30 K2 Y5 K2 DB31 K2 W5 K2 DB31 K6 G2 K2 G2 K2 G86 K2 G2 K2 G2 K6 DB31 K2 W5 K2 DB31 K6 G25 K2 R/5
 
-One full sett is **1333 threads**.
+One full sett is **670 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/5 K2 G25 K6 DB31 K2 W5 K2 DB31 K6 G2 K2 G2 K2 G86 K2 G2 K2 G2 K6 DB31 K2 W5 K2 DB31 K2 Y5 K2 G30 K2 R5 K2 G30 K2 Y5 K2 DB31 K2 W5 K2 DB31 K6 G2 K2 G2 K2 G86 K2 G2 K2 G2 K6 DB31 K2 W5 K2 DB31 K6 G25 K/2 — 1333 threads; it folds to the canonical 670-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **1333 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/5 K2 G25 K6 DB31 K2 W5 K2 DB31 K6 G2 K2 G2 K2 G86 K2 G2 K2 G2 K6 DB31 K2 W5 K2 DB31 K2 Y5 K2 G30 K2 R5 K2 G30 K2 Y5 K2 DB31 K2 W5 K2 DB31 K6 G2 K2 G2 K2 G86 K2 G2 K2 G2 K6 DB31 K2 W5 K2 DB31 K6 G25 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/5 K2 G30 K2 Y5 K2 DB31 K2 W5 K2 DB31 K6 G2 K2 G2 K2 G86 K2 G2 K2 G2 K6 DB31 K2 W5 K2 DB31 K6 G25 K2 R/5 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

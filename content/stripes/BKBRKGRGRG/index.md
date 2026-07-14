@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/">Newlands Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><img src="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/sett.png" alt="Newlands Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/">Newlands of Lauriston</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/"><img src="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/sett.png" alt="Newlands of Lauriston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/newlands/">Newlands</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/newlands/"><img src="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/sett.png" alt="Newlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/newlands-of-lauriston/">Newlands of Lauriston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/newlands-of-lauriston/"><img src="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/sett.png" alt="Newlands of Lauriston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

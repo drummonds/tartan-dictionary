@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/">Royal Pharmaceutical Society Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/"><img src="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/sett.png" alt="Royal Pharmaceutical Society Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-pharmaceutical-society-commemorative/">Royal Pharmaceutical Society Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-pharmaceutical-society-commemorative/"><img src="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/sett.png" alt="Royal Pharmaceutical Society Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

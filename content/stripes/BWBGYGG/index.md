@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g4y7lo9y9db20w2db2~x2/">Tombow 140th Anniversary, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g4y7lo9y9db20w2db2~x2/"><img src="/variants/s7/g4y7lo9y9db20w2db2~x2/sett.png" alt="Tombow 140th Anniversary, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/tombow-140th-anniversary-the/">Tombow 140th Anniversary, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/tombow-140th-anniversary-the/"><img src="/variants/s7/g4y7lo9y9db20w2db2~x2/sett.png" alt="Tombow 140th Anniversary, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

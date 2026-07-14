@@ -28,17 +28,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/k10r3y3k6r48dg6r2y2r6dg40w2k38r2dp40r6y2r2dp6r48k6y2r3k10/">Hay &amp; Leith - 1800 (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/k10r3y3k6r48dg6r2y2r6dg40w2k38r2dp40r6y2r2dp6r48k6y2r3k10/"><img src="/variants/s23/k10r3y3k6r48dg6r2y2r6dg40w2k38r2dp40r6y2r2dp6r48k6y2r3k10/sett.png" alt="Hay &amp; Leith - 1800 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2dp15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Hay or Leith Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2dp15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><img src="/variants/s23/k3r1y1k2r16dp2r1y1r2dp15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/sett.png" alt="Hay or Leith Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Hay, or Leith</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><img src="/variants/s23/k3r1y1k2r16dp2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/sett.png" alt="Hay, or Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Leith, (Hay)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/"><img src="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/sett.png" alt="Leith, (Hay) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hay-leith/">Hay &amp; Leith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-leith/"><img src="/variants/s23/k10r3y3k6r48dg6r2y2r6dg40w2k38r2dp40r6y2r2dp6r48k6y2r3k10/sett.png" alt="Hay &amp; Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leith/">Leith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leith/"><img src="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/sett.png" alt="Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/"><img src="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/sett.png" alt="Hay and Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hay-and-leith/">Hay and Leith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-and-leith/"><img src="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/sett.png" alt="Hay and Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hay-or-leith-2/">Hay, or Leith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-or-leith-2/"><img src="/variants/s23/k3r1y1k2r16dp2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/sett.png" alt="Hay, or Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

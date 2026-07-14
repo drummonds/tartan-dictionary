@@ -8,10 +8,10 @@ crumbs:
 - name: "New York Jets"
   url: "/tartans/n/ne/new-york-jets/"
 - name: "New York Jets"
-  url: "/setts/g60w3k12n5g9n6k4w10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g60w3k12n5g9n6k4w10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/new-york-jets/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKBGBKW](/stripes/gwkbgbkw/).
 
 Part of the [New York Jets](/tartans/n/ne/new-york-jets/) tartan — the named design grouping this sett with its other cloths.

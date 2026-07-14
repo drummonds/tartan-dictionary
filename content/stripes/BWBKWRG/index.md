@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/">Dignan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><img src="/variants/s7/y2r1lb16k5dp2w11dp1~x4/sett.png" alt="Dignan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/dignan/">Dignan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/dignan/"><img src="/variants/s7/y2r1lb16k5dp2w11dp1~x4/sett.png" alt="Dignan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

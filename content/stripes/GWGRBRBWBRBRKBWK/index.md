@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1y2~x2/">MacLellan Blue McLellan Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1y2~x2/"><img src="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1y2~x2/sett.png" alt="MacLellan Blue McLellan Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1y2~x4/">MacLellan/McLellan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1y2~x4/"><img src="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1y2~x4/sett.png" alt="MacLellan/McLellan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclellan/">MacLellan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclellan/"><img src="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1y2~x4/sett.png" alt="MacLellan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclellan-blue-mclellan/">MacLellan Blue McLellan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclellan-blue-mclellan/"><img src="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1y2~x2/sett.png" alt="MacLellan Blue McLellan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

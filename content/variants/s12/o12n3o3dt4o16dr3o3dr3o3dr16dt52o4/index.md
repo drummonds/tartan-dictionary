@@ -8,10 +8,10 @@ crumbs:
 - name: "Drumbeg"
   url: "/tartans/d/dr/drumbeg/"
 - name: "Drumbeg"
-  url: "/setts/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/dr/drumbeg/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBRBRBRBRBR](/stripes/rbbrbrbrbrbr/).
 
 Part of the [Drumbeg](/tartans/d/dr/drumbeg/) tartan — the named design grouping this sett with its other cloths.

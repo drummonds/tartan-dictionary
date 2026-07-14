@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/">Clutha</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/"><img src="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/sett.png" alt="Clutha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clutha/">Clutha</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clutha/"><img src="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/sett.png" alt="Clutha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

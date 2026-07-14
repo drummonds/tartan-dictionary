@@ -10,10 +10,10 @@ crumbs:
 - name: "Romsdal Tresfjord"
   url: "/tartans/r/ro/romsdal-tresfjord/"
 - name: "Romsdal, Tresfjord"
-  url: "/setts/k2r4k7ri1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2r4k7ri1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/romsdal-tresfjord/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRK](/stripes/krkrk/).
 
 Part of the [Romsdal Tresfjord](/tartans/r/ro/romsdal-tresfjord/) tartan — the named design grouping this sett with its other cloths.

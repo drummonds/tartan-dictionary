@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g5db15lb11w2lb1w1dg4/"
+- "/setts/g5db15lbi11lb2lbi1lb1g4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbwwwwg/">GBWWWWG</a></nav>
 Its design is pattern [GBWWWWG](/stripes/gbwwwwg/) — the page of every tartan sharing this colour sequence.
 
 The **Highlands Country Club** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Highlands Country Club** tartan groups 2 setts — the same named design r
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g5db15lb11w2lb1w1dg4/">Highlands Country Club</a> ★</td><td><code>G/20 DB60 LB44 W8 LB4 W4 DG/16</code></td><td>276</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g5db15lb11w2lb1w1dg4/"><img src="/variants/s7/g5db15lb11w2lb1w1dg4~x4/sett.png" alt="Highlands Country Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g5db15lbi11lb2lbi1lb1g4/">(Corporate)</a></td><td><code>G/20 DB60 LBi44 LB8 LBi4 LB4 G/16</code></td><td>—</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g5db15lbi11lb2lbi1lb1g4/"><img src="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/">Highlands Country Club</a> ★</td><td><code>G/20 DB60 LB44 W8 LB4 W4 DG/16</code></td><td>276</td><td>1984</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/"><img src="/variants/s7/g5db15lb11w2lb1w1dg4~x4/sett.png" alt="Highlands Country Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/">(Corporate)</a></td><td><code>G/5 DB15 LBi11 LB2 LBi1 LB1 G/4</code></td><td>—</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><img src="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.4" cy="224.9" r="4" fill="#3465a4"><title>Wallace Blue Dress</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="261.1" cy="224.6" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s8/w9db3y3db24dbi24y2dbi2y2~x2~db1106275-dbi1404245/"><circle cx="255.1" cy="200.9" r="4" fill="#3465a4"><title>Halesowen</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="183.9" cy="215.7" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress 1990</title></circle></a><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.1" cy="178.8" r="4" fill="#3465a4"><title>Bird</title></circle></a><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><circle cx="163.8" cy="238.6" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/"><circle cx="242.2" cy="179.2" r="4" fill="#3465a4"><title>Loch Ness in Scotland</title></circle></a><a href="/variants/s8/w4lb1y2lb22db20w2db4w2~x2/"><circle cx="281.6" cy="169.3" r="4" fill="#3465a4"><title>Gorman</title></circle></a><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><circle cx="132.9" cy="174.1" r="4" fill="#3465a4"><title>Curd</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.0" cy="190.9" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><circle cx="196.2" cy="191.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.6" cy="224.7" r="4" fill="#3465a4"><title>Wallace Blue Dress</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="261.3" cy="224.5" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s8/w9db3y3db24dbi24y2dbi2y2~x2~db1106275-dbi1404245/"><circle cx="255.4" cy="200.8" r="4" fill="#3465a4"><title>Halesowen</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="184.0" cy="215.5" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress 1990</title></circle></a><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.2" cy="178.5" r="4" fill="#3465a4"><title>Bird</title></circle></a><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><circle cx="163.7" cy="238.3" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/"><circle cx="242.6" cy="179.1" r="4" fill="#3465a4"><title>Loch Ness in Scotland</title></circle></a><a href="/variants/s8/w4lb1y2lb22db20w2db4w2~x2/"><circle cx="282.1" cy="169.2" r="4" fill="#3465a4"><title>Gorman</title></circle></a><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><circle cx="133.1" cy="173.7" r="4" fill="#3465a4"><title>Curd</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.3" cy="190.7" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><circle cx="196.4" cy="191.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

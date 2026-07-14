@@ -8,10 +8,10 @@ crumbs:
 - name: "Blarney Castle"
   url: "/tartans/b/bl/blarney-castle/"
 - name: "Blarney Castle"
-  url: "/setts/g16y3db9r3db9g6db3g3k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16y3db9r3db9g6db3g3k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blarney-castle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBRBGBGK](/stripes/ggbrbgbgk/).
 
 Part of the [Blarney Castle](/tartans/b/bl/blarney-castle/) tartan — the named design grouping this sett with its other cloths.

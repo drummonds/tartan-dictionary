@@ -8,15 +8,15 @@ crumbs:
 - name: "Hilton Champion Corporate Golf"
   url: "/tartans/h/hi/hilton-champion-corporate-golf/"
 - name: "Hilton Champion Corporate Golf Tartan"
-  url: "/setts/r44lb3k22r5k2r3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r44lb3k22r5k2r3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/hilton-champion-corporate-golf/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKKKKKRKRW](/stripes/rwkkkkkrkrw/).
 
 Part of the [Hilton Champion Corporate Golf](/tartans/h/hi/hilton-champion-corporate-golf/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2336](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2336)
 

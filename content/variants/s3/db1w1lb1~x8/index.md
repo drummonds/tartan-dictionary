@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Moriston"
   url: "/tartans/g/gl/glen-moriston/"
 - name: "Glen Moriston Estate Check"
-  url: "/setts/db1w1lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1w1lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-moriston/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWW](/stripes/bww/).
 
 Part of the [Glen Moriston](/tartans/g/gl/glen-moriston/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1386](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1840 — Glen Moriston Estate Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1386">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00243C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #00243C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D0D0D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #D0D0D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D4DCE0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #D4DCE0"></span><br><em>Lady Caroline, Countess of Seafield adopted this check in the 1840s for her estate immediately to the west of Glenurquhart. 'It is a simple gun club but of a most unusual colour. The ground is white, the two alternating colours being a pale slate Lovat and navy blue giving a very cold general effect as compared with the generally warm tones of most of the district checks.' E S Harrison in his 1968 book 'Our Scottish District Checks.'</em></li>
-<li>1840ish — Glen Moriston (Estate Check) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7331">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00243C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #00243C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D0D0D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #D0D0D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D4DCE0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #D4DCE0"></span><br><em>Lady Caroline Countess of Seafield adopted this check in the 1840s for her estate immediately to the west of Glenurquhart."It is a simple gun club but of a most unusual colour. The ground is white, the two alternating colours being a pale slate Lovat and navy blue giving a very cold general effect as compared with the generally warm tones of most of the district checks." E S Harrison in his 1968 book 'Our Scottish District Checks.'"</em></li>
+<li>1840ish — Glen Moriston (Estate Check) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7331/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00243C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #00243C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D0D0D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #D0D0D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D4DCE0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #D4DCE0"></span><br><em>Lady Caroline Countess of Seafield adopted this check in the 1840s for her estate immediately to the west of Glenurquhart."It is a simple gun club but of a most unusual colour. The ground is white, the two alternating colours being a pale slate Lovat and navy blue giving a very cold general effect as compared with the generally warm tones of most of the district checks." E S Harrison in his 1968 book 'Our Scottish District Checks.'"</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2~x2/">Letham Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2~x2/"><img src="/variants/s15/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2~x2/sett.png" alt="Letham Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/letham-hunting-2/">Letham Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/letham-hunting-2/"><img src="/variants/s15/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2~x2/sett.png" alt="Letham Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

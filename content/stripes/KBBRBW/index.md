@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/">Shearer (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><img src="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/sett.png" alt="Shearer (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shearer-3/">Shearer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shearer-3/"><img src="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/sett.png" alt="Shearer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

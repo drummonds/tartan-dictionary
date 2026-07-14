@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db5lb1db15lb25db1lb5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbwbw/">BWBWBW</a></nav>
 Its design is pattern [BWBWBW](/stripes/bwbwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Dram!** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Dram!** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db5lb1db15lb25db1lb5/">Dram!</a></td><td><code>DB/20 LB4 DB60 LB100 DB4 LB/20</code></td><td>376</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db5lb1db15lb25db1lb5/"><img src="/variants/s6/db5lb1db15lb25db1lb5~x4/sett.png" alt="Dram! sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db5lb1db15lb25db1lb5~x4/">Dram!</a></td><td><code>DB/20 LB4 DB60 LB100 DB4 LB/20</code></td><td>376</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db5lb1db15lb25db1lb5~x4/"><img src="/variants/s6/db5lb1db15lb25db1lb5~x4/sett.png" alt="Dram! sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="416.0" cy="208.8" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.7" cy="285.4" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><circle cx="426.2" cy="185.7" r="4" fill="#3465a4"><title>Dominion</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="440.6" cy="216.4" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="491.5" cy="212.0" r="4" fill="#3465a4"><title>Scottish Qualifications Authority</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.9" cy="156.3" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/"><circle cx="500.4" cy="134.7" r="4" fill="#3465a4"><title>Marist</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.1" cy="236.1" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s6/db6w2db29w29db2w6~x2/"><circle cx="375.9" cy="235.8" r="4" fill="#3465a4"><title>Erskine</title></circle></a><a href="/variants/s8/db2lb2db15lb1w10lb15db2lb2~x2/"><circle cx="289.2" cy="224.8" r="4" fill="#3465a4"><title>Bannockbane Light</title></circle></a><circle cx="453.0" cy="217.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="416.8" cy="209.0" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="360.1" cy="285.5" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><circle cx="427.1" cy="185.9" r="4" fill="#3465a4"><title>Dominion</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="441.4" cy="216.6" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="492.5" cy="212.3" r="4" fill="#3465a4"><title>Scottish Qualifications Authority</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="541.1" cy="156.7" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/"><circle cx="501.5" cy="134.9" r="4" fill="#3465a4"><title>Marist</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.5" cy="236.1" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s6/db6w2db29w29db2w6~x2/"><circle cx="376.5" cy="235.9" r="4" fill="#3465a4"><title>Erskine</title></circle></a><a href="/variants/s8/db2lb2db15lb1w10lb15db2lb2~x2/"><circle cx="289.4" cy="224.7" r="4" fill="#3465a4"><title>Bannockbane Light</title></circle></a><circle cx="453.7" cy="217.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

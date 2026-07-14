@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db56k4w1db6k20w2k20~x2/">Dalziel Rugby Club (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db56k4w1db6k20w2k20~x2/"><img src="/variants/s7/db56k4w1db6k20w2k20~x2/sett.png" alt="Dalziel Rugby Club (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dalziel-rugby-club/">Dalziel Rugby Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dalziel-rugby-club/"><img src="/variants/s7/db56k4w1db6k20w2k20~x2/sett.png" alt="Dalziel Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

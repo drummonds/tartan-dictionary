@@ -10,10 +10,10 @@ crumbs:
 - name: "Hopetoun Rejected design"
   url: "/tartans/h/ho/hopetoun-rejected-design/"
 - name: "Hopetoun Rejected design"
-  url: "/setts/g11db1k1g2k12y1k12g2k2g11k2g2k12y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g11db1k1g2k12y1k12g2k2g11k2g2k12y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hopetoun-rejected-design/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGKGKGKGKGKG](/stripes/gbkgkgkgkgkgkg/).
 
 Part of the [Hopetoun Rejected design](/tartans/h/ho/hopetoun-rejected-design/) tartan — the named design grouping this sett with its other cloths.

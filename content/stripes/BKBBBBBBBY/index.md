@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/t8k5t16n9t3n3t3n3t10lr3~x2/">Digital Equipment Corp.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/t8k5t16n9t3n3t3n3t10lr3~x2/"><img src="/variants/s10/t8k5t16n9t3n3t3n3t10lr3~x2/sett.png" alt="Digital Equipment Corp. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/digital-equipment-corp-2/">Digital Equipment Corp.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/digital-equipment-corp-2/"><img src="/variants/s10/t8k5t16n9t3n3t3n3t10lr3~x2/sett.png" alt="Digital Equipment Corp. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

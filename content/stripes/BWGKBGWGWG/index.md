@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/">City of Pointe-Claire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/"><img src="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/sett.png" alt="City of Pointe-Claire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-pointe-claire/">City of Pointe-Claire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-pointe-claire/"><img src="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/sett.png" alt="City of Pointe-Claire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

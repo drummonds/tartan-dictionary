@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1~x4/">Hebron</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1~x4/"><img src="/variants/s13/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1~x4/sett.png" alt="Hebron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebron/">Hebron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebron/"><img src="/variants/s13/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1~x4/sett.png" alt="Hebron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

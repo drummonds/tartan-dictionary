@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/">Aurora House Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><img src="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/sett.png" alt="Aurora House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/aurora-house-check/">Aurora House Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/aurora-house-check/"><img src="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/sett.png" alt="Aurora House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

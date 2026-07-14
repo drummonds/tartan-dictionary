@@ -8,22 +8,22 @@ crumbs:
 - name: "Loevenstein Castle 3"
   url: "/tartans/l/lo/loevenstein-castle-3/"
 - name: "Loevenstein Castle 3 (Artefact)"
-  url: "/setts/b40dr1lr4dr2b8lr24/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b40dr1lr4dr2b8lr24/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loevenstein-castle-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBBY](/stripes/bbybby/).
 
 Part of the [Loevenstein Castle 3](/tartans/l/lo/loevenstein-castle-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3632](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3632)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3632/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3632/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2002 — Loevenstein Castle 3 (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3632">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #00008C"></span><br><em>Tartan painted in mural on walls of Loevenstein Castle, Holland, ca. 1750, probably by a Scottish officer of Scottish troops garrisoned there at the time. Discovered 1983 and re-constructed and woven by Dutch weavers. Reference Scottish clans and tartans Neil Grant, 1987. P. 38.</em></li>
+<li>pre 2002 — Loevenstein Castle 3 (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3632/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #00008C"></span><br><em>Tartan painted in mural on walls of Loevenstein Castle, Holland, ca. 1750, probably by a Scottish officer of Scottish troops garrisoned there at the time. Discovered 1983 and re-constructed and woven by Dutch weavers. Reference Scottish clans and tartans Neil Grant, 1987. P. 38.</em></li>
 <li>undated — Loevenstein Castle #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4934">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #B0B0B0"></span><br><em>Tartan painted in mural on walls of Loevenstein Castle, Holland, ca. 1750, probably by a Scottish officer of Scottish troops garrisoned there at the time. Discovered 1983 and re-constructed and woven by Dutch weavers. Reference Scottish clans and tartans Neil Grant, 1987. P38.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3632](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

@@ -12,10 +12,10 @@ crumbs:
 - name: "Redmond"
   url: "/tartans/r/re/redmond/"
 - name: "Redmond (2014)"
-  url: "/setts/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/redmond/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKBKGKGGGKR](/stripes/gkgkgkgkbkgkgggkr/).
 
 Part of the [Redmond](/tartans/r/re/redmond/) tartan — the named design grouping this sett with its other cloths.

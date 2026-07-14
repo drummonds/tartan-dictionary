@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g3r16g4k6g28r1g3~x2/">Maxwell, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g3r16g4k6g28r1g3~x2/"><img src="/variants/s7/g3r16g4k6g28r1g3~x2/sett.png" alt="Maxwell, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g24r4g3k14g5r2g10~x2/">Northcroft (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g24r4g3k14g5r2g10~x2/"><img src="/variants/s7/g24r4g3k14g5r2g10~x2/sett.png" alt="Northcroft (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maxwell-hunting/">Maxwell Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maxwell-hunting/"><img src="/variants/s7/g3r16g4k6g28r1g3~x2/sett.png" alt="Maxwell Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/northcroft/">Northcroft</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/northcroft/"><img src="/variants/s7/g24r4g3k14g5r2g10~x2/sett.png" alt="Northcroft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

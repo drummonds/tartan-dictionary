@@ -8,10 +8,10 @@ crumbs:
 - name: "Auchincloss"
   url: "/tartans/a/au/auchincloss/"
 - name: "Auchincloss (Personal)"
-  url: "/setts/k34db13k7db14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k34db13k7db14/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/auchincloss/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBK](/stripes/bkbk/).
 
 Part of the [Auchincloss](/tartans/a/au/auchincloss/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/10/2004 — Auchincloss (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>A tartan designed for the family of Dr Jeremy McGregor Auchincloss. Designed in the absence of any tartan for the name, despite its presence in Scotland since the 15th century.</em></li>
-<li>July 2004 — Auchincloss (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6859">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Notes from Jeremy Auchincloss: "Despite the presence of Auchinclosses in Scotland from the early 15th century (mainly in the Lowlands of Ayrshire and Renfrewshire south of Glasgow), no Auchincloss tartan exists and no clear clan affiliation has been demonstrated - probably because of the lowland domicile. I have recently arranged to have a new tartan designed incorporating features appropriate to the Auchincloss Scottish history (a 300-year connection with Paisley, for example). This will be registered as the official Auchincloss tartan." Despite this last statement, the STA has categorised this tartan as 'Name' since it has no evidence that Jeremy Auchincloss is in a position to declare it official.</em></li>
+<li>July 2004 — Auchincloss (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6859/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Notes from Jeremy Auchincloss: "Despite the presence of Auchinclosses in Scotland from the early 15th century (mainly in the Lowlands of Ayrshire and Renfrewshire south of Glasgow), no Auchincloss tartan exists and no clear clan affiliation has been demonstrated - probably because of the lowland domicile. I have recently arranged to have a new tartan designed incorporating features appropriate to the Auchincloss Scottish history (a 300-year connection with Paisley, for example). This will be registered as the official Auchincloss tartan." Despite this last statement, the STA has categorised this tartan as 'Name' since it has no evidence that Jeremy Auchincloss is in a position to declare it official.</em></li>
 </ul>
 </details>
 

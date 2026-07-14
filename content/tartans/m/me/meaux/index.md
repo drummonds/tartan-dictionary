@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db62dr24ly5dg3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbyg/">BBYG</a></nav>
 Its design is pattern [BBYG](/stripes/bbyg/) — the page of every tartan sharing this colour sequence.
 
 The **Meaux** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Meaux** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db62dr24ly5dg3/">Meaux</a></td><td><code>DB/124 DR48 LY10 DG/6</code></td><td>246</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db62dr24ly5dg3/"><img src="/variants/s4/db62dr24ly5dg3~x2/sett.png" alt="Meaux sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db62dr24ly5dg3~x2/">Meaux</a></td><td><code>DB/124 DR48 LY10 DG/6</code></td><td>246</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/db62dr24ly5dg3~x2/"><img src="/variants/s4/db62dr24ly5dg3~x2/sett.png" alt="Meaux sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="425.3" cy="178.6" r="4" fill="#3465a4"><title>Meaux, Luc G</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="348.2" cy="199.5" r="4" fill="#3465a4"><title>McNiff, Kevin</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="389.5" cy="184.7" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="569.4" cy="170.9" r="4" fill="#3465a4"><title>Norwich University Regimental</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="531.5" cy="144.5" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="445.9" cy="155.1" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="477.5" cy="109.9" r="4" fill="#3465a4"><title>Ravetta</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="442.7" cy="232.7" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="433.6" cy="192.9" r="4" fill="#3465a4"><title>Hsu</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="432.2" cy="192.5" r="4" fill="#3465a4"><title>MaleHsuHK</title></circle></a><circle cx="489.6" cy="220.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="426.3" cy="178.8" r="4" fill="#3465a4"><title>Meaux, Luc G</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="348.9" cy="199.6" r="4" fill="#3465a4"><title>McNiff, Kevin</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="390.6" cy="184.9" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="570.7" cy="171.3" r="4" fill="#3465a4"><title>Norwich University Regimental</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="532.9" cy="144.9" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="446.7" cy="155.3" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.6" cy="110.2" r="4" fill="#3465a4"><title>Ravetta</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="443.6" cy="233.0" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="434.5" cy="193.1" r="4" fill="#3465a4"><title>Hsu</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="433.1" cy="192.7" r="4" fill="#3465a4"><title>MaleHsuHK</title></circle></a><circle cx="490.5" cy="220.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

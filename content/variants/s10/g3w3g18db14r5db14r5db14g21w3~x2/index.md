@@ -12,10 +12,10 @@ crumbs:
 - name: "Hamilton of Clayton"
   url: "/tartans/h/ha/hamilton-of-clayton/"
 - name: "Hamilton of Clayton (Personal)"
-  url: "/setts/g3w3g18db14r5db14r5db14g21w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3w3g18db14r5db14r5db14g21w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hamilton-of-clayton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBRBRBGW](/stripes/gwgbrbrbgw/).
 
 Part of the [Hamilton of Clayton](/tartans/h/ha/hamilton-of-clayton/) tartan — the named design grouping this sett with its other cloths.

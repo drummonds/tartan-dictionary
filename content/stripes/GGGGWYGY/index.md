@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g4dy3g21dy2w14ly22dy3ly4~x2/">Bannock Bane M.406</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g4dy3g21dy2w14ly22dy3ly4~x2/"><img src="/variants/s8/g4dy3g21dy2w14ly22dy3ly4~x2/sett.png" alt="Bannock Bane M.406 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bannock-bane-m-406/">Bannock Bane M.406</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannock-bane-m-406/"><img src="/variants/s8/g4dy3g21dy2w14ly22dy3ly4~x2/sett.png" alt="Bannock Bane M.406 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

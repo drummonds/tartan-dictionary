@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g14w1g7k7db2k2db2k2db7/">Abercrombie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g14w1g7k7db2k2db2k2db7/"><img src="/variants/s9/g14w1g7k7db2k2db2k2db7/sett.png" alt="Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/">Abercrombie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/"><img src="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/sett.png" alt="Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db14k2db2k2db2k7g7w1g14/">Abercrombie D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db14k2db2k2db2k7g7w1g14/"><img src="/variants/s9/db14k2db2k2db2k7g7w1g14/sett.png" alt="Abercrombie D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/abercrombie/">Abercrombie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/abercrombie/"><img src="/variants/s9/g14w1g7k7db2k2db2k2db7/sett.png" alt="Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/abercrombie-d/">Abercrombie D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/abercrombie-d/"><img src="/variants/s9/db14k2db2k2db2k7g7w1g14/sett.png" alt="Abercrombie D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

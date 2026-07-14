@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/ly24k13ly2k4ly3k1ly3lb2ly3k1ly3k4ly2k13ly24r4~x2/">Cardiff City Football Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/ly24k13ly2k4ly3k1ly3lb2ly3k1ly3k4ly2k13ly24r4~x2/"><img src="/variants/s16/ly24k13ly2k4ly3k1ly3lb2ly3k1ly3k4ly2k13ly24r4~x2/sett.png" alt="Cardiff City Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cardiff-city-football-club-2/">Cardiff City Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cardiff-city-football-club-2/"><img src="/variants/s16/ly24k13ly2k4ly3k1ly3lb2ly3k1ly3k4ly2k13ly24r4~x2/sett.png" alt="Cardiff City Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

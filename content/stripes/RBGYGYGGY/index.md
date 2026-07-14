@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/">Glens of Corbie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/"><img src="/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/sett.png" alt="Glens of Corbie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glens-of-corbie/">Glens of Corbie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glens-of-corbie/"><img src="/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/sett.png" alt="Glens of Corbie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/">Chapman-Smith, M &amp; L (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/"><img src="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/sett.png" alt="Chapman-Smith, M &amp; L (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chapman-smith-m-l/">Chapman-Smith, M &amp; L</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chapman-smith-m-l/"><img src="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/sett.png" alt="Chapman-Smith, M &amp; L sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

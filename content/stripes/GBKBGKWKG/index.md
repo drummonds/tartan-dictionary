@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/">Smoke Showing (UFES)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><img src="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/sett.png" alt="Smoke Showing (UFES) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sm/smoke-showing/">Smoke Showing</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sm/smoke-showing/"><img src="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/sett.png" alt="Smoke Showing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

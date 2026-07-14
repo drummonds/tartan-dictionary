@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/">Akins of Candler (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><img src="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/sett.png" alt="Akins of Candler (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ak/akins-hunting/">Akins Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ak/akins-hunting/"><img src="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/sett.png" alt="Akins Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

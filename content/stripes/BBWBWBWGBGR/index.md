@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n2db16lb2db3lb2db3lb8g30db3y2r2~x2/">San Diego, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n2db16lb2db3lb2db3lb8g30db3y2r2~x2/"><img src="/variants/s11/n2db16lb2db3lb2db3lb8g30db3y2r2~x2/sett.png" alt="San Diego, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/san-diego-tartan-day/">San Diego Tartan Day</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/san-diego-tartan-day/"><img src="/variants/s11/n2db16lb2db3lb2db3lb8g30db3y2r2~x2/sett.png" alt="San Diego Tartan Day sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

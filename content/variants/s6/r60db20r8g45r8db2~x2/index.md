@@ -12,10 +12,10 @@ crumbs:
 - name: "Caledonian"
   url: "/tartans/c/ca/caledonian/"
 - name: "Caledonian"
-  url: "/setts/r60db20r8g45r8db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r60db20r8g45r8db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/caledonian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBR](/stripes/brgrbr/).
 
 Part of the [Caledonian](/tartans/c/ca/caledonian/) tartan — the named design grouping this sett with its other cloths.

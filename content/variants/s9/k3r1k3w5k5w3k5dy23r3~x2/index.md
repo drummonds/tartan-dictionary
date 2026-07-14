@@ -10,17 +10,17 @@ crumbs:
 - name: "Southdown"
   url: "/families/southdown/"
 - name: "Southdown"
-  url: "/tartans/s/so/southdown-2/"
+  url: "/tartans/s/so/southdown-4/"
 - name: "Southdown"
-  url: "/setts/k3r1k3w5k5w3k5dy23r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3r1k3w5k5w3k5dy23r3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRKWKWKGRGKWKWKR](/stripes/krkwkwkgrgkwkwkr/).
+provenance below. It is one weaving of the [sett](/tartans/s/so/southdown-4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKWKWKGR](/stripes/krkwkwkgr/).
 
-Part of the [Southdown](/tartans/s/so/southdown-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Southdown](/tartans/s/so/southdown-4/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3845](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3845)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3845](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1985 — Southdown (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3845">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><br><em>Noticed in Forsyth's of Edinburgh, by Miss A Nisbitt, This is a fashion tartan and has no Scottish connections.</em></li>
-<li>1985 circa — Southdown (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1194">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><br><em>From Forsyths of Edinburgh.</em></li>
+<li>1985 circa — Southdown (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1194/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><br><em>From Forsyths of Edinburgh.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1194
 
 ## Thread count
-K/6 R2 K6 W10 K10 W6 K10 DY46 R6 DY46 K10 W6 K10 W10 K6 R/2
+K/6 R2 K6 W10 K10 W6 K10 DY46 R/6
 
-One full sett is **376 threads**.
+One full sett is **192 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/6 R2 K6 W10 K10 W6 K10 DY46 R6 DY46 K10 W6 K10 W10 K6 R/2 — 376 threads; it folds to the canonical 192-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **376 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 R2 K6 W10 K10 W6 K10 DY46 R6 DY46 K10 W6 K10 W10 K6 R/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 R2 K6 W10 K10 W6 K10 DY46 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

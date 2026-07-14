@@ -8,22 +8,22 @@ crumbs:
 - name: "Balmer"
   url: "/tartans/b/ba/balmer/"
 - name: "Balmer (Personal)"
-  url: "/setts/y2r5y2r5db49w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2r5y2r5db49w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/balmer/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBW](/stripes/grgrbw/).
 
 Part of the [Balmer](/tartans/b/ba/balmer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7133](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7133)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7133/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7133/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>Dec 2001 — Balmer (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7133">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Apparently designed in December 2001 but not 'registered' with the STWR until 2005. For the exclusive family use of Alex Balmer from East Kilbride. Woven by D C Dalgliesh. In January of 2008 a tartan was submitted for the Caledonian Club of San Francisco which was so close to this sett that the STA declined to 'register' it. Alex Balmer also confirmed his wish that the design be reserved for his family only. The CC of San Francisco count (taken from a woven sample) is as follows: Y/4 R4 Y6 R20 K2 B92 W/8.</em></li>
+<li>Dec 2001 — Balmer (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7133/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Apparently designed in December 2001 but not 'registered' with the STWR until 2005. For the exclusive family use of Alex Balmer from East Kilbride. Woven by D C Dalgliesh. In January of 2008 a tartan was submitted for the Caledonian Club of San Francisco which was so close to this sett that the STA declined to 'register' it. Alex Balmer also confirmed his wish that the design be reserved for his family only. The CC of San Francisco count (taken from a woven sample) is as follows: Y/4 R4 Y6 R20 K2 B92 W/8.</em></li>
 <li>undated — Balmer (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5437">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>For family use of Alex Balmer from East Kilbride.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7133](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

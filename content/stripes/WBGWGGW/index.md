@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/">Valley, of the Green. (The )</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/"><img src="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/sett.png" alt="Valley, of the Green. (The ) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/valley-of-the-3/">Valley, of the</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/valley-of-the-3/"><img src="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/sett.png" alt="Valley, of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

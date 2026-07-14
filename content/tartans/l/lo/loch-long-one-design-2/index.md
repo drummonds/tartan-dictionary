@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ly4k28r2db22t8dy3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbbrky/">GBBRKY</a></nav>
 Its design is pattern [GBBRKY](/stripes/gbbrky/) — the page of every tartan sharing this colour sequence.
 
 The **Loch Long One Design** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Loch Long One Design** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly4k28r2db22t8dy3/">Loch Long One Design</a></td><td><code>LY/8 K56 R4 DB44 T16 DY/6</code></td><td>254</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly4k28r2db22t8dy3/"><img src="/variants/s6/ly4k28r2db22t8dy3~x2/sett.png" alt="Loch Long One Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly4k28r2db22t8dy3~x2/">Loch Long One Design</a></td><td><code>LY/8 K56 R4 DB44 T16 DY/6</code></td><td>254</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><img src="/variants/s6/ly4k28r2db22t8dy3~x2/sett.png" alt="Loch Long One Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="206.8" cy="120.6" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.2" cy="160.7" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="205.0" cy="136.5" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="194.7" cy="164.8" r="4" fill="#3465a4"><title>Nicolson of Harris</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="200.9" cy="156.0" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="131.7" cy="170.2" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="243.1" cy="113.2" r="4" fill="#3465a4"><title>Pipers' Trail</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="163.3" cy="150.7" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="233.5" cy="139.8" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="162.1" cy="168.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><circle cx="166.2" cy="144.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="207.5" cy="120.5" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.9" cy="160.6" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="205.6" cy="136.3" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.1" cy="164.6" r="4" fill="#3465a4"><title>Nicolson of Harris</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="201.5" cy="155.8" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="132.0" cy="170.0" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="243.9" cy="113.1" r="4" fill="#3465a4"><title>Pipers' Trail</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="163.8" cy="150.5" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="234.2" cy="139.7" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="162.5" cy="168.5" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><circle cx="166.8" cy="144.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

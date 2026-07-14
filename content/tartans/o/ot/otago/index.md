@@ -8,9 +8,13 @@ crumbs:
   url: "/clan/otago/"
 - name: "Otago"
   url: "/families/otago/"
+aliases:
+- "/setts/ly16k2ly6k2r2k2db15g1db1w2/"
+- "/setts/y16k2y6k2r2k2db15g1db1w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbgbkrkyky/">WBGBKRKYKY</a></nav>
 A tartan of the [Otago](/families/otago/) family.
-Its design is pattern [KYKRKBGBWBGBKRKYKY](/stripes/kykrkbgbwbgbkrkyky/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [WBGBKRKYKY](/stripes/wbgbkrkyky/) — the page of every tartan sharing this colour sequence.
 
 Blue and gold New Zealand district tartan; white for St Andrew's Cross, gold for Otago's goldfields, red and black for emigrant ties and mourning.
 
@@ -20,10 +24,10 @@ The **Otago** tartan groups 2 setts — the same named design recorded as differ
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly16k2ly6k2r2k2db15g1db1w2/">Otago</a> ★</td><td><code>LY/32 K4 LY12 K4 R4 K4 DB30 G2 DB2 W4 DB2 G2 DB30 K4 R4 K4 LY12 K/4</code></td><td>160</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly16k2ly6k2r2k2db15g1db1w2/"><img src="/variants/s10/ly16k2ly6k2r2k2db15g1db1w2~x2/sett.png" alt="Otago sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/y16k2y6k2r2k2db15g1db1w2/">Otago</a></td><td><code>Y/32 K4 Y12 K4 R4 K4 DB30 G2 DB2 W/4</code></td><td>160</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y16k2y6k2r2k2db15g1db1w2/"><img src="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/sett.png" alt="Otago sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/ly16k2ly6k2r2k2db15g1db1w2~x2/">Otago</a> ★</td><td><code>LY/32 K4 LY12 K4 R4 K4 DB30 G2 DB2 W/4</code></td><td>160</td><td>1988</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/ly16k2ly6k2r2k2db15g1db1w2~x2/"><img src="/variants/s10/ly16k2ly6k2r2k2db15g1db1w2~x2/sett.png" alt="Otago sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/">Otago</a></td><td><code>Y/32 K4 Y12 K4 R4 K4 DB30 G2 DB2 W/4</code></td><td>160</td><td>1996</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/"><img src="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/sett.png" alt="Otago sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -42,6 +46,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/dy27w2dy3y4dy3w2dy5k13lb2w26dg3~x2/"><circle cx="142.3" cy="104.9" r="4" fill="#3465a4"><title>MacKellar Dress</title></circle></a><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/"><circle cx="153.1" cy="87.7" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/"><circle cx="155.8" cy="91.0" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="145.1" cy="127.2" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/"><circle cx="159.9" cy="116.7" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon</title></circle></a><a href="/variants/s13/dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2~x2/"><circle cx="120.2" cy="99.3" r="4" fill="#3465a4"><title>Hay-Stewart</title></circle></a><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><circle cx="130.5" cy="124.4" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="130.4" cy="92.9" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/variants/s11/dg27w2dg3ly4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="155.9" cy="120.6" r="4" fill="#3465a4"><title>MacKellar Dress</title></circle></a><a href="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/"><circle cx="140.0" cy="104.0" r="4" fill="#3465a4"><title>McMillen Memorial, Hugh E.</title></circle></a><circle cx="159.7" cy="99.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/dy27w2dy3y4dy3w2dy5k13lb2w26dg3~x2/"><circle cx="142.8" cy="104.6" r="4" fill="#3465a4"><title>MacKellar Dress</title></circle></a><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/"><circle cx="153.6" cy="87.4" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/"><circle cx="156.3" cy="90.7" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="145.5" cy="126.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/"><circle cx="160.4" cy="116.4" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon</title></circle></a><a href="/variants/s13/dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2~x2/"><circle cx="120.6" cy="98.9" r="4" fill="#3465a4"><title>Hay-Stewart</title></circle></a><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><circle cx="130.9" cy="124.1" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="130.9" cy="92.6" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/variants/s11/dg27w2dg3ly4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="156.4" cy="120.4" r="4" fill="#3465a4"><title>MacKellar Dress</title></circle></a><a href="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/"><circle cx="140.4" cy="103.7" r="4" fill="#3465a4"><title>McMillen Memorial, Hugh E.</title></circle></a><circle cx="160.3" cy="99.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

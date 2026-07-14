@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Caithness"
   url: "/clan/caithness/"
+aliases:
+- "/setts/r1lr10y2lr16db40lr1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rygyby/">RYGYBY</a></nav>
 A tartan of [Clan Caithness](/clan/caithness/).
 Its design is pattern [RYGYBY](/stripes/rygyby/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Caithness Glass** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r1lr10y2lr16db40lr1/">Caithness Glass</a></td><td><code>R/2 LR20 Y4 LR32 DB80 LR/2</code></td><td>276</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1lr10y2lr16db40lr1/"><img src="/variants/s6/r1lr10y2lr16db40lr1~x2/sett.png" alt="Caithness Glass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r1lr10y2lr16db40lr1~x2/">Caithness Glass</a></td><td><code>R/2 LR20 Y4 LR32 DB80 LR/2</code></td><td>276</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r1lr10y2lr16db40lr1~x2/"><img src="/variants/s6/r1lr10y2lr16db40lr1~x2/sett.png" alt="Caithness Glass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><circle cx="335.5" cy="150.4" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><circle cx="345.1" cy="86.1" r="4" fill="#3465a4"><title>Union Memorial</title></circle></a><a href="/variants/s6/dp2g3lp21dp42w1g2~x2/"><circle cx="424.6" cy="125.5" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s8/dy4w1db42ri1w21db4w4r4~x2~ri2806019-r1807033/"><circle cx="321.7" cy="85.9" r="4" fill="#3465a4"><title>Presley of Memphis</title></circle></a><a href="/variants/s6/lb60db19w3db2r2db7~x2/"><circle cx="410.4" cy="130.6" r="4" fill="#3465a4"><title>Federal Bureaux</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.8" cy="117.4" r="4" fill="#3465a4"><title>Iberia Dress</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="425.8" cy="100.9" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/"><circle cx="412.4" cy="112.3" r="4" fill="#3465a4"><title>Baker Dress</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="341.1" cy="81.4" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="327.5" cy="165.7" r="4" fill="#3465a4"><title>Lothian Buses</title></circle></a><circle cx="377.4" cy="123.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><circle cx="336.3" cy="150.4" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><circle cx="346.1" cy="86.0" r="4" fill="#3465a4"><title>Union Memorial</title></circle></a><a href="/variants/s6/dp2g3lp21dp42w1g2~x2/"><circle cx="425.6" cy="125.5" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s8/dy4w1db42ri1w21db4w4r4~x2~ri2806019-r1807033/"><circle cx="322.6" cy="85.9" r="4" fill="#3465a4"><title>Presley of Memphis</title></circle></a><a href="/variants/s6/lb60db19w3db2r2db7~x2/"><circle cx="411.4" cy="130.7" r="4" fill="#3465a4"><title>Federal Bureaux</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="326.6" cy="117.4" r="4" fill="#3465a4"><title>Iberia Dress</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="427.0" cy="101.0" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/"><circle cx="413.5" cy="112.4" r="4" fill="#3465a4"><title>Baker Dress</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="342.1" cy="81.3" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="328.3" cy="165.7" r="4" fill="#3465a4"><title>Lothian Buses</title></circle></a><circle cx="378.4" cy="123.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

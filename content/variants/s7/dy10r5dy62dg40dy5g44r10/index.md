@@ -12,10 +12,10 @@ crumbs:
 - name: "Ballintrae"
   url: "/tartans/b/ba/ballintrae/"
 - name: "Ballintrae Trade Tartan"
-  url: "/setts/dy10r5dy62dg40dy5g44r10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy10r5dy62dg40dy5g44r10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/ballintrae/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGGGR](/stripes/grggggr/).
 
 Part of the [Ballintrae](/tartans/b/ba/ballintrae/) tartan — the named design grouping this sett with its other cloths.

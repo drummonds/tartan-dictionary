@@ -10,17 +10,17 @@ crumbs:
 - name: "Kinnaird"
   url: "/families/kinnaird/"
 - name: "Kinnaird"
-  url: "/tartans/k/ki/kinnaird-4/"
+  url: "/tartans/k/ki/kinnaird/"
 - name: "Kinnaird"
-  url: "/setts/n33k4n4k5n4k7db41r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n33k4n4k5n4k7db41r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBKBRBKBKBK](/stripes/bkbkbkbrbkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kinnaird/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBR](/stripes/bkbkbkbr/).
 
-Part of the [Kinnaird](/tartans/k/ki/kinnaird-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kinnaird](/tartans/k/ki/kinnaird/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1991](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1991)
 
@@ -32,7 +32,7 @@ Earliest known date: March 1996 For the Kinnaird Worldwide Association - http://
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/08/1996 — Kinnaird (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1991">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>For the Kinnaird Worldwide Association - http://www.kinnaird.net. From the Kinnaird website it would seem that anyone is free to weave this tartan (February 2005).</em></li>
-<li>March 1996 — Kinnaird (Australia) (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2242">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>For the Kinnaird Worldwide Association - http://www.kinnaird.net. From the Kinnaird website it would seem that anyone is free to weave this tartan (Feb 2005).</em></li>
+<li>March 1996 — Kinnaird (Australia) (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2242/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>For the Kinnaird Worldwide Association - http://www.kinnaird.net. From the Kinnaird website it would seem that anyone is free to weave this tartan (Feb 2005).</em></li>
 <li>March 1996 — Kinnaird Family Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2242">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
 </ul>
 </details>
@@ -62,9 +62,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2242
 
 ## Thread count
-N/66 K8 N8 K10 N8 K14 DB82 R8 DB82 K14 N8 K10 N8 K/8
+N/66 K8 N8 K10 N8 K14 DB82 R/8
 
-One full sett is **594 threads**.
+One full sett is **334 threads**.
+
+<p class="recorded-note">The source recorded this cloth as N/66 K8 N8 K10 N8 K14 DB82 R8 DB82 K14 N8 K10 N8 K/8 — 594 threads; it folds to the canonical 334-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -73,7 +75,7 @@ One full sett is **594 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/66 K8 N8 K10 N8 K14 DB82 R8 DB82 K14 N8 K10 N8 K/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/66 K8 N8 K10 N8 K14 DB82 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

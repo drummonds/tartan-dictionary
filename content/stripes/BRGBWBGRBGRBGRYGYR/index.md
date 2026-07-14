@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/">Belk Festive (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/"><img src="/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/sett.png" alt="Belk Festive (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/belk-festive/">Belk Festive</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/belk-festive/"><img src="/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/sett.png" alt="Belk Festive sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

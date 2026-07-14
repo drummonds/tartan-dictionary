@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/">MacLean</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/"><img src="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/sett.png" alt="MacLean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean-4/">MacLean</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-4/"><img src="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/sett.png" alt="MacLean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/">MacLean Variation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/"><img src="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/sett.png" alt="MacLean Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean-variation/">MacLean Variation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-variation/"><img src="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/sett.png" alt="MacLean Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

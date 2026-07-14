@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/n22y10w3k8~x2/">Louisburg Canadian District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/n22y10w3k8~x2/"><img src="/variants/s4/n22y10w3k8~x2/sett.png" alt="Louisburg Canadian District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/louisburg/">Louisburg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/louisburg/"><img src="/variants/s4/n22y10w3k8~x2/sett.png" alt="Louisburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

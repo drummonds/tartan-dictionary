@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg3dy2gi12g12w1dg1y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggggwgg/">GGGGWGG</a></nav>
 Its design is pattern [GGGGWGG](/stripes/ggggwgg/) — the page of every tartan sharing this colour sequence.
 
 The **Braemar House** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Braemar House** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg3dy2gi12g12w1dg1y3/">Braemar House</a></td><td><code>Y/6 DG2 W2 G24 Gi24 DY4 DG/6</code></td><td>124</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg3dy2gi12g12w1dg1y3/"><img src="/variants/s7/dg3dy2gi12g12w1dg1y3~x2~dg1806142-gi2408144-g1903114/sett.png" alt="Braemar House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg3dy2gi12g12w1dg1y3~x2~dg1806142-gi2408144-g1903114/">Braemar House</a></td><td><code>DG/6 DY4 Gi24 G24 W2 DG2 Y/6</code></td><td>124</td><td>1987</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg3dy2gi12g12w1dg1y3~x2~dg1806142-gi2408144-g1903114/"><img src="/variants/s7/dg3dy2gi12g12w1dg1y3~x2~dg1806142-gi2408144-g1903114/sett.png" alt="Braemar House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/"><circle cx="254.2" cy="235.7" r="4" fill="#3465a4"><title>Braemar House</title></circle></a><a href="/variants/s7/y3g1w1gi12gii12o2g3~x2~gi2104115-gii2508144/"><circle cx="338.3" cy="279.2" r="4" fill="#3465a4"><title>Braemar House</title></circle></a><a href="/variants/s7/n5g4lr1g4dy4dg4y1~x4~g1903114-dg1405139/"><circle cx="254.3" cy="353.8" r="4" fill="#3465a4"><title>Devon</title></circle></a><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"><circle cx="305.6" cy="260.0" r="4" fill="#3465a4"><title>City of Vancouver</title></circle></a><a href="/variants/s5/g25y6dg5r3y10~x4/"><circle cx="392.9" cy="297.9" r="4" fill="#3465a4"><title>Pendlebury, Andrew</title></circle></a><circle cx="299.2" cy="261.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/"><circle cx="254.1" cy="235.6" r="4" fill="#3465a4"><title>Braemar House</title></circle></a><a href="/variants/s7/y3g1w1gi12gii12o2g3~x2~gi2104115-gii2508144/"><circle cx="337.9" cy="279.3" r="4" fill="#3465a4"><title>Braemar House</title></circle></a><a href="/variants/s7/n5g4lr1g4dy4dg4y1~x4~g1903114-dg1405139/"><circle cx="253.7" cy="353.8" r="4" fill="#3465a4"><title>Devon</title></circle></a><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"><circle cx="305.5" cy="260.0" r="4" fill="#3465a4"><title>City of Vancouver</title></circle></a><a href="/variants/s5/g25y6dg5r3y10~x4/"><circle cx="393.0" cy="298.1" r="4" fill="#3465a4"><title>Pendlebury, Andrew</title></circle></a><circle cx="298.9" cy="261.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

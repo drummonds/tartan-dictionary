@@ -8,10 +8,10 @@ crumbs:
 - name: "Isle of Barra"
   url: "/tartans/i/is/isle-of-barra/"
 - name: "Isle of Barra"
-  url: "/setts/dp2w12t11lb12k1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2w12t11lb12k1g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/is/isle-of-barra/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKG](/stripes/bwbwkg/).
 
 Part of the [Isle of Barra](/tartans/i/is/isle-of-barra/) tartan — the named design grouping this sett with its other cloths.

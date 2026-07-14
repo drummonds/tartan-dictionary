@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g6w1lb3ti6t12b15o3w1lbi1~x2~lb3203246-ti2503227-t2308259-b2008266-lbi3300000/">JMAR Unlimited</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g6w1lb3ti6t12b15o3w1lbi1~x2~lb3203246-ti2503227-t2308259-b2008266-lbi3300000/"><img src="/variants/s9/g6w1lb3ti6t12b15o3w1lbi1~x2~lb3203246-ti2503227-t2308259-b2008266-lbi3300000/sett.png" alt="JMAR Unlimited sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jm/jmar-unlimited/">JMAR Unlimited</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jm/jmar-unlimited/"><img src="/variants/s9/g6w1lb3ti6t12b15o3w1lbi1~x2~lb3203246-ti2503227-t2308259-b2008266-lbi3300000/sett.png" alt="JMAR Unlimited sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

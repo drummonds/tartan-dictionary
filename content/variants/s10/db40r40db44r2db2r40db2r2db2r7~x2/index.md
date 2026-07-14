@@ -8,15 +8,15 @@ crumbs:
 - name: "Prince Charles Edward"
   url: "/tartans/p/pr/prince-charles-edward-2/"
 - name: "Unnamed C18th - Prince Charles Edward #2"
-  url: "/setts/db40r40db44r2db2r40db2r2db2r7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db40r40db44r2db2r40db2r2db2r7/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRBRBRBRBRBR](/stripes/brbrbrbrbrbrbrbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/p/pr/prince-charles-edward-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRBR](/stripes/brbrbrbrbr/).
 
 Part of the [Prince Charles Edward](/tartans/p/pr/prince-charles-edward-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4421](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4421)
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 452
 
 ## Thread count
-DB/80 R80 DB88 R4 DB4 R80 DB4 R4 DB4 R14 DB4 R4 DB4 R80 DB4 R4 DB88 R/80
+DB/80 R80 DB88 R4 DB4 R80 DB4 R4 DB4 R/14
 
-One full sett is **1100 threads**.
+One full sett is **630 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/80 R80 DB88 R4 DB4 R80 DB4 R4 DB4 R14 DB4 R4 DB4 R80 DB4 R4 DB88 R/80 — 1100 threads; it folds to the canonical 630-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **1100 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/80 R80 DB88 R4 DB4 R80 DB4 R4 DB4 R14 DB4 R4 DB4 R80 DB4 R4 DB88 R/80 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/80 R80 DB88 R4 DB4 R80 DB4 R4 DB4 R/14 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

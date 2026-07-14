@@ -10,15 +10,15 @@ crumbs:
 - name: "West Highland Way"
   url: "/tartans/w/we/west-highland-way/"
 - name: "West Highland Way"
-  url: "/setts/db9lb1db1r3db14r1k12dg15dp3dg21r1dg8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db9lb1db1r3db14r1k12dg15dp3dg21r1dg8/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBRBRKGBGRGRGBGKRBRBW](/stripes/bwbrbrkgbgrgrgbgkrbrbw/).
+provenance below. It is one weaving of the [sett](/tartans/w/we/west-highland-way/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBRBRKGBGRG](/stripes/bwbrbrkgbgrg/).
 
 Part of the [West Highland Way](/tartans/w/we/west-highland-way/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4601](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4601)
 
@@ -46,9 +46,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6837
 
 ## Thread count
-DB/18 LB2 DB2 R6 DB28 R2 K24 DG30 DP6 DG42 R2 DG16 R2 DG42 DP6 DG30 K24 R2 DB28 R6 DB2 LB/2
+DB/18 LB2 DB2 R6 DB28 R2 K24 DG30 DP6 DG42 R2 DG/16
 
-One full sett is **624 threads**.
+One full sett is **322 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/18 LB2 DB2 R6 DB28 R2 K24 DG30 DP6 DG42 R2 DG16 R2 DG42 DP6 DG30 K24 R2 DB28 R6 DB2 LB/2 — 624 threads; it folds to the canonical 322-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -57,7 +59,7 @@ One full sett is **624 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/18 LB2 DB2 R6 DB28 R2 K24 DG30 DP6 DG42 R2 DG16 R2 DG42 DP6 DG30 K24 R2 DB28 R6 DB2 LB/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/18 LB2 DB2 R6 DB28 R2 K24 DG30 DP6 DG42 R2 DG/16 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

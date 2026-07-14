@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/">Christmas Hill Game Farm</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><img src="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/sett.png" alt="Christmas Hill Game Farm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/">Christmas Hill Game Farm (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/"><img src="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/sett.png" alt="Christmas Hill Game Farm (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/christmas-hill-game-farm/">Christmas Hill Game Farm</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/christmas-hill-game-farm/"><img src="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/sett.png" alt="Christmas Hill Game Farm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

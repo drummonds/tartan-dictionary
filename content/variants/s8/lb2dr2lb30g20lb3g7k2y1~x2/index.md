@@ -8,10 +8,10 @@ crumbs:
 - name: "L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy"
   url: "/tartans/l/l/l-abeille-du-cercle-de-fermi-res-sainte-genevi-ve-de-sainte-foy/"
 - name: "L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy"
-  url: "/setts/lb2dr2lb30g20lb3g7k2y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb2dr2lb30g20lb3g7k2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/l/l-abeille-du-cercle-de-fermi-res-sainte-genevi-ve-de-sainte-foy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGWGWBW](/stripes/gkgwgwbw/).
 
 Part of the [L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy](/tartans/l/l/l-abeille-du-cercle-de-fermi-res-sainte-genevi-ve-de-sainte-foy/) tartan — the named design grouping this sett with its other cloths.

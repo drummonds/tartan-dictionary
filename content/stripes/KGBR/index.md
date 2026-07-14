@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k18g18do21r4~x2/">Tennant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k18g18do21r4~x2/"><img src="/variants/s4/k18g18do21r4~x2/sett.png" alt="Tennant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/tennant-2/">Tennant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/tennant-2/"><img src="/variants/s4/k18g18do21r4~x2/sett.png" alt="Tennant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

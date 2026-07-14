@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/">O'Shaughnessy (Estimated threadcount)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/"><img src="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/sett.png" alt="O'Shaughnessy (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-shaughnessy/">O'Shaughnessy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-shaughnessy/"><img src="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/sett.png" alt="O'Shaughnessy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/g17r2db15~x2/">Ferguson (Old) Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/g17r2db15~x2/"><img src="/variants/s3/g17r2db15~x2/sett.png" alt="Ferguson (Old) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson/">Ferguson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson/"><img src="/variants/s3/g17r2db15~x2/sett.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-62/">Wilson's No 62</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-62/"><img src="/variants/s3/db13r2g13~x2/sett.png" alt="Wilson's No 62 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

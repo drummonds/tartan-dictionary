@@ -10,10 +10,10 @@ crumbs:
 - name: "Lennox Turquoise Dress"
   url: "/tartans/l/le/lennox-turquoise-dress/"
 - name: "Lennox Turquoise Dress District Tartan"
-  url: "/setts/w8k2w26db5lb24db2lb8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w8k2w26db5lb24db2lb8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/lennox-turquoise-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWKW](/stripes/wbwbwkw/).
 
 Part of the [Lennox Turquoise Dress](/tartans/l/le/lennox-turquoise-dress/) tartan — the named design grouping this sett with its other cloths.

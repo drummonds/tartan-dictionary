@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9~x2~db0705267/">New Loudoun</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9~x2~db0705267/"><img src="/variants/s18/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9~x2~db0705267/sett.png" alt="New Loudoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-loudoun/">New Loudoun</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-loudoun/"><img src="/variants/s18/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9~x2~db0705267/sett.png" alt="New Loudoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

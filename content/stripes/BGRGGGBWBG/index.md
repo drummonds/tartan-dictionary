@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g10t2w2t16g6y2g4r2g3t6~x4/">Harkness Htg (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g10t2w2t16g6y2g4r2g3t6~x4/"><img src="/variants/s10/g10t2w2t16g6y2g4r2g3t6~x4/sett.png" alt="Harkness Htg (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/">Harkness Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><img src="/variants/s10/g21db4w4db32g12y4g8r4g6db12/sett.png" alt="Harkness Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harkness/">Harkness</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harkness/"><img src="/variants/s10/g21db4w4db32g12y4g8r4g6db12/sett.png" alt="Harkness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harkness-hunting/">Harkness Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harkness-hunting/"><img src="/variants/s10/g10t2w2t16g6y2g4r2g3t6~x4~w3600000/sett.png" alt="Harkness Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

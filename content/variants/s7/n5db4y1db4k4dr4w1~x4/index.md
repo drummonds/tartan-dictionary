@@ -10,10 +10,10 @@ crumbs:
 - name: "Devon Companion"
   url: "/tartans/d/de/devon-companion-2/"
 - name: "Devon Companion District Tartan"
-  url: "/setts/n5db4y1db4k4dr4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n5db4y1db4k4dr4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/devon-companion-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBKBW](/stripes/bbgbkbw/).
 
 Part of the [Devon Companion](/tartans/d/de/devon-companion-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/">Dalwhinnie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><img src="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/sett.png" alt="Dalwhinnie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dalwhinnie/">Dalwhinnie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dalwhinnie/"><img src="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/sett.png" alt="Dalwhinnie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

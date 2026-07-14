@@ -12,10 +12,10 @@ crumbs:
 - name: "Digital"
   url: "/tartans/d/di/digital-2/"
 - name: "Digital Corporate Tartan"
-  url: "/setts/lb6k3lb10ly5lb2ly2lb2ly2lb7w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb6k3lb10ly5lb2ly2lb2ly2lb7w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/digital-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWYWYWYWW](/stripes/wkwywywyww/).
 
 Part of the [Digital](/tartans/d/di/digital-2/) tartan — the named design grouping this sett with its other cloths.

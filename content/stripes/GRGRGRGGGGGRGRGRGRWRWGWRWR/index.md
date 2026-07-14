@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/dg1r6g5r6dg1r1dg9dy3g3y3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4/">Maple Leaf Dress District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/dg1r6g5r6dg1r1dg9dy3g3y3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4/"><img src="/variants/s26/dg1r6g5r6dg1r1dg9dy3g3y3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4/sett.png" alt="Maple Leaf Dress District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maple-leaf-dress/">Maple Leaf Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maple-leaf-dress/"><img src="/variants/s26/dg1r6g5r6dg1r1dg9dy3g3y3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4/sett.png" alt="Maple Leaf Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

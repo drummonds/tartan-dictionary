@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/do16dr2do3dr4do2n12do18lb2do18n12do12dy2dr2dy2~x2/">Allen - Northumbrian Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/do16dr2do3dr4do2n12do18lb2do18n12do12dy2dr2dy2~x2/"><img src="/variants/s14/do16dr2do3dr4do2n12do18lb2do18n12do12dy2dr2dy2~x2/sett.png" alt="Allen - Northumbrian Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/allen/">Allen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allen/"><img src="/variants/s14/do16dr2do3dr4do2n12do18lb2do18n12do12dy2dr2dy2~x2/sett.png" alt="Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

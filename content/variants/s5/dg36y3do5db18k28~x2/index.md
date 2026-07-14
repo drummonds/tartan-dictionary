@@ -12,15 +12,15 @@ crumbs:
 - name: "Dobson"
   url: "/tartans/d/do/dobson/"
 - name: "Dobson Name Tartan"
-  url: "/setts/dg36y3do5db18k28/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg36y3do5db18k28/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/dobson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBBKK](/stripes/ggbbkk/).
 
 Part of the [Dobson](/tartans/d/do/dobson/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10943](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10943)
 
@@ -45,9 +45,11 @@ Earliest known date: 2013 Designed by Kelly Dobson Matson for the personal use o
 </details>
 
 ## Thread count
-DG/72 Y6 DO10 DB36 K20 K/36
+DG/72 Y6 DO10 DB36 K/56
 
-One full sett is **252 threads**.
+One full sett is **232 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/72 Y6 DO10 DB36 K20 K/36 — 252 threads; it folds to the canonical 232-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **252 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/72 Y6 DO10 DB36 K20 K/36 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/72 Y6 DO10 DB36 K/56 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

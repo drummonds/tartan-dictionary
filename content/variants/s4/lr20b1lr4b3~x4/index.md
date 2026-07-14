@@ -8,10 +8,10 @@ crumbs:
 - name: "Loevenstein Castle 2"
   url: "/tartans/l/lo/loevenstein-castle-2/"
 - name: "Loevenstein Castle #2"
-  url: "/setts/lr20b1lr4b3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lr20b1lr4b3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loevenstein-castle-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBY](/stripes/byby/).
 
 Part of the [Loevenstein Castle 2](/tartans/l/lo/loevenstein-castle-2/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4937](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1750 — Loevenstein Castle #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4937">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #B0B0B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><br><em>Tartan painted in mural on walls of Loevenstein Castle, Holland, c.1750, probably by a Scottish officer of Scottish troops garrisoned there at the time. Discovered 1983 and re-constructed and woven by Dutch weavers. Reference Scottish clans and tartans Neil Grant, 1987. P38.</em></li>
-<li>1750 — Loevenstein Castle 2 (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3633">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><br><em>Tartan painted in mural on walls of Loevenstein Castle, Holland, ca. 1750, probably by a Scottish officer of Scottish troops garrisoned there at the time. Discovered 1983 and re-constructed and woven by Dutch weavers. Reference Scottish clans and tartans Neil Grant, 1987. P. 38.</em></li>
+<li>1750 — Loevenstein Castle 2 (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3633/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><br><em>Tartan painted in mural on walls of Loevenstein Castle, Holland, ca. 1750, probably by a Scottish officer of Scottish troops garrisoned there at the time. Discovered 1983 and re-constructed and woven by Dutch weavers. Reference Scottish clans and tartans Neil Grant, 1987. P. 38.</em></li>
 </ul>
 </details>
 

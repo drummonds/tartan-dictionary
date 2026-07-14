@@ -6,15 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Tourist Board"
-  url: "/tartans/s/sc/scottish-tourist-board-2/"
-- name: "Scottish Tourist Board (1990)"
-  url: "/setts/dbi88db35w3db10/"
+  url: "/tartans/s/sc/scottish-tourist-board/"
+- name: "Scottish Tourist Board (1990) Corporate Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi88db35w3db10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-tourist-board/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWB](/stripes/bbwb/).
 
-Part of the [Scottish Tourist Board](/tartans/s/sc/scottish-tourist-board-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish Tourist Board](/tartans/s/sc/scottish-tourist-board/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 

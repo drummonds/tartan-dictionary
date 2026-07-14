@@ -10,17 +10,17 @@ crumbs:
 - name: "Whitworth"
   url: "/families/whitworth/"
 - name: "Whitworth"
-  url: "/tartans/w/wh/whitworth/"
+  url: "/tartans/w/wh/whitworth-3/"
 - name: "Whitworth"
-  url: "/setts/r5dy1r8w1db20w1lb20w1g20dy1r5dy1r5dy1g20dy2r52w1dy5w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5dy1r8w1db20w1lb20w1g20dy1r5dy1r5dy1g20dy2r52w1dy5w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRWBWWWGGRGRGGGRWGWGWRGGGRGRGGWWWBWRGR](/stripes/grwbwwwggrgrgggrwgwgwrgggrgrggwwwbwrgr/).
+provenance below. It is one weaving of the [sett](/tartans/w/wh/whitworth-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGRWBWWWGGRGRGGGRWGW](/stripes/rgrwbwwwggrgrgggrwgw/).
 
-Part of the [Whitworth](/tartans/w/wh/whitworth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Whitworth](/tartans/w/wh/whitworth-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4619](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4619)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1724
 
 ## Thread count
-R/10 DY2 R16 W2 DB40 W2 LB40 W2 G40 DY2 R10 DY2 R10 DY2 G40 DY4 R104 W2 DY10 W2 DY10 W2 R104 DY4 G40 DY2 R10 DY2 R10 DY2 G40 W2 LB40 W2 DB40 W2 R16 DY/2
+R/10 DY2 R16 W2 DB40 W2 LB40 W2 G40 DY2 R10 DY2 R10 DY2 G40 DY4 R104 W2 DY10 W/2
 
-One full sett is **1332 threads**.
+One full sett is **672 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/10 DY2 R16 W2 DB40 W2 LB40 W2 G40 DY2 R10 DY2 R10 DY2 G40 DY4 R104 W2 DY10 W2 DY10 W2 R104 DY4 G40 DY2 R10 DY2 R10 DY2 G40 W2 LB40 W2 DB40 W2 R16 DY/2 — 1332 threads; it folds to the canonical 672-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **1332 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/10 DY2 R16 W2 DB40 W2 LB40 W2 G40 DY2 R10 DY2 R10 DY2 G40 DY4 R104 W2 DY10 W2 DY10 W2 R104 DY4 G40 DY2 R10 DY2 R10 DY2 G40 W2 LB40 W2 DB40 W2 R16 DY/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/10 DY2 R16 W2 DB40 W2 LB40 W2 G40 DY2 R10 DY2 R10 DY2 G40 DY4 R104 W2 DY10 W/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

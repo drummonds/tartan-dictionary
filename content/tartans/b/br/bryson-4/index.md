@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/bryson/"
 - name: "Bryson"
   url: "/families/bryson/"
+aliases:
+- "/setts/dy16r8t57db56lb8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grbbw/">GRBBW</a></nav>
 A tartan of the [Bryson](/families/bryson/) family.
 Its design is pattern [GRBBW](/stripes/grbbw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Bryson** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dy16r8t57db56lb8/">Bryson</a></td><td><code>DY/16 R8 T57 DB56 LB/8</code></td><td>266</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy16r8t57db56lb8/"><img src="/variants/s5/dy16r8t57db56lb8/sett.png" alt="Bryson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dy16r8t57db56lb8/">Bryson</a></td><td><code>DY/16 R8 T57 DB56 LB/8</code></td><td>266</td><td>1988</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dy16r8t57db56lb8/"><img src="/variants/s5/dy16r8t57db56lb8/sett.png" alt="Bryson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="243.8" cy="215.4" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s5/lb8r3dbi29db29lb4~x2~dbi1605267-db1003265/"><circle cx="262.6" cy="239.6" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s6/y2b9r2db6y1r1~x4~b1911266-db1108266/"><circle cx="244.4" cy="223.2" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/variants/s4/b6db6g6r1~x2/"><circle cx="184.2" cy="314.8" r="4" fill="#3465a4"><title>Unnamed No 40</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.9" cy="204.4" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/"><circle cx="208.5" cy="224.2" r="4" fill="#3465a4"><title>SABA</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="313.2" cy="254.0" r="4" fill="#3465a4"><title>Fong</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="282.0" cy="217.3" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s5/db9y9db9lb23r3~x2/"><circle cx="211.4" cy="250.8" r="4" fill="#3465a4"><title>Tilburg</title></circle></a><a href="/variants/s5/r1dy8r2db8lb1~x2/"><circle cx="266.0" cy="242.9" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><circle cx="227.4" cy="247.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="244.2" cy="215.3" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s5/lb8r3dbi29db29lb4~x2~dbi1605267-db1003265/"><circle cx="263.0" cy="239.5" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s6/y2b9r2db6y1r1~x4~b1911266-db1108266/"><circle cx="244.7" cy="223.1" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/variants/s4/b6db6g6r1~x2/"><circle cx="184.1" cy="314.7" r="4" fill="#3465a4"><title>Unnamed No 40</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="144.1" cy="204.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/"><circle cx="208.7" cy="223.9" r="4" fill="#3465a4"><title>SABA</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="313.6" cy="254.1" r="4" fill="#3465a4"><title>Fong</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="282.3" cy="217.3" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s5/db9y9db9lb23r3~x2/"><circle cx="211.6" cy="250.7" r="4" fill="#3465a4"><title>Tilburg</title></circle></a><a href="/variants/s5/r1dy8r2db8lb1~x2/"><circle cx="266.3" cy="242.9" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><circle cx="227.5" cy="247.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db1g4r1g1y1g4db1~x12/">Justus hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db1g4r1g1y1g4db1~x12/"><img src="/variants/s7/db1g4r1g1y1g4db1~x12/sett.png" alt="Justus hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/justus-hunting/">Justus Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/justus-hunting/"><img src="/variants/s7/db1g4r1g1y1g4db1~x12/sett.png" alt="Justus Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/db120g9r7y12g33y33db26/">Supporter.com</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db120g9r7y12g33y33db26/"><img src="/variants/s7/db120g9r7y12g33y33db26/sett.png" alt="Supporter.com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/supporter-com/">Supporter.com</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/supporter-com/"><img src="/variants/s7/db120g9r7y12g33y33db26/sett.png" alt="Supporter.com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

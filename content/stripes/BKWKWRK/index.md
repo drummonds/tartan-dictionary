@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k1r1w1k1w1k1db1/">Border Bell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k1r1w1k1w1k1db1/"><img src="/variants/s7/k1r1w1k1w1k1db1~x8/sett.png" alt="Border Bell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/border-bell/">Border Bell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/border-bell/"><img src="/variants/s7/k1r1w1k1w1k1db1~x8/sett.png" alt="Border Bell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

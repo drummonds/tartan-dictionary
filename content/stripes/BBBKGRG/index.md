@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/">MacThomas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><img src="/variants/s7/db5dr3db32k16g32o3g5~x2/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db5dp3db32k16g32o3g5/">MacThomas LC</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db5dp3db32k16g32o3g5/"><img src="/variants/s7/db5dp3db32k16g32o3g5/sett.png" alt="MacThomas LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db6dp3db56k24g6r6g6/">Wcwm 9275-1395</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db6dp3db56k24g6r6g6/"><img src="/variants/s7/db6dp3db56k24g6r6g6/sett.png" alt="Wcwm 9275-1395 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macthomas/">MacThomas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macthomas/"><img src="/variants/s7/db5dr3db32k16g32o3g5~x2/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macthomas-lc/">MacThomas LC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macthomas-lc/"><img src="/variants/s7/db5dp3db32k16g32o3g5/sett.png" alt="MacThomas LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wc/wcwm-9275-1395/">Wcwm 9275-1395</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wc/wcwm-9275-1395/"><img src="/variants/s7/db6dp3db56k24g6r6g6/sett.png" alt="Wcwm 9275-1395 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

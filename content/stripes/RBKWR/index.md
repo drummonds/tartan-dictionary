@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r2dp8k8w1r2~x2/">Inder (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2dp8k8w1r2~x2/"><img src="/variants/s5/r2dp8k8w1r2~x2/sett.png" alt="Inder (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inder/">Inder</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inder/"><img src="/variants/s5/r2dp8k8w1r2~x2/sett.png" alt="Inder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

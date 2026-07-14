@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g9k2g15r4g14w3n3w23g5dy3~x2/">Taylor Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g9k2g15r4g14w3n3w23g5dy3~x2/"><img src="/variants/s10/g9k2g15r4g14w3n3w23g5dy3~x2/sett.png" alt="Taylor Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/g9k2g15r4g14w3n3w23g5y3~x2/">Taylor, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g9k2g15r4g14w3n3w23g5y3~x2/"><img src="/variants/s10/g9k2g15r4g14w3n3w23g5y3~x2/sett.png" alt="Taylor, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/taylor-dress-2/">Taylor Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/taylor-dress-2/"><img src="/variants/s10/g9k2g15r4g14w3n3w23g5dy3~x2/sett.png" alt="Taylor Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

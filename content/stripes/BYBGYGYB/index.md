@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dr80lo2dr6dy12ly1dy1ly2t2/">Alegre-Wood (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dr80lo2dr6dy12ly1dy1ly2t2/"><img src="/variants/s8/dr80lo2dr6dy12ly1dy1ly2t2~x2~ly2705081/sett.png" alt="Alegre-Wood (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alegre-wood/">Alegre-Wood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alegre-wood/"><img src="/variants/s8/dr80lo2dr6dy12ly1dy1ly2t2~x2~ly2705081/sett.png" alt="Alegre-Wood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Swallow Hotels"
   url: "/tartans/s/sw/swallow-hotels/"
 - name: "Swallow Hotels"
-  url: "/setts/k4g21k10r2k10db21k4db4k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4g21k10r2k10db21k4db4k4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKRKGKGKRKBKBK](/stripes/bkbkrkgkgkrkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/s/sw/swallow-hotels/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBKRKGK](/stripes/kbkbkrkgk/).
 
 Part of the [Swallow Hotels](/tartans/s/sw/swallow-hotels/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4053](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4053)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4053](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/2005 — Swallow Hotels (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4053">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><br><em>Based on the company colours, this tartan is for staff uniforms and furnishings in their chain of Highland Hotels.</em></li>
-<li>2005 November — Swallow Hotels (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6827">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Based on the company colours, this tartan is for staff uniforms and furnishings in their chain of Highland Hotels.</em></li>
+<li>2005 November — Swallow Hotels (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6827/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Based on the company colours, this tartan is for staff uniforms and furnishings in their chain of Highland Hotels.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6827
 
 ## Thread count
-K/8 DB8 K8 DB42 K20 R4 K20 G42 K8 G42 K20 R4 K20 DB42 K8 DB/8
+K/8 G42 K20 R4 K20 DB42 K8 DB8 K/8
 
-One full sett is **592 threads**.
+One full sett is **304 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/8 DB8 K8 DB42 K20 R4 K20 G42 K8 G42 K20 R4 K20 DB42 K8 DB/8 — 592 threads; it folds to the canonical 304-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **592 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 DB8 K8 DB42 K20 R4 K20 G42 K8 G42 K20 R4 K20 DB42 K8 DB/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 G42 K20 R4 K20 DB42 K8 DB8 K/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

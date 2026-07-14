@@ -8,10 +8,10 @@ crumbs:
 - name: "Crubin"
   url: "/tartans/c/cr/crubin/"
 - name: "Crubin Plaid (MacPherson)"
-  url: "/setts/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crubin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWGYRKRYWKRYRW](/stripes/rkwgyrkrywkryrw/).
 
 Part of the [Crubin](/tartans/c/cr/crubin/) tartan — the named design grouping this sett with its other cloths.

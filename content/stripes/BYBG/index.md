@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/do10lr1do30y3~x4/">Pasteur Fancy Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/do10lr1do30y3~x4/"><img src="/variants/s4/do10lr1do30y3~x4/sett.png" alt="Pasteur Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/pasteur-fancy/">Pasteur Fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/pasteur-fancy/"><img src="/variants/s4/do10lr1do30y3~x4/sett.png" alt="Pasteur Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

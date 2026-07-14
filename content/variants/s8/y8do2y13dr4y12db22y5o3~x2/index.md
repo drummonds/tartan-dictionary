@@ -8,15 +8,15 @@ crumbs:
 - name: "Kildare, County"
   url: "/tartans/k/ki/kildare-county/"
 - name: "Kildare, County"
-  url: "/setts/y8do2y13dr4y12db22y5o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y8do2y13dr4y12db22y5o3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBGBGRGBGBGBG](/stripes/bgbgbgrgbgbgbg/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kildare-county/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBGR](/stripes/gbgbgbgr/).
 
 Part of the [Kildare, County](/tartans/k/ki/kildare-county/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1965](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1965)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1965](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Kildare, County (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1965">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#74846C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FB #74846C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B84C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #B84C00"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These are not 'officially sanctioned' District tartans but have apparently proved popular and no doubt in time will be accepted as genuine District rather than Fashion tartans. Sample in Scottish Tartans Authority Johnston Collection. Designed for Macnaughtons of Pitlochry as a collection of trade tartans.</em></li>
-<li>1997 — Kildare, County (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2262">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#74846C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FB #74846C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B84C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #B84C00"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These were not 'officially sanctioned' District tartans but, like many of their historic district tartan predecessors have apparently proved popular enough to be regarded as 'District' rather than their original categorisation of 'Fashion'. Sample in STA's Johnston Collection.</em></li>
+<li>1997 — Kildare, County (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2262/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#74846C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FB #74846C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B84C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #B84C00"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These were not 'officially sanctioned' District tartans but, like many of their historic district tartan predecessors have apparently proved popular enough to be regarded as 'District' rather than their original categorisation of 'Fashion'. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2262
 
 ## Thread count
-Y/16 DO4 Y26 DR8 Y24 DB44 Y10 O6 Y10 DB44 Y24 DR8 Y26 DO/4
+Y/16 DO4 Y26 DR8 Y24 DB44 Y10 O/6
 
-One full sett is **488 threads**.
+One full sett is **254 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/16 DO4 Y26 DR8 Y24 DB44 Y10 O6 Y10 DB44 Y24 DR8 Y26 DO/4 — 488 threads; it folds to the canonical 254-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **488 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/16 DO4 Y26 DR8 Y24 DB44 Y10 O6 Y10 DB44 Y24 DR8 Y26 DO/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/16 DO4 Y26 DR8 Y24 DB44 Y10 O/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

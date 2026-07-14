@@ -10,10 +10,10 @@ crumbs:
 - name: "Ontario, Northern"
   url: "/tartans/o/on/ontario-northern-2/"
 - name: "Ontario, Northern"
-  url: "/setts/o17n5db2w12db2y4g7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o17n5db2w12db2y4g7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/on/ontario-northern-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWBBR](/stripes/ggbwbbr/).
 
 Part of the [Ontario, Northern](/tartans/o/on/ontario-northern-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/">Reilly fae the Mearns (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><img src="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/sett.png" alt="Reilly fae the Mearns (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/reilly-fae-the-mearns/">Reilly fae the Mearns</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/reilly-fae-the-mearns/"><img src="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/sett.png" alt="Reilly fae the Mearns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

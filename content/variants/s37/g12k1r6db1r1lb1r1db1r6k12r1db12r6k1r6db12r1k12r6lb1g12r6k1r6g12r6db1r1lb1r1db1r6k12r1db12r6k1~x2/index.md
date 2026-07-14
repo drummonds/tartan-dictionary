@@ -6,15 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified"
-  url: "/tartans/u/un/unidentified-32/"
+  url: "/tartans/u/un/unidentified-30/"
 - name: "Unidentified #38"
-  url: "/setts/g12k1r6db1r1lb1r1db1r6k12r1db12r6k1r6db12r1k12r6lb1g12r6k1r6g12r6db1r1lb1r1db1r6k12r1db12r6k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12k1r6db1r1lb1r1db1r6k12r1db12r6k1r6db12r1k12r6lb1g12r6k1r6g12r6db1r1lb1r1db1r6k12r1db12r6k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-30/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRBRWRBRKRBRKRBRKRWGRKRGRBRWRBRKRBRK](/stripes/gkrbrwrbrkrbrkrbrkrwgrkrgrbrwrbrkrbrk/).
 
-Part of the [Unidentified](/tartans/u/un/unidentified-32/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified](/tartans/u/un/unidentified-30/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [37 stripe tartan](/stripes/stripes37/).
 

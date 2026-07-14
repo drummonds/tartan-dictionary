@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Campbell"
   url: "/clan/campbell/"
+aliases:
+- "/setts/r2k1db8k8g8k1w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkbkgkw/">RKBKGKW</a></nav>
 A tartan of [Clan Campbell](/clan/campbell/).
 Its design is pattern [RKBKGKW](/stripes/rkbkgkw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Campbell Cawdor** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2k1db8k8g8k1w2/">Campbell Cawdor</a></td><td><code>W/2 K1 G8 K8 DB8 K1 R/2</code></td><td>56</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2k1db8k8g8k1w2/"><img src="/variants/s7/r2k1db8k8g8k1w2/sett.png" alt="Campbell Cawdor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2k1db8k8g8k1w2/">Campbell Cawdor</a></td><td><code>R/2 K1 DB8 K8 G8 K1 W/2</code></td><td>56</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2k1db8k8g8k1w2/"><img src="/variants/s7/r2k1db8k8g8k1w2/sett.png" alt="Campbell Cawdor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/"><circle cx="102.4" cy="188.0" r="4" fill="#3465a4"><title>Argyll</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="107.6" cy="189.5" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="147.9" cy="171.2" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="137.4" cy="174.0" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="158.5" cy="168.7" r="4" fill="#3465a4"><title>MacLeod Small</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="116.7" cy="193.9" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="113.8" cy="193.4" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="141.1" cy="201.7" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="119.4" cy="198.2" r="4" fill="#3465a4"><title>Freedom</title></circle></a><a href="/variants/s6/r2db23k14g16k2w2~x2/"><circle cx="158.7" cy="173.7" r="4" fill="#3465a4"><title>MacPhail Hunting</title></circle></a><circle cx="96.5" cy="185.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/"><circle cx="102.6" cy="187.7" r="4" fill="#3465a4"><title>Argyll</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="107.8" cy="189.3" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="148.3" cy="171.0" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="137.8" cy="173.8" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="158.9" cy="168.6" r="4" fill="#3465a4"><title>MacLeod Small</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="117.0" cy="193.7" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="114.0" cy="193.2" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="141.5" cy="201.5" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="119.7" cy="198.0" r="4" fill="#3465a4"><title>Freedom</title></circle></a><a href="/variants/s6/r2db23k14g16k2w2~x2/"><circle cx="159.2" cy="173.6" r="4" fill="#3465a4"><title>MacPhail Hunting</title></circle></a><circle cx="96.8" cy="185.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

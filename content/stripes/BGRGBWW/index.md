@@ -28,14 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/">Manx National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><img src="/variants/s7/p5g9r2dy2db6lb14w3~x4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp8g31r4dy4db17lb64w4/">Manx National #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><img src="/variants/s7/dp8g31r4dy4db17lb64w4/sett.png" alt="Manx National #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/">Manx National District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/"><img src="/variants/s7/dp2g8r1dy1db6lb15w1~x4/sett.png" alt="Manx National District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp2g6r1dy1db3lb10w1~x2/">Manx National District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp2g6r1dy1db3lb10w1~x2/"><img src="/variants/s7/dp2g6r1dy1db3lb10w1~x2/sett.png" alt="Manx National District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-national/">Manx National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-national/"><img src="/variants/s7/dp8g31r4dy4db17lb64w4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

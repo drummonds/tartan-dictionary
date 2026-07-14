@@ -8,10 +8,10 @@ crumbs:
 - name: "Glenfeshie"
   url: "/tartans/g/gl/glenfeshie/"
 - name: "Glenfeshie (Personal)"
-  url: "/setts/r4g3dp3g44dp16g10w2g2dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4g3dp3g44dp16g10w2g2dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glenfeshie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGBGBGR](/stripes/bgwgbgbgr/).
 
 Part of the [Glenfeshie](/tartans/g/gl/glenfeshie/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1417](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — Glenfeshie (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1417">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>No other details. Lochcarron swatch labelled 'Penmark' - assume that was the customer.</em></li>
-<li>2003 — Glenfeshie (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6023">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>No other details. Lochcarron swatch labelled 'Penmark' - assume that was the customer.</em></li>
+<li>2003 — Glenfeshie (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6023/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>No other details. Lochcarron swatch labelled 'Penmark' - assume that was the customer.</em></li>
 </ul>
 </details>
 

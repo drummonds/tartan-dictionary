@@ -12,10 +12,10 @@ crumbs:
 - name: "Erskine Blue Dress"
   url: "/tartans/e/er/erskine-blue-dress/"
 - name: "Erskine Blue Dress Clan Tartan"
-  url: "/setts/w5lb2w25lb25w2lb5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5lb2w25lb25w2lb5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/er/erskine-blue-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWWWWW](/stripes/wwwwww/).
 
 Part of the [Erskine Blue Dress](/tartans/e/er/erskine-blue-dress/) tartan — the named design grouping this sett with its other cloths.

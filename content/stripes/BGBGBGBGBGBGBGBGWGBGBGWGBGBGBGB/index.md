@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/">MacRae (MacCrae)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/"><img src="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/sett.png" alt="MacRae (MacCrae) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macrae-12/">MacRae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrae-12/"><img src="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db6k74db6k6db6k6db20g30k3w6/">Scruffy Wallace</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db6k74db6k6db6k6db20g30k3w6/"><img src="/variants/s10/db6k74db6k6db6k6db20g30k3w6/sett.png" alt="Scruffy Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scruffy-wallace/">Scruffy Wallace</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scruffy-wallace/"><img src="/variants/s10/db6k74db6k6db6k6db20g30k3w6/sett.png" alt="Scruffy Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

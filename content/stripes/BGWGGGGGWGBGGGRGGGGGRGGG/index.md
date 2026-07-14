@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/">Sea Bees Regimental Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/"><img src="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/sett.png" alt="Sea Bees Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/sea-bees-regimental/">Sea Bees Regimental</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/sea-bees-regimental/"><img src="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/sett.png" alt="Sea Bees Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

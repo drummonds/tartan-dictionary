@@ -8,10 +8,10 @@ crumbs:
 - name: "Anderson-Moffat"
   url: "/tartans/a/an/anderson-moffat/"
 - name: "Anderson-Moffat (Personal)"
-  url: "/setts/k5lb10n10k4n4k4n4k30db21t4db4t24r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5lb10n10k4n4k4n4k30db21t4db4t24r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/anderson-moffat/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBKBKBKBBBBR](/stripes/kwbkbkbkbbbbr/).
 
 Part of the [Anderson-Moffat](/tartans/a/an/anderson-moffat/) tartan — the named design grouping this sett with its other cloths.

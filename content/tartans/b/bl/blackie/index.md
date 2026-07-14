@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g9y2g9w5r9lb2r9lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gggwrwrw/">GGGWRWRW</a></nav>
 Its design is pattern [GGGWRWRW](/stripes/gggwrwrw/) — the page of every tartan sharing this colour sequence.
 
 The **Blackie** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Blackie** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g9y2g9w5r9lb2r9lb2/">Blackie</a></td><td><code>G/18 Y4 G18 W10 R18 LB4 R18 LB/4</code></td><td>166</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g9y2g9w5r9lb2r9lb2/"><img src="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/sett.png" alt="Blackie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/">Blackie</a></td><td><code>G/18 Y4 G18 W10 R18 LB4 R18 LB/4</code></td><td>166</td><td>1880</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><img src="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/sett.png" alt="Blackie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db24r27g20y6g20r2lb3~x2/"><circle cx="195.5" cy="209.4" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="187.2" cy="197.6" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s8/db16r14g16y3g16r14db16w3~x2/"><circle cx="112.6" cy="261.2" r="4" fill="#3465a4"><title>James William Forrester of S. Carolina</title></circle></a><a href="/variants/s8/db16r14g16dy3g16r14db16w3~x2/"><circle cx="111.9" cy="260.6" r="4" fill="#3465a4"><title>Forrester</title></circle></a><a href="/variants/s6/r3w8db4g14r4db2~x2/"><circle cx="164.2" cy="237.9" r="4" fill="#3465a4"><title>MacIntosh Dress</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="274.9" cy="226.8" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/g15r3lb15r8g15ly2db4~x2/"><circle cx="215.0" cy="239.2" r="4" fill="#3465a4"><title>Rotary</title></circle></a><a href="/variants/s8/dp13r8w5g24w5r10w5r10~x2/"><circle cx="130.8" cy="251.2" r="4" fill="#3465a4"><title>Chaudhri, Zafar Iqbal</title></circle></a><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><circle cx="199.7" cy="196.5" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="196.0" cy="272.2" r="4" fill="#3465a4"><title>Torana</title></circle></a><circle cx="159.9" cy="264.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db24r27g20y6g20r2lb3~x2/"><circle cx="195.6" cy="209.2" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="187.4" cy="197.4" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s8/db16r14g16y3g16r14db16w3~x2/"><circle cx="112.5" cy="261.0" r="4" fill="#3465a4"><title>James William Forrester of S. Carolina</title></circle></a><a href="/variants/s8/db16r14g16dy3g16r14db16w3~x2/"><circle cx="111.8" cy="260.4" r="4" fill="#3465a4"><title>Forrester</title></circle></a><a href="/variants/s6/r3w8db4g14r4db2~x2/"><circle cx="164.3" cy="237.7" r="4" fill="#3465a4"><title>MacIntosh Dress</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="275.2" cy="226.7" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/g15r3lb15r8g15ly2db4~x2/"><circle cx="215.1" cy="239.1" r="4" fill="#3465a4"><title>Rotary</title></circle></a><a href="/variants/s8/dp13r8w5g24w5r10w5r10~x2/"><circle cx="130.8" cy="251.0" r="4" fill="#3465a4"><title>Chaudhri, Zafar Iqbal</title></circle></a><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><circle cx="199.8" cy="196.2" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="196.1" cy="272.1" r="4" fill="#3465a4"><title>Torana</title></circle></a><circle cx="159.8" cy="264.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

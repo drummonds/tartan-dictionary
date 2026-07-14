@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db4dg1g14dy8dg4ly3dg4dy8dg65dy5dg3t12dg1ly3~x2/">State Seal of Vermont (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db4dg1g14dy8dg4ly3dg4dy8dg65dy5dg3t12dg1ly3~x2/"><img src="/variants/s14/db4dg1g14dy8dg4ly3dg4dy8dg65dy5dg3t12dg1ly3~x2/sett.png" alt="State Seal of Vermont (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-vermont/">State Seal of Vermont</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-vermont/"><img src="/variants/s14/db4dg1g14dy8dg4ly3dg4dy8dg65dy5dg3t12dg1ly3~x2/sett.png" alt="State Seal of Vermont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

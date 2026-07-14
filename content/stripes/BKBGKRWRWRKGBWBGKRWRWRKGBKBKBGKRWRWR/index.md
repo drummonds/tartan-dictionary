@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/db5k1db5y2k1r3w1r3w1r3k1y1db3w1db3y1k1r3w1r3w1r3k1y1db5k1db5k1db5y1k1r3w1r3w1r3~x4/">Ogilvy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/db5k1db5y2k1r3w1r3w1r3k1y1db3w1db3y1k1r3w1r3w1r3k1y1db5k1db5k1db5y1k1r3w1r3w1r3~x4/"><img src="/variants/s36/db5k1db5y2k1r3w1r3w1r3k1y1db3w1db3y1k1r3w1r3w1r3k1y1db5k1db5k1db5y1k1r3w1r3w1r3~x4/sett.png" alt="Ogilvy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/og/ogilvy/">Ogilvy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvy/"><img src="/variants/s36/db5k1db5y2k1r3w1r3w1r3k1y1db3w1db3y1k1r3w1r3w1r3k1y1db5k1db5k1db5y1k1r3w1r3w1r3~x4/sett.png" alt="Ogilvy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

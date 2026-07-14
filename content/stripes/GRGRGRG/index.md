@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dg2r1dg8r5g5r1g2/">Glen Esk (1993)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dg2r1dg8r5g5r1g2/"><img src="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1504144-g1903114/sett.png" alt="Glen Esk (1993) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-esk/">Glen Esk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-esk/"><img src="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1504144-g1903114/sett.png" alt="Glen Esk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/g9ri4g1ri4g15r4g1~x4~ri2806019-r2109032/">Logan #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g9ri4g1ri4g15r4g1~x4~ri2806019-r2109032/"><img src="/variants/s7/g9ri4g1ri4g15r4g1~x4~ri2806019-r2109032/sett.png" alt="Logan #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/logan-6/">Logan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-6/"><img src="/variants/s7/g9ri4g1ri4g15r4g1~x4~ri2806019-r2109032/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/y1r3g7r3g7r3y1~x4/">Unidentified #42</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y1r3g7r3g7r3y1~x4/"><img src="/variants/s7/y1r3g7r3g7r3y1~x4/sett.png" alt="Unidentified #42 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-24/">Unidentified 24</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-24/"><img src="/variants/s7/y1r3g7r3g7r3y1~x4/sett.png" alt="Unidentified 24 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

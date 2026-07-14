@@ -12,10 +12,10 @@ crumbs:
 - name: "Davidson of Inchmarlo"
   url: "/tartans/d/da/davidson-of-inchmarlo/"
 - name: "Davidson of Inchmarlo"
-  url: "/setts/r2k8w2r22t8k2t2k2t8k12ly2dg16r22t4r22t4r22dg16ly2k12t8k2t2k2t8r22w2k2r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k8w2r22t8k2t2k2t8k12ly2dg16r22t4r22t4r22dg16ly2k12t8k2t2k2t8r22w2k2r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/davidson-of-inchmarlo/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWRBKBKBKYGRBRBRGYKBKBKBRWKR](/stripes/rkwrbkbkbkygrbrbrgykbkbkbrwkr/).
 
 Part of the [Davidson of Inchmarlo](/tartans/d/da/davidson-of-inchmarlo/) tartan — the named design grouping this sett with its other cloths.

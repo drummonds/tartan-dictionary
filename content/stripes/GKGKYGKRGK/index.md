@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/">Manitoba Cue (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/"><img src="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/sett.png" alt="Manitoba Cue (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manitoba-cue/">Manitoba Cue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manitoba-cue/"><img src="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/sett.png" alt="Manitoba Cue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

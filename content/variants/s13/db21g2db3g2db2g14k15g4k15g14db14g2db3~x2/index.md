@@ -12,10 +12,10 @@ crumbs:
 - name: "Montmorency"
   url: "/tartans/m/mo/montmorency/"
 - name: "Montmorency"
-  url: "/setts/db21g2db3g2db2g14k15g4k15g14db14g2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db21g2db3g2db2g14k15g4k15g14db14g2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/montmorency/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGKGKGBGB](/stripes/bgbgbgkgkgbgb/).
 
 Part of the [Montmorency](/tartans/m/mo/montmorency/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2992](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Montmorency (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2992">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Details from a Mrs K. Sinclair. Nomindex notes: 'A Canadian fancy based on the Black Watch. Warp & weft different. In the weft the green changes to brown and the black changes to green.</em></li>
-<li>pre 2002 — Montmorency (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=103">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Deatils from a Mrs K. Sinclair. Nomindex notes: "A Canadian fancy based on the Black Watch. Warp & weft different. In the weft the green changes to brown and the black changes to green.</em></li>
+<li>pre 2002 — Montmorency (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/103/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Deatils from a Mrs K. Sinclair. Nomindex notes: "A Canadian fancy based on the Black Watch. Warp & weft different. In the weft the green changes to brown and the black changes to green.</em></li>
 </ul>
 </details>
 

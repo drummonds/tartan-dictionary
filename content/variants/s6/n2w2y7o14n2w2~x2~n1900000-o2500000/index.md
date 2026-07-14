@@ -12,10 +12,10 @@ crumbs:
 - name: "Cairngorm"
   url: "/tartans/c/ca/cairngorm/"
 - name: "Cairngorm"
-  url: "/setts/n2w2y7o14n2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n2w2y7o14n2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cairngorm/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGRBW](/stripes/bwgrbw/).
 
 Part of the [Cairngorm](/tartans/c/ca/cairngorm/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=462](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1963 — Cairngorm (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=462">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D4D07C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D4D07C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Designed by Fenton Wyness, Dee Valley Textiles, c1963. The story of the Cairngorm Plaid is the story of this famous mountain range. Ferla Mor - The "Big Gray Man ". Recorded by the Scottish Tartans Society at some time between 1970 and 1990.</em></li>
-<li>1963 — Cairngorm (1963) (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1314">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D4D07C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D4D07C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Designed by a Fenton Wyness of Dee Valley Textiles, c1963. Woven sample provided by Gordon Casely Sept. 2008.</em></li>
+<li>1963 — Cairngorm (1963) (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1314/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D4D07C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D4D07C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Designed by a Fenton Wyness of Dee Valley Textiles, c1963. Woven sample provided by Gordon Casely Sept. 2008.</em></li>
 </ul>
 </details>
 

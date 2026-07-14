@@ -10,15 +10,15 @@ crumbs:
 - name: "Smith"
   url: "/families/smith/"
 - name: "Smith"
-  url: "/tartans/s/sm/smith-2/"
+  url: "/tartans/s/sm/smith-3/"
 - name: "Smith Family Tartan"
-  url: "/setts/r3k1g12k12db12lb3db12k12g12k1y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k1g12k12db12lb3db12k12g12k1y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sm/smith-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBWBKGKR](/stripes/gkgkbwbkgkr/).
 
-Part of the [Smith](/tartans/s/sm/smith-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Smith](/tartans/s/sm/smith-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
@@ -70,7 +70,7 @@ One full sett is **320 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.81** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.80** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

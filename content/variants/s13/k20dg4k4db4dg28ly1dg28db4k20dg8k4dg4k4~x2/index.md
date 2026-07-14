@@ -8,10 +8,10 @@ crumbs:
 - name: "Sawicki, Peter"
   url: "/tartans/s/sa/sawicki-peter/"
 - name: "Sawicki, Peter (Personal)"
-  url: "/setts/k20dg4k4db4dg28ly1dg28db4k20dg8k4dg4k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k20dg4k4db4dg28ly1dg28db4k20dg8k4dg4k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sawicki-peter/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBGYGBKGKGK](/stripes/kgkbgygbkgkgk/).
 
 Part of the [Sawicki, Peter](/tartans/s/sa/sawicki-peter/) tartan — the named design grouping this sett with its other cloths.

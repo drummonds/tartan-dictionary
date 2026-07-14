@@ -12,10 +12,10 @@ crumbs:
 - name: "Antigonish"
   url: "/tartans/a/an/antigonish-2/"
 - name: "Antigonish"
-  url: "/setts/lb4db1lb4db24w6db4w1db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4db1lb4db24w6db4w1db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/antigonish-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBW](/stripes/bwbwbwbw/).
 
 Part of the [Antigonish](/tartans/a/an/antigonish-2/) tartan — the named design grouping this sett with its other cloths.

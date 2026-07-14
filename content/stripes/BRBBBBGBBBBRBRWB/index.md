@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/n28r1n4dp12n2db4y2db4n2dp12n4r1n48r3w3db3~x2/">Wallenberg, Nicolas Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/n28r1n4dp12n2db4y2db4n2dp12n4r1n48r3w3db3~x2/"><img src="/variants/s16/n28r1n4dp12n2db4y2db4n2dp12n4r1n48r3w3db3~x2/sett.png" alt="Wallenberg, Nicolas Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wallenberg-nicolas-dress/">Wallenberg, Nicolas Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wallenberg-nicolas-dress/"><img src="/variants/s16/n28r1n4dp12n2db4y2db4n2dp12n4r1n48r3w3db3~x2/sett.png" alt="Wallenberg, Nicolas Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

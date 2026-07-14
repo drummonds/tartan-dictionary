@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/">Blue Matheson Hunting (Kinloch Anderson)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/"><img src="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/sett.png" alt="Blue Matheson Hunting (Kinloch Anderson) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blue-matheson-hunting/">Blue Matheson Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-matheson-hunting/"><img src="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/sett.png" alt="Blue Matheson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

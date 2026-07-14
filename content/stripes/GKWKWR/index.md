@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r1w14k6w1k3y1~x4/">MacPherson #10</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r1w14k6w1k3y1~x4/"><img src="/variants/s6/r1w14k6w1k3y1~x4/sett.png" alt="MacPherson #10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-8/">MacPherson 8</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-8/"><img src="/variants/s6/r1w14k6w1k3y1~x4/sett.png" alt="MacPherson 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/r4lb28k6w12k12y3~x2/">MacTavish Dress Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><img src="/variants/s6/r4lb28k6w12k12y3~x2/sett.png" alt="MacTavish Dress Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mactavish-dress/">MacTavish Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mactavish-dress/"><img src="/variants/s6/r4lb28k6w12k12y3~x2/sett.png" alt="MacTavish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

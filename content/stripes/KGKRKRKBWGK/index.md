@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/">Hines Snr, Raymond Lee (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/"><img src="/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/sett.png" alt="Hines Snr, Raymond Lee (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hines-snr-raymond-lee/">Hines Snr, Raymond Lee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hines-snr-raymond-lee/"><img src="/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/sett.png" alt="Hines Snr, Raymond Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

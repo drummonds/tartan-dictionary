@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/macdiarmid/"
 - name: "MacDiarmid"
   url: "/families/macdiarmid/"
+aliases:
+- "/setts/k12r2k28dg12k1w3k1dg12r4/"
+- "/setts/k12r2k28g12k1w3k1g12r4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krkgkwkgr/">KRKGKWKGR</a></nav>
 A tartan of the [MacDiarmid](/families/macdiarmid/) family.
 Its design is pattern [KRKGKWKGR](/stripes/krkgkwkgr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **MacDiarmid** tartan groups 2 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k12r2k28dg12k1w3k1dg12r4/">MacDiarmid</a> ★</td><td><code>K/24 R4 K56 DG24 K2 W6 K2 DG24 R/8</code></td><td>268</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k12r2k28dg12k1w3k1dg12r4/"><img src="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/sett.png" alt="MacDiarmid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k12r2k28g12k1w3k1g12r4/">MacDiarmid</a></td><td><code>K/24 R4 K56 G24 K2 W6 K2 G24 R/8</code></td><td>268</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k12r2k28g12k1w3k1g12r4/"><img src="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/sett.png" alt="MacDiarmid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/">MacDiarmid</a> ★</td><td><code>K/24 R4 K56 DG24 K2 W6 K2 DG24 R/8</code></td><td>268</td><td>1906</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><img src="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/sett.png" alt="MacDiarmid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/">MacDiarmid</a></td><td><code>K/24 R4 K56 G24 K2 W6 K2 G24 R/8</code></td><td>268</td><td>1906</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/"><img src="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/sett.png" alt="MacDiarmid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/"><circle cx="322.2" cy="76.9" r="4" fill="#3465a4"><title>Dropkick Murphys</title></circle></a><a href="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/"><circle cx="249.4" cy="109.9" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="258.2" cy="82.8" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s11/k48dp5k9g3k2g3k2g14dp7dy2dp10~x2/"><circle cx="320.7" cy="92.3" r="4" fill="#3465a4"><title>Paxton</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="344.7" cy="108.1" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="284.6" cy="131.6" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="240.4" cy="123.5" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="290.8" cy="90.6" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/"><circle cx="291.8" cy="97.4" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/"><circle cx="346.0" cy="107.9" r="4" fill="#3465a4"><title>Pride of Scotland Dark</title></circle></a><circle cx="301.4" cy="111.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/"><circle cx="323.3" cy="77.1" r="4" fill="#3465a4"><title>Dropkick Murphys</title></circle></a><a href="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/"><circle cx="250.3" cy="109.9" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="259.1" cy="82.8" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s11/k48dp5k9g3k2g3k2g14dp7dy2dp10~x2/"><circle cx="321.8" cy="92.4" r="4" fill="#3465a4"><title>Paxton</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="345.7" cy="108.3" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="285.4" cy="131.7" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="241.1" cy="123.5" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="291.8" cy="90.6" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/"><circle cx="292.7" cy="97.5" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/"><circle cx="347.1" cy="108.1" r="4" fill="#3465a4"><title>Pride of Scotland Dark</title></circle></a><circle cx="302.4" cy="111.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

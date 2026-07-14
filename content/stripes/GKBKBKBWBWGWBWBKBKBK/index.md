@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/">Chartered Institute of Bankers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/"><img src="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/sett.png" alt="Chartered Institute of Bankers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chartered-institute-of-bankers/">Chartered Institute of Bankers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chartered-institute-of-bankers/"><img src="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/sett.png" alt="Chartered Institute of Bankers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

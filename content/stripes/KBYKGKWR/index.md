@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/">Mission</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><img src="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/sett.png" alt="Mission sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mission/">Mission</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mission/"><img src="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/sett.png" alt="Mission sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

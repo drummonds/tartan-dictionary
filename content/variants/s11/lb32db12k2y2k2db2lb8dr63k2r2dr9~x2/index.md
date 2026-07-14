@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kirk in the Hills"
-  url: "/tartans/k/ki/kirk-in-the-hills/"
+  url: "/tartans/k/ki/kirk-in-the-hills-2/"
 - name: "Kirk in the Hills Corporate Tartan"
-  url: "/setts/lb32db12k2y2k2db2lb8dr63k2r2dr9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb32db12k2y2k2db2lb8dr63k2r2dr9/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKGKBWBKRBRKBWBKGKBW](/stripes/bkgkbwbkrbrkbwbkgkbw/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kirk-in-the-hills-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRKBWBKGKBW](/stripes/brkbwbkgkbw/).
 
-Part of the [Kirk in the Hills](/tartans/k/ki/kirk-in-the-hills/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kirk in the Hills](/tartans/k/ki/kirk-in-the-hills-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2318](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2318)
 
@@ -41,9 +41,11 @@ Earliest known date: 1997 Kirk in the Hills, Bloomfield Hills, Michigan celebrat
 </details>
 
 ## Thread count
-LB/64 DB24 K4 Y4 K4 DB4 LB16 DR126 K4 R4 DR18 R4 K4 DR126 LB16 DB4 K4 Y4 K4 DB/24
+LB/64 DB24 K4 Y4 K4 DB4 LB16 DR126 K4 R4 DR/18
 
-One full sett is **836 threads**.
+One full sett is **462 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/64 DB24 K4 Y4 K4 DB4 LB16 DR126 K4 R4 DR18 R4 K4 DR126 LB16 DB4 K4 Y4 K4 DB/24 — 836 threads; it folds to the canonical 462-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **836 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/64 DB24 K4 Y4 K4 DB4 LB16 DR126 K4 R4 DR18 R4 K4 DR126 LB16 DB4 K4 Y4 K4 DB/24 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/64 DB24 K4 Y4 K4 DB4 LB16 DR126 K4 R4 DR/18 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

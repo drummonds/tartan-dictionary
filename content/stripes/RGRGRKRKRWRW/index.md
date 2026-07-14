@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/">Manchester Reds</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><img src="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/sett.png" alt="Manchester Reds sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manchester-reds/">Manchester Reds</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manchester-reds/"><img src="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/sett.png" alt="Manchester Reds sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

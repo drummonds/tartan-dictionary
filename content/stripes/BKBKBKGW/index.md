@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db10k1db1k1db2k8g10w1/">Lamont</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db10k1db1k1db2k8g10w1/"><img src="/variants/s8/db10k1db1k1db2k8g10w1~x2/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lamont-5/">Lamont</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lamont-5/"><img src="/variants/s8/db10k1db1k1db2k8g10w1~x2/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

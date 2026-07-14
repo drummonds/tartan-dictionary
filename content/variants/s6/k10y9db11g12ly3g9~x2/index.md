@@ -8,10 +8,10 @@ crumbs:
 - name: "Centeno-Oxford"
   url: "/tartans/c/ce/centeno-oxford/"
 - name: "Centeno-Oxford (Personal)"
-  url: "/setts/k10y9db11g12ly3g9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10y9db11g12ly3g9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ce/centeno-oxford/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGBGK](/stripes/gygbgk/).
 
 Part of the [Centeno-Oxford](/tartans/c/ce/centeno-oxford/) tartan — the named design grouping this sett with its other cloths.

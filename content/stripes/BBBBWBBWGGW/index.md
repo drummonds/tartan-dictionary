@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/">Dallas (Lochcarron) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/"><img src="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/sett.png" alt="Dallas (Lochcarron) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dallas/">Dallas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dallas/"><img src="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/sett.png" alt="Dallas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

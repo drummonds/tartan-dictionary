@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w55dp12ly2dp3w2g10dpi9dp2dpi6w2~x2~dp1105325-dpi1607327/">Stewart Dress, Purple (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w55dp12ly2dp3w2g10dpi9dp2dpi6w2~x2~dp1105325-dpi1607327/"><img src="/variants/s10/w55dp12ly2dp3w2g10dpi9dp2dpi6w2~x2~dp1105325-dpi1607327/sett.png" alt="Stewart Dress, Purple (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-dress-2/">Stewart Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-dress-2/"><img src="/variants/s10/w55dp12ly2dp3w2g10dpi9dp2dpi6w2~x2~dp1105325-dpi1607327/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-dress-purple-dance/">Stewart Dress Purple Dance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-dress-purple-dance/"><img src="/variants/s10/w55dp12ly2dp3w2dg10dpi9dp2dpi6w2~x2~dp1105325-dg1806142-dpi1607327/sett.png" alt="Stewart Dress Purple Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

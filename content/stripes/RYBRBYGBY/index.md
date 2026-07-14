@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/">Isle of Arran (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/"><img src="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/sett.png" alt="Isle of Arran (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/isle-of-arran-2/">Isle of Arran</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-arran-2/"><img src="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/sett.png" alt="Isle of Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

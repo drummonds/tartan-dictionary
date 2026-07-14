@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w3db20y4k9w3k3w3k3g14dy9k3dy4w3~x2/">Clodagh Cork Irish District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w3db20y4k9w3k3w3k3g14dy9k3dy4w3~x2/"><img src="/variants/s13/w3db20y4k9w3k3w3k3g14dy9k3dy4w3~x2/sett.png" alt="Clodagh Cork Irish District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clodagh-cork/">Clodagh Cork</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clodagh-cork/"><img src="/variants/s13/w3db20y4k9w3k3w3k3g14dy9k3dy4w3~x2/sett.png" alt="Clodagh Cork sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

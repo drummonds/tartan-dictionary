@@ -8,10 +8,10 @@ crumbs:
 - name: "Laporte"
   url: "/tartans/l/la/laporte/"
 - name: "Laporte"
-  url: "/setts/g8dr6k4dr64n1k28dr6g40dr6k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8dr6k4dr64n1k28dr6g40dr6k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/laporte/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBBKBGBK](/stripes/gbkbbkbgbk/).
 
 Part of the [Laporte](/tartans/l/la/laporte/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2050](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Laporte (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2050">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1972 — Laporte (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5388">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Sample in STA's Johnston Collection.</em></li>
+<li>pre 1972 — Laporte (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5388/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

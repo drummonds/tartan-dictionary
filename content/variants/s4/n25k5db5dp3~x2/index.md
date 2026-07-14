@@ -8,10 +8,10 @@ crumbs:
 - name: "Lord Willy's"
   url: "/tartans/l/lo/lord-willy-s/"
 - name: "Lord Willy's (New York)"
-  url: "/setts/n25k5db5dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n25k5db5dp3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lord-willy-s/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKB](/stripes/bbkb/).
 
 Part of the [Lord Willy's](/tartans/l/lo/lord-willy-s/) tartan — the named design grouping this sett with its other cloths.

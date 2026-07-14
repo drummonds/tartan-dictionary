@@ -8,10 +8,10 @@ crumbs:
 - name: "Isle of Raasay"
   url: "/tartans/i/is/isle-of-raasay/"
 - name: "Isle of Raasay"
-  url: "/setts/dg60ly16dp8db2dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg60ly16dp8db2dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/is/isle-of-raasay/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBYG](/stripes/gbbyg/).
 
 Part of the [Isle of Raasay](/tartans/i/is/isle-of-raasay/) tartan — the named design grouping this sett with its other cloths.

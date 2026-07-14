@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r5db15g3db15y3db3~x2/">Abertay University (Estimated threadcount)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r5db15g3db15y3db3~x2/"><img src="/variants/s6/r5db15g3db15y3db3~x2/sett.png" alt="Abertay University (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/b30y5b4r12~x4/">UEFA (Glasgow)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/b30y5b4r12~x4/"><img src="/variants/s4/b30y5b4r12~x4/sett.png" alt="UEFA (Glasgow) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/abertay-university/">Abertay University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/abertay-university/"><img src="/variants/s6/r5db15g3db15y3db3~x2/sett.png" alt="Abertay University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

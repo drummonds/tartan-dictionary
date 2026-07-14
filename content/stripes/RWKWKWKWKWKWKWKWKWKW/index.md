@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k1w1k1w1k1w1k1w1k1w1r1~x8/">Kerr Shepherd's Plaid (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k1w1k1w1k1w1k1w1k1w1r1~x8/"><img src="/variants/s11/k1w1k1w1k1w1k1w1k1w1r1~x8/sett.png" alt="Kerr Shepherd's Plaid (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kerr-shepherd-s/">Kerr Shepherd's</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kerr-shepherd-s/"><img src="/variants/s20/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/sett.png" alt="Kerr Shepherd's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

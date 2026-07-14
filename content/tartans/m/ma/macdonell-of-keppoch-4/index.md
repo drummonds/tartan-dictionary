@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/macdonell/"
 - name: "MacDonell of Keppoch"
   url: "/families/macdonell-of-keppoch/"
+aliases:
+- "/setts/dg2r2db1r24lb1db6r3dg12r4db1/"
+- "/setts/g2r2db1r24lb1db6r3g12r4db1/"
+- "/setts/g2r2db1r24w1db6r3g12r4db1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgrbwrbrg/">BRGRBWRBRG</a></nav>
 A tartan of the [MacDonell of Keppoch](/families/macdonell-of-keppoch/) family.
 Its design is pattern [BRGRBWRBRG](/stripes/brgrbwrbrg/) — the page of every tartan sharing this colour sequence.
 
@@ -18,13 +23,15 @@ The **MacDonell of Keppoch** tartan groups 3 setts — the same named design rec
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg2r2db1r24lb1db6r3dg12r4db1/">MacDonell of Keppoch</a> ★</td><td><code>DG/4 R4 DB2 R48 LB2 DB12 R6 DG24 R8 DB/2</code></td><td>218</td><td>1746</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg2r2db1r24lb1db6r3dg12r4db1/"><img src="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g2r2db1r24lb1db6r3g12r4db1/">MacDonell of Keppoch</a></td><td><code>G/4 R4 DB2 R48 LB2 DB12 R6 G24 R8 DB/2</code></td><td>218</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g2r2db1r24lb1db6r3g12r4db1/"><img src="/variants/s10/g2r2db1r24lb1db6r3g12r4db1~x2/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/">MacDonell of Keppoch</a> ★</td><td><code>DG/4 R4 DB2 R48 LB2 DB12 R6 DG24 R8 DB/2</code></td><td>218</td><td>1746</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><img src="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1~x2/">MacDonell of Keppoch</a></td><td><code>G/2 R2 DB1 R24 LB1 DB6 R3 G12 R4 DB/1</code></td><td>109</td><td>1906</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1~x2/"><img src="/variants/s10/g2r2db1r24lb1db6r3g12r4db1~x2/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1/">MacDonell of Keppoch</a></td><td><code>G/2 R2 DB1 R24 LB1 DB6 R3 G12 R4 DB/1</code></td><td>109</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1~x2/">MacDonell of Keppoch</a></td><td><code>G/4 R4 DB2 R48 LB2 DB12 R6 G24 R8 DB/2</code></td><td>218</td><td>1906</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1/">MacDonell of Keppoch</a> · <a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1~x2/">MacDonell of Keppoch</a></td></tr>
-<tr><td><a href="/setts/g2r2db1r24w1db6r3g12r4db1/">MacDonell of Keppoch</a></td><td><code>G/2 R2 DB1 R24 W1 DB6 R3 G12 R4 DB/1</code></td><td>109</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g2r2db1r24w1db6r3g12r4db1/"><img src="/variants/s10/g2r2db1r24w1db6r3g12r4db1/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g2r2db1r24w1db6r3g12r4db1/">MacDonell of Keppoch</a></td><td><code>G/2 R2 DB1 R24 W1 DB6 R3 G12 R4 DB/1</code></td><td>109</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g2r2db1r24w1db6r3g12r4db1/"><img src="/variants/s10/g2r2db1r24w1db6r3g12r4db1/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +44,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="396.6" cy="145.4" r="4" fill="#3465a4"><title>MacDonald 1</title></circle></a><a href="/variants/s9/r2db12r2g11r4db5g2r24w2~x2/"><circle cx="272.4" cy="169.3" r="4" fill="#3465a4"><title>Fraser Gathering</title></circle></a><a href="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/"><circle cx="363.1" cy="133.3" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/"><circle cx="334.0" cy="130.0" r="4" fill="#3465a4"><title>Châine des Rôtisseurs</title></circle></a><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/"><circle cx="365.2" cy="174.2" r="4" fill="#3465a4"><title>Franklin Museum Unidentified 2</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="367.5" cy="174.9" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s10/r12w2r37t6g3t3r4t3g21r4~x2/"><circle cx="378.2" cy="149.5" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><circle cx="321.9" cy="138.8" r="4" fill="#3465a4"><title>MacDougal 4</title></circle></a><a href="/variants/s8/r6g14r6db11r31lb2r4y3~x2/"><circle cx="340.0" cy="159.2" r="4" fill="#3465a4"><title>Loch Lochy</title></circle></a><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/"><circle cx="383.3" cy="137.7" r="4" fill="#3465a4"><title>Maver</title></circle></a><circle cx="372.8" cy="122.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="397.4" cy="145.6" r="4" fill="#3465a4"><title>MacDonald 1</title></circle></a><a href="/variants/s9/r2db12r2g11r4db5g2r24w2~x2/"><circle cx="273.0" cy="169.2" r="4" fill="#3465a4"><title>Fraser Gathering</title></circle></a><a href="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/"><circle cx="363.9" cy="133.4" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/"><circle cx="334.8" cy="130.0" r="4" fill="#3465a4"><title>Châine des Rôtisseurs</title></circle></a><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/"><circle cx="366.0" cy="174.3" r="4" fill="#3465a4"><title>Franklin Museum Unidentified 2</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="368.2" cy="175.0" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s10/r12w2r37t6g3t3r4t3g21r4~x2/"><circle cx="379.0" cy="149.6" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><circle cx="322.6" cy="138.8" r="4" fill="#3465a4"><title>MacDougal 4</title></circle></a><a href="/variants/s8/r6g14r6db11r31lb2r4y3~x2/"><circle cx="340.7" cy="159.2" r="4" fill="#3465a4"><title>Loch Lochy</title></circle></a><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/"><circle cx="384.2" cy="137.8" r="4" fill="#3465a4"><title>Maver</title></circle></a><circle cx="373.7" cy="122.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

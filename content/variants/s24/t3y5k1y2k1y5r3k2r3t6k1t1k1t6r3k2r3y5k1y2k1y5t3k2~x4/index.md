@@ -12,10 +12,10 @@ crumbs:
 - name: "Franklin"
   url: "/tartans/f/fr/franklin/"
 - name: "Franklin"
-  url: "/setts/t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/franklin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGRKRBKBKBRKRGKGKGBK](/stripes/bgkgkgrkrbkbkbrkrgkgkgbk/).
 
 Part of the [Franklin](/tartans/f/fr/franklin/) tartan — the named design grouping this sett with its other cloths.

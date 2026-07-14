@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/">Matthew Gloag &amp; Son Ltd (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/"><img src="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/sett.png" alt="Matthew Gloag &amp; Son Ltd (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/matthew-gloag-son-ltd/">Matthew Gloag &amp; Son Ltd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/matthew-gloag-son-ltd/"><img src="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/sett.png" alt="Matthew Gloag &amp; Son Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

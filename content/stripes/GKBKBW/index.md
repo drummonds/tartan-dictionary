@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y6k2n11k7db24w6~x2/">Clunie (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y6k2n11k7db24w6~x2/"><img src="/variants/s6/y6k2n11k7db24w6~x2/sett.png" alt="Clunie (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w12db48k13n22k3y6/">Clunie (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w12db48k13n22k3y6/"><img src="/variants/s6/w12db48k13n22k3y6/sett.png" alt="Clunie (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clunie/">Clunie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clunie/"><img src="/variants/s6/w12db48k13n22k3y6/sett.png" alt="Clunie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/">Pride of Yorkland (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/"><img src="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/sett.png" alt="Pride of Yorkland (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-yorkland/">Pride of Yorkland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-yorkland/"><img src="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/sett.png" alt="Pride of Yorkland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

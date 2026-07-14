@@ -8,15 +8,15 @@ crumbs:
 - name: "Hay-Stewart"
   url: "/tartans/h/ha/hay-stewart/"
 - name: "Hay-Stewart"
-  url: "/setts/dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBKYKWKGBKBWBKBGKWKYKBW](/stripes/bwbkykwkgbkbwbkbgkwkykbw/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hay-stewart/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBKYKWKGBKBW](/stripes/bwbkykwkgbkbw/).
 
 Part of the [Hay-Stewart](/tartans/h/ha/hay-stewart/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1638](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1638)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5167
 
 ## Thread count
-DR/8 W50 T8 K12 LY4 K4 W4 K4 G16 DR8 K4 DR8 W4 DR8 K4 DR8 G16 K4 W4 K4 LY4 K12 T8 W/50
+DR/8 W50 T8 K12 LY4 K4 W4 K4 G16 DR8 K4 DR8 W/4
 
-One full sett is **454 threads**.
+One full sett is **256 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/8 W50 T8 K12 LY4 K4 W4 K4 G16 DR8 K4 DR8 W4 DR8 K4 DR8 G16 K4 W4 K4 LY4 K12 T8 W/50 — 454 threads; it folds to the canonical 256-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **454 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/8 W50 T8 K12 LY4 K4 W4 K4 G16 DR8 K4 DR8 W4 DR8 K4 DR8 G16 K4 W4 K4 LY4 K12 T8 W/50 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/8 W50 T8 K12 LY4 K4 W4 K4 G16 DR8 K4 DR8 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

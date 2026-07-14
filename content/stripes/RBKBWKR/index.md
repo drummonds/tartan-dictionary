@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/">Yusra Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><img src="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/sett.png" alt="Yusra Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yu/yusra/">Yusra</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yu/yusra/"><img src="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/sett.png" alt="Yusra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

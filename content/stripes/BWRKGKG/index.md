@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dy45k5dy28k5o5w2do6~x2/">Leiato of American Samoa (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dy45k5dy28k5o5w2do6~x2/"><img src="/variants/s7/dy45k5dy28k5o5w2do6~x2/sett.png" alt="Leiato of American Samoa (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leiato-of-american-samoa-2/">Leiato of American Samoa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leiato-of-american-samoa-2/"><img src="/variants/s7/dy45k5dy28k5o5w2do6~x2/sett.png" alt="Leiato of American Samoa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

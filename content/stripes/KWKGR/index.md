@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k3w3k3y10r1~x6/">(6) Burberry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k3w3k3y10r1~x6/"><img src="/variants/s5/k3w3k3y10r1~x6/sett.png" alt="(6) Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burberry/">Burberry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burberry/"><img src="/variants/s5/k3w3k3y10r1~x6/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k3w3k3dg10r1~x6/">Burberry Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k3w3k3dg10r1~x6/"><img src="/variants/s5/k3w3k3dg10r1~x6/sett.png" alt="Burberry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burberry-hunting/">Burberry Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burberry-hunting/"><img src="/variants/s5/k3w3k3dg10r1~x6/sett.png" alt="Burberry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Private SA Club"
   url: "/tartans/p/pr/private-sa-club/"
 - name: "Private SA Club"
-  url: "/setts/k3dr8k3dr8lo19dr7dt36dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3dr8k3dr8lo19dr7dt36dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/private-sa-club/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBYBKBK](/stripes/bbbybkbk/).
 
 Part of the [Private SA Club](/tartans/p/pr/private-sa-club/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3415](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/06/2004 — Private SA Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3415">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8A028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D8A028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><br><em>Designed in June 2004 for a private South African club using the club's corporate colours. Fabric not woven until June 2005. Lochcarron sample.</em></li>
-<li>2004 June — Private SA Club (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6853">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8A028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D8A028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><br><em>Desiugned in June 2004 for a private South African club using the club's corporate colours. Fabric not woven until June 2005. Lochcarron sample.</em></li>
+<li>2004 June — Private SA Club (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6853/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8A028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D8A028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><br><em>Desiugned in June 2004 for a private South African club using the club's corporate colours. Fabric not woven until June 2005. Lochcarron sample.</em></li>
 </ul>
 </details>
 

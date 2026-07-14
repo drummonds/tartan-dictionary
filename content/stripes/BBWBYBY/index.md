@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/">Canadian Legion Branch 50</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/"><img src="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/sett.png" alt="Canadian Legion Branch 50 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canadian-legion-br-50/">Canadian Legion Br 50</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canadian-legion-br-50/"><img src="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/sett.png" alt="Canadian Legion Br 50 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

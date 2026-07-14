@@ -8,10 +8,10 @@ crumbs:
 - name: "Wallenberg, Nicolas"
   url: "/tartans/w/wa/wallenberg-nicolas/"
 - name: "Wallenberg, Nicolas (Personal)"
-  url: "/setts/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/wallenberg-nicolas/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGRGBWRGRGBGBG](/stripes/bgbgrgbwrgrgbgbg/).
 
 Part of the [Wallenberg, Nicolas](/tartans/w/wa/wallenberg-nicolas/) tartan — the named design grouping this sett with its other cloths.

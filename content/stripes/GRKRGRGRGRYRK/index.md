@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k5r7ly23r23dg3r11dg3r23dg18r2k18r5y5/">Bonnie Prince Charlie (Vyella)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k5r7ly23r23dg3r11dg3r23dg18r2k18r5y5/"><img src="/variants/s13/k5r7ly23r23dg3r11dg3r23dg18r2k18r5y5/sett.png" alt="Bonnie Prince Charlie (Vyella) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bonnie-prince-charlie/">Bonnie Prince Charlie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bonnie-prince-charlie/"><img src="/variants/s13/k5r7ly23r23dg3r11dg3r23dg18r2k18r5y5/sett.png" alt="Bonnie Prince Charlie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

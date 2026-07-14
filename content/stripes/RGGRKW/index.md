@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w43k5r3g5y27o5~x2/">Reekie, Charlene</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w43k5r3g5y27o5~x2/"><img src="/variants/s6/w43k5r3g5y27o5~x2/sett.png" alt="Reekie, Charlene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/reekie-charlene/">Reekie, Charlene</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/reekie-charlene/"><img src="/variants/s6/w43k5r3g5y27o5~x2/sett.png" alt="Reekie, Charlene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,17 +12,17 @@ crumbs:
 - name: "Clackson"
   url: "/tartans/c/cl/clackson/"
 - name: "Clackson (Personal)"
-  url: "/setts/db24r2db8y5db4w5db4y5db4w5db8r2db24/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db24r2db8y5db4w5db4y5db4w5db8r2db24/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clackson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBWBGBWBRB](/stripes/brbgbwbgbwbrb/).
 
 Part of the [Clackson](/tartans/c/cl/clackson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5831](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5831)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/5831/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5831/*)
 
 ## Provenance
 
@@ -31,7 +31,7 @@ Earliest known date: June 2003 Designed by Dr. Stephen Gregory Clackson of Orkne
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>June 2003 — Clackson (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5831">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Dr. Stephen Gregory Clackson of Orkney for all bearers of any version of his armorial bearings, for all descendants of such persons and for all persons granted written permission by him or his heirs. Inspired by the armorial bearings of Dr Clackson (which are matriculated in the Public Register of all Arms and Bearings in Scotland) to commemorate the birth in Aberdeen of his daughter Frideswide Joyce Charlotte on the 13th February 2003.</em></li>
+<li>June 2003 — Clackson (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5831/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Dr. Stephen Gregory Clackson of Orkney for all bearers of any version of his armorial bearings, for all descendants of such persons and for all persons granted written permission by him or his heirs. Inspired by the armorial bearings of Dr Clackson (which are matriculated in the Public Register of all Arms and Bearings in Scotland) to commemorate the birth in Aberdeen of his daughter Frideswide Joyce Charlotte on the 13th February 2003.</em></li>
 <li>June 2003 — Clackson Personal Weavers Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5831">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span></li>
 </ul>
 </details>
@@ -46,7 +46,7 @@ Earliest known date: June 2003 Designed by Dr. Stephen Gregory Clackson of Orkne
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

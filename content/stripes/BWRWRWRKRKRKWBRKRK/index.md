@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k3o1k2o2t24lb2k8o2k2o2k2o8lb2o2lb2o2lb8t3~x2/">Beaufort (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k3o1k2o2t24lb2k8o2k2o2k2o8lb2o2lb2o2lb8t3~x2/"><img src="/variants/s18/k3o1k2o2t24lb2k8o2k2o2k2o8lb2o2lb2o2lb8t3~x2/sett.png" alt="Beaufort (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/beaufort/">Beaufort</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/beaufort/"><img src="/variants/s18/k3o1k2o2t24lb2k8o2k2o2k2o8lb2o2lb2o2lb8t3~x2/sett.png" alt="Beaufort sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

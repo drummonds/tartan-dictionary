@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r6db2r6g10y1k10db6k1db2k1db6r6w2k2r2~x2/">MacPherson #7</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r6db2r6g10y1k10db6k1db2k1db6r6w2k2r2~x2/"><img src="/variants/s15/r6db2r6g10y1k10db6k1db2k1db6r6w2k2r2~x2/sett.png" alt="MacPherson #7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/">MacPherson Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><img src="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/sett.png" alt="MacPherson Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-10/">MacPherson 10</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-10/"><img src="/variants/s15/r6db2r6g10y1k10db6k1db2k1db6r6w2k2r2~x2/sett.png" alt="MacPherson 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-9/">MacPherson 9</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-9/"><img src="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/sett.png" alt="MacPherson 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

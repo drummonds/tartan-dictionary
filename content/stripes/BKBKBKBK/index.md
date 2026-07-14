@@ -28,20 +28,18 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/">Douglas VS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/"><img src="/variants/s8/k16n1k1n1k8n16k1n2~x2/sett.png" alt="Douglas VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k10n1k2n1k4n10k1n2~x4/">Douglas, Grey (Vestiarium Scoticum)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k10n1k2n1k4n10k1n2~x4/"><img src="/variants/s8/k10n1k2n1k4n10k1n2~x4/sett.png" alt="Douglas, Grey (Vestiarium Scoticum) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k9n1k2n1k4n9k1n2~x4/">Douglas, Grey Clan/Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k9n1k2n1k4n9k1n2~x4/"><img src="/variants/s8/k9n1k2n1k4n9k1n2~x4/sett.png" alt="Douglas, Grey Clan/Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k24n18k11n4k11n18k53n4/">Spirit of Glyndwr Grey (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k24n18k11n4k11n18k53n4/"><img src="/variants/s8/k24n18k11n4k11n18k53n4/sett.png" alt="Spirit of Glyndwr Grey (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/douglas-3/">Douglas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-3/"><img src="/variants/s8/k9n1k2n1k4n9k1n2~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/douglas-vs/">Douglas VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-vs/"><img src="/variants/s8/k16n1k1n1k8n16k1n2~x2/sett.png" alt="Douglas VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-glyndwr/">Spirit of Glyndwr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-glyndwr/"><img src="/variants/s8/k24n18k11n4k11n18k53n4/sett.png" alt="Spirit of Glyndwr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/db7k2db2k2db2k7dp7k2~x4/">Glasgow Academy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db7k2db2k2db2k7dp7k2~x4/"><img src="/variants/s8/db7k2db2k2db2k7dp7k2~x4/sett.png" alt="Glasgow Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow-academy-2/">Glasgow Academy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-academy-2/"><img src="/variants/s8/db7k2db2k2db2k7dp7k2~x4/sett.png" alt="Glasgow Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/k6db10k10b1k1b1k10b6/">Oban</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k6db10k10b1k1b1k10b6/"><img src="/variants/s8/k6db10k10b1k1b1k10b6~x4~db1406275/sett.png" alt="Oban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ob/oban-3/">Oban</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ob/oban-3/"><img src="/variants/s8/k6db10k10b1k1b1k10b6~x4~db1406275/sett.png" alt="Oban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

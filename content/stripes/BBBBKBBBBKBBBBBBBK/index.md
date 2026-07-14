@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k3dp1n2dp1db6dp1n2dp1k16db16n1dp2n1k6n1dp2n1db3~x2/">Asile</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k3dp1n2dp1db6dp1n2dp1k16db16n1dp2n1k6n1dp2n1db3~x2/"><img src="/variants/s18/k3dp1n2dp1db6dp1n2dp1k16db16n1dp2n1k6n1dp2n1db3~x2/sett.png" alt="Asile sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/as/asile/">Asile</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/as/asile/"><img src="/variants/s18/k3dp1n2dp1db6dp1n2dp1k16db16n1dp2n1k6n1dp2n1db3~x2/sett.png" alt="Asile sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20dy7dg5~x2/">Wild Geese</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20dy7dg5~x2/"><img src="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20dy7dg5~x2/sett.png" alt="Wild Geese sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wild-geese/">Wild Geese</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wild-geese/"><img src="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20dy7dg5~x2/sett.png" alt="Wild Geese sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

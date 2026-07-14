@@ -8,10 +8,10 @@ crumbs:
 - name: "Norwich No.079"
   url: "/tartans/n/no/norwich-no-079/"
 - name: "Norwich No.079"
-  url: "/setts/g18ly2k14lb5k4lb5k14ly2g18r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g18ly2k14lb5k4lb5k14ly2g18r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/norwich-no-079/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYKWKWKYGR](/stripes/gykwkwkygr/).
 
 Part of the [Norwich No.079](/tartans/n/no/norwich-no-079/) tartan — the named design grouping this sett with its other cloths.

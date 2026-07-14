@@ -8,17 +8,17 @@ crumbs:
 - name: "Stanners"
   url: "/tartans/s/st/stanners/"
 - name: "Stanners (Personal)"
-  url: "/setts/lb4k4db4k4g4w1g4w1db3r4db3r4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4k4db4k4g4w1g4w1db3r4db3r4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stanners/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKGWGWBRBRW](/stripes/wkbkgwgwbrbrw/).
 
 Part of the [Stanners](/tartans/s/st/stanners/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10096](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10096)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/10096/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10096/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: 2nd Nov. 2009 This tartan is for the use of the Stanners fa
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>2nd Nov. 2009 — Stanners (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10096">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#386074;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #386074"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This tartan is for the use of the Stanners family who lived in Grangepans, Bo'ness, West Lothian, for 200 years. It is for family members, relatives and anyone linked to the family by marriage. Developed for weaving by House of Tartan.</em></li>
+<li>2nd Nov. 2009 — Stanners (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10096/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#386074;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #386074"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This tartan is for the use of the Stanners family who lived in Grangepans, Bo'ness, West Lothian, for 200 years. It is for family members, relatives and anyone linked to the family by marriage. Developed for weaving by House of Tartan.</em></li>
 <li>undated — Stanners Personal Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10096">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#386074;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #386074"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Earliest known date: 2nd Nov. 2009 This tartan is for the use of the Stanners fa
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

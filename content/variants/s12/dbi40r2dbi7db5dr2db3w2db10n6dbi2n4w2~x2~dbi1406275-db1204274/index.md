@@ -8,10 +8,10 @@ crumbs:
 - name: "Plymouth Armada Special event"
   url: "/tartans/p/pl/plymouth-armada-special-event/"
 - name: "Plymouth Armada Special event Tartan"
-  url: "/setts/dbi40r2dbi7db5dr2db3w2db10n6dbi2n4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi40r2dbi7db5dr2db3w2db10n6dbi2n4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pl/plymouth-armada-special-event/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBBBWBBBBW](/stripes/brbbbbwbbbbw/).
 
 Part of the [Plymouth Armada Special event](/tartans/p/pl/plymouth-armada-special-event/) tartan — the named design grouping this sett with its other cloths.

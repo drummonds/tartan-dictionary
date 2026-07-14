@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/lamont/"
 - name: "Lamont"
   url: "/families/lamont/"
+aliases:
+- "/setts/dp11o2dp2o2dp2o11g14w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbrbrgw/">BRBRBRGW</a></nav>
 A tartan of the [Lamont](/families/lamont/) family.
 Its design is pattern [BRBRBRGW](/stripes/brbrbrgw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Lamont** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp11o2dp2o2dp2o11g14w2/">Lamont</a></td><td><code>DP/22 O4 DP4 O4 DP4 O22 G28 W/4</code></td><td>158</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp11o2dp2o2dp2o11g14w2/"><img src="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/">Lamont</a></td><td><code>DP/22 O4 DP4 O4 DP4 O22 G28 W/4</code></td><td>158</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><img src="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><circle cx="184.2" cy="226.3" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s8/r3dy16g10r3g3lb2g3r3~x2/"><circle cx="221.7" cy="220.8" r="4" fill="#3465a4"><title>Scott Hunting</title></circle></a><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="202.3" cy="218.1" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/"><circle cx="194.1" cy="188.4" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="181.6" cy="211.4" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/"><circle cx="194.4" cy="211.4" r="4" fill="#3465a4"><title>Bonnie Brae</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="191.4" cy="236.9" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="236.0" cy="223.6" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s7/dp9lr4dp1lr4g15r4dp1~x4~lr2805035-r2108022/"><circle cx="235.8" cy="201.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s7/dp3r14g2dp10r2g14dp3~x2/"><circle cx="222.6" cy="245.3" r="4" fill="#3465a4"><title>Scottish Netball</title></circle></a><circle cx="198.1" cy="228.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><circle cx="184.4" cy="226.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s8/r3dy16g10r3g3lb2g3r3~x2/"><circle cx="221.9" cy="220.7" r="4" fill="#3465a4"><title>Scott Hunting</title></circle></a><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="202.6" cy="218.0" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/"><circle cx="194.4" cy="188.3" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="181.7" cy="211.2" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/"><circle cx="194.5" cy="211.2" r="4" fill="#3465a4"><title>Bonnie Brae</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="191.5" cy="236.7" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="236.2" cy="223.5" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s7/dp9lr4dp1lr4g15r4dp1~x4~lr2805035-r2108022/"><circle cx="236.1" cy="201.0" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s7/dp3r14g2dp10r2g14dp3~x2/"><circle cx="222.8" cy="245.2" r="4" fill="#3465a4"><title>Scottish Netball</title></circle></a><circle cx="198.2" cy="228.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

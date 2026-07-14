@@ -8,10 +8,10 @@ crumbs:
 - name: "Palm Beach Gardens Police"
   url: "/tartans/p/pa/palm-beach-gardens-police/"
 - name: "Palm Beach Gardens Police"
-  url: "/setts/g32lb6g12lb28dr2db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g32lb6g12lb28dr2db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/palm-beach-gardens-police/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWGWG](/stripes/bbwgwg/).
 
 Part of the [Palm Beach Gardens Police](/tartans/p/pa/palm-beach-gardens-police/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3286](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1994 — Palm Beach Gardens Police (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3286">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#20943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #20943C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#688898;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #688898"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>Registered with Tartan Educational & Cultural Association on 11 October 1994. Thread count as supplied with registration application. Sample in Scottish Tartans Authority's Johnston Collection. Count checked against Jan Crook's July 2003 version and slight changes made.</em></li>
-<li>1994 — Palm Beach Gardens Police (Corporate (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5521">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#20943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #20943C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#688898;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #688898"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>Registered with TECA 11 October 1994. Thread count as supplied with registration application. Sample in STA Johnston Collection. Count checked against Jan Crook's July 2003 and slight changes made.</em></li>
+<li>1994 — Palm Beach Gardens Police (Corporate (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5521/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#20943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #20943C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#688898;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #688898"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>Registered with TECA 11 October 1994. Thread count as supplied with registration application. Sample in STA Johnston Collection. Count checked against Jan Crook's July 2003 and slight changes made.</em></li>
 </ul>
 </details>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Pride of Norway"
   url: "/tartans/p/pr/pride-of-norway-2/"
 - name: "Pride of Norway"
-  url: "/setts/k8w2k2db2k6db18r3db18k6db2k7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8w2k2db2k6db18r3db18k6db2k7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/pride-of-norway-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBRBKKBKWKK](/stripes/kbkbrbkkbkwkk/).
 
 Part of the [Pride of Norway](/tartans/p/pr/pride-of-norway-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3374](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3374)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5785
 
 ## Thread count
-K/14 DB4 K12 DB36 R6 DB36 K8 K4 DB4 K4 W4 K8 K/8
+K/16 W4 K4 DB4 K12 DB36 R6 DB36 K12 DB4 K/14
 
-One full sett is **274 threads**.
+One full sett is **266 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/14 DB4 K12 DB36 R6 DB36 K8 K4 DB4 K4 W4 K8 K/8 — 274 threads; it folds to the canonical 266-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **274 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/14 DB4 K12 DB36 R6 DB36 K8 K4 DB4 K4 W4 K8 K/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/16 W4 K4 DB4 K12 DB36 R6 DB36 K12 DB4 K/14 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

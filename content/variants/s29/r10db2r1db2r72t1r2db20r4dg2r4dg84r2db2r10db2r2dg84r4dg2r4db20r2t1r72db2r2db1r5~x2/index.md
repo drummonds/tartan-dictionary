@@ -8,10 +8,10 @@ crumbs:
 - name: "Forsythe-Grant of Ecclesgreig"
   url: "/tartans/f/fo/forsythe-grant-of-ecclesgreig/"
 - name: "Forsythe-Grant of Ecclesgreig"
-  url: "/setts/r10db2r1db2r72t1r2db20r4dg2r4dg84r2db2r10db2r2dg84r4dg2r4db20r2t1r72db2r2db1r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r10db2r1db2r72t1r2db20r4dg2r4dg84r2db2r10db2r2dg84r4dg2r4db20r2t1r72db2r2db1r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/forsythe-grant-of-ecclesgreig/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRBRGRGRBRBRGRGRBRBRBRBR](/stripes/rbrbrbrbrgrgrbrbrgrgrbrbrbrbr/).
 
 Part of the [Forsythe-Grant of Ecclesgreig](/tartans/f/fo/forsythe-grant-of-ecclesgreig/) tartan — the named design grouping this sett with its other cloths.

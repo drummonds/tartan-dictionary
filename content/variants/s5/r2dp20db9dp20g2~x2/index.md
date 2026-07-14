@@ -8,17 +8,17 @@ crumbs:
 - name: "Scottish Netball"
   url: "/tartans/s/sc/scottish-netball/"
 - name: "Scottish Netball (1987) (Corporate)"
-  url: "/setts/r2dp20db9dp20g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2dp20db9dp20g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-netball/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBR](/stripes/gbbbr/).
 
 Part of the [Scottish Netball](/tartans/s/sc/scottish-netball/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=689](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=689)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/689/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/689/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: 1987 Designed for the World Netball Championship held in 19
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1987 — Scottish Netball (1987) (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=689">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed for the World Netball Championship in Glasgow in 1987 by Clan Weaving Mill in Hamilton (Peter MacArthur's?). Also worn by the Scottish Netball team on their tour of Australia. One assumes that Jamie Scarlett's design at #177 was not used.</em></li>
+<li>1987 — Scottish Netball (1987) (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/689/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed for the World Netball Championship in Glasgow in 1987 by Clan Weaving Mill in Hamilton (Peter MacArthur's?). Also worn by the Scottish Netball team on their tour of Australia. One assumes that Jamie Scarlett's design at #177 was not used.</em></li>
 <li>1987 — Scottish Netball Association Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=689">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span></li>
 <li>undated — Scottish Netball Association (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #800080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span></li>
 </ul>
@@ -43,7 +43,7 @@ Earliest known date: 1987 Designed for the World Netball Championship held in 19
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

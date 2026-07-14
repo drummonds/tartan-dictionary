@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/">Leando Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/"><img src="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/sett.png" alt="Leando Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leando-hunting/">Leando Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leando-hunting/"><img src="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/sett.png" alt="Leando Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

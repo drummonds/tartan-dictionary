@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr12k2ly2k2dr2k2ly2k2dr12k9dr12k2ly2k2~x2/">City of New Bern 300 (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr12k2ly2k2dr2k2ly2k2dr12k9dr12k2ly2k2~x2/"><img src="/variants/s14/dr12k2ly2k2dr2k2ly2k2dr12k9dr12k2ly2k2~x2/sett.png" alt="City of New Bern 300 (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-new-bern-300-2/">City of New Bern 300</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-new-bern-300-2/"><img src="/variants/s14/dr12k2ly2k2dr2k2ly2k2dr12k9dr12k2ly2k2~x2/sett.png" alt="City of New Bern 300 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

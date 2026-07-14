@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k3g3k3g21dg21k3g1~x2/">Granite City (Silver Granite) Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k3g3k3g21dg21k3g1~x2/"><img src="/variants/s7/k3g3k3g21dg21k3g1~x2/sett.png" alt="Granite City (Silver Granite) Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/granite-city/">Granite City</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/granite-city/"><img src="/variants/s7/k3g3k3g21dg21k3g1~x2/sett.png" alt="Granite City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

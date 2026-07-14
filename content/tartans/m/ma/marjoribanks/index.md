@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/marjoribanks/"
 - name: "Marjoribanks"
   url: "/families/marjoribanks/"
+aliases:
+- "/setts/w3k3w3k37r40w1r2lo3/"
+- "/setts/y3r2w1r40k36w3k3w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wkwkrwry/">WKWKRWRY</a></nav>
 A tartan of the [Marjoribanks](/families/marjoribanks/) family.
 Its design is pattern [WKWKRWRY](/stripes/wkwkrwry/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Marjoribanks** tartan groups 2 setts — the same named design recorded as
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w3k3w3k37r40w1r2lo3/">Marjoribanks</a> ★</td><td><code>LO/6 R4 W2 R80 K74 W6 K6 W/6</code></td><td>356</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w3k3w3k37r40w1r2lo3/"><img src="/variants/s8/w3k3w3k37r40w1r2lo3~x2/sett.png" alt="Marjoribanks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/y3r2w1r40k36w3k3w3/">Marjoribanks</a></td><td><code>Y/6 R4 W2 R80 K72 W6 K6 W/6</code></td><td>352</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y3r2w1r40k36w3k3w3/"><img src="y3r2w1r40k36w3k3w3-rev.png" alt="Marjoribanks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w3k3w3k37r40w1r2lo3~x2/">Marjoribanks</a> ★</td><td><code>W/6 K6 W6 K74 R80 W2 R4 LO/6</code></td><td>356</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w3k3w3k37r40w1r2lo3~x2/"><img src="/variants/s8/w3k3w3k37r40w1r2lo3~x2/sett.png" alt="Marjoribanks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/">Marjoribanks</a></td><td><code>Y/6 R4 W2 R80 K72 W6 K6 W/6</code></td><td>352</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/"><img src="y3r2w1r40k36w3k3w3-rev.png" alt="Marjoribanks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><circle cx="307.6" cy="101.1" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="317.6" cy="113.2" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="295.9" cy="85.0" r="4" fill="#3465a4"><title>Cunningham</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="275.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s5/k22w1k12r43w1~x2/"><circle cx="351.6" cy="114.3" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/"><circle cx="252.4" cy="71.5" r="4" fill="#3465a4"><title>Sens</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="258.9" cy="66.4" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="259.2" cy="65.9" r="4" fill="#3465a4"><title>Aberdeen Football Club</title></circle></a><a href="/variants/s8/w6k2w2k31r41k2r2k4~x2/"><circle cx="283.1" cy="105.2" r="4" fill="#3465a4"><title>University of Nebraska</title></circle></a><a href="/variants/s6/r42k2w2k18w2k5~x2/"><circle cx="345.9" cy="113.7" r="4" fill="#3465a4"><title>Forget</title></circle></a><circle cx="278.4" cy="69.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><circle cx="308.7" cy="101.1" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="318.6" cy="113.3" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="297.0" cy="85.0" r="4" fill="#3465a4"><title>Cunningham</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="276.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s5/k22w1k12r43w1~x2/"><circle cx="352.8" cy="114.4" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/"><circle cx="253.4" cy="71.4" r="4" fill="#3465a4"><title>Sens</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="259.8" cy="66.3" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="260.2" cy="65.8" r="4" fill="#3465a4"><title>Aberdeen Football Club</title></circle></a><a href="/variants/s8/w6k2w2k31r41k2r2k4~x2/"><circle cx="284.0" cy="105.2" r="4" fill="#3465a4"><title>University of Nebraska</title></circle></a><a href="/variants/s6/r42k2w2k18w2k5~x2/"><circle cx="347.0" cy="113.8" r="4" fill="#3465a4"><title>Forget</title></circle></a><circle cx="279.4" cy="69.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

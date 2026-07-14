@@ -10,10 +10,10 @@ crumbs:
 - name: "Scott Hunting special"
   url: "/tartans/s/sc/scott-hunting-special/"
 - name: "Scott, hunting special"
-  url: "/setts/g8dg2w2dg6y2db14g4dg16g16b2g5w2g4dg7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8dg2w2dg6y2db14g4dg16g16b2g5w2g4dg7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scott-hunting-special/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGBGGGBGGWGG](/stripes/ggwgbgggbggwgg/).
 
 Part of the [Scott Hunting special](/tartans/s/sc/scott-hunting-special/) tartan — the named design grouping this sett with its other cloths.

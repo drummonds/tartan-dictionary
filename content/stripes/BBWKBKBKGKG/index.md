@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y40k5g48k5dr20k5n14k10w4dr28n10/">Kildare County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y40k5g48k5dr20k5n14k10w4dr28n10/"><img src="/variants/s11/y40k5g48k5dr20k5n14k10w4dr28n10/sett.png" alt="Kildare County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kildare-county-crest-range/">Kildare County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kildare-county-crest-range/"><img src="/variants/s11/y40k5g48k5dr20k5n14k10w4dr28n10/sett.png" alt="Kildare County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

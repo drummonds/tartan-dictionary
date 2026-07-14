@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/db35k3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2~x2/">Martha De Laurentiis Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/db35k3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2~x2/"><img src="/variants/s20/db35k3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2~x2/sett.png" alt="Martha De Laurentiis Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/martha-de-laurentiis/">Martha De Laurentiis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/martha-de-laurentiis/"><img src="/variants/s20/db35k3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2~x2/sett.png" alt="Martha De Laurentiis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Poulter Tron"
   url: "/tartans/p/po/poulter-tron/"
 - name: "Poulter Tron"
-  url: "/setts/w69dp14w13dp14w13dp69db72ly13db72dp69w68dp14w13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w69dp14w13dp14w13dp69db72ly13db72dp69w68dp14w13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/poulter-tron/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBBYBBWBWBW](/stripes/wbwbbybbwbwbw/).
 
 Part of the [Poulter Tron](/tartans/p/po/poulter-tron/) tartan — the named design grouping this sett with its other cloths.

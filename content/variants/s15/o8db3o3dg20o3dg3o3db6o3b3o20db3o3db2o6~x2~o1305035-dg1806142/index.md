@@ -8,10 +8,10 @@ crumbs:
 - name: "Glenfarclas Distillery"
   url: "/tartans/g/gl/glenfarclas-distillery/"
 - name: "Glenfarclas Distillery"
-  url: "/setts/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glenfarclas-distillery/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRBRGRGRBR](/stripes/rbrbrbrbrgrgrbr/).
 
 Part of the [Glenfarclas Distillery](/tartans/g/gl/glenfarclas-distillery/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1416](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1994 — Glenfarclas Distillery (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1416">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#640000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DRZ #640000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003478;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BE #003478"></span><span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#788CCC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AZE #788CCC"></span><br><em>This appears to be the same sett as Grant of Ballindalloch (1994) which, like this sett, was designed by Johnstons of Elgin.</em></li>
-<li>1994 — Glenfarclas Distillery (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4237">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#640000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DRZ #640000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003478;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BE #003478"></span><span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#788CCC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AZE #788CCC"></span><br><em>This appears to be the same sett as Grant of Ballindalloch (1994) which, like this sett, was designed by Johnstons of Elgin.</em></li>
+<li>1994 — Glenfarclas Distillery (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4237/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#640000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DRZ #640000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003478;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BE #003478"></span><span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#788CCC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AZE #788CCC"></span><br><em>This appears to be the same sett as Grant of Ballindalloch (1994) which, like this sett, was designed by Johnstons of Elgin.</em></li>
 </ul>
 </details>
 

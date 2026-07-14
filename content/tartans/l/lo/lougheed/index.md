@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w3dr3k4w2dr18k1dr2k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbkbwkbw/">KBKBWKBW</a></nav>
 Its design is pattern [KBKBWKBW](/stripes/kbkbwkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Lougheed** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Lougheed** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w3dr3k4w2dr18k1dr2k2/">Lougheed</a></td><td><code>W/12 DR12 K16 W8 DR72 K4 DR8 K/8</code></td><td>260</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w3dr3k4w2dr18k1dr2k2/"><img src="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/sett.png" alt="Lougheed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/">Lougheed</a></td><td><code>W/12 DR12 K16 W8 DR72 K4 DR8 K/8</code></td><td>260</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/"><img src="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/sett.png" alt="Lougheed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k2r12k2r12k33r2~x2/"><circle cx="363.0" cy="148.1" r="4" fill="#3465a4"><title>Cameron Black &amp;</title></circle></a><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="318.5" cy="96.6" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="403.0" cy="109.7" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="269.0" cy="112.0" r="4" fill="#3465a4"><title>Gallmore</title></circle></a><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="317.6" cy="113.2" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s6/k4r33k24w3k4r3~x2/"><circle cx="283.9" cy="154.4" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><a href="/variants/s10/dr4w4dr3k8w3dr3k20dr40w2dr4/"><circle cx="344.1" cy="112.8" r="4" fill="#3465a4"><title>South Carolina, University of</title></circle></a><a href="/variants/s8/w6k2w2k31r41k2r2k4~x2/"><circle cx="283.1" cy="105.2" r="4" fill="#3465a4"><title>University of Nebraska</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="357.2" cy="85.3" r="4" fill="#3465a4"><title>Bertea, A H</title></circle></a><a href="/variants/s5/dr38w9dr3k9w3~x2/"><circle cx="359.1" cy="162.3" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><circle cx="365.4" cy="122.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k2r12k2r12k33r2~x2/"><circle cx="364.2" cy="148.3" r="4" fill="#3465a4"><title>Cameron Black &amp;</title></circle></a><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="319.5" cy="96.7" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="404.4" cy="110.0" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="269.9" cy="111.9" r="4" fill="#3465a4"><title>Gallmore</title></circle></a><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="318.6" cy="113.3" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s6/k4r33k24w3k4r3~x2/"><circle cx="284.9" cy="154.5" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><a href="/variants/s10/dr4w4dr3k8w3dr3k20dr40w2dr4/"><circle cx="345.2" cy="113.0" r="4" fill="#3465a4"><title>South Carolina, University of</title></circle></a><a href="/variants/s8/w6k2w2k31r41k2r2k4~x2/"><circle cx="284.0" cy="105.2" r="4" fill="#3465a4"><title>University of Nebraska</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="358.4" cy="85.4" r="4" fill="#3465a4"><title>Bertea, A H</title></circle></a><a href="/variants/s5/dr38w9dr3k9w3~x2/"><circle cx="360.2" cy="162.5" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><circle cx="366.6" cy="122.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

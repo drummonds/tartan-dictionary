@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/">Malawi</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/"><img src="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/sett.png" alt="Malawi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/malawi/">Malawi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/malawi/"><img src="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/sett.png" alt="Malawi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

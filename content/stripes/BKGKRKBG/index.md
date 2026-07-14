@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db6k3g14k3r14k3db6y1~x4/">Kilgour (Symmetrical)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db6k3g14k3r14k3db6y1~x4/"><img src="/variants/s8/db6k3g14k3r14k3db6y1~x4/sett.png" alt="Kilgour (Symmetrical) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kilgour-2/">Kilgour</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilgour-2/"><img src="/variants/s8/db6k3g14k3r14k3db6y1~x4/sett.png" alt="Kilgour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

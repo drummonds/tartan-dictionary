@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k32w12r1w2r15/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwrwr/">KWRWR</a></nav>
 Its design is pattern [KWRWR](/stripes/kwrwr/) — the page of every tartan sharing this colour sequence.
 
 The **Nunes** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Nunes** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k32w12r1w2r15/">Nunes</a></td><td><code>K/64 W24 R2 W4 R/30</code></td><td>154</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k32w12r1w2r15/"><img src="/variants/s5/k32w12r1w2r15~x2/sett.png" alt="Nunes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k32w12r1w2r15~x2/">Nunes</a></td><td><code>K/64 W24 R2 W4 R/30</code></td><td>154</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k32w12r1w2r15~x2/"><img src="/variants/s5/k32w12r1w2r15~x2/sett.png" alt="Nunes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dr38w9dr3k9w3~x2/"><circle cx="359.1" cy="162.3" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><a href="/variants/s6/r3w1r20k8w8g2~x4/"><circle cx="261.2" cy="134.0" r="4" fill="#3465a4"><title>Nisbet Dress Rose</title></circle></a><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="312.7" cy="153.2" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="293.5" cy="170.7" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="296.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s4/w1k10r10w1~x4/"><circle cx="247.5" cy="194.1" r="4" fill="#3465a4"><title>Masai Shuka 01</title></circle></a><a href="/variants/s5/k22w1k12r43w1~x2/"><circle cx="351.6" cy="114.3" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><a href="/variants/s5/r20k2r2k15w1~x2/"><circle cx="327.9" cy="139.9" r="4" fill="#3465a4"><title>Masai Shuka 15</title></circle></a><a href="/variants/s5/n4k48n16r12db3~x2/"><circle cx="304.8" cy="154.0" r="4" fill="#3465a4"><title>Calgary Firefighters</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="340.5" cy="145.6" r="4" fill="#3465a4"><title>Hopkins</title></circle></a><circle cx="278.1" cy="136.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dr38w9dr3k9w3~x2/"><circle cx="360.2" cy="162.5" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><a href="/variants/s6/r3w1r20k8w8g2~x4/"><circle cx="261.9" cy="133.9" r="4" fill="#3465a4"><title>Nisbet Dress Rose</title></circle></a><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="313.8" cy="153.3" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="294.5" cy="170.8" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="297.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s4/w1k10r10w1~x4/"><circle cx="248.2" cy="194.1" r="4" fill="#3465a4"><title>Masai Shuka 01</title></circle></a><a href="/variants/s5/k22w1k12r43w1~x2/"><circle cx="352.8" cy="114.4" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><a href="/variants/s5/r20k2r2k15w1~x2/"><circle cx="329.0" cy="140.0" r="4" fill="#3465a4"><title>Masai Shuka 15</title></circle></a><a href="/variants/s5/n4k48n16r12db3~x2/"><circle cx="305.7" cy="154.1" r="4" fill="#3465a4"><title>Calgary Firefighters</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="341.6" cy="145.7" r="4" fill="#3465a4"><title>Hopkins</title></circle></a><circle cx="279.0" cy="136.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

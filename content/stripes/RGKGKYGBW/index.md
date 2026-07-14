@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/">Bisset</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><img src="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bi/bisset/">Bisset</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/bisset/"><img src="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

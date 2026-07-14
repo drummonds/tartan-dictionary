@@ -10,10 +10,10 @@ crumbs:
 - name: "Colquhoun VS"
   url: "/tartans/c/co/colquhoun-vs/"
 - name: "Colquhoun"
-  url: "/setts/db4k2db16w1k8g24r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4k2db16w1k8g24r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/colquhoun-vs/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWKGR](/stripes/bkbwkgr/).
 
 Part of the [Colquhoun VS](/tartans/c/co/colquhoun-vs/) tartan — the named design grouping this sett with its other cloths.

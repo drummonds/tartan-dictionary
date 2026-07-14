@@ -12,10 +12,10 @@ crumbs:
 - name: "Manitoba"
   url: "/tartans/m/ma/manitoba/"
 - name: "Manitoba District Tartan"
-  url: "/setts/y622r21g2dg6g41lb2g2lb6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y622r21g2dg6g41lb2g2lb6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/manitoba/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGGWGW](/stripes/grgggwgw/).
 
 Part of the [Manitoba](/tartans/m/ma/manitoba/) tartan — the named design grouping this sett with its other cloths.

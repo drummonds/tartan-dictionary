@@ -10,10 +10,10 @@ crumbs:
 - name: "Blue Ridge"
   url: "/tartans/b/bl/blue-ridge/"
 - name: "Blue Ridge"
-  url: "/setts/g6t8r2t2y2t16g18t4g4t3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g6t8r2t2y2t16g18t4g4t3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blue-ridge/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBRBG](/stripes/bgbgbgbrbg/).
 
 Part of the [Blue Ridge](/tartans/b/bl/blue-ridge/) tartan — the named design grouping this sett with its other cloths.

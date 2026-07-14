@@ -8,10 +8,10 @@ crumbs:
 - name: "Chinzei Keiai Junior High School"
   url: "/tartans/c/ch/chinzei-keiai-junior-high-school/"
 - name: "Chinzei Keiai Junior High School"
-  url: "/setts/ni3o3k16ni2k2ni16k3ni2n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ni3o3k16ni2k2ni16k3ni2n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chinzei-keiai-junior-high-school/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKBKRB](/stripes/bbkbkbkrb/).
 
 Part of the [Chinzei Keiai Junior High School](/tartans/c/ch/chinzei-keiai-junior-high-school/) tartan — the named design grouping this sett with its other cloths.

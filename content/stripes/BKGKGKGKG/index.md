@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/">Menez Du</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><img src="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/sett.png" alt="Menez Du sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/menez-du/">Menez Du</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/menez-du/"><img src="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/sett.png" alt="Menez Du sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

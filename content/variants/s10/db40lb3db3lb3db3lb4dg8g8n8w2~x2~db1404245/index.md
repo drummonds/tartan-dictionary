@@ -11,16 +11,16 @@ crumbs:
   url: "/families/greenshields/"
 - name: "Greenshields"
   url: "/tartans/g/gr/greenshields/"
-- name: "Greenshields (Personal)"
-  url: "/setts/db40lb3db3lb3db3lb4dg8g8n8w2/"
+- name: "Greenshields Family Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db40lb3db3lb3db3lb4dg8g8n8w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWBWGGBWBGGWBWBW](/stripes/bwbwbwggbwbggwbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/greenshields/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWGGBW](/stripes/bwbwbwggbw/).
 
 Part of the [Greenshields](/tartans/g/gr/greenshields/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6578](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6578)
 
@@ -45,9 +45,11 @@ Earliest known date: August 2004 Nothing
 </details>
 
 ## Thread count
-DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W4 N16 G16 DG16 LB8 DB6 LB6 DB6 LB/6
+DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W/4
 
-One full sett is **402 threads**.
+One full sett is **244 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W4 N16 G16 DG16 LB8 DB6 LB6 DB6 LB/6 — 402 threads; it folds to the canonical 244-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **402 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W4 N16 G16 DG16 LB8 DB6 LB6 DB6 LB/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

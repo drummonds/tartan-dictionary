@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/peter/"
 - name: "Peter of Lee"
   url: "/families/peter-of-lee/"
+aliases:
+- "/setts/r3g1k1g12t12k1t1k1/"
+- "/setts/r4dg3k2dg38db30k3db3k3/"
+- "/setts/r4dg4k2dg29db21k3db3y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbkbgkgr/">KBKBGKGR</a></nav>
 A tartan of the [Peter of Lee](/families/peter-of-lee/) family.
 Its design is pattern [KBKBGKGR](/stripes/kbkbgkgr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,12 +23,12 @@ The **Peter of Lee** tartan groups 3 setts — the same named design recorded as
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3g1k1g12t12k1t1k1/">Peter of Lee</a> ★</td><td><code>R/12 G4 K4 G48 T48 K4 T4 K/4</code></td><td>240</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g1k1g12t12k1t1k1/"><img src="/variants/s8/r3g1k1g12t12k1t1k1~x4/sett.png" alt="Peter of Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r4dg3k2dg38db30k3db3k3/">Peter of Lee</a></td><td><code>R/8 DG6 K4 DG76 DB60 K6 DB6 K/6</code></td><td>330</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4dg3k2dg38db30k3db3k3/"><img src="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/sett.png" alt="Peter of Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r4dg4k2dg29db21k3db3y3/">(Chief) (Personal)</a></td><td><code>R/8 DG8 K4 DG58 DB42 K6 DB6 Y/6</code></td><td>262</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4dg4k2dg29db21k3db3y3/"><img src="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/sett.png" alt="(Chief) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/">Peter of Lee</a> ★</td><td><code>R/12 G4 K4 G48 T48 K4 T4 K/4</code></td><td>240</td><td>1988</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><img src="/variants/s8/r3g1k1g12t12k1t1k1~x4/sett.png" alt="Peter of Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/">Peter of Lee</a></td><td><code>R/8 DG6 K4 DG76 DB60 K6 DB6 K/6</code></td><td>330</td><td>1988</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><img src="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/sett.png" alt="Peter of Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/">(Chief) (Personal)</a></td><td><code>R/8 DG8 K4 DG58 DB42 K6 DB6 Y/6</code></td><td>262</td><td>1996</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/"><img src="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/sett.png" alt="(Chief) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k2lb2k2lb15g15k2g2w2~x4/"><circle cx="181.8" cy="179.0" r="4" fill="#3465a4"><title>Ben Lomond</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="291.8" cy="155.8" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="192.9" cy="181.8" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="223.5" cy="131.6" r="4" fill="#3465a4"><title>McFadden</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="214.4" cy="166.6" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s8/k3db3k3db22g26k2db1y3~x2/"><circle cx="257.5" cy="132.0" r="4" fill="#3465a4"><title>Johnstone</title></circle></a><a href="/variants/s8/r4k2g36k2t18y3t18k2~x2/"><circle cx="267.8" cy="164.8" r="4" fill="#3465a4"><title>Fox Hunting</title></circle></a><a href="/variants/s8/g28r2k15db2k2db2k2db18~x2/"><circle cx="198.3" cy="152.0" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="235.5" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="218.5" cy="175.8" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><circle cx="241.8" cy="174.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k2lb2k2lb15g15k2g2w2~x4/"><circle cx="182.2" cy="178.9" r="4" fill="#3465a4"><title>Ben Lomond</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="292.3" cy="155.8" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="193.4" cy="181.7" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="224.1" cy="131.6" r="4" fill="#3465a4"><title>McFadden</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="214.9" cy="166.5" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s8/k3db3k3db22g26k2db1y3~x2/"><circle cx="258.2" cy="131.9" r="4" fill="#3465a4"><title>Johnstone</title></circle></a><a href="/variants/s8/r4k2g36k2t18y3t18k2~x2/"><circle cx="268.2" cy="164.8" r="4" fill="#3465a4"><title>Fox Hunting</title></circle></a><a href="/variants/s8/g28r2k15db2k2db2k2db18~x2/"><circle cx="198.9" cy="151.9" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="236.1" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="219.0" cy="175.7" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><circle cx="242.3" cy="174.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

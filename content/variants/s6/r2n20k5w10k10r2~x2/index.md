@@ -12,10 +12,10 @@ crumbs:
 - name: "Thompson"
   url: "/tartans/t/th/thompson-3/"
 - name: "Thompson Grey Family Tartan"
-  url: "/setts/r2n20k5w10k10r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2n20k5w10k10r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thompson-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKWKR](/stripes/rbkwkr/).
 
 Part of the [Thompson](/tartans/t/th/thompson-3/) tartan — the named design grouping this sett with its other cloths.

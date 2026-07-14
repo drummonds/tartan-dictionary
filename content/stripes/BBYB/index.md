@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db18t18ly28n13~x2/">Gold Country (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db18t18ly28n13~x2/"><img src="/variants/s4/db18t18ly28n13~x2/sett.png" alt="Gold Country (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/dr10db10lo1~x4/">Mother's Pride</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dr10db10lo1~x4/"><img src="/variants/s3/dr10db10lo1~x4/sett.png" alt="Mother's Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gold-country/">Gold Country</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gold-country/"><img src="/variants/s4/db18t18ly28n13~x2/sett.png" alt="Gold Country sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

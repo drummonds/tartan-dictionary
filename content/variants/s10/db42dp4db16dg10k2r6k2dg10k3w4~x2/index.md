@@ -8,10 +8,10 @@ crumbs:
 - name: "Mount Dora"
   url: "/tartans/m/mo/mount-dora/"
 - name: "Mount Dora"
-  url: "/setts/db42dp4db16dg10k2r6k2dg10k3w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db42dp4db16dg10k2r6k2dg10k3w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/mount-dora/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGKRKGKW](/stripes/bbbgkrkgkw/).
 
 Part of the [Mount Dora](/tartans/m/mo/mount-dora/) tartan — the named design grouping this sett with its other cloths.

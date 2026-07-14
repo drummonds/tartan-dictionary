@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k2r9w2db2w4db2w2db20w2~x4/">Yudo (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k2r9w2db2w4db2w2db20w2~x4/"><img src="/variants/s9/k2r9w2db2w4db2w2db20w2~x4/sett.png" alt="Yudo (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yu/yudo/">Yudo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yu/yudo/"><img src="/variants/s9/k2r9w2db2w4db2w2db20w2~x4/sett.png" alt="Yudo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

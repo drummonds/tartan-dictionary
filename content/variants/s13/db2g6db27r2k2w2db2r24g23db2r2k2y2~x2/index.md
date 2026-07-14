@@ -8,10 +8,10 @@ crumbs:
 - name: "Olympic"
   url: "/tartans/o/ol/olympic/"
 - name: "Olympic Corporate Tartan"
-  url: "/setts/db2g6db27r2k2w2db2r24g23db2r2k2y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2g6db27r2k2w2db2r24g23db2r2k2y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ol/olympic/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRKWBRGBRKG](/stripes/bgbrkwbrgbrkg/).
 
 Part of the [Olympic](/tartans/o/ol/olympic/) tartan — the named design grouping this sett with its other cloths.

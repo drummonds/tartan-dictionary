@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r8db45w1n4k11g6r4~x2/">Ascension Island Heritage Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r8db45w1n4k11g6r4~x2/"><img src="/variants/s7/r8db45w1n4k11g6r4~x2/sett.png" alt="Ascension Island Heritage Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/as/ascension-island-heritage-society/">Ascension Island Heritage Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/as/ascension-island-heritage-society/"><img src="/variants/s7/r8db45w1n4k11g6r4~x2/sett.png" alt="Ascension Island Heritage Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

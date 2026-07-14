@@ -8,22 +8,22 @@ crumbs:
 - name: "Kazakhstan Relic"
   url: "/tartans/k/ka/kazakhstan-relic/"
 - name: "Kazakhstan Relic (Artefact)"
-  url: "/setts/ly5db5k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly5db5k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ka/kazakhstan-relic/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBY](/stripes/kby/).
 
 Part of the [Kazakhstan Relic](/tartans/k/ka/kazakhstan-relic/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3096](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3096)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3096/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3096/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>2000BC — Kazakhstan Relic (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3096">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Found on Mummies in Kazakhstan. Thread count doubled for this graphic.</em></li>
+<li>2000BC — Kazakhstan Relic (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3096/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Found on Mummies in Kazakhstan. Thread count doubled for this graphic.</em></li>
 <li>undated — Kazakhstan Relic (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5137">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Found on Mummies in Kazakhstan. Thread count doubled for this graphic.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3096](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

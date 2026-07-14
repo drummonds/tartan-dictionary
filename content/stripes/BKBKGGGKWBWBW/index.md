@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/">Gordon Dress MINI design Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/"><img src="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/sett.png" alt="Gordon Dress MINI design Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/db4k4db10k10g13y3g13k10w4db4w16db2w3~x2/">Gordon Dress Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db4k4db10k10g13y3g13k10w4db4w16db2w3~x2/"><img src="/variants/s13/db4k4db10k10g13y3g13k10w4db4w16db2w3~x2/sett.png" alt="Gordon Dress Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gordon-dress-8/">Gordon Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gordon-dress-8/"><img src="/variants/s13/db4k4db10k10g13y3g13k10w4db4w16db2w3~x2/sett.png" alt="Gordon Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gordon-dress-mini-design/">Gordon Dress MINI design</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gordon-dress-mini-design/"><img src="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/sett.png" alt="Gordon Dress MINI design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

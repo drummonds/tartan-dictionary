@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/">MDF (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><img src="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/sett.png" alt="MDF (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/md/mdf/">MDF</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/md/mdf/"><img src="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/sett.png" alt="MDF sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

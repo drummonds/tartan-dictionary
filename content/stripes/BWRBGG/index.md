@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y9g18b9r1w1db1~x4/">COG USA, THE</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y9g18b9r1w1db1~x4/"><img src="/variants/s6/y9g18b9r1w1db1~x4/sett.png" alt="COG USA, THE sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cog-usa-the/">COG USA, THE</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cog-usa-the/"><img src="/variants/s6/y9g18b9r1w1db1~x4/sett.png" alt="COG USA, THE sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

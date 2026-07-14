@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4/">Allen hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4/"><img src="/variants/s25/b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4/sett.png" alt="Allen hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/allen-hunting-2/">Allen hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allen-hunting-2/"><img src="/variants/s25/b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4/sett.png" alt="Allen hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

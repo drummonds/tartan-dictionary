@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/">St Piran Dress District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/"><img src="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/sett.png" alt="St Piran Dress District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-piran-dress/">St Piran Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-piran-dress/"><img src="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/sett.png" alt="St Piran Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

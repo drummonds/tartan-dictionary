@@ -8,10 +8,10 @@ crumbs:
 - name: "Parma"
   url: "/tartans/p/pa/parma/"
 - name: "Parma"
-  url: "/setts/o32dy8o1dy1lb1o1lb1oi1o1dy1n1o4dy1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o32dy8o1dy1lb1o1lb1oi1o1dy1n1o4dy1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/parma/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGRRWRWGRGR](/stripes/grbgrrwrwgrgr/).
 
 Part of the [Parma](/tartans/p/pa/parma/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3296](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1983 — Parma (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3296">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C5C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ER #8C5C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1983 — Parma (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5516">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C5C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ER #8C5C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Sample in STA Johnston Collection.</em></li>
+<li>pre 1983 — Parma (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5516/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C5C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ER #8C5C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

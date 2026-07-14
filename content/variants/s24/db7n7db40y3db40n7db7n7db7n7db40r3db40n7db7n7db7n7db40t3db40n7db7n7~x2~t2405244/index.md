@@ -8,10 +8,10 @@ crumbs:
 - name: "Colliers International"
   url: "/tartans/c/co/colliers-international/"
 - name: "Colliers International Canadian Corporate Tartan"
-  url: "/setts/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/colliers-international/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBRBBBBBBBGBBB](/stripes/bbbbbbbbbbbbrbbbbbbbgbbb/).
 
 Part of the [Colliers International](/tartans/c/co/colliers-international/) tartan — the named design grouping this sett with its other cloths.

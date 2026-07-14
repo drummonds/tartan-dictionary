@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g2lyi1ly2lyi1g2lyi1ly2lyi32dy2lyi12ly2lyi2~x2~lyi3307090-dy1603076/">Houston Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g2lyi1ly2lyi1g2lyi1ly2lyi32dy2lyi12ly2lyi2~x2~lyi3307090-dy1603076/"><img src="/variants/s12/g2lyi1ly2lyi1g2lyi1ly2lyi32dy2lyi12ly2lyi2~x2~lyi3307090-dy1603076/sett.png" alt="Houston Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/houston-2/">Houston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/houston-2/"><img src="/variants/s12/g2lyi1ly2lyi1g2lyi1ly2lyi32dy2lyi12ly2lyi2~x2~lyi3307090-dy1603076/sett.png" alt="Houston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

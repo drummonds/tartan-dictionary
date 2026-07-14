@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r6w3r37k16w16g4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwkrwr/">GWKRWR</a></nav>
 Its design is pattern [GWKRWR](/stripes/gwkrwr/) — the page of every tartan sharing this colour sequence.
 
 The **Nesbit, Rose** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Nesbit, Rose** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r6w3r37k16w16g4/">Nesbit, Rose</a></td><td><code>R/12 W6 R74 K32 W32 G/8</code></td><td>308</td><td>~2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6w3r37k16w16g4/"><img src="/variants/s6/r6w3r37k16w16g4~x2/sett.png" alt="Nesbit, Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r6w3r37k16w16g4~x2/">Nesbit, Rose</a></td><td><code>R/12 W6 R74 K32 W32 G/8</code></td><td>308</td><td>~2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r6w3r37k16w16g4~x2/"><img src="/variants/s6/r6w3r37k16w16g4~x2/sett.png" alt="Nesbit, Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3w1r20k8w8g2~x4/"><circle cx="261.2" cy="134.0" r="4" fill="#3465a4"><title>Nisbet Dress Rose</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="165.8" cy="211.0" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="240.0" cy="210.6" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><circle cx="238.5" cy="170.6" r="4" fill="#3465a4"><title>Starr</title></circle></a><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><circle cx="263.7" cy="166.6" r="4" fill="#3465a4"><title>MacPherson Dress Burgandy</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="245.5" cy="162.9" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy</title></circle></a><a href="/variants/s7/k1r8g1r1w8r1k1~x6/"><circle cx="211.2" cy="155.4" r="4" fill="#3465a4"><title>Cameron Hose</title></circle></a><a href="/variants/s6/k6r20w2dr9w3lb2~x2/"><circle cx="186.8" cy="154.7" r="4" fill="#3465a4"><title>Thermos Un-named</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.8" cy="161.8" r="4" fill="#3465a4"><title>MacKintosh 6</title></circle></a><a href="/variants/s7/w2k1w2r10k4r2w1~x8/"><circle cx="258.0" cy="161.4" r="4" fill="#3465a4"><title>Russell, Ralph T.</title></circle></a><circle cx="228.9" cy="157.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3w1r20k8w8g2~x4/"><circle cx="261.9" cy="133.9" r="4" fill="#3465a4"><title>Nisbet Dress Rose</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="166.2" cy="210.8" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="240.6" cy="210.5" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><circle cx="239.0" cy="170.5" r="4" fill="#3465a4"><title>Starr</title></circle></a><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><circle cx="264.3" cy="166.4" r="4" fill="#3465a4"><title>MacPherson Dress Burgandy</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="162.8" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy</title></circle></a><a href="/variants/s7/k1r8g1r1w8r1k1~x6/"><circle cx="211.8" cy="155.2" r="4" fill="#3465a4"><title>Cameron Hose</title></circle></a><a href="/variants/s6/k6r20w2dr9w3lb2~x2/"><circle cx="187.4" cy="154.5" r="4" fill="#3465a4"><title>Thermos Un-named</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="258.6" cy="161.7" r="4" fill="#3465a4"><title>MacKintosh 6</title></circle></a><a href="/variants/s7/w2k1w2r10k4r2w1~x8/"><circle cx="258.8" cy="161.4" r="4" fill="#3465a4"><title>Russell, Ralph T.</title></circle></a><circle cx="229.5" cy="157.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

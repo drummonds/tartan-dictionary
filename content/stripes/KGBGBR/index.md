@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3g22db3g3db19r3~x2/">Davidson Half.. Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3g22db3g3db19r3~x2/"><img src="/variants/s6/k3g22db3g3db19r3~x2/sett.png" alt="Davidson Half.. Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k2dg7db2dg7db16r1/">Hutton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k2dg7db2dg7db16r1/"><img src="/variants/s6/k2dg7db2dg7db16r1~x6~k0700000-dg1504158-db0805267/sett.png" alt="Hutton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/davidson/">Davidson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/davidson/"><img src="/variants/s6/k3g22db3g3db19r3~x2/sett.png" alt="Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hutton/">Hutton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hutton/"><img src="/variants/s6/k2dg7db2dg7db16r1~x6~k0700000-dg1504158-db0805267/sett.png" alt="Hutton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

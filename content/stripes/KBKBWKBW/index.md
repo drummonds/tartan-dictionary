@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/">Lougheed</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/"><img src="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/sett.png" alt="Lougheed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lougheed/">Lougheed</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lougheed/"><img src="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/sett.png" alt="Lougheed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

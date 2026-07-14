@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lr8w3db40k12w3lr3~x2/">Wolverines (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><img src="/variants/s6/lr8w3db40k12w3lr3~x2/sett.png" alt="Wolverines (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/wolverines/">Wolverines</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/wolverines/"><img src="/variants/s6/lr8w3db40k12w3lr3~x2/sett.png" alt="Wolverines sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

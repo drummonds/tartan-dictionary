@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonald 6"
   url: "/tartans/m/ma/macdonald-6/"
 - name: "MacDonald #8"
-  url: "/setts/k6r1k1r4k7r1k7g6r5g1r1g5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6r1k1r4k7r1k7g6r5g1r1g5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGKRKRKRK](/stripes/grgrgkrkrkrk/).
 
 Part of the [MacDonald 6](/tartans/m/ma/macdonald-6/) tartan — the named design grouping this sett with its other cloths.

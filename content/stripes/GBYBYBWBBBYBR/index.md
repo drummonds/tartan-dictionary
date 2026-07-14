@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2~x2~r1906028-lr2801060-n1800000-lri3002055-ly3203114-y2504115/">Registers of Scotland, The (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2~x2~r1906028-lr2801060-n1800000-lri3002055-ly3203114-y2504115/"><img src="/variants/s13/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2~x2~r1906028-lr2801060-n1800000-lri3002055-ly3203114-y2504115/sett.png" alt="Registers of Scotland, The (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/registers-of-scotland-the/">Registers of Scotland, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/registers-of-scotland-the/"><img src="/variants/s13/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2~x2~r1906028-lr2801060-n1800000-lri3002055-ly3203114-y2504115/sett.png" alt="Registers of Scotland, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

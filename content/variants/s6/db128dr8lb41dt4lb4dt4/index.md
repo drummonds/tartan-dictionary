@@ -8,10 +8,10 @@ crumbs:
 - name: "French Freemasons' Pride"
   url: "/tartans/f/fr/french-freemasons-pride/"
 - name: "French Freemasons' Pride"
-  url: "/setts/db128dr8lb41dt4lb4dt4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db128dr8lb41dt4lb4dt4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/french-freemasons-pride/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWB](/stripes/bbwbwb/).
 
 Part of the [French Freemasons' Pride](/tartans/f/fr/french-freemasons-pride/) tartan — the named design grouping this sett with its other cloths.

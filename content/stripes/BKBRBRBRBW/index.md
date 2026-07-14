@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/">Digital</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/"><img src="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/sett.png" alt="Digital sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/digital/">Digital</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/digital/"><img src="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/sett.png" alt="Digital sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

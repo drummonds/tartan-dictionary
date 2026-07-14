@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/">Victoria Highland Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><img src="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/sett.png" alt="Victoria Highland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/victoria-highland-dress/">Victoria Highland Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/victoria-highland-dress/"><img src="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/sett.png" alt="Victoria Highland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

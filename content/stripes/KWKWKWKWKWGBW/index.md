@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/">IAPD</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/"><img src="/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/sett.png" alt="IAPD sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ia/iapd-2/">IAPD</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ia/iapd-2/"><img src="/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/sett.png" alt="IAPD sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

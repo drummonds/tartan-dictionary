@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/w4dp31w35lb4~x2/">Lewis, Magenta (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w4dp31w35lb4~x2/"><img src="/variants/s4/w4dp31w35lb4~x2/sett.png" alt="Lewis, Magenta (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lewis-magenta/">Lewis Magenta</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lewis-magenta/"><img src="/variants/s4/w4dp31w35lb4~x2/sett.png" alt="Lewis Magenta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/w1lb5db5lb1~x4/">Manx Cornaa (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w1lb5db5lb1~x4/"><img src="/variants/s4/w1lb5db5lb1~x4/sett.png" alt="Manx Cornaa (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-cornaa-2/">Manx, Cornaa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-cornaa-2/"><img src="/variants/s4/w1lb5db5lb1~x4/sett.png" alt="Manx, Cornaa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

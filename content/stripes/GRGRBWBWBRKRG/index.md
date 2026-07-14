@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/">Maynard</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/"><img src="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/sett.png" alt="Maynard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maynard/">Maynard</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maynard/"><img src="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/sett.png" alt="Maynard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

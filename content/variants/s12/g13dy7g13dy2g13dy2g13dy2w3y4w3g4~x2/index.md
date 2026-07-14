@@ -12,10 +12,10 @@ crumbs:
 - name: "McGrane"
   url: "/tartans/m/mc/mcgrane/"
 - name: "McGrane (2014)"
-  url: "/setts/g13dy7g13dy2g13dy2g13dy2w3y4w3g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g13dy7g13dy2g13dy2g13dy2w3y4w3g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcgrane/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGGGWGWG](/stripes/ggggggggwgwg/).
 
 Part of the [McGrane](/tartans/m/mc/mcgrane/) tartan — the named design grouping this sett with its other cloths.

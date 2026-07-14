@@ -8,10 +8,10 @@ crumbs:
 - name: "Strathdee"
   url: "/tartans/s/st/strathdee/"
 - name: "Strathdee (Personal)"
-  url: "/setts/dg25b10w1b5w1b10dg25r1dg3r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg25b10w1b5w1b10dg25r1dg3r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathdee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBWBGRGR](/stripes/gbwbwbgrgr/).
 
 Part of the [Strathdee](/tartans/s/st/strathdee/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3983](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/2006 — Strathdee (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3983">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007460;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #007460"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Ron Strathdee of Glasgow to celebrate his mother's 90th birthday as she had always complained of there being no family tartan. The colours represent the green of the 'strath' and the blue of the River Dee.</em></li>
-<li>Novermber 2006 — Strathdee (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7084">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007460;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #007460"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Ron Strathdee of Glasgow to celebrate his mother's 90th birthday - she had always complained of there being no family tartan. The colours represent the green of the 'strath' and the blue of the River Dee.</em></li>
+<li>Novermber 2006 — Strathdee (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7084/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007460;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #007460"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Ron Strathdee of Glasgow to celebrate his mother's 90th birthday - she had always complained of there being no family tartan. The colours represent the green of the 'strath' and the blue of the River Dee.</em></li>
 </ul>
 </details>
 

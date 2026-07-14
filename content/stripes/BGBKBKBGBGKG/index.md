@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db6g3db24k2db4k16db5g2db23g2k2y2~x2/">Moon (New Maldon, Surrey)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db6g3db24k2db4k16db5g2db23g2k2y2~x2/"><img src="/variants/s12/db6g3db24k2db4k16db5g2db23g2k2y2~x2/sett.png" alt="Moon (New Maldon, Surrey) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moon-2/">Moon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moon-2/"><img src="/variants/s12/db6g3db24k2db4k16db5g2db23g2k2y2~x2/sett.png" alt="Moon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

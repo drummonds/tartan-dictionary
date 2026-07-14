@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/">Dauphinee, Andrew Hunter (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><img src="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/sett.png" alt="Dauphinee, Andrew Hunter (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dauphinee-andrew-hunter/">Dauphinee, Andrew Hunter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dauphinee-andrew-hunter/"><img src="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/sett.png" alt="Dauphinee, Andrew Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

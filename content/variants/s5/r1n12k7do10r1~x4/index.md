@@ -12,15 +12,15 @@ crumbs:
 - name: "Andover"
   url: "/tartans/a/an/andover/"
 - name: "Andover"
-  url: "/setts/r1n12k7do10r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1n12k7do10r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/andover/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKKBR](/stripes/rbkkbr/).
 
 Part of the [Andover](/tartans/a/an/andover/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5256](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5256)
 

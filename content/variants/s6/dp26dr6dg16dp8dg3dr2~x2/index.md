@@ -8,22 +8,22 @@ crumbs:
 - name: "Perthshire Tourist Board"
   url: "/tartans/p/pe/perthshire-tourist-board/"
 - name: "Perthshire Tourist Board (Corporate)"
-  url: "/setts/dp26dr6dg16dp8dg3dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp26dr6dg16dp8dg3dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/perthshire-tourist-board/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGB](/stripes/bbgbgb/).
 
 Part of the [Perthshire Tourist Board](/tartans/p/pe/perthshire-tourist-board/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2410](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2410)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/2410/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2410/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1988 — Perthshire Tourist Board (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2410">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#500048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #500048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006818"></span><br><em>Perthshire tartan. Initiated by Brian Wilton (Perthsire Tourist Board Executive Member) and designed by Peter MacDonald. Proved to be an extremely popular tartan for tourist industry workers and visitors. Sample in STA Johnston Collection.</em></li>
+<li>1988 — Perthshire Tourist Board (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2410/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#500048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #500048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006818"></span><br><em>Perthshire tartan. Initiated by Brian Wilton (Perthsire Tourist Board Executive Member) and designed by Peter MacDonald. Proved to be an extremely popular tartan for tourist industry workers and visitors. Sample in STA Johnston Collection.</em></li>
 <li>01/01/1993 — Perthshire Tourist Board (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3327">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#20001C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #20001C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003C00"></span><br><em>Perthshire tartan. Initiated by Brian Wilton (Perthsire Tourist Board Executive Member) and designed by Peter MacDonald. Proved to be an extremely popular tartan for tourist industry workers and visitors. Sample in Scottish Tartans Authority Johnston Collection.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2410](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6/">Compaq</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6/"><img src="/variants/s16/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6/sett.png" alt="Compaq sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/compaq-2/">Compaq</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/compaq-2/"><img src="/variants/s16/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6/sett.png" alt="Compaq sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

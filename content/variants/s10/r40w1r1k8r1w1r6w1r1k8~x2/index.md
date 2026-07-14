@@ -10,10 +10,10 @@ crumbs:
 - name: "Miyuki, Check Red, 1002A"
   url: "/tartans/m/mi/miyuki-check-red-1002a/"
 - name: "Miyuki, Check Red, 1002A"
-  url: "/setts/r40w1r1k8r1w1r6w1r1k8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r40w1r1k8r1w1r6w1r1k8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/miyuki-check-red-1002a/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRWRKRWR](/stripes/krwrwrkrwr/).
 
 Part of the [Miyuki, Check Red, 1002A](/tartans/m/mi/miyuki-check-red-1002a/) tartan — the named design grouping this sett with its other cloths.

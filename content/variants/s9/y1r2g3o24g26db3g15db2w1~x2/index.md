@@ -8,10 +8,10 @@ crumbs:
 - name: "Canuck Place"
   url: "/tartans/c/ca/canuck-place/"
 - name: "Canuck Place"
-  url: "/setts/y1r2g3o24g26db3g15db2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1r2g3o24g26db3g15db2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/canuck-place/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGBGBW](/stripes/grgrgbgbw/).
 
 Part of the [Canuck Place](/tartans/c/ca/canuck-place/) tartan — the named design grouping this sett with its other cloths.

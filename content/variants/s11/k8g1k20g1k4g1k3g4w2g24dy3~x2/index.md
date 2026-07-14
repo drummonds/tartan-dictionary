@@ -8,10 +8,10 @@ crumbs:
 - name: "Malone"
   url: "/tartans/m/ma/malone/"
 - name: "Malone (2016)"
-  url: "/setts/k8g1k20g1k4g1k3g4w2g24dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8g1k20g1k4g1k3g4w2g24dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/malone/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGKGKGKGK](/stripes/ggwgkgkgkgk/).
 
 Part of the [Malone](/tartans/m/ma/malone/) tartan — the named design grouping this sett with its other cloths.

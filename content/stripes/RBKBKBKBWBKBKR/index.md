@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r4t11k4t4k4t4k21db21w4db21k21t20k1r4~x2~t2503227-db1204274/">McCaig (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r4t11k4t4k4t4k21db21w4db21k21t20k1r4~x2~t2503227-db1204274/"><img src="/variants/s14/r4t11k4t4k4t4k21db21w4db21k21t20k1r4~x2~t2503227-db1204274/sett.png" alt="McCaig (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mccaig/">McCaig</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccaig/"><img src="/variants/s14/r4t11k4t4k4t4k21db21w4db21k21t20k1r4~x2~t2503227-db1204274/sett.png" alt="McCaig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Witches' Blood, The"
   url: "/tartans/w/wi/witches-blood-the/"
 - name: "Witches' Blood, The"
-  url: "/setts/k22n17k2n4k2n2k37n4k2r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k22n17k2n4k2n2k37n4k2r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/witches-blood-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKR](/stripes/kbkbkbkbkr/).
 
 Part of the [Witches' Blood, The](/tartans/w/wi/witches-blood-the/) tartan — the named design grouping this sett with its other cloths.

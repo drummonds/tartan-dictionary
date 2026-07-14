@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r1g16db2g10db22y4r2y1~x2/">New Mexico</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r1g16db2g10db22y4r2y1~x2/"><img src="/variants/s8/r1g16db2g10db22y4r2y1~x2/sett.png" alt="New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dy1r1dy2db11g5db1g8r1/">New Mexico, State of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dy1r1dy2db11g5db1g8r1/"><img src="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/sett.png" alt="New Mexico, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-mexico-2/">New Mexico</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-mexico-2/"><img src="/variants/s8/r1g16db2g10db22y4r2y1~x2/sett.png" alt="New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-mexico-state-of/">New Mexico, State of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-mexico-state-of/"><img src="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/sett.png" alt="New Mexico, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

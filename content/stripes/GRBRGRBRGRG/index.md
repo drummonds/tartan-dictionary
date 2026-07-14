@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g4r2db4r2g8r2db4r2g8r2y1~x3/">Hall</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g4r2db4r2g8r2db4r2g8r2y1~x3/"><img src="/variants/s11/g4r2db4r2g8r2db4r2g8r2y1~x3/sett.png" alt="Hall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/">Hall (1994)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/"><img src="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/sett.png" alt="Hall (1994) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hall/">Hall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hall/"><img src="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/sett.png" alt="Hall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/">Wells, Greg Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/"><img src="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/sett.png" alt="Wells, Greg Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wells-greg-dress/">Wells, Greg Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wells-greg-dress/"><img src="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/sett.png" alt="Wells, Greg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

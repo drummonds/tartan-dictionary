@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3~x2/">Lee Cox (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3~x2/"><img src="/variants/s17/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3~x2/sett.png" alt="Lee Cox (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lee-cox/">Lee Cox</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lee-cox/"><img src="/variants/s17/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3~x2/sett.png" alt="Lee Cox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

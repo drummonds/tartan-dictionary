@@ -10,10 +10,10 @@ crumbs:
 - name: "Kinloch Anderson Castle"
   url: "/tartans/k/ki/kinloch-anderson-castle/"
 - name: "Kinloch Anderson Castle Grey"
-  url: "/setts/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kinloch-anderson-castle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKBKBBBBW](/stripes/bgbgkbkbbbbw/).
 
 Part of the [Kinloch Anderson Castle](/tartans/k/ki/kinloch-anderson-castle/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3~x2/">Morgan Jocelyn Osmélian Peregrine (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3~x2/"><img src="/variants/s13/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3~x2/sett.png" alt="Morgan Jocelyn Osmélian Peregrine (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/morgan-jocelyn-osm-lian-peregrine/">Morgan Jocelyn Osmélian Peregrine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morgan-jocelyn-osm-lian-peregrine/"><img src="/variants/s13/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3~x2/sett.png" alt="Morgan Jocelyn Osmélian Peregrine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

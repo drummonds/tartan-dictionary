@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n1r1n3ly1n1do8y7g1n1lb1w1~x2/">Porcupine Fancy Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n1r1n3ly1n1do8y7g1n1lb1w1~x2/"><img src="/variants/s11/n1r1n3ly1n1do8y7g1n1lb1w1~x2/sett.png" alt="Porcupine Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/porcupine-fancy/">Porcupine Fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/porcupine-fancy/"><img src="/variants/s11/n1r1n3ly1n1do8y7g1n1lb1w1~x2/sett.png" alt="Porcupine Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

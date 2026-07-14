@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/lb3w10db10g10r2~x4/">MacTeddy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lb3w10db10g10r2~x4/"><img src="/variants/s5/lb3w10db10g10r2~x4/sett.png" alt="MacTeddy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macteddy-2/">MacTeddy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macteddy-2/"><img src="/variants/s5/lb3w10db10g10r2~x4/sett.png" alt="MacTeddy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/r10dg4dr1w1lb1/">Staves (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r10dg4dr1w1lb1/"><img src="/variants/s5/r10dg4dr1w1lb1~x2/sett.png" alt="Staves (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/staves/">Staves</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/staves/"><img src="/variants/s5/r10dg4dr1w1lb1~x2/sett.png" alt="Staves sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

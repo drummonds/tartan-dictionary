@@ -12,10 +12,10 @@ crumbs:
 - name: "Drummond of Megginch"
   url: "/tartans/d/dr/drummond-of-megginch/"
 - name: "Drummond of Megginch - 1849 Kilt"
-  url: "/setts/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/dr/drummond-of-megginch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
 
 Part of the [Drummond of Megginch](/tartans/d/dr/drummond-of-megginch/) tartan — the named design grouping this sett with its other cloths.

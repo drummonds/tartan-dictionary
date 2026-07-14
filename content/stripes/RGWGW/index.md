@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/lb7dy7lb7dy40r3~x2/">Coca Cola</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><img src="/variants/s5/lb7dy7lb7dy40r3~x2/sett.png" alt="Coca Cola sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coca-cola/">Coca Cola</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coca-cola/"><img src="/variants/s5/lb7dy7lb7dy40r3~x2/sett.png" alt="Coca Cola sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/w7dy7w7dy40r3~x2/">Coca Cola US Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w7dy7w7dy40r3~x2/"><img src="/variants/s5/w7dy7w7dy40r3~x2/sett.png" alt="Coca Cola US Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coca-cola-us/">Coca Cola US</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coca-cola-us/"><img src="/variants/s5/w7dy7w7dy40r3~x2/sett.png" alt="Coca Cola US sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

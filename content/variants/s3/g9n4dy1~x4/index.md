@@ -11,11 +11,11 @@ crumbs:
   url: "/families/ledford/"
 - name: "Ledford"
   url: "/tartans/l/le/ledford/"
-- name: "Ledford"
-  url: "/setts/g9n4dy1/"
+- name: "Ledford Family Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g9n4dy1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/ledford/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBG](/stripes/gbg/).
 
 Part of the [Ledford](/tartans/l/le/ledford/) tartan — the named design grouping this sett with its other cloths.

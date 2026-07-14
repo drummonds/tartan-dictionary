@@ -8,10 +8,10 @@ crumbs:
 - name: "CALA Homes"
   url: "/tartans/c/ca/cala-homes/"
 - name: "CALA Homes"
-  url: "/setts/y5db24k8dbi18y6o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y5db24k8dbi18y6o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cala-homes/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBGR](/stripes/gbkbgr/).
 
 Part of the [CALA Homes](/tartans/c/ca/cala-homes/) tartan — the named design grouping this sett with its other cloths.

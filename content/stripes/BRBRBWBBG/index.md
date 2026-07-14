@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/">Telfer, Brian William (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><img src="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/sett.png" alt="Telfer, Brian William (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/telfer-brian-william/">Telfer, Brian William</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/telfer-brian-william/"><img src="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/sett.png" alt="Telfer, Brian William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

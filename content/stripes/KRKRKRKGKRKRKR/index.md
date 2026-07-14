@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r4k2r24k15r30k1y4k1r30k15r24k2r4k1~x4/">Oilmens</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r4k2r24k15r30k1y4k1r30k15r24k2r4k1~x4/"><img src="/variants/s14/r4k2r24k15r30k1y4k1r30k15r24k2r4k1~x4/sett.png" alt="Oilmens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/oi/oilmens/">Oilmens</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/oi/oilmens/"><img src="/variants/s14/r4k2r24k15r30k1y4k1r30k15r24k2r4k1~x4/sett.png" alt="Oilmens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

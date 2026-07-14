@@ -12,10 +12,10 @@ crumbs:
 - name: "MacLeod of Gesto"
   url: "/tartans/m/ma/macleod-of-gesto-2/"
 - name: "MacLeod of Gesto #2"
-  url: "/setts/r88w2k4lb8w2k2y2dy3w4dy3y2r6k2w2g32k2y2w2y2k4r6w2k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r88w2k4lb8w2k2y2dy3w4dy3y2r6k2w2g32k2y2w2y2k4r6w2k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macleod-of-gesto-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRKGWGKGWKRGGWGGKWWKWR](/stripes/kwrkgwgkgwkrggwggkwwkwr/).
 
 Part of the [MacLeod of Gesto](/tartans/m/ma/macleod-of-gesto-2/) tartan — the named design grouping this sett with its other cloths.

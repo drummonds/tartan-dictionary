@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db22k16y4k11dp2n1~x4/">Martinez, Clément (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><img src="/variants/s6/db22k16y4k11dp2n1~x4/sett.png" alt="Martinez, Clément (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/martinez-cl-ment/">Martinez, Clément</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/martinez-cl-ment/"><img src="/variants/s6/db22k16y4k11dp2n1~x4/sett.png" alt="Martinez, Clément sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

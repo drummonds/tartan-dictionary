@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/">Craigholme (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"><img src="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/sett.png" alt="Craigholme (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/craigholme/">Craigholme</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/craigholme/"><img src="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/sett.png" alt="Craigholme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

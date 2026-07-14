@@ -8,10 +8,10 @@ crumbs:
 - name: "Genesee Community College"
   url: "/tartans/g/ge/genesee-community-college/"
 - name: "Genesee Community College"
-  url: "/setts/db18w4db3y12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18w4db3y12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ge/genesee-community-college/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBG](/stripes/bwbg/).
 
 Part of the [Genesee Community College](/tartans/g/ge/genesee-community-college/) tartan — the named design grouping this sett with its other cloths.

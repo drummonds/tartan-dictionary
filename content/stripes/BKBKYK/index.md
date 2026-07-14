@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n50k4n12k23lo4k4~x2/">Sligo Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><img src="/variants/s6/n50k4n12k23lo4k4~x2/sett.png" alt="Sligo Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sl/sligo-irish-county/">Sligo Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sl/sligo-irish-county/"><img src="/variants/s6/n50k4n12k23lo4k4~x2/sett.png" alt="Sligo Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

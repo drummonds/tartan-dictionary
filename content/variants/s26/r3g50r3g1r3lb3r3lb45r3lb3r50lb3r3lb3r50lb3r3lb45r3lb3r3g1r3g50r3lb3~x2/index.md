@@ -8,10 +8,10 @@ crumbs:
 - name: "Not Specified"
   url: "/tartans/n/no/not-specified/"
 - name: "Not Specified"
-  url: "/setts/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/not-specified/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRWRWRWRWRWRWRWRWRGRGRW](/stripes/rgrgrwrwrwrwrwrwrwrwrgrgrw/).
 
 Part of the [Not Specified](/tartans/n/no/not-specified/) tartan — the named design grouping this sett with its other cloths.

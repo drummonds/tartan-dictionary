@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s42/dg12ly1k2w2k2w2k2w2k2ly1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4ly2dp4dg1dp3dg2dp1~x2/">Lodge Dunblane Australis No.966 (Cor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s42/dg12ly1k2w2k2w2k2w2k2ly1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4ly2dp4dg1dp3dg2dp1~x2/"><img src="/variants/s42/dg12ly1k2w2k2w2k2w2k2ly1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4ly2dp4dg1dp3dg2dp1~x2/sett.png" alt="Lodge Dunblane Australis No.966 (Cor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lodge-dunblane-australis-no-966-cor/">Lodge Dunblane Australis No.966 (Cor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lodge-dunblane-australis-no-966-cor/"><img src="/variants/s42/dg12ly1k2w2k2w2k2w2k2ly1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4ly2dp4dg1dp3dg2dp1~x2/sett.png" alt="Lodge Dunblane Australis No.966 (Cor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

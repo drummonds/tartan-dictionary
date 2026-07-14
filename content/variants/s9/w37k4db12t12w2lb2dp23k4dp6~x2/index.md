@@ -10,15 +10,15 @@ crumbs:
 - name: "Hebridean Arisaid"
   url: "/tartans/h/he/hebridean-arisaid-2/"
 - name: "Hebridean Arisaid Blue (Dance)"
-  url: "/setts/w37k4db12t12w2lb2dp23k4dp6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w37k4db12t12w2lb2dp23k4dp6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBWWBBKWKBBWWBK](/stripes/bkbwwbbkwkbbwwbk/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebridean-arisaid-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBWWBBKW](/stripes/bkbwwbbkw/).
 
 Part of the [Hebridean Arisaid](/tartans/h/he/hebridean-arisaid-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1650](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1650)
 
@@ -46,9 +46,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6558
 
 ## Thread count
-DP/12 K8 DP46 LB4 W4 T24 DB24 K8 W74 K8 DB24 T24 W4 LB4 DP46 K/8
+W/74 K8 DB24 T24 W4 LB4 DP46 K8 DP/12
 
-One full sett is **624 threads**.
+One full sett is **322 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/12 K8 DP46 LB4 W4 T24 DB24 K8 W74 K8 DB24 T24 W4 LB4 DP46 K/8 — 624 threads; it folds to the canonical 322-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -57,7 +59,7 @@ One full sett is **624 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/12 K8 DP46 LB4 W4 T24 DB24 K8 W74 K8 DB24 T24 W4 LB4 DP46 K/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/74 K8 DB24 T24 W4 LB4 DP46 K8 DP/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

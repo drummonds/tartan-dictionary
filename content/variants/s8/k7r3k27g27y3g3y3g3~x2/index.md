@@ -12,10 +12,10 @@ crumbs:
 - name: "Brunton"
   url: "/tartans/b/br/brunton/"
 - name: "Brunton (Personal)"
-  url: "/setts/k7r3k27g27y3g3y3g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7r3k27g27y3g3y3g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brunton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGKRK](/stripes/gggggkrk/).
 
 Part of the [Brunton](/tartans/b/br/brunton/) tartan — the named design grouping this sett with its other cloths.

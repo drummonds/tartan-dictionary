@@ -12,10 +12,10 @@ crumbs:
 - name: "Wanstall"
   url: "/tartans/w/wa/wanstall-2/"
 - name: "Wanstall"
-  url: "/setts/dr12dg4dr8db3dg3db3dg8db12dr38dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr12dg4dr8db3dg3db3dg8db12dr38dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/wanstall-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBGBGBBG](/stripes/bgbbgbgbbg/).
 
 Part of the [Wanstall](/tartans/w/wa/wanstall-2/) tartan — the named design grouping this sett with its other cloths.

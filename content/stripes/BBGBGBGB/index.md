@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/">Daks-Simpson (Muted Skye)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><img src="/variants/s8/db5n15dy4n4dy24n4dy4db5/sett.png" alt="Daks-Simpson (Muted Skye) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/daks-simpson/">Daks-Simpson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daks-simpson/"><img src="/variants/s8/db5n15dy4n4dy24n4dy4db5/sett.png" alt="Daks-Simpson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

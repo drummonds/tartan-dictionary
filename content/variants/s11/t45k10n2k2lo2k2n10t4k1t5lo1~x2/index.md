@@ -10,15 +10,15 @@ crumbs:
 - name: "Skye, Isle of"
   url: "/tartans/s/sk/skye-isle-of/"
 - name: "Skye, Isle of"
-  url: "/setts/t45k10n2k2lo2k2n10t4k1t5lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t45k10n2k2lo2k2n10t4k1t5lo1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKYKBBKBYBKBBKYKBK](/stripes/bkbkykbbkbybkbbkykbk/).
+provenance below. It is one weaving of the [sett](/tartans/s/sk/skye-isle-of/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKYKBBKBY](/stripes/bkbkykbbkby/).
 
 Part of the [Skye, Isle of](/tartans/s/sk/skye-isle-of/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3815](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3815)
 
@@ -47,9 +47,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 385
 
 ## Thread count
-T/90 K20 N4 K4 LO4 K4 N20 T8 K2 T10 LO2 T10 K2 T8 N20 K4 LO4 K4 N4 K/20
+T/90 K20 N4 K4 LO4 K4 N20 T8 K2 T10 LO/2
 
-One full sett is **378 threads**.
+One full sett is **244 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/90 K20 N4 K4 LO4 K4 N20 T8 K2 T10 LO2 T10 K2 T8 N20 K4 LO4 K4 N4 K/20 — 378 threads; it folds to the canonical 244-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -58,7 +60,7 @@ One full sett is **378 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/90 K20 N4 K4 LO4 K4 N20 T8 K2 T10 LO2 T10 K2 T8 N20 K4 LO4 K4 N4 K/20 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/90 K20 N4 K4 LO4 K4 N20 T8 K2 T10 LO/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

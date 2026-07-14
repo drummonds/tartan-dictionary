@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g41r6g12db8k2y5w8~x2/">Decatur Presbyterian Church</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><img src="/variants/s7/g41r6g12db8k2y5w8~x2/sett.png" alt="Decatur Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/decatur-presbyterian-church/">Decatur Presbyterian Church</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/decatur-presbyterian-church/"><img src="/variants/s7/g41r6g12db8k2y5w8~x2/sett.png" alt="Decatur Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/ly4k1g28k6dy18w4t41k1w3~x2/">State Seal of Pennsylvania (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/ly4k1g28k6dy18w4t41k1w3~x2/"><img src="/variants/s9/ly4k1g28k6dy18w4t41k1w3~x2/sett.png" alt="State Seal of Pennsylvania (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-pennsylvania/">State Seal of Pennsylvania</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-pennsylvania/"><img src="/variants/s9/ly4k1g28k6dy18w4t41k1w3~x2/sett.png" alt="State Seal of Pennsylvania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

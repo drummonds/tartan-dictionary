@@ -8,10 +8,10 @@ crumbs:
 - name: "Wyckoff, Ann Grainger Phillips Commemorative"
   url: "/tartans/w/wy/wyckoff-ann-grainger-phillips-commemorative/"
 - name: "Wyckoff, Ann Grainger Phillips Commemorative Tartan"
-  url: "/setts/lb70db5lb3lr5lb3w5lb3k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb70db5lb3lr5lb3w5lb3k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wy/wyckoff-ann-grainger-phillips-commemorative/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWWWYWBW](/stripes/kwwwywbw/).
 
 Part of the [Wyckoff, Ann Grainger Phillips Commemorative](/tartans/w/wy/wyckoff-ann-grainger-phillips-commemorative/) tartan — the named design grouping this sett with its other cloths.

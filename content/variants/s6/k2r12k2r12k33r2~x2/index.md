@@ -10,10 +10,10 @@ crumbs:
 - name: "Cameron Black &"
   url: "/tartans/c/ca/cameron-black/"
 - name: "Cameron Black & Red (Dress)"
-  url: "/setts/k2r12k2r12k33r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2r12k2r12k33r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cameron-black/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKR](/stripes/krkrkr/).
 
 Part of the [Cameron Black &](/tartans/c/ca/cameron-black/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=491](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Cameron Black & Red (Dress) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=491">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><br><em>Lt. Col. I B Cameron Taylor writes, "It is possible that this sett was designed as a mourning tartan, as these were at one time popular, though usually in black and white." MacGregor-Hastie collection is found in the Scottish Tartans Society archive.</em></li>
-<li>pre 2002 — Cameron, Black & Red (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1186">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><br><em>Inverness Museum has a piece of this sett labelled as Cameron Dress. Lt. Col. I B Cameron Taylor suggested that this may be a mourning tartan. Usually they were in black and white but the sombreness of this, even in red and black, suggests this possible derivation. Woven sample from Sinclair/Brown Scrapbook.</em></li>
+<li>pre 2002 — Cameron, Black & Red (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1186/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><br><em>Inverness Museum has a piece of this sett labelled as Cameron Dress. Lt. Col. I B Cameron Taylor suggested that this may be a mourning tartan. Usually they were in black and white but the sombreness of this, even in red and black, suggests this possible derivation. Woven sample from Sinclair/Brown Scrapbook.</em></li>
 </ul>
 </details>
 

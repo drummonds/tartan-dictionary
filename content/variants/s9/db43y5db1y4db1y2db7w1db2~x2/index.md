@@ -8,10 +8,10 @@ crumbs:
 - name: "University of Delaware Fightin' Blue Hen"
   url: "/tartans/u/un/university-of-delaware-fightin-blue-hen/"
 - name: "University of Delaware Fightin' Blue Hen"
-  url: "/setts/db43y5db1y4db1y2db7w1db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db43y5db1y4db1y2db7w1db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/university-of-delaware-fightin-blue-hen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBWB](/stripes/bgbgbgbwb/).
 
 Part of the [University of Delaware Fightin' Blue Hen](/tartans/u/un/university-of-delaware-fightin-blue-hen/) tartan — the named design grouping this sett with its other cloths.

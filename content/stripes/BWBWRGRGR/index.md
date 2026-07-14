@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/">Prince of Denmark (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><img src="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/sett.png" alt="Prince of Denmark (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/prince-of-denmark/">Prince of Denmark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-of-denmark/"><img src="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/sett.png" alt="Prince of Denmark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

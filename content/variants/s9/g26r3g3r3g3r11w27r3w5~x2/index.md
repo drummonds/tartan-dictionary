@@ -12,10 +12,10 @@ crumbs:
 - name: "Lindsay Dress"
   url: "/tartans/l/li/lindsay-dress-2/"
 - name: "Lindsay Dress Red"
-  url: "/setts/g26r3g3r3g3r11w27r3w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g26r3g3r3g3r11w27r3w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/lindsay-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRWRW](/stripes/grgrgrwrw/).
 
 Part of the [Lindsay Dress](/tartans/l/li/lindsay-dress-2/) tartan — the named design grouping this sett with its other cloths.

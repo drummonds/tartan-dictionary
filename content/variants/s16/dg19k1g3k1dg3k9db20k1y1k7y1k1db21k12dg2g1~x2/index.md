@@ -8,10 +8,10 @@ crumbs:
 - name: "Hope-Vere/Weir"
   url: "/tartans/h/ho/hope-vere-weir-3/"
 - name: "Hope-Vere/Weir (Modern)"
-  url: "/setts/dg19k1g3k1dg3k9db20k1y1k7y1k1db21k12dg2g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg19k1g3k1dg3k9db20k1y1k7y1k1db21k12dg2g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hope-vere-weir-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBKGKGKBKGKGKG](/stripes/ggkbkgkgkbkgkgkg/).
 
 Part of the [Hope-Vere/Weir](/tartans/h/ho/hope-vere-weir-3/) tartan — the named design grouping this sett with its other cloths.

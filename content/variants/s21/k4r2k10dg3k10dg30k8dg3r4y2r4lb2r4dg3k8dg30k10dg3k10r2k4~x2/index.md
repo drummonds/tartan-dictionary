@@ -12,22 +12,22 @@ crumbs:
 - name: "Pilette of Kinnear"
   url: "/tartans/p/pi/pilette-of-kinnear/"
 - name: "Pilette of Kinnear (Personal)"
-  url: "/setts/k4r2k10dg3k10dg30k8dg3r4y2r4lb2r4dg3k8dg30k10dg3k10r2k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4r2k10dg3k10dg30k8dg3r4y2r4lb2r4dg3k8dg30k10dg3k10r2k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pi/pilette-of-kinnear/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKGKGRGRWRGKGKGKRK](/stripes/krkgkgkgrgrwrgkgkgkrk/).
 
 Part of the [Pilette of Kinnear](/tartans/p/pi/pilette-of-kinnear/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2139](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2139)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/2139/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2139/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>October 1992 — Pilette of Kinnear (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2139">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CGG #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #C0C0C0"></span><br><em>Design was commissioned by Michael Jean George Pilette (Vlug) of Kinnear, Baron Kinnear and designed by Blair Urquhart (STS). Based on Duke of Fife with overcheck colours from the Kinnear Arms. Significance of (Vlug) not known. The Barony of Kinnear is near Wormit in Fife. Can be worn by the bearer of the Kinnear arms. Sample in STA's Johnston Collection. Sample in STA Dalgety Collection labelled: "Blair Urquhart, Kinnear 1992.". Dalgliesh weave.</em></li>
+<li>October 1992 — Pilette of Kinnear (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2139/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CGG #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #C0C0C0"></span><br><em>Design was commissioned by Michael Jean George Pilette (Vlug) of Kinnear, Baron Kinnear and designed by Blair Urquhart (STS). Based on Duke of Fife with overcheck colours from the Kinnear Arms. Significance of (Vlug) not known. The Barony of Kinnear is near Wormit in Fife. Can be worn by the bearer of the Kinnear arms. Sample in STA's Johnston Collection. Sample in STA Dalgety Collection labelled: "Blair Urquhart, Kinnear 1992.". Dalgliesh weave.</em></li>
 <li>01/01/2002 — Pilette of Kinnear (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3338">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#204000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CGG #204000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#788CB4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #788CB4"></span><br><em>Designed by the Scottish Tartans Society for the owner of the Barony of Kinnear which is near Wormit, Fife. Based on the Duke of Fife with armorial colours in overcheck. Baron of Kinnear - Michael Jean Pilette (Vlug).</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2139](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

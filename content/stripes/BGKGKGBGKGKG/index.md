@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/">Salvation Army Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/"><img src="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/sett.png" alt="Salvation Army Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/salvation-army-hunting/">Salvation Army Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/salvation-army-hunting/"><img src="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/sett.png" alt="Salvation Army Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

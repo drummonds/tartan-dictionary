@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g3y5r14k36w3~x2/">Papua New Guinea</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g3y5r14k36w3~x2/"><img src="/variants/s5/g3y5r14k36w3~x2/sett.png" alt="Papua New Guinea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/g3y5r13k33w2~x2/">Papua New Guinea Pipes and Drums</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g3y5r13k33w2~x2/"><img src="/variants/s5/g3y5r13k33w2~x2/sett.png" alt="Papua New Guinea Pipes and Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/papua-new-guinea/">Papua New Guinea</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/papua-new-guinea/"><img src="/variants/s5/g3y5r14k36w3~x2/sett.png" alt="Papua New Guinea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/papua-new-guinea-pipes-and-drums/">Papua New Guinea Pipes and Drums</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/papua-new-guinea-pipes-and-drums/"><img src="/variants/s5/g3y5r13k33w2~x2/sett.png" alt="Papua New Guinea Pipes and Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

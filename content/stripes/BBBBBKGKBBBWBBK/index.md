@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dt38b8db3dt20b42k2g6k2b2dp3b2w2db10b2k6~dt1602194-b2501240/">Causeway, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dt38b8db3dt20b42k2g6k2b2dp3b2w2db10b2k6~dt1602194-b2501240/"><img src="/variants/s15/dt38b8db3dt20b42k2g6k2b2dp3b2w2db10b2k6~dt1602194-b2501240/sett.png" alt="Causeway, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s15/dt38n8db3dt20n42k2g6k2n2dp3n2w2db10n2k6/">Causeway, The (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dt38n8db3dt20n42k2g6k2n2dp3n2w2db10n2k6/"><img src="/variants/s15/dt38n8db3dt20n42k2g6k2n2dp3n2w2db10n2k6/sett.png" alt="Causeway, The (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/causeway-the/">Causeway, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/causeway-the/"><img src="/variants/s15/dt38b8db3dt20b42k2g6k2b2dp3b2w2db10b2k6~dt1602194-b2501240/sett.png" alt="Causeway, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

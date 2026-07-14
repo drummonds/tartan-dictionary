@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w3dr35db3dr2db3dr10dg3dr2dg3dr2dg3dr10y2~x2/">Glencross (Haverlands House) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w3dr35db3dr2db3dr10dg3dr2dg3dr2dg3dr10y2~x2/"><img src="/variants/s13/w3dr35db3dr2db3dr10dg3dr2dg3dr2dg3dr10y2~x2/sett.png" alt="Glencross (Haverlands House) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glencross-3/">Glencross</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glencross-3/"><img src="/variants/s13/w3dr35db3dr2db3dr10dg3dr2dg3dr2dg3dr10y2~x2/sett.png" alt="Glencross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

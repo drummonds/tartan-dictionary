@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/">Graeme Heckenberg Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><img src="/variants/s7/db3g13lb1r3lb1db10y1~x2/sett.png" alt="Graeme Heckenberg Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/graeme-heckenberg-hunting/">Graeme Heckenberg Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graeme-heckenberg-hunting/"><img src="/variants/s7/db3g13lb1r3lb1db10y1~x2/sett.png" alt="Graeme Heckenberg Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

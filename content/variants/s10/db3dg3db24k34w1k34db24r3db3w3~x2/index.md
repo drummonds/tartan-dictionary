@@ -8,10 +8,10 @@ crumbs:
 - name: "Al-Fadhli"
   url: "/tartans/a/al/al-fadhli/"
 - name: "Al-Fadhli (Personal)"
-  url: "/setts/db3dg3db24k34w1k34db24r3db3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3dg3db24k34w1k34db24r3db3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/al-fadhli/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKWKBRBW](/stripes/bgbkwkbrbw/).
 
 Part of the [Al-Fadhli](/tartans/a/al/al-fadhli/) tartan — the named design grouping this sett with its other cloths.

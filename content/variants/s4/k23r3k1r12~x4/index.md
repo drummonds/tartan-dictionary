@@ -8,15 +8,15 @@ crumbs:
 - name: "Ewing"
   url: "/tartans/e/ew/ewing/"
 - name: "Ewing"
-  url: "/setts/k23r3k1r12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k23r3k1r12/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRKRKR](/stripes/krkrkr/).
+provenance below. It is one weaving of the [sett](/tartans/e/ew/ewing/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKR](/stripes/krkr/).
 
 Part of the [Ewing](/tartans/e/ew/ewing/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11082](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11082)
 
@@ -28,7 +28,7 @@ Earliest known date: 2014 Following official recognition, this tartan was chosen
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>29/05/2014 — Ewing (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11082">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #DC0000"></span><br><em>Following official recognition, this tartan was chosen by the new Commander of Clan Ewing, John Thor Ewing, as the Clan Ewing tartan. The tartan takes its inspiration from the plaid of John Ewing in Heiddykis of Kirkmichael (d.1609), described in his testament as 'sax ellis of reid & blak cullerit claith' The design relates to historical and traditional tartans from the areas and clans among which Clan Ewing has its roots.</em></li>
-<li>2014 — Ewing (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11082">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><br><em>Following official recognition, this tartan was chosen by the new Commander of Clan Ewing, John Thor Ewing, as the Clan Ewing tartan. The tartan takes its inspiration from the plaid of John Ewing in Heiddykis of Kirkmichael (d.1609), described in his testament as 'sax ellis of reid & blak cullerit claith' The design relates to historical and traditional tartans from the areas and clans among which Clan Ewing has its roots.</em></li>
+<li>2014 — Ewing (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11082/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><br><em>Following official recognition, this tartan was chosen by the new Commander of Clan Ewing, John Thor Ewing, as the Clan Ewing tartan. The tartan takes its inspiration from the plaid of John Ewing in Heiddykis of Kirkmichael (d.1609), described in his testament as 'sax ellis of reid & blak cullerit claith' The design relates to historical and traditional tartans from the areas and clans among which Clan Ewing has its roots.</em></li>
 <li>2014 — Ewing Clan Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11082">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
 </ul>
 </details>
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 11082
 
 ## Thread count
-K/92 R12 K4 R48 K4 R/12
+K/92 R12 K4 R/48
 
-One full sett is **240 threads**.
+One full sett is **172 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/92 R12 K4 R48 K4 R/12 — 240 threads; it folds to the canonical 172-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **240 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/92 R12 K4 R48 K4 R/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/92 R12 K4 R/48 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

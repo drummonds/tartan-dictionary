@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/">Lambert (Front Royal) Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/"><img src="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/sett.png" alt="Lambert (Front Royal) Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lambert-hunting/">Lambert Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lambert-hunting/"><img src="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/sett.png" alt="Lambert Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

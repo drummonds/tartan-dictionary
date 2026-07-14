@@ -10,10 +10,10 @@ crumbs:
 - name: "Ross Wedding Dress"
   url: "/tartans/r/ro/ross-wedding-dress/"
 - name: "Ross, Wedding dress"
-  url: "/setts/k4w2k2w1lb6r6g6w1g27w1db4lb4o3w1o3lb4db4w1r36db3lb2w1lb2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4w2k2w1lb6r6g6w1g27w1db4lb4o3w1o3lb4db4w1r36db3lb2w1lb2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/ross-wedding-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWWBRWBWRWRWBWGWGRWWKWK](/stripes/bwwwbrwbwrwrwbwgwgrwwkwk/).
 
 Part of the [Ross Wedding Dress](/tartans/r/ro/ross-wedding-dress/) tartan — the named design grouping this sett with its other cloths.

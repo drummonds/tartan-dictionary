@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/">Rainford (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/"><img src="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/sett.png" alt="Rainford (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rainford/">Rainford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rainford/"><img src="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/sett.png" alt="Rainford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

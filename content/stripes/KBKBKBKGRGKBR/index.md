@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r3t10k10g10r3g10k10t2k2t2k2t5k2/">Blairgowrie High School (SA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r3t10k10g10r3g10k10t2k2t2k2t5k2/"><img src="/variants/s13/r3t10k10g10r3g10k10t2k2t2k2t5k2~x2/sett.png" alt="Blairgowrie High School (SA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blairgowrie-high-school/">Blairgowrie High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blairgowrie-high-school/"><img src="/variants/s13/r3t10k10g10r3g10k10t2k2t2k2t5k2~x2/sett.png" alt="Blairgowrie High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

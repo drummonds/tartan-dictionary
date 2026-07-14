@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/">Cummins (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/"><img src="/variants/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/sett.png" alt="Cummins (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/k9db5w5k9db14k5w5k9w5k5db8~x2/">Cummins Royal Blue, B (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k9db5w5k9db14k5w5k9w5k5db8~x2/"><img src="/variants/s11/k9db5w5k9db14k5w5k9w5k5db8~x2/sett.png" alt="Cummins Royal Blue, B (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cummins/">Cummins</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cummins/"><img src="/variants/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/sett.png" alt="Cummins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cummins-royal-blue-b/">Cummins Royal Blue, B</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cummins-royal-blue-b/"><img src="/variants/s11/k9db5w5k9db14k5w5k9w5k5db8~x2/sett.png" alt="Cummins Royal Blue, B sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

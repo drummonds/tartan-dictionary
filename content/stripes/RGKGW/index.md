@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r44g6k3g16w22/">Basque (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r44g6k3g16w22/"><img src="/variants/s5/r44g6k3g16w22/sett.png" alt="Basque (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r22g6k3g16w22/">Inverness Basque</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r22g6k3g16w22/"><img src="/variants/s5/r22g6k3g16w22/sett.png" alt="Inverness Basque sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r33g9k5g24w33~x2/">Inverness Basque (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r33g9k5g24w33~x2/"><img src="/variants/s5/r33g9k5g24w33~x2/sett.png" alt="Inverness Basque (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/basque/">Basque</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/basque/"><img src="/variants/s5/r44g6k3g16w22/sett.png" alt="Basque sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inverness-basque/">Inverness Basque</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inverness-basque/"><img src="/variants/s5/r22g6k3g16w22/sett.png" alt="Inverness Basque sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

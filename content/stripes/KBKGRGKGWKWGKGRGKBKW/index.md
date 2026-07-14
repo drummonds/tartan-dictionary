@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/">Braddock Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/"><img src="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/sett.png" alt="Braddock Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/braddock-2/">Braddock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braddock-2/"><img src="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/sett.png" alt="Braddock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

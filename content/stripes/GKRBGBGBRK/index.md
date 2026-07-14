@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6~k0504259/">Ferguson Britt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6~k0504259/"><img src="/variants/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6~k0504259/sett.png" alt="Ferguson Britt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-britt-2/">Ferguson Britt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-britt-2/"><img src="/variants/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6~k0504259/sett.png" alt="Ferguson Britt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Illinois, St Andrews Society"
   url: "/tartans/i/il/illinois-st-andrews-society/"
 - name: "Illinois, St Andrews Society"
-  url: "/setts/db4r3b23db16w5b3r2b3w5b11db2r1db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4r3b23db16w5b3r2b3w5b11db2r1db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/il/illinois-st-andrews-society/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBWBRBWBBRB](/stripes/brbbwbrbwbbrb/).
 
 Part of the [Illinois, St Andrews Society](/tartans/i/il/illinois-st-andrews-society/) tartan — the named design grouping this sett with its other cloths.

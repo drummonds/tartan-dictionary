@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Clackson"
   url: "/clan/clackson/"
+aliases:
+- "/setts/w24g2w8db5y4db5y4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbwgw/">GBGBWGW</a></nav>
 A tartan of [Clan Clackson](/clan/clackson/).
 Its design is pattern [GBGBWGW](/stripes/gbgbwgw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Clackson Arisaid** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w24g2w8db5y4db5y4/">Clackson Arisaid</a></td><td><code>W/48 G4 W16 DB10 Y8 DB10 Y/8</code></td><td>152</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w24g2w8db5y4db5y4/"><img src="/variants/s7/w24g2w8db5y4db5y4~x2/sett.png" alt="Clackson Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w24g2w8db5y4db5y4~x2/">Clackson Arisaid</a></td><td><code>W/48 G4 W16 DB10 Y8 DB10 Y/8</code></td><td>152</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><img src="/variants/s7/w24g2w8db5y4db5y4~x2/sett.png" alt="Clackson Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.1" cy="199.3" r="4" fill="#3465a4"><title>MacPherson Blue/White</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="324.4" cy="198.2" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s9/w14lb3w14y1dg20w15lb3w7dp3~x2/"><circle cx="305.8" cy="172.5" r="4" fill="#3465a4"><title>Milne dress</title></circle></a><a href="/variants/s8/w12lb2w12db17w12lb2w5r2~x4/"><circle cx="302.0" cy="213.4" r="4" fill="#3465a4"><title>Milne Royal Blue Dress</title></circle></a><a href="/variants/s12/w5lb1dp1w10lb2w1dp4w10g8lb2w1dp3~x2~dp1607327/"><circle cx="283.0" cy="206.4" r="4" fill="#3465a4"><title>Unidentified Scarlett</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="406.7" cy="208.8" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s6/w7db16w20db3w3y3~x2/"><circle cx="316.4" cy="250.4" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/w12db2w12o17w12db2w5r2~x4/"><circle cx="318.9" cy="218.7" r="4" fill="#3465a4"><title>Milne Purple Dress</title></circle></a><a href="/variants/s7/w8ly3w22n22dr3r2w4~x2/"><circle cx="262.3" cy="183.9" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/variants/s4/w80db30lo5y4~x2/"><circle cx="403.9" cy="190.6" r="4" fill="#3465a4"><title>Tarbh Deargh</title></circle></a><circle cx="323.4" cy="197.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.6" cy="199.1" r="4" fill="#3465a4"><title>MacPherson Blue/White</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="324.8" cy="198.1" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s9/w14lb3w14y1dg20w15lb3w7dp3~x2/"><circle cx="306.3" cy="172.4" r="4" fill="#3465a4"><title>Milne dress</title></circle></a><a href="/variants/s8/w12lb2w12db17w12lb2w5r2~x4/"><circle cx="302.6" cy="213.3" r="4" fill="#3465a4"><title>Milne Royal Blue Dress</title></circle></a><a href="/variants/s12/w5lb1dp1w10lb2w1dp4w10g8lb2w1dp3~x2~dp1607327/"><circle cx="283.3" cy="206.3" r="4" fill="#3465a4"><title>Unidentified Scarlett</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="407.5" cy="209.0" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s6/w7db16w20db3w3y3~x2/"><circle cx="316.9" cy="250.4" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/w12db2w12o17w12db2w5r2~x4/"><circle cx="319.4" cy="218.7" r="4" fill="#3465a4"><title>Milne Purple Dress</title></circle></a><a href="/variants/s7/w8ly3w22n22dr3r2w4~x2/"><circle cx="262.7" cy="183.8" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/variants/s4/w80db30lo5y4~x2/"><circle cx="404.7" cy="190.7" r="4" fill="#3465a4"><title>Tarbh Deargh</title></circle></a><circle cx="323.9" cy="197.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/">Jupiter Shop Channel Co Ltd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/"><img src="/variants/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/sett.png" alt="Jupiter Shop Channel Co Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/jupiter-shop-channel-co-ltd/">Jupiter Shop Channel Co Ltd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/jupiter-shop-channel-co-ltd/"><img src="/variants/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/sett.png" alt="Jupiter Shop Channel Co Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

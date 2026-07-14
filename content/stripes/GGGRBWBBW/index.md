@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g9dy2g6r35db6lb1dr20db5lb2~x2/">Telfer</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g9dy2g6r35db6lb1dr20db5lb2~x2/"><img src="/variants/s9/g9dy2g6r35db6lb1dr20db5lb2~x2/sett.png" alt="Telfer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g9y2g6r35db6lb1dr20db5lb2/">Telfer (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g9y2g6r35db6lb1dr20db5lb2/"><img src="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2/sett.png" alt="Telfer (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/telfer-2/">Telfer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/telfer-2/"><img src="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2/sett.png" alt="Telfer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/">Cala Homes (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/"><img src="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/sett.png" alt="Cala Homes (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cala-homes-2/">Cala Homes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cala-homes-2/"><img src="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/sett.png" alt="Cala Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

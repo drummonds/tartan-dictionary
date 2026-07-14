@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g42b2w2b2g5dg12w32g4~x2/">Longniddry, Green</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g42b2w2b2g5dg12w32g4~x2/"><img src="/variants/s8/g42b2w2b2g5dg12w32g4~x2/sett.png" alt="Longniddry, Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/longniddry-4/">Longniddry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/longniddry-4/"><img src="/variants/s8/g42b2w2b2g5dg12w32g4~x2/sett.png" alt="Longniddry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

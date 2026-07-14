@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/">Batten of Argyll (Baddenach)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/"><img src="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/sett.png" alt="Batten of Argyll (Baddenach) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/batten-of-argyll/">Batten of Argyll</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/batten-of-argyll/"><img src="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/sett.png" alt="Batten of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

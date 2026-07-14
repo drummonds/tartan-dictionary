@@ -10,10 +10,10 @@ crumbs:
 - name: "Wallace Memorial Centenary"
   url: "/tartans/w/wa/wallace-memorial-centenary/"
 - name: "Wallace Memorial Centenary"
-  url: "/setts/dr1r12dg1n9dy1db12lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr1r12dg1n9dy1db12lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/wallace-memorial-centenary/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBGBW](/stripes/brgbgbw/).
 
 Part of the [Wallace Memorial Centenary](/tartans/w/wa/wallace-memorial-centenary/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr3ly21dr14w3db11g36do3db3do4ly3~x2/">State Seal of Florida (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr3ly21dr14w3db11g36do3db3do4ly3~x2/"><img src="/variants/s10/dr3ly21dr14w3db11g36do3db3do4ly3~x2/sett.png" alt="State Seal of Florida (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-florida/">State Seal of Florida</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-florida/"><img src="/variants/s10/dr3ly21dr14w3db11g36do3db3do4ly3~x2/sett.png" alt="State Seal of Florida sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

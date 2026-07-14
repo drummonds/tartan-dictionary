@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/rangers/"
 - name: "Rangers"
   url: "/families/rangers/"
+aliases:
+- "/setts/db21k10dt8r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbr/">BKBR</a></nav>
 A tartan of the [Rangers](/families/rangers/) family.
 Its design is pattern [BKBR](/stripes/bkbr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Rangers 1989** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db21k10dt8r3/">Rangers 1989</a></td><td><code>DB/42 K20 DT16 R/6</code></td><td>120</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db21k10dt8r3/"><img src="/variants/s4/db21k10dt8r3~x2/sett.png" alt="Rangers 1989 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db21k10dt8r3~x2/">Rangers 1989</a></td><td><code>DB/42 K20 DT16 R/6</code></td><td>120</td><td>1989</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/db21k10dt8r3~x2/"><img src="/variants/s4/db21k10dt8r3~x2/sett.png" alt="Rangers 1989 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="267.8" cy="206.8" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="171.5" cy="231.6" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th</title></circle></a><a href="/variants/s4/r1db9k4lb1~x4/"><circle cx="314.9" cy="201.7" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s5/dg36y3do5db18k28~x2/"><circle cx="232.2" cy="222.8" r="4" fill="#3465a4"><title>Dobson</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="188.3" cy="206.9" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="300.5" cy="189.0" r="4" fill="#3465a4"><title>Mirror</title></circle></a><a href="/variants/s5/dr2db9k5g6db1~x4/"><circle cx="195.9" cy="230.9" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="178.4" cy="218.8" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s5/lg11db19dt38dr7k7~x2/"><circle cx="189.8" cy="238.0" r="4" fill="#3465a4"><title>Rose, Danny and Hanna</title></circle></a><a href="/variants/s4/db8k3r4y1~x2/"><circle cx="226.7" cy="224.6" r="4" fill="#3465a4"><title>Unidentified 27</title></circle></a><circle cx="268.9" cy="260.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="268.4" cy="206.9" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="171.7" cy="231.5" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th</title></circle></a><a href="/variants/s4/r1db9k4lb1~x4/"><circle cx="315.7" cy="201.8" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s5/dg36y3do5db18k28~x2/"><circle cx="232.6" cy="222.8" r="4" fill="#3465a4"><title>Dobson</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="188.6" cy="206.8" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="301.3" cy="189.1" r="4" fill="#3465a4"><title>Mirror</title></circle></a><a href="/variants/s5/dr2db9k5g6db1~x4/"><circle cx="196.3" cy="230.9" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="178.7" cy="218.7" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s5/lg11db19dt38dr7k7~x2/"><circle cx="190.0" cy="238.0" r="4" fill="#3465a4"><title>Rose, Danny and Hanna</title></circle></a><a href="/variants/s4/db8k3r4y1~x2/"><circle cx="227.2" cy="224.5" r="4" fill="#3465a4"><title>Unidentified 27</title></circle></a><circle cx="269.4" cy="260.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

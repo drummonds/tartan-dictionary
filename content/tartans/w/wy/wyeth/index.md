@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db18r18dp2g12db1/"
 ---
-Its design is pattern [BRBGBGBR](/stripes/brbgbgbr/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbrb/">BGBRB</a></nav>
+Its design is pattern [BGBRB](/stripes/bgbrb/) — the page of every tartan sharing this colour sequence.
 
 The **Wyeth** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db18r18dp2g12db1/">Wyeth</a></td><td><code>DB/72 R72 DP8 G48 DB4 G48 DP8 R/72</code></td><td>332</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db18r18dp2g12db1/"><img src="/variants/s5/db18r18dp2g12db1~x4/sett.png" alt="Wyeth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db18r18dp2g12db1~x4/">Wyeth</a></td><td><code>DB/72 R72 DP8 G48 DB/4</code></td><td>332</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db18r18dp2g12db1~x4/"><img src="/variants/s5/db18r18dp2g12db1~x4/sett.png" alt="Wyeth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r31db33dg12w2~x2/"><circle cx="268.0" cy="223.5" r="4" fill="#3465a4"><title>Manor of Wrentnall</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="223.0" cy="241.0" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.9" cy="242.6" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="312.3" cy="172.0" r="4" fill="#3465a4"><title>Galloway Dress</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="207.6" cy="257.8" r="4" fill="#3465a4"><title>Thorntons Law</title></circle></a><a href="/variants/s6/r15dr98db72lb25db8w15/"><circle cx="219.0" cy="187.4" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="275.1" cy="183.0" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="310.6" cy="216.7" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="270.6" cy="228.0" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s6/w3dg18db22r19dg1r2~x2/"><circle cx="226.8" cy="185.4" r="4" fill="#3465a4"><title>Nibley</title></circle></a><circle cx="240.0" cy="212.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r31db33dg12w2~x2/"><circle cx="268.5" cy="223.4" r="4" fill="#3465a4"><title>Manor of Wrentnall</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="223.2" cy="240.9" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="237.1" cy="242.5" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="313.0" cy="172.0" r="4" fill="#3465a4"><title>Galloway Dress</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="207.9" cy="257.7" r="4" fill="#3465a4"><title>Thorntons Law</title></circle></a><a href="/variants/s6/r15dr98db72lb25db8w15/"><circle cx="219.4" cy="187.3" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="275.7" cy="182.9" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="311.2" cy="216.7" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="270.9" cy="228.0" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s6/w3dg18db22r19dg1r2~x2/"><circle cx="227.2" cy="185.2" r="4" fill="#3465a4"><title>Nibley</title></circle></a><circle cx="240.3" cy="212.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

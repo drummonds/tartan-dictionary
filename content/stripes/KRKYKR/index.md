@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k2r16k8ly1k8r2~x4/">Brodie (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k2r16k8ly1k8r2~x4/"><img src="/variants/s6/k2r16k8ly1k8r2~x4/sett.png" alt="Brodie (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brodie-2/">Brodie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brodie-2/"><img src="/variants/s6/k2r16k8ly1k8r2~x4/sett.png" alt="Brodie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

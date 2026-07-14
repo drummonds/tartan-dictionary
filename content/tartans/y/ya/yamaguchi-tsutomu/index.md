@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y20k3y10k6y8k8y6k10y3k12y2k14y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgkgkgkgkgkg/">GKGKGKGKGKGKG</a></nav>
 Its design is pattern [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/) — the page of every tartan sharing this colour sequence.
 
 The **Yamaguchi Tsutomu** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Yamaguchi Tsutomu** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y20k3y10k6y8k8y6k10y3k12y2k14y1/">Yamaguchi Tsutomu</a></td><td><code>Y/40 K6 Y20 K12 Y16 K16 Y12 K20 Y6 K24 Y4 K28 Y/2</code></td><td>370</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y20k3y10k6y8k8y6k10y3k12y2k14y1/"><img src="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/sett.png" alt="Yamaguchi Tsutomu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/">Yamaguchi Tsutomu</a></td><td><code>Y/40 K6 Y20 K12 Y16 K16 Y12 K20 Y6 K24 Y4 K28 Y/2</code></td><td>370</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/"><img src="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/sett.png" alt="Yamaguchi Tsutomu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s14/y20k19y8k3y3k3y3k40y5k10y15k40y3k3~x2/"><circle cx="379.5" cy="136.2" r="4" fill="#3465a4"><title>Justus Yellow &amp;</title></circle></a><a href="/variants/s9/k6y20k6y4k4y10k8y2k5~x2/"><circle cx="294.4" cy="192.0" r="4" fill="#3465a4"><title>Bute Heather</title></circle></a><a href="/variants/s13/k11n2k11n20w2n20k7n1k7n1k7n11w1~x2/"><circle cx="299.4" cy="138.0" r="4" fill="#3465a4"><title>Westwood MacRock</title></circle></a><a href="/variants/s8/k6y2k21y2k6y24k2y6/"><circle cx="311.3" cy="172.8" r="4" fill="#3465a4"><title>MacLachlan VS</title></circle></a><a href="/variants/s9/k80n4k44n50k36n4y12k12y45/"><circle cx="308.3" cy="153.6" r="4" fill="#3465a4"><title>Melange</title></circle></a><a href="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/"><circle cx="272.8" cy="153.4" r="4" fill="#3465a4"><title>Garwhal Rifles</title></circle></a><a href="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><circle cx="343.5" cy="183.5" r="4" fill="#3465a4"><title>Grey Spirit</title></circle></a><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/"><circle cx="329.9" cy="151.8" r="4" fill="#3465a4"><title>Watertown Library Assoc.</title></circle></a><a href="/variants/s12/k4y1k4y11dr1y1dr1y11k4y1k4y1~x4/"><circle cx="303.3" cy="147.8" r="4" fill="#3465a4"><title>Baillieville</title></circle></a><circle cx="295.1" cy="162.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s14/y20k19y8k3y3k3y3k40y5k10y15k40y3k3~x2/"><circle cx="380.7" cy="136.5" r="4" fill="#3465a4"><title>Justus Yellow &amp;</title></circle></a><a href="/variants/s9/k6y20k6y4k4y10k8y2k5~x2/"><circle cx="295.2" cy="192.2" r="4" fill="#3465a4"><title>Bute Heather</title></circle></a><a href="/variants/s13/k11n2k11n20w2n20k7n1k7n1k7n11w1~x2/"><circle cx="300.3" cy="138.1" r="4" fill="#3465a4"><title>Westwood MacRock</title></circle></a><a href="/variants/s8/k6y2k21y2k6y24k2y6/"><circle cx="312.2" cy="173.0" r="4" fill="#3465a4"><title>MacLachlan VS</title></circle></a><a href="/variants/s9/k80n4k44n50k36n4y12k12y45/"><circle cx="309.2" cy="153.7" r="4" fill="#3465a4"><title>Melange</title></circle></a><a href="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/"><circle cx="273.7" cy="153.5" r="4" fill="#3465a4"><title>Garwhal Rifles</title></circle></a><a href="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><circle cx="344.4" cy="183.7" r="4" fill="#3465a4"><title>Grey Spirit</title></circle></a><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/"><circle cx="330.9" cy="152.0" r="4" fill="#3465a4"><title>Watertown Library Assoc.</title></circle></a><a href="/variants/s12/k4y1k4y11dr1y1dr1y11k4y1k4y1~x4/"><circle cx="304.2" cy="147.9" r="4" fill="#3465a4"><title>Baillieville</title></circle></a><circle cx="296.0" cy="162.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

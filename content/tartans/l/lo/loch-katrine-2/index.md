@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/b8k11w3k11dg22dr2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgkwkb/">BGKWKB</a></nav>
 Its design is pattern [BGKWKB](/stripes/bgkwkb/) — the page of every tartan sharing this colour sequence.
 
 The **Loch Katrine** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Loch Katrine** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b8k11w3k11dg22dr2/">Loch Katrine</a></td><td><code>B/16 K22 W6 K22 DG44 DR/4</code></td><td>208</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b8k11w3k11dg22dr2/"><img src="/variants/s6/b8k11w3k11dg22dr2~x2/sett.png" alt="Loch Katrine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/b8k11w3k11dg22dr2~x2/">Loch Katrine</a></td><td><code>B/16 K22 W6 K22 DG44 DR/4</code></td><td>208</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/b8k11w3k11dg22dr2~x2/"><img src="/variants/s6/b8k11w3k11dg22dr2~x2/sett.png" alt="Loch Katrine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k2w1k12g5db11r1~x2/"><circle cx="188.1" cy="164.1" r="4" fill="#3465a4"><title>New England</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="171.8" cy="167.6" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="195.2" cy="146.6" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x4/"><circle cx="132.0" cy="197.4" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s6/b4dg25k24w3db24w4~x2/"><circle cx="109.0" cy="201.4" r="4" fill="#3465a4"><title>Herd</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="142.2" cy="212.0" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="132.5" cy="188.9" r="4" fill="#3465a4"><title>Fruin Colquhoun</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="134.2" cy="220.2" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="131.7" cy="170.2" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s5/db12k17g19w2k5~x2/"><circle cx="162.5" cy="222.4" r="4" fill="#3465a4"><title>Wilson's Folio 131</title></circle></a><circle cx="159.7" cy="189.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k2w1k12g5db11r1~x2/"><circle cx="188.7" cy="164.0" r="4" fill="#3465a4"><title>New England</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="172.3" cy="167.5" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="195.8" cy="146.5" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x4/"><circle cx="132.4" cy="197.2" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s6/b4dg25k24w3db24w4~x2/"><circle cx="109.2" cy="201.2" r="4" fill="#3465a4"><title>Herd</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="142.6" cy="211.8" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="132.8" cy="188.7" r="4" fill="#3465a4"><title>Fruin Colquhoun</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="134.5" cy="220.0" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="132.0" cy="170.0" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s5/db12k17g19w2k5~x2/"><circle cx="162.9" cy="222.4" r="4" fill="#3465a4"><title>Wilson's Folio 131</title></circle></a><circle cx="160.1" cy="189.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

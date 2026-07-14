@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/">Hope-Vere (Lochcarron)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><img src="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/sett.png" alt="Hope-Vere (Lochcarron) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hope-vere-2/">Hope-Vere</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hope-vere-2/"><img src="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/sett.png" alt="Hope-Vere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

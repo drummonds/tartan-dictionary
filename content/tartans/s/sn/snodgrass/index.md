@@ -8,9 +8,14 @@ crumbs:
   url: "/clan/snodgrass/"
 - name: "Snodgrass"
   url: "/families/snodgrass/"
+aliases:
+- "/setts/k3r1ly1lb11g13lb5r1ly1/"
+- "/setts/k3r1y1db11g13db5r1y1/"
+- "/setts/k3r1y1lb11g13lb5r1y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krywgwry/">KRYWGWRY</a></nav>
 A tartan of the [Snodgrass](/families/snodgrass/) family.
-Its design is pattern [KRYWGWRYRWGWYR](/stripes/krywgwryrwgwyr/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [KRYWGWRY](/stripes/krywgwry/) — the page of every tartan sharing this colour sequence.
 
 Designed 1978 for the Snodgrass Clan Association, based on Cunningham, with colours from the family arms.
 
@@ -20,12 +25,12 @@ The **Snodgrass** tartan groups 3 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3r1ly1lb11g13lb5r1ly1/">Snodgrass</a> ★</td><td><code>K/12 R4 LY4 LB44 G52 LB20 R4 LY4 R4 LB20 G52 LB44 LY4 R/4</code></td><td>272</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3r1ly1lb11g13lb5r1ly1/"><img src="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/sett.png" alt="Snodgrass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3r1y1db11g13db5r1y1/">Snodgrass</a></td><td><code>K/6 R2 Y2 DB22 G26 DB10 R2 Y/2</code></td><td>136</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3r1y1db11g13db5r1y1/"><img src="/variants/s8/k3r1y1db11g13db5r1y1~x2/sett.png" alt="Snodgrass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3r1y1lb11g13lb5r1y1/">(Clan)</a></td><td><code>K/12 R4 Y4 LB44 G52 LB20 R4 Y/4</code></td><td>272</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3r1y1lb11g13lb5r1y1/"><img src="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/">Snodgrass</a> ★</td><td><code>K/12 R4 LY4 LB44 G52 LB20 R4 LY/4</code></td><td>272</td><td>1977</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/"><img src="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/sett.png" alt="Snodgrass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/">Snodgrass</a></td><td><code>K/6 R2 Y2 DB22 G26 DB10 R2 Y/2</code></td><td>136</td><td>1978</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><img src="/variants/s8/k3r1y1db11g13db5r1y1~x2/sett.png" alt="Snodgrass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/">(Clan)</a></td><td><code>K/12 R4 Y4 LB44 G52 LB20 R4 Y/4</code></td><td>272</td><td>1977</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><img src="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -38,6 +43,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/"><circle cx="195.4" cy="141.8" r="4" fill="#3465a4"><title>Downie</title></circle></a><a href="/variants/s7/k2lb25k2t8k2g28y2~x2/"><circle cx="198.2" cy="159.9" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><a href="/variants/s10/ly16k2ly6k2r2k2db15g1db1w2~x2/"><circle cx="159.7" cy="99.3" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="145.1" cy="127.2" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="225.3" cy="125.4" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ</title></circle></a><a href="/variants/s9/g9k2b4g14w3dg3w23g5y3~x2/"><circle cx="152.8" cy="151.8" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/variants/s9/g9k2r4g14w3lp3w23g5y3~x2/"><circle cx="153.5" cy="148.9" r="4" fill="#3465a4"><title>Taylor Dress</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.6" cy="131.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s9/k4lb4k2lb4k2lb22ly27y2r3~x2/"><circle cx="195.8" cy="130.5" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="148.6" cy="114.7" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><circle cx="195.9" cy="153.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/"><circle cx="195.9" cy="141.6" r="4" fill="#3465a4"><title>Downie</title></circle></a><a href="/variants/s7/k2lb25k2t8k2g28y2~x2/"><circle cx="198.6" cy="159.7" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><a href="/variants/s10/ly16k2ly6k2r2k2db15g1db1w2~x2/"><circle cx="160.3" cy="99.0" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="145.5" cy="126.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="225.8" cy="125.2" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ</title></circle></a><a href="/variants/s9/g9k2b4g14w3dg3w23g5y3~x2/"><circle cx="153.1" cy="151.5" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/variants/s9/g9k2r4g14w3lp3w23g5y3~x2/"><circle cx="153.8" cy="148.6" r="4" fill="#3465a4"><title>Taylor Dress</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.9" cy="131.6" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s9/k4lb4k2lb4k2lb22ly27y2r3~x2/"><circle cx="196.2" cy="130.3" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.0" cy="114.4" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><circle cx="196.3" cy="153.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

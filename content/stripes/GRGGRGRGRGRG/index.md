@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/">78th Highlanders (Fraser) (Mil.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/"><img src="/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/sett.png" alt="78th Highlanders (Fraser) (Mil.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/78th-highlanders/">78th Highlanders</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/78th-highlanders/"><img src="/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/sett.png" alt="78th Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Alexander"
   url: "/clan/alexander/"
+aliases:
+- "/setts/g5y2lb20w2k20w20k2w5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggwwkwkw/">GGWWKWKW</a></nav>
 A tartan of [Clan Alexander](/clan/alexander/).
 Its design is pattern [GGWWKWKW](/stripes/ggwwkwkw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Alexander Brothers** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g5y2lb20w2k20w20k2w5/">Alexander Brothers</a></td><td><code>G/10 Y4 LB40 W4 K40 W40 K4 W/10</code></td><td>284</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g5y2lb20w2k20w20k2w5/"><img src="/variants/s8/g5y2lb20w2k20w20k2w5~x2/sett.png" alt="Alexander Brothers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/">Alexander Brothers</a></td><td><code>G/10 Y4 LB40 W4 K40 W40 K4 W/10</code></td><td>284</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><img src="/variants/s8/g5y2lb20w2k20w20k2w5~x2/sett.png" alt="Alexander Brothers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r4dy2lb15y2k14w14k2w4~x2/"><circle cx="58.1" cy="166.5" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="108.0" cy="161.0" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="56.6" cy="166.3" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/"><circle cx="102.0" cy="150.7" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/"><circle cx="146.1" cy="121.1" r="4" fill="#3465a4"><title>Unidentified 18</title></circle></a><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><circle cx="136.2" cy="174.1" r="4" fill="#3465a4"><title>Chambers, Christopher J</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="115.3" cy="162.6" r="4" fill="#3465a4"><title>Hackett, William</title></circle></a><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="169.6" cy="207.8" r="4" fill="#3465a4"><title>Birnham</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="104.1" cy="179.6" r="4" fill="#3465a4"><title>MacRobart Dress</title></circle></a><a href="/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/"><circle cx="151.9" cy="147.1" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><circle cx="115.6" cy="168.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r4dy2lb15y2k14w14k2w4~x2/"><circle cx="58.2" cy="166.0" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="108.2" cy="160.6" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="56.8" cy="165.9" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/"><circle cx="102.2" cy="150.4" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/"><circle cx="146.5" cy="120.8" r="4" fill="#3465a4"><title>Unidentified 18</title></circle></a><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><circle cx="136.3" cy="173.7" r="4" fill="#3465a4"><title>Chambers, Christopher J</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="115.6" cy="162.3" r="4" fill="#3465a4"><title>Hackett, William</title></circle></a><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="169.9" cy="207.5" r="4" fill="#3465a4"><title>Birnham</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="104.3" cy="179.3" r="4" fill="#3465a4"><title>MacRobart Dress</title></circle></a><a href="/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/"><circle cx="152.3" cy="146.8" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><circle cx="115.8" cy="167.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

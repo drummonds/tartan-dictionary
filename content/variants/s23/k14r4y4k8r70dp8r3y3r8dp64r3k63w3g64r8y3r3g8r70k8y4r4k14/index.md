@@ -12,15 +12,15 @@ crumbs:
 - name: "Leith"
   url: "/tartans/l/le/leith/"
 - name: "Leith (Hay)"
-  url: "/setts/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRGKRBRGRBRKWGRGRGRKGRKRGKRGRGRGWKRBRGRBRKGR](/stripes/krgkrbrgrbrkwgrgrgrkgrkrgkrgrgrgwkrbrgrbrkgr/).
+provenance below. It is one weaving of the [sett](/tartans/l/le/leith/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRGKRBRGRBRKWGRGRGRKGRK](/stripes/krgkrbrgrbrkwgrgrgrkgrk/).
 
 Part of the [Leith](/tartans/l/le/leith/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2091](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2091)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2091](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1819 — Leith (Hay) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2091">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Originally called Hay & Leith - probably reflecting the intermarriage of those two families. Later just called Hay. Rarely seen in modern times.</em></li>
-<li>1819 — Leith & Hay (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Asymmetric. Originally called Hay & Leith - probably reflecting the intermarriage of those two families. Later just called Hay. Rarely seen in modern times.</em></li>
+<li>1819 — Leith & Hay (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2131/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Asymmetric. Originally called Hay & Leith - probably reflecting the intermarriage of those two families. Later just called Hay. Rarely seen in modern times.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2131
 
 ## Thread count
-K/14 R4 Y4 K8 R70 DP8 R3 Y3 R8 DP64 R3 K63 W3 G64 R8 Y3 R3 G8 R70 K8 Y4 R4 K14 R4 Y4 K8 R70 G8 R3 Y3 R8 G64 W3 K63 R3 DP64 R8 Y3 R3 DP8 R70 K8 Y4 R/4
+K/14 R4 Y4 K8 R70 DP8 R3 Y3 R8 DP64 R3 K63 W3 G64 R8 Y3 R3 G8 R70 K8 Y4 R4 K/14
 
-One full sett is **1690 threads**.
+One full sett is **854 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/14 R4 Y4 K8 R70 DP8 R3 Y3 R8 DP64 R3 K63 W3 G64 R8 Y3 R3 G8 R70 K8 Y4 R4 K14 R4 Y4 K8 R70 G8 R3 Y3 R8 G64 W3 K63 R3 DP64 R8 Y3 R3 DP8 R70 K8 Y4 R/4 — 1690 threads; it folds to the canonical 854-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **1690 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/14 R4 Y4 K8 R70 DP8 R3 Y3 R8 DP64 R3 K63 W3 G64 R8 Y3 R3 G8 R70 K8 Y4 R4 K14 R4 Y4 K8 R70 G8 R3 Y3 R8 G64 W3 K63 R3 DP64 R8 Y3 R3 DP8 R70 K8 Y4 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/14 R4 Y4 K8 R70 DP8 R3 Y3 R8 DP64 R3 K63 W3 G64 R8 Y3 R3 G8 R70 K8 Y4 R4 K/14 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

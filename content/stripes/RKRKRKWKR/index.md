@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r4k16w4k16r4k42r20k83r2/">Brand Ambassador</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r4k16w4k16r4k42r20k83r2/"><img src="/variants/s9/r4k16w4k16r4k42r20k83r2/sett.png" alt="Brand Ambassador sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/">Brand Ambassador (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/"><img src="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/sett.png" alt="Brand Ambassador (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brand-ambassador/">Brand Ambassador</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brand-ambassador/"><img src="/variants/s9/r4k16w4k16r4k42r20k83r2/sett.png" alt="Brand Ambassador sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

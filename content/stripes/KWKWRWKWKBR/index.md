@@ -28,12 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/">Merchiston Castle School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/"><img src="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/sett.png" alt="Merchiston Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k18w8k8w8r5w18k5w5k12db36r5/">Merchiston Castle School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k18w8k8w8r5w18k5w5k12db36r5/"><img src="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5/sett.png" alt="Merchiston Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/">Merchiston Castle School Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><img src="/variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/sett.png" alt="Merchiston Castle School Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/merchiston-castle-school/">Merchiston Castle School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/merchiston-castle-school/"><img src="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/sett.png" alt="Merchiston Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

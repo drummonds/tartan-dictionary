@@ -20,7 +20,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/w/wi/wilbers-2/"><img src="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/sett.png" alt="Wilbers" width="140"><br><strong>Wilbers (1)</strong></a><div class="clan-territory">Wilbers</div></li>
 <li><a class="tartan" href="/tartans/w/wi/wilcox-yu-cruikshank-reunion/"><img src="/variants/s12/n3g12k5g2k5n2dr2n2k5g12w2n3~x2/sett.png" alt="Wilcox, Yu, Cruikshank Reunion" width="140"><br><strong>Wilcox, Yu, Cruikshank Reunion (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wild-geese/"><img src="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20dy7dg5~x2/sett.png" alt="Wild Geese" width="140"><br><strong>Wild Geese (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/wi/wild-highlanders/"><img src="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/sett.png" alt="Wild Highlanders" width="140"><br><strong>Wild Highlanders (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/w/wi/wild-highlanders/"><img src="/variants/s7/k36w3k10w3dg28dr6k18~x2/sett.png" alt="Wild Highlanders" width="140"><br><strong>Wild Highlanders (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wild-mustard-dreams/"><img src="/variants/s5/lo17ly17lo17g26db5~x2/sett.png" alt="Wild Mustard Dreams" width="140"><br><strong>Wild Mustard Dreams (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wild-mustard-dreams-2/"><img src="/variants/s5/lo17y17o17g26db5~x2/sett.png" alt="Wild Mustard Dreams" width="140"><br><strong>Wild Mustard Dreams (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wild-rose/"><img src="/variants/s9/dp12n3r13dp4r10w2lb18n22r4~x2/sett.png" alt="Wild Rose" width="140"><br><strong>Wild Rose (1)</strong></a></li>
@@ -68,8 +68,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-005/"><img src="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/sett.png" alt="Wilson's No.005" width="140"><br><strong>Wilson's No.005 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-007-or-eglinton/"><img src="/variants/s12/g5k4dp28k4r5k4r5k4dp28k4g5k4~x2/sett.png" alt="Wilson's No.007 Or Eglinton" width="140"><br><strong>Wilson's No.007 Or Eglinton (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-011/"><img src="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/sett.png" alt="Wilson's No.011" width="140"><br><strong>Wilson's No.011 (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/wi/wilson-s-no-017/"><img src="/variants/s15/dy29g17k1w3k1y2k10t8dy4t8k10y2k1w3dy29~x2~w4000000-t2503227/sett.png" alt="Wilson's No.017" width="140"><br><strong>Wilson's No.017 (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/wi/wilson-s-no-017-2/"><img src="/variants/s28/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22~x2/sett.png" alt="Wilson's No.017" width="140"><br><strong>Wilson's No.017 (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/w/wi/wilson-s-no-017/"><img src="/variants/s28/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22~x2/sett.png" alt="Wilson's No.017" width="140"><br><strong>Wilson's No.017 (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/w/wi/wilson-s-no-017-2/"><img src="/variants/s15/dy29g17k1w3k1y2k10t8dy4t8k10y2k1w3dy29~x2~w4000000-t2503227/sett.png" alt="Wilson's No.017" width="140"><br><strong>Wilson's No.017 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-030/"><img src="/variants/s11/k16g2lb2db4g16y2k15db6lb2k3lb4~x2/sett.png" alt="Wilson's No.030" width="140"><br><strong>Wilson's No.030 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-033/"><img src="/variants/s16/g17lb3r3lb3k19w2g17r4g17w2k19lb3r3lb3g17db8~x2/sett.png" alt="Wilson's No.033" width="140"><br><strong>Wilson's No.033 (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-043/"><img src="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/sett.png" alt="Wilson's No.043" width="140"><br><strong>Wilson's No.043 (1)</strong></a></li>
@@ -113,8 +113,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-152/"><img src="/variants/s30/r5k4r13g25k3w5k3y3k16lb9k2lb9r12k2g3k2r12lb9k2lb9k16y3k3w5k3g25r13k4r5w3~x2/sett.png" alt="Wilson's No.152" width="140"><br><strong>Wilson's No.152 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-155/"><img src="/variants/s14/r21y9k2y2k2y9k18ly3dg21r13k3r13w2r13~x2/sett.png" alt="Wilson's No.155" width="140"><br><strong>Wilson's No.155 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-156/"><img src="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/sett.png" alt="Wilson's No.156" width="140"><br><strong>Wilson's No.156 (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/wi/wilson-s-no-157/"><img src="/variants/s12/dp12k12dg12k2dg12k11dg12k2dg12k12dp12y3~x2~dp1607327-dg1605139/sett.png" alt="Wilson's No.157" width="140"><br><strong>Wilson's No.157 (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/wi/wilson-s-no-157-2/"><img src="/variants/s11/k16db2lb2db4g16lb2k15db6lb2k3lb4~x2/sett.png" alt="Wilson's No.157" width="140"><br><strong>Wilson's No.157 (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/w/wi/wilson-s-no-157/"><img src="/variants/s11/k16db2lb2db4g16lb2k15db6lb2k3lb4~x2/sett.png" alt="Wilson's No.157" width="140"><br><strong>Wilson's No.157 (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/w/wi/wilson-s-no-157-2/"><img src="/variants/s12/dp12k12dg12k2dg12k11dg12k2dg12k12dp12y3~x2~dp1607327-dg1605139/sett.png" alt="Wilson's No.157" width="140"><br><strong>Wilson's No.157 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-158-2/"><img src="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/sett.png" alt="Wilson's No.158" width="140"><br><strong>Wilson's No.158 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-160/"><img src="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/sett.png" alt="Wilson's No.160" width="140"><br><strong>Wilson's No.160 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-161/"><img src="/variants/s3/g13r2lb13~x2/sett.png" alt="Wilson's No.161" width="140"><br><strong>Wilson's No.161 (1)</strong></a></li>
@@ -153,7 +153,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-208/"><img src="/variants/s3/g7lb2r4~x2~r2109032/sett.png" alt="Wilson's No.208" width="140"><br><strong>Wilson's No.208 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-209/"><img src="/variants/s4/g4dp5g4lb2~x2/sett.png" alt="Wilson's No.209" width="140"><br><strong>Wilson's No.209 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-210/"><img src="/variants/s2/g7lb6~x2/sett.png" alt="Wilson's No.210" width="140"><br><strong>Wilson's No.210 (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/wi/wilson-s-no-211-2/"><img src="/variants/s4/dg4dp4dg1dp1~x4/sett.png" alt="Wilson's No.211" width="140"><br><strong>Wilson's No.211 (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/w/wi/wilson-s-no-211-2/"><img src="/variants/s4/dg4dp4dg1dp1~x4~dp1105325/sett.png" alt="Wilson's No.211" width="140"><br><strong>Wilson's No.211 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-212/"><img src="/variants/s4/r2g9r2lb2~x4~r2109032/sett.png" alt="Wilson's No.212" width="140"><br><strong>Wilson's No.212 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-213/"><img src="/variants/s12/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4~r2109032-dg1605139-dp1105325/sett.png" alt="Wilson's No.213" width="140"><br><strong>Wilson's No.213 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wilson-s-no-214/"><img src="/variants/s5/g4r3lb1k1lb3~x4/sett.png" alt="Wilson's No.214" width="140"><br><strong>Wilson's No.214 (1)</strong></a></li>
@@ -232,7 +232,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/w/wi/wimbledon/"><img src="/variants/s5/g30w8db32y1db8~x2/sett.png" alt="Wimbledon" width="140"><br><strong>Wimbledon (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/windsor/"><img src="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/sett.png" alt="Windsor" width="140"><br><strong>Windsor (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/windy-meadows/"><img src="/variants/s6/dy11db2r4y1dp2n2~x4/sett.png" alt="Windy Meadows" width="140"><br><strong>Windy Meadows (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/w/wi/wine-watch/"><img src="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x2~db1406275/sett.png" alt="Wine Watch" width="140"><br><strong>Wine Watch (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/w/wi/wine-watch/"><img src="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x4/sett.png" alt="Wine Watch" width="140"><br><strong>Wine Watch (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/wingtip/"><img src="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/sett.png" alt="Wingtip" width="140"><br><strong>Wingtip (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/winnipeg-embroiderers-guild/"><img src="/variants/s6/r6db1y1w1db2w3~x4/sett.png" alt="Winnipeg Embroiderers' Guild" width="140"><br><strong>Winnipeg Embroiderers' Guild (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/w/wi/winnipeg-embroiders-guild/"><img src="/variants/s6/r12db2y2w2db4w3~x2/sett.png" alt="Winnipeg Embroiders' Guild" width="140"><br><strong>Winnipeg Embroiders' Guild (1)</strong></a></li>

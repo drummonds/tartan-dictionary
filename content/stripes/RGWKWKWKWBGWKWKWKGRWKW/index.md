@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/w2k1w1r1y1k3w18k2w2k1w1y2db8w4k48w3k2w2k1w1y1r1~x2/">Normandy Bay Myth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/w2k1w1r1y1k3w18k2w2k1w1y2db8w4k48w3k2w2k1w1y1r1~x2/"><img src="/variants/s22/w2k1w1r1y1k3w18k2w2k1w1y2db8w4k48w3k2w2k1w1y1r1~x2/sett.png" alt="Normandy Bay Myth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/normandy-bay-myth/">Normandy Bay Myth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/normandy-bay-myth/"><img src="/variants/s22/w2k1w1r1y1k3w18k2w2k1w1y2db8w4k48w3k2w2k1w1y1r1~x2/sett.png" alt="Normandy Bay Myth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

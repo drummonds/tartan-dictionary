@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s30/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/">Craig (Paisley)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s30/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/"><img src="/variants/s30/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/sett.png" alt="Craig (Paisley) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/craig-3/">Craig</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/craig-3/"><img src="/variants/s30/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/sett.png" alt="Craig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/">Wingtip</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/"><img src="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/sett.png" alt="Wingtip sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wingtip/">Wingtip</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wingtip/"><img src="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/sett.png" alt="Wingtip sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db4w2db1w36g21y4~x2/">Skye, Green (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db4w2db1w36g21y4~x2/"><img src="/variants/s6/db4w2db1w36g21y4~x2/sett.png" alt="Skye, Green (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skye-2/">Skye</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skye-2/"><img src="/variants/s6/db4w2db1w36g21y4~x2/sett.png" alt="Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

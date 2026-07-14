@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r4k25y25w4~x2/">Bonhill Primary School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r4k25y25w4~x2/"><img src="/variants/s4/r4k25y25w4~x2/sett.png" alt="Bonhill Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bonhill-primary-school/">Bonhill Primary School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bonhill-primary-school/"><img src="/variants/s4/r4k25y25w4~x2/sett.png" alt="Bonhill Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

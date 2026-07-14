@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/">Herron from Ulster (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><img src="/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/sett.png" alt="Herron from Ulster (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/herron-from-ulster/">Herron from Ulster</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/herron-from-ulster/"><img src="/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/sett.png" alt="Herron from Ulster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

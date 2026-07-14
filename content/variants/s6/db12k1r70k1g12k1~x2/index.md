@@ -8,10 +8,10 @@ crumbs:
 - name: "Lawers Estate"
   url: "/tartans/l/la/lawers-estate/"
 - name: "Lawers Estate"
-  url: "/setts/db12k1r70k1g12k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db12k1r70k1g12k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lawers-estate/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKGK](/stripes/bkrkgk/).
 
 Part of the [Lawers Estate](/tartans/l/la/lawers-estate/) tartan — the named design grouping this sett with its other cloths.

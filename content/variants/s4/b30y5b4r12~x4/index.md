@@ -8,15 +8,15 @@ crumbs:
 - name: "UEFA"
   url: "/tartans/u/ue/uefa/"
 - name: "UEFA (Glasgow)"
-  url: "/setts/b30y5b4r12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b30y5b4r12/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBGBR](/stripes/bgbgbr/).
+provenance below. It is one weaving of the [sett](/tartans/u/ue/uefa/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBR](/stripes/bgbr/).
 
 Part of the [UEFA](/tartans/u/ue/uefa/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4194](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4194)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4194](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/2002 — UEFA (Glasgow) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4194">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Scarf. Lochcarron swatch. Threadcount estimated.</em></li>
-<li>Feb 2002 — UEFA (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6385">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Union of European Football Associations, the governing body of football in Europe. Scarf. Lochcarron swatch. Threadcount estimated.</em></li>
+<li>Feb 2002 — UEFA (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6385/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Union of European Football Associations, the governing body of football in Europe. Scarf. Lochcarron swatch. Threadcount estimated.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6385
 
 ## Thread count
-R/48 B16 Y20 B120 Y20 B/16
+B/120 Y20 B16 R/48
 
-One full sett is **416 threads**.
+One full sett is **240 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/48 B16 Y20 B120 Y20 B/16 — 416 threads; it folds to the canonical 240-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **416 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/48 B16 Y20 B120 Y20 B/16 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="B/120 Y20 B16 R/48 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

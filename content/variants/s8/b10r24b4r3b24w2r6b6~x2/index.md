@@ -8,10 +8,10 @@ crumbs:
 - name: "Embrace"
   url: "/tartans/e/em/embrace/"
 - name: "Embrace, The"
-  url: "/setts/b10r24b4r3b24w2r6b6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b10r24b4r3b24w2r6b6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/em/embrace/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBWRB](/stripes/brbrbwrb/).
 
 Part of the [Embrace](/tartans/e/em/embrace/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1108](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Embrace, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1108">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000088;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #000088"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BW #FCFCFC"></span><br><em>No details.</em></li>
-<li>1972 — Embrace (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4811">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000088;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #000088"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BW #FCFCFC"></span></li>
+<li>1972 — Embrace (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4811/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000088;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #000088"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BW #FCFCFC"></span></li>
 </ul>
 </details>
 

@@ -10,15 +10,15 @@ crumbs:
 - name: "Haig"
   url: "/tartans/h/ha/haig/"
 - name: "Haig & Haig Whisky"
-  url: "/setts/r26k18r7k4y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r26k18r7k4y4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRKGKRKR](/stripes/krkgkrkr/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/haig/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKRKR](/stripes/gkrkr/).
 
 Part of the [Haig](/tartans/h/ha/haig/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1568](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1568)
 
@@ -30,7 +30,7 @@ Earliest known date: 1979 For Messrs John Haig.
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1979 — Haig & Haig Whisky (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1568">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>From Johnstons of Elgin. Samples in Scottish Tartans Authority's Dalgety Collection. Count from Scottish Tartans Society documentation circa 1981. For Messrs John Haig Whisky Distillers</em></li>
-<li>1979 — Haig & Haig Whisky (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1609">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>From Johnstons of Elgin. Samples in STA Dalgety Collection. Count from STS documentation circa 1981. The brand is now (Jan. 2008) owned by Diageo and they confirmed by e-mail (5th Feb 2008) that they still retained the exclusive rights to it.</em></li>
+<li>1979 — Haig & Haig Whisky (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1609/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>From Johnstons of Elgin. Samples in STA Dalgety Collection. Count from STS documentation circa 1981. The brand is now (Jan. 2008) owned by Diageo and they confirmed by e-mail (5th Feb 2008) that they still retained the exclusive rights to it.</em></li>
 <li>1979 — Haig Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1609">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span></li>
 </ul>
 </details>
@@ -60,9 +60,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1609
 
 ## Thread count
-R/52 K36 R14 K8 Y8 K8 R14 K/36
+R/52 K36 R14 K8 Y/8
 
-One full sett is **264 threads**.
+One full sett is **176 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/52 K36 R14 K8 Y8 K8 R14 K/36 — 264 threads; it folds to the canonical 176-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -71,7 +73,7 @@ One full sett is **264 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/52 K36 R14 K8 Y8 K8 R14 K/36 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/52 K36 R14 K8 Y/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

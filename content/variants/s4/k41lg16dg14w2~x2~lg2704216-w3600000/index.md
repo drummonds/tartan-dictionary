@@ -8,10 +8,10 @@ crumbs:
 - name: "Hamworthy Association"
   url: "/tartans/h/ha/hamworthy-association/"
 - name: "Hamworthy Association"
-  url: "/setts/k41lg16dg14w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k41lg16dg14w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hamworthy-association/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYGW](/stripes/kygw/).
 
 Part of the [Hamworthy Association](/tartans/h/ha/hamworthy-association/) tartan — the named design grouping this sett with its other cloths.

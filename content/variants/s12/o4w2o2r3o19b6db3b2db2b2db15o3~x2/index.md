@@ -8,10 +8,10 @@ crumbs:
 - name: "Scotch, House Cailean"
   url: "/tartans/s/sc/scotch-house-cailean/"
 - name: "Scotch, House Cailean"
-  url: "/setts/o4w2o2r3o19b6db3b2db2b2db15o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o4w2o2r3o19b6db3b2db2b2db15o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scotch-house-cailean/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBBBBRRRWR](/stripes/rbbbbbbrrrwr/).
 
 Part of the [Scotch, House Cailean](/tartans/s/sc/scotch-house-cailean/) tartan — the named design grouping this sett with its other cloths.

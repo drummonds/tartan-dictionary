@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/">Prince Edward Island (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/"><img src="/variants/s36/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/sett.png" alt="Prince Edward Island (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/prince-edward-island/">Prince Edward Island</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-edward-island/"><img src="/variants/s36/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/sett.png" alt="Prince Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

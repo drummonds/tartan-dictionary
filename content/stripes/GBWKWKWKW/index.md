@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/">Breton District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><img src="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/sett.png" alt="Breton District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/breton/">Breton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/breton/"><img src="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/sett.png" alt="Breton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

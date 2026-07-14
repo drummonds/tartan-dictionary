@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n4db1n6o1n14lb1~x8/">Torridon Tweed</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n4db1n6o1n14lb1~x8/"><img src="/variants/s6/n4db1n6o1n14lb1~x8/sett.png" alt="Torridon Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/torridon-tweed/">Torridon Tweed</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/torridon-tweed/"><img src="/variants/s6/n4db1n6o1n14lb1~x8/sett.png" alt="Torridon Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,15 +12,15 @@ crumbs:
 - name: "Riddoch"
   url: "/tartans/r/ri/riddoch-2/"
 - name: "Riddoch Personal Tartan"
-  url: "/setts/g28r2k15db2k2db2k2db18/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g28r2k15db2k2db2k2db18/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBKRGRKBKBK](/stripes/bkbkbkrgrkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/r/ri/riddoch-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKRG](/stripes/bkbkbkrg/).
 
 Part of the [Riddoch](/tartans/r/ri/riddoch-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5856](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5856)
 
@@ -45,9 +45,11 @@ Earliest known date: circa 1992 Designed by Tony Murray for an Albert (Bert) Rid
 </details>
 
 ## Thread count
-DB/36 K4 DB4 K4 DB4 K30 R4 G56 R4 K30 DB4 K4 DB4 K/4
+G/56 R4 K30 DB4 K4 DB4 K4 DB/36
 
-One full sett is **344 threads**.
+One full sett is **192 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/36 K4 DB4 K4 DB4 K30 R4 G56 R4 K30 DB4 K4 DB4 K/4 — 344 threads; it folds to the canonical 192-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **344 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/36 K4 DB4 K4 DB4 K30 R4 G56 R4 K30 DB4 K4 DB4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/56 R4 K30 DB4 K4 DB4 K4 DB/36 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Loretto School"
   url: "/tartans/l/lo/loretto-school/"
 - name: "Loretto School"
-  url: "/setts/db4r14dp6r5db12g8db70m4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4r14dp6r5db12g8db70m4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loretto-school/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBGBR](/stripes/brbrbgbr/).
 
 Part of the [Loretto School](/tartans/l/lo/loretto-school/) tartan — the named design grouping this sett with its other cloths.

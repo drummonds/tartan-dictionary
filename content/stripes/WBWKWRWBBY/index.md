@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/">Leitrim, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/"><img src="/variants/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/sett.png" alt="Leitrim, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leitrim-county/">Leitrim, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leitrim-county/"><img src="/variants/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/sett.png" alt="Leitrim, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

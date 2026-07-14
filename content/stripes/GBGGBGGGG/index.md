@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dgi4db2dgi17dg2dr4dg2dgi3dg11dgi2/">Conlon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dgi4db2dgi17dg2dr4dg2dgi3dg11dgi2/"><img src="/variants/s9/dgi4db2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171-db1406275/sett.png" alt="Conlon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/conlon/">Conlon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/conlon/"><img src="/variants/s9/dgi4db2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171-db1406275/sett.png" alt="Conlon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/y3dg1g3dg16dr32dg1dy1db4g2/">Connemara</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y3dg1g3dg16dr32dg1dy1db4g2/"><img src="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2~dg1605139/sett.png" alt="Connemara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connemara/">Connemara</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connemara/"><img src="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2~dg1605139/sett.png" alt="Connemara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

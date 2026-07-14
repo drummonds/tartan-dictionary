@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/">Red Hackle Pipe Band (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/"><img src="/variants/s16/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/sett.png" alt="Red Hackle Pipe Band (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/red-hackle-pipe-band/">Red Hackle Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/red-hackle-pipe-band/"><img src="/variants/s16/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/sett.png" alt="Red Hackle Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

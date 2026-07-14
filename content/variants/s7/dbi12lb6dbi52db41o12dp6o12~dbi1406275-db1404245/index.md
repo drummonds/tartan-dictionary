@@ -8,15 +8,15 @@ crumbs:
 - name: "Great Scot"
   url: "/tartans/g/gr/great-scot/"
 - name: "Great Scot"
-  url: "/setts/dbi12lb6dbi52db41o12dp6o12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi12lb6dbi52db41o12dp6o12/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBBRBRBRBBW](/stripes/bwbbrbrbrbbw/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/great-scot/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBBRBR](/stripes/bwbbrbr/).
 
 Part of the [Great Scot](/tartans/g/gr/great-scot/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1521](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1521)
 
@@ -28,7 +28,7 @@ Earliest known date: Jan 2004 Fashion tartan from Marton Mills of Yorkshire laun
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Great Scot (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1521">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Fashion tartan from Marton Mills of Yorkshire launched at the 2004 International Gift Fair in Glasgow. 'Designed as a modern multi-purpose tartan that can be worn with pride on any occasion.'</em></li>
-<li>Jan 2004 — Great Scot (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6106">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Fashion tartan from Marton Mills of Yorkshire launched at the 2004 International Gift Fair in Glasgow. "Designed as a modern multi-purpose tartan that can be worn with pride on any occasion."</em></li>
+<li>Jan 2004 — Great Scot (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6106/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Fashion tartan from Marton Mills of Yorkshire launched at the 2004 International Gift Fair in Glasgow. "Designed as a modern multi-purpose tartan that can be worn with pride on any occasion."</em></li>
 <li>Jan 2004 — Great Scot (Fashion) Fashion Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6106">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span></li>
 </ul>
 </details>
@@ -58,9 +58,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2980
 
 ## Thread count
-DBi/12 LB6 DBi52 DB41 O12 DP6 O12 DP6 O12 DB41 DBi52 LB/6
+DBi/12 LB6 DBi52 DB41 O12 DP6 O/12
 
-One full sett is **498 threads**.
+One full sett is **258 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DBi/12 LB6 DBi52 DB41 O12 DP6 O12 DP6 O12 DB41 DBi52 LB/6 — 498 threads; it folds to the canonical 258-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -69,7 +71,7 @@ One full sett is **498 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DBi/12 LB6 DBi52 DB41 O12 DP6 O12 DP6 O12 DB41 DBi52 LB/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DBi/12 LB6 DBi52 DB41 O12 DP6 O/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

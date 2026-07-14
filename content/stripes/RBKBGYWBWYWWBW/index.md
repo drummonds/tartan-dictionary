@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/m42dr2k15dr2dg22ly4lbi2dp2lbi2ly4lb7lbi2dp6lbi6~x2~lbi3200000-lb3103284/">Dundee Pink Variation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/m42dr2k15dr2dg22ly4lbi2dp2lbi2ly4lb7lbi2dp6lbi6~x2~lbi3200000-lb3103284/"><img src="/variants/s14/m42dr2k15dr2dg22ly4lbi2dp2lbi2ly4lb7lbi2dp6lbi6~x2~lbi3200000-lb3103284/sett.png" alt="Dundee Pink Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dundee-pink-variation/">Dundee Pink Variation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dundee-pink-variation/"><img src="/variants/s14/m42dr2k15dr2dg22ly4lbi2dp2lbi2ly4lb7lbi2dp6lbi6~x2~lbi3200000-lb3103284/sett.png" alt="Dundee Pink Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

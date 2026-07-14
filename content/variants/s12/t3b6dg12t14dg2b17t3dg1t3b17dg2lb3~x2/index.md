@@ -8,10 +8,10 @@ crumbs:
 - name: "Reflections of the Sea"
   url: "/tartans/r/re/reflections-of-the-sea/"
 - name: "Reflections of the Sea"
-  url: "/setts/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/reflections-of-the-sea/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBBGBBGW](/stripes/bbgbgbbgbbgw/).
 
 Part of the [Reflections of the Sea](/tartans/r/re/reflections-of-the-sea/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3486](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Reflections of the Sea (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3486">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0CDCB4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #0CDCB4"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1972 — Reflections of the Sea (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5419">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0CDCB4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #0CDCB4"></span><br><em>Sample in STA Johnston Collection.</em></li>
+<li>pre 1972 — Reflections of the Sea (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5419/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0CDCB4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #0CDCB4"></span><br><em>Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

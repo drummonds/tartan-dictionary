@@ -12,10 +12,10 @@ crumbs:
 - name: "Commonwealth"
   url: "/tartans/c/co/commonwealth/"
 - name: "Commonwealth"
-  url: "/setts/db12w4r12w5k4o12db20r4db5r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db12w4r12w5k4o12db20r4db5r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/commonwealth/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWKRBRBR](/stripes/bwrwkrbrbr/).
 
 Part of the [Commonwealth](/tartans/c/co/commonwealth/) tartan — the named design grouping this sett with its other cloths.

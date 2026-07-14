@@ -10,10 +10,10 @@ crumbs:
 - name: "Scott Black and"
   url: "/tartans/s/sc/scott-black-and/"
 - name: "Scott Black and Grey"
-  url: "/setts/n8k3n17k13n6k3n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n8k3n17k13n6k3n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scott-black-and/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKB](/stripes/bkbkbkb/).
 
 Part of the [Scott Black and](/tartans/s/sc/scott-black-and/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3696](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1948 — Scott Black and Grey (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3696">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#808080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #808080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Worn by the Peebles Army Training Corps Pipe Band (c.1948). This collection is found in the Scottish Tartans Society archive.</em></li>
-<li>1948 — Scott Black & Grey (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1287">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Apparently worn by the Peebles Army Training Corps Pipe Band (c.1948) From the MacGregor Hastie collection. The sett is the same as 1825 with the white changed to grey.</em></li>
+<li>1948 — Scott Black & Grey (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1287/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Apparently worn by the Peebles Army Training Corps Pipe Band (c.1948) From the MacGregor Hastie collection. The sett is the same as 1825 with the white changed to grey.</em></li>
 </ul>
 </details>
 

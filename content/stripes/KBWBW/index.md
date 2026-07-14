@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w18n29lb2dp3k1~x2/">Kinloch at Loch Awe (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w18n29lb2dp3k1~x2/"><img src="/variants/s5/w18n29lb2dp3k1~x2/sett.png" alt="Kinloch at Loch Awe (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinloch-at-loch-awe/">Kinloch at Loch Awe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinloch-at-loch-awe/"><img src="/variants/s5/w18n29lb2dp3k1~x2/sett.png" alt="Kinloch at Loch Awe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

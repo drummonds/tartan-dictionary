@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g1dg15dp1dg1dp1dg2dp6w15lb1w1~x4/">Tweedsmuir Dress (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g1dg15dp1dg1dp1dg2dp6w15lb1w1~x4/"><img src="/variants/s10/g1dg15dp1dg1dp1dg2dp6w15lb1w1~x4/sett.png" alt="Tweedsmuir Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tw/tweedsmuir-dress/">Tweedsmuir Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tw/tweedsmuir-dress/"><img src="/variants/s10/g1dg15dp1dg1dp1dg2dp6w15lb1w1~x4/sett.png" alt="Tweedsmuir Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

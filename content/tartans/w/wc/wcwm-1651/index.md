@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/wcwm/"
 - name: "Wcwm"
   url: "/families/wcwm/"
+aliases:
+- "/setts/dr10k1dr3g7k7g5lo3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbgkgy/">BKBGKGY</a></nav>
 A tartan of the [Wcwm](/families/wcwm/) family.
 Its design is pattern [BKBGKGY](/stripes/bkbgkgy/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Wcwm 1651** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr10k1dr3g7k7g5lo3/">Wcwm 1651</a></td><td><code>DR/40 K4 DR12 G28 K28 G20 LO/12</code></td><td>236</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr10k1dr3g7k7g5lo3/"><img src="/variants/s7/dr10k1dr3g7k7g5lo3~x4/sett.png" alt="Wcwm 1651 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/">Wcwm 1651</a></td><td><code>DR/40 K4 DR12 G28 K28 G20 LO/12</code></td><td>236</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><img src="/variants/s7/dr10k1dr3g7k7g5lo3~x4/sett.png" alt="Wcwm 1651 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="161.8" cy="194.5" r="4" fill="#3465a4"><title>Un-named</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.5" cy="175.3" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="152.4" cy="239.1" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="145.0" cy="218.3" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="125.3" cy="228.7" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="123.1" cy="203.1" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="138.6" cy="226.9" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><circle cx="138.5" cy="198.8" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="112.4" cy="229.4" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="159.8" cy="168.0" r="4" fill="#3465a4"><title>Manson</title></circle></a><circle cx="140.5" cy="216.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="162.2" cy="194.3" r="4" fill="#3465a4"><title>Un-named</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="192.0" cy="175.1" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="152.7" cy="239.0" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="145.3" cy="218.2" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="125.5" cy="228.5" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="123.4" cy="202.9" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="138.8" cy="226.7" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><circle cx="138.8" cy="198.7" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="112.6" cy="229.2" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="160.3" cy="167.8" r="4" fill="#3465a4"><title>Manson</title></circle></a><circle cx="140.7" cy="216.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

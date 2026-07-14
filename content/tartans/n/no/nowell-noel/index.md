@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db8g2db10g12k1lr1r1/"
+- "/setts/db3g4db20g24k2lr3r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgkyr/">BGBGKYR</a></nav>
 Its design is pattern [BGBGKYR](/stripes/bgbgkyr/) — the page of every tartan sharing this colour sequence.
 
 The **Nowell/Noel** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Nowell/Noel** tartan groups 2 setts — the same named design recorded as 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db8g2db10g12k1lr1r1/">Nowell/Noel</a> ★</td><td><code>DB/32 G8 DB40 G48 K4 LR4 R/4</code></td><td>244</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8g2db10g12k1lr1r1/"><img src="/variants/s7/db8g2db10g12k1lr1r1~x4/sett.png" alt="Nowell/Noel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db3g4db20g24k2lr3r1/">(Name)</a></td><td><code>DB/6 G8 DB40 G48 K4 LR6 R/2</code></td><td>220</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3g4db20g24k2lr3r1/"><img src="/variants/s7/db3g4db20g24k2lr3r1~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db8g2db10g12k1lr1r1~x4/">Nowell/Noel</a> ★</td><td><code>DB/32 G8 DB40 G48 K4 LR4 R/4</code></td><td>244</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db8g2db10g12k1lr1r1~x4/"><img src="/variants/s7/db8g2db10g12k1lr1r1~x4/sett.png" alt="Nowell/Noel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db3g4db20g24k2lr3r1~x2/">(Name)</a></td><td><code>DB/6 G8 DB40 G48 K4 LR6 R/2</code></td><td>220</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db3g4db20g24k2lr3r1~x2/"><img src="/variants/s7/db3g4db20g24k2lr3r1~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="335.1" cy="200.0" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/variants/s6/k3g22db3g3db19r3~x2/"><circle cx="245.4" cy="202.9" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="334.7" cy="205.8" r="4" fill="#3465a4"><title>Connaught</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="220.0" cy="220.4" r="4" fill="#3465a4"><title>Trafalgar</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="218.5" cy="220.1" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="235.5" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4~x2/"><circle cx="229.5" cy="208.0" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="166.0" cy="180.1" r="4" fill="#3465a4"><title>Paterson</title></circle></a><a href="/variants/s6/k3lb10db2g6db18g2~x2/"><circle cx="213.9" cy="195.3" r="4" fill="#3465a4"><title>Crombie House Check</title></circle></a><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><circle cx="177.3" cy="151.5" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><circle cx="264.8" cy="172.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="335.7" cy="200.1" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/variants/s6/k3g22db3g3db19r3~x2/"><circle cx="246.0" cy="202.9" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="335.3" cy="205.9" r="4" fill="#3465a4"><title>Connaught</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="220.5" cy="220.4" r="4" fill="#3465a4"><title>Trafalgar</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="218.9" cy="220.1" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="236.1" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4~x2/"><circle cx="230.0" cy="208.0" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="166.4" cy="179.9" r="4" fill="#3465a4"><title>Paterson</title></circle></a><a href="/variants/s6/k3lb10db2g6db18g2~x2/"><circle cx="214.5" cy="195.2" r="4" fill="#3465a4"><title>Crombie House Check</title></circle></a><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><circle cx="177.8" cy="151.3" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><circle cx="265.4" cy="172.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

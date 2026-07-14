@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/">Guildford Town Centre (British Columbia)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/"><img src="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/sett.png" alt="Guildford Town Centre (British Columbia) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/guildford-town-centre/">Guildford Town Centre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/guildford-town-centre/"><img src="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/sett.png" alt="Guildford Town Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

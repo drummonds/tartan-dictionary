@@ -12,10 +12,10 @@ crumbs:
 - name: "Scotland 1782"
   url: "/tartans/s/sc/scotland-1782-2/"
 - name: "Scotland 1782"
-  url: "/setts/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scotland-1782-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBBBBKBKBGBKBKBBBBGKBW](/stripes/bkgbbbbkbkbgbkbkbbbbgkbw/).
 
 Part of the [Scotland 1782](/tartans/s/sc/scotland-1782-2/) tartan — the named design grouping this sett with its other cloths.

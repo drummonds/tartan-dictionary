@@ -10,10 +10,10 @@ crumbs:
 - name: "Fraser, Wedding dress"
   url: "/tartans/f/fr/fraser-wedding-dress/"
 - name: "Fraser, Wedding dress"
-  url: "/setts/g2r3db2r48db60r21g2r21g60r48db2r3g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2r3db2r48db60r21g2r21g60r48db2r3g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraser-wedding-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRBRGRGRBRG](/stripes/grbrbrgrgrbrg/).
 
 Part of the [Fraser, Wedding dress](/tartans/f/fr/fraser-wedding-dress/) tartan — the named design grouping this sett with its other cloths.

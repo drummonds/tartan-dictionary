@@ -6,7 +6,12 @@ crumbs:
   url: "/"
 - name: "Clan Gleneagles"
   url: "/clan/gleneagles/"
+aliases:
+- "/setts/dr5g6ly2g6dr5db6dr2/"
+- "/setts/dr5g6dy1g6dr5db6dr1/"
+- "/setts/dr5g6gi2g6dr5db6dr2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbgygb/">BBBGYGB</a></nav>
 A tartan of [Clan Gleneagles](/clan/gleneagles/).
 Its design is pattern [BBBGYGB](/stripes/bbbgygb/) — the page of every tartan sharing this colour sequence.
 
@@ -18,12 +23,12 @@ The **Gleneagles Group** tartan groups 3 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr5g6ly2g6dr5db6dr2/">Gleneagles Group</a> ★</td><td><code>DR/10 G12 LY4 G12 DR10 DB12 DR/4</code></td><td>114</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr5g6ly2g6dr5db6dr2/"><img src="/variants/s7/dr5g6ly2g6dr5db6dr2~x2~g1906142-ly2604115/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dr5g6dy1g6dr5db6dr1/">Corporate Tartan</a></td><td><code>DR/10 G12 DY2 G12 DR10 DB12 DR/2</code></td><td>108</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr5g6dy1g6dr5db6dr1/"><img src="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dr5g6gi2g6dr5db6dr2/">Gleneagles Group</a></td><td><code>DR/10 G12 Gi4 G12 DR10 DB12 DR/4</code></td><td>114</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr5g6gi2g6dr5db6dr2/"><img src="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr5g6ly2g6dr5db6dr2~x2~g1906142-ly2604115/">Gleneagles Group</a> ★</td><td><code>DR/10 G12 LY4 G12 DR10 DB12 DR/4</code></td><td>114</td><td>1994</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr5g6ly2g6dr5db6dr2~x2~g1906142-ly2604115/"><img src="/variants/s7/dr5g6ly2g6dr5db6dr2~x2~g1906142-ly2604115/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/">Corporate Tartan</a></td><td><code>DR/10 G12 DY2 G12 DR10 DB12 DR/2</code></td><td>108</td><td>1989</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/"><img src="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/">Gleneagles Group</a></td><td><code>DR/10 G12 Gi4 G12 DR10 DB12 DR/4</code></td><td>114</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/"><img src="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db16r14g16y3g16r14db16w3~x2/"><circle cx="112.6" cy="261.2" r="4" fill="#3465a4"><title>James William Forrester of S. Carolina</title></circle></a><a href="/variants/s8/db16r14g16dy3g16r14db16w3~x2/"><circle cx="111.9" cy="260.6" r="4" fill="#3465a4"><title>Forrester</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="235.9" cy="271.3" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s7/dy9g9y2g9dy9t9dy3~x2/"><circle cx="249.6" cy="339.3" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s8/r3db3r3db10g10r3g3r3~x2/"><circle cx="172.3" cy="275.4" r="4" fill="#3465a4"><title>Flora MacDonald</title></circle></a><circle cx="207.4" cy="353.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db16r14g16y3g16r14db16w3~x2/"><circle cx="112.5" cy="261.0" r="4" fill="#3465a4"><title>James William Forrester of S. Carolina</title></circle></a><a href="/variants/s8/db16r14g16dy3g16r14db16w3~x2/"><circle cx="111.8" cy="260.4" r="4" fill="#3465a4"><title>Forrester</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="235.9" cy="271.3" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s7/dy9g9y2g9dy9t9dy3~x2/"><circle cx="249.4" cy="339.4" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s8/r3db3r3db10g10r3g3r3~x2/"><circle cx="172.4" cy="275.3" r="4" fill="#3465a4"><title>Flora MacDonald</title></circle></a><circle cx="207.2" cy="353.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

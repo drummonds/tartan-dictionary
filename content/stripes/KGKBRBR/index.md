@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k7g22k22db6r2db15r2~x2/">National Galleries of Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k7g22k22db6r2db15r2~x2/"><img src="/variants/s7/k7g22k22db6r2db15r2~x2/sett.png" alt="National Galleries of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/national-galleries-of-scotland/">National Galleries of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/national-galleries-of-scotland/"><img src="/variants/s7/k7g22k22db6r2db15r2~x2/sett.png" alt="National Galleries of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

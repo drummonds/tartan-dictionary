@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2/">Culloden, Worn by Pr Charles</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2/"><img src="/variants/s15/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2/sett.png" alt="Culloden, Worn by Pr Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/culloden-worn-by-pr-charles-2/">Culloden, Worn by Pr Charles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/culloden-worn-by-pr-charles-2/"><img src="/variants/s15/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2/sett.png" alt="Culloden, Worn by Pr Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Wellington"
   url: "/tartans/w/we/wellington/"
 - name: "Wellington (Wilson) #2"
-  url: "/setts/g12k14lb11r3lb3r3lb11k14g12lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12k14lb11r3lb3r3lb11k14g12lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/wellington/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWRWRWKGW](/stripes/gkwrwrwkgw/).
 
 Part of the [Wellington](/tartans/w/we/wellington/) tartan — the named design grouping this sett with its other cloths.

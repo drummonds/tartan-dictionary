@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lo8w3lo28w32dp3w4~x2/">Ailsa, Gold (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lo8w3lo28w32dp3w4~x2/"><img src="/variants/s6/lo8w3lo28w32dp3w4~x2/sett.png" alt="Ailsa, Gold (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ai/ailsa-gold/">Ailsa Gold</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ai/ailsa-gold/"><img src="/variants/s6/lo8w3lo28w32dp3w4~x2/sett.png" alt="Ailsa Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

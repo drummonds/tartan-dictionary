@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g6db3w1db3g6r2db15dp60ly2dp30db15r2~x2/">Roslin Roseline Da Vinci</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g6db3w1db3g6r2db15dp60ly2dp30db15r2~x2/"><img src="/variants/s12/g6db3w1db3g6r2db15dp60ly2dp30db15r2~x2/sett.png" alt="Roslin Roseline Da Vinci sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/roslin-roseline-da-vinci/">Roslin Roseline Da Vinci</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roslin-roseline-da-vinci/"><img src="/variants/s12/g6db3w1db3g6r2db15dp60ly2dp30db15r2~x2/sett.png" alt="Roslin Roseline Da Vinci sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

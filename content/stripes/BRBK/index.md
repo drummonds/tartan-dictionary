@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k13dr40r13n8~x2/">Maryville College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k13dr40r13n8~x2/"><img src="/variants/s4/k13dr40r13n8~x2/sett.png" alt="Maryville College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maryville-college/">Maryville College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maryville-college/"><img src="/variants/s4/k13dr40r13n8~x2/sett.png" alt="Maryville College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

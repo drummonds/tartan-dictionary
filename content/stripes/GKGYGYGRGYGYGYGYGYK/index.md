@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1~x2/">Peeper (check)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1~x2/"><img src="/variants/s19/g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1~x2/sett.png" alt="Peeper (check) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/peeper-2/">Peeper</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peeper-2/"><img src="/variants/s19/g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1~x2/sett.png" alt="Peeper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

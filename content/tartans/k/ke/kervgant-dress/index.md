@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr60db12lb1db2w1db12dr5k1dr2n2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbkbbwbwbb/">BBKBBWBWBB</a></nav>
 Its design is pattern [BBKBBWBWBB](/stripes/bbkbbwbwbb/) — the page of every tartan sharing this colour sequence.
 
 The **Kervgant Dress )** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Kervgant Dress )** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr60db12lb1db2w1db12dr5k1dr2n2/">Kervgant Dress )</a></td><td><code>DR/120 DB24 LB2 DB4 W2 DB24 DR10 K2 DR4 N/4</code></td><td>268</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr60db12lb1db2w1db12dr5k1dr2n2/"><img src="/variants/s10/dr60db12lb1db2w1db12dr5k1dr2n2~x2/sett.png" alt="Kervgant Dress ) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr60db12lb1db2w1db12dr5k1dr2n2~x2/">Kervgant Dress )</a></td><td><code>DR/120 DB24 LB2 DB4 W2 DB24 DR10 K2 DR4 N/4</code></td><td>268</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr60db12lb1db2w1db12dr5k1dr2n2~x2/"><img src="/variants/s10/dr60db12lb1db2w1db12dr5k1dr2n2~x2/sett.png" alt="Kervgant Dress ) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/dr60db12t1db2w1db12dr5k1dr2o2~x2~db1004274-t2503227-o2500000/"><circle cx="529.7" cy="79.6" r="4" fill="#3465a4"><title>Kervegant Dress</title></circle></a><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/"><circle cx="399.9" cy="142.3" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/"><circle cx="573.3" cy="82.1" r="4" fill="#3465a4"><title>Stenhousemuir F.C.</title></circle></a><a href="/variants/s9/dr6k2dr4dy3dr60db14dr3db3w1~x2/"><circle cx="595.6" cy="93.5" r="4" fill="#3465a4"><title>Stenhousemuir Football Club</title></circle></a><a href="/variants/s10/n60db12t1db2w1db12n5k1n2r2~x2~n1900000-db1004274-t2503227/"><circle cx="492.4" cy="70.6" r="4" fill="#3465a4"><title>Kervegant</title></circle></a><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/"><circle cx="447.2" cy="70.2" r="4" fill="#3465a4"><title>Concours of Elegance</title></circle></a><circle cx="502.9" cy="66.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/dr60db12t1db2w1db12dr5k1dr2o2~x2~db1004274-t2503227-o2500000/"><circle cx="530.9" cy="79.9" r="4" fill="#3465a4"><title>Kervegant Dress</title></circle></a><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/"><circle cx="400.6" cy="142.5" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/"><circle cx="574.8" cy="82.5" r="4" fill="#3465a4"><title>Stenhousemuir F.C.</title></circle></a><a href="/variants/s9/dr6k2dr4dy3dr60db14dr3db3w1~x2/"><circle cx="597.0" cy="94.0" r="4" fill="#3465a4"><title>Stenhousemuir Football Club</title></circle></a><a href="/variants/s10/n60db12t1db2w1db12n5k1n2r2~x2~n1900000-db1004274-t2503227/"><circle cx="493.6" cy="70.9" r="4" fill="#3465a4"><title>Kervegant</title></circle></a><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/"><circle cx="448.6" cy="70.5" r="4" fill="#3465a4"><title>Concours of Elegance</title></circle></a><circle cx="504.1" cy="67.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

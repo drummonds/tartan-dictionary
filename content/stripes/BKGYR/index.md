@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dp46k6g9lo9r4/">Ayllu Thuban (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp46k6g9lo9r4/"><img src="/variants/s5/dp46k6g9lo9r4/sett.png" alt="Ayllu Thuban (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayllu-thuban/">Ayllu Thuban</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ay/ayllu-thuban/"><img src="/variants/s5/dp46k6g9lo9r4/sett.png" alt="Ayllu Thuban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

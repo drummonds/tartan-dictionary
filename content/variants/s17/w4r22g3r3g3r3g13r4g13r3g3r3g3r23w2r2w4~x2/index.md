@@ -8,10 +8,10 @@ crumbs:
 - name: "Duke of Rothesay"
   url: "/tartans/d/du/duke-of-rothesay/"
 - name: "Rothesay, Duke of"
-  url: "/setts/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-rothesay/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRGRGRGRGRGRGRWRW](/stripes/wrgrgrgrgrgrgrwrw/).
 
 Part of the [Duke of Rothesay](/tartans/d/du/duke-of-rothesay/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3576](ht
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>undated — Rothesay, Duke of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3576">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>From the Coulson Bonnar Collection. This is a much coarser version of the Duke of Rothesay (#1533, original Scottish Tartans Authority reference) after it had been reduced x4.</em></li>
-<li>Unknown — Duke of Rothesay (Royal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1845">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>From the Coulson Bonnar Collection. This is a much coarser version of the Duke of Rothesay (#1533) after it had been reduced x4. Also referred to as 'The King's Tartan'.</em></li>
+<li>Unknown — Duke of Rothesay (Royal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1845/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>From the Coulson Bonnar Collection. This is a much coarser version of the Duke of Rothesay (#1533) after it had been reduced x4. Also referred to as 'The King's Tartan'.</em></li>
 <li>undated — Rothesay, Red (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span></li>
 </ul>
 </details>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Read Dress, Peter"
   url: "/tartans/r/re/read-dress-peter/"
 - name: "Read Dress, Peter (Personal)"
-  url: "/setts/r8k24n1k1n1k1n1k1n8k1n1k1n1k1n1r20y1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8k24n1k1n1k1n1k1n8k1n1k1n1k1n1r20y1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/read-dress-peter/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBKBKBKBKBKBKBRGW](/stripes/rkbkbkbkbkbkbkbrgw/).
 
 Part of the [Read Dress, Peter](/tartans/r/re/read-dress-peter/) tartan — the named design grouping this sett with its other cloths.

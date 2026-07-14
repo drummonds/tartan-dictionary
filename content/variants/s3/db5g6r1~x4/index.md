@@ -8,10 +8,10 @@ crumbs:
 - name: "Wilson's No 84, Ferguson"
   url: "/tartans/w/wi/wilson-s-no-84-ferguson/"
 - name: "Wilson's No 84, Ferguson"
-  url: "/setts/db5g6r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5g6r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-84-ferguson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGR](/stripes/bgr/).
 
 Part of the [Wilson's No 84, Ferguson](/tartans/w/wi/wilson-s-no-84-ferguson/) tartan — the named design grouping this sett with its other cloths.

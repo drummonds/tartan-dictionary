@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/">Czech National (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><img src="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/sett.png" alt="Czech National (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cz/czech-national/">Czech National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cz/czech-national/"><img src="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/sett.png" alt="Czech National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

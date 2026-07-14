@@ -8,15 +8,15 @@ crumbs:
 - name: "Nobiliary Fraternity. . ."
   url: "/tartans/n/no/nobiliary-fraternity/"
 - name: "Wilson's No.217"
-  url: "/setts/dp11lb2k10g10y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp11lb2k10g10y3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWKGGGKW](/stripes/bwkgggkw/).
+provenance below. It is one weaving of the [sett](/tartans/n/no/nobiliary-fraternity/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKGG](/stripes/bwkgg/).
 
 Part of the [Nobiliary Fraternity. . .](/tartans/n/no/nobiliary-fraternity/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4746](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4746)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4746](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1819 — Wilson's No.217 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4746">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Adopted by the Nobiliary Fraternity of the Nia Naisc (An organisation based in Lochmaben, Dumfriesshire)</em></li>
-<li>c 1819 — Nobiliary Fraternity. . .(Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6997">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Adopted by the Nobiliary Fraternity of the Nia Naisc. Woven sample. Wilson 217 adapted.</em></li>
+<li>c 1819 — Nobiliary Fraternity. . .(Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6997/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Adopted by the Nobiliary Fraternity of the Nia Naisc. Woven sample. Wilson 217 adapted.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 64
 
 ## Thread count
-DP/22 LB4 K20 G20 Y6 G20 K20 LB/4
+DP/22 LB4 K20 G20 Y/6
 
-One full sett is **206 threads**.
+One full sett is **116 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/22 LB4 K20 G20 Y6 G20 K20 LB/4 — 206 threads; it folds to the canonical 116-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **206 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/22 LB4 K20 G20 Y6 G20 K20 LB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/22 LB4 K20 G20 Y/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

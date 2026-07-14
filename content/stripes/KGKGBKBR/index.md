@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/">Brave for Men (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/"><img src="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/sett.png" alt="Brave for Men (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brave-for-men/">Brave for Men</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brave-for-men/"><img src="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/sett.png" alt="Brave for Men sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

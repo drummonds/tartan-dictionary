@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/">Henry, W. A.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><img src="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/sett.png" alt="Henry, W. A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/henry-w-a-2/">Henry, W. A.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/henry-w-a-2/"><img src="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/sett.png" alt="Henry, W. A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

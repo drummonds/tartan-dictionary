@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dy4w1db42ri1w21db4w4r4~x2~ri2806019-r1807033/">Presley of Memphis</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy4w1db42ri1w21db4w4r4~x2~ri2806019-r1807033/"><img src="/variants/s8/dy4w1db42ri1w21db4w4r4~x2~ri2806019-r1807033/sett.png" alt="Presley of Memphis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/presley-of-memphis/">Presley of Memphis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/presley-of-memphis/"><img src="/variants/s8/dy4w1db42ri1w21db4w4r4~x2~ri2806019-r1807033/sett.png" alt="Presley of Memphis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

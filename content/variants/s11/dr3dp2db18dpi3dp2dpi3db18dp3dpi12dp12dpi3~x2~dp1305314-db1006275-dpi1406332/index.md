@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Delight"
   url: "/tartans/r/ro/royal-delight/"
 - name: "Royal Delight"
-  url: "/setts/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-delight/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBB](/stripes/bbbbbbbbbbb/).
 
 Part of the [Royal Delight](/tartans/r/ro/royal-delight/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3600](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Royal Delight (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3600">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C1864;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AP #4C1864"></span><span style="display:inline-block;width:.85em;height:.85em;background:#180064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #180064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#640064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XM #640064"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1972 — Royal Delight (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5397">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C1864;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AP #4C1864"></span><span style="display:inline-block;width:.85em;height:.85em;background:#180064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #180064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#640064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XM #640064"></span><br><em>Sample in STA Johnston Collection.</em></li>
+<li>pre 1972 — Royal Delight (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5397/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C1864;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AP #4C1864"></span><span style="display:inline-block;width:.85em;height:.85em;background:#180064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #180064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#640064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XM #640064"></span><br><em>Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

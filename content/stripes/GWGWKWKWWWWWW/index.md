@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4/">Oliphant Dress (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4/"><img src="/variants/s13/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4~x2/sett.png" alt="Oliphant Dress (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/oliphant-dress/">Oliphant Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/oliphant-dress/"><img src="/variants/s13/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4~x2/sett.png" alt="Oliphant Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

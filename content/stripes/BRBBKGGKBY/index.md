@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db11r3db2n3k12dg20y2k12db11ly3/">Wisconsin (US State)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db11r3db2n3k12dg20y2k12db11ly3/"><img src="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2/sett.png" alt="Wisconsin (US State) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wisconsin/">Wisconsin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wisconsin/"><img src="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2/sett.png" alt="Wisconsin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

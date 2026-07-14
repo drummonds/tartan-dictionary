@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k2o30g4w2g14dr13y2~x2/">Red Rum</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k2o30g4w2g14dr13y2~x2/"><img src="/variants/s7/k2o30g4w2g14dr13y2~x2/sett.png" alt="Red Rum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/red-rum-2/">Red Rum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/red-rum-2/"><img src="/variants/s7/k2o30g4w2g14dr13y2~x2/sett.png" alt="Red Rum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

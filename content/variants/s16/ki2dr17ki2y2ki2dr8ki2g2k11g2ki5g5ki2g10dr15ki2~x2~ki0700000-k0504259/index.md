@@ -12,17 +12,17 @@ crumbs:
 - name: "Large"
   url: "/tartans/l/la/large/"
 - name: "Large (Personal)"
-  url: "/setts/ki2dr17ki2y2ki2dr8ki2g2k11g2ki5g5ki2g10dr15ki2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ki2dr17ki2y2ki2dr8ki2g2k11g2ki5g5ki2g10dr15ki2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/large/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGKGKGKGKBKGKBK](/stripes/kbgkgkgkgkbkgkbk/).
 
 Part of the [Large](/tartans/l/la/large/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10016](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10016)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/10016/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10016/*)
 
 ## Provenance
 
@@ -31,7 +31,7 @@ Earliest known date: Mar. 2009 A family tartan for the Large family. A wedding g
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>Mar. 2009 — Large (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10016">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><br><em>A family tartan for the Large family. A wedding gift for the castle-crazy daughter who is getting married in Leeds Castle, Kent in October and to welcome her new husband to the family. Aslo for her sister who is hoping to get her own 'castle' in the near future. Restricted to weaving via The House of Tartan, Comrie, Perthshire.</em></li>
+<li>Mar. 2009 — Large (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10016/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><br><em>A family tartan for the Large family. A wedding gift for the castle-crazy daughter who is getting married in Leeds Castle, Kent in October and to welcome her new husband to the family. Aslo for her sister who is hoping to get her own 'castle' in the near future. Restricted to weaving via The House of Tartan, Comrie, Perthshire.</em></li>
 <li>undated — Large Personal Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10016">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span></li>
 </ul>
 </details>
@@ -46,7 +46,7 @@ Earliest known date: Mar. 2009 A family tartan for the Large family. A wedding g
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

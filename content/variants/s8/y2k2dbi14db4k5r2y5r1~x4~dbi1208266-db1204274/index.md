@@ -8,10 +8,10 @@ crumbs:
 - name: "Lovell"
   url: "/tartans/l/lo/lovell/"
 - name: "Lovell (2014)"
-  url: "/setts/y2k2dbi14db4k5r2y5r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2k2dbi14db4k5r2y5r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lovell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBBKRGR](/stripes/gkbbkrgr/).
 
 Part of the [Lovell](/tartans/l/lo/lovell/) tartan — the named design grouping this sett with its other cloths.

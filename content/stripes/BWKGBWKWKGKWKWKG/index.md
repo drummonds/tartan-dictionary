@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/">Deudon (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><img src="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/sett.png" alt="Deudon (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/deudon/">Deudon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/deudon/"><img src="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/sett.png" alt="Deudon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

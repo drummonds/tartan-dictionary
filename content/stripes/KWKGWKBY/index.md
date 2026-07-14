@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/">Kilkenny County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/"><img src="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/sett.png" alt="Kilkenny County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kilkenny-county-crest/">Kilkenny County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilkenny-county-crest/"><img src="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/sett.png" alt="Kilkenny County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

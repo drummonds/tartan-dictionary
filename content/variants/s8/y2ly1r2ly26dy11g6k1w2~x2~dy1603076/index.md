@@ -10,17 +10,17 @@ crumbs:
 - name: "Saskatchewan"
   url: "/families/saskatchewan/"
 - name: "Saskatchewan"
-  url: "/tartans/s/sa/saskatchewan/"
+  url: "/tartans/s/sa/saskatchewan-3/"
 - name: "Saskatchewan"
-  url: "/setts/y2ly1r2ly26dy11g6k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2ly1r2ly26dy11g6k1w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KGGYRYGYRYGGKW](/stripes/kggyrygyryggkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sa/saskatchewan-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYRYGGKW](/stripes/gyryggkw/).
 
-Part of the [Saskatchewan](/tartans/s/sa/saskatchewan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Saskatchewan](/tartans/s/sa/saskatchewan-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3656](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3656)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1817
 
 ## Thread count
-W/4 K2 G12 DY22 LY52 R4 LY2 Y4 LY2 R4 LY52 DY22 G12 K/2
+Y/4 LY2 R4 LY52 DY22 G12 K2 W/4
 
-One full sett is **386 threads**.
+One full sett is **196 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/4 K2 G12 DY22 LY52 R4 LY2 Y4 LY2 R4 LY52 DY22 G12 K/2 — 386 threads; it folds to the canonical 196-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **386 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/4 K2 G12 DY22 LY52 R4 LY2 Y4 LY2 R4 LY52 DY22 G12 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/4 LY2 R4 LY52 DY22 G12 K2 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

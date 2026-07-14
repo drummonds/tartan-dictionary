@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/">Lanarkshire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><img src="/variants/s6/dg31y4dg6k19db18lb9~x2/sett.png" alt="Lanarkshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lanark/">Lanark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lanark/"><img src="/variants/s6/dg31y4dg6k19db18lb9~x2/sett.png" alt="Lanark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

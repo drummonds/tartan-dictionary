@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~x2/">Black Watch Ground Colour</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~x2/"><img src="/variants/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~x2/sett.png" alt="Black Watch Ground Colour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-watch-ground-colour/">Black Watch Ground Colour</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-watch-ground-colour/"><img src="/variants/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~x2/sett.png" alt="Black Watch Ground Colour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,17 +12,17 @@ crumbs:
 - name: "Kilgour"
   url: "/tartans/k/ki/kilgour-2/"
 - name: "Kilgour (Symmetrical)"
-  url: "/setts/db6k3g14k3r14k3db6y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6k3g14k3r14k3db6y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kilgour-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKRKBG](/stripes/bkgkrkbg/).
 
 Part of the [Kilgour](/tartans/k/ki/kilgour-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5348](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5348)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/5348/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5348/*)
 
 ## Provenance
 
@@ -31,7 +31,7 @@ Earliest known date: pre 2003 This sett was recorded by Peter MacDonald on the 1
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1880 — Kilgour (Symmetrical) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5348">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A symmetrical version of 1979 has been seen at various times but the original asymmetric version seems to be the most popular.</em></li>
+<li>1880 — Kilgour (Symmetrical) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5348/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A symmetrical version of 1979 has been seen at various times but the original asymmetric version seems to be the most popular.</em></li>
 <li>pre 2003 — Kilgour Family Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1979">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span></li>
 <li>undated — Kilgour (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #F0C000"></span></li>
 </ul>
@@ -47,7 +47,7 @@ Earliest known date: pre 2003 This sett was recorded by Peter MacDonald on the 1
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
@@ -77,7 +77,7 @@ One full sett is **372 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.03** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.00** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

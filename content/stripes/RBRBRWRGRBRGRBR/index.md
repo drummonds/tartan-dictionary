@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/">Walkers Shortbread</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/"><img src="/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/sett.png" alt="Walkers Shortbread sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/walkers-shortbread/">Walkers Shortbread</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/walkers-shortbread/"><img src="/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/sett.png" alt="Walkers Shortbread sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

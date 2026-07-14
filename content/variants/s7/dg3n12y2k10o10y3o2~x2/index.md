@@ -12,10 +12,10 @@ crumbs:
 - name: "Rothesay"
   url: "/tartans/r/ro/rothesay/"
 - name: "Rothesay"
-  url: "/setts/dg3n12y2k10o10y3o2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg3n12y2k10o10y3o2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/rothesay/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKRGR](/stripes/gbgkrgr/).
 
 Part of the [Rothesay](/tartans/r/ro/rothesay/) tartan — the named design grouping this sett with its other cloths.

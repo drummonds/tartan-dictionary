@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g16y3db9r3db9g6db3g3k3~x4/">Blarney Castle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g16y3db9r3db9g6db3g3k3~x4/"><img src="/variants/s9/g16y3db9r3db9g6db3g3k3~x4/sett.png" alt="Blarney Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blarney-castle/">Blarney Castle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blarney-castle/"><img src="/variants/s9/g16y3db9r3db9g6db3g3k3~x4/sett.png" alt="Blarney Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

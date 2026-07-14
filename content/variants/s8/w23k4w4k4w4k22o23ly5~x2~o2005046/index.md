@@ -8,10 +8,10 @@ crumbs:
 - name: "Aberlour"
   url: "/tartans/a/ab/aberlour/"
 - name: "Aberlour"
-  url: "/setts/w23k4w4k4w4k22o23ly5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w23k4w4k4w4k22o23ly5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ab/aberlour/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWKRY](/stripes/wkwkwkry/).
 
 Part of the [Aberlour](/tartans/a/ab/aberlour/) tartan — the named design grouping this sett with its other cloths.

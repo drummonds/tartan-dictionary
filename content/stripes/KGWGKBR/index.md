@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/">Cunningham / Wilson's No 120</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/"><img src="/variants/s7/k11g12w2g12k12dp12r3~x2/sett.png" alt="Cunningham / Wilson's No 120 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/k12g12w2g12k12dp12r3~x2/">Wilson's, No 120</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k12g12w2g12k12dp12r3~x2/"><img src="/variants/s7/k12g12w2g12k12dp12r3~x2/sett.png" alt="Wilson's, No 120 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cunningham-wilson-s-no-120/">Cunningham / Wilson's No 120</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cunningham-wilson-s-no-120/"><img src="/variants/s7/k11g12w2g12k12dp12r3~x2/sett.png" alt="Cunningham / Wilson's No 120 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-120/">Wilson's, No 120</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-120/"><img src="/variants/s7/k12g12w2g12k12dp12r3~x2/sett.png" alt="Wilson's, No 120 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

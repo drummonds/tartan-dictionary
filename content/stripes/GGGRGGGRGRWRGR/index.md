@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3~x2/">Burnett of Powis (Modern) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3~x2/"><img src="/variants/s14/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3~x2/sett.png" alt="Burnett of Powis (Modern) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burnett-of-powis-2/">Burnett of Powis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burnett-of-powis-2/"><img src="/variants/s14/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3~x2/sett.png" alt="Burnett of Powis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

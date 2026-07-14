@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/">Stewart Navy Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/"><img src="/variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/sett.png" alt="Stewart Navy Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-navy/">Stewart Navy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-navy/"><img src="/variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/sett.png" alt="Stewart Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

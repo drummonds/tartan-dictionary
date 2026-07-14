@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/">Hebrides #11</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/"><img src="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/sett.png" alt="Hebrides #11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebrides-3/">Hebrides</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebrides-3/"><img src="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

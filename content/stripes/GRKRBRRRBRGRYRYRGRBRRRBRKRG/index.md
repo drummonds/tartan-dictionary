@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s27/dg18r1k18r1n18r1o18r1dr18r1dy18r1ly18r1lyi18r1dy18r1dr18r1o18r1n18r1k18r1dg18~x2~n1900000-o2500000-ly2503076-lyi3104101/">MacKay of Strathnaver</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s27/dg18r1k18r1n18r1o18r1dr18r1dy18r1ly18r1lyi18r1dy18r1dr18r1o18r1n18r1k18r1dg18~x2~n1900000-o2500000-ly2503076-lyi3104101/"><img src="/variants/s27/dg18r1k18r1n18r1o18r1dr18r1dy18r1ly18r1lyi18r1dy18r1dr18r1o18r1n18r1k18r1dg18~x2~n1900000-o2500000-ly2503076-lyi3104101/sett.png" alt="MacKay of Strathnaver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s27/g18r1k18r1n18r1o18r1dr18r1dy18r1lr18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1g18~x2~n1900000-o2500000/">MacKay of Strathnaver Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s27/g18r1k18r1n18r1o18r1dr18r1dy18r1lr18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1g18~x2~n1900000-o2500000/"><img src="/variants/s27/g18r1k18r1n18r1o18r1dr18r1dy18r1lr18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1g18~x2~n1900000-o2500000/sett.png" alt="MacKay of Strathnaver Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackay-of-strathnaver-2/">MacKay of Strathnaver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackay-of-strathnaver-2/"><img src="/variants/s27/g18r1k18r1n18r1o18r1dr18r1dy18r1lr18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1g18~x2~n1900000-o2500000/sett.png" alt="MacKay of Strathnaver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

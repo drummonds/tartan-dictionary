@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/b8do2b13r4b12lb22b5y3~x2/">Kildare</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b8do2b13r4b12lb22b5y3~x2/"><img src="/variants/s8/b8do2b13r4b12lb22b5y3~x2/sett.png" alt="Kildare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kildare/">Kildare</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kildare/"><img src="/variants/s8/b8do2b13r4b12lb22b5y3~x2/sett.png" alt="Kildare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

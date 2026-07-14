@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/b16db6k1y1k1db6b4dr4k1r1~x4/">Kirk in the Hills</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/b16db6k1y1k1db6b4dr4k1r1~x4/"><img src="/variants/s10/b16db6k1y1k1db6b4dr4k1r1~x4/sett.png" alt="Kirk in the Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kirk-in-the-hills/">Kirk in the Hills</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kirk-in-the-hills/"><img src="/variants/s10/b16db6k1y1k1db6b4dr4k1r1~x4/sett.png" alt="Kirk in the Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

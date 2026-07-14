@@ -10,10 +10,10 @@ crumbs:
 - name: "MacKean dress Family/Clan"
   url: "/tartans/m/ma/mackean-dress-family-clan/"
 - name: "MacKean dress Family/Clan Tartan"
-  url: "/setts/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackean-dress-family-clan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKBKWKBKGKGKR](/stripes/kgkgkbkwkbkgkgkr/).
 
 Part of the [MacKean dress Family/Clan](/tartans/m/ma/mackean-dress-family-clan/) tartan — the named design grouping this sett with its other cloths.

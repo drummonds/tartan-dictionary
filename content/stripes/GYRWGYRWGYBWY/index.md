@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/">Morgan Jocelyn . . . (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/"><img src="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/sett.png" alt="Morgan Jocelyn . . . (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/morgan-jocelyn/">Morgan Jocelyn . . .</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morgan-jocelyn/"><img src="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/sett.png" alt="Morgan Jocelyn . . . sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/">Ontario</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/"><img src="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/sett.png" alt="Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4~x2/">Ontario Ensign of.. District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4~x2/"><img src="/variants/s15/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4~x2/sett.png" alt="Ontario Ensign of.. District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/on/ontario/">Ontario</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/on/ontario/"><img src="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/sett.png" alt="Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/on/ontario-ensign-of/">Ontario, Ensign of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/on/ontario-ensign-of/"><img src="/variants/s15/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4~x2/sett.png" alt="Ontario, Ensign of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

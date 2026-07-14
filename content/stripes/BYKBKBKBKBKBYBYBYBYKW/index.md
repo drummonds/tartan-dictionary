@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/">New Star (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/"><img src="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/sett.png" alt="New Star (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-star-2/">New Star</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-star-2/"><img src="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/sett.png" alt="New Star sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

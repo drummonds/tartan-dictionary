@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/">Al Suwaidi of Abu Dhabi (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><img src="/variants/s8/w2r7g7k7r2g2k2w1~x5/sett.png" alt="Al Suwaidi of Abu Dhabi (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/al-suwaidi-of-abu-dhabi/">Al Suwaidi of Abu Dhabi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/al-suwaidi-of-abu-dhabi/"><img src="/variants/s8/w2r7g7k7r2g2k2w1~x5/sett.png" alt="Al Suwaidi of Abu Dhabi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

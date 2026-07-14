@@ -12,10 +12,10 @@ crumbs:
 - name: "Martin"
   url: "/tartans/m/ma/martin/"
 - name: "Martin Family Tartan"
-  url: "/setts/y8g16k6g6k6g6k16dr21k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y8g16k6g6k6g6k16dr21k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/martin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGKGKBK](/stripes/ggkgkgkbk/).
 
 Part of the [Martin](/tartans/m/ma/martin/) tartan — the named design grouping this sett with its other cloths.

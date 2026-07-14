@@ -12,10 +12,10 @@ crumbs:
 - name: "Graham of Menteith"
   url: "/tartans/g/gr/graham-of-menteith/"
 - name: "Graham of Menteith"
-  url: "/setts/g8w2g1k12db12k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8w2g1k12db12k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/graham-of-menteith/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKBK](/stripes/gwgkbk/).
 
 Part of the [Graham of Menteith](/tartans/g/gr/graham-of-menteith/) tartan — the named design grouping this sett with its other cloths.

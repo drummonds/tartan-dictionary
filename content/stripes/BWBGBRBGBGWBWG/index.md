@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/">Freiburg</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/"><img src="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/sett.png" alt="Freiburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/freiburg/">Freiburg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/freiburg/"><img src="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/sett.png" alt="Freiburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

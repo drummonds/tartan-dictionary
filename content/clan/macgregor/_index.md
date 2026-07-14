@@ -7,8 +7,6 @@ crumbs:
 ---
 **Territory:** dispersed (Balquhidder) · **1745 strength:** 500 men
 
-Bold red-and-black check; specimen in Highland Society of London collection certified by Sir John MacGregor Murray, 1815-16.
-
 ## Tartan
 
 <a class="tartan" href="/variants/s2/k1r1~x100/"><img src="/variants/s2/k1r1~x100/sett.png" alt="MacGregor - 1816 (Red &amp; Black)" width="240"><br>MacGregor - 1816 (Red & Black)</a>

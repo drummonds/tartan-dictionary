@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k22ly4k4g4k16r36y3r6~x2/">Dean Brae</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k22ly4k4g4k16r36y3r6~x2/"><img src="/variants/s8/k22ly4k4g4k16r36y3r6~x2/sett.png" alt="Dean Brae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dean-brae/">Dean Brae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/dean-brae/"><img src="/variants/s8/k22ly4k4g4k16r36y3r6~x2/sett.png" alt="Dean Brae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

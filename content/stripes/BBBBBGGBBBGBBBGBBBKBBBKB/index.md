@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23~x2~dbi1604274-dg1104144-g2508144-db0805267/">Hebrides Inner</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23~x2~dbi1604274-dg1104144-g2508144-db0805267/"><img src="/variants/s24/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23~x2~dbi1604274-dg1104144-g2508144-db0805267/sett.png" alt="Hebrides Inner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebrides-inner/">Hebrides Inner</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebrides-inner/"><img src="/variants/s24/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23~x2~dbi1604274-dg1104144-g2508144-db0805267/sett.png" alt="Hebrides Inner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

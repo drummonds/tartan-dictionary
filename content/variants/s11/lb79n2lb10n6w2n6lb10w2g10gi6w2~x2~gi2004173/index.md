@@ -12,10 +12,10 @@ crumbs:
 - name: "Dallas"
   url: "/tartans/d/da/dallas/"
 - name: "Dallas Family Tartan"
-  url: "/setts/lb79n2lb10n6w2n6lb10w2g10gi6w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb79n2lb10n6w2n6lb10w2g10gi6w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dallas/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWBWWGGW](/stripes/wbwbwbwwggw/).
 
 Part of the [Dallas](/tartans/d/da/dallas/) tartan — the named design grouping this sett with its other cloths.

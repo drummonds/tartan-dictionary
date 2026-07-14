@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/">Inches, of Perth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/"><img src="/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/sett.png" alt="Inches, of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inches-of-perth-2/">Inches, of Perth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inches-of-perth-2/"><img src="/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/sett.png" alt="Inches, of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Strang"
   url: "/tartans/s/st/strang/"
 - name: "Strang (Personal)"
-  url: "/setts/r36g18r4g6k1lr2k1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r36g18r4g6k1lr2k1g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGKYKGKYKGRGR](/stripes/grgkykgkykgrgr/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/strang/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKYKGRGR](/stripes/gkykgrgr/).
 
 Part of the [Strang](/tartans/s/st/strang/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3975](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3975)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3975](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — Strang (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3975">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #B00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #C8C8C8"></span><br><em>Designed by Phil Smith 1998 for the Richard Strang family of Edinburgh. A 'double white stripe MacGregor.' Count, pivots full: R/72 G36 R8 G12 K2 W4 K2 G/8.</em></li>
-<li>1998 — Strang (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4168">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #B00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #C8C8C8"></span><br><em>Designed by Phil Smith 1998 for the Richard Strang family of Edinburgh. A "double white stripe MacGregor." Count, pivots full: R/72 G36 R8 G12 K2 W4 K2 G/8.</em></li>
+<li>1998 — Strang (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4168/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #B00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #C8C8C8"></span><br><em>Designed by Phil Smith 1998 for the Richard Strang family of Edinburgh. A "double white stripe MacGregor." Count, pivots full: R/72 G36 R8 G12 K2 W4 K2 G/8.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4168
 
 ## Thread count
-R/72 G36 R8 G12 K2 LR4 K2 G4 K2 LR4 K2 G12 R8 G/36
+R/72 G36 R8 G12 K2 LR4 K2 G/4
 
-One full sett is **300 threads**.
+One full sett is **204 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/72 G36 R8 G12 K2 LR4 K2 G4 K2 LR4 K2 G12 R8 G/36 — 300 threads; it folds to the canonical 204-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **300 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/72 G36 R8 G12 K2 LR4 K2 G4 K2 LR4 K2 G12 R8 G/36 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/72 G36 R8 G12 K2 LR4 K2 G/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

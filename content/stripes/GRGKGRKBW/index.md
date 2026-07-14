@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/">Manson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><img src="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/sett.png" alt="Manson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/dg1r11dg3k4dg4r1k2db11w1~x2/">Manson (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg1r11dg3k4dg4r1k2db11w1~x2/"><img src="/variants/s9/dg1r11dg3k4dg4r1k2db11w1~x2/sett.png" alt="Manson (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manson-2/">Manson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manson-2/"><img src="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/sett.png" alt="Manson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/">Burnett of Leys Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/"><img src="/variants/s8/r2g6y1g6r3g2r16lb1~x4/sett.png" alt="Burnett of Leys Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/">Burnett of Powis (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><img src="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/sett.png" alt="Burnett of Powis (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burnett-of-leys-2/">Burnett of Leys</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burnett-of-leys-2/"><img src="/variants/s8/r2g6y1g6r3g2r16lb1~x4/sett.png" alt="Burnett of Leys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burnett-of-powis/">Burnett of Powis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burnett-of-powis/"><img src="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/sett.png" alt="Burnett of Powis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

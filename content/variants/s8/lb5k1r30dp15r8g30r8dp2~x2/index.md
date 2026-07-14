@@ -11,23 +11,23 @@ crumbs:
   url: "/families/shaw-of-tordarroch/"
 - name: "Shaw of Tordarroch"
   url: "/tartans/s/sh/shaw-of-tordarroch-2/"
-- name: "Shaw of Tordarroch Clan Tartan"
-  url: "/setts/lb5k1r30dp15r8g30r8dp2/"
+- name: "Shaw Red of Tordarroch Dress (Clan 2"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb5k1r30dp15r8g30r8dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shaw-of-tordarroch-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRKW](/stripes/brgrbrkw/).
 
 Part of the [Shaw of Tordarroch](/tartans/s/sh/shaw-of-tordarroch-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=352](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=352)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/352/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/352/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1971 — Shaw Red of Tordarroch Dress (Clan 2 (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=352">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Recorded in Lord Lyon Book - LCB 23 on 7th December 1971. Checked against Sindex May 2002. Sindex states "Designed by D.C.Stewart 1969 for Major C J Shaw of Tordarroch MBE as a proposed replacement for the existing Shaw derived from an erroneous sett portrayed by R R McIan of Farquhar Shaw, the Black Watch mutineer. By permission of the Colonel of the Black Watch, the erroneous sett will be retained for use by the Clan in memory of Cpl Farquhar Shaw. Sample in STA Johnston Collection. Sample in STA Dalgety Collection.</em></li>
+<li>1971 — Shaw Red of Tordarroch Dress (Clan 2 (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/352/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Recorded in Lord Lyon Book - LCB 23 on 7th December 1971. Checked against Sindex May 2002. Sindex states "Designed by D.C.Stewart 1969 for Major C J Shaw of Tordarroch MBE as a proposed replacement for the existing Shaw derived from an erroneous sett portrayed by R R McIan of Farquhar Shaw, the Black Watch mutineer. By permission of the Colonel of the Black Watch, the erroneous sett will be retained for use by the Clan in memory of Cpl Farquhar Shaw. Sample in STA Johnston Collection. Sample in STA Dalgety Collection.</em></li>
 <li>undated — Shaw of Tordarroch (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5480B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5480B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #800080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=352](htt
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

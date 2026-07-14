@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/">Colours of Hope</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/"><img src="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/sett.png" alt="Colours of Hope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/colours-of-hope/">Colours of Hope</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/colours-of-hope/"><img src="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/sett.png" alt="Colours of Hope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

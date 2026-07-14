@@ -8,10 +8,10 @@ crumbs:
 - name: "Crawford Arisaid"
   url: "/tartans/c/cr/crawford-arisaid/"
 - name: "Crawford Arisaid (Dance)"
-  url: "/setts/dr6w1dr2w25dr3g12dr3g12dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr6w1dr2w25dr3g12dr3g12dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crawford-arisaid/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWBWB](/stripes/bgbgbwbwb/).
 
 Part of the [Crawford Arisaid](/tartans/c/cr/crawford-arisaid/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=800](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1985 — Crawford Arisaid (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=800">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>From JCT files; 'for Mrs. Joan Crawford Carlson for her dancer daughter.' ca.1985.</em></li>
-<li>1985 — Crawford Arisaid (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4608">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>From JCT files; "for Mrs. Joan Crawford Carlson for her dancer daughter." ca..1985</em></li>
+<li>1985 — Crawford Arisaid (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4608/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>From JCT files; "for Mrs. Joan Crawford Carlson for her dancer daughter." ca..1985</em></li>
 </ul>
 </details>
 

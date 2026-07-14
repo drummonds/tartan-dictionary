@@ -5,15 +5,13 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Clan Munster"
-  url: "/clan/munster/"
 - name: "Munster Ancestry"
   url: "/tartans/m/mu/munster-ancestry/"
 - name: "Munster Ancestry"
-  url: "/setts/n4db48n21db14dy3db6n1y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n4db48n21db14dy3db6n1y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/munster-ancestry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBBG](/stripes/bbbbgbbg/).
 
 Part of the [Munster Ancestry](/tartans/m/mu/munster-ancestry/) tartan — the named design grouping this sett with its other cloths.

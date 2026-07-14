@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/">New Mexico District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/"><img src="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/sett.png" alt="New Mexico District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-mexico-2/">New Mexico</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-mexico-2/"><img src="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/sett.png" alt="New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "MacKay, Marled"
   url: "/tartans/m/ma/mackay-marled/"
 - name: "MacKay, Marled"
-  url: "/setts/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackay-marled/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbk/).
 
 Part of the [MacKay, Marled](/tartans/m/ma/mackay-marled/) tartan — the named design grouping this sett with its other cloths.

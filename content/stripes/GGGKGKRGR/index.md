@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/">Grant, Champion</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/"><img src="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/sett.png" alt="Grant, Champion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grant-champion/">Grant, Champion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-champion/"><img src="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/sett.png" alt="Grant, Champion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

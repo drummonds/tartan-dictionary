@@ -8,10 +8,10 @@ crumbs:
 - name: "McPartlin"
   url: "/tartans/m/mc/mcpartlin/"
 - name: "McPartlin (Personal)"
-  url: "/setts/k27w29k5w14r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k27w29k5w14r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcpartlin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWR](/stripes/kwkwr/).
 
 Part of the [McPartlin](/tartans/m/mc/mcpartlin/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2901](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/06/2007 — McPartlin (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2901">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F8E8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed as a personal tartan for Anthony McPartlin (Ant of TV's Ant & Dec) by Stewart Robertson and Kenny Dalgliesh. MacFarlane black and white variant with the red from St George's cross. Black and white also mark Ant's support of Newcastle United. Weaver D C Dalgliesh. Woven sample.</em></li>
-<li>June 2007 — McPartlin (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7244">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F8E8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed as a personal tartan for Anthony McPartlin (Ant of TV's Ant & Dec) by Stewart Robertson and Kenny Dalgliesh. MacFarlane black and white variant with the red from St George's cross. Black and white also mark Ant's support of Newcastle United. Weaver D C Dalgliesh. Woven sample.</em></li>
+<li>June 2007 — McPartlin (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7244/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F8E8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed as a personal tartan for Anthony McPartlin (Ant of TV's Ant & Dec) by Stewart Robertson and Kenny Dalgliesh. MacFarlane black and white variant with the red from St George's cross. Black and white also mark Ant's support of Newcastle United. Weaver D C Dalgliesh. Woven sample.</em></li>
 </ul>
 </details>
 

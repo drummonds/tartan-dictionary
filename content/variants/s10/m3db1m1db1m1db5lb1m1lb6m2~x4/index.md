@@ -8,10 +8,10 @@ crumbs:
 - name: "Kalamazoo Caledonians"
   url: "/tartans/k/ka/kalamazoo-caledonians/"
 - name: "Kalamazoo Caledonians"
-  url: "/setts/m3db1m1db1m1db5lb1m1lb6m2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/m3db1m1db1m1db5lb1m1lb6m2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ka/kalamazoo-caledonians/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBWRWR](/stripes/rbrbrbwrwr/).
 
 Part of the [Kalamazoo Caledonians](/tartans/k/ka/kalamazoo-caledonians/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1927](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Kalamazoo Caledonians (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1927">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed by Kati Reeder Meek for the Kalamazoo (Michigan) Caledonians (Scottish Cultural Club) in 1996.</em></li>
-<li>1996 — Kalamazoo Caledonians (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5323">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed by Kati Reeder Meek for the Kalamazoo (Michigan) Caledonians (Scottish Cultural Club) in 1996.</em></li>
+<li>1996 — Kalamazoo Caledonians (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5323/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed by Kati Reeder Meek for the Kalamazoo (Michigan) Caledonians (Scottish Cultural Club) in 1996.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/">Crieff Turquoise (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/"><img src="/variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/sett.png" alt="Crieff Turquoise (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crieff-turquoise/">Crieff Turquoise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crieff-turquoise/"><img src="/variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/sett.png" alt="Crieff Turquoise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

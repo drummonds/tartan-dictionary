@@ -10,10 +10,10 @@ crumbs:
 - name: "Virginia Tech"
   url: "/tartans/v/vi/virginia-tech/"
 - name: "Virginia Tech"
-  url: "/setts/dr6lo2dr32lo15dr2lo3dr2lo6w3db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr6lo2dr32lo15dr2lo3dr2lo6w3db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vi/virginia-tech/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWYBYBYBYB](/stripes/bwybybybyb/).
 
 Part of the [Virginia Tech](/tartans/v/vi/virginia-tech/) tartan — the named design grouping this sett with its other cloths.

@@ -8,7 +8,13 @@ crumbs:
   url: "/clan/graham/"
 - name: "Graham of Menteith"
   url: "/families/graham-of-menteith/"
+aliases:
+- "/setts/g8lb1g1k6db6k1/"
+- "/setts/g16lb2g1k12db12k1/"
+- "/setts/g18lb2g4k14db12k3/"
+- "/setts/g8w2g1k12db12k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwgkbk/">GWGKBK</a></nav>
 A tartan of the [Graham of Menteith](/families/graham-of-menteith/) family.
 Its design is pattern [GWGKBK](/stripes/gwgkbk/) — the page of every tartan sharing this colour sequence.
 
@@ -20,14 +26,14 @@ The **Graham of Menteith** tartan groups 4 setts — the same named design recor
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g8lb1g1k6db6k1/">Graham of Menteith</a> ★</td><td><code>G/32 LB4 G4 K24 DB24 K/4</code></td><td>148</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8lb1g1k6db6k1/"><img src="/variants/s6/g8lb1g1k6db6k1~x4/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g16lb2g1k12db12k1/">Graham of Menteith</a></td><td><code>G/32 LB4 G2 K24 DB24 K/2</code></td><td>142</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g16lb2g1k12db12k1/"><img src="/variants/s6/g16lb2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g18lb2g4k14db12k3/">Graham of Menteith</a></td><td><code>G/36 LB4 G8 K28 DB24 K/6</code></td><td>170</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g18lb2g4k14db12k3/"><img src="/variants/s6/g18lb2g4k14db12k3~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g8w2g1k12db12k1/">Graham of Menteith</a></td><td><code>G/16 W4 G2 K24 DB24 K/2</code></td><td>126</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8w2g1k12db12k1/"><img src="/variants/s6/g8w2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g8lb1g1k6db6k1~x4/">Graham of Menteith</a> ★</td><td><code>G/32 LB4 G4 K24 DB24 K/4</code></td><td>148</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><img src="/variants/s6/g8lb1g1k6db6k1~x4/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g16lb2g1k12db12k1~x2/">Graham of Menteith</a></td><td><code>G/32 LB4 G2 K24 DB24 K/2</code></td><td>142</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g16lb2g1k12db12k1~x2/"><img src="/variants/s6/g16lb2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g18lb2g4k14db12k3~x2/">Graham of Menteith</a></td><td><code>G/36 LB4 G8 K28 DB24 K/6</code></td><td>170</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g18lb2g4k14db12k3~x2/"><img src="/variants/s6/g18lb2g4k14db12k3~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g8w2g1k12db12k1~x2/">Graham of Menteith</a></td><td><code>G/16 W4 G2 K24 DB24 K/2</code></td><td>126</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g8w2g1k12db12k1~x2/"><img src="/variants/s6/g8w2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -40,6 +46,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g52lb7g9k35db35k7/"><circle cx="167.8" cy="215.5" r="4" fill="#3465a4"><title>Redland</title></circle></a><a href="/variants/s6/g9lb1g6k7db7k1~x4/"><circle cx="193.2" cy="221.2" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="148.9" cy="220.5" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="135.0" cy="184.1" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="173.0" cy="207.9" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="136.2" cy="197.5" r="4" fill="#3465a4"><title>MacLean, Donald</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="180.8" cy="202.6" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="178.9" cy="201.9" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="182.6" cy="202.6" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="184.7" cy="198.8" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><circle cx="163.5" cy="210.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g52lb7g9k35db35k7/"><circle cx="168.1" cy="215.4" r="4" fill="#3465a4"><title>Redland</title></circle></a><a href="/variants/s6/g9lb1g6k7db7k1~x4/"><circle cx="193.7" cy="221.1" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="149.3" cy="220.4" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="135.3" cy="183.9" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="173.4" cy="207.9" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="136.4" cy="197.3" r="4" fill="#3465a4"><title>MacLean, Donald</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="181.2" cy="202.5" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="179.4" cy="201.8" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="183.0" cy="202.6" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="185.1" cy="198.7" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><circle cx="163.9" cy="209.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

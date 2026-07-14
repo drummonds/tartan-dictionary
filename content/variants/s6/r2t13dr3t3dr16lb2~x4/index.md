@@ -8,10 +8,10 @@ crumbs:
 - name: "MacArthur-Fox"
   url: "/tartans/m/ma/macarthur-fox-4/"
 - name: "MacArthur-Fox Blue (Personal)"
-  url: "/setts/r2t13dr3t3dr16lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2t13dr3t3dr16lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macarthur-fox-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBBW](/stripes/rbbbbw/).
 
 Part of the [MacArthur-Fox](/tartans/m/ma/macarthur-fox-4/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2283](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1997 — MacArthur-Fox Blue (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2283">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><br><em>Designed by J MacArthur-Fox, who is credited with the basic 'MacArthur-Fox' tartan. Private family tartan.</em></li>
-<li>1997 — MacArthur-Fox Blue (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=459">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><br><em>From Edinburgh Woollen Mills computer programme. Designed by J MacArthur-Fox who is credited with the basic 'MacArthur-Fox' tartan. Some question over the R8 - could be R16.</em></li>
+<li>1997 — MacArthur-Fox Blue (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/459/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><br><em>From Edinburgh Woollen Mills computer programme. Designed by J MacArthur-Fox who is credited with the basic 'MacArthur-Fox' tartan. Some question over the R8 - could be R16.</em></li>
 </ul>
 </details>
 

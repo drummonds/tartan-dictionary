@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/k2lr6y2lr2y2lr19db2g2db2lr2dr4k2dr11g2dr2g2dr11g2y2~x2/">Harmon Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/k2lr6y2lr2y2lr19db2g2db2lr2dr4k2dr11g2dr2g2dr11g2y2~x2/"><img src="/variants/s19/k2lr6y2lr2y2lr19db2g2db2lr2dr4k2dr11g2dr2g2dr11g2y2~x2/sett.png" alt="Harmon Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s19/k2lr6y2lr2y2lr19db2dg2db2lr2dr4k2dr11dg2dr2dg2dr11dg2y2~x2~db1406275-dg1806142/">Harmon Dress Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/k2lr6y2lr2y2lr19db2dg2db2lr2dr4k2dr11dg2dr2dg2dr11dg2y2~x2~db1406275-dg1806142/"><img src="/variants/s19/k2lr6y2lr2y2lr19db2dg2db2lr2dr4k2dr11dg2dr2dg2dr11dg2y2~x2~db1406275-dg1806142/sett.png" alt="Harmon Dress Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harmon-dress/">Harmon Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harmon-dress/"><img src="/variants/s19/k2lr6y2lr2y2lr19db2dg2db2lr2dr4k2dr11dg2dr2dg2dr11dg2y2~x2~db1406275-dg1806142/sett.png" alt="Harmon Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

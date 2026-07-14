@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db9r24g24k24db24y2db9/">Dundas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db9r24g24k24db24y2db9/"><img src="/variants/s7/db9r24g24k24db24y2db9/sett.png" alt="Dundas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dundas-2/">Dundas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dundas-2/"><img src="/variants/s7/db9r24g24k24db24y2db9/sett.png" alt="Dundas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

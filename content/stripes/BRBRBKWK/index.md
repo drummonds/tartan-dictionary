@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/">Murdoch Celebration (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><img src="/variants/s8/db30r2db2r4db9k26w2k4~x2/sett.png" alt="Murdoch Celebration (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murdoch-celebration/">Murdoch Celebration</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murdoch-celebration/"><img src="/variants/s8/db30r2db2r4db9k26w2k4~x2/sett.png" alt="Murdoch Celebration sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

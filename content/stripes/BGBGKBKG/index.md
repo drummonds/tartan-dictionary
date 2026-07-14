@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr2dg13dr2dg13k13db30k1y2~x2/">Chan (Name?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr2dg13dr2dg13k13db30k1y2~x2/"><img src="/variants/s8/dr2dg13dr2dg13k13db30k1y2~x2/sett.png" alt="Chan (Name?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chan/">Chan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chan/"><img src="/variants/s8/dr2dg13dr2dg13k13db30k1y2~x2/sett.png" alt="Chan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

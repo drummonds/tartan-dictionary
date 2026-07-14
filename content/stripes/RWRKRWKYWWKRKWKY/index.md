@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/">Puccini's Madama Butterfly</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/"><img src="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/sett.png" alt="Puccini's Madama Butterfly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pu/puccini-s-madama-butterfly/">Puccini's Madama Butterfly</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pu/puccini-s-madama-butterfly/"><img src="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/sett.png" alt="Puccini's Madama Butterfly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

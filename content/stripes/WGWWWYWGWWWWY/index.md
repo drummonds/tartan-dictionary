@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb14dg4w4lb1w2ly2w2dg12lb4w2lb2w2ly1~x4/">Entrelacs</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb14dg4w4lb1w2ly2w2dg12lb4w2lb2w2ly1~x4/"><img src="/variants/s13/lb14dg4w4lb1w2ly2w2dg12lb4w2lb2w2ly1~x4/sett.png" alt="Entrelacs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/en/entrelacs/">Entrelacs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/en/entrelacs/"><img src="/variants/s13/lb14dg4w4lb1w2ly2w2dg12lb4w2lb2w2ly1~x4/sett.png" alt="Entrelacs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

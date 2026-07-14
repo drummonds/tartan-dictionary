@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lt13r2b13r2b70lt3~x2~lt3304230-b1511266/">Agua</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lt13r2b13r2b70lt3~x2~lt3304230-b1511266/"><img src="/variants/s6/lt13r2b13r2b70lt3~x2~lt3304230-b1511266/sett.png" alt="Agua sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ag/agua/">Agua</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ag/agua/"><img src="/variants/s6/lt13r2b13r2b70lt3~x2~lt3304230-b1511266/sett.png" alt="Agua sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/w1dp1o7n4o1w1~x4~o2500000-n1900000/">Lochnagar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w1dp1o7n4o1w1~x4~o2500000-n1900000/"><img src="/variants/s6/w1dp1o7n4o1w1~x4~o2500000-n1900000/sett.png" alt="Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochnagar-3/">Lochnagar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochnagar-3/"><img src="/variants/s6/w1dp1o7n4o1w1~x4~o2500000-n1900000/sett.png" alt="Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/">Martin's Own</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><img src="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/sett.png" alt="Martin's Own sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/martin-s-own/">Martin's Own</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/martin-s-own/"><img src="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/sett.png" alt="Martin's Own sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

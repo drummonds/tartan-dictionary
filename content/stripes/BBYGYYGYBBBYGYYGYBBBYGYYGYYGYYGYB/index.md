@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/">Equorian Olympic Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/"><img src="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/sett.png" alt="Equorian Olympic Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/eq/equorian-olympic-commemorative/">Equorian Olympic Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eq/equorian-olympic-commemorative/"><img src="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/sett.png" alt="Equorian Olympic Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

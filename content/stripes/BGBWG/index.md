@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dg30w8b32y1b8~x2/">Boroughmuir</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dg30w8b32y1b8~x2/"><img src="/variants/s5/dg30w8b32y1b8~x2/sett.png" alt="Boroughmuir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/g30w8db32y1db8~x2/">Wimbledon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g30w8db32y1db8~x2/"><img src="/variants/s5/g30w8db32y1db8~x2/sett.png" alt="Wimbledon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boroughmuir-2/">Boroughmuir</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boroughmuir-2/"><img src="/variants/s5/dg30w8b32y1b8~x2/sett.png" alt="Boroughmuir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wimbledon/">Wimbledon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wimbledon/"><img src="/variants/s5/g30w8db32y1db8~x2/sett.png" alt="Wimbledon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

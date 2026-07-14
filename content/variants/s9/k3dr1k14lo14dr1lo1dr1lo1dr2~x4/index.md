@@ -8,10 +8,10 @@ crumbs:
 - name: "Brecheen"
   url: "/tartans/b/br/brecheen/"
 - name: "Brecheen"
-  url: "/setts/k3dr1k14lo14dr1lo1dr1lo1dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3dr1k14lo14dr1lo1dr1lo1dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brecheen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBYKBK](/stripes/bybybykbk/).
 
 Part of the [Brecheen](/tartans/b/br/brecheen/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5078](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/1996 — Brecheen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5078">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C88C00"></span><br><em>A colour modification of the Angus tartan, designed by Glen D Brecheen of Monteverde, Florida in November 1996.</em></li>
-<li>1996 — Brecheen (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3727">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8983C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #B8983C"></span><br><em>A colour modification of Angus designed by Glen D. Brecheen of Monteverde, Florida in November 1996. Sample in STA Johnston Collection.</em></li>
+<li>1996 — Brecheen (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3727/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8983C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #B8983C"></span><br><em>A colour modification of Angus designed by Glen D. Brecheen of Monteverde, Florida in November 1996. Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

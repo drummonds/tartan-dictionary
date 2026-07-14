@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/y1k8r8w1/">Connel (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y1k8r8w1/"><img src="/variants/s4/y1k8r8w1~x2/sett.png" alt="Connel (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/y6k3r40w3~x2/">Masai Shuka 18 (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/y6k3r40w3~x2/"><img src="/variants/s4/y6k3r40w3~x2/sett.png" alt="Masai Shuka 18 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connel/">Connel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connel/"><img src="/variants/s4/y1k8r8w1~x2/sett.png" alt="Connel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/masai-shuka-18/">Masai Shuka 18</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/masai-shuka-18/"><img src="/variants/s4/y6k3r40w3~x2/sett.png" alt="Masai Shuka 18 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

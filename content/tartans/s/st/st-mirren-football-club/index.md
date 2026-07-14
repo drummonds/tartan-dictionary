@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k7w2k21r2k34w5k3w2k7/"
 ---
-Its design is pattern [KWKRKWKWKWKWKRKW](/stripes/kwkrkwkwkwkwkrkw/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwkrkwkwk/">KWKRKWKWK</a></nav>
+Its design is pattern [KWKRKWKWK](/stripes/kwkrkwkwk/) — the page of every tartan sharing this colour sequence.
 
 The **St. Mirren Football Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k7w2k21r2k34w5k3w2k7/">St. Mirren Football Club</a></td><td><code>K/14 W4 K42 R4 K68 W10 K6 W4 K14 W4 K6 W10 K68 R4 K42 W/4</code></td><td>304</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k7w2k21r2k34w5k3w2k7/"><img src="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/sett.png" alt="St. Mirren Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/">St. Mirren Football Club</a></td><td><code>K/14 W4 K42 R4 K68 W10 K6 W4 K/14</code></td><td>304</td><td>2001</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/"><img src="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/sett.png" alt="St. Mirren Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/"><circle cx="435.6" cy="174.8" r="4" fill="#3465a4"><title>Laois Irish County</title></circle></a><a href="/variants/s10/k85r6k1w3k3w3k1r6k6y1~x2/"><circle cx="529.5" cy="14.0" r="4" fill="#3465a4"><title>Ambassador</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="397.5" cy="94.5" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><circle cx="461.1" cy="140.9" r="4" fill="#3465a4"><title>Renwick</title></circle></a><a href="/variants/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="465.4" cy="76.5" r="4" fill="#3465a4"><title>Volkswagen Black Trim</title></circle></a><a href="/variants/s9/k10dp3k6g1k6g1k6g2k6~x2/"><circle cx="464.1" cy="186.9" r="4" fill="#3465a4"><title>GOLF</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="397.9" cy="113.2" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s10/k18lb9k18lr2k2lr2k18ly9k18lr2/"><circle cx="346.4" cy="157.5" r="4" fill="#3465a4"><title>London Fog Black 2</title></circle></a><a href="/variants/s12/k5r2k30lb8w1k9w2k9w1lb8k30r3~x2/"><circle cx="406.7" cy="68.8" r="4" fill="#3465a4"><title>Glasgow Caledonian University</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="454.6" cy="94.7" r="4" fill="#3465a4"><title>Laird Abdullah</title></circle></a><circle cx="500.5" cy="104.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/"><circle cx="436.9" cy="175.3" r="4" fill="#3465a4"><title>Laois Irish County</title></circle></a><a href="/variants/s10/k85r6k1w3k3w3k1r6k6y1~x2/"><circle cx="531.5" cy="14.0" r="4" fill="#3465a4"><title>Ambassador</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="398.9" cy="94.8" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><circle cx="462.6" cy="141.4" r="4" fill="#3465a4"><title>Renwick</title></circle></a><a href="/variants/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="467.0" cy="76.9" r="4" fill="#3465a4"><title>Volkswagen Black Trim</title></circle></a><a href="/variants/s9/k10dp3k6g1k6g1k6g2k6~x2/"><circle cx="465.5" cy="187.4" r="4" fill="#3465a4"><title>GOLF</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="399.2" cy="113.5" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s10/k18lb9k18lr2k2lr2k18ly9k18lr2/"><circle cx="347.6" cy="157.7" r="4" fill="#3465a4"><title>London Fog Black 2</title></circle></a><a href="/variants/s12/k5r2k30lb8w1k9w2k9w1lb8k30r3~x2/"><circle cx="408.2" cy="69.0" r="4" fill="#3465a4"><title>Glasgow Caledonian University</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="456.1" cy="95.1" r="4" fill="#3465a4"><title>Laird Abdullah</title></circle></a><circle cx="502.2" cy="105.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

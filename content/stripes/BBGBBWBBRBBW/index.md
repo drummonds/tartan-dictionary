@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4~x2~dbi1604274-db0805267/">MacKerrell, of Hillhouse hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4~x2~dbi1604274-db0805267/"><img src="/variants/s12/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4~x2~dbi1604274-db0805267/sett.png" alt="MacKerrell, of Hillhouse hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackerrell-of-hillhouse-hunting-2/">MacKerrell, of Hillhouse hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackerrell-of-hillhouse-hunting-2/"><img src="/variants/s12/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4~x2~dbi1604274-db0805267/sett.png" alt="MacKerrell, of Hillhouse hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

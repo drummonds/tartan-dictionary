@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/">Royal College of Physicians Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/"><img src="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/sett.png" alt="Royal College of Physicians Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-college-of-physicians-2/">Royal College of Physicians</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-college-of-physicians-2/"><img src="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/sett.png" alt="Royal College of Physicians sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

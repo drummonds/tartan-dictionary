@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/">Heddle Clan/Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/"><img src="/variants/s24/dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/sett.png" alt="Heddle Clan/Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heddle/">Heddle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heddle/"><img src="/variants/s24/dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/sett.png" alt="Heddle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k43y3b1w1db1y3db25r2~x2/">Royal Yaght Britannia, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k43y3b1w1db1y3db25r2~x2/"><img src="/variants/s8/k43y3b1w1db1y3db25r2~x2/sett.png" alt="Royal Yaght Britannia, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-yaght-britannia-the/">Royal Yaght Britannia, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-yaght-britannia-the/"><img src="/variants/s8/k43y3b1w1db1y3db25r2~x2/sett.png" alt="Royal Yaght Britannia, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

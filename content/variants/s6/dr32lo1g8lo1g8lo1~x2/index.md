@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified"
-  url: "/tartans/u/un/unidentified-59/"
+  url: "/tartans/u/un/unidentified-64/"
 - name: "Unidentified #62"
-  url: "/setts/dr32lo1g8lo1g8lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr32lo1g8lo1g8lo1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BYGYGYGYGY](/stripes/bygygygygy/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-64/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYGYGY](/stripes/bygygy/).
 
-Part of the [Unidentified](/tartans/u/un/unidentified-59/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified](/tartans/u/un/unidentified-64/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4263](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4263)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4672
 
 ## Thread count
-DR/64 LO2 G16 LO2 G16 LO2 G16 LO2 G16 LO/2
+DR/64 LO2 G16 LO2 G16 LO/2
 
-One full sett is **210 threads**.
+One full sett is **138 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/64 LO2 G16 LO2 G16 LO2 G16 LO2 G16 LO/2 — 210 threads; it folds to the canonical 138-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **210 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/64 LO2 G16 LO2 G16 LO2 G16 LO2 G16 LO/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/64 LO2 G16 LO2 G16 LO/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

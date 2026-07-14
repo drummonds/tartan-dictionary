@@ -10,10 +10,10 @@ crumbs:
 - name: "Little, Arisaid"
   url: "/tartans/l/li/little-arisaid/"
 - name: "Little, Arisaid"
-  url: "/setts/k5w4k4r4k4w7k2w7k8y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5w4k4r4k4w7k2w7k8y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/little-arisaid/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKWKRKWK](/stripes/gkwkwkrkwk/).
 
 Part of the [Little, Arisaid](/tartans/l/li/little-arisaid/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2129](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Little, Arisaid (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2129">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A02828;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DC #A02828"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCB404;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FCB404"></span><br><em>Designed by Sandy Frediani, CA, USA and based on the original 1991 Little tartan.</em></li>
-<li>2000 — Little, Arisaid (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4137">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A02828;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DC #A02828"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCB404;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FCB404"></span><br><em>Designed by Sandy Frediani, CA, USA and based on the original 1991 Little tartan.</em></li>
+<li>2000 — Little, Arisaid (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4137/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A02828;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DC #A02828"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCB404;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FCB404"></span><br><em>Designed by Sandy Frediani, CA, USA and based on the original 1991 Little tartan.</em></li>
 </ul>
 </details>
 

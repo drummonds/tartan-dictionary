@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/">Immanuel Presbyterian Church (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><img src="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/sett.png" alt="Immanuel Presbyterian Church (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/im/immanuel-presbyterian-church/">Immanuel Presbyterian Church</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/im/immanuel-presbyterian-church/"><img src="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/sett.png" alt="Immanuel Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

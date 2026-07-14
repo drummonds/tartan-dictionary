@@ -8,10 +8,10 @@ crumbs:
 - name: "Crombie House Check"
   url: "/tartans/c/cr/crombie-house-check-3/"
 - name: "Crombie House Check"
-  url: "/setts/k19o7k26o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k19o7k26o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crombie-house-check-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKR](/stripes/krkr/).
 
 Part of the [Crombie House Check](/tartans/c/cr/crombie-house-check-3/) tartan — the named design grouping this sett with its other cloths.

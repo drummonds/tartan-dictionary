@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/">Strathclyde Fire Services (Corporate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><img src="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/sett.png" alt="Strathclyde Fire Services (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathclyde-fire-services-corporate/">Strathclyde Fire Services (Corporate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathclyde-fire-services-corporate/"><img src="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/sett.png" alt="Strathclyde Fire Services (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

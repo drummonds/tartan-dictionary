@@ -10,10 +10,10 @@ crumbs:
 - name: "Glasgow Caledonian University"
   url: "/tartans/g/gl/glasgow-caledonian-university/"
 - name: "Glasgow Caledonian University"
-  url: "/setts/k5r2k30lb8w1k9w2k9w1lb8k30r3k30lb8w1k9w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5r2k30lb8w1k9w2k9w1lb8k30r3k30lb8w1k9w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glasgow-caledonian-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWWKWKWWKRKWWKW](/stripes/krkwwkwkwwkrkwwkw/).
 
 Part of the [Glasgow Caledonian University](/tartans/g/gl/glasgow-caledonian-university/) tartan — the named design grouping this sett with its other cloths.

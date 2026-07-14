@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/oi8k2g10dp30g30dg55k4o6~oi2404317-g1803114-dg1806142-o2206047/">Aberuchill District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/oi8k2g10dp30g30dg55k4o6~oi2404317-g1803114-dg1806142-o2206047/"><img src="/variants/s8/oi8k2g10dp30g30dg55k4o6~oi2404317-g1803114-dg1806142-o2206047/sett.png" alt="Aberuchill District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberuchill/">Aberuchill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberuchill/"><img src="/variants/s8/oi8k2g10dp30g30dg55k4o6~oi2404317-g1803114-dg1806142-o2206047/sett.png" alt="Aberuchill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

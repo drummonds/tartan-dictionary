@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwgwgwgwgggwgwgwgw/">GWGWGWGWGGGWGWGWGW</a></nav>
 Its design is pattern [GWGWGWGWGGGWGWGWGW](/stripes/gwgwgwgwgggwgwgwgw/) — the page of every tartan sharing this colour sequence.
 
 The **St. Patrick** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **St. Patrick** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4/">St. Patrick</a></td><td><code>W/26 DG6 W8 DG6 W6 DG80 W6 DG4 DY8 DG4 W6 DG80 W6 DG6 W8 DG6 W26 DG/8</code></td><td>566</td><td>1971</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4/"><img src="/variants/s18/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4~x2~dg1605139/sett.png" alt="St. Patrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4~x2~dg1605139/">St. Patrick</a></td><td><code>W/26 DG6 W8 DG6 W6 DG80 W6 DG4 DY8 DG4 W6 DG80 W6 DG6 W8 DG6 W26 DG/8</code></td><td>566</td><td>1971</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4~x2~dg1605139/"><img src="/variants/s18/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4~x2~dg1605139/sett.png" alt="St. Patrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="404.1" cy="139.2" r="4" fill="#3465a4"><title>St. Patrick</title></circle></a><a href="/variants/s10/y4g2w3g40w3g3w4g3w13g4~x2/"><circle cx="435.3" cy="164.5" r="4" fill="#3465a4"><title>St Patrick Trade or Fancy</title></circle></a><circle cx="402.3" cy="123.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="405.0" cy="139.4" r="4" fill="#3465a4"><title>St. Patrick</title></circle></a><a href="/variants/s10/y4g2w3g40w3g3w4g3w13g4~x2/"><circle cx="436.0" cy="164.7" r="4" fill="#3465a4"><title>St Patrick Trade or Fancy</title></circle></a><circle cx="403.2" cy="123.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

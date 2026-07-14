@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/">Shaw, Miss Rebecca (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/"><img src="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/sett.png" alt="Shaw, Miss Rebecca (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shaw-miss-rebecca/">Shaw, Miss Rebecca</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shaw-miss-rebecca/"><img src="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/sett.png" alt="Shaw, Miss Rebecca sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

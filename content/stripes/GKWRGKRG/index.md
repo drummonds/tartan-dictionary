@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/">Stirling, University of Corporate Univ Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><img src="/variants/s8/g22r3k1g2r3lb16k3y2~x4/sett.png" alt="Stirling, University of Corporate Univ Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stirling-university-of-corporate-univ/">Stirling, University of Corporate Univ</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stirling-university-of-corporate-univ/"><img src="/variants/s8/g22r3k1g2r3lb16k3y2~x4/sett.png" alt="Stirling, University of Corporate Univ sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

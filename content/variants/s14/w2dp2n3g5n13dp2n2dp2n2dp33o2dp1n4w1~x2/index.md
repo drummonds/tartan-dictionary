@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Bakers"
   url: "/tartans/s/sc/scottish-bakers/"
 - name: "Scottish Bakers"
-  url: "/setts/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-bakers/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBGBBBBBBRBBW](/stripes/wbbgbbbbbbrbbw/).
 
 Part of the [Scottish Bakers](/tartans/s/sc/scottish-bakers/) tartan — the named design grouping this sett with its other cloths.

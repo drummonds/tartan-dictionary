@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12~x2/">Cunningham Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12~x2/"><img src="/variants/s17/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12~x2/sett.png" alt="Cunningham Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/">Nicolson Green Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/"><img src="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/sett.png" alt="Nicolson Green Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cunningham-hunting/">Cunningham Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cunningham-hunting/"><img src="/variants/s17/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12~x2/sett.png" alt="Cunningham Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ni/nicolson-3/">Nicolson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nicolson-3/"><img src="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/sett.png" alt="Nicolson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

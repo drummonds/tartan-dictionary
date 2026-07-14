@@ -12,10 +12,10 @@ crumbs:
 - name: "Devarr"
   url: "/tartans/d/de/devarr-2/"
 - name: "Devarr"
-  url: "/setts/do22g26dr4g26do22dy3do3dy3do3dy31do3dy3do3dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do22g26dr4g26do22dy3do3dy3do3dy31do3dy3do3dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/devarr-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBGBGBG](/stripes/bgbgbgbgbgbgbg/).
 
 Part of the [Devarr](/tartans/d/de/devarr-2/) tartan — the named design grouping this sett with its other cloths.

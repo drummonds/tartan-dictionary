@@ -8,10 +8,10 @@ crumbs:
 - name: "Cape Breton University Chemistry Society"
   url: "/tartans/c/ca/cape-breton-university-chemistry-society/"
 - name: "Cape Breton University Chemistry Society"
-  url: "/setts/db4r17db4g4db2g4db4g27db4y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4r17db4g4db2g4db4g27db4y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cape-breton-university-chemistry-society/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBGBGBG](/stripes/brbgbgbgbg/).
 
 Part of the [Cape Breton University Chemistry Society](/tartans/c/ca/cape-breton-university-chemistry-society/) tartan — the named design grouping this sett with its other cloths.

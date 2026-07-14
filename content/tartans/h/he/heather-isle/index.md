@@ -6,9 +6,12 @@ crumbs:
   url: "/"
 - name: "Clan Heather"
   url: "/clan/heather/"
+aliases:
+- "/setts/g80db16dp8dpi10g8ly1db6n1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbygbbbg/">BBYGBBBG</a></nav>
 A tartan of [Clan Heather](/clan/heather/).
-Its design is pattern [BBBGYBBBYGBBBG](/stripes/bbbgybbbygbbbg/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [BBYGBBBG](/stripes/bbygbbbg/) — the page of every tartan sharing this colour sequence.
 
 Designed 2005 for Lochcarron's range; woven in several qualities for kilts, skirts and scarves.
 
@@ -17,8 +20,8 @@ The **Heather Isle** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g80db16dp8dpi10g8ly1db6n1/">Heather Isle</a></td><td><code>G/160 DB32 DP16 DPi20 G16 LY2 DB12 N2 DB12 LY2 G16 DPi20 DP16 DB/32</code></td><td>358</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g80db16dp8dpi10g8ly1db6n1/"><img src="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/sett.png" alt="Heather Isle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/">Heather Isle</a></td><td><code>G/160 DB32 DP16 DPi20 G16 LY2 DB12 N/2</code></td><td>358</td><td>2006</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/"><img src="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/sett.png" alt="Heather Isle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g78db13y6r3y5g6db9y6~x2/"><circle cx="467.2" cy="153.8" r="4" fill="#3465a4"><title>Walterström</title></circle></a><a href="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/"><circle cx="388.6" cy="84.3" r="4" fill="#3465a4"><title>Springbok</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.0" cy="129.0" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><circle cx="439.9" cy="143.7" r="4" fill="#3465a4"><title>Greenup</title></circle></a><a href="/variants/s9/dp4g24dg6lg4dg4lg4dg44lo1w4~g2408144-lg3105139/"><circle cx="340.2" cy="111.7" r="4" fill="#3465a4"><title>Macmillan Cancer Support</title></circle></a><a href="/variants/s5/lo2db4g60dp30w1~x2/"><circle cx="430.3" cy="147.0" r="4" fill="#3465a4"><title>McGuinness, Tam</title></circle></a><a href="/variants/s8/w3dt9y1lb3dp9lb1dt40dp2~x2/"><circle cx="493.4" cy="118.1" r="4" fill="#3465a4"><title>Parkin</title></circle></a><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dp3~x2/"><circle cx="395.2" cy="107.8" r="4" fill="#3465a4"><title>Kuehle Family Hunting</title></circle></a><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dr3~x2/"><circle cx="396.8" cy="108.7" r="4" fill="#3465a4"><title>Kuehle Hunting</title></circle></a><a href="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/"><circle cx="444.1" cy="120.3" r="4" fill="#3465a4"><title>Hayden</title></circle></a><circle cx="448.4" cy="106.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g78db13y6r3y5g6db9y6~x2/"><circle cx="468.0" cy="154.1" r="4" fill="#3465a4"><title>Walterström</title></circle></a><a href="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/"><circle cx="389.4" cy="84.4" r="4" fill="#3465a4"><title>Springbok</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.5" cy="128.9" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><circle cx="440.7" cy="143.9" r="4" fill="#3465a4"><title>Greenup</title></circle></a><a href="/variants/s9/dp4g24dg6lg4dg4lg4dg44lo1w4~g2408144-lg3105139/"><circle cx="340.8" cy="111.7" r="4" fill="#3465a4"><title>Macmillan Cancer Support</title></circle></a><a href="/variants/s5/lo2db4g60dp30w1~x2/"><circle cx="431.1" cy="147.2" r="4" fill="#3465a4"><title>McGuinness, Tam</title></circle></a><a href="/variants/s8/w3dt9y1lb3dp9lb1dt40dp2~x2/"><circle cx="494.5" cy="118.4" r="4" fill="#3465a4"><title>Parkin</title></circle></a><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dp3~x2/"><circle cx="396.0" cy="108.0" r="4" fill="#3465a4"><title>Kuehle Family Hunting</title></circle></a><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dr3~x2/"><circle cx="397.6" cy="108.8" r="4" fill="#3465a4"><title>Kuehle Hunting</title></circle></a><a href="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/"><circle cx="444.9" cy="120.5" r="4" fill="#3465a4"><title>Hayden</title></circle></a><circle cx="449.3" cy="106.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

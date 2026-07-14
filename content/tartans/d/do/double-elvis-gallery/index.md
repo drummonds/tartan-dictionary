@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r80db30k3dp2db30k12/"
+- "/setts/r40db15k2dp1db15k6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbbkbr/">KBBKBR</a></nav>
 Its design is pattern [KBBKBR](/stripes/kbbkbr/) — the page of every tartan sharing this colour sequence.
 
 The **Double Elvis Gallery** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Double Elvis Gallery** tartan groups 2 setts — the same named design rec
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r80db30k3dp2db30k12/">Double Elvis Gallery</a> ★</td><td><code>R/80 DB30 K3 DP2 DB30 K/12</code></td><td>222</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r80db30k3dp2db30k12/"><img src="/variants/s6/r80db30k3dp2db30k12/sett.png" alt="Double Elvis Gallery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r40db15k2dp1db15k6/">(Corporate)</a></td><td><code>R/80 DB30 K4 DP2 DB30 K/12</code></td><td>224</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r40db15k2dp1db15k6/"><img src="/variants/s6/r40db15k2dp1db15k6~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r80db30k3dp2db30k12/">Double Elvis Gallery</a> ★</td><td><code>R/80 DB30 K3 DP2 DB30 K/12</code></td><td>222</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r80db30k3dp2db30k12/"><img src="/variants/s6/r80db30k3dp2db30k12/sett.png" alt="Double Elvis Gallery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r40db15k2dp1db15k6~x2/">(Corporate)</a></td><td><code>R/80 DB30 K4 DP2 DB30 K/12</code></td><td>224</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r40db15k2dp1db15k6~x2/"><img src="/variants/s6/r40db15k2dp1db15k6~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="154.4" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="297.8" cy="156.7" r="4" fill="#3465a4"><title>Tartan Lassie</title></circle></a><a href="/variants/s6/k4db32r30db2w5k2~x2/"><circle cx="245.7" cy="140.4" r="4" fill="#3465a4"><title>Masai Shuka 17</title></circle></a><a href="/variants/s6/k3r11db3w1db3w1~x4/"><circle cx="228.4" cy="159.5" r="4" fill="#3465a4"><title>Suntan</title></circle></a><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="271.1" cy="97.1" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s5/db30w4y1w4r30~x4/"><circle cx="295.1" cy="157.0" r="4" fill="#3465a4"><title>Philippine Heritage</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="294.9" cy="184.6" r="4" fill="#3465a4"><title>Superfast Ferries</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="318.2" cy="101.5" r="4" fill="#3465a4"><title>Ostermeier</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="320.7" cy="94.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x4/"><circle cx="285.0" cy="151.4" r="4" fill="#3465a4"><title>Robinson Dress Dress</title></circle></a><circle cx="319.2" cy="111.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="357.5" cy="154.4" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.5" cy="156.6" r="4" fill="#3465a4"><title>Tartan Lassie</title></circle></a><a href="/variants/s6/k4db32r30db2w5k2~x2/"><circle cx="246.4" cy="140.3" r="4" fill="#3465a4"><title>Masai Shuka 17</title></circle></a><a href="/variants/s6/k3r11db3w1db3w1~x4/"><circle cx="229.1" cy="159.4" r="4" fill="#3465a4"><title>Suntan</title></circle></a><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="272.0" cy="97.0" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s5/db30w4y1w4r30~x4/"><circle cx="295.8" cy="156.9" r="4" fill="#3465a4"><title>Philippine Heritage</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="295.5" cy="184.6" r="4" fill="#3465a4"><title>Superfast Ferries</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="319.2" cy="101.5" r="4" fill="#3465a4"><title>Ostermeier</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="321.7" cy="94.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x4/"><circle cx="285.8" cy="151.3" r="4" fill="#3465a4"><title>Robinson Dress Dress</title></circle></a><circle cx="320.2" cy="111.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

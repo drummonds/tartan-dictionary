@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k83g4r4g10k1w3~x2/">Perratt (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k83g4r4g10k1w3~x2/"><img src="/variants/s6/k83g4r4g10k1w3~x2/sett.png" alt="Perratt (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perratt/">Perratt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perratt/"><img src="/variants/s6/k83g4r4g10k1w3~x2/sett.png" alt="Perratt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

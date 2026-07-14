@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/">Hogg Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><img src="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/sett.png" alt="Hogg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hogg-dress/">Hogg Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hogg-dress/"><img src="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/sett.png" alt="Hogg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2~x2/">Stratford Police Pipe Band (Ontario)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2~x2/"><img src="/variants/s13/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2~x2/sett.png" alt="Stratford Police Pipe Band (Ontario) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stratford-police-pipe-band/">Stratford Police Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stratford-police-pipe-band/"><img src="/variants/s13/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2~x2/sett.png" alt="Stratford Police Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

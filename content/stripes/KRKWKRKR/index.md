@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/">bodog.com Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/"><img src="/variants/s8/k25r25k10lb3k10r25k25r3~x2/sett.png" alt="bodog.com Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bodog-com-2/">bodog.com</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bodog-com-2/"><img src="/variants/s8/k25r25k10lb3k10r25k25r3~x2/sett.png" alt="bodog.com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

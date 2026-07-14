@@ -8,10 +8,10 @@ crumbs:
 - name: "National , The"
   url: "/tartans/n/na/national-the/"
 - name: "National (1934), The"
-  url: "/setts/w2db3r6k8g12lo1db4k2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2db3r6k8g12lo1db4k2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/na/national-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRKGYBKW](/stripes/wbrkgybkw/).
 
 Part of the [National , The](/tartans/n/na/national-the/) tartan — the named design grouping this sett with its other cloths.

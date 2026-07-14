@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/ri4lb2ri50db26ri10g44r4ri10r4g44ri51db2ri4lb2~x2~ri2209032-r2208029/">MacQuarrie #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/ri4lb2ri50db26ri10g44r4ri10r4g44ri51db2ri4lb2~x2~ri2209032-r2208029/"><img src="/variants/s14/ri4lb2ri50db26ri10g44r4ri10r4g44ri51db2ri4lb2~x2~ri2209032-r2208029/sett.png" alt="MacQuarrie #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macquarrie-2/">MacQuarrie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macquarrie-2/"><img src="/variants/s14/ri4lb2ri50db26ri10g44r4ri10r4g44ri51db2ri4lb2~x2~ri2209032-r2208029/sett.png" alt="MacQuarrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/">Forbes of Druminnor Artifact Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/"><img src="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/sett.png" alt="Forbes of Druminnor Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forbes-of-druminnor-2/">Forbes of Druminnor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forbes-of-druminnor-2/"><img src="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/sett.png" alt="Forbes of Druminnor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "MacEdward"
   url: "/tartans/m/ma/macedward/"
 - name: "MacEdward (Personal)"
-  url: "/setts/r12y4r38dg25db8dg10db8dg8db25r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12y4r38dg25db8dg10db8dg8db25r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macedward/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGBGRGR](/stripes/rbgbgbgrgr/).
 
 Part of the [MacEdward](/tartans/m/ma/macedward/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2425](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1930 — MacEdward (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2425">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Recorded by J MacGregor Hastie who saw it in Andersons of Edinburgh. There is no Clan MacEdward, so it is assumed to be a personal tartan.</em></li>
-<li>c, 1930-1940 — MacEdward (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1335">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Reported by J MacGregor Hastie who saw it in Andersons of Edinburgh. It was suggested that it was not a clan tartan (there is no Clan MacEdward) and the assumption is that it was a personal tartan. Seems to be based on the Chisholm.</em></li>
+<li>c, 1930-1940 — MacEdward (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1335/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Reported by J MacGregor Hastie who saw it in Andersons of Edinburgh. It was suggested that it was not a clan tartan (there is no Clan MacEdward) and the assumption is that it was a personal tartan. Seems to be based on the Chisholm.</em></li>
 </ul>
 </details>
 

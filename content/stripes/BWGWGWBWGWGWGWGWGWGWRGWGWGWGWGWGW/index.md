@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s33/db2w2dy2w2dy2w2db2w2dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1r1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1~x2/">Invermark</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s33/db2w2dy2w2dy2w2db2w2dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1r1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1~x2/"><img src="/variants/s33/db2w2dy2w2dy2w2db2w2dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1r1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1~x2/sett.png" alt="Invermark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/invermark/">Invermark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/invermark/"><img src="/variants/s33/db2w2dy2w2dy2w2db2w2dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1r1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1~x2/sett.png" alt="Invermark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

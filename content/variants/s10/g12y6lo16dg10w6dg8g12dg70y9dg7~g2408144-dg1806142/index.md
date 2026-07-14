@@ -8,10 +8,10 @@ crumbs:
 - name: "Rams Timeless"
   url: "/tartans/r/ra/rams-timeless/"
 - name: "Rams Timeless"
-  url: "/setts/g12y6lo16dg10w6dg8g12dg70y9dg7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12y6lo16dg10w6dg8g12dg70y9dg7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/rams-timeless/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGWGYGG](/stripes/gggggwgygg/).
 
 Part of the [Rams Timeless](/tartans/r/ra/rams-timeless/) tartan — the named design grouping this sett with its other cloths.

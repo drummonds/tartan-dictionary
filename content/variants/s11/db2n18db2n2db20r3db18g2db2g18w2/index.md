@@ -8,10 +8,10 @@ crumbs:
 - name: "American Society of Travel Agents, The"
   url: "/tartans/a/am/american-society-of-travel-agents-the/"
 - name: "American Society of Travel Agents, The"
-  url: "/setts/db2n18db2n2db20r3db18g2db2g18w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2n18db2n2db20r3db18g2db2g18w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/am/american-society-of-travel-agents-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBRBGBGW](/stripes/bbbbbrbgbgw/).
 
 Part of the [American Society of Travel Agents, The](/tartans/a/am/american-society-of-travel-agents-the/) tartan — the named design grouping this sett with its other cloths.

@@ -5,22 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Clan Joss"
-  url: "/clan/joss/"
-- name: "Joss"
-  url: "/families/joss/"
 - name: "Joss"
   url: "/tartans/j/jo/joss/"
 - name: "Joss"
-  url: "/setts/r3dg1db2dg4db30k2db4k2db30dg27y3k3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3dg1db2dg4db30k2db4k2db30dg27y3k3w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GBGBKBKBGGKWKGGBKBKBGBGR](/stripes/gbgbkbkbggkwkggbkbkbgbgr/).
+provenance below. It is one weaving of the [sett](/tartans/j/jo/joss/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGBGBKBKBGGKW](/stripes/rgbgbkbkbggkw/).
 
 Part of the [Joss](/tartans/j/jo/joss/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1908](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1908)
 
@@ -28,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1908](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1999 — Joss (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1908">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Scot Milsom and Main of Aberdeen (01224 580 507). Joss is a fairly common name in the Aberdeen area and the tartan was proposed by the founder of the worldwide Joss Association - William A Joss.</em></li>
-<li>Mar. 1999 — Joss (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2598">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Scot Milsom and Main of Aberdeen (01224 580 507). Joss is a fairly common name in the Aberdeen area and the tartan was proposed by the founder of the worldwide Joss Association - William A Joss.</em></li>
+<li>Mar. 1999 — Joss (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2598/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Scot Milsom and Main of Aberdeen (01224 580 507). Joss is a fairly common name in the Aberdeen area and the tartan was proposed by the founder of the worldwide Joss Association - William A Joss.</em></li>
 </ul>
 </details>
 
@@ -57,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2598
 
 ## Thread count
-R/6 DG2 DB4 DG8 DB60 K4 DB8 K4 DB60 DG54 Y6 K6 W6 K6 Y6 DG54 DB60 K4 DB8 K4 DB60 DG8 DB4 DG/2
+R/6 DG2 DB4 DG8 DB60 K4 DB8 K4 DB60 DG54 Y6 K6 W/6
 
-One full sett is **880 threads**.
+One full sett is **444 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/6 DG2 DB4 DG8 DB60 K4 DB8 K4 DB60 DG54 Y6 K6 W6 K6 Y6 DG54 DB60 K4 DB8 K4 DB60 DG8 DB4 DG/2 — 880 threads; it folds to the canonical 444-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +66,7 @@ One full sett is **880 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 DG2 DB4 DG8 DB60 K4 DB8 K4 DB60 DG54 Y6 K6 W6 K6 Y6 DG54 DB60 K4 DB8 K4 DB60 DG8 DB4 DG/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 DG2 DB4 DG8 DB60 K4 DB8 K4 DB60 DG54 Y6 K6 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

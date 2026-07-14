@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/">By Storm</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><img src="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/sett.png" alt="By Storm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/by/by-storm/">By Storm</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/by/by-storm/"><img src="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/sett.png" alt="By Storm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

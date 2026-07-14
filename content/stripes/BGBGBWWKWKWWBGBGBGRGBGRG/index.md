@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2~g2104115-r2008022-db0906265-lb3200000/">O'Sullivan, McCragh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2~g2104115-r2008022-db0906265-lb3200000/"><img src="/variants/s24/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2~g2104115-r2008022-db0906265-lb3200000/sett.png" alt="O'Sullivan, McCragh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-sullivan-mccragh-3/">O'Sullivan, McCragh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-sullivan-mccragh-3/"><img src="/variants/s24/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2~g2104115-r2008022-db0906265-lb3200000/sett.png" alt="O'Sullivan, McCragh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

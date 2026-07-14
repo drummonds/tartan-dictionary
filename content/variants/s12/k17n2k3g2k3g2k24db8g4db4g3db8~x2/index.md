@@ -8,10 +8,10 @@ crumbs:
 - name: "Kells Irish Pubs"
   url: "/tartans/k/ke/kells-irish-pubs/"
 - name: "Kells Irish Pubs"
-  url: "/setts/k17n2k3g2k3g2k24db8g4db4g3db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k17n2k3g2k3g2k24db8g4db4g3db8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kells-irish-pubs/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKGKGKBK](/stripes/bgbgbkgkgkbk/).
 
 Part of the [Kells Irish Pubs](/tartans/k/ke/kells-irish-pubs/) tartan — the named design grouping this sett with its other cloths.

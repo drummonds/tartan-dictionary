@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/">Grassi (2009)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><img src="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/sett.png" alt="Grassi (2009) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grassi-2/">Grassi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grassi-2/"><img src="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/sett.png" alt="Grassi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

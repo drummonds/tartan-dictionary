@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db6o2db6y3g6k1g2lb2g2k1g6~x2/">Presbyterian Synod (US) (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db6o2db6y3g6k1g2lb2g2k1g6~x2/"><img src="/variants/s11/db6o2db6y3g6k1g2lb2g2k1g6~x2/sett.png" alt="Presbyterian Synod (US) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/presbyterian-synod/">Presbyterian Synod</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/presbyterian-synod/"><img src="/variants/s11/db6o2db6y3g6k1g2lb2g2k1g6~x2/sett.png" alt="Presbyterian Synod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Yule"
   url: "/tartans/y/yu/yule/"
-- name: "Yule (Name)"
-  url: "/setts/dy1lb3dp14w2db22w2g14dy3lb1/"
+- name: "Yule Name Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy1lb3dp14w2db22w2g14dy3lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/yu/yule/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWBWGGW](/stripes/gwbwbwggw/).
 
 Part of the [Yule](/tartans/y/yu/yule/) tartan — the named design grouping this sett with its other cloths.

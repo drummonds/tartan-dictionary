@@ -8,10 +8,10 @@ crumbs:
 - name: "Lawson, Robin"
   url: "/tartans/l/la/lawson-robin/"
 - name: "Lawson, Robin (Personal)"
-  url: "/setts/k1g10k4w1k4g10r1k4db3dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k5r20w2g3dy3g3w2g20k4db4w2db4k4g10r3g3dy2g3r3g10k1db1k1db7r2db7k1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1g10k4w1k4g10r1k4db3dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k5r20w2g3dy3g3w2g20k4db4w2db4k4g10r3g3dy2g3r3g10k1db1k1db7r2db7k1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lawson-robin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRBKBKGRGGGRGKBWBKGWGGGWRKGKGKGKGKGKGKGKGBKRGKWKGK](/stripes/bkbrbkbkgrgggrgkbwbkgwgggwrkgkgkgkgkgkgkgkgbkrgkwkgk/).
 
 Part of the [Lawson, Robin](/tartans/l/la/lawson-robin/) tartan — the named design grouping this sett with its other cloths.

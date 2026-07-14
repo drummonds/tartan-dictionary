@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/">Chrysanthemum (Japanese Four Seasons)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/"><img src="/variants/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/sett.png" alt="Chrysanthemum (Japanese Four Seasons) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chrysanthemum/">Chrysanthemum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chrysanthemum/"><img src="/variants/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/sett.png" alt="Chrysanthemum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

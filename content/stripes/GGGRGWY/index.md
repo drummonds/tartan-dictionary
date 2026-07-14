@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lg22w1dg6r6dg6y3g12~x2/">Dalveen (2004)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lg22w1dg6r6dg6y3g12~x2/"><img src="/variants/s7/lg22w1dg6r6dg6y3g12~x2/sett.png" alt="Dalveen (2004) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/lg22w1gi6r6gi6y3g12~x2~gi2504202-g2203152/">Dalveen (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lg22w1gi6r6gi6y3g12~x2~gi2504202-g2203152/"><img src="/variants/s7/lg22w1gi6r6gi6y3g12~x2~gi2504202-g2203152/sett.png" alt="Dalveen (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dalveen/">Dalveen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dalveen/"><img src="/variants/s7/lg22w1dg6r6dg6y3g12~x2/sett.png" alt="Dalveen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/b40dr1lr4dr2b8lr24~x2/">Loevenstein Castle 3 (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/b40dr1lr4dr2b8lr24~x2/"><img src="/variants/s6/b40dr1lr4dr2b8lr24~x2/sett.png" alt="Loevenstein Castle 3 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loevenstein-castle-3/">Loevenstein Castle 3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loevenstein-castle-3/"><img src="/variants/s6/b40dr1lr4dr2b8lr24~x2/sett.png" alt="Loevenstein Castle 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

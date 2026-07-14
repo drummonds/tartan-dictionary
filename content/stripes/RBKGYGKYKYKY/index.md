@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r2db5k5g5lr2g5k5lr2k2lr4k2lr2~x2/">Valley Forge Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r2db5k5g5lr2g5k5lr2k2lr4k2lr2~x2/"><img src="/variants/s12/r2db5k5g5lr2g5k5lr2k2lr4k2lr2~x2/sett.png" alt="Valley Forge Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/valley-forge-pipe-band/">Valley Forge Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/valley-forge-pipe-band/"><img src="/variants/s12/r2db5k5g5lr2g5k5lr2k2lr4k2lr2~x2/sett.png" alt="Valley Forge Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

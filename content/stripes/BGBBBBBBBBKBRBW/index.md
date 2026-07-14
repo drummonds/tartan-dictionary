@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4/">MatchPoint</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4/"><img src="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/sett.png" alt="MatchPoint sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/matchpoint/">MatchPoint</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/matchpoint/"><img src="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/sett.png" alt="MatchPoint sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

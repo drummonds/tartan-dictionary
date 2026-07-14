@@ -8,10 +8,10 @@ crumbs:
 - name: "Talisker"
   url: "/tartans/t/ta/talisker/"
 - name: "Talisker"
-  url: "/setts/db16lb4db1lb2db24w1y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16lb4db1lb2db24w1y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ta/talisker/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWG](/stripes/bwbwbwg/).
 
 Part of the [Talisker](/tartans/t/ta/talisker/) tartan — the named design grouping this sett with its other cloths.

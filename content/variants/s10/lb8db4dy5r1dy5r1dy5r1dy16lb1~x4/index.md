@@ -12,10 +12,10 @@ crumbs:
 - name: "Flowers of the Forest, The"
   url: "/tartans/f/fl/flowers-of-the-forest-the-2/"
 - name: "Flowers of the Forest, The"
-  url: "/setts/lb8db4dy5r1dy5r1dy5r1dy16lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb8db4dy5r1dy5r1dy5r1dy16lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fl/flowers-of-the-forest-the-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGRGRGRGW](/stripes/wbgrgrgrgw/).
 
 Part of the [Flowers of the Forest, The](/tartans/f/fl/flowers-of-the-forest-the-2/) tartan — the named design grouping this sett with its other cloths.

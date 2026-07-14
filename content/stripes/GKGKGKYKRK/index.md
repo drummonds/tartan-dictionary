@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/">Ulster Irish District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/"><img src="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/sett.png" alt="Ulster Irish District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/ul/ulster-2/">Ulster</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/ul/ulster-2/"><img src="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/sett.png" alt="Ulster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

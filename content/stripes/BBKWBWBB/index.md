@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/b98db32k3w6db4w4db6b4/">Irn Bru</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b98db32k3w6db4w4db6b4/"><img src="/variants/s8/b98db32k3w6db4w4db6b4/sett.png" alt="Irn Bru sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ir/irn-bru/">Irn Bru</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ir/irn-bru/"><img src="/variants/s8/b98db32k3w6db4w4db6b4/sett.png" alt="Irn Bru sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

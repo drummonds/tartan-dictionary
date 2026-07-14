@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/o7r3o9g15db19o14r4~x2/">Dorward</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/o7r3o9g15db19o14r4~x2/"><img src="/variants/s7/o7r3o9g15db19o14r4~x2/sett.png" alt="Dorward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dorward/">Dorward</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dorward/"><img src="/variants/s7/o7r3o9g15db19o14r4~x2/sett.png" alt="Dorward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

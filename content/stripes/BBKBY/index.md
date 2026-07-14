@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dr1dbi8k6db10lo1~x4~dbi1404245-db1204274/">Sanix Modern</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr1dbi8k6db10lo1~x4~dbi1404245-db1204274/"><img src="/variants/s5/dr1dbi8k6db10lo1~x4~dbi1404245-db1204274/sett.png" alt="Sanix Modern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sanix/">Sanix</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sanix/"><img src="/variants/s5/dr1dbi8k6db10lo1~x4~dbi1404245-db1204274/sett.png" alt="Sanix sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

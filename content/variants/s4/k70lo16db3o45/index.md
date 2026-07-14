@@ -12,10 +12,10 @@ crumbs:
 - name: "Klymson"
   url: "/tartans/k/kl/klymson/"
 - name: "Klymson (Chicago) (Personal)"
-  url: "/setts/k70lo16db3o45/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k70lo16db3o45/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/kl/klymson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYBR](/stripes/kybr/).
 
 Part of the [Klymson](/tartans/k/kl/klymson/) tartan — the named design grouping this sett with its other cloths.

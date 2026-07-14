@@ -8,10 +8,10 @@ crumbs:
 - name: "Ambassador"
   url: "/tartans/a/am/ambassador/"
 - name: "Ambassador"
-  url: "/setts/k85r6k1w3k3w3k1r6k6y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k85r6k1w3k3w3k1r6k6y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/am/ambassador/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKWKWKRK](/stripes/gkrkwkwkrk/).
 
 Part of the [Ambassador](/tartans/a/am/ambassador/) tartan — the named design grouping this sett with its other cloths.

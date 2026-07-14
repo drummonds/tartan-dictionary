@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db2b2db15b1w10b15db2b2~x2/">Bannockbane</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db2b2db15b1w10b15db2b2~x2/"><img src="/variants/s8/db2b2db15b1w10b15db2b2~x2/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bannockbane-5/">Bannockbane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-5/"><img src="/variants/s8/db2b2db15b1w10b15db2b2~x2/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/">Bannockbane Silver</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/"><img src="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/sett.png" alt="Bannockbane Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bannockbane-silver/">Bannockbane Silver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-silver/"><img src="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/sett.png" alt="Bannockbane Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

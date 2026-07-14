@@ -8,10 +8,10 @@ crumbs:
 - name: "Pride of New Zealand"
   url: "/tartans/p/pr/pride-of-new-zealand/"
 - name: "Pride of New Zealand"
-  url: "/setts/n62k30w1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n62k30w1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/pride-of-new-zealand/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWK](/stripes/bkwk/).
 
 Part of the [Pride of New Zealand](/tartans/p/pr/pride-of-new-zealand/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3373](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1989 — Pride of New Zealand (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3373">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Designed by Ivan Coward a bespoke tailor with help from John Clark of Alliance Textiles, Timaru, New Zealand . For use by all New Zealanders with black representing the famous 'All Blacks' rugby team, grey for the multi cultural makeup of the population and the white for the snow of the mountains. License to distribute is held by The Suit Surgeons Ltd, New Zealand.</em></li>
-<li>August 1999 — Pride of New Zealand (District?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2632">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Designed by Ivan Coward a bespoke tailor with help from John Clark of the weavers, Alliance Textiles, Timaru, New Zealand . For use by all New Zealanders with black representing the famous 'All Blacks' rugby team, grey for the multi cultural makeup of the population and the white for the snow of the mountains. As from June 2014 distributed by the The Scottish Shop of DUNEDIN. info@scottishshop.co.nz.</em></li>
+<li>August 1999 — Pride of New Zealand (District?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2632/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Designed by Ivan Coward a bespoke tailor with help from John Clark of the weavers, Alliance Textiles, Timaru, New Zealand . For use by all New Zealanders with black representing the famous 'All Blacks' rugby team, grey for the multi cultural makeup of the population and the white for the snow of the mountains. As from June 2014 distributed by the The Scottish Shop of DUNEDIN. info@scottishshop.co.nz.</em></li>
 </ul>
 </details>
 

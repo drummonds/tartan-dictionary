@@ -8,10 +8,10 @@ crumbs:
 - name: "McDill"
   url: "/tartans/m/mc/mcdill/"
 - name: "McDill (2015)"
-  url: "/setts/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcdill/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBBBKBKGBGBBKBKBGW](/stripes/wbgbbbkbkgbgbbkbkbgw/).
 
 Part of the [McDill](/tartans/m/mc/mcdill/) tartan — the named design grouping this sett with its other cloths.

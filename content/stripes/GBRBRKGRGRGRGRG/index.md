@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2/">Cochrane</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2/"><img src="/variants/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2/sett.png" alt="Cochrane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/g34r4g4r2g4r2g3r4g17k17r2db17r4db4y3~x2/">Cochrane (1984) Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g34r4g4r2g4r2g3r4g17k17r2db17r4db4y3~x2/"><img src="/variants/s15/g34r4g4r2g4r2g3r4g17k17r2db17r4db4y3~x2/sett.png" alt="Cochrane (1984) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cochrane-2/">Cochrane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cochrane-2/"><img src="/variants/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2/sett.png" alt="Cochrane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

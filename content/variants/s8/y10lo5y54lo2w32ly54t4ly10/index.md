@@ -8,10 +8,10 @@ crumbs:
 - name: "Cladish"
   url: "/tartans/c/cl/cladish/"
 - name: "Cladish"
-  url: "/setts/y10lo5y54lo2w32ly54t4ly10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y10lo5y54lo2w32ly54t4ly10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/cladish/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYWYBY](/stripes/gygywyby/).
 
 Part of the [Cladish](/tartans/c/cl/cladish/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=659](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — Cladish (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=659">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #DC943C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>From the Marton Mills Keighly range (5.5oz polyester/cotton).</em></li>
-<li>pre 2003 — Cladish (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6011">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #DC943C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><br><em>From the Marton Mills Keighly range (5.5oz polyester/cotton).</em></li>
+<li>pre 2003 — Cladish (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6011/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #DC943C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><br><em>From the Marton Mills Keighly range (5.5oz polyester/cotton).</em></li>
 </ul>
 </details>
 

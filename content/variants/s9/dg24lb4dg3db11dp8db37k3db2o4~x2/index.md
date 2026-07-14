@@ -8,10 +8,10 @@ crumbs:
 - name: "Stewmann"
   url: "/tartans/s/st/stewmann/"
 - name: "Stewmann (2009) (Personal)"
-  url: "/setts/dg24lb4dg3db11dp8db37k3db2o4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg24lb4dg3db11dp8db37k3db2o4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewmann/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBBBKBR](/stripes/gwgbbbkbr/).
 
 Part of the [Stewmann](/tartans/s/st/stewmann/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/">Brough from Orkney (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><img src="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/sett.png" alt="Brough from Orkney (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brough-from-orkney/">Brough from Orkney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brough-from-orkney/"><img src="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/sett.png" alt="Brough from Orkney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

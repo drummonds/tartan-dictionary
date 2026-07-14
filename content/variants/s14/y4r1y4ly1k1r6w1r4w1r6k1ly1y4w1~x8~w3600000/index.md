@@ -11,11 +11,11 @@ crumbs:
   url: "/families/ogilvie/"
 - name: "Ogilvie"
   url: "/tartans/o/og/ogilvie-2/"
-- name: "Ogilvie - 1893 (Clan)"
-  url: "/setts/y4r1y4ly1k1r6w1r4w1r6k1ly1y4w1/"
+- name: "Ogilvie (D.C. Stewart)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4r1y4ly1k1r6w1r4w1r6k1ly1y4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/og/ogilvie-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGYKRWRWRKYGW](/stripes/grgykrwrwrkygw/).
 
 Part of the [Ogilvie](/tartans/o/og/ogilvie-2/) tartan — the named design grouping this sett with its other cloths.

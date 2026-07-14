@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r28k2p36k2w4k2p7/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkwkbkr/">BKWKBKR</a></nav>
 Its design is pattern [BKWKBKR](/stripes/bkwkbkr/) — the page of every tartan sharing this colour sequence.
 
 The **Presbyterian College Band** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Presbyterian College Band** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r28k2p36k2w4k2p7/">Presbyterian College Band</a></td><td><code>R/56 K4 P72 K4 W8 K4 P/14</code></td><td>254</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r28k2p36k2w4k2p7/"><img src="/variants/s7/r28k2p36k2w4k2p7~x2/sett.png" alt="Presbyterian College Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r28k2p36k2w4k2p7~x2/">Presbyterian College Band</a></td><td><code>R/56 K4 P72 K4 W8 K4 P/14</code></td><td>254</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r28k2p36k2w4k2p7~x2/"><img src="/variants/s7/r28k2p36k2w4k2p7~x2/sett.png" alt="Presbyterian College Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/ri15r98dp72n25dp8w15~ri2806019-r1706009-dp1105325-n2203265/"><circle cx="250.8" cy="193.2" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/variants/s7/p8w4p50k12p4k15r5~x2/"><circle cx="323.9" cy="126.7" r="4" fill="#3465a4"><title>Instakilt</title></circle></a><a href="/variants/s5/dp24g1w1g2r24/"><circle cx="359.6" cy="166.6" r="4" fill="#3465a4"><title>MacNab WI1</title></circle></a><a href="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/"><circle cx="234.8" cy="72.0" r="4" fill="#3465a4"><title>Svanholm</title></circle></a><a href="/variants/s7/r15n3w10n7dp40w3dp6~x2/"><circle cx="295.4" cy="167.8" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="276.7" cy="146.5" r="4" fill="#3465a4"><title>Cramer</title></circle></a><circle cx="319.4" cy="129.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/ri15r98dp72n25dp8w15~ri2806019-r1706009-dp1105325-n2203265/"><circle cx="251.2" cy="193.0" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/variants/s7/p8w4p50k12p4k15r5~x2/"><circle cx="325.0" cy="126.7" r="4" fill="#3465a4"><title>Instakilt</title></circle></a><a href="/variants/s5/dp24g1w1g2r24/"><circle cx="360.3" cy="166.6" r="4" fill="#3465a4"><title>MacNab WI1</title></circle></a><a href="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/"><circle cx="235.6" cy="71.8" r="4" fill="#3465a4"><title>Svanholm</title></circle></a><a href="/variants/s7/r15n3w10n7dp40w3dp6~x2/"><circle cx="296.1" cy="167.7" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="277.5" cy="146.4" r="4" fill="#3465a4"><title>Cramer</title></circle></a><circle cx="320.3" cy="128.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

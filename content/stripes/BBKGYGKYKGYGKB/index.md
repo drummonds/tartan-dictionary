@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2~x2~dg1806142-ly3307090-g2408144/">Scout Mapping Service #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2~x2~dg1806142-ly3307090-g2408144/"><img src="/variants/s14/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2~x2~dg1806142-ly3307090-g2408144/sett.png" alt="Scout Mapping Service #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scout-mapping-service-3/">Scout Mapping Service</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scout-mapping-service-3/"><img src="/variants/s14/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2~x2~dg1806142-ly3307090-g2408144/sett.png" alt="Scout Mapping Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

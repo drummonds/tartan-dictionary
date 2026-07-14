@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k3y6n13r2n2r32n1r2n2~x2/">Fueglistal (Aargau) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k3y6n13r2n2r32n1r2n2~x2/"><img src="/variants/s9/k3y6n13r2n2r32n1r2n2~x2/sett.png" alt="Fueglistal (Aargau) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fu/fueglistal/">Fueglistal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fu/fueglistal/"><img src="/variants/s9/k3y6n13r2n2r32n1r2n2~x2/sett.png" alt="Fueglistal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

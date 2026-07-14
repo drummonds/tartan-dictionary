@@ -32,13 +32,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s2/k15lb1~x12/">Joy's Fancy, Allen (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/k15lb1~x12/"><img src="/variants/s2/k15lb1~x12/sett.png" alt="Joy's Fancy, Allen (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/k9lb8~x2/">Wilson's No.172</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/k9lb8~x2/"><img src="/variants/s2/k9lb8~x2/sett.png" alt="Wilson's No.172 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/joy-s-fancy-allen/">Joy's Fancy, Allen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/joy-s-fancy-allen/"><img src="/variants/s2/k15lb1~x12/sett.png" alt="Joy's Fancy, Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shepherd-or-falkirk/">Shepherd or Falkirk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shepherd-or-falkirk/"><img src="/variants/s2/k1lb1~x6/sett.png" alt="Shepherd or Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-172/">Wilson's No.172</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-172/"><img src="/variants/s2/k9lb8~x2/sett.png" alt="Wilson's No.172 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/k1w1/">Shepherd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k1w1/"><img src="/variants/s2/k1w1/sett.png" alt="Shepherd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shepherd-3/">Shepherd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shepherd-3/"><img src="/variants/s2/k1w1/sett.png" alt="Shepherd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

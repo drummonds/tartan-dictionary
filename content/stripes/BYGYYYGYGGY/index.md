@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3~x2/">Annand Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3~x2/"><img src="/variants/s11/dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3~x2/sett.png" alt="Annand Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/annand/">Annand</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/annand/"><img src="/variants/s11/dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3~x2/sett.png" alt="Annand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

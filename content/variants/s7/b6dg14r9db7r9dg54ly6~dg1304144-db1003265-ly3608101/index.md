@@ -8,10 +8,10 @@ crumbs:
 - name: "Tulloch Homes"
   url: "/tartans/t/tu/tulloch-homes/"
 - name: "Tulloch Homes"
-  url: "/setts/b6dg14r9db7r9dg54ly6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b6dg14r9db7r9dg54ly6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tu/tulloch-homes/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBRGY](/stripes/bgrbrgy/).
 
 Part of the [Tulloch Homes](/tartans/t/tu/tulloch-homes/) tartan — the named design grouping this sett with its other cloths.

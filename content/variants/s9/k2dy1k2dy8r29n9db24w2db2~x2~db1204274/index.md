@@ -8,10 +8,10 @@ crumbs:
 - name: "Lermontov"
   url: "/tartans/l/le/lermontov/"
 - name: "Lermontov Family Tartan"
-  url: "/setts/k2dy1k2dy8r29n9db24w2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2dy1k2dy8r29n9db24w2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/lermontov/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBRGKGK](/stripes/bwbbrgkgk/).
 
 Part of the [Lermontov](/tartans/l/le/lermontov/) tartan — the named design grouping this sett with its other cloths.

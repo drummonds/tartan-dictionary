@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb4r4lb12w12k4g4db8r1w1db1y1~x2/">Arisaig NS Canada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb4r4lb12w12k4g4db8r1w1db1y1~x2/"><img src="/variants/s11/lb4r4lb12w12k4g4db8r1w1db1y1~x2/sett.png" alt="Arisaig NS Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arisaig/">Arisaig</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arisaig/"><img src="/variants/s11/lb4r4lb12w12k4g4db8r1w1db1y1~x2/sett.png" alt="Arisaig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

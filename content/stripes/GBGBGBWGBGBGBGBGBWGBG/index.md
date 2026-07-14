@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2~x4/">Matheson Hunting (Crowe 1974) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2~x4/"><img src="/variants/s21/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2~x4/sett.png" alt="Matheson Hunting (Crowe 1974) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/matheson-htg-dance/">Matheson Htg Dance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/matheson-htg-dance/"><img src="/variants/s21/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2~x4/sett.png" alt="Matheson Htg Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

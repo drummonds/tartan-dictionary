@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/">Grey Spirit</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><img src="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/sett.png" alt="Grey Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grey-spirit-2/">Grey Spirit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grey-spirit-2/"><img src="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/sett.png" alt="Grey Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/">Selkirk Silver Band (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/"><img src="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/sett.png" alt="Selkirk Silver Band (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/selkirk-silver-band/">Selkirk Silver Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/selkirk-silver-band/"><img src="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/sett.png" alt="Selkirk Silver Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

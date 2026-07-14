@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/dy3t12g6y3g6t12dy3t12g6y3g6y3g6t12dy6t12dy3w1dy3r3dy3w1dy3r3dy3w1~x2/">Sprouston</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/dy3t12g6y3g6t12dy3t12g6y3g6y3g6t12dy6t12dy3w1dy3r3dy3w1dy3r3dy3w1~x2/"><img src="/variants/s26/dy3t12g6y3g6t12dy3t12g6y3g6y3g6t12dy6t12dy3w1dy3r3dy3w1dy3r3dy3w1~x2/sett.png" alt="Sprouston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/sprouston/">Sprouston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/sprouston/"><img src="/variants/s26/dy3t12g6y3g6t12dy3t12g6y3g6y3g6t12dy6t12dy3w1dy3r3dy3w1dy3r3dy3w1~x2/sett.png" alt="Sprouston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

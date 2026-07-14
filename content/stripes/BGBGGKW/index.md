@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/">Chestico</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><img src="/variants/s7/db20dy1db1dy1dg8k1w3~x2/sett.png" alt="Chestico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chestico/">Chestico</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chestico/"><img src="/variants/s7/db20dy1db1dy1dg8k1w3~x2/sett.png" alt="Chestico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

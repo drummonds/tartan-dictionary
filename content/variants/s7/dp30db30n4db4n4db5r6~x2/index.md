@@ -8,10 +8,10 @@ crumbs:
 - name: "Komissarov, Dmitry"
   url: "/tartans/k/ko/komissarov-dmitry/"
 - name: "Komissarov, Dmitry (Personal)"
-  url: "/setts/dp30db30n4db4n4db5r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp30db30n4db4n4db5r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ko/komissarov-dmitry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBR](/stripes/bbbbbbr/).
 
 Part of the [Komissarov, Dmitry](/tartans/k/ko/komissarov-dmitry/) tartan — the named design grouping this sett with its other cloths.

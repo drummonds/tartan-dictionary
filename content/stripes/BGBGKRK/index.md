@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k1r1k18g12db18g1db1~x2/">Meoni (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k1r1k18g12db18g1db1~x2/"><img src="/variants/s7/k1r1k18g12db18g1db1~x2/sett.png" alt="Meoni (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/meoni/">Meoni</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meoni/"><img src="/variants/s7/k1r1k18g12db18g1db1~x2/sett.png" alt="Meoni sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

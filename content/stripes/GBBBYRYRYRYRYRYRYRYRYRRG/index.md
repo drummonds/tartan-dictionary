@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/y8oi68o56ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1dr52n6dr14y8~oi2404058-ly3104101/">Lehbrink No. 1 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/y8oi68o56ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1dr52n6dr14y8~oi2404058-ly3104101/"><img src="/variants/s24/y8oi68o56ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1dr52n6dr14y8~oi2404058-ly3104101/sett.png" alt="Lehbrink No. 1 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lehbrink-no-1/">Lehbrink No. 1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lehbrink-no-1/"><img src="/variants/s24/y8oi68o56ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1dr52n6dr14y8~oi2404058-ly3104101/sett.png" alt="Lehbrink No. 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

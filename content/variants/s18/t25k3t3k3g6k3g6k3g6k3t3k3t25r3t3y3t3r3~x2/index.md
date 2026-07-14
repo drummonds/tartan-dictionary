@@ -8,10 +8,10 @@ crumbs:
 - name: "Borders Health Board"
   url: "/tartans/b/bo/borders-health-board-2/"
 - name: "Borders Health Board"
-  url: "/setts/t25k3t3k3g6k3g6k3g6k3t3k3t25r3t3y3t3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t25k3t3k3g6k3g6k3g6k3t3k3t25r3t3y3t3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/borders-health-board-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKGKBKBRBGBR](/stripes/bkbkgkgkgkbkbrbgbr/).
 
 Part of the [Borders Health Board](/tartans/b/bo/borders-health-board-2/) tartan — the named design grouping this sett with its other cloths.

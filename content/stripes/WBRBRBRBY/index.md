@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/">Louisville Fire &amp; Rescue P&amp;D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/"><img src="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/sett.png" alt="Louisville Fire &amp; Rescue P&amp;D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/louisville-fire-rescue-p-d/">Louisville Fire &amp; Rescue P&amp;D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/louisville-fire-rescue-p-d/"><img src="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/sett.png" alt="Louisville Fire &amp; Rescue P&amp;D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/">Tweedside Variation (silk sample)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/"><img src="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/sett.png" alt="Tweedside Variation (silk sample) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tw/tweedside-variation/">Tweedside Variation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tw/tweedside-variation/"><img src="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/sett.png" alt="Tweedside Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

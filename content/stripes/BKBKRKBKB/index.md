@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/">United States</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><img src="/variants/s9/db7k5b6k5r7k2db2k70b2/sett.png" alt="United States sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/united-states-2/">United States</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/united-states-2/"><img src="/variants/s9/db7k5b6k5r7k2db2k70b2/sett.png" alt="United States sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

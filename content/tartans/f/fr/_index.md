@@ -6,7 +6,7 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/f/fr/frame/"><img src="/variants/s7/k16g15k4lb12k22w2k6~x2/sett.png" alt="Frame" width="140"><br><strong>Frame (1)</strong></a><div class="clan-territory">Frame</div></li>
-<li><a class="tartan" href="/tartans/f/fr/frame-2/"><img src="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4~w4000000/sett.png" alt="Frame" width="140"><br><strong>Frame (2)</strong></a><div class="clan-territory">Frame</div></li>
+<li><a class="tartan" href="/tartans/f/fr/frame-2/"><img src="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4/sett.png" alt="Frame" width="140"><br><strong>Frame (2)</strong></a><div class="clan-territory">Frame</div></li>
 <li><a class="tartan" href="/tartans/f/fr/frame-3/"><img src="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/sett.png" alt="Frame" width="140"><br><strong>Frame (2)</strong></a><div class="clan-territory">Frame</div></li>
 <li><a class="tartan" href="/tartans/f/fr/franconian/"><img src="/variants/s32/k23dbi5k5g5k5g25db5g5k5g5k23r5k5y5k23g5k5g5k5g25k5g5k5dbi5k23g7r5g5w5g5r5g7~x2~dbi1604274-db0805267/sett.png" alt="Franconian" width="140"><br><strong>Franconian (1)</strong></a><div class="clan-territory">Franconian</div></li>
 <li><a class="tartan" href="/tartans/f/fr/franconian-2/"><img src="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/sett.png" alt="Franconian" width="140"><br><strong>Franconian (1)</strong></a><div class="clan-territory">Franconian</div></li>
@@ -40,7 +40,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/f/fr/fraser-hunting-dress-2/"><img src="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/sett.png" alt="Fraser Hunting Dress" width="140"><br><strong>Fraser Hunting Dress (1)</strong></a><div class="clan-territory">Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-red-dress/"><img src="/variants/s7/r4db18dr4g19w25r10w4~x2/sett.png" alt="Fraser Red Dress" width="140"><br><strong>Fraser Red Dress (3)</strong></a><div class="clan-territory">Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-stewart-of-athol/"><img src="/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/sett.png" alt="Fraser Stewart of Athol" width="140"><br><strong>Fraser Stewart of Athol (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/f/fr/fraser-vs/"><img src="/variants/s6/r1db6r1g6r12w1~x2/sett.png" alt="Fraser VS" width="140"><br><strong>Fraser VS (1)</strong></a><div class="clan-territory">Clan Fraser</div></li>
+<li><a class="tartan" href="/tartans/f/fr/fraser-vs/"><img src="/variants/s6/r1db6r1g6r12w1/sett.png" alt="Fraser VS" width="140"><br><strong>Fraser VS (1)</strong></a><div class="clan-territory">Clan Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-hunting-5/"><img src="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/sett.png" alt="Fraser hunting" width="140"><br><strong>Fraser hunting (1)</strong></a><div class="clan-territory">Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-hunting-dress-3/"><img src="/variants/s11/db4o24g17o3w18o3w18o3g17o24r4~x2/sett.png" alt="Fraser hunting, dress" width="140"><br><strong>Fraser hunting, dress (1)</strong></a><div class="clan-territory">Fraser</div></li>
 <li><a class="tartan" href="/tartans/f/fr/fraser-of-altyre/"><img src="/variants/s14/r4db2r45db2r2db40r4db4r2db2r2dg40r2db2~x2/sett.png" alt="Fraser of Altyre" width="140"><br><strong>Fraser of Altyre (2)</strong></a><div class="clan-territory">Fraser of Altyre</div></li>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/">Arndt (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/"><img src="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/sett.png" alt="Arndt (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arndt/">Arndt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arndt/"><img src="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/sett.png" alt="Arndt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Alegre-Wood"
   url: "/tartans/a/al/alegre-wood/"
 - name: "Alegre-Wood (Personal)"
-  url: "/setts/dr80lo2dr6dy12ly1dy1ly2t2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr80lo2dr6dy12ly1dy1ly2t2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/alegre-wood/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBGYGYB](/stripes/bybgygyb/).
 
 Part of the [Alegre-Wood](/tartans/a/al/alegre-wood/) tartan — the named design grouping this sett with its other cloths.

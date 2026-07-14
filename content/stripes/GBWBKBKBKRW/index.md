@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y4db5lb2db30k1db4k4db1k15r6w3~x2/">Correctional Service Canada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y4db5lb2db30k1db4k4db1k15r6w3~x2/"><img src="/variants/s11/y4db5lb2db30k1db4k4db1k15r6w3~x2/sett.png" alt="Correctional Service Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/correctional-service-canada/">Correctional Service Canada</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/correctional-service-canada/"><img src="/variants/s11/y4db5lb2db30k1db4k4db1k15r6w3~x2/sett.png" alt="Correctional Service Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Twenty First Century"
   url: "/tartans/t/tw/twenty-first-century/"
 - name: "Twenty First Century"
-  url: "/setts/b12db3n3w2n3db3b5k8db31lb5db8w4r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b12db3n3w2n3db3b5k8db31lb5db8w4r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tw/twenty-first-century/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBBBKBWBWR](/stripes/bbbwbbbkbwbwr/).
 
 Part of the [Twenty First Century](/tartans/t/tw/twenty-first-century/) tartan — the named design grouping this sett with its other cloths.

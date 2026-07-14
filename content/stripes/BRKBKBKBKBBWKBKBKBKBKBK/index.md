@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/k207db6k2db6k2db6k2db6k92dbi28k6w4dbi77db6k2dbi10k2dbi10k2dbi10k2r4dbi14~db0805267-dbi1604274/">Unidentified Plaid 12</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/k207db6k2db6k2db6k2db6k92dbi28k6w4dbi77db6k2dbi10k2dbi10k2dbi10k2r4dbi14~db0805267-dbi1604274/"><img src="/variants/s23/k207db6k2db6k2db6k2db6k92dbi28k6w4dbi77db6k2dbi10k2dbi10k2dbi10k2r4dbi14~db0805267-dbi1604274/sett.png" alt="Unidentified Plaid 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-plaid-12/">Unidentified Plaid 12</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-plaid-12/"><img src="/variants/s23/k207db6k2db6k2db6k2db6k92dbi28k6w4dbi77db6k2dbi10k2dbi10k2dbi10k2r4dbi14~db0805267-dbi1604274/sett.png" alt="Unidentified Plaid 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

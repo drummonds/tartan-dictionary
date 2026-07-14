@@ -12,10 +12,10 @@ crumbs:
 - name: "Skinner"
   url: "/tartans/s/sk/skinner-2/"
 - name: "Skinner Family Tartan"
-  url: "/setts/r8k8lo1k8r8db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8k8lo1k8r8db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sk/skinner-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKYKR](/stripes/brkykr/).
 
 Part of the [Skinner](/tartans/s/sk/skinner-2/) tartan — the named design grouping this sett with its other cloths.

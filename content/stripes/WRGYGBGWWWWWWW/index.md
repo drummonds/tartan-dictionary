@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8~x2/">Saint Joseph de Sorel (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8~x2/"><img src="/variants/s14/lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8~x2/sett.png" alt="Saint Joseph de Sorel (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/saint-joseph-de-sorel-2/">Saint Joseph de Sorel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/saint-joseph-de-sorel-2/"><img src="/variants/s14/lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8~x2/sett.png" alt="Saint Joseph de Sorel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

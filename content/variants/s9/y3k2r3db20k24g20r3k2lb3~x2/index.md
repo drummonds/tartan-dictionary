@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Awe"
   url: "/tartans/l/lo/loch-awe/"
 - name: "Loch Awe"
-  url: "/setts/y3k2r3db20k24g20r3k2lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3k2r3db20k24g20r3k2lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-awe/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRBKGRKW](/stripes/gkrbkgrkw/).
 
 Part of the [Loch Awe](/tartans/l/lo/loch-awe/) tartan — the named design grouping this sett with its other cloths.

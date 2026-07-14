@@ -8,17 +8,23 @@ crumbs:
   url: "/clan/menzies/"
 - name: "Menzies"
   url: "/families/menzies/"
+aliases:
+- "/setts/g48r4g2r4g6r2g3r9/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgrgrgr/">GRGRGRGR</a></nav>
 A tartan of the [Menzies](/families/menzies/) family.
 Its design is pattern [GRGRGRGR](/stripes/grgrgrgr/) — the page of every tartan sharing this colour sequence.
 
-The **Menzies Hunting** tartan is recorded as a single sett.
+The **Menzies Hunting** tartan is one sett, recorded at 2 scales — the same proportion woven
+finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g48r4g2r4g6r2g3r9/">Menzies Hunting</a></td><td><code>G/96 R8 G4 R8 G12 R4 G6 R/18</code></td><td>198</td><td>1893</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g48r4g2r4g6r2g3r9/"><img src="/variants/s8/g48r4g2r4g6r2g3r9~x2/sett.png" alt="Menzies Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/">Menzies Hunting</a></td><td><code>G/48 R4 G2 R4 G6 R2 G3 R/9</code></td><td>99</td><td>1893</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><img src="/variants/s8/g48r4g2r4g6r2g3r9~x2/sett.png" alt="Menzies Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/g48r4g2r4g6r2g3r9/">Menzies Hunting</a></td><td><code>G/48 R4 G2 R4 G6 R2 G3 R/9</code></td><td>99</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/">Menzies</a></td><td><code>G/96 R8 G4 R8 G12 R4 G6 R/18</code></td><td>198</td><td>1893</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/g48r4g2r4g6r2g3r9/">Menzies Hunting</a> · <a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/">Menzies</a></td></tr>
 </tbody>
 </table>
@@ -39,6 +45,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg48r4dg2r4dg6r2dg3r9~x2/"><circle cx="561.1" cy="149.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/g164r20g6r20g23r14g4r36/"><circle cx="529.3" cy="150.2" r="4" fill="#3465a4"><title>Aukland &amp; District Pipe Band</title></circle></a><a href="/variants/s8/r54g6r5g6r10g3r2g18~x2/"><circle cx="517.8" cy="158.9" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="429.8" cy="217.1" r="4" fill="#3465a4"><title>Leeds, University of</title></circle></a><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><circle cx="429.1" cy="169.1" r="4" fill="#3465a4"><title>Connell</title></circle></a><a href="/variants/s10/g3dr6g2dr1g2dr1g16lr1g2lr3~x4/"><circle cx="450.6" cy="191.1" r="4" fill="#3465a4"><title>Prince of Wales Fashion Weavers</title></circle></a><a href="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><circle cx="393.3" cy="145.5" r="4" fill="#3465a4"><title>Prince of Wales</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="456.5" cy="131.8" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="412.5" cy="159.2" r="4" fill="#3465a4"><title>Rothesay Hunting</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="449.1" cy="187.8" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><circle cx="568.3" cy="166.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg48r4dg2r4dg6r2dg3r9~x2/"><circle cx="562.5" cy="150.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/g164r20g6r20g23r14g4r36/"><circle cx="530.4" cy="150.7" r="4" fill="#3465a4"><title>Aukland &amp; District Pipe Band</title></circle></a><a href="/variants/s8/r54g6r5g6r10g3r2g18~x2/"><circle cx="518.9" cy="159.3" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="430.6" cy="217.4" r="4" fill="#3465a4"><title>Leeds, University of</title></circle></a><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><circle cx="430.1" cy="169.5" r="4" fill="#3465a4"><title>Connell</title></circle></a><a href="/variants/s10/g3dr6g2dr1g2dr1g16lr1g2lr3~x4/"><circle cx="451.4" cy="191.4" r="4" fill="#3465a4"><title>Prince of Wales Fashion Weavers</title></circle></a><a href="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><circle cx="394.3" cy="145.7" r="4" fill="#3465a4"><title>Prince of Wales</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="457.5" cy="132.1" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="413.3" cy="159.5" r="4" fill="#3465a4"><title>Rothesay Hunting</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="449.8" cy="188.1" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><circle cx="569.5" cy="167.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

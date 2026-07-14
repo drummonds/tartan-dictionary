@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r15g7db7r1~x4/">Hugh Fraser of Boblainy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r15g7db7r1~x4/"><img src="/variants/s4/r15g7db7r1~x4/sett.png" alt="Hugh Fraser of Boblainy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hugh-fraser-of-boblainy/">Hugh Fraser of Boblainy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hugh-fraser-of-boblainy/"><img src="/variants/s4/r15g7db7r1~x4/sett.png" alt="Hugh Fraser of Boblainy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

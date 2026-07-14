@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg4w1dg26t26k2t4~x4/">Melville (Two black lines)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg4w1dg26t26k2t4~x4/"><img src="/variants/s6/dg4w1dg26t26k2t4~x4/sett.png" alt="Melville (Two black lines) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db4k4db24g32w1g2/">Oliphant (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db4k4db24g32w1g2/"><img src="/variants/s6/db4k4db24g32w1g2~x2/sett.png" alt="Oliphant (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/melville/">Melville</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/melville/"><img src="/variants/s6/dg4w1dg26t26k2t4~x4/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/oliphant/">Oliphant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/oliphant/"><img src="/variants/s6/db4k4db24g32w1g2~x2/sett.png" alt="Oliphant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

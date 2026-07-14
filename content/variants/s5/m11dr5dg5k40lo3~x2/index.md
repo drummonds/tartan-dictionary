@@ -12,10 +12,10 @@ crumbs:
 - name: "MacShimsi"
   url: "/tartans/m/ma/macshimsi/"
 - name: "MacShimsi Personal Tartan"
-  url: "/setts/m11dr5dg5k40lo3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/m11dr5dg5k40lo3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macshimsi/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGKY](/stripes/rbgky/).
 
 Part of the [MacShimsi](/tartans/m/ma/macshimsi/) tartan — the named design grouping this sett with its other cloths.

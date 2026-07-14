@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Rannoch"
   url: "/tartans/l/lo/loch-rannoch-4/"
 - name: "Loch Rannoch Fancy Tartan"
-  url: "/setts/g37w9g3k9w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g37w9g3k9w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-rannoch-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKW](/stripes/gwgkw/).
 
 Part of the [Loch Rannoch](/tartans/l/lo/loch-rannoch-4/) tartan — the named design grouping this sett with its other cloths.

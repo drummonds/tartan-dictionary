@@ -8,15 +8,15 @@ crumbs:
 - name: "Znaimer"
   url: "/tartans/z/zn/znaimer/"
 - name: "Znaimer (Canada)"
-  url: "/setts/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/z/zn/znaimer/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKWGWKKWRGKGKGKGKGRWKKWGWKW](/stripes/bwbwkwgwkkwrgkgkgkgkgrwkkwgwkw/).
 
 Part of the [Znaimer](/tartans/z/zn/znaimer/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10373](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10373)
 

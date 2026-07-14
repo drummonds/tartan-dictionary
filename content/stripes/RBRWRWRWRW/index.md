@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/w18r9w1r1w2r1w1r9db3r4/">Swiss Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w18r9w1r1w2r1w1r9db3r4/"><img src="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4~w3600000/sett.png" alt="Swiss Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sw/swiss/">Swiss</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/swiss/"><img src="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4~w3600000/sett.png" alt="Swiss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

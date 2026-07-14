@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k4y1k18db18lb1db4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbkgk/">BWBKGK</a></nav>
 Its design is pattern [BWBKGK](/stripes/bwbkgk/) — the page of every tartan sharing this colour sequence.
 
 The **Lyndon Prep** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Lyndon Prep** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4y1k18db18lb1db4/">Lyndon Prep</a></td><td><code>K/16 Y4 K72 DB72 LB4 DB/16</code></td><td>336</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4y1k18db18lb1db4/"><img src="/variants/s6/k4y1k18db18lb1db4~x4/sett.png" alt="Lyndon Prep sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4y1k18db18lb1db4~x4/">Lyndon Prep</a></td><td><code>K/16 Y4 K72 DB72 LB4 DB/16</code></td><td>336</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4y1k18db18lb1db4~x4/"><img src="/variants/s6/k4y1k18db18lb1db4~x4/sett.png" alt="Lyndon Prep sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="357.1" cy="178.7" r="4" fill="#3465a4"><title>Casterton</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="358.7" cy="144.0" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="301.4" cy="90.5" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.2" cy="160.7" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s8/k4n1dp5n1k20db37n4db4~x2/"><circle cx="373.8" cy="121.7" r="4" fill="#3465a4"><title>Finnie</title></circle></a><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="266.1" cy="214.5" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s6/db8k39db8k39db87r6/"><circle cx="369.8" cy="190.2" r="4" fill="#3465a4"><title>Largan</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="277.2" cy="155.7" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s6/db5k2db14k14db2lp2~x2/"><circle cx="310.2" cy="216.0" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="282.8" cy="171.2" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><circle cx="318.7" cy="163.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="358.1" cy="179.0" r="4" fill="#3465a4"><title>Casterton</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="359.7" cy="144.2" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="302.5" cy="90.6" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.9" cy="160.6" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s8/k4n1dp5n1k20db37n4db4~x2/"><circle cx="374.8" cy="121.8" r="4" fill="#3465a4"><title>Finnie</title></circle></a><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="266.8" cy="214.5" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s6/db8k39db8k39db87r6/"><circle cx="370.7" cy="190.4" r="4" fill="#3465a4"><title>Largan</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="278.0" cy="155.8" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s6/db5k2db14k14db2lp2~x2/"><circle cx="311.0" cy="216.2" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="283.6" cy="171.2" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><circle cx="319.6" cy="163.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

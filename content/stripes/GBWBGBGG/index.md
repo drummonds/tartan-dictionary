@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g99db20w8db30y8db10y8g46/">Duke of York Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g99db20w8db30y8db10y8g46/"><img src="/variants/s8/g99db20w8db30y8db10y8g46/sett.png" alt="Duke of York Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duke-of-york-hunting/">Duke of York Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duke-of-york-hunting/"><img src="/variants/s8/g99db20w8db30y8db10y8g46/sett.png" alt="Duke of York Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dy80g1dy2lo8dy2g1dy2r15k1r3lb2~x2/">Drovers' Tryst (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dy80g1dy2lo8dy2g1dy2r15k1r3lb2~x2/"><img src="/variants/s11/dy80g1dy2lo8dy2g1dy2r15k1r3lb2~x2/sett.png" alt="Drovers' Tryst (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drovers-tryst/">Drovers' Tryst</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drovers-tryst/"><img src="/variants/s11/dy80g1dy2lo8dy2g1dy2r15k1r3lb2~x2/sett.png" alt="Drovers' Tryst sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2~x2/">Diana Memorial Rose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2~x2/"><img src="/variants/s13/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2~x2/sett.png" alt="Diana Memorial Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/diana-memorial-rose/">Diana Memorial Rose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/diana-memorial-rose/"><img src="/variants/s13/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2~x2/sett.png" alt="Diana Memorial Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

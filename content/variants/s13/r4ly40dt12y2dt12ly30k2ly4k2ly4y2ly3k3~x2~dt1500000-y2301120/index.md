@@ -10,10 +10,10 @@ crumbs:
 - name: "Bartlett, Chris"
   url: "/tartans/b/ba/bartlett-chris/"
 - name: "Bartlett, Chris (Personal)"
-  url: "/setts/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bartlett-chris/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYGYKYKYBGBYR](/stripes/kygykykybgbyr/).
 
 Part of the [Bartlett, Chris](/tartans/b/ba/bartlett-chris/) tartan — the named design grouping this sett with its other cloths.

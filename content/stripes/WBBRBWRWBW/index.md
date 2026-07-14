@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w4dbi2w1r2w16dbi16r16dbi12db1w4~x2~dbi1406275-db1204274/">Spirit of Russia, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w4dbi2w1r2w16dbi16r16dbi12db1w4~x2~dbi1406275-db1204274/"><img src="/variants/s10/w4dbi2w1r2w16dbi16r16dbi12db1w4~x2~dbi1406275-db1204274/sett.png" alt="Spirit of Russia, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-russia-the/">Spirit of Russia, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-russia-the/"><img src="/variants/s10/w4dbi2w1r2w16dbi16r16dbi12db1w4~x2~dbi1406275-db1204274/sett.png" alt="Spirit of Russia, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

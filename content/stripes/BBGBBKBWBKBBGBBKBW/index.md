@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2~dp1105325-dpi1507327/">Heart of Scotland (Milne) Fancy Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2~dp1105325-dpi1507327/"><img src="/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2~dp1105325-dpi1507327/sett.png" alt="Heart of Scotland (Milne) Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heart-of-scotland-fancy-2/">Heart of Scotland Fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heart-of-scotland-fancy-2/"><img src="/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2~dp1105325-dpi1507327/sett.png" alt="Heart of Scotland Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

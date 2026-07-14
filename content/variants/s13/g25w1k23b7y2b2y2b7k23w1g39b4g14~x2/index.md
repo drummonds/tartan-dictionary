@@ -12,10 +12,10 @@ crumbs:
 - name: "Duffy"
   url: "/tartans/d/du/duffy-2/"
 - name: "Duffy"
-  url: "/setts/g25w1k23b7y2b2y2b7k23w1g39b4g14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g25w1k23b7y2b2y2b7k23w1g39b4g14/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duffy-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWKBGBGBKWG](/stripes/gbgwkbgbgbkwg/).
 
 Part of the [Duffy](/tartans/d/du/duffy-2/) tartan — the named design grouping this sett with its other cloths.

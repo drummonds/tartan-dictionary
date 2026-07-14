@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/ly100dy26g3r2/">Canadian Irish Regiment</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/ly100dy26g3r2/"><img src="/variants/s4/ly100dy26g3r2~x2~r2109032/sett.png" alt="Canadian Irish Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canadian-irish-regiment/">Canadian Irish Regiment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canadian-irish-regiment/"><img src="/variants/s4/ly100dy26g3r2~x2~r2109032/sett.png" alt="Canadian Irish Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

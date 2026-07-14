@@ -8,15 +8,15 @@ crumbs:
 - name: "Snoozzzeee"
   url: "/tartans/s/sn/snoozzzeee/"
 - name: "Snoozzzeee"
-  url: "/setts/w6r3db36r4db12w24r72w8db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w6r3db36r4db12w24r72w8db4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RBRBWRWBWRWBRBRW](/stripes/rbrbwrwbwrwbrbrw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sn/snoozzzeee/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRWBRBRW](/stripes/bwrwbrbrw/).
 
 Part of the [Snoozzzeee](/tartans/s/sn/snoozzzeee/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3828](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3828)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3828](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Snoozzzeee (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3828">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Designed for pet bedding accessories. Lochcarron of Scotland. Paul Foden, Pupster House, Road Four, Winsford Trading Estate, Winsford, Cheshire, England. CW7 3RS</em></li>
-<li>pre 2004 — Snoozzzeee (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6102">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Designed for pet bedding accessories. Lochcarron. of Scotland. Paul Foden, Pupster House, Road Four, Winsford Trading Estate, Winsford, Cheshire, England. CW7 3RS</em></li>
+<li>pre 2004 — Snoozzzeee (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6102/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Designed for pet bedding accessories. Lochcarron. of Scotland. Paul Foden, Pupster House, Road Four, Winsford Trading Estate, Winsford, Cheshire, England. CW7 3RS</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6102
 
 ## Thread count
-W/6 R3 DB36 R4 DB12 W24 R72 W8 DB4 W8 R72 W24 DB12 R4 DB36 R/3
+W/6 R3 DB36 R4 DB12 W24 R72 W8 DB/4
 
-One full sett is **647 threads**.
+One full sett is **328 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/6 R3 DB36 R4 DB12 W24 R72 W8 DB4 W8 R72 W24 DB12 R4 DB36 R/3 — 647 threads; it folds to the canonical 328-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **647 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/6 R3 DB36 R4 DB12 W24 R72 W8 DB4 W8 R72 W24 DB12 R4 DB36 R/3 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/6 R3 DB36 R4 DB12 W24 R72 W8 DB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/">Hutt #1 (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><img src="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/sett.png" alt="Hutt #1 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hutt/">Hutt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hutt/"><img src="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/sett.png" alt="Hutt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

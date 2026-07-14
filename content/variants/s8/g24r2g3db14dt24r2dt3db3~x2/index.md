@@ -10,17 +10,17 @@ crumbs:
 - name: "Grampian"
   url: "/families/grampian/"
 - name: "Grampian"
-  url: "/tartans/g/gr/grampian-2/"
+  url: "/tartans/g/gr/grampian/"
 - name: "Grampian"
-  url: "/setts/g24r2g3db14dt24r2dt3db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g24r2g3db14dt24r2dt3db3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGBBRBBBRBBGR](/stripes/grgbbrbbbrbbgr/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grampian/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBRBBGRG](/stripes/bbrbbgrg/).
 
-Part of the [Grampian](/tartans/g/gr/grampian-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Grampian](/tartans/g/gr/grampian/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1489](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1489)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1489](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1995 — Grampian (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1489">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#303070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OX #303070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><br><em>From House of Edgar 1995 designed by Polly Wittering based on (Htg. Ogilvie). Lighter of the two blues not right. Lochcarron swatch. Designed as a district tartan to reflect the colours of the Grampian Mountains. Macnaughtons of Pitlochry introduced this sett with their new range of district tartans.</em></li>
-<li>1995 — Grampian (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2151">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#303070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OX #303070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><br><em>From House of Edgar 1995 designed by Polly Wittering. based on Htg. Ogilvie. Lighter of the two blues not right. Lochcarron swatch.</em></li>
+<li>1995 — Grampian (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2151/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#303070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OX #303070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><br><em>From House of Edgar 1995 designed by Polly Wittering. based on Htg. Ogilvie. Lighter of the two blues not right. Lochcarron swatch.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2151
 
 ## Thread count
-G/48 R4 G6 DB28 DT48 R4 DT6 DB6 DT6 R4 DT48 DB28 G6 R/4
+G/48 R4 G6 DB28 DT48 R4 DT6 DB/6
 
-One full sett is **440 threads**.
+One full sett is **246 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/48 R4 G6 DB28 DT48 R4 DT6 DB6 DT6 R4 DT48 DB28 G6 R/4 — 440 threads; it folds to the canonical 246-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **440 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/48 R4 G6 DB28 DT48 R4 DT6 DB6 DT6 R4 DT48 DB28 G6 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/48 R4 G6 DB28 DT48 R4 DT6 DB/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

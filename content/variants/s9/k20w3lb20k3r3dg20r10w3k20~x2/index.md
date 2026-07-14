@@ -8,15 +8,15 @@ crumbs:
 - name: "Soutar"
   url: "/tartans/s/so/soutar/"
 - name: "Soutar/Souter"
-  url: "/setts/k20w3lb20k3r3dg20r10w3k20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k20w3lb20k3r3dg20r10w3k20/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWRGRKWWKWWKRGRW](/stripes/kwrgrkwwkwwkrgrw/).
+provenance below. It is one weaving of the [sett](/tartans/s/so/soutar/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWRGRKWWK](/stripes/kwrgrkwwk/).
 
 Part of the [Soutar](/tartans/s/so/soutar/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3839](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3839)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3839](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2001 — Soutar/Souter (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3839">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>Believed to have been designed for a Ronald Henry Soutar and Robin Scott Soutar but available for anyone of the name Soutar/Souter. Estimated thread count for display purposes only. For anyone with the name Soutar/Souter.</em></li>
-<li>pre 2002 — Soutar (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3976">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>Believed to have been designed for a Ronald Henry Soutar and Robin Scott Soutar but available for anyone of the name Soutar/Souter. Estimated thread count for display purposes only.</em></li>
+<li>pre 2002 — Soutar (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3976/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>Believed to have been designed for a Ronald Henry Soutar and Robin Scott Soutar but available for anyone of the name Soutar/Souter. Estimated thread count for display purposes only.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2834
 
 ## Thread count
-K/40 W6 R20 DG40 R6 K6 LB40 W6 K40 W6 LB40 K6 R6 DG40 R20 W/6
+K/40 W6 LB40 K6 R6 DG40 R20 W6 K/40
 
-One full sett is **610 threads**.
+One full sett is **328 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/40 W6 R20 DG40 R6 K6 LB40 W6 K40 W6 LB40 K6 R6 DG40 R20 W/6 — 610 threads; it folds to the canonical 328-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **610 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 W6 R20 DG40 R6 K6 LB40 W6 K40 W6 LB40 K6 R6 DG40 R20 W/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 W6 LB40 K6 R6 DG40 R20 W6 K/40 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

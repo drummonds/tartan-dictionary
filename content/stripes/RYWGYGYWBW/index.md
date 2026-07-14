@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/">State Seal of Delaware (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/"><img src="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/sett.png" alt="State Seal of Delaware (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-delaware/">State Seal of Delaware</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-delaware/"><img src="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/sett.png" alt="State Seal of Delaware sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/">Stuart/Stewart variant #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/"><img src="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/sett.png" alt="Stuart/Stewart variant #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-variant/">Stewart, variant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-variant/"><img src="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/sett.png" alt="Stewart, variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

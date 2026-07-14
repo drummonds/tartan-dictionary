@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/">Leung (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/"><img src="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/sett.png" alt="Leung (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leung/">Leung</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leung/"><img src="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/sett.png" alt="Leung sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

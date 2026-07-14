@@ -10,10 +10,10 @@ crumbs:
 - name: "Fraser, Isabella"
   url: "/tartans/f/fr/fraser-isabella/"
 - name: "Fraser, Isabella"
-  url: "/setts/dg2r21db60r48db2r3dg2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2r21db60r48db2r3dg2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraser-isabella/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRBRG](/stripes/grbrbrg/).
 
 Part of the [Fraser, Isabella](/tartans/f/fr/fraser-isabella/) tartan — the named design grouping this sett with its other cloths.

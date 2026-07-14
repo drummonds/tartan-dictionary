@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/">Huntsman</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/"><img src="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/sett.png" alt="Huntsman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/huntsman/">Huntsman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/huntsman/"><img src="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/sett.png" alt="Huntsman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

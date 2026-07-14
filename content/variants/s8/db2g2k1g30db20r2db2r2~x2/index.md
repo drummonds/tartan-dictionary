@@ -12,10 +12,10 @@ crumbs:
 - name: "Gretna"
   url: "/tartans/g/gr/gretna/"
 - name: "Gretna Green Fashion Tartan"
-  url: "/setts/db2g2k1g30db20r2db2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2g2k1g30db20r2db2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/gretna/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGBRBR](/stripes/bgkgbrbr/).
 
 Part of the [Gretna](/tartans/g/gr/gretna/) tartan — the named design grouping this sett with its other cloths.

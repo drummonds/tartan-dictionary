@@ -15,7 +15,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/i/is/islay-whisky-club-2/"><img src="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/sett.png" alt="Islay Whisky Club" width="140"><br><strong>Islay Whisky Club (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/i/is/isle-of-arran/"><img src="/variants/s25/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4~x2/sett.png" alt="Isle of Arran" width="140"><br><strong>Isle of Arran (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/i/is/isle-of-arran-2/"><img src="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/sett.png" alt="Isle of Arran" width="140"><br><strong>Isle of Arran (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/i/is/isle-of-barra/"><img src="/variants/s6/dp2w12t11lb12k1g2~x4~dp1607327/sett.png" alt="Isle of Barra" width="140"><br><strong>Isle of Barra (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/i/is/isle-of-barra/"><img src="/variants/s6/dp2w12t11lb12k1g2~x4/sett.png" alt="Isle of Barra" width="140"><br><strong>Isle of Barra (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/i/is/isle-of-cumbrae/"><img src="/variants/s7/k3y3r3y28n28lb2n2~x2~y2201120-n1900000/sett.png" alt="Isle of Cumbrae" width="140"><br><strong>Isle of Cumbrae (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/i/is/isle-of-gigha/"><img src="/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/sett.png" alt="Isle of Gigha" width="140"><br><strong>Isle of Gigha (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/i/is/isle-of-gigha-2/"><img src="/variants/s7/db2dg4r1dg4k4db4ly1~x8/sett.png" alt="Isle of Gigha" width="140"><br><strong>Isle of Gigha (1)</strong></a></li>

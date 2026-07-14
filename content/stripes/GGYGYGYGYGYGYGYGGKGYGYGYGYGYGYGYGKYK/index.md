@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/k50ly16k8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40k12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~ly2705081/">Alberta (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/k50ly16k8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40k12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~ly2705081/"><img src="/variants/s36/k50ly16k8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40k12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~ly2705081/sett.png" alt="Alberta (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alberta-4/">Alberta</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alberta-4/"><img src="/variants/s36/k50ly16k8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40k12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~ly2705081/sett.png" alt="Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

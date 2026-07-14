@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w6r13dt80w4dt2w4/">Montrose Football Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w6r13dt80w4dt2w4/"><img src="/variants/s6/w6r13dt80w4dt2w4/sett.png" alt="Montrose Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/montrose-football-club/">Montrose Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montrose-football-club/"><img src="/variants/s6/w6r13dt80w4dt2w4/sett.png" alt="Montrose Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

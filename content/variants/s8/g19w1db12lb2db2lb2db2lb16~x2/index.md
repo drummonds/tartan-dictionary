@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Unidentified No 52"
   url: "/tartans/u/un/unidentified-no-52/"
-- name: "Norwich No.052"
-  url: "/setts/g19w1db12lb2db2lb2db2lb16/"
+- name: "Unidentified No 52"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g19w1db12lb2db2lb2db2lb16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-no-52/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWBWBW](/stripes/gwbwbwbw/).
 
 Part of the [Unidentified No 52](/tartans/u/un/unidentified-no-52/) tartan — the named design grouping this sett with its other cloths.

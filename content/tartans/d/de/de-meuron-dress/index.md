@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w40dp5w6ly26n13w9dy3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwbywbw/">GWBYWBW</a></nav>
 Its design is pattern [GWBYWBW](/stripes/gwbywbw/) — the page of every tartan sharing this colour sequence.
 
 The **de Meuron Dress** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **de Meuron Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w40dp5w6ly26n13w9dy3/">de Meuron Dress</a></td><td><code>W/80 DP10 W12 LY52 N26 W18 DY/6</code></td><td>322</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w40dp5w6ly26n13w9dy3/"><img src="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/sett.png" alt="de Meuron Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/">de Meuron Dress</a></td><td><code>W/80 DP10 W12 LY52 N26 W18 DY/6</code></td><td>322</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/"><img src="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/sett.png" alt="de Meuron Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="258.5" cy="202.7" r="4" fill="#3465a4"><title>Shiel Lavender</title></circle></a><a href="/variants/s7/w8ly3w22n22dr3r2w4~x2/"><circle cx="262.3" cy="183.9" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="248.1" cy="190.0" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="249.5" cy="205.0" r="4" fill="#3465a4"><title>MacGrath</title></circle></a><a href="/variants/s6/n2w2y7lb14n2w2~x2/"><circle cx="317.2" cy="269.8" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="324.4" cy="198.2" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s12/w5lb1dp1w10lb2w1dp4w10g8lb2w1dp3~x2~dp1607327/"><circle cx="283.0" cy="206.4" r="4" fill="#3465a4"><title>Unidentified Scarlett</title></circle></a><circle cx="295.2" cy="210.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="258.7" cy="202.5" r="4" fill="#3465a4"><title>Shiel Lavender</title></circle></a><a href="/variants/s7/w8ly3w22n22dr3r2w4~x2/"><circle cx="262.7" cy="183.8" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="248.4" cy="189.8" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="249.6" cy="204.8" r="4" fill="#3465a4"><title>MacGrath</title></circle></a><a href="/variants/s6/n2w2y7lb14n2w2~x2/"><circle cx="317.2" cy="269.8" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="324.8" cy="198.1" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s12/w5lb1dp1w10lb2w1dp4w10g8lb2w1dp3~x2~dp1607327/"><circle cx="283.3" cy="206.3" r="4" fill="#3465a4"><title>Unidentified Scarlett</title></circle></a><circle cx="295.5" cy="210.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

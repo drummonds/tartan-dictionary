@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/">Fort William (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/"><img src="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/sett.png" alt="Fort William (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/fort-william/">Fort William</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fort-william/"><img src="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/sett.png" alt="Fort William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

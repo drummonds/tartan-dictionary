@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/">Blackwater (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/"><img src="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/sett.png" alt="Blackwater (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blackwater/">Blackwater</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blackwater/"><img src="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/sett.png" alt="Blackwater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

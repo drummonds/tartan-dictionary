@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k8r12w8g15db30y5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgwrk/">GBGWRK</a></nav>
 Its design is pattern [GBGWRK](/stripes/gbgwrk/) — the page of every tartan sharing this colour sequence.
 
 The **Reekie** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Reekie** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k8r12w8g15db30y5/">Reekie</a></td><td><code>K/16 R24 W16 G30 DB60 Y/10</code></td><td>286</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k8r12w8g15db30y5/"><img src="/variants/s6/k8r12w8g15db30y5~x2/sett.png" alt="Reekie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k8r12w8g15db30y5~x2/">Reekie</a></td><td><code>K/16 R24 W16 G30 DB60 Y/10</code></td><td>286</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k8r12w8g15db30y5~x2/"><img src="/variants/s6/k8r12w8g15db30y5~x2/sett.png" alt="Reekie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="60.9" cy="181.0" r="4" fill="#3465a4"><title>South Africa 1994</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="93.7" cy="192.4" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="142.9" cy="196.1" r="4" fill="#3465a4"><title>Royal College of Physicians</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="65.2" cy="180.2" r="4" fill="#3465a4"><title>Kentucky State</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="58.9" cy="179.8" r="4" fill="#3465a4"><title>Kentucky, State of</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="149.2" cy="190.0" r="4" fill="#3465a4"><title>Stovell</title></circle></a><a href="/variants/s6/r10k17lb10dp17g40y10~x2/"><circle cx="64.0" cy="224.9" r="4" fill="#3465a4"><title>Gallowater, Original</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="107.4" cy="226.9" r="4" fill="#3465a4"><title>Jamestown Parish Church</title></circle></a><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="43.6" cy="195.1" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="77.4" cy="194.9" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><circle cx="76.1" cy="203.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="61.0" cy="180.6" r="4" fill="#3465a4"><title>South Africa 1994</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="93.9" cy="192.1" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="143.2" cy="196.0" r="4" fill="#3465a4"><title>Royal College of Physicians</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="65.3" cy="179.8" r="4" fill="#3465a4"><title>Kentucky State</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="59.0" cy="179.4" r="4" fill="#3465a4"><title>Kentucky, State of</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="149.6" cy="189.8" r="4" fill="#3465a4"><title>Stovell</title></circle></a><a href="/variants/s6/r10k17lb10dp17g40y10~x2/"><circle cx="64.0" cy="224.6" r="4" fill="#3465a4"><title>Gallowater, Original</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="107.3" cy="226.5" r="4" fill="#3465a4"><title>Jamestown Parish Church</title></circle></a><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="43.7" cy="194.7" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="77.5" cy="194.6" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><circle cx="76.2" cy="203.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

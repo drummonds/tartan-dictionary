@@ -45,7 +45,7 @@ A family of [Clan MacKinnon](/clan/mackinnon/).
 <tr><td><a href="/tartans/m/ma/mackinnon-hunting-2/">MacKinnon Hunting</a></td><td>1959</td><td>1</td><td>1</td><td>6.38</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-hunting-2/"><img src="/variants/s12/dy8w1dy8g8r1g8dy8g1dy8g8r1g8~x8/sett.png" alt="MacKinnon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-hunting-4/">MacKinnon Hunting</a></td><td>~1959</td><td>1</td><td>2</td><td>6.42</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-hunting-4/"><img src="/variants/s7/g1dy8g8r1g8dy8w1~x2/sett.png" alt="MacKinnon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-hunting-4/"><img src="/variants/s7/g1dy8g8r1g8dy8w1~x4/sett.png" alt="MacKinnon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon/">MacKinnon</a></td><td>2007</td><td>1</td><td>1</td><td>6.57</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon/"><img src="dp3r4k5r12k24r3k10r26k12dp3r6w3-rev.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-8/">MacKinnon 8</a></td><td>—</td><td>1</td><td>1</td><td>6.84</td></tr>

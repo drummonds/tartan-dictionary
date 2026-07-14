@@ -8,10 +8,10 @@ crumbs:
 - name: "Lord Laird"
   url: "/tartans/l/lo/lord-laird/"
 - name: "Lord Laird"
-  url: "/setts/k4w26k10lo8k3lo8k10r26w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4w26k10lo8k3lo8k10r26w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lord-laird/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKYKYKRW](/stripes/kwkykykrw/).
 
 Part of the [Lord Laird](/tartans/l/lo/lord-laird/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1973 — Lord Laird (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#ECE8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #ECE8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Modification of Buchanan. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1973 — Lord Laird (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5491">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#ECE8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #ECE8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Modification of Buchanan. Sample in STA Johnston Collection.</em></li>
+<li>pre 1973 — Lord Laird (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5491/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#ECE8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #ECE8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Modification of Buchanan. Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

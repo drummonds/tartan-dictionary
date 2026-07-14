@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/">Callum, Blue (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/"><img src="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/sett.png" alt="Callum, Blue (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s12/dr3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/">Callum, Brown (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/"><img src="/variants/s12/dr3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/sett.png" alt="Callum, Brown (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/callum-3/">Callum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/callum-3/"><img src="/variants/s12/dr3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/sett.png" alt="Callum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

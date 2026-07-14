@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp2r4g12r3dp6r10w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgrbrw/">BRGRBRW</a></nav>
 Its design is pattern [BRGRBRW](/stripes/brgrbrw/) — the page of every tartan sharing this colour sequence.
 
 The **MacKintosh-Geddes** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **MacKintosh-Geddes** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp2r4g12r3dp6r10w2/">MacKintosh-Geddes</a></td><td><code>DP/4 R8 G24 R6 DP12 R20 W/4</code></td><td>148</td><td>1840</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp2r4g12r3dp6r10w2/"><img src="/variants/s7/dp2r4g12r3dp6r10w2~x2/sett.png" alt="MacKintosh-Geddes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp2r4g12r3dp6r10w2~x2/">MacKintosh-Geddes</a></td><td><code>DP/4 R8 G24 R6 DP12 R20 W/4</code></td><td>148</td><td>1840</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp2r4g12r3dp6r10w2~x2/"><img src="/variants/s7/dp2r4g12r3dp6r10w2~x2/sett.png" alt="MacKintosh-Geddes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="246.3" cy="199.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s6/dp4r3dp26r26g26r4~x2/"><circle cx="246.3" cy="240.8" r="4" fill="#3465a4"><title>Unidentified 16</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="239.3" cy="240.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s8/g28r4dp25w5r22g27r4dp2~x2/"><circle cx="248.6" cy="198.0" r="4" fill="#3465a4"><title>New Glasgow</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/"><circle cx="244.1" cy="202.4" r="4" fill="#3465a4"><title>Convention of the Baronage</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/"><circle cx="237.7" cy="203.6" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="266.9" cy="169.2" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s6/dr24n5o9n2o9w9~x4/"><circle cx="222.0" cy="217.3" r="4" fill="#3465a4"><title>Plaid Wine</title></circle></a><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/"><circle cx="171.8" cy="224.0" r="4" fill="#3465a4"><title>Monaghan, County</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="196.0" cy="272.2" r="4" fill="#3465a4"><title>Torana</title></circle></a><circle cx="209.5" cy="238.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="246.7" cy="198.9" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s6/dp4r3dp26r26g26r4~x2/"><circle cx="246.6" cy="240.7" r="4" fill="#3465a4"><title>Unidentified 16</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="239.6" cy="240.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s8/g28r4dp25w5r22g27r4dp2~x2/"><circle cx="249.0" cy="198.0" r="4" fill="#3465a4"><title>New Glasgow</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/"><circle cx="244.5" cy="202.3" r="4" fill="#3465a4"><title>Convention of the Baronage</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/"><circle cx="238.0" cy="203.5" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="267.4" cy="169.1" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s6/dr24n5o9n2o9w9~x4/"><circle cx="222.3" cy="217.2" r="4" fill="#3465a4"><title>Plaid Wine</title></circle></a><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/"><circle cx="171.9" cy="223.8" r="4" fill="#3465a4"><title>Monaghan, County</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="196.1" cy="272.1" r="4" fill="#3465a4"><title>Torana</title></circle></a><circle cx="209.8" cy="238.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

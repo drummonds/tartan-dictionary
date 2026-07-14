@@ -8,10 +8,10 @@ crumbs:
 - name: "Benteau na mara"
   url: "/tartans/b/be/benteau-na-mara/"
 - name: "Benteau na mara"
-  url: "/setts/y1dbi2dg20r3dbi30y1dbi30lb3db9dg4r3dg4dbi2y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1dbi2dg20r3dbi30y1dbi30lb3db9dg4r3dg4dbi2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/benteau-na-mara/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRBGBWBGRGBG](/stripes/gbgrbgbwbgrgbg/).
 
 Part of the [Benteau na mara](/tartans/b/be/benteau-na-mara/) tartan — the named design grouping this sett with its other cloths.

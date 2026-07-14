@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s38/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/">New Brunswick, variation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s38/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/"><img src="/variants/s38/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/sett.png" alt="New Brunswick, variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-brunswick-variation-2/">New Brunswick, variation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-brunswick-variation-2/"><img src="/variants/s38/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/sett.png" alt="New Brunswick, variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

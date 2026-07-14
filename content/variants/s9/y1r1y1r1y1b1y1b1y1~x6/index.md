@@ -12,10 +12,10 @@ crumbs:
 - name: "Compaq"
   url: "/tartans/c/co/compaq/"
 - name: "Compaq"
-  url: "/setts/y1r1y1r1y1b1y1b1y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1r1y1r1y1b1y1b1y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/compaq/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGRGRG](/stripes/gbgbgrgrg/).
 
 Part of the [Compaq](/tartans/c/co/compaq/) tartan — the named design grouping this sett with its other cloths.

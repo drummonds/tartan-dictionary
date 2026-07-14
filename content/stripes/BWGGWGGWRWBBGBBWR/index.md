@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/">7th Cavalry (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/"><img src="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/sett.png" alt="7th Cavalry (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/7th-cavalry/">7th Cavalry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/7th-cavalry/"><img src="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/sett.png" alt="7th Cavalry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/">Cavalry, 7th..</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/"><img src="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/sett.png" alt="Cavalry, 7th.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cavalry-7th/">Cavalry, 7th..</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cavalry-7th/"><img src="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/sett.png" alt="Cavalry, 7th.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

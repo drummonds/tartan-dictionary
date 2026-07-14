@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/">Mary, Queen of Scots</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"><img src="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/sett.png" alt="Mary, Queen of Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mary-queen-of-scots/">Mary, Queen of Scots</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mary-queen-of-scots/"><img src="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/sett.png" alt="Mary, Queen of Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

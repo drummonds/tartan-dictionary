@@ -12,10 +12,10 @@ crumbs:
 - name: "Breckon"
   url: "/tartans/b/br/breckon/"
 - name: "Breckon"
-  url: "/setts/db3dy1db14r14dy1r1dy1r1db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3dy1db14r14dy1r1dy1r1db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/breckon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRGRGRB](/stripes/bgbrgrgrb/).
 
 Part of the [Breckon](/tartans/b/br/breckon/) tartan — the named design grouping this sett with its other cloths.

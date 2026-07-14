@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/lb6ly6t21db32r3~x2/">Jamieson, Robert (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lb6ly6t21db32r3~x2/"><img src="/variants/s5/lb6ly6t21db32r3~x2/sett.png" alt="Jamieson, Robert (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/jamieson-robert/">Jamieson, Robert</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/jamieson-robert/"><img src="/variants/s5/lb6ly6t21db32r3~x2/sett.png" alt="Jamieson, Robert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

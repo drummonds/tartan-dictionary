@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r5k16lb7dp16w1g21y5~x2/">Gallowater New District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r5k16lb7dp16w1g21y5~x2/"><img src="/variants/s7/r5k16lb7dp16w1g21y5~x2/sett.png" alt="Gallowater New District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r11k33lb14dp32w2dg42y10/">Gallowater, New (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r11k33lb14dp32w2dg42y10/"><img src="/variants/s7/r11k33lb14dp32w2dg42y10/sett.png" alt="Gallowater, New (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gala-water-new/">Gala Water New</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gala-water-new/"><img src="/variants/s7/r5k16lb7dp16w1g21y5~x2/sett.png" alt="Gala Water New sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gallowater-new/">Gallowater, New</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gallowater-new/"><img src="/variants/s7/r11k33lb14dp32w2dg42y10/sett.png" alt="Gallowater, New sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

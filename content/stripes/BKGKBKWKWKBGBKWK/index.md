@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/n52k4y2k8n78k8lb8k4lb4k4n13y2n4k4w4k4~x4/">Maxem Eyewear (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/n52k4y2k8n78k8lb8k4lb4k4n13y2n4k4w4k4~x4/"><img src="/variants/s16/n52k4y2k8n78k8lb8k4lb4k4n13y2n4k4w4k4~x4/sett.png" alt="Maxem Eyewear (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maxem-eyewear/">Maxem Eyewear</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maxem-eyewear/"><img src="/variants/s16/n52k4y2k8n78k8lb8k4lb4k4n13y2n4k4w4k4~x4/sett.png" alt="Maxem Eyewear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

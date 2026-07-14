@@ -10,10 +10,10 @@ crumbs:
 - name: "Marshall"
   url: "/tartans/m/ma/marshall/"
 - name: "Marshall"
-  url: "/setts/r4n4dt2n24lb1dt14n2r18n4dt3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4n4dt2n24lb1dt14n2r18n4dt3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/marshall/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBBWBBBR](/stripes/bbrbbwbbbr/).
 
 Part of the [Marshall](/tartans/m/ma/marshall/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/">Arran (Strathmore)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/"><img src="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/sett.png" alt="Arran (Strathmore) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arran/">Arran</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arran/"><img src="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/sett.png" alt="Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

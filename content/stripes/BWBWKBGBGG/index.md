@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/">Jones Htg (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><img src="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/sett.png" alt="Jones Htg (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jones-hunting-2/">Jones Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jones-hunting-2/"><img src="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/sett.png" alt="Jones Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

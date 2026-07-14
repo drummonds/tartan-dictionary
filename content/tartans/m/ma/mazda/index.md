@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w4k4w21k12w4k12ly4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wkwkwky/">WKWKWKY</a></nav>
 Its design is pattern [WKWKWKY](/stripes/wkwkwky/) — the page of every tartan sharing this colour sequence.
 
 The **Mazda** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Mazda** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w4k4w21k12w4k12ly4/">Mazda</a></td><td><code>LY/4 K12 W4 K12 W21 K4 W/4</code></td><td>114</td><td>~2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w4k4w21k12w4k12ly4/"><img src="/variants/s7/w4k4w21k12w4k12ly4/sett.png" alt="Mazda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w4k4w21k12w4k12ly4/">Mazda</a></td><td><code>W/4 K4 W21 K12 W4 K12 LY/4</code></td><td>114</td><td>~2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w4k4w21k12w4k12ly4/"><img src="/variants/s7/w4k4w21k12w4k12ly4/sett.png" alt="Mazda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w5k4w32k32w5k4~x2/"><circle cx="292.5" cy="202.4" r="4" fill="#3465a4"><title>Valley Forge</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x6/"><circle cx="288.9" cy="203.0" r="4" fill="#3465a4"><title>Erskine BW MINI Design</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15ly18r3~x2/"><circle cx="113.1" cy="199.1" r="4" fill="#3465a4"><title>Holden Beige</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="111.8" cy="191.0" r="4" fill="#3465a4"><title>Holden</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="108.5" cy="191.2" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="291.2" cy="219.8" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="290.2" cy="153.4" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="273.6" cy="166.8" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s7/k10y2k10w2k2y13w3~x2/"><circle cx="225.8" cy="202.6" r="4" fill="#3465a4"><title>Nooten-Boom</title></circle></a><a href="/variants/s5/w8k1w8k12w1~x2/"><circle cx="312.0" cy="213.1" r="4" fill="#3465a4"><title>MacLeod Black &amp;</title></circle></a><circle cx="208.4" cy="223.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w5k4w32k32w5k4~x2/"><circle cx="293.2" cy="202.5" r="4" fill="#3465a4"><title>Valley Forge</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x6/"><circle cx="289.7" cy="203.1" r="4" fill="#3465a4"><title>Erskine BW MINI Design</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15ly18r3~x2/"><circle cx="113.3" cy="198.8" r="4" fill="#3465a4"><title>Holden Beige</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="112.1" cy="190.7" r="4" fill="#3465a4"><title>Holden</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="108.8" cy="191.0" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="291.9" cy="219.9" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="291.0" cy="153.4" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="274.3" cy="166.8" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s7/k10y2k10w2k2y13w3~x2/"><circle cx="226.4" cy="202.6" r="4" fill="#3465a4"><title>Nooten-Boom</title></circle></a><a href="/variants/s5/w8k1w8k12w1~x2/"><circle cx="312.8" cy="213.2" r="4" fill="#3465a4"><title>MacLeod Black &amp;</title></circle></a><circle cx="208.9" cy="223.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

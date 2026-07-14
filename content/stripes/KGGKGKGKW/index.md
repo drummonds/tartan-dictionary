@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/">Dropkick Murphys</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/"><img src="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/sett.png" alt="Dropkick Murphys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/dropkick-murphys/">Dropkick Murphys</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/dropkick-murphys/"><img src="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/sett.png" alt="Dropkick Murphys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

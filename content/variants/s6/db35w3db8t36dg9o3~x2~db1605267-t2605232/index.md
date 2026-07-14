@@ -8,10 +8,10 @@ crumbs:
 - name: "Georgian Bay, Waters of"
   url: "/tartans/g/ge/georgian-bay-waters-of/"
 - name: "Georgian Bay, Waters of"
-  url: "/setts/db35w3db8t36dg9o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db35w3db8t36dg9o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ge/georgian-bay-waters-of/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBGR](/stripes/bwbbgr/).
 
 Part of the [Georgian Bay, Waters of](/tartans/g/ge/georgian-bay-waters-of/) tartan — the named design grouping this sett with its other cloths.

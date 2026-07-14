@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/ki10k3ki3k32dg1k1dg1k2n2~x2~ki0700000-k0504259/">Orman (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/ki10k3ki3k32dg1k1dg1k2n2~x2~ki0700000-k0504259/"><img src="/variants/s9/ki10k3ki3k32dg1k1dg1k2n2~x2~ki0700000-k0504259/sett.png" alt="Orman (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/orman/">Orman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orman/"><img src="/variants/s9/ki10k3ki3k32dg1k1dg1k2n2~x2~ki0700000-k0504259/sett.png" alt="Orman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

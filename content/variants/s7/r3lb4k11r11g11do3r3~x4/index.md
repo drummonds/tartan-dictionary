@@ -10,15 +10,15 @@ crumbs:
 - name: "Stewart"
   url: "/families/stewart/"
 - name: "Stewart"
-  url: "/tartans/s/st/stewart-3/"
+  url: "/tartans/s/st/stewart-4/"
 - name: "Stewart /Stuart- Fragment Cf 1452 & 1445"
-  url: "/setts/r3lb4k11r11g11do3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3lb4k11r11g11do3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGRKWR](/stripes/rbgrkwr/).
 
-Part of the [Stewart](/tartans/s/st/stewart-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stewart](/tartans/s/st/stewart-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3932](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Stewart /Stuart- Fragment Cf 1452 & 1445 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3932">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><br><em>In Fort William Museum and Museum of Antiquities in Edinburgh. The G could also be a third B, and the T originally K - see Tartan p.6 by Hugh Cheape.</em></li>
-<li>pre 2002 — Stewart (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1316">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><br><em>In Fort William Museum and Museum of Antiquities in Edinburgh.</em></li>
+<li>pre 2002 — Stewart (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1316/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><br><em>In Fort William Museum and Museum of Antiquities in Edinburgh.</em></li>
 </ul>
 </details>
 

@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/cawte/"
 - name: "Cawte of Middlebanknock"
   url: "/families/cawte-of-middlebanknock/"
+aliases:
+- "/setts/g13y16w4y4r4y4k20y8r8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggwgrgkgr/">GGWGRGKGR</a></nav>
 A tartan of the [Cawte of Middlebanknock](/families/cawte-of-middlebanknock/) family.
 Its design is pattern [GGWGRGKGR](/stripes/ggwgrgkgr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Cawte of Middlebanknock** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g13y16w4y4r4y4k20y8r8/">Cawte of Middlebanknock</a></td><td><code>G/26 Y32 W8 Y8 R8 Y8 K40 Y16 R/16</code></td><td>282</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g13y16w4y4r4y4k20y8r8/"><img src="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/sett.png" alt="Cawte of Middlebanknock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/">Cawte of Middlebanknock</a></td><td><code>G/26 Y32 W8 Y8 R8 Y8 K40 Y16 R/16</code></td><td>282</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><img src="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/sett.png" alt="Cawte of Middlebanknock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="152.4" cy="239.1" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="102.2" cy="217.4" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.5" cy="209.9" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="74.4" cy="225.6" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="95.6" cy="220.4" r="4" fill="#3465a4"><title>Aboyne</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="138.6" cy="226.9" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/"><circle cx="93.5" cy="195.3" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><circle cx="101.4" cy="163.8" r="4" fill="#3465a4"><title>Maguire</title></circle></a><a href="/variants/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="73.7" cy="220.4" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s6/r2ly8db2y4k4y1~x6/"><circle cx="104.0" cy="201.0" r="4" fill="#3465a4"><title>Thompson</title></circle></a><circle cx="93.4" cy="207.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="152.7" cy="239.0" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="102.3" cy="217.1" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.7" cy="209.6" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="74.5" cy="225.3" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="95.8" cy="220.1" r="4" fill="#3465a4"><title>Aboyne</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="138.8" cy="226.7" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/"><circle cx="93.8" cy="195.1" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><circle cx="101.6" cy="163.5" r="4" fill="#3465a4"><title>Maguire</title></circle></a><a href="/variants/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="73.7" cy="220.1" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s6/r2ly8db2y4k4y1~x6/"><circle cx="104.1" cy="200.7" r="4" fill="#3465a4"><title>Thompson</title></circle></a><circle cx="93.5" cy="207.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

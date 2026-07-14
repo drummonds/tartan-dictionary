@@ -10,10 +10,10 @@ crumbs:
 - name: "Hawick Corporate"
   url: "/tartans/h/ha/hawick-corporate/"
 - name: "Hawick Corporate District Tartan"
-  url: "/setts/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hawick-corporate/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBWBGBWBGBWBGRGWRWBWBGBWBGBWBGR](/stripes/grgbwbgbwbgbwbgrgwrwbwbgbwbgbwbgr/).
 
 Part of the [Hawick Corporate](/tartans/h/ha/hawick-corporate/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/">Albuquerque, City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><img src="/variants/s8/r2g12db2g8db18w3r2w2~x2/sett.png" alt="Albuquerque, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/albuquerque-city-of/">Albuquerque, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/albuquerque-city-of/"><img src="/variants/s8/r2g12db2g8db18w3r2w2~x2/sett.png" alt="Albuquerque, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

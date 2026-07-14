@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/">Head of the Lakes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/"><img src="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/sett.png" alt="Head of the Lakes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/head-of-the-lakes-2/">Head of the Lakes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/head-of-the-lakes-2/"><img src="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/sett.png" alt="Head of the Lakes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

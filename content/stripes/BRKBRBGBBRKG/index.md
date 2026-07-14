@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g19k20r1db8t8g8db3r1n12k8r1n1~x2~db1003265-t2105244/">Vine (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g19k20r1db8t8g8db3r1n12k8r1n1~x2~db1003265-t2105244/"><img src="/variants/s12/g19k20r1db8t8g8db3r1n12k8r1n1~x2~db1003265-t2105244/sett.png" alt="Vine (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/vine/">Vine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/vine/"><img src="/variants/s12/g19k20r1db8t8g8db3r1n12k8r1n1~x2~db1003265-t2105244/sett.png" alt="Vine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

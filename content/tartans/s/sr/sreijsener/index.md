@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ri8r12k6r33k72n6k8w6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rrkrkbkw/">RRKRKBKW</a></nav>
 Its design is pattern [RRKRKBKW](/stripes/rrkrkbkw/) — the page of every tartan sharing this colour sequence.
 
 The **Sreijsener** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Sreijsener** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ri8r12k6r33k72n6k8w6/">Sreijsener</a></td><td><code>Ri/8 R12 K6 R33 K72 N6 K8 W/6</code></td><td>288</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ri8r12k6r33k72n6k8w6/"><img src="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/sett.png" alt="Sreijsener sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/">Sreijsener</a></td><td><code>Ri/8 R12 K6 R33 K72 N6 K8 W/6</code></td><td>288</td><td>~2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/"><img src="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/sett.png" alt="Sreijsener sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"><circle cx="236.5" cy="136.6" r="4" fill="#3465a4"><title>Craigholme</title></circle></a><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="249.4" cy="92.2" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="248.8" cy="92.5" r="4" fill="#3465a4"><title>Brotherhood of Dirk</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="278.0" cy="121.2" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><circle cx="309.2" cy="123.7" r="4" fill="#3465a4"><title>Muylle, Jelle</title></circle></a><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="221.6" cy="159.2" r="4" fill="#3465a4"><title>Nakayama</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="260.8" cy="121.3" r="4" fill="#3465a4"><title>Cunard O' The Clyde</title></circle></a><a href="/variants/s7/k51r21y4r12g8db4r5~x2/"><circle cx="219.6" cy="126.3" r="4" fill="#3465a4"><title>Totté</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="240.5" cy="147.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="344.4" cy="93.3" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><circle cx="265.1" cy="113.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"><circle cx="237.3" cy="136.6" r="4" fill="#3465a4"><title>Craigholme</title></circle></a><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="250.3" cy="92.1" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="249.8" cy="92.5" r="4" fill="#3465a4"><title>Brotherhood of Dirk</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="279.0" cy="121.2" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><circle cx="310.3" cy="123.8" r="4" fill="#3465a4"><title>Muylle, Jelle</title></circle></a><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="222.4" cy="159.1" r="4" fill="#3465a4"><title>Nakayama</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="261.7" cy="121.2" r="4" fill="#3465a4"><title>Cunard O' The Clyde</title></circle></a><a href="/variants/s7/k51r21y4r12g8db4r5~x2/"><circle cx="220.3" cy="126.2" r="4" fill="#3465a4"><title>Totté</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="241.2" cy="147.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="345.6" cy="93.4" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><circle cx="266.0" cy="113.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

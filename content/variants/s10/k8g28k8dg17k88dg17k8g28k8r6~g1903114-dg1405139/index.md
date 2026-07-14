@@ -12,10 +12,10 @@ crumbs:
 - name: "Childers"
   url: "/tartans/c/ch/childers/"
 - name: "Childers (Gurkha Rifles)"
-  url: "/setts/k8g28k8dg17k88dg17k8g28k8r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8g28k8dg17k88dg17k8g28k8r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/childers/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGKGKR](/stripes/kgkgkgkgkr/).
 
 Part of the [Childers](/tartans/c/ch/childers/) tartan — the named design grouping this sett with its other cloths.

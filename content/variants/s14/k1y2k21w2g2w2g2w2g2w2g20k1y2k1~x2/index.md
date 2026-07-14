@@ -8,10 +8,10 @@ crumbs:
 - name: "Hammaby,The"
   url: "/tartans/h/ha/hammaby-the/"
 - name: "Hammaby,The"
-  url: "/setts/k1y2k21w2g2w2g2w2g2w2g20k1y2k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1y2k21w2g2w2g2w2g2w2g20k1y2k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hammaby-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGWGWGWGWKGK](/stripes/kgkgwgwgwgwkgk/).
 
 Part of the [Hammaby,The](/tartans/h/ha/hammaby-the/) tartan — the named design grouping this sett with its other cloths.

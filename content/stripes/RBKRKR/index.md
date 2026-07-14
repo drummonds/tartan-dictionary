@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/">Harley Davidson (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/"><img src="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/sett.png" alt="Harley Davidson (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harley-davidson-2/">Harley Davidson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harley-davidson-2/"><img src="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/sett.png" alt="Harley Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

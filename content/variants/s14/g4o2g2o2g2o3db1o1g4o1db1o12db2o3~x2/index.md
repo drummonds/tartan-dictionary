@@ -12,10 +12,10 @@ crumbs:
 - name: "MacAlister of Glenbarr"
   url: "/tartans/m/ma/macalister-of-glenbarr-2/"
 - name: "MacAlister of Glenbarr"
-  url: "/setts/g4o2g2o2g2o3db1o1g4o1db1o12db2o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4o2g2o2g2o3db1o1g4o1db1o12db2o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macalister-of-glenbarr-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/).
 
 Part of the [MacAlister of Glenbarr](/tartans/m/ma/macalister-of-glenbarr-2/) tartan — the named design grouping this sett with its other cloths.

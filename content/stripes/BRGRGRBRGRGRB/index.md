@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/b4r10g7r70g7r4dp21r4g85r4g7r10b4/">Crieff</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/b4r10g7r70g7r4dp21r4g85r4g7r10b4/"><img src="/variants/s13/b4r10g7r70g7r4dp21r4g85r4g7r10b4/sett.png" alt="Crieff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crieff/">Crieff</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crieff/"><img src="/variants/s13/b4r10g7r70g7r4dp21r4g85r4g7r10b4/sett.png" alt="Crieff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

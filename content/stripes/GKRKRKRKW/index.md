@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/">Maciver of Strathendry Castle Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><img src="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/sett.png" alt="Maciver of Strathendry Castle Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maciver-of-strathendry-castle-dress/">Maciver of Strathendry Castle Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maciver-of-strathendry-castle-dress/"><img src="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/sett.png" alt="Maciver of Strathendry Castle Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

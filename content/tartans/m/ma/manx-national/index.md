@@ -6,7 +6,16 @@ crumbs:
   url: "/"
 - name: "Clan Manx"
   url: "/clan/manx/"
+aliases:
+- "/setts/dp8g31r4dy4db17lb64w4/"
+- "/setts/dp2g6r1dy1db3lb10w1/"
+- "/setts/dp2g6r1y1db3b10w1/"
+- "/setts/dp2g8r1dy1db6lb15w1/"
+- "/setts/dp8g31r4y4db17b64w4/"
+- "/setts/lp5g9r2dy2db6lb14w3/"
+- "/setts/p5g9r2dy2db6lb14w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgrgbww/">BGRGBWW</a></nav>
 A tartan of [Clan Manx](/clan/manx/).
 Its design is pattern [BGRGBWW](/stripes/bgrgbww/) — the page of every tartan sharing this colour sequence.
 
@@ -16,20 +25,20 @@ The **Manx National** tartan groups 7 setts — the same named design recorded a
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp8g31r4dy4db17lb64w4/">Manx National</a> ★</td><td><code>DP/8 G31 R4 DY4 DB17 LB64 W/4</code></td><td>252</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp8g31r4dy4db17lb64w4/"><img src="/variants/s7/dp8g31r4dy4db17lb64w4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dp2g6r1dy1db3lb10w1/">District Tartan</a></td><td><code>DP/4 G12 R2 DY2 DB6 LB20 W/2</code></td><td>90</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp2g6r1dy1db3lb10w1/"><img src="/variants/s7/dp2g6r1dy1db3lb10w1~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dp2g6r1y1db3b10w1/">Manx National</a></td><td><code>DP/4 G12 R2 Y2 DB6 B20 W/2</code></td><td>90</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp2g6r1y1db3b10w1/"><img src="/variants/s7/dp2g6r1y1db3b10w1~x2/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dp2g8r1dy1db6lb15w1/">District Tartan</a></td><td><code>DP/8 G32 R4 DY4 DB24 LB60 W/4</code></td><td>260</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp2g8r1dy1db6lb15w1/"><img src="/variants/s7/dp2g8r1dy1db6lb15w1~x4/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dp8g31r4y4db17b64w4/">Manx National</a></td><td><code>DP/8 G31 R4 Y4 DB17 B64 W/4</code></td><td>252</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp8g31r4y4db17b64w4/"><img src="/variants/s7/dp8g31r4y4db17b64w4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lp5g9r2dy2db6lb14w3/">(District)</a></td><td><code>LP/20 G36 R8 DY8 DB24 LB56 W/12</code></td><td>296</td><td>1958</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lp5g9r2dy2db6lb14w3/"><img src="/variants/s7/lp5g9r2dy2db6lb14w3~x4/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/p5g9r2dy2db6lb14w3/">Manx National</a></td><td><code>P/20 G36 R8 DY8 DB24 LB56 W/12</code></td><td>296</td><td>1946</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/p5g9r2dy2db6lb14w3/"><img src="/variants/s7/p5g9r2dy2db6lb14w3~x4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp8g31r4dy4db17lb64w4/">Manx National</a> ★</td><td><code>DP/8 G31 R4 DY4 DB17 LB64 W/4</code></td><td>252</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><img src="/variants/s7/dp8g31r4dy4db17lb64w4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp2g6r1dy1db3lb10w1~x2/">District Tartan</a></td><td><code>DP/4 G12 R2 DY2 DB6 LB20 W/2</code></td><td>90</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp2g6r1dy1db3lb10w1~x2/"><img src="/variants/s7/dp2g6r1dy1db3lb10w1~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/">Manx National</a></td><td><code>DP/4 G12 R2 Y2 DB6 B20 W/2</code></td><td>90</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><img src="/variants/s7/dp2g6r1y1db3b10w1~x2/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/">District Tartan</a></td><td><code>DP/8 G32 R4 DY4 DB24 LB60 W/4</code></td><td>260</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/"><img src="/variants/s7/dp2g8r1dy1db6lb15w1~x4/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp8g31r4y4db17b64w4/">Manx National</a></td><td><code>DP/8 G31 R4 Y4 DB17 B64 W/4</code></td><td>252</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp8g31r4y4db17b64w4/"><img src="/variants/s7/dp8g31r4y4db17b64w4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/">(District)</a></td><td><code>LP/20 G36 R8 DY8 DB24 LB56 W/12</code></td><td>296</td><td>1958</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><img src="/variants/s7/lp5g9r2dy2db6lb14w3~x4/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/">Manx National</a></td><td><code>P/20 G36 R8 DY8 DB24 LB56 W/12</code></td><td>296</td><td>1946</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><img src="/variants/s7/p5g9r2dy2db6lb14w3~x4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -48,6 +57,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.9" cy="132.1" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="236.8" cy="192.8" r="4" fill="#3465a4"><title>Eeraerts, Laurent</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2/"><circle cx="301.6" cy="145.0" r="4" fill="#3465a4"><title>Moran</title></circle></a><a href="/variants/s11/w50lb3w8lb8db12r4db12g16dg12n4w4/"><circle cx="157.0" cy="116.7" r="4" fill="#3465a4"><title>Fothergill, Baron of Kinross (P</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="189.3" cy="187.4" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/"><circle cx="279.6" cy="183.4" r="4" fill="#3465a4"><title>Yes Scotland</title></circle></a><a href="/variants/s7/y2r4db4lb35g5r12w2~x2/"><circle cx="297.2" cy="140.4" r="4" fill="#3465a4"><title>Nicolson of the Isles</title></circle></a><a href="/variants/s7/b16r1g16w1dy1w8dr3~x2/"><circle cx="172.8" cy="168.7" r="4" fill="#3465a4"><title>Chambers, Christopher J</title></circle></a><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><circle cx="132.9" cy="174.1" r="4" fill="#3465a4"><title>Curd</title></circle></a><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/"><circle cx="201.3" cy="144.9" r="4" fill="#3465a4"><title>South Canterbury Centre P. &amp; D. Assoc., Jubilee</title></circle></a><circle cx="210.4" cy="138.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="149.3" cy="131.8" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.1" cy="192.6" r="4" fill="#3465a4"><title>Eeraerts, Laurent</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2/"><circle cx="302.2" cy="145.0" r="4" fill="#3465a4"><title>Moran</title></circle></a><a href="/variants/s11/w50lb3w8lb8db12r4db12g16dg12n4w4/"><circle cx="157.3" cy="116.3" r="4" fill="#3465a4"><title>Fothergill, Baron of Kinross (P</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="189.6" cy="187.2" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/"><circle cx="280.0" cy="183.2" r="4" fill="#3465a4"><title>Yes Scotland</title></circle></a><a href="/variants/s7/y2r4db4lb35g5r12w2~x2/"><circle cx="297.8" cy="140.2" r="4" fill="#3465a4"><title>Nicolson of the Isles</title></circle></a><a href="/variants/s7/b16r1g16w1dy1w8dr3~x2/"><circle cx="173.0" cy="168.5" r="4" fill="#3465a4"><title>Chambers, Christopher J</title></circle></a><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><circle cx="133.1" cy="173.7" r="4" fill="#3465a4"><title>Curd</title></circle></a><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/"><circle cx="201.7" cy="144.6" r="4" fill="#3465a4"><title>South Canterbury Centre P. &amp; D. Assoc., Jubilee</title></circle></a><circle cx="210.8" cy="138.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

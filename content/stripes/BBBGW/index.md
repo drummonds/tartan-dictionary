@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dr3n34db4g47lb3~x2/">Exabyte</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr3n34db4g47lb3~x2/"><img src="/variants/s5/dr3n34db4g47lb3~x2/sett.png" alt="Exabyte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/dr3b35db4g47w3~x2/">Exabyte</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr3b35db4g47w3~x2/"><img src="/variants/s5/dr3b35db4g47w3~x2/sett.png" alt="Exabyte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ex/exabyte/">Exabyte</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ex/exabyte/"><img src="/variants/s5/dr3n34db4g47lb3~x2/sett.png" alt="Exabyte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

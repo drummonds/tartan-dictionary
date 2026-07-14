@@ -12,10 +12,10 @@ crumbs:
 - name: "Swan"
   url: "/tartans/s/sw/swan/"
 - name: "Swan"
-  url: "/setts/k3w2k18b18k2b3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3w2k18b18k2b3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sw/swan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWK](/stripes/bkbkwk/).
 
 Part of the [Swan](/tartans/s/sw/swan/) tartan — the named design grouping this sett with its other cloths.

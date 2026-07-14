@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k39n3k3n3k14n28r3~x2/">Moffat Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><img src="/variants/s7/k39n3k3n3k14n28r3~x2/sett.png" alt="Moffat Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moffat-3/">Moffat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moffat-3/"><img src="/variants/s7/k39n3k3n3k14n28r3~x2/sett.png" alt="Moffat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

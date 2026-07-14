@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k50g6db6r6n6w3~x2/">Friends of Nordegg</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k50g6db6r6n6w3~x2/"><img src="/variants/s6/k50g6db6r6n6w3~x2/sett.png" alt="Friends of Nordegg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/friends-of-nordegg/">Friends of Nordegg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/friends-of-nordegg/"><img src="/variants/s6/k50g6db6r6n6w3~x2/sett.png" alt="Friends of Nordegg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

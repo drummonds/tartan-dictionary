@@ -12,10 +12,10 @@ crumbs:
 - name: "Jubilee"
   url: "/tartans/j/ju/jubilee-2/"
 - name: "Jubilee Commemorative Tartan"
-  url: "/setts/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ju/jubilee-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWGWGGGWGWGWGW](/stripes/grgwgwgggwgwgwgw/).
 
 Part of the [Jubilee](/tartans/j/ju/jubilee-2/) tartan — the named design grouping this sett with its other cloths.

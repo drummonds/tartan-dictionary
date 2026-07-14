@@ -11,16 +11,16 @@ crumbs:
   url: "/families/lumsden/"
 - name: "Lumsden Hunting"
   url: "/tartans/l/lu/lumsden-hunting/"
-- name: "Lumsden Hunting (Clan)"
-  url: "/setts/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33/"
+- name: "Lumsden Green Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBGBKRBRBRGBKBGBKBGRBRBRKBGBGBK](/stripes/bgbgbkrbrbrgbkbgbkbgrbrbrkbgbgbk/).
+provenance below. It is one weaving of the [sett](/tartans/l/lu/lumsden-hunting/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBGRBRBRKBGBGBK](/stripes/gbkbgrbrbrkbgbgbk/).
 
 Part of the [Lumsden Hunting](/tartans/l/lu/lumsden-hunting/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2366](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2366)
 
@@ -45,9 +45,11 @@ Earliest known date: 1997 Designed by Peter MacDonald at the request of David Lu
 </details>
 
 ## Thread count
-K/66 DB4 DG4 DB4 DG4 DB4 K66 R6 DB68 R4 DB68 R6 DG68 DB4 K4 DB4 DG68 DB4 K4 DB4 DG68 R6 DB68 R4 DB68 R6 K66 DB4 DG4 DB4 DG4 DB/4
+DG/68 DB4 K4 DB4 DG68 R6 DB68 R4 DB68 R6 K66 DB4 DG4 DB4 DG4 DB4 K/66
 
-One full sett is **1470 threads**.
+One full sett is **770 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/66 DB4 DG4 DB4 DG4 DB4 K66 R6 DB68 R4 DB68 R6 DG68 DB4 K4 DB4 DG68 DB4 K4 DB4 DG68 R6 DB68 R4 DB68 R6 K66 DB4 DG4 DB4 DG4 DB/4 — 1470 threads; it folds to the canonical 770-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **1470 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/66 DB4 DG4 DB4 DG4 DB4 K66 R6 DB68 R4 DB68 R6 DG68 DB4 K4 DB4 DG68 DB4 K4 DB4 DG68 R6 DB68 R4 DB68 R6 K66 DB4 DG4 DB4 DG4 DB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/68 DB4 K4 DB4 DG68 R6 DB68 R4 DB68 R6 K66 DB4 DG4 DB4 DG4 DB4 K/66 tartan" width="880" height="480">
 
 ## Compared to the master
 

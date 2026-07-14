@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/">Greyfriars (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"><img src="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/sett.png" alt="Greyfriars (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greyfriars/">Greyfriars</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greyfriars/"><img src="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/sett.png" alt="Greyfriars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

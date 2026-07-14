@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r3w3db36g36k2r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkgbwr/">RKGBWR</a></nav>
 Its design is pattern [RKGBWR](/stripes/rkgbwr/) — the page of every tartan sharing this colour sequence.
 
 The **Militello Dress** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Militello Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3w3db36g36k2r2/">Militello Dress</a></td><td><code>R/6 W6 DB72 G72 K4 R/4</code></td><td>318</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3w3db36g36k2r2/"><img src="/variants/s6/r3w3db36g36k2r2~x2/sett.png" alt="Militello Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r3w3db36g36k2r2~x2/">Militello Dress</a></td><td><code>R/6 W6 DB72 G72 K4 R/4</code></td><td>318</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r3w3db36g36k2r2~x2/"><img src="/variants/s6/r3w3db36g36k2r2~x2/sett.png" alt="Militello Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="191.3" cy="196.4" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="261.9" cy="180.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="199.6" cy="150.8" r="4" fill="#3465a4"><title>Shawlands International</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="203.4" cy="197.6" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s8/w3k1r4g20k3t30w4r2~x2/"><circle cx="238.4" cy="119.6" r="4" fill="#3465a4"><title>Scottish Prison Service</title></circle></a><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="218.5" cy="175.8" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><circle cx="268.7" cy="98.7" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/variants/s7/r4g14k3o3g12db36w4~x2/"><circle cx="198.9" cy="143.2" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s5/k20db50g50r3k3~x2/"><circle cx="214.0" cy="181.2" r="4" fill="#3465a4"><title>Louisville Spalding</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="235.5" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><circle cx="247.7" cy="141.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="191.7" cy="196.2" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="262.4" cy="180.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="200.1" cy="150.6" r="4" fill="#3465a4"><title>Shawlands International</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="203.8" cy="197.5" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s8/w3k1r4g20k3t30w4r2~x2/"><circle cx="239.0" cy="119.4" r="4" fill="#3465a4"><title>Scottish Prison Service</title></circle></a><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="219.0" cy="175.7" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><circle cx="269.5" cy="98.7" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/variants/s7/r4g14k3o3g12db36w4~x2/"><circle cx="199.4" cy="143.1" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s5/k20db50g50r3k3~x2/"><circle cx="214.6" cy="181.2" r="4" fill="#3465a4"><title>Louisville Spalding</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="236.1" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><circle cx="248.4" cy="141.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

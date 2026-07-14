@@ -10,10 +10,10 @@ crumbs:
 - name: "Slanj, The"
   url: "/tartans/s/sl/slanj-the/"
 - name: "Slanj, The"
-  url: "/setts/lb5k22db4k4db26k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb5k22db4k4db26k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sl/slanj-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKW](/stripes/kbkbkw/).
 
 Part of the [Slanj, The](/tartans/s/sl/slanj-the/) tartan — the named design grouping this sett with its other cloths.

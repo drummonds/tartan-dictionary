@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4/">South Lanarkshire (2002) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4/"><img src="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4/sett.png" alt="South Lanarkshire (2002) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/south-lanarkshire/">South Lanarkshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/south-lanarkshire/"><img src="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4~db1406275/sett.png" alt="South Lanarkshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

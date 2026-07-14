@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/simba/"
 - name: "SiMBA"
   url: "/families/simba/"
+aliases:
+- "/setts/dp2g3lp21dp42w1g2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgwbwg/">BGWBWG</a></nav>
 A tartan of the [SiMBA](/families/simba/) family.
 Its design is pattern [BGWBWG](/stripes/bgwbwg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **SiMBA** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp2g3lp21dp42w1g2/">SiMBA</a></td><td><code>G/4 W2 DP84 LP42 G6 DP/4</code></td><td>276</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp2g3lp21dp42w1g2/"><img src="/variants/s6/dp2g3lp21dp42w1g2~x2/sett.png" alt="SiMBA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp2g3lp21dp42w1g2~x2/">SiMBA</a></td><td><code>DP/4 G6 LP42 DP84 W2 G/4</code></td><td>276</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp2g3lp21dp42w1g2~x2/"><img src="/variants/s6/dp2g3lp21dp42w1g2~x2/sett.png" alt="SiMBA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp2g3o21dp42w1g2~x2/"><circle cx="452.1" cy="129.3" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/"><circle cx="380.8" cy="91.2" r="4" fill="#3465a4"><title>Wcwm 4907-2</title></circle></a><a href="/variants/s5/dp37w9dp3dy9w3~x2/"><circle cx="403.4" cy="199.9" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s6/r1lr10y2lr16db40lr1~x2/"><circle cx="377.4" cy="123.4" r="4" fill="#3465a4"><title>Caithness Glass</title></circle></a><circle cx="424.6" cy="125.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp2g3o21dp42w1g2~x2/"><circle cx="453.2" cy="129.5" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/"><circle cx="382.0" cy="91.3" r="4" fill="#3465a4"><title>Wcwm 4907-2</title></circle></a><a href="/variants/s5/dp37w9dp3dy9w3~x2/"><circle cx="404.3" cy="200.1" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s6/r1lr10y2lr16db40lr1~x2/"><circle cx="378.4" cy="123.5" r="4" fill="#3465a4"><title>Caithness Glass</title></circle></a><circle cx="425.6" cy="125.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

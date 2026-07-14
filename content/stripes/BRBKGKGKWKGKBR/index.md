@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/">Malcolm</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/"><img src="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/sett.png" alt="Malcolm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/db1r1db6k6g6k1y1k1lb1k1g6k6db6r1~x2/">Malcolm (a)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db1r1db6k6g6k1y1k1lb1k1g6k6db6r1~x2/"><img src="/variants/s14/db1r1db6k6g6k1y1k1lb1k1g6k6db6r1~x2/sett.png" alt="Malcolm (a) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/malcolm/">Malcolm</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/malcolm/"><img src="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/sett.png" alt="Malcolm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

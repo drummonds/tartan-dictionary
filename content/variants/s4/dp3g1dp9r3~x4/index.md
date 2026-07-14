@@ -10,15 +10,15 @@ crumbs:
 - name: "Highland Spring"
   url: "/tartans/h/hi/highland-spring-4/"
 - name: "Highland Spring (1988)"
-  url: "/setts/dp3g1dp9r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3g1dp9r3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBRBG](/stripes/bgbrbg/).
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highland-spring-4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBR](/stripes/bgbr/).
 
 Part of the [Highland Spring](/tartans/h/hi/highland-spring-4/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1720](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1720)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1720](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1987 — Highland Spring (1988) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1720">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Highland Spring Water Co. from D.C. Dalgliesh. Designed by Peter MacDonald C.1988 for Highland Spring using the colours of the Scottish thistle which appears on their label. Scottish Tartan Society notes say designed by Michael Peters of London. Peter MacDonald's father is Micheil - perhaps explains confusion? Green lightened here to show sett. See also #2322 (original Scottish Tartans Authority reference) for updated version of this.</em></li>
-<li>1988 — Highland Spring (1988) (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=130">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Highland Spring Water Co. from D.C. Dalgliesh. Designed by Peter MacDonald C.1988 for Highland Spring using the colours of the Scottish thistle which appears on their label. STS notes say designed by Michael Peters of London?? Peter MacDonald's father is Micheil - perhaps explains confusion? Green lightened here to show sett. See also #2322 for updated version of this.</em></li>
+<li>1988 — Highland Spring (1988) (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/130/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Highland Spring Water Co. from D.C. Dalgliesh. Designed by Peter MacDonald C.1988 for Highland Spring using the colours of the Scottish thistle which appears on their label. STS notes say designed by Michael Peters of London?? Peter MacDonald's father is Micheil - perhaps explains confusion? Green lightened here to show sett. See also #2322 for updated version of this.</em></li>
 </ul>
 </details>
 
@@ -55,9 +55,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 130
 
 ## Thread count
-DP/12 G4 DP36 R12 DP36 G/4
+DP/12 G4 DP36 R/12
 
-One full sett is **192 threads**.
+One full sett is **104 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/12 G4 DP36 R12 DP36 G/4 — 192 threads; it folds to the canonical 104-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -66,7 +68,7 @@ One full sett is **192 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/12 G4 DP36 R12 DP36 G/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/12 G4 DP36 R/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

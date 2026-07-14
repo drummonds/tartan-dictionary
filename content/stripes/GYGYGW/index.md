@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg86lo44dg21lo44dg86lb10/">Special Saffron</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg86lo44dg21lo44dg86lb10/"><img src="/variants/s6/dg86lo44dg21lo44dg86lb10/sett.png" alt="Special Saffron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/special-saffron/">Special Saffron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/special-saffron/"><img src="/variants/s6/dg86lo44dg21lo44dg86lb10/sett.png" alt="Special Saffron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Aberdeen Forever"
   url: "/tartans/a/ab/aberdeen-forever/"
 - name: "Aberdeen Forever"
-  url: "/setts/y4w2r19n8k1n3k2n2k3n2k26lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4w2r19n8k1n3k2n2k3n2k26lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ab/aberdeen-forever/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRBKBKBKBKW](/stripes/gwrbkbkbkbkw/).
 
 Part of the [Aberdeen Forever](/tartans/a/ab/aberdeen-forever/) tartan — the named design grouping this sett with its other cloths.

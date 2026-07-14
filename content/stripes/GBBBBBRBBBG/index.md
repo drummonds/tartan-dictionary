@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245/">Hughes Welsh Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245/"><img src="/variants/s11/g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245/sett.png" alt="Hughes Welsh Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hughes-5/">Hughes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hughes-5/"><img src="/variants/s11/g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245/sett.png" alt="Hughes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

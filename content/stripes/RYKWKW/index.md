@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2ly20k5w10k10w2~x2/">Thompson Camel Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><img src="/variants/s6/r2ly20k5w10k10w2~x2/sett.png" alt="Thompson Camel Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r4ly30k6w13k13w3~x2/">Thomson, Camel (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><img src="/variants/s6/r4ly30k6w13k13w3~x2/sett.png" alt="Thomson, Camel (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thompson-camel/">Thompson Camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thompson-camel/"><img src="/variants/s6/r2ly20k5w10k10w2~x2/sett.png" alt="Thompson Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thomson-camel-2/">Thomson Camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thomson-camel-2/"><img src="/variants/s6/r4ly30k6w13k13w3~x2/sett.png" alt="Thomson Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

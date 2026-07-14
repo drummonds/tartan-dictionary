@@ -10,10 +10,10 @@ crumbs:
 - name: "Spens, Fragment"
   url: "/tartans/s/sp/spens-fragment-2/"
 - name: "Spens, Fragment"
-  url: "/setts/b50w2db7o2g33dg12db7o3w2o3db7dg12g33o2db7w2b17/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b50w2db7o2g33dg12db7o3w2o3db7dg12g33o2db7w2b17/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spens-fragment-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRGGBRWRBGGRBWB](/stripes/bwbrggbrwrbggrbwb/).
 
 Part of the [Spens, Fragment](/tartans/s/sp/spens-fragment-2/) tartan — the named design grouping this sett with its other cloths.

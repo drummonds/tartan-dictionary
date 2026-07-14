@@ -10,10 +10,10 @@ crumbs:
 - name: "Turnberry Manx Snaefell"
   url: "/tartans/t/tu/turnberry-manx-snaefell/"
 - name: "Turnberry Manx Snaefell Family Tartan"
-  url: "/setts/ly22do2ly2do2ly2do15w17do3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly22do2ly2do2ly2do15w17do3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tu/turnberry-manx-snaefell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBYBYBY](/stripes/bwbybyby/).
 
 Part of the [Turnberry Manx Snaefell](/tartans/t/tu/turnberry-manx-snaefell/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Shrek"
   url: "/tartans/s/sh/shrek/"
 - name: "Shrek"
-  url: "/setts/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shrek/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGYGYYYYY](/stripes/gggggygyyyyy/).
 
 Part of the [Shrek](/tartans/s/sh/shrek/) tartan — the named design grouping this sett with its other cloths.

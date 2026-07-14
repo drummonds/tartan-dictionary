@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g20dr10ly2db100w1y10/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbybwg/">GBYBWG</a></nav>
 Its design is pattern [GBYBWG](/stripes/gbybwg/) — the page of every tartan sharing this colour sequence.
 
 The **Ravetta** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Ravetta** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g20dr10ly2db100w1y10/">Ravetta</a></td><td><code>G/20 DR10 LY2 DB100 W1 Y/10</code></td><td>256</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g20dr10ly2db100w1y10/"><img src="/variants/s6/g20dr10ly2db100w1y10/sett.png" alt="Ravetta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g20dr10ly2db100w1y10/">Ravetta</a></td><td><code>G/20 DR10 LY2 DB100 W1 Y/10</code></td><td>256</td><td>2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g20dr10ly2db100w1y10/"><img src="/variants/s6/g20dr10ly2db100w1y10/sett.png" alt="Ravetta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/"><circle cx="461.5" cy="105.0" r="4" fill="#3465a4"><title>Ravetta, Phil</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="440.8" cy="77.2" r="4" fill="#3465a4"><title>Michael</title></circle></a><a href="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/"><circle cx="435.3" cy="115.2" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association</title></circle></a><a href="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/"><circle cx="448.3" cy="121.5" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Assoc</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="404.1" cy="106.3" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="569.4" cy="170.9" r="4" fill="#3465a4"><title>Norwich University Regimental</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="531.5" cy="144.5" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="489.6" cy="220.1" r="4" fill="#3465a4"><title>Meaux</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="368.5" cy="146.1" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.5" cy="102.2" r="4" fill="#3465a4"><title>Wilton</title></circle></a><circle cx="477.5" cy="109.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/"><circle cx="462.6" cy="105.1" r="4" fill="#3465a4"><title>Ravetta, Phil</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="442.2" cy="77.5" r="4" fill="#3465a4"><title>Michael</title></circle></a><a href="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/"><circle cx="436.1" cy="115.3" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association</title></circle></a><a href="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/"><circle cx="449.1" cy="121.7" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Assoc</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="405.2" cy="106.4" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="570.7" cy="171.3" r="4" fill="#3465a4"><title>Norwich University Regimental</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="532.9" cy="144.9" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="490.5" cy="220.5" r="4" fill="#3465a4"><title>Meaux</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="369.4" cy="146.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="431.5" cy="102.3" r="4" fill="#3465a4"><title>Wilton</title></circle></a><circle cx="478.6" cy="110.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

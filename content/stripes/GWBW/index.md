@@ -28,16 +28,16 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/lb11db1w1y1~x20/">Varrie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb11db1w1y1~x20/"><img src="/variants/s4/lb11db1w1y1~x20/sett.png" alt="Varrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/lb9db1w1y1~x20/">Varrie Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb9db1w1y1~x20/"><img src="/variants/s4/lb9db1w1y1~x20/sett.png" alt="Varrie Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/varrie/">Varrie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/varrie/"><img src="/variants/s4/lb11db1w1y1~x20/sett.png" alt="Varrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/varrie-commemorative/">Varrie Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/varrie-commemorative/"><img src="/variants/s4/lb9db1w1y1~x20/sett.png" alt="Varrie Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/dg4lb10db10lb1~x4/">Baker City (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dg4lb10db10lb1~x4/"><img src="/variants/s4/dg4lb10db10lb1~x4/sett.png" alt="Baker City (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baker-city/">Baker City</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baker-city/"><img src="/variants/s4/dg4lb10db10lb1~x4/sett.png" alt="Baker City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/w4n28lb48y3~x2/">McKerrell of Hillhouse Dress (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w4n28lb48y3~x2/"><img src="/variants/s4/w4n28lb48y3~x2/sett.png" alt="McKerrell of Hillhouse Dress (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress/">McKerrell of Hillhouse Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress/"><img src="/variants/s4/w4n28lb48y3~x2/sett.png" alt="McKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

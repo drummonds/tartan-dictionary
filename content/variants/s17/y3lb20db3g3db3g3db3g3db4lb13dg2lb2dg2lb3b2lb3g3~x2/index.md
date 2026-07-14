@@ -12,10 +12,10 @@ crumbs:
 - name: "Fermanagh"
   url: "/tartans/f/fe/fermanagh-2/"
 - name: "Fermanagh"
-  url: "/setts/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/fermanagh-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBGBGBGBWGWGWBWG](/stripes/gwbgbgbgbwgwgwbwg/).
 
 Part of the [Fermanagh](/tartans/f/fe/fermanagh-2/) tartan — the named design grouping this sett with its other cloths.

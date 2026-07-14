@@ -12,10 +12,10 @@ crumbs:
 - name: "Mortell"
   url: "/tartans/m/mo/mortell/"
 - name: "Mortell (Personal)"
-  url: "/setts/db20t2w5r2db10t5db20t2w5r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db20t2w5r2db10t5db20t2w5r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/mortell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWRBBBBWR](/stripes/bbwrbbbbwr/).
 
 Part of the [Mortell](/tartans/m/mo/mortell/) tartan — the named design grouping this sett with its other cloths.

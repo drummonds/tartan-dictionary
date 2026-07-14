@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r2g4k2db25g4db4y2db2w2db5g3r7k2r3w2~x2/">Hueg (Bavaria) Scottish Blue Thistle (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r2g4k2db25g4db4y2db2w2db5g3r7k2r3w2~x2/"><img src="/variants/s15/r2g4k2db25g4db4y2db2w2db5g3r7k2r3w2~x2/sett.png" alt="Hueg (Bavaria) Scottish Blue Thistle (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hueg-scottish-blue-thi/">Hueg Scottish Blue Thi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hueg-scottish-blue-thi/"><img src="/variants/s15/r2g4k2db25g4db4y2db2w2db5g3r7k2r3w2~x2/sett.png" alt="Hueg Scottish Blue Thi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -11,16 +11,16 @@ crumbs:
   url: "/families/culloden/"
 - name: "Culloden"
   url: "/tartans/c/cu/culloden-4/"
-- name: "Culloden 1746 - Original"
-  url: "/setts/r5lb1db10w2k10g10k1y3/"
+- name: "Culloden 1746 Artefact Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5lb1db10w2k10g10k1y3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWBWKGKGKGKWBW](/stripes/rwbwkgkgkgkwbw/).
+provenance below. It is one weaving of the [sett](/tartans/c/cu/culloden-4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKWBWR](/stripes/gkgkwbwr/).
 
 Part of the [Culloden](/tartans/c/cu/culloden-4/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7422](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7422)
 
@@ -45,9 +45,11 @@ Earliest known date: 1746 Count from the original Culloden coat discovered and l
 </details>
 
 ## Thread count
-R/20 LB4 DB40 W8 K40 G40 K4 Y12 K4 G40 K40 W8 DB40 LB/4
+R/20 LB4 DB40 W8 K40 G40 K4 Y/12
 
-One full sett is **584 threads**.
+One full sett is **304 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/20 LB4 DB40 W8 K40 G40 K4 Y12 K4 G40 K40 W8 DB40 LB/4 — 584 threads; it folds to the canonical 304-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **584 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/20 LB4 DB40 W8 K40 G40 K4 Y12 K4 G40 K40 W8 DB40 LB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/20 LB4 DB40 W8 K40 G40 K4 Y/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

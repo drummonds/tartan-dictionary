@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/">John Muir Way</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/"><img src="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/sett.png" alt="John Muir Way sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/john-muir-way/">John Muir Way</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/john-muir-way/"><img src="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/sett.png" alt="John Muir Way sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

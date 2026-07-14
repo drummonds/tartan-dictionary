@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg26r2dg3dy2dg8w20db3w4~x2/">Green Mountain</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg26r2dg3dy2dg8w20db3w4~x2/"><img src="/variants/s8/dg26r2dg3dy2dg8w20db3w4~x2/sett.png" alt="Green Mountain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/green-mountain/">Green Mountain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/green-mountain/"><img src="/variants/s8/dg26r2dg3dy2dg8w20db3w4~x2/sett.png" alt="Green Mountain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

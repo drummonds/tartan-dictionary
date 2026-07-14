@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r50k25g10n5y2~x2/">MacGleish Formal (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r50k25g10n5y2~x2/"><img src="/variants/s5/r50k25g10n5y2~x2/sett.png" alt="MacGleish Formal (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgleish-formal/">MacGleish Formal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgleish-formal/"><img src="/variants/s5/r50k25g10n5y2~x2/sett.png" alt="MacGleish Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

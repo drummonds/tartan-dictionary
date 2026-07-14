@@ -8,10 +8,10 @@ crumbs:
 - name: "Brock University Alumni Association"
   url: "/tartans/b/br/brock-university-alumni-association/"
 - name: "Brock University Alumni Association"
-  url: "/setts/r52y2db16y2db3w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r52y2db16y2db3w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brock-university-alumni-association/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGBW](/stripes/rgbgbw/).
 
 Part of the [Brock University Alumni Association](/tartans/b/br/brock-university-alumni-association/) tartan — the named design grouping this sett with its other cloths.

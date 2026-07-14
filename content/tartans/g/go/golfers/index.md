@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/b4r2k9r25k3r2k3r4db15w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brkrkrkrbw/">BRKRKRKRBW</a></nav>
 Its design is pattern [BRKRKRKRBW](/stripes/brkrkrkrbw/) — the page of every tartan sharing this colour sequence.
 
 The **Golfers** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Golfers** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b4r2k9r25k3r2k3r4db15w3/">Golfers</a></td><td><code>B/8 R4 K18 R50 K6 R4 K6 R8 DB30 W/6</code></td><td>266</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b4r2k9r25k3r2k3r4db15w3/"><img src="/variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="Golfers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/">Golfers</a></td><td><code>B/8 R4 K18 R50 K6 R4 K6 R8 DB30 W/6</code></td><td>266</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/"><img src="/variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="Golfers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="188.9" cy="117.3" r="4" fill="#3465a4"><title>Golfing Stewart</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="187.8" cy="117.3" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="201.5" cy="121.8" r="4" fill="#3465a4"><title>Caledon</title></circle></a><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/"><circle cx="206.4" cy="108.8" r="4" fill="#3465a4"><title>Lochcarron Dress</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="193.2" cy="134.3" r="4" fill="#3465a4"><title>Memery</title></circle></a><a href="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/"><circle cx="219.3" cy="123.6" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="200.8" cy="123.2" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/"><circle cx="211.1" cy="111.8" r="4" fill="#3465a4"><title>Harris, Jeffrey S</title></circle></a><a href="/variants/s8/r2k3y1k3r2db8r16k1~x4/"><circle cx="282.3" cy="122.0" r="4" fill="#3465a4"><title>Leslie</title></circle></a><a href="/variants/s9/k4r32db9dp6db2dp3db2dp12w3/"><circle cx="219.9" cy="118.5" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><circle cx="187.4" cy="117.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="189.6" cy="117.1" r="4" fill="#3465a4"><title>Golfing Stewart</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="188.5" cy="117.1" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="202.2" cy="121.6" r="4" fill="#3465a4"><title>Caledon</title></circle></a><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/"><circle cx="207.1" cy="108.6" r="4" fill="#3465a4"><title>Lochcarron Dress</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="193.9" cy="134.1" r="4" fill="#3465a4"><title>Memery</title></circle></a><a href="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/"><circle cx="220.0" cy="123.4" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="201.5" cy="123.0" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/"><circle cx="211.7" cy="111.6" r="4" fill="#3465a4"><title>Harris, Jeffrey S</title></circle></a><a href="/variants/s8/r2k3y1k3r2db8r16k1~x4/"><circle cx="283.2" cy="121.9" r="4" fill="#3465a4"><title>Leslie</title></circle></a><a href="/variants/s9/k4r32db9dp6db2dp3db2dp12w3/"><circle cx="220.5" cy="118.3" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><circle cx="188.1" cy="116.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

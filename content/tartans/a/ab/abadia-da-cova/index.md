@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg30g1dg3dr30k1y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gggbkg/">GGGBKG</a></nav>
 Its design is pattern [GGGBKG](/stripes/gggbkg/) — the page of every tartan sharing this colour sequence.
 
 The **Abadia Da Cova** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Abadia Da Cova** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg30g1dg3dr30k1y3/">Abadia Da Cova</a></td><td><code>DG/60 G2 DG6 DR60 K2 Y/6</code></td><td>206</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg30g1dg3dr30k1y3/"><img src="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/sett.png" alt="Abadia Da Cova sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/">Abadia Da Cova</a></td><td><code>DG/60 G2 DG6 DR60 K2 Y/6</code></td><td>206</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><img src="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/sett.png" alt="Abadia Da Cova sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="394.2" cy="106.0" r="4" fill="#3465a4"><title>Jack</title></circle></a><a href="/variants/s7/k2dy30g4w2g14dr13y2~x2/"><circle cx="236.4" cy="161.2" r="4" fill="#3465a4"><title>Red Rum Commemorative</title></circle></a><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="327.5" cy="177.3" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s6/dy4r2dg40g39dg3r4~x2/"><circle cx="364.7" cy="202.2" r="4" fill="#3465a4"><title>McGeorge</title></circle></a><a href="/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly3507098-dy1503057-y2104086/"><circle cx="278.9" cy="148.0" r="4" fill="#3465a4"><title>Broons, The</title></circle></a><a href="/variants/s9/dg23r7g25y5dg17k5y1w1r1~x2/"><circle cx="234.6" cy="130.6" r="4" fill="#3465a4"><title>Cates Hunting</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="403.8" cy="170.0" r="4" fill="#3465a4"><title>Nolan</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="380.1" cy="135.7" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/"><circle cx="446.1" cy="118.0" r="4" fill="#3465a4"><title>Arbroath Smokie</title></circle></a><a href="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/"><circle cx="474.7" cy="125.1" r="4" fill="#3465a4"><title>Kenspeckle</title></circle></a><circle cx="382.2" cy="158.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="395.2" cy="106.1" r="4" fill="#3465a4"><title>Jack</title></circle></a><a href="/variants/s7/k2dy30g4w2g14dr13y2~x2/"><circle cx="236.7" cy="161.1" r="4" fill="#3465a4"><title>Red Rum Commemorative</title></circle></a><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="328.1" cy="177.4" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s6/dy4r2dg40g39dg3r4~x2/"><circle cx="365.1" cy="202.4" r="4" fill="#3465a4"><title>McGeorge</title></circle></a><a href="/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly3507098-dy1503057-y2104086/"><circle cx="279.2" cy="148.0" r="4" fill="#3465a4"><title>Broons, The</title></circle></a><a href="/variants/s9/dg23r7g25y5dg17k5y1w1r1~x2/"><circle cx="235.1" cy="130.5" r="4" fill="#3465a4"><title>Cates Hunting</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="404.4" cy="170.3" r="4" fill="#3465a4"><title>Nolan</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="381.0" cy="135.9" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/"><circle cx="446.9" cy="118.2" r="4" fill="#3465a4"><title>Arbroath Smokie</title></circle></a><a href="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/"><circle cx="475.8" cy="125.4" r="4" fill="#3465a4"><title>Kenspeckle</title></circle></a><circle cx="382.9" cy="158.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

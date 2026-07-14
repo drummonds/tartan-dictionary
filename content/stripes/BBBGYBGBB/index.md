@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/">Aberdeen Mither Kirk (St Nicholas)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/"><img src="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/sett.png" alt="Aberdeen Mither Kirk (St Nicholas) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberdeen-mither-kirk/">Aberdeen Mither Kirk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen-mither-kirk/"><img src="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/sett.png" alt="Aberdeen Mither Kirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

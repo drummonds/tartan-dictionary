@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db6k1db6k8r1g8r2/">Fletcher C</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db6k1db6k8r1g8r2/"><img src="/variants/s7/db6k1db6k8r1g8r2/sett.png" alt="Fletcher C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/t10k3t10k14r2g14r5~x2/">Fletcher of Dunans</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t10k3t10k14r2g14r5~x2/"><img src="/variants/s7/t10k3t10k14r2g14r5~x2/sett.png" alt="Fletcher of Dunans sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fl/fletcher-c/">Fletcher C</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/fletcher-c/"><img src="/variants/s7/db6k1db6k8r1g8r2/sett.png" alt="Fletcher C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fl/fletcher-of-dunans/">Fletcher of Dunans</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/fletcher-of-dunans/"><img src="/variants/s7/t10k3t10k14r2g14r5~x2/sett.png" alt="Fletcher of Dunans sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

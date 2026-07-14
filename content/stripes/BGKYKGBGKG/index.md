@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy9k2dy2dr2g6k1lo1k1g6dr3~x4/">MacAart (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy9k2dy2dr2g6k1lo1k1g6dr3~x4/"><img src="/variants/s10/dy9k2dy2dr2g6k1lo1k1g6dr3~x4/sett.png" alt="MacAart (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macaart-3/">MacAart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macaart-3/"><img src="/variants/s10/dy9k2dy2dr2g6k1lo1k1g6dr3~x4/sett.png" alt="MacAart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

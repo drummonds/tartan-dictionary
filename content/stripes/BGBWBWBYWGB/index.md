@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/">Belwade</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/"><img src="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/sett.png" alt="Belwade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/belwade/">Belwade</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/belwade/"><img src="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/sett.png" alt="Belwade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

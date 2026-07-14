@@ -8,11 +8,11 @@ crumbs:
 - name: "Jodi Williams"
   url: "/tartans/j/jo/jodi-williams/"
 - name: "Jodi Williams (Personal)"
-  url: "/setts/dg8dr1db1n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg8dr1db1n1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBG](/stripes/bbbg/).
+provenance below. It is one weaving of the [sett](/tartans/j/jo/jodi-williams/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBG](/stripes/bbg/).
 
 Part of the [Jodi Williams](/tartans/j/jo/jodi-williams/) tartan — the named design grouping this sett with its other cloths.
 

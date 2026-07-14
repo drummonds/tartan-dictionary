@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/">Perry Ancient (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><img src="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/sett.png" alt="Perry Ancient (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perry-3/">Perry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perry-3/"><img src="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/sett.png" alt="Perry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/k1g8k8ly1~x4/">Wallace Htg (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k1g8k8ly1~x4/"><img src="/variants/s4/k1g8k8ly1~x4/sett.png" alt="Wallace Htg (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wallace-hunting-2/">Wallace Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wallace-hunting-2/"><img src="/variants/s4/k1g8k8ly1~x4/sett.png" alt="Wallace Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

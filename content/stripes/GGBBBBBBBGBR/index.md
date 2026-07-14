@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/">Los Angeles Police Bagpipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/"><img src="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/sett.png" alt="Los Angeles Police Bagpipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/los-angeles-police-bagpipe-band/">Los Angeles Police Bagpipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/los-angeles-police-bagpipe-band/"><img src="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/sett.png" alt="Los Angeles Police Bagpipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

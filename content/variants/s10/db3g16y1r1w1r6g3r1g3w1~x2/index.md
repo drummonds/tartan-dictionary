@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Canadian Caledonian"
   url: "/tartans/c/ca/canadian-caledonian/"
-- name: "Canadian Caledonian"
-  url: "/setts/db3g16y1r1w1r6g3r1g3w1/"
+- name: "Canadian Caledonian District Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3g16y1r1w1r6g3r1g3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/canadian-caledonian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGRWRGRGW](/stripes/bggrwrgrgw/).
 
 Part of the [Canadian Caledonian](/tartans/c/ca/canadian-caledonian/) tartan — the named design grouping this sett with its other cloths.

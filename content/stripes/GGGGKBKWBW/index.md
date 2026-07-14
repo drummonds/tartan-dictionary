@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/">Pinewoods Jubilee</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/"><img src="/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/sett.png" alt="Pinewoods Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pinewoods-jubilee/">Pinewoods Jubilee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pinewoods-jubilee/"><img src="/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/sett.png" alt="Pinewoods Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

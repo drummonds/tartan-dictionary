@@ -10,10 +10,10 @@ crumbs:
 - name: "Cameron, Hose for E"
   url: "/tartans/c/ca/cameron-hose-for-e/"
 - name: "Cameron, Hose for E"
-  url: "/setts/r3k2r23b3r3w23r3b3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k2r23b3r3w23r3b3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cameron-hose-for-e/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRBRKR](/stripes/brwrbrkr/).
 
 Part of the [Cameron, Hose for E](/tartans/c/ca/cameron-hose-for-e/) tartan — the named design grouping this sett with its other cloths.

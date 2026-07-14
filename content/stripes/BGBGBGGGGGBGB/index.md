@@ -28,16 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/t8dy1t1dy1t1dy8g8dy1g8dy8t8dy1t1~x6/">Tyneside Scottish (Blue)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/t8dy1t1dy1t1dy8g8dy1g8dy8t8dy1t1~x6/"><img src="/variants/s13/t8dy1t1dy1t1dy8g8dy1g8dy8t8dy1t1~x6/sett.png" alt="Tyneside Scottish (Blue) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/">Tyneside Scottish (Blue) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/"><img src="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/sett.png" alt="Tyneside Scottish (Blue) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/montmorency-2/">Montmorency</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montmorency-2/"><img src="/variants/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/sett.png" alt="Montmorency sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/">Montmorency Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/"><img src="/variants/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/sett.png" alt="Montmorency Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/">Tyneside Scottish Purple (Mil/Distr)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/"><img src="/variants/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/sett.png" alt="Tyneside Scottish Purple (Mil/Distr) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ty/tyneside-scottish-3/">Tyneside Scottish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ty/tyneside-scottish-3/"><img src="/variants/s13/t8dy1t1dy1t1dy8g8dy1g8dy8t8dy1t1~x6/sett.png" alt="Tyneside Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

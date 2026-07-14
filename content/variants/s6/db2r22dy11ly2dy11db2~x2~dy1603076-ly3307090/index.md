@@ -12,10 +12,10 @@ crumbs:
 - name: "Cetoloni"
   url: "/tartans/c/ce/cetoloni-2/"
 - name: "Cetoloni Family Tartan"
-  url: "/setts/db2r22dy11ly2dy11db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2r22dy11ly2dy11db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ce/cetoloni-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYGRB](/stripes/bgygrb/).
 
 Part of the [Cetoloni](/tartans/c/ce/cetoloni-2/) tartan — the named design grouping this sett with its other cloths.

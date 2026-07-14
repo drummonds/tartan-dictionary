@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db2dy3db16k18g18k2r2~x2/">McEwan '1856', The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db2dy3db16k18g18k2r2~x2/"><img src="/variants/s7/db2dy3db16k18g18k2r2~x2/sett.png" alt="McEwan '1856', The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcewan-1856-the-2/">McEwan '1856', The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcewan-1856-the-2/"><img src="/variants/s7/db2dy3db16k18g18k2r2~x2/sett.png" alt="McEwan '1856', The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Blackcraig"
   url: "/tartans/b/bl/blackcraig/"
 - name: "Blackcraig (Personal)"
-  url: "/setts/k10w10k10w10r3w6k3w3k3w3k3w3k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10w10k10w10r3w6k3w3k3w3k3w3k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blackcraig/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWRWKWK](/stripes/kwkwkwkwrwkwk/).
 
 Part of the [Blackcraig](/tartans/b/bl/blackcraig/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=284](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — Blackcraig (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=284">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed and woven by Lochcarron of Scotland.</em></li>
-<li>1984 — Blackcraig (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1230">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed (?) and woven by Lochcarron of Scotland for an American customer. Asked in December 2006 to identify this by Peter Wilson in the USA. The woven sample had only three broad black bands so the threadcount was checked and this graphic altered accordingly.</em></li>
+<li>1984 — Blackcraig (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1230/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed (?) and woven by Lochcarron of Scotland for an American customer. Asked in December 2006 to identify this by Peter Wilson in the USA. The woven sample had only three broad black bands so the threadcount was checked and this graphic altered accordingly.</em></li>
 </ul>
 </details>
 

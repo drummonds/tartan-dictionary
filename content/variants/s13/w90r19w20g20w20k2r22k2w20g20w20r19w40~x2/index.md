@@ -8,10 +8,10 @@ crumbs:
 - name: "Border Sett"
   url: "/tartans/b/bo/border-sett/"
 - name: "Border Sett"
-  url: "/setts/w90r19w20g20w20k2r22k2w20g20w20r19w40/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w90r19w20g20w20k2r22k2w20g20w20r19w40/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/border-sett/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRWGWKRKWGWRW](/stripes/wrwgwkrkwgwrw/).
 
 Part of the [Border Sett](/tartans/b/bo/border-sett/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Sandilands-Watson"
   url: "/tartans/s/sa/sandilands-watson/"
 - name: "Sandilands-Watson (Personal)"
-  url: "/setts/db24k2db2dp2db2g16n1g2n3g2n1g16k20db2dp2db2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db24k2db2dp2db2g16n1g2n3g2n1g16k20db2dp2db2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sandilands-watson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBGBGBGBGKBBBK](/stripes/bkbbbgbgbgbgkbbbk/).
 
 Part of the [Sandilands-Watson](/tartans/s/sa/sandilands-watson/) tartan — the named design grouping this sett with its other cloths.

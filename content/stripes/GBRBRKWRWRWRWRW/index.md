@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/lb27r4lb3r2lb4r2lb3r4lb14k14r2db14r4db4y3~x2/">Cochrane Azure</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/lb27r4lb3r2lb4r2lb3r4lb14k14r2db14r4db4y3~x2/"><img src="/variants/s15/lb27r4lb3r2lb4r2lb3r4lb14k14r2db14r4db4y3~x2/sett.png" alt="Cochrane Azure sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cochrane/">Cochrane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cochrane/"><img src="/variants/s15/lb27r4lb3r2lb4r2lb3r4lb14k14r2db14r4db4y3~x2/sett.png" alt="Cochrane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

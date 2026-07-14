@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dy1db9dy2db9r1~x4/">Brooks Brothers Tattersall Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dy1db9dy2db9r1~x4/"><img src="/variants/s5/dy1db9dy2db9r1~x4/sett.png" alt="Brooks Brothers Tattersall Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brooks-brothers-tattersall-2/">Brooks Brothers Tattersall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brooks-brothers-tattersall-2/"><img src="/variants/s5/dy1db9dy2db9r1~x4/sett.png" alt="Brooks Brothers Tattersall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/g5n1g1n12r1~x8/">Ceredigion (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g5n1g1n12r1~x8/"><img src="/variants/s5/g5n1g1n12r1~x8/sett.png" alt="Ceredigion (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/ceredigion/">Ceredigion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/ceredigion/"><img src="/variants/s5/g5n1g1n12r1~x8/sett.png" alt="Ceredigion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/r5db12g11n21y5~x2/">Inspiration</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r5db12g11n21y5~x2/"><img src="/variants/s5/r5db12g11n21y5~x2/sett.png" alt="Inspiration sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inspiration/">Inspiration</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inspiration/"><img src="/variants/s5/r5db12g11n21y5~x2/sett.png" alt="Inspiration sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

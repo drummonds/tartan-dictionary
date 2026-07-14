@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/">GOLF (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/"><img src="/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/sett.png" alt="GOLF (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/golf/">GOLF</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/golf/"><img src="/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/sett.png" alt="GOLF sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

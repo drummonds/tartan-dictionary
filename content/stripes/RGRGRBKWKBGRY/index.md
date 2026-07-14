@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lo18r3g30t4k2w2k2t4r37y1r3y1r3~x2/">Sri Lanka</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lo18r3g30t4k2w2k2t4r37y1r3y1r3~x2/"><img src="/variants/s13/lo18r3g30t4k2w2k2t4r37y1r3y1r3~x2/sett.png" alt="Sri Lanka sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sr/sri-lanka/">Sri Lanka</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sr/sri-lanka/"><img src="/variants/s13/lo18r3g30t4k2w2k2t4r37y1r3y1r3~x2/sett.png" alt="Sri Lanka sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

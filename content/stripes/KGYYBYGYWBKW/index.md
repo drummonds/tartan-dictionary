@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w4k1t33w4ly15g4ly3t4ly15lyi2g30k2~x2~ly2503076-lyi2705081/">State Seal of Idaho (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w4k1t33w4ly15g4ly3t4ly15lyi2g30k2~x2~ly2503076-lyi2705081/"><img src="/variants/s12/w4k1t33w4ly15g4ly3t4ly15lyi2g30k2~x2~ly2503076-lyi2705081/sett.png" alt="State Seal of Idaho (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-idaho/">State Seal of Idaho</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-idaho/"><img src="/variants/s12/w4k1t33w4ly15g4ly3t4ly15lyi2g30k2~x2~ly2503076-lyi2705081/sett.png" alt="State Seal of Idaho sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

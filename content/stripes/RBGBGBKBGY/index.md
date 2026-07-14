@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/">Ofally, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><img src="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/sett.png" alt="Ofally, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/of/ofally-county/">Ofally, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/of/ofally-county/"><img src="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/sett.png" alt="Ofally, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

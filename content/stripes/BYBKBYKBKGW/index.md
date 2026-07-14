@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/">State Seal of Kentucky (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/"><img src="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/sett.png" alt="State Seal of Kentucky (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-kentucky/">State Seal of Kentucky</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-kentucky/"><img src="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/sett.png" alt="State Seal of Kentucky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

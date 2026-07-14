@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k1lb1r1db1g1db1/">Antonello (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k1lb1r1db1g1db1/"><img src="/variants/s6/k1lb1r1db1g1db1~x24/sett.png" alt="Antonello (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/antonello/">Antonello</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/antonello/"><img src="/variants/s6/k1lb1r1db1g1db1~x24/sett.png" alt="Antonello sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

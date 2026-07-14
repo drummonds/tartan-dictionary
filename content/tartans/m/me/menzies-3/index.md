@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/menzies/"
 - name: "Menzies"
   url: "/families/menzies/"
+aliases:
+- "/setts/k19g10k6g10k12g6k4g14/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgkgkgk/">GKGKGKGK</a></nav>
 A tartan of the [Menzies](/families/menzies/) family.
 Its design is pattern [GKGKGKGK](/stripes/gkgkgkgk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Menzies** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k19g10k6g10k12g6k4g14/">Menzies</a></td><td><code>K/38 G20 K12 G20 K24 G12 K8 G/28</code></td><td>258</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k19g10k6g10k12g6k4g14/"><img src="/variants/s8/k19g10k6g10k12g6k4g14~x2/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k19g10k6g10k12g6k4g14~x2/">Menzies</a></td><td><code>K/38 G20 K12 G20 K24 G12 K8 G/28</code></td><td>258</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k19g10k6g10k12g6k4g14~x2/"><img src="/variants/s8/k19g10k6g10k12g6k4g14~x2/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -38,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="280.4" cy="181.5" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="296.6" cy="190.2" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><a href="/variants/s8/k1db5k4g3k1g3k6g1~x4/"><circle cx="208.6" cy="228.2" r="4" fill="#3465a4"><title>Keith McCormick</title></circle></a><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><circle cx="137.1" cy="269.9" r="4" fill="#3465a4"><title>Unidentified No 63</title></circle></a><a href="/variants/s10/g7k12g12k9dr3k9g20k16g7t3~x2/"><circle cx="182.6" cy="213.6" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="224.0" cy="179.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="222.7" cy="195.7" r="4" fill="#3465a4"><title>Strath Hallidale</title></circle></a><a href="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/"><circle cx="255.4" cy="231.3" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/variants/s12/g4k4g4k1g4k4g4k1g4k4g4ly1~x2/"><circle cx="228.1" cy="250.7" r="4" fill="#3465a4"><title>Norwich No.039</title></circle></a><a href="/variants/s5/k9g3k3g12y2~x4/"><circle cx="242.6" cy="236.9" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><circle cx="234.8" cy="264.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="281.3" cy="181.7" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="297.3" cy="190.4" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><a href="/variants/s8/k1db5k4g3k1g3k6g1~x4/"><circle cx="209.1" cy="228.2" r="4" fill="#3465a4"><title>Keith McCormick</title></circle></a><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><circle cx="137.3" cy="269.9" r="4" fill="#3465a4"><title>Unidentified No 63</title></circle></a><a href="/variants/s10/g7k12g12k9dr3k9g20k16g7t3~x2/"><circle cx="183.1" cy="213.6" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="224.7" cy="179.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="223.2" cy="195.7" r="4" fill="#3465a4"><title>Strath Hallidale</title></circle></a><a href="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/"><circle cx="256.1" cy="231.5" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/variants/s12/g4k4g4k1g4k4g4k1g4k4g4ly1~x2/"><circle cx="228.6" cy="250.8" r="4" fill="#3465a4"><title>Norwich No.039</title></circle></a><a href="/variants/s5/k9g3k3g12y2~x4/"><circle cx="243.2" cy="237.0" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><circle cx="235.4" cy="264.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

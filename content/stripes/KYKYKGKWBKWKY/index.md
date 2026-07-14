@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/">Lotus Elan (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/"><img src="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/sett.png" alt="Lotus Elan (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lotus-elan/">Lotus Elan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lotus-elan/"><img src="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/sett.png" alt="Lotus Elan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

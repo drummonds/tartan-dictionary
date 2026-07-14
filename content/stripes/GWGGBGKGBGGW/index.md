@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/">Connemarra Irish District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/"><img src="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/sett.png" alt="Connemarra Irish District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connemarra/">Connemarra</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connemarra/"><img src="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/sett.png" alt="Connemarra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

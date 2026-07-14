@@ -12,10 +12,10 @@ crumbs:
 - name: "Seton Hunting"
   url: "/tartans/s/se/seton-hunting/"
 - name: "Seton Hunting Family Tartan"
-  url: "/setts/g6w1g12dy4r4dy2r4dy32g1dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g6w1g12dy4r4dy2r4dy32g1dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/se/seton-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRGRGGWG](/stripes/gggrgrggwg/).
 
 Part of the [Seton Hunting](/tartans/s/se/seton-hunting/) tartan — the named design grouping this sett with its other cloths.
@@ -62,7 +62,7 @@ One full sett is **256 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.55** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.52** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

@@ -8,10 +8,10 @@ crumbs:
 - name: "Six Frigates"
   url: "/tartans/s/si/six-frigates/"
 - name: "Six Frigates (US)"
-  url: "/setts/lb3k1y2k1db10k17db2lb1dy1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb3k1y2k1db10k17db2lb1dy1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/six-frigates/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWBKBKGKW](/stripes/rgwbkbkgkw/).
 
 Part of the [Six Frigates](/tartans/s/si/six-frigates/) tartan — the named design grouping this sett with its other cloths.

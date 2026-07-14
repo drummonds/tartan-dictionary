@@ -12,10 +12,10 @@ crumbs:
 - name: "Muirhead"
   url: "/tartans/m/mu/muirhead/"
 - name: "Muirhead (Original)"
-  url: "/setts/y6ly48db8ly16w4ly3g19r24ly4r9w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y6ly48db8ly16w4ly3g19r24ly4r9w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/muirhead/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYBYWYGRYRW](/stripes/gybywygryrw/).
 
 Part of the [Muirhead](/tartans/m/mu/muirhead/) tartan — the named design grouping this sett with its other cloths.

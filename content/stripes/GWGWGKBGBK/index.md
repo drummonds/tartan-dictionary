@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/">Bomb Disposal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/"><img src="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/sett.png" alt="Bomb Disposal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bomb-disposal-2/">Bomb Disposal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bomb-disposal-2/"><img src="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/sett.png" alt="Bomb Disposal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

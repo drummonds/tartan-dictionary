@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/">Caledonian Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/"><img src="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/sett.png" alt="Caledonian Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledonian-club/">Caledonian Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-club/"><img src="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/sett.png" alt="Caledonian Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

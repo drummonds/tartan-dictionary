@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/">Humanitarian Mission (Dress)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/"><img src="/variants/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/sett.png" alt="Humanitarian Mission (Dress) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/humanitarian-mission/">Humanitarian Mission</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/humanitarian-mission/"><img src="/variants/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/sett.png" alt="Humanitarian Mission sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

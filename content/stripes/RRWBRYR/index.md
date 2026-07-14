@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3ly2r18db8w1o18r2~x2/">Barbour - Cardinal Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3ly2r18db8w1o18r2~x2/"><img src="/variants/s7/r3ly2r18db8w1o18r2~x2/sett.png" alt="Barbour - Cardinal Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barbour-6/">Barbour</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barbour-6/"><img src="/variants/s7/r3ly2r18db8w1o18r2~x2/sett.png" alt="Barbour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

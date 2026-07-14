@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Rannoch"
   url: "/tartans/l/lo/loch-rannoch-3/"
 - name: "Loch Rannoch #2"
-  url: "/setts/dy24g2dy5r14g2r5lo17dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy24g2dy5r14g2r5lo17dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-rannoch-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRGRYG](/stripes/gggrgryg/).
 
 Part of the [Loch Rannoch](/tartans/l/lo/loch-rannoch-3/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2157](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1975 — Loch Rannoch #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2157">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E86000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #E86000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #DC943C"></span><br><em>Designed by Mrs P. J. Thompson for Clan Crest Textiles, a 'fashion' tartan which seems to have become accepted as a District Tartan. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>1975 — Loch Rannoch (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1735">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E86000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #E86000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #DC943C"></span><br><em>Designed by Mrs. P. J. Thompson for Clan Crest Textiles --- a 'fashion' tartan which seems to have become accepted as a District Tartan. Sample in STA's Johnston Collection.</em></li>
+<li>1975 — Loch Rannoch (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1735/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E86000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #E86000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #DC943C"></span><br><em>Designed by Mrs. P. J. Thompson for Clan Crest Textiles --- a 'fashion' tartan which seems to have become accepted as a District Tartan. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

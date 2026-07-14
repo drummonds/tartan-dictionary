@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/">Ayrton Laoch Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/"><img src="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/sett.png" alt="Ayrton Laoch Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/r2g12dy2g12db3g2db2g2db4r2~x2/">Ayrton of Laoch (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r2g12dy2g12db3g2db2g2db4r2~x2/"><img src="/variants/s10/r2g12dy2g12db3g2db2g2db4r2~x2/sett.png" alt="Ayrton of Laoch (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayrton-laoch/">Ayrton Laoch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ay/ayrton-laoch/"><img src="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/sett.png" alt="Ayrton Laoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayrton-of-laoch/">Ayrton of Laoch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ay/ayrton-of-laoch/"><img src="/variants/s10/r2g12dy2g12db3g2db2g2db4r2~x2/sett.png" alt="Ayrton of Laoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

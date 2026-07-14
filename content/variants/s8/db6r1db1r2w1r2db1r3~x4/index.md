@@ -10,10 +10,10 @@ crumbs:
 - name: "Edinburgh Marketing"
   url: "/tartans/e/ed/edinburgh-marketing/"
 - name: "Edinburgh Marketing"
-  url: "/setts/db6r1db1r2w1r2db1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6r1db1r2w1r2db1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-marketing/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRWRBR](/stripes/brbrwrbr/).
 
 Part of the [Edinburgh Marketing](/tartans/e/ed/edinburgh-marketing/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1082](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Edinburgh Marketing (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1082">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Scottish Tartans Society records note that the tartan was based on the Drummond tartan after the famous Lord Provost of Edinburgh, Lord Drummond. He is regarded as the father of the New Town and the 'bridge' between the Old Town of Edinburgh and the New Town. The colours are the corporate colours of Edinburgh Marketing: navy, red and white.</em></li>
-<li>pre 2002 — Edinburgh Marketing (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2106">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>STS records state: The tartan was based on the Drummond tartan after the famous Lord Provost of Edinburgh, Lord Drummond, who is regarded as the father of the New Town and the ''bridge'' between the Old town of Edinburgh and the New Town. The colours are the corporate colours of Edinburgh Marketing, Navy, Red and White. The small sett size means that this verges on being regarded as a check rather than a tartan.</em></li>
+<li>pre 2002 — Edinburgh Marketing (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2106/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>STS records state: The tartan was based on the Drummond tartan after the famous Lord Provost of Edinburgh, Lord Drummond, who is regarded as the father of the New Town and the ''bridge'' between the Old town of Edinburgh and the New Town. The colours are the corporate colours of Edinburgh Marketing, Navy, Red and White. The small sett size means that this verges on being regarded as a check rather than a tartan.</em></li>
 </ul>
 </details>
 

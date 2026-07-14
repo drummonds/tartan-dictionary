@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k62w10y10k4w18k4ly3w4/">Colbert Check (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><img src="/variants/s8/k62w10y10k4w18k4ly3w4/sett.png" alt="Colbert Check (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/colbert-check/">Colbert Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/colbert-check/"><img src="/variants/s8/k62w10y10k4w18k4ly3w4/sett.png" alt="Colbert Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

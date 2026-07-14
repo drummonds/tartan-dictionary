@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3~x2~ki0604259/">Moon (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3~x2~ki0604259/"><img src="/variants/s18/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3~x2~ki0604259/sett.png" alt="Moon (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moon-3/">Moon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moon-3/"><img src="/variants/s18/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3~x2~ki0604259/sett.png" alt="Moon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

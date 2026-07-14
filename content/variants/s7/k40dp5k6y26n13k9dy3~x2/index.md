@@ -8,10 +8,10 @@ crumbs:
 - name: "de Meuron Dress, The"
   url: "/tartans/d/de/de-meuron-dress-the/"
 - name: "de Meuron (Neuchâtel) Dress, The"
-  url: "/setts/k40dp5k6y26n13k9dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k40dp5k6y26n13k9dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/de-meuron-dress-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBGKBK](/stripes/gkbgkbk/).
 
 Part of the [de Meuron Dress, The](/tartans/d/de/de-meuron-dress-the/) tartan — the named design grouping this sett with its other cloths.

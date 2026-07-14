@@ -10,10 +10,10 @@ crumbs:
 - name: "Manitoba Cue Sports"
   url: "/tartans/m/ma/manitoba-cue-sports/"
 - name: "Manitoba Cue Sports"
-  url: "/setts/k8g4r1k2g16dy1k8g2k2g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8g4r1k2g16dy1k8g2k2g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/manitoba-cue-sports/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGGKRGK](/stripes/gkgkggkrgk/).
 
 Part of the [Manitoba Cue Sports](/tartans/m/ma/manitoba-cue-sports/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db4r1db18r18db1r1w1~x2/">St. Mildreds Check (School)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db4r1db18r18db1r1w1~x2/"><img src="/variants/s7/db4r1db18r18db1r1w1~x2/sett.png" alt="St. Mildreds Check (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-mildreds-check/">St. Mildreds Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-mildreds-check/"><img src="/variants/s7/db4r1db18r18db1r1w1~x2/sett.png" alt="St. Mildreds Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

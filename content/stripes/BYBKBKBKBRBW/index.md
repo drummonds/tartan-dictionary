@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/">Orr, Gerald William (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/"><img src="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/sett.png" alt="Orr, Gerald William (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/orr-gerald-william/">Orr, Gerald William</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orr-gerald-william/"><img src="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/sett.png" alt="Orr, Gerald William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

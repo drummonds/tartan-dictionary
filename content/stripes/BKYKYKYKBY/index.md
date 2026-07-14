@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/">Hanna of Stirlingshire (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/"><img src="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/sett.png" alt="Hanna of Stirlingshire (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hanna-of-stirlingshire/">Hanna of Stirlingshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hanna-of-stirlingshire/"><img src="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/sett.png" alt="Hanna of Stirlingshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

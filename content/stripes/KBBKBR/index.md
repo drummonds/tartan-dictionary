@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r80db30k3dp2db30k12/">Double Elvis Gallery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r80db30k3dp2db30k12/"><img src="/variants/s6/r80db30k3dp2db30k12/sett.png" alt="Double Elvis Gallery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r40db15k2dp1db15k6~x2/">Double Elvis Gallery (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r40db15k2dp1db15k6~x2/"><img src="/variants/s6/r40db15k2dp1db15k6~x2/sett.png" alt="Double Elvis Gallery (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/double-elvis-gallery/">Double Elvis Gallery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/double-elvis-gallery/"><img src="/variants/s6/r80db30k3dp2db30k12/sett.png" alt="Double Elvis Gallery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

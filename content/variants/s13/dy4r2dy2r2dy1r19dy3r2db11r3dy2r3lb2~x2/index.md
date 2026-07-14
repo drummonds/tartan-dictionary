@@ -8,10 +8,10 @@ crumbs:
 - name: "Châine des Rôtisseurs"
   url: "/tartans/c/ch/ch-ine-des-r-tisseurs/"
 - name: "Châine des Rôtisseurs, (Grande Bretagne)"
-  url: "/setts/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/ch-ine-des-r-tisseurs/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRBRGRW](/stripes/grgrgrgrbrgrw/).
 
 Part of the [Châine des Rôtisseurs](/tartans/c/ch/ch-ine-des-r-tisseurs/) tartan — the named design grouping this sett with its other cloths.

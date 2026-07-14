@@ -10,10 +10,10 @@ crumbs:
 - name: "Wcwm 1166-2"
   url: "/tartans/w/wc/wcwm-1166-2/"
 - name: "Wcwm 1166-2"
-  url: "/setts/do44o3do4w3do4o44/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do44o3do4w3do4o44/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wc/wcwm-1166-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBR](/stripes/brbwbr/).
 
 Part of the [Wcwm 1166-2](/tartans/w/wc/wcwm-1166-2/) tartan — the named design grouping this sett with its other cloths.

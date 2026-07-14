@@ -8,10 +8,10 @@ crumbs:
 - name: "Orion Nebula"
   url: "/tartans/o/or/orion-nebula/"
 - name: "Orion Nebula"
-  url: "/setts/dp49g3r5db15y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp49g3r5db15y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/or/orion-nebula/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBG](/stripes/bgrbg/).
 
 Part of the [Orion Nebula](/tartans/o/or/orion-nebula/) tartan — the named design grouping this sett with its other cloths.

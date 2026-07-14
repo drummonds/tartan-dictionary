@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/">Valdres, Kvam &amp; Vang</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/"><img src="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/sett.png" alt="Valdres, Kvam &amp; Vang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r5m2r1dg16m2r11m1r1m2~x4/">Valdres, Kvam &amp; Vang (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r5m2r1dg16m2r11m1r1m2~x4/"><img src="/variants/s9/r5m2r1dg16m2r11m1r1m2~x4/sett.png" alt="Valdres, Kvam &amp; Vang (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/valdres-kvam-vang-2/">Valdres, Kvam &amp; Vang</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/valdres-kvam-vang-2/"><img src="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/sett.png" alt="Valdres, Kvam &amp; Vang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

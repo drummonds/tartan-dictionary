@@ -12,10 +12,10 @@ crumbs:
 - name: "Bruce of Kinnaird"
   url: "/tartans/b/br/bruce-of-kinnaird-2/"
 - name: "Bruce of Kinnaird (Vivienne Westwood Design)"
-  url: "/setts/dy22y22dr2lb6dr2lo2dr16dg5dy8lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy22y22dr2lb6dr2lo2dr16dg5dy8lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bruce-of-kinnaird-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWBYBGGW](/stripes/ggbwbybggw/).
 
 Part of the [Bruce of Kinnaird](/tartans/b/br/bruce-of-kinnaird-2/) tartan — the named design grouping this sett with its other cloths.

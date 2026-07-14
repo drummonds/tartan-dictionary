@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Power"
   url: "/tartans/s/sc/scottish-power/"
 - name: "Scottish Power Corporate Tartan"
-  url: "/setts/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-power/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKBGGGBKGBG](/stripes/bgbgkbgggbkgbg/).
 
 Part of the [Scottish Power](/tartans/s/sc/scottish-power/) tartan — the named design grouping this sett with its other cloths.

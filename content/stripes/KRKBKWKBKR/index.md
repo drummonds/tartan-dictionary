@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r8k79n4k4lb4k6n22k6r16k6/">King Robert the Bruce Memorial, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r8k79n4k4lb4k6n22k6r16k6/"><img src="/variants/s10/r8k79n4k4lb4k6n22k6r16k6/sett.png" alt="King Robert the Bruce Memorial, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/king-robert-the-bruce-memorial-com/">King Robert the Bruce Memorial (Com</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/king-robert-the-bruce-memorial-com/"><img src="/variants/s10/r8k79n4k4lb4k6n22k6r16k6/sett.png" alt="King Robert the Bruce Memorial (Com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

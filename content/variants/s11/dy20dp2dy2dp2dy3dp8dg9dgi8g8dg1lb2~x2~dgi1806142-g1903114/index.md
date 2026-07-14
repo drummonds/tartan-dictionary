@@ -8,15 +8,15 @@ crumbs:
 - name: "Isle of Skye"
   url: "/tartans/i/is/isle-of-skye-2/"
 - name: "Isle of Skye"
-  url: "/setts/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBGBGGGGWGGGGBGBGBG](/stripes/bgbgbggggwggggbgbgbg/).
+provenance below. It is one weaving of the [sett](/tartans/i/is/isle-of-skye-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBGGGGW](/stripes/gbgbgbggggw/).
 
 Part of the [Isle of Skye](/tartans/i/is/isle-of-skye-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1868](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1868)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2155
 
 ## Thread count
-DY/40 DP4 DY4 DP4 DY6 DP16 DG18 DGi16 G16 DG2 LB4 DG2 G16 DGi16 DG18 DP16 DY6 DP4 DY4 DP/4
+DY/40 DP4 DY4 DP4 DY6 DP16 DG18 DGi16 G16 DG2 LB/4
 
-One full sett is **388 threads**.
+One full sett is **216 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DY/40 DP4 DY4 DP4 DY6 DP16 DG18 DGi16 G16 DG2 LB4 DG2 G16 DGi16 DG18 DP16 DY6 DP4 DY4 DP/4 — 388 threads; it folds to the canonical 216-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **388 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/40 DP4 DY4 DP4 DY6 DP16 DG18 DGi16 G16 DG2 LB4 DG2 G16 DGi16 DG18 DP16 DY6 DP4 DY4 DP/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/40 DP4 DY4 DP4 DY6 DP16 DG18 DGi16 G16 DG2 LB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

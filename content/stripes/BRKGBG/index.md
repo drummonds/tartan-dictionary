@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dy4dt20dy3k20o24dt3~x2/">Edinburgh International Conference Centre, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dy4dt20dy3k20o24dt3~x2/"><img src="/variants/s6/dy4dt20dy3k20o24dt3~x2/sett.png" alt="Edinburgh International Conference Centre, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-int-conf-centre/">Edinburgh Int.Conf. Centre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-int-conf-centre/"><img src="/variants/s6/dy4dt20dy3k20o24dt3~x2/sett.png" alt="Edinburgh Int.Conf. Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

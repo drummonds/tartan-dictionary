@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/gairloch/"
 - name: "Gairloch"
   url: "/families/gairloch/"
+aliases:
+- "/setts/w25k9w12y2db2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgwkw/">BGWKW</a></nav>
 A tartan of the [Gairloch](/families/gairloch/) family.
 Its design is pattern [BGWKW](/stripes/bgwkw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Gairloch** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w25k9w12y2db2/">Gairloch</a></td><td><code>W/50 K18 W24 Y4 DB/4</code></td><td>146</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w25k9w12y2db2/"><img src="/variants/s5/w25k9w12y2db2~x2~w3600000-y2400000/sett.png" alt="Gairloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w25k9w12y2db2~x2~w3600000-y2400000/">Gairloch</a></td><td><code>W/50 K18 W24 Y4 DB/4</code></td><td>146</td><td>1983</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w25k9w12y2db2~x2~w3600000-y2400000/"><img src="/variants/s5/w25k9w12y2db2~x2~w3600000-y2400000/sett.png" alt="Gairloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/n62w11k4db17~x2/"><circle cx="372.5" cy="181.2" r="4" fill="#3465a4"><title>Thunderlord</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="299.4" cy="132.7" r="4" fill="#3465a4"><title>Kinloch at Loch Awe</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="298.7" cy="132.0" r="4" fill="#3465a4"><title>Kinloch of Loch Awe</title></circle></a><a href="/variants/s4/n62w11k4lg17~x2/"><circle cx="369.1" cy="186.3" r="4" fill="#3465a4"><title>Thunderlord</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="382.0" cy="107.4" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="389.0" cy="173.9" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="387.8" cy="175.2" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s7/lb11dy5k1dy2r1dy2lb11~x12/"><circle cx="332.4" cy="166.7" r="4" fill="#3465a4"><title>Carlisle</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="333.0" cy="182.8" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s8/w20k2w20y5k3w3y4k2/"><circle cx="363.5" cy="163.7" r="4" fill="#3465a4"><title>Guzzo Dress</title></circle></a><circle cx="370.9" cy="176.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/n62w11k4db17~x2/"><circle cx="373.4" cy="181.4" r="4" fill="#3465a4"><title>Thunderlord</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="300.2" cy="132.6" r="4" fill="#3465a4"><title>Kinloch at Loch Awe</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="299.4" cy="132.0" r="4" fill="#3465a4"><title>Kinloch of Loch Awe</title></circle></a><a href="/variants/s4/n62w11k4lg17~x2/"><circle cx="370.0" cy="186.4" r="4" fill="#3465a4"><title>Thunderlord</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.0" cy="107.4" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="390.0" cy="174.2" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="388.7" cy="175.2" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s7/lb11dy5k1dy2r1dy2lb11~x12/"><circle cx="333.3" cy="166.8" r="4" fill="#3465a4"><title>Carlisle</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="333.9" cy="182.9" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s8/w20k2w20y5k3w3y4k2/"><circle cx="364.4" cy="163.8" r="4" fill="#3465a4"><title>Guzzo Dress</title></circle></a><circle cx="371.9" cy="176.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

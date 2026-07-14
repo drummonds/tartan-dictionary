@@ -8,10 +8,10 @@ crumbs:
 - name: "Mostyn"
   url: "/tartans/m/mo/mostyn/"
 - name: "Mostyn"
-  url: "/setts/r20k2r2k2r2k8g24db2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r20k2r2k2r2k8g24db2g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/mostyn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKRKRKR](/stripes/gbgkrkrkr/).
 
 Part of the [Mostyn](/tartans/m/mo/mostyn/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3024](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/2006 — Mostyn (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3024">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>A personal tartan designed by Doug Mostyn which can be worn by all of the name who are descended from the Welsh family of Mostyn. Arranged through Celtic Craft Centre of Edinburgh. Woven sample. Both the green and pink are almost 'dayglo'.</em></li>
-<li>2006 March — Mostyn (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6896">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>A personal tartan designed by Doug Mostyn which can be worn by all of the name who are descended from the Welsh family of Mostyn. Arranged through Celtic Craft Centre of Edinburgh. Woven sample. Both the green and pink are almost 'dayglo'.</em></li>
+<li>2006 March — Mostyn (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6896/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>A personal tartan designed by Doug Mostyn which can be worn by all of the name who are descended from the Welsh family of Mostyn. Arranged through Celtic Craft Centre of Edinburgh. Woven sample. Both the green and pink are almost 'dayglo'.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w2p10w2r3w10gi3w2b3w10k3w2g10ly2~x2~gi2007139-g2004144/">Morris of Balgonie Arisaid (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w2p10w2r3w10gi3w2b3w10k3w2g10ly2~x2~gi2007139-g2004144/"><img src="/variants/s13/w2p10w2r3w10gi3w2b3w10k3w2g10ly2~x2~gi2007139-g2004144/sett.png" alt="Morris of Balgonie Arisaid (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/morris-of-balgonie-arisaid/">Morris of Balgonie Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morris-of-balgonie-arisaid/"><img src="/variants/s13/w2p10w2r3w10gi3w2b3w10k3w2g10ly2~x2~gi2007139-g2004144/sett.png" alt="Morris of Balgonie Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

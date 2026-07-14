@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Borthwick"
   url: "/clan/borthwick/"
+aliases:
+- "/setts/g12k1r10k2y10k14y10k2r4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkrkgkgkr/">GKRKGKGKR</a></nav>
 A tartan of [Clan Borthwick](/clan/borthwick/).
 Its design is pattern [GKRKGKGKR](/stripes/gkrkgkgkr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Borthwick D** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g12k1r10k2y10k14y10k2r4/">Borthwick D</a></td><td><code>G/24 K2 R20 K4 Y20 K28 Y20 K4 R/8</code></td><td>228</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g12k1r10k2y10k14y10k2r4/"><img src="/variants/s9/g12k1r10k2y10k14y10k2r4~x2/sett.png" alt="Borthwick D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g12k1r10k2y10k14y10k2r4~x2/">Borthwick D</a></td><td><code>G/24 K2 R20 K4 Y20 K28 Y20 K4 R/8</code></td><td>228</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g12k1r10k2y10k14y10k2r4~x2/"><img src="/variants/s9/g12k1r10k2y10k14y10k2r4~x2/sett.png" alt="Borthwick D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g17k1r16k2y14k19y14k2r6/"><circle cx="129.9" cy="165.8" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="140.4" cy="178.4" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="165.1" cy="171.4" r="4" fill="#3465a4"><title>Fulton</title></circle></a><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/"><circle cx="120.0" cy="180.1" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="140.2" cy="163.0" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="140.5" cy="216.3" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.5" cy="175.3" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><circle cx="90.0" cy="199.6" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="97.1" cy="208.2" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><circle cx="138.5" cy="198.8" r="4" fill="#3465a4"><title>Brough</title></circle></a><circle cx="116.5" cy="179.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g17k1r16k2y14k19y14k2r6/"><circle cx="130.2" cy="165.6" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="140.7" cy="178.2" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="165.5" cy="171.2" r="4" fill="#3465a4"><title>Fulton</title></circle></a><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/"><circle cx="120.3" cy="179.9" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="140.6" cy="162.7" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="140.7" cy="216.2" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="192.0" cy="175.1" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><circle cx="90.2" cy="199.3" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="97.3" cy="207.9" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><circle cx="138.8" cy="198.7" r="4" fill="#3465a4"><title>Brough</title></circle></a><circle cx="116.8" cy="179.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,12 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/n22t12dg12y2t4y2dg12t12n12k1r6k2dg10t10~x2/">Penman</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/n22t12dg12y2t4y2dg12t12n12k1r6k2dg10t10~x2/"><img src="/variants/s14/n22t12dg12y2t4y2dg12t12n12k1r6k2dg10t10~x2/sett.png" alt="Penman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/n11db6g6y1db2y1g6db6n36k1r3k1g5db5~x2/">Penman Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/n11db6g6y1db2y1g6db6n36k1r3k1g5db5~x2/"><img src="/variants/s14/n11db6g6y1db2y1g6db6n36k1r3k1g5db5~x2/sett.png" alt="Penman Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/n11db6g6y1db2y1g6db6n11k1r3k1g5db5~x2/">Penman Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/n11db6g6y1db2y1g6db6n11k1r3k1g5db5~x2/"><img src="/variants/s14/n11db6g6y1db2y1g6db6n11k1r3k1g5db5~x2/sett.png" alt="Penman Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/penman/">Penman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/penman/"><img src="/variants/s14/n11db6g6y1db2y1g6db6n36k1r3k1g5db5~x2/sett.png" alt="Penman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

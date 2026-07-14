@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/">University of Delaware (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/"><img src="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/sett.png" alt="University of Delaware (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/university-of-delaware/">University of Delaware</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/university-of-delaware/"><img src="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/sett.png" alt="University of Delaware sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

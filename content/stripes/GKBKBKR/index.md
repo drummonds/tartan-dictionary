@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r1k1db10k1dp4k9y1~x4/">Graeme High School Homecoming 2009</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r1k1db10k1dp4k9y1~x4/"><img src="/variants/s7/r1k1db10k1dp4k9y1~x4/sett.png" alt="Graeme High School Homecoming 2009 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/graeme-high-school-homecoming-2009/">Graeme High School Homecoming 2009</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graeme-high-school-homecoming-2009/"><img src="/variants/s7/r1k1db10k1dp4k9y1~x4/sett.png" alt="Graeme High School Homecoming 2009 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

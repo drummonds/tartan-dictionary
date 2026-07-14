@@ -8,15 +8,15 @@ crumbs:
 - name: "Kelso"
   url: "/tartans/k/ke/kelso/"
 - name: "Kelso"
-  url: "/setts/lr12g3lr3dg4lr16g3lr3g3lr3g16dg52lr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lr12g3lr3dg4lr16g3lr3g3lr3g16dg52lr4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GYGYGYGYGGYGGYGYGYGYGY](/stripes/gygygygyggyggygygygygy/).
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kelso/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YGGYGYGYGYGY](/stripes/yggygygygygy/).
 
 Part of the [Kelso](/tartans/k/ke/kelso/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1938](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1938)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5325
 
 ## Thread count
-LR/12 G3 LR3 DG4 LR16 G3 LR3 G3 LR3 G16 DG52 LR4 DG52 G16 LR3 G3 LR3 G3 LR16 DG4 LR3 G/3
+LR/12 G3 LR3 DG4 LR16 G3 LR3 G3 LR3 G16 DG52 LR/4
 
-One full sett is **441 threads**.
+One full sett is **228 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LR/12 G3 LR3 DG4 LR16 G3 LR3 G3 LR3 G16 DG52 LR4 DG52 G16 LR3 G3 LR3 G3 LR16 DG4 LR3 G/3 — 441 threads; it folds to the canonical 228-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **441 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LR/12 G3 LR3 DG4 LR16 G3 LR3 G3 LR3 G16 DG52 LR4 DG52 G16 LR3 G3 LR3 G3 LR16 DG4 LR3 G/3 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LR/12 G3 LR3 DG4 LR16 G3 LR3 G3 LR3 G16 DG52 LR/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

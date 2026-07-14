@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g11k5ly7w5ly7k5g7ly11db16ly7y5~x2/">Roscommon County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g11k5ly7w5ly7k5g7ly11db16ly7y5~x2/"><img src="/variants/s11/g11k5ly7w5ly7k5g7ly11db16ly7y5~x2/sett.png" alt="Roscommon County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/roscommon-county-crest/">Roscommon County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roscommon-county-crest/"><img src="/variants/s11/g11k5ly7w5ly7k5g7ly11db16ly7y5~x2/sett.png" alt="Roscommon County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

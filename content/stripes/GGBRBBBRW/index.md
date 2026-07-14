@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/">MacNiven Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/"><img src="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/sett.png" alt="MacNiven Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macniven/">MacNiven</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macniven/"><img src="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/sett.png" alt="MacNiven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

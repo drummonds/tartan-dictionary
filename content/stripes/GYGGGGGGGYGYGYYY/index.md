@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/dy2ly8dy4y1dy2y2dy2y1dy4ly60dy2ly15dy2ly2lo2ly2~x2/">UPS No.2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/dy2ly8dy4y1dy2y2dy2y1dy4ly60dy2ly15dy2ly2lo2ly2~x2/"><img src="/variants/s16/dy2ly8dy4y1dy2y2dy2y1dy4ly60dy2ly15dy2ly2lo2ly2~x2/sett.png" alt="UPS No.2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/up/ups-no-2-2/">UPS No.2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/up/ups-no-2-2/"><img src="/variants/s16/dy2ly8dy4y1dy2y2dy2y1dy4ly60dy2ly15dy2ly2lo2ly2~x2/sett.png" alt="UPS No.2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

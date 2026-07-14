@@ -8,10 +8,10 @@ crumbs:
 - name: "Borrodale"
   url: "/tartans/b/bo/borrodale/"
 - name: "Borrodale"
-  url: "/setts/r5db3r3db29k29g29w4r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5db3r3db29k29g29w4r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/borrodale/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKGWR](/stripes/rbrbkgwr/).
 
 Part of the [Borrodale](/tartans/b/bo/borrodale/) tartan — the named design grouping this sett with its other cloths.

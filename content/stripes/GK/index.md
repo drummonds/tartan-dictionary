@@ -28,15 +28,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k1dg1/">MacKillen Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k1dg1/"><img src="/variants/s2/k1dg1~x100/sett.png" alt="MacKillen Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/k1g1~x66/">Robin Hood / Rob Roy hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/k1g1~x66/"><img src="/variants/s2/k1g1~x66/sett.png" alt="Robin Hood / Rob Roy hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/g9k8~x2/">Robin Hood Fancy Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/g9k8~x2/"><img src="/variants/s2/g9k8~x2/sett.png" alt="Robin Hood Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robin-hood/">Robin Hood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robin-hood/"><img src="/variants/s2/k1dg1~x100/sett.png" alt="Robin Hood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robin-hood-rob-roy-hunting/">Robin Hood / Rob Roy hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robin-hood-rob-roy-hunting/"><img src="/variants/s2/k1g1~x66/sett.png" alt="Robin Hood / Rob Roy hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robin-hood-fancy/">Robin Hood Fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robin-hood-fancy/"><img src="/variants/s2/g9k8~x2/sett.png" alt="Robin Hood Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/k1y1/">Justus Check (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k1y1/"><img src="/variants/s2/k1y1~x40/sett.png" alt="Justus Check (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/justus-check-2/">Justus Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/justus-check-2/"><img src="/variants/s2/k1y1~x40/sett.png" alt="Justus Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

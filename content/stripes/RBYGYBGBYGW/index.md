@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb16dg5lo20n3dg3n3lo4g14lo2n2r1~x2/">Bouguet, Adrian Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb16dg5lo20n3dg3n3lo4g14lo2n2r1~x2/"><img src="/variants/s11/lb16dg5lo20n3dg3n3lo4g14lo2n2r1~x2/sett.png" alt="Bouguet, Adrian Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bouguet-adrian-dress/">Bouguet, Adrian Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bouguet-adrian-dress/"><img src="/variants/s11/lb16dg5lo20n3dg3n3lo4g14lo2n2r1~x2/sett.png" alt="Bouguet, Adrian Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

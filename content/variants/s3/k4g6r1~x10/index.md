@@ -12,10 +12,10 @@ crumbs:
 - name: "Kincaid of Kincaid"
   url: "/tartans/k/ki/kincaid-of-kincaid/"
 - name: "Kincaid of Kincaid Family Tartan"
-  url: "/setts/k4g6r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4g6r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kincaid-of-kincaid/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGR](/stripes/kgr/).
 
 Part of the [Kincaid of Kincaid](/tartans/k/ki/kincaid-of-kincaid/) tartan — the named design grouping this sett with its other cloths.

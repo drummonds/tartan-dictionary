@@ -8,15 +8,15 @@ crumbs:
 - name: "Elphinstone"
   url: "/tartans/e/el/elphinstone/"
 - name: "Elphinstone Clan Tartan"
-  url: "/setts/g28dp10g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g28dp10g3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBG](/stripes/bgbg/).
+provenance below. It is one weaving of the [sett](/tartans/e/el/elphinstone/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBG](/stripes/gbg/).
 
 Part of the [Elphinstone](/tartans/e/el/elphinstone/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from house-of-tartan.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=115](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=115)
 
@@ -41,9 +41,11 @@ Earliest known date: 1842 The village of Elphinstone is next to Tranent near Edi
 </details>
 
 ## Thread count
-G/56 DP20 G6 DP/20
+G/56 DP20 G/6
 
-One full sett is **128 threads**.
+One full sett is **102 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/56 DP20 G6 DP/20 — 128 threads; it folds to the canonical 102-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **128 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/56 DP20 G6 DP/20 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/56 DP20 G/6 tartan" width="880" height="480">
 
 ## Compared to the master
 

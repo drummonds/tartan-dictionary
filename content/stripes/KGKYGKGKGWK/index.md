@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/">Chakraa (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/"><img src="/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/sett.png" alt="Chakraa (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chakraa/">Chakraa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chakraa/"><img src="/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/sett.png" alt="Chakraa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

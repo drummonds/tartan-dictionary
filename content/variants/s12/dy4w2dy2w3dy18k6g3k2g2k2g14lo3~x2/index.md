@@ -10,10 +10,10 @@ crumbs:
 - name: "Dorcas Check"
   url: "/tartans/d/do/dorcas-check/"
 - name: "Dorcas Check Trade Tartan"
-  url: "/setts/dy4w2dy2w3dy18k6g3k2g2k2g14lo3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy4w2dy2w3dy18k6g3k2g2k2g14lo3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/dorcas-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGKGKGKGY](/stripes/gwgwgkgkgkgy/).
 
 Part of the [Dorcas Check](/tartans/d/do/dorcas-check/) tartan — the named design grouping this sett with its other cloths.

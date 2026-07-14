@@ -12,10 +12,10 @@ crumbs:
 - name: "MacCallum"
   url: "/tartans/m/ma/maccallum-2/"
 - name: "MacCallum"
-  url: "/setts/g8k2w1g4k6db6k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8k2w1g4k6db6k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maccallum-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWGKBK](/stripes/gkwgkbk/).
 
 Part of the [MacCallum](/tartans/m/ma/maccallum-2/) tartan — the named design grouping this sett with its other cloths.

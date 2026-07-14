@@ -28,12 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r2g6db12k3lb3k3g16k2g2k2g2k12y2/">MacInnes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r2g6db12k3lb3k3g16k2g2k2g2k12y2/"><img src="/variants/s13/r2g6db12k3lb3k3g16k2g2k2g2k12y2/sett.png" alt="MacInnes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/r2g6db12k3w3k3g16k2g2k2g2k12y2/">MacInnes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r2g6db12k3w3k3g16k2g2k2g2k12y2/"><img src="/variants/s13/r2g6db12k3w3k3g16k2g2k2g2k12y2/sett.png" alt="MacInnes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12y2~x2/">MacInnes (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12y2~x2/"><img src="/variants/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12y2~x2/sett.png" alt="MacInnes (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macinnes-2/">MacInnes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macinnes-2/"><img src="/variants/s13/r2g6db12k3lb3k3g16k2g2k2g2k12y2/sett.png" alt="MacInnes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

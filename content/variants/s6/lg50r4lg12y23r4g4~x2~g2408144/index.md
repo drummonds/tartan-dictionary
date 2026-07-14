@@ -8,10 +8,10 @@ crumbs:
 - name: "Ingenico"
   url: "/tartans/i/in/ingenico/"
 - name: "Ingenico"
-  url: "/setts/lg50r4lg12y23r4g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lg50r4lg12y23r4g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/ingenico/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGYRY](/stripes/grgyry/).
 
 Part of the [Ingenico](/tartans/i/in/ingenico/) tartan — the named design grouping this sett with its other cloths.

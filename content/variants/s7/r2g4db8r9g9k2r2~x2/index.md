@@ -10,15 +10,15 @@ crumbs:
 - name: "Stewart"
   url: "/families/stewart/"
 - name: "Stewart"
-  url: "/tartans/s/st/stewart-6/"
+  url: "/tartans/s/st/stewart-7/"
 - name: "Stewart, Plaid"
-  url: "/setts/r2g4db8r9g9k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2g4db8r9g9k2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBRGKR](/stripes/rgbrgkr/).
 
-Part of the [Stewart](/tartans/s/st/stewart-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stewart](/tartans/s/st/stewart-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

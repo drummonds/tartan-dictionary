@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/">Princess Mary Royal Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/"><img src="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/sett.png" alt="Princess Mary Royal Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/king-george/">King George</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/king-george/"><img src="/variants/s12/g42t3k8y2k2w3k2g12r5k2r2w2~x2/sett.png" alt="King George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/princess-mary/">Princess Mary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-mary/"><img src="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/sett.png" alt="Princess Mary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Swedish"
   url: "/tartans/s/sw/swedish/"
 - name: "Swedish"
-  url: "/setts/y7k1db22k2db1k2db4k2db1k2db4k18w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y7k1db22k2db1k2db4k2db1k2db4k18w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sw/swedish/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBKBKBKW](/stripes/gkbkbkbkbkbkw/).
 
 Part of the [Swedish](/tartans/s/sw/swedish/) tartan — the named design grouping this sett with its other cloths.

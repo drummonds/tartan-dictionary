@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Gleneagles"
   url: "/clan/gleneagles/"
+aliases:
+- "/setts/k4ly4lb32ly1k32ly4k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kykywyk/">KYKYWYK</a></nav>
 A tartan of [Clan Gleneagles](/clan/gleneagles/).
 Its design is pattern [KYKYWYK](/stripes/kykywyk/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Gleneagles Gold** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4ly4lb32ly1k32ly4k2/">Gleneagles Gold</a></td><td><code>K/16 LY16 LB128 LY4 K128 LY16 K/8</code></td><td>608</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4ly4lb32ly1k32ly4k2/"><img src="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/sett.png" alt="Gleneagles Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/">Gleneagles Gold</a></td><td><code>K/16 LY16 LB128 LY4 K128 LY16 K/8</code></td><td>608</td><td>1984</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><img src="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/sett.png" alt="Gleneagles Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="279.7" cy="102.0" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="271.4" cy="111.8" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s7/k4o4w35o1k36o4k2~x2/"><circle cx="279.7" cy="100.8" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="316.3" cy="119.0" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="307.1" cy="154.0" r="4" fill="#3465a4"><title>Oakleigh</title></circle></a><a href="/variants/s5/dr3k1t27k27w3~x2/"><circle cx="265.5" cy="141.9" r="4" fill="#3465a4"><title>Bro-Spirit of Northmen</title></circle></a><a href="/variants/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="231.1" cy="125.5" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="293.0" cy="141.6" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><circle cx="319.0" cy="134.9" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="294.0" cy="88.4" r="4" fill="#3465a4"><title>Richecourt, Baron of</title></circle></a><circle cx="275.5" cy="110.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="280.7" cy="102.0" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="272.3" cy="111.8" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s7/k4o4w35o1k36o4k2~x2/"><circle cx="280.6" cy="100.8" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="317.3" cy="119.1" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="308.0" cy="154.1" r="4" fill="#3465a4"><title>Oakleigh</title></circle></a><a href="/variants/s5/dr3k1t27k27w3~x2/"><circle cx="266.3" cy="141.9" r="4" fill="#3465a4"><title>Bro-Spirit of Northmen</title></circle></a><a href="/variants/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="231.9" cy="125.4" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="293.9" cy="141.7" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><circle cx="320.0" cy="135.0" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="295.0" cy="88.4" r="4" fill="#3465a4"><title>Richecourt, Baron of</title></circle></a><circle cx="276.4" cy="110.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

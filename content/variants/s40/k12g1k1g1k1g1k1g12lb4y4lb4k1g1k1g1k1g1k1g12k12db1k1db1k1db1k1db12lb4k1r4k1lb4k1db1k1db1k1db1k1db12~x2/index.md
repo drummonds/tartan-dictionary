@@ -8,10 +8,10 @@ crumbs:
 - name: "Coutts 75th"
   url: "/tartans/c/co/coutts-75th/"
 - name: "Coutts 75th (James Robert )"
-  url: "/setts/k12g1k1g1k1g1k1g12lb4y4lb4k1g1k1g1k1g1k1g12k12db1k1db1k1db1k1db12lb4k1r4k1lb4k1db1k1db1k1db1k1db12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k12g1k1g1k1g1k1g12lb4y4lb4k1g1k1g1k1g1k1g12k12db1k1db1k1db1k1db12lb4k1r4k1lb4k1db1k1db1k1db1k1db12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/coutts-75th/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKWKRKWBKBKBKBKGKGKGKGKWGWGKGKGKGK](/stripes/bkbkbkbkwkrkwbkbkbkbkgkgkgkgkwgwgkgkgkgk/).
 
 Part of the [Coutts 75th](/tartans/c/co/coutts-75th/) tartan — the named design grouping this sett with its other cloths.

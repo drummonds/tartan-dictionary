@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dgii4y52dg4g8dg6dgi12dgii17y7lo4~dgii1806142-y2204130-g2106142-dgi1403152/">McAlbourne (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dgii4y52dg4g8dg6dgi12dgii17y7lo4~dgii1806142-y2204130-g2106142-dgi1403152/"><img src="/variants/s9/dgii4y52dg4g8dg6dgi12dgii17y7lo4~dgii1806142-y2204130-g2106142-dgi1403152/sett.png" alt="McAlbourne (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcalbourne/">McAlbourne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcalbourne/"><img src="/variants/s9/dgii4y52dg4g8dg6dgi12dgii17y7lo4~dgii1806142-y2204130-g2106142-dgi1403152/sett.png" alt="McAlbourne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

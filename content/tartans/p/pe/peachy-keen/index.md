@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r5g2r2g35lo20r2lo20r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgrgyryr/">RGRGYRYR</a></nav>
 Its design is pattern [RGRGYRYR](/stripes/rgrgyryr/) — the page of every tartan sharing this colour sequence.
 
 The **Peachy Keen** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Peachy Keen** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r5g2r2g35lo20r2lo20r2/">Peachy Keen</a></td><td><code>R/5 G2 R2 G35 LO20 R2 LO20 R/2</code></td><td>169</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r5g2r2g35lo20r2lo20r2/"><img src="/variants/s8/r5g2r2g35lo20r2lo20r2/sett.png" alt="Peachy Keen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r5g2r2g35lo20r2lo20r2/">Peachy Keen</a></td><td><code>R/5 G2 R2 G35 LO20 R2 LO20 R/2</code></td><td>169</td><td>2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r5g2r2g35lo20r2lo20r2/"><img src="/variants/s8/r5g2r2g35lo20r2lo20r2/sett.png" alt="Peachy Keen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="290.4" cy="184.4" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s7/r4g4lo4g12r22lo1g4~x4/"><circle cx="369.9" cy="192.4" r="4" fill="#3465a4"><title>Spice Apple</title></circle></a><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/"><circle cx="233.0" cy="156.4" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s8/g18w3y1r2y1r3y1r10~x4/"><circle cx="305.9" cy="166.7" r="4" fill="#3465a4"><title>Brisbane</title></circle></a><a href="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/"><circle cx="352.5" cy="158.7" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s8/r3o14g8r2g2w2g2r1~x2/"><circle cx="298.1" cy="209.1" r="4" fill="#3465a4"><title>Scott, hunting</title></circle></a><a href="/variants/s7/r1g14r1g1r14g1w1~x2/"><circle cx="368.4" cy="183.8" r="4" fill="#3465a4"><title>MacKintosh Fragment</title></circle></a><a href="/variants/s6/g5w2r27g27r5w2~x2/"><circle cx="337.1" cy="206.1" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/"><circle cx="291.4" cy="178.7" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="348.9" cy="207.3" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><circle cx="339.2" cy="195.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="290.8" cy="184.3" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s7/r4g4lo4g12r22lo1g4~x4/"><circle cx="370.5" cy="192.5" r="4" fill="#3465a4"><title>Spice Apple</title></circle></a><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/"><circle cx="233.3" cy="156.2" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s8/g18w3y1r2y1r3y1r10~x4/"><circle cx="306.4" cy="166.7" r="4" fill="#3465a4"><title>Brisbane</title></circle></a><a href="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/"><circle cx="353.0" cy="158.8" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s8/r3o14g8r2g2w2g2r1~x2/"><circle cx="298.3" cy="209.1" r="4" fill="#3465a4"><title>Scott, hunting</title></circle></a><a href="/variants/s7/r1g14r1g1r14g1w1~x2/"><circle cx="369.1" cy="184.0" r="4" fill="#3465a4"><title>MacKintosh Fragment</title></circle></a><a href="/variants/s6/g5w2r27g27r5w2~x2/"><circle cx="337.6" cy="206.2" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/"><circle cx="291.9" cy="178.7" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.5" cy="207.4" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><circle cx="339.7" cy="195.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/">Grant - 1714 (Piper) (Portrait)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/"><img src="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/sett.png" alt="Grant - 1714 (Piper) (Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grant-6/">Grant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-6/"><img src="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

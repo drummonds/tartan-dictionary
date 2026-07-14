@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k16r2k2r12w1~x2/">MacIver</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k16r2k2r12w1~x2/"><img src="/variants/s5/k16r2k2r12w1~x2/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k18r4k18r32w3/">Munro VS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k18r4k18r32w3/"><img src="/variants/s5/k18r4k18r32w3/sett.png" alt="Munro VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maciver-2/">MacIver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maciver-2/"><img src="/variants/s5/k16r2k2r12w1~x2/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/munro-vs/">Munro VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/munro-vs/"><img src="/variants/s5/k18r4k18r32w3/sett.png" alt="Munro VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Black and"
   url: "/tartans/b/bl/black-and-2/"
 - name: "Black and Red"
-  url: "/setts/r25k2n4k2r8k31db32k8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r25k2n4k2r8k31db32k8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-and-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRKBKR](/stripes/kbkrkbkr/).
 
 Part of the [Black and](/tartans/b/bl/black-and-2/) tartan — the named design grouping this sett with its other cloths.

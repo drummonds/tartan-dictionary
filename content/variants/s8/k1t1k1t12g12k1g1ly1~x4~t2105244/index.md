@@ -10,10 +10,10 @@ crumbs:
 - name: "Banff Centennial"
   url: "/tartans/b/ba/banff-centennial/"
 - name: "Banff Centennial"
-  url: "/setts/k1t1k1t12g12k1g1ly1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1t1k1t12g12k1g1ly1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/banff-centennial/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGKGY](/stripes/kbkbgkgy/).
 
 Part of the [Banff Centennial](/tartans/b/ba/banff-centennial/) tartan — the named design grouping this sett with its other cloths.

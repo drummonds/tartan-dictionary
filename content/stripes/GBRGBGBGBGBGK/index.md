@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/">Glen Affric, Fragment</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/"><img src="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/sett.png" alt="Glen Affric, Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-affric-fragment/">Glen Affric, Fragment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-affric-fragment/"><img src="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/sett.png" alt="Glen Affric, Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

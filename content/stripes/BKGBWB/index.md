@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db20k4g5dp14w1db2~x2/">Riley's Theme</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db20k4g5dp14w1db2~x2/"><img src="/variants/s6/db20k4g5dp14w1db2~x2/sett.png" alt="Riley's Theme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/riley-s-theme/">Riley's Theme</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/riley-s-theme/"><img src="/variants/s6/db20k4g5dp14w1db2~x2/sett.png" alt="Riley's Theme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

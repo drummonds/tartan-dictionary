@@ -12,10 +12,10 @@ crumbs:
 - name: "Glendronach"
   url: "/tartans/g/gl/glendronach/"
 - name: "Glendronach Corporate Tartan"
-  url: "/setts/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glendronach/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWYRGRYGYRG](/stripes/grwyrgrygyrg/).
 
 Part of the [Glendronach](/tartans/g/gl/glendronach/) tartan — the named design grouping this sett with its other cloths.

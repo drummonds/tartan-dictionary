@@ -12,10 +12,10 @@ crumbs:
 - name: "Home"
   url: "/tartans/h/ho/home-2/"
 - name: "Home (Clans Originaux)"
-  url: "/setts/g3t36k9r3k3r3k36r3k3r3k9t36g3t2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3t36k9r3k3r3k36r3k3r3k9t36g3t2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/home-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKRKRKRKRKBG](/stripes/bgbkrkrkrkrkbg/).
 
 Part of the [Home](/tartans/h/ho/home-2/) tartan — the named design grouping this sett with its other cloths.

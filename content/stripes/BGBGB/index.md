@@ -28,11 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dr2dg8db27dg11do2~x2/">Hector, James (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr2dg8db27dg11do2~x2/"><img src="/variants/s5/dr2dg8db27dg11do2~x2/sett.png" alt="Hector, James (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hector-james/">Hector, James</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hector-james/"><img src="/variants/s5/dr2dg8db27dg11do2~x2/sett.png" alt="Hector, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/dr6dg2b2dg17dr2~x4/">Loton (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr6dg2b2dg17dr2~x4/"><img src="/variants/s5/dr6dg2b2dg17dr2~x4/sett.png" alt="Loton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ka/kadewe/">KaDeWe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/kadewe/"><img src="/variants/s5/dr100dg4dr8dg18dr3~x2/sett.png" alt="KaDeWe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/l/lo/loton/">Loton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loton/"><img src="/variants/s5/dr6dg2b2dg17dr2~x4/sett.png" alt="Loton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

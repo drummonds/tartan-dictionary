@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lg22db3lg3db3lg3db9lb22db3lb6~x2/">Lochearn (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lg22db3lg3db3lg3db9lb22db3lb6~x2/"><img src="/variants/s9/lg22db3lg3db3lg3db9lb22db3lb6~x2/sett.png" alt="Lochearn (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochearn/">Lochearn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochearn/"><img src="/variants/s9/lg22db3lg3db3lg3db9lb22db3lb6~x2/sett.png" alt="Lochearn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

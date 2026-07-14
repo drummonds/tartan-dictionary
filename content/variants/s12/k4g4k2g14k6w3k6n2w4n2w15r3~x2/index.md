@@ -8,10 +8,10 @@ crumbs:
 - name: "Hayama Shirt Honten, The"
   url: "/tartans/h/ha/hayama-shirt-honten-the/"
 - name: "Hayama Shirt Honten, The"
-  url: "/setts/k4g4k2g14k6w3k6n2w4n2w15r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4g4k2g14k6w3k6n2w4n2w15r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hayama-shirt-honten-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKWKBWBWR](/stripes/kgkgkwkbwbwr/).
 
 Part of the [Hayama Shirt Honten, The](/tartans/h/ha/hayama-shirt-honten-the/) tartan — the named design grouping this sett with its other cloths.

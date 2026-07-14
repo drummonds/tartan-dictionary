@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/">Holestone (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/"><img src="/variants/s8/k4ly8k26o6g15o6k26w2~x2/sett.png" alt="Holestone (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holestone-2/">Holestone</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holestone-2/"><img src="/variants/s8/k4ly8k26o6g15o6k26w2~x2/sett.png" alt="Holestone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

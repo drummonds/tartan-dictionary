@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/">O'Long (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><img src="/variants/s7/g22dp22g3dp11w3dp4w3~x2/sett.png" alt="O'Long (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-long/">O'Long</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-long/"><img src="/variants/s7/g22dp22g3dp11w3dp4w3~x2/sett.png" alt="O'Long sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/">Unidentified No 17</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><img src="/variants/s7/g10db2g2db6lb5db1lb2~x2/sett.png" alt="Unidentified No 17 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-no-17/">Unidentified No 17</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-no-17/"><img src="/variants/s7/g10db2g2db6lb5db1lb2~x2/sett.png" alt="Unidentified No 17 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

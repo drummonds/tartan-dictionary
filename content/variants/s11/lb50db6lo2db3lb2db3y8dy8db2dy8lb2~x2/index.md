@@ -12,10 +12,10 @@ crumbs:
 - name: "Renfrew"
   url: "/tartans/r/re/renfrew/"
 - name: "Renfrew #2"
-  url: "/setts/lb50db6lo2db3lb2db3y8dy8db2dy8lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb50db6lo2db3lb2db3y8dy8db2dy8lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/renfrew/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBYBWBGGBGW](/stripes/wbybwbggbgw/).
 
 Part of the [Renfrew](/tartans/r/re/renfrew/) tartan — the named design grouping this sett with its other cloths.

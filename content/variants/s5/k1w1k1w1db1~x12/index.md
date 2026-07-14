@@ -10,15 +10,15 @@ crumbs:
 - name: "Buccleuch Check Regimental"
   url: "/tartans/b/bu/buccleuch-check-regimental/"
 - name: "Buccleuch Check Regimental Tartan"
-  url: "/setts/k1w1k1w1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1w1k1w1db1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWKWKWKW](/stripes/bwkwkwkw/).
+provenance below. It is one weaving of the [sett](/tartans/b/bu/buccleuch-check-regimental/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKWK](/stripes/bwkwk/).
 
 Part of the [Buccleuch Check Regimental](/tartans/b/bu/buccleuch-check-regimental/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=647](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=647)
 
@@ -51,9 +51,11 @@ Earliest known date: 1908 Designed by the Colonel of the 4th Battalion Kings Own
 </details>
 
 ## Thread count
-DB/12 W12 K12 W12 K12 W12 K12 W/12
+K/12 W12 K12 W12 DB/12
 
-One full sett is **168 threads**.
+One full sett is **96 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/12 W12 K12 W12 K12 W12 K12 W/12 — 168 threads; it folds to the canonical 96-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -62,7 +64,7 @@ One full sett is **168 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 W12 K12 W12 K12 W12 K12 W/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 W12 K12 W12 DB/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

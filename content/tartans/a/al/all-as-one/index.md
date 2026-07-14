@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k11lb38r11g11k5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgrwk/">KGRWK</a></nav>
 Its design is pattern [KGRWK](/stripes/kgrwk/) — the page of every tartan sharing this colour sequence.
 
 The **All as One** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **All as One** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k11lb38r11g11k5/">All as One</a></td><td><code>K/22 LB76 R22 G22 K/10</code></td><td>272</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k11lb38r11g11k5/"><img src="/variants/s5/k11lb38r11g11k5~x2/sett.png" alt="All as One sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k11lb38r11g11k5~x2/">All as One</a></td><td><code>K/22 LB76 R22 G22 K/10</code></td><td>272</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k11lb38r11g11k5~x2/"><img src="/variants/s5/k11lb38r11g11k5~x2/sett.png" alt="All as One sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="149.2" cy="190.0" r="4" fill="#3465a4"><title>Stovell</title></circle></a><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><circle cx="244.4" cy="146.5" r="4" fill="#3465a4"><title>Rui</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="154.3" cy="191.4" r="4" fill="#3465a4"><title>Triad Highland Games</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="212.4" cy="226.0" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="156.0" cy="196.1" r="4" fill="#3465a4"><title>RSCDS Australia?</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="198.8" cy="237.4" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s5/k3w29o9lb19k3~x2/"><circle cx="192.5" cy="199.7" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="138.5" cy="176.5" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="199.5" cy="207.7" r="4" fill="#3465a4"><title>MacRae Dress</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="160.4" cy="171.8" r="4" fill="#3465a4"><title>Thomson Dress</title></circle></a><circle cx="186.3" cy="198.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="149.6" cy="189.8" r="4" fill="#3465a4"><title>Stovell</title></circle></a><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><circle cx="245.2" cy="146.4" r="4" fill="#3465a4"><title>Rui</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="154.7" cy="191.3" r="4" fill="#3465a4"><title>Triad Highland Games</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="212.8" cy="226.0" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="156.4" cy="195.8" r="4" fill="#3465a4"><title>RSCDS Australia?</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="199.2" cy="237.3" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s5/k3w29o9lb19k3~x2/"><circle cx="192.8" cy="199.5" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="138.9" cy="176.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="200.0" cy="207.6" r="4" fill="#3465a4"><title>MacRae Dress</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="160.9" cy="171.6" r="4" fill="#3465a4"><title>Thomson Dress</title></circle></a><circle cx="186.8" cy="198.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

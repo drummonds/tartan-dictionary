@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/">Battle of Bannockburn, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/"><img src="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/sett.png" alt="Battle of Bannockburn, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/battle-of-bannockburn-the/">Battle of Bannockburn, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/battle-of-bannockburn-the/"><img src="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/sett.png" alt="Battle of Bannockburn, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

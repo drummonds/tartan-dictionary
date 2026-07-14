@@ -10,10 +10,10 @@ crumbs:
 - name: "Chisholm, The"
   url: "/tartans/c/ch/chisholm-the-2/"
 - name: "Chisholm, The"
-  url: "/setts/r12w2r37db6g3db3r4db3g21r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12w2r37db6g3db3r4db3g21r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chisholm-the-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBRBGBRWR](/stripes/rgbrbgbrwr/).
 
 Part of the [Chisholm, The](/tartans/c/ch/chisholm-the-2/) tartan — the named design grouping this sett with its other cloths.

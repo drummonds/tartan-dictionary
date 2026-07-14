@@ -12,10 +12,10 @@ crumbs:
 - name: "Ikelman"
   url: "/tartans/i/ik/ikelman-5/"
 - name: "Ikelman #4 (Personal)"
-  url: "/setts/dr11k4dr4lo4dr11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr11k4dr4lo4dr11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/ik/ikelman-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBYB](/stripes/bkbyb/).
 
 Part of the [Ikelman](/tartans/i/ik/ikelman-5/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1814](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Ikelman #4 (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1814">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Colours taken from the Germany flag.</em></li>
-<li>pre 2002 — Ikelman #3 (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5243">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Colours taken from the Germany flag.</em></li>
+<li>pre 2002 — Ikelman #3 (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5243/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Colours taken from the Germany flag.</em></li>
 </ul>
 </details>
 

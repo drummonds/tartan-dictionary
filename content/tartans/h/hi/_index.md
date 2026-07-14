@@ -2,7 +2,7 @@
 title: "Tartans — Hi"
 date: 2023-03-18
 ---
-104 tartans beginning with Hi, each with the number of setts it groups. Back to [H](/tartans/h/) or the [A–Z](/tartans/).
+103 tartans beginning with Hi, each with the number of setts it groups. Back to [H](/tartans/h/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/h/hi/hibernian-f-c/"><img src="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/sett.png" alt="Hibernian F. C." width="140"><br><strong>Hibernian F. C. (1)</strong></a></li>
@@ -85,7 +85,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/h/hi/highlands-of-wyomissing/"><img src="/variants/s5/dr35w3dr8y2dg11~x2/sett.png" alt="Highlands of Wyomissing" width="140"><br><strong>Highlands of Wyomissing (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/h/hi/hill/"><img src="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/sett.png" alt="Hill" width="140"><br><strong>Hill (2)</strong></a><div class="clan-territory">Hill</div></li>
 <li><a class="tartan" href="/tartans/h/hi/hill-70/"><img src="/variants/s14/t18k1r1w1r4db4t4g4r1g1r1g1r1g1~x4~t2502222-db1406275/sett.png" alt="Hill 70" width="140"><br><strong>Hill 70 (2)</strong></a><div class="clan-territory">Hill</div></li>
-<li><a class="tartan" href="/tartans/h/hi/hill-of-banchory-primary/"><img src="/variants/s7/db1y6db8r1db8g6y1~x4~g2408144/sett.png" alt="Hill of Banchory Primary" width="140"><br><strong>Hill of Banchory Primary (1)</strong></a><div class="clan-territory">Hill of Banchory Primary</div></li>
+<li><a class="tartan" href="/tartans/h/hi/hill-of-banchory-primary/"><img src="/variants/s7/db1y6db8r1db8g6y1~x4/sett.png" alt="Hill of Banchory Primary" width="140"><br><strong>Hill of Banchory Primary (1)</strong></a><div class="clan-territory">Hill of Banchory Primary</div></li>
 <li><a class="tartan" href="/tartans/h/hi/hillsdale/"><img src="/variants/s5/db13n6dr51db51n5~x2/sett.png" alt="Hillsdale" width="140"><br><strong>Hillsdale (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/h/hi/hilton/"><img src="/variants/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/sett.png" alt="Hilton" width="140"><br><strong>Hilton (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/h/hi/hilton-champion-corporate-golf/"><img src="/variants/s7/r44lb3k22r5k2r3w2~x2/sett.png" alt="Hilton Champion Corporate Golf" width="140"><br><strong>Hilton Champion Corporate Golf (1)</strong></a></li>
@@ -96,17 +96,16 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/h/hi/hinnigan-2/"><img src="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/sett.png" alt="Hinnigan" width="140"><br><strong>Hinnigan (1)</strong></a><div class="clan-territory">Hinnigan</div></li>
 <li><a class="tartan" href="/tartans/h/hi/hird/"><img src="/variants/s29/db4g4k20r5k4dr5k4db5k18g4r8db2lb2r16k4lo2k4r16lb2db2r6db6r2lo2db20lb2db20lo2r3~x2~db1406275-r1606028-dr1305012/sett.png" alt="Hird" width="140"><br><strong>Hird (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/h/hi/hirstwood/"><img src="/variants/s4/ly28dr24dg55dp19~x2/sett.png" alt="Hirstwood" width="140"><br><strong>Hirstwood (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/hi/hirter-karo/"><img src="/variants/s16/r3ly3db18dy15t16w3t16dy15t18ly3r3ly3t18dy15t16w3~x2~ly3307090-dy1603076/sett.png" alt="Hirter Karo" width="140"><br><strong>Hirter Karo (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/hi/hirter-karo-2/"><img src="/variants/s11/r3ly3db18dy15t16w3t16dy15t18ly3r3~x2~ly3307090-db1204274-dy1603076/sett.png" alt="Hirter Karo" width="140"><br><strong>Hirter Karo (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/h/hi/hirter-karo/"><img src="/variants/s11/r3ly3db18dy15t16w3t16dy15t18ly3r3~x2~ly3307090-db1204274-dy1603076/sett.png" alt="Hirter Karo" width="140"><br><strong>Hirter Karo (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/h/hi/hirter-karo-2/"><img src="/variants/s16/r3ly3db18dy15t16w3t16dy15t18ly3r3ly3t18dy15t16w3~x2~ly3307090-dy1603076/sett.png" alt="Hirter Karo" width="140"><br><strong>Hirter Karo (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/h/hi/hislop/"><img src="/variants/s8/r2k8y1k8g8db8k2w2~x2/sett.png" alt="Hislop" width="140"><br><strong>Hislop (2)</strong></a><div class="clan-territory">Hislop</div></li>
 <li><a class="tartan" href="/tartans/h/hi/hislop-hunting/"><img src="/variants/s34/db3k2db1k2db3lo1g3k2g2k6g2k6g2k2g24dr2g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/sett.png" alt="Hislop Hunting" width="140"><br><strong>Hislop Hunting (1)</strong></a><div class="clan-territory">Hislop</div></li>
 <li><a class="tartan" href="/tartans/h/hi/hislop-hunting-2/"><img src="/variants/s11/r2k8y2k7y1k1w3k2g9db8r2~x2/sett.png" alt="Hislop Hunting" width="140"><br><strong>Hislop Hunting (1)</strong></a><div class="clan-territory">Hislop</div></li>
 <li><a class="tartan" href="/tartans/h/hi/hislop-hyslop-hunting/"><img src="/variants/s14/k18wi3k18g18t18k2w4k2t18g18k18wi3k18r3~x2~wi3703114-t2503227-w3600000/sett.png" alt="Hislop/Hyslop Hunting" width="140"><br><strong>Hislop/Hyslop Hunting (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/h/hi/historic-caledonian-railway-enthusiasts-the/"><img src="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/sett.png" alt="Historic Caledonian Railway Enthusiasts', The" width="140"><br><strong>Historic Caledonian Railway Enthusiasts', The (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/hi/historic-scotland/"><img src="/variants/s12/db8w8db4dp4db36dp4db4n26db2n26g2db5/sett.png" alt="Historic Scotland" width="140"><br><strong>Historic Scotland (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/hi/historic-scotland-2/"><img src="/variants/s9/dt4lb1dt1lb3dt24o9k1o9k3~x2~dt1502277-o2500000/sett.png" alt="Historic Scotland" width="140"><br><strong>Historic Scotland (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/hi/historic-scotland-3/"><img src="/variants/s9/db4w1db1w3db24n9k1n9k3~x2/sett.png" alt="Historic Scotland" width="140"><br><strong>Historic Scotland (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/h/hi/historic-scotland/"><img src="/variants/s9/db4lb1db1lb3db24o9k1o9k3~x2~o2500000/sett.png" alt="Historic Scotland" width="140"><br><strong>Historic Scotland (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/h/hi/historic-scotland-2/"><img src="/variants/s9/db4w1db1w3db24n9k1n9k3~x2/sett.png" alt="Historic Scotland" width="140"><br><strong>Historic Scotland (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/h/hi/historic-scotland-3/"><img src="/variants/s12/db8w8db4dp4db36dp4db4n26db2n26g2db5/sett.png" alt="Historic Scotland" width="140"><br><strong>Historic Scotland (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/h/hi/historic-scotland-4/"><img src="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/sett.png" alt="Historic Scotland" width="140"><br><strong>Historic Scotland (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/h/hi/historic-scotland-5/"><img src="/variants/s9/db4lb1db1lb3db24o9k1o9k3~x2~o2500000/sett.png" alt="Historic Scotland" width="140"><br><strong>Historic Scotland (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/h/hi/hitchens-william-henry/"><img src="/variants/s14/r4k2r2k2r2k2dr8k6dr2g2db9g2k21w4~x2/sett.png" alt="Hitchens, William Henry" width="140"><br><strong>Hitchens, William Henry (1)</strong></a></li>
 </ul>

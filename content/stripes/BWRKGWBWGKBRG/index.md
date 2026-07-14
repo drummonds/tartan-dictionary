@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/">Colorado Rogues (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/"><img src="/variants/s13/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/sett.png" alt="Colorado Rogues (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/colorado-rogues/">Colorado Rogues</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/colorado-rogues/"><img src="/variants/s13/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/sett.png" alt="Colorado Rogues sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

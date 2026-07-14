@@ -8,10 +8,10 @@ crumbs:
 - name: "Pearl of the Orient"
   url: "/tartans/p/pe/pearl-of-the-orient/"
 - name: "Pearl of the Orient"
-  url: "/setts/dp4dbi20db4dbi6g6w2y4g4r2g18db4r1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4dbi20db4dbi6g6w2y4g4r2g18db4r1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/pearl-of-the-orient/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGWGGRGBRW](/stripes/bbbbgwggrgbrw/).
 
 Part of the [Pearl of the Orient](/tartans/p/pe/pearl-of-the-orient/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Cowal"
   url: "/tartans/c/co/cowal/"
 - name: "Cowal"
-  url: "/setts/b6db22k12dp10g3k1g3dp10b2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b6db22k12dp10g3k1g3dp10b2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cowal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBGKGBBW](/stripes/bbkbgkgbbw/).
 
 Part of the [Cowal](/tartans/c/co/cowal/) tartan — the named design grouping this sett with its other cloths.

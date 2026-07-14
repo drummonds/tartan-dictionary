@@ -11,11 +11,11 @@ crumbs:
   url: "/families/strange-of-balcaskie/"
 - name: "Strange of Balcaskie"
   url: "/tartans/s/st/strange-of-balcaskie-2/"
-- name: "Strange of Balcaskie (Clan)"
-  url: "/setts/g32dy7g7dy16db32y3dy8/"
+- name: "Strange of Balcaskie Family Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g32dy7g7dy16db32y3dy8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/strange-of-balcaskie-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGGGG](/stripes/ggbgggg/).
 
 Part of the [Strange of Balcaskie](/tartans/s/st/strange-of-balcaskie-2/) tartan — the named design grouping this sett with its other cloths.

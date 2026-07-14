@@ -8,10 +8,10 @@ crumbs:
 - name: "Dark Island Navy"
   url: "/tartans/d/da/dark-island-navy/"
 - name: "Dark Island Navy Fashion Tartan"
-  url: "/setts/db4dbi2db43dbi20db4dbi2db2dbi4db2dbi2db4dbi20db43dbi2db4dbi2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4dbi2db43dbi20db4dbi2db2dbi4db2dbi2db4dbi20db43dbi2db4dbi2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dark-island-navy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbbb/).
 
 Part of the [Dark Island Navy](/tartans/d/da/dark-island-navy/) tartan — the named design grouping this sett with its other cloths.

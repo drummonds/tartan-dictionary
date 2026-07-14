@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db3k3db12k18g14k2g14k8y2k8lb4r4k2w3~x2/">Alison / Allison</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db3k3db12k18g14k2g14k8y2k8lb4r4k2w3~x2/"><img src="/variants/s14/db3k3db12k18g14k2g14k8y2k8lb4r4k2w3~x2/sett.png" alt="Alison / Allison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/db3k2db12k18g14k2g14k8y2k8lb4r4k2w3~x2/">Allison (MacBean and Bishop)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db3k2db12k18g14k2g14k8y2k8lb4r4k2w3~x2/"><img src="/variants/s14/db3k2db12k18g14k2g14k8y2k8lb4r4k2w3~x2/sett.png" alt="Allison (MacBean and Bishop) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alison-allison/">Alison / Allison</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alison-allison/"><img src="/variants/s14/db3k3db12k18g14k2g14k8y2k8lb4r4k2w3~x2/sett.png" alt="Alison / Allison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/allison/">Allison</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allison/"><img src="/variants/s14/db3k2db12k18g14k2g14k8y2k8lb4r4k2w3~x2/sett.png" alt="Allison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

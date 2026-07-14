@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db6k1db1k1db1k6g6r2g6k6db6k1db2/">Murray</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db6k1db1k1db1k6g6r2g6k6db6k1db2/"><img src="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/">Westwood Gordon Pink (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/"><img src="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/sett.png" alt="Westwood Gordon Pink (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray/">Murray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray/"><img src="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westwood-gordon-pink/">Westwood Gordon Pink</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westwood-gordon-pink/"><img src="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/sett.png" alt="Westwood Gordon Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

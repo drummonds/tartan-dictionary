@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r1dy8ly2dy2db6w1db6dy2ly2dy8b1~x4/">MacKessog Glebe (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r1dy8ly2dy2db6w1db6dy2ly2dy8b1~x4/"><img src="/variants/s11/r1dy8ly2dy2db6w1db6dy2ly2dy8b1~x4/sett.png" alt="MacKessog Glebe (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackessog-glebe/">MacKessog Glebe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackessog-glebe/"><img src="/variants/s11/r1dy8ly2dy2db6w1db6dy2ly2dy8b1~x4/sett.png" alt="MacKessog Glebe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,22 +8,22 @@ crumbs:
 - name: "Weiss-Halliwell"
   url: "/tartans/w/we/weiss-halliwell/"
 - name: "Weiss-Halliwell (Personal)"
-  url: "/setts/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/weiss-halliwell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKBKBBKBGKBKBKBKGKBKBKGKBK](/stripes/bkbkbkbkbkbkbkbbkbgkbkbkbkgkbkbkgkbk/).
 
 Part of the [Weiss-Halliwell](/tartans/w/we/weiss-halliwell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11055](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11055)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/11055/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11055/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>2014 — Weiss-Halliwell (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11055">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>This tartan was designed by Trudie Ainsworth, House of Edgar, in collaboration with the English Kilt Company and Mr Halliwell, to celebrate the marriage of Mr Halliwell to Miss Weiss and for future generations of their family to wear.</em></li>
+<li>2014 — Weiss-Halliwell (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11055/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>This tartan was designed by Trudie Ainsworth, House of Edgar, in collaboration with the English Kilt Company and Mr Halliwell, to celebrate the marriage of Mr Halliwell to Miss Weiss and for future generations of their family to wear.</em></li>
 <li>undated — Weiss-Halliwell (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11055">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #000048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#646464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #646464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>This tartan was designed by Trudie Ainsworth, House of Edgar, in collaboration with the English Kilt Company and Mr Halliwell, to celebrate the marriage of Mr Halliwell to Miss Weiss and for future generations of their family to wear.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11055](h
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

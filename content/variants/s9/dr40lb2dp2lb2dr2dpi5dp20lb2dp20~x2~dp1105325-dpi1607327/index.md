@@ -12,10 +12,10 @@ crumbs:
 - name: "Phillips"
   url: "/tartans/p/ph/phillips-2/"
 - name: "Phillips"
-  url: "/setts/dr40lb2dp2lb2dr2dpi5dp20lb2dp20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr40lb2dp2lb2dr2dpi5dp20lb2dp20/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/ph/phillips-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBWBWB](/stripes/bwbbbwbwb/).
 
 Part of the [Phillips](/tartans/p/ph/phillips-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5013](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2001 — Phillips (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5013">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#4C2424;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DU #4C2424"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Designed by Maxine Scott of House of Tartan and Rachael Phillips of Winsford, Cheshire and available for Phillips worldwide.</em></li>
-<li>2001 — Phillips (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3914">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#4C2424;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DU #4C2424"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Designed by Maxine Scott of House of Tartan and Rachael Phillips of Winsford, Cheshire and available for Phillips worldwide.</em></li>
+<li>2001 — Phillips (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3914/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#4C2424;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DU #4C2424"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Designed by Maxine Scott of House of Tartan and Rachael Phillips of Winsford, Cheshire and available for Phillips worldwide.</em></li>
 </ul>
 </details>
 

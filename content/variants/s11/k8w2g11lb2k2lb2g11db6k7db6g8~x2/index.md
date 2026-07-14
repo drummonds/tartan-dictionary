@@ -8,15 +8,15 @@ crumbs:
 - name: "Wilson's No.149"
   url: "/tartans/w/wi/wilson-s-no-149/"
 - name: "Wilson's No.149"
-  url: "/setts/k8w2g11lb2k2lb2g11db6k7db6g8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8w2g11lb2k2lb2g11db6k7db6g8/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBGWKWGWKWGWKWGBKBG](/stripes/bkbgwkwgwkwgwkwgbkbg/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-149/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBGWKWGWK](/stripes/gbkbgwkwgwk/).
 
 Part of the [Wilson's No.149](/tartans/w/wi/wilson-s-no-149/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4696](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4696)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 730
 
 ## Thread count
-G/16 DB12 K14 DB12 G22 LB4 K4 LB4 G22 W4 K16 W4 G22 LB4 K4 LB4 G22 DB12 K14 DB/12
+K/16 W4 G22 LB4 K4 LB4 G22 DB12 K14 DB12 G/16
 
-One full sett is **428 threads**.
+One full sett is **228 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/16 DB12 K14 DB12 G22 LB4 K4 LB4 G22 W4 K16 W4 G22 LB4 K4 LB4 G22 DB12 K14 DB/12 — 428 threads; it folds to the canonical 228-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **428 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/16 DB12 K14 DB12 G22 LB4 K4 LB4 G22 W4 K16 W4 G22 LB4 K4 LB4 G22 DB12 K14 DB/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/16 W4 G22 LB4 K4 LB4 G22 DB12 K14 DB12 G/16 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

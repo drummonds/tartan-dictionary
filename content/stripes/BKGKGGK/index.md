@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db80k5g12k2y2g2k10~x2/">Affara (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db80k5g12k2y2g2k10~x2/"><img src="/variants/s7/db80k5g12k2y2g2k10~x2/sett.png" alt="Affara (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/af/affara/">Affara</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/af/affara/"><img src="/variants/s7/db80k5g12k2y2g2k10~x2/sett.png" alt="Affara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

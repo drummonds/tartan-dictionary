@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2~x2/">Ettrick (Green) District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2~x2/"><img src="/variants/s24/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2~x2/sett.png" alt="Ettrick (Green) District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/et/ettrick/">Ettrick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/et/ettrick/"><img src="/variants/s24/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2~x2/sett.png" alt="Ettrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

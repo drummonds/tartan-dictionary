@@ -8,15 +8,15 @@ crumbs:
 - name: "St. George's"
   url: "/tartans/s/st/st-george-s-2/"
 - name: "St. George's School (Birmingham)"
-  url: "/setts/r4db21w2db20dbi21db2dbi2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4db21w2db20dbi21db2dbi2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBBWBRBWBBB](/stripes/bbbbwbrbwbbb/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-george-s-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBWBR](/stripes/bbbbwbr/).
 
 Part of the [St. George's](/tartans/s/st/st-george-s-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3891](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3891)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3891](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1999 — St. George's School (Birmingham) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3891">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Christine Woolmer-Tyler is the designer of this tartan for the Church of England School in Edgbaston, Birmingham. See #3993 (original Scottish Tartans Authority reference) also designed by Christine Woolmer-Tyler.</em></li>
-<li>March 1999 — St. George's (Birmingham) (School) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2585">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Christine Woolmer-Tyler is the designer of this tartan for the Church of England School in Edgbaston, Birmingham. See also #3993 also designed by C W-T.</em></li>
+<li>March 1999 — St. George's (Birmingham) (School) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2585/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Christine Woolmer-Tyler is the designer of this tartan for the Church of England School in Edgbaston, Birmingham. See also #3993 also designed by C W-T.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2585
 
 ## Thread count
-DBi/4 DB4 DBi42 DB40 W4 DB42 R8 DB42 W4 DB40 DBi42 DB/4
+R/8 DB42 W4 DB40 DBi42 DB4 DBi/4
 
-One full sett is **544 threads**.
+One full sett is **276 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DBi/4 DB4 DBi42 DB40 W4 DB42 R8 DB42 W4 DB40 DBi42 DB/4 — 544 threads; it folds to the canonical 276-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **544 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DBi/4 DB4 DBi42 DB40 W4 DB42 R8 DB42 W4 DB40 DBi42 DB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 DB42 W4 DB40 DBi42 DB4 DBi/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

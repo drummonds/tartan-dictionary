@@ -8,10 +8,10 @@ crumbs:
 - name: "Mackie"
   url: "/tartans/m/ma/mackie/"
 - name: "Mackie (2016)"
-  url: "/setts/dy2g1k1g26k11db6k1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy2g1k1g26k11db6k1g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGKBKG](/stripes/ggkgkbkg/).
 
 Part of the [Mackie](/tartans/m/ma/mackie/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Cooper, dress"
   url: "/tartans/c/co/cooper-dress-2/"
 - name: "Cooper, dress"
-  url: "/setts/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cooper-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRRWBWBKRBRGBKBRBR](/stripes/brrwbwbkrbrgbkbrbr/).
 
 Part of the [Cooper, dress](/tartans/c/co/cooper-dress-2/) tartan — the named design grouping this sett with its other cloths.

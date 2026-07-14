@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/k3db2g2db26b1db1b1db1b1db1b3lb2k10db3g14k3r3~x2/">St Lawrence</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k3db2g2db26b1db1b1db1b1db1b3lb2k10db3g14k3r3~x2/"><img src="/variants/s17/k3db2g2db26b1db1b1db1b1db1b3lb2k10db3g14k3r3~x2/sett.png" alt="St Lawrence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-lawrence/">St. Lawrence</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-lawrence/"><img src="/variants/s17/k3db2g2db26b1db1b1db1b1db1b3lb2k10db3g14k3r3~x2/sett.png" alt="St. Lawrence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

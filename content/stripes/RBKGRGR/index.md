@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r10db6k8g10r6g3r6~x2/">MacDuff #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><img src="/variants/s7/r10db6k8g10r6g3r6~x2/sett.png" alt="MacDuff #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macduff-5/">MacDuff</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macduff-5/"><img src="/variants/s7/r10db6k8g10r6g3r6~x2/sett.png" alt="MacDuff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/r52db16k16g22r16y3r16/">Sturrock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r52db16k16g22r16y3r16/"><img src="/variants/s7/r52db16k16g22r16y3r16/sett.png" alt="Sturrock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/sturrock/">Sturrock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/sturrock/"><img src="/variants/s7/r52db16k16g22r16y3r16/sett.png" alt="Sturrock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

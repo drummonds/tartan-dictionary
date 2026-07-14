@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w3dr3k3dr10t7db8g4db3g3db3g13lo3~x2/">Chattahoochee River</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w3dr3k3dr10t7db8g4db3g3db3g13lo3~x2/"><img src="/variants/s12/w3dr3k3dr10t7db8g4db3g3db3g13lo3~x2/sett.png" alt="Chattahoochee River sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chattahoochee-river/">Chattahoochee River</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chattahoochee-river/"><img src="/variants/s12/w3dr3k3dr10t7db8g4db3g3db3g13lo3~x2/sett.png" alt="Chattahoochee River sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

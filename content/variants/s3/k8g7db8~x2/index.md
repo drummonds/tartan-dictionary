@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Lyon"
   url: "/tartans/g/gl/glen-lyon-4/"
 - name: "Glenlyon"
-  url: "/setts/k8g7db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8g7db8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-lyon-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGK](/stripes/bgk/).
 
 Part of the [Glen Lyon](/tartans/g/gl/glen-lyon-4/) tartan — the named design grouping this sett with its other cloths.

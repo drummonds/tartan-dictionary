@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r6g2w21dy2k8dy2g32w1k3~x2/">Fiander, Julian (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r6g2w21dy2k8dy2g32w1k3~x2/"><img src="/variants/s9/r6g2w21dy2k8dy2g32w1k3~x2/sett.png" alt="Fiander, Julian (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fiander-julian/">Fiander, Julian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fiander-julian/"><img src="/variants/s9/r6g2w21dy2k8dy2g32w1k3~x2/sett.png" alt="Fiander, Julian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

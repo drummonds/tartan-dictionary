@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r2g2r2g8r2g2r2db2r11y1r4y1~x4/">Burns 1930</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r2g2r2g8r2g2r2db2r11y1r4y1~x4/"><img src="/variants/s12/r2g2r2g8r2g2r2db2r11y1r4y1~x4/sett.png" alt="Burns 1930 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/">Burns Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/"><img src="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/sett.png" alt="Burns Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burns/">Burns</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burns/"><img src="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/sett.png" alt="Burns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

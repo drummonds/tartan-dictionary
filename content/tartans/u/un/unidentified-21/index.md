@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db13k3db20o70db20o30w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbrbrw/">BKBRBRW</a></nav>
 Its design is pattern [BKBRBRW](/stripes/bkbrbrw/) — the page of every tartan sharing this colour sequence.
 
 The **Unidentified 21** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unidentified 21** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db13k3db20o70db20o30w3/">Unidentified 21</a></td><td><code>DB/26 K6 DB40 O140 DB40 O60 W/6</code></td><td>604</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db13k3db20o70db20o30w3/"><img src="/variants/s7/db13k3db20o70db20o30w3~x2/sett.png" alt="Unidentified 21 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db13k3db20o70db20o30w3~x2/">Unidentified 21</a></td><td><code>DB/26 K6 DB40 O140 DB40 O60 W/6</code></td><td>604</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db13k3db20o70db20o30w3~x2/"><img src="/variants/s7/db13k3db20o70db20o30w3~x2/sett.png" alt="Unidentified 21 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="303.3" cy="151.1" r="4" fill="#3465a4"><title>Dobrain</title></circle></a><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><circle cx="422.7" cy="109.2" r="4" fill="#3465a4"><title>Vemma XXXXXXXXX</title></circle></a><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><circle cx="343.3" cy="150.5" r="4" fill="#3465a4"><title>Princess Margaret Rose</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="408.8" cy="99.3" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s10/lb8db4dy5r1dy5r1dy5r1dy16lb1~x4/"><circle cx="366.0" cy="156.1" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="371.5" cy="108.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="366.5" cy="130.8" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="431.3" cy="104.5" r="4" fill="#3465a4"><title>Highland Autumn</title></circle></a><a href="/variants/s8/lb5k1dg30dp15r8dg30r8dp2~x2/"><circle cx="344.3" cy="135.2" r="4" fill="#3465a4"><title>Shaw of Tordarroch, hunting</title></circle></a><a href="/variants/s4/dr80lb40k5dy6/"><circle cx="336.8" cy="166.7" r="4" fill="#3465a4"><title>Broberg</title></circle></a><circle cx="382.2" cy="147.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.0" cy="151.1" r="4" fill="#3465a4"><title>Dobrain</title></circle></a><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><circle cx="423.8" cy="109.4" r="4" fill="#3465a4"><title>Vemma XXXXXXXXX</title></circle></a><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><circle cx="344.2" cy="150.7" r="4" fill="#3465a4"><title>Princess Margaret Rose</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="409.9" cy="99.5" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s10/lb8db4dy5r1dy5r1dy5r1dy16lb1~x4/"><circle cx="366.9" cy="156.2" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="372.6" cy="108.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="367.4" cy="130.9" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="432.6" cy="104.7" r="4" fill="#3465a4"><title>Highland Autumn</title></circle></a><a href="/variants/s8/lb5k1dg30dp15r8dg30r8dp2~x2/"><circle cx="345.2" cy="135.3" r="4" fill="#3465a4"><title>Shaw of Tordarroch, hunting</title></circle></a><a href="/variants/s4/dr80lb40k5dy6/"><circle cx="337.7" cy="166.8" r="4" fill="#3465a4"><title>Broberg</title></circle></a><circle cx="383.2" cy="147.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

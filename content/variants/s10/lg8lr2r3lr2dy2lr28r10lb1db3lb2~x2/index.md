@@ -8,10 +8,10 @@ crumbs:
 - name: "Confederate Memorial Commemmorative"
   url: "/tartans/c/co/confederate-memorial-commemmorative/"
 - name: "Confederate Memorial Commemmorative Tartan"
-  url: "/setts/lg8lr2r3lr2dy2lr28r10lb1db3lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lg8lr2r3lr2dy2lr28r10lb1db3lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/confederate-memorial-commemmorative/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWRYGYRYY](/stripes/wbwrygyryy/).
 
 Part of the [Confederate Memorial Commemmorative](/tartans/c/co/confederate-memorial-commemmorative/) tartan — the named design grouping this sett with its other cloths.

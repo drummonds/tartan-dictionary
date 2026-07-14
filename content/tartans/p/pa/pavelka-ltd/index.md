@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dy3k48dy5w3dy3dg2g5lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgwgggw/">GKGWGGGW</a></nav>
 Its design is pattern [GKGWGGGW](/stripes/gkgwgggw/) — the page of every tartan sharing this colour sequence.
 
 The **Pavelka Ltd** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Pavelka Ltd** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dy3k48dy5w3dy3dg2g5lb3/">Pavelka Ltd</a></td><td><code>DY/6 K96 DY10 W6 DY6 DG4 G10 LB/6</code></td><td>276</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy3k48dy5w3dy3dg2g5lb3/"><img src="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/sett.png" alt="Pavelka Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/">Pavelka Ltd</a></td><td><code>DY/6 K96 DY10 W6 DY6 DG4 G10 LB/6</code></td><td>276</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/"><img src="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/sett.png" alt="Pavelka Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="324.5" cy="57.3" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s10/w2do3g5k50g4do3w2db3k2ly2~x2/"><circle cx="344.9" cy="36.6" r="4" fill="#3465a4"><title>Hawks</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="308.7" cy="71.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="335.9" cy="83.6" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><circle cx="327.0" cy="39.8" r="4" fill="#3465a4"><title>Clan An Caigeann</title></circle></a><a href="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="350.9" cy="35.7" r="4" fill="#3465a4"><title>Stewart/Stuart</title></circle></a><a href="/variants/s10/db5k35lb3k2r3k2g3k2w3k2~x2/"><circle cx="342.7" cy="50.0" r="4" fill="#3465a4"><title>Thin Blue Line UK</title></circle></a><a href="/variants/s10/y2k2db3w2dy3g4k50g5dy3w2~x2/"><circle cx="347.5" cy="37.5" r="4" fill="#3465a4"><title>Hawes</title></circle></a><a href="/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/"><circle cx="287.3" cy="47.8" r="4" fill="#3465a4"><title>Braveheart</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="302.7" cy="96.3" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><circle cx="337.2" cy="57.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="325.6" cy="57.3" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s10/w2do3g5k50g4do3w2db3k2ly2~x2/"><circle cx="346.2" cy="36.7" r="4" fill="#3465a4"><title>Hawks</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="309.9" cy="71.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="337.1" cy="83.7" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><circle cx="328.2" cy="39.9" r="4" fill="#3465a4"><title>Clan An Caigeann</title></circle></a><a href="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="352.2" cy="35.8" r="4" fill="#3465a4"><title>Stewart/Stuart</title></circle></a><a href="/variants/s10/db5k35lb3k2r3k2g3k2w3k2~x2/"><circle cx="344.0" cy="50.1" r="4" fill="#3465a4"><title>Thin Blue Line UK</title></circle></a><a href="/variants/s10/y2k2db3w2dy3g4k50g5dy3w2~x2/"><circle cx="348.8" cy="37.6" r="4" fill="#3465a4"><title>Hawes</title></circle></a><a href="/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/"><circle cx="288.4" cy="47.8" r="4" fill="#3465a4"><title>Braveheart</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="303.7" cy="96.3" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><circle cx="338.4" cy="57.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

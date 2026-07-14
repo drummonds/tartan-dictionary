@@ -10,10 +10,10 @@ crumbs:
 - name: "Wedding Dress:1766"
   url: "/tartans/w/we/wedding-dress-1766/"
 - name: "Wedding Dress:1766"
-  url: "/setts/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/wedding-dress-1766/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYWYBRWBYBWBYBWGWGRYWKWK](/stripes/bywybrwbybwbybwgwgrywkwk/).
 
 Part of the [Wedding Dress:1766](/tartans/w/we/wedding-dress-1766/) tartan — the named design grouping this sett with its other cloths.

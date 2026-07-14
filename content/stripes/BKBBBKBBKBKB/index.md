@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dbi5k2dbi2k2dbi2db5k2db1n1db1k10dbi3~x4~dbi1404245-db1204274/">Hopkins (Wales)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dbi5k2dbi2k2dbi2db5k2db1n1db1k10dbi3~x4~dbi1404245-db1204274/"><img src="/variants/s12/dbi5k2dbi2k2dbi2db5k2db1n1db1k10dbi3~x4~dbi1404245-db1204274/sett.png" alt="Hopkins (Wales) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s12/db5k2db2k2db2dbi5k2dbi1n1dbi1k10db3~x4~db1204274-dbi1404245/">Hopkins Welsh Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db5k2db2k2db2dbi5k2dbi1n1dbi1k10db3~x4~db1204274-dbi1404245/"><img src="/variants/s12/db5k2db2k2db2dbi5k2dbi1n1dbi1k10db3~x4~db1204274-dbi1404245/sett.png" alt="Hopkins Welsh Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hopkins/">Hopkins</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hopkins/"><img src="/variants/s12/dbi5k2dbi2k2dbi2db5k2db1n1db1k10dbi3~x4~dbi1404245-db1204274/sett.png" alt="Hopkins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

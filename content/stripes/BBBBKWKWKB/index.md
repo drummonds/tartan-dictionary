@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n12k3w3k3w3k3n13t6db17dr3~x2~t1904230-db1003265/">Mitsukoshi</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n12k3w3k3w3k3n13t6db17dr3~x2~t1904230-db1003265/"><img src="/variants/s10/n12k3w3k3w3k3n13t6db17dr3~x2~t1904230-db1003265/sett.png" alt="Mitsukoshi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mitsukoshi/">Mitsukoshi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mitsukoshi/"><img src="/variants/s10/n12k3w3k3w3k3n13t6db17dr3~x2~t1904230-db1003265/sett.png" alt="Mitsukoshi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

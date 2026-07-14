@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r5k2dg1k2r5k2dg18ly3~x2/">Midpac Tissue (non woven)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r5k2dg1k2r5k2dg18ly3~x2/"><img src="/variants/s8/r5k2dg1k2r5k2dg18ly3~x2/sett.png" alt="Midpac Tissue (non woven) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/midpac-tissue/">Midpac Tissue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/midpac-tissue/"><img src="/variants/s8/r5k2dg1k2r5k2dg18ly3~x2/sett.png" alt="Midpac Tissue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

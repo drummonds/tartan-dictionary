@@ -12,10 +12,10 @@ crumbs:
 - name: "MacLeod of Argentina"
   url: "/tartans/m/ma/macleod-of-argentina/"
 - name: "MacLeod, of Argentina"
-  url: "/setts/db10w3db12y14r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10w3db12y14r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macleod-of-argentina/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGR](/stripes/bwbgr/).
 
 Part of the [MacLeod of Argentina](/tartans/m/ma/macleod-of-argentina/) tartan — the named design grouping this sett with its other cloths.

@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/thomson/"
 - name: "Thomson"
   url: "/families/thomson/"
+aliases:
+- "/setts/lb4r28k6lb12k12lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wkwkrw/">WKWKRW</a></nav>
 A tartan of the [Thomson](/families/thomson/) family.
 Its design is pattern [WKWKRW](/stripes/wkwkrw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Thomson** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb4r28k6lb12k12lb3/">Thomson</a></td><td><code>LB/8 R56 K12 LB24 K24 LB/6</code></td><td>246</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb4r28k6lb12k12lb3/"><img src="/variants/s6/lb4r28k6lb12k12lb3~x2/sett.png" alt="Thomson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/">Thomson</a></td><td><code>LB/8 R56 K12 LB24 K24 LB/6</code></td><td>246</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><img src="/variants/s6/lb4r28k6lb12k12lb3~x2/sett.png" alt="Thomson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="222.4" cy="189.9" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="231.2" cy="157.3" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/k9r9k25lr30k5lr5r7/"><circle cx="180.0" cy="199.7" r="4" fill="#3465a4"><title>Rocket Dog</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="178.6" cy="199.9" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.3" cy="146.6" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s6/lb4o28g6lb12k12lb3~x2/"><circle cx="188.4" cy="202.9" r="4" fill="#3465a4"><title>Thomson, Lord</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="195.7" cy="211.3" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="175.1" cy="231.5" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s6/k3n28k3r22k8w3~x2/"><circle cx="196.6" cy="177.5" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/"><circle cx="209.8" cy="169.2" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><circle cx="201.0" cy="191.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="223.0" cy="189.8" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="232.0" cy="157.3" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/k9r9k25lr30k5lr5r7/"><circle cx="180.5" cy="199.6" r="4" fill="#3465a4"><title>Rocket Dog</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="179.0" cy="199.7" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.9" cy="146.4" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s6/lb4o28g6lb12k12lb3~x2/"><circle cx="188.8" cy="202.8" r="4" fill="#3465a4"><title>Thomson, Lord</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="196.2" cy="211.2" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="175.4" cy="231.3" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s6/k3n28k3r22k8w3~x2/"><circle cx="197.1" cy="177.4" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/"><circle cx="210.4" cy="169.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><circle cx="201.6" cy="191.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

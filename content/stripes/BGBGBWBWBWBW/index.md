@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/t45y6t3y6t3w3db5w3db5w20t2w3~x2/">Dunn (Scotland) (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/t45y6t3y6t3w3db5w3db5w20t2w3~x2/"><img src="/variants/s12/t45y6t3y6t3w3db5w3db5w20t2w3~x2/sett.png" alt="Dunn (Scotland) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunn-4/">Dunn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunn-4/"><img src="/variants/s12/t45y6t3y6t3w3db5w3db5w20t2w3~x2/sett.png" alt="Dunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

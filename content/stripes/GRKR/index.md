@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/g38r24k9r9~x2/">Royal Guard of Oman 4th Band Squadron</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g38r24k9r9~x2/"><img src="/variants/s4/g38r24k9r9~x2/sett.png" alt="Royal Guard of Oman 4th Band Squadron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macan-of-lurgyvallan-3/">Macan, of Lurgyvallan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macan-of-lurgyvallan-3/"><img src="/variants/s4/r10k1r4g6~x2/sett.png" alt="Macan, of Lurgyvallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-guard-of-oman-4th-band-squadro/">Royal Guard of Oman 4th Band Squadro</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-guard-of-oman-4th-band-squadro/"><img src="/variants/s4/g38r24k9r9~x2/sett.png" alt="Royal Guard of Oman 4th Band Squadro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

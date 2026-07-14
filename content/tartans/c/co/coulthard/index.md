@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r3dg9g15db10k2db18w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rggbkbw/">RGGBKBW</a></nav>
 Its design is pattern [RGGBKBW](/stripes/rggbkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Coulthard** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Coulthard** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3dg9g15db10k2db18w3/">Coulthard</a></td><td><code>R/6 DG18 G30 DB20 K4 DB36 W/6</code></td><td>228</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3dg9g15db10k2db18w3/"><img src="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/sett.png" alt="Coulthard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/">Coulthard</a></td><td><code>R/6 DG18 G30 DB20 K4 DB36 W/6</code></td><td>228</td><td>2001</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/"><img src="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/sett.png" alt="Coulthard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="143.5" cy="162.8" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="177.7" cy="178.7" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s10/db4g1db2g2n6g2k3r1db8w1~x2/"><circle cx="153.0" cy="171.3" r="4" fill="#3465a4"><title>EAIE 2015</title></circle></a><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><circle cx="229.2" cy="141.1" r="4" fill="#3465a4"><title>Lambert, Patrice</title></circle></a><a href="/variants/s6/db15k10n30dy11w3lb5~x2/"><circle cx="139.3" cy="189.7" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="180.1" cy="194.2" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s6/db20k6ly4db3g20w2~x2/"><circle cx="175.9" cy="187.2" r="4" fill="#3465a4"><title>DeLoughery</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.3" cy="216.0" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="189.3" cy="187.4" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="142.9" cy="196.1" r="4" fill="#3465a4"><title>Royal College of Physicians</title></circle></a><circle cx="180.1" cy="196.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="143.9" cy="162.5" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="178.0" cy="178.5" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s10/db4g1db2g2n6g2k3r1db8w1~x2/"><circle cx="153.4" cy="171.1" r="4" fill="#3465a4"><title>EAIE 2015</title></circle></a><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><circle cx="229.8" cy="140.9" r="4" fill="#3465a4"><title>Lambert, Patrice</title></circle></a><a href="/variants/s6/db15k10n30dy11w3lb5~x2/"><circle cx="139.6" cy="189.4" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="180.4" cy="194.0" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s6/db20k6ly4db3g20w2~x2/"><circle cx="176.2" cy="187.0" r="4" fill="#3465a4"><title>DeLoughery</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.6" cy="215.9" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="189.6" cy="187.2" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="143.2" cy="196.0" r="4" fill="#3465a4"><title>Royal College of Physicians</title></circle></a><circle cx="180.4" cy="196.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

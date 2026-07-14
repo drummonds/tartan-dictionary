@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/">Franklin Museum Unidentified 2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/"><img src="/variants/s8/r5g20r25db1r25db20r5db1~x4/sett.png" alt="Franklin Museum Unidentified 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/franklin-museum-unidentified-2/">Franklin Museum Unidentified 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/franklin-museum-unidentified-2/"><img src="/variants/s8/r5g20r25db1r25db20r5db1~x4/sett.png" alt="Franklin Museum Unidentified 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

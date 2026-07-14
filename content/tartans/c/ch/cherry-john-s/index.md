@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r4db36ri35dg2ri2dg8w4/"
+- "/setts/ri4db36r35g2r2g8w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbrgrgw/">RBRGRGW</a></nav>
 Its design is pattern [RBRGRGW](/stripes/rbrgrgw/) — the page of every tartan sharing this colour sequence.
 
 The **Cherry, John S** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Cherry, John S** tartan groups 2 setts — the same named design recorded 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4db36ri35dg2ri2dg8w4/">Cherry, John S</a> ★</td><td><code>R/8 DB72 Ri70 DG4 Ri4 DG16 W/8</code></td><td>348</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4db36ri35dg2ri2dg8w4/"><img src="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/sett.png" alt="Cherry, John S sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/ri4db36r35g2r2g8w4/">. (Personal)</a></td><td><code>Ri/8 DB72 R70 G4 R4 G16 W/8</code></td><td>348</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ri4db36r35g2r2g8w4/"><img src="/variants/s7/ri4db36r35g2r2g8w4~x2~ri2607041-r2109032/sett.png" alt=". (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/">Cherry, John S</a> ★</td><td><code>R/8 DB72 Ri70 DG4 Ri4 DG16 W/8</code></td><td>348</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/"><img src="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/sett.png" alt="Cherry, John S sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/ri4db36r35g2r2g8w4~x2~ri2607041-r2109032/">. (Personal)</a></td><td><code>Ri/8 DB72 R70 G4 R4 G16 W/8</code></td><td>348</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/ri4db36r35g2r2g8w4~x2~ri2607041-r2109032/"><img src="/variants/s7/ri4db36r35g2r2g8w4~x2~ri2607041-r2109032/sett.png" alt=". (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -35,6 +39,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dr2b16r1dr2r12y1lb1~x2/"><circle cx="307.2" cy="164.9" r="4" fill="#3465a4"><title>Spragg, Andrew</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="268.5" cy="136.0" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s9/r4y2r34db10g4db4t4db23w3~x2~t2405244/"><circle cx="236.1" cy="127.1" r="4" fill="#3465a4"><title>Heirloom Red Alba</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.0" cy="174.9" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="297.7" cy="143.1" r="4" fill="#3465a4"><title>Mercer, James</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="298.8" cy="143.2" r="4" fill="#3465a4"><title>Mercer</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="297.8" cy="156.7" r="4" fill="#3465a4"><title>Tartan Lassie</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="294.9" cy="184.6" r="4" fill="#3465a4"><title>Superfast Ferries</title></circle></a><a href="/variants/s7/lr30lp4lr3dp2r2dp24w2~x2/"><circle cx="282.2" cy="143.2" r="4" fill="#3465a4"><title>St. Andrew's Links Dress</title></circle></a><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/"><circle cx="198.8" cy="141.4" r="4" fill="#3465a4"><title>Forrester</title></circle></a><circle cx="233.5" cy="140.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dr2b16r1dr2r12y1lb1~x2/"><circle cx="307.7" cy="164.8" r="4" fill="#3465a4"><title>Spragg, Andrew</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="269.1" cy="135.9" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s9/r4y2r34db10g4db4t4db23w3~x2~t2405244/"><circle cx="236.6" cy="126.9" r="4" fill="#3465a4"><title>Heirloom Red Alba</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.5" cy="174.8" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="298.4" cy="143.0" r="4" fill="#3465a4"><title>Mercer, James</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="299.5" cy="143.2" r="4" fill="#3465a4"><title>Mercer</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.5" cy="156.6" r="4" fill="#3465a4"><title>Tartan Lassie</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="295.5" cy="184.6" r="4" fill="#3465a4"><title>Superfast Ferries</title></circle></a><a href="/variants/s7/lr30lp4lr3dp2r2dp24w2~x2/"><circle cx="282.8" cy="143.0" r="4" fill="#3465a4"><title>St. Andrew's Links Dress</title></circle></a><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/"><circle cx="199.2" cy="141.2" r="4" fill="#3465a4"><title>Forrester</title></circle></a><circle cx="234.1" cy="139.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

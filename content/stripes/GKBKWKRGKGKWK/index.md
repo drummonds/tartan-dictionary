@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g16k1db12k1lb12k1r10y7k1y7k2lb1k4~x2/">Ville de Beauport District Canadian Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g16k1db12k1lb12k1r10y7k1y7k2lb1k4~x2/"><img src="/variants/s13/g16k1db12k1lb12k1r10y7k1y7k2lb1k4~x2/sett.png" alt="Ville de Beauport District Canadian Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/ville-de-beauport-district/">Ville de Beauport District</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/ville-de-beauport-district/"><img src="/variants/s13/g16k1db12k1lb12k1r10y7k1y7k2lb1k4~x2/sett.png" alt="Ville de Beauport District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Hebrides"
   url: "/tartans/h/he/hebrides-8/"
 - name: "Hebrides #8"
-  url: "/setts/db7r3g7r1g7r3db7lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db7r3g7r1g7r3db7lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebrides-8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGRBW](/stripes/brgrgrbw/).
 
 Part of the [Hebrides](/tartans/h/he/hebrides-8/) tartan — the named design grouping this sett with its other cloths.

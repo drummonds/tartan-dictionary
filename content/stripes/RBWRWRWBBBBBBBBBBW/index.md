@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/w8db1dbi20db2dbi1db2dbi4db2dbi1db2dbi4w2r4w1r2w20db1r4~x2~db1003265-dbi1605267/">Florida</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/w8db1dbi20db2dbi1db2dbi4db2dbi1db2dbi4w2r4w1r2w20db1r4~x2~db1003265-dbi1605267/"><img src="/variants/s18/w8db1dbi20db2dbi1db2dbi4db2dbi1db2dbi4w2r4w1r2w20db1r4~x2~db1003265-dbi1605267/sett.png" alt="Florida sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fl/florida/">Florida</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/florida/"><img src="/variants/s18/w8db1dbi20db2dbi1db2dbi4db2dbi1db2dbi4w2r4w1r2w20db1r4~x2~db1003265-dbi1605267/sett.png" alt="Florida sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

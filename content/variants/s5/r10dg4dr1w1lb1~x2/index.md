@@ -8,10 +8,10 @@ crumbs:
 - name: "Staves"
   url: "/tartans/s/st/staves/"
 - name: "Staves (Personal)"
-  url: "/setts/r10dg4dr1w1lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r10dg4dr1w1lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/staves/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBWW](/stripes/rgbww/).
 
 Part of the [Staves](/tartans/s/st/staves/) tartan — the named design grouping this sett with its other cloths.

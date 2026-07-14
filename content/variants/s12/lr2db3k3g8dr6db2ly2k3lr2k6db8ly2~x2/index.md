@@ -8,10 +8,10 @@ crumbs:
 - name: "Talisman"
   url: "/tartans/t/ta/talisman/"
 - name: "Talisman"
-  url: "/setts/lr2db3k3g8dr6db2ly2k3lr2k6db8ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lr2db3k3g8dr6db2ly2k3lr2k6db8ly2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ta/talisman/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBKGBBYKYKBY](/stripes/ybkgbbykykby/).
 
 Part of the [Talisman](/tartans/t/ta/talisman/) tartan — the named design grouping this sett with its other cloths.

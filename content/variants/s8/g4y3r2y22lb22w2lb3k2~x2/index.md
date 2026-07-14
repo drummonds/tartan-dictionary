@@ -8,10 +8,10 @@ crumbs:
 - name: "Aguilar Pardo, Luis Alejandro"
   url: "/tartans/a/ag/aguilar-pardo-luis-alejandro/"
 - name: "Aguilar Pardo, Luis Alejandro (Personal)"
-  url: "/setts/g4y3r2y22lb22w2lb3k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4y3r2y22lb22w2lb3k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ag/aguilar-pardo-luis-alejandro/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGWWWK](/stripes/ggrgwwwk/).
 
 Part of the [Aguilar Pardo, Luis Alejandro](/tartans/a/ag/aguilar-pardo-luis-alejandro/) tartan — the named design grouping this sett with its other cloths.

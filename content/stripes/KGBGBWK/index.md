@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k9w2dr50g42dr16g17k4/">McNee (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k9w2dr50g42dr16g17k4/"><img src="/variants/s7/k9w2dr50g42dr16g17k4/sett.png" alt="McNee (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcnee/">McNee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcnee/"><img src="/variants/s7/k9w2dr50g42dr16g17k4/sett.png" alt="McNee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

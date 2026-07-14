@@ -8,10 +8,10 @@ crumbs:
 - name: "Julien Pigeut"
   url: "/tartans/j/ju/julien-pigeut/"
 - name: "Julien Pigeut Tartan"
-  url: "/setts/k40n15o10y3lb5w5db10lb20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k40n15o10y3lb5w5db10lb20/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ju/julien-pigeut/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRGWWBW](/stripes/kbrgwwbw/).
 
 Part of the [Julien Pigeut](/tartans/j/ju/julien-pigeut/) tartan — the named design grouping this sett with its other cloths.

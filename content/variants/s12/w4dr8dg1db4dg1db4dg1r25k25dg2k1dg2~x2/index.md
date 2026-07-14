@@ -8,10 +8,10 @@ crumbs:
 - name: "Tweedbank"
   url: "/tartans/t/tw/tweedbank/"
 - name: "Tweedbank"
-  url: "/setts/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tw/tweedbank/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKRGBGBGBW](/stripes/gkgkrgbgbgbw/).
 
 Part of the [Tweedbank](/tartans/t/tw/tweedbank/) tartan — the named design grouping this sett with its other cloths.

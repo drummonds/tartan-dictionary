@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db8k2db2k2db2k8g7k1w1~x2/">Forbes #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db8k2db2k2db2k8g7k1w1~x2/"><img src="/variants/s9/db8k2db2k2db2k8g7k1w1~x2/sett.png" alt="Forbes #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/">Forbes #5</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/"><img src="/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/sett.png" alt="Forbes #5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forbes-2/">Forbes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forbes-2/"><img src="/variants/s9/db8k2db2k2db2k8g7k1w1~x2/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

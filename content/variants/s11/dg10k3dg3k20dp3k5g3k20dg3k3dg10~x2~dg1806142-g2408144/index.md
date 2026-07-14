@@ -8,10 +8,10 @@ crumbs:
 - name: "Pike"
   url: "/tartans/p/pi/pike/"
 - name: "Pike (Personal)"
-  url: "/setts/dg10k3dg3k20dp3k5g3k20dg3k3dg10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg10k3dg3k20dp3k5g3k20dg3k3dg10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pi/pike/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBKGKGKG](/stripes/gkgkbkgkgkg/).
 
 Part of the [Pike](/tartans/p/pi/pike/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5062](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>undated — Pike (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5062">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>Darker version, final design.</em></li>
-<li>2/4/02 — Pike (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3229">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Darker version, final design</em></li>
+<li>2/4/02 — Pike (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3229/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Darker version, final design</em></li>
 </ul>
 </details>
 

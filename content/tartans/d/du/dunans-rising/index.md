@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg35g25r15lb23/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggrw/">GGRW</a></nav>
 Its design is pattern [GGRW](/stripes/ggrw/) — the page of every tartan sharing this colour sequence.
 
 The **Dunans Rising** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Dunans Rising** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg35g25r15lb23/">Dunans Rising</a></td><td><code>DG/70 G50 R30 LB/46</code></td><td>276</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg35g25r15lb23/"><img src="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/sett.png" alt="Dunans Rising sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/">Dunans Rising</a></td><td><code>DG/70 G50 R30 LB/46</code></td><td>276</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/"><img src="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/sett.png" alt="Dunans Rising sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r2db2g3y2~x5/"><circle cx="93.0" cy="366.0" r="4" fill="#3465a4"><title>Sturch</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="228.2" cy="287.7" r="4" fill="#3465a4"><title>Delroeux, John Michael</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="217.9" cy="284.5" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="109.0" cy="279.8" r="4" fill="#3465a4"><title>Clan Haggis World</title></circle></a><a href="/variants/s6/g2y1lo1r1dp1db1~x36/"><circle cx="21.9" cy="327.5" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/variants/s3/r4g7lb4~x2/"><circle cx="204.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 61</title></circle></a><a href="/variants/s3/r4dg7lb4~x2/"><circle cx="174.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.2" cy="309.6" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="184.9" cy="298.1" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="291.7" cy="342.5" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><circle cx="155.3" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r2db2g3y2~x5/"><circle cx="92.5" cy="366.0" r="4" fill="#3465a4"><title>Sturch</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="228.4" cy="287.6" r="4" fill="#3465a4"><title>Delroeux, John Michael</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="218.0" cy="284.4" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="108.8" cy="279.5" r="4" fill="#3465a4"><title>Clan Haggis World</title></circle></a><a href="/variants/s6/g2y1lo1r1dp1db1~x36/"><circle cx="21.3" cy="327.1" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/variants/s3/r4g7lb4~x2/"><circle cx="204.1" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 61</title></circle></a><a href="/variants/s3/r4dg7lb4~x2/"><circle cx="174.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.0" cy="309.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="184.9" cy="298.0" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="291.9" cy="342.6" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><circle cx="154.9" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

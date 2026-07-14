@@ -8,10 +8,10 @@ crumbs:
 - name: "Barcelona English School"
   url: "/tartans/b/ba/barcelona-english-school/"
 - name: "Barcelona English School"
-  url: "/setts/n52g3w3db3y3db2r3db12g8db2g6y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n52g3w3db3y3db2r3db12g8db2g6y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barcelona-english-school/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBGBRBGBGG](/stripes/bgwbgbrbgbgg/).
 
 Part of the [Barcelona English School](/tartans/b/ba/barcelona-english-school/) tartan — the named design grouping this sett with its other cloths.

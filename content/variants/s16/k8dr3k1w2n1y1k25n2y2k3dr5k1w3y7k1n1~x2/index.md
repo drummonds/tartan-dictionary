@@ -8,10 +8,10 @@ crumbs:
 - name: "Northern Guard Supporters"
   url: "/tartans/n/no/northern-guard-supporters/"
 - name: "Northern Guard Supporters"
-  url: "/setts/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/northern-guard-supporters/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGWKBKGBKGBWKBK](/stripes/bkgwkbkgbkgbwkbk/).
 
 Part of the [Northern Guard Supporters](/tartans/n/no/northern-guard-supporters/) tartan — the named design grouping this sett with its other cloths.

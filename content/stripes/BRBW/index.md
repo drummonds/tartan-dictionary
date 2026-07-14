@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/w35db12r2n2~x2/">Triplett, Jack Arnold</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w35db12r2n2~x2/"><img src="/variants/s4/w35db12r2n2~x2/sett.png" alt="Triplett, Jack Arnold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/triplett-jack-arnold-2/">Triplett, Jack Arnold</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/triplett-jack-arnold-2/"><img src="/variants/s4/w35db12r2n2~x2/sett.png" alt="Triplett, Jack Arnold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/db102r11db14w11/">Westfield (Corporate?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db102r11db14w11/"><img src="/variants/s4/db102r11db14w11/sett.png" alt="Westfield (Corporate?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westfield/">Westfield</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westfield/"><img src="/variants/s4/db102r11db14w11/sett.png" alt="Westfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

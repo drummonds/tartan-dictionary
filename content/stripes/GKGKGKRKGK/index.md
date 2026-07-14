@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/">Renwick</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><img src="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/sett.png" alt="Renwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/renwick/">Renwick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/renwick/"><img src="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/sett.png" alt="Renwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Jardine of Castlemilk"
   url: "/tartans/j/ja/jardine-of-castlemilk/"
 - name: "Jardine, of Castlemilk"
-  url: "/setts/r8o33y33k33r8db8y33db8r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8o33y33k33r8db8y33db8r8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ja/jardine-of-castlemilk/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBRKGRR](/stripes/rbgbrkgrr/).
 
 Part of the [Jardine of Castlemilk](/tartans/j/ja/jardine-of-castlemilk/) tartan — the named design grouping this sett with its other cloths.

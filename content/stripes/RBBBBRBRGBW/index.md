@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/">Coldstream</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/"><img src="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/sett.png" alt="Coldstream sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coldstream/">Coldstream</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coldstream/"><img src="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/sett.png" alt="Coldstream sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/">Cumming Comyn Buchan Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/"><img src="/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/sett.png" alt="Cumming Comyn Buchan Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cumming-comyn-buchan/">Cumming Comyn Buchan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cumming-comyn-buchan/"><img src="/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/sett.png" alt="Cumming Comyn Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

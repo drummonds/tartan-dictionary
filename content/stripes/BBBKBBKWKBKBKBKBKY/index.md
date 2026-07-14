@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4/">Breeding</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4/"><img src="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2~db1404245/sett.png" alt="Breeding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/breeding/">Breeding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/breeding/"><img src="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2~db1404245/sett.png" alt="Breeding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

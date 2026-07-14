@@ -8,17 +8,17 @@ crumbs:
 - name: "Canterbury"
   url: "/tartans/c/ca/canterbury/"
 - name: "Canterbury (Fashion)"
-  url: "/setts/r2k20r5k4dg4k4r5k2r14k2y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k20r5k4dg4k4r5k2r14k2y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/canterbury/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRKGKRKR](/stripes/gkrkrkgkrkr/).
 
 Part of the [Canterbury](/tartans/c/ca/canterbury/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3265](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3265)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3265/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3265/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: 1999 Designed by Blair Urquhart of the House of Tartan, for
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1999 — Canterbury (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3265">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MG #003800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><br><em>Designed by the House of Tartan, Alloa for the Timely Marketing & Promotions Ltd, PO Box 28168, Christchurch, NZ. In the absence of any official acceptance by Canterbury, categorised as 'Fashion' rather than 'District'.</em></li>
+<li>1999 — Canterbury (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3265/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MG #003800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><br><em>Designed by the House of Tartan, Alloa for the Timely Marketing & Promotions Ltd, PO Box 28168, Christchurch, NZ. In the absence of any official acceptance by Canterbury, categorised as 'Fashion' rather than 'District'.</em></li>
 <li>1999 — Canterbury New Zealand District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3265">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C5020;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MG #1C5020"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span></li>
 <li>01/01/2000 — Canterbury (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5326">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MG #003800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><br><em>Designed by Blair Urquhart for the House of Tartan from design by and for Clinton McInnes of New Zealand. The design and copyright is owned by CJ and PJ McInnes (for Timely Marketing & Promotions Ltd) PO Box 28168, Christchurch, New Zealand.</em></li>
 </ul>
@@ -43,7 +43,7 @@ Earliest known date: 1999 Designed by Blair Urquhart of the House of Tartan, for
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

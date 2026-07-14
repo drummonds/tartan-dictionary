@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/">Field Gun Association</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/"><img src="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/sett.png" alt="Field Gun Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/field-gun-association/">Field Gun Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/field-gun-association/"><img src="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/sett.png" alt="Field Gun Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

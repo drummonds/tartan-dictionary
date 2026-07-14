@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/">De Nardi (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><img src="/variants/s8/r68db26r5y3r5g3r13n3~x2/sett.png" alt="De Nardi (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/de-nardi/">De Nardi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/de-nardi/"><img src="/variants/s8/r68db26r5y3r5g3r13n3~x2/sett.png" alt="De Nardi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

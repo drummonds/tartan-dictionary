@@ -10,10 +10,10 @@ crumbs:
 - name: "Grant and Drummond"
   url: "/tartans/g/gr/grant-and-drummond/"
 - name: "Grant and Drummond"
-  url: "/setts/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grant-and-drummond/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
 
 Part of the [Grant and Drummond](/tartans/g/gr/grant-and-drummond/) tartan — the named design grouping this sett with its other cloths.

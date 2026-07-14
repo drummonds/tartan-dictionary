@@ -8,10 +8,10 @@ crumbs:
 - name: "Morag"
   url: "/tartans/m/mo/morag/"
 - name: "Morag"
-  url: "/setts/lg64n4lg4ly4lg4n26w4ly1w2ly1w32n2ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lg64n4lg4ly4lg4n26w4ly1w2ly1w32n2ly4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/morag/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBWYWYWBYYYBY](/stripes/ybwywywbyyyby/).
 
 Part of the [Morag](/tartans/m/mo/morag/) tartan — the named design grouping this sett with its other cloths.

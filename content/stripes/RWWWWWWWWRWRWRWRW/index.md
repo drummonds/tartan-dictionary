@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/">Nike Golf Light</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/"><img src="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/sett.png" alt="Nike Golf Light sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ni/nike-golf-light/">Nike Golf Light</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nike-golf-light/"><img src="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/sett.png" alt="Nike Golf Light sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

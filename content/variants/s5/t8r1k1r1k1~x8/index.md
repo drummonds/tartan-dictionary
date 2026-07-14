@@ -12,15 +12,15 @@ crumbs:
 - name: "Laing of Archiestown"
   url: "/tartans/l/la/laing-of-archiestown/"
 - name: "Laing of Archiestown Clan/Family Tartan"
-  url: "/setts/t8r1k1r1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t8r1k1r1k1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRKRBRKR](/stripes/krkrbrkr/).
+provenance below. It is one weaving of the [sett](/tartans/l/la/laing-of-archiestown/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRKRK](/stripes/brkrk/).
 
 Part of the [Laing of Archiestown](/tartans/l/la/laing-of-archiestown/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2544](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2544)
 
@@ -45,9 +45,11 @@ Earliest known date: 1783 Said to have been woven in 1783 in Knockando Morayshir
 </details>
 
 ## Thread count
-K/8 R8 K8 R8 T64 R8 K8 R/8
+T/64 R8 K8 R8 K/8
 
-One full sett is **224 threads**.
+One full sett is **120 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/8 R8 K8 R8 T64 R8 K8 R/8 — 224 threads; it folds to the canonical 120-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **224 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 R8 K8 R8 T64 R8 K8 R/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/64 R8 K8 R8 K/8 tartan" width="880" height="480">
 
 ## Compared to the master
 

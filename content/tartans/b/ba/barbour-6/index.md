@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/barbour/"
 - name: "Barbour"
   url: "/families/barbour/"
+aliases:
+- "/setts/r3ly2r18db8w1o18r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rrwbryr/">RRWBRYR</a></nav>
 A tartan of the [Barbour](/families/barbour/) family.
 Its design is pattern [RRWBRYR](/stripes/rrwbryr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Barbour** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3ly2r18db8w1o18r2/">Barbour</a></td><td><code>R/6 LY4 R36 DB16 W2 O36 R/4</code></td><td>198</td><td>~2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3ly2r18db8w1o18r2/"><img src="/variants/s7/r3ly2r18db8w1o18r2~x2/sett.png" alt="Barbour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3ly2r18db8w1o18r2~x2/">Barbour</a></td><td><code>R/6 LY4 R36 DB16 W2 O36 R/4</code></td><td>198</td><td>~2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3ly2r18db8w1o18r2~x2/"><img src="/variants/s7/r3ly2r18db8w1o18r2~x2/sett.png" alt="Barbour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r11db1r11db1w10o11db1o11~x2/"><circle cx="225.2" cy="217.8" r="4" fill="#3465a4"><title>St Andrews</title></circle></a><a href="/variants/s5/dy5r21y21w2db1~x2/"><circle cx="320.9" cy="197.9" r="4" fill="#3465a4"><title>Haughey</title></circle></a><a href="/variants/s10/n22r2w1lo3r1n6r22lo3r1lr10~x4/"><circle cx="300.2" cy="161.0" r="4" fill="#3465a4"><title>Glenburnie</title></circle></a><a href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/"><circle cx="244.5" cy="193.1" r="4" fill="#3465a4"><title>Afternoon Tea / Apple Tea</title></circle></a><a href="/variants/s5/y9r31g12dy2lb9~x2/"><circle cx="288.9" cy="211.3" r="4" fill="#3465a4"><title>Buncle</title></circle></a><a href="/variants/s7/r96db16dg34g48r18k6r9/"><circle cx="266.9" cy="147.8" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="329.0" cy="223.6" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="338.6" cy="144.3" r="4" fill="#3465a4"><title>Redpath, Robert A</title></circle></a><a href="/variants/s9/y6r30n2k3n30g3n2r25w6~x2/"><circle cx="276.2" cy="140.3" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/variants/s7/r80dr8r4dy4lb4dy45n8/"><circle cx="377.8" cy="148.0" r="4" fill="#3465a4"><title>Isaia</title></circle></a><circle cx="294.8" cy="176.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r11db1r11db1w10o11db1o11~x2/"><circle cx="225.4" cy="217.6" r="4" fill="#3465a4"><title>St Andrews</title></circle></a><a href="/variants/s5/dy5r21y21w2db1~x2/"><circle cx="321.3" cy="197.9" r="4" fill="#3465a4"><title>Haughey</title></circle></a><a href="/variants/s10/n22r2w1lo3r1n6r22lo3r1lr10~x4/"><circle cx="300.5" cy="160.9" r="4" fill="#3465a4"><title>Glenburnie</title></circle></a><a href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/"><circle cx="244.8" cy="193.0" r="4" fill="#3465a4"><title>Afternoon Tea / Apple Tea</title></circle></a><a href="/variants/s5/y9r31g12dy2lb9~x2/"><circle cx="289.2" cy="211.2" r="4" fill="#3465a4"><title>Buncle</title></circle></a><a href="/variants/s7/r96db16dg34g48r18k6r9/"><circle cx="267.6" cy="147.7" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="329.4" cy="223.7" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="339.1" cy="144.3" r="4" fill="#3465a4"><title>Redpath, Robert A</title></circle></a><a href="/variants/s9/y6r30n2k3n30g3n2r25w6~x2/"><circle cx="276.7" cy="140.1" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/variants/s7/r80dr8r4dy4lb4dy45n8/"><circle cx="378.5" cy="148.0" r="4" fill="#3465a4"><title>Isaia</title></circle></a><circle cx="295.2" cy="176.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

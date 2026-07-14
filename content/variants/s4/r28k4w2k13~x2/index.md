@@ -12,15 +12,15 @@ crumbs:
 - name: "Dunbar"
   url: "/tartans/d/du/dunbar/"
 - name: "Dunbar Ancient"
-  url: "/setts/r28k4w2k13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r28k4w2k13/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKRKW](/stripes/kwkrkw/).
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunbar/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKR](/stripes/kwkr/).
 
 Part of the [Dunbar](/tartans/d/du/dunbar/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1016](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1016)
 
@@ -32,7 +32,7 @@ Earliest known date: 1840 Restricted
 <summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1840 — Dunbar Ancient (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1016">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CC4438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ASR #CC4438"></span><br><em>This is a Wilsons pattern. From Pattern Book No..? Scottish Tartans Society notes: first reported by MacGregor Hastie in 1934. The sample was found to match a similarly styled piece in the Wilson's samples housed in the collection at the Smith Institute in Stirling. The conclusion drawn was that a 'Dunbar District' tartan had been in existence since around 1840, providing an alternative to the Vestiarium sett (#1472, original Scottish Tartans Authority reference) published in 1842. Woven by House of Edgar.</em></li>
-<li>1840 — Dunbar (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1236">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#CC4438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ASR #CC4438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>This is a Wilsons pattern. from Pattern Book No..? Scottish Tartans Society notes: first reported by MacGregor Hastie in 1934. The sample was found to match a similarly styled piece in the Wilson's samples housed in the collection at the Smith Institute in Stirling. The conclusion drawn was that a 'Dunbar District' tartan had been in existance since around 1840, providing an alternative to the Vestiarium sett (#1472) published in 1842. Woven by House of Edgar.</em></li>
+<li>1840 — Dunbar (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1236/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#CC4438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ASR #CC4438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>This is a Wilsons pattern. from Pattern Book No..? Scottish Tartans Society notes: first reported by MacGregor Hastie in 1934. The sample was found to match a similarly styled piece in the Wilson's samples housed in the collection at the Smith Institute in Stirling. The conclusion drawn was that a 'Dunbar District' tartan had been in existance since around 1840, providing an alternative to the Vestiarium sett (#1472) published in 1842. Woven by House of Edgar.</em></li>
 <li>1840 — Dunbar (Wilson's) District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1236">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 <li>undated — Dunbar (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 </ul>
@@ -63,9 +63,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1236
 
 ## Thread count
-K/26 W4 K8 R56 K8 W/4
+R/56 K8 W4 K/26
 
-One full sett is **182 threads**.
+One full sett is **106 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/26 W4 K8 R56 K8 W/4 — 182 threads; it folds to the canonical 106-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -74,7 +76,7 @@ One full sett is **182 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/26 W4 K8 R56 K8 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/56 K8 W4 K/26 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

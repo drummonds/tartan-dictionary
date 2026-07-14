@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2w6k3w6k3w6k3w6k3w6~x2/">Angus (Paton)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2w6k3w6k3w6k3w6k3w6~x2/"><img src="/variants/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2w6k3w6k3w6k3w6k3w6~x2/sett.png" alt="Angus (Paton) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2lb6k3lb6k3lb6k3lb6k3lb6~x2/">Angus, Red (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2lb6k3lb6k3lb6k3lb6k3lb6~x2/"><img src="/variants/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2lb6k3lb6k3lb6k3lb6k3lb6~x2/sett.png" alt="Angus, Red (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/angus/">Angus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/angus/"><img src="/variants/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2w6k3w6k3w6k3w6k3w6~x2/sett.png" alt="Angus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

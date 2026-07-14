@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/k12g2k2g2k2g16k3w3k3r12g6lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/">Kapasi (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/k12g2k2g2k2g16k3w3k3r12g6lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><img src="/variants/s24/k12g2k2g2k2g16k3w3k3r12g6lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/sett.png" alt="Kapasi (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ka/kapasi/">Kapasi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/kapasi/"><img src="/variants/s24/k12g2k2g2k2g16k3w3k3r12g6lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/sett.png" alt="Kapasi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

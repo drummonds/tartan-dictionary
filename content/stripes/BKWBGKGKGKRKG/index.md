@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db9k2w4db4y2k10g12k3g12k8r11k2y4~x2/">Watt (Dunfermline) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db9k2w4db4y2k10g12k3g12k8r11k2y4~x2/"><img src="/variants/s13/db9k2w4db4y2k10g12k3g12k8r11k2y4~x2/sett.png" alt="Watt (Dunfermline) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/watt/">Watt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/watt/"><img src="/variants/s13/db9k2w4db4y2k10g12k3g12k8r11k2y4~x2/sett.png" alt="Watt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

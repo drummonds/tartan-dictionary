@@ -8,10 +8,10 @@ crumbs:
 - name: "Waverly, Check"
   url: "/tartans/w/wa/waverly-check-2/"
 - name: "Waverly, Check"
-  url: "/setts/do44oii5o8oii2o2oii2o2oii14oi9o2oi4oii2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do44oii5o8oii2o2oii2o2oii14oi9o2oi4oii2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/waverly-check-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRRRRRRRRRRR](/stripes/brrrrrrrrrrr/).
 
 Part of the [Waverly, Check](/tartans/w/wa/waverly-check-2/) tartan — the named design grouping this sett with its other cloths.

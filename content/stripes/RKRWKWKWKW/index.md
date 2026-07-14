@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/">Edinburgh, City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><img src="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/sett.png" alt="Edinburgh, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-city-of/">Edinburgh, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-city-of/"><img src="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/sett.png" alt="Edinburgh, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

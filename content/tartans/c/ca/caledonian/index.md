@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/caledonian/"
 - name: "Caledonian"
   url: "/families/caledonian/"
+aliases:
+- "/setts/r60db20r8g45r8db2/"
+- "/setts/r60dp20r8g45r8dp2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgrbr/">BRGRBR</a></nav>
 A tartan of the [Caledonian](/families/caledonian/) family.
 Its design is pattern [BRGRBR](/stripes/brgrbr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,12 @@ The **Caledonian** tartan groups 2 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r60db20r8g45r8db2/">Caledonian</a> ★</td><td><code>R/120 DB40 R16 G90 R16 DB/4</code></td><td>448</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r60db20r8g45r8db2/"><img src="/variants/s6/r60db20r8g45r8db2~x2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r60dp20r8g45r8dp2/">1819 (Fashion?)</a></td><td><code>R/60 DP20 R8 G45 R8 DP/2</code></td><td>448</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r60dp20r8g45r8dp2/"><img src="/variants/s6/r60dp20r8g45r8dp2~x2/sett.png" alt="1819 (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r60db20r8g45r8db2~x2/">Caledonian</a> ★</td><td><code>R/120 DB40 R16 G90 R16 DB/4</code></td><td>448</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r60db20r8g45r8db2~x2/"><img src="/variants/s6/r60db20r8g45r8db2~x2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r60dp20r8g45r8dp2/">1819 (Fashion?)</a></td><td><code>R/60 DP20 R8 G45 R8 DP/2</code></td><td>224</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r60dp20r8g45r8dp2/"><img src="/variants/s6/r60dp20r8g45r8dp2/sett.png" alt="1819 (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/r60dp20r8g45r8dp2/">1819 (Fashion?)</a></td><td><code>R/60 DP20 R8 G45 R8 DP/2</code></td><td>224</td><td>1819</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/r60dp20r8g45r8dp2~x2/">Caledonian</a></td><td><code>R/120 DP40 R16 G90 R16 DP/4</code></td><td>448</td><td>1819</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/r60dp20r8g45r8dp2/">1819 (Fashion?)</a> · <a href="/variants/s6/r60dp20r8g45r8dp2~x2/">Caledonian</a></td></tr>
 </tbody>
 </table>
@@ -35,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r48db2r3g28r4db2~x2/"><circle cx="452.6" cy="162.3" r="4" fill="#3465a4"><title>MacKintosh 2</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="398.9" cy="177.0" r="4" fill="#3465a4"><title>MacKintosh 3</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="405.2" cy="174.6" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r16db6r2dg6r2db1~x2/"><circle cx="385.8" cy="187.9" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/db2r25g10r2db10r2~x2/"><circle cx="350.9" cy="196.0" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s7/db1r5g18r4db9r10w1~x4/"><circle cx="243.5" cy="189.2" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="435.4" cy="180.8" r="4" fill="#3465a4"><title>Unidentified Cant</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="410.2" cy="152.5" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="367.5" cy="174.9" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="383.6" cy="180.1" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><circle cx="360.1" cy="175.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r48db2r3g28r4db2~x2/"><circle cx="453.6" cy="162.5" r="4" fill="#3465a4"><title>MacKintosh 2</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="399.7" cy="177.1" r="4" fill="#3465a4"><title>MacKintosh 3</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="406.1" cy="174.8" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r16db6r2dg6r2db1~x2/"><circle cx="386.6" cy="188.0" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/db2r25g10r2db10r2~x2/"><circle cx="351.6" cy="196.1" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s7/db1r5g18r4db9r10w1~x4/"><circle cx="243.9" cy="189.1" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="436.3" cy="181.0" r="4" fill="#3465a4"><title>Unidentified Cant</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="411.1" cy="152.6" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="368.2" cy="175.0" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="384.3" cy="180.3" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><circle cx="360.8" cy="175.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

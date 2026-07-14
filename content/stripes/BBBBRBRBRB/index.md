@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db6n3db3n15r7db7r5db17r46n4/">Harry (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db6n3db3n15r7db7r5db17r46n4/"><img src="/variants/s10/db6n3db3n15r7db7r5db17r46n4/sett.png" alt="Harry (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harry/">Harry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harry/"><img src="/variants/s10/db6n3db3n15r7db7r5db17r46n4/sett.png" alt="Harry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/n24r11k6db4~x4/">Nebar (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/n24r11k6db4~x4/"><img src="/variants/s4/n24r11k6db4~x4/sett.png" alt="Nebar (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/nebar/">Nebar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/nebar/"><img src="/variants/s4/n24r11k6db4~x4/sett.png" alt="Nebar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

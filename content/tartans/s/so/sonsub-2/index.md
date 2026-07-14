@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/sonsub/"
 - name: "Sonsub"
   url: "/families/sonsub/"
+aliases:
+- "/setts/k61n20ly2n20k5ly4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kkkkkbybky/">KKKKKBYBKY</a></nav>
 A tartan of the [Sonsub](/families/sonsub/) family.
 Its design is pattern [KKKKKBYBKY](/stripes/kkkkkbybky/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Sonsub** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k61n20ly2n20k5ly4/">Sonsub</a></td><td><code>K/60 K10 K38 K10 K4 N40 LY4 N40 K10 LY/8</code></td><td>318</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k61n20ly2n20k5ly4/"><img src="/variants/s6/k61n20ly2n20k5ly4~x2/sett.png" alt="Sonsub sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k61n20ly2n20k5ly4~x2/">Sonsub</a></td><td><code>K/122 N40 LY4 N40 K10 LY/8</code></td><td>318</td><td>2006</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><img src="/variants/s6/k61n20ly2n20k5ly4~x2/sett.png" alt="Sonsub sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="293.0" cy="141.6" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="294.0" cy="88.4" r="4" fill="#3465a4"><title>Richecourt, Baron of</title></circle></a><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="374.6" cy="150.6" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="373.8" cy="126.9" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/"><circle cx="310.7" cy="87.5" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="293.9" cy="175.8" r="4" fill="#3465a4"><title>Scottish National Party</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="309.1" cy="151.3" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="396.0" cy="156.0" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="302.8" cy="184.8" r="4" fill="#3465a4"><title>MacSween</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="382.0" cy="111.3" r="4" fill="#3465a4"><title>Perry, hunting</title></circle></a><circle cx="362.7" cy="130.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="293.9" cy="141.7" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="295.0" cy="88.4" r="4" fill="#3465a4"><title>Richecourt, Baron of</title></circle></a><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="375.8" cy="150.9" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="375.1" cy="127.1" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/"><circle cx="311.7" cy="87.6" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="294.7" cy="175.9" r="4" fill="#3465a4"><title>Scottish National Party</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="310.0" cy="151.4" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="397.3" cy="156.3" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="303.7" cy="185.0" r="4" fill="#3465a4"><title>MacSween</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="383.3" cy="111.6" r="4" fill="#3465a4"><title>Perry, hunting</title></circle></a><circle cx="363.8" cy="130.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

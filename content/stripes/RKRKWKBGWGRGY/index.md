@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r2k2o6k10w2k14db8g15w2g7r5g1lo2~x2/">Nashotah House</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r2k2o6k10w2k14db8g15w2g7r5g1lo2~x2/"><img src="/variants/s13/r2k2o6k10w2k14db8g15w2g7r5g1lo2~x2/sett.png" alt="Nashotah House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/r2k1o5k7w2k14db8g15w2g7r5g1lo2~x2/">Nashotah House (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r2k1o5k7w2k14db8g15w2g7r5g1lo2~x2/"><img src="/variants/s13/r2k1o5k7w2k14db8g15w2g7r5g1lo2~x2/sett.png" alt="Nashotah House (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/nashotah-house/">Nashotah House</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/nashotah-house/"><img src="/variants/s13/r2k2o6k10w2k14db8g15w2g7r5g1lo2~x2/sett.png" alt="Nashotah House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

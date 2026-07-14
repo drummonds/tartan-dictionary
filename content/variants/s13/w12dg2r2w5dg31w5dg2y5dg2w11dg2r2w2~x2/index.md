@@ -8,10 +8,10 @@ crumbs:
 - name: "Veron"
   url: "/tartans/v/ve/veron/"
 - name: "Veron"
-  url: "/setts/w12dg2r2w5dg31w5dg2y5dg2w11dg2r2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w12dg2r2w5dg31w5dg2y5dg2w11dg2r2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/ve/veron/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGRWGWGGGWGRW](/stripes/wgrwgwgggwgrw/).
 
 Part of the [Veron](/tartans/v/ve/veron/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4451](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1974 — Veron (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4451">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A03400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SR #A03400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed and marketed by West Coast Woolen Mill.</em></li>
-<li>pre 1974 — Veron (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4347">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A03400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SR #A03400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Sample in STA Johnston Collection.</em></li>
+<li>pre 1974 — Veron (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4347/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A03400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SR #A03400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

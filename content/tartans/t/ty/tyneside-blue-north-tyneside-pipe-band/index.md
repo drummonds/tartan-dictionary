@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db62k22w3k2w2k3r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkwkwkr/">BKWKWKR</a></nav>
 Its design is pattern [BKWKWKR](/stripes/bkwkwkr/) — the page of every tartan sharing this colour sequence.
 
 The **Tyneside Blue, North Tyneside Pipe Band** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Tyneside Blue, North Tyneside Pipe Band** tartan is recorded as a single s
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db62k22w3k2w2k3r1/">Tyneside Blue, North Tyneside Pipe Band</a></td><td><code>DB/124 K44 W6 K4 W4 K6 R/2</code></td><td>254</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db62k22w3k2w2k3r1/"><img src="/variants/s7/db62k22w3k2w2k3r1~x2/sett.png" alt="Tyneside Blue, North Tyneside Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db62k22w3k2w2k3r1~x2/">Tyneside Blue, North Tyneside Pipe Band</a></td><td><code>DB/124 K44 W6 K4 W4 K6 R/2</code></td><td>254</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db62k22w3k2w2k3r1~x2/"><img src="/variants/s7/db62k22w3k2w2k3r1~x2/sett.png" alt="Tyneside Blue, North Tyneside Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db52k28w5k3w2k10/"><circle cx="331.4" cy="141.6" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="378.2" cy="112.6" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><a href="/variants/s6/db80k28dp9k3o5k12~x2/"><circle cx="388.5" cy="139.2" r="4" fill="#3465a4"><title>Earl Blue Marl</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="336.9" cy="99.5" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s7/db80k5g12k2y2g2k10~x2/"><circle cx="470.7" cy="89.2" r="4" fill="#3465a4"><title>Affara</title></circle></a><a href="/variants/s7/db56k4w1db6k20w2k20~x2/"><circle cx="406.4" cy="114.8" r="4" fill="#3465a4"><title>Dalziel Rugby Club</title></circle></a><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><circle cx="378.3" cy="48.3" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s11/db90k10y2k4w2k4t14r12k2r5w4/"><circle cx="324.4" cy="25.7" r="4" fill="#3465a4"><title>Lanyard</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.0" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s4/b124k60w1k2~x2/"><circle cx="431.7" cy="126.1" r="4" fill="#3465a4"><title>Pride of New Zealand, The</title></circle></a><circle cx="417.6" cy="70.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db52k28w5k3w2k10/"><circle cx="332.4" cy="141.8" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="379.3" cy="112.7" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><a href="/variants/s6/db80k28dp9k3o5k12~x2/"><circle cx="389.6" cy="139.4" r="4" fill="#3465a4"><title>Earl Blue Marl</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="338.0" cy="99.5" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s7/db80k5g12k2y2g2k10~x2/"><circle cx="472.1" cy="89.5" r="4" fill="#3465a4"><title>Affara</title></circle></a><a href="/variants/s7/db56k4w1db6k20w2k20~x2/"><circle cx="407.6" cy="115.1" r="4" fill="#3465a4"><title>Dalziel Rugby Club</title></circle></a><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><circle cx="379.5" cy="48.4" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s11/db90k10y2k4w2k4t14r12k2r5w4/"><circle cx="325.5" cy="25.6" r="4" fill="#3465a4"><title>Lanyard</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.9" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s4/b124k60w1k2~x2/"><circle cx="433.1" cy="126.4" r="4" fill="#3465a4"><title>Pride of New Zealand, The</title></circle></a><circle cx="419.0" cy="70.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

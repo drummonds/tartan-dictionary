@@ -12,10 +12,10 @@ crumbs:
 - name: "Fitzgerald"
   url: "/tartans/f/fi/fitzgerald-3/"
 - name: "Fitzgerald Blue Irish Family Tartan"
-  url: "/setts/r3db21r3db3k13db13lb3db3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3db21r3db3k13db13lb3db3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fi/fitzgerald-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKBWBW](/stripes/rbrbkbwbw/).
 
 Part of the [Fitzgerald](/tartans/f/fi/fitzgerald-3/) tartan — the named design grouping this sett with its other cloths.

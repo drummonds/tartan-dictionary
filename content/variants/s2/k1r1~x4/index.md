@@ -9,18 +9,18 @@ crumbs:
   url: "/clan/macgregor/"
 - name: "MacGregor"
   url: "/families/macgregor/"
-- name: "MacGregor"
-  url: "/tartans/m/ma/macgregor-9/"
-- name: "Rob Roy"
-  url: "/setts/k1r1/"
+- name: "MacGregor (Red & Black)"
+  url: "/tartans/m/ma/macgregor-red-black/"
+- name: "Welsh Costume (Personal)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1r1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRKRKRKRKRKR](/stripes/krkrkrkrkrkrkrkrkr/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-red-black/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KR](/stripes/kr/).
 
-Part of the [MacGregor](/tartans/m/ma/macgregor-9/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor (Red & Black)](/tartans/m/ma/macgregor-red-black/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4596](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4596)
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7082
 
 ## Thread count
-K/4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R/4
+K/4 R/4
 
-One full sett is **136 threads**.
+One full sett is **8 threads**.
+
+<p class="recorded-note">The source recorded this cloth as 17 repeats of its sett — K/4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R/4 — 136 threads in all.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **136 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R4 K4 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

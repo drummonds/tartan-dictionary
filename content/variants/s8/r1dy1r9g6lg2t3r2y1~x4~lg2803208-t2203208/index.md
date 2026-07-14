@@ -8,10 +8,10 @@ crumbs:
 - name: "Battle of Bannockburn, The"
   url: "/tartans/b/ba/battle-of-bannockburn-the/"
 - name: "Battle of Bannockburn, The"
-  url: "/setts/r1dy1r9g6lg2t3r2y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1dy1r9g6lg2t3r2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/battle-of-bannockburn-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBYGRGR](/stripes/grbygrgr/).
 
 Part of the [Battle of Bannockburn, The](/tartans/b/ba/battle-of-bannockburn-the/) tartan — the named design grouping this sett with its other cloths.

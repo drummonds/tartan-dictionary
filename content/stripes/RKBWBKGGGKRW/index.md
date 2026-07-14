@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1lb2~x2/">Rust Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1lb2~x2/"><img src="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1lb2~x2/sett.png" alt="Rust Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/rust/">Rust</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/rust/"><img src="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1lb2~x2/sett.png" alt="Rust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

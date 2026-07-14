@@ -8,10 +8,10 @@ crumbs:
 - name: "Unnamed"
   url: "/tartans/u/un/unnamed-2/"
 - name: "Unnamed (Hip Flask)"
-  url: "/setts/dg14r5dg14w5k2r5k2w9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg14r5dg14w5k2r5k2w9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unnamed-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWKRKW](/stripes/grgwkrkw/).
 
 Part of the [Unnamed](/tartans/u/un/unnamed-2/) tartan — the named design grouping this sett with its other cloths.

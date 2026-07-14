@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y3db1k2g26db28w1db1r2~x2/">Johnston, Diana Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y3db1k2g26db28w1db1r2~x2/"><img src="/variants/s8/y3db1k2g26db28w1db1r2~x2/sett.png" alt="Johnston, Diana Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/johnston-diana-hunting/">Johnston, Diana Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/johnston-diana-hunting/"><img src="/variants/s8/y3db1k2g26db28w1db1r2~x2/sett.png" alt="Johnston, Diana Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

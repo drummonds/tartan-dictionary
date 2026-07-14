@@ -8,10 +8,10 @@ crumbs:
 - name: "Inverness, Duke of York"
   url: "/tartans/i/in/inverness-duke-of-york/"
 - name: "Inverness, Duke of York"
-  url: "/setts/db122r11w4r15y4db6y4db30/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db122r11w4r15y4db6y4db30/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/inverness-duke-of-york/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGRWRB](/stripes/bgbgrwrb/).
 
 Part of the [Inverness, Duke of York](/tartans/i/in/inverness-duke-of-york/) tartan — the named design grouping this sett with its other cloths.

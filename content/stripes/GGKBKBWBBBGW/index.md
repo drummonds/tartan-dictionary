@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dy2g3k2dr1k9db3lb1db42dr1db2g3w2~x2/">Sedge, Douglas (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dy2g3k2dr1k9db3lb1db42dr1db2g3w2~x2/"><img src="/variants/s12/dy2g3k2dr1k9db3lb1db42dr1db2g3w2~x2/sett.png" alt="Sedge, Douglas (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/sedge-douglas/">Sedge, Douglas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/sedge-douglas/"><img src="/variants/s12/dy2g3k2dr1k9db3lb1db42dr1db2g3w2~x2/sett.png" alt="Sedge, Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

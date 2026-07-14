@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/">Greater St. Louis Firefighters (Cor)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/"><img src="/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/sett.png" alt="Greater St. Louis Firefighters (Cor) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greater-st-louis-firefighters/">Greater St. Louis Firefighters</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greater-st-louis-firefighters/"><img src="/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/sett.png" alt="Greater St. Louis Firefighters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

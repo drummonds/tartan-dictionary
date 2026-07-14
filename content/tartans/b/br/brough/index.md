@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/brough/"
 - name: "Brough"
   url: "/families/brough/"
+aliases:
+- "/setts/r20k14w2k14g9r3g11/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgkwkr/">GRGKWKR</a></nav>
 A tartan of the [Brough](/families/brough/) family.
 Its design is pattern [GRGKWKR](/stripes/grgkwkr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Brough** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r20k14w2k14g9r3g11/">Brough</a></td><td><code>R/40 K28 W4 K28 G18 R6 G/22</code></td><td>230</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r20k14w2k14g9r3g11/"><img src="/variants/s7/r20k14w2k14g9r3g11~x2/sett.png" alt="Brough sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r20k14w2k14g9r3g11~x2/">Brough</a></td><td><code>R/40 K28 W4 K28 G18 R6 G/22</code></td><td>230</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><img src="/variants/s7/r20k14w2k14g9r3g11~x2/sett.png" alt="Brough sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g6r2g13k6w2k16r3~x2/"><circle cx="183.4" cy="189.1" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="140.4" cy="178.4" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="162.2" cy="189.7" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="140.5" cy="216.3" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="140.2" cy="163.0" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><circle cx="90.0" cy="199.6" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="97.1" cy="208.2" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/variants/s6/k3y18g6r17k31g3~x2/"><circle cx="176.4" cy="181.5" r="4" fill="#3465a4"><title>MacMillan Variant</title></circle></a><a href="/variants/s8/k10y2g11r11w1r1w1k9~x2/"><circle cx="134.9" cy="152.1" r="4" fill="#3465a4"><title>Unidentified No 5</title></circle></a><a href="/variants/s6/k3g13k10r13k2r3~x2/"><circle cx="156.2" cy="223.6" r="4" fill="#3465a4"><title>MacCormick Dress</title></circle></a><circle cx="138.5" cy="198.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g6r2g13k6w2k16r3~x2/"><circle cx="184.0" cy="189.1" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="140.7" cy="178.2" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="162.6" cy="189.6" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="140.7" cy="216.2" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="140.6" cy="162.7" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><circle cx="90.2" cy="199.3" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="97.3" cy="207.9" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/variants/s6/k3y18g6r17k31g3~x2/"><circle cx="176.9" cy="181.4" r="4" fill="#3465a4"><title>MacMillan Variant</title></circle></a><a href="/variants/s8/k10y2g11r11w1r1w1k9~x2/"><circle cx="135.4" cy="151.9" r="4" fill="#3465a4"><title>Unidentified No 5</title></circle></a><a href="/variants/s6/k3g13k10r13k2r3~x2/"><circle cx="156.6" cy="223.5" r="4" fill="#3465a4"><title>MacCormick Dress</title></circle></a><circle cx="138.8" cy="198.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

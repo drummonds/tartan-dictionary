@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k3y2k3dr8k8r8dg2r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkbkrgr/">KGKBKRGR</a></nav>
 Its design is pattern [KGKBKRGR](/stripes/kgkbkrgr/) — the page of every tartan sharing this colour sequence.
 
 The **Davis** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Davis** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3y2k3dr8k8r8dg2r3/">Davis</a></td><td><code>K/12 Y8 K12 DR32 K32 R32 DG8 R/12</code></td><td>272</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3y2k3dr8k8r8dg2r3/"><img src="/variants/s8/k3y2k3dr8k8r8dg2r3~x4/sett.png" alt="Davis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3y2k3dr8k8r8dg2r3~x4/">Davis</a></td><td><code>K/12 Y8 K12 DR32 K32 R32 DG8 R/12</code></td><td>272</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3y2k3dr8k8r8dg2r3~x4/"><img src="/variants/s8/k3y2k3dr8k8r8dg2r3~x4/sett.png" alt="Davis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/"><circle cx="58.2" cy="230.8" r="4" fill="#3465a4"><title>Akins Dress</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="102.2" cy="217.4" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="74.4" cy="225.6" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/"><circle cx="93.5" cy="195.3" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s7/dg2ly1dg6dr4r6k1r2~x4/"><circle cx="150.8" cy="217.7" r="4" fill="#3465a4"><title>Unidentified Printing</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="99.6" cy="223.2" r="4" fill="#3465a4"><title>Holden Monaro</title></circle></a><a href="/variants/s6/n2dg2r9k9g2y2~x4~dg1204144-g2408144/"><circle cx="79.8" cy="193.5" r="4" fill="#3465a4"><title>Wolves Wod Kindred</title></circle></a><a href="/variants/s7/db5r17dg16k10db10r17db5~x2/"><circle cx="130.6" cy="265.5" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s8/k14w2k3n14lb6r14k2r3~x2/"><circle cx="87.8" cy="177.2" r="4" fill="#3465a4"><title>Raytheon</title></circle></a><a href="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/"><circle cx="112.5" cy="182.2" r="4" fill="#3465a4"><title>Laois County, Crest Range</title></circle></a><circle cx="100.9" cy="218.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/"><circle cx="58.3" cy="230.5" r="4" fill="#3465a4"><title>Akins Dress</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="102.3" cy="217.1" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="74.5" cy="225.3" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/"><circle cx="93.8" cy="195.1" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s7/dg2ly1dg6dr4r6k1r2~x4/"><circle cx="151.0" cy="217.5" r="4" fill="#3465a4"><title>Unidentified Printing</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="99.8" cy="222.9" r="4" fill="#3465a4"><title>Holden Monaro</title></circle></a><a href="/variants/s6/n2dg2r9k9g2y2~x4~dg1204144-g2408144/"><circle cx="80.0" cy="193.1" r="4" fill="#3465a4"><title>Wolves Wod Kindred</title></circle></a><a href="/variants/s7/db5r17dg16k10db10r17db5~x2/"><circle cx="130.8" cy="265.3" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s8/k14w2k3n14lb6r14k2r3~x2/"><circle cx="88.0" cy="176.8" r="4" fill="#3465a4"><title>Raytheon</title></circle></a><a href="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/"><circle cx="112.7" cy="181.9" r="4" fill="#3465a4"><title>Laois County, Crest Range</title></circle></a><circle cx="101.1" cy="218.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,22 +8,22 @@ crumbs:
 - name: "Granite City"
   url: "/tartans/g/gr/granite-city-2/"
 - name: "Granite City (Fashion)"
-  url: "/setts/k3ni3k3ni21n21k3n3lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3ni3k3ni21n21k3n3lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/granite-city-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBBKBW](/stripes/kbkbbkbw/).
 
 Part of the [Granite City](/tartans/g/gr/granite-city-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7459](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7459)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7459/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7459/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2007 — Granite City (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7459">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#505050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #505050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><br><em>Thought to have been produced for Mike King of Aberdeen. . It is believed that Lochcarron of Scotland have now (Jan 2008) trademarked the word 'Granite' when used in connection with tartans. Count and sample from Lochcarron when woven for McCalls of Aberdeen. Woven sample received Ref. CTST/S394 & called 'Grey Pride' and annotated McCalls. However, Lochcarron already have a tartan called Grey Pride of Scotland at 7519. Needs investigation.</em></li>
+<li>pre 2007 — Granite City (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7459/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#505050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #505050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><br><em>Thought to have been produced for Mike King of Aberdeen. . It is believed that Lochcarron of Scotland have now (Jan 2008) trademarked the word 'Granite' when used in connection with tartans. Count and sample from Lochcarron when woven for McCalls of Aberdeen. Woven sample received Ref. CTST/S394 & called 'Grey Pride' and annotated McCalls. However, Lochcarron already have a tartan called Grey Pride of Scotland at 7519. Needs investigation.</em></li>
 <li>undated — Silver Granite (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5505">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#505050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #505050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><br><em>Produced for Mike King of Philip King Tailoring Ltd, Aberdeen. Previously recorded by the STA as 'Granite City'.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7459](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

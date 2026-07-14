@@ -12,10 +12,10 @@ crumbs:
 - name: "Anthony"
   url: "/tartans/a/an/anthony/"
 - name: "Anthony Plaid Blue"
-  url: "/setts/db18g1dy3g1lr1db1dr2g2dr2lr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18g1dy3g1lr1db1dr2g2dr2lr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/anthony/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGYBBGBY](/stripes/bgggybbgby/).
 
 Part of the [Anthony](/tartans/a/an/anthony/) tartan — the named design grouping this sett with its other cloths.

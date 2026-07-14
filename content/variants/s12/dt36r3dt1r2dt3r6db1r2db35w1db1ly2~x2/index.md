@@ -10,15 +10,15 @@ crumbs:
 - name: "Kirkcaldy Tartan Army"
   url: "/tartans/k/ki/kirkcaldy-tartan-army/"
 - name: "Kirkcaldy Tartan Army"
-  url: "/setts/dt36r3dt1r2dt3r6db1r2db35w1db1ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt36r3dt1r2dt3r6db1r2db35w1db1ly2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRBWBYBWBRBRBRBR](/stripes/brbrbrbrbwbybwbrbrbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kirkcaldy-tartan-army/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRBWBY](/stripes/brbrbrbrbwby/).
 
 Part of the [Kirkcaldy Tartan Army](/tartans/k/ki/kirkcaldy-tartan-army/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2005](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2005)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2005](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2006 — Kirkcaldy Tartan Army (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2005">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RY #BC8C00"></span><br><em>No details known.</em></li>
-<li>2006 January — Kirkcaldy Tartan Army (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6842">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RY #BC8C00"></span><br><em>Designed by Kirsty Anderson of House of Edgar.</em></li>
+<li>2006 January — Kirkcaldy Tartan Army (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6842/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RY #BC8C00"></span><br><em>Designed by Kirsty Anderson of House of Edgar.</em></li>
 </ul>
 </details>
 
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6842
 
 ## Thread count
-DT/72 R6 DT2 R4 DT6 R12 DB2 R4 DB70 W2 DB2 LY4 DB2 W2 DB70 R4 DB2 R12 DT6 R4 DT2 R/6
+DT/72 R6 DT2 R4 DT6 R12 DB2 R4 DB70 W2 DB2 LY/4
 
-One full sett is **514 threads**.
+One full sett is **296 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DT/72 R6 DT2 R4 DT6 R12 DB2 R4 DB70 W2 DB2 LY4 DB2 W2 DB70 R4 DB2 R12 DT6 R4 DT2 R/6 — 514 threads; it folds to the canonical 296-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **514 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/72 R6 DT2 R4 DT6 R12 DB2 R4 DB70 W2 DB2 LY4 DB2 W2 DB70 R4 DB2 R12 DT6 R4 DT2 R/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/72 R6 DT2 R4 DT6 R12 DB2 R4 DB70 W2 DB2 LY/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

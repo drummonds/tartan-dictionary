@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/">Longford County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/"><img src="/variants/s7/db44k9w3k24ly15k6w7~x2/sett.png" alt="Longford County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/longford-county-crest/">Longford County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/longford-county-crest/"><img src="/variants/s7/db44k9w3k24ly15k6w7~x2/sett.png" alt="Longford County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

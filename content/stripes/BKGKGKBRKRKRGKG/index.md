@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13~x2/">Earl of Dumfries (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13~x2/"><img src="/variants/s15/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13~x2/sett.png" alt="Earl of Dumfries (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ea/earl-of-dumfries/">Earl of Dumfries</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ea/earl-of-dumfries/"><img src="/variants/s15/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13~x2/sett.png" alt="Earl of Dumfries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

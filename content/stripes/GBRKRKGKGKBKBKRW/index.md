@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/y2n1r19k2r8k3g9k3g6k2db6k1db5k2r27w1~x2/">Muzzi, Massimiliano, baron of Strichen Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/y2n1r19k2r8k3g9k3g6k2db6k1db5k2r27w1~x2/"><img src="/variants/s16/y2n1r19k2r8k3g9k3g6k2db6k1db5k2r27w1~x2/sett.png" alt="Muzzi, Massimiliano, baron of Strichen Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/muzzi-massimiliano-baron-of-strichen-dress/">Muzzi, Massimiliano, baron of Strichen Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/muzzi-massimiliano-baron-of-strichen-dress/"><img src="/variants/s16/y2n1r19k2r8k3g9k3g6k2db6k1db5k2r27w1~x2/sett.png" alt="Muzzi, Massimiliano, baron of Strichen Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

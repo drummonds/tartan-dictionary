@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/">Highland Park High School (Texas)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/"><img src="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/sett.png" alt="Highland Park High School (Texas) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-park-high-school/">Highland Park High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-park-high-school/"><img src="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/sett.png" alt="Highland Park High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

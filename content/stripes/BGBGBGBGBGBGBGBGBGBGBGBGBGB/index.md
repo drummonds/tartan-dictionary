@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s27/dp14g3dp14g14dp3g3dp3g14dp16g3dp16g14dp1g1dp2g1dp1g14dp1g1dp2g1dp1g14dp14g3dp14~x2/">MacRae (Rae)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s27/dp14g3dp14g14dp3g3dp3g14dp16g3dp16g14dp1g1dp2g1dp1g14dp1g1dp2g1dp1g14dp14g3dp14~x2/"><img src="/variants/s27/dp14g3dp14g14dp3g3dp3g14dp16g3dp16g14dp1g1dp2g1dp1g14dp1g1dp2g1dp1g14dp14g3dp14~x2/sett.png" alt="MacRae (Rae) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s27/dp27g6dp27g28dp5g7dp5g28dp31g6dp31g28dp2g2dp4g2dp2g28dp2g2dp4g2dp2g28dp27g6dp27~x2/">MacRae/Rae</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s27/dp27g6dp27g28dp5g7dp5g28dp31g6dp31g28dp2g2dp4g2dp2g28dp2g2dp4g2dp2g28dp27g6dp27~x2/"><img src="/variants/s27/dp27g6dp27g28dp5g7dp5g28dp31g6dp31g28dp2g2dp4g2dp2g28dp2g2dp4g2dp2g28dp27g6dp27~x2/sett.png" alt="MacRae/Rae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s27/dp27dg12dp54dg56dp10dg14dp10dg56dp62dg12dp62dg56dp4dg4dp8dg4dp4dg56dp4dg4dp8dg4dp4dg56dp54dg12dp27/">Rae (Wilsons) (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s27/dp27dg12dp54dg56dp10dg14dp10dg56dp62dg12dp62dg56dp4dg4dp8dg4dp4dg56dp4dg4dp8dg4dp4dg56dp54dg12dp27/"><img src="/variants/s27/dp27dg12dp54dg56dp10dg14dp10dg56dp62dg12dp62dg56dp4dg4dp8dg4dp4dg56dp4dg4dp8dg4dp4dg56dp54dg12dp27/sett.png" alt="Rae (Wilsons) (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auld-lang-syne-3/">Auld Lang Syne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auld-lang-syne-3/"><img src="/variants/s27/dp27g6dp27g28dp5g7dp5g28dp31g6dp31g28dp2g2dp4g2dp2g28dp2g2dp4g2dp2g28dp27g6dp27~x2/sett.png" alt="Auld Lang Syne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macrae/">MacRae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrae/"><img src="/variants/s27/dp14g3dp14g14dp3g3dp3g14dp16g3dp16g14dp1g1dp2g1dp1g14dp1g1dp2g1dp1g14dp14g3dp14~x2/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rae/">Rae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rae/"><img src="/variants/s27/dp27dg12dp54dg56dp10dg14dp10dg56dp62dg12dp62dg56dp4dg4dp8dg4dp4dg56dp4dg4dp8dg4dp4dg56dp54dg12dp27/sett.png" alt="Rae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

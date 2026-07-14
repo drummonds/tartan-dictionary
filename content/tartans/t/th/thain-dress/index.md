@@ -4,18 +4,24 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y22w1y2w2k2w1k14w1k2w2k2w1k14/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwgwkwkwkwkwk/">GWGWKWKWKWKWK</a></nav>
 Its design is pattern [GWGWKWKWKWKWK](/stripes/gwgwkwkwkwkwk/) — the page of every tartan sharing this colour sequence.
 
 Texas district design with colours drawn from the bluebonnet flower; adopted as the Sesquicentennial Tartan.
 
-The **Thain Dress** tartan is recorded as a single sett.
+The **Thain Dress** tartan is one sett, recorded at 2 scales — the same proportion woven
+finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y22w1y2w2k2w1k14w1k2w2k2w1k14/">Thain Dress</a></td><td><code>Y/88 W4 Y8 W8 K8 W4 K56 W4 K8 W8 K8 W4 K/56</code></td><td>384</td><td>1940</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y22w1y2w2k2w1k14w1k2w2k2w1k14/"><img src="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/sett.png" alt="Thain Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/">Thain Dress</a></td><td><code>Y/22 W1 Y2 W2 K2 W1 K14 W1 K2 W2 K2 W1 K/14</code></td><td>96</td><td>1940</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/"><img src="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/sett.png" alt="Thain Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x2/">Thain, dress</a></td><td><code>Y/44 W2 Y4 W4 K4 W2 K28 W2 K4 W4 K4 W2 K/28</code></td><td>192</td><td>~2003</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/">#1</a></td><td><code>Y/88 W4 Y8 W8 K8 W4 K56 W4 K8 W8 K8 W4 K/56</code></td><td>384</td><td>1940</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x2/">Thain, dress</a> · <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/">#1</a></td></tr>
 </tbody>
 </table>
@@ -37,6 +43,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k44w3lo16w2lo2w2lo2y10k3y8~x2/"><circle cx="242.4" cy="88.9" r="4" fill="#3465a4"><title>Wcwm 1399</title></circle></a><a href="/variants/s11/g17lb2ly2lb2k21lb2k3g30k2lb2k4~x2~g1903114-ly2706114/"><circle cx="272.3" cy="117.8" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/variants/s16/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20~x2/"><circle cx="235.2" cy="117.7" r="4" fill="#3465a4"><title>Corps Suevia Heidelburg</title></circle></a><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="283.6" cy="61.3" r="4" fill="#3465a4"><title>Deudon</title></circle></a><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><circle cx="262.2" cy="58.1" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/variants/s10/k3y3lr3y3k12y24k1y3k3w3~x2/"><circle cx="291.2" cy="100.3" r="4" fill="#3465a4"><title>Bruichladdich</title></circle></a><a href="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/"><circle cx="278.6" cy="122.2" r="4" fill="#3465a4"><title>Johnston Orange/Black</title></circle></a><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/"><circle cx="280.7" cy="113.1" r="4" fill="#3465a4"><title>Drummond</title></circle></a><a href="/variants/s17/ly1w5ly1k1ly1k1ly1k1ly1w5ly1k24ly1k1ly1k1ly1~x2/"><circle cx="328.1" cy="53.9" r="4" fill="#3465a4"><title>MacGuinness</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="294.6" cy="88.9" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><circle cx="278.0" cy="96.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k44w3lo16w2lo2w2lo2y10k3y8~x2/"><circle cx="243.3" cy="88.8" r="4" fill="#3465a4"><title>Wcwm 1399</title></circle></a><a href="/variants/s11/g17lb2ly2lb2k21lb2k3g30k2lb2k4~x2~g1903114-ly2706114/"><circle cx="273.1" cy="117.8" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/variants/s16/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20~x2/"><circle cx="236.0" cy="117.7" r="4" fill="#3465a4"><title>Corps Suevia Heidelburg</title></circle></a><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="284.6" cy="61.2" r="4" fill="#3465a4"><title>Deudon</title></circle></a><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><circle cx="263.1" cy="58.1" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/variants/s10/k3y3lr3y3k12y24k1y3k3w3~x2/"><circle cx="292.1" cy="100.3" r="4" fill="#3465a4"><title>Bruichladdich</title></circle></a><a href="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/"><circle cx="279.4" cy="122.3" r="4" fill="#3465a4"><title>Johnston Orange/Black</title></circle></a><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/"><circle cx="281.7" cy="113.2" r="4" fill="#3465a4"><title>Drummond</title></circle></a><a href="/variants/s17/ly1w5ly1k1ly1k1ly1k1ly1w5ly1k24ly1k1ly1k1ly1~x2/"><circle cx="329.2" cy="53.9" r="4" fill="#3465a4"><title>MacGuinness</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="295.7" cy="88.9" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><circle cx="278.9" cy="96.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/alexander/"
 - name: "Alexander of Menstry"
   url: "/families/alexander-of-menstry/"
+aliases:
+- "/setts/g5o2g2o9k9lr9db30w5/"
+- "/setts/g5o2g2o9k9lb9db30w5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgrkybw/">GRGRKYBW</a></nav>
 A tartan of the [Alexander of Menstry](/families/alexander-of-menstry/) family.
 Its design is pattern [GRGRKYBW](/stripes/grgrkybw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Alexander of Menstry** tartan groups 2 setts — the same named design rec
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g5o2g2o9k9lr9db30w5/">Alexander of Menstry</a> ★</td><td><code>G/10 O4 G4 O18 K18 LR18 DB60 W/10</code></td><td>264</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g5o2g2o9k9lr9db30w5/"><img src="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/sett.png" alt="Alexander of Menstry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g5o2g2o9k9lb9db30w5/">(Personal)</a></td><td><code>G/10 O4 G4 O18 K18 LB18 DB60 W/10</code></td><td>264</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g5o2g2o9k9lb9db30w5/"><img src="/variants/s8/g5o2g2o9k9lb9db30w5~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/">Alexander of Menstry</a> ★</td><td><code>G/10 O4 G4 O18 K18 LR18 DB60 W/10</code></td><td>264</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/"><img src="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/sett.png" alt="Alexander of Menstry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g5o2g2o9k9lb9db30w5~x2/">(Personal)</a></td><td><code>G/10 O4 G4 O18 K18 LB18 DB60 W/10</code></td><td>264</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g5o2g2o9k9lb9db30w5~x2/"><img src="/variants/s8/g5o2g2o9k9lb9db30w5~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k16w6k4b64m19k8g42y6/"><circle cx="137.5" cy="130.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/k6w3k2db30r9k4g20dy3~x2/"><circle cx="137.9" cy="130.2" r="4" fill="#3465a4"><title>Minnesota</title></circle></a><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="108.7" cy="140.5" r="4" fill="#3465a4"><title>Moran</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="142.6" cy="140.8" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><circle cx="132.6" cy="140.5" r="4" fill="#3465a4"><title>FWI of Ontario</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="143.5" cy="162.8" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="159.0" cy="118.2" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s9/w3db25dr3r3dr3r5g10dr3k2~x2/"><circle cx="173.4" cy="129.7" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/"><circle cx="148.5" cy="110.5" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2/"><circle cx="125.6" cy="114.0" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><circle cx="138.4" cy="129.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k16w6k4b64m19k8g42y6/"><circle cx="137.9" cy="130.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/k6w3k2db30r9k4g20dy3~x2/"><circle cx="138.4" cy="129.9" r="4" fill="#3465a4"><title>Minnesota</title></circle></a><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="109.1" cy="140.2" r="4" fill="#3465a4"><title>Moran</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="143.1" cy="140.5" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><circle cx="133.0" cy="140.2" r="4" fill="#3465a4"><title>FWI of Ontario</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="143.9" cy="162.5" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="159.6" cy="117.9" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s9/w3db25dr3r3dr3r5g10dr3k2~x2/"><circle cx="173.9" cy="129.4" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/"><circle cx="149.0" cy="110.2" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2/"><circle cx="126.0" cy="113.7" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><circle cx="138.8" cy="129.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

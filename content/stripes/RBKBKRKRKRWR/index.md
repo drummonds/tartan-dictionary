@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/">Urquhart (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><img src="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/sett.png" alt="Urquhart (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/ur/urquhart-2/">Urquhart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/ur/urquhart-2/"><img src="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

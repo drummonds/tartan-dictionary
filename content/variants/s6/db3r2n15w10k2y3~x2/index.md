@@ -8,10 +8,10 @@ crumbs:
 - name: "SCH '67 Class"
   url: "/tartans/s/sc/sch-67-class/"
 - name: "SCH '67 Class"
-  url: "/setts/db3r2n15w10k2y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3r2n15w10k2y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/sch-67-class/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWKG](/stripes/brbwkg/).
 
 Part of the [SCH '67 Class](/tartans/s/sc/sch-67-class/) tartan — the named design grouping this sett with its other cloths.

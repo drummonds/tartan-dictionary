@@ -12,17 +12,17 @@ crumbs:
 - name: "Riddoch"
   url: "/tartans/r/ri/riddoch/"
 - name: "Riddoch (Name)"
-  url: "/setts/db8k1db1k1db1k8r1g14r1k8db8k1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8k1db1k1db1k8r1g14r1k8db8k1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ri/riddoch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKRGRKBKB](/stripes/bkbkbkrgrkbkb/).
 
 Part of the [Riddoch](/tartans/r/ri/riddoch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3316/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3316/*)
 
 ## Provenance
 
@@ -31,7 +31,7 @@ Earliest known date: 1992 Designed by Tony Murray for an Albert (Bert) Riddoch o
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1992 — Riddoch (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#688094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #688094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#689840;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #689840"></span><br><em>Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investigator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. Design too close to Fletcher 919840 #224.</em></li>
+<li>1992 — Riddoch (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3316/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#688094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #688094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#689840;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #689840"></span><br><em>Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investigator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. Design too close to Fletcher 919840 #224.</em></li>
 <li>1992 — Riddoch Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3316">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#688094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #688094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#689840;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #689840"></span></li>
 </ul>
 </details>
@@ -46,7 +46,7 @@ Earliest known date: 1992 Designed by Tony Murray for an Albert (Bert) Riddoch o
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

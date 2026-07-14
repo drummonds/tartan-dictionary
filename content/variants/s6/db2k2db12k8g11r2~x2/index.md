@@ -12,10 +12,10 @@ crumbs:
 - name: "Murray"
   url: "/tartans/m/mu/murray-2/"
 - name: "Murray (Variation) Clan Tartan"
-  url: "/setts/db2k2db12k8g11r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2k2db12k8g11r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murray-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGR](/stripes/bkbkgr/).
 
 Part of the [Murray](/tartans/m/mu/murray-2/) tartan — the named design grouping this sett with its other cloths.

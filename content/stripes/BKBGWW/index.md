@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db15k10n30dy11w3lb5~x2/">McHale, Barry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db15k10n30dy11w3lb5~x2/"><img src="/variants/s6/db15k10n30dy11w3lb5~x2/sett.png" alt="McHale, Barry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mchale-barry/">McHale, Barry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mchale-barry/"><img src="/variants/s6/db15k10n30dy11w3lb5~x2/sett.png" alt="McHale, Barry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

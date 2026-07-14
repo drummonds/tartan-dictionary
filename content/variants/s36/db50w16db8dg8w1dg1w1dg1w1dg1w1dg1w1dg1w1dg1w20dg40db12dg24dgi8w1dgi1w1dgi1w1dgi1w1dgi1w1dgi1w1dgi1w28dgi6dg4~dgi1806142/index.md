@@ -8,10 +8,10 @@ crumbs:
 - name: "British Columbia"
   url: "/tartans/b/br/british-columbia/"
 - name: "British Columbia (CIDD 28107)"
-  url: "/setts/db50w16db8dg8w1dg1w1dg1w1dg1w1dg1w1dg1w1dg1w20dg40db12dg24dgi8w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w28dgi6dg4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db50w16db8dg8w1dg1w1dg1w1dg1w1dg1w1dg1w1dg1w20dg40db12dg24dgi8w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w28dgi6dg4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/british-columbia/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGWGWGWGWGWGWGWGBGGWGWGWGWGWGWGWGG](/stripes/bwbgwgwgwgwgwgwgwgbggwgwgwgwgwgwgwgg/).
 
 Part of the [British Columbia](/tartans/b/br/british-columbia/) tartan — the named design grouping this sett with its other cloths.

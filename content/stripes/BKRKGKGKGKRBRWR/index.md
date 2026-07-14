@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/">Black Scottish National Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/"><img src="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/sett.png" alt="Black Scottish National Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-scottish-national/">Black Scottish National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-scottish-national/"><img src="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/sett.png" alt="Black Scottish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

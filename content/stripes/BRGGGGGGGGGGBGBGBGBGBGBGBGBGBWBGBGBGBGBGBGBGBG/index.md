@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s46/dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1~g2408144-dg1806142/">Virginia (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s46/dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1~g2408144-dg1806142/"><img src="/variants/s46/dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1~g2408144-dg1806142/sett.png" alt="Virginia (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/virginia/">Virginia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/virginia/"><img src="/variants/s46/dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1~g2408144-dg1806142/sett.png" alt="Virginia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

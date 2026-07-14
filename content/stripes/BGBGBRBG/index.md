@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/">Glen Erin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/"><img src="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/sett.png" alt="Glen Erin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-erin/">Glen Erin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-erin/"><img src="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/sett.png" alt="Glen Erin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

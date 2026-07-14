@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/">Wallace Memorial Centenary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/"><img src="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/sett.png" alt="Wallace Memorial Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wallace-memorial-centenary/">Wallace Memorial Centenary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wallace-memorial-centenary/"><img src="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/sett.png" alt="Wallace Memorial Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

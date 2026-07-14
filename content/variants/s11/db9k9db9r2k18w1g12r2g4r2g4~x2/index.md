@@ -12,10 +12,10 @@ crumbs:
 - name: "Newman"
   url: "/tartans/n/ne/newman/"
 - name: "Newman"
-  url: "/setts/db9k9db9r2k18w1g12r2g4r2g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db9k9db9r2k18w1g12r2g4r2g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/newman/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRKWGRGRG](/stripes/bkbrkwgrgrg/).
 
 Part of the [Newman](/tartans/n/ne/newman/) tartan — the named design grouping this sett with its other cloths.

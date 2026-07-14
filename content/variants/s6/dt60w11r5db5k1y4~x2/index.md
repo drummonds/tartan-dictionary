@@ -12,10 +12,10 @@ crumbs:
 - name: "Christie Hunting"
   url: "/tartans/c/ch/christie-hunting/"
 - name: "Christie (London) Hunting"
-  url: "/setts/dt60w11r5db5k1y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt60w11r5db5k1y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/christie-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBKG](/stripes/bwrbkg/).
 
 Part of the [Christie Hunting](/tartans/c/ch/christie-hunting/) tartan — the named design grouping this sett with its other cloths.

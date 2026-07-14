@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/">Fitzgibbon Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><img src="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/sett.png" alt="Fitzgibbon Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fitzgibbon/">Fitzgibbon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fitzgibbon/"><img src="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/sett.png" alt="Fitzgibbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

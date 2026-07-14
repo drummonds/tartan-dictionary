@@ -28,12 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/">Nickel Lodge Centennial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/"><img src="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/sett.png" alt="Nickel Lodge Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/n36y2n1y2n4db12w8dy2g12~x2/">Nickel Lodge Centennial (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n36y2n1y2n4db12w8dy2g12~x2/"><img src="/variants/s9/n36y2n1y2n4db12w8dy2g12~x2/sett.png" alt="Nickel Lodge Centennial (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/n18y1n2y1n2db6w4dy1g6~x2/">Nickel Lodge Centennial Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n18y1n2y1n2db6w4dy1g6~x2/"><img src="/variants/s9/n18y1n2y1n2db6w4dy1g6~x2/sett.png" alt="Nickel Lodge Centennial Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ni/nickel-lodge-centennial/">Nickel Lodge Centennial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nickel-lodge-centennial/"><img src="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/sett.png" alt="Nickel Lodge Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

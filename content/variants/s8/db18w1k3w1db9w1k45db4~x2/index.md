@@ -8,10 +8,10 @@ crumbs:
 - name: "Lynn"
   url: "/tartans/l/ly/lynn/"
 - name: "Lynn (Personal)"
-  url: "/setts/db18w1k3w1db9w1k45db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18w1k3w1db9w1k45db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/ly/lynn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBWKWB](/stripes/bkwbwkwb/).
 
 Part of the [Lynn](/tartans/l/ly/lynn/) tartan — the named design grouping this sett with its other cloths.

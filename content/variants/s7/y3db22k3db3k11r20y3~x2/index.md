@@ -8,10 +8,10 @@ crumbs:
 - name: "Biffy Clyro"
   url: "/tartans/b/bi/biffy-clyro/"
 - name: "Biffy Clyro"
-  url: "/setts/y3db22k3db3k11r20y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3db22k3db3k11r20y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bi/biffy-clyro/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKRG](/stripes/gbkbkrg/).
 
 Part of the [Biffy Clyro](/tartans/b/bi/biffy-clyro/) tartan — the named design grouping this sett with its other cloths.

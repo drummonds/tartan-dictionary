@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/">McIntosh, Stuart (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><img src="/variants/s6/dp20lb8g8db8dp33r3~x2/sett.png" alt="McIntosh, Stuart (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcintosh-stuart/">McIntosh, Stuart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcintosh-stuart/"><img src="/variants/s6/dp20lb8g8db8dp33r3~x2/sett.png" alt="McIntosh, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

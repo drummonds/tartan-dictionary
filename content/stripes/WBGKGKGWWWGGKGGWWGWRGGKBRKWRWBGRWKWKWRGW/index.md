@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s40/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/">Valencia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s40/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/"><img src="/variants/s40/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/sett.png" alt="Valencia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/valencia/">Valencia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/valencia/"><img src="/variants/s40/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/sett.png" alt="Valencia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

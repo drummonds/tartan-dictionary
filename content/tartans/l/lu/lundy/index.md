@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lb2k2dg8g8r1g1w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wgrggkw/">WGRGGKW</a></nav>
 Its design is pattern [WGRGGKW](/stripes/wgrggkw/) — the page of every tartan sharing this colour sequence.
 
 The **Lundy** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Lundy** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb2k2dg8g8r1g1w1/">Lundy</a></td><td><code>LB/8 K8 DG32 G32 R4 G4 W/4</code></td><td>172</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb2k2dg8g8r1g1w1/"><img src="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/sett.png" alt="Lundy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/">Lundy</a></td><td><code>LB/8 K8 DG32 G32 R4 G4 W/4</code></td><td>172</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/"><img src="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/sett.png" alt="Lundy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db20r2g9w6y4k2g8~x2/"><circle cx="126.2" cy="172.4" r="4" fill="#3465a4"><title>Crofters</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="177.7" cy="178.7" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s6/db20k6ly4db3g20w2~x2/"><circle cx="175.9" cy="187.2" r="4" fill="#3465a4"><title>DeLoughery</title></circle></a><a href="/variants/s8/y1ly4k1r1k1g4w1g1~x8~ly2704144-g2304202/"><circle cx="66.6" cy="208.6" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s6/k3y3db20g25lb18w3~x2/"><circle cx="104.9" cy="192.8" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="114.1" cy="170.0" r="4" fill="#3465a4"><title>Morris of Eddergoll</title></circle></a><a href="/variants/s7/k5g30y3t15k15t7w3~x2/"><circle cx="139.7" cy="183.8" r="4" fill="#3465a4"><title>Dick</title></circle></a><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="218.5" cy="175.8" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="199.6" cy="150.8" r="4" fill="#3465a4"><title>Shawlands International</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="165.0" cy="169.1" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><circle cx="149.4" cy="184.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db20r2g9w6y4k2g8~x2/"><circle cx="126.4" cy="172.1" r="4" fill="#3465a4"><title>Crofters</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="178.0" cy="178.5" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s6/db20k6ly4db3g20w2~x2/"><circle cx="176.2" cy="187.0" r="4" fill="#3465a4"><title>DeLoughery</title></circle></a><a href="/variants/s8/y1ly4k1r1k1g4w1g1~x8~ly2704144-g2304202/"><circle cx="66.5" cy="208.2" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s6/k3y3db20g25lb18w3~x2/"><circle cx="105.0" cy="192.5" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="114.4" cy="169.7" r="4" fill="#3465a4"><title>Morris of Eddergoll</title></circle></a><a href="/variants/s7/k5g30y3t15k15t7w3~x2/"><circle cx="140.0" cy="183.6" r="4" fill="#3465a4"><title>Dick</title></circle></a><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="219.0" cy="175.7" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="200.1" cy="150.6" r="4" fill="#3465a4"><title>Shawlands International</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="165.3" cy="168.9" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><circle cx="149.6" cy="184.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

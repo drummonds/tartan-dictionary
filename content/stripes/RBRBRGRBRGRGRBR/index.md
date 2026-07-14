@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/">Grant of Ballindalloch (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/"><img src="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/sett.png" alt="Grant of Ballindalloch (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grant-of-ballindalloch/">Grant of Ballindalloch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-of-ballindalloch/"><img src="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4~db1406275/sett.png" alt="Grant of Ballindalloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

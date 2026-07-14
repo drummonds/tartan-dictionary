@@ -8,10 +8,10 @@ crumbs:
 - name: "Johnnie Walker"
   url: "/tartans/j/jo/johnnie-walker-3/"
 - name: "Johnnie Walker"
-  url: "/setts/k15r2k1r2k1r4b1k1r14k1r2k1r1k10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k15r2k1r2k1r4b1k1r14k1r2k1r1k10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/jo/johnnie-walker-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRBKRKRKRK](/stripes/krkrkrbkrkrkrk/).
 
 Part of the [Johnnie Walker](/tartans/j/jo/johnnie-walker-3/) tartan — the named design grouping this sett with its other cloths.

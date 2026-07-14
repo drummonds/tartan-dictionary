@@ -8,10 +8,10 @@ crumbs:
 - name: "The Open Championship"
   url: "/tartans/t/th/the-open-championship/"
 - name: "The Open Championship"
-  url: "/setts/w2dbi15n2db20r9w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2dbi15n2db20r9w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/the-open-championship/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBRW](/stripes/wbbbrw/).
 
 Part of the [The Open Championship](/tartans/t/th/the-open-championship/) tartan — the named design grouping this sett with its other cloths.

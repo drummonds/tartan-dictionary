@@ -8,10 +8,10 @@ crumbs:
 - name: "Federal Bureaux"
   url: "/tartans/f/fe/federal-bureaux/"
 - name: "Federal Bureaux (FBI) Corporate Tartan"
-  url: "/setts/lb60db19w3db2r2db7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb60db19w3db2r2db7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/federal-bureaux/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBW](/stripes/brbwbw/).
 
 Part of the [Federal Bureaux](/tartans/f/fe/federal-bureaux/) tartan — the named design grouping this sett with its other cloths.

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r1k7g7k7db7k7r1w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkgkbkrw/">RKGKBKRW</a></nav>
 Its design is pattern [RKGKBKRW](/stripes/rkgkbkrw/) — the page of every tartan sharing this colour sequence.
 
 The **Tennent** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Tennent** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r1k7g7k7db7k7r1w1/">Tennent</a></td><td><code>R/4 K28 G28 K28 DB28 K28 R4 W/4</code></td><td>296</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1k7g7k7db7k7r1w1/"><img src="/variants/s8/r1k7g7k7db7k7r1w1~x4/sett.png" alt="Tennent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r1k7g7k7db7k7r1w1~x4/">Tennent</a></td><td><code>R/4 K28 G28 K28 DB28 K28 R4 W/4</code></td><td>296</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r1k7g7k7db7k7r1w1~x4/"><img src="/variants/s8/r1k7g7k7db7k7r1w1~x4/sett.png" alt="Tennent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="259.2" cy="188.8" r="4" fill="#3465a4"><title>Givens</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="197.0" cy="215.2" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="249.6" cy="177.8" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="271.4" cy="185.3" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="177.3" cy="214.8" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="155.5" cy="213.3" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/variants/s6/k3db12r2k12g12k3~x2/"><circle cx="149.6" cy="222.7" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/"><circle cx="144.4" cy="183.4" r="4" fill="#3465a4"><title>Tayside Police</title></circle></a><a href="/variants/s9/k10dp3db4dp3k7b3g8k17y2~x2/"><circle cx="216.9" cy="157.0" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="154.3" cy="191.4" r="4" fill="#3465a4"><title>Triad Highland Games</title></circle></a><circle cx="188.9" cy="189.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="259.9" cy="188.9" r="4" fill="#3465a4"><title>Givens</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="197.6" cy="215.2" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="250.4" cy="177.8" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="272.3" cy="185.4" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="177.8" cy="214.7" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="155.9" cy="213.2" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/variants/s6/k3db12r2k12g12k3~x2/"><circle cx="149.9" cy="222.6" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/"><circle cx="144.7" cy="183.2" r="4" fill="#3465a4"><title>Tayside Police</title></circle></a><a href="/variants/s9/k10dp3db4dp3k7b3g8k17y2~x2/"><circle cx="217.6" cy="157.0" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="154.7" cy="191.3" r="4" fill="#3465a4"><title>Triad Highland Games</title></circle></a><circle cx="189.5" cy="189.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

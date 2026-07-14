@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/maclaren/"
 - name: "MacLaren"
   url: "/families/maclaren/"
+aliases:
+- "/setts/db2w12k8g8r2g8k1y2/"
+- "/setts/db2w12k8g8r2g8k1lo2/"
+- "/setts/db7w30k13g9r6g16k2y7/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwkgrgkg/">BWKGRGKG</a></nav>
 A tartan of the [MacLaren](/families/maclaren/) family.
 Its design is pattern [BWKGRGKG](/stripes/bwkgrgkg/) — the page of every tartan sharing this colour sequence.
 
@@ -18,12 +23,12 @@ The **MacLaren Dress** tartan groups 3 setts — the same named design recorded 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db2w12k8g8r2g8k1y2/">MacLaren Dress</a> ★</td><td><code>Y/4 K2 G16 R4 G16 K16 W24 DB/4</code></td><td>164</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2w12k8g8r2g8k1y2/"><img src="/variants/s8/db2w12k8g8r2g8k1y2~x2/sett.png" alt="MacLaren Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db2w12k8g8r2g8k1lo2/">(Clan)</a></td><td><code>LO/4 K2 G16 R4 G16 K16 W24 DB/4</code></td><td>164</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2w12k8g8r2g8k1lo2/"><img src="/variants/s8/db2w12k8g8r2g8k1lo2~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db7w30k13g9r6g16k2y7/">MacLaren dress</a></td><td><code>Y/14 K4 G32 R12 G18 K26 W60 DB/14</code></td><td>332</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db7w30k13g9r6g16k2y7/"><img src="/variants/s8/db7w30k13g9r6g16k2y7~x2/sett.png" alt="MacLaren dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db2w12k8g8r2g8k1y2~x2/">MacLaren Dress</a> ★</td><td><code>DB/4 W24 K16 G16 R4 G16 K2 Y/4</code></td><td>164</td><td>1981</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db2w12k8g8r2g8k1y2~x2/"><img src="/variants/s8/db2w12k8g8r2g8k1y2~x2/sett.png" alt="MacLaren Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db2w12k8g8r2g8k1lo2~x2/">(Clan)</a></td><td><code>DB/4 W24 K16 G16 R4 G16 K2 LO/4</code></td><td>164</td><td>1981</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db2w12k8g8r2g8k1lo2~x2/"><img src="/variants/s8/db2w12k8g8r2g8k1lo2~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db7w30k13g9r6g16k2y7~x2/">MacLaren dress</a></td><td><code>DB/14 W60 K26 G18 R12 G32 K4 Y/14</code></td><td>332</td><td>1981</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db7w30k13g9r6g16k2y7~x2/"><img src="/variants/s8/db7w30k13g9r6g16k2y7~x2/sett.png" alt="MacLaren dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -42,6 +47,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.4" cy="137.2" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="53.3" cy="157.7" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="104.1" cy="179.6" r="4" fill="#3465a4"><title>MacRobart Dress</title></circle></a><a href="/variants/s7/y8k3b2db1w6g12db2~x2/"><circle cx="95.3" cy="173.3" r="4" fill="#3465a4"><title>Carmen Lau</title></circle></a><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><circle cx="119.7" cy="154.2" r="4" fill="#3465a4"><title>Red Deer, City of</title></circle></a><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="95.6" cy="149.6" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="122.1" cy="158.7" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="115.3" cy="162.6" r="4" fill="#3465a4"><title>Hackett, William</title></circle></a><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><circle cx="130.5" cy="124.4" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="121.3" cy="155.4" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><circle cx="85.0" cy="160.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.6" cy="136.8" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="53.4" cy="157.2" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="104.3" cy="179.3" r="4" fill="#3465a4"><title>MacRobart Dress</title></circle></a><a href="/variants/s7/y8k3b2db1w6g12db2~x2/"><circle cx="95.4" cy="173.0" r="4" fill="#3465a4"><title>Carmen Lau</title></circle></a><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><circle cx="120.0" cy="153.9" r="4" fill="#3465a4"><title>Red Deer, City of</title></circle></a><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="95.8" cy="149.3" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="122.3" cy="158.4" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="115.6" cy="162.3" r="4" fill="#3465a4"><title>Hackett, William</title></circle></a><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><circle cx="130.9" cy="124.1" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="121.5" cy="155.1" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><circle cx="85.2" cy="159.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Forest"
   url: "/tartans/g/gl/glen-forest/"
 - name: "Glen Forest"
-  url: "/setts/o10dy5w8ly8dy5w8dy14w4dy5w4ly5w4ly4y10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o10dy5w8ly8dy5w8dy14w4dy5w4ly5w4ly4y10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-forest/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYWYWGWGWGYWGR](/stripes/gywywgwgwgywgr/).
 
 Part of the [Glen Forest](/tartans/g/gl/glen-forest/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1380](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Glen Forest (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1380">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C04C08;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MR #C04C08"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Woven sample.</em></li>
-<li>1972 — Glen Forest (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5010">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C04C08;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MR #C04C08"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Woven sample.</em></li>
+<li>1972 — Glen Forest (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5010/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C04C08;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MR #C04C08"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Woven sample.</em></li>
 </ul>
 </details>
 

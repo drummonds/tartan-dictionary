@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/">Ben Vorlich (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><img src="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/sett.png" alt="Ben Vorlich (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/ben-vorlich/">Ben Vorlich</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/ben-vorlich/"><img src="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/sett.png" alt="Ben Vorlich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

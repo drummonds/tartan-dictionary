@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/">Ryukoku University Heian Senior High School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/"><img src="/variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/sett.png" alt="Ryukoku University Heian Senior High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ry/ryukoku-university-heian-senior-high-school/">Ryukoku University Heian Senior High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ry/ryukoku-university-heian-senior-high-school/"><img src="/variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/sett.png" alt="Ryukoku University Heian Senior High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

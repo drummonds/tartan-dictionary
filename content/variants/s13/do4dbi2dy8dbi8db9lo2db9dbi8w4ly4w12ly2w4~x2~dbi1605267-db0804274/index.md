@@ -8,10 +8,10 @@ crumbs:
 - name: "Unidentified Gordon variant"
   url: "/tartans/u/un/unidentified-gordon-variant/"
 - name: "Unidentified Gordon variant"
-  url: "/setts/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-gordon-variant/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBYBBWYWYW](/stripes/bbgbbybbwywyw/).
 
 Part of the [Unidentified Gordon variant](/tartans/u/un/unidentified-gordon-variant/) tartan — the named design grouping this sett with its other cloths.

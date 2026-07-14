@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr1ri3r1g1dp1/"
+- "/setts/dr1r3ri1g1dp1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgrrb/">BGRRB</a></nav>
 Its design is pattern [BGRRB](/stripes/bgrrb/) — the page of every tartan sharing this colour sequence.
 
 The **Blairgowrie Berries and Cherries** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Blairgowrie Berries and Cherries** tartan groups 2 setts — the same name
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr1ri3r1g1dp1/">Blairgowrie Berries and Cherries</a> ★</td><td><code>DP/4 G4 R4 Ri12 DR/4</code></td><td>48</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr1ri3r1g1dp1/"><img src="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/sett.png" alt="Blairgowrie Berries and Cherries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dr1r3ri1g1dp1/">Blairgowrie Berries and Cherries</a></td><td><code>DP/8 G8 Ri8 R24 DR/8</code></td><td>96</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr1r3ri1g1dp1/"><img src="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/sett.png" alt="Blairgowrie Berries and Cherries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/">Blairgowrie Berries and Cherries</a> ★</td><td><code>DR/4 Ri12 R4 G4 DP/4</code></td><td>48</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/"><img src="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/sett.png" alt="Blairgowrie Berries and Cherries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/">Blairgowrie Berries and Cherries</a></td><td><code>DR/8 R24 Ri8 G8 DP/8</code></td><td>96</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/"><img src="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/sett.png" alt="Blairgowrie Berries and Cherries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/g4r32dr34w3~r1908029/"><circle cx="346.1" cy="238.6" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/variants/s3/t10r10dr3~x2/"><circle cx="266.7" cy="349.5" r="4" fill="#3465a4"><title>Masai Shuka 19</title></circle></a><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/"><circle cx="35.6" cy="324.6" r="4" fill="#3465a4"><title>Lytley Formal</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="239.3" cy="240.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="222.8" cy="305.9" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s5/g15dg18dp23w4r8~x2/"><circle cx="127.4" cy="270.2" r="4" fill="#3465a4"><title>Friebe</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="251.3" cy="207.6" r="4" fill="#3465a4"><title>Stevens</title></circle></a><a href="/variants/s4/k13dr40r13n8~x2/"><circle cx="273.1" cy="251.7" r="4" fill="#3465a4"><title>Maryville College</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.9" cy="242.6" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/db2dp3g3n6y2~x2/"><circle cx="207.4" cy="356.7" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><circle cx="219.0" cy="304.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/g4r32dr34w3~r1908029/"><circle cx="346.6" cy="238.7" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/variants/s3/t10r10dr3~x2/"><circle cx="266.8" cy="349.6" r="4" fill="#3465a4"><title>Masai Shuka 19</title></circle></a><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/"><circle cx="35.2" cy="324.2" r="4" fill="#3465a4"><title>Lytley Formal</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="239.6" cy="240.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="222.8" cy="305.8" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s5/g15dg18dp23w4r8~x2/"><circle cx="127.3" cy="270.0" r="4" fill="#3465a4"><title>Friebe</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="251.6" cy="207.5" r="4" fill="#3465a4"><title>Stevens</title></circle></a><a href="/variants/s4/k13dr40r13n8~x2/"><circle cx="273.6" cy="251.8" r="4" fill="#3465a4"><title>Maryville College</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="237.1" cy="242.5" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/db2dp3g3n6y2~x2/"><circle cx="207.0" cy="356.6" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><circle cx="218.9" cy="303.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

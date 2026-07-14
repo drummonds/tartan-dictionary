@@ -12,10 +12,10 @@ crumbs:
 - name: "Dalmeny"
   url: "/tartans/d/da/dalmeny-2/"
 - name: "Dalmeny (Wlison's) Family Tartan"
-  url: "/setts/r4g15k15db15w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4g15k15db15w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dalmeny-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKBW](/stripes/rgkbw/).
 
 Part of the [Dalmeny](/tartans/d/da/dalmeny-2/) tartan — the named design grouping this sett with its other cloths.

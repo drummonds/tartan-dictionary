@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/">Model T Ford (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><img src="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/sett.png" alt="Model T Ford (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/model-t-ford/">Model T Ford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/model-t-ford/"><img src="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/sett.png" alt="Model T Ford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

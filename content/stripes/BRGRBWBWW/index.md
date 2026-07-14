@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dp12r1g4r2dp10lb20db3lb9w1~x2/">Japan–Scotland Society, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp12r1g4r2dp10lb20db3lb9w1~x2/"><img src="/variants/s9/dp12r1g4r2dp10lb20db3lb9w1~x2/sett.png" alt="Japan–Scotland Society, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/japan-scotland-society/">Japan-Scotland Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/japan-scotland-society/"><img src="/variants/s9/dp12r1g4r2dp10lb20db3lb9w1~x2/sett.png" alt="Japan-Scotland Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

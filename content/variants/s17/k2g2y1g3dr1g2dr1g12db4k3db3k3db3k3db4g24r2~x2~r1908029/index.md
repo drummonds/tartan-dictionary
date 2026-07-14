@@ -12,10 +12,10 @@ crumbs:
 - name: "Kennedy"
   url: "/tartans/k/ke/kennedy-3/"
 - name: "Kennedy"
-  url: "/setts/k2g2y1g3dr1g2dr1g12db4k3db3k3db3k3db4g24r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2g2y1g3dr1g2dr1g12db4k3db3k3db3k3db4g24r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kennedy-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGGBGBGBKBKBKBGR](/stripes/kgggbgbgbkbkbkbgr/).
 
 Part of the [Kennedy](/tartans/k/ke/kennedy-3/) tartan — the named design grouping this sett with its other cloths.
@@ -66,7 +66,7 @@ One full sett is **284 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.01** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.02** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

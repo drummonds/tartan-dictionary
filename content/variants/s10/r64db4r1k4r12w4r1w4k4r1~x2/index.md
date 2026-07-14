@@ -12,10 +12,10 @@ crumbs:
 - name: "Ramsay"
   url: "/tartans/r/ra/ramsay/"
 - name: "Ramsay (Angus & Mearns)"
-  url: "/setts/r64db4r1k4r12w4r1w4k4r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r64db4r1k4r12w4r1w4k4r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/ramsay/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRKRWRWKR](/stripes/rbrkrwrwkr/).
 
 Part of the [Ramsay](/tartans/r/ra/ramsay/) tartan — the named design grouping this sett with its other cloths.

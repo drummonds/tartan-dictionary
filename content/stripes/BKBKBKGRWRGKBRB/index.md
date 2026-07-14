@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/">MacKenzie Morgan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><img src="/variants/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/sett.png" alt="MacKenzie Morgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackenzie-morgan/">MacKenzie Morgan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackenzie-morgan/"><img src="/variants/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/sett.png" alt="MacKenzie Morgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

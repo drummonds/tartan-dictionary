@@ -8,10 +8,10 @@ crumbs:
 - name: "Wilson's Blanket Pattern"
   url: "/tartans/w/wi/wilson-s-blanket-pattern/"
 - name: "Wilson's Blanket Pattern"
-  url: "/setts/w50k1r14w1dg14r14w1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w50k1r14w1dg14r14w1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-blanket-pattern/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGWRKW](/stripes/rwrgwrkw/).
 
 Part of the [Wilson's Blanket Pattern](/tartans/w/wi/wilson-s-blanket-pattern/) tartan — the named design grouping this sett with its other cloths.

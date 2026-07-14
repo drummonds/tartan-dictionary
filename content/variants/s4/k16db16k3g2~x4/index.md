@@ -8,17 +8,17 @@ crumbs:
 - name: "Arundel County"
   url: "/tartans/a/ar/arundel-county-2/"
 - name: "Arundel County (District)"
-  url: "/setts/k16db16k3g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k16db16k3g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/arundel-county-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKKKK](/stripes/gkbkkkk/).
 
 Part of the [Arundel County](/tartans/a/ar/arundel-county-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4149](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4149)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/4149/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4149/*)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -30,7 +30,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4149](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
@@ -43,9 +43,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4149
 
 ## Thread count
-K/28 K16 K4 K16 DB64 K12 G/8
+K/64 DB64 K12 G/8
 
-One full sett is **260 threads**.
+One full sett is **224 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/28 K16 K4 K16 DB64 K12 G/8 — 260 threads; it folds to the canonical 224-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **260 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/28 K16 K4 K16 DB64 K12 G/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/64 DB64 K12 G/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

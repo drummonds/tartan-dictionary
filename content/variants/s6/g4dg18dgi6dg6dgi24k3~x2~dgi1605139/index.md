@@ -10,10 +10,10 @@ crumbs:
 - name: "Park Estate"
   url: "/tartans/p/pa/park-estate/"
 - name: "Park Estate"
-  url: "/setts/g4dg18dgi6dg6dgi24k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4dg18dgi6dg6dgi24k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/park-estate/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGK](/stripes/gggggk/).
 
 Part of the [Park Estate](/tartans/p/pa/park-estate/) tartan — the named design grouping this sett with its other cloths.

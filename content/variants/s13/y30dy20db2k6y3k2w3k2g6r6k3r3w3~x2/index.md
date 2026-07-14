@@ -12,10 +12,10 @@ crumbs:
 - name: "Cree"
   url: "/tartans/c/cr/cree-2/"
 - name: "Cree"
-  url: "/setts/y30dy20db2k6y3k2w3k2g6r6k3r3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y30dy20db2k6y3k2w3k2g6r6k3r3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/cree-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBKGKWKGRKRW](/stripes/ggbkgkwkgrkrw/).
 
 Part of the [Cree](/tartans/c/cr/cree-2/) tartan — the named design grouping this sett with its other cloths.

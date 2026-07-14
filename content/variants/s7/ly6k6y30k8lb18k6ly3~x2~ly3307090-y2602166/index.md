@@ -8,10 +8,10 @@ crumbs:
 - name: "Cape Breton"
   url: "/tartans/c/ca/cape-breton/"
 - name: "Cape Breton (yellow stripes)"
-  url: "/setts/ly6k6y30k8lb18k6ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly6k6y30k8lb18k6ly3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cape-breton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YKGKWKY](/stripes/ykgkwky/).
 
 Part of the [Cape Breton](/tartans/c/ca/cape-breton/) tartan — the named design grouping this sett with its other cloths.

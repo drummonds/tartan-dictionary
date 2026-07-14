@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/">MacRae Dress Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><img src="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/sett.png" alt="MacRae Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/">McRae, Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><img src="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/sett.png" alt="McRae, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macrae-dress-2/">MacRae Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrae-dress-2/"><img src="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/sett.png" alt="MacRae Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcrae-dress/">McRae, Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcrae-dress/"><img src="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/sett.png" alt="McRae, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

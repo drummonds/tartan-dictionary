@@ -8,7 +8,13 @@ crumbs:
   url: "/clan/gow/"
 - name: "Gow"
   url: "/families/gow/"
+aliases:
+- "/setts/r4db4r1g4r4/"
+- "/setts/r3dg3r1db3r3/"
+- "/setts/r4dg4r1db4r4/"
+- "/setts/r5dp5r1g5r5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbrgr/">RBRGR</a></nav>
 A tartan of the [Gow](/families/gow/) family.
 Its design is pattern [RBRGR](/stripes/rbrgr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,16 +24,21 @@ The **Gow** tartan groups 4 setts — the same named design recorded as differen
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4db4r1g4r4/">Gow</a> ★</td><td><code>R/24 DB24 R6 G24 R/24</code></td><td>156</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4db4r1g4r4/"><img src="/variants/s5/r4db4r1g4r4~x6/sett.png" alt="Gow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r4db4r1g4r4~x6/">Gow</a> ★</td><td><code>R/4 DB4 R1 G4 R/4</code></td><td>26</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r4db4r1g4r4~x6/"><img src="/variants/s5/r4db4r1g4r4~x6/sett.png" alt="Gow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s5/r4db4r1g4r4/">Gow</a></td><td><code>R/4 DB4 R1 G4 R/4</code></td><td>26</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s5/r4db4r1g4r4~x2/">Gow</a></td><td><code>R/8 DB8 R2 G8 R/8</code></td><td>52</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s5/r4db4r1g4r4~x6/">MacGowan</a></td><td><code>R/24 DB24 R6 G24 R/24</code></td><td>156</td><td>2002</td></tr>
 <tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s5/r4db4r1g4r4/">Gow</a> · <a href="/variants/s5/r4db4r1g4r4~x2/">Gow</a> · <a href="/variants/s5/r4db4r1g4r4~x6/">MacGowan</a></td></tr>
-<tr><td><a href="/setts/r3dg3r1db3r3/">(Portrait)</a></td><td><code>R/36 DB36 R12 DG36 R/36</code></td><td>240</td><td>1780</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3dg3r1db3r3/"><img src="r3dg3r1db3r3-rev.png" alt="(Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r4dg4r1db4r4/">Gow</a></td><td><code>R/48 DG48 R12 DB48 R48 DB48 R12 DG/48</code></td><td>312</td><td>~1815</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4dg4r1db4r4/"><img src="r4dg4r1db4r4-rev.png" alt="Gow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r3dg3r1db3r3~x12/">(Portrait)</a></td><td><code>R/36 DG36 R12 DB36 R/36</code></td><td>240</td><td>1780</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r3dg3r1db3r3~x12/"><img src="r3dg3r1db3r3-rev.png" alt="(Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r4dg4r1db4r4~x4/">Gow</a></td><td><code>R/4 DG4 R1 DB4 R/4</code></td><td>26</td><td>~1815</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r4dg4r1db4r4~x4/"><img src="r4dg4r1db4r4-rev.png" alt="Gow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s5/r4dg4r1db4r4~x4/">Gow</a></td><td><code>R/16 DG16 R4 DB16 R/16</code></td><td>104</td><td>~1815</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×12 — <a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/">Gow</a></td><td><code>R/48 DG48 R12 DB48 R/48</code></td><td>312</td><td>2003</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/">Gow</a> · <a href="/variants/s5/r4dg4r1db4r4~x4/">Gow</a></td></tr>
-<tr><td><a href="/setts/r5dp5r1g5r5/">(Portrait)</a></td><td><code>R/40 G40 R8 DP40 R40 DP40 R8 G/40</code></td><td>256</td><td>1780</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r5dp5r1g5r5/"><img src="/variants/s5/r5dp5r1g5r5~x8~dp1607327/sett.png" alt="(Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/">(Portrait)</a></td><td><code>R/40 DP40 R8 G40 R/40</code></td><td>256</td><td>1780</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/"><img src="/variants/s5/r5dp5r1g5r5~x8~dp1607327/sett.png" alt="(Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -46,6 +57,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="232.1" cy="199.6" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="322.4" cy="231.9" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="239.3" cy="240.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="324.2" cy="234.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r8lg15t12r29w4~x2/"><circle cx="278.8" cy="252.0" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><a href="/variants/s5/r5dg3r18db18dg3~x4/"><circle cx="294.2" cy="250.2" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/variants/s5/r3k10r10g10r3~x4/"><circle cx="156.7" cy="272.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/w11r32g12r5g12r5~x2/"><circle cx="293.8" cy="244.5" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="195.7" cy="239.9" r="4" fill="#3465a4"><title>Edinburgh Bus Company</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.9" cy="242.6" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><circle cx="242.0" cy="311.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="232.7" cy="199.5" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="323.0" cy="232.0" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="239.6" cy="240.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="324.7" cy="234.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r8lg15t12r29w4~x2/"><circle cx="279.2" cy="251.9" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><a href="/variants/s5/r5dg3r18db18dg3~x4/"><circle cx="294.7" cy="250.2" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/variants/s5/r3k10r10g10r3~x4/"><circle cx="157.0" cy="272.6" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/w11r32g12r5g12r5~x2/"><circle cx="294.3" cy="244.6" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="196.0" cy="239.7" r="4" fill="#3465a4"><title>Edinburgh Bus Company</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="237.1" cy="242.5" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><circle cx="242.3" cy="311.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

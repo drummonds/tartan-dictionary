@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/">Dawson-Nunes (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/"><img src="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/sett.png" alt="Dawson-Nunes (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dawson-nunes/">Dawson-Nunes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dawson-nunes/"><img src="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/sett.png" alt="Dawson-Nunes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

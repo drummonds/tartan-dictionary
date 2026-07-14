@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10~x2/">Denver Broncos (Sports)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10~x2/"><img src="/variants/s14/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10~x2/sett.png" alt="Denver Broncos (Sports) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/denver-broncos/">Denver Broncos</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/denver-broncos/"><img src="/variants/s14/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10~x2/sett.png" alt="Denver Broncos sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

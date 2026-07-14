@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k20y4db13w4g30w4r13~x2/">South Africa 1994 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><img src="/variants/s7/k20y4db13w4g30w4r13~x2/sett.png" alt="South Africa 1994 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/south-africa-1994/">South Africa 1994</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/south-africa-1994/"><img src="/variants/s7/k20y4db13w4g30w4r13~x2/sett.png" alt="South Africa 1994 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

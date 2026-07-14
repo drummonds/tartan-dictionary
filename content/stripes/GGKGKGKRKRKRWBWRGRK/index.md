@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8y3~x2/">Princess Beatrice, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8y3~x2/"><img src="/variants/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8y3~x2/sett.png" alt="Princess Beatrice, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/princess-beatrice-dress/">Princess Beatrice Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-beatrice-dress/"><img src="/variants/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8y3~x2/sett.png" alt="Princess Beatrice Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

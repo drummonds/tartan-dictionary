@@ -8,15 +8,15 @@ crumbs:
 - name: "Seaforth"
   url: "/tartans/s/se/seaforth/"
 - name: "Seaforth Estate Check"
-  url: "/setts/dr1ly1k1ly1y1ly1k1ly1y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr1ly1k1ly1y1ly1k1ly1y1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BYKYGYKYGYKYGYKY](/stripes/bykygykygykygyky/).
+provenance below. It is one weaving of the [sett](/tartans/s/se/seaforth/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYKYGYKYG](/stripes/bykygykyg/).
 
 Part of the [Seaforth](/tartans/s/se/seaforth/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3755](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3755)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3755](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1990 — Seaforth Estate Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3755">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#886000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AM #886000"></span><br><em>No details known. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>1990 — Seaforth (Estate Check) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5344">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#886000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AM #886000"></span><br><em>No details. Sample in STA Johnston Collection.</em></li>
+<li>1990 — Seaforth (Estate Check) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5344/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#886000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AM #886000"></span><br><em>No details. Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5344
 
 ## Thread count
-DR/12 LY12 K12 LY12 Y12 LY12 K12 LY12 Y12 LY12 K12 LY12 Y12 LY12 K12 LY/12
+DR/12 LY12 K12 LY12 Y12 LY12 K12 LY12 Y/12
 
-One full sett is **360 threads**.
+One full sett is **192 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/12 LY12 K12 LY12 Y12 LY12 K12 LY12 Y12 LY12 K12 LY12 Y12 LY12 K12 LY/12 — 360 threads; it folds to the canonical 192-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **360 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/12 LY12 K12 LY12 Y12 LY12 K12 LY12 Y12 LY12 K12 LY12 Y12 LY12 K12 LY/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/12 LY12 K12 LY12 Y12 LY12 K12 LY12 Y/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

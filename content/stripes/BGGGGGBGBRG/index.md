@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db46y1dy5y1g5y1dp5y1db16r1y4~x2/">Craven County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db46y1dy5y1g5y1dp5y1db16r1y4~x2/"><img src="/variants/s11/db46y1dy5y1g5y1dp5y1db16r1y4~x2/sett.png" alt="Craven County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/craven-county/">Craven County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/craven-county/"><img src="/variants/s11/db46y1dy5y1g5y1dp5y1db16r1y4~x2/sett.png" alt="Craven County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

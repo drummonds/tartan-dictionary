@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r40w1db7w1g12r8db6lb2w1~x2/">Spens (Lochcarron)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r40w1db7w1g12r8db6lb2w1~x2/"><img src="/variants/s9/r40w1db7w1g12r8db6lb2w1~x2/sett.png" alt="Spens (Lochcarron) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spens/">Spens</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spens/"><img src="/variants/s9/r40w1db7w1g12r8db6lb2w1~x2/sett.png" alt="Spens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

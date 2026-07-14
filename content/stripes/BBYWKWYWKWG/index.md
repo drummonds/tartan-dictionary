@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/">Kintyre (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/"><img src="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/sett.png" alt="Kintyre (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kintyre-2/">Kintyre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kintyre-2/"><img src="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/sett.png" alt="Kintyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

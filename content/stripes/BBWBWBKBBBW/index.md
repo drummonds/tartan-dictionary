@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w4db8dr3db25k13b4lb29db3lb8db2dr3~x2/">Air Force</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w4db8dr3db25k13b4lb29db3lb8db2dr3~x2/"><img src="/variants/s11/w4db8dr3db25k13b4lb29db3lb8db2dr3~x2/sett.png" alt="Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ai/air-force/">Air Force</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ai/air-force/"><img src="/variants/s11/w4db8dr3db25k13b4lb29db3lb8db2dr3~x2/sett.png" alt="Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s11/w4dbi8dr3dbi25k13db4lb29dbi3lb8dbi2dr3~x2~dbi1406275-db1106275/">Royal Air Force Regimental Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w4dbi8dr3dbi25k13db4lb29dbi3lb8dbi2dr3~x2~dbi1406275-db1106275/"><img src="/variants/s11/w4dbi8dr3dbi25k13db4lb29dbi3lb8dbi2dr3~x2~dbi1406275-db1106275/sett.png" alt="Royal Air Force Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-air-force-regimental/">Royal Air Force Regimental</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-air-force-regimental/"><img src="/variants/s11/w4dbi8dr3dbi25k13db4lb29dbi3lb8dbi2dr3~x2~dbi1406275-db1106275/sett.png" alt="Royal Air Force Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

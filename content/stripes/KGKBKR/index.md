@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2k1db2k1g2k1~x28/">Burnicle (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2k1db2k1g2k1~x28/"><img src="/variants/s6/r2k1db2k1g2k1~x28/sett.png" alt="Burnicle (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r70k1db12k1g12k1~x2/">Lawers Estate (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r70k1db12k1g12k1~x2/"><img src="/variants/s6/r70k1db12k1g12k1~x2/sett.png" alt="Lawers Estate (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burnicle/">Burnicle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burnicle/"><img src="/variants/s6/r2k1db2k1g2k1~x28/sett.png" alt="Burnicle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lawers-estate/">Lawers Estate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lawers-estate/"><img src="/variants/s6/r70k1db12k1g12k1~x2/sett.png" alt="Lawers Estate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/k3dg11k3b11k18o3~x2/">The Harbour Town, Hilton Head</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><img src="/variants/s6/k3dg11k3b11k18o3~x2/sett.png" alt="The Harbour Town, Hilton Head sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/the-harbour-town-hilton-head/">The Harbour Town, Hilton Head</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/the-harbour-town-hilton-head/"><img src="/variants/s6/k3dg11k3b11k18o3~x2/sett.png" alt="The Harbour Town, Hilton Head sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s31/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2/">Hawick</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2/"><img src="/variants/s31/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2/sett.png" alt="Hawick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hawick-4/">Hawick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hawick-4/"><img src="/variants/s31/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2/sett.png" alt="Hawick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

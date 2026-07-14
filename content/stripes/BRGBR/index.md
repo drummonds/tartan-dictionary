@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db1r14g7db7r1~x4/">Fraser of Boblainy, Hugh (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db1r14g7db7r1~x4/"><img src="/variants/s5/db1r14g7db7r1~x4/sett.png" alt="Fraser of Boblainy, Hugh (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-of-boblainy-hugh/">Fraser of Boblainy, Hugh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-of-boblainy-hugh/"><img src="/variants/s5/db1r14g7db7r1~x4/sett.png" alt="Fraser of Boblainy, Hugh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-cant/">Unidentified Cant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-cant/"><img src="/variants/s5/r44db2g26r3db2/sett.png" alt="Unidentified Cant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

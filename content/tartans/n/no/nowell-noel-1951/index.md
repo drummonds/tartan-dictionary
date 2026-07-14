@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lb3k24lb6k8w4k8lb35k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwkwkwkw/">KWKWKWKW</a></nav>
 Its design is pattern [KWKWKWKW](/stripes/kwkwkwkw/) — the page of every tartan sharing this colour sequence.
 
 The **Nowell/Noel 1951** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Nowell/Noel 1951** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb3k24lb6k8w4k8lb35k2/">Nowell/Noel 1951</a></td><td><code>LB/6 K48 LB12 K16 W8 K16 LB70 K/4</code></td><td>350</td><td>1951</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb3k24lb6k8w4k8lb35k2/"><img src="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/sett.png" alt="Nowell/Noel 1951 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/">Nowell/Noel 1951</a></td><td><code>LB/6 K48 LB12 K16 W8 K16 LB70 K/4</code></td><td>350</td><td>1951</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/"><img src="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/sett.png" alt="Nowell/Noel 1951 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k2b2w11b5k5w2k1b2~x2/"><circle cx="190.2" cy="182.3" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="277.9" cy="128.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s10/k1t17k17t1r1t1k17t17k1w1~x4/"><circle cx="269.4" cy="127.0" r="4" fill="#3465a4"><title>Sorbie</title></circle></a><a href="/variants/s9/lb7k2n2k18lb2k4lb6k2lb1~x4/"><circle cx="313.8" cy="130.2" r="4" fill="#3465a4"><title>Wcwm 972-2</title></circle></a><a href="/variants/s7/k16w30lb36k10lb10k83lb6/"><circle cx="280.8" cy="164.2" r="4" fill="#3465a4"><title>Glasgow Warriors</title></circle></a><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/"><circle cx="282.5" cy="131.1" r="4" fill="#3465a4"><title>MacKnight</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="259.6" cy="172.4" r="4" fill="#3465a4"><title>Indian Pipe Band</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="290.2" cy="153.4" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/"><circle cx="325.7" cy="118.0" r="4" fill="#3465a4"><title>Doune</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="309.1" cy="151.3" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><circle cx="278.0" cy="149.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k2b2w11b5k5w2k1b2~x2/"><circle cx="190.7" cy="182.1" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="278.7" cy="128.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s10/k1t17k17t1r1t1k17t17k1w1~x4/"><circle cx="270.3" cy="127.1" r="4" fill="#3465a4"><title>Sorbie</title></circle></a><a href="/variants/s9/lb7k2n2k18lb2k4lb6k2lb1~x4/"><circle cx="314.8" cy="130.3" r="4" fill="#3465a4"><title>Wcwm 972-2</title></circle></a><a href="/variants/s7/k16w30lb36k10lb10k83lb6/"><circle cx="281.6" cy="164.2" r="4" fill="#3465a4"><title>Glasgow Warriors</title></circle></a><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/"><circle cx="283.4" cy="131.1" r="4" fill="#3465a4"><title>MacKnight</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="260.3" cy="172.3" r="4" fill="#3465a4"><title>Indian Pipe Band</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="291.0" cy="153.4" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/"><circle cx="326.6" cy="118.0" r="4" fill="#3465a4"><title>Doune</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="310.0" cy="151.4" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><circle cx="278.8" cy="149.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

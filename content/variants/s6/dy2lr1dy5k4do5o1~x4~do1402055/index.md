@@ -12,15 +12,15 @@ crumbs:
 - name: "Huntly"
   url: "/tartans/h/hu/huntly-3/"
 - name: "Huntly #3"
-  url: "/setts/dy2lr1dy5k4do5o1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy2lr1dy5k4do5o1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GYGKBRBKGY](/stripes/gygkbrbkgy/).
+provenance below. It is one weaving of the [sett](/tartans/h/hu/huntly-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGKBR](/stripes/gygkbr/).
 
 Part of the [Huntly](/tartans/h/hu/huntly-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1797](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1797)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5235
 
 ## Thread count
-DY/8 LR4 DY20 K16 DO20 O4 DO20 K16 DY20 LR/4
+DY/8 LR4 DY20 K16 DYi20 O/4
 
-One full sett is **252 threads**.
+One full sett is **132 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DY/8 LR4 DY20 K16 DO20 O4 DO20 K16 DY20 LR/4 — 252 threads; it folds to the canonical 132-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **252 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/8 LR4 DY20 K16 DO20 O4 DO20 K16 DY20 LR/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/8 LR4 DY20 K16 DYi20 O/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Boxer Beauty"
   url: "/tartans/b/bo/boxer-beauty/"
 - name: "Boxer Beauty"
-  url: "/setts/k13dy28y13dy28k18w18k13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k13dy28y13dy28k18w18k13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/boxer-beauty/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGGKWK](/stripes/kgggkwk/).
 
 Part of the [Boxer Beauty](/tartans/b/bo/boxer-beauty/) tartan — the named design grouping this sett with its other cloths.

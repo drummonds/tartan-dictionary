@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/">Broager (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/"><img src="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/sett.png" alt="Broager (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/broager/">Broager</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/broager/"><img src="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/sett.png" alt="Broager sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

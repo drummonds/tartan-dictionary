@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k6r20w2dr9w3lb2~x2/">Thermos Un-named (aretefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k6r20w2dr9w3lb2~x2/"><img src="/variants/s6/k6r20w2dr9w3lb2~x2/sett.png" alt="Thermos Un-named (aretefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thermos-un-named/">Thermos Un-named</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thermos-un-named/"><img src="/variants/s6/k6r20w2dr9w3lb2~x2/sett.png" alt="Thermos Un-named sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

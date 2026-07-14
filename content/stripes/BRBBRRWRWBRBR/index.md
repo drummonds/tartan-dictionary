@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/oi32dp8oi1dp1w1oi1w1o1oi1dp1n1oi4dp1~x4~oi2603303-o2403057/">Florence (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/oi32dp8oi1dp1w1oi1w1o1oi1dp1n1oi4dp1~x4~oi2603303-o2403057/"><img src="/variants/s13/oi32dp8oi1dp1w1oi1w1o1oi1dp1n1oi4dp1~x4~oi2603303-o2403057/sett.png" alt="Florence (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fl/florence/">Florence</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/florence/"><img src="/variants/s13/oi32dp8oi1dp1w1oi1w1o1oi1dp1n1oi4dp1~x4~oi2603303-o2403057/sett.png" alt="Florence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

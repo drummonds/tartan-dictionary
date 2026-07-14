@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb12g2lb4g2lb4k33g13r4~x2/">Brown of the Southeast (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb12g2lb4g2lb4k33g13r4~x2/"><img src="/variants/s8/lb12g2lb4g2lb4k33g13r4~x2/sett.png" alt="Brown of the Southeast (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brown-of-the-southeast/">Brown of the Southeast</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brown-of-the-southeast/"><img src="/variants/s8/lb12g2lb4g2lb4k33g13r4~x2/sett.png" alt="Brown of the Southeast sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

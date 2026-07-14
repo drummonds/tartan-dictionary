@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/dp35g8dp6g4dp12g4dp6g8dp54k6dp54g8dp6g4dp12g4dp6g8dp35t27lo4t4r4t27/">Michie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/dp35g8dp6g4dp12g4dp6g8dp54k6dp54g8dp6g4dp12g4dp6g8dp35t27lo4t4r4t27/"><img src="/variants/s24/dp35g8dp6g4dp12g4dp6g8dp54k6dp54g8dp6g4dp12g4dp6g8dp35t27lo4t4r4t27/sett.png" alt="Michie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/michie/">Michie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/michie/"><img src="/variants/s24/dp35g8dp6g4dp12g4dp6g8dp54k6dp54g8dp6g4dp12g4dp6g8dp35t27lo4t4r4t27/sett.png" alt="Michie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Siddle"
   url: "/tartans/s/si/siddle/"
 - name: "Siddle"
-  url: "/setts/dr3w29db2w2db2w2db14dr31db2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3w29db2w2db2w2db14dr31db2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/siddle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBBBW](/stripes/bwbwbwbbbw/).
 
 Part of the [Siddle](/tartans/s/si/siddle/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10302](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>21/04/2006 — Siddle (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10302">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#680028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #680028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F8F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000048"></span><br><em>The Siddle tartan was designed in 2006 as a new family tartan. It was previously recorded as STWR ref.3253 and STA ref.6912. The Siddle family surname can be traced back to the Dark Ages in ancient Wessex but is nowadays associated with the North West and North East counties, having been pushed northwards during the Saxon period. This tartan is for the particular branch of the Siddle family which is half Scottish through its connection to the Crawford Clan of Lanarkshire, through the owner’s mother's father, Henry (nickname Harry) Crawford, whose family moved into England in the 1800s. The Crawford Clan is associated with the Lindsay Clan. The owner’s grandfather therefore wore the Lindsay Dress Clan tartan which has been adapted to provide a new tartan for the Siddle family.</em></li>
-<li>2006 April — Siddle (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10302">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8FCDC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F8FCDC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by Maxine Scott of the House of Tartan and woven by D C Dalgliesh of Selkirk. Can be worn by all of the name.</em></li>
+<li>2006 April — Siddle (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10302/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8FCDC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F8FCDC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by Maxine Scott of the House of Tartan and woven by D C Dalgliesh of Selkirk. Can be worn by all of the name.</em></li>
 </ul>
 </details>
 

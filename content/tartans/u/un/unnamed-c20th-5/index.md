@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db2y1db18g7r7db1g1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgrbg/">BGBGRBG</a></nav>
 Its design is pattern [BGBGRBG](/stripes/bgbgrbg/) — the page of every tartan sharing this colour sequence.
 
 The **Unnamed C20th** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unnamed C20th** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db2y1db18g7r7db1g1/">Unnamed C20th</a></td><td><code>DB/4 Y2 DB36 G14 R14 DB2 G/2</code></td><td>142</td><td>~2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2y1db18g7r7db1g1/"><img src="/variants/s7/db2y1db18g7r7db1g1~x2/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db2y1db18g7r7db1g1~x2/">Unnamed C20th</a></td><td><code>DB/4 Y2 DB36 G14 R14 DB2 G/2</code></td><td>142</td><td>~2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><img src="/variants/s7/db2y1db18g7r7db1g1~x2/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="275.6" cy="198.1" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="292.1" cy="190.0" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="356.5" cy="151.7" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/dr10db15g2db2w1db1w1~x4/"><circle cx="372.3" cy="187.9" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="350.0" cy="163.8" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="375.5" cy="176.2" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s10/r3y1db15g16db3r6db6g8db15w3~x2/"><circle cx="246.7" cy="175.1" r="4" fill="#3465a4"><title>Steve Walls</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="334.7" cy="205.8" r="4" fill="#3465a4"><title>Connaught</title></circle></a><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="327.5" cy="165.7" r="4" fill="#3465a4"><title>Lothian Buses</title></circle></a><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><circle cx="296.1" cy="170.4" r="4" fill="#3465a4"><title>Colvin</title></circle></a><circle cx="341.4" cy="164.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="276.1" cy="198.1" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="292.7" cy="190.0" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="357.4" cy="151.8" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/dr10db15g2db2w1db1w1~x4/"><circle cx="373.0" cy="188.0" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="350.8" cy="163.9" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="376.3" cy="176.4" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s10/r3y1db15g16db3r6db6g8db15w3~x2/"><circle cx="247.2" cy="175.0" r="4" fill="#3465a4"><title>Steve Walls</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="335.3" cy="205.9" r="4" fill="#3465a4"><title>Connaught</title></circle></a><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="328.3" cy="165.7" r="4" fill="#3465a4"><title>Lothian Buses</title></circle></a><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><circle cx="296.6" cy="170.4" r="4" fill="#3465a4"><title>Colvin</title></circle></a><circle cx="342.2" cy="164.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

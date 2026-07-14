@@ -12,10 +12,10 @@ crumbs:
 - name: "Wisconsin"
   url: "/tartans/w/wi/wisconsin-2/"
 - name: "Wisconsin"
-  url: "/setts/db22r3db2n3k14dg20dy2dg20k14db11do6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db22r3db2n3k14dg20dy2dg20k14db11do6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wisconsin-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGGGKBBRB](/stripes/bbkgggkbbrb/).
 
 Part of the [Wisconsin](/tartans/w/wi/wisconsin-2/) tartan — the named design grouping this sett with its other cloths.

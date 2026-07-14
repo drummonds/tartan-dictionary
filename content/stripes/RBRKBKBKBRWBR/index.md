@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r9db3r9k18db9k2db9k2db9r6w1db1r4~x2/">Metro Detroit Police &amp; Fire P &amp;</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r9db3r9k18db9k2db9k2db9r6w1db1r4~x2/"><img src="/variants/s13/r9db3r9k18db9k2db9k2db9r6w1db1r4~x2/sett.png" alt="Metro Detroit Police &amp; Fire P &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/metro-detroit-police-fire/">Metro Detroit Police &amp; Fire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/metro-detroit-police-fire/"><img src="/variants/s13/r9db3r9k18db9k2db9k2db9r6w1db1r4~x2/sett.png" alt="Metro Detroit Police &amp; Fire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

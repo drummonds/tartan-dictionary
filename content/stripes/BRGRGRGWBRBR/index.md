@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/">Raibert, Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><img src="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/sett.png" alt="Raibert, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/raibert-check-2/">Raibert, Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/raibert-check-2/"><img src="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/sett.png" alt="Raibert, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

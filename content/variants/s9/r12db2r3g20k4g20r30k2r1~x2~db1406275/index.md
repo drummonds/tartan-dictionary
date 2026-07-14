@@ -8,15 +8,15 @@ crumbs:
 - name: "Oriel"
   url: "/tartans/o/or/oriel/"
 - name: "Oriel #1"
-  url: "/setts/r12db2r3g20k4g20r30k2r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12db2r3g20k4g20r30k2r1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRGKGRKRKRGKGRBR](/stripes/brgkgrkrkrgkgrbr/).
+provenance below. It is one weaving of the [sett](/tartans/o/or/oriel/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRGKGRKR](/stripes/rbrgkgrkr/).
 
 Part of the [Oriel](/tartans/o/or/oriel/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4817](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4817)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2166
 
 ## Thread count
-R/24 DB4 R6 G40 K8 G40 R60 K4 R2 K4 R60 G40 K8 G40 R6 DB/4
+R/24 DB4 R6 G40 K8 G40 R60 K4 R/2
 
-One full sett is **672 threads**.
+One full sett is **350 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/24 DB4 R6 G40 K8 G40 R60 K4 R2 K4 R60 G40 K8 G40 R6 DB/4 — 672 threads; it folds to the canonical 350-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **672 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/24 DB4 R6 G40 K8 G40 R60 K4 R2 K4 R60 G40 K8 G40 R6 DB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/24 DB4 R6 G40 K8 G40 R60 K4 R/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

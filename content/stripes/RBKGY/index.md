@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r3db22k11g32ly3~x2/">Cultoquhey (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r3db22k11g32ly3~x2/"><img src="/variants/s5/r3db22k11g32ly3~x2/sett.png" alt="Cultoquhey (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r3db22k11dg32ly3~x2/">Cultoquhey Hotel Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r3db22k11dg32ly3~x2/"><img src="/variants/s5/r3db22k11dg32ly3~x2/sett.png" alt="Cultoquhey Hotel Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cultoquhey/">Cultoquhey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cultoquhey/"><img src="/variants/s5/r3db22k11g32ly3~x2/sett.png" alt="Cultoquhey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cultoquhey-hotel/">Cultoquhey Hotel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cultoquhey-hotel/"><img src="/variants/s5/r3db22k11dg32ly3~x2/sett.png" alt="Cultoquhey Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

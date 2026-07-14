@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k100dp8n4k4n4dp8k25db10n4/">CI (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k100dp8n4k4n4dp8k25db10n4/"><img src="/variants/s9/k100dp8n4k4n4dp8k25db10n4/sett.png" alt="CI (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/">Clan Inebriated</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><img src="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/sett.png" alt="Clan Inebriated sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/">Clan Inebriated (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/"><img src="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/sett.png" alt="Clan Inebriated (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/ci/">CI</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/ci/"><img src="/variants/s9/k100dp8n4k4n4dp8k25db10n4/sett.png" alt="CI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clan-inebriated/">Clan Inebriated</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clan-inebriated/"><img src="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/sett.png" alt="Clan Inebriated sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

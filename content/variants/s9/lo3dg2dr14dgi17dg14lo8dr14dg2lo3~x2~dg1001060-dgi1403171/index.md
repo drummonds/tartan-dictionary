@@ -8,10 +8,10 @@ crumbs:
 - name: "Monaghan Irish County"
   url: "/tartans/m/mo/monaghan-irish-county/"
 - name: "Monaghan Irish County Tartan"
-  url: "/setts/lo3dg2dr14dgi17dg14lo8dr14dg2lo3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo3dg2dr14dgi17dg14lo8dr14dg2lo3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/monaghan-irish-county/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGBGGYBGY](/stripes/ygbggybgy/).
 
 Part of the [Monaghan Irish County](/tartans/m/mo/monaghan-irish-county/) tartan — the named design grouping this sett with its other cloths.

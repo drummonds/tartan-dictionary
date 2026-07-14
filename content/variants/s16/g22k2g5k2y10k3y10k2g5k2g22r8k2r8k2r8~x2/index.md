@@ -12,10 +12,10 @@ crumbs:
 - name: "MacMillan"
   url: "/tartans/m/ma/macmillan-2/"
 - name: "MacMillan (1946)"
-  url: "/setts/g22k2g5k2y10k3y10k2g5k2g22r8k2r8k2r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g22k2g5k2y10k3y10k2g5k2g22r8k2r8k2r8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macmillan-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGRKRKR](/stripes/gkgkgkgkgkgrkrkr/).
 
 Part of the [MacMillan](/tartans/m/ma/macmillan-2/) tartan — the named design grouping this sett with its other cloths.

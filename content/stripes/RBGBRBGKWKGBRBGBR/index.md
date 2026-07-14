@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r96db1dg24db1r10db1dg12k1w4k1dg12db1r10db1dg24db1r48~x2/">Macaulay of Ardincaple</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r96db1dg24db1r10db1dg12k1w4k1dg12db1r10db1dg24db1r48~x2/"><img src="/variants/s17/r96db1dg24db1r10db1dg12k1w4k1dg12db1r10db1dg24db1r48~x2/sett.png" alt="Macaulay of Ardincaple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macaulay-of-ardincaple-2/">Macaulay of Ardincaple</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macaulay-of-ardincaple-2/"><img src="/variants/s17/r96db1dg24db1r10db1dg12k1w4k1dg12db1r10db1dg24db1r48~x2/sett.png" alt="Macaulay of Ardincaple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

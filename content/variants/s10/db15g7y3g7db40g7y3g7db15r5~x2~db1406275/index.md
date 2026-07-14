@@ -12,10 +12,10 @@ crumbs:
 - name: "Wheadon"
   url: "/tartans/w/wh/wheadon-2/"
 - name: "Wheadon"
-  url: "/setts/db15g7y3g7db40g7y3g7db15r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db15g7y3g7db40g7y3g7db15r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wh/wheadon-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGBGGGBR](/stripes/bgggbgggbr/).
 
 Part of the [Wheadon](/tartans/w/wh/wheadon-2/) tartan — the named design grouping this sett with its other cloths.

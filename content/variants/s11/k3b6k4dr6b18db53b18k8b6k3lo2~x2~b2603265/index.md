@@ -12,10 +12,10 @@ crumbs:
 - name: "Australia 2000"
   url: "/tartans/a/au/australia-2000/"
 - name: "Australia 2000"
-  url: "/setts/k3b6k4dr6b18db53b18k8b6k3lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3b6k4dr6b18db53b18k8b6k3lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/australia-2000/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBBBBKBKY](/stripes/kbkbbbbkbky/).
 
 Part of the [Australia 2000](/tartans/a/au/australia-2000/) tartan — the named design grouping this sett with its other cloths.

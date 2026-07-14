@@ -28,19 +28,22 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/t4g8t18w3~x2/">Blue Meadow Check (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/t4g8t18w3~x2/"><img src="/variants/s4/t4g8t18w3~x2/sett.png" alt="Blue Meadow Check (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/db2g7db7w1~x2/">Unidentified No 78</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db2g7db7w1~x2/"><img src="/variants/s4/db2g7db7w1~x2/sett.png" alt="Unidentified No 78 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blue-meadow/">Blue Meadow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-meadow/"><img src="/variants/s4/t4g8t18w3~x2/sett.png" alt="Blue Meadow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-no-78/">Unidentified No 78</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-no-78/"><img src="/variants/s4/db2g7db7w1~x2/sett.png" alt="Unidentified No 78 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/w11db20y3db8~x2/">Lucard, Stéphane (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w11db20y3db8~x2/"><img src="/variants/s4/w11db20y3db8~x2/sett.png" alt="Lucard, Stéphane (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/justus-international/">Justus International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/justus-international/"><img src="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24~w4000000/sett.png" alt="Justus International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/db39y8dr3w1~x4/">Norwich University Regimental Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db39y8dr3w1~x4/"><img src="/variants/s4/db39y8dr3w1~x4/sett.png" alt="Norwich University Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lu/lucard-st-phane/">Lucard, Stéphane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/lucard-st-phane/"><img src="/variants/s4/w11db20y3db8~x2/sett.png" alt="Lucard, Stéphane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/lb14n7dy6n2~x8/">Outlander #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb14n7dy6n2~x8/"><img src="/variants/s4/lb14n7dy6n2~x8/sett.png" alt="Outlander #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/norwich-university-regimental/">Norwich University Regimental</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-university-regimental/"><img src="/variants/s4/db39y8dr3w1~x4/sett.png" alt="Norwich University Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/o/ou/outlander-3/">Outlander</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ou/outlander-3/"><img src="/variants/s4/lb14n7dy6n2~x8/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

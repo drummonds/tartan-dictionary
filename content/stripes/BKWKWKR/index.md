@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db62k22w3k2w2k3r1~x2/">Tyneside Blue, North Tyneside Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db62k22w3k2w2k3r1~x2/"><img src="/variants/s7/db62k22w3k2w2k3r1~x2/sett.png" alt="Tyneside Blue, North Tyneside Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ty/tyneside-blue-north-tyneside-pipe-band/">Tyneside Blue, North Tyneside Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ty/tyneside-blue-north-tyneside-pipe-band/"><img src="/variants/s7/db62k22w3k2w2k3r1~x2/sett.png" alt="Tyneside Blue, North Tyneside Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

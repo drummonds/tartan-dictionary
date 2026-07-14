@@ -8,10 +8,10 @@ crumbs:
 - name: "Conlon"
   url: "/tartans/c/co/conlon/"
 - name: "Conlon"
-  url: "/setts/dgi4db2dgi17dg2dr4dg2dgi3dg11dgi2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dgi4db2dgi17dg2dr4dg2dgi3dg11dgi2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/conlon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGBGGGG](/stripes/gbggbgggg/).
 
 Part of the [Conlon](/tartans/c/co/conlon/) tartan — the named design grouping this sett with its other cloths.

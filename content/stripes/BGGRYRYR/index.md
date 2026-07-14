@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/">Indiana &quot;Cardinal&quot;</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/"><img src="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/sett.png" alt="Indiana &quot;Cardinal&quot; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/indiana-cardinal/">Indiana &quot;Cardinal&quot;</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/indiana-cardinal/"><img src="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/sett.png" alt="Indiana &quot;Cardinal&quot; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

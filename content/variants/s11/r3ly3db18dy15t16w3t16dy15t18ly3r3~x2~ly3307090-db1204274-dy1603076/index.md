@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hirter Karo"
-  url: "/tartans/h/hi/hirter-karo-2/"
+  url: "/tartans/h/hi/hirter-karo/"
 - name: "Hirter Karo"
-  url: "/setts/r3ly3db18dy15t16w3t16dy15t18ly3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3ly3db18dy15t16w3t16dy15t18ly3r3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RYBGBWBGBYRYBGBWBGBY](/stripes/rybgbwbgbyrybgbwbgby/).
+provenance below. It is one weaving of the [sett](/tartans/h/hi/hirter-karo/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RYBGBW](/stripes/rybgbw/).
 
-Part of the [Hirter Karo](/tartans/h/hi/hirter-karo-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hirter Karo](/tartans/h/hi/hirter-karo/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4898](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4898)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3907
 
 ## Thread count
-R/6 LY6 DB36 DY30 T32 W6 T32 DY30 T36 LY6 R6 LY6 T36 DY30 T32 W6 T32 DY30 DB36 LY/6
+R/6 LY6 DT36 DY30 T32 W6 T32 DY30 T36 LY6 R/6
 
-One full sett is **868 threads**.
+One full sett is **440 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/6 LY6 DB36 DY30 T32 W6 T32 DY30 T36 LY6 R6 LY6 T36 DY30 T32 W6 T32 DY30 DB36 LY/6 — 868 threads; it folds to the canonical 440-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **868 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 LY6 DB36 DY30 T32 W6 T32 DY30 T36 LY6 R6 LY6 T36 DY30 T32 W6 T32 DY30 DB36 LY/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 LY6 DT36 DY30 T32 W6 T32 DY30 T36 LY6 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

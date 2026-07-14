@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/ly12w1k2ly1k1~x8/">Lochcarron, Camel (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/ly12w1k2ly1k1~x8/"><img src="/variants/s5/ly12w1k2ly1k1~x8/sett.png" alt="Lochcarron, Camel (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochcarron-camel/">Lochcarron Camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochcarron-camel/"><img src="/variants/s5/ly12w1k2ly1k1~x8/sett.png" alt="Lochcarron Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

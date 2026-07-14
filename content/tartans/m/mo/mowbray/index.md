@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/mowbray/"
 - name: "Mowbray"
   url: "/families/mowbray/"
+aliases:
+- "/setts/n16dr2n10dr14lb5/"
+- "/setts/n16r2n10r15lb5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbw/">BBBBW</a></nav>
 A tartan of the [Mowbray](/families/mowbray/) family.
 Its design is pattern [BBBBW](/stripes/bbbbw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Mowbray** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n16dr2n10dr14lb5/">Mowbray</a> ★</td><td><code>N/32 DR4 N20 DR28 LB/10</code></td><td>146</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n16dr2n10dr14lb5/"><img src="/variants/s5/n16dr2n10dr14lb5~x2/sett.png" alt="Mowbray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/n16r2n10r15lb5/">(Moubray)</a></td><td><code>N/32 R4 N20 R30 LB/10</code></td><td>150</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n16r2n10r15lb5/"><img src="/variants/s5/n16r2n10r15lb5~x2/sett.png" alt="(Moubray) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/n16dr2n10dr14lb5~x2/">Mowbray</a> ★</td><td><code>N/32 DR4 N20 DR28 LB/10</code></td><td>146</td><td>1984</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/n16dr2n10dr14lb5~x2/"><img src="/variants/s5/n16dr2n10dr14lb5~x2/sett.png" alt="Mowbray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/n16r2n10r15lb5~x2/">(Moubray)</a></td><td><code>N/32 R4 N20 R30 LB/10</code></td><td>150</td><td>1983</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/n16r2n10r15lb5~x2/"><img src="/variants/s5/n16r2n10r15lb5~x2/sett.png" alt="(Moubray) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db13n6dr51db51n5~x2/"><circle cx="480.9" cy="312.1" r="4" fill="#3465a4"><title>Hillsdale</title></circle></a><a href="/variants/s6/t6r6w1r6t6y1~x8~r2607041/"><circle cx="298.5" cy="290.4" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><a href="/variants/s8/dr25g10db30w4db30g10dr25w2~x2/"><circle cx="280.0" cy="232.3" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.6" cy="268.7" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="352.1" cy="300.9" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.7" cy="303.7" r="4" fill="#3465a4"><title>Outlander</title></circle></a><circle cx="405.0" cy="323.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db13n6dr51db51n5~x2/"><circle cx="481.2" cy="312.5" r="4" fill="#3465a4"><title>Hillsdale</title></circle></a><a href="/variants/s6/t6r6w1r6t6y1~x8~r2607041/"><circle cx="298.7" cy="290.4" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><a href="/variants/s8/dr25g10db30w4db30g10dr25w2~x2/"><circle cx="280.3" cy="232.3" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.6" cy="268.6" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="352.5" cy="301.1" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.9" cy="303.7" r="4" fill="#3465a4"><title>Outlander</title></circle></a><circle cx="405.2" cy="323.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

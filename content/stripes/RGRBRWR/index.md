@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/">MacQuarrie #6</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><img src="/variants/s7/r6g16r4db12r16lb1r2~x2/sett.png" alt="MacQuarrie #6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r6g16r4db12r16w1r2~x2/">MacQuarrie LO</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><img src="/variants/s7/r6g16r4db12r16w1r2~x2/sett.png" alt="MacQuarrie LO sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/m3dg8m3db8m20w2m2~x4/">Unnamed C21st (Lady's Jacket) (Fash)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/m3dg8m3db8m20w2m2~x4/"><img src="/variants/s7/m3dg8m3db8m20w2m2~x4/sett.png" alt="Unnamed C21st (Lady's Jacket) (Fash) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macquarrie-2/">MacQuarrie 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macquarrie-2/"><img src="/variants/s7/r6g16r4db12r16lb1r2~x2/sett.png" alt="MacQuarrie 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macquarrie-lo/">MacQuarrie LO</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macquarrie-lo/"><img src="/variants/s7/r6g16r4db12r16w1r2~x2/sett.png" alt="MacQuarrie LO sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unnamed-c21st-2/">Unnamed C21st</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-c21st-2/"><img src="/variants/s7/m3dg8m3db8m20w2m2~x4/sett.png" alt="Unnamed C21st sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

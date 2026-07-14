@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k3db3r1db3k3g3y1~x8/">Melrose of Alabama</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k3db3r1db3k3g3y1~x8/"><img src="/variants/s7/k3db3r1db3k3g3y1~x8/sett.png" alt="Melrose of Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/melrose-of-alabama/">Melrose of Alabama</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/melrose-of-alabama/"><img src="/variants/s7/k3db3r1db3k3g3y1~x8/sett.png" alt="Melrose of Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

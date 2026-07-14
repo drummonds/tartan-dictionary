@@ -8,10 +8,10 @@ crumbs:
 - name: "Grandfather Mountain Games"
   url: "/tartans/g/gr/grandfather-mountain-games/"
 - name: "Grandfather Mountain Games American Corporate Tartan"
-  url: "/setts/r3g20k2n11k2db20lr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3g20k2n11k2db20lr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grandfather-mountain-games/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKBKBY](/stripes/rgkbkby/).
 
 Part of the [Grandfather Mountain Games](/tartans/g/gr/grandfather-mountain-games/) tartan — the named design grouping this sett with its other cloths.

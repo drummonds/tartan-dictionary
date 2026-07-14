@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/rose/"
 - name: "Rose"
   url: "/families/rose/"
+aliases:
+- "/setts/g4r32db9r6db2r3db2r12w3/"
+- "/setts/g2r28db6r5db2r2db2r11w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grbrbrbrw/">GRBRBRBRW</a></nav>
 A tartan of the [Rose](/families/rose/) family.
 Its design is pattern [GRBRBRBRW](/stripes/grbrbrbrw/) — the page of every tartan sharing this colour sequence.
 
@@ -20,10 +24,12 @@ The **Rose** tartan groups 2 setts — the same named design recorded as differe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g4r32db9r6db2r3db2r12w3/">Rose</a> ★</td><td><code>G/8 R64 DB18 R12 DB4 R6 DB4 R24 W/6</code></td><td>278</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g4r32db9r6db2r3db2r12w3/"><img src="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g2r28db6r5db2r2db2r11w2/">Rose</a></td><td><code>W/2 R11 DB2 R2 DB2 R5 DB6 R28 G/2</code></td><td>116</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g2r28db6r5db2r2db2r11w2/"><img src="/variants/s9/g2r28db6r5db2r2db2r11w2/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/">Rose</a> ★</td><td><code>G/8 R64 DB18 R12 DB4 R6 DB4 R24 W/6</code></td><td>278</td><td>1842</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/"><img src="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/">Rose</a></td><td><code>G/2 R28 DB6 R5 DB2 R2 DB2 R11 W/2</code></td><td>116</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/"><img src="/variants/s9/g2r28db6r5db2r2db2r11w2/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/g2r28db6r5db2r2db2r11w2/">Rose</a></td><td><code>G/2 R28 DB6 R5 DB2 R2 DB2 R11 W/2</code></td><td>116</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/">Rose</a></td><td><code>G/4 R56 DB12 R10 DB4 R4 DB4 R22 W/4</code></td><td>232</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/g2r28db6r5db2r2db2r11w2/">Rose</a> · <a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/">Rose</a></td></tr>
 </tbody>
 </table>
@@ -37,6 +43,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="491.0" cy="96.2" r="4" fill="#3465a4"><title>Rose of Kilravock</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="396.6" cy="145.4" r="4" fill="#3465a4"><title>MacDonald 1</title></circle></a><a href="/variants/s10/r23db2r1o2r1db2r4db10k2lo2~x2/"><circle cx="333.8" cy="85.6" r="4" fill="#3465a4"><title>Chang-Miller</title></circle></a><a href="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/"><circle cx="326.4" cy="139.8" r="4" fill="#3465a4"><title>Loch Linnhe</title></circle></a><a href="/variants/s8/r60db8w3db10y3lb4y3r19~x2/"><circle cx="442.7" cy="111.0" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="372.8" cy="122.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s11/g4ri34db20ri4db8ri6r2ri5db2ri3g4~ri2109032-db1404245/"><circle cx="363.4" cy="147.1" r="4" fill="#3465a4"><title>Hughes</title></circle></a><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="315.4" cy="99.3" r="4" fill="#3465a4"><title>Hoben</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="466.0" cy="110.5" r="4" fill="#3465a4"><title>De Nardi</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="438.4" cy="156.6" r="4" fill="#3465a4"><title>AON</title></circle></a><circle cx="442.1" cy="137.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="492.5" cy="96.5" r="4" fill="#3465a4"><title>Rose of Kilravock</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="397.4" cy="145.6" r="4" fill="#3465a4"><title>MacDonald 1</title></circle></a><a href="/variants/s10/r23db2r1o2r1db2r4db10k2lo2~x2/"><circle cx="334.7" cy="85.6" r="4" fill="#3465a4"><title>Chang-Miller</title></circle></a><a href="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/"><circle cx="327.1" cy="139.8" r="4" fill="#3465a4"><title>Loch Linnhe</title></circle></a><a href="/variants/s8/r60db8w3db10y3lb4y3r19~x2/"><circle cx="443.8" cy="111.1" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="373.7" cy="122.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s11/g4ri34db20ri4db8ri6r2ri5db2ri3g4~ri2109032-db1404245/"><circle cx="364.2" cy="147.2" r="4" fill="#3465a4"><title>Hughes</title></circle></a><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="316.3" cy="99.3" r="4" fill="#3465a4"><title>Hoben</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="467.1" cy="110.6" r="4" fill="#3465a4"><title>De Nardi</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="439.4" cy="156.8" r="4" fill="#3465a4"><title>AON</title></circle></a><circle cx="443.2" cy="138.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

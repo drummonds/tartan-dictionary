@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lb3n11db8n10lb6dp1~x2~lb3203246-n2203265-db1204274/">Loch Ness Water</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb3n11db8n10lb6dp1~x2~lb3203246-n2203265-db1204274/"><img src="/variants/s6/lb3n11db8n10lb6dp1~x2~lb3203246-n2203265-db1204274/sett.png" alt="Loch Ness Water sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-ness-water/">Loch Ness Water</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-ness-water/"><img src="/variants/s6/lb3n11db8n10lb6dp1~x2~lb3203246-n2203265-db1204274/sett.png" alt="Loch Ness Water sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

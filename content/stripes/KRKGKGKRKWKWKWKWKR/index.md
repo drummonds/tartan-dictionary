@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/">Canadian Dental Association</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/"><img src="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/sett.png" alt="Canadian Dental Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canadian-dental-association/">Canadian Dental Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canadian-dental-association/"><img src="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/sett.png" alt="Canadian Dental Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

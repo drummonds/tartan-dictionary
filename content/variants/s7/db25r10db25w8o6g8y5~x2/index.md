@@ -12,10 +12,10 @@ crumbs:
 - name: "Barneys"
   url: "/tartans/b/ba/barneys/"
 - name: "Barneys (Scunthorpe) (Personal)"
-  url: "/setts/db25r10db25w8o6g8y5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db25r10db25w8o6g8y5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barneys/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWRGG](/stripes/brbwrgg/).
 
 Part of the [Barneys](/tartans/b/ba/barneys/) tartan — the named design grouping this sett with its other cloths.

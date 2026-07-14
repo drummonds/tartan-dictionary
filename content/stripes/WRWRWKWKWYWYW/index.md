@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w40ly3w10ly6w20k3w2k3w10r4w2r8w2/">Virginia Quadricentennial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w40ly3w10ly6w20k3w2k3w10r4w2r8w2/"><img src="/variants/s13/w40ly3w10ly6w20k3w2k3w10r4w2r8w2/sett.png" alt="Virginia Quadricentennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/virginia-quadricentennial/">Virginia Quadricentennial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/virginia-quadricentennial/"><img src="/variants/s13/w40ly3w10ly6w20k3w2k3w10r4w2r8w2/sett.png" alt="Virginia Quadricentennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

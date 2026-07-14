@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/">Symington</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/"><img src="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/sett.png" alt="Symington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/w15r20y2g1lg1~x4/">Tomomi</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w15r20y2g1lg1~x4/"><img src="/variants/s5/w15r20y2g1lg1~x4/sett.png" alt="Tomomi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sy/symington/">Symington</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sy/symington/"><img src="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/sett.png" alt="Symington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/tomomi/">Tomomi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/tomomi/"><img src="/variants/s5/w15r20y2g1lg1~x4/sett.png" alt="Tomomi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

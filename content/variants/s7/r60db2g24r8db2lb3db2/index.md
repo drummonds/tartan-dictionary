@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Cant"
-  url: "/tartans/u/un/unidentified-cant-2/"
+  url: "/tartans/u/un/unidentified-cant/"
 - name: "Unidentified Cant #12"
-  url: "/setts/r60db2g24r8db2lb3db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r60db2g24r8db2lb3db2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGRBWBWBRGBR](/stripes/bgrbwbwbrgbr/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-cant/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBRGBR](/stripes/bwbrgbr/).
 
-Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4907](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4907)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3967
 
 ## Thread count
-R/60 DB2 G24 R8 DB2 LB3 DB2 LB3 DB2 R8 G24 DB/2
+R/60 DB2 G24 R8 DB2 LB3 DB/2
 
-One full sett is **218 threads**.
+One full sett is **140 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/60 DB2 G24 R8 DB2 LB3 DB2 LB3 DB2 R8 G24 DB/2 — 218 threads; it folds to the canonical 140-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **218 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/60 DB2 G24 R8 DB2 LB3 DB2 LB3 DB2 R8 G24 DB/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/60 DB2 G24 R8 DB2 LB3 DB/2 tartan" width="880" height="480">
 
 ## Compared to the master
 

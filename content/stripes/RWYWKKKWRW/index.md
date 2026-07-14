@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/">VeMMA Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/"><img src="/variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/sett.png" alt="VeMMA Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/ve/vemma/">VeMMA</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/ve/vemma/"><img src="/variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/sett.png" alt="VeMMA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

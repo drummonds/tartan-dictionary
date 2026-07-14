@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4~x2/">William Murdoch, (Scottish Gas)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4~x2/"><img src="/variants/s15/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4~x2/sett.png" alt="William Murdoch, (Scottish Gas) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/william-murdoch-2/">William Murdoch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/william-murdoch-2/"><img src="/variants/s15/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4~x2/sett.png" alt="William Murdoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

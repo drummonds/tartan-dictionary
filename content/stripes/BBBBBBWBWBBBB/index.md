@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/">Grey Watch Dress (1989)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/"><img src="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/sett.png" alt="Grey Watch Dress (1989) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grey-watch-dress/">Grey Watch Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grey-watch-dress/"><img src="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/sett.png" alt="Grey Watch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/">Scottish Scouts (1922) (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/"><img src="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/sett.png" alt="Scottish Scouts (1922) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-scouts-5/">Scottish Scouts</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-scouts-5/"><img src="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/sett.png" alt="Scottish Scouts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

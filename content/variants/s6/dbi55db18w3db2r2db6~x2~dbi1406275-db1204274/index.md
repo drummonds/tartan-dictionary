@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "S.C.O.T.S. U.S.A."
   url: "/tartans/s/s/s-c-o-t-s-u-s-a/"
-- name: "S.C.O.T.S."
-  url: "/setts/dbi55db18w3db2r2db6/"
+- name: "S.C.O.T.S. U.S.A. Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi55db18w3db2r2db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/s/s-c-o-t-s-u-s-a/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBRB](/stripes/bbwbrb/).
 
 Part of the [S.C.O.T.S. U.S.A.](/tartans/s/s/s-c-o-t-s-u-s-a/) tartan — the named design grouping this sett with its other cloths.

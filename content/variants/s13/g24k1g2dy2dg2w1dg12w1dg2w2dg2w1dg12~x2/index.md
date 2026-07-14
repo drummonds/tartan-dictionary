@@ -12,10 +12,10 @@ crumbs:
 - name: "Currie of Balilone"
   url: "/tartans/c/cu/currie-of-balilone/"
 - name: "Currie of Balilone Family Tartan"
-  url: "/setts/g24k1g2dy2dg2w1dg12w1dg2w2dg2w1dg12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g24k1g2dy2dg2w1dg12w1dg2w2dg2w1dg12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/currie-of-balilone/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/).
 
 Part of the [Currie of Balilone](/tartans/c/cu/currie-of-balilone/) tartan — the named design grouping this sett with its other cloths.

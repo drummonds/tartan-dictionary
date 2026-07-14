@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb31k18dg13r3dg13k1y3~x2/">Big Sur MacLaren (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb31k18dg13r3dg13k1y3~x2/"><img src="/variants/s7/lb31k18dg13r3dg13k1y3~x2/sett.png" alt="Big Sur MacLaren (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bi/big-sur-maclaren/">Big Sur MacLaren</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/big-sur-maclaren/"><img src="/variants/s7/lb31k18dg13r3dg13k1y3~x2/sett.png" alt="Big Sur MacLaren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

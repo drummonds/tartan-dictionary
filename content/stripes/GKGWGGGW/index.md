@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/">Pavelka Ltd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/"><img src="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/sett.png" alt="Pavelka Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/pavelka-ltd/">Pavelka Ltd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/pavelka-ltd/"><img src="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/sett.png" alt="Pavelka Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/">Tasmanian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/"><img src="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/sett.png" alt="Tasmanian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tasmanian/">Tasmanian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tasmanian/"><img src="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/sett.png" alt="Tasmanian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

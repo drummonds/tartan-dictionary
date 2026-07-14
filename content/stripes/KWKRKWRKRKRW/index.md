@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/">Knights Templar Dress (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><img src="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/sett.png" alt="Knights Templar Dress (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/kn/knights-templar-dress/">Knights Templar Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kn/knights-templar-dress/"><img src="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/sett.png" alt="Knights Templar Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

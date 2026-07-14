@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/n2w1ly17n14w15n2w2~x2/">North American Sheep Breeders Association</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n2w1ly17n14w15n2w2~x2/"><img src="/variants/s7/n2w1ly17n14w15n2w2~x2/sett.png" alt="North American Sheep Breeders Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/nassa/">NASSA</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/nassa/"><img src="/variants/s7/n2w1ly17n14w15n2w2~x2/sett.png" alt="NASSA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

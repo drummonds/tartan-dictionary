@@ -8,15 +8,15 @@ crumbs:
 - name: "Webb"
   url: "/tartans/w/we/webb/"
 - name: "Webb (Personal)"
-  url: "/setts/r6w2k3w2k3w2k3g16w2db6dy3k2db10k2r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6w2k3w2k3w2k3g16w2db6dy3k2db10k2r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KBKGBWGKWKWKWRWKWKWKGWBGKBKR](/stripes/kbkgbwgkwkwkwrwkwkwkgwbgkbkr/).
+provenance below. It is one weaving of the [sett](/tartans/w/we/webb/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKBKGBWGKWKWKWR](/stripes/rkbkgbwgkwkwkwr/).
 
 Part of the [Webb](/tartans/w/we/webb/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4580](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4580)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4580](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/06/2001 — Webb (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4580">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>A personal tartan for the sole use of Clyde Webb and his family of Davison, Michigan USA. Designed by the late Don Smith of Heraldic Graphics. Restricted for use by Clyde Webb's, family and their descendants.</em></li>
-<li>2002 — Webb (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3921">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>A personal tartan for the sole use of Clyde Webb and his family of Davison, Michigan USA. Designed by the late Don Suttie Smith of Heraldic Graphics.</em></li>
+<li>2002 — Webb (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3921/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>A personal tartan for the sole use of Clyde Webb and his family of Davison, Michigan USA. Designed by the late Don Suttie Smith of Heraldic Graphics.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2829
 
 ## Thread count
-R/8 K4 DB20 K4 DY6 DB12 W4 G32 K6 W4 K6 W4 K6 W4 R12 W4 K6 W4 K6 W4 K6 G32 W4 DB12 DY6 K4 DB20 K/4
+R/12 W4 K6 W4 K6 W4 K6 G32 W4 DB12 DY6 K4 DB20 K4 R/8
 
-One full sett is **476 threads**.
+One full sett is **244 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/8 K4 DB20 K4 DY6 DB12 W4 G32 K6 W4 K6 W4 K6 W4 R12 W4 K6 W4 K6 W4 K6 G32 W4 DB12 DY6 K4 DB20 K/4 — 476 threads; it folds to the canonical 244-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **476 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 K4 DB20 K4 DY6 DB12 W4 G32 K6 W4 K6 W4 K6 W4 R12 W4 K6 W4 K6 W4 K6 G32 W4 DB12 DY6 K4 DB20 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/12 W4 K6 W4 K6 W4 K6 G32 W4 DB12 DY6 K4 DB20 K4 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

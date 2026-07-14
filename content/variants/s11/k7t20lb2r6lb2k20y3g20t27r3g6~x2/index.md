@@ -12,15 +12,15 @@ crumbs:
 - name: "Stinson"
   url: "/tartans/s/st/stinson/"
 - name: "Stinson"
-  url: "/setts/k7t20lb2r6lb2k20y3g20t27r3g6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7t20lb2r6lb2k20y3g20t27r3g6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRBGGKWRWBKBWRWKGGBR](/stripes/grbggkwrwbkbwrwkggbr/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/stinson/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRBGGKWRWBK](/stripes/grbggkwrwbk/).
 
 Part of the [Stinson](/tartans/s/st/stinson/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3962](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3962)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 438
 
 ## Thread count
-G/12 R6 T54 G40 Y6 K40 LB4 R12 LB4 T40 K14 T40 LB4 R12 LB4 K40 Y6 G40 T54 R/6
+K/14 T40 LB4 R12 LB4 K40 Y6 G40 T54 R6 G/12
 
-One full sett is **858 threads**.
+One full sett is **438 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/12 R6 T54 G40 Y6 K40 LB4 R12 LB4 T40 K14 T40 LB4 R12 LB4 K40 Y6 G40 T54 R/6 — 858 threads; it folds to the canonical 438-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **858 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/12 R6 T54 G40 Y6 K40 LB4 R12 LB4 T40 K14 T40 LB4 R12 LB4 K40 Y6 G40 T54 R/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/14 T40 LB4 R12 LB4 K40 Y6 G40 T54 R6 G/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

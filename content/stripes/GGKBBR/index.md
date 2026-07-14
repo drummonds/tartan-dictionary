@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/">Huntly Gordon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><img src="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/sett.png" alt="Huntly Gordon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/huntly-gordon/">Huntly Gordon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/huntly-gordon/"><img src="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/sett.png" alt="Huntly Gordon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/r2db3t12k11g11y2~x2/">Huntly Gordon 2000 (Commem)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2db3t12k11g11y2~x2/"><img src="/variants/s6/r2db3t12k11g11y2~x2/sett.png" alt="Huntly Gordon 2000 (Commem) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/huntly-gordon-2000-2/">Huntly Gordon 2000</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/huntly-gordon-2000-2/"><img src="/variants/s6/r2db3t12k11g11y2~x2/sett.png" alt="Huntly Gordon 2000 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

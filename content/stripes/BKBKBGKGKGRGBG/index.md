@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/">Prestoungrange/Dolphinstoun/Wills</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><img src="/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/sett.png" alt="Prestoungrange/Dolphinstoun/Wills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/prestoungrange-dolphinstoun-wills/">Prestoungrange/Dolphinstoun/Wills</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prestoungrange-dolphinstoun-wills/"><img src="/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/sett.png" alt="Prestoungrange/Dolphinstoun/Wills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

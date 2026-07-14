@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db1r20g6k6g6r1k6db20w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgkgrkbw/">BRGKGRKBW</a></nav>
 Its design is pattern [BRGKGRKBW](/stripes/brgkgrkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Bush Pilot** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Bush Pilot** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db1r20g6k6g6r1k6db20w1/">Bush Pilot</a></td><td><code>DB/2 R40 G12 K12 G12 R2 K12 DB40 W/2</code></td><td>264</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db1r20g6k6g6r1k6db20w1/"><img src="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/sett.png" alt="Bush Pilot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/">Bush Pilot</a></td><td><code>DB/2 R40 G12 K12 G12 R2 K12 DB40 W/2</code></td><td>264</td><td>2006</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><img src="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/sett.png" alt="Bush Pilot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="164.8" cy="121.0" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/variants/s11/r6db6r3db3r3db28k21g28r21k2y4/"><circle cx="109.1" cy="138.9" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="166.2" cy="134.1" r="4" fill="#3465a4"><title>McGurk</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="132.3" cy="127.4" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="174.5" cy="118.5" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="136.2" cy="130.5" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><circle cx="150.2" cy="130.9" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s10/y6r6y6r6y6k1db18w2db1w4~x2/"><circle cx="145.7" cy="142.6" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="120.3" cy="118.5" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><circle cx="122.1" cy="147.6" r="4" fill="#3465a4"><title>de Franck, Matt</title></circle></a><circle cx="137.6" cy="125.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="165.3" cy="120.8" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/variants/s11/r6db6r3db3r3db28k21g28r21k2y4/"><circle cx="109.5" cy="138.6" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="166.7" cy="133.9" r="4" fill="#3465a4"><title>McGurk</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="132.7" cy="127.2" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="175.1" cy="118.3" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="136.6" cy="130.2" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><circle cx="150.7" cy="130.6" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s10/y6r6y6r6y6k1db18w2db1w4~x2/"><circle cx="146.1" cy="142.3" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="120.7" cy="118.2" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><circle cx="122.4" cy="147.3" r="4" fill="#3465a4"><title>de Franck, Matt</title></circle></a><circle cx="138.0" cy="125.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

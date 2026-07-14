@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db4ly9w4db9ly18w1~x2/">WVU Mountaineer (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db4ly9w4db9ly18w1~x2/"><img src="/variants/s6/db4ly9w4db9ly18w1~x2/sett.png" alt="WVU Mountaineer (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wv/wvu-mountaineer/">WVU Mountaineer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wv/wvu-mountaineer/"><img src="/variants/s6/db4ly9w4db9ly18w1~x2/sett.png" alt="WVU Mountaineer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

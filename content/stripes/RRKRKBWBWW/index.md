@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/">Bell Rock Lighthouse 200th Aniversar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/"><img src="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/sett.png" alt="Bell Rock Lighthouse 200th Aniversar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bell-rock-lighthouse-200th-aniversar/">Bell Rock Lighthouse 200th Aniversar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-rock-lighthouse-200th-aniversar/"><img src="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/sett.png" alt="Bell Rock Lighthouse 200th Aniversar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

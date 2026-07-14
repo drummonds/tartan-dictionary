@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/">Holroyd, John (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/"><img src="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/sett.png" alt="Holroyd, John (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holroyd-john-2/">Holroyd, John</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holroyd-john-2/"><img src="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/sett.png" alt="Holroyd, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

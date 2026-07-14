@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2~x2/">St Anne de Portneuf Canadian District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2~x2/"><img src="/variants/s17/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2~x2/sett.png" alt="St Anne de Portneuf Canadian District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-anne-de-portneuf/">St Anne de Portneuf</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-anne-de-portneuf/"><img src="/variants/s17/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2~x2/sett.png" alt="St Anne de Portneuf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Feis An Eilein"
   url: "/tartans/f/fe/feis-an-eilein/"
 - name: "Feis An Eilein"
-  url: "/setts/n2r9db8dr4db8g2y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n2r9db8dr4db8g2y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/feis-an-eilein/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBBGG](/stripes/brbbbgg/).
 
 Part of the [Feis An Eilein](/tartans/f/fe/feis-an-eilein/) tartan — the named design grouping this sett with its other cloths.

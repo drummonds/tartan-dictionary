@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/">Scottish Prison Service</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/"><img src="/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/sett.png" alt="Scottish Prison Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-prison-service-2/">Scottish Prison Service</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-prison-service-2/"><img src="/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/sett.png" alt="Scottish Prison Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

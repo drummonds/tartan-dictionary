@@ -12,10 +12,10 @@ crumbs:
 - name: "Highland"
   url: "/tartans/h/hi/highland/"
 - name: "Highland Green"
-  url: "/setts/g13db5y3lb6y3db5n6g28w2g28n6db5y3lb6y3db5g13dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g13db5y3lb6y3db5n6g28w2g28n6db5y3lb6y3db5g13dp4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGWGBBGWGBBGWGBG](/stripes/bgbgwgbbgwgbbgwgbg/).
 
 Part of the [Highland](/tartans/h/hi/highland/) tartan — the named design grouping this sett with its other cloths.

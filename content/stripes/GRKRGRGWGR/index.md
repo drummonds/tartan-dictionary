@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/">Scott - 1842 (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><img src="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/sett.png" alt="Scott - 1842 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/">Scott Red Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/"><img src="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/sett.png" alt="Scott Red Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scott-5/">Scott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scott-5/"><img src="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

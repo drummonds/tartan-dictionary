@@ -8,10 +8,10 @@ crumbs:
 - name: "Nevis Dress"
   url: "/tartans/n/ne/nevis-dress/"
 - name: "Nevis Dress"
-  url: "/setts/lr42dr10n2dr2w2dr2lr10w6dr2w3lr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lr42dr10n2dr2w2dr2lr10w6dr2w3lr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/nevis-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBBBWBYWBWY](/stripes/ybbbwbywbwy/).
 
 Part of the [Nevis Dress](/tartans/n/ne/nevis-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3109](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — Nevis Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3109">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D0908C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DC #D0908C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#646464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #646464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><br><em>A fashion tartan created by Jedburgh Woollen Mill.</em></li>
-<li>pre 1984 — Nevis Dress (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5625">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D0908C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DC #D0908C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#646464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #646464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><br><em>Sample in STA Johnston Collection.</em></li>
+<li>pre 1984 — Nevis Dress (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5625/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D0908C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DC #D0908C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#646464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #646464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><br><em>Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g2k1r5w7r1db10w1db10t30y1~x2/">Festival Intercltico de Avils (Coror</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g2k1r5w7r1db10w1db10t30y1~x2/"><img src="/variants/s10/g2k1r5w7r1db10w1db10t30y1~x2/sett.png" alt="Festival Intercltico de Avils (Coror sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/festival-intercltico-de-avils-coror/">Festival Intercltico de Avils (Coror</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/festival-intercltico-de-avils-coror/"><img src="/variants/s10/g2k1r5w7r1db10w1db10t30y1~x2/sett.png" alt="Festival Intercltico de Avils (Coror sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

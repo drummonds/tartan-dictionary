@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/y6r1y4r4db2~x5/">Sands-Pingot Family, Alabama (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/y6r1y4r4db2~x5/"><img src="/variants/s5/y6r1y4r4db2~x5/sett.png" alt="Sands-Pingot Family, Alabama (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sands-pingot-family-alabama/">Sands-Pingot Family, Alabama</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sands-pingot-family-alabama/"><img src="/variants/s5/y6r1y4r4db2~x5/sett.png" alt="Sands-Pingot Family, Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

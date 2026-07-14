@@ -12,15 +12,15 @@ crumbs:
 - name: "Sturrock"
   url: "/tartans/s/st/sturrock/"
 - name: "Sturrock (Blue/Black)"
-  url: "/setts/r52t16k16g22r16lo3r16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r52t16k16g22r16lo3r16/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RYRGKBRBKGRY](/stripes/ryrgkbrbkgry/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/sturrock/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBKGRYR](/stripes/rbkgryr/).
 
 Part of the [Sturrock](/tartans/s/st/sturrock/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4033](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4033)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4033](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1947 — Sturrock (Blue/Black) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4033">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><br><em>The thread count of the cloth sample has been divided by two for display. The Register contains two Sturrock counts. In this version blue replaces part of the black stripe, making a small change to the appearance that could easily go unnoticed. It is likely that the second pattern came about by the use of a very dark blue that was later mistaken for black. This collection is in the Scottish Tartans Society archive.</em></li>
-<li>pre 1947 — Sturrock, Blue/Black (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1359">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>From M'Gregor Hastie Collection via Tony Murray. Apparently first seen in the Wm Anderson collection in 1947. Count is accurate against STS paper. Samples of 3230 (Dalgliesh weave) in STA Dalgety Collections.</em></li>
+<li>pre 1947 — Sturrock, Blue/Black (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1359/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>From M'Gregor Hastie Collection via Tony Murray. Apparently first seen in the Wm Anderson collection in 1947. Count is accurate against STS paper. Samples of 3230 (Dalgliesh weave) in STA Dalgety Collections.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1359
 
 ## Thread count
-R/32 LO6 R32 G44 K32 T32 R104 T32 K32 G44 R32 LO/6
+R/104 T32 K32 G44 R32 LO6 R/32
 
-One full sett is **818 threads**.
+One full sett is **428 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/32 LO6 R32 G44 K32 T32 R104 T32 K32 G44 R32 LO/6 — 818 threads; it folds to the canonical 428-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **818 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/32 LO6 R32 G44 K32 T32 R104 T32 K32 G44 R32 LO/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/104 T32 K32 G44 R32 LO6 R/32 tartan" width="880" height="480">
 
 ## Compared to the master
 

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/b4t3b6k2db12g2db2g24lb2~x2~b1813263-t2508259-db1208266-lb3105255/">Halcrow Howell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/b4t3b6k2db12g2db2g24lb2~x2~b1813263-t2508259-db1208266-lb3105255/"><img src="/variants/s9/b4t3b6k2db12g2db2g24lb2~x2~b1813263-t2508259-db1208266-lb3105255/sett.png" alt="Halcrow Howell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi1406275-t2405244-db1004274-lb3203246/">Halcrow Howell (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi1406275-t2405244-db1004274-lb3203246/"><img src="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi1406275-t2405244-db1004274-lb3203246/sett.png" alt="Halcrow Howell (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/halcrow-howell/">Halcrow Howell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/halcrow-howell/"><img src="/variants/s9/b4t3b6k2db12g2db2g24lb2~x2~b1813263-t2508259-db1208266-lb3105255/sett.png" alt="Halcrow Howell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

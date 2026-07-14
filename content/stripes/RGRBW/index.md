@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r1g7r3db7lb1~x2/">Hebridean 4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r1g7r3db7lb1~x2/"><img src="/variants/s5/r1g7r3db7lb1~x2/sett.png" alt="Hebridean 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebridean-4/">Hebridean 4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-4/"><img src="/variants/s5/r1g7r3db7lb1~x2/sett.png" alt="Hebridean 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/r1dy8r2db8lb1~x2/">Unamed Riding cloak 1745</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r1dy8r2db8lb1~x2/"><img src="/variants/s5/r1dy8r2db8lb1~x2/sett.png" alt="Unamed Riding cloak 1745 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unamed-riding-cloak-1745/">Unamed Riding cloak 1745</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unamed-riding-cloak-1745/"><img src="/variants/s5/r1dy8r2db8lb1~x2/sett.png" alt="Unamed Riding cloak 1745 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

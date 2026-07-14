@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/dr4db6dr2db2dr4db6dr3k4lo2k2lo2k4g2k4dr22db1g2db1dr6db3~x2/">Anderson of Kinnedear Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/dr4db6dr2db2dr4db6dr3k4lo2k2lo2k4g2k4dr22db1g2db1dr6db3~x2/"><img src="/variants/s20/dr4db6dr2db2dr4db6dr3k4lo2k2lo2k4g2k4dr22db1g2db1dr6db3~x2/sett.png" alt="Anderson of Kinnedear Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/anderson-of-kinnedear/">Anderson of Kinnedear</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/anderson-of-kinnedear/"><img src="/variants/s20/dr4db6dr2db2dr4db6dr3k4lo2k2lo2k4g2k4dr22db1g2db1dr6db3~x2/sett.png" alt="Anderson of Kinnedear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k43dg8k8db21dg10w2/"
+- "/setts/k43dg8k8dt21dg10w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkbgw/">KGKBGW</a></nav>
 Its design is pattern [KGKBGW](/stripes/kgkbgw/) — the page of every tartan sharing this colour sequence.
 
 The **Longmuir** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Longmuir** tartan groups 2 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k43dg8k8db21dg10w2/">Longmuir</a> ★</td><td><code>K/86 DG16 K16 DB42 DG20 W/4</code></td><td>278</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k43dg8k8db21dg10w2/"><img src="/variants/s6/k43dg8k8db21dg10w2~x2/sett.png" alt="Longmuir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k43dg8k8dt21dg10w2/">(2014)</a></td><td><code>K/86 DG16 K16 DT42 DG20 W/4</code></td><td>278</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k43dg8k8dt21dg10w2/"><img src="/variants/s6/k43dg8k8dt21dg10w2~x2/sett.png" alt="(2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k43dg8k8db21dg10w2~x2/">Longmuir</a> ★</td><td><code>K/86 DG16 K16 DB42 DG20 W/4</code></td><td>278</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k43dg8k8db21dg10w2~x2/"><img src="/variants/s6/k43dg8k8db21dg10w2~x2/sett.png" alt="Longmuir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k43dg8k8dt21dg10w2~x2/">(2014)</a></td><td><code>K/86 DG16 K16 DT42 DG20 W/4</code></td><td>278</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k43dg8k8dt21dg10w2~x2/"><img src="/variants/s6/k43dg8k8dt21dg10w2~x2/sett.png" alt="(2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="259.2" cy="188.8" r="4" fill="#3465a4"><title>Givens</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="302.9" cy="186.2" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="261.3" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland</title></circle></a><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><circle cx="315.4" cy="146.2" r="4" fill="#3465a4"><title>Patriot Weavers</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9k1~x4/"><circle cx="342.7" cy="187.2" r="4" fill="#3465a4"><title>Monarchs Corporate Sport</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="329.3" cy="140.1" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="271.6" cy="130.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/"><circle cx="284.9" cy="177.8" r="4" fill="#3465a4"><title>Hamworthy Association</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="277.2" cy="155.7" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="256.2" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><circle cx="319.7" cy="162.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="259.9" cy="188.9" r="4" fill="#3465a4"><title>Givens</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="303.8" cy="186.4" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="261.9" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland</title></circle></a><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><circle cx="316.3" cy="146.3" r="4" fill="#3465a4"><title>Patriot Weavers</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9k1~x4/"><circle cx="343.4" cy="187.3" r="4" fill="#3465a4"><title>Monarchs Corporate Sport</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="330.4" cy="140.3" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="272.4" cy="130.2" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/"><circle cx="285.7" cy="177.9" r="4" fill="#3465a4"><title>Hamworthy Association</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="278.0" cy="155.8" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="257.1" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><circle cx="320.6" cy="162.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -12,10 +12,10 @@ crumbs:
 - name: "Marjoribanks"
   url: "/tartans/m/ma/marjoribanks/"
 - name: "Marjoribanks"
-  url: "/setts/y3r2w1r40k36w3k3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3r2w1r40k36w3k3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/marjoribanks/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWRKWKW](/stripes/grwrkwkw/).
 
 Part of the [Marjoribanks](/tartans/m/ma/marjoribanks/) tartan — the named design grouping this sett with its other cloths.

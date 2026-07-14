@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db60lr1db6g10r1g7k2ly2lr2~x2/">Mohammed, Abu Hassan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db60lr1db6g10r1g7k2ly2lr2~x2/"><img src="/variants/s9/db60lr1db6g10r1g7k2ly2lr2~x2/sett.png" alt="Mohammed, Abu Hassan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/mohammed-abu-hassan/">Mohammed, Abu Hassan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/mohammed-abu-hassan/"><img src="/variants/s9/db60lr1db6g10r1g7k2ly2lr2~x2/sett.png" alt="Mohammed, Abu Hassan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db29dy3k3dy3k3dy3dg28k3dy2k3dr3ly3~x2/">Bro-Vigouden (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db29dy3k3dy3k3dy3dg28k3dy2k3dr3ly3~x2/"><img src="/variants/s12/db29dy3k3dy3k3dy3dg28k3dy2k3dr3ly3~x2/sett.png" alt="Bro-Vigouden (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bro-vigouden/">Bro-Vigouden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bro-vigouden/"><img src="/variants/s12/db29dy3k3dy3k3dy3dg28k3dy2k3dr3ly3~x2/sett.png" alt="Bro-Vigouden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

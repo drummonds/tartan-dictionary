@@ -8,10 +8,10 @@ crumbs:
 - name: "New Club Centenary"
   url: "/tartans/n/ne/new-club-centenary/"
 - name: "New Club Centenary"
-  url: "/setts/dg4db3dg20db9dr2db2dr2db18dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4db3dg20db9dr2db2dr2db18dp4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/new-club-centenary/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBG](/stripes/bbbbbbgbg/).
 
 Part of the [New Club Centenary](/tartans/n/ne/new-club-centenary/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4986](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2001 — New Club Centenary (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4986">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>Designed for 2001, the centenary year of the New Golf Club St Andrews to be worn by members.</em></li>
-<li>2001 — New Club Centenary (Commemorative) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3911">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>Designed to be worn by members of the New Club, St Andrews in celebration of their centenary year.</em></li>
+<li>2001 — New Club Centenary (Commemorative) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3911/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>Designed to be worn by members of the New Club, St Andrews in celebration of their centenary year.</em></li>
 </ul>
 </details>
 

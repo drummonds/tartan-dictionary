@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/">Stuart-Houghton Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/"><img src="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/sett.png" alt="Stuart-Houghton Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stuart-houghton-2/">Stuart-Houghton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stuart-houghton-2/"><img src="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/sett.png" alt="Stuart-Houghton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

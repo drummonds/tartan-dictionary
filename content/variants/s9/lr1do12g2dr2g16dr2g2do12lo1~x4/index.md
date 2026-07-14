@@ -12,22 +12,22 @@ crumbs:
 - name: "MacFie Hunting"
   url: "/tartans/m/ma/macfie-hunting/"
 - name: "MacFie Hunting (Clan?)"
-  url: "/setts/lr1do12g2dr2g16dr2g2do12lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lr1do12g2dr2g16dr2g2do12lo1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macfie-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBGBGBGBY](/stripes/ybgbgbgby/).
 
 Part of the [MacFie Hunting](/tartans/m/ma/macfie-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3368](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3368)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3368/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3368/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2002 — MacFie Hunting (Clan?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3368">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><br><em>No information</em></li>
+<li>pre 2002 — MacFie Hunting (Clan?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3368/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><br><em>No information</em></li>
 <li>undated — MacFie Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5035">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><br><em>No information.</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3368](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

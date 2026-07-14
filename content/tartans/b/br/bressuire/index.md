@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/bressuire/"
 - name: "Bressuire"
   url: "/families/bressuire/"
+aliases:
+- "/setts/dr1dg4g1dg3dr4db15w1/"
+- "/setts/dr1g4ly1g3dr4db15w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgggbbw/">BGGGBBW</a></nav>
 A tartan of the [Bressuire](/families/bressuire/) family.
 Its design is pattern [BGGGBBW](/stripes/bgggbbw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Bressuire** tartan groups 2 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr1dg4g1dg3dr4db15w1/">Bressuire</a> ★</td><td><code>DR/4 DG16 G4 DG12 DR16 DB60 W/4</code></td><td>224</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr1dg4g1dg3dr4db15w1/"><img src="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/sett.png" alt="Bressuire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dr1g4ly1g3dr4db15w1/">(District)</a></td><td><code>DR/4 G16 LY4 G12 DR16 DB60 W/4</code></td><td>224</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr1g4ly1g3dr4db15w1/"><img src="/variants/s7/dr1g4ly1g3dr4db15w1~x4/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/">Bressuire</a> ★</td><td><code>DR/4 DG16 G4 DG12 DR16 DB60 W/4</code></td><td>224</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/"><img src="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/sett.png" alt="Bressuire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr1g4ly1g3dr4db15w1~x4/">(District)</a></td><td><code>DR/4 G16 LY4 G12 DR16 DB60 W/4</code></td><td>224</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr1g4ly1g3dr4db15w1~x4/"><img src="/variants/s7/dr1g4ly1g3dr4db15w1~x4/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db8dr2db33dt15g12lo2g2dr2~x2/"><circle cx="358.8" cy="197.5" r="4" fill="#3465a4"><title>Moray Council</title></circle></a><a href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><circle cx="260.0" cy="168.0" r="4" fill="#3465a4"><title>Kleto, Susan</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="359.5" cy="186.5" r="4" fill="#3465a4"><title>Hydesville Tower</title></circle></a><a href="/variants/s8/w4db38g6dr2g6dr36y2dr3~x2/"><circle cx="301.1" cy="168.2" r="4" fill="#3465a4"><title>Scotland 2000</title></circle></a><a href="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/"><circle cx="300.3" cy="164.3" r="4" fill="#3465a4"><title>21st Century</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="331.6" cy="189.2" r="4" fill="#3465a4"><title>Hardie</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="308.3" cy="216.0" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/"><circle cx="406.8" cy="227.7" r="4" fill="#3465a4"><title>Kinross</title></circle></a><a href="/variants/s10/g7lb2db28dg14dp5lb2dp5lb2db27t2~x2/"><circle cx="347.9" cy="180.2" r="4" fill="#3465a4"><title>Head of The Lakes</title></circle></a><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><circle cx="329.2" cy="154.4" r="4" fill="#3465a4"><title>Royal Highland Yacht Club (Corporate</title></circle></a><circle cx="354.4" cy="200.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db8dr2db33dt15g12lo2g2dr2~x2/"><circle cx="359.2" cy="197.5" r="4" fill="#3465a4"><title>Moray Council</title></circle></a><a href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><circle cx="260.3" cy="167.9" r="4" fill="#3465a4"><title>Kleto, Susan</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="360.0" cy="186.7" r="4" fill="#3465a4"><title>Hydesville Tower</title></circle></a><a href="/variants/s8/w4db38g6dr2g6dr36y2dr3~x2/"><circle cx="301.5" cy="168.2" r="4" fill="#3465a4"><title>Scotland 2000</title></circle></a><a href="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/"><circle cx="300.7" cy="164.3" r="4" fill="#3465a4"><title>21st Century</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="332.1" cy="189.3" r="4" fill="#3465a4"><title>Hardie</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="308.6" cy="216.0" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/"><circle cx="407.3" cy="227.9" r="4" fill="#3465a4"><title>Kinross</title></circle></a><a href="/variants/s10/g7lb2db28dg14dp5lb2dp5lb2db27t2~x2/"><circle cx="348.4" cy="180.2" r="4" fill="#3465a4"><title>Head of The Lakes</title></circle></a><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><circle cx="329.7" cy="154.3" r="4" fill="#3465a4"><title>Royal Highland Yacht Club (Corporate</title></circle></a><circle cx="354.8" cy="200.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

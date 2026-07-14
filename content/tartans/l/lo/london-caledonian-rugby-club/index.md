@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r5db40w1db13dg8k4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgbwbr/">KGBWBR</a></nav>
 Its design is pattern [KGBWBR](/stripes/kgbwbr/) — the page of every tartan sharing this colour sequence.
 
 The **London Caledonian Rugby Club** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **London Caledonian Rugby Club** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r5db40w1db13dg8k4/">London Caledonian Rugby Club</a></td><td><code>R/10 DB80 W2 DB26 DG16 K/8</code></td><td>266</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r5db40w1db13dg8k4/"><img src="/variants/s6/r5db40w1db13dg8k4~x2/sett.png" alt="London Caledonian Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r5db40w1db13dg8k4~x2/">London Caledonian Rugby Club</a></td><td><code>R/10 DB80 W2 DB26 DG16 K/8</code></td><td>266</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><img src="/variants/s6/r5db40w1db13dg8k4~x2/sett.png" alt="London Caledonian Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="450.8" cy="102.6" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/"><circle cx="435.9" cy="92.6" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="341.3" cy="115.3" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen'</title></circle></a><a href="/variants/s6/db45k3db10o4k1w2~x4/"><circle cx="579.3" cy="88.9" r="4" fill="#3465a4"><title>Wylie</title></circle></a><a href="/variants/s5/db32r3db4k1y3~x2/"><circle cx="591.7" cy="124.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s6/db40w7db60k10dr25y4/"><circle cx="371.0" cy="167.9" r="4" fill="#3465a4"><title>Stradling</title></circle></a><a href="/variants/s6/db75k4r25db6k6w2~x2/"><circle cx="428.5" cy="96.8" r="4" fill="#3465a4"><title>Hong Kong St Andrew's Society</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="463.9" cy="155.6" r="4" fill="#3465a4"><title>Lochcarron</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="450.0" cy="155.3" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="389.5" cy="184.7" r="4" fill="#3465a4"><title>Bacon</title></circle></a><circle cx="480.9" cy="114.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="452.2" cy="102.9" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/"><circle cx="437.4" cy="92.9" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="342.3" cy="115.4" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen'</title></circle></a><a href="/variants/s6/db45k3db10o4k1w2~x4/"><circle cx="581.1" cy="89.4" r="4" fill="#3465a4"><title>Wylie</title></circle></a><a href="/variants/s5/db32r3db4k1y3~x2/"><circle cx="593.4" cy="125.0" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s6/db40w7db60k10dr25y4/"><circle cx="371.9" cy="168.1" r="4" fill="#3465a4"><title>Stradling</title></circle></a><a href="/variants/s6/db75k4r25db6k6w2~x2/"><circle cx="429.9" cy="97.0" r="4" fill="#3465a4"><title>Hong Kong St Andrew's Society</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="465.3" cy="155.9" r="4" fill="#3465a4"><title>Lochcarron</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="451.3" cy="155.7" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="390.6" cy="184.9" r="4" fill="#3465a4"><title>Bacon</title></circle></a><circle cx="482.2" cy="115.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

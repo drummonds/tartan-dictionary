@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/lb9g52dy15ly4~x2/">McGuigan, Julia (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb9g52dy15ly4~x2/"><img src="/variants/s4/lb9g52dy15ly4~x2/sett.png" alt="McGuigan, Julia (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcguigan-julia/">McGuigan, Julia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcguigan-julia/"><img src="/variants/s4/lb9g52dy15ly4~x2/sett.png" alt="McGuigan, Julia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

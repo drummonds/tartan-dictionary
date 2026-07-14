@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11dy1~x8/">Wisconsin in Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11dy1~x8/"><img src="/variants/s28/db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11dy1~x8/sett.png" alt="Wisconsin in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wisconsin-in-scotland-2/">Wisconsin in Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wisconsin-in-scotland-2/"><img src="/variants/s28/db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11dy1~x8/sett.png" alt="Wisconsin in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

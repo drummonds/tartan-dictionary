@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r6g5k5g5r6t1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgkgr/">BRGKGR</a></nav>
 Its design is pattern [BRGKGR](/stripes/brgkgr/) — the page of every tartan sharing this colour sequence.
 
 The **Norwich No.028** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Norwich No.028** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r6g5k5g5r6t1/">Norwich No.028</a></td><td><code>R/24 G20 K20 G20 R24 T/4</code></td><td>196</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6g5k5g5r6t1/"><img src="/variants/s6/r6g5k5g5r6t1~x4~t2503227/sett.png" alt="Norwich No.028 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/">Norwich No.028</a></td><td><code>R/24 G20 K20 G20 R24 T/4</code></td><td>196</td><td>1870</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><img src="/variants/s6/r6g5k5g5r6t1~x4~t2503227/sett.png" alt="Norwich No.028 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="158.3" cy="273.6" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="170.7" cy="273.0" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="140.5" cy="216.3" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s7/r6g1r6db1g3k3g3~x4/"><circle cx="209.0" cy="219.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s5/r22g6k3g16w22/"><circle cx="122.0" cy="238.4" r="4" fill="#3465a4"><title>Inverness Basque</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="125.3" cy="228.7" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="232.1" cy="199.6" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="240.0" cy="210.6" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="115.0" cy="259.2" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="95.6" cy="220.4" r="4" fill="#3465a4"><title>Aboyne</title></circle></a><circle cx="141.8" cy="258.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="158.5" cy="273.5" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="170.9" cy="272.9" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="140.7" cy="216.2" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s7/r6g1r6db1g3k3g3~x4/"><circle cx="209.5" cy="219.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s5/r22g6k3g16w22/"><circle cx="122.1" cy="238.1" r="4" fill="#3465a4"><title>Inverness Basque</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="125.5" cy="228.5" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="232.7" cy="199.5" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="240.6" cy="210.5" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="115.2" cy="259.1" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="95.8" cy="220.1" r="4" fill="#3465a4"><title>Aboyne</title></circle></a><circle cx="142.0" cy="258.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

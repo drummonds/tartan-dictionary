@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/ly16lb8n1lb2n1lb1n8ly34w2~x2/">Stuart of Bute St Colmac</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/ly16lb8n1lb2n1lb1n8ly34w2~x2/"><img src="/variants/s9/ly16lb8n1lb2n1lb1n8ly34w2~x2/sett.png" alt="Stuart of Bute St Colmac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stuart-of-bute-st-colmac/">Stuart of Bute St Colmac</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stuart-of-bute-st-colmac/"><img src="/variants/s9/ly16lb8n1lb2n1lb1n8ly34w2~x2/sett.png" alt="Stuart of Bute St Colmac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

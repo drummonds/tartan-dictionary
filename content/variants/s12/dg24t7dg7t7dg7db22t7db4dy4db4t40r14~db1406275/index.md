@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Powys"
   url: "/tartans/p/po/powys/"
-- name: "Powys (District)"
-  url: "/setts/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/"
+- name: "Powys Welsh District Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/powys/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBBBGBBR](/stripes/gbgbgbbbgbbr/).
 
 Part of the [Powys](/tartans/p/po/powys/) tartan — the named design grouping this sett with its other cloths.

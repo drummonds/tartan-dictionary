@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/t4w30r4t3r1t1r1t22w2~x2/">Canna, Saphire (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/t4w30r4t3r1t1r1t22w2~x2/"><img src="/variants/s9/t4w30r4t3r1t1r1t22w2~x2/sett.png" alt="Canna, Saphire (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canna-saphire/">Canna Saphire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canna-saphire/"><img src="/variants/s9/t4w30r4t3r1t1r1t22w2~x2/sett.png" alt="Canna Saphire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5lp3g2lp3db5w4r4/">Cavalry 7th.. Regimental Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5lp3g2lp3db5w4r4/"><img src="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5lp3g2lp3db5w4r4/sett.png" alt="Cavalry 7th.. Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cavalry-7th-regimental/">Cavalry 7th.. Regimental</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cavalry-7th-regimental/"><img src="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5lp3g2lp3db5w4r4/sett.png" alt="Cavalry 7th.. Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

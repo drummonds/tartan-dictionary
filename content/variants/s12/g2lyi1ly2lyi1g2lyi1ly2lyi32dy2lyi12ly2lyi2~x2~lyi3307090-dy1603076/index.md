@@ -10,15 +10,15 @@ crumbs:
 - name: "Houston"
   url: "/families/houston/"
 - name: "Houston"
-  url: "/tartans/h/ho/houston-3/"
+  url: "/tartans/h/ho/houston-2/"
 - name: "Houston Family Tartan"
-  url: "/setts/g2lyi1ly2lyi1g2lyi1ly2lyi32dy2lyi12ly2lyi2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2lyi1ly2lyi1g2lyi1ly2lyi32dy2lyi12ly2lyi2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/houston-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYYYGYYYGYYY](/stripes/gyyygyyygyyy/).
 
-Part of the [Houston](/tartans/h/ho/houston-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Houston](/tartans/h/ho/houston-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

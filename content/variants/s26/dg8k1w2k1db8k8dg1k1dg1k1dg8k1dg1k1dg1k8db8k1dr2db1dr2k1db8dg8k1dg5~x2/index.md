@@ -8,15 +8,15 @@ crumbs:
 - name: "Killen"
   url: "/tartans/k/ki/killen/"
 - name: "Killen"
-  url: "/setts/dg8k1w2k1db8k8dg1k1dg1k1dg8k1dg1k1dg1k8db8k1dr2db1dr2k1db8dg8k1dg5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg8k1w2k1db8k8dg1k1dg1k1dg8k1dg1k1dg1k8db8k1dr2db1dr2k1db8dg8k1dg5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGBKBBBKBKGKGKGKGKGKBKWKGKWKBKGKGKGKGKGKBKBBBKBGK](/stripes/gkgbkbbbkbkgkgkgkgkgkbkwkgkwkbkgkgkgkgkgkbkbbbkbgk/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/killen/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGBKBBBKBKGKGKGKGKGKBKWKG](/stripes/gkgbkbbbkbkgkgkgkgkgkbkwkg/).
 
 Part of the [Killen](/tartans/k/ki/killen/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [50 stripe tartan](/stripes/stripes50/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1971](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1971)
 
@@ -28,7 +28,7 @@ Earliest known date: 2004 Designed by Paul Killen for his wedding in July 2004
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Killen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1971">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006C40;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006C40"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #800000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Paul Killen for his wedding in July 2004 but can be worn by anyone of the name.</em></li>
-<li>2004 — Killen (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6575">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006C40;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006C40"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #800000"></span><br><em>Designed by Paul Killen for his wedding in July 2004 but can be worn by anyone of the name.</em></li>
+<li>2004 — Killen (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6575/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006C40;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006C40"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #800000"></span><br><em>Designed by Paul Killen for his wedding in July 2004 but can be worn by anyone of the name.</em></li>
 <li>2004 — Killen Personal Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6575">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006C40;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006C40"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #800000"></span></li>
 </ul>
 </details>
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6575
 
 ## Thread count
-DG/10 K2 DG16 DB16 K2 DR4 DB2 DR4 K2 DB16 K16 DG2 K2 DG2 K2 DG16 K2 DG2 K2 DG2 K16 DB16 K2 W4 K2 DG16 K2 W4 K2 DB16 K16 DG2 K2 DG2 K2 DG16 K2 DG2 K2 DG2 K16 DB16 K2 DR4 DB2 DR4 K2 DB16 DG16 K/2
+DG/16 K2 W4 K2 DB16 K16 DG2 K2 DG2 K2 DG16 K2 DG2 K2 DG2 K16 DB16 K2 DR4 DB2 DR4 K2 DB16 DG16 K2 DG/10
 
-One full sett is **648 threads**.
+One full sett is **330 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/10 K2 DG16 DB16 K2 DR4 DB2 DR4 K2 DB16 K16 DG2 K2 DG2 K2 DG16 K2 DG2 K2 DG2 K16 DB16 K2 W4 K2 DG16 K2 W4 K2 DB16 K16 DG2 K2 DG2 K2 DG16 K2 DG2 K2 DG2 K16 DB16 K2 DR4 DB2 DR4 K2 DB16 DG16 K/2 — 648 threads; it folds to the canonical 330-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **648 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/10 K2 DG16 DB16 K2 DR4 DB2 DR4 K2 DB16 K16 DG2 K2 DG2 K2 DG16 K2 DG2 K2 DG2 K16 DB16 K2 W4 K2 DG16 K2 W4 K2 DB16 K16 DG2 K2 DG2 K2 DG16 K2 DG2 K2 DG2 K16 DB16 K2 DR4 DB2 DR4 K2 DB16 DG16 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/16 K2 W4 K2 DB16 K16 DG2 K2 DG2 K2 DG16 K2 DG2 K2 DG2 K16 DB16 K2 DR4 DB2 DR4 K2 DB16 DG16 K2 DG/10 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Bailies of Bennachie"
   url: "/tartans/b/ba/bailies-of-bennachie/"
 - name: "Bailies of Bennachie Corporate Tartan"
-  url: "/setts/dg27dr2dg4o15db26k2db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg27dr2dg4o15db26k2db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bailies-of-bennachie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRGBG](/stripes/bkbrgbg/).
 
 Part of the [Bailies of Bennachie](/tartans/b/ba/bailies-of-bennachie/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db7y1db7lb11r2~x6/">Brazell (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db7y1db7lb11r2~x6/"><img src="/variants/s5/db7y1db7lb11r2~x6/sett.png" alt="Brazell (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/db9y9db9lb23r3~x2/">Tilburg (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db9y9db9lb23r3~x2/"><img src="/variants/s5/db9y9db9lb23r3~x2/sett.png" alt="Tilburg (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brazell/">Brazell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brazell/"><img src="/variants/s5/db7y1db7lb11r2~x6/sett.png" alt="Brazell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tilburg/">Tilburg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tilburg/"><img src="/variants/s5/db9y9db9lb23r3~x2/sett.png" alt="Tilburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

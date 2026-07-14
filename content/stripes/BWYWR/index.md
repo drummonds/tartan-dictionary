@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db30w4ly1w4r30~x4/">Philippine Heritage (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db30w4ly1w4r30~x4/"><img src="/variants/s5/db30w4ly1w4r30~x4/sett.png" alt="Philippine Heritage (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/ph/philippine-heritage/">Philippine Heritage</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/ph/philippine-heritage/"><img src="/variants/s5/db30w4ly1w4r30~x4/sett.png" alt="Philippine Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

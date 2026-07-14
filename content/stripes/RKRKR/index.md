@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r4k1r24k22r2~x2/">Campbell Red (artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r4k1r24k22r2~x2/"><img src="/variants/s5/r4k1r24k22r2~x2/sett.png" alt="Campbell Red (artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r4k1r12k12r2~x2/">Campbell of Armaddie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r4k1r12k12r2~x2/"><img src="/variants/s5/r4k1r12k12r2~x2/sett.png" alt="Campbell of Armaddie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r8k1r8k12r1~x2/">MacLeod Black &amp; Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r8k1r8k12r1~x2/"><img src="/variants/s5/r8k1r8k12r1~x2/sett.png" alt="MacLeod Black &amp; Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r75k15r4k15r4~x2/">Masai Shuka 07 (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r75k15r4k15r4~x2/"><img src="/variants/s5/r75k15r4k15r4~x2/sett.png" alt="Masai Shuka 07 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-5/">Campbell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-5/"><img src="/variants/s5/r4k1r24k22r2~x2/sett.png" alt="Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-of-armaddie/">Campbell of Armaddie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-armaddie/"><img src="/variants/s5/r4k1r12k12r2~x2/sett.png" alt="Campbell of Armaddie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-black-2/">MacLeod Black &amp;</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-black-2/"><img src="/variants/s5/r8k1r8k12r1~x2/sett.png" alt="MacLeod Black &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/masai-shuka-07/">Masai Shuka 07</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/masai-shuka-07/"><img src="/variants/s5/r75k15r4k15r4~x2/sett.png" alt="Masai Shuka 07 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

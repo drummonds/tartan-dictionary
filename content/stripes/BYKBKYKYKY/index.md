@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/">Campbell 'Camel'</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><img src="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/sett.png" alt="Campbell 'Camel' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-camel/">Campbell 'Camel'</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-camel/"><img src="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/sett.png" alt="Campbell 'Camel' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

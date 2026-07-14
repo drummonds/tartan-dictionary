@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w4db30g10dr25w2~x2/">Highland Spring Dress (2004) (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w4db30g10dr25w2~x2/"><img src="/variants/s5/w4db30g10dr25w2~x2/sett.png" alt="Highland Spring Dress (2004) (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-spring-dress-2/">Highland Spring Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-spring-dress-2/"><img src="/variants/s5/w4db30g10dr25w2~x2/sett.png" alt="Highland Spring Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

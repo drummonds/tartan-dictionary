@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/">Iron Horse</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/"><img src="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/sett.png" alt="Iron Horse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ir/iron-horse/">Iron Horse</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ir/iron-horse/"><img src="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/sett.png" alt="Iron Horse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

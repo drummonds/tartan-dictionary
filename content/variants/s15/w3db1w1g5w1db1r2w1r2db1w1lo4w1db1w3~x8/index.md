@@ -10,17 +10,17 @@ crumbs:
 - name: "Womble"
   url: "/families/womble/"
 - name: "Womble"
-  url: "/tartans/w/wo/womble-3/"
+  url: "/tartans/w/wo/womble/"
 - name: "Womble"
-  url: "/setts/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWGWBRWRBWYWBWBWYWBRWRBWGWBW](/stripes/bwgwbrwrbwywbwbwywbrwrbwgwbw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wo/womble/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/).
 
-Part of the [Womble](/tartans/w/wo/womble-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Womble](/tartans/w/wo/womble/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4771](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4771)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4771](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1970 — Womble (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4771">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><br><em>This count taken from an actual sample and is different in detail from the other 'Wombles' setts. Sample in Scottish Tartans Authority's Dalgety Collection.</em></li>
-<li>1970s — Wombles 1 (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6077">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><br><em>This count taken from an actual sample is different in detail from the other 'Wombles' setts. Sample in STA Dalgety Collection.</em></li>
+<li>1970s — Wombles 1 (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6077/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><br><em>This count taken from an actual sample is different in detail from the other 'Wombles' setts. Sample in STA Dalgety Collection.</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6077
 
 ## Thread count
-W/24 DB8 W8 G40 W8 DB8 R16 W8 R16 DB8 W8 LO32 W8 DB8 W24 DB8 W8 LO32 W8 DB8 R16 W8 R16 DB8 W8 G40 W8 DB/8
+W/24 DB8 W8 G40 W8 DB8 R16 W8 R16 DB8 W8 LO32 W8 DB8 W/24
 
-One full sett is **768 threads**.
+One full sett is **400 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/24 DB8 W8 G40 W8 DB8 R16 W8 R16 DB8 W8 LO32 W8 DB8 W24 DB8 W8 LO32 W8 DB8 R16 W8 R16 DB8 W8 G40 W8 DB/8 — 768 threads; it folds to the canonical 400-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **768 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/24 DB8 W8 G40 W8 DB8 R16 W8 R16 DB8 W8 LO32 W8 DB8 W24 DB8 W8 LO32 W8 DB8 R16 W8 R16 DB8 W8 G40 W8 DB/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/24 DB8 W8 G40 W8 DB8 R16 W8 R16 DB8 W8 LO32 W8 DB8 W/24 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

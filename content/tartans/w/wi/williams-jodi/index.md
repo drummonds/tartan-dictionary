@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Williams"
   url: "/clan/williams/"
+aliases:
+- "/setts/n2k20r2g3r4g35r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkrgrgr/">BKRGRGR</a></nav>
 A tartan of [Clan Williams](/clan/williams/).
 Its design is pattern [BKRGRGR](/stripes/bkrgrgr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Williams, Jodi** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n2k20r2g3r4g35r1/">Williams, Jodi</a></td><td><code>N/4 K40 R4 G6 R8 G70 R/2</code></td><td>262</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n2k20r2g3r4g35r1/"><img src="/variants/s7/n2k20r2g3r4g35r1~x2/sett.png" alt="Williams, Jodi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n2k20r2g3r4g35r1~x2/">Williams, Jodi</a></td><td><code>N/4 K40 R4 G6 R8 G70 R/2</code></td><td>262</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n2k20r2g3r4g35r1~x2/"><img src="/variants/s7/n2k20r2g3r4g35r1~x2/sett.png" alt="Williams, Jodi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k9w2dr50g42dr16g17k4/"><circle cx="276.7" cy="150.9" r="4" fill="#3465a4"><title>McNee</title></circle></a><a href="/variants/s5/g3dr1k14g14lo1~x4/"><circle cx="269.0" cy="173.0" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="259.1" cy="148.3" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s8/dy2g1k1g26k11db6k1g2~x2/"><circle cx="312.6" cy="111.5" r="4" fill="#3465a4"><title>Mackie</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="299.5" cy="124.5" r="4" fill="#3465a4"><title>Moran</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="230.1" cy="116.0" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s6/dr3g30k12g1k16lo2~x2/"><circle cx="273.6" cy="134.4" r="4" fill="#3465a4"><title>MacArthur-Fox Hunting</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="297.5" cy="160.1" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="293.8" cy="157.0" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s8/k83r16g56k2w5k2g56r5~x2/"><circle cx="272.7" cy="101.0" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><circle cx="312.2" cy="101.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k9w2dr50g42dr16g17k4/"><circle cx="277.4" cy="150.9" r="4" fill="#3465a4"><title>McNee</title></circle></a><a href="/variants/s5/g3dr1k14g14lo1~x4/"><circle cx="269.8" cy="173.1" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="259.8" cy="148.3" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s8/dy2g1k1g26k11db6k1g2~x2/"><circle cx="313.5" cy="111.7" r="4" fill="#3465a4"><title>Mackie</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="300.4" cy="124.6" r="4" fill="#3465a4"><title>Moran</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="230.8" cy="115.9" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s6/dr3g30k12g1k16lo2~x2/"><circle cx="274.4" cy="134.4" r="4" fill="#3465a4"><title>MacArthur-Fox Hunting</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="298.3" cy="160.2" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="294.6" cy="157.2" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s8/k83r16g56k2w5k2g56r5~x2/"><circle cx="273.6" cy="101.0" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><circle cx="313.2" cy="101.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

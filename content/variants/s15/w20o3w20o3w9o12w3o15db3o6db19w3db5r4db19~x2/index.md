@@ -10,10 +10,10 @@ crumbs:
 - name: "Black and White, Colourway"
   url: "/tartans/b/bl/black-and-white-colourway-2/"
 - name: "Black and White, Colourway"
-  url: "/setts/w20o3w20o3w9o12w3o15db3o6db19w3db5r4db19/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w20o3w20o3w9o12w3o15db3o6db19w3db5r4db19/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-and-white-colourway-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBRBRWRWRWRW](/stripes/brbwbrbrwrwrwrw/).
 
 Part of the [Black and White, Colourway](/tartans/b/bl/black-and-white-colourway-2/) tartan — the named design grouping this sett with its other cloths.

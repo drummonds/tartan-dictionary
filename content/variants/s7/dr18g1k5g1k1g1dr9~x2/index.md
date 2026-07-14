@@ -10,10 +10,10 @@ crumbs:
 - name: "Inverness Augustus"
   url: "/tartans/i/in/inverness-augustus/"
 - name: "Inverness Augustus"
-  url: "/setts/dr18g1k5g1k1g1dr9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr18g1k5g1k1g1dr9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/inverness-augustus/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGB](/stripes/bgkgkgb/).
 
 Part of the [Inverness Augustus](/tartans/i/in/inverness-augustus/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4y18db44k3y10k4/">Stutterheim</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4y18db44k3y10k4/"><img src="/variants/s6/k4y18db44k3y10k4/sett.png" alt="Stutterheim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stutterheim/">Stutterheim</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stutterheim/"><img src="/variants/s6/k4y18db44k3y10k4/sett.png" alt="Stutterheim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

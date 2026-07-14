@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/">Royal Highland Society (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><img src="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/sett.png" alt="Royal Highland Society (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-highland-society/">Royal Highland Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-highland-society/"><img src="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/sett.png" alt="Royal Highland Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/">Canterbury (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><img src="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/sett.png" alt="Canterbury (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canterbury/">Canterbury</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canterbury/"><img src="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/sett.png" alt="Canterbury sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

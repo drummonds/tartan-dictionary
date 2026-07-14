@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/">Pounds</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/"><img src="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/sett.png" alt="Pounds sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/pounds/">Pounds</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/pounds/"><img src="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/sett.png" alt="Pounds sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

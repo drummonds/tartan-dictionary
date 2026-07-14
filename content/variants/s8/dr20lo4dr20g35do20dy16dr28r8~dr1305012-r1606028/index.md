@@ -12,10 +12,10 @@ crumbs:
 - name: "Leighton"
   url: "/tartans/l/le/leighton-2/"
 - name: "Leighton (Personal)"
-  url: "/setts/dr20lo4dr20g35do20dy16dr28r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr20lo4dr20g35do20dy16dr28r8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/leighton-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBGBGBR](/stripes/bybgbgbr/).
 
 Part of the [Leighton](/tartans/l/le/leighton-2/) tartan — the named design grouping this sett with its other cloths.

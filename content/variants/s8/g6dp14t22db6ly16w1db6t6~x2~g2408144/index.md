@@ -12,10 +12,10 @@ crumbs:
 - name: "Scotia"
   url: "/tartans/s/sc/scotia/"
 - name: "Scotia"
-  url: "/setts/g6dp14t22db6ly16w1db6t6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g6dp14t22db6ly16w1db6t6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scotia/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWYBBBG](/stripes/bbwybbbg/).
 
 Part of the [Scotia](/tartans/s/sc/scotia/) tartan — the named design grouping this sett with its other cloths.

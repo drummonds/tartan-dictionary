@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/">Glenmore Pink</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><img src="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/sett.png" alt="Glenmore Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenmore-pink/">Glenmore Pink</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenmore-pink/"><img src="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/sett.png" alt="Glenmore Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

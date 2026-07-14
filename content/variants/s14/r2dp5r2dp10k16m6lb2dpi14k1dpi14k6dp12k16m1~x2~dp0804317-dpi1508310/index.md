@@ -8,10 +8,10 @@ crumbs:
 - name: "Katie Targett-Adams"
   url: "/tartans/k/ka/katie-targett-adams/"
 - name: "Katie Targett-Adams"
-  url: "/setts/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ka/katie-targett-adams/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKRWBKBKBKR](/stripes/rbrbkrwbkbkbkr/).
 
 Part of the [Katie Targett-Adams](/tartans/k/ka/katie-targett-adams/) tartan — the named design grouping this sett with its other cloths.

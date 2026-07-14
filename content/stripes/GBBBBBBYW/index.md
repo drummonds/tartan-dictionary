@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/">Blue Knights, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/"><img src="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/sett.png" alt="Blue Knights, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blue-knights-the/">Blue Knights, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-knights-the/"><img src="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/sett.png" alt="Blue Knights, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

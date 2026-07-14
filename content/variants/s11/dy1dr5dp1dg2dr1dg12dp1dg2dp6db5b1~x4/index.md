@@ -8,10 +8,10 @@ crumbs:
 - name: "Telfer, Jamie of the Fair Dodhead"
   url: "/tartans/t/te/telfer-jamie-of-the-fair-dodhead/"
 - name: "Telfer, Jamie of the Fair Dodhead"
-  url: "/setts/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/te/telfer-jamie-of-the-fair-dodhead/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBGBBG](/stripes/bbbgbgbgbbg/).
 
 Part of the [Telfer, Jamie of the Fair Dodhead](/tartans/t/te/telfer-jamie-of-the-fair-dodhead/) tartan — the named design grouping this sett with its other cloths.

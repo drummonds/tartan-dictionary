@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/">Kinloch Anderson Thistle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/"><img src="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/sett.png" alt="Kinloch Anderson Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/dbi8db8dbi4db28k12dp7k12dg4dp8dg4dp28o8~dbi1406275-db1004274/">Kinloch Anderson Thistle (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dbi8db8dbi4db28k12dp7k12dg4dp8dg4dp28o8~dbi1406275-db1004274/"><img src="/variants/s12/dbi8db8dbi4db28k12dp7k12dg4dp8dg4dp28o8~dbi1406275-db1004274/sett.png" alt="Kinloch Anderson Thistle (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinloch-anderson-thistle/">Kinloch Anderson Thistle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinloch-anderson-thistle/"><img src="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/sett.png" alt="Kinloch Anderson Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

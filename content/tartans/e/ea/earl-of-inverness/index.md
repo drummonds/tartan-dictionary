@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r42dp4ly1dp6g1dp1g1r12/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbybgbgr/">RBYBGBGR</a></nav>
 Its design is pattern [RBYBGBGR](/stripes/rbybgbgr/) — the page of every tartan sharing this colour sequence.
 
 The **Earl of Inverness** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Earl of Inverness** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r42dp4ly1dp6g1dp1g1r12/">Earl of Inverness</a></td><td><code>R/84 DP8 LY2 DP12 G2 DP2 G2 R/24</code></td><td>164</td><td>~1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r42dp4ly1dp6g1dp1g1r12/"><img src="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/sett.png" alt="Earl of Inverness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/">Earl of Inverness</a></td><td><code>R/84 DP8 LY2 DP12 G2 DP2 G2 R/24</code></td><td>164</td><td>~1800</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><img src="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/sett.png" alt="Earl of Inverness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r65w2r3dr4g11r3g3r11~x2/"><circle cx="586.4" cy="103.0" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/"><circle cx="575.8" cy="97.6" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><circle cx="569.4" cy="84.9" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="606.8" cy="82.2" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/"><circle cx="626.0" cy="128.6" r="4" fill="#3465a4"><title>Cairngorms National Park</title></circle></a><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><circle cx="563.1" cy="74.5" r="4" fill="#3465a4"><title>Prince of Denmark</title></circle></a><circle cx="601.6" cy="97.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r65w2r3dr4g11r3g3r11~x2/"><circle cx="587.8" cy="103.5" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/"><circle cx="577.2" cy="98.0" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><circle cx="570.9" cy="85.2" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="608.4" cy="82.6" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/"><circle cx="626.0" cy="129.2" r="4" fill="#3465a4"><title>Cairngorms National Park</title></circle></a><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><circle cx="564.6" cy="74.8" r="4" fill="#3465a4"><title>Prince of Denmark</title></circle></a><circle cx="603.1" cy="97.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r28db12r3dg20lb2dg2r7~x2/">Carrick (Strathmore) District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r28db12r3dg20lb2dg2r7~x2/"><img src="/variants/s7/r28db12r3dg20lb2dg2r7~x2/sett.png" alt="Carrick (Strathmore) District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carrick-2/">Carrick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carrick-2/"><img src="/variants/s7/r28db12r3dg20lb2dg2r7~x2/sett.png" alt="Carrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

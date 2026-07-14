@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/t60o7ly2o2t20db15t5lb2y2lb6t5db2g3db1r3db1g3db2t5lb6y2lb2t5db15~x2/">Commonwealth Bid (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/t60o7ly2o2t20db15t5lb2y2lb6t5db2g3db1r3db1g3db2t5lb6y2lb2t5db15~x2/"><img src="/variants/s24/t60o7ly2o2t20db15t5lb2y2lb6t5db2g3db1r3db1g3db2t5lb6y2lb2t5db15~x2/sett.png" alt="Commonwealth Bid (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/commonwealth-bid/">Commonwealth Bid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/commonwealth-bid/"><img src="/variants/s24/t60o7ly2o2t20db15t5lb2y2lb6t5db2g3db1r3db1g3db2t5lb6y2lb2t5db15~x2/sett.png" alt="Commonwealth Bid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

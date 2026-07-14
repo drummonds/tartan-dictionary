@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/">Apollo 12 (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/"><img src="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/sett.png" alt="Apollo 12 (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ap/apollo-12/">Apollo 12</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ap/apollo-12/"><img src="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/sett.png" alt="Apollo 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

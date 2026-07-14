@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w3dr20g2r5n2r4n2r2n4r1n20lb3~x2/">Ryutokukan High School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w3dr20g2r5n2r4n2r2n4r1n20lb3~x2/"><img src="/variants/s12/w3dr20g2r5n2r4n2r2n4r1n20lb3~x2/sett.png" alt="Ryutokukan High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ry/ryutokukan-high-school/">Ryutokukan High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ry/ryutokukan-high-school/"><img src="/variants/s12/w3dr20g2r5n2r4n2r2n4r1n20lb3~x2/sett.png" alt="Ryutokukan High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

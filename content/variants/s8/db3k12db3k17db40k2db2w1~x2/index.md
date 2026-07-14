@@ -10,10 +10,10 @@ crumbs:
 - name: "Blue Spirit"
   url: "/tartans/b/bl/blue-spirit/"
 - name: "Blue Spirit Fashion Tartan"
-  url: "/setts/db3k12db3k17db40k2db2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3k12db3k17db40k2db2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blue-spirit/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBW](/stripes/bkbkbkbw/).
 
 Part of the [Blue Spirit](/tartans/b/bl/blue-spirit/) tartan — the named design grouping this sett with its other cloths.

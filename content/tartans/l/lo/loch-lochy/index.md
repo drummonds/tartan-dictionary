@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r6g14r6db11r31lb2r4y3/"
+- "/setts/r6g14r6db12r31lb2r4ly3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grwrbrgr/">GRWRBRGR</a></nav>
 Its design is pattern [GRWRBRGR](/stripes/grwrbrgr/) — the page of every tartan sharing this colour sequence.
 
 The **Loch Lochy** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Loch Lochy** tartan groups 2 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r6g14r6db11r31lb2r4y3/">Loch Lochy</a> ★</td><td><code>R/12 G28 R12 DB22 R62 LB4 R8 Y/6</code></td><td>290</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6g14r6db11r31lb2r4y3/"><img src="/variants/s8/r6g14r6db11r31lb2r4y3~x2/sett.png" alt="Loch Lochy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r6g14r6db12r31lb2r4ly3/">(District)</a></td><td><code>R/12 G28 R12 DB24 R62 LB4 R8 LY/6</code></td><td>294</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6g14r6db12r31lb2r4ly3/"><img src="/variants/s8/r6g14r6db12r31lb2r4ly3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r6g14r6db11r31lb2r4y3~x2/">Loch Lochy</a> ★</td><td><code>R/12 G28 R12 DB22 R62 LB4 R8 Y/6</code></td><td>290</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r6g14r6db11r31lb2r4y3~x2/"><img src="/variants/s8/r6g14r6db11r31lb2r4y3~x2/sett.png" alt="Loch Lochy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r6g14r6db12r31lb2r4ly3~x2/">(District)</a></td><td><code>R/12 G28 R12 DB24 R62 LB4 R8 LY/6</code></td><td>294</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r6g14r6db12r31lb2r4ly3~x2/"><img src="/variants/s8/r6g14r6db12r31lb2r4ly3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="273.6" cy="193.1" r="4" fill="#3465a4"><title>MacQuarrie 2</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="367.5" cy="174.9" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="270.1" cy="191.7" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/"><circle cx="331.2" cy="133.8" r="4" fill="#3465a4"><title>Justerini &amp; Brooks</title></circle></a><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="315.4" cy="99.3" r="4" fill="#3465a4"><title>Hoben</title></circle></a><a href="/variants/s7/r33k8dy12g12r8dy2r8~x2/"><circle cx="298.1" cy="159.2" r="4" fill="#3465a4"><title>Tipperary, County</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="438.4" cy="156.6" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="323.9" cy="134.5" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s6/r2db10r2g10r25w2~x2/"><circle cx="319.8" cy="181.5" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="372.8" cy="122.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="340.0" cy="159.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="274.1" cy="193.1" r="4" fill="#3465a4"><title>MacQuarrie 2</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="368.2" cy="175.0" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="270.6" cy="191.6" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/"><circle cx="332.1" cy="133.8" r="4" fill="#3465a4"><title>Justerini &amp; Brooks</title></circle></a><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="316.3" cy="99.3" r="4" fill="#3465a4"><title>Hoben</title></circle></a><a href="/variants/s7/r33k8dy12g12r8dy2r8~x2/"><circle cx="298.9" cy="159.2" r="4" fill="#3465a4"><title>Tipperary, County</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="439.4" cy="156.8" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="324.8" cy="134.6" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s6/r2db10r2g10r25w2~x2/"><circle cx="320.5" cy="181.5" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="373.7" cy="122.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="340.7" cy="159.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

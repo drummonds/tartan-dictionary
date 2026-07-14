@@ -12,10 +12,10 @@ crumbs:
 - name: "Gates, Hunting"
   url: "/tartans/g/ga/gates-hunting/"
 - name: "Gates, Hunting"
-  url: "/setts/dg24g3dg4g12dg8g3dg8g30t3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg24g3dg4g12dg8g3dg8g30t3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ga/gates-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGGGGG](/stripes/bgggggggg/).
 
 Part of the [Gates, Hunting](/tartans/g/ga/gates-hunting/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1317](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Gates, Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1317">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>Received from Phil Smith May 2004. 'Designed by Dr Philip Smith in 2002 for the Daniel Gates family but may be used by all of the name.'</em></li>
-<li>2002 — Gates, Htg (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6263">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>Received from Phil Smith May 2004. "Designed by Dr Philip Smith in 2002 for the Daniel Gates family but may be used by all of the name."</em></li>
+<li>2002 — Gates, Htg (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6263/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>Received from Phil Smith May 2004. "Designed by Dr Philip Smith in 2002 for the Daniel Gates family but may be used by all of the name."</em></li>
 </ul>
 </details>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Duffus Hose, Lord"
   url: "/tartans/d/du/duffus-hose-lord/"
 - name: "Duffus Hose, Lord"
-  url: "/setts/ly11r6k10ly10k10dy10r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly11r6k10ly10k10dy10r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duffus-hose-lord/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKYKRY](/stripes/rgkykry/).
 
 Part of the [Duffus Hose, Lord](/tartans/d/du/duffus-hose-lord/) tartan — the named design grouping this sett with its other cloths.

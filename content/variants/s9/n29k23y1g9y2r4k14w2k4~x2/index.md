@@ -12,10 +12,10 @@ crumbs:
 - name: "Letter Dress"
   url: "/tartans/l/le/letter-dress/"
 - name: "Letter Dress (2014)"
-  url: "/setts/n29k23y1g9y2r4k14w2k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n29k23y1g9y2r4k14w2k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/letter-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGGRKWK](/stripes/bkgggrkwk/).
 
 Part of the [Letter Dress](/tartans/l/le/letter-dress/) tartan — the named design grouping this sett with its other cloths.

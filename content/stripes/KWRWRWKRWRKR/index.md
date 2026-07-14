@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r22k1r4w1r1k1w1r4w4r1w2k1~x4/">Valour</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r22k1r4w1r1k1w1r4w4r1w2k1~x4/"><img src="/variants/s12/r22k1r4w1r1k1w1r4w4r1w2k1~x4/sett.png" alt="Valour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/valour/">Valour</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/valour/"><img src="/variants/s12/r22k1r4w1r1k1w1r4w4r1w2k1~x4/sett.png" alt="Valour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

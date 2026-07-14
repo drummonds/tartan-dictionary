@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db2g4y1db1r2g4r2~x12/">Creek Indian Nation (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db2g4y1db1r2g4r2~x12/"><img src="/variants/s7/db2g4y1db1r2g4r2~x12/sett.png" alt="Creek Indian Nation (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/creek-indian-nation/">Creek Indian Nation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/creek-indian-nation/"><img src="/variants/s7/db2g4y1db1r2g4r2~x12/sett.png" alt="Creek Indian Nation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

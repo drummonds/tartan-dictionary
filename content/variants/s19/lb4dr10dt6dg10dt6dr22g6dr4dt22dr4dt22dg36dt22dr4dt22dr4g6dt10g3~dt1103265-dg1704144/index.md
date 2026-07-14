@@ -12,10 +12,10 @@ crumbs:
 - name: "Jrgensen of Taasingee"
   url: "/tartans/j/jr/jrgensen-of-taasingee/"
 - name: "Jrgensen of Taasingee (Personal)"
-  url: "/setts/lb4dr10dt6dg10dt6dr22g6dr4dt22dr4dt22dg36dt22dr4dt22dr4g6dt10g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4dr10dt6dg10dt6dr22g6dr4dt22dr4dt22dg36dt22dr4dt22dr4g6dt10g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/jr/jrgensen-of-taasingee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBBBGBBBBGBBGBBW](/stripes/gbgbbbbgbbbbgbbgbbw/).
 
 Part of the [Jrgensen of Taasingee](/tartans/j/jr/jrgensen-of-taasingee/) tartan — the named design grouping this sett with its other cloths.

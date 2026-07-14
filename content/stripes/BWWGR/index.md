@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/n10w3lb3g1r1~x10/">Bagpipe Shop (Switzerland)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/n10w3lb3g1r1~x10/"><img src="/variants/s5/n10w3lb3g1r1~x10/sett.png" alt="Bagpipe Shop (Switzerland) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bagpipe-shop/">Bagpipe Shop</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bagpipe-shop/"><img src="/variants/s5/n10w3lb3g1r1~x10/sett.png" alt="Bagpipe Shop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Heirloom Dark Alba"
   url: "/tartans/h/he/heirloom-dark-alba/"
 - name: "Heirloom Dark Alba"
-  url: "/setts/k4ly2k34db10lb4db4dp4db23w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4ly2k34db10lb4db4dp4db23w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KYKBWBBBWBBBWBKY](/stripes/kykbwbbbwbbbwbky/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/heirloom-dark-alba/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KYKBWBBBW](/stripes/kykbwbbbw/).
 
 Part of the [Heirloom Dark Alba](/tartans/h/he/heirloom-dark-alba/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1679](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1679)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1679](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Heirloom Dark Alba (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1679">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A Lochcarron fashion design - swatch Scottish Tartans Authority's in archive.</em></li>
-<li>Jan 2004 — Heirloom Dark Alba (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6408">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A Lochcarron fashion design - swatch in archive.</em></li>
+<li>Jan 2004 — Heirloom Dark Alba (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6408/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A Lochcarron fashion design - swatch in archive.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6408
 
 ## Thread count
-K/8 LY4 K68 DB20 LB8 DB8 DP8 DB46 W6 DB46 DP8 DB8 LB8 DB20 K68 LY/4
+K/8 LY4 K68 DB20 LB8 DB8 DP8 DB46 W/6
 
-One full sett is **664 threads**.
+One full sett is **338 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/8 LY4 K68 DB20 LB8 DB8 DP8 DB46 W6 DB46 DP8 DB8 LB8 DB20 K68 LY/4 — 664 threads; it folds to the canonical 338-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **664 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 LY4 K68 DB20 LB8 DB8 DP8 DB46 W6 DB46 DP8 DB8 LB8 DB20 K68 LY/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 LY4 K68 DB20 LB8 DB8 DP8 DB46 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

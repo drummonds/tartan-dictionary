@@ -12,10 +12,10 @@ crumbs:
 - name: "Perry Hunting"
   url: "/tartans/p/pe/perry-hunting/"
 - name: "Perry Hunting (Green) (Personal)"
-  url: "/setts/k75g26lr2g4lo5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k75g26lr2g4lo5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/perry-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYGY](/stripes/kgygy/).
 
 Part of the [Perry Hunting](/tartans/p/pe/perry-hunting/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3323](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1986 — Perry Hunting (Green) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3323">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>By Dr. J.R. Perry of Alberta and based on the original Perry tartan at #1212 by Ross Henderson of Stirling in 1982. Registered with The Scottish Tartans Society 1986.</em></li>
-<li>1986 — Perry Htg (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1119">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>By Dr. J.R. Perry of Alberta and based on the original Perry tartan at 1212.</em></li>
+<li>1986 — Perry Htg (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1119/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>By Dr. J.R. Perry of Alberta and based on the original Perry tartan at 1212.</em></li>
 </ul>
 </details>
 

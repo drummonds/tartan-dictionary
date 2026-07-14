@@ -12,10 +12,10 @@ crumbs:
 - name: "Buncle"
   url: "/tartans/b/bu/buncle/"
 - name: "Buncle (Duns)"
-  url: "/setts/y9r31g12dy2lb9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y9r31g12dy2lb9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/buncle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGW](/stripes/grggw/).
 
 Part of the [Buncle](/tartans/b/bu/buncle/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g38n8t3db4n12ly1g4n1~x2/">Del Forno Wolf (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g38n8t3db4n12ly1g4n1~x2/"><img src="/variants/s8/g38n8t3db4n12ly1g4n1~x2/sett.png" alt="Del Forno Wolf (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/del-forno-wolf/">Del Forno Wolf</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/del-forno-wolf/"><img src="/variants/s8/g38n8t3db4n12ly1g4n1~x2/sett.png" alt="Del Forno Wolf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

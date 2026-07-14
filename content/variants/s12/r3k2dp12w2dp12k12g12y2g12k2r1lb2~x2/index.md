@@ -12,10 +12,10 @@ crumbs:
 - name: "Rust"
   url: "/tartans/r/ru/rust/"
 - name: "Rust Personal Tartan"
-  url: "/setts/r3k2dp12w2dp12k12g12y2g12k2r1lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k2dp12w2dp12k12g12y2g12k2r1lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ru/rust/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBWBKGGGKRW](/stripes/rkbwbkgggkrw/).
 
 Part of the [Rust](/tartans/r/ru/rust/) tartan — the named design grouping this sett with its other cloths.

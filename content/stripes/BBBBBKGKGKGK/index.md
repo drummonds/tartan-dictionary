@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k14g14k8y4k4g14k14db14dp5db4dp5db14~x2/">Price-Powell (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k14g14k8y4k4g14k14db14dp5db4dp5db14~x2/"><img src="/variants/s12/k14g14k8y4k4g14k14db14dp5db4dp5db14~x2/sett.png" alt="Price-Powell (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/price-powell/">Price-Powell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/price-powell/"><img src="/variants/s12/k14g14k8y4k4g14k14db14dp5db4dp5db14~x2/sett.png" alt="Price-Powell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

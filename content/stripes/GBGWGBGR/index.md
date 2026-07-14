@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/">Simple Technology</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><img src="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/sett.png" alt="Simple Technology sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/simple-technology-2/">Simple Technology</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/simple-technology-2/"><img src="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/sett.png" alt="Simple Technology sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

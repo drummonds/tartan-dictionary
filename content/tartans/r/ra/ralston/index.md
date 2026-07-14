@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/ralston/"
 - name: "Ralston"
   url: "/families/ralston/"
+aliases:
+- "/setts/g7n3r3lb3r3n3g12y4g4y4lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbrwrbggggw/">GBRWRBGGGGW</a></nav>
 A tartan of the [Ralston](/families/ralston/) family.
 Its design is pattern [GBRWRBGGGGW](/stripes/gbrwrbggggw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Ralston** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g7n3r3lb3r3n3g12y4g4y4lb3/">Ralston</a></td><td><code>G/14 N6 R6 LB6 R6 N6 G24 Y8 G8 Y8 LB/6</code></td><td>176</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g7n3r3lb3r3n3g12y4g4y4lb3/"><img src="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/sett.png" alt="Ralston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/">Ralston</a></td><td><code>G/14 N6 R6 LB6 R6 N6 G24 Y8 G8 Y8 LB/6</code></td><td>176</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/"><img src="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/sett.png" alt="Ralston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/"><circle cx="301.6" cy="287.0" r="4" fill="#3465a4"><title>Ralston</title></circle></a><a href="/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/"><circle cx="223.9" cy="274.2" r="4" fill="#3465a4"><title>Vassseur Mignon</title></circle></a><a href="/variants/s11/r2y2r2y2g5lb5g11n11g5lb11y2~x2/"><circle cx="183.9" cy="253.9" r="4" fill="#3465a4"><title>Vasseur Mignon</title></circle></a><a href="/variants/s12/dt22g4dt4g17dy17g17dt4g4dt22y8dy8r8~x2/"><circle cx="200.5" cy="260.6" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/variants/s7/r4g3o8w3o4g18y3~x2/"><circle cx="275.2" cy="251.7" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/"><circle cx="234.6" cy="208.7" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/variants/s13/g5dp1g1dp1g1dg3g3dg1g3dg3ly3lyi1ly1~x4~g1903114-lyi2706114/"><circle cx="230.9" cy="258.8" r="4" fill="#3465a4"><title>Balmoral Hotel Edinburgh</title></circle></a><circle cx="229.3" cy="285.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/"><circle cx="301.5" cy="287.1" r="4" fill="#3465a4"><title>Ralston</title></circle></a><a href="/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/"><circle cx="223.7" cy="274.1" r="4" fill="#3465a4"><title>Vassseur Mignon</title></circle></a><a href="/variants/s11/r2y2r2y2g5lb5g11n11g5lb11y2~x2/"><circle cx="183.8" cy="253.7" r="4" fill="#3465a4"><title>Vasseur Mignon</title></circle></a><a href="/variants/s12/dt22g4dt4g17dy17g17dt4g4dt22y8dy8r8~x2/"><circle cx="200.4" cy="260.5" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/variants/s7/r4g3o8w3o4g18y3~x2/"><circle cx="275.2" cy="251.7" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/"><circle cx="234.8" cy="208.7" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/variants/s13/g5dp1g1dp1g1dg3g3dg1g3dg3ly3lyi1ly1~x4~g1903114-lyi2706114/"><circle cx="230.8" cy="258.7" r="4" fill="#3465a4"><title>Balmoral Hotel Edinburgh</title></circle></a><circle cx="229.1" cy="285.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Mason, David Elsworth"
   url: "/tartans/m/ma/mason-david-elsworth/"
 - name: "Mason, David Elsworth (Personal)"
-  url: "/setts/k7w2g2dr31r35y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7w2g2dr31r35y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mason-david-elsworth/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGWK](/stripes/grbgwk/).
 
 Part of the [Mason, David Elsworth](/tartans/m/ma/mason-david-elsworth/) tartan — the named design grouping this sett with its other cloths.

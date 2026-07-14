@@ -8,22 +8,22 @@ crumbs:
 - name: "Duke of Rothesay"
   url: "/tartans/d/du/duke-of-rothesay-2/"
 - name: "Duke of Rothesay (Royal)"
-  url: "/setts/r6w56db9w8k16w4k3w4k3w36r36k3r12w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6w56db9w8k16w4k3w4k3w36r36k3r12w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-rothesay-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWKWKWKWRKRW](/stripes/rwbwkwkwkwrkrw/).
 
 Part of the [Duke of Rothesay](/tartans/d/du/duke-of-rothesay-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1678](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1678)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/1678/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1678/*)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 1950 — Duke of Rothesay (Royal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1678">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>STS notes say that this was previously classified as 'Unidentified' in Sindex and presumably became identified when some MacGregor-Hastie notes were studied. No further information. It's been suggested that this might be a district tartan but in the absence of any proof, it remains as a Royal.</em></li>
+<li>pre 1950 — Duke of Rothesay (Royal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1678/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>STS notes say that this was previously classified as 'Unidentified' in Sindex and presumably became identified when some MacGregor-Hastie notes were studied. No further information. It's been suggested that this might be a district tartan but in the absence of any proof, it remains as a Royal.</em></li>
 <li>undated — Rothesay, Duke of #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3577">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#DC0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #DC0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C4084;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C4084"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Previously marked 'Unidentified' in Sindex The.MacGregor-Hastie collection is found in the Scottish Tartans Society archive.</em></li>
 <li>undated — Rothesay, Duke of (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span></li>
 </ul>
@@ -39,7 +39,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1678](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/">McMillen Memorial, Hugh E. (Personal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/"><img src="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/sett.png" alt="McMillen Memorial, Hugh E. (Personal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcmillen-memorial-hugh-e/">McMillen Memorial, Hugh E.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcmillen-memorial-hugh-e/"><img src="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/sett.png" alt="McMillen Memorial, Hugh E. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/">CoVASS (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/"><img src="/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/sett.png" alt="CoVASS (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/covass/">CoVASS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/covass/"><img src="/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/sett.png" alt="CoVASS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

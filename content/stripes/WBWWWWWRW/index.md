@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb70db5lb3w5lb3w5lb3r5lb8~x2/">Wyckoff, Ann Grainger Phillips</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb70db5lb3w5lb3w5lb3r5lb8~x2/"><img src="/variants/s9/lb70db5lb3w5lb3w5lb3r5lb8~x2/sett.png" alt="Wyckoff, Ann Grainger Phillips sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wy/wyckoff-ann-grainger-phillips/">Wyckoff, Ann Grainger Phillips</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wy/wyckoff-ann-grainger-phillips/"><img src="/variants/s9/lb70db5lb3w5lb3w5lb3r5lb8~x2/sett.png" alt="Wyckoff, Ann Grainger Phillips sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

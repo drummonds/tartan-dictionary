@@ -12,10 +12,10 @@ crumbs:
 - name: "Xain"
   url: "/tartans/x/xa/xain/"
 - name: "Xain (Personal)"
-  url: "/setts/lb63dp21w16dp2w4dp4w12lo6w16k21/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb63dp21w16dp2w4dp4w12lo6w16k21/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/x/xa/xain/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWYWBWBWBW](/stripes/kwywbwbwbw/).
 
 Part of the [Xain](/tartans/x/xa/xain/) tartan — the named design grouping this sett with its other cloths.

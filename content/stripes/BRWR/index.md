@@ -28,8 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r10lb5o5n4~x8~o2500000-n1900000/">Haggis Hostels</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r10lb5o5n4~x8~o2500000-n1900000/"><img src="/variants/s4/r10lb5o5n4~x8~o2500000-n1900000/sett.png" alt="Haggis Hostels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/haggis-hostels/">Haggis Hostels</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haggis-hostels/"><img src="/variants/s4/r10lb5o5n4~x8~o2500000-n1900000/sett.png" alt="Haggis Hostels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/s/st/st-giles-check-2/">St. Giles Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-giles-check-2/"><img src="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/sett.png" alt="St. Giles Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

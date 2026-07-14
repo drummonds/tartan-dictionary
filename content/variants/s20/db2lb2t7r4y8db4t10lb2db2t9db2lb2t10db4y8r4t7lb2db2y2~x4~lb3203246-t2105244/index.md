@@ -12,10 +12,10 @@ crumbs:
 - name: "Healy"
   url: "/tartans/h/he/healy-2/"
 - name: "Healy (Suspect)"
-  url: "/setts/db2lb2t7r4y8db4t10lb2db2t9db2lb2t10db4y8r4t7lb2db2y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2lb2t7r4y8db4t10lb2db2t9db2lb2t10db4y8r4t7lb2db2y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/healy-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRGBBWBBBWBBGRBWBG](/stripes/bwbrgbbwbbbwbbgrbwbg/).
 
 Part of the [Healy](/tartans/h/he/healy-2/) tartan — the named design grouping this sett with its other cloths.

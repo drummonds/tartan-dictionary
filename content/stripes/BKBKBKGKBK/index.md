@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n6k1n1k1n2k4dy6k1n2k2~x4/">Tyndrum District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n6k1n1k1n2k4dy6k1n2k2~x4/"><img src="/variants/s10/n6k1n1k1n2k4dy6k1n2k2~x4/sett.png" alt="Tyndrum District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ty/tyndrum/">Tyndrum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ty/tyndrum/"><img src="/variants/s10/n6k1n1k1n2k4dy6k1n2k2~x4/sett.png" alt="Tyndrum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

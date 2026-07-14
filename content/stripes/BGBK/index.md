@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k50db3y3dr50~x2/">Hungerford RFC (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k50db3y3dr50~x2/"><img src="/variants/s4/k50db3y3dr50~x2/sett.png" alt="Hungerford RFC (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hungerford-rfc/">Hungerford RFC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hungerford-rfc/"><img src="/variants/s4/k50db3y3dr50~x2/sett.png" alt="Hungerford RFC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

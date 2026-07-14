@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/o6g5o6k34w3k3w3k3o6k3w3k3w3k34o6g5o6k5~x2/">Woodberry Forest School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/o6g5o6k34w3k3w3k3o6k3w3k3w3k34o6g5o6k5~x2/"><img src="/variants/s18/o6g5o6k34w3k3w3k3o6k3w3k3w3k34o6g5o6k5~x2/sett.png" alt="Woodberry Forest School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/woodberry-forest-school-2/">Woodberry Forest School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/woodberry-forest-school-2/"><img src="/variants/s18/o6g5o6k34w3k3w3k3o6k3w3k3w3k34o6g5o6k5~x2/sett.png" alt="Woodberry Forest School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

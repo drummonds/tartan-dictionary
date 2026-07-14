@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/wolverine/"
 - name: "Wolverine"
   url: "/families/wolverine/"
+aliases:
+- "/setts/y8w3db40k12w3y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwbkwg/">GWBKWG</a></nav>
 A tartan of the [Wolverine](/families/wolverine/) family.
 Its design is pattern [GWBKWG](/stripes/gwbkwg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Wolverine** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y8w3db40k12w3y3/">Wolverine</a></td><td><code>Y/16 W6 DB80 K24 W6 Y/6</code></td><td>254</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y8w3db40k12w3y3/"><img src="/variants/s6/y8w3db40k12w3y3~x2/sett.png" alt="Wolverine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y8w3db40k12w3y3~x2/">Wolverine</a></td><td><code>Y/16 W6 DB80 K24 W6 Y/6</code></td><td>254</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y8w3db40k12w3y3~x2/"><img src="/variants/s6/y8w3db40k12w3y3~x2/sett.png" alt="Wolverine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/y8k3db40k15y3~x2/"><circle cx="347.7" cy="187.2" r="4" fill="#3465a4"><title>Wolverine</title></circle></a><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="317.7" cy="136.2" r="4" fill="#3465a4"><title>Hannah</title></circle></a><a href="/variants/s6/k4y18db44k3y10k4/"><circle cx="315.1" cy="170.2" r="4" fill="#3465a4"><title>Stutterheim</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="194.0" cy="158.0" r="4" fill="#3465a4"><title>Clunie</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="285.9" cy="145.8" r="4" fill="#3465a4"><title>Wolverines</title></circle></a><a href="/variants/s8/w4n15db8k4db28k2db4w2/"><circle cx="306.9" cy="152.4" r="4" fill="#3465a4"><title>Kelvinside Academy</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="288.6" cy="162.7" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="272.4" cy="108.6" r="4" fill="#3465a4"><title>Fuller of Hopewell</title></circle></a><a href="/variants/s8/db30lb2k9w3db6w4k3lb6~x2/"><circle cx="278.3" cy="140.3" r="4" fill="#3465a4"><title>Detroit Lions</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="266.0" cy="138.8" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><circle cx="295.6" cy="151.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/y8k3db40k15y3~x2/"><circle cx="348.7" cy="187.3" r="4" fill="#3465a4"><title>Wolverine</title></circle></a><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="318.7" cy="136.3" r="4" fill="#3465a4"><title>Hannah</title></circle></a><a href="/variants/s6/k4y18db44k3y10k4/"><circle cx="315.9" cy="170.3" r="4" fill="#3465a4"><title>Stutterheim</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="194.6" cy="157.8" r="4" fill="#3465a4"><title>Clunie</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="286.8" cy="145.8" r="4" fill="#3465a4"><title>Wolverines</title></circle></a><a href="/variants/s8/w4n15db8k4db28k2db4w2/"><circle cx="307.8" cy="152.4" r="4" fill="#3465a4"><title>Kelvinside Academy</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="289.4" cy="162.7" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="273.3" cy="108.6" r="4" fill="#3465a4"><title>Fuller of Hopewell</title></circle></a><a href="/variants/s8/db30lb2k9w3db6w4k3lb6~x2/"><circle cx="279.1" cy="140.3" r="4" fill="#3465a4"><title>Detroit Lions</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="266.9" cy="138.7" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><circle cx="296.5" cy="151.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

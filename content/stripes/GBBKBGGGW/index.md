@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dy4db3dt18k3dt2g18dy3g2lb2~x4/">Tombow 21st School Memorial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy4db3dt18k3dt2g18dy3g2lb2~x4/"><img src="/variants/s9/dy4db3dt18k3dt2g18dy3g2lb2~x4/sett.png" alt="Tombow 21st School Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/tombow-21st-school-memorial/">Tombow 21st School Memorial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/tombow-21st-school-memorial/"><img src="/variants/s9/dy4db3dt18k3dt2g18dy3g2lb2~x4/sett.png" alt="Tombow 21st School Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

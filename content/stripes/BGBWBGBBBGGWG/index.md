@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db23g4db1w1db3g5db1dp4db3y1g3w1g4~x4/">Riyadh Caledonian (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db23g4db1w1db3g5db1dp4db3y1g3w1g4~x4/"><img src="/variants/s13/db23g4db1w1db3g5db1dp4db3y1g3w1g4~x4/sett.png" alt="Riyadh Caledonian (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/riyadh-caledonian/">Riyadh Caledonian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/riyadh-caledonian/"><img src="/variants/s13/db23g4db1w1db3g5db1dp4db3y1g3w1g4~x4/sett.png" alt="Riyadh Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

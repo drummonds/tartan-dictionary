@@ -6,15 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Keefe"
-  url: "/tartans/o/o/o-keefe-2/"
+  url: "/tartans/o/o/o-keefe/"
 - name: "O'Keefe"
-  url: "/setts/k8r2k3ly2k2w3k2y12o22r2o2k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8r2k3ly2k2w3k2y12o22r2o2k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-keefe/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKYKWKGRRRK](/stripes/krkykwkgrrrk/).
 
-Part of the [O'Keefe](/tartans/o/o/o-keefe-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [O'Keefe](/tartans/o/o/o-keefe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

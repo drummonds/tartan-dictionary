@@ -13,7 +13,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/v/ve/venters/"><img src="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/sett.png" alt="Venters" width="140"><br><strong>Venters (1)</strong></a><div class="clan-territory">Venters</div></li>
 <li><a class="tartan" href="/tartans/v/ve/venters-2/"><img src="/variants/s6/dt15db55w1dp5r2y1~x2/sett.png" alt="Venters" width="140"><br><strong>Venters (1)</strong></a><div class="clan-territory">Venters</div></li>
 <li><a class="tartan" href="/tartans/v/ve/verble/"><img src="/variants/s7/g4y1k1lb4g1y1k1~x12/sett.png" alt="Verble" width="140"><br><strong>Verble (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/v/ve/verdon/"><img src="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4~dg1605139-g2408144/sett.png" alt="Verdon" width="140"><br><strong>Verdon (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/v/ve/verdon/"><img src="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/sett.png" alt="Verdon" width="140"><br><strong>Verdon (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/ve/vermont/"><img src="/variants/s8/y1g1r1g6k6g6w1g1~x4/sett.png" alt="Vermont" width="140"><br><strong>Vermont (1)</strong></a><div class="clan-territory">Vermont</div></li>
 <li><a class="tartan" href="/tartans/v/ve/vermont-2/"><img src="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4/sett.png" alt="Vermont" width="140"><br><strong>Vermont (1)</strong></a><div class="clan-territory">Vermont</div></li>
 <li><a class="tartan" href="/tartans/v/ve/vermont-dress/"><img src="/variants/s8/g1w1g6db5w6r1g1lo1~x4/sett.png" alt="Vermont Dress" width="140"><br><strong>Vermont Dress (1)</strong></a><div class="clan-territory">Vermont</div></li>

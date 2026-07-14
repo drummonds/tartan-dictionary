@@ -12,15 +12,15 @@ crumbs:
 - name: "Westmeath"
   url: "/tartans/w/we/westmeath/"
 - name: "Westmeath"
-  url: "/setts/g11dr6db6do2g3do2db6dr6g36lo2do3lo2db5dr5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g11dr6db6do2g3do2db6dr6g36lo2do3lo2db5dr5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBGBBBGYBYBBBYBYGBBBGBBBG](/stripes/bbbgbbbgybybbbybygbbbgbbbg/).
+provenance below. It is one weaving of the [sett](/tartans/w/we/westmeath/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBYBYGBBBGBBBG](/stripes/bbybygbbbgbbbg/).
 
 Part of the [Westmeath](/tartans/w/we/westmeath/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4608](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4608)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4608](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Westmeath (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4608">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These are not 'officially sanctioned' District tartans but have apparently proved popular and no doubt in time will be accepted as genuine District rather than Fashion tartans. Sample in Scottish Tartans Authority's Johnston Collection. Designed for Macnaughtons of Pitlochry as a collection of trade tartans.</em></li>
-<li>1997 — Westmeath (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2278">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These were not 'officially sanctioned' District tartans but, like many of their historic district tartan predecessors have apparently proved popular enough to be regarded as 'District' rather than their original categorisation of 'Fashion'. Sample in STA's Johnston Collection.</em></li>
+<li>1997 — Westmeath (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2278/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These were not 'officially sanctioned' District tartans but, like many of their historic district tartan predecessors have apparently proved popular enough to be regarded as 'District' rather than their original categorisation of 'Fashion'. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2278
 
 ## Thread count
-G/22 DR12 DB12 DO4 G6 DO4 DB12 DR12 G72 LO4 DO6 LO4 DB10 DR10 DB10 LO4 DO6 LO4 G72 DR12 DB12 DO4 G6 DO4 DB12 DR/12
+G/22 DR12 DB12 DO4 G6 DO4 DB12 DR12 G72 LO4 DO6 LO4 DB10 DR/10
 
-One full sett is **662 threads**.
+One full sett is **348 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/22 DR12 DB12 DO4 G6 DO4 DB12 DR12 G72 LO4 DO6 LO4 DB10 DR10 DB10 LO4 DO6 LO4 G72 DR12 DB12 DO4 G6 DO4 DB12 DR/12 — 662 threads; it folds to the canonical 348-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **662 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/22 DR12 DB12 DO4 G6 DO4 DB12 DR12 G72 LO4 DO6 LO4 DB10 DR10 DB10 LO4 DO6 LO4 G72 DR12 DB12 DO4 G6 DO4 DB12 DR/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/22 DR12 DB12 DO4 G6 DO4 DB12 DR12 G72 LO4 DO6 LO4 DB10 DR/10 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

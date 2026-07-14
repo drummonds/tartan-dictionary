@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r5dg3r18db18dg3/"
+- "/setts/r12g8r54db45g6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbrgr/">GBRGR</a></nav>
 Its design is pattern [GBRGR](/stripes/gbrgr/) — the page of every tartan sharing this colour sequence.
 
 From the MacGregor-Hastie collection, one of several designs produced 1930–1950 for Scottish septs and families.
@@ -15,10 +19,10 @@ The **Wotherspoon** tartan groups 2 setts — the same named design recorded as 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r5dg3r18db18dg3/">Wotherspoon</a> ★</td><td><code>R/20 DG12 R72 DB72 DG/12</code></td><td>344</td><td>1979</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r5dg3r18db18dg3/"><img src="/variants/s5/r5dg3r18db18dg3~x4/sett.png" alt="Wotherspoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r12g8r54db45g6/">Wotherspoon</a></td><td><code>R/12 G8 R54 DB45 G/6</code></td><td>232</td><td>~1941</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r12g8r54db45g6/"><img src="/variants/s5/r12g8r54db45g6/sett.png" alt="Wotherspoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r5dg3r18db18dg3~x4/">Wotherspoon</a> ★</td><td><code>R/20 DG12 R72 DB72 DG/12</code></td><td>344</td><td>1979</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r5dg3r18db18dg3~x4/"><img src="/variants/s5/r5dg3r18db18dg3~x4/sett.png" alt="Wotherspoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r12g8r54db45g6/">Wotherspoon</a></td><td><code>R/12 G8 R54 DB45 G/6</code></td><td>232</td><td>~1941</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r12g8r54db45g6/"><img src="/variants/s5/r12g8r54db45g6/sett.png" alt="Wotherspoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="322.4" cy="231.9" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="310.6" cy="216.7" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="172.5" cy="275.0" r="4" fill="#3465a4"><title>Battle of Prestonpans Herit</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.6" cy="210.8" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="349.2" cy="211.0" r="4" fill="#3465a4"><title>Masai Shuka 25</title></circle></a><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.2" cy="213.3" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="275.1" cy="183.0" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="195.7" cy="239.9" r="4" fill="#3465a4"><title>Edinburgh Bus Company</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="239.3" cy="240.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="317.5" cy="228.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="294.2" cy="250.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="323.0" cy="232.0" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="311.2" cy="216.7" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="172.6" cy="274.8" r="4" fill="#3465a4"><title>Battle of Prestonpans Herit</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="274.2" cy="210.7" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="350.0" cy="211.1" r="4" fill="#3465a4"><title>Masai Shuka 25</title></circle></a><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.5" cy="213.1" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="275.7" cy="182.9" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="196.0" cy="239.7" r="4" fill="#3465a4"><title>Edinburgh Bus Company</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="239.6" cy="240.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="318.1" cy="228.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="294.7" cy="250.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

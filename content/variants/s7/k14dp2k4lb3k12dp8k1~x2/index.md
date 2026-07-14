@@ -8,10 +8,10 @@ crumbs:
 - name: "Punky Princess"
   url: "/tartans/p/pu/punky-princess-2/"
 - name: "Punky Princess"
-  url: "/setts/k14dp2k4lb3k12dp8k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k14dp2k4lb3k12dp8k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pu/punky-princess-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKWKBK](/stripes/kbkwkbk/).
 
 Part of the [Punky Princess](/tartans/p/pu/punky-princess-2/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "King Pootatau Te Wherowhero"
   url: "/tartans/k/ki/king-pootatau-te-wherowhero/"
 - name: "King Pootatau Te Wherowhero"
-  url: "/setts/db23k1db1w1db1r1db4y2db1y2db1y2db1y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db23k1db1w1db1r1db4y2db1y2db1y2db1y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/king-pootatau-te-wherowhero/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBRBGBGBGBG](/stripes/bkbwbrbgbgbgbg/).
 
 Part of the [King Pootatau Te Wherowhero](/tartans/k/ki/king-pootatau-te-wherowhero/) tartan — the named design grouping this sett with its other cloths.

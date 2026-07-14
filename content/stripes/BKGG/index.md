@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db16k6g8y1~x2/">Sinclair, Sir John</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db16k6g8y1~x2/"><img src="/variants/s4/db16k6g8y1~x2/sett.png" alt="Sinclair, Sir John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sinclair-sir-john/">Sinclair, Sir John</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sinclair-sir-john/"><img src="/variants/s4/db16k6g8y1~x2/sett.png" alt="Sinclair, Sir John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

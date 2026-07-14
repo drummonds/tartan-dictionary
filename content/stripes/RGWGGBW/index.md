@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/">George Watson's College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><img src="/variants/s7/r1g4w1g4y1dr8lb1~x6/sett.png" alt="George Watson's College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/george-watson-s-college/">George Watson's College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/george-watson-s-college/"><img src="/variants/s7/r1g4w1g4y1dr8lb1~x6/sett.png" alt="George Watson's College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

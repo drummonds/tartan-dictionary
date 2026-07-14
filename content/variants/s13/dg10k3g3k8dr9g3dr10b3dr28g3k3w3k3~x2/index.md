@@ -12,10 +12,10 @@ crumbs:
 - name: "Clifford"
   url: "/tartans/c/cl/clifford-2/"
 - name: "Clifford"
-  url: "/setts/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clifford-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBGBBBGKWK](/stripes/gkgkbgbbbgkwk/).
 
 Part of the [Clifford](/tartans/c/cl/clifford-2/) tartan — the named design grouping this sett with its other cloths.

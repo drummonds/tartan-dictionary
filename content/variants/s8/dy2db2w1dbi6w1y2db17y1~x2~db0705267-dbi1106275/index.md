@@ -10,10 +10,10 @@ crumbs:
 - name: "East Tennessee State University"
   url: "/tartans/e/ea/east-tennessee-state-university/"
 - name: "East Tennessee State University"
-  url: "/setts/dy2db2w1dbi6w1y2db17y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy2db2w1dbi6w1y2db17y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ea/east-tennessee-state-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWBWBG](/stripes/gbgwbwbg/).
 
 Part of the [East Tennessee State University](/tartans/e/ea/east-tennessee-state-university/) tartan — the named design grouping this sett with its other cloths.

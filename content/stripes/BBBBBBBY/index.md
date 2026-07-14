@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/">Edinburgh Monarchs</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><img src="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/sett.png" alt="Edinburgh Monarchs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-monarchs/">Edinburgh Monarchs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-monarchs/"><img src="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/sett.png" alt="Edinburgh Monarchs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

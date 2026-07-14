@@ -8,10 +8,10 @@ crumbs:
 - name: "Clan Haggis World"
   url: "/tartans/c/cl/clan-haggis-world/"
 - name: "Clan Haggis World (Corporate)"
-  url: "/setts/r13y13g13db22w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r13y13g13db22w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clan-haggis-world/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGBW](/stripes/rggbw/).
 
 Part of the [Clan Haggis World](/tartans/c/cl/clan-haggis-world/) tartan — the named design grouping this sett with its other cloths.

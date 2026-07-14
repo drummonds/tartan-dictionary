@@ -8,10 +8,10 @@ crumbs:
 - name: "Traynor"
   url: "/tartans/t/tr/traynor/"
 - name: "Traynor"
-  url: "/setts/y2lb2db3lb30db4lb3db4lb3db18lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2lb2db3lb30db4lb3db4lb3db18lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tr/traynor/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWBWBWBW](/stripes/gwbwbwbwbw/).
 
 Part of the [Traynor](/tartans/t/tr/traynor/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4147](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2005 — Traynor (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4147">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Designed for Dr Elizabeth Traynor by Dr Phil Smith. Date and details unknown. Can be worn by all of the name.</em></li>
-<li>pre 2005 — Traynor (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6608">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Designed for Dr Elizabeth Traynor by Dr Phil Smith. date and details unknown. Can be worn by all of the name.</em></li>
+<li>pre 2005 — Traynor (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6608/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Designed for Dr Elizabeth Traynor by Dr Phil Smith. date and details unknown. Can be worn by all of the name.</em></li>
 </ul>
 </details>
 

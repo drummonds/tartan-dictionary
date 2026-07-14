@@ -10,10 +10,10 @@ crumbs:
 - name: "Douglas Variation"
   url: "/tartans/d/do/douglas-variation/"
 - name: "Douglas, Variation"
-  url: "/setts/w4db25b25db2b5w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db25b25db2b5w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/douglas-variation/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBBW](/stripes/wbbbbw/).
 
 Part of the [Douglas Variation](/tartans/d/do/douglas-variation/) tartan — the named design grouping this sett with its other cloths.

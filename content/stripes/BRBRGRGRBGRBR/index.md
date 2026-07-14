@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r5t3r24g7db6r3g3r3g11r6db3r3t3~x2/">Dabney Red (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r5t3r24g7db6r3g3r3g11r6db3r3t3~x2/"><img src="/variants/s13/r5t3r24g7db6r3g3r3g11r6db3r3t3~x2/sett.png" alt="Dabney Red (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dabney-2/">Dabney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dabney-2/"><img src="/variants/s13/r5t3r24g7db6r3g3r3g11r6db3r3t3~x2/sett.png" alt="Dabney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

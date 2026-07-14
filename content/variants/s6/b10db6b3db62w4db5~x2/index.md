@@ -12,10 +12,10 @@ crumbs:
 - name: "Auchairne"
   url: "/tartans/a/au/auchairne-2/"
 - name: "Auchairne"
-  url: "/setts/b10db6b3db62w4db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b10db6b3db62w4db5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/auchairne-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWB](/stripes/bbbbwb/).
 
 Part of the [Auchairne](/tartans/a/au/auchairne-2/) tartan — the named design grouping this sett with its other cloths.
@@ -58,7 +58,7 @@ One full sett is **330 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.53** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.48** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

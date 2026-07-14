@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w18lb22db15y6g10dp5g6r5~x2/">Queensland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w18lb22db15y6g10dp5g6r5~x2/"><img src="/variants/s8/w18lb22db15y6g10dp5g6r5~x2/sett.png" alt="Queensland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/queensland/">Queensland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/queensland/"><img src="/variants/s8/w18lb22db15y6g10dp5g6r5~x2/sett.png" alt="Queensland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db4lb50g4dp4w2y2k3w2~x2/">Glasgow Islay, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db4lb50g4dp4w2y2k3w2~x2/"><img src="/variants/s8/db4lb50g4dp4w2y2k3w2~x2/sett.png" alt="Glasgow Islay, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow-islay/">Glasgow Islay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-islay/"><img src="/variants/s8/db4lb50g4dp4w2y2k3w2~x2/sett.png" alt="Glasgow Islay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

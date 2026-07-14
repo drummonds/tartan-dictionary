@@ -8,10 +8,10 @@ crumbs:
 - name: "City of Edinburgh"
   url: "/tartans/c/ci/city-of-edinburgh/"
 - name: "City of Edinburgh"
-  url: "/setts/dg10k3w3k3w3k3dg10b6k15b3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg10k3w3k3w3k3dg10b6k15b3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ci/city-of-edinburgh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGKWKWKG](/stripes/bkbgkwkwkg/).
 
 Part of the [City of Edinburgh](/tartans/c/ci/city-of-edinburgh/) tartan — the named design grouping this sett with its other cloths.

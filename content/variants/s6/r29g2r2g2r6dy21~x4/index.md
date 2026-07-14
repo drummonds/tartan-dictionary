@@ -12,15 +12,15 @@ crumbs:
 - name: "Maguire"
   url: "/tartans/m/ma/maguire-2/"
 - name: "Maguire Clan Family Tartan"
-  url: "/setts/r29g2r2g2r6dy21/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r29g2r2g2r6dy21/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maguire-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGRGR](/stripes/grgrgr/).
 
 Part of the [Maguire](/tartans/m/ma/maguire-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6812](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6812)
 
@@ -45,9 +45,11 @@ Earliest known date: 2005 The first Scottish Maguire as recorded with Lord Lyon.
 </details>
 
 ## Thread count
-R/116 G8 R8 G8 R24 DY84 R24 G8 R8 G/8
+R/116 G8 R8 G8 R24 DY/84
 
-One full sett is **468 threads**.
+One full sett is **296 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/116 G8 R8 G8 R24 DY84 R24 G8 R8 G/8 — 468 threads; it folds to the canonical 296-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **468 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/116 G8 R8 G8 R24 DY84 R24 G8 R8 G/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/116 G8 R8 G8 R24 DY/84 tartan" width="880" height="480">
 
 ## Compared to the master
 

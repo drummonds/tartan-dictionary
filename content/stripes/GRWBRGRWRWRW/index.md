@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/lb38r1lb2r2lb2r6y4r10db8lb11r3y1~x2/">Spirit of Dunkeld</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lb38r1lb2r2lb2r6y4r10db8lb11r3y1~x2/"><img src="/variants/s12/lb38r1lb2r2lb2r6y4r10db8lb11r3y1~x2/sett.png" alt="Spirit of Dunkeld sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-dunkeld/">Spirit of Dunkeld</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-dunkeld/"><img src="/variants/s12/lb38r1lb2r2lb2r6y4r10db8lb11r3y1~x2/sett.png" alt="Spirit of Dunkeld sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

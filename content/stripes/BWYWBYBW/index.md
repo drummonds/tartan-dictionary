@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dp11lb90ly3lb11dp7ly11dp13lb11/">Royal Conservatoire of Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp11lb90ly3lb11dp7ly11dp13lb11/"><img src="/variants/s8/dp11lb90ly3lb11dp7ly11dp13lb11/sett.png" alt="Royal Conservatoire of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-conservatoire-of-scotland/">Royal Conservatoire of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-conservatoire-of-scotland/"><img src="/variants/s8/dp11lb90ly3lb11dp7ly11dp13lb11/sett.png" alt="Royal Conservatoire of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

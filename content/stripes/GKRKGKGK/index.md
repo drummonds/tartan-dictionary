@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g3k6r2k6g3k2g16k1~x4/">Glenbarr</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g3k6r2k6g3k2g16k1~x4/"><img src="/variants/s8/g3k6r2k6g3k2g16k1~x4/sett.png" alt="Glenbarr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenbarr/">Glenbarr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenbarr/"><img src="/variants/s8/g3k6r2k6g3k2g16k1~x4/sett.png" alt="Glenbarr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

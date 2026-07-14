@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/">Loughheed (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/"><img src="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/sett.png" alt="Loughheed (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loughheed/">Loughheed</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loughheed/"><img src="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/sett.png" alt="Loughheed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

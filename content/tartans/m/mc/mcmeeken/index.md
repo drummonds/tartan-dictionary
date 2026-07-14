@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/mcmeeken/"
 - name: "McMeeken"
   url: "/families/mcmeeken/"
+aliases:
+- "/setts/r7g20y2g4k5db4k2db20k3w1/"
+- "/setts/r7g20ly2g4k5db4k2db20k3w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgggkbkbkw/">RGGGKBKBKW</a></nav>
 A tartan of the [McMeeken](/families/mcmeeken/) family.
 Its design is pattern [RGGGKBKBKW](/stripes/rgggkbkbkw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **McMeeken** tartan groups 2 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r7g20y2g4k5db4k2db20k3w1/">McMeeken</a> ★</td><td><code>R/14 G40 Y4 G8 K10 DB8 K4 DB40 K6 W/2</code></td><td>256</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r7g20y2g4k5db4k2db20k3w1/"><img src="/variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/sett.png" alt="McMeeken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r7g20ly2g4k5db4k2db20k3w1/">(Name)</a></td><td><code>R/14 G40 LY4 G8 K10 DB8 K4 DB40 K6 W/2</code></td><td>256</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r7g20ly2g4k5db4k2db20k3w1/"><img src="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/">McMeeken</a> ★</td><td><code>R/14 G40 Y4 G8 K10 DB8 K4 DB40 K6 W/2</code></td><td>256</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/"><img src="/variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/sett.png" alt="McMeeken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/">(Name)</a></td><td><code>R/14 G40 LY4 G8 K10 DB8 K4 DB40 K6 W/2</code></td><td>256</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/"><img src="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db4k2db16k12w1g13r2g2y4~x2/"><circle cx="128.8" cy="138.5" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/"><circle cx="158.4" cy="119.8" r="4" fill="#3465a4"><title>Froben, Christian</title></circle></a><a href="/variants/s9/lb4k1g19lo1k19db13dr2db4dr2~x4/"><circle cx="116.2" cy="121.5" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><circle cx="150.8" cy="99.8" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><circle cx="123.0" cy="127.0" r="4" fill="#3465a4"><title>Culture The...</title></circle></a><a href="/variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/"><circle cx="163.0" cy="102.7" r="4" fill="#3465a4"><title>Norham and Ladykirk</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="187.2" cy="117.3" r="4" fill="#3465a4"><title>Vienna Highlander</title></circle></a><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/"><circle cx="143.7" cy="139.5" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/"><circle cx="98.5" cy="130.9" r="4" fill="#3465a4"><title>George</title></circle></a><a href="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/"><circle cx="146.1" cy="116.7" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><circle cx="144.4" cy="117.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db4k2db16k12w1g13r2g2y4~x2/"><circle cx="129.2" cy="138.2" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/"><circle cx="158.8" cy="119.5" r="4" fill="#3465a4"><title>Froben, Christian</title></circle></a><a href="/variants/s9/lb4k1g19lo1k19db13dr2db4dr2~x4/"><circle cx="116.6" cy="121.2" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><circle cx="151.2" cy="99.6" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><circle cx="123.3" cy="126.7" r="4" fill="#3465a4"><title>Culture The...</title></circle></a><a href="/variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/"><circle cx="163.5" cy="102.4" r="4" fill="#3465a4"><title>Norham and Ladykirk</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="187.7" cy="117.1" r="4" fill="#3465a4"><title>Vienna Highlander</title></circle></a><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/"><circle cx="144.1" cy="139.2" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/"><circle cx="98.8" cy="130.5" r="4" fill="#3465a4"><title>George</title></circle></a><a href="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/"><circle cx="146.6" cy="116.4" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><circle cx="144.8" cy="116.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

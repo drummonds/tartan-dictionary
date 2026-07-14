@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n30k5n19k5n2lb20y2lb20k5y4~x2/">Sonsub</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n30k5n19k5n2lb20y2lb20k5y4~x2/"><img src="/variants/s10/n30k5n19k5n2lb20y2lb20k5y4~x2/sett.png" alt="Sonsub sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/sonsub/">Sonsub</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/sonsub/"><img src="/variants/s10/n30k5n19k5n2lb20y2lb20k5y4~x2/sett.png" alt="Sonsub sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

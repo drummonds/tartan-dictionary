@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db5w4r1db26r25w1r8w5k1/"
+- "/setts/db5w4r1db26r26w1r8w5k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwrbrwrwk/">BWRBRWRWK</a></nav>
 Its design is pattern [BWRBRWRWK](/stripes/bwrbrwrwk/) — the page of every tartan sharing this colour sequence.
 
 The **Boring and Dull** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Boring and Dull** tartan groups 2 setts — the same named design recorded
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db5w4r1db26r25w1r8w5k1/">Boring and Dull</a> ★</td><td><code>DB/10 W8 R2 DB52 R50 W2 R16 W10 K/2</code></td><td>292</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db5w4r1db26r25w1r8w5k1/"><img src="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/sett.png" alt="Boring and Dull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db5w4r1db26r26w1r8w5k1/">Boring and Dull</a></td><td><code>DB/10 W8 R2 DB52 R52 W2 R16 W10 K/2</code></td><td>296</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db5w4r1db26r26w1r8w5k1/"><img src="/variants/s9/db5w4r1db26r26w1r8w5k1~x2/sett.png" alt="Boring and Dull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/">Boring and Dull</a> ★</td><td><code>DB/10 W8 R2 DB52 R50 W2 R16 W10 K/2</code></td><td>292</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><img src="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/sett.png" alt="Boring and Dull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db5w4r1db26r26w1r8w5k1~x2/">Boring and Dull</a></td><td><code>DB/10 W8 R2 DB52 R52 W2 R16 W10 K/2</code></td><td>296</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db5w4r1db26r26w1r8w5k1~x2/"><img src="/variants/s9/db5w4r1db26r26w1r8w5k1~x2/sett.png" alt="Boring and Dull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="230.0" cy="143.8" r="4" fill="#3465a4"><title>Americana</title></circle></a><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="338.2" cy="87.6" r="4" fill="#3465a4"><title>Knights Templar</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="256.3" cy="129.9" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="268.1" cy="106.6" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><circle cx="260.7" cy="96.5" r="4" fill="#3465a4"><title>Richardson</title></circle></a><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/"><circle cx="252.5" cy="89.9" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="275.1" cy="183.0" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/"><circle cx="194.7" cy="137.3" r="4" fill="#3465a4"><title>Hermitage Academy</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="268.5" cy="136.0" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="318.2" cy="101.5" r="4" fill="#3465a4"><title>Ostermeier</title></circle></a><circle cx="262.2" cy="111.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="230.7" cy="143.6" r="4" fill="#3465a4"><title>Americana</title></circle></a><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="339.3" cy="87.6" r="4" fill="#3465a4"><title>Knights Templar</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="257.0" cy="129.8" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="269.0" cy="106.5" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><circle cx="261.5" cy="96.4" r="4" fill="#3465a4"><title>Richardson</title></circle></a><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/"><circle cx="253.3" cy="89.8" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="275.7" cy="182.9" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/"><circle cx="195.3" cy="137.2" r="4" fill="#3465a4"><title>Hermitage Academy</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="269.1" cy="135.9" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="319.2" cy="101.5" r="4" fill="#3465a4"><title>Ostermeier</title></circle></a><circle cx="263.0" cy="111.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

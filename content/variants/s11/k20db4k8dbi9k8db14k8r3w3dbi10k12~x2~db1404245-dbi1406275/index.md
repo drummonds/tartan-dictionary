@@ -12,15 +12,15 @@ crumbs:
 - name: "Westenra of Christchurch"
   url: "/tartans/w/we/westenra-of-christchurch/"
 - name: "Westenra of Christchurch"
-  url: "/setts/k20db4k8dbi9k8db14k8r3w3dbi10k12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k20db4k8dbi9k8db14k8r3w3dbi10k12/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBKRWBKBWRKBKBKBK](/stripes/bkbkbkrwbkbwrkbkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/w/we/westenra-of-christchurch/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBKBKRWBK](/stripes/kbkbkbkrwbk/).
 
 Part of the [Westenra of Christchurch](/tartans/w/we/westenra-of-christchurch/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4606](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4606)
 
@@ -32,7 +32,7 @@ Earliest known date: 2006 Designed to commemorate the success of New Zealand sop
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2006 — Westenra of Christchurch (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4606">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed to commemorate the success of New Zealand soprano Hayley Westenra on the occasion of her visit to Scotland in 2006. Andrew Fenning is a member of the Hayley Westenra International and an opera fan.</em></li>
-<li>2006 — Westenra of Christchurch (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6881">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed to commemorate the success of New Zealand soprano Hayley Westenra on the occasion of her visit to Scotland in 2006. Andrew Fenning is a member of the Hayley Westenra International fan club and an opera fan.</em></li>
+<li>2006 — Westenra of Christchurch (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6881/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed to commemorate the success of New Zealand soprano Hayley Westenra on the occasion of her visit to Scotland in 2006. Andrew Fenning is a member of the Hayley Westenra International fan club and an opera fan.</em></li>
 <li>2006 — Westenra of Christchurch NZ Commemorative Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6384">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 </ul>
 </details>
@@ -61,9 +61,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6881
 
 ## Thread count
-K/40 DB8 K16 DBi18 K16 DB28 K16 R6 W6 DBi20 K24 DBi20 W6 R6 K16 DB28 K16 DBi18 K16 DB/8
+K/40 DB8 K16 DBi18 K16 DB28 K16 R6 W6 DBi20 K/24
 
-One full sett is **616 threads**.
+One full sett is **332 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/40 DB8 K16 DBi18 K16 DB28 K16 R6 W6 DBi20 K24 DBi20 W6 R6 K16 DB28 K16 DBi18 K16 DB/8 — 616 threads; it folds to the canonical 332-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -72,7 +74,7 @@ One full sett is **616 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 DB8 K16 DBi18 K16 DB28 K16 R6 W6 DBi20 K24 DBi20 W6 R6 K16 DB28 K16 DBi18 K16 DB/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 DB8 K16 DBi18 K16 DB28 K16 R6 W6 DBi20 K/24 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

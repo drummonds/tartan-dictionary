@@ -8,10 +8,10 @@ crumbs:
 - name: "Spirit of Ulster"
   url: "/tartans/s/sp/spirit-of-ulster/"
 - name: "Spirit of Ulster"
-  url: "/setts/w2db4r2db90w2db4r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2db4r2db90w2db4r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spirit-of-ulster/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBRBW](/stripes/rbwbrbw/).
 
 Part of the [Spirit of Ulster](/tartans/s/sp/spirit-of-ulster/) tartan — the named design grouping this sett with its other cloths.

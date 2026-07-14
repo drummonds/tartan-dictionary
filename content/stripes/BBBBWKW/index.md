@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/t6n2t25n4w25k2w6~x2~t2405244-n1802249/">Lennox Dress, Purple (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t6n2t25n4w25k2w6~x2~t2405244-n1802249/"><img src="/variants/s7/t6n2t25n4w25k2w6~x2~t2405244-n1802249/sett.png" alt="Lennox Dress, Purple (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lennox-dress-3/">Lennox Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lennox-dress-3/"><img src="/variants/s7/t6n2t25n4w25k2w6~x2~t2405244-n1802249/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/">Lennox Purple Dress District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/"><img src="/variants/s7/dp8db2dp24db5w26k2w8~x2/sett.png" alt="Lennox Purple Dress District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lennox-purple-dress/">Lennox Purple Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lennox-purple-dress/"><img src="/variants/s7/dp8db2dp24db5w26k2w8~x2/sett.png" alt="Lennox Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

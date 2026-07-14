@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/">Roach (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><img src="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/sett.png" alt="Roach (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/roach/">Roach</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roach/"><img src="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/sett.png" alt="Roach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

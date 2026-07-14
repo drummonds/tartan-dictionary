@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2~x2/">Caledonian Society of Prince Edward Island</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2~x2/"><img src="/variants/s17/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2~x2/sett.png" alt="Caledonian Society of Prince Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledonian-society-of-prince-edward-island/">Caledonian Society of Prince Edward Island</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-society-of-prince-edward-island/"><img src="/variants/s17/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2~x2/sett.png" alt="Caledonian Society of Prince Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

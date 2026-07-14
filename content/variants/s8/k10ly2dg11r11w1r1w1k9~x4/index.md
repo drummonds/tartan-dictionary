@@ -8,15 +8,15 @@ crumbs:
 - name: "Norwich No.005"
   url: "/tartans/n/no/norwich-no-005/"
 - name: "Norwich No.005"
-  url: "/setts/k10ly2dg11r11w1r1w1k9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10ly2dg11r11w1r1w1k9/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KYGRWRWKWRWRGY](/stripes/kygrwrwkwrwrgy/).
+provenance below. It is one weaving of the [sett](/tartans/n/no/norwich-no-005/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWRWRGYK](/stripes/kwrwrgyk/).
 
 Part of the [Norwich No.005](/tartans/n/no/norwich-no-005/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3170](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3170)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5581
 
 ## Thread count
-K/40 LY8 DG44 R44 W4 R4 W4 K36 W4 R4 W4 R44 DG44 LY/8
+K/40 LY8 DG44 R44 W4 R4 W4 K/36
 
-One full sett is **536 threads**.
+One full sett is **292 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/40 LY8 DG44 R44 W4 R4 W4 K36 W4 R4 W4 R44 DG44 LY/8 — 536 threads; it folds to the canonical 292-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **536 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 LY8 DG44 R44 W4 R4 W4 K36 W4 R4 W4 R44 DG44 LY/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 LY8 DG44 R44 W4 R4 W4 K/36 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

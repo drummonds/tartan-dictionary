@@ -8,10 +8,10 @@ crumbs:
 - name: "Weait"
   url: "/tartans/w/we/weait/"
 - name: "Weait (2016)"
-  url: "/setts/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/weait/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBRBWBWBWBWBWBWBW](/stripes/bwbwbwbwbrbwbwbwbwbwbwbw/).
 
 Part of the [Weait](/tartans/w/we/weait/) tartan — the named design grouping this sett with its other cloths.

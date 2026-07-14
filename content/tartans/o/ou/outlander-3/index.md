@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/outlander/"
 - name: "Outlander"
   url: "/families/outlander/"
+aliases:
+- "/setts/lb14n7dy6n2/"
+- "/setts/lb52y2n24dr3dy26n4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbw/">BGBW</a></nav>
 A tartan of the [Outlander](/families/outlander/) family.
 Its design is pattern [BGBW](/stripes/bgbw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Outlander** tartan groups 2 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb14n7dy6n2/">Outlander</a> ★</td><td><code>LB/112 N56 DY48 N/16</code></td><td>336</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb14n7dy6n2/"><img src="/variants/s4/lb14n7dy6n2~x8/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lb52y2n24dr3dy26n4/">#1</a></td><td><code>LB/104 Y4 N48 DR6 DY52 N/8</code></td><td>332</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb52y2n24dr3dy26n4/"><img src="/variants/s6/lb52y2n24dr3dy26n4~x2/sett.png" alt="#1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/lb14n7dy6n2~x8/">Outlander</a> ★</td><td><code>LB/112 N56 DY48 N/16</code></td><td>336</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/lb14n7dy6n2~x8/"><img src="/variants/s4/lb14n7dy6n2~x8/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/">#1</a></td><td><code>LB/104 Y4 N48 DR6 DY52 N/8</code></td><td>332</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/"><img src="/variants/s6/lb52y2n24dr3dy26n4~x2/sett.png" alt="#1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -41,6 +45,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="324.7" cy="300.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="195.8" cy="244.0" r="4" fill="#3465a4"><title>Common Ground</title></circle></a><a href="/variants/s3/y20db10w3~x2/"><circle cx="362.4" cy="298.1" r="4" fill="#3465a4"><title>Masai Shuka 04</title></circle></a><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="184.3" cy="255.6" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="253.8" cy="235.3" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s6/n2w2y7lb14n2w2~x2/"><circle cx="317.2" cy="269.8" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="323.1" cy="283.8" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="302.1" cy="304.4" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="373.8" cy="249.5" r="4" fill="#3465a4"><title>Craig Devlin</title></circle></a><a href="/variants/s4/lb53g20w18db14~x2/"><circle cx="245.6" cy="318.8" r="4" fill="#3465a4"><title>Leutz</title></circle></a><circle cx="297.7" cy="303.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="324.9" cy="300.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="196.0" cy="243.8" r="4" fill="#3465a4"><title>Common Ground</title></circle></a><a href="/variants/s3/y20db10w3~x2/"><circle cx="362.9" cy="298.3" r="4" fill="#3465a4"><title>Masai Shuka 04</title></circle></a><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="184.6" cy="255.4" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="254.1" cy="235.2" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s6/n2w2y7lb14n2w2~x2/"><circle cx="317.2" cy="269.8" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="323.6" cy="283.9" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="302.3" cy="304.5" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.2" cy="249.6" r="4" fill="#3465a4"><title>Craig Devlin</title></circle></a><a href="/variants/s4/lb53g20w18db14~x2/"><circle cx="245.6" cy="318.7" r="4" fill="#3465a4"><title>Leutz</title></circle></a><circle cx="297.9" cy="303.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

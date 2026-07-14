@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Odyssey"
   url: "/tartans/s/sc/scottish-odyssey/"
 - name: "Scottish Odyssey"
-  url: "/setts/lb7dbi11k3dbi11dy11g22db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb7dbi11k3dbi11dy11g22db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-odyssey/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBKBW](/stripes/bggbkbw/).
 
 Part of the [Scottish Odyssey](/tartans/s/sc/scottish-odyssey/) tartan — the named design grouping this sett with its other cloths.

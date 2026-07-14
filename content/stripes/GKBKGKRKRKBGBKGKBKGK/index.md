@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3~x2/">Austrian Bowhunters Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3~x2/"><img src="/variants/s20/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3~x2/sett.png" alt="Austrian Bowhunters Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/austrian-bowhunters-hunting/">Austrian Bowhunters Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/austrian-bowhunters-hunting/"><img src="/variants/s20/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3~x2/sett.png" alt="Austrian Bowhunters Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

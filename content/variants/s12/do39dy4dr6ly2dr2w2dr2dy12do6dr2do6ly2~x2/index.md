@@ -10,22 +10,22 @@ crumbs:
 - name: "Glen Clova"
   url: "/tartans/g/gl/glen-clova-3/"
 - name: "Glen Clova #2 (Fashion)"
-  url: "/setts/do39dy4dr6ly2dr2w2dr2dy12do6dr2do6ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do39dy4dr6ly2dr2w2dr2dy12do6dr2do6ly2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-clova-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBYBWBGBBBY](/stripes/bgbybwbgbbby/).
 
 Part of the [Glen Clova](/tartans/g/gl/glen-clova-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1748](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1748)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/1748/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1748/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 1986 — Glen Clova #2 (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1748">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#603030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LU #603030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#480800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="U #480800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>No further details. This could be the NNN:TNN (Warp) and TTT:TTT (Weft) referred to in Sindex notes where specimen was presented by Gordon Teall in 1986. Glen Clova is a particularly scenic glen in Angus.</em></li>
+<li>pre 1986 — Glen Clova #2 (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1748/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#603030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LU #603030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#480800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="U #480800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>No further details. This could be the NNN:TNN (Warp) and TTT:TTT (Weft) referred to in Sindex notes where specimen was presented by Gordon Teall in 1986. Glen Clova is a particularly scenic glen in Angus.</em></li>
 <li>01/01/2002 — Glen Clova #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1371">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#603030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LU #603030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#480800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="U #480800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>No further details. This could be the NNN:TNN (Warp) and TTT:TTT (Weft) referred to in Sindex notes where specimen was presented by Gordon Teall in 1986. Glen Clova is a particularly scenic glen in Angus.</em></li>
 </ul>
 </details>
@@ -40,7 +40,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1748](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

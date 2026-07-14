@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/">Seton Htg (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><img src="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/sett.png" alt="Seton Htg (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/">Seton Hunting Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><img src="/variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/sett.png" alt="Seton Hunting Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/seton-hunting/">Seton Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/seton-hunting/"><img src="/variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/sett.png" alt="Seton Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

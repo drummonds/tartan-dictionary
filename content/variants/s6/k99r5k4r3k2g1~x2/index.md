@@ -8,10 +8,10 @@ crumbs:
 - name: "Allt Dubh"
   url: "/tartans/a/al/allt-dubh/"
 - name: "Allt Dubh (Black Burn)"
-  url: "/setts/k99r5k4r3k2g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k99r5k4r3k2g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/allt-dubh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRK](/stripes/gkrkrk/).
 
 Part of the [Allt Dubh](/tartans/a/al/allt-dubh/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=61](http
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/2007 — Allt Dubh (Black Burn) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=61">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RR #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><br><em>Designed by D Tulloch of Thomas Gordon & Sons of Blairgowrie and designed to convey the impression of a dark, heather-clad Highland stream, 'Black Burn.'</em></li>
-<li>September 2007 — Allt Dubh (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7296">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RR #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><br><em>Designed by D Tulloch of Thomas Gordon & Sons of Blairgowrie and designed to convey the impression of a dark, heather-clad Highland stream 'Black Burn.'</em></li>
+<li>September 2007 — Allt Dubh (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7296/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RR #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><br><em>Designed by D Tulloch of Thomas Gordon & Sons of Blairgowrie and designed to convey the impression of a dark, heather-clad Highland stream 'Black Burn.'</em></li>
 </ul>
 </details>
 

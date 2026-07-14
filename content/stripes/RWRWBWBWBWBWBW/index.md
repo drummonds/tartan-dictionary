@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/">Polish</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/"><img src="/variants/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/sett.png" alt="Polish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/polish/">Polish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/polish/"><img src="/variants/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/sett.png" alt="Polish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

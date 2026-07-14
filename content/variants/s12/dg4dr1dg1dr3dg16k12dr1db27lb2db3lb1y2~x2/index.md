@@ -12,10 +12,10 @@ crumbs:
 - name: "McGuirk"
   url: "/tartans/m/mc/mcguirk/"
 - name: "McGuirk (2013)"
-  url: "/setts/dg4dr1dg1dr3dg16k12dr1db27lb2db3lb1y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4dr1dg1dr3dg16k12dr1db27lb2db3lb1y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcguirk/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGKBBWBWG](/stripes/gbgbgkbbwbwg/).
 
 Part of the [McGuirk](/tartans/m/mc/mcguirk/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/">Milne of Corstorphine #2 (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/"><img src="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/sett.png" alt="Milne of Corstorphine #2 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/milne-of-corstorphine/">Milne of Corstorphine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/milne-of-corstorphine/"><img src="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/sett.png" alt="Milne of Corstorphine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

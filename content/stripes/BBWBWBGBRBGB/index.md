@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/">Scottish Parliament (Official)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><img src="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/sett.png" alt="Scottish Parliament (Official) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/">Scottish Parliament Official (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/"><img src="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/sett.png" alt="Scottish Parliament Official (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-parliament-2/">Scottish Parliament</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-parliament-2/"><img src="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/sett.png" alt="Scottish Parliament sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-parliament-official-2/">Scottish Parliament Official</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-parliament-official-2/"><img src="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/sett.png" alt="Scottish Parliament Official sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/macrobart/"
 - name: "MacRobart"
   url: "/families/macrobart/"
+aliases:
+- "/setts/db30k10g10lb2g15lb2/"
+- "/setts/db72k21g16lb3g17lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkgwgw/">BKGWGW</a></nav>
 A tartan of the [MacRobart](/families/macrobart/) family.
 Its design is pattern [BKGWGW](/stripes/bkgwgw/) — the page of every tartan sharing this colour sequence.
 
@@ -20,10 +24,10 @@ The **MacRobart** tartan groups 2 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db30k10g10lb2g15lb2/">MacRobart</a> ★</td><td><code>DB/60 K20 G20 LB4 G30 LB/4</code></td><td>212</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db30k10g10lb2g15lb2/"><img src="/variants/s6/db30k10g10lb2g15lb2~x2/sett.png" alt="MacRobart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db72k21g16lb3g17lb3/">MacRobart</a></td><td><code>DB/144 K42 G32 LB6 G34 LB/6</code></td><td>378</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db72k21g16lb3g17lb3/"><img src="/variants/s6/db72k21g16lb3g17lb3~x2/sett.png" alt="MacRobart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db30k10g10lb2g15lb2~x2/">MacRobart</a> ★</td><td><code>DB/60 K20 G20 LB4 G30 LB/4</code></td><td>212</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db30k10g10lb2g15lb2~x2/"><img src="/variants/s6/db30k10g10lb2g15lb2~x2/sett.png" alt="MacRobart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db72k21g16lb3g17lb3~x2/">MacRobart</a></td><td><code>DB/144 K42 G32 LB6 G34 LB/6</code></td><td>378</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db72k21g16lb3g17lb3~x2/"><img src="/variants/s6/db72k21g16lb3g17lb3~x2/sett.png" alt="MacRobart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/"><circle cx="206.3" cy="218.6" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="166.0" cy="180.1" r="4" fill="#3465a4"><title>Paterson</title></circle></a><a href="/variants/s7/r12db68w7k39g75r6g6/"><circle cx="154.1" cy="161.0" r="4" fill="#3465a4"><title>Rhun</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="242.7" cy="136.0" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="217.3" cy="174.9" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="163.5" cy="210.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/g52lb7g9k35db35k7/"><circle cx="167.8" cy="215.5" r="4" fill="#3465a4"><title>Redland</title></circle></a><a href="/variants/s7/db5dg3db32k16g32dg3g5/"><circle cx="198.7" cy="190.7" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="267.8" cy="206.8" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s5/db10k6lb1g6k1~x2/"><circle cx="191.0" cy="212.5" r="4" fill="#3465a4"><title>Unidentified No 115</title></circle></a><circle cx="221.2" cy="184.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/"><circle cx="206.7" cy="218.5" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="166.4" cy="179.9" r="4" fill="#3465a4"><title>Paterson</title></circle></a><a href="/variants/s7/r12db68w7k39g75r6g6/"><circle cx="154.5" cy="160.8" r="4" fill="#3465a4"><title>Rhun</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="243.4" cy="135.9" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="217.8" cy="174.8" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="163.9" cy="209.9" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/g52lb7g9k35db35k7/"><circle cx="168.1" cy="215.4" r="4" fill="#3465a4"><title>Redland</title></circle></a><a href="/variants/s7/db5dg3db32k16g32dg3g5/"><circle cx="199.1" cy="190.6" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="268.4" cy="206.9" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s5/db10k6lb1g6k1~x2/"><circle cx="191.5" cy="212.5" r="4" fill="#3465a4"><title>Unidentified No 115</title></circle></a><circle cx="221.8" cy="184.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

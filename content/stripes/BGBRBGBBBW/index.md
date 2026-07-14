@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi1406275-db1305255/">Strathisla (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi1406275-db1305255/"><img src="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi1406275-db1305255/sett.png" alt="Strathisla (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathisla-2/">Strathisla</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathisla-2/"><img src="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi1406275-db1305255/sett.png" alt="Strathisla sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

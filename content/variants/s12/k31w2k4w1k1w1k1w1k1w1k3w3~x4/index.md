@@ -12,15 +12,15 @@ crumbs:
 - name: "Scott"
   url: "/tartans/s/sc/scott-8/"
 - name: "Scott (Black and White)"
-  url: "/setts/k31w2k4w1k1w1k1w1k1w1k3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k31w2k4w1k1w1k1w1k1w1k3w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkwkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scott-8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWKW](/stripes/kwkwkwkwkwkw/).
 
 Part of the [Scott](/tartans/s/sc/scott-8/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3691](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3691)
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1245
 
 ## Thread count
-K/124 W8 K16 W4 K4 W4 K4 W4 K4 W4 K12 W12 K12 W4 K4 W4 K4 W4 K4 W4 K16 W/8
+K/124 W8 K16 W4 K4 W4 K4 W4 K4 W4 K12 W/12
 
-One full sett is **396 threads**.
+One full sett is **264 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/124 W8 K16 W4 K4 W4 K4 W4 K4 W4 K12 W12 K12 W4 K4 W4 K4 W4 K4 W4 K16 W/8 — 396 threads; it folds to the canonical 264-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **396 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/124 W8 K16 W4 K4 W4 K4 W4 K4 W4 K12 W12 K12 W4 K4 W4 K4 W4 K4 W4 K16 W/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/124 W8 K16 W4 K4 W4 K4 W4 K4 W4 K12 W/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/n52g3w3db3y3db2r3db12g8db2g6y4/">Barcelona English School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/n52g3w3db3y3db2r3db12g8db2g6y4/"><img src="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/sett.png" alt="Barcelona English School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barcelona-english-school/">Barcelona English School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barcelona-english-school/"><img src="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/sett.png" alt="Barcelona English School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

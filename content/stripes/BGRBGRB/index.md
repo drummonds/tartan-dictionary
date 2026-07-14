@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dp3r14g2dp10r2g14dp3~x2/">Scottish Netball (1986) (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp3r14g2dp10r2g14dp3~x2/"><img src="/variants/s7/dp3r14g2dp10r2g14dp3~x2/sett.png" alt="Scottish Netball (1986) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-netball-2/">Scottish Netball</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-netball-2/"><img src="/variants/s7/dp3r14g2dp10r2g14dp3~x2/sett.png" alt="Scottish Netball sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

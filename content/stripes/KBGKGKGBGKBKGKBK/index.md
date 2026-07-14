@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/k2dr15dg10k2dg5k5dg2db11dg2k2dr8k2y2k2dr15k2~x2/">Large (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/k2dr15dg10k2dg5k5dg2db11dg2k2dr8k2y2k2dr15k2~x2/"><img src="/variants/s16/k2dr15dg10k2dg5k5dg2db11dg2k2dr8k2y2k2dr15k2~x2/sett.png" alt="Large (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/large/">Large</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/large/"><img src="/variants/s16/k2dr15dg10k2dg5k5dg2db11dg2k2dr8k2y2k2dr15k2~x2/sett.png" alt="Large sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

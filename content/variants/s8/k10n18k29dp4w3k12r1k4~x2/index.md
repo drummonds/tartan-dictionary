@@ -8,15 +8,15 @@ crumbs:
 - name: "McMillen Memorial, Hugh E."
   url: "/tartans/m/mc/mcmillen-memorial-hugh-e-2/"
 - name: "McMillen Memorial, Hugh E. (Personal)"
-  url: "/setts/k10n18k29dp4w3k12r1k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10n18k29dp4w3k12r1k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcmillen-memorial-hugh-e-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKBKKKBWKRKK](/stripes/kkbkkkbwkrkk/).
 
 Part of the [McMillen Memorial, Hugh E.](/tartans/m/mc/mcmillen-memorial-hugh-e-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2898](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2898)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6064
 
 ## Thread count
-K/16 K4 N36 K6 K16 K36 DP8 W6 K24 R2 K4 K/4
+K/20 N36 K58 DP8 W6 K24 R2 K/8
 
-One full sett is **304 threads**.
+One full sett is **296 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/16 K4 N36 K6 K16 K36 DP8 W6 K24 R2 K4 K/4 — 304 threads; it folds to the canonical 296-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **304 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/16 K4 N36 K6 K16 K36 DP8 W6 K24 R2 K4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/20 N36 K58 DP8 W6 K24 R2 K/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

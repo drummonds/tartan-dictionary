@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/">Drymen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/"><img src="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/sett.png" alt="Drymen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drymen/">Drymen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drymen/"><img src="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/sett.png" alt="Drymen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

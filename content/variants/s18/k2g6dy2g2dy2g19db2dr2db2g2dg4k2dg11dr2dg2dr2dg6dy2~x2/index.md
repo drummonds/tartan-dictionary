@@ -12,10 +12,10 @@ crumbs:
 - name: "Harmon Hunting"
   url: "/tartans/h/ha/harmon-hunting/"
 - name: "Harmon Hunting"
-  url: "/setts/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harmon-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGKGGBBBGGGGGK](/stripes/ggbgbgkggbbbgggggk/).
 
 Part of the [Harmon Hunting](/tartans/h/ha/harmon-hunting/) tartan — the named design grouping this sett with its other cloths.

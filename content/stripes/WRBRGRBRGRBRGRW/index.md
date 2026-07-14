@@ -28,18 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/lb2r3db3r5g14r3db2r5g2r3db14r5g3r3lb2~x2/">Glen Orchy #1</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/lb2r3db3r5g14r3db2r5g2r3db14r5g3r3lb2~x2/"><img src="/variants/s15/lb2r3db3r5g14r3db2r5g2r3db14r5g3r3lb2~x2/sett.png" alt="Glen Orchy #1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/w1r2db2r4g16r2db1r4g1r2db16r4g2r2w1~x2/">MacIntyre</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w1r2db2r4g16r2db1r4g1r2db16r4g2r2w1~x2/"><img src="/variants/s15/w1r2db2r4g16r2db1r4g1r2db16r4g2r2w1~x2/sett.png" alt="MacIntyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lb1r2db2r4g16r2db1r4g1r2db16r4g2r2lb1/">MacIntyre</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/lb1r2db2r4g16r2db1r4g1r2db16r4g2r2lb1/"><img src="/variants/s15/lb1r2db2r4g16r2db1r4g1r2db16r4g2r2lb1/sett.png" alt="MacIntyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/lb3r24db4r8g32r4db4r8g4r4db32r8g4r4lb2~x2/">MacIntyre (of Gatehouse)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/lb3r24db4r8g32r4db4r8g4r4db32r8g4r4lb2~x2/"><img src="/variants/s15/lb3r24db4r8g32r4db4r8g4r4db32r8g4r4lb2~x2/sett.png" alt="MacIntyre (of Gatehouse) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1~x4/">MacIntyre of Glenorchy Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1~x4/"><img src="/variants/s15/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1~x4/sett.png" alt="MacIntyre of Glenorchy Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1~x2/">MacIntyre of Whitehouse (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1~x2/"><img src="/variants/s15/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1~x2/sett.png" alt="MacIntyre of Whitehouse (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-orchy-3/">Glen Orchy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-orchy-3/"><img src="/variants/s15/lb2r3db3r5g14r3db2r5g2r3db14r5g3r3lb2~x2/sett.png" alt="Glen Orchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macintyre-3/">MacIntyre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macintyre-3/"><img src="/variants/s15/lb1r2db2r4g16r2db1r4g1r2db16r4g2r2lb1/sett.png" alt="MacIntyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macintyre-of-glenorchy/">MacIntyre of Glenorchy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macintyre-of-glenorchy/"><img src="/variants/s15/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1~x4/sett.png" alt="MacIntyre of Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macintyre-of-whitehouse/">MacIntyre of Whitehouse</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macintyre-of-whitehouse/"><img src="/variants/s15/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1~x2/sett.png" alt="MacIntyre of Whitehouse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

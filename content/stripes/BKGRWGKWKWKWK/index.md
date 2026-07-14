@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5y3k3db14/">Western Australia (Scottish Associations)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5y3k3db14/"><img src="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5y3k3db14/sett.png" alt="Western Australia (Scottish Associations) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/western-australia/">Western Australia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/western-australia/"><img src="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5y3k3db14/sett.png" alt="Western Australia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

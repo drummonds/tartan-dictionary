@@ -8,10 +8,10 @@ crumbs:
 - name: "Icelandic"
   url: "/tartans/i/ic/icelandic/"
 - name: "Icelandic"
-  url: "/setts/r8w4dbi24db2dbi4db2dbi1db2dbi4db2dbi1db20w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8w4dbi24db2dbi4db2dbi1db2dbi4db2dbi1db20w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/ic/icelandic/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBBBBBBBBBBW](/stripes/rwbbbbbbbbbbw/).
 
 Part of the [Icelandic](/tartans/i/ic/icelandic/) tartan — the named design grouping this sett with its other cloths.

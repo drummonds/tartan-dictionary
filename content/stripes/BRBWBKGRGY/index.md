@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/">Logan Rogers (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><img src="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/sett.png" alt="Logan Rogers (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/logan-rogers/">Logan Rogers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-rogers/"><img src="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/sett.png" alt="Logan Rogers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

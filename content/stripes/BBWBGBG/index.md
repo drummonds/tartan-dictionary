@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr18db12w2db12dg8dr3dg10~x2/">Brough (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr18db12w2db12dg8dr3dg10~x2/"><img src="/variants/s7/dr18db12w2db12dg8dr3dg10~x2/sett.png" alt="Brough (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brough-2/">Brough</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brough-2/"><img src="/variants/s7/dr18db12w2db12dg8dr3dg10~x2/sett.png" alt="Brough sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/">Sinclair Green (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><img src="/variants/s7/dr4db15w2n15g30dr2g4~x2/sett.png" alt="Sinclair Green (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sinclair/">Sinclair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sinclair/"><img src="/variants/s7/dr4db15w2n15g30dr2g4~x2/sett.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

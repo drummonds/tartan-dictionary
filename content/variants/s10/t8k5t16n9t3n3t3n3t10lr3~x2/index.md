@@ -10,10 +10,10 @@ crumbs:
 - name: "Digital Equipment Corp."
   url: "/tartans/d/di/digital-equipment-corp-2/"
 - name: "Digital Equipment Corp."
-  url: "/setts/t8k5t16n9t3n3t3n3t10lr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t8k5t16n9t3n3t3n3t10lr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/digital-equipment-corp-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBBBBBY](/stripes/bkbbbbbbby/).
 
 Part of the [Digital Equipment Corp.](/tartans/d/di/digital-equipment-corp-2/) tartan — the named design grouping this sett with its other cloths.

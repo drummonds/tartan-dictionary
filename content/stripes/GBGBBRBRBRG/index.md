@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dy2r11dp1r1dp1r1dp4b6dy1b1y1~x4~dp1105325-b2008266/">NHK Asaichi</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dy2r11dp1r1dp1r1dp4b6dy1b1y1~x4~dp1105325-b2008266/"><img src="/variants/s11/dy2r11dp1r1dp1r1dp4b6dy1b1y1~x4~dp1105325-b2008266/sett.png" alt="NHK Asaichi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/nh/nhk-asaichi-2/">NHK Asaichi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/nh/nhk-asaichi-2/"><img src="/variants/s11/dy2r11dp1r1dp1r1dp4b6dy1b1y1~x4~dp1105325-b2008266/sett.png" alt="NHK Asaichi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

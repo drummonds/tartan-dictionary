@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr3g32k4g4k11db3k7dr4w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgkgkbkbw/">BGKGKBKBW</a></nav>
 Its design is pattern [BGKGKBKBW](/stripes/bgkgkbkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Derick Wardrope** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Derick Wardrope** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr3g32k4g4k11db3k7dr4w3/">Derick Wardrope</a></td><td><code>DR/3 G32 K4 G4 K11 DB3 K7 DR4 W/3</code></td><td>136</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr3g32k4g4k11db3k7dr4w3/"><img src="/variants/s9/dr3g32k4g4k11db3k7dr4w3/sett.png" alt="Derick Wardrope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/">Derick Wardrope</a></td><td><code>DR/3 G32 K4 G4 K11 DB3 K7 DR4 W/3</code></td><td>136</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/"><img src="/variants/s9/dr3g32k4g4k11db3k7dr4w3/sett.png" alt="Derick Wardrope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="258.2" cy="152.7" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="235.4" cy="137.9" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8b4~x2/"><circle cx="249.6" cy="151.8" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="182.3" cy="132.9" r="4" fill="#3465a4"><title>Scottish Rugby Union</title></circle></a><a href="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/"><circle cx="165.9" cy="155.4" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/"><circle cx="222.3" cy="164.0" r="4" fill="#3465a4"><title>Cornish Brewery</title></circle></a><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="179.0" cy="116.6" r="4" fill="#3465a4"><title>Murray-Hetherington</title></circle></a><a href="/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/"><circle cx="146.0" cy="145.8" r="4" fill="#3465a4"><title>Choinka</title></circle></a><a href="/variants/s9/y3g24k18r4g22r6k4r3w3~x2/"><circle cx="189.8" cy="161.3" r="4" fill="#3465a4"><title>Brown, George</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="142.3" cy="124.0" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><circle cx="208.0" cy="135.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="258.9" cy="152.7" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="236.1" cy="137.9" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8b4~x2/"><circle cx="250.3" cy="151.9" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="182.8" cy="132.8" r="4" fill="#3465a4"><title>Scottish Rugby Union</title></circle></a><a href="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/"><circle cx="166.3" cy="155.3" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/"><circle cx="222.9" cy="163.9" r="4" fill="#3465a4"><title>Cornish Brewery</title></circle></a><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="179.5" cy="116.4" r="4" fill="#3465a4"><title>Murray-Hetherington</title></circle></a><a href="/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/"><circle cx="146.4" cy="145.7" r="4" fill="#3465a4"><title>Choinka</title></circle></a><a href="/variants/s9/y3g24k18r4g22r6k4r3w3~x2/"><circle cx="190.4" cy="161.2" r="4" fill="#3465a4"><title>Brown, George</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="142.8" cy="123.8" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><circle cx="208.6" cy="135.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

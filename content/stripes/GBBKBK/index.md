@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/">Connecticut State Police Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><img src="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/sett.png" alt="Connecticut State Police Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connecticut-state-police-pipe-band/">Connecticut State Police Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connecticut-state-police-pipe-band/"><img src="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/sett.png" alt="Connecticut State Police Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

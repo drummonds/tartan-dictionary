@@ -8,10 +8,10 @@ crumbs:
 - name: "Nicholson"
   url: "/tartans/n/ni/nicholson/"
 - name: "Nicholson Clan Tartan"
-  url: "/setts/db2r11g2r11g21r2k9lb2db11r11g2r11db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2r11g2r11g21r2k9lb2db11r11g2r11db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ni/nicholson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBWKRGRGRB](/stripes/brgrbwkrgrgrb/).
 
 Part of the [Nicholson](/tartans/n/ni/nicholson/) tartan — the named design grouping this sett with its other cloths.

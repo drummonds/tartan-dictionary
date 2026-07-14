@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db3g11db3dr11db18ly3~x2/">Harbour Town Hilton Head, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db3g11db3dr11db18ly3~x2/"><img src="/variants/s6/db3g11db3dr11db18ly3~x2/sett.png" alt="Harbour Town Hilton Head, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harbour-town/">Harbour Town</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harbour-town/"><img src="/variants/s6/db3g11db3dr11db18ly3~x2/sett.png" alt="Harbour Town sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Yates"
   url: "/tartans/y/ya/yates/"
 - name: "Yates"
-  url: "/setts/k37r4db30n7k10w5n10y7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k37r4db30n7k10w5n10y7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/ya/yates/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWKBBRK](/stripes/gbwkbbrk/).
 
 Part of the [Yates](/tartans/y/ya/yates/) tartan — the named design grouping this sett with its other cloths.

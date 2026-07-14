@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/">U.S. Army</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/"><img src="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/sett.png" alt="U.S. Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/u/u-s-army/">U.S. Army</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-army/"><img src="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/sett.png" alt="U.S. Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

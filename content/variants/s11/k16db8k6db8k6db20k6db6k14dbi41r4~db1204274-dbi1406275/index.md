@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Merchiston Castle School"
   url: "/tartans/m/me/merchiston-castle-school-2/"
-- name: "Merchiston, Castle School"
-  url: "/setts/k16db8k6db8k6db20k6db6k14dbi41r4/"
+- name: "Merchiston Castle School Corporate Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k16db8k6db8k6db20k6db6k14dbi41r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/merchiston-castle-school-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKBR](/stripes/kbkbkbkbkbr/).
 
 Part of the [Merchiston Castle School](/tartans/m/me/merchiston-castle-school-2/) tartan — the named design grouping this sett with its other cloths.

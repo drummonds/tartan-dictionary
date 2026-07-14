@@ -8,10 +8,10 @@ crumbs:
 - name: "Crosser Crozier"
   url: "/tartans/c/cr/crosser-crozier/"
 - name: "Crosser Crozier Family Tartan"
-  url: "/setts/w4db5r3db22dy4k3g17r7k2r7dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db5r3db22dy4k3g17r7k2r7dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crosser-crozier/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRGKGBRBW](/stripes/grkrgkgbrbw/).
 
 Part of the [Crosser Crozier](/tartans/c/cr/crosser-crozier/) tartan — the named design grouping this sett with its other cloths.

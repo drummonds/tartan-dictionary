@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k15n3w10n7dp40w3dp6~x2/">Loughborough Sport</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k15n3w10n7dp40w3dp6~x2/"><img src="/variants/s7/k15n3w10n7dp40w3dp6~x2/sett.png" alt="Loughborough Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loughborough-sport-2/">Loughborough Sport</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loughborough-sport-2/"><img src="/variants/s7/k15n3w10n7dp40w3dp6~x2/sett.png" alt="Loughborough Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

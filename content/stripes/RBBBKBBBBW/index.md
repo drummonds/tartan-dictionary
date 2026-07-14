@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r7db2b5db2k24db2b10db28b10w3~x2/">Colgan, USA, Robert James</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r7db2b5db2k24db2b10db28b10w3~x2/"><img src="/variants/s10/r7db2b5db2k24db2b10db28b10w3~x2/sett.png" alt="Colgan, USA, Robert James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/colgan-usa-robert-james/">Colgan, USA, Robert James</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/colgan-usa-robert-james/"><img src="/variants/s10/r7db2b5db2k24db2b10db28b10w3~x2/sett.png" alt="Colgan, USA, Robert James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

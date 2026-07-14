@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/mackintosh/"
 - name: "MacKintosh D"
   url: "/tartans/m/ma/mackintosh-d/"
-- name: "MacKintosh D"
-  url: "/setts/r22db5r2g11r3db1/"
+- name: "MacKintosh Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r22db5r2g11r3db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackintosh-d/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBR](/stripes/brgrbr/).
 
 Part of the [MacKintosh D](/tartans/m/ma/mackintosh-d/) tartan — the named design grouping this sett with its other cloths.

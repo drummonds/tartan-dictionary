@@ -8,10 +8,10 @@ crumbs:
 - name: "Isle of Jura"
   url: "/tartans/i/is/isle-of-jura-2/"
 - name: "Isle of Jura"
-  url: "/setts/lb18t18db10w3dy15y3ly8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb18t18db10w3dy15y3ly8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/is/isle-of-jura-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBWGGY](/stripes/wbbwggy/).
 
 Part of the [Isle of Jura](/tartans/i/is/isle-of-jura-2/) tartan — the named design grouping this sett with its other cloths.

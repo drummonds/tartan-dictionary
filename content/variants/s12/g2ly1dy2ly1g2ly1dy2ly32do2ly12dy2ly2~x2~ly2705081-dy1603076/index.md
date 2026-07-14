@@ -10,17 +10,17 @@ crumbs:
 - name: "Houston"
   url: "/families/houston/"
 - name: "Houston"
-  url: "/tartans/h/ho/houston-2/"
+  url: "/tartans/h/ho/houston-3/"
 - name: "Houston (Personal)"
-  url: "/setts/g2ly1dy2ly1g2ly1dy2ly32do2ly12dy2ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2ly1dy2ly1g2ly1dy2ly32do2ly12dy2ly2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GYGYGYGYBYGYGYBYGYGYGY](/stripes/gygygygybygygybygygygy/).
+provenance below. It is one weaving of the [sett](/tartans/h/ho/houston-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GYGYGYGYBYGY](/stripes/gygygygybygy/).
 
-Part of the [Houston](/tartans/h/ho/houston-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Houston](/tartans/h/ho/houston-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1773](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1773)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2290
 
 ## Thread count
-G/4 LY2 DY4 LY2 G4 LY2 DY4 LY64 DO4 LY24 DY4 LY4 DY4 LY24 DO4 LY64 DY4 LY2 G4 LY2 DY4 LY/2
+G/4 LY2 DY4 LY2 G4 LY2 DY4 LY64 DO4 LY24 DY4 LY/4
 
-One full sett is **466 threads**.
+One full sett is **236 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/4 LY2 DY4 LY2 G4 LY2 DY4 LY64 DO4 LY24 DY4 LY4 DY4 LY24 DO4 LY64 DY4 LY2 G4 LY2 DY4 LY/2 — 466 threads; it folds to the canonical 236-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,13 +62,13 @@ One full sett is **466 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/4 LY2 DY4 LY2 G4 LY2 DY4 LY64 DO4 LY24 DY4 LY4 DY4 LY24 DO4 LY64 DY4 LY2 G4 LY2 DY4 LY/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/4 LY2 DY4 LY2 G4 LY2 DY4 LY64 DO4 LY24 DY4 LY/4 tartan" width="880" height="480">
 
 ## Compared to the master
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.06** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **6.65** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

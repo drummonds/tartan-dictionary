@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/">Tennessee</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/"><img src="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/sett.png" alt="Tennessee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/tennessee/">Tennessee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/tennessee/"><img src="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/sett.png" alt="Tennessee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/">Tennessee State (US State)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><img src="/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/sett.png" alt="Tennessee State (US State) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/tennessee-state/">Tennessee State</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/tennessee-state/"><img src="/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/sett.png" alt="Tennessee State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,17 +10,17 @@ crumbs:
 - name: "Whitworth"
   url: "/families/whitworth/"
 - name: "Whitworth"
-  url: "/tartans/w/wh/whitworth-3/"
+  url: "/tartans/w/wh/whitworth-2/"
 - name: "Whitworth (2003)"
-  url: "/setts/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBKBGRKRGBKGBKGKBGKBGRKRGBKBKBK](/stripes/bkbkbkbgrkrgbkgbkgkbgkbgrkrgbkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/w/wh/whitworth-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBGRKRGBKGBKG](/stripes/bkbkbkbgrkrgbkgbkg/).
 
-Part of the [Whitworth](/tartans/w/wh/whitworth-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Whitworth](/tartans/w/wh/whitworth-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4620](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4620)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6052
 
 ## Thread count
-DB/120 K4 DB4 K4 DB10 K30 DB10 G40 R4 K6 R4 G40 DB10 K30 G10 DB40 K4 G8 K4 DB40 G10 K30 DB10 G40 R4 K6 R4 G40 DB10 K30 DB10 K4 DB4 K/4
+DB/120 K4 DB4 K4 DB10 K30 DB10 G40 R4 K6 R4 G40 DB10 K30 G10 DB40 K4 G/8
 
-One full sett is **1132 threads**.
+One full sett is **628 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/120 K4 DB4 K4 DB10 K30 DB10 G40 R4 K6 R4 G40 DB10 K30 G10 DB40 K4 G8 K4 DB40 G10 K30 DB10 G40 R4 K6 R4 G40 DB10 K30 DB10 K4 DB4 K/4 — 1132 threads; it folds to the canonical 628-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **1132 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/120 K4 DB4 K4 DB10 K30 DB10 G40 R4 K6 R4 G40 DB10 K30 G10 DB40 K4 G8 K4 DB40 G10 K30 DB10 G40 R4 K6 R4 G40 DB10 K30 DB10 K4 DB4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/120 K4 DB4 K4 DB10 K30 DB10 G40 R4 K6 R4 G40 DB10 K30 G10 DB40 K4 G/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

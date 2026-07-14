@@ -8,10 +8,10 @@ crumbs:
 - name: "Cumming/Buchan Hunting"
   url: "/tartans/c/cu/cumming-buchan-hunting/"
 - name: "Cumming/Buchan Hunting"
-  url: "/setts/k2r2g27r2k6db2r6g6r2k24r2k2db2r2k24r2g6r6db2k6r2g27r2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2r2g27r2k6db2r6g6r2k24r2k2db2r2k24r2g6r6db2k6r2g27r2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cumming-buchan-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRKBRGRKRBKRKRGRBKRGRK](/stripes/krgrkbrgrkrbkrkrgrbkrgrk/).
 
 Part of the [Cumming/Buchan Hunting](/tartans/c/cu/cumming-buchan-hunting/) tartan — the named design grouping this sett with its other cloths.

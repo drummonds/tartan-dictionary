@@ -8,10 +8,10 @@ crumbs:
 - name: "Virgin One"
   url: "/tartans/v/vi/virgin-one-2/"
 - name: "Virgin One"
-  url: "/setts/ly11r2ly11w6ly7w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly11r2ly11w6ly7w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vi/virgin-one-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYWYRY](/stripes/wywyry/).
 
 Part of the [Virgin One](/tartans/v/vi/virgin-one-2/) tartan — the named design grouping this sett with its other cloths.

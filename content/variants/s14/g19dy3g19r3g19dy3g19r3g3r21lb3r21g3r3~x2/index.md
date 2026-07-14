@@ -12,10 +12,10 @@ crumbs:
 - name: "Burnett of Powis"
   url: "/tartans/b/bu/burnett-of-powis-2/"
 - name: "Burnett of Powis (Modern) (Personal)"
-  url: "/setts/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/burnett-of-powis-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRGGGRGRWRGR](/stripes/gggrgggrgrwrgr/).
 
 Part of the [Burnett of Powis](/tartans/b/bu/burnett-of-powis-2/) tartan — the named design grouping this sett with its other cloths.

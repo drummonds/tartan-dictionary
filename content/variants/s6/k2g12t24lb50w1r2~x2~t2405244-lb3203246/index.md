@@ -12,15 +12,15 @@ crumbs:
 - name: "Pincock"
   url: "/tartans/p/pi/pincock/"
 - name: "Pincock Name Tartan"
-  url: "/setts/k2g12t24lb50w1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2g12t24lb50w1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pi/pincock/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKGBWWR](/stripes/kkgbwwr/).
 
 Part of the [Pincock](/tartans/p/pi/pincock/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10323](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10323)
 
@@ -45,9 +45,11 @@ Earliest known date: 1st Sept. 2010 For Dougie Pincock, first and present Direct
 </details>
 
 ## Thread count
-R/4 W2 LB100 T48 G24 K2 K/2
+K/4 G24 T48 LB100 W2 R/4
 
-One full sett is **358 threads**.
+One full sett is **356 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/4 W2 LB100 T48 G24 K2 K/2 — 358 threads; it folds to the canonical 356-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **358 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 W2 LB100 T48 G24 K2 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 G24 T48 LB100 W2 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

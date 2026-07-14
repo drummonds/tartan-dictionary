@@ -8,10 +8,10 @@ crumbs:
 - name: "Parliament"
   url: "/tartans/p/pa/parliament/"
 - name: "Parliament Trade Tartan"
-  url: "/setts/dbi8g11k3g11dr12db10y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi8g11k3g11dr12db10y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/parliament/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGBBG](/stripes/bgkgbbg/).
 
 Part of the [Parliament](/tartans/p/pa/parliament/) tartan — the named design grouping this sett with its other cloths.

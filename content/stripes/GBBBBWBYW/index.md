@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/">Boucherville Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><img src="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/sett.png" alt="Boucherville Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/">Boucherville Dress (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><img src="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/sett.png" alt="Boucherville Dress (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boucherville-dress/">Boucherville Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boucherville-dress/"><img src="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/sett.png" alt="Boucherville Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

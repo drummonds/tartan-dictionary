@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/macnab/"
 - name: "MacNab"
   url: "/families/macnab/"
+aliases:
+- "/setts/g3b3g19b18r19b3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbgbg/">BRBGBG</a></nav>
 A tartan of the [MacNab](/families/macnab/) family.
 Its design is pattern [BRBGBG](/stripes/brbgbg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacNab 1** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g3b3g19b18r19b3/">MacNab 1</a></td><td><code>B/6 R38 B36 G38 B6 G/6</code></td><td>248</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g3b3g19b18r19b3/"><img src="/variants/s6/g3b3g19b18r19b3~x2/sett.png" alt="MacNab 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g3b3g19b18r19b3~x2/">MacNab 1</a></td><td><code>G/6 B6 G38 B36 R38 B/6</code></td><td>248</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g3b3g19b18r19b3~x2/"><img src="/variants/s6/g3b3g19b18r19b3~x2/sett.png" alt="MacNab 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="270.6" cy="226.9" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="223.0" cy="241.0" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="274.9" cy="226.8" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/r1dy7g7db7g7db7r1~x8/"><circle cx="197.0" cy="271.2" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="254.4" cy="221.5" r="4" fill="#3465a4"><title>Dunbog Primary</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="255.3" cy="237.2" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="230.9" cy="231.3" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/r3db1r1db11g10r2db2~x4/"><circle cx="286.8" cy="210.5" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="184.9" cy="298.1" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="303.4" cy="307.6" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><circle cx="250.9" cy="275.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="270.9" cy="226.9" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="223.2" cy="240.9" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="275.2" cy="226.7" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/r1dy7g7db7g7db7r1~x8/"><circle cx="197.1" cy="271.1" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="254.8" cy="221.5" r="4" fill="#3465a4"><title>Dunbog Primary</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="255.7" cy="237.2" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="231.2" cy="231.3" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/r3db1r1db11g10r2db2~x4/"><circle cx="287.3" cy="210.5" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="184.9" cy="298.0" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="303.4" cy="307.7" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><circle cx="251.1" cy="275.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

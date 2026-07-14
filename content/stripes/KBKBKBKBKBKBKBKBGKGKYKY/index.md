@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3lo5k3lo5~x2/">Zibrant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3lo5k3lo5~x2/"><img src="/variants/s23/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3lo5k3lo5~x2/sett.png" alt="Zibrant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/z/zi/zibrant/">Zibrant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/z/zi/zibrant/"><img src="/variants/s23/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3lo5k3lo5~x2/sett.png" alt="Zibrant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

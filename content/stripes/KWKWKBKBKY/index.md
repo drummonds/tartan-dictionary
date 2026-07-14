@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/">Little of Morton Rig Family/Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/"><img src="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/sett.png" alt="Little of Morton Rig Family/Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/little-of-morton-rig-family-clan/">Little of Morton Rig Family/Clan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/little-of-morton-rig-family-clan/"><img src="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/sett.png" alt="Little of Morton Rig Family/Clan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/">Little of Morton Rigg</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><img src="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/sett.png" alt="Little of Morton Rigg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/little-of-morton-rigg-2/">Little of Morton Rigg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/little-of-morton-rigg-2/"><img src="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/sett.png" alt="Little of Morton Rigg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2~x2/">Beartrap (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2~x2/"><img src="/variants/s13/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2~x2/sett.png" alt="Beartrap (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/beartrap/">Beartrap</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/beartrap/"><img src="/variants/s13/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2~x2/sett.png" alt="Beartrap sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

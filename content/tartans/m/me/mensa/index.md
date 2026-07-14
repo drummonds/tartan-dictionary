@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lb3k19db24r2db2y2db2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbrbkw/">BGBRBKW</a></nav>
 Its design is pattern [BGBRBKW](/stripes/bgbrbkw/) — the page of every tartan sharing this colour sequence.
 
 The **Mensa** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Mensa** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb3k19db24r2db2y2db2/">Mensa</a></td><td><code>LB/6 K38 DB48 R4 DB4 Y4 DB/4</code></td><td>206</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb3k19db24r2db2y2db2/"><img src="/variants/s7/lb3k19db24r2db2y2db2~x2/sett.png" alt="Mensa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/">Mensa</a></td><td><code>LB/6 K38 DB48 R4 DB4 Y4 DB/4</code></td><td>206</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><img src="/variants/s7/lb3k19db24r2db2y2db2~x2/sett.png" alt="Mensa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k10db30g3db3g3db3r6~x2/"><circle cx="325.1" cy="159.6" r="4" fill="#3465a4"><title>Kinding</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="240.9" cy="137.5" r="4" fill="#3465a4"><title>DeCloud-McMasters</title></circle></a><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="294.6" cy="142.9" r="4" fill="#3465a4"><title>Murdoch Celebration</title></circle></a><a href="/variants/s8/k2db22g4k7ly2k2w2db2~x2/"><circle cx="254.3" cy="130.0" r="4" fill="#3465a4"><title>Glasgow, University of</title></circle></a><a href="/variants/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="264.9" cy="158.0" r="4" fill="#3465a4"><title>Murdoch Clebration</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="282.8" cy="144.8" r="4" fill="#3465a4"><title>Slanj Dress</title></circle></a><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="363.9" cy="158.3" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><circle cx="297.8" cy="166.1" r="4" fill="#3465a4"><title>Van Loo</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.2" cy="160.7" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="288.6" cy="162.7" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><circle cx="268.1" cy="141.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k10db30g3db3g3db3r6~x2/"><circle cx="326.0" cy="159.7" r="4" fill="#3465a4"><title>Kinding</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="241.7" cy="137.4" r="4" fill="#3465a4"><title>DeCloud-McMasters</title></circle></a><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="295.5" cy="142.9" r="4" fill="#3465a4"><title>Murdoch Celebration</title></circle></a><a href="/variants/s8/k2db22g4k7ly2k2w2db2~x2/"><circle cx="255.1" cy="129.9" r="4" fill="#3465a4"><title>Glasgow, University of</title></circle></a><a href="/variants/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="265.7" cy="158.0" r="4" fill="#3465a4"><title>Murdoch Clebration</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="283.7" cy="144.9" r="4" fill="#3465a4"><title>Slanj Dress</title></circle></a><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="364.9" cy="158.5" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><circle cx="298.7" cy="166.2" r="4" fill="#3465a4"><title>Van Loo</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.9" cy="160.6" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="289.4" cy="162.7" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><circle cx="268.9" cy="141.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

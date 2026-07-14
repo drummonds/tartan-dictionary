@@ -8,10 +8,10 @@ crumbs:
 - name: "Loudoun's Highlanders"
   url: "/tartans/l/lo/loudoun-s-highlanders-2/"
 - name: "Loudoun's Highlanders"
-  url: "/setts/dr4k2db24k20g20lo3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4k2db24k20g20lo3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loudoun-s-highlanders-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGY](/stripes/bkbkgy/).
 
 Part of the [Loudoun's Highlanders](/tartans/l/lo/loudoun-s-highlanders-2/) tartan — the named design grouping this sett with its other cloths.

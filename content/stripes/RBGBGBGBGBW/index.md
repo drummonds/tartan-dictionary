@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/">Solway Spirit (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><img src="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/sett.png" alt="Solway Spirit (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/solway-spirit-2/">Solway Spirit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/solway-spirit-2/"><img src="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/sett.png" alt="Solway Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

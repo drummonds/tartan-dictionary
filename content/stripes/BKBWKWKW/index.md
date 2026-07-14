@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/">O'Sullivan-Beare (Family)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/"><img src="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/sett.png" alt="O'Sullivan-Beare (Family) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-sullivan-beare-2/">O'Sullivan-Beare</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-sullivan-beare-2/"><img src="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/sett.png" alt="O'Sullivan-Beare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

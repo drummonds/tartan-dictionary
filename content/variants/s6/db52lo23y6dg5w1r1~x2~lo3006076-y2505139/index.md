@@ -8,10 +8,10 @@ crumbs:
 - name: "College of New Caledonia"
   url: "/tartans/c/co/college-of-new-caledonia-2/"
 - name: "College of New Caledonia"
-  url: "/setts/db52lo23y6dg5w1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db52lo23y6dg5w1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/college-of-new-caledonia-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGGWR](/stripes/byggwr/).
 
 Part of the [College of New Caledonia](/tartans/c/co/college-of-new-caledonia-2/) tartan — the named design grouping this sett with its other cloths.

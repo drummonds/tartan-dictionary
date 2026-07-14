@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lp10dp9n59dp9k59dp9lp5/">Central Newcastle School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lp10dp9n59dp9k59dp9lp5/"><img src="/variants/s7/lp10dp9n59dp9k59dp9lp5/sett.png" alt="Central Newcastle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/central-newcastle-high/">Central Newcastle High</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/central-newcastle-high/"><img src="/variants/s7/lp10dp9n59dp9k59dp9lp5/sett.png" alt="Central Newcastle High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

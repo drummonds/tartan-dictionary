@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/">Cree (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/"><img src="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/sett.png" alt="Cree (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/cree/">Cree</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/cree/"><img src="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/sett.png" alt="Cree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/">Edinburgh Castle (Corporate?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/"><img src="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/sett.png" alt="Edinburgh Castle (Corporate?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-castle/">Edinburgh Castle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-castle/"><img src="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/sett.png" alt="Edinburgh Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

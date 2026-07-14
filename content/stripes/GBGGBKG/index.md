@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg11t4dg6dy11t1k1dy4~x4/">Calais (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg11t4dg6dy11t1k1dy4~x4/"><img src="/variants/s7/dg11t4dg6dy11t1k1dy4~x4/sett.png" alt="Calais (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/calais/">Calais</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/calais/"><img src="/variants/s7/dg11t4dg6dy11t1k1dy4~x4/sett.png" alt="Calais sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

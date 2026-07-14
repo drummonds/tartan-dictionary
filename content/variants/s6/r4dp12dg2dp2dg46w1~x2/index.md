@@ -8,10 +8,10 @@ crumbs:
 - name: "Kinfauns Castle"
   url: "/tartans/k/ki/kinfauns-castle/"
 - name: "Kinfauns Castle"
-  url: "/setts/r4dp12dg2dp2dg46w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4dp12dg2dp2dg46w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kinfauns-castle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGW](/stripes/rbgbgw/).
 
 Part of the [Kinfauns Castle](/tartans/k/ki/kinfauns-castle/) tartan — the named design grouping this sett with its other cloths.

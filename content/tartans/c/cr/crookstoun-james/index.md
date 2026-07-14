@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/b53w27r5k19y1g11/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwrkgg/">BWRKGG</a></nav>
 Its design is pattern [BWRKGG](/stripes/bwrkgg/) — the page of every tartan sharing this colour sequence.
 
 The **Crookstoun, James** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Crookstoun, James** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b53w27r5k19y1g11/">Crookstoun, James</a></td><td><code>B/106 W54 R10 K38 Y2 G/22</code></td><td>336</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b53w27r5k19y1g11/"><img src="/variants/s6/b53w27r5k19y1g11~x2/sett.png" alt="Crookstoun, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/b53w27r5k19y1g11~x2/">Crookstoun, James</a></td><td><code>B/106 W54 R10 K38 Y2 G/22</code></td><td>336</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/b53w27r5k19y1g11~x2/"><img src="/variants/s6/b53w27r5k19y1g11~x2/sett.png" alt="Crookstoun, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/t53w27r5k19ly1g11~x2/"><circle cx="192.6" cy="102.2" r="4" fill="#3465a4"><title>Crookstoun</title></circle></a><a href="/variants/s4/w40db40r1k4~x2/"><circle cx="278.1" cy="139.6" r="4" fill="#3465a4"><title>Kimon Andreou</title></circle></a><a href="/variants/s6/r2w6k12db36n12y1~x2/"><circle cx="251.2" cy="103.6" r="4" fill="#3465a4"><title>Alan Stone</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.4" cy="143.9" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.2" cy="121.6" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s7/db26w28db14y3k1y2k1~x2/"><circle cx="279.4" cy="119.2" r="4" fill="#3465a4"><title>Gothenburg/Goteborg</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="194.0" cy="158.0" r="4" fill="#3465a4"><title>Clunie</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="209.8" cy="156.9" r="4" fill="#3465a4"><title>Prehospital EMS</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="298.7" cy="132.0" r="4" fill="#3465a4"><title>Kinloch of Loch Awe</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="299.4" cy="132.7" r="4" fill="#3465a4"><title>Kinloch at Loch Awe</title></circle></a><circle cx="194.3" cy="97.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/t53w27r5k19ly1g11~x2/"><circle cx="193.2" cy="101.9" r="4" fill="#3465a4"><title>Crookstoun</title></circle></a><a href="/variants/s4/w40db40r1k4~x2/"><circle cx="279.0" cy="139.5" r="4" fill="#3465a4"><title>Kimon Andreou</title></circle></a><a href="/variants/s6/r2w6k12db36n12y1~x2/"><circle cx="252.0" cy="103.5" r="4" fill="#3465a4"><title>Alan Stone</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.8" cy="143.6" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.6" cy="121.3" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s7/db26w28db14y3k1y2k1~x2/"><circle cx="280.3" cy="119.2" r="4" fill="#3465a4"><title>Gothenburg/Goteborg</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="194.6" cy="157.8" r="4" fill="#3465a4"><title>Clunie</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="210.4" cy="156.7" r="4" fill="#3465a4"><title>Prehospital EMS</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="299.4" cy="132.0" r="4" fill="#3465a4"><title>Kinloch of Loch Awe</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="300.2" cy="132.6" r="4" fill="#3465a4"><title>Kinloch at Loch Awe</title></circle></a><circle cx="194.9" cy="97.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

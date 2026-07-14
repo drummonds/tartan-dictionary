@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/">Galway Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/"><img src="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/sett.png" alt="Galway Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/galway-irish-county/">Galway Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/galway-irish-county/"><img src="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/sett.png" alt="Galway Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/">Galway, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/"><img src="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/sett.png" alt="Galway, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/galway-county/">Galway, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/galway-county/"><img src="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/sett.png" alt="Galway, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

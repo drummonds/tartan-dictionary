@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dy6t16lb3y3o3g3w2~x4~t2405244-lb3200000-y2104086-o2605070/">Atikokan (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dy6t16lb3y3o3g3w2~x4~t2405244-lb3200000-y2104086-o2605070/"><img src="/variants/s7/dy6t16lb3y3o3g3w2~x4~t2405244-lb3200000-y2104086-o2605070/sett.png" alt="Atikokan (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/at/atikokan/">Atikokan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/at/atikokan/"><img src="/variants/s7/dy6t16lb3y3o3g3w2~x4~t2405244-lb3200000-y2104086-o2605070/sett.png" alt="Atikokan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

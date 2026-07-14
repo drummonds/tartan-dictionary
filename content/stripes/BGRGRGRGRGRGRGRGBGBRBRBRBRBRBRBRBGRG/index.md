@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6do4/">Newfoundland (CIDD 28098)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6do4/"><img src="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6do4/sett.png" alt="Newfoundland (CIDD 28098) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/newfoundland-3/">Newfoundland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/newfoundland-3/"><img src="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6do4/sett.png" alt="Newfoundland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

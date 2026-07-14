@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6/">Barra Fuschia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6/"><img src="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/sett.png" alt="Barra Fuschia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barra-fuschia/">Barra Fuschia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barra-fuschia/"><img src="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/sett.png" alt="Barra Fuschia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

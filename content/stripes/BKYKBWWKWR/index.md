@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/">Ambulance Victoria (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/"><img src="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/sett.png" alt="Ambulance Victoria (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/ambulance-victoria/">Ambulance Victoria</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/ambulance-victoria/"><img src="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/sett.png" alt="Ambulance Victoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

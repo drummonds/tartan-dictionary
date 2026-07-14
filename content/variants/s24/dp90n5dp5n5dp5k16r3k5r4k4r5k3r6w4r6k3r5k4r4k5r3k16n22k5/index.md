@@ -12,10 +12,10 @@ crumbs:
 - name: "Arran"
   url: "/tartans/a/ar/arran-3/"
 - name: "Arran District Tartan"
-  url: "/setts/dp90n5dp5n5dp5k16r3k5r4k4r5k3r6w4r6k3r5k4r4k5r3k16n22k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp90n5dp5n5dp5k16r3k5r4k4r5k3r6w4r6k3r5k4r4k5r3k16n22k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/arran-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBKRKRKRKRWRKRKRKRKBK](/stripes/bbbbbkrkrkrkrwrkrkrkrkbk/).
 
 Part of the [Arran](/tartans/a/ar/arran-3/) tartan — the named design grouping this sett with its other cloths.

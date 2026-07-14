@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g4dy2g2dy2g2dy3db1dy1g4dy1db1dy12db2dy3~x2/">MacAlister of Glenbarr Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g4dy2g2dy2g2dy3db1dy1g4dy1db1dy12db2dy3~x2/"><img src="/variants/s14/g4dy2g2dy2g2dy3db1dy1g4dy1db1dy12db2dy3~x2/sett.png" alt="MacAlister of Glenbarr Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/">MacAlister of Glenbarr Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/"><img src="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/sett.png" alt="MacAlister of Glenbarr Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macalister-of-glenbarr/">MacAlister of Glenbarr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macalister-of-glenbarr/"><img src="/variants/s14/g4dy2g2dy2g2dy3db1dy1g4dy1db1dy12db2dy3~x2/sett.png" alt="MacAlister of Glenbarr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macalister-of-glenbarr-hunting/">MacAlister of Glenbarr Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macalister-of-glenbarr-hunting/"><img src="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/sett.png" alt="MacAlister of Glenbarr Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

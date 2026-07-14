@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k3dr1k14db14dr1db1dr1db1dr2/">Angus</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k3dr1k14db14dr1db1dr1db1dr2/"><img src="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4~db1406275/sett.png" alt="Angus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/angus-2/">Angus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/angus-2/"><img src="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4~db1406275/sett.png" alt="Angus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/dr20b2dr2b2dr2b8k24b2k3~x2/">Carlow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr20b2dr2b2dr2b8k24b2k3~x2/"><img src="/variants/s9/dr20b2dr2b2dr2b8k24b2k3~x2/sett.png" alt="Carlow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carlow/">Carlow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carlow/"><img src="/variants/s9/dr20b2dr2b2dr2b8k24b2k3~x2/sett.png" alt="Carlow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

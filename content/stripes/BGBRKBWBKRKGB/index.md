@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/">European Congress of Immunology 2012</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/"><img src="/variants/s13/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/sett.png" alt="European Congress of Immunology 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/eu/european-congress-of-immunology-2012/">European Congress of Immunology 2012</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eu/european-congress-of-immunology-2012/"><img src="/variants/s13/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/sett.png" alt="European Congress of Immunology 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

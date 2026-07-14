@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/macquarrie/"
 - name: "MacQuarrie"
   url: "/families/macquarrie/"
+aliases:
+- "/setts/r2db1r10k4r2g8r2g8r7k1r2db1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brkrgrgrkrbr/">BRKRGRGRKRBR</a></nav>
 A tartan of the [MacQuarrie](/families/macquarrie/) family.
 Its design is pattern [BRKRGRGRKRBR](/stripes/brkrgrgrkrbr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacQuarrie** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2db1r10k4r2g8r2g8r7k1r2db1/">MacQuarrie</a></td><td><code>R/4 DB2 R20 K8 R4 G16 R4 G16 R14 K2 R4 DB/2</code></td><td>186</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2db1r10k4r2g8r2g8r7k1r2db1/"><img src="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/sett.png" alt="MacQuarrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/">MacQuarrie</a></td><td><code>R/4 DB2 R20 K8 R4 G16 R4 G16 R14 K2 R4 DB/2</code></td><td>186</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><img src="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/sett.png" alt="MacQuarrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -38,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="241.4" cy="174.0" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/"><circle cx="273.6" cy="162.3" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5/"><circle cx="249.2" cy="173.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/"><circle cx="217.3" cy="149.1" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/"><circle cx="200.9" cy="162.9" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/"><circle cx="192.7" cy="143.1" r="4" fill="#3465a4"><title>Nicolson MacNicol</title></circle></a><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/"><circle cx="248.2" cy="123.9" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s13/k2r8g2r8g13r1k7lb1k7r8g2r8k2~x4/"><circle cx="185.8" cy="145.7" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/"><circle cx="181.5" cy="161.7" r="4" fill="#3465a4"><title>MacNicol Dress</title></circle></a><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/"><circle cx="181.6" cy="161.4" r="4" fill="#3465a4"><title>MacNichol</title></circle></a><circle cx="232.8" cy="159.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="242.0" cy="173.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/"><circle cx="274.3" cy="162.3" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5/"><circle cx="249.9" cy="173.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/"><circle cx="218.0" cy="149.0" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/"><circle cx="201.5" cy="162.8" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/"><circle cx="193.3" cy="143.0" r="4" fill="#3465a4"><title>Nicolson MacNicol</title></circle></a><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/"><circle cx="248.9" cy="123.8" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s13/k2r8g2r8g13r1k7lb1k7r8g2r8k2~x4/"><circle cx="186.4" cy="145.5" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/"><circle cx="182.0" cy="161.5" r="4" fill="#3465a4"><title>MacNicol Dress</title></circle></a><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/"><circle cx="182.1" cy="161.2" r="4" fill="#3465a4"><title>MacNichol</title></circle></a><circle cx="233.4" cy="159.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

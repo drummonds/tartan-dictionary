@@ -8,15 +8,15 @@ crumbs:
 - name: "Royal Canadian Mounted Police"
   url: "/tartans/r/ro/royal-canadian-mounted-police/"
 - name: "Royal Canadian Mounted Police Corporate Tartan"
-  url: "/setts/k76db1k2lb1g14dr5k13o1lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k76db1k2lb1g14dr5k13o1lo1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKWGBKRYRKBGWKBK](/stripes/bkwgbkryrkbgwkbk/).
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-canadian-mounted-police/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKWGBKRY](/stripes/kbkwgbkry/).
 
 Part of the [Royal Canadian Mounted Police](/tartans/r/ro/royal-canadian-mounted-police/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2447](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2447)
 
@@ -41,9 +41,11 @@ Earliest known date: 05/05/1998 Designed by Violet Holmes, B.C. Canada and adopt
 </details>
 
 ## Thread count
-K/152 DB2 K4 LB2 G28 DR10 K26 O2 LO2 O2 K26 DR10 G28 LB2 K4 DB/2
+K/152 DB2 K4 LR2 G28 DR10 K26 O2 LO/2
 
-One full sett is **450 threads**.
+One full sett is **302 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/152 DB2 K4 LB2 G28 DR10 K26 O2 LO2 O2 K26 DR10 G28 LB2 K4 DB/2 — 450 threads; it folds to the canonical 302-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **450 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/152 DB2 K4 LB2 G28 DR10 K26 O2 LO2 O2 K26 DR10 G28 LB2 K4 DB/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/152 DB2 K4 LR2 G28 DR10 K26 O2 LO/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

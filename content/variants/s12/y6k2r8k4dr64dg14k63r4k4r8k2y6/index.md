@@ -8,10 +8,10 @@ crumbs:
 - name: "Integrated Landscape Management"
   url: "/tartans/i/in/integrated-landscape-management/"
 - name: "Integrated Landscape Management (ILM)"
-  url: "/setts/y6k2r8k4dr64dg14k63r4k4r8k2y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y6k2r8k4dr64dg14k63r4k4r8k2y6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/integrated-landscape-management/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKBGKRKRKG](/stripes/gkrkbgkrkrkg/).
 
 Part of the [Integrated Landscape Management](/tartans/i/in/integrated-landscape-management/) tartan — the named design grouping this sett with its other cloths.

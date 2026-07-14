@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/">Graham-Maila (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/"><img src="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/sett.png" alt="Graham-Maila (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/graham-maila/">Graham-Maila</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-maila/"><img src="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/sett.png" alt="Graham-Maila sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

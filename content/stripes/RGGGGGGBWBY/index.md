@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r6g22dg8g4dg12g2dg18db8lb12db35ly4/">Bruntsfield Links Golfing Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r6g22dg8g4dg12g2dg18db8lb12db35ly4/"><img src="/variants/s11/r6g22dg8g4dg12g2dg18db8lb12db35ly4/sett.png" alt="Bruntsfield Links Golfing Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bruntsfield-links-golfing-society/">Bruntsfield Links Golfing Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bruntsfield-links-golfing-society/"><img src="/variants/s11/r6g22dg8g4dg12g2dg18db8lb12db35ly4/sett.png" alt="Bruntsfield Links Golfing Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

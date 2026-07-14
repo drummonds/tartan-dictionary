@@ -12,10 +12,10 @@ crumbs:
 - name: "Musselburgh"
   url: "/tartans/m/mu/musselburgh/"
 - name: "Musselburgh District Tartan"
-  url: "/setts/lb14w1lb3y2lb3w1lb4db24r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb14w1lb3y2lb3w1lb4db24r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/musselburgh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWWWGWWW](/stripes/rbwwwgwww/).
 
 Part of the [Musselburgh](/tartans/m/mu/musselburgh/) tartan — the named design grouping this sett with its other cloths.

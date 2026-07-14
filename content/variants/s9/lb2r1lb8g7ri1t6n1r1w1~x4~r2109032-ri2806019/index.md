@@ -8,15 +8,15 @@ crumbs:
 - name: "Kansai2"
   url: "/tartans/k/ka/kansai2/"
 - name: "Kansai2"
-  url: "/setts/lb2r1lb8g7ri1t6n1r1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb2r1lb8g7ri1t6n1r1w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWGRBBRWRBBRGWRW](/stripes/rwgrbbrwrbbrgwrw/).
+provenance below. It is one weaving of the [sett](/tartans/k/ka/kansai2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WRBBRGWRW](/stripes/wrbbrgwrw/).
 
 Part of the [Kansai2](/tartans/k/ka/kansai2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1930](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1930)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6279
 
 ## Thread count
-LB/8 R4 LB32 G28 Ri4 T24 N4 R4 W4 R4 N4 T24 Ri4 G28 LB32 R/4
+LB/8 R4 LB32 G28 Ri4 T24 N4 R4 W/4
 
-One full sett is **412 threads**.
+One full sett is **212 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/8 R4 LB32 G28 Ri4 T24 N4 R4 W4 R4 N4 T24 Ri4 G28 LB32 R/4 — 412 threads; it folds to the canonical 212-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **412 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/8 R4 LB32 G28 Ri4 T24 N4 R4 W4 R4 N4 T24 Ri4 G28 LB32 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/8 R4 LB32 G28 Ri4 T24 N4 R4 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

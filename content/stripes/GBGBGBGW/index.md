@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w6y3db3y2db3y4db48y4/">Morris (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w6y3db3y2db3y4db48y4/"><img src="/variants/s8/w6y3db3y2db3y4db48y4/sett.png" alt="Morris (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/y4db48y4db3y2db3y3w4/">Morris of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y4db48y4db3y2db3y3w4/"><img src="/variants/s8/y4db48y4db3y2db3y3w4/sett.png" alt="Morris of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/morris/">Morris</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morris/"><img src="/variants/s8/w6y3db3y2db3y4db48y4/sett.png" alt="Morris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/morris-of-wales/">Morris of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morris-of-wales/"><img src="/variants/s8/y4db48y4db3y2db3y3w4/sett.png" alt="Morris of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/">Hastings-Stephenson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/"><img src="/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/sett.png" alt="Hastings-Stephenson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hastings-stephenson/">Hastings-Stephenson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hastings-stephenson/"><img src="/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/sett.png" alt="Hastings-Stephenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

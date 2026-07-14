@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db1dy9db2dy9r1~x4/">Brooks Brothers Tattersall Camel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db1dy9db2dy9r1~x4/"><img src="/variants/s5/db1dy9db2dy9r1~x4/sett.png" alt="Brooks Brothers Tattersall Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/db16dy2db16dy19r4~x3/">Unidentified #24</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db16dy2db16dy19r4~x3/"><img src="/variants/s5/db16dy2db16dy19r4~x3/sett.png" alt="Unidentified #24 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brooks-brothers-tattersall-camel/">Brooks Brothers Tattersall Camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brooks-brothers-tattersall-camel/"><img src="/variants/s5/db1dy9db2dy9r1~x4/sett.png" alt="Brooks Brothers Tattersall Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-35/">Unidentified</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-35/"><img src="/variants/s5/db16dy2db16dy19r4~x3/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

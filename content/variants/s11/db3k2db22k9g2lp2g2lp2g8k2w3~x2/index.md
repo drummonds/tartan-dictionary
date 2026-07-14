@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Rugby Union"
   url: "/tartans/s/sc/scottish-rugby-union/"
 - name: "Scottish Rugby Union Corporate Tartan"
-  url: "/setts/db3k2db22k9g2lp2g2lp2g8k2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3k2db22k9g2lp2g2lp2g8k2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-rugby-union/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGWGWGKW](/stripes/bkbkgwgwgkw/).
 
 Part of the [Scottish Rugby Union](/tartans/s/sc/scottish-rugby-union/) tartan — the named design grouping this sett with its other cloths.

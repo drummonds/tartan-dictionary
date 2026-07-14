@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/">Black &amp; White Golf (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><img src="/variants/s7/ly9k32g6w20ly3w9k5~x2/sett.png" alt="Black &amp; White Golf (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-white-golf/">Black &amp; White Golf</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-white-golf/"><img src="/variants/s7/ly9k32g6w20ly3w9k5~x2/sett.png" alt="Black &amp; White Golf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

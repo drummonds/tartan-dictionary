@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lo7g2w2lb5w3lb7w5lb14w5r5~x2/">Peter Rabbit (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lo7g2w2lb5w3lb7w5lb14w5r5~x2/"><img src="/variants/s10/lo7g2w2lb5w3lb7w5lb14w5r5~x2/sett.png" alt="Peter Rabbit (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/peter-rabbit/">Peter Rabbit™</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peter-rabbit/"><img src="/variants/s10/lo7g2w2lb5w3lb7w5lb14w5r5~x2/sett.png" alt="Peter Rabbit™ sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

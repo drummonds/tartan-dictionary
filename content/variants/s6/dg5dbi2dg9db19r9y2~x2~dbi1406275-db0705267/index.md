@@ -8,10 +8,10 @@ crumbs:
 - name: "Lyle and Scott"
   url: "/tartans/l/ly/lyle-and-scott/"
 - name: "Lyle and Scott"
-  url: "/setts/dg5dbi2dg9db19r9y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg5dbi2dg9db19r9y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/ly/lyle-and-scott/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBRG](/stripes/gbgbrg/).
 
 Part of the [Lyle and Scott](/tartans/l/ly/lyle-and-scott/) tartan — the named design grouping this sett with its other cloths.

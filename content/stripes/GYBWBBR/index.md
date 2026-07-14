@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/">Porcupine City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><img src="/variants/s7/o10n3db1lb8db1lo2g5~x4/sett.png" alt="Porcupine City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/porcupine-city-of/">Porcupine City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/porcupine-city-of/"><img src="/variants/s7/o10n3db1lb8db1lo2g5~x4/sett.png" alt="Porcupine City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

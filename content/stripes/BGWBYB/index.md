@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/">Swedish Para Whisky Club (Corporate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"><img src="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/sett.png" alt="Swedish Para Whisky Club (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sw/swedish-para-whisky-club-corporate/">Swedish Para Whisky Club (Corporate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/swedish-para-whisky-club-corporate/"><img src="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/sett.png" alt="Swedish Para Whisky Club (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/">Earl of Inverness (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><img src="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/sett.png" alt="Earl of Inverness (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ea/earl-of-inverness/">Earl of Inverness</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ea/earl-of-inverness/"><img src="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/sett.png" alt="Earl of Inverness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

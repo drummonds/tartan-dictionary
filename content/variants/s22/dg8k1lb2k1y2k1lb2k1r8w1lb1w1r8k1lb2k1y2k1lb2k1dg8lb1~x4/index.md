@@ -12,10 +12,10 @@ crumbs:
 - name: "MacWhirter"
   url: "/tartans/m/ma/macwhirter-2/"
 - name: "MacWhirter"
-  url: "/setts/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macwhirter-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGKWKRWWWRKWKGKWKGW](/stripes/gkwkgkwkrwwwrkwkgkwkgw/).
 
 Part of the [MacWhirter](/tartans/m/ma/macwhirter-2/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Kerby/Kirby"
   url: "/tartans/k/ke/kerby-kirby/"
 - name: "Kerby/Kirby"
-  url: "/setts/dr6g1lb2g24k3g3k3g3k8db8lb2db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr6g1lb2g24k3g3k3g3k8db8lb2db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kerby-kirby/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGKGKGKBWB](/stripes/bgwgkgkgkbwb/).
 
 Part of the [Kerby/Kirby](/tartans/k/ke/kerby-kirby/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/">Hororata (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/"><img src="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/sett.png" alt="Hororata (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hororata/">Hororata</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hororata/"><img src="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/sett.png" alt="Hororata sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

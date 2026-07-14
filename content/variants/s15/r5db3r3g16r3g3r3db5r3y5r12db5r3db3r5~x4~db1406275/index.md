@@ -12,15 +12,15 @@ crumbs:
 - name: "Grant of Ballindalloch"
   url: "/tartans/g/gr/grant-of-ballindalloch/"
 - name: "Grant of Ballindalloch (Personal)"
-  url: "/setts/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBRGRBRGRGRBRBRGRGRBRGRBRBR](/stripes/brbrgrbrgrgrbrbrgrgrbrgrbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grant-of-ballindalloch/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBRGRBRGRGRBR](/stripes/rbrbrgrbrgrgrbr/).
 
 Part of the [Grant of Ballindalloch](/tartans/g/gr/grant-of-ballindalloch/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1505](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1505)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2149
 
 ## Thread count
-R/20 DB12 R12 DB20 R48 Y20 R12 DB20 R12 G12 R12 G64 R12 DB12 R20 DB12 R12 G64 R12 G12 R12 DB20 R12 Y20 R48 DB20 R12 DB/12
+R/20 DB12 R12 G64 R12 G12 R12 DB20 R12 Y20 R48 DB20 R12 DB12 R/20
 
-One full sett is **1120 threads**.
+One full sett is **576 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/20 DB12 R12 DB20 R48 Y20 R12 DB20 R12 G12 R12 G64 R12 DB12 R20 DB12 R12 G64 R12 G12 R12 DB20 R12 Y20 R48 DB20 R12 DB/12 — 1120 threads; it folds to the canonical 576-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **1120 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/20 DB12 R12 DB20 R48 Y20 R12 DB20 R12 G12 R12 G64 R12 DB12 R20 DB12 R12 G64 R12 G12 R12 DB20 R12 Y20 R48 DB20 R12 DB/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/20 DB12 R12 G64 R12 G12 R12 DB20 R12 Y20 R48 DB20 R12 DB12 R/20 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

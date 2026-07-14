@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171/">Armagh, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171/"><img src="/variants/s9/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171/sett.png" alt="Armagh, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/armagh-county/">Armagh, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/armagh-county/"><img src="/variants/s9/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171/sett.png" alt="Armagh, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/">Bush Pilot</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><img src="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/sett.png" alt="Bush Pilot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/bush-pilot/">Bush Pilot</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/bush-pilot/"><img src="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/sett.png" alt="Bush Pilot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

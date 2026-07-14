@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2g24k2g12y6k1r2~x2/">Inman (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><img src="/variants/s7/r2g24k2g12y6k1r2~x2/sett.png" alt="Inman (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inman/">Inman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inman/"><img src="/variants/s7/r2g24k2g12y6k1r2~x2/sett.png" alt="Inman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

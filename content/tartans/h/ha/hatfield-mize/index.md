@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg10w2k10y5db35r6/"
+- "/setts/dg10w2k10dy10db35r6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwkgbr/">GWKGBR</a></nav>
 Its design is pattern [GWKGBR](/stripes/gwkgbr/) — the page of every tartan sharing this colour sequence.
 
 The **Hatfield & Mize** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Hatfield & Mize** tartan groups 2 setts — the same named design recorded
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg10w2k10y5db35r6/">Hatfield &amp; Mize</a> ★</td><td><code>DG/20 W4 K20 Y10 DB70 R/12</code></td><td>240</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg10w2k10y5db35r6/"><img src="/variants/s6/dg10w2k10y5db35r6~x2/sett.png" alt="Hatfield &amp; Mize sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dg10w2k10dy10db35r6/">(Personal)</a></td><td><code>DG/20 W4 K20 DY20 DB70 R/12</code></td><td>260</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg10w2k10dy10db35r6/"><img src="/variants/s6/dg10w2k10dy10db35r6~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg10w2k10y5db35r6~x2/">Hatfield &amp; Mize</a> ★</td><td><code>DG/20 W4 K20 Y10 DB70 R/12</code></td><td>240</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><img src="/variants/s6/dg10w2k10y5db35r6~x2/sett.png" alt="Hatfield &amp; Mize sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg10w2k10dy10db35r6~x2/">(Personal)</a></td><td><code>DG/20 W4 K20 DY20 DB70 R/12</code></td><td>260</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><img src="/variants/s6/dg10w2k10dy10db35r6~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="206.8" cy="120.6" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="217.3" cy="174.9" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.0" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s6/y8k2db20t4w1k2~x4~db1404245-t2503227/"><circle cx="285.6" cy="144.9" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="282.6" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="235.0" cy="158.8" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s6/db25k84w5g23y5dp8~x2/"><circle cx="247.5" cy="119.9" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="142.6" cy="140.8" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/lb2g13r2k6db23w1~x4/"><circle cx="218.7" cy="122.3" r="4" fill="#3465a4"><title>Gamblin Thompson</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="239.6" cy="122.6" r="4" fill="#3465a4"><title>Italian National</title></circle></a><circle cx="233.5" cy="139.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="207.5" cy="120.5" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="217.8" cy="174.8" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.9" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s6/y8k2db20t4w1k2~x4~db1404245-t2503227/"><circle cx="286.3" cy="144.9" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="283.4" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="235.5" cy="158.7" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s6/db25k84w5g23y5dp8~x2/"><circle cx="248.4" cy="119.8" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="143.1" cy="140.5" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/lb2g13r2k6db23w1~x4/"><circle cx="219.4" cy="122.2" r="4" fill="#3465a4"><title>Gamblin Thompson</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="240.3" cy="122.5" r="4" fill="#3465a4"><title>Italian National</title></circle></a><circle cx="234.2" cy="139.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

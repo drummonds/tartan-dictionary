@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/">Galway County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><img src="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/sett.png" alt="Galway County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/galway-county-crest/">Galway County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/galway-county-crest/"><img src="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/sett.png" alt="Galway County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

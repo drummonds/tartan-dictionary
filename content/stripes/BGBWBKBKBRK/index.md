@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/">Pearl O' the Tay (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/"><img src="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/sett.png" alt="Pearl O' the Tay (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/pearl-o-the-tay/">Pearl O' The Tay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/pearl-o-the-tay/"><img src="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/sett.png" alt="Pearl O' The Tay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

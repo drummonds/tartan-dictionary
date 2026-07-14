@@ -12,10 +12,10 @@ crumbs:
 - name: "Wallace"
   url: "/tartans/w/wa/wallace/"
 - name: "Wallace Blue"
-  url: "/setts/k1db8k8y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1db8k8y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/wallace/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBK](/stripes/gkbk/).
 
 Part of the [Wallace](/tartans/w/wa/wallace/) tartan — the named design grouping this sett with its other cloths.

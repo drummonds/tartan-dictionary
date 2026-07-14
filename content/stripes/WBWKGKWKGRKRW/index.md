@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/">Stewart Dress (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/"><img src="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/sett.png" alt="Stewart Dress (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-dress-5/">Stewart Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-dress-5/"><img src="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

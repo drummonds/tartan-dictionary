@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/">F.I.A.T.A. Congress of 1990</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><img src="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/sett.png" alt="F.I.A.T.A. Congress of 1990 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/f/f-i-a-t-a-congress-1990/">F.I.A.T.A. Congress 1990</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/f/f-i-a-t-a-congress-1990/"><img src="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/sett.png" alt="F.I.A.T.A. Congress 1990 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

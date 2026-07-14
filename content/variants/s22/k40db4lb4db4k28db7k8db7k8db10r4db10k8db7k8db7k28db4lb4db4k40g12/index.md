@@ -8,10 +8,10 @@ crumbs:
 - name: "Pride"
   url: "/tartans/p/pr/pride/"
 - name: "Pride (Wales)"
-  url: "/setts/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/pride/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBWBKBKBKBRBKBKBKBWBK](/stripes/gkbwbkbkbkbrbkbkbkbwbk/).
 
 Part of the [Pride](/tartans/p/pr/pride/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Scotland's Lionheart"
   url: "/tartans/s/sc/scotland-s-lionheart/"
 - name: "Scotland's Lionheart"
-  url: "/setts/k78y16k2dt2k2y2k3r2k10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k78y16k2dt2k2y2k3r2k10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scotland-s-lionheart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKGKRK](/stripes/kgkbkgkrk/).
 
 Part of the [Scotland's Lionheart](/tartans/s/sc/scotland-s-lionheart/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3681](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2007 — Scotland's Lionheart (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3681">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#686868;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #686868"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C4C4C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #4C4C4C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#AC0034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #AC0034"></span><br><em>Designed by Claire Hunter of The House of Edgar for The Kilt Centre of Hamilton. Only to be woven by The House of Edgar.</em></li>
-<li>pre 2007 — Scotland's Lionheart (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7335">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#686868;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #686868"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C4C4C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #4C4C4C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#AC0034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #AC0034"></span><br><em>Designed by Claire Hunter of The House of Edgar for The Kilt Centre of Hamilton. Only to be woven by The House of Edgar.</em></li>
+<li>pre 2007 — Scotland's Lionheart (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7335/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#686868;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #686868"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C4C4C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #4C4C4C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#AC0034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #AC0034"></span><br><em>Designed by Claire Hunter of The House of Edgar for The Kilt Centre of Hamilton. Only to be woven by The House of Edgar.</em></li>
 </ul>
 </details>
 

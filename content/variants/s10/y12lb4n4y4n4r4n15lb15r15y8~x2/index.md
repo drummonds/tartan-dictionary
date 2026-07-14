@@ -8,10 +8,10 @@ crumbs:
 - name: "Glasgow's Miles Better"
   url: "/tartans/g/gl/glasgow-s-miles-better/"
 - name: "Glasgow's Miles Better"
-  url: "/setts/y12lb4n4y4n4r4n15lb15r15y8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y12lb4n4y4n4r4n15lb15r15y8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glasgow-s-miles-better/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWBRBGBWG](/stripes/grwbrbgbwg/).
 
 Part of the [Glasgow's Miles Better](/tartans/g/gl/glasgow-s-miles-better/) tartan — the named design grouping this sett with its other cloths.

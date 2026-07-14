@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/erskine/"
 - name: "Erskine BW MINI Design"
   url: "/tartans/e/er/erskine-bw-mini-design/"
-- name: "Erskine (Black and White)"
-  url: "/setts/k2w1k9w9k1w2/"
+- name: "Erskine BW MINI Design Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2w1k9w9k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/er/erskine-bw-mini-design/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKW](/stripes/kwkwkw/).
 
 Part of the [Erskine BW MINI Design](/tartans/e/er/erskine-bw-mini-design/) tartan — the named design grouping this sett with its other cloths.

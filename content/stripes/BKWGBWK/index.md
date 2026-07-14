@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k30w2n4y10w9k3n5~x2/">Virginia Commonwealth University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k30w2n4y10w9k3n5~x2/"><img src="/variants/s7/k30w2n4y10w9k3n5~x2/sett.png" alt="Virginia Commonwealth University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/virginia-commonwealth-university/">Virginia Commonwealth University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/virginia-commonwealth-university/"><img src="/variants/s7/k30w2n4y10w9k3n5~x2/sett.png" alt="Virginia Commonwealth University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

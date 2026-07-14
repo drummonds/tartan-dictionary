@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y3k21r7k2g10k2r7k2db21w3~x2/">Tantallon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y3k21r7k2g10k2r7k2db21w3~x2/"><img src="/variants/s10/y3k21r7k2g10k2r7k2db21w3~x2/sett.png" alt="Tantallon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/y3k22r7k2g10k2r7k2db22w3~x2/">Tantallon #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y3k22r7k2g10k2r7k2db22w3~x2/"><img src="/variants/s10/y3k22r7k2g10k2r7k2db22w3~x2/sett.png" alt="Tantallon #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tantallon/">Tantallon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tantallon/"><img src="/variants/s10/y3k22r7k2g10k2r7k2db22w3~x2/sett.png" alt="Tantallon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

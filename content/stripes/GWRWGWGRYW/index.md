@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/">Llama (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/"><img src="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/sett.png" alt="Llama (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ll/llama/">Llama</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ll/llama/"><img src="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/sett.png" alt="Llama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

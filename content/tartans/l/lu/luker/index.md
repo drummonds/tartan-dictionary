@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w8g15k15g5k2g6k40db20r6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbkgkgkgw/">RBKGKGKGW</a></nav>
 Its design is pattern [RBKGKGKGW](/stripes/rbkgkgkgw/) — the page of every tartan sharing this colour sequence.
 
 The **Luker** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Luker** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w8g15k15g5k2g6k40db20r6/">Luker</a></td><td><code>W/8 G15 K15 G5 K2 G6 K40 DB20 R/6</code></td><td>220</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w8g15k15g5k2g6k40db20r6/"><img src="/variants/s9/w8g15k15g5k2g6k40db20r6/sett.png" alt="Luker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w8g15k15g5k2g6k40db20r6/">Luker</a></td><td><code>W/8 G15 K15 G5 K2 G6 K40 DB20 R/6</code></td><td>220</td><td>2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w8g15k15g5k2g6k40db20r6/"><img src="/variants/s9/w8g15k15g5k2g6k40db20r6/sett.png" alt="Luker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="197.1" cy="119.8" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><a href="/variants/s8/k35o2k3dp13g8w4g8dp8~x2/"><circle cx="199.5" cy="122.3" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="156.9" cy="175.6" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland</title></circle></a><a href="/variants/s11/db10k10db10dr2k20w1g10dr2g4dr2g4~x2/"><circle cx="169.5" cy="137.6" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><circle cx="154.2" cy="126.6" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><circle cx="180.1" cy="159.1" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="169.7" cy="157.5" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><circle cx="205.0" cy="129.7" r="4" fill="#3465a4"><title>Smoke Showing</title></circle></a><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><circle cx="211.7" cy="104.2" r="4" fill="#3465a4"><title>Model T Ford</title></circle></a><a href="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/"><circle cx="198.6" cy="90.9" r="4" fill="#3465a4"><title>Letter Dress</title></circle></a><circle cx="189.3" cy="125.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="197.7" cy="119.7" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><a href="/variants/s8/k35o2k3dp13g8w4g8dp8~x2/"><circle cx="200.2" cy="122.1" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="157.3" cy="175.4" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland</title></circle></a><a href="/variants/s11/db10k10db10dr2k20w1g10dr2g4dr2g4~x2/"><circle cx="170.0" cy="137.4" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><circle cx="154.8" cy="126.4" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><circle cx="180.6" cy="159.0" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="170.2" cy="157.4" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><circle cx="205.6" cy="129.5" r="4" fill="#3465a4"><title>Smoke Showing</title></circle></a><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><circle cx="212.6" cy="104.1" r="4" fill="#3465a4"><title>Model T Ford</title></circle></a><a href="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/"><circle cx="199.3" cy="90.7" r="4" fill="#3465a4"><title>Letter Dress</title></circle></a><circle cx="189.9" cy="125.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

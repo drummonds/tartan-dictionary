@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db6k6db6o14dy3/"
+- "/setts/db2k2db2o5dy1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbrg/">BKBRG</a></nav>
 Its design is pattern [BKBRG](/stripes/bkbrg/) — the page of every tartan sharing this colour sequence.
 
 The **Chivas Regal** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Chivas Regal** tartan groups 2 setts — the same named design recorded as
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db6k6db6o14dy3/">Chivas Regal</a> ★</td><td><code>DB/12 K12 DB12 O28 DY/6</code></td><td>122</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db6k6db6o14dy3/"><img src="/variants/s5/db6k6db6o14dy3~x2/sett.png" alt="Chivas Regal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db2k2db2o5dy1/">(Corporate)</a></td><td><code>DB/24 K24 DB24 O60 DY/12</code></td><td>252</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2k2db2o5dy1/"><img src="/variants/s5/db2k2db2o5dy1~x12/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db6k6db6o14dy3~x2/">Chivas Regal</a> ★</td><td><code>DB/12 K12 DB12 O28 DY/6</code></td><td>122</td><td>2001</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db6k6db6o14dy3~x2/"><img src="/variants/s5/db6k6db6o14dy3~x2/sett.png" alt="Chivas Regal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db2k2db2o5dy1~x12/">(Corporate)</a></td><td><code>DB/24 K24 DB24 O60 DY/12</code></td><td>252</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db2k2db2o5dy1~x12/"><img src="/variants/s5/db2k2db2o5dy1~x12/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/b10k10b10dg26y5~x2/"><circle cx="186.5" cy="261.7" r="4" fill="#3465a4"><title>Marshall of Keith</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="175.1" cy="231.5" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="244.4" cy="266.1" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="92.0" cy="234.0" r="4" fill="#3465a4"><title>Heidrick</title></circle></a><a href="/variants/s4/dp6k5g5r1~x2/"><circle cx="131.5" cy="266.5" r="4" fill="#3465a4"><title>Unidentified No 60</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="122.9" cy="265.4" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s5/db3w3db5k6y1~x4/"><circle cx="148.2" cy="242.9" r="4" fill="#3465a4"><title>Kilmarnock Football Club</title></circle></a><a href="/variants/s5/dp3k3dp3g6r2~x2/"><circle cx="101.2" cy="295.8" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/"><circle cx="153.4" cy="212.4" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><a href="/variants/s4/g9k11dp8lb2~x2/"><circle cx="122.5" cy="269.3" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><circle cx="163.0" cy="264.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/b10k10b10dg26y5~x2/"><circle cx="186.7" cy="261.6" r="4" fill="#3465a4"><title>Marshall of Keith</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="175.4" cy="231.3" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="244.9" cy="266.2" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="92.2" cy="233.7" r="4" fill="#3465a4"><title>Heidrick</title></circle></a><a href="/variants/s4/dp6k5g5r1~x2/"><circle cx="131.7" cy="266.4" r="4" fill="#3465a4"><title>Unidentified No 60</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="123.1" cy="265.3" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s5/db3w3db5k6y1~x4/"><circle cx="148.6" cy="242.8" r="4" fill="#3465a4"><title>Kilmarnock Football Club</title></circle></a><a href="/variants/s5/dp3k3dp3g6r2~x2/"><circle cx="101.2" cy="295.6" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/"><circle cx="153.7" cy="212.2" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><a href="/variants/s4/g9k11dp8lb2~x2/"><circle cx="122.6" cy="269.1" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><circle cx="163.2" cy="264.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

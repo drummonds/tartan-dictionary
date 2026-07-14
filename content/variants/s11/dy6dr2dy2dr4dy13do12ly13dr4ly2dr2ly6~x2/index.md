@@ -12,10 +12,10 @@ crumbs:
 - name: "Glenmorangie"
   url: "/tartans/g/gl/glenmorangie-2/"
 - name: "Glenmorangie #2"
-  url: "/setts/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glenmorangie-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBYBYBY](/stripes/gbgbgbybyby/).
 
 Part of the [Glenmorangie](/tartans/g/gl/glenmorangie-2/) tartan — the named design grouping this sett with its other cloths.

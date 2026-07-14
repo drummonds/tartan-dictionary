@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k5r40k4w2k4r10w4r5w1~x2/">Southern Illinois University (Corp.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k5r40k4w2k4r10w4r5w1~x2/"><img src="/variants/s9/k5r40k4w2k4r10w4r5w1~x2/sett.png" alt="Southern Illinois University (Corp.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/southern-illinois-university/">Southern Illinois University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/southern-illinois-university/"><img src="/variants/s9/k5r40k4w2k4r10w4r5w1~x2/sett.png" alt="Southern Illinois University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

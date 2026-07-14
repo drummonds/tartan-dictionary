@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2g2r1g12r3k1~x4/">Connell (Personal?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2g2r1g12r3k1~x4/"><img src="/variants/s6/r2g2r1g12r3k1~x4/sett.png" alt="Connell (Personal?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connell-2/">Connell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connell-2/"><img src="/variants/s6/r2g2r1g12r3k1~x4/sett.png" alt="Connell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

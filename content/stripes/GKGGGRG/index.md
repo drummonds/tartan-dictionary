@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y3k22g4dg18g31r3g3/">MacSween Hunting (Lochs, Isle of Lewis) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y3k22g4dg18g31r3g3/"><img src="/variants/s7/y3k22g4dg18g31r3g3/sett.png" alt="MacSween Hunting (Lochs, Isle of Lewis) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macsween-hunting/">MacSween Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macsween-hunting/"><img src="/variants/s7/y3k22g4dg18g31r3g3/sett.png" alt="MacSween Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

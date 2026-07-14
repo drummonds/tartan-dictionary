@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/faulkner/"
 - name: "Faulkner"
   url: "/families/faulkner/"
+aliases:
+- "/setts/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1/"
+- "/setts/g10n1k3dp22n1dp8k2r26ly1r6k3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbybkgwkbw/">BKBYBKGWKBW</a></nav>
 A tartan of the [Faulkner](/families/faulkner/) family.
 Its design is pattern [BKBYBKGWKBW](/stripes/bkbybkgwkbw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Faulkner** tartan groups 2 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1/">Faulkner</a> ★</td><td><code>DP/16 K4 DR52 LO2 DR12 K6 DG20 LB2 K6 DP44 LB/2</code></td><td>314</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1/"><img src="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/sett.png" alt="Faulkner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g10n1k3dp22n1dp8k2r26ly1r6k3/">(Personal)</a></td><td><code>G/20 N2 K6 DP44 N2 DP16 K4 R52 LY2 R12 K/6</code></td><td>306</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g10n1k3dp22n1dp8k2r26ly1r6k3/"><img src="/variants/s11/g10n1k3dp22n1dp8k2r26ly1r6k3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/">Faulkner</a> ★</td><td><code>DP/16 K4 DR52 LO2 DR12 K6 DG20 LB2 K6 DP44 LB/2</code></td><td>314</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/"><img src="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/sett.png" alt="Faulkner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g10n1k3dp22n1dp8k2r26ly1r6k3~x2/">(Personal)</a></td><td><code>G/20 N2 K6 DP44 N2 DP16 K4 R52 LY2 R12 K/6</code></td><td>306</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g10n1k3dp22n1dp8k2r26ly1r6k3~x2/"><img src="/variants/s11/g10n1k3dp22n1dp8k2r26ly1r6k3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/dp13y2dr38k13dr8k8dp17dg2dp17k4dp11/"><circle cx="313.8" cy="181.1" r="4" fill="#3465a4"><title>Bute Heather, Autumn</title></circle></a><a href="/variants/s14/do18k2do2k2do9dg10dy2dg10dp11k9dp2k2dp1r3~x2/"><circle cx="221.3" cy="168.2" r="4" fill="#3465a4"><title>Hay-Gray</title></circle></a><a href="/variants/s15/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2~x2/"><circle cx="323.2" cy="154.7" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="244.3" cy="142.0" r="4" fill="#3465a4"><title>Newlands, Charlie</title></circle></a><a href="/variants/s11/ki90n8k10n3k4g4k3r16k14ly6k28~ki0803038-k0700000/"><circle cx="306.0" cy="87.1" r="4" fill="#3465a4"><title>Father's Pride, The</title></circle></a><a href="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/"><circle cx="188.4" cy="129.1" r="4" fill="#3465a4"><title>Kelvin</title></circle></a><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><circle cx="278.4" cy="146.0" r="4" fill="#3465a4"><title>McCall</title></circle></a><circle cx="281.9" cy="134.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/dp13y2dr38k13dr8k8dp17dg2dp17k4dp11/"><circle cx="314.3" cy="181.1" r="4" fill="#3465a4"><title>Bute Heather, Autumn</title></circle></a><a href="/variants/s14/do18k2do2k2do9dg10dy2dg10dp11k9dp2k2dp1r3~x2/"><circle cx="221.5" cy="168.1" r="4" fill="#3465a4"><title>Hay-Gray</title></circle></a><a href="/variants/s15/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2~x2/"><circle cx="323.5" cy="154.7" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="244.7" cy="141.8" r="4" fill="#3465a4"><title>Newlands, Charlie</title></circle></a><a href="/variants/s11/ki90n8k10n3k4g4k3r16k14ly6k28~ki0803038-k0700000/"><circle cx="306.8" cy="87.1" r="4" fill="#3465a4"><title>Father's Pride, The</title></circle></a><a href="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/"><circle cx="188.7" cy="128.9" r="4" fill="#3465a4"><title>Kelvin</title></circle></a><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><circle cx="279.0" cy="145.9" r="4" fill="#3465a4"><title>McCall</title></circle></a><circle cx="282.3" cy="134.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

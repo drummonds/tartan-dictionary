@@ -8,10 +8,10 @@ crumbs:
 - name: "Concours of Elegance"
   url: "/tartans/c/co/concours-of-elegance/"
 - name: "Concours of Elegance"
-  url: "/setts/db130k18r6k6r6k6b18db14b5db18y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db130k18r6k6r6k6b18db14b5db18y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/concours-of-elegance/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKRKBBBBG](/stripes/bkrkrkbbbbg/).
 
 Part of the [Concours of Elegance](/tartans/c/co/concours-of-elegance/) tartan — the named design grouping this sett with its other cloths.

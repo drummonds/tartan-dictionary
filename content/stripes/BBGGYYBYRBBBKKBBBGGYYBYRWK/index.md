@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4~o2505035-lo2904058-lg3211141-gi2007139-t2707270-b1812264/">(1) Trithart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4~o2505035-lo2904058-lg3211141-gi2007139-t2707270-b1812264/"><img src="/variants/s25/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4~o2505035-lo2904058-lg3211141-gi2007139-t2707270-b1812264/sett.png" alt="(1) Trithart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/trithart/">Trithart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/trithart/"><img src="/variants/s25/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4~o2505035-lo2904058-lg3211141-gi2007139-t2707270-b1812264/sett.png" alt="Trithart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

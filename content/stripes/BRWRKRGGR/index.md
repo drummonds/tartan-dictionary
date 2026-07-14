@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/">Unidentified Travelling costume</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/"><img src="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/sett.png" alt="Unidentified Travelling costume sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-travelling-costume/">Unidentified Travelling costume</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-travelling-costume/"><img src="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/sett.png" alt="Unidentified Travelling costume sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

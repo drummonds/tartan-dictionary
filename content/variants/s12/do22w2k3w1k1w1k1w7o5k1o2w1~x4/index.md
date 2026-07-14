@@ -8,15 +8,15 @@ crumbs:
 - name: "Waverley Check"
   url: "/tartans/w/wa/waverley-check/"
 - name: "Waverley Check"
-  url: "/setts/do22w2k3w1k1w1k1w7o5k1o2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do22w2k3w1k1w1k1w7o5k1o2w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWKWKWKWRKRWRKRWKWKWKW](/stripes/bwkwkwkwrkrwrkrwkwkwkw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wa/waverley-check/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKWKWKWRKRW](/stripes/bwkwkwkwrkrw/).
 
 Part of the [Waverley Check](/tartans/w/wa/waverley-check/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4506](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4506)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4506](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — Waverley Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4506">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C640C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #8C640C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #F8F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><br><em>Nomindex notes: 'Designed by Ramsay Johnstone for Edinburgh Woollen Mills as a House Check to be used for staff uniforms etc. 1984. Name taken from Waverley Mills (Edinburgh Woollen Mill's H.Q. in Langholm). Stewart modification. Sample in Scottish Tartans Authority's Johnston Collection. Nomindex slog is TTT : TTT. No Sindex card.</em></li>
-<li>1984 — Waverley Check (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1747">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C640C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #8C640C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #F8F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><br><em>Nomindex notes: "Designed by Ramsay Johnstone for Edinburgh Woollen Mills as a House Check to be used for staff uniforms etc. 1984. Name taken from Waverley Mills (Edinburgh Woollen Mill's H.Q. in Langholm.) Stewart modification. Sample in STA Johnston Collection. Nomindex slog is TTT : TTT. No Sindex card.</em></li>
+<li>1984 — Waverley Check (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1747/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C640C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #8C640C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #F8F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><br><em>Nomindex notes: "Designed by Ramsay Johnstone for Edinburgh Woollen Mills as a House Check to be used for staff uniforms etc. 1984. Name taken from Waverley Mills (Edinburgh Woollen Mill's H.Q. in Langholm.) Stewart modification. Sample in STA Johnston Collection. Nomindex slog is TTT : TTT. No Sindex card.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1747
 
 ## Thread count
-DO/88 W8 K12 W4 K4 W4 K4 W28 O20 K4 O8 W4 O8 K4 O20 W28 K4 W4 K4 W4 K12 W/8
+DO/88 W8 K12 W4 K4 W4 K4 W28 O20 K4 O8 W/4
 
-One full sett is **472 threads**.
+One full sett is **284 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DO/88 W8 K12 W4 K4 W4 K4 W28 O20 K4 O8 W4 O8 K4 O20 W28 K4 W4 K4 W4 K12 W/8 — 472 threads; it folds to the canonical 284-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **472 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DO/88 W8 K12 W4 K4 W4 K4 W28 O20 K4 O8 W4 O8 K4 O20 W28 K4 W4 K4 W4 K12 W/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DO/88 W8 K12 W4 K4 W4 K4 W28 O20 K4 O8 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

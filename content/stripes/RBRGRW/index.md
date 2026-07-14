@@ -28,16 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2db12r2dg12r24w1~x2/">Fraser</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2db12r2dg12r24w1~x2/"><img src="/variants/s6/r2db12r2dg12r24w1~x2/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r2db12r2g12r24w1~x2/">Fraser (1745)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2db12r2g12r24w1~x2/"><img src="/variants/s6/r2db12r2g12r24w1~x2/sett.png" alt="Fraser (1745) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r1db6r1dg6r12w1~x2/">Fraser Red Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r1db6r1dg6r12w1~x2/"><img src="/variants/s6/r1db6r1dg6r12w1~x2/sett.png" alt="Fraser Red Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r1db6r1g6r12w1/">Fraser VS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r1db6r1g6r12w1/"><img src="/variants/s6/r1db6r1g6r12w1/sett.png" alt="Fraser VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r2db10r2g10r25w2~x2/">Grant of Lurg</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2db10r2g10r25w2~x2/"><img src="/variants/s6/r2db10r2g10r25w2~x2/sett.png" alt="Grant of Lurg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser/">Fraser</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser/"><img src="/variants/s6/r2db12r2g12r24w1~x2/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-vs/">Fraser VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-vs/"><img src="/variants/s6/r1db6r1g6r12w1/sett.png" alt="Fraser VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grant-of-lurg-2/">Grant of Lurg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-of-lurg-2/"><img src="/variants/s6/r2db10r2g10r25w2~x2/sett.png" alt="Grant of Lurg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

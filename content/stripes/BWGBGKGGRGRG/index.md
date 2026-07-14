@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g7r2g3r5g17y2k15y2t22g3w2t7~x2/">Paisley</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g7r2g3r5g17y2k15y2t22g3w2t7~x2/"><img src="/variants/s12/g7r2g3r5g17y2k15y2t22g3w2t7~x2/sett.png" alt="Paisley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/db7w2g3db18y2k15y2g17r5g3r2g7~x2/">Paisley District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db7w2g3db18y2k15y2g17r5g3r2g7~x2/"><img src="/variants/s12/db7w2g3db18y2k15y2g17r5g3r2g7~x2/sett.png" alt="Paisley District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/paisley/">Paisley</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/paisley/"><img src="/variants/s12/g7r2g3r5g17y2k15y2t22g3w2t7~x2/sett.png" alt="Paisley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4/">MacRae</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4/"><img src="/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s31/dg4r1dg4r4dg1r1dg1r4w1r1db4r1db4r1w1r4db1r1db1r1db1r4db1r1db1r1db1r4dg4r1dg4~x4/">MacRae Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/dg4r1dg4r4dg1r1dg1r4w1r1db4r1db4r1w1r4db1r1db1r1db1r4db1r1db1r1db1r4dg4r1dg4~x4/"><img src="/variants/s31/dg4r1dg4r4dg1r1dg1r4w1r1db4r1db4r1w1r4db1r1db1r1db1r4db1r1db1r1db1r4dg4r1dg4~x4/sett.png" alt="MacRae Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macrae-5/">MacRae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrae-5/"><img src="/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/">Ross #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/"><img src="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/sett.png" alt="Ross #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-7/">Ross 7</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-7/"><img src="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/sett.png" alt="Ross 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g16dg1lg4dg41lg1dg6y2dg2~x2~g2203152-y2505139/">Semper</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g16dg1lg4dg41lg1dg6y2dg2~x2~g2203152-y2505139/"><img src="/variants/s8/g16dg1lg4dg41lg1dg6y2dg2~x2~g2203152-y2505139/sett.png" alt="Semper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/semper/">Semper</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/semper/"><img src="/variants/s8/g16dg1lg4dg41lg1dg6y2dg2~x2~g2203152-y2505139/sett.png" alt="Semper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dy28r3do2n2do2r3n8ly2do8ly5do3w2do2ly3do1~x2/">Caithness District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dy28r3do2n2do2r3n8ly2do8ly5do3w2do2ly3do1~x2/"><img src="/variants/s15/dy28r3do2n2do2r3n8ly2do8ly5do3w2do2ly3do1~x2/sett.png" alt="Caithness District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caithness/">Caithness</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caithness/"><img src="/variants/s15/dy28r3do2n2do2r3n8ly2do8ly5do3w2do2ly3do1~x2/sett.png" alt="Caithness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

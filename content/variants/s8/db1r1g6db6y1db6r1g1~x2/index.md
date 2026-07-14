@@ -12,10 +12,10 @@ crumbs:
 - name: "MacHardy"
   url: "/tartans/m/ma/machardy/"
 - name: "MacHardy"
-  url: "/setts/db1r1g6db6y1db6r1g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1r1g6db6y1db6r1g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/machardy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBGBRG](/stripes/brgbgbrg/).
 
 Part of the [MacHardy](/tartans/m/ma/machardy/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "Young Presidents Organisation"
   url: "/tartans/y/yo/young-presidents-organisation/"
 - name: "Young Presidents Organisation"
-  url: "/setts/r22db5k10g12k2g12k10db3k2db3k2db16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r22db5k10g12k2g12k10db3k2db3k2db16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/yo/young-presidents-organisation/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGKBR](/stripes/bkbkbkgkgkbr/).
 
 Part of the [Young Presidents Organisation](/tartans/y/yo/young-presidents-organisation/) tartan — the named design grouping this sett with its other cloths.

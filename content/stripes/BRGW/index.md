@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db13r5g5w3~x8/">International Highland Games Fed.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db13r5g5w3~x8/"><img src="/variants/s4/db13r5g5w3~x8/sett.png" alt="International Highland Games Fed. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/db4r50g25w2~x2/">Unidentified Locket</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db4r50g25w2~x2/"><img src="/variants/s4/db4r50g25w2~x2/sett.png" alt="Unidentified Locket sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/international-highland-games-fed/">International Highland Games Fed.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/international-highland-games-fed/"><img src="/variants/s4/db13r5g5w3~x8/sett.png" alt="International Highland Games Fed. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-locket/">Unidentified Locket</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-locket/"><img src="/variants/s4/db4r50g25w2~x2/sett.png" alt="Unidentified Locket sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

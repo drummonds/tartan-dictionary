@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/">Hermitage Academy (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/"><img src="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/sett.png" alt="Hermitage Academy (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hermitage-academy/">Hermitage Academy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hermitage-academy/"><img src="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/sett.png" alt="Hermitage Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

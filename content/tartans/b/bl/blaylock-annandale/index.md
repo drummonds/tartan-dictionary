@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Blaylock"
   url: "/clan/blaylock/"
+aliases:
+- "/setts/g24db6lb3k6db12k15g4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbwkbkg/">GBWKBKG</a></nav>
 A tartan of [Clan Blaylock](/clan/blaylock/).
 Its design is pattern [GBWKBKG](/stripes/gbwkbkg/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Blaylock Annandale** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g24db6lb3k6db12k15g4/">Blaylock Annandale</a></td><td><code>G/48 DB12 LB6 K12 DB24 K30 G/8</code></td><td>224</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g24db6lb3k6db12k15g4/"><img src="/variants/s7/g24db6lb3k6db12k15g4~x2/sett.png" alt="Blaylock Annandale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/">Blaylock Annandale</a></td><td><code>G/48 DB12 LB6 K12 DB24 K30 G/8</code></td><td>224</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/"><img src="/variants/s7/g24db6lb3k6db12k15g4~x2/sett.png" alt="Blaylock Annandale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="148.9" cy="220.5" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="148.4" cy="209.8" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="141.1" cy="201.7" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="136.2" cy="197.5" r="4" fill="#3465a4"><title>MacLean, Donald</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="131.3" cy="224.5" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s6/db4k2db16k10g18k3~x2/"><circle cx="193.5" cy="222.9" r="4" fill="#3465a4"><title>Wartley Hunting</title></circle></a><a href="/variants/s6/y1g6k5g1db5g1~x2/"><circle cx="163.3" cy="228.2" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="135.0" cy="184.1" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="134.2" cy="220.2" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="225.7" r="4" fill="#3465a4"><title>Murray</title></circle></a><circle cx="156.6" cy="208.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="149.3" cy="220.4" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="148.8" cy="209.7" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="141.5" cy="201.5" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="136.4" cy="197.3" r="4" fill="#3465a4"><title>MacLean, Donald</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="131.6" cy="224.3" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s6/db4k2db16k10g18k3~x2/"><circle cx="193.9" cy="222.9" r="4" fill="#3465a4"><title>Wartley Hunting</title></circle></a><a href="/variants/s6/y1g6k5g1db5g1~x2/"><circle cx="163.6" cy="228.1" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="135.3" cy="183.9" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="134.5" cy="220.0" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.7" cy="225.6" r="4" fill="#3465a4"><title>Murray</title></circle></a><circle cx="156.9" cy="208.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

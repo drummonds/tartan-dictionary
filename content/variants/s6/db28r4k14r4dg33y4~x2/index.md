@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal College of Physicians of Edinburgh"
   url: "/tartans/r/ro/royal-college-of-physicians-of-edinburgh/"
 - name: "Royal College of Physicians of Edinburgh"
-  url: "/setts/db28r4k14r4dg33y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db28r4k14r4dg33y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-college-of-physicians-of-edinburgh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRGG](/stripes/brkrgg/).
 
 Part of the [Royal College of Physicians of Edinburgh](/tartans/r/ro/royal-college-of-physicians-of-edinburgh/) tartan — the named design grouping this sett with its other cloths.

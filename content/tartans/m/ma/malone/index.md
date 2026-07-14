@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k8g1k20g1k4g1k3g4w2g24dy3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggwgkgkgkgk/">GGWGKGKGKGK</a></nav>
 Its design is pattern [GGWGKGKGKGK](/stripes/ggwgkgkgkgk/) — the page of every tartan sharing this colour sequence.
 
 The **Malone** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Malone** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k8g1k20g1k4g1k3g4w2g24dy3/">Malone</a></td><td><code>K/16 G2 K40 G2 K8 G2 K6 G8 W4 G48 DY/6</code></td><td>262</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k8g1k20g1k4g1k3g4w2g24dy3/"><img src="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/sett.png" alt="Malone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/">Malone</a></td><td><code>K/16 G2 K40 G2 K8 G2 K6 G8 W4 G48 DY/6</code></td><td>262</td><td>2016</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/"><img src="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/sett.png" alt="Malone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/k20g1k2g1k20y1g16r2g16y1k30g1~x2/"><circle cx="348.9" cy="88.8" r="4" fill="#3465a4"><title>Milne of Corstorphine</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="264.8" cy="125.8" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s10/k28r3y2r3k13g28k1g3k1g16~x2/"><circle cx="259.3" cy="108.7" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/variants/s10/w6k3g24lg16k6lg6k6lg6k60lg6/"><circle cx="248.4" cy="108.6" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/variants/s10/db1k2db1k6db1k1g1k6g21y1~x2/"><circle cx="290.6" cy="100.4" r="4" fill="#3465a4"><title>Grand Lodge of Scotland</title></circle></a><a href="/variants/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/"><circle cx="286.9" cy="99.5" r="4" fill="#3465a4"><title>Smeaton Hunting</title></circle></a><a href="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/"><circle cx="240.6" cy="102.1" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="240.4" cy="123.5" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="267.6" cy="137.5" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/"><circle cx="265.3" cy="136.9" r="4" fill="#3465a4"><title>Manitoba Cue</title></circle></a><circle cx="266.2" cy="102.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/k20g1k2g1k20y1g16r2g16y1k30g1~x2/"><circle cx="350.1" cy="89.0" r="4" fill="#3465a4"><title>Milne of Corstorphine</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="265.7" cy="125.8" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s10/k28r3y2r3k13g28k1g3k1g16~x2/"><circle cx="260.2" cy="108.7" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/variants/s10/w6k3g24lg16k6lg6k6lg6k60lg6/"><circle cx="249.2" cy="108.6" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/variants/s10/db1k2db1k6db1k1g1k6g21y1~x2/"><circle cx="291.6" cy="100.4" r="4" fill="#3465a4"><title>Grand Lodge of Scotland</title></circle></a><a href="/variants/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/"><circle cx="287.8" cy="99.6" r="4" fill="#3465a4"><title>Smeaton Hunting</title></circle></a><a href="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/"><circle cx="241.3" cy="102.1" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="241.1" cy="123.5" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="268.5" cy="137.6" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/"><circle cx="266.1" cy="137.0" r="4" fill="#3465a4"><title>Manitoba Cue</title></circle></a><circle cx="267.1" cy="102.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

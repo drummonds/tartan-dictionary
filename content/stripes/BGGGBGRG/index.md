@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g18r6g75db6g13dy35g12db6/">Glenlivet</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><img src="/variants/s8/g18r6g75db6g13dy35g12db6/sett.png" alt="Glenlivet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gayre-bodyguard/">Gayre Bodyguard</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gayre-bodyguard/"><img src="/variants/s8/g18r6g75db6g13dy35g12db6/sett.png" alt="Gayre Bodyguard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

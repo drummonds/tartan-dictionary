@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/">Oliver Dress (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/"><img src="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/sett.png" alt="Oliver Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/w5g3b3g3b3db20b16w21k3~x2/">Oliver, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w5g3b3g3b3db20b16w21k3~x2/"><img src="/variants/s9/w5g3b3g3b3db20b16w21k3~x2/sett.png" alt="Oliver, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/oliver-dress-3/">Oliver Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/oliver-dress-3/"><img src="/variants/s9/w5g3b3g3b3db20b16w21k3~x2/sett.png" alt="Oliver Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

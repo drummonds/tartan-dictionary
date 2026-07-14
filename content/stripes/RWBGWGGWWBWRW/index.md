@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2/">Holyrood, Chair</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2/"><img src="/variants/s13/r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2/sett.png" alt="Holyrood, Chair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holyrood-chair/">Holyrood, Chair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holyrood-chair/"><img src="/variants/s13/r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2/sett.png" alt="Holyrood, Chair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

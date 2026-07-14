@@ -8,15 +8,15 @@ crumbs:
 - name: "Johore Regiment"
   url: "/tartans/j/jo/johore-regiment/"
 - name: "Johore Regiment"
-  url: "/setts/db20k5db18lo26k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db20k5db18lo26k6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBYKYBK](/stripes/bkbykybk/).
+provenance below. It is one weaving of the [sett](/tartans/j/jo/johore-regiment/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBYK](/stripes/bkbyk/).
 
 Part of the [Johore Regiment](/tartans/j/jo/johore-regiment/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1903](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1903)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 260
 
 ## Thread count
-DB/40 K10 DB36 LO52 K12 LO52 DB36 K/10
+DB/40 K10 DB36 LO52 K/12
 
-One full sett is **446 threads**.
+One full sett is **248 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/40 K10 DB36 LO52 K12 LO52 DB36 K/10 — 446 threads; it folds to the canonical 248-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **446 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/40 K10 DB36 LO52 K12 LO52 DB36 K/10 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/40 K10 DB36 LO52 K/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

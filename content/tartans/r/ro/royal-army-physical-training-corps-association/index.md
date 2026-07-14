@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k94r3k6r3k8r15k2y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkrkrkrk/">GKRKRKRK</a></nav>
 Its design is pattern [GKRKRKRK](/stripes/gkrkrkrk/) — the page of every tartan sharing this colour sequence.
 
 The **Royal Army Physical Training Corps Association** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Royal Army Physical Training Corps Association** tartan is recorded as a s
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k94r3k6r3k8r15k2y3/">Royal Army Physical Training Corps Association</a></td><td><code>K/188 R6 K12 R6 K16 R30 K4 Y/6</code></td><td>342</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k94r3k6r3k8r15k2y3/"><img src="/variants/s8/k94r3k6r3k8r15k2y3~x2/sett.png" alt="Royal Army Physical Training Corps Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k94r3k6r3k8r15k2y3~x2/">Royal Army Physical Training Corps Association</a></td><td><code>K/188 R6 K12 R6 K16 R30 K4 Y/6</code></td><td>342</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k94r3k6r3k8r15k2y3~x2/"><img src="/variants/s8/k94r3k6r3k8r15k2y3~x2/sett.png" alt="Royal Army Physical Training Corps Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="473.8" cy="80.5" r="4" fill="#3465a4"><title>Royal Army PTC Assoc.</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="539.6" cy="36.9" r="4" fill="#3465a4"><title>London Fog</title></circle></a><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/"><circle cx="486.1" cy="95.6" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="544.5" cy="80.6" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="465.1" cy="67.1" r="4" fill="#3465a4"><title>Black Country</title></circle></a><a href="/variants/s9/r4k16w4k16r4k42r20k83r2/"><circle cx="512.2" cy="75.2" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="496.5" cy="137.0" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="498.3" cy="21.7" r="4" fill="#3465a4"><title>Noordermeer</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="471.2" cy="96.7" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s7/k72r3k11lb9k11r3k37/"><circle cx="567.3" cy="106.9" r="4" fill="#3465a4"><title>Chafyn House</title></circle></a><circle cx="550.1" cy="50.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="475.5" cy="80.9" r="4" fill="#3465a4"><title>Royal Army PTC Assoc.</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="541.5" cy="37.4" r="4" fill="#3465a4"><title>London Fog</title></circle></a><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/"><circle cx="487.7" cy="96.0" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="546.3" cy="81.1" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="466.8" cy="67.4" r="4" fill="#3465a4"><title>Black Country</title></circle></a><a href="/variants/s9/r4k16w4k16r4k42r20k83r2/"><circle cx="513.9" cy="75.7" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="498.1" cy="137.6" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="500.1" cy="22.1" r="4" fill="#3465a4"><title>Noordermeer</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="472.8" cy="97.1" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s7/k72r3k11lb9k11r3k37/"><circle cx="569.2" cy="107.5" r="4" fill="#3465a4"><title>Chafyn House</title></circle></a><circle cx="551.9" cy="50.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

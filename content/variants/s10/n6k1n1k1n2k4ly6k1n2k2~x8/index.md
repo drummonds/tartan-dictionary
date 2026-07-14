@@ -12,10 +12,10 @@ crumbs:
 - name: "Tyndrum"
   url: "/tartans/t/ty/tyndrum/"
 - name: "Tyndrum"
-  url: "/setts/n6k1n1k1n2k4ly6k1n2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n6k1n1k1n2k4ly6k1n2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ty/tyndrum/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKYKBK](/stripes/bkbkbkykbk/).
 
 Part of the [Tyndrum](/tartans/t/ty/tyndrum/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4173](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1983 — Tyndrum (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4173">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>No details. Tyndrum is a village in northwest Perthshire on the rail line between Glasgow and Fort William. Brown lightened to show sett. Scottish Tartans Society notes say 'Specimen seen in Mairi MacIntyre's shop, Fort William 1983.' Details from Donald Broom Via A.Nesbitt. Scottish Tartans Society 1984</em></li>
-<li>1983 — Tyndrum (District?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1128">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>No details. Tyndrum is a village in northwest Perthshire on the rail line between Glasgow and Fort William. Brown lightened to show sett. STS notes say "Specimen seen in Mairi MacIntyre's shop, Fort William 1983."</em></li>
+<li>1983 — Tyndrum (District?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1128/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>No details. Tyndrum is a village in northwest Perthshire on the rail line between Glasgow and Fort William. Brown lightened to show sett. STS notes say "Specimen seen in Mairi MacIntyre's shop, Fort William 1983."</em></li>
 </ul>
 </details>
 

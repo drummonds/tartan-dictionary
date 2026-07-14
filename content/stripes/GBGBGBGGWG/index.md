@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/">Roddy's Highland Spirit (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/"><img src="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/sett.png" alt="Roddy's Highland Spirit (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/roddy-s-highland-spirit/">Roddy's Highland Spirit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roddy-s-highland-spirit/"><img src="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/sett.png" alt="Roddy's Highland Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

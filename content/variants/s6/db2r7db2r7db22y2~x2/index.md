@@ -10,10 +10,10 @@ crumbs:
 - name: "MacQueen variant"
   url: "/tartans/m/ma/macqueen-variant/"
 - name: "MacQueen variant"
-  url: "/setts/db2r7db2r7db22y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2r7db2r7db22y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macqueen-variant/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBG](/stripes/brbrbg/).
 
 Part of the [MacQueen variant](/tartans/m/ma/macqueen-variant/) tartan — the named design grouping this sett with its other cloths.

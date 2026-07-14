@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/">Davidson of Tulloch Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/"><img src="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/sett.png" alt="Davidson of Tulloch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/davidson-of-tulloch-dress/">Davidson of Tulloch Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/davidson-of-tulloch-dress/"><img src="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/sett.png" alt="Davidson of Tulloch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

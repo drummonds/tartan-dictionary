@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k40dg15k10o2k10lo2/"
 ---
-Its design is pattern [GKRKYKRKGK](/stripes/gkrkykrkgk/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkrky/">KGKRKY</a></nav>
+Its design is pattern [KGKRKY](/stripes/kgkrky/) — the page of every tartan sharing this colour sequence.
 
 The **Kalkofen** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k40dg15k10o2k10lo2/">Kalkofen</a></td><td><code>K/80 DG30 K20 O4 K20 LO4 K20 O4 K20 DG/30</code></td><td>232</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k40dg15k10o2k10lo2/"><img src="/variants/s6/k40dg15k10o2k10lo2~x2/sett.png" alt="Kalkofen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k40dg15k10o2k10lo2~x2/">Kalkofen</a></td><td><code>K/80 DG30 K20 O4 K20 LO/4</code></td><td>232</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><img src="/variants/s6/k40dg15k10o2k10lo2~x2/sett.png" alt="Kalkofen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="356.8" cy="134.6" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><circle cx="348.7" cy="136.7" r="4" fill="#3465a4"><title>Childers Regimental</title></circle></a><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><circle cx="448.6" cy="121.9" r="4" fill="#3465a4"><title>Langhein, Alex</title></circle></a><a href="/variants/s6/k120b4k12dt36dg3k6/"><circle cx="544.2" cy="109.0" r="4" fill="#3465a4"><title>Scottish Football Association</title></circle></a><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="577.4" cy="120.6" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="496.5" cy="137.0" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="509.0" cy="105.4" r="4" fill="#3465a4"><title>Gourlay, George</title></circle></a><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/"><circle cx="493.7" cy="145.0" r="4" fill="#3465a4"><title>Langhein</title></circle></a><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="432.1" cy="60.8" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s6/k40db10g6k2g3k2~x2/"><circle cx="421.0" cy="128.9" r="4" fill="#3465a4"><title>Daks</title></circle></a><circle cx="461.7" cy="143.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="357.9" cy="134.8" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><circle cx="349.8" cy="137.0" r="4" fill="#3465a4"><title>Childers Regimental</title></circle></a><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><circle cx="450.0" cy="122.3" r="4" fill="#3465a4"><title>Langhein, Alex</title></circle></a><a href="/variants/s6/k120b4k12dt36dg3k6/"><circle cx="545.8" cy="109.6" r="4" fill="#3465a4"><title>Scottish Football Association</title></circle></a><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="579.0" cy="121.3" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="498.1" cy="137.6" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="510.7" cy="105.9" r="4" fill="#3465a4"><title>Gourlay, George</title></circle></a><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/"><circle cx="495.1" cy="145.5" r="4" fill="#3465a4"><title>Langhein</title></circle></a><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="433.6" cy="61.1" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s6/k40db10g6k2g3k2~x2/"><circle cx="422.3" cy="129.2" r="4" fill="#3465a4"><title>Daks</title></circle></a><circle cx="463.0" cy="144.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

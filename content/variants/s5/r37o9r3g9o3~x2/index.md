@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Shee"
   url: "/tartans/g/gl/glen-shee/"
 - name: "Glen Shee"
-  url: "/setts/r37o9r3g9o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r37o9r3g9o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-shee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRRR](/stripes/rgrrr/).
 
 Part of the [Glen Shee](/tartans/g/gl/glen-shee/) tartan — the named design grouping this sett with its other cloths.

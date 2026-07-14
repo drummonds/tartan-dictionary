@@ -8,10 +8,10 @@ crumbs:
 - name: "Nigeria"
   url: "/tartans/n/ni/nigeria/"
 - name: "Nigeria"
-  url: "/setts/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ni/nigeria/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKGWGKWGWGWGW](/stripes/wbkgwgkwgwgwgw/).
 
 Part of the [Nigeria](/tartans/n/ni/nigeria/) tartan — the named design grouping this sett with its other cloths.

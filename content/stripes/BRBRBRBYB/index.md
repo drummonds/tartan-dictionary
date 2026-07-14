@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db52lo2db2r2db12r6db2r3db2~x2/">Loch Monar (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db52lo2db2r2db12r6db2r3db2~x2/"><img src="/variants/s9/db52lo2db2r2db12r6db2r3db2~x2/sett.png" alt="Loch Monar (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-monar/">Loch Monar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-monar/"><img src="/variants/s9/db52lo2db2r2db12r6db2r3db2~x2/sett.png" alt="Loch Monar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

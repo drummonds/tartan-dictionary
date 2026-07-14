@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/">Wicklow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/"><img src="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/sett.png" alt="Wicklow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wicklow/">Wicklow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wicklow/"><img src="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/sett.png" alt="Wicklow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/">Wicklow, County (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/"><img src="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/sett.png" alt="Wicklow, County (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wicklow-county-2/">Wicklow, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wicklow-county-2/"><img src="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/sett.png" alt="Wicklow, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

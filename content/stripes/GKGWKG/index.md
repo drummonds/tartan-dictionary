@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dy83k35w3g35k3y10/">Brandon Manitoba Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dy83k35w3g35k3y10/"><img src="/variants/s6/dy83k35w3g35k3y10/sett.png" alt="Brandon Manitoba Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/y70k30w3g30k3y10/">Jacobite #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y70k30w3g30k3y10/"><img src="/variants/s6/y70k30w3g30k3y10/sett.png" alt="Jacobite #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brandon-manitoba/">Brandon Manitoba</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brandon-manitoba/"><img src="/variants/s6/dy83k35w3g35k3y10/sett.png" alt="Brandon Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/jacobite-3/">Jacobite</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/jacobite-3/"><img src="/variants/s6/y70k30w3g30k3y10/sett.png" alt="Jacobite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/g3k8g8lb3k18g2~x4/">Kincardine City</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g3k8g8lb3k18g2~x4/"><img src="/variants/s6/g3k8g8lb3k18g2~x4/sett.png" alt="Kincardine City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kincardine-city/">Kincardine City</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kincardine-city/"><img src="/variants/s6/g3k8g8lb3k18g2~x4/sett.png" alt="Kincardine City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

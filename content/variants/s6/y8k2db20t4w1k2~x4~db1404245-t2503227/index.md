@@ -8,10 +8,10 @@ crumbs:
 - name: "Solberg-Bell"
   url: "/tartans/s/so/solberg-bell/"
 - name: "Solberg-Bell (Personal)"
-  url: "/setts/y8k2db20t4w1k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y8k2db20t4w1k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/solberg-bell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBBWK](/stripes/gkbbwk/).
 
 Part of the [Solberg-Bell](/tartans/s/so/solberg-bell/) tartan — the named design grouping this sett with its other cloths.

@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s33/dg32r7dg32r33dg4r12dg4r33w3r12dy3dp33r7dp33dy3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33dg32r6dg23/">Huntly (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s33/dg32r7dg32r33dg4r12dg4r33w3r12dy3dp33r7dp33dy3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33dg32r6dg23/"><img src="/variants/s33/dg32r7dg32r33dg4r12dg4r33w3r12dy3dp33r7dp33dy3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33dg32r6dg23/sett.png" alt="Huntly (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s33/g8r2g8r12g2r3g2r12w1r3y1db12r3db12y1r3w1r12db1r1db2r1db1r12db1r1db2r1db1r12g8r2g8~x2/">Huntly District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s33/g8r2g8r12g2r3g2r12w1r3y1db12r3db12y1r3w1r12db1r1db2r1db1r12db1r1db2r1db1r12g8r2g8~x2/"><img src="/variants/s33/g8r2g8r12g2r3g2r12w1r3y1db12r3db12y1r3w1r12db1r1db2r1db1r12db1r1db2r1db1r12g8r2g8~x2/sett.png" alt="Huntly District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/huntly/">Huntly</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/huntly/"><img src="/variants/s33/dg32r7dg32r33dg4r12dg4r33w3r12dy3dp33r7dp33dy3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33dg32r6dg23/sett.png" alt="Huntly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

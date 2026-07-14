@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/">Wombles Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/"><img src="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/sett.png" alt="Wombles Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/womble/">Womble</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/womble/"><img src="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/sett.png" alt="Womble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/wombles-2/">Wombles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/wombles-2/"><img src="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/sett.png" alt="Wombles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

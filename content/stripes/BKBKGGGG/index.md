@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg3g1dg1g8k8db8k2db3~x2/">Baird</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg3g1dg1g8k8db8k2db3~x2/"><img src="/variants/s8/dg3g1dg1g8k8db8k2db3~x2/sett.png" alt="Baird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baird/">Baird</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baird/"><img src="/variants/s8/dg3g1dg1g8k8db8k2db3~x2/sett.png" alt="Baird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/db4k3db12k11dg13g1dg1g3~x2~dg1806142-g2408144/">Bedford High School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db4k3db12k11dg13g1dg1g3~x2~dg1806142-g2408144/"><img src="/variants/s8/db4k3db12k11dg13g1dg1g3~x2~dg1806142-g2408144/sett.png" alt="Bedford High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bedford-high-school/">Bedford High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bedford-high-school/"><img src="/variants/s8/db4k3db12k11dg13g1dg1g3~x2~dg1806142-g2408144/sett.png" alt="Bedford High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

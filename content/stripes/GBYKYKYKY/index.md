@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/">Brittany National (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><img src="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/sett.png" alt="Brittany National (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brittany-national/">Brittany National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brittany-national/"><img src="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/sett.png" alt="Brittany National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

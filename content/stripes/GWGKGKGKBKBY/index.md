@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/">Bell's Whisky (SA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><img src="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/sett.png" alt="Bell's Whisky (SA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bell-s-whisky-2/">Bell's Whisky</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-s-whisky-2/"><img src="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/sett.png" alt="Bell's Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Murray, Mungo"
   url: "/tartans/m/mu/murray-mungo-2/"
 - name: "Murray, Mungo"
-  url: "/setts/o10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1b7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4o1w2o1y2o1w2o1y4k6y1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1b7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4o1w2o1y2o1w2o1y4k6y1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murray-mungo-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGKGKGRGRGKGRGRGKGBGKGRGKGRGRGKGKGKGKGKGKGKGKGKGKGRWRGRWRGKGW](/stripes/rgkgkgkgrgrgkgrgrgkgbgkgrgkgrgrgkgkgkgkgkgkgkgkgkgkgrwrgrwrgkgw/).
 
 Part of the [Murray, Mungo](/tartans/m/mu/murray-mungo-2/) tartan — the named design grouping this sett with its other cloths.

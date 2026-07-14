@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb4g2lb18k2n5do16w2n2lr2lb4~x2/">Australian Heavy Horse</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb4g2lb18k2n5do16w2n2lr2lb4~x2/"><img src="/variants/s10/lb4g2lb18k2n5do16w2n2lr2lb4~x2/sett.png" alt="Australian Heavy Horse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/australian-heavy-horse/">Australian Heavy Horse</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/australian-heavy-horse/"><img src="/variants/s10/lb4g2lb18k2n5do16w2n2lr2lb4~x2/sett.png" alt="Australian Heavy Horse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

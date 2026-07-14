@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/">St. Petersburg City (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/"><img src="/variants/s8/db60g10db3lb6y2db9r2w2~x2/sett.png" alt="St. Petersburg City (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-petersburg-city/">St. Petersburg City</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-petersburg-city/"><img src="/variants/s8/db60g10db3lb6y2db9r2w2~x2/sett.png" alt="St. Petersburg City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

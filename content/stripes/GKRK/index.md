@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/y3k2r10k1~x4/">Masai Shuka 26 (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/y3k2r10k1~x4/"><img src="/variants/s4/y3k2r10k1~x4/sett.png" alt="Masai Shuka 26 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k1r8k8y1/">Wallace</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k1r8k8y1/"><img src="/variants/s4/k1r8k8y1/sett.png" alt="Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/masai-shuka-26/">Masai Shuka 26</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/masai-shuka-26/"><img src="/variants/s4/y3k2r10k1~x4/sett.png" alt="Masai Shuka 26 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wallace-3/">Wallace</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wallace-3/"><img src="/variants/s4/k1r8k8y1/sett.png" alt="Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

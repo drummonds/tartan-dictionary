@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/">Boys Brigade</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/"><img src="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/sett.png" alt="Boys Brigade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boys-brigade/">Boys Brigade</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boys-brigade/"><img src="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/sett.png" alt="Boys Brigade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/">Fraser Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/"><img src="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/sett.png" alt="Fraser Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-hunting-4/">Fraser Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-hunting-4/"><img src="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/sett.png" alt="Fraser Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

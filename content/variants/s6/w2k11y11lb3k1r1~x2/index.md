@@ -10,10 +10,10 @@ crumbs:
 - name: "Cornish National Small Set"
   url: "/tartans/c/co/cornish-national-small-set/"
 - name: "Cornish National Small Set Tartan"
-  url: "/setts/w2k11y11lb3k1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2k11y11lb3k1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cornish-national-small-set/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWGKW](/stripes/rkwgkw/).
 
 Part of the [Cornish National Small Set](/tartans/c/co/cornish-national-small-set/) tartan — the named design grouping this sett with its other cloths.

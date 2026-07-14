@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4~x2/">Loseby, Luke (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4~x2/"><img src="/variants/s15/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4~x2/sett.png" alt="Loseby, Luke (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loseby-luke/">Loseby, Luke</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loseby-luke/"><img src="/variants/s15/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4~x2/sett.png" alt="Loseby, Luke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

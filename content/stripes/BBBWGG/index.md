@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g11dy4w1db10dr1db2~x4/">Ayrshire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g11dy4w1db10dr1db2~x4/"><img src="/variants/s6/g11dy4w1db10dr1db2~x4/sett.png" alt="Ayrshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayrshire-3/">Ayrshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ay/ayrshire-3/"><img src="/variants/s6/g11dy4w1db10dr1db2~x4/sett.png" alt="Ayrshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

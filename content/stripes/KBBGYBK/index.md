@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k62db15t15dy20ly5db5k15~x2/">Black Raven (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k62db15t15dy20ly5db5k15~x2/"><img src="/variants/s7/k62db15t15dy20ly5db5k15~x2/sett.png" alt="Black Raven (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-raven/">Black Raven</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-raven/"><img src="/variants/s7/k62db15t15dy20ly5db5k15~x2/sett.png" alt="Black Raven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

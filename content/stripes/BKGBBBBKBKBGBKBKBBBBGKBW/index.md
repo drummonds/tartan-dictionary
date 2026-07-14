@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/">Scotland 1782</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/"><img src="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/sett.png" alt="Scotland 1782 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotland-1782-2/">Scotland 1782</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-1782-2/"><img src="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/sett.png" alt="Scotland 1782 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/">Brittany National Walking</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><img src="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/sett.png" alt="Brittany National Walking sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brittany-hunting-french-fancy/">Brittany Hunting French Fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brittany-hunting-french-fancy/"><img src="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/sett.png" alt="Brittany Hunting French Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/">Cougan Irish Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/"><img src="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/sett.png" alt="Cougan Irish Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cougan-irish/">Cougan Irish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cougan-irish/"><img src="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/sett.png" alt="Cougan Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

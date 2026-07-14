@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db26w2db3dbi15lb26dbi2lb3y4/">Banff, and Buchan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db26w2db3dbi15lb26dbi2lb3y4/"><img src="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db0805267-dbi1604274/sett.png" alt="Banff, and Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/banff-and-buchan-2/">Banff and Buchan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/banff-and-buchan-2/"><img src="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db0805267-dbi1604274/sett.png" alt="Banff and Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

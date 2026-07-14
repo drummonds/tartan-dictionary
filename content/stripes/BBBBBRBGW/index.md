@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/">American Soc.of Travel Agents (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><img src="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/sett.png" alt="American Soc.of Travel Agents (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/american-soc-of-travel-agents-2/">American Soc.of Travel Agents</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/american-soc-of-travel-agents-2/"><img src="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/sett.png" alt="American Soc.of Travel Agents sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

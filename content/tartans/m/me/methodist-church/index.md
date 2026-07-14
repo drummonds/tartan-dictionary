@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgkbbkgbyb/">BGBGKBBKGBYB</a></nav>
 Its design is pattern [BGBGKBBKGBYB](/stripes/bgbgkbbkgbyb/) — the page of every tartan sharing this colour sequence.
 
 The **Methodist Church** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Methodist Church** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2/">Methodist Church</a></td><td><code>DR/12 DG4 DR4 DG6 K4 DR4 DB32 K6 DG8 DR68 LY4 DR/4</code></td><td>296</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2/"><img src="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/sett.png" alt="Methodist Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/">Methodist Church</a></td><td><code>DR/12 DG4 DR4 DG6 K4 DR4 DB32 K6 DG8 DR68 LY4 DR/4</code></td><td>296</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/"><img src="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/sett.png" alt="Methodist Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/"><circle cx="399.9" cy="142.3" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s12/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1~x4/"><circle cx="333.6" cy="144.1" r="4" fill="#3465a4"><title>MacClure</title></circle></a><a href="/variants/s10/dr48k10dt12k2dr3k2dt12k10dr2ly3~x2/"><circle cx="346.5" cy="132.6" r="4" fill="#3465a4"><title>Wcwm 1684</title></circle></a><a href="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/"><circle cx="446.6" cy="127.9" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s14/dr2db2dr1db2dr1db28k6dr2b1dr2b1dr24k1r1~x2~db1404245-b2409265/"><circle cx="344.2" cy="98.6" r="4" fill="#3465a4"><title>Chisholm, Christopher</title></circle></a><a href="/variants/s11/dr9db1dr2db3dr28k12lb1dr6lb1db6r1~x2/"><circle cx="395.1" cy="101.4" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><a href="/variants/s17/k2dr3lb2dr3db2dr3db2dr14dy2k2dy2k2dy2k2dy2dr20lr2~x2/"><circle cx="332.3" cy="110.8" r="4" fill="#3465a4"><title>Wcwm 9275-1422-2</title></circle></a><a href="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/"><circle cx="405.7" cy="134.2" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><circle cx="383.2" cy="127.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/"><circle cx="400.6" cy="142.5" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s12/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1~x4/"><circle cx="334.3" cy="144.2" r="4" fill="#3465a4"><title>MacClure</title></circle></a><a href="/variants/s10/dr48k10dt12k2dr3k2dt12k10dr2ly3~x2/"><circle cx="347.3" cy="132.7" r="4" fill="#3465a4"><title>Wcwm 1684</title></circle></a><a href="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/"><circle cx="447.6" cy="128.1" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s14/dr2db2dr1db2dr1db28k6dr2b1dr2b1dr24k1r1~x2~db1404245-b2409265/"><circle cx="344.9" cy="98.7" r="4" fill="#3465a4"><title>Chisholm, Christopher</title></circle></a><a href="/variants/s11/dr9db1dr2db3dr28k12lb1dr6lb1db6r1~x2/"><circle cx="396.2" cy="101.6" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><a href="/variants/s17/k2dr3lb2dr3db2dr3db2dr14dy2k2dy2k2dy2k2dy2dr20lr2~x2/"><circle cx="333.1" cy="110.9" r="4" fill="#3465a4"><title>Wcwm 9275-1422-2</title></circle></a><a href="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/"><circle cx="406.6" cy="134.4" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><circle cx="384.0" cy="127.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

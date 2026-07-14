@@ -10,10 +10,10 @@ crumbs:
 - name: "Carson"
   url: "/tartans/c/ca/carson/"
 - name: "Carson Red (Personal)"
-  url: "/setts/lb19r2lb3r2lb3k43r22g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb19r2lb3r2lb3k43r22g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/carson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKWRWRW](/stripes/grkwrwrw/).
 
 Part of the [Carson](/tartans/c/ca/carson/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=580](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Carson Red (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=580">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#446C84;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #446C84"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Woven for Graham Carson of Rusco by Lochcarron in 1996.</em></li>
-<li>1996 — Carson Red (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7056">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#446C84;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #446C84"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Woven for a Graham Carson by Lochcarron in 1996. Not the same Graham Carson whose tartan can be seen at 3256.</em></li>
+<li>1996 — Carson Red (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7056/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#446C84;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #446C84"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Woven for a Graham Carson by Lochcarron in 1996. Not the same Graham Carson whose tartan can be seen at 3256.</em></li>
 </ul>
 </details>
 

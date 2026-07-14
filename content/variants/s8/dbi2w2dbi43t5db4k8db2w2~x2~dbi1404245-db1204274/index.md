@@ -10,10 +10,10 @@ crumbs:
 - name: "Fife Flyers"
   url: "/tartans/f/fi/fife-flyers/"
 - name: "Fife Flyers"
-  url: "/setts/dbi2w2dbi43t5db4k8db2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi2w2dbi43t5db4k8db2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fi/fife-flyers/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBKBW](/stripes/bwbbbkbw/).
 
 Part of the [Fife Flyers](/tartans/f/fi/fife-flyers/) tartan — the named design grouping this sett with its other cloths.

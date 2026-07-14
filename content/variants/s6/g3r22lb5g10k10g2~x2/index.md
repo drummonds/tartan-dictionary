@@ -10,10 +10,10 @@ crumbs:
 - name: "Strathspey, Check"
   url: "/tartans/s/st/strathspey-check/"
 - name: "Strathspey, Check"
-  url: "/setts/g3r22lb5g10k10g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3r22lb5g10k10g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathspey-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGWRG](/stripes/gkgwrg/).
 
 Part of the [Strathspey, Check](/tartans/s/st/strathspey-check/) tartan — the named design grouping this sett with its other cloths.

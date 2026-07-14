@@ -10,15 +10,15 @@ crumbs:
 - name: "Justus Yellow &"
   url: "/tartans/j/ju/justus-yellow/"
 - name: "Justus Yellow & Black (Personal)"
-  url: "/setts/y20k19y8k3y3k3y3k40y5k10y15k40y3k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y20k19y8k3y3k3y3k40y5k10y15k40y3k3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKGKGKGKGKGKGKGK](/stripes/gkgkgkgkgkgkgkgkgkgkgkgkgk/).
+provenance below. It is one weaving of the [sett](/tartans/j/ju/justus-yellow/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKGK](/stripes/gkgkgkgkgkgkgk/).
 
 Part of the [Justus Yellow &](/tartans/j/ju/justus-yellow/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1923](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1923)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1923](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Justus Yellow & Black (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1923">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Yet another 'tartan' from Christopher Carlisle Justus. Threadcount roughly estimated from a photograph.</em></li>
-<li>pre 2004 — Justus Yellow & Black (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6319">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Yet another 'tartan' from Christopher Carlisle Justus. Threadcount roughly estimated from a photograph.</em></li>
+<li>pre 2004 — Justus Yellow & Black (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6319/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Yet another 'tartan' from Christopher Carlisle Justus. Threadcount roughly estimated from a photograph.</em></li>
 </ul>
 </details>
 
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6319
 
 ## Thread count
-Y/40 K38 Y16 K6 Y6 K6 Y6 K80 Y10 K20 Y30 K80 Y6 K6 Y6 K80 Y30 K20 Y10 K80 Y6 K6 Y6 K6 Y16 K/38
+Y/40 K38 Y16 K6 Y6 K6 Y6 K80 Y10 K20 Y30 K80 Y6 K/6
 
-One full sett is **1230 threads**.
+One full sett is **654 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/40 K38 Y16 K6 Y6 K6 Y6 K80 Y10 K20 Y30 K80 Y6 K6 Y6 K80 Y30 K20 Y10 K80 Y6 K6 Y6 K6 Y16 K/38 — 1230 threads; it folds to the canonical 654-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **1230 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/40 K38 Y16 K6 Y6 K6 Y6 K80 Y10 K20 Y30 K80 Y6 K6 Y6 K80 Y30 K20 Y10 K80 Y6 K6 Y6 K6 Y16 K/38 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/40 K38 Y16 K6 Y6 K6 Y6 K80 Y10 K20 Y30 K80 Y6 K/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

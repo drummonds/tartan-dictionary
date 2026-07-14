@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/">O'Connor / Ochiltree</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/"><img src="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/sett.png" alt="O'Connor / Ochiltree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-connor-ochiltree/">O'Connor / Ochiltree</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-connor-ochiltree/"><img src="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/sett.png" alt="O'Connor / Ochiltree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

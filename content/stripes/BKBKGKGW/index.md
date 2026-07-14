@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/">Meiklejohn (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/"><img src="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/sett.png" alt="Meiklejohn (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/meiklejohn/">Meiklejohn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meiklejohn/"><img src="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/sett.png" alt="Meiklejohn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

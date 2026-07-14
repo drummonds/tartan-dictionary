@@ -28,11 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/k20w2db1~x6/">Fily (Verneuil L'tang) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k20w2db1~x6/"><img src="/variants/s3/k20w2db1~x6/sett.png" alt="Fily (Verneuil L'tang) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hogg/">Hogg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hogg/"><img src="/variants/s3/k1w1do1~x8/sett.png" alt="Hogg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/international-karate-alliance/">International Karate Alliance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/international-karate-alliance/"><img src="/variants/s3/dr8w1k1~x20/sett.png" alt="International Karate Alliance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/dr8w1k1~x20/">International Karate Fed. (Corporat)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dr8w1k1~x20/"><img src="/variants/s3/dr8w1k1~x20/sett.png" alt="International Karate Fed. (Corporat) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fily/">Fily</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fily/"><img src="/variants/s3/k20w2db1~x6/sett.png" alt="Fily sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

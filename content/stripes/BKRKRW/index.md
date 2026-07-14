@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db48k32r1k8r3w3~x2/">Koot Wedding (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db48k32r1k8r3w3~x2/"><img src="/variants/s6/db48k32r1k8r3w3~x2/sett.png" alt="Koot Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ko/koot-wedding/">Koot Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ko/koot-wedding/"><img src="/variants/s6/db48k32r1k8r3w3~x2/sett.png" alt="Koot Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

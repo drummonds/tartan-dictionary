@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g17k1r16k2n14k19n14k2r6/">Borthwick</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g17k1r16k2n14k19n14k2r6/"><img src="/variants/s9/g17k1r16k2n14k19n14k2r6/sett.png" alt="Borthwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/">Borthwick D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/"><img src="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/sett.png" alt="Borthwick D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/">Borthwick Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><img src="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/sett.png" alt="Borthwick Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/borthwick-2/">Borthwick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/borthwick-2/"><img src="/variants/s9/g17k1r16k2n14k19n14k2r6/sett.png" alt="Borthwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/borthwick-d/">Borthwick D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/borthwick-d/"><img src="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/sett.png" alt="Borthwick D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

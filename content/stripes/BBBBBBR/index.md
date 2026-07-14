@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dp30db30n4db4n4db5r6~x2/">Komissarov, Dmitry (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp30db30n4db4n4db5r6~x2/"><img src="/variants/s7/dp30db30n4db4n4db5r6~x2/sett.png" alt="Komissarov, Dmitry (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ko/komissarov-dmitry/">Komissarov, Dmitry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ko/komissarov-dmitry/"><img src="/variants/s7/dp30db30n4db4n4db5r6~x2/sett.png" alt="Komissarov, Dmitry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

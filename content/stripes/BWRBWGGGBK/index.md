@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k60n4dg25g3dg4w1db1r1w1db3~x2/">Gettelman (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k60n4dg25g3dg4w1db1r1w1db3~x2/"><img src="/variants/s10/k60n4dg25g3dg4w1db1r1w1db3~x2/sett.png" alt="Gettelman (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/gettelman/">Gettelman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/gettelman/"><img src="/variants/s10/k60n4dg25g3dg4w1db1r1w1db3~x2/sett.png" alt="Gettelman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

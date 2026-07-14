@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/">Lennox Dress District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/"><img src="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/sett.png" alt="Lennox Dress District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lennox-dress-2/">Lennox Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lennox-dress-2/"><img src="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

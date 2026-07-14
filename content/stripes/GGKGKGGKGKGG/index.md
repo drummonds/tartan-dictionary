@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/y4g24k3g2k3g24y20k3y2k3y20g4/">Meredith of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/y4g24k3g2k3g24y20k3y2k3y20g4/"><img src="/variants/s12/y4g24k3g2k3g24y20k3y2k3y20g4/sett.png" alt="Meredith of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/meredith/">Meredith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meredith/"><img src="/variants/s12/y4g24k3g2k3g24y20k3y2k3y20g4/sett.png" alt="Meredith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

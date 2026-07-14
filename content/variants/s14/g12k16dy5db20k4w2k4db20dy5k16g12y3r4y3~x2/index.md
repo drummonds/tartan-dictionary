@@ -12,10 +12,10 @@ crumbs:
 - name: "Iowa"
   url: "/tartans/i/io/iowa/"
 - name: "Iowa American District Tartan"
-  url: "/setts/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/io/iowa/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBKWKBGKGGRG](/stripes/gkgbkwkbgkggrg/).
 
 Part of the [Iowa](/tartans/i/io/iowa/) tartan — the named design grouping this sett with its other cloths.

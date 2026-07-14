@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/">Festival Celtique de Qubecc</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><img src="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/sett.png" alt="Festival Celtique de Qubecc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/festival-celtique-de-qubecc/">Festival Celtique de Qubecc</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/festival-celtique-de-qubecc/"><img src="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/sett.png" alt="Festival Celtique de Qubecc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

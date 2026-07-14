@@ -8,10 +8,10 @@ crumbs:
 - name: "University"
   url: "/tartans/u/un/university/"
 - name: "University Plaid"
-  url: "/setts/dr4dg3dr4y1db3y1db3y1dg3dr1dg4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4dg3dr4y1db3y1db3y1dg3dr1dg4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGGBG](/stripes/bgbgbgbggbg/).
 
 Part of the [University](/tartans/u/un/university/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4405](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1995 — University Plaid (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4405">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>In a catalogue from 'Country Curtains' at the Red Lion Inn, Stockbridge, MA. Spotted by Shirley Smith, January 1995. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>1995 — University Plaid (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4390">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>In a catalogue from "Country Curtains" at the Red Lion Inn, Stockbridge, MA. Spotted by Shirley Smith, Jan. 1995. Sample in STA Johnston Collection.</em></li>
+<li>1995 — University Plaid (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4390/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>In a catalogue from "Country Curtains" at the Red Lion Inn, Stockbridge, MA. Spotted by Shirley Smith, Jan. 1995. Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

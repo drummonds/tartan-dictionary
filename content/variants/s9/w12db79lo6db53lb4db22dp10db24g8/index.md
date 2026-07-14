@@ -8,10 +8,10 @@ crumbs:
 - name: "Centrica Energy"
   url: "/tartans/c/ce/centrica-energy/"
 - name: "Centrica Energy"
-  url: "/setts/w12db79lo6db53lb4db22dp10db24g8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w12db79lo6db53lb4db22dp10db24g8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ce/centrica-energy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBWBYBW](/stripes/gbbbwbybw/).
 
 Part of the [Centrica Energy](/tartans/c/ce/centrica-energy/) tartan — the named design grouping this sett with its other cloths.

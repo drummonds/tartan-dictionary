@@ -17,7 +17,7 @@ A family of [Clan MacInroy](/clan/macinroy/).
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/m/ma/macinroy-2/">MacInroy</a> ★</td><td>1819</td><td>2</td><td>3</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macinroy-2/"><img src="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macinroy-2/"><img src="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macinroy-3/">MacInroy</a></td><td>1825</td><td>1</td><td>1</td><td>1.67</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macinroy-3/"><img src="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macinroy/">MacInroy</a></td><td>1850</td><td>1</td><td>1</td><td>6.54</td></tr>

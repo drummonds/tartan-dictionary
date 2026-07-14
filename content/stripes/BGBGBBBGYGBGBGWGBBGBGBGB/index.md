@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/db2g2dr1g4dr1db6dr2g1ly1g1dr1g1dr1g1lb1g1dr2db6g26dr1g1dr1g1db1~x2/">Ettrick Forest</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/db2g2dr1g4dr1db6dr2g1ly1g1dr1g1dr1g1lb1g1dr2db6g26dr1g1dr1g1db1~x2/"><img src="/variants/s24/db2g2dr1g4dr1db6dr2g1ly1g1dr1g1dr1g1lb1g1dr2db6g26dr1g1dr1g1db1~x2/sett.png" alt="Ettrick Forest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/et/ettrick-forest/">Ettrick Forest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/et/ettrick-forest/"><img src="/variants/s24/db2g2dr1g4dr1db6dr2g1ly1g1dr1g1dr1g1lb1g1dr2db6g26dr1g1dr1g1db1~x2/sett.png" alt="Ettrick Forest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

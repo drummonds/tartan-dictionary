@@ -8,10 +8,10 @@ crumbs:
 - name: "Mighty Men"
   url: "/tartans/m/mi/mighty-men/"
 - name: "Mighty Men"
-  url: "/setts/g40n1dp4n1dp4k4r1k1r1k1r1k1r2w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g40n1dp4n1dp4k4r1k1r1k1r1k1r2w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/mighty-men/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBBKRKRKRKRW](/stripes/gbbbbkrkrkrkrw/).
 
 Part of the [Mighty Men](/tartans/m/mi/mighty-men/) tartan — the named design grouping this sett with its other cloths.

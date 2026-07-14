@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/">Scotland’s Golf Coast</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/"><img src="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/sett.png" alt="Scotland’s Golf Coast sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotland-s-golf-coast/">Scotland’s Golf Coast</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-s-golf-coast/"><img src="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/sett.png" alt="Scotland’s Golf Coast sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

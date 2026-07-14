@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/">Strath Hallidale (Sutherland)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/"><img src="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/sett.png" alt="Strath Hallidale (Sutherland) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strath-hallidale-2/">Strath Hallidale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strath-hallidale-2/"><img src="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/sett.png" alt="Strath Hallidale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Mackaw"
   url: "/tartans/m/ma/mackaw/"
 - name: "Mackaw"
-  url: "/setts/r2b35db35y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2b35db35y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackaw/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBR](/stripes/gbbr/).
 
 Part of the [Mackaw](/tartans/m/ma/mackaw/) tartan — the named design grouping this sett with its other cloths.

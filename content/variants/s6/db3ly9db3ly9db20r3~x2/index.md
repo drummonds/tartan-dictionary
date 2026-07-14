@@ -8,10 +8,10 @@ crumbs:
 - name: "Latin"
   url: "/tartans/l/la/latin/"
 - name: "Latin"
-  url: "/setts/db3ly9db3ly9db20r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3ly9db3ly9db20r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/latin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBR](/stripes/bybybr/).
 
 Part of the [Latin](/tartans/l/la/latin/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4905](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1689 — Latin (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4905">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><br><em>Woven by researcher Ross-Craven from a translation from the Latin of a description given in 1689 of the garb of the Cameron men of Lochaber. From the West Highland Museum, Fort William. The tartan follows the Cameron sett but in different colours.</em></li>
-<li>1689 — Latin (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3873">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><br><em>Woven by researcher Ross-Craven from a translation from the Latin of a description given in 1689 of the garb of the Cameron men of Lochaber. From the West Highland Museum, Fort William (?). The tartan follows the Cameron sett but in different colours.</em></li>
+<li>1689 — Latin (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3873/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><br><em>Woven by researcher Ross-Craven from a translation from the Latin of a description given in 1689 of the garb of the Cameron men of Lochaber. From the West Highland Museum, Fort William (?). The tartan follows the Cameron sett but in different colours.</em></li>
 </ul>
 </details>
 

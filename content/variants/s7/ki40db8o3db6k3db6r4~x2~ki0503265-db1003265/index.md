@@ -10,10 +10,10 @@ crumbs:
 - name: "Edinburgh and Lothian Tourist Board"
   url: "/tartans/e/ed/edinburgh-and-lothian-tourist-board/"
 - name: "Edinburgh and Lothian Tourist Board"
-  url: "/setts/ki40db8o3db6k3db6r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ki40db8o3db6k3db6r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-and-lothian-tourist-board/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRBKBR](/stripes/kbrbkbr/).
 
 Part of the [Edinburgh and Lothian Tourist Board](/tartans/e/ed/edinburgh-and-lothian-tourist-board/) tartan — the named design grouping this sett with its other cloths.

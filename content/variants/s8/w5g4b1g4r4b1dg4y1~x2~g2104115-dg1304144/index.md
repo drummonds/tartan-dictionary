@@ -10,10 +10,10 @@ crumbs:
 - name: "Devon Rural Skills Trust"
   url: "/tartans/d/de/devon-rural-skills-trust/"
 - name: "Devon Rural Skills Trust"
-  url: "/setts/w5g4b1g4r4b1dg4y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5g4b1g4r4b1dg4y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/devon-rural-skills-trust/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBRGBGW](/stripes/ggbrgbgw/).
 
 Part of the [Devon Rural Skills Trust](/tartans/d/de/devon-rural-skills-trust/) tartan — the named design grouping this sett with its other cloths.

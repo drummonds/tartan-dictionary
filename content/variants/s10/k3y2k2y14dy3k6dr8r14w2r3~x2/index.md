@@ -8,10 +8,10 @@ crumbs:
 - name: "Walls, Steve C"
   url: "/tartans/w/wa/walls-steve-c/"
 - name: "Walls, Steve C (Personal)"
-  url: "/setts/k3y2k2y14dy3k6dr8r14w2r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3y2k2y14dy3k6dr8r14w2r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/walls-steve-c/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGGKBRWR](/stripes/kgkggkbrwr/).
 
 Part of the [Walls, Steve C](/tartans/w/wa/walls-steve-c/) tartan — the named design grouping this sett with its other cloths.

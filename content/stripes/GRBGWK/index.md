@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k7w2g2dr31r35y2~x2/">Mason, David Elsworth (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k7w2g2dr31r35y2~x2/"><img src="/variants/s6/k7w2g2dr31r35y2~x2/sett.png" alt="Mason, David Elsworth (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mason-david-elsworth/">Mason, David Elsworth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mason-david-elsworth/"><img src="/variants/s6/k7w2g2dr31r35y2~x2/sett.png" alt="Mason, David Elsworth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

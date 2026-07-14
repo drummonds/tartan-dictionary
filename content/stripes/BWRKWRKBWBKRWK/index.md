@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k33w1r23k1n6w1n6k1r23w1k33r3w3db3~x2/">Manac</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k33w1r23k1n6w1n6k1r23w1k33r3w3db3~x2/"><img src="/variants/s14/k33w1r23k1n6w1n6k1r23w1k33r3w3db3~x2/sett.png" alt="Manac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manac/">Manac</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manac/"><img src="/variants/s14/k33w1r23k1n6w1n6k1r23w1k33r3w3db3~x2/sett.png" alt="Manac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

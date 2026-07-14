@@ -8,10 +8,10 @@ crumbs:
 - name: "York Puppet"
   url: "/tartans/y/yo/york-puppet/"
 - name: "York Puppet Tartan"
-  url: "/setts/dp11k1lo4r1lo1r1lo3w2k2y2k3dy2w3dy3db3dy2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp11k1lo4r1lo1r1lo3w2k2y2k3dy2w3dy3db3dy2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/yo/york-puppet/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYRYRYWKGKGWGBGW](/stripes/bkyryrywkgkgwgbgw/).
 
 Part of the [York Puppet](/tartans/y/yo/york-puppet/) tartan — the named design grouping this sett with its other cloths.

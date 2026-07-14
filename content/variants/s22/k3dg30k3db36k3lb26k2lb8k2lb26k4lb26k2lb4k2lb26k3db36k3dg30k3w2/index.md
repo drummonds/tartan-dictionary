@@ -12,10 +12,10 @@ crumbs:
 - name: "Ellis"
   url: "/tartans/e/el/ellis/"
 - name: "Ellis"
-  url: "/setts/k3dg30k3db36k3lb26k2lb8k2lb26k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3dg30k3db36k3lb26k2lb8k2lb26k4lb26k2lb4k2lb26k3db36k3dg30k3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/el/ellis/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKWKWKWKWKWKWKBKGKW](/stripes/kgkbkwkwkwkwkwkwkbkgkw/).
 
 Part of the [Ellis](/tartans/e/el/ellis/) tartan — the named design grouping this sett with its other cloths.

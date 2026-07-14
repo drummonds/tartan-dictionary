@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Knights Templar Militi Templi Scotia"
   url: "/tartans/s/sc/scottish-knights-templar-militi-templi-scotia/"
 - name: "Scottish Knights Templar Militi Templi Scotia"
-  url: "/setts/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-knights-templar-militi-templi-scotia/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKWKWKBRWRBKWKWKR](/stripes/brkwkwkbrwrbkwkwkr/).
 
 Part of the [Scottish Knights Templar Militi Templi Scotia](/tartans/s/sc/scottish-knights-templar-militi-templi-scotia/) tartan — the named design grouping this sett with its other cloths.

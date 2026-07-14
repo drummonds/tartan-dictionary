@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/">Palmer, General W.J.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/"><img src="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/sett.png" alt="Palmer, General W.J. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/palmer-general-w-j/">Palmer, General W.J.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/palmer-general-w-j/"><img src="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/sett.png" alt="Palmer, General W.J. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

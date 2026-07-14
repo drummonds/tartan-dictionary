@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb3203246-db1004274/">Kagame (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb3203246-db1004274/"><img src="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb3203246-db1004274/sett.png" alt="Kagame (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/k4lb14k10g3k3g7k6db24w3~x2~lb3203246-db1706275/">Kagame Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k4lb14k10g3k3g7k6db24w3~x2~lb3203246-db1706275/"><img src="/variants/s9/k4lb14k10g3k3g7k6db24w3~x2~lb3203246-db1706275/sett.png" alt="Kagame Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ka/kagame-2/">Kagame</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/kagame-2/"><img src="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb3203246-db1004274/sett.png" alt="Kagame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

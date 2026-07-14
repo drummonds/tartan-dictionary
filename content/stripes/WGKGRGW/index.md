@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb11y5k1y2r1y2lb11~x12/">Carlisle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb11y5k1y2r1y2lb11~x12/"><img src="/variants/s7/lb11y5k1y2r1y2lb11~x12/sett.png" alt="Carlisle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/lb11dy5k1dy2r1dy2lb11~x12/">Carlisle Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb11dy5k1dy2r1dy2lb11~x12/"><img src="/variants/s7/lb11dy5k1dy2r1dy2lb11~x12/sett.png" alt="Carlisle Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carlisle-2/">Carlisle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carlisle-2/"><img src="/variants/s7/lb11y5k1y2r1y2lb11~x12/sett.png" alt="Carlisle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

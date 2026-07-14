@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/t1k50r1k2n4db7w1~x2/">Colleges Scotland (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><img src="/variants/s7/t1k50r1k2n4db7w1~x2/sett.png" alt="Colleges Scotland (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/colleges-scotland/">Colleges Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/colleges-scotland/"><img src="/variants/s7/t1k50r1k2n4db7w1~x2/sett.png" alt="Colleges Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

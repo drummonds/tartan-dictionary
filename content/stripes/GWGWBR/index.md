@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg44w18dg6w11db1r4~x2/">Westfalia (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg44w18dg6w11db1r4~x2/"><img src="/variants/s6/dg44w18dg6w11db1r4~x2/sett.png" alt="Westfalia (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westfalia/">Westfalia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westfalia/"><img src="/variants/s6/dg44w18dg6w11db1r4~x2/sett.png" alt="Westfalia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

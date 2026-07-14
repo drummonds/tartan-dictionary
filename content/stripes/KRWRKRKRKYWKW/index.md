@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w2k2lb2ly2k2r7k1r12k2r6w1r23k1~x2/">Wilding, Michael John (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w2k2lb2ly2k2r7k1r12k2r6w1r23k1~x2/"><img src="/variants/s13/w2k2lb2ly2k2r7k1r12k2r6w1r23k1~x2/sett.png" alt="Wilding, Michael John (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilding-michael-john/">Wilding, Michael John</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilding-michael-john/"><img src="/variants/s13/w2k2lb2ly2k2r7k1r12k2r6w1r23k1~x2/sett.png" alt="Wilding, Michael John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

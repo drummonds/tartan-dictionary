@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/">Dauphinee (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/"><img src="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/sett.png" alt="Dauphinee (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dauphinee/">Dauphinee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dauphinee/"><img src="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/sett.png" alt="Dauphinee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,15 +12,15 @@ crumbs:
 - name: "Ogilvie of Inverarity / Ochterlonie"
   url: "/tartans/o/og/ogilvie-of-inverarity-ochterlonie/"
 - name: "Ogilvie of Inverarity (Wilson) / Ochterlonie"
-  url: "/setts/db20ly3k7g11k2g3k2g3r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db20ly3k7g11k2g3k2g3r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BYKGKGKGRGKGKGKY](/stripes/bykgkgkgrgkgkgky/).
+provenance below. It is one weaving of the [sett](/tartans/o/og/ogilvie-of-inverarity-ochterlonie/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYKGKGKGR](/stripes/bykgkgkgr/).
 
 Part of the [Ogilvie of Inverarity / Ochterlonie](/tartans/o/og/ogilvie-of-inverarity-ochterlonie/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3233](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3233)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 676
 
 ## Thread count
-DB/40 LY6 K14 G22 K4 G6 K4 G6 R8 G6 K4 G6 K4 G22 K14 LY/6
+DB/40 LY6 K14 G22 K4 G6 K4 G6 R/8
 
-One full sett is **298 threads**.
+One full sett is **172 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/40 LY6 K14 G22 K4 G6 K4 G6 R8 G6 K4 G6 K4 G22 K14 LY/6 — 298 threads; it folds to the canonical 172-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **298 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/40 LY6 K14 G22 K4 G6 K4 G6 R8 G6 K4 G6 K4 G22 K14 LY/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/40 LY6 K14 G22 K4 G6 K4 G6 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

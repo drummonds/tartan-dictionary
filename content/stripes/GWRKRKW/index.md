@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w4k30r1k1r3w12y3~x2/">Richecourt, Baron of (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><img src="/variants/s7/w4k30r1k1r3w12y3~x2/sett.png" alt="Richecourt, Baron of (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/richecourt-baron-of/">Richecourt, Baron of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/richecourt-baron-of/"><img src="/variants/s7/w4k30r1k1r3w12y3~x2/sett.png" alt="Richecourt, Baron of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

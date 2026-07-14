@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db24k8g8r2g4k1w2k1g4~x2/">Ferguson (Tarlogie)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db24k8g8r2g4k1w2k1g4~x2/"><img src="/variants/s9/db24k8g8r2g4k1w2k1g4~x2/sett.png" alt="Ferguson (Tarlogie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-4/">Ferguson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-4/"><img src="/variants/s9/db24k8g8r2g4k1w2k1g4~x2/sett.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

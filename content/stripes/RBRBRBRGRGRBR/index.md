@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r6db2r2g24r2g2r2db8r34db2r2db1r6~x2/">Grant of Glenmoriston (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r6db2r2g24r2g2r2db8r34db2r2db1r6~x2/"><img src="/variants/s13/r6db2r2g24r2g2r2db8r34db2r2db1r6~x2/sett.png" alt="Grant of Glenmoriston (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grant-of-glenmoriston/">Grant of Glenmoriston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-of-glenmoriston/"><img src="/variants/s13/r6db2r2g24r2g2r2db8r34db2r2db1r6~x2/sett.png" alt="Grant of Glenmoriston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

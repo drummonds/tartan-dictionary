@@ -12,10 +12,10 @@ crumbs:
 - name: "Sutherland of Duffus"
   url: "/tartans/s/su/sutherland-of-duffus-2/"
 - name: "Sutherland of Duffus"
-  url: "/setts/ly14y3ly14k3ly14k3ly14lb3r22lb3ly14k3ly14k3ly14y3ly14y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly14y3ly14k3ly14k3ly14lb3r22lb3ly14k3ly14k3ly14y3ly14y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/su/sutherland-of-duffus-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYKYKYWRWYKYKYGY](/stripes/gygykykywrwykykygy/).
 
 Part of the [Sutherland of Duffus](/tartans/s/su/sutherland-of-duffus-2/) tartan — the named design grouping this sett with its other cloths.

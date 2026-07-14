@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r1n5k5db1k1db6y1~x8/">Lopez-Gasparotto</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><img src="/variants/s7/r1n5k5db1k1db6y1~x8/sett.png" alt="Lopez-Gasparotto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lopez-gasparotto/">Lopez-Gasparotto</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lopez-gasparotto/"><img src="/variants/s7/r1n5k5db1k1db6y1~x8/sett.png" alt="Lopez-Gasparotto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/">Sens</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/"><img src="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/sett.png" alt="Sens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/sens/">Sens</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/sens/"><img src="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/sett.png" alt="Sens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

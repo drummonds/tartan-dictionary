@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/lb4w2g17lb17lo2/">Bermuda (1986)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/lb4w2g17lb17lo2/"><img src="/variants/s5/lb4w2g17lb17lo2~x4~w4000000-g2405163/sett.png" alt="Bermuda (1986) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bermuda-3/">Bermuda</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bermuda-3/"><img src="/variants/s5/lb4w2g17lb17lo2~x4~w4000000-g2405163/sett.png" alt="Bermuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

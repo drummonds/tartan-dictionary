@@ -8,10 +8,10 @@ crumbs:
 - name: "Red Watch"
   url: "/tartans/r/re/red-watch/"
 - name: "Red Watch"
-  url: "/setts/k10r3k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10r3k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/red-watch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRK](/stripes/krk/).
 
 Part of the [Red Watch](/tartans/r/re/red-watch/) tartan — the named design grouping this sett with its other cloths.

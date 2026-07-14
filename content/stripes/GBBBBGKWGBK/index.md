@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/">Huaumé, Patrick Antoine (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><img src="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/sett.png" alt="Huaumé, Patrick Antoine (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/huaum-patrick-antoine/">Huaum, Patrick Antoine )</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/huaum-patrick-antoine/"><img src="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/sett.png" alt="Huaum, Patrick Antoine ) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

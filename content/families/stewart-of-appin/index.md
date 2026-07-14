@@ -31,7 +31,7 @@ A family of [Clan Stewart](/clan/stewart/).
 <tr><td><a href="/tartans/s/st/stewart-of-appin-dress/">Stewart of Appin Dress</a></td><td>2002</td><td>1</td><td>1</td><td>7.33</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-dress/"><img src="/variants/s16/r3k2lt2r2g20r3g2r2dp7r2g2w23k2lt2w2g2~x2/sett.png" alt="Stewart of Appin Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stewart-of-appin-dress-2/">Stewart of Appin Dress</a></td><td>~2003</td><td>2</td><td>3</td><td>7.40</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-dress-2/"><img src="/variants/s10/db8r3db34lb3k9w31r5w3r3w8/sett.png" alt="Stewart of Appin Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-dress-2/"><img src="/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/sett.png" alt="Stewart of Appin Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stewart-of-appin-htg-dress/">Stewart of Appin Htg Dress</a></td><td>~1986</td><td>1</td><td>1</td><td>9.11</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-htg-dress/"><img src="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/sett.png" alt="Stewart of Appin Htg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

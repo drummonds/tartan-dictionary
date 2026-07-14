@@ -12,10 +12,10 @@ crumbs:
 - name: "Justus Hunting"
   url: "/tartans/j/ju/justus-hunting/"
 - name: "Justus hunting"
-  url: "/setts/db1g4r1g1y1g4db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1g4r1g1y1g4db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ju/justus-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGRGB](/stripes/bgggrgb/).
 
 Part of the [Justus Hunting](/tartans/j/ju/justus-hunting/) tartan — the named design grouping this sett with its other cloths.

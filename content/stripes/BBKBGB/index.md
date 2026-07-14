@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n46dp15k12ni8g8b8~x2~dp1403303-ni2104317/">Haut Family (by Dundee)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n46dp15k12ni8g8b8~x2~dp1403303-ni2104317/"><img src="/variants/s6/n46dp15k12ni8g8b8~x2~dp1403303-ni2104317/sett.png" alt="Haut Family (by Dundee) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/haut-2/">Haut</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haut-2/"><img src="/variants/s6/n46dp15k12ni8g8b8~x2~dp1403303-ni2104317/sett.png" alt="Haut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dr5t35k24t9g9dr5~x2/">Notre Dame Marching Guard (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr5t35k24t9g9dr5~x2/"><img src="/variants/s6/dr5t35k24t9g9dr5~x2/sett.png" alt="Notre Dame Marching Guard (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/notre-dame-marching-guard-2/">Notre Dame Marching Guard</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/notre-dame-marching-guard-2/"><img src="/variants/s6/dr5t35k24t9g9dr5~x2/sett.png" alt="Notre Dame Marching Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db4g18db3k17db18dp4~x2/">Scottish Airports (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db4g18db3k17db18dp4~x2/"><img src="/variants/s6/db4g18db3k17db18dp4~x2/sett.png" alt="Scottish Airports (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-airports-3/">Scottish Airports</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-airports-3/"><img src="/variants/s6/db4g18db3k17db18dp4~x2/sett.png" alt="Scottish Airports sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

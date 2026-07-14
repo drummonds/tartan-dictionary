@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w2db4r16k12g36dy1db6k2w2/"
+- "/setts/w2db4r16k14dg32y1db8k2w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbrkggbkw/">WBRKGGBKW</a></nav>
 Its design is pattern [WBRKGGBKW](/stripes/wbrkggbkw/) — the page of every tartan sharing this colour sequence.
 
 The **National Millennium** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **National Millennium** tartan groups 2 setts — the same named design reco
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2db4r16k12g36dy1db6k2w2/">National Millennium</a> ★</td><td><code>W/4 DB8 R32 K24 G72 DY2 DB12 K4 W/4</code></td><td>316</td><td>1934</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2db4r16k12g36dy1db6k2w2/"><img src="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/sett.png" alt="National Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w2db4r16k14dg32y1db8k2w2/">National Millennium</a></td><td><code>W/4 DB8 R32 K28 DG64 Y2 DB16 K4 W/4</code></td><td>316</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2db4r16k14dg32y1db8k2w2/"><img src="/variants/s9/w2db4r16k14dg32y1db8k2w2~x2/sett.png" alt="National Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/">National Millennium</a> ★</td><td><code>W/4 DB8 R32 K24 G72 DY2 DB12 K4 W/4</code></td><td>316</td><td>1934</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><img src="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/sett.png" alt="National Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w2db4r16k14dg32y1db8k2w2~x2/">National Millennium</a></td><td><code>W/4 DB8 R32 K28 DG64 Y2 DB16 K4 W/4</code></td><td>316</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w2db4r16k14dg32y1db8k2w2~x2/"><img src="/variants/s9/w2db4r16k14dg32y1db8k2w2~x2/sett.png" alt="National Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/"><circle cx="150.1" cy="98.5" r="4" fill="#3465a4"><title>Fujitsu</title></circle></a><a href="/variants/s11/w4k1db16k1g32dr6k6lo6g4lo2g1~x2/"><circle cx="194.9" cy="78.4" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/"><circle cx="142.8" cy="89.6" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="182.1" cy="142.3" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S</title></circle></a><a href="/variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/"><circle cx="191.1" cy="67.1" r="4" fill="#3465a4"><title>Labrador</title></circle></a><a href="/variants/s8/y1k6g32k12r12b9k6w1~x2/"><circle cx="161.9" cy="101.5" r="4" fill="#3465a4"><title>McGeachie</title></circle></a><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="154.7" cy="131.7" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/variants/s10/k45r4k4n4ly16n76db8ly6db2w4/"><circle cx="218.1" cy="52.7" r="4" fill="#3465a4"><title>Highland Gathering</title></circle></a><a href="/variants/s10/dr4w6k10db5k3ly16k3g33k1w4~x2/"><circle cx="134.6" cy="87.5" r="4" fill="#3465a4"><title>Fermanagh County Crest</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="145.1" cy="127.2" r="4" fill="#3465a4"><title>Mission</title></circle></a><circle cx="187.8" cy="76.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/"><circle cx="150.6" cy="98.2" r="4" fill="#3465a4"><title>Fujitsu</title></circle></a><a href="/variants/s11/w4k1db16k1g32dr6k6lo6g4lo2g1~x2/"><circle cx="195.5" cy="78.2" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/"><circle cx="143.2" cy="89.3" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="182.6" cy="142.2" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S</title></circle></a><a href="/variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/"><circle cx="191.8" cy="66.9" r="4" fill="#3465a4"><title>Labrador</title></circle></a><a href="/variants/s8/y1k6g32k12r12b9k6w1~x2/"><circle cx="162.4" cy="101.3" r="4" fill="#3465a4"><title>McGeachie</title></circle></a><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="155.1" cy="131.5" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/variants/s10/k45r4k4n4ly16n76db8ly6db2w4/"><circle cx="218.9" cy="52.5" r="4" fill="#3465a4"><title>Highland Gathering</title></circle></a><a href="/variants/s10/dr4w6k10db5k3ly16k3g33k1w4~x2/"><circle cx="135.0" cy="87.2" r="4" fill="#3465a4"><title>Fermanagh County Crest</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="145.5" cy="126.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><circle cx="188.4" cy="76.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

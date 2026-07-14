@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r5g2ri2k2lo7r2~x4~r1807033-ri2806019/">Victoria, City of (British Columbia)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r5g2ri2k2lo7r2~x4~r1807033-ri2806019/"><img src="/variants/s6/r5g2ri2k2lo7r2~x4~r1807033-ri2806019/sett.png" alt="Victoria, City of (British Columbia) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/victoria-city-of/">Victoria, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/victoria-city-of/"><img src="/variants/s6/r5g2ri2k2lo7r2~x4~r1807033-ri2806019/sett.png" alt="Victoria, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

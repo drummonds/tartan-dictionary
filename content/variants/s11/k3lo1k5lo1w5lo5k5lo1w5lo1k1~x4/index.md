@@ -10,10 +10,10 @@ crumbs:
 - name: "Dundee United Football Club"
   url: "/tartans/d/du/dundee-united-football-club/"
 - name: "Dundee United Football Club"
-  url: "/setts/k3lo1k5lo1w5lo5k5lo1w5lo1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3lo1k5lo1w5lo5k5lo1w5lo1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dundee-united-football-club/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYWYKYWYK](/stripes/kykywykywyk/).
 
 Part of the [Dundee United Football Club](/tartans/d/du/dundee-united-football-club/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1038](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1991 — Dundee United Football Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1038">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C4C4C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C4C4C4"></span><br><em>Lochcarron sample. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1991 — Dundee United Football Club (Corpor) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4757">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C4C4C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C4C4C4"></span><br><em>Lochcarron sample. Sample in STA's Johnston Collection.</em></li>
+<li>pre 1991 — Dundee United Football Club (Corpor) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4757/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C4C4C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C4C4C4"></span><br><em>Lochcarron sample. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

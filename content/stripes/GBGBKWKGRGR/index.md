@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/">Glasgow, City of Culture</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><img src="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/sett.png" alt="Glasgow, City of Culture sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/culture-the/">Culture The...</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/culture-the/"><img src="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/sett.png" alt="Culture The... sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

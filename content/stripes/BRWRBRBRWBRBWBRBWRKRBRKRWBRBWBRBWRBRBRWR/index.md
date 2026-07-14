@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s40/db1r1w2r12db1r2db1r12w1db1r1db1lb1db1r1db1w1r6k2r7dr4r7k2r6w1db1r1db1lb1db1r1db1w1r12db1r2db1r12w2r1~x2~db1406275-dr1305012/">Takla Makan (Red)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s40/db1r1w2r12db1r2db1r12w1db1r1db1lb1db1r1db1w1r6k2r7dr4r7k2r6w1db1r1db1lb1db1r1db1w1r12db1r2db1r12w2r1~x2~db1406275-dr1305012/"><img src="/variants/s40/db1r1w2r12db1r2db1r12w1db1r1db1lb1db1r1db1w1r6k2r7dr4r7k2r6w1db1r1db1lb1db1r1db1w1r12db1r2db1r12w2r1~x2~db1406275-dr1305012/sett.png" alt="Takla Makan (Red) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/takla-makan-4/">Takla Makan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/takla-makan-4/"><img src="/variants/s40/db1r1w2r12db1r2db1r12w1db1r1db1lb1db1r1db1w1r6k2r7dr4r7k2r6w1db1r1db1lb1db1r1db1w1r12db1r2db1r12w2r1~x2~db1406275-dr1305012/sett.png" alt="Takla Makan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

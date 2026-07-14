@@ -12,10 +12,10 @@ crumbs:
 - name: "Harden"
   url: "/tartans/h/ha/harden/"
 - name: "Wilson's No.001"
-  url: "/setts/r14lb8k9y1k2w2k2g10r15k4r12w2r12k4r15g10k2w2k2y1k9lb8r14k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r14lb8k9y1k2w2k2g10r15k4r12w2r12k4r15g10k2w2k2y1k9lb8r14k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harden/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWKGKWKGRKRWRKRGKWKGKWR](/stripes/krwkgkwkgrkrwrkrgkwkgkwr/).
 
 Part of the [Harden](/tartans/h/ha/harden/) tartan — the named design grouping this sett with its other cloths.

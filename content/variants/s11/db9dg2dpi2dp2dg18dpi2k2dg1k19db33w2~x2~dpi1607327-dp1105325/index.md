@@ -8,15 +8,15 @@ crumbs:
 - name: "Highland Pride of Scotland"
   url: "/tartans/h/hi/highland-pride-of-scotland/"
 - name: "Highland Pride of Scotland"
-  url: "/setts/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBBGBKGKBWBKGKBGBBG](/stripes/bgbbgbkgkbwbkgkbgbbg/).
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highland-pride-of-scotland/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBBGBKGKBW](/stripes/bgbbgbkgkbw/).
 
 Part of the [Highland Pride of Scotland](/tartans/h/hi/highland-pride-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1715](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1715)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1715](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Highland Pride of Scotland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1715">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Design owned by McCalls of Aberdeen. Woven exclusively by Lochcarron of Scotland. Woven sample.</em></li>
-<li>pre 2004 — Highland Pride of Scotland (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6477">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Design owned by McCalls of Aberdeen Woven exclusively by Lochcarron of Scotland. Woven sample.</em></li>
+<li>pre 2004 — Highland Pride of Scotland (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6477/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Design owned by McCalls of Aberdeen Woven exclusively by Lochcarron of Scotland. Woven sample.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6477
 
 ## Thread count
-DB/18 DG4 DPi4 DP4 DG36 DPi4 K4 DG2 K38 DB66 W4 DB66 K38 DG2 K4 DPi4 DG36 DP4 DPi4 DG/4
+DB/18 DG4 DPi4 DP4 DG36 DPi4 K4 DG2 K38 DB66 W/4
 
-One full sett is **670 threads**.
+One full sett is **346 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/18 DG4 DPi4 DP4 DG36 DPi4 K4 DG2 K38 DB66 W4 DB66 K38 DG2 K4 DPi4 DG36 DP4 DPi4 DG/4 — 670 threads; it folds to the canonical 346-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **670 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/18 DG4 DPi4 DP4 DG36 DPi4 K4 DG2 K38 DB66 W4 DB66 K38 DG2 K4 DPi4 DG36 DP4 DPi4 DG/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/18 DG4 DPi4 DP4 DG36 DPi4 K4 DG2 K38 DB66 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

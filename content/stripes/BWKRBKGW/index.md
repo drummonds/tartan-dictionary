@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db3w2k2r62db2k2y2w2~x2/">Singer Sewing Machine Company</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db3w2k2r62db2k2y2w2~x2/"><img src="/variants/s8/db3w2k2r62db2k2y2w2~x2/sett.png" alt="Singer Sewing Machine Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/singer-sewing-machine-company/">Singer Sewing Machine Company</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/singer-sewing-machine-company/"><img src="/variants/s8/db3w2k2r62db2k2y2w2~x2/sett.png" alt="Singer Sewing Machine Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg54db14y7r14k7db14r6~x2/">Gloucester County Pipe Band (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg54db14y7r14k7db14r6~x2/"><img src="/variants/s7/dg54db14y7r14k7db14r6~x2/sett.png" alt="Gloucester County Pipe Band (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/gloucester-county-pipe-band/">Gloucester County Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/gloucester-county-pipe-band/"><img src="/variants/s7/dg54db14y7r14k7db14r6~x2/sett.png" alt="Gloucester County Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

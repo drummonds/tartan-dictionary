@@ -12,10 +12,10 @@ crumbs:
 - name: "Drummond of Perth, dress"
   url: "/tartans/d/dr/drummond-of-perth-dress-5/"
 - name: "Drummond of Perth, dress"
-  url: "/setts/r67y3b6dg3w25r10b6dg7w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r67y3b6dg3w25r10b6dg7w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/dr/drummond-of-perth-dress-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGWRBGW](/stripes/rgbgwrbgw/).
 
 Part of the [Drummond of Perth, dress](/tartans/d/dr/drummond-of-perth-dress-5/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k24w1r6k21y2k24g1~x2/">Gourlay, George (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><img src="/variants/s7/k24w1r6k21y2k24g1~x2/sett.png" alt="Gourlay, George (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gourlay-george/">Gourlay, George</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gourlay-george/"><img src="/variants/s7/k24w1r6k21y2k24g1~x2/sett.png" alt="Gourlay, George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

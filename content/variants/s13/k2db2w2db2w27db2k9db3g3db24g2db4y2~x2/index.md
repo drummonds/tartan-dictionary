@@ -10,10 +10,10 @@ crumbs:
 - name: "Yarrow Turquoise Dress"
   url: "/tartans/y/ya/yarrow-turquoise-dress/"
 - name: "Yarrow Turquoise Dress Tartan"
-  url: "/setts/k2db2w2db2w27db2k9db3g3db24g2db4y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2db2w2db2w27db2k9db3g3db24g2db4y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/ya/yarrow-turquoise-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBKBWBWBK](/stripes/gbgbgbkbwbwbk/).
 
 Part of the [Yarrow Turquoise Dress](/tartans/y/ya/yarrow-turquoise-dress/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w2r5db4g8db40r5w2r5db4g8db4r5w2~x2/">Yamaue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w2r5db4g8db40r5w2r5db4g8db4r5w2~x2/"><img src="/variants/s13/w2r5db4g8db40r5w2r5db4g8db4r5w2~x2/sett.png" alt="Yamaue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/ya/yamaue/">Yamaue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ya/yamaue/"><img src="/variants/s13/w2r5db4g8db40r5w2r5db4g8db4r5w2~x2/sett.png" alt="Yamaue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k7w3k7w45r3w3r3~x2/">White Stripes (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k7w3k7w45r3w3r3~x2/"><img src="/variants/s7/k7w3k7w45r3w3r3~x2/sett.png" alt="White Stripes (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wh/white-stripes/">White Stripes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wh/white-stripes/"><img src="/variants/s7/k7w3k7w45r3w3r3~x2/sett.png" alt="White Stripes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,15 +10,15 @@ crumbs:
 - name: "Hebridean Arisaid"
   url: "/tartans/h/he/hebridean-arisaid/"
 - name: "Hebridean Arisaid Red (Dance)"
-  url: "/setts/w37k4db12g12w2lr2r23k4r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w37k4db12g12w2lr2r23k4r6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRYWGBKWKBGWYRKR](/stripes/krywgbkwkbgwyrkr/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebridean-arisaid/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKRYWGBKW](/stripes/rkrywgbkw/).
 
 Part of the [Hebridean Arisaid](/tartans/h/he/hebridean-arisaid/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1651](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1651)
 
@@ -46,9 +46,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6557
 
 ## Thread count
-R/12 K8 R46 LR4 W4 G24 DB24 K8 W74 K8 DB24 G24 W4 LR4 R46 K/8
+W/74 K8 DB24 G24 W4 LR4 R46 K8 R/12
 
-One full sett is **624 threads**.
+One full sett is **322 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/12 K8 R46 LR4 W4 G24 DB24 K8 W74 K8 DB24 G24 W4 LR4 R46 K/8 — 624 threads; it folds to the canonical 322-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -57,7 +59,7 @@ One full sett is **624 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/12 K8 R46 LR4 W4 G24 DB24 K8 W74 K8 DB24 G24 W4 LR4 R46 K/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/74 K8 DB24 G24 W4 LR4 R46 K8 R/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

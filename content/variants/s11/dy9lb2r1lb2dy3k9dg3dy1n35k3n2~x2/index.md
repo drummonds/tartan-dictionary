@@ -8,10 +8,10 @@ crumbs:
 - name: "Donohoe Grey, Peter"
   url: "/tartans/d/do/donohoe-grey-peter/"
 - name: "Donohoe Grey, Peter"
-  url: "/setts/dy9lb2r1lb2dy3k9dg3dy1n35k3n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy9lb2r1lb2dy3k9dg3dy1n35k3n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/donohoe-grey-peter/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGGKGWRWG](/stripes/bkbggkgwrwg/).
 
 Part of the [Donohoe Grey, Peter](/tartans/d/do/donohoe-grey-peter/) tartan — the named design grouping this sett with its other cloths.

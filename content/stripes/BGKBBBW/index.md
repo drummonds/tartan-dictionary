@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dp4g23k22p3db22dp1w2~x2/">Fettes College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp4g23k22p3db22dp1w2~x2/"><img src="/variants/s7/dp4g23k22p3db22dp1w2~x2/sett.png" alt="Fettes College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fettes-college/">Fettes College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fettes-college/"><img src="/variants/s7/dp4g23k22p3db22dp1w2~x2/sett.png" alt="Fettes College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

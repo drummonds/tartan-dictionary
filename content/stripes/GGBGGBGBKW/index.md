@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g28dg6db4dg6g5dp4g5db11k1w2~x2/">Camenisch Enveglan Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g28dg6db4dg6g5dp4g5db11k1w2~x2/"><img src="/variants/s10/g28dg6db4dg6g5dp4g5db11k1w2~x2/sett.png" alt="Camenisch Enveglan Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/camenisch-enveglan/">Camenisch Enveglan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/camenisch-enveglan/"><img src="/variants/s10/g28dg6db4dg6g5dp4g5db11k1w2~x2/sett.png" alt="Camenisch Enveglan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

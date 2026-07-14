@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Tilt"
   url: "/tartans/g/gl/glen-tilt/"
 - name: "Glen Tilt #1"
-  url: "/setts/lb1dr1g1dr11db6dr1g14dr1g1lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb1dr1g1dr11db6dr1g14dr1g1lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-tilt/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBBBGBGW](/stripes/wbgbbbgbgw/).
 
 Part of the [Glen Tilt](/tartans/g/gl/glen-tilt/) tartan — the named design grouping this sett with its other cloths.

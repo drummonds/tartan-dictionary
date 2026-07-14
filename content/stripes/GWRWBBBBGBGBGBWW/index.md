@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/g4w2r2lb3db3do2db2do2g2do2g3do2g8do6w8lb2~x2/">Missouri Dress (Proposed) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/g4w2r2lb3db3do2db2do2g2do2g3do2g8do6w8lb2~x2/"><img src="/variants/s16/g4w2r2lb3db3do2db2do2g2do2g3do2g8do6w8lb2~x2/sett.png" alt="Missouri Dress (Proposed) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/missouri-dress/">Missouri Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/missouri-dress/"><img src="/variants/s16/g4w2r2lb3db3do2db2do2g2do2g3do2g8do6w8lb2~x2/sett.png" alt="Missouri Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

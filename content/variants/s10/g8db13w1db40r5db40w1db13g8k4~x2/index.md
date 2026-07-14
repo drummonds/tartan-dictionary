@@ -8,10 +8,10 @@ crumbs:
 - name: "London Scottish Rugby Club Corporate Sport"
   url: "/tartans/l/lo/london-scottish-rugby-club-corporate-sport/"
 - name: "London Scottish Rugby Club Corporate Sport Tartan"
-  url: "/setts/g8db13w1db40r5db40w1db13g8k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8db13w1db40r5db40w1db13g8k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/london-scottish-rugby-club-corporate-sport/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBRBWBGK](/stripes/gbwbrbwbgk/).
 
 Part of the [London Scottish Rugby Club Corporate Sport](/tartans/l/lo/london-scottish-rugby-club-corporate-sport/) tartan — the named design grouping this sett with its other cloths.

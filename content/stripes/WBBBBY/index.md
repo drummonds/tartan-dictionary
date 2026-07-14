@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lg3db1b16db16b2lb2~x4/">U.S.S. John Paul Jones #1</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lg3db1b16db16b2lb2~x4/"><img src="/variants/s6/lg3db1b16db16b2lb2~x4/sett.png" alt="U.S.S. John Paul Jones #1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/u/u-s-s-john-paul-jones-2/">U.S.S. John Paul Jones</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-s-john-paul-jones-2/"><img src="/variants/s6/lg3db1b16db16b2lb2~x4/sett.png" alt="U.S.S. John Paul Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

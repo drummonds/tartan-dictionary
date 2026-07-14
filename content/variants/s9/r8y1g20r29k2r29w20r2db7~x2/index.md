@@ -8,10 +8,10 @@ crumbs:
 - name: "Unidentified Travelling costume"
   url: "/tartans/u/un/unidentified-travelling-costume/"
 - name: "Unidentified Travelling costume"
-  url: "/setts/r8y1g20r29k2r29w20r2db7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8y1g20r29k2r29w20r2db7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-travelling-costume/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRKRGGR](/stripes/brwrkrggr/).
 
 Part of the [Unidentified Travelling costume](/tartans/u/un/unidentified-travelling-costume/) tartan — the named design grouping this sett with its other cloths.

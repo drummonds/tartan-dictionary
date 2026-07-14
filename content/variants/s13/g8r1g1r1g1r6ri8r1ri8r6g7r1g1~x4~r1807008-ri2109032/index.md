@@ -11,11 +11,11 @@ crumbs:
   url: "/families/macnab/"
 - name: "MacNab 3"
   url: "/tartans/m/ma/macnab-3/"
-- name: "MacNab 3"
-  url: "/setts/g8r1g1r1g1r6ri8r1ri8r6g7r1g1/"
+- name: "MacNab (Logan)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8r1g1r1g1r6ri8r1ri8r6g7r1g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macnab-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRRRRRGRG](/stripes/grgrgrrrrrgrg/).
 
 Part of the [MacNab 3](/tartans/m/ma/macnab-3/) tartan — the named design grouping this sett with its other cloths.

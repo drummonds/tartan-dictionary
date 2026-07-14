@@ -12,10 +12,10 @@ crumbs:
 - name: "Hanna of Stirlingshire"
   url: "/tartans/h/ha/hanna-of-stirlingshire-2/"
 - name: "Hanna of Stirlingshire"
-  url: "/setts/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hanna-of-stirlingshire-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKYKYKBYBKYKYKYK](/stripes/bkykykykbybkykykyk/).
 
 Part of the [Hanna of Stirlingshire](/tartans/h/ha/hanna-of-stirlingshire-2/) tartan — the named design grouping this sett with its other cloths.

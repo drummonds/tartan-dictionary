@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/morris/"
 - name: "Morris of Eddergoll"
   url: "/families/morris-of-eddergoll/"
+aliases:
+- "/setts/w2db20r3k10g20lo2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbrkgy/">WBRKGY</a></nav>
 A tartan of the [Morris of Eddergoll](/families/morris-of-eddergoll/) family.
 Its design is pattern [WBRKGY](/stripes/wbrkgy/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Morris of Eddergoll** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2db20r3k10g20lo2/">Morris of Eddergoll</a></td><td><code>LO/4 G40 K20 R6 DB40 W/4</code></td><td>220</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2db20r3k10g20lo2/"><img src="/variants/s6/w2db20r3k10g20lo2~x2/sett.png" alt="Morris of Eddergoll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w2db20r3k10g20lo2~x2/">Morris of Eddergoll</a></td><td><code>W/4 DB40 R6 K20 G40 LO/4</code></td><td>220</td><td>1989</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><img src="/variants/s6/w2db20r3k10g20lo2~x2/sett.png" alt="Morris of Eddergoll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="86.4" cy="169.9" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="142.6" cy="140.8" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="162.1" cy="168.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="131.7" cy="170.2" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="123.4" cy="170.2" r="4" fill="#3465a4"><title>Turnbull of Thornton</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="191.3" cy="196.4" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="123.1" cy="170.5" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="142.9" cy="196.1" r="4" fill="#3465a4"><title>Royal College of Physicians</title></circle></a><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="115.9" cy="189.8" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="76.9" cy="170.2" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass.</title></circle></a><circle cx="114.1" cy="170.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="86.6" cy="169.6" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="143.1" cy="140.5" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="162.5" cy="168.5" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="132.0" cy="170.0" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="123.7" cy="169.9" r="4" fill="#3465a4"><title>Turnbull of Thornton</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="191.7" cy="196.2" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="123.4" cy="170.3" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="143.2" cy="196.0" r="4" fill="#3465a4"><title>Royal College of Physicians</title></circle></a><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="116.2" cy="189.6" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="77.1" cy="169.9" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass.</title></circle></a><circle cx="114.4" cy="169.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

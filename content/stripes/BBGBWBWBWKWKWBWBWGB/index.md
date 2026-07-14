@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2~x2/">Metcalf (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2~x2/"><img src="/variants/s19/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2~x2/sett.png" alt="Metcalf (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/metcalf/">Metcalf</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/metcalf/"><img src="/variants/s19/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2~x2/sett.png" alt="Metcalf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

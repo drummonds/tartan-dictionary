@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/">McNair (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/"><img src="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/sett.png" alt="McNair (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcnair/">McNair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcnair/"><img src="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/sett.png" alt="McNair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

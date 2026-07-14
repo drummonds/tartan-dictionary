@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db2r1dg26ly1k18db26y1r1db2/">Robb Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db2r1dg26ly1k18db26y1r1db2/"><img src="/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2/sett.png" alt="Robb Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robb/">Robb</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robb/"><img src="/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2/sett.png" alt="Robb sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

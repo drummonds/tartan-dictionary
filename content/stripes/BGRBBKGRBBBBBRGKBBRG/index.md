@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4~x2~db1406275-t2405244/">Coopers &amp; Lybrand Corporate Commem. Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4~x2~db1406275-t2405244/"><img src="/variants/s20/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4~x2~db1406275-t2405244/sett.png" alt="Coopers &amp; Lybrand Corporate Commem. Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coopers-lybrand-corporate-commem/">Coopers &amp; Lybrand Corporate Commem.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coopers-lybrand-corporate-commem/"><img src="/variants/s20/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4~x2~db1406275-t2405244/sett.png" alt="Coopers &amp; Lybrand Corporate Commem. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

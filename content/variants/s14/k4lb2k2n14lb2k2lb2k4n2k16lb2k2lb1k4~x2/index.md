@@ -12,10 +12,10 @@ crumbs:
 - name: "Drummond"
   url: "/tartans/d/dr/drummond-9/"
 - name: "Drummond (Grey) Clan Tartan"
-  url: "/setts/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/dr/drummond-9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKBWKWKBKWKWK](/stripes/kwkbwkwkbkwkwk/).
 
 Part of the [Drummond](/tartans/d/dr/drummond-9/) tartan — the named design grouping this sett with its other cloths.

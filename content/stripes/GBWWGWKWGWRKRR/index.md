@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/">Dundee Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/"><img src="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/sett.png" alt="Dundee Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10/">Dundee, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10/"><img src="/variants/s14/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10~x2~ri2008029-r1707016/sett.png" alt="Dundee, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dundee-dress/">Dundee Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dundee-dress/"><img src="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/sett.png" alt="Dundee Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

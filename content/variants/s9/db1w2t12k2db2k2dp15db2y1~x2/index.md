@@ -12,10 +12,10 @@ crumbs:
 - name: "Hek"
   url: "/tartans/h/he/hek/"
 - name: "Hek Family (Sunningdale, Berwick on Tweed)"
-  url: "/setts/db1w2t12k2db2k2dp15db2y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1w2t12k2db2k2dp15db2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hek/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKBBG](/stripes/bwbkbkbbg/).
 
 Part of the [Hek](/tartans/h/he/hek/) tartan — the named design grouping this sett with its other cloths.

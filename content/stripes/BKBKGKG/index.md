@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db48k6db10k46y4k22g43/">Mowat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db48k6db10k46y4k22g43/"><img src="/variants/s7/db48k6db10k46y4k22g43/sett.png" alt="Mowat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db24k3db5k23y2k11g22~x2/">Mowat (Clans Originaux)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db24k3db5k23y2k11g22~x2/"><img src="/variants/s7/db24k3db5k23y2k11g22~x2/sett.png" alt="Mowat (Clans Originaux) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/mowat-2/">Mowat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/mowat-2/"><img src="/variants/s7/db48k6db10k46y4k22g43/sett.png" alt="Mowat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "O'Shaughnessy Memorial"
   url: "/tartans/o/o/o-shaughnessy-memorial/"
 - name: "O'Shaughnessy Memorial"
-  url: "/setts/db57lb3k9ly2k2w3k2g10db6k2db2r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db57lb3k9ly2k2w3k2g10db6k2db2r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-shaughnessy-memorial/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKYKWKGBKBR](/stripes/bwkykwkgbkbr/).
 
 Part of the [O'Shaughnessy Memorial](/tartans/o/o/o-shaughnessy-memorial/) tartan — the named design grouping this sett with its other cloths.

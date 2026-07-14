@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/">Labrador Club of Scotland (Corporate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/"><img src="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/sett.png" alt="Labrador Club of Scotland (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/labrador-club-of-scotland-corporate/">Labrador Club of Scotland (Corporate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/labrador-club-of-scotland-corporate/"><img src="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/sett.png" alt="Labrador Club of Scotland (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

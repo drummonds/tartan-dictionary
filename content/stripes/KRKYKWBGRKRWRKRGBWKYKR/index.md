@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4~dg1605139/">Stewart/Stuart of Galloway (VS)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4~dg1605139/"><img src="/variants/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4~dg1605139/sett.png" alt="Stewart/Stuart of Galloway (VS) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-stuart-of-galloway-2/">Stewart/Stuart of Galloway</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-stuart-of-galloway-2/"><img src="/variants/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4~dg1605139/sett.png" alt="Stewart/Stuart of Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

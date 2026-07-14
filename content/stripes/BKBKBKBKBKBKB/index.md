@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/">MacDevitt (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/"><img src="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/sett.png" alt="MacDevitt (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x4/">Wine Watch (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x4/"><img src="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x4/sett.png" alt="Wine Watch (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdevitt/">MacDevitt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdevitt/"><img src="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/sett.png" alt="MacDevitt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wine-watch/">Wine Watch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wine-watch/"><img src="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x2~db1406275/sett.png" alt="Wine Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/">Glasgow Academy Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/"><img src="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/sett.png" alt="Glasgow Academy Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow-academy/">Glasgow Academy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-academy/"><img src="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/sett.png" alt="Glasgow Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

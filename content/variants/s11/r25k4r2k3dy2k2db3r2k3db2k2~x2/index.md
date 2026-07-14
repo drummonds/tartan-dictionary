@@ -8,10 +8,10 @@ crumbs:
 - name: "Glennie, The Rhythms of Evelyn"
   url: "/tartans/g/gl/glennie-the-rhythms-of-evelyn/"
 - name: "Glennie, The Rhythms of Evelyn"
-  url: "/setts/r25k4r2k3dy2k2db3r2k3db2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r25k4r2k3dy2k2db3r2k3db2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glennie-the-rhythms-of-evelyn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRBKGKRKR](/stripes/kbkrbkgkrkr/).
 
 Part of the [Glennie, The Rhythms of Evelyn](/tartans/g/gl/glennie-the-rhythms-of-evelyn/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1432](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/1998 — Glennie, The Rhythms of Evelyn (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1432">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>This is a stage tartan created by Evelyn Glennie with Betty Davies of Scottish Fashions International. Evelyn Glennie is a world renowned percussionist, though she is profoundly deaf.</em></li>
-<li>Nov. 1999 — Glennie, The Rhythms of Evelyn (Corp (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2586">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>'Charity tartan' created by Evelyn Glennie OBE (the profoundly deaf percussionist) and Betty Davis from Scottish Fashions International.</em></li>
+<li>Nov. 1999 — Glennie, The Rhythms of Evelyn (Corp (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2586/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>'Charity tartan' created by Evelyn Glennie OBE (the profoundly deaf percussionist) and Betty Davis from Scottish Fashions International.</em></li>
 </ul>
 </details>
 

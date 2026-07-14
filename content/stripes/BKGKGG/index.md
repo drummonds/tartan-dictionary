@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db2k6g2k6dg12y1/">Leahy (Australia) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db2k6g2k6dg12y1/"><img src="/variants/s6/db2k6g2k6dg12y1~x4/sett.png" alt="Leahy (Australia) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leahy/">Leahy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leahy/"><img src="/variants/s6/db2k6g2k6dg12y1~x4/sett.png" alt="Leahy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

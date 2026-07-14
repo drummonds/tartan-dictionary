@@ -12,10 +12,10 @@ crumbs:
 - name: "Fraser of Altyre"
   url: "/tartans/f/fr/fraser-of-altyre/"
 - name: "Fraser of Altyre"
-  url: "/setts/r4db2r45db2r2db40r4db4r2db2r2dg40r2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4db2r45db2r2db40r4db4r2db2r2dg40r2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraser-of-altyre/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRBRBRBRBR](/stripes/brgrbrbrbrbrbr/).
 
 Part of the [Fraser of Altyre](/tartans/f/fr/fraser-of-altyre/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1262](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1830 — Fraser of Altyre (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1262">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><br><em>Said by Scottish Tartans Society to be a proportional count of a silk sample from Andersons (now Kinloch Anderson). MacGregor-Hastie aged it about 1850 on the basis of an old lady (c.1938) who said that a kilt of this patterns had been in the family for about 100 years. Silk sample in Scottish Tartans Authority Collection. House of Edgar weave omits a blue line (the Blue8).</em></li>
-<li>1830 — Fraser of Altyre (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><br><em>Said by Scottish Tartans Society to be a proportional count of a silk sample from Andersons (now Kinloch Anderson). MacGregor-Hastie aged it about 1850 on the basis of an old lady (c.1938) who said that a kilt of this patterns had been in the family for about 100 years. Silk sample in STA Collection. House of Edgar weave omits a blue line (the Blue8).</em></li>
+<li>1830 — Fraser of Altyre (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/528/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><br><em>Said by Scottish Tartans Society to be a proportional count of a silk sample from Andersons (now Kinloch Anderson). MacGregor-Hastie aged it about 1850 on the basis of an old lady (c.1938) who said that a kilt of this patterns had been in the family for about 100 years. Silk sample in STA Collection. House of Edgar weave omits a blue line (the Blue8).</em></li>
 </ul>
 </details>
 

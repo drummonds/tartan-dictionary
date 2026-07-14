@@ -12,10 +12,10 @@ crumbs:
 - name: "Fettes"
   url: "/tartans/f/fe/fettes/"
 - name: "Fettes (Personal)"
-  url: "/setts/k50db3p2r3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k50db3p2r3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/fettes/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBRW](/stripes/kbbrw/).
 
 Part of the [Fettes](/tartans/f/fe/fettes/) tartan — the named design grouping this sett with its other cloths.

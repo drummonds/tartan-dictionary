@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/">Bartlett from Winnetka, Illinois</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/"><img src="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/sett.png" alt="Bartlett from Winnetka, Illinois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bartlett-from-winnetka-illinois/">Bartlett from Winnetka, Illinois</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bartlett-from-winnetka-illinois/"><img src="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/sett.png" alt="Bartlett from Winnetka, Illinois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,13 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/">Burnett of Leys Htg (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/"><img src="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/sett.png" alt="Burnett of Leys Htg (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/">Burnett of Leys Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/"><img src="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/sett.png" alt="Burnett of Leys Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/o96db8o8w3o8g3o8r3~x2/">Burnett, of Leys hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/o96db8o8w3o8g3o8r3~x2/"><img src="/variants/s8/o96db8o8w3o8g3o8r3~x2/sett.png" alt="Burnett, of Leys hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burnett-of-leys-hunting-2/">Burnett of Leys Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burnett-of-leys-hunting-2/"><img src="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/sett.png" alt="Burnett of Leys Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

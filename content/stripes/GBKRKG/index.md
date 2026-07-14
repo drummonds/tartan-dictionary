@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g27db12k12r9k1y2~x2/">Ferguson, Jeffrey S (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g27db12k12r9k1y2~x2/"><img src="/variants/s6/g27db12k12r9k1y2~x2/sett.png" alt="Ferguson, Jeffrey S (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-jeffrey-s/">Ferguson, Jeffrey S</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-jeffrey-s/"><img src="/variants/s6/g27db12k12r9k1y2~x2/sett.png" alt="Ferguson, Jeffrey S sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

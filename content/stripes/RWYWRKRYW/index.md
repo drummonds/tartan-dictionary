@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r12w2ly3w2r3k5r2ly18w2~x2/">Ballater Trade or 'Fancy' Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r12w2ly3w2r3k5r2ly18w2~x2/"><img src="/variants/s9/r12w2ly3w2r3k5r2ly18w2~x2/sett.png" alt="Ballater Trade or 'Fancy' Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/ballater-trade-or-fancy/">Ballater Trade or 'Fancy'</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/ballater-trade-or-fancy/"><img src="/variants/s9/r12w2ly3w2r3k5r2ly18w2~x2/sett.png" alt="Ballater Trade or 'Fancy' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

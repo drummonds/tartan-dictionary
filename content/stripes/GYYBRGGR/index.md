@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/">Tartan Army Whisky</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/"><img src="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/sett.png" alt="Tartan Army Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tartan-army-whisky/">Tartan Army Whisky</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-army-whisky/"><img src="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/sett.png" alt="Tartan Army Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

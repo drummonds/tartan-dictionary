@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/">Inverness Caledonian Thistle Football Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><img src="/variants/s8/k21db3k12r2db12k2db12w2~x2/sett.png" alt="Inverness Caledonian Thistle Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inverness-caledonian-thistle-football-club/">Inverness Caledonian Thistle Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inverness-caledonian-thistle-football-club/"><img src="/variants/s8/k21db3k12r2db12k2db12w2~x2/sett.png" alt="Inverness Caledonian Thistle Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

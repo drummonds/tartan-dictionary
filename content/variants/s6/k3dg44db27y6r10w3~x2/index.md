@@ -8,10 +8,10 @@ crumbs:
 - name: "Official Glasgow 2014, The"
   url: "/tartans/o/of/official-glasgow-2014-the/"
 - name: "Official Glasgow 2014, The"
-  url: "/setts/k3dg44db27y6r10w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3dg44db27y6r10w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/of/official-glasgow-2014-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBGRW](/stripes/kgbgrw/).
 
 Part of the [Official Glasgow 2014, The](/tartans/o/of/official-glasgow-2014-the/) tartan — the named design grouping this sett with its other cloths.

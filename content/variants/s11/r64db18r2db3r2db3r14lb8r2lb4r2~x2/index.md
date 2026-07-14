@@ -12,10 +12,10 @@ crumbs:
 - name: "Bennet"
   url: "/tartans/b/be/bennet/"
 - name: "Bennet"
-  url: "/setts/r64db18r2db3r2db3r14lb8r2lb4r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r64db18r2db3r2db3r14lb8r2lb4r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/bennet/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRWRWR](/stripes/rbrbrbrwrwr/).
 
 Part of the [Bennet](/tartans/b/be/bennet/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4949](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>Before 2002 — Bennet (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4949">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>Design very similar to Bennet Dress with the white/grey ground replaced with red (crimson). Reported by Fraser & Kirkbright in September 2002 to have been made for Aljean.</em></li>
-<li>pre 2002 — Bennet (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3680">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>This is Bennet Dress with the white/grey ground replaced with red. (Crimson). Fraser & Kirkbright say (Sept 2002) it was made for Aljean. Aljean - women's clothes retailer in Vancouver Canada traded under Aljean name from 1950-2012.</em></li>
+<li>pre 2002 — Bennet (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3680/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>This is Bennet Dress with the white/grey ground replaced with red. (Crimson). Fraser & Kirkbright say (Sept 2002) it was made for Aljean. Aljean - women's clothes retailer in Vancouver Canada traded under Aljean name from 1950-2012.</em></li>
 </ul>
 </details>
 

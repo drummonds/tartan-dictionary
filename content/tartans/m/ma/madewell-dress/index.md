@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/madewell/"
 - name: "Madewell"
   url: "/families/madewell/"
+aliases:
+- "/setts/r2k2w16dg13g6y2k2w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkwgggkw/">RKWGGGKW</a></nav>
 A tartan of the [Madewell](/families/madewell/) family.
 Its design is pattern [RKWGGGKW](/stripes/rkwgggkw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Madewell Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2k2w16dg13g6y2k2w2/">Madewell Dress</a></td><td><code>R/4 K4 W32 DG26 G12 Y4 K4 W/4</code></td><td>172</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2k2w16dg13g6y2k2w2/"><img src="/variants/s8/r2k2w16dg13g6y2k2w2~x2/sett.png" alt="Madewell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/">Madewell Dress</a></td><td><code>R/4 K4 W32 DG26 G12 Y4 K4 W/4</code></td><td>172</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><img src="/variants/s8/r2k2w16dg13g6y2k2w2~x2/sett.png" alt="Madewell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="123.2" cy="177.1" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.4" cy="137.2" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.8" cy="169.0" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="123.0" cy="163.1" r="4" fill="#3465a4"><title>Cornish Christophers</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="56.6" cy="166.3" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s9/k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019/"><circle cx="103.6" cy="148.7" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.6" cy="131.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="145.1" cy="127.2" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="60.9" cy="181.0" r="4" fill="#3465a4"><title>South Africa 1994</title></circle></a><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/"><circle cx="105.1" cy="144.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><circle cx="99.6" cy="152.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="123.4" cy="176.8" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.6" cy="136.8" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="135.0" cy="168.7" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="123.4" cy="162.8" r="4" fill="#3465a4"><title>Cornish Christophers</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="56.8" cy="165.9" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s9/k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019/"><circle cx="103.8" cy="148.3" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.9" cy="131.6" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="145.5" cy="126.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="61.0" cy="180.6" r="4" fill="#3465a4"><title>South Africa 1994</title></circle></a><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/"><circle cx="105.4" cy="143.6" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><circle cx="99.9" cy="152.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

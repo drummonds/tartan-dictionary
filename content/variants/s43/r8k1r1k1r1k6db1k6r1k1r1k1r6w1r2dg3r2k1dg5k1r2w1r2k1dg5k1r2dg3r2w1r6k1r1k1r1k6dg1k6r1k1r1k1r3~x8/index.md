@@ -12,10 +12,10 @@ crumbs:
 - name: "Innes of Raemoir and Cowie"
   url: "/tartans/i/in/innes-of-raemoir-and-cowie/"
 - name: "Innes of Raemoir and Cowie"
-  url: "/setts/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/innes-of-raemoir-and-cowie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRKBKRKRKRWRGRKGKRWRKGKRGRWRKRKRKGKRKRKR](/stripes/rkrkrkbkrkrkrwrgrkgkrwrkgkrgrwrkrkrkgkrkrkr/).
 
 Part of the [Innes of Raemoir and Cowie](/tartans/i/in/innes-of-raemoir-and-cowie/) tartan — the named design grouping this sett with its other cloths.

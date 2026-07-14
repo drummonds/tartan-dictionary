@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3r11db3w1db3w1~x4/">Suntan (Masai Shuka) (District?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3r11db3w1db3w1~x4/"><img src="/variants/s6/k3r11db3w1db3w1~x4/sett.png" alt="Suntan (Masai Shuka) (District?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/suntan/">Suntan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/suntan/"><img src="/variants/s6/k3r11db3w1db3w1~x4/sett.png" alt="Suntan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

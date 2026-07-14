@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/">Bristol Gramar School Check (School)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/"><img src="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/sett.png" alt="Bristol Gramar School Check (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bristol-gramar-school-check/">Bristol Gramar School Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bristol-gramar-school-check/"><img src="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/sett.png" alt="Bristol Gramar School Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,15 +10,15 @@ crumbs:
 - name: "Shepherd or Falkirk"
   url: "/tartans/s/sh/shepherd-or-falkirk/"
 - name: "Shepherd or Falkirk"
-  url: "/setts/k1lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1lb1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKW](/stripes/kwkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shepherd-or-falkirk/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KW](/stripes/kw/).
 
 Part of the [Shepherd or Falkirk](/tartans/s/sh/shepherd-or-falkirk/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3781](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3781)
 
@@ -54,9 +54,11 @@ Setts a curator has related to this one.
 - **parent-of**: [Haig Check](/setts/k1w1k1w1t1/) — Haig is one of the Border district checks built on the Shepherd's Check.
 
 ## Thread count
-K/6 LB6 K6 LB/6
+K/6 LB/6
 
-One full sett is **36 threads**.
+One full sett is **12 threads**.
+
+<p class="recorded-note">The source recorded this cloth as 3 repeats of its sett — K/6 LB6 K6 LB/6 — 36 threads in all.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **36 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 LB6 K6 LB/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 LB/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

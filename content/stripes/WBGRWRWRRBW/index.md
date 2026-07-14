@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/">Stuart / Stewart, Riding Cloak</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/"><img src="/variants/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/sett.png" alt="Stuart / Stewart, Riding Cloak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stuart-stewart-riding-cloak/">Stuart / Stewart, Riding Cloak</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stuart-stewart-riding-cloak/"><img src="/variants/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/sett.png" alt="Stuart / Stewart, Riding Cloak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

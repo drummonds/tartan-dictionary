@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/do14db14do14db40do3db2~x2/">Atlin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/do14db14do14db40do3db2~x2/"><img src="/variants/s6/do14db14do14db40do3db2~x2/sett.png" alt="Atlin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/at/atlin-2/">Atlin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/at/atlin-2/"><img src="/variants/s6/do14db14do14db40do3db2~x2/sett.png" alt="Atlin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/">Mary Erskine School, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/"><img src="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/sett.png" alt="Mary Erskine School, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mary-erskin/">Mary Erskin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mary-erskin/"><img src="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/sett.png" alt="Mary Erskin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

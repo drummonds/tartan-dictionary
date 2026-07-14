@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/">Ataç, H.M. &amp; I.C. (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/"><img src="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/sett.png" alt="Ataç, H.M. &amp; I.C. (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/at/ata-h-m-i-c/">Ataç, H.M. &amp; I.C.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/at/ata-h-m-i-c/"><img src="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/sett.png" alt="Ataç, H.M. &amp; I.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

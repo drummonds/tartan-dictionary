@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified"
-  url: "/tartans/u/un/unidentified-43/"
+  url: "/tartans/u/un/unidentified-74/"
 - name: "Norwich No.056"
-  url: "/setts/r5db1r5g13db8lb5r5w1db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5db1r5g13db8lb5r5w1db3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRGBWRWBWRWBGRBR](/stripes/brgbwrwbwrwbgrbr/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-74/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRWBGRBR](/stripes/bwrwbgrbr/).
 
-Part of the [Unidentified](/tartans/u/un/unidentified-43/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified](/tartans/u/un/unidentified-74/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3187](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3187)
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 654
 
 ## Thread count
-R/10 DB2 R10 G26 DB16 LB10 R10 W2 DB6 W2 R10 LB10 DB16 G26 R10 DB/2
+R/10 DB2 R10 G26 DB16 LB10 R10 W2 DB/6
 
-One full sett is **324 threads**.
+One full sett is **168 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/10 DB2 R10 G26 DB16 LB10 R10 W2 DB6 W2 R10 LB10 DB16 G26 R10 DB/2 — 324 threads; it folds to the canonical 168-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **324 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/10 DB2 R10 G26 DB16 LB10 R10 W2 DB6 W2 R10 LB10 DB16 G26 R10 DB/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/10 DB2 R10 G26 DB16 LB10 R10 W2 DB/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

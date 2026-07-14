@@ -10,10 +10,10 @@ crumbs:
 - name: "Brodie Silver"
   url: "/tartans/b/br/brodie-silver/"
 - name: "Brodie Silver Clan Tartan"
-  url: "/setts/r3n20y2n20o20lb20r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3n20y2n20o20lb20r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brodie-silver/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBRWR](/stripes/rbgbrwr/).
 
 Part of the [Brodie Silver](/tartans/b/br/brodie-silver/) tartan — the named design grouping this sett with its other cloths.

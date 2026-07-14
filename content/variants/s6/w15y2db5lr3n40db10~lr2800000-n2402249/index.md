@@ -12,17 +12,17 @@ crumbs:
 - name: "Herriot"
   url: "/tartans/h/he/herriot-2/"
 - name: "Herriot (New Zealand) (Name)"
-  url: "/setts/w15y2db5lr3n40db10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w15y2db5lr3n40db10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/herriot-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBGW](/stripes/bbybgw/).
 
 Part of the [Herriot](/tartans/h/he/herriot-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10128](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10128)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/10128/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10128/*)
 
 ## Provenance
 
@@ -31,7 +31,7 @@ Earliest known date: 4th January 2010 A tartan for the use of all those who spel
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>4th January 2010 — Herriot (New Zealand) (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10128">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#64809C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #64809C"></span><br><em>A tartan for the use of all those who spell their surname as Herriot, a variant spelling of Heriot.</em></li>
+<li>4th January 2010 — Herriot (New Zealand) (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10128/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#64809C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #64809C"></span><br><em>A tartan for the use of all those who spell their surname as Herriot, a variant spelling of Heriot.</em></li>
 <li>undated — Herriot Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10128">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#64809C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #64809C"></span></li>
 </ul>
 </details>
@@ -46,7 +46,7 @@ Earliest known date: 4th January 2010 A tartan for the use of all those who spel
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

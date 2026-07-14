@@ -8,10 +8,10 @@ crumbs:
 - name: "Chindecella Ruadh"
   url: "/tartans/c/ch/chindecella-ruadh/"
 - name: "Chindecella Ruadh (Kemete Heil)"
-  url: "/setts/dr9db4dr4db4dr24n19db19n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr9db4dr4db4dr24n19db19n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chindecella-ruadh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBB](/stripes/bbbbbbbb/).
 
 Part of the [Chindecella Ruadh](/tartans/c/ch/chindecella-ruadh/) tartan — the named design grouping this sett with its other cloths.

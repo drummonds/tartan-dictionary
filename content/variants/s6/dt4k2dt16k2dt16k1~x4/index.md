@@ -8,10 +8,10 @@ crumbs:
 - name: "Ben Dubh"
   url: "/tartans/b/be/ben-dubh/"
 - name: "Ben Dubh (The Black Mount)"
-  url: "/setts/dt4k2dt16k2dt16k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt4k2dt16k2dt16k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/ben-dubh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
 Part of the [Ben Dubh](/tartans/b/be/ben-dubh/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/">Moskova</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/"><img src="/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/sett.png" alt="Moskova sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moskova/">Moskova</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moskova/"><img src="/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/sett.png" alt="Moskova sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

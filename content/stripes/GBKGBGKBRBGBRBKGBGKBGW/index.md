@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/g8db16k5y2dp1y2k5db7r2db7g16db7r2db7k5y2dp1y2k5db16g8w1~x2/">Waipu</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/g8db16k5y2dp1y2k5db7r2db7g16db7r2db7k5y2dp1y2k5db16g8w1~x2/"><img src="/variants/s22/g8db16k5y2dp1y2k5db7r2db7g16db7r2db7k5y2dp1y2k5db16g8w1~x2/sett.png" alt="Waipu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/waipu-2/">Waipu</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/waipu-2/"><img src="/variants/s22/g8db16k5y2dp1y2k5db7r2db7g16db7r2db7k5y2dp1y2k5db16g8w1~x2/sett.png" alt="Waipu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

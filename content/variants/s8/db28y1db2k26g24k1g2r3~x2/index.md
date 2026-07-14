@@ -12,15 +12,15 @@ crumbs:
 - name: "Ogilvie of Inverarity"
   url: "/tartans/o/og/ogilvie-of-inverarity/"
 - name: "Ogilvie of Inverarity (V.S.)"
-  url: "/setts/db28y1db2k26g24k1g2r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db28y1db2k26g24k1g2r3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBKGKGRGKGKBG](/stripes/bgbkgkgrgkgkbg/).
+provenance below. It is one weaving of the [sett](/tartans/o/og/ogilvie-of-inverarity/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBKGKGR](/stripes/bgbkgkgr/).
 
 Part of the [Ogilvie of Inverarity](/tartans/o/og/ogilvie-of-inverarity/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3232](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3232)
 
@@ -32,7 +32,7 @@ Earliest known date: 1842 Adam No 97. The Setts No: 209.
 <summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1842 — Ogilvie of Inverarity (V.S.) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3232">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This is Ogilvie (no terrirotial suffix of Inverarity) as included in Vestiarium Scoticum. According to D.C. Stewart, the text in the VS allows the yellow to touch the black but the illustration in V.S. shows them separate as seen here I(and as checked by Brian Wilton - June 2006). This seems to have become Ogilvie Hunting but see also this sett in different shades at ITI 6082 which is reserved for the Ogilvie family only.</em></li>
-<li>1842 — Ogilvie of Inverarity - 1842 (V.S.) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=666">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This is Ogilvie (no territorial suffix of Inverarity) as included in Vestiarium Scoticum. According to D.C.Stewart, the text in the VS allows the yellow to touch the black but the illustration in V.S. shows them separate as seen here I(and as checked by BW June 2006). This seems to have become Ogilvie Hunting but see also this sett in different shades at ITI 6082 which is reserved for the Ogilvie family only.</em></li>
+<li>1842 — Ogilvie of Inverarity - 1842 (V.S.) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/666/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This is Ogilvie (no territorial suffix of Inverarity) as included in Vestiarium Scoticum. According to D.C.Stewart, the text in the VS allows the yellow to touch the black but the illustration in V.S. shows them separate as seen here I(and as checked by BW June 2006). This seems to have become Ogilvie Hunting but see also this sett in different shades at ITI 6082 which is reserved for the Ogilvie family only.</em></li>
 <li>1842 — Ogilvie of Inverquharity Clan Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=666">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
 <li>undated — Ogilvie, of Inverquharity (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #F0C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span></li>
 </ul>
@@ -63,9 +63,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 666
 
 ## Thread count
-DB/56 Y2 DB4 K52 G48 K2 G4 R6 G4 K2 G48 K52 DB4 Y/2
+DB/56 Y2 DB4 K52 G48 K2 G4 R/6
 
-One full sett is **514 threads**.
+One full sett is **286 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/56 Y2 DB4 K52 G48 K2 G4 R6 G4 K2 G48 K52 DB4 Y/2 — 514 threads; it folds to the canonical 286-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -74,7 +76,7 @@ One full sett is **514 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/56 Y2 DB4 K52 G48 K2 G4 R6 G4 K2 G48 K52 DB4 Y/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/56 Y2 DB4 K52 G48 K2 G4 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

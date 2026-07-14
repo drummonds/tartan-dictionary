@@ -8,15 +8,15 @@ crumbs:
 - name: "Watertown Library Assoc."
   url: "/tartans/w/wa/watertown-library-assoc/"
 - name: "Watertown Library Assoc."
-  url: "/setts/k4y2k27y2k8y31k2y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4y2k27y2k8y31k2y4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKGK](/stripes/gkgkgkgkgkgkgk/).
+provenance below. It is one weaving of the [sett](/tartans/w/wa/watertown-library-assoc/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKGKGK](/stripes/gkgkgkgk/).
 
 Part of the [Watertown Library Assoc.](/tartans/w/wa/watertown-library-assoc/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4500](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4500)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4500](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Watertown Library Assoc. (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4500">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Great Scot (Peter Wilson) have had this woven for their customer - probably by Fraser & Kirkbright of Vancouver. Based on the MacLachlan tartan with the yellow switched to a moss green. Woven sample. What has been stipulated as moss green is in fact a mixture of very pale green and gray in alternated single threads just in the weft which gives a mottled effect. The resultant threadcount is too long to record in this system, comprising as it does, over 160 colour changes.</em></li>
-<li>pre 2004 — Watertown Library Assoc. (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6268">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><br><em>Great Scot (Peter Wilson) have had this woven for their customer - probably by Fraser & Kirkbright of Vancouver. Based on the MacLachlan tartan with the yellow switched to a moss green. Woven sample. What has been stipulated as moss green is in fact a mixture of very pale green and gray in alternating single threads just in the weft which gives a mottled effect. The resultant threadcount is too long to record in this system, comprising as it does, over 160 colour changes.</em></li>
+<li>pre 2004 — Watertown Library Assoc. (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6268/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><br><em>Great Scot (Peter Wilson) have had this woven for their customer - probably by Fraser & Kirkbright of Vancouver. Based on the MacLachlan tartan with the yellow switched to a moss green. Woven sample. What has been stipulated as moss green is in fact a mixture of very pale green and gray in alternating single threads just in the weft which gives a mottled effect. The resultant threadcount is too long to record in this system, comprising as it does, over 160 colour changes.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6268
 
 ## Thread count
-Y/8 K4 Y62 K16 Y4 K54 Y4 K8 Y4 K54 Y4 K16 Y62 K/4
+K/8 Y4 K54 Y4 K16 Y62 K4 Y/8
 
-One full sett is **596 threads**.
+One full sett is **304 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/8 K4 Y62 K16 Y4 K54 Y4 K8 Y4 K54 Y4 K16 Y62 K/4 — 596 threads; it folds to the canonical 304-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **596 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/8 K4 Y62 K16 Y4 K54 Y4 K8 Y4 K54 Y4 K16 Y62 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 Y4 K54 Y4 K16 Y62 K4 Y/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

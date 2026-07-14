@@ -12,10 +12,10 @@ crumbs:
 - name: "Colorado"
   url: "/tartans/c/co/colorado/"
 - name: "Colorado"
-  url: "/setts/g32lb3dp3lb3g2k20b17dr3lo4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g32lb3dp3lb3g2k20b17dr3lo4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/colorado/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWGKBBY](/stripes/gwbwgkbby/).
 
 Part of the [Colorado](/tartans/c/co/colorado/) tartan — the named design grouping this sett with its other cloths.

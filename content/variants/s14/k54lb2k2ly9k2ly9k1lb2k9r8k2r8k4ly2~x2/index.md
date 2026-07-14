@@ -12,10 +12,10 @@ crumbs:
 - name: "Largs Dress"
   url: "/tartans/l/la/largs-dress/"
 - name: "Largs Dress (1972)"
-  url: "/setts/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/largs-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKYKYKWKRKRKY](/stripes/kwkykykwkrkrky/).
 
 Part of the [Largs Dress](/tartans/l/la/largs-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2052](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Largs Dress (1972) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2052">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue, Toronto in 1972. Sample in Scottish Tartans Authority's Johnston Collection. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>1972 — Laronde (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5392">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Sample in STA's Johnston Collection.. Sample in STA's Johnston Collection.</em></li>
+<li>1972 — Laronde (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5392/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Sample in STA's Johnston Collection.. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

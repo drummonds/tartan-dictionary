@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/do6lg3do18dy2do2dy10g28dr2g4~x2~lg3002138-g1903114/">Scottish Crofting Foundation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/do6lg3do18dy2do2dy10g28dr2g4~x2~lg3002138-g1903114/"><img src="/variants/s9/do6lg3do18dy2do2dy10g28dr2g4~x2~lg3002138-g1903114/sett.png" alt="Scottish Crofting Foundation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-crofting-foundation/">Scottish Crofting Foundation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-crofting-foundation/"><img src="/variants/s9/do6lg3do18dy2do2dy10g28dr2g4~x2~lg3002138-g1903114/sett.png" alt="Scottish Crofting Foundation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

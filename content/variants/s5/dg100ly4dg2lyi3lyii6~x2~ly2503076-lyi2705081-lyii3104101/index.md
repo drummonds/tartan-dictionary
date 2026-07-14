@@ -8,10 +8,10 @@ crumbs:
 - name: "Lagrande"
   url: "/tartans/l/la/lagrande/"
 - name: "Lagrande"
-  url: "/setts/dg100ly4dg2lyi3lyii6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg100ly4dg2lyi3lyii6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lagrande/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYY](/stripes/gygyy/).
 
 Part of the [Lagrande](/tartans/l/la/lagrande/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2024](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Lagrande (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2024">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C4BC68;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LY #C4BC68"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1972 — Lagrande (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5376">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C4BC68;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LY #C4BC68"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Sample in STA's Johnston Collection.</em></li>
+<li>pre 1972 — Lagrande (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5376/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C4BC68;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LY #C4BC68"></span><br><em>From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

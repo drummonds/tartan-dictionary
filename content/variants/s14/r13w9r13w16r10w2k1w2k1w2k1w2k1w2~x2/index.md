@@ -8,10 +8,10 @@ crumbs:
 - name: "D'Andeville, Xavier"
   url: "/tartans/d/d/d-andeville-xavier/"
 - name: "d'Andeville, Xavier (Personal)"
-  url: "/setts/r13w9r13w16r10w2k1w2k1w2k1w2k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r13w9r13w16r10w2k1w2k1w2k1w2k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/d/d-andeville-xavier/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRWKWKWKWKW](/stripes/rwrwrwkwkwkwkw/).
 
 Part of the [D'Andeville, Xavier](/tartans/d/d/d-andeville-xavier/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10298](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>09/11/2009 — d'Andeville, Xavier (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10298">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F9F5EF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F9F5EF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1714;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #1C1714"></span><br><em>The designer is an heraldic painter based in Lisieux, Normandy. This tartan was designed for his own personal use and that of his immediate family. Designed using the tartan design software at www.scotweb.co.uk.</em></li>
-<li>pre 2010 — D'Andeville, Xavier (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10298">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>The designer is an heraldic painter based in Lisieux, Normandy. This tartan was designed for his own personal use and that of his immediate family.</em></li>
+<li>pre 2010 — D'Andeville, Xavier (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10298/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>The designer is an heraldic painter based in Lisieux, Normandy. This tartan was designed for his own personal use and that of his immediate family.</em></li>
 </ul>
 </details>
 

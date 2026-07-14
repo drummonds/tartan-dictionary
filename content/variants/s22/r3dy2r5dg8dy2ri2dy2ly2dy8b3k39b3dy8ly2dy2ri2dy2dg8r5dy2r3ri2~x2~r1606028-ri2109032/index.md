@@ -12,10 +12,10 @@ crumbs:
 - name: "GRM"
   url: "/tartans/g/gr/grm/"
 - name: "GRM"
-  url: "/setts/r3dy2r5dg8dy2ri2dy2ly2dy8b3k39b3dy8ly2dy2ri2dy2dg8r5dy2r3ri2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3dy2r5dg8dy2ri2dy2ly2dy8b3k39b3dy8ly2dy2ri2dy2dg8r5dy2r3ri2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grm/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGGRGYGBKBGYGRGGRGRR](/stripes/rgrggrgygbkbgygrggrgrr/).
 
 Part of the [GRM](/tartans/g/gr/grm/) tartan — the named design grouping this sett with its other cloths.

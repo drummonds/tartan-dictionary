@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k4r4k20r1k20w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krkrkw/">KRKRKW</a></nav>
 Its design is pattern [KRKRKW](/stripes/krkrkw/) — the page of every tartan sharing this colour sequence.
 
 The **Lanoir** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Lanoir** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4r4k20r1k20w4/">Lanoir</a></td><td><code>K/24 R24 K120 R6 K120 W/24</code></td><td>588</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4r4k20r1k20w4/"><img src="/variants/s6/k4r4k20r1k20w4~x6/sett.png" alt="Lanoir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4r4k20r1k20w4~x6/">Lanoir</a></td><td><code>K/24 R24 K120 R6 K120 W/24</code></td><td>588</td><td>1972</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4r4k20r1k20w4~x6/"><img src="/variants/s6/k4r4k20r1k20w4~x6/sett.png" alt="Lanoir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="403.0" cy="109.7" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/variants/s5/k55r18k4r18k38/"><circle cx="413.0" cy="188.9" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="342.1" cy="177.9" r="4" fill="#3465a4"><title>Black</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="496.5" cy="137.0" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="454.1" cy="163.0" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s6/k70y4k3w2k2w2~x2/"><circle cx="614.3" cy="68.8" r="4" fill="#3465a4"><title>Kang</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="509.0" cy="105.4" r="4" fill="#3465a4"><title>Gourlay, George</title></circle></a><a href="/variants/s5/k4r11k32y1k4~x2/"><circle cx="475.7" cy="112.6" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="430.9" cy="134.6" r="4" fill="#3465a4"><title>Believe</title></circle></a><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="528.5" cy="102.5" r="4" fill="#3465a4"><title>Merola</title></circle></a><circle cx="474.8" cy="132.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="404.4" cy="110.0" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/variants/s5/k55r18k4r18k38/"><circle cx="414.3" cy="189.3" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="343.2" cy="178.1" r="4" fill="#3465a4"><title>Black</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="498.1" cy="137.6" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="455.5" cy="163.5" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s6/k70y4k3w2k2w2~x2/"><circle cx="616.4" cy="69.5" r="4" fill="#3465a4"><title>Kang</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="510.7" cy="105.9" r="4" fill="#3465a4"><title>Gourlay, George</title></circle></a><a href="/variants/s5/k4r11k32y1k4~x2/"><circle cx="477.3" cy="113.0" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="432.4" cy="135.0" r="4" fill="#3465a4"><title>Believe</title></circle></a><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="530.2" cy="103.1" r="4" fill="#3465a4"><title>Merola</title></circle></a><circle cx="476.4" cy="132.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

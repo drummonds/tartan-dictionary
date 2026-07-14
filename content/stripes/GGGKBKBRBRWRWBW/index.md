@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/">Watson - Kirby (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/"><img src="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/sett.png" alt="Watson - Kirby (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/watson-2/">Watson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/watson-2/"><img src="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/sett.png" alt="Watson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

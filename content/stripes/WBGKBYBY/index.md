@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/">Lambert, Patrice (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/"><img src="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/sett.png" alt="Lambert, Patrice (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lambert-patrice/">Lambert, Patrice</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lambert-patrice/"><img src="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/sett.png" alt="Lambert, Patrice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

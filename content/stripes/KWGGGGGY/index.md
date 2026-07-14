@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k3lb11g15dgi5g10dg14dgi14lo2~x2~dgi1605139/">Brocliande (Fashion))</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k3lb11g15dgi5g10dg14dgi14lo2~x2~dgi1605139/"><img src="/variants/s8/k3lb11g15dgi5g10dg14dgi14lo2~x2~dgi1605139/sett.png" alt="Brocliande (Fashion)) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brocliande/">Brocliande )</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brocliande/"><img src="/variants/s8/k3lb11g15dgi5g10dg14dgi14lo2~x2~dgi1605139/sett.png" alt="Brocliande ) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

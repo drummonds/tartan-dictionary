@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s34/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3~x2/">Unidentified 18th Centuary plain weave</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s34/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3~x2/"><img src="/variants/s34/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3~x2/sett.png" alt="Unidentified 18th Centuary plain weave sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-18th-centuary-plain-weave/">Unidentified 18th Centuary plain weave</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-18th-centuary-plain-weave/"><img src="/variants/s34/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3~x2/sett.png" alt="Unidentified 18th Centuary plain weave sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

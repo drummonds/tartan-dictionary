@@ -10,22 +10,22 @@ crumbs:
 - name: "Edinburgh Fire"
   url: "/tartans/e/ed/edinburgh-fire/"
 - name: "Edinburgh Fire (Corporate)"
-  url: "/setts/y2dy4r4lb21w1lb1ri1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2dy4r4lb21w1lb1ri1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-fire/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRWWWR](/stripes/ggrwwwr/).
 
 Part of the [Edinburgh Fire](/tartans/e/ed/edinburgh-fire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7666)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7666/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7666/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>June 2008 — Edinburgh Fire (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7666">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#506078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #506078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CC4438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ASR #CC4438"></span><br><em>Designed for the BRE Centre for Fire Safety Engineering at Edinburgh University by Robin Elliot of Andrew Elliot weavers of Selkirk and Dr Ricky Carvel of the Institute for Infrastructure & Environment at the School of Engineering and Electronics. Based on the Unversity of Edinburgh tartan</em></li>
+<li>June 2008 — Edinburgh Fire (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7666/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#506078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #506078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CC4438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ASR #CC4438"></span><br><em>Designed for the BRE Centre for Fire Safety Engineering at Edinburgh University by Robin Elliot of Andrew Elliot weavers of Selkirk and Dr Ricky Carvel of the Institute for Infrastructure & Environment at the School of Engineering and Electronics. Based on the Unversity of Edinburgh tartan</em></li>
 <li>undated — Edinburgh Fire (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5669">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#506078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #506078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CC4438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ASR #CC4438"></span><br><em>Designed for the BRE Centre for Fire Safety Engineering at Edinburgh University by Robin Elliot of Andrew Elliot weavers of Selkirk and Dr Ricky Carvel of the Institute for Infrastructure & Environment at the School of Engineering and Electronics. Based on the Unversity of Edinburgh tartan.</em></li>
 </ul>
 </details>
@@ -40,7 +40,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7666](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

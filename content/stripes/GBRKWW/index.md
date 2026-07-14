@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lb23w3k10r2db45y1~x2/">Kirkcaldy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb23w3k10r2db45y1~x2/"><img src="/variants/s6/lb23w3k10r2db45y1~x2/sett.png" alt="Kirkcaldy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kirkcaldy/">Kirkcaldy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kirkcaldy/"><img src="/variants/s6/lb23w3k10r2db45y1~x2/sett.png" alt="Kirkcaldy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

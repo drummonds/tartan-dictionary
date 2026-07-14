@@ -8,10 +8,10 @@ crumbs:
 - name: "O'Doherty"
   url: "/tartans/o/o/o-doherty/"
 - name: "O'Doherty (Glasgow) (Personal)"
-  url: "/setts/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-doherty/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGGGGKGBGBW](/stripes/gkgggggkgbgbw/).
 
 Part of the [O'Doherty](/tartans/o/o/o-doherty/) tartan — the named design grouping this sett with its other cloths.

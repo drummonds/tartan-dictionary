@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k16db2lb2db4g16y2k15db6lb2k3lb4~x2/">Wilson's, No 30</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k16db2lb2db4g16y2k15db6lb2k3lb4~x2/"><img src="/variants/s11/k16db2lb2db4g16y2k15db6lb2k3lb4~x2/sett.png" alt="Wilson's, No 30 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-30/">Wilson's, No 30</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-30/"><img src="/variants/s11/k16db2lb2db4g16y2k15db6lb2k3lb4~x2/sett.png" alt="Wilson's, No 30 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

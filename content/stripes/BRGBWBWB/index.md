@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/">Colvin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><img src="/variants/s8/b36w4b4w4b16dg64r9b6~x2/sett.png" alt="Colvin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/">Roxburgh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><img src="/variants/s8/db16w1db1w1db8g16r1db2~x2/sett.png" alt="Roxburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db23w1db1w1db8g22r1db3~x4/">Roxburgh, Green (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db23w1db1w1db8g22r1db3~x4/"><img src="/variants/s8/db23w1db1w1db8g22r1db3~x4/sett.png" alt="Roxburgh, Green (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/colvin/">Colvin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/colvin/"><img src="/variants/s8/b36w4b4w4b16dg64r9b6~x2/sett.png" alt="Colvin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/roxburgh-2/">Roxburgh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roxburgh-2/"><img src="/variants/s8/db16w1db1w1db8g16r1db2~x2/sett.png" alt="Roxburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dp3g3db3dg2lb8r8db4dg3r3k3r15k2~x2/">Glengaela (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dp3g3db3dg2lb8r8db4dg3r3k3r15k2~x2/"><img src="/variants/s12/dp3g3db3dg2lb8r8db4dg3r3k3r15k2~x2/sett.png" alt="Glengaela (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glengaela/">Glengaela</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glengaela/"><img src="/variants/s12/dp3g3db3dg2lb8r8db4dg3r3k3r15k2~x2/sett.png" alt="Glengaela sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

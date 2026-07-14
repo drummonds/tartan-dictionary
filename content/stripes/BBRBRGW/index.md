@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr2b16r1dr2r12y1lb1~x2/">Spragg, Andrew</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr2b16r1dr2r12y1lb1~x2/"><img src="/variants/s7/dr2b16r1dr2r12y1lb1~x2/sett.png" alt="Spragg, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spragg-andrew/">Spragg, Andrew</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spragg-andrew/"><img src="/variants/s7/dr2b16r1dr2r12y1lb1~x2/sett.png" alt="Spragg, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

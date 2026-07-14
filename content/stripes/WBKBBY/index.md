@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/ly4t8dp4k53db54w2/">Pipers' Trail (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/ly4t8dp4k53db54w2/"><img src="/variants/s6/ly4t8dp4k53db54w2/sett.png" alt="Pipers' Trail (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pipers-trail/">Pipers' Trail</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pipers-trail/"><img src="/variants/s6/ly4t8dp4k53db54w2/sett.png" alt="Pipers' Trail sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

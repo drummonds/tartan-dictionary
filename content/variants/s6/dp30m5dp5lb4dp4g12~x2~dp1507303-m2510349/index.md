@@ -8,10 +8,10 @@ crumbs:
 - name: "International Festival of Authors"
   url: "/tartans/i/in/international-festival-of-authors/"
 - name: "International Festival of Authors"
-  url: "/setts/dp30m5dp5lb4dp4g12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp30m5dp5lb4dp4g12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/international-festival-of-authors/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBG](/stripes/brbwbg/).
 
 Part of the [International Festival of Authors](/tartans/i/in/international-festival-of-authors/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Urquhart"
   url: "/tartans/u/ur/urquhart-2/"
 - name: "Urquhart (Fashion)"
-  url: "/setts/o9w2o18k3o3k3o3k12n30k6n6r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o9w2o18k3o3k3o3k12n30k6n6r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/ur/urquhart-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKRKRKRWR](/stripes/rbkbkrkrkrwr/).
 
 Part of the [Urquhart](/tartans/u/ur/urquhart-2/) tartan — the named design grouping this sett with its other cloths.

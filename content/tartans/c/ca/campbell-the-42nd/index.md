@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Campbell"
   url: "/clan/campbell/"
+aliases:
+- "/setts/t6k6t18k18g22k5/"
+- "/setts/db6k6db18k18g22k5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkgk/">BKBKGK</a></nav>
 A tartan of [Clan Campbell](/clan/campbell/).
 Its design is pattern [BKBKGK](/stripes/bkbkgk/) — the page of every tartan sharing this colour sequence.
 
@@ -16,10 +20,10 @@ The **Campbell, The 42nd** tartan groups 2 setts — the same named design recor
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t6k6t18k18g22k5/">Campbell, The 42nd</a> ★</td><td><code>T/12 K12 T36 K36 G44 K/10</code></td><td>278</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t6k6t18k18g22k5/"><img src="/variants/s6/t6k6t18k18g22k5~x2/sett.png" alt="Campbell, The 42nd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db6k6db18k18g22k5/">Campbell, the 42nd</a></td><td><code>DB/6 K6 DB18 K18 G22 K/5</code></td><td>139</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db6k6db18k18g22k5/"><img src="/variants/s6/db6k6db18k18g22k5/sett.png" alt="Campbell, the 42nd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t6k6t18k18g22k5~x2/">Campbell, The 42nd</a> ★</td><td><code>T/12 K12 T36 K36 G44 K/10</code></td><td>278</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/t6k6t18k18g22k5~x2/"><img src="/variants/s6/t6k6t18k18g22k5~x2/sett.png" alt="Campbell, The 42nd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db6k6db18k18g22k5/">Campbell, the 42nd</a></td><td><code>DB/6 K6 DB18 K18 G22 K/5</code></td><td>139</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db6k6db18k18g22k5/"><img src="/variants/s6/db6k6db18k18g22k5/sett.png" alt="Campbell, the 42nd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -38,6 +42,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="156.9" cy="282.8" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s6/db4k2db16k10g18k3~x2/"><circle cx="193.5" cy="222.9" r="4" fill="#3465a4"><title>Wartley Hunting</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="129.0" cy="237.9" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="138.8" cy="207.2" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="126.9" cy="223.4" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="177.3" cy="214.8" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s5/t3k4t4g9k2~x4/"><circle cx="165.3" cy="277.0" r="4" fill="#3465a4"><title>Falconer</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="225.7" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="162.9" cy="279.6" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="131.3" cy="224.5" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><circle cx="145.1" cy="262.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="157.2" cy="282.8" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s6/db4k2db16k10g18k3~x2/"><circle cx="193.9" cy="222.9" r="4" fill="#3465a4"><title>Wartley Hunting</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="129.2" cy="237.7" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="139.1" cy="207.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="127.2" cy="223.3" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="177.8" cy="214.7" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s5/t3k4t4g9k2~x4/"><circle cx="165.5" cy="277.0" r="4" fill="#3465a4"><title>Falconer</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.7" cy="225.6" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="163.1" cy="279.5" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="131.6" cy="224.3" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><circle cx="145.4" cy="262.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/">Basel Tattoo (Official)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/"><img src="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/sett.png" alt="Basel Tattoo (Official) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/basel-tattoo/">Basel Tattoo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/basel-tattoo/"><img src="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/sett.png" alt="Basel Tattoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

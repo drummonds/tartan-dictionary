@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/b14k7b21k2b2k2b2k4b7r25w2r2k3r16b9r2k4r2k4r2~x2/">Club World</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/b14k7b21k2b2k2b2k4b7r25w2r2k3r16b9r2k4r2k4r2~x2/"><img src="/variants/s20/b14k7b21k2b2k2b2k4b7r25w2r2k3r16b9r2k4r2k4r2~x2/sett.png" alt="Club World sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s20/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/">Club World (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/"><img src="/variants/s20/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/sett.png" alt="Club World (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/club-world/">Club World</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/club-world/"><img src="/variants/s20/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/sett.png" alt="Club World sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

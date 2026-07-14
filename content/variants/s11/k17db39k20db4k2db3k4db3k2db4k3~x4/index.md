@@ -8,10 +8,10 @@ crumbs:
 - name: "Azabu Tailor"
   url: "/tartans/a/az/azabu-tailor/"
 - name: "Azabu Tailor"
-  url: "/setts/k17db39k20db4k2db3k4db3k2db4k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k17db39k20db4k2db3k4db3k2db4k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/az/azabu-tailor/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/).
 
 Part of the [Azabu Tailor](/tartans/a/az/azabu-tailor/) tartan — the named design grouping this sett with its other cloths.

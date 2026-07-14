@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/k6o1n19k2do1dy1do4k28n2k4n2k1o2k1n2k1o2~x2~o2500000-n1900000/">North Sea Oil (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k6o1n19k2do1dy1do4k28n2k4n2k1o2k1n2k1o2~x2~o2500000-n1900000/"><img src="/variants/s17/k6o1n19k2do1dy1do4k28n2k4n2k1o2k1n2k1o2~x2~o2500000-n1900000/sett.png" alt="North Sea Oil (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/north-sea-oil/">North Sea Oil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/north-sea-oil/"><img src="/variants/s17/k6o1n19k2do1dy1do4k28n2k4n2k1o2k1n2k1o2~x2~o2500000-n1900000/sett.png" alt="North Sea Oil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

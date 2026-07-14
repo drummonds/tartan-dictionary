@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r4n3dr2w4dr2w3dr4w3dr6w2dr8w2dr6w2db4y3~x2/">Bradwell, Carl (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r4n3dr2w4dr2w3dr4w3dr6w2dr8w2dr6w2db4y3~x2/"><img src="/variants/s16/r4n3dr2w4dr2w3dr4w3dr6w2dr8w2dr6w2db4y3~x2/sett.png" alt="Bradwell, Carl (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bradwell-amy/">Bradwell, Amy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bradwell-amy/"><img src="/variants/s16/r4n3dr2w4dr2w3dr4w3dr6w2dr8w2dr6w2db4y3~x2/sett.png" alt="Bradwell, Amy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

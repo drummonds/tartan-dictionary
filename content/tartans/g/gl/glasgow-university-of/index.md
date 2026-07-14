@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Glasgow"
   url: "/clan/glasgow/"
+aliases:
+- "/setts/k2db22g4k7ly2k2w2db2/"
+- "/setts/k2db22g4k7b2k2w2db2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwkykgbk/">BWKYKGBK</a></nav>
 A tartan of [Clan Glasgow](/clan/glasgow/).
 Its design is pattern [BWKYKGBK](/stripes/bwkykgbk/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Glasgow, University of** tartan groups 2 setts — the same named design r
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k2db22g4k7ly2k2w2db2/">Glasgow, University of</a> ★</td><td><code>K/4 DB44 G8 K14 LY4 K4 W4 DB/4</code></td><td>164</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2db22g4k7ly2k2w2db2/"><img src="/variants/s8/k2db22g4k7ly2k2w2db2~x2/sett.png" alt="Glasgow, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k2db22g4k7b2k2w2db2/">Glasgow, University of</a></td><td><code>K/4 DB44 G8 K14 B4 K4 W4 DB/4</code></td><td>164</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2db22g4k7b2k2w2db2/"><img src="/variants/s8/k2db22g4k7b2k2w2db2~x2/sett.png" alt="Glasgow, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k2db22g4k7ly2k2w2db2~x2/">Glasgow, University of</a> ★</td><td><code>K/4 DB44 G8 K14 LY4 K4 W4 DB/4</code></td><td>164</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k2db22g4k7ly2k2w2db2~x2/"><img src="/variants/s8/k2db22g4k7ly2k2w2db2~x2/sett.png" alt="Glasgow, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k2db22g4k7b2k2w2db2~x2/">Glasgow, University of</a></td><td><code>K/4 DB44 G8 K14 B4 K4 W4 DB/4</code></td><td>164</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k2db22g4k7b2k2w2db2~x2/"><img src="/variants/s8/k2db22g4k7b2k2w2db2~x2/sett.png" alt="Glasgow, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="242.9" cy="141.0" r="4" fill="#3465a4"><title>Burt</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="248.0" cy="140.1" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="266.0" cy="138.8" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="271.4" cy="111.8" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><circle cx="268.1" cy="141.8" r="4" fill="#3465a4"><title>Mensa</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="312.6" cy="155.7" r="4" fill="#3465a4"><title>Auckland</title></circle></a><a href="/variants/s6/r4g2r2k5db22w2~x4/"><circle cx="277.5" cy="137.6" r="4" fill="#3465a4"><title>Reese</title></circle></a><a href="/variants/s6/y8w3db40k12w3y3~x2/"><circle cx="295.6" cy="151.5" r="4" fill="#3465a4"><title>Wolverine</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.0" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"><circle cx="177.9" cy="151.3" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra</title></circle></a><circle cx="254.3" cy="130.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="243.6" cy="140.9" r="4" fill="#3465a4"><title>Burt</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="248.8" cy="140.0" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="266.9" cy="138.7" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="272.3" cy="111.8" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><circle cx="268.9" cy="141.8" r="4" fill="#3465a4"><title>Mensa</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="313.5" cy="155.8" r="4" fill="#3465a4"><title>Auckland</title></circle></a><a href="/variants/s6/r4g2r2k5db22w2~x4/"><circle cx="278.4" cy="137.6" r="4" fill="#3465a4"><title>Reese</title></circle></a><a href="/variants/s6/y8w3db40k12w3y3~x2/"><circle cx="296.5" cy="151.5" r="4" fill="#3465a4"><title>Wolverine</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.9" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"><circle cx="178.5" cy="151.2" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra</title></circle></a><circle cx="255.1" cy="129.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

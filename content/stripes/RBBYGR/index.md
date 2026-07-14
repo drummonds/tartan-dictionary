@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/ri26dr5dp12ly1y1r3~x2~ri2806019-ly3104101-y2505139-r2208029/">Roseate Sunrise</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/ri26dr5dp12ly1y1r3~x2~ri2806019-ly3104101-y2505139-r2208029/"><img src="/variants/s6/ri26dr5dp12ly1y1r3~x2~ri2806019-ly3104101-y2505139-r2208029/sett.png" alt="Roseate Sunrise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/roseate-sunrise/">Roseate Sunrise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roseate-sunrise/"><img src="/variants/s6/ri26dr5dp12ly1y1r3~x2~ri2806019-ly3104101-y2505139-r2208029/sett.png" alt="Roseate Sunrise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

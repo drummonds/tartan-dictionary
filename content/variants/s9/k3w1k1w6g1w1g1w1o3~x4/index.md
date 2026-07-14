@@ -12,10 +12,10 @@ crumbs:
 - name: "Puffin"
   url: "/tartans/p/pu/puffin/"
 - name: "Puffin"
-  url: "/setts/k3w1k1w6g1w1g1w1o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3w1k1w6g1w1g1w1o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pu/puffin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWGWGWR](/stripes/kwkwgwgwr/).
 
 Part of the [Puffin](/tartans/p/pu/puffin/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/">Unidentified Pinafore</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><img src="/variants/s7/g24k4g24k24lb7r24lb7~x2/sett.png" alt="Unidentified Pinafore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-pinafore/">Unidentified Pinafore</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-pinafore/"><img src="/variants/s7/g24k4g24k24lb7r24lb7~x2/sett.png" alt="Unidentified Pinafore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

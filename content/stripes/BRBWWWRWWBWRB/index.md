@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db4r3lb23db16w5lb3r2lb3w5lb11db2r1db4~x2/">Illinois St Andrews Society Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db4r3lb23db16w5lb3r2lb3w5lb11db2r1db4~x2/"><img src="/variants/s13/db4r3lb23db16w5lb3r2lb3w5lb11db2r1db4~x2/sett.png" alt="Illinois St Andrews Society Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/il/illinois-st-andrews-society/">Illinois, St Andrews Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/il/illinois-st-andrews-society/"><img src="/variants/s13/db4r3lb23db16w5lb3r2lb3w5lb11db2r1db4~x2/sett.png" alt="Illinois, St Andrews Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

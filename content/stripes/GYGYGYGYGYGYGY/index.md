@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/">Snaefell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/"><img src="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/sett.png" alt="Snaefell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sn/snaefell/">Snaefell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sn/snaefell/"><img src="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/sett.png" alt="Snaefell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

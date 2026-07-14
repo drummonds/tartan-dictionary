@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/">Lady Boys of Bangkok (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/"><img src="/variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/sett.png" alt="Lady Boys of Bangkok (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lady-boys-of-bangkok/">Lady Boys of Bangkok</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lady-boys-of-bangkok/"><img src="/variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/sett.png" alt="Lady Boys of Bangkok sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

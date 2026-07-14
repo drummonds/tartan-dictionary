@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/">Minster</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"><img src="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/sett.png" alt="Minster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/minster/">Minster</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/minster/"><img src="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/sett.png" alt="Minster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,22 +8,22 @@ crumbs:
 - name: "DDB Canada"
   url: "/tartans/d/dd/ddb-canada/"
 - name: "DDB Canada (Fashion)"
-  url: "/setts/k1n2k7n11k18y2k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1n2k7n11k18y2k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/dd/ddb-canada/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKGK](/stripes/kbkbkgk/).
 
 Part of the [DDB Canada](/tartans/d/dd/ddb-canada/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7657](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7657)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7657/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7657/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>June 2008 — DDB Canada (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7657">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by the Vancouver based 'Janet Helm Presents' design company for their client DDB Canada (a division of Omnicon Canada) for making into scarves. This is one of a series of tartans that appear to be produced as promotional gifts for major companies - see Coca Cola, Versa/Cold/Atlas & Colliers International.</em></li>
+<li>June 2008 — DDB Canada (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7657/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by the Vancouver based 'Janet Helm Presents' design company for their client DDB Canada (a division of Omnicon Canada) for making into scarves. This is one of a series of tartans that appear to be produced as promotional gifts for major companies - see Coca Cola, Versa/Cold/Atlas & Colliers International.</em></li>
 <li>undated — DDB Canada (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5665">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by the Vancouver based 'Janet Helm Presents' design company for their client DDB Canada (a division of Omnicon Canada) for making into scarves. This is one of a series of tartans that appear to be produced as promotional gifts for major companies - see Coca Cola, Versa/Cold/Atlas & Colliers International.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7657](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

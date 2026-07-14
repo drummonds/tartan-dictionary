@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g62k40y3k3w3~x2/">O'Donoghue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g62k40y3k3w3~x2/"><img src="/variants/s5/g62k40y3k3w3~x2/sett.png" alt="O'Donoghue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-donoghue/">O'Donoghue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-donoghue/"><img src="/variants/s5/g62k40y3k3w3~x2/sett.png" alt="O'Donoghue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g9dgi13dg26dy6dp5dy40dp5dy6dg26dgi13g9dg3~x2~g1903114-dgi1806142/">de Meuron (Family)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g9dgi13dg26dy6dp5dy40dp5dy6dg26dgi13g9dg3~x2~g1903114-dgi1806142/"><img src="/variants/s12/g9dgi13dg26dy6dp5dy40dp5dy6dg26dgi13g9dg3~x2~g1903114-dgi1806142/sett.png" alt="de Meuron (Family) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/de-meuron/">de Meuron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/de-meuron/"><img src="/variants/s12/g9dgi13dg26dy6dp5dy40dp5dy6dg26dgi13g9dg3~x2~g1903114-dgi1806142/sett.png" alt="de Meuron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

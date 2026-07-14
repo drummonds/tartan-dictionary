@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/dp11k1lo4r1lo1r1lo1w2k2y2dy2k3w3dy3db3dy2w2~x2/">York Puppet</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/dp11k1lo4r1lo1r1lo1w2k2y2dy2k3w3dy3db3dy2w2~x2/"><img src="/variants/s17/dp11k1lo4r1lo1r1lo1w2k2y2dy2k3w3dy3db3dy2w2~x2/sett.png" alt="York Puppet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yo/york-puppet/">York Puppet</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yo/york-puppet/"><img src="/variants/s17/dp11k1lo4r1lo1r1lo1w2k2y2dy2k3w3dy3db3dy2w2~x2/sett.png" alt="York Puppet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

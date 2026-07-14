@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/">U.S. Marine Corps (Military?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><img src="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/sett.png" alt="U.S. Marine Corps (Military?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/">US Marine Corps</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><img src="/variants/s8/g40r3g4r3g12db32lo4r3~x2/sett.png" alt="US Marine Corps sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/us/us-marine-corps/">US Marine Corps</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/us/us-marine-corps/"><img src="/variants/s8/g40r3g4r3g12db32lo4r3~x2/sett.png" alt="US Marine Corps sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

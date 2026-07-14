@@ -8,15 +8,15 @@ crumbs:
 - name: "Wilson's No.171"
   url: "/tartans/w/wi/wilson-s-no-171/"
 - name: "Wilson's No.171"
-  url: "/setts/dy29g17k1w3k1ly2k10lb8dy4lb8k10ly2k1w3dy29/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy29g17k1w3k1ly2k10lb8dy4lb8k10ly2k1w3dy29/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGKWKYKWGWKYKWGWKYKWGWKYKWKG](/stripes/ggkwkykwgwkykwgwkykwgwkykwkg/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-171/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGKWKYKWGWKYKWG](/stripes/ggkwkykwgwkykwg/).
 
 Part of the [Wilson's No.171](/tartans/w/wi/wilson-s-no-171/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4710](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4710)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5595
 
 ## Thread count
-DY/58 G34 K2 W6 K2 LY4 K20 LB16 DY8 LB16 K20 LY4 K2 W6 DY58 W6 K2 LY4 K20 LB16 DY8 LB16 K20 LY4 K2 W6 K2 G/34
+DY/58 G34 K2 W6 K2 LY4 K20 LB16 DY8 LB16 K20 LY4 K2 W6 DY/58
 
-One full sett is **700 threads**.
+One full sett is **396 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DY/58 G34 K2 W6 K2 LY4 K20 LB16 DY8 LB16 K20 LY4 K2 W6 DY58 W6 K2 LY4 K20 LB16 DY8 LB16 K20 LY4 K2 W6 K2 G/34 — 700 threads; it folds to the canonical 396-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **700 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/58 G34 K2 W6 K2 LY4 K20 LB16 DY8 LB16 K20 LY4 K2 W6 DY58 W6 K2 LY4 K20 LB16 DY8 LB16 K20 LY4 K2 W6 K2 G/34 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/58 G34 K2 W6 K2 LY4 K20 LB16 DY8 LB16 K20 LY4 K2 W6 DY/58 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

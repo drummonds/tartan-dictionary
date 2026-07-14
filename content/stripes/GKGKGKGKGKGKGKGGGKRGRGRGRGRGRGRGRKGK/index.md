@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/g20k1g1k1g1k1g1k1g1k1g1k1g1k8y8g16y50k4r6g28r1g1r1g1r1g1r1g1r1g1r1g1r8k24y12k4/">New Brunswick (PIK Mills, Toronto)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/g20k1g1k1g1k1g1k1g1k1g1k1g1k8y8g16y50k4r6g28r1g1r1g1r1g1r1g1r1g1r1g1r8k24y12k4/"><img src="/variants/s36/g20k1g1k1g1k1g1k1g1k1g1k1g1k8y8g16y50k4r6g28r1g1r1g1r1g1r1g1r1g1r1g1r8k24y12k4/sett.png" alt="New Brunswick (PIK Mills, Toronto) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-brunswick-2/">New Brunswick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-brunswick-2/"><img src="/variants/s36/g20k1g1k1g1k1g1k1g1k1g1k1g1k8y8g16y50k4r6g28r1g1r1g1r1g1r1g1r1g1r1g1r8k24y12k4/sett.png" alt="New Brunswick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

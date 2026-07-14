@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/">Star Is Born, A</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/"><img src="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/sett.png" alt="Star Is Born, A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/star-is-born-a/">Star Is Born, A</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/star-is-born-a/"><img src="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/sett.png" alt="Star Is Born, A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

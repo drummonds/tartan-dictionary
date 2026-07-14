@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/">Wynberg Boys' High School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/"><img src="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/sett.png" alt="Wynberg Boys' High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wy/wynberg-boys-high-school/">Wynberg Boys' High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wy/wynberg-boys-high-school/"><img src="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/sett.png" alt="Wynberg Boys' High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

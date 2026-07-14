@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/oi4n6k4o8k49oi2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbkrkr/">RBKRKR</a></nav>
 Its design is pattern [RBKRKR](/stripes/rbkrkr/) — the page of every tartan sharing this colour sequence.
 
 The **Harley Davidson** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Harley Davidson** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/oi4n6k4o8k49oi2/">Harley Davidson</a></td><td><code>Oi/4 N6 K4 O8 K49 Oi/2</code></td><td>140</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/oi4n6k4o8k49oi2/"><img src="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/sett.png" alt="Harley Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/">Harley Davidson</a></td><td><code>Oi/4 N6 K4 O8 K49 Oi/2</code></td><td>140</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/"><img src="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/sett.png" alt="Harley Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="396.0" cy="156.0" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="506.9" cy="54.4" r="4" fill="#3465a4"><title>Perratt</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="482.4" cy="87.5" r="4" fill="#3465a4"><title>London Fog</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="423.0" cy="119.2" r="4" fill="#3465a4"><title>Perry Dress</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="430.9" cy="134.6" r="4" fill="#3465a4"><title>Believe</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="382.0" cy="111.3" r="4" fill="#3465a4"><title>Perry, hunting</title></circle></a><a href="/variants/s4/k35lo3w3g3~x4/"><circle cx="439.6" cy="139.8" r="4" fill="#3465a4"><title>Dhillon</title></circle></a><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="362.7" cy="130.0" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="328.5" cy="135.8" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s4/k62n24y5w3~x2/"><circle cx="368.8" cy="148.7" r="4" fill="#3465a4"><title>Perry , Alex</title></circle></a><circle cx="418.0" cy="97.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="397.3" cy="156.3" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="508.6" cy="54.8" r="4" fill="#3465a4"><title>Perratt</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="484.1" cy="87.9" r="4" fill="#3465a4"><title>London Fog</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="424.3" cy="119.5" r="4" fill="#3465a4"><title>Perry Dress</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="432.4" cy="135.0" r="4" fill="#3465a4"><title>Believe</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="383.3" cy="111.6" r="4" fill="#3465a4"><title>Perry, hunting</title></circle></a><a href="/variants/s4/k35lo3w3g3~x4/"><circle cx="441.0" cy="140.1" r="4" fill="#3465a4"><title>Dhillon</title></circle></a><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="363.8" cy="130.2" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="329.7" cy="135.9" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s4/k62n24y5w3~x2/"><circle cx="369.9" cy="148.9" r="4" fill="#3465a4"><title>Perry , Alex</title></circle></a><circle cx="419.4" cy="97.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

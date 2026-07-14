@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/">Carlow Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/"><img src="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/sett.png" alt="Carlow Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carlow-irish-county/">Carlow Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carlow-irish-county/"><img src="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/sett.png" alt="Carlow Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/dr20g2dr2g2dr2g8k24g2k3~x2/">Carlow, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><img src="/variants/s9/dr20g2dr2g2dr2g8k24g2k3~x2/sett.png" alt="Carlow, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carlow-county/">Carlow, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carlow-county/"><img src="/variants/s9/dr20g2dr2g2dr2g8k24g2k3~x2/sett.png" alt="Carlow, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

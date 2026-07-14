@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/">Kennedy #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/"><img src="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/sett.png" alt="Kennedy #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holmes-2/">Holmes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holmes-2/"><img src="/variants/s15/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3~x2/sett.png" alt="Holmes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kennedy/">Kennedy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kennedy/"><img src="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/sett.png" alt="Kennedy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

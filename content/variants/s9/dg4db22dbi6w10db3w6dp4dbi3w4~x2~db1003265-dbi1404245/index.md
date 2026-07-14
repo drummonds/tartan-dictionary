@@ -8,10 +8,10 @@ crumbs:
 - name: "Sibbald"
   url: "/tartans/s/si/sibbald/"
 - name: "Sibbald Blue (2014)"
-  url: "/setts/dg4db22dbi6w10db3w6dp4dbi3w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4db22dbi6w10db3w6dp4dbi3w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/sibbald/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBWBWBBW](/stripes/gbbwbwbbw/).
 
 Part of the [Sibbald](/tartans/s/si/sibbald/) tartan — the named design grouping this sett with its other cloths.

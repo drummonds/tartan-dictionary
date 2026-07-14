@@ -12,10 +12,10 @@ crumbs:
 - name: "Stewart of Ardshiel"
   url: "/tartans/s/st/stewart-of-ardshiel/"
 - name: "Stewart of Ardshiel"
-  url: "/setts/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-of-ardshiel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBKRKWRKRWKRGRBKW](/stripes/grbkrkwrkrwkrgrbkw/).
 
 Part of the [Stewart of Ardshiel](/tartans/s/st/stewart-of-ardshiel/) tartan — the named design grouping this sett with its other cloths.

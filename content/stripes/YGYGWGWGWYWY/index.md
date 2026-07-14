@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090/">Yarmouth NS (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090/"><img src="/variants/s12/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090/sett.png" alt="Yarmouth NS (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/ya/yarmouth-ns/">Yarmouth NS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ya/yarmouth-ns/"><img src="/variants/s12/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090/sett.png" alt="Yarmouth NS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

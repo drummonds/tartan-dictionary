@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi1406275-db1204274/">Clack Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi1406275-db1204274/"><img src="/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi1406275-db1204274/sett.png" alt="Clack Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clack/">Clack</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clack/"><img src="/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi1406275-db1204274/sett.png" alt="Clack sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/r4k4r6g24r4k3r6g3r4k24r6g4r4lb4r4g4r6k24r4g3r6k3r4g24r6k4r4lb4~x2/">Kilbarchan Unidentified No. 7</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/r4k4r6g24r4k3r6g3r4k24r6g4r4lb4r4g4r6k24r4g3r6k3r4g24r6k4r4lb4~x2/"><img src="/variants/s28/r4k4r6g24r4k3r6g3r4k24r6g4r4lb4r4g4r6k24r4g3r6k3r4g24r6k4r4lb4~x2/sett.png" alt="Kilbarchan Unidentified No. 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kilbarchan-unidentified-no-7/">Kilbarchan Unidentified No. 7</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilbarchan-unidentified-no-7/"><img src="/variants/s28/r4k4r6g24r4k3r6g3r4k24r6g4r4lb4r4g4r6k24r4g3r6k3r4g24r6k4r4lb4~x2/sett.png" alt="Kilbarchan Unidentified No. 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

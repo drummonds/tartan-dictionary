@@ -12,10 +12,10 @@ crumbs:
 - name: "Burns"
   url: "/tartans/b/bu/burns/"
 - name: "Burns Family Tartan"
-  url: "/setts/r3g3r3g14r3g3r3db5r18y2r8y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3g3r3g14r3g3r3db5r18y2r8y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/burns/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBRGRGRGR](/stripes/grgrbrgrgrgr/).
 
 Part of the [Burns](/tartans/b/bu/burns/) tartan — the named design grouping this sett with its other cloths.

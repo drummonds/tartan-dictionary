@@ -28,35 +28,27 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r60db20r8g45r8db2~x2/">Caledonian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r60db20r8g45r8db2~x2/"><img src="/variants/s6/r60db20r8g45r8db2~x2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r60dp20r8g45r8dp2/">Caledonian District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r60dp20r8g45r8dp2/"><img src="/variants/s6/r60dp20r8g45r8dp2/sett.png" alt="Caledonian District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db2r25g10r2db10r2~x2/">Grant of Lurg Artifact Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2r25g10r2db10r2~x2/"><img src="/variants/s6/db2r25g10r2db10r2~x2/sett.png" alt="Grant of Lurg Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r80dp19r8g36r10dp2~x2/">Lovat or Fraser #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r80dp19r8g36r10dp2~x2/"><img src="/variants/s6/r80dp19r8g36r10dp2~x2/sett.png" alt="Lovat or Fraser #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r24db6r3g12r4db1/">MacKintosh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r24db6r3g12r4db1/"><img src="/variants/s6/r24db6r3g12r4db1/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r70db20r10g40r10db3/">MacKintosh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r70db20r10g40r10db3/"><img src="/variants/s6/r70db20r10g40r10db3/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r68db18r9g34r9db3~x2/">MacKintosh #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r68db18r9g34r9db3~x2/"><img src="/variants/s6/r68db18r9g34r9db3~x2/sett.png" alt="MacKintosh #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r48db2r3g28r4db2~x2/">MacKintosh #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r48db2r3g28r4db2~x2/"><img src="/variants/s6/r48db2r3g28r4db2~x2/sett.png" alt="MacKintosh #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r22db5r2g11r3db1/">MacKintosh D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r22db5r2g11r3db1/"><img src="/variants/s6/r22db5r2g11r3db1/sett.png" alt="MacKintosh D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r16db6r2dg6r2db1~x2/">MacKintosh Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r16db6r2dg6r2db1~x2/"><img src="/variants/s6/r16db6r2dg6r2db1~x2/sett.png" alt="MacKintosh Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r16db6r2g6r2db1~x2/">MacKintosh, Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r16db6r2g6r2db1~x2/"><img src="/variants/s6/r16db6r2g6r2db1~x2/sett.png" alt="MacKintosh, Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db2r39g39r1db39r2~x2/">Mar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2r39g39r1db39r2~x2/"><img src="/variants/s6/db2r39g39r1db39r2~x2/sett.png" alt="Mar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db2r24g24r1db24r2~x2/">Mar Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2r24g24r1db24r2~x2/"><img src="/variants/s6/db2r24g24r1db24r2~x2/sett.png" alt="Mar Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledonian/">Caledonian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian/"><img src="/variants/s6/r60dp20r8g45r8dp2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grant-of-lurg/">Grant of Lurg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-of-lurg/"><img src="/variants/s6/db2r25g10r2db10r2~x2/sett.png" alt="Grant of Lurg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lovat-or-fraser-2/">Lovat or Fraser</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lovat-or-fraser-2/"><img src="/variants/s6/r80dp19r8g36r10dp2~x2/sett.png" alt="Lovat or Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackintosh-4/">MacKintosh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-4/"><img src="/variants/s6/r70db20r10g40r10db3/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackintosh-2/">MacKintosh 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-2/"><img src="/variants/s6/r48db2r3g28r4db2~x2/sett.png" alt="MacKintosh 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackintosh-3/">MacKintosh 3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-3/"><img src="/variants/s6/r68db18r9g34r9db3~x2/sett.png" alt="MacKintosh 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackintosh-d/">MacKintosh D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-d/"><img src="/variants/s6/r22db5r2g11r3db1/sett.png" alt="MacKintosh D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mar-2/">Mar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mar-2/"><img src="/variants/s6/db2r39g39r1db39r2~x2/sett.png" alt="Mar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mar-dress/">Mar Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mar-dress/"><img src="/variants/s6/db2r24g24r1db24r2~x2/sett.png" alt="Mar Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db2o28g13o2db13o2~x4/">Edinchat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2o28g13o2db13o2~x4/"><img src="/variants/s6/db2o28g13o2db13o2~x4/sett.png" alt="Edinchat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinchat/">Edinchat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinchat/"><img src="/variants/s6/db2o28g13o2db13o2~x4/sett.png" alt="Edinchat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

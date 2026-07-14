@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/">Holden Monaro Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><img src="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/sett.png" alt="Holden Monaro Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holden-monaro/">Holden Monaro</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holden-monaro/"><img src="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/sett.png" alt="Holden Monaro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

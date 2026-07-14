@@ -12,10 +12,10 @@ crumbs:
 - name: "Glenlivet Dress"
   url: "/tartans/g/gl/glenlivet-dress/"
 - name: "Glenlivet Dress Reproduction"
-  url: "/setts/w16dy5db2dy42o2dy6o2dy42db2dy5w16dy5db2dy5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w16dy5db2dy42o2dy6o2dy42db2dy5w16dy5db2dy5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glenlivet-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWGBGRGRGBGW](/stripes/gbgwgbgrgrgbgw/).
 
 Part of the [Glenlivet Dress](/tartans/g/gl/glenlivet-dress/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "Cumming Glenorchy"
   url: "/tartans/c/cu/cumming-glenorchy/"
 - name: "Cumming Glenorchy (Htg) Clan Tartan"
-  url: "/setts/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cumming-glenorchy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBWRGRBRWBRBRGRWBRG](/stripes/brgrbwrgrbrwbrbrgrwbrg/).
 
 Part of the [Cumming Glenorchy](/tartans/c/cu/cumming-glenorchy/) tartan — the named design grouping this sett with its other cloths.

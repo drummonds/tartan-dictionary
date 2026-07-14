@@ -8,10 +8,10 @@ crumbs:
 - name: "Wasko"
   url: "/tartans/w/wa/wasko/"
 - name: "Wasko (Personal)"
-  url: "/setts/r8w2dr30g12dr3g12dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8w2dr30g12dr3g12dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/wasko/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWR](/stripes/bgbgbwr/).
 
 Part of the [Wasko](/tartans/w/wa/wasko/) tartan — the named design grouping this sett with its other cloths.

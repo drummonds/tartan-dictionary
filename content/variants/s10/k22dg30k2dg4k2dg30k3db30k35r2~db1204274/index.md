@@ -12,15 +12,15 @@ crumbs:
 - name: "Phillips"
   url: "/tartans/p/ph/phillips-3/"
 - name: "Phillips Welsh Name Tartan"
-  url: "/setts/k22dg30k2dg4k2dg30k3db30k35r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k22dg30k2dg4k2dg30k3db30k35r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/ph/phillips-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKGKGKGKBKR](/stripes/kkgkgkgkbkr/).
 
 Part of the [Phillips](/tartans/p/ph/phillips-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5751](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5751)
 
@@ -45,9 +45,11 @@ Earliest known date: 2002 The tartan for this Welsh surname and its variations, 
 </details>
 
 ## Thread count
-R/2 K35 DB30 K3 DG30 K2 DG4 K2 DG30 K20 K/2
+K/22 DG30 K2 DG4 K2 DG30 K3 DT30 K35 R/2
 
-One full sett is **316 threads**.
+One full sett is **296 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/2 K35 DB30 K3 DG30 K2 DG4 K2 DG30 K20 K/2 — 316 threads; it folds to the canonical 296-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **316 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/2 K35 DB30 K3 DG30 K2 DG4 K2 DG30 K20 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/22 DG30 K2 DG4 K2 DG30 K3 DT30 K35 R/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

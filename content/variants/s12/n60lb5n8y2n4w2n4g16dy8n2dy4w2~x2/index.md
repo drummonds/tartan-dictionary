@@ -10,10 +10,10 @@ crumbs:
 - name: "Stuart Silver Commemorative"
   url: "/tartans/s/st/stuart-silver-commemorative/"
 - name: "Stuart/Stewart Silver"
-  url: "/setts/n60lb5n8y2n4w2n4g16dy8n2dy4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n60lb5n8y2n4w2n4g16dy8n2dy4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stuart-silver-commemorative/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBWBGGBGW](/stripes/bwbgbwbggbgw/).
 
 Part of the [Stuart Silver Commemorative](/tartans/s/st/stuart-silver-commemorative/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Wishart Hunting"
   url: "/tartans/w/wi/wishart-hunting/"
 - name: "Wishart, hunting"
-  url: "/setts/k2dbi2g16db2y1db13w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2dbi2g16db2y1db13w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wishart-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBGBW](/stripes/kbgbgbw/).
 
 Part of the [Wishart Hunting](/tartans/w/wi/wishart-hunting/) tartan — the named design grouping this sett with its other cloths.

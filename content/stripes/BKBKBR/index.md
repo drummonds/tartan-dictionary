@@ -28,17 +28,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db8k39db8k39db87r6/">Largan (?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db8k39db8k39db87r6/"><img src="/variants/s6/db8k39db8k39db87r6/sett.png" alt="Largan (?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db1k3db1k3db8r1/">MacKay -1842 (VS) (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db1k3db1k3db8r1/"><img src="/variants/s6/db1k3db1k3db8r1~x4/sett.png" alt="MacKay -1842 (VS) (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db2k6db2k6db16r1~x2/">MacKay V</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2k6db2k6db16r1~x2/"><img src="/variants/s6/db2k6db2k6db16r1~x2/sett.png" alt="MacKay V sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r1t8k3t1k3t1~x8/">Mackay (Blue)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r1t8k3t1k3t1~x8/"><img src="/variants/s6/r1t8k3t1k3t1~x8/sett.png" alt="Mackay (Blue) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/largan/">Largan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/largan/"><img src="/variants/s6/db8k39db8k39db87r6/sett.png" alt="Largan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackay-7/">Mackay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackay-7/"><img src="/variants/s6/db2k6db2k6db16r1~x2/sett.png" alt="Mackay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/morgan/">Morgan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morgan/"><img src="/variants/s6/db1k3db1k3db8r1~x4/sett.png" alt="Morgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/r8t32k24db24k3t3~x2/">MacCorquodale #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r8t32k24db24k3t3~x2/"><img src="/variants/s6/r8t32k24db24k3t3~x2/sett.png" alt="MacCorquodale #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maccorquodale-2/">MacCorquodale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccorquodale-2/"><img src="/variants/s6/r8t32k24db24k3t3~x2/sett.png" alt="MacCorquodale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

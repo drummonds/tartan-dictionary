@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db4k2db20k13y1k2y2k2y1dp23n4~x2/">Michigan State Police</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db4k2db20k13y1k2y2k2y1dp23n4~x2/"><img src="/variants/s11/db4k2db20k13y1k2y2k2y1dp23n4~x2/sett.png" alt="Michigan State Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/">Michigan State Police (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/"><img src="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/sett.png" alt="Michigan State Police (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/michigan-state-police/">Michigan State Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/michigan-state-police/"><img src="/variants/s11/db4k2db20k13y1k2y2k2y1dp23n4~x2/sett.png" alt="Michigan State Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

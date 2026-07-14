@@ -11,16 +11,16 @@ crumbs:
   url: "/families/macculloch/"
 - name: "MacCulloch Dress"
   url: "/tartans/m/ma/macculloch-dress/"
-- name: "MacCulloch Dress (Name)"
-  url: "/setts/dy5k3g2r20db10w2g1dy1w20k4dy3/"
+- name: "MacCulloch Dress Clan/Family Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy5k3g2r20db10w2g1dy1w20k4dy3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGRBWGGWKGKWGGWBRGK](/stripes/gkgrbwggwkgkwggwbrgk/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macculloch-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGRBWGGWKG](/stripes/gkgrbwggwkg/).
 
 Part of the [MacCulloch Dress](/tartans/m/ma/macculloch-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3346](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3346)
 
@@ -45,9 +45,11 @@ Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the 
 </details>
 
 ## Thread count
-DY/10 K6 G4 R40 DB20 W4 G2 DY2 W40 K8 DY6 K8 W40 DY2 G2 W4 DB20 R40 G4 K/6
+DY/10 K6 G4 R40 DB20 W4 G2 DY2 W40 K8 DY/6
 
-One full sett is **520 threads**.
+One full sett is **268 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DY/10 K6 G4 R40 DB20 W4 G2 DY2 W40 K8 DY6 K8 W40 DY2 G2 W4 DB20 R40 G4 K/6 — 520 threads; it folds to the canonical 268-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **520 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/10 K6 G4 R40 DB20 W4 G2 DY2 W40 K8 DY6 K8 W40 DY2 G2 W4 DB20 R40 G4 K/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/10 K6 G4 R40 DB20 W4 G2 DY2 W40 K8 DY/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

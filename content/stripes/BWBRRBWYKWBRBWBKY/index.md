@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db25lb15dt6o3r2db10lb5lr5k2lb15db25o5dt2lb25db15k6lr3/">Kennewell (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db25lb15dt6o3r2db10lb5lr5k2lb15db25o5dt2lb25db15k6lr3/"><img src="/variants/s17/db25lb15dt6o3r2db10lb5lr5k2lb15db25o5dt2lb25db15k6lr3/sett.png" alt="Kennewell (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kennewell/">Kennewell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kennewell/"><img src="/variants/s17/db25lb15dt6o3r2db10lb5lr5k2lb15db25o5dt2lb25db15k6lr3/sett.png" alt="Kennewell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

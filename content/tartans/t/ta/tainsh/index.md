@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k62r9w7lb6y3g6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggwwrk/">GGWWRK</a></nav>
 Its design is pattern [GGWWRK](/stripes/ggwwrk/) — the page of every tartan sharing this colour sequence.
 
 The **Tainsh** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Tainsh** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k62r9w7lb6y3g6/">Tainsh</a></td><td><code>K/124 R18 W14 LB12 Y6 G/12</code></td><td>236</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k62r9w7lb6y3g6/"><img src="/variants/s6/k62r9w7lb6y3g6~x2/sett.png" alt="Tainsh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k62r9w7lb6y3g6~x2/">Tainsh</a></td><td><code>K/124 R18 W14 LB12 Y6 G/12</code></td><td>236</td><td>2016</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><img src="/variants/s6/k62r9w7lb6y3g6~x2/sett.png" alt="Tainsh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="402.7" cy="42.1" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="302.7" cy="96.3" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><a href="/variants/s4/k62n24y5w3~x2/"><circle cx="368.8" cy="148.7" r="4" fill="#3465a4"><title>Perry , Alex</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="391.7" cy="48.9" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="273.1" cy="126.3" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="301.7" cy="77.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="335.9" cy="83.6" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="261.6" cy="137.4" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="324.5" cy="57.3" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s6/db25k84w5g23y5dp8~x2/"><circle cx="247.5" cy="119.9" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><circle cx="309.4" cy="78.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="404.1" cy="42.3" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="303.7" cy="96.3" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><a href="/variants/s4/k62n24y5w3~x2/"><circle cx="369.9" cy="148.9" r="4" fill="#3465a4"><title>Perry , Alex</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="393.1" cy="49.1" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="274.0" cy="126.3" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="302.7" cy="77.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="337.1" cy="83.7" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="262.5" cy="137.4" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="325.6" cy="57.3" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s6/db25k84w5g23y5dp8~x2/"><circle cx="248.4" cy="119.8" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><circle cx="310.5" cy="78.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

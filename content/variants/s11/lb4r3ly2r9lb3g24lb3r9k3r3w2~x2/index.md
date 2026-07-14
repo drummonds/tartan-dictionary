@@ -8,15 +8,15 @@ crumbs:
 - name: "Wilson's No.128"
   url: "/tartans/w/wi/wilson-s-no-128/"
 - name: "Wilson's No.128"
-  url: "/setts/lb4r3ly2r9lb3g24lb3r9k3r3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4r3ly2r9lb3g24lb3r9k3r3w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RYRWGWRKRWRKRWGWRYRW](/stripes/ryrwgwrkrwrkrwgwryrw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-128/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WRKRWGWRYRW](/stripes/wrkrwgwryrw/).
 
 Part of the [Wilson's No.128](/tartans/w/wi/wilson-s-no-128/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4689](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4689)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 589
 
 ## Thread count
-LB/8 R6 LY4 R18 LB6 G48 LB6 R18 K6 R6 W4 R6 K6 R18 LB6 G48 LB6 R18 LY4 R/6
+LB/8 R6 LY4 R18 LB6 G48 LB6 R18 K6 R6 W/4
 
-One full sett is **482 threads**.
+One full sett is **248 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/8 R6 LY4 R18 LB6 G48 LB6 R18 K6 R6 W4 R6 K6 R18 LB6 G48 LB6 R18 LY4 R/6 — 482 threads; it folds to the canonical 248-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **482 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/8 R6 LY4 R18 LB6 G48 LB6 R18 K6 R6 W4 R6 K6 R18 LB6 G48 LB6 R18 LY4 R/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/8 R6 LY4 R18 LB6 G48 LB6 R18 K6 R6 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

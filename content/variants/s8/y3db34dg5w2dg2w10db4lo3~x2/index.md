@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Troon Golf Club, The"
   url: "/tartans/r/ro/royal-troon-golf-club-the/"
 - name: "Royal Troon Golf Club, The"
-  url: "/setts/y3db34dg5w2dg2w10db4lo3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3db34dg5w2dg2w10db4lo3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-troon-golf-club-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWGWBY](/stripes/gbgwgwby/).
 
 Part of the [Royal Troon Golf Club, The](/tartans/r/ro/royal-troon-golf-club-the/) tartan — the named design grouping this sett with its other cloths.

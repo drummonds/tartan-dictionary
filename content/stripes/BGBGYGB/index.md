@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db24g3db3g3lo2g18dr2~x2/">Greenways Marketing Intl (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db24g3db3g3lo2g18dr2~x2/"><img src="/variants/s7/db24g3db3g3lo2g18dr2~x2/sett.png" alt="Greenways Marketing Intl (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greenways-marketing-intl/">Greenways Marketing Intl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greenways-marketing-intl/"><img src="/variants/s7/db24g3db3g3lo2g18dr2~x2/sett.png" alt="Greenways Marketing Intl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/">Justus Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/"><img src="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/sett.png" alt="Justus Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/justus-hunting/">Justus Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/justus-hunting/"><img src="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/sett.png" alt="Justus Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/">St. Andrews Links (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><img src="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/sett.png" alt="St. Andrews Links (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-andrews-links/">St Andrews Links</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-links/"><img src="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/sett.png" alt="St Andrews Links sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

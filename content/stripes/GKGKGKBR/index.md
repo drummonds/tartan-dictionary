@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g44k2g2k2g3k12db10r3~x2/">Celtic (New) Corporate Sport Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g44k2g2k2g3k12db10r3~x2/"><img src="/variants/s8/g44k2g2k2g3k12db10r3~x2/sett.png" alt="Celtic (New) Corporate Sport Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/celtic-corporate-sport/">Celtic Corporate Sport</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/celtic-corporate-sport/"><img src="/variants/s8/g44k2g2k2g3k12db10r3~x2/sett.png" alt="Celtic Corporate Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

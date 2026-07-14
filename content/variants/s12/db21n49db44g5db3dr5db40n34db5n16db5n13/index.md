@@ -8,10 +8,10 @@ crumbs:
 - name: "Cara O Cruz"
   url: "/tartans/c/ca/cara-o-cruz/"
 - name: "Cara O Cruz"
-  url: "/setts/db21n49db44g5db3dr5db40n34db5n16db5n13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db21n49db44g5db3dr5db40n34db5n16db5n13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cara-o-cruz/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBGBBB](/stripes/bbbbbbbbgbbb/).
 
 Part of the [Cara O Cruz](/tartans/c/ca/cara-o-cruz/) tartan — the named design grouping this sett with its other cloths.

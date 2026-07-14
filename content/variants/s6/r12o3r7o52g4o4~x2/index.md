@@ -10,10 +10,10 @@ crumbs:
 - name: "Lynch Variant"
   url: "/tartans/l/ly/lynch-variant/"
 - name: "Lynch Variant"
-  url: "/setts/r12o3r7o52g4o4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12o3r7o52g4o4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/ly/lynch-variant/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRRRR](/stripes/rgrrrr/).
 
 Part of the [Lynch Variant](/tartans/l/ly/lynch-variant/) tartan — the named design grouping this sett with its other cloths.

@@ -20,7 +20,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/s/sw/swedish-para-whisky-club-corporate/"><img src="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/sett.png" alt="Swedish Para Whisky Club (Corporate" width="140"><br><strong>Swedish Para Whisky Club (Corporate (1)</strong></a><div class="clan-territory">Clan Swedish</div></li>
 <li><a class="tartan" href="/tartans/s/sw/sweetheart/"><img src="/variants/s12/dr6lb5dr23k20rii6k3r4k10dr14ri45k7ri6~rii2806019-r1807033-ri2109032/sett.png" alt="Sweetheart" width="140"><br><strong>Sweetheart (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sw/sweetheart-the/"><img src="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/sett.png" alt="Sweetheart, The" width="140"><br><strong>Sweetheart, The (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/sw/swiss/"><img src="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4~w3600000/sett.png" alt="Swiss" width="140"><br><strong>Swiss (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sw/swiss/"><img src="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4/sett.png" alt="Swiss" width="140"><br><strong>Swiss (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sw/swiss-country/"><img src="/variants/s10/r108g3r2db2r2y2n5w2r6w6~x2/sett.png" alt="Swiss Country" width="140"><br><strong>Swiss Country (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sw/swiss-highlander/"><img src="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/sett.png" alt="Swiss Highlander" width="140"><br><strong>Swiss Highlander (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sw/swiss-national/"><img src="/variants/s8/w10r47b2r2b2r18db3w4~x2~b1511266-db1108266/sett.png" alt="Swiss National" width="140"><br><strong>Swiss National (2)</strong></a></li>

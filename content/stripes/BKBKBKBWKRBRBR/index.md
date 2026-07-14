@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/">Sydney Academy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><img src="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/sett.png" alt="Sydney Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sy/sydney-academy-2/">Sydney Academy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sy/sydney-academy-2/"><img src="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/sett.png" alt="Sydney Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

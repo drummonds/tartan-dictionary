@@ -8,10 +8,10 @@ crumbs:
 - name: "Gourlay, George"
   url: "/tartans/g/go/gourlay-george/"
 - name: "Gourlay, George (Personal)"
-  url: "/setts/k24w1r6k21y2k24g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k24w1r6k21y2k24g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/gourlay-george/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKRWK](/stripes/gkgkrwk/).
 
 Part of the [Gourlay, George](/tartans/g/go/gourlay-george/) tartan — the named design grouping this sett with its other cloths.

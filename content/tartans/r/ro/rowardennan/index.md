@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k3dr22g5dg10do10dg2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbggbk/">GBGGBK</a></nav>
 Its design is pattern [GBGGBK](/stripes/gbggbk/) — the page of every tartan sharing this colour sequence.
 
 The **Rowardennan** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Rowardennan** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3dr22g5dg10do10dg2/">Rowardennan</a></td><td><code>K/6 DR44 G10 DG20 DO20 DG/4</code></td><td>198</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3dr22g5dg10do10dg2/"><img src="/variants/s6/k3dr22g5dg10do10dg2~x2/sett.png" alt="Rowardennan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3dr22g5dg10do10dg2~x2/">Rowardennan</a></td><td><code>K/6 DR44 G10 DG20 DO20 DG/4</code></td><td>198</td><td>1978</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3dr22g5dg10do10dg2~x2/"><img src="/variants/s6/k3dr22g5dg10do10dg2~x2/sett.png" alt="Rowardennan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4dg16db11dr16dg25lo2lb3~x2/"><circle cx="270.1" cy="195.2" r="4" fill="#3465a4"><title>Mayo, County</title></circle></a><a href="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/"><circle cx="271.7" cy="176.2" r="4" fill="#3465a4"><title>Batten of Argyll</title></circle></a><a href="/variants/s9/k1dp8dr1dy3dr1dy8k4dg14dr1~x4/"><circle cx="294.6" cy="223.5" r="4" fill="#3465a4"><title>Wcwm 1873-5</title></circle></a><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="323.7" cy="222.4" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/variants/s6/do2dy12do12r1k12dy2~x6/"><circle cx="281.3" cy="242.4" r="4" fill="#3465a4"><title>Ferguson Britt</title></circle></a><a href="/variants/s8/do24g2do5oi14g2oi5o17do2~x2~oi2104058-o2102055/"><circle cx="367.5" cy="253.9" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/"><circle cx="315.7" cy="252.0" r="4" fill="#3465a4"><title>Jardine</title></circle></a><circle cx="307.6" cy="251.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4dg16db11dr16dg25lo2lb3~x2/"><circle cx="270.5" cy="195.2" r="4" fill="#3465a4"><title>Mayo, County</title></circle></a><a href="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/"><circle cx="271.9" cy="176.2" r="4" fill="#3465a4"><title>Batten of Argyll</title></circle></a><a href="/variants/s9/k1dp8dr1dy3dr1dy8k4dg14dr1~x4/"><circle cx="294.7" cy="223.5" r="4" fill="#3465a4"><title>Wcwm 1873-5</title></circle></a><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="323.8" cy="222.4" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/variants/s6/do2dy12do12r1k12dy2~x6/"><circle cx="281.5" cy="242.5" r="4" fill="#3465a4"><title>Ferguson Britt</title></circle></a><a href="/variants/s8/do24g2do5oi14g2oi5o17do2~x2~oi2104058-o2102055/"><circle cx="367.6" cy="254.0" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/"><circle cx="315.8" cy="252.1" r="4" fill="#3465a4"><title>Jardine</title></circle></a><circle cx="307.7" cy="251.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k11w1k1w1k4n8r1~x8/">Dunfermline Athletic (2008) (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><img src="/variants/s7/k11w1k1w1k4n8r1~x8/sett.png" alt="Dunfermline Athletic (2008) (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunfermline-athletic/">Dunfermline Athletic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunfermline-athletic/"><img src="/variants/s7/k11w1k1w1k4n8r1~x8/sett.png" alt="Dunfermline Athletic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Dinwiddie"
   url: "/tartans/d/di/dinwiddie/"
 - name: "Dinwiddie"
-  url: "/setts/y7n2k2n41k12g22n6k2r4k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y7n2k2n41k12g22n6k2r4k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/dinwiddie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKGBKRK](/stripes/gbkbkgbkrk/).
 
 Part of the [Dinwiddie](/tartans/d/di/dinwiddie/) tartan — the named design grouping this sett with its other cloths.

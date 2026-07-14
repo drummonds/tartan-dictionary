@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/n4db2n7dt30n8dt7r5db1w2/">Hebridean Heather (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/n4db2n7dt30n8dt7r5db1w2/"><img src="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2/sett.png" alt="Hebridean Heather (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebridean-heather-2/">Hebridean Heather</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-heather-2/"><img src="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2/sett.png" alt="Hebridean Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k4lb12n3lb3n3lb4ly17lb15dy4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwywbwbwk/">GWYWBWBWK</a></nav>
 Its design is pattern [GWYWBWBWK](/stripes/gwywbwbwk/) — the page of every tartan sharing this colour sequence.
 
 The **Cotswolds Distillery** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Cotswolds Distillery** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4lb12n3lb3n3lb4ly17lb15dy4/">Cotswolds Distillery</a></td><td><code>K/8 LB24 N6 LB6 N6 LB8 LY34 LB30 DY/8</code></td><td>244</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4lb12n3lb3n3lb4ly17lb15dy4/"><img src="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/sett.png" alt="Cotswolds Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/">Cotswolds Distillery</a></td><td><code>K/8 LB24 N6 LB6 N6 LB8 LY34 LB30 DY/8</code></td><td>244</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/"><img src="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/sett.png" alt="Cotswolds Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/b2w4k2w1b4k1b1g1~x4/"><circle cx="126.7" cy="232.4" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/"><circle cx="169.3" cy="178.0" r="4" fill="#3465a4"><title>MacTavish of Dunardry</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="236.1" cy="179.4" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/"><circle cx="131.1" cy="186.7" r="4" fill="#3465a4"><title>U.S. Postal Service</title></circle></a><a href="/variants/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="235.2" cy="166.1" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s10/lp9n4lp5o4k3o12n18g4n18o6~x2~n1900000-o2500000/"><circle cx="227.5" cy="229.2" r="4" fill="#3465a4"><title>Jaggy Thistle</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="223.4" cy="190.4" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.5" cy="165.0" r="4" fill="#3465a4"><title>Breifne</title></circle></a><circle cx="210.7" cy="208.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/b2w4k2w1b4k1b1g1~x4/"><circle cx="126.9" cy="232.1" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/"><circle cx="169.6" cy="177.7" r="4" fill="#3465a4"><title>MacTavish of Dunardry</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="236.5" cy="179.3" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/"><circle cx="131.3" cy="186.4" r="4" fill="#3465a4"><title>U.S. Postal Service</title></circle></a><a href="/variants/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="235.7" cy="166.0" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s10/lp9n4lp5o4k3o12n18g4n18o6~x2~n1900000-o2500000/"><circle cx="227.7" cy="229.1" r="4" fill="#3465a4"><title>Jaggy Thistle</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="223.8" cy="190.2" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="210.0" cy="164.9" r="4" fill="#3465a4"><title>Breifne</title></circle></a><circle cx="211.0" cy="208.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

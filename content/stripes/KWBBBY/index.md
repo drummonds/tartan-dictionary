@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/">Pipers' Trail Dance, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><img src="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/sett.png" alt="Pipers' Trail Dance, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pipers-trail-dance-the/">Pipers' Trail Dance, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pipers-trail-dance-the/"><img src="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/sett.png" alt="Pipers' Trail Dance, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

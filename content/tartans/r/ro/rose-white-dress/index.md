@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/rose/"
 - name: "Rose"
   url: "/families/rose/"
+aliases:
+- "/setts/dr24lb4k4g4w13k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwkgwk/">BWKGWK</a></nav>
 A tartan of the [Rose](/families/rose/) family.
 Its design is pattern [BWKGWK](/stripes/bwkgwk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Rose White Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr24lb4k4g4w13k2/">Rose White Dress</a></td><td><code>DR/96 LB16 K16 G16 W52 K/8</code></td><td>304</td><td>1950</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr24lb4k4g4w13k2/"><img src="/variants/s6/dr24lb4k4g4w13k2~x4/sett.png" alt="Rose White Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr24lb4k4g4w13k2~x4/">Rose White Dress</a></td><td><code>DR/96 LB16 K16 G16 W52 K/8</code></td><td>304</td><td>1950</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><img src="/variants/s6/dr24lb4k4g4w13k2~x4/sett.png" alt="Rose White Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.8" cy="157.5" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="204.4" cy="134.2" r="4" fill="#3465a4"><title>Scottish American Society of Michigan</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="138.5" cy="176.5" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="160.4" cy="171.8" r="4" fill="#3465a4"><title>Thomson Dress</title></circle></a><a href="/variants/s6/w6k29o29dp7k3r3~x2~o2500000/"><circle cx="159.6" cy="160.7" r="4" fill="#3465a4"><title>Jewell of Kernow</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="168.2" cy="163.6" r="4" fill="#3465a4"><title>Jewell of Kernow</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.8" cy="169.0" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s7/r24w2y3g16k16w2y3~x2/"><circle cx="132.1" cy="156.0" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="192.3" cy="178.1" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><circle cx="162.4" cy="156.6" r="4" fill="#3465a4"><title>Cornish National Small Set</title></circle></a><circle cx="178.6" cy="154.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="161.3" cy="157.3" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.0" cy="133.9" r="4" fill="#3465a4"><title>Scottish American Society of Michigan</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="138.9" cy="176.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="160.9" cy="171.6" r="4" fill="#3465a4"><title>Thomson Dress</title></circle></a><a href="/variants/s6/w6k29o29dp7k3r3~x2~o2500000/"><circle cx="160.1" cy="160.5" r="4" fill="#3465a4"><title>Jewell of Kernow</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="168.7" cy="163.5" r="4" fill="#3465a4"><title>Jewell of Kernow</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="135.0" cy="168.7" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s7/r24w2y3g16k16w2y3~x2/"><circle cx="132.4" cy="155.7" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="192.8" cy="178.0" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><circle cx="162.9" cy="156.4" r="4" fill="#3465a4"><title>Cornish National Small Set</title></circle></a><circle cx="179.1" cy="153.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -14,11 +14,9 @@ crumbs:
 <table class="sett-table">
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
-<tr><td><a href="/tartans/g/gr/grampian-2/">Grampian</a> ★</td><td>1995</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gr/grampian-2/"><img src="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/gr/grampian-3/">Grampian</a></td><td>1993</td><td>1</td><td>1</td><td>5.49</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gr/grampian-3/"><img src="/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/g/gr/grampian/">Grampian</a></td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gr/grampian/"><img src="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grampian/">Grampian</a> ★</td><td>1995</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gr/grampian/"><img src="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grampian-2/">Grampian</a></td><td>1993</td><td>1</td><td>1</td><td>5.49</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/gr/grampian-2/"><img src="/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

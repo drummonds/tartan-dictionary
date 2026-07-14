@@ -12,15 +12,15 @@ crumbs:
 - name: "Ferguson Dress"
   url: "/tartans/f/fe/ferguson-dress/"
 - name: "Ferguson Dress Blue (Dance)"
-  url: "/setts/lb35k23w18dr3w18k2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb35k23w18dr3w18k2w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWBWKWKWBWKW](/stripes/kwbwkwkwbwkw/).
+provenance below. It is one weaving of the [sett](/tartans/f/fe/ferguson-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKWBWKW](/stripes/wkwbwkw/).
 
 Part of the [Ferguson Dress](/tartans/f/fe/ferguson-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1163](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1163)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4845
 
 ## Thread count
-W/6 K4 W36 DR6 W36 K46 LB70 K46 W36 DR6 W36 K/4
+LB/70 K46 W36 DR6 W36 K4 W/6
 
-One full sett is **654 threads**.
+One full sett is **332 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/6 K4 W36 DR6 W36 K46 LB70 K46 W36 DR6 W36 K/4 — 654 threads; it folds to the canonical 332-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **654 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/6 K4 W36 DR6 W36 K46 LB70 K46 W36 DR6 W36 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/70 K46 W36 DR6 W36 K4 W/6 tartan" width="880" height="480">
 
 ## Compared to the master
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r4lr1g6gi25k8db15lr2~x2~gi2004173/">Jones Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r4lr1g6gi25k8db15lr2~x2~gi2004173/"><img src="/variants/s7/r4lr1g6gi25k8db15lr2~x2~gi2004173/sett.png" alt="Jones Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jones/">Jones</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jones/"><img src="/variants/s7/r4lr1g6gi25k8db15lr2~x2~gi2004173/sett.png" alt="Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

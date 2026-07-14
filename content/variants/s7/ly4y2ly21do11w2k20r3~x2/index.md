@@ -12,10 +12,10 @@ crumbs:
 - name: "Barbour"
   url: "/tartans/b/ba/barbour-5/"
 - name: "Barbour Corporate Tartan"
-  url: "/setts/ly4y2ly21do11w2k20r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly4y2ly21do11w2k20r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barbour-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWBYGY](/stripes/rkwbygy/).
 
 Part of the [Barbour](/tartans/b/ba/barbour-5/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "MacKintosh Fragment"
   url: "/tartans/m/ma/mackintosh-fragment/"
 - name: "MacKintosh Fragment"
-  url: "/setts/r1g14r1g1r14g1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1g14r1g1r14g1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackintosh-fragment/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRGW](/stripes/rgrgrgw/).
 
 Part of the [MacKintosh Fragment](/tartans/m/ma/mackintosh-fragment/) tartan — the named design grouping this sett with its other cloths.

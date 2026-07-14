@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y40r8y4w2y4ly5~x2~y2203076-ly3307090/">Reid (1939)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y40r8y4w2y4ly5~x2~y2203076-ly3307090/"><img src="/variants/s6/y40r8y4w2y4ly5~x2~y2203076-ly3307090/sett.png" alt="Reid (1939) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/reid/">Reid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/reid/"><img src="/variants/s6/y40r8y4w2y4ly5~x2~y2203076-ly3307090/sett.png" alt="Reid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/">Braid (Estimated threadcount)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/"><img src="/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/sett.png" alt="Braid (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/braid/">Braid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braid/"><img src="/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/sett.png" alt="Braid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

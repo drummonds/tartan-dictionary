@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g2ly9do6dr3do2dr3do2dr10w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gybbbbbbw/">GYBBBBBBW</a></nav>
 Its design is pattern [GYBBBBBBW](/stripes/gybbbbbbw/) — the page of every tartan sharing this colour sequence.
 
 The **Tinkler** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Tinkler** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g2ly9do6dr3do2dr3do2dr10w2/">Tinkler</a></td><td><code>G/8 LY36 DO24 DR12 DO8 DR12 DO8 DR40 W/8</code></td><td>296</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g2ly9do6dr3do2dr3do2dr10w2/"><img src="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/sett.png" alt="Tinkler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/">Tinkler</a></td><td><code>G/8 LY36 DO24 DR12 DO8 DR12 DO8 DR40 W/8</code></td><td>296</td><td>~2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/"><img src="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/sett.png" alt="Tinkler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><circle cx="173.5" cy="245.0" r="4" fill="#3465a4"><title>Tinkler, Andrew</title></circle></a><a href="/variants/s11/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6~x2/"><circle cx="167.5" cy="242.0" r="4" fill="#3465a4"><title>Glenmorangie</title></circle></a><a href="/variants/s12/dg19dr3dg3dr15ly13dr15dg3dr3dg19dy6ly6do6~x2/"><circle cx="199.8" cy="241.0" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><circle cx="236.9" cy="233.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="159.9" cy="264.3" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><circle cx="194.6" cy="246.4" r="4" fill="#3465a4"><title>Caledonian Maple</title></circle></a><circle cx="175.9" cy="242.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><circle cx="173.4" cy="244.8" r="4" fill="#3465a4"><title>Tinkler, Andrew</title></circle></a><a href="/variants/s11/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6~x2/"><circle cx="167.4" cy="241.8" r="4" fill="#3465a4"><title>Glenmorangie</title></circle></a><a href="/variants/s12/dg19dr3dg3dr15ly13dr15dg3dr3dg19dy6ly6do6~x2/"><circle cx="199.8" cy="240.9" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><circle cx="237.0" cy="233.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="159.8" cy="264.0" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><circle cx="194.6" cy="246.2" r="4" fill="#3465a4"><title>Caledonian Maple</title></circle></a><circle cx="175.9" cy="242.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

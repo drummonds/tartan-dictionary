@@ -10,10 +10,10 @@ crumbs:
 - name: "Blue Toon"
   url: "/tartans/b/bl/blue-toon-2/"
 - name: "Blue Toon"
-  url: "/setts/n56db9w2db2r2n9lb4db2lb2y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n56db9w2db2r2n9lb4db2lb2y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blue-toon-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBRBWBWG](/stripes/bbwbrbwbwg/).
 
 Part of the [Blue Toon](/tartans/b/bl/blue-toon-2/) tartan — the named design grouping this sett with its other cloths.

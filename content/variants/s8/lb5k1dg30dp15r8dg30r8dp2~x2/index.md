@@ -12,10 +12,10 @@ crumbs:
 - name: "Shaw of Tordarroch, hunting"
   url: "/tartans/s/sh/shaw-of-tordarroch-hunting/"
 - name: "Shaw of Tordarroch, hunting"
-  url: "/setts/lb5k1dg30dp15r8dg30r8dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb5k1dg30dp15r8dg30r8dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shaw-of-tordarroch-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBGKW](/stripes/brgrbgkw/).
 
 Part of the [Shaw of Tordarroch, hunting](/tartans/s/sh/shaw-of-tordarroch-hunting/) tartan — the named design grouping this sett with its other cloths.

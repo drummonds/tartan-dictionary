@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g7w4k21n16db16r5~x2/">Hawkes, Norman (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g7w4k21n16db16r5~x2/"><img src="/variants/s6/g7w4k21n16db16r5~x2/sett.png" alt="Hawkes, Norman (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hawkes-norman/">Hawkes, Norman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hawkes-norman/"><img src="/variants/s6/g7w4k21n16db16r5~x2/sett.png" alt="Hawkes, Norman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

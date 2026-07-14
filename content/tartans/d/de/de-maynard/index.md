@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp2r9g8r4y1r4db10w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgrgrbw/">BRGRGRBW</a></nav>
 Its design is pattern [BRGRGRBW](/stripes/brgrgrbw/) — the page of every tartan sharing this colour sequence.
 
 The **De Maynard** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **De Maynard** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp2r9g8r4y1r4db10w2/">De Maynard</a></td><td><code>DP/8 R36 G32 R16 Y4 R16 DB40 W/8</code></td><td>304</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp2r9g8r4y1r4db10w2/"><img src="/variants/s8/dp2r9g8r4y1r4db10w2~x4/sett.png" alt="De Maynard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dp2r9g8r4y1r4db10w2~x4/">De Maynard</a></td><td><code>DP/8 R36 G32 R16 Y4 R16 DB40 W/8</code></td><td>304</td><td>1988</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dp2r9g8r4y1r4db10w2~x4/"><img src="/variants/s8/dp2r9g8r4y1r4db10w2~x4/sett.png" alt="De Maynard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/r6w1r6db2r6g12y1db8lb4r4~x2/"><circle cx="170.4" cy="178.0" r="4" fill="#3465a4"><title>Unidentified No 57</title></circle></a><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><circle cx="199.7" cy="196.5" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="166.2" cy="192.9" r="4" fill="#3465a4"><title>Elystan Glodrydd</title></circle></a><a href="/variants/s6/dt3db5n2dg5r11w3~x4/"><circle cx="110.5" cy="229.4" r="4" fill="#3465a4"><title>Nicolson of Lewis</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="185.1" cy="254.5" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s9/r26lb7dp8y3r3w3g20dp10w2~x2/"><circle cx="150.5" cy="162.7" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/variants/s9/w6lb36y12g19dg6r6dg6r28dg4/"><circle cx="107.4" cy="193.0" r="4" fill="#3465a4"><title>Derry</title></circle></a><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/"><circle cx="118.6" cy="216.8" r="4" fill="#3465a4"><title>Utah Centennial</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.4" cy="226.6" r="4" fill="#3465a4"><title>Ryan/Fehder</title></circle></a><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/"><circle cx="105.8" cy="197.4" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><circle cx="161.8" cy="190.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/r6w1r6db2r6g12y1db8lb4r4~x2/"><circle cx="170.7" cy="177.7" r="4" fill="#3465a4"><title>Unidentified No 57</title></circle></a><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><circle cx="199.8" cy="196.2" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="166.2" cy="192.7" r="4" fill="#3465a4"><title>Elystan Glodrydd</title></circle></a><a href="/variants/s6/dt3db5n2dg5r11w3~x4/"><circle cx="110.5" cy="229.1" r="4" fill="#3465a4"><title>Nicolson of Lewis</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="185.2" cy="254.4" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s9/r26lb7dp8y3r3w3g20dp10w2~x2/"><circle cx="150.6" cy="162.4" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/variants/s9/w6lb36y12g19dg6r6dg6r28dg4/"><circle cx="107.3" cy="192.6" r="4" fill="#3465a4"><title>Derry</title></circle></a><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/"><circle cx="118.6" cy="216.5" r="4" fill="#3465a4"><title>Utah Centennial</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.5" cy="226.3" r="4" fill="#3465a4"><title>Ryan/Fehder</title></circle></a><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/"><circle cx="105.7" cy="197.0" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><circle cx="162.0" cy="190.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

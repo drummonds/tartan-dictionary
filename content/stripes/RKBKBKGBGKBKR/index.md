@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r2k2db21k8dg16db3dg16k8db3k3db21k2r2~x2/">Metropolitan Atlanta Police, Emerald Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r2k2db21k8dg16db3dg16k8db3k3db21k2r2~x2/"><img src="/variants/s13/r2k2db21k8dg16db3dg16k8db3k3db21k2r2~x2/sett.png" alt="Metropolitan Atlanta Police, Emerald Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/metropolitan-atlanta-police-emerald-society/">Metropolitan Atlanta Police, Emerald Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/metropolitan-atlanta-police-emerald-society/"><img src="/variants/s13/r2k2db21k8dg16db3dg16k8db3k3db21k2r2~x2/sett.png" alt="Metropolitan Atlanta Police, Emerald Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

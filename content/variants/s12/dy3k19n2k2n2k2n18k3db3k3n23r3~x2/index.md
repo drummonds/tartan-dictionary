@@ -10,10 +10,10 @@ crumbs:
 - name: "MacInnes Homecoming"
   url: "/tartans/m/ma/macinnes-homecoming/"
 - name: "MacInnes Homecoming"
-  url: "/setts/dy3k19n2k2n2k2n18k3db3k3n23r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy3k19n2k2n2k2n18k3db3k3n23r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macinnes-homecoming/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBKBKBR](/stripes/gkbkbkbkbkbr/).
 
 Part of the [MacInnes Homecoming](/tartans/m/ma/macinnes-homecoming/) tartan — the named design grouping this sett with its other cloths.

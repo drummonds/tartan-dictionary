@@ -8,10 +8,10 @@ crumbs:
 - name: "Humble, Gordon"
   url: "/tartans/h/hu/humble-gordon/"
 - name: "Humble, Gordon (Personal)"
-  url: "/setts/db4dy2db14dy4db4o1k8g13y3g13k8dy10k3dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4dy2db14dy4db4o1k8g13y3g13k8dy10k3dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/humble-gordon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBRKGGGKGKG](/stripes/bgbgbrkgggkgkg/).
 
 Part of the [Humble, Gordon](/tartans/h/hu/humble-gordon/) tartan — the named design grouping this sett with its other cloths.

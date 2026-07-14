@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s27/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9~x4~db1406275/">Dryer</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s27/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9~x4~db1406275/"><img src="/variants/s27/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9~x4~db1406275/sett.png" alt="Dryer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/dryer-2/">Dryer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/dryer-2/"><img src="/variants/s27/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9~x4~db1406275/sett.png" alt="Dryer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

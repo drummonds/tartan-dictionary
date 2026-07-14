@@ -10,10 +10,10 @@ crumbs:
 - name: "Aberdeen Football Club"
   url: "/tartans/a/ab/aberdeen-football-club-2/"
 - name: "Aberdeen Football Club (2002)"
-  url: "/setts/k4r4y2r41k4r4k12w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4r4y2r41k4r4k12w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ab/aberdeen-football-club-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRKRKW](/stripes/krgrkrkw/).
 
 Part of the [Aberdeen Football Club](/tartans/a/ab/aberdeen-football-club-2/) tartan — the named design grouping this sett with its other cloths.

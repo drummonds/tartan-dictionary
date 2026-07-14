@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/">Morris, Tom (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/"><img src="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/sett.png" alt="Morris, Tom (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lethcoe-2/">Lethcoe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lethcoe-2/"><img src="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/sett.png" alt="Lethcoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

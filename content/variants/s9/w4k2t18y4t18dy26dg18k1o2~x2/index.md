@@ -10,15 +10,15 @@ crumbs:
 - name: "Hughes Interconnection Int."
   url: "/tartans/h/hu/hughes-interconnection-int/"
 - name: "Hughes Interconnection Int."
-  url: "/setts/w4k2t18y4t18dy26dg18k1o2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4k2t18y4t18dy26dg18k1o2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KGGBGBKWKBGBGGKR](/stripes/kggbgbkwkbgbggkr/).
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hughes-interconnection-int/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKGGBGBKW](/stripes/rkggbgbkw/).
 
 Part of the [Hughes Interconnection Int.](/tartans/h/hu/hughes-interconnection-int/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1781](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1781)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1781](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — Hughes Interconnection Int. (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1781">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Requested name is Hughes Interconnection International. A modification of Hughes Personal tartan #2599 (original Scottish Tartans Authority reference). Designed as a family tartan for all of the name HUGHES but only available through Grace Hughes.</em></li>
-<li>2003 — Hughes Interconnection Int. (Pers) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6037">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><br><em>Requested name is Hughes Interconnection International. A modification of Hughes Personal tartan #2599. Designed a s a family tartan for all of the name HUGHES but only available through Grace Hughes on hughesj204@aol.com. 2nd March 2004).</em></li>
+<li>2003 — Hughes Interconnection Int. (Pers) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6037/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><br><em>Requested name is Hughes Interconnection International. A modification of Hughes Personal tartan #2599. Designed a s a family tartan for all of the name HUGHES but only available through Grace Hughes on hughesj204@aol.com. 2nd March 2004).</em></li>
 </ul>
 </details>
 
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6037
 
 ## Thread count
-O/4 K2 DG36 DY52 T36 Y8 T36 K4 W8 K4 T36 Y8 T36 DY52 DG36 K/2
+W/8 K4 T36 Y8 T36 DY52 DG36 K2 O/4
 
-One full sett is **714 threads**.
+One full sett is **360 threads**.
+
+<p class="recorded-note">The source recorded this cloth as O/4 K2 DG36 DY52 T36 Y8 T36 K4 W8 K4 T36 Y8 T36 DY52 DG36 K/2 — 714 threads; it folds to the canonical 360-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **714 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="O/4 K2 DG36 DY52 T36 Y8 T36 K4 W8 K4 T36 Y8 T36 DY52 DG36 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/8 K4 T36 Y8 T36 DY52 DG36 K2 O/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

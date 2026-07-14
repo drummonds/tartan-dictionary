@@ -12,10 +12,10 @@ crumbs:
 - name: "Cockburn"
   url: "/tartans/c/co/cockburn-5/"
 - name: "Cockburn"
-  url: "/setts/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cockburn-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKBKWKBKGKGKR](/stripes/gkgkgkbkwkbkgkgkr/).
 
 Part of the [Cockburn](/tartans/c/co/cockburn-5/) tartan — the named design grouping this sett with its other cloths.

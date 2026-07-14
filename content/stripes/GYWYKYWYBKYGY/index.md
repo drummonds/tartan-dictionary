@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/">Knox (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><img src="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/sett.png" alt="Knox (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/kn/knox/">Knox</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kn/knox/"><img src="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/sett.png" alt="Knox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

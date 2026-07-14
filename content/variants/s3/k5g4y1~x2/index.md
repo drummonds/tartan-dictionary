@@ -8,10 +8,10 @@ crumbs:
 - name: "Wilson's, No 2/53 or Mull"
   url: "/tartans/w/wi/wilson-s-no-2-53-or-mull/"
 - name: "Wilson's, No 2/53 or Mull"
-  url: "/setts/k5g4y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5g4y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-2-53-or-mull/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGK](/stripes/ggk/).
 
 Part of the [Wilson's, No 2/53 or Mull](/tartans/w/wi/wilson-s-no-2-53-or-mull/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Heather"
   url: "/tartans/s/sc/scottish-heather/"
 - name: "Scottish Heather"
-  url: "/setts/db1b1g3dp6db2k32db2dp12w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1b1g3dp6db2k32db2dp12w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-heather/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBKBBW](/stripes/bbgbbkbbw/).
 
 Part of the [Scottish Heather](/tartans/s/sc/scottish-heather/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "New Brunswick, or Beaverbrook"
   url: "/tartans/n/ne/new-brunswick-or-beaverbrook-2/"
 - name: "New Brunswick, or Beaverbrook"
-  url: "/setts/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/new-brunswick-or-beaverbrook-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWGBGBGBGWGWGWGRGBGWRRRGRRRGWGWGWGBGBGBGWGW](/stripes/wgwgbgbgbgwgwgwgrgbgwrrrgrrrgwgwgwgbgbgbgwgw/).
 
 Part of the [New Brunswick, or Beaverbrook](/tartans/n/ne/new-brunswick-or-beaverbrook-2/) tartan — the named design grouping this sett with its other cloths.

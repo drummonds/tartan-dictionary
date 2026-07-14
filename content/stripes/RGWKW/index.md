@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r15g3w2k10w5~x2/">SAL Cubiska Stenen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r15g3w2k10w5~x2/"><img src="/variants/s5/r15g3w2k10w5~x2/sett.png" alt="SAL Cubiska Stenen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sal-cubiska-stenen/">SAL Cubiska Stenen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sal-cubiska-stenen/"><img src="/variants/s5/r15g3w2k10w5~x2/sett.png" alt="SAL Cubiska Stenen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

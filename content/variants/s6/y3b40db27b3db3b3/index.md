@@ -8,10 +8,10 @@ crumbs:
 - name: "Keeper of the Quaich"
   url: "/tartans/k/ke/keeper-of-the-quaich/"
 - name: "Keeper of the Quaich"
-  url: "/setts/y3b40db27b3db3b3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3b40db27b3db3b3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/keeper-of-the-quaich/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBG](/stripes/bbbbbg/).
 
 Part of the [Keeper of the Quaich](/tartans/k/ke/keeper-of-the-quaich/) tartan — the named design grouping this sett with its other cloths.

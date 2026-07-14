@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/y2k1g1r1g1r2g25r1k4r1db25r2db1r1db1k1w2~x2/">Victoria City of Gardens (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/y2k1g1r1g1r2g25r1k4r1db25r2db1r1db1k1w2~x2/"><img src="/variants/s17/y2k1g1r1g1r2g25r1k4r1db25r2db1r1db1k1w2~x2/sett.png" alt="Victoria City of Gardens (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/victoria-city-of-gardens/">Victoria City of Gardens</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/victoria-city-of-gardens/"><img src="/variants/s17/y2k1g1r1g1r2g25r1k4r1db25r2db1r1db1k1w2~x2/sett.png" alt="Victoria City of Gardens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/">Stewart of Appin Htg (error)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><img src="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/sett.png" alt="Stewart of Appin Htg (error) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/">Stuart/Stewart of Appin #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><img src="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/sett.png" alt="Stuart/Stewart of Appin #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-appin-1/">Stewart of Appin 1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-1/"><img src="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/sett.png" alt="Stewart of Appin 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-appin-2/">Stewart of Appin 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-2/"><img src="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/sett.png" alt="Stewart of Appin 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

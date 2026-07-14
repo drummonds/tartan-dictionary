@@ -10,22 +10,22 @@ crumbs:
 - name: "Gordon Cumming"
   url: "/tartans/g/go/gordon-cumming/"
 - name: "Gordon Cumming (Artefact)"
-  url: "/setts/y10g30dg25g30k2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y10g30dg25g30k2g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/gordon-cumming/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGKG](/stripes/ggggkg/).
 
 Part of the [Gordon Cumming](/tartans/g/go/gordon-cumming/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7643](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7643)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7643/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7643/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2008 — Gordon Cumming (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7643">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#009468;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="EG #009468"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007460;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #007460"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>From an old framed print of a mutton-chopped Highland chief signed 'Yours faithfully, Gordon Cumming.' donated by Jim McAslan in 2008. The 'Gordon' is not crystal clear and it could conceivably be something else and it's not known if that's the christian name or part of the surname. In favour of the latter is the fact that the tartan does have a similarity to the Gordon clan tartan. The apron of the kilt is held down by three ornate 'silver' clasps. See 7644 for the hose worn by this subject.</em></li>
+<li>pre 2008 — Gordon Cumming (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7643/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#009468;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="EG #009468"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007460;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #007460"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>From an old framed print of a mutton-chopped Highland chief signed 'Yours faithfully, Gordon Cumming.' donated by Jim McAslan in 2008. The 'Gordon' is not crystal clear and it could conceivably be something else and it's not known if that's the christian name or part of the surname. In favour of the latter is the fact that the tartan does have a similarity to the Gordon clan tartan. The apron of the kilt is held down by three ornate 'silver' clasps. See 7644 for the hose worn by this subject.</em></li>
 <li>undated — Gordon Cumming (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5657">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#009468;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="EG #009468"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007460;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #007460"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>From an old framed print of a mutton-chopped Highland chief signed 'Yours faithfully, Gordon Cumming.' donated by Jim McAslan in 2008. The 'Gordon' is not crystal clear and it could conceivably be something else and it's not known if that's the christian name or part of the surname. In favour of the latter is the fact that the tartan does have a similarity to the Gordon 1 tartan. The apron of the kilt is held down by three ornate 'silver' clasps. See #7644 (original Scottish Tartans Authority reference) for the hose worn by this subject.</em></li>
 </ul>
 </details>
@@ -40,7 +40,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7643](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

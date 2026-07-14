@@ -12,10 +12,10 @@ crumbs:
 - name: "Perth"
   url: "/tartans/p/pe/perth-2/"
 - name: "Perth (Duke of.. ) Portrait Tartan"
-  url: "/setts/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/perth-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGWGWGRBRWR](/stripes/brbrgwgwgrbrwr/).
 
 Part of the [Perth](/tartans/p/pe/perth-2/) tartan — the named design grouping this sett with its other cloths.

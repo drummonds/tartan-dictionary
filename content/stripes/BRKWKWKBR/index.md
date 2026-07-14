@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r3db20k6w5k4w3k2r1db2~x2/">Knights Templar International Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3db20k6w5k4w3k2r1db2~x2/"><img src="/variants/s9/r3db20k6w5k4w3k2r1db2~x2/sett.png" alt="Knights Templar International Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/kn/knights-templar-international/">Knights Templar International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kn/knights-templar-international/"><img src="/variants/s9/r3db20k6w5k4w3k2r1db2~x2/sett.png" alt="Knights Templar International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/">Scottish Knights Templar Int. (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><img src="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/sett.png" alt="Scottish Knights Templar Int. (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-knights-templar-international/">Scottish Knights Templar International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-knights-templar-international/"><img src="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/sett.png" alt="Scottish Knights Templar International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

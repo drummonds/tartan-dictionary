@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/">State Seal of Minnesota (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/"><img src="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/sett.png" alt="State Seal of Minnesota (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-minnesota/">State Seal of Minnesota</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-minnesota/"><img src="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/sett.png" alt="State Seal of Minnesota sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

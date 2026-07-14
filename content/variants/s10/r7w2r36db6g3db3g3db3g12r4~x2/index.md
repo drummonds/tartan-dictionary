@@ -12,10 +12,10 @@ crumbs:
 - name: "Chisholm of Strathglass"
   url: "/tartans/c/ch/chisholm-of-strathglass/"
 - name: "Chisholm of Strathglass Clan Tartan"
-  url: "/setts/r7w2r36db6g3db3g3db3g12r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r7w2r36db6g3db3g3db3g12r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chisholm-of-strathglass/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGBGBRWR](/stripes/rgbgbgbrwr/).
 
 Part of the [Chisholm of Strathglass](/tartans/c/ch/chisholm-of-strathglass/) tartan — the named design grouping this sett with its other cloths.

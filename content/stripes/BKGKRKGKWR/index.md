@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr20k4g14k1o2k1g14k10w22o7~x2~w3600000/">Border Union Cattle Show</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr20k4g14k1o2k1g14k10w22o7~x2~w3600000/"><img src="/variants/s10/dr20k4g14k1o2k1g14k10w22o7~x2~w3600000/sett.png" alt="Border Union Cattle Show sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/border-union-cattle-show/">Border Union Cattle Show</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/border-union-cattle-show/"><img src="/variants/s10/dr20k4g14k1o2k1g14k10w22o7~x2~w3600000/sett.png" alt="Border Union Cattle Show sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/">Cartier, Sir George Etienne</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/"><img src="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/sett.png" alt="Cartier, Sir George Etienne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cartier-sir-george-etienne/">Cartier, Sir George Etienne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cartier-sir-george-etienne/"><img src="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/sett.png" alt="Cartier, Sir George Etienne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

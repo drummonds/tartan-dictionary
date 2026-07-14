@@ -12,10 +12,10 @@ crumbs:
 - name: "Bell"
   url: "/tartans/b/be/bell/"
 - name: "Bell Family Tartan"
-  url: "/setts/r3dg2k9lb2k2lb24y2lb2y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3dg2k9lb2k2lb24y2lb2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/bell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWKWKGR](/stripes/gwgwkwkgr/).
 
 Part of the [Bell](/tartans/b/be/bell/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r1k3lb2k28r30k1r2lb1~x2/">Las Vegas Fire Fighters</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r1k3lb2k28r30k1r2lb1~x2/"><img src="/variants/s8/r1k3lb2k28r30k1r2lb1~x2/sett.png" alt="Las Vegas Fire Fighters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/las-vegas-fire-fighters/">Las Vegas Fire Fighters</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/las-vegas-fire-fighters/"><img src="/variants/s8/r1k3lb2k28r30k1r2lb1~x2/sett.png" alt="Las Vegas Fire Fighters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

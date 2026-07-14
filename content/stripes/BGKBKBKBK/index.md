@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k2db3k2db18k11db2k11g25dp2~x2/">Aitchison Family (Kinghorn) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k2db3k2db18k11db2k11g25dp2~x2/"><img src="/variants/s9/k2db3k2db18k11db2k11g25dp2~x2/sett.png" alt="Aitchison Family (Kinghorn) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ai/aitchison/">Aitchison</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ai/aitchison/"><img src="/variants/s9/k2db3k2db18k11db2k11g25dp2~x2/sett.png" alt="Aitchison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy9n4dy2n4dy2n30dy9n4lb14lo2~x2/">Hanna of Leith (yellow line)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy9n4dy2n4dy2n30dy9n4lb14lo2~x2/"><img src="/variants/s10/dy9n4dy2n4dy2n30dy9n4lb14lo2~x2/sett.png" alt="Hanna of Leith (yellow line) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hanna-of-leith/">Hanna of Leith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hanna-of-leith/"><img src="/variants/s10/dy9n4dy2n4dy2n30dy9n4lb14lo2~x2/sett.png" alt="Hanna of Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "West Point"
   url: "/tartans/w/we/west-point/"
 - name: "West Point"
-  url: "/setts/k13n1k1n1k4n10y1n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k13n1k1n1k4n10y1n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/west-point/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBKBK](/stripes/bgbkbkbk/).
 
 Part of the [West Point](/tartans/w/we/west-point/) tartan — the named design grouping this sett with its other cloths.

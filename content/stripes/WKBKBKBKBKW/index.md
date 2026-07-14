@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/">Gwyn (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/"><img src="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/sett.png" alt="Gwyn (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gw/gwyn/">Gwyn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gw/gwyn/"><img src="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/sett.png" alt="Gwyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

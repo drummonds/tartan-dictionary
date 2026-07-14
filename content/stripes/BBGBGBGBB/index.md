@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n65dp3g3dp3g16do8g3do3b4~x2/">Scottish National (hunting)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n65dp3g3dp3g16do8g3do3b4~x2/"><img src="/variants/s9/n65dp3g3dp3g16do8g3do3b4~x2/sett.png" alt="Scottish National (hunting) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-national/">Scottish National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-national/"><img src="/variants/s9/n65dp3g3dp3g16do8g3do3b4~x2/sett.png" alt="Scottish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

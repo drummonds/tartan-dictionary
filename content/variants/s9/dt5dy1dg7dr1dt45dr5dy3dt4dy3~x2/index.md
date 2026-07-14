@@ -8,10 +8,10 @@ crumbs:
 - name: "Brooks Brothers Signature"
   url: "/tartans/b/br/brooks-brothers-signature/"
 - name: "Brooks Brothers Signature Corporate Tartan"
-  url: "/setts/dt5dy1dg7dr1dt45dr5dy3dt4dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt5dy1dg7dr1dt45dr5dy3dt4dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brooks-brothers-signature/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBBBGBG](/stripes/bggbbbgbg/).
 
 Part of the [Brooks Brothers Signature](/tartans/b/br/brooks-brothers-signature/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/">Steiff</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><img src="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/sett.png" alt="Steiff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/steiff/">Steiff</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/steiff/"><img src="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/sett.png" alt="Steiff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,15 +12,15 @@ crumbs:
 - name: "Keith"
   url: "/tartans/k/ke/keith-2/"
 - name: "Keith"
-  url: "/setts/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t18r5t3r5t3k20g18dy4g18k20t20k6t6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBRBKGGGKBKBKBKGGGKBRBR](/stripes/brbrbkgggkbkbkbkgggkbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/k/ke/keith-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKGGGKBRBRB](/stripes/bkbkgggkbrbrb/).
 
 Part of the [Keith](/tartans/k/ke/keith-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1935](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1935)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1935](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — Keith (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1935">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Designed by Councillor Linda Gorn of Keith who was instrumental in having a tartan museum established in Keith circa 1998 under the auspices of the Scottish Tartans Society. Keith is also home to Macnaughton Group's weaving mill (Islay Mill). The House of Edgar who formalised this design is also part of the same group.</em></li>
-<li>2003, January — Keith (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5782">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Designed by Councillor Linda Gorn of Keith who was instrumental in having a tartan museum established in Keith circa 1998 under the auspices of the Scottish Tartans Society. Keith is also home to Macnaughton Group's weaving mill (Islay Mill). The House of Edgar who formalised this design is also part of the same group.</em></li>
+<li>2003, January — Keith (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5782/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Designed by Councillor Linda Gorn of Keith who was instrumental in having a tartan museum established in Keith circa 1998 under the auspices of the Scottish Tartans Society. Keith is also home to Macnaughton Group's weaving mill (Islay Mill). The House of Edgar who formalised this design is also part of the same group.</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5782
 
 ## Thread count
-T/18 R5 T3 R5 T3 K20 G18 DY4 G18 K20 T20 K6 T6 K6 T20 K20 G18 DY4 G18 K20 T3 R5 T3 R/5
+T/18 R5 T3 R5 T3 K20 G18 DY4 G18 K20 T20 K6 T/6
 
-One full sett is **513 threads**.
+One full sett is **268 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/18 R5 T3 R5 T3 K20 G18 DY4 G18 K20 T20 K6 T6 K6 T20 K20 G18 DY4 G18 K20 T3 R5 T3 R/5 — 513 threads; it folds to the canonical 268-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **513 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/18 R5 T3 R5 T3 K20 G18 DY4 G18 K20 T20 K6 T6 K6 T20 K20 G18 DY4 G18 K20 T3 R5 T3 R/5 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/18 R5 T3 R5 T3 K20 G18 DY4 G18 K20 T20 K6 T/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

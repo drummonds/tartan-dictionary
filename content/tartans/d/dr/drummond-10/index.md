@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/drummond/"
 - name: "Drummond"
   url: "/families/drummond/"
+aliases:
+- "/setts/r4g1r1g18k1g1k1g8r28g1r1g4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgrgkgkgrgr/">GRGRGKGKGRGR</a></nav>
 A tartan of the [Drummond](/families/drummond/) family.
 Its design is pattern [GRGRGKGKGRGR](/stripes/grgrgkgkgrgr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Drummond** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4g1r1g18k1g1k1g8r28g1r1g4/">Drummond</a></td><td><code>R/8 G2 R2 G36 K2 G2 K2 G16 R56 G2 R2 G/8</code></td><td>260</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4g1r1g18k1g1k1g8r28g1r1g4/"><img src="/variants/s12/r4g1r1g18k1g1k1g8r28g1r1g4~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r4g1r1g18k1g1k1g8r28g1r1g4~x2/">Drummond</a></td><td><code>R/8 G2 R2 G36 K2 G2 K2 G16 R56 G2 R2 G/8</code></td><td>260</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r4g1r1g18k1g1k1g8r28g1r1g4~x2/"><img src="/variants/s12/r4g1r1g18k1g1k1g8r28g1r1g4~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -38,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="419.7" cy="181.8" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><circle cx="413.9" cy="193.2" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/"><circle cx="303.8" cy="103.9" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><circle cx="350.8" cy="148.6" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/variants/s14/r60db2r2g63r2db2r2db20r2db2r54g2r2g40/"><circle cx="354.4" cy="121.4" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="347.5" cy="111.6" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x2/"><circle cx="314.5" cy="142.2" r="4" fill="#3465a4"><title>Mordente</title></circle></a><a href="/variants/s10/r4g8w1g8r4g4r2g4r24k2~x2/"><circle cx="335.4" cy="122.1" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/"><circle cx="344.9" cy="152.6" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s8/r36g18r4g6k1lr2k1g2~x2/"><circle cx="380.8" cy="102.5" r="4" fill="#3465a4"><title>Strang</title></circle></a><circle cx="360.3" cy="108.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="420.5" cy="182.1" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><circle cx="414.7" cy="193.4" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/"><circle cx="304.6" cy="103.9" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><circle cx="351.5" cy="148.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/variants/s14/r60db2r2g63r2db2r2db20r2db2r54g2r2g40/"><circle cx="355.2" cy="121.4" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="348.4" cy="111.7" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x2/"><circle cx="315.1" cy="142.2" r="4" fill="#3465a4"><title>Mordente</title></circle></a><a href="/variants/s10/r4g8w1g8r4g4r2g4r24k2~x2/"><circle cx="336.3" cy="122.1" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/"><circle cx="345.8" cy="152.7" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s8/r36g18r4g6k1lr2k1g2~x2/"><circle cx="381.8" cy="102.6" r="4" fill="#3465a4"><title>Strang</title></circle></a><circle cx="361.2" cy="108.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

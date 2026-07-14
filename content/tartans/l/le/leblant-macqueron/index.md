@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/n5k6w2g7w2db44w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkwgwbw/">BKWGWBW</a></nav>
 Its design is pattern [BKWGWBW](/stripes/bkwgwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Leblant-Macqueron** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Leblant-Macqueron** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n5k6w2g7w2db44w2/">Leblant-Macqueron</a></td><td><code>N/10 K12 W4 G14 W4 DB88 W/4</code></td><td>258</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n5k6w2g7w2db44w2/"><img src="/variants/s7/n5k6w2g7w2db44w2~x2/sett.png" alt="Leblant-Macqueron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n5k6w2g7w2db44w2~x2/">Leblant-Macqueron</a></td><td><code>N/10 K12 W4 G14 W4 DB88 W/4</code></td><td>258</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><img src="/variants/s7/n5k6w2g7w2db44w2~x2/sett.png" alt="Leblant-Macqueron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="368.5" cy="146.1" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="282.6" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.0" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="404.1" cy="106.3" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="440.8" cy="77.2" r="4" fill="#3465a4"><title>Michael</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="262.8" cy="74.5" r="4" fill="#3465a4"><title>Stewart Blue MINI</title></circle></a><a href="/variants/s6/r2db61k13w2n20ly2~x2/"><circle cx="344.3" cy="102.7" r="4" fill="#3465a4"><title>Lloyd of Astargus</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="303.5" cy="88.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="317.7" cy="136.2" r="4" fill="#3465a4"><title>Hannah</title></circle></a><a href="/variants/s5/r14w6db38k3g2~x2/"><circle cx="302.7" cy="130.8" r="4" fill="#3465a4"><title>Doten</title></circle></a><circle cx="347.6" cy="101.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="369.4" cy="146.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="283.4" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.9" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="405.2" cy="106.4" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="442.2" cy="77.5" r="4" fill="#3465a4"><title>Michael</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="263.8" cy="74.4" r="4" fill="#3465a4"><title>Stewart Blue MINI</title></circle></a><a href="/variants/s6/r2db61k13w2n20ly2~x2/"><circle cx="345.3" cy="102.7" r="4" fill="#3465a4"><title>Lloyd of Astargus</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="304.5" cy="88.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="318.7" cy="136.3" r="4" fill="#3465a4"><title>Hannah</title></circle></a><a href="/variants/s5/r14w6db38k3g2~x2/"><circle cx="303.6" cy="130.8" r="4" fill="#3465a4"><title>Doten</title></circle></a><circle cx="348.6" cy="101.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -10,10 +10,10 @@ crumbs:
 - name: "Poulter Pink"
   url: "/tartans/p/po/poulter-pink/"
 - name: "Poulter Pink Corporate Tartan"
-  url: "/setts/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/poulter-pink/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWBYWYBWBW](/stripes/wbwbwbywybwbw/).
 
 Part of the [Poulter Pink](/tartans/p/po/poulter-pink/) tartan — the named design grouping this sett with its other cloths.

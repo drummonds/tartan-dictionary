@@ -8,10 +8,10 @@ crumbs:
 - name: "Inchforth"
   url: "/tartans/i/in/inchforth/"
 - name: "Inchforth (Personal)"
-  url: "/setts/o4dg2o7dt30o8dt7g5dg1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o4dg2o7dt30o8dt7g5dg1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/inchforth/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRBGGW](/stripes/rgrbrbggw/).
 
 Part of the [Inchforth](/tartans/i/in/inchforth/) tartan — the named design grouping this sett with its other cloths.

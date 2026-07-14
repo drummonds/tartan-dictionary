@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r2b3r1b16t2b9t9b3t15g1t3g2~x2/">Clydebank (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r2b3r1b16t2b9t9b3t15g1t3g2~x2/"><img src="/variants/s12/r2b3r1b16t2b9t9b3t15g1t3g2~x2/sett.png" alt="Clydebank (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clydebank/">Clydebank</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clydebank/"><img src="/variants/s12/r2b3r1b16t2b9t9b3t15g1t3g2~x2/sett.png" alt="Clydebank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

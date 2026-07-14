@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r15w7r10db7w3k3w3r8db5w3k3w3~x2/">Westgaard of Kileughterco (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r15w7r10db7w3k3w3r8db5w3k3w3~x2/"><img src="/variants/s12/r15w7r10db7w3k3w3r8db5w3k3w3~x2/sett.png" alt="Westgaard of Kileughterco (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westgaard-of-kileughterco/">Westgaard of Kileughterco</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westgaard-of-kileughterco/"><img src="/variants/s12/r15w7r10db7w3k3w3r8db5w3k3w3~x2/sett.png" alt="Westgaard of Kileughterco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "European Congress of Immunology 2012"
   url: "/tartans/e/eu/european-congress-of-immunology-2012/"
 - name: "European Congress of Immunology 2012"
-  url: "/setts/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp13y2k18r22k28db6w2db6k28r22db18y2dp13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/eu/european-congress-of-immunology-2012/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRKBWBKRKGB](/stripes/bgbrkbwbkrkgb/).
 
 Part of the [European Congress of Immunology 2012](/tartans/e/eu/european-congress-of-immunology-2012/) tartan — the named design grouping this sett with its other cloths.

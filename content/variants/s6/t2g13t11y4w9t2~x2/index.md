@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Leven"
   url: "/tartans/l/lo/loch-leven/"
 - name: "Loch Leven"
-  url: "/setts/t2g13t11y4w9t2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t2g13t11y4w9t2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-leven/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGWB](/stripes/bgbgwb/).
 
 Part of the [Loch Leven](/tartans/l/lo/loch-leven/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2148](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1975 — Loch Leven (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2148">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Mrs. P.J. Thompson (of or for Clan Crest textiles) This is a colour variation of Aviemore Check and Dogwood, both of which were designed by P.J. Thompson. Sample in Scottish Tartans Authority Johnston Collection. Sample presented by Clan Crest Textiles Ltd in 1976.</em></li>
-<li>1975 — Loch Leven (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=108">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Mrs. P.J. Thompson (of or for Clan Crest textiles) This is a colour variation of Aviemore Check and Dogwood, both of which were designed by P.J. Thompson. Sample in STA's Johnston Collection.</em></li>
+<li>1975 — Loch Leven (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/108/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Mrs. P.J. Thompson (of or for Clan Crest textiles) This is a colour variation of Aviemore Check and Dogwood, both of which were designed by P.J. Thompson. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/">Mackenzie of Woodstock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/"><img src="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/sett.png" alt="Mackenzie of Woodstock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackenzie-of-woodstock/">Mackenzie of Woodstock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackenzie-of-woodstock/"><img src="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/sett.png" alt="Mackenzie of Woodstock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/">MacGill of Jura (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/"><img src="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/sett.png" alt="MacGill of Jura (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgill-of-jura/">MacGill of Jura</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgill-of-jura/"><img src="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/sett.png" alt="MacGill of Jura sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

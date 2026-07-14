@@ -8,10 +8,10 @@ crumbs:
 - name: "Cowper"
   url: "/tartans/c/co/cowper/"
 - name: "Cowper (Personal)"
-  url: "/setts/g1w1g8w1g8w1g2w1g4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g1w1g8w1g8w1g2w1g4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cowper/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWGWGW](/stripes/gwgwgwgwgw/).
 
 Part of the [Cowper](/tartans/c/co/cowper/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=783](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — Cowper (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=783">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>No details. This is Clark/Clergy with a change of ground colour. No provenance forthcoming.</em></li>
-<li>pre 2003 — Cowper (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5926">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>No details. This is Clark/Clergy with a change of ground colour. No provenance forthcoming and assumed to be 'Personal'.</em></li>
+<li>pre 2003 — Cowper (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5926/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>No details. This is Clark/Clergy with a change of ground colour. No provenance forthcoming and assumed to be 'Personal'.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/w4k1r5db3r8g8k1y3k1lb4db27lb4k1y3k1g8r8db3~x2/">Moon (Georgia, USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/w4k1r5db3r8g8k1y3k1lb4db27lb4k1y3k1g8r8db3~x2/"><img src="/variants/s18/w4k1r5db3r8g8k1y3k1lb4db27lb4k1y3k1g8r8db3~x2/sett.png" alt="Moon (Georgia, USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moon/">Moon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moon/"><img src="/variants/s18/w4k1r5db3r8g8k1y3k1lb4db27lb4k1y3k1g8r8db3~x2/sett.png" alt="Moon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

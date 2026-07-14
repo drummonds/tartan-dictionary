@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/">Letang Family (Neuilly sur Seine, France) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/"><img src="/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/sett.png" alt="Letang Family (Neuilly sur Seine, France) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/letang-2/">Letang</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/letang-2/"><img src="/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/sett.png" alt="Letang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

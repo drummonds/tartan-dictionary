@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/do40n19k2n2lb2~x4/">National Ballet of Canada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/do40n19k2n2lb2~x4/"><img src="/variants/s5/do40n19k2n2lb2~x4/sett.png" alt="National Ballet of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/national-ballet-of-canada/">National Ballet of Canada</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/national-ballet-of-canada/"><img src="/variants/s5/do40n19k2n2lb2~x4/sett.png" alt="National Ballet of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

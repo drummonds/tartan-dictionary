@@ -12,10 +12,10 @@ crumbs:
 - name: "McMuldroch"
   url: "/tartans/m/mc/mcmuldroch/"
 - name: "McMuldroch (2014)"
-  url: "/setts/g19k18dr18w2y2dp2y2w2dr8dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g19k18dr18w2y2dp2y2w2dr8dp3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcmuldroch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWGBGWBKG](/stripes/bbwgbgwbkg/).
 
 Part of the [McMuldroch](/tartans/m/mc/mcmuldroch/) tartan — the named design grouping this sett with its other cloths.

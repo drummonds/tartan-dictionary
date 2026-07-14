@@ -8,10 +8,10 @@ crumbs:
 - name: "Greater St Louis Area Firefighters Highland Guard"
   url: "/tartans/g/gr/greater-st-louis-area-firefighters-highland-guard/"
 - name: "Greater St Louis Area Firefighters Highland Guard"
-  url: "/setts/n3r3k38n25y3n6r7n3y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n3r3k38n25y3n6r7n3y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/greater-st-louis-area-firefighters-highland-guard/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBGBRBG](/stripes/brkbgbrbg/).
 
 Part of the [Greater St Louis Area Firefighters Highland Guard](/tartans/g/gr/greater-st-louis-area-firefighters-highland-guard/) tartan — the named design grouping this sett with its other cloths.

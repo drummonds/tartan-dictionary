@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg20r3n3r15w19dg3lb2~x2/">Glasgow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg20r3n3r15w19dg3lb2~x2/"><img src="/variants/s7/dg20r3n3r15w19dg3lb2~x2/sett.png" alt="Glasgow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow-5/">Glasgow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-5/"><img src="/variants/s7/dg20r3n3r15w19dg3lb2~x2/sett.png" alt="Glasgow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/">Torridon, Burgundy (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g3r2dp2r30w30g2w3~x2/"><img src="/variants/s7/g3r2dp2r30w30g2w3~x2/sett.png" alt="Torridon, Burgundy (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/torridon-burgundy/">Torridon Burgundy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/torridon-burgundy/"><img src="/variants/s7/g3r2dp2r30w30g2w3~x2/sett.png" alt="Torridon Burgundy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dr8g19dg42ly3r1~x2/">Nolan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><img src="/variants/s5/dr8g19dg42ly3r1~x2/sett.png" alt="Nolan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/">Nolan Family, John J (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/"><img src="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/sett.png" alt="Nolan Family, John J (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/nolan/">Nolan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nolan/"><img src="/variants/s5/dr8g19dg42ly3r1~x2/sett.png" alt="Nolan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/nolan-family-john-j/">Nolan Family, John J</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nolan-family-john-j/"><img src="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/sett.png" alt="Nolan Family, John J sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

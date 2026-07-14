@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k7g7k1g7k7lb1dp7k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbwkgkgk/">KBWKGKGK</a></nav>
 Its design is pattern [KBWKGKGK](/stripes/kbwkgkgk/) — the page of every tartan sharing this colour sequence.
 
 The **Wilson's No 108** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Wilson's No 108** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k7g7k1g7k7lb1dp7k1/">Wilson's No 108</a></td><td><code>K/28 G28 K4 G28 K28 LB4 DP28 K/4</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k7g7k1g7k7lb1dp7k1/"><img src="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/sett.png" alt="Wilson's No 108 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/">Wilson's No 108</a></td><td><code>K/28 G28 K4 G28 K28 LB4 DP28 K/4</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><img src="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/sett.png" alt="Wilson's No 108 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k16g16k2g16k16w2dp16k1~x2/"><circle cx="175.0" cy="171.0" r="4" fill="#3465a4"><title>Unnamed 6</title></circle></a><a href="/variants/s7/k13g12lb2g12k13dp12k2~x2/"><circle cx="142.2" cy="227.0" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/variants/s7/k6g6y1g6k6dp6k1~x4/"><circle cx="135.4" cy="233.0" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6k1~x4/"><circle cx="129.1" cy="230.7" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/variants/s7/k11g12k2g12k12dp12w3~x2/"><circle cx="119.8" cy="239.2" r="4" fill="#3465a4"><title>Wilson's No 97</title></circle></a><a href="/variants/s6/k3db12r2k12g12k3~x2/"><circle cx="149.6" cy="222.7" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="126.9" cy="223.4" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="154.3" cy="191.4" r="4" fill="#3465a4"><title>Triad Highland Games</title></circle></a><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/"><circle cx="131.4" cy="193.5" r="4" fill="#3465a4"><title>Wilson's No.175</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="155.5" cy="213.3" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><circle cx="151.2" cy="205.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k16g16k2g16k16w2dp16k1~x2/"><circle cx="175.5" cy="170.9" r="4" fill="#3465a4"><title>Unnamed 6</title></circle></a><a href="/variants/s7/k13g12lb2g12k13dp12k2~x2/"><circle cx="142.5" cy="226.9" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/variants/s7/k6g6y1g6k6dp6k1~x4/"><circle cx="135.8" cy="232.9" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6k1~x4/"><circle cx="129.4" cy="230.5" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/variants/s7/k11g12k2g12k12dp12w3~x2/"><circle cx="120.1" cy="239.0" r="4" fill="#3465a4"><title>Wilson's No 97</title></circle></a><a href="/variants/s6/k3db12r2k12g12k3~x2/"><circle cx="149.9" cy="222.6" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="127.2" cy="223.3" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="154.7" cy="191.3" r="4" fill="#3465a4"><title>Triad Highland Games</title></circle></a><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/"><circle cx="131.8" cy="193.3" r="4" fill="#3465a4"><title>Wilson's No.175</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="155.9" cy="213.2" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><circle cx="151.6" cy="205.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

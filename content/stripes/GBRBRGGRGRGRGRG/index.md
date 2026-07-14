@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/">Cochrane Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/"><img src="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/sett.png" alt="Cochrane Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cochrane-hunting/">Cochrane Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cochrane-hunting/"><img src="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/sett.png" alt="Cochrane Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

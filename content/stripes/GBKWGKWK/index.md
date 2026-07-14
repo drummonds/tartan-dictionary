@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/">Kilkenny County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/"><img src="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/sett.png" alt="Kilkenny County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kilkenny-county-crest-range/">Kilkenny County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilkenny-county-crest-range/"><img src="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/sett.png" alt="Kilkenny County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

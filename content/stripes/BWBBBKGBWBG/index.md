@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr4lb3db6t4db24k6g4db2lb23db23g4~x2/">New Millennium</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr4lb3db6t4db24k6g4db2lb23db23g4~x2/"><img src="/variants/s11/dr4lb3db6t4db24k6g4db2lb23db23g4~x2/sett.png" alt="New Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-millennium/">New Millennium</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-millennium/"><img src="/variants/s11/dr4lb3db6t4db24k6g4db2lb23db23g4~x2/sett.png" alt="New Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

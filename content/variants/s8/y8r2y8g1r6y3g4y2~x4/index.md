@@ -8,10 +8,10 @@ crumbs:
 - name: "Glufree"
   url: "/tartans/g/gl/glufree/"
 - name: "Glufree"
-  url: "/setts/y8r2y8g1r6y3g4y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y8r2y8g1r6y3g4y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glufree/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRGGRG](/stripes/gggrggrg/).
 
 Part of the [Glufree](/tartans/g/gl/glufree/) tartan — the named design grouping this sett with its other cloths.

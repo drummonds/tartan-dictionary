@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g15y3r3dp8w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggrbw/">GGRBW</a></nav>
 Its design is pattern [GGRBW](/stripes/ggrbw/) — the page of every tartan sharing this colour sequence.
 
 The **ChuMac** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **ChuMac** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g15y3r3dp8w2/">ChuMac</a></td><td><code>G/90 Y18 R18 DP48 W/12</code></td><td>270</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g15y3r3dp8w2/"><img src="/variants/s5/g15y3r3dp8w2~x6/sett.png" alt="ChuMac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g15y3r3dp8w2~x6/">ChuMac</a></td><td><code>G/90 Y18 R18 DP48 W/12</code></td><td>270</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/g15y3r3dp8w2~x6/"><img src="/variants/s5/g15y3r3dp8w2~x6/sett.png" alt="ChuMac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="263.7" cy="255.5" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="152.2" cy="216.7" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="150.1" cy="219.8" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="137.8" cy="224.0" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11/"><circle cx="175.6" cy="212.8" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="141.4" cy="220.4" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="253.8" cy="264.5" r="4" fill="#3465a4"><title>Phinn</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="260.3" cy="259.4" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s5/dg62y17ly12n8o8~x2/"><circle cx="317.7" cy="222.9" r="4" fill="#3465a4"><title>Dundhuin Hunting</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="217.9" cy="284.5" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><circle cx="225.2" cy="228.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="264.0" cy="255.5" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="152.5" cy="216.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="150.3" cy="219.6" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="137.9" cy="223.7" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11/"><circle cx="175.7" cy="212.6" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="141.6" cy="220.2" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="253.9" cy="264.5" r="4" fill="#3465a4"><title>Phinn</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="260.6" cy="259.5" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s5/dg62y17ly12n8o8~x2/"><circle cx="318.2" cy="223.0" r="4" fill="#3465a4"><title>Dundhuin Hunting</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="218.0" cy="284.4" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><circle cx="225.5" cy="228.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

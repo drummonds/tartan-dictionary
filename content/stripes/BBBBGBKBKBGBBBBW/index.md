@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/">Stenhousemuir Football Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/"><img src="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/sett.png" alt="Stenhousemuir Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stenhousemuir-football-club/">Stenhousemuir Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stenhousemuir-football-club/"><img src="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/sett.png" alt="Stenhousemuir Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

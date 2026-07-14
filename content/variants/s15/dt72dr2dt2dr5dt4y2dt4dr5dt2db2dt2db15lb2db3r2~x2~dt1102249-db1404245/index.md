@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Caledonian Curling Club"
   url: "/tartans/r/ro/royal-caledonian-curling-club/"
 - name: "Royal Caledonian Curling Club"
-  url: "/setts/dt72dr2dt2dr5dt4y2dt4dr5dt2db2dt2db15lb2db3r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt72dr2dt2dr5dt4y2dt4dr5dt2db2dt2db15lb2db3r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-caledonian-curling-club/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBGBBBBBBWBR](/stripes/bbbbbgbbbbbbwbr/).
 
 Part of the [Royal Caledonian Curling Club](/tartans/r/ro/royal-caledonian-curling-club/) tartan — the named design grouping this sett with its other cloths.

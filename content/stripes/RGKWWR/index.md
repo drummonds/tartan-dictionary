@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r40lb11w2k12g36r32~x2/">Caithness (1848) (District?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><img src="/variants/s6/r40lb11w2k12g36r32~x2/sett.png" alt="Caithness (1848) (District?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r30g12k5w2lb6r30/">Sinclair</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r30g12k5w2lb6r30/"><img src="/variants/s6/r30g12k5w2lb6r30/sett.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r28g16k4w1lb6r28/">Sinclair</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r28g16k4w1lb6r28/"><img src="/variants/s6/r28g16k4w1lb6r28/sett.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caithness-4/">Caithness</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caithness-4/"><img src="/variants/s6/r40lb11w2k12g36r32~x2/sett.png" alt="Caithness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sinclair-2/">Sinclair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sinclair-2/"><img src="/variants/s6/r30g12k5w2lb6r30/sett.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sinclair-dress/">Sinclair Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sinclair-dress/"><img src="/variants/s6/r28g16k4w1lb6r28/sett.png" alt="Sinclair Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

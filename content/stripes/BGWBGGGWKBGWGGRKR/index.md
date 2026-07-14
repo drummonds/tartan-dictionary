@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/">Les Cercles de Fermieres du Quebec</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/"><img src="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/sett.png" alt="Les Cercles de Fermieres du Quebec sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/les-cercles-de-fermieres-du-quebec/">Les Cercles de Fermieres du Quebec</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/les-cercles-de-fermieres-du-quebec/"><img src="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/sett.png" alt="Les Cercles de Fermieres du Quebec sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k17n4k13n4k3n45k3~x2/">Black Spirit Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><img src="/variants/s7/k17n4k13n4k3n45k3~x2/sett.png" alt="Black Spirit Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-spirit/">Black Spirit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-spirit/"><img src="/variants/s7/k17n4k13n4k3n45k3~x2/sett.png" alt="Black Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/k2dr1k6dr6k1dr1k1~x4/">Campbell of Lochlane</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k2dr1k6dr6k1dr1k1~x4/"><img src="/variants/s7/k2dr1k6dr6k1dr1k1~x4/sett.png" alt="Campbell of Lochlane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-of-lochlane/">Campbell of Lochlane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-lochlane/"><img src="/variants/s7/k2dr1k6dr6k1dr1k1~x4/sett.png" alt="Campbell of Lochlane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

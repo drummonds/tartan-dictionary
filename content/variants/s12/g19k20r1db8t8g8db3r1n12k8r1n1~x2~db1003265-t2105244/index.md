@@ -8,10 +8,10 @@ crumbs:
 - name: "Vine"
   url: "/tartans/v/vi/vine/"
 - name: "Vine (2015)"
-  url: "/setts/g19k20r1db8t8g8db3r1n12k8r1n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g19k20r1db8t8g8db3r1n12k8r1n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vi/vine/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBRBGBBRKG](/stripes/brkbrbgbbrkg/).
 
 Part of the [Vine](/tartans/v/vi/vine/) tartan — the named design grouping this sett with its other cloths.

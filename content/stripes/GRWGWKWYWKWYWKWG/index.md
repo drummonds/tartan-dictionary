@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/">City of Dorvil (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/"><img src="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/sett.png" alt="City of Dorvil (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-dorvil/">City of Dorvil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-dorvil/"><img src="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/sett.png" alt="City of Dorvil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

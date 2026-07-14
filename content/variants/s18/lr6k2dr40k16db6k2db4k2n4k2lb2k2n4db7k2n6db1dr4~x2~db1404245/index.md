@@ -8,10 +8,10 @@ crumbs:
 - name: "Breeding"
   url: "/tartans/b/br/breeding/"
 - name: "Breeding"
-  url: "/setts/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/breeding/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBBKWKBKBKBKBKY](/stripes/bbbkbbkwkbkbkbkbky/).
 
 Part of the [Breeding](/tartans/b/br/breeding/) tartan — the named design grouping this sett with its other cloths.

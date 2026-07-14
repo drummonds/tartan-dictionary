@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/">Lordship of Greencastle (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/"><img src="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/sett.png" alt="Lordship of Greencastle (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lordship-of-greencastle/">Lordship of Greencastle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lordship-of-greencastle/"><img src="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/sett.png" alt="Lordship of Greencastle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

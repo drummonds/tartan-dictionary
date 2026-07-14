@@ -8,10 +8,10 @@ crumbs:
 - name: "Hoffman Texas German"
   url: "/tartans/h/ho/hoffman-texas-german/"
 - name: "Hoffman Texas German"
-  url: "/setts/k23r27db3r5w3k14y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k23r27db3r5w3k14y6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hoffman-texas-german/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWRBRK](/stripes/gkwrbrk/).
 
 Part of the [Hoffman Texas German](/tartans/h/ho/hoffman-texas-german/) tartan — the named design grouping this sett with its other cloths.

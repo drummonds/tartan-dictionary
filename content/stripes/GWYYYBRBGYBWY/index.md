@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y2lb1lr42lo2lr6dp1r1dp1g4lo4dp1lb1lr1~x2/">Kerr of Ardgowan Arisaid (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y2lb1lr42lo2lr6dp1r1dp1g4lo4dp1lb1lr1~x2/"><img src="/variants/s13/y2lb1lr42lo2lr6dp1r1dp1g4lo4dp1lb1lr1~x2/sett.png" alt="Kerr of Ardgowan Arisaid (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kerr-of-ardgowan-arisaid/">Kerr of Ardgowan Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kerr-of-ardgowan-arisaid/"><img src="/variants/s13/y2lb1lr42lo2lr6dp1r1dp1g4lo4dp1lb1lr1~x2/sett.png" alt="Kerr of Ardgowan Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

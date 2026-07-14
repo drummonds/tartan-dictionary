@@ -8,10 +8,10 @@ crumbs:
 - name: "Border Bell"
   url: "/tartans/b/bo/border-bell/"
 - name: "Border Bell"
-  url: "/setts/k1r1w1k1w1k1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1r1w1k1w1k1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/border-bell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWRK](/stripes/bkwkwrk/).
 
 Part of the [Border Bell](/tartans/b/bo/border-bell/) tartan — the named design grouping this sett with its other cloths.

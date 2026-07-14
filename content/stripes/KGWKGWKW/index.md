@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w20k2w20y5k3w3y4k2/">Guzzo Dress (Montreal, Canada) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w20k2w20y5k3w3y4k2/"><img src="/variants/s8/w20k2w20y5k3w3y4k2/sett.png" alt="Guzzo Dress (Montreal, Canada) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/guzzo-dress/">Guzzo Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/guzzo-dress/"><img src="/variants/s8/w20k2w20y5k3w3y4k2/sett.png" alt="Guzzo Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

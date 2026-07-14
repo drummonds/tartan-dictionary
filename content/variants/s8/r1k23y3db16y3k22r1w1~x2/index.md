@@ -8,10 +8,10 @@ crumbs:
 - name: "Schöbitz"
   url: "/tartans/s/sc/sch-bitz/"
 - name: "Schöbitz (2016)"
-  url: "/setts/r1k23y3db16y3k22r1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1k23y3db16y3k22r1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/sch-bitz/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGBGKRW](/stripes/rkgbgkrw/).
 
 Part of the [Schöbitz](/tartans/s/sc/sch-bitz/) tartan — the named design grouping this sett with its other cloths.

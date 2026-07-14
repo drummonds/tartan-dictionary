@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/gleneagles/"
 - name: "Gleneagles"
   url: "/families/gleneagles/"
+aliases:
+- "/setts/k4o4w35o1k36o4k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krkrwrk/">KRKRWRK</a></nav>
 A tartan of the [Gleneagles](/families/gleneagles/) family.
 Its design is pattern [KRKRWRK](/stripes/krkrwrk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Gleneagles** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4o4w35o1k36o4k2/">Gleneagles</a></td><td><code>K/8 O8 W70 O2 K72 O8 K/4</code></td><td>332</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4o4w35o1k36o4k2/"><img src="/variants/s7/k4o4w35o1k36o4k2~x2/sett.png" alt="Gleneagles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k4o4w35o1k36o4k2~x2/">Gleneagles</a></td><td><code>K/8 O8 W70 O2 K72 O8 K/4</code></td><td>332</td><td>1987</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k4o4w35o1k36o4k2~x2/"><img src="/variants/s7/k4o4w35o1k36o4k2~x2/sett.png" alt="Gleneagles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="279.7" cy="102.0" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s6/o72k16w9k4w5k16~x2/"><circle cx="320.2" cy="134.2" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><circle cx="275.5" cy="110.0" r="4" fill="#3465a4"><title>Gleneagles Gold</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="293.0" cy="141.6" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="296.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s5/y3k1n24k35w3~x2/"><circle cx="316.6" cy="122.0" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="316.3" cy="119.0" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="294.0" cy="88.4" r="4" fill="#3465a4"><title>Richecourt, Baron of</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="219.7" cy="148.9" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s10/k3r1k1w20k10r2k2w2k2r2~x4/"><circle cx="257.4" cy="106.7" r="4" fill="#3465a4"><title>Buckleigh Dress</title></circle></a><circle cx="279.7" cy="100.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="280.7" cy="102.0" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s6/o72k16w9k4w5k16~x2/"><circle cx="321.2" cy="134.2" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><circle cx="276.4" cy="110.0" r="4" fill="#3465a4"><title>Gleneagles Gold</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="293.9" cy="141.7" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="297.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s5/y3k1n24k35w3~x2/"><circle cx="317.6" cy="122.1" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="317.3" cy="119.1" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="295.0" cy="88.4" r="4" fill="#3465a4"><title>Richecourt, Baron of</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="220.4" cy="148.8" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s10/k3r1k1w20k10r2k2w2k2r2~x4/"><circle cx="258.2" cy="106.6" r="4" fill="#3465a4"><title>Buckleigh Dress</title></circle></a><circle cx="280.6" cy="100.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

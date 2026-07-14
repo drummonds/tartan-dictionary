@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/k28r2db9g2db4g20k1g1w2g1k1g20db4g2db9r1db3~x2/">Blairlogie (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k28r2db9g2db4g20k1g1w2g1k1g20db4g2db9r1db3~x2/"><img src="/variants/s17/k28r2db9g2db4g20k1g1w2g1k1g20db4g2db9r1db3~x2/sett.png" alt="Blairlogie (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s17/k28r1db8g2db4g19k2g1w2g1k1g19db4g2db8r2db3~x4/">Blairlogie or Blair Athol</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k28r1db8g2db4g19k2g1w2g1k1g19db4g2db8r2db3~x4/"><img src="/variants/s17/k28r1db8g2db4g19k2g1w2g1k1g19db4g2db8r2db3~x4/sett.png" alt="Blairlogie or Blair Athol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/">Blairlogie or Blair Athol District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><img src="/variants/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/sett.png" alt="Blairlogie or Blair Athol District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blairlogie/">Blairlogie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blairlogie/"><img src="/variants/s17/k28r2db9g2db4g20k1g1w2g1k1g20db4g2db9r1db3~x2/sett.png" alt="Blairlogie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blairlogie-or-blair-athol/">Blairlogie or Blair Athol</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blairlogie-or-blair-athol/"><img src="/variants/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/sett.png" alt="Blairlogie or Blair Athol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

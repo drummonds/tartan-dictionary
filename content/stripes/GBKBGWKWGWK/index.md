@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/">Wilson's, No 149</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/"><img src="/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/sett.png" alt="Wilson's, No 149 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-149/">Wilson's No.149</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-149/"><img src="/variants/s11/k8w2g11lb2k2lb2g11db6k7db6g8~x2/sett.png" alt="Wilson's No.149 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-149-2/">Wilson's, No 149</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-149-2/"><img src="/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/sett.png" alt="Wilson's, No 149 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

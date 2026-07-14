@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDuff"
   url: "/tartans/m/ma/macduff-5/"
 - name: "MacDuff #3"
-  url: "/setts/r10db6k8g10r6g3r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r10db6k8g10r6g3r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macduff-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGRGR](/stripes/rbkgrgr/).
 
 Part of the [MacDuff](/tartans/m/ma/macduff-5/) tartan — the named design grouping this sett with its other cloths.

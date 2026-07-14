@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db48g4db6y2db2lr2db2g10lr6db2lr5~x2/">Damson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db48g4db6y2db2lr2db2g10lr6db2lr5~x2/"><img src="/variants/s11/db48g4db6y2db2lr2db2g10lr6db2lr5~x2/sett.png" alt="Damson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/damson/">Damson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/damson/"><img src="/variants/s11/db48g4db6y2db2lr2db2g10lr6db2lr5~x2/sett.png" alt="Damson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db1r1k12g1~x4/">MacNathair Sgianach</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db1r1k12g1~x4/"><img src="/variants/s4/db1r1k12g1~x4/sett.png" alt="MacNathair Sgianach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/db1r16k16y1~x4/">Skinner</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db1r16k16y1~x4/"><img src="/variants/s4/db1r16k16y1~x4/sett.png" alt="Skinner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnathair-sgianach/">MacNathair Sgianach</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnathair-sgianach/"><img src="/variants/s4/db1r1k12g1~x4/sett.png" alt="MacNathair Sgianach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skinner/">Skinner</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skinner/"><img src="/variants/s4/db1r16k16y1~x4/sett.png" alt="Skinner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Campbell of Glenlyon"
   url: "/tartans/c/ca/campbell-of-glenlyon/"
 - name: "Campbell of Glenlyon Clan Tartan"
-  url: "/setts/g7k6db7k1db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g7k6db7k1db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-of-glenlyon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKG](/stripes/bkbkg/).
 
 Part of the [Campbell of Glenlyon](/tartans/c/ca/campbell-of-glenlyon/) tartan — the named design grouping this sett with its other cloths.

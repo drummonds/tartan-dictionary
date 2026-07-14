@@ -8,10 +8,10 @@ crumbs:
 - name: "Malt, The"
   url: "/tartans/m/ma/malt-the/"
 - name: "Malt, The"
-  url: "/setts/k20r2k4r2k19lo17k10lo10k6lo5ly2lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k20r2k4r2k19lo17k10lo10k6lo5ly2lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/malt-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKYKYKYYY](/stripes/krkrkykykyyy/).
 
 Part of the [Malt, The](/tartans/m/ma/malt-the/) tartan — the named design grouping this sett with its other cloths.

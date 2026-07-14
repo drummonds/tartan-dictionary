@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db31y4g68w4db31r2k6r2~x2/">Inkster (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db31y4g68w4db31r2k6r2~x2/"><img src="/variants/s8/db31y4g68w4db31r2k6r2~x2/sett.png" alt="Inkster (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inkster/">Inkster</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inkster/"><img src="/variants/s8/db31y4g68w4db31r2k6r2~x2/sett.png" alt="Inkster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

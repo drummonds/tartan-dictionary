@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/">World Youth Congress (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/"><img src="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/sett.png" alt="World Youth Congress (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/world-youth-congress/">World Youth Congress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/world-youth-congress/"><img src="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/sett.png" alt="World Youth Congress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

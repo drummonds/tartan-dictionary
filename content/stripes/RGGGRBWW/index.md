@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r72g3y2g26r14db6lb6w2/">Stewart of Fingask - 1745 (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><img src="/variants/s8/r72g3y2g26r14db6lb6w2/sett.png" alt="Stewart of Fingask - 1745 (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-fingask/">Stewart of Fingask</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-fingask/"><img src="/variants/s8/r72g3y2g26r14db6lb6w2/sett.png" alt="Stewart of Fingask sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

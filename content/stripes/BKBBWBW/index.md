@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dbi3k13dbi13db13w2db13w3~x2~dbi1406275-db1106275/">Brodie Countryfare (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dbi3k13dbi13db13w2db13w3~x2~dbi1406275-db1106275/"><img src="/variants/s7/dbi3k13dbi13db13w2db13w3~x2~dbi1406275-db1106275/sett.png" alt="Brodie Countryfare (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brodie-countryfare/">Brodie Countryfare</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brodie-countryfare/"><img src="/variants/s7/dbi3k13dbi13db13w2db13w3~x2~dbi1406275-db1106275/sett.png" alt="Brodie Countryfare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

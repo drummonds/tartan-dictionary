@@ -8,10 +8,10 @@ crumbs:
 - name: "Pitcairn Trust Company"
   url: "/tartans/p/pi/pitcairn-trust-company/"
 - name: "Pitcairn Trust Company"
-  url: "/setts/b3db3b3db3b3dr22y2db2r22lb5r8y2lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b3db3b3db3b3dr22y2db2r22lb5r8y2lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pi/pitcairn-trust-company/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBRWRGW](/stripes/bbbbbbgbrwrgw/).
 
 Part of the [Pitcairn Trust Company](/tartans/p/pi/pitcairn-trust-company/) tartan — the named design grouping this sett with its other cloths.

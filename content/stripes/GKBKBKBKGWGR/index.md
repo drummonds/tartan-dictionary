@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/">Spar (UK) Ltd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/"><img src="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/sett.png" alt="Spar (UK) Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spar-ltd/">Spar Ltd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spar-ltd/"><img src="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/sett.png" alt="Spar Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

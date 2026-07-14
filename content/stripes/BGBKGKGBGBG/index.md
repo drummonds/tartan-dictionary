@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db1g1db6k6g1k6g1db2g1db3g1/">Clergy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db1g1db6k6g1k6g1db2g1db3g1/"><img src="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/">Clergy #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/"><img src="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/sett.png" alt="Clergy #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clergy-11/">Clergy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clergy-11/"><img src="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clergy-3/">Clergy 3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clergy-3/"><img src="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/sett.png" alt="Clergy 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w4dg20g10r25b2r2g2~x2/">Caledonian Brewery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w4dg20g10r25b2r2g2~x2/"><img src="/variants/s7/w4dg20g10r25b2r2g2~x2/sett.png" alt="Caledonian Brewery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledonian-brewery-2/">Caledonian Brewery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-brewery-2/"><img src="/variants/s7/w4dg20g10r25b2r2g2~x2/sett.png" alt="Caledonian Brewery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/g25r4db25r13g25y2lb6~x2/">Rotary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g25r4db25r13g25y2lb6~x2/"><img src="/variants/s7/g25r4db25r13g25y2lb6~x2/sett.png" alt="Rotary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rotary-2/">Rotary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rotary-2/"><img src="/variants/s7/g25r4db25r13g25y2lb6~x2/sett.png" alt="Rotary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

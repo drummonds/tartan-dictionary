@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2w8k14o25w2k2w2~x2/">Merric, Dark Camel..</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2w8k14o25w2k2w2~x2/"><img src="/variants/s7/r2w8k14o25w2k2w2~x2/sett.png" alt="Merric, Dark Camel.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/merric-dark-camel-2/">Merric, Dark Camel..</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/merric-dark-camel-2/"><img src="/variants/s7/r2w8k14o25w2k2w2~x2/sett.png" alt="Merric, Dark Camel.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/r1lb5k8o18lb1k1lb1~x4/">Merrick, Camel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r1lb5k8o18lb1k1lb1~x4/"><img src="/variants/s7/r1lb5k8o18lb1k1lb1~x4/sett.png" alt="Merrick, Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/merrick-camel/">Merrick, Camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/merrick-camel/"><img src="/variants/s7/r1lb5k8o18lb1k1lb1~x4/sett.png" alt="Merrick, Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

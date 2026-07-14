@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2~lb3103284/">Strathclyde (Official)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2~lb3103284/"><img src="/variants/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2~lb3103284/sett.png" alt="Strathclyde (Official) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathclyde/">Strathclyde</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathclyde/"><img src="/variants/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2~lb3103284/sett.png" alt="Strathclyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r2g2k20w1db1~x6/">Fily, Sylvain Roger</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2g2k20w1db1~x6/"><img src="/variants/s5/r2g2k20w1db1~x6/sett.png" alt="Fily, Sylvain Roger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fily/">Fily</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fily/"><img src="/variants/s5/r2g2k20w1db1~x6/sett.png" alt="Fily sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

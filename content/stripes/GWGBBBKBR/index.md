@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/">Stewmann (2009) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><img src="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/sett.png" alt="Stewmann (2009) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/">Stewmann (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/"><img src="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/sett.png" alt="Stewmann (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewmann/">Stewmann</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewmann/"><img src="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/sett.png" alt="Stewmann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

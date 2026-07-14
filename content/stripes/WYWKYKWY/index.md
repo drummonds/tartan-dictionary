@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/">Tennessee Volunteer</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/"><img src="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/sett.png" alt="Tennessee Volunteer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/tennessee-volunteer/">Tennessee Volunteer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/tennessee-volunteer/"><img src="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/sett.png" alt="Tennessee Volunteer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

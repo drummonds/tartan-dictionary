@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db10lb2k2db1k6lb1k45lo2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwkbkwky/">BWKBKWKY</a></nav>
 Its design is pattern [BWKBKWKY](/stripes/bwkbkwky/) — the page of every tartan sharing this colour sequence.
 
 The **Marine Harvest** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Marine Harvest** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db10lb2k2db1k6lb1k45lo2/">Marine Harvest</a></td><td><code>DB/20 LB4 K4 DB2 K12 LB2 K90 LO/4</code></td><td>252</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db10lb2k2db1k6lb1k45lo2/"><img src="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/sett.png" alt="Marine Harvest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/">Marine Harvest</a></td><td><code>DB/20 LB4 K4 DB2 K12 LB2 K90 LO/4</code></td><td>252</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/"><img src="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/sett.png" alt="Marine Harvest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/"><circle cx="469.8" cy="52.7" r="4" fill="#3465a4"><title>Marine Harvest Scotland</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="499.3" cy="41.4" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="366.2" cy="119.6" r="4" fill="#3465a4"><title>Pride of Nova Scotia</title></circle></a><a href="/variants/s9/lo2k3db6dr4k48dr4db6k3lb2~x2/"><circle cx="404.9" cy="75.9" r="4" fill="#3465a4"><title>Highland Park</title></circle></a><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="521.4" cy="39.0" r="4" fill="#3465a4"><title>Payne of Wallins Creek</title></circle></a><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><circle cx="465.5" cy="41.9" r="4" fill="#3465a4"><title>Grassi</title></circle></a><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="432.1" cy="60.8" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="484.8" cy="53.8" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"><circle cx="420.0" cy="64.8" r="4" fill="#3465a4"><title>McCuaig Hunting</title></circle></a><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="487.2" cy="103.8" r="4" fill="#3465a4"><title>Gibson, Robert</title></circle></a><circle cx="490.4" cy="58.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/"><circle cx="471.4" cy="53.0" r="4" fill="#3465a4"><title>Marine Harvest Scotland</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="501.0" cy="41.8" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="367.4" cy="119.8" r="4" fill="#3465a4"><title>Pride of Nova Scotia</title></circle></a><a href="/variants/s9/lo2k3db6dr4k48dr4db6k3lb2~x2/"><circle cx="406.2" cy="76.1" r="4" fill="#3465a4"><title>Highland Park</title></circle></a><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="523.2" cy="39.4" r="4" fill="#3465a4"><title>Payne of Wallins Creek</title></circle></a><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><circle cx="467.1" cy="42.3" r="4" fill="#3465a4"><title>Grassi</title></circle></a><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="433.6" cy="61.1" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="486.5" cy="54.2" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"><circle cx="421.4" cy="65.1" r="4" fill="#3465a4"><title>McCuaig Hunting</title></circle></a><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="488.7" cy="104.2" r="4" fill="#3465a4"><title>Gibson, Robert</title></circle></a><circle cx="492.1" cy="58.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

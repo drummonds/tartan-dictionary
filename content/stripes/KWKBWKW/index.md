@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/">Cowe (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><img src="/variants/s7/k8lb3k32t14w3k25lb3~x2/sett.png" alt="Cowe (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cowe/">Cowe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cowe/"><img src="/variants/s7/k8lb3k32t14w3k25lb3~x2/sett.png" alt="Cowe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

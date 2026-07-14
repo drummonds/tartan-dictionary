@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/">Central Washington University Wildcat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/"><img src="/variants/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/sett.png" alt="Central Washington University Wildcat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/central-washington-university-wildcat/">Central Washington University Wildcat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/central-washington-university-wildcat/"><img src="/variants/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/sett.png" alt="Central Washington University Wildcat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

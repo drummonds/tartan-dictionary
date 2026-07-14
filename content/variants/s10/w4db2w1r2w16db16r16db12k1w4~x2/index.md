@@ -8,10 +8,10 @@ crumbs:
 - name: "Spirit of Russia, The"
   url: "/tartans/s/sp/spirit-of-russia-the-2/"
 - name: "Spirit of Russia, The"
-  url: "/setts/w4db2w1r2w16db16r16db12k1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db2w1r2w16db16r16db12k1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spirit-of-russia-the-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWRWBRBKW](/stripes/wbwrwbrbkw/).
 
 Part of the [Spirit of Russia, The](/tartans/s/sp/spirit-of-russia-the-2/) tartan — the named design grouping this sett with its other cloths.

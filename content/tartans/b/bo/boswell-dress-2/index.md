@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/boswell/"
 - name: "Boswell"
   url: "/families/boswell/"
+aliases:
+- "/setts/w13r3w2k5w2r3w13db8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwrwkwrw/">BWRWKWRW</a></nav>
 A tartan of the [Boswell](/families/boswell/) family.
 Its design is pattern [BWRWKWRW](/stripes/bwrwkwrw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Boswell Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w13r3w2k5w2r3w13db8/">Boswell Dress</a></td><td><code>W/26 R6 W4 K10 W4 R6 W26 DB/16</code></td><td>154</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w13r3w2k5w2r3w13db8/"><img src="/variants/s8/w13r3w2k5w2r3w13db8~x2/sett.png" alt="Boswell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w13r3w2k5w2r3w13db8~x2/">Boswell Dress</a></td><td><code>W/26 R6 W4 K10 W4 R6 W26 DB/16</code></td><td>154</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w13r3w2k5w2r3w13db8~x2/"><img src="/variants/s8/w13r3w2k5w2r3w13db8~x2/sett.png" alt="Boswell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dr14w35k4w35dr14w8dr14w8~x2/"><circle cx="310.9" cy="201.9" r="4" fill="#3465a4"><title>Clayton Dress</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="273.6" cy="166.8" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="179.5" cy="219.4" r="4" fill="#3465a4"><title>Henderson Dress</title></circle></a><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="215.9" cy="166.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/"><circle cx="188.2" cy="189.0" r="4" fill="#3465a4"><title>Dijkgraaf, Markus Jack</title></circle></a><a href="/variants/s5/b8w13r3w2k5~x2/"><circle cx="171.5" cy="226.2" r="4" fill="#3465a4"><title>Boswell Dress</title></circle></a><a href="/variants/s6/w8dr14w8dr14w35k4~x2/"><circle cx="299.0" cy="207.9" r="4" fill="#3465a4"><title>Clayton Dress</title></circle></a><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="228.8" cy="182.9" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s7/r5k3lb22k17lb22k3y5~x2/"><circle cx="225.5" cy="183.8" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/variants/s6/w5k20w2r5w20r2~x2/"><circle cx="242.2" cy="189.2" r="4" fill="#3465a4"><title>Gangs of New York Fashion Check</title></circle></a><circle cx="237.6" cy="198.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dr14w35k4w35dr14w8dr14w8~x2/"><circle cx="311.6" cy="201.9" r="4" fill="#3465a4"><title>Clayton Dress</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="274.3" cy="166.8" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="179.9" cy="219.2" r="4" fill="#3465a4"><title>Henderson Dress</title></circle></a><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="216.5" cy="165.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/"><circle cx="188.6" cy="188.7" r="4" fill="#3465a4"><title>Dijkgraaf, Markus Jack</title></circle></a><a href="/variants/s5/b8w13r3w2k5~x2/"><circle cx="171.9" cy="225.9" r="4" fill="#3465a4"><title>Boswell Dress</title></circle></a><a href="/variants/s6/w8dr14w8dr14w35k4~x2/"><circle cx="299.6" cy="207.9" r="4" fill="#3465a4"><title>Clayton Dress</title></circle></a><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="229.4" cy="182.7" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s7/r5k3lb22k17lb22k3y5~x2/"><circle cx="226.1" cy="183.7" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/variants/s6/w5k20w2r5w20r2~x2/"><circle cx="242.8" cy="189.2" r="4" fill="#3465a4"><title>Gangs of New York Fashion Check</title></circle></a><circle cx="238.1" cy="198.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

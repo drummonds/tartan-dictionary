@@ -12,10 +12,10 @@ crumbs:
 - name: "Australian"
   url: "/tartans/a/au/australian/"
 - name: "Australian District Tartan"
-  url: "/setts/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/australian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYGYKYGYGYKYGYGW](/stripes/bgygykygygykygygw/).
 
 Part of the [Australian](/tartans/a/au/australian/) tartan — the named design grouping this sett with its other cloths.

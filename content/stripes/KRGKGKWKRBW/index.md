@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/">Kilmorie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><img src="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/sett.png" alt="Kilmorie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kilmorie/">Kilmorie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilmorie/"><img src="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/sett.png" alt="Kilmorie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

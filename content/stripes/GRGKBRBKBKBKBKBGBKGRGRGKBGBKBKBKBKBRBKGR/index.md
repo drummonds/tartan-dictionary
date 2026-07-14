@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/">Allen Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><img src="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/sett.png" alt="Allen Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/allen-6/">Allen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allen-6/"><img src="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/sett.png" alt="Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

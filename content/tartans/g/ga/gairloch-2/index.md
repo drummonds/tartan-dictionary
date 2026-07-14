@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/gairloch/"
 - name: "Gairloch"
   url: "/families/gairloch/"
+aliases:
+- "/setts/y25k9y12w2db2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwgkg/">BWGKG</a></nav>
 A tartan of the [Gairloch](/families/gairloch/) family.
 Its design is pattern [BWGKG](/stripes/bwgkg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Gairloch** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y25k9y12w2db2/">Gairloch</a></td><td><code>Y/50 K18 Y24 W4 DB/4</code></td><td>146</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y25k9y12w2db2/"><img src="/variants/s5/y25k9y12w2db2~x2/sett.png" alt="Gairloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/y25k9y12w2db2~x2/">Gairloch</a></td><td><code>Y/50 K18 Y24 W4 DB/4</code></td><td>146</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/y25k9y12w2db2~x2/"><img src="/variants/s5/y25k9y12w2db2~x2/sett.png" alt="Gairloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/y20k15y20w3~x2/"><circle cx="325.2" cy="254.4" r="4" fill="#3465a4"><title>Silvicola</title></circle></a><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="416.7" cy="149.9" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><a href="/variants/s5/w7dy7w7dy40r3~x2/"><circle cx="432.2" cy="176.4" r="4" fill="#3465a4"><title>Coca Cola US</title></circle></a><a href="/variants/s5/r2y33k5w3g2~x2/"><circle cx="406.7" cy="125.4" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/variants/s5/dy38w9dy3k9w3~x2/"><circle cx="352.6" cy="165.5" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="335.1" cy="125.6" r="4" fill="#3465a4"><title>Port Moresby City</title></circle></a><a href="/variants/s4/g10w7y41k7~x2/"><circle cx="300.9" cy="222.6" r="4" fill="#3465a4"><title>Hogan</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="450.5" cy="125.6" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s4/r1y13k8g1~x6/"><circle cx="292.2" cy="180.4" r="4" fill="#3465a4"><title>Billy Apple®</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="458.9" cy="186.1" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><circle cx="389.0" cy="173.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/y20k15y20w3~x2/"><circle cx="326.0" cy="254.6" r="4" fill="#3465a4"><title>Silvicola</title></circle></a><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="417.7" cy="150.1" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><a href="/variants/s5/w7dy7w7dy40r3~x2/"><circle cx="433.3" cy="176.7" r="4" fill="#3465a4"><title>Coca Cola US</title></circle></a><a href="/variants/s5/r2y33k5w3g2~x2/"><circle cx="407.8" cy="125.6" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/variants/s5/dy38w9dy3k9w3~x2/"><circle cx="353.6" cy="165.7" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="336.1" cy="125.7" r="4" fill="#3465a4"><title>Port Moresby City</title></circle></a><a href="/variants/s4/g10w7y41k7~x2/"><circle cx="301.5" cy="222.7" r="4" fill="#3465a4"><title>Hogan</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="451.7" cy="126.0" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s4/r1y13k8g1~x6/"><circle cx="293.0" cy="180.5" r="4" fill="#3465a4"><title>Billy Apple®</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="460.1" cy="186.4" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><circle cx="390.0" cy="174.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

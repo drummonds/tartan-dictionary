@@ -12,10 +12,10 @@ crumbs:
 - name: "McWilliams Hunting"
   url: "/tartans/m/mc/mcwilliams-hunting/"
 - name: "McWilliams Hunting (2014)"
-  url: "/setts/dy22dp1g22r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy22dp1g22r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcwilliams-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGR](/stripes/gbgr/).
 
 Part of the [McWilliams Hunting](/tartans/m/mc/mcwilliams-hunting/) tartan — the named design grouping this sett with its other cloths.

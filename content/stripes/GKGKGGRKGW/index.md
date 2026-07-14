@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/">Moran (French) (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><img src="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/sett.png" alt="Moran (French) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moran-2/">Moran</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moran-2/"><img src="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/sett.png" alt="Moran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

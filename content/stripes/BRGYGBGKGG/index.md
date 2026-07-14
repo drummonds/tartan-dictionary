@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/t6r7dy49ly2dy22t10dy5k5dy8g4~x2/">State Seal of Missouri (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/t6r7dy49ly2dy22t10dy5k5dy8g4~x2/"><img src="/variants/s10/t6r7dy49ly2dy22t10dy5k5dy8g4~x2/sett.png" alt="State Seal of Missouri (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-missouri/">State Seal of Missouri</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-missouri/"><img src="/variants/s10/t6r7dy49ly2dy22t10dy5k5dy8g4~x2/sett.png" alt="State Seal of Missouri sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

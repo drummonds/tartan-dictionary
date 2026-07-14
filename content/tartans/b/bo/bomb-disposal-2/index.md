@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k28dr3y2dr3k13g28w1g3w1g16/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwgwgkbgbk/">GWGWGKBGBK</a></nav>
 Its design is pattern [GWGWGKBGBK](/stripes/gwgwgkbgbk/) — the page of every tartan sharing this colour sequence.
 
 The **Bomb Disposal** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Bomb Disposal** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k28dr3y2dr3k13g28w1g3w1g16/">Bomb Disposal</a></td><td><code>K/56 DR6 Y4 DR6 K26 G56 W2 G6 W2 G/32</code></td><td>304</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k28dr3y2dr3k13g28w1g3w1g16/"><img src="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/sett.png" alt="Bomb Disposal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/">Bomb Disposal</a></td><td><code>K/56 DR6 Y4 DR6 K26 G56 W2 G6 W2 G/32</code></td><td>304</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/"><img src="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/sett.png" alt="Bomb Disposal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="215.5" cy="108.7" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s10/k28r3y2r3k13g28k1g3k1g16~x2/"><circle cx="259.3" cy="108.7" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/"><circle cx="266.2" cy="102.8" r="4" fill="#3465a4"><title>Malone</title></circle></a><a href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><circle cx="226.1" cy="83.3" r="4" fill="#3465a4"><title>Walker, Gauvin</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="246.9" cy="105.9" r="4" fill="#3465a4"><title>Sarafilovic</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="240.4" cy="123.5" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><circle cx="231.8" cy="101.2" r="4" fill="#3465a4"><title>John.W.Mackay</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="258.2" cy="82.8" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="243.4" cy="92.7" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/variants/s9/k4g34y1k18g3db18r3g3r3~x2/"><circle cx="220.6" cy="98.1" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><circle cx="240.6" cy="102.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="216.2" cy="108.6" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s10/k28r3y2r3k13g28k1g3k1g16~x2/"><circle cx="260.2" cy="108.7" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/"><circle cx="267.1" cy="102.8" r="4" fill="#3465a4"><title>Malone</title></circle></a><a href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><circle cx="226.9" cy="83.2" r="4" fill="#3465a4"><title>Walker, Gauvin</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="247.6" cy="105.9" r="4" fill="#3465a4"><title>Sarafilovic</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="241.1" cy="123.5" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><circle cx="232.5" cy="101.1" r="4" fill="#3465a4"><title>John.W.Mackay</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="259.1" cy="82.8" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="244.1" cy="92.7" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/variants/s9/k4g34y1k18g3db18r3g3r3~x2/"><circle cx="221.3" cy="98.0" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><circle cx="241.3" cy="102.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

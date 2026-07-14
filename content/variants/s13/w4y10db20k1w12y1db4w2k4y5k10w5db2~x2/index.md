@@ -8,10 +8,10 @@ crumbs:
 - name: "Dinarzh: Fortress of the Bear"
   url: "/tartans/d/di/dinarzh-fortress-of-the-bear/"
 - name: "Dinarzh: Fortress of the Bear"
-  url: "/setts/w4y10db20k1w12y1db4w2k4y5k10w5db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4y10db20k1w12y1db4w2k4y5k10w5db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/dinarzh-fortress-of-the-bear/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGKWBGWKBGW](/stripes/bwkgkwbgwkbgw/).
 
 Part of the [Dinarzh: Fortress of the Bear](/tartans/d/di/dinarzh-fortress-of-the-bear/) tartan — the named design grouping this sett with its other cloths.

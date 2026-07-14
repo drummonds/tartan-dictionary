@@ -8,10 +8,10 @@ crumbs:
 - name: "Peachy Keen"
   url: "/tartans/p/pe/peachy-keen/"
 - name: "PeachyKeen"
-  url: "/setts/r5g2r2g35lo20r2lo20r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5g2r2g35lo20r2lo20r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/peachy-keen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGYRYR](/stripes/rgrgyryr/).
 
 Part of the [Peachy Keen](/tartans/p/pe/peachy-keen/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3307](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/06/2007 — PeachyKeen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3307">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCE800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #FCE800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3CD454;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #3CD454"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FC3C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #FC3C00"></span><br><em>Designed by Frank Gordon of Frank Noel Gordon, Highland Dress Manufacturer of Cumbernauld, as a corporate tartan for PeachyKeen, incorporating the company's colours. PeachyKeen is a holistic sports/fitness brand company from Kirkcaldy in Scotland www.peachykeen.co.uk.</em></li>
-<li>June 2007 — Peachy Keen (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7208">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCE800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #FCE800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3CD454;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #3CD454"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FC3C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #FC3C00"></span><br><em>Designed by Frank Gordon of Frank Noel Gordon, Highland Dress Manufacturer of Cumbernauld as a coprporate tartan for Peachy Keen incorporating the company's colours. Peachy Keen is a training compnay from Kirkcaldy in Scotland www.peachykeen.co.uk.</em></li>
+<li>June 2007 — Peachy Keen (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7208/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCE800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #FCE800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3CD454;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #3CD454"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FC3C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #FC3C00"></span><br><em>Designed by Frank Gordon of Frank Noel Gordon, Highland Dress Manufacturer of Cumbernauld as a coprporate tartan for Peachy Keen incorporating the company's colours. Peachy Keen is a training compnay from Kirkcaldy in Scotland www.peachykeen.co.uk.</em></li>
 </ul>
 </details>
 

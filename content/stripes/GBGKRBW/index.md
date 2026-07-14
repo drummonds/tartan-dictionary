@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y2do4dg11k30r2db16w1~x2/">Buschke (Skye) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y2do4dg11k30r2db16w1~x2/"><img src="/variants/s7/y2do4dg11k30r2db16w1~x2/sett.png" alt="Buschke (Skye) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dy2dr4dg11k30r2db16w1~x2/">Buschke (Skye) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dy2dr4dg11k30r2db16w1~x2/"><img src="/variants/s7/dy2dr4dg11k30r2db16w1~x2/sett.png" alt="Buschke (Skye) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buschke/">Buschke</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buschke/"><img src="/variants/s7/y2do4dg11k30r2db16w1~x2/sett.png" alt="Buschke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

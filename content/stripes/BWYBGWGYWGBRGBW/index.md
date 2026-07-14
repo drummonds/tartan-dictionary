@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/">Thomas McGurran</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/"><img src="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/sett.png" alt="Thomas McGurran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thomas-mcgurran/">Thomas McGurran</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thomas-mcgurran/"><img src="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/sett.png" alt="Thomas McGurran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

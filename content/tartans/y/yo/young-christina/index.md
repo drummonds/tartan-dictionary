@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Young"
   url: "/clan/young/"
+aliases:
+- "/setts/w54k7r7lo6ly4r1/"
+- "/setts/w162k10dg10b9y6dg3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ryyrkw/">RYYRKW</a></nav>
 A tartan of [Clan Young](/clan/young/).
 Its design is pattern [RYYRKW](/stripes/ryyrkw/) — the page of every tartan sharing this colour sequence.
 
@@ -16,10 +20,10 @@ The **Young, Christina** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w54k7r7lo6ly4r1/">Young, Christina</a> ★</td><td><code>W/108 K14 R14 LO12 LY8 R/2</code></td><td>206</td><td>1726</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w54k7r7lo6ly4r1/"><img src="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/sett.png" alt="Young, Christina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w162k10dg10b9y6dg3/">Young, Christina</a></td><td><code>W/162 K10 DG10 B9 Y6 DG/3</code></td><td>235</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w162k10dg10b9y6dg3/"><img src="/variants/s6/w162k10dg10b9y6dg3/sett.png" alt="Young, Christina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/">Young, Christina</a> ★</td><td><code>W/108 K14 R14 LO12 LY8 R/2</code></td><td>206</td><td>1726</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/"><img src="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/sett.png" alt="Young, Christina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w162k10dg10b9y6dg3/">Young, Christina</a></td><td><code>W/162 K10 DG10 B9 Y6 DG/3</code></td><td>235</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w162k10dg10b9y6dg3/"><img src="/variants/s6/w162k10dg10b9y6dg3/sett.png" alt="Young, Christina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="290.7" cy="148.3" r="4" fill="#3465a4"><title>Cornish National Day</title></circle></a><a href="/variants/s6/w52r22w6r8k1db3~x2/"><circle cx="379.7" cy="95.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="358.6" cy="43.3" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="353.8" cy="106.0" r="4" fill="#3465a4"><title>Thomas Jean Marc</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="382.0" cy="107.4" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s6/r4w2ri2dr34w37k2~x2~r2607041-ri2806019/"><circle cx="238.5" cy="118.4" r="4" fill="#3465a4"><title>Papalia, Special Dress</title></circle></a><a href="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/"><circle cx="304.3" cy="101.0" r="4" fill="#3465a4"><title>Shawn Jones Afghan Memorial, The</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="350.9" cy="77.5" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="333.7" cy="81.5" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="295.5" cy="106.4" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><circle cx="370.2" cy="69.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.3" cy="148.2" r="4" fill="#3465a4"><title>Cornish National Day</title></circle></a><a href="/variants/s6/w52r22w6r8k1db3~x2/"><circle cx="380.8" cy="95.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="359.7" cy="43.2" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.8" cy="105.9" r="4" fill="#3465a4"><title>Thomas Jean Marc</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.0" cy="107.4" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s6/r4w2ri2dr34w37k2~x2~r2607041-ri2806019/"><circle cx="239.2" cy="118.2" r="4" fill="#3465a4"><title>Papalia, Special Dress</title></circle></a><a href="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/"><circle cx="305.1" cy="101.0" r="4" fill="#3465a4"><title>Shawn Jones Afghan Memorial, The</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="351.8" cy="77.4" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="334.6" cy="81.4" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="296.3" cy="106.3" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><circle cx="371.3" cy="69.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

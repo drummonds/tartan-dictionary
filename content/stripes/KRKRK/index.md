@@ -28,15 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k13r2k13r19k2~x2/">MacLeod of Raasay (Highland Society of London)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k13r2k13r19k2~x2/"><img src="/variants/s5/k13r2k13r19k2~x2/sett.png" alt="MacLeod of Raasay (Highland Society of London) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k6r1k6r9k1~x4/">MacLeod of Raasay Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k6r1k6r9k1~x4/"><img src="/variants/s5/k6r1k6r9k1~x4/sett.png" alt="MacLeod of Raasay Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k55r18k4r18k38/">Unidentified Kirtle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k55r18k4r18k38/"><img src="/variants/s5/k55r18k4r18k38/sett.png" alt="Unidentified Kirtle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-of-raasay/">MacLeod of Raasay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-of-raasay/"><img src="/variants/s5/k13r2k13r19k2~x2/sett.png" alt="MacLeod of Raasay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-kirtle/">Unidentified Kirtle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-kirtle/"><img src="/variants/s5/k55r18k4r18k38/sett.png" alt="Unidentified Kirtle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k2r4k7ri1k1~x2~r1506028-ri2008029/">Romsdal, Tresfjord</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k2r4k7ri1k1~x2~r1506028-ri2008029/"><img src="/variants/s5/k2r4k7ri1k1~x2~r1506028-ri2008029/sett.png" alt="Romsdal, Tresfjord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/romsdal-tresfjord/">Romsdal Tresfjord</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/romsdal-tresfjord/"><img src="/variants/s5/k2r4k7ri1k1~x2~r1506028-ri2008029/sett.png" alt="Romsdal Tresfjord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

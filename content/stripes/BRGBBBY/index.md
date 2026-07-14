@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr32r2g2db30dr1db2ly1~x2/">Highland Prince (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr32r2g2db30dr1db2ly1~x2/"><img src="/variants/s7/dr32r2g2db30dr1db2ly1~x2/sett.png" alt="Highland Prince (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-prince/">Highland Prince</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-prince/"><img src="/variants/s7/dr32r2g2db30dr1db2ly1~x2/sett.png" alt="Highland Prince sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

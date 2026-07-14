@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/w2db1w14db2w1db7t7r1t7db7r1dy2r16dy2r2db7w1db2w14db1w2~x2/">New Providence Presbyterian Church</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/w2db1w14db2w1db7t7r1t7db7r1dy2r16dy2r2db7w1db2w14db1w2~x2/"><img src="/variants/s21/w2db1w14db2w1db7t7r1t7db7r1dy2r16dy2r2db7w1db2w14db1w2~x2/sett.png" alt="New Providence Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-providence-presbyterian-church/">New Providence Presbyterian Church</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-providence-presbyterian-church/"><img src="/variants/s21/w2db1w14db2w1db7t7r1t7db7r1dy2r16dy2r2db7w1db2w14db1w2~x2/sett.png" alt="New Providence Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

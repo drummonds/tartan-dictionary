@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2~o2500000-n1900000/">Misty Isle (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2~o2500000-n1900000/"><img src="/variants/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2~o2500000-n1900000/sett.png" alt="Misty Isle (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/misty-isle/">Misty Isle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/misty-isle/"><img src="/variants/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2~o2500000-n1900000/sett.png" alt="Misty Isle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

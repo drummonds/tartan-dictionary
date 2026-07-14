@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k16g16k2g16k16w2dp16k1~x2/">Unidentified #36</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k16g16k2g16k16w2dp16k1~x2/"><img src="/variants/s8/k16g16k2g16k16w2dp16k1~x2/sett.png" alt="Unidentified #36 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/">Wilson's No 108</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><img src="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/sett.png" alt="Wilson's No 108 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unnamed-6/">Unnamed 6</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-6/"><img src="/variants/s8/k16g16k2g16k16w2dp16k1~x2/sett.png" alt="Unnamed 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-108/">Wilson's No 108</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-108/"><img src="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/sett.png" alt="Wilson's No 108 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

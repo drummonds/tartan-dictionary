@@ -12,10 +12,10 @@ crumbs:
 - name: "Nicolson"
   url: "/tartans/n/ni/nicolson-2/"
 - name: "Nicolson MacNicol"
-  url: "/setts/k10r12g3r12k2r12g3r12g20r2k8lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10r12g3r12k2r12g3r12g20r2k8lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ni/nicolson-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRKRGRGRKW](/stripes/krgrkrgrgrkw/).
 
 Part of the [Nicolson](/tartans/n/ni/nicolson-2/) tartan — the named design grouping this sett with its other cloths.

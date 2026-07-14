@@ -10,10 +10,10 @@ crumbs:
 - name: "Dundee Football Club"
   url: "/tartans/d/du/dundee-football-club/"
 - name: "Dundee Football Club"
-  url: "/setts/db3w2db2w3db6y2db26y2db6r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3w2db2w3db6y2db26y2db6r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dundee-football-club/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBGBGBR](/stripes/bwbwbgbgbr/).
 
 Part of the [Dundee Football Club](/tartans/d/du/dundee-football-club/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1035](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1990 — Dundee Football Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1035">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C4C4C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C4C4C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Said to have been designed by Tartan Sportswear in 1990 and woven by House of Edgar in 1997. Sample in Scottish Tartans Authority's Collection. Peter MacArthur sample.</em></li>
-<li>1990 — Dundee Football Club (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2058">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C4C4C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C4C4C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Said to have been designed by Tartan Sportswear in 1990 and woven by House of Edgar in 1997. Sample in STA Collection. + Peter MacArthur sample.</em></li>
+<li>1990 — Dundee Football Club (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2058/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C4C4C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C4C4C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Said to have been designed by Tartan Sportswear in 1990 and woven by House of Edgar in 1997. Sample in STA Collection. + Peter MacArthur sample.</em></li>
 </ul>
 </details>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Lochcarron of Scotland Diamond Jubilee"
   url: "/tartans/l/lo/lochcarron-of-scotland-diamond-jubilee/"
 - name: "Lochcarron of Scotland Diamond Jubilee"
-  url: "/setts/dp46k12dy3k3lb3dp11db5k2db7w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp46k12dy3k3lb3dp11db5k2db7w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lochcarron-of-scotland-diamond-jubilee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKWBBKBW](/stripes/bkgkwbbkbw/).
 
 Part of the [Lochcarron of Scotland Diamond Jubilee](/tartans/l/lo/lochcarron-of-scotland-diamond-jubilee/) tartan — the named design grouping this sett with its other cloths.

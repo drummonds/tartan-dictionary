@@ -12,10 +12,10 @@ crumbs:
 - name: "Katsushika"
   url: "/tartans/k/ka/katsushika/"
 - name: "Katsushika Corporate Tartan"
-  url: "/setts/db22y2db1y2db10r2g11r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db22y2db1y2db10r2g11r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ka/katsushika/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBRGR](/stripes/bgbgbrgr/).
 
 Part of the [Katsushika](/tartans/k/ka/katsushika/) tartan — the named design grouping this sett with its other cloths.

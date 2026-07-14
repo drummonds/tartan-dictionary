@@ -8,10 +8,10 @@ crumbs:
 - name: "Maxem Eyewear"
   url: "/tartans/m/ma/maxem-eyewear/"
 - name: "Maxem Eyewear"
-  url: "/setts/k8n78k8lb8k4lb4k4n13g1n4k4w4k4n52k4g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8n78k8lb8k4lb4k4n13g1n4k4w4k4n52k4g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maxem-eyewear/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKWKBGBKWKWKBK](/stripes/gkbkwkbgbkwkwkbk/).
 
 Part of the [Maxem Eyewear](/tartans/m/ma/maxem-eyewear/) tartan — the named design grouping this sett with its other cloths.

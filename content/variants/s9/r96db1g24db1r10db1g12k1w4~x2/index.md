@@ -12,10 +12,10 @@ crumbs:
 - name: "MacAulay"
   url: "/tartans/m/ma/macaulay-3/"
 - name: "MacAulay (MacGregor)"
-  url: "/setts/r96db1g24db1r10db1g12k1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r96db1g24db1r10db1g12k1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macaulay-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBRBGKW](/stripes/rbgbrbgkw/).
 
 Part of the [MacAulay](/tartans/m/ma/macaulay-3/) tartan — the named design grouping this sett with its other cloths.

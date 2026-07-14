@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k4db10k2db2k4t5k6t6k4~x4/">Saul (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k4db10k2db2k4t5k6t6k4~x4/"><img src="/variants/s9/k4db10k2db2k4t5k6t6k4~x4/sett.png" alt="Saul (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/saul/">Saul</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/saul/"><img src="/variants/s9/k4db10k2db2k4t5k6t6k4~x4/sett.png" alt="Saul sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

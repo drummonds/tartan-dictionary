@@ -8,10 +8,10 @@ crumbs:
 - name: "Vorwerk, The"
   url: "/tartans/v/vo/vorwerk-the/"
 - name: "Vorwerk, The"
-  url: "/setts/g40db8g8o8dt5o13k9g40r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g40db8g8o8dt5o13k9g40r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vo/vorwerk-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRBRKGR](/stripes/gbgrbrkgr/).
 
 Part of the [Vorwerk, The](/tartans/v/vo/vorwerk-the/) tartan — the named design grouping this sett with its other cloths.

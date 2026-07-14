@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/akins/"
 - name: "Akins"
   url: "/families/akins/"
+aliases:
+- "/setts/y6r13k13w5k13r13g5r4g6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgrkwkrg/">GRGRKWKRG</a></nav>
 A tartan of the [Akins](/families/akins/) family.
 Its design is pattern [GRGRKWKRG](/stripes/grgrkwkrg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Akins Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y6r13k13w5k13r13g5r4g6/">Akins Dress</a></td><td><code>Y/12 R26 K26 W10 K26 R26 G10 R8 G/12</code></td><td>288</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y6r13k13w5k13r13g5r4g6/"><img src="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/sett.png" alt="Akins Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/">Akins Dress</a></td><td><code>Y/12 R26 K26 W10 K26 R26 G10 R8 G/12</code></td><td>288</td><td>1986</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/"><img src="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/sett.png" alt="Akins Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -39,6 +42,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><circle cx="138.5" cy="198.8" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="74.4" cy="225.6" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s8/k3y2k3dr8k8r8dg2r3~x4/"><circle cx="100.9" cy="218.2" r="4" fill="#3465a4"><title>Davis</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="113.4" cy="276.7" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="99.6" cy="223.2" r="4" fill="#3465a4"><title>Holden Monaro</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="95.6" cy="220.4" r="4" fill="#3465a4"><title>Aboyne</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="102.2" cy="217.4" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><circle cx="93.4" cy="207.3" r="4" fill="#3465a4"><title>Cawte of Middlebanknock</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.5" cy="209.9" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s7/k16y16r16g3db7w7k7~x2/"><circle cx="20.4" cy="207.3" r="4" fill="#3465a4"><title>Eusa</title></circle></a><circle cx="58.2" cy="230.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><circle cx="138.8" cy="198.7" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="74.5" cy="225.3" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s8/k3y2k3dr8k8r8dg2r3~x4/"><circle cx="101.1" cy="218.0" r="4" fill="#3465a4"><title>Davis</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="113.5" cy="276.5" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="99.8" cy="222.9" r="4" fill="#3465a4"><title>Holden Monaro</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="95.8" cy="220.1" r="4" fill="#3465a4"><title>Aboyne</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="102.3" cy="217.1" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><circle cx="93.5" cy="207.0" r="4" fill="#3465a4"><title>Cawte of Middlebanknock</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.7" cy="209.6" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s7/k16y16r16g3db7w7k7~x2/"><circle cx="20.4" cy="206.9" r="4" fill="#3465a4"><title>Eusa</title></circle></a><circle cx="58.3" cy="230.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

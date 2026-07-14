@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbbbbbbbbg/">BWBBBBBBBBG</a></nav>
 Its design is pattern [BWBBBBBBBBG](/stripes/bwbbbbbbbbg/) — the page of every tartan sharing this colour sequence.
 
 The **Kilmarnock F.C.** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Kilmarnock F.C.** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2/">Kilmarnock F.C.</a></td><td><code>DBi/8 W6 DBi8 DP6 DBi6 DP6 DBi30 DB16 DBi22 DB56 Y/4</code></td><td>324</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2/"><img src="/variants/s11/dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~dbi1406275-db1106275/sett.png" alt="Kilmarnock F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~dbi1406275-db1106275/">Kilmarnock F.C.</a></td><td><code>DBi/8 W6 DBi8 DP6 DBi6 DP6 DBi30 DB16 DBi22 DB56 Y/4</code></td><td>324</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~dbi1406275-db1106275/"><img src="/variants/s11/dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~dbi1406275-db1106275/sett.png" alt="Kilmarnock F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~db1106275-dbi1406275/"><circle cx="397.0" cy="224.1" r="4" fill="#3465a4"><title>Kilmarnock Football Club</title></circle></a><circle cx="403.9" cy="240.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~db1106275-dbi1406275/"><circle cx="397.2" cy="224.1" r="4" fill="#3465a4"><title>Kilmarnock Football Club</title></circle></a><circle cx="404.0" cy="240.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

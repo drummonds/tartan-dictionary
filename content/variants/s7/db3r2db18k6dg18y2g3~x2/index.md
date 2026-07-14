@@ -8,10 +8,10 @@ crumbs:
 - name: "McComb"
   url: "/tartans/m/mc/mccomb/"
 - name: "McComb"
-  url: "/setts/db3r2db18k6dg18y2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3r2db18k6dg18y2g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mccomb/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGGG](/stripes/brbkggg/).
 
 Part of the [McComb](/tartans/m/mc/mccomb/) tartan — the named design grouping this sett with its other cloths.

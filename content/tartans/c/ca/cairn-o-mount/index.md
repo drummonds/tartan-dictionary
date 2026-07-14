@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Cairn"
   url: "/clan/cairn/"
+aliases:
+- "/setts/dr58db12dr5g28dr7ly5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbgby/">BBBGBY</a></nav>
 A tartan of [Clan Cairn](/clan/cairn/).
 Its design is pattern [BBBGBY](/stripes/bbbgby/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Cairn O'Mount** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr58db12dr5g28dr7ly5/">Cairn O'Mount</a></td><td><code>DR/116 DB24 DR10 G56 DR14 LY/10</code></td><td>334</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr58db12dr5g28dr7ly5/"><img src="/variants/s6/dr58db12dr5g28dr7ly5~x2/sett.png" alt="Cairn O'Mount sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/">Cairn O'Mount</a></td><td><code>DR/116 DB24 DR10 G56 DR14 LY/10</code></td><td>334</td><td>~2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/"><img src="/variants/s6/dr58db12dr5g28dr7ly5~x2/sett.png" alt="Cairn O'Mount sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="364.4" cy="229.1" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/variants/s6/db2r25g10r2db10r2~x2/"><circle cx="350.9" cy="196.0" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.0" cy="229.9" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s5/dr35w3dr8y2dg11~x2/"><circle cx="513.8" cy="204.6" r="4" fill="#3465a4"><title>Highlands of Wyomissing</title></circle></a><a href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><circle cx="314.2" cy="190.9" r="4" fill="#3465a4"><title>Wasko</title></circle></a><a href="/variants/s8/db8lo1g12dr10y2dr6y2dr4~x4/"><circle cx="255.5" cy="232.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="360.9" cy="151.1" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="368.3" cy="202.6" r="4" fill="#3465a4"><title>Fernandes</title></circle></a><a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/"><circle cx="310.7" cy="178.8" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s8/r12t2w1t2r3g8r3t1~x4/"><circle cx="333.3" cy="192.3" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><circle cx="392.1" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="364.9" cy="229.3" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/variants/s6/db2r25g10r2db10r2~x2/"><circle cx="351.6" cy="196.1" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.4" cy="229.9" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s5/dr35w3dr8y2dg11~x2/"><circle cx="514.8" cy="204.9" r="4" fill="#3465a4"><title>Highlands of Wyomissing</title></circle></a><a href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><circle cx="314.8" cy="191.0" r="4" fill="#3465a4"><title>Wasko</title></circle></a><a href="/variants/s8/db8lo1g12dr10y2dr6y2dr4~x4/"><circle cx="255.7" cy="232.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="361.6" cy="151.2" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="368.8" cy="202.8" r="4" fill="#3465a4"><title>Fernandes</title></circle></a><a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/"><circle cx="311.3" cy="178.8" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s8/r12t2w1t2r3g8r3t1~x4/"><circle cx="333.9" cy="192.3" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><circle cx="392.7" cy="215.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

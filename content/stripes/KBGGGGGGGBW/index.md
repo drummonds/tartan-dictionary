@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/">William and Mary GALA, Inc, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/"><img src="/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/sett.png" alt="William and Mary GALA, Inc, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/william-mary-gala/">William &amp; Mary GALA</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/william-mary-gala/"><img src="/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/sett.png" alt="William &amp; Mary GALA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

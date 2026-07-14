@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/">Prince Edward Island</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/"><img src="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/sett.png" alt="Prince Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/prince-edward-island-3/">Prince Edward Island</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-edward-island-3/"><img src="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/sett.png" alt="Prince Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

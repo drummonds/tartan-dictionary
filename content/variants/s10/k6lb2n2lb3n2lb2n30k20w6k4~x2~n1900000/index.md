@@ -8,10 +8,10 @@ crumbs:
 - name: "Nunavut"
   url: "/tartans/n/nu/nunavut/"
 - name: "Nunavut"
-  url: "/setts/k6lb2n2lb3n2lb2n30k20w6k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6lb2n2lb3n2lb2n30k20w6k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/nu/nunavut/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBWBWBKWK](/stripes/kwbwbwbkwk/).
 
 Part of the [Nunavut](/tartans/n/nu/nunavut/) tartan — the named design grouping this sett with its other cloths.

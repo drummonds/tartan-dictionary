@@ -8,10 +8,10 @@ crumbs:
 - name: "Unidentified Arisaid"
   url: "/tartans/u/un/unidentified-arisaid/"
 - name: "Unidentified, Arisaid"
-  url: "/setts/w216k8dg24b24w4k4r45w8r12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w216k8dg24b24w4k4r45w8r12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-arisaid/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRKWBGKW](/stripes/rwrkwbgkw/).
 
 Part of the [Unidentified Arisaid](/tartans/u/un/unidentified-arisaid/) tartan — the named design grouping this sett with its other cloths.

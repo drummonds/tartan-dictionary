@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db8g20w4r1~x5/">Farooq (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db8g20w4r1~x5/"><img src="/variants/s4/db8g20w4r1~x5/sett.png" alt="Farooq (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/db8g8w4r1~x5/">Farooq in Livingston (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db8g8w4r1~x5/"><img src="/variants/s4/db8g8w4r1~x5/sett.png" alt="Farooq in Livingston (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/farooq/">Farooq</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/farooq/"><img src="/variants/s4/db8g20w4r1~x5/sett.png" alt="Farooq sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/farooq-in-livingston/">Farooq in Livingston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/farooq-in-livingston/"><img src="/variants/s4/db8g8w4r1~x5/sett.png" alt="Farooq in Livingston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/dp4g10w1r1~x2/">Wilson's, No 189</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dp4g10w1r1~x2/"><img src="/variants/s4/dp4g10w1r1~x2/sett.png" alt="Wilson's, No 189 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-189-2/">Wilson's, No 189</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-189-2/"><img src="/variants/s4/dp4g10w1r1~x2/sett.png" alt="Wilson's, No 189 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

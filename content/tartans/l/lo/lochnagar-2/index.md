@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/lochnagar/"
 - name: "Lochnagar"
   url: "/families/lochnagar/"
+aliases:
+- "/setts/w1dp1lb7n4lb1w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbwbww/">WBWBWW</a></nav>
 A tartan of the [Lochnagar](/families/lochnagar/) family.
 Its design is pattern [WBWBWW](/stripes/wbwbww/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Lochnagar** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w1dp1lb7n4lb1w1/">Lochnagar</a></td><td><code>W/4 DP4 LB28 N16 LB4 W/4</code></td><td>112</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w1dp1lb7n4lb1w1/"><img src="/variants/s6/w1dp1lb7n4lb1w1~x4/sett.png" alt="Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w1dp1lb7n4lb1w1~x4/">Lochnagar</a></td><td><code>W/4 DP4 LB28 N16 LB4 W/4</code></td><td>112</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w1dp1lb7n4lb1w1~x4/"><img src="/variants/s6/w1dp1lb7n4lb1w1~x4/sett.png" alt="Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="373.8" cy="249.5" r="4" fill="#3465a4"><title>Craig Devlin</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="270.6" cy="192.5" r="4" fill="#3465a4"><title>Laxey Manx</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="313.6" cy="214.4" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s4/w4n28lb48y3~x2/"><circle cx="430.9" cy="253.9" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s4/w20b20w3b3~x2/"><circle cx="379.4" cy="315.1" r="4" fill="#3465a4"><title>Unidentified, Plaid Barbie's Moss</title></circle></a><a href="/variants/s6/db4dpi2dp3db24lb24w3~x2~dpi1607327-dp1105325/"><circle cx="285.4" cy="207.7" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Art</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="324.7" cy="300.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.6" cy="268.7" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s6/w15y2db5n3lb40db10/"><circle cx="307.7" cy="178.2" r="4" fill="#3465a4"><title>Herriot New Zealand</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="317.3" cy="181.7" r="4" fill="#3465a4"><title>Herriot</title></circle></a><circle cx="344.5" cy="270.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.2" cy="249.6" r="4" fill="#3465a4"><title>Craig Devlin</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="271.0" cy="192.4" r="4" fill="#3465a4"><title>Laxey Manx</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.0" cy="214.4" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s4/w4n28lb48y3~x2/"><circle cx="431.3" cy="254.1" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s4/w20b20w3b3~x2/"><circle cx="379.7" cy="315.3" r="4" fill="#3465a4"><title>Unidentified, Plaid Barbie's Moss</title></circle></a><a href="/variants/s6/db4dpi2dp3db24lb24w3~x2~dpi1607327-dp1105325/"><circle cx="285.7" cy="207.6" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Art</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="324.9" cy="300.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.6" cy="268.6" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s6/w15y2db5n3lb40db10/"><circle cx="308.1" cy="178.1" r="4" fill="#3465a4"><title>Herriot New Zealand</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="317.8" cy="181.7" r="4" fill="#3465a4"><title>Herriot</title></circle></a><circle cx="344.6" cy="270.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

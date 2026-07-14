@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/">Summers Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/"><img src="/variants/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/sett.png" alt="Summers Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/summers/">Summers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/summers/"><img src="/variants/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/sett.png" alt="Summers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

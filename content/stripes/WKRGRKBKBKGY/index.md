@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/">Boyd (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/"><img src="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/sett.png" alt="Boyd (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boyd/">Boyd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boyd/"><img src="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/sett.png" alt="Boyd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

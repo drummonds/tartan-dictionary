@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dg4lb6k1dg2k1lb14k3w3k2dg2k2dg2db4dg2db6dg2db6dg3/">Royal Canadian Air Force</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dg4lb6k1dg2k1lb14k3w3k2dg2k2dg2db4dg2db6dg2db6dg3/"><img src="/variants/s18/dg4lb6k1dg2k1lb14k3w3k2dg2k2dg2db4dg2db6dg2db6dg3/sett.png" alt="Royal Canadian Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-canadian-air-force-4/">Royal Canadian Air Force</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-canadian-air-force-4/"><img src="/variants/s18/dg4lb6k1dg2k1lb14k3w3k2dg2k2dg2db4dg2db6dg2db6dg3/sett.png" alt="Royal Canadian Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

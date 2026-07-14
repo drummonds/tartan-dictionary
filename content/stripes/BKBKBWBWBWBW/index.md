@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w24db12w1db2w2db2w1db12k3db4k3db20~x2/">Costa, David (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w24db12w1db2w2db2w1db12k3db4k3db20~x2/"><img src="/variants/s12/w24db12w1db2w2db2w1db12k3db4k3db20~x2/sett.png" alt="Costa, David (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/costa-david/">Costa, David</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/costa-david/"><img src="/variants/s12/w24db12w1db2w2db2w1db12k3db4k3db20~x2/sett.png" alt="Costa, David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

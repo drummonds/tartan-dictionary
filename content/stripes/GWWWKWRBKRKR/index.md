@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/">Edinburgh Zoo Panda (Comm)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/"><img src="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/sett.png" alt="Edinburgh Zoo Panda (Comm) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-zoo-panda/">Edinburgh Zoo Panda</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-zoo-panda/"><img src="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/sett.png" alt="Edinburgh Zoo Panda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

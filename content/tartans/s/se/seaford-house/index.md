@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/b3db3b12db26g26r3g26db28w3/"
+- "/setts/w3db28g26r3g26db26lb12db3lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbgrgbw/">BBBBGRGBW</a></nav>
 Its design is pattern [BBBBGRGBW](/stripes/bbbbgrgbw/) — the page of every tartan sharing this colour sequence.
 
 The **Seaford House** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Seaford House** tartan groups 2 setts — the same named design recorded a
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b3db3b12db26g26r3g26db28w3/">Seaford House</a> ★</td><td><code>B/3 DB3 B12 DB26 G26 R3 G26 DB28 W/3</code></td><td>254</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b3db3b12db26g26r3g26db28w3/"><img src="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/sett.png" alt="Seaford House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w3db28g26r3g26db26lb12db3lb3/">Seaford House</a></td><td><code>W/3 DB28 G26 R3 G26 DB26 LB12 DB3 LB/3</code></td><td>254</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w3db28g26r3g26db26lb12db3lb3/"><img src="w3db28g26r3g26db26lb12db3lb3-rev.png" alt="Seaford House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/">Seaford House</a> ★</td><td><code>B/3 DB3 B12 DB26 G26 R3 G26 DB28 W/3</code></td><td>254</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><img src="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/sett.png" alt="Seaford House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/">Seaford House</a></td><td><code>W/3 DB28 G26 R3 G26 DB26 LB12 DB3 LB/3</code></td><td>254</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><img src="w3db28g26r3g26db26lb12db3lb3-rev.png" alt="Seaford House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/"><circle cx="215.5" cy="176.4" r="4" fill="#3465a4"><title>Connor</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x2/"><circle cx="316.8" cy="260.1" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/"><circle cx="231.8" cy="214.4" r="4" fill="#3465a4"><title>Boys Brigade</title></circle></a><a href="/variants/s10/t5lb2t2lb9k3t9g3t3g25w2~x2/"><circle cx="231.0" cy="170.9" r="4" fill="#3465a4"><title>Un-named</title></circle></a><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/"><circle cx="294.9" cy="204.8" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/"><circle cx="265.6" cy="257.9" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s7/g10db42r5dg42g42y5g10/"><circle cx="220.7" cy="236.7" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><circle cx="276.5" cy="159.7" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="251.9" cy="189.9" r="4" fill="#3465a4"><title>Stewart of Appin 1</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="241.2" cy="233.0" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><circle cx="249.0" cy="221.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/"><circle cx="215.7" cy="176.3" r="4" fill="#3465a4"><title>Connor</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x2/"><circle cx="317.1" cy="260.2" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/"><circle cx="232.1" cy="214.4" r="4" fill="#3465a4"><title>Boys Brigade</title></circle></a><a href="/variants/s10/t5lb2t2lb9k3t9g3t3g25w2~x2/"><circle cx="231.3" cy="170.8" r="4" fill="#3465a4"><title>Un-named</title></circle></a><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/"><circle cx="295.3" cy="204.8" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/"><circle cx="265.7" cy="257.9" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s7/g10db42r5dg42g42y5g10/"><circle cx="220.8" cy="236.7" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><circle cx="277.0" cy="159.6" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="252.4" cy="189.9" r="4" fill="#3465a4"><title>Stewart of Appin 1</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="241.4" cy="233.0" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><circle cx="249.2" cy="221.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

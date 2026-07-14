@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/m2n3m1n9k4n13k33n1k4m1~x2/">Myles, Lee</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/m2n3m1n9k4n13k33n1k4m1~x2/"><img src="/variants/s10/m2n3m1n9k4n13k33n1k4m1~x2/sett.png" alt="Myles, Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/my/myles-lee/">Myles, Lee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/my/myles-lee/"><img src="/variants/s10/m2n3m1n9k4n13k33n1k4m1~x2/sett.png" alt="Myles, Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Hopetoun"
   url: "/tartans/h/ho/hopetoun/"
 - name: "Hopetoun Corporate Tartan"
-  url: "/setts/g22k4g4k21y2k4y2k21g4k2db2g22/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g22k4g4k21y2k4y2k21g4k2db2g22/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hopetoun/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGKGKGKGKG](/stripes/gbkgkgkgkgkg/).
 
 Part of the [Hopetoun](/tartans/h/ho/hopetoun/) tartan — the named design grouping this sett with its other cloths.

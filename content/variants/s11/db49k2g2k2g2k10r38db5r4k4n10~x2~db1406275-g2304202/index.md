@@ -8,10 +8,10 @@ crumbs:
 - name: "Porsche Bank Austria"
   url: "/tartans/p/po/porsche-bank-austria/"
 - name: "Porsche Bank Austria"
-  url: "/setts/db49k2g2k2g2k10r38db5r4k4n10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db49k2g2k2g2k10r38db5r4k4n10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/porsche-bank-austria/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKRBRKB](/stripes/bkgkgkrbrkb/).
 
 Part of the [Porsche Bank Austria](/tartans/p/po/porsche-bank-austria/) tartan — the named design grouping this sett with its other cloths.

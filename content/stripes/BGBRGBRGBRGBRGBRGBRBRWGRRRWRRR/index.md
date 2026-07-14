@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/">Unidentified, Victorian fancy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/"><img src="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/sett.png" alt="Unidentified, Victorian fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-victorian-fancy-2/">Unidentified, Victorian fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-victorian-fancy-2/"><img src="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/sett.png" alt="Unidentified, Victorian fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,17 +6,23 @@ crumbs:
   url: "/"
 - name: "Clan Skene"
   url: "/clan/skene/"
+aliases:
+- "/setts/k4db24k4r3k4g24k4y3k4g24r3k4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbkrkgkgkgrk/">KBKRKGKGKGRK</a></nav>
 A tartan of [Clan Skene](/clan/skene/).
 Its design is pattern [KBKRKGKGKGRK](/stripes/kbkrkgkgkgrk/) — the page of every tartan sharing this colour sequence.
 
-The **Skene N** tartan is recorded as a single sett.
+The **Skene N** tartan is one sett, recorded at 2 scales — the same proportion woven
+finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4db24k4r3k4g24k4y3k4g24r3k4/">Skene N</a></td><td><code>K/4 DB24 K4 R3 K4 G24 K4 Y3 K4 G24 R3 K/4</code></td><td>202</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4db24k4r3k4g24k4y3k4g24r3k4/"><img src="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/sett.png" alt="Skene N sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/">Skene N</a></td><td><code>K/4 DB24 K4 R3 K4 G24 K4 Y3 K4 G24 R3 K/4</code></td><td>202</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/"><img src="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/sett.png" alt="Skene N sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/">Skene N</a></td><td><code>K/4 DB24 K4 R3 K4 G24 K4 Y3 K4 G24 R3 K/4</code></td><td>202</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/">Skene N</a></td><td><code>K/8 DB48 K8 R6 K8 G48 K8 Y6 K8 G48 R6 K/8</code></td><td>404</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/">Skene N</a> · <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~r1908029-y1904072/">Skene N</a> · <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/">Skene N</a></td></tr>
 </tbody>
 </table>
@@ -30,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="156.7" cy="143.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="156.0" cy="163.5" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="160.2" cy="142.2" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/"><circle cx="158.8" cy="165.5" r="4" fill="#3465a4"><title>Allen</title></circle></a><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="182.3" cy="132.9" r="4" fill="#3465a4"><title>Scottish Rugby Union</title></circle></a><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/"><circle cx="160.3" cy="170.0" r="4" fill="#3465a4"><title>Royal College of Physicians</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="145.1" cy="136.0" r="4" fill="#3465a4"><title>Letham Hunting</title></circle></a><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"><circle cx="147.0" cy="173.9" r="4" fill="#3465a4"><title>Wellecomme, Bernard</title></circle></a><a href="/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/"><circle cx="146.0" cy="145.8" r="4" fill="#3465a4"><title>Choinka</title></circle></a><a href="/variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/"><circle cx="133.5" cy="166.6" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><circle cx="159.9" cy="145.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="157.2" cy="143.2" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="156.4" cy="163.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="160.7" cy="142.0" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/"><circle cx="159.2" cy="165.3" r="4" fill="#3465a4"><title>Allen</title></circle></a><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="182.8" cy="132.8" r="4" fill="#3465a4"><title>Scottish Rugby Union</title></circle></a><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/"><circle cx="160.7" cy="169.8" r="4" fill="#3465a4"><title>Royal College of Physicians</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="145.5" cy="135.7" r="4" fill="#3465a4"><title>Letham Hunting</title></circle></a><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"><circle cx="147.4" cy="173.7" r="4" fill="#3465a4"><title>Wellecomme, Bernard</title></circle></a><a href="/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/"><circle cx="146.4" cy="145.7" r="4" fill="#3465a4"><title>Choinka</title></circle></a><a href="/variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/"><circle cx="133.9" cy="166.4" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><circle cx="160.4" cy="144.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

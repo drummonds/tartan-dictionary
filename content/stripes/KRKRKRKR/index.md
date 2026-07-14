@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k12r3k2r16k8r12k2r3~x2/">MacLeod #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k12r3k2r16k8r12k2r3~x2/"><img src="/variants/s8/k12r3k2r16k8r12k2r3~x2/sett.png" alt="MacLeod #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/">Menzies Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/"><img src="/variants/s8/k48r4k2r4k6r2k3r9~x2/sett.png" alt="Menzies Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/">Murray of Ochtertyre #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/"><img src="/variants/s8/k30r3k2r3k2r27k30r4~x2/sett.png" alt="Murray of Ochtertyre #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-5/">MacLeod</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-5/"><img src="/variants/s8/k12r3k2r16k8r12k2r3~x2/sett.png" alt="MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/menzies-hunting-2/">Menzies Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/menzies-hunting-2/"><img src="/variants/s8/k48r4k2r4k6r2k3r9~x2/sett.png" alt="Menzies Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-ochtertyre-2/">Murray of Ochtertyre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-of-ochtertyre-2/"><img src="/variants/s8/k30r3k2r3k2r27k30r4~x2/sett.png" alt="Murray of Ochtertyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

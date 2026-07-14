@@ -8,10 +8,10 @@ crumbs:
 - name: "Duke of Sussex"
   url: "/tartans/d/du/duke-of-sussex/"
 - name: "Duke of Sussex"
-  url: "/setts/r18g1k5g1k1g1r9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r18g1k5g1k1g1r9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duke-of-sussex/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGKGR](/stripes/rgkgkgr/).
 
 Part of the [Duke of Sussex](/tartans/d/du/duke-of-sussex/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1010](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1830 — Duke of Sussex (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1010">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>From a portrait of Augustus, Duke of Sussex & Earl of Inverness (1773-1843) by Sir William Beechey. Hanging in the Fishmongers Hall, London. Of the sett of 1829 of which this is probably an incorrect rendering post C.1830.</em></li>
-<li>1830 — Duke of Sussex (Royal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5265">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>From a portrait of Augustus, Duke of Sussex & Earl of Inverness (1773-1843) by Sir William Beechey. Hanging in the Fishmongers Hall, London. Cf the sett of 1829 of which this is probably an incorrect rendering post C.1830</em></li>
+<li>1830 — Duke of Sussex (Royal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5265/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>From a portrait of Augustus, Duke of Sussex & Earl of Inverness (1773-1843) by Sir William Beechey. Hanging in the Fishmongers Hall, London. Cf the sett of 1829 of which this is probably an incorrect rendering post C.1830</em></li>
 </ul>
 </details>
 

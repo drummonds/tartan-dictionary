@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2k2r8k12r4db2r2k1~x4/">Murray (Bed hanging)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2k2r8k12r4db2r2k1~x4/"><img src="/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2k2r8k12r4db2r2k1~x4/sett.png" alt="Murray (Bed hanging) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-5/">Murray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-5/"><img src="/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2k2r8k12r4db2r2k1~x4/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

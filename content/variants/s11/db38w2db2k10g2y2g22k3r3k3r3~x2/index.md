@@ -8,10 +8,10 @@ crumbs:
 - name: "Hunnisett /Edinchip"
   url: "/tartans/h/hu/hunnisett-edinchip/"
 - name: "Hunnisett /Edinchip Corporate Tartan"
-  url: "/setts/db38w2db2k10g2y2g22k3r3k3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db38w2db2k10g2y2g22k3r3k3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hunnisett-edinchip/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGGGKRKR](/stripes/bwbkgggkrkr/).
 
 Part of the [Hunnisett /Edinchip](/tartans/h/hu/hunnisett-edinchip/) tartan — the named design grouping this sett with its other cloths.

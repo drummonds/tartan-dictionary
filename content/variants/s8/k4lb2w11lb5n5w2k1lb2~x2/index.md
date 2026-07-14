@@ -12,15 +12,15 @@ crumbs:
 - name: "Conquergood"
   url: "/tartans/c/co/conquergood/"
 - name: "Conquergood"
-  url: "/setts/k4lb2w11lb5n5w2k1lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4lb2w11lb5n5w2k1lb2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWBWWWKWWWBWKW](/stripes/kwbwwwkwwwbwkw/).
+provenance below. It is one weaving of the [sett](/tartans/c/co/conquergood/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWWWBWKW](/stripes/kwwwbwkw/).
 
 Part of the [Conquergood](/tartans/c/co/conquergood/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=746](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=746)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=746](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Conquergood (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=746">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Designed to represent Canadian landscape in winter and sandy beaches in summer. Robert Conquergood, born in 1818 in Ormston, in the Parish of Roxburgh, Scotland, emigrated to Ontario, Canada with his father, also Robert, who was born in 1781. The Conquergood family in Canada approved this tartan at their 1990 biennial family reunion held at Kelowna, British Columbia.</em></li>
-<li>pre 2002 — Conquergood (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2095">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Count from 'Tartans (1999) by Johnston/Smith. No other details known. Feb 2010 - Dr Phil Smith advised that it is for all of the name Conquergood.</em></li>
+<li>pre 2002 — Conquergood (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2095/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Count from 'Tartans (1999) by Johnston/Smith. No other details known. Feb 2010 - Dr Phil Smith advised that it is for all of the name Conquergood.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2095
 
 ## Thread count
-LB/4 K2 W4 N10 LB10 W22 LB4 K8 LB4 W22 LB10 N10 W4 K/2
+K/8 LB4 W22 LB10 N10 W4 K2 LB/4
 
-One full sett is **226 threads**.
+One full sett is **116 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/4 K2 W4 N10 LB10 W22 LB4 K8 LB4 W22 LB10 N10 W4 K/2 — 226 threads; it folds to the canonical 116-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **226 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/4 K2 W4 N10 LB10 W22 LB4 K8 LB4 W22 LB10 N10 W4 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 LB4 W22 LB10 N10 W4 K2 LB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

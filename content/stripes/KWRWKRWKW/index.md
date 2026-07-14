@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/">Universal Scientific Indust (Corp.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><img src="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/sett.png" alt="Universal Scientific Indust (Corp.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/universal-scientific-indust/">Universal Scientific Indust</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/universal-scientific-indust/"><img src="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/sett.png" alt="Universal Scientific Indust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

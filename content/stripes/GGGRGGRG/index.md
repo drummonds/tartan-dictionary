@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y8r2y8g1r6y3g4y2~x4/">Glufree</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y8r2y8g1r6y3g4y2~x4/"><img src="/variants/s8/y8r2y8g1r6y3g4y2~x4/sett.png" alt="Glufree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glufree/">Glufree</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glufree/"><img src="/variants/s8/y8r2y8g1r6y3g4y2~x4/sett.png" alt="Glufree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g21lb21ly3r21n3dp5n3~x2/">Falardeau-Murphy (Canada) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g21lb21ly3r21n3dp5n3~x2/"><img src="/variants/s7/g21lb21ly3r21n3dp5n3~x2/sett.png" alt="Falardeau-Murphy (Canada) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/falardeau-murphy/">Falardeau-Murphy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/falardeau-murphy/"><img src="/variants/s7/g21lb21ly3r21n3dp5n3~x2/sett.png" alt="Falardeau-Murphy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

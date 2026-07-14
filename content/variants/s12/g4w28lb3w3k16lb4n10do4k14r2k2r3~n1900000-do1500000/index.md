@@ -10,10 +10,10 @@ crumbs:
 - name: "Edinburgh Zoo Panda, The"
   url: "/tartans/e/ed/edinburgh-zoo-panda-the/"
 - name: "Edinburgh Zoo Panda, The"
-  url: "/setts/g4w28lb3w3k16lb4n10do4k14r2k2r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4w28lb3w3k16lb4n10do4k14r2k2r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-zoo-panda-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWWWKWBBKRKR](/stripes/gwwwkwbbkrkr/).
 
 Part of the [Edinburgh Zoo Panda, The](/tartans/e/ed/edinburgh-zoo-panda-the/) tartan — the named design grouping this sett with its other cloths.

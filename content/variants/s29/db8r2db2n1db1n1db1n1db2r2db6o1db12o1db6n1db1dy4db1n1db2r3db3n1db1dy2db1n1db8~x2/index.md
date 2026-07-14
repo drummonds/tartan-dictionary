@@ -12,10 +12,10 @@ crumbs:
 - name: "Delmarva"
   url: "/tartans/d/de/delmarva-2/"
 - name: "Delmarva"
-  url: "/setts/db8r2db2n1db1n1db1n1db2r2db6o1db12o1db6n1db1dy4db1n1db2r3db3n1db1dy2db1n1db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8r2db2n1db1n1db1n1db2r2db6o1db12o1db6n1db1dy4db1n1db2r3db3n1db1dy2db1n1db8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/delmarva-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBBBRBBBGBBBRBRBRBBBBBBBRB](/stripes/bbbgbbbrbbbgbbbrbrbrbbbbbbbrb/).
 
 Part of the [Delmarva](/tartans/d/de/delmarva-2/) tartan — the named design grouping this sett with its other cloths.

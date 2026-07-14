@@ -12,10 +12,10 @@ crumbs:
 - name: "Shanahan"
   url: "/tartans/s/sh/shanahan/"
 - name: "Shanahan"
-  url: "/setts/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shanahan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGYKRKRKYGKGBR](/stripes/bgkgykrkrkygkgbr/).
 
 Part of the [Shanahan](/tartans/s/sh/shanahan/) tartan — the named design grouping this sett with its other cloths.

@@ -11,11 +11,11 @@ crumbs:
   url: "/families/johnston/"
 - name: "Johnston"
   url: "/tartans/j/jo/johnston/"
-- name: "Johnston"
-  url: "/setts/y3g2k1g30db24k2db2k2/"
+- name: "Johnston Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3g2k1g30db24k2db2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/jo/johnston/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGBKBK](/stripes/ggkgbkbk/).
 
 Part of the [Johnston](/tartans/j/jo/johnston/) tartan — the named design grouping this sett with its other cloths.
@@ -71,7 +71,7 @@ One full sett is **254 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.15** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.17** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

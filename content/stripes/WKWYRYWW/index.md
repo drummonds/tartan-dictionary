@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/">Lalage (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/"><img src="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/sett.png" alt="Lalage (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lalage/">Lalage</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lalage/"><img src="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/sett.png" alt="Lalage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

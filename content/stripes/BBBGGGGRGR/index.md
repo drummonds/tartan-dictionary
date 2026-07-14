@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/o42y11o5y4dg29dgi19g24dpi2dp8dpii23~x2~y2303114-dg1204144-dgi1303152-g1903114-dpi1508310-dp1507327-dpii1607327/">Fabric of Scotland (Prickly Thistle), The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/o42y11o5y4dg29dgi19g24dpi2dp8dpii23~x2~y2303114-dg1204144-dgi1303152-g1903114-dpi1508310-dp1507327-dpii1607327/"><img src="/variants/s10/o42y11o5y4dg29dgi19g24dpi2dp8dpii23~x2~y2303114-dg1204144-dgi1303152-g1903114-dpi1508310-dp1507327-dpii1607327/sett.png" alt="Fabric of Scotland (Prickly Thistle), The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/fabric-of-scotland-the/">Fabric of Scotland , The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/fabric-of-scotland-the/"><img src="/variants/s10/o42y11o5y4dg29dgi19g24dpi2dp8dpii23~x2~y2303114-dg1204144-dgi1303152-g1903114-dpi1508310-dp1507327-dpii1607327/sett.png" alt="Fabric of Scotland , The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

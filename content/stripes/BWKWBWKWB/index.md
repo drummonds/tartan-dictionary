@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/">Strathspey (Estate Check)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/"><img src="/variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/sett.png" alt="Strathspey (Estate Check) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathspey-2/">Strathspey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathspey-2/"><img src="/variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/sett.png" alt="Strathspey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

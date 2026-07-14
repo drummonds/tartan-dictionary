@@ -28,16 +28,16 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s2/g9dp8~x2/">Wilson's No.116 (light)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/g9dp8~x2/"><img src="/variants/s2/g9dp8~x2/sett.png" alt="Wilson's No.116 (light) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/dp1g1~x16/">Wilson's, No 116</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/dp1g1~x16/"><img src="/variants/s2/dp1g1~x16/sett.png" alt="Wilson's, No 116 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-116/">Wilson's No.116</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-116/"><img src="/variants/s2/g9dp8~x2/sett.png" alt="Wilson's No.116 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-116-2/">Wilson's, No 116</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-116-2/"><img src="/variants/s2/dp1g1~x16/sett.png" alt="Wilson's, No 116 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s2/g1t1~x130/">Hafren (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/g1t1~x130/"><img src="/variants/s2/g1t1~x130/sett.png" alt="Hafren (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hafren/">Hafren</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hafren/"><img src="/variants/s2/g1t1~x130/sett.png" alt="Hafren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s2/dy9n1~x12/">Outlander #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/dy9n1~x12/"><img src="/variants/s2/dy9n1~x12/sett.png" alt="Outlander #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ou/outlander-4/">Outlander</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ou/outlander-4/"><img src="/variants/s2/dy9n1~x12/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

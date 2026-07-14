@@ -12,10 +12,10 @@ crumbs:
 - name: "Bermuda"
   url: "/tartans/b/be/bermuda/"
 - name: "Bermuda, Blue"
-  url: "/setts/b12r4db4b42r6b6db11b6dg19b8r4b6db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b12r4db4b42r6b6db11b6dg19b8r4b6db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/bermuda/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBGBBBRBBRB](/stripes/bbrbgbbbrbbrb/).
 
 Part of the [Bermuda](/tartans/b/be/bermuda/) tartan — the named design grouping this sett with its other cloths.

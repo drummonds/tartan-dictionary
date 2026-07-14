@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/">Gotts (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/"><img src="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/sett.png" alt="Gotts (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gotts/">Gotts</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gotts/"><img src="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/sett.png" alt="Gotts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

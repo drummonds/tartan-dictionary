@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w1g16lb2g12k1g12k10dp10lb1~x2/">Faskin Family (Aberdeenshire)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w1g16lb2g12k1g12k10dp10lb1~x2/"><img src="/variants/s9/w1g16lb2g12k1g12k10dp10lb1~x2/sett.png" alt="Faskin Family (Aberdeenshire) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/faskin/">Faskin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/faskin/"><img src="/variants/s9/w1g16lb2g12k1g12k10dp10lb1~x2/sett.png" alt="Faskin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

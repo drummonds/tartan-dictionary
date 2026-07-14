@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w45t2w4t15w7~x2/">Asahi (Estimated threadcount)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w45t2w4t15w7~x2/"><img src="/variants/s5/w45t2w4t15w7~x2/sett.png" alt="Asahi (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/as/asahi/">Asahi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/as/asahi/"><img src="/variants/s5/w45t2w4t15w7~x2/sett.png" alt="Asahi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/lb37t9lb3db9w3~x2/">Loch Lomond Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lb37t9lb3db9w3~x2/"><img src="/variants/s5/lb37t9lb3db9w3~x2/sett.png" alt="Loch Lomond Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-lomond/">Loch Lomond</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-lomond/"><img src="/variants/s5/lb37t9lb3db9w3~x2/sett.png" alt="Loch Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

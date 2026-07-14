@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r28ri1db18ly2g1db18/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgybrr/">BGYBRR</a></nav>
 Its design is pattern [BGYBRR](/stripes/bgybrr/) — the page of every tartan sharing this colour sequence.
 
 The **European Judo Union** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **European Judo Union** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r28ri1db18ly2g1db18/">European Judo Union</a></td><td><code>R/56 Ri2 DB36 LY4 G2 DB/36</code></td><td>180</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r28ri1db18ly2g1db18/"><img src="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/sett.png" alt="European Judo Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/">European Judo Union</a></td><td><code>R/56 Ri2 DB36 LY4 G2 DB/36</code></td><td>180</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><img src="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/sett.png" alt="European Judo Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dr28r1db18y2g6db18~x2/"><circle cx="364.9" cy="194.4" r="4" fill="#3465a4"><title>British Judo Association</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="297.8" cy="156.7" r="4" fill="#3465a4"><title>Tartan Lassie</title></circle></a><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="319.2" cy="111.8" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s6/r15dr98db72lb25db8w15/"><circle cx="219.0" cy="187.4" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="370.6" cy="157.8" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="292.1" cy="190.0" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="312.3" cy="172.0" r="4" fill="#3465a4"><title>Galloway Dress</title></circle></a><a href="/variants/s5/db30w4y1w4r30~x4/"><circle cx="295.1" cy="157.0" r="4" fill="#3465a4"><title>Philippine Heritage</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="425.3" cy="178.6" r="4" fill="#3465a4"><title>Meaux, Luc G</title></circle></a><a href="/variants/s4/r31db33dg12w2~x2/"><circle cx="268.0" cy="223.5" r="4" fill="#3465a4"><title>Manor of Wrentnall</title></circle></a><circle cx="356.7" cy="154.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dr28r1db18y2g6db18~x2/"><circle cx="365.5" cy="194.5" r="4" fill="#3465a4"><title>British Judo Association</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.5" cy="156.6" r="4" fill="#3465a4"><title>Tartan Lassie</title></circle></a><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="320.2" cy="111.8" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s6/r15dr98db72lb25db8w15/"><circle cx="219.4" cy="187.3" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="371.2" cy="157.8" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="292.7" cy="190.0" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="313.0" cy="172.0" r="4" fill="#3465a4"><title>Galloway Dress</title></circle></a><a href="/variants/s5/db30w4y1w4r30~x4/"><circle cx="295.8" cy="156.9" r="4" fill="#3465a4"><title>Philippine Heritage</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="426.3" cy="178.8" r="4" fill="#3465a4"><title>Meaux, Luc G</title></circle></a><a href="/variants/s4/r31db33dg12w2~x2/"><circle cx="268.5" cy="223.4" r="4" fill="#3465a4"><title>Manor of Wrentnall</title></circle></a><circle cx="357.5" cy="154.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

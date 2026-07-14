@@ -12,10 +12,10 @@ crumbs:
 - name: "Silvicola"
   url: "/tartans/s/si/silvicola/"
 - name: "Silvicola"
-  url: "/setts/y20k15y20w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y20k15y20w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/silvicola/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGW](/stripes/gkgw/).
 
 Part of the [Silvicola](/tartans/s/si/silvicola/) tartan — the named design grouping this sett with its other cloths.

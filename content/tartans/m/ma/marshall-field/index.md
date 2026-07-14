@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Marshall"
   url: "/clan/marshall/"
+aliases:
+- "/setts/g10db1w1db1y1db6g8r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbwbgbgr/">GBWBGBGR</a></nav>
 A tartan of [Clan Marshall](/clan/marshall/).
 Its design is pattern [GBWBGBGR](/stripes/gbwbgbgr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Marshall Field** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g10db1w1db1y1db6g8r1/">Marshall Field</a></td><td><code>G/80 DB8 W8 DB8 Y8 DB48 G64 R/8</code></td><td>376</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g10db1w1db1y1db6g8r1/"><img src="/variants/s8/g10db1w1db1y1db6g8r1~x8/sett.png" alt="Marshall Field sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g10db1w1db1y1db6g8r1~x8/">Marshall Field</a></td><td><code>G/80 DB8 W8 DB8 Y8 DB48 G64 R/8</code></td><td>376</td><td>1986</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g10db1w1db1y1db6g8r1~x8/"><img src="/variants/s8/g10db1w1db1y1db6g8r1~x8/sett.png" alt="Marshall Field sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><circle cx="411.2" cy="152.1" r="4" fill="#3465a4"><title>Marshall Fields</title></circle></a><a href="/variants/s8/g99db20w8db30y8db10y8g46/"><circle cx="387.9" cy="206.5" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="336.7" cy="166.2" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="278.9" cy="184.8" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.6" cy="200.5" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="286.8" cy="168.7" r="4" fill="#3465a4"><title>Tennessee State</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="236.1" cy="179.4" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="351.3" cy="196.2" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><circle cx="321.3" cy="182.5" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><circle cx="328.0" cy="187.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><circle cx="412.1" cy="152.4" r="4" fill="#3465a4"><title>Marshall Fields</title></circle></a><a href="/variants/s8/g99db20w8db30y8db10y8g46/"><circle cx="388.5" cy="206.7" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="337.3" cy="166.3" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="279.4" cy="184.8" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="326.2" cy="200.6" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="287.3" cy="168.7" r="4" fill="#3465a4"><title>Tennessee State</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="236.5" cy="179.3" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="351.9" cy="196.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><circle cx="321.9" cy="182.6" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="315.3" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><circle cx="328.6" cy="187.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

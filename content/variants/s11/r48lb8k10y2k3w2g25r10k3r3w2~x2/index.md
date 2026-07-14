@@ -8,10 +8,10 @@ crumbs:
 - name: "Follower's"
   url: "/tartans/f/fo/follower-s/"
 - name: "Follower's Plaid Artifact Tartan"
-  url: "/setts/r48lb8k10y2k3w2g25r10k3r3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r48lb8k10y2k3w2g25r10k3r3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/follower-s/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKGKWGRKRW](/stripes/rwkgkwgrkrw/).
 
 Part of the [Follower's](/tartans/f/fo/follower-s/) tartan — the named design grouping this sett with its other cloths.

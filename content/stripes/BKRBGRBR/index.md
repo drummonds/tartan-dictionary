@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db57k1r12db1g12r14db1r2~x2/">McBrayer Blue (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db57k1r12db1g12r14db1r2~x2/"><img src="/variants/s8/db57k1r12db1g12r14db1r2~x2/sett.png" alt="McBrayer Blue (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcbrayer/">McBrayer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcbrayer/"><img src="/variants/s8/db57k1r12db1g12r14db1r2~x2/sett.png" alt="McBrayer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

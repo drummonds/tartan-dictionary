@@ -8,10 +8,10 @@ crumbs:
 - name: "Stewart/Stuart"
   url: "/tartans/s/st/stewart-stuart/"
 - name: "Stewart/Stuart"
-  url: "/setts/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-stuart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKBRKRKRGKBKG](/stripes/bkgkgkbrkrkrgkbkg/).
 
 Part of the [Stewart/Stuart](/tartans/s/st/stewart-stuart/) tartan — the named design grouping this sett with its other cloths.

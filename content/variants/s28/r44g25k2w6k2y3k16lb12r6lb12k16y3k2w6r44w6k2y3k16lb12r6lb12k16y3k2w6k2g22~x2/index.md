@@ -6,15 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No.017"
-  url: "/tartans/w/wi/wilson-s-no-017-2/"
+  url: "/tartans/w/wi/wilson-s-no-017/"
 - name: "Wilson's No.017"
-  url: "/setts/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-017/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGKWRWKGKWRWKGKWRWKGKWKGR](/stripes/gkwkgkwrwkgkwrwkgkwrwkgkwkgr/).
 
-Part of the [Wilson's No.017](/tartans/w/wi/wilson-s-no-017-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wilson's No.017](/tartans/w/wi/wilson-s-no-017/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

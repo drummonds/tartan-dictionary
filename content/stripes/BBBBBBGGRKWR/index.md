@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/">Salt Lake City Arts Council (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/"><img src="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/sett.png" alt="Salt Lake City Arts Council (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/salt-lake-city-arts-council/">Salt Lake City Arts Council</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/salt-lake-city-arts-council/"><img src="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/sett.png" alt="Salt Lake City Arts Council sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

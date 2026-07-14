@@ -12,10 +12,10 @@ crumbs:
 - name: "Bethune"
   url: "/tartans/b/be/bethune-2/"
 - name: "Bethune Name Tartan"
-  url: "/setts/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/bethune-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKYKWKGRKRWRKRGKWKYKYBW](/stripes/bykykwkgrkrwrkrgkwkykybw/).
 
 Part of the [Bethune](/tartans/b/be/bethune-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/dr1g22lo1~x4/">Kenmore Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dr1g22lo1~x4/"><img src="/variants/s3/dr1g22lo1~x4/sett.png" alt="Kenmore Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kenmore-hunting/">Kenmore Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kenmore-hunting/"><img src="/variants/s3/dr1g22lo1~x4/sett.png" alt="Kenmore Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-watch/">Scottish Watch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-watch/"><img src="/variants/s3/dr104dg39lo4~x2/sett.png" alt="Scottish Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

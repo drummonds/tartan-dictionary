@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2~x2/">Highlands of Haliburton Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2~x2/"><img src="/variants/s15/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2~x2/sett.png" alt="Highlands of Haliburton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highlands-of-haliburton-dress/">Highlands of Haliburton Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highlands-of-haliburton-dress/"><img src="/variants/s15/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2~x2/sett.png" alt="Highlands of Haliburton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

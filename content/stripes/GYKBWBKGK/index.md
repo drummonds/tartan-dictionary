@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/">Crichton (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/"><img src="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/sett.png" alt="Crichton (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crichton-2/">Crichton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crichton-2/"><img src="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/sett.png" alt="Crichton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

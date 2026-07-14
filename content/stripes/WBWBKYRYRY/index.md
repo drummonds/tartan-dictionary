@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/">Catalunya Escocia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><img src="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/sett.png" alt="Catalunya Escocia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/catalunya-escocia/">Catalunya Escocia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/catalunya-escocia/"><img src="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/sett.png" alt="Catalunya Escocia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

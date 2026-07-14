@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/">Royal Columbian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/"><img src="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/sett.png" alt="Royal Columbian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/">Royal Columbian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/"><img src="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/sett.png" alt="Royal Columbian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-columbian/">Royal Columbian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-columbian/"><img src="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/sett.png" alt="Royal Columbian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

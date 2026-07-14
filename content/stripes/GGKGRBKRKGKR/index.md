@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g8dy2k6g11r2db12k12r2k6dy2k4r3~x2/">Mandela Commemorative</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g8dy2k6g11r2db12k12r2k6dy2k4r3~x2/"><img src="/variants/s12/g8dy2k6g11r2db12k12r2k6dy2k4r3~x2/sett.png" alt="Mandela Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mandela/">Mandela</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mandela/"><img src="/variants/s12/g8dy2k6g11r2db12k12r2k6dy2k4r3~x2/sett.png" alt="Mandela sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

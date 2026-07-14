@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/w3r2dr1r9dr1r2dr2r1dr27db1lb2dr1db11lo1dr2lo1dr2lo1~x2/">Red Lichtie (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/w3r2dr1r9dr1r2dr2r1dr27db1lb2dr1db11lo1dr2lo1dr2lo1~x2/"><img src="/variants/s18/w3r2dr1r9dr1r2dr2r1dr27db1lb2dr1db11lo1dr2lo1dr2lo1~x2/sett.png" alt="Red Lichtie (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/red-lichtie/">Red Lichtie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/red-lichtie/"><img src="/variants/s18/w3r2dr1r9dr1r2dr2r1dr27db1lb2dr1db11lo1dr2lo1dr2lo1~x2/sett.png" alt="Red Lichtie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

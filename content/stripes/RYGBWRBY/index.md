@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r3lo15g4db6w2r30db6ly3~x2/">Round Table Sweden</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r3lo15g4db6w2r30db6ly3~x2/"><img src="/variants/s8/r3lo15g4db6w2r30db6ly3~x2/sett.png" alt="Round Table Sweden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/round-table-sweden/">Round Table Sweden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/round-table-sweden/"><img src="/variants/s8/r3lo15g4db6w2r30db6ly3~x2/sett.png" alt="Round Table Sweden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

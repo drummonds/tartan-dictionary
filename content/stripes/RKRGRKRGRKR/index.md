@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/">Taplin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/"><img src="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/sett.png" alt="Taplin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/taplin/">Taplin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/taplin/"><img src="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/sett.png" alt="Taplin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

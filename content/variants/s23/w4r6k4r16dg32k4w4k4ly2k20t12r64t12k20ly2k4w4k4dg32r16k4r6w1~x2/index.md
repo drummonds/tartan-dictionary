@@ -8,10 +8,10 @@ crumbs:
 - name: "Stuart-Forbes of Fettercairn and Pitsligo"
   url: "/tartans/s/st/stuart-forbes-of-fettercairn-and-pitsligo-2/"
 - name: "Stuart-Forbes of Fettercairn and Pitsligo"
-  url: "/setts/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stuart-forbes-of-fettercairn-and-pitsligo-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRKRGKWKYKBRBKYKWKGRKRW](/stripes/wrkrgkwkykbrbkykwkgrkrw/).
 
 Part of the [Stuart-Forbes of Fettercairn and Pitsligo](/tartans/s/st/stuart-forbes-of-fettercairn-and-pitsligo-2/) tartan — the named design grouping this sett with its other cloths.

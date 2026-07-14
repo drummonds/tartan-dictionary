@@ -12,10 +12,10 @@ crumbs:
 - name: "Wagland"
   url: "/tartans/w/wa/wagland-2/"
 - name: "Wagland"
-  url: "/setts/db6y2db15g12dg39w3dg39g12db15y2db6r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6y2db15g12dg39w3dg39g12db15y2db6r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/wagland-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGWGGBGBR](/stripes/bgbggwggbgbr/).
 
 Part of the [Wagland](/tartans/w/wa/wagland-2/) tartan — the named design grouping this sett with its other cloths.

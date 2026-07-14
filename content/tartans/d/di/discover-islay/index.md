@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp6y1dp20db6g19dp2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbbgb/">BGBBGB</a></nav>
 Its design is pattern [BGBBGB](/stripes/bgbbgb/) — the page of every tartan sharing this colour sequence.
 
 The **Discover Islay** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Discover Islay** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp6y1dp20db6g19dp2/">Discover Islay</a></td><td><code>DP/24 Y4 DP80 DB24 G76 DP/8</code></td><td>400</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp6y1dp20db6g19dp2/"><img src="/variants/s6/dp6y1dp20db6g19dp2~x4/sett.png" alt="Discover Islay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/">Discover Islay</a></td><td><code>DP/24 Y4 DP80 DB24 G76 DP/8</code></td><td>400</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/"><img src="/variants/s6/dp6y1dp20db6g19dp2~x4/sett.png" alt="Discover Islay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db23dp2g11dp24lb3~x2/"><circle cx="303.1" cy="259.0" r="4" fill="#3465a4"><title>Scottish Open Squash</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="339.9" cy="172.9" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/variants/s8/dr3lb2g18lo2g18dp34dr3dp3~x2/"><circle cx="300.9" cy="177.5" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/variants/s8/dr25g10db30w4db30g10dr25w2~x2/"><circle cx="280.0" cy="232.3" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="270.6" cy="228.0" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s6/db4dy9w4db9dy18w1~x2/"><circle cx="379.8" cy="223.7" r="4" fill="#3465a4"><title>WVU Mountaineer</title></circle></a><a href="/variants/s7/dr10db15g2db2w1db1w1~x4/"><circle cx="372.3" cy="187.9" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><circle cx="293.0" cy="198.6" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="373.8" cy="249.5" r="4" fill="#3465a4"><title>Craig Devlin</title></circle></a><a href="/variants/s6/db26dr6g16db8g3dr2~x2/"><circle cx="381.3" cy="245.6" r="4" fill="#3465a4"><title>Perthshire</title></circle></a><circle cx="358.6" cy="212.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db23dp2g11dp24lb3~x2/"><circle cx="303.3" cy="259.0" r="4" fill="#3465a4"><title>Scottish Open Squash</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="340.4" cy="172.9" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/variants/s8/dr3lb2g18lo2g18dp34dr3dp3~x2/"><circle cx="301.3" cy="177.5" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/variants/s8/dr25g10db30w4db30g10dr25w2~x2/"><circle cx="280.3" cy="232.3" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="270.9" cy="228.0" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s6/db4dy9w4db9dy18w1~x2/"><circle cx="380.5" cy="223.8" r="4" fill="#3465a4"><title>WVU Mountaineer</title></circle></a><a href="/variants/s7/dr10db15g2db2w1db1w1~x4/"><circle cx="373.0" cy="188.0" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><circle cx="293.4" cy="198.6" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.2" cy="249.6" r="4" fill="#3465a4"><title>Craig Devlin</title></circle></a><a href="/variants/s6/db26dr6g16db8g3dr2~x2/"><circle cx="381.9" cy="245.8" r="4" fill="#3465a4"><title>Perthshire</title></circle></a><circle cx="359.2" cy="212.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

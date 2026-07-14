@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db74g54dr44w2dp15y10/"
+- "/setts/db37g27dr22w1dp6ly5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbwbg/">BGBWBG</a></nav>
 Its design is pattern [BGBWBG](/stripes/bgbwbg/) — the page of every tartan sharing this colour sequence.
 
 The **Palazzo Bloise** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Palazzo Bloise** tartan groups 2 setts — the same named design recorded 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db74g54dr44w2dp15y10/">Palazzo Bloise</a> ★</td><td><code>DB/74 G54 DR44 W2 DP15 Y/10</code></td><td>314</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db74g54dr44w2dp15y10/"><img src="/variants/s6/db74g54dr44w2dp15y10/sett.png" alt="Palazzo Bloise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db37g27dr22w1dp6ly5/">(Personal)</a></td><td><code>DB/74 G54 DR44 W2 DP12 LY/10</code></td><td>308</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db37g27dr22w1dp6ly5/"><img src="/variants/s6/db37g27dr22w1dp6ly5~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db74g54dr44w2dp15y10/">Palazzo Bloise</a> ★</td><td><code>DB/74 G54 DR44 W2 DP15 Y/10</code></td><td>314</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db74g54dr44w2dp15y10/"><img src="/variants/s6/db74g54dr44w2dp15y10/sett.png" alt="Palazzo Bloise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db37g27dr22w1dp6ly5~x2/">(Personal)</a></td><td><code>DB/74 G54 DR44 W2 DP12 LY/10</code></td><td>308</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db37g27dr22w1dp6ly5~x2/"><img src="/variants/s6/db37g27dr22w1dp6ly5~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="270.6" cy="228.0" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.8" cy="235.4" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.8" cy="268.3" r="4" fill="#3465a4"><title>Corey</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="241.4" cy="190.8" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="235.9" cy="188.5" r="4" fill="#3465a4"><title>Heckenberg Hunting</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="275.6" cy="202.2" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="204.6" cy="256.1" r="4" fill="#3465a4"><title>Edelstein</title></circle></a><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/"><circle cx="280.3" cy="191.6" r="4" fill="#3465a4"><title>Kilkenny, County</title></circle></a><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><circle cx="221.5" cy="163.9" r="4" fill="#3465a4"><title>Lachance</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="344.4" cy="146.7" r="4" fill="#3465a4"><title>Caig</title></circle></a><circle cx="250.6" cy="184.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="270.9" cy="228.0" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="365.1" cy="235.5" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.8" cy="268.3" r="4" fill="#3465a4"><title>Corey</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="241.7" cy="190.7" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="236.3" cy="188.4" r="4" fill="#3465a4"><title>Heckenberg Hunting</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="275.9" cy="202.2" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="204.6" cy="256.0" r="4" fill="#3465a4"><title>Edelstein</title></circle></a><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/"><circle cx="280.7" cy="191.6" r="4" fill="#3465a4"><title>Kilkenny, County</title></circle></a><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><circle cx="221.6" cy="163.6" r="4" fill="#3465a4"><title>Lachance</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="345.1" cy="146.8" r="4" fill="#3465a4"><title>Caig</title></circle></a><circle cx="250.9" cy="184.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

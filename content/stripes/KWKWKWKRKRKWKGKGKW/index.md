@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/">Children In Need</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/"><img src="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/sett.png" alt="Children In Need sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/children-in-need/">Children In Need</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/children-in-need/"><img src="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/sett.png" alt="Children In Need sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

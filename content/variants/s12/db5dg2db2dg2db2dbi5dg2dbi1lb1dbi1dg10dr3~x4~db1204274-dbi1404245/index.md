@@ -12,10 +12,10 @@ crumbs:
 - name: "Richard of Wales"
   url: "/tartans/r/ri/richard-of-wales/"
 - name: "Richard of Wales"
-  url: "/setts/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ri/richard-of-wales/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBBGBWBGB](/stripes/bgbgbbgbwbgb/).
 
 Part of the [Richard of Wales](/tartans/r/ri/richard-of-wales/) tartan — the named design grouping this sett with its other cloths.

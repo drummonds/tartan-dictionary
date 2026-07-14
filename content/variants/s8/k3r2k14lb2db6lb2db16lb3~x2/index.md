@@ -8,10 +8,10 @@ crumbs:
 - name: "Immanuel Presbyterian Church"
   url: "/tartans/i/im/immanuel-presbyterian-church-2/"
 - name: "Immanuel Presbyterian Church (Milwaukee)"
-  url: "/setts/k3r2k14lb2db6lb2db16lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3r2k14lb2db6lb2db16lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/im/immanuel-presbyterian-church-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWBWBW](/stripes/krkwbwbw/).
 
 Part of the [Immanuel Presbyterian Church](/tartans/i/im/immanuel-presbyterian-church-2/) tartan — the named design grouping this sett with its other cloths.

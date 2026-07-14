@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/o10k1o7n4lb7n1lb7n1lb7n4o6k1o6n4lb7n1lb2n1lb7n7~x4/">Glen Burns (WCWM - 1)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/o10k1o7n4lb7n1lb7n1lb7n4o6k1o6n4lb7n1lb2n1lb7n7~x4/"><img src="/variants/s20/o10k1o7n4lb7n1lb7n1lb7n4o6k1o6n4lb7n1lb2n1lb7n7~x4/sett.png" alt="Glen Burns (WCWM - 1) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-burns-wcwm/">Glen Burns (WCWM</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-burns-wcwm/"><img src="/variants/s20/o10k1o7n4lb7n1lb7n1lb7n4o6k1o6n4lb7n1lb2n1lb7n7~x4/sett.png" alt="Glen Burns (WCWM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

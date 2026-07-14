@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/">Murray, Tony (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/"><img src="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/sett.png" alt="Murray, Tony (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-tony/">Murray, Tony</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-tony/"><img src="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/sett.png" alt="Murray, Tony sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

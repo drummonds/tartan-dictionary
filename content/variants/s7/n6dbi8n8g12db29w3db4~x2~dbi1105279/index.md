@@ -12,15 +12,15 @@ crumbs:
 - name: "Dickson"
   url: "/tartans/d/di/dickson-2/"
 - name: "Dickson Name Tartan"
-  url: "/setts/n6dbi8n8g12db29w3db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n6dbi8n8g12db29w3db4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBGBBBBBGBW](/stripes/bwbgbbbbbgbw/).
+provenance below. It is one weaving of the [sett](/tartans/d/di/dickson-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBGBWB](/stripes/bbbgbwb/).
 
 Part of the [Dickson](/tartans/d/di/dickson-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10140](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10140)
 
@@ -45,9 +45,11 @@ Earliest known date: July 2009 A tartan designed by Matthew Newsome for George N
 </details>
 
 ## Thread count
-DB/8 W6 DB58 G24 N16 DBi16 N12 DBi16 N16 G24 DB58 W/6
+N/12 DBi16 N16 G24 DB58 W6 DB/8
 
-One full sett is **506 threads**.
+One full sett is **260 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/8 W6 DB58 G24 N16 DBi16 N12 DBi16 N16 G24 DB58 W/6 — 506 threads; it folds to the canonical 260-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **506 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 W6 DB58 G24 N16 DBi16 N12 DBi16 N16 G24 DB58 W/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/12 DBi16 N16 G24 DB58 W6 DB/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

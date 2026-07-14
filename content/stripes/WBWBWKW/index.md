@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w8k2w26db5lb24db2lb8~x2/">Lennox Turquoise Dress District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w8k2w26db5lb24db2lb8~x2/"><img src="/variants/s7/w8k2w26db5lb24db2lb8~x2/sett.png" alt="Lennox Turquoise Dress District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lennox-turquoise-dress/">Lennox Turquoise Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lennox-turquoise-dress/"><img src="/variants/s7/w8k2w26db5lb24db2lb8~x2/sett.png" alt="Lennox Turquoise Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/w5k3w31dp26w4dp10lb4~x2/">MacPherson Dress Purple</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w5k3w31dp26w4dp10lb4~x2/"><img src="/variants/s7/w5k3w31dp26w4dp10lb4~x2/sett.png" alt="MacPherson Dress Purple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-dress-2/">MacPherson Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-2/"><img src="/variants/s7/w5k3w31dp26w4dp10lb4~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

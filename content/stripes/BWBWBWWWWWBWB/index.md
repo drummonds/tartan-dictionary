@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db25lb8db8lb8db8lb46w46lp8w46lb46db46lb8db8/">Poulter SG 104 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db25lb8db8lb8db8lb46w46lp8w46lb46db46lb8db8/"><img src="/variants/s13/db25lb8db8lb8db8lb46w46lp8w46lb46db46lb8db8/sett.png" alt="Poulter SG 104 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/poulter-sg-104/">Poulter SG 104</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/poulter-sg-104/"><img src="/variants/s13/db25lb8db8lb8db8lb46w46lp8w46lb46db46lb8db8/sett.png" alt="Poulter SG 104 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

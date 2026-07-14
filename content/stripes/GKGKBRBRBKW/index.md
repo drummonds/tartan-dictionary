@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/">Scottish Rugby Union (City of Nagasaki)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><img src="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/sett.png" alt="Scottish Rugby Union (City of Nagasaki) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-rugby-union-2/">Scottish Rugby Union</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-rugby-union-2/"><img src="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/sett.png" alt="Scottish Rugby Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

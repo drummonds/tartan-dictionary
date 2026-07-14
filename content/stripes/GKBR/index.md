@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r3db12k50y3~x2/">Rogues (United States), The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r3db12k50y3~x2/"><img src="/variants/s4/r3db12k50y3~x2/sett.png" alt="Rogues (United States), The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rogues-the/">Rogues , The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rogues-the/"><img src="/variants/s4/r3db12k50y3~x2/sett.png" alt="Rogues , The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/dg43k14b14r2~x2/">St. Andrews International Golf Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dg43k14b14r2~x2/"><img src="/variants/s4/dg43k14b14r2~x2/sett.png" alt="St. Andrews International Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-andrews-international-golf-club/">St. Andrews International Golf Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-international-golf-club/"><img src="/variants/s4/dg43k14b14r2~x2/sett.png" alt="St. Andrews International Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

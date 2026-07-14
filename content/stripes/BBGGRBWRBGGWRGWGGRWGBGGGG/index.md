@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/do96n40dg8dy13ri1do13w4r5n10dg39dy15w18r3y1w22dg14dy8r5w4y1do13dy8dg8dy40dg14~ri2109032-r1807033/">Wirth, Iwan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/do96n40dg8dy13ri1do13w4r5n10dg39dy15w18r3y1w22dg14dy8r5w4y1do13dy8dg8dy40dg14~ri2109032-r1807033/"><img src="/variants/s25/do96n40dg8dy13ri1do13w4r5n10dg39dy15w18r3y1w22dg14dy8r5w4y1do13dy8dg8dy40dg14~ri2109032-r1807033/sett.png" alt="Wirth, Iwan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wirth-iwan/">Wirth, Iwan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wirth-iwan/"><img src="/variants/s25/do96n40dg8dy13ri1do13w4r5n10dg39dy15w18r3y1w22dg14dy8r5w4y1do13dy8dg8dy40dg14~ri2109032-r1807033/sett.png" alt="Wirth, Iwan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s40/k12g1k1g1k1g1k1g12lb4y4lb4k1g1k1g1k1g1db1g12k12db1k1db1k1db1k1db12lb4k1r4k1lb4k1db1k1db1k1db1k1db12~x2/">Coutts 75th (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s40/k12g1k1g1k1g1k1g12lb4y4lb4k1g1k1g1k1g1db1g12k12db1k1db1k1db1k1db12lb4k1r4k1lb4k1db1k1db1k1db1k1db12~x2/"><img src="/variants/s40/k12g1k1g1k1g1k1g12lb4y4lb4k1g1k1g1k1g1db1g12k12db1k1db1k1db1k1db12lb4k1r4k1lb4k1db1k1db1k1db1k1db12~x2/sett.png" alt="Coutts 75th (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coutts-75th/">Coutts 75th</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coutts-75th/"><img src="/variants/s40/k12g1k1g1k1g1k1g12lb4y4lb4k1g1k1g1k1g1db1g12k12db1k1db1k1db1k1db12lb4k1r4k1lb4k1db1k1db1k1db1k1db12~x2/sett.png" alt="Coutts 75th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

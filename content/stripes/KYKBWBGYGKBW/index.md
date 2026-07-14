@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/">State Seal of Maryland (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/"><img src="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/sett.png" alt="State Seal of Maryland (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-maryland/">State Seal of Maryland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-maryland/"><img src="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/sett.png" alt="State Seal of Maryland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

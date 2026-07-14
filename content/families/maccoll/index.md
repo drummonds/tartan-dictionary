@@ -15,7 +15,7 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/m/ma/maccoll/">MacColl</a> ★</td><td>1797</td><td>4</td><td>5</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maccoll/"><img src="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/sett.png" alt="MacColl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maccoll/"><img src="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/sett.png" alt="MacColl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maccoll-3/">MacColl</a></td><td>—</td><td>1</td><td>1</td><td>4.77</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maccoll-3/"><img src="/variants/s14/r12g1r1o8r2o1r1db3r1o1r12g1r1g4~x2/sett.png" alt="MacColl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maccoll-4/">MacColl</a></td><td>—</td><td>2</td><td>2</td><td>6.23</td></tr>

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r5g7k2lb1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgkw/">RGKW</a></nav>
 Its design is pattern [RGKW](/stripes/rgkw/) — the page of every tartan sharing this colour sequence.
 
 The **Wilson's No.195** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Wilson's No.195** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r5g7k2lb1/">Wilson's No.195</a></td><td><code>R/20 G28 K8 LB/4</code></td><td>96</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r5g7k2lb1/"><img src="/variants/s4/r5g7k2lb1~x4/sett.png" alt="Wilson's No.195 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r5g7k2lb1~x4/">Wilson's No.195</a></td><td><code>R/20 G28 K8 LB/4</code></td><td>96</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r5g7k2lb1~x4/"><img src="/variants/s4/r5g7k2lb1~x4/sett.png" alt="Wilson's No.195 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="115.0" cy="259.2" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="97.7" cy="271.0" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="273.9" cy="261.5" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.1" cy="252.3" r="4" fill="#3465a4"><title>Dohmen</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="176.2" cy="200.0" r="4" fill="#3465a4"><title>Sachie Hara</title></circle></a><a href="/variants/s4/g9dr7w7r1~x4/"><circle cx="162.2" cy="265.5" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="207.3" cy="187.1" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="217.9" cy="284.5" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="228.2" cy="287.7" r="4" fill="#3465a4"><title>Delroeux, John Michael</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="175.6" cy="178.8" r="4" fill="#3465a4"><title>Oakley</title></circle></a><circle cx="198.8" cy="237.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="115.2" cy="259.1" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="97.8" cy="270.8" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="274.2" cy="261.5" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.4" cy="252.3" r="4" fill="#3465a4"><title>Dohmen</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="176.5" cy="199.9" r="4" fill="#3465a4"><title>Sachie Hara</title></circle></a><a href="/variants/s4/g9dr7w7r1~x4/"><circle cx="162.2" cy="265.3" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="207.7" cy="187.0" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="218.0" cy="284.4" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="228.4" cy="287.6" r="4" fill="#3465a4"><title>Delroeux, John Michael</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="176.0" cy="178.7" r="4" fill="#3465a4"><title>Oakley</title></circle></a><circle cx="199.2" cy="237.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Meiklejohn"
   url: "/tartans/m/me/meiklejohn/"
 - name: "Meiklejohn (Personal)"
-  url: "/setts/dr2k13db4k13dg6k17dg23w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr2k13db4k13dg6k17dg23w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/meiklejohn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKGW](/stripes/bkbkgkgw/).
 
 Part of the [Meiklejohn](/tartans/m/me/meiklejohn/) tartan — the named design grouping this sett with its other cloths.

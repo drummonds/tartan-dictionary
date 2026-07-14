@@ -12,10 +12,10 @@ crumbs:
 - name: "Lochcarron"
   url: "/tartans/l/lo/lochcarron/"
 - name: "Lochcarron (1985)"
-  url: "/setts/db12lb1k2db1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db12lb1k2db1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lochcarron/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBR](/stripes/bwkbr/).
 
 Part of the [Lochcarron](/tartans/l/lo/lochcarron/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2167](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1985 — Lochcarron (1985) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2167">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #000064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Fashion, copied from a Lochcarron catalogue, 1985.</em></li>
-<li>1985 — Lochcarron (1985) (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5462">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #000064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Fashion, copied from a Lochcarron catalogue, 1985.</em></li>
+<li>1985 — Lochcarron (1985) (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5462/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #000064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Fashion, copied from a Lochcarron catalogue, 1985.</em></li>
 </ul>
 </details>
 

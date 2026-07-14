@@ -8,10 +8,10 @@ crumbs:
 - name: "Bonnie Brae"
   url: "/tartans/b/bo/bonnie-brae-3/"
 - name: "Bonnie Brae School"
-  url: "/setts/dr6db3o3dr24db20g24o3g3o3g3o6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr6db3o3dr24db20g24o3g3o3g3o6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bonnie-brae-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBBGRGRGR](/stripes/bbrbbgrgrgr/).
 
 Part of the [Bonnie Brae](/tartans/b/bo/bonnie-brae-3/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=309](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1986 — Bonnie Brae School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=309">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #000060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004800"></span><br><em>Designed by Ken Bates of Roger Laviale, New York City, for the Bonnie Brae School in Millington and the Bonnie Brae Highland Games. Woven by Saddleworth Mills, Yorkshire.</em></li>
-<li>1987 (Feb) — Bonnie Brae (School) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1450">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#70000C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #70000C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #000060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004800"></span><br><em>Designed by Ken Bates of Roger Laviale, New York City for the Bonnie Brae Highland Games. Woven by Saddleworth Mills, Yorkshire. Sample in STA Johnston Collection. Other STS notes of 1988 say woven for the Bonnie Brae School in Millington which is confirmed by Alistair Buchan of Lochcarron.</em></li>
+<li>1987 (Feb) — Bonnie Brae (School) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1450/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#70000C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #70000C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #000060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004800"></span><br><em>Designed by Ken Bates of Roger Laviale, New York City for the Bonnie Brae Highland Games. Woven by Saddleworth Mills, Yorkshire. Sample in STA Johnston Collection. Other STS notes of 1988 say woven for the Bonnie Brae School in Millington which is confirmed by Alistair Buchan of Lochcarron.</em></li>
 </ul>
 </details>
 

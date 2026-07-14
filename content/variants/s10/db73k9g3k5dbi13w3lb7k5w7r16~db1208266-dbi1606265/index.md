@@ -8,10 +8,10 @@ crumbs:
 - name: "Ambulance Victoria"
   url: "/tartans/a/am/ambulance-victoria-2/"
 - name: "Ambulance Victoria"
-  url: "/setts/db73k9g3k5dbi13w3lb7k5w7r16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db73k9g3k5dbi13w3lb7k5w7r16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/am/ambulance-victoria-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBWWKWR](/stripes/bkgkbwwkwr/).
 
 Part of the [Ambulance Victoria](/tartans/a/am/ambulance-victoria-2/) tartan — the named design grouping this sett with its other cloths.

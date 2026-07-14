@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Spotsylvania County Sheriff"
   url: "/tartans/s/sp/spotsylvania-county-sheriff/"
-- name: "Spotsylvania County Sheriff (Corp)"
-  url: "/setts/k2y2k24y2k2y2ly30w3g2r2/"
+- name: "Spotsylvania County Sheriff's Office"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2y2k24y2k2y2ly30w3g2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spotsylvania-county-sheriff/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGYWGR](/stripes/kgkgkgywgr/).
 
 Part of the [Spotsylvania County Sheriff](/tartans/s/sp/spotsylvania-county-sheriff/) tartan — the named design grouping this sett with its other cloths.

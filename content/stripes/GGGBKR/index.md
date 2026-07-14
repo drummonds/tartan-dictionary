@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/">Waterford Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/"><img src="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/sett.png" alt="Waterford Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/waterford-irish-county/">Waterford Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/waterford-irish-county/"><img src="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/sett.png" alt="Waterford Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

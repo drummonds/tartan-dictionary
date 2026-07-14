@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/">Braveheart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/"><img src="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/sett.png" alt="Braveheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/braveheart-2/">Braveheart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braveheart-2/"><img src="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/sett.png" alt="Braveheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

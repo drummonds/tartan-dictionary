@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/">Gary/Garry (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/"><img src="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/sett.png" alt="Gary/Garry (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gary-garry/">Gary/Garry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gary-garry/"><img src="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/sett.png" alt="Gary/Garry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/">McInery (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><img src="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/sett.png" alt="McInery (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcinery/">McInery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcinery/"><img src="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/sett.png" alt="McInery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r3db2r1db18g1db2~x4/">Lynch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r3db2r1db18g1db2~x4/"><img src="/variants/s6/r3db2r1db18g1db2~x4/sett.png" alt="Lynch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r19db6r14db101g7db7/">Lynch Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r19db6r14db101g7db7/"><img src="/variants/s6/r19db6r14db101g7db7/sett.png" alt="Lynch Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ly/lynch/">Lynch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ly/lynch/"><img src="/variants/s6/r19db6r14db101g7db7/sett.png" alt="Lynch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

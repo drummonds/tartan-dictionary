@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db5w5db5w5db15w1lo2w1db21y2db5k2y4~x2/">Jouy (La Chapelle Saint Sulpice) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db5w5db5w5db15w1lo2w1db21y2db5k2y4~x2/"><img src="/variants/s13/db5w5db5w5db15w1lo2w1db21y2db5k2y4~x2/sett.png" alt="Jouy (La Chapelle Saint Sulpice) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jouy/">Jouy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jouy/"><img src="/variants/s13/db5w5db5w5db15w1lo2w1db21y2db5k2y4~x2/sett.png" alt="Jouy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/">Cranstoun Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><img src="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/sett.png" alt="Cranstoun Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/cranstoun/">Cranstoun</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/cranstoun/"><img src="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/sett.png" alt="Cranstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/g24dp3g3dp3g3dp7dg20r3/">Crantock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g24dp3g3dp3g3dp7dg20r3/"><img src="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/sett.png" alt="Crantock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crantock/">Crantock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crantock/"><img src="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/sett.png" alt="Crantock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/k/ki/kildare-county/">Kildare, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kildare-county/"><img src="/variants/s8/y8do2y13dr4y12db22y5o3~x2/sett.png" alt="Kildare, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

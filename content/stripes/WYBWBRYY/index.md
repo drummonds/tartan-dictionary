@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/">Isle of Jura</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/"><img src="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/sett.png" alt="Isle of Jura sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/isle-of-jura/">Isle of Jura</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-jura/"><img src="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/sett.png" alt="Isle of Jura sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

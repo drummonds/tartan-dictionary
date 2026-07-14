@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/">Boyle Family, Susan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/"><img src="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/sett.png" alt="Boyle Family, Susan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boyle-family-susan/">Boyle Family, Susan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boyle-family-susan/"><img src="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/sett.png" alt="Boyle Family, Susan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

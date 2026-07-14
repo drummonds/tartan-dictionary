@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/">University of Georgia (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><img src="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/sett.png" alt="University of Georgia (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/university-of-georgia/">University of Georgia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/university-of-georgia/"><img src="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/sett.png" alt="University of Georgia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

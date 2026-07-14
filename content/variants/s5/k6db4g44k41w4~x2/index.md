@@ -12,10 +12,10 @@ crumbs:
 - name: "Douglas"
   url: "/tartans/d/do/douglas-5/"
 - name: "Douglas (alternative threadcount)"
-  url: "/setts/k6db4g44k41w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6db4g44k41w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/douglas-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGKW](/stripes/kbgkw/).
 
 Part of the [Douglas](/tartans/d/do/douglas-5/) tartan — the named design grouping this sett with its other cloths.

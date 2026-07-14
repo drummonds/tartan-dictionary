@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r33k8do12g12r8do2r8~x2/">Tipperary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r33k8do12g12r8do2r8~x2/"><img src="/variants/s7/r33k8do12g12r8do2r8~x2/sett.png" alt="Tipperary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tipperary/">Tipperary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tipperary/"><img src="/variants/s7/r33k8do12g12r8do2r8~x2/sett.png" alt="Tipperary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/n5r3n35k28n4k11n2~x2/">Korner-Macpherson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n5r3n35k28n4k11n2~x2/"><img src="/variants/s7/n5r3n35k28n4k11n2~x2/sett.png" alt="Korner-Macpherson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ko/korner-macpherson/">Korner-MacPherson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ko/korner-macpherson/"><img src="/variants/s7/n5r3n35k28n4k11n2~x2/sett.png" alt="Korner-MacPherson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

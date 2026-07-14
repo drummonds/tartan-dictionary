@@ -12,10 +12,10 @@ crumbs:
 - name: "Grampian"
   url: "/tartans/g/gr/grampian/"
 - name: "Grampian"
-  url: "/setts/g26ri2g3dbi15db26r2db3dbi4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g26ri2g3dbi15db26r2db3dbi4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grampian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBBGRG](/stripes/bbrbbgrg/).
 
 Part of the [Grampian](/tartans/g/gr/grampian/) tartan — the named design grouping this sett with its other cloths.
@@ -53,6 +53,21 @@ One full sett is **264 threads**.
 # Sample pattern
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/52 Ri4 G6 DBi30 DB52 R4 DB6 DBi/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **3.01** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<figure class="master-compare" style="margin:0">
+<span style="position:relative;display:inline-block;max-width:100%">
+<img src="compare.png" alt="this sett (top) woven against the master sett (bottom)" style="width:100%;max-width:740px;display:block">
+<span style="position:absolute;top:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">this sett</span>
+<span style="position:absolute;bottom:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">master sett ★</span>
+</span>
+<figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/g24r2g3db14dt24r2dt3db3/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
+</figure>
 
 ## Nearest tartan variants
 

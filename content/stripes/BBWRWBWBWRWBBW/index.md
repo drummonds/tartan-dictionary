@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/">Greer</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/"><img src="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/sett.png" alt="Greer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greer/">Greer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greer/"><img src="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/sett.png" alt="Greer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/b26w28b14y3k1y2k1~x2/">Gothenburg</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/b26w28b14y3k1y2k1~x2/"><img src="/variants/s7/b26w28b14y3k1y2k1~x2/sett.png" alt="Gothenburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db26w28db14y3k1y2k1~x2/">Gothenburg/Goteborg</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db26w28db14y3k1y2k1~x2/"><img src="/variants/s7/db26w28db14y3k1y2k1~x2/sett.png" alt="Gothenburg/Goteborg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gothenburg/">Gothenburg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gothenburg/"><img src="/variants/s7/b26w28b14y3k1y2k1~x2/sett.png" alt="Gothenburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gothenburg-goteborg/">Gothenburg/Goteborg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gothenburg-goteborg/"><img src="/variants/s7/db26w28db14y3k1y2k1~x2/sett.png" alt="Gothenburg/Goteborg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

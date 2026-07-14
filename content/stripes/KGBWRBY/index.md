@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/">Snelgrove (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/"><img src="/variants/s7/k2g6do4lb1r18do5ly1~x4/sett.png" alt="Snelgrove (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sn/snelgrove/">Snelgrove</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sn/snelgrove/"><img src="/variants/s7/k2g6do4lb1r18do5ly1~x4/sett.png" alt="Snelgrove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

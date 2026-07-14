@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/">Bains of Caithness</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><img src="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/sett.png" alt="Bains of Caithness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bains/">Bains</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bains/"><img src="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/sett.png" alt="Bains sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

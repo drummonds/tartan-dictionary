@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r2db4lb18n2lb2n41w2/"
+- "/setts/r2t4lb18n2lb2n41w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbwbwbw/">RBWBWBW</a></nav>
 Its design is pattern [RBWBWBW](/stripes/rbwbwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Haddrell** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Haddrell** tartan groups 2 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2db4lb18n2lb2n41w2/">Haddrell</a> ★</td><td><code>R/4 DB8 LB36 N4 LB4 N82 W/4</code></td><td>276</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2db4lb18n2lb2n41w2/"><img src="/variants/s7/r2db4lb18n2lb2n41w2~x2/sett.png" alt="Haddrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r2t4lb18n2lb2n41w2/">(2013)</a></td><td><code>R/4 T8 LB36 N4 LB4 N82 W/4</code></td><td>276</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2t4lb18n2lb2n41w2/"><img src="/variants/s7/r2t4lb18n2lb2n41w2~x2/sett.png" alt="(2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2db4lb18n2lb2n41w2~x2/">Haddrell</a> ★</td><td><code>R/4 DB8 LB36 N4 LB4 N82 W/4</code></td><td>276</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2db4lb18n2lb2n41w2~x2/"><img src="/variants/s7/r2db4lb18n2lb2n41w2~x2/sett.png" alt="Haddrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2t4lb18n2lb2n41w2~x2/">(2013)</a></td><td><code>R/4 T8 LB36 N4 LB4 N82 W/4</code></td><td>276</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2t4lb18n2lb2n41w2~x2/"><img src="/variants/s7/r2t4lb18n2lb2n41w2~x2/sett.png" alt="(2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="383.3" cy="123.5" r="4" fill="#3465a4"><title>Kuehle</title></circle></a><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><circle cx="373.8" cy="155.6" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="440.5" cy="172.5" r="4" fill="#3465a4"><title>Leblant-Macqueron</title></circle></a><a href="/variants/s8/y6r21b2dg6b41lb2b2lb6/"><circle cx="327.5" cy="152.4" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s12/o38db4o8ly2o4w3o4dr14n7o2n4w2~x2~o2500000-n1900000/"><circle cx="351.6" cy="127.0" r="4" fill="#3465a4"><title>Portree Check</title></circle></a><a href="/variants/s8/lb40db4lb4b5g5lb3ly6o3~x2/"><circle cx="395.7" cy="155.4" r="4" fill="#3465a4"><title>Miller Hargreaves</title></circle></a><a href="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/"><circle cx="339.2" cy="128.5" r="4" fill="#3465a4"><title>Louth Irish County</title></circle></a><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/"><circle cx="364.4" cy="137.7" r="4" fill="#3465a4"><title>Yamaue</title></circle></a><a href="/variants/s7/y2r4db4lb35g5r12w2~x2/"><circle cx="297.2" cy="140.4" r="4" fill="#3465a4"><title>Nicolson of the Isles</title></circle></a><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><circle cx="436.2" cy="205.5" r="4" fill="#3465a4"><title>Connecticut State Police PB</title></circle></a><circle cx="400.0" cy="151.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="384.0" cy="123.5" r="4" fill="#3465a4"><title>Kuehle</title></circle></a><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><circle cx="374.4" cy="155.6" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="441.1" cy="172.7" r="4" fill="#3465a4"><title>Leblant-Macqueron</title></circle></a><a href="/variants/s8/y6r21b2dg6b41lb2b2lb6/"><circle cx="328.1" cy="152.3" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s12/o38db4o8ly2o4w3o4dr14n7o2n4w2~x2~o2500000-n1900000/"><circle cx="352.2" cy="126.9" r="4" fill="#3465a4"><title>Portree Check</title></circle></a><a href="/variants/s8/lb40db4lb4b5g5lb3ly6o3~x2/"><circle cx="396.3" cy="155.4" r="4" fill="#3465a4"><title>Miller Hargreaves</title></circle></a><a href="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/"><circle cx="340.0" cy="128.5" r="4" fill="#3465a4"><title>Louth Irish County</title></circle></a><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/"><circle cx="365.1" cy="137.8" r="4" fill="#3465a4"><title>Yamaue</title></circle></a><a href="/variants/s7/y2r4db4lb35g5r12w2~x2/"><circle cx="297.8" cy="140.2" r="4" fill="#3465a4"><title>Nicolson of the Isles</title></circle></a><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><circle cx="436.8" cy="205.7" r="4" fill="#3465a4"><title>Connecticut State Police PB</title></circle></a><circle cx="400.7" cy="151.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

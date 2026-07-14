@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/">Turnberry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/"><img src="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/sett.png" alt="Turnberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/turnberry-2/">Turnberry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/turnberry-2/"><img src="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/sett.png" alt="Turnberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

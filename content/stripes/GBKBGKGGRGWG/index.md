@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg5w3dg15r3dg15y3k10dg19db3k3db3dg3~x2/">Forfar Farmington</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg5w3dg15r3dg15y3k10dg19db3k3db3dg3~x2/"><img src="/variants/s12/dg5w3dg15r3dg15y3k10dg19db3k3db3dg3~x2/sett.png" alt="Forfar Farmington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forfar-farmington/">Forfar Farmington</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forfar-farmington/"><img src="/variants/s12/dg5w3dg15r3dg15y3k10dg19db3k3db3dg3~x2/sett.png" alt="Forfar Farmington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

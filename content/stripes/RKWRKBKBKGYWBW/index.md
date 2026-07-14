@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w8db3w10ly8y2k4db3k2db3k2r3w1k2r2~x2/">MacInnes Ancient Htg (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w8db3w10ly8y2k4db3k2db3k2r3w1k2r2~x2/"><img src="/variants/s14/w8db3w10ly8y2k4db3k2db3k2r3w1k2r2~x2/sett.png" alt="MacInnes Ancient Htg (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macinnes-ancient-hunting/">MacInnes Ancient Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macinnes-ancient-hunting/"><img src="/variants/s14/w8db3w10ly8y2k4db3k2db3k2r3w1k2r2~x2/sett.png" alt="MacInnes Ancient Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

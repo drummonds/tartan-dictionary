@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/">Vaughan (Welsh Series)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/"><img src="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/sett.png" alt="Vaughan (Welsh Series) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/vaughan/">Vaughan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/vaughan/"><img src="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/sett.png" alt="Vaughan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

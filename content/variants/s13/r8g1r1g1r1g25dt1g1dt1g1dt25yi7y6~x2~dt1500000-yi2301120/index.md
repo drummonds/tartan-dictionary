@@ -8,10 +8,10 @@ crumbs:
 - name: "Johansson , Christian"
   url: "/tartans/j/jo/johansson-christian/"
 - name: "Johansson (Aneby, Sweden), Christian (Personal)"
-  url: "/setts/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/jo/johansson-christian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGBGRGRGR](/stripes/ggbgbgbgrgrgr/).
 
 Part of the [Johansson , Christian](/tartans/j/jo/johansson-christian/) tartan — the named design grouping this sett with its other cloths.

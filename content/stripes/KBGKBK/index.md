@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/">Vance (Family Association) Corporate Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/"><img src="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/sett.png" alt="Vance (Family Association) Corporate Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/vance-corporate/">Vance Corporate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/vance-corporate/"><img src="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/sett.png" alt="Vance Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Ogilvie"
   url: "/tartans/o/og/ogilvie/"
 - name: "Ogilvie (D.C. Stewart) #2"
-  url: "/setts/lb6y2k2r9w2r6w2r9k2y2lb6r2lb6r2lb6y2k2r9w2r6w2r9k2y2lb6w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb6y2k2r9w2r6w2r9k2y2lb6r2lb6r2lb6y2k2r9w2r6w2r9k2y2lb6w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/og/ogilvie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKRWRWRKGWRWRWGKRWRWRKGWW](/stripes/wgkrwrwrkgwrwrwgkrwrwrkgww/).
 
 Part of the [Ogilvie](/tartans/o/og/ogilvie/) tartan — the named design grouping this sett with its other cloths.

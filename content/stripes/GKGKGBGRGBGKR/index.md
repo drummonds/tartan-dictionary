@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/">Moncrieff of Atholl</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/"><img src="/variants/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/sett.png" alt="Moncrieff of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moncrieff-of-atholl/">Moncrieff of Atholl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moncrieff-of-atholl/"><img src="/variants/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/sett.png" alt="Moncrieff of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

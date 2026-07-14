@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/b28k1r7k1b6k1n4k1b6y2r3y2b4w6~x2/">Rabbinical (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/b28k1r7k1b6k1n4k1b6y2r3y2b4w6~x2/"><img src="/variants/s14/b28k1r7k1b6k1n4k1b6y2r3y2b4w6~x2/sett.png" alt="Rabbinical (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rabbinical/">Rabbinical</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rabbinical/"><img src="/variants/s14/b28k1r7k1b6k1n4k1b6y2r3y2b4w6~x2/sett.png" alt="Rabbinical sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/portree/"
 - name: "Portree"
   url: "/families/portree/"
+aliases:
+- "/setts/w20ly4w12dp2w4lb3w4t28w2t4lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbwbwwwbwyw/">WBWBWWWBWYW</a></nav>
 A tartan of the [Portree](/families/portree/) family.
 Its design is pattern [WBWBWWWBWYW](/stripes/wbwbwwwbwyw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Portree** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w20ly4w12dp2w4lb3w4t28w2t4lb2/">Portree</a></td><td><code>W/40 LY8 W24 DP4 W8 LB6 W8 T56 W4 T8 LB/4</code></td><td>296</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w20ly4w12dp2w4lb3w4t28w2t4lb2/"><img src="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/sett.png" alt="Portree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/">Portree</a></td><td><code>W/40 LY8 W24 DP4 W8 LB6 W8 T56 W4 T8 LB/4</code></td><td>296</td><td>1989</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/"><img src="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/sett.png" alt="Portree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/"><circle cx="216.3" cy="193.3" r="4" fill="#3465a4"><title>Portree</title></circle></a><a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/"><circle cx="343.2" cy="215.3" r="4" fill="#3465a4"><title>Silver</title></circle></a><a href="/variants/s8/db2lb2w11lb5n5w2db1lb2~x2/"><circle cx="267.9" cy="248.1" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s10/w3db2w30db4lp26w2lp2dp4lp2w3~x2/"><circle cx="348.5" cy="191.0" r="4" fill="#3465a4"><title>Harris, Lilac</title></circle></a><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9wi2t9lb2t9~x2~t2406246-w3502055-wi3704101-lb3203246/"><circle cx="257.1" cy="203.3" r="4" fill="#3465a4"><title>Balamory Fancy</title></circle></a><a href="/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/"><circle cx="265.9" cy="199.4" r="4" fill="#3465a4"><title>MacHinery Dress</title></circle></a><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/"><circle cx="241.2" cy="198.0" r="4" fill="#3465a4"><title>Balamory</title></circle></a><circle cx="316.2" cy="199.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/"><circle cx="216.4" cy="193.0" r="4" fill="#3465a4"><title>Portree</title></circle></a><a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/"><circle cx="343.5" cy="215.3" r="4" fill="#3465a4"><title>Silver</title></circle></a><a href="/variants/s8/db2lb2w11lb5n5w2db1lb2~x2/"><circle cx="267.9" cy="247.9" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s10/w3db2w30db4lp26w2lp2dp4lp2w3~x2/"><circle cx="348.9" cy="190.9" r="4" fill="#3465a4"><title>Harris, Lilac</title></circle></a><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9wi2t9lb2t9~x2~t2406246-w3502055-wi3704101-lb3203246/"><circle cx="257.2" cy="203.1" r="4" fill="#3465a4"><title>Balamory Fancy</title></circle></a><a href="/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/"><circle cx="266.2" cy="199.2" r="4" fill="#3465a4"><title>MacHinery Dress</title></circle></a><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/"><circle cx="241.3" cy="197.7" r="4" fill="#3465a4"><title>Balamory</title></circle></a><circle cx="316.4" cy="199.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

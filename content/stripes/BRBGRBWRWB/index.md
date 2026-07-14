@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/t33w2r3w2db14ri3g15t20r2t3~x2~r2109032-ri2806019/">Kansai St Andrews Society (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/t33w2r3w2db14ri3g15t20r2t3~x2~r2109032-ri2806019/"><img src="/variants/s10/t33w2r3w2db14ri3g15t20r2t3~x2~r2109032-ri2806019/sett.png" alt="Kansai St Andrews Society (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ka/kansai-st-andrews-society/">Kansai St Andrews Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/kansai-st-andrews-society/"><img src="/variants/s10/t33w2r3w2db14ri3g15t20r2t3~x2~r2109032-ri2806019/sett.png" alt="Kansai St Andrews Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

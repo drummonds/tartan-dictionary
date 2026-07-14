@@ -10,15 +10,15 @@ crumbs:
 - name: "Montgomery"
   url: "/families/montgomery/"
 - name: "Montgomery"
-  url: "/tartans/m/mo/montgomery-2/"
+  url: "/tartans/m/mo/montgomery/"
 - name: "Montgomery"
-  url: "/setts/k4r5k4dr28k4g5k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4r5k4dr28k4g5k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/montgomery/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKRK](/stripes/kgkbkrk/).
 
-Part of the [Montgomery](/tartans/m/mo/montgomery-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Montgomery](/tartans/m/mo/montgomery/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/">Johnston Dress (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/"><img src="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/sett.png" alt="Johnston Dress (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/johnston-dress/">Johnston Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/johnston-dress/"><img src="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2~db1406275/sett.png" alt="Johnston Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

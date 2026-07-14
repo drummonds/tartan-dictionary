@@ -8,10 +8,10 @@ crumbs:
 - name: "Notre Dame Marching Guard"
   url: "/tartans/n/no/notre-dame-marching-guard/"
 - name: "Notre Dame Marching Guard"
-  url: "/setts/g9t9k24t35dr5t35k24t9g9dr5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g9t9k24t35dr5t35k24t9g9dr5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/notre-dame-marching-guard/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBBBKBG](/stripes/bgbkbbbkbg/).
 
 Part of the [Notre Dame Marching Guard](/tartans/n/no/notre-dame-marching-guard/) tartan — the named design grouping this sett with its other cloths.

@@ -12,17 +12,17 @@ crumbs:
 - name: "West of Wells"
   url: "/tartans/w/we/west-of-wells/"
 - name: "West of Wells (Personal)"
-  url: "/setts/dg28k2db3k11db3k2db17dbi4lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg28k2db3k11db3k2db17dbi4lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/west-of-wells/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBBW](/stripes/gkbkbkbbw/).
 
 Part of the [West of Wells](/tartans/w/we/west-of-wells/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10012](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10012)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/10012/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10012/*)
 
 ## Provenance
 
@@ -31,7 +31,7 @@ Earliest known date: Mar. 2009 This sett is based on the Roxburghshire tartan be
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>Mar. 2009 — West of Wells (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10012">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><br><em>This sett is based on the Roxburghshire tartan because the Barony of Wells based in Jedburgh now belongs to Mr Bryce L. West.The chosen colours are the traditional navy and green often seen in tartans such as the Black Watch with the addition of a second blue for extra depth. The silver grey was a special request from Mr West. Exclusively designed by Kinloch Anderson. Restricted availability. Please contact Kinloch Anderson regarding use. The responsibility for any development of this tartan has been given to Kinloch Anderson.</em></li>
+<li>Mar. 2009 — West of Wells (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10012/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><br><em>This sett is based on the Roxburghshire tartan because the Barony of Wells based in Jedburgh now belongs to Mr Bryce L. West.The chosen colours are the traditional navy and green often seen in tartans such as the Black Watch with the addition of a second blue for extra depth. The silver grey was a special request from Mr West. Exclusively designed by Kinloch Anderson. Restricted availability. Please contact Kinloch Anderson regarding use. The responsibility for any development of this tartan has been given to Kinloch Anderson.</em></li>
 <li>undated — West of Wells Personal Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10012">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span></li>
 </ul>
 </details>
@@ -46,7 +46,7 @@ Earliest known date: Mar. 2009 This sett is based on the Roxburghshire tartan be
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Motherwell Football Club Official"
   url: "/tartans/m/mo/motherwell-football-club-official/"
 - name: "Motherwell Football Club Official"
-  url: "/setts/dr20y1dr10y10k1dr5w1dr5k1y5dr11k2w4y3dr5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr20y1dr10y10k1dr5w1dr5k1y5dr11k2w4y3dr5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/motherwell-football-club-official/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKBWBKGBKWGB](/stripes/bgbgkbwbkgbkwgb/).
 
 Part of the [Motherwell Football Club Official](/tartans/m/mo/motherwell-football-club-official/) tartan — the named design grouping this sett with its other cloths.

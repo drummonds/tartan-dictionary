@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2r3y1dy2y1db16y1g32y1k2y1r1k1~x2/">Neumann - German Pipe Smokers (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2r3y1dy2y1db16y1g32y1k2y1r1k1~x2/"><img src="/variants/s13/k2r3y1dy2y1db16y1g32y1k2y1r1k1~x2/sett.png" alt="Neumann - German Pipe Smokers (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/neumann/">Neumann</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/neumann/"><img src="/variants/s13/k2r3y1dy2y1db16y1g32y1k2y1r1k1~x2/sett.png" alt="Neumann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

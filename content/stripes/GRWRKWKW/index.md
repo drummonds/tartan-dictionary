@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/">Marjoribanks</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/"><img src="/variants/s8/y3r2w1r40k36w3k3w3~x2/sett.png" alt="Marjoribanks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/marjoribanks/">Marjoribanks</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/marjoribanks/"><img src="/variants/s8/y3r2w1r40k36w3k3w3~x2/sett.png" alt="Marjoribanks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

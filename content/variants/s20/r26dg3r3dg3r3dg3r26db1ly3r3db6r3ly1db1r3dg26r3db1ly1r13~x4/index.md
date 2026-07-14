@@ -12,10 +12,10 @@ crumbs:
 - name: "Munro of Lindertis"
   url: "/tartans/m/mu/munro-of-lindertis/"
 - name: "Munro of Lindertis"
-  url: "/setts/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/munro-of-lindertis/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRGRBYRBRYBRGRBYR](/stripes/rgrgrgrbyrbrybrgrbyr/).
 
 Part of the [Munro of Lindertis](/tartans/m/mu/munro-of-lindertis/) tartan — the named design grouping this sett with its other cloths.

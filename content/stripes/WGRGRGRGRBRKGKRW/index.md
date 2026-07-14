@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/">MacInnes (MacGregor-Hastie)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/"><img src="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/sett.png" alt="MacInnes (MacGregor-Hastie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macinnes/">MacInnes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macinnes/"><img src="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/sett.png" alt="MacInnes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

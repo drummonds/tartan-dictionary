@@ -8,10 +8,10 @@ crumbs:
 - name: "Bedford Academy"
   url: "/tartans/b/be/bedford-academy/"
 - name: "Bedford Academy"
-  url: "/setts/n8y4n35db2lt8db2n4db21n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n8y4n35db2lt8db2n4db21n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/bedford-academy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWBBGB](/stripes/bbbbwbbgb/).
 
 Part of the [Bedford Academy](/tartans/b/be/bedford-academy/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/n38db4n8o2n4w3n4dr14b7n2b4w2~x2/">Portree, Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n38db4n8o2n4w3n4dr14b7n2b4w2~x2/"><img src="/variants/s12/n38db4n8o2n4w3n4dr14b7n2b4w2~x2/sett.png" alt="Portree, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/portree-check-2/">Portree, Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/portree-check-2/"><img src="/variants/s12/n38db4n8o2n4w3n4dr14b7n2b4w2~x2/sett.png" alt="Portree, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

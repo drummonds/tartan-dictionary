@@ -28,11 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k6y2k21y2k6y24k2y6/">MacLachlan 4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k6y2k21y2k6y24k2y6/"><img src="/variants/s8/k6y2k21y2k6y24k2y6/sett.png" alt="MacLachlan 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclachlan-vs/">MacLachlan VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclachlan-vs/"><img src="/variants/s8/k6y2k21y2k6y24k2y6/sett.png" alt="MacLachlan VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/watertown-library-assoc/">Watertown Library Assoc.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/watertown-library-assoc/"><img src="/variants/s8/k4y2k27y2k8y31k2y4~x2/sett.png" alt="Watertown Library Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/k19g10k6g10k12g6k4g14~x2/">Menzies Green</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k19g10k6g10k12g6k4g14~x2/"><img src="/variants/s8/k19g10k6g10k12g6k4g14~x2/sett.png" alt="Menzies Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/menzies-3/">Menzies</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/menzies-3/"><img src="/variants/s8/k19g10k6g10k12g6k4g14~x2/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Ville de Beauport"
   url: "/tartans/v/vi/ville-de-beauport/"
 - name: "Ville de Beauport"
-  url: "/setts/g16k1db12k1b12k1r10y7k1y7k2b1k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16k1db12k1b12k1r10y7k1y7k2b1k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vi/ville-de-beauport/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKRGKGKBK](/stripes/gkbkbkrgkgkbk/).
 
 Part of the [Ville de Beauport](/tartans/v/vi/ville-de-beauport/) tartan — the named design grouping this sett with its other cloths.

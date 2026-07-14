@@ -3,7 +3,7 @@ title: "Families & clans — R"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-81 clans and families beginning with R. [Back to the A–Z](/families/).
+80 clans and families beginning with R. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/families/raaf/"><img src="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/sett.png" alt="RAAF" width="140"><br><strong>RAAF</strong></a></li>
@@ -11,7 +11,6 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/raeburn/"><img src="/variants/s4/k34y3k34y26~x2/sett.png" alt="Raeburn" width="140"><br><strong>Raeburn</strong></a></li>
 <li><a class="tartan" href="/families/rainbow/"><img src="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/sett.png" alt="Rainbow" width="140"><br><strong>Rainbow</strong></a></li>
 <li><a class="tartan" href="/families/ralston/"><img src="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/sett.png" alt="Ralston" width="140"><br><strong>Ralston</strong></a></li>
-<li><a class="tartan" href="/families/ramada/"><img src="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/sett.png" alt="Ramada" width="140"><br><strong>Ramada</strong></a></li>
 <li><a class="tartan" href="/families/ramsay/"><img src="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/sett.png" alt="Ramsay" width="140"><br><strong>Ramsay</strong></a></li>
 <li><a class="tartan" href="/families/ramsay-of-dalhousie/"><img src="/variants/s6/k4w2k28r30k1r3~x2/sett.png" alt="Ramsay of Dalhousie" width="140"><br><strong>Ramsay of Dalhousie</strong></a></li>
 <li><a class="tartan" href="/families/rangers/"><img src="/variants/s4/db21k10dt8r3~x2/sett.png" alt="Rangers" width="140"><br><strong>Rangers</strong></a></li>

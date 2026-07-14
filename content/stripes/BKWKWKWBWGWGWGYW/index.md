@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/dr3k8w2k3w2k2w6b3w6dy2w2dy3w2dy4ly10w3~x2/">Clanedin/Commonwealth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/dr3k8w2k3w2k2w6b3w6dy2w2dy3w2dy4ly10w3~x2/"><img src="/variants/s16/dr3k8w2k3w2k2w6b3w6dy2w2dy3w2dy4ly10w3~x2/sett.png" alt="Clanedin/Commonwealth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clanedin-commonwealth/">Clanedin/Commonwealth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clanedin-commonwealth/"><img src="/variants/s16/dr3k8w2k3w2k2w6b3w6dy2w2dy3w2dy4ly10w3~x2/sett.png" alt="Clanedin/Commonwealth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

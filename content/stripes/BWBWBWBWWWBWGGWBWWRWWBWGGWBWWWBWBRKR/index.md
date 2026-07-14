@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/dp7w1dp7w1dp24w1dp2lb2w1lb2dp2w1dg10g3w1dp4lb2w1r3w1lb2dp3w1g3dg10w1dp2lb2w1lb2dp2w1dp6r16k2r2~x2/">Mackintosh #7</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/dp7w1dp7w1dp24w1dp2lb2w1lb2dp2w1dg10g3w1dp4lb2w1r3w1lb2dp3w1g3dg10w1dp2lb2w1lb2dp2w1dp6r16k2r2~x2/"><img src="/variants/s36/dp7w1dp7w1dp24w1dp2lb2w1lb2dp2w1dg10g3w1dp4lb2w1r3w1lb2dp3w1g3dg10w1dp2lb2w1lb2dp2w1dp6r16k2r2~x2/sett.png" alt="Mackintosh #7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackintosh-5/">Mackintosh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-5/"><img src="/variants/s36/dp7w1dp7w1dp24w1dp2lb2w1lb2dp2w1dg10g3w1dp4lb2w1r3w1lb2dp3w1g3dg10w1dp2lb2w1lb2dp2w1dp6r16k2r2~x2/sett.png" alt="Mackintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-g2203152/">Leinster</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-g2203152/"><img src="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-g2203152/sett.png" alt="Leinster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leinster/">Leinster</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leinster/"><img src="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-g2203152/sett.png" alt="Leinster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

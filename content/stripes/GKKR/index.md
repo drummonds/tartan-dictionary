@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/r63k16y5~x2/">McPeek (Fictitious clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r63k16y5~x2/"><img src="/variants/s3/r63k16y5~x2/sett.png" alt="McPeek (Fictitious clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcpeek/">McPeek</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcpeek/"><img src="/variants/s3/r63k16y5~x2/sett.png" alt="McPeek sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

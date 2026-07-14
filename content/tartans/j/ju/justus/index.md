@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/justus/"
 - name: "Justus"
   url: "/families/justus/"
+aliases:
+- "/setts/db1k4dr1k1lo1k4db1/"
+- "/setts/db1k4r1k1y1k4db1/"
+- "/setts/t1k4r1k1ly1k4t1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkykb/">BKBKYKB</a></nav>
 A tartan of the [Justus](/families/justus/) family.
 Its design is pattern [BKBKYKB](/stripes/bkbkykb/) — the page of every tartan sharing this colour sequence.
 
@@ -20,12 +25,12 @@ The **Justus** tartan groups 3 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db1k4dr1k1lo1k4db1/">Justus</a> ★</td><td><code>DB/12 K48 DR12 K12 LO12 K48 DB/12</code></td><td>288</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db1k4dr1k1lo1k4db1/"><img src="/variants/s7/db1k4dr1k1lo1k4db1~x12/sett.png" alt="Justus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db1k4r1k1y1k4db1/">Family Tartan</a></td><td><code>DB/6 K24 R6 K6 Y6 K24 DB/6</code></td><td>144</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db1k4r1k1y1k4db1/"><img src="/variants/s7/db1k4r1k1y1k4db1~x6/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/t1k4r1k1ly1k4t1/">#1 (Personal)</a></td><td><code>T/12 K48 R12 K12 LY12 K48 T/12</code></td><td>288</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t1k4r1k1ly1k4t1/"><img src="/variants/s7/t1k4r1k1ly1k4t1~x12/sett.png" alt="#1 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db1k4dr1k1lo1k4db1~x12/">Justus</a> ★</td><td><code>DB/12 K48 DR12 K12 LO12 K48 DB/12</code></td><td>288</td><td>1990</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db1k4dr1k1lo1k4db1~x12/"><img src="/variants/s7/db1k4dr1k1lo1k4db1~x12/sett.png" alt="Justus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db1k4r1k1y1k4db1~x6/">Family Tartan</a></td><td><code>DB/6 K24 R6 K6 Y6 K24 DB/6</code></td><td>144</td><td>1990</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db1k4r1k1y1k4db1~x6/"><img src="/variants/s7/db1k4r1k1y1k4db1~x6/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/t1k4r1k1ly1k4t1~x12/">#1 (Personal)</a></td><td><code>T/12 K48 R12 K12 LY12 K48 T/12</code></td><td>288</td><td>1990</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/t1k4r1k1ly1k4t1~x12/"><img src="/variants/s7/t1k4r1k1ly1k4t1~x12/sett.png" alt="#1 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -44,6 +49,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="454.1" cy="163.0" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s8/k15db10k15dr7k15w5k15db10/"><circle cx="234.5" cy="269.4" r="4" fill="#3465a4"><title>Millarkie, Will</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="342.1" cy="177.9" r="4" fill="#3465a4"><title>Black</title></circle></a><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="277.4" cy="180.4" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><circle cx="334.8" cy="146.4" r="4" fill="#3465a4"><title>Lundy Reform</title></circle></a><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><circle cx="364.8" cy="156.7" r="4" fill="#3465a4"><title>Cowe</title></circle></a><a href="/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/"><circle cx="358.4" cy="136.7" r="4" fill="#3465a4"><title>Anzac</title></circle></a><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/"><circle cx="347.7" cy="164.1" r="4" fill="#3465a4"><title>Benson</title></circle></a><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><circle cx="309.2" cy="123.7" r="4" fill="#3465a4"><title>Muylle, Jelle</title></circle></a><a href="/variants/s7/k19r2k20db6k8db6ly2~x2/"><circle cx="396.6" cy="172.1" r="4" fill="#3465a4"><title>Wyse</title></circle></a><circle cx="314.4" cy="212.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="455.5" cy="163.5" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s8/k15db10k15dr7k15w5k15db10/"><circle cx="235.1" cy="269.5" r="4" fill="#3465a4"><title>Millarkie, Will</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="343.2" cy="178.1" r="4" fill="#3465a4"><title>Black</title></circle></a><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="278.2" cy="180.5" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><circle cx="336.0" cy="146.5" r="4" fill="#3465a4"><title>Lundy Reform</title></circle></a><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><circle cx="366.0" cy="156.9" r="4" fill="#3465a4"><title>Cowe</title></circle></a><a href="/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/"><circle cx="359.7" cy="136.9" r="4" fill="#3465a4"><title>Anzac</title></circle></a><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/"><circle cx="348.9" cy="164.3" r="4" fill="#3465a4"><title>Benson</title></circle></a><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><circle cx="310.3" cy="123.8" r="4" fill="#3465a4"><title>Muylle, Jelle</title></circle></a><a href="/variants/s7/k19r2k20db6k8db6ly2~x2/"><circle cx="397.8" cy="172.4" r="4" fill="#3465a4"><title>Wyse</title></circle></a><circle cx="315.3" cy="212.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

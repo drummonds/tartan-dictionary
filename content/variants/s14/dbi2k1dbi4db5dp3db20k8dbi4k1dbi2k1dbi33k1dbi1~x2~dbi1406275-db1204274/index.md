@@ -12,10 +12,10 @@ crumbs:
 - name: "Payne"
   url: "/tartans/p/pa/payne/"
 - name: "Payne"
-  url: "/setts/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33k1dbi1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33k1dbi1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/payne/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBBKBKBKBKB](/stripes/bkbbbbkbkbkbkb/).
 
 Part of the [Payne](/tartans/p/pa/payne/) tartan — the named design grouping this sett with its other cloths.

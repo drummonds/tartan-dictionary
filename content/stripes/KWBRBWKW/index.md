@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k6w11b11r13db17w10k2w4~x2/">Edinburgh, Military Tattoo dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k6w11b11r13db17w10k2w4~x2/"><img src="/variants/s8/k6w11b11r13db17w10k2w4~x2/sett.png" alt="Edinburgh, Military Tattoo dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-military-tattoo-dress/">Edinburgh Military Tattoo Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-military-tattoo-dress/"><img src="/variants/s8/k6w11b11r13db17w10k2w4~x2/sett.png" alt="Edinburgh Military Tattoo Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

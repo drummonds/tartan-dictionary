@@ -12,10 +12,10 @@ crumbs:
 - name: "Sturrock"
   url: "/tartans/s/st/sturrock/"
 - name: "Sturrock"
-  url: "/setts/r52k32g22r16y3r16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r52k32g22r16y3r16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/sturrock/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGKR](/stripes/rgrgkr/).
 
 Part of the [Sturrock](/tartans/s/st/sturrock/) tartan — the named design grouping this sett with its other cloths.

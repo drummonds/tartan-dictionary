@@ -8,22 +8,22 @@ crumbs:
 - name: "Fernie"
   url: "/tartans/f/fe/fernie/"
 - name: "Fernie (Personal)"
-  url: "/setts/r25dt5ri2r12n1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r25dt5ri2r12n1w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRRBWBRRBR](/stripes/brrbwbrrbr/).
+provenance below. It is one weaving of the [sett](/tartans/f/fe/fernie/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRRBW](/stripes/rbrrbw/).
 
 Part of the [Fernie](/tartans/f/fe/fernie/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3089](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3089)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3089/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3089/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>2002 — Fernie (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3089">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#800028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DWR #800028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E86000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #E86000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>No details - House of Tartan production.</em></li>
+<li>2002 — Fernie (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3089/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#800028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DWR #800028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E86000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #E86000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>No details - House of Tartan production.</em></li>
 <li>undated — Fernie (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4870">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#800028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DWR #800028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E86000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #E86000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>No details - House of Tartan production.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3089](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3089
 
 ## Thread count
-R/50 DT10 Ri4 R24 N2 W2 N2 R24 Ri4 DT/10
+R/50 DT10 Ri4 R24 N2 W/2
 
-One full sett is **204 threads**.
+One full sett is **132 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/50 DT10 Ri4 R24 N2 W2 N2 R24 Ri4 DT/10 — 204 threads; it folds to the canonical 132-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **204 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/50 DT10 Ri4 R24 N2 W2 N2 R24 Ri4 DT/10 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/50 DT10 Ri4 R24 N2 W/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Connecticut"
   url: "/tartans/c/co/connecticut/"
 - name: "Connecticut"
-  url: "/setts/db20n2w1n5dg8y1dg2r1dg8n16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db20n2w1n5dg8y1dg2r1dg8n16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/connecticut/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBGGGRGB](/stripes/bbwbgggrgb/).
 
 Part of the [Connecticut](/tartans/c/co/connecticut/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Stuart-Houghton Hunting"
   url: "/tartans/s/st/stuart-houghton-hunting/"
 - name: "Stuart-Houghton Hunting (Personal)"
-  url: "/setts/db11n4db4w2db4n4db11g26n4w3n4w2n14dg10db16dg6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11n4db4w2db4n4db11g26n4w3n4w2n14dg10db16dg6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stuart-houghton-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBBBGBWBWBGBG](/stripes/bbbwbbbgbwbwbgbg/).
 
 Part of the [Stuart-Houghton Hunting](/tartans/s/st/stuart-houghton-hunting/) tartan — the named design grouping this sett with its other cloths.

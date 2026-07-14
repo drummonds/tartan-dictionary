@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/w37k2r36~x2/">Hose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/w37k2r36~x2/"><img src="/variants/s3/w37k2r36~x2/sett.png" alt="Hose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/r13k1w13~x4/">Hose (Dunmore)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r13k1w13~x4/"><img src="/variants/s3/r13k1w13~x4/sett.png" alt="Hose (Dunmore) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hose-2/">Hose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hose-2/"><img src="/variants/s3/w37k2r36~x2/sett.png" alt="Hose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/r4k7lb4/">Wilson's No.198</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r4k7lb4/"><img src="/variants/s3/r4k7lb4~x2~r2109032/sett.png" alt="Wilson's No.198 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-198/">Wilson's No.198</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-198/"><img src="/variants/s3/r4k7lb4~x2~r2109032/sett.png" alt="Wilson's No.198 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

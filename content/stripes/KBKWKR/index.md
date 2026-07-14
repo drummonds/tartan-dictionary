@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3db30k8w8k2r3~x2/">Hydro-Electric</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3db30k8w8k2r3~x2/"><img src="/variants/s6/k3db30k8w8k2r3~x2/sett.png" alt="Hydro-Electric sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hy/hydro-electric-2/">Hydro-Electric</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hy/hydro-electric-2/"><img src="/variants/s6/k3db30k8w8k2r3~x2/sett.png" alt="Hydro-Electric sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

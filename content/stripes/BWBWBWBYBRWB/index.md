@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/">Parker Dress (USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/"><img src="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/sett.png" alt="Parker Dress (USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/parker-dress/">Parker Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/parker-dress/"><img src="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/sett.png" alt="Parker Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

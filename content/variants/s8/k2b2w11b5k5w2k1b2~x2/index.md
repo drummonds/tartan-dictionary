@@ -12,10 +12,10 @@ crumbs:
 - name: "Conquergood"
   url: "/tartans/c/co/conquergood-3/"
 - name: "Conquergood"
-  url: "/setts/k2b2w11b5k5w2k1b2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2b2w11b5k5w2k1b2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/conquergood-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKBWBK](/stripes/bkwkbwbk/).
 
 Part of the [Conquergood](/tartans/c/co/conquergood-3/) tartan — the named design grouping this sett with its other cloths.

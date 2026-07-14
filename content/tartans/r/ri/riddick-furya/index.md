@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y2k3dr31w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkbw/">GKBW</a></nav>
 Its design is pattern [GKBW](/stripes/gkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Riddick Furya** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Riddick Furya** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y2k3dr31w1/">Riddick Furya</a></td><td><code>Y/8 K12 DR124 W/4</code></td><td>284</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y2k3dr31w1/"><img src="/variants/s4/y2k3dr31w1~x4/sett.png" alt="Riddick Furya sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/y2k3dr31w1~x4/">Riddick Furya</a></td><td><code>Y/8 K12 DR124 W/4</code></td><td>284</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/y2k3dr31w1~x4/"><img src="/variants/s4/y2k3dr31w1~x4/sett.png" alt="Riddick Furya sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/y6k3r40w3~x2/"><circle cx="475.4" cy="150.5" r="4" fill="#3465a4"><title>Masai Shuka 18</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="397.9" cy="183.0" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="474.8" cy="201.3" r="4" fill="#3465a4"><title>International Karate Alliance</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="544.0" cy="69.7" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s3/k69r14y5~x2/"><circle cx="468.9" cy="175.5" r="4" fill="#3465a4"><title>Batson</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="477.7" cy="146.4" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s4/r2k50n2r1~x2/"><circle cx="626.0" cy="95.4" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="550.6" cy="58.5" r="4" fill="#3465a4"><title>McHattie</title></circle></a><a href="/variants/s5/k50db3p2r3w1~x4/"><circle cx="556.3" cy="57.0" r="4" fill="#3465a4"><title>Fettes</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="477.4" cy="71.7" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><circle cx="590.0" cy="123.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/y6k3r40w3~x2/"><circle cx="476.7" cy="150.8" r="4" fill="#3465a4"><title>Masai Shuka 18</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="398.9" cy="183.2" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="476.1" cy="201.7" r="4" fill="#3465a4"><title>International Karate Alliance</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="545.8" cy="70.3" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s3/k69r14y5~x2/"><circle cx="470.3" cy="176.0" r="4" fill="#3465a4"><title>Batson</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="479.2" cy="146.9" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s4/r2k50n2r1~x2/"><circle cx="626.0" cy="96.3" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="552.5" cy="59.0" r="4" fill="#3465a4"><title>McHattie</title></circle></a><a href="/variants/s5/k50db3p2r3w1~x4/"><circle cx="558.2" cy="57.5" r="4" fill="#3465a4"><title>Fettes</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="478.8" cy="72.0" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><circle cx="591.7" cy="124.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

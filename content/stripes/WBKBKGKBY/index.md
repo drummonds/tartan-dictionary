@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/">Bro-Kerne</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><img src="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/sett.png" alt="Bro-Kerne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bro-kerne/">Bro-Kerne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bro-kerne/"><img src="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/sett.png" alt="Bro-Kerne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

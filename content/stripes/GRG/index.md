@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/dg20o1dg4~x3/">Castle Fraser Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dg20o1dg4~x3/"><img src="/variants/s3/dg20o1dg4~x3/sett.png" alt="Castle Fraser Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/castle-fraser/">Castle Fraser</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/castle-fraser/"><img src="/variants/s3/dg20o1dg4~x3/sett.png" alt="Castle Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/g81r10y20~x2/">McMoosie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/g81r10y20~x2/"><img src="/variants/s3/g81r10y20~x2/sett.png" alt="McMoosie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcmoosie/">McMoosie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcmoosie/"><img src="/variants/s3/g81r10y20~x2/sett.png" alt="McMoosie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

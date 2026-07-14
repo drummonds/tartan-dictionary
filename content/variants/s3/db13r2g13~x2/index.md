@@ -8,15 +8,15 @@ crumbs:
 - name: "Wilson's No 62"
   url: "/tartans/w/wi/wilson-s-no-62/"
 - name: "Wilson's No.062"
-  url: "/setts/db13r2g13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db13r2g13/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRBR](/stripes/grbr/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-62/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRG](/stripes/brg/).
 
 Part of the [Wilson's No 62](/tartans/w/wi/wilson-s-no-62/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4662](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4662)
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 504
 
 ## Thread count
-G/26 R4 DB26 R/4
+DB/26 R4 G/26
 
-One full sett is **90 threads**.
+One full sett is **60 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/26 R4 DB26 R/4 — 90 threads; it folds to the canonical 60-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **90 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/26 R4 DB26 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/26 R4 G/26 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db13y2r4g2lb8w2~x6/">Meh Dundee</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><img src="/variants/s6/db13y2r4g2lb8w2~x6/sett.png" alt="Meh Dundee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/meh-dundee/">Meh Dundee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meh-dundee/"><img src="/variants/s6/db13y2r4g2lb8w2~x6/sett.png" alt="Meh Dundee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

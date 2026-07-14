@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4/">London Fog Camel (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4/"><img src="/variants/s12/ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4/sett.png" alt="London Fog Camel (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/london-fog-camel/">London Fog Camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/london-fog-camel/"><img src="/variants/s12/ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4/sett.png" alt="London Fog Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

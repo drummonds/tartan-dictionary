@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/">Pownall (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/"><img src="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/sett.png" alt="Pownall (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/pownall/">Pownall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/pownall/"><img src="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/sett.png" alt="Pownall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/n2dg17w6db5lo1~x4/">Scotstown</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/n2dg17w6db5lo1~x4/"><img src="/variants/s5/n2dg17w6db5lo1~x4/sett.png" alt="Scotstown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotstown/">Scotstown</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotstown/"><img src="/variants/s5/n2dg17w6db5lo1~x4/sett.png" alt="Scotstown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

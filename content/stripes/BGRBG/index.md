@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g2b10o15g10b2~x4/">Harmony, 6</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g2b10o15g10b2~x4/"><img src="/variants/s5/g2b10o15g10b2~x4/sett.png" alt="Harmony, 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harmony-6-2/">Harmony, 6</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-6-2/"><img src="/variants/s5/g2b10o15g10b2~x4/sett.png" alt="Harmony, 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/dp49g3r5db15y4~x2/">Orion Nebula</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp49g3r5db15y4~x2/"><img src="/variants/s5/dp49g3r5db15y4~x2/sett.png" alt="Orion Nebula sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/orion-nebula/">Orion Nebula</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orion-nebula/"><img src="/variants/s5/dp49g3r5db15y4~x2/sett.png" alt="Orion Nebula sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

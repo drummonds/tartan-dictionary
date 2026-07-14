@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb12lo75k22w12k22w16lb8/">Orange Fanaticos</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb12lo75k22w12k22w16lb8/"><img src="/variants/s7/lb12lo75k22w12k22w16lb8/sett.png" alt="Orange Fanaticos sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/orange-fanaticos/">Orange Fanaticos</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orange-fanaticos/"><img src="/variants/s7/lb12lo75k22w12k22w16lb8/sett.png" alt="Orange Fanaticos sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

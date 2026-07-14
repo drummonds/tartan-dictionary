@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonald Hunting"
   url: "/tartans/m/ma/macdonald-hunting/"
 - name: "MacDonald Hunting"
-  url: "/setts/g24w1g2w2do2w1do12w1do2w2do2w1dg12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g24w1g2w2do2w1do12w1do2w2do2w1dg12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWBWBWBWGWG](/stripes/gwbwbwbwbwgwg/).
 
 Part of the [MacDonald Hunting](/tartans/m/ma/macdonald-hunting/) tartan — the named design grouping this sett with its other cloths.

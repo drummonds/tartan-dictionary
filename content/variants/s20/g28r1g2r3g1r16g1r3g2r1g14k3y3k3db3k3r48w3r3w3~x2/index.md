@@ -12,10 +12,10 @@ crumbs:
 - name: "Moray"
   url: "/tartans/m/mo/moray/"
 - name: "Moray Plaid Artifact Tartan"
-  url: "/setts/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/moray/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGRGKGKBKRWRW](/stripes/grgrgrgrgrgkgkbkrwrw/).
 
 Part of the [Moray](/tartans/m/mo/moray/) tartan — the named design grouping this sett with its other cloths.

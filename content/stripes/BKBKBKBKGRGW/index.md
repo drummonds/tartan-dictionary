@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/n2k3dp1k45n1k2n2k2dg4r1dg1w1~x2/">Platinum Golf Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n2k3dp1k45n1k2n2k2dg4r1dg1w1~x2/"><img src="/variants/s12/n2k3dp1k45n1k2n2k2dg4r1dg1w1~x2/sett.png" alt="Platinum Golf Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pl/platinum-golf-scotland/">Platinum Golf Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pl/platinum-golf-scotland/"><img src="/variants/s12/n2k3dp1k45n1k2n2k2dg4r1dg1w1~x2/sett.png" alt="Platinum Golf Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

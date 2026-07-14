@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/">Lamquet (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/"><img src="/variants/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/sett.png" alt="Lamquet (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lamquet/">Lamquet</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lamquet/"><img src="/variants/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/sett.png" alt="Lamquet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

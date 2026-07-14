@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/">Stewart of Galloway</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/"><img src="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/sett.png" alt="Stewart of Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-galloway/">Stewart of Galloway</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-galloway/"><img src="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/sett.png" alt="Stewart of Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

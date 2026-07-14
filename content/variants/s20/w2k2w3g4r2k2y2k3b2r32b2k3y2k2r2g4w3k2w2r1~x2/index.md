@@ -12,10 +12,10 @@ crumbs:
 - name: "Hawick"
   url: "/tartans/h/ha/hawick-2/"
 - name: "Hawick (Trade Sett)"
-  url: "/setts/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hawick-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWGRKGKBRBKGKRGWKW](/stripes/rwkwgrkgkbrbkgkrgwkw/).
 
 Part of the [Hawick](/tartans/h/ha/hawick-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n3dg1n10dg4r10n2~x4/">Rob Roy (Film)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n3dg1n10dg4r10n2~x4/"><img src="/variants/s6/n3dg1n10dg4r10n2~x4/sett.png" alt="Rob Roy (Film) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-7/">MacGregor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-7/"><img src="/variants/s6/n3dg1n10dg4r10n2~x4/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db11r4y9db4y2db11~x2/">Unidentified Sample</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db11r4y9db4y2db11~x2/"><img src="/variants/s6/db11r4y9db4y2db11~x2/sett.png" alt="Unidentified Sample sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-sample/">Unidentified Sample</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-sample/"><img src="/variants/s6/db11r4y9db4y2db11~x2/sett.png" alt="Unidentified Sample sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

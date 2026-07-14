@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/">Cameron of Locheil</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><img src="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cameron-of-locheil-2/">Cameron of Locheil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-of-locheil-2/"><img src="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

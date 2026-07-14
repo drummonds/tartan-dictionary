@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Ross (WCWM"
   url: "/tartans/g/gl/glen-ross-wcwm/"
 - name: "Glen Ross (WCWM - 2)"
-  url: "/setts/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-ross-wcwm/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKYBKBKYKBK](/stripes/bykybkbkykbk/).
 
 Part of the [Glen Ross (WCWM](/tartans/g/gl/glen-ross-wcwm/) tartan — the named design grouping this sett with its other cloths.

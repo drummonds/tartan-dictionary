@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/mactavish/"
 - name: "MacTavish of Dunardry"
   url: "/families/mactavish-of-dunardry/"
+aliases:
+- "/setts/lb8w28ly3g3lb8k9lb4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wkwgyww/">WKWGYWW</a></nav>
 A tartan of the [MacTavish of Dunardry](/families/mactavish-of-dunardry/) family.
 Its design is pattern [WKWGYWW](/stripes/wkwgyww/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **MacTavish of Dunardry** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb8w28ly3g3lb8k9lb4/">MacTavish of Dunardry</a></td><td><code>LB/16 W56 LY6 G6 LB16 K18 LB/8</code></td><td>228</td><td>1845</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb8w28ly3g3lb8k9lb4/"><img src="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/sett.png" alt="MacTavish of Dunardry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/">MacTavish of Dunardry</a></td><td><code>LB/16 W56 LY6 G6 LB16 K18 LB/8</code></td><td>228</td><td>1845</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/"><img src="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/sett.png" alt="MacTavish of Dunardry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -39,6 +42,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k4lb2w11lb5n5w2k1lb2~x2/"><circle cx="153.7" cy="189.7" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s6/r3w33dp8dg18r9g3~x2/"><circle cx="177.6" cy="183.3" r="4" fill="#3465a4"><title>MacKintosh Dress</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="223.4" cy="190.4" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="115.6" cy="168.3" r="4" fill="#3465a4"><title>Alexander Brothers</title></circle></a><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/"><circle cx="161.9" cy="156.2" r="4" fill="#3465a4"><title>Lalage</title></circle></a><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><circle cx="158.1" cy="159.6" r="4" fill="#3465a4"><title>Arran</title></circle></a><a href="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/"><circle cx="217.2" cy="138.7" r="4" fill="#3465a4"><title>Elsa Dance</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2lb23w2~x2/"><circle cx="196.2" cy="150.8" r="4" fill="#3465a4"><title>Virtuoso</title></circle></a><a href="/variants/s7/w39db9k10g11r7k3r7~x2/"><circle cx="149.0" cy="145.8" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/variants/s8/dr6w20g12y3g8lb20k2lb3~x2/"><circle cx="97.2" cy="189.9" r="4" fill="#3465a4"><title>Coulter Dress</title></circle></a><circle cx="169.3" cy="178.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k4lb2w11lb5n5w2k1lb2~x2/"><circle cx="154.0" cy="189.4" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s6/r3w33dp8dg18r9g3~x2/"><circle cx="177.9" cy="183.1" r="4" fill="#3465a4"><title>MacKintosh Dress</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="223.8" cy="190.2" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="115.8" cy="167.9" r="4" fill="#3465a4"><title>Alexander Brothers</title></circle></a><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/"><circle cx="162.2" cy="155.9" r="4" fill="#3465a4"><title>Lalage</title></circle></a><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><circle cx="158.4" cy="159.2" r="4" fill="#3465a4"><title>Arran</title></circle></a><a href="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/"><circle cx="217.6" cy="138.4" r="4" fill="#3465a4"><title>Elsa Dance</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2lb23w2~x2/"><circle cx="196.6" cy="150.5" r="4" fill="#3465a4"><title>Virtuoso</title></circle></a><a href="/variants/s7/w39db9k10g11r7k3r7~x2/"><circle cx="149.4" cy="145.5" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/variants/s8/dr6w20g12y3g8lb20k2lb3~x2/"><circle cx="97.2" cy="189.5" r="4" fill="#3465a4"><title>Coulter Dress</title></circle></a><circle cx="169.6" cy="177.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

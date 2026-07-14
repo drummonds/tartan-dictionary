@@ -8,10 +8,10 @@ crumbs:
 - name: "Mens Bigi"
   url: "/tartans/m/me/mens-bigi/"
 - name: "Mens Bigi"
-  url: "/setts/lo4k17dr1k4dr2k4dr33w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo4k17dr1k4dr2k4dr33w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/mens-bigi/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKBKBKY](/stripes/wbkbkbky/).
 
 Part of the [Mens Bigi](/tartans/m/me/mens-bigi/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2917](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Mens Bigi (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2917">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>No details known.</em></li>
-<li>Jan 2004 — Mens Bigi (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6101">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span></li>
+<li>Jan 2004 — Mens Bigi (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6101/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span></li>
 </ul>
 </details>
 

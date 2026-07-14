@@ -12,10 +12,10 @@ crumbs:
 - name: "MacLean Dress"
   url: "/tartans/m/ma/maclean-dress/"
 - name: "MacLean, dress"
-  url: "/setts/r1w12g6r8lb3y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1w12g6r8lb3y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclean-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRGWR](/stripes/gwrgwr/).
 
 Part of the [MacLean Dress](/tartans/m/ma/maclean-dress/) tartan — the named design grouping this sett with its other cloths.

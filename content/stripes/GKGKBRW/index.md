@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y2k6g33k33db33r3w2~x2/">MacNeil - 1840 (Chief's sett)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y2k6g33k33db33r3w2~x2/"><img src="/variants/s7/y2k6g33k33db33r3w2~x2/sett.png" alt="MacNeil - 1840 (Chief's sett) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/y1k3g15k14db16r2w1~x2/">Macneil of Barra - Chief (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><img src="/variants/s7/y1k3g15k14db16r2w1~x2/sett.png" alt="Macneil of Barra - Chief (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macneil-2/">MacNeil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macneil-2/"><img src="/variants/s7/y1k3g15k14db16r2w1~x2/sett.png" alt="MacNeil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y2db10k2r5k2db19k2db19g17k2y2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkrkbkbgkg/">GBKRKBKBGKG</a></nav>
 Its design is pattern [GBKRKBKBGKG](/stripes/gbkrkbkbgkg/) — the page of every tartan sharing this colour sequence.
 
 The **Montreat** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Montreat** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y2db10k2r5k2db19k2db19g17k2y2/">Montreat</a></td><td><code>Y/4 DB20 K4 R10 K4 DB38 K4 DB38 G34 K4 Y/4</code></td><td>320</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y2db10k2r5k2db19k2db19g17k2y2/"><img src="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/sett.png" alt="Montreat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/">Montreat</a></td><td><code>Y/4 DB20 K4 R10 K4 DB38 K4 DB38 G34 K4 Y/4</code></td><td>320</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><img src="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/sett.png" alt="Montreat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="248.0" cy="140.1" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s12/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3~x2/"><circle cx="266.9" cy="147.3" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="242.9" cy="141.0" r="4" fill="#3465a4"><title>Burt</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="232.6" cy="184.9" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s7/k10db30g3db3g3db3r6~x2/"><circle cx="325.1" cy="159.6" r="4" fill="#3465a4"><title>Kinding</title></circle></a><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="192.5" cy="163.6" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s12/db20g3dy3db3r7g6db3k12db3k3db24w3~x2/"><circle cx="228.2" cy="137.8" r="4" fill="#3465a4"><title>Bhoyrub</title></circle></a><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="223.6" cy="181.4" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s13/k7db2k6db18r3db18k4b2db2b2w2b4k4~x2/"><circle cx="229.0" cy="135.8" r="4" fill="#3465a4"><title>Pride of Norway</title></circle></a><a href="/variants/s11/db18k2g2db9k4dg9r4db9g2k2ly1~x4~g2203152-dg1806142/"><circle cx="260.9" cy="124.9" r="4" fill="#3465a4"><title>Amarillo</title></circle></a><circle cx="259.9" cy="148.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="248.8" cy="140.0" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s12/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3~x2/"><circle cx="267.6" cy="147.2" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="243.6" cy="140.9" r="4" fill="#3465a4"><title>Burt</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="233.2" cy="184.9" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s7/k10db30g3db3g3db3r6~x2/"><circle cx="326.0" cy="159.7" r="4" fill="#3465a4"><title>Kinding</title></circle></a><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="193.0" cy="163.4" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s12/db20g3dy3db3r7g6db3k12db3k3db24w3~x2/"><circle cx="228.9" cy="137.7" r="4" fill="#3465a4"><title>Bhoyrub</title></circle></a><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="224.2" cy="181.4" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s13/k7db2k6db18r3db18k4b2db2b2w2b4k4~x2/"><circle cx="229.8" cy="135.7" r="4" fill="#3465a4"><title>Pride of Norway</title></circle></a><a href="/variants/s11/db18k2g2db9k4dg9r4db9g2k2ly1~x4~g2203152-dg1806142/"><circle cx="261.7" cy="124.8" r="4" fill="#3465a4"><title>Amarillo</title></circle></a><circle cx="260.6" cy="148.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

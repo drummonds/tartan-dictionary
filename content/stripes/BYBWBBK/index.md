@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dp22ly10dp6lb18dp50db71k6/">Charleston Police Department</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp22ly10dp6lb18dp50db71k6/"><img src="/variants/s7/dp22ly10dp6lb18dp50db71k6/sett.png" alt="Charleston Police Department sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/charleston-police-department/">Charleston Police Department</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/charleston-police-department/"><img src="/variants/s7/dp22ly10dp6lb18dp50db71k6/sett.png" alt="Charleston Police Department sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

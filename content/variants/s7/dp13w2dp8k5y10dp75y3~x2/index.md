@@ -10,10 +10,10 @@ crumbs:
 - name: "East Carolina University"
   url: "/tartans/e/ea/east-carolina-university/"
 - name: "East Carolina University"
-  url: "/setts/dp13w2dp8k5y10dp75y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp13w2dp8k5y10dp75y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ea/east-carolina-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGBG](/stripes/bwbkgbg/).
 
 Part of the [East Carolina University](/tartans/e/ea/east-carolina-university/) tartan — the named design grouping this sett with its other cloths.

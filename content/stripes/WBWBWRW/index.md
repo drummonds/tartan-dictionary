@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/">Dominion (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><img src="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/sett.png" alt="Dominion (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dominion/">Dominion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dominion/"><img src="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/sett.png" alt="Dominion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

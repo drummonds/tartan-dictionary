@@ -8,10 +8,10 @@ crumbs:
 - name: "Ramblers Red Hat Society"
   url: "/tartans/r/ra/ramblers-red-hat-society/"
 - name: "Ramblers Red Hat Society"
-  url: "/setts/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/ramblers-red-hat-society/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBRBBBRBRW](/stripes/rbwbrbbbrbrw/).
 
 Part of the [Ramblers Red Hat Society](/tartans/r/ra/ramblers-red-hat-society/) tartan — the named design grouping this sett with its other cloths.

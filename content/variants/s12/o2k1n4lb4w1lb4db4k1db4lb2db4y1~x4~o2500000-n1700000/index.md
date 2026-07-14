@@ -8,10 +8,10 @@ crumbs:
 - name: "Union Club of British Columbia"
   url: "/tartans/u/un/union-club-of-british-columbia/"
 - name: "Union Club of British Columbia"
-  url: "/setts/o2k1n4lb4w1lb4db4k1db4lb2db4y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o2k1n4lb4w1lb4db4k1db4lb2db4y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/union-club-of-british-columbia/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBKBWWWBKR](/stripes/gbwbkbwwwbkr/).
 
 Part of the [Union Club of British Columbia](/tartans/u/un/union-club-of-british-columbia/) tartan — the named design grouping this sett with its other cloths.

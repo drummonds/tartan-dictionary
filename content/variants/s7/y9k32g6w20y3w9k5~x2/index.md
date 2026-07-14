@@ -10,10 +10,10 @@ crumbs:
 - name: "Black and White Golf"
   url: "/tartans/b/bl/black-and-white-golf/"
 - name: "Black and White Golf"
-  url: "/setts/y9k32g6w20y3w9k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y9k32g6w20y3w9k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-and-white-golf/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGWGWK](/stripes/gkgwgwk/).
 
 Part of the [Black and White Golf](/tartans/b/bl/black-and-white-golf/) tartan — the named design grouping this sett with its other cloths.

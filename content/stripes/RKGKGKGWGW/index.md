@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/">Dunedin Chapter (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/"><img src="/variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/sett.png" alt="Dunedin Chapter (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunedin-chapter/">Dunedin Chapter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunedin-chapter/"><img src="/variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/sett.png" alt="Dunedin Chapter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

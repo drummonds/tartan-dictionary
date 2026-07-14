@@ -10,17 +10,17 @@ crumbs:
 - name: "Edinburgh Napier University"
   url: "/tartans/e/ed/edinburgh-napier-university-2/"
 - name: "Edinburgh Napier University (Corp.)"
-  url: "/setts/lb4lr4lb4lr5k8g2r19ly1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4lr4lb4lr5k8g2r19ly1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-napier-university-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYWYKGRY](/stripes/wywykgry/).
 
 Part of the [Edinburgh Napier University](/tartans/e/ed/edinburgh-napier-university-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10005](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10005)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/10005/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10005/*)
 
 ## Provenance
 
@@ -29,7 +29,7 @@ Earliest known date: Feb. 2009 Based on the Clan Napier sett and incorporating t
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>Feb. 2009 — Edinburgh Napier University (Corp.) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10005">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E4CC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #F0E4CC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Based on the Clan Napier sett and incorporating the colours from the University's coat of arms. Against a red background the white is predominant. The red square divided by a dark green line and a border of gold corresponds to the four red roses with fine green leaves and gold seeds, featured on the coat of arms. This red also represents the main colour of the University's logo, the red triangle. The three azure blue lines correspond to the three crescent moon shapes. Exclusively design by Kinloch Anderson for Edinburgh Napier University. Restricted availability. Please contact Kinloch Anderson regarding its use.</em></li>
+<li>Feb. 2009 — Edinburgh Napier University (Corp.) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10005/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E4CC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #F0E4CC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Based on the Clan Napier sett and incorporating the colours from the University's coat of arms. Against a red background the white is predominant. The red square divided by a dark green line and a border of gold corresponds to the four red roses with fine green leaves and gold seeds, featured on the coat of arms. This red also represents the main colour of the University's logo, the red triangle. The three azure blue lines correspond to the three crescent moon shapes. Exclusively design by Kinloch Anderson for Edinburgh Napier University. Restricted availability. Please contact Kinloch Anderson regarding its use.</em></li>
 <li>undated — Edinburgh Napier University Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10005">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E4CC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #F0E4CC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span></li>
 </ul>
 </details>
@@ -44,7 +44,7 @@ Earliest known date: Feb. 2009 Based on the Clan Napier sett and incorporating t
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

@@ -8,10 +8,10 @@ crumbs:
 - name: "St. Lawrence"
   url: "/tartans/s/st/st-lawrence/"
 - name: "St Lawrence District Tartan"
-  url: "/setts/k3db2g2db26t1db1t1db1t1db1t3ti2k10db3g14k3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3db2g2db26t1db1t1db1t1db1t3ti2k10db3g14k3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-lawrence/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBBBBBBBBBKBGKR](/stripes/kbgbbbbbbbbbkbgkr/).
 
 Part of the [St. Lawrence](/tartans/s/st/st-lawrence/) tartan — the named design grouping this sett with its other cloths.

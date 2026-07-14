@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dy4g13k8db25lb8db2dp4/"
+- "/setts/dp4db2lb8db25k8g13y4/"
+- "/setts/dr4db2lb7db20k7g10y4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbwbkgg/">BBWBKGG</a></nav>
 Its design is pattern [BBWBKGG](/stripes/bbwbkgg/) — the page of every tartan sharing this colour sequence.
 
 The **Renfrewshire** tartan groups 3 setts — the same named design recorded as different cloths
@@ -13,12 +18,12 @@ The **Renfrewshire** tartan groups 3 setts — the same named design recorded as
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dy4g13k8db25lb8db2dp4/">Renfrewshire</a> ★</td><td><code>DY/8 G26 K16 DB50 LB16 DB4 DP/8</code></td><td>240</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy4g13k8db25lb8db2dp4/"><img src="/variants/s7/dy4g13k8db25lb8db2dp4~x2/sett.png" alt="Renfrewshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dp4db2lb8db25k8g13y4/">Tartan</a></td><td><code>Y/8 G26 K16 DB50 LB16 DB4 DP/8</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp4db2lb8db25k8g13y4/"><img src="dp4db2lb8db25k8g13y4-rev.png" alt="Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dr4db2lb7db20k7g10y4/">District Tartan</a></td><td><code>DR/8 DB4 LB14 DB40 K14 G20 Y/8</code></td><td>200</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr4db2lb7db20k7g10y4/"><img src="/variants/s7/dr4db2lb7db20k7g10y4~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/">Renfrewshire</a> ★</td><td><code>DY/8 G26 K16 DB50 LB16 DB4 DP/8</code></td><td>240</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><img src="/variants/s7/dy4g13k8db25lb8db2dp4~x2/sett.png" alt="Renfrewshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/">Tartan</a></td><td><code>DP/8 DB4 LB16 DB50 K16 G26 Y/8</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><img src="dp4db2lb8db25k8g13y4-rev.png" alt="Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/">District Tartan</a></td><td><code>DR/8 DB4 LB14 DB40 K14 G20 Y/8</code></td><td>200</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><img src="/variants/s7/dr4db2lb7db20k7g10y4~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dp11db2lb4db21k16g19y4~x2/"><circle cx="77.9" cy="186.8" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="177.7" cy="178.7" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="161.8" cy="201.2" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><circle cx="229.2" cy="141.1" r="4" fill="#3465a4"><title>Lambert, Patrice</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/"><circle cx="109.2" cy="172.8" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/"><circle cx="180.1" cy="196.8" r="4" fill="#3465a4"><title>Coulthard</title></circle></a><a href="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/"><circle cx="138.4" cy="129.7" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="161.4" cy="127.2" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="177.4" cy="176.0" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="136.8" cy="162.3" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><circle cx="143.5" cy="162.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dp11db2lb4db21k16g19y4~x2/"><circle cx="78.0" cy="186.4" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="178.0" cy="178.5" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="162.2" cy="201.1" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><circle cx="229.8" cy="140.9" r="4" fill="#3465a4"><title>Lambert, Patrice</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/"><circle cx="109.5" cy="172.5" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/"><circle cx="180.4" cy="196.6" r="4" fill="#3465a4"><title>Coulthard</title></circle></a><a href="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/"><circle cx="138.8" cy="129.4" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="161.8" cy="127.0" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="177.8" cy="175.9" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="137.1" cy="162.0" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><circle cx="143.9" cy="162.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

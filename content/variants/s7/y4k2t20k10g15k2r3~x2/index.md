@@ -8,10 +8,10 @@ crumbs:
 - name: "Green MacLeod"
   url: "/tartans/g/gr/green-macleod/"
 - name: "Green MacLeod"
-  url: "/setts/y4k2t20k10g15k2r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4k2t20k10g15k2r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/green-macleod/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKGKR](/stripes/gkbkgkr/).
 
 Part of the [Green MacLeod](/tartans/g/gr/green-macleod/) tartan — the named design grouping this sett with its other cloths.

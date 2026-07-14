@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/lb6y1k1r1k1r1k1r1k1y4lb3y4k3r3w1r3w1r3k3y1lb3w1lb3y1db1r1k1r4w1db1w1r4w1db1w1r4~x4/">Ogilvie (Paton) #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/lb6y1k1r1k1r1k1r1k1y4lb3y4k3r3w1r3w1r3k3y1lb3w1lb3y1db1r1k1r4w1db1w1r4w1db1w1r4~x4/"><img src="/variants/s36/lb6y1k1r1k1r1k1r1k1y4lb3y4k3r3w1r3w1r3k3y1lb3w1lb3y1db1r1k1r4w1db1w1r4w1db1w1r4~x4/sett.png" alt="Ogilvie (Paton) #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/og/ogilvie-3/">Ogilvie 3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvie-3/"><img src="/variants/s36/lb6y1k1r1k1r1k1r1k1y4lb3y4k3r3w1r3w1r3k3y1lb3w1lb3y1db1r1k1r4w1db1w1r4w1db1w1r4~x4/sett.png" alt="Ogilvie 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

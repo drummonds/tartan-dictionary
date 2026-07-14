@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/">Manitoba Dress (1958) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><img src="/variants/s8/db4w1db2w18g3w1r9y4~x4/sett.png" alt="Manitoba Dress (1958) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manitoba-dress-2/">Manitoba Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manitoba-dress-2/"><img src="/variants/s8/db4w1db2w18g3w1r9y4~x4/sett.png" alt="Manitoba Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

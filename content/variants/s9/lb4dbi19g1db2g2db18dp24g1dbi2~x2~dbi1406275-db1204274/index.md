@@ -8,15 +8,15 @@ crumbs:
 - name: "Spirit of Alba"
   url: "/tartans/s/sp/spirit-of-alba/"
 - name: "Spirit of Alba"
-  url: "/setts/lb4dbi19g1db2g2db18dp24g1dbi2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4dbi19g1db2g2db18dp24g1dbi2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBBGBGBWBGBGBBG](/stripes/bgbbgbgbwbgbgbbg/).
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spirit-of-alba/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBBGBGBW](/stripes/bgbbgbgbw/).
 
 Part of the [Spirit of Alba](/tartans/s/sp/spirit-of-alba/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3862)
 
@@ -28,7 +28,7 @@ Earliest known date: 2001 Designed by Claire Donaldson of the House of Edgar for
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>19/09/2001 — Spirit of Alba (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3862">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>Designed by Claire Donaldson of the House of Edgar for Robert Nicol of Perth & Dunfermline for kilt fabric.</em></li>
-<li>Oct. 2001 — Spirit of Alba (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3904">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Designed by Claire Donaldson of the House of Edgar for Robert Nicol of Perth & Dunfermline.</em></li>
+<li>Oct. 2001 — Spirit of Alba (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3904/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Designed by Claire Donaldson of the House of Edgar for Robert Nicol of Perth & Dunfermline.</em></li>
 <li>2001 — Spirit of Alba Fashion Weavers Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3904">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span></li>
 </ul>
 </details>
@@ -58,9 +58,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2846
 
 ## Thread count
-DBi/4 G2 DP48 DB36 G4 DB4 G2 DBi38 LB8 DBi38 G2 DB4 G4 DB36 DP48 G/2
+LB/8 DB38 G2 DT4 G4 DT36 DP48 G2 DB/4
 
-One full sett is **554 threads**.
+One full sett is **280 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DBi/4 G2 DP48 DB36 G4 DB4 G2 DBi38 LB8 DBi38 G2 DB4 G4 DB36 DP48 G/2 — 554 threads; it folds to the canonical 280-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -69,6 +71,6 @@ One full sett is **554 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DBi/4 G2 DP48 DB36 G4 DB4 G2 DBi38 LB8 DBi38 G2 DB4 G4 DB36 DP48 G/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/8 DB38 G2 DT4 G4 DT36 DP48 G2 DB/4 tartan" width="880" height="480">
 
 ID: /variants/s9/lb4dbi19g1db2g2db18dp24g1dbi2~x2~dbi1406275-db1204274/

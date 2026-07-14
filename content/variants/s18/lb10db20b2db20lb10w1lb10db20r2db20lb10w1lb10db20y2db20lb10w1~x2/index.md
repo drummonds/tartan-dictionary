@@ -12,10 +12,10 @@ crumbs:
 - name: "Vilario"
   url: "/tartans/v/vi/vilario/"
 - name: "Vilario (Personal)"
-  url: "/setts/lb10db20b2db20lb10w1lb10db20r2db20lb10w1lb10db20y2db20lb10w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb10db20b2db20lb10w1lb10db20r2db20lb10w1lb10db20y2db20lb10w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vi/vilario/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBWWWBRBWWWBGBWW](/stripes/wbbbwwwbrbwwwbgbww/).
 
 Part of the [Vilario](/tartans/v/vi/vilario/) tartan — the named design grouping this sett with its other cloths.

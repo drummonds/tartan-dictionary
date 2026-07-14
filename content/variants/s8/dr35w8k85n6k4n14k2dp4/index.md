@@ -8,17 +8,17 @@ crumbs:
 - name: "MacEvil"
   url: "/tartans/m/ma/macevil/"
 - name: "MacEvil (Corporate)"
-  url: "/setts/dr35w8k85n6k4n14k2dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr35w8k85n6k4n14k2dp4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macevil/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWB](/stripes/bkbkbkwb/).
 
 Part of the [MacEvil](/tartans/m/ma/macevil/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10139](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10139)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/10139/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10139/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: 7th Jan. 2010 This tartan was designed by Rocky Roeger of U
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>7th Jan. 2010 — MacEvil (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10139">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>This tartan was designed by Rocky Roeger of USA Kilts for Clan MacEvil, a loosely knit group of friends and relatives who, while not all blood related, consider themselves a 'clan' through their strong bonds of friendship. The 'Chief' of Clan MacEvil is Joel Noecker. The colours used in the tartan represent the following: black represents the 'Dark Side' in each of us; purple represents royalty; grey represents the 'Grey area' in which we live our lives; white represents the charitable actions and donations of the group; dark red is for the bloodline of the loosely knit clan. This tartan may only be woven with the written permission of Joel Noecker. Please contact Joel at: (US) phone: 717.598.8040 or email: JoelNoecker@gmail.com</em></li>
+<li>7th Jan. 2010 — MacEvil (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10139/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>This tartan was designed by Rocky Roeger of USA Kilts for Clan MacEvil, a loosely knit group of friends and relatives who, while not all blood related, consider themselves a 'clan' through their strong bonds of friendship. The 'Chief' of Clan MacEvil is Joel Noecker. The colours used in the tartan represent the following: black represents the 'Dark Side' in each of us; purple represents royalty; grey represents the 'Grey area' in which we live our lives; white represents the charitable actions and donations of the group; dark red is for the bloodline of the loosely knit clan. This tartan may only be woven with the written permission of Joel Noecker. Please contact Joel at: (US) phone: 717.598.8040 or email: JoelNoecker@gmail.com</em></li>
 <li>undated — MacEvil Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10139">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Earliest known date: 7th Jan. 2010 This tartan was designed by Rocky Roeger of U
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

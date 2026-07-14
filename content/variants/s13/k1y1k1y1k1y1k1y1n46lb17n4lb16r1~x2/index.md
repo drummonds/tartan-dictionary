@@ -12,10 +12,10 @@ crumbs:
 - name: "Saunders"
   url: "/tartans/s/sa/saunders/"
 - name: "Saunders (Personal)"
-  url: "/setts/k1y1k1y1k1y1k1y1n46lb17n4lb16r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1y1k1y1k1y1k1y1n46lb17n4lb16r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/saunders/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGKGBWBWR](/stripes/kgkgkgkgbwbwr/).
 
 Part of the [Saunders](/tartans/s/sa/saunders/) tartan — the named design grouping this sett with its other cloths.

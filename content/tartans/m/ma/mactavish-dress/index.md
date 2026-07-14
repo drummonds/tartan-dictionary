@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/mactavish/"
 - name: "MacTavish"
   url: "/families/mactavish/"
+aliases:
+- "/setts/r4lb28k6w12k12y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkwkwr/">GKWKWR</a></nav>
 A tartan of the [MacTavish](/families/mactavish/) family.
 Its design is pattern [GKWKWR](/stripes/gkwkwr/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **MacTavish Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4lb28k6w12k12y3/">MacTavish Dress</a></td><td><code>R/8 LB56 K12 W24 K24 Y/6</code></td><td>246</td><td>1958</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4lb28k6w12k12y3/"><img src="/variants/s6/r4lb28k6w12k12y3~x2/sett.png" alt="MacTavish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r4lb28k6w12k12y3~x2/">MacTavish Dress</a></td><td><code>R/8 LB56 K12 W24 K24 Y/6</code></td><td>246</td><td>1958</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><img src="/variants/s6/r4lb28k6w12k12y3~x2/sett.png" alt="MacTavish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -40,6 +43,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="160.4" cy="171.8" r="4" fill="#3465a4"><title>Thomson Dress</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.8" cy="157.5" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="178.6" cy="154.1" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s7/w5k26ly4lb24dp8k3r4~x2/"><circle cx="103.5" cy="149.4" r="4" fill="#3465a4"><title>Pengelly, The Cornish</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="149.2" cy="190.0" r="4" fill="#3465a4"><title>Stovell</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="186.3" cy="198.9" r="4" fill="#3465a4"><title>All as One</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="110.8" cy="167.3" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="209.8" cy="156.9" r="4" fill="#3465a4"><title>Prehospital EMS</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="108.0" cy="161.0" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="152.8" cy="132.4" r="4" fill="#3465a4"><title>Dignan</title></circle></a><circle cx="138.5" cy="176.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="160.9" cy="171.6" r="4" fill="#3465a4"><title>Thomson Dress</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="161.3" cy="157.3" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="179.1" cy="153.9" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s7/w5k26ly4lb24dp8k3r4~x2/"><circle cx="103.8" cy="149.1" r="4" fill="#3465a4"><title>Pengelly, The Cornish</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="149.6" cy="189.8" r="4" fill="#3465a4"><title>Stovell</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="186.8" cy="198.7" r="4" fill="#3465a4"><title>All as One</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="111.1" cy="167.0" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="210.4" cy="156.7" r="4" fill="#3465a4"><title>Prehospital EMS</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="108.2" cy="160.6" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.2" cy="132.1" r="4" fill="#3465a4"><title>Dignan</title></circle></a><circle cx="138.9" cy="176.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

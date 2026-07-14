@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/">Indigo Blue Works</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/"><img src="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/sett.png" alt="Indigo Blue Works sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/indigo-blue-works/">Indigo Blue Works</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/indigo-blue-works/"><img src="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/sett.png" alt="Indigo Blue Works sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

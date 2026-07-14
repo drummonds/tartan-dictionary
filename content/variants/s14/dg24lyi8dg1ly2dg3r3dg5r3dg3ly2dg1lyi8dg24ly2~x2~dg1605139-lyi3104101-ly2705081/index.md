@@ -8,10 +8,10 @@ crumbs:
 - name: "St. Christopher"
   url: "/tartans/s/st/st-christopher/"
 - name: "St. Christopher"
-  url: "/setts/dg24lyi8dg1ly2dg3r3dg5r3dg3ly2dg1lyi8dg24ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg24lyi8dg1ly2dg3r3dg5r3dg3ly2dg1lyi8dg24ly2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-christopher/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYGRGRGYGYGY](/stripes/gygygrgrgygygy/).
 
 Part of the [St. Christopher](/tartans/s/st/st-christopher/) tartan — the named design grouping this sett with its other cloths.

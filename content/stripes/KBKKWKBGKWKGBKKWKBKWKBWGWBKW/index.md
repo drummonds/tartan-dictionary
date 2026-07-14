@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/ki1db5ki18k8w1ki18db5dy3ki1w3ki1dy3db5ki18k8w1ki18db5ki1w1ki1db3w1dy3w1db3ki1w1~x2~ki0604259-db1605267/">MacPerl Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/ki1db5ki18k8w1ki18db5dy3ki1w3ki1dy3db5ki18k8w1ki18db5ki1w1ki1db3w1dy3w1db3ki1w1~x2~ki0604259-db1605267/"><img src="/variants/s28/ki1db5ki18k8w1ki18db5dy3ki1w3ki1dy3db5ki18k8w1ki18db5ki1w1ki1db3w1dy3w1db3ki1w1~x2~ki0604259-db1605267/sett.png" alt="MacPerl Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macperl-dress/">MacPerl Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macperl-dress/"><img src="/variants/s28/ki1db5ki18k8w1ki18db5dy3ki1w3ki1dy3db5ki18k8w1ki18db5ki1w1ki1db3w1dy3w1db3ki1w1~x2~ki0604259-db1605267/sett.png" alt="MacPerl Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

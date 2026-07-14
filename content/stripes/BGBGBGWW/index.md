@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w4lb30g6dr2g6dr28y2dr3~x2/">Scotland 2000 Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w4lb30g6dr2g6dr28y2dr3~x2/"><img src="/variants/s8/w4lb30g6dr2g6dr28y2dr3~x2/sett.png" alt="Scotland 2000 Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotland-2000-commemorative/">Scotland 2000 Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-2000-commemorative/"><img src="/variants/s8/w4lb30g6dr2g6dr28y2dr3~x2/sett.png" alt="Scotland 2000 Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

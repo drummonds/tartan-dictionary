@@ -8,10 +8,10 @@ crumbs:
 - name: "Brisbane"
   url: "/tartans/b/br/brisbane/"
 - name: "Brisbane (Artefact)"
-  url: "/setts/g18w3y1r2y1r3y1r10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g18w3y1r2y1r3y1r10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brisbane/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRGRGR](/stripes/gwgrgrgr/).
 
 Part of the [Brisbane](/tartans/b/br/brisbane/) tartan — the named design grouping this sett with its other cloths.

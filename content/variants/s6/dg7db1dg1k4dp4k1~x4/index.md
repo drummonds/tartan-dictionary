@@ -12,10 +12,10 @@ crumbs:
 - name: "MacArthur of Milton"
   url: "/tartans/m/ma/macarthur-of-milton/"
 - name: "MacArthur of Milton Hunting"
-  url: "/setts/dg7db1dg1k4dp4k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg7db1dg1k4dp4k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macarthur-of-milton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKBK](/stripes/gbgkbk/).
 
 Part of the [MacArthur of Milton](/tartans/m/ma/macarthur-of-milton/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2281](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1823 — MacArthur of Milton Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2281">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>This sett links the clan MacArthur tartan with the Campbell tartan. The threadcount was amended to match that of the original Wilsons' woollen sample found in a c1830 Pattern Book.</em></li>
-<li>1823 — MacArthur of Milton (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=700">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006C3C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#28287C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #28287C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#700070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #700070"></span><br><em>This is the older of the two MacArthur setts, which links the clan with the Campbells (STS). Count amended to that of the original Wilsons' woollen sample from a C.1830 Pattern Bk on loan to the STS.</em></li>
+<li>1823 — MacArthur of Milton (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/700/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006C3C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#28287C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #28287C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#700070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #700070"></span><br><em>This is the older of the two MacArthur setts, which links the clan with the Campbells (STS). Count amended to that of the original Wilsons' woollen sample from a C.1830 Pattern Bk on loan to the STS.</em></li>
 </ul>
 </details>
 

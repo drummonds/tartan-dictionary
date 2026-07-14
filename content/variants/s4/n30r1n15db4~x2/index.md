@@ -8,10 +8,10 @@ crumbs:
 - name: "Kincardine Tweed"
   url: "/tartans/k/ki/kincardine-tweed/"
 - name: "Kincardine Tweed"
-  url: "/setts/n30r1n15db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n30r1n15db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kincardine-tweed/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRB](/stripes/bbrb/).
 
 Part of the [Kincardine Tweed](/tartans/k/ki/kincardine-tweed/) tartan — the named design grouping this sett with its other cloths.

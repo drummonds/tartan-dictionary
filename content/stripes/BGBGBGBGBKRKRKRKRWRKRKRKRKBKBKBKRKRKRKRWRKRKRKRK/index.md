@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s48/k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4k2n10k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7dp2g2dp2g2dp40g2dp2g2dp2~x2/">Arran, Isle of (Lochcarron)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s48/k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4k2n10k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7dp2g2dp2g2dp40g2dp2g2dp2~x2/"><img src="/variants/s48/k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4k2n10k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7dp2g2dp2g2dp40g2dp2g2dp2~x2/sett.png" alt="Arran, Isle of (Lochcarron) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arran-isle-of-2/">Arran, Isle of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arran-isle-of-2/"><img src="/variants/s48/k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4k2n10k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7dp2g2dp2g2dp40g2dp2g2dp2~x2/sett.png" alt="Arran, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

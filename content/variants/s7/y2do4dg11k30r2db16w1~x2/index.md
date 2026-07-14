@@ -8,10 +8,10 @@ crumbs:
 - name: "Buschke"
   url: "/tartans/b/bu/buschke/"
 - name: "Buschke (Skye) (Personal)"
-  url: "/setts/y2do4dg11k30r2db16w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2do4dg11k30r2db16w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/buschke/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKRBW](/stripes/gbgkrbw/).
 
 Part of the [Buschke](/tartans/b/bu/buschke/) tartan — the named design grouping this sett with its other cloths.

@@ -11,11 +11,11 @@ crumbs:
   url: "/families/bowie/"
 - name: "Bowie"
   url: "/tartans/b/bo/bowie-5/"
-- name: "Bowie (Name)"
-  url: "/setts/dg10lo2dg3r4dg13k13r2t13r4t3r2t10/"
+- name: "Bowie (Lochcarron)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg10lo2dg3r4dg13k13r2t13r4t3r2t10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bowie-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKGRGYG](/stripes/brbrbrkgrgyg/).
 
 Part of the [Bowie](/tartans/b/bo/bowie-5/) tartan — the named design grouping this sett with its other cloths.

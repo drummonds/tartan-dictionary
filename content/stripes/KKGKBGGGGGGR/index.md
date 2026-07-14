@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2~x2~dgi1806142/">McHeadley Society Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2~x2~dgi1806142/"><img src="/variants/s11/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2~x2~dgi1806142/sett.png" alt="McHeadley Society Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcheadley-society/">McHeadley Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcheadley-society/"><img src="/variants/s11/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2~x2~dgi1806142/sett.png" alt="McHeadley Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/">South African Air Force (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><img src="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/sett.png" alt="South African Air Force (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/south-african-air-force/">South African Air Force</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/south-african-air-force/"><img src="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/sett.png" alt="South African Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

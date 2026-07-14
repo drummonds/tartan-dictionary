@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr9g3t19k3g19dr13k3ly3~x2/">Orkney (District?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr9g3t19k3g19dr13k3ly3~x2/"><img src="/variants/s8/dr9g3t19k3g19dr13k3ly3~x2/sett.png" alt="Orkney (District?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/orkney-2/">Orkney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orkney-2/"><img src="/variants/s8/dr9g3t19k3g19dr13k3ly3~x2/sett.png" alt="Orkney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

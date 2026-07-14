@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/">Antrim</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/"><img src="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/sett.png" alt="Antrim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/antrim/">Antrim</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/antrim/"><img src="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/sett.png" alt="Antrim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

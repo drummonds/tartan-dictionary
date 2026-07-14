@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/">Dobson (Palm Bay) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/"><img src="/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/sett.png" alt="Dobson (Palm Bay) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dobson-2/">Dobson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dobson-2/"><img src="/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/sett.png" alt="Dobson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

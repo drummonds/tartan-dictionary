@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db60w1y4k4w1lp8w2~x2/">Nunavut Territory (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db60w1y4k4w1lp8w2~x2/"><img src="/variants/s7/db60w1y4k4w1lp8w2~x2/sett.png" alt="Nunavut Territory (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/nu/nunavut-territory/">Nunavut Territory</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/nu/nunavut-territory/"><img src="/variants/s7/db60w1y4k4w1lp8w2~x2/sett.png" alt="Nunavut Territory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

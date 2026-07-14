@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db44dy12db9dr3~x2/">Elliot (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db44dy12db9dr3~x2/"><img src="/variants/s4/db44dy12db9dr3~x2/sett.png" alt="Elliot (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elliot/">Elliot</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elliot/"><img src="/variants/s4/db44dy12db9dr3~x2/sett.png" alt="Elliot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/db18ni18y28n13~x2~db1108266-ni2203265/">Gold Country (California)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db18ni18y28n13~x2~db1108266-ni2203265/"><img src="/variants/s4/db18ni18y28n13~x2~db1108266-ni2203265/sett.png" alt="Gold Country (California) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gold-country/">Gold Country</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gold-country/"><img src="/variants/s4/db18ni18y28n13~x2~db1108266-ni2203265/sett.png" alt="Gold Country sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/">Elmore (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/"><img src="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/sett.png" alt="Elmore (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elmore/">Elmore</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elmore/"><img src="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/sett.png" alt="Elmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

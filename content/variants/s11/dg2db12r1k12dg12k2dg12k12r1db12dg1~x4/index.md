@@ -12,10 +12,10 @@ crumbs:
 - name: "Ferguson of Woodhill"
   url: "/tartans/f/fe/ferguson-of-woodhill/"
 - name: "Ferguson of Woodhill"
-  url: "/setts/dg2db12r1k12dg12k2dg12k12r1db12dg1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2db12r1k12dg12k2dg12k12r1db12dg1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/ferguson-of-woodhill/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRKGKGKRBG](/stripes/gbrkgkgkrbg/).
 
 Part of the [Ferguson of Woodhill](/tartans/f/fe/ferguson-of-woodhill/) tartan — the named design grouping this sett with its other cloths.

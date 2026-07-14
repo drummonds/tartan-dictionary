@@ -8,15 +8,15 @@ crumbs:
 - name: "Scottish Foundation VA Highlands"
   url: "/tartans/s/sc/scottish-foundation-va-highlands/"
 - name: "Scottish Foundation VA Highlands"
-  url: "/setts/dp5y2lr36db3dbi3y2dp4lr3t2dbi3db3dbi3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp5y2lr36db3dbi3y2dp4lr3t2dbi3db3dbi3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGYBBGBYBBBBBBBYBGBBYG](/stripes/bgybbgbybbbbbbbybgbbyg/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-foundation-va-highlands/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBYBGBBYGB](/stripes/bbbbybgbbygb/).
 
 Part of the [Scottish Foundation VA Highlands](/tartans/s/sc/scottish-foundation-va-highlands/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3717](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3717)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3717](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/2006 — Scottish Foundation VA Highlands (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3717">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Based on the MacCallum, it was designed by four members of the Scottish Foundation of the Virginia Highlands (SFVH) - Jean Oxley (also the weaver), Elberta Raisbeck, Anne Sampson and SFVH President Charlene Dixon Hutcheson. The SFVH is an educational and cultural organisation based in Roanoke, Virginia and the tartan celebrates the area's Scottish ancestors and reflects the strength of character found in the Blue Ridge Mountains which has helped to preserve cultural aspects of the original Scottish and Scots-Irish settlers. The tartan is primarily for the use of members of the Scottish Foundation of the Virginia Highlands but the copyright holders do not wish to restrict its use if someone else finds it pleasing.</em></li>
-<li>2006 March — Scottish Foundation VA Highlands (Co (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6891">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Based on the MacCallum, it was designed by four members of the Scottish Foundation of the Virginia Highlands (SFVH) - Jean Oxley (also the weaver), Elberta Raisbeck, Anne Sampson and SFVH President Charlene Dixon Hutcheson. The SFVH is an educational and cultural organisation based in Roanoke, Virginia and the tartan celebrates the area's Scottish ancestors and reflects the strength of character found in the Blue Ridge Mountains which has helped to preserve cultural aspects of the original Scottish and Scots-Irish settlers. The tartan is primarily for the use of members of the Scottish Foundation of the Virginia Highlands but the copyright holders do not wish to restrict its use if someone else finds it pleasing.</em></li>
+<li>2006 March — Scottish Foundation VA Highlands (Co (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6891/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Based on the MacCallum, it was designed by four members of the Scottish Foundation of the Virginia Highlands (SFVH) - Jean Oxley (also the weaver), Elberta Raisbeck, Anne Sampson and SFVH President Charlene Dixon Hutcheson. The SFVH is an educational and cultural organisation based in Roanoke, Virginia and the tartan celebrates the area's Scottish ancestors and reflects the strength of character found in the Blue Ridge Mountains which has helped to preserve cultural aspects of the original Scottish and Scots-Irish settlers. The tartan is primarily for the use of members of the Scottish Foundation of the Virginia Highlands but the copyright holders do not wish to restrict its use if someone else finds it pleasing.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6891
 
 ## Thread count
-DP/10 Y4 LR72 DB6 DBi6 Y4 DP8 LR6 T4 DBi6 DB6 DBi6 DB6 DBi6 T4 LR6 DP8 Y4 DBi6 DB6 LR72 Y/4
+DP/10 Y4 LR72 DT6 DB6 Y4 DP8 LR6 T4 DB6 DT6 DB/6
 
-One full sett is **506 threads**.
+One full sett is **260 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/10 Y4 LR72 DB6 DBi6 Y4 DP8 LR6 T4 DBi6 DB6 DBi6 DB6 DBi6 T4 LR6 DP8 Y4 DBi6 DB6 LR72 Y/4 — 506 threads; it folds to the canonical 260-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **506 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/10 Y4 LR72 DB6 DBi6 Y4 DP8 LR6 T4 DBi6 DB6 DBi6 DB6 DBi6 T4 LR6 DP8 Y4 DBi6 DB6 LR72 Y/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/10 Y4 LR72 DT6 DB6 Y4 DP8 LR6 T4 DB6 DT6 DB/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

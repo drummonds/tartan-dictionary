@@ -8,10 +8,10 @@ crumbs:
 - name: "Salt Spring Island"
   url: "/tartans/s/sa/salt-spring-island/"
 - name: "Salt Spring Island"
-  url: "/setts/r1g6db6w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1g6db6w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/salt-spring-island/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBW](/stripes/rgbw/).
 
 Part of the [Salt Spring Island](/tartans/s/sa/salt-spring-island/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k4w1db26k5db5k32g23k2r4k2g13k1/">Young, Melvina</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k4w1db26k5db5k32g23k2r4k2g13k1/"><img src="/variants/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2~g2408144-r2109032/sett.png" alt="Young, Melvina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yo/young-melvina/">Young, Melvina</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yo/young-melvina/"><img src="/variants/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2~g2408144-r2109032/sett.png" alt="Young, Melvina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

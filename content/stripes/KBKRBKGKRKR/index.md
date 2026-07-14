@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r25k4r2k3dy2k2db3r2k3db2k2~x2/">Glennie, The Rhythms of Evelyn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r25k4r2k3dy2k2db3r2k3db2k2~x2/"><img src="/variants/s11/r25k4r2k3dy2k2db3r2k3db2k2~x2/sett.png" alt="Glennie, The Rhythms of Evelyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r25k4r2k3y2k2db3r2k3db2k2~x2/">The Rhythms of Evelyn Glennie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r25k4r2k3y2k2db3r2k3db2k2~x2/"><img src="/variants/s11/r25k4r2k3y2k2db3r2k3db2k2~x2/sett.png" alt="The Rhythms of Evelyn Glennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glennie-the-rhythms-of-evelyn/">Glennie, The Rhythms of Evelyn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glennie-the-rhythms-of-evelyn/"><img src="/variants/s11/r25k4r2k3dy2k2db3r2k3db2k2~x2/sett.png" alt="Glennie, The Rhythms of Evelyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/the-rhythms-of-evelyn-glennie/">The Rhythms of Evelyn Glennie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/the-rhythms-of-evelyn-glennie/"><img src="/variants/s11/r25k4r2k3y2k2db3r2k3db2k2~x2/sett.png" alt="The Rhythms of Evelyn Glennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

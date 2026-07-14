@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k1db8r6g8k1~x4/">Edinburgh Military Tattoo 50th Military Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k1db8r6g8k1~x4/"><img src="/variants/s5/k1db8r6g8k1~x4/sett.png" alt="Edinburgh Military Tattoo 50th Military Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k1dg8r6db8k1~x4/">Edinburgh Tattoo 50th (Commemorative</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k1dg8r6db8k1~x4/"><img src="/variants/s5/k1dg8r6db8k1~x4/sett.png" alt="Edinburgh Tattoo 50th (Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-military-tattoo-50th/">Edinburgh Military Tattoo 50th</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-military-tattoo-50th/"><img src="/variants/s5/k1dg8r6db8k1~x4/sett.png" alt="Edinburgh Military Tattoo 50th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/">Freger (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/"><img src="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/sett.png" alt="Freger (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/freger/">Freger</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/freger/"><img src="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/sett.png" alt="Freger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

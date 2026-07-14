@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/lennie/"
 - name: "Lennie"
   url: "/families/lennie/"
+aliases:
+- "/setts/k2dg10y2k9dp8dg2/"
+- "/setts/k2g10lb2k9dp8g2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkggk/">GBKGGK</a></nav>
 A tartan of the [Lennie](/families/lennie/) family.
 Its design is pattern [GBKGGK](/stripes/gbkggk/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Lennie** tartan groups 2 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k2dg10y2k9dp8dg2/">Lennie</a> ★</td><td><code>K/4 DG20 Y4 K18 DP16 DG/4</code></td><td>124</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2dg10y2k9dp8dg2/"><img src="/variants/s6/k2dg10y2k9dp8dg2~x2/sett.png" alt="Lennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k2g10lb2k9dp8g2/">Lennie</a></td><td><code>K/4 G20 LB4 K18 DP16 G/4</code></td><td>124</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2g10lb2k9dp8g2/"><img src="/variants/s6/k2g10lb2k9dp8g2~x2/sett.png" alt="Lennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/">Lennie</a> ★</td><td><code>K/4 DG20 Y4 K18 DP16 DG/4</code></td><td>124</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><img src="/variants/s6/k2dg10y2k9dp8dg2~x2/sett.png" alt="Lennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k2g10lb2k9dp8g2~x2/">Lennie</a></td><td><code>K/4 G20 LB4 K18 DP16 G/4</code></td><td>124</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k2g10lb2k9dp8g2~x2/"><img src="/variants/s6/k2g10lb2k9dp8g2~x2/sett.png" alt="Lennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k3g17y2k18dp17g3~x2/"><circle cx="159.7" cy="205.4" r="4" fill="#3465a4"><title>Wilson's No.100</title></circle></a><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><circle cx="151.7" cy="235.2" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/variants/s6/k3dp9k11lb2g9k3~x2/"><circle cx="158.1" cy="225.5" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s6/dp8k11dg9k11dp8lb2~x2/"><circle cx="183.9" cy="271.5" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3~x2/"><circle cx="133.7" cy="219.5" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s7/db4k4db16k14dg14dr3dg3~x2/"><circle cx="205.7" cy="259.2" r="4" fill="#3465a4"><title>Inneryne</title></circle></a><a href="/variants/s5/o4k29dr30db29o4~x2/"><circle cx="176.6" cy="241.5" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="229.1" cy="253.1" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="143.3" cy="241.6" r="4" fill="#3465a4"><title>MacCaughan</title></circle></a><a href="/variants/s6/dy4dt20dy3k20o24dt3~x2/"><circle cx="160.2" cy="217.7" r="4" fill="#3465a4"><title>Edinburgh Int.Conf. Centre</title></circle></a><circle cx="191.7" cy="257.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k3g17y2k18dp17g3~x2/"><circle cx="160.0" cy="205.3" r="4" fill="#3465a4"><title>Wilson's No.100</title></circle></a><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><circle cx="152.1" cy="235.1" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/variants/s6/k3dp9k11lb2g9k3~x2/"><circle cx="158.5" cy="225.5" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s6/dp8k11dg9k11dp8lb2~x2/"><circle cx="184.2" cy="271.5" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3~x2/"><circle cx="134.0" cy="219.3" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s7/db4k4db16k14dg14dr3dg3~x2/"><circle cx="205.9" cy="259.2" r="4" fill="#3465a4"><title>Inneryne</title></circle></a><a href="/variants/s5/o4k29dr30db29o4~x2/"><circle cx="176.8" cy="241.4" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="229.5" cy="253.2" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="143.4" cy="241.4" r="4" fill="#3465a4"><title>MacCaughan</title></circle></a><a href="/variants/s6/dy4dt20dy3k20o24dt3~x2/"><circle cx="160.5" cy="217.6" r="4" fill="#3465a4"><title>Edinburgh Int.Conf. Centre</title></circle></a><circle cx="192.0" cy="257.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/">Lodge Isandlwana</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/"><img src="/variants/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/sett.png" alt="Lodge Isandlwana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lodge-isandlwana/">Lodge Isandlwana</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lodge-isandlwana/"><img src="/variants/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/sett.png" alt="Lodge Isandlwana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

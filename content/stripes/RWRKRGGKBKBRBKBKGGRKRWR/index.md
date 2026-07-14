@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/r20w1r20k2r20g8y1k4db1k1db4r1db4k1db1k4g8y1r20k2r20w1r20~x2/">Cromdale</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/r20w1r20k2r20g8y1k4db1k1db4r1db4k1db1k4g8y1r20k2r20w1r20~x2/"><img src="/variants/s23/r20w1r20k2r20g8y1k4db1k1db4r1db4k1db1k4g8y1r20k2r20w1r20~x2/sett.png" alt="Cromdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/cromdale/">Cromdale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/cromdale/"><img src="/variants/s23/r20w1r20k2r20g8y1k4db1k1db4r1db4k1db1k4g8y1r20k2r20w1r20~x2/sett.png" alt="Cromdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Boig"
   url: "/tartans/g/gl/glen-boig-2/"
 - name: "Glen Boig Trade Tartan"
-  url: "/setts/g37dy9g3do9dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g37dy9g3do9dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-boig-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGG](/stripes/gbggg/).
 
 Part of the [Glen Boig](/tartans/g/gl/glen-boig-2/) tartan — the named design grouping this sett with its other cloths.

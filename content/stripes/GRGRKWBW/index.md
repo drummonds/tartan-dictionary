@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g5o2g2o9k9lb9db30w5~x2/">Alexander of Menstry (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g5o2g2o9k9lb9db30w5~x2/"><img src="/variants/s8/g5o2g2o9k9lb9db30w5~x2/sett.png" alt="Alexander of Menstry (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alexander-of-menstry/">Alexander of Menstry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alexander-of-menstry/"><img src="/variants/s8/g5o2g2o9k9lb9db30w5~x2/sett.png" alt="Alexander of Menstry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

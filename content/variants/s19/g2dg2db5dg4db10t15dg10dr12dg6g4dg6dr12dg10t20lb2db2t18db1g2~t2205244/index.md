@@ -12,15 +12,15 @@ crumbs:
 - name: "Watkins of Wales"
   url: "/tartans/w/wa/watkins-of-wales/"
 - name: "Watkins of Wales"
-  url: "/setts/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t20lb2db2t18db1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t20lb2db2t18db1g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GBGBBGBGGGBGBWBBBGBBBWBGBGGGBGBBGBGG](/stripes/gbgbbgbgggbgbwbbbgbbbwbgbgggbgbbgbgg/).
+provenance below. It is one weaving of the [sett](/tartans/w/wa/watkins-of-wales/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBBWBGBGGGBGBBGBGG](/stripes/gbbbwbgbgggbgbbgbgg/).
 
 Part of the [Watkins of Wales](/tartans/w/wa/watkins-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4501](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4501)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6169
 
 ## Thread count
-G/2 DG2 DB5 DG4 DB10 T15 DG10 DR12 DG6 G4 DG6 DR12 DG10 T20 LB2 DB2 T18 DB1 G2 DB1 T18 DB2 LB2 T20 DG10 DR12 DG6 G4 DG6 DR12 DG10 T15 DB10 DG4 DB5 DG/2
+G/2 DG2 DB5 DG4 DB10 T15 DG10 DR12 DG6 G4 DG6 DR12 DG10 T20 LB2 DB2 T18 DB1 G/2
 
-One full sett is **560 threads**.
+One full sett is **282 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/2 DG2 DB5 DG4 DB10 T15 DG10 DR12 DG6 G4 DG6 DR12 DG10 T20 LB2 DB2 T18 DB1 G2 DB1 T18 DB2 LB2 T20 DG10 DR12 DG6 G4 DG6 DR12 DG10 T15 DB10 DG4 DB5 DG/2 — 560 threads; it folds to the canonical 282-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **560 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/2 DG2 DB5 DG4 DB10 T15 DG10 DR12 DG6 G4 DG6 DR12 DG10 T20 LB2 DB2 T18 DB1 G2 DB1 T18 DB2 LB2 T20 DG10 DR12 DG6 G4 DG6 DR12 DG10 T15 DB10 DG4 DB5 DG/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/2 DG2 DB5 DG4 DB10 T15 DG10 DR12 DG6 G4 DG6 DR12 DG10 T20 LB2 DB2 T18 DB1 G/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

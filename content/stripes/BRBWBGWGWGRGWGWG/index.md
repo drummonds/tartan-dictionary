@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db36r4db3w3db36dg6w1dg2w1dg10r1dg10w1dg2w1dg6~x2/">Fred Perry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db36r4db3w3db36dg6w1dg2w1dg10r1dg10w1dg2w1dg6~x2/"><img src="/variants/s16/db36r4db3w3db36dg6w1dg2w1dg10r1dg10w1dg2w1dg6~x2/sett.png" alt="Fred Perry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/">Fred Perry (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/"><img src="/variants/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/sett.png" alt="Fred Perry (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fred-perry/">Fred Perry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fred-perry/"><img src="/variants/s16/db36r4db3w3db36dg6w1dg2w1dg10r1dg10w1dg2w1dg6~x2/sett.png" alt="Fred Perry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

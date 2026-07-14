@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/">Bell of Ardbel (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/"><img src="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/sett.png" alt="Bell of Ardbel (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/do7dr4do4dr25dp1dg32dp4dg2w2dg5~x2/">Bell, John</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/do7dr4do4dr25dp1dg32dp4dg2w2dg5~x2/"><img src="/variants/s10/do7dr4do4dr25dp1dg32dp4dg2w2dg5~x2/sett.png" alt="Bell, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bell-of-ardbel/">Bell of Ardbel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-of-ardbel/"><img src="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/sett.png" alt="Bell of Ardbel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bell-john/">Bell, John</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-john/"><img src="/variants/s10/do7dr4do4dr25dp1dg32dp4dg2w2dg5~x2/sett.png" alt="Bell, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

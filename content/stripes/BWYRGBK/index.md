@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db67w1ly6r5dg25db3k5~x2/">Guide Dogs (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db67w1ly6r5dg25db3k5~x2/"><img src="/variants/s7/db67w1ly6r5dg25db3k5~x2/sett.png" alt="Guide Dogs (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/guide-dogs/">Guide Dogs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/guide-dogs/"><img src="/variants/s7/db67w1ly6r5dg25db3k5~x2/sett.png" alt="Guide Dogs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r3g16r4k6r28g2lo3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgrkrgy/">RGRKRGY</a></nav>
 Its design is pattern [RGRKRGY](/stripes/rgrkrgy/) — the page of every tartan sharing this colour sequence.
 
 The **McInally** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **McInally** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3g16r4k6r28g2lo3/">McInally</a></td><td><code>LO/6 G4 R56 K12 R8 G32 R/6</code></td><td>236</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g16r4k6r28g2lo3/"><img src="/variants/s7/r3g16r4k6r28g2lo3~x2/sett.png" alt="McInally sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/">McInally</a></td><td><code>R/6 G32 R8 K12 R56 G4 LO/6</code></td><td>236</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><img src="/variants/s7/r3g16r4k6r28g2lo3~x2/sett.png" alt="McInally sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k1r18g12r2g12r18w1~x2/"><circle cx="349.5" cy="168.5" r="4" fill="#3465a4"><title>MacKinnon 8</title></circle></a><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><circle cx="340.1" cy="171.6" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/variants/s7/r3g16r4k6r28g1r3~x2/"><circle cx="375.6" cy="127.9" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="296.6" cy="170.3" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="309.5" cy="154.1" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="379.0" cy="124.3" r="4" fill="#3465a4"><title>Greig</title></circle></a><a href="/variants/s6/g10r4g46r69k2w6/"><circle cx="352.0" cy="126.1" r="4" fill="#3465a4"><title>Colchester &amp; District P&amp;D (Corporate</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="316.3" cy="214.6" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><circle cx="257.7" cy="181.2" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.1" cy="177.2" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><circle cx="294.8" cy="147.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k1r18g12r2g12r18w1~x2/"><circle cx="350.3" cy="168.6" r="4" fill="#3465a4"><title>MacKinnon 8</title></circle></a><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><circle cx="341.0" cy="171.7" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/variants/s7/r3g16r4k6r28g1r3~x2/"><circle cx="376.6" cy="128.0" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="297.3" cy="170.3" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="310.3" cy="154.2" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="380.0" cy="124.4" r="4" fill="#3465a4"><title>Greig</title></circle></a><a href="/variants/s6/g10r4g46r69k2w6/"><circle cx="352.9" cy="126.2" r="4" fill="#3465a4"><title>Colchester &amp; District P&amp;D (Corporate</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="317.0" cy="214.7" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><circle cx="258.3" cy="181.1" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.7" cy="177.2" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><circle cx="295.6" cy="147.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

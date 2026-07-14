@@ -8,10 +8,10 @@ crumbs:
 - name: "Clan Chattan D"
   url: "/tartans/c/cl/clan-chattan-d-2/"
 - name: "Clan Chattan D"
-  url: "/setts/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clan-chattan-d-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWGWGRKRGWWKRGW](/stripes/rkwgwgrkrgwwkrgw/).
 
 Part of the [Clan Chattan D](/tartans/c/cl/clan-chattan-d-2/) tartan — the named design grouping this sett with its other cloths.

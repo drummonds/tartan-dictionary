@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g3k24y1r18db18w1/"
+- "/setts/g3k24ly1r18db18w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgrbw/">GKGRBW</a></nav>
 Its design is pattern [GKGRBW](/stripes/gkgrbw/) — the page of every tartan sharing this colour sequence.
 
 The **Hegarty, Philip David** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Hegarty, Philip David** tartan groups 2 setts — the same named design re
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g3k24y1r18db18w1/">Hegarty, Philip David</a> ★</td><td><code>G/6 K48 Y2 R36 DB36 W/2</code></td><td>252</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g3k24y1r18db18w1/"><img src="/variants/s6/g3k24y1r18db18w1~x2/sett.png" alt="Hegarty, Philip David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g3k24ly1r18db18w1/">(Personal)</a></td><td><code>G/6 K48 LY2 R36 DB36 W/2</code></td><td>252</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g3k24ly1r18db18w1/"><img src="/variants/s6/g3k24ly1r18db18w1~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g3k24y1r18db18w1~x2/">Hegarty, Philip David</a> ★</td><td><code>G/6 K48 Y2 R36 DB36 W/2</code></td><td>252</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g3k24y1r18db18w1~x2/"><img src="/variants/s6/g3k24y1r18db18w1~x2/sett.png" alt="Hegarty, Philip David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g3k24ly1r18db18w1~x2/">(Personal)</a></td><td><code>G/6 K48 LY2 R36 DB36 W/2</code></td><td>252</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g3k24ly1r18db18w1~x2/"><img src="/variants/s6/g3k24ly1r18db18w1~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="206.8" cy="120.6" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="146.7" cy="108.8" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="162.1" cy="168.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="166.2" cy="144.8" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="126.7" cy="142.4" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="151.0" cy="160.2" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/"><circle cx="188.5" cy="86.8" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/"><circle cx="219.3" cy="152.1" r="4" fill="#3465a4"><title>205 Field Hospital</title></circle></a><a href="/variants/s7/dbi4y1r28db25k10dbi5k3~x2~dbi1605267-db1003265/"><circle cx="203.7" cy="127.6" r="4" fill="#3465a4"><title>McKnight</title></circle></a><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/"><circle cx="142.7" cy="113.5" r="4" fill="#3465a4"><title>Vinther, Niels Christian</title></circle></a><circle cx="159.7" cy="123.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="207.5" cy="120.5" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="147.3" cy="108.5" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="162.5" cy="168.5" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="166.8" cy="144.6" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="127.1" cy="142.1" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="151.3" cy="160.0" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/"><circle cx="189.1" cy="86.5" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/"><circle cx="219.8" cy="152.0" r="4" fill="#3465a4"><title>205 Field Hospital</title></circle></a><a href="/variants/s7/dbi4y1r28db25k10dbi5k3~x2~dbi1605267-db1003265/"><circle cx="204.3" cy="127.4" r="4" fill="#3465a4"><title>McKnight</title></circle></a><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/"><circle cx="143.2" cy="113.2" r="4" fill="#3465a4"><title>Vinther, Niels Christian</title></circle></a><circle cx="160.3" cy="123.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

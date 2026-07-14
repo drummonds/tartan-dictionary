@@ -8,10 +8,10 @@ crumbs:
 - name: "Oregon"
   url: "/tartans/o/or/oregon/"
 - name: "Oregon American District Tartan"
-  url: "/setts/y3db5dg2db2dg2w1dg4ly12r2lb2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3db5dg2db2dg2w1dg4ly12r2lb2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/or/oregon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGWGYRWK](/stripes/gbgbgwgyrwk/).
 
 Part of the [Oregon](/tartans/o/or/oregon/) tartan — the named design grouping this sett with its other cloths.

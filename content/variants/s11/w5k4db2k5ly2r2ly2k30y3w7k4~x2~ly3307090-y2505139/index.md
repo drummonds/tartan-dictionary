@@ -12,10 +12,10 @@ crumbs:
 - name: "Braddock"
   url: "/tartans/b/br/braddock/"
 - name: "Braddock Family (Northumberland) (Personal)"
-  url: "/setts/w5k4db2k5ly2r2ly2k30y3w7k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5k4db2k5ly2r2ly2k30y3w7k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/braddock/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGKYRYKBKW](/stripes/kwgkyrykbkw/).
 
 Part of the [Braddock](/tartans/b/br/braddock/) tartan — the named design grouping this sett with its other cloths.

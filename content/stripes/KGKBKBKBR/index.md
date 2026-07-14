@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/">Urquhart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><img src="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r9db11k3db3k3db3k20g20k3~x2/">Urquhart Broad Red Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r9db11k3db3k3db3k20g20k3~x2/"><img src="/variants/s9/r9db11k3db3k3db3k20g20k3~x2/sett.png" alt="Urquhart Broad Red Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/ur/urquhart-4/">Urquhart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/ur/urquhart-4/"><img src="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

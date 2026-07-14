@@ -12,10 +12,10 @@ crumbs:
 - name: "Kirkcaldy"
   url: "/tartans/k/ki/kirkcaldy/"
 - name: "Kirkcaldy Name Tartan"
-  url: "/setts/t23w3k10r2db45dy1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t23w3k10r2db45dy1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kirkcaldy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKRBG](/stripes/bwkrbg/).
 
 Part of the [Kirkcaldy](/tartans/k/ki/kirkcaldy/) tartan — the named design grouping this sett with its other cloths.

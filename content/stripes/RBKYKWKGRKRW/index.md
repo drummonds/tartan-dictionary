@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/">Tilted Kilt (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/"><img src="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/sett.png" alt="Tilted Kilt (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tilted/">TIlted</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tilted/"><img src="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/sett.png" alt="TIlted sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

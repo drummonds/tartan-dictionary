@@ -8,10 +8,10 @@ crumbs:
 - name: "Queen Margaret University"
   url: "/tartans/q/qu/queen-margaret-university/"
 - name: "Queen Margaret University"
-  url: "/setts/db4w3db17lb10k1dp5k1lb6g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4w3db17lb10k1dp5k1lb6g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/q/qu/queen-margaret-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKBKWG](/stripes/bwbwkbkwg/).
 
 Part of the [Queen Margaret University](/tartans/q/qu/queen-margaret-university/) tartan — the named design grouping this sett with its other cloths.

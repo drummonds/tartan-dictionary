@@ -11,11 +11,11 @@ crumbs:
   url: "/families/leslie/"
 - name: "Leslie Hunting"
   url: "/tartans/l/le/leslie-hunting/"
-- name: "Leslie Hunting"
-  url: "/setts/r2db8k8w1g8k1/"
+- name: "Leslie Hunting Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2db8k8w1g8k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/leslie-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWKBR](/stripes/kgwkbr/).
 
 Part of the [Leslie Hunting](/tartans/l/le/leslie-hunting/) tartan — the named design grouping this sett with its other cloths.

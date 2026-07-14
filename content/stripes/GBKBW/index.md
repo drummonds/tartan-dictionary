@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/y4db24k23db30w4~x2/">Bank of Scotland Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/y4db24k23db30w4~x2/"><img src="/variants/s5/y4db24k23db30w4~x2/sett.png" alt="Bank of Scotland Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bank-of-scotland/">Bank of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bank-of-scotland/"><img src="/variants/s5/y4db24k23db30w4~x2/sett.png" alt="Bank of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/g18db9k1db1w1~x4/">Irvine Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g18db9k1db1w1~x4/"><img src="/variants/s5/g18db9k1db1w1~x4/sett.png" alt="Irvine Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ir/irvine/">Irvine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ir/irvine/"><img src="/variants/s5/g18db9k1db1w1~x4/sett.png" alt="Irvine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

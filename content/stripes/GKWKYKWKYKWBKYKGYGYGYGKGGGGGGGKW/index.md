@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s32/y8k2w3k4ly3k2lb6k2ly3k4lb3db44k4ly4k4dy5ly5dy5ly6dy5ly5dy5k4dy5y5dy5y6dy5y5dy5k4w6/">Whiskey &amp; Bourbon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s32/y8k2w3k4ly3k2lb6k2ly3k4lb3db44k4ly4k4dy5ly5dy5ly6dy5ly5dy5k4dy5y5dy5y6dy5y5dy5k4w6/"><img src="/variants/s32/y8k2w3k4ly3k2lb6k2ly3k4lb3db44k4ly4k4dy5ly5dy5ly6dy5ly5dy5k4dy5y5dy5y6dy5y5dy5k4w6/sett.png" alt="Whiskey &amp; Bourbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wh/whiskey-bourbon/">Whiskey &amp; Bourbon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wh/whiskey-bourbon/"><img src="/variants/s32/y8k2w3k4ly3k2lb6k2ly3k4lb3db44k4ly4k4dy5ly5dy5ly6dy5ly5dy5k4dy5y5dy5y6dy5y5dy5k4w6/sett.png" alt="Whiskey &amp; Bourbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,12 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g20y2n5w4g2n2g2n2t6/">Boucherville</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g20y2n5w4g2n2g2n2t6/"><img src="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/sett.png" alt="Boucherville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/">Boucherville (Tartan de..)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/"><img src="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/sett.png" alt="Boucherville (Tartan de..) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/">Boucherville (Tartan de..) District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/"><img src="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/sett.png" alt="Boucherville (Tartan de..) District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boucherville/">Boucherville</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boucherville/"><img src="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/sett.png" alt="Boucherville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

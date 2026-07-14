@@ -8,10 +8,10 @@ crumbs:
 - name: "Thistle and Kudzu Scottish Society"
   url: "/tartans/t/th/thistle-and-kudzu-scottish-society/"
 - name: "Thistle and Kudzu Scottish Society"
-  url: "/setts/dp6g15dg15w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp6g15dg15w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thistle-and-kudzu-scottish-society/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGW](/stripes/bggw/).
 
 Part of the [Thistle and Kudzu Scottish Society](/tartans/t/th/thistle-and-kudzu-scottish-society/) tartan — the named design grouping this sett with its other cloths.

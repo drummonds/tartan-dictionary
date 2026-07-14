@@ -12,10 +12,10 @@ crumbs:
 - name: "MacKean"
   url: "/tartans/m/ma/mackean-2/"
 - name: "MacKean Red"
-  url: "/setts/r4k8r4k8db12k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k8r4k8db12k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackean-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKBKW](/stripes/rkrkbkw/).
 
 Part of the [MacKean](/tartans/m/ma/mackean-2/) tartan — the named design grouping this sett with its other cloths.

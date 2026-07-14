@@ -10,10 +10,10 @@ crumbs:
 - name: "Muir, John"
   url: "/tartans/m/mu/muir-john/"
 - name: "Muir, John"
-  url: "/setts/y2w21db16lb8db30w8db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2w21db16lb8db30w8db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/muir-john/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWG](/stripes/bwbwbwg/).
 
 Part of the [Muir, John](/tartans/m/mu/muir-john/) tartan — the named design grouping this sett with its other cloths.

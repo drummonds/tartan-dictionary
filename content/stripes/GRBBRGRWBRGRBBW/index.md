@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/g3r2b1db18r2g8r4lb1db8r2g18r2b1db3lb1~x2/">Glen Orchy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g3r2b1db18r2g8r4lb1db8r2g18r2b1db3lb1~x2/"><img src="/variants/s15/g3r2b1db18r2g8r4lb1db8r2g18r2b1db3lb1~x2/sett.png" alt="Glen Orchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-orchy-4/">Glen Orchy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-orchy-4/"><img src="/variants/s15/g3r2b1db18r2g8r4lb1db8r2g18r2b1db3lb1~x2/sett.png" alt="Glen Orchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

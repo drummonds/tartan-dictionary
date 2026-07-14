@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/">Copar a'Beannichte Dress Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/"><img src="/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/sett.png" alt="Copar a'Beannichte Dress Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/copar-a-beannichte-dress-2/">Copar a'Beannichte Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/copar-a-beannichte-dress-2/"><img src="/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/sett.png" alt="Copar a'Beannichte Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

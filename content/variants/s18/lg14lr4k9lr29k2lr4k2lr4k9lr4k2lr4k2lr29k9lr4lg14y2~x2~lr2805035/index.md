@@ -12,10 +12,10 @@ crumbs:
 - name: "Hannay Dress"
   url: "/tartans/h/ha/hannay-dress-2/"
 - name: "Hannay Dress"
-  url: "/setts/lg14lr4k9lr29k2lr4k2lr4k9lr4k2lr4k2lr29k9lr4lg14y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lg14lr4k9lr29k2lr4k2lr4k9lr4k2lr4k2lr29k9lr4lg14y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hannay-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYYKYKYKYKYKYKYKYY](/stripes/gyykykykykykykykyy/).
 
 Part of the [Hannay Dress](/tartans/h/ha/hannay-dress-2/) tartan — the named design grouping this sett with its other cloths.

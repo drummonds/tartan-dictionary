@@ -12,10 +12,10 @@ crumbs:
 - name: "Burberry"
   url: "/tartans/b/bu/burberry-3/"
 - name: "Burberry Blue"
-  url: "/setts/lr3k3lr3k10dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lr3k3lr3k10dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/burberry-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKY](/stripes/bkyky/).
 
 Part of the [Burberry](/tartans/b/bu/burberry-3/) tartan — the named design grouping this sett with its other cloths.

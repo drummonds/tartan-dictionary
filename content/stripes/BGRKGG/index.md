@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n2dg2r9k9g2y2~x4~dg1204144-g2408144/">Wolves Wod Kindred</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n2dg2r9k9g2y2~x4~dg1204144-g2408144/"><img src="/variants/s6/n2dg2r9k9g2y2~x4~dg1204144-g2408144/sett.png" alt="Wolves Wod Kindred sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/wolves-wod-kindred/">Wolves Wod Kindred</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/wolves-wod-kindred/"><img src="/variants/s6/n2dg2r9k9g2y2~x4~dg1204144-g2408144/sett.png" alt="Wolves Wod Kindred sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

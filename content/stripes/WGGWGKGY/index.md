@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/">New World Irish (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/"><img src="/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/sett.png" alt="New World Irish (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-world-irish-2/">New World Irish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-world-irish-2/"><img src="/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/sett.png" alt="New World Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

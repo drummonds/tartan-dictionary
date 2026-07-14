@@ -12,10 +12,10 @@ crumbs:
 - name: "Ailsa"
   url: "/tartans/a/ai/ailsa/"
 - name: "Ailsa Yellow Fashion Tartan"
-  url: "/setts/y8w3y28w32dp3w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y8w3y28w32dp3w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ai/ailsa/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWBW](/stripes/gwgwbw/).
 
 Part of the [Ailsa](/tartans/a/ai/ailsa/) tartan — the named design grouping this sett with its other cloths.

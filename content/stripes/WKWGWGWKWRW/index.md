@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/">Dunbarton Weft</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><img src="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/sett.png" alt="Dunbarton Weft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunbarton-weft/">Dunbarton Weft</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunbarton-weft/"><img src="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/sett.png" alt="Dunbarton Weft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

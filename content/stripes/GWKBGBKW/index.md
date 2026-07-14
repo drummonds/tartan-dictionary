@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g60w3k12n5g9n6k4w10/">New York Jets</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><img src="/variants/s8/g60w3k12n5g9n6k4w10/sett.png" alt="New York Jets sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-york-jets/">New York Jets</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-york-jets/"><img src="/variants/s8/g60w3k12n5g9n6k4w10/sett.png" alt="New York Jets sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

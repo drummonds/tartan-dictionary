@@ -8,10 +8,10 @@ crumbs:
 - name: "Barton-Watson, de"
   url: "/tartans/b/ba/barton-watson-de/"
 - name: "Barton-Watson, de"
-  url: "/setts/dp3ki16r3dg17k16ki26y1dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3ki16r3dg17k16ki26y1dp3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barton-watson-de/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKKGRKB](/stripes/bgkkgrkb/).
 
 Part of the [Barton-Watson, de](/tartans/b/ba/barton-watson-de/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Carnegie of Skibo"
   url: "/tartans/c/ca/carnegie-of-skibo/"
 - name: "Carnegie of Skibo Corporate Tartan"
-  url: "/setts/w3db5lt2db9dp10k2dp5k5dg9g31w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3db5lt2db9dp10k2dp5k5dg9g31w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/carnegie-of-skibo/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBBKBKGGW](/stripes/wbwbbkbkggw/).
 
 Part of the [Carnegie of Skibo](/tartans/c/ca/carnegie-of-skibo/) tartan — the named design grouping this sett with its other cloths.

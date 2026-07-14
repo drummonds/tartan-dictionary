@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/bundy/"
 - name: "Bundy"
   url: "/families/bundy/"
+aliases:
+- "/setts/k1r1w1r15w15r1w1k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krwrwrwk/">KRWRWRWK</a></nav>
 A tartan of the [Bundy](/families/bundy/) family.
 Its design is pattern [KRWRWRWK](/stripes/krwrwrwk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Bundy, Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k1r1w1r15w15r1w1k1/">Bundy, Dress</a></td><td><code>K/4 R4 W4 R60 W60 R4 W4 K/4</code></td><td>280</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1r1w1r15w15r1w1k1/"><img src="/variants/s8/k1r1w1r15w15r1w1k1~x4/sett.png" alt="Bundy, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k1r1w1r15w15r1w1k1~x4/">Bundy, Dress</a></td><td><code>K/4 R4 W4 R60 W60 R4 W4 K/4</code></td><td>280</td><td>2006</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k1r1w1r15w15r1w1k1~x4/"><img src="/variants/s8/k1r1w1r15w15r1w1k1~x4/sett.png" alt="Bundy, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w50k1r14w1dg14r14w1r2~x4~w4000000/"><circle cx="303.0" cy="78.2" r="4" fill="#3465a4"><title>Wilson's Blanket Pattern</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="333.7" cy="81.5" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="350.9" cy="77.5" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="179.7" cy="123.3" r="4" fill="#3465a4"><title>Hearts Football Club</title></circle></a><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="293.6" cy="187.0" r="4" fill="#3465a4"><title>Ailsa Pink</title></circle></a><a href="/variants/s6/k2w28r13w2r13w2~x2/"><circle cx="315.6" cy="176.7" r="4" fill="#3465a4"><title>Buchanan 4</title></circle></a><a href="/variants/s6/w2r4w2r4w9k1~x2/"><circle cx="302.4" cy="210.8" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/variants/s7/w5r2w34r34k2r2db4~x2/"><circle cx="268.7" cy="127.2" r="4" fill="#3465a4"><title>Cunningham Dress</title></circle></a><a href="/variants/s7/w5r2w34r34k2r2y4~x2/"><circle cx="273.3" cy="129.4" r="4" fill="#3465a4"><title>Cunningham Burgandy Dress</title></circle></a><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><circle cx="238.5" cy="170.6" r="4" fill="#3465a4"><title>Starr</title></circle></a><circle cx="285.0" cy="123.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w50k1r14w1dg14r14w1r2~x4~w4000000/"><circle cx="303.9" cy="78.1" r="4" fill="#3465a4"><title>Wilson's Blanket Pattern</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="334.6" cy="81.4" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="351.8" cy="77.4" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="180.3" cy="123.0" r="4" fill="#3465a4"><title>Hearts Football Club</title></circle></a><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="294.3" cy="186.9" r="4" fill="#3465a4"><title>Ailsa Pink</title></circle></a><a href="/variants/s6/k2w28r13w2r13w2~x2/"><circle cx="316.3" cy="176.7" r="4" fill="#3465a4"><title>Buchanan 4</title></circle></a><a href="/variants/s6/w2r4w2r4w9k1~x2/"><circle cx="303.0" cy="210.8" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/variants/s7/w5r2w34r34k2r2db4~x2/"><circle cx="269.4" cy="127.1" r="4" fill="#3465a4"><title>Cunningham Dress</title></circle></a><a href="/variants/s7/w5r2w34r34k2r2y4~x2/"><circle cx="274.0" cy="129.2" r="4" fill="#3465a4"><title>Cunningham Burgandy Dress</title></circle></a><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><circle cx="239.0" cy="170.5" r="4" fill="#3465a4"><title>Starr</title></circle></a><circle cx="285.8" cy="123.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

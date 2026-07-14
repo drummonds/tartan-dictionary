@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db5r2db2r2db2dbi5r2dbi1lb1dbi1r10dr3~x4~db1204274-r1706009-dbi1404245/">Richards (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db5r2db2r2db2dbi5r2dbi1lb1dbi1r10dr3~x4~db1204274-r1706009-dbi1404245/"><img src="/variants/s12/db5r2db2r2db2dbi5r2dbi1lb1dbi1r10dr3~x4~db1204274-r1706009-dbi1404245/sett.png" alt="Richards (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/richards-2/">Richards</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/richards-2/"><img src="/variants/s12/db5r2db2r2db2dbi5r2dbi1lb1dbi1r10dr3~x4~db1204274-r1706009-dbi1404245/sett.png" alt="Richards sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

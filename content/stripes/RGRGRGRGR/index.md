@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r3y1r12y2r3y8r2y8r1~x2/">MacMillan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3y1r12y2r3y8r2y8r1~x2/"><img src="/variants/s9/r3y1r12y2r3y8r2y8r1~x2/sett.png" alt="MacMillan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r6y2r18y3r4y12r3y10r2~x2/">MacMillan Dress Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r6y2r18y3r4y12r3y10r2~x2/"><img src="/variants/s9/r6y2r18y3r4y12r3y10r2~x2/sett.png" alt="MacMillan Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macmillan-3/">MacMillan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macmillan-3/"><img src="/variants/s9/r3y1r12y2r3y8r2y8r1~x2/sett.png" alt="MacMillan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macmillan-dress/">MacMillan Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macmillan-dress/"><img src="/variants/s9/r6y2r18y3r4y12r3y10r2~x2/sett.png" alt="MacMillan Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k3lb14r11db3k10w2k10db3dg6r3b14db3~x2~r2308029-dg1704158/">Cascade Summers, (The Resort at the Mountain)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k3lb14r11db3k10w2k10db3dg6r3b14db3~x2~r2308029-dg1704158/"><img src="/variants/s12/k3lb14r11db3k10w2k10db3dg6r3b14db3~x2~r2308029-dg1704158/sett.png" alt="Cascade Summers, (The Resort at the Mountain) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cascade-summers-2/">Cascade Summers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cascade-summers-2/"><img src="/variants/s12/k3lb14r11db3k10w2k10db3dg6r3b14db3~x2~r2308029-dg1704158/sett.png" alt="Cascade Summers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

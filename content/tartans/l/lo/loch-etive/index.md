@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y3db3k2db18k26r21g2lb3/"
+- "/setts/ly3db3k2db18k26r21g2lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkbkrgw/">GBKBKRGW</a></nav>
 Its design is pattern [GBKBKRGW](/stripes/gbkbkrgw/) — the page of every tartan sharing this colour sequence.
 
 The **Loch Etive** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Loch Etive** tartan groups 2 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y3db3k2db18k26r21g2lb3/">Loch Etive</a> ★</td><td><code>Y/6 DB6 K4 DB36 K52 R42 G4 LB/6</code></td><td>300</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y3db3k2db18k26r21g2lb3/"><img src="/variants/s8/y3db3k2db18k26r21g2lb3~x2/sett.png" alt="Loch Etive sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/ly3db3k2db18k26r21g2lb3/">Loch Etive</a></td><td><code>LB/6 G4 R42 K52 DB36 K4 DB6 LY/6</code></td><td>300</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly3db3k2db18k26r21g2lb3/"><img src="/variants/s8/ly3db3k2db18k26r21g2lb3~x2/sett.png" alt="Loch Etive sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/y3db3k2db18k26r21g2lb3~x2/">Loch Etive</a> ★</td><td><code>Y/6 DB6 K4 DB36 K52 R42 G4 LB/6</code></td><td>300</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y3db3k2db18k26r21g2lb3~x2/"><img src="/variants/s8/y3db3k2db18k26r21g2lb3~x2/sett.png" alt="Loch Etive sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly3db3k2db18k26r21g2lb3~x2/">Loch Etive</a></td><td><code>LY/6 DB6 K4 DB36 K52 R42 G4 LB/6</code></td><td>300</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly3db3k2db18k26r21g2lb3~x2/"><img src="/variants/s8/ly3db3k2db18k26r21g2lb3~x2/sett.png" alt="Loch Etive sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/n6k2n23k23w2dp24db3r6~x2/"><circle cx="129.3" cy="152.9" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="109.9" cy="174.4" r="4" fill="#3465a4"><title>Galway County Crest</title></circle></a><a href="/variants/s10/y3k21r7k2g10k2r7k2db21w3~x2/"><circle cx="90.3" cy="131.8" r="4" fill="#3465a4"><title>Tantallon</title></circle></a><a href="/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/"><circle cx="143.0" cy="115.9" r="4" fill="#3465a4"><title>Hines Snr, Raymond Lee</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="105.1" cy="134.1" r="4" fill="#3465a4"><title>Dean/Dundas</title></circle></a><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/"><circle cx="123.9" cy="115.2" r="4" fill="#3465a4"><title>Wcwm 1873-4</title></circle></a><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/"><circle cx="142.7" cy="113.5" r="4" fill="#3465a4"><title>Vinther, Niels Christian</title></circle></a><a href="/variants/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="93.2" cy="160.7" r="4" fill="#3465a4"><title>Eichelberger</title></circle></a><a href="/variants/s10/y2dp16k1r5k1lo8k1r5k16lg2~x4/"><circle cx="104.6" cy="105.3" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/variants/s6/dg3b3r22k5ki22y2~x2~ki0604259/"><circle cx="157.3" cy="143.6" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><circle cx="129.2" cy="125.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/n6k2n23k23w2dp24db3r6~x2/"><circle cx="129.6" cy="152.6" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="110.2" cy="174.1" r="4" fill="#3465a4"><title>Galway County Crest</title></circle></a><a href="/variants/s10/y3k21r7k2g10k2r7k2db21w3~x2/"><circle cx="90.6" cy="131.4" r="4" fill="#3465a4"><title>Tantallon</title></circle></a><a href="/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/"><circle cx="143.5" cy="115.7" r="4" fill="#3465a4"><title>Hines Snr, Raymond Lee</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="105.5" cy="133.7" r="4" fill="#3465a4"><title>Dean/Dundas</title></circle></a><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/"><circle cx="124.3" cy="114.9" r="4" fill="#3465a4"><title>Wcwm 1873-4</title></circle></a><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/"><circle cx="143.2" cy="113.2" r="4" fill="#3465a4"><title>Vinther, Niels Christian</title></circle></a><a href="/variants/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="93.6" cy="160.4" r="4" fill="#3465a4"><title>Eichelberger</title></circle></a><a href="/variants/s10/y2dp16k1r5k1lo8k1r5k16lg2~x4/"><circle cx="105.0" cy="104.9" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/variants/s6/dg3b3r22k5ki22y2~x2~ki0604259/"><circle cx="157.8" cy="143.4" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><circle cx="129.7" cy="125.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -10,17 +10,17 @@ crumbs:
 - name: "Watson"
   url: "/families/watson/"
 - name: "Watson"
-  url: "/tartans/w/wa/watson-2/"
+  url: "/tartans/w/wa/watson/"
 - name: "Watson"
-  url: "/setts/db24k2db2r2db2k20g16y2g2y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db24k2db2r2db2k20g16y2g2y3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBRBKGGGGGGGKBRBK](/stripes/bkbrbkgggggggkbrbk/).
+provenance below. It is one weaving of the [sett](/tartans/w/wa/watson/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBRBKGGGG](/stripes/bkbrbkgggg/).
 
-Part of the [Watson](/tartans/w/wa/watson-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Watson](/tartans/w/wa/watson/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4503](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4503)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 307
 
 ## Thread count
-DB/48 K4 DB4 R4 DB4 K40 G32 Y4 G4 Y6 G4 Y4 G32 K40 DB4 R4 DB4 K/4
+DB/48 K4 DB4 R4 DB4 K40 G32 Y4 G4 Y/6
 
-One full sett is **440 threads**.
+One full sett is **246 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/48 K4 DB4 R4 DB4 K40 G32 Y4 G4 Y6 G4 Y4 G32 K40 DB4 R4 DB4 K/4 — 440 threads; it folds to the canonical 246-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **440 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/48 K4 DB4 R4 DB4 K40 G32 Y4 G4 Y6 G4 Y4 G32 K40 DB4 R4 DB4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/48 K4 DB4 R4 DB4 K40 G32 Y4 G4 Y/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

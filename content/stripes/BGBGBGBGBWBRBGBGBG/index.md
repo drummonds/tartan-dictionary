@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dg10b8dg46b3dg3b55r4b5w4b5y4b55dg3b3dg46b8dg10db10~x2/">Lorne, Marquis of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dg10b8dg46b3dg3b55r4b5w4b5y4b55dg3b3dg46b8dg10db10~x2/"><img src="/variants/s18/dg10b8dg46b3dg3b55r4b5w4b5y4b55dg3b3dg46b8dg10db10~x2/sett.png" alt="Lorne, Marquis of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lorne-marquis-of/">Lorne, Marquis of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lorne-marquis-of/"><img src="/variants/s18/dg10b8dg46b3dg3b55r4b5w4b5y4b55dg3b3dg46b8dg10db10~x2/sett.png" alt="Lorne, Marquis of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

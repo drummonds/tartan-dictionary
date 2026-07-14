@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/">Innes (D C Stewart)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/"><img src="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/sett.png" alt="Innes (D C Stewart) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/innes-3/">Innes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/innes-3/"><img src="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/sett.png" alt="Innes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

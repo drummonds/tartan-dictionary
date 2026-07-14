@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k22w16lo2w14lo2w16k22db3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkwywywk/">BKWYWYWK</a></nav>
 Its design is pattern [BKWYWYWK](/stripes/bkwywywk/) — the page of every tartan sharing this colour sequence.
 
 The **Kennison** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Kennison** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k22w16lo2w14lo2w16k22db3/">Kennison</a></td><td><code>K/44 W32 LO4 W28 LO4 W32 K44 DB/6</code></td><td>338</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k22w16lo2w14lo2w16k22db3/"><img src="/variants/s8/k22w16lo2w14lo2w16k22db3~x2/sett.png" alt="Kennison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k22w16lo2w14lo2w16k22db3~x2/">Kennison</a></td><td><code>K/44 W32 LO4 W28 LO4 W32 K44 DB/6</code></td><td>338</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k22w16lo2w14lo2w16k22db3~x2/"><img src="/variants/s8/k22w16lo2w14lo2w16k22db3~x2/sett.png" alt="Kennison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg1806142/"><circle cx="199.2" cy="179.2" r="4" fill="#3465a4"><title>Kierson</title></circle></a><a href="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/"><circle cx="162.8" cy="151.9" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="273.6" cy="166.8" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="290.2" cy="153.4" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="182.4" cy="170.6" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="168.4" cy="175.2" r="4" fill="#3465a4"><title>Black &amp; White Golf</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="167.3" cy="172.4" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s6/w5k20w2r5w20r2~x2/"><circle cx="242.2" cy="189.2" r="4" fill="#3465a4"><title>Gangs of New York Fashion Check</title></circle></a><a href="/variants/s7/r5k3lb22k17lb22k3y5~x2/"><circle cx="225.5" cy="183.8" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/variants/s5/k23y3k23w36r4~x2/"><circle cx="227.7" cy="181.9" r="4" fill="#3465a4"><title>Macleod, Winnifred</title></circle></a><circle cx="199.3" cy="178.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg1806142/"><circle cx="199.7" cy="179.1" r="4" fill="#3465a4"><title>Kierson</title></circle></a><a href="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/"><circle cx="163.3" cy="151.7" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="274.3" cy="166.8" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="291.0" cy="153.4" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="183.0" cy="170.4" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="168.9" cy="175.1" r="4" fill="#3465a4"><title>Black &amp; White Golf</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="167.8" cy="172.2" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s6/w5k20w2r5w20r2~x2/"><circle cx="242.8" cy="189.2" r="4" fill="#3465a4"><title>Gangs of New York Fashion Check</title></circle></a><a href="/variants/s7/r5k3lb22k17lb22k3y5~x2/"><circle cx="226.1" cy="183.7" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/variants/s5/k23y3k23w36r4~x2/"><circle cx="228.4" cy="181.8" r="4" fill="#3465a4"><title>Macleod, Winnifred</title></circle></a><circle cx="199.9" cy="178.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

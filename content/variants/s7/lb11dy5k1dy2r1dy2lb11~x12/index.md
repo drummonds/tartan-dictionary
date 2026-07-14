@@ -12,10 +12,10 @@ crumbs:
 - name: "Carlisle"
   url: "/tartans/c/ca/carlisle-2/"
 - name: "Carlisle Family Tartan"
-  url: "/setts/lb11dy5k1dy2r1dy2lb11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb11dy5k1dy2r1dy2lb11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/carlisle-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKGRGW](/stripes/wgkgrgw/).
 
 Part of the [Carlisle](/tartans/c/ca/carlisle-2/) tartan — the named design grouping this sett with its other cloths.

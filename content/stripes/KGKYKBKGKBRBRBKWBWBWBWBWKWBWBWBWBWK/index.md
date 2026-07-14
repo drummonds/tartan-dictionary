@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/">Malcolm Dress (Lochcarron 2005)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/"><img src="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/sett.png" alt="Malcolm Dress (Lochcarron 2005) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/malcolm-dress-2/">Malcolm Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/malcolm-dress-2/"><img src="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/sett.png" alt="Malcolm Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

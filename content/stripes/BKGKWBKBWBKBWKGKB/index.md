@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/">Suffolk County Police</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/"><img src="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/sett.png" alt="Suffolk County Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/suffolk-county-police/">Suffolk County Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/suffolk-county-police/"><img src="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/sett.png" alt="Suffolk County Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

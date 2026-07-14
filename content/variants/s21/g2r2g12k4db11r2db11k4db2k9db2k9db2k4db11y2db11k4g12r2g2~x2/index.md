@@ -10,10 +10,10 @@ crumbs:
 - name: "Allen, Christopher Holler"
   url: "/tartans/a/al/allen-christopher-holler/"
 - name: "Allen, Christopher Holler"
-  url: "/setts/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/allen-christopher-holler/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKBGBKBKBKBKBRBKGRG](/stripes/grgkbgbkbkbkbkbrbkgrg/).
 
 Part of the [Allen, Christopher Holler](/tartans/a/al/allen-christopher-holler/) tartan — the named design grouping this sett with its other cloths.

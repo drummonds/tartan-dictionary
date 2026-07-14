@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r13y13g13db22w4~x2/">Clan Haggis World (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r13y13g13db22w4~x2/"><img src="/variants/s5/r13y13g13db22w4~x2/sett.png" alt="Clan Haggis World (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r2y1g10db10w1~x6/">Turnbull Hunting (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2y1g10db10w1~x6/"><img src="/variants/s5/r2y1g10db10w1~x6/sett.png" alt="Turnbull Hunting (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r7y3g28db28w3~x2/">Turnbull, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r7y3g28db28w3~x2/"><img src="/variants/s5/r7y3g28db28w3~x2/sett.png" alt="Turnbull, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clan-haggis-world/">Clan Haggis World</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clan-haggis-world/"><img src="/variants/s5/r13y13g13db22w4~x2/sett.png" alt="Clan Haggis World sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/turnbull-hunting/">Turnbull Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/turnbull-hunting/"><img src="/variants/s5/r7y3g28db28w3~x2/sett.png" alt="Turnbull Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

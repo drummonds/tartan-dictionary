@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/">Spens/Spence (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/"><img src="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/sett.png" alt="Spens/Spence (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spens-spence/">Spens/Spence</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spens-spence/"><img src="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/sett.png" alt="Spens/Spence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

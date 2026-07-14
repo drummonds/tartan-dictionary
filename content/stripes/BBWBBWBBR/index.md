@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/">Callaway (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/"><img src="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/sett.png" alt="Callaway (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/callaway/">Callaway</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/callaway/"><img src="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/sett.png" alt="Callaway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Pagus Wasia"
   url: "/tartans/p/pa/pagus-wasia-2/"
 - name: "Pagus Wasia"
-  url: "/setts/r1db2dt1k3dt19db3y1db2y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1db2dt1k3dt19db3y1db2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/pagus-wasia-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBKBBR](/stripes/gbgbbkbbr/).
 
 Part of the [Pagus Wasia](/tartans/p/pa/pagus-wasia-2/) tartan — the named design grouping this sett with its other cloths.

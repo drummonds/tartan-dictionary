@@ -8,10 +8,10 @@ crumbs:
 - name: "Auburn University"
   url: "/tartans/a/au/auburn-university/"
 - name: "Auburn University (Alabama)"
-  url: "/setts/db3o3db24o30db3o2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3o3db24o30db3o2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/auburn-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBR](/stripes/brbrbr/).
 
 Part of the [Auburn University](/tartans/a/au/auburn-university/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=128](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Auburn University (Alabama) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=128">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #D87C00"></span><br><em>Designed in 2002 by Dr Phil Smith for Auburn University, Montgomery, Alabama, USA. Threadcount corrected in Sept 2004 in line with designer's note. Sole agents are Scotpress of P.O. Box 609, Auburn. AL 36831</em></li>
-<li>2002 — Auburn University (Alabama) (Corp) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5881">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B84C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #B84C00"></span><br><em>Designed in 2002 by Dr. Phil Smith for Auburn University, Montgomery, Alabama, USA. Sample in STA Collection. Count corrected Sept 2004 in line with designer's note. Sole agents were Scotpress (Rene & Vicki) of P.O. Box 609, Auburn. AL 36831 but passed to the university itelf (July 2011) - George Willock, Director of Planed Giving willoge@auburn.edu</em></li>
+<li>2002 — Auburn University (Alabama) (Corp) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5881/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B84C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #B84C00"></span><br><em>Designed in 2002 by Dr. Phil Smith for Auburn University, Montgomery, Alabama, USA. Sample in STA Collection. Count corrected Sept 2004 in line with designer's note. Sole agents were Scotpress (Rene & Vicki) of P.O. Box 609, Auburn. AL 36831 but passed to the university itelf (July 2011) - George Willock, Director of Planed Giving willoge@auburn.edu</em></li>
 </ul>
 </details>
 

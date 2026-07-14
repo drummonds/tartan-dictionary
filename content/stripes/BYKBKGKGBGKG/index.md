@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g10k1g10db1g1k1g1k1db10k1lo1dr1~x4/">Old Dobbs County (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g10k1g10db1g1k1g1k1db10k1lo1dr1~x4/"><img src="/variants/s12/g10k1g10db1g1k1g1k1db10k1lo1dr1~x4/sett.png" alt="Old Dobbs County (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/old-dobbs-county/">Old Dobbs County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/old-dobbs-county/"><img src="/variants/s12/g10k1g10db1g1k1g1k1db10k1lo1dr1~x4/sett.png" alt="Old Dobbs County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

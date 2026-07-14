@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/">Sandhu (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/"><img src="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/sett.png" alt="Sandhu (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sandhu-2/">Sandhu</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sandhu-2/"><img src="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/sett.png" alt="Sandhu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

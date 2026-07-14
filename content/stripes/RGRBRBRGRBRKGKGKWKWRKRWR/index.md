@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6~x2/">Anderson (Highland Society of London)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6~x2/"><img src="/variants/s24/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6~x2/sett.png" alt="Anderson (Highland Society of London) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/anderson-3/">Anderson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/anderson-3/"><img src="/variants/s24/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/">Strathearn (Royal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/"><img src="/variants/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/sett.png" alt="Strathearn (Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathearn-2/">Strathearn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathearn-2/"><img src="/variants/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/sett.png" alt="Strathearn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

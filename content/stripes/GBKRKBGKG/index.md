@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/">Manroth (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/"><img src="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/sett.png" alt="Manroth (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manroth/">Manroth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manroth/"><img src="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/sett.png" alt="Manroth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

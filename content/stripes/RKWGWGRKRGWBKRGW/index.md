@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/">MacKintosh 8</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/"><img src="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/sett.png" alt="MacKintosh 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackintosh-8/">MacKintosh 8</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-8/"><img src="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/sett.png" alt="MacKintosh 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

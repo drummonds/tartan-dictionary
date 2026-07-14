@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr6k1y1k2db2dr4o8k1r2~x4/">Bicentenary (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr6k1y1k2db2dr4o8k1r2~x4/"><img src="/variants/s9/dr6k1y1k2db2dr4o8k1r2~x4/sett.png" alt="Bicentenary (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bi/bicentenary/">Bicentenary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/bicentenary/"><img src="/variants/s9/dr6k1y1k2db2dr4o8k1r2~x4/sett.png" alt="Bicentenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

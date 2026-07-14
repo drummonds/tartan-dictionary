@@ -8,10 +8,10 @@ crumbs:
 - name: "Junior Chamber International"
   url: "/tartans/j/ju/junior-chamber-international/"
 - name: "Junior Chamber International"
-  url: "/setts/dg16k16db4dg3db12lo2db12dg3db4k16dg16dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg16k16db4dg3db12lo2db12dg3db4k16dg16dr4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ju/junior-chamber-international/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBGBYBGBKG](/stripes/bgkbgbybgbkg/).
 
 Part of the [Junior Chamber International](/tartans/j/ju/junior-chamber-international/) tartan — the named design grouping this sett with its other cloths.

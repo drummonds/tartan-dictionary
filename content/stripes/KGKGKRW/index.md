@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/">Partick Thistle Football Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><img src="/variants/s7/k53dy4k7dy2k4r30w3~x2/sett.png" alt="Partick Thistle Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/partick-thistle-football-club/">Partick Thistle Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/partick-thistle-football-club/"><img src="/variants/s7/k53dy4k7dy2k4r30w3~x2/sett.png" alt="Partick Thistle Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Port Authority of NY & NJ"
   url: "/tartans/p/po/port-authority-of-ny-nj/"
 - name: "Port Authority of NY & NJ"
-  url: "/setts/lb9db2lb39dbi33ly2dbi5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb9db2lb39dbi33ly2dbi5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/port-authority-of-ny-nj/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBWBW](/stripes/bybwbw/).
 
 Part of the [Port Authority of NY & NJ](/tartans/p/po/port-authority-of-ny-nj/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3357](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/10/2005 — Port Authority of NY & NJ (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3357">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Designed by Clair Hunter (nee Donaldson) of The House of Edgar for The Pipers Cove - a Highland dress shop in Kearney, New Jersey for use by the Pipers' Cove Pipe Band.</em></li>
-<li>2005, October — Port Authority of NY & NJ (Corporate (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6793">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Designed by Clair Hunter (ne? Donaldson) of The House of Edgar for The Pipers Cove - a Highland dress shop in Kearney, New Jersey for use by the Pipers' Cove Pipe Band.</em></li>
+<li>2005, October — Port Authority of NY & NJ (Corporate (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6793/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Designed by Clair Hunter (ne? Donaldson) of The House of Edgar for The Pipers Cove - a Highland dress shop in Kearney, New Jersey for use by the Pipers' Cove Pipe Band.</em></li>
 </ul>
 </details>
 

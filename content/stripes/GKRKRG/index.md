@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg16k57r36k2r4dg2/">Rosser of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg16k57r36k2r4dg2/"><img src="/variants/s6/dg16k57r36k2r4dg2/sett.png" alt="Rosser of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rosser/">Rosser</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rosser/"><img src="/variants/s6/dg16k57r36k2r4dg2/sett.png" alt="Rosser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

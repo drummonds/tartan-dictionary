@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lr6dr16db20dbi18lb5dbi18t6dbi4~db1404245-dbi1406275/">Queen of the South F.C. (Sports)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lr6dr16db20dbi18lb5dbi18t6dbi4~db1404245-dbi1406275/"><img src="/variants/s8/lr6dr16db20dbi18lb5dbi18t6dbi4~db1404245-dbi1406275/sett.png" alt="Queen of the South F.C. (Sports) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/queen-of-the-south-f-c/">Queen of the South F.C.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/queen-of-the-south-f-c/"><img src="/variants/s8/lr6dr16db20dbi18lb5dbi18t6dbi4~db1404245-dbi1406275/sett.png" alt="Queen of the South F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

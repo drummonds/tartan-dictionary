@@ -8,15 +8,15 @@ crumbs:
 - name: "Orlando Fire Department"
   url: "/tartans/o/or/orlando-fire-department/"
 - name: "Orlando Fire Department"
-  url: "/setts/db12y1r16db1r1db14r3db14y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db12y1r16db1r1db14r3db14y1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGRBRBRBGBRBRBRG](/stripes/bgrbrbrbgbrbrbrg/).
+provenance below. It is one weaving of the [sett](/tartans/o/or/orlando-fire-department/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGRBRBRBG](/stripes/bgrbrbrbg/).
 
 Part of the [Orlando Fire Department](/tartans/o/or/orlando-fire-department/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5354](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5354)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3090
 
 ## Thread count
-DB/48 Y4 R64 DB4 R4 DB56 R12 DB56 Y4 DB56 R12 DB56 R4 DB4 R64 Y/4
+DB/48 Y4 R64 DB4 R4 DB56 R12 DB56 Y/4
 
-One full sett is **852 threads**.
+One full sett is **452 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/48 Y4 R64 DB4 R4 DB56 R12 DB56 Y4 DB56 R12 DB56 R4 DB4 R64 Y/4 — 852 threads; it folds to the canonical 452-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **852 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/48 Y4 R64 DB4 R4 DB56 R12 DB56 Y4 DB56 R12 DB56 R4 DB4 R64 Y/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/48 Y4 R64 DB4 R4 DB56 R12 DB56 Y/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

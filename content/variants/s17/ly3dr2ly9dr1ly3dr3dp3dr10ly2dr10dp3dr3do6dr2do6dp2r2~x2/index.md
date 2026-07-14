@@ -8,10 +8,10 @@ crumbs:
 - name: "Thom, Calum"
   url: "/tartans/t/th/thom-calum/"
 - name: "Thom, Calum (Personal)"
-  url: "/setts/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thom-calum/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBBBBBYBBBYBYBY](/stripes/rbbbbbbbybbbybyby/).
 
 Part of the [Thom, Calum](/tartans/t/th/thom-calum/) tartan — the named design grouping this sett with its other cloths.

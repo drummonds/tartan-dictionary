@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/dp12db12dp24db12dp12k5r2k5r2dp4k2db3k2db3k2dp4k5r2k5~x2/">Burns, Virginia (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/dp12db12dp24db12dp12k5r2k5r2dp4k2db3k2db3k2dp4k5r2k5~x2/"><img src="/variants/s19/dp12db12dp24db12dp12k5r2k5r2dp4k2db3k2db3k2dp4k5r2k5~x2/sett.png" alt="Burns, Virginia (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burns-virginia-2/">Burns, Virginia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burns-virginia-2/"><img src="/variants/s19/dp12db12dp24db12dp12k5r2k5r2dp4k2db3k2db3k2dp4k5r2k5~x2/sett.png" alt="Burns, Virginia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

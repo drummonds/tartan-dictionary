@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y4g2w3g40w3g3w4g3w13g4~x2/">St Patrick Trade or Fancy Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y4g2w3g40w3g3w4g3w13g4~x2/"><img src="/variants/s10/y4g2w3g40w3g3w4g3w13g4~x2/sett.png" alt="St Patrick Trade or Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/">St. Patrick (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><img src="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/sett.png" alt="St. Patrick (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-patrick-trade-or-fancy/">St Patrick Trade or Fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-patrick-trade-or-fancy/"><img src="/variants/s10/y4g2w3g40w3g3w4g3w13g4~x2/sett.png" alt="St Patrick Trade or Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-patrick/">St. Patrick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-patrick/"><img src="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/sett.png" alt="St. Patrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

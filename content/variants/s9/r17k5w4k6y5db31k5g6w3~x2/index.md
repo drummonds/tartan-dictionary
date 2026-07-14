@@ -8,10 +8,10 @@ crumbs:
 - name: "Dean/Dundas"
   url: "/tartans/d/de/dean-dundas/"
 - name: "Dean/Dundas (Melbourne, Australia) (Personal)"
-  url: "/setts/r17k5w4k6y5db31k5g6w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r17k5w4k6y5db31k5g6w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/dean-dundas/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKGBKGW](/stripes/rkwkgbkgw/).
 
 Part of the [Dean/Dundas](/tartans/d/de/dean-dundas/) tartan — the named design grouping this sett with its other cloths.

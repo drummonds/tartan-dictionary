@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r4t11k3t3k3t4k15g36w3~x2/">Semple (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r4t11k3t3k3t4k15g36w3~x2/"><img src="/variants/s9/r4t11k3t3k3t4k15g36w3~x2/sett.png" alt="Semple (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/">Semple Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/"><img src="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/sett.png" alt="Semple Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/semple-2/">Semple</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/semple-2/"><img src="/variants/s9/r4t11k3t3k3t4k15g36w3~x2/sett.png" alt="Semple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Oban"
   url: "/tartans/o/ob/oban/"
 - name: "Oban Grey District Tartan"
-  url: "/setts/k4w3k4n9r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4w3k4n9r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ob/oban/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKBR](/stripes/kwkbr/).
 
 Part of the [Oban](/tartans/o/ob/oban/) tartan — the named design grouping this sett with its other cloths.

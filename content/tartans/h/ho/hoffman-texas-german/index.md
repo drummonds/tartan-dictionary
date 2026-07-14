@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k23r27db3r5w3k14y6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkwrbrk/">GKWRBRK</a></nav>
 Its design is pattern [GKWRBRK](/stripes/gkwrbrk/) — the page of every tartan sharing this colour sequence.
 
 The **Hoffman Texas German** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Hoffman Texas German** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k23r27db3r5w3k14y6/">Hoffman Texas German</a></td><td><code>K/46 R54 DB6 R10 W6 K28 Y/12</code></td><td>266</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k23r27db3r5w3k14y6/"><img src="/variants/s7/k23r27db3r5w3k14y6~x2/sett.png" alt="Hoffman Texas German sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k23r27db3r5w3k14y6~x2/">Hoffman Texas German</a></td><td><code>K/46 R54 DB6 R10 W6 K28 Y/12</code></td><td>266</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><img src="/variants/s7/k23r27db3r5w3k14y6~x2/sett.png" alt="Hoffman Texas German sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/"><circle cx="214.2" cy="198.4" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s6/r8k8y1k8r8w1~x4/"><circle cx="212.3" cy="198.7" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="231.2" cy="157.3" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="223.7" cy="151.8" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s6/k4r26k4w2k13y4~x2/"><circle cx="244.5" cy="144.5" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s8/k8y4k16db10r19db10w2r6~x2/"><circle cx="104.6" cy="185.4" r="4" fill="#3465a4"><title>Sullivan of Braemar</title></circle></a><a href="/variants/s8/k14w2k3n14lb6r14k2r3~x2/"><circle cx="87.8" cy="177.2" r="4" fill="#3465a4"><title>Raytheon</title></circle></a><a href="/variants/s8/k22ly4k4g4k16r36y3r6~x2/"><circle cx="199.9" cy="130.0" r="4" fill="#3465a4"><title>Dean Brae</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="185.0" cy="193.6" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="162.2" cy="189.7" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special</title></circle></a><circle cx="181.2" cy="157.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/"><circle cx="214.8" cy="198.3" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s6/r8k8y1k8r8w1~x4/"><circle cx="212.9" cy="198.7" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="232.0" cy="157.3" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="224.5" cy="151.7" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s6/k4r26k4w2k13y4~x2/"><circle cx="245.3" cy="144.5" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s8/k8y4k16db10r19db10w2r6~x2/"><circle cx="104.9" cy="185.1" r="4" fill="#3465a4"><title>Sullivan of Braemar</title></circle></a><a href="/variants/s8/k14w2k3n14lb6r14k2r3~x2/"><circle cx="88.0" cy="176.8" r="4" fill="#3465a4"><title>Raytheon</title></circle></a><a href="/variants/s8/k22ly4k4g4k16r36y3r6~x2/"><circle cx="200.6" cy="129.8" r="4" fill="#3465a4"><title>Dean Brae</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="185.5" cy="193.5" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="162.6" cy="189.6" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special</title></circle></a><circle cx="181.8" cy="157.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

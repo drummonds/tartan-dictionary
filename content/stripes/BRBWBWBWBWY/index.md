@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4~x2/">Tasmania (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4~x2/"><img src="/variants/s11/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4~x2/sett.png" alt="Tasmania (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tasmania/">Tasmania</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tasmania/"><img src="/variants/s11/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4~x2/sett.png" alt="Tasmania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

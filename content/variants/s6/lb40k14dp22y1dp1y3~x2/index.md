@@ -8,10 +8,10 @@ crumbs:
 - name: "British Energy"
   url: "/tartans/b/br/british-energy/"
 - name: "British Energy Corporate Tartan"
-  url: "/setts/lb40k14dp22y1dp1y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb40k14dp22y1dp1y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/british-energy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKW](/stripes/gbgbkw/).
 
 Part of the [British Energy](/tartans/b/br/british-energy/) tartan — the named design grouping this sett with its other cloths.

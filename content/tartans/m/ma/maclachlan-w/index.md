@@ -6,19 +6,25 @@ crumbs:
   url: "/"
 - name: "Clan MacLachlan"
   url: "/clan/maclachlan/"
+aliases:
+- "/setts/r24w2y3g16k16w2y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwkggwr/">GWKGGWR</a></nav>
 A tartan of [Clan MacLachlan](/clan/maclachlan/).
 Its design is pattern [GWKGGWR](/stripes/gwkggwr/) — the page of every tartan sharing this colour sequence.
 
 Oldest MacLachlan sett bearing the name, dated to 1790; also called Hunting MacLachlan, first published 1893.
 
-The **MacLachlan W** tartan is recorded as a single sett.
+The **MacLachlan W** tartan is one sett, recorded at 2 scales — the same proportion woven
+finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r24w2y3g16k16w2y3/">MacLachlan W</a></td><td><code>R/48 W4 Y6 G32 K32 W4 Y/6</code></td><td>210</td><td>1790</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r24w2y3g16k16w2y3/"><img src="/variants/s7/r24w2y3g16k16w2y3~x2/sett.png" alt="MacLachlan W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r24w2y3g16k16w2y3~x2/">MacLachlan W</a></td><td><code>R/24 W2 Y3 G16 K16 W2 Y/3</code></td><td>105</td><td>1790</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r24w2y3g16k16w2y3~x2/"><img src="/variants/s7/r24w2y3g16k16w2y3~x2/sett.png" alt="MacLachlan W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/r24w2y3g16k16w2y3/">MacLachlan W</a></td><td><code>R/24 W2 Y3 G16 K16 W2 Y/3</code></td><td>105</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r24w2y3g16k16w2y3~x2/">MacLachlan #4</a></td><td><code>R/48 W4 Y6 G32 K32 W4 Y/6</code></td><td>210</td><td>1790</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r24w2y3g16k16w2y3/">MacLachlan W</a> · <a href="/variants/s7/r24w2y3g16k16w2y3~x2/">MacLachlan #4</a></td></tr>
 </tbody>
 </table>
@@ -39,6 +45,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y3dy6g10k18r22w3~x2/"><circle cx="84.0" cy="180.8" r="4" fill="#3465a4"><title>Tyrolean</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="207.3" cy="187.1" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="176.2" cy="200.0" r="4" fill="#3465a4"><title>Sachie Hara</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.8" cy="169.0" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="178.6" cy="154.1" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.8" cy="157.5" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="149.7" cy="146.7" r="4" fill="#3465a4"><title>Garvock</title></circle></a><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/"><circle cx="122.5" cy="154.4" r="4" fill="#3465a4"><title>Project, Faith Inc</title></circle></a><a href="/variants/s6/r2w12y1k12o12k1~x2/"><circle cx="108.5" cy="162.5" r="4" fill="#3465a4"><title>Dutch Dress</title></circle></a><a href="/variants/s10/r4g7y3g12k16lb5r20lb5k4lb2~x2/"><circle cx="82.9" cy="164.8" r="4" fill="#3465a4"><title>Unidentified 25</title></circle></a><circle cx="132.1" cy="156.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y3dy6g10k18r22w3~x2/"><circle cx="84.2" cy="180.5" r="4" fill="#3465a4"><title>Tyrolean</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="207.7" cy="187.0" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="176.5" cy="199.9" r="4" fill="#3465a4"><title>Sachie Hara</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="135.0" cy="168.7" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="179.1" cy="153.9" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="161.3" cy="157.3" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="150.1" cy="146.5" r="4" fill="#3465a4"><title>Garvock</title></circle></a><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/"><circle cx="122.8" cy="154.2" r="4" fill="#3465a4"><title>Project, Faith Inc</title></circle></a><a href="/variants/s6/r2w12y1k12o12k1~x2/"><circle cx="108.9" cy="162.2" r="4" fill="#3465a4"><title>Dutch Dress</title></circle></a><a href="/variants/s10/r4g7y3g12k16lb5r20lb5k4lb2~x2/"><circle cx="83.1" cy="164.4" r="4" fill="#3465a4"><title>Unidentified 25</title></circle></a><circle cx="132.4" cy="155.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

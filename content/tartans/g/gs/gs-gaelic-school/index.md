@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db30r5g30r22db30r5g4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgrbrg/">BRGRBRG</a></nav>
 Its design is pattern [BRGRBRG](/stripes/brgrbrg/) — the page of every tartan sharing this colour sequence.
 
 The **GS Gaelic School** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **GS Gaelic School** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db30r5g30r22db30r5g4/">GS Gaelic School</a></td><td><code>DB/30 R5 G30 R22 DB30 R5 G/4</code></td><td>218</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db30r5g30r22db30r5g4/"><img src="/variants/s7/db30r5g30r22db30r5g4/sett.png" alt="GS Gaelic School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db30r5g30r22db30r5g4/">GS Gaelic School</a></td><td><code>DB/30 R5 G30 R22 DB30 R5 G/4</code></td><td>218</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db30r5g30r22db30r5g4/"><img src="/variants/s7/db30r5g30r22db30r5g4/sett.png" alt="GS Gaelic School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><circle cx="257.7" cy="246.8" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s7/r3db1r1db11g10r2db2~x4/"><circle cx="286.8" cy="210.5" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="230.9" cy="231.3" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s8/db1r1g6db6y1db6r1g1~x2/"><circle cx="297.7" cy="224.2" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="193.6" cy="278.7" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="264.6" cy="237.6" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="275.6" cy="198.1" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="297.3" cy="282.6" r="4" fill="#3465a4"><title>MacBean of Tomatin</title></circle></a><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><circle cx="260.9" cy="232.9" r="4" fill="#3465a4"><title>MacFadyan</title></circle></a><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><circle cx="272.1" cy="204.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><circle cx="255.5" cy="245.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><circle cx="258.0" cy="246.8" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s7/r3db1r1db11g10r2db2~x4/"><circle cx="287.3" cy="210.5" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="231.2" cy="231.3" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s8/db1r1g6db6y1db6r1g1~x2/"><circle cx="298.2" cy="224.3" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="193.7" cy="278.7" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="264.9" cy="237.6" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="276.1" cy="198.1" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="297.5" cy="282.7" r="4" fill="#3465a4"><title>MacBean of Tomatin</title></circle></a><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><circle cx="261.3" cy="232.9" r="4" fill="#3465a4"><title>MacFadyan</title></circle></a><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><circle cx="272.5" cy="204.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><circle cx="255.9" cy="245.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

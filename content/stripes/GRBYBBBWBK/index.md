@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k4db6w4db6do8db37lr12do46r6y4~do1301000-lr3000000/">MacLeroy and Troine 1987</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k4db6w4db6do8db37lr12do46r6y4~do1301000-lr3000000/"><img src="/variants/s10/k4db6w4db6do8db37lr12do46r6y4~do1301000-lr3000000/sett.png" alt="MacLeroy and Troine 1987 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleroy-and-troine-1987/">MacLeroy and Troine 1987</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleroy-and-troine-1987/"><img src="/variants/s10/k4db6w4db6do8db37lr12do46r6y4~do1301000-lr3000000/sett.png" alt="MacLeroy and Troine 1987 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Ontario"
   url: "/tartans/o/on/ontario/"
 - name: "Ontario"
-  url: "/setts/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/on/ontario/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGGBGBGBKRKG](/stripes/bgbgggbgbgbkrkg/).
 
 Part of the [Ontario](/tartans/o/on/ontario/) tartan — the named design grouping this sett with its other cloths.

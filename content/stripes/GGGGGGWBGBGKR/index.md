@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/">Ellis Island</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/"><img src="/variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/sett.png" alt="Ellis Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/ellis-island/">Ellis Island</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/ellis-island/"><img src="/variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/sett.png" alt="Ellis Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2t13dr3t3dr16lb2~x4/">MacArthur-Fox Blue (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2t13dr3t3dr16lb2~x4/"><img src="/variants/s6/r2t13dr3t3dr16lb2~x4/sett.png" alt="MacArthur-Fox Blue (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r2db13dr3db3dr16lb2~x4/">MacArthur-Fox Dress Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2db13dr3db3dr16lb2~x4/"><img src="/variants/s6/r2db13dr3db3dr16lb2~x4/sett.png" alt="MacArthur-Fox Dress Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macarthur-fox-4/">MacArthur-Fox</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macarthur-fox-4/"><img src="/variants/s6/r2t13dr3t3dr16lb2~x4/sett.png" alt="MacArthur-Fox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macarthur-fox-dress/">MacArthur-Fox Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macarthur-fox-dress/"><img src="/variants/s6/r2db13dr3db3dr16lb2~x4/sett.png" alt="MacArthur-Fox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/r9t6db13t21n18w4~x2/">Fox-Eves Wedding (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r9t6db13t21n18w4~x2/"><img src="/variants/s6/r9t6db13t21n18w4~x2/sett.png" alt="Fox-Eves Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/fox-eves-wedding/">Fox-Eves Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fox-eves-wedding/"><img src="/variants/s6/r9t6db13t21n18w4~x2/sett.png" alt="Fox-Eves Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

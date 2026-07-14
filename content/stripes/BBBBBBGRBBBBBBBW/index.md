@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4/">Spirit of Romania</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4/"><img src="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2~db1108266-t2205244/sett.png" alt="Spirit of Romania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-romania/">Spirit of Romania</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-romania/"><img src="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2~db1108266-t2205244/sett.png" alt="Spirit of Romania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k20db50g50r3k3~x2/">Louisville Spalding (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k20db50g50r3k3~x2/"><img src="/variants/s5/k20db50g50r3k3~x2/sett.png" alt="Louisville Spalding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k20db50dg50r3k3~x2/">Louisville Spaulding (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k20db50dg50r3k3~x2/"><img src="/variants/s5/k20db50dg50r3k3~x2/sett.png" alt="Louisville Spaulding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/louisville-spalding/">Louisville Spalding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/louisville-spalding/"><img src="/variants/s5/k20db50g50r3k3~x2/sett.png" alt="Louisville Spalding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/louisville-spaulding/">Louisville Spaulding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/louisville-spaulding/"><img src="/variants/s5/k20db50dg50r3k3~x2/sett.png" alt="Louisville Spaulding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k31r12y2n5k2~x4/">Perry (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k31r12y2n5k2~x4/"><img src="/variants/s5/k31r12y2n5k2~x4/sett.png" alt="Perry (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perry-2/">Perry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perry-2/"><img src="/variants/s5/k31r12y2n5k2~x4/sett.png" alt="Perry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

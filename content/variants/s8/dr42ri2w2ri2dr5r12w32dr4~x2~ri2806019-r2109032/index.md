@@ -10,10 +10,10 @@ crumbs:
 - name: "Longniddry Burgundy"
   url: "/tartans/l/lo/longniddry-burgundy/"
 - name: "Longniddry Burgundy (Dance)"
-  url: "/setts/dr42ri2w2ri2dr5r12w32dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr42ri2w2ri2dr5r12w32dr4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/longniddry-burgundy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRBRWB](/stripes/brwrbrwb/).
 
 Part of the [Longniddry Burgundy](/tartans/l/lo/longniddry-burgundy/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2206](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Longniddry Burgundy (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2206">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A Dancers' Fancy from D.C. Dalgliesh of Selkirk.</em></li>
-<li>pre 2002 — Longniddry, Burgundy (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1651">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A Dancers' Fancy from D.C. Dalgliesh of Selkirk.</em></li>
+<li>pre 2002 — Longniddry, Burgundy (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1651/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A Dancers' Fancy from D.C. Dalgliesh of Selkirk.</em></li>
 </ul>
 </details>
 

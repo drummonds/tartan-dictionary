@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/p8w4p50k12p4k15r5~x2/">Instakilt, Blue (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/p8w4p50k12p4k15r5~x2/"><img src="/variants/s7/p8w4p50k12p4k15r5~x2/sett.png" alt="Instakilt, Blue (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/instakilt-2/">Instakilt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/instakilt-2/"><img src="/variants/s7/p8w4p50k12p4k15r5~x2/sett.png" alt="Instakilt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

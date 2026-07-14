@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dp3n3dp3n27w1t15k22r3~x2/">Beauly Firth and Glens</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp3n3dp3n27w1t15k22r3~x2/"><img src="/variants/s8/dp3n3dp3n27w1t15k22r3~x2/sett.png" alt="Beauly Firth and Glens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/beauly-firth-and-glens/">Beauly Firth and Glens</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/beauly-firth-and-glens/"><img src="/variants/s8/dp3n3dp3n27w1t15k22r3~x2/sett.png" alt="Beauly Firth and Glens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

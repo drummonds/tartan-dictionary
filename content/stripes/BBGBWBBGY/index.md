@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dp35dt2dy1dt1lb1dt5dr2g5lo4~x2/">Millennium (Langholm) (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp35dt2dy1dt1lb1dt5dr2g5lo4~x2/"><img src="/variants/s9/dp35dt2dy1dt1lb1dt5dr2g5lo4~x2/sett.png" alt="Millennium (Langholm) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/millennium/">Millennium</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/millennium/"><img src="/variants/s9/dp35dt2dy1dt1lb1dt5dr2g5lo4~x2/sett.png" alt="Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

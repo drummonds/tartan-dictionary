@@ -8,10 +8,10 @@ crumbs:
 - name: "Round Table"
   url: "/tartans/r/ro/round-table-2/"
 - name: "Round Table"
-  url: "/setts/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/round-table-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWBKWKWKBWBWBWWWWWBKWBW](/stripes/wbwbwbkwkwkbwbwbwwwwwbkwbw/).
 
 Part of the [Round Table](/tartans/r/ro/round-table-2/) tartan — the named design grouping this sett with its other cloths.

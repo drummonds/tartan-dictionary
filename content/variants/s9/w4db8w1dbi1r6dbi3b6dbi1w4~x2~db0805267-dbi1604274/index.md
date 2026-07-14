@@ -10,15 +10,15 @@ crumbs:
 - name: "Womble"
   url: "/families/womble/"
 - name: "Womble"
-  url: "/tartans/w/wo/womble/"
+  url: "/tartans/w/wo/womble-2/"
 - name: "Womble"
-  url: "/setts/w4db8w1dbi1r6dbi3b6dbi1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db8w1dbi1r6dbi3b6dbi1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wo/womble-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBRBWBW](/stripes/wbbbrbwbw/).
 
-Part of the [Womble](/tartans/w/wo/womble/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Womble](/tartans/w/wo/womble-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/">Unidentified from Winnipeg</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/"><img src="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/sett.png" alt="Unidentified from Winnipeg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-from-winnipeg/">Unidentified from Winnipeg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-from-winnipeg/"><img src="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/sett.png" alt="Unidentified from Winnipeg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

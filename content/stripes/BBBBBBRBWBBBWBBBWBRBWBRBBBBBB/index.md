@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/n38db3n5db3n5db3r13db3lb5db3r13db3lp5db3n12db3w5db3n12db3lb5db3r13db3n5db3n5db3n36/">Kumikyoku - Wind of Thistle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/n38db3n5db3n5db3r13db3lb5db3r13db3lp5db3n12db3w5db3n12db3lb5db3r13db3n5db3n5db3n36/"><img src="/variants/s29/n38db3n5db3n5db3r13db3lb5db3r13db3lp5db3n12db3w5db3n12db3lb5db3r13db3n5db3n5db3n36/sett.png" alt="Kumikyoku - Wind of Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ku/kumikyoku-3/">Kumikyoku</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ku/kumikyoku-3/"><img src="/variants/s29/n38db3n5db3n5db3r13db3lb5db3r13db3lp5db3n12db3w5db3n12db3lb5db3r13db3n5db3n5db3n36/sett.png" alt="Kumikyoku sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

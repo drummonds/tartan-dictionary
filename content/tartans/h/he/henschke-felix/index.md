@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg42y1k23dr7w1db4y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbwbkgg/">GBWBKGG</a></nav>
 Its design is pattern [GBWBKGG](/stripes/gbwbkgg/) — the page of every tartan sharing this colour sequence.
 
 The **Henschke, Felix** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Henschke, Felix** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg42y1k23dr7w1db4y3/">Henschke, Felix</a></td><td><code>DG/84 Y2 K46 DR14 W2 DB8 Y/6</code></td><td>234</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg42y1k23dr7w1db4y3/"><img src="/variants/s7/dg42y1k23dr7w1db4y3~x2/sett.png" alt="Henschke, Felix sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/">Henschke, Felix</a></td><td><code>DG/84 Y2 K46 DR14 W2 DB8 Y/6</code></td><td>234</td><td>2016</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><img src="/variants/s7/dg42y1k23dr7w1db4y3~x2/sett.png" alt="Henschke, Felix sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="301.7" cy="77.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="422.0" cy="133.2" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="301.2" cy="153.3" r="4" fill="#3465a4"><title>Holehouse, Dag</title></circle></a><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="394.2" cy="106.0" r="4" fill="#3465a4"><title>Jack</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="339.6" cy="92.5" r="4" fill="#3465a4"><title>Josse , Gilbert</title></circle></a><a href="/variants/s6/db1lb2k50dg50ly2r1~x2/"><circle cx="324.3" cy="86.2" r="4" fill="#3465a4"><title>Josse</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="380.1" cy="135.7" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><circle cx="269.9" cy="147.2" r="4" fill="#3465a4"><title>Singh, Gopal</title></circle></a><a href="/variants/s7/y2do4dg11k30r2db16w1~x2/"><circle cx="212.7" cy="99.0" r="4" fill="#3465a4"><title>Buschke</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="235.0" cy="158.8" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><circle cx="313.9" cy="99.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="302.7" cy="77.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="422.9" cy="133.4" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="301.8" cy="153.4" r="4" fill="#3465a4"><title>Holehouse, Dag</title></circle></a><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="395.2" cy="106.1" r="4" fill="#3465a4"><title>Jack</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="340.5" cy="92.7" r="4" fill="#3465a4"><title>Josse , Gilbert</title></circle></a><a href="/variants/s6/db1lb2k50dg50ly2r1~x2/"><circle cx="325.3" cy="86.3" r="4" fill="#3465a4"><title>Josse</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="381.0" cy="135.9" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><circle cx="270.5" cy="147.2" r="4" fill="#3465a4"><title>Singh, Gopal</title></circle></a><a href="/variants/s7/y2do4dg11k30r2db16w1~x2/"><circle cx="213.4" cy="98.9" r="4" fill="#3465a4"><title>Buschke</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="235.5" cy="158.7" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><circle cx="314.7" cy="99.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

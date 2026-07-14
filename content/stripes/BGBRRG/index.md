@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db47g14do5o2r3g7~x2/">Round Table of Britain and Ireland, RtbI.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db47g14do5o2r3g7~x2/"><img src="/variants/s6/db47g14do5o2r3g7~x2/sett.png" alt="Round Table of Britain and Ireland, RtbI. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/round-table-of-britain-and-ireland-rtbi/">Round Table of Britain and Ireland, RtbI.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/round-table-of-britain-and-ireland-rtbi/"><img src="/variants/s6/db47g14do5o2r3g7~x2/sett.png" alt="Round Table of Britain and Ireland, RtbI. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

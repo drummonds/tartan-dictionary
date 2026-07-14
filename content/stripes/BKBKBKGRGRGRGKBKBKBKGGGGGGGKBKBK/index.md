@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/">Gordon #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/"><img src="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/sett.png" alt="Gordon #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gordon-6/">Gordon 6</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gordon-6/"><img src="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/sett.png" alt="Gordon 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

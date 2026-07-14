@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1~x4/">Merchant Company, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1~x4/"><img src="/variants/s13/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1~x4/sett.png" alt="Merchant Company, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/merchant-company-the/">Merchant Company, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/merchant-company-the/"><img src="/variants/s13/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1~x4/sett.png" alt="Merchant Company, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

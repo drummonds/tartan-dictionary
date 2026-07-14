@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k2n2w4n6w27n15k42n2w2/">Swansea City AFC</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k2n2w4n6w27n15k42n2w2/"><img src="/variants/s9/k2n2w4n6w27n15k42n2w2/sett.png" alt="Swansea City AFC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sw/swansea-city-afc/">Swansea City AFC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/swansea-city-afc/"><img src="/variants/s9/k2n2w4n6w27n15k42n2w2/sett.png" alt="Swansea City AFC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

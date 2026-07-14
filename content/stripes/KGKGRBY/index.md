@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/">Selvon-Bruce (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/"><img src="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/sett.png" alt="Selvon-Bruce (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/selvon-bruce/">Selvon-Bruce</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/selvon-bruce/"><img src="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/sett.png" alt="Selvon-Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

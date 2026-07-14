@@ -12,10 +12,10 @@ crumbs:
 - name: "Jardine"
   url: "/tartans/j/ja/jardine-4/"
 - name: "Jardine"
-  url: "/setts/do18o9n9r1lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do18o9n9r1lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ja/jardine-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRW](/stripes/brbrw/).
 
 Part of the [Jardine](/tartans/j/ja/jardine-4/) tartan — the named design grouping this sett with its other cloths.

@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Coronation"
   url: "/tartans/c/co/coronation/"
-- name: "Coronation"
-  url: "/setts/db11w1r12db6r1db6w1/"
+- name: "Coronation (1936) #2"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11w1r12db6r1db6w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/coronation/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBRBW](/stripes/bwrbrbw/).
 
 Part of the [Coronation](/tartans/c/co/coronation/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=771](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Coronation (1936) #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=771">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed to commemorate the 1936 Coronation of King George VI. This is an alternative count to #661 (original Scottish Tartans Authority reference) from Coulson Bonner although why an alternative is needed if a physical sample exists in the McGregor Hastie Collection (#661) is not known. Sindex notes say Trade sett and in McGregor Hastie Collection 1936.</em></li>
-<li>pre 2002 — Coronation (1936) #2 (Commemorative) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2082">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed to commemorate the 1936 Coronation of King George VI. This is an alternative count to # 661 from Coulson Bonner although why an alternative is needed if a physical sample exists in the McGregor Hastie Collection (#661)is not known. Sindex notes say Trade sett and in Mcgregor Hastie Collection 1936.</em></li>
+<li>pre 2002 — Coronation (1936) #2 (Commemorative) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2082/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed to commemorate the 1936 Coronation of King George VI. This is an alternative count to # 661 from Coulson Bonner although why an alternative is needed if a physical sample exists in the McGregor Hastie Collection (#661)is not known. Sindex notes say Trade sett and in Mcgregor Hastie Collection 1936.</em></li>
 </ul>
 </details>
 

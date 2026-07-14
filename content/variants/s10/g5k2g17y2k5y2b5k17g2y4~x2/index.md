@@ -8,10 +8,10 @@ crumbs:
 - name: "Antrim"
   url: "/tartans/a/an/antrim/"
 - name: "Antrim"
-  url: "/setts/g5k2g17y2k5y2b5k17g2y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g5k2g17y2k5y2b5k17g2y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/antrim/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBGKGGKG](/stripes/ggkbgkggkg/).
 
 Part of the [Antrim](/tartans/a/an/antrim/) tartan — the named design grouping this sett with its other cloths.

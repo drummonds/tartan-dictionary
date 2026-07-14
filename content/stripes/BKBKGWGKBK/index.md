@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/">Argyll Campbell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><img src="/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/sett.png" alt="Argyll Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/argyll-campbell/">Argyll Campbell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/argyll-campbell/"><img src="/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/sett.png" alt="Argyll Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dr4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60dr4dg4~x2/">Orvis Sports Company</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dr4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><img src="/variants/s18/dr4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60dr4dg4~x2/sett.png" alt="Orvis Sports Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/orvis-sports-company-2/">Orvis Sports Company</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orvis-sports-company-2/"><img src="/variants/s18/dr4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60dr4dg4~x2/sett.png" alt="Orvis Sports Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

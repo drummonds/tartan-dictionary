@@ -8,15 +8,15 @@ crumbs:
 - name: "House of Edgar Shotts & Dykehead"
   url: "/tartans/h/ho/house-of-edgar-shotts-dykehead/"
 - name: "House of Edgar Shotts & Dykehead"
-  url: "/setts/dbi10w2db3y2db2w2db2n14r22dbi2r6db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi10w2db3y2db2w2db2n14r22dbi2r6db2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBGBWBBRBRBRBRBBWBGBW](/stripes/bwbgbwbbrbrbrbrbbwbgbw/).
+provenance below. It is one weaving of the [sett](/tartans/h/ho/house-of-edgar-shotts-dykehead/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBBWBGBWB](/stripes/brbrbbwbgbwb/).
 
 Part of the [House of Edgar Shotts & Dykehead](/tartans/h/ho/house-of-edgar-shotts-dykehead/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1772](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1772)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5825
 
 ## Thread count
-DBi/20 W4 DB6 Y4 DB4 W4 DB4 N28 R44 DBi4 R12 DB4 R12 DBi4 R44 N28 DB4 W4 DB4 Y4 DB6 W/4
+DB/20 W4 DT6 Y4 DT4 W4 DT4 N28 R44 DB4 R12 DT/4
 
-One full sett is **480 threads**.
+One full sett is **252 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DBi/20 W4 DB6 Y4 DB4 W4 DB4 N28 R44 DBi4 R12 DB4 R12 DBi4 R44 N28 DB4 W4 DB4 Y4 DB6 W/4 — 480 threads; it folds to the canonical 252-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **480 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DBi/20 W4 DB6 Y4 DB4 W4 DB4 N28 R44 DBi4 R12 DB4 R12 DBi4 R44 N28 DB4 W4 DB4 Y4 DB6 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/20 W4 DT6 Y4 DT4 W4 DT4 N28 R44 DB4 R12 DT/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

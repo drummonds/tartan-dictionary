@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dy2b4y3dg28b28w2b4n2~x2/">Laurentian University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy2b4y3dg28b28w2b4n2~x2/"><img src="/variants/s8/dy2b4y3dg28b28w2b4n2~x2/sett.png" alt="Laurentian University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laurentian-university/">Laurentian University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laurentian-university/"><img src="/variants/s8/dy2b4y3dg28b28w2b4n2~x2/sett.png" alt="Laurentian University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

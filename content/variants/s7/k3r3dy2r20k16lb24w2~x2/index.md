@@ -8,10 +8,10 @@ crumbs:
 - name: "Oor Wullie"
   url: "/tartans/o/oo/oor-wullie/"
 - name: "Oor Wullie Corporate Tartan"
-  url: "/setts/k3r3dy2r20k16lb24w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3r3dy2r20k16lb24w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/oo/oor-wullie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRKWW](/stripes/krgrkww/).
 
 Part of the [Oor Wullie](/tartans/o/oo/oor-wullie/) tartan — the named design grouping this sett with its other cloths.

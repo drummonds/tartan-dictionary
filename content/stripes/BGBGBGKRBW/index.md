@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db4g1db2g2n6g2k3r1db8w1~x2/">EAIE 2015</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db4g1db2g2n6g2k3r1db8w1~x2/"><img src="/variants/s10/db4g1db2g2n6g2k3r1db8w1~x2/sett.png" alt="EAIE 2015 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ea/eaie-2015/">EAIE 2015</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ea/eaie-2015/"><img src="/variants/s10/db4g1db2g2n6g2k3r1db8w1~x2/sett.png" alt="EAIE 2015 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

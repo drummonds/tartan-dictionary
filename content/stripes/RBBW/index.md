@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/">Fong (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><img src="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/sett.png" alt="Fong (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/fong/">Fong</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fong/"><img src="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/sett.png" alt="Fong sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/r21b43dt86w10~b1511266-dt1203284/">Fong Wedding (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r21b43dt86w10~b1511266-dt1203284/"><img src="/variants/s4/r21b43dt86w10~b1511266-dt1203284/sett.png" alt="Fong Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/fong-wedding/">Fong Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fong-wedding/"><img src="/variants/s4/r21b43dt86w10~b1511266-dt1203284/sett.png" alt="Fong Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

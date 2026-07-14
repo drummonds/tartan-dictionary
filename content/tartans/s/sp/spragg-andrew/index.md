@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr2b16r1dr2r12y1lb1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbrbrgw/">BBRBRGW</a></nav>
 Its design is pattern [BBRBRGW](/stripes/bbrbrgw/) — the page of every tartan sharing this colour sequence.
 
 The **Spragg, Andrew** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Spragg, Andrew** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr2b16r1dr2r12y1lb1/">Spragg, Andrew</a></td><td><code>DR/4 B32 R2 DR4 R24 Y2 LB/2</code></td><td>134</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr2b16r1dr2r12y1lb1/"><img src="/variants/s7/dr2b16r1dr2r12y1lb1~x2/sett.png" alt="Spragg, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr2b16r1dr2r12y1lb1~x2/">Spragg, Andrew</a></td><td><code>DR/4 B32 R2 DR4 R24 Y2 LB/2</code></td><td>134</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr2b16r1dr2r12y1lb1~x2/"><img src="/variants/s7/dr2b16r1dr2r12y1lb1~x2/sett.png" alt="Spragg, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/"><circle cx="233.5" cy="140.1" r="4" fill="#3465a4"><title>Cherry, John S</title></circle></a><a href="/variants/s8/y6r21b2dg6b41lb2b2lb6/"><circle cx="327.5" cy="152.4" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s5/db15r2ri15t6lb1~x2~ri2109032-t2205244/"><circle cx="232.7" cy="198.6" r="4" fill="#3465a4"><title>O2</title></circle></a><a href="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/"><circle cx="250.1" cy="136.9" r="4" fill="#3465a4"><title>Hogeboom</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14b26g6/"><circle cx="261.6" cy="185.0" r="4" fill="#3465a4"><title>Cranston, dress</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="251.3" cy="207.6" r="4" fill="#3465a4"><title>Stevens</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="334.5" cy="180.3" r="4" fill="#3465a4"><title>Duminiak</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="268.5" cy="136.0" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/"><circle cx="343.1" cy="189.3" r="4" fill="#3465a4"><title>Tenmaya Check</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="370.6" cy="157.8" r="4" fill="#3465a4"><title>Reagan</title></circle></a><circle cx="307.2" cy="164.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/"><circle cx="234.1" cy="139.9" r="4" fill="#3465a4"><title>Cherry, John S</title></circle></a><a href="/variants/s8/y6r21b2dg6b41lb2b2lb6/"><circle cx="328.1" cy="152.3" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s5/db15r2ri15t6lb1~x2~ri2109032-t2205244/"><circle cx="233.0" cy="198.4" r="4" fill="#3465a4"><title>O2</title></circle></a><a href="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/"><circle cx="250.5" cy="136.6" r="4" fill="#3465a4"><title>Hogeboom</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14b26g6/"><circle cx="262.0" cy="184.9" r="4" fill="#3465a4"><title>Cranston, dress</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="251.6" cy="207.5" r="4" fill="#3465a4"><title>Stevens</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="335.0" cy="180.3" r="4" fill="#3465a4"><title>Duminiak</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="269.1" cy="135.9" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/"><circle cx="343.6" cy="189.4" r="4" fill="#3465a4"><title>Tenmaya Check</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="371.2" cy="157.8" r="4" fill="#3465a4"><title>Reagan</title></circle></a><circle cx="307.7" cy="164.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Savoy"
   url: "/tartans/s/sa/savoy/"
 - name: "Savoy"
-  url: "/setts/g16k8g1k1lb1g1lb1lo1g1k1n1g4k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16k8g1k1lb1g1lb1lo1g1k1n1g4k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/savoy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKWGWYGKBGK](/stripes/gkgkwgwygkbgk/).
 
 Part of the [Savoy](/tartans/s/sa/savoy/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3661](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1983 — Savoy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3661">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1983 — Savoy (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5383">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Sample in STA Johnston Collection.</em></li>
+<li>pre 1983 — Savoy (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5383/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r13dt13o5lo2dt13lo13/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbryby/">RBRYBY</a></nav>
 Its design is pattern [RBRYBY](/stripes/rbryby/) — the page of every tartan sharing this colour sequence.
 
 The **Torana** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Torana** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r13dt13o5lo2dt13lo13/">Torana</a></td><td><code>LO/26 DT26 LO4 O10 DT26 R/26</code></td><td>184</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r13dt13o5lo2dt13lo13/"><img src="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/sett.png" alt="Torana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/">Torana</a></td><td><code>R/26 DT26 O10 LO4 DT26 LO/26</code></td><td>184</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><img src="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/sett.png" alt="Torana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dy1r7dy4g7dy1g1~x4/"><circle cx="252.8" cy="258.9" r="4" fill="#3465a4"><title>Dewar</title></circle></a><a href="/variants/s7/dp2r4g12r3dp6r10w2~x2/"><circle cx="209.5" cy="238.9" r="4" fill="#3465a4"><title>MacKintosh-Geddes</title></circle></a><a href="/variants/s7/o7r3o9g15db19o14r4~x2/"><circle cx="211.6" cy="267.2" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="193.6" cy="278.7" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="222.8" cy="305.9" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="159.9" cy="264.3" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.1" cy="252.3" r="4" fill="#3465a4"><title>Dohmen</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="217.9" cy="284.5" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.0" cy="290.2" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="228.2" cy="287.7" r="4" fill="#3465a4"><title>Delroeux, John Michael</title></circle></a><circle cx="196.0" cy="272.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dy1r7dy4g7dy1g1~x4/"><circle cx="253.0" cy="258.9" r="4" fill="#3465a4"><title>Dewar</title></circle></a><a href="/variants/s7/dp2r4g12r3dp6r10w2~x2/"><circle cx="209.8" cy="238.8" r="4" fill="#3465a4"><title>MacKintosh-Geddes</title></circle></a><a href="/variants/s7/o7r3o9g15db19o14r4~x2/"><circle cx="211.7" cy="267.1" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="193.7" cy="278.7" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="222.8" cy="305.8" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="159.8" cy="264.0" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.4" cy="252.3" r="4" fill="#3465a4"><title>Dohmen</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="218.0" cy="284.4" r="4" fill="#3465a4"><title>Delroeux</title></circle></a><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.1" cy="290.2" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="228.4" cy="287.6" r="4" fill="#3465a4"><title>Delroeux, John Michael</title></circle></a><circle cx="196.1" cy="272.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

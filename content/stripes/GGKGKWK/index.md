@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/">Lawson, William 2002</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><img src="/variants/s7/k4w19k11dg15k3dg16y3~x2/sett.png" alt="Lawson, William 2002 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/k9w38k22g31k5g31y5/">Lawsons' Whisky</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k9w38k22g31k5g31y5/"><img src="/variants/s7/k9w38k22g31k5g31y5/sett.png" alt="Lawsons' Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lawson-william-2002/">Lawson, William 2002</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lawson-william-2002/"><img src="/variants/s7/k4w19k11dg15k3dg16y3~x2/sett.png" alt="Lawson, William 2002 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lawsons-whisky/">Lawsons' Whisky</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lawsons-whisky/"><img src="/variants/s7/k9w38k22g31k5g31y5/sett.png" alt="Lawsons' Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

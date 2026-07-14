@@ -12,10 +12,10 @@ crumbs:
 - name: "Frater"
   url: "/tartans/f/fr/frater/"
 - name: "Frater"
-  url: "/setts/n6dr2r15n15k2n15dr2r6dr2n8w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n6dr2r15n15k2n15dr2r6dr2n8w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/frater/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBKBBRBBW](/stripes/bbrbkbbrbbw/).
 
 Part of the [Frater](/tartans/f/fr/frater/) tartan — the named design grouping this sett with its other cloths.

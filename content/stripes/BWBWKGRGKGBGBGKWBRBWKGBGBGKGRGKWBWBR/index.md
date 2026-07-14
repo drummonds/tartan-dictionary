@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/">Lauder Dress (Can)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/"><img src="/variants/s36/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/sett.png" alt="Lauder Dress (Can) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lauder-dress/">Lauder Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lauder-dress/"><img src="/variants/s36/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/sett.png" alt="Lauder Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

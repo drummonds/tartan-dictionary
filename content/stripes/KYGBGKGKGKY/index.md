@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/">MacMillan Anc (Clans Originaux)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/"><img src="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/sett.png" alt="MacMillan Anc (Clans Originaux) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macmillan-anc/">MacMillan Anc</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macmillan-anc/"><img src="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/sett.png" alt="MacMillan Anc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

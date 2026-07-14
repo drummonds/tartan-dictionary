@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g8r1g1r3g16k16r1db16r3db8y2/">Cameron of Erracht</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g8r1g1r3g16k16r1db16r3db8y2/"><img src="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/sett.png" alt="Cameron of Erracht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cameron-of-erracht/">Cameron of Erracht</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-of-erracht/"><img src="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/sett.png" alt="Cameron of Erracht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

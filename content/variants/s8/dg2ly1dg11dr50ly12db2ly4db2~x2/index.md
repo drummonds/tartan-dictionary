@@ -8,15 +8,15 @@ crumbs:
 - name: "Slessor"
   url: "/tartans/s/sl/slessor/"
 - name: "Slessor (Personal)"
-  url: "/setts/dg2ly1dg11dr50ly12db2ly4db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2ly1dg11dr50ly12db2ly4db2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GYGBYBYBYBYBGY](/stripes/gygbybybybybgy/).
+provenance below. It is one weaving of the [sett](/tartans/s/sl/slessor/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYBYBGYG](/stripes/bybybgyg/).
 
 Part of the [Slessor](/tartans/s/sl/slessor/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3818](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3818)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3818](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/2003 — Slessor (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3818">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>A wedding present for Kirsteen Slessor from her parents Margaret and William Slessor of Udny, Aberdeenshire. The colours are based on a simple tartan woven by Kirsteen when she was aged about ten. The two biscuit coloured lines represent the two Slessor children; the three blue lines represent the bridesmaids. The light biscuit threadcount is 24 which is the date of the wedding in Scotland; the green threadcount is 22 which is the date of the blessing in Ireland.</em></li>
-<li>March 2003 — Slessor (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5795">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>A wedding present for Kirsteen Slessor from her parents Margaret and William Slessor of Udny, Aberdeenshire. The colours are based on a simple tartan woven by Kirsteen when she was aged about ten. The two biscuit coloured lines represent the two Slessor children; the three blue lines represent the bridesmaids. The light biscuit threadcount is 24 which is the date of the wedding in Scotland; the green threadcount is 22 which is the date of the blessing in Ireland.</em></li>
+<li>March 2003 — Slessor (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5795/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>A wedding present for Kirsteen Slessor from her parents Margaret and William Slessor of Udny, Aberdeenshire. The colours are based on a simple tartan woven by Kirsteen when she was aged about ten. The two biscuit coloured lines represent the two Slessor children; the three blue lines represent the bridesmaids. The light biscuit threadcount is 24 which is the date of the wedding in Scotland; the green threadcount is 22 which is the date of the blessing in Ireland.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5795
 
 ## Thread count
-DG/4 LY2 DG22 DR100 LY24 DB4 LY8 DB4 LY8 DB4 LY24 DR100 DG22 LY/2
+DG/4 LY2 DG22 DR100 LY24 DB4 LY8 DB/4
 
-One full sett is **650 threads**.
+One full sett is **328 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/4 LY2 DG22 DR100 LY24 DB4 LY8 DB4 LY8 DB4 LY24 DR100 DG22 LY/2 — 650 threads; it folds to the canonical 328-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **650 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/4 LY2 DG22 DR100 LY24 DB4 LY8 DB4 LY8 DB4 LY24 DR100 DG22 LY/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/4 LY2 DG22 DR100 LY24 DB4 LY8 DB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Cougan Irish"
   url: "/tartans/c/co/cougan-irish/"
 - name: "Cougan Irish Personal Tartan"
-  url: "/setts/db66dr16w2dr1w1dr1w2dr16db66y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db66dr16w2dr1w1dr1w2dr16db66y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cougan-irish/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWBWBBG](/stripes/bbwbwbwbbg/).
 
 Part of the [Cougan Irish](/tartans/c/co/cougan-irish/) tartan — the named design grouping this sett with its other cloths.

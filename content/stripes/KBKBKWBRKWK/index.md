@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k14n2k2n5k25w1n9o3k3w1k14~x2/">Springbank</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k14n2k2n5k25w1n9o3k3w1k14~x2/"><img src="/variants/s11/k14n2k2n5k25w1n9o3k3w1k14~x2/sett.png" alt="Springbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/springbank/">Springbank</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/springbank/"><img src="/variants/s11/k14n2k2n5k25w1n9o3k3w1k14~x2/sett.png" alt="Springbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

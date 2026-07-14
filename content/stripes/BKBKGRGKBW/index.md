@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/">Dalmeny</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><img src="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/sett.png" alt="Dalmeny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/">Dalmeny - 1965 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/"><img src="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/sett.png" alt="Dalmeny - 1965 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dalmeny/">Dalmeny</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dalmeny/"><img src="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/sett.png" alt="Dalmeny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

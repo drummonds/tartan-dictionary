@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db8dr2db33dt15g12lo2g2dr2~x2/">Moray Council</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db8dr2db33dt15g12lo2g2dr2~x2/"><img src="/variants/s8/db8dr2db33dt15g12lo2g2dr2~x2/sett.png" alt="Moray Council sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moray-council/">Moray Council</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moray-council/"><img src="/variants/s8/db8dr2db33dt15g12lo2g2dr2~x2/sett.png" alt="Moray Council sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

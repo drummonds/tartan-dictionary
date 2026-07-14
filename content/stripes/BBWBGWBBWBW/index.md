@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/">U.S.I. Limited</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><img src="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/sett.png" alt="U.S.I. Limited sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/u/u-s-i-limited/">U.S.I. Limited</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-i-limited/"><img src="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/sett.png" alt="U.S.I. Limited sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

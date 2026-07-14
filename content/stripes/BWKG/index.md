@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/dr80lb40k5dy6/">Broberg (Scania) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dr80lb40k5dy6/"><img src="/variants/s4/dr80lb40k5dy6/sett.png" alt="Broberg (Scania) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/broberg/">Broberg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/broberg/"><img src="/variants/s4/dr80lb40k5dy6/sett.png" alt="Broberg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

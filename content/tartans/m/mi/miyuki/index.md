@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/miyuki/"
 - name: "Miyuki"
   url: "/families/miyuki/"
+aliases:
+- "/setts/r3ly8r3ly20dy20ly3dy8ly3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ryrygygy/">RYRYGYGY</a></nav>
 A tartan of the [Miyuki](/families/miyuki/) family.
 Its design is pattern [RYRYGYGY](/stripes/ryrygygy/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Miyuki** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3ly8r3ly20dy20ly3dy8ly3/">Miyuki</a></td><td><code>R/6 LY16 R6 LY40 DY40 LY6 DY16 LY/6</code></td><td>260</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3ly8r3ly20dy20ly3dy8ly3/"><img src="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/sett.png" alt="Miyuki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/">Miyuki</a></td><td><code>R/6 LY16 R6 LY40 DY40 LY6 DY16 LY/6</code></td><td>260</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/"><img src="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/sett.png" alt="Miyuki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r3dg6ly2db2ly11dg2ly2r3~x2/"><circle cx="203.4" cy="221.0" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/variants/s6/dg2ly14dg8ly3dg12r2~x2/"><circle cx="286.6" cy="241.7" r="4" fill="#3465a4"><title>Confederate Artillery</title></circle></a><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><circle cx="269.8" cy="219.6" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/variants/s6/w11r32g12r5g12r5~x2/"><circle cx="293.8" cy="244.5" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/variants/s14/dg6ly2db2ly11dg2ly2r3ly2dg2ly11db2ly2dg6r3~x2/"><circle cx="220.4" cy="199.5" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/"><circle cx="339.9" cy="193.7" r="4" fill="#3465a4"><title>Land's End Camel</title></circle></a><a href="/variants/s7/r8ly6k11ly6k11ly30r3~x2/"><circle cx="256.0" cy="188.9" r="4" fill="#3465a4"><title>Blackberry</title></circle></a><a href="/variants/s11/w2r4g8r16lb2r3g16r4lb2r4w2~x2/"><circle cx="269.2" cy="194.7" r="4" fill="#3465a4"><title>MacKinnon 7</title></circle></a><a href="/variants/s5/dy4lb11dy14ly30r4~x2/"><circle cx="231.8" cy="237.1" r="4" fill="#3465a4"><title>Trinity Bicycles</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="264.6" cy="237.6" r="4" fill="#3465a4"><title>Skene D</title></circle></a><circle cx="272.8" cy="226.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r3dg6ly2db2ly11dg2ly2r3~x2/"><circle cx="203.7" cy="220.9" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/variants/s6/dg2ly14dg8ly3dg12r2~x2/"><circle cx="287.1" cy="241.8" r="4" fill="#3465a4"><title>Confederate Artillery</title></circle></a><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><circle cx="270.1" cy="219.5" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/variants/s6/w11r32g12r5g12r5~x2/"><circle cx="294.3" cy="244.6" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/variants/s14/dg6ly2db2ly11dg2ly2r3ly2dg2ly11db2ly2dg6r3~x2/"><circle cx="220.8" cy="199.4" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/"><circle cx="340.4" cy="193.7" r="4" fill="#3465a4"><title>Land's End Camel</title></circle></a><a href="/variants/s7/r8ly6k11ly6k11ly30r3~x2/"><circle cx="256.6" cy="188.9" r="4" fill="#3465a4"><title>Blackberry</title></circle></a><a href="/variants/s11/w2r4g8r16lb2r3g16r4lb2r4w2~x2/"><circle cx="269.6" cy="194.7" r="4" fill="#3465a4"><title>MacKinnon 7</title></circle></a><a href="/variants/s5/dy4lb11dy14ly30r4~x2/"><circle cx="232.0" cy="237.0" r="4" fill="#3465a4"><title>Trinity Bicycles</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="264.9" cy="237.6" r="4" fill="#3465a4"><title>Skene D</title></circle></a><circle cx="273.2" cy="226.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

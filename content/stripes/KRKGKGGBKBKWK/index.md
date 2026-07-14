@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k1r1k8g1k1g8y1db8k1db1k8w1k1/">Survivor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k1r1k8g1k1g8y1db8k1db1k8w1k1/"><img src="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/sett.png" alt="Survivor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/survivor/">Survivor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/survivor/"><img src="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/sett.png" alt="Survivor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

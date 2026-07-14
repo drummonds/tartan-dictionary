@@ -12,10 +12,10 @@ crumbs:
 - name: "Kerry"
   url: "/tartans/k/ke/kerry/"
 - name: "Kerry (WCWM)"
-  url: "/setts/lr24p3lr8p5k3r3k3lr3k3o24r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lr24p3lr8p5k3r3k3lr3k3o24r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kerry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRKYKRKBYBY](/stripes/rrkykrkbyby/).
 
 Part of the [Kerry](/tartans/k/ke/kerry/) tartan — the named design grouping this sett with its other cloths.

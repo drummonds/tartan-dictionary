@@ -10,17 +10,17 @@ crumbs:
 - name: "Wells"
   url: "/families/wells/"
 - name: "Wells"
-  url: "/tartans/w/we/wells/"
+  url: "/tartans/w/we/wells-3/"
 - name: "Wells (Personal)"
-  url: "/setts/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRKGKGGGGKBKGKBKGKBKGGGGKGKR](/stripes/krkgkggggkbkgkbkgkbkggggkgkr/).
+provenance below. It is one weaving of the [sett](/tartans/w/we/wells-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGKBKGGGGKGKRK](/stripes/bkgkbkggggkgkrk/).
 
-Part of the [Wells](/tartans/w/we/wells/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wells](/tartans/w/we/wells-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4592](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4592)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2781
 
 ## Thread count
-K/8 R6 K6 DGi18 K20 DGi20 DG6 DGi12 DG8 K8 DB28 K8 Y6 K8 DB16 K8 Y6 K8 DB28 K8 DG8 DGi12 DG6 DGi20 K20 DGi18 K6 R/6
+DB/16 K8 Y6 K8 DB28 K8 DG8 DGi12 DG6 DGi20 K20 DGi18 K6 R6 K/8
 
-One full sett is **650 threads**.
+One full sett is **332 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/8 R6 K6 DGi18 K20 DGi20 DG6 DGi12 DG8 K8 DB28 K8 Y6 K8 DB16 K8 Y6 K8 DB28 K8 DG8 DGi12 DG6 DGi20 K20 DGi18 K6 R/6 — 650 threads; it folds to the canonical 332-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **650 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 R6 K6 DGi18 K20 DGi20 DG6 DGi12 DG8 K8 DB28 K8 Y6 K8 DB16 K8 Y6 K8 DB28 K8 DG8 DGi12 DG6 DGi20 K20 DGi18 K6 R/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/16 K8 Y6 K8 DB28 K8 DG8 DGi12 DG6 DGi20 K20 DGi18 K6 R6 K/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

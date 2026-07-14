@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/">Scotch House 2000 Antique</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><img src="/variants/s8/db22r3db2r3db2k17dy18g4~x2/sett.png" alt="Scotch House 2000 Antique sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotch-house-2000-antique/">Scotch House 2000 Antique</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-house-2000-antique/"><img src="/variants/s8/db22r3db2r3db2k17dy18g4~x2/sett.png" alt="Scotch House 2000 Antique sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

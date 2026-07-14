@@ -8,15 +8,15 @@ crumbs:
 - name: "Inches of Perth"
   url: "/tartans/i/in/inches-of-perth/"
 - name: "Inches of Perth"
-  url: "/setts/dy44y2k4dp2dy15r6k3lb3y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy44y2k4dp2dy15r6k3lb3y2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGKBGRKWGWKRGBKG](/stripes/ggkbgrkwgwkrgbkg/).
+provenance below. It is one weaving of the [sett](/tartans/i/in/inches-of-perth/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGKBGRKWG](/stripes/ggkbgrkwg/).
 
 Part of the [Inches of Perth](/tartans/i/in/inches-of-perth/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1819](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1819)
 
@@ -29,7 +29,7 @@ Earliest known date: pre 2003 A philanthropic society founded by Scots around 18
 <ul>
 <li>01/01/1920 — Inches of Perth (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1819">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>No details of this tartan which was discovered in 1985 in the Paton Collection when it was first loaned to the Scottish Tartans Society. It could be family (there is a family jewellers in Perth called Hamilton & Inches) or it could be connected with two areas known as the 'Inches of Perth' (an Inch is a stretch of low lying land near a river.) 'Folk say the Mercers tried to cheat the town. When for two Inches they did win six feet.' This alludes to the exchange of the two Inches of Perth (where the famous clan battle was fought in 1396) for the right to be buried in St. John's Church, Perth.</em></li>
 <li>pre 2003 — Inches of Perth Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1753">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SCR #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span></li>
-<li>circa 1920s? — Inches of Perth (District or Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1753">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>No details of this tartan which was discovered in 1985 in the Paton Collection when it was first loaned to the Tartans Society. It could be family (there is a family jewellers in Perth called Hamilton & Inches) or it could be connected with two areas known as the "Inches of Perth" (an Inch is a stretch of low lying land near a river.) 'Folk say the Mercers tried to cheat the town. When for two Inches they did win six feet.' This alludes to the exchange of the two Inches of Perth (where the famous clan battle was fought in 1396) for the right to be buried in St. John's Church, Perth.</em></li>
+<li>circa 1920s? — Inches of Perth (District or Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1753/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>No details of this tartan which was discovered in 1985 in the Paton Collection when it was first loaned to the Tartans Society. It could be family (there is a family jewellers in Perth called Hamilton & Inches) or it could be connected with two areas known as the "Inches of Perth" (an Inch is a stretch of low lying land near a river.) 'Folk say the Mercers tried to cheat the town. When for two Inches they did win six feet.' This alludes to the exchange of the two Inches of Perth (where the famous clan battle was fought in 1396) for the right to be buried in St. John's Church, Perth.</em></li>
 </ul>
 </details>
 
@@ -58,9 +58,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1753
 
 ## Thread count
-DY/88 Y4 K8 DP4 DY30 R12 K6 LB6 Y4 LB6 K6 R12 DY30 DP4 K8 Y/4
+DY/88 Y4 K8 DP4 DY30 R12 K6 LB6 Y/4
 
-One full sett is **372 threads**.
+One full sett is **232 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DY/88 Y4 K8 DP4 DY30 R12 K6 LB6 Y4 LB6 K6 R12 DY30 DP4 K8 Y/4 — 372 threads; it folds to the canonical 232-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -69,7 +71,7 @@ One full sett is **372 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/88 Y4 K8 DP4 DY30 R12 K6 LB6 Y4 LB6 K6 R12 DY30 DP4 K8 Y/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/88 Y4 K8 DP4 DY30 R12 K6 LB6 Y/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

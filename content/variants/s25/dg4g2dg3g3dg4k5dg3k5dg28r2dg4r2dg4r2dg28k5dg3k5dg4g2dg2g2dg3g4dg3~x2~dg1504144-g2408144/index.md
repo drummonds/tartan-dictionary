@@ -12,10 +12,10 @@ crumbs:
 - name: "Ross Hunting"
   url: "/tartans/r/ro/ross-hunting-2/"
 - name: "Ross Hunting #2"
-  url: "/setts/dg4g2dg3g3dg4k5dg3k5dg28r2dg4r2dg4r2dg28k5dg3k5dg4g2dg2g2dg3g4dg3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4g2dg3g3dg4k5dg3k5dg28r2dg4r2dg4r2dg28k5dg3k5dg4g2dg2g2dg3g4dg3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/ross-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGGKGKGRGRGRGKGKGGGGG](/stripes/gggggggkgkgrgrgrgkgkggggg/).
 
 Part of the [Ross Hunting](/tartans/r/ro/ross-hunting-2/) tartan — the named design grouping this sett with its other cloths.

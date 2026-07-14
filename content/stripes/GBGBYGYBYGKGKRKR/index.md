@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8~x2~dy1603076-ly3307090/">Du Lion</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8~x2~dy1603076-ly3307090/"><img src="/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8~x2~dy1603076-ly3307090/sett.png" alt="Du Lion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/du-lion/">Du Lion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/du-lion/"><img src="/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8~x2~dy1603076-ly3307090/sett.png" alt="Du Lion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

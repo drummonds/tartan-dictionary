@@ -4,7 +4,14 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai"
+  url: "/groups/masai/"
+- name: "Last of the Masai"
+  url: "/groups/masai/last-of-the-masai/"
+aliases:
+- "/setts/y6k3r40w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkrw/">GKRW</a></nav>
 Its design is pattern [GKRW](/stripes/gkrw/) — the page of every tartan sharing this colour sequence.
 
 The **Masai Shuka 18** tartan is recorded as a single sett.
@@ -12,8 +19,8 @@ The **Masai Shuka 18** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y6k3r40w3/">Masai Shuka 18</a></td><td><code>Y/12 K6 R80 W/6</code></td><td>190</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y6k3r40w3/"><img src="/variants/s4/y6k3r40w3~x2/sett.png" alt="Masai Shuka 18 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/y6k3r40w3~x2/">Masai Shuka 18</a></td><td><code>Y/12 K6 R80 W/6</code></td><td>190</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/y6k3r40w3~x2/"><img src="/variants/s4/y6k3r40w3~x2/sett.png" alt="Masai Shuka 18 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/r63k16y5~x2/"><circle cx="443.5" cy="181.4" r="4" fill="#3465a4"><title>McPeek</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="388.2" cy="199.3" r="4" fill="#3465a4"><title>Masai Shuka 20</title></circle></a><a href="/variants/s5/r32w4db7y2lb2~x5/"><circle cx="409.3" cy="149.5" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s4/y3k2r10k1~x4/"><circle cx="342.5" cy="190.9" r="4" fill="#3465a4"><title>Masai Shuka 26</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="335.3" cy="115.6" r="4" fill="#3465a4"><title>Nicolson Dress</title></circle></a><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><circle cx="419.3" cy="73.3" r="4" fill="#3465a4"><title>Davet</title></circle></a><a href="/variants/s8/db3w2k2r62db2k2y2w2~x2/"><circle cx="511.9" cy="35.8" r="4" fill="#3465a4"><title>Singer Sewing Machine Company</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="505.3" cy="195.8" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="477.4" cy="71.7" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="444.2" cy="253.4" r="4" fill="#3465a4"><title>Lugo</title></circle></a><circle cx="475.4" cy="150.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/r63k16y5~x2/"><circle cx="444.7" cy="181.6" r="4" fill="#3465a4"><title>McPeek</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="389.3" cy="199.5" r="4" fill="#3465a4"><title>Masai Shuka 20</title></circle></a><a href="/variants/s5/r32w4db7y2lb2~x5/"><circle cx="410.2" cy="149.6" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s4/y3k2r10k1~x4/"><circle cx="343.4" cy="191.0" r="4" fill="#3465a4"><title>Masai Shuka 26</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="336.2" cy="115.6" r="4" fill="#3465a4"><title>Nicolson Dress</title></circle></a><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><circle cx="420.6" cy="73.4" r="4" fill="#3465a4"><title>Davet</title></circle></a><a href="/variants/s8/db3w2k2r62db2k2y2w2~x2/"><circle cx="513.5" cy="36.1" r="4" fill="#3465a4"><title>Singer Sewing Machine Company</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="506.2" cy="196.1" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="478.8" cy="72.0" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="445.1" cy="253.7" r="4" fill="#3465a4"><title>Lugo</title></circle></a><circle cx="476.7" cy="150.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

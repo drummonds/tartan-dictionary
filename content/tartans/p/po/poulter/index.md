@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/poulter/"
 - name: "Poulter"
   url: "/families/poulter/"
+aliases:
+- "/setts/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbbwywbbbb/">BBBBBBWYWBBBB</a></nav>
 A tartan of the [Poulter](/families/poulter/) family.
 Its design is pattern [BBBBBBWYWBBBB](/stripes/bbbbbbwywbbbb/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **Poulter** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4/">Poulter</a></td><td><code>T/50 DB8 T8 DB8 T8 DB46 LB46 LR8 LB46 DB46 T46 DB8 T/8</code></td><td>614</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4/"><img src="/variants/s13/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4~x2/sett.png" alt="Poulter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4~x2/">Poulter</a></td><td><code>T/50 DB8 T8 DB8 T8 DB46 LB46 LR8 LB46 DB46 T46 DB8 T/8</code></td><td>614</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4~x2/"><img src="/variants/s13/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4~x2/sett.png" alt="Poulter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -40,6 +43,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s13/db25lb8db8lb8db8lb46w46lp8w46lb46db46lb8db8/"><circle cx="190.2" cy="245.6" r="4" fill="#3465a4"><title>Poulter SG 104</title></circle></a><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/"><circle cx="255.2" cy="270.6" r="4" fill="#3465a4"><title>Scottish Scouts</title></circle></a><a href="/variants/s13/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1~x4/"><circle cx="259.7" cy="248.1" r="4" fill="#3465a4"><title>Hebron</title></circle></a><circle cx="221.9" cy="258.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s13/db25lb8db8lb8db8lb46w46lp8w46lb46db46lb8db8/"><circle cx="190.2" cy="245.3" r="4" fill="#3465a4"><title>Poulter SG 104</title></circle></a><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/"><circle cx="255.2" cy="270.5" r="4" fill="#3465a4"><title>Scottish Scouts</title></circle></a><a href="/variants/s13/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1~x4/"><circle cx="259.9" cy="248.0" r="4" fill="#3465a4"><title>Hebron</title></circle></a><circle cx="221.8" cy="258.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

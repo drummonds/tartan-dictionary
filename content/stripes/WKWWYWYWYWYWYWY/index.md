@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/">Bush (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/"><img src="/variants/s15/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/sett.png" alt="Bush (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/bush/">Bush</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/bush/"><img src="/variants/s15/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/sett.png" alt="Bush sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

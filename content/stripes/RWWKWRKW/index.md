@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r9w5lb57k5lb9r29k18w9/">Yale College of Wrexham (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r9w5lb57k5lb9r29k18w9/"><img src="/variants/s8/r9w5lb57k5lb9r29k18w9/sett.png" alt="Yale College of Wrexham (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/ya/yale-college-of-wrexham/">Yale College of Wrexham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ya/yale-college-of-wrexham/"><img src="/variants/s8/r9w5lb57k5lb9r29k18w9/sett.png" alt="Yale College of Wrexham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

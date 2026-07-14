@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ri12g4k8dr3ly62r8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgkbyr/">RGKBYR</a></nav>
 Its design is pattern [RGKBYR](/stripes/rgkbyr/) — the page of every tartan sharing this colour sequence.
 
 The **Shawn Jones Afghan Memorial, The** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Shawn Jones Afghan Memorial, The** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ri12g4k8dr3ly62r8/">Shawn Jones Afghan Memorial, The</a></td><td><code>Ri/24 G8 K16 DR6 LY124 R/16</code></td><td>348</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ri12g4k8dr3ly62r8/"><img src="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/sett.png" alt="Shawn Jones Afghan Memorial, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/">Shawn Jones Afghan Memorial, The</a></td><td><code>Ri/24 G8 K16 DR6 LY124 R/16</code></td><td>348</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/"><img src="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/sett.png" alt="Shawn Jones Afghan Memorial, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r2y33k5w3g2~x2/"><circle cx="406.7" cy="125.4" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="248.9" cy="173.9" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="335.1" cy="125.6" r="4" fill="#3465a4"><title>Port Moresby City</title></circle></a><a href="/variants/s5/r17db7ly8g58k6~x2/"><circle cx="284.1" cy="176.4" r="4" fill="#3465a4"><title>St Johns County Sheriff Office</title></circle></a><a href="/variants/s6/ly5w15r40y4g2lb2~x2/"><circle cx="322.3" cy="126.9" r="4" fill="#3465a4"><title>Tomomi</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="290.7" cy="148.3" r="4" fill="#3465a4"><title>Cornish National Day</title></circle></a><a href="/variants/s6/r12g4k8dy3y62dr8~x2/"><circle cx="357.8" cy="120.8" r="4" fill="#3465a4"><title>Shawn Jones Afghan Memorial, The</title></circle></a><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="416.7" cy="149.9" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="193.0" cy="136.4" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18r2~x2/"><circle cx="292.2" cy="113.4" r="4" fill="#3465a4"><title>Norris</title></circle></a><circle cx="304.3" cy="101.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r2y33k5w3g2~x2/"><circle cx="407.8" cy="125.6" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="249.5" cy="173.8" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="336.1" cy="125.7" r="4" fill="#3465a4"><title>Port Moresby City</title></circle></a><a href="/variants/s5/r17db7ly8g58k6~x2/"><circle cx="284.8" cy="176.4" r="4" fill="#3465a4"><title>St Johns County Sheriff Office</title></circle></a><a href="/variants/s6/ly5w15r40y4g2lb2~x2/"><circle cx="323.0" cy="126.7" r="4" fill="#3465a4"><title>Tomomi</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.3" cy="148.2" r="4" fill="#3465a4"><title>Cornish National Day</title></circle></a><a href="/variants/s6/r12g4k8dy3y62dr8~x2/"><circle cx="358.6" cy="120.9" r="4" fill="#3465a4"><title>Shawn Jones Afghan Memorial, The</title></circle></a><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="417.7" cy="150.1" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="193.5" cy="136.1" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18r2~x2/"><circle cx="293.0" cy="113.3" r="4" fill="#3465a4"><title>Norris</title></circle></a><circle cx="305.1" cy="101.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r64k2r2k6g2k2g2n2g6r5g2k6y2~x2/">Melrose (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r64k2r2k6g2k2g2n2g6r5g2k6y2~x2/"><img src="/variants/s13/r64k2r2k6g2k2g2n2g6r5g2k6y2~x2/sett.png" alt="Melrose (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/melrose/">Melrose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/melrose/"><img src="/variants/s13/r64k2r2k6g2k2g2n2g6r5g2k6y2~x2/sett.png" alt="Melrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db4lb20k3lb2k3lb20db24k3db2k3db24r4/">Roberts (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db4lb20k3lb2k3lb20db24k3db2k3db24r4/"><img src="/variants/s12/db4lb20k3lb2k3lb20db24k3db2k3db24r4/sett.png" alt="Roberts (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/roberts/">Roberts</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roberts/"><img src="/variants/s12/db4lb20k3lb2k3lb20db24k3db2k3db24r4/sett.png" alt="Roberts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

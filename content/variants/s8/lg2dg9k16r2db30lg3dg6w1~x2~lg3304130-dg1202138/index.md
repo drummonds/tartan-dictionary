@@ -8,10 +8,10 @@ crumbs:
 - name: "Climb, The"
   url: "/tartans/c/cl/climb-the/"
 - name: "Climb, The"
-  url: "/setts/lg2dg9k16r2db30lg3dg6w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lg2dg9k16r2db30lg3dg6w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/climb-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGYBRKGY](/stripes/wgybrkgy/).
 
 Part of the [Climb, The](/tartans/c/cl/climb-the/) tartan — the named design grouping this sett with its other cloths.

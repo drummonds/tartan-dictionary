@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/">Yukon #1906 District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/"><img src="/variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/sett.png" alt="Yukon #1906 District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/">Yukon District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><img src="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/sett.png" alt="Yukon District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yu/yukon/">Yukon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yu/yukon/"><img src="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/sett.png" alt="Yukon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r8ly44k32w2n52k7n7w3/">Golden Wedding (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r8ly44k32w2n52k7n7w3/"><img src="/variants/s8/r8ly44k32w2n52k7n7w3/sett.png" alt="Golden Wedding (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/golden-wedding/">Golden Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/golden-wedding/"><img src="/variants/s8/r8ly44k32w2n52k7n7w3/sett.png" alt="Golden Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

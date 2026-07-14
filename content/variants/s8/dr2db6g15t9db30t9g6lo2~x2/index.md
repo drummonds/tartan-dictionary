@@ -8,10 +8,10 @@ crumbs:
 - name: "Miller"
   url: "/tartans/m/mi/miller/"
 - name: "Miller"
-  url: "/setts/dr2db6g15t9db30t9g6lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr2db6g15t9db30t9g6lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/miller/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBBGY](/stripes/bbgbbbgy/).
 
 Part of the [Miller](/tartans/m/mi/miller/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2951](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — Miller (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2951">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C88C00"></span><br><em>Designed for Mr. Don Miller, 1998, but open to all of the name.</em></li>
-<li>1998 — Miller (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4177">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C88C00"></span><br><em>Designed for Mr. Don Miller, 1998, but open to all of the name.</em></li>
+<li>1998 — Miller (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4177/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C88C00"></span><br><em>Designed for Mr. Don Miller, 1998, but open to all of the name.</em></li>
 </ul>
 </details>
 

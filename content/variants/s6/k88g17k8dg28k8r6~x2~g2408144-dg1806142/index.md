@@ -10,10 +10,10 @@ crumbs:
 - name: "Childers Regimental"
   url: "/tartans/c/ch/childers-regimental/"
 - name: "Childers Regimental Tartan"
-  url: "/setts/k88g17k8dg28k8r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k88g17k8dg28k8r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/childers-regimental/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKR](/stripes/kgkgkr/).
 
 Part of the [Childers Regimental](/tartans/c/ch/childers-regimental/) tartan — the named design grouping this sett with its other cloths.

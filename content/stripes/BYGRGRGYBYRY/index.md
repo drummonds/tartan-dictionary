@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/lo28r3lo3db5lo3g3r3g12r3g3lo6db3/">Bird of Paradise</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/lo28r3lo3db5lo3g3r3g12r3g3lo6db3/"><img src="/variants/s12/lo28r3lo3db5lo3g3r3g12r3g3lo6db3~x2~lo2706066-r2109032/sett.png" alt="Bird of Paradise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bi/bird-of-paradise/">Bird of Paradise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/bird-of-paradise/"><img src="/variants/s12/lo28r3lo3db5lo3g3r3g12r3g3lo6db3~x2~lo2706066-r2109032/sett.png" alt="Bird of Paradise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

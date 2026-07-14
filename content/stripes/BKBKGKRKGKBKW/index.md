@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/">Craigclowan School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><img src="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Craigclowan School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/craigclowan-school/">Craigclowan School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/craigclowan-school/"><img src="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Craigclowan School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k3r1k18w1ly18g1ly1w2~x4/">Dunlop Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k3r1k18w1ly18g1ly1w2~x4/"><img src="/variants/s8/k3r1k18w1ly18g1ly1w2~x4/sett.png" alt="Dunlop Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunlop-hunting/">Dunlop Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunlop-hunting/"><img src="/variants/s8/k3r1k18w1ly18g1ly1w2~x4/sett.png" alt="Dunlop Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

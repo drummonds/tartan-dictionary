@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g21w2g4k17dp14k3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwgkbk/">GWGKBK</a></nav>
 Its design is pattern [GWGKBK](/stripes/gwgkbk/) — the page of every tartan sharing this colour sequence.
 
 The **Wilson's No 158** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Wilson's No 158** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g21w2g4k17dp14k3/">Wilson's No 158</a></td><td><code>G/42 W4 G8 K34 DP28 K/6</code></td><td>196</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g21w2g4k17dp14k3/"><img src="/variants/s6/g21w2g4k17dp14k3~x2/sett.png" alt="Wilson's No 158 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g21w2g4k17dp14k3~x2/">Wilson's No 158</a></td><td><code>G/42 W4 G8 K34 DP28 K/6</code></td><td>196</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g21w2g4k17dp14k3~x2/"><img src="/variants/s6/g21w2g4k17dp14k3~x2/sett.png" alt="Wilson's No 158 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="178.9" cy="201.9" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="184.7" cy="198.8" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="173.0" cy="207.9" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="182.6" cy="202.6" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="180.8" cy="202.6" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g14db2g2k8dp9k2~x2/"><circle cx="178.3" cy="214.6" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3/"><circle cx="178.3" cy="198.4" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/"><circle cx="134.2" cy="204.2" r="4" fill="#3465a4"><title>Gordon of Esslemont</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="163.5" cy="210.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="150.5" cy="205.6" r="4" fill="#3465a4"><title>Unnamed 19th Century</title></circle></a><circle cx="177.0" cy="197.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="179.4" cy="201.8" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="185.1" cy="198.7" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="173.4" cy="207.9" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="183.0" cy="202.6" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="181.2" cy="202.5" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g14db2g2k8dp9k2~x2/"><circle cx="178.7" cy="214.5" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3/"><circle cx="178.7" cy="198.3" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/"><circle cx="134.5" cy="204.1" r="4" fill="#3465a4"><title>Gordon of Esslemont</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="163.9" cy="209.9" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="150.8" cy="205.4" r="4" fill="#3465a4"><title>Unnamed 19th Century</title></circle></a><circle cx="177.5" cy="197.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

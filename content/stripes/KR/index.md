@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k1r1/">Rob Roy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k1r1/"><img src="/variants/s2/k1r1~x8/sett.png" alt="Rob Roy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k4r1/">St Kilda</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k4r1/"><img src="/variants/s2/k4r1~x6/sett.png" alt="St Kilda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/r8k3~x2/">Wilson's No.234</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/r8k3~x2/"><img src="/variants/s2/r8k3~x2/sett.png" alt="Wilson's No.234 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-red-black/">MacGregor (Red &amp; Black)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-red-black/"><img src="/variants/s2/k1r1~x4/sett.png" alt="MacGregor (Red &amp; Black) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-kilda/">St Kilda</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-kilda/"><img src="/variants/s2/k4r1~x6/sett.png" alt="St Kilda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-234/">Wilson's No.234</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-234/"><img src="/variants/s2/r8k3~x2/sett.png" alt="Wilson's No.234 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

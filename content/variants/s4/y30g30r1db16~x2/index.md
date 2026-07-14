@@ -12,10 +12,10 @@ crumbs:
 - name: "Barber Family 2011"
   url: "/tartans/b/ba/barber-family-2011/"
 - name: "Barber Family 2011 (Personal)"
-  url: "/setts/y30g30r1db16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y30g30r1db16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barber-family-2011/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGG](/stripes/brgg/).
 
 Part of the [Barber Family 2011](/tartans/b/ba/barber-family-2011/) tartan — the named design grouping this sett with its other cloths.

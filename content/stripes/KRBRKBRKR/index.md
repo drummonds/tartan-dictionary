@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/">Rosie O'Grady (P&amp;D) (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/"><img src="/variants/s9/k35r6db6r6k16db48r36k6r6/sett.png" alt="Rosie O'Grady (P&amp;D) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rosie-o-grady/">Rosie O'Grady</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rosie-o-grady/"><img src="/variants/s9/k35r6db6r6k16db48r36k6r6/sett.png" alt="Rosie O'Grady sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

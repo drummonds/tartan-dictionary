@@ -8,10 +8,10 @@ crumbs:
 - name: "New Glasgow"
   url: "/tartans/n/ne/new-glasgow/"
 - name: "New Glasgow (Canada)"
-  url: "/setts/g28r4dp25w5r22g27r4dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g28r4dp25w5r22g27r4dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/new-glasgow/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRWBRG](/stripes/brgrwbrg/).
 
 Part of the [New Glasgow](/tartans/n/ne/new-glasgow/) tartan — the named design grouping this sett with its other cloths.

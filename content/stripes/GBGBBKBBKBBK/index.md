@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k15db7n3k13n3db7k23n3db7dy2dp4dy2~x2/">Apache</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k15db7n3k13n3db7k23n3db7dy2dp4dy2~x2/"><img src="/variants/s12/k15db7n3k13n3db7k23n3db7dy2dp4dy2~x2/sett.png" alt="Apache sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ap/apache/">Apache</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ap/apache/"><img src="/variants/s12/k15db7n3k13n3db7k23n3db7dy2dp4dy2~x2/sett.png" alt="Apache sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

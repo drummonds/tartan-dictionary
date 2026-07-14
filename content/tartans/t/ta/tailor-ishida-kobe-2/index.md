@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lg25r1g1n9w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbgry/">WBGRY</a></nav>
 Its design is pattern [WBGRY](/stripes/wbgry/) — the page of every tartan sharing this colour sequence.
 
 The **Tailor Ishida, Kobe** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Tailor Ishida, Kobe** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lg25r1g1n9w4/">Tailor Ishida, Kobe</a></td><td><code>LG/50 R2 G2 N18 W/8</code></td><td>102</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lg25r1g1n9w4/"><img src="/variants/s5/lg25r1g1n9w4~x2/sett.png" alt="Tailor Ishida, Kobe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/lg25r1g1n9w4~x2/">Tailor Ishida, Kobe</a></td><td><code>LG/50 R2 G2 N18 W/8</code></td><td>102</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/lg25r1g1n9w4~x2/"><img src="/variants/s5/lg25r1g1n9w4~x2/sett.png" alt="Tailor Ishida, Kobe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="372.0" cy="131.8" r="4" fill="#3465a4"><title>Tahrir</title></circle></a><a href="/variants/s4/g72r25y8w5/"><circle cx="421.5" cy="221.9" r="4" fill="#3465a4"><title>Sugell</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="311.4" cy="129.6" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s4/w14t5r1lb1~x8/"><circle cx="409.5" cy="211.2" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s4/n62w11k4lg17~x2/"><circle cx="369.1" cy="186.3" r="4" fill="#3465a4"><title>Thunderlord</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="355.2" cy="171.1" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="327.5" cy="177.3" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="346.9" cy="202.3" r="4" fill="#3465a4"><title>Farooq</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="352.5" cy="223.0" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="378.8" cy="158.7" r="4" fill="#3465a4"><title>Spencer</title></circle></a><circle cx="394.7" cy="177.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="373.0" cy="132.0" r="4" fill="#3465a4"><title>Tahrir</title></circle></a><a href="/variants/s4/g72r25y8w5/"><circle cx="422.2" cy="222.2" r="4" fill="#3465a4"><title>Sugell</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.1" cy="129.6" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s4/w14t5r1lb1~x8/"><circle cx="410.2" cy="211.4" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s4/n62w11k4lg17~x2/"><circle cx="370.0" cy="186.4" r="4" fill="#3465a4"><title>Thunderlord</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="355.9" cy="171.2" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="328.1" cy="177.4" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="347.6" cy="202.4" r="4" fill="#3465a4"><title>Farooq</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="353.1" cy="223.2" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.5" cy="158.9" r="4" fill="#3465a4"><title>Spencer</title></circle></a><circle cx="395.3" cy="177.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

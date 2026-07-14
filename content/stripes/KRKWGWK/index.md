@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k3lb10dy5lb29k10r6k2~x2/">Perkins 2015</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k3lb10dy5lb29k10r6k2~x2/"><img src="/variants/s7/k3lb10dy5lb29k10r6k2~x2/sett.png" alt="Perkins 2015 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perkins-2015/">Perkins 2015</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perkins-2015/"><img src="/variants/s7/k3lb10dy5lb29k10r6k2~x2/sett.png" alt="Perkins 2015 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

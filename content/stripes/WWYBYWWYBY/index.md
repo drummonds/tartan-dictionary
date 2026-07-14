@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/lg10n8ly1lb5w5lg28n2ly1lb8w5/">Banatherton Union</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/lg10n8ly1lb5w5lg28n2ly1lb8w5/"><img src="/variants/s10/lg10n8ly1lb5w5lg28n2ly1lb8w5~x2~lg2704216-lb3300000/sett.png" alt="Banatherton Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/banatherton-union/">Banatherton Union</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/banatherton-union/"><img src="/variants/s10/lg10n8ly1lb5w5lg28n2ly1lb8w5~x2~lg2704216-lb3300000/sett.png" alt="Banatherton Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

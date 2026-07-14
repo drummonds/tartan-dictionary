@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db13n6dr51db51n5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbb/">BBBBB</a></nav>
 Its design is pattern [BBBBB](/stripes/bbbbb/) — the page of every tartan sharing this colour sequence.
 
 The **Hillsdale** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Hillsdale** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db13n6dr51db51n5/">Hillsdale</a></td><td><code>DB/26 N12 DR102 DB102 N/10</code></td><td>468</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db13n6dr51db51n5/"><img src="/variants/s5/db13n6dr51db51n5~x2/sett.png" alt="Hillsdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db13n6dr51db51n5~x2/">Hillsdale</a></td><td><code>DB/26 N12 DR102 DB102 N/10</code></td><td>468</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db13n6dr51db51n5~x2/"><img src="/variants/s5/db13n6dr51db51n5~x2/sett.png" alt="Hillsdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="417.2" cy="222.7" r="4" fill="#3465a4"><title>Ardee</title></circle></a><a href="/variants/s3/dr10db10lo1~x4/"><circle cx="422.3" cy="329.9" r="4" fill="#3465a4"><title>Mother's Pride</title></circle></a><a href="/variants/s5/dr30db10dr3db30m3~x2/"><circle cx="449.5" cy="276.4" r="4" fill="#3465a4"><title>Feniston</title></circle></a><a href="/variants/s5/n16dr2n10dr14lb5~x2/"><circle cx="405.0" cy="323.1" r="4" fill="#3465a4"><title>Mowbray</title></circle></a><a href="/variants/s5/n9db3n1db11n1~x6/"><circle cx="525.0" cy="315.3" r="4" fill="#3465a4"><title>MacCallum High School</title></circle></a><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><circle cx="436.2" cy="205.5" r="4" fill="#3465a4"><title>Connecticut State Police PB</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="484.1" cy="282.7" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="373.8" cy="249.5" r="4" fill="#3465a4"><title>Craig Devlin</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.6" cy="307.2" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><circle cx="451.7" cy="322.5" r="4" fill="#3465a4"><title>Highland Spirit</title></circle></a><circle cx="480.9" cy="312.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="417.9" cy="223.0" r="4" fill="#3465a4"><title>Ardee</title></circle></a><a href="/variants/s3/dr10db10lo1~x4/"><circle cx="422.6" cy="330.2" r="4" fill="#3465a4"><title>Mother's Pride</title></circle></a><a href="/variants/s5/dr30db10dr3db30m3~x2/"><circle cx="450.1" cy="276.7" r="4" fill="#3465a4"><title>Feniston</title></circle></a><a href="/variants/s5/n16dr2n10dr14lb5~x2/"><circle cx="405.2" cy="323.3" r="4" fill="#3465a4"><title>Mowbray</title></circle></a><a href="/variants/s5/n9db3n1db11n1~x6/"><circle cx="525.5" cy="315.8" r="4" fill="#3465a4"><title>MacCallum High School</title></circle></a><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><circle cx="436.8" cy="205.7" r="4" fill="#3465a4"><title>Connecticut State Police PB</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="484.5" cy="283.1" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.2" cy="249.6" r="4" fill="#3465a4"><title>Craig Devlin</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.6" cy="307.4" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><circle cx="452.0" cy="322.8" r="4" fill="#3465a4"><title>Highland Spirit</title></circle></a><circle cx="481.2" cy="312.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -12,15 +12,15 @@ crumbs:
 - name: "Shieldhall"
   url: "/tartans/s/sh/shieldhall/"
 - name: "Shieldhall"
-  url: "/setts/do12r1do2r1do2lb2do3o9r1o2r1o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do12r1do2r1do2lb2do3o9r1o2r1o3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RRRRBWBRBRBRBRBWBRRRRR](/stripes/rrrrbwbrbrbrbrbwbrrrrr/).
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shieldhall/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBWBRRRRR](/stripes/brbrbwbrrrrr/).
 
 Part of the [Shieldhall](/tartans/s/sh/shieldhall/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5005](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5005)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3206
 
 ## Thread count
-O/12 R4 O8 R4 O36 DO12 LB8 DO8 R4 DO8 R4 DO48 R4 DO8 R4 DO8 LB8 DO12 O36 R4 O8 R/4
+DO/48 R4 DO8 R4 DO8 LB8 DO12 O36 R4 O8 R4 O/12
 
-One full sett is **488 threads**.
+One full sett is **252 threads**.
+
+<p class="recorded-note">The source recorded this cloth as O/12 R4 O8 R4 O36 DO12 LB8 DO8 R4 DO8 R4 DO48 R4 DO8 R4 DO8 LB8 DO12 O36 R4 O8 R/4 — 488 threads; it folds to the canonical 252-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **488 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="O/12 R4 O8 R4 O36 DO12 LB8 DO8 R4 DO8 R4 DO48 R4 DO8 R4 DO8 LB8 DO12 O36 R4 O8 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DO/48 R4 DO8 R4 DO8 LB8 DO12 O36 R4 O8 R4 O/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

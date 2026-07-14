@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/sidney/"
 - name: "Sidney"
   url: "/families/sidney/"
+aliases:
+- "/setts/n16k4w2k4n6r11n2r16/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkwkbrbr/">BKWKBRBR</a></nav>
 A tartan of the [Sidney](/families/sidney/) family.
 Its design is pattern [BKWKBRBR](/stripes/bkwkbrbr/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **Sidney** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n16k4w2k4n6r11n2r16/">Sidney</a></td><td><code>N/32 K8 W4 K8 N12 R22 N4 R/32</code></td><td>180</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n16k4w2k4n6r11n2r16/"><img src="/variants/s8/n16k4w2k4n6r11n2r16~x2/sett.png" alt="Sidney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/">Sidney</a></td><td><code>N/32 K8 W4 K8 N12 R22 N4 R/32</code></td><td>180</td><td>1986</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/"><img src="/variants/s8/n16k4w2k4n6r11n2r16~x2/sett.png" alt="Sidney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -33,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="196.3" cy="168.1" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="249.6" cy="185.5" r="4" fill="#3465a4"><title>Finnigan</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="225.9" cy="183.9" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><a href="/variants/s8/n16k4w2k4n6o11n2o16~x2/"><circle cx="231.1" cy="214.2" r="4" fill="#3465a4"><title>Sydney</title></circle></a><a href="/variants/s9/db24r3db4r6g8r3g8r30k3~x2/"><circle cx="231.8" cy="160.4" r="4" fill="#3465a4"><title>Gates</title></circle></a><a href="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/"><circle cx="213.0" cy="175.3" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.8" cy="166.7" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.1" cy="177.2" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/"><circle cx="164.5" cy="184.3" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><a href="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/"><circle cx="259.8" cy="213.2" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><circle cx="217.1" cy="197.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="196.8" cy="167.9" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="250.2" cy="185.4" r="4" fill="#3465a4"><title>Finnigan</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="226.4" cy="183.8" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><a href="/variants/s8/n16k4w2k4n6o11n2o16~x2/"><circle cx="231.5" cy="214.1" r="4" fill="#3465a4"><title>Sydney</title></circle></a><a href="/variants/s9/db24r3db4r6g8r3g8r30k3~x2/"><circle cx="232.4" cy="160.3" r="4" fill="#3465a4"><title>Gates</title></circle></a><a href="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/"><circle cx="213.6" cy="175.2" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="178.3" cy="166.5" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.7" cy="177.2" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/"><circle cx="164.9" cy="184.1" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><a href="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/"><circle cx="260.2" cy="213.2" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><circle cx="217.5" cy="197.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

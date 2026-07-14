@@ -8,10 +8,10 @@ crumbs:
 - name: "Tindal"
   url: "/tartans/t/ti/tindal/"
 - name: "Tindal"
-  url: "/setts/r3k2g18k18db3k3db3k3db18y2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k2g18k18db3k3db3k3db18y2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ti/tindal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKBKBKBGW](/stripes/rkgkbkbkbgw/).
 
 Part of the [Tindal](/tartans/t/ti/tindal/) tartan — the named design grouping this sett with its other cloths.

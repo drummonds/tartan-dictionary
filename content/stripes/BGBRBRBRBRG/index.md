@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/">Fiddes #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/"><img src="/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/sett.png" alt="Fiddes #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/">Fiddes (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/"><img src="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/sett.png" alt="Fiddes (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fiddes/">Fiddes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fiddes/"><img src="/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/sett.png" alt="Fiddes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

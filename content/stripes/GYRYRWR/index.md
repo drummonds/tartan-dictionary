@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r12w4r3ly18r3lyi4g2~x2~ly2503076-lyi3106095/">Golden Pheasant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r12w4r3ly18r3lyi4g2~x2~ly2503076-lyi3106095/"><img src="/variants/s7/r12w4r3ly18r3lyi4g2~x2~ly2503076-lyi3106095/sett.png" alt="Golden Pheasant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/golden-pheasant/">Golden Pheasant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/golden-pheasant/"><img src="/variants/s7/r12w4r3ly18r3lyi4g2~x2~ly2503076-lyi3106095/sett.png" alt="Golden Pheasant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

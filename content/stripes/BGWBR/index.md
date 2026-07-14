@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db10g4w27db40r4~x2/">Turnbull Dress, Bruce (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db10g4w27db40r4~x2/"><img src="/variants/s5/db10g4w27db40r4~x2/sett.png" alt="Turnbull Dress, Bruce (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/turnbull-dress-bruce/">Turnbull Dress, Bruce</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/turnbull-dress-bruce/"><img src="/variants/s5/db10g4w27db40r4~x2/sett.png" alt="Turnbull Dress, Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

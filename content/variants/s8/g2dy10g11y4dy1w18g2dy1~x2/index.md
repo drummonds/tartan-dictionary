@@ -8,10 +8,10 @@ crumbs:
 - name: "Aviemore Check"
   url: "/tartans/a/av/aviemore-check/"
 - name: "Aviemore Check District Tartan"
-  url: "/setts/g2dy10g11y4dy1w18g2dy1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2dy10g11y4dy1w18g2dy1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/av/aviemore-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGWGG](/stripes/gggggwgg/).
 
 Part of the [Aviemore Check](/tartans/a/av/aviemore-check/) tartan — the named design grouping this sett with its other cloths.
@@ -58,7 +58,7 @@ One full sett is **190 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **1.69** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.05** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

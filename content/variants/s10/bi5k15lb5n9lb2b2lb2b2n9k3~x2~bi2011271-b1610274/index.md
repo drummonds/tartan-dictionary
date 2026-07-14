@@ -8,10 +8,10 @@ crumbs:
 - name: "Ryukoku University Heian Senior High School"
   url: "/tartans/r/ry/ryukoku-university-heian-senior-high-school/"
 - name: "Ryukoku University Heian Senior High School"
-  url: "/setts/bi5k15lb5n9lb2b2lb2b2n9k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/bi5k15lb5n9lb2b2lb2b2n9k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ry/ryukoku-university-heian-senior-high-school/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBWBWBBK](/stripes/bkwbwbwbbk/).
 
 Part of the [Ryukoku University Heian Senior High School](/tartans/r/ry/ryukoku-university-heian-senior-high-school/) tartan — the named design grouping this sett with its other cloths.

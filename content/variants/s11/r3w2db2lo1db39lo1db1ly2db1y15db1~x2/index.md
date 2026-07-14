@@ -10,10 +10,10 @@ crumbs:
 - name: "Bartlett from El Paso, Texas"
   url: "/tartans/b/ba/bartlett-from-el-paso-texas/"
 - name: "Bartlett from El Paso, Texas"
-  url: "/setts/r3w2db2lo1db39lo1db1ly2db1y15db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3w2db2lo1db39lo1db1ly2db1y15db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bartlett-from-el-paso-texas/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBYBYBYBWR](/stripes/bgbybybybwr/).
 
 Part of the [Bartlett from El Paso, Texas](/tartans/b/ba/bartlett-from-el-paso-texas/) tartan — the named design grouping this sett with its other cloths.

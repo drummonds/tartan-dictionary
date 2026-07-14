@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/">Gift of Life Michigan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/"><img src="/variants/s7/r2lb1r1lb11g16dg1w1~x2/sett.png" alt="Gift of Life Michigan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gi/gift-of-life-michigan/">Gift of Life Michigan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/gift-of-life-michigan/"><img src="/variants/s7/r2lb1r1lb11g16dg1w1~x2/sett.png" alt="Gift of Life Michigan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

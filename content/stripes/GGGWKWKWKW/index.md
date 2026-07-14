@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/w2k2w2k2w2k2w1dy1g1dy1/">Burns Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w2k2w2k2w2k2w1dy1g1dy1/"><img src="/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x2/sett.png" alt="Burns Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/w6k6w6k6w6k6w4dy3g2dy2~x3/">Burns Check (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w6k6w6k6w6k6w4dy3g2dy2~x3/"><img src="/variants/s10/w6k6w6k6w6k6w4dy3g2dy2~x3/sett.png" alt="Burns Check (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burns-check/">Burns Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burns-check/"><img src="/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x2/sett.png" alt="Burns Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

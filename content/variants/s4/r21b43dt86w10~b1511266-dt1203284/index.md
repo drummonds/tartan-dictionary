@@ -8,10 +8,10 @@ crumbs:
 - name: "Fong Wedding"
   url: "/tartans/f/fo/fong-wedding/"
 - name: "Fong Wedding (Personal)"
-  url: "/setts/r21b43dt86w10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r21b43dt86w10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/fong-wedding/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBW](/stripes/rbbw/).
 
 Part of the [Fong Wedding](/tartans/f/fo/fong-wedding/) tartan — the named design grouping this sett with its other cloths.

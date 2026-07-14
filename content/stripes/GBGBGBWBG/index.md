@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/">Redwood Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/"><img src="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/sett.png" alt="Redwood Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/redwood-dress/">Redwood Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/redwood-dress/"><img src="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/sett.png" alt="Redwood Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

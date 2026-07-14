@@ -28,15 +28,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db18k10g6r4g6k1w2~x2/">Ferguson - 1830 of Atholl (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db18k10g6r4g6k1w2~x2/"><img src="/variants/s7/db18k10g6r4g6k1w2~x2/sett.png" alt="Ferguson - 1830 of Atholl (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/t24k8g8r2g8k1w2~x2/">Ferguson of Atholl Clan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t24k8g8r2g8k1w2~x2/"><img src="/variants/s7/t24k8g8r2g8k1w2~x2/sett.png" alt="Ferguson of Atholl Clan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db24k8g8r2g8k1w2/">Fergusson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db24k8g8r2g8k1w2/"><img src="/variants/s7/db24k8g8r2g8k1w2/sett.png" alt="Fergusson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-3/">Ferguson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-3/"><img src="/variants/s7/db18k10g6r4g6k1w2~x2/sett.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-of-atholl/">Ferguson of Atholl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-of-atholl/"><img src="/variants/s7/t24k8g8r2g8k1w2~x2/sett.png" alt="Ferguson of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fergusson/">Fergusson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fergusson/"><img src="/variants/s7/db24k8g8r2g8k1w2/sett.png" alt="Fergusson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/dp72k40g23r4g23k2w4~x2/">Ferguson Unidentified</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp72k40g23r4g23k2w4~x2/"><img src="/variants/s7/dp72k40g23r4g23k2w4~x2/sett.png" alt="Ferguson Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-unidentified/">Ferguson Unidentified</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-unidentified/"><img src="/variants/s7/dp72k40g23r4g23k2w4~x2/sett.png" alt="Ferguson Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

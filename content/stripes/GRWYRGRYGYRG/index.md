@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/">Glendronach Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/"><img src="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/sett.png" alt="Glendronach Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glendronach/">Glendronach</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glendronach/"><img src="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/sett.png" alt="Glendronach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

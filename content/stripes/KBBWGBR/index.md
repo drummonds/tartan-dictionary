@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k10dp4db25w1g13db13r3~x2/">Faber (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k10dp4db25w1g13db13r3~x2/"><img src="/variants/s7/k10dp4db25w1g13db13r3~x2/sett.png" alt="Faber (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/faber/">Faber</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/faber/"><img src="/variants/s7/k10dp4db25w1g13db13r3~x2/sett.png" alt="Faber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

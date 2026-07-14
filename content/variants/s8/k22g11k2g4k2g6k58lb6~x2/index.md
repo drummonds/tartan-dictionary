@@ -12,15 +12,15 @@ crumbs:
 - name: "Stewart of Bute Hunting"
   url: "/tartans/s/st/stewart-of-bute-hunting-2/"
 - name: "Stewart of Bute Hunting Clan/Family Tartan"
-  url: "/setts/k22g11k2g4k2g6k58lb6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k22g11k2g4k2g6k58lb6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-of-bute-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGKKW](/stripes/kgkgkgkkw/).
 
 Part of the [Stewart of Bute Hunting](/tartans/s/st/stewart-of-bute-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5175](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5175)
 

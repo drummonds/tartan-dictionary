@@ -12,10 +12,10 @@ crumbs:
 - name: "Oilmens"
   url: "/tartans/o/oi/oilmens/"
 - name: "Oilmens"
-  url: "/setts/r4k2r24k15r30k1y4k1r30k15r24k2r4k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k2r24k15r30k1y4k1r30k15r24k2r4k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/oi/oilmens/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKGKRKRKR](/stripes/krkrkrkgkrkrkr/).
 
 Part of the [Oilmens](/tartans/o/oi/oilmens/) tartan — the named design grouping this sett with its other cloths.

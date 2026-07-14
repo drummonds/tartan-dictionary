@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/">Kieck (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/"><img src="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/sett.png" alt="Kieck (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kieck/">Kieck</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kieck/"><img src="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/sett.png" alt="Kieck sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

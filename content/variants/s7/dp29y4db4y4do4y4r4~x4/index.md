@@ -8,10 +8,10 @@ crumbs:
 - name: "Marino"
   url: "/tartans/m/ma/marino/"
 - name: "Marino"
-  url: "/setts/dp29y4db4y4do4y4r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp29y4db4y4do4y4r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/marino/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGR](/stripes/bgbgbgr/).
 
 Part of the [Marino](/tartans/m/ma/marino/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2834](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1983 — Marino (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2834">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#644C60;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #644C60"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1983 — Marino (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5704">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#644C60;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #644C60"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><br><em>Sample in STA Johnston Collection.</em></li>
+<li>pre 1983 — Marino (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5704/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#644C60;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #644C60"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><br><em>Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

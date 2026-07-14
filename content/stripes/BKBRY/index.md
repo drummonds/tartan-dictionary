@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/do16k13do13r30lo4~x2/">Highland Pub Company</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/do16k13do13r30lo4~x2/"><img src="/variants/s5/do16k13do13r30lo4~x2/sett.png" alt="Highland Pub Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-pub-company/">Highland Pub Company</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-pub-company/"><img src="/variants/s5/do16k13do13r30lo4~x2/sett.png" alt="Highland Pub Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

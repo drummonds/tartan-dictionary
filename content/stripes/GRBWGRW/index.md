@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y2r4db4lb35g5r12w2~x2/">Nicolson of the Isles (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y2r4db4lb35g5r12w2~x2/"><img src="/variants/s7/y2r4db4lb35g5r12w2~x2/sett.png" alt="Nicolson of the Isles (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ni/nicolson-of-the-isles/">Nicolson of the Isles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nicolson-of-the-isles/"><img src="/variants/s7/y2r4db4lb35g5r12w2~x2/sett.png" alt="Nicolson of the Isles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

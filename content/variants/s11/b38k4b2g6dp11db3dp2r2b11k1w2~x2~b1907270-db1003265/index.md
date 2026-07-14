@@ -10,10 +10,10 @@ crumbs:
 - name: "Blue Pride"
   url: "/tartans/b/bl/blue-pride/"
 - name: "Blue Pride"
-  url: "/setts/b38k4b2g6dp11db3dp2r2b11k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b38k4b2g6dp11db3dp2r2b11k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blue-pride/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBBBRBKW](/stripes/bkbgbbbrbkw/).
 
 Part of the [Blue Pride](/tartans/b/bl/blue-pride/) tartan — the named design grouping this sett with its other cloths.

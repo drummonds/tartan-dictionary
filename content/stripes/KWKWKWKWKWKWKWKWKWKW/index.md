@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/">Scott (Sir Walter Scott) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/"><img src="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/sett.png" alt="Scott (Sir Walter Scott) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/og/ogilvie-5/">Ogilvie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvie-5/"><img src="/variants/s20/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12~x2/sett.png" alt="Ogilvie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

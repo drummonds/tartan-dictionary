@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3~x2/">State Seal of Illinois (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3~x2/"><img src="/variants/s13/g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3~x2/sett.png" alt="State Seal of Illinois (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-illinois/">State Seal of Illinois</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-illinois/"><img src="/variants/s13/g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3~x2/sett.png" alt="State Seal of Illinois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

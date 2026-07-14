@@ -12,10 +12,10 @@ crumbs:
 - name: "Logan"
   url: "/tartans/l/lo/logan-7/"
 - name: "Logan #2"
-  url: "/setts/db9r3y1r3g9r3y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db9r3y1r3g9r3y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/logan-7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGRG](/stripes/brgrgrg/).
 
 Part of the [Logan](/tartans/l/lo/logan-7/) tartan — the named design grouping this sett with its other cloths.

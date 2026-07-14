@@ -8,10 +8,10 @@ crumbs:
 - name: "McKee , Dot"
   url: "/tartans/m/mc/mckee-dot/"
 - name: "McKee (Lone Star) (Personal), Dot"
-  url: "/setts/r21w5k1w5r21db6y1db3y1db3y1db4r3g2k1g2k2g1db2g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r21w5k1w5r21db6y1db3y1db3y1db4r3g2k1g2k2g1db2g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mckee-dot/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGKGRBGBGBGBRWKWR](/stripes/gbgkgkgrbgbgbgbrwkwr/).
 
 Part of the [McKee , Dot](/tartans/m/mc/mckee-dot/) tartan — the named design grouping this sett with its other cloths.

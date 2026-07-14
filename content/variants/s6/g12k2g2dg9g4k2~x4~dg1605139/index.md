@@ -8,15 +8,15 @@ crumbs:
 - name: "Campbell-Simpson"
   url: "/tartans/c/ca/campbell-simpson-3/"
 - name: "Campbell-Simpson (Personal)"
-  url: "/setts/g12k2g2dg9g4k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12k2g2dg9g4k2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGGGKGGGK](/stripes/gkgggkgggk/).
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-simpson-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGGGK](/stripes/gkgggk/).
 
 Part of the [Campbell-Simpson](/tartans/c/ca/campbell-simpson-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=538](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=538)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6125
 
 ## Thread count
-G/48 K8 G8 DG36 G16 K8 G16 DG36 G8 K/8
+G/48 K8 G8 DG36 G16 K/8
 
-One full sett is **328 threads**.
+One full sett is **192 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/48 K8 G8 DG36 G16 K8 G16 DG36 G8 K/8 — 328 threads; it folds to the canonical 192-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **328 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/48 K8 G8 DG36 G16 K8 G16 DG36 G8 K/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/48 K8 G8 DG36 G16 K/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

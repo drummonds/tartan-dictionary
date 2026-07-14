@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/">Kilkenny Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/"><img src="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/sett.png" alt="Kilkenny Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kilkenny-irish-county/">Kilkenny Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilkenny-irish-county/"><img src="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/sett.png" alt="Kilkenny Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

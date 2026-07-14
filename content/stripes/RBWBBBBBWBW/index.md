@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/">Toronto Blue Jays</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/"><img src="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/sett.png" alt="Toronto Blue Jays sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/toronto-blue-jays/">Toronto Blue Jays</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/toronto-blue-jays/"><img src="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/sett.png" alt="Toronto Blue Jays sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

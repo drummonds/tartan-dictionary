@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Heslop Lurdenlaw by Kelso"
   url: "/tartans/h/he/heslop-lurdenlaw-by-kelso/"
-- name: "Heslop Lurdenlaw by Kelso"
-  url: "/setts/n44dg12db1r6/"
+- name: "Heslop, William D Name Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n44dg12db1r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/heslop-lurdenlaw-by-kelso/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBR](/stripes/bgbr/).
 
 Part of the [Heslop Lurdenlaw by Kelso](/tartans/h/he/heslop-lurdenlaw-by-kelso/) tartan — the named design grouping this sett with its other cloths.

@@ -12,15 +12,15 @@ crumbs:
 - name: "Strathyre Dress"
   url: "/tartans/s/st/strathyre-dress/"
 - name: "Strathyre Dress (Dance)"
-  url: "/setts/w55dg12r2dg3w2dgi10dp9dg2dp6w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w55dg12r2dg3w2dgi10dp9dg2dp6w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGWGBGBWBGBGWGRGW](/stripes/grgwgbgbwbgbgwgrgw/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathyre-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBGBGWGRGW](/stripes/wbgbgwgrgw/).
 
 Part of the [Strathyre Dress](/tartans/s/st/strathyre-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3989](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3989)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6552
 
 ## Thread count
-W/110 DG24 R4 DG6 W4 DGi20 DP18 DG4 DP12 W4 DP12 DG4 DP18 DGi20 W4 DG6 R4 DG/24
+W/110 DG24 R4 DG6 W4 DGi20 DP18 DG4 DP12 W/4
 
-One full sett is **462 threads**.
+One full sett is **298 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/110 DG24 R4 DG6 W4 DGi20 DP18 DG4 DP12 W4 DP12 DG4 DP18 DGi20 W4 DG6 R4 DG/24 — 462 threads; it folds to the canonical 298-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **462 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/110 DG24 R4 DG6 W4 DGi20 DP18 DG4 DP12 W4 DP12 DG4 DP18 DGi20 W4 DG6 R4 DG/24 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/110 DG24 R4 DG6 W4 DGi20 DP18 DG4 DP12 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

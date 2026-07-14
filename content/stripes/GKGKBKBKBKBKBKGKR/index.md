@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2~x2/">St. Mary's Help of... (School)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2~x2/"><img src="/variants/s17/dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2~x2/sett.png" alt="St. Mary's Help of... (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-mary-s-help-of-christians-sch/">St. Mary's Help of Christians Sch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-mary-s-help-of-christians-sch/"><img src="/variants/s17/dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2~x2/sett.png" alt="St. Mary's Help of Christians Sch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

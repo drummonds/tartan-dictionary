@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/">Livingston, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/"><img src="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/sett.png" alt="Livingston, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/">Livingstone Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/"><img src="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/sett.png" alt="Livingstone Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/livingston-dress/">Livingston, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/livingston-dress/"><img src="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/sett.png" alt="Livingston, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/livingstone-dress/">Livingstone Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/livingstone-dress/"><img src="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/sett.png" alt="Livingstone Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

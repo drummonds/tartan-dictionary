@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w8k4w54db18r6db8r49w6/">Merida Dance</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w8k4w54db18r6db8r49w6/"><img src="/variants/s8/w8k4w54db18r6db8r49w6/sett.png" alt="Merida Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/w8k6w54db16m6db8m49w6/">Meridia Dance</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w8k6w54db16m6db8m49w6/"><img src="/variants/s8/w8k6w54db16m6db8m49w6/sett.png" alt="Meridia Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/merida-dance/">Merida Dance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/merida-dance/"><img src="/variants/s8/w8k4w54db18r6db8r49w6/sett.png" alt="Merida Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/meridia-dance/">Meridia Dance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meridia-dance/"><img src="/variants/s8/w8k6w54db16m6db8m49w6/sett.png" alt="Meridia Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/">Council of Scottish Clans &amp; Ass. (Co</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><img src="/variants/s7/w2r2db16k14g15r2ly2~x2/sett.png" alt="Council of Scottish Clans &amp; Ass. (Co sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/council-of-scottish-clans-ass/">Council of Scottish Clans &amp; Ass.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/council-of-scottish-clans-ass/"><img src="/variants/s7/w2r2db16k14g15r2ly2~x2/sett.png" alt="Council of Scottish Clans &amp; Ass. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

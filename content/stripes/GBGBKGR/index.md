@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r4g16k16db4g3db12y2~x2/">Junior Chamber International</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r4g16k16db4g3db12y2~x2/"><img src="/variants/s7/r4g16k16db4g3db12y2~x2/sett.png" alt="Junior Chamber International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/junior-chamber-international-2/">Junior Chamber International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/junior-chamber-international-2/"><img src="/variants/s7/r4g16k16db4g3db12y2~x2/sett.png" alt="Junior Chamber International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

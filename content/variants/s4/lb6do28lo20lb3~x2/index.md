@@ -8,10 +8,10 @@ crumbs:
 - name: "Prince of Orange"
   url: "/tartans/p/pr/prince-of-orange-4/"
 - name: "Prince of Orange"
-  url: "/setts/lb6do28lo20lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb6do28lo20lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/prince-of-orange-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBYW](/stripes/wbyw/).
 
 Part of the [Prince of Orange](/tartans/p/pr/prince-of-orange-4/) tartan — the named design grouping this sett with its other cloths.

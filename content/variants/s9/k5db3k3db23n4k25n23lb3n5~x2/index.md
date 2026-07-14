@@ -8,10 +8,10 @@ crumbs:
 - name: "Cahonas Scotland"
   url: "/tartans/c/ca/cahonas-scotland/"
 - name: "Cahonas Scotland"
-  url: "/setts/k5db3k3db23n4k25n23lb3n5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5db3k3db23n4k25n23lb3n5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cahonas-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBBKBK](/stripes/bwbkbbkbk/).
 
 Part of the [Cahonas Scotland](/tartans/c/ca/cahonas-scotland/) tartan — the named design grouping this sett with its other cloths.

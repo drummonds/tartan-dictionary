@@ -8,15 +8,15 @@ crumbs:
 - name: "MacHattie"
   url: "/tartans/m/ma/machattie/"
 - name: "MacHattie Family Tartan"
-  url: "/setts/k45db2dr2r2y1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k45db2dr2r2y1w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBRGWGRBBK](/stripes/bbrgwgrbbk/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/machattie/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBBRGW](/stripes/kbbrgw/).
 
 Part of the [MacHattie](/tartans/m/ma/machattie/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5917](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5917)
 
@@ -41,9 +41,11 @@ Earliest known date: 2003 A tartan for the McHattie family of Aberdeen
 </details>
 
 ## Thread count
-K/90 DB4 DR4 R4 Y2 W2 Y2 R4 DR4 DB/4
+K/90 DB4 DR4 R4 Y2 W/2
 
-One full sett is **146 threads**.
+One full sett is **120 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/90 DB4 DR4 R4 Y2 W2 Y2 R4 DR4 DB/4 — 146 threads; it folds to the canonical 120-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **146 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/90 DB4 DR4 R4 Y2 W2 Y2 R4 DR4 DB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/90 DB4 DR4 R4 Y2 W/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

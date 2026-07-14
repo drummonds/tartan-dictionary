@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y2db2w1db15k5g11k1r3k1g11k5db17w1~x2/">Sacramento City Fire Department (P&amp;D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y2db2w1db15k5g11k1r3k1g11k5db17w1~x2/"><img src="/variants/s13/y2db2w1db15k5g11k1r3k1g11k5db17w1~x2/sett.png" alt="Sacramento City Fire Department (P&amp;D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sacramento-city-fire-department-p-d/">Sacramento City Fire Department (P&amp;D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sacramento-city-fire-department-p-d/"><img src="/variants/s13/y2db2w1db15k5g11k1r3k1g11k5db17w1~x2/sett.png" alt="Sacramento City Fire Department (P&amp;D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Falkirk"
   url: "/tartans/f/fa/falkirk-3/"
 - name: "Falkirk"
-  url: "/setts/db8o27y2r3y2o27db22k2db4k2db4k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8o27y2r3y2o27db22k2db4k2db4k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fa/falkirk-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGRBKBKBK](/stripes/brgrgrbkbkbk/).
 
 Part of the [Falkirk](/tartans/f/fa/falkirk-3/) tartan — the named design grouping this sett with its other cloths.

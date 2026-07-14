@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y3r4k1r27g14r4db15w2~x2/">Dalmagarry (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y3r4k1r27g14r4db15w2~x2/"><img src="/variants/s8/y3r4k1r27g14r4db15w2~x2/sett.png" alt="Dalmagarry (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dalmagarry/">Dalmagarry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dalmagarry/"><img src="/variants/s8/y3r4k1r27g14r4db15w2~x2/sett.png" alt="Dalmagarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/gi3r4k1r26g14r4dp16w2~x2~gi2408144-g1903114/">MacQueen of Dalmagarry (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/gi3r4k1r26g14r4dp16w2~x2~gi2408144-g1903114/"><img src="/variants/s8/gi3r4k1r26g14r4dp16w2~x2~gi2408144-g1903114/sett.png" alt="MacQueen of Dalmagarry (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macqueen-of-dalmagarry/">MacQueen of Dalmagarry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macqueen-of-dalmagarry/"><img src="/variants/s8/gi3r4k1r26g14r4dp16w2~x2~gi2408144-g1903114/sett.png" alt="MacQueen of Dalmagarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

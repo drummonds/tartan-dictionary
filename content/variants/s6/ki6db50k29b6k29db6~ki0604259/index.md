@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Express International"
   url: "/tartans/s/sc/scottish-express-international-2/"
 - name: "Scottish Express International"
-  url: "/setts/ki6db50k29b6k29db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ki6db50k29b6k29db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-express-international-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
 Part of the [Scottish Express International](/tartans/s/sc/scottish-express-international-2/) tartan — the named design grouping this sett with its other cloths.

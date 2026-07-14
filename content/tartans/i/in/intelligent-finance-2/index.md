@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/n5dp40n5lb5n32lb5n5lb40dp7w5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbwbwbwbw/">BBBWBWBWBW</a></nav>
 Its design is pattern [BBBWBWBWBW](/stripes/bbbwbwbwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Intelligent Finance** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Intelligent Finance** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n5dp40n5lb5n32lb5n5lb40dp7w5/">Intelligent Finance</a></td><td><code>N/5 DP40 N5 LB5 N32 LB5 N5 LB40 DP7 W/5</code></td><td>288</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n5dp40n5lb5n32lb5n5lb40dp7w5/"><img src="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/sett.png" alt="Intelligent Finance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/">Intelligent Finance</a></td><td><code>N/5 DP40 N5 LB5 N32 LB5 N5 LB40 DP7 W/5</code></td><td>288</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/"><img src="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/sett.png" alt="Intelligent Finance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/"><circle cx="239.6" cy="231.4" r="4" fill="#3465a4"><title>Intelligent Finance</title></circle></a><a href="/variants/s13/lp25dp4lp4dp4lp4dp23lb23w4lb23dp23lp23dp4lp4~x2/"><circle cx="215.4" cy="247.0" r="4" fill="#3465a4"><title>Poulter, Pink</title></circle></a><a href="/variants/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2~lb3401300-lr3000000/"><circle cx="206.3" cy="246.2" r="4" fill="#3465a4"><title>Poulter Pink</title></circle></a><a href="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/"><circle cx="300.4" cy="238.5" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/"><circle cx="259.2" cy="205.6" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><a href="/variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/"><circle cx="248.2" cy="210.8" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/variants/s13/w69dp14w13dp14w13dp69db72ly13db72dp69w68dp14w13/"><circle cx="170.5" cy="238.7" r="4" fill="#3465a4"><title>Poulter Tron</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.6" cy="268.7" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><circle cx="244.1" cy="229.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/"><circle cx="239.7" cy="231.2" r="4" fill="#3465a4"><title>Intelligent Finance</title></circle></a><a href="/variants/s13/lp25dp4lp4dp4lp4dp23lb23w4lb23dp23lp23dp4lp4~x2/"><circle cx="215.4" cy="246.7" r="4" fill="#3465a4"><title>Poulter, Pink</title></circle></a><a href="/variants/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2~lb3401300-lr3000000/"><circle cx="206.2" cy="246.0" r="4" fill="#3465a4"><title>Poulter Pink</title></circle></a><a href="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/"><circle cx="300.5" cy="238.4" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/"><circle cx="259.4" cy="205.5" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><a href="/variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/"><circle cx="248.5" cy="210.7" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/variants/s13/w69dp14w13dp14w13dp69db72ly13db72dp69w68dp14w13/"><circle cx="170.6" cy="238.4" r="4" fill="#3465a4"><title>Poulter Tron</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.6" cy="268.6" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><circle cx="244.2" cy="229.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

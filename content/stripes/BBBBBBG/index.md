@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/">Lion Brand Sportswear</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/"><img src="/variants/s7/n4db1dr15db42dr6db4dy1~x2/sett.png" alt="Lion Brand Sportswear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/lion-brand-sportswear/">Lion Brand Sportswear</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/lion-brand-sportswear/"><img src="/variants/s7/n4db1dr15db42dr6db4dy1~x2/sett.png" alt="Lion Brand Sportswear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

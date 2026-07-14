@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db8k4y3k4db14k4dg4g6dg3g10k10g9k3r3k4~x2/">Wells, Edward G. (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db8k4y3k4db14k4dg4g6dg3g10k10g9k3r3k4~x2/"><img src="/variants/s15/db8k4y3k4db14k4dg4g6dg3g10k10g9k3r3k4~x2/sett.png" alt="Wells, Edward G. (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wells-3/">Wells</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wells-3/"><img src="/variants/s15/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4~x2~dg1605139-dgi1806142/sett.png" alt="Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wells-edward-g/">Wells, Edward G.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wells-edward-g/"><img src="/variants/s15/db8k4y3k4db14k4dg4g6dg3g10k10g9k3r3k4~x2/sett.png" alt="Wells, Edward G. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

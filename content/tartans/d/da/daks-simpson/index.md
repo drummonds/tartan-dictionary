@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db5n15dy4n4dy24n4dy4db5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgbgbgb/">BBGBGBGB</a></nav>
 Its design is pattern [BBGBGBGB](/stripes/bbgbgbgb/) — the page of every tartan sharing this colour sequence.
 
 The **Daks-Simpson** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Daks-Simpson** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db5n15dy4n4dy24n4dy4db5/">Daks-Simpson</a></td><td><code>DB/5 N15 DY4 N4 DY24 N4 DY4 DB/5</code></td><td>120</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db5n15dy4n4dy24n4dy4db5/"><img src="/variants/s8/db5n15dy4n4dy24n4dy4db5/sett.png" alt="Daks-Simpson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/">Daks-Simpson</a></td><td><code>DB/5 N15 DY4 N4 DY24 N4 DY4 DB/5</code></td><td>120</td><td>1983</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><img src="/variants/s8/db5n15dy4n4dy24n4dy4db5/sett.png" alt="Daks-Simpson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/"><circle cx="372.0" cy="319.7" r="4" fill="#3465a4"><title>Chindecella Gorse</title></circle></a><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="495.4" cy="302.5" r="4" fill="#3465a4"><title>Lister</title></circle></a><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/"><circle cx="482.5" cy="313.5" r="4" fill="#3465a4"><title>Twisted Kilt Society</title></circle></a><a href="/variants/s6/n3dg1n10dg4dy10n2~x4/"><circle cx="468.9" cy="329.3" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s8/db5n15o4n4o24n4o4db5/"><circle cx="389.5" cy="286.1" r="4" fill="#3465a4"><title>Daks</title></circle></a><a href="/variants/s6/db6dr39db10dr10db21y5~x2/"><circle cx="451.5" cy="295.4" r="4" fill="#3465a4"><title>Rajput</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="402.9" cy="314.4" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><circle cx="462.8" cy="260.6" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><a href="/variants/s8/dr9db4dr4db4dr24n19db19n4~x2/"><circle cx="377.0" cy="323.4" r="4" fill="#3465a4"><title>Chindecella Ruadh</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7dg7dr2~x4/"><circle cx="337.5" cy="278.5" r="4" fill="#3465a4"><title>Caledonian Hotel</title></circle></a><circle cx="423.4" cy="308.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/"><circle cx="372.0" cy="319.9" r="4" fill="#3465a4"><title>Chindecella Gorse</title></circle></a><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="495.7" cy="302.9" r="4" fill="#3465a4"><title>Lister</title></circle></a><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/"><circle cx="482.7" cy="313.9" r="4" fill="#3465a4"><title>Twisted Kilt Society</title></circle></a><a href="/variants/s6/n3dg1n10dg4dy10n2~x4/"><circle cx="469.0" cy="329.7" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s8/db5n15o4n4o24n4o4db5/"><circle cx="389.7" cy="286.4" r="4" fill="#3465a4"><title>Daks</title></circle></a><a href="/variants/s6/db6dr39db10dr10db21y5~x2/"><circle cx="452.0" cy="295.7" r="4" fill="#3465a4"><title>Rajput</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.0" cy="314.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><circle cx="463.1" cy="260.9" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><a href="/variants/s8/dr9db4dr4db4dr24n19db19n4~x2/"><circle cx="377.0" cy="323.6" r="4" fill="#3465a4"><title>Chindecella Ruadh</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7dg7dr2~x4/"><circle cx="337.5" cy="278.6" r="4" fill="#3465a4"><title>Caledonian Hotel</title></circle></a><circle cx="423.5" cy="308.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

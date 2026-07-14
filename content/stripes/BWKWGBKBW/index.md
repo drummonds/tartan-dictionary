@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/">Leach (1995)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><img src="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/sett.png" alt="Leach (1995) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leach/">Leach</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leach/"><img src="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/sett.png" alt="Leach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/">Leach, Leech, Leitch, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/"><img src="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/sett.png" alt="Leach, Leech, Leitch, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leach-leech-leitch-hunting/">Leach, Leech, Leitch, hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leach-leech-leitch-hunting/"><img src="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/sett.png" alt="Leach, Leech, Leitch, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

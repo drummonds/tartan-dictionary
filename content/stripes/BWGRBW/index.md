@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/">Cairngorm</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/"><img src="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/sett.png" alt="Cairngorm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cairngorm/">Cairngorm</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cairngorm/"><img src="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/sett.png" alt="Cairngorm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

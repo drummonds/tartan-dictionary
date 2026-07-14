@@ -12,15 +12,15 @@ crumbs:
 - name: "Hannigan of Dirleton"
   url: "/tartans/h/ha/hannigan-of-dirleton/"
 - name: "Hannigan of Dirleton (Personal)"
-  url: "/setts/dp4dg4g2w3dg27g30ly1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4dg4g2w3dg27g30ly1r3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGGWGGYRYGGWGG](/stripes/bggwggyryggwgg/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hannigan-of-dirleton/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGWGGYR](/stripes/bggwggyr/).
 
 Part of the [Hannigan of Dirleton](/tartans/h/ha/hannigan-of-dirleton/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1590](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1590)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2685
 
 ## Thread count
-DP/8 DG8 G4 W6 DG54 G60 LY2 R6 LY2 G60 DG54 W6 G4 DG/8
+DP/8 DG8 G4 W6 DG54 G60 LY2 R/6
 
-One full sett is **548 threads**.
+One full sett is **282 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/8 DG8 G4 W6 DG54 G60 LY2 R6 LY2 G60 DG54 W6 G4 DG/8 — 548 threads; it folds to the canonical 282-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **548 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/8 DG8 G4 W6 DG54 G60 LY2 R6 LY2 G60 DG54 W6 G4 DG/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/8 DG8 G4 W6 DG54 G60 LY2 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

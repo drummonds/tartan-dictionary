@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/">Red Watch (Fashion) #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><img src="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/sett.png" alt="Red Watch (Fashion) #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/red-watch-2/">Red Watch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/red-watch-2/"><img src="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/sett.png" alt="Red Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

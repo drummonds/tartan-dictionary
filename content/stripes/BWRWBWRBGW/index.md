@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/">Gray, Thomas (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/"><img src="/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/sett.png" alt="Gray, Thomas (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/gray-thomas/">Gray, Thomas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/gray-thomas/"><img src="/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/sett.png" alt="Gray, Thomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

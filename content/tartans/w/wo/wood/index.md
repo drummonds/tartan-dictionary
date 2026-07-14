@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/wood/"
 - name: "Wood"
   url: "/families/wood/"
+aliases:
+- "/setts/g11lb3g5r3g5k22db22k5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwgrgkbk/">GWGRGKBK</a></nav>
 A tartan of the [Wood](/families/wood/) family.
 Its design is pattern [GWGRGKBK](/stripes/gwgrgkbk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Wood** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g11lb3g5r3g5k22db22k5/">Wood</a></td><td><code>G/22 LB6 G10 R6 G10 K44 DB44 K/10</code></td><td>272</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g11lb3g5r3g5k22db22k5/"><img src="/variants/s8/g11lb3g5r3g5k22db22k5~x2/sett.png" alt="Wood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/">Wood</a></td><td><code>G/22 LB6 G10 R6 G10 K44 DB44 K/10</code></td><td>272</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><img src="/variants/s8/g11lb3g5r3g5k22db22k5~x2/sett.png" alt="Wood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/"><circle cx="134.7" cy="182.0" r="4" fill="#3465a4"><title>Maresh</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="116.7" cy="193.9" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s7/db2dy3db16k18g18k2r2~x2/"><circle cx="130.3" cy="179.4" r="4" fill="#3465a4"><title>McEwan '1856', The</title></circle></a><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="110.9" cy="191.5" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s7/db27g5y8k20y3g15r3~x2/"><circle cx="116.4" cy="193.0" r="4" fill="#3465a4"><title>Nelson Mandela</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="113.8" cy="193.4" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s7/y2db17r2k16g17k2g2~x2/"><circle cx="127.8" cy="179.4" r="4" fill="#3465a4"><title>Greenock</title></circle></a><a href="/variants/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="98.7" cy="186.0" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s6/k2g17k16dr2db17lr2~x2/"><circle cx="124.0" cy="193.5" r="4" fill="#3465a4"><title>Milwaukee County</title></circle></a><a href="/variants/s7/db20k6dy4db3k16g20w2~x2/"><circle cx="122.2" cy="187.3" r="4" fill="#3465a4"><title>Deloughery, Paul</title></circle></a><circle cx="119.8" cy="183.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/"><circle cx="135.0" cy="181.8" r="4" fill="#3465a4"><title>Maresh</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="117.0" cy="193.7" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s7/db2dy3db16k18g18k2r2~x2/"><circle cx="130.6" cy="179.2" r="4" fill="#3465a4"><title>McEwan '1856', The</title></circle></a><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="111.2" cy="191.3" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s7/db27g5y8k20y3g15r3~x2/"><circle cx="116.6" cy="192.7" r="4" fill="#3465a4"><title>Nelson Mandela</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="114.0" cy="193.2" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s7/y2db17r2k16g17k2g2~x2/"><circle cx="128.1" cy="179.2" r="4" fill="#3465a4"><title>Greenock</title></circle></a><a href="/variants/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="99.0" cy="185.7" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s6/k2g17k16dr2db17lr2~x2/"><circle cx="124.3" cy="193.3" r="4" fill="#3465a4"><title>Milwaukee County</title></circle></a><a href="/variants/s7/db20k6dy4db3k16g20w2~x2/"><circle cx="122.4" cy="187.1" r="4" fill="#3465a4"><title>Deloughery, Paul</title></circle></a><circle cx="120.1" cy="183.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

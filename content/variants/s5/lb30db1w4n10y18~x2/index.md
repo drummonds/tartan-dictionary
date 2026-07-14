@@ -8,15 +8,15 @@ crumbs:
 - name: "Alloway Primary"
   url: "/tartans/a/al/alloway-primary/"
 - name: "Alloway Primary School (Ayr)"
-  url: "/setts/lb30db1w4n10y18/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb30db1w4n10y18/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWBWBG](/stripes/bwbwbwbg/).
+provenance below. It is one weaving of the [sett](/tartans/a/al/alloway-primary/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBWBW](/stripes/gbwbw/).
 
 Part of the [Alloway Primary](/tartans/a/al/alloway-primary/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10101](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10101)
 
@@ -28,7 +28,7 @@ Earliest known date: June 2009 Winning entry in a school competition from Beth M
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>11/04/2009 — Alloway Primary School (Ayr) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10101">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#EBAF01;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #EBAF01"></span><span style="display:inline-block;width:.85em;height:.85em;background:#798A92;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #798A92"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14256B;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #14256B"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B2E5FF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #B2E5FF"></span><br><em>The tartan was designed by Beth Murdoch, the winner of the school competition to design a tartan for Alloway Primary School, Ayr. The tartan will be used to make scarves, kilts for the Scottish Country Dance team, ties etc as well as for printing on notepads, pencils etc to sell at school events to raise money. The competition was organised by the Parent Council.</em></li>
-<li>June 2009 — Alloway Primary (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10101">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D8D458;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D8D458"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><br><em>Winning entry in a school competition from Beth Murdoch in the Primary 4 class. The colours reflect those of the school and the winning design was chosen from a short list by Scotland's First Minister Alex Salmond after input from Brian Wilton of the Scottish Tartans Authority who also presented the prizes to the winner and finalists on June 19th 2009. First weaving by Ingles Buchan of Glasgow for scarves and ties and for kilts for the Scottish Country Dance team. The competition was organised by the school Parent Council..</em></li>
+<li>June 2009 — Alloway Primary (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10101/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D8D458;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D8D458"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><br><em>Winning entry in a school competition from Beth Murdoch in the Primary 4 class. The colours reflect those of the school and the winning design was chosen from a short list by Scotland's First Minister Alex Salmond after input from Brian Wilton of the Scottish Tartans Authority who also presented the prizes to the winner and finalists on June 19th 2009. First weaving by Ingles Buchan of Glasgow for scarves and ties and for kilts for the Scottish Country Dance team. The competition was organised by the school Parent Council..</em></li>
 <li>June 2009 — Alloway Primary School Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10101">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D8D458;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D8D458"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span></li>
 </ul>
 </details>
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 10101
 
 ## Thread count
-Y/36 N20 W8 DB2 LB60 DB2 W8 N/20
+LB/60 DB2 W8 N20 Y/36
 
-One full sett is **256 threads**.
+One full sett is **156 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/36 N20 W8 DB2 LB60 DB2 W8 N/20 — 256 threads; it folds to the canonical 156-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **256 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/36 N20 W8 DB2 LB60 DB2 W8 N/20 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/60 DB2 W8 N20 Y/36 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

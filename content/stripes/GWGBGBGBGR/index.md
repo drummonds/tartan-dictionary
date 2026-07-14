@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/">Chisholm Hunting #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/"><img src="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/sett.png" alt="Chisholm Hunting #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/">Chisholm Hunting Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><img src="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/sett.png" alt="Chisholm Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chisholm-2/">Chisholm</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chisholm-2/"><img src="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chisholm-hunting-2/">Chisholm Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chisholm-hunting-2/"><img src="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/sett.png" alt="Chisholm Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

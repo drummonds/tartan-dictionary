@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/">Letham (S.Australia)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><img src="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/sett.png" alt="Letham (S.Australia) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/letham/">Letham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/letham/"><img src="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/sett.png" alt="Letham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

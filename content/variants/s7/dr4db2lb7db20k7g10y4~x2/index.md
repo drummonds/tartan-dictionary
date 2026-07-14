@@ -8,10 +8,10 @@ crumbs:
 - name: "Renfrewshire"
   url: "/tartans/r/re/renfrewshire/"
 - name: "Renfrewshire District Tartan"
-  url: "/setts/dr4db2lb7db20k7g10y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4db2lb7db20k7g10y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/renfrewshire/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBKGG](/stripes/bbwbkgg/).
 
 Part of the [Renfrewshire](/tartans/r/re/renfrewshire/) tartan — the named design grouping this sett with its other cloths.

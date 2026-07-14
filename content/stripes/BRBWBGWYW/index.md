@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/">Guszcza, The (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/"><img src="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/sett.png" alt="Guszcza, The (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/guszcza-the/">Guszcza, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/guszcza-the/"><img src="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/sett.png" alt="Guszcza, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

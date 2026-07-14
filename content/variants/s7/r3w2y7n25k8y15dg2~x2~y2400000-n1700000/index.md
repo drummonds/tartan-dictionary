@@ -8,10 +8,10 @@ crumbs:
 - name: "Allman-Jones"
   url: "/tartans/a/al/allman-jones-2/"
 - name: "Allman-Jones (Personal)"
-  url: "/setts/r3w2y7n25k8y15dg2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3w2y7n25k8y15dg2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/allman-jones-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBGWR](/stripes/ggkbgwr/).
 
 Part of the [Allman-Jones](/tartans/a/al/allman-jones-2/) tartan — the named design grouping this sett with its other cloths.

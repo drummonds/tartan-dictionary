@@ -8,10 +8,10 @@ crumbs:
 - name: "Battle of Prestonpans Heritage Trust, The"
   url: "/tartans/b/ba/battle-of-prestonpans-heritage-trust-the/"
 - name: "Battle of Prestonpans (1745) Heritage Trust, The"
-  url: "/setts/db9dr12g9db5w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db9dr12g9db5w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/battle-of-prestonpans-heritage-trust-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBW](/stripes/bbgbw/).
 
 Part of the [Battle of Prestonpans Heritage Trust, The](/tartans/b/ba/battle-of-prestonpans-heritage-trust-the/) tartan — the named design grouping this sett with its other cloths.

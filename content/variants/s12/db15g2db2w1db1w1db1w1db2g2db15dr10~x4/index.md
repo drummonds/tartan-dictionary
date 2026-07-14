@@ -12,10 +12,10 @@ crumbs:
 - name: "Ikelman"
   url: "/tartans/i/ik/ikelman-2/"
 - name: "Ikelman #5 (Personal)"
-  url: "/setts/db15g2db2w1db1w1db1w1db2g2db15dr10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db15g2db2w1db1w1db1w1db2g2db15dr10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/ik/ikelman-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBWBWBWBGB](/stripes/bbgbwbwbwbgb/).
 
 Part of the [Ikelman](/tartans/i/ik/ikelman-2/) tartan — the named design grouping this sett with its other cloths.

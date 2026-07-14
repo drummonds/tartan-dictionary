@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k24n18k11n4k11n18k53ly4/">Spirit of Glyndwr Gold (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k24n18k11n4k11n18k53ly4/"><img src="/variants/s8/k24n18k11n4k11n18k53ly4/sett.png" alt="Spirit of Glyndwr Gold (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-glyndwr-gold/">Spirit of Glyndwr Gold</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-glyndwr-gold/"><img src="/variants/s8/k24n18k11n4k11n18k53ly4/sett.png" alt="Spirit of Glyndwr Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

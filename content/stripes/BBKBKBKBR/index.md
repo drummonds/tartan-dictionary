@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/">VersaCold/Atlas (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/"><img src="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/sett.png" alt="VersaCold/Atlas (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/ve/versacold-atlas/">VersaCold/Atlas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/ve/versacold-atlas/"><img src="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/sett.png" alt="VersaCold/Atlas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

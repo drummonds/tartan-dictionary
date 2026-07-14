@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/burberry/"
 - name: "Burberry"
   url: "/families/burberry/"
+aliases:
+- "/setts/k3w3k3ly10r1/"
+- "/setts/k3w3k3y10r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwkyr/">KWKYR</a></nav>
 A tartan of the [Burberry](/families/burberry/) family.
 Its design is pattern [KWKYR](/stripes/kwkyr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Burberry** tartan groups 2 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3w3k3ly10r1/">Burberry</a> ★</td><td><code>K/18 W18 K18 LY60 R/6</code></td><td>216</td><td>1920</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3w3k3ly10r1/"><img src="/variants/s5/k3w3k3ly10r1~x6/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3w3k3y10r1/">(6) Burberry</a></td><td><code>K/18 W18 K18 Y60 R/6</code></td><td>216</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3w3k3y10r1/"><img src="/variants/s5/k3w3k3y10r1~x6/sett.png" alt="(6) Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k3w3k3ly10r1~x6/">Burberry</a> ★</td><td><code>K/18 W18 K18 LY60 R/6</code></td><td>216</td><td>1920</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k3w3k3ly10r1~x6/"><img src="/variants/s5/k3w3k3ly10r1~x6/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k3w3k3y10r1~x6/">(6) Burberry</a></td><td><code>K/18 W18 K18 Y60 R/6</code></td><td>216</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k3w3k3y10r1~x6/"><img src="/variants/s5/k3w3k3y10r1~x6/sett.png" alt="(6) Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k6w6k6ly21r2~x4/"><circle cx="207.6" cy="183.8" r="4" fill="#3465a4"><title>Burberry Check</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="169.5" cy="189.8" r="4" fill="#3465a4"><title>Thomson Camel</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="158.3" cy="193.5" r="4" fill="#3465a4"><title>Thompson Camel</title></circle></a><a href="/variants/s5/k6w6k6o21r2~x4/"><circle cx="219.0" cy="178.6" r="4" fill="#3465a4"><title>Burberry, Check</title></circle></a><a href="/variants/s5/k23y3k23w36r4~x2/"><circle cx="227.7" cy="181.9" r="4" fill="#3465a4"><title>Macleod, Winnifred</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="219.7" cy="148.9" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="227.6" cy="238.6" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="178.6" cy="154.1" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s5/o3w3k3ly10r1~x6~o2005046-w3802111/"><circle cx="185.6" cy="190.2" r="4" fill="#3465a4"><title>Burberry Counterfeit</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="263.2" cy="186.5" r="4" fill="#3465a4"><title>Porter Drinkers</title></circle></a><circle cx="198.1" cy="188.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k6w6k6ly21r2~x4/"><circle cx="208.2" cy="183.7" r="4" fill="#3465a4"><title>Burberry Check</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="169.9" cy="189.6" r="4" fill="#3465a4"><title>Thomson Camel</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="158.6" cy="193.3" r="4" fill="#3465a4"><title>Thompson Camel</title></circle></a><a href="/variants/s5/k6w6k6o21r2~x4/"><circle cx="219.6" cy="178.6" r="4" fill="#3465a4"><title>Burberry, Check</title></circle></a><a href="/variants/s5/k23y3k23w36r4~x2/"><circle cx="228.4" cy="181.8" r="4" fill="#3465a4"><title>Macleod, Winnifred</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="220.4" cy="148.8" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="228.0" cy="238.6" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="179.1" cy="153.9" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s5/o3w3k3ly10r1~x6~o2005046-w3802111/"><circle cx="185.9" cy="190.0" r="4" fill="#3465a4"><title>Burberry Counterfeit</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="263.9" cy="186.5" r="4" fill="#3465a4"><title>Porter Drinkers</title></circle></a><circle cx="198.6" cy="188.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

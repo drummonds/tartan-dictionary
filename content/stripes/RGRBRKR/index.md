@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r107k9r5dp41r5g51r14/">Buccleuch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r107k9r5dp41r5g51r14/"><img src="/variants/s7/r107k9r5dp41r5g51r14/sett.png" alt="Buccleuch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r107k9r5db41r5g51r14/">Buccleuch Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r107k9r5db41r5g51r14/"><img src="/variants/s7/r107k9r5db41r5g51r14/sett.png" alt="Buccleuch Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buccleuch-2/">Buccleuch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buccleuch-2/"><img src="/variants/s7/r107k9r5db41r5g51r14/sett.png" alt="Buccleuch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

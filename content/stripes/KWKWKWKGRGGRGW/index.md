@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k15w1k1w1k1w1k1g15r1g15y2r5y2w3~x2/">Courtet-Meyer (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k15w1k1w1k1w1k1g15r1g15y2r5y2w3~x2/"><img src="/variants/s14/k15w1k1w1k1w1k1g15r1g15y2r5y2w3~x2/sett.png" alt="Courtet-Meyer (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/courtet-meyer/">Courtet-Meyer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/courtet-meyer/"><img src="/variants/s14/k15w1k1w1k1w1k1g15r1g15y2r5y2w3~x2/sett.png" alt="Courtet-Meyer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

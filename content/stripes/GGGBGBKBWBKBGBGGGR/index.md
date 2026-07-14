@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/g6dy2g3t4g14t36k2t3w2t3k2t36g14t4g3dy2g6r2~x2~g2203152/">Sarasota - Dunfermline</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/g6dy2g3t4g14t36k2t3w2t3k2t36g14t4g3dy2g6r2~x2~g2203152/"><img src="/variants/s18/g6dy2g3t4g14t36k2t3w2t3k2t36g14t4g3dy2g6r2~x2~g2203152/sett.png" alt="Sarasota - Dunfermline sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sarasota/">Sarasota</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sarasota/"><img src="/variants/s18/g6dy2g3t4g14t36k2t3w2t3k2t36g14t4g3dy2g6r2~x2~g2203152/sett.png" alt="Sarasota sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

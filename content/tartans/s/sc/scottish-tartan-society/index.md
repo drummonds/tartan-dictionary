@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db20k10lo3k7dr4k7lo3k8g20/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkykbkykg/">BKYKBKYKG</a></nav>
 Its design is pattern [BKYKBKYKG](/stripes/bkykbkykg/) — the page of every tartan sharing this colour sequence.
 
 The **Scottish Tartan Society** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Scottish Tartan Society** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db20k10lo3k7dr4k7lo3k8g20/">Scottish Tartan Society</a></td><td><code>DB/40 K20 LO6 K14 DR8 K14 LO6 K16 G/40</code></td><td>248</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db20k10lo3k7dr4k7lo3k8g20/"><img src="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/sett.png" alt="Scottish Tartan Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/">Scottish Tartan Society</a></td><td><code>DB/40 K20 LO6 K14 DR8 K14 LO6 K16 G/40</code></td><td>248</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><img src="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/sett.png" alt="Scottish Tartan Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="76.3" cy="221.3" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><circle cx="131.6" cy="194.0" r="4" fill="#3465a4"><title>Williamson/Smart</title></circle></a><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="119.8" cy="183.8" r="4" fill="#3465a4"><title>Wood</title></circle></a><a href="/variants/s8/k18db12k5g4r6g12k2ly4~x2/"><circle cx="114.0" cy="184.4" r="4" fill="#3465a4"><title>MacLeish</title></circle></a><a href="/variants/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="98.7" cy="186.0" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="113.8" cy="193.4" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="95.1" cy="174.9" r="4" fill="#3465a4"><title>Hunter of Peebleshire</title></circle></a><a href="/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/"><circle cx="108.5" cy="174.7" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="107.6" cy="189.5" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/"><circle cx="78.3" cy="209.3" r="4" fill="#3465a4"><title>Casely</title></circle></a><circle cx="110.9" cy="191.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="76.4" cy="221.0" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><circle cx="132.0" cy="193.8" r="4" fill="#3465a4"><title>Williamson/Smart</title></circle></a><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="120.1" cy="183.6" r="4" fill="#3465a4"><title>Wood</title></circle></a><a href="/variants/s8/k18db12k5g4r6g12k2ly4~x2/"><circle cx="114.3" cy="184.2" r="4" fill="#3465a4"><title>MacLeish</title></circle></a><a href="/variants/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="99.0" cy="185.7" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="114.0" cy="193.2" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="95.4" cy="174.6" r="4" fill="#3465a4"><title>Hunter of Peebleshire</title></circle></a><a href="/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/"><circle cx="108.8" cy="174.4" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="107.8" cy="189.3" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/"><circle cx="78.4" cy="209.0" r="4" fill="#3465a4"><title>Casely</title></circle></a><circle cx="111.2" cy="191.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

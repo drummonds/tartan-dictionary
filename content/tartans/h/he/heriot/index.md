@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r20db2r2db2ly3db12w18db3/"
+- "/setts/o20db2o2db2ly3db12w18db3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbybrbr/">BWBYBRBR</a></nav>
 Its design is pattern [BWBYBRBR](/stripes/bwbybrbr/) — the page of every tartan sharing this colour sequence.
 
 The **Heriot** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Heriot** tartan groups 2 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r20db2r2db2ly3db12w18db3/">Heriot</a> ★</td><td><code>R/40 DB4 R4 DB4 LY6 DB24 W36 DB/6</code></td><td>202</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r20db2r2db2ly3db12w18db3/"><img src="/variants/s8/r20db2r2db2ly3db12w18db3~x2~ly2705081/sett.png" alt="Heriot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/o20db2o2db2ly3db12w18db3/">(Fashion)</a></td><td><code>O/40 DB4 O4 DB4 LY6 DB24 W36 DB/6</code></td><td>202</td><td>~1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/o20db2o2db2ly3db12w18db3/"><img src="/variants/s8/o20db2o2db2ly3db12w18db3~x2/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r20db2r2db2ly3db12w18db3~x2~ly2705081/">Heriot</a> ★</td><td><code>R/40 DB4 R4 DB4 LY6 DB24 W36 DB/6</code></td><td>202</td><td>1999</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r20db2r2db2ly3db12w18db3~x2~ly2705081/"><img src="/variants/s8/r20db2r2db2ly3db12w18db3~x2~ly2705081/sett.png" alt="Heriot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/o20db2o2db2ly3db12w18db3~x2/">(Fashion)</a></td><td><code>O/40 DB4 O4 DB4 LY6 DB24 W36 DB/6</code></td><td>202</td><td>~1999</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/o20db2o2db2ly3db12w18db3~x2/"><img src="/variants/s8/o20db2o2db2ly3db12w18db3~x2/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g16dp8r45w6dp45w44dp6w12/"><circle cx="148.5" cy="209.8" r="4" fill="#3465a4"><title>Culloden Red Dress</title></circle></a><a href="/variants/s8/db3dbi1g5db3r9db1r1db2~x4~db0906265-dbi1208266/"><circle cx="212.6" cy="201.9" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.3" cy="146.6" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.0" cy="174.9" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s9/r1lb1k11lb1r1lb1w11lb1r1~x2/"><circle cx="175.2" cy="136.4" r="4" fill="#3465a4"><title>MacPherson 3</title></circle></a><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><circle cx="186.6" cy="149.0" r="4" fill="#3465a4"><title>Walker Dress</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="166.3" cy="202.8" r="4" fill="#3465a4"><title>Thomson, Navy</title></circle></a><a href="/variants/s7/dy1w2lb16dy8r16dy2w1~x2/"><circle cx="217.0" cy="177.5" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s9/w29db2w2db2w2db14r31db2r3~x2/"><circle cx="244.9" cy="155.1" r="4" fill="#3465a4"><title>Lindsay Dress</title></circle></a><a href="/variants/s8/ri22w2db11y4db11r6db2w10~x2~ri2806019-r2109032/"><circle cx="146.7" cy="191.3" r="4" fill="#3465a4"><title>Thousand Islands Int. Council</title></circle></a><circle cx="179.2" cy="183.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g16dp8r45w6dp45w44dp6w12/"><circle cx="148.7" cy="209.5" r="4" fill="#3465a4"><title>Culloden Red Dress</title></circle></a><a href="/variants/s8/db3dbi1g5db3r9db1r1db2~x4~db0906265-dbi1208266/"><circle cx="212.9" cy="201.8" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.9" cy="146.4" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.5" cy="174.8" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s9/r1lb1k11lb1r1lb1w11lb1r1~x2/"><circle cx="175.7" cy="136.2" r="4" fill="#3465a4"><title>MacPherson 3</title></circle></a><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><circle cx="187.0" cy="148.7" r="4" fill="#3465a4"><title>Walker Dress</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="166.5" cy="202.5" r="4" fill="#3465a4"><title>Thomson, Navy</title></circle></a><a href="/variants/s7/dy1w2lb16dy8r16dy2w1~x2/"><circle cx="217.3" cy="177.3" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s9/w29db2w2db2w2db14r31db2r3~x2/"><circle cx="245.4" cy="155.0" r="4" fill="#3465a4"><title>Lindsay Dress</title></circle></a><a href="/variants/s8/ri22w2db11y4db11r6db2w10~x2~ri2806019-r2109032/"><circle cx="146.9" cy="190.9" r="4" fill="#3465a4"><title>Thousand Islands Int. Council</title></circle></a><circle cx="179.5" cy="183.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

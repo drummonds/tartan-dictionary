@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/">Lloyd of Dolobran Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><img src="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png" alt="Lloyd of Dolobran Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ll/lloyd-of-dolobran/">Lloyd of Dolobran</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ll/lloyd-of-dolobran/"><img src="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png" alt="Lloyd of Dolobran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

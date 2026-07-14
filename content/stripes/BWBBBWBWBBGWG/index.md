@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/">Clan Iain Mhor (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/"><img src="/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/sett.png" alt="Clan Iain Mhor (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clan-iain-mhor/">Clan Iain Mhor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clan-iain-mhor/"><img src="/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/sett.png" alt="Clan Iain Mhor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

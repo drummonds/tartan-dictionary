@@ -8,10 +8,10 @@ crumbs:
 - name: "University of Cincinnati"
   url: "/tartans/u/un/university-of-cincinnati/"
 - name: "University of Cincinnati"
-  url: "/setts/k66w1r8k14w14k6r11w8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k66w1r8k14w14k6r11w8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/university-of-cincinnati/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRKWKRW](/stripes/kwrkwkrw/).
 
 Part of the [University of Cincinnati](/tartans/u/un/university-of-cincinnati/) tartan — the named design grouping this sett with its other cloths.

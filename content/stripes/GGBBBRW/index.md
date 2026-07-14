@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y2g2db8dr4db8r9lb2~x4/">Feis An Eilein (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y2g2db8dr4db8r9lb2~x4/"><img src="/variants/s7/y2g2db8dr4db8r9lb2~x4/sett.png" alt="Feis An Eilein (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/y4g18db4dr8db8r21w1~x2/">G P Bathija (Shikarpur, Sindh)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y4g18db4dr8db8r21w1~x2/"><img src="/variants/s7/y4g18db4dr8db8r21w1~x2/sett.png" alt="G P Bathija (Shikarpur, Sindh) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/feis-an-eilein/">Feis An Eilein</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/feis-an-eilein/"><img src="/variants/s7/y2g2db8dr4db8r9lb2~x4/sett.png" alt="Feis An Eilein sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/g/g-p-bathija/">G P Bathija</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/g/g-p-bathija/"><img src="/variants/s7/y4g18db4dr8db8r21w1~x2/sett.png" alt="G P Bathija sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

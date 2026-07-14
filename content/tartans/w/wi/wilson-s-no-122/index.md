@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g14dt11y3k5y3dt11g14ly2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgkgbgy/">GBGKGBGY</a></nav>
 Its design is pattern [GBGKGBGY](/stripes/gbgkgbgy/) — the page of every tartan sharing this colour sequence.
 
 The **Wilson's No.122** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Wilson's No.122** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g14dt11y3k5y3dt11g14ly2/">Wilson's No.122</a></td><td><code>G/28 DT22 Y6 K10 Y6 DT22 G28 LY/4</code></td><td>220</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g14dt11y3k5y3dt11g14ly2/"><img src="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/sett.png" alt="Wilson's No.122 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/">Wilson's No.122</a></td><td><code>G/28 DT22 Y6 K10 Y6 DT22 G28 LY/4</code></td><td>220</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/"><img src="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/sett.png" alt="Wilson's No.122 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dg12g6r1g10dp8y2w2~x4/"><circle cx="174.2" cy="208.5" r="4" fill="#3465a4"><title>Connelly, James</title></circle></a><a href="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/"><circle cx="159.0" cy="170.9" r="4" fill="#3465a4"><title>Chinzei Keiai School</title></circle></a><a href="/variants/s9/dg3y2dr10dg10g20dg12r3g10w2~x2/"><circle cx="203.5" cy="211.7" r="4" fill="#3465a4"><title>Patel</title></circle></a><a href="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/"><circle cx="187.7" cy="179.7" r="4" fill="#3465a4"><title>Aceo</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="241.2" cy="233.0" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16t4g28dg16/"><circle cx="116.1" cy="190.0" r="4" fill="#3465a4"><title>MacCamley</title></circle></a><a href="/variants/s9/g16y3db9r3db9g6db3g3k3~x4/"><circle cx="177.2" cy="213.8" r="4" fill="#3465a4"><title>Blarney Castle</title></circle></a><a href="/variants/s6/dg20r8dg20y8g20k5~x2/"><circle cx="184.6" cy="272.9" r="4" fill="#3465a4"><title>Cates Armigers</title></circle></a><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="163.4" cy="240.5" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s9/dy21r2g18r2g18r2dg8w6dy10~x2/"><circle cx="200.0" cy="207.1" r="4" fill="#3465a4"><title>Red Dirt Girl</title></circle></a><circle cx="183.6" cy="229.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dg12g6r1g10dp8y2w2~x4/"><circle cx="174.3" cy="208.3" r="4" fill="#3465a4"><title>Connelly, James</title></circle></a><a href="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/"><circle cx="159.3" cy="170.7" r="4" fill="#3465a4"><title>Chinzei Keiai School</title></circle></a><a href="/variants/s9/dg3y2dr10dg10g20dg12r3g10w2~x2/"><circle cx="203.6" cy="211.6" r="4" fill="#3465a4"><title>Patel</title></circle></a><a href="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/"><circle cx="188.0" cy="179.6" r="4" fill="#3465a4"><title>Aceo</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="241.4" cy="233.0" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16t4g28dg16/"><circle cx="116.2" cy="189.8" r="4" fill="#3465a4"><title>MacCamley</title></circle></a><a href="/variants/s9/g16y3db9r3db9g6db3g3k3~x4/"><circle cx="177.5" cy="213.7" r="4" fill="#3465a4"><title>Blarney Castle</title></circle></a><a href="/variants/s6/dg20r8dg20y8g20k5~x2/"><circle cx="184.7" cy="272.8" r="4" fill="#3465a4"><title>Cates Armigers</title></circle></a><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="163.6" cy="240.4" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s9/dy21r2g18r2g18r2dg8w6dy10~x2/"><circle cx="200.2" cy="207.0" r="4" fill="#3465a4"><title>Red Dirt Girl</title></circle></a><circle cx="183.8" cy="229.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

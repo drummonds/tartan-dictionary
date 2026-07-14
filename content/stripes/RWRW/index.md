@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r4w35r31w4~x2/">Lewis, Red (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r4w35r31w4~x2/"><img src="/variants/s4/r4w35r31w4~x2/sett.png" alt="Lewis, Red (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lewis-3/">Lewis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lewis-3/"><img src="/variants/s4/r4w35r31w4~x2/sett.png" alt="Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

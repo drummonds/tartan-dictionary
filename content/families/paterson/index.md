@@ -15,7 +15,7 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/p/pa/paterson-3/">Paterson</a> ★</td><td>1945</td><td>1</td><td>2</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pa/paterson-3/"><img src="/variants/s7/g3db12w1k12g13r2g2~x2/sett.png" alt="Paterson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pa/paterson-3/"><img src="/variants/s7/g3db12w1k12g13r2g2~x4/sett.png" alt="Paterson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/p/pa/paterson/">Paterson</a></td><td>1993</td><td>1</td><td>1</td><td>1.81</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pa/paterson/"><img src="/variants/s6/db22w2k10g11r3g4~x2/sett.png" alt="Paterson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/p/pa/paterson-2/">Paterson</a></td><td>—</td><td>1</td><td>1</td><td>2.93</td></tr>

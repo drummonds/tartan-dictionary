@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/">Patterson, William John Magee (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/"><img src="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/sett.png" alt="Patterson, William John Magee (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/patterson-william-john-magee/">Patterson William John Magee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/patterson-william-john-magee/"><img src="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/sett.png" alt="Patterson William John Magee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

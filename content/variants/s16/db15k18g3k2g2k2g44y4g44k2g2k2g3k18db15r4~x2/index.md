@@ -12,10 +12,10 @@ crumbs:
 - name: "Sarafilovic"
   url: "/tartans/s/sa/sarafilovic-2/"
 - name: "Sarafilovic"
-  url: "/setts/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sarafilovic-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKGGGKGKGKBR](/stripes/bkgkgkgggkgkgkbr/).
 
 Part of the [Sarafilovic](/tartans/s/sa/sarafilovic-2/) tartan — the named design grouping this sett with its other cloths.

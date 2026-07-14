@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/ainslie/"
 - name: "Ainslie"
   url: "/families/ainslie/"
+aliases:
+- "/setts/db12k3db2r2db2r12w2k1w2/"
+- "/setts/db23k4db4r4db4r25w4k4w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbrbrwkw/">BKBRBRWKW</a></nav>
 A tartan of the [Ainslie](/families/ainslie/) family.
 Its design is pattern [BKBRBRWKW](/stripes/bkbrbrwkw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Ainslie** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db12k3db2r2db2r12w2k1w2/">Ainslie</a> ★</td><td><code>DB/48 K12 DB8 R8 DB8 R48 W8 K4 W/8</code></td><td>248</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db12k3db2r2db2r12w2k1w2/"><img src="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/sett.png" alt="Ainslie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db23k4db4r4db4r25w4k4w4/">Ainslie</a></td><td><code>DB/46 K8 DB8 R8 DB8 R50 W8 K8 W/8</code></td><td>250</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db23k4db4r4db4r25w4k4w4/"><img src="/variants/s9/db23k4db4r4db4r25w4k4w4~x2/sett.png" alt="Ainslie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/">Ainslie</a> ★</td><td><code>DB/48 K12 DB8 R8 DB8 R48 W8 K4 W/8</code></td><td>248</td><td>1992</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><img src="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/sett.png" alt="Ainslie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db23k4db4r4db4r25w4k4w4~x2/">Ainslie</a></td><td><code>DB/46 K8 DB8 R8 DB8 R50 W8 K8 W/8</code></td><td>250</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db23k4db4r4db4r25w4k4w4~x2/"><img src="/variants/s9/db23k4db4r4db4r25w4k4w4~x2/sett.png" alt="Ainslie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="256.3" cy="129.9" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/"><circle cx="194.7" cy="137.3" r="4" fill="#3465a4"><title>Hermitage Academy</title></circle></a><a href="/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/"><circle cx="208.7" cy="138.0" r="4" fill="#3465a4"><title>St. George's</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="268.5" cy="136.0" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="230.0" cy="143.8" r="4" fill="#3465a4"><title>Americana</title></circle></a><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><circle cx="207.7" cy="166.1" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/"><circle cx="197.8" cy="120.7" r="4" fill="#3465a4"><title>Kyle Grape</title></circle></a><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="222.4" cy="189.9" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.0" cy="174.9" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s10/k4w3k3r13db24r8db26lb12k3w2~x2/"><circle cx="196.4" cy="134.4" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="200.3" cy="146.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="257.0" cy="129.8" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/"><circle cx="195.3" cy="137.2" r="4" fill="#3465a4"><title>Hermitage Academy</title></circle></a><a href="/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/"><circle cx="209.4" cy="137.9" r="4" fill="#3465a4"><title>St. George's</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="269.1" cy="135.9" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="230.7" cy="143.6" r="4" fill="#3465a4"><title>Americana</title></circle></a><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><circle cx="208.4" cy="165.9" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/"><circle cx="198.4" cy="120.4" r="4" fill="#3465a4"><title>Kyle Grape</title></circle></a><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="223.0" cy="189.8" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.5" cy="174.8" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s10/k4w3k3r13db24r8db26lb12k3w2~x2/"><circle cx="197.0" cy="134.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="200.9" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

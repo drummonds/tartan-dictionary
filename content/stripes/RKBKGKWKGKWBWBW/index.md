@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/">MacKenzie Dress #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/"><img src="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/sett.png" alt="MacKenzie Dress #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackenzie-dress-2/">MacKenzie Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackenzie-dress-2/"><img src="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/sett.png" alt="MacKenzie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

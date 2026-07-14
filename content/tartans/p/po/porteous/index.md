@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/porteous/"
 - name: "Porteous"
   url: "/families/porteous/"
+aliases:
+- "/setts/k3y3db20g25lb18w3/"
+- "/setts/k1y1db8g10lb7w1/"
+- "/setts/k3ly3db20dg25lb18w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgbgww/">KGBGWW</a></nav>
 A tartan of the [Porteous](/families/porteous/) family.
 Its design is pattern [KGBGWW](/stripes/kgbgww/) — the page of every tartan sharing this colour sequence.
 
@@ -20,12 +25,12 @@ The **Porteous** tartan groups 3 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3y3db20g25lb18w3/">Porteous</a> ★</td><td><code>K/6 Y6 DB40 G50 LB36 W/6</code></td><td>276</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3y3db20g25lb18w3/"><img src="/variants/s6/k3y3db20g25lb18w3~x2/sett.png" alt="Porteous sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k1y1db8g10lb7w1/">Porteous</a></td><td><code>K/2 Y2 DB16 G20 LB14 W/2</code></td><td>108</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1y1db8g10lb7w1/"><img src="/variants/s6/k1y1db8g10lb7w1~x2/sett.png" alt="Porteous sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3ly3db20dg25lb18w3/">(Clan)</a></td><td><code>K/6 LY6 DB40 DG50 LB36 W/6</code></td><td>276</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3ly3db20dg25lb18w3/"><img src="/variants/s6/k3ly3db20dg25lb18w3~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3y3db20g25lb18w3~x2/">Porteous</a> ★</td><td><code>K/6 Y6 DB40 G50 LB36 W/6</code></td><td>276</td><td>1978</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3y3db20g25lb18w3~x2/"><img src="/variants/s6/k3y3db20g25lb18w3~x2/sett.png" alt="Porteous sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k1y1db8g10lb7w1~x2/">Porteous</a></td><td><code>K/2 Y2 DB16 G20 LB14 W/2</code></td><td>108</td><td>1978</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><img src="/variants/s6/k1y1db8g10lb7w1~x2/sett.png" alt="Porteous sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3ly3db20dg25lb18w3~x2/">(Clan)</a></td><td><code>K/6 LY6 DB40 DG50 LB36 W/6</code></td><td>276</td><td>1977</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3ly3db20dg25lb18w3~x2/"><img src="/variants/s6/k3ly3db20dg25lb18w3~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -38,6 +43,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k2lb2g8db8w1~x2/"><circle cx="154.5" cy="217.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k4lb2g8db8w1/"><circle cx="121.9" cy="226.0" r="4" fill="#3465a4"><title>Dougles</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="147.2" cy="220.5" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/variants/s6/g10k1db13k3lb9lo3~x2/"><circle cx="111.3" cy="191.8" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="58.9" cy="179.8" r="4" fill="#3465a4"><title>Kentucky, State of</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="65.2" cy="180.2" r="4" fill="#3465a4"><title>Kentucky State</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="203.4" cy="197.6" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="191.3" cy="196.4" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/"><circle cx="149.4" cy="184.4" r="4" fill="#3465a4"><title>Lundy</title></circle></a><a href="/variants/s6/r2k1db6k2g6b2~x4/"><circle cx="91.0" cy="224.2" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><circle cx="104.9" cy="192.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k2lb2g8db8w1~x2/"><circle cx="154.8" cy="217.2" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k4lb2g8db8w1/"><circle cx="122.0" cy="225.8" r="4" fill="#3465a4"><title>Dougles</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="147.4" cy="220.3" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/variants/s6/g10k1db13k3lb9lo3~x2/"><circle cx="111.5" cy="191.5" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="59.0" cy="179.4" r="4" fill="#3465a4"><title>Kentucky, State of</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="65.3" cy="179.8" r="4" fill="#3465a4"><title>Kentucky State</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="203.8" cy="197.5" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="191.7" cy="196.2" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/"><circle cx="149.6" cy="184.1" r="4" fill="#3465a4"><title>Lundy</title></circle></a><a href="/variants/s6/r2k1db6k2g6b2~x4/"><circle cx="91.1" cy="223.9" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><circle cx="105.0" cy="192.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

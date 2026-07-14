@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/">Crawfordjohn Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/"><img src="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/sett.png" alt="Crawfordjohn Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crawfordjohn/">Crawfordjohn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crawfordjohn/"><img src="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/sett.png" alt="Crawfordjohn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

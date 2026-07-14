@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r3y2g12dp12db14w3~x2/">Jamestown Parish Church (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><img src="/variants/s6/r3y2g12dp12db14w3~x2/sett.png" alt="Jamestown Parish Church (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/jamestown-parish-church/">Jamestown Parish Church</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/jamestown-parish-church/"><img src="/variants/s6/r3y2g12dp12db14w3~x2/sett.png" alt="Jamestown Parish Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

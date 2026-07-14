@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y1db14r28dg14r1g14y1~x2/">Abernethy (Colerain, USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y1db14r28dg14r1g14y1~x2/"><img src="/variants/s7/y1db14r28dg14r1g14y1~x2/sett.png" alt="Abernethy (Colerain, USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/abernethy-2/">Abernethy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/abernethy-2/"><img src="/variants/s7/y1db14r28dg14r1g14y1~x2/sett.png" alt="Abernethy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

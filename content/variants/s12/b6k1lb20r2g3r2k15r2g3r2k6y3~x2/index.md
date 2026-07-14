@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Scottish Pipe Band Association"
   url: "/tartans/r/ro/royal-scottish-pipe-band-association/"
 - name: "Royal Scottish Pipe Band Association"
-  url: "/setts/b6k1lb20r2g3r2k15r2g3r2k6y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b6k1lb20r2g3r2k15r2g3r2k6y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-scottish-pipe-band-association/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWRGRKRGRKG](/stripes/bkwrgrkrgrkg/).
 
 Part of the [Royal Scottish Pipe Band Association](/tartans/r/ro/royal-scottish-pipe-band-association/) tartan — the named design grouping this sett with its other cloths.

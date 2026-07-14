@@ -12,15 +12,15 @@ crumbs:
 - name: "Tricor"
   url: "/tartans/t/tr/tricor/"
 - name: "Tricor"
-  url: "/setts/y23o4dy6dg6y4lb1y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y23o4dy6dg6y4lb1y4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GWGGGRGRGGGW](/stripes/gwgggrgrgggw/).
+provenance below. It is one weaving of the [sett](/tartans/t/tr/tricor/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGGGWG](/stripes/grgggwg/).
 
 Part of the [Tricor](/tartans/t/tr/tricor/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4151](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4151)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5823
 
 ## Thread count
-Y/16 LB4 Y16 DG24 DY24 O16 Y92 O16 DY24 DG24 Y16 LB/4
+Y/92 O16 DY24 DG24 Y16 LB4 Y/16
 
-One full sett is **532 threads**.
+One full sett is **276 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/16 LB4 Y16 DG24 DY24 O16 Y92 O16 DY24 DG24 Y16 LB/4 — 532 threads; it folds to the canonical 276-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **532 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/16 LB4 Y16 DG24 DY24 O16 Y92 O16 DY24 DG24 Y16 LB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/92 O16 DY24 DG24 Y16 LB4 Y/16 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

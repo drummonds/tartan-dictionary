@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n22r2w1lo3r1n6r22lo3r1lr10~x4/">Glenburnie School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n22r2w1lo3r1n6r22lo3r1lr10~x4/"><img src="/variants/s10/n22r2w1lo3r1n6r22lo3r1lr10~x4/sett.png" alt="Glenburnie School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenburnie/">Glenburnie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenburnie/"><img src="/variants/s10/n22r2w1lo3r1n6r22lo3r1lr10~x4/sett.png" alt="Glenburnie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

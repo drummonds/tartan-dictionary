@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/">Holden Brown (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><img src="/variants/s8/w13k3w3k3w3k15dy18r3~x2/sett.png" alt="Holden Brown (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holden-2/">Holden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holden-2/"><img src="/variants/s8/w13k3w3k3w3k15dy18r3~x2/sett.png" alt="Holden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

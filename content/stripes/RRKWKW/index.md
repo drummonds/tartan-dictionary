@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r4o30k6w13k13w3~x2/">Thom(p)son camel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r4o30k6w13k13w3~x2/"><img src="/variants/s6/r4o30k6w13k13w3~x2/sett.png" alt="Thom(p)son camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thomson-camel-3/">Thomson camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thomson-camel-3/"><img src="/variants/s6/r4o30k6w13k13w3~x2/sett.png" alt="Thomson camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

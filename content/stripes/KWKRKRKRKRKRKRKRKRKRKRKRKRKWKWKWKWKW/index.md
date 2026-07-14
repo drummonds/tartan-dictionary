@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16~x2/">Dunbar Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16~x2/"><img src="/variants/s36/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16~x2/sett.png" alt="Dunbar Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunbar-5/">Dunbar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunbar-5/"><img src="/variants/s36/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16~x2/sett.png" alt="Dunbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

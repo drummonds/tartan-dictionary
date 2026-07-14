@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lo4db24g3k21g23k1~x2/">Glenturret Distillery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lo4db24g3k21g23k1~x2/"><img src="/variants/s6/lo4db24g3k21g23k1~x2/sett.png" alt="Glenturret Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenturret-distillery/">Glenturret Distillery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenturret-distillery/"><img src="/variants/s6/lo4db24g3k21g23k1~x2/sett.png" alt="Glenturret Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

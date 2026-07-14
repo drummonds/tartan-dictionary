@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/">MacBean of Tomatin (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><img src="/variants/s7/db3dr19db13dr5g21dr8db3~x2/sett.png" alt="MacBean of Tomatin (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macbean-of-tomatin/">MacBean of Tomatin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macbean-of-tomatin/"><img src="/variants/s7/db3dr19db13dr5g21dr8db3~x2/sett.png" alt="MacBean of Tomatin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

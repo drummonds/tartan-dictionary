@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db4t8k2t5w2t5dg8dr7dg2dr7dg3~x2~t2704230-w3402083/">DunBroch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db4t8k2t5w2t5dg8dr7dg2dr7dg3~x2~t2704230-w3402083/"><img src="/variants/s11/db4t8k2t5w2t5dg8dr7dg2dr7dg3~x2~t2704230-w3402083/sett.png" alt="DunBroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunbroch/">DunBroch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunbroch/"><img src="/variants/s11/db4t8k2t5w2t5dg8dr7dg2dr7dg3~x2~t2704230-w3402083/sett.png" alt="DunBroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

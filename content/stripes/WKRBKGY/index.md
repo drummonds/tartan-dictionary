@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w2k2r1db20k15dg30ly1~x2/">Muir-Hill (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w2k2r1db20k15dg30ly1~x2/"><img src="/variants/s7/w2k2r1db20k15dg30ly1~x2/sett.png" alt="Muir-Hill (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/muir-hill/">Muir-Hill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/muir-hill/"><img src="/variants/s7/w2k2r1db20k15dg30ly1~x2/sett.png" alt="Muir-Hill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

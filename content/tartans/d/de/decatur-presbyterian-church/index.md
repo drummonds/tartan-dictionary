@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g41r6g12db8k2y5w8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgbkgw/">GRGBKGW</a></nav>
 Its design is pattern [GRGBKGW](/stripes/grgbkgw/) — the page of every tartan sharing this colour sequence.
 
 The **Decatur Presbyterian Church** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Decatur Presbyterian Church** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g41r6g12db8k2y5w8/">Decatur Presbyterian Church</a></td><td><code>G/82 R12 G24 DB16 K4 Y10 W/16</code></td><td>230</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g41r6g12db8k2y5w8/"><img src="/variants/s7/g41r6g12db8k2y5w8~x2/sett.png" alt="Decatur Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g41r6g12db8k2y5w8~x2/">Decatur Presbyterian Church</a></td><td><code>G/82 R12 G24 DB16 K4 Y10 W/16</code></td><td>230</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><img src="/variants/s7/g41r6g12db8k2y5w8~x2/sett.png" alt="Decatur Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.6" cy="124.3" r="4" fill="#3465a4"><title>Sarros XX</title></circle></a><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><circle cx="362.5" cy="162.5" r="4" fill="#3465a4"><title>Crieff and Strathearn</title></circle></a><a href="/variants/s8/g22r3w1g2r3lb16k3dy2~x4/"><circle cx="210.6" cy="116.3" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="259.1" cy="148.3" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s7/g12k4g12w1t6w1y4~x4/"><circle cx="271.3" cy="192.5" r="4" fill="#3465a4"><title>Pinder, Nigel</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.2" cy="172.5" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/variants/s9/g60db1y5k1r15k1w15k1g15~x2/"><circle cx="354.1" cy="60.1" r="4" fill="#3465a4"><title>Michael Pellicci</title></circle></a><a href="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/"><circle cx="350.8" cy="59.0" r="4" fill="#3465a4"><title>Pellicci, Michael</title></circle></a><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><circle cx="327.6" cy="124.9" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="221.3" cy="141.3" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><circle cx="311.4" cy="129.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="359.6" cy="124.5" r="4" fill="#3465a4"><title>Sarros XX</title></circle></a><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><circle cx="363.2" cy="162.6" r="4" fill="#3465a4"><title>Crieff and Strathearn</title></circle></a><a href="/variants/s8/g22r3w1g2r3lb16k3dy2~x4/"><circle cx="211.1" cy="116.1" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="259.8" cy="148.3" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s7/g12k4g12w1t6w1y4~x4/"><circle cx="271.8" cy="192.5" r="4" fill="#3465a4"><title>Pinder, Nigel</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.6" cy="172.4" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/variants/s9/g60db1y5k1r15k1w15k1g15~x2/"><circle cx="355.0" cy="60.2" r="4" fill="#3465a4"><title>Michael Pellicci</title></circle></a><a href="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/"><circle cx="351.8" cy="59.0" r="4" fill="#3465a4"><title>Pellicci, Michael</title></circle></a><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><circle cx="328.4" cy="125.0" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="221.9" cy="141.2" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><circle cx="312.1" cy="129.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

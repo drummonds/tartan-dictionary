@@ -12,15 +12,15 @@ crumbs:
 - name: "Southwick"
   url: "/tartans/s/so/southwick/"
 - name: "Southwick"
-  url: "/setts/r2k12g2w5g2k2r2k5lb10k2lb4k2lb4k2lb4k10w2k1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k12g2w5g2k2r2k5lb10k2lb4k2lb4k2lb4k10w2k1r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWKRKGWGKRKGWGKRKWKWKWKWKWKR](/stripes/kwkwkwkwkwkrkgwgkrkgwgkrkwkwkwkwkwkr/).
+provenance below. It is one weaving of the [sett](/tartans/s/so/southwick/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKGWGKRKWKWKWKWKWKR](/stripes/rkgwgkrkwkwkwkwkwkr/).
 
 Part of the [Southwick](/tartans/s/so/southwick/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3848](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3848)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3848](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/08/1997 — Southwick (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3848">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Tim Southwick of Canada for anyone of the name Southwick - an old Galloway (SW Scotland) family name.</em></li>
-<li>Aug. 1997 — Southwick (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2642">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed by Tim Southwick of Canada for anyone of the name Southwick - an old Galloway (SW Scotland) family name.</em></li>
+<li>Aug. 1997 — Southwick (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2642/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed by Tim Southwick of Canada for anyone of the name Southwick - an old Galloway (SW Scotland) family name.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2642
 
 ## Thread count
-R/4 K2 W4 K20 LB8 K4 LB8 K4 LB8 K4 LB20 K10 R4 K4 G4 W10 G4 K24 R4 K24 G4 W10 G4 K4 R4 K10 LB20 K4 LB8 K4 LB8 K4 LB8 K20 W4 K/2
+R/4 K24 G4 W10 G4 K4 R4 K10 LB20 K4 LB8 K4 LB8 K4 LB8 K20 W4 K2 R/4
 
-One full sett is **578 threads**.
+One full sett is **292 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/4 K2 W4 K20 LB8 K4 LB8 K4 LB8 K4 LB20 K10 R4 K4 G4 W10 G4 K24 R4 K24 G4 W10 G4 K4 R4 K10 LB20 K4 LB8 K4 LB8 K4 LB8 K20 W4 K/2 — 578 threads; it folds to the canonical 292-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **578 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 K2 W4 K20 LB8 K4 LB8 K4 LB8 K4 LB20 K10 R4 K4 G4 W10 G4 K24 R4 K24 G4 W10 G4 K4 R4 K10 LB20 K4 LB8 K4 LB8 K4 LB8 K20 W4 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 K24 G4 W10 G4 K4 R4 K10 LB20 K4 LB8 K4 LB8 K4 LB8 K20 W4 K2 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

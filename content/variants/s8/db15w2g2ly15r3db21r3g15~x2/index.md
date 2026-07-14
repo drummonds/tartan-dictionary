@@ -12,10 +12,10 @@ crumbs:
 - name: "Loyalhanna"
   url: "/tartans/l/lo/loyalhanna-2/"
 - name: "Loyalhanna"
-  url: "/setts/db15w2g2ly15r3db21r3g15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db15w2g2ly15r3db21r3g15/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loyalhanna-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGYRBRG](/stripes/bwgyrbrg/).
 
 Part of the [Loyalhanna](/tartans/l/lo/loyalhanna-2/) tartan — the named design grouping this sett with its other cloths.

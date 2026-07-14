@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/">Naomia Melvina Young Wedding Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/"><img src="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/sett.png" alt="Naomia Melvina Young Wedding Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/naomia-melvina-young-wedding-dress/">Naomia Melvina Young Wedding Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/naomia-melvina-young-wedding-dress/"><img src="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/sett.png" alt="Naomia Melvina Young Wedding Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

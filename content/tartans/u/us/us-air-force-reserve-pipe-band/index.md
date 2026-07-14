@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db44ly3k20dr3db8lg34db5lg15/"
+- "/setts/db44k23dr3db8lg34db5lg15/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bykbbyby/">BYKBBYBY</a></nav>
 Its design is pattern [BYKBBYBY](/stripes/bykbbyby/) — the page of every tartan sharing this colour sequence.
 
 Adopted early 1990s by Georgia's Air Force Reserve pipe band; formerly 'Lady Jane of St Cirus', woven by Strathmore Woollen Company.
@@ -15,10 +19,10 @@ The **US Air Force Reserve Pipe Band** tartan groups 2 setts — the same named 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db44ly3k20dr3db8lg34db5lg15/">US Air Force Reserve Pipe Band</a> ★</td><td><code>DB/88 LY6 K40 DR6 DB16 LG68 DB10 LG/30</code></td><td>410</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db44ly3k20dr3db8lg34db5lg15/"><img src="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/sett.png" alt="US Air Force Reserve Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db44k23dr3db8lg34db5lg15/">Military Tartan</a></td><td><code>DB/88 K6 K40 DR6 DB16 LG68 DB10 LG/30</code></td><td>410</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db44k23dr3db8lg34db5lg15/"><img src="/variants/s7/db44k23dr3db8lg34db5lg15~x2/sett.png" alt="Military Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/">US Air Force Reserve Pipe Band</a> ★</td><td><code>DB/88 LY6 K40 DR6 DB16 LG68 DB10 LG/30</code></td><td>410</td><td>1988</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><img src="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/sett.png" alt="US Air Force Reserve Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db44k23dr3db8lg34db5lg15~x2/">Military Tartan</a></td><td><code>DB/88 K46 DR6 DB16 LG68 DB10 LG/30</code></td><td>410</td><td>1988</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db44k23dr3db8lg34db5lg15~x2/"><img src="/variants/s7/db44k23dr3db8lg34db5lg15~x2/sett.png" alt="Military Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="188.5" cy="166.4" r="4" fill="#3465a4"><title>State Seal of Washington</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="163.3" cy="150.7" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="160.4" cy="171.8" r="4" fill="#3465a4"><title>Thomson Dress</title></circle></a><a href="/variants/s9/w3ly2g8k2ly3k2db15k1ly2~x4/"><circle cx="141.7" cy="136.3" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><circle cx="146.2" cy="139.3" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="150.5" cy="166.3" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><circle cx="180.1" cy="159.1" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/"><circle cx="167.7" cy="130.4" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="137.3" cy="148.9" r="4" fill="#3465a4"><title>Colgan</title></circle></a><a href="/variants/s6/db20k6ly4db3g20w2~x2/"><circle cx="175.9" cy="187.2" r="4" fill="#3465a4"><title>DeLoughery</title></circle></a><circle cx="177.3" cy="151.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="188.9" cy="166.2" r="4" fill="#3465a4"><title>State Seal of Washington</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="163.8" cy="150.5" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="160.9" cy="171.6" r="4" fill="#3465a4"><title>Thomson Dress</title></circle></a><a href="/variants/s9/w3ly2g8k2ly3k2db15k1ly2~x4/"><circle cx="142.1" cy="136.0" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><circle cx="146.6" cy="139.0" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="150.8" cy="166.1" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><circle cx="180.6" cy="159.0" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/"><circle cx="168.2" cy="130.2" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="137.7" cy="148.6" r="4" fill="#3465a4"><title>Colgan</title></circle></a><a href="/variants/s6/db20k6ly4db3g20w2~x2/"><circle cx="176.2" cy="187.0" r="4" fill="#3465a4"><title>DeLoughery</title></circle></a><circle cx="177.8" cy="151.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

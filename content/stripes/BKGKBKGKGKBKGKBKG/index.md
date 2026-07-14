@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/">Hope-Vere/Weir</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/"><img src="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/sett.png" alt="Hope-Vere/Weir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hope-vere-3/">Hope-Vere</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hope-vere-3/"><img src="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/sett.png" alt="Hope-Vere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

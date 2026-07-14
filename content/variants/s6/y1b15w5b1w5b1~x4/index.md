@@ -8,10 +8,10 @@ crumbs:
 - name: "Whitley"
   url: "/tartans/w/wh/whitley/"
 - name: "Whitley (Personal)"
-  url: "/setts/y1b15w5b1w5b1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1b15w5b1w5b1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wh/whitley/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBG](/stripes/bwbwbg/).
 
 Part of the [Whitley](/tartans/w/wh/whitley/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4616](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2007 — Whitley (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4616">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Details from Phil Smith in June 2007 who does not have any details of source or provenance. Phil Smith comments that this is an unimaginative design, a copy of so many in the Vestiarium Scoticum.</em></li>
-<li>pre 2007 — Whitley (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7233">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Details from Phil Smith in June 2007 who does not have any details of source or provenance. PS comments that this is an unimaginative design, a copy of so many in the Vestiarium Scoticum.</em></li>
+<li>pre 2007 — Whitley (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7233/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Details from Phil Smith in June 2007 who does not have any details of source or provenance. PS comments that this is an unimaginative design, a copy of so many in the Vestiarium Scoticum.</em></li>
 </ul>
 </details>
 

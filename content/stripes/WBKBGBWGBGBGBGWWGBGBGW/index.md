@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/w42g3db1g2dp1g2w2lb20g1dp2g3db1g2dp1g2w2db3g1db2k1db2lb2~x2/">Tiree, Turquoise (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/w42g3db1g2dp1g2w2lb20g1dp2g3db1g2dp1g2w2db3g1db2k1db2lb2~x2/"><img src="/variants/s22/w42g3db1g2dp1g2w2lb20g1dp2g3db1g2dp1g2w2db3g1db2k1db2lb2~x2/sett.png" alt="Tiree, Turquoise (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tiree-turquoise/">Tiree Turquoise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tiree-turquoise/"><img src="/variants/s22/w42g3db1g2dp1g2w2lb20g1dp2g3db1g2dp1g2w2db3g1db2k1db2lb2~x2/sett.png" alt="Tiree Turquoise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

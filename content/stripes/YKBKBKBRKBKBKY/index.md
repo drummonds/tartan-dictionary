@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/">German Heritage</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/"><img src="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/sett.png" alt="German Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/german-heritage/">German Heritage</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/german-heritage/"><img src="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/sett.png" alt="German Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

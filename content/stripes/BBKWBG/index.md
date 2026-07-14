@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dr3db38k13w3n20dy2~x2/">LLoyd of Astargus Canadian Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr3db38k13w3n20dy2~x2/"><img src="/variants/s6/dr3db38k13w3n20dy2~x2/sett.png" alt="LLoyd of Astargus Canadian Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ll/lloyd-of-astargus/">Lloyd of Astargus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ll/lloyd-of-astargus/"><img src="/variants/s6/dr3db38k13w3n20dy2~x2/sett.png" alt="Lloyd of Astargus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

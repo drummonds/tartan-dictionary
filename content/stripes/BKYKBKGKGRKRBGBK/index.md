@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db22k2ly3k2db22k4g10k2g10r3k4r3do10g2do10k3~x2/">Yeomans (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db22k2ly3k2db22k4g10k2g10r3k4r3do10g2do10k3~x2/"><img src="/variants/s16/db22k2ly3k2db22k4g10k2g10r3k4r3do10g2do10k3~x2/sett.png" alt="Yeomans (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/ye/yeomans/">Yeomans</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ye/yeomans/"><img src="/variants/s16/db22k2ly3k2db22k4g10k2g10r3k4r3do10g2do10k3~x2/sett.png" alt="Yeomans sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

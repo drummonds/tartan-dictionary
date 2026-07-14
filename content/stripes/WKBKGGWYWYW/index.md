@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/">Rwanda</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/"><img src="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/sett.png" alt="Rwanda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/rw/rwanda/">Rwanda</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/rw/rwanda/"><img src="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/sett.png" alt="Rwanda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/b32do6o5do6dg19o3dg5~x2/">Roscommon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/b32do6o5do6dg19o3dg5~x2/"><img src="/variants/s7/b32do6o5do6dg19o3dg5~x2/sett.png" alt="Roscommon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/roscommon/">Roscommon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roscommon/"><img src="/variants/s7/b32do6o5do6dg19o3dg5~x2/sett.png" alt="Roscommon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

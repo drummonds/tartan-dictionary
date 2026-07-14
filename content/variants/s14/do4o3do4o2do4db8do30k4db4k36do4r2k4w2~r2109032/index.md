@@ -8,10 +8,10 @@ crumbs:
 - name: "Capercaillie"
   url: "/tartans/c/ca/capercaillie/"
 - name: "Capercaillie"
-  url: "/setts/do4o3do4o2do4db8do30k4db4k36do4r2k4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do4o3do4o2do4db8do30k4db4k36do4r2k4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/capercaillie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBBKBKBRKW](/stripes/brbrbbbkbkbrkw/).
 
 Part of the [Capercaillie](/tartans/c/ca/capercaillie/) tartan — the named design grouping this sett with its other cloths.

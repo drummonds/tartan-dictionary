@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dp30ly7w6db30y8~x2/">Pownall (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp30ly7w6db30y8~x2/"><img src="/variants/s5/dp30ly7w6db30y8~x2/sett.png" alt="Pownall (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/pownall/">Pownall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/pownall/"><img src="/variants/s5/dp30ly7w6db30y8~x2/sett.png" alt="Pownall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

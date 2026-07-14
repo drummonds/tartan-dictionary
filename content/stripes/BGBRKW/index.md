@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/t86dy2t18r3k1w2~x2/">Wylie (Ancient)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/t86dy2t18r3k1w2~x2/"><img src="/variants/s6/t86dy2t18r3k1w2~x2/sett.png" alt="Wylie (Ancient) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wy/wylie/">Wylie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wy/wylie/"><img src="/variants/s6/t86dy2t18r3k1w2~x2/sett.png" alt="Wylie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

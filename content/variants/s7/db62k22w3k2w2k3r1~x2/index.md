@@ -8,10 +8,10 @@ crumbs:
 - name: "Tyneside Blue, North Tyneside Pipe Band"
   url: "/tartans/t/ty/tyneside-blue-north-tyneside-pipe-band/"
 - name: "Tyneside Blue, North Tyneside Pipe Band"
-  url: "/setts/db62k22w3k2w2k3r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db62k22w3k2w2k3r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ty/tyneside-blue-north-tyneside-pipe-band/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWKR](/stripes/bkwkwkr/).
 
 Part of the [Tyneside Blue, North Tyneside Pipe Band](/tartans/t/ty/tyneside-blue-north-tyneside-pipe-band/) tartan — the named design grouping this sett with its other cloths.

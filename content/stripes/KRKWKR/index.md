@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4r33k24w3k4r3~x2/">Monmouth College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4r33k24w3k4r3~x2/"><img src="/variants/s6/k4r33k24w3k4r3~x2/sett.png" alt="Monmouth College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/monmouth-college/">Monmouth College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/monmouth-college/"><img src="/variants/s6/k4r33k24w3k4r3~x2/sett.png" alt="Monmouth College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

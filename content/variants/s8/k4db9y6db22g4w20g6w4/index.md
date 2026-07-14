@@ -8,10 +8,10 @@ crumbs:
 - name: "Ship Hector"
   url: "/tartans/s/sh/ship-hector/"
 - name: "Ship Hector"
-  url: "/setts/k4db9y6db22g4w20g6w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4db9y6db22g4w20g6w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sh/ship-hector/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBGWGW](/stripes/kbgbgwgw/).
 
 Part of the [Ship Hector](/tartans/s/sh/ship-hector/) tartan — the named design grouping this sett with its other cloths.

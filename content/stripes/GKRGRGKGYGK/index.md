@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/">McAlifyfe (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><img src="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/sett.png" alt="McAlifyfe (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcalifyfe/">McAlifyfe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcalifyfe/"><img src="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/sett.png" alt="McAlifyfe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

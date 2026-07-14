@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/">Borders Health Board (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/"><img src="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/sett.png" alt="Borders Health Board (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/borders-health-board/">Borders Health Board</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/borders-health-board/"><img src="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/sett.png" alt="Borders Health Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

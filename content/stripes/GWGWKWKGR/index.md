@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/">Bell Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><img src="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/sett.png" alt="Bell Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/">Bell of the Borders (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/"><img src="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/sett.png" alt="Bell of the Borders (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bell/">Bell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bell/"><img src="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/sett.png" alt="Bell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bell-of-the-borders-2/">Bell of the Borders.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-of-the-borders-2/"><img src="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/sett.png" alt="Bell of the Borders. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

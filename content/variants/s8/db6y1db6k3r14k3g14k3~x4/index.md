@@ -12,10 +12,10 @@ crumbs:
 - name: "Kilgour"
   url: "/tartans/k/ki/kilgour-2/"
 - name: "Kilgour (Cant)"
-  url: "/setts/db6y1db6k3r14k3g14k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6y1db6k3r14k3g14k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kilgour-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKRKGK](/stripes/bgbkrkgk/).
 
 Part of the [Kilgour](/tartans/k/ki/kilgour-2/) tartan — the named design grouping this sett with its other cloths.
@@ -66,7 +66,7 @@ One full sett is **364 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.03** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.00** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

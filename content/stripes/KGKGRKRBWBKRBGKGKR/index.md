@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r5k3g22k3y3dp7r7k2dp4w2dp4r7k2r7y3k3g22k2~x2/">Derbyshire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r5k3g22k3y3dp7r7k2dp4w2dp4r7k2r7y3k3g22k2~x2/"><img src="/variants/s18/r5k3g22k3y3dp7r7k2dp4w2dp4r7k2r7y3k3g22k2~x2/sett.png" alt="Derbyshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/derbyshire/">Derbyshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/derbyshire/"><img src="/variants/s18/r5k3g22k3y3dp7r7k2dp4w2dp4r7k2r7y3k3g22k2~x2/sett.png" alt="Derbyshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Michie"
   url: "/clan/michie/"
+aliases:
+- "/setts/dp62g5dg20db5k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bggbk/">BGGBK</a></nav>
 A tartan of [Clan Michie](/clan/michie/).
 Its design is pattern [BGGBK](/stripes/bggbk/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Michie Dress, Andrew** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp62g5dg20db5k1/">Michie Dress, Andrew</a></td><td><code>DP/124 G10 DG40 DB10 K/2</code></td><td>246</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp62g5dg20db5k1/"><img src="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/sett.png" alt="Michie Dress, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/">Michie Dress, Andrew</a></td><td><code>DP/124 G10 DG40 DB10 K/2</code></td><td>246</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><img src="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/sett.png" alt="Michie Dress, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/"><circle cx="430.8" cy="103.4" r="4" fill="#3465a4"><title>Michie, Andrew</title></circle></a><a href="/variants/s5/dy1k2dp27k2dg1~x2/"><circle cx="626.0" cy="139.0" r="4" fill="#3465a4"><title>Western Carolina University</title></circle></a><a href="/variants/s6/dt15db55w1dp5r2y1~x2/"><circle cx="559.4" cy="140.6" r="4" fill="#3465a4"><title>Venters</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="461.1" cy="191.3" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s4/dg43k14db14dr2~x2/"><circle cx="408.5" cy="217.9" r="4" fill="#3465a4"><title>Feddinch Club, St Andrews</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="380.1" cy="135.7" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2/"><circle cx="578.1" cy="203.9" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/variants/s6/db52k12dp18dy1dp1dy4~x2/"><circle cx="480.5" cy="155.5" r="4" fill="#3465a4"><title>British Energy</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="480.9" cy="114.9" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s4/k80dp30db9r3~x2/"><circle cx="431.1" cy="158.3" r="4" fill="#3465a4"><title>Doyle</title></circle></a><circle cx="497.5" cy="133.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/"><circle cx="432.0" cy="103.6" r="4" fill="#3465a4"><title>Michie, Andrew</title></circle></a><a href="/variants/s5/dy1k2dp27k2dg1~x2/"><circle cx="626.0" cy="139.6" r="4" fill="#3465a4"><title>Western Carolina University</title></circle></a><a href="/variants/s6/dt15db55w1dp5r2y1~x2/"><circle cx="560.4" cy="141.0" r="4" fill="#3465a4"><title>Venters</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="461.9" cy="191.6" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s4/dg43k14db14dr2~x2/"><circle cx="409.3" cy="218.2" r="4" fill="#3465a4"><title>Feddinch Club, St Andrews</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="381.0" cy="135.9" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2/"><circle cx="579.0" cy="204.4" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/variants/s6/db52k12dp18dy1dp1dy4~x2/"><circle cx="481.5" cy="155.8" r="4" fill="#3465a4"><title>British Energy</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="482.2" cy="115.2" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s4/k80dp30db9r3~x2/"><circle cx="432.2" cy="158.7" r="4" fill="#3465a4"><title>Doyle</title></circle></a><circle cx="498.6" cy="133.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

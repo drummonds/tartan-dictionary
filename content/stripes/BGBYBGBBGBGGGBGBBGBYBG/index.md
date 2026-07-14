@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dbi1404245-db1204274-dgi1605139/">Protheroe of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dbi1404245-db1204274-dgi1605139/"><img src="/variants/s22/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dbi1404245-db1204274-dgi1605139/sett.png" alt="Protheroe of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/protheroe-of-wales/">Protheroe of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/protheroe-of-wales/"><img src="/variants/s22/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dbi1404245-db1204274-dgi1605139/sett.png" alt="Protheroe of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

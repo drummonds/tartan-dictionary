@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/">Oliver Dress (Red)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/"><img src="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/sett.png" alt="Oliver Dress (Red) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/">Oliver, Red (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/"><img src="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/sett.png" alt="Oliver, Red (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/oliver/">Oliver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/oliver/"><img src="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/sett.png" alt="Oliver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/oliver-dress-2/">Oliver Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/oliver-dress-2/"><img src="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/sett.png" alt="Oliver Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

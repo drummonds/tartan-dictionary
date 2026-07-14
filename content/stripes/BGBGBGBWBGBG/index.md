@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/">California Burns (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><img src="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/sett.png" alt="California Burns (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/california-burns/">California Burns</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/california-burns/"><img src="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/sett.png" alt="California Burns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

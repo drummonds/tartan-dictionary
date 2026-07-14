@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/">Gaelic Society of Moscow (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/"><img src="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/sett.png" alt="Gaelic Society of Moscow (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gaelic-society-of-moscow/">Gaelic Society of Moscow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gaelic-society-of-moscow/"><img src="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/sett.png" alt="Gaelic Society of Moscow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

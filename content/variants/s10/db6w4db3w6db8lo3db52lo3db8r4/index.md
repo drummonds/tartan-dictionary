@@ -10,10 +10,10 @@ crumbs:
 - name: "Dundee F.C."
   url: "/tartans/d/du/dundee-f-c/"
 - name: "Dundee F.C. Corporate Tartan"
-  url: "/setts/db6w4db3w6db8lo3db52lo3db8r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6w4db3w6db8lo3db52lo3db8r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dundee-f-c/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBYBYBR](/stripes/bwbwbybybr/).
 
 Part of the [Dundee F.C.](/tartans/d/du/dundee-f-c/) tartan — the named design grouping this sett with its other cloths.

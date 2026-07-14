@@ -12,10 +12,10 @@ crumbs:
 - name: "Porcupine"
   url: "/tartans/p/po/porcupine/"
 - name: "Porcupine"
-  url: "/setts/n1r1n3o1n1do8y7g1n1lb1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n1r1n3o1n1do8y7g1n1lb1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/porcupine/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBGGBWW](/stripes/brbrbbggbww/).
 
 Part of the [Porcupine](/tartans/p/po/porcupine/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/">Brittish Lions Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/"><img src="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/sett.png" alt="Brittish Lions Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/r46w2r2w3r2k3db7k2dy2r2g8w3~x2/">Lions' Pride</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r46w2r2w3r2k3db7k2dy2r2g8w3~x2/"><img src="/variants/s12/r46w2r2w3r2k3db7k2dy2r2g8w3~x2/sett.png" alt="Lions' Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/british-lions/">British Lions</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/british-lions/"><img src="/variants/s12/r46w2r2w3r2k3db7k2dy2r2g8w3~x2/sett.png" alt="British Lions sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brittish-lions/">Brittish Lions</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brittish-lions/"><img src="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/sett.png" alt="Brittish Lions sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

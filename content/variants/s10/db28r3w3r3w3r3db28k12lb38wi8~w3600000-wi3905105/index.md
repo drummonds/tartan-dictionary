@@ -12,10 +12,10 @@ crumbs:
 - name: "GYL"
   url: "/tartans/g/gy/gyl/"
 - name: "GYL family (Personal)"
-  url: "/setts/db28r3w3r3w3r3db28k12lb38wi8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db28r3w3r3w3r3db28k12lb38wi8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gy/gyl/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRWRBKWW](/stripes/brwrwrbkww/).
 
 Part of the [GYL](/tartans/g/gy/gyl/) tartan — the named design grouping this sett with its other cloths.

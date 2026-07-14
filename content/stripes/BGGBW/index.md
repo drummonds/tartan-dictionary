@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w14dp4dy1g8db2~x2/">Manx Laxey Dress Green</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w14dp4dy1g8db2~x2/"><img src="/variants/s5/w14dp4dy1g8db2~x2/sett.png" alt="Manx Laxey Dress Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/dr7y3g28db28w3~x2/">Turnbull Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr7y3g28db28w3~x2/"><img src="/variants/s5/dr7y3g28db28w3~x2/sett.png" alt="Turnbull Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-laxey-dress/">Manx Laxey Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-laxey-dress/"><img src="/variants/s5/w14dp4dy1g8db2~x2/sett.png" alt="Manx Laxey Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/turnbull-hunting/">Turnbull Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/turnbull-hunting/"><img src="/variants/s5/dr7y3g28db28w3~x2/sett.png" alt="Turnbull Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

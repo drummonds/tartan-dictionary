@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db1dr4db12dr1k7g12k7dy21w1~x2/">Redgate Htg #1 (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db1dr4db12dr1k7g12k7dy21w1~x2/"><img src="/variants/s9/db1dr4db12dr1k7g12k7dy21w1~x2/sett.png" alt="Redgate Htg #1 (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/redgate-hunting/">Redgate Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/redgate-hunting/"><img src="/variants/s9/db1dr4db12dr1k7g12k7dy21w1~x2/sett.png" alt="Redgate Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

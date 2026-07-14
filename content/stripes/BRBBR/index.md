@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dr4r21dr21db24r4~x2/">Ferguson Britt Red (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr4r21dr21db24r4~x2/"><img src="/variants/s5/dr4r21dr21db24r4~x2/sett.png" alt="Ferguson Britt Red (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-britt/">Ferguson Britt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-britt/"><img src="/variants/s5/dr4r21dr21db24r4~x2/sett.png" alt="Ferguson Britt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/b37o9b3do9o3~x2/">Glen Boig</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/b37o9b3do9o3~x2/"><img src="/variants/s5/b37o9b3do9o3~x2/sett.png" alt="Glen Boig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-boig/">Glen Boig</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-boig/"><img src="/variants/s5/b37o9b3do9o3~x2/sett.png" alt="Glen Boig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

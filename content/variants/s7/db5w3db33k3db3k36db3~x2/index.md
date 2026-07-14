@@ -7,23 +7,23 @@ crumbs:
   url: "/"
 - name: "Argentina"
   url: "/tartans/a/ar/argentina/"
-- name: "Argentina"
-  url: "/setts/db5w3db33k3db3k36db3/"
+- name: "St. Andrew Soc. of River Plate (Corp"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5w3db33k3db3k36db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/argentina/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWB](/stripes/bkbkbwb/).
 
 Part of the [Argentina](/tartans/a/ar/argentina/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2487](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2487)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/2487/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2487/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1998 — St. Andrew Soc. of River Plate (Corp (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2487">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><br><em>Original notes said: "Designed by the St Andrew's Society of the River Plate for Scots living in Argentina." but in May 2005 the following notes were submitted by the designer Edward Macrae: "Edward Macrae, a Scottish-Argentine designed the Argentina District Tartan in 1998 and it is based in the sett of the Robertson tartan honouring John and William Robertson two Scotsmen from Kelso who started the first settlement of Scottish immigrants in Argentina. 220 emigrants left the port of Leith on board of the "Symmetry" and arrived in Buenos Aires on August 8, 1825 settling in a ranch 20 miles south-west of the city, bought by the Robertson brothers in the area of Monte Grande and called "Santa Catalina." Many of their descendants became important people in the development of the country outstanding in the fields of: medicine (Cecilia Grierson became the first woman to graduate as a doctor in the country), sports (the Brown brothers gave great impulse to football), ranching, transportation, commerce, etc. The tartan combines the colours of the Argentine and Scottish flags, showing the amalgamation of the two cultures. Blue, navy blue and white are part of the iconography used in sports and national symbols typically representing Argentina." Woven sample. What may appear as black to some in this graphic is infact midnight blue. http://www.scotlandinargentina.com.ar/tartanargentino.htm</em></li>
+<li>1998 — St. Andrew Soc. of River Plate (Corp (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2487/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><br><em>Original notes said: "Designed by the St Andrew's Society of the River Plate for Scots living in Argentina." but in May 2005 the following notes were submitted by the designer Edward Macrae: "Edward Macrae, a Scottish-Argentine designed the Argentina District Tartan in 1998 and it is based in the sett of the Robertson tartan honouring John and William Robertson two Scotsmen from Kelso who started the first settlement of Scottish immigrants in Argentina. 220 emigrants left the port of Leith on board of the "Symmetry" and arrived in Buenos Aires on August 8, 1825 settling in a ranch 20 miles south-west of the city, bought by the Robertson brothers in the area of Monte Grande and called "Santa Catalina." Many of their descendants became important people in the development of the country outstanding in the fields of: medicine (Cecilia Grierson became the first woman to graduate as a doctor in the country), sports (the Brown brothers gave great impulse to football), ranching, transportation, commerce, etc. The tartan combines the colours of the Argentine and Scottish flags, showing the amalgamation of the two cultures. Blue, navy blue and white are part of the iconography used in sports and national symbols typically representing Argentina." Woven sample. What may appear as black to some in this graphic is infact midnight blue. http://www.scotlandinargentina.com.ar/tartanargentino.htm</em></li>
 <li>undated — Argentina (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Q #000030"></span></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2487](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

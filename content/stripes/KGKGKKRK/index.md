@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k7r2k2ki6y1ki1y1ki4~x4~ki0604259/">Printing Industries of America</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k7r2k2ki6y1ki1y1ki4~x4~ki0604259/"><img src="/variants/s8/k7r2k2ki6y1ki1y1ki4~x4~ki0604259/sett.png" alt="Printing Industries of America sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/printing-industries-of-america/">Printing Industries of America</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/printing-industries-of-america/"><img src="/variants/s8/k7r2k2ki6y1ki1y1ki4~x4~ki0604259/sett.png" alt="Printing Industries of America sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Dunbar"
   url: "/tartans/d/du/dunbar-5/"
 - name: "Dunbar Plaid"
-  url: "/setts/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w24k4w4k4w4k20w8k20w16k16r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k16w96k16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunbar-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW](/stripes/kwkrkrkrkrkrkrkrkrkrkrkrkrkwkwkwkwkw/).
 
 Part of the [Dunbar](/tartans/d/du/dunbar-5/) tartan — the named design grouping this sett with its other cloths.

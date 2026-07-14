@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/">Humphries (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><img src="/variants/s8/g18r1w2k1w2r1o6k2~x4/sett.png" alt="Humphries (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/humphries-2/">Humphries</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/humphries-2/"><img src="/variants/s8/g18r1w2k1w2r1o6k2~x4/sett.png" alt="Humphries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dp4g4dg2w3g27dg30y1r3~x2/">Hannigan of Dirleton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp4g4dg2w3g27dg30y1r3~x2/"><img src="/variants/s8/dp4g4dg2w3g27dg30y1r3~x2/sett.png" alt="Hannigan of Dirleton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/dp4dg4g2w3dg27g30y1r3~x2~dg1806142-g1903114/">Hannigan of Dirleton (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp4dg4g2w3dg27g30y1r3~x2~dg1806142-g1903114/"><img src="/variants/s8/dp4dg4g2w3dg27g30y1r3~x2~dg1806142-g1903114/sett.png" alt="Hannigan of Dirleton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hannigan-of-dirleton/">Hannigan of Dirleton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hannigan-of-dirleton/"><img src="/variants/s8/dp4dg4g2w3dg27g30y1r3~x2~dg1806142-g1903114/sett.png" alt="Hannigan of Dirleton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

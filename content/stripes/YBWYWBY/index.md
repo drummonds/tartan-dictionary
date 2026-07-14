@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lo17do5w1lo5w7do47lo7~x2/">Pride of Cleveland Fall</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lo17do5w1lo5w7do47lo7~x2/"><img src="/variants/s7/lo17do5w1lo5w7do47lo7~x2/sett.png" alt="Pride of Cleveland Fall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-cleveland-fall/">Pride of Cleveland Fall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-cleveland-fall/"><img src="/variants/s7/lo17do5w1lo5w7do47lo7~x2/sett.png" alt="Pride of Cleveland Fall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

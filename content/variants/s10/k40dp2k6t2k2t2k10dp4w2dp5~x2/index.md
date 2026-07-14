@@ -8,15 +8,15 @@ crumbs:
 - name: "Ironside"
   url: "/tartans/i/ir/ironside/"
 - name: "Ironside (Personal)"
-  url: "/setts/k40dp2k6t2k2t2k10dp4w2dp5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k40dp2k6t2k2t2k10dp4w2dp5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBKBKBKBKBKBKBKBW](/stripes/bwbkbkbkbkbkbkbkbw/).
+provenance below. It is one weaving of the [sett](/tartans/i/ir/ironside/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBKBKBKBK](/stripes/bwbkbkbkbk/).
 
 Part of the [Ironside](/tartans/i/ir/ironside/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1857](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1857)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1857](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>03/07/2001 — Ironside (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1857">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>Estimated count for display purposes only. A restricted tartan created for the Golden Wedding Aniversary of John T. and Frances A. Ironside of a farming family from Methlick, Aberdeenshire.</em></li>
-<li>pre 2002 — Ironside (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3990">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Estimated count for display purposes only. A restricted tartan created for the Golden Wedding Aniversary of John T. and Frances A. Ironside of a farming family from Methlick, Aberdeenshire.</em></li>
+<li>pre 2002 — Ironside (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3990/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Estimated count for display purposes only. A restricted tartan created for the Golden Wedding Aniversary of John T. and Frances A. Ironside of a farming family from Methlick, Aberdeenshire.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2845
 
 ## Thread count
-DP/10 W4 DP8 K20 T4 K4 T4 K12 DP4 K80 DP4 K12 T4 K4 T4 K20 DP8 W/4
+K/80 DP4 K12 T4 K4 T4 K20 DP8 W4 DP/10
 
-One full sett is **406 threads**.
+One full sett is **210 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/10 W4 DP8 K20 T4 K4 T4 K12 DP4 K80 DP4 K12 T4 K4 T4 K20 DP8 W/4 — 406 threads; it folds to the canonical 210-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **406 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/10 W4 DP8 K20 T4 K4 T4 K12 DP4 K80 DP4 K12 T4 K4 T4 K20 DP8 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/80 DP4 K12 T4 K4 T4 K20 DP8 W4 DP/10 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

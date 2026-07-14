@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/g6y6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2dg15g1k2~x2/">International College of Dentists (Canadian Section)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/g6y6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2dg15g1k2~x2/"><img src="/variants/s22/g6y6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2dg15g1k2~x2/sett.png" alt="International College of Dentists (Canadian Section) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/international-college-of-dentists/">International College of Dentists</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/international-college-of-dentists/"><img src="/variants/s22/g6y6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2dg15g1k2~x2/sett.png" alt="International College of Dentists sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/">Dalgliesh, Ewen (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/"><img src="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/sett.png" alt="Dalgliesh, Ewen (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dalgliesh-ewen/">Dalgliesh, Ewen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dalgliesh-ewen/"><img src="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/sett.png" alt="Dalgliesh, Ewen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

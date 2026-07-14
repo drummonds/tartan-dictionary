@@ -10,10 +10,10 @@ crumbs:
 - name: "MacBean MacVean"
   url: "/tartans/m/ma/macbean-macvean/"
 - name: "MacBean MacVean"
-  url: "/setts/r32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2ri3r3rii3g2rii3r3ri3w2g6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2ri3r3rii3g2rii3r3ri3w2g6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macbean-macvean/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRRRGRRRWKGKWBBWWWBBWR](/stripes/gwrrrgrrrwkgkwbbwwwbbwr/).
 
 Part of the [MacBean MacVean](/tartans/m/ma/macbean-macvean/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Annan"
   url: "/tartans/a/an/annan-2/"
 - name: "Annan"
-  url: "/setts/o15n1o2b2o2n1o3k8n10o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o15n1o2b2o2n1o3k8n10o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/annan-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKRBRBRBR](/stripes/rbkrbrbrbr/).
 
 Part of the [Annan](/tartans/a/an/annan-2/) tartan — the named design grouping this sett with its other cloths.

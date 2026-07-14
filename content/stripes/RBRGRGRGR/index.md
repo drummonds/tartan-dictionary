@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r28db12r3g20m1g2m1g2r7~x2/">Carrick</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r28db12r3g20m1g2m1g2r7~x2/"><img src="/variants/s9/r28db12r3g20m1g2m1g2r7~x2/sett.png" alt="Carrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carrick-3/">Carrick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carrick-3/"><img src="/variants/s9/r28db12r3g20m1g2m1g2r7~x2/sett.png" alt="Carrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/r5dp10r20g2r20g10r5g10r5~x2/">Murray, Lord George (Plaid)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r5dp10r20g2r20g10r5g10r5~x2/"><img src="/variants/s9/r5dp10r20g2r20g10r5g10r5~x2/sett.png" alt="Murray, Lord George (Plaid) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-lord-george-2/">Murray, Lord George</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-lord-george-2/"><img src="/variants/s9/r5dp10r20g2r20g10r5g10r5~x2/sett.png" alt="Murray, Lord George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

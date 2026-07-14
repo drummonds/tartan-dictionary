@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/">Hargis (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/"><img src="/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/sett.png" alt="Hargis (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hargis/">Hargis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hargis/"><img src="/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/sett.png" alt="Hargis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

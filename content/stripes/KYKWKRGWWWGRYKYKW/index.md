@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/">Coulter (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><img src="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/sett.png" alt="Coulter (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coulter/">Coulter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coulter/"><img src="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/sett.png" alt="Coulter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

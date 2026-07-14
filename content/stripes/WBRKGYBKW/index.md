@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/">National (1934), The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/"><img src="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/sett.png" alt="National (1934), The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/national-the/">National , The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/national-the/"><img src="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/sett.png" alt="National , The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

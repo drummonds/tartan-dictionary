@@ -12,15 +12,15 @@ crumbs:
 - name: "James of Wales"
   url: "/tartans/j/ja/james-of-wales/"
 - name: "James of Wales"
-  url: "/setts/db11k1dr3db6k1db6dr3db4dr7db11ly1db11dr7ly2k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11k1dr3db6k1db6dr3db4dr7db11ly1db11dr7ly2k4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KYBBYBBBBBKBBKBKBBKBBBBBYBBY](/stripes/kybbybbbbbkbbkbkbbkbbbbbybby/).
+provenance below. It is one weaving of the [sett](/tartans/j/ja/james-of-wales/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBBKBBBBBYBBYK](/stripes/bkbbkbbbbbybbyk/).
 
 Part of the [James of Wales](/tartans/j/ja/james-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1880](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1880)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5736
 
 ## Thread count
-K/4 LY2 DR7 DB11 LY1 DB11 DR7 DB4 DR3 DB6 K1 DB6 DR3 K1 DB11 K1 DR3 DB6 K1 DB6 DR3 DB4 DR7 DB11 LY1 DB11 DR7 LY/2
+DB/11 K1 DR3 DB6 K1 DB6 DR3 DB4 DR7 DB11 LY1 DB11 DR7 LY2 K/4
 
-One full sett is **276 threads**.
+One full sett is **141 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/4 LY2 DR7 DB11 LY1 DB11 DR7 DB4 DR3 DB6 K1 DB6 DR3 K1 DB11 K1 DR3 DB6 K1 DB6 DR3 DB4 DR7 DB11 LY1 DB11 DR7 LY/2 — 276 threads; it folds to the canonical 141-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **276 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 LY2 DR7 DB11 LY1 DB11 DR7 DB4 DR3 DB6 K1 DB6 DR3 K1 DB11 K1 DR3 DB6 K1 DB6 DR3 DB4 DR7 DB11 LY1 DB11 DR7 LY/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/11 K1 DR3 DB6 K1 DB6 DR3 DB4 DR7 DB11 LY1 DB11 DR7 LY2 K/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

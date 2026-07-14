@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/barbour/"
 - name: "Barbour"
   url: "/families/barbour/"
+aliases:
+- "/setts/w4k2w18k11db2g18ly2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wkwkbgy/">WKWKBGY</a></nav>
 A tartan of the [Barbour](/families/barbour/) family.
 Its design is pattern [WKWKBGY](/stripes/wkwkbgy/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Barbour** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w4k2w18k11db2g18ly2/">Barbour</a></td><td><code>W/8 K4 W36 K22 DB4 G36 LY/4</code></td><td>216</td><td>~2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w4k2w18k11db2g18ly2/"><img src="/variants/s7/w4k2w18k11db2g18ly2~x2/sett.png" alt="Barbour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/">Barbour</a></td><td><code>W/8 K4 W36 K22 DB4 G36 LY/4</code></td><td>216</td><td>~2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><img src="/variants/s7/w4k2w18k11db2g18ly2~x2/sett.png" alt="Barbour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="56.6" cy="166.3" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><circle cx="136.2" cy="174.1" r="4" fill="#3465a4"><title>Chambers, Christopher J</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.6" cy="152.5" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="115.3" cy="162.6" r="4" fill="#3465a4"><title>Hackett, William</title></circle></a><a href="/variants/s6/w8k16g32db3ly5w5~x2/"><circle cx="161.4" cy="171.8" r="4" fill="#3465a4"><title>Mellor</title></circle></a><a href="/variants/s9/w16g2k5r2k10g11y2g11k2~x2/"><circle cx="102.0" cy="174.4" r="4" fill="#3465a4"><title>Unnamed 9</title></circle></a><a href="/variants/s7/w13g13lb13k10w7y1r1~x4/"><circle cx="79.9" cy="184.5" r="4" fill="#3465a4"><title>Lachine</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="115.6" cy="168.3" r="4" fill="#3465a4"><title>Alexander Brothers</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="121.3" cy="155.4" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="150.5" cy="166.3" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><circle cx="123.2" cy="177.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="56.8" cy="165.9" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><circle cx="136.3" cy="173.7" r="4" fill="#3465a4"><title>Chambers, Christopher J</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.9" cy="152.2" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="115.6" cy="162.3" r="4" fill="#3465a4"><title>Hackett, William</title></circle></a><a href="/variants/s6/w8k16g32db3ly5w5~x2/"><circle cx="161.8" cy="171.7" r="4" fill="#3465a4"><title>Mellor</title></circle></a><a href="/variants/s9/w16g2k5r2k10g11y2g11k2~x2/"><circle cx="102.2" cy="174.1" r="4" fill="#3465a4"><title>Unnamed 9</title></circle></a><a href="/variants/s7/w13g13lb13k10w7y1r1~x4/"><circle cx="80.0" cy="184.1" r="4" fill="#3465a4"><title>Lachine</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="115.8" cy="167.9" r="4" fill="#3465a4"><title>Alexander Brothers</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="121.5" cy="155.1" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="150.8" cy="166.1" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><circle cx="123.4" cy="176.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

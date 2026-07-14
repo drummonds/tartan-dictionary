@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/">Old Spice (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/"><img src="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/sett.png" alt="Old Spice (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/old-spice/">Old Spice</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/old-spice/"><img src="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/sett.png" alt="Old Spice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

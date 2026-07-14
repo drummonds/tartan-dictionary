@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/">Pina (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/"><img src="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/sett.png" alt="Pina (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pina/">Pina</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pina/"><img src="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/sett.png" alt="Pina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

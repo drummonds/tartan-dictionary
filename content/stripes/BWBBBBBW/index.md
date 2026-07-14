@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/">Pride of the Clyde</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/"><img src="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/sett.png" alt="Pride of the Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-the-clyde/">Pride of the Clyde</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-the-clyde/"><img src="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/sett.png" alt="Pride of the Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

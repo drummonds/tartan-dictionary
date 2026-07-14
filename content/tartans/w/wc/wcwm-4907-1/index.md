@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Wcwm"
   url: "/clan/wcwm/"
+aliases:
+- "/setts/r40db8lo8r4lo1r4lr8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbyryry/">RBYRYRY</a></nav>
 A tartan of [Clan Wcwm](/clan/wcwm/).
 Its design is pattern [RBYRYRY](/stripes/rbyryry/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Wcwm 4907-1** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r40db8lo8r4lo1r4lr8/">Wcwm 4907-1</a></td><td><code>R/160 DB32 LO32 R16 LO4 R16 LR/32</code></td><td>392</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r40db8lo8r4lo1r4lr8/"><img src="/variants/s7/r40db8lo8r4lo1r4lr8~x4/sett.png" alt="Wcwm 4907-1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r40db8lo8r4lo1r4lr8~x4/">Wcwm 4907-1</a></td><td><code>R/160 DB32 LO32 R16 LO4 R16 LR/32</code></td><td>392</td><td>1994</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r40db8lo8r4lo1r4lr8~x4/"><img src="/variants/s7/r40db8lo8r4lo1r4lr8~x4/sett.png" alt="Wcwm 4907-1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="490.4" cy="89.2" r="4" fill="#3465a4"><title>MacAndrew Dress</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="438.4" cy="156.6" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="398.9" cy="177.0" r="4" fill="#3465a4"><title>MacKintosh 3</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="405.2" cy="174.6" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r48db2r3g28r4db2~x2/"><circle cx="452.6" cy="162.3" r="4" fill="#3465a4"><title>MacKintosh 2</title></circle></a><a href="/variants/s6/r80dp19r8g36r10dp2~x2/"><circle cx="452.0" cy="154.4" r="4" fill="#3465a4"><title>Lovat or Fraser</title></circle></a><a href="/variants/s6/r40w2db2w2r1y20~x2/"><circle cx="468.6" cy="140.4" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="466.0" cy="110.5" r="4" fill="#3465a4"><title>De Nardi</title></circle></a><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="418.6" cy="158.2" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s7/r52dr26w5dr3w2dr6r2~x2/"><circle cx="408.0" cy="139.7" r="4" fill="#3465a4"><title>St. Andrews School</title></circle></a><circle cx="455.4" cy="127.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="491.8" cy="89.4" r="4" fill="#3465a4"><title>MacAndrew Dress</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="439.4" cy="156.8" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="399.7" cy="177.1" r="4" fill="#3465a4"><title>MacKintosh 3</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="406.1" cy="174.8" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r48db2r3g28r4db2~x2/"><circle cx="453.6" cy="162.5" r="4" fill="#3465a4"><title>MacKintosh 2</title></circle></a><a href="/variants/s6/r80dp19r8g36r10dp2~x2/"><circle cx="452.9" cy="154.6" r="4" fill="#3465a4"><title>Lovat or Fraser</title></circle></a><a href="/variants/s6/r40w2db2w2r1y20~x2/"><circle cx="469.5" cy="140.6" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="467.1" cy="110.6" r="4" fill="#3465a4"><title>De Nardi</title></circle></a><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="419.4" cy="158.3" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s7/r52dr26w5dr3w2dr6r2~x2/"><circle cx="409.0" cy="139.9" r="4" fill="#3465a4"><title>St. Andrews School</title></circle></a><circle cx="456.3" cy="127.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

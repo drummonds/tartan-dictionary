@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/">Heather Mead (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/"><img src="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/sett.png" alt="Heather Mead (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heather-mead/">Heather Mead</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heather-mead/"><img src="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/sett.png" alt="Heather Mead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

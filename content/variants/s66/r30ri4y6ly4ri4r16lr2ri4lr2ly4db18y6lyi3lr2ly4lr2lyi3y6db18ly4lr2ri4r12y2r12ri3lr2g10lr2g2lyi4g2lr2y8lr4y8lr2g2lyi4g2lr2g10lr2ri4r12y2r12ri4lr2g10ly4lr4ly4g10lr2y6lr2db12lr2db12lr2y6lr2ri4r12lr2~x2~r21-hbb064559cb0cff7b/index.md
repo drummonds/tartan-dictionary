@@ -10,11 +10,11 @@ crumbs:
 - name: "Hunter Portrait/Artefact"
   url: "/tartans/h/hu/hunter-portrait-artefact/"
 - name: "Hunter Portrait/Artefact Tartan"
-  url: "/setts/r30ri4y6ly4ri4r16lr2ri4lr2ly4db18y6lyi3lr2ly4lr2lyi3y6db18ly4lr2ri4r12y2r12ri3lr2g10lr2g2lyi4g2lr2y8lr4y8lr2g2lyi4g2lr2g10lr2ri4r12y2r12ri4lr2g10ly4lr4ly4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2/"
+  url: ""
 slug_full: "r30ri4y6ly4ri4r16lr2ri4lr2ly4db18y6lyi3lr2ly4lr2lyi3y6db18ly4lr2ri4r12y2r12ri3lr2g10lr2g2lyi4g2lr2y8lr4y8lr2g2lyi4g2lr2g10lr2ri4r12y2r12ri4lr2g10ly4lr4ly4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2~x2~r2108022-ri2406019-y2602166-lyi3307090"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r30ri4y6ly4ri4r16lr2ri4lr2ly4db18y6lyi3lr2ly4lr2lyi3y6db18ly4lr2ri4r12y2r12ri3lr2g10lr2g2lyi4g2lr2y8lr4y8lr2g2lyi4g2lr2g10lr2ri4r12y2r12ri4lr2g10ly4lr4ly4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hunter-portrait-artefact/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRGYRRYRYYBGYYYYYGBYYRRGRRYGYGYGYGYGYGYGYGYRRGRRYGYYYGYGYBYBYGYRRY](/stripes/rrgyrryryybgyyyyygbyyrrgrrygygygygygygygygyrrgrrygyyygygybybygyrry/).
 
 Part of the [Hunter Portrait/Artefact](/tartans/h/hu/hunter-portrait-artefact/) tartan — the named design grouping this sett with its other cloths.

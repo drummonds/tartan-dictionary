@@ -8,10 +8,10 @@ crumbs:
 - name: "Paisley"
   url: "/tartans/p/pa/paisley/"
 - name: "Paisley District Tartan"
-  url: "/setts/db7w2g3db18y2k15y2g17r5g3r2g7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db7w2g3db18y2k15y2g17r5g3r2g7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/paisley/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGBGKGGRGRG](/stripes/bwgbgkggrgrg/).
 
 Part of the [Paisley](/tartans/p/pa/paisley/) tartan — the named design grouping this sett with its other cloths.

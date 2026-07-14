@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/">Dodd of Branford</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/"><img src="/variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/sett.png" alt="Dodd of Branford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/dg4dr2dg20db8k8db4lb1lo2k1~x2/">Dodd of Branford (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg4dr2dg20db8k8db4lb1lo2k1~x2/"><img src="/variants/s9/dg4dr2dg20db8k8db4lb1lo2k1~x2/sett.png" alt="Dodd of Branford (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dodd-of-branford/">Dodd of Branford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dodd-of-branford/"><img src="/variants/s9/dg4dr2dg20db8k8db4lb1lo2k1~x2/sett.png" alt="Dodd of Branford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

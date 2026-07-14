@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/t26lp11t3lp4k2~x4/">Debbie Munro Memorial (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/t26lp11t3lp4k2~x4/"><img src="/variants/s5/t26lp11t3lp4k2~x4/sett.png" alt="Debbie Munro Memorial (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/debbie-munro-memorial/">Debbie Munro Memorial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/debbie-munro-memorial/"><img src="/variants/s5/t26lp11t3lp4k2~x4/sett.png" alt="Debbie Munro Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

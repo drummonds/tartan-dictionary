@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k2b16w2ki16w15k2w2~x2~ki0604259/">Strathclyde</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k2b16w2ki16w15k2w2~x2~ki0604259/"><img src="/variants/s7/k2b16w2ki16w15k2w2~x2~ki0604259/sett.png" alt="Strathclyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/k3db24lb3ki25lb22k3lb3/">Strathclyde blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k3db24lb3ki25lb22k3lb3/"><img src="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~db1605267-ki0503265/sett.png" alt="Strathclyde blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathclyde-3/">Strathclyde</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathclyde-3/"><img src="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~db1605267-ki0503265/sett.png" alt="Strathclyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

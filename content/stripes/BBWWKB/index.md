@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/t12db35lb4w3k11dr5~x2/">Ferster, James Carney (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><img src="/variants/s6/t12db35lb4w3k11dr5~x2/sett.png" alt="Ferster, James Carney (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferster-james-carney/">Ferster, James Carney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferster-james-carney/"><img src="/variants/s6/t12db35lb4w3k11dr5~x2/sett.png" alt="Ferster, James Carney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

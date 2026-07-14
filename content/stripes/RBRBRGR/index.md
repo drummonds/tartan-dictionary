@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2db1r16db4r1g10r1~x4/">Robertson - 1988 (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><img src="/variants/s7/r2db1r16db4r1g10r1~x4/sett.png" alt="Robertson - 1988 (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robertson-3/">Robertson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-3/"><img src="/variants/s7/r2db1r16db4r1g10r1~x4/sett.png" alt="Robertson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

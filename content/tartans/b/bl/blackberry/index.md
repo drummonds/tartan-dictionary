@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r8ly6k11ly6k11ly30r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rykykyr/">RYKYKYR</a></nav>
 Its design is pattern [RYKYKYR](/stripes/rykykyr/) — the page of every tartan sharing this colour sequence.
 
 The **Blackberry** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Blackberry** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r8ly6k11ly6k11ly30r3/">Blackberry</a></td><td><code>R/16 LY12 K22 LY12 K22 LY60 R/6</code></td><td>278</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r8ly6k11ly6k11ly30r3/"><img src="/variants/s7/r8ly6k11ly6k11ly30r3~x2/sett.png" alt="Blackberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r8ly6k11ly6k11ly30r3~x2/">Blackberry</a></td><td><code>R/16 LY12 K22 LY12 K22 LY60 R/6</code></td><td>278</td><td>~2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r8ly6k11ly6k11ly30r3~x2/"><img src="/variants/s7/r8ly6k11ly6k11ly30r3~x2/sett.png" alt="Blackberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="330.3" cy="162.6" r="4" fill="#3465a4"><title>Baileville</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="263.2" cy="186.5" r="4" fill="#3465a4"><title>Porter Drinkers</title></circle></a><a href="/variants/s5/k6w6k6ly21r2~x4/"><circle cx="207.6" cy="183.8" r="4" fill="#3465a4"><title>Burberry Check</title></circle></a><a href="/variants/s5/k3w3k3ly10r1~x6/"><circle cx="198.1" cy="188.4" r="4" fill="#3465a4"><title>Burberry</title></circle></a><a href="/variants/s7/k5ly25k10r3k10ly25w5~x2/"><circle cx="241.5" cy="180.4" r="4" fill="#3465a4"><title>Richmond de Ellel</title></circle></a><a href="/variants/s6/k4ly32k16r3k16ly4~x2/"><circle cx="244.7" cy="180.8" r="4" fill="#3465a4"><title>Unnamed C21st</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="284.9" cy="190.4" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/"><circle cx="276.8" cy="139.3" r="4" fill="#3465a4"><title>MacLeod Snuffbox</title></circle></a><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="234.0" cy="148.1" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><circle cx="206.1" cy="151.0" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><circle cx="256.0" cy="188.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="331.3" cy="162.8" r="4" fill="#3465a4"><title>Baileville</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="263.9" cy="186.5" r="4" fill="#3465a4"><title>Porter Drinkers</title></circle></a><a href="/variants/s5/k6w6k6ly21r2~x4/"><circle cx="208.2" cy="183.7" r="4" fill="#3465a4"><title>Burberry Check</title></circle></a><a href="/variants/s5/k3w3k3ly10r1~x6/"><circle cx="198.6" cy="188.3" r="4" fill="#3465a4"><title>Burberry</title></circle></a><a href="/variants/s7/k5ly25k10r3k10ly25w5~x2/"><circle cx="242.2" cy="180.3" r="4" fill="#3465a4"><title>Richmond de Ellel</title></circle></a><a href="/variants/s6/k4ly32k16r3k16ly4~x2/"><circle cx="245.4" cy="180.9" r="4" fill="#3465a4"><title>Unnamed C21st</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="285.7" cy="190.5" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/"><circle cx="277.7" cy="139.3" r="4" fill="#3465a4"><title>MacLeod Snuffbox</title></circle></a><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="234.7" cy="148.0" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><circle cx="206.6" cy="150.8" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><circle cx="256.6" cy="188.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

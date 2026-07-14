@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k5g40db20ly3~x2/">Byers (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k5g40db20ly3~x2/"><img src="/variants/s4/k5g40db20ly3~x2/sett.png" alt="Byers (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/by/byers/">Byers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/by/byers/"><img src="/variants/s4/k5g40db20ly3~x2/sett.png" alt="Byers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

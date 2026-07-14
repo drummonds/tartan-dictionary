@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/lb2do2lb2do2lb2db4lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1~x4/">Prince of Wales (Estate Check)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/lb2do2lb2do2lb2db4lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1~x4/"><img src="/variants/s22/lb2do2lb2do2lb2db4lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1~x4/sett.png" alt="Prince of Wales (Estate Check) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/prince-of-wales-2/">Prince of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-of-wales-2/"><img src="/variants/s22/lb2do2lb2do2lb2db4lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1~x4/sett.png" alt="Prince of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

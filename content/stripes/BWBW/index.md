@@ -28,8 +28,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db4w35db31w4~x2/">Lewis, Navy (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db4w35db31w4~x2/"><img src="/variants/s4/db4w35db31w4~x2/sett.png" alt="Lewis, Navy (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barbie-s-moss/">Barbie's Moss</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barbie-s-moss/"><img src="/variants/s4/w20db20w3db3~x2/sett.png" alt="Barbie's Moss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lewis-navy/">Lewis Navy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lewis-navy/"><img src="/variants/s4/db4w35db31w4~x2/sett.png" alt="Lewis Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-plaid-barbie-s-moss/">Unidentified, Plaid Barbie's Moss</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-plaid-barbie-s-moss/"><img src="/variants/s4/w20b20w3b3~x2/sett.png" alt="Unidentified, Plaid Barbie's Moss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-taylor/">Murray Taylor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-taylor/"><img src="/variants/s6/db3lb3db16lb16db16w3~x2/sett.png" alt="Murray Taylor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

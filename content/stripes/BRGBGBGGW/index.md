@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db17r3g55db3g4db3g4dy3w5~x2/">Bundanoon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db17r3g55db3g4db3g4dy3w5~x2/"><img src="/variants/s9/db17r3g55db3g4db3g4dy3w5~x2/sett.png" alt="Bundanoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db17r3g55db3g4db3g4y3w5~x2/">Bundanoon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db17r3g55db3g4db3g4y3w5~x2/"><img src="/variants/s9/db17r3g55db3g4db3g4y3w5~x2/sett.png" alt="Bundanoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/bundanoon/">Bundanoon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/bundanoon/"><img src="/variants/s9/db17r3g55db3g4db3g4dy3w5~x2/sett.png" alt="Bundanoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

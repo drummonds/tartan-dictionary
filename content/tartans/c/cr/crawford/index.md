@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r6lb2r30g12r3g12r3/"
+- "/setts/r6w2r30g12r3g12r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgrgrwr/">RGRGRWR</a></nav>
 Its design is pattern [RGRGRWR](/stripes/rgrgrwr/) — the page of every tartan sharing this colour sequence.
 
 The **Crawford** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,12 @@ The **Crawford** tartan groups 2 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r6lb2r30g12r3g12r3/">Crawford</a> ★</td><td><code>R/12 LB4 R60 G24 R6 G24 R/6</code></td><td>254</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6lb2r30g12r3g12r3/"><img src="/variants/s7/r6lb2r30g12r3g12r3~x2/sett.png" alt="Crawford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r6w2r30g12r3g12r3/">(Clan)</a></td><td><code>R/12 W4 R60 G24 R6 G24 R/6</code></td><td>254</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6w2r30g12r3g12r3/"><img src="/variants/s7/r6w2r30g12r3g12r3~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/">Crawford</a> ★</td><td><code>R/12 LB4 R60 G24 R6 G24 R/6</code></td><td>254</td><td>1842</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/"><img src="/variants/s7/r6lb2r30g12r3g12r3~x2/sett.png" alt="Crawford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r6w2r30g12r3g12r3~x2/">(Clan)</a></td><td><code>R/6 W2 R30 G12 R3 G12 R/3</code></td><td>127</td><td>1842</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r6w2r30g12r3g12r3~x2/"><img src="/variants/s7/r6w2r30g12r3g12r3~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/r6w2r30g12r3g12r3/">Crawford</a></td><td><code>R/6 W2 R30 G12 R3 G12 R/3</code></td><td>127</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r6w2r30g12r3g12r3~x2/">(Clan)</a></td><td><code>R/12 W4 R60 G24 R6 G24 R/6</code></td><td>254</td><td>1842</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r6w2r30g12r3g12r3/">Crawford</a> · <a href="/variants/s7/r6w2r30g12r3g12r3~x2/">(Clan)</a></td></tr>
 </tbody>
 </table>
@@ -30,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r8y2r15g10r4g10r4~x2/"><circle cx="357.7" cy="262.8" r="4" fill="#3465a4"><title>Caspari</title></circle></a><a href="/variants/s7/r58y3r6g16r12g16r6/"><circle cx="495.5" cy="177.0" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="396.6" cy="145.4" r="4" fill="#3465a4"><title>MacDonald 1</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="367.5" cy="174.9" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="383.6" cy="180.1" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="410.2" cy="152.5" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/"><circle cx="379.1" cy="177.2" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="309.5" cy="154.1" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/variants/s10/r12w2r37t6g3t3r4t3g21r4~x2/"><circle cx="378.2" cy="149.5" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/variants/s7/k1r18g12r2g12r18w1~x2/"><circle cx="349.5" cy="168.5" r="4" fill="#3465a4"><title>MacKinnon 8</title></circle></a><circle cx="418.0" cy="193.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r8y2r15g10r4g10r4~x2/"><circle cx="358.2" cy="263.0" r="4" fill="#3465a4"><title>Caspari</title></circle></a><a href="/variants/s7/r58y3r6g16r12g16r6/"><circle cx="496.6" cy="177.3" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="397.4" cy="145.6" r="4" fill="#3465a4"><title>MacDonald 1</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="368.2" cy="175.0" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="384.3" cy="180.3" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="411.1" cy="152.6" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/"><circle cx="379.8" cy="177.3" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="310.3" cy="154.2" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/variants/s10/r12w2r37t6g3t3r4t3g21r4~x2/"><circle cx="379.0" cy="149.6" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/variants/s7/k1r18g12r2g12r18w1~x2/"><circle cx="350.3" cy="168.6" r="4" fill="#3465a4"><title>MacKinnon 8</title></circle></a><circle cx="418.8" cy="194.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

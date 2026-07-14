@@ -8,15 +8,15 @@ crumbs:
 - name: "Miss Peffer's"
   url: "/tartans/m/mi/miss-peffer-s/"
 - name: "Not Specified #4"
-  url: "/setts/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWBWKBWBKWKBWBKWKBWBWBWBWBWBWBWBKWKBWBKWKBWBKWBWBWBWBWBW](/stripes/bwbwbwbwbwbwkbwbkwkbwbkwkbwbwbwbwbwbwbwbkwkbwbkwkbwbkwbwbwbwbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/m/mi/miss-peffer-s/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWBWKBWBKWKBWBKWKBWBWBWBW](/stripes/bwbwbwbwbwbwkbwbkwkbwbkwkbwbwbwbw/).
 
 Part of the [Miss Peffer's](/tartans/m/mi/miss-peffer-s/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [64 stripe tartan](/stripes/stripes64/).
+Sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4814](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4814)
 
@@ -58,9 +58,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1313
 
 ## Thread count
-N/70 W4 N4 W4 N4 W4 N4 W4 N4 W4 N28 W76 K8 N8 W8 N8 K8 W8 K8 N8 W8 N8 K8 W32 K72 N38 W4 N8 W8 N6 W8 N4 W26 N4 W8 N6 W8 N8 W4 N38 K72 W32 K8 N8 W8 N8 K8 W8 K8 N8 W8 N8 K8 W76 N28 W4 N4 W4 N4 W4 N4 W4 N4 W/4
+N/70 W4 N4 W4 N4 W4 N4 W4 N4 W4 N28 W76 K8 N8 W8 N8 K8 W8 K8 N8 W8 N8 K8 W32 K72 N38 W4 N8 W8 N6 W8 N4 W/26
 
-One full sett is **1750 threads**.
+One full sett is **912 threads**.
+
+<p class="recorded-note">The source recorded this cloth as N/70 W4 N4 W4 N4 W4 N4 W4 N4 W4 N28 W76 K8 N8 W8 N8 K8 W8 K8 N8 W8 N8 K8 W32 K72 N38 W4 N8 W8 N6 W8 N4 W26 N4 W8 N6 W8 N8 W4 N38 K72 W32 K8 N8 W8 N8 K8 W8 K8 N8 W8 N8 K8 W76 N28 W4 N4 W4 N4 W4 N4 W4 N4 W/4 — 1750 threads; it folds to the canonical 912-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -69,6 +71,6 @@ One full sett is **1750 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/70 W4 N4 W4 N4 W4 N4 W4 N4 W4 N28 W76 K8 N8 W8 N8 K8 W8 K8 N8 W8 N8 K8 W32 K72 N38 W4 N8 W8 N6 W8 N4 W26 N4 W8 N6 W8 N8 W4 N38 K72 W32 K8 N8 W8 N8 K8 W8 K8 N8 W8 N8 K8 W76 N28 W4 N4 W4 N4 W4 N4 W4 N4 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/70 W4 N4 W4 N4 W4 N4 W4 N4 W4 N28 W76 K8 N8 W8 N8 K8 W8 K8 N8 W8 N8 K8 W32 K72 N38 W4 N8 W8 N6 W8 N4 W/26 tartan" width="880" height="480">
 
 ID: /variants/s33/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13~x2/

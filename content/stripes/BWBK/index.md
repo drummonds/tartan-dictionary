@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k1db1w1db1~x20~db1208266/">Algarve (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k1db1w1db1~x20~db1208266/"><img src="/variants/s4/k1db1w1db1~x20~db1208266/sett.png" alt="Algarve (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/algarve-2/">Algarve</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/algarve-2/"><img src="/variants/s4/k1db1w1db1~x20~db1208266/sett.png" alt="Algarve sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

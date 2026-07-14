@@ -10,10 +10,10 @@ crumbs:
 - name: "MacRae Dress Red Fancy"
   url: "/tartans/m/ma/macrae-dress-red-fancy/"
 - name: "MacRae Dress Red Fancy Tartan"
-  url: "/setts/r3k2w1r8w1k2w9k1w3t1w3k1w9k2w1r8w1k2r3t1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k2w1r8w1k2w9k1w3t1w3k1w9k2w1r8w1k2r3t1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macrae-dress-red-fancy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKWRWKWKWBWKWKWRWKR](/stripes/brkwrwkwkwbwkwkwrwkr/).
 
 Part of the [MacRae Dress Red Fancy](/tartans/m/ma/macrae-dress-red-fancy/) tartan — the named design grouping this sett with its other cloths.

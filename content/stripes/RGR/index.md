@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r1g1r1/">Moncreiffe D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r1g1r1/"><img src="/variants/s3/r1g1r1/sett.png" alt="Moncreiffe D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-of-glenstrae/">MacGregor of Glenstrae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-of-glenstrae/"><img src="/variants/s3/r17g9r2~x2/sett.png" alt="MacGregor of Glenstrae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moncreiffe-d/">Moncreiffe D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moncreiffe-d/"><img src="/variants/s3/r1g1r1/sett.png" alt="Moncreiffe D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

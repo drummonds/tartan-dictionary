@@ -12,10 +12,10 @@ crumbs:
 - name: "Bruce"
   url: "/tartans/b/br/bruce-3/"
 - name: "Bruce (Personal)"
-  url: "/setts/y1db8g2db2g6db1g6db2g2db8w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1db8g2db2g6db1g6db2g2db8w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bruce-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGBGBW](/stripes/gbgbgbgbgbw/).
 
 Part of the [Bruce](/tartans/b/br/bruce-3/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=400](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2006 — Bruce (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=400">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FFE600;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFE600"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><br><em>A personal tartan designed for the wedding of the designer to Miss Shalini Bodani on 15th July 2006. Robert had the choice of wearing a Bruce or a Gordon tartan, and replaced the red in the Bruce with the blue from the Gordon. This tartan was originally woven by Celtic Crafts in Edinburgh.</em></li>
-<li>2006 — Bruce (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6832">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A personal tartan designed by a Robert Bruce for his wedding. Robert had the choice of wearing a Bruce or a Gordon and replaced the red in the Bruce with the blue from the Gordon.</em></li>
+<li>2006 — Bruce (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6832/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A personal tartan designed by a Robert Bruce for his wedding. Robert had the choice of wearing a Bruce or a Gordon and replaced the red in the Bruce with the blue from the Gordon.</em></li>
 </ul>
 </details>
 

@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r1g6db6w1~x4/">Salt Spring Island</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r1g6db6w1~x4/"><img src="/variants/s4/r1g6db6w1~x4/sett.png" alt="Salt Spring Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/lb6db6g6r1~x2/">Unidentified No 40</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb6db6g6r1~x2/"><img src="/variants/s4/lb6db6g6r1~x2/sett.png" alt="Unidentified No 40 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/salt-spring-island/">Salt Spring Island</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/salt-spring-island/"><img src="/variants/s4/r1g6db6w1~x4/sett.png" alt="Salt Spring Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-no-40/">Unidentified No 40</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-no-40/"><img src="/variants/s4/lb6db6g6r1~x2/sett.png" alt="Unidentified No 40 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/r1g3dp3w1~x4/">Wilson's, No 113</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r1g3dp3w1~x4/"><img src="/variants/s4/r1g3dp3w1~x4/sett.png" alt="Wilson's, No 113 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-113-2/">Wilson's, No 113</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-113-2/"><img src="/variants/s4/r1g3dp3w1~x4/sett.png" alt="Wilson's, No 113 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

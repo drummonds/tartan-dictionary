@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/">MacLaren Albino (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/"><img src="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/sett.png" alt="MacLaren Albino (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclaren-albino/">MacLaren Albino</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclaren-albino/"><img src="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/sett.png" alt="MacLaren Albino sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

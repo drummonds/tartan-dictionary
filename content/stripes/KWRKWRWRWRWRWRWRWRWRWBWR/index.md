@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/k63w2o8k10w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2n65w2r6~x2/">Sobieski-Stewart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/k63w2o8k10w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2n65w2r6~x2/"><img src="/variants/s24/k63w2o8k10w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2n65w2r6~x2/sett.png" alt="Sobieski-Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/sobieski-stewart/">Sobieski-Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/sobieski-stewart/"><img src="/variants/s24/k63w2o8k10w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2n65w2r6~x2/sett.png" alt="Sobieski-Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

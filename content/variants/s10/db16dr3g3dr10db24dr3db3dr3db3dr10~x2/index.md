@@ -12,10 +12,10 @@ crumbs:
 - name: "Nithsdale"
   url: "/tartans/n/ni/nithsdale-2/"
 - name: "Nithsdale (Dalgliesh)"
-  url: "/setts/db16dr3g3dr10db24dr3db3dr3db3dr10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16dr3g3dr10db24dr3db3dr3db3dr10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ni/nithsdale-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBGBB](/stripes/bbbbbbbgbb/).
 
 Part of the [Nithsdale](/tartans/n/ni/nithsdale-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3143](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Nithsdale (Dalgliesh) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3143">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>A Nithsdale District tartan woven by D C Dalgliesh.</em></li>
-<li>pre 2002 — Nithsdale (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5617">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>No explanation as to this extreme colour variation of the original Nithsdale. From D C Dalgliesh</em></li>
+<li>pre 2002 — Nithsdale (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5617/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>No explanation as to this extreme colour variation of the original Nithsdale. From D C Dalgliesh</em></li>
 </ul>
 </details>
 

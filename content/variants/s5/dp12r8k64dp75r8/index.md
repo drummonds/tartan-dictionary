@@ -8,10 +8,10 @@ crumbs:
 - name: "Laurel Cadre, The"
   url: "/tartans/l/la/laurel-cadre-the/"
 - name: "Laurel Cadre, The"
-  url: "/setts/dp12r8k64dp75r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp12r8k64dp75r8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/laurel-cadre-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBR](/stripes/brkbr/).
 
 Part of the [Laurel Cadre, The](/tartans/l/la/laurel-cadre-the/) tartan — the named design grouping this sett with its other cloths.

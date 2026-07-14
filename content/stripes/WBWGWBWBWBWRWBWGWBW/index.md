@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7~x2/">Four Quarters (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7~x2/"><img src="/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7~x2/sett.png" alt="Four Quarters (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/four-quarters/">Four Quarters</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/four-quarters/"><img src="/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7~x2/sett.png" alt="Four Quarters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

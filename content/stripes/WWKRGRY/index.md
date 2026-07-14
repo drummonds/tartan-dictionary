@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/ly3r3dy2r20k16lb24w2~x2/">Oor Wullie (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/ly3r3dy2r20k16lb24w2~x2/"><img src="/variants/s7/ly3r3dy2r20k16lb24w2~x2/sett.png" alt="Oor Wullie (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/oo/oor-wullie/">Oor Wullie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/oo/oor-wullie/"><img src="/variants/s7/ly3r3dy2r20k16lb24w2~x2/sett.png" alt="Oor Wullie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

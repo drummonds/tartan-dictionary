@@ -8,10 +8,10 @@ crumbs:
 - name: "Cub Scouts of America"
   url: "/tartans/c/cu/cub-scouts-of-america/"
 - name: "Cub Scouts of America"
-  url: "/setts/g10db2dr8lo2g5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g10db2dr8lo2g5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cub-scouts-of-america/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBYG](/stripes/gbbyg/).
 
 Part of the [Cub Scouts of America](/tartans/c/cu/cub-scouts-of-america/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=819](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Cub Scouts of America (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=819">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C88C00"></span><br><em>Worn by the 'Webelos' Cub Scouts. Copied from a neckerchief belonging to Philip M Smith 2000.</em></li>
-<li>pre 2000 — Cub Scouts of America (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4119">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C88C00"></span><br><em>Worn by the "Webelos' Cub Scouts. Copied from a neckerchied belonging to Philip M Smith 2000.</em></li>
+<li>pre 2000 — Cub Scouts of America (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4119/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C88C00"></span><br><em>Worn by the "Webelos' Cub Scouts. Copied from a neckerchied belonging to Philip M Smith 2000.</em></li>
 </ul>
 </details>
 

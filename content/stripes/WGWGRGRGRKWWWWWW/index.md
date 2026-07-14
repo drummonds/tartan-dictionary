@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4/">Inverness County (Canada)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4/"><img src="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4~w3600000/sett.png" alt="Inverness County (Canada) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inverness-county/">Inverness County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inverness-county/"><img src="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4~w3600000/sett.png" alt="Inverness County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/">Abaco Loyalist</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/"><img src="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/sett.png" alt="Abaco Loyalist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/abaco-loyalist/">Abaco Loyalist</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/abaco-loyalist/"><img src="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/sett.png" alt="Abaco Loyalist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

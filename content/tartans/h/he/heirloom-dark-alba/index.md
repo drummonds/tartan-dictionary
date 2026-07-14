@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k4ly2k34db10lb4db4dp4db23w3/"
 ---
-Its design is pattern [KYKBWBBBWBBBWBKY](/stripes/kykbwbbbwbbbwbky/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kykbwbbbw/">KYKBWBBBW</a></nav>
+Its design is pattern [KYKBWBBBW](/stripes/kykbwbbbw/) — the page of every tartan sharing this colour sequence.
 
 The **Heirloom Dark Alba** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4ly2k34db10lb4db4dp4db23w3/">Heirloom Dark Alba</a></td><td><code>K/8 LY4 K68 DB20 LB8 DB8 DP8 DB46 W6 DB46 DP8 DB8 LB8 DB20 K68 LY/4</code></td><td>338</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4ly2k34db10lb4db4dp4db23w3/"><img src="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/sett.png" alt="Heirloom Dark Alba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/">Heirloom Dark Alba</a></td><td><code>K/8 LY4 K68 DB20 LB8 DB8 DP8 DB46 W/6</code></td><td>338</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><img src="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/sett.png" alt="Heirloom Dark Alba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="282.1" cy="77.3" r="4" fill="#3465a4"><title>Hill</title></circle></a><a href="/variants/s9/db18w2db2r3db21k28dy1k1g2~x2/"><circle cx="278.9" cy="87.2" r="4" fill="#3465a4"><title>St Andrew's College</title></circle></a><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/"><circle cx="238.3" cy="105.7" r="4" fill="#3465a4"><title>Dugan</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="205.0" cy="136.5" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/"><circle cx="213.1" cy="86.3" r="4" fill="#3465a4"><title>Six Frigates</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="206.8" cy="120.6" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="239.6" cy="122.6" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s10/db9k30db9lb3db5r3db5y3db5g3~x2/"><circle cx="191.4" cy="132.9" r="4" fill="#3465a4"><title>Fed. of Circles &amp; Solitaries</title></circle></a><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/"><circle cx="206.9" cy="77.5" r="4" fill="#3465a4"><title>Heart of Oak</title></circle></a><a href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><circle cx="233.5" cy="113.3" r="4" fill="#3465a4"><title>Sandhu</title></circle></a><circle cx="205.6" cy="112.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="283.1" cy="77.3" r="4" fill="#3465a4"><title>Hill</title></circle></a><a href="/variants/s9/db18w2db2r3db21k28dy1k1g2~x2/"><circle cx="279.8" cy="87.2" r="4" fill="#3465a4"><title>St Andrew's College</title></circle></a><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/"><circle cx="239.1" cy="105.6" r="4" fill="#3465a4"><title>Dugan</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="205.6" cy="136.3" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/"><circle cx="213.9" cy="86.1" r="4" fill="#3465a4"><title>Six Frigates</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="207.5" cy="120.5" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="240.3" cy="122.5" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s10/db9k30db9lb3db5r3db5y3db5g3~x2/"><circle cx="192.0" cy="132.7" r="4" fill="#3465a4"><title>Fed. of Circles &amp; Solitaries</title></circle></a><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/"><circle cx="207.6" cy="77.4" r="4" fill="#3465a4"><title>Heart of Oak</title></circle></a><a href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><circle cx="234.2" cy="113.2" r="4" fill="#3465a4"><title>Sandhu</title></circle></a><circle cx="206.3" cy="112.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/g7dr2g2dr2g2dr27db9g2dr2g2dr2g2dr6g2dr2g2dr2db10g6dr2db5~x2/">Matheson (Lochcarron)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/g7dr2g2dr2g2dr27db9g2dr2g2dr2g2dr6g2dr2g2dr2db10g6dr2db5~x2/"><img src="/variants/s21/g7dr2g2dr2g2dr27db9g2dr2g2dr2g2dr6g2dr2g2dr2db10g6dr2db5~x2/sett.png" alt="Matheson (Lochcarron) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/matheson-2/">Matheson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/matheson-2/"><img src="/variants/s21/g7dr2g2dr2g2dr27db9g2dr2g2dr2g2dr6g2dr2g2dr2db10g6dr2db5~x2/sett.png" alt="Matheson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

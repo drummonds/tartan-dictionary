@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g3lo16w4k6g28lo1g3~x4/">Pollock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g3lo16w4k6g28lo1g3~x4/"><img src="/variants/s7/g3lo16w4k6g28lo1g3~x4/sett.png" alt="Pollock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g6lo2g32k8w6lo20g5~x2/">Pollock (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g6lo2g32k8w6lo20g5~x2/"><img src="/variants/s7/g6lo2g32k8w6lo20g5~x2/sett.png" alt="Pollock (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/pollock-2/">Pollock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/pollock-2/"><img src="/variants/s7/g6lo2g32k8w6lo20g5~x2/sett.png" alt="Pollock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

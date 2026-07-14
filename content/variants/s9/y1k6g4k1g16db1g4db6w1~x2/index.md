@@ -12,10 +12,10 @@ crumbs:
 - name: "Henderson"
   url: "/tartans/h/he/henderson/"
 - name: "MacKendrick"
-  url: "/setts/y1k6g4k1g16db1g4db6w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1k6g4k1g16db1g4db6w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/henderson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGBGBW](/stripes/gkgkgbgbw/).
 
 Part of the [Henderson](/tartans/h/he/henderson/) tartan — the named design grouping this sett with its other cloths.

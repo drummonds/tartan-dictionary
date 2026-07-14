@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/">Maine Acadia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/"><img src="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/sett.png" alt="Maine Acadia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maine-acadia/">Maine Acadia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maine-acadia/"><img src="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/sett.png" alt="Maine Acadia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

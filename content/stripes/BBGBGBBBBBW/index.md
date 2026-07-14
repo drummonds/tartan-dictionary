@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/t14db4g2db2dg3db2t17db31t1db1w2~x2~g2203152-dg1806142/">Schiehallion (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/t14db4g2db2dg3db2t17db31t1db1w2~x2~g2203152-dg1806142/"><img src="/variants/s11/t14db4g2db2dg3db2t17db31t1db1w2~x2~g2203152-dg1806142/sett.png" alt="Schiehallion (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/schiehallion/">Schiehallion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/schiehallion/"><img src="/variants/s11/t14db4g2db2dg3db2t17db31t1db1w2~x2~db1204274-g2203152-dg1806142-w4000000/sett.png" alt="Schiehallion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

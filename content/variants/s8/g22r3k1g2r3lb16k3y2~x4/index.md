@@ -8,10 +8,10 @@ crumbs:
 - name: "Stirling, University of Corporate Univ"
   url: "/tartans/s/st/stirling-university-of-corporate-univ/"
 - name: "Stirling, University of Corporate Univ Tartan"
-  url: "/setts/g22r3k1g2r3lb16k3y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g22r3k1g2r3lb16k3y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stirling-university-of-corporate-univ/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWRGKRG](/stripes/gkwrgkrg/).
 
 Part of the [Stirling, University of Corporate Univ](/tartans/s/st/stirling-university-of-corporate-univ/) tartan — the named design grouping this sett with its other cloths.

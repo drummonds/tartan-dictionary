@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/">Toyokawa Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/"><img src="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/sett.png" alt="Toyokawa Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/toyokawa-check/">Toyokawa Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/toyokawa-check/"><img src="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/sett.png" alt="Toyokawa Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

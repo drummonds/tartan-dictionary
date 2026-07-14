@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k1r2lb1db5ly1~x16/">University of Trinity College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k1r2lb1db5ly1~x16/"><img src="/variants/s5/k1r2lb1db5ly1~x16/sett.png" alt="University of Trinity College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/university-of-trinity-college/">University of Trinity College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/university-of-trinity-college/"><img src="/variants/s5/k1r2lb1db5ly1~x16/sett.png" alt="University of Trinity College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

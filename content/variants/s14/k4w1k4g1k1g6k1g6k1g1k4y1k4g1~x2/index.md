@@ -12,10 +12,10 @@ crumbs:
 - name: "MacAlpine"
   url: "/tartans/m/ma/macalpine-2/"
 - name: "MacAlpine"
-  url: "/setts/k4w1k4g1k1g6k1g6k1g1k4y1k4g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4w1k4g1k1g6k1g6k1g1k4y1k4g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macalpine-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKWK](/stripes/gkgkgkgkgkgkwk/).
 
 Part of the [MacAlpine](/tartans/m/ma/macalpine-2/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Muskoka"
   url: "/tartans/m/mu/muskoka/"
 - name: "Muskoka"
-  url: "/setts/w4g10lb24g42ri3y4r4ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4g10lb24g42ri3y4r4ly2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/muskoka/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWGRGRY](/stripes/wgwgrgry/).
 
 Part of the [Muskoka](/tartans/m/mu/muskoka/) tartan — the named design grouping this sett with its other cloths.

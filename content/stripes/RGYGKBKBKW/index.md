@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/">McMeeken (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/"><img src="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/sett.png" alt="McMeeken (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcmeeken/">McMeeken</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcmeeken/"><img src="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/sett.png" alt="McMeeken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

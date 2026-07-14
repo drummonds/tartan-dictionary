@@ -8,10 +8,10 @@ crumbs:
 - name: "Ranking"
   url: "/tartans/r/ra/ranking/"
 - name: "Ranking Corporate Tartan"
-  url: "/setts/db36k5r2k5g15r2g10w2g10r2g15k5r2k5db10r2db2r2db4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db36k5r2k5g15r2g10w2g10r2g15k5r2k5db10r2db2r2db4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/ranking/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKGRGWGRGKRKBRBRBW](/stripes/bkrkgrgwgrgkrkbrbrbw/).
 
 Part of the [Ranking](/tartans/r/ra/ranking/) tartan — the named design grouping this sett with its other cloths.

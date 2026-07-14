@@ -10,15 +10,15 @@ crumbs:
 - name: "Selkirk, New"
   url: "/tartans/s/se/selkirk-new/"
 - name: "Selkirk, New"
-  url: "/setts/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGRKWKBKBKBKWKBGBGBKWKBKBKBKWKRG](/stripes/bgrkwkbkbkbkwkbgbgbkwkbkbkbkwkrg/).
+provenance below. It is one weaving of the [sett](/tartans/s/se/selkirk-new/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBKWKBKBKBKWKRGB](/stripes/bgbkwkbkbkbkwkrgb/).
 
 Part of the [Selkirk, New](/tartans/s/se/selkirk-new/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3761](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3761)
 
@@ -47,9 +47,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2304
 
 ## Thread count
-T/48 G4 R24 K4 W4 K6 DP4 K6 T8 K6 DP4 K6 W4 K4 DB24 G4 DB48 G4 DB24 K4 W4 K6 DP4 K6 T8 K6 DP4 K6 W4 K4 R24 G/4
+DB/48 G4 DB24 K4 W4 K6 DP4 K6 T8 K6 DP4 K6 W4 K4 R24 G4 T/48
 
-One full sett is **588 threads**.
+One full sett is **320 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/48 G4 R24 K4 W4 K6 DP4 K6 T8 K6 DP4 K6 W4 K4 DB24 G4 DB48 G4 DB24 K4 W4 K6 DP4 K6 T8 K6 DP4 K6 W4 K4 R24 G/4 — 588 threads; it folds to the canonical 320-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -58,7 +60,7 @@ One full sett is **588 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/48 G4 R24 K4 W4 K6 DP4 K6 T8 K6 DP4 K6 W4 K4 DB24 G4 DB48 G4 DB24 K4 W4 K6 DP4 K6 T8 K6 DP4 K6 W4 K4 R24 G/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/48 G4 DB24 K4 W4 K6 DP4 K6 T8 K6 DP4 K6 W4 K4 R24 G4 T/48 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

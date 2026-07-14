@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/">Haymarket Dress Blue Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><img src="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/sett.png" alt="Haymarket Dress Blue Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/haymarket-dress/">Haymarket Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haymarket-dress/"><img src="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/sett.png" alt="Haymarket Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

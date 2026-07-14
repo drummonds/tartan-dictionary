@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/mackerrell/"
 - name: "MacKerrell of Hillhouse"
   url: "/families/mackerrell-of-hillhouse/"
+aliases:
+- "/setts/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgbbwbbrbbw/">BBGBBWBBRBBW</a></nav>
 A tartan of the [MacKerrell of Hillhouse](/families/mackerrell-of-hillhouse/) family.
 Its design is pattern [BBGBBWBBRBBW](/stripes/bbgbbwbbrbbw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacKerrell, of Hillhouse hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4/">MacKerrell, of Hillhouse hunting</a></td><td><code>DBi/56 DB98 Y6 DB98 DBi56 W8 DBi56 DB98 R6 DB98 DBi56 W/8</code></td><td>—</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4/"><img src="/variants/s12/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4~x2~dbi1604274-db0805267/sett.png" alt="MacKerrell, of Hillhouse hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4~x2~dbi1604274-db0805267/">MacKerrell, of Hillhouse hunting</a></td><td><code>DBi/28 DB49 Y3 DB49 DBi28 W4 DBi28 DB49 R3 DB49 DBi28 W/4</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4~x2~dbi1604274-db0805267/"><img src="/variants/s12/dbi28db49y3db49dbi28w4dbi28db49r3db49dbi28w4~x2~dbi1604274-db0805267/sett.png" alt="MacKerrell, of Hillhouse hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

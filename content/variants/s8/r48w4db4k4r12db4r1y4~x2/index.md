@@ -11,11 +11,11 @@ crumbs:
   url: "/families/brodie/"
 - name: "Brodie"
   url: "/tartans/b/br/brodie-3/"
-- name: "Brodie"
-  url: "/setts/r48w4db4k4r12db4r1y4/"
+- name: "Brodie (W & A Smith)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r48w4db4k4r12db4r1y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brodie-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRKBWR](/stripes/grbrkbwr/).
 
 Part of the [Brodie](/tartans/b/br/brodie-3/) tartan — the named design grouping this sett with its other cloths.

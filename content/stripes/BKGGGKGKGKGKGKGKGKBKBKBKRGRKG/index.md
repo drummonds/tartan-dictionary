@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/">Westwood Metropolitan 1 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/"><img src="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/sett.png" alt="Westwood Metropolitan 1 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westwood-metropolitan-1/">Westwood Metropolitan 1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westwood-metropolitan-1/"><img src="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/sett.png" alt="Westwood Metropolitan 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

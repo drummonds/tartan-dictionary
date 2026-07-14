@@ -8,10 +8,10 @@ crumbs:
 - name: "Nickel Lodge Centennial"
   url: "/tartans/n/ni/nickel-lodge-centennial/"
 - name: "Nickel Lodge, Centennial"
-  url: "/setts/n18y1n2y1n2db6w4o1g6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n18y1n2y1n2db6w4o1g6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ni/nickel-lodge-centennial/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBBWRG](/stripes/bgbgbbwrg/).
 
 Part of the [Nickel Lodge Centennial](/tartans/n/ni/nickel-lodge-centennial/) tartan — the named design grouping this sett with its other cloths.

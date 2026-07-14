@@ -8,10 +8,10 @@ crumbs:
 - name: "Sultan of Qaboo's Air Force"
   url: "/tartans/s/su/sultan-of-qaboo-s-air-force/"
 - name: "Sultan of Qaboo's Air Force"
-  url: "/setts/db24lb6db10lb6db32dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db24lb6db10lb6db32dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/su/sultan-of-qaboo-s-air-force/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBG](/stripes/bwbwbg/).
 
 Part of the [Sultan of Qaboo's Air Force](/tartans/s/su/sultan-of-qaboo-s-air-force/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4037](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Sultan of Qaboo's Air Force (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4037">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>He also has a tartan for his pipe band which has red in it, but this is not on record. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1996 — Sultan of Qaboo's Air Force (Milit.) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5165">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Sultan of Qabboo's Air Force. He also has a tartan for his pipe band which has red in it, but this is not on record.. Sample in STA Johnston Collection.</em></li>
+<li>pre 1996 — Sultan of Qaboo's Air Force (Milit.) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5165/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Sultan of Qabboo's Air Force. He also has a tartan for his pipe band which has red in it, but this is not on record.. Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

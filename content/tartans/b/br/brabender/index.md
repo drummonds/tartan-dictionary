@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k1g4r1k4db1k1db7g1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkbkrgk/">GBKBKRGK</a></nav>
 Its design is pattern [GBKBKRGK](/stripes/gbkbkrgk/) — the page of every tartan sharing this colour sequence.
 
 The **Brabender** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Brabender** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k1g4r1k4db1k1db7g1/">Brabender</a></td><td><code>K/6 G24 R6 K24 DB6 K6 DB42 G/6</code></td><td>228</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1g4r1k4db1k1db7g1/"><img src="/variants/s8/k1g4r1k4db1k1db7g1~x6/sett.png" alt="Brabender sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/">Brabender</a></td><td><code>K/6 G24 R6 K24 DB6 K6 DB42 G/6</code></td><td>228</td><td>1999</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/"><img src="/variants/s8/k1g4r1k4db1k1db7g1~x6/sett.png" alt="Brabender sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/"><circle cx="138.3" cy="197.9" r="4" fill="#3465a4"><title>Alexander Hunting</title></circle></a><a href="/variants/s9/k5db3k3db23n4k25n23lb3n5~x2/"><circle cx="175.5" cy="183.9" r="4" fill="#3465a4"><title>Cahonas Scotland</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="129.0" cy="237.9" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/variants/s7/g21k14g9db21k3db12dp3~x2/"><circle cx="163.4" cy="231.9" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="162.6" cy="196.4" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/"><circle cx="186.4" cy="178.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="138.8" cy="207.2" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s7/k1g5k5db5k1db1k1~x4/"><circle cx="182.8" cy="227.8" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/variants/s7/k1dg5k5t5k1t1k1~x4/"><circle cx="183.5" cy="229.2" r="4" fill="#3465a4"><title>Strathspey District</title></circle></a><a href="/variants/s7/db24k3db5k23y2k11g22~x2/"><circle cx="189.7" cy="190.7" r="4" fill="#3465a4"><title>Mowat</title></circle></a><circle cx="168.8" cy="192.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/"><circle cx="138.7" cy="197.7" r="4" fill="#3465a4"><title>Alexander Hunting</title></circle></a><a href="/variants/s9/k5db3k3db23n4k25n23lb3n5~x2/"><circle cx="175.9" cy="183.7" r="4" fill="#3465a4"><title>Cahonas Scotland</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="129.2" cy="237.7" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/variants/s7/g21k14g9db21k3db12dp3~x2/"><circle cx="163.7" cy="231.8" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="163.0" cy="196.3" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/"><circle cx="186.9" cy="178.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="139.1" cy="207.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s7/k1g5k5db5k1db1k1~x4/"><circle cx="183.3" cy="227.7" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/variants/s7/k1dg5k5t5k1t1k1~x4/"><circle cx="184.0" cy="229.2" r="4" fill="#3465a4"><title>Strathspey District</title></circle></a><a href="/variants/s7/db24k3db5k23y2k11g22~x2/"><circle cx="190.3" cy="190.7" r="4" fill="#3465a4"><title>Mowat</title></circle></a><circle cx="169.2" cy="192.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

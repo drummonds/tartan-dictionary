@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/">Hovington (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/"><img src="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/sett.png" alt="Hovington (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hovington-2/">Hovington</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hovington-2/"><img src="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/sett.png" alt="Hovington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

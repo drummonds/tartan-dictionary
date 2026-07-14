@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/ly36do15ly9r31lyi5do4r16~x2~ly2503076-lyi2705081/">Manhattan Ethnic</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/ly36do15ly9r31lyi5do4r16~x2~ly2503076-lyi2705081/"><img src="/variants/s7/ly36do15ly9r31lyi5do4r16~x2~ly2503076-lyi2705081/sett.png" alt="Manhattan Ethnic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manhattan-ethnic/">Manhattan Ethnic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manhattan-ethnic/"><img src="/variants/s7/ly36do15ly9r31lyi5do4r16~x2~ly2503076-lyi2705081/sett.png" alt="Manhattan Ethnic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

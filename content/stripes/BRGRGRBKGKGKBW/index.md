@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/">Berwick-upon-Tweed (symmetric)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/"><img src="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/sett.png" alt="Berwick-upon-Tweed (symmetric) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/berwick-upon-tweed-2/">Berwick-upon-Tweed</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/berwick-upon-tweed-2/"><img src="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/sett.png" alt="Berwick-upon-Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

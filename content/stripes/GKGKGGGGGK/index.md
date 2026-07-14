@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/">Sin-Cos</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><img src="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/sett.png" alt="Sin-Cos sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sin-cos/">Sin-Cos</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sin-cos/"><img src="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/sett.png" alt="Sin-Cos sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

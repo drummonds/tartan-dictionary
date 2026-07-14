@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/">Laois</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/"><img src="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/sett.png" alt="Laois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/">Laois, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/"><img src="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/sett.png" alt="Laois, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laois/">Laois</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laois/"><img src="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/sett.png" alt="Laois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laois-county/">Laois, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laois-county/"><img src="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/sett.png" alt="Laois, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

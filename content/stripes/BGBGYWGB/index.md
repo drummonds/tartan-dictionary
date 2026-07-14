@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db20y1w1ly3g14n4y1dp4~x2/">St. Columba (one green)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db20y1w1ly3g14n4y1dp4~x2/"><img src="/variants/s8/db20y1w1ly3g14n4y1dp4~x2/sett.png" alt="St. Columba (one green) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-columba-2/">St Columba</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-columba-2/"><img src="/variants/s8/db20y1w1ly3g14n4y1dp4~x2/sett.png" alt="St Columba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

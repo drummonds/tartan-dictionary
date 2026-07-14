@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr4do4dr4do12k32ly15r1ly7dy1r1~x2/">Hard Rock Café</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr4do4dr4do12k32ly15r1ly7dy1r1~x2/"><img src="/variants/s10/dr4do4dr4do12k32ly15r1ly7dy1r1~x2/sett.png" alt="Hard Rock Café sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hard-rock-caf/">Hard Rock Café</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hard-rock-caf/"><img src="/variants/s10/dr4do4dr4do12k32ly15r1ly7dy1r1~x2/sett.png" alt="Hard Rock Café sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

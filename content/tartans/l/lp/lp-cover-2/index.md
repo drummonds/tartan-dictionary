@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ly3k9lb1k9ly3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ykkkwky/">YKKKWKY</a></nav>
 Its design is pattern [YKKKWKY](/stripes/ykkkwky/) — the page of every tartan sharing this colour sequence.
 
 The **LP Cover** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **LP Cover** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly3k9lb1k9ly3/">LP Cover</a></td><td><code>LY/12 K36 LB4 K4 K24 K8 LY/12</code></td><td>176</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly3k9lb1k9ly3/"><img src="/variants/s5/ly3k9lb1k9ly3~x4/sett.png" alt="LP Cover sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/ly3k9lb1k9ly3~x4/">LP Cover</a></td><td><code>LY/12 K36 LB4 K36 LY/12</code></td><td>176</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/ly3k9lb1k9ly3~x4/"><img src="/variants/s5/ly3k9lb1k9ly3~x4/sett.png" alt="LP Cover sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="342.1" cy="177.9" r="4" fill="#3465a4"><title>Black</title></circle></a><a href="/variants/s6/k6y1k6y9r1y2~x2/"><circle cx="256.0" cy="202.9" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="373.8" cy="126.9" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="284.9" cy="190.4" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s6/y2k4y2k2y5r1~x2/"><circle cx="244.1" cy="246.1" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/variants/s4/k34y3k34y26~x2/"><circle cx="386.8" cy="234.7" r="4" fill="#3465a4"><title>Raeburn</title></circle></a><a href="/variants/s5/lr3k3lr3k10dr1~x6/"><circle cx="329.2" cy="188.6" r="4" fill="#3465a4"><title>Burberry</title></circle></a><a href="/variants/s4/y20k15y20w3~x2/"><circle cx="325.2" cy="254.4" r="4" fill="#3465a4"><title>Silvicola</title></circle></a><a href="/variants/s6/k21lb2k5lb9k13g2~x4/"><circle cx="385.1" cy="175.0" r="4" fill="#3465a4"><title>New Zealand</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="314.4" cy="210.0" r="4" fill="#3465a4"><title>Lords of Skye</title></circle></a><circle cx="360.1" cy="205.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="343.2" cy="178.1" r="4" fill="#3465a4"><title>Black</title></circle></a><a href="/variants/s6/k6y1k6y9r1y2~x2/"><circle cx="256.7" cy="203.0" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="375.1" cy="127.1" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="285.7" cy="190.5" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s6/y2k4y2k2y5r1~x2/"><circle cx="244.7" cy="246.2" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/variants/s4/k34y3k34y26~x2/"><circle cx="387.9" cy="235.1" r="4" fill="#3465a4"><title>Raeburn</title></circle></a><a href="/variants/s5/lr3k3lr3k10dr1~x6/"><circle cx="330.2" cy="188.8" r="4" fill="#3465a4"><title>Burberry</title></circle></a><a href="/variants/s4/y20k15y20w3~x2/"><circle cx="326.0" cy="254.6" r="4" fill="#3465a4"><title>Silvicola</title></circle></a><a href="/variants/s6/k21lb2k5lb9k13g2~x4/"><circle cx="386.4" cy="175.3" r="4" fill="#3465a4"><title>New Zealand</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="315.4" cy="210.2" r="4" fill="#3465a4"><title>Lords of Skye</title></circle></a><circle cx="361.1" cy="205.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

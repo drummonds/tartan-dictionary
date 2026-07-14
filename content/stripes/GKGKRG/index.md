@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y8k3y4k2r30y6~x2/">Masai Shuka 16 (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y8k3y4k2r30y6~x2/"><img src="/variants/s6/y8k3y4k2r30y6~x2/sett.png" alt="Masai Shuka 16 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/masai-shuka-16/">Masai Shuka 16</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/masai-shuka-16/"><img src="/variants/s6/y8k3y4k2r30y6~x2/sett.png" alt="Masai Shuka 16 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

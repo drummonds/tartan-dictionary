@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/">Aubigny, Auld Alliance</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/"><img src="/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/sett.png" alt="Aubigny, Auld Alliance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/aubigny-auld-alliance-2/">Aubigny, Auld Alliance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/aubigny-auld-alliance-2/"><img src="/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/sett.png" alt="Aubigny, Auld Alliance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

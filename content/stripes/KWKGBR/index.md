@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k2w1k12g5db11r1~x2/">New England (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k2w1k12g5db11r1~x2/"><img src="/variants/s6/k2w1k12g5db11r1~x2/sett.png" alt="New England (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-england/">New England</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-england/"><img src="/variants/s6/k2w1k12g5db11r1~x2/sett.png" alt="New England sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

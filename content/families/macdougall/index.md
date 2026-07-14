@@ -52,8 +52,8 @@ A family of [Clan MacDougall of Lorn](/clan/macdougall/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdougall-2/"><img src="/variants/s17/b30dp3r3g12r12g12b8r3b8dp12r5g3r5g25r4b6lb1~x2/sett.png" alt="MacDougall 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macdougall-8/">MacDougall</a></td><td>2005</td><td>1</td><td>1</td><td>6.80</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdougall-8/"><img src="/variants/s19/w6r2g16r3g2r3g6w2r2w2g6r7g6r2g2r16w2r2w2~x2/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macdougall-8/">MacDougall 8</a></td><td>—</td><td>1</td><td>2</td><td>7.08</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdougall-8/"><img src="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x4~r1707016-ri2209032/sett.png" alt="MacDougall 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdougall-8/">MacDougall 8</a></td><td>—</td><td>1</td><td>2</td><td>7.13</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdougall-8/"><img src="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/sett.png" alt="MacDougall 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macdougall-6/">MacDougall 6</a></td><td>—</td><td>1</td><td>1</td><td>8.40</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdougall-6/"><img src="g18r6dr4ri6g20ri6dr4ri6dr4r6db22ri8r6dr4ri5-rev.png" alt="MacDougall 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macdougall-10/">MacDougall</a></td><td>~2002</td><td>1</td><td>1</td><td>10.01</td></tr>

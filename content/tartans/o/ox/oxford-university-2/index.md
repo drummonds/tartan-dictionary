@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db9dg16b56ly4/"
+- "/setts/dbi9g16db59ly4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgby/">BGBY</a></nav>
 Its design is pattern [BGBY](/stripes/bgby/) — the page of every tartan sharing this colour sequence.
 
 The **Oxford University** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Oxford University** tartan groups 2 setts — the same named design record
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db9dg16b56ly4/">Oxford University</a> ★</td><td><code>DB/18 DG32 B112 LY/8</code></td><td>314</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db9dg16b56ly4/"><img src="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/sett.png" alt="Oxford University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dbi9g16db59ly4/">(Corporate)</a></td><td><code>DBi/18 G32 DB118 LY/8</code></td><td>326</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dbi9g16db59ly4/"><img src="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/">Oxford University</a> ★</td><td><code>DB/18 DG32 B112 LY/8</code></td><td>314</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><img src="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/sett.png" alt="Oxford University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/">(Corporate)</a></td><td><code>DBi/18 G32 DB118 LY/8</code></td><td>326</td><td>1999</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/"><img src="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="282.0" cy="217.3" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s4/lb20dp3db7dy1~x4/"><circle cx="396.7" cy="198.9" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="433.6" cy="192.9" r="4" fill="#3465a4"><title>Hsu</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="432.2" cy="192.5" r="4" fill="#3465a4"><title>MaleHsuHK</title></circle></a><a href="/variants/s4/w4lb34db60y3~x2/"><circle cx="374.5" cy="200.4" r="4" fill="#3465a4"><title>MacKerral</title></circle></a><a href="/variants/s3/lb9db14r1~x4/"><circle cx="354.9" cy="244.1" r="4" fill="#3465a4"><title>Stakis Hotels</title></circle></a><a href="/variants/s5/db62ly4dy10do3g21~x2/"><circle cx="403.5" cy="187.6" r="4" fill="#3465a4"><title>McGovern</title></circle></a><a href="/variants/s5/dg30w8b32y1b8~x2/"><circle cx="345.2" cy="201.0" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="339.1" cy="250.3" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s5/g47dr3g6db35lo3~x2/"><circle cx="378.6" cy="219.2" r="4" fill="#3465a4"><title>Gracie</title></circle></a><circle cx="441.6" cy="234.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="282.3" cy="217.3" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s4/lb20dp3db7dy1~x4/"><circle cx="397.5" cy="199.0" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="434.5" cy="193.1" r="4" fill="#3465a4"><title>Hsu</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="433.1" cy="192.7" r="4" fill="#3465a4"><title>MaleHsuHK</title></circle></a><a href="/variants/s4/w4lb34db60y3~x2/"><circle cx="375.3" cy="200.4" r="4" fill="#3465a4"><title>MacKerral</title></circle></a><a href="/variants/s3/lb9db14r1~x4/"><circle cx="355.7" cy="244.2" r="4" fill="#3465a4"><title>Stakis Hotels</title></circle></a><a href="/variants/s5/db62ly4dy10do3g21~x2/"><circle cx="404.2" cy="187.8" r="4" fill="#3465a4"><title>McGovern</title></circle></a><a href="/variants/s5/dg30w8b32y1b8~x2/"><circle cx="345.7" cy="201.0" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="339.4" cy="250.4" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s5/g47dr3g6db35lo3~x2/"><circle cx="379.2" cy="219.4" r="4" fill="#3465a4"><title>Gracie</title></circle></a><circle cx="442.3" cy="235.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

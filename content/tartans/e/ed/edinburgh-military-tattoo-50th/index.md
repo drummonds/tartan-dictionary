@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Edinburgh"
   url: "/clan/edinburgh/"
+aliases:
+- "/setts/k1dg8r6db8k1/"
+- "/setts/k1db8r6g8k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbrgk/">KBRGK</a></nav>
 A tartan of [Clan Edinburgh](/clan/edinburgh/).
 Its design is pattern [KBRGK](/stripes/kbrgk/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Edinburgh Military Tattoo 50th** tartan groups 2 setts — the same named 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k1dg8r6db8k1/">Edinburgh Military Tattoo 50th</a> ★</td><td><code>K/4 DG32 R24 DB32 K/4</code></td><td>184</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1dg8r6db8k1/"><img src="/variants/s5/k1dg8r6db8k1~x4/sett.png" alt="Edinburgh Military Tattoo 50th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k1db8r6g8k1/">Military Tartan</a></td><td><code>K/4 G32 R24 DB32 K/4</code></td><td>184</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1db8r6g8k1/"><img src="k1db8r6g8k1-rev.png" alt="Military Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k1dg8r6db8k1~x4/">Edinburgh Military Tattoo 50th</a> ★</td><td><code>K/4 DG32 R24 DB32 K/4</code></td><td>184</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k1dg8r6db8k1~x4/"><img src="/variants/s5/k1dg8r6db8k1~x4/sett.png" alt="Edinburgh Military Tattoo 50th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k1db8r6g8k1~x4/">Military Tartan</a></td><td><code>K/4 DB32 R24 G32 K/4</code></td><td>184</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k1db8r6g8k1~x4/"><img src="k1db8r6g8k1-rev.png" alt="Military Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -40,6 +44,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="57.7" cy="234.2" r="4" fill="#3465a4"><title>Williamson</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="155.5" cy="213.3" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/variants/s6/k3db12r2k12g12k3~x2/"><circle cx="149.6" cy="222.7" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="225.7" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><circle cx="147.8" cy="197.1" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="171.3" cy="210.2" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="143.3" cy="241.6" r="4" fill="#3465a4"><title>MacCaughan</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="188.3" cy="206.9" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s5/dr2db9k5g6db1~x4/"><circle cx="195.9" cy="230.9" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/"><circle cx="153.4" cy="212.4" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><circle cx="171.5" cy="231.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="57.7" cy="233.9" r="4" fill="#3465a4"><title>Williamson</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="155.9" cy="213.2" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/variants/s6/k3db12r2k12g12k3~x2/"><circle cx="149.9" cy="222.6" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.7" cy="225.6" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><circle cx="148.0" cy="197.0" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="171.6" cy="210.0" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="143.4" cy="241.4" r="4" fill="#3465a4"><title>MacCaughan</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="188.6" cy="206.8" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s5/dr2db9k5g6db1~x4/"><circle cx="196.3" cy="230.9" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/"><circle cx="153.7" cy="212.2" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><circle cx="171.7" cy="231.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

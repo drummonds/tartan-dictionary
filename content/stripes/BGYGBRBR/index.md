@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/">Ballantyne (Personal) STWR</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><img src="/variants/s8/db34dy9ly3dy9n30r3n11r5/sett.png" alt="Ballantyne (Personal) STWR sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/ballantyne-stwr/">Ballantyne STWR</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/ballantyne-stwr/"><img src="/variants/s8/db34dy9ly3dy9n30r3n11r5/sett.png" alt="Ballantyne STWR sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/db2g2ly1g30db20r2db2r2~x2/">Gretna Green</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db2g2ly1g30db20r2db2r2~x2/"><img src="/variants/s8/db2g2ly1g30db20r2db2r2~x2/sett.png" alt="Gretna Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/gretna/">Gretna</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/gretna/"><img src="/variants/s8/db2g2ly1g30db20r2db2r2~x2/sett.png" alt="Gretna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

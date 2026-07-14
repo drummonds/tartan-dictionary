@@ -12,15 +12,15 @@ crumbs:
 - name: "Blais"
   url: "/tartans/b/bl/blais/"
 - name: "Blais Family Tartan"
-  url: "/setts/db20y1dy1db3k1o2k1r10k1o2r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db20y1dy1db3k1o2k1r10k1o2r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RKRKRKBGGBGGBKRKRKRR](/stripes/rkrkrkbggbggbkrkrkrr/).
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blais/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGBKRKRKRR](/stripes/bggbkrkrkrr/).
 
 Part of the [Blais](/tartans/b/bl/blais/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2321](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2321)
 
@@ -45,9 +45,11 @@ Earliest known date: 1997 For Francine Paquet Blais's Canadian family with a dir
 </details>
 
 ## Thread count
-R/8 O4 K2 R20 K2 O4 K2 DB6 DY2 Y2 DB40 Y2 DY2 DB6 K2 O4 K2 R20 K2 O/4
+DB/40 Y2 DY2 DB6 K2 O4 K2 R20 K2 O4 R/8
 
-One full sett is **260 threads**.
+One full sett is **136 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/8 O4 K2 R20 K2 O4 K2 DB6 DY2 Y2 DB40 Y2 DY2 DB6 K2 O4 K2 R20 K2 O/4 — 260 threads; it folds to the canonical 136-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **260 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 O4 K2 R20 K2 O4 K2 DB6 DY2 Y2 DB40 Y2 DY2 DB6 K2 O4 K2 R20 K2 O/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/40 Y2 DY2 DB6 K2 O4 K2 R20 K2 O4 R/8 tartan" width="880" height="480">
 
 ## Compared to the master
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db2dg4r1dg4k4db4ly1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgrgkby/">BGRGKBY</a></nav>
 Its design is pattern [BGRGKBY](/stripes/bgrgkby/) — the page of every tartan sharing this colour sequence.
 
 The **Isle of Gigha** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Isle of Gigha** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db2dg4r1dg4k4db4ly1/">Isle of Gigha</a></td><td><code>DB/16 DG32 R8 DG32 K32 DB32 LY/8</code></td><td>296</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2dg4r1dg4k4db4ly1/"><img src="/variants/s7/db2dg4r1dg4k4db4ly1~x8/sett.png" alt="Isle of Gigha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/">Isle of Gigha</a></td><td><code>DB/16 DG32 R8 DG32 K32 DB32 LY/8</code></td><td>296</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><img src="/variants/s7/db2dg4r1dg4k4db4ly1~x8/sett.png" alt="Isle of Gigha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="111.7" cy="209.9" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s8/db4lg2db10k12dg10lr3dg2lr4~x2~lg2909145-dg1405139/"><circle cx="71.3" cy="208.8" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s7/db8g8db1g8k8db8y2~x2/"><circle cx="155.2" cy="241.1" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s7/db4g6w1g6k6db6k2~x2/"><circle cx="123.8" cy="250.5" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/"><circle cx="115.7" cy="275.1" r="4" fill="#3465a4"><title>Blackdown Hills</title></circle></a><a href="/variants/s6/k4g16k13db16lb3db3~x2/"><circle cx="125.6" cy="235.1" r="4" fill="#3465a4"><title>I Y</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.3" cy="216.0" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/"><circle cx="120.0" cy="212.4" r="4" fill="#3465a4"><title>Game Fair</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="103.0" cy="222.1" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s7/k3db3r1db3k3g3y1~x8/"><circle cx="65.2" cy="273.3" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><circle cx="128.6" cy="259.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="112.0" cy="209.6" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s8/db4lg2db10k12dg10lr3dg2lr4~x2~lg2909145-dg1405139/"><circle cx="71.4" cy="208.5" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s7/db8g8db1g8k8db8y2~x2/"><circle cx="155.5" cy="241.0" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s7/db4g6w1g6k6db6k2~x2/"><circle cx="123.9" cy="250.4" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/"><circle cx="115.6" cy="274.9" r="4" fill="#3465a4"><title>Blackdown Hills</title></circle></a><a href="/variants/s6/k4g16k13db16lb3db3~x2/"><circle cx="125.9" cy="234.9" r="4" fill="#3465a4"><title>I Y</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.6" cy="215.9" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/"><circle cx="120.2" cy="212.2" r="4" fill="#3465a4"><title>Game Fair</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="103.2" cy="221.8" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s7/k3db3r1db3k3g3y1~x8/"><circle cx="65.2" cy="273.1" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><circle cx="128.7" cy="259.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

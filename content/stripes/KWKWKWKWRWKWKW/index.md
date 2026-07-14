@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/">Pars, Dress (Sports)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/"><img src="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/sett.png" alt="Pars, Dress (Sports) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/pars-dress/">Pars, Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/pars-dress/"><img src="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/sett.png" alt="Pars, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k37w9k3dg9w3~x2/">Glen Coe Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k37w9k3dg9w3~x2/"><img src="/variants/s5/k37w9k3dg9w3~x2/sett.png" alt="Glen Coe Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-coe/">Glen Coe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-coe/"><img src="/variants/s5/k37w9k3dg9w3~x2/sett.png" alt="Glen Coe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glencoe/">Glencoe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glencoe/"><img src="/variants/s5/k37w9k3g9w3~x2/sett.png" alt="Glencoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

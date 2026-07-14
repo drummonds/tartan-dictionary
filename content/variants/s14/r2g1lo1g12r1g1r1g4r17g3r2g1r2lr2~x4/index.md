@@ -8,15 +8,15 @@ crumbs:
 - name: "Hayes"
   url: "/tartans/h/ha/hayes/"
 - name: "Hayes"
-  url: "/setts/r2g1lo1g12r1g1r1g4r17g3r2g1r2lr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2g1lo1g12r1g1r1g4r17g3r2g1r2lr2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GYGRGRGRGRGRYRGRGRGRGRGYGR](/stripes/gygrgrgrgrgryrgrgrgrgrgygr/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hayes/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGYGRGRGRGRGRY](/stripes/rgygrgrgrgrgry/).
 
 Part of the [Hayes](/tartans/h/ha/hayes/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1636](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1636)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1636](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1970 — Hayes (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1636">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C89800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B0B0B0"></span><br><em>Same as Hay V.S. #1555 (original Scottish Tartans Authority reference) except that the proportions have changed slightly. Sample in Scottish Tartans Authority's Johnston Collection. Woven by Lochcarron 2004/5 - this may have became accepted as a Clan/Family tartan now.</em></li>
-<li>pre 1970 — Hayes (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5168">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B0B0B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C89800"></span><br><em>Same as Hay V.S. (#1555) except that the proportions have changed slightly. Sample in STA's Johnston Collection. Woven by Lochcarron 2004/5 - perhaps this has become accepted as a Clan/Family tartan now?</em></li>
+<li>pre 1970 — Hayes (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5168/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B0B0B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C89800"></span><br><em>Same as Hay V.S. (#1555) except that the proportions have changed slightly. Sample in STA's Johnston Collection. Woven by Lochcarron 2004/5 - perhaps this has become accepted as a Clan/Family tartan now?</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5168
 
 ## Thread count
-R/8 G4 LO4 G48 R4 G4 R4 G16 R68 G12 R8 G4 R8 LR8 R8 G4 R8 G12 R68 G16 R4 G4 R4 G48 LO4 G/4
+R/8 G4 LO4 G48 R4 G4 R4 G16 R68 G12 R8 G4 R8 LR/8
 
-One full sett is **756 threads**.
+One full sett is **384 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/8 G4 LO4 G48 R4 G4 R4 G16 R68 G12 R8 G4 R8 LR8 R8 G4 R8 G12 R68 G16 R4 G4 R4 G48 LO4 G/4 — 756 threads; it folds to the canonical 384-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **756 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 G4 LO4 G48 R4 G4 R4 G16 R68 G12 R8 G4 R8 LR8 R8 G4 R8 G12 R68 G16 R4 G4 R4 G48 LO4 G/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 G4 LO4 G48 R4 G4 R4 G16 R68 G12 R8 G4 R8 LR/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

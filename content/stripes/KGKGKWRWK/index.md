@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k1g23k1y3k1w8r1lb5k1~x2/">Nor Westers Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k1g23k1y3k1w8r1lb5k1~x2/"><img src="/variants/s9/k1g23k1y3k1w8r1lb5k1~x2/sett.png" alt="Nor Westers Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/nor-westers/">Nor Westers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nor-westers/"><img src="/variants/s9/k1g23k1y3k1w8r1lb5k1~x2/sett.png" alt="Nor Westers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

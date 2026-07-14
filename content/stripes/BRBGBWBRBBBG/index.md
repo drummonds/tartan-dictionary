@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/">Tyrone</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/"><img src="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/sett.png" alt="Tyrone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ty/tyrone/">Tyrone</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ty/tyrone/"><img src="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/sett.png" alt="Tyrone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "ShadowHalls"
   url: "/tartans/s/sh/shadowhalls/"
 - name: "ShadowHalls"
-  url: "/setts/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shadowhalls/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBGBKBKBKBKBB](/stripes/bbkbgbkbkbkbkbb/).
 
 Part of the [ShadowHalls](/tartans/s/sh/shadowhalls/) tartan — the named design grouping this sett with its other cloths.

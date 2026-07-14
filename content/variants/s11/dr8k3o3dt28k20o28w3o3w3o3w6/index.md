@@ -12,10 +12,10 @@ crumbs:
 - name: "Logan"
   url: "/tartans/l/lo/logan-4/"
 - name: "Logan #6"
-  url: "/setts/dr8k3o3dt28k20o28w3o3w3o3w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr8k3o3dt28k20o28w3o3w3o3w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/logan-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRBKRWRWRW](/stripes/bkrbkrwrwrw/).
 
 Part of the [Logan](/tartans/l/lo/logan-4/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2186](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Logan #6 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2186">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><br><em>A colour variation of Logan Clan tartan - #490 (original Scottish Tartans Authority reference).</em></li>
-<li>pre 2002 — Logan (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5477">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><br><em>A colour variation of Logan Clan tartan - #490.</em></li>
+<li>pre 2002 — Logan (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5477/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><br><em>A colour variation of Logan Clan tartan - #490.</em></li>
 </ul>
 </details>
 

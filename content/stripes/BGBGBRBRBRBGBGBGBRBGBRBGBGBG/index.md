@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g16db3g3db3g3db16r15db1dy3db1r15db16g15db3g3db3g15db16r15t1r3t1r15db16g3db3g3db3/">Cairns of Finavon (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g16db3g3db3g3db16r15db1dy3db1r15db16g15db3g3db3g15db16r15t1r3t1r15db16g3db3g3db3/"><img src="/variants/s28/g16db3g3db3g3db16r15db1dy3db1r15db16g15db3g3db3g15db16r15t1r3t1r15db16g3db3g3db3~x2/sett.png" alt="Cairns of Finavon (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cairns-of-finavon/">Cairns of Finavon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cairns-of-finavon/"><img src="/variants/s28/g16db3g3db3g3db16r15db1dy3db1r15db16g15db3g3db3g15db16r15t1r3t1r15db16g3db3g3db3~x2/sett.png" alt="Cairns of Finavon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

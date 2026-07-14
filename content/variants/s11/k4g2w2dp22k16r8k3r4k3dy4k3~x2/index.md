@@ -8,10 +8,10 @@ crumbs:
 - name: "Hines Snr, Raymond Lee"
   url: "/tartans/h/hi/hines-snr-raymond-lee/"
 - name: "Hines Snr, Raymond Lee (Personal)"
-  url: "/setts/k4g2w2dp22k16r8k3r4k3dy4k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4g2w2dp22k16r8k3r4k3dy4k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/hines-snr-raymond-lee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRKRKBWGK](/stripes/kgkrkrkbwgk/).
 
 Part of the [Hines Snr, Raymond Lee](/tartans/h/hi/hines-snr-raymond-lee/) tartan — the named design grouping this sett with its other cloths.

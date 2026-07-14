@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/">MacDonald, Sir John A.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/"><img src="/variants/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/sett.png" alt="MacDonald, Sir John A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/">York Region Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/"><img src="/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/sett.png" alt="York Region Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-sir-john-a/">MacDonald, Sir John A</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-sir-john-a/"><img src="/variants/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/sett.png" alt="MacDonald, Sir John A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yo/york-region-pipe-band/">York Region Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yo/york-region-pipe-band/"><img src="/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/sett.png" alt="York Region Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

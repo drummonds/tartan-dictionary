@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g28r7dr7g14dr7r48k4~x2/">MacNab (Crimson)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g28r7dr7g14dr7r48k4~x2/"><img src="/variants/s7/g28r7dr7g14dr7r48k4~x2/sett.png" alt="MacNab (Crimson) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g6r2dr2g4dr2r12k1~x2~r1908029/">MacNab VS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g6r2dr2g4dr2r12k1~x2~r1908029/"><img src="/variants/s7/g6r2dr2g4dr2r12k1~x2~r1908029/sett.png" alt="MacNab VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnab-6/">MacNab</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnab-6/"><img src="/variants/s7/g28r7dr7g14dr7r48k4~x2/sett.png" alt="MacNab sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/">MacNab VS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><img src="/variants/s7/g6r2dp2g4dp2r12k1~x2/sett.png" alt="MacNab VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnab-vs/">MacNab VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnab-vs/"><img src="/variants/s7/g6r2dp2g4dp2r12k1~x2/sett.png" alt="MacNab VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

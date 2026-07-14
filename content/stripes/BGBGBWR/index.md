@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/">Wasko (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><img src="/variants/s7/r8w2dr30g12dr3g12dr3~x2/sett.png" alt="Wasko (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r8w2dr30dg12dr3dg12dr3~x2/">Wasko (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r8w2dr30dg12dr3dg12dr3~x2/"><img src="/variants/s7/r8w2dr30dg12dr3dg12dr3~x2/sett.png" alt="Wasko (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wasko/">Wasko</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wasko/"><img src="/variants/s7/r8w2dr30g12dr3g12dr3~x2/sett.png" alt="Wasko sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

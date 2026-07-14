@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w4lb34db60y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbww/">GBWW</a></nav>
 Its design is pattern [GBWW](/stripes/gbww/) — the page of every tartan sharing this colour sequence.
 
 MacKerral family tartan, unusually exchanging red for yellow in the weft; name recorded in 12th-century Ayrshire.
@@ -14,8 +17,8 @@ The **MacKerral** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w4lb34db60y3/">MacKerral</a></td><td><code>W/8 LB68 DB120 Y/6</code></td><td>390</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w4lb34db60y3/"><img src="/variants/s4/w4lb34db60y3~x2/sett.png" alt="MacKerral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/w4lb34db60y3~x2/">MacKerral</a></td><td><code>W/8 LB68 DB120 Y/6</code></td><td>390</td><td>1975</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/w4lb34db60y3~x2/"><img src="/variants/s4/w4lb34db60y3~x2/sett.png" alt="MacKerral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -28,6 +31,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/lb9db14r1~x4/"><circle cx="354.9" cy="244.1" r="4" fill="#3465a4"><title>Stakis Hotels</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="432.2" cy="192.5" r="4" fill="#3465a4"><title>MaleHsuHK</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="433.6" cy="192.9" r="4" fill="#3465a4"><title>Hsu</title></circle></a><a href="/variants/s4/lb20dp3db7dy1~x4/"><circle cx="396.7" cy="198.9" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s5/db26lb6g1r1w2~x2/"><circle cx="430.5" cy="121.4" r="4" fill="#3465a4"><title>Special Air Service</title></circle></a><a href="/variants/s5/db7y1db7lb11r2~x6/"><circle cx="265.4" cy="226.5" r="4" fill="#3465a4"><title>Brazell</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="258.2" cy="232.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s5/db2w2b8db8w1~x2/"><circle cx="318.5" cy="282.5" r="4" fill="#3465a4"><title>Laval</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="348.2" cy="199.5" r="4" fill="#3465a4"><title>McNiff, Kevin</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.4" cy="224.9" r="4" fill="#3465a4"><title>Wallace Blue Dress</title></circle></a><circle cx="374.5" cy="200.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/lb9db14r1~x4/"><circle cx="355.7" cy="244.2" r="4" fill="#3465a4"><title>Stakis Hotels</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="433.1" cy="192.7" r="4" fill="#3465a4"><title>MaleHsuHK</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="434.5" cy="193.1" r="4" fill="#3465a4"><title>Hsu</title></circle></a><a href="/variants/s4/lb20dp3db7dy1~x4/"><circle cx="397.5" cy="199.0" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s5/db26lb6g1r1w2~x2/"><circle cx="431.7" cy="121.6" r="4" fill="#3465a4"><title>Special Air Service</title></circle></a><a href="/variants/s5/db7y1db7lb11r2~x6/"><circle cx="265.9" cy="226.5" r="4" fill="#3465a4"><title>Brazell</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="258.7" cy="232.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s5/db2w2b8db8w1~x2/"><circle cx="318.9" cy="282.6" r="4" fill="#3465a4"><title>Laval</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="348.9" cy="199.6" r="4" fill="#3465a4"><title>McNiff, Kevin</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.6" cy="224.7" r="4" fill="#3465a4"><title>Wallace Blue Dress</title></circle></a><circle cx="375.3" cy="200.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

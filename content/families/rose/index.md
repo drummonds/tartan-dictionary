@@ -25,7 +25,7 @@ A family of [Clan Rose](/clan/rose/).
 <tr><td><a href="/tartans/r/ro/rose-hunting-2/">Rose Hunting</a></td><td>—</td><td>1</td><td>1</td><td>12.97</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/rose-hunting-2/"><img src="/variants/s6/g4w1g10k10db10r2/sett.png" alt="Rose Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/rose-hunting/">Rose Hunting</a></td><td>1831</td><td>1</td><td>3</td><td>13.03</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/rose-hunting/"><img src="/variants/s6/k4w1g10k10db10r2~x4/sett.png" alt="Rose Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/rose-hunting/"><img src="/variants/s6/k4w1g10k10db10r2~x2/sett.png" alt="Rose Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/rose/">Rose</a></td><td>1831</td><td>1</td><td>1</td><td>13.09</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/rose/"><img src="/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

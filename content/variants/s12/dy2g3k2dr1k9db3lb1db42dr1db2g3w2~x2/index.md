@@ -8,10 +8,10 @@ crumbs:
 - name: "Sedge, Douglas"
   url: "/tartans/s/se/sedge-douglas/"
 - name: "Sedge, Douglas (Personal)"
-  url: "/setts/dy2g3k2dr1k9db3lb1db42dr1db2g3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy2g3k2dr1k9db3lb1db42dr1db2g3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/se/sedge-douglas/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBKBWBBBGW](/stripes/ggkbkbwbbbgw/).
 
 Part of the [Sedge, Douglas](/tartans/s/se/sedge-douglas/) tartan — the named design grouping this sett with its other cloths.

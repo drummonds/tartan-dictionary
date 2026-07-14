@@ -8,15 +8,15 @@ crumbs:
 - name: "Sydney"
   url: "/tartans/s/sy/sydney/"
 - name: "Sydney (Nova Scotia)"
-  url: "/setts/n6k2w1k2n3r6n1r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n6k2w1k2n3r6n1r6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKWKBRBRBRBKWK](/stripes/bkwkbrbrbrbkwk/).
+provenance below. It is one weaving of the [sett](/tartans/s/sy/sydney/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWKBRBR](/stripes/bkwkbrbr/).
 
 Part of the [Sydney](/tartans/s/sy/sydney/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4057](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4057)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5158
 
 ## Thread count
-N/24 K8 W4 K8 N12 R24 N4 R24 N4 R24 N12 K8 W4 K/8
+N/24 K8 W4 K8 N12 R24 N4 R/24
 
-One full sett is **304 threads**.
+One full sett is **168 threads**.
+
+<p class="recorded-note">The source recorded this cloth as N/24 K8 W4 K8 N12 R24 N4 R24 N4 R24 N12 K8 W4 K/8 — 304 threads; it folds to the canonical 168-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **304 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/24 K8 W4 K8 N12 R24 N4 R24 N4 R24 N12 K8 W4 K/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/24 K8 W4 K8 N12 R24 N4 R/24 tartan" width="880" height="480">
 
 ## Compared to the master
 

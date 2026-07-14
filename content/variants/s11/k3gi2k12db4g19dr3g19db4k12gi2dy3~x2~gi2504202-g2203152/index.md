@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Lomond Millenium Comemmorative"
   url: "/tartans/l/lo/loch-lomond-millenium-comemmorative/"
 - name: "Loch Lomond Millenium Comemmorative Tartan"
-  url: "/setts/k3gi2k12db4g19dr3g19db4k12gi2dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3gi2k12db4g19dr3g19db4k12gi2dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-lomond-millenium-comemmorative/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBGBGBKGK](/stripes/ggkbgbgbkgk/).
 
 Part of the [Loch Lomond Millenium Comemmorative](/tartans/l/lo/loch-lomond-millenium-comemmorative/) tartan — the named design grouping this sett with its other cloths.

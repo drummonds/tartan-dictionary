@@ -12,10 +12,10 @@ crumbs:
 - name: "Silversea"
   url: "/tartans/s/si/silversea/"
 - name: "Silversea"
-  url: "/setts/r3dt20db20g2lr4lri17w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3dt20db20g2lr4lri17w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/silversea/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBGYYW](/stripes/rbbgyyw/).
 
 Part of the [Silversea](/tartans/s/si/silversea/) tartan — the named design grouping this sett with its other cloths.

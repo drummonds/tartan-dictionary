@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/n88dy3ly2k2lb1~x2/">Eternity, Dedicated 2 Weddings</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/n88dy3ly2k2lb1~x2/"><img src="/variants/s5/n88dy3ly2k2lb1~x2/sett.png" alt="Eternity, Dedicated 2 Weddings sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/et/eternity/">Eternity</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/et/eternity/"><img src="/variants/s5/n88dy3ly2k2lb1~x2/sett.png" alt="Eternity sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/">Bannock Bane M.407</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><img src="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/sett.png" alt="Bannock Bane M.407 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bannock-bane-m-407/">Bannock Bane M.407</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannock-bane-m-407/"><img src="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/sett.png" alt="Bannock Bane M.407 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/">Bannockbane Grey #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/"><img src="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/sett.png" alt="Bannockbane Grey #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bannockbane-9/">Bannockbane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-9/"><img src="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

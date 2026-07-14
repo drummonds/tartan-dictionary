@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/y2k3dr31w1~x4/">Riddick Furya</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/y2k3dr31w1~x4/"><img src="/variants/s4/y2k3dr31w1~x4/sett.png" alt="Riddick Furya sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/riddick-furya/">Riddick Furya</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/riddick-furya/"><img src="/variants/s4/y2k3dr31w1~x4/sett.png" alt="Riddick Furya sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/g9k11dp8lb2~x2/">Wilson's No.228</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g9k11dp8lb2~x2/"><img src="/variants/s4/g9k11dp8lb2~x2/sett.png" alt="Wilson's No.228 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-228/">Wilson's No.228</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-228/"><img src="/variants/s4/g9k11dp8lb2~x2/sett.png" alt="Wilson's No.228 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

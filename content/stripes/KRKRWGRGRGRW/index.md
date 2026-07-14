@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/">Leach (1999)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/"><img src="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/sett.png" alt="Leach (1999) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leach-2/">Leach</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leach-2/"><img src="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/sett.png" alt="Leach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

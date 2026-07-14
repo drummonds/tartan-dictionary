@@ -12,10 +12,10 @@ crumbs:
 - name: "Cullen"
   url: "/tartans/c/cu/cullen/"
 - name: "Cullen (Christian Hill) (Personal)"
-  url: "/setts/db8y2db8g7db57k3lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8y2db8g7db57k3lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cullen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKW](/stripes/bgbgbkw/).
 
 Part of the [Cullen](/tartans/c/cu/cullen/) tartan — the named design grouping this sett with its other cloths.

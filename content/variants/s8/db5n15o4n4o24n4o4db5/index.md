@@ -12,10 +12,10 @@ crumbs:
 - name: "Daks"
   url: "/tartans/d/da/daks-14/"
 - name: "Daks, (Muted Skye)"
-  url: "/setts/db5n15o4n4o24n4o4db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5n15o4n4o24n4o4db5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/daks-14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBRBRB](/stripes/bbrbrbrb/).
 
 Part of the [Daks](/tartans/d/da/daks-14/) tartan — the named design grouping this sett with its other cloths.

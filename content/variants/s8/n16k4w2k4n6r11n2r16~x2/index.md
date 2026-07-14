@@ -12,10 +12,10 @@ crumbs:
 - name: "Sidney"
   url: "/tartans/s/si/sidney/"
 - name: "Sidney (Nova Scotia) Canadian Tartan"
-  url: "/setts/n16k4w2k4n6r11n2r16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n16k4w2k4n6r11n2r16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/sidney/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKBRBR](/stripes/bkwkbrbr/).
 
 Part of the [Sidney](/tartans/s/si/sidney/) tartan — the named design grouping this sett with its other cloths.

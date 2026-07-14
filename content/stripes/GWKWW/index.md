@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g49lb21k3lb3w3~x2/">Irvine of Drum (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g49lb21k3lb3w3~x2/"><img src="/variants/s5/g49lb21k3lb3w3~x2/sett.png" alt="Irvine of Drum (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ir/irvine-of-drum/">Irvine of Drum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ir/irvine-of-drum/"><img src="/variants/s5/g49lb21k3lb3w3~x2/sett.png" alt="Irvine of Drum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

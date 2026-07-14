@@ -12,17 +12,17 @@ crumbs:
 - name: "Greenshields"
   url: "/tartans/g/gr/greenshields-2/"
 - name: "Greenshields, Alan (Personal)"
-  url: "/setts/k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/greenshields-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGGGGKBKGGGK](/stripes/kgggggkbkgggk/).
 
 Part of the [Greenshields](/tartans/g/gr/greenshields-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5115](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5115)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/5115/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5115/*)
 
 ## Provenance
 
@@ -31,7 +31,7 @@ Earliest known date: 1997 Designed by Peter MacDoanld in 1997 for Alan Greenshie
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1997 — Greenshields, Alan (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5115">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Peter MacDonald in 1997 for Alan Greenshields, Glasgow as a family tartan. Based - by request of the customer - on the MacNichol given by both Ross-Craven and Robert Bain but using yellow form the MacLeod.</em></li>
+<li>1997 — Greenshields, Alan (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5115/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Peter MacDonald in 1997 for Alan Greenshields, Glasgow as a family tartan. Based - by request of the customer - on the MacNichol given by both Ross-Craven and Robert Bain but using yellow form the MacLeod.</em></li>
 <li>1997 — Greenshields Personal Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5115">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span></li>
 </ul>
 </details>
@@ -46,7 +46,7 @@ Earliest known date: 1997 Designed by Peter MacDoanld in 1997 for Alan Greenshie
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

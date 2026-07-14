@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db2r49db51r9w2r9g51r49db2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbrwrgrb/">BRBRWRGRB</a></nav>
 Its design is pattern [BRBRWRGRB](/stripes/brbrwrgrb/) — the page of every tartan sharing this colour sequence.
 
 The **Unidentified 20** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unidentified 20** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db2r49db51r9w2r9g51r49db2/">Unidentified 20</a></td><td><code>DB/4 R98 G102 R18 W4 R18 DB102 R98 DB/4</code></td><td>888</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2r49db51r9w2r9g51r49db2/"><img src="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/sett.png" alt="Unidentified 20 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/">Unidentified 20</a></td><td><code>DB/4 R98 DB102 R18 W4 R18 G102 R98 DB/4</code></td><td>888</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/"><img src="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/sett.png" alt="Unidentified 20 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"><circle cx="297.9" cy="105.9" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="317.7" cy="136.9" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/variants/s9/r28db12r3g20m1g2m1g2r7~x2/"><circle cx="319.2" cy="137.4" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/variants/s9/db2r2db10r10db1r10g10r1db2~x4/"><circle cx="273.9" cy="207.5" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="254.0" cy="167.1" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="289.6" cy="157.7" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s11/dg4g8db6dg8r6g2r2g2r24g1r3/"><circle cx="316.6" cy="140.8" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="301.7" cy="153.2" r="4" fill="#3465a4"><title>Jenkins</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="320.5" cy="164.3" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><circle cx="321.9" cy="138.8" r="4" fill="#3465a4"><title>MacDougal 4</title></circle></a><circle cx="308.4" cy="149.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"><circle cx="298.6" cy="105.8" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="318.4" cy="136.9" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/variants/s9/r28db12r3g20m1g2m1g2r7~x2/"><circle cx="319.9" cy="137.4" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/variants/s9/db2r2db10r10db1r10g10r1db2~x4/"><circle cx="274.4" cy="207.5" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="254.5" cy="167.0" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="290.2" cy="157.6" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s11/dg4g8db6dg8r6g2r2g2r24g1r3/"><circle cx="317.2" cy="140.8" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="302.4" cy="153.1" r="4" fill="#3465a4"><title>Jenkins</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="321.2" cy="164.3" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><circle cx="322.6" cy="138.8" r="4" fill="#3465a4"><title>MacDougal 4</title></circle></a><circle cx="309.1" cy="149.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

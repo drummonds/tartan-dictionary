@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db11dg10g6db7lb2db3dp10lb2~x2/">Hummelt, Katherine (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db11dg10g6db7lb2db3dp10lb2~x2/"><img src="/variants/s8/db11dg10g6db7lb2db3dp10lb2~x2/sett.png" alt="Hummelt, Katherine (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hummelt-katherine/">Hummelt, Katherine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hummelt-katherine/"><img src="/variants/s8/db11dg10g6db7lb2db3dp10lb2~x2/sett.png" alt="Hummelt, Katherine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r6dt4w2g27dt37y2~x2/">Highlands of Durham (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><img src="/variants/s6/r6dt4w2g27dt37y2~x2/sett.png" alt="Highlands of Durham (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highlands-of-durham-3/">Highlands of Durham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highlands-of-durham-3/"><img src="/variants/s6/r6dt4w2g27dt37y2~x2/sett.png" alt="Highlands of Durham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/g6b1g7w1b7r1/">Norris (1957)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g6b1g7w1b7r1/"><img src="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/sett.png" alt="Norris (1957) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/norris-2/">Norris</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norris-2/"><img src="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/sett.png" alt="Norris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

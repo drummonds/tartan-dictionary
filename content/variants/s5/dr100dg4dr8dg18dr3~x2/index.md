@@ -8,15 +8,15 @@ crumbs:
 - name: "KaDeWe"
   url: "/tartans/k/ka/kadewe/"
 - name: "KaDeWe"
-  url: "/setts/dr100dg4dr8dg18dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr100dg4dr8dg18dr3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBGBGBG](/stripes/bgbgbgbg/).
+provenance below. It is one weaving of the [sett](/tartans/k/ka/kadewe/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGB](/stripes/bgbgb/).
 
 Part of the [KaDeWe](/tartans/k/ka/kadewe/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1925](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1925)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1925](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1989 — KaDeWe (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1925">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Kaufhaus Des Westes is a large Berlin store who during 1989 and the Glasgow mission there had this tartan designed from a plastic bag found at the Glasgow Airport. Donald Fraser (weaver) wove it for them in store where it was given the abreviated name 'KaDeWe'. This name was on carrier bags in the store.</em></li>
-<li>1989 — KaDeWe (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2696">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Estimated count from small graphic. Pronounced Kaa - Day - Vay these are the initials of Berlin's famous department store - Kaufhaus Des Westes - originally built in 1906/07 and the largest in Europe. Famous for its gourmet food department on the 6th floor. It is reported (STS) that during 1989 and the Glasgow mission to Berlin, this tartan was designed from a plastic bag found at Glasgow Airport. Donald Fraser (weaver) wove it for them in store where it was given the store's abbreviated name 'KaDeWe'.</em></li>
+<li>1989 — KaDeWe (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2696/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Estimated count from small graphic. Pronounced Kaa - Day - Vay these are the initials of Berlin's famous department store - Kaufhaus Des Westes - originally built in 1906/07 and the largest in Europe. Famous for its gourmet food department on the 6th floor. It is reported (STS) that during 1989 and the Glasgow mission to Berlin, this tartan was designed from a plastic bag found at Glasgow Airport. Donald Fraser (weaver) wove it for them in store where it was given the store's abbreviated name 'KaDeWe'.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2696
 
 ## Thread count
-DR/200 DG8 DR16 DG36 DR6 DG36 DR16 DG/8
+DR/200 DG8 DR16 DG36 DR/6
 
-One full sett is **444 threads**.
+One full sett is **326 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/200 DG8 DR16 DG36 DR6 DG36 DR16 DG/8 — 444 threads; it folds to the canonical 326-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **444 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/200 DG8 DR16 DG36 DR6 DG36 DR16 DG/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/200 DG8 DR16 DG36 DR/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

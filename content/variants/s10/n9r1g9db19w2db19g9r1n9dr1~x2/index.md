@@ -12,10 +12,10 @@ crumbs:
 - name: "Wilton"
   url: "/tartans/w/wi/wilton/"
 - name: "Wilton (Toronto) (Personal)"
-  url: "/setts/n9r1g9db19w2db19g9r1n9dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n9r1g9db19w2db19g9r1n9dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRGBWBGRB](/stripes/bbrgbwbgrb/).
 
 Part of the [Wilton](/tartans/w/wi/wilton/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "Ayre Robinson"
   url: "/tartans/a/ay/ayre-robinson/"
 - name: "Ayre Robinson (Personal)"
-  url: "/setts/db12t2dg10db16dg6db2dg2db2dg6r2db5w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db12t2dg10db16dg6db2dg2db2dg6r2db5w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ay/ayre-robinson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBGBGRBW](/stripes/bbgbgbgbgrbw/).
 
 Part of the [Ayre Robinson](/tartans/a/ay/ayre-robinson/) tartan — the named design grouping this sett with its other cloths.

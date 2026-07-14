@@ -28,14 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/">Robertson Htg - 1816 (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><img src="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Robertson Htg - 1816 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/">Robertson Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><img src="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/sett.png" alt="Robertson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/">Robertson Hunting Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><img src="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/sett.png" alt="Robertson Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/">Robertson of Kindeace</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><img src="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Robertson of Kindeace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robertson-hunting/">Robertson Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-hunting/"><img src="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/sett.png" alt="Robertson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robertson-of-kindeace/">Robertson of Kindeace</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-of-kindeace/"><img src="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Robertson of Kindeace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

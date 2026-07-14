@@ -8,10 +8,10 @@ crumbs:
 - name: "Tyneside"
   url: "/tartans/t/ty/tyneside/"
 - name: "Tyneside Scottish District Tartan"
-  url: "/setts/db11do1db1do1db1do8g8do1g8do8db8do1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11do1db1do1db1do8g8do1g8do8db8do1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ty/tyneside/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/).
 
 Part of the [Tyneside](/tartans/t/ty/tyneside/) tartan — the named design grouping this sett with its other cloths.

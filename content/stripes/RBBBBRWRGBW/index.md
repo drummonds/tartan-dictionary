@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1~x2~dbi1406275-r2108022-db1204274-ri2109032/">Queen of the South Football Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1~x2~dbi1406275-r2108022-db1204274-ri2109032/"><img src="/variants/s11/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1~x2~dbi1406275-r2108022-db1204274-ri2109032/sett.png" alt="Queen of the South Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coldstream-2/">Coldstream</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coldstream-2/"><img src="/variants/s11/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1~x2~dbi1406275-r2108022-db1204274-ri2109032/sett.png" alt="Coldstream sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

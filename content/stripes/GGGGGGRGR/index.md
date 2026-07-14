@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r2g2r2g4y3dy45g2dy3g2~x2/">Welsh Stanley–Gpa (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r2g2r2g4y3dy45g2dy3g2~x2/"><img src="/variants/s9/r2g2r2g4y3dy45g2dy3g2~x2/sett.png" alt="Welsh Stanley–Gpa (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/welsh-stanley-gpa/">Welsh Stanley–Gpa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/welsh-stanley-gpa/"><img src="/variants/s9/r2g2r2g4y3dy45g2dy3g2~x2/sett.png" alt="Welsh Stanley–Gpa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

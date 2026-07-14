@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k1w1k18db20w1r1y1~x4/">Fuller of Hopewell (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><img src="/variants/s7/k1w1k18db20w1r1y1~x4/sett.png" alt="Fuller of Hopewell (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fu/fuller-of-hopewell/">Fuller of Hopewell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fu/fuller-of-hopewell/"><img src="/variants/s7/k1w1k18db20w1r1y1~x4/sett.png" alt="Fuller of Hopewell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

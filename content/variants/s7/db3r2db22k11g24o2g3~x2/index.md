@@ -12,10 +12,10 @@ crumbs:
 - name: "MacThomas"
   url: "/tartans/m/ma/macthomas/"
 - name: "MacThomas Clan Tartan"
-  url: "/setts/db3r2db22k11g24o2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3r2db22k11g24o2g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macthomas/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGRG](/stripes/brbkgrg/).
 
 Part of the [MacThomas](/tartans/m/ma/macthomas/) tartan — the named design grouping this sett with its other cloths.

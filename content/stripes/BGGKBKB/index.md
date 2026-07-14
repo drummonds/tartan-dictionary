@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/b2g6y1k6db6k1db1~x2/">Hogarth, of Firhill</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/b2g6y1k6db6k1db1~x2/"><img src="/variants/s7/b2g6y1k6db6k1db1~x2/sett.png" alt="Hogarth, of Firhill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hogarth-of-firhill/">Hogarth of Firhill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hogarth-of-firhill/"><img src="/variants/s7/b2g6y1k6db6k1db1~x2/sett.png" alt="Hogarth of Firhill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

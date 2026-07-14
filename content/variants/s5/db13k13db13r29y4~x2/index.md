@@ -10,10 +10,10 @@ crumbs:
 - name: "Highland Pub Company"
   url: "/tartans/h/hi/highland-pub-company-2/"
 - name: "Highland Pub Company"
-  url: "/setts/db13k13db13r29y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db13k13db13r29y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highland-pub-company-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRG](/stripes/bkbrg/).
 
 Part of the [Highland Pub Company](/tartans/h/hi/highland-pub-company-2/) tartan — the named design grouping this sett with its other cloths.

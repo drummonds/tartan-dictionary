@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db13r50y7o6g4k4~x2/">Harding (Florida) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db13r50y7o6g4k4~x2/"><img src="/variants/s6/db13r50y7o6g4k4~x2/sett.png" alt="Harding (Florida) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harding-3/">Harding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harding-3/"><img src="/variants/s6/db13r50y7o6g4k4~x2/sett.png" alt="Harding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

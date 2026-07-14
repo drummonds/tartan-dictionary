@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k4n13m3lr7w3ly25r2ly3o4~x2/">Australian Donkey</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k4n13m3lr7w3ly25r2ly3o4~x2/"><img src="/variants/s9/k4n13m3lr7w3ly25r2ly3o4~x2/sett.png" alt="Australian Donkey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/australian-donkey-2/">Australian Donkey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/australian-donkey-2/"><img src="/variants/s9/k4n13m3lr7w3ly25r2ly3o4~x2/sett.png" alt="Australian Donkey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

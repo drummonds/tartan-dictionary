@@ -8,10 +8,10 @@ crumbs:
 - name: "Halcrow Howell"
   url: "/tartans/h/ha/halcrow-howell/"
 - name: "Halcrow Howell"
-  url: "/setts/b4t3b6k2db12g2db2g24lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b4t3b6k2db12g2db2g24lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/halcrow-howell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBGBGW](/stripes/bbbkbgbgw/).
 
 Part of the [Halcrow Howell](/tartans/h/ha/halcrow-howell/) tartan — the named design grouping this sett with its other cloths.

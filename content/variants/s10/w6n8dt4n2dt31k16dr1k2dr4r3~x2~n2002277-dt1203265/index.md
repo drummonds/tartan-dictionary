@@ -10,10 +10,10 @@ crumbs:
 - name: "Bell Rock Lighthouse 200th Anniv Commemorative"
   url: "/tartans/b/be/bell-rock-lighthouse-200th-anniv-commemorative/"
 - name: "Bell Rock Lighthouse 200th Anniversary, The"
-  url: "/setts/w6n8dt4n2dt31k16dr1k2dr4r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w6n8dt4n2dt31k16dr1k2dr4r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/bell-rock-lighthouse-200th-anniv-commemorative/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKBBBBW](/stripes/rbkbkbbbbw/).
 
 Part of the [Bell Rock Lighthouse 200th Anniv Commemorative](/tartans/b/be/bell-rock-lighthouse-200th-anniv-commemorative/) tartan — the named design grouping this sett with its other cloths.

@@ -12,15 +12,15 @@ crumbs:
 - name: "Strathtay"
   url: "/tartans/s/st/strathtay-2/"
 - name: "Strathtay District Tartan"
-  url: "/setts/lb6dg2lb2dg5k49r2k2r4g10k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb6dg2lb2dg5k49r2k2r4g10k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathtay-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRKRKKKKGWGW](/stripes/kgrkrkkkkgwgw/).
 
 Part of the [Strathtay](/tartans/s/st/strathtay-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10115](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10115)
 

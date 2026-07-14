@@ -8,10 +8,10 @@ crumbs:
 - name: "Spirit of Hoxa"
   url: "/tartans/s/sp/spirit-of-hoxa/"
 - name: "Spirit of Hoxa"
-  url: "/setts/dg2dpi19dg2dp46lb2dpi10dg3o2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2dpi19dg2dp46lb2dpi10dg3o2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spirit-of-hoxa/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBWBGRR](/stripes/gbgbwbgrr/).
 
 Part of the [Spirit of Hoxa](/tartans/s/sp/spirit-of-hoxa/) tartan — the named design grouping this sett with its other cloths.

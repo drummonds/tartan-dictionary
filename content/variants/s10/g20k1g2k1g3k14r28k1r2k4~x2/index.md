@@ -12,10 +12,10 @@ crumbs:
 - name: "Kerr"
   url: "/tartans/k/ke/kerr/"
 - name: "Kerr"
-  url: "/setts/g20k1g2k1g3k14r28k1r2k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g20k1g2k1g3k14r28k1r2k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kerr/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKRKRK](/stripes/gkgkgkrkrk/).
 
 Part of the [Kerr](/tartans/k/ke/kerr/) tartan — the named design grouping this sett with its other cloths.

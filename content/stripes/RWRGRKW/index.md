@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/">MMK 1777</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><img src="/variants/s7/w30k1r7dg7r8w1r2~x4/sett.png" alt="MMK 1777 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mm/mmk-1777/">MMK 1777</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mm/mmk-1777/"><img src="/variants/s7/w30k1r7dg7r8w1r2~x4/sett.png" alt="MMK 1777 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

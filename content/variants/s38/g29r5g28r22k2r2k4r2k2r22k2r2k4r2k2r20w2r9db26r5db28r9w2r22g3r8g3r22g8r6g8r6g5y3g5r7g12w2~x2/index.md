@@ -10,10 +10,10 @@ crumbs:
 - name: "MacRae The Princes Own"
   url: "/tartans/m/ma/macrae-the-princes-own/"
 - name: "MacRae The Princes Own Clan Tartan"
-  url: "/setts/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20w2r9db26r5db28r9w2r22g3r8g3r22g8r6g8r6g5y3g5r7g12w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20w2r9db26r5db28r9w2r22g3r8g3r22g8r6g8r6g5y3g5r7g12w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macrae-the-princes-own/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgggrgw/).
 
 Part of the [MacRae The Princes Own](/tartans/m/ma/macrae-the-princes-own/) tartan — the named design grouping this sett with its other cloths.

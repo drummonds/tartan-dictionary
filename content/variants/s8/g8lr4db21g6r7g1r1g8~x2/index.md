@@ -8,10 +8,10 @@ crumbs:
 - name: "Cathcart"
   url: "/tartans/c/ca/cathcart/"
 - name: "Cathcart"
-  url: "/setts/g8lr4db21g6r7g1r1g8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8lr4db21g6r7g1r1g8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cathcart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGBYG](/stripes/grgrgbyg/).
 
 Part of the [Cathcart](/tartans/c/ca/cathcart/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=596](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1840 — Cathcart (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=596">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><br><em>Recorded from a woollen blanket spun and woven by the Cathcart family C. 1825-40. Now in the Deerfield, Massachusetts museum.</em></li>
-<li>pre 1840 — Cathcart (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4479">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><br><em>Recorded from a woollen blanket spun and woven by the Cathcart family C. 1825-40. Now in the Deerfield, Massachusetts museum.</em></li>
+<li>pre 1840 — Cathcart (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4479/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><br><em>Recorded from a woollen blanket spun and woven by the Cathcart family C. 1825-40. Now in the Deerfield, Massachusetts museum.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/">Eire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/"><img src="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/sett.png" alt="Eire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ei/eire/">Eire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ei/eire/"><img src="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/sett.png" alt="Eire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

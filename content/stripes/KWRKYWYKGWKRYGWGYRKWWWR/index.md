@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/">MacLeod of Gesto (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/"><img src="/variants/s23/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/sett.png" alt="MacLeod of Gesto (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-of-gesto-4/">MacLeod of Gesto</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-of-gesto-4/"><img src="/variants/s23/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/sett.png" alt="MacLeod of Gesto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

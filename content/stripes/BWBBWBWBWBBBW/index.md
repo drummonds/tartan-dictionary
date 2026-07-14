@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/">Meiji Rugby 1923</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/"><img src="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/sett.png" alt="Meiji Rugby 1923 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/meiji-rugby-1923/">Meiji Rugby 1923</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meiji-rugby-1923/"><img src="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/sett.png" alt="Meiji Rugby 1923 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

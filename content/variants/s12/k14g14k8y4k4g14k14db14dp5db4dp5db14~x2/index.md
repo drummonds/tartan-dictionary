@@ -8,10 +8,10 @@ crumbs:
 - name: "Price-Powell"
   url: "/tartans/p/pr/price-powell/"
 - name: "Price-Powell (Personal)"
-  url: "/setts/k14g14k8y4k4g14k14db14dp5db4dp5db14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k14g14k8y4k4g14k14db14dp5db4dp5db14/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/price-powell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBKGKGKGK](/stripes/bbbbbkgkgkgk/).
 
 Part of the [Price-Powell](/tartans/p/pr/price-powell/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10295](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>20/09/2010 — Price-Powell (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10295">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1714;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #1C1714"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1E492B;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #1E492B"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0A126;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E0A126"></span><span style="display:inline-block;width:.85em;height:.85em;background:#373875;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #373875"></span><span style="display:inline-block;width:.85em;height:.85em;background:#88227E;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #88227E"></span><br><em>Created to celebrate the designer's Scottish heritage.</em></li>
-<li>20th Sept 2010 — Price-Powell (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10295">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>Asymmetric. Created to celebrate the designer's Scottish Heritage.</em></li>
+<li>20th Sept 2010 — Price-Powell (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10295/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>Asymmetric. Created to celebrate the designer's Scottish Heritage.</em></li>
 </ul>
 </details>
 

@@ -9,16 +9,16 @@ crumbs:
   url: "/clan/glen/"
 - name: "Glen Orchy"
   url: "/tartans/g/gl/glen-orchy-4/"
-- name: "Glenorchy"
-  url: "/setts/db2lb1r2g16r2db6lb1r2g6r2db16lb1r2g2/"
+- name: "Norwich No.023"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2lb1r2g16r2db6lb1r2g6r2db16lb1r2g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRWBRGRWBRGRWBWRGRBWRGRBWR](/stripes/grwbrgrwbrgrwbwrgrbwrgrbwr/).
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-orchy-4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRGRBWRGRBWRG](/stripes/bwrgrbwrgrbwrg/).
 
 Part of the [Glen Orchy](/tartans/g/gl/glen-orchy-4/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3175](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3175)
 
@@ -46,9 +46,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5573
 
 ## Thread count
-G/4 R4 LB2 DB32 R4 G12 R4 LB2 DB12 R4 G32 R4 LB2 DB4 LB2 R4 G32 R4 DB12 LB2 R4 G12 R4 DB32 LB2 R/4
+DB/4 LB2 R4 G32 R4 DB12 LB2 R4 G12 R4 DB32 LB2 R4 G/4
 
-One full sett is **464 threads**.
+One full sett is **236 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/4 R4 LB2 DB32 R4 G12 R4 LB2 DB12 R4 G32 R4 LB2 DB4 LB2 R4 G32 R4 DB12 LB2 R4 G12 R4 DB32 LB2 R/4 — 464 threads; it folds to the canonical 236-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -57,7 +59,7 @@ One full sett is **464 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/4 R4 LB2 DB32 R4 G12 R4 LB2 DB12 R4 G32 R4 LB2 DB4 LB2 R4 G32 R4 DB12 LB2 R4 G12 R4 DB32 LB2 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/4 LB2 R4 G32 R4 DB12 LB2 R4 G12 R4 DB32 LB2 R4 G/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

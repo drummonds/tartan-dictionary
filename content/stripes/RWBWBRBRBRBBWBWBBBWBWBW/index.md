@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3/">Alabama (Provisional)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3/"><img src="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/sett.png" alt="Alabama (Provisional) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alabama/">Alabama</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alabama/"><img src="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/sett.png" alt="Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

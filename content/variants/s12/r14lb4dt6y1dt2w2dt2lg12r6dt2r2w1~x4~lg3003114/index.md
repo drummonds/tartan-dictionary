@@ -8,15 +8,15 @@ crumbs:
 - name: "Stuart/Stewart"
   url: "/tartans/s/st/stuart-stewart-4/"
 - name: "Stuart/Stewart - Prince Charles Edward"
-  url: "/setts/r14lb4dt6y1dt2w2dt2lg12r6dt2r2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r14lb4dt6y1dt2w2dt2lg12r6dt2r2w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWBGBWBYRBRWRBRYBWBGBW](/stripes/rwbgbwbyrbrwrbrybwbgbw/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/stuart-stewart-4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWBGBWBYRBRW](/stripes/rwbgbwbyrbrw/).
 
 Part of the [Stuart/Stewart](/tartans/s/st/stuart-stewart-4/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3991](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3991)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1371
 
 ## Thread count
-R/56 LB16 DT24 Y4 DT8 W8 DT8 LG48 R24 DT8 R8 W4 R8 DT8 R24 LG48 DT8 W8 DT8 Y4 DT24 LB/16
+R/56 LB16 DT24 Y4 DT8 W8 DT8 LG48 R24 DT8 R8 W/4
 
-One full sett is **672 threads**.
+One full sett is **372 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/56 LB16 DT24 Y4 DT8 W8 DT8 LG48 R24 DT8 R8 W4 R8 DT8 R24 LG48 DT8 W8 DT8 Y4 DT24 LB/16 — 672 threads; it folds to the canonical 372-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **672 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/56 LB16 DT24 Y4 DT8 W8 DT8 LG48 R24 DT8 R8 W4 R8 DT8 R24 LG48 DT8 W8 DT8 Y4 DT24 LB/16 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/56 LB16 DT24 Y4 DT8 W8 DT8 LG48 R24 DT8 R8 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

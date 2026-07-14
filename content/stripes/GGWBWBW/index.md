@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y6dg36w5t4w30t1w2~x2/">Pearce Scotch Plaid 4 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y6dg36w5t4w30t1w2~x2/"><img src="/variants/s7/y6dg36w5t4w30t1w2~x2/sett.png" alt="Pearce Scotch Plaid 4 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/pearce-scotch-plaid-4/">Pearce Scotch Plaid 4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/pearce-scotch-plaid-4/"><img src="/variants/s7/y6dg36w5t4w30t1w2~x2/sett.png" alt="Pearce Scotch Plaid 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

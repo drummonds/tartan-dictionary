@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/">Ontario (Official)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/"><img src="/variants/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/sett.png" alt="Ontario (Official) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/on/ontario-2/">Ontario</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/on/ontario-2/"><img src="/variants/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/sett.png" alt="Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

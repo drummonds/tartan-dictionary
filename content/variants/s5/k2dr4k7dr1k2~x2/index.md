@@ -10,10 +10,10 @@ crumbs:
 - name: "Romsdal Tresfjord"
   url: "/tartans/r/ro/romsdal-tresfjord/"
 - name: "Romsdal Tresfjord"
-  url: "/setts/k2dr4k7dr1k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2dr4k7dr1k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/romsdal-tresfjord/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBK](/stripes/kbkbk/).
 
 Part of the [Romsdal Tresfjord](/tartans/r/ro/romsdal-tresfjord/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3545](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Romsdal Tresfjord (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3545">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Scottish Tartans Society note says 'tartan for a man's vest' but does not say whether this is from an original specimen or modern one. The note was probably written in the US so, for 'vest' read 'waistcoat'. Source of information noted as Aud Aslaksen, Romsdalsmuseet, Molde . Scottish Tartans Society has one more colour and a count of K4, DR8, K14, R2, K2. The R2 is probably an error and it should be DR.</em></li>
-<li>pre 2002 — Romsdal Tresfjord District (Artefact (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2088">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Romsdal is the district on the West Coast of Norway where Scottish soldiers landed in 1612. STS note says 'tartan for a man's vest' but does not say whether this is from an original specimen or modern one. The note was probably written in the US so, for 'vest' read 'waistcoat'. Source of information noted as Aud Aslaksen, Romsdalsmuseet, Molde . STS has one more colour and a count of K4, DR8, K14, R2, K2. The R2 is probably an error and it should be DR.</em></li>
+<li>pre 2002 — Romsdal Tresfjord District (Artefact (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2088/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Romsdal is the district on the West Coast of Norway where Scottish soldiers landed in 1612. STS note says 'tartan for a man's vest' but does not say whether this is from an original specimen or modern one. The note was probably written in the US so, for 'vest' read 'waistcoat'. Source of information noted as Aud Aslaksen, Romsdalsmuseet, Molde . STS has one more colour and a count of K4, DR8, K14, R2, K2. The R2 is probably an error and it should be DR.</em></li>
 </ul>
 </details>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Scottish Heritage Preservation"
   url: "/tartans/s/sc/scottish-heritage-preservation/"
 - name: "Scottish Heritage Preservation"
-  url: "/setts/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWGKBKBKBKGWGKBKBK](/stripes/bkbkbkgwgkbkbkbkgwgkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-heritage-preservation/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWGKBKB](/stripes/bkbkbkgwgkbkb/).
 
 Part of the [Scottish Heritage Preservation](/tartans/s/sc/scottish-heritage-preservation/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3721](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3721)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3721](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Scottish Heritage Preservation (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3721">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Design by Phil Smith, 2000 for Peter Campbell of the Scottish Heritage Preservation Society. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>2000 — Scottish Heritage Preservation (Corp (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4107">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Design by Phil Smith, 2000 for Peter Campbell of the SHPS. Sample in STA Johnston Collection.</em></li>
+<li>2000 — Scottish Heritage Preservation (Corp (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4107/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Design by Phil Smith, 2000 for Peter Campbell of the SHPS. Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4107
 
 ## Thread count
-DP/44 K4 DP4 K4 DP4 K36 G16 LB4 G16 K32 DP32 K4 DP4 K4 DP32 K32 G16 LB4 G16 K36 DP4 K4 DP4 K/4
+DP/44 K4 DP4 K4 DP4 K36 G16 LB4 G16 K32 DP32 K4 DP/4
 
-One full sett is **672 threads**.
+One full sett is **360 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/44 K4 DP4 K4 DP4 K36 G16 LB4 G16 K32 DP32 K4 DP4 K4 DP32 K32 G16 LB4 G16 K36 DP4 K4 DP4 K/4 — 672 threads; it folds to the canonical 360-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **672 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/44 K4 DP4 K4 DP4 K36 G16 LB4 G16 K32 DP32 K4 DP4 K4 DP32 K32 G16 LB4 G16 K36 DP4 K4 DP4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/44 K4 DP4 K4 DP4 K36 G16 LB4 G16 K32 DP32 K4 DP/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

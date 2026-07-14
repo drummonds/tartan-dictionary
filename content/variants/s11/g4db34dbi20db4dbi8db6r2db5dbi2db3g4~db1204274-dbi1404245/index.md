@@ -12,10 +12,10 @@ crumbs:
 - name: "Hughes"
   url: "/tartans/h/hu/hughes-5/"
 - name: "Hughes Welsh Name Tartan"
-  url: "/setts/g4db34dbi20db4dbi8db6r2db5dbi2db3g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4db34dbi20db4dbi8db6r2db5dbi2db3g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hughes-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBBBRBBBG](/stripes/gbbbbbrbbbg/).
 
 Part of the [Hughes](/tartans/h/hu/hughes-5/) tartan — the named design grouping this sett with its other cloths.

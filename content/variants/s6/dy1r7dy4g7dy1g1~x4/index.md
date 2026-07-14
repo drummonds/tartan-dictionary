@@ -10,17 +10,17 @@ crumbs:
 - name: "Dewar"
   url: "/families/dewar/"
 - name: "Dewar"
-  url: "/tartans/d/de/dewar/"
+  url: "/tartans/d/de/dewar-2/"
 - name: "Dewar"
-  url: "/setts/dy1r7dy4g7dy1g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy1r7dy4g7dy1g1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGGGRGRGGG](/stripes/ggggrgrggg/).
+provenance below. It is one weaving of the [sett](/tartans/d/de/dewar-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGGRG](/stripes/ggggrg/).
 
-Part of the [Dewar](/tartans/d/de/dewar/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dewar](/tartans/d/de/dewar-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=924](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=924)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2757
 
 ## Thread count
-G/4 DY4 G28 DY16 R28 DY4 R28 DY16 G28 DY/4
+DY/4 R28 DY16 G28 DY4 G/4
 
-One full sett is **312 threads**.
+One full sett is **160 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/4 DY4 G28 DY16 R28 DY4 R28 DY16 G28 DY/4 — 312 threads; it folds to the canonical 160-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **312 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/4 DY4 G28 DY16 R28 DY4 R28 DY16 G28 DY/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/4 R28 DY16 G28 DY4 G/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

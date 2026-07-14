@@ -8,22 +8,22 @@ crumbs:
 - name: "Ensign of Ontario"
   url: "/tartans/e/en/ensign-of-ontario/"
 - name: "Ensign of Ontario (Fashion)"
-  url: "/setts/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/en/ensign-of-ontario/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGYGGGGGGKRKG](/stripes/ggggyggggggkrkg/).
 
 Part of the [Ensign of Ontario](/tartans/e/en/ensign-of-ontario/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2032](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2032)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/2032/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2032/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1965 — Ensign of Ontario (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2032">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Elsie Gillespie has taken her colours from the Ontario Coat of Arms: Yellow is from the golden maple leaves; red from St George's cross; black and brown from the bear, moose and deer. Woven by Rotex Ltd. Was incorrectly regarded as Ontario's official tartan for a while.</em></li>
+<li>1965 — Ensign of Ontario (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2032/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Elsie Gillespie has taken her colours from the Ontario Coat of Arms: Yellow is from the golden maple leaves; red from St George's cross; black and brown from the bear, moose and deer. Woven by Rotex Ltd. Was incorrectly regarded as Ontario's official tartan for a while.</em></li>
 <li>01/01/1968 — Ensign of Ontario (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1114">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>The Ensign tartan owes its inspiration to the Provincial Coat of Arms which was granted to the province by Royal Warrant of Queen Victoria in 1868. The yellow is taken from the three golden maple leaves of the lower shield and the red from the cross of St George on the upper. The black and brown come from the bear, the moose and the deer. There is also a District tartan called Northern Ontario. Woven by Rotex Ltd. Was incorrectly regarded as Ontario's official tartan for a while.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2032](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

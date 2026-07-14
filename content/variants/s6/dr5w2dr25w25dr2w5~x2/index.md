@@ -10,10 +10,10 @@ crumbs:
 - name: "Erskine Dress Burgandy"
   url: "/tartans/e/er/erskine-dress-burgandy/"
 - name: "Erskine Dress Burgandy Clan Tartan"
-  url: "/setts/dr5w2dr25w25dr2w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr5w2dr25w25dr2w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/er/erskine-dress-burgandy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
 
 Part of the [Erskine Dress Burgandy](/tartans/e/er/erskine-dress-burgandy/) tartan — the named design grouping this sett with its other cloths.

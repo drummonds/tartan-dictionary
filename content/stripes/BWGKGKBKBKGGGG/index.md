@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/">Balmaha</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/"><img src="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/sett.png" alt="Balmaha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/balmaha/">Balmaha</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/balmaha/"><img src="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/sett.png" alt="Balmaha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

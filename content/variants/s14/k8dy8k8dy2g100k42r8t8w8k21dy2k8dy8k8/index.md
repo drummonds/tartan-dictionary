@@ -8,10 +8,10 @@ crumbs:
 - name: "Tarassow Russian Scouts"
   url: "/tartans/t/ta/tarassow-russian-scouts/"
 - name: "Tarassow Russian Scouts Corporate Tartan"
-  url: "/setts/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ta/tarassow-russian-scouts/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGGKRBWKGKGK](/stripes/kgkggkrbwkgkgk/).
 
 Part of the [Tarassow Russian Scouts](/tartans/t/ta/tarassow-russian-scouts/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "Kinloch Anderson Rowanberry"
   url: "/tartans/k/ki/kinloch-anderson-rowanberry/"
 - name: "Kinloch Anderson Rowanberry"
-  url: "/setts/y7rii42dr4r12rii6r12ri28dr4ri8dr8ri8dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y7rii42dr4r12rii6r12ri28dr4ri8dr8ri8dr4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kinloch-anderson-rowanberry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRRRRBRG](/stripes/brbrbrrrrbrg/).
 
 Part of the [Kinloch Anderson Rowanberry](/tartans/k/ki/kinloch-anderson-rowanberry/) tartan — the named design grouping this sett with its other cloths.

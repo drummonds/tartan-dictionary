@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/o16dr21r32w16~x2~o1404029-dr1304000/">Bloomer-Alexander (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/o16dr21r32w16~x2~o1404029-dr1304000/"><img src="/variants/s4/o16dr21r32w16~x2~o1404029-dr1304000/sett.png" alt="Bloomer-Alexander (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/bloomer-alexander/">Bloomer-Alexander</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/bloomer-alexander/"><img src="/variants/s4/o16dr21r32w16~x2~o1404029-dr1304000/sett.png" alt="Bloomer-Alexander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

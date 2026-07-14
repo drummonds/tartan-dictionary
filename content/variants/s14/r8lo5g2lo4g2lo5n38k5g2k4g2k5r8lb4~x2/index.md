@@ -12,10 +12,10 @@ crumbs:
 - name: "Berwick"
   url: "/tartans/b/be/berwick-2/"
 - name: "Berwick District Tartan"
-  url: "/setts/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/berwick-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYGYGYBKGKGKRW](/stripes/rygygybkgkgkrw/).
 
 Part of the [Berwick](/tartans/b/be/berwick-2/) tartan — the named design grouping this sett with its other cloths.

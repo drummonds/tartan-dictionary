@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/">Crieff Hydro Hotel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/"><img src="/variants/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/sett.png" alt="Crieff Hydro Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crieff-hydro-hotel/">Crieff Hydro Hotel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crieff-hydro-hotel/"><img src="/variants/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/sett.png" alt="Crieff Hydro Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

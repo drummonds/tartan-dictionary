@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/o36lbi1lb6lbi1db8r4k4r24k4o8lbi1lb6lbi1lo18o6k4o6lo18lbi1lb6lbi1lo8k4o24k4o4db8lbi4~x2~lbi3200000-lb3103284/">Kinross #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/o36lbi1lb6lbi1db8r4k4r24k4o8lbi1lb6lbi1lo18o6k4o6lo18lbi1lb6lbi1lo8k4o24k4o4db8lbi4~x2~lbi3200000-lb3103284/"><img src="/variants/s28/o36lbi1lb6lbi1db8r4k4r24k4o8lbi1lb6lbi1lo18o6k4o6lo18lbi1lb6lbi1lo8k4o24k4o4db8lbi4~x2~lbi3200000-lb3103284/sett.png" alt="Kinross #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinross/">Kinross</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinross/"><img src="/variants/s28/o36lbi1lb6lbi1db8r4k4r24k4o8lbi1lb6lbi1lo18o6k4o6lo18lbi1lb6lbi1lo8k4o24k4o4db8lbi4~x2~lbi3200000-lb3103284/sett.png" alt="Kinross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

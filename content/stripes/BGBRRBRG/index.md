@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/">Fiddes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/"><img src="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/sett.png" alt="Fiddes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fiddes-6/">Fiddes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fiddes-6/"><img src="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/sett.png" alt="Fiddes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

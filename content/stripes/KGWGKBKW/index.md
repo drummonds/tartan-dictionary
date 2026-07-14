@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k3g3lb2g11k12db18k2lb3~x2/">Louisiana</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k3g3lb2g11k12db18k2lb3~x2/"><img src="/variants/s8/k3g3lb2g11k12db18k2lb3~x2/sett.png" alt="Louisiana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/louisiana/">Louisiana</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/louisiana/"><img src="/variants/s8/k3g3lb2g11k12db18k2lb3~x2/sett.png" alt="Louisiana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

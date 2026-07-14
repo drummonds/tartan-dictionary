@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k12g8y1dg13lb1db31k8~x2/">Chesters, Eric (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k12g8y1dg13lb1db31k8~x2/"><img src="/variants/s7/k12g8y1dg13lb1db31k8~x2/sett.png" alt="Chesters, Eric (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chesters-eric/">Chesters, Eric</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chesters-eric/"><img src="/variants/s7/k12g8y1dg13lb1db31k8~x2/sett.png" alt="Chesters, Eric sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

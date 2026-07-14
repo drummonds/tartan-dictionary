@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dp10db10g10w1dy1~x6/">Edelstein (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp10db10g10w1dy1~x6/"><img src="/variants/s5/dp10db10g10w1dy1~x6/sett.png" alt="Edelstein (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edelstein/">Edelstein</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edelstein/"><img src="/variants/s5/dp10db10g10w1dy1~x6/sett.png" alt="Edelstein sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Cavalry, 7th.."
   url: "/tartans/c/ca/cavalry-7th/"
 - name: "Cavalry, 7th.."
-  url: "/setts/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cavalry-7th/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGGWGGWRWBBGBBWR](/stripes/bwggwggwrwbbgbbwr/).
 
 Part of the [Cavalry, 7th..](/tartans/c/ca/cavalry-7th/) tartan — the named design grouping this sett with its other cloths.

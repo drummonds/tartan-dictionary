@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db16b4db3r1~x2/">Elliott</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db16b4db3r1~x2/"><img src="/variants/s4/db16b4db3r1~x2/sett.png" alt="Elliott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/db3b30db40r3~x2/">Sanix Large Muted</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db3b30db40r3~x2/"><img src="/variants/s4/db3b30db40r3~x2/sett.png" alt="Sanix Large Muted sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elliott-2/">Elliott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elliott-2/"><img src="/variants/s4/db16b4db3r1~x2/sett.png" alt="Elliott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sanix-large/">Sanix Large</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sanix-large/"><img src="/variants/s4/db3b30db40r3~x2/sett.png" alt="Sanix Large sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/db16dr4db3r1/">Elliot</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db16dr4db3r1/"><img src="/variants/s4/db16dr4db3r1~x2/sett.png" alt="Elliot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elliot-2/">Elliot</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elliot-2/"><img src="/variants/s4/db16dr4db3r1~x2/sett.png" alt="Elliot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

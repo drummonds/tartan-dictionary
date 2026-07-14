@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/">Big Rory (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/"><img src="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/sett.png" alt="Big Rory (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bi/big-rory/">Big Rory</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/big-rory/"><img src="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/sett.png" alt="Big Rory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

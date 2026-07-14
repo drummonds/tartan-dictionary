@@ -8,10 +8,10 @@ crumbs:
 - name: "Oakley"
   url: "/tartans/o/oa/oakley/"
 - name: "Oakley (2015)"
-  url: "/setts/g37k22w4r15y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g37k22w4r15y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/oa/oakley/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWRG](/stripes/gkwrg/).
 
 Part of the [Oakley](/tartans/o/oa/oakley/) tartan — the named design grouping this sett with its other cloths.

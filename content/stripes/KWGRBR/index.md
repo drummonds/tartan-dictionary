@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r40t8r6g24lb1k4~x2/">MacPhail (Blue Bands)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r40t8r6g24lb1k4~x2/"><img src="/variants/s6/r40t8r6g24lb1k4~x2/sett.png" alt="MacPhail (Blue Bands) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r25db7r3g13lb1k2~x4/">MacPhail Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><img src="/variants/s6/r25db7r3g13lb1k2~x4/sett.png" alt="MacPhail Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macphail/">MacPhail</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macphail/"><img src="/variants/s6/r40t8r6g24lb1k4~x2/sett.png" alt="MacPhail sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

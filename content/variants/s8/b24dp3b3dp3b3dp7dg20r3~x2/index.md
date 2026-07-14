@@ -12,10 +12,10 @@ crumbs:
 - name: "Crantock"
   url: "/tartans/c/cr/crantock-2/"
 - name: "Crantock"
-  url: "/setts/b24dp3b3dp3b3dp7dg20r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b24dp3b3dp3b3dp7dg20r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crantock-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGR](/stripes/bbbbbbgr/).
 
 Part of the [Crantock](/tartans/c/cr/crantock-2/) tartan — the named design grouping this sett with its other cloths.

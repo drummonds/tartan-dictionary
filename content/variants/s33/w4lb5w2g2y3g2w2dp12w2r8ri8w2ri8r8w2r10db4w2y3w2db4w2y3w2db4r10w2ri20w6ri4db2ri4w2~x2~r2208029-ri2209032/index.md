@@ -10,10 +10,10 @@ crumbs:
 - name: "Culloden House Bed Hangings"
   url: "/tartans/c/cu/culloden-house-bed-hangings/"
 - name: "Culloden House Bed Hangings"
-  url: "/setts/w4lb5w2g2y3g2w2dp12w2r8ri8w2ri8r8w2r10db4w2y3w2db4w2y3w2db4r10w2ri20w6ri4db2ri4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4lb5w2g2y3g2w2dp12w2r8ri8w2ri8r8w2r10db4w2y3w2db4w2y3w2db4r10w2ri20w6ri4db2ri4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/culloden-house-bed-hangings/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBRWRWRBWGWBWGWBRWRRWRRWBWGGGWWW](/stripes/wrbrwrwrbwgwbwgwbrwrrwrrwbwgggwww/).
 
 Part of the [Culloden House Bed Hangings](/tartans/c/cu/culloden-house-bed-hangings/) tartan — the named design grouping this sett with its other cloths.

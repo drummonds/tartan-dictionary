@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/">Largs Dress (1972)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/"><img src="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/sett.png" alt="Largs Dress (1972) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/largs-dress/">Largs Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/largs-dress/"><img src="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/sett.png" alt="Largs Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

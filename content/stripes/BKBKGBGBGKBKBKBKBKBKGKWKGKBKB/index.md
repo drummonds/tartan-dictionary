@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1k8g8db1y2db1g8k8db8k1db1/">Campbell Argyll</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1k8g8db1y2db1g8k8db8k1db1/"><img src="/variants/s29/db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1k8g8db1y2db1g8k8db8k1db1/sett.png" alt="Campbell Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-argyll/">Campbell Argyll</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-argyll/"><img src="/variants/s29/db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1k8g8db1y2db1g8k8db8k1db1/sett.png" alt="Campbell Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

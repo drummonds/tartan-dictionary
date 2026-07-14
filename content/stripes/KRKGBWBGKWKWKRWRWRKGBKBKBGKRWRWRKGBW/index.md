@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/">Ogilvy or Drummond of Strathallen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/"><img src="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/sett.png" alt="Ogilvy or Drummond of Strathallen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/og/ogilvy-or-drummond-of-strathallen/">Ogilvy or Drummond of Strathallen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvy-or-drummond-of-strathallen/"><img src="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/sett.png" alt="Ogilvy or Drummond of Strathallen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

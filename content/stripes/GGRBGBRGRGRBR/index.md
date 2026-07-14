@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/">Sarna</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/"><img src="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/sett.png" alt="Sarna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sarna-2/">Sarna</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sarna-2/"><img src="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/sett.png" alt="Sarna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

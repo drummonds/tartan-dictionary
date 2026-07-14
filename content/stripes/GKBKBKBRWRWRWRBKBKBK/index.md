@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2~x2/">Dryburgh Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2~x2/"><img src="/variants/s20/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2~x2/sett.png" alt="Dryburgh Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/dryburgh/">Dryburgh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/dryburgh/"><img src="/variants/s20/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2~x2/sett.png" alt="Dryburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

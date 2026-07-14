@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w8g15k15g5k2g6k40db20r6/">Luker (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w8g15k15g5k2g6k40db20r6/"><img src="/variants/s9/w8g15k15g5k2g6k40db20r6/sett.png" alt="Luker (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w4g30k1g1k1g3k12db10r3/">MacDonnald of ye Ylis</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w4g30k1g1k1g3k12db10r3/"><img src="/variants/s9/w4g30k1g1k1g3k12db10r3/sett.png" alt="MacDonnald of ye Ylis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lu/luker/">Luker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/luker/"><img src="/variants/s9/w8g15k15g5k2g6k40db20r6/sett.png" alt="Luker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonnald-of-ye-ylis/">MacDonnald of ye Ylis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonnald-of-ye-ylis/"><img src="/variants/s9/w4g30k1g1k1g3k12db10r3/sett.png" alt="MacDonnald of ye Ylis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Lee"
   url: "/tartans/l/le/lee/"
 - name: "Lee (Personal)"
-  url: "/setts/g2k1g12dr4g3db9lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2k1g12dr4g3db9lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/lee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBGBW](/stripes/gkgbgbw/).
 
 Part of the [Lee](/tartans/l/le/lee/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2080](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1995 — Lee (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2080">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>From Phil Smith in 1995. Can be worn by all of the name (Phil Smith May 2009).</em></li>
-<li>1995 — Lee (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5407">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>From Phil Smith in 1995. Can be worn by all of the name (Phil Smith May 2009).</em></li>
+<li>1995 — Lee (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5407/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>From Phil Smith in 1995. Can be worn by all of the name (Phil Smith May 2009).</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/">Canmore</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/"><img src="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/sett.png" alt="Canmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canmore/">Canmore</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canmore/"><img src="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/sett.png" alt="Canmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/">Robert Wiseman Dairies, Golden Jubilee</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/"><img src="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/sett.png" alt="Robert Wiseman Dairies, Golden Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robert-wiseman-dairies-golden-jubilee/">Robert Wiseman Dairies, Golden Jubilee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robert-wiseman-dairies-golden-jubilee/"><img src="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/sett.png" alt="Robert Wiseman Dairies, Golden Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

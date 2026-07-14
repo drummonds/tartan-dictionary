@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dp15o15g15dg15k8w5~x2/">Williams, Edmund (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dp15o15g15dg15k8w5~x2/"><img src="/variants/s6/dp15o15g15dg15k8w5~x2/sett.png" alt="Williams, Edmund (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/williams-edmund/">Williams, Edmund</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/williams-edmund/"><img src="/variants/s6/dp15o15g15dg15k8w5~x2/sett.png" alt="Williams, Edmund sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

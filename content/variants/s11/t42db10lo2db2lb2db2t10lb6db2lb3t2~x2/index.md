@@ -8,10 +8,10 @@ crumbs:
 - name: "Goil Dress"
   url: "/tartans/g/go/goil-dress/"
 - name: "Goil Dress"
-  url: "/setts/t42db10lo2db2lb2db2t10lb6db2lb3t2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t42db10lo2db2lb2db2t10lb6db2lb3t2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/goil-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBWBBWBWB](/stripes/bbybwbbwbwb/).
 
 Part of the [Goil Dress](/tartans/g/go/goil-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1443](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — Goil Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1443">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#688CA4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #688CA4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1984 — Goil Dress (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5050">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#688CA4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #688CA4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Sample in STA's Johnston Collection.</em></li>
+<li>pre 1984 — Goil Dress (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5050/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#688CA4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #688CA4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

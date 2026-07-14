@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g3lr2g3dr1g6dr3g3dr1g3lr2~x4/">Dundee Green</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g3lr2g3dr1g6dr3g3dr1g3lr2~x4/"><img src="/variants/s10/g3lr2g3dr1g6dr3g3dr1g3lr2~x4/sett.png" alt="Dundee Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/g3lr2g3dr1g6dr3g3dr1g2lr3~x4/">Dundee, Green (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g3lr2g3dr1g6dr3g3dr1g2lr3~x4/"><img src="/variants/s10/g3lr2g3dr1g6dr3g3dr1g2lr3~x4/sett.png" alt="Dundee, Green (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dundee-3/">Dundee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dundee-3/"><img src="/variants/s10/g3lr2g3dr1g6dr3g3dr1g3lr2~x4/sett.png" alt="Dundee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

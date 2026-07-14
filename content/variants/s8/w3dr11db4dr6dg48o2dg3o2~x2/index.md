@@ -10,10 +10,10 @@ crumbs:
 - name: "Hall, from Springbrook and Newtown"
   url: "/tartans/h/ha/hall-from-springbrook-and-newtown/"
 - name: "Hall, from Springbrook and Newtown (Personal)"
-  url: "/setts/w3dr11db4dr6dg48o2dg3o2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3dr11db4dr6dg48o2dg3o2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hall-from-springbrook-and-newtown/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGBBBW](/stripes/rgrgbbbw/).
 
 Part of the [Hall, from Springbrook and Newtown](/tartans/h/ha/hall-from-springbrook-and-newtown/) tartan — the named design grouping this sett with its other cloths.

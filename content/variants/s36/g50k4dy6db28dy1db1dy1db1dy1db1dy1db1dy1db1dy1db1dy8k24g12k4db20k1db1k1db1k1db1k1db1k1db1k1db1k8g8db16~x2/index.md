@@ -12,10 +12,10 @@ crumbs:
 - name: "Alberta"
   url: "/tartans/a/al/alberta/"
 - name: "Alberta"
-  url: "/setts/g50k4dy6db28dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g50k4dy6db28dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/alberta/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKG](/stripes/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkg/).
 
 Part of the [Alberta](/tartans/a/al/alberta/) tartan — the named design grouping this sett with its other cloths.

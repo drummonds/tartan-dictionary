@@ -8,10 +8,10 @@ crumbs:
 - name: "Geddes"
   url: "/tartans/g/ge/geddes/"
 - name: "Geddes"
-  url: "/setts/dp1r5g15r3dp9r10w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp1r5g15r3dp9r10w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ge/geddes/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRW](/stripes/brgrbrw/).
 
 Part of the [Geddes](/tartans/g/ge/geddes/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1325](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1840 — Geddes (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1325">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Earliest known date is 1840. This is MacKintosh with a white stripe cantered on red ground. Wilson sett - see MacIntosh/ Geddes. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>1840 — Geddes (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4969">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Earliest known date 1840. This is MacKintosh with a white stripe centered on red ground. Wilson sett - see MacIntosh/ Geddes. Sample in STA's Johnston Collection.</em></li>
+<li>1840 — Geddes (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4969/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Earliest known date 1840. This is MacKintosh with a white stripe centered on red ground. Wilson sett - see MacIntosh/ Geddes. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

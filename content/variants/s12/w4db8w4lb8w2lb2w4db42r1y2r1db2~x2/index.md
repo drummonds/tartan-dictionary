@@ -12,10 +12,10 @@ crumbs:
 - name: "StammBar"
   url: "/tartans/s/st/stammbar/"
 - name: "StammBar"
-  url: "/setts/w4db8w4lb8w2lb2w4db42r1y2r1db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db8w4lb8w2lb2w4db42r1y2r1db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stammbar/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBWWWWWBW](/stripes/brgrbwwwwwbw/).
 
 Part of the [StammBar](/tartans/s/st/stammbar/) tartan — the named design grouping this sett with its other cloths.

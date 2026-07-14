@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/">Modowny</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><img src="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/sett.png" alt="Modowny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/modowny/">Modowny</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/modowny/"><img src="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/sett.png" alt="Modowny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

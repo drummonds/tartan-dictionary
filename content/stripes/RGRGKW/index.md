@@ -28,16 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r36g18r4g6k1w2/">MacGregor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r36g18r4g6k1w2/"><img src="/variants/s6/r36g18r4g6k1w2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r41g19r7g8k1w3~x2/">MacGregor #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r41g19r7g8k1w3~x2/"><img src="/variants/s6/r41g19r7g8k1w3~x2/sett.png" alt="MacGregor #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r57dg21r8dg8k1w3~x2/">MacGregor - 1800 (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><img src="/variants/s6/r57dg21r8dg8k1w3~x2/sett.png" alt="MacGregor - 1800 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r96g42r16g17k4lb6/">MacGregor Hunting Glengyle Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r96g42r16g17k4lb6/"><img src="/variants/s6/r96g42r16g17k4lb6/sett.png" alt="MacGregor Hunting Glengyle Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r18g9r2g3k1w1~x4/">MacGregor of Cardney</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r18g9r2g3k1w1~x4/"><img src="/variants/s6/r18g9r2g3k1w1~x4/sett.png" alt="MacGregor of Cardney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-2/">MacGregor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-2/"><img src="/variants/s6/r36g18r4g6k1w2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-hunting-glengyle/">MacGregor Hunting Glengyle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-hunting-glengyle/"><img src="/variants/s6/r96g42r16g17k4lb6/sett.png" alt="MacGregor Hunting Glengyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-of-cardney/">MacGregor of Cardney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-of-cardney/"><img src="/variants/s6/r18g9r2g3k1w1~x4/sett.png" alt="MacGregor of Cardney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

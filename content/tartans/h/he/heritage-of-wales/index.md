@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r10db4r6db30k10db5w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbrbkbw/">RBRBKBW</a></nav>
 Its design is pattern [RBRBKBW](/stripes/rbrbkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Heritage of Wales** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Heritage of Wales** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r10db4r6db30k10db5w2/">Heritage of Wales</a></td><td><code>R/20 DB8 R12 DB60 K20 DB10 W/4</code></td><td>244</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r10db4r6db30k10db5w2/"><img src="/variants/s7/r10db4r6db30k10db5w2~x2/sett.png" alt="Heritage of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r10db4r6db30k10db5w2~x2/">Heritage of Wales</a></td><td><code>R/20 DB8 R12 DB60 K20 DB10 W/4</code></td><td>244</td><td>~2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><img src="/variants/s7/r10db4r6db30k10db5w2~x2/sett.png" alt="Heritage of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="256.3" cy="129.9" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x4/"><circle cx="356.8" cy="197.9" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><circle cx="207.7" cy="166.1" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="265.8" cy="110.6" r="4" fill="#3465a4"><title>Jack Sinclair</title></circle></a><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="327.5" cy="165.7" r="4" fill="#3465a4"><title>Lothian Buses</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="240.9" cy="137.5" r="4" fill="#3465a4"><title>DeCloud-McMasters</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="205.5" cy="201.3" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s6/db25r8db3r4k1w3~x2/"><circle cx="362.9" cy="119.5" r="4" fill="#3465a4"><title>Clan Gregor</title></circle></a><a href="/variants/s7/k15n3w10n7dp40w3dp6~x2/"><circle cx="260.8" cy="147.4" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="355.1" cy="142.2" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="300.6" cy="153.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="257.0" cy="129.8" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x4/"><circle cx="357.6" cy="198.0" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><circle cx="208.4" cy="165.9" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="266.7" cy="110.5" r="4" fill="#3465a4"><title>Jack Sinclair</title></circle></a><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="328.3" cy="165.7" r="4" fill="#3465a4"><title>Lothian Buses</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="241.7" cy="137.4" r="4" fill="#3465a4"><title>DeCloud-McMasters</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="206.1" cy="201.2" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s6/db25r8db3r4k1w3~x2/"><circle cx="364.0" cy="119.6" r="4" fill="#3465a4"><title>Clan Gregor</title></circle></a><a href="/variants/s7/k15n3w10n7dp40w3dp6~x2/"><circle cx="261.6" cy="147.3" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="356.1" cy="142.3" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="301.5" cy="153.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

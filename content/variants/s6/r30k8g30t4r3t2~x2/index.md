@@ -8,10 +8,10 @@ crumbs:
 - name: "Plummer"
   url: "/tartans/p/pl/plummer/"
 - name: "Plummer Family Personal Tartan"
-  url: "/setts/r30k8g30t4r3t2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r30k8g30t4r3t2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pl/plummer/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGKR](/stripes/brbgkr/).
 
 Part of the [Plummer](/tartans/p/pl/plummer/) tartan — the named design grouping this sett with its other cloths.

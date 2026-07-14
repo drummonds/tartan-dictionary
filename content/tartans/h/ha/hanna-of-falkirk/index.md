@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/hanna/"
 - name: "Hanna of Falkirk"
   url: "/families/hanna-of-falkirk/"
+aliases:
+- "/setts/k9r4k2r4k2r30k9r4k14lo2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krkrkrkrky/">KRKRKRKRKY</a></nav>
 A tartan of the [Hanna of Falkirk](/families/hanna-of-falkirk/) family.
 Its design is pattern [KRKRKRKRKY](/stripes/krkrkrkrky/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Hanna of Falkirk** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k9r4k2r4k2r30k9r4k14lo2/">Hanna of Falkirk</a></td><td><code>K/18 R8 K4 R8 K4 R60 K18 R8 K28 LO/4</code></td><td>298</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k9r4k2r4k2r30k9r4k14lo2/"><img src="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/sett.png" alt="Hanna of Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/">Hanna of Falkirk</a></td><td><code>K/18 R8 K4 R8 K4 R60 K18 R8 K28 LO/4</code></td><td>298</td><td>1980</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><img src="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/sett.png" alt="Hanna of Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k8r1k1r1k1r10k10r1k1~x4/"><circle cx="348.4" cy="148.0" r="4" fill="#3465a4"><title>Murray of Ochtertyre</title></circle></a><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><circle cx="234.0" cy="133.6" r="4" fill="#3465a4"><title>Canterbury</title></circle></a><a href="/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="295.4" cy="77.1" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="233.0" cy="119.8" r="4" fill="#3465a4"><title>Hannay Dress</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/"><circle cx="286.0" cy="106.9" r="4" fill="#3465a4"><title>Walkers Shortbread</title></circle></a><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="303.0" cy="109.3" r="4" fill="#3465a4"><title>Hebridean 8</title></circle></a><a href="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/"><circle cx="256.5" cy="159.6" r="4" fill="#3465a4"><title>Pink MacLeod</title></circle></a><a href="/variants/s9/k4m4k19m9k9m19k2m2w3~x2/"><circle cx="249.1" cy="160.8" r="4" fill="#3465a4"><title>McLeod-Bain</title></circle></a><a href="/variants/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="311.5" cy="189.6" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="372.2" cy="142.5" r="4" fill="#3465a4"><title>Murray of Ochtertyre</title></circle></a><circle cx="296.0" cy="123.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k8r1k1r1k1r10k10r1k1~x4/"><circle cx="349.6" cy="148.2" r="4" fill="#3465a4"><title>Murray of Ochtertyre</title></circle></a><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><circle cx="234.9" cy="133.5" r="4" fill="#3465a4"><title>Canterbury</title></circle></a><a href="/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="296.5" cy="77.0" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="233.7" cy="119.7" r="4" fill="#3465a4"><title>Hannay Dress</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/"><circle cx="287.0" cy="106.9" r="4" fill="#3465a4"><title>Walkers Shortbread</title></circle></a><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="304.1" cy="109.4" r="4" fill="#3465a4"><title>Hebridean 8</title></circle></a><a href="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/"><circle cx="257.4" cy="159.6" r="4" fill="#3465a4"><title>Pink MacLeod</title></circle></a><a href="/variants/s9/k4m4k19m9k9m19k2m2w3~x2/"><circle cx="249.9" cy="160.8" r="4" fill="#3465a4"><title>McLeod-Bain</title></circle></a><a href="/variants/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="312.5" cy="189.7" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="373.4" cy="142.8" r="4" fill="#3465a4"><title>Murray of Ochtertyre</title></circle></a><circle cx="297.0" cy="123.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k75lb6k5lb18k2lb2k3~x2/">Bargain Booze</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k75lb6k5lb18k2lb2k3~x2/"><img src="/variants/s7/k75lb6k5lb18k2lb2k3~x2/sett.png" alt="Bargain Booze sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bargain-booze/">Bargain Booze</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bargain-booze/"><img src="/variants/s7/k75lb6k5lb18k2lb2k3~x2/sett.png" alt="Bargain Booze sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

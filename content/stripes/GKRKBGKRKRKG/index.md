@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/">Integrated Landscape Management (ILM)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/"><img src="/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/sett.png" alt="Integrated Landscape Management (ILM) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/integrated-landscape-management/">Integrated Landscape Management</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/integrated-landscape-management/"><img src="/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/sett.png" alt="Integrated Landscape Management sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

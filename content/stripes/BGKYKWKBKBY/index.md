@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/">King George (Nash)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/"><img src="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/sett.png" alt="King George (Nash) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/king-george-3/">King George</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/king-george-3/"><img src="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/sett.png" alt="King George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

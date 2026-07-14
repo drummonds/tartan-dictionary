@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/loyalhanna/"
 - name: "Loyalhanna"
   url: "/families/loyalhanna/"
+aliases:
+- "/setts/db15w2g2k18db21k3g15/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwgkbkg/">BWGKBKG</a></nav>
 A tartan of the [Loyalhanna](/families/loyalhanna/) family.
 Its design is pattern [BWGKBKG](/stripes/bwgkbkg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Loyalhanna** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db15w2g2k18db21k3g15/">Loyalhanna</a></td><td><code>DB/30 W4 G4 K36 DB42 K6 G/30</code></td><td>244</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db15w2g2k18db21k3g15/"><img src="/variants/s7/db15w2g2k18db21k3g15~x2/sett.png" alt="Loyalhanna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db15w2g2k18db21k3g15~x2/">Loyalhanna</a></td><td><code>DB/30 W4 G4 K36 DB42 K6 G/30</code></td><td>244</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db15w2g2k18db21k3g15~x2/"><img src="/variants/s7/db15w2g2k18db21k3g15~x2/sett.png" alt="Loyalhanna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="148.4" cy="209.8" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="163.5" cy="210.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/g52lb7g9k35db35k7/"><circle cx="167.8" cy="215.5" r="4" fill="#3465a4"><title>Redland</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="225.7" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s7/db24k3db5k23y2k11g22~x2/"><circle cx="189.7" cy="190.7" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="142.2" cy="212.0" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/"><circle cx="201.3" cy="214.7" r="4" fill="#3465a4"><title>Allianz Deutschland 2012</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1y1~x4/"><circle cx="199.0" cy="164.0" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/db8g8db1g8k8db8y2~x2/"><circle cx="155.2" cy="241.1" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s6/r8t32k24db24k3t3~x2/"><circle cx="167.3" cy="202.4" r="4" fill="#3465a4"><title>MacCorquodale</title></circle></a><circle cx="210.2" cy="196.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="148.8" cy="209.7" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="163.9" cy="209.9" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/g52lb7g9k35db35k7/"><circle cx="168.1" cy="215.4" r="4" fill="#3465a4"><title>Redland</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.7" cy="225.6" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s7/db24k3db5k23y2k11g22~x2/"><circle cx="190.3" cy="190.7" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="142.6" cy="211.8" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/"><circle cx="201.7" cy="214.7" r="4" fill="#3465a4"><title>Allianz Deutschland 2012</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1y1~x4/"><circle cx="199.5" cy="163.8" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/db8g8db1g8k8db8y2~x2/"><circle cx="155.5" cy="241.0" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s6/r8t32k24db24k3t3~x2/"><circle cx="167.7" cy="202.3" r="4" fill="#3465a4"><title>MacCorquodale</title></circle></a><circle cx="210.8" cy="196.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

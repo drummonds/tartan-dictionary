@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/">European Judo Union</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><img src="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/sett.png" alt="European Judo Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/eu/european-judo-union/">European Judo Union</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eu/european-judo-union/"><img src="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/sett.png" alt="European Judo Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

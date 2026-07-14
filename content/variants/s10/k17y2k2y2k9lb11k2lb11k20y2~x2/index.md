@@ -8,10 +8,10 @@ crumbs:
 - name: "Coppa Romana"
   url: "/tartans/c/co/coppa-romana/"
 - name: "Coppa Romana (Switzerland)"
-  url: "/setts/k17y2k2y2k9lb11k2lb11k20y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k17y2k2y2k9lb11k2lb11k20y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/coppa-romana/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKWKGKGK](/stripes/gkwkwkgkgk/).
 
 Part of the [Coppa Romana](/tartans/c/co/coppa-romana/) tartan — the named design grouping this sett with its other cloths.

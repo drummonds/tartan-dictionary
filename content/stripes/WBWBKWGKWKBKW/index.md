@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb4t1w1t1k29lb3y1k4lb20k2db1k3lb3~x2/">Silverton (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb4t1w1t1k29lb3y1k4lb20k2db1k3lb3~x2/"><img src="/variants/s13/lb4t1w1t1k29lb3y1k4lb20k2db1k3lb3~x2/sett.png" alt="Silverton (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/lb4b1w1b1k29lb3y1k4lb20k2db1k3lb3~x2/">Silverton Family (Basingstoke)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb4b1w1b1k29lb3y1k4lb20k2db1k3lb3~x2/"><img src="/variants/s13/lb4b1w1b1k29lb3y1k4lb20k2db1k3lb3~x2/sett.png" alt="Silverton Family (Basingstoke) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/silverton/">Silverton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/silverton/"><img src="/variants/s13/lb4b1w1b1k29lb3y1k4lb20k2db1k3lb3~x2/sett.png" alt="Silverton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

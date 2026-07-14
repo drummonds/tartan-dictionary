@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/dunlop/"
 - name: "Dunlop"
   url: "/families/dunlop/"
+aliases:
+- "/setts/k3r1k30w1db28r1db1w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krkwbrbw/">KRKWBRBW</a></nav>
 A tartan of the [Dunlop](/families/dunlop/) family.
 Its design is pattern [KRKWBRBW](/stripes/krkwbrbw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Dunlop** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3r1k30w1db28r1db1w3/">Dunlop</a></td><td><code>K/6 R2 K60 W2 DB56 R2 DB2 W/6</code></td><td>260</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3r1k30w1db28r1db1w3/"><img src="/variants/s8/k3r1k30w1db28r1db1w3~x2/sett.png" alt="Dunlop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3r1k30w1db28r1db1w3~x2/">Dunlop</a></td><td><code>K/6 R2 K60 W2 DB56 R2 DB2 W/6</code></td><td>260</td><td>1982</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3r1k30w1db28r1db1w3~x2/"><img src="/variants/s8/k3r1k30w1db28r1db1w3~x2/sett.png" alt="Dunlop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4y1k18db18lb1db4~x4/"><circle cx="318.7" cy="163.0" r="4" fill="#3465a4"><title>Lyndon Prep</title></circle></a><a href="/variants/s10/r3w2r2db2r2db24k28r2k3y1~x2/"><circle cx="245.8" cy="73.4" r="4" fill="#3465a4"><title>Locky</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="341.3" cy="115.3" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen'</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="256.2" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="358.7" cy="144.0" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><circle cx="319.0" cy="134.9" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="282.1" cy="77.3" r="4" fill="#3465a4"><title>Hill</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="271.6" cy="130.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="306.8" cy="98.9" r="4" fill="#3465a4"><title>Weir</title></circle></a><a href="/variants/s6/db48k32r1k8r3w3~x2/"><circle cx="334.4" cy="104.1" r="4" fill="#3465a4"><title>Koot Wedding</title></circle></a><circle cx="301.4" cy="90.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4y1k18db18lb1db4~x4/"><circle cx="319.6" cy="163.1" r="4" fill="#3465a4"><title>Lyndon Prep</title></circle></a><a href="/variants/s10/r3w2r2db2r2db24k28r2k3y1~x2/"><circle cx="246.7" cy="73.3" r="4" fill="#3465a4"><title>Locky</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="342.3" cy="115.4" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen'</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="257.1" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="359.7" cy="144.2" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><circle cx="320.0" cy="135.0" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="283.1" cy="77.3" r="4" fill="#3465a4"><title>Hill</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="272.4" cy="130.2" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="307.7" cy="99.0" r="4" fill="#3465a4"><title>Weir</title></circle></a><a href="/variants/s6/db48k32r1k8r3w3~x2/"><circle cx="335.5" cy="104.2" r="4" fill="#3465a4"><title>Koot Wedding</title></circle></a><circle cx="302.5" cy="90.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

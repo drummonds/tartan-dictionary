@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/">Fletcher</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/"><img src="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/sett.png" alt="Fletcher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fl/fletcher-2/">Fletcher</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/fletcher-2/"><img src="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/sett.png" alt="Fletcher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

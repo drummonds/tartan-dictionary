@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/g10r3db12lb1r10g12r3db20r3db3lb1r3db20r3g12r12lb1db12r3g20r3db3~x2/">Cumming</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/g10r3db12lb1r10g12r3db20r3db3lb1r3db20r3g12r12lb1db12r3g20r3db3~x2/"><img src="/variants/s22/g10r3db12lb1r10g12r3db20r3db3lb1r3db20r3g12r12lb1db12r3g20r3db3~x2/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/">Cumming Glenorchy (Htg) Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/"><img src="/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/sett.png" alt="Cumming Glenorchy (Htg) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cumming/">Cumming</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cumming/"><img src="/variants/s22/g10r3db12lb1r10g12r3db20r3db3lb1r3db20r3g12r12lb1db12r3g20r3db3~x2/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cumming-glenorchy/">Cumming Glenorchy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cumming-glenorchy/"><img src="/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/sett.png" alt="Cumming Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

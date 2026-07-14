@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/k64lb38lo4lb38lo4lb38k64dr8k64lb38g4lb38g4lb38k65db8~lb3200000/">Kinnieson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/k64lb38lo4lb38lo4lb38k64dr8k64lb38g4lb38g4lb38k65db8~lb3200000/"><img src="/variants/s16/k64lb38lo4lb38lo4lb38k64dr8k64lb38g4lb38g4lb38k65db8~lb3200000/sett.png" alt="Kinnieson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinnieson/">Kinnieson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinnieson/"><img src="/variants/s16/k64lb38lo4lb38lo4lb38k64dr8k64lb38g4lb38g4lb38k65db8~lb3200000/sett.png" alt="Kinnieson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

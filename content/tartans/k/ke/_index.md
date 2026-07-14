@@ -5,11 +5,11 @@ date: 2023-03-18
 71 tartans beginning with Ke, each with the number of setts it groups. Back to [K](/tartans/k/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/k/ke/keela/"><img src="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/sett.png" alt="Keela" width="140"><br><strong>Keela (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/k/ke/keela/"><img src="/variants/s7/db7w3db2w6db16lb26dr4~x2/sett.png" alt="Keela" width="140"><br><strong>Keela (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ke/keeling/"><img src="/variants/s7/y17g7y6r43k5n6k13~x2/sett.png" alt="Keeling" width="140"><br><strong>Keeling (1)</strong></a><div class="clan-territory">Keeling</div></li>
 <li><a class="tartan" href="/tartans/k/ke/keeling-dress/"><img src="/variants/s7/y17w7y6g43k5n6k13~x2/sett.png" alt="Keeling Dress" width="140"><br><strong>Keeling Dress (1)</strong></a><div class="clan-territory">Keeling</div></li>
 <li><a class="tartan" href="/tartans/k/ke/keeper-of-the-quaich/"><img src="/variants/s6/do3db3do3db27do40dy3/sett.png" alt="Keeper of the Quaich" width="140"><br><strong>Keeper of the Quaich (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/k/ke/keepers-of-the-quaich/"><img src="/variants/s6/lo3dy33db24dy2db2dy2~x2~db1406275/sett.png" alt="Keepers of the Quaich" width="140"><br><strong>Keepers of the Quaich (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/k/ke/keepers-of-the-quaich/"><img src="/variants/s6/lo3dy33db24dy2db2dy2~x2/sett.png" alt="Keepers of the Quaich" width="140"><br><strong>Keepers of the Quaich (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ke/keilar/"><img src="/variants/s16/y15r3y3r1y35g5w2db2g35r1g3r3g15y5w2db2~x2/sett.png" alt="Keilar" width="140"><br><strong>Keilar (2)</strong></a><div class="clan-territory">Keilar</div></li>
 <li><a class="tartan" href="/tartans/k/ke/keirnan/"><img src="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/sett.png" alt="Keirnan" width="140"><br><strong>Keirnan (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ke/keith/"><img src="/variants/s8/g9t4k4t3k4t4g9k2~x4/sett.png" alt="Keith" width="140"><br><strong>Keith (1)</strong></a><div class="clan-territory">Keith</div></li>
@@ -20,11 +20,11 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/k/ke/kelley-oliphint/"><img src="/variants/s5/k3w2n27k31o3~x2/sett.png" alt="Kelley Oliphint" width="140"><br><strong>Kelley Oliphint (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ke/kellogg-college-university-of-oxford/"><img src="/variants/s4/r21db61y8w21~x2/sett.png" alt="Kellogg College University of Oxford" width="140"><br><strong>Kellogg College University of Oxford (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ke/kells-irish-pubs/"><img src="/variants/s12/k17n2k3g2k3g2k24db8g4db4g3db8~x2/sett.png" alt="Kells Irish Pubs" width="140"><br><strong>Kells Irish Pubs (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/k/ke/kelly-dress/"><img src="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2~g1903152/sett.png" alt="Kelly Dress" width="140"><br><strong>Kelly Dress (1)</strong></a><div class="clan-territory">Clan Kelly</div></li>
+<li><a class="tartan" href="/tartans/k/ke/kelly-dress/"><img src="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/sett.png" alt="Kelly Dress" width="140"><br><strong>Kelly Dress (1)</strong></a><div class="clan-territory">Clan Kelly</div></li>
 <li><a class="tartan" href="/tartans/k/ke/kelly-of-sleat/"><img src="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/sett.png" alt="Kelly of Sleat" width="140"><br><strong>Kelly of Sleat (2)</strong></a><div class="clan-territory">Kelly of Sleat</div></li>
 <li><a class="tartan" href="/tartans/k/ke/kelly-of-sleat-hunting/"><img src="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/sett.png" alt="Kelly of Sleat Hunting" width="140"><br><strong>Kelly of Sleat Hunting (1)</strong></a><div class="clan-territory">Kelly of Sleat</div></li>
 <li><a class="tartan" href="/tartans/k/ke/kelsey-william/"><img src="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/sett.png" alt="Kelsey, William" width="140"><br><strong>Kelsey, William (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/k/ke/kelso/"><img src="/variants/s12/lr12g3lr3dg4lr16g3lr3g3lr3g16dg52lr4~g1903114/sett.png" alt="Kelso" width="140"><br><strong>Kelso (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/k/ke/kelso/"><img src="/variants/s12/lr12g3lr3dg4lr16g3lr3g3lr3g16dg52lr4/sett.png" alt="Kelso" width="140"><br><strong>Kelso (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ke/kelvin/"><img src="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/sett.png" alt="Kelvin" width="140"><br><strong>Kelvin (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ke/kelvingrove/"><img src="/variants/s8/k16b1k1b1k1b9ly18b1~x4/sett.png" alt="Kelvingrove" width="140"><br><strong>Kelvingrove (1)</strong></a><div class="clan-territory">Kelvingrove</div></li>
 <li><a class="tartan" href="/tartans/k/ke/kelvingrove-2/"><img src="/variants/s8/k16t1k1t1k1t9g18t1~x4/sett.png" alt="Kelvingrove" width="140"><br><strong>Kelvingrove (1)</strong></a><div class="clan-territory">Kelvingrove</div></li>
@@ -34,7 +34,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/k/ke/kenmore-hunting/"><img src="/variants/s3/dr1g22lo1~x4/sett.png" alt="Kenmore Hunting" width="140"><br><strong>Kenmore Hunting (2)</strong></a><div class="clan-territory">Kenmore</div></li>
 <li><a class="tartan" href="/tartans/k/ke/kennedy/"><img src="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/sett.png" alt="Kennedy" width="140"><br><strong>Kennedy (1)</strong></a><div class="clan-territory">Kennedy</div></li>
 <li><a class="tartan" href="/tartans/k/ke/kennedy-2/"><img src="/variants/s17/k8w9y6w10dp5g6dp5w36db8k8db8k8db8k8db8g38r8/sett.png" alt="Kennedy" width="140"><br><strong>Kennedy (1)</strong></a><div class="clan-territory">Kennedy</div></li>
-<li><a class="tartan" href="/tartans/k/ke/kennedy-3/"><img src="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022/sett.png" alt="Kennedy" width="140"><br><strong>Kennedy (2)</strong></a><div class="clan-territory">Kennedy</div></li>
+<li><a class="tartan" href="/tartans/k/ke/kennedy-3/"><img src="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1807008-ri2108022/sett.png" alt="Kennedy" width="140"><br><strong>Kennedy (2)</strong></a><div class="clan-territory">Kennedy</div></li>
 <li><a class="tartan" href="/tartans/k/ke/kennedy-4/"><img src="/variants/s32/g24dp4k3dp3k3dp3k3dp4g12o2g2o2g3lo2g2k2g2lo2g3o2g2o2g12dp4k3dp3k3dp3k3dp4g24r3~x2~dp1502277/sett.png" alt="Kennedy" width="140"><br><strong>Kennedy (1)</strong></a><div class="clan-territory">Kennedy</div></li>
 <li><a class="tartan" href="/tartans/k/ke/kennedy-5/"><img src="/variants/s17/db2g2y1g3r1g2r1g13db4k3db3k3db3k3db4g23r2~x2/sett.png" alt="Kennedy" width="140"><br><strong>Kennedy (1)</strong></a><div class="clan-territory">Kennedy</div></li>
 <li><a class="tartan" href="/tartans/k/ke/kennedy-6/"><img src="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/sett.png" alt="Kennedy" width="140"><br><strong>Kennedy (1)</strong></a><div class="clan-territory">Kennedy</div></li>

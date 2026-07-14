@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/y4g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3~x2~dbi1406275-db1106275/">MacWatts (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/y4g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3~x2~dbi1406275-db1106275/"><img src="/variants/s16/y4g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3~x2~dbi1406275-db1106275/sett.png" alt="MacWatts (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macwatts-2/">MacWatts</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macwatts-2/"><img src="/variants/s16/y4g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3~x2~dbi1406275-db1106275/sett.png" alt="MacWatts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Austin"
   url: "/clan/austin/"
+aliases:
+- "/setts/r3y2r2y3r3y7r3k7r14y2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grkrgrgrgr/">GRKRGRGRGR</a></nav>
 A tartan of [Clan Austin](/clan/austin/).
 Its design is pattern [GRKRGRGRGR](/stripes/grkrgrgrgr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Austin College Page** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3y2r2y3r3y7r3k7r14y2/">Austin College Page</a></td><td><code>R/6 Y4 R4 Y6 R6 Y14 R6 K14 R28 Y/4</code></td><td>174</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3y2r2y3r3y7r3k7r14y2/"><img src="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/sett.png" alt="Austin College Page sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/">Austin College Page</a></td><td><code>R/6 Y4 R4 Y6 R6 Y14 R6 K14 R28 Y/4</code></td><td>174</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/"><img src="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/sett.png" alt="Austin College Page sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/"><circle cx="252.8" cy="179.4" r="4" fill="#3465a4"><title>Austin College</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5/"><circle cx="249.2" cy="173.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/"><circle cx="273.6" cy="162.3" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="241.4" cy="174.0" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="226.5" cy="166.5" r="4" fill="#3465a4"><title>Hebridean South Uist</title></circle></a><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="242.2" cy="161.2" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/"><circle cx="214.5" cy="163.3" r="4" fill="#3465a4"><title>Aubigny, Auld Alliance</title></circle></a><a href="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/"><circle cx="213.0" cy="175.3" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><circle cx="340.1" cy="171.6" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="232.8" cy="159.2" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><circle cx="270.1" cy="189.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/"><circle cx="253.5" cy="179.3" r="4" fill="#3465a4"><title>Austin College</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5/"><circle cx="249.9" cy="173.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/"><circle cx="274.3" cy="162.3" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="242.0" cy="173.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="227.1" cy="166.5" r="4" fill="#3465a4"><title>Hebridean South Uist</title></circle></a><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="243.0" cy="161.1" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/"><circle cx="215.0" cy="163.2" r="4" fill="#3465a4"><title>Aubigny, Auld Alliance</title></circle></a><a href="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/"><circle cx="213.6" cy="175.2" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><circle cx="341.0" cy="171.7" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="233.4" cy="159.2" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><circle cx="270.7" cy="189.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

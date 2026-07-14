@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db40t16k5b16w2dp6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbkbwb/">BBKBWB</a></nav>
 Its design is pattern [BBKBWB](/stripes/bbkbwb/) — the page of every tartan sharing this colour sequence.
 
 The **MacFarland-Collins** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **MacFarland-Collins** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db40t16k5b16w2dp6/">MacFarland-Collins</a></td><td><code>DB/80 T32 K10 B32 W4 DP/12</code></td><td>248</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db40t16k5b16w2dp6/"><img src="/variants/s6/db40t16k5b16w2dp6~x2/sett.png" alt="MacFarland-Collins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db40t16k5b16w2dp6~x2/">MacFarland-Collins</a></td><td><code>DB/80 T32 K10 B32 W4 DP/12</code></td><td>248</td><td>~2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db40t16k5b16w2dp6~x2/"><img src="/variants/s6/db40t16k5b16w2dp6~x2/sett.png" alt="MacFarland-Collins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="200.9" cy="156.0" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="243.8" cy="215.4" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="282.0" cy="217.3" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s6/t26k10db19dr6dy2dbi9~x2~db1404245-dbi1704245/"><circle cx="159.7" cy="206.4" r="4" fill="#3465a4"><title>Meeson Dress</title></circle></a><a href="/variants/s6/db40b16k5dt16w2dp6~x2/"><circle cx="267.3" cy="172.5" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="149.4" r="4" fill="#3465a4"><title>Shearer</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="258.8" cy="156.6" r="4" fill="#3465a4"><title>Margach, William</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="282.6" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="234.5" cy="105.6" r="4" fill="#3465a4"><title>U.S. Forces Thurso</title></circle></a><a href="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/"><circle cx="208.8" cy="125.9" r="4" fill="#3465a4"><title>U.S. 2001 Air Force</title></circle></a><circle cx="245.0" cy="163.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="201.5" cy="155.8" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="244.2" cy="215.3" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="282.3" cy="217.3" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s6/t26k10db19dr6dy2dbi9~x2~db1404245-dbi1704245/"><circle cx="159.8" cy="206.1" r="4" fill="#3465a4"><title>Meeson Dress</title></circle></a><a href="/variants/s6/db40b16k5dt16w2dp6~x2/"><circle cx="267.7" cy="172.4" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.9" cy="149.3" r="4" fill="#3465a4"><title>Shearer</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="259.5" cy="156.5" r="4" fill="#3465a4"><title>Margach, William</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="283.4" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="235.3" cy="105.5" r="4" fill="#3465a4"><title>U.S. Forces Thurso</title></circle></a><a href="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/"><circle cx="209.4" cy="125.7" r="4" fill="#3465a4"><title>U.S. 2001 Air Force</title></circle></a><circle cx="245.5" cy="163.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

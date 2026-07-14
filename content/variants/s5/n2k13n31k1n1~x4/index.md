@@ -8,10 +8,10 @@ crumbs:
 - name: "Silver Mist"
   url: "/tartans/s/si/silver-mist/"
 - name: "Silver Mist"
-  url: "/setts/n2k13n31k1n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n2k13n31k1n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/silver-mist/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKB](/stripes/bkbkb/).
 
 Part of the [Silver Mist](/tartans/s/si/silver-mist/) tartan — the named design grouping this sett with its other cloths.

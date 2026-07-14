@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k40db10g6k2g3k2~x2/">Daks (Chino Check)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k40db10g6k2g3k2~x2/"><img src="/variants/s6/k40db10g6k2g3k2~x2/sett.png" alt="Daks (Chino Check) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/">Daks (Chino Check) (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/"><img src="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/sett.png" alt="Daks (Chino Check) (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/daks-6/">Daks</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daks-6/"><img src="/variants/s6/k40db10g6k2g3k2~x2/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

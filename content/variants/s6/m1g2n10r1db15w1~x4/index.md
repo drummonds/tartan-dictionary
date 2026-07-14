@@ -8,10 +8,10 @@ crumbs:
 - name: "Oren Peterson"
   url: "/tartans/o/or/oren-peterson/"
 - name: "Oren Peterson"
-  url: "/setts/m1g2n10r1db15w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/m1g2n10r1db15w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/or/oren-peterson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBRBW](/stripes/rgbrbw/).
 
 Part of the [Oren Peterson](/tartans/o/or/oren-peterson/) tartan — the named design grouping this sett with its other cloths.

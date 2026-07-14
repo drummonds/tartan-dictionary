@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2~x2/">Esteba-Quer (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2~x2/"><img src="/variants/s14/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2~x2/sett.png" alt="Esteba-Quer (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/es/esteba-quer/">Esteba-Quer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/es/esteba-quer/"><img src="/variants/s14/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2~x2/sett.png" alt="Esteba-Quer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

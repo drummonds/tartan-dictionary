@@ -12,22 +12,22 @@ crumbs:
 - name: "Lindsay Dress"
   url: "/tartans/l/li/lindsay-dress/"
 - name: "Lindsay Dress, Green (Dance)"
-  url: "/setts/g33db4g4db4g4db12w33db3w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g33db4g4db4g4db12w33db3w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/lindsay-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBWBW](/stripes/gbgbgbwbw/).
 
 Part of the [Lindsay Dress](/tartans/l/li/lindsay-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=715](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=715)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/715/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/715/*)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1984 — Lindsay Dress, Green (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=715">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C6830;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #1C6830"></span><span style="display:inline-block;width:.85em;height:.85em;background:#405060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #405060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>D C Dalgliesh calls this Dress Blue Lindsay. Some counts give the green tramlines as blue. Some also use light grey in place of white.</em></li>
+<li>1984 — Lindsay Dress, Green (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/715/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C6830;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #1C6830"></span><span style="display:inline-block;width:.85em;height:.85em;background:#405060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #405060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>D C Dalgliesh calls this Dress Blue Lindsay. Some counts give the green tramlines as blue. Some also use light grey in place of white.</em></li>
 <li>undated — Lindsay Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2119">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005020;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005020"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C4084;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C4084"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Scottish Tartans Society archive.</em></li>
 <li>undated — Lindsay, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 </ul>
@@ -43,7 +43,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=715](htt
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

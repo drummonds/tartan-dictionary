@@ -8,10 +8,10 @@ crumbs:
 - name: "Offaly County, Crest Range"
   url: "/tartans/o/of/offaly-county-crest-range/"
 - name: "Offaly County, Crest Range"
-  url: "/setts/y24k8r4k6g76k8w14g4k9g12dy10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y24k8r4k6g76k8w14g4k9g12dy10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/of/offaly-county-crest-range/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGWKGKRKG](/stripes/ggkgwkgkrkg/).
 
 Part of the [Offaly County, Crest Range](/tartans/o/of/offaly-county-crest-range/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "MacPherson Red Cluny"
   url: "/tartans/m/ma/macpherson-red-cluny/"
 - name: "MacPherson Red Cluny"
-  url: "/setts/r6k3r29k23w4k7y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6k3r29k23w4k7y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macpherson-red-cluny/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKRKR](/stripes/gkwkrkr/).
 
 Part of the [MacPherson Red Cluny](/tartans/m/ma/macpherson-red-cluny/) tartan — the named design grouping this sett with its other cloths.

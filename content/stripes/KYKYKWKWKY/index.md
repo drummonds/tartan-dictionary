@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/">Coppa Romana (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/"><img src="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/sett.png" alt="Coppa Romana (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coppa-romana/">Coppa Romana</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coppa-romana/"><img src="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/sett.png" alt="Coppa Romana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

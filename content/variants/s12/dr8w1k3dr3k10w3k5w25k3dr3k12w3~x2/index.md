@@ -8,10 +8,10 @@ crumbs:
 - name: "Buildbase"
   url: "/tartans/b/bu/buildbase/"
 - name: "Buildbase"
-  url: "/setts/dr8w1k3dr3k10w3k5w25k3dr3k12w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr8w1k3dr3k10w3k5w25k3dr3k12w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/buildbase/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBKWKWKBKW](/stripes/bwkbkwkwkbkw/).
 
 Part of the [Buildbase](/tartans/b/bu/buildbase/) tartan — the named design grouping this sett with its other cloths.

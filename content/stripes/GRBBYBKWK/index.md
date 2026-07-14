@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g32r3do12t3ly3t3k48lb2k4/">Webster</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g32r3do12t3ly3t3k48lb2k4/"><img src="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2~lb3300000/sett.png" alt="Webster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/webster/">Webster</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/webster/"><img src="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2~lb3300000/sett.png" alt="Webster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

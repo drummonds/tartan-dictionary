@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r6lb3dp20y2k20w20k2w5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rwbgkwkw/">RWBGKWKW</a></nav>
 Its design is pattern [RWBGKWKW](/stripes/rwbgkwkw/) — the page of every tartan sharing this colour sequence.
 
 The **Humming Bird** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Humming Bird** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r6lb3dp20y2k20w20k2w5/">Humming Bird</a></td><td><code>R/12 LB6 DP40 Y4 K40 W40 K4 W/10</code></td><td>290</td><td>~1973</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6lb3dp20y2k20w20k2w5/"><img src="/variants/s8/r6lb3dp20y2k20w20k2w5~x2/sett.png" alt="Humming Bird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r6lb3dp20y2k20w20k2w5~x2/">Humming Bird</a></td><td><code>R/12 LB6 DP40 Y4 K40 W40 K4 W/10</code></td><td>290</td><td>~1973</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r6lb3dp20y2k20w20k2w5~x2/"><img src="/variants/s8/r6lb3dp20y2k20w20k2w5~x2/sett.png" alt="Humming Bird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r6lb3dp24y2k23w23k2w6~x2/"><circle cx="86.0" cy="137.2" r="4" fill="#3465a4"><title>Culloden Dress</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="56.6" cy="166.3" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s8/r4dy2lb15y2k14w14k2w4~x2/"><circle cx="58.1" cy="166.5" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s10/k2n10k5dg8k12r20lb16r4lb5w2~x2/"><circle cx="45.6" cy="156.1" r="4" fill="#3465a4"><title>Manderson</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="105.1" cy="134.1" r="4" fill="#3465a4"><title>Dean/Dundas</title></circle></a><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="108.8" cy="159.5" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/"><circle cx="55.1" cy="142.8" r="4" fill="#3465a4"><title>Hatcher</title></circle></a><a href="/variants/s7/w5k26ly4lb24dp8k3r4~x2/"><circle cx="103.5" cy="149.4" r="4" fill="#3465a4"><title>Pengelly, The Cornish</title></circle></a><a href="/variants/s7/y3r3lo2r20k16lb24w2~x2/"><circle cx="109.6" cy="138.3" r="4" fill="#3465a4"><title>Oor Wullie</title></circle></a><a href="/variants/s11/y2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="75.8" cy="140.9" r="4" fill="#3465a4"><title>Cameron Erracht Dress</title></circle></a><circle cx="73.8" cy="147.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r6lb3dp24y2k23w23k2w6~x2/"><circle cx="86.3" cy="136.7" r="4" fill="#3465a4"><title>Culloden Dress</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="56.8" cy="165.9" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s8/r4dy2lb15y2k14w14k2w4~x2/"><circle cx="58.2" cy="166.0" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s10/k2n10k5dg8k12r20lb16r4lb5w2~x2/"><circle cx="45.8" cy="155.6" r="4" fill="#3465a4"><title>Manderson</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="105.5" cy="133.7" r="4" fill="#3465a4"><title>Dean/Dundas</title></circle></a><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="109.2" cy="159.2" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/"><circle cx="55.3" cy="142.3" r="4" fill="#3465a4"><title>Hatcher</title></circle></a><a href="/variants/s7/w5k26ly4lb24dp8k3r4~x2/"><circle cx="103.8" cy="149.1" r="4" fill="#3465a4"><title>Pengelly, The Cornish</title></circle></a><a href="/variants/s7/y3r3lo2r20k16lb24w2~x2/"><circle cx="110.0" cy="137.9" r="4" fill="#3465a4"><title>Oor Wullie</title></circle></a><a href="/variants/s11/y2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="76.1" cy="140.5" r="4" fill="#3465a4"><title>Cameron Erracht Dress</title></circle></a><circle cx="74.0" cy="146.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

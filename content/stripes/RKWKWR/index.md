@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r1lb12k1w2k5r1~x4/">Rui (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><img src="/variants/s6/r1lb12k1w2k5r1~x4/sett.png" alt="Rui (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/rui/">Rui</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/rui/"><img src="/variants/s6/r1lb12k1w2k5r1~x4/sett.png" alt="Rui sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

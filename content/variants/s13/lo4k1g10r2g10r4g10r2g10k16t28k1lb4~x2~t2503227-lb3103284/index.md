@@ -8,10 +8,10 @@ crumbs:
 - name: "California State"
   url: "/tartans/c/ca/california-state/"
 - name: "California State American District Tartan"
-  url: "/setts/lo4k1g10r2g10r4g10r2g10k16t28k1lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo4k1g10r2g10r4g10r2g10k16t28k1lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/california-state/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKGRGRGRGKY](/stripes/wkbkgrgrgrgky/).
 
 Part of the [California State](/tartans/c/ca/california-state/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Scotts Valley"
   url: "/tartans/s/sc/scotts-valley/"
 - name: "Scotts Valley"
-  url: "/setts/dg20dr1ly1dr1w1dg1dr1w1b5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg20dr1ly1dr1w1dg1dr1w1b5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scotts-valley/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGWBYBG](/stripes/bwbgwbybg/).
 
 Part of the [Scotts Valley](/tartans/s/sc/scotts-valley/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3751](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Scotts Valley (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3751">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BDY #C89800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><br><em>No details known.</em></li>
-<li>pre 2002 — Scotts Valley (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5350">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BDY #C89800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><br><em>No details known.</em></li>
+<li>pre 2002 — Scotts Valley (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5350/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BDY #C89800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><br><em>No details known.</em></li>
 </ul>
 </details>
 

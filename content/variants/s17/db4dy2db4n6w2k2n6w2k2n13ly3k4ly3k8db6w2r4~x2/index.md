@@ -8,10 +8,10 @@ crumbs:
 - name: "Clauweart"
   url: "/tartans/c/cl/clauweart/"
 - name: "Clauweart"
-  url: "/setts/db4dy2db4n6w2k2n6w2k2n13ly3k4ly3k8db6w2r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4dy2db4n6w2k2n6w2k2n13ly3k4ly3k8db6w2r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clauweart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBWKBWKBYKYKBWR](/stripes/bgbbwkbwkbykykbwr/).
 
 Part of the [Clauweart](/tartans/c/cl/clauweart/) tartan — the named design grouping this sett with its other cloths.

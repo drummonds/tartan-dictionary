@@ -12,10 +12,10 @@ crumbs:
 - name: "Sonsub"
   url: "/tartans/s/so/sonsub/"
 - name: "Sonsub"
-  url: "/setts/n30k5n19k5n2lb20y2lb20k5y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n30k5n19k5n2lb20y2lb20k5y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/sonsub/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWGWKG](/stripes/bkbkbwgwkg/).
 
 Part of the [Sonsub](/tartans/s/so/sonsub/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3837](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2006 — Sonsub (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3837">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#646464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #646464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D0D40C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D0D40C"></span><br><em>Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Designed by Maxine Scott of House of Tartan. Sonsub Ltd is a provider of remote subsea systems technology to companies operating in the North Atlantic, Mediterranean, Africa, Caspian Sea and the Middle East.</em></li>
-<li>2006 — Sonsub (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6984">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#646464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #646464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D0D40C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D0D40C"></span><br><em>Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Designed by Maxine Scott of House of Tartan. Sonsub Ltd is a provider of remote subsea systems technology to companies operating in the North Atlantic, Mediterranean, Africa, Caspian Sea and the Middle East.</em></li>
+<li>2006 — Sonsub (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6984/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#646464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #646464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D0D40C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D0D40C"></span><br><em>Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Designed by Maxine Scott of House of Tartan. Sonsub Ltd is a provider of remote subsea systems technology to companies operating in the North Atlantic, Mediterranean, Africa, Caspian Sea and the Middle East.</em></li>
 </ul>
 </details>
 

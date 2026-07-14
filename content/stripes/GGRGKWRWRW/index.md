@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/">Lobban (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/"><img src="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/sett.png" alt="Lobban (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lobban-2/">Lobban</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lobban-2/"><img src="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/sett.png" alt="Lobban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

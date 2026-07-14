@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10y1lb2~x4/">Ontario Provincial Police</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10y1lb2~x4/"><img src="/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10y1lb2~x4/sett.png" alt="Ontario Provincial Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/on/ontario-provincial-police/">Ontario Provincial Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/on/ontario-provincial-police/"><img src="/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10y1lb2~x4/sett.png" alt="Ontario Provincial Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

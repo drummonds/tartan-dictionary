@@ -12,10 +12,10 @@ crumbs:
 - name: "Nicolson of Taransay Hunting"
   url: "/tartans/n/ni/nicolson-of-taransay-hunting/"
 - name: "Nicolson of Taransay Hunting (Personal)"
-  url: "/setts/r11db3dbi8w3y3g5k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r11db3dbi8w3y3g5k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ni/nicolson-of-taransay-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGWBBR](/stripes/kggwbbr/).
 
 Part of the [Nicolson of Taransay Hunting](/tartans/n/ni/nicolson-of-taransay-hunting/) tartan — the named design grouping this sett with its other cloths.

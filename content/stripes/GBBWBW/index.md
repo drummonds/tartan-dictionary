@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y2db66dr16w2dr1w1~x2/">Coogan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><img src="/variants/s6/y2db66dr16w2dr1w1~x2/sett.png" alt="Coogan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coogan/">Coogan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coogan/"><img src="/variants/s6/y2db66dr16w2dr1w1~x2/sett.png" alt="Coogan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/g6n16db49lb14db2w6~x2~n1702249-db1106275/">Gorman Family (Canada) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g6n16db49lb14db2w6~x2~n1702249-db1106275/"><img src="/variants/s6/g6n16db49lb14db2w6~x2~n1702249-db1106275/sett.png" alt="Gorman Family (Canada) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gorman-2/">Gorman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gorman-2/"><img src="/variants/s6/g6n16db49lb14db2w6~x2~n1702249-db1106275/sett.png" alt="Gorman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

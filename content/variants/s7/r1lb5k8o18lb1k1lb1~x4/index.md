@@ -8,10 +8,10 @@ crumbs:
 - name: "Merrick, Camel"
   url: "/tartans/m/me/merrick-camel/"
 - name: "Merrick, Camel"
-  url: "/setts/r1lb5k8o18lb1k1lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1lb5k8o18lb1k1lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/merrick-camel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKRWKW](/stripes/rwkrwkw/).
 
 Part of the [Merrick, Camel](/tartans/m/me/merrick-camel/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2937](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1985 — Merrick, Camel (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2937">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection. Scottish Tartans Society notes say source was Galleries Lafayette, Paris and they call this Merrick Dark Camel.</em></li>
-<li>1985 — Merrick, Camel (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1688">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Sample in STA Johnston Collection. STS notes say source was Galleries Lafayette, Paris and they call this Merrick Dark Camel.</em></li>
+<li>1985 — Merrick, Camel (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1688/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Sample in STA Johnston Collection. STS notes say source was Galleries Lafayette, Paris and they call this Merrick Dark Camel.</em></li>
 </ul>
 </details>
 

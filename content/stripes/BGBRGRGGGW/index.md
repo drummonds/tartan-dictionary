@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/">Cornell (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><img src="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/sett.png" alt="Cornell (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cornell/">Cornell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cornell/"><img src="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/sett.png" alt="Cornell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

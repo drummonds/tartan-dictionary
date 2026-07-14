@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/">Holland &amp; Sherry (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><img src="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/sett.png" alt="Holland &amp; Sherry (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holland-sherry/">Holland &amp; Sherry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holland-sherry/"><img src="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/sett.png" alt="Holland &amp; Sherry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

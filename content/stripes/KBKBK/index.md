@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k2dr4k7dr1k2~x2/">Romsdal Tresfjord</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k2dr4k7dr1k2~x2/"><img src="/variants/s5/k2dr4k7dr1k2~x2/sett.png" alt="Romsdal Tresfjord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/romsdal-tresfjord/">Romsdal Tresfjord</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/romsdal-tresfjord/"><img src="/variants/s5/k2dr4k7dr1k2~x2/sett.png" alt="Romsdal Tresfjord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k13n8k15dp2k8~x2/">Warwick (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k13n8k15dp2k8~x2/"><img src="/variants/s5/k13n8k15dp2k8~x2/sett.png" alt="Warwick (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/warwick/">Warwick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/warwick/"><img src="/variants/s5/k13n8k15dp2k8~x2/sett.png" alt="Warwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

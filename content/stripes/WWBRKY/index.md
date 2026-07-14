@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lbi3lb2db3r3k3ly1~x8~lbi3203246-lb3103284/">Becker (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lbi3lb2db3r3k3ly1~x8~lbi3203246-lb3103284/"><img src="/variants/s6/lbi3lb2db3r3k3ly1~x8~lbi3203246-lb3103284/sett.png" alt="Becker (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/becker/">Becker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/becker/"><img src="/variants/s6/lbi3lb2db3r3k3ly1~x8~lbi3203246-lb3103284/sett.png" alt="Becker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

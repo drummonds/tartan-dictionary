@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db3y3n15lb8w8db6n15lb6y3dg6r3~x2/">Saltcoats (Saskatchewan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db3y3n15lb8w8db6n15lb6y3dg6r3~x2/"><img src="/variants/s11/db3y3n15lb8w8db6n15lb6y3dg6r3~x2/sett.png" alt="Saltcoats (Saskatchewan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/db3y3n15lb8w7db6n15lb6y3dg6r3~x2/">Saltcoats (Saskatchewan) (District?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db3y3n15lb8w7db6n15lb6y3dg6r3~x2/"><img src="/variants/s11/db3y3n15lb8w7db6n15lb6y3dg6r3~x2/sett.png" alt="Saltcoats (Saskatchewan) (District?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/saltcoats/">Saltcoats</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/saltcoats/"><img src="/variants/s11/db3y3n15lb8w8db6n15lb6y3dg6r3~x2/sett.png" alt="Saltcoats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

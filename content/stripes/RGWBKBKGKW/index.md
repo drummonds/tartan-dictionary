@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/">Six Frigates (US)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/"><img src="/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/sett.png" alt="Six Frigates (US) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/six-frigates/">Six Frigates</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/six-frigates/"><img src="/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/sett.png" alt="Six Frigates sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

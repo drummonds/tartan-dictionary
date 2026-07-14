@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Jewish Community"
   url: "/tartans/s/sc/scottish-jewish-community/"
 - name: "Scottish Jewish Community"
-  url: "/setts/k14lb3k3w4k3lb3k14db4k4db30k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k14lb3k3w4k3lb3k14db4k4db30k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-jewish-community/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKWKWKWK](/stripes/kbkbkwkwkwk/).
 
 Part of the [Scottish Jewish Community](/tartans/s/sc/scottish-jewish-community/) tartan — the named design grouping this sett with its other cloths.

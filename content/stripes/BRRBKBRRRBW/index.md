@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r1506019-ri2806019/">Frater (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r1506019-ri2806019/"><img src="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r1506019-ri2806019/sett.png" alt="Frater (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/frater/">Frater</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/frater/"><img src="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r1506019-ri2806019/sett.png" alt="Frater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

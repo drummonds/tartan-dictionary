@@ -12,10 +12,10 @@ crumbs:
 - name: "Ball Hunting"
   url: "/tartans/b/ba/ball-hunting/"
 - name: "Ball Hunting"
-  url: "/setts/lo13g8k5lb3w2r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo13g8k5lb3w2r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/ball-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWWKGY](/stripes/rwwkgy/).
 
 Part of the [Ball Hunting](/tartans/b/ba/ball-hunting/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Longniddry"
   url: "/tartans/l/lo/longniddry-3/"
 - name: "Longniddry Blue (Dance)"
-  url: "/setts/dt42lb2lbi2lb2dt5db12lbi32dt4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt42lb2lbi2lb2dt5db12lbi32dt4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/longniddry-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBWWWB](/stripes/bwbbwwwb/).
 
 Part of the [Longniddry](/tartans/l/lo/longniddry-3/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2205](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Longniddry Blue (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2205">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>A Dancers' Fancy from D.C. Dalgliesh of Selkirk. This appears under three different names - Longniddry #5486, Eildon #4799 and Harmony Eildon #87 (original Scottish Tartans Authority references). Needs resolving.</em></li>
-<li>pre 2002 — Longniddry, Blue (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5486">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>A Dancers' Fancy from D.C. Dalgliesh of Selkirk. This appears under three different names - Longniddry (#5486), Eildon (#4799) and Harmony Eildon ('87). Needs resolving.</em></li>
+<li>pre 2002 — Longniddry, Blue (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5486/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>A Dancers' Fancy from D.C. Dalgliesh of Selkirk. This appears under three different names - Longniddry (#5486), Eildon (#4799) and Harmony Eildon ('87). Needs resolving.</em></li>
 </ul>
 </details>
 

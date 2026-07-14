@@ -10,15 +10,15 @@ crumbs:
 - name: "Reagan"
   url: "/families/reagan/"
 - name: "Reagan"
-  url: "/tartans/r/re/reagan/"
+  url: "/tartans/r/re/reagan-2/"
 - name: "Reagan"
-  url: "/setts/y2dt1t29r29dt1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2dt1t29r29dt1g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/reagan-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBRBG](/stripes/gbbrbg/).
 
-Part of the [Reagan](/tartans/r/re/reagan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Reagan](/tartans/r/re/reagan-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3471](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2005 — Reagan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3471">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09C34;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D09C34"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00546C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #00546C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#206898;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #206898"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DWR #800028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#589C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #589C5C"></span><br><em>For the Reagan family to proudly show their Irish heritage. Crimson from the livery colours of the Clan's first chief. Gold from the reagan traditional armorial achievements; blue/navy representing the dolphin charges of the Reagan arms and the ocean which surrounds our ancestral homeland. Green denoting our Irish heritage and the land of Ireland itself. Contact now (20056) Hon Douglas H Reagan Ph.D, Chief of the Clan O'Reagan of Ireland.</em></li>
-<li>2005 Jan — Reagan (Clan?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6427">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09C34;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D09C34"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00546C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #00546C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#206898;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #206898"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DWR #800028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#589C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #589C5C"></span><br><em>For the Reagan family to proudly show their Irish heritage. Crimson from the livery colours of the Clan's first chief. Gold from the Reagan traditional armorial achievements; blue/navy representing the dolphin charges of the Reagan arms and the ocean which surrounds our ancestral homeland. Green denoting our Irish heritage and the land of Ireland itself. Contact now (2005) Hon Douglas H Reagan Ph.D, Chief of the Clan O'Reagan of Ireland, dreagan@bellsouth.net.</em></li>
+<li>2005 Jan — Reagan (Clan?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6427/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09C34;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D09C34"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00546C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #00546C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#206898;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #206898"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DWR #800028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#589C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #589C5C"></span><br><em>For the Reagan family to proudly show their Irish heritage. Crimson from the livery colours of the Clan's first chief. Gold from the Reagan traditional armorial achievements; blue/navy representing the dolphin charges of the Reagan arms and the ocean which surrounds our ancestral homeland. Green denoting our Irish heritage and the land of Ireland itself. Contact now (2005) Hon Douglas H Reagan Ph.D, Chief of the Clan O'Reagan of Ireland, dreagan@bellsouth.net.</em></li>
 </ul>
 </details>
 

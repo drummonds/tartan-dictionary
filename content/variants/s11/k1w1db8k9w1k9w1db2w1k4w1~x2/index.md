@@ -12,10 +12,10 @@ crumbs:
 - name: "Clergy"
   url: "/tartans/c/cl/clergy-3/"
 - name: "Clergy (Mackinlay)"
-  url: "/setts/k1w1db8k9w1k9w1db2w1k4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1w1db8k9w1k9w1db2w1k4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clergy-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBKWKWBWKW](/stripes/kwbkwkwbwkw/).
 
 Part of the [Clergy](/tartans/c/cl/clergy-3/) tartan — the named design grouping this sett with its other cloths.

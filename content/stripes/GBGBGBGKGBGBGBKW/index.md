@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/w6k7dr2y2dr2y2dr2y2k7y2dr34y2dr2y2dr2y2~x2/">DeWolfe</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/w6k7dr2y2dr2y2dr2y2k7y2dr34y2dr2y2dr2y2~x2/"><img src="/variants/s16/w6k7dr2y2dr2y2dr2y2k7y2dr34y2dr2y2dr2y2~x2/sett.png" alt="DeWolfe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dewolfe/">DeWolfe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/dewolfe/"><img src="/variants/s16/w6k7dr2y2dr2y2dr2y2k7y2dr34y2dr2y2dr2y2~x2/sett.png" alt="DeWolfe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

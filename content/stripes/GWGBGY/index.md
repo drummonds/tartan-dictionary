@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/ly21g28db24g72w16g20/">Meath County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/ly21g28db24g72w16g20/"><img src="/variants/s6/ly21g28db24g72w16g20/sett.png" alt="Meath County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/meath-county-crest/">Meath County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meath-county-crest/"><img src="/variants/s6/ly21g28db24g72w16g20/sett.png" alt="Meath County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

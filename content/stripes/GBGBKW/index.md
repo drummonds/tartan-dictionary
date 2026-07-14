@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lb40k14dp22y1dp1y3~x2/">British Energy Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb40k14dp22y1dp1y3~x2/"><img src="/variants/s6/lb40k14dp22y1dp1y3~x2/sett.png" alt="British Energy Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/british-energy/">British Energy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/british-energy/"><img src="/variants/s6/lb40k14dp22y1dp1y3~x2/sett.png" alt="British Energy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

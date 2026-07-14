@@ -12,10 +12,10 @@ crumbs:
 - name: "Halliday"
   url: "/tartans/h/ha/halliday/"
 - name: "Halliday"
-  url: "/setts/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/halliday/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKWKWKWKWGWKWR](/stripes/gwkwkwkwkwgwkwr/).
 
 Part of the [Halliday](/tartans/h/ha/halliday/) tartan — the named design grouping this sett with its other cloths.

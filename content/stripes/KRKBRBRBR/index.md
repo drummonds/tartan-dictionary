@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k3r1k32db28r1db2r1db2r3~x2/">Angus District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k3r1k32db28r1db2r1db2r3~x2/"><img src="/variants/s9/k3r1k32db28r1db2r1db2r3~x2/sett.png" alt="Angus District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/angus-2/">Angus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/angus-2/"><img src="/variants/s9/k3r1k32db28r1db2r1db2r3~x2/sett.png" alt="Angus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

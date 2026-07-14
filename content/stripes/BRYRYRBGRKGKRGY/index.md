@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/lg27g7r2k7y2k7r2g7db10r2lg9r3lg2r2db3~x2/">Mungall</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/lg27g7r2k7y2k7r2g7db10r2lg9r3lg2r2db3~x2/"><img src="/variants/s15/lg27g7r2k7y2k7r2g7db10r2lg9r3lg2r2db3~x2/sett.png" alt="Mungall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/mungall-2/">Mungall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/mungall-2/"><img src="/variants/s15/lg27g7r2k7y2k7r2g7db10r2lg9r3lg2r2db3~x2/sett.png" alt="Mungall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Wcwm"
   url: "/clan/wcwm/"
+aliases:
+- "/setts/r4k2dg28k39ly4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkgky/">RKGKY</a></nav>
 A tartan of [Clan Wcwm](/clan/wcwm/).
 Its design is pattern [RKGKY](/stripes/rkgky/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Wcwm 9275 5471-2** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4k2dg28k39ly4/">Wcwm 9275 5471-2</a></td><td><code>R/8 K4 DG56 K78 LY/8</code></td><td>292</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4k2dg28k39ly4/"><img src="/variants/s5/r4k2dg28k39ly4~x2/sett.png" alt="Wcwm 9275 5471-2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r4k2dg28k39ly4~x2/">Wcwm 9275 5471-2</a></td><td><code>R/8 K4 DG56 K78 LY/8</code></td><td>292</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r4k2dg28k39ly4~x2/"><img src="/variants/s5/r4k2dg28k39ly4~x2/sett.png" alt="Wcwm 9275 5471-2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="195.2" cy="146.6" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="234.0" cy="190.5" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="280.5" cy="168.7" r="4" fill="#3465a4"><title>Brotherhood of the</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="261.6" cy="136.3" r="4" fill="#3465a4"><title>Brandon Manitoba</title></circle></a><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><circle cx="248.0" cy="181.1" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="239.9" cy="179.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="382.0" cy="111.3" r="4" fill="#3465a4"><title>Perry, hunting</title></circle></a><a href="/variants/s7/dy3k36g14b2k2g14r3~x2/"><circle cx="250.3" cy="123.6" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><circle cx="271.0" cy="120.3" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="286.7" cy="195.1" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><circle cx="306.3" cy="155.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="195.8" cy="146.5" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="234.7" cy="190.6" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="281.4" cy="168.8" r="4" fill="#3465a4"><title>Brotherhood of the</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="262.3" cy="136.3" r="4" fill="#3465a4"><title>Brandon Manitoba</title></circle></a><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><circle cx="248.7" cy="181.2" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="240.5" cy="179.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="383.3" cy="111.6" r="4" fill="#3465a4"><title>Perry, hunting</title></circle></a><a href="/variants/s7/dy3k36g14b2k2g14r3~x2/"><circle cx="251.1" cy="123.6" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><circle cx="271.9" cy="120.4" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="287.6" cy="195.3" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><circle cx="307.2" cy="155.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

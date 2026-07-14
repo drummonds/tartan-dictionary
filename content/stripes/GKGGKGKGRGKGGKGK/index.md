@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/g7k2g7y1k2y1k10y3r10y3k10y1g11k2g3k2~x2/">Blackburn Appalachian Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/g7k2g7y1k2y1k10y3r10y3k10y1g11k2g3k2~x2/"><img src="/variants/s16/g7k2g7y1k2y1k10y3r10y3k10y1g11k2g3k2~x2/sett.png" alt="Blackburn Appalachian Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blackburn-appalachian-hunting/">Blackburn Appalachian Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blackburn-appalachian-hunting/"><img src="/variants/s16/g7k2g7y1k2y1k10y3r10y3k10y1g11k2g3k2~x2/sett.png" alt="Blackburn Appalachian Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

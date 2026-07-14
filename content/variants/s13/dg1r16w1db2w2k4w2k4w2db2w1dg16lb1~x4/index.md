@@ -8,10 +8,10 @@ crumbs:
 - name: "Gibbs/Gibson"
   url: "/tartans/g/gi/gibbs-gibson-3/"
 - name: "Gibbs/Gibson"
-  url: "/setts/dg1r16w1db2w2k4w2k4w2db2w1dg16lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg1r16w1db2w2k4w2k4w2db2w1dg16lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gi/gibbs-gibson-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWBWKWKWBWGW](/stripes/grwbwkwkwbwgw/).
 
 Part of the [Gibbs/Gibson](/tartans/g/gi/gibbs-gibson-3/) tartan — the named design grouping this sett with its other cloths.

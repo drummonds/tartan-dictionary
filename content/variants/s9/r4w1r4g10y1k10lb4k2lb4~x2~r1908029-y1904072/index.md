@@ -10,10 +10,10 @@ crumbs:
 - name: "Cumming LO"
   url: "/tartans/c/cu/cumming-lo/"
 - name: "Cumming LO"
-  url: "/setts/r4w1r4g10y1k10lb4k2lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4w1r4g10y1k10lb4k2lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cumming-lo/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGGKWKW](/stripes/rwrggkwkw/).
 
 Part of the [Cumming LO](/tartans/c/cu/cumming-lo/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dgi1605139-db1204274-dbi1404245/">Protheroe (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dgi1605139-db1204274-dbi1404245/"><img src="/variants/s12/dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dgi1605139-db1204274-dbi1404245/sett.png" alt="Protheroe (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/protheroe/">Protheroe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/protheroe/"><img src="/variants/s12/dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dgi1605139-db1204274-dbi1404245/sett.png" alt="Protheroe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

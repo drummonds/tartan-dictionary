@@ -12,10 +12,10 @@ crumbs:
 - name: "Sandelin"
   url: "/tartans/s/sa/sandelin/"
 - name: "Sandelin #2 (Personal)"
-  url: "/setts/w10db2w1db35dg10dy3dg10r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w10db2w1db35dg10dy3dg10r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sandelin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGBWBW](/stripes/rgggbwbw/).
 
 Part of the [Sandelin](/tartans/s/sa/sandelin/) tartan — the named design grouping this sett with its other cloths.

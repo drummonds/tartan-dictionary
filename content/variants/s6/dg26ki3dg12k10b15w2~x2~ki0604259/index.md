@@ -8,10 +8,10 @@ crumbs:
 - name: "Lossiemouth/Hersbruck"
   url: "/tartans/l/lo/lossiemouth-hersbruck-2/"
 - name: "Lossiemouth/Hersbruck"
-  url: "/setts/dg26ki3dg12k10b15w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg26ki3dg12k10b15w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lossiemouth-hersbruck-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBW](/stripes/gkgkbw/).
 
 Part of the [Lossiemouth/Hersbruck](/tartans/l/lo/lossiemouth-hersbruck-2/) tartan — the named design grouping this sett with its other cloths.

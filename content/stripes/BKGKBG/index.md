@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n9k16dg10k22dp67y4/">Widows Sons Scotland (MRA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n9k16dg10k22dp67y4/"><img src="/variants/s6/n9k16dg10k22dp67y4/sett.png" alt="Widows Sons Scotland (MRA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/widows-sons-scotland/">Widows Sons Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/widows-sons-scotland/"><img src="/variants/s6/n9k16dg10k22dp67y4/sett.png" alt="Widows Sons Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

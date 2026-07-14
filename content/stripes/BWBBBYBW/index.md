@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/">Fife Flyers (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/"><img src="/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/sett.png" alt="Fife Flyers (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fife-flyers/">Fife Flyers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fife-flyers/"><img src="/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/sett.png" alt="Fife Flyers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

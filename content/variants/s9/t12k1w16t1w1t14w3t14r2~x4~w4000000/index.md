@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Orlando Dress, City of"
-  url: "/tartans/o/or/orlando-dress-city-of-2/"
+  url: "/tartans/o/or/orlando-dress-city-of/"
 - name: "Orlando Dress, City of"
-  url: "/setts/t12k1w16t1w1t14w3t14r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t12k1w16t1w1t14w3t14r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKWBWBWBRBWBWBWK](/stripes/bkwbwbwbrbwbwbwk/).
+provenance below. It is one weaving of the [sett](/tartans/o/or/orlando-dress-city-of/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWBWBWBR](/stripes/bkwbwbwbr/).
 
-Part of the [Orlando Dress, City of](/tartans/o/or/orlando-dress-city-of-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Orlando Dress, City of](/tartans/o/or/orlando-dress-city-of/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3264](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3264)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6053
 
 ## Thread count
-T/48 K4 W64 T4 W4 T56 W12 T56 R8 T56 W12 T56 W4 T4 W64 K/4
+T/48 K4 W64 T4 W4 T56 W12 T56 R/8
 
-One full sett is **860 threads**.
+One full sett is **456 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/48 K4 W64 T4 W4 T56 W12 T56 R8 T56 W12 T56 W4 T4 W64 K/4 — 860 threads; it folds to the canonical 456-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **860 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/48 K4 W64 T4 W4 T56 W12 T56 R8 T56 W12 T56 W4 T4 W64 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/48 K4 W64 T4 W4 T56 W12 T56 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

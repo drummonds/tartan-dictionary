@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s33/w4lb5w2g2y3g2w2dp12w2b8r8w2r8b8w2b10db4w2y3w2db4w2y3w2db4b10w2r20w6r4db2r4w2~x2/">Culloden, House Bed Hangings</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s33/w4lb5w2g2y3g2w2dp12w2b8r8w2r8b8w2b10db4w2y3w2db4w2y3w2db4b10w2r20w6r4db2r4w2~x2/"><img src="/variants/s33/w4lb5w2g2y3g2w2dp12w2b8r8w2r8b8w2b10db4w2y3w2db4w2y3w2db4b10w2r20w6r4db2r4w2~x2/sett.png" alt="Culloden, House Bed Hangings sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/culloden-house-bed-hangings-2/">Culloden, House Bed Hangings</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/culloden-house-bed-hangings-2/"><img src="/variants/s33/w4lb5w2g2y3g2w2dp12w2b8r8w2r8b8w2b10db4w2y3w2db4w2y3w2db4b10w2r20w6r4db2r4w2~x2/sett.png" alt="Culloden, House Bed Hangings sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

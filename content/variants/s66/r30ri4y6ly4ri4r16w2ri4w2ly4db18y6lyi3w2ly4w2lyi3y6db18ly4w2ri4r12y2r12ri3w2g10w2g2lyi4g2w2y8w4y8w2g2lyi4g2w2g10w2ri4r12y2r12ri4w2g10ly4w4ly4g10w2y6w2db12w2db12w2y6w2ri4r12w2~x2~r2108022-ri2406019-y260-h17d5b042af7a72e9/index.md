@@ -12,11 +12,11 @@ crumbs:
 - name: "Hunter"
   url: "/tartans/h/hu/hunter-5/"
 - name: "Hunter (1775)"
-  url: "/setts/r30ri4y6ly4ri4r16w2ri4w2ly4db18y6lyi3w2ly4w2lyi3y6db18ly4w2ri4r12y2r12ri3w2g10w2g2lyi4g2w2y8w4y8w2g2lyi4g2w2g10w2ri4r12y2r12ri4w2g10ly4w4ly4g10w2y6w2db12w2db12w2y6w2ri4r12w2/"
+  url: ""
 slug_full: "r30ri4y6ly4ri4r16w2ri4w2ly4db18y6lyi3w2ly4w2lyi3y6db18ly4w2ri4r12y2r12ri3w2g10w2g2lyi4g2w2y8w4y8w2g2lyi4g2w2g10w2ri4r12y2r12ri4w2g10ly4w4ly4g10w2y6w2db12w2db12w2y6w2ri4r12w2~x2~r2108022-ri2406019-y2602166-lyi3307090"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r30ri4y6ly4ri4r16w2ri4w2ly4db18y6lyi3w2ly4w2lyi3y6db18ly4w2ri4r12y2r12ri3w2g10w2g2lyi4g2w2y8w4y8w2g2lyi4g2w2g10w2ri4r12y2r12ri4w2g10ly4w4ly4g10w2y6w2db12w2db12w2y6w2ri4r12w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hunter-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRGYRRWRWYBGYWYWYGBYWRRGRRWGWGYGWGWGWGYGWGWRRGRRWGYWYGWGWBWBWGWRRW](/stripes/rrgyrrwrwybgywywygbywrrgrrwgwgygwgwgwgygwgwrrgrrwgywygwgwbwbwgwrrw/).
 
 Part of the [Hunter](/tartans/h/hu/hunter-5/) tartan — the named design grouping this sett with its other cloths.

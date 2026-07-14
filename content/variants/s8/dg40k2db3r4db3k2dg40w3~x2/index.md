@@ -12,15 +12,15 @@ crumbs:
 - name: "Asher"
   url: "/tartans/a/as/asher/"
 - name: "Asher Personal Tartan"
-  url: "/setts/dg40k2db3r4db3k2dg40w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg40k2db3r4db3k2dg40w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKBRBKGWGKBRBK](/stripes/gkbrbkgwgkbrbk/).
+provenance below. It is one weaving of the [sett](/tartans/a/as/asher/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBRBKGW](/stripes/gkbrbkgw/).
 
 Part of the [Asher](/tartans/a/as/asher/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3840](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3840)
 
@@ -45,9 +45,11 @@ Earliest known date: 2002 Designed by Robert Asher of London to recognise his fa
 </details>
 
 ## Thread count
-DG/80 K4 DB6 R8 DB6 K4 DG80 W6 DG80 K4 DB6 R8 DB6 K/4
+DG/80 K4 DB6 R8 DB6 K4 DG80 W/6
 
-One full sett is **520 threads**.
+One full sett is **302 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/80 K4 DB6 R8 DB6 K4 DG80 W6 DG80 K4 DB6 R8 DB6 K/4 — 520 threads; it folds to the canonical 302-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **520 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/80 K4 DB6 R8 DB6 K4 DG80 W6 DG80 K4 DB6 R8 DB6 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/80 K4 DB6 R8 DB6 K4 DG80 W/6 tartan" width="880" height="480">
 
 ## Compared to the master
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Orkney Slate"
   url: "/tartans/o/or/orkney-slate-2/"
 - name: "Orkney Slate"
-  url: "/setts/dt8y74k8dt42y11k2y16dt4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt8y74k8dt42y11k2y16dt4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/or/orkney-slate-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBGKGB](/stripes/bgkbgkgb/).
 
 Part of the [Orkney Slate](/tartans/o/or/orkney-slate-2/) tartan — the named design grouping this sett with its other cloths.

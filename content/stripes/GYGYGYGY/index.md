@@ -28,14 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s2/dg1ly1~x8~dg1405139/">Ballindalloch (Estate Check)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/dg1ly1~x8~dg1405139/"><img src="/variants/s2/dg1ly1~x8~dg1405139/sett.png" alt="Ballindalloch (Estate Check) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sn/snaefell-2/">Snaefell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sn/snaefell-2/"><img src="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/sett.png" alt="Snaefell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/">Snaefell (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><img src="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/sett.png" alt="Snaefell (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/">Yellow Pencil (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/"><img src="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/sett.png" alt="Yellow Pencil (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/ye/yellow-pencil-2/">Yellow Pencil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ye/yellow-pencil-2/"><img src="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/sett.png" alt="Yellow Pencil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

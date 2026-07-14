@@ -12,10 +12,10 @@ crumbs:
 - name: "MacKenzie"
   url: "/tartans/m/ma/mackenzie-3/"
 - name: "MacKenzie (Vestiarium Scoticum)"
-  url: "/setts/db18k2db2k2db2k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18k2db2k2db2k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackenzie-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWGKBKBKBKGRGKBKBK](/stripes/bkbkbkgwgkbkbkbkgrgkbkbk/).
 
 Part of the [MacKenzie](/tartans/m/ma/mackenzie-3/) tartan — the named design grouping this sett with its other cloths.

@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/sens/"
 - name: "Sens"
   url: "/families/sens/"
+aliases:
+- "/setts/r26w2y1k3y4r8k32w1k1w3/"
+- "/setts/r26w2ly1k3ly4r8k32w1k1w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rwgkgrkwkw/">RWGKGRKWKW</a></nav>
 A tartan of the [Sens](/families/sens/) family.
 Its design is pattern [RWGKGRKWKW](/stripes/rwgkgrkwkw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Sens** tartan groups 2 setts — the same named design recorded as differe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r26w2y1k3y4r8k32w1k1w3/">Sens</a> ★</td><td><code>R/52 W4 Y2 K6 Y8 R16 K64 W2 K2 W/6</code></td><td>266</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r26w2y1k3y4r8k32w1k1w3/"><img src="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/sett.png" alt="Sens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r26w2ly1k3ly4r8k32w1k1w3/">(Corporate)</a></td><td><code>R/52 W4 LY2 K6 LY8 R16 K64 W2 K2 W/6</code></td><td>266</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r26w2ly1k3ly4r8k32w1k1w3/"><img src="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/">Sens</a> ★</td><td><code>R/52 W4 Y2 K6 Y8 R16 K64 W2 K2 W/6</code></td><td>266</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/"><img src="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/sett.png" alt="Sens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/">(Corporate)</a></td><td><code>R/52 W4 LY2 K6 LY8 R16 K64 W2 K2 W/6</code></td><td>266</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/"><img src="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="275.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="317.6" cy="113.2" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s11/k9o2k2ri2o18ri2k2r1k20ri33r2~x2~o2500000-ri2109032/"><circle cx="223.3" cy="81.1" r="4" fill="#3465a4"><title>Pride of Scotland, Silver</title></circle></a><a href="/variants/s8/w3k3w3k37r40w1r2lo3~x2/"><circle cx="278.4" cy="69.3" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><a href="/variants/s14/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3~x2~y2400000-ly3307090/"><circle cx="259.7" cy="76.2" r="4" fill="#3465a4"><title>Unknown U.S.</title></circle></a><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><circle cx="280.6" cy="68.3" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="295.4" cy="77.1" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><circle cx="314.4" cy="95.1" r="4" fill="#3465a4"><title>MacAlister of Skye</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="258.9" cy="66.4" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="259.2" cy="65.9" r="4" fill="#3465a4"><title>Aberdeen Football Club</title></circle></a><circle cx="252.4" cy="71.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="276.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="318.6" cy="113.3" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s11/k9o2k2ri2o18ri2k2r1k20ri33r2~x2~o2500000-ri2109032/"><circle cx="224.1" cy="81.0" r="4" fill="#3465a4"><title>Pride of Scotland, Silver</title></circle></a><a href="/variants/s8/w3k3w3k37r40w1r2lo3~x2/"><circle cx="279.4" cy="69.2" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><a href="/variants/s14/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3~x2~y2400000-ly3307090/"><circle cx="260.7" cy="76.1" r="4" fill="#3465a4"><title>Unknown U.S.</title></circle></a><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><circle cx="281.5" cy="68.2" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="296.5" cy="77.0" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><circle cx="315.4" cy="95.1" r="4" fill="#3465a4"><title>MacAlister of Skye</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="259.8" cy="66.3" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="260.2" cy="65.8" r="4" fill="#3465a4"><title>Aberdeen Football Club</title></circle></a><circle cx="253.4" cy="71.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r21k21w10k10w21~x2/">Havel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r21k21w10k10w21~x2/"><img src="/variants/s5/r21k21w10k10w21~x2/sett.png" alt="Havel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cornish-flag/">Cornish Flag</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-flag/"><img src="/variants/s5/w5k20w10k1r2~x2/sett.png" alt="Cornish Flag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/havel/">Havel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/havel/"><img src="/variants/s5/r21k21w10k10w21~x2/sett.png" alt="Havel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

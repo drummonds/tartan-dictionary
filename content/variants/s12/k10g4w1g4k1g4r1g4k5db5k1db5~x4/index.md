@@ -12,15 +12,15 @@ crumbs:
 - name: "Lloyd of Dolobran"
   url: "/tartans/l/ll/lloyd-of-dolobran/"
 - name: "Lloyd of Dolobran (Personal)"
-  url: "/setts/k10g4w1g4k1g4r1g4k5db5k1db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10g4w1g4k1g4r1g4k5db5k1db5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKGRGKGWGKGWGKGRGKBK](/stripes/bkbkgrgkgwgkgwgkgrgkbk/).
+provenance below. It is one weaving of the [sett](/tartans/l/ll/lloyd-of-dolobran/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKGRGKGWGK](/stripes/bkbkgrgkgwgk/).
 
 Part of the [Lloyd of Dolobran](/tartans/l/ll/lloyd-of-dolobran/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2140](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2140)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2140](ht
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1950 — Lloyd of Dolobran (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2140">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. A non repeating or asymetrical pattern.</em></li>
-<li>pre 1950 — Lloyd of Dolobran (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1970">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Asymmetric. From the McGregor-Hastie collection, 1930-1950. Assumed to be 'Personal'. His notes read: "The family has estates in Argyllshire and the tartan is said to have been designed for a Col Lloyd, head of the family. Sett from late Mr. Ballantyne of Forsytth's in Regent St. London." Confirmatory graphic in Tom ????? scrapbook with a note "This is the tartan of Col. Lord Lloyd of Dolobron, Montgomeryshire who purchased a Highland estate." No hint of this in Wikipedia entry on George Ambrose Lloyd, 1st Baron Lloyd (1879 - 1941</em></li>
+<li>pre 1950 — Lloyd of Dolobran (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1970/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Asymmetric. From the McGregor-Hastie collection, 1930-1950. Assumed to be 'Personal'. His notes read: "The family has estates in Argyllshire and the tartan is said to have been designed for a Col Lloyd, head of the family. Sett from late Mr. Ballantyne of Forsytth's in Regent St. London." Confirmatory graphic in Tom ????? scrapbook with a note "This is the tartan of Col. Lord Lloyd of Dolobron, Montgomeryshire who purchased a Highland estate." No hint of this in Wikipedia entry on George Ambrose Lloyd, 1st Baron Lloyd (1879 - 1941</em></li>
 <li>undated — Lloyd of, Dolobran (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span></li>
 </ul>
 </details>
@@ -58,9 +58,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1970
 
 ## Thread count
-DB/20 K4 DB20 K20 G16 R4 G16 K4 G16 W4 G16 K40 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K/4
+K/40 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K4 DB/20
 
-One full sett is **576 threads**.
+One full sett is **300 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/20 K4 DB20 K20 G16 R4 G16 K4 G16 W4 G16 K40 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K/4 — 576 threads; it folds to the canonical 300-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -69,7 +71,7 @@ One full sett is **576 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/20 K4 DB20 K20 G16 R4 G16 K4 G16 W4 G16 K40 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K4 DB/20 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

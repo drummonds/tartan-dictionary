@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3~x2/">Selkirk High School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3~x2/"><img src="/variants/s18/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3~x2/sett.png" alt="Selkirk High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/selkirk-high-school/">Selkirk High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/selkirk-high-school/"><img src="/variants/s18/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3~x2/sett.png" alt="Selkirk High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

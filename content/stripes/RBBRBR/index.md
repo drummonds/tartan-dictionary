@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/">Dege, of Saville Row</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><img src="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/sett.png" alt="Dege, of Saville Row sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dege-of-saville-row-2/">Dege, of Saville Row</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/dege-of-saville-row-2/"><img src="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/sett.png" alt="Dege, of Saville Row sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

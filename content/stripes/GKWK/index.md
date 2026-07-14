@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k60lb3k9g7/">Wallington (Corporate?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k60lb3k9g7/"><img src="/variants/s4/k60lb3k9g7/sett.png" alt="Wallington (Corporate?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wallington/">Wallington</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wallington/"><img src="/variants/s4/k60lb3k9g7/sett.png" alt="Wallington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s45/db2g3dp1g2ly1g2dt2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2dt2r1db2r1db30g3dp1g2ly1g2dt1dp2g1dp2r1dp2db2dt28dp1ly2dp3g1dp2r1dp2~x2/">Highland Mist</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s45/db2g3dp1g2ly1g2dt2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2dt2r1db2r1db30g3dp1g2ly1g2dt1dp2g1dp2r1dp2db2dt28dp1ly2dp3g1dp2r1dp2~x2/"><img src="/variants/s45/db2g3dp1g2ly1g2dt2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2dt2r1db2r1db30g3dp1g2ly1g2dt1dp2g1dp2r1dp2db2dt28dp1ly2dp3g1dp2r1dp2~x2/sett.png" alt="Highland Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-mist/">Highland Mist</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-mist/"><img src="/variants/s45/db2g3dp1g2ly1g2dt2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2dt2r1db2r1db30g3dp1g2ly1g2dt1dp2g1dp2r1dp2db2dt28dp1ly2dp3g1dp2r1dp2~x2/sett.png" alt="Highland Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/">Town of Petawawa</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/"><img src="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/sett.png" alt="Town of Petawawa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/town-of-petawawa/">Town of Petawawa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/town-of-petawawa/"><img src="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/sett.png" alt="Town of Petawawa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

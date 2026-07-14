@@ -10,17 +10,17 @@ crumbs:
 - name: "Hyndman"
   url: "/families/hyndman/"
 - name: "Hyndman"
-  url: "/tartans/h/hy/hyndman-2/"
+  url: "/tartans/h/hy/hyndman-4/"
 - name: "Hyndman"
-  url: "/setts/t4r2t3r4t8g4y2g2k2t6r4t2r2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t4r2t3r4t8g4y2g2k2t6r4t2r2w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBRBGGGKBRBRWRBRBKGGGBRBR](/stripes/brbrbgggkbrbrwrbrbkgggbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/h/hy/hyndman-4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBGGGKBRBRW](/stripes/brbrbgggkbrbrw/).
 
-Part of the [Hyndman](/tartans/h/hy/hyndman-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hyndman](/tartans/h/hy/hyndman-4/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1807](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1807)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2134
 
 ## Thread count
-T/16 R8 T12 R16 T32 G16 Y8 G8 K8 T24 R16 T8 R8 W8 R8 T8 R16 T24 K8 G8 Y8 G16 T32 R16 T12 R/8
+T/16 R8 T12 R16 T32 G16 Y8 G8 K8 T24 R16 T8 R8 W/8
 
-One full sett is **680 threads**.
+One full sett is **352 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/16 R8 T12 R16 T32 G16 Y8 G8 K8 T24 R16 T8 R8 W8 R8 T8 R16 T24 K8 G8 Y8 G16 T32 R16 T12 R/8 — 680 threads; it folds to the canonical 352-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **680 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/16 R8 T12 R16 T32 G16 Y8 G8 K8 T24 R16 T8 R8 W8 R8 T8 R16 T24 K8 G8 Y8 G16 T32 R16 T12 R/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/16 R8 T12 R16 T32 G16 Y8 G8 K8 T24 R16 T8 R8 W/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

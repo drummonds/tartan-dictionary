@@ -8,10 +8,10 @@ crumbs:
 - name: "Utah"
   url: "/tartans/u/ut/utah/"
 - name: "Utah"
-  url: "/setts/w2dr3dg9dr3db2dr3db3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2dr3dg9dr3db2dr3db3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/ut/utah/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBBGBW](/stripes/wbbbbgbw/).
 
 Part of the [Utah](/tartans/u/ut/utah/) tartan — the named design grouping this sett with its other cloths.

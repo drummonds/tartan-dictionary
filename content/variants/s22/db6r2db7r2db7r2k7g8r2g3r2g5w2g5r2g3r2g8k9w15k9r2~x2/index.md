@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonell of Glengarry Dress"
   url: "/tartans/m/ma/macdonell-of-glengarry-dress/"
 - name: "MacDonell of Glengarry, dress"
-  url: "/setts/db6r2db7r2db7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6r2db7r2db7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonell-of-glengarry-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKGRGRGWGRGRGKWKR](/stripes/brbrbrkgrgrgwgrgrgkwkr/).
 
 Part of the [MacDonell of Glengarry Dress](/tartans/m/ma/macdonell-of-glengarry-dress/) tartan — the named design grouping this sett with its other cloths.

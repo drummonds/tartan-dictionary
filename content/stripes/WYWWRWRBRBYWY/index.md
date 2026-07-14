@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/">International Council for Commercial Arbitration</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/"><img src="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/sett.png" alt="International Council for Commercial Arbitration sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/international-council-for-commercial-arbitration/">International Council for Commercial Arbitration</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/international-council-for-commercial-arbitration/"><img src="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/sett.png" alt="International Council for Commercial Arbitration sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

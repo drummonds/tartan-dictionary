@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/">Scottish Institute of Sport</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/"><img src="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/sett.png" alt="Scottish Institute of Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-institute-of-sport/">Scottish Institute of Sport</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-institute-of-sport/"><img src="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/sett.png" alt="Scottish Institute of Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

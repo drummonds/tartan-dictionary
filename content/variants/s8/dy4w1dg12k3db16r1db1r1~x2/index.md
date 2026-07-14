@@ -12,10 +12,10 @@ crumbs:
 - name: "Purves"
   url: "/tartans/p/pu/purves/"
 - name: "Purves (2014)"
-  url: "/setts/dy4w1dg12k3db16r1db1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy4w1dg12k3db16r1db1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pu/purves/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKBRBR](/stripes/gwgkbrbr/).
 
 Part of the [Purves](/tartans/p/pu/purves/) tartan — the named design grouping this sett with its other cloths.

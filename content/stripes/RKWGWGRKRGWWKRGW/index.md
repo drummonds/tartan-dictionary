@@ -28,10 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/">Clan Chattan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/"><img src="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/sett.png" alt="Clan Chattan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/">Clan Chattan D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/"><img src="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/sett.png" alt="Clan Chattan D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clan-chattan-2/">Clan Chattan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clan-chattan-2/"><img src="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/sett.png" alt="Clan Chattan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clan-chattan-d-2/">Clan Chattan D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clan-chattan-d-2/"><img src="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/sett.png" alt="Clan Chattan D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hong-kong-police-pipe-band/">Hong Kong Police Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hong-kong-police-pipe-band/"><img src="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/sett.png" alt="Hong Kong Police Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

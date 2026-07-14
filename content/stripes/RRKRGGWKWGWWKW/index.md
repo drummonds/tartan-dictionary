@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6~x2~ri2209032-r2208029/">Dundee #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6~x2~ri2209032-r2208029/"><img src="/variants/s14/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6~x2~ri2209032-r2208029/sett.png" alt="Dundee #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s14/r30ri2k6ri2g17y7w2k2w2y4lb7w2k6w6~x2~r2109032-ri2406019/">Dundee District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r30ri2k6ri2g17y7w2k2w2y4lb7w2k6w6~x2~r2109032-ri2406019/"><img src="/variants/s14/r30ri2k6ri2g17y7w2k2w2y4lb7w2k6w6~x2~r2109032-ri2406019/sett.png" alt="Dundee District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dundee/">Dundee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dundee/"><img src="/variants/s14/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6~x2~ri2209032-r2208029/sett.png" alt="Dundee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

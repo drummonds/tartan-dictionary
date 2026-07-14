@@ -8,15 +8,15 @@ crumbs:
 - name: "Jewel Look JTB"
   url: "/tartans/j/je/jewel-look-jtb/"
 - name: "Jewel Look JTB"
-  url: "/setts/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GBGBGBRRBRWRBGBRWRBRRBGBGBGG](/stripes/gbgbgbrrbrwrbgbrwrbrrbgbgbgg/).
+provenance below. It is one weaving of the [sett](/tartans/j/je/jewel-look-jtb/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBRWRBRRBGBGBGG](/stripes/gbrwrbrrbgbgbgg/).
 
 Part of the [Jewel Look JTB](/tartans/j/je/jewel-look-jtb/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1892](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1892)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1892](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/10/2002 — Jewel Look JTB (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1892">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>For the Japan Tourist Board. Name changed February 2003. Lochcarron swatch.</em></li>
-<li>Oct 2002 — Jewel Look JTB (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5730">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>For the Japan Tourist Board. Name changed February 2003. Lochcarron swatch.</em></li>
+<li>Oct 2002 — Jewel Look JTB (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5730/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>For the Japan Tourist Board. Name changed February 2003. Lochcarron swatch.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5730
 
 ## Thread count
-Y/4 G2 N4 G20 N2 G2 N4 O21 R6 N4 R4 W3 R4 N2 G4 N2 R4 W3 R4 N4 R6 O21 N4 G2 N2 G20 N4 G/2
+Y/4 G2 N4 G20 N2 G2 N4 O21 R6 N4 R4 W3 R4 N2 G/4
 
-One full sett is **322 threads**.
+One full sett is **164 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/4 G2 N4 G20 N2 G2 N4 O21 R6 N4 R4 W3 R4 N2 G4 N2 R4 W3 R4 N4 R6 O21 N4 G2 N2 G20 N4 G/2 — 322 threads; it folds to the canonical 164-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **322 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/4 G2 N4 G20 N2 G2 N4 O21 R6 N4 R4 W3 R4 N2 G4 N2 R4 W3 R4 N4 R6 O21 N4 G2 N2 G20 N4 G/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/4 G2 N4 G20 N2 G2 N4 O21 R6 N4 R4 W3 R4 N2 G/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

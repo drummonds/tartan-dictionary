@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dp27y2dp2k12g6o2g12k12db12r2db2/">Boxell, Baron (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dp27y2dp2k12g6o2g12k12db12r2db2/"><img src="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2~dp1105325/sett.png" alt="Boxell, Baron (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boxell-baron/">Boxell, Baron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boxell-baron/"><img src="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2~dp1105325/sett.png" alt="Boxell, Baron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

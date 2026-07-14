@@ -12,15 +12,15 @@ crumbs:
 - name: "Taggart"
   url: "/tartans/t/ta/taggart/"
 - name: "Taggart Name Tartan"
-  url: "/setts/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ta/taggart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKKRKKBRKRKRBWKRKWR](/stripes/rkkrkkbrkrkrbwkrkwr/).
 
 Part of the [Taggart](/tartans/t/ta/taggart/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10003](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10003)
 

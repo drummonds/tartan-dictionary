@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db61w4db2w7b2g3y2db16~x2/">Boat of Garten (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db61w4db2w7b2g3y2db16~x2/"><img src="/variants/s8/db61w4db2w7b2g3y2db16~x2/sett.png" alt="Boat of Garten (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boat-of-garten/">Boat of Garten</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boat-of-garten/"><img src="/variants/s8/db61w4db2w7b2g3y2db16~x2/sett.png" alt="Boat of Garten sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

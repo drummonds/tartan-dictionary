@@ -10,10 +10,10 @@ crumbs:
 - name: "North West Mounted Police"
   url: "/tartans/n/no/north-west-mounted-police-2/"
 - name: "North West, Mounted Police"
-  url: "/setts/ri39r3w2g14w2y4ri4r2ri4y4w2lb12r6ri6y7w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ri39r3w2g14w2y4ri4r2ri4y4w2lb12r6ri6y7w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/north-west-mounted-police-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRWGWGRRRGWWRRGW](/stripes/rrwgwgrrrgwwrrgw/).
 
 Part of the [North West Mounted Police](/tartans/n/no/north-west-mounted-police-2/) tartan — the named design grouping this sett with its other cloths.

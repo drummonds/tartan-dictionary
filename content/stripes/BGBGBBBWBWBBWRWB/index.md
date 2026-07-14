@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/dt18w1o8w1db16dp8w1dt18w1dt20dp8dt6g8db10g10db1~x4/">Forbes - 1970 (WCWM #2)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/dt18w1o8w1db16dp8w1dt18w1dt20dp8dt6g8db10g10db1~x4/"><img src="/variants/s16/dt18w1o8w1db16dp8w1dt18w1dt20dp8dt6g8db10g10db1~x4/sett.png" alt="Forbes - 1970 (WCWM #2) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forbes-10/">Forbes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forbes-10/"><img src="/variants/s16/dt18w1o8w1db16dp8w1dt18w1dt20dp8dt6g8db10g10db1~x4/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

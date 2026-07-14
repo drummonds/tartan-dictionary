@@ -12,10 +12,10 @@ crumbs:
 - name: "Baker"
   url: "/tartans/b/ba/baker/"
 - name: "Baker"
-  url: "/setts/db28o3w1o3db4w2dp1w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db28o3w1o3db4w2dp1w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/baker/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRBWBW](/stripes/brwrbwbw/).
 
 Part of the [Baker](/tartans/b/ba/baker/) tartan — the named design grouping this sett with its other cloths.

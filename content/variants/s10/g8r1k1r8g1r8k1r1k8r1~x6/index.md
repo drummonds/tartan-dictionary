@@ -10,15 +10,15 @@ crumbs:
 - name: "Hebridean South Uist"
   url: "/tartans/h/he/hebridean-south-uist/"
 - name: "Hebrides South Uist #3"
-  url: "/setts/g8r1k1r8g1r8k1r1k8r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8r1k1r8g1r8k1r1k8r1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRKRGRKRKRKRKRGRKR](/stripes/grkrgrkrkrkrkrgrkr/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebridean-south-uist/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRKRGRKRKR](/stripes/grkrgrkrkr/).
 
 Part of the [Hebridean South Uist](/tartans/h/he/hebridean-south-uist/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1670](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1670)
 
@@ -60,9 +60,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2036
 
 ## Thread count
-G/48 R6 K6 R48 G6 R48 K6 R6 K48 R6 K48 R6 K6 R48 G6 R48 K6 R/6
+G/48 R6 K6 R48 G6 R48 K6 R6 K48 R/6
 
-One full sett is **750 threads**.
+One full sett is **402 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/48 R6 K6 R48 G6 R48 K6 R6 K48 R6 K48 R6 K6 R48 G6 R48 K6 R/6 — 750 threads; it folds to the canonical 402-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -71,7 +73,7 @@ One full sett is **750 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/48 R6 K6 R48 G6 R48 K6 R6 K48 R6 K48 R6 K6 R48 G6 R48 K6 R/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/48 R6 K6 R48 G6 R48 K6 R6 K48 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

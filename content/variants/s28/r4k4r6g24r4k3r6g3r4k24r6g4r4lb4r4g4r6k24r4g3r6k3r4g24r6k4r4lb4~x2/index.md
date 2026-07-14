@@ -8,10 +8,10 @@ crumbs:
 - name: "Kilbarchan Unidentified No. 7"
   url: "/tartans/k/ki/kilbarchan-unidentified-no-7/"
 - name: "Kilbarchan Unidentified No. 7"
-  url: "/setts/r4k4r6g24r4k3r6g3r4k24r6g4r4lb4r4g4r6k24r4g3r6k3r4g24r6k4r4lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k4r6g24r4k3r6g3r4k24r6g4r4lb4r4g4r6k24r4g3r6k3r4g24r6k4r4lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kilbarchan-unidentified-no-7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRGRKRGRKRGRWRGRKRGRKRGRKRW](/stripes/rkrgrkrgrkrgrwrgrkrgrkrgrkrw/).
 
 Part of the [Kilbarchan Unidentified No. 7](/tartans/k/ki/kilbarchan-unidentified-no-7/) tartan — the named design grouping this sett with its other cloths.

@@ -8,15 +8,15 @@ crumbs:
 - name: "McHeadley Society"
   url: "/tartans/m/mc/mcheadley-society/"
 - name: "McHeadley Society Corporate Tartan"
-  url: "/setts/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcheadley-society/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKGKBGGGGGGR](/stripes/kkgkbggggggr/).
 
 Part of the [McHeadley Society](/tartans/m/mc/mcheadley-society/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10450](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10450)
 
@@ -41,9 +41,11 @@ Earliest known date: 4th July 2011 The McHeadley Society is a private fraternal 
 </details>
 
 ## Thread count
-R/4 DG36 DGi4 DG4 DGi4 DG4 DGi24 DB6 K26 DG20 K4 K/4
+K/8 DG20 K26 DB6 DGi24 DG4 DGi4 DG4 DGi4 DG36 R/4
 
-One full sett is **272 threads**.
+One full sett is **268 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/4 DG36 DGi4 DG4 DGi4 DG4 DGi24 DB6 K26 DG20 K4 K/4 — 272 threads; it folds to the canonical 268-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **272 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 DG36 DGi4 DG4 DGi4 DG4 DGi24 DB6 K26 DG20 K4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 DG20 K26 DB6 DGi24 DG4 DGi4 DG4 DGi4 DG36 R/4 tartan" width="880" height="480">
 
 ## Compared to the master
 

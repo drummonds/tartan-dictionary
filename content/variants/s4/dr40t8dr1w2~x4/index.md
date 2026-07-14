@@ -10,22 +10,22 @@ crumbs:
 - name: "Lyon College"
   url: "/tartans/l/ly/lyon-college/"
 - name: "Lyon College (Corporate)"
-  url: "/setts/dr40t8dr1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr40t8dr1w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBWBB](/stripes/bbbwbb/).
+provenance below. It is one weaving of the [sett](/tartans/l/ly/lyon-college/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBW](/stripes/bbbw/).
 
 Part of the [Lyon College](/tartans/l/ly/lyon-college/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2412](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2412)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/2412/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2412/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1990 — Lyon College (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2412">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Lyon College (formerly Arkansas College) designed ca. 1990 by Bob Walker Hawkes and Russ Spalding. Worn by Willie Muirhead 1995 at the Delco Games. This should be the same as Arkansas but isn't exactly. 'Tartans (Johnston/Smith 1999) calls it LyonS College.</em></li>
+<li>1990 — Lyon College (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2412/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Lyon College (formerly Arkansas College) designed ca. 1990 by Bob Walker Hawkes and Russ Spalding. Worn by Willie Muirhead 1995 at the Delco Games. This should be the same as Arkansas but isn't exactly. 'Tartans (Johnston/Smith 1999) calls it LyonS College.</em></li>
 <li>01/04/1991 — Lyon College (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2257">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Lyon College (formerly Arkansas College) designed ca.1990 by Bob Walker Hawkes and Russ Spalding. Worn by Willie Muirhead 1995 at the Delco Games. This should be the same as Arkansas but isn't exactly. 'Tartans' (Johnston/Smith 1999) calls it LyonS College. Originally it was called Arkanas College founded in 1872. The name was changed in 1994.</em></li>
 </ul>
 </details>
@@ -40,7 +40,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2412](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
@@ -55,9 +55,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2412
 
 ## Thread count
-DR/160 T32 DR4 W8 DR4 T/32
+DR/160 T32 DR4 W/8
 
-One full sett is **288 threads**.
+One full sett is **240 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/160 T32 DR4 W8 DR4 T/32 — 288 threads; it folds to the canonical 240-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -66,7 +68,7 @@ One full sett is **288 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/160 T32 DR4 W8 DR4 T/32 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/160 T32 DR4 W/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

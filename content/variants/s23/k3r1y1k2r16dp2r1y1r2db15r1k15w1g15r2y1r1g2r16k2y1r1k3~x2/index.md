@@ -10,10 +10,10 @@ crumbs:
 - name: "Hay, or Leith"
   url: "/tartans/h/ha/hay-or-leith-2/"
 - name: "Hay, or Leith"
-  url: "/setts/k3r1y1k2r16dp2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3r1y1k2r16dp2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hay-or-leith-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGKRBRGRBRKWGRGRGRKGRK](/stripes/krgkrbrgrbrkwgrgrgrkgrk/).
 
 Part of the [Hay, or Leith](/tartans/h/ha/hay-or-leith-2/) tartan — the named design grouping this sett with its other cloths.

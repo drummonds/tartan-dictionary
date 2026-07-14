@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dr1dy2dt12dy8db16ly1~x2/">Bobby Jones (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr1dy2dt12dy8db16ly1~x2/"><img src="/variants/s6/dr1dy2dt12dy8db16ly1~x2/sett.png" alt="Bobby Jones (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bobby-jones/">Bobby Jones</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bobby-jones/"><img src="/variants/s6/dr1dy2dt12dy8db16ly1~x2/sett.png" alt="Bobby Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dr2g3db2g14db14lr2~x2/">Irving of Bonshaw Tower (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><img src="/variants/s6/dr2g3db2g14db14lr2~x2/sett.png" alt="Irving of Bonshaw Tower (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ir/irving-of-bonshaw-tower-2/">Irving of Bonshaw Tower</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ir/irving-of-bonshaw-tower-2/"><img src="/variants/s6/dr2g3db2g14db14lr2~x2/sett.png" alt="Irving of Bonshaw Tower sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Dama Weekend"
   url: "/tartans/d/da/dama-weekend/"
 - name: "Dama Weekend"
-  url: "/setts/db42n2db2n4y4ly2y6k9y2k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db42n2db2n4y4ly2y6k9y2k2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dama-weekend/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGYGKGKR](/stripes/bbbbgygkgkr/).
 
 Part of the [Dama Weekend](/tartans/d/da/dama-weekend/) tartan — the named design grouping this sett with its other cloths.

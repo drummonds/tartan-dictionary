@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonald of Belfinlay"
   url: "/tartans/m/ma/macdonald-of-belfinlay/"
 - name: "MacDonald of Belfinlay"
-  url: "/setts/k8g4r4g3r32g3r4g3r4k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8g4r4g3r32g3r4g3r4k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-of-belfinlay/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRGRGRGRK](/stripes/kgrgrgrgrk/).
 
 Part of the [MacDonald of Belfinlay](/tartans/m/ma/macdonald-of-belfinlay/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2357](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1914 — MacDonald of Belfinlay (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2357">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#447C34;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #447C34"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>From D.C. Dalgliesh. Also appears in Peter MacDonald swatch files. From MacKay's 1914 'The Romantic Story of Highland Garb'. Also named MacDonnell of Clan Ranald Ancient and said to be from Cockburn Collection 1815. Note on modern sample also adds 'John MacDonald, High Commissioner Clan Donald' suggesting that either the sample or the information was from him.</em></li>
-<li>1914 — MacDonald of Clanranald - 1914 (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4559">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#447C34;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #447C34"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>From D C Dalgliesh. also appears in Peter MacDonald swatch files. From MacKay's 1914 'The Romantic Story of Highland Garb'. Also named MacDonnell of Clan Ranald Ancient and said to be from Cockburn Collection 1815. Note on modern sample also adds "John MacDonald, High Commissioner Clan Donald" suggesting that either the sampke or the information was from him.</em></li>
+<li>1914 — MacDonald of Clanranald - 1914 (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4559/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#447C34;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #447C34"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>From D C Dalgliesh. also appears in Peter MacDonald swatch files. From MacKay's 1914 'The Romantic Story of Highland Garb'. Also named MacDonnell of Clan Ranald Ancient and said to be from Cockburn Collection 1815. Note on modern sample also adds "John MacDonald, High Commissioner Clan Donald" suggesting that either the sampke or the information was from him.</em></li>
 </ul>
 </details>
 

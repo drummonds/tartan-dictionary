@@ -12,15 +12,15 @@ crumbs:
 - name: "GOLF"
   url: "/tartans/g/go/golf-3/"
 - name: "GOLF (Wonderland Publications)"
-  url: "/setts/k15dp2k1r1lb1k15r1k17lb1k15dp4k2lb1k15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k15dp2k1r1lb1k15r1k17lb1k15dp4k2lb1k15/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/golf-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRWKRKKWKBKWK](/stripes/kbkrwkrkkwkbkwk/).
 
 Part of the [GOLF](/tartans/g/go/golf-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10698](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10698)
 

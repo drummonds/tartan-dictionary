@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/">Ridgeback (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/"><img src="/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/sett.png" alt="Ridgeback (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/ridgeback/">Ridgeback</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/ridgeback/"><img src="/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/sett.png" alt="Ridgeback sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

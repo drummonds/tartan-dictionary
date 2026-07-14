@@ -8,10 +8,10 @@ crumbs:
 - name: "Doon Valley Crafters"
   url: "/tartans/d/do/doon-valley-crafters/"
 - name: "Doon Valley Crafters"
-  url: "/setts/y3k1g10k7db10g2db2g2db10k7g10k1lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3k1g10k7db10g2db2g2db10k7g10k1lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/doon-valley-crafters/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBGBGBKGKW](/stripes/gkgkbgbgbkgkw/).
 
 Part of the [Doon Valley Crafters](/tartans/d/do/doon-valley-crafters/) tartan — the named design grouping this sett with its other cloths.

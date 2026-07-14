@@ -8,15 +8,15 @@ crumbs:
 - name: "KPGM"
   url: "/tartans/k/kp/kpgm/"
 - name: "KPMG"
-  url: "/setts/r12ly2db3k3db30k20dr6k10ly2dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12ly2db3k3db30k20dr6k10ly2dr4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RYBKBKBKYBYKBKBKBY](/stripes/rybkbkbkybykbkbkby/).
+provenance below. It is one weaving of the [sett](/tartans/k/kp/kpgm/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYKBKBKBYR](/stripes/bykbkbkbyr/).
 
 Part of the [KPGM](/tartans/k/kp/kpgm/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2015](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2015)
 
@@ -28,7 +28,7 @@ Earliest known date: 1996 Designed by Polly Wittering of House of Edgar for KPMG
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/10/1996 — KPMG (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2015">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#680028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #680028"></span><br><em>Designed by Polly Wittering of House of Edgar for KPMG the international accountancy firm.</em></li>
-<li>1996 — KPMG (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2287">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#680028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #680028"></span><br><em>Designed by Polly Wittering of House of Edgar for KPMG the international accountancy firm who were the company's auditors at that time. It's thought that Archie Hunter of KPMG approached the House of Edgar in 1996 and that the tartan was based on McLintock (perhaps a connection at one time with KPMG) and the colours were KPMG's corporate colours in 1996.</em></li>
+<li>1996 — KPMG (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2287/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#680028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #680028"></span><br><em>Designed by Polly Wittering of House of Edgar for KPMG the international accountancy firm who were the company's auditors at that time. It's thought that Archie Hunter of KPMG approached the House of Edgar in 1996 and that the tartan was based on McLintock (perhaps a connection at one time with KPMG) and the colours were KPMG's corporate colours in 1996.</em></li>
 <li>1996 — KPGM Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2287">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#680028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #680028"></span></li>
 </ul>
 </details>
@@ -58,9 +58,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2287
 
 ## Thread count
-R/24 LY4 DB6 K6 DB60 K40 DR12 K20 LY4 DR8 LY4 K20 DR12 K40 DB60 K6 DB6 LY/4
+R/24 LY4 DB6 K6 DB60 K40 DR12 K20 LY4 DR/8
 
-One full sett is **644 threads**.
+One full sett is **336 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/24 LY4 DB6 K6 DB60 K40 DR12 K20 LY4 DR8 LY4 K20 DR12 K40 DB60 K6 DB6 LY/4 — 644 threads; it folds to the canonical 336-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -69,7 +71,7 @@ One full sett is **644 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/24 LY4 DB6 K6 DB60 K40 DR12 K20 LY4 DR8 LY4 K20 DR12 K40 DB60 K6 DB6 LY/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/24 LY4 DB6 K6 DB60 K40 DR12 K20 LY4 DR/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

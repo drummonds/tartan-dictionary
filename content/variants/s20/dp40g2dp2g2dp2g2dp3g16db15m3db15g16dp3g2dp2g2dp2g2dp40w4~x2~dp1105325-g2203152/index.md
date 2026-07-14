@@ -8,10 +8,10 @@ crumbs:
 - name: "Solway Spirit"
   url: "/tartans/s/so/solway-spirit/"
 - name: "Solway Spirit"
-  url: "/setts/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/solway-spirit/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBRBGBGBGBGBW](/stripes/bgbgbgbgbrbgbgbgbgbw/).
 
 Part of the [Solway Spirit](/tartans/s/so/solway-spirit/) tartan — the named design grouping this sett with its other cloths.

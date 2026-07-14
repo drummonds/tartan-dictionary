@@ -8,10 +8,10 @@ crumbs:
 - name: "Lougheed"
   url: "/tartans/l/lo/lougheed/"
 - name: "Lougheed"
-  url: "/setts/w3dr3k4w2dr18k1dr2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3dr3k4w2dr18k1dr2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lougheed/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBWKBW](/stripes/kbkbwkbw/).
 
 Part of the [Lougheed](/tartans/l/lo/lougheed/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2228](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — Lougheed (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2228">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Possibly a D C Dalgliesh design</em></li>
-<li>pre 2003 — Lougheed (Name?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5932">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Possibly a D C Dalgliesh design - see #4112 which is basically the same design but with different colours and one less colour. Assumed to be 'Name'</em></li>
+<li>pre 2003 — Lougheed (Name?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5932/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8CCB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #E8CCB8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Possibly a D C Dalgliesh design - see #4112 which is basically the same design but with different colours and one less colour. Assumed to be 'Name'</em></li>
 </ul>
 </details>
 

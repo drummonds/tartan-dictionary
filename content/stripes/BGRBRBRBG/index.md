@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/">Orlando Fire Department (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/"><img src="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/sett.png" alt="Orlando Fire Department (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/orlando-fire-department/">Orlando Fire Department</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orlando-fire-department/"><img src="/variants/s9/db12y1r16db1r1db14r3db14y1~x4~db1406275/sett.png" alt="Orlando Fire Department sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

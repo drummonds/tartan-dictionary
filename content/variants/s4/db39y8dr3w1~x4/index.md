@@ -8,10 +8,10 @@ crumbs:
 - name: "Norwich University Regimental"
   url: "/tartans/n/no/norwich-university-regimental/"
 - name: "Norwich University Regimental Tartan"
-  url: "/setts/db39y8dr3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db39y8dr3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/norwich-university-regimental/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBW](/stripes/bgbw/).
 
 Part of the [Norwich University Regimental](/tartans/n/no/norwich-university-regimental/) tartan — the named design grouping this sett with its other cloths.

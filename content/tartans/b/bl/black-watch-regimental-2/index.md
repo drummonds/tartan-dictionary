@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Black"
   url: "/clan/black/"
+aliases:
+- "/setts/db12k1db1k1db1k3g6k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkbkgk/">BKBKBKGK</a></nav>
 A tartan of [Clan Black](/clan/black/).
 Its design is pattern [BKBKBKGK](/stripes/bkbkbkgk/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Black Watch Regimental** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db12k1db1k1db1k3g6k1/">Black Watch Regimental</a></td><td><code>DB/24 K2 DB2 K2 DB2 K6 G12 K/2</code></td><td>78</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db12k1db1k1db1k3g6k1/"><img src="/variants/s8/db12k1db1k1db1k3g6k1~x2/sett.png" alt="Black Watch Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db12k1db1k1db1k3g6k1~x2/">Black Watch Regimental</a></td><td><code>DB/24 K2 DB2 K2 DB2 K6 G12 K/2</code></td><td>78</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db12k1db1k1db1k3g6k1~x2/"><img src="/variants/s8/db12k1db1k1db1k3g6k1~x2/sett.png" alt="Black Watch Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="312.6" cy="155.7" r="4" fill="#3465a4"><title>Auckland</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="350.6" cy="141.0" r="4" fill="#3465a4"><title>Trotter</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="331.1" cy="138.6" r="4" fill="#3465a4"><title>MacArthur Fox</title></circle></a><a href="/variants/s6/k4y18db44k3y10k4/"><circle cx="315.1" cy="170.2" r="4" fill="#3465a4"><title>Stutterheim</title></circle></a><a href="/variants/s9/k2db3g16b1k13b1db18k2db2~x2/"><circle cx="213.7" cy="146.6" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/"><circle cx="336.5" cy="168.7" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/"><circle cx="286.4" cy="181.3" r="4" fill="#3465a4"><title>Vance Corporate</title></circle></a><a href="/variants/s7/k1r1k1db7k1g1k1~x8/"><circle cx="270.8" cy="169.2" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/variants/s5/y8k3db40k15y3~x2/"><circle cx="347.7" cy="187.2" r="4" fill="#3465a4"><title>Wolverine</title></circle></a><a href="/variants/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="345.0" cy="168.6" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><circle cx="303.0" cy="165.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="313.5" cy="155.8" r="4" fill="#3465a4"><title>Auckland</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="351.6" cy="141.2" r="4" fill="#3465a4"><title>Trotter</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="332.1" cy="138.7" r="4" fill="#3465a4"><title>MacArthur Fox</title></circle></a><a href="/variants/s6/k4y18db44k3y10k4/"><circle cx="315.9" cy="170.3" r="4" fill="#3465a4"><title>Stutterheim</title></circle></a><a href="/variants/s9/k2db3g16b1k13b1db18k2db2~x2/"><circle cx="214.3" cy="146.5" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/"><circle cx="337.5" cy="168.9" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/"><circle cx="287.1" cy="181.4" r="4" fill="#3465a4"><title>Vance Corporate</title></circle></a><a href="/variants/s7/k1r1k1db7k1g1k1~x8/"><circle cx="271.6" cy="169.2" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/variants/s5/y8k3db40k15y3~x2/"><circle cx="348.7" cy="187.3" r="4" fill="#3465a4"><title>Wolverine</title></circle></a><a href="/variants/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="346.0" cy="168.8" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><circle cx="303.8" cy="165.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

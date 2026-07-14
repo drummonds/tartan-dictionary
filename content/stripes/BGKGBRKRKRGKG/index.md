@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/">Stewart of Achnacone Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/"><img src="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/sett.png" alt="Stewart of Achnacone Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-achnacone/">Stewart of Achnacone</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-achnacone/"><img src="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/sett.png" alt="Stewart of Achnacone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

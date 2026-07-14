@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/">MacLean of Duart Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><img src="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/sett.png" alt="MacLean of Duart Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g3k6w1k6g2k2g16k1~x2/">MacLean of Duart Hunting Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g3k6w1k6g2k2g16k1~x2/"><img src="/variants/s8/g3k6w1k6g2k2g16k1~x2/sett.png" alt="MacLean of Duart Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean-vs/">MacLean VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-vs/"><img src="/variants/s8/g3k6w1k6g2k2g16k1~x2/sett.png" alt="MacLean VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean-of-duart-hunting/">MacLean of Duart Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-hunting/"><img src="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/sett.png" alt="MacLean of Duart Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

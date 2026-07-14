@@ -10,10 +10,10 @@ crumbs:
 - name: "Lauder Primary School"
   url: "/tartans/l/la/lauder-primary-school/"
 - name: "Lauder Primary School"
-  url: "/setts/y2b9r2db6y1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2b9r2db6y1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lauder-primary-school/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBGR](/stripes/gbrbgr/).
 
 Part of the [Lauder Primary School](/tartans/l/la/lauder-primary-school/) tartan — the named design grouping this sett with its other cloths.

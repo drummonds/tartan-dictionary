@@ -12,10 +12,10 @@ crumbs:
 - name: "Skene of Cromar"
   url: "/tartans/s/sk/skene-of-cromar-3/"
 - name: "Skene of Cromar"
-  url: "/setts/r37db37r2db37g37r37k4r37g37db37r2db37r37k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r37db37r2db37g37r37k4r37g37db37r2db37r37k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sk/skene-of-cromar-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRBGRKRGBRBR](/stripes/krbrbgrkrgbrbr/).
 
 Part of the [Skene of Cromar](/tartans/s/sk/skene-of-cromar-3/) tartan — the named design grouping this sett with its other cloths.

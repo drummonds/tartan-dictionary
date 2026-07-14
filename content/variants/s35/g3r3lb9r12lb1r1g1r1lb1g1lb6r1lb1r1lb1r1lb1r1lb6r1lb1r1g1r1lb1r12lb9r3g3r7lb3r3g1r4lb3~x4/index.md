@@ -12,10 +12,10 @@ crumbs:
 - name: "Murray of Polmaise"
   url: "/tartans/m/mu/murray-of-polmaise/"
 - name: "Murray of Polmaise"
-  url: "/setts/g3r3lb9r12lb1r1g1r1lb1g1lb6r1lb1r1lb1r1lb1r1lb6r1lb1r1g1r1lb1r12lb9r3g3r7lb3r3g1r4lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3r3lb9r12lb1r1g1r1lb1g1lb6r1lb1r1lb1r1lb1r1lb6r1lb1r1g1r1lb1r12lb9r3g3r7lb3r3g1r4lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murray-of-polmaise/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWRWRGRWGWRWRWRWRWRWRGRWRWRGRWRGRW](/stripes/grwrwrgrwgwrwrwrwrwrwrgrwrwrgrwrgrw/).
 
 Part of the [Murray of Polmaise](/tartans/m/mu/murray-of-polmaise/) tartan — the named design grouping this sett with its other cloths.

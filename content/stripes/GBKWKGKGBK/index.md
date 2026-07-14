@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/">Palmer, Arnold</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><img src="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/sett.png" alt="Palmer, Arnold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/palmer-arnold/">Palmer, Arnold</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/palmer-arnold/"><img src="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/sett.png" alt="Palmer, Arnold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

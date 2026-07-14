@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w2dy44db8dy2db2dy3r1~x2/">Reece, Mathew</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w2dy44db8dy2db2dy3r1~x2/"><img src="/variants/s7/w2dy44db8dy2db2dy3r1~x2/sett.png" alt="Reece, Mathew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/reece-mathew/">Reece, Mathew</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/reece-mathew/"><img src="/variants/s7/w2dy44db8dy2db2dy3r1~x2/sett.png" alt="Reece, Mathew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

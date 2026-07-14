@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db6ly2db7g4db3g6db2g4db39y2/"
 ---
-Its design is pattern [BYBGBGBGBGBGBGBGBY](/stripes/bybgbgbgbgbgbgbgby/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bybgbgbgbg/">BYBGBGBGBG</a></nav>
+Its design is pattern [BYBGBGBGBG](/stripes/bybgbgbgbg/) — the page of every tartan sharing this colour sequence.
 
 The **Seletar** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db6ly2db7g4db3g6db2g4db39y2/">Seletar</a></td><td><code>DB/12 LY4 DB14 G8 DB6 G12 DB4 G8 DB78 Y4 DB78 G8 DB4 G12 DB6 G8 DB14 LY/4</code></td><td>284</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db6ly2db7g4db3g6db2g4db39y2/"><img src="/variants/s10/db6ly2db7g4db3g6db2g4db39y2~x2/sett.png" alt="Seletar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db6ly2db7g4db3g6db2g4db39y2~x2/">Seletar</a></td><td><code>DB/12 LY4 DB14 G8 DB6 G12 DB4 G8 DB78 Y/4</code></td><td>284</td><td>2001</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db6ly2db7g4db3g6db2g4db39y2~x2/"><img src="/variants/s10/db6ly2db7g4db3g6db2g4db39y2~x2/sett.png" alt="Seletar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/db48g4db6y2db2lr2db2g10lr6db2lr5~x2/"><circle cx="433.3" cy="119.0" r="4" fill="#3465a4"><title>Damson</title></circle></a><a href="/variants/s8/b48dg6b3dg6b6dg4b2dg10~x2/"><circle cx="561.1" cy="195.3" r="4" fill="#3465a4"><title>Lochleven</title></circle></a><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><circle cx="484.7" cy="193.0" r="4" fill="#3465a4"><title>JetBlue</title></circle></a><a href="/variants/s8/y4db48y4db3y2db3y3w4/"><circle cx="536.8" cy="136.9" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><a href="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/"><circle cx="481.5" cy="139.8" r="4" fill="#3465a4"><title>Aberdeen Mither Kirk</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="158.0" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.8" cy="180.0" r="4" fill="#3465a4"><title>Hoosier</title></circle></a><a href="/variants/s8/w6y3db3y2db3y4db48y4/"><circle cx="507.5" cy="136.1" r="4" fill="#3465a4"><title>Morris</title></circle></a><a href="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/"><circle cx="501.5" cy="150.2" r="4" fill="#3465a4"><title>McCarthy</title></circle></a><a href="/variants/s12/db15g2db2w1db1w1db1w1db2g2db15dr10~x4/"><circle cx="425.3" cy="159.4" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><circle cx="518.0" cy="147.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/db48g4db6y2db2lr2db2g10lr6db2lr5~x2/"><circle cx="434.3" cy="119.1" r="4" fill="#3465a4"><title>Damson</title></circle></a><a href="/variants/s8/b48dg6b3dg6b6dg4b2dg10~x2/"><circle cx="562.2" cy="195.8" r="4" fill="#3465a4"><title>Lochleven</title></circle></a><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><circle cx="485.7" cy="193.3" r="4" fill="#3465a4"><title>JetBlue</title></circle></a><a href="/variants/s8/y4db48y4db3y2db3y3w4/"><circle cx="538.1" cy="137.3" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><a href="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/"><circle cx="482.6" cy="140.1" r="4" fill="#3465a4"><title>Aberdeen Mither Kirk</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="521.1" cy="158.4" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="462.7" cy="180.3" r="4" fill="#3465a4"><title>Hoosier</title></circle></a><a href="/variants/s8/w6y3db3y2db3y4db48y4/"><circle cx="508.8" cy="136.4" r="4" fill="#3465a4"><title>Morris</title></circle></a><a href="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/"><circle cx="502.6" cy="150.5" r="4" fill="#3465a4"><title>McCarthy</title></circle></a><a href="/variants/s12/db15g2db2w1db1w1db1w1db2g2db15dr10~x4/"><circle cx="426.2" cy="159.6" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><circle cx="519.2" cy="147.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

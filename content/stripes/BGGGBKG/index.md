@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr16y2dy7y2t24k2g2~x2/">Traill Clan/Family Weavers Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr16y2dy7y2t24k2g2~x2/"><img src="/variants/s7/dr16y2dy7y2t24k2g2~x2/sett.png" alt="Traill Clan/Family Weavers Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/traill-clan-family-weavers/">Traill Clan/Family Weavers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/traill-clan-family-weavers/"><img src="/variants/s7/dr16y2dy7y2t24k2g2~x2/sett.png" alt="Traill Clan/Family Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

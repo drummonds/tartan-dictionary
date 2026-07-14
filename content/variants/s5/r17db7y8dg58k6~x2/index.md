@@ -8,10 +8,10 @@ crumbs:
 - name: "St Johns County's Sheriff's Office"
   url: "/tartans/s/st/st-johns-county-s-sheriff-s-office/"
 - name: "St Johns County's Sheriff's Office"
-  url: "/setts/r17db7y8dg58k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r17db7y8dg58k6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-johns-county-s-sheriff-s-office/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGBR](/stripes/kggbr/).
 
 Part of the [St Johns County's Sheriff's Office](/tartans/s/st/st-johns-county-s-sheriff-s-office/) tartan — the named design grouping this sett with its other cloths.

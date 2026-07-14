@@ -8,15 +8,15 @@ crumbs:
 - name: "Sabrettes"
   url: "/tartans/s/sa/sabrettes/"
 - name: "Sabrettes"
-  url: "/setts/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWBKWKRKBWKWRWGWRWKWBKRKWKBWKR](/stripes/kwbkwkrkbwkwrwgwrwkwbkrkwkbwkr/).
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sabrettes/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWRWKWBKRKWKBWKR](/stripes/gwrwkwbkrkwkbwkr/).
 
 Part of the [Sabrettes](/tartans/s/sa/sabrettes/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3632](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3632)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3632](ht
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2001 — Sabrettes (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3632">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Corporate tartan for a musical group called the Sabrettes.</em></li>
-<li>pre 2001 — Sabrettes (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2200">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Corporate tartan for a musical group called the Sabrettes. One reference states that it is a London based recording company that uses Scottish musicians.</em></li>
+<li>pre 2001 — Sabrettes (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2200/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Corporate tartan for a musical group called the Sabrettes. One reference states that it is a London based recording company that uses Scottish musicians.</em></li>
 <li>undated — Sabrettes (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#808080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #808080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span></li>
 </ul>
 </details>
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2200
 
 ## Thread count
-R/30 K10 W4 N14 K8 W16 K4 R52 K10 N4 W4 K14 W4 R10 W4 G4 W4 R10 W4 K14 W4 N4 K10 R52 K4 W16 K8 N14 W4 K/10
+R/30 K10 W4 N14 K8 W16 K4 R52 K10 N4 W4 K14 W4 R10 W4 G/4
 
-One full sett is **660 threads**.
+One full sett is **350 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/30 K10 W4 N14 K8 W16 K4 R52 K10 N4 W4 K14 W4 R10 W4 G4 W4 R10 W4 K14 W4 N4 K10 R52 K4 W16 K8 N14 W4 K/10 — 660 threads; it folds to the canonical 350-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **660 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/30 K10 W4 N14 K8 W16 K4 R52 K10 N4 W4 K14 W4 R10 W4 G4 W4 R10 W4 K14 W4 N4 K10 R52 K4 W16 K8 N14 W4 K/10 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/30 K10 W4 N14 K8 W16 K4 R52 K10 N4 W4 K14 W4 R10 W4 G/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

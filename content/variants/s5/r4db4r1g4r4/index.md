@@ -12,10 +12,10 @@ crumbs:
 - name: "Gow"
   url: "/tartans/g/go/gow/"
 - name: "Gow"
-  url: "/setts/r4db4r1g4r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4db4r1g4r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/gow/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGR](/stripes/rbrgr/).
 
 Part of the [Gow](/tartans/g/go/gow/) tartan — the named design grouping this sett with its other cloths.

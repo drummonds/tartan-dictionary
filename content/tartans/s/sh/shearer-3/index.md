@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/shearer/"
 - name: "Shearer"
   url: "/families/shearer/"
+aliases:
+- "/setts/k4n4db32r4b17w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbbrbw/">KBBRBW</a></nav>
 A tartan of the [Shearer](/families/shearer/) family.
 Its design is pattern [KBBRBW](/stripes/kbbrbw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Shearer** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4n4db32r4b17w2/">Shearer</a></td><td><code>K/8 N8 DB64 R8 B34 W/4</code></td><td>240</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4n4db32r4b17w2/"><img src="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/sett.png" alt="Shearer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/">Shearer</a></td><td><code>K/8 N8 DB64 R8 B34 W/4</code></td><td>240</td><td>2016</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><img src="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/sett.png" alt="Shearer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="258.8" cy="156.6" r="4" fill="#3465a4"><title>Margach, William</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="194.7" cy="164.8" r="4" fill="#3465a4"><title>Nicolson of Harris</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="282.6" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="200.9" cy="156.0" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="169.0" cy="139.1" r="4" fill="#3465a4"><title>Dignan Corporate School</title></circle></a><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/"><circle cx="227.8" cy="147.4" r="4" fill="#3465a4"><title>George Heriot's</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="233.5" cy="139.8" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><circle cx="229.2" cy="141.1" r="4" fill="#3465a4"><title>Lambert, Patrice</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="182.8" cy="91.7" r="4" fill="#3465a4"><title>Unidentified Lady's</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="293.3" cy="168.6" r="4" fill="#3465a4"><title>Peterson, Oren</title></circle></a><circle cx="251.3" cy="149.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="259.5" cy="156.5" r="4" fill="#3465a4"><title>Margach, William</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.1" cy="164.6" r="4" fill="#3465a4"><title>Nicolson of Harris</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="283.4" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="201.5" cy="155.8" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="169.4" cy="138.8" r="4" fill="#3465a4"><title>Dignan Corporate School</title></circle></a><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/"><circle cx="228.2" cy="147.2" r="4" fill="#3465a4"><title>George Heriot's</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="234.2" cy="139.7" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><circle cx="229.8" cy="140.9" r="4" fill="#3465a4"><title>Lambert, Patrice</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="183.5" cy="91.4" r="4" fill="#3465a4"><title>Unidentified Lady's</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="293.8" cy="168.5" r="4" fill="#3465a4"><title>Peterson, Oren</title></circle></a><circle cx="251.9" cy="149.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

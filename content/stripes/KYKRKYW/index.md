@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k5ly25k10r3k10ly25w5~x2/">Richmond de Ellel (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k5ly25k10r3k10ly25w5~x2/"><img src="/variants/s7/k5ly25k10r3k10ly25w5~x2/sett.png" alt="Richmond de Ellel (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/richmond-de-ellel/">Richmond de Ellel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/richmond-de-ellel/"><img src="/variants/s7/k5ly25k10r3k10ly25w5~x2/sett.png" alt="Richmond de Ellel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

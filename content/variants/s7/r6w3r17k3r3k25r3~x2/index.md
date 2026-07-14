@@ -8,10 +8,10 @@ crumbs:
 - name: "Bon Accord"
   url: "/tartans/b/bo/bon-accord-2/"
 - name: "Bon Accord"
-  url: "/setts/r6w3r17k3r3k25r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6w3r17k3r3k25r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bon-accord-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRWR](/stripes/rkrkrwr/).
 
 Part of the [Bon Accord](/tartans/b/bo/bon-accord-2/) tartan — the named design grouping this sett with its other cloths.

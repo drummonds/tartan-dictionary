@@ -8,10 +8,10 @@ crumbs:
 - name: "Monroig, Eric"
   url: "/tartans/m/mo/monroig-eric/"
 - name: "Monroig, Eric (Personal)"
-  url: "/setts/r2db2g16y1db6r1y1r1db6y1g16y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2db2g16y1db6r1y1r1db6y1g16y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/monroig-eric/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGBRGRBGGBR](/stripes/gggbrgrbggbr/).
 
 Part of the [Monroig, Eric](/tartans/m/mo/monroig-eric/) tartan — the named design grouping this sett with its other cloths.

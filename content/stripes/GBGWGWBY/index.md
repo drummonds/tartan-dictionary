@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y3db34dg5w2dg2w10db4lo3~x2/">Royal Troon Golf Club, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y3db34dg5w2dg2w10db4lo3~x2/"><img src="/variants/s8/y3db34dg5w2dg2w10db4lo3~x2/sett.png" alt="Royal Troon Golf Club, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/">Royal Troon Golf Club, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/"><img src="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/sett.png" alt="Royal Troon Golf Club, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-troon-golf-club-the/">Royal Troon Golf Club, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-troon-golf-club-the/"><img src="/variants/s8/y3db34dg5w2dg2w10db4lo3~x2/sett.png" alt="Royal Troon Golf Club, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

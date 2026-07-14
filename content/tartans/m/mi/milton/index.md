@@ -4,16 +4,22 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g8r3g4k6g9dp2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgkgrg/">BGKGRG</a></nav>
 Its design is pattern [BGKGRG](/stripes/bgkgrg/) — the page of every tartan sharing this colour sequence.
 
-The **Milton** tartan is recorded as a single sett.
+The **Milton** tartan is one sett, recorded at 2 scales — the same proportion woven
+finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g8r3g4k6g9dp2/">Milton</a></td><td><code>G/16 R6 G8 K12 G18 DP/4</code></td><td>108</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8r3g4k6g9dp2/"><img src="/variants/s6/g8r3g4k6g9dp2~x2/sett.png" alt="Milton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g8r3g4k6g9dp2~x2/">Milton</a></td><td><code>G/8 R3 G4 K6 G9 DP/2</code></td><td>54</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g8r3g4k6g9dp2~x2/"><img src="/variants/s6/g8r3g4k6g9dp2~x2/sett.png" alt="Milton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/g8r3g4k6g9dp2~x2/">Milton</a></td><td><code>G/16 R6 G8 K12 G18 DP/4</code></td><td>108</td><td>2002</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/g8r3g4k6g9dp2~x4/">(Name?)</a></td><td><code>G/32 R12 G16 K24 G36 DP/8</code></td><td>216</td><td>~2002</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/g8r3g4k6g9dp2~x2/">Milton</a> · <a href="/variants/s6/g8r3g4k6g9dp2~x4/">(Name?)</a></td></tr>
 </tbody>
 </table>
@@ -27,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g9lb1g2k4g2~x4/"><circle cx="373.0" cy="211.0" r="4" fill="#3465a4"><title>Peterhead</title></circle></a><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="280.7" cy="175.1" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/variants/s7/r20g29db10g16r6g10k19~x2/"><circle cx="157.5" cy="248.1" r="4" fill="#3465a4"><title>MacDonagh</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="273.0" cy="210.3" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/variants/s7/g24r4g3k14g5r2g10~x2/"><circle cx="344.4" cy="184.0" r="4" fill="#3465a4"><title>Northcroft</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="348.0" cy="254.9" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s7/r35g52db18g17r12g17k18/"><circle cx="178.9" cy="243.8" r="4" fill="#3465a4"><title>MacDona</title></circle></a><a href="/variants/s4/g4k5g4r2~x2/"><circle cx="174.2" cy="327.7" r="4" fill="#3465a4"><title>Wilson's No.094</title></circle></a><a href="/variants/s7/g20dp2g3dp2g14k18g4~x2/"><circle cx="326.0" cy="191.6" r="4" fill="#3465a4"><title>Pringle, James</title></circle></a><a href="/variants/s6/dg20r8dg20y8g20k5~x2/"><circle cx="184.6" cy="272.9" r="4" fill="#3465a4"><title>Cates Armigers</title></circle></a><circle cx="255.3" cy="253.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g9lb1g2k4g2~x4/"><circle cx="374.0" cy="211.4" r="4" fill="#3465a4"><title>Peterhead</title></circle></a><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="281.5" cy="175.2" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/variants/s7/r20g29db10g16r6g10k19~x2/"><circle cx="157.8" cy="248.0" r="4" fill="#3465a4"><title>MacDonagh</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="273.6" cy="210.4" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/variants/s7/g24r4g3k14g5r2g10~x2/"><circle cx="345.3" cy="184.3" r="4" fill="#3465a4"><title>Northcroft</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="348.8" cy="255.2" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s7/r35g52db18g17r12g17k18/"><circle cx="179.2" cy="243.8" r="4" fill="#3465a4"><title>MacDona</title></circle></a><a href="/variants/s4/g4k5g4r2~x2/"><circle cx="174.5" cy="327.7" r="4" fill="#3465a4"><title>Wilson's No.094</title></circle></a><a href="/variants/s7/g20dp2g3dp2g14k18g4~x2/"><circle cx="326.9" cy="191.8" r="4" fill="#3465a4"><title>Pringle, James</title></circle></a><a href="/variants/s6/dg20r8dg20y8g20k5~x2/"><circle cx="184.7" cy="272.8" r="4" fill="#3465a4"><title>Cates Armigers</title></circle></a><circle cx="255.9" cy="253.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

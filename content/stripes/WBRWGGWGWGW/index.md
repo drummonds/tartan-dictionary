@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/lb20dp4r4w4g4y4lb4y1lb2y1lb20/">Yukon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/lb20dp4r4w4g4y4lb4y1lb2y1lb20/"><img src="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4~r2109032-g2408144/sett.png" alt="Yukon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yu/yukon/">Yukon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yu/yukon/"><img src="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4~r2109032-g2408144/sett.png" alt="Yukon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

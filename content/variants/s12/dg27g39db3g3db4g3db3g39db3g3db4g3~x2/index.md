@@ -12,10 +12,10 @@ crumbs:
 - name: "Montgomerie"
   url: "/tartans/m/mo/montgomerie/"
 - name: "Montgomerie Artifact Tartan"
-  url: "/setts/dg27g39db3g3db4g3db3g39db3g3db4g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg27g39db3g3db4g3db3g39db3g3db4g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/montgomerie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGBGBGG](/stripes/gbgbgbgbgbgg/).
 
 Part of the [Montgomerie](/tartans/m/mo/montgomerie/) tartan — the named design grouping this sett with its other cloths.

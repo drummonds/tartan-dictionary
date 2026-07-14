@@ -10,10 +10,10 @@ crumbs:
 - name: "Edinburgh International Conference Centre"
   url: "/tartans/e/ed/edinburgh-international-conference-centre/"
 - name: "Edinburgh International Conference Centre"
-  url: "/setts/o4db19o3k20oi24db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o4db19o3k20oi24db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-international-conference-centre/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRBR](/stripes/brkrbr/).
 
 Part of the [Edinburgh International Conference Centre](/tartans/e/ed/edinburgh-international-conference-centre/) tartan — the named design grouping this sett with its other cloths.

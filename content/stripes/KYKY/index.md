@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/k5lo1k1~x20/">Justus #2 (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k5lo1k1~x20/"><img src="/variants/s3/k5lo1k1~x20/sett.png" alt="Justus #2 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/justus-3/">Justus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/justus-3/"><img src="/variants/s4/k5lo1k1lo1~x20/sett.png" alt="Justus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/k34ly3k34ly26~x2/">Raeburn (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k34ly3k34ly26~x2/"><img src="/variants/s4/k34ly3k34ly26~x2/sett.png" alt="Raeburn (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/raeburn/">Raeburn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/raeburn/"><img src="/variants/s4/k34ly3k34ly26~x2/sett.png" alt="Raeburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

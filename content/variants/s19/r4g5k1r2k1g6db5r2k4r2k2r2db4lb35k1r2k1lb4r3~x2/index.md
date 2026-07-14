@@ -12,10 +12,10 @@ crumbs:
 - name: "Taggart"
   url: "/tartans/t/ta/taggart/"
 - name: "Taggart"
-  url: "/setts/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ta/taggart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKRKGBRKRKRBWKRKWR](/stripes/rgkrkgbrkrkrbwkrkwr/).
 
 Part of the [Taggart](/tartans/t/ta/taggart/) tartan — the named design grouping this sett with its other cloths.

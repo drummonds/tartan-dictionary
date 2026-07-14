@@ -8,10 +8,10 @@ crumbs:
 - name: "Intelligent Finance"
   url: "/tartans/i/in/intelligent-finance-2/"
 - name: "Intelligent Finance"
-  url: "/setts/n5dp40n5lb5n32lb5n5lb40dp7w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n5dp40n5lb5n32lb5n5lb40dp7w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/intelligent-finance-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBWBWBW](/stripes/bbbwbwbwbw/).
 
 Part of the [Intelligent Finance](/tartans/i/in/intelligent-finance-2/) tartan — the named design grouping this sett with its other cloths.

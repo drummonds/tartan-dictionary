@@ -8,10 +8,10 @@ crumbs:
 - name: "Bradwell, Amy"
   url: "/tartans/b/br/bradwell-amy/"
 - name: "Bradwell, Carl (Personal)"
-  url: "/setts/r4n3dr2w4dr2w3dr4w3dr6w2dr8w2dr6w2db4y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4n3dr2w4dr2w3dr4w3dr6w2dr8w2dr6w2db4y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bradwell-amy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBWBWBWBWBWBBR](/stripes/gbwbwbwbwbwbwbbr/).
 
 Part of the [Bradwell, Amy](/tartans/b/br/bradwell-amy/) tartan — the named design grouping this sett with its other cloths.

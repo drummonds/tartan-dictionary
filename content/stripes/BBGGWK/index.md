@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/">Lethcoe (Thousand Oaks) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/"><img src="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/sett.png" alt="Lethcoe (Thousand Oaks) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lethcoe/">Lethcoe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lethcoe/"><img src="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/sett.png" alt="Lethcoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

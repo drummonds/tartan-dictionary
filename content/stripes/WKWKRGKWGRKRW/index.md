@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w3r6k3r8dg20w3k4y3r12k12lb21k3lb3~x2/">Dykes, of Perthshire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w3r6k3r8dg20w3k4y3r12k12lb21k3lb3~x2/"><img src="/variants/s13/w3r6k3r8dg20w3k4y3r12k12lb21k3lb3~x2/sett.png" alt="Dykes, of Perthshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dy/dykes-of-perthshire/">Dykes of Perthshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dy/dykes-of-perthshire/"><img src="/variants/s13/w3r6k3r8dg20w3k4y3r12k12lb21k3lb3~x2/sett.png" alt="Dykes of Perthshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

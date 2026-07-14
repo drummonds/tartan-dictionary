@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/y1r2k4r14g8r2g3y1g3r2g8r13k2r2k2r1y1~x2/">Gaffney (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/y1r2k4r14g8r2g3y1g3r2g8r13k2r2k2r1y1~x2/"><img src="/variants/s17/y1r2k4r14g8r2g3y1g3r2g8r13k2r2k2r1y1~x2/sett.png" alt="Gaffney (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gaffney/">Gaffney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gaffney/"><img src="/variants/s17/y1r2k4r14g8r2g3y1g3r2g8r13k2r2k2r1y1~x2/sett.png" alt="Gaffney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

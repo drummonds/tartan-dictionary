@@ -8,10 +8,10 @@ crumbs:
 - name: "Groen"
   url: "/tartans/g/gr/groen/"
 - name: "Groen (Personal)"
-  url: "/setts/lb12r2lb3r4lb15k24dg18y1k3dg3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb12r2lb3r4lb15k24dg18y1k3dg3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/groen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKGGKWRWRW](/stripes/wgkggkwrwrw/).
 
 Part of the [Groen](/tartans/g/gr/groen/) tartan — the named design grouping this sett with its other cloths.

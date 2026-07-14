@@ -8,10 +8,10 @@ crumbs:
 - name: "Lanoir"
   url: "/tartans/l/la/lanoir/"
 - name: "Lanoir"
-  url: "/setts/k4r4k20r1k20w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4r4k20r1k20w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lanoir/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKW](/stripes/krkrkw/).
 
 Part of the [Lanoir](/tartans/l/la/lanoir/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2047](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Lanoir (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2047">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection which states 'Highland Queen pattern page. Too small to see'. Then there is also a sample woven by WCWM dated 1973. From Highland Queen Sportswear of 196 Spadina Avenue, Toronto in 1972.</em></li>
-<li>pre 1972 — Lanoir (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5385">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Asymmetric. Sample in STA's Johnston Collection which states 'Highland Queen pattern page. Too small to see'. Then there is also a sample woven by WCWM dated 1973. From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972.</em></li>
+<li>pre 1972 — Lanoir (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5385/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Asymmetric. Sample in STA's Johnston Collection which states 'Highland Queen pattern page. Too small to see'. Then there is also a sample woven by WCWM dated 1973. From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972.</em></li>
 </ul>
 </details>
 

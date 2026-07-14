@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/">Sutherland Dress, Old (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><img src="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/sett.png" alt="Sutherland Dress, Old (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/">Sutherland, Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><img src="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/sett.png" alt="Sutherland, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/sutherland-dress/">Sutherland Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sutherland-dress/"><img src="/variants/s12/w6g2w28k13t6k4t4k4t16r2t2r4~x2/sett.png" alt="Sutherland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/sutherland-dress-old/">Sutherland Dress, Old</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sutherland-dress-old/"><img src="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/sett.png" alt="Sutherland Dress, Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

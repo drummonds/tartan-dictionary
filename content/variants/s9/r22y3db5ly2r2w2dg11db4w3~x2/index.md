@@ -8,15 +8,15 @@ crumbs:
 - name: "Norwich No.014"
   url: "/tartans/n/no/norwich-no-014/"
 - name: "Norwich No.014"
-  url: "/setts/r22y3db5ly2r2w2dg11db4w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r22y3db5ly2r2w2dg11db4w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GBYRWGBWBGWRYBGR](/stripes/gbyrwgbwbgwrybgr/).
+provenance below. It is one weaving of the [sett](/tartans/n/no/norwich-no-014/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGBYRWGBW](/stripes/rgbyrwgbw/).
 
 Part of the [Norwich No.014](/tartans/n/no/norwich-no-014/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3172](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3172)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5578
 
 ## Thread count
-R/44 Y6 DB10 LY4 R4 W4 DG22 DB8 W6 DB8 DG22 W4 R4 LY4 DB10 Y/6
+R/44 Y6 DB10 LY4 R4 W4 DG22 DB8 W/6
 
-One full sett is **282 threads**.
+One full sett is **166 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/44 Y6 DB10 LY4 R4 W4 DG22 DB8 W6 DB8 DG22 W4 R4 LY4 DB10 Y/6 — 282 threads; it folds to the canonical 166-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **282 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/44 Y6 DB10 LY4 R4 W4 DG22 DB8 W6 DB8 DG22 W4 R4 LY4 DB10 Y/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/44 Y6 DB10 LY4 R4 W4 DG22 DB8 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Maple Leaf Dress"
   url: "/tartans/m/ma/maple-leaf-dress/"
 - name: "Maple Leaf Dress (Lumsden)"
-  url: "/setts/r1dg1r6g5r6dg1r1dg9ly3g3do3dg9r1dg1r6dgi5r6dg1r1w1r1w12g1w12r1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1dg1r6g5r6dg1r1dg9ly3g3do3dg9r1dg1r6dgi5r6dg1r1w1r1w12g1w12r1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maple-leaf-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRGRGYGBGRGRGRGRWRWGWRW](/stripes/rgrgrgrgygbgrgrgrgrwrwgwrw/).
 
 Part of the [Maple Leaf Dress](/tartans/m/ma/maple-leaf-dress/) tartan — the named design grouping this sett with its other cloths.

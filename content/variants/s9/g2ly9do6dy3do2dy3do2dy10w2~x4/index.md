@@ -8,10 +8,10 @@ crumbs:
 - name: "Tinkler, Andrew"
   url: "/tartans/t/ti/tinkler-andrew/"
 - name: "Tinkler, Andrew (Stobart Group)"
-  url: "/setts/g2ly9do6dy3do2dy3do2dy10w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2ly9do6dy3do2dy3do2dy10w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ti/tinkler-andrew/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYBGBGBGW](/stripes/gybgbgbgw/).
 
 Part of the [Tinkler, Andrew](/tartans/t/ti/tinkler-andrew/) tartan — the named design grouping this sett with its other cloths.

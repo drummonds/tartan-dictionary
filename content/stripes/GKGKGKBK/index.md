@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k1db5k4g3k1g3k6g1~x4/">Keith McCormick (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k1db5k4g3k1g3k6g1~x4/"><img src="/variants/s8/k1db5k4g3k1g3k6g1~x4/sett.png" alt="Keith McCormick (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/keith-mccormick/">Keith McCormick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/keith-mccormick/"><img src="/variants/s8/k1db5k4g3k1g3k6g1~x4/sett.png" alt="Keith McCormick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

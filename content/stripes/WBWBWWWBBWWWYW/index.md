@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/">MacHinery Dress (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/"><img src="/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/sett.png" alt="MacHinery Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/machinery-dress/">MacHinery Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/machinery-dress/"><img src="/variants/s14/lb6ly2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/sett.png" alt="MacHinery Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

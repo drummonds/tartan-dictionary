@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/">Spirit of South Korea</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/"><img src="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/sett.png" alt="Spirit of South Korea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-south-korea/">Spirit of South Korea</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-south-korea/"><img src="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/sett.png" alt="Spirit of South Korea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

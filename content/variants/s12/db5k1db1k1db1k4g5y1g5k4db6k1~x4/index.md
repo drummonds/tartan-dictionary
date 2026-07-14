@@ -12,10 +12,10 @@ crumbs:
 - name: "Gordon"
   url: "/tartans/g/go/gordon-2/"
 - name: "Gordon"
-  url: "/setts/db5k1db1k1db1k4g5y1g5k4db6k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5k1db1k1db1k4g5y1g5k4db6k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/gordon-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGGGKBK](/stripes/bkbkbkgggkbk/).
 
 Part of the [Gordon](/tartans/g/go/gordon-2/) tartan — the named design grouping this sett with its other cloths.

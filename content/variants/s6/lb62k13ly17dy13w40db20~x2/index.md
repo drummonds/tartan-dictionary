@@ -8,10 +8,10 @@ crumbs:
 - name: "MacGregor-Ryan"
   url: "/tartans/m/ma/macgregor-ryan/"
 - name: "MacGregor-Ryan (Personal)"
-  url: "/setts/lb62k13ly17dy13w40db20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb62k13ly17dy13w40db20/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-ryan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGYKW](/stripes/bwgykw/).
 
 Part of the [MacGregor-Ryan](/tartans/m/ma/macgregor-ryan/) tartan — the named design grouping this sett with its other cloths.

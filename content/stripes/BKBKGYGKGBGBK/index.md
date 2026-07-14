@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2t1g6t2g2k4g5ly1g5k4db4k2db2~x4/">Gordon Dress (US Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2t1g6t2g2k4g5ly1g5k4db4k2db2~x4/"><img src="/variants/s13/k2t1g6t2g2k4g5ly1g5k4db4k2db2~x4/sett.png" alt="Gordon Dress (US Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gordon-dress-7/">Gordon Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gordon-dress-7/"><img src="/variants/s13/k2t1g6t2g2k4g5ly1g5k4db4k2db2~x4/sett.png" alt="Gordon Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

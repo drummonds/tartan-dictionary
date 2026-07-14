@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/">Scottish Women's Rural Institutes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><img src="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/sett.png" alt="Scottish Women's Rural Institutes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-women-s-rural-institutes/">Scottish Women's Rural Institutes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-women-s-rural-institutes/"><img src="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/sett.png" alt="Scottish Women's Rural Institutes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

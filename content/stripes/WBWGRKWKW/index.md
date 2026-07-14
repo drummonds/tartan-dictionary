@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/">Wiegratz Alba (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><img src="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/sett.png" alt="Wiegratz Alba (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wiegratz-alba/">Wiegratz Alba</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wiegratz-alba/"><img src="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/sett.png" alt="Wiegratz Alba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

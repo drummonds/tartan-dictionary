@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/y40db8k20g11~x2/">Brun, Pierre Emmanuel (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/y40db8k20g11~x2/"><img src="/variants/s4/y40db8k20g11~x2/sett.png" alt="Brun, Pierre Emmanuel (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brun-pierre-emmanuel/">Brun, Pierre Emmanuel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brun-pierre-emmanuel/"><img src="/variants/s4/y40db8k20g11~x2/sett.png" alt="Brun, Pierre Emmanuel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/g10k2dp5g1~x8/">Bumbee #1 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g10k2dp5g1~x8/"><img src="/variants/s4/g10k2dp5g1~x8/sett.png" alt="Bumbee #1 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/bumbee-2/">Bumbee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/bumbee-2/"><img src="/variants/s4/g10k2dp5g1~x8/sett.png" alt="Bumbee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

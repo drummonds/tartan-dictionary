@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/">Sawyer</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><img src="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/sett.png" alt="Sawyer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sawyer/">Sawyer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sawyer/"><img src="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/sett.png" alt="Sawyer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

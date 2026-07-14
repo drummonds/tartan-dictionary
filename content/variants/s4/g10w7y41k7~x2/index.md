@@ -12,10 +12,10 @@ crumbs:
 - name: "Hogan"
   url: "/tartans/h/ho/hogan-3/"
 - name: "Hogan (2014)"
-  url: "/setts/g10w7y41k7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g10w7y41k7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hogan-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGK](/stripes/gwgk/).
 
 Part of the [Hogan](/tartans/h/ho/hogan-3/) tartan — the named design grouping this sett with its other cloths.

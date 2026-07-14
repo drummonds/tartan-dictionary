@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/">Spanish shirt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><img src="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/sett.png" alt="Spanish shirt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spanish-shirt/">Spanish shirt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spanish-shirt/"><img src="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/sett.png" alt="Spanish shirt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

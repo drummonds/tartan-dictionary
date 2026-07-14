@@ -8,10 +8,10 @@ crumbs:
 - name: "Ladybird"
   url: "/tartans/l/la/ladybird/"
 - name: "Ladybird (Personal)"
-  url: "/setts/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/ladybird/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBGBGBRBRBRBR](/stripes/brgbgbgbrbrbrbr/).
 
 Part of the [Ladybird](/tartans/l/la/ladybird/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2022](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/1997 — Ladybird (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2022">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed in 1997 by Dawn Robson-Bell of Lochcarron for The Check Trading Co, Tokyo. Based on Carrick. Colours need adjustment. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>1997 — Ladybird (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2371">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed in May 1997 by Dawn Robson-Bell of Lochcarron for The Check Trading Co, Tokyo. Based on Carrick. Colours need adjustment. Sample in STA's Johnston Collection.</em></li>
+<li>1997 — Ladybird (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2371/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed in May 1997 by Dawn Robson-Bell of Lochcarron for The Check Trading Co, Tokyo. Based on Carrick. Colours need adjustment. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

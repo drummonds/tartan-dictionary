@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db38r5k5g5w5y5db5r5w5~x2/">Eljamel, Sam (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db38r5k5g5w5y5db5r5w5~x2/"><img src="/variants/s9/db38r5k5g5w5y5db5r5w5~x2/sett.png" alt="Eljamel, Sam (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/eljamel-sam/">Eljamel, Sam</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/eljamel-sam/"><img src="/variants/s9/db38r5k5g5w5y5db5r5w5~x2/sett.png" alt="Eljamel, Sam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

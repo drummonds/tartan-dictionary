@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/lb15do15lb15do80r6/">Coca Cola (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lb15do15lb15do80r6/"><img src="/variants/s5/lb15do15lb15do80r6/sett.png" alt="Coca Cola (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coca-cola-2/">Coca Cola</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coca-cola-2/"><img src="/variants/s5/lb15do15lb15do80r6/sett.png" alt="Coca Cola sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

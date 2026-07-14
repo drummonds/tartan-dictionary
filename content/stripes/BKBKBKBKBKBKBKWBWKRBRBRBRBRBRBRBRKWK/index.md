@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/">Quebec, Centennial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/"><img src="/variants/s36/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/sett.png" alt="Quebec, Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/quebec-centennial-2/">Quebec, Centennial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/quebec-centennial-2/"><img src="/variants/s36/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/sett.png" alt="Quebec, Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

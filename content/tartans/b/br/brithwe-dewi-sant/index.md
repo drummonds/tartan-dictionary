@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg30r2dg8r1dg5w2dg5r1dg8r2dg30/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgrgwgrgrg/">GRGRGWGRGRG</a></nav>
 Its design is pattern [GRGRGWGRGRG](/stripes/grgrgwgrgrg/) — the page of every tartan sharing this colour sequence.
 
 The **Brithwe Dewi Sant** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Brithwe Dewi Sant** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg30r2dg8r1dg5w2dg5r1dg8r2dg30/">Brithwe Dewi Sant</a></td><td><code>DG/30 R2 DG8 R1 DG5 W2 DG5 R1 DG8 R2 DG/30</code></td><td>128</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg30r2dg8r1dg5w2dg5r1dg8r2dg30/"><img src="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/sett.png" alt="Brithwe Dewi Sant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/">Brithwe Dewi Sant</a></td><td><code>DG/30 R2 DG8 R1 DG5 W2 DG5 R1 DG8 R2 DG/30</code></td><td>128</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/"><img src="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/sett.png" alt="Brithwe Dewi Sant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2~x2/"><circle cx="568.2" cy="120.3" r="4" fill="#3465a4"><title>Women's Royal Army Corps Ass. (Corp.</title></circle></a><a href="/variants/s13/w3dg35db3dg2db3dg10dr3dg2dr3dg2dr3dg10y2~x2/"><circle cx="514.6" cy="150.4" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/"><circle cx="616.0" cy="159.5" r="4" fill="#3465a4"><title>Holmston Primary</title></circle></a><a href="/variants/s10/g3db2g40db1g2db1g9dr4g3dr2~x4/"><circle cx="626.0" cy="145.0" r="4" fill="#3465a4"><title>Braveheart -Warrior</title></circle></a><a href="/variants/s6/dg60r2dg8r1dg5w2/"><circle cx="626.0" cy="117.5" r="4" fill="#3465a4"><title>St. David's</title></circle></a><circle cx="626.0" cy="132.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2~x2/"><circle cx="569.6" cy="120.9" r="4" fill="#3465a4"><title>Women's Royal Army Corps Ass. (Corp.</title></circle></a><a href="/variants/s13/w3dg35db3dg2db3dg10dr3dg2dr3dg2dr3dg10y2~x2/"><circle cx="515.6" cy="150.8" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/"><circle cx="617.2" cy="160.1" r="4" fill="#3465a4"><title>Holmston Primary</title></circle></a><a href="/variants/s10/g3db2g40db1g2db1g9dr4g3dr2~x4/"><circle cx="626.0" cy="145.7" r="4" fill="#3465a4"><title>Braveheart -Warrior</title></circle></a><a href="/variants/s6/dg60r2dg8r1dg5w2/"><circle cx="626.0" cy="118.3" r="4" fill="#3465a4"><title>St. David's</title></circle></a><circle cx="626.0" cy="133.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/">Celtic Nations (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><img src="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/sett.png" alt="Celtic Nations (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/celtic-nations/">Celtic Nations</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/celtic-nations/"><img src="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/sett.png" alt="Celtic Nations sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

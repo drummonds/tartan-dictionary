@@ -8,10 +8,10 @@ crumbs:
 - name: "Dublin Irish County"
   url: "/tartans/d/du/dublin-irish-county/"
 - name: "Dublin Irish County Tartan"
-  url: "/setts/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dublin-irish-county/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBYRYRYRY](/stripes/bybybyryryry/).
 
 Part of the [Dublin Irish County](/tartans/d/du/dublin-irish-county/) tartan — the named design grouping this sett with its other cloths.

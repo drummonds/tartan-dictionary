@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y8k4n39k37db36k6db7/">Oceanic (Corporate?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y8k4n39k37db36k6db7/"><img src="/variants/s7/y8k4n39k37db36k6db7/sett.png" alt="Oceanic (Corporate?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/oc/oceanic/">Oceanic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/oc/oceanic/"><img src="/variants/s7/y8k4n39k37db36k6db7/sett.png" alt="Oceanic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

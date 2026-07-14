@@ -12,15 +12,15 @@ crumbs:
 - name: "Hay, White Dress"
   url: "/tartans/h/ha/hay-white-dress/"
 - name: "Hay, White Dress"
-  url: "/setts/r3g2y2g14r2g3r2g3w17g2w2k2r2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3g2y2g14r2g3r2g3w17g2w2k2r2w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGGRGRGWGWKRWRKWGWGRGRGGGR](/stripes/gggrgrgwgwkrwrkwgwgrgrgggr/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hay-white-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGGGRGRGWGWKRW](/stripes/rgggrgrgwgwkrw/).
 
 Part of the [Hay, White Dress](/tartans/h/ha/hay-white-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1635](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1635)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1556
 
 ## Thread count
-R/6 G4 Y4 G28 R4 G6 R4 G6 W34 G4 W4 K4 R4 W6 R4 K4 W4 G4 W34 G6 R4 G6 R4 G28 Y4 G/4
+R/6 G4 Y4 G28 R4 G6 R4 G6 W34 G4 W4 K4 R4 W/6
 
-One full sett is **438 threads**.
+One full sett is **224 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/6 G4 Y4 G28 R4 G6 R4 G6 W34 G4 W4 K4 R4 W6 R4 K4 W4 G4 W34 G6 R4 G6 R4 G28 Y4 G/4 — 438 threads; it folds to the canonical 224-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **438 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 G4 Y4 G28 R4 G6 R4 G6 W34 G4 W4 K4 R4 W6 R4 K4 W4 G4 W34 G6 R4 G6 R4 G28 Y4 G/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 G4 Y4 G28 R4 G6 R4 G6 W34 G4 W4 K4 R4 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

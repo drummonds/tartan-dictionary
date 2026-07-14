@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/borthwick/"
 - name: "Borthwick"
   url: "/families/borthwick/"
+aliases:
+- "/setts/g12k2r12k3w7k16w7k3w6/"
+- "/setts/g7k1dr8k2w7k10w7k2w4/"
+- "/setts/g7k1r7k1w7k10w7k2w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkrkwkwkw/">GKRKWKWKW</a></nav>
 A tartan of the [Borthwick](/families/borthwick/) family.
 Its design is pattern [GKRKWKWKW](/stripes/gkrkwkwkw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,12 +23,12 @@ The **Borthwick Dress** tartan groups 3 setts — the same named design recorded
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g12k2r12k3w7k16w7k3w6/">Borthwick Dress</a> ★</td><td><code>G/24 K4 R24 K6 W14 K32 W14 K6 W/12</code></td><td>236</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g12k2r12k3w7k16w7k3w6/"><img src="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/sett.png" alt="Borthwick Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g7k1dr8k2w7k10w7k2w4/">(Clan)</a></td><td><code>G/28 K4 DR32 K8 W28 K40 W28 K8 W/16</code></td><td>340</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g7k1dr8k2w7k10w7k2w4/"><img src="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g7k1r7k1w7k10w7k2w4/">Borthwick, dress</a></td><td><code>G/14 K2 R14 K2 W14 K20 W14 K4 W/8</code></td><td>162</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g7k1r7k1w7k10w7k2w4/"><img src="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/sett.png" alt="Borthwick, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/">Borthwick Dress</a> ★</td><td><code>G/24 K4 R24 K6 W14 K32 W14 K6 W/12</code></td><td>236</td><td>1975</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/"><img src="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/sett.png" alt="Borthwick Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/">(Clan)</a></td><td><code>G/28 K4 DR32 K8 W28 K40 W28 K8 W/16</code></td><td>340</td><td>1975</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/"><img src="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/">Borthwick, dress</a></td><td><code>G/14 K2 R14 K2 W14 K20 W14 K4 W/8</code></td><td>162</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/"><img src="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/sett.png" alt="Borthwick, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -43,6 +48,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="97.1" cy="208.2" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/"><circle cx="120.0" cy="180.1" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><circle cx="90.0" cy="199.6" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="108.5" cy="191.2" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s6/r6k14r6g14w27k4/"><circle cx="105.9" cy="210.5" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><a href="/variants/s7/w8k2n12k11w1dr6n4~x2/"><circle cx="129.6" cy="192.6" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="111.8" cy="191.0" r="4" fill="#3465a4"><title>Holden</title></circle></a><a href="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/"><circle cx="110.0" cy="179.5" r="4" fill="#3465a4"><title>Poulter</title></circle></a><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="140.2" cy="163.0" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><a href="/variants/s8/k3g2k10w11g1dy10g2dy3~x6~w3600000/"><circle cx="110.3" cy="178.7" r="4" fill="#3465a4"><title>Dalveen</title></circle></a><circle cx="87.3" cy="194.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="97.3" cy="207.9" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/"><circle cx="120.3" cy="179.9" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><circle cx="90.2" cy="199.3" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="108.8" cy="191.0" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s6/r6k14r6g14w27k4/"><circle cx="106.1" cy="210.2" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><a href="/variants/s7/w8k2n12k11w1dr6n4~x2/"><circle cx="129.9" cy="192.4" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="112.1" cy="190.7" r="4" fill="#3465a4"><title>Holden</title></circle></a><a href="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/"><circle cx="110.3" cy="179.2" r="4" fill="#3465a4"><title>Poulter</title></circle></a><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="140.6" cy="162.7" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><a href="/variants/s8/k3g2k10w11g1dy10g2dy3~x6~w3600000/"><circle cx="110.6" cy="178.4" r="4" fill="#3465a4"><title>Dalveen</title></circle></a><circle cx="87.5" cy="193.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

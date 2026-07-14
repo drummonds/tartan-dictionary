@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w4k26lb26k2lb5w2~x2/">Indian Pipe Band (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><img src="/variants/s6/w4k26lb26k2lb5w2~x2/sett.png" alt="Indian Pipe Band (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/indian-pipe-band/">Indian Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/indian-pipe-band/"><img src="/variants/s6/w4k26lb26k2lb5w2~x2/sett.png" alt="Indian Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Way of the Rainbow"
   url: "/tartans/w/wa/way-of-the-rainbow/"
 - name: "Way of the Rainbow"
-  url: "/setts/k1db24r1lo1y1g1dbi1dp1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1db24r1lo1y1g1dbi1dp1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/way-of-the-rainbow/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGGYRBK](/stripes/bbggyrbk/).
 
 Part of the [Way of the Rainbow](/tartans/w/wa/way-of-the-rainbow/) tartan — the named design grouping this sett with its other cloths.

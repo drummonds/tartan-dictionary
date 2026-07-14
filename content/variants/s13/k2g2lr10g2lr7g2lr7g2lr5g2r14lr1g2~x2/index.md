@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Affric Fragment Artefact"
   url: "/tartans/g/gl/glen-affric-fragment-artefact/"
 - name: "Glen Affric Fragment Artefact Tartan"
-  url: "/setts/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-affric-fragment-artefact/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYRGYGYGYGYGK](/stripes/gyrgygygygygk/).
 
 Part of the [Glen Affric Fragment Artefact](/tartans/g/gl/glen-affric-fragment-artefact/) tartan — the named design grouping this sett with its other cloths.

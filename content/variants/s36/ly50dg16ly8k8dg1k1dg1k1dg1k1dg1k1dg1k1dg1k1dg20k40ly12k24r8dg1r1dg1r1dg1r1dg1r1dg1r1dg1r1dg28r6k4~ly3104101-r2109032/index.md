@@ -8,10 +8,10 @@ crumbs:
 - name: "New Brunswick"
   url: "/tartans/n/ne/new-brunswick-2/"
 - name: "New Brunswick (CIDD 28101)"
-  url: "/setts/ly50dg16ly8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ly12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly50dg16ly8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ly12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/new-brunswick-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRGRGRGRGRGRGRKYKGKGKGKGKGKGKGKYGY](/stripes/krgrgrgrgrgrgrgrkykgkgkgkgkgkgkgkygy/).
 
 Part of the [New Brunswick](/tartans/n/ne/new-brunswick-2/) tartan — the named design grouping this sett with its other cloths.

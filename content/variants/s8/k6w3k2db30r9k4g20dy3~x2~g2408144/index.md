@@ -11,11 +11,11 @@ crumbs:
   url: "/families/minnesota/"
 - name: "Minnesota"
   url: "/tartans/m/mi/minnesota/"
-- name: "Minnesota (District)"
-  url: "/setts/k6w3k2db30r9k4g20dy3/"
+- name: "Minnesota American District Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6w3k2db30r9k4g20dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/minnesota/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKRBKWK](/stripes/ggkrbkwk/).
 
 Part of the [Minnesota](/tartans/m/mi/minnesota/) tartan — the named design grouping this sett with its other cloths.

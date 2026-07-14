@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k40dg15k10o2k10lo2~x2/">Kalkofen (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><img src="/variants/s6/k40dg15k10o2k10lo2~x2/sett.png" alt="Kalkofen (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ka/kalkofen/">Kalkofen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/kalkofen/"><img src="/variants/s6/k40dg15k10o2k10lo2~x2/sett.png" alt="Kalkofen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

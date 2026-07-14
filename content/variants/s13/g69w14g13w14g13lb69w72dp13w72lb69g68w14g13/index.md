@@ -10,10 +10,10 @@ crumbs:
 - name: "Poulter Millicent"
   url: "/tartans/p/po/poulter-millicent/"
 - name: "Poulter Millicent"
-  url: "/setts/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/poulter-millicent/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWWBWWGWG](/stripes/gwgwgwwbwwgwg/).
 
 Part of the [Poulter Millicent](/tartans/p/po/poulter-millicent/) tartan — the named design grouping this sett with its other cloths.

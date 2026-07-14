@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg24g2dg4g16dg1k2dg1g16dg3y1dg12n2dg5~x2/">O'Neill, Martin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg24g2dg4g16dg1k2dg1g16dg3y1dg12n2dg5~x2/"><img src="/variants/s13/dg24g2dg4g16dg1k2dg1g16dg3y1dg12n2dg5~x2/sett.png" alt="O'Neill, Martin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-neill-martin/">O'Neill, Martin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-neill-martin/"><img src="/variants/s13/dg24g2dg4g16dg1k2dg1g16dg3y1dg12n2dg5~x2/sett.png" alt="O'Neill, Martin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

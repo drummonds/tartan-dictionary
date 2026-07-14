@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k15dg1k3r9dg1r3lo11k1~x4/">Island of Innis, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k15dg1k3r9dg1r3lo11k1~x4/"><img src="/variants/s8/k15dg1k3r9dg1r3lo11k1~x4/sett.png" alt="Island of Innis, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/island-of-innis-the/">Island of Innis, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/island-of-innis-the/"><img src="/variants/s8/k15dg1k3r9dg1r3lo11k1~x4/sett.png" alt="Island of Innis, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

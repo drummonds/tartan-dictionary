@@ -8,10 +8,10 @@ crumbs:
 - name: "Longford"
   url: "/tartans/l/lo/longford/"
 - name: "Longford"
-  url: "/setts/db8k3db18g6k8g6o12r5o12r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8k3db18g6k8g6o12r5o12r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/longford/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGKGRRRR](/stripes/bkbgkgrrrr/).
 
 Part of the [Longford](/tartans/l/lo/longford/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db8r1w1r1k1~x8/">Laing of Archiestown</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db8r1w1r1k1~x8/"><img src="/variants/s5/db8r1w1r1k1~x8/sett.png" alt="Laing of Archiestown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/db19r2w2r2k2~x4/">Laing of Archiestown</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db19r2w2r2k2~x4/"><img src="/variants/s5/db19r2w2r2k2~x4/sett.png" alt="Laing of Archiestown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laing-of-archiestown/">Laing of Archiestown</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laing-of-archiestown/"><img src="/variants/s5/db19r2w2r2k2~x4/sett.png" alt="Laing of Archiestown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

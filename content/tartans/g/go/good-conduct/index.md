@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db5r12k38r4w2r2w2r2w2r4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brkrwrwrwr/">BRKRWRWRWR</a></nav>
 Its design is pattern [BRKRWRWRWR](/stripes/brkrwrwrwr/) — the page of every tartan sharing this colour sequence.
 
 The **Good Conduct** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Good Conduct** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db5r12k38r4w2r2w2r2w2r4/">Good Conduct</a></td><td><code>DB/10 R24 K76 R8 W4 R4 W4 R4 W4 R/8</code></td><td>274</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db5r12k38r4w2r2w2r2w2r4/"><img src="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/sett.png" alt="Good Conduct sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/">Good Conduct</a></td><td><code>DB/10 R24 K76 R8 W4 R4 W4 R4 W4 R/8</code></td><td>274</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><img src="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/sett.png" alt="Good Conduct sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/"><circle cx="239.5" cy="103.9" r="4" fill="#3465a4"><title>Barbecue</title></circle></a><a href="/variants/s9/lb5r5k58r5lb5r5w25r5lb4/"><circle cx="217.8" cy="107.6" r="4" fill="#3465a4"><title>Meg Merrilees, New</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="275.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="278.0" cy="121.2" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="297.7" cy="85.6" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress</title></circle></a><a href="/variants/s10/dr4w4dr3k8w3dr3k20dr40w2dr4/"><circle cx="344.1" cy="112.8" r="4" fill="#3465a4"><title>South Carolina, University of</title></circle></a><a href="/variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/"><circle cx="273.3" cy="64.5" r="4" fill="#3465a4"><title>Norwegian Night</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="234.8" cy="66.9" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/"><circle cx="284.8" cy="74.3" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="260.8" cy="121.3" r="4" fill="#3465a4"><title>Cunard O' The Clyde</title></circle></a><circle cx="266.5" cy="81.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/"><circle cx="240.4" cy="103.9" r="4" fill="#3465a4"><title>Barbecue</title></circle></a><a href="/variants/s9/lb5r5k58r5lb5r5w25r5lb4/"><circle cx="218.6" cy="107.5" r="4" fill="#3465a4"><title>Meg Merrilees, New</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="276.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="279.0" cy="121.2" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="298.8" cy="85.6" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress</title></circle></a><a href="/variants/s10/dr4w4dr3k8w3dr3k20dr40w2dr4/"><circle cx="345.2" cy="113.0" r="4" fill="#3465a4"><title>South Carolina, University of</title></circle></a><a href="/variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/"><circle cx="274.4" cy="64.5" r="4" fill="#3465a4"><title>Norwegian Night</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="235.7" cy="66.8" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/"><circle cx="285.8" cy="74.3" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="261.7" cy="121.2" r="4" fill="#3465a4"><title>Cunard O' The Clyde</title></circle></a><circle cx="267.5" cy="81.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

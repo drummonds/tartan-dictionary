@@ -12,17 +12,17 @@ crumbs:
 - name: "Ferrari"
   url: "/tartans/f/fe/ferrari-2/"
 - name: "Ferrari (Name)"
-  url: "/setts/ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/ferrari-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBYBKBYWYBKWKWKWKWY](/stripes/ybybkbywybkwkwkwkwy/).
 
 Part of the [Ferrari](/tartans/f/fe/ferrari-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10790](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10790)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/10790/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10790/*)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -34,7 +34,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10790](h
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

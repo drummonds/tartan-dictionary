@@ -8,10 +8,10 @@ crumbs:
 - name: "Tartan TV"
   url: "/tartans/t/ta/tartan-tv/"
 - name: "Tartan TV"
-  url: "/setts/r19k3r19k32g3k8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r19k3r19k32g3k8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ta/tartan-tv/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRKR](/stripes/kgkrkr/).
 
 Part of the [Tartan TV](/tartans/t/ta/tartan-tv/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4077](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>15/10/2001 — Tartan TV (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4077">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>TV production company based in Aberdeen and specialising in 'magazine programmes' for overseas. To Promote the launch ot 'Tartan TV' on to satellite TV. It is also used on the logo.</em></li>
-<li>2001 — Tartan TV (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3906">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Asymmetric. 'magazine programmes' for overseas.</em></li>
+<li>2001 — Tartan TV (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3906/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Asymmetric. 'magazine programmes' for overseas.</em></li>
 </ul>
 </details>
 

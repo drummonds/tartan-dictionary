@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k4lg9lb30k2lb4w5k2w2k1w2dr7r15k3~x2/">Un-named (USA Bedheads)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k4lg9lb30k2lb4w5k2w2k1w2dr7r15k3~x2/"><img src="/variants/s13/k4lg9lb30k2lb4w5k2w2k1w2dr7r15k3~x2/sett.png" alt="Un-named (USA Bedheads) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/un-named-3/">Un-named</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/un-named-3/"><img src="/variants/s13/k4lg9lb30k2lb4w5k2w2k1w2dr7r15k3~x2/sett.png" alt="Un-named sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

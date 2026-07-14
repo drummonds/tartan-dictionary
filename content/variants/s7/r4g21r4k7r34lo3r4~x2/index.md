@@ -8,15 +8,15 @@ crumbs:
 - name: "Kirk"
   url: "/tartans/k/ki/kirk/"
 - name: "Kirk"
-  url: "/setts/r4g21r4k7r34lo3r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4g21r4k7r34lo3r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RYRKRGRGRKRY](/stripes/ryrkrgrgrkry/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kirk/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGRKRYR](/stripes/rgrkryr/).
 
 Part of the [Kirk](/tartans/k/ki/kirk/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2003](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2003)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2003](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/10/1999 — Kirk (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2003">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>A design based on Maxwell by Dr Phil Smith ofTECAsubmitted on behalf of Gilbert and Nancy Kirk of Missouri. Intended for use by all of the name Kirk. Sample in Scottish Tartans Authority's Johnston Collection. Green should be even darker.</em></li>
-<li>October 1999 — Kirk (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4229">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>A design based on Maxwell by Dr Phil Smith of TECA and submitted on behalf of Gilbert and Nancy Kirk of Missouri. Intended for use by all of the name Kirk. Green should be even darker.</em></li>
+<li>October 1999 — Kirk (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4229/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>A design based on Maxwell by Dr Phil Smith of TECA and submitted on behalf of Gilbert and Nancy Kirk of Missouri. Intended for use by all of the name Kirk. Green should be even darker.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4229
 
 ## Thread count
-R/8 LO6 R68 K14 R8 G42 R8 G42 R8 K14 R68 LO/6
+R/8 G42 R8 K14 R68 LO6 R/8
 
-One full sett is **570 threads**.
+One full sett is **292 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/8 LO6 R68 K14 R8 G42 R8 G42 R8 K14 R68 LO/6 — 570 threads; it folds to the canonical 292-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **570 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 LO6 R68 K14 R8 G42 R8 G42 R8 K14 R68 LO/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 G42 R8 K14 R68 LO6 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

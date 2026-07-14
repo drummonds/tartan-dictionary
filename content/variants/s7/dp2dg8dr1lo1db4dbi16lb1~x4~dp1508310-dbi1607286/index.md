@@ -8,10 +8,10 @@ crumbs:
 - name: "Ellan Vannin"
   url: "/tartans/e/el/ellan-vannin/"
 - name: "Ellan Vannin (1958)"
-  url: "/setts/dp2dg8dr1lo1db4dbi16lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2dg8dr1lo1db4dbi16lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/el/ellan-vannin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBYBBW](/stripes/bgbybbw/).
 
 Part of the [Ellan Vannin](/tartans/e/el/ellan-vannin/) tartan — the named design grouping this sett with its other cloths.

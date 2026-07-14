@@ -8,10 +8,10 @@ crumbs:
 - name: "Thompson/Thomson/MacTavish special"
   url: "/tartans/t/th/thompson-thomson-mactavish-special/"
 - name: "Thompson/Thomson/MacTavish special grey"
-  url: "/setts/r3n27k6lo13k14r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3n27k6lo13k14r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thompson-thomson-mactavish-special/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKYKR](/stripes/rbkykr/).
 
 Part of the [Thompson/Thomson/MacTavish special](/tartans/t/th/thompson-thomson-mactavish-special/) tartan — the named design grouping this sett with its other cloths.

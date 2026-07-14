@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/">Lunch with an Old Bag (Fundraising Committee)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/"><img src="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/sett.png" alt="Lunch with an Old Bag (Fundraising Committee) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lu/lunch-with-an-old-bag/">Lunch with an Old Bag</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/lunch-with-an-old-bag/"><img src="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/sett.png" alt="Lunch with an Old Bag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

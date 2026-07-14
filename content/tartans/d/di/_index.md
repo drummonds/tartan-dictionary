@@ -22,7 +22,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/d/di/diaspora/"><img src="/variants/s5/lr3db28dt12dr22dg1~x2/sett.png" alt="Diaspora" width="140"><br><strong>Diaspora (1)</strong></a><div class="clan-territory">Diaspora</div></li>
 <li><a class="tartan" href="/tartans/d/di/diaspora-2/"><img src="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/sett.png" alt="Diaspora" width="140"><br><strong>Diaspora (1)</strong></a><div class="clan-territory">Diaspora</div></li>
 <li><a class="tartan" href="/tartans/d/di/diaspora-3/"><img src="/variants/s6/b3dg1r24b16db28w3~x2/sett.png" alt="Diaspora" width="140"><br><strong>Diaspora (1)</strong></a><div class="clan-territory">Diaspora</div></li>
-<li><a class="tartan" href="/tartans/d/di/dice/"><img src="/variants/s2/db1r1~x100/sett.png" alt="Dice" width="140"><br><strong>Dice (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/d/di/dice/"><img src="/variants/s2/db1r1~x20/sett.png" alt="Dice" width="140"><br><strong>Dice (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/di/dick/"><img src="/variants/s7/k5g30y3t15k15t7w3~x2/sett.png" alt="Dick" width="140"><br><strong>Dick (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/d/di/dickie/"><img src="/variants/s17/k5db1k1n1k3n1k1db1k3db1k1dg1k16dg1k1n1k2~x4/sett.png" alt="Dickie" width="140"><br><strong>Dickie (1)</strong></a><div class="clan-territory">Dickie</div></li>
 <li><a class="tartan" href="/tartans/d/di/dickie-2/"><img src="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/sett.png" alt="Dickie" width="140"><br><strong>Dickie (1)</strong></a><div class="clan-territory">Dickie</div></li>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/db8w3db8dy2w3lb2dbi19db19lb1g2dbi4db4lb5g2dy2dbi4w3db4~x2~db1108266-dbi1204274/">Coast &amp; Glen (Fishbox) Ltd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db8w3db8dy2w3lb2dbi19db19lb1g2dbi4db4lb5g2dy2dbi4w3db4~x2~db1108266-dbi1204274/"><img src="/variants/s18/db8w3db8dy2w3lb2dbi19db19lb1g2dbi4db4lb5g2dy2dbi4w3db4~x2~db1108266-dbi1204274/sett.png" alt="Coast &amp; Glen (Fishbox) Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coast-glen-ltd/">Coast &amp; Glen Ltd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coast-glen-ltd/"><img src="/variants/s18/db8w3db8dy2w3lb2dbi19db19lb1g2dbi4db4lb5g2dy2dbi4w3db4~x2~db1108266-dbi1204274/sett.png" alt="Coast &amp; Glen Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/">Good Conduct (USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><img src="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/sett.png" alt="Good Conduct (USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/good-conduct/">Good Conduct</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/good-conduct/"><img src="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/sett.png" alt="Good Conduct sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

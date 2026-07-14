@@ -10,15 +10,15 @@ crumbs:
 - name: "Scotland the Brave Dress"
   url: "/tartans/s/sc/scotland-the-brave-dress/"
 - name: "Scotland the Brave Dress (Dance)"
-  url: "/setts/w3k1w20dp1db6g6o3g1o1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3k1w20dp1db6g6o3g1o1g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWBBGRGRGRGRGBBWKW](/stripes/kwbbgrgrgrgrgbbwkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scotland-the-brave-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGRGBBWKW](/stripes/grgrgbbwkw/).
 
 Part of the [Scotland the Brave Dress](/tartans/s/sc/scotland-the-brave-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3680](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3680)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3680](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2005 — Scotland the Brave Dress (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3680">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><br><em>A dance version of this very popular design from Scott & David Millsom of Millsom & Main in Aberdeen. 'The inspiration for Scotland the Brave tartan came from the words of Cliff Hanley's song Scotland the Brave. We used colours that are traditionally associated with Scotland. Navy Blue and White were used to represent the Saltire our national flag with the green and Purple used for the Thistle our national emblem.'</em></li>
-<li>pre 2005 — Scotland the Brave Dress (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6567">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><br><em>A dance version of this very popular desing from Scott & David Millsom of Millsom & Main in Aberdeen. "The inspiration for Scotland the Brave tartan came from the words of Cliff Hanley's song Scotland the Brave. We used colours that are traditionally associated with Scotland. Navy Blue and White were used to represent the Saltire our national flag with the green and Purple used for the Thistle our national emblem."</em></li>
+<li>pre 2005 — Scotland the Brave Dress (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6567/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><br><em>A dance version of this very popular desing from Scott & David Millsom of Millsom & Main in Aberdeen. "The inspiration for Scotland the Brave tartan came from the words of Cliff Hanley's song Scotland the Brave. We used colours that are traditionally associated with Scotland. Navy Blue and White were used to represent the Saltire our national flag with the green and Purple used for the Thistle our national emblem."</em></li>
 </ul>
 </details>
 
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6567
 
 ## Thread count
-W/12 K4 W80 DP4 DB24 G24 O12 G4 O4 G8 O4 G4 O12 G24 DB24 DP4 W80 K/4
+W/12 K4 W80 DP4 DB24 G24 O12 G4 O4 G/8
 
-One full sett is **648 threads**.
+One full sett is **332 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/12 K4 W80 DP4 DB24 G24 O12 G4 O4 G8 O4 G4 O12 G24 DB24 DP4 W80 K/4 — 648 threads; it folds to the canonical 332-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **648 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/12 K4 W80 DP4 DB24 G24 O12 G4 O4 G8 O4 G4 O12 G24 DB24 DP4 W80 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/12 K4 W80 DP4 DB24 G24 O12 G4 O4 G/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

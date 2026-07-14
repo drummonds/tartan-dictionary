@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/">Highlands Country Club (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><img src="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/sett.png" alt="Highlands Country Club (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/">Highlands Country Club Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/"><img src="/variants/s7/g5db15lb11w2lb1w1dg4~x4/sett.png" alt="Highlands Country Club Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highlands-country-club-2/">Highlands Country Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highlands-country-club-2/"><img src="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/sett.png" alt="Highlands Country Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

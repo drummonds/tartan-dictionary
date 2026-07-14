@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/">City of Barrie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/"><img src="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/sett.png" alt="City of Barrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-barrie/">City of Barrie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-barrie/"><img src="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/sett.png" alt="City of Barrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

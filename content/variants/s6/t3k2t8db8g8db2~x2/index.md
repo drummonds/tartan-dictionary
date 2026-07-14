@@ -10,10 +10,10 @@ crumbs:
 - name: "Black Watch"
   url: "/tartans/b/bl/black-watch/"
 - name: "Black Watch (Pendleton)"
-  url: "/setts/t3k2t8db8g8db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t3k2t8db8g8db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-watch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBKB](/stripes/bgbbkb/).
 
 Part of the [Black Watch](/tartans/b/bl/black-watch/) tartan — the named design grouping this sett with its other cloths.

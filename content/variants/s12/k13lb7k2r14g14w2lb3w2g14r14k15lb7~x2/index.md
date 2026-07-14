@@ -12,15 +12,15 @@ crumbs:
 - name: "Coulter"
   url: "/tartans/c/co/coulter-2/"
 - name: "Coulter (Personal)"
-  url: "/setts/k13lb7k2r14g14w2lb3w2g14r14k15lb7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k13lb7k2r14g14w2lb3w2g14r14k15lb7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/coulter-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKKWKRGWWWGRKKKKW](/stripes/kkkwkrgwwwgrkkkkw/).
 
 Part of the [Coulter](/tartans/c/co/coulter-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5116](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5116)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3858
 
 ## Thread count
-LB/14 K18 K4 K4 K4 R28 G28 W4 LB6 W4 G28 R28 K4 LB14 K18 K4 K/4
+K/26 LB14 K4 R28 G28 W4 LB6 W4 G28 R28 K30 LB/14
 
-One full sett is **410 threads**.
+One full sett is **388 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/14 K18 K4 K4 K4 R28 G28 W4 LB6 W4 G28 R28 K4 LB14 K18 K4 K/4 — 410 threads; it folds to the canonical 388-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **410 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/14 K18 K4 K4 K4 R28 G28 W4 LB6 W4 G28 R28 K4 LB14 K18 K4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/26 LB14 K4 R28 G28 W4 LB6 W4 G28 R28 K30 LB/14 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

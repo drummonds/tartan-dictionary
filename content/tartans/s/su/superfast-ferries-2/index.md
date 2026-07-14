@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r16db6y4db6w1db6y4db6r16db1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbgbwbgbr/">BRBGBWBGBR</a></nav>
 Its design is pattern [BRBGBWBGBR](/stripes/brbgbwbgbr/) — the page of every tartan sharing this colour sequence.
 
 The **Superfast Ferries** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Superfast Ferries** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r16db6y4db6w1db6y4db6r16db1/">Superfast Ferries</a></td><td><code>R/64 DB24 Y16 DB24 W4 DB24 Y16 DB24 R64 DB/4</code></td><td>460</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r16db6y4db6w1db6y4db6r16db1/"><img src="/variants/s10/r16db6y4db6w1db6y4db6r16db1~x4~db1406275/sett.png" alt="Superfast Ferries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r16db6y4db6w1db6y4db6r16db1~x4~db1406275/">Superfast Ferries</a></td><td><code>R/64 DB24 Y16 DB24 W4 DB24 Y16 DB24 R64 DB/4</code></td><td>460</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r16db6y4db6w1db6y4db6r16db1~x4~db1406275/"><img src="/variants/s10/r16db6y4db6w1db6y4db6r16db1~x4~db1406275/sett.png" alt="Superfast Ferries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="297.7" cy="143.1" r="4" fill="#3465a4"><title>Mercer, James</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="298.8" cy="143.2" r="4" fill="#3465a4"><title>Mercer</title></circle></a><a href="/variants/s12/dy4db2r7db15r4db3r4db7r28dg7r6dg2/"><circle cx="317.2" cy="155.4" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/variants/s11/g10r25lb2db25r2g2r25g2r2db25r4~x2/"><circle cx="272.8" cy="164.4" r="4" fill="#3465a4"><title>Hebridean 3</title></circle></a><a href="/variants/s8/g12r11dp12b3r32dp8g8dp8~x2/"><circle cx="258.7" cy="213.8" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="266.9" cy="169.2" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s7/r28db12r3dg20lb2dg2r7~x2/"><circle cx="299.7" cy="182.0" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="294.9" cy="184.6" r="4" fill="#3465a4"><title>Superfast Ferries</title></circle></a><a href="/variants/s10/db6n3db3n15r7db7r5db17r46n4/"><circle cx="350.6" cy="172.8" r="4" fill="#3465a4"><title>Harry</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="289.6" cy="157.7" r="4" fill="#3465a4"><title>Harkness</title></circle></a><circle cx="299.9" cy="182.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="298.4" cy="143.0" r="4" fill="#3465a4"><title>Mercer, James</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="299.5" cy="143.2" r="4" fill="#3465a4"><title>Mercer</title></circle></a><a href="/variants/s12/dy4db2r7db15r4db3r4db7r28dg7r6dg2/"><circle cx="317.9" cy="155.4" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/variants/s11/g10r25lb2db25r2g2r25g2r2db25r4~x2/"><circle cx="273.4" cy="164.4" r="4" fill="#3465a4"><title>Hebridean 3</title></circle></a><a href="/variants/s8/g12r11dp12b3r32dp8g8dp8~x2/"><circle cx="259.1" cy="213.8" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="267.4" cy="169.1" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s7/r28db12r3dg20lb2dg2r7~x2/"><circle cx="300.3" cy="182.0" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="295.5" cy="184.6" r="4" fill="#3465a4"><title>Superfast Ferries</title></circle></a><a href="/variants/s10/db6n3db3n15r7db7r5db17r46n4/"><circle cx="351.2" cy="172.9" r="4" fill="#3465a4"><title>Harry</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="290.2" cy="157.6" r="4" fill="#3465a4"><title>Harkness</title></circle></a><circle cx="300.4" cy="182.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

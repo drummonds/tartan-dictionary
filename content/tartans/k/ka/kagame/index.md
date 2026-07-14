@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/kagame/"
 - name: "Kagame"
   url: "/families/kagame/"
+aliases:
+- "/setts/ly5lb14k3ly7g3k3g7k6db24w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbkgkgykwy/">WBKGKGYKWY</a></nav>
 A tartan of the [Kagame](/families/kagame/) family.
 Its design is pattern [WBKGKGYKWY](/stripes/wbkgkgykwy/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Kagame** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly5lb14k3ly7g3k3g7k6db24w3/">Kagame</a></td><td><code>LY/10 LB28 K6 LY14 G6 K6 G14 K12 DB48 W/6</code></td><td>284</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly5lb14k3ly7g3k3g7k6db24w3/"><img src="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/sett.png" alt="Kagame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/">Kagame</a></td><td><code>LY/10 LB28 K6 LY14 G6 K6 G14 K12 DB48 W/6</code></td><td>284</td><td>2006</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/"><img src="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/sett.png" alt="Kagame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/y4db22g3k3g3k3g12w22k2r3~x2/"><circle cx="61.2" cy="132.7" r="4" fill="#3465a4"><title>Californian MacLeod</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="53.3" cy="157.7" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="56.6" cy="166.3" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/"><circle cx="48.5" cy="150.2" r="4" fill="#3465a4"><title>MacLellan Dress</title></circle></a><a href="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/"><circle cx="14.0" cy="153.6" r="4" fill="#3465a4"><title>Clodagh, Cork</title></circle></a><a href="/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/"><circle cx="74.8" cy="124.0" r="4" fill="#3465a4"><title>MacLeod, Californian</title></circle></a><a href="/variants/s10/r3k1lb10k1g2k1db8g12k1y3~x2/"><circle cx="90.9" cy="140.1" r="4" fill="#3465a4"><title>Sullivan</title></circle></a><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/"><circle cx="14.0" cy="171.4" r="4" fill="#3465a4"><title>MacSheehy</title></circle></a><a href="/variants/s8/r4y3w12k16g5db20k4w2~x2/"><circle cx="60.8" cy="156.9" r="4" fill="#3465a4"><title>Iowa Dress</title></circle></a><a href="/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/"><circle cx="78.4" cy="151.0" r="4" fill="#3465a4"><title>Highfield Dress</title></circle></a><circle cx="49.9" cy="156.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/y4db22g3k3g3k3g12w22k2r3~x2/"><circle cx="61.4" cy="132.3" r="4" fill="#3465a4"><title>Californian MacLeod</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="53.4" cy="157.2" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="56.8" cy="165.9" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/"><circle cx="48.7" cy="149.7" r="4" fill="#3465a4"><title>MacLellan Dress</title></circle></a><a href="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/"><circle cx="14.0" cy="153.1" r="4" fill="#3465a4"><title>Clodagh, Cork</title></circle></a><a href="/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/"><circle cx="75.1" cy="123.6" r="4" fill="#3465a4"><title>MacLeod, Californian</title></circle></a><a href="/variants/s10/r3k1lb10k1g2k1db8g12k1y3~x2/"><circle cx="91.1" cy="139.7" r="4" fill="#3465a4"><title>Sullivan</title></circle></a><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/"><circle cx="14.0" cy="170.9" r="4" fill="#3465a4"><title>MacSheehy</title></circle></a><a href="/variants/s8/r4y3w12k16g5db20k4w2~x2/"><circle cx="61.0" cy="156.5" r="4" fill="#3465a4"><title>Iowa Dress</title></circle></a><a href="/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/"><circle cx="78.6" cy="150.6" r="4" fill="#3465a4"><title>Highfield Dress</title></circle></a><circle cx="50.0" cy="155.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

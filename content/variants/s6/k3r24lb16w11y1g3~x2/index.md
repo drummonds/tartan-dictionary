@@ -8,10 +8,10 @@ crumbs:
 - name: "Bro-sant-Malou"
   url: "/tartans/b/br/bro-sant-malou/"
 - name: "Bro-sant-Malou"
-  url: "/setts/k3r24lb16w11y1g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3r24lb16w11y1g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bro-sant-malou/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWWRK](/stripes/ggwwrk/).
 
 Part of the [Bro-sant-Malou](/tartans/b/br/bro-sant-malou/) tartan — the named design grouping this sett with its other cloths.

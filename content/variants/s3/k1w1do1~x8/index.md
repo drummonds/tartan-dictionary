@@ -12,15 +12,15 @@ crumbs:
 - name: "Hogg"
   url: "/tartans/h/ho/hogg/"
 - name: "Hogg"
-  url: "/setts/k1w1do1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1w1do1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWBW](/stripes/kwbw/).
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hogg/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWK](/stripes/bwk/).
 
 Part of the [Hogg](/tartans/h/ho/hogg/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1745](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1745)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1745](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Hogg (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1745">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><br><em>Not specified</em></li>
-<li>pre 2002 — Hogg (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5206">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><br><em>From Affleck slides. It's thought that the late Bill Johnston of the USA was involved with the Affleck slides but nothing is known of what they were, whose they were, where they came from or a date. So any entries that refer to them should be treated with caution. Hogg was known as the Ettrick Shepherd and this is the basic shepherds' check.</em></li>
+<li>pre 2002 — Hogg (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5206/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><br><em>From Affleck slides. It's thought that the late Bill Johnston of the USA was involved with the Affleck slides but nothing is known of what they were, whose they were, where they came from or a date. So any entries that refer to them should be treated with caution. Hogg was known as the Ettrick Shepherd and this is the basic shepherds' check.</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5206
 
 ## Thread count
-K/8 W8 DO8 W/8
+K/8 W8 DO/8
 
-One full sett is **48 threads**.
+One full sett is **32 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/8 W8 DO8 W/8 — 48 threads; it folds to the canonical 32-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **48 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 W8 DO8 W/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 W8 DO/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

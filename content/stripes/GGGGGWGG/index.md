@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/">Aviemore Check District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><img src="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/sett.png" alt="Aviemore Check District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/av/aviemore-check/">Aviemore Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/av/aviemore-check/"><img src="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/sett.png" alt="Aviemore Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

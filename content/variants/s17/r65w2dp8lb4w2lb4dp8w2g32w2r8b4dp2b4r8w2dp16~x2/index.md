@@ -8,10 +8,10 @@ crumbs:
 - name: "Birral, Burrell"
   url: "/tartans/b/bi/birral-burrell/"
 - name: "Birral, Burrell"
-  url: "/setts/r65w2dp8lb4w2lb4dp8w2g32w2r8b4dp2b4r8w2dp16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r65w2dp8lb4w2lb4dp8w2g32w2r8b4dp2b4r8w2dp16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bi/birral-burrell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBBBRWGWBWWWBWR](/stripes/bwrbbbrwgwbwwwbwr/).
 
 Part of the [Birral, Burrell](/tartans/b/bi/birral-burrell/) tartan — the named design grouping this sett with its other cloths.

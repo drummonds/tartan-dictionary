@@ -8,15 +8,15 @@ crumbs:
 - name: "Summer Spirit"
   url: "/tartans/s/su/summer-spirit/"
 - name: "Summer Spirit"
-  url: "/setts/r2lr2k2lr28k8lr9k1y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2lr2k2lr28k8lr9k1y2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKYKYKYRYKYKYK](/stripes/gkykykyrykykyk/).
+provenance below. It is one weaving of the [sett](/tartans/s/su/summer-spirit/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKYKYKYR](/stripes/gkykykyr/).
 
 Part of the [Summer Spirit](/tartans/s/su/summer-spirit/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4038](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4038)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4038](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/12/2005 — Summer Spirit (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4038">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCEC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #FCFCEC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>From the House of Edgar for ACS Clothing of Glasgow for use in their clothing range. Woven sample. The white shown here should be slightly creamier.</em></li>
-<li>2005 December — Summer Spirit (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6824">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCEC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #FCFCEC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>From the House of Edgar designed by Kirsty Anderson of House of Edgar.for ACS Clothing of Glasgow for use in their clothing range. Woven sample. The white shown here should be slightly creamier.</em></li>
+<li>2005 December — Summer Spirit (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6824/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCEC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #FCFCEC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>From the House of Edgar designed by Kirsty Anderson of House of Edgar.for ACS Clothing of Glasgow for use in their clothing range. Woven sample. The white shown here should be slightly creamier.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6824
 
 ## Thread count
-Y/4 K2 LR18 K16 LR56 K4 LR4 R4 LR4 K4 LR56 K16 LR18 K/2
+R/4 LR4 K4 LR56 K16 LR18 K2 Y/4
 
-One full sett is **410 threads**.
+One full sett is **208 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/4 K2 LR18 K16 LR56 K4 LR4 R4 LR4 K4 LR56 K16 LR18 K/2 — 410 threads; it folds to the canonical 208-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **410 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/4 K2 LR18 K16 LR56 K4 LR4 R4 LR4 K4 LR56 K16 LR18 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 LR4 K4 LR56 K16 LR18 K2 Y/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Salem Scottish Dancer's Wee Bluet"
   url: "/tartans/s/sa/salem-scottish-dancer-s-wee-bluet/"
 - name: "Salem Scottish Dancer's Wee Bluet"
-  url: "/setts/db10t10db60w9db7t36w6db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10t10db60w9db7t36w6db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/salem-scottish-dancer-s-wee-bluet/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBBWB](/stripes/bbbwbbwb/).
 
 Part of the [Salem Scottish Dancer's Wee Bluet](/tartans/s/sa/salem-scottish-dancer-s-wee-bluet/) tartan — the named design grouping this sett with its other cloths.

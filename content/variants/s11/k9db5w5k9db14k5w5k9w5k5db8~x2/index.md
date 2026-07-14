@@ -8,10 +8,10 @@ crumbs:
 - name: "Cummins Royal Blue, B"
   url: "/tartans/c/cu/cummins-royal-blue-b/"
 - name: "Cummins Royal Blue, B (Personal)"
-  url: "/setts/k9db5w5k9db14k5w5k9w5k5db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k9db5w5k9db14k5w5k9w5k5db8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cummins-royal-blue-b/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWKBKWBK](/stripes/bkwkwkbkwbk/).
 
 Part of the [Cummins Royal Blue, B](/tartans/c/cu/cummins-royal-blue-b/) tartan — the named design grouping this sett with its other cloths.

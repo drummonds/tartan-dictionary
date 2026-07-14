@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/k62b33y1~x2/">Westwater (Edinburgh, 2012)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k62b33y1~x2/"><img src="/variants/s3/k62b33y1~x2/sett.png" alt="Westwater (Edinburgh, 2012) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westwater/">Westwater</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westwater/"><img src="/variants/s3/k62b33y1~x2/sett.png" alt="Westwater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/k11dp10g9~x2/">Wilson's, No 185</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k11dp10g9~x2/"><img src="/variants/s3/k11dp10g9~x2/sett.png" alt="Wilson's, No 185 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-185-2/">Wilson's, No 185</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-185-2/"><img src="/variants/s3/k11dp10g9~x2/sett.png" alt="Wilson's, No 185 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

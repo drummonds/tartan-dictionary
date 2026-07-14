@@ -12,10 +12,10 @@ crumbs:
 - name: "Herron of Ulster"
   url: "/tartans/h/he/herron-of-ulster/"
 - name: "Herron of Ulster (Personal)"
-  url: "/setts/k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1dg1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1dg1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/herron-of-ulster/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBGKGKGKGKGBGK](/stripes/gkgbgkgkgkgkgbgk/).
 
 Part of the [Herron of Ulster](/tartans/h/he/herron-of-ulster/) tartan — the named design grouping this sett with its other cloths.

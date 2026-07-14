@@ -8,15 +8,15 @@ crumbs:
 - name: "Heartlands Fancy"
   url: "/tartans/h/he/heartlands-fancy/"
 - name: "Heartlands Fancy Tartan"
-  url: "/setts/db4t1dt20db2dt2db18dg2db2dg22k2dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4t1dt20db2dt2db18dg2db2dg22k2dp4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBGKBKGBGBBBBB](/stripes/bbbbbbgbgkbkgbgbbbbb/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/heartlands-fancy/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBGKB](/stripes/bbbbbbgbgkb/).
 
 Part of the [Heartlands Fancy](/tartans/h/he/heartlands-fancy/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3443](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3443)
 
@@ -41,9 +41,11 @@ Earliest known date: 2002 Designed by Erica Randall of House of Edgar for MacGre
 </details>
 
 ## Thread count
-DB/8 T2 DT40 DB4 DT4 DB36 DG4 DB4 DG44 K4 DP8 K4 DG44 DB4 DG4 DB36 DT4 DB4 DT40 T/2
+DB/8 T2 DT40 DB4 DT4 DB36 DG4 DB4 DG44 K4 DP/8
 
-One full sett is **590 threads**.
+One full sett is **300 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/8 T2 DT40 DB4 DT4 DB36 DG4 DB4 DG44 K4 DP8 K4 DG44 DB4 DG4 DB36 DT4 DB4 DT40 T/2 — 590 threads; it folds to the canonical 300-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **590 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 T2 DT40 DB4 DT4 DB36 DG4 DB4 DG44 K4 DP8 K4 DG44 DB4 DG4 DB36 DT4 DB4 DT40 T/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 T2 DT40 DB4 DT4 DB36 DG4 DB4 DG44 K4 DP/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

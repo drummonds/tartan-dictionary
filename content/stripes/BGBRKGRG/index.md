@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db2g1db16r1k12g16r1g2~x2/">Lochaber District</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db2g1db16r1k12g16r1g2~x2/"><img src="/variants/s8/db2g1db16r1k12g16r1g2~x2/sett.png" alt="Lochaber District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochaber-district/">Lochaber District</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochaber-district/"><img src="/variants/s8/db2g1db16r1k12g16r1g2~x2/sett.png" alt="Lochaber District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

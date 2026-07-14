@@ -5,22 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Clan Munster"
-  url: "/clan/munster/"
-- name: "Munster"
-  url: "/families/munster/"
 - name: "Munster"
   url: "/tartans/m/mu/munster/"
 - name: "Munster Irish District Tartan"
-  url: "/setts/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWGWGWRKGWKGKGRGKGKWGKRWGWGWRW](/stripes/rwgwgwrkgwkgkgrgkgkwgkrwgwgwrw/).
+provenance below. It is one weaving of the [sett](/tartans/m/mu/munster/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGKGKWGKRWGWGWRW](/stripes/rgkgkwgkrwgwgwrw/).
 
 Part of the [Munster](/tartans/m/mu/munster/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4061](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4061)
 
@@ -45,9 +41,11 @@ Earliest known date: 1997 One of the Irish district tartans produced in 1997 by 
 </details>
 
 ## Thread count
-LB/8 R4 LB6 DGi2 LB2 DGi4 LB36 R2 K24 DG42 LB2 K6 DG2 K4 DG8 R4 DG8 K4 DG2 K6 LB2 DG42 K24 R2 LB36 DGi4 LB2 DGi2 LB6 R/4
+LB/8 R4 LB6 DGi2 LB2 DGi4 LB36 R2 K24 DG42 LB2 K6 DG2 K4 DG8 R/4
 
-One full sett is **588 threads**.
+One full sett is **300 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/8 R4 LB6 DGi2 LB2 DGi4 LB36 R2 K24 DG42 LB2 K6 DG2 K4 DG8 R4 DG8 K4 DG2 K6 LB2 DG42 K24 R2 LB36 DGi4 LB2 DGi2 LB6 R/4 — 588 threads; it folds to the canonical 300-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +54,7 @@ One full sett is **588 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/8 R4 LB6 DGi2 LB2 DGi4 LB36 R2 K24 DG42 LB2 K6 DG2 K4 DG8 R4 DG8 K4 DG2 K6 LB2 DG42 K24 R2 LB36 DGi4 LB2 DGi2 LB6 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/8 R4 LB6 DGi2 LB2 DGi4 LB36 R2 K24 DG42 LB2 K6 DG2 K4 DG8 R/4 tartan" width="880" height="480">
 
 ## Compared to the master
 

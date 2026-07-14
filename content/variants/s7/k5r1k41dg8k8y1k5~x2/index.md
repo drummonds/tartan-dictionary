@@ -8,10 +8,10 @@ crumbs:
 - name: "Callaghan"
   url: "/tartans/c/ca/callaghan/"
 - name: "Callaghan"
-  url: "/setts/k5r1k41dg8k8y1k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5r1k41dg8k8y1k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/callaghan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKRK](/stripes/kgkgkrk/).
 
 Part of the [Callaghan](/tartans/c/ca/callaghan/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=483](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/08/2007 — Callaghan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=483">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#943030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #943030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8A82C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #B8A82C"></span><br><em>In the absence of a Scottish or Irish tartan for Callaghan, Peter Callaghan designed this tartan using dark blue for Scotland and green for Ireland, accentuated with traces of red and yellow.</em></li>
-<li>August 2007 — Callaghan (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7299">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#943030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #943030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8A82C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #B8A82C"></span><br><em>In the absence of a Scottish or Irish tartan for Callaghan, Peter Callaghan designed this with the dark blue for Scotland, and the green for Ireland, accentuated with traces of red and yellow.</em></li>
+<li>August 2007 — Callaghan (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7299/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#943030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #943030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8A82C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #B8A82C"></span><br><em>In the absence of a Scottish or Irish tartan for Callaghan, Peter Callaghan designed this with the dark blue for Scotland, and the green for Ireland, accentuated with traces of red and yellow.</em></li>
 </ul>
 </details>
 

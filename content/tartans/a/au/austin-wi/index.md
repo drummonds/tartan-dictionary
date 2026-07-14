@@ -6,17 +6,23 @@ crumbs:
   url: "/"
 - name: "Clan Austin"
   url: "/clan/austin/"
+aliases:
+- "/setts/dr3k3dr3g6k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbgk/">BKBGK</a></nav>
 A tartan of [Clan Austin](/clan/austin/).
 Its design is pattern [BKBGK](/stripes/bkbgk/) — the page of every tartan sharing this colour sequence.
 
-The **Austin WI** tartan is recorded as a single sett.
+The **Austin WI** tartan is one sett, recorded at 2 scales — the same proportion woven
+finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr3k3dr3g6k2/">Austin WI</a></td><td><code>DR/6 K6 DR6 G12 K/4</code></td><td>29</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr3k3dr3g6k2/"><img src="/variants/s5/dr3k3dr3g6k2/sett.png" alt="Austin WI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr3k3dr3g6k2/">Austin WI</a></td><td><code>DR/3 K3 DR3 G6 K/2</code></td><td>29</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr3k3dr3g6k2/"><img src="/variants/s5/dr3k3dr3g6k2/sett.png" alt="Austin WI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s5/dr3k3dr3g6k2/">Austin WI</a></td><td><code>DR/3 K3 DR3 G6 K/2</code></td><td>29</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s5/dr3k3dr3g6k2~x2/">Austin WI</a></td><td><code>DR/6 K6 DR6 G12 K/4</code></td><td>58</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s5/dr3k3dr3g6k2/">Austin WI</a> · <a href="/variants/s5/dr3k3dr3g6k2~x2/">Austin WI</a></td></tr>
 </tbody>
 </table>
@@ -30,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r3k10r10g10r3~x4/"><circle cx="156.7" cy="272.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="179.3" cy="238.5" r="4" fill="#3465a4"><title>MacCormick</title></circle></a><a href="/variants/s6/k3g13k10r13k2r3~x2/"><circle cx="156.2" cy="223.6" r="4" fill="#3465a4"><title>MacCormick Dress</title></circle></a><a href="/variants/s4/g6k2dr3k1~x4/"><circle cx="228.7" cy="257.3" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="170.7" cy="273.0" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="158.3" cy="273.6" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s5/n6r1k6r1g6~x6/"><circle cx="110.3" cy="242.2" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="145.0" cy="218.3" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s6/k3r1g5k3w1dp3~x2/"><circle cx="81.6" cy="229.4" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/variants/s6/dg8k8dg8y6k3y6~x2/"><circle cx="140.4" cy="330.1" r="4" fill="#3465a4"><title>Hage-West</title></circle></a><circle cx="131.0" cy="307.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r3k10r10g10r3~x4/"><circle cx="157.0" cy="272.6" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="179.7" cy="238.4" r="4" fill="#3465a4"><title>MacCormick</title></circle></a><a href="/variants/s6/k3g13k10r13k2r3~x2/"><circle cx="156.6" cy="223.5" r="4" fill="#3465a4"><title>MacCormick Dress</title></circle></a><a href="/variants/s4/g6k2dr3k1~x4/"><circle cx="229.2" cy="257.4" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="170.9" cy="272.9" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="158.5" cy="273.5" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s5/n6r1k6r1g6~x6/"><circle cx="110.4" cy="242.1" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="145.3" cy="218.2" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s6/k3r1g5k3w1dp3~x2/"><circle cx="81.8" cy="229.2" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/variants/s6/dg8k8dg8y6k3y6~x2/"><circle cx="140.4" cy="330.1" r="4" fill="#3465a4"><title>Hage-West</title></circle></a><circle cx="131.1" cy="307.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

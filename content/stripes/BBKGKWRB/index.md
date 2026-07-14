@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/">Vinther, Niels Christian (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/"><img src="/variants/s8/n3r14w1k2g2k16db20n1~x2/sett.png" alt="Vinther, Niels Christian (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/vinther-niels-christian/">Vinther, Niels Christian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/vinther-niels-christian/"><img src="/variants/s8/n3r14w1k2g2k16db20n1~x2/sett.png" alt="Vinther, Niels Christian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/">Clan Pipers Frankfurt and District Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"><img src="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/sett.png" alt="Clan Pipers Frankfurt and District Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clan-pipers-frankfurt-and-district-pipe-band/">Clan Pipers Frankfurt and District Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clan-pipers-frankfurt-and-district-pipe-band/"><img src="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/sett.png" alt="Clan Pipers Frankfurt and District Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

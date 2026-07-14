@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/">Corcoran of Sherbrooke (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><img src="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/sett.png" alt="Corcoran of Sherbrooke (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/corcoran-of-sherbrooke/">Corcoran of Sherbrooke</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/corcoran-of-sherbrooke/"><img src="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/sett.png" alt="Corcoran of Sherbrooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

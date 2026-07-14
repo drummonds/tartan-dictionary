@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dg35g25r15t2db21~x2/">Dunanas Rising (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dg35g25r15t2db21~x2/"><img src="/variants/s5/dg35g25r15t2db21~x2/sett.png" alt="Dunanas Rising (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunanas-rising/">Dunanas Rising</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunanas-rising/"><img src="/variants/s5/dg35g25r15t2db21~x2/sett.png" alt="Dunanas Rising sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

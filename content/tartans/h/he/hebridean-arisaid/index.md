@@ -6,17 +6,20 @@ crumbs:
   url: "/"
 - name: "Clan Hebridean"
   url: "/clan/hebridean/"
+aliases:
+- "/setts/w37k4db12g12w2lr2r23k4r6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkrywgbkw/">RKRYWGBKW</a></nav>
 A tartan of [Clan Hebridean](/clan/hebridean/).
-Its design is pattern [KRYWGBKWKBGWYRKR](/stripes/krywgbkwkbgwyrkr/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [RKRYWGBKW](/stripes/rkrywgbkw/) — the page of every tartan sharing this colour sequence.
 
 The **Hebridean Arisaid** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w37k4db12g12w2lr2r23k4r6/">Hebridean Arisaid</a></td><td><code>R/12 K8 R46 LR4 W4 G24 DB24 K8 W74 K8 DB24 G24 W4 LR4 R46 K/8</code></td><td>322</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w37k4db12g12w2lr2r23k4r6/"><img src="/variants/s9/w37k4db12g12w2lr2r23k4r6~x2~lr2805035-r1506019/sett.png" alt="Hebridean Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w37k4db12g12w2lr2r23k4r6~x2~lr2805035-r1506019/">Hebridean Arisaid</a></td><td><code>W/74 K8 DB24 G24 W4 LR4 R46 K8 R/12</code></td><td>322</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w37k4db12g12w2lr2r23k4r6~x2~lr2805035-r1506019/"><img src="/variants/s9/w37k4db12g12w2lr2r23k4r6~x2~lr2805035-r1506019/sett.png" alt="Hebridean Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -35,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/w37k4db12g12w2lr2r23w4r6~x2~lr2805035-r1506019/"><circle cx="147.1" cy="114.7" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White</title></circle></a><a href="/variants/s10/r7k2lb16y5lb10k13w28g2w4g2~x2/"><circle cx="90.7" cy="127.9" r="4" fill="#3465a4"><title>Gillies Blue Dress</title></circle></a><a href="/variants/s10/r7k2lb16ly5lb10k13w28dg2w4dg4~x2/"><circle cx="81.9" cy="130.6" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.5" cy="129.5" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s10/y6k2lb15r5lb9k13w25db2w3db2~x2/"><circle cx="80.9" cy="135.1" r="4" fill="#3465a4"><title>Gillies, dress</title></circle></a><a href="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/"><circle cx="90.9" cy="96.0" r="4" fill="#3465a4"><title>MacCulloch Dress</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="96.5" cy="139.2" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="152.8" cy="132.4" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s10/ly6k2r12dg4r8k10w24lb2w3lb2~x2/"><circle cx="88.1" cy="125.5" r="4" fill="#3465a4"><title>Gillies Red Dress</title></circle></a><a href="/variants/s10/y6k2r15g5r8k12w24lb2w4lb2~x2/"><circle cx="79.0" cy="130.2" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><circle cx="119.5" cy="110.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/w37k4db12g12w2lr2r23w4r6~x2~lr2805035-r1506019/"><circle cx="147.5" cy="114.3" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White</title></circle></a><a href="/variants/s10/r7k2lb16y5lb10k13w28g2w4g2~x2/"><circle cx="90.9" cy="127.4" r="4" fill="#3465a4"><title>Gillies Blue Dress</title></circle></a><a href="/variants/s10/r7k2lb16ly5lb10k13w28dg2w4dg4~x2/"><circle cx="82.1" cy="130.1" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.8" cy="129.1" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s10/y6k2lb15r5lb9k13w25db2w3db2~x2/"><circle cx="81.1" cy="134.6" r="4" fill="#3465a4"><title>Gillies, dress</title></circle></a><a href="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/"><circle cx="91.3" cy="95.5" r="4" fill="#3465a4"><title>MacCulloch Dress</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="96.7" cy="138.8" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.2" cy="132.1" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s10/ly6k2r12dg4r8k10w24lb2w3lb2~x2/"><circle cx="88.4" cy="125.0" r="4" fill="#3465a4"><title>Gillies Red Dress</title></circle></a><a href="/variants/s10/y6k2r15g5r8k12w24lb2w4lb2~x2/"><circle cx="79.2" cy="129.7" r="4" fill="#3465a4"><title>Gillies Dress</title></circle></a><circle cx="119.8" cy="110.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

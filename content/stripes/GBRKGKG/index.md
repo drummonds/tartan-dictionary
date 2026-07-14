@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y2db17r2k16g17k2g2~x2/">Greenock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y2db17r2k16g17k2g2~x2/"><img src="/variants/s7/y2db17r2k16g17k2g2~x2/sett.png" alt="Greenock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greenock/">Greenock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greenock/"><img src="/variants/s7/y2db17r2k16g17k2g2~x2/sett.png" alt="Greenock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/g5k2g28k10o26db4g4~x2/">John Telfar, Dunbar hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g5k2g28k10o26db4g4~x2/"><img src="/variants/s7/g5k2g28k10o26db4g4~x2/sett.png" alt="John Telfar, Dunbar hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/john-telfar-dunbar-hunting-2/">John Telfar, Dunbar hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/john-telfar-dunbar-hunting-2/"><img src="/variants/s7/g5k2g28k10o26db4g4~x2/sett.png" alt="John Telfar, Dunbar hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

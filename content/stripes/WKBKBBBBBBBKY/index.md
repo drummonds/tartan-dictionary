@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/">Aberdale (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/"><img src="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/sett.png" alt="Aberdale (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberdale/">Aberdale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdale/"><img src="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/sett.png" alt="Aberdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

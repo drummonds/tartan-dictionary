@@ -12,10 +12,10 @@ crumbs:
 - name: "Ruxton Dress"
   url: "/tartans/r/ru/ruxton-dress/"
 - name: "Ruxton, dress"
-  url: "/setts/dr4y4db9w3y2k9db21y2db2y2db8y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4y4db9w3y2k9db21y2db2y2db8y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ru/ruxton-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWGKBGBGBG](/stripes/bgbwgkbgbgbg/).
 
 Part of the [Ruxton Dress](/tartans/r/ru/ruxton-dress/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Bates-Dayton"
   url: "/tartans/b/ba/bates-dayton/"
 - name: "Bates-Dayton"
-  url: "/setts/dp3r17k3ly3k3dp3k3r7dp8k3dp1ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3r17k3ly3k3dp3k3r7dp8k3dp1ly3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bates-dayton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKYKBKRBKBY](/stripes/brkykbkrbkby/).
 
 Part of the [Bates-Dayton](/tartans/b/ba/bates-dayton/) tartan — the named design grouping this sett with its other cloths.

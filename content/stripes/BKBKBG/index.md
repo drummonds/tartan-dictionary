@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/n6k6n21k16db36y4/">Bareback (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n6k6n21k16db36y4/"><img src="/variants/s6/n6k6n21k16db36y4/sett.png" alt="Bareback (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bareback/">Bareback</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bareback/"><img src="/variants/s6/n6k6n21k16db36y4/sett.png" alt="Bareback sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

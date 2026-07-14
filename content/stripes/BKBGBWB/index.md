@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/t6k8t8g12db29w3db4~x2/">Dickson (Kirkcudbrightshire) (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t6k8t8g12db29w3db4~x2/"><img src="/variants/s7/t6k8t8g12db29w3db4~x2/sett.png" alt="Dickson (Kirkcudbrightshire) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/dickson/">Dickson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/dickson/"><img src="/variants/s7/t6k8t8g12db29w3db4~x2/sett.png" alt="Dickson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

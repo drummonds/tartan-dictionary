@@ -8,10 +8,10 @@ crumbs:
 - name: "Cornwall"
   url: "/tartans/c/co/cornwall/"
 - name: "Cornwall"
-  url: "/setts/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cornwall/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBBBKBBBBKBY](/stripes/bbbkbbbkbbbbkby/).
 
 Part of the [Cornwall](/tartans/c/co/cornwall/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=769](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2006 — Cornwall (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=769">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#0C585C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #0C585C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Woven sample. Not large enough to see whole sett so a little bit of guesswork involved.</em></li>
-<li>pre 2006 — Cornwall (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7057">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#0C585C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #0C585C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Woven sample. Not large enough to see whole sett so a little bit of guesswork involved.</em></li>
+<li>pre 2006 — Cornwall (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7057/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#0C585C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #0C585C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Woven sample. Not large enough to see whole sett so a little bit of guesswork involved.</em></li>
 </ul>
 </details>
 

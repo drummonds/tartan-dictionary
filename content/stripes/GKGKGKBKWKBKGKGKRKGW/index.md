@@ -28,10 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1y6k1g32k2r5k2g15w6~x2/">Unidentified #30</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1y6k1g32k2r5k2g15w6~x2/"><img src="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1y6k1g32k2r5k2g15w6~x2/sett.png" alt="Unidentified #30 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/">Unnamed No 38 Artifact Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/"><img src="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/sett.png" alt="Unnamed No 38 Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayre-2/">Ayre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ay/ayre-2/"><img src="/variants/s20/g82k2g2k2g2k8db28k2w6k2db28k2y6k2g32k2r5k2g15w6/sett.png" alt="Ayre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unnamed-8/">Unnamed 8</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-8/"><img src="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1y6k1g32k2r5k2g15w6~x2/sett.png" alt="Unnamed 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unnamed-no-38/">Unnamed No 38</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-no-38/"><img src="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/sett.png" alt="Unnamed No 38 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

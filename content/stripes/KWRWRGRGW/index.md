@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w5g3r3g3r3lb20r16w21k3~x2/">Oliver Dress, Pink (Dance?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w5g3r3g3r3lb20r16w21k3~x2/"><img src="/variants/s9/w5g3r3g3r3lb20r16w21k3~x2/sett.png" alt="Oliver Dress, Pink (Dance?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/oliver-dress-pink/">Oliver Dress, Pink</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/oliver-dress-pink/"><img src="/variants/s9/w5g3r3g3r3lb20r16w21k3~x2/sett.png" alt="Oliver Dress, Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/">MacEwan Arisaid (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/"><img src="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/sett.png" alt="MacEwan Arisaid (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macewan-arisaid/">MacEwan Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macewan-arisaid/"><img src="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/sett.png" alt="MacEwan Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

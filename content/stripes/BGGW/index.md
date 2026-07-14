@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/dp6g15dg15w2~x2/">Thistle and Kudzu Scottish Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dp6g15dg15w2~x2/"><img src="/variants/s4/dp6g15dg15w2~x2/sett.png" alt="Thistle and Kudzu Scottish Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thistle-and-kudzu-scottish-society/">Thistle and Kudzu Scottish Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thistle-and-kudzu-scottish-society/"><img src="/variants/s4/dp6g15dg15w2~x2/sett.png" alt="Thistle and Kudzu Scottish Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

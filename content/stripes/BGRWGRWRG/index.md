@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/">Hybelius, J-A (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><img src="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/sett.png" alt="Hybelius, J-A (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hy/hybelius-j-a/">Hybelius, J-A</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hy/hybelius-j-a/"><img src="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/sett.png" alt="Hybelius, J-A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

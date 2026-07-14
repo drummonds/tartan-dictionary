@@ -8,10 +8,10 @@ crumbs:
 - name: "Fabric of Scotland , The"
   url: "/tartans/f/fa/fabric-of-scotland-the/"
 - name: "Fabric of Scotland (Prickly Thistle), The"
-  url: "/setts/o42y11o5y4dg29dgi19g24dpi2dp8dpii23/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o42y11o5y4dg29dgi19g24dpi2dp8dpii23/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fa/fabric-of-scotland-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGGGGRGR](/stripes/bbbggggrgr/).
 
 Part of the [Fabric of Scotland , The](/tartans/f/fa/fabric-of-scotland-the/) tartan — the named design grouping this sett with its other cloths.

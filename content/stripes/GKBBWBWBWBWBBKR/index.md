@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r3k2dbi18db11w3db2w2db5w2db2w3db11dbi18k2y3~x2~dbi1604274-db0805267/">Citadel, Military Academy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r3k2dbi18db11w3db2w2db5w2db2w3db11dbi18k2y3~x2~dbi1604274-db0805267/"><img src="/variants/s15/r3k2dbi18db11w3db2w2db5w2db2w3db11dbi18k2y3~x2~dbi1604274-db0805267/sett.png" alt="Citadel, Military Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/citadel-military-academy/">Citadel Military Academy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/citadel-military-academy/"><img src="/variants/s15/r3k2dbi18db11w3db2w2db5w2db2w3db11dbi18k2y3~x2~dbi1604274-db0805267/sett.png" alt="Citadel Military Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/">Hart of Scotland (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/"><img src="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/sett.png" alt="Hart of Scotland (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hart-of-scotland/">Hart of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hart-of-scotland/"><img src="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2~db1406275-r2109032/sett.png" alt="Hart of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

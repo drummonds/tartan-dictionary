@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dp27db4k27g27lo4~x2/">Selkirk (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp27db4k27g27lo4~x2/"><img src="/variants/s5/dp27db4k27g27lo4~x2/sett.png" alt="Selkirk (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/selkirk-2/">Selkirk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/selkirk-2/"><img src="/variants/s5/dp27db4k27g27lo4~x2/sett.png" alt="Selkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

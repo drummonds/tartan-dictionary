@@ -12,22 +12,22 @@ crumbs:
 - name: "Stewart of Atholl"
   url: "/tartans/s/st/stewart-of-atholl/"
 - name: "Stewart of Atholl (Clan)"
-  url: "/setts/g22k1g2k1g3k8r20k1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g22k1g2k1g3k8r20k1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-of-atholl/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKRKR](/stripes/gkgkgkrkr/).
 
 Part of the [Stewart of Atholl](/tartans/s/st/stewart-of-atholl/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=802](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=802)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/802/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/802/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1829 Cromarty Ms — Stewart of Atholl (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=802">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Prepared for the Vestiarium Scoticum but not included in the published version. It was claimed to be the sett of a 'relic from the '45' and published as such by D.W.Stewart in his book 'Old and Rare Scottish Tartans' in 1893. It has become more widely known in recent times. There is also an Atholl district tartan. This, with two slight colour variations is also Lindsay - the black changes to blue and the red changes to maroon.</em></li>
+<li>1829 Cromarty Ms — Stewart of Atholl (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/802/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Prepared for the Vestiarium Scoticum but not included in the published version. It was claimed to be the sett of a 'relic from the '45' and published as such by D.W.Stewart in his book 'Old and Rare Scottish Tartans' in 1893. It has become more widely known in recent times. There is also an Atholl district tartan. This, with two slight colour variations is also Lindsay - the black changes to blue and the red changes to maroon.</em></li>
 <li>01/01/1842 — Stewart/Stuart of Atholl (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3950">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005028"></span><br><em>Prepared for the Vestiarium Scoticum but not included in the published version. It was claimed to be the sett of a 'relic from the '45' and published as such by D.W. Stewart in his book 'Old and Rare Scottish Tartans' in 1893. It has become more widely known in recent times. There is also an Atholl district tartan. The sett is similar to the Lindsay (WR704) but for the dark blue through the red rendered in this tartan as black.</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=802](htt
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

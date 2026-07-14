@@ -28,20 +28,18 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/">Connacht Irish District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><img src="/variants/s6/r2db32g14db5g16w2~x2~g2106142/sett.png" alt="Connacht Irish District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r1db12g5db2g4lb1~x2/">Connaught Green</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><img src="/variants/s6/r1db12g5db2g4lb1~x2/sett.png" alt="Connaught Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r8b1g4b1g1lb2~x2/">Moray of Abercairney</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><img src="/variants/s6/r8b1g4b1g1lb2~x2/sett.png" alt="Moray of Abercairney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connacht-2/">Connacht</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connacht-2/"><img src="/variants/s6/r2db32g14db5g16w2~x2~g2106142/sett.png" alt="Connacht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connaught-2/">Connaught</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connaught-2/"><img src="/variants/s6/r1db12g5db2g4lb1~x2/sett.png" alt="Connaught sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moray-of-abercairney-2/">Moray of Abercairney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moray-of-abercairney-2/"><img src="/variants/s6/r8b1g4b1g1lb2~x2/sett.png" alt="Moray of Abercairney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/r4dp12dg2dp2dg46w1~x2/">Kinfauns Castle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r4dp12dg2dp2dg46w1~x2/"><img src="/variants/s6/r4dp12dg2dp2dg46w1~x2/sett.png" alt="Kinfauns Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r4dp12g2dp2g46w1~x2/">Kinfauns Castle (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r4dp12g2dp2g46w1~x2/"><img src="/variants/s6/r4dp12g2dp2g46w1~x2/sett.png" alt="Kinfauns Castle (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/deeside-royal/">Deeside, Royal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/deeside-royal/"><img src="/variants/s6/lp4dy2dp4dy35t27r3~x2/sett.png" alt="Deeside, Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/lp4dy2dp4dy35t27r3~x2/">Deeside, Royal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lp4dy2dp4dy35t27r3~x2/"><img src="/variants/s6/lp4dy2dp4dy35t27r3~x2/sett.png" alt="Deeside, Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinfauns-castle/">Kinfauns Castle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinfauns-castle/"><img src="/variants/s6/r4dp12g2dp2g46w1~x2/sett.png" alt="Kinfauns Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

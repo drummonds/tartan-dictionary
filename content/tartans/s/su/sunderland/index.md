@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Sunderland"
   url: "/clan/sunderland/"
+aliases:
+- "/setts/db12w4db1w4r8w2r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbwrwr/">BWBWRWR</a></nav>
 A tartan of [Clan Sunderland](/clan/sunderland/).
 Its design is pattern [BWBWRWR](/stripes/bwbwrwr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Sunderland** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db12w4db1w4r8w2r1/">Sunderland</a></td><td><code>DB/48 W16 DB4 W16 R32 W8 R/4</code></td><td>204</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db12w4db1w4r8w2r1/"><img src="/variants/s7/db12w4db1w4r8w2r1~x4/sett.png" alt="Sunderland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db12w4db1w4r8w2r1~x4/">Sunderland</a></td><td><code>DB/48 W16 DB4 W16 R32 W8 R/4</code></td><td>204</td><td>2006</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db12w4db1w4r8w2r1~x4/"><img src="/variants/s7/db12w4db1w4r8w2r1~x4/sett.png" alt="Sunderland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.1" cy="199.3" r="4" fill="#3465a4"><title>MacPherson Blue/White</title></circle></a><a href="/variants/s8/r9w5lb57k5lb9r29k18w9/"><circle cx="195.6" cy="153.7" r="4" fill="#3465a4"><title>Yale College of Wrexham</title></circle></a><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><circle cx="195.6" cy="153.7" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.3" cy="146.6" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s8/r20db2r2db2ly3db12w18db3~x2~ly2705081/"><circle cx="179.2" cy="183.4" r="4" fill="#3465a4"><title>Heriot</title></circle></a><a href="/variants/s6/db3r24db3r3db25w3~x2/"><circle cx="324.2" cy="203.8" r="4" fill="#3465a4"><title>Matthews</title></circle></a><a href="/variants/s7/r12y3w14db10y2db24r2~x2/"><circle cx="232.6" cy="185.4" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/"><circle cx="223.8" cy="167.5" r="4" fill="#3465a4"><title>Lennox Purple Dress</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="166.3" cy="202.8" r="4" fill="#3465a4"><title>Thomson, Navy</title></circle></a><a href="/variants/s9/w6r3db36r4db12w24r72w8db4/"><circle cx="289.9" cy="137.1" r="4" fill="#3465a4"><title>Snoozzzeee</title></circle></a><circle cx="223.4" cy="201.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.6" cy="199.1" r="4" fill="#3465a4"><title>MacPherson Blue/White</title></circle></a><a href="/variants/s8/r9w5lb57k5lb9r29k18w9/"><circle cx="196.1" cy="153.4" r="4" fill="#3465a4"><title>Yale College of Wrexham</title></circle></a><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><circle cx="196.1" cy="153.4" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.9" cy="146.4" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s8/r20db2r2db2ly3db12w18db3~x2~ly2705081/"><circle cx="179.5" cy="183.2" r="4" fill="#3465a4"><title>Heriot</title></circle></a><a href="/variants/s6/db3r24db3r3db25w3~x2/"><circle cx="325.0" cy="203.9" r="4" fill="#3465a4"><title>Matthews</title></circle></a><a href="/variants/s7/r12y3w14db10y2db24r2~x2/"><circle cx="233.1" cy="185.3" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/"><circle cx="224.3" cy="167.3" r="4" fill="#3465a4"><title>Lennox Purple Dress</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="166.5" cy="202.5" r="4" fill="#3465a4"><title>Thomson, Navy</title></circle></a><a href="/variants/s9/w6r3db36r4db12w24r72w8db4/"><circle cx="290.6" cy="137.0" r="4" fill="#3465a4"><title>Snoozzzeee</title></circle></a><circle cx="223.8" cy="201.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

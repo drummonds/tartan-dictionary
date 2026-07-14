@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dy2lb2ly4dy5ly5dy46ly7dy1w2~x2/">KIltwalk, The (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy2lb2ly4dy5ly5dy46ly7dy1w2~x2/"><img src="/variants/s9/dy2lb2ly4dy5ly5dy46ly7dy1w2~x2/sett.png" alt="KIltwalk, The (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kiltwalk-the/">KIltwalk, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kiltwalk-the/"><img src="/variants/s9/dy2lb2ly4dy5ly5dy46ly7dy1w2~x2/sett.png" alt="KIltwalk, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

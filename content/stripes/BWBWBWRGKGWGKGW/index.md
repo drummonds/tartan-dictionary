@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/w16dy1k2dy1w16g2k1g2r22w4db3w4db3w4db3~x2/">Salaberry-de-Valleyfield Ceremonial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w16dy1k2dy1w16g2k1g2r22w4db3w4db3w4db3~x2/"><img src="/variants/s15/w16dy1k2dy1w16g2k1g2r22w4db3w4db3w4db3~x2/sett.png" alt="Salaberry-de-Valleyfield Ceremonial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/salaberry-de-valleyfield-ceremonial/">Salaberry-de-Valleyfield Ceremonial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/salaberry-de-valleyfield-ceremonial/"><img src="/variants/s15/w16dy1k2dy1w16g2k1g2r22w4db3w4db3w4db3~x2/sett.png" alt="Salaberry-de-Valleyfield Ceremonial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

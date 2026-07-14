@@ -12,10 +12,10 @@ crumbs:
 - name: "Burnett"
   url: "/tartans/b/bu/burnett/"
 - name: "Burnett"
-  url: "/setts/r4g14ly3g14r4g3r29y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4g14ly3g14r4g3r29y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/burnett/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGYGR](/stripes/grgrgygr/).
 
 Part of the [Burnett](/tartans/b/bu/burnett/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=443](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Burnett (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=443">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><br><em>Woven by Lochcarron of Scotland. Note that the yellow lines are on green bands here.</em></li>
-<li>pre 2002 — Burnett (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2355">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><br><em>Woven by Lochcarron of Scotland. Note that the yellow lines are on green bands here unlike #3772 by Dalgliesh where they are on black. Sample in STA Dalgety Collection + Lochcarron swatch. The latter has a darker red and dark green.</em></li>
+<li>pre 2002 — Burnett (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2355/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><br><em>Woven by Lochcarron of Scotland. Note that the yellow lines are on green bands here unlike #3772 by Dalgliesh where they are on black. Sample in STA Dalgety Collection + Lochcarron swatch. The latter has a darker red and dark green.</em></li>
 </ul>
 </details>
 

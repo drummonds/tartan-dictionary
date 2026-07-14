@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db5dg3db32k16g32dg3g5/">MacThomas LC</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db5dg3db32k16g32dg3g5/"><img src="/variants/s7/db5dg3db32k16g32dg3g5/sett.png" alt="MacThomas LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macthomas-lc-2/">MacThomas LC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macthomas-lc-2/"><img src="/variants/s7/db5dg3db32k16g32dg3g5/sett.png" alt="MacThomas LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

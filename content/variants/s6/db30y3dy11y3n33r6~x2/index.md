@@ -12,10 +12,10 @@ crumbs:
 - name: "Balfour"
   url: "/tartans/b/ba/balfour/"
 - name: "Balfour"
-  url: "/setts/db30y3dy11y3n33r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db30y3dy11y3n33r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/balfour/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGBR](/stripes/bgggbr/).
 
 Part of the [Balfour](/tartans/b/ba/balfour/) tartan — the named design grouping this sett with its other cloths.

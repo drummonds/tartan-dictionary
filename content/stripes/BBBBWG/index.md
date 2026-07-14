@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g8w3n6db11n30db5~x2/">Craig Devlin (Dundee) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g8w3n6db11n30db5~x2/"><img src="/variants/s6/g8w3n6db11n30db5~x2/sett.png" alt="Craig Devlin (Dundee) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/craig-devlin/">Craig Devlin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/craig-devlin/"><img src="/variants/s6/g8w3n6db11n30db5~x2/sett.png" alt="Craig Devlin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

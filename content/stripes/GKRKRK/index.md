@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k99r5k4r3k2g1~x2/">Allt Dubh (Black Burn)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k99r5k4r3k2g1~x2/"><img src="/variants/s6/k99r5k4r3k2g1~x2/sett.png" alt="Allt Dubh (Black Burn) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k2r6k2r6k12y1/">MacQueen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k2r6k2r6k12y1/"><img src="/variants/s6/k2r6k2r6k12y1~x2/sett.png" alt="MacQueen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/allt-dubh/">Allt Dubh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allt-dubh/"><img src="/variants/s6/k99r5k4r3k2g1~x2/sett.png" alt="Allt Dubh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macqueen/">MacQueen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macqueen/"><img src="/variants/s6/k2r6k2r6k12y1~x2/sett.png" alt="MacQueen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -11,11 +11,11 @@ crumbs:
   url: "/families/mack-of-stoneywood/"
 - name: "Mack of Stoneywood Hunting"
   url: "/tartans/m/ma/mack-of-stoneywood-hunting/"
-- name: "Mack of Stoneywood Hunting (Pers.)"
-  url: "/setts/dg18dgi4lb1dgi5dg6dgi3k1dy6k1dgi25lb1/"
+- name: "Mack of Stoneywood Hunting (Personal)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg18dgi4lb1dgi5dg6dgi3k1dy6k1dgi25lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mack-of-stoneywood-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGGGKGKGW](/stripes/ggwgggkgkgw/).
 
 Part of the [Mack of Stoneywood Hunting](/tartans/m/ma/mack-of-stoneywood-hunting/) tartan — the named design grouping this sett with its other cloths.

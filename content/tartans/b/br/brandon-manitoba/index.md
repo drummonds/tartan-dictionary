@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dy83k35w3g35k3y10/"
+- "/setts/y83k35w3g35k3ly10/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgwkg/">GKGWKG</a></nav>
 Its design is pattern [GKGWKG](/stripes/gkgwkg/) — the page of every tartan sharing this colour sequence.
 
 Trade tartan for Brandon, Manitoba; produced by Dalgleish as Hamilton of Brandon, resembling Cape Breton and Paton's Jacobite.
@@ -15,10 +19,10 @@ The **Brandon Manitoba** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dy83k35w3g35k3y10/">Brandon Manitoba</a> ★</td><td><code>DY/83 K35 W3 G35 K3 Y/10</code></td><td>245</td><td>~1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy83k35w3g35k3y10/"><img src="/variants/s6/dy83k35w3g35k3y10/sett.png" alt="Brandon Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/y83k35w3g35k3ly10/">Brandon, Manitoba</a></td><td><code>Y/83 K35 W3 G35 K3 LY/10</code></td><td>245</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y83k35w3g35k3ly10/"><img src="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/sett.png" alt="Brandon, Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy83k35w3g35k3y10/">Brandon Manitoba</a> ★</td><td><code>DY/83 K35 W3 G35 K3 Y/10</code></td><td>245</td><td>~1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy83k35w3g35k3y10/"><img src="/variants/s6/dy83k35w3g35k3y10/sett.png" alt="Brandon Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/">Brandon, Manitoba</a></td><td><code>Y/83 K35 W3 G35 K3 LY/10</code></td><td>245</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/"><img src="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/sett.png" alt="Brandon, Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="288.7" cy="149.4" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="306.3" cy="155.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="195.2" cy="146.6" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s6/o84k35lr3dg35k3ly10~o2205070-dg1806142/"><circle cx="244.6" cy="125.7" r="4" fill="#3465a4"><title>Brandon</title></circle></a><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/"><circle cx="170.9" cy="158.7" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="154.3" cy="174.3" r="4" fill="#3465a4"><title>Bryant</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="301.2" cy="153.3" r="4" fill="#3465a4"><title>Holehouse, Dag</title></circle></a><a href="/variants/s6/y2k6g33k33dp33w2~x2/"><circle cx="164.3" cy="160.4" r="4" fill="#3465a4"><title>MacNeil 8</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="229.9" cy="152.3" r="4" fill="#3465a4"><title>Bryan Wedding</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="299.5" cy="124.5" r="4" fill="#3465a4"><title>Moran</title></circle></a><circle cx="261.6" cy="136.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="289.4" cy="149.5" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="307.2" cy="155.5" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="195.8" cy="146.5" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s6/o84k35lr3dg35k3ly10~o2205070-dg1806142/"><circle cx="245.3" cy="125.6" r="4" fill="#3465a4"><title>Brandon</title></circle></a><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/"><circle cx="171.2" cy="158.6" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="154.7" cy="174.2" r="4" fill="#3465a4"><title>Bryant</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="301.8" cy="153.4" r="4" fill="#3465a4"><title>Holehouse, Dag</title></circle></a><a href="/variants/s6/y2k6g33k33dp33w2~x2/"><circle cx="164.8" cy="160.3" r="4" fill="#3465a4"><title>MacNeil 8</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="230.5" cy="152.2" r="4" fill="#3465a4"><title>Bryan Wedding</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="300.4" cy="124.6" r="4" fill="#3465a4"><title>Moran</title></circle></a><circle cx="262.3" cy="136.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

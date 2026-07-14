@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/campbell/"
 - name: "Campbell of Argyll"
   url: "/families/campbell-of-argyll/"
+aliases:
+- "/setts/db2k2db12k11g16w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkgw/">BKBKGW</a></nav>
 A tartan of the [Campbell of Argyll](/families/campbell-of-argyll/) family.
 Its design is pattern [BKBKGW](/stripes/bkbkgw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Campbell of Argyll** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db2k2db12k11g16w2/">Campbell of Argyll</a></td><td><code>DB/4 K4 DB24 K22 G32 W/4</code></td><td>172</td><td>1890</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2k2db12k11g16w2/"><img src="/variants/s6/db2k2db12k11g16w2~x2/sett.png" alt="Campbell of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db2k2db12k11g16w2~x2/">Campbell of Argyll</a></td><td><code>DB/4 K4 DB24 K22 G32 W/4</code></td><td>172</td><td>1890</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db2k2db12k11g16w2~x2/"><img src="/variants/s6/db2k2db12k11g16w2~x2/sett.png" alt="Campbell of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="131.3" cy="224.5" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="134.2" cy="220.2" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="225.7" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s7/lb2g6y1k6db6k1db1~x2/"><circle cx="85.9" cy="207.0" r="4" fill="#3465a4"><title>Hogarth of Firhill</title></circle></a><a href="/variants/s7/db20k6dy4db3k16g20w2~x2/"><circle cx="122.2" cy="187.3" r="4" fill="#3465a4"><title>Deloughery, Paul</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="142.2" cy="212.0" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="102.8" cy="211.9" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="138.8" cy="207.2" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s6/k4w2g13k13b12k2~x2/"><circle cx="139.4" cy="214.1" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/db4k2db16k10g18k3~x2/"><circle cx="193.5" cy="222.9" r="4" fill="#3465a4"><title>Wartley Hunting</title></circle></a><circle cx="148.4" cy="209.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="131.6" cy="224.3" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="134.5" cy="220.0" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.7" cy="225.6" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s7/lb2g6y1k6db6k1db1~x2/"><circle cx="86.1" cy="206.8" r="4" fill="#3465a4"><title>Hogarth of Firhill</title></circle></a><a href="/variants/s7/db20k6dy4db3k16g20w2~x2/"><circle cx="122.4" cy="187.1" r="4" fill="#3465a4"><title>Deloughery, Paul</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="142.6" cy="211.8" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="103.0" cy="211.6" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="139.1" cy="207.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s6/k4w2g13k13b12k2~x2/"><circle cx="139.7" cy="214.0" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/db4k2db16k10g18k3~x2/"><circle cx="193.9" cy="222.9" r="4" fill="#3465a4"><title>Wartley Hunting</title></circle></a><circle cx="148.8" cy="209.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

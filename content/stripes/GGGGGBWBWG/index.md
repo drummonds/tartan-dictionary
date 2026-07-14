@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y2w1db4w1db1y1dg12y1dg2y1~x4/">Henry, David G (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y2w1db4w1db1y1dg12y1dg2y1~x4/"><img src="/variants/s10/y2w1db4w1db1y1dg12y1dg2y1~x4/sett.png" alt="Henry, David G (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/henry-david-g/">Henry, David G</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/henry-david-g/"><img src="/variants/s10/y2w1db4w1db1y1dg12y1dg2y1~x4/sett.png" alt="Henry, David G sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

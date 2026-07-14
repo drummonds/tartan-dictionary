@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/">Guildry of Stirling</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/"><img src="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/sett.png" alt="Guildry of Stirling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/">Reagan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/"><img src="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/sett.png" alt="Reagan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/guildry-of-stirling/">Guildry of Stirling</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/guildry-of-stirling/"><img src="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/sett.png" alt="Guildry of Stirling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/">Guildry of Stirling</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/"><img src="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/sett.png" alt="Guildry of Stirling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/reagan-3/">Reagan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/reagan-3/"><img src="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/sett.png" alt="Reagan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

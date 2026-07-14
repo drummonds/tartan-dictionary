@@ -10,10 +10,10 @@ crumbs:
 - name: "Balmoral, Gillies"
   url: "/tartans/b/ba/balmoral-gillies-2/"
 - name: "Balmoral, Gillies"
-  url: "/setts/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/balmoral-gillies-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGKBGBGBKBR](/stripes/brbgkbgbgbkbr/).
 
 Part of the [Balmoral, Gillies](/tartans/b/ba/balmoral-gillies-2/) tartan — the named design grouping this sett with its other cloths.

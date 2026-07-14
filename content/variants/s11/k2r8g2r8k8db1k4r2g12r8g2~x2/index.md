@@ -8,10 +8,10 @@ crumbs:
 - name: "MacNichol"
   url: "/tartans/m/ma/macnichol/"
 - name: "MacNichol Clan Tartan"
-  url: "/setts/k2r8g2r8k8db1k4r2g12r8g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2r8g2r8k8db1k4r2g12r8g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macnichol/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRKBKRGRK](/stripes/grgrkbkrgrk/).
 
 Part of the [MacNichol](/tartans/m/ma/macnichol/) tartan — the named design grouping this sett with its other cloths.

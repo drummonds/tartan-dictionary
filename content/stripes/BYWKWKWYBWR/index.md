@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/">Ar Lenn Vor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/"><img src="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/sett.png" alt="Ar Lenn Vor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/ar-lenn-vor/">Ar Lenn Vor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/ar-lenn-vor/"><img src="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/sett.png" alt="Ar Lenn Vor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

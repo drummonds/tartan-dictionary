@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/">Isla Grant (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/"><img src="/variants/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/sett.png" alt="Isla Grant (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/isla-grant/">Isla Grant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isla-grant/"><img src="/variants/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/sett.png" alt="Isla Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

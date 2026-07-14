@@ -8,10 +8,10 @@ crumbs:
 - name: "Dobrain"
   url: "/tartans/d/do/dobrain/"
 - name: "Dobrain (Personal)"
-  url: "/setts/o24lb2o4n2k6lb2o14k3lb4n8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o24lb2o4n2k6lb2o14k3lb4n8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/dobrain/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKRWKBRWR](/stripes/bwkrwkbrwr/).
 
 Part of the [Dobrain](/tartans/d/do/dobrain/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=941](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Dobrain (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=941">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C82800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LC #C82800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C8C8C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #8C8C8C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#646464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #646464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>No details whatsoever. Assume that it was designed and woven by D.C. Dalgliesh of Selkirk as a personal tartan for someone of the name.</em></li>
-<li>pre 2002 — Dobrain (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4118">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C82800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LC #C82800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C8C8C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #8C8C8C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#646464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #646464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>No details whatsoever. Assume that it was designed and woven by D C Dalgliesh of Selkirk as a personal tartan for someone of the name.</em></li>
+<li>pre 2002 — Dobrain (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4118/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C82800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LC #C82800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C8C8C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #8C8C8C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#646464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #646464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>No details whatsoever. Assume that it was designed and woven by D C Dalgliesh of Selkirk as a personal tartan for someone of the name.</em></li>
 </ul>
 </details>
 

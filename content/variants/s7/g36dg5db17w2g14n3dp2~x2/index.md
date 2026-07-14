@@ -8,10 +8,10 @@ crumbs:
 - name: "Mounth, The"
   url: "/tartans/m/mo/mounth-the-2/"
 - name: "Mounth,The Rejected"
-  url: "/setts/g36dg5db17w2g14n3dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g36dg5db17w2g14n3dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/mounth-the-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGWBGG](/stripes/bbgwbgg/).
 
 Part of the [Mounth, The](/tartans/m/mo/mounth-the-2/) tartan — the named design grouping this sett with its other cloths.

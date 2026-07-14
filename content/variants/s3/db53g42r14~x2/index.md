@@ -8,10 +8,10 @@ crumbs:
 - name: "Agnew"
   url: "/tartans/a/ag/agnew/"
 - name: "Agnew"
-  url: "/setts/db53g42r14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db53g42r14/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ag/agnew/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGR](/stripes/bgr/).
 
 Part of the [Agnew](/tartans/a/ag/agnew/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=26](http
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1976 — Agnew (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=26">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Recorded in Lyon Court Books, 1978.</em></li>
-<li>1976 — Agnew (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=182">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Recorded in Lyon Court Book. LCB35 dated 17th August 1978. Lyon count: B106 G84 R28.- the definitive count as stated by Sir Crispin Agnew of Lochnaw Bt. The tartan was laughingly referred to as the MacAgnew tartan in the family. Fascinating story behind this design - see relevant STA Tartan fact file. Sindex card erroneously dates Lyon entry to 1948.</em></li>
+<li>1976 — Agnew (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/182/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Recorded in Lyon Court Book. LCB35 dated 17th August 1978. Lyon count: B106 G84 R28.- the definitive count as stated by Sir Crispin Agnew of Lochnaw Bt. The tartan was laughingly referred to as the MacAgnew tartan in the family. Fascinating story behind this design - see relevant STA Tartan fact file. Sindex card erroneously dates Lyon entry to 1948.</em></li>
 </ul>
 </details>
 

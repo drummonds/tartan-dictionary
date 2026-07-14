@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/">Green Rover, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><img src="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/sett.png" alt="Green Rover, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/green-rover-the/">Green Rover, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/green-rover-the/"><img src="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/sett.png" alt="Green Rover, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

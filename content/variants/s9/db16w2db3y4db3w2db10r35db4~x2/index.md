@@ -12,10 +12,10 @@ crumbs:
 - name: "Mercer"
   url: "/tartans/m/me/mercer-2/"
 - name: "Mercer Personal Tartan"
-  url: "/setts/db16w2db3y4db3w2db10r35db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16w2db3y4db3w2db10r35db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/mercer-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBGBWB](/stripes/brbwbgbwb/).
 
 Part of the [Mercer](/tartans/m/me/mercer-2/) tartan — the named design grouping this sett with its other cloths.

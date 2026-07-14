@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/w4dg10b9dg4b1lb3b1dg69b10dg2b1lb4b1dg2b18dg2b1lb3b1db2b99dg4b5db2~x2/">Unidentified Plaid 1</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/w4dg10b9dg4b1lb3b1dg69b10dg2b1lb4b1dg2b18dg2b1lb3b1db2b99dg4b5db2~x2/"><img src="/variants/s24/w4dg10b9dg4b1lb3b1dg69b10dg2b1lb4b1dg2b18dg2b1lb3b1db2b99dg4b5db2~x2/sett.png" alt="Unidentified Plaid 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-plaid-1/">Unidentified Plaid 1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-plaid-1/"><img src="/variants/s24/w4dg10b9dg4b1lb3b1dg69b10dg2b1lb4b1dg2b18dg2b1lb3b1db2b99dg4b5db2~x2/sett.png" alt="Unidentified Plaid 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

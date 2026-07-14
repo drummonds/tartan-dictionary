@@ -12,10 +12,10 @@ crumbs:
 - name: "Ferguson"
   url: "/tartans/f/fe/ferguson-2/"
 - name: "Ferguson"
-  url: "/setts/g2db12r1k12g12k2g12k12r1db12g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2db12r1k12g12k2g12k12r1db12g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/ferguson-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRKGKGKRBG](/stripes/gbrkgkgkrbg/).
 
 Part of the [Ferguson](/tartans/f/fe/ferguson-2/) tartan — the named design grouping this sett with its other cloths.

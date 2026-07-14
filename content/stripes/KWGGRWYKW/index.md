@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/">Leaf Peeper</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/"><img src="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/sett.png" alt="Leaf Peeper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leaf-peeper/">Leaf Peeper</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leaf-peeper/"><img src="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/sett.png" alt="Leaf Peeper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

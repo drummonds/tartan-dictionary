@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g22k3g3dg16g6k4~x2~g2203152-dg1806142/">Campbell Simpson (Dalgliesh)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g22k3g3dg16g6k4~x2~g2203152-dg1806142/"><img src="/variants/s6/g22k3g3dg16g6k4~x2~g2203152-dg1806142/sett.png" alt="Campbell Simpson (Dalgliesh) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g12k2g2dg9g4k2~x4~g2408144-dg1605139/">Campbell-Simpson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g12k2g2dg9g4k2~x4~g2408144-dg1605139/"><img src="/variants/s6/g12k2g2dg9g4k2~x4~g2408144-dg1605139/sett.png" alt="Campbell-Simpson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-simpson-2/">Campbell Simpson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-simpson-2/"><img src="/variants/s6/g22k3g3dg16g6k4~x2~g2203152-dg1806142/sett.png" alt="Campbell Simpson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-simpson-3/">Campbell-Simpson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-simpson-3/"><img src="/variants/s6/g12k2g2dg9g4k2~x4~dg1605139/sett.png" alt="Campbell-Simpson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

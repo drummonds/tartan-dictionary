@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/">Huntley Fire Protection District</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/"><img src="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/sett.png" alt="Huntley Fire Protection District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/huntley-fire-protection-district/">Huntley Fire Protection District</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/huntley-fire-protection-district/"><img src="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/sett.png" alt="Huntley Fire Protection District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan East"
   url: "/clan/east/"
+aliases:
+- "/setts/lo2w1db6w1ly2k17ly1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ykywbwy/">YKYWBWY</a></nav>
 A tartan of [Clan East](/clan/east/).
 Its design is pattern [YKYWBWY](/stripes/ykywbwy/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **East Tennessee State University** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lo2w1db6w1ly2k17ly1/">East Tennessee State University</a></td><td><code>LO/4 W2 DB12 W2 LY4 K34 LY/2</code></td><td>114</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lo2w1db6w1ly2k17ly1/"><img src="/variants/s7/lo2w1db6w1ly2k17ly1~x2/sett.png" alt="East Tennessee State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lo2w1db6w1ly2k17ly1~x2/">East Tennessee State University</a></td><td><code>LO/4 W2 DB12 W2 LY4 K34 LY/2</code></td><td>114</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lo2w1db6w1ly2k17ly1~x2/"><img src="/variants/s7/lo2w1db6w1ly2k17ly1~x2/sett.png" alt="East Tennessee State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="309.4" cy="78.5" r="4" fill="#3465a4"><title>Tainsh</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="302.7" cy="96.3" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><a href="/variants/s5/n4k48n16r12db3~x2/"><circle cx="304.8" cy="154.0" r="4" fill="#3465a4"><title>Calgary Firefighters</title></circle></a><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="324.5" cy="57.3" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="335.9" cy="83.6" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="259.8" cy="96.6" r="4" fill="#3465a4"><title>Royal College of G.P.s</title></circle></a><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="187.7" cy="118.9" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="278.8" cy="126.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="217.7" cy="107.3" r="4" fill="#3465a4"><title>Kaptain</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="288.9" cy="136.6" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><circle cx="261.8" cy="109.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="310.5" cy="78.5" r="4" fill="#3465a4"><title>Tainsh</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="303.7" cy="96.3" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><a href="/variants/s5/n4k48n16r12db3~x2/"><circle cx="305.7" cy="154.1" r="4" fill="#3465a4"><title>Calgary Firefighters</title></circle></a><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="325.6" cy="57.3" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="337.1" cy="83.7" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="260.6" cy="96.5" r="4" fill="#3465a4"><title>Royal College of G.P.s</title></circle></a><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="188.3" cy="118.7" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="279.7" cy="126.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="218.5" cy="107.2" r="4" fill="#3465a4"><title>Kaptain</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="289.9" cy="136.7" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><circle cx="262.7" cy="109.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

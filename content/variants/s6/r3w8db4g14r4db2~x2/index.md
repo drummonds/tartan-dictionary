@@ -12,10 +12,10 @@ crumbs:
 - name: "MacIntosh Dress"
   url: "/tartans/m/ma/macintosh-dress/"
 - name: "MacIntosh Dress Clan Tartan"
-  url: "/setts/r3w8db4g14r4db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3w8db4g14r4db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macintosh-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBWR](/stripes/brgbwr/).
 
 Part of the [MacIntosh Dress](/tartans/m/ma/macintosh-dress/) tartan — the named design grouping this sett with its other cloths.

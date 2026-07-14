@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k6db49g10k2g10k2lr26k2g2~x2/">Madras 3 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k6db49g10k2g10k2lr26k2g2~x2/"><img src="/variants/s9/k6db49g10k2g10k2lr26k2g2~x2/sett.png" alt="Madras 3 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/madras-3/">Madras 3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/madras-3/"><img src="/variants/s9/k6db49g10k2g10k2lr26k2g2~x2/sett.png" alt="Madras 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

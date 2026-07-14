@@ -12,15 +12,15 @@ crumbs:
 - name: "Seton Hunting"
   url: "/tartans/s/se/seton-hunting/"
 - name: "Seton Hunting"
-  url: "/setts/dy3g1dy15r2dy1r2dy1g7w1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy3g1dy15r2dy1r2dy1g7w1g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGGRGRGGWGWGGRGRGG](/stripes/gggrgrggwgwggrgrgg/).
+provenance below. It is one weaving of the [sett](/tartans/s/se/seton-hunting/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGRGRGGWG](/stripes/gggrgrggwg/).
 
 Part of the [Seton Hunting](/tartans/s/se/seton-hunting/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3771](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3771)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 938
 
 ## Thread count
-DY/12 G4 DY60 R8 DY4 R8 DY4 G28 W4 G8 W4 G28 DY4 R8 DY4 R8 DY60 G/4
+DY/12 G4 DY60 R8 DY4 R8 DY4 G28 W4 G/8
 
-One full sett is **504 threads**.
+One full sett is **260 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DY/12 G4 DY60 R8 DY4 R8 DY4 G28 W4 G8 W4 G28 DY4 R8 DY4 R8 DY60 G/4 — 504 threads; it folds to the canonical 260-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **504 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/12 G4 DY60 R8 DY4 R8 DY4 G28 W4 G8 W4 G28 DY4 R8 DY4 R8 DY60 G/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/12 G4 DY60 R8 DY4 R8 DY4 G28 W4 G/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k40dp5k6y26n13k9dy3~x2/">de Meuron (Neuchâtel) Dress, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k40dp5k6y26n13k9dy3~x2/"><img src="/variants/s7/k40dp5k6y26n13k9dy3~x2/sett.png" alt="de Meuron (Neuchâtel) Dress, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/de-meuron-dress-the/">de Meuron Dress, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/de-meuron-dress-the/"><img src="/variants/s7/k40dp5k6y26n13k9dy3~x2/sett.png" alt="de Meuron Dress, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

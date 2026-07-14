@@ -12,10 +12,10 @@ crumbs:
 - name: "Connacht"
   url: "/tartans/c/co/connacht-4/"
 - name: "Connacht"
-  url: "/setts/b64g4o1g4o1g4o64do2o2do8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b64g4o1g4o1g4o64do2o2do8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/connacht-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGRGRBRB](/stripes/bgrgrgrbrb/).
 
 Part of the [Connacht](/tartans/c/co/connacht-4/) tartan — the named design grouping this sett with its other cloths.

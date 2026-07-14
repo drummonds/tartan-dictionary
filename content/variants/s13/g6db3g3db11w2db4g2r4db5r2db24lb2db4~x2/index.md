@@ -8,10 +8,10 @@ crumbs:
 - name: "Massachusetts-The Bay State"
   url: "/tartans/m/ma/massachusetts-the-bay-state/"
 - name: "Massachusetts-The Bay State"
-  url: "/setts/g6db3g3db11w2db4g2r4db5r2db24lb2db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g6db3g3db11w2db4g2r4db5r2db24lb2db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/massachusetts-the-bay-state/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRBRGBWBGBG](/stripes/bwbrbrgbwbgbg/).
 
 Part of the [Massachusetts-The Bay State](/tartans/m/ma/massachusetts-the-bay-state/) tartan — the named design grouping this sett with its other cloths.

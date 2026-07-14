@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lo3dt1lo1dt16do2dt2do2dt3do12doi26ly2doi3lb2~x2~do1103038-doi1402055/">Buglass</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lo3dt1lo1dt16do2dt2do2dt3do12doi26ly2doi3lb2~x2~do1103038-doi1402055/"><img src="/variants/s13/lo3dt1lo1dt16do2dt2do2dt3do12doi26ly2doi3lb2~x2~do1103038-doi1402055/sett.png" alt="Buglass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buglass/">Buglass</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buglass/"><img src="/variants/s13/lo3dt1lo1dt16do2dt2do2dt3do12doi26ly2doi3lb2~x2~do1103038-doi1402055/sett.png" alt="Buglass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

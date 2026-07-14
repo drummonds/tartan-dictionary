@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s81/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3-h378a4ed8be4b82af/">Unidentified Scarlett #13</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s81/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3-h378a4ed8be4b82af/"><img src="/variants/s81/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3-h378a4ed8be4b82af/sett.png?s=n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1~x2~r2806019-lb3203246" alt="Unidentified Scarlett #13 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-scarlett-12/">Unidentified Scarlett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-scarlett-12/"><img src="/variants/s81/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3-h378a4ed8be4b82af/sett.png?s=n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1~x2~r2806019-lb3203246" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

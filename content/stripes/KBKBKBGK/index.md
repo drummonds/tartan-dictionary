@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/">Scottish Funereal Association</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/"><img src="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/sett.png" alt="Scottish Funereal Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-funereal-association/">Scottish Funereal Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-funereal-association/"><img src="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/sett.png" alt="Scottish Funereal Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

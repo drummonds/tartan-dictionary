@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb9db3g11k7dg3k3dg32r3w3r7~x2~g2408144-dg1806142/">Lyons</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb9db3g11k7dg3k3dg32r3w3r7~x2~g2408144-dg1806142/"><img src="/variants/s10/lb9db3g11k7dg3k3dg32r3w3r7~x2~g2408144-dg1806142/sett.png" alt="Lyons sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ly/lyons/">Lyons</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ly/lyons/"><img src="/variants/s10/lb9db3g11k7dg3k3dg32r3w3r7~x2~g2408144-dg1806142/sett.png" alt="Lyons sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

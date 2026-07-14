@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Glencross"
   url: "/clan/glencross/"
+aliases:
+- "/setts/r3g13db13dy2dg34w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgbggw/">RGBGGW</a></nav>
 A tartan of [Clan Glencross](/clan/glencross/).
 Its design is pattern [RGBGGW](/stripes/rgbggw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Glencross, Tynron** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3g13db13dy2dg34w3/">Glencross, Tynron</a></td><td><code>R/6 G26 DB26 DY4 DG68 W/6</code></td><td>260</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g13db13dy2dg34w3/"><img src="/variants/s6/r3g13db13dy2dg34w3~x2/sett.png" alt="Glencross, Tynron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r3g13db13dy2dg34w3~x2/">Glencross, Tynron</a></td><td><code>R/6 G26 DB26 DY4 DG68 W/6</code></td><td>260</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r3g13db13dy2dg34w3~x2/"><img src="/variants/s6/r3g13db13dy2dg34w3~x2/sett.png" alt="Glencross, Tynron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="264.4" cy="173.2" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="232.2" cy="231.2" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s5/dg5r3g30db30w3~x2/"><circle cx="237.3" cy="211.6" r="4" fill="#3465a4"><title>Gamba</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="203.2" cy="155.2" r="4" fill="#3465a4"><title>Royal British Legion</title></circle></a><a href="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/"><circle cx="258.8" cy="162.3" r="4" fill="#3465a4"><title>Waterford Irish County</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="165.0" cy="169.1" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s7/t13g2t12k8r1dt35ly1~x2~g2408144/"><circle cx="272.8" cy="112.6" r="4" fill="#3465a4"><title>Spirit of South Lanarkshire</title></circle></a><a href="/variants/s6/dg42lo2g16db7do16r5~x2/"><circle cx="298.5" cy="193.9" r="4" fill="#3465a4"><title>Waterford, County</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="235.0" cy="158.8" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="199.6" cy="150.8" r="4" fill="#3465a4"><title>Shawlands International</title></circle></a><circle cx="267.1" cy="174.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="264.8" cy="173.1" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="232.4" cy="231.2" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s5/dg5r3g30db30w3~x2/"><circle cx="237.6" cy="211.5" r="4" fill="#3465a4"><title>Gamba</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="203.7" cy="155.0" r="4" fill="#3465a4"><title>Royal British Legion</title></circle></a><a href="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/"><circle cx="259.2" cy="162.3" r="4" fill="#3465a4"><title>Waterford Irish County</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="165.3" cy="168.9" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s7/t13g2t12k8r1dt35ly1~x2~g2408144/"><circle cx="273.5" cy="112.6" r="4" fill="#3465a4"><title>Spirit of South Lanarkshire</title></circle></a><a href="/variants/s6/dg42lo2g16db7do16r5~x2/"><circle cx="298.7" cy="193.9" r="4" fill="#3465a4"><title>Waterford, County</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="235.5" cy="158.7" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="200.1" cy="150.6" r="4" fill="#3465a4"><title>Shawlands International</title></circle></a><circle cx="267.5" cy="174.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

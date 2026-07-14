@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/lennox/"
 - name: "Lennox"
   url: "/families/lennox/"
+aliases:
+- "/setts/dp8db2dp24db5w26k2w8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbwkw/">BBBBWKW</a></nav>
 A tartan of the [Lennox](/families/lennox/) family.
 Its design is pattern [BBBBWKW](/stripes/bbbbwkw/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **Lennox Purple Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp8db2dp24db5w26k2w8/">Lennox Purple Dress</a></td><td><code>DP/16 DB4 DP48 DB10 W52 K4 W/16</code></td><td>268</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp8db2dp24db5w26k2w8/"><img src="/variants/s7/dp8db2dp24db5w26k2w8~x2/sett.png" alt="Lennox Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/">Lennox Purple Dress</a></td><td><code>DP/16 DB4 DP48 DB10 W52 K4 W/16</code></td><td>268</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/"><img src="/variants/s7/dp8db2dp24db5w26k2w8~x2/sett.png" alt="Lennox Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -33,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w5k3w31dp26w4dp10lb4~x2/"><circle cx="236.7" cy="171.8" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s7/r12y3w14db10y2db24r2~x2/"><circle cx="232.6" cy="185.4" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s10/w4db2w1r2w16db16r16db12k1w4~x2/"><circle cx="182.6" cy="145.2" r="4" fill="#3465a4"><title>Spirit of Russia, The</title></circle></a><a href="/variants/s8/w8k6w54db16m6db8m49w6/"><circle cx="205.9" cy="167.6" r="4" fill="#3465a4"><title>Meridia Dance</title></circle></a><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="228.8" cy="182.9" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s11/lb1dp3k2w1dp8w1k2w9k1w3lb1~x6/"><circle cx="170.4" cy="153.8" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/variants/s7/db12w4db1w4r8w2r1~x4/"><circle cx="223.4" cy="201.2" r="4" fill="#3465a4"><title>Sunderland</title></circle></a><a href="/variants/s6/w5db32g12db2w30k4~x2/"><circle cx="201.8" cy="175.7" r="4" fill="#3465a4"><title>Bonnie Royal</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2lb23w2~x2/"><circle cx="196.2" cy="150.8" r="4" fill="#3465a4"><title>Virtuoso</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="166.3" cy="202.8" r="4" fill="#3465a4"><title>Thomson, Navy</title></circle></a><circle cx="223.8" cy="167.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w5k3w31dp26w4dp10lb4~x2/"><circle cx="237.3" cy="171.6" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s7/r12y3w14db10y2db24r2~x2/"><circle cx="233.1" cy="185.3" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s10/w4db2w1r2w16db16r16db12k1w4~x2/"><circle cx="183.1" cy="144.9" r="4" fill="#3465a4"><title>Spirit of Russia, The</title></circle></a><a href="/variants/s8/w8k6w54db16m6db8m49w6/"><circle cx="206.3" cy="167.3" r="4" fill="#3465a4"><title>Meridia Dance</title></circle></a><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="229.4" cy="182.7" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s11/lb1dp3k2w1dp8w1k2w9k1w3lb1~x6/"><circle cx="170.9" cy="153.6" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/variants/s7/db12w4db1w4r8w2r1~x4/"><circle cx="223.8" cy="201.1" r="4" fill="#3465a4"><title>Sunderland</title></circle></a><a href="/variants/s6/w5db32g12db2w30k4~x2/"><circle cx="202.3" cy="175.5" r="4" fill="#3465a4"><title>Bonnie Royal</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2lb23w2~x2/"><circle cx="196.6" cy="150.5" r="4" fill="#3465a4"><title>Virtuoso</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="166.5" cy="202.5" r="4" fill="#3465a4"><title>Thomson, Navy</title></circle></a><circle cx="224.3" cy="167.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

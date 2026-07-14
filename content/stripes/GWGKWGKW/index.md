@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y20w2y20k4w3y3k3w2/">Guzzo Check (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y20w2y20k4w3y3k3w2/"><img src="/variants/s8/y20w2y20k4w3y3k3w2/sett.png" alt="Guzzo Check (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/guzzo-check/">Guzzo Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/guzzo-check/"><img src="/variants/s8/y20w2y20k4w3y3k3w2/sett.png" alt="Guzzo Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

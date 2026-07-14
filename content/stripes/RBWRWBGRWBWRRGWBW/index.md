@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/">Jacobite, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/"><img src="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/sett.png" alt="Jacobite, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/jacobite-dress-2/">Jacobite, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/jacobite-dress-2/"><img src="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/sett.png" alt="Jacobite, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

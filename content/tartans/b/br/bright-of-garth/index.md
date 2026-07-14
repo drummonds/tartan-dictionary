@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/bright/"
 - name: "Bright of Garth"
   url: "/families/bright-of-garth/"
+aliases:
+- "/setts/g7dy6dt7dy1dt2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgg/">BGBGG</a></nav>
 A tartan of the [Bright of Garth](/families/bright-of-garth/) family.
 Its design is pattern [BGBGG](/stripes/bgbgg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Bright of Garth** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g7dy6dt7dy1dt2/">Bright of Garth</a></td><td><code>G/42 DY36 DT42 DY6 DT/12</code></td><td>222</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g7dy6dt7dy1dt2/"><img src="/variants/s5/g7dy6dt7dy1dt2~x6/sett.png" alt="Bright of Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g7dy6dt7dy1dt2~x6/">Bright of Garth</a></td><td><code>G/42 DY36 DT42 DY6 DT/12</code></td><td>222</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/g7dy6dt7dy1dt2~x6/"><img src="/variants/s5/g7dy6dt7dy1dt2~x6/sett.png" alt="Bright of Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y11dg5y10g4dg26y4~x2/"><circle cx="400.1" cy="302.5" r="4" fill="#3465a4"><title>North Dakota State University Bison</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24ly3~x2~dgi1605139/"><circle cx="424.8" cy="321.1" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="382.3" cy="289.7" r="4" fill="#3465a4"><title>Confederate Cavalry</title></circle></a><a href="/variants/s5/g25y6dg5r3y10~x4/"><circle cx="392.9" cy="297.9" r="4" fill="#3465a4"><title>Pendlebury, Andrew</title></circle></a><a href="/variants/s7/dy5r3dy31dg20dy3g22r5~x2/"><circle cx="302.0" cy="247.6" r="4" fill="#3465a4"><title>Ballantrae</title></circle></a><a href="/variants/s7/dy10r5dy62dg40dy5g44r10/"><circle cx="310.3" cy="240.1" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s5/o2g10dy15o10g2~x4/"><circle cx="291.5" cy="299.0" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><a href="/variants/s6/y7dg7db2dg7y7w1~x2~dg1806142-db1406275-w4000000/"><circle cx="342.1" cy="331.1" r="4" fill="#3465a4"><title>Norwich No.078</title></circle></a><a href="/variants/s4/dy5dt32dy32w5~x2/"><circle cx="396.7" cy="322.2" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><a href="/variants/s6/dg30g13dg7g30dg2y4~x2/"><circle cx="423.5" cy="275.0" r="4" fill="#3465a4"><title>MacSporran Rejected design</title></circle></a><circle cx="333.7" cy="347.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y11dg5y10g4dg26y4~x2/"><circle cx="400.4" cy="302.9" r="4" fill="#3465a4"><title>North Dakota State University Bison</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24ly3~x2~dgi1605139/"><circle cx="424.8" cy="321.4" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="382.6" cy="290.0" r="4" fill="#3465a4"><title>Confederate Cavalry</title></circle></a><a href="/variants/s5/g25y6dg5r3y10~x4/"><circle cx="393.0" cy="298.1" r="4" fill="#3465a4"><title>Pendlebury, Andrew</title></circle></a><a href="/variants/s7/dy5r3dy31dg20dy3g22r5~x2/"><circle cx="302.1" cy="247.7" r="4" fill="#3465a4"><title>Ballantrae</title></circle></a><a href="/variants/s7/dy10r5dy62dg40dy5g44r10/"><circle cx="310.5" cy="240.2" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s5/o2g10dy15o10g2~x4/"><circle cx="291.6" cy="299.1" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><a href="/variants/s6/y7dg7db2dg7y7w1~x2~dg1806142-db1406275-w4000000/"><circle cx="342.1" cy="331.3" r="4" fill="#3465a4"><title>Norwich No.078</title></circle></a><a href="/variants/s4/dy5dt32dy32w5~x2/"><circle cx="396.9" cy="322.5" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><a href="/variants/s6/dg30g13dg7g30dg2y4~x2/"><circle cx="423.9" cy="275.3" r="4" fill="#3465a4"><title>MacSporran Rejected design</title></circle></a><circle cx="333.6" cy="347.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

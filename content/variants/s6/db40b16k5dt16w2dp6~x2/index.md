@@ -8,10 +8,10 @@ crumbs:
 - name: "McFarland-Collins"
   url: "/tartans/m/mc/mcfarland-collins/"
 - name: "McFarland-Collins"
-  url: "/setts/db40b16k5dt16w2dp6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db40b16k5dt16w2dp6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcfarland-collins/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBWB](/stripes/bbkbwb/).
 
 Part of the [McFarland-Collins](/tartans/m/mc/mcfarland-collins/) tartan — the named design grouping this sett with its other cloths.

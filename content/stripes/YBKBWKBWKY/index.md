@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/">Cavan County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><img src="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/sett.png" alt="Cavan County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cavan-county-crest/">Cavan County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cavan-county-crest/"><img src="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/sett.png" alt="Cavan County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

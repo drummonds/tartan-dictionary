@@ -8,10 +8,10 @@ crumbs:
 - name: "Meaux, Luc G"
   url: "/tartans/m/me/meaux-luc-g/"
 - name: "Meaux, Luc G (Personal)"
-  url: "/setts/db62r24y5g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db62r24y5g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/meaux-luc-g/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGG](/stripes/brgg/).
 
 Part of the [Meaux, Luc G](/tartans/m/me/meaux-luc-g/) tartan — the named design grouping this sett with its other cloths.

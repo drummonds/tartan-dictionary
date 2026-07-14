@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr29n1dr2n1dr60ly2dr2db10dg2g1dg2db10dr2ly2~x2~dg1806142-g2408144/">Burrell (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr29n1dr2n1dr60ly2dr2db10dg2g1dg2db10dr2ly2~x2~dg1806142-g2408144/"><img src="/variants/s14/dr29n1dr2n1dr60ly2dr2db10dg2g1dg2db10dr2ly2~x2~dg1806142-g2408144/sett.png" alt="Burrell (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burrell/">Burrell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burrell/"><img src="/variants/s14/dr29n1dr2n1dr60ly2dr2db10dg2g1dg2db10dr2ly2~x2~dg1806142-g2408144/sett.png" alt="Burrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

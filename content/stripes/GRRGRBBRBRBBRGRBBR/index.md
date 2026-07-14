@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/">Ramada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/"><img src="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/sett.png" alt="Ramada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/ramada/">Ramada</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/ramada/"><img src="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/sett.png" alt="Ramada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/">Unidentified #34</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/"><img src="/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/sett.png" alt="Unidentified #34 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-61/">Unidentified</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-61/"><img src="/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

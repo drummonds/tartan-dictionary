@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r1g8db2g2db6g1db6g2db2g8y1~x4/">Bruce of Crionaich (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r1g8db2g2db6g1db6g2db2g8y1~x4/"><img src="/variants/s11/r1g8db2g2db6g1db6g2db2g8y1~x4/sett.png" alt="Bruce of Crionaich (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bruce-of-crionaich/">Bruce of Crionaich</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bruce-of-crionaich/"><img src="/variants/s11/r1g8db2g2db6g1db6g2db2g8y1~x4/sett.png" alt="Bruce of Crionaich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,7 +8,13 @@ crumbs:
   url: "/clan/montrose/"
 - name: "Montrose"
   url: "/families/montrose/"
+aliases:
+- "/setts/db1k1dr12g12k6db5dr12k1db1/"
+- "/setts/db1k1r12g12k6db5r12k1db1/"
+- "/setts/lb2k2r14g15k8lb7r14k2lb2/"
+- "/setts/w2k2r14g15k8w7r14k2w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbbkgbkb/">BKBBKGBKB</a></nav>
 A tartan of the [Montrose](/families/montrose/) family.
 Its design is pattern [BKBBKGBKB](/stripes/bkbbkgbkb/) — the page of every tartan sharing this colour sequence.
 
@@ -18,15 +24,17 @@ The **Montrose** tartan groups 4 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db1k1dr12g12k6db5dr12k1db1/">Montrose</a> ★</td><td><code>DB/4 K4 DR48 G48 K24 DB20 DR48 K4 DB/4</code></td><td>400</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db1k1dr12g12k6db5dr12k1db1/"><img src="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db1k1r12g12k6db5r12k1db1/">Montrose</a></td><td><code>DB/2 K2 R24 G24 K12 DB10 R24 K2 DB/2</code></td><td>200</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db1k1r12g12k6db5r12k1db1/"><img src="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lb2k2r14g15k8lb7r14k2lb2/">Montrose</a></td><td><code>LB/4 K4 R28 G30 K16 LB14 R28 K4 LB/4</code></td><td>128</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb2k2r14g15k8lb7r14k2lb2/"><img src="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/">Montrose</a> ★</td><td><code>DB/4 K4 DR48 G48 K24 DB20 DR48 K4 DB/4</code></td><td>400</td><td>1986</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><img src="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/">Montrose</a></td><td><code>DB/2 K2 R24 G24 K12 DB10 R24 K2 DB/2</code></td><td>200</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"><img src="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/">Montrose</a></td><td><code>LB/2 K2 R14 G15 K8 LB7 R14 K2 LB/2</code></td><td>128</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/"><img src="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/">Montrose</a></td><td><code>LB/2 K2 R14 G15 K8 LB7 R14 K2 LB/2</code></td><td>128</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2~x2/">Montrose</a></td><td><code>LB/4 K4 R28 G30 K16 LB14 R28 K4 LB/4</code></td><td>256</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/">Montrose</a> · <a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2~x2/">Montrose</a></td></tr>
-<tr><td><a href="/setts/w2k2r14g15k8w7r14k2w2/">Montrose</a></td><td><code>W/2 K2 R14 G15 K8 W7 R14 K2 W/2</code></td><td>128</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2k2r14g15k8w7r14k2w2/"><img src="/variants/s9/w2k2r14g15k8w7r14k2w2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w2k2r14g15k8w7r14k2w2/">Montrose</a></td><td><code>W/2 K2 R14 G15 K8 W7 R14 K2 W/2</code></td><td>128</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w2k2r14g15k8w7r14k2w2/"><img src="/variants/s9/w2k2r14g15k8w7r14k2w2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -39,6 +47,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="183.5" cy="171.3" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="217.7" cy="159.6" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/variants/s6/g4dr28db6g10k10g3~x2/"><circle cx="228.6" cy="202.0" r="4" fill="#3465a4"><title>Canadian Autumn</title></circle></a><a href="/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/"><circle cx="216.7" cy="168.9" r="4" fill="#3465a4"><title>Cavan Irish County</title></circle></a><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><circle cx="213.3" cy="167.6" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/"><circle cx="220.2" cy="167.0" r="4" fill="#3465a4"><title>Speyside</title></circle></a><a href="/variants/s11/k10dr1k3do7n1do1n1do1n1do1n7~x4/"><circle cx="213.3" cy="166.6" r="4" fill="#3465a4"><title>Lunar</title></circle></a><a href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/"><circle cx="201.3" cy="170.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/k5dy5k5dy34n33k6n5lb2/"><circle cx="273.0" cy="163.6" r="4" fill="#3465a4"><title>Brave for Men</title></circle></a><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/"><circle cx="285.7" cy="171.8" r="4" fill="#3465a4"><title>Cork, County</title></circle></a><circle cx="235.3" cy="177.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="184.0" cy="171.2" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="218.2" cy="159.5" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/variants/s6/g4dr28db6g10k10g3~x2/"><circle cx="229.1" cy="202.0" r="4" fill="#3465a4"><title>Canadian Autumn</title></circle></a><a href="/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/"><circle cx="217.3" cy="168.9" r="4" fill="#3465a4"><title>Cavan Irish County</title></circle></a><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><circle cx="213.8" cy="167.6" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/"><circle cx="220.7" cy="166.9" r="4" fill="#3465a4"><title>Speyside</title></circle></a><a href="/variants/s11/k10dr1k3do7n1do1n1do1n1do1n7~x4/"><circle cx="213.8" cy="166.5" r="4" fill="#3465a4"><title>Lunar</title></circle></a><a href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/"><circle cx="201.8" cy="170.1" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/k5dy5k5dy34n33k6n5lb2/"><circle cx="273.6" cy="163.6" r="4" fill="#3465a4"><title>Brave for Men</title></circle></a><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/"><circle cx="286.3" cy="171.9" r="4" fill="#3465a4"><title>Cork, County</title></circle></a><circle cx="235.8" cy="177.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

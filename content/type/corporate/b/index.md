@@ -121,8 +121,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/w5r5w5k15r2~x2/"><img src="/variants/s5/w5r5w5k15r2~x2/sett.png" alt="Braes High School Falkirk" width="140"><br>Braes High School Falkirk</a></li>
 <li><a class="tartan" href="/variants/s9/r4k16w4k16r4k42r20k83r2/"><img src="/variants/s9/r4k16w4k16r4k42r20k83r2/sett.png" alt="Brand Ambassador" width="140"><br>Brand Ambassador</a></li>
 <li><a class="tartan" href="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/"><img src="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/sett.png" alt="Brand Ambassador (Corporate)" width="140"><br>Brand Ambassador (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s9/db60r5db60t40db36r10db36t40w5/"><img src="/variants/s9/db60r5db60t40db36r10db36t40w5/sett.png" alt="Brash" width="140"><br>Brash</a></li>
 <li><a class="tartan" href="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db1004274-dbi1404245/"><img src="/variants/s9/db60r5db60dbi40db36r10db36dbi40w5~db1004274-dbi1404245/sett.png" alt="Brash" width="140"><br>Brash</a></li>
+<li><a class="tartan" href="/variants/s9/db60r5db60t40db36r10db36t40w5/"><img src="/variants/s9/db60r5db60t40db36r10db36t40w5/sett.png" alt="Brash" width="140"><br>Brash</a></li>
 <li><a class="tartan" href="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/"><img src="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/sett.png" alt="Braveheart" width="140"><br>Braveheart</a></li>
 <li><a class="tartan" href="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2lb1~x4/"><img src="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2lb1~x4/sett.png" alt="Braveheart Warrior" width="140"><br>Braveheart Warrior</a></li>
 <li><a class="tartan" href="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><img src="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/sett.png" alt="Braveheart Warrior (Dress)" width="140"><br>Braveheart Warrior (Dress)</a></li>

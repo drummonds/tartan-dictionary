@@ -12,10 +12,10 @@ crumbs:
 - name: "Somerset"
   url: "/tartans/s/so/somerset-4/"
 - name: "Somerset #2"
-  url: "/setts/g14lb14db12lr8dy3k3dy3k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g14lb14db12lr8dy3k3dy3k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/somerset-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBYGKGK](/stripes/gwbygkgk/).
 
 Part of the [Somerset](/tartans/s/so/somerset-4/) tartan — the named design grouping this sett with its other cloths.

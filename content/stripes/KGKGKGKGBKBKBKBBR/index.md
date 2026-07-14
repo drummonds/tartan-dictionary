@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/">Rendell, Charles</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/"><img src="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/sett.png" alt="Rendell, Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/rendell-charles/">Rendell, Charles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/rendell-charles/"><img src="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/sett.png" alt="Rendell, Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

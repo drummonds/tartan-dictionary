@@ -12,15 +12,15 @@ crumbs:
 - name: "Moran"
   url: "/tartans/m/mo/moran-4/"
 - name: "Moran Blue Family Tartan"
-  url: "/setts/t26db13k13w2g8k8t3k8g8w2k13db13t26w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t26db13k13w2g8k8t3k8g8w2k13db13t26w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/moran-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKWGKKBKKGWKBBW](/stripes/bbkwgkkbkkgwkbbw/).
 
 Part of the [Moran](/tartans/m/mo/moran-4/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3901](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3901)
 

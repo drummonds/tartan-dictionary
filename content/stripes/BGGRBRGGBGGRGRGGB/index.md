@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/">Indianapolis MPD Emerald Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/"><img src="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/sett.png" alt="Indianapolis MPD Emerald Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/indianapolis-mpd-emerald-society/">Indianapolis MPD Emerald Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/indianapolis-mpd-emerald-society/"><img src="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/sett.png" alt="Indianapolis MPD Emerald Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

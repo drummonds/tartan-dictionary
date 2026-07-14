@@ -8,10 +8,10 @@ crumbs:
 - name: "MacMillan/Isetan"
   url: "/tartans/m/ma/macmillan-isetan/"
 - name: "MacMillan/Isetan"
-  url: "/setts/g68r24g8dy18g3dy18/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g68r24g8dy18g3dy18/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macmillan-isetan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGRG](/stripes/ggggrg/).
 
 Part of the [MacMillan/Isetan](/tartans/m/ma/macmillan-isetan/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k8r2k3y2k2w3k2dy10g26r2g3k2~x2/">Tara Murphy Irish Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k8r2k3y2k2w3k2dy10g26r2g3k2~x2/"><img src="/variants/s12/k8r2k3y2k2w3k2dy10g26r2g3k2~x2/sett.png" alt="Tara Murphy Irish Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tara-murphy/">Tara Murphy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tara-murphy/"><img src="/variants/s12/k8r2k3y2k2w3k2dy10g26r2g3k2~x2/sett.png" alt="Tara Murphy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

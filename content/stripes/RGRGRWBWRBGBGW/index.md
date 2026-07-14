@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/">San Francisco</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/"><img src="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/sett.png" alt="San Francisco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/san-francisco/">San Francisco</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/san-francisco/"><img src="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/sett.png" alt="San Francisco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db6n3k4dy3k3n3k3dg14lb28n3lb3k2~x2/">Buffalo (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db6n3k4dy3k3n3k3dg14lb28n3lb3k2~x2/"><img src="/variants/s12/db6n3k4dy3k3n3k3dg14lb28n3lb3k2~x2/sett.png" alt="Buffalo (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buffalo-2/">Buffalo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buffalo-2/"><img src="/variants/s12/db6n3k4dy3k3n3k3dg14lb28n3lb3k2~x2/sett.png" alt="Buffalo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

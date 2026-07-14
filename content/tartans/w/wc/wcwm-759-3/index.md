@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Wcwm"
   url: "/clan/wcwm/"
+aliases:
+- "/setts/w5lb34k24lb4dr24lb4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbwkww/">WBWKWW</a></nav>
 A tartan of [Clan Wcwm](/clan/wcwm/).
 Its design is pattern [WBWKWW](/stripes/wbwkww/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Wcwm 759-3** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w5lb34k24lb4dr24lb4/">Wcwm 759-3</a></td><td><code>W/10 LB68 K48 LB8 DR48 LB/8</code></td><td>362</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w5lb34k24lb4dr24lb4/"><img src="/variants/s6/w5lb34k24lb4dr24lb4~x2/sett.png" alt="Wcwm 759-3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/">Wcwm 759-3</a></td><td><code>W/10 LB68 K48 LB8 DR48 LB/8</code></td><td>362</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><img src="/variants/s6/w5lb34k24lb4dr24lb4~x2/sett.png" alt="Wcwm 759-3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/"><circle cx="120.3" cy="232.3" r="4" fill="#3465a4"><title>Wellington or Waterloo Commemorative</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="136.3" cy="214.7" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="185.0" cy="193.6" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><circle cx="207.7" cy="166.1" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="146.5" cy="190.8" r="4" fill="#3465a4"><title>Meg Merrilees Fancy</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="154.3" cy="184.0" r="4" fill="#3465a4"><title>Thompson</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="145.8" cy="191.5" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="144.6" cy="193.1" r="4" fill="#3465a4"><title>Merrilees Dress</title></circle></a><a href="/variants/s5/k3w3k3n10dr1~x6/"><circle cx="218.0" cy="193.9" r="4" fill="#3465a4"><title>Greystone</title></circle></a><a href="/variants/s7/r12y3w14db10y2db24r2~x2/"><circle cx="232.6" cy="185.4" r="4" fill="#3465a4"><title>Yusra</title></circle></a><circle cx="178.6" cy="199.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/"><circle cx="120.5" cy="232.1" r="4" fill="#3465a4"><title>Wellington or Waterloo Commemorative</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="136.6" cy="214.4" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="185.5" cy="193.5" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><circle cx="208.4" cy="165.9" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="146.9" cy="190.6" r="4" fill="#3465a4"><title>Meg Merrilees Fancy</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="154.8" cy="183.8" r="4" fill="#3465a4"><title>Thompson</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="146.2" cy="191.2" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="145.0" cy="192.8" r="4" fill="#3465a4"><title>Merrilees Dress</title></circle></a><a href="/variants/s5/k3w3k3n10dr1~x6/"><circle cx="218.6" cy="193.8" r="4" fill="#3465a4"><title>Greystone</title></circle></a><a href="/variants/s7/r12y3w14db10y2db24r2~x2/"><circle cx="233.1" cy="185.3" r="4" fill="#3465a4"><title>Yusra</title></circle></a><circle cx="179.0" cy="199.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

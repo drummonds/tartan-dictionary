@@ -8,15 +8,15 @@ crumbs:
 - name: "Norwich No.115"
   url: "/tartans/n/no/norwich-no-115/"
 - name: "Norwich No.115"
-  url: "/setts/db10k6y1g6k1g6y1k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10k6y1g6k1g6y1k6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGKGGKBKGGKGGK](/stripes/ggkggkbkggkggk/).
+provenance below. It is one weaving of the [sett](/tartans/n/no/norwich-no-115/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGGKGGK](/stripes/bkggkggk/).
 
 Part of the [Norwich No.115](/tartans/n/no/norwich-no-115/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3197](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3197)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5544
 
 ## Thread count
-K/12 Y2 G12 K2 G12 Y2 K12 DB20 K12 Y2 G12 K2 G12 Y/2
+DB/20 K12 Y2 G12 K2 G12 Y2 K/12
 
-One full sett is **218 threads**.
+One full sett is **116 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/12 Y2 G12 K2 G12 Y2 K12 DB20 K12 Y2 G12 K2 G12 Y/2 — 218 threads; it folds to the canonical 116-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **218 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 Y2 G12 K2 G12 Y2 K12 DB20 K12 Y2 G12 K2 G12 Y/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/20 K12 Y2 G12 K2 G12 Y2 K/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

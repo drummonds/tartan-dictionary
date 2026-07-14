@@ -28,14 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k5g20k18db20r5~x2/">Denholm (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k5g20k18db20r5~x2/"><img src="/variants/s5/k5g20k18db20r5~x2/sett.png" alt="Denholm (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k2g8k7db8r2~x2/">Denholme</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k2g8k7db8r2~x2/"><img src="/variants/s5/k2g8k7db8r2~x2/sett.png" alt="Denholme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k4g8k7db8r4~x2/">Durham</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k4g8k7db8r4~x2/"><img src="/variants/s5/k4g8k7db8r4~x2/sett.png" alt="Durham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k1g3k3db3r1~x4/">Durham District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k1g3k3db3r1~x4/"><img src="/variants/s5/k1g3k3db3r1~x4/sett.png" alt="Durham District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/denholm-2/">Denholm</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/denholm-2/"><img src="/variants/s5/k5g20k18db20r5~x2/sett.png" alt="Denholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/denholme/">Denholme</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/denholme/"><img src="/variants/s5/k2g8k7db8r2~x2/sett.png" alt="Denholme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/durham/">Durham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/durham/"><img src="/variants/s5/k4g8k7db8r4~x2/sett.png" alt="Durham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

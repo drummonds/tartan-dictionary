@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/">Shaw of Tordarroch, Mrs (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/"><img src="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/sett.png" alt="Shaw of Tordarroch, Mrs (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shaw-of-tordarroch-mrs/">Shaw of Tordarroch, Mrs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shaw-of-tordarroch-mrs/"><img src="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/sett.png" alt="Shaw of Tordarroch, Mrs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

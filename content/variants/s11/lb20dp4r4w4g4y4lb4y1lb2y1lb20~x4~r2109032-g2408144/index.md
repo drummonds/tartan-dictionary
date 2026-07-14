@@ -12,10 +12,10 @@ crumbs:
 - name: "Yukon"
   url: "/tartans/y/yu/yukon/"
 - name: "Yukon"
-  url: "/setts/lb20dp4r4w4g4y4lb4y1lb2y1lb20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb20dp4r4w4g4y4lb4y1lb2y1lb20/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/yu/yukon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRWGGWGWGW](/stripes/wbrwggwgwgw/).
 
 Part of the [Yukon](/tartans/y/yu/yukon/) tartan — the named design grouping this sett with its other cloths.

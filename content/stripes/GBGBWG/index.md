@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g4w28dp8dy2db17g4~x2/">Manx Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><img src="/variants/s6/g4w28dp8dy2db17g4~x2/sett.png" alt="Manx Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g4w28dp8y2db17g4~x2/">Manx Dress District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g4w28dp8y2db17g4~x2/"><img src="/variants/s6/g4w28dp8y2db17g4~x2/sett.png" alt="Manx Dress District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-dress/">Manx Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-dress/"><img src="/variants/s6/g4w28dp8dy2db17g4~x2/sett.png" alt="Manx Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

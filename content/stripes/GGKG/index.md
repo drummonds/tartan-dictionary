@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/g14k80g14y5~x2/">Westgate Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g14k80g14y5~x2/"><img src="/variants/s4/g14k80g14y5~x2/sett.png" alt="Westgate Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/k6y1g6~x4/">Wilson's No.197</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k6y1g6~x4/"><img src="/variants/s3/k6y1g6~x4/sett.png" alt="Wilson's No.197 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westgate/">Westgate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westgate/"><img src="/variants/s4/g14k80g14y5~x2/sett.png" alt="Westgate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

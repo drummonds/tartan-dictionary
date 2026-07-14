@@ -10,10 +10,10 @@ crumbs:
 - name: "Lochaber Cameron"
   url: "/tartans/l/lo/lochaber-cameron/"
 - name: "Lochaber Cameron"
-  url: "/setts/db8lb3db40r3k44lb3r3g40r2k4r7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8lb3db40r3k44lb3r3g40r2k4r7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lochaber-cameron/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRKWRGRKR](/stripes/bwbrkwrgrkr/).
 
 Part of the [Lochaber Cameron](/tartans/l/lo/lochaber-cameron/) tartan — the named design grouping this sett with its other cloths.

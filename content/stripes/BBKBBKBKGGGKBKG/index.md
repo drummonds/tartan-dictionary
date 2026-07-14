@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/">Angove, the Black Swan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/"><img src="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/sett.png" alt="Angove, the Black Swan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/angove-the-black-swan-2/">Angove, the Black Swan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/angove-the-black-swan-2/"><img src="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/sett.png" alt="Angove, the Black Swan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

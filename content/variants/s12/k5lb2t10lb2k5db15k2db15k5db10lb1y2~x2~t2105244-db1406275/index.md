@@ -8,10 +8,10 @@ crumbs:
 - name: "Goodwin, Robert Richard"
   url: "/tartans/g/go/goodwin-robert-richard/"
 - name: "Goodwin, Robert Richard (Personal)"
-  url: "/setts/k5lb2t10lb2k5db15k2db15k5db10lb1y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5lb2t10lb2k5db15k2db15k5db10lb1y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/goodwin-robert-richard/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBKBKBKWBWK](/stripes/gwbkbkbkwbwk/).
 
 Part of the [Goodwin, Robert Richard](/tartans/g/go/goodwin-robert-richard/) tartan — the named design grouping this sett with its other cloths.

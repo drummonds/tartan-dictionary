@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/">Fermanagh County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/"><img src="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/sett.png" alt="Fermanagh County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fermanagh-county-crest-range/">Fermanagh County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fermanagh-county-crest-range/"><img src="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/sett.png" alt="Fermanagh County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Myles, Lee"
   url: "/tartans/m/my/myles-lee/"
 - name: "Myles, Lee"
-  url: "/setts/m2n3m1n9k4n13k33n1k4m1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/m2n3m1n9k4n13k33n1k4m1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/my/myles-lee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKBKBKR](/stripes/rbrbkbkbkr/).
 
 Part of the [Myles, Lee](/tartans/m/my/myles-lee/) tartan — the named design grouping this sett with its other cloths.

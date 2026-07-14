@@ -12,10 +12,10 @@ crumbs:
 - name: "Little of Morton Rig Family/Clan"
   url: "/tartans/l/li/little-of-morton-rig-family-clan/"
 - name: "Little of Morton Rig Family/Clan Tartan"
-  url: "/setts/k4lb4k4lb4k4dr8k2dr8k8lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4lb4k4lb4k4dr8k2dr8k8lo1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/little-of-morton-rig-family-clan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKBKBKY](/stripes/kwkwkbkbky/).
 
 Part of the [Little of Morton Rig Family/Clan](/tartans/l/li/little-of-morton-rig-family-clan/) tartan — the named design grouping this sett with its other cloths.

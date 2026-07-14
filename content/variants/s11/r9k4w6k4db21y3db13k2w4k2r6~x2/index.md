@@ -12,10 +12,10 @@ crumbs:
 - name: "Dauphinee"
   url: "/tartans/d/da/dauphinee/"
 - name: "Dauphinee (Trussville, Alabama) (Personal)"
-  url: "/setts/r9k4w6k4db21y3db13k2w4k2r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r9k4w6k4db21y3db13k2w4k2r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dauphinee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKBGBKWKR](/stripes/rkwkbgbkwkr/).
 
 Part of the [Dauphinee](/tartans/d/da/dauphinee/) tartan — the named design grouping this sett with its other cloths.

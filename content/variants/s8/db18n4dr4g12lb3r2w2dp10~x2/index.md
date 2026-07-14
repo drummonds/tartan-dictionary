@@ -8,10 +8,10 @@ crumbs:
 - name: "Serco Caledonian Sleeper"
   url: "/tartans/s/se/serco-caledonian-sleeper/"
 - name: "Serco Caledonian Sleeper"
-  url: "/setts/db18n4dr4g12lb3r2w2dp10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18n4dr4g12lb3r2w2dp10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/se/serco-caledonian-sleeper/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGWRWB](/stripes/bbbgwrwb/).
 
 Part of the [Serco Caledonian Sleeper](/tartans/s/se/serco-caledonian-sleeper/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/">Etive, Burgundy (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/"><img src="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/sett.png" alt="Etive, Burgundy (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/et/etive-burgundy/">Etive Burgundy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/et/etive-burgundy/"><img src="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/sett.png" alt="Etive Burgundy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

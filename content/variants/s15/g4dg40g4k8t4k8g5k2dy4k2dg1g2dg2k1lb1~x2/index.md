@@ -8,10 +8,10 @@ crumbs:
 - name: "Eastern Shore Police Emerald So"
   url: "/tartans/e/ea/eastern-shore-police-emerald-so/"
 - name: "Eastern Shore Police Emerald So Corporate Tartan"
-  url: "/setts/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ea/eastern-shore-police-emerald-so/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKBKGKGKGGGKW](/stripes/gggkbkgkgkgggkw/).
 
 Part of the [Eastern Shore Police Emerald So](/tartans/e/ea/eastern-shore-police-emerald-so/) tartan — the named design grouping this sett with its other cloths.

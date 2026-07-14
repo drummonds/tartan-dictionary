@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dr1db1/">Rob Roy, Blue &amp; Red (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dr1db1/"><img src="/variants/s2/dr1db1~x14/sett.png" alt="Rob Roy, Blue &amp; Red (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cairnbulg-inverllocjy-fisher/">Cairnbulg &amp; Inverllocjy Fisher</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cairnbulg-inverllocjy-fisher/"><img src="/variants/s2/dr1db1~x14/sett.png" alt="Cairnbulg &amp; Inverllocjy Fisher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/db1t1/">St. Combs Fisher Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db1t1/"><img src="/variants/s2/db1t1~x14/sett.png" alt="St. Combs Fisher Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-combs-fisher/">St. Combs Fisher</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-combs-fisher/"><img src="/variants/s2/db1t1~x14/sett.png" alt="St. Combs Fisher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

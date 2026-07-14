@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/">Old Glory (1824)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/"><img src="/variants/s24/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/sett.png" alt="Old Glory (1824) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/old-glory/">Old Glory</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/old-glory/"><img src="/variants/s24/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/sett.png" alt="Old Glory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

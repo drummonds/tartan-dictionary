@@ -8,10 +8,10 @@ crumbs:
 - name: "Georgia"
   url: "/tartans/g/ge/georgia/"
 - name: "Georgia, State of"
-  url: "/setts/g36k2g2k2g3k12lb10r20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g36k2g2k2g3k12lb10r20/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ge/georgia/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKWR](/stripes/gkgkgkwr/).
 
 Part of the [Georgia](/tartans/g/ge/georgia/) tartan — the named design grouping this sett with its other cloths.

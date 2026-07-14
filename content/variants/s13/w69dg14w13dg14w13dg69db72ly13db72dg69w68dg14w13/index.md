@@ -10,10 +10,10 @@ crumbs:
 - name: "Poulter Hoylake"
   url: "/tartans/p/po/poulter-hoylake/"
 - name: "Poulter Hoylake"
-  url: "/setts/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/poulter-hoylake/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWGBYBGWGWGW](/stripes/wgwgbybgwgwgw/).
 
 Part of the [Poulter Hoylake](/tartans/p/po/poulter-hoylake/) tartan — the named design grouping this sett with its other cloths.

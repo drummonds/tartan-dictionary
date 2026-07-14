@@ -10,10 +10,10 @@ crumbs:
 - name: "MacDougall D"
   url: "/tartans/m/ma/macdougall-d/"
 - name: "MacDougall D"
-  url: "/setts/r5g10r2db2r30dr3r2w1r2dr3r30db2r2g10r10g10dr4r2dr4db10r4g2r4g30r2dr3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5g10r2db2r30dr3r2w1r2dr3r30db2r2g10r10g10dr4r2dr4db10r4g2r4g30r2dr3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdougall-d/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/rgrbrbrwrbrbrgrgbrbbrgrgrbw/).
 
 Part of the [MacDougall D](/tartans/m/ma/macdougall-d/) tartan — the named design grouping this sett with its other cloths.

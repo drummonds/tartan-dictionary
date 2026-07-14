@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3db6y2db15dg12b39w3~x2/">Wagland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3db6y2db15dg12b39w3~x2/"><img src="/variants/s7/r3db6y2db15dg12b39w3~x2/sett.png" alt="Wagland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wagland-3/">Wagland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wagland-3/"><img src="/variants/s7/r3db6y2db15dg12b39w3~x2/sett.png" alt="Wagland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

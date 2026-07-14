@@ -5,22 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Clan Ramada"
-  url: "/clan/ramada/"
-- name: "Ramada"
-  url: "/families/ramada/"
 - name: "Ramada"
   url: "/tartans/r/ra/ramada/"
 - name: "Ramada Corporate Tartan"
-  url: "/setts/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRRGRBBRBRBBRGRBBRBBRGRBBRBRBBRGRR](/stripes/grrgrbbrbrbbrgrbbrbbrgrbbrbrbbrgrr/).
+provenance below. It is one weaving of the [sett](/tartans/r/ra/ramada/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRRGRBBRBRBBRGRBBR](/stripes/grrgrbbrbrbbrgrbbr/).
 
 Part of the [Ramada](/tartans/r/ra/ramada/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6374](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6374)
 
@@ -45,9 +41,11 @@ Earliest known date: 2004 Re-created from an artifact in the Telfer Dunbar colle
 </details>
 
 ## Thread count
-DG/12 R12 O2 DG6 R108 DB2 N2 R6 DB32 R6 N2 DB2 R12 DG60 R12 DB2 N2 R132 N2 DB2 R12 DG60 R12 DB2 N2 R6 DB32 R6 N2 DB2 R108 DG6 O2 R/12
+R/132 N2 DT2 R12 DG60 R12 DT2 N2 R6 DT32 R6 N2 DT2 R108 DG6 O2 R12 DG/12
 
-One full sett is **1336 threads**.
+One full sett is **680 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/12 R12 O2 DG6 R108 DB2 N2 R6 DB32 R6 N2 DB2 R12 DG60 R12 DB2 N2 R132 N2 DB2 R12 DG60 R12 DB2 N2 R6 DB32 R6 N2 DB2 R108 DG6 O2 R/12 — 1336 threads; it folds to the canonical 680-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +54,7 @@ One full sett is **1336 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/12 R12 O2 DG6 R108 DB2 N2 R6 DB32 R6 N2 DB2 R12 DG60 R12 DB2 N2 R132 N2 DB2 R12 DG60 R12 DB2 N2 R6 DB32 R6 N2 DB2 R108 DG6 O2 R/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/132 N2 DT2 R12 DG60 R12 DT2 N2 R6 DT32 R6 N2 DT2 R108 DG6 O2 R12 DG/12 tartan" width="880" height="480">
 
 ## Compared to the master
 

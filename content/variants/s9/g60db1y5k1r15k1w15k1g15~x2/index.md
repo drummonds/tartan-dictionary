@@ -8,10 +8,10 @@ crumbs:
 - name: "Michael Pellicci"
   url: "/tartans/m/mi/michael-pellicci/"
 - name: "Michael Pellicci (Personal)"
-  url: "/setts/g60db1y5k1r15k1w15k1g15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g60db1y5k1r15k1w15k1g15/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/michael-pellicci/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKRKWKG](/stripes/gbgkrkwkg/).
 
 Part of the [Michael Pellicci](/tartans/m/mi/michael-pellicci/) tartan — the named design grouping this sett with its other cloths.

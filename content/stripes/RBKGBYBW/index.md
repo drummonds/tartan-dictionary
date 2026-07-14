@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r2db16k8g1dp8ly1dp2w2~x2/">Freemasons' Universal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r2db16k8g1dp8ly1dp2w2~x2/"><img src="/variants/s8/r2db16k8g1dp8ly1dp2w2~x2/sett.png" alt="Freemasons' Universal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/freemasons-universal/">Freemasons' Universal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/freemasons-universal/"><img src="/variants/s8/r2db16k8g1dp8ly1dp2w2~x2/sett.png" alt="Freemasons' Universal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4r26k4w2k13y4~x2/">Dunbar #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4r26k4w2k13y4~x2/"><img src="/variants/s6/k4r26k4w2k13y4~x2/sett.png" alt="Dunbar #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunbar-3/">Dunbar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunbar-3/"><img src="/variants/s6/k4r26k4w2k13y4~x2/sett.png" alt="Dunbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Scottish Highlander Dress"
   url: "/tartans/s/sc/scottish-highlander-dress/"
 - name: "Scottish Highlander Dress"
-  url: "/setts/b26w2b3db15n26dr2n3db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b26w2b3db15n26dr2n3db4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBBBBWBWBBBBB](/stripes/bbbbbbwbwbbbbb/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-highlander-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBWB](/stripes/bbbbbbwb/).
 
 Part of the [Scottish Highlander Dress](/tartans/s/sc/scottish-highlander-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3723](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3723)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3723](ht
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/10/1997 — Scottish Highlander Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3723">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9058D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PB #9058D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Designed for Gavin Kiltmakers & Dress Hire of Fraserburgh (01346 516039) for their kilt hire range. Based on the Grampian tartan with Maroon and Lavender added for heather and thistles. Will supply the tartan to other kiltmakers.</em></li>
-<li>pre 2002 — Scottish Highlander Dress (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2408">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#9058D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PB #9058D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><br><em>Designed for Gavin Kiltmakers & Dress Hire of Fraserburgh (01346 516039) for their kilt hire range. Based on the Grampian tartan with Maroon and Lavender added for heather and thistles. Will supply the tartan to other kiltmakers.</em></li>
+<li>pre 2002 — Scottish Highlander Dress (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2408/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#9058D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PB #9058D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><br><em>Designed for Gavin Kiltmakers & Dress Hire of Fraserburgh (01346 516039) for their kilt hire range. Based on the Grampian tartan with Maroon and Lavender added for heather and thistles. Will supply the tartan to other kiltmakers.</em></li>
 <li>undated — Scottish Highlander, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C0A0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #C0A0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="J #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#808080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #808080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#802040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #802040"></span></li>
 </ul>
 </details>
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2408
 
 ## Thread count
-DB/8 N6 DR4 N52 DB30 B6 W4 B52 W4 B6 DB30 N52 DR4 N/6
+B/52 W4 B6 DB30 N52 DR4 N6 DB/8
 
-One full sett is **514 threads**.
+One full sett is **264 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/8 N6 DR4 N52 DB30 B6 W4 B52 W4 B6 DB30 N52 DR4 N/6 — 514 threads; it folds to the canonical 264-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **514 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 N6 DR4 N52 DB30 B6 W4 B52 W4 B6 DB30 N52 DR4 N/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="B/52 W4 B6 DB30 N52 DR4 N6 DB/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

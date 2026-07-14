@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/">Normandy (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/"><img src="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/sett.png" alt="Normandy (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/normandy/">Normandy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/normandy/"><img src="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/sett.png" alt="Normandy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

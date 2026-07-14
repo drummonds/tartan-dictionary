@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r40w2db2w2r1y20~x2/">National Defense</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r40w2db2w2r1y20~x2/"><img src="/variants/s6/r40w2db2w2r1y20~x2/sett.png" alt="National Defense sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/national-defense/">National Defense</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/national-defense/"><img src="/variants/s6/r40w2db2w2r1y20~x2/sett.png" alt="National Defense sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

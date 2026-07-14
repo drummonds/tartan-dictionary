@@ -8,10 +8,10 @@ crumbs:
 - name: "Henry, W. A."
   url: "/tartans/h/he/henry-w-a-2/"
 - name: "Henry, W. A."
-  url: "/setts/dy16r16lr3dg16o2r1o2dy6r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy16r16lr3dg16o2r1o2dy6r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/henry-w-a-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRYGRRRGR](/stripes/grygrrrgr/).
 
 Part of the [Henry, W. A.](/tartans/h/he/henry-w-a-2/) tartan — the named design grouping this sett with its other cloths.

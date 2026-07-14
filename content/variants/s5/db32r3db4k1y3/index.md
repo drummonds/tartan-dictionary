@@ -12,10 +12,10 @@ crumbs:
 - name: "MacLaine of Lochbuie Hunting"
   url: "/tartans/m/ma/maclaine-of-lochbuie-hunting/"
 - name: "MacLaine of Lochbuie Hunting"
-  url: "/setts/db32r3db4k1y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db32r3db4k1y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclaine-of-lochbuie-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKG](/stripes/brbkg/).
 
 Part of the [MacLaine of Lochbuie Hunting](/tartans/m/ma/maclaine-of-lochbuie-hunting/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/">Lagavista (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/"><img src="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/sett.png" alt="Lagavista (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lagavista/">Lagavista</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lagavista/"><img src="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/sett.png" alt="Lagavista sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

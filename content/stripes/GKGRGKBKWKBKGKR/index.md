@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/">MacRae Htg - 1820 (Wilsons)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><img src="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/sett.png" alt="MacRae Htg - 1820 (Wilsons) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/">MacRae Hunting (Wilsons)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><img src="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/sett.png" alt="MacRae Hunting (Wilsons) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macrae-hunting-2/">MacRae Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrae-hunting-2/"><img src="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/sett.png" alt="MacRae Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

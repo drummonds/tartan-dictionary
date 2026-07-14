@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dg55k13t4k3g6ly3t2k3dy10k12t14~x2~dg1806142-g2408144/">State Seal of South Carolina (Fash)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dg55k13t4k3g6ly3t2k3dy10k12t14~x2~dg1806142-g2408144/"><img src="/variants/s11/dg55k13t4k3g6ly3t2k3dy10k12t14~x2~dg1806142-g2408144/sett.png" alt="State Seal of South Carolina (Fash) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-south-carolina/">State Seal of South Carolina</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-south-carolina/"><img src="/variants/s11/dg55k13t4k3g6ly3t2k3dy10k12t14~x2~dg1806142-g2408144/sett.png" alt="State Seal of South Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

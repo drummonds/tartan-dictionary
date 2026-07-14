@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/o2db19t6b44w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbbbw/">RBBBW</a></nav>
 Its design is pattern [RBBBW](/stripes/rbbbw/) — the page of every tartan sharing this colour sequence.
 
 The **World Fed. of Bldg Contractors (Corp** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **World Fed. of Bldg Contractors (Corp** tartan is recorded as a single sett
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/o2db19t6b44w2/">World Fed. of Bldg Contractors (Corp</a></td><td><code>W/4 B88 T12 DB38 O/4</code></td><td>284</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/o2db19t6b44w2/"><img src="/variants/s5/o2db19t6b44w2~x2/sett.png" alt="World Fed. of Bldg Contractors (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/o2db19t6b44w2~x2/">World Fed. of Bldg Contractors (Corp</a></td><td><code>O/4 DB38 T12 B88 W/4</code></td><td>284</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/o2db19t6b44w2~x2/"><img src="/variants/s5/o2db19t6b44w2~x2/sett.png" alt="World Fed. of Bldg Contractors (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db40t16k5b16w2dp6~x2/"><circle cx="245.0" cy="163.3" r="4" fill="#3465a4"><title>MacFarland-Collins</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="282.0" cy="217.3" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="258.8" cy="156.6" r="4" fill="#3465a4"><title>Margach, William</title></circle></a><a href="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/"><circle cx="382.7" cy="259.4" r="4" fill="#3465a4"><title>Emond, Kenneth</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="504.6" cy="192.1" r="4" fill="#3465a4"><title>Dunning Primary</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="293.6" cy="216.0" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="341.6" cy="174.6" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s7/w3t38db38w1ti3w1r2~x2~t2405244-ti2503227/"><circle cx="334.5" cy="133.8" r="4" fill="#3465a4"><title>Bousie</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="417.2" cy="222.7" r="4" fill="#3465a4"><title>Ardee</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="441.6" cy="234.8" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><circle cx="429.6" cy="194.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db40t16k5b16w2dp6~x2/"><circle cx="245.5" cy="163.2" r="4" fill="#3465a4"><title>MacFarland-Collins</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="282.3" cy="217.3" r="4" fill="#3465a4"><title>McIntosh, Georgina</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="259.5" cy="156.5" r="4" fill="#3465a4"><title>Margach, William</title></circle></a><a href="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/"><circle cx="382.9" cy="259.5" r="4" fill="#3465a4"><title>Emond, Kenneth</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.4" cy="192.4" r="4" fill="#3465a4"><title>Dunning Primary</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="294.0" cy="216.0" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="342.5" cy="174.8" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s7/w3t38db38w1ti3w1r2~x2~t2405244-ti2503227/"><circle cx="335.2" cy="133.8" r="4" fill="#3465a4"><title>Bousie</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="417.9" cy="223.0" r="4" fill="#3465a4"><title>Ardee</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="442.3" cy="235.1" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><circle cx="430.3" cy="195.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

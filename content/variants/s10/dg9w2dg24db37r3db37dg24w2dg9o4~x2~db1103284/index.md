@@ -12,10 +12,10 @@ crumbs:
 - name: "Hardie"
   url: "/tartans/h/ha/hardie/"
 - name: "Hardie"
-  url: "/setts/dg9w2dg24db37r3db37dg24w2dg9o4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg9w2dg24db37r3db37dg24w2dg9o4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hardie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBRBGWGR](/stripes/gwgbrbgwgr/).
 
 Part of the [Hardie](/tartans/h/ha/hardie/) tartan — the named design grouping this sett with its other cloths.

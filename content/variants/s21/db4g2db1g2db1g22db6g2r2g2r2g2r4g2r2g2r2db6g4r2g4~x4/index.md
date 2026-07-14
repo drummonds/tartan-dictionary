@@ -12,10 +12,10 @@ crumbs:
 - name: "Matheson Hunting"
   url: "/tartans/m/ma/matheson-hunting/"
 - name: "Matheson Hunting (Highland Society of London)"
-  url: "/setts/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/matheson-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGRGRGRGRGRBGRG](/stripes/bgbgbgbgrgrgrgrgrbgrg/).
 
 Part of the [Matheson Hunting](/tartans/m/ma/matheson-hunting/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Cameron of Fassifern and Arthurston"
   url: "/tartans/c/ca/cameron-of-fassifern-and-arthurston/"
 - name: "Cameron of Fassifern and Arthurston"
-  url: "/setts/ly2db8r3db16r1k16dg16r3dg1r1dg8r1dg1r3dg16k16r1db16r3db8ly1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly2db8r3db16r1k16dg16r3dg1r1dg8r1dg1r3dg16k16r1db16r3db8ly1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cameron-of-fassifern-and-arthurston/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBRBRKGRGRGRGRGKRBRBY](/stripes/ybrbrkgrgrgrgrgkrbrby/).
 
 Part of the [Cameron of Fassifern and Arthurston](/tartans/c/ca/cameron-of-fassifern-and-arthurston/) tartan — the named design grouping this sett with its other cloths.

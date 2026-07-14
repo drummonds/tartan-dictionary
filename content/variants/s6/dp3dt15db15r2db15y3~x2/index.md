@@ -8,10 +8,10 @@ crumbs:
 - name: "H.M.S. DUNCAN"
   url: "/tartans/h/h/h-m-s-duncan/"
 - name: "H.M.S. DUNCAN"
-  url: "/setts/dp3dt15db15r2db15y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3dt15db15r2db15y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/h/h-m-s-duncan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBG](/stripes/bbbrbg/).
 
 Part of the [H.M.S. DUNCAN](/tartans/h/h/h-m-s-duncan/) tartan — the named design grouping this sett with its other cloths.

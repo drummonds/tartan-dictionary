@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/">Cotswolds Distillery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/"><img src="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/sett.png" alt="Cotswolds Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cotswolds-distillery/">Cotswolds Distillery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cotswolds-distillery/"><img src="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/sett.png" alt="Cotswolds Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

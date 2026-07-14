@@ -10,10 +10,10 @@ crumbs:
 - name: "Ross Arisaid"
   url: "/tartans/r/ro/ross-arisaid/"
 - name: "Ross Arisaid"
-  url: "/setts/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/ross-arisaid/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKGKGGGGG](/stripes/bwbwkgkggggg/).
 
 Part of the [Ross Arisaid](/tartans/r/ro/ross-arisaid/) tartan — the named design grouping this sett with its other cloths.

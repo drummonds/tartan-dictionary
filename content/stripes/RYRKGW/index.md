@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2ly1r5k4g5w1~x4/">Aboyne II (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><img src="/variants/s6/r2ly1r5k4g5w1~x4/sett.png" alt="Aboyne II (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aboyne/">Aboyne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aboyne/"><img src="/variants/s6/r2ly1r5k4g5w1~x4/sett.png" alt="Aboyne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

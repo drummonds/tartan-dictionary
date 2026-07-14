@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w7k6dy15k24w3~x2/">Longford County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w7k6dy15k24w3~x2/"><img src="/variants/s5/w7k6dy15k24w3~x2/sett.png" alt="Longford County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/longford-county-crest-range/">Longford County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/longford-county-crest-range/"><img src="/variants/s5/w7k6dy15k24w3~x2/sett.png" alt="Longford County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

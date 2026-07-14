@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/">Stand International</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/"><img src="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/sett.png" alt="Stand International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stand-international/">Stand International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stand-international/"><img src="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/sett.png" alt="Stand International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

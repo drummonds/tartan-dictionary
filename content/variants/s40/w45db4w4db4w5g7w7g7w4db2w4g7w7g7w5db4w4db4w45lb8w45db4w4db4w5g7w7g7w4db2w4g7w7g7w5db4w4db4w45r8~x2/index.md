@@ -6,15 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Scarlett"
-  url: "/tartans/u/un/unidentified-scarlett-10/"
+  url: "/tartans/u/un/unidentified-scarlett-13/"
 - name: "Unidentified Scarlett #6"
-  url: "/setts/w45db4w4db4w5g7w7g7w4db2w4g7w7g7w5db4w4db4w45lb8w45db4w4db4w5g7w7g7w4db2w4g7w7g7w5db4w4db4w45r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w45db4w4db4w5g7w7g7w4db2w4g7w7g7w5db4w4db4w45lb8w45db4w4db4w5g7w7g7w4db2w4g7w7g7w5db4w4db4w45r8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-scarlett-13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWBWGWGWBWGWGWBWBWWWBWBWGWGWBWGWGWBWBW](/stripes/rwbwbwgwgwbwgwgwbwbwwwbwbwgwgwbwgwgwbwbw/).
 
-Part of the [Unidentified Scarlett](/tartans/u/un/unidentified-scarlett-10/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Scarlett](/tartans/u/un/unidentified-scarlett-13/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 

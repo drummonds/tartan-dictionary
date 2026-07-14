@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/">Cornish Christophers (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><img src="/variants/s8/g5lg5y26k4y6r5k15w4~x2/sett.png" alt="Cornish Christophers (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cornish-christophers/">Cornish Christophers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-christophers/"><img src="/variants/s8/g5lg5y26k4y6r5k15w4~x2/sett.png" alt="Cornish Christophers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

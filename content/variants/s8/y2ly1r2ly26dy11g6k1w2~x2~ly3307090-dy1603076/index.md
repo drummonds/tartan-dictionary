@@ -10,15 +10,15 @@ crumbs:
 - name: "Saskatchewan"
   url: "/families/saskatchewan/"
 - name: "Saskatchewan"
-  url: "/tartans/s/sa/saskatchewan/"
-- name: "Saskatchewan"
-  url: "/setts/y2ly1r2ly26dy11g6k1w2/"
+  url: "/tartans/s/sa/saskatchewan-3/"
+- name: "Saskatchewan District Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2ly1r2ly26dy11g6k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/saskatchewan-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYRYGGKW](/stripes/gyryggkw/).
 
-Part of the [Saskatchewan](/tartans/s/sa/saskatchewan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Saskatchewan](/tartans/s/sa/saskatchewan-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

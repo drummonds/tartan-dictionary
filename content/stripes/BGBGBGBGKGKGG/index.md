@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/">Beatrice, Princess.. (hunting)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/"><img src="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/sett.png" alt="Beatrice, Princess.. (hunting) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/beatrice-princess/">Beatrice, Princess..</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/beatrice-princess/"><img src="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/sett.png" alt="Beatrice, Princess.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s13/db10g5db5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/">Princess Beatrice Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db10g5db5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/"><img src="/variants/s13/db10g5db5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/sett.png" alt="Princess Beatrice Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/princess-beatrice-htg-fashion/">Princess Beatrice Htg (Fashion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-beatrice-htg-fashion/"><img src="/variants/s13/db10g5db5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/sett.png" alt="Princess Beatrice Htg (Fashion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

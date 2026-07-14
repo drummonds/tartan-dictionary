@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/">Citylink Gold (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/"><img src="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/sett.png" alt="Citylink Gold (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/citylink-gold/">Citylink Gold</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/citylink-gold/"><img src="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/sett.png" alt="Citylink Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

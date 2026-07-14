@@ -11,16 +11,16 @@ crumbs:
   url: "/families/hebridean/"
 - name: "Hebridean 5"
   url: "/tartans/h/he/hebridean-5/"
-- name: "Hebridean 5"
-  url: "/setts/db25dbi2r25g10r4db25r2g2r25g2r2/"
+- name: "Hebrides #2"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db25dbi2r25g10r4db25r2g2r25g2r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBRGRBRGRGRGRGRBRGRB](/stripes/bbrgrbrgrgrgrgrbrgrb/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebridean-5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBRGRBRGRGR](/stripes/bbrgrbrgrgr/).
 
 Part of the [Hebridean 5](/tartans/h/he/hebridean-5/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1658](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1658)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1903
 
 ## Thread count
-DB/50 DBi4 R50 G20 R8 DB50 R4 G4 R50 G4 R4 G4 R50 G4 R4 DB50 R8 G20 R50 DBi/4
+DT/50 DB4 R50 G20 R8 DT50 R4 G4 R50 G4 R/4
 
-One full sett is **830 threads**.
+One full sett is **442 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/50 DBi4 R50 G20 R8 DB50 R4 G4 R50 G4 R4 G4 R50 G4 R4 DB50 R8 G20 R50 DBi/4 — 830 threads; it folds to the canonical 442-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **830 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/50 DBi4 R50 G20 R8 DB50 R4 G4 R50 G4 R4 G4 R50 G4 R4 DB50 R8 G20 R50 DBi/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/50 DB4 R50 G20 R8 DT50 R4 G4 R50 G4 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

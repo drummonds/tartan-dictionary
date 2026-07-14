@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/">Dyce #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><img src="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/sett.png" alt="Dyce #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dy/dyce-2/">Dyce</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dy/dyce-2/"><img src="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/sett.png" alt="Dyce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

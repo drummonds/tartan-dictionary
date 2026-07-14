@@ -10,10 +10,10 @@ crumbs:
 - name: "Dauphinee, Andrew Hunter"
   url: "/tartans/d/da/dauphinee-andrew-hunter/"
 - name: "Dauphinee, Andrew Hunter (Personal)"
-  url: "/setts/r3n32db2n3db4n2db16w1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3n32db2n3db4n2db16w1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dauphinee-andrew-hunter/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBBBBR](/stripes/bwbbbbbbr/).
 
 Part of the [Dauphinee, Andrew Hunter](/tartans/d/da/dauphinee-andrew-hunter/) tartan — the named design grouping this sett with its other cloths.

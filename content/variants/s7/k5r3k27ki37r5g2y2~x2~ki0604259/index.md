@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Marines Condor"
   url: "/tartans/r/ro/royal-marines-condor/"
 - name: "Royal Marines Condor"
-  url: "/setts/k5r3k27ki37r5g2y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5r3k27ki37r5g2y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-marines-condor/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRKKRK](/stripes/ggrkkrk/).
 
 Part of the [Royal Marines Condor](/tartans/r/ro/royal-marines-condor/) tartan — the named design grouping this sett with its other cloths.

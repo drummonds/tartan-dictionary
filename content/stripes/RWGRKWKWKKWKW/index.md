@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r3w2g8r8k16w2k3w2k24w8k2w3~x2/">Niagara Celtic Heritage Festival</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r3w2g8r8k16w2k3w2k24w8k2w3~x2/"><img src="/variants/s12/r3w2g8r8k16w2k3w2k24w8k2w3~x2/sett.png" alt="Niagara Celtic Heritage Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ni/niagara-celtic-heritage-festival/">Niagara Celtic Heritage Festival</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/niagara-celtic-heritage-festival/"><img src="/variants/s12/r3w2g8r8k16w2k3w2k24w8k2w3~x2/sett.png" alt="Niagara Celtic Heritage Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

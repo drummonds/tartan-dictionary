@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/">Parker Black (2009)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/"><img src="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/sett.png" alt="Parker Black (2009) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/parker/">Parker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/parker/"><img src="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/sett.png" alt="Parker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

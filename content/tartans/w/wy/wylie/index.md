@@ -8,7 +8,13 @@ crumbs:
   url: "/clan/wylie/"
 - name: "Wylie"
   url: "/families/wylie/"
+aliases:
+- "/setts/db45k3db10o4k1w2/"
+- "/setts/db45ly3db10o4k1w2/"
+- "/setts/db45y3db10dg4k1w2/"
+- "/setts/t86dy2t18r3k1w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbrkw/">BKBRKW</a></nav>
 A tartan of the [Wylie](/families/wylie/) family.
 Its design is pattern [BKBRKW](/stripes/bkbrkw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,14 +24,14 @@ The **Wylie** tartan groups 4 setts — the same named design recorded as differ
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db45k3db10o4k1w2/">Wylie</a> ★</td><td><code>DB/180 K12 DB40 O16 K4 W/8</code></td><td>332</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db45k3db10o4k1w2/"><img src="/variants/s6/db45k3db10o4k1w2~x4/sett.png" alt="Wylie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db45ly3db10o4k1w2/">(Name)</a></td><td><code>DB/180 LY12 DB40 O16 K4 W/8</code></td><td>332</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db45ly3db10o4k1w2/"><img src="/variants/s6/db45ly3db10o4k1w2~x4/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db45y3db10dg4k1w2/">Wylie</a></td><td><code>DB/90 Y6 DB20 DG8 K2 W/4</code></td><td>166</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db45y3db10dg4k1w2/"><img src="/variants/s6/db45y3db10dg4k1w2~x2/sett.png" alt="Wylie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/t86dy2t18r3k1w2/">(Ancient)</a></td><td><code>T/172 DY4 T36 R6 K2 W/4</code></td><td>272</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t86dy2t18r3k1w2/"><img src="/variants/s6/t86dy2t18r3k1w2~x2/sett.png" alt="(Ancient) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db45k3db10o4k1w2~x4/">Wylie</a> ★</td><td><code>DB/180 K12 DB40 O16 K4 W/8</code></td><td>332</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db45k3db10o4k1w2~x4/"><img src="/variants/s6/db45k3db10o4k1w2~x4/sett.png" alt="Wylie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db45ly3db10o4k1w2~x4/">(Name)</a></td><td><code>DB/180 LY12 DB40 O16 K4 W/8</code></td><td>332</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db45ly3db10o4k1w2~x4/"><img src="/variants/s6/db45ly3db10o4k1w2~x4/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db45y3db10dg4k1w2~x2/">Wylie</a></td><td><code>DB/90 Y6 DB20 DG8 K2 W/4</code></td><td>166</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db45y3db10dg4k1w2~x2/"><img src="/variants/s6/db45y3db10dg4k1w2~x2/sett.png" alt="Wylie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t86dy2t18r3k1w2~x2/">(Ancient)</a></td><td><code>T/172 DY4 T36 R6 K2 W/4</code></td><td>272</td><td>1999</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/t86dy2t18r3k1w2~x2/"><img src="/variants/s6/t86dy2t18r3k1w2~x2/sett.png" alt="(Ancient) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -38,6 +44,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="450.8" cy="102.6" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="480.9" cy="114.9" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/"><circle cx="435.9" cy="92.6" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s4/db50k12db21w5~x2/"><circle cx="480.8" cy="213.6" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/variants/s5/db32r3db4k1y3~x2/"><circle cx="591.7" cy="124.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="463.9" cy="155.6" r="4" fill="#3465a4"><title>Lochcarron</title></circle></a><a href="/variants/s5/y6b38k3b38y6~x2/"><circle cx="574.0" cy="217.6" r="4" fill="#3465a4"><title>The Poulain League</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="450.0" cy="155.3" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="469.3" cy="160.8" r="4" fill="#3465a4"><title>Steffen, Morris</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="477.6" cy="167.9" r="4" fill="#3465a4"><title>Steffen, Markus</title></circle></a><circle cx="579.3" cy="88.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="452.2" cy="102.9" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="482.2" cy="115.2" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/"><circle cx="437.4" cy="92.9" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s4/db50k12db21w5~x2/"><circle cx="482.1" cy="214.1" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/variants/s5/db32r3db4k1y3~x2/"><circle cx="593.4" cy="125.0" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="465.3" cy="155.9" r="4" fill="#3465a4"><title>Lochcarron</title></circle></a><a href="/variants/s5/y6b38k3b38y6~x2/"><circle cx="575.3" cy="218.1" r="4" fill="#3465a4"><title>The Poulain League</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="451.3" cy="155.7" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="470.6" cy="161.1" r="4" fill="#3465a4"><title>Steffen, Morris</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="478.8" cy="168.2" r="4" fill="#3465a4"><title>Steffen, Markus</title></circle></a><circle cx="581.1" cy="89.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

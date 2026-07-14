@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r39dr3w2g14w2y4r4dr2r4y4w2lb12dr6r6y7w2~x2/">North West Mounted Police Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r39dr3w2g14w2y4r4dr2r4y4w2lb12dr6r6y7w2~x2/"><img src="/variants/s16/r39dr3w2g14w2y4r4dr2r4y4w2lb12dr6r6y7w2~x2/sett.png" alt="North West Mounted Police Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/north-west-mounted-police-2/">North West Mounted Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/north-west-mounted-police-2/"><img src="/variants/s16/r39dr3w2g14w2y4r4dr2r4y4w2lb12dr6r6y7w2~x2/sett.png" alt="North West Mounted Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

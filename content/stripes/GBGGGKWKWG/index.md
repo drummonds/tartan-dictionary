@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g9w9k2w2k2y2dg28g2db12g4~x2/">Order of Saint Lazarus</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g9w9k2w2k2y2dg28g2db12g4~x2/"><img src="/variants/s10/g9w9k2w2k2y2dg28g2db12g4~x2/sett.png" alt="Order of Saint Lazarus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/order-of-saint-lazarus/">Order of Saint Lazarus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/order-of-saint-lazarus/"><img src="/variants/s10/g9w9k2w2k2y2dg28g2db12g4~x2/sett.png" alt="Order of Saint Lazarus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

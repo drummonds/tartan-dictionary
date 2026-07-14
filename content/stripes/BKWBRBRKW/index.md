@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/">Montgomerie, Colin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><img src="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/sett.png" alt="Montgomerie, Colin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/montgomerie-colin/">Montgomerie, Colin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montgomerie-colin/"><img src="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/sett.png" alt="Montgomerie, Colin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

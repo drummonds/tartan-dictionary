@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/">Breckon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/"><img src="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/sett.png" alt="Breckon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/breckon/">Breckon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/breckon/"><img src="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/sett.png" alt="Breckon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

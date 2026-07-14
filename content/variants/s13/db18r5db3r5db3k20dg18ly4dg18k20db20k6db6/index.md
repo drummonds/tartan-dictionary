@@ -10,15 +10,15 @@ crumbs:
 - name: "Keith District"
   url: "/tartans/k/ke/keith-district/"
 - name: "Keith District District Tartan"
-  url: "/setts/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBRBKGYGKBKBKBKGYGKBRBR](/stripes/brbrbkgygkbkbkbkgygkbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/k/ke/keith-district/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKGYGKBRBRB](/stripes/bkbkgygkbrbrb/).
 
 Part of the [Keith District](/tartans/k/ke/keith-district/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5782](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5782)
 
@@ -43,9 +43,11 @@ Earliest known date: 2003 Designed by Councillor Linda Gorn of Keith who was ins
 </details>
 
 ## Thread count
-DB/18 R5 DB3 R5 DB3 K20 DG18 LY4 DG18 K20 DB20 K6 DB6 K6 DB20 K20 DG18 LY4 DG18 K20 DB3 R5 DB3 R/5
+DB/18 R5 DB3 R5 DB3 K20 DG18 LY4 DG18 K20 DB20 K6 DB/6
 
-One full sett is **513 threads**.
+One full sett is **268 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/18 R5 DB3 R5 DB3 K20 DG18 LY4 DG18 K20 DB20 K6 DB6 K6 DB20 K20 DG18 LY4 DG18 K20 DB3 R5 DB3 R/5 — 513 threads; it folds to the canonical 268-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **513 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/18 R5 DB3 R5 DB3 K20 DG18 LY4 DG18 K20 DB20 K6 DB6 K6 DB20 K20 DG18 LY4 DG18 K20 DB3 R5 DB3 R/5 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/18 R5 DB3 R5 DB3 K20 DG18 LY4 DG18 K20 DB20 K6 DB/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

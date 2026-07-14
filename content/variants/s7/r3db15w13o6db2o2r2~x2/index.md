@@ -10,10 +10,10 @@ crumbs:
 - name: "Thomson, Navy"
   url: "/tartans/t/th/thomson-navy/"
 - name: "Thom(p)son, Navy"
-  url: "/setts/r3db15w13o6db2o2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3db15w13o6db2o2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thomson-navy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWRBRR](/stripes/rbwrbrr/).
 
 Part of the [Thomson, Navy](/tartans/t/th/thomson-navy/) tartan — the named design grouping this sett with its other cloths.

@@ -10,15 +10,15 @@ crumbs:
 - name: "MacGregor Turquoise Dress"
   url: "/tartans/m/ma/macgregor-turquoise-dress/"
 - name: "MacGregor Turquoise Dress Fashion Tartan"
-  url: "/setts/w52lb22w6lb8k1dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w52lb22w6lb8k1dp3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [WWWKBKWWWW](/stripes/wwwkbkwwww/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-turquoise-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWWWW](/stripes/bkwwww/).
 
 Part of the [MacGregor Turquoise Dress](/tartans/m/ma/macgregor-turquoise-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8193](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8193)
 
@@ -43,9 +43,11 @@ Earliest known date: Threadcount and colours aren't 100% original. Generated man
 </details>
 
 ## Thread count
-W/104 LB44 W12 LB16 K2 DP6 K2 LB16 W12 LB/44
+W/104 LB44 W12 LB16 K2 DP/6
 
-One full sett is **368 threads**.
+One full sett is **258 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/104 LB44 W12 LB16 K2 DP6 K2 LB16 W12 LB/44 — 368 threads; it folds to the canonical 258-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **368 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/104 LB44 W12 LB16 K2 DP6 K2 LB16 W12 LB/44 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/104 LB44 W12 LB16 K2 DP/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

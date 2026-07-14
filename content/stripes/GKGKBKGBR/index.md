@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/">Ewbank</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><img src="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/sett.png" alt="Ewbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ew/ewbank/">Ewbank</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ew/ewbank/"><img src="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/sett.png" alt="Ewbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

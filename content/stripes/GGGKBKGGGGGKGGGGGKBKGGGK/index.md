@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/">Greenshields (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/"><img src="/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/sett.png" alt="Greenshields (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greenshields-3/">Greenshields</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greenshields-3/"><img src="/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/sett.png" alt="Greenshields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

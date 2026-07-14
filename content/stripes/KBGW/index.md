@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k62n24y5w3~x2/">Perry (Calgary), Alex (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k62n24y5w3~x2/"><img src="/variants/s4/k62n24y5w3~x2/sett.png" alt="Perry (Calgary), Alex (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perry-alex/">Perry , Alex</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perry-alex/"><img src="/variants/s4/k62n24y5w3~x2/sett.png" alt="Perry , Alex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

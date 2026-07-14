@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g11r6db6o2g3o2db6r6g36y2o2y2db5r5~x2/">Westmeath</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g11r6db6o2g3o2db6r6g36y2o2y2db5r5~x2/"><img src="/variants/s14/g11r6db6o2g3o2db6r6g36y2o2y2db5r5~x2/sett.png" alt="Westmeath sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westmeath/">Westmeath</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westmeath/"><img src="/variants/s14/g11r6db6o2g3o2db6r6g36y2o2y2db5r5~x2/sett.png" alt="Westmeath sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

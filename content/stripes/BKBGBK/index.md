@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/">MacAn of Lurgyvallan (Hose)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/"><img src="/variants/s6/dr9k1dr5g6dr4k2~x4/sett.png" alt="MacAn of Lurgyvallan (Hose) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macan-of-lurgyvallan-2/">MacAn of Lurgyvallan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macan-of-lurgyvallan-2/"><img src="/variants/s6/dr9k1dr5g6dr4k2~x4/sett.png" alt="MacAn of Lurgyvallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

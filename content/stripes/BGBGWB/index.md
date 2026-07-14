@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/t2g13t11y4w9t2~x2/">Loch Leven</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/t2g13t11y4w9t2~x2/"><img src="/variants/s6/t2g13t11y4w9t2~x2/sett.png" alt="Loch Leven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-leven/">Loch Leven</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-leven/"><img src="/variants/s6/t2g13t11y4w9t2~x2/sett.png" alt="Loch Leven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

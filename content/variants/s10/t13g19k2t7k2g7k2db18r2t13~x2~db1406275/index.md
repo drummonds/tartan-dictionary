@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "South Australia"
-  url: "/tartans/s/so/south-australia-3/"
+  url: "/tartans/s/so/south-australia-2/"
 - name: "South Australia"
-  url: "/setts/t13g19k2t7k2g7k2db18r2t13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t13g19k2t7k2g7k2db18r2t13/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBKGKBKGBGKBKGKBR](/stripes/brbkgkbkgbgkbkgkbr/).
+provenance below. It is one weaving of the [sett](/tartans/s/so/south-australia-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKBKGKBRB](/stripes/bgkbkgkbrb/).
 
-Part of the [South Australia](/tartans/s/so/south-australia-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [South Australia](/tartans/s/so/south-australia-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3841](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3841)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2534
 
 ## Thread count
-T/26 R4 DB36 K4 G14 K4 T14 K4 G38 T26 G38 K4 T14 K4 G14 K4 DB36 R/4
+T/26 G38 K4 T14 K4 G14 K4 DB36 R4 T/26
 
-One full sett is **546 threads**.
+One full sett is **288 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/26 R4 DB36 K4 G14 K4 T14 K4 G38 T26 G38 K4 T14 K4 G14 K4 DB36 R/4 — 546 threads; it folds to the canonical 288-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **546 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/26 R4 DB36 K4 G14 K4 T14 K4 G38 T26 G38 K4 T14 K4 G14 K4 DB36 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/26 G38 K4 T14 K4 G14 K4 DB36 R4 T/26 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

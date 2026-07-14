@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2~x2/">Wanless (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2~x2/"><img src="/variants/s19/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2~x2/sett.png" alt="Wanless (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/racing-wanless-australian/">Racing Wanless Australian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/racing-wanless-australian/"><img src="/variants/s19/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2~x2/sett.png" alt="Racing Wanless Australian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

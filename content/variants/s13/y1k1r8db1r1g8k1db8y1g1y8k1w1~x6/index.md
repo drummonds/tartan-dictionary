@@ -10,10 +10,10 @@ crumbs:
 - name: "Robieson Playfield"
   url: "/tartans/r/ro/robieson-playfield/"
 - name: "Robieson Playfield"
-  url: "/setts/y1k1r8db1r1g8k1db8y1g1y8k1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1k1r8db1r1g8k1db8y1g1y8k1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robieson-playfield/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRBRGKBGGGKW](/stripes/gkrbrgkbgggkw/).
 
 Part of the [Robieson Playfield](/tartans/r/ro/robieson-playfield/) tartan — the named design grouping this sett with its other cloths.

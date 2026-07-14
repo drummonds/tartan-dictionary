@@ -11,11 +11,11 @@ crumbs:
   url: "/families/macgiboney/"
 - name: "MacGiboney"
   url: "/tartans/m/ma/macgiboney-2/"
-- name: "MacGiboney Dress"
-  url: "/setts/g5lb5t1lb1y1lb1t1lb5g5w1/"
+- name: "MacGiboney Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g5lb5t1lb1y1lb1t1lb5g5w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgiboney-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWGWBWGW](/stripes/gwbwgwbwgw/).
 
 Part of the [MacGiboney](/tartans/m/ma/macgiboney-2/) tartan — the named design grouping this sett with its other cloths.

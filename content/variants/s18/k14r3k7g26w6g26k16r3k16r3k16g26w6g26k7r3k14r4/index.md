@@ -8,10 +8,10 @@ crumbs:
 - name: "J & B Whisky"
   url: "/tartans/j/j/j-b-whisky-2/"
 - name: "J & B Whisky (Original)"
-  url: "/setts/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/j/j-b-whisky-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGWGKRKRKGWGKRKR](/stripes/krkgwgkrkrkgwgkrkr/).
 
 Part of the [J & B Whisky](/tartans/j/j/j-b-whisky-2/) tartan — the named design grouping this sett with its other cloths.

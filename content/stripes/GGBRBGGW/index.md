@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg40dy2db3r4db3dy2dg40w3~x2/">Asher (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg40dy2db3r4db3dy2dg40w3~x2/"><img src="/variants/s8/dg40dy2db3r4db3dy2dg40w3~x2/sett.png" alt="Asher (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/as/asher/">Asher</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/as/asher/"><img src="/variants/s8/dg40dy2db3r4db3dy2dg40w3~x2/sett.png" alt="Asher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/g2dg9dr16r2t30g3dg6w1~x2/">The Climb (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g2dg9dr16r2t30g3dg6w1~x2/"><img src="/variants/s8/g2dg9dr16r2t30g3dg6w1~x2/sett.png" alt="The Climb (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/the-climb/">The Climb</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/the-climb/"><img src="/variants/s8/g2dg9dr16r2t30g3dg6w1~x2/sett.png" alt="The Climb sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

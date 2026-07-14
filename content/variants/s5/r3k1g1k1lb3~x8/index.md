@@ -10,15 +10,15 @@ crumbs:
 - name: "Clark"
   url: "/families/clark/"
 - name: "Clark"
-  url: "/tartans/c/cl/clark-2/"
+  url: "/tartans/c/cl/clark-3/"
 - name: "Clark"
-  url: "/setts/r3k1g1k1lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k1g1k1lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clark-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKW](/stripes/rkgkw/).
 
-Part of the [Clark](/tartans/c/cl/clark-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Clark](/tartans/c/cl/clark-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

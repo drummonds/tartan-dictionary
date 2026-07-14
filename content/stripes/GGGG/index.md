@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/">McGuigan, Julia (St Monans, Fife) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/"><img src="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/sett.png" alt="McGuigan, Julia (St Monans, Fife) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcguigan-julia/">McGuigan, Julia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcguigan-julia/"><img src="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/sett.png" alt="McGuigan, Julia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/">Montreat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><img src="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/sett.png" alt="Montreat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/montreat/">Montreat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montreat/"><img src="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/sett.png" alt="Montreat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

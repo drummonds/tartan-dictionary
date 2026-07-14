@@ -12,10 +12,10 @@ crumbs:
 - name: "Leung"
   url: "/tartans/l/le/leung-2/"
 - name: "Leung (Personal)"
-  url: "/setts/dp4db7dp2db25k19w2dg23k2dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4db7dp2db25k19w2dg23k2dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/leung-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKWGKG](/stripes/bbbbkwgkg/).
 
 Part of the [Leung](/tartans/l/le/leung-2/) tartan — the named design grouping this sett with its other cloths.

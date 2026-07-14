@@ -2634,13 +2634,6 @@
       "rank": 0
     },
     {
-      "name": "forfar",
-      "display": "Forfar",
-      "kind": "clan",
-      "url": "/clan/forfar/",
-      "rank": 0
-    },
-    {
       "name": "forget",
       "display": "Forget",
       "kind": "clan",
@@ -3212,13 +3205,6 @@
       "display": "Halliday",
       "kind": "clan",
       "url": "/clan/halliday/",
-      "rank": 0
-    },
-    {
-      "name": "hallingdal",
-      "display": "Hallingdal",
-      "kind": "clan",
-      "url": "/clan/hallingdal/",
       "rank": 0
     },
     {
@@ -4024,13 +4010,6 @@
       "display": "Jorgensen",
       "kind": "clan",
       "url": "/clan/jorgensen/",
-      "rank": 0
-    },
-    {
-      "name": "joss",
-      "display": "Joss",
-      "kind": "clan",
-      "url": "/clan/joss/",
       "rank": 0
     },
     {
@@ -6274,13 +6253,6 @@
       "rank": 0
     },
     {
-      "name": "munster",
-      "display": "Munster",
-      "kind": "clan",
-      "url": "/clan/munster/",
-      "rank": 0
-    },
-    {
       "name": "murdoch",
       "display": "Murdoch",
       "kind": "clan",
@@ -6936,13 +6908,6 @@
       "display": "Ralston",
       "kind": "clan",
       "url": "/clan/ralston/",
-      "rank": 0
-    },
-    {
-      "name": "ramada",
-      "display": "Ramada",
-      "kind": "clan",
-      "url": "/clan/ramada/",
       "rank": 0
     },
     {
@@ -8455,13 +8420,6 @@
       "display": "Wallace",
       "kind": "clan",
       "url": "/clan/wallace/",
-      "rank": 0
-    },
-    {
-      "name": "walter",
-      "display": "Walter",
-      "kind": "clan",
-      "url": "/clan/walter/",
       "rank": 0
     },
     {
@@ -11930,13 +11888,6 @@
       "rank": 1
     },
     {
-      "name": "forfar",
-      "display": "Forfar",
-      "kind": "family",
-      "url": "/families/forfar/",
-      "rank": 1
-    },
-    {
       "name": "forget",
       "display": "Forget",
       "kind": "family",
@@ -12627,13 +12578,6 @@
       "display": "Halliday",
       "kind": "family",
       "url": "/families/halliday/",
-      "rank": 1
-    },
-    {
-      "name": "hallingdal",
-      "display": "Hallingdal",
-      "kind": "family",
-      "url": "/families/hallingdal/",
       "rank": 1
     },
     {
@@ -13596,13 +13540,6 @@
       "rank": 1
     },
     {
-      "name": "joss",
-      "display": "Joss",
-      "kind": "family",
-      "url": "/families/joss/",
-      "rank": 1
-    },
-    {
       "name": "jouy",
       "display": "Jouy",
       "kind": "family",
@@ -14048,6 +13985,13 @@
       "display": "Lashbrooke of Barrowfield",
       "kind": "family",
       "url": "/families/lashbrooke-of-barrowfield/",
+      "rank": 1
+    },
+    {
+      "name": "last of the masai",
+      "display": "Last of the Masai",
+      "kind": "group",
+      "url": "/groups/masai/last-of-the-masai/",
       "rank": 1
     },
     {
@@ -15850,6 +15794,13 @@
       "rank": 1
     },
     {
+      "name": "masai",
+      "display": "Masai",
+      "kind": "group",
+      "url": "/groups/masai/",
+      "rank": 1
+    },
+    {
       "name": "massachusetts",
       "display": "Massachusetts",
       "kind": "family",
@@ -16449,13 +16400,6 @@
       "display": "Munro of Lindertis",
       "kind": "family",
       "url": "/families/munro-of-lindertis/",
-      "rank": 1
-    },
-    {
-      "name": "munster",
-      "display": "Munster",
-      "kind": "family",
-      "url": "/families/munster/",
       "rank": 1
     },
     {
@@ -17268,13 +17212,6 @@
       "display": "Ralston",
       "kind": "family",
       "url": "/families/ralston/",
-      "rank": 1
-    },
-    {
-      "name": "ramada",
-      "display": "Ramada",
-      "kind": "family",
-      "url": "/families/ramada/",
       "rank": 1
     },
     {
@@ -19025,13 +18962,6 @@
       "display": "Wallace",
       "kind": "family",
       "url": "/families/wallace/",
-      "rank": 1
-    },
-    {
-      "name": "walter",
-      "display": "Walter",
-      "kind": "family",
-      "url": "/families/walter/",
       "rank": 1
     },
     {

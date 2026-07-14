@@ -8,17 +8,17 @@ crumbs:
 - name: "Clan Scott"
   url: "/clan/scott/"
 - name: "Scott, Sir Walter"
-  url: "/tartans/s/sc/scott-sir-walter-4/"
+  url: "/tartans/s/sc/scott-sir-walter/"
 - name: "Scott, Sir Walter #2"
-  url: "/setts/w4k4w4k4w4db3w2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4k4w4k4w4db3w2r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWBWKWKWKWKWBW](/stripes/rwbwkwkwkwkwbw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scott-sir-walter/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWBWKWKW](/stripes/rwbwkwkw/).
 
-Part of the [Scott, Sir Walter](/tartans/s/sc/scott-sir-walter-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scott, Sir Walter](/tartans/s/sc/scott-sir-walter/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3703](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3703)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3703](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1971 — Scott, Sir Walter #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3703">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2800A8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #2800A8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Sample notes say Plain weave design by Gardiners, December 1975. Since it was created by Gardiners for the Bi Centenary of Walter Scott's birth (1771) that date ought to read 1971. It was created at the same time as #57 (original Scottish Tartans Authority reference). The sett shown here described by the Scottish Tartans Society entry #1241 as being Ingles Buchan sample strips. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>1971 — Scott, Sir Walter - 1971 (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1240">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2800A8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #2800A8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Sample in STA Johnston Collection. Sample notes say plain weave design by Gardiners, Dec. 1975 for the Bi Centenary of Walter Scott's birth. Since that was in 1771 it's assumed the 1975 date is incorrect.</em></li>
+<li>1971 — Scott, Sir Walter - 1971 (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1240/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2800A8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #2800A8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Sample in STA Johnston Collection. Sample notes say plain weave design by Gardiners, Dec. 1975 for the Bi Centenary of Walter Scott's birth. Since that was in 1771 it's assumed the 1975 date is incorrect.</em></li>
 </ul>
 </details>
 
@@ -55,9 +55,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1240
 
 ## Thread count
-R/4 W4 DB6 W8 K8 W8 K8 W8 K8 W8 K8 W8 DB6 W/4
+W/8 K8 W8 K8 W8 DB6 W4 R/4
 
-One full sett is **184 threads**.
+One full sett is **96 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/4 W4 DB6 W8 K8 W8 K8 W8 K8 W8 K8 W8 DB6 W/4 — 184 threads; it folds to the canonical 96-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -66,7 +68,7 @@ One full sett is **184 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 W4 DB6 W8 K8 W8 K8 W8 K8 W8 K8 W8 DB6 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/8 K8 W8 K8 W8 DB6 W4 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

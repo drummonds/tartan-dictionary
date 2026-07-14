@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/">Auld Lang Syne, Grey Weavers Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/"><img src="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/sett.png" alt="Auld Lang Syne, Grey Weavers Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auld-lang-syne-grey-weavers/">Auld Lang Syne, Grey Weavers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auld-lang-syne-grey-weavers/"><img src="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/sett.png" alt="Auld Lang Syne, Grey Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

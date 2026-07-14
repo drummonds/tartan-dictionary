@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/">St. John New Brunswick (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/"><img src="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/sett.png" alt="St. John New Brunswick (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-john-new-brunswick/">St. John New Brunswick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-john-new-brunswick/"><img src="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/sett.png" alt="St. John New Brunswick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

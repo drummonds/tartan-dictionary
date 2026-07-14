@@ -12,10 +12,10 @@ crumbs:
 - name: "Grant of Rothiemurchus"
   url: "/tartans/g/gr/grant-of-rothiemurchus/"
 - name: "Unnamed 18th century plaid from Rothiemurchus"
-  url: "/setts/r1g1r32dp32r8g1r1g1r8g32r32g1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1g1r32dp32r8g1r1g1r8g32r32g1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grant-of-rothiemurchus/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRGRGRGRGR](/stripes/rgrbrgrgrgrgr/).
 
 Part of the [Grant of Rothiemurchus](/tartans/g/gr/grant-of-rothiemurchus/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1511](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1750 — Unnamed 18th century plaid from Rothiemurchus (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1511">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>Threadcount taken from an 18th century plaid from the 'Grant' estate in Rothiemurchus.</em></li>
-<li>1750 — Grant of Rothiemurchus (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1496">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>From an 18th century wedding plaid in the ownership of the late Margaret MacDougal. Count taken by John MacGregor Hastie. Given an arbitrary mid 18th Century dating to place it roughly chronologically. Sample in STA's Scarlett Collection.</em></li>
+<li>1750 — Grant of Rothiemurchus (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1496/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>From an 18th century wedding plaid in the ownership of the late Margaret MacDougal. Count taken by John MacGregor Hastie. Given an arbitrary mid 18th Century dating to place it roughly chronologically. Sample in STA's Scarlett Collection.</em></li>
 </ul>
 </details>
 

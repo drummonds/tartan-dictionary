@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dp12r8k64dp75r8/">Laurel Cadre, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp12r8k64dp75r8/"><img src="/variants/s5/dp12r8k64dp75r8/sett.png" alt="Laurel Cadre, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laurel-cadre-the/">Laurel Cadre, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laurel-cadre-the/"><img src="/variants/s5/dp12r8k64dp75r8/sett.png" alt="Laurel Cadre, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

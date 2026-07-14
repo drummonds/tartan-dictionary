@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r36w1db3y1g16r8db3w5/">Drummond of Perth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r36w1db3y1g16r8db3w5/"><img src="/variants/s8/r36w1db3y1g16r8db3w5/sett.png" alt="Drummond of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drummond-of-perth-2/">Drummond of Perth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-of-perth-2/"><img src="/variants/s8/r36w1db3y1g16r8db3w5/sett.png" alt="Drummond of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/">Edinburgh International Film Festival</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/"><img src="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/sett.png" alt="Edinburgh International Film Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-international-film-festival/">Edinburgh International Film Festival</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-international-film-festival/"><img src="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/sett.png" alt="Edinburgh International Film Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

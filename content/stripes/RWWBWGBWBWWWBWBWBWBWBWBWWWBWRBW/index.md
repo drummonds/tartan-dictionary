@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8b6w1~x2/">Brides Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8b6w1~x2/"><img src="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8b6w1~x2/sett.png" alt="Brides Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brides-2/">Brides</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brides-2/"><img src="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8b6w1~x2/sett.png" alt="Brides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

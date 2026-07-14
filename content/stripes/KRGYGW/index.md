@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k5r2dy7ly18dy2w2~x4/">Shepherd, Derek (Piping)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k5r2dy7ly18dy2w2~x4/"><img src="/variants/s6/k5r2dy7ly18dy2w2~x4/sett.png" alt="Shepherd, Derek (Piping) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shepherd-derek/">Shepherd, Derek</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shepherd-derek/"><img src="/variants/s6/k5r2dy7ly18dy2w2~x4/sett.png" alt="Shepherd, Derek sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

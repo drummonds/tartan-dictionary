@@ -12,10 +12,10 @@ crumbs:
 - name: "Ramsay of Dalhousie"
   url: "/tartans/r/ra/ramsay-of-dalhousie/"
 - name: "Ramsay of Dalhousie"
-  url: "/setts/k4w2k28r30k1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4w2k28r30k1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/ramsay-of-dalhousie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKRKR](/stripes/kwkrkr/).
 
 Part of the [Ramsay of Dalhousie](/tartans/r/ra/ramsay-of-dalhousie/) tartan — the named design grouping this sett with its other cloths.

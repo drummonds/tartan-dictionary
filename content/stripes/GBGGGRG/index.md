@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dy48dp11g16y16dy11r3dy11~x2/">Shannon (?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dy48dp11g16y16dy11r3dy11~x2/"><img src="/variants/s7/dy48dp11g16y16dy11r3dy11~x2/sett.png" alt="Shannon (?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shannon/">Shannon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shannon/"><img src="/variants/s7/dy48dp11g16y16dy11r3dy11~x2/sett.png" alt="Shannon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/y23o4dy6dg6y4n1y4~x4/">Tricor (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y23o4dy6dg6y4n1y4~x4/"><img src="/variants/s7/y23o4dy6dg6y4n1y4~x4/sett.png" alt="Tricor (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/tricor/">Tricor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/tricor/"><img src="/variants/s7/y23o4dy6dg6y4n1y4~x4/sett.png" alt="Tricor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

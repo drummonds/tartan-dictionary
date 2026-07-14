@@ -8,22 +8,22 @@ crumbs:
 - name: "IRPA"
   url: "/tartans/i/ir/irpa/"
 - name: "IRPA (Corporate)"
-  url: "/setts/r6n2r2n23k2r4k2lb21r2lb2w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6n2r2n23k2r4k2lb21r2lb2w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/ir/irpa/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKRKWRWW](/stripes/rbrbkrkwrww/).
 
 Part of the [IRPA](/tartans/i/ir/irpa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10602](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10602)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/10602/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10602/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>May 2010 — IRPA (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10602">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#CC4438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ASR #CC4438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>The 13th International Radiation Protection Association (IRPA) Congress is to be held in Glasgow from 13th to 18th May 2012. This celebratory tartan is based on the 1990 Glasgow City of Culture tartan and uses the corporate colours of the 2012 Congress plus a white on blue representing the Saltire - the national flag of the host country, Scotland.</em></li>
+<li>May 2010 — IRPA (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10602/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#CC4438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ASR #CC4438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>The 13th International Radiation Protection Association (IRPA) Congress is to be held in Glasgow from 13th to 18th May 2012. This celebratory tartan is based on the 1990 Glasgow City of Culture tartan and uses the corporate colours of the 2012 Congress plus a white on blue representing the Saltire - the national flag of the host country, Scotland.</em></li>
 <li>11/04/2012 — IRPA (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10602">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D4124F;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #D4124F"></span><span style="display:inline-block;width:.85em;height:.85em;background:#778899;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #778899"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#187EFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #187EFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><br><em>13th International Radiation Protection Association Congress (IRPA13) is to be held in Glasgow from 13th to 18th MAY 2012. To mark this occasion, this celebratory tartan is based on the 1990 Glasgow City of Culture tartan and uses the corporate colours of the 2012 Congress plus white on the blue representing the Saltire - the national flag of the host country, Scotland</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10602](h
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

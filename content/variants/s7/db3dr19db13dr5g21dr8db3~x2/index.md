@@ -12,22 +12,22 @@ crumbs:
 - name: "MacBean of Tomatin"
   url: "/tartans/m/ma/macbean-of-tomatin/"
 - name: "MacBean of Tomatin (Clan)"
-  url: "/setts/db3dr19db13dr5g21dr8db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3dr19db13dr5g21dr8db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macbean-of-tomatin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBB](/stripes/bbbbgbb/).
 
 Part of the [MacBean of Tomatin](/tartans/m/ma/macbean-of-tomatin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3342](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3342)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3342/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3342/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2002 — MacBean of Tomatin (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3342">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>This is MacKintosh with a blue line centered on red ground. originally thought to be a black line (see #3343) A subsequently discovered specimen revealed it was actually blue and this is as woven in Peter E. MacDonald swatch, 1944. James Scarlett in his text says "the blue was probably purple". Same as MacFadyen (#403). 'Tartans' (Johnston/Smith 1999) calls this 'MacBean of Tomatin'. 2014. Sinclair/Brown Scrapbook note: "with black line . . . worn by the MacBean Chief at the end of the 19th century." The MacFadzean/MacFadyan connection comes from MacGregor Hastie and it's reported but unsubstantiated, that this was worn at Battle of Culloden.</em></li>
+<li>pre 2002 — MacBean of Tomatin (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3342/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>This is MacKintosh with a blue line centered on red ground. originally thought to be a black line (see #3343) A subsequently discovered specimen revealed it was actually blue and this is as woven in Peter E. MacDonald swatch, 1944. James Scarlett in his text says "the blue was probably purple". Same as MacFadyen (#403). 'Tartans' (Johnston/Smith 1999) calls this 'MacBean of Tomatin'. 2014. Sinclair/Brown Scrapbook note: "with black line . . . worn by the MacBean Chief at the end of the 19th century." The MacFadzean/MacFadyan connection comes from MacGregor Hastie and it's reported but unsubstantiated, that this was worn at Battle of Culloden.</em></li>
 <li>undated — MacBean of Tomatin (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5023">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>This is MacKintosh with a blue line centred on red ground. Originally thought to be a black line (see #3343, original Scottish Tartans Authority reference). A subsequently discovered specimen revealed it was actually blue and this is as woven in Peter E. MacDonald swatch, 1944. In his text, Jamie Scarlett MBE says 'the blue was probably purple'. Same as MacFadyen (#403, original Scottish Tartans Authority reference). 'Tartans' (Johnston/Smith 1999) calls this 'MacBean of Tomatin'.</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3342](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

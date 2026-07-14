@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3~x4/">Baseggio Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3~x4/"><img src="/variants/s16/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3~x4/sett.png" alt="Baseggio Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baseggio/">Baseggio</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baseggio/"><img src="/variants/s16/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3~x4/sett.png" alt="Baseggio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

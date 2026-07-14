@@ -8,10 +8,10 @@ crumbs:
 - name: "Zwijnenberg, Frans"
   url: "/tartans/z/zw/zwijnenberg-frans/"
 - name: "Zwijnenberg, Frans (Personal)"
-  url: "/setts/k23g8y8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k23g8y8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/z/zw/zwijnenberg-frans/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGK](/stripes/ggk/).
 
 Part of the [Zwijnenberg, Frans](/tartans/z/zw/zwijnenberg-frans/) tartan — the named design grouping this sett with its other cloths.

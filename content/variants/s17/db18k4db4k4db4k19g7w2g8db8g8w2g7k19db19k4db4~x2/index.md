@@ -12,10 +12,10 @@ crumbs:
 - name: "Arbuthnott"
   url: "/tartans/a/ar/arbuthnott/"
 - name: "Arbuthnott Clan Tartan"
-  url: "/setts/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/arbuthnott/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/).
 
 Part of the [Arbuthnott](/tartans/a/ar/arbuthnott/) tartan — the named design grouping this sett with its other cloths.

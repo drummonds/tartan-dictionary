@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Bannockbane"
   url: "/clan/bannockbane/"
+aliases:
+- "/setts/do4y2do13y1w13lb13y2lb4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgwwgw/">BGBGWWGW</a></nav>
 A tartan of [Clan Bannockbane](/clan/bannockbane/).
 Its design is pattern [BGBGWWGW](/stripes/bgbgwwgw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Bannockbane Tan** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/do4y2do13y1w13lb13y2lb4/">Bannockbane Tan</a></td><td><code>DO/8 Y4 DO26 Y2 W26 LB26 Y4 LB/8</code></td><td>192</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/do4y2do13y1w13lb13y2lb4/"><img src="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/sett.png" alt="Bannockbane Tan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/">Bannockbane Tan</a></td><td><code>DO/8 Y4 DO26 Y2 W26 LB26 Y4 LB/8</code></td><td>192</td><td>1975</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/"><img src="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/sett.png" alt="Bannockbane Tan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -35,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/do4y2do13y1w8lb13y2lb4~x2/"><circle cx="202.4" cy="214.0" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/variants/s7/dr5w36dp14dr9g28dr8dp2~x2/"><circle cx="192.2" cy="202.2" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><circle cx="185.5" cy="208.3" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="205.7" cy="210.8" r="4" fill="#3465a4"><title>Bannockbane Hunting</title></circle></a><a href="/variants/s6/dr1w12g6dr8lb3lo1~x4/"><circle cx="180.5" cy="215.6" r="4" fill="#3465a4"><title>MacLean Dress</title></circle></a><a href="/variants/s7/dr2lb1db8lb8y8lb1y1~x2/"><circle cx="205.8" cy="242.6" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="249.5" cy="205.0" r="4" fill="#3465a4"><title>MacGrath</title></circle></a><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><circle cx="179.9" cy="217.1" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/y8db4lb23w3db22w25db3w6~x2/"><circle cx="179.0" cy="231.4" r="4" fill="#3465a4"><title>Culloden Blue Dress Fancy</title></circle></a><a href="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/"><circle cx="195.8" cy="234.2" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><circle cx="184.9" cy="214.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/do4y2do13y1w8lb13y2lb4~x2/"><circle cx="202.6" cy="213.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/variants/s7/dr5w36dp14dr9g28dr8dp2~x2/"><circle cx="192.3" cy="201.9" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><circle cx="185.7" cy="208.1" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="205.9" cy="210.6" r="4" fill="#3465a4"><title>Bannockbane Hunting</title></circle></a><a href="/variants/s6/dr1w12g6dr8lb3lo1~x4/"><circle cx="180.5" cy="215.3" r="4" fill="#3465a4"><title>MacLean Dress</title></circle></a><a href="/variants/s7/dr2lb1db8lb8y8lb1y1~x2/"><circle cx="205.9" cy="242.4" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="249.6" cy="204.8" r="4" fill="#3465a4"><title>MacGrath</title></circle></a><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><circle cx="180.0" cy="216.9" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/y8db4lb23w3db22w25db3w6~x2/"><circle cx="179.1" cy="231.1" r="4" fill="#3465a4"><title>Culloden Blue Dress Fancy</title></circle></a><a href="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/"><circle cx="195.8" cy="234.0" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><circle cx="185.0" cy="214.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

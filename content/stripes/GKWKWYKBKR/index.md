@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/">Timmins (2013)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/"><img src="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/sett.png" alt="Timmins (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/timmins/">Timmins</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/timmins/"><img src="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/sett.png" alt="Timmins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

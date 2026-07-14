@@ -12,10 +12,10 @@ crumbs:
 - name: "Barclay Dress"
   url: "/tartans/b/ba/barclay-dress-2/"
 - name: "Barclay Dress"
-  url: "/setts/dy5dt32dy32w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy5dt32dy32w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barclay-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGW](/stripes/gbgw/).
 
 Part of the [Barclay Dress](/tartans/b/ba/barclay-dress-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=214](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1842 — Barclay Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=214">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WY #E0E0E0"></span><br><em>This sett is based on the earlier hunting sett which appeared in the Vestiarium Scoticum in 1842. This dress version is the sett most commonly associated with the name. Threadcount taken from W & A K Johnston 'The Tartans of the Clans and Septs of Scotland'.</em></li>
-<li>1842 — Barclay Dress (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1879">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WY #E0E0E0"></span><br><em>There are two versions of Barclay family tartan - this one which has a yellow ground and the hunting version which has a green ground. The latter comes from Vestiarium Scoticum. The scale of this yellow Barclay was W/2 Y12 K12 Y/2 but the count for this graphic is taken from the Lochcarron woven sample.</em></li>
+<li>1842 — Barclay Dress (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1879/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WY #E0E0E0"></span><br><em>There are two versions of Barclay family tartan - this one which has a yellow ground and the hunting version which has a green ground. The latter comes from Vestiarium Scoticum. The scale of this yellow Barclay was W/2 Y12 K12 Y/2 but the count for this graphic is taken from the Lochcarron woven sample.</em></li>
 </ul>
 </details>
 

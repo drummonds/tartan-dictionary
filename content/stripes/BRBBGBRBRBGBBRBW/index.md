@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/dt8o6dt12t5dy14dt8r14dt25r14dt8dy14t5dt12o6dt8lb2~x2/">Johnstons of Elgin Bicentennial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/dt8o6dt12t5dy14dt8r14dt25r14dt8dy14t5dt12o6dt8lb2~x2/"><img src="/variants/s16/dt8o6dt12t5dy14dt8r14dt25r14dt8dy14t5dt12o6dt8lb2~x2/sett.png" alt="Johnstons of Elgin Bicentennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/johnstons-of-elgin-bicentennial/">Johnstons of Elgin Bicentennial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/johnstons-of-elgin-bicentennial/"><img src="/variants/s16/dt8o6dt12t5dy14dt8r14dt25r14dt8dy14t5dt12o6dt8lb2~x2/sett.png" alt="Johnstons of Elgin Bicentennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

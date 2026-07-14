@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dbi3g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3~x2~dbi1406275-db1404245/">Cuthill (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dbi3g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3~x2~dbi1406275-db1404245/"><img src="/variants/s13/dbi3g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3~x2~dbi1406275-db1404245/sett.png" alt="Cuthill (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cuthill-2/">Cuthill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cuthill-2/"><img src="/variants/s13/dbi3g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3~x2~dbi1406275-db1404245/sett.png" alt="Cuthill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db12lb1r3lb1r3lb1db6~x4/">BC Corps of Commissionaires, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db12lb1r3lb1r3lb1db6~x4/"><img src="/variants/s7/db12lb1r3lb1r3lb1db6~x4/sett.png" alt="BC Corps of Commissionaires, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bc/bc-corps-of-commissionaires-the/">BC Corps of Commissionaires, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bc/bc-corps-of-commissionaires-the/"><img src="/variants/s7/db12lb1r3lb1r3lb1db6~x4/sett.png" alt="BC Corps of Commissionaires, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

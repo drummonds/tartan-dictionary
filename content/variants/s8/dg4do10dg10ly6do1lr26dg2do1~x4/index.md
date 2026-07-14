@@ -12,10 +12,10 @@ crumbs:
 - name: "Dogwood"
   url: "/tartans/d/do/dogwood-2/"
 - name: "Dogwood"
-  url: "/setts/dg4do10dg10ly6do1lr26dg2do1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4do10dg10ly6do1lr26dg2do1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/dogwood-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYBYGBG](/stripes/bgybygbg/).
 
 Part of the [Dogwood](/tartans/d/do/dogwood-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=943](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1968 — Dogwood (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=943">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#381C0C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XT #381C0C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #F8F4D0"></span><br><em>Sample in Scottish Tartans Authority Johnston Collection. Sindex says count from Miss Kathleen Sinclair 12 March 1968. Also recycled as Aviemore by West Coast Woolen Mills.</em></li>
-<li>1968 — Dogwood (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=913">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#381C0C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XT #381C0C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #F8F4D0"></span><br><em>Sample in STA's Johnston Collection. Sindex says count from Miss Kathleen Sinclair 12 March 1968. Also recycled as Aviemore by West Coast Woolen Mills.</em></li>
+<li>1968 — Dogwood (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/913/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#381C0C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XT #381C0C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #F8F4D0"></span><br><em>Sample in STA's Johnston Collection. Sindex says count from Miss Kathleen Sinclair 12 March 1968. Also recycled as Aviemore by West Coast Woolen Mills.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k26n2k2n2k2n10w10n6db10lo5~x2/">Collister (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k26n2k2n2k2n10w10n6db10lo5~x2/"><img src="/variants/s10/k26n2k2n2k2n10w10n6db10lo5~x2/sett.png" alt="Collister (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/collister/">Collister</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/collister/"><img src="/variants/s10/k26n2k2n2k2n10w10n6db10lo5~x2/sett.png" alt="Collister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

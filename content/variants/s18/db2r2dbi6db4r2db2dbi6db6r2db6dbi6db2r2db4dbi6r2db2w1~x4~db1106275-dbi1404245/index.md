@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish North American Business Council"
   url: "/tartans/s/sc/scottish-north-american-business-council/"
 - name: "Scottish North American Business Council"
-  url: "/setts/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-north-american-business-council/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBRBBBRBBBRBBRBW](/stripes/brbbrbbbrbbbrbbrbw/).
 
 Part of the [Scottish North American Business Council](/tartans/s/sc/scottish-north-american-business-council/) tartan — the named design grouping this sett with its other cloths.

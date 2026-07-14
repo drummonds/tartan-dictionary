@@ -8,10 +8,10 @@ crumbs:
 - name: "Glackin-McColgan"
   url: "/tartans/g/gl/glackin-mccolgan/"
 - name: "Glackin-McColgan (Personal)"
-  url: "/setts/db16k11db24g10y3g17db15k5r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16k11db24g10y3g17db15k5r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glackin-mccolgan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGGGBKR](/stripes/bkbgggbkr/).
 
 Part of the [Glackin-McColgan](/tartans/g/gl/glackin-mccolgan/) tartan — the named design grouping this sett with its other cloths.

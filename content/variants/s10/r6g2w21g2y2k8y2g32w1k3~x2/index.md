@@ -8,10 +8,10 @@ crumbs:
 - name: "Fiander, Julian"
   url: "/tartans/f/fi/fiander-julian/"
 - name: "Fiander, Julian (Personal)"
-  url: "/setts/r6g2w21g2y2k8y2g32w1k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6g2w21g2y2k8y2g32w1k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fi/fiander-julian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGGKGGWGR](/stripes/kwggkggwgr/).
 
 Part of the [Fiander, Julian](/tartans/f/fi/fiander-julian/) tartan — the named design grouping this sett with its other cloths.

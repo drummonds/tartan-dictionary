@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3~x2/">Queensferry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3~x2/"><img src="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3~x2/sett.png" alt="Queensferry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/queensferry/">Queensferry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/queensferry/"><img src="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3~x2/sett.png" alt="Queensferry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

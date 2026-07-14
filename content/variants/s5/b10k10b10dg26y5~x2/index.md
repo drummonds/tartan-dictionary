@@ -12,10 +12,10 @@ crumbs:
 - name: "Marshall of Keith"
   url: "/tartans/m/ma/marshall-of-keith/"
 - name: "Marshall of Keith (Personal)"
-  url: "/setts/b10k10b10dg26y5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b10k10b10dg26y5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/marshall-of-keith/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGG](/stripes/bkbgg/).
 
 Part of the [Marshall of Keith](/tartans/m/ma/marshall-of-keith/) tartan — the named design grouping this sett with its other cloths.

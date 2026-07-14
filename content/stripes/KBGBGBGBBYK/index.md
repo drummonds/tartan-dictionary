@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k7ly3db62n16g5n5g5n5g16db16k4/">Polkemmet (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k7ly3db62n16g5n5g5n5g16db16k4/"><img src="/variants/s11/k7ly3db62n16g5n5g5n5g16db16k4/sett.png" alt="Polkemmet (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/polkemmet/">Polkemmet</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/polkemmet/"><img src="/variants/s11/k7ly3db62n16g5n5g5n5g16db16k4/sett.png" alt="Polkemmet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

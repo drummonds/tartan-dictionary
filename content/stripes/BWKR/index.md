@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db3w25k25r3~x2/">Gleneckley</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db3w25k25r3~x2/"><img src="/variants/s4/db3w25k25r3~x2/sett.png" alt="Gleneckley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/r25k13w8db5~x2/">Hamby Sport (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r25k13w8db5~x2/"><img src="/variants/s4/r25k13w8db5~x2/sett.png" alt="Hamby Sport (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/gleneckley/">Gleneckley</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneckley/"><img src="/variants/s4/db3w25k25r3~x2/sett.png" alt="Gleneckley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hamby-sport/">Hamby Sport</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hamby-sport/"><img src="/variants/s4/r25k13w8db5~x2/sett.png" alt="Hamby Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

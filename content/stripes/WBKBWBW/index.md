@@ -28,13 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w5dp2w34dp34k2dp2lb4~x2/">Cunningham Dress Purple (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w5dp2w34dp34k2dp2lb4~x2/"><img src="/variants/s7/w5dp2w34dp34k2dp2lb4~x2/sett.png" alt="Cunningham Dress Purple (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/w2dp1w20dp20k1dp1lb2~x4/">Cunningham Dress Purple (Dance) Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w2dp1w20dp20k1dp1lb2~x4/"><img src="/variants/s7/w2dp1w20dp20k1dp1lb2~x4/sett.png" alt="Cunningham Dress Purple (Dance) Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/w2db1w20db20k1db1lb2~x4/">Cunningham, Dress Blue (Dance) Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w2db1w20db20k1db1lb2~x4/"><img src="/variants/s7/w2db1w20db20k1db1lb2~x4/sett.png" alt="Cunningham, Dress Blue (Dance) Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cunningham-dress-3/">Cunningham Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cunningham-dress-3/"><img src="/variants/s7/w5dp2w34dp34k2dp2lb4~x2/sett.png" alt="Cunningham Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

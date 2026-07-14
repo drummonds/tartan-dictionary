@@ -10,10 +10,10 @@ crumbs:
 - name: "Miyuki, House Check Tan, 1004A"
   url: "/tartans/m/mi/miyuki-house-check-tan-1004a/"
 - name: "Miyuki, House Check Tan, 1004A"
-  url: "/setts/o11oi3o20oi20r3oi8r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o11oi3o20oi20r3oi8r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/miyuki-house-check-tan-1004a/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRRRRRR](/stripes/rrrrrrr/).
 
 Part of the [Miyuki, House Check Tan, 1004A](/tartans/m/mi/miyuki-house-check-tan-1004a/) tartan — the named design grouping this sett with its other cloths.

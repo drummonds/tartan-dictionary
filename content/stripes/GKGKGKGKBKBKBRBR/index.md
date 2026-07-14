@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/">Herriot (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/"><img src="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/sett.png" alt="Herriot (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/herriot/">Herriot</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/herriot/"><img src="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/sett.png" alt="Herriot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

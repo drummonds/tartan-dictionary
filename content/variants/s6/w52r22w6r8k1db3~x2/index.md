@@ -10,17 +10,17 @@ crumbs:
 - name: "MacGregor"
   url: "/families/macgregor/"
 - name: "MacGregor"
-  url: "/tartans/m/ma/macgregor-12/"
+  url: "/tartans/m/ma/macgregor-10/"
 - name: "MacGregor Dress Red Fancy Tartan"
-  url: "/setts/w52r22w6r8k1db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w52r22w6r8k1db3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWRKBKRWRW](/stripes/rwrkbkrwrw/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-10/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKRWRW](/stripes/bkrwrw/).
 
-Part of the [MacGregor](/tartans/m/ma/macgregor-12/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor](/tartans/m/ma/macgregor-10/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6541](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6541)
 
@@ -33,7 +33,7 @@ Earliest known date: 1975 A Dancers tartan now woven by D C Dalgliesh of Selkirk
 <ul>
 <li>1975 — MacGregor Dress Red Fancy Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6541">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span></li>
 <li>01/01/2005 — MacGregor Dress Red (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2454">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>A Dancers' tartan now woven by D C Dalgliesh of Selkirk.</em></li>
-<li>pre 2005 — MacGregor - 1975 (Dance, Red) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6541">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>A Dancers' tartan now woven by D C Dalgliesh of Selkirk.</em></li>
+<li>pre 2005 — MacGregor - 1975 (Dance, Red) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6541/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>A Dancers' tartan now woven by D C Dalgliesh of Selkirk.</em></li>
 </ul>
 </details>
 
@@ -61,9 +61,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6541
 
 ## Thread count
-W/104 R44 W12 R16 K2 DB6 K2 R16 W12 R/44
+W/104 R44 W12 R16 K2 DB/6
 
-One full sett is **368 threads**.
+One full sett is **258 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/104 R44 W12 R16 K2 DB6 K2 R16 W12 R/44 — 368 threads; it folds to the canonical 258-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -72,7 +74,7 @@ One full sett is **368 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/104 R44 W12 R16 K2 DB6 K2 R16 W12 R/44 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/104 R44 W12 R16 K2 DB/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s27/dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3r2~x2/">Glenmoidart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s27/dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3r2~x2/"><img src="/variants/s27/dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3r2~x2/sett.png" alt="Glenmoidart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenmoidart/">Glenmoidart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenmoidart/"><img src="/variants/s27/dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3r2~x2/sett.png" alt="Glenmoidart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

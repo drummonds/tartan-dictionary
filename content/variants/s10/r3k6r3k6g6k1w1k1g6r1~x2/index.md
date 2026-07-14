@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDiarmid"
   url: "/tartans/m/ma/macdiarmid-4/"
 - name: "MacDiarmid #3"
-  url: "/setts/r3k6r3k6g6k1w1k1g6r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k6r3k6g6k1w1k1g6r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdiarmid-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKWKGKRKR](/stripes/rgkwkgkrkr/).
 
 Part of the [MacDiarmid](/tartans/m/ma/macdiarmid-4/) tartan — the named design grouping this sett with its other cloths.

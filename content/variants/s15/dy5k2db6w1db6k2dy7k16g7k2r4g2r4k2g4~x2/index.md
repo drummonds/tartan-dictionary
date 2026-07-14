@@ -12,10 +12,10 @@ crumbs:
 - name: "Redgate Hunting"
   url: "/tartans/r/re/redgate-hunting-2/"
 - name: "Redgate (Connecticut) Hunting #2"
-  url: "/setts/dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/redgate-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBWBKGKGKRGRKG](/stripes/gkbwbkgkgkrgrkg/).
 
 Part of the [Redgate Hunting](/tartans/r/re/redgate-hunting-2/) tartan — the named design grouping this sett with its other cloths.

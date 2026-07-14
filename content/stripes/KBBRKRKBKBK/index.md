@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k4n4k4n18k9r4k9o1n18db2k3~x2~n1900000-o2500000/">Moggach (Strathspey)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k4n4k4n18k9r4k9o1n18db2k3~x2~n1900000-o2500000/"><img src="/variants/s11/k4n4k4n18k9r4k9o1n18db2k3~x2~n1900000-o2500000/sett.png" alt="Moggach (Strathspey) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moggach/">Moggach</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moggach/"><img src="/variants/s11/k4n4k4n18k9r4k9o1n18db2k3~x2~n1900000-o2500000/sett.png" alt="Moggach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

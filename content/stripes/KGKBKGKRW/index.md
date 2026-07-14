@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/">McCuaig (Glenelg and the Western Isles)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/"><img src="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/sett.png" alt="McCuaig (Glenelg and the Western Isles) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mccuaig/">McCuaig</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccuaig/"><img src="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/sett.png" alt="McCuaig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Bird"
   url: "/tartans/b/bi/bird-3/"
 - name: "Bird Family (Wales) (Personal)"
-  url: "/setts/lo4k28lo2db7w3k9y2w4y2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo4k28lo2db7w3k9y2w4y2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bi/bird-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWGKWBYKY](/stripes/kgwgkwbyky/).
 
 Part of the [Bird](/tartans/b/bi/bird-3/) tartan — the named design grouping this sett with its other cloths.

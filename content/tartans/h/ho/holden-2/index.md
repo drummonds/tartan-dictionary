@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/holden/"
 - name: "Holden"
   url: "/families/holden/"
+aliases:
+- "/setts/w13k3w3k3w3k15dy18r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgkwkwkw/">RGKWKWKW</a></nav>
 A tartan of the [Holden](/families/holden/) family.
 Its design is pattern [RGKWKWKW](/stripes/rgkwkwkw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Holden** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w13k3w3k3w3k15dy18r3/">Holden</a></td><td><code>W/26 K6 W6 K6 W6 K30 DY36 R/6</code></td><td>212</td><td>~1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w13k3w3k3w3k15dy18r3/"><img src="/variants/s8/w13k3w3k3w3k15dy18r3~x2/sett.png" alt="Holden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/">Holden</a></td><td><code>W/26 K6 W6 K6 W6 K30 DY36 R/6</code></td><td>212</td><td>~1977</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><img src="/variants/s8/w13k3w3k3w3k15dy18r3~x2/sett.png" alt="Holden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w13k3w3k3w3k15ly18r3~x2/"><circle cx="113.1" cy="199.1" r="4" fill="#3465a4"><title>Holden Beige</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="108.5" cy="191.2" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="136.3" cy="214.7" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="153.8" cy="190.6" r="4" fill="#3465a4"><title>Breton</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="146.5" cy="190.8" r="4" fill="#3465a4"><title>Meg Merrilees Fancy</title></circle></a><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="113.8" cy="194.3" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><circle cx="90.0" cy="199.6" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="145.8" cy="191.5" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><circle cx="159.9" cy="184.9" r="4" fill="#3465a4"><title>Brittany National</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46w46r8w46k46n46k8n8/"><circle cx="110.4" cy="180.9" r="4" fill="#3465a4"><title>Poulter SG 103</title></circle></a><circle cx="111.8" cy="191.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w13k3w3k3w3k15ly18r3~x2/"><circle cx="113.3" cy="198.8" r="4" fill="#3465a4"><title>Holden Beige</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="108.8" cy="191.0" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="136.6" cy="214.4" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="154.2" cy="190.4" r="4" fill="#3465a4"><title>Breton</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="146.9" cy="190.6" r="4" fill="#3465a4"><title>Meg Merrilees Fancy</title></circle></a><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="114.1" cy="194.0" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><circle cx="90.2" cy="199.3" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="146.2" cy="191.2" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><circle cx="160.4" cy="184.8" r="4" fill="#3465a4"><title>Brittany National</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46w46r8w46k46n46k8n8/"><circle cx="110.7" cy="180.6" r="4" fill="#3465a4"><title>Poulter SG 103</title></circle></a><circle cx="112.1" cy="190.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -12,10 +12,10 @@ crumbs:
 - name: "Daks"
   url: "/tartans/d/da/daks/"
 - name: "Daks (House Check)"
-  url: "/setts/k3w6k4w6ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3w6k4w6ly3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/daks/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWY](/stripes/kwkwy/).
 
 Part of the [Daks](/tartans/d/da/daks/) tartan — the named design grouping this sett with its other cloths.

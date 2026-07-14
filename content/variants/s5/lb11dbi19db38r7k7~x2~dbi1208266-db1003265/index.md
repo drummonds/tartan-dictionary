@@ -10,10 +10,10 @@ crumbs:
 - name: "Rose, Danny and Hanna"
   url: "/tartans/r/ro/rose-danny-and-hanna-2/"
 - name: "Rose, Danny and Hanna (Personal)"
-  url: "/setts/lb11dbi19db38r7k7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb11dbi19db38r7k7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/rose-danny-and-hanna-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBBW](/stripes/krbbw/).
 
 Part of the [Rose, Danny and Hanna](/tartans/r/ro/rose-danny-and-hanna-2/) tartan — the named design grouping this sett with its other cloths.

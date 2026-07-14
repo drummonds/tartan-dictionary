@@ -12,22 +12,22 @@ crumbs:
 - name: "Arran"
   url: "/tartans/a/ar/arran-2/"
 - name: "Arran - 1989 (Fashion)"
-  url: "/setts/lb12k1lb1k1lb1db8w9n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb12k1lb1k1lb1db8w9n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/arran-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKWKW](/stripes/bwbwkwkw/).
 
 Part of the [Arran](/tartans/a/ar/arran-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=261](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=261)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/261/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/261/*)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1989 — Arran - 1989 (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=261">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>One of many examples of foreign mills playing fast and loose with the names of tartans without ever checking. This one bought by Pendleton Woolen Mills in the USA and sent to the STS..</em></li>
+<li>1989 — Arran - 1989 (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/261/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>One of many examples of foreign mills playing fast and loose with the names of tartans without ever checking. This one bought by Pendleton Woolen Mills in the USA and sent to the STS..</em></li>
 <li>undated — Arran (Pendleton) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=117">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3C82AF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #3C82AF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#080848;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #080848"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#808080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #808080"></span><br><em>Woven by Pendleton Woolen Mills ,Oregon, USA.</em></li>
 <li>undated — Arran, (Navy) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5480B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5480B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="J #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#808080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #808080"></span></li>
 </ul>
@@ -43,7 +43,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=261](htt
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

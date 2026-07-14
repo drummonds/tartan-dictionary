@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db30dbi2k9w3db6w4k3dbi6~x2~db1108266-dbi1605267/">Auto Docs</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db30dbi2k9w3db6w4k3dbi6~x2~db1108266-dbi1605267/"><img src="/variants/s8/db30dbi2k9w3db6w4k3dbi6~x2~db1108266-dbi1605267/sett.png" alt="Auto Docs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auto-docs/">Auto Docs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auto-docs/"><img src="/variants/s8/db30dbi2k9w3db6w4k3dbi6~x2~db1108266-dbi1605267/sett.png" alt="Auto Docs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

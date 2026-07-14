@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dbi4k2dbi8db10dp6db40k16dbi8k2dbi4k2dbi66y2dbi1~x2~dbi1604274-db0805267/">Payne</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dbi4k2dbi8db10dp6db40k16dbi8k2dbi4k2dbi66y2dbi1~x2~dbi1604274-db0805267/"><img src="/variants/s14/dbi4k2dbi8db10dp6db40k16dbi8k2dbi4k2dbi66y2dbi1~x2~dbi1604274-db0805267/sett.png" alt="Payne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/payne/">Payne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/payne/"><img src="/variants/s14/dbi4k2dbi8db10dp6db40k16dbi8k2dbi4k2dbi66y2dbi1~x2~dbi1604274-db0805267/sett.png" alt="Payne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

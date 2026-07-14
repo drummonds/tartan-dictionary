@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r4k2w6k2db40k80g10w6r3/">Italian American</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r4k2w6k2db40k80g10w6r3/"><img src="/variants/s9/r4k2w6k2db40k80g10w6r3/sett.png" alt="Italian American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r4k2w6k2t40k80g10w6r3/">Italian American (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r4k2w6k2t40k80g10w6r3/"><img src="/variants/s9/r4k2w6k2t40k80g10w6r3/sett.png" alt="Italian American (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/it/italian-american/">Italian American</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/it/italian-american/"><img src="/variants/s9/r4k2w6k2db40k80g10w6r3/sett.png" alt="Italian American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

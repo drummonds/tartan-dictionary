@@ -8,10 +8,10 @@ crumbs:
 - name: "Valley of the"
   url: "/tartans/v/va/valley-of-the-2/"
 - name: "Valley of the Green (The ) Canadian Tartan"
-  url: "/setts/lb4dg26dgi8lb8dgi8g3lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4dg26dgi8lb8dgi8g3lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/va/valley-of-the-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGGWGGW](/stripes/wggwggw/).
 
 Part of the [Valley of the](/tartans/v/va/valley-of-the-2/) tartan — the named design grouping this sett with its other cloths.

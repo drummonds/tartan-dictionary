@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/">United Arrows House Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/"><img src="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/sett.png" alt="United Arrows House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/united-arrows-house-check/">United Arrows House Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/united-arrows-house-check/"><img src="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/sett.png" alt="United Arrows House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

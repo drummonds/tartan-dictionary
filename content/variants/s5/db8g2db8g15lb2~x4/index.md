@@ -12,10 +12,10 @@ crumbs:
 - name: "Hamilton"
   url: "/tartans/h/ha/hamilton-6/"
 - name: "Hamilton Green Hunting"
-  url: "/setts/db8g2db8g15lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8g2db8g15lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hamilton-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGW](/stripes/bgbgw/).
 
 Part of the [Hamilton](/tartans/h/ha/hamilton-6/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1577](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Hamilton Green Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1577">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>This is the version preferred by today's weavers. See also #138 (original Scottish Tartans Authority reference) in which the central blue band is narrower than the others. Sample presented to the Scottish Tartans Society by Wiebe Stodel.</em></li>
-<li>pre 2002 — Hamilton Green (Hunting) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=139">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>This is the version preferred by today's weavers. See also 138 in which the central blue band is narrower than the others.</em></li>
+<li>pre 2002 — Hamilton Green (Hunting) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/139/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>This is the version preferred by today's weavers. See also 138 in which the central blue band is narrower than the others.</em></li>
 </ul>
 </details>
 

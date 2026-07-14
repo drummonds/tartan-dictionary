@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s35/lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1~x4/">Coulin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s35/lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1~x4/"><img src="/variants/s35/lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1~x4/sett.png" alt="Coulin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coulin/">Coulin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coulin/"><img src="/variants/s35/lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1~x4/sett.png" alt="Coulin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

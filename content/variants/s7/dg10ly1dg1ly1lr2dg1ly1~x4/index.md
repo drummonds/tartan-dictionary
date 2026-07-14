@@ -8,10 +8,10 @@ crumbs:
 - name: "Green Watch"
   url: "/tartans/g/gr/green-watch/"
 - name: "Green Watch"
-  url: "/setts/dg10ly1dg1ly1lr2dg1ly1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg10ly1dg1ly1lr2dg1ly1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/green-watch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYYGY](/stripes/gygyygy/).
 
 Part of the [Green Watch](/tartans/g/gr/green-watch/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1526](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1973 — Green Watch (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1526">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #B0B0B0"></span><br><em>Illustrated in clothing catalogue of Deerskin Trading Post 1973-74.</em></li>
-<li>1973 — Green Watch (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5114">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #B0B0B0"></span><br><em>Illustrated in clothing catalogue of Deerskin Trading Post 1973-74.</em></li>
+<li>1973 — Green Watch (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5114/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #B0B0B0"></span><br><em>Illustrated in clothing catalogue of Deerskin Trading Post 1973-74.</em></li>
 </ul>
 </details>
 

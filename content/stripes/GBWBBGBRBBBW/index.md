@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/">Glasgow Tattoo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/"><img src="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/sett.png" alt="Glasgow Tattoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow-tattoo/">Glasgow Tattoo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-tattoo/"><img src="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/sett.png" alt="Glasgow Tattoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

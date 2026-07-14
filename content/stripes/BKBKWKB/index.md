@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/n140k3w16k3do16k3do16/">Crail</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n140k3w16k3do16k3do16/"><img src="/variants/s7/n140k3w16k3do16k3do16/sett.png" alt="Crail sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crail/">Crail</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crail/"><img src="/variants/s7/n140k3w16k3do16k3do16/sett.png" alt="Crail sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/n19k2w2k2b5k2b5~x4/">Kyle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n19k2w2k2b5k2b5~x4/"><img src="/variants/s7/n19k2w2k2b5k2b5~x4/sett.png" alt="Kyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ky/kyle-3/">Kyle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ky/kyle-3/"><img src="/variants/s7/n19k2w2k2b5k2b5~x4/sett.png" alt="Kyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

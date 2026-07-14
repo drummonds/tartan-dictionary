@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr6w1dr2w25dr3g12dr3g12dr3~x2/">Crawford Arisaid (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr6w1dr2w25dr3g12dr3g12dr3~x2/"><img src="/variants/s9/dr6w1dr2w25dr3g12dr3g12dr3~x2/sett.png" alt="Crawford Arisaid (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crawford-arisaid/">Crawford Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crawford-arisaid/"><img src="/variants/s9/dr6w1dr2w25dr3g12dr3g12dr3~x2/sett.png" alt="Crawford Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Rothesay Hunting"
   url: "/tartans/r/ro/rothesay-hunting-2/"
 - name: "Rothesay, hunting"
-  url: "/setts/w2g32r2g3r2g4r16g4r16g4r2g3r2g32w1g1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2g32r2g3r2g4r16g4r16g4r2g3r2g32w1g1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/rothesay-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGRGRGRGRGRGRGWGW](/stripes/wgrgrgrgrgrgrgwgw/).
 
 Part of the [Rothesay Hunting](/tartans/r/ro/rothesay-hunting-2/) tartan — the named design grouping this sett with its other cloths.

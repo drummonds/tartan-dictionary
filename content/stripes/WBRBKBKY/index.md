@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/">Vienna Highlander (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><img src="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/sett.png" alt="Vienna Highlander (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/vienna-highlander/">Vienna Highlander</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/vienna-highlander/"><img src="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/sett.png" alt="Vienna Highlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

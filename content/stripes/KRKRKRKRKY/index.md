@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/">Hanna of Falkirk (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><img src="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/sett.png" alt="Hanna of Falkirk (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hanna-of-falkirk/">Hanna of Falkirk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hanna-of-falkirk/"><img src="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/sett.png" alt="Hanna of Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

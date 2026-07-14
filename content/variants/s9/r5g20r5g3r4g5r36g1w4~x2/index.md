@@ -8,10 +8,10 @@ crumbs:
 - name: "Baluchistan Fitzgerald Regimental"
   url: "/tartans/b/ba/baluchistan-fitzgerald-regimental/"
 - name: "Baluchistan Fitzgerald Regimental Tartan"
-  url: "/setts/r5g20r5g3r4g5r36g1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5g20r5g3r4g5r36g1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/baluchistan-fitzgerald-regimental/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRGRGW](/stripes/rgrgrgrgw/).
 
 Part of the [Baluchistan Fitzgerald Regimental](/tartans/b/ba/baluchistan-fitzgerald-regimental/) tartan — the named design grouping this sett with its other cloths.

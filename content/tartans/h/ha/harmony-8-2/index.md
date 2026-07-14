@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/harmony/"
 - name: "Harmony"
   url: "/families/harmony/"
+aliases:
+- "/setts/do2n10ly15do10n2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbybb/">BBYBB</a></nav>
 A tartan of the [Harmony](/families/harmony/) family.
 Its design is pattern [BBYBB](/stripes/bbybb/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Harmony 8** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/do2n10ly15do10n2/">Harmony 8</a></td><td><code>DO/8 N40 LY60 DO40 N/8</code></td><td>296</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/do2n10ly15do10n2/"><img src="/variants/s5/do2n10ly15do10n2~x4/sett.png" alt="Harmony 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/do2n10ly15do10n2~x4/">Harmony 8</a></td><td><code>DO/8 N40 LY60 DO40 N/8</code></td><td>296</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/do2n10ly15do10n2~x4/"><img src="/variants/s5/do2n10ly15do10n2~x4/sett.png" alt="Harmony 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/lb6do28lo20lb3~x2/"><circle cx="321.5" cy="280.1" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><circle cx="289.8" cy="253.9" r="4" fill="#3465a4"><title>Heil, Rudiger</title></circle></a><a href="/variants/s4/w2g13lo13w2~x6/"><circle cx="311.4" cy="308.2" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="291.3" cy="230.1" r="4" fill="#3465a4"><title>Elgin</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.7" cy="303.7" r="4" fill="#3465a4"><title>Outlander</title></circle></a><a href="/variants/s4/w2dg13o13w2~x6/"><circle cx="260.3" cy="265.8" r="4" fill="#3465a4"><title>Dunoon Irish</title></circle></a><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><circle cx="260.5" cy="245.0" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><circle cx="266.8" cy="301.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/lb6do28lo20lb3~x2/"><circle cx="321.8" cy="280.1" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><circle cx="290.0" cy="253.8" r="4" fill="#3465a4"><title>Heil, Rudiger</title></circle></a><a href="/variants/s4/w2g13lo13w2~x6/"><circle cx="311.5" cy="308.3" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="291.5" cy="230.0" r="4" fill="#3465a4"><title>Elgin</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.9" cy="303.7" r="4" fill="#3465a4"><title>Outlander</title></circle></a><a href="/variants/s4/w2dg13o13w2~x6/"><circle cx="260.6" cy="265.9" r="4" fill="#3465a4"><title>Dunoon Irish</title></circle></a><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><circle cx="260.7" cy="245.0" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><circle cx="266.7" cy="301.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

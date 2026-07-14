@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db12k2db2k2db2k2db2k12lb5k1r2k1lb5k12db12k1w2~x2/">Donside Trampoline Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db12k2db2k2db2k2db2k12lb5k1r2k1lb5k12db12k1w2~x2/"><img src="/variants/s17/db12k2db2k2db2k2db2k12lb5k1r2k1lb5k12db12k1w2~x2/sett.png" alt="Donside Trampoline Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/donside-trampoline-club/">Donside Trampoline Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/donside-trampoline-club/"><img src="/variants/s17/db12k2db2k2db2k2db2k12lb5k1r2k1lb5k12db12k1w2~x2/sett.png" alt="Donside Trampoline Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dt68t7dt16k16ly4~x2/">Burnett's &amp; Struth (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dt68t7dt16k16ly4~x2/"><img src="/variants/s5/dt68t7dt16k16ly4~x2/sett.png" alt="Burnett's &amp; Struth (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/dt32dr3dt4k2lo3~x2/">MacLaine of Lochbuie Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dt32dr3dt4k2lo3~x2/"><img src="/variants/s5/dt32dr3dt4k2lo3~x2/sett.png" alt="MacLaine of Lochbuie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burnett-s-struth/">Burnett's &amp; Struth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burnett-s-struth/"><img src="/variants/s5/dt68t7dt16k16ly4~x2/sett.png" alt="Burnett's &amp; Struth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclaine-of-lochbuie-hunting-2/">MacLaine of Lochbuie Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclaine-of-lochbuie-hunting-2/"><img src="/variants/s5/dt32dr3dt4k2lo3~x2/sett.png" alt="MacLaine of Lochbuie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

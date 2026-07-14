@@ -8,10 +8,10 @@ crumbs:
 - name: "Braemar Castle"
   url: "/tartans/b/br/braemar-castle/"
 - name: "Braemar Castle"
-  url: "/setts/r52k5y5ly5do5k2r6k1y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r52k5y5ly5do5k2r6k1y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/braemar-castle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKBYGKR](/stripes/gkrkbygkr/).
 
 Part of the [Braemar Castle](/tartans/b/br/braemar-castle/) tartan — the named design grouping this sett with its other cloths.

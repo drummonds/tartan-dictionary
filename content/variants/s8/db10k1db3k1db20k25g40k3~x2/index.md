@@ -10,10 +10,10 @@ crumbs:
 - name: "Black Watch RHR"
   url: "/tartans/b/bl/black-watch-rhr/"
 - name: "Black Watch RHR"
-  url: "/setts/db10k1db3k1db20k25g40k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10k1db3k1db20k25g40k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-watch-rhr/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGK](/stripes/bkbkbkgk/).
 
 Part of the [Black Watch RHR](/tartans/b/bl/black-watch-rhr/) tartan — the named design grouping this sett with its other cloths.

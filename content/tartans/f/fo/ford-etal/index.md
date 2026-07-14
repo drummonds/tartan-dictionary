@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k3w1r16k1g21t9k6w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwrkgbkw/">KWRKGBKW</a></nav>
 Its design is pattern [KWRKGBKW](/stripes/kwrkgbkw/) — the page of every tartan sharing this colour sequence.
 
 The **Ford & Etal** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Ford & Etal** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3w1r16k1g21t9k6w1/">Ford &amp; Etal</a></td><td><code>K/12 W4 R64 K4 G84 T36 K24 W/4</code></td><td>448</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3w1r16k1g21t9k6w1/"><img src="/variants/s8/k3w1r16k1g21t9k6w1~x4/sett.png" alt="Ford &amp; Etal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/">Ford &amp; Etal</a></td><td><code>K/12 W4 R64 K4 G84 T36 K24 W/4</code></td><td>448</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><img src="/variants/s8/k3w1r16k1g21t9k6w1~x4/sett.png" alt="Ford &amp; Etal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r8ly44k32w2n52k7n7w3/"><circle cx="171.4" cy="121.5" r="4" fill="#3465a4"><title>Golden Wedding</title></circle></a><a href="/variants/s7/w2k1g16k12r12k1w2~x2/"><circle cx="151.5" cy="152.2" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/variants/s9/r2g10k12n1ly2n14k1n1g2~x2/"><circle cx="150.8" cy="142.4" r="4" fill="#3465a4"><title>McWilliams Wedding</title></circle></a><a href="/variants/s9/k3dy14lo4dy9lo14k14g28k1o3~x2/"><circle cx="122.4" cy="130.8" r="4" fill="#3465a4"><title>Dutch Friendship</title></circle></a><a href="/variants/s8/y1k6g32k12r12b9k6w1~x2/"><circle cx="161.9" cy="101.5" r="4" fill="#3465a4"><title>McGeachie</title></circle></a><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><circle cx="187.8" cy="76.8" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="149.7" cy="146.7" r="4" fill="#3465a4"><title>Garvock</title></circle></a><a href="/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/"><circle cx="164.3" cy="121.1" r="4" fill="#3465a4"><title>Moffat</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="154.3" cy="174.3" r="4" fill="#3465a4"><title>Bryant</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="182.1" cy="142.3" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S</title></circle></a><circle cx="154.7" cy="131.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r8ly44k32w2n52k7n7w3/"><circle cx="171.9" cy="121.3" r="4" fill="#3465a4"><title>Golden Wedding</title></circle></a><a href="/variants/s7/w2k1g16k12r12k1w2~x2/"><circle cx="152.0" cy="152.1" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/variants/s9/r2g10k12n1ly2n14k1n1g2~x2/"><circle cx="151.2" cy="142.2" r="4" fill="#3465a4"><title>McWilliams Wedding</title></circle></a><a href="/variants/s9/k3dy14lo4dy9lo14k14g28k1o3~x2/"><circle cx="122.8" cy="130.5" r="4" fill="#3465a4"><title>Dutch Friendship</title></circle></a><a href="/variants/s8/y1k6g32k12r12b9k6w1~x2/"><circle cx="162.4" cy="101.3" r="4" fill="#3465a4"><title>McGeachie</title></circle></a><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><circle cx="188.4" cy="76.6" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="150.1" cy="146.5" r="4" fill="#3465a4"><title>Garvock</title></circle></a><a href="/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/"><circle cx="164.8" cy="120.9" r="4" fill="#3465a4"><title>Moffat</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="154.7" cy="174.2" r="4" fill="#3465a4"><title>Bryant</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="182.6" cy="142.2" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S</title></circle></a><circle cx="155.1" cy="131.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

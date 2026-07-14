@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3~x2/">Reflections of the Sea</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3~x2/"><img src="/variants/s12/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3~x2/sett.png" alt="Reflections of the Sea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/reflections-of-the-sea/">Reflections of the Sea</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/reflections-of-the-sea/"><img src="/variants/s12/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3~x2/sett.png" alt="Reflections of the Sea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

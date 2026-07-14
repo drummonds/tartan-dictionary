@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/">Isle of Harris</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><img src="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/sett.png" alt="Isle of Harris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/isle-of-harris/">Isle of Harris</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-harris/"><img src="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/sett.png" alt="Isle of Harris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

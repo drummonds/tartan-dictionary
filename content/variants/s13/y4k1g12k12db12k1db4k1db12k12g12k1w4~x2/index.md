@@ -12,10 +12,10 @@ crumbs:
 - name: "Campbell of Loudon"
   url: "/tartans/c/ca/campbell-of-loudon/"
 - name: "Campbell of Loudon"
-  url: "/setts/y4k1g12k12db12k1db4k1db12k12g12k1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4k1g12k12db12k1db4k1db12k12g12k1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-of-loudon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBKBKBKGKW](/stripes/gkgkbkbkbkgkw/).
 
 Part of the [Campbell of Loudon](/tartans/c/ca/campbell-of-loudon/) tartan — the named design grouping this sett with its other cloths.

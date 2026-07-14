@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/y2ri5r3g54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2/">Sommerville</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y2ri5r3g54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2/"><img src="/variants/s18/y2ri5r3g54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032-db1406275/sett.png" alt="Sommerville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/y2ri5r3g54r5g3r5db21ri5r3ri5g17r2db4r48ri5r3w2~ri2406019-r2109032/">Sommerville Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/y2ri5r3g54r5g3r5db21ri5r3ri5g17r2db4r48ri5r3w2~ri2406019-r2109032/"><img src="/variants/s18/y2ri5r3g54r5g3r5db21ri5r3ri5g17r2db4r48ri5r3w2~ri2406019-r2109032/sett.png" alt="Sommerville Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/sommerville/">Sommerville</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/sommerville/"><img src="/variants/s18/y2ri5r3g54r5g3r5db21ri5r3ri5g17r2db4r48ri5r3w2~ri2406019-r2109032/sett.png" alt="Sommerville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Gordon of Esselmont"
   url: "/tartans/g/go/gordon-of-esselmont-2/"
 - name: "Gordon of Esselmont"
-  url: "/setts/k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/gordon-of-esselmont-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGYGYGYGKBKBKBKBKBKGYGYGYGKBK](/stripes/bkbkgygygygkbkbkbkbkbkgygygygkbk/).
 
 Part of the [Gordon of Esselmont](/tartans/g/go/gordon-of-esselmont-2/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Jefferson"
   url: "/tartans/j/je/jefferson-2/"
 - name: "Jefferson (Personal)"
-  url: "/setts/g28lb2dp20t9r22k7r22t9dp20lb2g28ly7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g28lb2dp20t9r22k7r22t9dp20lb2g28ly7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/je/jefferson-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBBRKRBBWGY](/stripes/gwbbrkrbbwgy/).
 
 Part of the [Jefferson](/tartans/j/je/jefferson-2/) tartan — the named design grouping this sett with its other cloths.

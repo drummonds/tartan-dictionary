@@ -8,10 +8,10 @@ crumbs:
 - name: "John.W.Mackay, Restricted"
   url: "/tartans/j/jo/john-w-mackay-restricted/"
 - name: "John.W.Mackay, Restricted"
-  url: "/setts/k4g34y1k18g3db18r3g3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4g34y1k18g3db18r3g3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/jo/john-w-mackay-restricted/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGKGBRGR](/stripes/kggkgbrgr/).
 
 Part of the [John.W.Mackay, Restricted](/tartans/j/jo/john-w-mackay-restricted/) tartan — the named design grouping this sett with its other cloths.

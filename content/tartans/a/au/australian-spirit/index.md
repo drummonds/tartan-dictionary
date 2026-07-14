@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Australian"
   url: "/clan/australian/"
+aliases:
+- "/setts/g4w2g24y8g2y4g2y16g8w2g1w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwgggggggwgw/">GWGGGGGGGWGW</a></nav>
 A tartan of [Clan Australian](/clan/australian/).
 Its design is pattern [GWGGGGGGGWGW](/stripes/gwgggggggwgw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Australian Spirit** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g4w2g24y8g2y4g2y16g8w2g1w4/">Australian Spirit</a></td><td><code>G/8 W4 G48 Y16 G4 Y8 G4 Y32 G16 W4 G2 W/8</code></td><td>292</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g4w2g24y8g2y4g2y16g8w2g1w4/"><img src="/variants/s12/g4w2g24y8g2y4g2y16g8w2g1w4~x2/sett.png" alt="Australian Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g4w2g24y8g2y4g2y16g8w2g1w4~x2/">Australian Spirit</a></td><td><code>G/8 W4 G48 Y16 G4 Y8 G4 Y32 G16 W4 G2 W/8</code></td><td>292</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g4w2g24y8g2y4g2y16g8w2g1w4~x2/"><img src="/variants/s12/g4w2g24y8g2y4g2y16g8w2g1w4~x2/sett.png" alt="Australian Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/g24dr2g2dg40g25dg2g2dr2g2dg20~x2/"><circle cx="440.5" cy="218.8" r="4" fill="#3465a4"><title>Donachie of Brockloch Hunting</title></circle></a><a href="/variants/s10/ly78g10r2g1r2g6ly2g3ly2g43~x2/"><circle cx="469.2" cy="134.9" r="4" fill="#3465a4"><title>Montreal</title></circle></a><circle cx="426.5" cy="213.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/g24dr2g2dg40g25dg2g2dr2g2dg20~x2/"><circle cx="441.0" cy="219.1" r="4" fill="#3465a4"><title>Donachie of Brockloch Hunting</title></circle></a><a href="/variants/s10/ly78g10r2g1r2g6ly2g3ly2g43~x2/"><circle cx="470.0" cy="135.2" r="4" fill="#3465a4"><title>Montreal</title></circle></a><circle cx="426.9" cy="214.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

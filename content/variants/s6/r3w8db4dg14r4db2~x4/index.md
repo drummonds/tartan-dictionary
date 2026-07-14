@@ -12,10 +12,10 @@ crumbs:
 - name: "MacKintosh Dress"
   url: "/tartans/m/ma/mackintosh-dress/"
 - name: "MacKintosh Dress (Scott Adie)"
-  url: "/setts/r3w8db4dg14r4db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3w8db4dg14r4db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackintosh-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBWR](/stripes/brgbwr/).
 
 Part of the [MacKintosh Dress](/tartans/m/ma/mackintosh-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2571](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — MacKintosh Dress (Scott Adie) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2571">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>From an old pattern book in possession of Messrs Scott Adie of London. There does not appear to be any 'legitimate' Dress MacKintosh although some websites may promote #6562 or this #538 (original Scottish Tartans Authority reference) as such.</em></li>
-<li>pre 2002 — MacKintosh Dress - 1930 (Clan?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=538">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>From an old pattern book in possession of Messrs Scott Adie of London. There does not appear to be any 'legitimate' Dress MacKintosh although some websites may promote #6562 or this #538 as such. Given a c1930 date for archiving.</em></li>
+<li>pre 2002 — MacKintosh Dress - 1930 (Clan?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/538/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>From an old pattern book in possession of Messrs Scott Adie of London. There does not appear to be any 'legitimate' Dress MacKintosh although some websites may promote #6562 or this #538 as such. Given a c1930 date for archiving.</em></li>
 </ul>
 </details>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Erin"
   url: "/tartans/g/gl/glen-erin/"
 - name: "Glen Erin Canadian Tartan"
-  url: "/setts/db16dg8dbi8dg8db16r3dy3g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16dg8dbi8dg8db16r3dy3g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-erin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBRGG](/stripes/bgbgbrgg/).
 
 Part of the [Glen Erin](/tartans/g/gl/glen-erin/) tartan — the named design grouping this sett with its other cloths.

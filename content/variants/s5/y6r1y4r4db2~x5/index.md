@@ -8,10 +8,10 @@ crumbs:
 - name: "Sands-Pingot Family, Alabama"
   url: "/tartans/s/sa/sands-pingot-family-alabama/"
 - name: "Sands-Pingot Family, Alabama (Personal)"
-  url: "/setts/y6r1y4r4db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y6r1y4r4db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sands-pingot-family-alabama/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRG](/stripes/brgrg/).
 
 Part of the [Sands-Pingot Family, Alabama](/tartans/s/sa/sands-pingot-family-alabama/) tartan — the named design grouping this sett with its other cloths.

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r2db12k5lb16w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbkww/">RBKWW</a></nav>
 Its design is pattern [RBKWW](/stripes/rbkww/) — the page of every tartan sharing this colour sequence.
 
 The **RSCDS Australia?** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **RSCDS Australia?** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2db12k5lb16w2/">RSCDS Australia?</a></td><td><code>R/8 DB48 K20 LB64 W/8</code></td><td>280</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2db12k5lb16w2/"><img src="/variants/s5/r2db12k5lb16w2~x4/sett.png" alt="RSCDS Australia? sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r2db12k5lb16w2~x4/">RSCDS Australia?</a></td><td><code>R/8 DB48 K20 LB64 W/8</code></td><td>280</td><td>~2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r2db12k5lb16w2~x4/"><img src="/variants/s5/r2db12k5lb16w2~x4/sett.png" alt="RSCDS Australia? sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="141.3" cy="201.5" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.9" cy="204.4" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="243.8" cy="215.4" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/"><circle cx="174.5" cy="221.1" r="4" fill="#3465a4"><title>Rose, Danny and Hanna</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="186.3" cy="198.9" r="4" fill="#3465a4"><title>All as One</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="110.8" cy="167.3" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="157.4" cy="136.7" r="4" fill="#3465a4"><title>Madras College</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="172.8" cy="205.7" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.4" cy="143.9" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s8/db4r1w1r1db4k2lb6y1~x6/"><circle cx="96.9" cy="183.5" r="4" fill="#3465a4"><title>Lopatinsky</title></circle></a><circle cx="156.0" cy="196.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="141.7" cy="201.3" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="144.1" cy="204.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="244.2" cy="215.3" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/"><circle cx="174.8" cy="220.9" r="4" fill="#3465a4"><title>Rose, Danny and Hanna</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="186.8" cy="198.7" r="4" fill="#3465a4"><title>All as One</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="111.1" cy="167.0" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="157.8" cy="136.4" r="4" fill="#3465a4"><title>Madras College</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="173.2" cy="205.6" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.8" cy="143.6" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s8/db4r1w1r1db4k2lb6y1~x6/"><circle cx="97.1" cy="183.1" r="4" fill="#3465a4"><title>Lopatinsky</title></circle></a><circle cx="156.4" cy="195.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

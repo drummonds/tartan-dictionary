@@ -10,10 +10,10 @@ crumbs:
 - name: "Hebrides, Inner"
   url: "/tartans/h/he/hebrides-inner-2/"
 - name: "Hebrides Inner"
-  url: "/setts/b3y1db2k3y1b4g5db8y1k2g3y1g3k2y1db22y1db4r4y1r4db4y1db22y1k2g3y1g3k2y1r14lb6w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b3y1db2k3y1b4g5db8y1k2g3y1g3k2y1db22y1db4r4y1r4db4y1db22y1k2g3y1g3k2y1r14lb6w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebrides-inner-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGBGBGKGGGKGBGBRGRBGBGKGGGKGRWW](/stripes/bgbkgbgbgkgggkgbgbrgrbgbgkgggkgrww/).
 
 Part of the [Hebrides, Inner](/tartans/h/he/hebrides-inner-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/">Caleys Windsor (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/"><img src="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/sett.png" alt="Caleys Windsor (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/db3w1db1w1db2w3db15lb2db2lb22r2~x2/">Commonwealth Games 1986 #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db3w1db1w1db2w3db15lb2db2lb22r2~x2/"><img src="/variants/s11/db3w1db1w1db2w3db15lb2db2lb22r2~x2/sett.png" alt="Commonwealth Games 1986 #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/">Edinburgh '86</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/"><img src="/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/sett.png" alt="Edinburgh '86 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caleys-windsor/">Caleys Windsor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caleys-windsor/"><img src="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/sett.png" alt="Caleys Windsor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/commonwealth-games-1986-2/">Commonwealth Games 1986</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/commonwealth-games-1986-2/"><img src="/variants/s11/db3w1db1w1db2w3db15lb2db2lb22r2~x2/sett.png" alt="Commonwealth Games 1986 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-86/">Edinburgh '86</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-86/"><img src="/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/sett.png" alt="Edinburgh '86 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

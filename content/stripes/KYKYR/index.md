@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k8ly1k8ly12r1~x4/">MacLeod of Lewis (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k8ly1k8ly12r1~x4/"><img src="/variants/s5/k8ly1k8ly12r1~x4/sett.png" alt="MacLeod of Lewis (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-of-lewis/">MacLeod of Lewis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-of-lewis/"><img src="/variants/s5/k8ly1k8ly12r1~x4/sett.png" alt="MacLeod of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

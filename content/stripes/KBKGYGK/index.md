@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k9g9ly2g9k9db9k3~x2/">Campbell of Breadalbane (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k9g9ly2g9k9db9k3~x2/"><img src="/variants/s7/k9g9ly2g9k9db9k3~x2/sett.png" alt="Campbell of Breadalbane (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-of-breadalbane-2/">Campbell of Breadalbane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-breadalbane-2/"><img src="/variants/s7/k9g9ly2g9k9db9k3~x2/sett.png" alt="Campbell of Breadalbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

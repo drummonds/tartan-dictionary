@@ -6,15 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Barbie's Moss"
-  url: "/tartans/b/ba/barbie-s-moss/"
+  url: "/tartans/b/ba/barbie-s-moss-2/"
 - name: "Barbie's Moss Plaid (Yellow & Green)"
-  url: "/setts/g3ly3g20ly20g20ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3ly3g20ly20g20ly3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barbie-s-moss-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYGY](/stripes/gygygy/).
 
-Part of the [Barbie's Moss](/tartans/b/ba/barbie-s-moss/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Barbie's Moss](/tartans/b/ba/barbie-s-moss-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

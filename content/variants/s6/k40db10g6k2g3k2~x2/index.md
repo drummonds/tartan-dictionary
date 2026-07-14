@@ -12,15 +12,15 @@ crumbs:
 - name: "Daks"
   url: "/tartans/d/da/daks-6/"
 - name: "Daks (Chino Check)"
-  url: "/setts/k40db10g6k2g3k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k40db10g6k2g3k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/daks-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGBKKKKKK](/stripes/kgkgbkkkkkk/).
 
 Part of the [Daks](/tartans/d/da/daks-6/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=868](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=868)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2630
 
 ## Thread count
-K/50 K14 K4 K4 K4 K4 DB20 G12 K4 G6 K/4
+K/80 DB20 G12 K4 G6 K/4
 
-One full sett is **198 threads**.
+One full sett is **168 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/50 K14 K4 K4 K4 K4 DB20 G12 K4 G6 K/4 — 198 threads; it folds to the canonical 168-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **198 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/50 K14 K4 K4 K4 K4 DB20 G12 K4 G6 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/80 DB20 G12 K4 G6 K/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

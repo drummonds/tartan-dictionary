@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db1o9g5o1k5o1g5o9w1~x2/">Duchess of York</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db1o9g5o1k5o1g5o9w1~x2/"><img src="/variants/s9/db1o9g5o1k5o1g5o9w1~x2/sett.png" alt="Duchess of York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duchess-of-york-2/">Duchess of York</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duchess-of-york-2/"><img src="/variants/s9/db1o9g5o1k5o1g5o9w1~x2/sett.png" alt="Duchess of York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

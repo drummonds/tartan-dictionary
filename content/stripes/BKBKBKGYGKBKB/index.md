@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/">92nd Regiment (Gordon) (Mil.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/"><img src="/variants/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/sett.png" alt="92nd Regiment (Gordon) (Mil.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/92nd-regiment/">92nd Regiment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/92nd-regiment/"><img src="/variants/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/sett.png" alt="92nd Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

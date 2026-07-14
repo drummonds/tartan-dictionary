@@ -8,10 +8,10 @@ crumbs:
 - name: "Unidentified"
   url: "/tartans/u/un/unidentified-18/"
 - name: "Unidentified (Miss Paterson)"
-  url: "/setts/t14r4k2t10k2t10k2t10k2db6t77w4k6t28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92t28k6w4t76db6k2t10k2t10k2t10k2r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t14r4k2t10k2t10k2t10k2db6t77w4k6t28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92t28k6w4t76db6k2t10k2t10k2t10k2r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBKBKBKBBWKBKBKBKBKBKBKBKBKBKBKWBBKBKBKBKR](/stripes/brkbkbkbkbbwkbkbkbkbkbkbkbkbkbkbkwbbkbkbkbkr/).
 
 Part of the [Unidentified](/tartans/u/un/unidentified-18/) tartan — the named design grouping this sett with its other cloths.

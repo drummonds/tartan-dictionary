@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/y7lb4y1lb4y1lb4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1~x4/">Ottawa</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/y7lb4y1lb4y1lb4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1~x4/"><img src="/variants/s24/y7lb4y1lb4y1lb4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1~x4/sett.png" alt="Ottawa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s24/dy7lb4dy1lb4dy1lb4dy7w2dy6w1dy1w1dy1db2dy1db3dy1db2dy1w1dy1w1dy6r1~x4/">Ottawa District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/dy7lb4dy1lb4dy1lb4dy7w2dy6w1dy1w1dy1db2dy1db3dy1db2dy1w1dy1w1dy6r1~x4/"><img src="/variants/s24/dy7lb4dy1lb4dy1lb4dy7w2dy6w1dy1w1dy1db2dy1db3dy1db2dy1w1dy1w1dy6r1~x4/sett.png" alt="Ottawa District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ot/ottawa/">Ottawa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ot/ottawa/"><img src="/variants/s24/y7lb4y1lb4y1lb4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1~x4/sett.png" alt="Ottawa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r9k4r9k25dy3dp18k4/"
+- "/setts/r9k4r9k25y3dp18k4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbgkrkr/">KBGKRKR</a></nav>
 Its design is pattern [KBGKRKR](/stripes/kbgkrkr/) — the page of every tartan sharing this colour sequence.
 
 The **Wounded Warriors Canada** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Wounded Warriors Canada** tartan groups 2 setts — the same named design 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r9k4r9k25dy3dp18k4/">Wounded Warriors Canada</a> ★</td><td><code>R/18 K8 R18 K50 DY6 DP36 K/8</code></td><td>262</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r9k4r9k25dy3dp18k4/"><img src="/variants/s7/r9k4r9k25dy3dp18k4~x2/sett.png" alt="Wounded Warriors Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r9k4r9k25y3dp18k4/">Wounded Warriors Canada</a></td><td><code>R/18 K8 R18 K50 Y6 DP36 K/8</code></td><td>262</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r9k4r9k25y3dp18k4/"><img src="/variants/s7/r9k4r9k25y3dp18k4~x2/sett.png" alt="Wounded Warriors Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r9k4r9k25dy3dp18k4~x2/">Wounded Warriors Canada</a> ★</td><td><code>R/18 K8 R18 K50 DY6 DP36 K/8</code></td><td>262</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r9k4r9k25dy3dp18k4~x2/"><img src="/variants/s7/r9k4r9k25dy3dp18k4~x2/sett.png" alt="Wounded Warriors Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r9k4r9k25y3dp18k4~x2/">Wounded Warriors Canada</a></td><td><code>R/18 K8 R18 K50 Y6 DP36 K/8</code></td><td>262</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r9k4r9k25y3dp18k4~x2/"><img src="/variants/s7/r9k4r9k25y3dp18k4~x2/sett.png" alt="Wounded Warriors Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="252.5" cy="185.1" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="248.1" cy="192.2" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="160.8" cy="167.7" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s7/r8k18r6k18t27k2w3~x2/"><circle cx="194.5" cy="165.8" r="4" fill="#3465a4"><title>MacKean</title></circle></a><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="221.6" cy="159.2" r="4" fill="#3465a4"><title>Nakayama</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="223.7" cy="151.8" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s7/k4r5k4dp28k4g5k4~x2/"><circle cx="258.8" cy="168.3" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="164.9" cy="164.6" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/variants/s5/k60w8lo15dp74k14/"><circle cx="210.2" cy="184.8" r="4" fill="#3465a4"><title>Gingles</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="181.6" cy="204.2" r="4" fill="#3465a4"><title>Inder</title></circle></a><circle cx="202.5" cy="184.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="253.3" cy="185.1" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="248.9" cy="192.2" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="161.4" cy="167.5" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s7/r8k18r6k18t27k2w3~x2/"><circle cx="195.2" cy="165.7" r="4" fill="#3465a4"><title>MacKean</title></circle></a><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="222.4" cy="159.1" r="4" fill="#3465a4"><title>Nakayama</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="224.5" cy="151.7" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s7/k4r5k4dp28k4g5k4~x2/"><circle cx="259.5" cy="168.3" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="165.4" cy="164.5" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/variants/s5/k60w8lo15dp74k14/"><circle cx="210.9" cy="184.8" r="4" fill="#3465a4"><title>Gingles</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="182.0" cy="204.1" r="4" fill="#3465a4"><title>Inder</title></circle></a><circle cx="203.1" cy="184.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

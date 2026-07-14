@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n60db12t1db2w1db12n5k1n2r2~x2~n1900000-db1004274-t2503227/">Kervegant (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n60db12t1db2w1db12n5k1n2r2~x2~n1900000-db1004274-t2503227/"><img src="/variants/s10/n60db12t1db2w1db12n5k1n2r2~x2~n1900000-db1004274-t2503227/sett.png" alt="Kervegant (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kervegant/">Kervegant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kervegant/"><img src="/variants/s10/n60db12t1db2w1db12n5k1n2r2~x2~n1900000-db1004274-t2503227/sett.png" alt="Kervegant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/dr60db12t1db2w1db12dr5k1dr2o2~x2~db1004274-t2503227-o2500000/">Kervegant Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr60db12t1db2w1db12dr5k1dr2o2~x2~db1004274-t2503227-o2500000/"><img src="/variants/s10/dr60db12t1db2w1db12dr5k1dr2o2~x2~db1004274-t2503227-o2500000/sett.png" alt="Kervegant Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kervegant-dress/">Kervegant Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kervegant-dress/"><img src="/variants/s10/dr60db12t1db2w1db12dr5k1dr2o2~x2~db1004274-t2503227-o2500000/sett.png" alt="Kervegant Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

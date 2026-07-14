@@ -10,15 +10,15 @@ crumbs:
 - name: "Hawick Rugby Club"
   url: "/tartans/h/ha/hawick-rugby-club/"
 - name: "Hawick Rugby Club"
-  url: "/setts/db2y1db7w1k7w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2y1db7w1k7w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBWKWKWBG](/stripes/bgbwkwkwbg/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hawick-rugby-club/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBWKW](/stripes/bgbwkw/).
 
 Part of the [Hawick Rugby Club](/tartans/h/ha/hawick-rugby-club/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1630](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1630)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1630](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Hawick Rugby Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1630">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Ruthven Milne of Piob Mhor (Blairgowrie) and woven by Elliots of Selkirk. Count taken from Scottish Tartans Authority sample.</em></li>
-<li>2000 — Hawick Rugby Club (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5834">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Ruthven Milne of Piob Mhor (Blairgowrie) and woven by Elliots of Selkirk. Count taken from STA sample.</em></li>
+<li>2000 — Hawick Rugby Club (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5834/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Ruthven Milne of Piob Mhor (Blairgowrie) and woven by Elliots of Selkirk. Count taken from STA sample.</em></li>
 </ul>
 </details>
 
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5834
 
 ## Thread count
-DB/12 Y6 DB42 W6 K42 W12 K42 W6 DB42 Y/6
+DB/12 Y6 DB42 W6 K42 W/12
 
-One full sett is **414 threads**.
+One full sett is **216 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/12 Y6 DB42 W6 K42 W12 K42 W6 DB42 Y/6 — 414 threads; it folds to the canonical 216-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **414 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 Y6 DB42 W6 K42 W12 K42 W6 DB42 Y/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 Y6 DB42 W6 K42 W/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

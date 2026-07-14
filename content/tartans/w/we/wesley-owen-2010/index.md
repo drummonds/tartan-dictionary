@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k61dg10g20w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kggw/">KGGW</a></nav>
 Its design is pattern [KGGW](/stripes/kggw/) — the page of every tartan sharing this colour sequence.
 
 The **Wesley Owen 2010** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Wesley Owen 2010** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k61dg10g20w4/">Wesley Owen 2010</a></td><td><code>K/122 DG20 G40 W/8</code></td><td>250</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k61dg10g20w4/"><img src="/variants/s4/k61dg10g20w4~x2~dg1806142-g2408144/sett.png" alt="Wesley Owen 2010 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k61dg10g20w4~x2~dg1806142-g2408144/">Wesley Owen 2010</a></td><td><code>K/122 DG20 G40 W/8</code></td><td>250</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k61dg10g20w4~x2~dg1806142-g2408144/"><img src="/variants/s4/k61dg10g20w4~x2~dg1806142-g2408144/sett.png" alt="Wesley Owen 2010 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><circle cx="248.0" cy="181.1" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/variants/s4/k62db15w6y4~x2/"><circle cx="391.9" cy="148.7" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><a href="/variants/s4/g14k80g14y5~x2/"><circle cx="413.4" cy="164.4" r="4" fill="#3465a4"><title>Westgate</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="301.2" cy="182.7" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s4/k62n24y5w3~x2/"><circle cx="368.8" cy="148.7" r="4" fill="#3465a4"><title>Perry , Alex</title></circle></a><a href="/variants/s3/g9k18r2~x4/"><circle cx="314.3" cy="228.1" r="4" fill="#3465a4"><title>Cowie, Justine</title></circle></a><a href="/variants/s4/r1g11k11y1~x4/"><circle cx="237.0" cy="197.3" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="314.4" cy="210.0" r="4" fill="#3465a4"><title>Lords of Skye</title></circle></a><a href="/variants/s4/k3g15k20y3~x2/"><circle cx="273.8" cy="231.1" r="4" fill="#3465a4"><title>Scotch Tape 2</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="239.9" cy="179.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><circle cx="321.2" cy="165.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><circle cx="248.7" cy="181.2" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/variants/s4/k62db15w6y4~x2/"><circle cx="393.1" cy="149.0" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><a href="/variants/s4/g14k80g14y5~x2/"><circle cx="414.6" cy="164.8" r="4" fill="#3465a4"><title>Westgate</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="302.1" cy="182.8" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s4/k62n24y5w3~x2/"><circle cx="369.9" cy="148.9" r="4" fill="#3465a4"><title>Perry , Alex</title></circle></a><a href="/variants/s3/g9k18r2~x4/"><circle cx="315.2" cy="228.4" r="4" fill="#3465a4"><title>Cowie, Justine</title></circle></a><a href="/variants/s4/r1g11k11y1~x4/"><circle cx="237.6" cy="197.4" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="315.4" cy="210.2" r="4" fill="#3465a4"><title>Lords of Skye</title></circle></a><a href="/variants/s4/k3g15k20y3~x2/"><circle cx="274.5" cy="231.3" r="4" fill="#3465a4"><title>Scotch Tape 2</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="240.5" cy="179.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><circle cx="322.2" cy="165.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

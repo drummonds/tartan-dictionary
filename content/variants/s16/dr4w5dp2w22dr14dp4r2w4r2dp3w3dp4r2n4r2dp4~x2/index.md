@@ -10,15 +10,15 @@ crumbs:
 - name: "Skye Dress Red, Earl of"
   url: "/tartans/s/sk/skye-dress-red-earl-of/"
 - name: "Skye Dress Red, Earl of (Dance)"
-  url: "/setts/dr4w5dp2w22dr14dp4r2w4r2dp3w3dp4r2n4r2dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4w5dp2w22dr14dp4r2w4r2dp3w3dp4r2n4r2dp4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBRBWBRWRBBWBWBWBWBBRWRBWBRBR](/stripes/brbrbwbrwrbbwbwbwbwbbrwrbwbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/s/sk/skye-dress-red-earl-of/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRBWBRWRBBWBWB](/stripes/brbrbwbrwrbbwbwb/).
 
 Part of the [Skye Dress Red, Earl of](/tartans/s/sk/skye-dress-red-earl-of/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3814](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3814)
 
@@ -46,9 +46,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5328
 
 ## Thread count
-DP/8 R4 N8 R4 DP8 W6 DP6 R4 W8 R4 DP8 DR28 W44 DP4 W10 DR8 W10 DP4 W44 DR28 DP8 R4 W8 R4 DP6 W6 DP8 R4 N8 R/4
+DR/8 W10 DP4 W44 DR28 DP8 R4 W8 R4 DP6 W6 DP8 R4 N8 R4 DP/8
 
-One full sett is **604 threads**.
+One full sett is **308 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/8 R4 N8 R4 DP8 W6 DP6 R4 W8 R4 DP8 DR28 W44 DP4 W10 DR8 W10 DP4 W44 DR28 DP8 R4 W8 R4 DP6 W6 DP8 R4 N8 R/4 — 604 threads; it folds to the canonical 308-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -57,7 +59,7 @@ One full sett is **604 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/8 R4 N8 R4 DP8 W6 DP6 R4 W8 R4 DP8 DR28 W44 DP4 W10 DR8 W10 DP4 W44 DR28 DP8 R4 W8 R4 DP6 W6 DP8 R4 N8 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/8 W10 DP4 W44 DR28 DP8 R4 W8 R4 DP6 W6 DP8 R4 N8 R4 DP/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

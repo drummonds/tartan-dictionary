@@ -12,10 +12,10 @@ crumbs:
 - name: "Perkins"
   url: "/tartans/p/pe/perkins/"
 - name: "Perkins (2015)"
-  url: "/setts/k3db10y5db29k10r6k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3db10y5db29k10r6k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/perkins/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBKRK](/stripes/kbgbkrk/).
 
 Part of the [Perkins](/tartans/p/pe/perkins/) tartan — the named design grouping this sett with its other cloths.

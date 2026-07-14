@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/">Fraser, Isabella (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/"><img src="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/sett.png" alt="Fraser, Isabella (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/">Fraser, Wedding dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/"><img src="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/sett.png" alt="Fraser, Wedding dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-isabella-2/">Fraser, Isabella</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-isabella-2/"><img src="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/sett.png" alt="Fraser, Isabella sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-wedding-dress/">Fraser, Wedding dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-wedding-dress/"><img src="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/sett.png" alt="Fraser, Wedding dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

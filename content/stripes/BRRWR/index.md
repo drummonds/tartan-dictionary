@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/">Glen Shee Plaid (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/"><img src="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/sett.png" alt="Glen Shee Plaid (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-shee-5/">Glen Shee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-shee-5/"><img src="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/sett.png" alt="Glen Shee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

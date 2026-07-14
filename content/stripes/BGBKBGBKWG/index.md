@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/">Kyle, Grape (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/"><img src="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/sett.png" alt="Kyle, Grape (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ky/kyle-grape/">Kyle Grape</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ky/kyle-grape/"><img src="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/sett.png" alt="Kyle Grape sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

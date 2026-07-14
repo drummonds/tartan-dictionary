@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/bahamas/"
 - name: "Bahamas"
   url: "/families/bahamas/"
+aliases:
+- "/setts/lb8ly2lb22dg6r2w10dg12lb3/"
+- "/setts/db3g11w11r2g7db22y2db2/"
+- "/setts/db6y2db22g7r2w11g11db3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wgwrgwyw/">WGWRGWYW</a></nav>
 A tartan of the [Bahamas](/families/bahamas/) family.
 Its design is pattern [WGWRGWYW](/stripes/wgwrgwyw/) — the page of every tartan sharing this colour sequence.
 
@@ -20,12 +25,12 @@ The **Bahamas** tartan groups 3 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb8ly2lb22dg6r2w10dg12lb3/">Bahamas</a> ★</td><td><code>LB/16 LY4 LB44 DG12 R4 W20 DG24 LB/6</code></td><td>238</td><td>1966</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb8ly2lb22dg6r2w10dg12lb3/"><img src="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/sett.png" alt="Bahamas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db3g11w11r2g7db22y2db2/">Bahamas</a></td><td><code>DB/6 G22 W22 R4 G14 DB44 Y4 DB/4</code></td><td>230</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3g11w11r2g7db22y2db2/"><img src="db3g11w11r2g7db22y2db2-rev.png" alt="Bahamas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db6y2db22g7r2w11g11db3/">District Tartan</a></td><td><code>DB/12 Y4 DB44 G14 R4 W22 G22 DB/6</code></td><td>238</td><td>1966</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db6y2db22g7r2w11g11db3/"><img src="/variants/s8/db6y2db22g7r2w11g11db3~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/">Bahamas</a> ★</td><td><code>LB/16 LY4 LB44 DG12 R4 W20 DG24 LB/6</code></td><td>238</td><td>1966</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><img src="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/sett.png" alt="Bahamas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db3g11w11r2g7db22y2db2~x2/">Bahamas</a></td><td><code>DB/6 G22 W22 R4 G14 DB44 Y4 DB/4</code></td><td>230</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db3g11w11r2g7db22y2db2~x2/"><img src="db3g11w11r2g7db22y2db2-rev.png" alt="Bahamas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db6y2db22g7r2w11g11db3~x2/">District Tartan</a></td><td><code>DB/12 Y4 DB44 G14 R4 W22 G22 DB/6</code></td><td>238</td><td>1966</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db6y2db22g7r2w11g11db3~x2/"><img src="/variants/s8/db6y2db22g7r2w11g11db3~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -38,6 +43,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/lb30r3lb3r3lb12dt30n3dt5~x2/"><circle cx="284.5" cy="189.4" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s7/w8ly3w22n22dr3r2w4~x2/"><circle cx="262.3" cy="183.9" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.5" cy="199.7" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/"><circle cx="209.0" cy="158.9" r="4" fill="#3465a4"><title>Aelfleda Arisaid</title></circle></a><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/"><circle cx="202.2" cy="178.1" r="4" fill="#3465a4"><title>Hawaii</title></circle></a><a href="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/"><circle cx="169.3" cy="178.0" r="4" fill="#3465a4"><title>MacTavish of Dunardry</title></circle></a><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/"><circle cx="236.4" cy="183.3" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="248.1" cy="190.0" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><a href="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o2500000-n1900000/"><circle cx="201.7" cy="168.1" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/variants/s6/r3w33dp8dg18r9g3~x2/"><circle cx="177.6" cy="183.3" r="4" fill="#3465a4"><title>MacKintosh Dress</title></circle></a><circle cx="223.4" cy="190.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/lb30r3lb3r3lb12dt30n3dt5~x2/"><circle cx="285.0" cy="189.3" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s7/w8ly3w22n22dr3r2w4~x2/"><circle cx="262.7" cy="183.8" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.8" cy="199.5" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/"><circle cx="209.4" cy="158.6" r="4" fill="#3465a4"><title>Aelfleda Arisaid</title></circle></a><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/"><circle cx="202.5" cy="177.9" r="4" fill="#3465a4"><title>Hawaii</title></circle></a><a href="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/"><circle cx="169.6" cy="177.7" r="4" fill="#3465a4"><title>MacTavish of Dunardry</title></circle></a><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/"><circle cx="236.7" cy="183.1" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="248.4" cy="189.8" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><a href="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o2500000-n1900000/"><circle cx="201.9" cy="167.8" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/variants/s6/r3w33dp8dg18r9g3~x2/"><circle cx="177.9" cy="183.1" r="4" fill="#3465a4"><title>MacKintosh Dress</title></circle></a><circle cx="223.8" cy="190.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

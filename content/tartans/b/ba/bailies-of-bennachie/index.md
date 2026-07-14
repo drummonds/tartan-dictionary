@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/bailies/"
 - name: "Bailies of Bennachie"
   url: "/families/bailies-of-bennachie/"
+aliases:
+- "/setts/g27dr2g4r15db26k2db6/"
+- "/setts/dg27dr2dg4o15db26k2db6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbrgbg/">BKBRGBG</a></nav>
 A tartan of the [Bailies of Bennachie](/families/bailies-of-bennachie/) family.
 Its design is pattern [BKBRGBG](/stripes/bkbrgbg/) — the page of every tartan sharing this colour sequence.
 
@@ -20,10 +24,10 @@ The **Bailies of Bennachie** tartan groups 2 setts — the same named design rec
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g27dr2g4r15db26k2db6/">Bailies of Bennachie</a> ★</td><td><code>G/54 DR4 G8 R30 DB52 K4 DB/12</code></td><td>262</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g27dr2g4r15db26k2db6/"><img src="/variants/s7/g27dr2g4r15db26k2db6~x2/sett.png" alt="Bailies of Bennachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dg27dr2dg4o15db26k2db6/">Corporate Tartan</a></td><td><code>DG/54 DR4 DG8 O30 DB52 K4 DB/12</code></td><td>262</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg27dr2dg4o15db26k2db6/"><img src="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/">Bailies of Bennachie</a> ★</td><td><code>G/54 DR4 G8 R30 DB52 K4 DB/12</code></td><td>262</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><img src="/variants/s7/g27dr2g4r15db26k2db6~x2/sett.png" alt="Bailies of Bennachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/">Corporate Tartan</a></td><td><code>DG/54 DR4 DG8 O30 DB52 K4 DB/12</code></td><td>262</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><img src="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="192.9" cy="181.8" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/"><circle cx="184.1" cy="158.1" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><circle cx="154.7" cy="163.7" r="4" fill="#3465a4"><title>Ritchie, Stephen James</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="214.4" cy="166.6" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="177.2" cy="176.1" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="177.4" cy="176.0" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="188.5" cy="166.4" r="4" fill="#3465a4"><title>State Seal of Washington</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="136.2" cy="197.5" r="4" fill="#3465a4"><title>MacLean, Donald</title></circle></a><a href="/variants/s6/dg6lo3dg26k10n30lb3~x2/"><circle cx="212.2" cy="197.8" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="135.0" cy="184.1" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><circle cx="198.0" cy="173.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="193.4" cy="181.7" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/"><circle cx="184.5" cy="157.9" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><circle cx="155.1" cy="163.5" r="4" fill="#3465a4"><title>Ritchie, Stephen James</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="214.9" cy="166.5" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="177.6" cy="175.9" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="177.8" cy="175.9" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="188.9" cy="166.2" r="4" fill="#3465a4"><title>State Seal of Washington</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="136.4" cy="197.3" r="4" fill="#3465a4"><title>MacLean, Donald</title></circle></a><a href="/variants/s6/dg6lo3dg26k10n30lb3~x2/"><circle cx="212.6" cy="197.7" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="135.3" cy="183.9" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><circle cx="198.4" cy="173.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

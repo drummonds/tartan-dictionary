@@ -8,10 +8,10 @@ crumbs:
 - name: "Cercle de Fermières de Saint-Élie d'Orford"
   url: "/tartans/c/ce/cercle-de-fermi-res-de-saint-lie-d-orford/"
 - name: "Cercle de Fermières de Saint-Élie d'Orford"
-  url: "/setts/r2y1db8r1g7y1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2y1db8r1g7y1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ce/cercle-de-fermi-res-de-saint-lie-d-orford/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBRGGR](/stripes/rgbrggr/).
 
 Part of the [Cercle de Fermières de Saint-Élie d'Orford](/tartans/c/ce/cercle-de-fermi-res-de-saint-lie-d-orford/) tartan — the named design grouping this sett with its other cloths.

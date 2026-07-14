@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr4dg10lo1lb1dt4lb1dt25dr2~x2/">Raymond of Doune</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr4dg10lo1lb1dt4lb1dt25dr2~x2/"><img src="/variants/s8/dr4dg10lo1lb1dt4lb1dt25dr2~x2/sett.png" alt="Raymond of Doune sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/raymond-of-doune/">Raymond of Doune</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/raymond-of-doune/"><img src="/variants/s8/dr4dg10lo1lb1dt4lb1dt25dr2~x2/sett.png" alt="Raymond of Doune sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

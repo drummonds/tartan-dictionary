@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3lb1~x2/">MacIntyre of Littleport</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3lb1~x2/"><img src="/variants/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3lb1~x2/sett.png" alt="MacIntyre of Littleport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s21/r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3lb1~x2/">MacIntyre, or Perthshire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3lb1~x2/"><img src="/variants/s21/r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3lb1~x2/sett.png" alt="MacIntyre, or Perthshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macintyre-of-littleport/">MacIntyre of Littleport</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macintyre-of-littleport/"><img src="/variants/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3lb1~x2/sett.png" alt="MacIntyre of Littleport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macintyre-or-perthshire/">MacIntyre, or Perthshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macintyre-or-perthshire/"><img src="/variants/s21/r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3lb1~x2/sett.png" alt="MacIntyre, or Perthshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

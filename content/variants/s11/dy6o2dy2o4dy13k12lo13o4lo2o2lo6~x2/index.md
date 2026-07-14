@@ -12,22 +12,22 @@ crumbs:
 - name: "Glenmorangie"
   url: "/tartans/g/gl/glenmorangie/"
 - name: "Glenmorangie (Corporate)"
-  url: "/setts/dy6o2dy2o4dy13k12lo13o4lo2o2lo6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy6o2dy2o4dy13k12lo13o4lo2o2lo6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glenmorangie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGKYRYRY](/stripes/grgrgkyryry/).
 
 Part of the [Glenmorangie](/tartans/g/gl/glenmorangie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5981](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5981)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/5981/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5981/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1999 — Glenmorangie (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5981">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#805400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #805400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8608C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #A8608C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C09458;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #C09458"></span><br><em>STWR Notes: "Created circa 1999. Base on the MacDonald sett because the company producing the whisky was called "MacDonald and Muir" who were the original owners of Glenmorangie. The colours are those of the labelling and logo of the Glenmorangie brand name. "</em></li>
+<li>1999 — Glenmorangie (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5981/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#805400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #805400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8608C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #A8608C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C09458;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #C09458"></span><br><em>STWR Notes: "Created circa 1999. Base on the MacDonald sett because the company producing the whisky was called "MacDonald and Muir" who were the original owners of Glenmorangie. The colours are those of the labelling and logo of the Glenmorangie brand name. "</em></li>
 <li>01/01/2003 — Glenmorangie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4868">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#805400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #805400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8608C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #A8608C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C09458;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #C09458"></span><br><em>None</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5981](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

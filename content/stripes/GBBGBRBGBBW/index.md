@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dy3dt16do15dg18do3r3do3dg18do15dt16w3~x2/">Carinthian National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dy3dt16do15dg18do3r3do3dg18do15dt16w3~x2/"><img src="/variants/s11/dy3dt16do15dg18do3r3do3dg18do15dt16w3~x2/sett.png" alt="Carinthian National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carinthian-national/">Carinthian National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carinthian-national/"><img src="/variants/s11/dy3dt16do15dg18do3r3do3dg18do15dt16w3~x2/sett.png" alt="Carinthian National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Roderick Dhu Canada"
   url: "/tartans/r/ro/roderick-dhu-canada/"
 - name: "Roderick, Dhu"
-  url: "/setts/db4k1r2k32g32y2k1g3lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4k1r2k32g32y2k1g3lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/roderick-dhu-canada/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKGGKGW](/stripes/bkrkggkgw/).
 
 Part of the [Roderick Dhu Canada](/tartans/r/ro/roderick-dhu-canada/) tartan — the named design grouping this sett with its other cloths.

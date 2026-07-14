@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y4k28r2db22b8db3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbrkg/">BBBRKG</a></nav>
 Its design is pattern [BBBRKG](/stripes/bbbrkg/) — the page of every tartan sharing this colour sequence.
 
 The **Loch Long One Design** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Loch Long One Design** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y4k28r2db22b8db3/">Loch Long One Design</a></td><td><code>Y/8 K56 R4 DB44 B16 DB/6</code></td><td>254</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y4k28r2db22b8db3/"><img src="/variants/s6/y4k28r2db22b8db3~x2/sett.png" alt="Loch Long One Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y4k28r2db22b8db3~x2/">Loch Long One Design</a></td><td><code>Y/8 K56 R4 DB44 B16 DB/6</code></td><td>254</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y4k28r2db22b8db3~x2/"><img src="/variants/s6/y4k28r2db22b8db3~x2/sett.png" alt="Loch Long One Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="166.2" cy="144.8" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s5/db16r1k16w1r1~x4/"><circle cx="283.0" cy="158.0" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="206.8" cy="120.6" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="163.1" cy="150.5" r="4" fill="#3465a4"><title>Sandberg of Greenock</title></circle></a><a href="/variants/s7/db35r2k16y2b25w2b6~x2/"><circle cx="186.9" cy="135.2" r="4" fill="#3465a4"><title>Unidentified 7</title></circle></a><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="198.0" cy="191.6" r="4" fill="#3465a4"><title>Landels</title></circle></a><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><circle cx="268.1" cy="141.8" r="4" fill="#3465a4"><title>Mensa</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="277.2" cy="155.7" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="233.5" cy="139.8" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="205.0" cy="136.5" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><circle cx="208.2" cy="160.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="166.8" cy="144.6" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s5/db16r1k16w1r1~x4/"><circle cx="283.9" cy="158.1" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="207.5" cy="120.5" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="163.6" cy="150.3" r="4" fill="#3465a4"><title>Sandberg of Greenock</title></circle></a><a href="/variants/s7/db35r2k16y2b25w2b6~x2/"><circle cx="187.4" cy="135.0" r="4" fill="#3465a4"><title>Unidentified 7</title></circle></a><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="198.4" cy="191.5" r="4" fill="#3465a4"><title>Landels</title></circle></a><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><circle cx="268.9" cy="141.8" r="4" fill="#3465a4"><title>Mensa</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="278.0" cy="155.8" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="234.2" cy="139.7" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="205.6" cy="136.3" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><circle cx="208.9" cy="160.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

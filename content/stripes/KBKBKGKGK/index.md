@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/">Laois Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/"><img src="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/sett.png" alt="Laois Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laois-irish-county/">Laois Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laois-irish-county/"><img src="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/sett.png" alt="Laois Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

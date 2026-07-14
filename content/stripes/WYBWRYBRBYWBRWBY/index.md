@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1~x2/">Setting Sun, The (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1~x2/"><img src="/variants/s16/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1~x2/sett.png" alt="Setting Sun, The (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/setting-sun-the/">Setting Sun, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/setting-sun-the/"><img src="/variants/s16/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1~x2/sett.png" alt="Setting Sun, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

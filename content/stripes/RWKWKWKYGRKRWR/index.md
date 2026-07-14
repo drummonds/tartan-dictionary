@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/">Caledonian Cameron Commando</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/"><img src="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/sett.png" alt="Caledonian Cameron Commando sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledonian-cameron-commando/">Caledonian Cameron Commando</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-cameron-commando/"><img src="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/sett.png" alt="Caledonian Cameron Commando sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

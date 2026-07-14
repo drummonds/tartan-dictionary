@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/">Nevada State American District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><img src="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/sett.png" alt="Nevada State American District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/nevada-state-2/">Nevada State</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/nevada-state-2/"><img src="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/sett.png" alt="Nevada State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

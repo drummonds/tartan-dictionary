@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12dy10/">Offaly County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12dy10/"><img src="/variants/s11/y24k8r4k6g76k8w14g4k9g12dy10/sett.png" alt="Offaly County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/of/offaly-county-crest-range/">Offaly County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/of/offaly-county-crest-range/"><img src="/variants/s11/y24k8r4k6g76k8w14g4k9g12dy10/sett.png" alt="Offaly County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

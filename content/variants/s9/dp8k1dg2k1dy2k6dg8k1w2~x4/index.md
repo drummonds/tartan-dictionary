@@ -8,10 +8,10 @@ crumbs:
 - name: "Coffield-Limesand"
   url: "/tartans/c/co/coffield-limesand/"
 - name: "Coffield-Limesand (Personal)"
-  url: "/setts/dp8k1dg2k1dy2k6dg8k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp8k1dg2k1dy2k6dg8k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/coffield-limesand/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKGKW](/stripes/bkgkgkgkw/).
 
 Part of the [Coffield-Limesand](/tartans/c/co/coffield-limesand/) tartan — the named design grouping this sett with its other cloths.

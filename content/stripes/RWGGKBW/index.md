@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r4lb1g6dg25k8db15lb2/">Jones</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r4lb1g6dg25k8db15lb2/"><img src="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/sett.png" alt="Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/">Jones, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><img src="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/sett.png" alt="Jones, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jones/">Jones</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jones/"><img src="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/sett.png" alt="Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jones-the/">Jones, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jones-the/"><img src="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/sett.png" alt="Jones, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

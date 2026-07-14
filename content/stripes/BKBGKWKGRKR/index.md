@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n12k2n12y2k12w1k12y2r12k2r12~x2/">Wells Red, Greg (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n12k2n12y2k12w1k12y2r12k2r12~x2/"><img src="/variants/s11/n12k2n12y2k12w1k12y2r12k2r12~x2/sett.png" alt="Wells Red, Greg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wells-red-greg/">Wells Red, Greg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wells-red-greg/"><img src="/variants/s11/n12k2n12y2k12w1k12y2r12k2r12~x2/sett.png" alt="Wells Red, Greg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

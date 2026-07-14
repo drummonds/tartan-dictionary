@@ -8,10 +8,10 @@ crumbs:
 - name: "Tyrone County, Crest Range"
   url: "/tartans/t/ty/tyrone-county-crest-range/"
 - name: "Tyrone County, Crest Range"
-  url: "/setts/dr4k2g13dy3k22dr2k2w13k7dr3k7w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4k2g13dy3k22dr2k2w13k7dr3k7w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ty/tyrone-county-crest-range/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGKBKWKBKW](/stripes/bkggkbkwkbkw/).
 
 Part of the [Tyrone County, Crest Range](/tartans/t/ty/tyrone-county-crest-range/) tartan — the named design grouping this sett with its other cloths.

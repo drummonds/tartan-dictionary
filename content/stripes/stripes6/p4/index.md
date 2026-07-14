@@ -6,27 +6,6 @@ weight: 6
 1,378 setts across 1,307 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes6/p3/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <a href="/stripes/stripes6/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p5/">next ›</a></nav>
 
-### BRBGBG
-<a class="pat" href="/stripes/brbgbg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BRBGBG</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.10 | [MacNab 1](/variants/s6/g3b3g19b18r19b3~x2/) | weddslist |
-
-### BRBGBW
-<a class="pat" href="/stripes/brbgbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BRBGBW</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.07 | [Superfast Ferries (Corporate)](/variants/s6/db1r16db6y4db6w1~x4/) | tartans-authority |
-
-### BRBGRB
-<a class="pat" href="/stripes/brbgrb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">BRBGRB</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.09 | [Logan #5](/variants/s6/db9r3db1g9r3db1~x2/) | register-of-tartans |
-
 ### BRBKBG
 <a class="pat" href="/stripes/brbkbg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BRBKBG</span></a>
 
@@ -545,8 +524,8 @@ weight: 6
 |---|---|---|
 | 0.06 | [Reekie, Charlene (Personal)](/variants/s6/w43k5r3g5ly27dp5~x2/) | tartans-authority |
 
-### BYKWKY
-<a class="pat" href="/stripes/bykwky/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">BYKWKY</span></a>
+### BYKW
+<a class="pat" href="/stripes/bykw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BYKW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
@@ -698,6 +677,13 @@ weight: 6
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.13 | [Ravetta, Phil (Fife)](/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/) | register-of-tartans |
+
+### GBGG
+<a class="pat" href="/stripes/gbgg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GBGG</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Walters (Personal)](/variants/s4/dg2dp2dg24g1~x4~dg1806142-g2408144/) | register-of-tartans |
 
 ### GBGGBK
 <a class="pat" href="/stripes/gbggbk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">GBGGBK</span></a>
@@ -1525,6 +1511,13 @@ weight: 6
 |---|---|---|
 | 0.07 | [MacMillan/Isetan (Corporate)](/variants/s6/dg68r24dg8ly18dg3ly18~x2/) | tartans-authority |
 
+### GRKR
+<a class="pat" href="/stripes/grkr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">GRKR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Macan, of Lurgyvallan (Hose)](/variants/s4/r10k1r4g6~x2/) | weddslist |
+
 ### GRKRGK
 <a class="pat" href="/stripes/grkrgk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">GRKRGK</span></a>
 
@@ -2105,5 +2098,12 @@ weight: 6
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.04 | [Perratt (Personal)](/variants/s6/k83g4r4g10k1w3~x2/) | register-of-tartans |
+
+### KGWKWR
+<a class="pat" href="/stripes/kgwkwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">KGWKWR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Loch Ness Trade Tartan](/variants/s6/r10w2k10w10dy35k5~x2/) | house-of-tartan |
 
 <nav class="pager"><a href="/stripes/stripes6/p3/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <a href="/stripes/stripes6/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p5/">next ›</a></nav>

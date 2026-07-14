@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s31/r5k2g30k2y5k2db31k2w5k2db31k6g2k2g2k2g86k2g2k2g2k6db31k2w5k2db31k6g25k2r5~x2/">Cockburn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/r5k2g30k2y5k2db31k2w5k2db31k6g2k2g2k2g86k2g2k2g2k6db31k2w5k2db31k6g25k2r5~x2/"><img src="/variants/s31/r5k2g30k2y5k2db31k2w5k2db31k6g2k2g2k2g86k2g2k2g2k6db31k2w5k2db31k6g25k2r5~x2/sett.png" alt="Cockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s31/r5k2g30k2y5k2db31k2w5k2db31k6g2k2g2k2g82k2g2k2g2k6db31k2w5k2db31k6g25k2r5/">Cockburn #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/r5k2g30k2y5k2db31k2w5k2db31k6g2k2g2k2g82k2g2k2g2k6db31k2w5k2db31k6g25k2r5/"><img src="/variants/s31/r5k2g30k2y5k2db31k2w5k2db31k6g2k2g2k2g82k2g2k2g2k6db31k2w5k2db31k6g25k2r5/sett.png" alt="Cockburn #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cockburn-2/">Cockburn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cockburn-2/"><img src="/variants/s31/r5k2g30k2y5k2db31k2w5k2db31k6g2k2g2k2g82k2g2k2g2k6db31k2w5k2db31k6g25k2r5/sett.png" alt="Cockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

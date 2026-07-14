@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/">Ross, Ryan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/"><img src="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/sett.png" alt="Ross, Ryan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-ryan/">Ross, Ryan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-ryan/"><img src="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/sett.png" alt="Ross, Ryan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

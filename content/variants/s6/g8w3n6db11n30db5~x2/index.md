@@ -10,10 +10,10 @@ crumbs:
 - name: "Craig Devlin"
   url: "/tartans/c/cr/craig-devlin/"
 - name: "Craig Devlin (Dundee) (Personal)"
-  url: "/setts/g8w3n6db11n30db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8w3n6db11n30db5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/craig-devlin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWG](/stripes/bbbbwg/).
 
 Part of the [Craig Devlin](/tartans/c/cr/craig-devlin/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10514](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>05/11/2011 — Craig Devlin (Dundee) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10514">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#06392B;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #06392B"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DDD5AF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #DDD5AF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#081736;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #081736"></span><span style="display:inline-block;width:.85em;height:.85em;background:#172D60;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #172D60"></span><br><em>Created to celebrate the designer's Dundonian Devlin family. Inspired by the tartans that belong to the non-Devlin parts of his family and the Royal Navy in which he serves. Created using the online tartan design software at www.scotweb.co.uk.</em></li>
-<li>5th Nov. 2011 — Devlin, Craig (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10514">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Created to celebrate the designer's Dundonian Devlin family. Inspired by the tartans that belong to the non-Devlin parts of his family and the Royal Navy in which he serves.</em></li>
+<li>5th Nov. 2011 — Devlin, Craig (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10514/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Created to celebrate the designer's Dundonian Devlin family. Inspired by the tartans that belong to the non-Devlin parts of his family and the Royal Navy in which he serves.</em></li>
 </ul>
 </details>
 

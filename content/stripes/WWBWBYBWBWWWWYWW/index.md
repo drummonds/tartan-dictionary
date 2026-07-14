@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/w120lb5lo4lb5w40lb30w1n1w2n4lo8n10w20n30w40lb60~x2/">Langara College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/w120lb5lo4lb5w40lb30w1n1w2n4lo8n10w20n30w40lb60~x2/"><img src="/variants/s16/w120lb5lo4lb5w40lb30w1n1w2n4lo8n10w20n30w40lb60~x2/sett.png" alt="Langara College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/langara-college/">Langara College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/langara-college/"><img src="/variants/s16/w120lb5lo4lb5w40lb30w1n1w2n4lo8n10w20n30w40lb60~x2/sett.png" alt="Langara College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/b10r1y1db3y2~x5~b1511266-db1108266/">Lytley alias Parsons Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/b10r1y1db3y2~x5~b1511266-db1108266/"><img src="/variants/s5/b10r1y1db3y2~x5~b1511266-db1108266/sett.png" alt="Lytley alias Parsons Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ly/lytley-alias-parsons-hunting/">Lytley alias Parsons Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ly/lytley-alias-parsons-hunting/"><img src="/variants/s5/b10r1y1db3y2~x5~b1511266-db1108266/sett.png" alt="Lytley alias Parsons Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/">Styrian (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/"><img src="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/sett.png" alt="Styrian (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/styrian/">Styrian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/styrian/"><img src="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/sett.png" alt="Styrian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

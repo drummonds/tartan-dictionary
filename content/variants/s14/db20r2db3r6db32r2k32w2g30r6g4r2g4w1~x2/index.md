@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonald of Clanranald 3"
   url: "/tartans/m/ma/macdonald-of-clanranald-3/"
 - name: "MacDonald of Clanranald #4"
-  url: "/setts/db20r2db3r6db32r2k32w2g30r6g4r2g4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db20r2db3r6db32r2k32w2g30r6g4r2g4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-of-clanranald-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKWGRGRGW](/stripes/brbrbrkwgrgrgw/).
 
 Part of the [MacDonald of Clanranald 3](/tartans/m/ma/macdonald-of-clanranald-3/) tartan — the named design grouping this sett with its other cloths.

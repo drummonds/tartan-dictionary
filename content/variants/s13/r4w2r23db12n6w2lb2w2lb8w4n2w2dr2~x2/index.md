@@ -10,10 +10,10 @@ crumbs:
 - name: "Diana Memorial Rose"
   url: "/tartans/d/di/diana-memorial-rose/"
 - name: "Diana Memorial Rose"
-  url: "/setts/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/diana-memorial-rose/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWWWWWBBRWR](/stripes/bwbwwwwwbbrwr/).
 
 Part of the [Diana Memorial Rose](/tartans/d/di/diana-memorial-rose/) tartan — the named design grouping this sett with its other cloths.

@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Tourist Board"
-  url: "/tartans/s/sc/scottish-tourist-board/"
+  url: "/tartans/s/sc/scottish-tourist-board-2/"
 - name: "Scottish Tourist Board (1981)"
-  url: "/setts/db30k2db2k2db2k32g15r2g4r4g30/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db30k2db2k2db2k32g15r2g4r4g30/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRGRGRGRGKBKBK](/stripes/bkbkbkgrgrgrgrgkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-tourist-board-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRGRG](/stripes/bkbkbkgrgrg/).
 
-Part of the [Scottish Tourist Board](/tartans/s/sc/scottish-tourist-board/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish Tourist Board](/tartans/s/sc/scottish-tourist-board-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3747](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3747)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 239
 
 ## Thread count
-DB/60 K4 DB4 K4 DB4 K64 G30 R4 G8 R8 G60 R8 G8 R4 G30 K64 DB4 K4 DB4 K/4
+DB/60 K4 DB4 K4 DB4 K64 G30 R4 G8 R8 G/60
 
-One full sett is **696 threads**.
+One full sett is **380 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/60 K4 DB4 K4 DB4 K64 G30 R4 G8 R8 G60 R8 G8 R4 G30 K64 DB4 K4 DB4 K/4 — 696 threads; it folds to the canonical 380-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **696 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/60 K4 DB4 K4 DB4 K64 G30 R4 G8 R8 G60 R8 G8 R4 G30 K64 DB4 K4 DB4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/60 K4 DB4 K4 DB4 K64 G30 R4 G8 R8 G/60 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

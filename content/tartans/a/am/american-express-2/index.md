@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db2t9dr1db5g5lb2/"
+- "/setts/db2b9dr1db9dg9w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbgw/">BBBBGW</a></nav>
 Its design is pattern [BBBBGW](/stripes/bbbbgw/) — the page of every tartan sharing this colour sequence.
 
 Corporate tartan based on MacWilliam, designed for the 1997 American Association of Travel Agents conference in Glasgow.
@@ -15,10 +19,10 @@ The **American Express** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db2t9dr1db5g5lb2/">American Express</a> ★</td><td><code>DB/8 T36 DR4 DB20 G20 LB/8</code></td><td>176</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2t9dr1db5g5lb2/"><img src="/variants/s6/db2t9dr1db5g5lb2~x4/sett.png" alt="American Express sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db2b9dr1db9dg9w2/">American Express</a></td><td><code>DB/8 B36 DR4 DB36 DG36 W/8</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2b9dr1db9dg9w2/"><img src="/variants/s6/db2b9dr1db9dg9w2~x4/sett.png" alt="American Express sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db2t9dr1db5g5lb2~x4/">American Express</a> ★</td><td><code>DB/8 T36 DR4 DB20 G20 LB/8</code></td><td>176</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><img src="/variants/s6/db2t9dr1db5g5lb2~x4/sett.png" alt="American Express sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db2b9dr1db9dg9w2~x4/">American Express</a></td><td><code>DB/8 B36 DR4 DB36 DG36 W/8</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db2b9dr1db9dg9w2~x4/"><img src="/variants/s6/db2b9dr1db9dg9w2~x4/sett.png" alt="American Express sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><circle cx="228.3" cy="293.0" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/"><circle cx="230.3" cy="295.6" r="4" fill="#3465a4"><title>Unidentified No 29</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="265.1" cy="249.2" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="257.7" cy="217.4" r="4" fill="#3465a4"><title>Afternoon Tea / Earl</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="271.6" cy="255.2" r="4" fill="#3465a4"><title>Sterling</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="290.5" cy="248.2" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="339.1" cy="250.3" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="203.0" cy="223.2" r="4" fill="#3465a4"><title>Inglis</title></circle></a><a href="/variants/s6/g11dy4w1db10dr1db2~x4/"><circle cx="248.4" cy="225.3" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/"><circle cx="130.4" cy="271.4" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><circle cx="221.8" cy="267.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><circle cx="228.3" cy="292.9" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/"><circle cx="230.3" cy="295.6" r="4" fill="#3465a4"><title>Unidentified No 29</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="265.4" cy="249.2" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="258.0" cy="217.3" r="4" fill="#3465a4"><title>Afternoon Tea / Earl</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="271.7" cy="255.1" r="4" fill="#3465a4"><title>Sterling</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="290.8" cy="248.3" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="339.4" cy="250.4" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="203.2" cy="223.1" r="4" fill="#3465a4"><title>Inglis</title></circle></a><a href="/variants/s6/g11dy4w1db10dr1db2~x4/"><circle cx="248.6" cy="225.2" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/"><circle cx="130.2" cy="271.1" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><circle cx="221.7" cy="267.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

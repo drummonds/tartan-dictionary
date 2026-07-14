@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db28y1db2k16g24k1g2r3~x2/">Ogilvy VS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db28y1db2k16g24k1g2r3~x2/"><img src="/variants/s8/db28y1db2k16g24k1g2r3~x2/sett.png" alt="Ogilvy VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/og/ogilvie-of-inverarity/">Ogilvie of Inverarity</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvie-of-inverarity/"><img src="/variants/s8/db28y1db2k26g24k1g2r3~x2/sett.png" alt="Ogilvie of Inverarity sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/og/ogilvy-vs/">Ogilvy VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvy-vs/"><img src="/variants/s8/db28y1db2k16g24k1g2r3~x2/sett.png" alt="Ogilvy VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

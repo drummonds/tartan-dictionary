@@ -28,8 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r35w3r8y2g11~x2/">Highlands at Wyomissing, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r35w3r8y2g11~x2/"><img src="/variants/s5/r35w3r8y2g11~x2/sett.png" alt="Highlands at Wyomissing, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highlands-at-wyomissing-the/">Highlands at Wyomissing, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highlands-at-wyomissing-the/"><img src="/variants/s5/r35w3r8y2g11~x2/sett.png" alt="Highlands at Wyomissing, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-179/">Wilson's No.179</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-179/"><img src="/variants/s5/g6y1r1lb2r2~x4/sett.png" alt="Wilson's No.179 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

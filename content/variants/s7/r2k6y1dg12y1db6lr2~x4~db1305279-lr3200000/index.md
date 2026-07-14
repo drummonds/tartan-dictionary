@@ -12,10 +12,10 @@ crumbs:
 - name: "James"
   url: "/tartans/j/ja/james-2/"
 - name: "James (Personal)"
-  url: "/setts/r2k6y1dg12y1db6lr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k6y1dg12y1db6lr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ja/james-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGGGBY](/stripes/rkgggby/).
 
 Part of the [James](/tartans/j/ja/james-2/) tartan — the named design grouping this sett with its other cloths.

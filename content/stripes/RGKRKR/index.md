@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r6g21k8r28k2r4~x2/">Dunbar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r6g21k8r28k2r4~x2/"><img src="/variants/s6/r6g21k8r28k2r4~x2/sett.png" alt="Dunbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r6g21k8r28k1r4~x2/">Dunbar Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r6g21k8r28k1r4~x2/"><img src="/variants/s6/r6g21k8r28k1r4~x2/sett.png" alt="Dunbar Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunbar-4/">Dunbar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunbar-4/"><img src="/variants/s6/r6g21k8r28k2r4~x2/sett.png" alt="Dunbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

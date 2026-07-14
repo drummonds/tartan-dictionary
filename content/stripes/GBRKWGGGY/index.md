@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/">Thistle Stop LLC (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/"><img src="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/sett.png" alt="Thistle Stop LLC (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thistle-stop-llc/">Thistle Stop LLC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thistle-stop-llc/"><img src="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/sett.png" alt="Thistle Stop LLC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/db4k3g17k17db15k3r4k3db15k17w3db4w25db3w6db3w25db4w3k17g17k3~x2/">Argyle Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/db4k3g17k17db15k3r4k3db15k17w3db4w25db3w6db3w25db4w3k17g17k3~x2/"><img src="/variants/s22/db4k3g17k17db15k3r4k3db15k17w3db4w25db3w6db3w25db4w3k17g17k3~x2/sett.png" alt="Argyle Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/argyle-dress/">Argyle Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/argyle-dress/"><img src="/variants/s22/db4k3g17k17db15k3r4k3db15k17w3db4w25db3w6db3w25db4w3k17g17k3~x2/sett.png" alt="Argyle Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

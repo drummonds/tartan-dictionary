@@ -10,22 +10,22 @@ crumbs:
 - name: "Kyle Grape"
   url: "/tartans/k/ky/kyle-grape/"
 - name: "Kyle, Grape (Dance)"
-  url: "/setts/dp17g1dp2k2dp2g1dp3k8w17g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp17g1dp2k2dp2g1dp3k8w17g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ky/kyle-grape/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBGBKWG](/stripes/bgbkbgbkwg/).
 
 Part of the [Kyle Grape](/tartans/k/ky/kyle-grape/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7585](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7585)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7585/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7585/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>March 2008 — Kyle, Grape (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7585">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#58BC70;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #58BC70"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E0C8"></span><br><em>One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson.</em></li>
+<li>March 2008 — Kyle, Grape (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7585/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#58BC70;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #58BC70"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E0C8"></span><br><em>One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson.</em></li>
 <li>undated — Kyle Grape (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5609">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#58BC70;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #58BC70"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E0C8"></span><br><em>One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson.</em></li>
 </ul>
 </details>
@@ -40,7 +40,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7585](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

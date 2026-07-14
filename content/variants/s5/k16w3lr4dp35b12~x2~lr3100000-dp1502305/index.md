@@ -8,15 +8,15 @@ crumbs:
 - name: "Ferster, James Carney"
   url: "/tartans/f/fe/ferster-james-carney-2/"
 - name: "Ferster, James Carney"
-  url: "/setts/k16w3lr4dp35b12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k16w3lr4dp35b12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/ferster-james-carney-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYWKK](/stripes/bbywkk/).
 
 Part of the [Ferster, James Carney](/tartans/f/fe/ferster-james-carney-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10595](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10595)
 
@@ -43,9 +43,11 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10595](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10595)
 
 ## Thread count
-B/24 DP70 LR8 W6 K22 K/10
+K/32 W6 LR8 DP70 B/24
 
-One full sett is **246 threads**.
+One full sett is **224 threads**.
+
+<p class="recorded-note">The source recorded this cloth as B/24 DP70 LR8 W6 K22 K/10 — 246 threads; it folds to the canonical 224-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **246 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="B/24 DP70 LR8 W6 K22 K/10 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/32 W6 LR8 DP70 B/24 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

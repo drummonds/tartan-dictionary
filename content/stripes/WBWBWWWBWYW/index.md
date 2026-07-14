@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/">Portree Blue (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/"><img src="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/sett.png" alt="Portree Blue (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/portree/">Portree</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/portree/"><img src="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/sett.png" alt="Portree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

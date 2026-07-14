@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db10g42dbi8lb8dbi8k24dbi8db71r10~db1106275-dbi1406275/">Robert Burns Legacy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db10g42dbi8lb8dbi8k24dbi8db71r10~db1106275-dbi1406275/"><img src="/variants/s9/db10g42dbi8lb8dbi8k24dbi8db71r10~db1106275-dbi1406275/sett.png" alt="Robert Burns Legacy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robert-burns-legacy/">Robert Burns Legacy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robert-burns-legacy/"><img src="/variants/s9/db10g42dbi8lb8dbi8k24dbi8db71r10~db1106275-dbi1406275/sett.png" alt="Robert Burns Legacy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

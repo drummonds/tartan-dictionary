@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/">Scottish Qualifications Auth. (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><img src="/variants/s7/db36lo5db8lb3db8lb10db3~x2/sett.png" alt="Scottish Qualifications Auth. (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-qualifications-authority/">Scottish Qualifications Authority</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-qualifications-authority/"><img src="/variants/s7/db36lo5db8lb3db8lb10db3~x2/sett.png" alt="Scottish Qualifications Authority sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

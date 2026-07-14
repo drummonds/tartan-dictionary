@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/">Pinney's of Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/"><img src="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/sett.png" alt="Pinney's of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pinney-s-of-scotland/">Pinney's of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pinney-s-of-scotland/"><img src="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/sett.png" alt="Pinney's of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

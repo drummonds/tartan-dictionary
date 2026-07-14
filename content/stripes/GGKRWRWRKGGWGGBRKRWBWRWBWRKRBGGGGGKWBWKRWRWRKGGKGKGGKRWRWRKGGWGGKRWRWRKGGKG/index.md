@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s75/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8~x2/">Ogilvie 2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s75/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8~x2/"><img src="/variants/s75/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8~x2/sett.png" alt="Ogilvie 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/og/ogilvie-2/">Ogilvie 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvie-2/"><img src="/variants/s75/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8~x2/sett.png" alt="Ogilvie 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

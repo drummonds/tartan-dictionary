@@ -10,10 +10,10 @@ crumbs:
 - name: "Paterson Clan/Family Weavers"
   url: "/tartans/p/pa/paterson-clan-family-weavers/"
 - name: "Paterson Clan/Family Weavers Tartan"
-  url: "/setts/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/paterson-clan-family-weavers/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKGRGKYKGRGKBKBKGR](/stripes/gkbkbkgrgkykgrgkbkbkgr/).
 
 Part of the [Paterson Clan/Family Weavers](/tartans/p/pa/paterson-clan-family-weavers/) tartan — the named design grouping this sett with its other cloths.

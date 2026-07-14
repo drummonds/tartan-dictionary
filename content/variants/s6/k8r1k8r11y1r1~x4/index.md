@@ -8,10 +8,10 @@ crumbs:
 - name: "Swanstrom"
   url: "/tartans/s/sw/swanstrom/"
 - name: "Swanstrom (Personal)"
-  url: "/setts/k8r1k8r11y1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8r1k8r11y1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sw/swanstrom/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRGR](/stripes/krkrgr/).
 
 Part of the [Swanstrom](/tartans/s/sw/swanstrom/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4052](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/06/2007 — Swanstrom (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4052">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by Justin Swanstrom, of Denver, Colorado; Laura Ferre-Middleton, of Littleton, Colorado; and Jeanne Swanstrom, of American Fork, Utah.</em></li>
-<li>June 2007 — Swanstrom (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7222">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by Justin Swanstrom of Denver, Colorado; Laura Ferre-Middleton of Littleton Colorado and Jeanne Swanstrom of American Fork Utah. The basic design was inspired by the Gunn tartan since that clan fought in the Swedish wars of the 17th century. The colours of red, black and gold celebrate a matrilinear descent from Nancy Wallace, a Scot who settled in colonial Virginia.</em></li>
+<li>June 2007 — Swanstrom (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7222/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by Justin Swanstrom of Denver, Colorado; Laura Ferre-Middleton of Littleton Colorado and Jeanne Swanstrom of American Fork Utah. The basic design was inspired by the Gunn tartan since that clan fought in the Swedish wars of the 17th century. The colours of red, black and gold celebrate a matrilinear descent from Nancy Wallace, a Scot who settled in colonial Virginia.</em></li>
 </ul>
 </details>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Wotherspoon"
   url: "/tartans/w/wo/wotherspoon/"
 - name: "Wotherspoon"
-  url: "/setts/r5dg3r18db18dg3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5dg3r18db18dg3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wo/wotherspoon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRGR](/stripes/gbrgr/).
 
 Part of the [Wotherspoon](/tartans/w/wo/wotherspoon/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4784](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1979 — Wotherspoon (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4784">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><br><em>This sett comes from the MacGregor-Hastie collection which is housed at the Scottish Tartans Society. It was obtained from Andersons in 1947, one of several designs produced between 1930 and 1950 for Septs and Families of Scottish lineage. Wotherspoons are recorded in the Lowlands of Scotland from the beginning of the 14th century. The Rev. John Witherspoon (1722-94), born in Yester, East Lothian, was President of 'Princeton University' in 1768 and took an active part in the American Revolution.</em></li>
-<li>pre 1979 — Wotherspoon (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=741">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><br><em>From Affleck slides. Sample in STA Dalgety Collection. Nomindex notes "Peter Anderson, Galashiels specimen 1979. The pattern may be considerably older than this specimen as MacGregor Hastie has one in his collection." All the woven samples show the narrow lines as an olive green whereas the modern House of Edgar and Lochcarron samples use dark green.</em></li>
+<li>pre 1979 — Wotherspoon (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/741/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><br><em>From Affleck slides. Sample in STA Dalgety Collection. Nomindex notes "Peter Anderson, Galashiels specimen 1979. The pattern may be considerably older than this specimen as MacGregor Hastie has one in his collection." All the woven samples show the narrow lines as an olive green whereas the modern House of Edgar and Lochcarron samples use dark green.</em></li>
 </ul>
 </details>
 

@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/ferguson/"
 - name: "Ferguson of Balquhidder"
   url: "/families/ferguson-of-balquhidder/"
+aliases:
+- "/setts/k3db12r2k12g12k3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbrkgk/">KBRKGK</a></nav>
 A tartan of the [Ferguson of Balquhidder](/families/ferguson-of-balquhidder/) family.
 Its design is pattern [KBRKGK](/stripes/kbrkgk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Ferguson of Balquhidder** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3db12r2k12g12k3/">Ferguson of Balquhidder</a></td><td><code>K/6 G24 K24 R4 DB24 K/6</code></td><td>164</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3db12r2k12g12k3/"><img src="/variants/s6/k3db12r2k12g12k3~x2/sett.png" alt="Ferguson of Balquhidder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3db12r2k12g12k3~x2/">Ferguson of Balquhidder</a></td><td><code>K/6 DB24 R4 K24 G24 K/6</code></td><td>164</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3db12r2k12g12k3~x2/"><img src="/variants/s6/k3db12r2k12g12k3~x2/sett.png" alt="Ferguson of Balquhidder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="155.5" cy="213.3" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/variants/s6/k4w2g13k13b12k2~x2/"><circle cx="139.4" cy="214.1" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="197.0" cy="215.2" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s6/k4g25k24r3db24g4~x2/"><circle cx="150.0" cy="208.3" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3~x2/"><circle cx="133.7" cy="219.5" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s6/k3g14k14g2t14r3~x2/"><circle cx="125.3" cy="221.0" r="4" fill="#3465a4"><title>Morrison Society</title></circle></a><a href="/variants/s5/k5g20k18db20r5~x2/"><circle cx="104.5" cy="264.6" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/variants/s5/k2g8k7db8r2~x2/"><circle cx="102.8" cy="265.0" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/variants/s6/k2g12k12r1db12g2~x2/"><circle cx="164.3" cy="193.7" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4/"><circle cx="115.8" cy="191.5" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><circle cx="149.6" cy="222.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="155.9" cy="213.2" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/variants/s6/k4w2g13k13b12k2~x2/"><circle cx="139.7" cy="214.0" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="197.6" cy="215.2" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s6/k4g25k24r3db24g4~x2/"><circle cx="150.3" cy="208.2" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3~x2/"><circle cx="134.0" cy="219.3" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s6/k3g14k14g2t14r3~x2/"><circle cx="125.6" cy="220.8" r="4" fill="#3465a4"><title>Morrison Society</title></circle></a><a href="/variants/s5/k5g20k18db20r5~x2/"><circle cx="104.6" cy="264.4" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/variants/s5/k2g8k7db8r2~x2/"><circle cx="102.9" cy="264.8" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/variants/s6/k2g12k12r1db12g2~x2/"><circle cx="164.7" cy="193.6" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4/"><circle cx="116.1" cy="191.3" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><circle cx="149.9" cy="222.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

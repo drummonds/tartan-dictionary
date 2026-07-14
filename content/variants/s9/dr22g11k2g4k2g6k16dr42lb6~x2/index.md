@@ -12,10 +12,10 @@ crumbs:
 - name: "Stewart of Bute Hunting"
   url: "/tartans/s/st/stewart-of-bute-hunting/"
 - name: "Stewart of Bute Hunting"
-  url: "/setts/dr22g11k2g4k2g6k16dr42lb6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr22g11k2g4k2g6k16dr42lb6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-of-bute-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGKBW](/stripes/bgkgkgkbw/).
 
 Part of the [Stewart of Bute Hunting](/tartans/s/st/stewart-of-bute-hunting/) tartan — the named design grouping this sett with its other cloths.

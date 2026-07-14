@@ -8,17 +8,17 @@ crumbs:
 - name: "MacFarhadian"
   url: "/tartans/m/ma/macfarhadian/"
 - name: "MacFarhadian (Personal)"
-  url: "/setts/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macfarhadian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGWKGBRGRBGRBRGBR](/stripes/krgwkgbrgrbgrbrgbr/).
 
 Part of the [MacFarhadian](/tartans/m/ma/macfarhadian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6375](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6375)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/6375/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6375/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: 2003 During the design process, a version missing the white
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>2003 — MacFarhadian (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6375">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#740074;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #740074"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#ECECEC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #ECECEC"></span><br><em>Designer Andre Lavigne said, "I have designed a tartan around some of the major elements found in the tartans of her ancestors: Leitch; Munro; Wilson; Stuart." It's not known who the 'her' is in these notes.</em></li>
+<li>2003 — MacFarhadian (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6375/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#740074;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #740074"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#ECECEC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #ECECEC"></span><br><em>Designer Andre Lavigne said, "I have designed a tartan around some of the major elements found in the tartans of her ancestors: Leitch; Munro; Wilson; Stuart." It's not known who the 'her' is in these notes.</em></li>
 <li>2003 — MacFarhadian Canadian Personal Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6375">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#740074;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #740074"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#ECECEC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #ECECEC"></span></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Earliest known date: 2003 During the design process, a version missing the white
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

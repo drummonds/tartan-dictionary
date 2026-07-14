@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r1k1n30k6n1k6dy8k1r1~x2/">Klappert Original (Odsherred, Denmark) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r1k1n30k6n1k6dy8k1r1~x2/"><img src="/variants/s9/r1k1n30k6n1k6dy8k1r1~x2/sett.png" alt="Klappert Original (Odsherred, Denmark) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/kl/klappert-original/">Klappert Original</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kl/klappert-original/"><img src="/variants/s9/r1k1n30k6n1k6dy8k1r1~x2/sett.png" alt="Klappert Original sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

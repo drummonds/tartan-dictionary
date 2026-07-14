@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db5dy2dg4n3w1lb5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bggbww/">BGGBWW</a></nav>
 Its design is pattern [BGGBWW](/stripes/bggbww/) — the page of every tartan sharing this colour sequence.
 
 The **Heriot Bay Local** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Heriot Bay Local** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db5dy2dg4n3w1lb5/">Heriot Bay Local</a></td><td><code>DB/40 DY16 DG32 N24 W8 LB/40</code></td><td>240</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db5dy2dg4n3w1lb5/"><img src="/variants/s6/db5dy2dg4n3w1lb5~x8/sett.png" alt="Heriot Bay Local sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db5dy2dg4n3w1lb5~x8/">Heriot Bay Local</a></td><td><code>DB/40 DY16 DG32 N24 W8 LB/40</code></td><td>240</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db5dy2dg4n3w1lb5~x8/"><img src="/variants/s6/db5dy2dg4n3w1lb5~x8/sett.png" alt="Heriot Bay Local sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/lb6db6g6r1~x2/"><circle cx="143.9" cy="297.5" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.1" cy="185.9" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.8" cy="267.5" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="146.7" cy="266.7" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s6/r9t6db13t21n18w4~x2/"><circle cx="174.8" cy="287.0" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s6/n7w1r6db10g10w1~x4/"><circle cx="137.1" cy="237.6" r="4" fill="#3465a4"><title>McEachem</title></circle></a><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><circle cx="146.5" cy="237.3" r="4" fill="#3465a4"><title>McEachern, Andrew</title></circle></a><a href="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/"><circle cx="103.0" cy="189.5" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/"><circle cx="130.4" cy="271.4" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s8/w18lb22db15y6g10dp5g6r5~x2/"><circle cx="14.0" cy="231.7" r="4" fill="#3465a4"><title>Queensland</title></circle></a><circle cx="61.3" cy="284.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/lb6db6g6r1~x2/"><circle cx="143.9" cy="297.3" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.1" cy="185.4" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.7" cy="267.4" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="146.7" cy="266.5" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s6/r9t6db13t21n18w4~x2/"><circle cx="174.6" cy="286.9" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s6/n7w1r6db10g10w1~x4/"><circle cx="137.1" cy="237.3" r="4" fill="#3465a4"><title>McEachem</title></circle></a><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><circle cx="146.5" cy="237.1" r="4" fill="#3465a4"><title>McEachern, Andrew</title></circle></a><a href="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/"><circle cx="102.9" cy="189.0" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/"><circle cx="130.2" cy="271.1" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s8/w18lb22db15y6g10dp5g6r5~x2/"><circle cx="14.0" cy="231.1" r="4" fill="#3465a4"><title>Queensland</title></circle></a><circle cx="60.9" cy="284.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

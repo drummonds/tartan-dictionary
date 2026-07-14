@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/g9db2r2db50lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db50r2db2g9dp4~x2/">G8 Summit Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/g9db2r2db50lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db50r2db2g9dp4~x2/"><img src="/variants/s24/g9db2r2db50lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db50r2db2g9dp4~x2/sett.png" alt="G8 Summit Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/g/g8-summit-2/">G8 Summit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/g/g8-summit-2/"><img src="/variants/s24/g9db2r2db50lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db50r2db2g9dp4~x2/sett.png" alt="G8 Summit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Redwood Dress"
   url: "/tartans/r/re/redwood-dress/"
 - name: "Redwood Dress"
-  url: "/setts/dg3dr1lb5dr1dg2dr1dg1dr9dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg3dr1lb5dr1dg2dr1dg1dr9dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/redwood-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBWBG](/stripes/gbgbgbwbg/).
 
 Part of the [Redwood Dress](/tartans/r/re/redwood-dress/) tartan — the named design grouping this sett with its other cloths.

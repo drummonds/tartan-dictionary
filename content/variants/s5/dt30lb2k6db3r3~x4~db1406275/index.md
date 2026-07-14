@@ -9,16 +9,16 @@ crumbs:
   url: "/clan/edinburgh/"
 - name: "Edinburgh Crystal"
   url: "/tartans/e/ed/edinburgh-crystal/"
-- name: "Edinburgh Crystal"
-  url: "/setts/dt30lb2k6db3r3/"
+- name: "Edinburgh Crystal Corporate Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt30lb2k6db3r3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWKBRBKW](/stripes/bwkbrbkw/).
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-crystal/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWKBR](/stripes/bwkbr/).
 
 Part of the [Edinburgh Crystal](/tartans/e/ed/edinburgh-crystal/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2307](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2307)
 
@@ -43,9 +43,11 @@ Earliest known date: pre 1997 Designed by Sandra Campbell an employee of Edinbur
 </details>
 
 ## Thread count
-DT/120 LB8 K24 DB12 R12 DB12 K24 LB/8
+DT/120 LB8 K24 DB12 R/12
 
-One full sett is **312 threads**.
+One full sett is **220 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DT/120 LB8 K24 DB12 R12 DB12 K24 LB/8 — 312 threads; it folds to the canonical 220-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **312 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/120 LB8 K24 DB12 R12 DB12 K24 LB/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/120 LB8 K24 DB12 R/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

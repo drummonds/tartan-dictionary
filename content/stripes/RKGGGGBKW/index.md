@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/">Federated Women's Institutes of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><img src="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/sett.png" alt="Federated Women's Institutes of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fw/fwi-of-ontario/">FWI of Ontario</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fw/fwi-of-ontario/"><img src="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/sett.png" alt="FWI of Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

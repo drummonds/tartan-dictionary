@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r72g16k8y4db8w3k50~x2/">Stewart, Anthony C (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r72g16k8y4db8w3k50~x2/"><img src="/variants/s7/r72g16k8y4db8w3k50~x2/sett.png" alt="Stewart, Anthony C (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-anthony-c/">Stewart, Anthony C</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-anthony-c/"><img src="/variants/s7/r72g16k8y4db8w3k50~x2/sett.png" alt="Stewart, Anthony C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

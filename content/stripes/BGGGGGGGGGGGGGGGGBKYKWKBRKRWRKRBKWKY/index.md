@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/db4g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6db4k8lo1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1lo1~x2/">Unidentified Cotton sample</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/db4g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6db4k8lo1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1lo1~x2/"><img src="/variants/s36/db4g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6db4k8lo1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1lo1~x2/sett.png" alt="Unidentified Cotton sample sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-cotton-sample/">Unidentified Cotton sample</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-cotton-sample/"><img src="/variants/s36/db4g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6db4k8lo1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1lo1~x2/sett.png" alt="Unidentified Cotton sample sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

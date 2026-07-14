@@ -12,10 +12,10 @@ crumbs:
 - name: "Inglis"
   url: "/tartans/i/in/inglis/"
 - name: "Inglis Family Tartan"
-  url: "/setts/w4g28db18r4db18y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4g28db18r4db18y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/inglis/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBGW](/stripes/gbrbgw/).
 
 Part of the [Inglis](/tartans/i/in/inglis/) tartan — the named design grouping this sett with its other cloths.

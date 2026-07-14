@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/">Polaris Military</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/"><img src="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/sett.png" alt="Polaris Military sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/polaris-military/">Polaris Military</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/polaris-military/"><img src="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/sett.png" alt="Polaris Military sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

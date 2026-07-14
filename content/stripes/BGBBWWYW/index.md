@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db2g2db11n2w8lb12ly2lb2~x2/">Elora (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db2g2db11n2w8lb12ly2lb2~x2/"><img src="/variants/s8/db2g2db11n2w8lb12ly2lb2~x2/sett.png" alt="Elora (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elora/">Elora</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elora/"><img src="/variants/s8/db2g2db11n2w8lb12ly2lb2~x2/sett.png" alt="Elora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

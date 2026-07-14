@@ -8,10 +8,10 @@ crumbs:
 - name: "Basel Tattoo"
   url: "/tartans/b/ba/basel-tattoo/"
 - name: "Basel Tattoo (Official)"
-  url: "/setts/db1k8db2dg16dr6dg16db2k8w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1k8db2dg16dr6dg16db2k8w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/basel-tattoo/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBGBKW](/stripes/bkbgbgbkw/).
 
 Part of the [Basel Tattoo](/tartans/b/ba/basel-tattoo/) tartan — the named design grouping this sett with its other cloths.

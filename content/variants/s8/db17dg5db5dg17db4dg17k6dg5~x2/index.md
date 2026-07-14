@@ -12,15 +12,15 @@ crumbs:
 - name: "Hueg Hunting"
   url: "/tartans/h/hu/hueg-hunting-2/"
 - name: "Hueg (Bavaria) Hunting (Personal)"
-  url: "/setts/db17dg5db5dg17db4dg17k6dg5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db17dg5db5dg17db4dg17k6dg5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hueg-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGKKKG](/stripes/bgbgbgkkkg/).
 
 Part of the [Hueg Hunting](/tartans/h/hu/hueg-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10524](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10524)
 

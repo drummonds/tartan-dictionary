@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g4y1k1lb4g1y1k1~x12/">Verble (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g4y1k1lb4g1y1k1~x12/"><img src="/variants/s7/g4y1k1lb4g1y1k1~x12/sett.png" alt="Verble (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/ve/verble/">Verble</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/ve/verble/"><img src="/variants/s7/g4y1k1lb4g1y1k1~x12/sett.png" alt="Verble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

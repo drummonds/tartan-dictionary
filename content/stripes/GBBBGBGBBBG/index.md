@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y6db8dr24db54y4dr130y4db54dr24db8y3/">Bell's (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y6db8dr24db54y4dr130y4db54dr24db8y3/"><img src="/variants/s11/y6db8dr24db54y4dr130y4db54dr24db8y3/sett.png" alt="Bell's (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bell-s-2/">Bell's</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bell-s-2/"><img src="/variants/s11/y6db8dr24db54y4dr130y4db54dr24db8y3/sett.png" alt="Bell's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

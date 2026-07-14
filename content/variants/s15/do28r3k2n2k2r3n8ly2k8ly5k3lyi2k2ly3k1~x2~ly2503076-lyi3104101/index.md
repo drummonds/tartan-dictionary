@@ -12,10 +12,10 @@ crumbs:
 - name: "Caithness"
   url: "/tartans/c/ca/caithness-2/"
 - name: "Caithness"
-  url: "/setts/do28r3k2n2k2r3n8ly2k8ly5k3lyi2k2ly3k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do28r3k2n2k2r3n8ly2k8ly5k3lyi2k2ly3k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/caithness-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBKRBYKYKYKYK](/stripes/brkbkrbykykykyk/).
 
 Part of the [Caithness](/tartans/c/ca/caithness-2/) tartan — the named design grouping this sett with its other cloths.

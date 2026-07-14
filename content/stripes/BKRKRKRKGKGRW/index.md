@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/">Unidentified No 158 Silk Fragment</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/"><img src="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/sett.png" alt="Unidentified No 158 Silk Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-no-158-silk-fragment/">Unidentified No 158 Silk Fragment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-no-158-silk-fragment/"><img src="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/sett.png" alt="Unidentified No 158 Silk Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Press & Journal"
   url: "/tartans/p/pr/press-journal/"
 - name: "Press & Journal"
-  url: "/setts/k9db3k28db25w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k9db3k28db25w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/press-journal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBW](/stripes/kbkbw/).
 
 Part of the [Press & Journal](/tartans/p/pr/press-journal/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3368](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/2007 — Press & Journal (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3368">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C5484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #4C5484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by the Press & Journal to commemorate the Highland Year of Culture. The colours are from the company's corporate colours.</em></li>
-<li>February 2007 — Press & Journal (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7099">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C5484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #4C5484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed for the Press & Journal by Carol Howie of McCalls to commemorate the Highland Year of Culture. The colours are from the company's corporate colours. Count and sample from Lochcarron.</em></li>
+<li>February 2007 — Press & Journal (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7099/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C5484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #4C5484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed for the Press & Journal by Carol Howie of McCalls to commemorate the Highland Year of Culture. The colours are from the company's corporate colours. Count and sample from Lochcarron.</em></li>
 </ul>
 </details>
 

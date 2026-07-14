@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3g44db27ly6r10w3~x2/">Shawlands International (Commem.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><img src="/variants/s6/k3g44db27ly6r10w3~x2/sett.png" alt="Shawlands International (Commem.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shawlands-international/">Shawlands International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shawlands-international/"><img src="/variants/s6/k3g44db27ly6r10w3~x2/sett.png" alt="Shawlands International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Gothenburg/Goteborg"
   url: "/tartans/g/go/gothenburg-goteborg/"
 - name: "Gothenburg/Goteborg"
-  url: "/setts/db26w28db14y3k1y2k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db26w28db14y3k1y2k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/gothenburg-goteborg/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGKGK](/stripes/bwbgkgk/).
 
 Part of the [Gothenburg/Goteborg](/tartans/g/go/gothenburg-goteborg/) tartan — the named design grouping this sett with its other cloths.

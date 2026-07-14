@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/">Kelvin Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/"><img src="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/sett.png" alt="Kelvin Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kelvin/">Kelvin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kelvin/"><img src="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/sett.png" alt="Kelvin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

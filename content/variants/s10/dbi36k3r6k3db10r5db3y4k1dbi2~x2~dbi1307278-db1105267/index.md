@@ -12,10 +12,10 @@ crumbs:
 - name: "Mead Modern Dress"
   url: "/tartans/m/me/mead-modern-dress/"
 - name: "Mead (Tennessee) Modern Dress (Personal)"
-  url: "/setts/dbi36k3r6k3db10r5db3y4k1dbi2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi36k3r6k3db10r5db3y4k1dbi2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/mead-modern-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBRBKRKB](/stripes/bkgbrbkrkb/).
 
 Part of the [Mead Modern Dress](/tartans/m/me/mead-modern-dress/) tartan — the named design grouping this sett with its other cloths.

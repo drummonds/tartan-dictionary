@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Watch"
   url: "/tartans/s/sc/scottish-watch/"
 - name: "Scottish Watch General Tartan"
-  url: "/setts/r104g39y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r104g39y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-watch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGR](/stripes/ggr/).
 
 Part of the [Scottish Watch](/tartans/s/sc/scottish-watch/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db4dy3db22r6w2k6w2db6n20k3n4/">Asman Hunting (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db4dy3db22r6w2k6w2db6n20k3n4/"><img src="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/sett.png" alt="Asman Hunting (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/as/asman-hunting-2/">Asman Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/as/asman-hunting-2/"><img src="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/sett.png" alt="Asman Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

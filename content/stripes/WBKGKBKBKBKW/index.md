@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w4k2db9k3b3k3b3k25g10k2b6w2~x2/">Auld Lang Syne Blue Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w4k2db9k3b3k3b3k25g10k2b6w2~x2/"><img src="/variants/s12/w4k2db9k3b3k3b3k25g10k2b6w2~x2/sett.png" alt="Auld Lang Syne Blue Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/">Auld Lang Syne, Blue (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/"><img src="/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/sett.png" alt="Auld Lang Syne, Blue (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auld-lang-syne-4/">Auld Lang Syne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auld-lang-syne-4/"><img src="/variants/s12/w4k2db9k3b3k3b3k25g10k2b6w2~x2/sett.png" alt="Auld Lang Syne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Welsh National"
   url: "/tartans/w/we/welsh-national-2/"
 - name: "Welsh National"
-  url: "/setts/r8dg3r4dg44w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8dg3r4dg44w4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGWGRGR](/stripes/grgwgrgr/).
+provenance below. It is one weaving of the [sett](/tartans/w/we/welsh-national-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGRGW](/stripes/rgrgw/).
 
 Part of the [Welsh National](/tartans/w/we/welsh-national-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4597](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4597)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4597](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1967 — Welsh National (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4597">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>According to 'World Tartans' the decision to adopt a tartan was taken by a Welsh society formed in Cardiff in 1967. Its aim was to emphasise the Welsh bonds with other Celtic countries, most of whom appeared to already have their own tartan. Colours represent the Welsh flag - red dragon on a green and white background. Nomindex notes 'Made for Frasers of Perth. Specimen from D.M. Richards 1967. D.C. Dalgliesh specimen 1968. Colours named as crimson and sage green.' Lochcarron swatch.</em></li>
-<li>1967 — Welsh National (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1523">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>According to 'World Tartans' the decision to adopt a tartan was taken by a Welsh society formed in Cardiff in 1967. Its aim was to emphasise the Welsh bonds with other Celtic countries, most of whom appeared to already have their own tartan. Colours represent the Welsh flag - red dragon on a green and white background. Nomindex notes "Made for Frasers of Perth. Specimen from D.M.Richards 1967. D.C.Dalgliesh specimen 1968. Colours named as crimson and sage green." Lochcarron swatch.</em></li>
+<li>1967 — Welsh National (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1523/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>According to 'World Tartans' the decision to adopt a tartan was taken by a Welsh society formed in Cardiff in 1967. Its aim was to emphasise the Welsh bonds with other Celtic countries, most of whom appeared to already have their own tartan. Colours represent the Welsh flag - red dragon on a green and white background. Nomindex notes "Made for Frasers of Perth. Specimen from D.M.Richards 1967. D.C.Dalgliesh specimen 1968. Colours named as crimson and sage green." Lochcarron swatch.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1523
 
 ## Thread count
-R/16 DG6 R8 DG88 W8 DG88 R8 DG/6
+R/16 DG6 R8 DG88 W/8
 
-One full sett is **434 threads**.
+One full sett is **228 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/16 DG6 R8 DG88 W8 DG88 R8 DG/6 — 434 threads; it folds to the canonical 228-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **434 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/16 DG6 R8 DG88 W8 DG88 R8 DG/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/16 DG6 R8 DG88 W/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

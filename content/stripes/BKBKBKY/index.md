@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/">MacIan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/"><img src="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/sett.png" alt="MacIan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macian/">MacIan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macian/"><img src="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/sett.png" alt="MacIan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/n34k7n12k39n3k4lg3~x2/">Tartan Army Children's Charity (Corp</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n34k7n12k39n3k4lg3~x2/"><img src="/variants/s7/n34k7n12k39n3k4lg3~x2/sett.png" alt="Tartan Army Children's Charity (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tartan-army-children-s-charity-corp/">Tartan Army Children's Charity (Corp</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-army-children-s-charity-corp/"><img src="/variants/s7/n34k7n12k39n3k4lg3~x2/sett.png" alt="Tartan Army Children's Charity (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

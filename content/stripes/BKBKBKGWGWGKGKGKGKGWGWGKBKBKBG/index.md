@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s30/t14k2t2k2t2k8dg13w2dg12w2dg13k8dg6k12dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/">O'Donohue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s30/t14k2t2k2t2k8dg13w2dg12w2dg13k8dg6k12dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/"><img src="/variants/s30/t14k2t2k2t2k8dg13w2dg12w2dg13k8dg6k12dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/sett.png" alt="O'Donohue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-connor/">O'Connor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-connor/"><img src="/variants/s30/t14k2t2k2t2k8dg13w2dg12w2dg13k8dg6k12dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/sett.png" alt="O'Connor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

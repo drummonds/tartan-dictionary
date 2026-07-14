@@ -12,10 +12,10 @@ crumbs:
 - name: "Longniddry Dress"
   url: "/tartans/l/lo/longniddry-dress-2/"
 - name: "Longniddry Purple"
-  url: "/setts/dp42lb2w2lb2dp5t12w32dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp42lb2w2lb2dp5t12w32dp4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/longniddry-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBWWWB](/stripes/bwbbwwwb/).
 
 Part of the [Longniddry Dress](/tartans/l/lo/longniddry-dress-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2211](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Longniddry Purple (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2211">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>A 'dancers fancy' from Dalgleish. See also 'Eildon' tartan.</em></li>
-<li>pre 2002 — Longniddry Dress (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6559">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>A "dancers fancy" from Dalgleish. see also 'Eildon' tartan.</em></li>
+<li>pre 2002 — Longniddry Dress (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6559/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>A "dancers fancy" from Dalgleish. see also 'Eildon' tartan.</em></li>
 </ul>
 </details>
 

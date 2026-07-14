@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x6/">Seaforth Estate Check Estate Check Weavers Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x6/"><img src="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x6/sett.png" alt="Seaforth Estate Check Estate Check Weavers Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/seaforth/">Seaforth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/seaforth/"><img src="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x6/sett.png" alt="Seaforth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

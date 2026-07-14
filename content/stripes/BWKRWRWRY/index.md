@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/">Hearts Football Club (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/"><img src="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/sett.png" alt="Hearts Football Club (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hearts-football-club/">Hearts Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hearts-football-club/"><img src="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/sett.png" alt="Hearts Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

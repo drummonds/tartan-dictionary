@@ -12,15 +12,15 @@ crumbs:
 - name: "Gordon"
   url: "/tartans/g/go/gordon/"
 - name: "Gordon, Red (1819)"
-  url: "/setts/dp16w2ri7w2k14lb6w2dp15w2dg17lb6dg6r8k6r8k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp16w2ri7w2k14lb6w2dp15w2dg17lb6dg6r8k6r8k2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWRWKWWBWGWGRKRKRKRGWGWBWWKWRW](/stripes/bwrwkwwbwgwgrkrkrkrgwgwbwwkwrw/).
+provenance below. It is one weaving of the [sett](/tartans/g/go/gordon/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRWKWWBWGWGRKRK](/stripes/bwrwkwwbwgwgrkrk/).
 
 Part of the [Gordon](/tartans/g/go/gordon/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1466](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1466)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 652
 
 ## Thread count
-DP/32 W4 Ri14 W4 K28 LB12 W4 DP30 W4 DG34 LB12 DG12 R16 K12 R16 K4 R16 K12 R16 DG12 LB12 DG34 W4 DP30 W4 LB12 K28 W4 Ri14 W/4
+DP/32 W4 Ri14 W4 K28 LB12 W4 DP30 W4 DG34 LB12 DG12 R16 K12 R16 K/4
 
-One full sett is **844 threads**.
+One full sett is **440 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/32 W4 Ri14 W4 K28 LB12 W4 DP30 W4 DG34 LB12 DG12 R16 K12 R16 K4 R16 K12 R16 DG12 LB12 DG34 W4 DP30 W4 LB12 K28 W4 Ri14 W/4 — 844 threads; it folds to the canonical 440-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **844 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/32 W4 Ri14 W4 K28 LB12 W4 DP30 W4 DG34 LB12 DG12 R16 K12 R16 K4 R16 K12 R16 DG12 LB12 DG34 W4 DP30 W4 LB12 K28 W4 Ri14 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/32 W4 Ri14 W4 K28 LB12 W4 DP30 W4 DG34 LB12 DG12 R16 K12 R16 K/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

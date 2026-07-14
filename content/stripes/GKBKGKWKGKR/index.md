@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/">Ayrton (1979) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/"><img src="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/sett.png" alt="Ayrton (1979) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/">Ayrton Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/"><img src="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/sett.png" alt="Ayrton Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayrton/">Ayrton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ay/ayrton/"><img src="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/sett.png" alt="Ayrton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

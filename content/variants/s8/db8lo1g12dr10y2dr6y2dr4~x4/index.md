@@ -8,15 +8,15 @@ crumbs:
 - name: "Indiana \"Cardinal\""
   url: "/tartans/i/in/indiana-cardinal/"
 - name: "Indiana 'Cardinal'"
-  url: "/setts/db8lo1g12dr10y2dr6y2dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8lo1g12dr10y2dr6y2dr4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BYGBGBGBGBGBGY](/stripes/bygbgbgbgbgbgy/).
+provenance below. It is one weaving of the [sett](/tartans/i/in/indiana-cardinal/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBGYB](/stripes/bgbgbgyb/).
 
 Part of the [Indiana "Cardinal"](/tartans/i/in/indiana-cardinal/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5393](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5393)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5393](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1992 — Indiana 'Cardinal' (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5393">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><br><em>Designed 1992 by Jan Crook The Cardinal is the Indiana State bird. Sample in Scottish Tartans Authorities Johnston Collection. Checked against Jan Crook's thread count July 2003. State declined to adopt it in 1993.</em></li>
-<li>1992 — Indiana "Cardinal" (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5251">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><br><em>Designed 1992 by Jan Crook The Cardinal is the Indiana State bird. Sample in STA's Johnston Collection. Checked against Jan Crook's thread count July 2003. State declined to adopt it in 1993 but the process has been initiated again in 2008.</em></li>
+<li>1992 — Indiana "Cardinal" (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5251/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><br><em>Designed 1992 by Jan Crook The Cardinal is the Indiana State bird. Sample in STA's Johnston Collection. Checked against Jan Crook's thread count July 2003. State declined to adopt it in 1993 but the process has been initiated again in 2008.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5251
 
 ## Thread count
-DB/32 LO4 G48 DR40 Y8 DR24 Y8 DR16 Y8 DR24 Y8 DR40 G48 LO/4
+DB/32 LO4 G48 DR40 Y8 DR24 Y8 DR/16
 
-One full sett is **588 threads**.
+One full sett is **312 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/32 LO4 G48 DR40 Y8 DR24 Y8 DR16 Y8 DR24 Y8 DR40 G48 LO/4 — 588 threads; it folds to the canonical 312-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **588 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/32 LO4 G48 DR40 Y8 DR24 Y8 DR16 Y8 DR24 Y8 DR40 G48 LO/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/32 LO4 G48 DR40 Y8 DR24 Y8 DR/16 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

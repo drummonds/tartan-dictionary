@@ -12,10 +12,10 @@ crumbs:
 - name: "MacGlashan"
   url: "/tartans/m/ma/macglashan-5/"
 - name: "MacGlashan"
-  url: "/setts/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macglashan-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBRGRGRGR](/stripes/bwbwbwbrgrgrgr/).
 
 Part of the [MacGlashan](/tartans/m/ma/macglashan-5/) tartan — the named design grouping this sett with its other cloths.

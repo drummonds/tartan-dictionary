@@ -8,10 +8,10 @@ crumbs:
 - name: "Port Authority of NY & NJ"
   url: "/tartans/p/po/port-authority-of-ny-nj/"
 - name: "Port Authority of NY & NJ American Corporate Tartan"
-  url: "/setts/t9db2t39dbi33ly2dbi5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t9db2t39dbi33ly2dbi5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/port-authority-of-ny-nj/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBYB](/stripes/bbbbyb/).
 
 Part of the [Port Authority of NY & NJ](/tartans/p/po/port-authority-of-ny-nj/) tartan — the named design grouping this sett with its other cloths.

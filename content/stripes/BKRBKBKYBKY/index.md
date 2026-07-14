@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/">Pride of Scotland Hunting/Dark Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><img src="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/sett.png" alt="Pride of Scotland Hunting/Dark Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/">Pride of Scotland, Dark (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/"><img src="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/sett.png" alt="Pride of Scotland, Dark (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-scotland-dark/">Pride of Scotland Dark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-scotland-dark/"><img src="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/sett.png" alt="Pride of Scotland Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-scotland-hunting-dark/">Pride of Scotland Hunting/Dark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-scotland-hunting-dark/"><img src="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/sett.png" alt="Pride of Scotland Hunting/Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

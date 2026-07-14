@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/">Dinwiddie Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/"><img src="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/sett.png" alt="Dinwiddie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/dinwiddie-hunting/">Dinwiddie Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/dinwiddie-hunting/"><img src="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/sett.png" alt="Dinwiddie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/">First Command Fin. Planning (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/"><img src="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/sett.png" alt="First Command Fin. Planning (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/first-command-fin-planning/">First Command Fin. Planning</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/first-command-fin-planning/"><img src="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/sett.png" alt="First Command Fin. Planning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

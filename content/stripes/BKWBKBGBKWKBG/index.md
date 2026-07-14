@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/">U.S. Special Forces</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/"><img src="/variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/sett.png" alt="U.S. Special Forces sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/">U.S. Special Forces (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><img src="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/sett.png" alt="U.S. Special Forces (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/u/u-s-special-forces/">U.S. Special Forces</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-special-forces/"><img src="/variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/sett.png" alt="U.S. Special Forces sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

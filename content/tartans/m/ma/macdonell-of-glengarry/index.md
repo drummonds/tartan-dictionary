@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/macdonell/"
 - name: "MacDonell of Glengarry"
   url: "/families/macdonell-of-glengarry/"
+aliases:
+- "/setts/db16r5db30r2k33g30r5g2r2g7w4/"
+- "/setts/db16r5db30r2k33g30r5g2r2g7w2/"
+- "/setts/db8r4db12r1k12g12r3g2r1g4w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbrkgrgrgw/">BRBRKGRGRGW</a></nav>
 A tartan of the [MacDonell of Glengarry](/families/macdonell-of-glengarry/) family.
 Its design is pattern [BRBRKGRGRGW](/stripes/brbrkgrgrgw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,12 +23,12 @@ The **MacDonell of Glengarry** tartan groups 3 setts — the same named design r
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db16r5db30r2k33g30r5g2r2g7w4/">MacDonell of Glengarry</a> ★</td><td><code>DB/16 R5 DB30 R2 K33 G30 R5 G2 R2 G7 W/4</code></td><td>252</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db16r5db30r2k33g30r5g2r2g7w4/"><img src="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/sett.png" alt="MacDonell of Glengarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db16r5db30r2k33g30r5g2r2g7w2/">MacDonell of Glengarry</a></td><td><code>DB/32 R10 DB60 R4 K66 G60 R10 G4 R4 G14 W/4</code></td><td>500</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db16r5db30r2k33g30r5g2r2g7w2/"><img src="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/sett.png" alt="MacDonell of Glengarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db8r4db12r1k12g12r3g2r1g4w1/">#2</a></td><td><code>DB/16 R8 DB24 R2 K24 G24 R6 G4 R2 G8 W/2</code></td><td>222</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8r4db12r1k12g12r3g2r1g4w1/"><img src="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/">MacDonell of Glengarry</a> ★</td><td><code>DB/16 R5 DB30 R2 K33 G30 R5 G2 R2 G7 W/4</code></td><td>252</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/"><img src="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/sett.png" alt="MacDonell of Glengarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/">MacDonell of Glengarry</a></td><td><code>DB/32 R10 DB60 R4 K66 G60 R10 G4 R4 G14 W/4</code></td><td>500</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><img src="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/sett.png" alt="MacDonell of Glengarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/">#2</a></td><td><code>DB/16 R8 DB24 R2 K24 G24 R6 G4 R2 G8 W/2</code></td><td>222</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><img src="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -43,6 +48,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="132.9" cy="138.2" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><circle cx="110.3" cy="173.2" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="132.3" cy="127.4" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="132.3" cy="144.0" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="137.3" cy="148.9" r="4" fill="#3465a4"><title>Colgan</title></circle></a><a href="/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="130.9" cy="133.6" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/variants/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="155.7" cy="141.0" r="4" fill="#3465a4"><title>MacDonald 5</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="124.3" cy="137.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="156.6" cy="141.7" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="157.6" cy="137.1" r="4" fill="#3465a4"><title>MacDonald 4</title></circle></a><circle cx="132.3" cy="127.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="133.3" cy="138.0" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><circle cx="110.6" cy="173.0" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="132.7" cy="127.2" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="132.7" cy="143.8" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="137.7" cy="148.6" r="4" fill="#3465a4"><title>Colgan</title></circle></a><a href="/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="131.3" cy="133.3" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/variants/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="156.1" cy="140.8" r="4" fill="#3465a4"><title>MacDonald 5</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="124.7" cy="137.2" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="157.0" cy="141.5" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="158.0" cy="136.9" r="4" fill="#3465a4"><title>MacDonald 4</title></circle></a><circle cx="132.7" cy="126.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Phoenix Police Honor Guard"
   url: "/tartans/p/ph/phoenix-police-honor-guard/"
 - name: "Phoenix Police Honor Guard"
-  url: "/setts/db10k3lb65dg56y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10k3lb65dg56y6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/ph/phoenix-police-honor-guard/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWGG](/stripes/bkwgg/).
 
 Part of the [Phoenix Police Honor Guard](/tartans/p/ph/phoenix-police-honor-guard/) tartan — the named design grouping this sett with its other cloths.

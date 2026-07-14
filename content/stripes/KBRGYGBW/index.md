@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k1db24r1dy1ly1g1dbi1lp1~x7~db1204274-dbi1706275/">Way of the Rainbow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k1db24r1dy1ly1g1dbi1lp1~x7~db1204274-dbi1706275/"><img src="/variants/s8/k1db24r1dy1ly1g1dbi1lp1~x7~db1204274-dbi1706275/sett.png" alt="Way of the Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/way-of-the-rainbow/">Way of the Rainbow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/way-of-the-rainbow/"><img src="/variants/s8/k1db24r1dy1ly1g1dbi1lp1~x7~db1204274-dbi1706275/sett.png" alt="Way of the Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

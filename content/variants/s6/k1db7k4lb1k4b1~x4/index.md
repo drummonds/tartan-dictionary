@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Express International"
   url: "/tartans/s/sc/scottish-express-international/"
 - name: "Scottish Express International"
-  url: "/setts/k1db7k4lb1k4b1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1db7k4lb1k4b1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-express-international/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKBK](/stripes/bkwkbk/).
 
 Part of the [Scottish Express International](/tartans/s/sc/scottish-express-international/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3715](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/06/1996 — Scottish Express International (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3715">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9058D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PB #9058D8"></span><br><em>Designed by Peter MacArthur & Co for an international delivery company celebrating its 25th anniversary.</em></li>
-<li>pre 1997 — Scottish Express International (Corp (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2309">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9058D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PB #9058D8"></span><br><em>Designed by Peter MacArthur & Co for an international delivery company celebrating its 25th anniversary.</em></li>
+<li>pre 1997 — Scottish Express International (Corp (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2309/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9058D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PB #9058D8"></span><br><em>Designed by Peter MacArthur & Co for an international delivery company celebrating its 25th anniversary.</em></li>
 </ul>
 </details>
 

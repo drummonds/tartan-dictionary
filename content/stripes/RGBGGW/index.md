@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r3g13db13y2dg34w3~x2/">Glencross (Tynron) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><img src="/variants/s6/r3g13db13y2dg34w3~x2/sett.png" alt="Glencross (Tynron) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r3g13db13dy2dg34w3~x2/">Glencross, Tynron (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r3g13db13dy2dg34w3~x2/"><img src="/variants/s6/r3g13db13dy2dg34w3~x2/sett.png" alt="Glencross, Tynron (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glencross-5/">Glencross</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glencross-5/"><img src="/variants/s6/r3g13db13y2dg34w3~x2/sett.png" alt="Glencross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glencross-tynron/">Glencross, Tynron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glencross-tynron/"><img src="/variants/s6/r3g13db13dy2dg34w3~x2/sett.png" alt="Glencross, Tynron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

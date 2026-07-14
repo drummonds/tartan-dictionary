@@ -4,16 +4,23 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai"
+  url: "/groups/masai/"
+- name: "Last of the Masai"
+  url: "/groups/masai/last-of-the-masai/"
+aliases:
+- "/setts/r30db8r2k1r2k1/"
 ---
-Its design is pattern [BRKRKRKRBR](/stripes/brkrkrkrbr/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krkrbr/">KRKRBR</a></nav>
+Its design is pattern [KRKRBR](/stripes/krkrbr/) — the page of every tartan sharing this colour sequence.
 
 The **Masai Shuka 27** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r30db8r2k1r2k1/">Masai Shuka 27</a></td><td><code>R/60 DB16 R4 K2 R4 K2 R4 K2 R4 DB/16</code></td><td>114</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r30db8r2k1r2k1/"><img src="/variants/s6/r30db8r2k1r2k1~x2/sett.png" alt="Masai Shuka 27 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r30db8r2k1r2k1~x2/">Masai Shuka 27</a></td><td><code>R/60 DB16 R4 K2 R4 K/2</code></td><td>114</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r30db8r2k1r2k1~x2/"><img src="/variants/s6/r30db8r2k1r2k1~x2/sett.png" alt="Masai Shuka 27 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="438.4" cy="156.6" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/"><circle cx="462.0" cy="47.2" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1ly4~x2/"><circle cx="455.5" cy="44.8" r="4" fill="#3465a4"><title>Brodie of that Ilk and The Burn</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="471.3" cy="178.3" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="98.2" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="435.0" cy="31.3" r="4" fill="#3465a4"><title>Masai Shuka 05</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="466.0" cy="110.5" r="4" fill="#3465a4"><title>De Nardi</title></circle></a><a href="/variants/s5/r75k15r4k15r4~x2/"><circle cx="463.0" cy="134.5" r="4" fill="#3465a4"><title>Masai Shuka 07</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="490.4" cy="89.2" r="4" fill="#3465a4"><title>MacAndrew Dress</title></circle></a><a href="/variants/s7/r44lb3k22r5k2r3w2~x2/"><circle cx="355.3" cy="90.5" r="4" fill="#3465a4"><title>Hilton Champion Corporate Golf</title></circle></a><circle cx="518.1" cy="98.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="439.4" cy="156.8" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/"><circle cx="463.4" cy="47.4" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1ly4~x2/"><circle cx="456.9" cy="44.9" r="4" fill="#3465a4"><title>Brodie of that Ilk and The Burn</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="472.3" cy="178.6" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="98.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="436.5" cy="31.4" r="4" fill="#3465a4"><title>Masai Shuka 05</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="467.1" cy="110.6" r="4" fill="#3465a4"><title>De Nardi</title></circle></a><a href="/variants/s5/r75k15r4k15r4~x2/"><circle cx="464.4" cy="134.9" r="4" fill="#3465a4"><title>Masai Shuka 07</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="491.8" cy="89.4" r="4" fill="#3465a4"><title>MacAndrew Dress</title></circle></a><a href="/variants/s7/r44lb3k22r5k2r3w2~x2/"><circle cx="356.5" cy="90.6" r="4" fill="#3465a4"><title>Hilton Champion Corporate Golf</title></circle></a><circle cx="519.6" cy="99.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

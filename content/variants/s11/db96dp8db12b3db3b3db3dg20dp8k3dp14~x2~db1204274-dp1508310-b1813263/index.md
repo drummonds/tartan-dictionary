@@ -8,15 +8,15 @@ crumbs:
 - name: "Spirit of Scotland"
   url: "/tartans/s/sp/spirit-of-scotland-2/"
 - name: "Spirit of Scotland"
-  url: "/setts/db96dp8db12b3db3b3db3dg20dp8k3dp14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db96dp8db12b3db3b3db3dg20dp8k3dp14/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBBBBBGBKBKBGBBBBBB](/stripes/bbbbbbbgbkbkbgbbbbbb/).
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spirit-of-scotland-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBBGBKB](/stripes/bbbbbbbgbkb/).
 
 Part of the [Spirit of Scotland](/tartans/s/sp/spirit-of-scotland-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3865](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3865)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2451
 
 ## Thread count
-DB/192 DP16 DB24 B6 DB6 B6 DB6 DG40 DP16 K6 DP28 K6 DP16 DG40 DB6 B6 DB6 B6 DB24 DP/16
+DT/192 DP16 DT24 B6 DT6 B6 DT6 DG40 DP16 K6 DP/28
 
-One full sett is **736 threads**.
+One full sett is **472 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/192 DP16 DB24 B6 DB6 B6 DB6 DG40 DP16 K6 DP28 K6 DP16 DG40 DB6 B6 DB6 B6 DB24 DP/16 — 736 threads; it folds to the canonical 472-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **736 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/192 DP16 DB24 B6 DB6 B6 DB6 DG40 DP16 K6 DP28 K6 DP16 DG40 DB6 B6 DB6 B6 DB24 DP/16 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/192 DP16 DT24 B6 DT6 B6 DT6 DG40 DP16 K6 DP/28 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

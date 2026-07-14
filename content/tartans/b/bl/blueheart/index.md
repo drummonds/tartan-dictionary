@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k1db18lb5db1lb3db18k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbwbwbk/">KBWBWBK</a></nav>
 Its design is pattern [KBWBWBK](/stripes/kbwbwbk/) — the page of every tartan sharing this colour sequence.
 
 The **Blueheart** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Blueheart** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k1db18lb5db1lb3db18k1/">Blueheart</a></td><td><code>K/4 DB72 LB20 DB4 LB12 DB72 K/4</code></td><td>368</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1db18lb5db1lb3db18k1/"><img src="/variants/s7/k1db18lb5db1lb3db18k1~x4/sett.png" alt="Blueheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k1db18lb5db1lb3db18k1~x4/">Blueheart</a></td><td><code>K/4 DB72 LB20 DB4 LB12 DB72 K/4</code></td><td>368</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k1db18lb5db1lb3db18k1~x4/"><img src="/variants/s7/k1db18lb5db1lb3db18k1~x4/sett.png" alt="Blueheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db5k1lb2k1w6k1lb2db25lb2~x2/"><circle cx="364.7" cy="90.3" r="4" fill="#3465a4"><title>Christopher Newport University</title></circle></a><a href="/variants/s6/db9k9db9k9db42lb5~x2/"><circle cx="423.5" cy="199.6" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="363.9" cy="158.3" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="408.8" cy="191.4" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="418.1" cy="143.1" r="4" fill="#3465a4"><title>Masai Shuka 29</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="450.0" cy="155.3" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="456.8" cy="133.4" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s5/db100lb10k5lb10r8/"><circle cx="467.2" cy="132.0" r="4" fill="#3465a4"><title>Waugh</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="463.9" cy="155.6" r="4" fill="#3465a4"><title>Lochcarron</title></circle></a><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="531.8" cy="92.1" r="4" fill="#3465a4"><title>United States</title></circle></a><circle cx="475.8" cy="140.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db5k1lb2k1w6k1lb2db25lb2~x2/"><circle cx="365.9" cy="90.3" r="4" fill="#3465a4"><title>Christopher Newport University</title></circle></a><a href="/variants/s6/db9k9db9k9db42lb5~x2/"><circle cx="424.6" cy="199.9" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="364.9" cy="158.5" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="409.8" cy="191.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="419.2" cy="143.3" r="4" fill="#3465a4"><title>Masai Shuka 29</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="451.3" cy="155.7" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="458.2" cy="133.7" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s5/db100lb10k5lb10r8/"><circle cx="468.6" cy="132.3" r="4" fill="#3465a4"><title>Waugh</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="465.3" cy="155.9" r="4" fill="#3465a4"><title>Lochcarron</title></circle></a><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="533.2" cy="92.5" r="4" fill="#3465a4"><title>United States</title></circle></a><circle cx="477.3" cy="140.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

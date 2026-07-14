@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4/">Buchanan (Wilson)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4/"><img src="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/sett.png" alt="Buchanan (Wilson) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/">Buchanan 2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><img src="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/sett.png" alt="Buchanan 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buchanan/">Buchanan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buchanan/"><img src="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/sett.png" alt="Buchanan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buchanan-2/">Buchanan 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buchanan-2/"><img src="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/sett.png" alt="Buchanan 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

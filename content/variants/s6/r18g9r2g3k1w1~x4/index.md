@@ -12,10 +12,10 @@ crumbs:
 - name: "MacGregor of Cardney"
   url: "/tartans/m/ma/macgregor-of-cardney/"
 - name: "MacGregor of Cardney"
-  url: "/setts/r18g9r2g3k1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r18g9r2g3k1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-of-cardney/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGKW](/stripes/rgrgkw/).
 
 Part of the [MacGregor of Cardney](/tartans/m/ma/macgregor-of-cardney/) tartan — the named design grouping this sett with its other cloths.

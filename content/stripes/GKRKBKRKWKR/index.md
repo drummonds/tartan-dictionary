@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/">Andreou Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/"><img src="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/sett.png" alt="Andreou Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/andreou/">Andreou</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/andreou/"><img src="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/sett.png" alt="Andreou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

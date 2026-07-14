@@ -8,10 +8,10 @@ crumbs:
 - name: "Haggis Hostels"
   url: "/tartans/h/ha/haggis-hostels/"
 - name: "Haggis Hostels"
-  url: "/setts/r10db5lb5n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r10db5lb5n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/haggis-hostels/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBR](/stripes/bwbr/).
 
 Part of the [Haggis Hostels](/tartans/h/ha/haggis-hostels/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g4dy25g6db12g12db3~x2/">Canadian Fancy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g4dy25g6db12g12db3~x2/"><img src="/variants/s6/g4dy25g6db12g12db3~x2/sett.png" alt="Canadian Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canadian-fancy/">Canadian Fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canadian-fancy/"><img src="/variants/s6/g4dy25g6db12g12db3~x2/sett.png" alt="Canadian Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

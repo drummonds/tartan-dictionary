@@ -8,10 +8,10 @@ crumbs:
 - name: "Savannah Harley Davidson"
   url: "/tartans/s/sa/savannah-harley-davidson/"
 - name: "Savannah Harley Davidson"
-  url: "/setts/k25w1n3w1k31n3k31w2r9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k25w1n3w1k31n3k31w2r9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/savannah-harley-davidson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBWKBKWR](/stripes/kwbwkbkwr/).
 
 Part of the [Savannah Harley Davidson](/tartans/s/sa/savannah-harley-davidson/) tartan — the named design grouping this sett with its other cloths.

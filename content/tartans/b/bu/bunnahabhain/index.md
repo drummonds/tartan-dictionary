@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ly8k7r3k7r3k38w2k3ly6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ykrkrkwky/">YKRKRKWKY</a></nav>
 Its design is pattern [YKRKRKWKY](/stripes/ykrkrkwky/) — the page of every tartan sharing this colour sequence.
 
 The **Bunnahabhain** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Bunnahabhain** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly8k7r3k7r3k38w2k3ly6/">Bunnahabhain</a></td><td><code>LY/16 K14 R6 K14 R6 K76 W4 K6 LY/12</code></td><td>280</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly8k7r3k7r3k38w2k3ly6/"><img src="/variants/s9/ly8k7r3k7r3k38w2k3ly6~x2/sett.png" alt="Bunnahabhain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/ly8k7r3k7r3k38w2k3ly6~x2/">Bunnahabhain</a></td><td><code>LY/16 K14 R6 K14 R6 K76 W4 K6 LY/12</code></td><td>280</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/ly8k7r3k7r3k38w2k3ly6~x2/"><img src="/variants/s9/ly8k7r3k7r3k38w2k3ly6~x2/sett.png" alt="Bunnahabhain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="342.0" cy="83.5" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang</title></circle></a><a href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><circle cx="314.5" cy="111.0" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3k22r2k2r2/"><circle cx="367.9" cy="75.7" r="4" fill="#3465a4"><title>Valdres Kvam and Vang</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="465.1" cy="67.1" r="4" fill="#3465a4"><title>Black Country</title></circle></a><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/"><circle cx="348.0" cy="100.3" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/variants/s8/k42lb2r3k5r16k8y2k3~x2/"><circle cx="395.1" cy="87.7" r="4" fill="#3465a4"><title>Highland Brewing Company</title></circle></a><a href="/variants/s8/k70lo5k3n4dp4n4k3lo12/"><circle cx="412.9" cy="74.7" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/variants/s9/k17g6ly1k1db1k1ly1g6k16~x4~db1106275/"><circle cx="360.9" cy="110.2" r="4" fill="#3465a4"><title>Polaris</title></circle></a><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="338.6" cy="92.0" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="373.8" cy="126.9" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><circle cx="365.3" cy="89.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="343.3" cy="83.7" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang</title></circle></a><a href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><circle cx="315.6" cy="111.1" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3k22r2k2r2/"><circle cx="369.2" cy="75.9" r="4" fill="#3465a4"><title>Valdres Kvam and Vang</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="466.8" cy="67.4" r="4" fill="#3465a4"><title>Black Country</title></circle></a><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/"><circle cx="349.2" cy="100.5" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/variants/s8/k42lb2r3k5r16k8y2k3~x2/"><circle cx="396.5" cy="87.9" r="4" fill="#3465a4"><title>Highland Brewing Company</title></circle></a><a href="/variants/s8/k70lo5k3n4dp4n4k3lo12/"><circle cx="414.3" cy="75.0" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/variants/s9/k17g6ly1k1db1k1ly1g6k16~x4~db1106275/"><circle cx="362.2" cy="110.4" r="4" fill="#3465a4"><title>Polaris</title></circle></a><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="339.8" cy="92.1" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="375.1" cy="127.1" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><circle cx="366.6" cy="89.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

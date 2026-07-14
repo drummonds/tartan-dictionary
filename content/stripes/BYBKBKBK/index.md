@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k16b1k1b1k1b9ly18b1~x4/">Kelvingrove (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k16b1k1b1k1b9ly18b1~x4/"><img src="/variants/s8/k16b1k1b1k1b9ly18b1~x4/sett.png" alt="Kelvingrove (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kelvingrove/">Kelvingrove</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kelvingrove/"><img src="/variants/s8/k16b1k1b1k1b9ly18b1~x4/sett.png" alt="Kelvingrove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

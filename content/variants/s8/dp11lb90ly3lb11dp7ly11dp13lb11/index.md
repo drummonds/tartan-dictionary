@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Conservatoire of Scotland"
   url: "/tartans/r/ro/royal-conservatoire-of-scotland/"
 - name: "Royal Conservatoire of Scotland"
-  url: "/setts/dp11lb90ly3lb11dp7ly11dp13lb11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp11lb90ly3lb11dp7ly11dp13lb11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-conservatoire-of-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWYWBYBW](/stripes/bwywbybw/).
 
 Part of the [Royal Conservatoire of Scotland](/tartans/r/ro/royal-conservatoire-of-scotland/) tartan — the named design grouping this sett with its other cloths.

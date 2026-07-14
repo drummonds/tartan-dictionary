@@ -8,10 +8,10 @@ crumbs:
 - name: "Salaberry-de-Valleyfield Traditional"
   url: "/tartans/s/sa/salaberry-de-valleyfield-traditional/"
 - name: "Salaberry-de-Valleyfield Traditional"
-  url: "/setts/db20w3db4w3db4w3r22g2k1g2dy16w1k2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db20w3db4w3db4w3r22g2k1g2dy16w1k2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/salaberry-de-valleyfield-traditional/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWRGKGGWKW](/stripes/bwbwbwrgkggwkw/).
 
 Part of the [Salaberry-de-Valleyfield Traditional](/tartans/s/sa/salaberry-de-valleyfield-traditional/) tartan — the named design grouping this sett with its other cloths.

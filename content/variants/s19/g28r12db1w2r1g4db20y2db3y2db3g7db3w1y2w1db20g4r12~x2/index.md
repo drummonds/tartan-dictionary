@@ -8,10 +8,10 @@ crumbs:
 - name: "O'Kelly"
   url: "/tartans/o/o/o-kelly/"
 - name: "O'Kelly Family (Personal)"
-  url: "/setts/g28r12db1w2r1g4db20y2db3y2db3g7db3w1y2w1db20g4r12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g28r12db1w2r1g4db20y2db3y2db3g7db3w1y2w1db20g4r12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-kelly/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBWRGBGBGBGBWGWBGR](/stripes/grbwrgbgbgbgbwgwbgr/).
 
 Part of the [O'Kelly](/tartans/o/o/o-kelly/) tartan — the named design grouping this sett with its other cloths.

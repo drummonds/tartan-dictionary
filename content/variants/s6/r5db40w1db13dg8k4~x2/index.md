@@ -8,10 +8,10 @@ crumbs:
 - name: "London Caledonian Rugby Club"
   url: "/tartans/l/lo/london-caledonian-rugby-club/"
 - name: "London Caledonian Rugby Club"
-  url: "/setts/r5db40w1db13dg8k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5db40w1db13dg8k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/london-caledonian-rugby-club/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBWBR](/stripes/kgbwbr/).
 
 Part of the [London Caledonian Rugby Club](/tartans/l/lo/london-caledonian-rugby-club/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2~x2~dbi1404245-db1204274/">Monarch of the Glen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2~x2~dbi1404245-db1204274/"><img src="/variants/s22/dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2~x2~dbi1404245-db1204274/sett.png" alt="Monarch of the Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/monarch-of-the-glen/">Monarch of the Glen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/monarch-of-the-glen/"><img src="/variants/s22/dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2~x2~dbi1404245-db1204274/sett.png" alt="Monarch of the Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

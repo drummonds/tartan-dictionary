@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k80dp30db9r3~x2/">Doyle Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k80dp30db9r3~x2/"><img src="/variants/s4/k80dp30db9r3~x2/sett.png" alt="Doyle Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/doyle/">Doyle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/doyle/"><img src="/variants/s4/k80dp30db9r3~x2/sett.png" alt="Doyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

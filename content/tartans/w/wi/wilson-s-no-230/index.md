@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r4k2db16k17dg16k2y4/"
 ---
-Its design is pattern [KBKGKGKGKBKR](/stripes/kbkgkgkgkbkr/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgkbkr/">GKGKBKR</a></nav>
+Its design is pattern [GKGKBKR](/stripes/gkgkbkr/) — the page of every tartan sharing this colour sequence.
 
 The **Wilson's No.230** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4k2db16k17dg16k2y4/">Wilson's No.230</a></td><td><code>R/8 K4 DB32 K34 DG32 K4 Y8 K4 DG32 K34 DB32 K/4</code></td><td>228</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4k2db16k17dg16k2y4/"><img src="/variants/s7/r4k2db16k17dg16k2y4~x2/sett.png" alt="Wilson's No.230 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/">Wilson's No.230</a></td><td><code>R/8 K4 DB32 K34 DG32 K4 Y/8</code></td><td>228</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><img src="/variants/s7/r4k2db16k17dg16k2y4~x2/sett.png" alt="Wilson's No.230 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="107.6" cy="189.5" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/"><circle cx="102.4" cy="188.0" r="4" fill="#3465a4"><title>Argyll</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="147.9" cy="171.2" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="158.5" cy="168.7" r="4" fill="#3465a4"><title>MacLeod Small</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="162.6" cy="196.4" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/dr4dg16k16db4dg3db12lo2~x2/"><circle cx="163.5" cy="217.5" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="149.6" cy="176.2" r="4" fill="#3465a4"><title>Curry</title></circle></a><a href="/variants/s7/r1k1db10k1dp4k9y1~x4/"><circle cx="218.1" cy="171.3" r="4" fill="#3465a4"><title>Graeme High School Homecoming 2009</title></circle></a><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><circle cx="106.3" cy="211.5" r="4" fill="#3465a4"><title>Gaines Center for Humanities</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="219.6" cy="169.5" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><circle cx="147.8" cy="197.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="107.8" cy="189.3" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/"><circle cx="102.6" cy="187.7" r="4" fill="#3465a4"><title>Argyll</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="148.3" cy="171.0" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="158.9" cy="168.6" r="4" fill="#3465a4"><title>MacLeod Small</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="163.0" cy="196.3" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/dr4dg16k16db4dg3db12lo2~x2/"><circle cx="163.7" cy="217.3" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="149.9" cy="176.0" r="4" fill="#3465a4"><title>Curry</title></circle></a><a href="/variants/s7/r1k1db10k1dp4k9y1~x4/"><circle cx="218.6" cy="171.2" r="4" fill="#3465a4"><title>Graeme High School Homecoming 2009</title></circle></a><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><circle cx="106.5" cy="211.3" r="4" fill="#3465a4"><title>Gaines Center for Humanities</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="220.1" cy="169.5" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><circle cx="148.0" cy="197.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

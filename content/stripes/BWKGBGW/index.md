@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/do8w8k16dg32db3y5w5~x2/">Mellor, Phillip (Oldham)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/do8w8k16dg32db3y5w5~x2/"><img src="/variants/s7/do8w8k16dg32db3y5w5~x2/sett.png" alt="Mellor, Phillip (Oldham) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/mellor-phillip/">Mellor, Phillip</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/mellor-phillip/"><img src="/variants/s7/do8w8k16dg32db3y5w5~x2/sett.png" alt="Mellor, Phillip sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

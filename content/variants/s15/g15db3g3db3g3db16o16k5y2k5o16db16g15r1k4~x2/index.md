@@ -8,10 +8,10 @@ crumbs:
 - name: "Loseby, Luke"
   url: "/tartans/l/lo/loseby-luke/"
 - name: "Loseby, Luke (Personal)"
-  url: "/setts/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loseby-luke/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBRKGKRBGRK](/stripes/gbgbgbrkgkrbgrk/).
 
 Part of the [Loseby, Luke](/tartans/l/lo/loseby-luke/) tartan — the named design grouping this sett with its other cloths.

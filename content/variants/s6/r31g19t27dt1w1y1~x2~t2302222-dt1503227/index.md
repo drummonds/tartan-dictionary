@@ -12,10 +12,10 @@ crumbs:
 - name: "Glencross"
   url: "/tartans/g/gl/glencross-4/"
 - name: "Glencross (Solway) (Personal)"
-  url: "/setts/r31g19t27dt1w1y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r31g19t27dt1w1y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glencross-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBBGR](/stripes/gwbbgr/).
 
 Part of the [Glencross](/tartans/g/gl/glencross-4/) tartan — the named design grouping this sett with its other cloths.

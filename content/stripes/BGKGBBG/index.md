@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dbi8g11k3g11dr12db10y2~x2~dbi1406275-db1404245/">Parliament Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dbi8g11k3g11dr12db10y2~x2~dbi1406275-db1404245/"><img src="/variants/s7/dbi8g11k3g11dr12db10y2~x2~dbi1406275-db1404245/sett.png" alt="Parliament Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/parliament/">Parliament</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/parliament/"><img src="/variants/s7/dbi8g11k3g11dr12db10y2~x2~dbi1406275-db1404245/sett.png" alt="Parliament sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

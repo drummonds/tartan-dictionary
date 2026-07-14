@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db1k2db1k6db1k1g1k6g21y1~x2/">Grand Lodge of Scotland (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db1k2db1k6db1k1g1k6g21y1~x2/"><img src="/variants/s10/db1k2db1k6db1k1g1k6g21y1~x2/sett.png" alt="Grand Lodge of Scotland (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grand-lodge-of-scotland/">Grand Lodge of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grand-lodge-of-scotland/"><img src="/variants/s10/db1k2db1k6db1k1g1k6g21y1~x2/sett.png" alt="Grand Lodge of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

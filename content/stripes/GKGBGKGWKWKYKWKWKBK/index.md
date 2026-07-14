@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/">Melnyk-Jones (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/"><img src="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/sett.png" alt="Melnyk-Jones (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/melnyk-jones/">Melnyk-Jones</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/melnyk-jones/"><img src="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/sett.png" alt="Melnyk-Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

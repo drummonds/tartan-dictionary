@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/">Isle of Gigha</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/"><img src="/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/sett.png" alt="Isle of Gigha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/isle-of-gigha/">Isle of Gigha</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-gigha/"><img src="/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/sett.png" alt="Isle of Gigha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

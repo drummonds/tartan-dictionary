@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/g20k2w2k2y2k2g19r5k19r5t20k2g2k2g2k2t20~x2/">MacNicol Htg (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/g20k2w2k2y2k2g19r5k19r5t20k2g2k2g2k2t20~x2/"><img src="/variants/s17/g20k2w2k2y2k2g19r5k19r5t20k2g2k2g2k2t20~x2/sett.png" alt="MacNicol Htg (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/">MacNicol Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/"><img src="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/sett.png" alt="MacNicol Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnicol-hunting/">MacNicol Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnicol-hunting/"><img src="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/sett.png" alt="MacNicol Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

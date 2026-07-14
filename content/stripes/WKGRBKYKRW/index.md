@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/">Loch Lomond &amp; the Trossachs (Fashion</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/"><img src="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/sett.png" alt="Loch Lomond &amp; the Trossachs (Fashion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-lomond-the-trossachs-fashion/">Loch Lomond &amp; the Trossachs (Fashion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-lomond-the-trossachs-fashion/"><img src="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/sett.png" alt="Loch Lomond &amp; the Trossachs (Fashion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

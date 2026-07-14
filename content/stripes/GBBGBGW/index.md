@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g2db15n5g2db2g7w2~x4/">Chambers Bay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g2db15n5g2db2g7w2~x4/"><img src="/variants/s7/g2db15n5g2db2g7w2~x4/sett.png" alt="Chambers Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chambers-bay/">Chambers Bay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chambers-bay/"><img src="/variants/s7/g2db15n5g2db2g7w2~x4/sett.png" alt="Chambers Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

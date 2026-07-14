@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k4db16lb2db16dr4dp7dg21dr3dg4do3~x2/">Scottish Lion Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k4db16lb2db16dr4dp7dg21dr3dg4do3~x2/"><img src="/variants/s10/k4db16lb2db16dr4dp7dg21dr3dg4do3~x2/sett.png" alt="Scottish Lion Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-lion/">Scottish Lion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-lion/"><img src="/variants/s10/k4db16lb2db16dr4dp7dg21dr3dg4do3~x2/sett.png" alt="Scottish Lion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

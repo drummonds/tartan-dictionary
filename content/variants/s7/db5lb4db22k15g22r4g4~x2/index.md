@@ -12,10 +12,10 @@ crumbs:
 - name: "Cairngorm"
   url: "/tartans/c/ca/cairngorm-4/"
 - name: "Cairngorm #2"
-  url: "/setts/db5lb4db22k15g22r4g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5lb4db22k15g22r4g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cairngorm-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGRG](/stripes/bwbkgrg/).
 
 Part of the [Cairngorm](/tartans/c/ca/cairngorm-4/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=463](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2006 — Cairngorm #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=463">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#445464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #445464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#607C88;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #607C88"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#406454;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #406454"></span><span style="display:inline-block;width:.85em;height:.85em;background:#982C2C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #982C2C"></span><br><em>Threadcount taken from sample handed in to the STA by Ron Clark of Crieff in Nov 2006.</em></li>
-<li>pre 2006 — Cairngorm #2 (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7071">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#445464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #445464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#607C88;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #607C88"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#406454;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #406454"></span><span style="display:inline-block;width:.85em;height:.85em;background:#982C2C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #982C2C"></span><br><em>Handed in by Ron Clark of Crieff in Nov 2006. Origin not known but still being woven.</em></li>
+<li>pre 2006 — Cairngorm #2 (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7071/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#445464;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #445464"></span><span style="display:inline-block;width:.85em;height:.85em;background:#607C88;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #607C88"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#406454;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #406454"></span><span style="display:inline-block;width:.85em;height:.85em;background:#982C2C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #982C2C"></span><br><em>Handed in by Ron Clark of Crieff in Nov 2006. Origin not known but still being woven.</em></li>
 </ul>
 </details>
 

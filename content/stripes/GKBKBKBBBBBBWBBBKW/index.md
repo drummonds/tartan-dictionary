@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/y3k18db3k3db3k3db17b3db3b3db3b12w2b12db9b12k2w2~x2~db1404245-b1511266/">Van Ingelgem Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/y3k18db3k3db3k3db17b3db3b3db3b12w2b12db9b12k2w2~x2~db1404245-b1511266/"><img src="/variants/s18/y3k18db3k3db3k3db17b3db3b3db3b12w2b12db9b12k2w2~x2~db1404245-b1511266/sett.png" alt="Van Ingelgem Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/van-ingelgem-dress/">Van Ingelgem Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/van-ingelgem-dress/"><img src="/variants/s18/y3k18db3k3db3k3db17b3db3b3db3b12w2b12db9b12k2w2~x2~db1404245-b1511266/sett.png" alt="Van Ingelgem Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

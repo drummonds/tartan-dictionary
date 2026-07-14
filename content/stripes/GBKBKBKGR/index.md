@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/">MacWilliams Wedding Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/"><img src="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/sett.png" alt="MacWilliams Wedding Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macwilliams-wedding/">MacWilliams Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macwilliams-wedding/"><img src="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/sett.png" alt="MacWilliams Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/r2g10k12db1k2db14k1db1g2~x2/">McWilliams Wedding (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r2g10k12db1k2db14k1db1g2~x2/"><img src="/variants/s9/r2g10k12db1k2db14k1db1g2~x2/sett.png" alt="McWilliams Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcwilliams-wedding/">McWilliams Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcwilliams-wedding/"><img src="/variants/s9/r2g10k12db1k2db14k1db1g2~x2/sett.png" alt="McWilliams Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

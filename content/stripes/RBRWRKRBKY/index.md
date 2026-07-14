@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/">Keogh (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/"><img src="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/sett.png" alt="Keogh (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/keogh/">Keogh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/keogh/"><img src="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/sett.png" alt="Keogh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

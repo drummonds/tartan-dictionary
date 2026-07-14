@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/">Hamburg #2 (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/"><img src="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/sett.png" alt="Hamburg #2 (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hamburg/">Hamburg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hamburg/"><img src="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/sett.png" alt="Hamburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

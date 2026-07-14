@@ -8,10 +8,10 @@ crumbs:
 - name: "Bouncing Blackie"
   url: "/tartans/b/bo/bouncing-blackie/"
 - name: "Bouncing Blackie (Personal)"
-  url: "/setts/db13dt13dg21db34dt55do3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db13dt13dg21db34dt55do3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bouncing-blackie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBB](/stripes/bbbgbb/).
 
 Part of the [Bouncing Blackie](/tartans/b/bo/bouncing-blackie/) tartan — the named design grouping this sett with its other cloths.

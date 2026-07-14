@@ -10,17 +10,17 @@ crumbs:
 - name: "Gemmell"
   url: "/families/gemmell/"
 - name: "Gemmell"
-  url: "/tartans/g/ge/gemmell-3/"
+  url: "/tartans/g/ge/gemmell/"
 - name: "Gemmell Clan/Family Tartan"
-  url: "/setts/t8k1t1k1t1k5g6k1g6k5db3t1dr1t1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t8k1t1k1t1k5g6k1g6k5db3t1dr1t1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGKBBBBBBBKGKGKBKBK](/stripes/bkbkbkgkgkbbbbbbbkgkgkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/g/ge/gemmell/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBKGKGKBKBKB](/stripes/bbbbkgkgkbkbkb/).
 
-Part of the [Gemmell](/tartans/g/ge/gemmell-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gemmell](/tartans/g/ge/gemmell/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4125](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4125)
 
@@ -45,9 +45,11 @@ Earliest known date: 2001 Designed for Thomas Gemmell of Gemmell Tartans, Dumfri
 </details>
 
 ## Thread count
-T/32 K4 T4 K4 T4 K20 G24 K4 G24 K20 DB12 T4 DR4 T4 DR4 T4 DB12 K20 G24 K4 G24 K20 T4 K4 T4 K/4
+T/32 K4 T4 K4 T4 K20 G24 K4 G24 K20 DB12 T4 DR4 T/4
 
-One full sett is **548 threads**.
+One full sett is **292 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/32 K4 T4 K4 T4 K20 G24 K4 G24 K20 DB12 T4 DR4 T4 DR4 T4 DB12 K20 G24 K4 G24 K20 T4 K4 T4 K/4 — 548 threads; it folds to the canonical 292-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **548 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/32 K4 T4 K4 T4 K20 G24 K4 G24 K20 DB12 T4 DR4 T4 DR4 T4 DB12 K20 G24 K4 G24 K20 T4 K4 T4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/32 K4 T4 K4 T4 K20 G24 K4 G24 K20 DB12 T4 DR4 T/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

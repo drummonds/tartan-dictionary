@@ -12,10 +12,10 @@ crumbs:
 - name: "Rikaco"
   url: "/tartans/r/ri/rikaco/"
 - name: "Rikaco Red"
-  url: "/setts/n5lb5n2r47n18o2n5g9lb7o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n5lb5n2r47n18o2n5g9lb7o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ri/rikaco/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRBRBGWR](/stripes/bwbrbrbgwr/).
 
 Part of the [Rikaco](/tartans/r/ri/rikaco/) tartan — the named design grouping this sett with its other cloths.

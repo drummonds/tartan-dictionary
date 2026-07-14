@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/">Massie/Massey</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/"><img src="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/sett.png" alt="Massie/Massey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/massie-massey/">Massie/Massey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/massie-massey/"><img src="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/sett.png" alt="Massie/Massey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k15r2k1r2k1r4b1k1r14k1r2k1r1k10~x4/">Johnnie Walker</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k15r2k1r2k1r4b1k1r14k1r2k1r1k10~x4/"><img src="/variants/s14/k15r2k1r2k1r4b1k1r14k1r2k1r1k10~x4/sett.png" alt="Johnnie Walker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/johnnie-walker-3/">Johnnie Walker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/johnnie-walker-3/"><img src="/variants/s14/k15r2k1r2k1r4b1k1r14k1r2k1r1k10~x4/sett.png" alt="Johnnie Walker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

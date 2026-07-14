@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r15lb98db72ly25db8w15/">Afternoon Tea / Earl Grey</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r15lb98db72ly25db8w15/"><img src="/variants/s6/r15lb98db72ly25db8w15/sett.png" alt="Afternoon Tea / Earl Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/af/afternoon-tea-earl/">Afternoon Tea / Earl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/af/afternoon-tea-earl/"><img src="/variants/s6/r15lb98db72ly25db8w15/sett.png" alt="Afternoon Tea / Earl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

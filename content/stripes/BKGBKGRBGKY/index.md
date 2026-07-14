@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db18k2g2db9k4dg9r4db9g2k2ly1~x4~g2203152-dg1806142/">Amarillo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db18k2g2db9k4dg9r4db9g2k2ly1~x4~g2203152-dg1806142/"><img src="/variants/s11/db18k2g2db9k4dg9r4db9g2k2ly1~x4~g2203152-dg1806142/sett.png" alt="Amarillo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/amarillo/">Amarillo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/amarillo/"><img src="/variants/s11/db18k2g2db9k4dg9r4db9g2k2ly1~x4~g2203152-dg1806142/sett.png" alt="Amarillo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/">American Bi-Centennial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/"><img src="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/sett.png" alt="American Bi-Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/">American St Andrews Societies</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/"><img src="/variants/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/sett.png" alt="American St Andrews Societies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/american-bi-centennial/">American Bi-Centennial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/american-bi-centennial/"><img src="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/sett.png" alt="American Bi-Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/american-st-andrews-societies/">American St Andrews Societies</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/american-st-andrews-societies/"><img src="/variants/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/sett.png" alt="American St Andrews Societies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

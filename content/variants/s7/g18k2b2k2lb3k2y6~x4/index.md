@@ -12,10 +12,10 @@ crumbs:
 - name: "Alberta"
   url: "/tartans/a/al/alberta-2/"
 - name: "Alberta"
-  url: "/setts/g18k2b2k2lb3k2y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g18k2b2k2lb3k2y6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/alberta-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKWKG](/stripes/gkbkwkg/).
 
 Part of the [Alberta](/tartans/a/al/alberta-2/) tartan — the named design grouping this sett with its other cloths.

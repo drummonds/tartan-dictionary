@@ -8,10 +8,10 @@ crumbs:
 - name: "Prince of Denmark"
   url: "/tartans/p/pr/prince-of-denmark-2/"
 - name: "Prince of Denmark"
-  url: "/setts/r51dy2r2dy2r3w3db2w2db2w8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r51dy2r2dy2r3w3db2w2db2w8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/prince-of-denmark-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRWBWBW](/stripes/rgrgrwbwbw/).
 
 Part of the [Prince of Denmark](/tartans/p/pr/prince-of-denmark-2/) tartan — the named design grouping this sett with its other cloths.

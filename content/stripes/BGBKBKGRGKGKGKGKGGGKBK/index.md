@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/">Stewart Hunting General Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/"><img src="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/sett.png" alt="Stewart Hunting General Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-hunting-general/">Stewart Hunting General</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-hunting-general/"><img src="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/sett.png" alt="Stewart Hunting General sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

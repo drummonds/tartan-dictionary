@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/">Davidson of Tulloch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/"><img src="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/sett.png" alt="Davidson of Tulloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/r6db35k36db36w6/">Davidson of Tulloch Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r6db35k36db36w6/"><img src="/variants/s5/r6db35k36db36w6/sett.png" alt="Davidson of Tulloch Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/davidson-of-tulloch/">Davidson of Tulloch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/davidson-of-tulloch/"><img src="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/sett.png" alt="Davidson of Tulloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

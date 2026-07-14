@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/o56k12o7k12o7dg50db50y10/">Sikh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/o56k12o7k12o7dg50db50y10/"><img src="/variants/s8/o56k12o7k12o7dg50db50y10/sett.png" alt="Sikh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/o30k4o3k4o3g20dt20y4~x2/">Sikh (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/o30k4o3k4o3g20dt20y4~x2/"><img src="/variants/s8/o30k4o3k4o3g20dt20y4~x2/sett.png" alt="Sikh (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sikh/">Sikh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sikh/"><img src="/variants/s8/o56k12o7k12o7dg50db50y10/sett.png" alt="Sikh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

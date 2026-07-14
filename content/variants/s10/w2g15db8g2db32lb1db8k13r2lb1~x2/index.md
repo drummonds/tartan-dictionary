@@ -8,10 +8,10 @@ crumbs:
 - name: "Pilkington"
   url: "/tartans/p/pi/pilkington/"
 - name: "Pilkington (2016)"
-  url: "/setts/w2g15db8g2db32lb1db8k13r2lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2g15db8g2db32lb1db8k13r2lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pi/pilkington/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBGBWBKRW](/stripes/wgbgbwbkrw/).
 
 Part of the [Pilkington](/tartans/p/pi/pilkington/) tartan — the named design grouping this sett with its other cloths.

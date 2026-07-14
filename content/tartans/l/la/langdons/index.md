@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db2lb4w1lb4db6lb2db2/"
+- "/setts/t2lb4w1lb4t6lb2t2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbwwwb/">BWBWWWB</a></nav>
 Its design is pattern [BWBWWWB](/stripes/bwbwwwb/) — the page of every tartan sharing this colour sequence.
 
 The **Langdons** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Langdons** tartan groups 2 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db2lb4w1lb4db6lb2db2/">Langdons</a> ★</td><td><code>DB/8 LB16 W4 LB16 DB24 LB8 DB/8</code></td><td>152</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2lb4w1lb4db6lb2db2/"><img src="/variants/s7/db2lb4w1lb4db6lb2db2~x4/sett.png" alt="Langdons sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/t2lb4w1lb4t6lb2t2/">(Corporate)</a></td><td><code>T/8 LB16 W4 LB16 T24 LB8 T/8</code></td><td>152</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t2lb4w1lb4t6lb2t2/"><img src="/variants/s7/t2lb4w1lb4t6lb2t2~x4~t2004245-lb3203246/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db2lb4w1lb4db6lb2db2~x4/">Langdons</a> ★</td><td><code>DB/8 LB16 W4 LB16 DB24 LB8 DB/8</code></td><td>152</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db2lb4w1lb4db6lb2db2~x4/"><img src="/variants/s7/db2lb4w1lb4db6lb2db2~x4/sett.png" alt="Langdons sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/t2lb4w1lb4t6lb2t2~x4~t2004245-lb3203246/">(Corporate)</a></td><td><code>T/8 LB16 W4 LB16 T24 LB8 T/8</code></td><td>152</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/t2lb4w1lb4t6lb2t2~x4~t2004245-lb3203246/"><img src="/variants/s7/t2lb4w1lb4t6lb2t2~x4~t2004245-lb3203246/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db5lb5w1lb5db5lb1~x4/"><circle cx="297.0" cy="313.4" r="4" fill="#3465a4"><title>Manx Cornaa</title></circle></a><a href="/variants/s8/db2b2db15b1w10b15db2b2~x2/"><circle cx="296.4" cy="223.7" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/db2lb2db15lb1w10lb15db2lb2~x2/"><circle cx="289.2" cy="224.8" r="4" fill="#3465a4"><title>Bannockbane Light</title></circle></a><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/"><circle cx="310.6" cy="229.8" r="4" fill="#3465a4"><title>Westwood MacSky</title></circle></a><a href="/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/"><circle cx="182.7" cy="253.9" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/variants/s8/db10t10db60w9db7t36w6db6/"><circle cx="379.0" cy="230.9" r="4" fill="#3465a4"><title>Salem Scottish Dancer's Wee Bluet</title></circle></a><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="416.0" cy="208.8" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s8/db30t2w2t2db4ti10w25db4~x2~t2405244-ti2503227/"><circle cx="289.7" cy="193.1" r="4" fill="#3465a4"><title>Eildon/Longniddry Blue Dress</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.7" cy="285.4" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/"><circle cx="241.9" cy="278.6" r="4" fill="#3465a4"><title>Laval Dress, Tartan de</title></circle></a><circle cx="286.9" cy="294.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db5lb5w1lb5db5lb1~x4/"><circle cx="297.2" cy="313.4" r="4" fill="#3465a4"><title>Manx Cornaa</title></circle></a><a href="/variants/s8/db2b2db15b1w10b15db2b2~x2/"><circle cx="296.8" cy="223.7" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/db2lb2db15lb1w10lb15db2lb2~x2/"><circle cx="289.4" cy="224.7" r="4" fill="#3465a4"><title>Bannockbane Light</title></circle></a><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/"><circle cx="310.9" cy="229.8" r="4" fill="#3465a4"><title>Westwood MacSky</title></circle></a><a href="/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/"><circle cx="182.6" cy="253.6" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/variants/s8/db10t10db60w9db7t36w6db6/"><circle cx="379.6" cy="231.0" r="4" fill="#3465a4"><title>Salem Scottish Dancer's Wee Bluet</title></circle></a><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="416.8" cy="209.0" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s8/db30t2w2t2db4ti10w25db4~x2~t2405244-ti2503227/"><circle cx="290.1" cy="193.0" r="4" fill="#3465a4"><title>Eildon/Longniddry Blue Dress</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="360.1" cy="285.5" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/"><circle cx="242.0" cy="278.5" r="4" fill="#3465a4"><title>Laval Dress, Tartan de</title></circle></a><circle cx="287.1" cy="294.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

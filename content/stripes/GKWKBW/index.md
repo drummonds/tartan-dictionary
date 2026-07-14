@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y2k9w3k9db35w2~x2/">Hannah (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y2k9w3k9db35w2~x2/"><img src="/variants/s6/y2k9w3k9db35w2~x2/sett.png" alt="Hannah (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hannah/">Hannah</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hannah/"><img src="/variants/s6/y2k9w3k9db35w2~x2/sett.png" alt="Hannah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

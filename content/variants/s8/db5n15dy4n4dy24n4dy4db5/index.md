@@ -8,10 +8,10 @@ crumbs:
 - name: "Daks-Simpson"
   url: "/tartans/d/da/daks-simpson/"
 - name: "Daks-Simpson (Muted Skye)"
-  url: "/setts/db5n15dy4n4dy24n4dy4db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5n15dy4n4dy24n4dy4db5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/daks-simpson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBGB](/stripes/bbgbgbgb/).
 
 Part of the [Daks-Simpson](/tartans/d/da/daks-simpson/) tartan — the named design grouping this sett with its other cloths.

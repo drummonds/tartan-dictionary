@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/">Children's Wish Foundation of Canada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/"><img src="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/sett.png" alt="Children's Wish Foundation of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/children-s-wish-foundation-of-canada/">Children's Wish Foundation of Canada</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/children-s-wish-foundation-of-canada/"><img src="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/sett.png" alt="Children's Wish Foundation of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

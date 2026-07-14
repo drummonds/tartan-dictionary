@@ -12,10 +12,10 @@ crumbs:
 - name: "Haut"
   url: "/tartans/h/ha/haut/"
 - name: "Haut Name Tartan"
-  url: "/setts/dp46dpi15k12o8g8dp8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp46dpi15k12o8g8dp8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/haut/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKRGB](/stripes/bbkrgb/).
 
 Part of the [Haut](/tartans/h/ha/haut/) tartan — the named design grouping this sett with its other cloths.

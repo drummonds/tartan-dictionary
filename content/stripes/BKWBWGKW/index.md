@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/">Parkin (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/"><img src="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/sett.png" alt="Parkin (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/parkin-2/">Parkin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/parkin-2/"><img src="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/sett.png" alt="Parkin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db16k3db16k26dp4k26n20w3n8/">Scotsburn Croft</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><img src="/variants/s9/db16k3db16k26dp4k26n20w3n8/sett.png" alt="Scotsburn Croft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotsburn-croft/">Scotsburn Croft</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotsburn-croft/"><img src="/variants/s9/db16k3db16k26dp4k26n20w3n8/sett.png" alt="Scotsburn Croft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

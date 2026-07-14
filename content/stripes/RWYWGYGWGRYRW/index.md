@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r2lb22ly4w3g7lyi2g4w2g9o6lyi2o4w2~x2~ly2503076-lyi3407090/">Isle of Man (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r2lb22ly4w3g7lyi2g4w2g9o6lyi2o4w2~x2~ly2503076-lyi3407090/"><img src="/variants/s13/r2lb22ly4w3g7lyi2g4w2g9o6lyi2o4w2~x2~ly2503076-lyi3407090/sett.png" alt="Isle of Man (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/isle-of-man/">Isle of Man</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-man/"><img src="/variants/s13/r2lb22ly4w3g7lyi2g4w2g9o6lyi2o4w2~x2~ly2503076-lyi3407090/sett.png" alt="Isle of Man sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Totté"
   url: "/tartans/t/to/tott/"
 - name: "Totté (from Hofstade de Baerebeeck) (Personal)"
-  url: "/setts/k51r21y4r12g8db4r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k51r21y4r12g8db4r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/tott/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRGBR](/stripes/krgrgbr/).
 
 Part of the [Totté](/tartans/t/to/tott/) tartan — the named design grouping this sett with its other cloths.

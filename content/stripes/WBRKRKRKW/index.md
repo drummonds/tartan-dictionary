@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/">Memery (Reston, USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><img src="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/sett.png" alt="Memery (Reston, USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/memery/">Memery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/memery/"><img src="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/sett.png" alt="Memery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

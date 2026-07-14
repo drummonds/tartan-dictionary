@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/ly3k9lb1k1dr6k2ly3~x4/">LP Cover (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/ly3k9lb1k1dr6k2ly3~x4/"><img src="/variants/s7/ly3k9lb1k1dr6k2ly3~x4/sett.png" alt="LP Cover (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lp/lp-cover/">LP Cover</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lp/lp-cover/"><img src="/variants/s7/ly3k9lb1k1dr6k2ly3~x4/sett.png" alt="LP Cover sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

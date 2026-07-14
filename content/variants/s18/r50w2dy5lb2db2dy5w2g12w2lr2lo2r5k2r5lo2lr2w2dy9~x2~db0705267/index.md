@@ -8,10 +8,10 @@ crumbs:
 - name: "New Loudoun"
   url: "/tartans/n/ne/new-loudoun/"
 - name: "New Loudoun"
-  url: "/setts/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r50w2dy5lb2db2dy5w2g12w2lr2lo2r5k2r5lo2lr2w2dy9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/new-loudoun/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWYYRKRYYWGWGBWGWR](/stripes/gwyyrkryywgwgbwgwr/).
 
 Part of the [New Loudoun](/tartans/n/ne/new-loudoun/) tartan — the named design grouping this sett with its other cloths.

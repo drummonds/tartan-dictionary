@@ -8,10 +8,10 @@ crumbs:
 - name: "Red Remony"
   url: "/tartans/r/re/red-remony/"
 - name: "Remony (Red)"
-  url: "/setts/dr17db2dr2db13dr2db2g17db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr17db2dr2db13dr2db2g17db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/red-remony/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGB](/stripes/bbbbbbgb/).
 
 Part of the [Red Remony](/tartans/r/re/red-remony/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3497](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/07/1995 — Remony (Red) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3497">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Polly Wittering for a range of gifts to be sold by the House of Edgar/Macnaughtons of Pitlochry.</em></li>
-<li>Oct. 1995 — Red Remony (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2235">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Polly Wittering for a range of gifts to be sold by the House of Edgar/Macnaughtons of Pitlochry. It also commemorates the life of Alexander Macnaughton (1750-1832) who was born at the farm Remony by Kenmore on the edge of Loch Tay. He is a direct ancestor of the present (2008) owensr of Macnaughton Holdings Ltd.</em></li>
+<li>Oct. 1995 — Red Remony (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2235/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Polly Wittering for a range of gifts to be sold by the House of Edgar/Macnaughtons of Pitlochry. It also commemorates the life of Alexander Macnaughton (1750-1832) who was born at the farm Remony by Kenmore on the edge of Loch Tay. He is a direct ancestor of the present (2008) owensr of Macnaughton Holdings Ltd.</em></li>
 </ul>
 </details>
 

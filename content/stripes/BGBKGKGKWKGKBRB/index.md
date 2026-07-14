@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db2r1db6k6g6k1lb1k1y1k1g6k6db6g1db2~x4/">Malcolm (symmetrical)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db2r1db6k6g6k1lb1k1y1k1g6k6db6g1db2~x4/"><img src="/variants/s15/db2r1db6k6g6k1lb1k1y1k1g6k6db6g1db2~x4/sett.png" alt="Malcolm (symmetrical) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/malcolm-2/">Malcolm</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/malcolm-2/"><img src="/variants/s15/db2r1db6k6g6k1lb1k1y1k1g6k6db6g1db2~x4/sett.png" alt="Malcolm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

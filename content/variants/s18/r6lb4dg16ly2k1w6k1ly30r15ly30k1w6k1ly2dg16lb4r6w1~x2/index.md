@@ -12,10 +12,10 @@ crumbs:
 - name: "Westwood"
   url: "/tartans/w/we/westwood-2/"
 - name: "Westwood"
-  url: "/setts/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/westwood-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGYKWKYRYKWKYGWRW](/stripes/rwgykwkyrykwkygwrw/).
 
 Part of the [Westwood](/tartans/w/we/westwood-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/">Fleming /Frisken/Flanders</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/"><img src="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/sett.png" alt="Fleming /Frisken/Flanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/">Fleming/Frisken/Flanders</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/"><img src="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/sett.png" alt="Fleming/Frisken/Flanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fl/fleming-frisken-flanders/">Fleming /Frisken/Flanders</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/fleming-frisken-flanders/"><img src="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/sett.png" alt="Fleming /Frisken/Flanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fl/fleming-commemorative/">Fleming Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/fleming-commemorative/"><img src="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/sett.png" alt="Fleming Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s15/db15k4db4k4db4k16b16k2g3k2b16k16db18k1w2~x2~db1106275-b2603265/">McCruden, Raymond (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db15k4db4k4db4k16b16k2g3k2b16k16db18k1w2~x2~db1106275-b2603265/"><img src="/variants/s15/db15k4db4k4db4k16b16k2g3k2b16k16db18k1w2~x2~db1106275-b2603265/sett.png" alt="McCruden, Raymond (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mccruden-raymond/">McCruden, Raymond</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccruden-raymond/"><img src="/variants/s15/db15k4db4k4db4k16b16k2g3k2b16k16db18k1w2~x2~db1106275-b2603265/sett.png" alt="McCruden, Raymond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

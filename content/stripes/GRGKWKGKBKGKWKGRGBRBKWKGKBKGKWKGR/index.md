@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s33/dg10r1dg5k1w1k1y1k1db2k1y1k1w1k1g5r1g5db5r1db5k1w1k1y1k1db2k1y1k1w1k1dg5r1~x4/">Hawick (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s33/dg10r1dg5k1w1k1y1k1db2k1y1k1w1k1g5r1g5db5r1db5k1w1k1y1k1db2k1y1k1w1k1dg5r1~x4/"><img src="/variants/s33/dg10r1dg5k1w1k1y1k1db2k1y1k1w1k1g5r1g5db5r1db5k1w1k1y1k1db2k1y1k1w1k1dg5r1~x4/sett.png" alt="Hawick (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hawick/">Hawick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hawick/"><img src="/variants/s33/dg10r1dg5k1w1k1y1k1db2k1y1k1w1k1g5r1g5db5r1db5k1w1k1y1k1db2k1y1k1w1k1dg5r1~x4/sett.png" alt="Hawick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

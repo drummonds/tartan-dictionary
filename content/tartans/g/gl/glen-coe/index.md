@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Glen"
   url: "/clan/glen/"
+aliases:
+- "/setts/k37w9k3dg9w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwkgw/">KWKGW</a></nav>
 A tartan of [Clan Glen](/clan/glen/).
 Its design is pattern [KWKGW](/stripes/kwkgw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Glen Coe** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k37w9k3dg9w3/">Glen Coe</a></td><td><code>K/74 W18 K6 DG18 W/6</code></td><td>164</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k37w9k3dg9w3/"><img src="/variants/s5/k37w9k3dg9w3~x2/sett.png" alt="Glen Coe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k37w9k3dg9w3~x2/">Glen Coe</a></td><td><code>K/74 W18 K6 DG18 W/6</code></td><td>164</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k37w9k3dg9w3~x2/"><img src="/variants/s5/k37w9k3dg9w3~x2/sett.png" alt="Glen Coe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k37w9k3g9w3~x2/"><circle cx="335.0" cy="162.9" r="4" fill="#3465a4"><title>Glencoe</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="296.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="293.5" cy="170.7" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="288.9" cy="136.6" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s5/n4k48n16r12db3~x2/"><circle cx="304.8" cy="154.0" r="4" fill="#3465a4"><title>Calgary Firefighters</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="396.0" cy="156.0" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="356.8" cy="134.6" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="374.6" cy="150.6" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="314.4" cy="210.0" r="4" fill="#3465a4"><title>Lords of Skye</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="382.0" cy="111.3" r="4" fill="#3465a4"><title>Perry, hunting</title></circle></a><circle cx="338.4" cy="161.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k37w9k3g9w3~x2/"><circle cx="336.0" cy="163.1" r="4" fill="#3465a4"><title>Glencoe</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="297.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="294.5" cy="170.8" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="289.9" cy="136.7" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s5/n4k48n16r12db3~x2/"><circle cx="305.7" cy="154.1" r="4" fill="#3465a4"><title>Calgary Firefighters</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="397.3" cy="156.3" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="357.9" cy="134.8" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="375.8" cy="150.9" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="315.4" cy="210.2" r="4" fill="#3465a4"><title>Lords of Skye</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="383.3" cy="111.6" r="4" fill="#3465a4"><title>Perry, hunting</title></circle></a><circle cx="339.5" cy="162.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

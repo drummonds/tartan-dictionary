@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/">Gibson, Robert (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><img src="/variants/s7/k5db15k5lb1k35dp1k2~x4/sett.png" alt="Gibson, Robert (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gi/gibson-robert/">Gibson, Robert</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/gibson-robert/"><img src="/variants/s7/k5db15k5lb1k35dp1k2~x4/sett.png" alt="Gibson, Robert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/">Punky Princess</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><img src="/variants/s7/k14dp2k4lb3k12dp8k1~x2/sett.png" alt="Punky Princess sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pu/punky-princess-2/">Punky Princess</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pu/punky-princess-2/"><img src="/variants/s7/k14dp2k4lb3k12dp8k1~x2/sett.png" alt="Punky Princess sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

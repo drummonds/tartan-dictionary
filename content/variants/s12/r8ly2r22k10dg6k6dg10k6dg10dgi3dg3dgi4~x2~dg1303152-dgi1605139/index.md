@@ -8,10 +8,10 @@ crumbs:
 - name: "Iona"
   url: "/tartans/i/io/iona/"
 - name: "Iona"
-  url: "/setts/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/io/iona/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGKGKGKRYR](/stripes/ggggkgkgkryr/).
 
 Part of the [Iona](/tartans/i/io/iona/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1849](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Iona (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1849">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#9C0030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LDR #9C0030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CCD0B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LY #CCD0B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004020;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004020"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>No details known. The gold warp lines are in fact green.</em></li>
-<li>pre 2002 — Iona (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6858">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#9C0030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LDR #9C0030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CCD0B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LY #CCD0B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004020;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004020"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>No details. The gold warp lines are in fact green.</em></li>
+<li>pre 2002 — Iona (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6858/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#9C0030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LDR #9C0030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CCD0B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LY #CCD0B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004020;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004020"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>No details. The gold warp lines are in fact green.</em></li>
 </ul>
 </details>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Hickory"
   url: "/tartans/h/hi/hickory/"
 - name: "Hickory"
-  url: "/setts/db4dy30do2dy2do14y2do2y1do6g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4dy30do2dy2do14y2do2y1do6g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/hickory/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/).
 
 Part of the [Hickory](/tartans/h/hi/hickory/) tartan — the named design grouping this sett with its other cloths.

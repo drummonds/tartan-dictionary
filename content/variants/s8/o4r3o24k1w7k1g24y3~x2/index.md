@@ -8,10 +8,10 @@ crumbs:
 - name: "Layton, Mervin"
   url: "/tartans/l/la/layton-mervin/"
 - name: "Layton, Mervin"
-  url: "/setts/o4r3o24k1w7k1g24y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o4r3o24k1w7k1g24y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/layton-mervin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKWKRRR](/stripes/ggkwkrrr/).
 
 Part of the [Layton, Mervin](/tartans/l/la/layton-mervin/) tartan — the named design grouping this sett with its other cloths.

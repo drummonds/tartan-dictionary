@@ -12,10 +12,10 @@ crumbs:
 - name: "Guzzo Dress"
   url: "/tartans/g/gu/guzzo-dress/"
 - name: "Guzzo Dress (Montreal, Canada) (Personal)"
-  url: "/setts/w20k2w20y5k3w3y4k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w20k2w20y5k3w3y4k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gu/guzzo-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWKGWKW](/stripes/kgwkgwkw/).
 
 Part of the [Guzzo Dress](/tartans/g/gu/guzzo-dress/) tartan — the named design grouping this sett with its other cloths.

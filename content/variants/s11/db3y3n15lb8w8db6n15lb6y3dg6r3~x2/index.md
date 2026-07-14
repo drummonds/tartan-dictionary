@@ -12,10 +12,10 @@ crumbs:
 - name: "Saltcoats"
   url: "/tartans/s/sa/saltcoats/"
 - name: "Saltcoats (Saskatchewan)"
-  url: "/setts/db3y3n15lb8w8db6n15lb6y3dg6r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3y3n15lb8w8db6n15lb6y3dg6r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/saltcoats/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWWBBWGGR](/stripes/bgbwwbbwggr/).
 
 Part of the [Saltcoats](/tartans/s/sa/saltcoats/) tartan — the named design grouping this sett with its other cloths.

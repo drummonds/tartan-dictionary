@@ -8,10 +8,10 @@ crumbs:
 - name: "University of North Carolina"
   url: "/tartans/u/un/university-of-north-carolina/"
 - name: "University of North Carolina at Greensboro, The"
-  url: "/setts/db96y11db8y11db16y6w4y16w8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db96y11db8y11db16y6w4y16w8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/university-of-north-carolina/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGWGW](/stripes/bgbgbgwgw/).
 
 Part of the [University of North Carolina](/tartans/u/un/university-of-north-carolina/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4199](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — University of North Carolina at Greensboro, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4199">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FCFCFC"></span><br><em>Designed by Dr Philip D Smith Jnr for the University of North Carolina at Greensboro.</em></li>
-<li>2003 — University of North Carolina (Corp.) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6265">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Designed by Dr Phil Smith for the University of North Carolina at Greensboro</em></li>
+<li>2003 — University of North Carolina (Corp.) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6265/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Designed by Dr Phil Smith for the University of North Carolina at Greensboro</em></li>
 </ul>
 </details>
 

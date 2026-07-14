@@ -12,10 +12,10 @@ crumbs:
 - name: "Culloden Dress"
   url: "/tartans/c/cu/culloden-dress-2/"
 - name: "Culloden Dress"
-  url: "/setts/r6lb3dp24y2k23w23k2w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6lb3dp24y2k23w23k2w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/culloden-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBGKWKW](/stripes/rwbgkwkw/).
 
 Part of the [Culloden Dress](/tartans/c/cu/culloden-dress-2/) tartan — the named design grouping this sett with its other cloths.

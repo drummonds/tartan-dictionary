@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r18lb1n18k1g18w1lb18r1n18g1r18k3w4k3w4k3~x2/">City of Edinburgh (2001) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r18lb1n18k1g18w1lb18r1n18g1r18k3w4k3w4k3~x2/"><img src="/variants/s16/r18lb1n18k1g18w1lb18r1n18g1r18k3w4k3w4k3~x2/sett.png" alt="City of Edinburgh (2001) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-edinburgh-2/">City of Edinburgh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-edinburgh-2/"><img src="/variants/s16/r18lb1n18k1g18w1lb18r1n18g1r18k3w4k3w4k3~x2/sett.png" alt="City of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

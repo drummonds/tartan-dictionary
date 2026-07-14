@@ -8,10 +8,10 @@ crumbs:
 - name: "Bog Myrtle Corner"
   url: "/tartans/b/bo/bog-myrtle-corner/"
 - name: "Bog Myrtle Corner"
-  url: "/setts/db28y6k2y1k2y6w6g2w1g2w6db28n4k5g8k5n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db28y6k2y1k2y6w6g2w1g2w6db28n4k5g8k5n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bog-myrtle-corner/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGWGWGWBBKGKB](/stripes/bgkgkgwgwgwbbkgkb/).
 
 Part of the [Bog Myrtle Corner](/tartans/b/bo/bog-myrtle-corner/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Menzies of Culdares"
   url: "/tartans/m/me/menzies-of-culdares/"
 - name: "Menzies of Culdares"
-  url: "/setts/k4dr2k22dr22k3dr4lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4dr2k22dr22k3dr4lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/menzies-of-culdares/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBW](/stripes/kbkbkbw/).
 
 Part of the [Menzies of Culdares](/tartans/m/me/menzies-of-culdares/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5223](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1860 — Menzies of Culdares (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5223">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><br><em>Obtained from a Peter MacDonald swatch. Peter extracted the design from the original portrait at Castle Menzies. Peter Eslea MacDonald May 07</em></li>
-<li>1860 — Menzies of Culdares (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3467">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><br><em>From portrait at Castle Menzies ca. 1860. Obtained by the late Bill Johnston in 1993 either from a Pringles or Kinloch Anderson exhibition. No. Obtained from a Peter MacDonald swatch. Peter extrcted the design from the original portrait at Castle Menzies. PEM May 07</em></li>
+<li>1860 — Menzies of Culdares (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3467/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><br><em>From portrait at Castle Menzies ca. 1860. Obtained by the late Bill Johnston in 1993 either from a Pringles or Kinloch Anderson exhibition. No. Obtained from a Peter MacDonald swatch. Peter extrcted the design from the original portrait at Castle Menzies. PEM May 07</em></li>
 </ul>
 </details>
 

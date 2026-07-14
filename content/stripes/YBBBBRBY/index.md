@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lr2dr1r24dr16dt20db3dt3ly2~x2/">Tache, Sir Etienne Paschal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lr2dr1r24dr16dt20db3dt3ly2~x2/"><img src="/variants/s8/lr2dr1r24dr16dt20db3dt3ly2~x2/sett.png" alt="Tache, Sir Etienne Paschal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tache-sir-etienne-paschal/">Tache, Sir Etienne Paschal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tache-sir-etienne-paschal/"><img src="/variants/s8/lr2dr1r24dr16dt20db3dt3ly2~x2/sett.png" alt="Tache, Sir Etienne Paschal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

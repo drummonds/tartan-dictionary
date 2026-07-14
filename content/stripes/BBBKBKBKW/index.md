@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n10dbi5db15k3db15k5dr25k3w4~x2~dbi1605267-db1003265/">Galway County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n10dbi5db15k3db15k5dr25k3w4~x2~dbi1605267-db1003265/"><img src="/variants/s9/n10dbi5db15k3db15k5dr25k3w4~x2~dbi1605267-db1003265/sett.png" alt="Galway County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/galway-county-crest-range/">Galway County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/galway-county-crest-range/"><img src="/variants/s9/n10dbi5db15k3db15k5dr25k3w4~x2~dbi1605267-db1003265/sett.png" alt="Galway County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/macfie/"
 - name: "MacFie of Colonsay"
   url: "/families/macfie-of-colonsay/"
+aliases:
+- "/setts/w2k11w2k2w16k2w2k11lo2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wkwkwkwky/">WKWKWKWKY</a></nav>
 A tartan of the [MacFie of Colonsay](/families/macfie-of-colonsay/) family.
 Its design is pattern [WKWKWKWKY](/stripes/wkwkwkwky/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacFie of Colonsay Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2k11w2k2w16k2w2k11lo2/">MacFie of Colonsay Dress</a></td><td><code>LO/8 K44 W8 K8 W64 K8 W8 K44 W/8</code></td><td>384</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2k11w2k2w16k2w2k11lo2/"><img src="/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/sett.png" alt="MacFie of Colonsay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/">MacFie of Colonsay Dress</a></td><td><code>W/8 K44 W8 K8 W64 K8 W8 K44 LO/8</code></td><td>384</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/"><img src="/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/sett.png" alt="MacFie of Colonsay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/"><circle cx="285.3" cy="140.4" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/variants/s8/k1w8k8w1k8w4k4w1~x2/"><circle cx="301.5" cy="208.1" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="295.1" cy="174.9" r="4" fill="#3465a4"><title>West Point Military Academy</title></circle></a><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="153.8" cy="190.6" r="4" fill="#3465a4"><title>Breton</title></circle></a><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><circle cx="272.1" cy="171.8" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="193.2" cy="169.3" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="291.2" cy="219.8" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s9/y4k4g12k37w4k4w16k2w4~x2/"><circle cx="243.2" cy="115.1" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="273.6" cy="166.8" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/"><circle cx="293.7" cy="183.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><circle cx="254.0" cy="174.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/"><circle cx="286.2" cy="140.4" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/variants/s8/k1w8k8w1k8w4k4w1~x2/"><circle cx="302.4" cy="208.3" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="296.0" cy="175.0" r="4" fill="#3465a4"><title>West Point Military Academy</title></circle></a><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="154.2" cy="190.4" r="4" fill="#3465a4"><title>Breton</title></circle></a><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><circle cx="272.9" cy="171.8" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="193.8" cy="169.2" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="291.9" cy="219.9" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s9/y4k4g12k37w4k4w16k2w4~x2/"><circle cx="244.0" cy="115.0" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="274.3" cy="166.8" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/"><circle cx="294.6" cy="183.7" r="4" fill="#3465a4"><title>MacLean</title></circle></a><circle cx="254.7" cy="174.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

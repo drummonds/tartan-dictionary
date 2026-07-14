@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/">Howell of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/"><img src="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/sett.png" alt="Howell of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/">Howells</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/"><img src="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/sett.png" alt="Howells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/howell-of-wales/">Howell of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/howell-of-wales/"><img src="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/sett.png" alt="Howell of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/howells/">Howells</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/howells/"><img src="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/sett.png" alt="Howells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/">Dijkgraaf, Markus Jack (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/"><img src="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/sett.png" alt="Dijkgraaf, Markus Jack (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/dijkgraaf-markus-jack/">Dijkgraaf, Markus Jack</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/dijkgraaf-markus-jack/"><img src="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/sett.png" alt="Dijkgraaf, Markus Jack sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

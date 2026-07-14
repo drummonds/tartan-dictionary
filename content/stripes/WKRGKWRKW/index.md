@@ -28,15 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/">Graham Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><img src="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/sett.png" alt="Graham Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/">MacNaughton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/"><img src="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/sett.png" alt="MacNaughton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lb2k2r14g15k8lb7r14k2lb2/">Montrose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/lb2k2r14g15k8lb7r14k2lb2/"><img src="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/w2k2r14g15k8w7r14k2w2/">Montrose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w2k2r14g15k8w7r14k2w2/"><img src="/variants/s9/w2k2r14g15k8w7r14k2w2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/graham-4/">Graham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-4/"><img src="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/sett.png" alt="Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnaughton-2/">MacNaughton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnaughton-2/"><img src="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/sett.png" alt="MacNaughton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/montrose-2/">Montrose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montrose-2/"><img src="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

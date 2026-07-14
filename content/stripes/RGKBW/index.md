@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r4dg15k15db15lb4~x2/">Dalmeny #1</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r4dg15k15db15lb4~x2/"><img src="/variants/s5/r4dg15k15db15lb4~x2/sett.png" alt="Dalmeny #1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r4g15k15db15w4~x2/">Dalmeny (Wlison's) Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r4g15k15db15w4~x2/"><img src="/variants/s5/r4g15k15db15w4~x2/sett.png" alt="Dalmeny (Wlison's) Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dalmeny-2/">Dalmeny</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dalmeny-2/"><img src="/variants/s5/r4dg15k15db15lb4~x2/sett.png" alt="Dalmeny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

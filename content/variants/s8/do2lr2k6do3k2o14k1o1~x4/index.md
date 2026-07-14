@@ -10,10 +10,10 @@ crumbs:
 - name: "Blair Atholl"
   url: "/tartans/b/bl/blair-atholl/"
 - name: "Braemar or Blair Atholl"
-  url: "/setts/do2lr2k6do3k2o14k1o1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do2lr2k6do3k2o14k1o1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blair-atholl/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKBKRKR](/stripes/bykbkrkr/).
 
 Part of the [Blair Atholl](/tartans/b/bl/blair-atholl/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=335](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Braemar or Blair Atholl (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=335">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><br><em>Sample from Scott Bros & Co, Hawick. Also called Blair Atholl.</em></li>
-<li>pre 2002 — Blair Atholl (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1741">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><br><em>Scottish Tartans Society notes say 'from Scott Bros of Hawick"</em></li>
+<li>pre 2002 — Blair Atholl (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1741/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><br><em>Scottish Tartans Society notes say 'from Scott Bros of Hawick"</em></li>
 </ul>
 </details>
 

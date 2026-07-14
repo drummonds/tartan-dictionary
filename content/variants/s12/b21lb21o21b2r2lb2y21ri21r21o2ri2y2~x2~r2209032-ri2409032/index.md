@@ -12,10 +12,10 @@ crumbs:
 - name: "Rainbow"
   url: "/tartans/r/ra/rainbow/"
 - name: "Rainbow #2"
-  url: "/setts/b21lb21o21b2r2lb2y21ri21r21o2ri2y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b21lb21o21b2r2lb2y21ri21r21o2ri2y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/rainbow/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBRWGRRRRG](/stripes/bwrbrwgrrrrg/).
 
 Part of the [Rainbow](/tartans/r/ra/rainbow/) tartan — the named design grouping this sett with its other cloths.

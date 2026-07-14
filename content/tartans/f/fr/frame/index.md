@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/frame/"
 - name: "Frame"
   url: "/families/frame/"
+aliases:
+- "/setts/k16g15k4lb12k22w2k6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkwkwk/">KGKWKWK</a></nav>
 A tartan of the [Frame](/families/frame/) family.
 Its design is pattern [KGKWKWK](/stripes/kgkwkwk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Frame** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k16g15k4lb12k22w2k6/">Frame</a></td><td><code>K/32 G30 K8 LB24 K44 W4 K/12</code></td><td>264</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k16g15k4lb12k22w2k6/"><img src="/variants/s7/k16g15k4lb12k22w2k6~x2/sett.png" alt="Frame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/">Frame</a></td><td><code>K/32 G30 K8 LB24 K44 W4 K/12</code></td><td>264</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><img src="/variants/s7/k16g15k4lb12k22w2k6~x2/sett.png" alt="Frame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k25y5k5g25k25t3k10~x2/"><circle cx="294.7" cy="182.9" r="4" fill="#3465a4"><title>London Community Gospel Choir</title></circle></a><a href="/variants/s9/k1g12k12r1k1r1k12t12r1~x4/"><circle cx="205.3" cy="150.5" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="259.2" cy="188.8" r="4" fill="#3465a4"><title>Givens</title></circle></a><a href="/variants/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="188.9" cy="189.3" r="4" fill="#3465a4"><title>Tennent</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="271.4" cy="185.3" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/"><circle cx="254.4" cy="167.5" r="4" fill="#3465a4"><title>Grass of Rasunda</title></circle></a><a href="/variants/s7/k16w15k4db12k22r2k6~x2/"><circle cx="248.2" cy="172.6" r="4" fill="#3465a4"><title>Sanley-Cantamessa</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="302.9" cy="186.2" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="197.0" cy="215.2" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s8/k6y3k18g20k2db3k2g4~x2/"><circle cx="228.3" cy="164.6" r="4" fill="#3465a4"><title>Choinka</title></circle></a><circle cx="249.6" cy="177.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k25y5k5g25k25t3k10~x2/"><circle cx="295.6" cy="183.1" r="4" fill="#3465a4"><title>London Community Gospel Choir</title></circle></a><a href="/variants/s9/k1g12k12r1k1r1k12t12r1~x4/"><circle cx="205.9" cy="150.4" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="259.9" cy="188.9" r="4" fill="#3465a4"><title>Givens</title></circle></a><a href="/variants/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="189.5" cy="189.3" r="4" fill="#3465a4"><title>Tennent</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="272.3" cy="185.4" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/"><circle cx="255.1" cy="167.6" r="4" fill="#3465a4"><title>Grass of Rasunda</title></circle></a><a href="/variants/s7/k16w15k4db12k22r2k6~x2/"><circle cx="249.1" cy="172.6" r="4" fill="#3465a4"><title>Sanley-Cantamessa</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="303.8" cy="186.4" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="197.6" cy="215.2" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s8/k6y3k18g20k2db3k2g4~x2/"><circle cx="229.0" cy="164.6" r="4" fill="#3465a4"><title>Choinka</title></circle></a><circle cx="250.4" cy="177.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

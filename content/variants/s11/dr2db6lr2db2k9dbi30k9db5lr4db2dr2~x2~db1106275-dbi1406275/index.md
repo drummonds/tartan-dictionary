@@ -10,10 +10,10 @@ crumbs:
 - name: "Rangers Football Club Dress"
   url: "/tartans/r/ra/rangers-football-club-dress/"
 - name: "Rangers Football Club Dress"
-  url: "/setts/dr2db6lr2db2k9dbi30k9db5lr4db2dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr2db6lr2db2k9dbi30k9db5lr4db2dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/rangers-football-club-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBKBKBYBB](/stripes/bbybkbkbybb/).
 
 Part of the [Rangers Football Club Dress](/tartans/r/ra/rangers-football-club-dress/) tartan — the named design grouping this sett with its other cloths.

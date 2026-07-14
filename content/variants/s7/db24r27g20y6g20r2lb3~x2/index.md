@@ -8,10 +8,10 @@ crumbs:
 - name: "Buchanhaven Heritage"
   url: "/tartans/b/bu/buchanhaven-heritage/"
 - name: "Buchanhaven Heritage"
-  url: "/setts/db24r27g20y6g20r2lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db24r27g20y6g20r2lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/buchanhaven-heritage/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGGGRW](/stripes/brgggrw/).
 
 Part of the [Buchanhaven Heritage](/tartans/b/bu/buchanhaven-heritage/) tartan — the named design grouping this sett with its other cloths.

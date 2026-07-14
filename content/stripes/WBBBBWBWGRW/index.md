@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w3db5dbi2db9n10lb2n4lb2g10r33w2~x2~db1204274-dbi1406275/">Inverclyde (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w3db5dbi2db9n10lb2n4lb2g10r33w2~x2~db1204274-dbi1406275/"><img src="/variants/s11/w3db5dbi2db9n10lb2n4lb2g10r33w2~x2~db1204274-dbi1406275/sett.png" alt="Inverclyde (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inverclyde-3/">Inverclyde</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inverclyde-3/"><img src="/variants/s11/w3db5dbi2db9n10lb2n4lb2g10r33w2~x2~db1204274-dbi1406275/sett.png" alt="Inverclyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

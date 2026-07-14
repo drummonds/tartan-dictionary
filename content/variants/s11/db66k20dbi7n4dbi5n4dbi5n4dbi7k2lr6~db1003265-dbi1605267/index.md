@@ -10,10 +10,10 @@ crumbs:
 - name: "Muir Homes"
   url: "/tartans/m/mu/muir-homes/"
 - name: "Muir Homes"
-  url: "/setts/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/muir-homes/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBBBBBKY](/stripes/bkbbbbbbbky/).
 
 Part of the [Muir Homes](/tartans/m/mu/muir-homes/) tartan — the named design grouping this sett with its other cloths.

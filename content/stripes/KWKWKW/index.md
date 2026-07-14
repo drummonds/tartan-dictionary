@@ -28,13 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k2w1k9w9k1w2/">Erskine (Black and White)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k2w1k9w9k1w2/"><img src="/variants/s6/k2w1k9w9k1w2~x3/sett.png" alt="Erskine (Black and White) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w5k4w32k32w5k4~x2/">Valley Forge (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w5k4w32k32w5k4~x2/"><img src="/variants/s6/w5k4w32k32w5k4~x2/sett.png" alt="Valley Forge (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/k7w6k1w6~x4/">Wallace Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k7w6k1w6~x4/"><img src="/variants/s4/k7w6k1w6~x4/sett.png" alt="Wallace Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/er/erskine-bw-mini-design/">Erskine BW MINI Design</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-bw-mini-design/"><img src="/variants/s6/k2w1k9w9k1w2~x3/sett.png" alt="Erskine BW MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/valley-forge/">Valley Forge</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/valley-forge/"><img src="/variants/s6/w5k4w32k32w5k4~x2/sett.png" alt="Valley Forge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/">RAAF #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><img src="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/sett.png" alt="RAAF #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/raaf/">RAAF</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/raaf/"><img src="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/sett.png" alt="RAAF sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

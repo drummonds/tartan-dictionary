@@ -12,15 +12,15 @@ crumbs:
 - name: "Inverness"
   url: "/tartans/i/in/inverness/"
 - name: "Inverness"
-  url: "/setts/r36db3w1db6g1k1g1r9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r36db3w1db6g1k1g1r9/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBGKGRGKGBWBR](/stripes/bwbgkgrgkgbwbr/).
+provenance below. It is one weaving of the [sett](/tartans/i/in/inverness/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBWBGKGR](/stripes/rbwbgkgr/).
 
 Part of the [Inverness](/tartans/i/in/inverness/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1840](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1840)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1438
 
 ## Thread count
-R/144 DB12 W4 DB24 G4 K4 G4 R36 G4 K4 G4 DB24 W4 DB/12
+R/144 DB12 W4 DB24 G4 K4 G4 R/36
 
-One full sett is **412 threads**.
+One full sett is **284 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/144 DB12 W4 DB24 G4 K4 G4 R36 G4 K4 G4 DB24 W4 DB/12 — 412 threads; it folds to the canonical 284-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **412 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/144 DB12 W4 DB24 G4 K4 G4 R36 G4 K4 G4 DB24 W4 DB/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/144 DB12 W4 DB24 G4 K4 G4 R/36 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

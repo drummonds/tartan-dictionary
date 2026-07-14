@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/y3k1n24k35w3~x2/">George Heriots</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/y3k1n24k35w3~x2/"><img src="/variants/s5/y3k1n24k35w3~x2/sett.png" alt="George Heriots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/george-heriots/">George Heriots</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/george-heriots/"><img src="/variants/s5/y3k1n24k35w3~x2/sett.png" alt="George Heriots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

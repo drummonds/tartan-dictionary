@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3~x2/">Not Specified</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3~x2/"><img src="/variants/s26/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3~x2/sett.png" alt="Not Specified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/not-specified/">Not Specified</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/not-specified/"><img src="/variants/s26/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3~x2/sett.png" alt="Not Specified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

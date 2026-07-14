@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/">Braveheart Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/"><img src="/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/sett.png" alt="Braveheart Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/">Watt (Corporate/Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><img src="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/sett.png" alt="Watt (Corporate/Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/braveheart-commemorative/">Braveheart Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braveheart-commemorative/"><img src="/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/sett.png" alt="Braveheart Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/watt-2/">Watt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/watt-2/"><img src="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4~db1406275-dp1607327/sett.png" alt="Watt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

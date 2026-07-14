@@ -8,10 +8,10 @@ crumbs:
 - name: "Monarchs Corporate Sport"
   url: "/tartans/m/mo/monarchs-corporate-sport/"
 - name: "Monarchs Corporate Sport Tartan"
-  url: "/setts/db19k4dr1k4dg9k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db19k4dr1k4dg9k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/monarchs-corporate-sport/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGK](/stripes/bkbkgk/).
 
 Part of the [Monarchs Corporate Sport](/tartans/m/mo/monarchs-corporate-sport/) tartan — the named design grouping this sett with its other cloths.

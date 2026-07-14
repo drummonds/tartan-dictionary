@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n9r1g9db19w2db19g9r1n9dr1~x2/">Wilton (Toronto) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n9r1g9db19w2db19g9r1n9dr1~x2/"><img src="/variants/s10/n9r1g9db19w2db19g9r1n9dr1~x2/sett.png" alt="Wilton (Toronto) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilton/">Wilton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilton/"><img src="/variants/s10/n9r1g9db19w2db19g9r1n9dr1~x2/sett.png" alt="Wilton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db9k4lb1k4db9r1~x4~db1406275/">Scottish Nuclear</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db9k4lb1k4db9r1~x4~db1406275/"><img src="/variants/s6/db9k4lb1k4db9r1~x4~db1406275/sett.png" alt="Scottish Nuclear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-nuclear-2/">Scottish Nuclear</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-nuclear-2/"><img src="/variants/s6/db9k4lb1k4db9r1~x4~db1406275/sett.png" alt="Scottish Nuclear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

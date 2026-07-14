@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/">Pernel (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/"><img src="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/sett.png" alt="Pernel (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/pernel/">Pernel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/pernel/"><img src="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/sett.png" alt="Pernel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/justus/"
 - name: "Justus International"
   url: "/tartans/j/ju/justus-international/"
-- name: "Justus International"
-  url: "/setts/dp2y1dp1w1dp1g1dp2/"
+- name: "Justus International Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2y1dp1w1dp1g1dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ju/justus-international/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBGB](/stripes/bgbwbgb/).
 
 Part of the [Justus International](/tartans/j/ju/justus-international/) tartan — the named design grouping this sett with its other cloths.

@@ -12,15 +12,15 @@ crumbs:
 - name: "Choinka"
   url: "/tartans/c/ch/choinka/"
 - name: "Choinka Family (Inverness)"
-  url: "/setts/k6y3k18g20k2db3k2g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6y3k18g20k2db3k2g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/choinka/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKGKKKGKK](/stripes/gkbkgkkkgkk/).
 
 Part of the [Choinka](/tartans/c/ch/choinka/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10624](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10624)
 
@@ -47,9 +47,11 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10624](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10624)
 
 ## Thread count
-K/8 K4 Y6 K4 K14 K18 G40 K4 DB6 K4 G/8
+K/12 Y6 K36 G40 K4 DB6 K4 G/8
 
-One full sett is **216 threads**.
+One full sett is **212 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/8 K4 Y6 K4 K14 K18 G40 K4 DB6 K4 G/8 — 216 threads; it folds to the canonical 212-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -58,7 +60,7 @@ One full sett is **216 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 K4 Y6 K4 K14 K18 G40 K4 DB6 K4 G/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 Y6 K36 G40 K4 DB6 K4 G/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

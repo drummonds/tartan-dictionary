@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r5w4k4db80w4~x2/">Volunteer Lifesaving Corps (Corp.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r5w4k4db80w4~x2/"><img src="/variants/s5/r5w4k4db80w4~x2/sett.png" alt="Volunteer Lifesaving Corps (Corp.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vo/volunteer-lifesaving-corps/">Volunteer Lifesaving Corps</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vo/volunteer-lifesaving-corps/"><img src="/variants/s5/r5w4k4db80w4~x2/sett.png" alt="Volunteer Lifesaving Corps sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

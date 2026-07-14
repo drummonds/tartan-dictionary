@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s81/g2dg2g2dg1lb1y1lb1y1lb1dg18r6o5r9y2r3o9r8lb4y3n2y1r16dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1-hd274d753e4425850/">Beaverbrook (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s81/g2dg2g2dg1lb1y1lb1y1lb1dg18r6o5r9y2r3o9r8lb4y3n2y1r16dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1-hd274d753e4425850/"><img src="/variants/s81/g2dg2g2dg1lb1y1lb1y1lb1dg18r6o5r9y2r3o9r8lb4y3n2y1r16dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1-hd274d753e4425850/sett.png?s=g2dg2g2dg1lb1y1lb1y1lb1dg18r6o5r9y2r3o9r8lb4y3n2y1r16dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1~x2" alt="Beaverbrook (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/beaverbrook/">Beaverbrook</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/beaverbrook/"><img src="/variants/s81/g2dg2g2dg1lb1y1lb1y1lb1dg18r6o5r9y2r3o9r8lb4y3n2y1r16dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1-hd274d753e4425850/sett.png?s=g2dg2g2dg1lb1y1lb1y1lb1dg18r6o5r9y2r3o9r8lb4y3n2y1r16dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1~x2" alt="Beaverbrook sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

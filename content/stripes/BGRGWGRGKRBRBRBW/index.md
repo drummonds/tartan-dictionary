@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/">Rankin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><img src="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/sett.png" alt="Rankin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rankin/">Rankin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rankin/"><img src="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/sett.png" alt="Rankin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

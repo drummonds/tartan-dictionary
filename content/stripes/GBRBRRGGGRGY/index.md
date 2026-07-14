@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/">Berry Tribute</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/"><img src="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/sett.png" alt="Berry Tribute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/berry-tribute-2/">Berry Tribute</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/berry-tribute-2/"><img src="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/sett.png" alt="Berry Tribute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

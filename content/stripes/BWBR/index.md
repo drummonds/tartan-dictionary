@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/n19w1n19r1~x2/">Dunbar of Pitgaveny</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/n19w1n19r1~x2/"><img src="/variants/s4/n19w1n19r1~x2/sett.png" alt="Dunbar of Pitgaveny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunbar-of-pitgaveny/">Dunbar of Pitgaveny</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunbar-of-pitgaveny/"><img src="/variants/s4/n19w1n19r1~x2/sett.png" alt="Dunbar of Pitgaveny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/r10db5lb5n4~x8/">Haggis Hostels</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r10db5lb5n4~x8/"><img src="/variants/s4/r10db5lb5n4~x8/sett.png" alt="Haggis Hostels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/haggis-hostels/">Haggis Hostels</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haggis-hostels/"><img src="/variants/s4/r10db5lb5n4~x8/sett.png" alt="Haggis Hostels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/db1lb1db8r1~x2/">Lochaber #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db1lb1db8r1~x2/"><img src="/variants/s4/db1lb1db8r1~x2/sett.png" alt="Lochaber #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochaber-4/">Lochaber</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochaber-4/"><img src="/variants/s4/db1lb1db8r1~x2/sett.png" alt="Lochaber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

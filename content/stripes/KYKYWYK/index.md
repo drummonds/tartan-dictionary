@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/">Gleneagles Gold (Dalgleish)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><img src="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/sett.png" alt="Gleneagles Gold (Dalgleish) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/gleneagles-gold/">Gleneagles Gold</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneagles-gold/"><img src="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/sett.png" alt="Gleneagles Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

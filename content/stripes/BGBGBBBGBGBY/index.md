@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10ly3~x2/">Capricornica (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10ly3~x2/"><img src="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10ly3~x2/sett.png" alt="Capricornica (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/capricornica/">Capricornica</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/capricornica/"><img src="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10ly3~x2/sett.png" alt="Capricornica sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

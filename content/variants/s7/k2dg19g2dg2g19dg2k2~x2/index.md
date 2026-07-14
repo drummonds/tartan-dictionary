@@ -8,10 +8,10 @@ crumbs:
 - name: "Hunting Kenmore Trade Com."
   url: "/tartans/h/hu/hunting-kenmore-trade-com/"
 - name: "Hunting Kenmore Trade Com. Tartan"
-  url: "/setts/k2dg19g2dg2g19dg2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2dg19g2dg2g19dg2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hunting-kenmore-trade-com/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGGGGK](/stripes/kgggggk/).
 
 Part of the [Hunting Kenmore Trade Com.](/tartans/h/hu/hunting-kenmore-trade-com/) tartan — the named design grouping this sett with its other cloths.

@@ -11,11 +11,11 @@ crumbs:
   url: "/families/cairns-of-finavon/"
 - name: "Cairns of Finavon"
   url: "/tartans/c/ca/cairns-of-finavon/"
-- name: "Cairns of Finavon (Name)"
-  url: "/setts/g16db3g3db3g3db16r15db1dy3db1r15db16g15db3g3db3g15db16r15t1r3t1r15db16g3db3g3db3/"
+- name: "Cairns of Finavon Personal Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16db3g3db3g3db16r15db1dy3db1r15db16g15db3g3db3g15db16r15t1r3t1r15db16g3db3g3db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cairns-of-finavon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBRBRBRBGBGBGBRBGBRBGBGBG](/stripes/bgbgbrbrbrbgbgbgbrbgbrbgbgbg/).
 
 Part of the [Cairns of Finavon](/tartans/c/ca/cairns-of-finavon/) tartan — the named design grouping this sett with its other cloths.

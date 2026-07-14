@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/">Oakhall</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/"><img src="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/sett.png" alt="Oakhall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/oa/oakhall/">Oakhall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/oa/oakhall/"><img src="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/sett.png" alt="Oakhall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

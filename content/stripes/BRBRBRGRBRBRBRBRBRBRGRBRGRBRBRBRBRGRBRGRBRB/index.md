@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s43/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5~x2/">Culloden Unidentified Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s43/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5~x2/"><img src="/variants/s43/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5~x2/sett.png" alt="Culloden Unidentified Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/culloden-unidentified-2/">Culloden Unidentified</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/culloden-unidentified-2/"><img src="/variants/s43/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5~x2/sett.png" alt="Culloden Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

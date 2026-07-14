@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k9g9y2g9k9db9k3/">Campbell Breadalbane</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k9g9y2g9k9db9k3/"><img src="/variants/s7/k9g9y2g9k9db9k3/sett.png" alt="Campbell Breadalbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/k4g4y1g4k4db4k1~x2/">MacKay Coat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k4g4y1g4k4db4k1~x2/"><img src="/variants/s7/k4g4y1g4k4db4k1~x2/sett.png" alt="MacKay Coat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-breadalbane/">Campbell Breadalbane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-breadalbane/"><img src="/variants/s7/k9g9y2g9k9db9k3/sett.png" alt="Campbell Breadalbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackay-coat/">MacKay Coat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackay-coat/"><img src="/variants/s7/k4g4y1g4k4db4k1~x2/sett.png" alt="MacKay Coat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/k6g6y1g6k6dp6k1~x4/">Abercrombie (Wilsons No 2/64)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k6g6y1g6k6dp6k1~x4/"><img src="/variants/s7/k6g6y1g6k6dp6k1~x4/sett.png" alt="Abercrombie (Wilsons No 2/64) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/abercrombie-3/">Abercrombie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/abercrombie-3/"><img src="/variants/s7/k6g6y1g6k6dp6k1~x4/sett.png" alt="Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

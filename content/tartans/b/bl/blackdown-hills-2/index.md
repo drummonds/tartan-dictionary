@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k4dt4dy1dt4dr4db4lr1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbgbbby/">KBGBBBY</a></nav>
 Its design is pattern [KBGBBBY](/stripes/kbgbbby/) — the page of every tartan sharing this colour sequence.
 
 Designed at Coldharbour Mill to celebrate the 1991 designation of the Devon/Somerset Blackdown Hills as an AONB.
@@ -14,8 +17,8 @@ The **Blackdown Hills** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4dt4dy1dt4dr4db4lr1/">Blackdown Hills</a></td><td><code>K/32 DT32 DY8 DT32 DR32 DB32 LR/8</code></td><td>312</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4dt4dy1dt4dr4db4lr1/"><img src="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/sett.png" alt="Blackdown Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/">Blackdown Hills</a></td><td><code>K/32 DT32 DY8 DT32 DR32 DB32 LR/8</code></td><td>312</td><td>1991</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/"><img src="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/sett.png" alt="Blackdown Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -28,6 +31,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/"><circle cx="120.0" cy="212.4" r="4" fill="#3465a4"><title>Game Fair</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.3" cy="216.0" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s5/dr4db14k15dg14y4~x2/"><circle cx="113.3" cy="285.3" r="4" fill="#3465a4"><title>Scots Heritage</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="128.6" cy="259.9" r="4" fill="#3465a4"><title>Isle of Gigha</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="81.6" cy="215.3" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="57.7" cy="234.2" r="4" fill="#3465a4"><title>Williamson</title></circle></a><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="141.5" cy="289.0" r="4" fill="#3465a4"><title>Clark Clerk</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="72.6" cy="265.3" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><circle cx="180.3" cy="244.8" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><a href="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/"><circle cx="145.7" cy="270.1" r="4" fill="#3465a4"><title>Wcwm 1310</title></circle></a><circle cx="115.7" cy="275.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/"><circle cx="120.2" cy="212.2" r="4" fill="#3465a4"><title>Game Fair</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.6" cy="215.9" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s5/dr4db14k15dg14y4~x2/"><circle cx="113.2" cy="285.1" r="4" fill="#3465a4"><title>Scots Heritage</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="128.7" cy="259.8" r="4" fill="#3465a4"><title>Isle of Gigha</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="81.6" cy="215.0" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="57.7" cy="233.9" r="4" fill="#3465a4"><title>Williamson</title></circle></a><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="141.6" cy="288.9" r="4" fill="#3465a4"><title>Clark Clerk</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="72.6" cy="265.1" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><circle cx="180.4" cy="244.6" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><a href="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/"><circle cx="145.8" cy="269.9" r="4" fill="#3465a4"><title>Wcwm 1310</title></circle></a><circle cx="115.6" cy="274.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

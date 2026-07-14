@@ -12,10 +12,10 @@ crumbs:
 - name: "Ettrick"
   url: "/tartans/e/et/ettrick-2/"
 - name: "Ettrick (District)"
-  url: "/setts/k5r26k26r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5r26k26r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/et/ettrick-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKR](/stripes/krkr/).
 
 Part of the [Ettrick](/tartans/e/et/ettrick-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1135](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1900 — Ettrick (District) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1135">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Scottish Tartans Society states: Sample book dated 1900. This sett appears in Paton's collection. The samples are undated (although Scottish Tartans Society notes ascribe this tartan to 'a sample book dated 1900' but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. The design inspiration may well have been the Wallace clan tartan which has a yellow line on black instead of the red shown here. Woven by Lochcarron.</em></li>
-<li>1900 — Ettrick (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1191">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>STS states: Sample book dated 1900. This sett appears in Paton's collection. The samples are undated (although STS notes ascribe this tartan to 'a sample book dated 1900' but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. The design inspiration may well have been the Wallace clan tartan which has a yellow line on black instead of the red shown here. Woven by Lochcarron.</em></li>
+<li>1900 — Ettrick (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1191/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>STS states: Sample book dated 1900. This sett appears in Paton's collection. The samples are undated (although STS notes ascribe this tartan to 'a sample book dated 1900' but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. The design inspiration may well have been the Wallace clan tartan which has a yellow line on black instead of the red shown here. Woven by Lochcarron.</em></li>
 </ul>
 </details>
 

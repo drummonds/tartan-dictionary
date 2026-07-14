@@ -8,10 +8,10 @@ crumbs:
 - name: "McCaig"
   url: "/tartans/m/mc/mccaig/"
 - name: "McCaig (2016)"
-  url: "/setts/r4t11k4t4k4t4k21db21w4db21k21t20k1r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4t11k4t4k4t4k21db21w4db21k21t20k1r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mccaig/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKBKBWBKBKR](/stripes/rbkbkbkbwbkbkr/).
 
 Part of the [McCaig](/tartans/m/mc/mccaig/) tartan — the named design grouping this sett with its other cloths.

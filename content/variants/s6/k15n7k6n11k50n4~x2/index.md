@@ -8,10 +8,10 @@ crumbs:
 - name: "Freedom of Scotland"
   url: "/tartans/f/fr/freedom-of-scotland/"
 - name: "Freedom of Scotland"
-  url: "/setts/k15n7k6n11k50n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k15n7k6n11k50n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/freedom-of-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
 Part of the [Freedom of Scotland](/tartans/f/fr/freedom-of-scotland/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1278](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/08/2003 — Freedom of Scotland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1278">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><br><em>A Solid Sett* tartan (see Dark Island - #5832 (original Scottish Tartans Authority reference) for the first of these innovative departures from conventional tartan design.) The sett is highlighted because of the differing light reflecting qualities of the stitches. Here they are shown in grey so as to be discernible. *This new category of tartan has been given the description of Solid Sett - a solid colour but with a sett still showing.</em></li>
-<li>August 2003 — Freedom of Scotland (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5910">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><br><em>A Solid Sett* tartan (see Dark Island - #5832 for the first of these innovative departures from conventional tartan design.) The sett is highlighted because of the differing light reflecting qualities of the stitches. Here they are shown in grey so as to be discernible. *This new category of tartan has been given the description of Solid Sett - a solid colour but with a sett still showing.</em></li>
+<li>August 2003 — Freedom of Scotland (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5910/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><br><em>A Solid Sett* tartan (see Dark Island - #5832 for the first of these innovative departures from conventional tartan design.) The sett is highlighted because of the differing light reflecting qualities of the stitches. Here they are shown in grey so as to be discernible. *This new category of tartan has been given the description of Solid Sett - a solid colour but with a sett still showing.</em></li>
 </ul>
 </details>
 

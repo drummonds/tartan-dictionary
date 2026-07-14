@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb14db9lb14lo4g3lbi3g3lo4db14lo2w3~x2~lb3203246-lbi3300000/">Bouguet, Adrian (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb14db9lb14lo4g3lbi3g3lo4db14lo2w3~x2~lb3203246-lbi3300000/"><img src="/variants/s11/lb14db9lb14lo4g3lbi3g3lo4db14lo2w3~x2~lb3203246-lbi3300000/sett.png" alt="Bouguet, Adrian (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bouguet-adrian/">Bouguet, Adrian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bouguet-adrian/"><img src="/variants/s11/lb14db9lb14lo4g3lbi3g3lo4db14lo2w3~x2~lb3203246-lbi3300000/sett.png" alt="Bouguet, Adrian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

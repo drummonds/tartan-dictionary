@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Cunningham"
   url: "/clan/cunningham/"
+aliases:
+- "/setts/k11g12w2g12k12dp12r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgwgkbr/">KGWGKBR</a></nav>
 A tartan of [Clan Cunningham](/clan/cunningham/).
 Its design is pattern [KGWGKBR](/stripes/kgwgkbr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Cunningham / Wilson's No 120** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k11g12w2g12k12dp12r3/">Cunningham / Wilson's No 120</a></td><td><code>K/22 G24 W4 G24 K24 DP24 R/6</code></td><td>228</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k11g12w2g12k12dp12r3/"><img src="/variants/s7/k11g12w2g12k12dp12r3~x2/sett.png" alt="Cunningham / Wilson's No 120 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/">Cunningham / Wilson's No 120</a></td><td><code>K/22 G24 W4 G24 K24 DP24 R/6</code></td><td>228</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/"><img src="/variants/s7/k11g12w2g12k12dp12r3~x2/sett.png" alt="Cunningham / Wilson's No 120 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k12g12w2g12k12dp12r3~x2/"><circle cx="90.0" cy="226.9" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6b1~x4/"><circle cx="102.4" cy="227.3" r="4" fill="#3465a4"><title>Wilson's, No 233</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6k1~x4/"><circle cx="129.1" cy="230.7" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/variants/s7/k11g12k2g12k12dp12w3~x2/"><circle cx="119.8" cy="239.2" r="4" fill="#3465a4"><title>Wilson's No 97</title></circle></a><a href="/variants/s7/k6g6y1g6k6dp6k1~x4/"><circle cx="135.4" cy="233.0" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s7/k13g12lb2g12k13dp12k2~x2/"><circle cx="142.2" cy="227.0" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="112.4" cy="229.4" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s6/k3r1g5k3w1dp3~x2/"><circle cx="81.6" cy="229.4" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/"><circle cx="75.3" cy="242.9" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="70.6" cy="217.9" r="4" fill="#3465a4"><title>MacKean Dress</title></circle></a><circle cx="90.9" cy="227.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k12g12w2g12k12dp12r3~x2/"><circle cx="90.2" cy="226.6" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6b1~x4/"><circle cx="102.6" cy="227.1" r="4" fill="#3465a4"><title>Wilson's, No 233</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6k1~x4/"><circle cx="129.4" cy="230.5" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/variants/s7/k11g12k2g12k12dp12w3~x2/"><circle cx="120.1" cy="239.0" r="4" fill="#3465a4"><title>Wilson's No 97</title></circle></a><a href="/variants/s7/k6g6y1g6k6dp6k1~x4/"><circle cx="135.8" cy="232.9" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s7/k13g12lb2g12k13dp12k2~x2/"><circle cx="142.5" cy="226.9" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="112.6" cy="229.2" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s6/k3r1g5k3w1dp3~x2/"><circle cx="81.8" cy="229.2" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/"><circle cx="75.4" cy="242.6" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="70.7" cy="217.6" r="4" fill="#3465a4"><title>MacKean Dress</title></circle></a><circle cx="91.1" cy="226.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

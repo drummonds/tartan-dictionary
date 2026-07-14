@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/">Historic Scotland Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/"><img src="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/sett.png" alt="Historic Scotland Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/historic-scotland-4/">Historic Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/historic-scotland-4/"><img src="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/sett.png" alt="Historic Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

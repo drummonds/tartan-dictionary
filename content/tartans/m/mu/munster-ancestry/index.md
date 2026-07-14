@@ -4,10 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Clan Munster"
-  url: "/clan/munster/"
+aliases:
+- "/setts/n4db48n21db14dy3db6n1y3/"
+- "/setts/n4db48n21db14dy3db6n1ly3/"
 ---
-A tartan of [Clan Munster](/clan/munster/).
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbgbbg/">BBBBGBBG</a></nav>
 Its design is pattern [BBBBGBBG](/stripes/bbbbgbbg/) — the page of every tartan sharing this colour sequence.
 
 The **Munster Ancestry** tartan groups 2 setts — the same named design recorded as different cloths
@@ -16,10 +17,10 @@ The **Munster Ancestry** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n4db48n21db14dy3db6n1y3/">Munster Ancestry</a> ★</td><td><code>N/8 DB96 N42 DB28 DY6 DB12 N2 Y/6</code></td><td>386</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n4db48n21db14dy3db6n1y3/"><img src="/variants/s8/n4db48n21db14dy3db6n1y3~x2/sett.png" alt="Munster Ancestry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/n4db48n21db14dy3db6n1ly3/">(Fashion)</a></td><td><code>N/8 DB96 N42 DB28 DY6 DB12 N2 LY/6</code></td><td>386</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n4db48n21db14dy3db6n1ly3/"><img src="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n4db48n21db14dy3db6n1y3~x2/">Munster Ancestry</a> ★</td><td><code>N/8 DB96 N42 DB28 DY6 DB12 N2 Y/6</code></td><td>386</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n4db48n21db14dy3db6n1y3~x2/"><img src="/variants/s8/n4db48n21db14dy3db6n1y3~x2/sett.png" alt="Munster Ancestry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/">(Fashion)</a></td><td><code>N/8 DB96 N42 DB28 DY6 DB12 N2 LY/6</code></td><td>386</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/"><img src="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db21n2lr1n2db1dr2db1y6~x4/"><circle cx="438.4" cy="155.0" r="4" fill="#3465a4"><title>Blue Rust</title></circle></a><a href="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/"><circle cx="603.0" cy="141.7" r="4" fill="#3465a4"><title>Dallas</title></circle></a><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/"><circle cx="581.4" cy="189.6" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="453.2" cy="147.2" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="404.1" cy="195.6" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/variants/s7/db56ly2dg19ly1dg2ly1db2~x2/"><circle cx="591.8" cy="157.5" r="4" fill="#3465a4"><title>Lewis</title></circle></a><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/"><circle cx="564.7" cy="163.7" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="504.6" cy="192.1" r="4" fill="#3465a4"><title>Dunning Primary</title></circle></a><a href="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/"><circle cx="591.4" cy="124.1" r="4" fill="#3465a4"><title>Cougan Irish</title></circle></a><circle cx="569.4" cy="174.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db21n2lr1n2db1dr2db1y6~x4/"><circle cx="439.2" cy="155.2" r="4" fill="#3465a4"><title>Blue Rust</title></circle></a><a href="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/"><circle cx="604.0" cy="142.1" r="4" fill="#3465a4"><title>Dallas</title></circle></a><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/"><circle cx="582.3" cy="190.0" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="454.1" cy="147.4" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="404.7" cy="195.8" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/variants/s7/db56ly2dg19ly1dg2ly1db2~x2/"><circle cx="592.9" cy="158.0" r="4" fill="#3465a4"><title>Lewis</title></circle></a><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/"><circle cx="565.7" cy="164.1" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.4" cy="192.4" r="4" fill="#3465a4"><title>Dunning Primary</title></circle></a><a href="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/"><circle cx="592.7" cy="124.5" r="4" fill="#3465a4"><title>Cougan Irish</title></circle></a><circle cx="570.4" cy="175.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

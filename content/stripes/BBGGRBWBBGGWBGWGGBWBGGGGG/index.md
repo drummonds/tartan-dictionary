@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14/">Wirth, Iwan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14/"><img src="/variants/s25/do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14/sett.png" alt="Wirth, Iwan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wirth-iwan/">Wirth, Iwan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wirth-iwan/"><img src="/variants/s25/do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14/sett.png" alt="Wirth, Iwan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

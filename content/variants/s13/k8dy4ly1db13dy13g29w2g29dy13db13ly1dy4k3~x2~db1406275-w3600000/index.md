@@ -12,15 +12,15 @@ crumbs:
 - name: "Teviotdale"
   url: "/tartans/t/te/teviotdale/"
 - name: "Teviotdale District Tartan"
-  url: "/setts/k8dy4ly1db13dy13g29w2g29dy13db13ly1dy4k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8dy4ly1db13dy13g29w2g29dy13db13ly1dy4k3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KGYBGGWGGBYGKK](/stripes/kgybggwggbygkk/).
+provenance below. It is one weaving of the [sett](/tartans/t/te/teviotdale/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KKGYBGGW](/stripes/kkgybggw/).
 
 Part of the [Teviotdale](/tartans/t/te/teviotdale/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5136](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5136)
 
@@ -45,9 +45,11 @@ Earliest known date: 01/01/1996 Lochcarron. The colours are representative of th
 </details>
 
 ## Thread count
-K/10 K6 DY8 LY2 DB26 DY26 G58 W4 G58 DY26 DB26 LY2 DY8 K/6
+K/16 DY8 LY2 DB26 DY26 G58 W4 G58 DY26 DB26 LY2 DY8 K/6
 
-One full sett is **516 threads**.
+One full sett is **510 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/10 K6 DY8 LY2 DB26 DY26 G58 W4 G58 DY26 DB26 LY2 DY8 K/6 — 516 threads; it folds to the canonical 510-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **516 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/10 K6 DY8 LY2 DB26 DY26 G58 W4 G58 DY26 DB26 LY2 DY8 K/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/16 DY8 LY2 DB26 DY26 G58 W4 G58 DY26 DB26 LY2 DY8 K/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

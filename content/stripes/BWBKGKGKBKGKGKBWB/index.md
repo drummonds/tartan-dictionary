@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4~x2/">Psychological Operations Regiment</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4~x2/"><img src="/variants/s17/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4~x2/sett.png" alt="Psychological Operations Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/ps/psychological-operations-regiment/">Psychological Operations Regiment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/ps/psychological-operations-regiment/"><img src="/variants/s17/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4~x2/sett.png" alt="Psychological Operations Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

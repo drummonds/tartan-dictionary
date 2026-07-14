@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db43ly5db1ly4db1ly2db7w1db2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbybybyb/">BWBYBYBYB</a></nav>
 Its design is pattern [BWBYBYBYB](/stripes/bwbybybyb/) — the page of every tartan sharing this colour sequence.
 
 The **University of Delaware** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **University of Delaware** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db43ly5db1ly4db1ly2db7w1db2/">University of Delaware</a></td><td><code>DB/86 LY10 DB2 LY8 DB2 LY4 DB14 W2 DB/4</code></td><td>174</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db43ly5db1ly4db1ly2db7w1db2/"><img src="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/sett.png" alt="University of Delaware sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/">University of Delaware</a></td><td><code>DB/86 LY10 DB2 LY8 DB2 LY4 DB14 W2 DB/4</code></td><td>174</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/"><img src="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/sett.png" alt="University of Delaware sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db43y5db1y4db1y2db7w1db2~x2/"><circle cx="626.0" cy="118.6" r="4" fill="#3465a4"><title>University of Delaware Fightin' Blue Hen</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="455.0" cy="95.8" r="4" fill="#3465a4"><title>Ottawa Fire Service</title></circle></a><a href="/variants/s10/db35y1db3y1db3y1db20r6w1r5~x2/"><circle cx="549.5" cy="101.5" r="4" fill="#3465a4"><title>Alpha Chi Sigma Fraternity</title></circle></a><a href="/variants/s10/db3w2db2w3db6y2db26y2db6r2~x2/"><circle cx="471.6" cy="132.2" r="4" fill="#3465a4"><title>Dundee Football Club</title></circle></a><a href="/variants/s8/y4db48y4db3y2db3y3w4/"><circle cx="536.8" cy="136.9" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><a href="/variants/s8/w6y3db3y2db3y4db48y4/"><circle cx="507.5" cy="136.1" r="4" fill="#3465a4"><title>Morris</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.9" cy="156.3" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/"><circle cx="463.4" cy="146.3" r="4" fill="#3465a4"><title>University of North Carolina</title></circle></a><circle cx="602.5" cy="114.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db43y5db1y4db1y2db7w1db2~x2/"><circle cx="626.0" cy="119.2" r="4" fill="#3465a4"><title>University of Delaware Fightin' Blue Hen</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="456.3" cy="96.0" r="4" fill="#3465a4"><title>Ottawa Fire Service</title></circle></a><a href="/variants/s10/db35y1db3y1db3y1db20r6w1r5~x2/"><circle cx="551.0" cy="101.9" r="4" fill="#3465a4"><title>Alpha Chi Sigma Fraternity</title></circle></a><a href="/variants/s10/db3w2db2w3db6y2db26y2db6r2~x2/"><circle cx="472.9" cy="132.4" r="4" fill="#3465a4"><title>Dundee Football Club</title></circle></a><a href="/variants/s8/y4db48y4db3y2db3y3w4/"><circle cx="538.1" cy="137.3" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><a href="/variants/s8/w6y3db3y2db3y4db48y4/"><circle cx="508.8" cy="136.4" r="4" fill="#3465a4"><title>Morris</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="541.1" cy="156.7" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/"><circle cx="464.5" cy="146.6" r="4" fill="#3465a4"><title>University of North Carolina</title></circle></a><circle cx="604.0" cy="115.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

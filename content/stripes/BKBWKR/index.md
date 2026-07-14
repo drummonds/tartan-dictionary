@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r97k18w5dr26k18n14/">Bradley University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r97k18w5dr26k18n14/"><img src="/variants/s6/r97k18w5dr26k18n14/sett.png" alt="Bradley University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bradley-university/">Bradley University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bradley-university/"><img src="/variants/s6/r97k18w5dr26k18n14/sett.png" alt="Bradley University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

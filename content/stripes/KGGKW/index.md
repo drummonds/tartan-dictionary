@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/">Raeside</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><img src="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/sett.png" alt="Raeside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/raeside/">Raeside</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/raeside/"><img src="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/sett.png" alt="Raeside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

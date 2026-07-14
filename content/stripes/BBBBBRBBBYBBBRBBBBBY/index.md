@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/">Griffith of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/"><img src="/variants/s20/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/sett.png" alt="Griffith of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/griffith-of-wales/">Griffith of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/griffith-of-wales/"><img src="/variants/s20/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/sett.png" alt="Griffith of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

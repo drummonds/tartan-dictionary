@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Scouts"
   url: "/tartans/s/sc/scottish-scouts-4/"
 - name: "Scottish Scouts"
-  url: "/setts/n11b2n2b2n2b12dg12b2dg12b12n11b2n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n11b2n2b2n2b12dg12b2dg12b12n11b2n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-scouts-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/).
 
 Part of the [Scottish Scouts](/tartans/s/sc/scottish-scouts-4/) tartan — the named design grouping this sett with its other cloths.

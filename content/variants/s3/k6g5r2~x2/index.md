@@ -10,15 +10,15 @@ crumbs:
 - name: "Glen Lyon"
   url: "/tartans/g/gl/glen-lyon-3/"
 - name: "Glen Lyon #1"
-  url: "/setts/k6g5r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6g5r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGK](/stripes/grgk/).
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-lyon-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGR](/stripes/kgr/).
 
 Part of the [Glen Lyon](/tartans/g/gl/glen-lyon-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1383](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1383)
 
@@ -60,9 +60,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 23
 
 ## Thread count
-K/12 G10 R4 G/10
+K/12 G10 R/4
 
-One full sett is **50 threads**.
+One full sett is **36 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/12 G10 R4 G/10 — 50 threads; it folds to the canonical 36-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -71,7 +73,7 @@ One full sett is **50 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 G10 R4 G/10 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 G10 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

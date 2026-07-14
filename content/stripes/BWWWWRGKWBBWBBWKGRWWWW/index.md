@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/w6lb1w1lb2r2dg2k2w1t2db16w1db16t2w1k2dg2r2lb2w1lb1w6t1~x4/">Arctic (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/w6lb1w1lb2r2dg2k2w1t2db16w1db16t2w1k2dg2r2lb2w1lb1w6t1~x4/"><img src="/variants/s22/w6lb1w1lb2r2dg2k2w1t2db16w1db16t2w1k2dg2r2lb2w1lb1w6t1~x4/sett.png" alt="Arctic (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arctic-2/">Arctic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arctic-2/"><img src="/variants/s22/w6lb1w1lb2r2dg2k2w1t2db16w1db16t2w1k2dg2r2lb2w1lb1w6t1~x4/sett.png" alt="Arctic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

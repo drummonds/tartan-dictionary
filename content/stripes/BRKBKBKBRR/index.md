@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r24o4db6k6db60k40b12k20o3b8/">The KpgM</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r24o4db6k6db60k40b12k20o3b8/"><img src="/variants/s10/r24o4db6k6db60k40b12k20o3b8/sett.png" alt="The KpgM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/the-kpgm/">The KpgM</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/the-kpgm/"><img src="/variants/s10/r24o4db6k6db60k40b12k20o3b8/sett.png" alt="The KpgM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

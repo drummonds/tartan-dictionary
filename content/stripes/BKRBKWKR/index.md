@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r12k2w8k4n16r2k31n2/">Distripress Annual Congress 2012</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r12k2w8k4n16r2k31n2/"><img src="/variants/s8/r12k2w8k4n16r2k31n2/sett.png" alt="Distripress Annual Congress 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/distripress-annual-congress-2012/">Distripress Annual Congress 2012</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/distripress-annual-congress-2012/"><img src="/variants/s8/r12k2w8k4n16r2k31n2/sett.png" alt="Distripress Annual Congress 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

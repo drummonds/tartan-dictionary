@@ -8,10 +8,10 @@ crumbs:
 - name: "Brittish Lions"
   url: "/tartans/b/br/brittish-lions/"
 - name: "Brittish Lions Corporate Tartan"
-  url: "/setts/r70w2r1w4r1k2db9k1y2r1g9w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r70w2r1w4r1k2db9k1y2r1g9w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brittish-lions/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRKBKGRGW](/stripes/rwrwrkbkgrgw/).
 
 Part of the [Brittish Lions](/tartans/b/br/brittish-lions/) tartan — the named design grouping this sett with its other cloths.

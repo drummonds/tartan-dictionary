@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/">MacDonald of Glenaladale Artifact Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"><img src="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/sett.png" alt="MacDonald of Glenaladale Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-glenaladale/">MacDonald of Glenaladale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-glenaladale/"><img src="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/sett.png" alt="MacDonald of Glenaladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

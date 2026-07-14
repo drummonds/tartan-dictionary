@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g21db10k26ly10r1/"
+- "/setts/dg21db10k26ly10r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkyr/">GBKYR</a></nav>
 Its design is pattern [GBKYR](/stripes/gbkyr/) — the page of every tartan sharing this colour sequence.
 
 The **Charles-Carberry** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Charles-Carberry** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g21db10k26ly10r1/">Charles-Carberry</a> ★</td><td><code>G/42 DB20 K52 LY20 R/2</code></td><td>228</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g21db10k26ly10r1/"><img src="/variants/s5/g21db10k26ly10r1~x2/sett.png" alt="Charles-Carberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dg21db10k26ly10r1/">(Personal)</a></td><td><code>DG/42 DB20 K52 LY20 R/2</code></td><td>228</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg21db10k26ly10r1/"><img src="/variants/s5/dg21db10k26ly10r1~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g21db10k26ly10r1~x2/">Charles-Carberry</a> ★</td><td><code>G/42 DB20 K52 LY20 R/2</code></td><td>228</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/g21db10k26ly10r1~x2/"><img src="/variants/s5/g21db10k26ly10r1~x2/sett.png" alt="Charles-Carberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dg21db10k26ly10r1~x2/">(Personal)</a></td><td><code>DG/42 DB20 K52 LY20 R/2</code></td><td>228</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dg21db10k26ly10r1~x2/"><img src="/variants/s5/dg21db10k26ly10r1~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="198.0" cy="191.6" r="4" fill="#3465a4"><title>Landels</title></circle></a><a href="/variants/s4/db20k20g20r1~x2/"><circle cx="173.4" cy="217.0" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="217.3" cy="174.9" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="175.6" cy="178.8" r="4" fill="#3465a4"><title>Oakley</title></circle></a><a href="/variants/s5/k20db50g50r3k3~x2/"><circle cx="214.0" cy="181.2" r="4" fill="#3465a4"><title>Louisville Spalding</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="131.7" cy="170.2" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="188.6" cy="193.1" r="4" fill="#3465a4"><title>Cultoquhey</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="193.6" cy="194.6" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s4/k11dp4lb1g9~x4/"><circle cx="197.4" cy="218.4" r="4" fill="#3465a4"><title>Wilson's, No 228</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="195.2" cy="146.6" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><circle cx="155.2" cy="168.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="198.4" cy="191.5" r="4" fill="#3465a4"><title>Landels</title></circle></a><a href="/variants/s4/db20k20g20r1~x2/"><circle cx="173.8" cy="217.0" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="217.8" cy="174.8" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="176.0" cy="178.7" r="4" fill="#3465a4"><title>Oakley</title></circle></a><a href="/variants/s5/k20db50g50r3k3~x2/"><circle cx="214.6" cy="181.2" r="4" fill="#3465a4"><title>Louisville Spalding</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="132.0" cy="170.0" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="189.0" cy="193.0" r="4" fill="#3465a4"><title>Cultoquhey</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="194.0" cy="194.6" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s4/k11dp4lb1g9~x4/"><circle cx="197.8" cy="218.4" r="4" fill="#3465a4"><title>Wilson's, No 228</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="195.8" cy="146.5" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><circle cx="155.6" cy="168.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

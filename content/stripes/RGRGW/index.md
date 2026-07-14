@@ -28,15 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r39g6r2g3w1~x2/">MacGregor #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r39g6r2g3w1~x2/"><img src="/variants/s5/r39g6r2g3w1~x2/sett.png" alt="MacGregor #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r2dg1r1dg10w1~x4/">Welsh National District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2dg1r1dg10w1~x4/"><img src="/variants/s5/r2dg1r1dg10w1~x4/sett.png" alt="Welsh National District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r2g1r1g11w1~x8/">Welsh, National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2g1r1g11w1~x8/"><img src="/variants/s5/r2g1r1g11w1~x8/sett.png" alt="Welsh, National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-2/">MacGregor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-2/"><img src="/variants/s5/r39g6r2g3w1~x2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/welsh-national-2/">Welsh National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/welsh-national-2/"><img src="/variants/s5/r8dg3r4dg44w4~x2/sett.png" alt="Welsh National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/lb11y2r1y2r1~x4/">Carlisle, Ancient</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lb11y2r1y2r1~x4/"><img src="/variants/s5/lb11y2r1y2r1~x4/sett.png" alt="Carlisle, Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carlisle-3/">Carlisle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carlisle-3/"><img src="/variants/s5/lb11y2r1y2r1~x4/sett.png" alt="Carlisle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

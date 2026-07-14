@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g4r5g31r5g31ly5g4ly27lyi3~x2~ly2503076-lyi3407090/">Campbell &amp; Co (Beauly) (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g4r5g31r5g31ly5g4ly27lyi3~x2~ly2503076-lyi3407090/"><img src="/variants/s9/g4r5g31r5g31ly5g4ly27lyi3~x2~ly2503076-lyi3407090/sett.png" alt="Campbell &amp; Co (Beauly) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-co/">Campbell &amp; Co</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-co/"><img src="/variants/s9/g4r5g31r5g31ly5g4ly27lyi3~x2~ly2503076-lyi3407090/sett.png" alt="Campbell &amp; Co sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

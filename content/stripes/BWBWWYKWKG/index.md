@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr2w1dr1w13lb12ly2k2lb2k1y1~x4/">Jong Nederland Born Union (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr2w1dr1w13lb12ly2k2lb2k1y1~x4/"><img src="/variants/s10/dr2w1dr1w13lb12ly2k2lb2k1y1~x4/sett.png" alt="Jong Nederland Born Union (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jong-nederland-born-union/">Jong Nederland Born Union</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jong-nederland-born-union/"><img src="/variants/s10/dr2w1dr1w13lb12ly2k2lb2k1y1~x4/sett.png" alt="Jong Nederland Born Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,15 +28,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s2/k1db1~x100/">Buffalo Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/k1db1~x100/"><img src="/variants/s2/k1db1~x100/sett.png" alt="Buffalo Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/db12k1~x10/">Staines</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/db12k1~x10/"><img src="/variants/s2/db12k1~x10/sett.png" alt="Staines sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/db2k1~x4/">Tartan Army</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/db2k1~x4/"><img src="/variants/s2/db2k1~x4/sett.png" alt="Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buffalo/">Buffalo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buffalo/"><img src="/variants/s2/k1db1~x100/sett.png" alt="Buffalo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/staines/">Staines</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/staines/"><img src="/variants/s2/db12k1~x10/sett.png" alt="Staines sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tartan-army-2/">Tartan Army</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-army-2/"><img src="/variants/s2/db2k1~x4/sett.png" alt="Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s2/k20dt1~x6/">Black Shadow (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/k20dt1~x6/"><img src="/variants/s2/k20dt1~x6/sett.png" alt="Black Shadow (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-shadow/">Black Shadow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-shadow/"><img src="/variants/s2/k20dt1~x6/sett.png" alt="Black Shadow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

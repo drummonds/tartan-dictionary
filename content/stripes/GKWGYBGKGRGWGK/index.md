@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/">Mauchline</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/"><img src="/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/sett.png" alt="Mauchline sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mauchline/">Mauchline</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mauchline/"><img src="/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/sett.png" alt="Mauchline sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

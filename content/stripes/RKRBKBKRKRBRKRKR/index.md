@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/">(5) Ruxton hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/"><img src="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/sett.png" alt="(5) Ruxton hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/ruxton-hunting-2/">Ruxton hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/ruxton-hunting-2/"><img src="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/sett.png" alt="Ruxton hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

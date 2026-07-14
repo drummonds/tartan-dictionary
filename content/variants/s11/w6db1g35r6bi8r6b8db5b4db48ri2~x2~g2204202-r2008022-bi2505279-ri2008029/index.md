@@ -12,10 +12,10 @@ crumbs:
 - name: "Coldstream"
   url: "/tartans/c/co/coldstream/"
 - name: "Coldstream"
-  url: "/setts/w6db1g35r6bi8r6b8db5b4db48ri2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w6db1g35r6bi8r6b8db5b4db48ri2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/coldstream/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBBRBRGBW](/stripes/rbbbbrbrgbw/).
 
 Part of the [Coldstream](/tartans/c/co/coldstream/) tartan — the named design grouping this sett with its other cloths.

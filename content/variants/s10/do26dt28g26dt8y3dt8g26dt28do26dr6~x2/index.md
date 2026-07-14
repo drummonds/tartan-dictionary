@@ -8,10 +8,10 @@ crumbs:
 - name: "House of Bruar"
   url: "/tartans/h/ho/house-of-bruar/"
 - name: "House of Bruar"
-  url: "/setts/do26dt28g26dt8y3dt8g26dt28do26dr6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do26dt28g26dt8y3dt8g26dt28do26dr6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/house-of-bruar/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBGBB](/stripes/bbbgbgbgbb/).
 
 Part of the [House of Bruar](/tartans/h/ho/house-of-bruar/) tartan — the named design grouping this sett with its other cloths.

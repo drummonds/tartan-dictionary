@@ -12,10 +12,10 @@ crumbs:
 - name: "MacLagan of Glenquiech"
   url: "/tartans/m/ma/maclagan-of-glenquiech-2/"
 - name: "MacLagan of Glenquiech"
-  url: "/setts/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclagan-of-glenquiech-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBKGRKYKRGKBRBRBR](/stripes/rbrbrbkgrkykrgkbrbrbr/).
 
 Part of the [MacLagan of Glenquiech](/tartans/m/ma/maclagan-of-glenquiech-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/">Tipperary County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><img src="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/sett.png" alt="Tipperary County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tipperary-county-crest/">Tipperary County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tipperary-county-crest/"><img src="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/sett.png" alt="Tipperary County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

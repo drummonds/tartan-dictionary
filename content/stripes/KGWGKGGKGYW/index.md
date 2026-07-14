@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k1gi3w3g15k1g3gi2k1gi1lg1w1~x2~gi2408144-g2007139/">University of North Texas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k1gi3w3g15k1g3gi2k1gi1lg1w1~x2~gi2408144-g2007139/"><img src="/variants/s11/k1gi3w3g15k1g3gi2k1gi1lg1w1~x2~gi2408144-g2007139/sett.png" alt="University of North Texas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/university-of-north-texas-2/">University of North Texas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/university-of-north-texas-2/"><img src="/variants/s11/k1gi3w3g15k1g3gi2k1gi1lg1w1~x2~gi2408144-g2007139/sett.png" alt="University of North Texas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

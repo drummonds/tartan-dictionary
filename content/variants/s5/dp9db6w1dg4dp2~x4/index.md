@@ -8,10 +8,10 @@ crumbs:
 - name: "Cathro"
   url: "/tartans/c/ca/cathro/"
 - name: "Cathro"
-  url: "/setts/dp9db6w1dg4dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp9db6w1dg4dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cathro/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWGB](/stripes/bbwgb/).
 
 Part of the [Cathro](/tartans/c/ca/cathro/) tartan — the named design grouping this sett with its other cloths.

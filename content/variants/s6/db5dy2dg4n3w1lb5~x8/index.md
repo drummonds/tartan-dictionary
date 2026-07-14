@@ -8,10 +8,10 @@ crumbs:
 - name: "Heriot Bay Local"
   url: "/tartans/h/he/heriot-bay-local/"
 - name: "Heriot Bay Local (Quadra Island, British Columbia)"
-  url: "/setts/db5dy2dg4n3w1lb5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5dy2dg4n3w1lb5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/heriot-bay-local/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBWW](/stripes/bggbww/).
 
 Part of the [Heriot Bay Local](/tartans/h/he/heriot-bay-local/) tartan — the named design grouping this sett with its other cloths.

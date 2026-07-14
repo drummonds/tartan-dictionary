@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/">MacLeod Snuffbox - 1829 (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/"><img src="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/sett.png" alt="MacLeod Snuffbox - 1829 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-snuffbox/">MacLeod Snuffbox</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-snuffbox/"><img src="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/sett.png" alt="MacLeod Snuffbox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

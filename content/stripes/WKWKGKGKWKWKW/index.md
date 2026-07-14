@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/">Campbell (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/"><img src="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/sett.png" alt="Campbell (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/">Sutherland (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/"><img src="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/sett.png" alt="Sutherland (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-4/">Campbell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-4/"><img src="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/sett.png" alt="Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/sutherland/">Sutherland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sutherland/"><img src="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/sett.png" alt="Sutherland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

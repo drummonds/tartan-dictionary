@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dp2y1dp1w1dp1g1dp2/">Justus International</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dp2y1dp1w1dp1g1dp2/"><img src="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/sett.png" alt="Justus International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/">Justus International (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/"><img src="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/sett.png" alt="Justus International (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/justus-international/">Justus International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/justus-international/"><img src="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/sett.png" alt="Justus International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/db1g12db4lb1db4g4db1~x4/">St. Dennis &amp; Cranley School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db1g12db4lb1db4g4db1~x4/"><img src="/variants/s7/db1g12db4lb1db4g4db1~x4/sett.png" alt="St. Dennis &amp; Cranley School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-dennis-cranley/">St. Dennis &amp; Cranley</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-dennis-cranley/"><img src="/variants/s7/db1g12db4lb1db4g4db1~x4/sett.png" alt="St. Dennis &amp; Cranley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

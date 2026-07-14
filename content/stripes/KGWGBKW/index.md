@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/">St. Francis Xavier University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><img src="/variants/s7/k3y1w9y1db9k3lb1~x4/sett.png" alt="St. Francis Xavier University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-francis-xavier-university/">St. Francis Xavier University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-francis-xavier-university/"><img src="/variants/s7/k3y1w9y1db9k3lb1~x4/sett.png" alt="St. Francis Xavier University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

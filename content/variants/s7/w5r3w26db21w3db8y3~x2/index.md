@@ -10,10 +10,10 @@ crumbs:
 - name: "MacPherson Blue/White"
   url: "/tartans/m/ma/macpherson-blue-white/"
 - name: "MacPherson Blue/White Clan Tartan"
-  url: "/setts/w5r3w26db21w3db8y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5r3w26db21w3db8y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macpherson-blue-white/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBWRW](/stripes/gbwbwrw/).
 
 Part of the [MacPherson Blue/White](/tartans/m/ma/macpherson-blue-white/) tartan — the named design grouping this sett with its other cloths.

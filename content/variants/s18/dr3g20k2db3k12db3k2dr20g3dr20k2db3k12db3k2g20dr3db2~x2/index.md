@@ -8,10 +8,10 @@ crumbs:
 - name: "Matthew Gloag"
   url: "/tartans/m/ma/matthew-gloag/"
 - name: "Matthew Gloag Corporate Tartan"
-  url: "/setts/dr3g20k2db3k12db3k2dr20g3dr20k2db3k12db3k2g20dr3db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3g20k2db3k12db3k2dr20g3dr20k2db3k12db3k2g20dr3db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/matthew-gloag/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGKBKBKBGBKBKBKGB](/stripes/bbgkbkbkbgbkbkbkgb/).
 
 Part of the [Matthew Gloag](/tartans/m/ma/matthew-gloag/) tartan — the named design grouping this sett with its other cloths.

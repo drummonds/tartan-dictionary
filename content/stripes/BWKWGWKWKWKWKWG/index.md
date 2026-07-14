@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dp1w1k1w1g1w1k1w1k1w1k1w1k1w1g1~x8/">Halliday (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dp1w1k1w1g1w1k1w1k1w1k1w1k1w1g1~x8/"><img src="/variants/s15/dp1w1k1w1g1w1k1w1k1w1k1w1k1w1g1~x8/sett.png" alt="Halliday (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/halliday/">Halliday</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/halliday/"><img src="/variants/s15/dp1w1k1w1g1w1k1w1k1w1k1w1k1w1g1~x8/sett.png" alt="Halliday sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

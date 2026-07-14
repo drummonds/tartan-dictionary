@@ -8,10 +8,10 @@ crumbs:
 - name: "Episcopal Clergy"
   url: "/tartans/e/ep/episcopal-clergy/"
 - name: "Episcopal Clergy"
-  url: "/setts/k1dr1dg7k8w1k8dr1dg2dr1dg4dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1dr1dg7k8w1k8dr1dg2dr1dg4dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ep/episcopal-clergy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKWKGBK](/stripes/bgbgbkwkgbk/).
 
 Part of the [Episcopal Clergy](/tartans/e/ep/episcopal-clergy/) tartan — the named design grouping this sett with its other cloths.

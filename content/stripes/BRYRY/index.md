@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/ly6r1ly4r4db2~x5/">Sands-Pingot (Name?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/ly6r1ly4r4db2~x5/"><img src="/variants/s5/ly6r1ly4r4db2~x5/sett.png" alt="Sands-Pingot (Name?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sands-pingot/">Sands-Pingot</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sands-pingot/"><img src="/variants/s5/ly6r1ly4r4db2~x5/sett.png" alt="Sands-Pingot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

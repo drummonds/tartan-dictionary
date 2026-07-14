@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb5k2lb17dbi3lb3db22lb3g22lb3dbi3lb27k2r4~x2~dbi1604274-db0805267/">Leith</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb5k2lb17dbi3lb3db22lb3g22lb3dbi3lb27k2r4~x2~dbi1604274-db0805267/"><img src="/variants/s13/lb5k2lb17dbi3lb3db22lb3g22lb3dbi3lb27k2r4~x2~dbi1604274-db0805267/sett.png" alt="Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leith-3/">Leith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leith-3/"><img src="/variants/s13/lb5k2lb17dbi3lb3db22lb3g22lb3dbi3lb27k2r4~x2~dbi1604274-db0805267/sett.png" alt="Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

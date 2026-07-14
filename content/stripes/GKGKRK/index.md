@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g32k6g4k8r1k2/">Fife, Duke Of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g32k6g4k8r1k2/"><img src="/variants/s6/g32k6g4k8r1k2~x2/sett.png" alt="Fife, Duke Of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fife-2/">Fife</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fife-2/"><img src="/variants/s6/g32k6g4k8r1k2~x2/sett.png" alt="Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

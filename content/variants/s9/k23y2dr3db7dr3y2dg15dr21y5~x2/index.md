@@ -8,10 +8,10 @@ crumbs:
 - name: "Land's End"
   url: "/tartans/l/la/land-s-end-5/"
 - name: "Land's End (Unnamed Maroon)"
-  url: "/setts/k23y2dr3db7dr3y2dg15dr21y5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k23y2dr3db7dr3y2dg15dr21y5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/land-s-end-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGBBBGK](/stripes/gbggbbbgk/).
 
 Part of the [Land's End](/tartans/l/la/land-s-end-5/) tartan — the named design grouping this sett with its other cloths.

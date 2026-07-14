@@ -12,15 +12,15 @@ crumbs:
 - name: "Hughes"
   url: "/tartans/h/hu/hughes-3/"
 - name: "Hughes (USA) (Personal)"
-  url: "/setts/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hughes-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBKKBBKBBKKBBBK](/stripes/bkbbbkkbbkbbkkbbbk/).
 
 Part of the [Hughes](/tartans/h/hu/hughes-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1780](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1780)
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Kiltwalk"
   url: "/tartans/k/ki/kiltwalk/"
 - name: "Kiltwalk"
-  url: "/setts/y8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kiltwalk/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRBRBRBRBRBWW](/stripes/gwrbrbrbrbrbww/).
 
 Part of the [Kiltwalk](/tartans/k/ki/kiltwalk/) tartan — the named design grouping this sett with its other cloths.

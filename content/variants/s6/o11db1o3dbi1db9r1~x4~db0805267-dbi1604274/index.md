@@ -12,10 +12,10 @@ crumbs:
 - name: "Dege, of Saville Row"
   url: "/tartans/d/de/dege-of-saville-row-2/"
 - name: "Dege, of Saville Row"
-  url: "/setts/o11db1o3dbi1db9r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o11db1o3dbi1db9r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/dege-of-saville-row-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBRBR](/stripes/rbbrbr/).
 
 Part of the [Dege, of Saville Row](/tartans/d/de/dege-of-saville-row-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db9t2db2y1t7db2r1t4~x4/">Mercer, Charles</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db9t2db2y1t7db2r1t4~x4/"><img src="/variants/s8/db9t2db2y1t7db2r1t4~x4/sett.png" alt="Mercer, Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/mercer/">Mercer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/mercer/"><img src="/variants/s8/db9t2db2y1t7db2r1t4~x4/sett.png" alt="Mercer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

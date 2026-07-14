@@ -8,10 +8,10 @@ crumbs:
 - name: "Midnight Sunrise"
   url: "/tartans/m/mi/midnight-sunrise/"
 - name: "Midnight Sunrise"
-  url: "/setts/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/midnight-sunrise/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBBBWKBWBBWBBY](/stripes/bbkbbbwkbwbbwbby/).
 
 Part of the [Midnight Sunrise](/tartans/m/mi/midnight-sunrise/) tartan — the named design grouping this sett with its other cloths.

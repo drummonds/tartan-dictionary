@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/y7ri30dr4ri8dr4r12ri6r12ri28dr4ri8dr8ri8dr4~ri2109032-r1807033/">Kinloch Anderson Rowanberry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/y7ri30dr4ri8dr4r12ri6r12ri28dr4ri8dr8ri8dr4~ri2109032-r1807033/"><img src="/variants/s14/y7ri30dr4ri8dr4r12ri6r12ri28dr4ri8dr8ri8dr4~ri2109032-r1807033/sett.png" alt="Kinloch Anderson Rowanberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinloch-anderson-rowanberry-2/">Kinloch Anderson Rowanberry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinloch-anderson-rowanberry-2/"><img src="/variants/s14/y7ri30dr4ri8dr4r12ri6r12ri28dr4ri8dr8ri8dr4~ri2109032-r1807033/sett.png" alt="Kinloch Anderson Rowanberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

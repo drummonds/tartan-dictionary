@@ -8,15 +8,15 @@ crumbs:
 - name: "Leeds, University of"
   url: "/tartans/l/le/leeds-university-of/"
 - name: "Leeds, University of (Dance) #1"
-  url: "/setts/g34r4g4r4g4r12g20w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g34r4g4r4g4r12g20w5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGRGRGWGRGRGR](/stripes/grgrgrgwgrgrgr/).
+provenance below. It is one weaving of the [sett](/tartans/l/le/leeds-university-of/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGRGRGW](/stripes/grgrgrgw/).
 
 Part of the [Leeds, University of](/tartans/l/le/leeds-university-of/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2082](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2082)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2082](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1987 — Leeds, University of (Dance) #1 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2082">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Said (October 2007 - Brian Wilton speaking to an Iain Lambie) that it was designed by Duncan Snowdon of the University to 'show off the new automatic loom's capabilities.' Colours were those of the University. Woven by Lochcarron. Originally understood to have been the University tartan, we have now been given to understand that this is tartan of the Scottish Country Dance Club of the University of Leeds. Sample in Scottish Tartans Authority Johnston Collection.</em></li>
-<li>pre 1987 — Leeds, University of (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=980">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Said (October 2007 - BW speaking to an Iain Lambie) that it was designed by Duncan Snowdon of the University to 'show off the new automatic loom's capabilities." Colours were those of the University. Woven by Lochcarron. Originally understood to have been the University tartan, we have now been given to understand that this is tartan of the Scottish Country Dance Club of the University of Leeds. Sample in STA Johnston Collection.</em></li>
+<li>pre 1987 — Leeds, University of (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/980/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Said (October 2007 - BW speaking to an Iain Lambie) that it was designed by Duncan Snowdon of the University to 'show off the new automatic loom's capabilities." Colours were those of the University. Woven by Lochcarron. Originally understood to have been the University tartan, we have now been given to understand that this is tartan of the Scottish Country Dance Club of the University of Leeds. Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 980
 
 ## Thread count
-G/68 R8 G8 R8 G8 R24 G40 W10 G40 R24 G8 R8 G8 R/8
+G/68 R8 G8 R8 G8 R24 G40 W/10
 
-One full sett is **464 threads**.
+One full sett is **270 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/68 R8 G8 R8 G8 R24 G40 W10 G40 R24 G8 R8 G8 R/8 — 464 threads; it folds to the canonical 270-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **464 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/68 R8 G8 R8 G8 R24 G40 W10 G40 R24 G8 R8 G8 R/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/68 R8 G8 R8 G8 R24 G40 W/10 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Penman"
   url: "/tartans/p/pe/penman/"
 - name: "Penman Clan Tartan"
-  url: "/setts/n11db6g6y1db2y1g6db6n36k1r3k1g5db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n11db6g6y1db2y1g6db6n36k1r3k1g5db5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/penman/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGGBGGBBKRKGB](/stripes/bbggbggbbkrkgb/).
 
 Part of the [Penman](/tartans/p/pe/penman/) tartan — the named design grouping this sett with its other cloths.

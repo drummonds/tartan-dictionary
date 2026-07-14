@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/">Isle of Skye (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/"><img src="/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/sett.png" alt="Isle of Skye (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/isle-of-skye-5/">Isle of Skye</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-skye-5/"><img src="/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/sett.png" alt="Isle of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

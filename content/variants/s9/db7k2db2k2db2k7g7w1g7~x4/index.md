@@ -12,10 +12,10 @@ crumbs:
 - name: "Abercrombie"
   url: "/tartans/a/ab/abercrombie/"
 - name: "Abercrombie"
-  url: "/setts/db7k2db2k2db2k7g7w1g7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db7k2db2k2db2k7g7w1g7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ab/abercrombie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWG](/stripes/bkbkbkgwg/).
 
 Part of the [Abercrombie](/tartans/a/ab/abercrombie/) tartan — the named design grouping this sett with its other cloths.

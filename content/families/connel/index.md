@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/c/co/connel-2/">Connel</a> ★</td><td>1888</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/connel-2/"><img src="/variants/s6/r8k8y1k8r8w1~x4/sett.png" alt="Connel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/co/connel/">Connel</a></td><td>1888</td><td>1</td><td>2</td><td>2.00</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/connel/"><img src="/variants/s4/y1k8r8w1~x2/sett.png" alt="Connel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/connel/"><img src="/variants/s4/y1k8r8w1~x4/sett.png" alt="Connel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dp2y1lb42lo2lb6lr1r1lr1g4lo4lr1y1dp1~x2/">Kerr of Ardgowan Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dp2y1lb42lo2lb6lr1r1lr1g4lo4lr1y1dp1~x2/"><img src="/variants/s13/dp2y1lb42lo2lb6lr1r1lr1g4lo4lr1y1dp1~x2/sett.png" alt="Kerr of Ardgowan Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kerr-of-ardgowan-dress/">Kerr of Ardgowan Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kerr-of-ardgowan-dress/"><img src="/variants/s13/dp2y1lb42lo2lb6lr1r1lr1g4lo4lr1y1dp1~x2/sett.png" alt="Kerr of Ardgowan Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

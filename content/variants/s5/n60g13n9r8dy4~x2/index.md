@@ -12,10 +12,10 @@ crumbs:
 - name: "Ballantyne"
   url: "/tartans/b/ba/ballantyne/"
 - name: "Ballantyne Personal Tartan"
-  url: "/setts/n60g13n9r8dy4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n60g13n9r8dy4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/ballantyne/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRG](/stripes/bgbrg/).
 
 Part of the [Ballantyne](/tartans/b/ba/ballantyne/) tartan — the named design grouping this sett with its other cloths.

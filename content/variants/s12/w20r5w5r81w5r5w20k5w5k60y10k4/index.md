@@ -8,10 +8,10 @@ crumbs:
 - name: "Fish Hoek High School"
   url: "/tartans/f/fi/fish-hoek-high-school/"
 - name: "Fish Hoek High School"
-  url: "/setts/w20r5w5r81w5r5w20k5w5k60y10k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w20r5w5r81w5r5w20k5w5k60y10k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fi/fish-hoek-high-school/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKWKWRWRWRW](/stripes/kgkwkwrwrwrw/).
 
 Part of the [Fish Hoek High School](/tartans/f/fi/fish-hoek-high-school/) tartan — the named design grouping this sett with its other cloths.

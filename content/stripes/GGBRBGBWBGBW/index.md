@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/y9g7db3r28db4g7db5lb4db5dg7db3w6~x2~g1903114-dg1806142/">Mayo County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/y9g7db3r28db4g7db5lb4db5dg7db3w6~x2~g1903114-dg1806142/"><img src="/variants/s12/y9g7db3r28db4g7db5lb4db5dg7db3w6~x2~g1903114-dg1806142/sett.png" alt="Mayo County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mayo-county-crest/">Mayo County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mayo-county-crest/"><img src="/variants/s12/y9g7db3r28db4g7db5lb4db5dg7db3w6~x2~g1903114-dg1806142/sett.png" alt="Mayo County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g1w1g39r2w3b13w3dy2r1dy2w1~x2/">Schuster (Bavaria) (Personal), Benedikt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g1w1g39r2w3b13w3dy2r1dy2w1~x2/"><img src="/variants/s11/g1w1g39r2w3b13w3dy2r1dy2w1~x2/sett.png" alt="Schuster (Bavaria) (Personal), Benedikt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/schuster-benedikt/">Schuster , Benedikt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/schuster-benedikt/"><img src="/variants/s11/g1w1g39r2w3b13w3dy2r1dy2w1~x2/sett.png" alt="Schuster , Benedikt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

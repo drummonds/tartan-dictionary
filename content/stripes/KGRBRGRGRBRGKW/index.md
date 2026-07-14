@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/">MacGuire (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><img src="/variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/sett.png" alt="MacGuire (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/">MacGuire (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><img src="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/sett.png" alt="MacGuire (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macguire-2/">MacGuire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macguire-2/"><img src="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/sett.png" alt="MacGuire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Devon Original"
   url: "/tartans/d/de/devon-original/"
 - name: "Devon Original District Tartan"
-  url: "/setts/n5g4w1g4o4dg4y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n5g4w1g4o4dg4y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/devon-original/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGRGG](/stripes/bgwgrgg/).
 
 Part of the [Devon Original](/tartans/d/de/devon-original/) tartan — the named design grouping this sett with its other cloths.

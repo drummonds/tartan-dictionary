@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/">Cunard o' the Clyde</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><img src="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/sett.png" alt="Cunard o' the Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cunard-o-the-clyde/">Cunard O' The Clyde</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cunard-o-the-clyde/"><img src="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/sett.png" alt="Cunard O' The Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

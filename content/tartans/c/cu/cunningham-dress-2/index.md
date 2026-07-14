@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/cunningham/"
 - name: "Cunningham"
   url: "/families/cunningham/"
+aliases:
+- "/setts/w5r2w34r34k2r2db4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brkrwrw/">BRKRWRW</a></nav>
 A tartan of the [Cunningham](/families/cunningham/) family.
 Its design is pattern [BRKRWRW](/stripes/brkrwrw/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **Cunningham Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w5r2w34r34k2r2db4/">Cunningham Dress</a></td><td><code>W/10 R4 W68 R68 K4 R4 DB/8</code></td><td>314</td><td>~1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w5r2w34r34k2r2db4/"><img src="/variants/s7/w5r2w34r34k2r2db4~x2/sett.png" alt="Cunningham Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w5r2w34r34k2r2db4~x2/">Cunningham Dress</a></td><td><code>W/10 R4 W68 R68 K4 R4 DB/8</code></td><td>314</td><td>~1980</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w5r2w34r34k2r2db4~x2/"><img src="/variants/s7/w5r2w34r34k2r2db4~x2/sett.png" alt="Cunningham Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -39,6 +42,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w5r2w34r34k2r2y4~x2/"><circle cx="273.3" cy="129.4" r="4" fill="#3465a4"><title>Cunningham Burgandy Dress</title></circle></a><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="295.5" cy="106.4" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><a href="/variants/s6/w52r22w6r8k1db3~x2/"><circle cx="379.7" cy="95.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="285.0" cy="123.8" r="4" fill="#3465a4"><title>Bundy, Dress</title></circle></a><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="293.6" cy="187.0" r="4" fill="#3465a4"><title>Ailsa Pink</title></circle></a><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><circle cx="263.7" cy="166.6" r="4" fill="#3465a4"><title>MacPherson Dress Burgandy</title></circle></a><a href="/variants/s7/w5k2w30r24w3r8db3~x2/"><circle cx="278.4" cy="153.8" r="4" fill="#3465a4"><title>Arduaine</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="245.5" cy="162.9" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy</title></circle></a><a href="/variants/s6/k2w28r13w2r13w2~x2/"><circle cx="315.6" cy="176.7" r="4" fill="#3465a4"><title>Buchanan 4</title></circle></a><a href="/variants/s7/k1r8g1r1w8r1k1~x6/"><circle cx="211.2" cy="155.4" r="4" fill="#3465a4"><title>Cameron Hose</title></circle></a><circle cx="268.7" cy="127.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w5r2w34r34k2r2y4~x2/"><circle cx="274.0" cy="129.2" r="4" fill="#3465a4"><title>Cunningham Burgandy Dress</title></circle></a><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="296.3" cy="106.3" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><a href="/variants/s6/w52r22w6r8k1db3~x2/"><circle cx="380.8" cy="95.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="285.8" cy="123.7" r="4" fill="#3465a4"><title>Bundy, Dress</title></circle></a><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="294.3" cy="186.9" r="4" fill="#3465a4"><title>Ailsa Pink</title></circle></a><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><circle cx="264.3" cy="166.4" r="4" fill="#3465a4"><title>MacPherson Dress Burgandy</title></circle></a><a href="/variants/s7/w5k2w30r24w3r8db3~x2/"><circle cx="279.1" cy="153.7" r="4" fill="#3465a4"><title>Arduaine</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="162.8" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy</title></circle></a><a href="/variants/s6/k2w28r13w2r13w2~x2/"><circle cx="316.3" cy="176.7" r="4" fill="#3465a4"><title>Buchanan 4</title></circle></a><a href="/variants/s7/k1r8g1r1w8r1k1~x6/"><circle cx="211.8" cy="155.2" r="4" fill="#3465a4"><title>Cameron Hose</title></circle></a><circle cx="269.4" cy="127.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

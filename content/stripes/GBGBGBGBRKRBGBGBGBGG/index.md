@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/">Murphy and his Gang (Phoenix Arizona) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/"><img src="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/sett.png" alt="Murphy and his Gang (Phoenix Arizona) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murphy-and-his-gang/">Murphy and his Gang</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murphy-and-his-gang/"><img src="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/sett.png" alt="Murphy and his Gang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

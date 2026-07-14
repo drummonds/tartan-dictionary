@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/">Enable (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/"><img src="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/sett.png" alt="Enable (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/en/enable/">Enable</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/en/enable/"><img src="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/sett.png" alt="Enable sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

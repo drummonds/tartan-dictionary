@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/">Cornish Brewery, Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/"><img src="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/sett.png" alt="Cornish Brewery, Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cornish-brewery-2/">Cornish Brewery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-brewery-2/"><img src="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/sett.png" alt="Cornish Brewery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

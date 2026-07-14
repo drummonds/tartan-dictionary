@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k12dr8ly4k8dy6dr8k22db1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbgkybk/">BKBGKYBK</a></nav>
 Its design is pattern [BKBGKYBK](/stripes/bkbgkybk/) — the page of every tartan sharing this colour sequence.
 
 The **Lagavista** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Lagavista** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k12dr8ly4k8dy6dr8k22db1/">Lagavista</a></td><td><code>K/24 DR16 LY8 K16 DY12 DR16 K44 DB/2</code></td><td>250</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k12dr8ly4k8dy6dr8k22db1/"><img src="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/sett.png" alt="Lagavista sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/">Lagavista</a></td><td><code>K/24 DR16 LY8 K16 DY12 DR16 K44 DB/2</code></td><td>250</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/"><img src="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/sett.png" alt="Lagavista sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k8dr7ly4k8g5dr7k18lb2~x2/"><circle cx="216.7" cy="179.1" r="4" fill="#3465a4"><title>Malliou, Despina</title></circle></a><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"><circle cx="236.5" cy="136.6" r="4" fill="#3465a4"><title>Craigholme</title></circle></a><a href="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/"><circle cx="265.1" cy="113.1" r="4" fill="#3465a4"><title>Sreijsener</title></circle></a><a href="/variants/s8/r2k1r12k2r3k26dy14ri2~x4~r1807016-ri2610034/"><circle cx="271.0" cy="118.8" r="4" fill="#3465a4"><title>Booth</title></circle></a><a href="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/"><circle cx="220.2" cy="110.0" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/"><circle cx="311.3" cy="157.3" r="4" fill="#3465a4"><title>Meiklejohn</title></circle></a><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="277.4" cy="180.4" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s6/w4k24dy5k10dy12r1~x2/"><circle cx="321.4" cy="144.1" r="4" fill="#3465a4"><title>Livingston Football Club</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="278.8" cy="126.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/variants/s7/k40dp5k6y26n13k9dy3~x2/"><circle cx="237.0" cy="149.4" r="4" fill="#3465a4"><title>de Meuron Dress, The</title></circle></a><circle cx="300.7" cy="146.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k8dr7ly4k8g5dr7k18lb2~x2/"><circle cx="217.4" cy="179.1" r="4" fill="#3465a4"><title>Malliou, Despina</title></circle></a><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"><circle cx="237.3" cy="136.6" r="4" fill="#3465a4"><title>Craigholme</title></circle></a><a href="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/"><circle cx="266.0" cy="113.1" r="4" fill="#3465a4"><title>Sreijsener</title></circle></a><a href="/variants/s8/r2k1r12k2r3k26dy14ri2~x4~r1807016-ri2610034/"><circle cx="271.8" cy="118.8" r="4" fill="#3465a4"><title>Booth</title></circle></a><a href="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/"><circle cx="221.0" cy="109.9" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/"><circle cx="312.1" cy="157.4" r="4" fill="#3465a4"><title>Meiklejohn</title></circle></a><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="278.2" cy="180.5" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s6/w4k24dy5k10dy12r1~x2/"><circle cx="322.4" cy="144.3" r="4" fill="#3465a4"><title>Livingston Football Club</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="279.7" cy="126.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/variants/s7/k40dp5k6y26n13k9dy3~x2/"><circle cx="237.7" cy="149.3" r="4" fill="#3465a4"><title>de Meuron Dress, The</title></circle></a><circle cx="301.6" cy="146.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

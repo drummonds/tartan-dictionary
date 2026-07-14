@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/">Morgan Welsh Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/"><img src="/variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/sett.png" alt="Morgan Welsh Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/morgan-2/">Morgan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morgan-2/"><img src="/variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/sett.png" alt="Morgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,7 +15,7 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/b/bu/buchanan/">Buchanan</a> ★</td><td>1843</td><td>3</td><td>4</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bu/buchanan/"><img src="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/sett.png" alt="Buchanan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bu/buchanan/"><img src="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/sett.png" alt="Buchanan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/bu/buchanan-2/">Buchanan 2</a></td><td>—</td><td>1</td><td>1</td><td>0.22</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bu/buchanan-2/"><img src="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/sett.png" alt="Buchanan 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/bu/buchanan-hunting-2/">Buchanan Hunting</a></td><td>—</td><td>1</td><td>1</td><td>0.73</td></tr>

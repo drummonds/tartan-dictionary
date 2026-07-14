@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/">Mauthe Unidentified (Name?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/"><img src="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/sett.png" alt="Mauthe Unidentified (Name?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mauthe-unidentified-2/">Mauthe Unidentified</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mauthe-unidentified-2/"><img src="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/sett.png" alt="Mauthe Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

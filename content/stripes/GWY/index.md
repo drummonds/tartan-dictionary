@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/dy2lb1lo1~x2/">Gearach Woodcock Tweed (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dy2lb1lo1~x2/"><img src="/variants/s3/dy2lb1lo1~x2/sett.png" alt="Gearach Woodcock Tweed (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/gearach-woodcock-tweed/">Gearach Woodcock Tweed</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/gearach-woodcock-tweed/"><img src="/variants/s3/dy2lb1lo1~x2/sett.png" alt="Gearach Woodcock Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/g49w4lo11~x2/">Hibernian S3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/g49w4lo11~x2/"><img src="/variants/s3/g49w4lo11~x2/sett.png" alt="Hibernian S3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hibernian-s3/">Hibernian S3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hibernian-s3/"><img src="/variants/s3/g49w4lo11~x2/sett.png" alt="Hibernian S3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

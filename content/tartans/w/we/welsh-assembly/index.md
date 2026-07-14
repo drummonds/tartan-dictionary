@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g5n9g4w5g30r2g4r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgwgrgr/">GBGWGRGR</a></nav>
 Its design is pattern [GBGWGRGR](/stripes/gbgwgrgr/) — the page of every tartan sharing this colour sequence.
 
 The **Welsh Assembly** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Welsh Assembly** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g5n9g4w5g30r2g4r2/">Welsh Assembly</a></td><td><code>G/10 N18 G8 W10 G60 R4 G8 R/4</code></td><td>230</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g5n9g4w5g30r2g4r2/"><img src="/variants/s8/g5n9g4w5g30r2g4r2~x2/sett.png" alt="Welsh Assembly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/">Welsh Assembly</a></td><td><code>G/10 N18 G8 W10 G60 R4 G8 R/4</code></td><td>230</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><img src="/variants/s8/g5n9g4w5g30r2g4r2~x2/sett.png" alt="Welsh Assembly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="405.8" cy="160.9" r="4" fill="#3465a4"><title>Island Weavers</title></circle></a><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="367.8" cy="193.5" r="4" fill="#3465a4"><title>McGirr David</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="429.8" cy="217.1" r="4" fill="#3465a4"><title>Leeds, University of</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.6" cy="200.5" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s6/g23r3g7r3g23dp7~x2/"><circle cx="504.9" cy="250.6" r="4" fill="#3465a4"><title>Highland Spring</title></circle></a><a href="/variants/s6/r4g2r1g19k1g2~x4/"><circle cx="523.5" cy="157.3" r="4" fill="#3465a4"><title>Loch Laggan</title></circle></a><a href="/variants/s6/g72k8g4dy16g7n2~x2/"><circle cx="493.8" cy="124.4" r="4" fill="#3465a4"><title>MacAndrew Hunting</title></circle></a><a href="/variants/s10/g14w1db2r1g1r1db2w1g4y1~x4/"><circle cx="376.4" cy="139.4" r="4" fill="#3465a4"><title>Seattle</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="435.1" cy="200.8" r="4" fill="#3465a4"><title>Gayre Bodyguard</title></circle></a><a href="/variants/s8/g18r6g75db6g13o35g12db6/"><circle cx="467.6" cy="216.7" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><circle cx="449.1" cy="187.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="406.7" cy="161.1" r="4" fill="#3465a4"><title>Island Weavers</title></circle></a><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="368.4" cy="193.7" r="4" fill="#3465a4"><title>McGirr David</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="430.6" cy="217.4" r="4" fill="#3465a4"><title>Leeds, University of</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="326.2" cy="200.6" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s6/g23r3g7r3g23dp7~x2/"><circle cx="505.8" cy="251.1" r="4" fill="#3465a4"><title>Highland Spring</title></circle></a><a href="/variants/s6/r4g2r1g19k1g2~x4/"><circle cx="524.7" cy="157.8" r="4" fill="#3465a4"><title>Loch Laggan</title></circle></a><a href="/variants/s6/g72k8g4dy16g7n2~x2/"><circle cx="495.0" cy="124.8" r="4" fill="#3465a4"><title>MacAndrew Hunting</title></circle></a><a href="/variants/s10/g14w1db2r1g1r1db2w1g4y1~x4/"><circle cx="377.2" cy="139.6" r="4" fill="#3465a4"><title>Seattle</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="435.9" cy="201.1" r="4" fill="#3465a4"><title>Gayre Bodyguard</title></circle></a><a href="/variants/s8/g18r6g75db6g13o35g12db6/"><circle cx="468.2" cy="217.1" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><circle cx="449.8" cy="188.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

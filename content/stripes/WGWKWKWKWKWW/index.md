@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/">Liberty Square</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/"><img src="/variants/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/sett.png" alt="Liberty Square sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/liberty-square/">Liberty Square</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/liberty-square/"><img src="/variants/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/sett.png" alt="Liberty Square sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

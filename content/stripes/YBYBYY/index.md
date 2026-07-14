@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lr15do6lr1do3ly3lr1~x4/">Burns (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lr15do6lr1do3ly3lr1~x4/"><img src="/variants/s6/lr15do6lr1do3ly3lr1~x4/sett.png" alt="Burns (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burns-2/">Burns</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burns-2/"><img src="/variants/s6/lr15do6lr1do3ly3lr1~x4/sett.png" alt="Burns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

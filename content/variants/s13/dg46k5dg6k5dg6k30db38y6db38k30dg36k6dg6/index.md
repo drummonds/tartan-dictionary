@@ -10,10 +10,10 @@ crumbs:
 - name: "Dewar Highlander"
   url: "/tartans/d/de/dewar-highlander/"
 - name: "Dewar Highlander Corporate Tartan"
-  url: "/setts/dg46k5dg6k5dg6k30db38y6db38k30dg36k6dg6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg46k5dg6k5dg6k30db38y6db38k30dg36k6dg6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/dewar-highlander/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBGBKGKGKG](/stripes/gkgkbgbkgkgkg/).
 
 Part of the [Dewar Highlander](/tartans/d/de/dewar-highlander/) tartan — the named design grouping this sett with its other cloths.

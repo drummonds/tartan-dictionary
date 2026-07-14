@@ -8,10 +8,10 @@ crumbs:
 - name: "Carlow, County"
   url: "/tartans/c/ca/carlow-county/"
 - name: "Carlow, County"
-  url: "/setts/dr20g2dr2g2dr2g8k24g2k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr20g2dr2g2dr2g8k24g2k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/carlow-county/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGKGK](/stripes/bgbgbgkgk/).
 
 Part of the [Carlow, County](/tartans/c/ca/carlow-county/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=564](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Carlow, County (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=564">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These are not 'officially sanctioned' District tartans but have apparently proved popular and no doubt in time will be accepted as genuine District rather than Fashion tartans. Green lightened to show sett. Designed for Macnaughtons of Pitlochry as a collection of trade tartans.</em></li>
-<li>1996 — Carlow, County (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2275">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These were not 'officially sanctioned' District tartans but, like many of their historic district tartan predecessors have apparently proved popular enough to be regarded as 'District' rather than their original categorisation of 'Fashion'. Sample in STA's Johnston Collection.</em></li>
+<li>1996 — Carlow, County (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2275/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These were not 'officially sanctioned' District tartans but, like many of their historic district tartan predecessors have apparently proved popular enough to be regarded as 'District' rather than their original categorisation of 'Fashion'. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

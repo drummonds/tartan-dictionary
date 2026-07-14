@@ -10,10 +10,10 @@ crumbs:
 - name: "Lyon, Jeffrey M"
   url: "/tartans/l/ly/lyon-jeffrey-m/"
 - name: "Lyon, Jeffrey M (Personal)"
-  url: "/setts/dt30k4g5k2r2k2g5k4w10k5b8k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt30k4g5k2r2k2g5k4w10k5b8k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/ly/lyon-jeffrey-m/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKRKGKWKBK](/stripes/bkgkrkgkwkbk/).
 
 Part of the [Lyon, Jeffrey M](/tartans/l/ly/lyon-jeffrey-m/) tartan — the named design grouping this sett with its other cloths.

@@ -10,15 +10,15 @@ crumbs:
 - name: "Grampian Television"
   url: "/tartans/g/gr/grampian-television/"
 - name: "Grampian Television"
-  url: "/setts/k12t3k12t18w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k12t3k12t18w5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBWBKBK](/stripes/bkbwbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grampian-television/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBW](/stripes/kbkbw/).
 
 Part of the [Grampian Television](/tartans/g/gr/grampian-television/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1491](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1491)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1491](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/06/1964 — Grampian Television (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1491">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#305470;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #305470"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Woven by Johnstons of Elgin in scarf form. Sample in Scottish Tartans Authority's Johnston Collection. Scottish Tartans Society archive -1964.</em></li>
-<li>pre 2002 — Grampian Television (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1058">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#305470;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #305470"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Woven by Johnstons of Elgin in scarf form. Sample in STA's Johnston Collection</em></li>
+<li>pre 2002 — Grampian Television (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1058/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#305470;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #305470"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Woven by Johnstons of Elgin in scarf form. Sample in STA's Johnston Collection</em></li>
 </ul>
 </details>
 
@@ -55,9 +55,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1058
 
 ## Thread count
-K/24 T6 K24 T36 W10 T36 K24 T/6
+K/24 T6 K24 T36 W/10
 
-One full sett is **302 threads**.
+One full sett is **166 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/24 T6 K24 T36 W10 T36 K24 T/6 — 302 threads; it folds to the canonical 166-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -66,7 +68,7 @@ One full sett is **302 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/24 T6 K24 T36 W10 T36 K24 T/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/24 T6 K24 T36 W/10 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

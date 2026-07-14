@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w5r5w5k15r2~x2/">Braes High School Falkirk (School)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w5r5w5k15r2~x2/"><img src="/variants/s5/w5r5w5k15r2~x2/sett.png" alt="Braes High School Falkirk (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/w3r2w1k2r2~x4/">Oakland Centre</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w3r2w1k2r2~x4/"><img src="/variants/s5/w3r2w1k2r2~x4/sett.png" alt="Oakland Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/braes-high-school-falkirk/">Braes High School Falkirk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braes-high-school-falkirk/"><img src="/variants/s5/w5r5w5k15r2~x2/sett.png" alt="Braes High School Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/oa/oakland-centre/">Oakland Centre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/oa/oakland-centre/"><img src="/variants/s5/w3r2w1k2r2~x4/sett.png" alt="Oakland Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

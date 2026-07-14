@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/">Woodcock (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><img src="/variants/s7/db30dp9g6dp9r4db17w5~x2/sett.png" alt="Woodcock (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/woodcock/">Woodcock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/woodcock/"><img src="/variants/s7/db30dp9g6dp9r4db17w5~x2/sett.png" alt="Woodcock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

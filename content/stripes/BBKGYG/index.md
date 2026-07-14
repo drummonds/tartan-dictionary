@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g2lo1g5k4do5dr1~x4/">Forres</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g2lo1g5k4do5dr1~x4/"><img src="/variants/s6/g2lo1g5k4do5dr1~x4/sett.png" alt="Forres sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forres/">Forres</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forres/"><img src="/variants/s6/g2lo1g5k4do5dr1~x4/sett.png" alt="Forres sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k10r3y4db12g4r4w2~x4/">Eichelberger Family, Jörg (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><img src="/variants/s7/k10r3y4db12g4r4w2~x4/sett.png" alt="Eichelberger Family, Jörg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ei/eichelberger-family-j-rg/">Eichelberger Family, Jörg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ei/eichelberger-family-j-rg/"><img src="/variants/s7/k10r3y4db12g4r4w2~x4/sett.png" alt="Eichelberger Family, Jörg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

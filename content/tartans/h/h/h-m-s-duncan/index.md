@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp3dt15db15r2db15y3/"
+- "/setts/dp3n15db15r2db15y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbrbg/">BBBRBG</a></nav>
 Its design is pattern [BBBRBG](/stripes/bbbrbg/) — the page of every tartan sharing this colour sequence.
 
 The **H.M.S. DUNCAN** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **H.M.S. DUNCAN** tartan groups 2 setts — the same named design recorded a
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp3dt15db15r2db15y3/">H.M.S. DUNCAN</a> ★</td><td><code>DP/6 DT30 DB30 R4 DB30 Y/6</code></td><td>200</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp3dt15db15r2db15y3/"><img src="/variants/s6/dp3dt15db15r2db15y3~x2/sett.png" alt="H.M.S. DUNCAN sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dp3n15db15r2db15y3/">HMS Duncan (Military)</a></td><td><code>Y/6 DB30 R4 DB30 N30 DP/6</code></td><td>200</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp3n15db15r2db15y3/"><img src="/variants/s6/dp3n15db15r2db15y3~x2/sett.png" alt="HMS Duncan (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp3dt15db15r2db15y3~x2/">H.M.S. DUNCAN</a> ★</td><td><code>DP/6 DT30 DB30 R4 DB30 Y/6</code></td><td>200</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><img src="/variants/s6/dp3dt15db15r2db15y3~x2/sett.png" alt="H.M.S. DUNCAN sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp3n15db15r2db15y3~x2/">HMS Duncan (Military)</a></td><td><code>DP/6 N30 DB30 R4 DB30 Y/6</code></td><td>200</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><img src="/variants/s6/dp3n15db15r2db15y3~x2/sett.png" alt="HMS Duncan (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -35,6 +39,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.6" cy="307.2" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="484.1" cy="282.7" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="394.7" cy="203.3" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><a href="/variants/s6/dr28r1db18y2g6db18~x2/"><circle cx="364.9" cy="194.4" r="4" fill="#3465a4"><title>British Judo Association</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="357.8" cy="184.1" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="461.1" cy="191.3" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s8/db3dg10db5y1db10k1dr4w1~x4/"><circle cx="270.8" cy="194.0" r="4" fill="#3465a4"><title>Cot-Hach l)</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="379.3" cy="261.4" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="315.3" cy="254.2" r="4" fill="#3465a4"><title>McMoosie Hunting</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="510.4" cy="269.7" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><circle cx="397.4" cy="282.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.6" cy="307.4" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="484.5" cy="283.1" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="395.1" cy="203.5" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><a href="/variants/s6/dr28r1db18y2g6db18~x2/"><circle cx="365.5" cy="194.5" r="4" fill="#3465a4"><title>British Judo Association</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="358.3" cy="184.2" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="461.9" cy="191.6" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s8/db3dg10db5y1db10k1dr4w1~x4/"><circle cx="271.2" cy="194.0" r="4" fill="#3465a4"><title>Cot-Hach l)</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="379.8" cy="261.6" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="315.5" cy="254.3" r="4" fill="#3465a4"><title>McMoosie Hunting</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="511.0" cy="270.1" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><circle cx="397.7" cy="282.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db24w4db24ly4dr5k4~x2/">de Grussa (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db24w4db24ly4dr5k4~x2/"><img src="/variants/s6/db24w4db24ly4dr5k4~x2/sett.png" alt="de Grussa (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/de-grussa/">De Grussa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/de-grussa/"><img src="/variants/s6/db24w4db24ly4dr5k4~x2/sett.png" alt="De Grussa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

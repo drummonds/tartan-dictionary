@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/">Disciples of Christ Motorcycle Ministry (Switzerland)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><img src="/variants/s7/k22g21k5g12lb12n3w4~x2/sett.png" alt="Disciples of Christ Motorcycle Ministry (Switzerland) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/disciples-of-christ-mm/">Disciples of Christ MM</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/disciples-of-christ-mm/"><img src="/variants/s7/k22g21k5g12lb12n3w4~x2/sett.png" alt="Disciples of Christ MM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

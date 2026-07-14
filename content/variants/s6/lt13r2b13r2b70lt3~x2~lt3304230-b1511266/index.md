@@ -8,10 +8,10 @@ crumbs:
 - name: "Agua"
   url: "/tartans/a/ag/agua/"
 - name: "Agua"
-  url: "/setts/lt13r2b13r2b70lt3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lt13r2b13r2b70lt3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ag/agua/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRBRW](/stripes/wbrbrw/).
 
 Part of the [Agua](/tartans/a/ag/agua/) tartan — the named design grouping this sett with its other cloths.

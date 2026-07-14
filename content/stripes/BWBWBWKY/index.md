@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/">Kile (Red line) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><img src="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/sett.png" alt="Kile (Red line) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kile-2/">Kile</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kile-2/"><img src="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/sett.png" alt="Kile sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

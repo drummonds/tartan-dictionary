@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/k5r2k30lb8w1k9w2k9w1lb8k30r3k30lb8w1k9w2~x2/">Glasgow Caledonian University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k5r2k30lb8w1k9w2k9w1lb8k30r3k30lb8w1k9w2~x2/"><img src="/variants/s17/k5r2k30lb8w1k9w2k9w1lb8k30r3k30lb8w1k9w2~x2/sett.png" alt="Glasgow Caledonian University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow-caledonian-university/">Glasgow Caledonian University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-caledonian-university/"><img src="/variants/s17/k5r2k30lb8w1k9w2k9w1lb8k30r3k30lb8w1k9w2~x2/sett.png" alt="Glasgow Caledonian University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "United Distillers"
   url: "/tartans/u/un/united-distillers/"
 - name: "United Distillers"
-  url: "/setts/dy2ly14k14ly1dr14ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy2ly14k14ly1dr14ly2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/united-distillers/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYKYBY](/stripes/gykyby/).
 
 Part of the [United Distillers](/tartans/u/un/united-distillers/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4397](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1990 — United Distillers (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4397">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#948860;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #948860"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#680028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #680028"></span><br><em>Presumably designed by James Welstead. Said to be a fine example of good style when weaving a different warp and weft. WR asked for in the thread count: assumed it meant wine red. Three samples in Scottish Tartans Authority Johnston Collection. There is another tartan designed by Kinloch Anderson in 1990. Colour shades are quite wrong here - need to get warp and weft from Lochcarron.</em></li>
-<li>pre 1991 — United Distillers (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2098">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#948860;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #948860"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #000000"></span><br><em>Presumably designed by James Welstead. Said to be a fine example of good style when weaving a different warp and weft. Three samples in STA Johnston Collection.</em></li>
+<li>pre 1991 — United Distillers (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2098/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#948860;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #948860"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #000000"></span><br><em>Presumably designed by James Welstead. Said to be a fine example of good style when weaving a different warp and weft. Three samples in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Largs"
   url: "/tartans/l/la/largs-2/"
 - name: "Largs"
-  url: "/setts/b4r4db44w6db5o4db3o8db3o16b4r22w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b4r4db44w6db5o4db3o8db3o16b4r22w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/largs-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBRBRBRBRW](/stripes/brbwbrbrbrbrw/).
 
 Part of the [Largs](/tartans/l/la/largs-2/) tartan — the named design grouping this sett with its other cloths.

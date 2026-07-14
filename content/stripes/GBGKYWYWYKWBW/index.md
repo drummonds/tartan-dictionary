@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb10dr3lb10k7ly5w2ly5w2ly5k7dg10dr3dg7~x2/">Redgate (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb10dr3lb10k7ly5w2ly5w2ly5k7dg10dr3dg7~x2/"><img src="/variants/s13/lb10dr3lb10k7ly5w2ly5w2ly5k7dg10dr3dg7~x2/sett.png" alt="Redgate (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/redgate-3/">Redgate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/redgate-3/"><img src="/variants/s13/lb10dr3lb10k7ly5w2ly5w2ly5k7dg10dr3dg7~x2/sett.png" alt="Redgate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

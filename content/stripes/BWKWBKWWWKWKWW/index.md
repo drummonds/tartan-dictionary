@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6~x2/">Skye Dress Blue, Isle of (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6~x2/"><img src="/variants/s14/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6~x2/sett.png" alt="Skye Dress Blue, Isle of (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skye-dress-blue-isle-of/">Skye Dress Blue, Isle of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skye-dress-blue-isle-of/"><img src="/variants/s14/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6~x2/sett.png" alt="Skye Dress Blue, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

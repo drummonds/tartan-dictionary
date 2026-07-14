@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/">MacDonald of Clanranald #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><img src="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/sett.png" alt="MacDonald of Clanranald #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/">MacDonald of Clanranald #5</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/"><img src="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/sett.png" alt="MacDonald of Clanranald #5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-clanranald/">MacDonald of Clanranald</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald/"><img src="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/sett.png" alt="MacDonald of Clanranald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-clanranald-3/">MacDonald of Clanranald 3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-clanranald-3/"><img src="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/sett.png" alt="MacDonald of Clanranald 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

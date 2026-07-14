@@ -10,15 +10,15 @@ crumbs:
 - name: "MacGregor Dress Blue Fancy"
   url: "/tartans/m/ma/macgregor-dress-blue-fancy/"
 - name: "MacGregor Dress Blue Fancy Tartan"
-  url: "/setts/w52db22w6db8k1g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w52db22w6db8k1g3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBKGKBWBW](/stripes/bwbkgkbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-dress-blue-fancy/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBWBW](/stripes/gkbwbw/).
 
 Part of the [MacGregor Dress Blue Fancy](/tartans/m/ma/macgregor-dress-blue-fancy/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6540](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6540)
 
@@ -43,9 +43,11 @@ Earliest known date: 1975 A dancers tartan.
 </details>
 
 ## Thread count
-W/104 DB44 W12 DB16 K2 G6 K2 DB16 W12 DB/44
+W/104 DB44 W12 DB16 K2 G/6
 
-One full sett is **368 threads**.
+One full sett is **258 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/104 DB44 W12 DB16 K2 G6 K2 DB16 W12 DB/44 — 368 threads; it folds to the canonical 258-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **368 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/104 DB44 W12 DB16 K2 G6 K2 DB16 W12 DB/44 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/104 DB44 W12 DB16 K2 G/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

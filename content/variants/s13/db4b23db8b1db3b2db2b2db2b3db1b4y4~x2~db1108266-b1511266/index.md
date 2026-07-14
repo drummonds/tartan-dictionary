@@ -10,10 +10,10 @@ crumbs:
 - name: "Hawick Common Riding"
   url: "/tartans/h/ha/hawick-common-riding/"
 - name: "Hawick Common Riding"
-  url: "/setts/db4b23db8b1db3b2db2b2db2b3db1b4y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4b23db8b1db3b2db2b2db2b3db1b4y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hawick-common-riding/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBG](/stripes/bbbbbbbbbbbbg/).
 
 Part of the [Hawick Common Riding](/tartans/h/ha/hawick-common-riding/) tartan — the named design grouping this sett with its other cloths.

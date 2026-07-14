@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/">South Canterbury Centre P. &amp; D. Assoc., Jubilee</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/"><img src="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/sett.png" alt="South Canterbury Centre P. &amp; D. Assoc., Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/south-canterbury-centre-p-d-assoc-jubilee/">South Canterbury Centre P. &amp; D. Assoc., Jubilee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/south-canterbury-centre-p-d-assoc-jubilee/"><img src="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/sett.png" alt="South Canterbury Centre P. &amp; D. Assoc., Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

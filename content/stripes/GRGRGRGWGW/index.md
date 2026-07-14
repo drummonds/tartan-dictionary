@@ -28,15 +28,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/">Prince of Wales (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><img src="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/sett.png" alt="Prince of Wales (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/">Rothesay #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><img src="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/sett.png" alt="Rothesay #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/">Rothesay Hunting Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><img src="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/sett.png" alt="Rothesay Hunting Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/prince-of-wales/">Prince of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-of-wales/"><img src="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/sett.png" alt="Prince of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rothesay-2/">Rothesay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rothesay-2/"><img src="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/sett.png" alt="Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rothesay-hunting/">Rothesay Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rothesay-hunting/"><img src="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/sett.png" alt="Rothesay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/g32o2g2o2g2o12g22w1g1w3~x2/">Unidentified Plaid 11</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g32o2g2o2g2o12g22w1g1w3~x2/"><img src="/variants/s10/g32o2g2o2g2o12g22w1g1w3~x2/sett.png" alt="Unidentified Plaid 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-plaid-11/">Unidentified Plaid 11</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-plaid-11/"><img src="/variants/s10/g32o2g2o2g2o12g22w1g1w3~x2/sett.png" alt="Unidentified Plaid 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

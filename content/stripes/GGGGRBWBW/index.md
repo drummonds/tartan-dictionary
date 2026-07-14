@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/">Forrester (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/"><img src="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/sett.png" alt="Forrester (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/y4g6y1g15r23db15w1db6w4~x2/">Forrester Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y4g6y1g15r23db15w1db6w4~x2/"><img src="/variants/s9/y4g6y1g15r23db15w1db6w4~x2/sett.png" alt="Forrester Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forrester/">Forrester</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forrester/"><img src="/variants/s9/y4g6y1g15r23db15w1db6w4~x2/sett.png" alt="Forrester sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w4dr2w25r21w3r8y3~x2/">MacPherson Dress Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w4dr2w25r21w3r8y3~x2/"><img src="/variants/s7/w4dr2w25r21w3r8y3~x2/sett.png" alt="MacPherson Dress Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/w5dp3w26r20w3r8y3~x2/">MacPherson Dress Red (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w5dp3w26r20w3r8y3~x2/"><img src="/variants/s7/w5dp3w26r20w3r8y3~x2/sett.png" alt="MacPherson Dress Red (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-dress-5/">MacPherson Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-5/"><img src="/variants/s7/w4dr2w25r21w3r8y3~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

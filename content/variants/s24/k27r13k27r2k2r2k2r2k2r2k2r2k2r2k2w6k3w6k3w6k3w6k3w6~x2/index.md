@@ -12,10 +12,10 @@ crumbs:
 - name: "Angus"
   url: "/tartans/a/an/angus/"
 - name: "Angus (Paton)"
-  url: "/setts/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2w6k3w6k3w6k3w6k3w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2w6k3w6k3w6k3w6k3w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/angus/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRKRKRKRKWKWKWKWKW](/stripes/krkrkrkrkrkrkrkwkwkwkwkw/).
 
 Part of the [Angus](/tartans/a/an/angus/) tartan — the named design grouping this sett with its other cloths.

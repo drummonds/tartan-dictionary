@@ -12,10 +12,10 @@ crumbs:
 - name: "Mars"
   url: "/tartans/m/ma/mars/"
 - name: "Mars Family Tartan"
-  url: "/setts/dr16g16dr8k8lo3k3db3k3lo3dr14w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr16g16dr8k8lo3k3db3k3lo3dr14w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mars/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKYKBKYBW](/stripes/bgbkykbkybw/).
 
 Part of the [Mars](/tartans/m/ma/mars/) tartan — the named design grouping this sett with its other cloths.

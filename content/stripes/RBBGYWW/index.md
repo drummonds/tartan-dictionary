@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/">Silversea (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/"><img src="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/sett.png" alt="Silversea (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/silversea-2/">Silversea</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/silversea-2/"><img src="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/sett.png" alt="Silversea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

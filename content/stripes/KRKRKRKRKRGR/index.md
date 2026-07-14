@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k20r2k4r2k19o17k10o10k6o5y2o2~x2/">Malt, The (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k20r2k4r2k19o17k10o10k6o5y2o2~x2/"><img src="/variants/s12/k20r2k4r2k19o17k10o10k6o5y2o2~x2/sett.png" alt="Malt, The (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/malt-the/">Malt, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/malt-the/"><img src="/variants/s12/k20r2k4r2k19o17k10o10k6o5y2o2~x2/sett.png" alt="Malt, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

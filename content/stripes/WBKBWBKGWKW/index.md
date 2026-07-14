@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w7db10k7db7lb7db45k21g21lb4k4w7~x2/">Utah State University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w7db10k7db7lb7db45k21g21lb4k4w7~x2/"><img src="/variants/s11/w7db10k7db7lb7db45k21g21lb4k4w7~x2/sett.png" alt="Utah State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/ut/utah-state-university/">Utah State University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/ut/utah-state-university/"><img src="/variants/s11/w7db10k7db7lb7db45k21g21lb4k4w7~x2/sett.png" alt="Utah State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

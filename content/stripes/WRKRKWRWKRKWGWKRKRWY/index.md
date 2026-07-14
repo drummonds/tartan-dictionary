@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4~y2405105-ly3307090/">Order of the Holy Sepulchre of Jerusalem</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4~y2405105-ly3307090/"><img src="/variants/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4~y2405105-ly3307090/sett.png" alt="Order of the Holy Sepulchre of Jerusalem sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/order-of-the-holy-sepulchre-of-jerusalem/">Order of the Holy Sepulchre of Jerusalem</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/order-of-the-holy-sepulchre-of-jerusalem/"><img src="/variants/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4~y2405105-ly3307090/sett.png" alt="Order of the Holy Sepulchre of Jerusalem sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Barbecue"
   url: "/tartans/b/ba/barbecue/"
 - name: "Barbecue Plaid"
-  url: "/setts/r45k2r2k28w16r4k4lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r45k2r2k28w16r4k4lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barbecue/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKWRKY](/stripes/rkrkwrky/).
 
 Part of the [Barbecue](/tartans/b/ba/barbecue/) tartan — the named design grouping this sett with its other cloths.

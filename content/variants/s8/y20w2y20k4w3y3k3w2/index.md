@@ -10,10 +10,10 @@ crumbs:
 - name: "Guzzo Check"
   url: "/tartans/g/gu/guzzo-check/"
 - name: "Guzzo Check (Personal)"
-  url: "/setts/y20w2y20k4w3y3k3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y20w2y20k4w3y3k3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gu/guzzo-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKWGKW](/stripes/gwgkwgkw/).
 
 Part of the [Guzzo Check](/tartans/g/gu/guzzo-check/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6012](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2009 — Guzzo Check (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6012">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FFE600;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFE600"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Harriet Jones of Holland & Sherry for a Mr Guzzo of Montreal who is "fascinated by all things Scottish and wishes a ‘family’ tartan using his family’s colours." Being woven by the copyright holder Joseph H Clissold.</em></li>
-<li>pre 2009 — Guzzo Check (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8036">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Harriet Jones of Holland & Sherry for a Mr Guzzo of Montreal who is "fascinated by all things Scottish and wishes a 'family' tartan using his family's colours." Being woven by the copyright holder Joseph H Clissold. This verged on rejection since the sett is so small that it is regarded as more of a check than a tartan.</em></li>
+<li>pre 2009 — Guzzo Check (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/8036/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Harriet Jones of Holland & Sherry for a Mr Guzzo of Montreal who is "fascinated by all things Scottish and wishes a 'family' tartan using his family's colours." Being woven by the copyright holder Joseph H Clissold. This verged on rejection since the sett is so small that it is regarded as more of a check than a tartan.</em></li>
 </ul>
 </details>
 

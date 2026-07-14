@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/ri3r18dr6ri15r4ri3r4ri7w2/">Tune Hotels</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/ri3r18dr6ri15r4ri3r4ri7w2/"><img src="/variants/s9/ri3r18dr6ri15r4ri3r4ri7w2~x2~ri2509032-r1807025/sett.png" alt="Tune Hotels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/tune-hotels/">Tune Hotels</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/tune-hotels/"><img src="/variants/s9/ri3r18dr6ri15r4ri3r4ri7w2~x2~ri2509032-r1807025/sett.png" alt="Tune Hotels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

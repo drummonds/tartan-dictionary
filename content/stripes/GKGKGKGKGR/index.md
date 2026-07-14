@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r47dg14k5y2k3dg7~x2/">Harbor Club (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r47dg14k5y2k3dg7~x2/"><img src="/variants/s6/r47dg14k5y2k3dg7~x2/sett.png" alt="Harbor Club (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harbor-club/">Harbor Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harbor-club/"><img src="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/sett.png" alt="Harbor Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/">Majewski-White (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/"><img src="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/sett.png" alt="Majewski-White (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/majewski-white/">Majewski-White</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/majewski-white/"><img src="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/sett.png" alt="Majewski-White sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

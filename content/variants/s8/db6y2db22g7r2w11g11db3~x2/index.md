@@ -12,10 +12,10 @@ crumbs:
 - name: "Bahamas"
   url: "/tartans/b/ba/bahamas/"
 - name: "Bahamas District Tartan"
-  url: "/setts/db6y2db22g7r2w11g11db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6y2db22g7r2w11g11db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bahamas/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGRWGB](/stripes/bgbgrwgb/).
 
 Part of the [Bahamas](/tartans/b/ba/bahamas/) tartan — the named design grouping this sett with its other cloths.

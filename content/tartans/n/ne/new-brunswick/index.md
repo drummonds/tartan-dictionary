@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkrgkgkgkrggkrkrkrkrkg/">GKRGKGKGKRGGKRKRKRKRKG</a></nav>
 Its design is pattern [GKRGKGKGKRGGKRKRKRKRKG](/stripes/gkrgkgkgkrggkrkrkrkrkg/) — the page of every tartan sharing this colour sequence.
 
 The **New Brunswick** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **New Brunswick** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2/">New Brunswick</a></td><td><code>G/28 K4 R4 K4 R4 K4 R4 K4 R4 K4 Y50 G16 R8 K8 Y6 K2 Y6 K2 Y8 R20 K4 Y/4</code></td><td>364</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2/"><img src="/variants/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~x2/sett.png" alt="New Brunswick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~x2/">New Brunswick</a></td><td><code>G/28 K4 R4 K4 R4 K4 R4 K4 R4 K4 Y50 G16 R8 K8 Y6 K2 Y6 K2 Y8 R20 K4 Y/4</code></td><td>364</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~x2/"><img src="/variants/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~x2/sett.png" alt="New Brunswick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s22/ly3g30r7g2r1g8r1g2r7g16k18lb8r14g8r1g1r7g1r1g8r27ly3~x2/"><circle cx="205.3" cy="76.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s16/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2~x2/"><circle cx="168.6" cy="102.0" r="4" fill="#3465a4"><title>Brown-Wells</title></circle></a><a href="/variants/s18/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/"><circle cx="214.5" cy="41.2" r="4" fill="#3465a4"><title>Stewart of Ardshiel</title></circle></a><a href="/variants/s15/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3~x2/"><circle cx="216.8" cy="105.9" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/variants/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/"><circle cx="192.0" cy="103.0" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s29/dt13r6dt2r6w1g26r2dt26w1r26w1dt6r2g2r2dt13r2g2r2dt6w1r26w1dt26g26w1r6dt2r6~x2/"><circle cx="239.0" cy="101.1" r="4" fill="#3465a4"><title>Unnamed C18/19th</title></circle></a><a href="/variants/s17/r5k20n1k2n1k2n2k2n5o2n2o2n2o3n2o10w3~x2/"><circle cx="157.7" cy="80.7" r="4" fill="#3465a4"><title>Nike Golf Dark</title></circle></a><circle cx="183.9" cy="86.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s22/ly3g30r7g2r1g8r1g2r7g16k18lb8r14g8r1g1r7g1r1g8r27ly3~x2/"><circle cx="205.9" cy="76.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s16/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2~x2/"><circle cx="169.1" cy="101.8" r="4" fill="#3465a4"><title>Brown-Wells</title></circle></a><a href="/variants/s18/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/"><circle cx="215.3" cy="40.9" r="4" fill="#3465a4"><title>Stewart of Ardshiel</title></circle></a><a href="/variants/s15/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3~x2/"><circle cx="217.3" cy="105.8" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/variants/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/"><circle cx="192.6" cy="102.8" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s29/dt13r6dt2r6w1g26r2dt26w1r26w1dt6r2g2r2dt13r2g2r2dt6w1r26w1dt26g26w1r6dt2r6~x2/"><circle cx="239.5" cy="101.0" r="4" fill="#3465a4"><title>Unnamed C18/19th</title></circle></a><a href="/variants/s17/r5k20n1k2n1k2n2k2n5o2n2o2n2o3n2o10w3~x2/"><circle cx="158.3" cy="80.5" r="4" fill="#3465a4"><title>Nike Golf Dark</title></circle></a><circle cx="184.4" cy="85.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

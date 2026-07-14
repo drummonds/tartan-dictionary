@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/k36g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/">Farquharson (Vestiarium Scoticum) or MacEwen/MacEwan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/k36g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/"><img src="/variants/s28/k36g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/sett.png" alt="Farquharson (Vestiarium Scoticum) or MacEwen/MacEwan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s28/k19g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/">Farquharson or MacEwan Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/k19g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/"><img src="/variants/s28/k19g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/sett.png" alt="Farquharson or MacEwan Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/farquharson-or-macewan/">Farquharson or MacEwan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/farquharson-or-macewan/"><img src="/variants/s28/k19g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/sett.png" alt="Farquharson or MacEwan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/farquharson-or-macewen-macewan/">Farquharson or MacEwen/MacEwan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/farquharson-or-macewen-macewan/"><img src="/variants/s28/k36g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/sett.png" alt="Farquharson or MacEwen/MacEwan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

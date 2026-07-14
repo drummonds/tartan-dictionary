@@ -8,15 +8,15 @@ crumbs:
 - name: "Satisfashion Argyll"
   url: "/tartans/s/sa/satisfashion-argyll/"
 - name: "Satisfashion Argyll"
-  url: "/setts/do5lyi1g27ly9dr6do5lyi1ly23do3ly5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do5lyi1g27ly9dr6do5lyi1ly23do3ly5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BYYBBYGYBYGYBBYYBY](/stripes/byybbygybygybbyyby/).
+provenance below. It is one weaving of the [sett](/tartans/s/sa/satisfashion-argyll/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYGYBBYYBY](/stripes/bygybbyyby/).
 
 Part of the [Satisfashion Argyll](/tartans/s/sa/satisfashion-argyll/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3658](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3658)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3658](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/2005 — Satisfashion Argyll (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3658">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><br><em>A soft and warm tartan for a Belgian clothing company called Argyll that trades with the UK and Scotland in particular, and which wishes to promote Scottish tartan.' Designed by Tommy Gemmell and woven by D C Dalgliesh of Selkirk. Woven sample.</em></li>
-<li>2005 Feb. — Satisfashion Argyll (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6516">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><br><em>"A soft and warm tartan for a Belgian clothing company called Argyll that trades with the UK and Scotland in particular, and which wishes to promote Scottish tartan." Designed by Tommy Gemmell and woven by D C Dalgliesh of Selkirk. Woven sample.</em></li>
+<li>2005 Feb. — Satisfashion Argyll (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6516/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><br><em>"A soft and warm tartan for a Belgian clothing company called Argyll that trades with the UK and Scotland in particular, and which wishes to promote Scottish tartan." Designed by Tommy Gemmell and woven by D C Dalgliesh of Selkirk. Woven sample.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6516
 
 ## Thread count
-LY/10 DO6 LY46 LYi2 DO10 DR12 LY18 G54 LYi2 DO10 LYi2 G54 LY18 DR12 DO10 LYi2 LY46 DO/6
+DO/10 LY2 G54 O18 DR12 DO10 LY2 O46 DO6 O/10
 
-One full sett is **624 threads**.
+One full sett is **320 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LY/10 DO6 LY46 LYi2 DO10 DR12 LY18 G54 LYi2 DO10 LYi2 G54 LY18 DR12 DO10 LYi2 LY46 DO/6 — 624 threads; it folds to the canonical 320-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **624 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/10 DO6 LY46 LYi2 DO10 DR12 LY18 G54 LYi2 DO10 LYi2 G54 LY18 DR12 DO10 LYi2 LY46 DO/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DO/10 LY2 G54 O18 DR12 DO10 LY2 O46 DO6 O/10 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

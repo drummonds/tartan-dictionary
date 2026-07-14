@@ -8,10 +8,10 @@ crumbs:
 - name: "Mystery"
   url: "/tartans/m/my/mystery/"
 - name: "Mystery Tartan"
-  url: "/setts/r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/my/mystery/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRWRWRWRWRKRWRWRWKWKWKWKWKWKWKWWKWWRWKWKWKWKWKWKWR](/stripes/krwrwrwrwrwrkrwrwrwkwkwkwkwkwkwkwwkwwrwkwkwkwkwkwkwr/).
 
 Part of the [Mystery](/tartans/m/my/mystery/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "Hebridean Arisaid"
   url: "/tartans/h/he/hebridean-arisaid-2/"
 - name: "Hebridean Arisaid Blue (Dance) Fashion Tartan"
-  url: "/setts/w17k2db6lb6w1db1dp10k2dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w17k2db6lb6w1db1dp10k2dp3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebridean-arisaid-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBWWBKW](/stripes/bkbbwwbkw/).
 
 Part of the [Hebridean Arisaid](/tartans/h/he/hebridean-arisaid-2/) tartan — the named design grouping this sett with its other cloths.

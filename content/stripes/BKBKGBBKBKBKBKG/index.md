@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/">Amble</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/"><img src="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/sett.png" alt="Amble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/amble/">Amble</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/amble/"><img src="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/sett.png" alt="Amble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

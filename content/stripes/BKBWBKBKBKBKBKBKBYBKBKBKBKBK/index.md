@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9~x2/">Killin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9~x2/"><img src="/variants/s28/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9~x2/sett.png" alt="Killin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/killin/">Killin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/killin/"><img src="/variants/s28/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9~x2/sett.png" alt="Killin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/">Robieson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/"><img src="/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/sett.png" alt="Robieson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/">Robieson Kith &amp; Kin (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/"><img src="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/sett.png" alt="Robieson Kith &amp; Kin (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robieson/">Robieson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robieson/"><img src="/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/sett.png" alt="Robieson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robieson-kith-kin/">Robieson Kith &amp; Kin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robieson-kith-kin/"><img src="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/sett.png" alt="Robieson Kith &amp; Kin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

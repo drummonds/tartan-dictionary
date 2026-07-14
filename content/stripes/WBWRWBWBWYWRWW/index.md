@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/">Confederate Memorial Dress (Military</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/"><img src="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/sett.png" alt="Confederate Memorial Dress (Military sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/confederate-memorial-dress-military/">Confederate Memorial Dress (Military</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/confederate-memorial-dress-military/"><img src="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/sett.png" alt="Confederate Memorial Dress (Military sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

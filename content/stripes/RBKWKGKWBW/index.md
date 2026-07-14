@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r24dr24k2w6k2y2k16lb5db6w2~x2/">Scotland's International - Away (Fas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r24dr24k2w6k2y2k16lb5db6w2~x2/"><img src="/variants/s10/r24dr24k2w6k2y2k16lb5db6w2~x2/sett.png" alt="Scotland's International - Away (Fas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotland-s-international-2/">Scotland's International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-s-international-2/"><img src="/variants/s10/r24dr24k2w6k2y2k16lb5db6w2~x2/sett.png" alt="Scotland's International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

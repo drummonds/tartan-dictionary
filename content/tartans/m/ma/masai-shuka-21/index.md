@@ -4,7 +4,14 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai"
+  url: "/groups/masai/"
+- name: "Last of the Masai"
+  url: "/groups/masai/last-of-the-masai/"
+aliases:
+- "/setts/r40db2r6db15/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbr/">BRBR</a></nav>
 Its design is pattern [BRBR](/stripes/brbr/) — the page of every tartan sharing this colour sequence.
 
 The **Masai Shuka 21** tartan is recorded as a single sett.
@@ -12,8 +19,8 @@ The **Masai Shuka 21** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r40db2r6db15/">Masai Shuka 21</a></td><td><code>R/80 DB4 R12 DB/30</code></td><td>142</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r40db2r6db15/"><img src="/variants/s4/r40db2r6db15~x2/sett.png" alt="Masai Shuka 21 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r40db2r6db15~x2/">Masai Shuka 21</a></td><td><code>R/80 DB4 R12 DB/30</code></td><td>142</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r40db2r6db15~x2/"><img src="/variants/s4/r40db2r6db15~x2/sett.png" alt="Masai Shuka 21 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dy1r9db2r9db1~x4/"><circle cx="548.9" cy="216.4" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="349.2" cy="211.0" r="4" fill="#3465a4"><title>Masai Shuka 25</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="435.4" cy="180.8" r="4" fill="#3465a4"><title>Unidentified Cant</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="471.3" cy="178.3" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="419.1" cy="122.6" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><circle cx="345.7" cy="225.4" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/variants/s6/r30db8r2k1r2k1~x2/"><circle cx="518.1" cy="98.6" r="4" fill="#3465a4"><title>Masai Shuka 27</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="438.4" cy="156.6" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s6/db48r18db6r13y4r14~x2/"><circle cx="348.1" cy="205.7" r="4" fill="#3465a4"><title>Butler</title></circle></a><a href="/variants/s4/r38g2r5g16/"><circle cx="523.5" cy="218.3" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><circle cx="522.3" cy="198.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dy1r9db2r9db1~x4/"><circle cx="550.1" cy="216.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="350.0" cy="211.1" r="4" fill="#3465a4"><title>Masai Shuka 25</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="436.3" cy="181.0" r="4" fill="#3465a4"><title>Unidentified Cant</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="472.3" cy="178.6" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="420.1" cy="122.8" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><circle cx="346.4" cy="225.5" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/variants/s6/r30db8r2k1r2k1~x2/"><circle cx="519.6" cy="99.0" r="4" fill="#3465a4"><title>Masai Shuka 27</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="439.4" cy="156.8" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s6/db48r18db6r13y4r14~x2/"><circle cx="348.9" cy="205.8" r="4" fill="#3465a4"><title>Butler</title></circle></a><a href="/variants/s4/r38g2r5g16/"><circle cx="524.5" cy="218.8" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><circle cx="523.5" cy="198.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

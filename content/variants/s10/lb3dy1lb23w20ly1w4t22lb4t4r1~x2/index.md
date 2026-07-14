@@ -5,22 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Clan Forfar"
-  url: "/clan/forfar/"
-- name: "Forfar"
-  url: "/families/forfar/"
 - name: "Forfar"
   url: "/tartans/f/fo/forfar/"
 - name: "Forfar District Tartan"
-  url: "/setts/lb3dy1lb23w20ly1w4t22lb4t4r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb3dy1lb23w20ly1w4t22lb4t4r1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GWWYWBWBRBWBWYWWGW](/stripes/gwwywbwbrbwbwywwgw/).
+provenance below. It is one weaving of the [sett](/tartans/f/fo/forfar/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBWBWYWWGW](/stripes/rbwbwywwgw/).
 
 Part of the [Forfar](/tartans/f/fo/forfar/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6238](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6238)
 
@@ -45,9 +41,11 @@ Earliest known date: 01/03/2004 Designed by Arthur Mackie of The Strathmore Wool
 </details>
 
 ## Thread count
-LB/6 DY2 LB46 W40 LY2 W8 T44 LB8 T8 R2 T8 LB8 T44 W8 LY2 W40 LB46 DY/2
+LB/6 DY2 LB46 W40 LY2 W8 T44 LB8 T8 R/2
 
-One full sett is **640 threads**.
+One full sett is **324 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/6 DY2 LB46 W40 LY2 W8 T44 LB8 T8 R2 T8 LB8 T44 W8 LY2 W40 LB46 DY/2 — 640 threads; it folds to the canonical 324-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +54,7 @@ One full sett is **640 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/6 DY2 LB46 W40 LY2 W8 T44 LB8 T8 R2 T8 LB8 T44 W8 LY2 W40 LB46 DY/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/6 DY2 LB46 W40 LY2 W8 T44 LB8 T8 R/2 tartan" width="880" height="480">
 
 ## Compared to the master
 

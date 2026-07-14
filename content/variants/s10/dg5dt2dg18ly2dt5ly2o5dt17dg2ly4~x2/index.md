@@ -8,10 +8,10 @@ crumbs:
 - name: "Antrim, County"
   url: "/tartans/a/an/antrim-county/"
 - name: "Antrim, County"
-  url: "/setts/dg5dt2dg18ly2dt5ly2o5dt17dg2ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg5dt2dg18ly2dt5ly2o5dt17dg2ly4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/antrim-county/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGYBYRBGY](/stripes/gbgybyrbgy/).
 
 Part of the [Antrim, County](/tartans/a/an/antrim-county/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=98](http
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Antrim, County (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=98">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#406054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GN #406054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04C08;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MR #C04C08"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar.</em></li>
-<li>1996 — Antrim, County (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2282">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#406054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GN #406054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04C08;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MR #C04C08"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These are not 'officially sanctioned' District tartans but have apparently proved popular and no doubt in time will be accepted as genuine District rather than Fashion tartans.</em></li>
+<li>1996 — Antrim, County (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2282/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#406054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GN #406054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04C08;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MR #C04C08"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These are not 'officially sanctioned' District tartans but have apparently proved popular and no doubt in time will be accepted as genuine District rather than Fashion tartans.</em></li>
 </ul>
 </details>
 

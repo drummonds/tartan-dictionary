@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2~x2/">Fleming of Castle Carrick (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2~x2/"><img src="/variants/s14/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2~x2/sett.png" alt="Fleming of Castle Carrick (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fl/fleming-of-castle-carrick/">Fleming of Castle Carrick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/fleming-of-castle-carrick/"><img src="/variants/s14/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2~x2/sett.png" alt="Fleming of Castle Carrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

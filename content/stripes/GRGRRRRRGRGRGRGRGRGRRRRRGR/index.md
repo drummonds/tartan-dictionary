@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/r1g6r6ri6r1ri6r6g1r1g1r1g1r1g6r1g1r1g1r6ri6r1ri6r6g6r1g1~x8~r1707016-ri2109032/">MacNab</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/r1g6r6ri6r1ri6r6g1r1g1r1g1r1g6r1g1r1g1r6ri6r1ri6r6g6r1g1~x8~r1707016-ri2109032/"><img src="/variants/s26/r1g6r6ri6r1ri6r6g1r1g1r1g1r1g6r1g1r1g1r6ri6r1ri6r6g6r1g1~x8~r1707016-ri2109032/sett.png" alt="MacNab sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnab-4/">MacNab</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnab-4/"><img src="/variants/s26/r1g6r6ri6r1ri6r6g1r1g1r1g1r1g6r1g1r1g1r6ri6r1ri6r6g6r1g1~x8~r1707016-ri2109032/sett.png" alt="MacNab sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

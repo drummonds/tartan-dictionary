@@ -8,10 +8,10 @@ crumbs:
 - name: "Frederiction Police Force"
   url: "/tartans/f/fr/frederiction-police-force/"
 - name: "Frederiction Police Force"
-  url: "/setts/r6k55db8g6db10g6db6g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6k55db8g6db10g6db6g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/frederiction-police-force/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBKR](/stripes/gbgbgbkr/).
 
 Part of the [Frederiction Police Force](/tartans/f/fr/frederiction-police-force/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1274](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/2001 — Frederiction Police Force (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1274">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>Designed by John (or Jon) Ashton for the 150th anniversary of the founding of the Frederiction Police Force of New Brunswick Canada in 1851 when the Force consisted of two officers.</em></li>
-<li>2001 — Fredericton Police Force (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6194">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>Thought to have been designed by John (or Jon) Ashton for the 150th anniversary of the founding of the Frederiction Police Force of New Brunswick Canada in 1851 when the Force consisted of two officers.</em></li>
+<li>2001 — Fredericton Police Force (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6194/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>Thought to have been designed by John (or Jon) Ashton for the 150th anniversary of the founding of the Frederiction Police Force of New Brunswick Canada in 1851 when the Force consisted of two officers.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w15y2db5n3lb40db10/">Herriot New Zealand</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w15y2db5n3lb40db10/"><img src="/variants/s6/w15y2db5n3lb40db10/sett.png" alt="Herriot New Zealand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/herriot-new-zealand/">Herriot New Zealand</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/herriot-new-zealand/"><img src="/variants/s6/w15y2db5n3lb40db10/sett.png" alt="Herriot New Zealand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

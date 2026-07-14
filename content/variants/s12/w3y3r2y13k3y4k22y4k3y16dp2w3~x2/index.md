@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Sween"
   url: "/tartans/l/lo/loch-sween/"
 - name: "Loch Sween"
-  url: "/setts/w3y3r2y13k3y4k22y4k3y16dp2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3y3r2y13k3y4k22y4k3y16dp2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-sween/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGKGKGKGRGW](/stripes/wbgkgkgkgrgw/).
 
 Part of the [Loch Sween](/tartans/l/lo/loch-sween/) tartan — the named design grouping this sett with its other cloths.

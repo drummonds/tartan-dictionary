@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/ly4dy3dg2k6g4w1dg12k10g2dg3~x2/">Noble (South Africa) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/ly4dy3dg2k6g4w1dg12k10g2dg3~x2/"><img src="/variants/s10/ly4dy3dg2k6g4w1dg12k10g2dg3~x2/sett.png" alt="Noble (South Africa) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/noble/">Noble</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/noble/"><img src="/variants/s10/ly4dy3dg2k6g4w1dg12k10g2dg3~x2/sett.png" alt="Noble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

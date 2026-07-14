@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/w4lb34db60y3~x2/">MacKerral Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w4lb34db60y3~x2/"><img src="/variants/s4/w4lb34db60y3~x2/sett.png" alt="MacKerral Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w4lb28db49y3/">McKerrell of Hillhouse</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w4lb28db49y3/"><img src="/variants/s4/w4lb28db49y3~x2~db1204274/sett.png" alt="McKerrell of Hillhouse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackerral/">MacKerral</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackerral/"><img src="/variants/s4/w4lb34db60y3~x2/sett.png" alt="MacKerral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mckerrell-of-hillhouse-hunting/">McKerrell of Hillhouse Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mckerrell-of-hillhouse-hunting/"><img src="/variants/s4/w4lb28db49y3~x2~db1204274/sett.png" alt="McKerrell of Hillhouse Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

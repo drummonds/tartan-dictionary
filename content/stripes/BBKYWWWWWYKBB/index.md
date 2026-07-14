@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db20dr3k10lo2lb15w2lb4w2lb15lo2k10dr3db20~x2/">U.S. Forces Thurso</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db20dr3k10lo2lb15w2lb4w2lb15lo2k10dr3db20~x2/"><img src="/variants/s13/db20dr3k10lo2lb15w2lb4w2lb15lo2k10dr3db20~x2/sett.png" alt="U.S. Forces Thurso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/u/u-s-forces-thurso/">U.S. Forces Thurso</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-forces-thurso/"><img src="/variants/s13/db20dr3k10lo2lb15w2lb4w2lb15lo2k10dr3db20~x2/sett.png" alt="U.S. Forces Thurso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

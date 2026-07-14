@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/n2r9db8dr4db8g2y2/"
+- "/setts/y2g2db8dr4db8r9lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbbbgg/">BRBBBGG</a></nav>
 Its design is pattern [BRBBBGG](/stripes/brbbbgg/) — the page of every tartan sharing this colour sequence.
 
 The **Feis An Eilein** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Feis An Eilein** tartan groups 2 setts — the same named design recorded 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n2r9db8dr4db8g2y2/">Feis An Eilein</a> ★</td><td><code>N/16 R72 DB64 DR32 DB64 G16 Y/16</code></td><td>528</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n2r9db8dr4db8g2y2/"><img src="/variants/s7/n2r9db8dr4db8g2y2~x8/sett.png" alt="Feis An Eilein sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/y2g2db8dr4db8r9lb2/">(Corporate)</a></td><td><code>Y/8 G8 DB32 DR16 DB32 R36 LB/8</code></td><td>264</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y2g2db8dr4db8r9lb2/"><img src="y2g2db8dr4db8r9lb2-rev.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/">Feis An Eilein</a> ★</td><td><code>N/16 R72 DB64 DR32 DB64 G16 Y/16</code></td><td>528</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><img src="/variants/s7/n2r9db8dr4db8g2y2~x8/sett.png" alt="Feis An Eilein sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y2g2db8dr4db8r9lb2~x4/">(Corporate)</a></td><td><code>Y/8 G8 DB32 DR16 DB32 R36 LB/8</code></td><td>264</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y2g2db8dr4db8r9lb2~x4/"><img src="y2g2db8dr4db8r9lb2-rev.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db25r10db25w8o6g8y5~x2/"><circle cx="205.1" cy="215.1" r="4" fill="#3465a4"><title>Barneys</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.4" cy="226.6" r="4" fill="#3465a4"><title>Ryan/Fehder</title></circle></a><a href="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/"><circle cx="222.5" cy="188.3" r="4" fill="#3465a4"><title>Ross Dempster</title></circle></a><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><circle cx="146.9" cy="193.5" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/"><circle cx="304.2" cy="235.6" r="4" fill="#3465a4"><title>HMS Duncan Regimental</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="185.1" cy="254.5" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="172.5" cy="275.0" r="4" fill="#3465a4"><title>Battle of Prestonpans Herit</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="126.4" cy="209.5" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="146.7" cy="266.7" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="173.6" cy="242.8" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><circle cx="180.3" cy="244.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db25r10db25w8o6g8y5~x2/"><circle cx="205.4" cy="214.9" r="4" fill="#3465a4"><title>Barneys</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.5" cy="226.3" r="4" fill="#3465a4"><title>Ryan/Fehder</title></circle></a><a href="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/"><circle cx="222.9" cy="188.1" r="4" fill="#3465a4"><title>Ross Dempster</title></circle></a><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><circle cx="147.1" cy="193.1" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/"><circle cx="304.6" cy="235.6" r="4" fill="#3465a4"><title>HMS Duncan Regimental</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="185.2" cy="254.4" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="172.6" cy="274.8" r="4" fill="#3465a4"><title>Battle of Prestonpans Herit</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="126.5" cy="209.2" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="146.7" cy="266.5" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="173.6" cy="242.6" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><circle cx="180.4" cy="244.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

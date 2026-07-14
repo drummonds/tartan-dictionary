@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w4db32k2lb4k2y5k3y5k2lb4k2g32lb4~x2/">Reston (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w4db32k2lb4k2y5k3y5k2lb4k2g32lb4~x2/"><img src="/variants/s13/w4db32k2lb4k2y5k3y5k2lb4k2g32lb4~x2/sett.png" alt="Reston (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/reston/">Reston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/reston/"><img src="/variants/s13/w4db32k2lb4k2y5k3y5k2lb4k2g32lb4~x2/sett.png" alt="Reston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

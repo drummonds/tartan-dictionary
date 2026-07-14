@@ -8,10 +8,10 @@ crumbs:
 - name: "Castle Fraser"
   url: "/tartans/c/ca/castle-fraser/"
 - name: "Castle Fraser Check"
-  url: "/setts/dg20o1dg4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg20o1dg4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/castle-fraser/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRG](/stripes/grg/).
 
 Part of the [Castle Fraser](/tartans/c/ca/castle-fraser/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=592](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Castle Fraser Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=592">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C02000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #C02000"></span><br><em>No details</em></li>
-<li>pre 2002 — Castle Fraser (Estate Check) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4476">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C02000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #C02000"></span></li>
+<li>pre 2002 — Castle Fraser (Estate Check) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4476/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C02000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #C02000"></span></li>
 </ul>
 </details>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "MacMaster"
   url: "/tartans/m/ma/macmaster-4/"
 - name: "MacMaster (New) Family Tartan"
-  url: "/setts/g12r12g2r2g2r2g6y2r1y2g6r2g2r2g2r12db8g8k2r4k2r4k2g8db8r12g12lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12r12g2r2g2r2g6y2r1y2g6r2g2r2g2r12db8g8k2r4k2r4k2g8db8r12g12lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macmaster-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGGRGGRGRGRBGKRKRKGBRGW](/stripes/grgrgrggrggrgrgrbgkrkrkgbrgw/).
 
 Part of the [MacMaster](/tartans/m/ma/macmaster-4/) tartan — the named design grouping this sett with its other cloths.

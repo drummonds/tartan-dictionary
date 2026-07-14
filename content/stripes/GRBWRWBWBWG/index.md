@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g4r1db8w1r1w1b8w1b8w1y1~x4/">Texas, Bluebonnet</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g4r1db8w1r1w1b8w1b8w1y1~x4/"><img src="/variants/s11/g4r1db8w1r1w1b8w1b8w1y1~x4/sett.png" alt="Texas, Bluebonnet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/texas-bluebonnet/">Texas, Bluebonnet</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/texas-bluebonnet/"><img src="/variants/s11/g4r1db8w1r1w1b8w1b8w1y1~x4/sett.png" alt="Texas, Bluebonnet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

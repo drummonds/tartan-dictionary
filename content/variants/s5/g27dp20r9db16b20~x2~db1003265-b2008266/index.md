@@ -8,10 +8,10 @@ crumbs:
 - name: "Currens"
   url: "/tartans/c/cu/currens/"
 - name: "Currens (2016)"
-  url: "/setts/g27dp20r9db16b20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g27dp20r9db16b20/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/currens/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBG](/stripes/bbrbg/).
 
 Part of the [Currens](/tartans/c/cu/currens/) tartan — the named design grouping this sett with its other cloths.

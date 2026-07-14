@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr2g10db10k5b2k5g10k10b2k10lo2~x2/">Nairn (Edinburgh Woollen Mill)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr2g10db10k5b2k5g10k10b2k10lo2~x2/"><img src="/variants/s11/dr2g10db10k5b2k5g10k10b2k10lo2~x2/sett.png" alt="Nairn (Edinburgh Woollen Mill) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/nairn/">Nairn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/nairn/"><img src="/variants/s11/dr2g10db10k5b2k5g10k10b2k10lo2~x2/sett.png" alt="Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

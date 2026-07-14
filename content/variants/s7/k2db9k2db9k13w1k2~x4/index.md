@@ -10,10 +10,10 @@ crumbs:
 - name: "Swan 2015, Brian E"
   url: "/tartans/s/sw/swan-2015-brian-e/"
 - name: "Swan 2015, Brian E (Personal)"
-  url: "/setts/k2db9k2db9k13w1k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2db9k2db9k13w1k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sw/swan-2015-brian-e/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKWK](/stripes/kbkbkwk/).
 
 Part of the [Swan 2015, Brian E](/tartans/s/sw/swan-2015-brian-e/) tartan — the named design grouping this sett with its other cloths.

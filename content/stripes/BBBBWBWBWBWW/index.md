@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr3n2dr6n21lb2n4lb3n3lb4n2lb13w2~x2/">Qatar Airways</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr3n2dr6n21lb2n4lb3n3lb4n2lb13w2~x2/"><img src="/variants/s12/dr3n2dr6n21lb2n4lb3n3lb4n2lb13w2~x2/sett.png" alt="Qatar Airways sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qa/qatar-airways/">Qatar Airways</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qa/qatar-airways/"><img src="/variants/s12/dr3n2dr6n21lb2n4lb3n3lb4n2lb13w2~x2/sett.png" alt="Qatar Airways sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

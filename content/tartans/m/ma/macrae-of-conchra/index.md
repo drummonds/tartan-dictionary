@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/macrae/"
 - name: "MacRae of Conchra"
   url: "/families/macrae-of-conchra/"
+aliases:
+- "/setts/r7w36db36y7/"
+- "/setts/r1w8b8y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbwr/">GBWR</a></nav>
 A tartan of the [MacRae of Conchra](/families/macrae-of-conchra/) family.
 Its design is pattern [GBWR](/stripes/gbwr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **MacRae of Conchra** tartan groups 2 setts — the same named design record
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r7w36db36y7/">MacRae of Conchra</a> ★</td><td><code>R/14 W72 DB72 Y/14</code></td><td>316</td><td>1893</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r7w36db36y7/"><img src="/variants/s4/r7w36db36y7~x2/sett.png" alt="MacRae of Conchra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r1w8b8y1/">MacRae of Conchra</a></td><td><code>R/4 W32 B32 Y/4</code></td><td>136</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1w8b8y1/"><img src="/variants/s4/r1w8b8y1~x4/sett.png" alt="MacRae of Conchra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r7w36db36y7~x2/">MacRae of Conchra</a> ★</td><td><code>R/14 W72 DB72 Y/14</code></td><td>316</td><td>1893</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r7w36db36y7~x2/"><img src="/variants/s4/r7w36db36y7~x2/sett.png" alt="MacRae of Conchra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r1w8b8y1~x4/">MacRae of Conchra</a></td><td><code>R/4 W32 B32 Y/4</code></td><td>136</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r1w8b8y1~x4/"><img src="/variants/s4/r1w8b8y1~x4/sett.png" alt="MacRae of Conchra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -40,6 +44,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lb3w10db10g10r2~x4/"><circle cx="76.6" cy="268.7" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="258.2" cy="232.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="172.8" cy="205.7" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s5/r30db20w15lb3ly3/"><circle cx="186.8" cy="206.6" r="4" fill="#3465a4"><title>Siddle, New</title></circle></a><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="195.8" cy="244.0" r="4" fill="#3465a4"><title>Common Ground</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="225.3" cy="261.2" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.6" cy="221.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="197.5" cy="279.6" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="172.1" cy="278.7" r="4" fill="#3465a4"><title>Doohan , Andrew</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="207.6" cy="257.8" r="4" fill="#3465a4"><title>Thorntons Law</title></circle></a><circle cx="184.3" cy="255.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lb3w10db10g10r2~x4/"><circle cx="76.5" cy="268.3" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="258.7" cy="232.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="173.2" cy="205.6" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s5/r30db20w15lb3ly3/"><circle cx="187.1" cy="206.3" r="4" fill="#3465a4"><title>Siddle, New</title></circle></a><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="196.0" cy="243.8" r="4" fill="#3465a4"><title>Common Ground</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="225.5" cy="261.2" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.8" cy="221.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="197.6" cy="279.5" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="172.3" cy="278.5" r="4" fill="#3465a4"><title>Doohan , Andrew</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="207.9" cy="257.7" r="4" fill="#3465a4"><title>Thorntons Law</title></circle></a><circle cx="184.6" cy="255.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

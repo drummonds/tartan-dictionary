@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r1lb1r6db3r1g6r1g6r6db1r1lb1/">MacQuarrie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r1lb1r6db3r1g6r1g6r6db1r1lb1/"><img src="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/sett.png" alt="MacQuarrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/">MacQuarrie SM</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/"><img src="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/sett.png" alt="MacQuarrie SM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macquarrie-sm/">MacQuarrie SM</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macquarrie-sm/"><img src="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/sett.png" alt="MacQuarrie SM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

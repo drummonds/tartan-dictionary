@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/">Musselburgh Dress (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/"><img src="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/sett.png" alt="Musselburgh Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/musselburgh-dress/">Musselburgh Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/musselburgh-dress/"><img src="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/sett.png" alt="Musselburgh Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

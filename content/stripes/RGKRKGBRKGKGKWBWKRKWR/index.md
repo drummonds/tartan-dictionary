@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/r4lb10k1r2k1lb32db4w5k4y2k2y2k8r2db8g9k1r2k1g8r4~x2/">Anderson (MacGregor-Hastie #2)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/r4lb10k1r2k1lb32db4w5k4y2k2y2k8r2db8g9k1r2k1g8r4~x2/"><img src="/variants/s21/r4lb10k1r2k1lb32db4w5k4y2k2y2k8r2db8g9k1r2k1g8r4~x2/sett.png" alt="Anderson (MacGregor-Hastie #2) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/anderson-8/">Anderson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/anderson-8/"><img src="/variants/s21/r4lb10k1r2k1lb32db4w5k4y2k2y2k8r2db8g9k1r2k1g8r4~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

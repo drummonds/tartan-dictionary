@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/t18w1k3w1t9w1k45t4~x2/">Lynn (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/t18w1k3w1t9w1k45t4~x2/"><img src="/variants/s8/t18w1k3w1t9w1k45t4~x2/sett.png" alt="Lynn (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db18w1k3w1db9w1k45db4~x2/">Lynn (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db18w1k3w1db9w1k45db4~x2/"><img src="/variants/s8/db18w1k3w1db9w1k45db4~x2/sett.png" alt="Lynn (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ly/lynn/">Lynn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ly/lynn/"><img src="/variants/s8/db18w1k3w1db9w1k45db4~x2/sett.png" alt="Lynn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

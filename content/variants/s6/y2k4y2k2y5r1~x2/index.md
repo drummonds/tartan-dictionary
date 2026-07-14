@@ -12,10 +12,10 @@ crumbs:
 - name: "Lauder"
   url: "/tartans/l/la/lauder-2/"
 - name: "Lauder"
-  url: "/setts/y2k4y2k2y5r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2k4y2k2y5r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lauder-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGR](/stripes/gkgkgr/).
 
 Part of the [Lauder](/tartans/l/la/lauder-2/) tartan — the named design grouping this sett with its other cloths.

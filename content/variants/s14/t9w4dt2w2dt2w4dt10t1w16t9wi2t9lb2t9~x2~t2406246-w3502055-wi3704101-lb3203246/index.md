@@ -8,10 +8,10 @@ crumbs:
 - name: "Balamory Fancy"
   url: "/tartans/b/ba/balamory-fancy/"
 - name: "Balamory Fancy Tartan"
-  url: "/setts/t9w4dt2w2dt2w4dt10t1w16t9wi2t9lb2t9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t9w4dt2w2dt2w4dt10t1w16t9wi2t9lb2t9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/balamory-fancy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBBWBWBWB](/stripes/bwbwbwbbwbwbwb/).
 
 Part of the [Balamory Fancy](/tartans/b/ba/balamory-fancy/) tartan — the named design grouping this sett with its other cloths.

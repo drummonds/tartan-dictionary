@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/">Perthshire Highland Society (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/"><img src="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/sett.png" alt="Perthshire Highland Society (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perthshire-highland-society/">Perthshire Highland Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perthshire-highland-society/"><img src="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/sett.png" alt="Perthshire Highland Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

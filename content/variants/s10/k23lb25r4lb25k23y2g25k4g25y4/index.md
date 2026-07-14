@@ -12,10 +12,10 @@ crumbs:
 - name: "Forsyth"
   url: "/tartans/f/fo/forsyth/"
 - name: "Forsyth"
-  url: "/setts/k23lb25r4lb25k23y2g25k4g25y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k23lb25r4lb25k23y2g25k4g25y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/forsyth/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGGKWRWK](/stripes/ggkggkwrwk/).
 
 Part of the [Forsyth](/tartans/f/fo/forsyth/) tartan — the named design grouping this sett with its other cloths.

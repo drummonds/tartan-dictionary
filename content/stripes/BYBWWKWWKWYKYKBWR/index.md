@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/">Clauwaert (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/"><img src="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/sett.png" alt="Clauwaert (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clauwaert/">Clauwaert</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clauwaert/"><img src="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/sett.png" alt="Clauwaert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

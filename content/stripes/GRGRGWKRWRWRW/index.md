@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/">Boston Pipe Band, Greater</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/"><img src="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/sett.png" alt="Boston Pipe Band, Greater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boston-pipe-band-greater/">Boston Pipe Band, Greater</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boston-pipe-band-greater/"><img src="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/sett.png" alt="Boston Pipe Band, Greater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

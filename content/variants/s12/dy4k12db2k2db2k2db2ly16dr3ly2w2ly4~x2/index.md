@@ -12,10 +12,10 @@ crumbs:
 - name: "Cailean"
   url: "/tartans/c/ca/cailean/"
 - name: "Cailean (Pendleton)"
-  url: "/setts/dy4k12db2k2db2k2db2ly16dr3ly2w2ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy4k12db2k2db2k2db2ly16dr3ly2w2ly4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cailean/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBYBYWY](/stripes/gkbkbkbybywy/).
 
 Part of the [Cailean](/tartans/c/ca/cailean/) tartan — the named design grouping this sett with its other cloths.

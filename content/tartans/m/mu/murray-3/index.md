@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/murray/"
 - name: "Murray"
   url: "/families/murray/"
+aliases:
+- "/setts/lb3k16g16k16db3lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbkgkw/">WBKGKW</a></nav>
 A tartan of the [Murray](/families/murray/) family.
 Its design is pattern [WBKGKW](/stripes/wbkgkw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Murray** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb3k16g16k16db3lb3/">Murray</a></td><td><code>LB/6 K32 G32 K32 DB6 LB/6</code></td><td>216</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb3k16g16k16db3lb3/"><img src="/variants/s6/lb3k16g16k16db3lb3~x2/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb3k16g16k16db3lb3~x2/">Murray</a></td><td><code>LB/6 K32 G32 K32 DB6 LB/6</code></td><td>216</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb3k16g16k16db3lb3~x2/"><img src="/variants/s6/lb3k16g16k16db3lb3~x2/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="280.5" cy="168.7" r="4" fill="#3465a4"><title>Brotherhood of the</title></circle></a><a href="/variants/s4/k3g15k20y3~x2/"><circle cx="273.8" cy="231.1" r="4" fill="#3465a4"><title>Scotch Tape 2</title></circle></a><a href="/variants/s4/k1g8k8ly1~x4/"><circle cx="257.7" cy="222.4" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/variants/s5/db12k17g19w2k5~x2/"><circle cx="162.5" cy="222.4" r="4" fill="#3465a4"><title>Wilson's Folio 131</title></circle></a><a href="/variants/s6/b1k4dr1k4dg5lr1~x4/"><circle cx="189.3" cy="221.7" r="4" fill="#3465a4"><title>Unidentified Dance</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="197.0" cy="215.2" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="234.0" cy="190.5" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s4/k6lb1g7k1~x2/"><circle cx="231.5" cy="228.5" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s4/k30lb7g36k5~x2/"><circle cx="220.7" cy="231.5" r="4" fill="#3465a4"><title>Innes Hunting</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="271.4" cy="185.3" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><circle cx="214.6" cy="213.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="281.4" cy="168.8" r="4" fill="#3465a4"><title>Brotherhood of the</title></circle></a><a href="/variants/s4/k3g15k20y3~x2/"><circle cx="274.5" cy="231.3" r="4" fill="#3465a4"><title>Scotch Tape 2</title></circle></a><a href="/variants/s4/k1g8k8ly1~x4/"><circle cx="258.3" cy="222.5" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/variants/s5/db12k17g19w2k5~x2/"><circle cx="162.9" cy="222.4" r="4" fill="#3465a4"><title>Wilson's Folio 131</title></circle></a><a href="/variants/s6/b1k4dr1k4dg5lr1~x4/"><circle cx="189.8" cy="221.7" r="4" fill="#3465a4"><title>Unidentified Dance</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="197.6" cy="215.2" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="234.7" cy="190.6" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s4/k6lb1g7k1~x2/"><circle cx="232.1" cy="228.6" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s4/k30lb7g36k5~x2/"><circle cx="221.3" cy="231.5" r="4" fill="#3465a4"><title>Innes Hunting</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="272.3" cy="185.4" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><circle cx="215.2" cy="213.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

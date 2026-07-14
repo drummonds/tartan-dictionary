@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/">Aberlour Bicentenary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/"><img src="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/sett.png" alt="Aberlour Bicentenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberlour-bicentenary/">Aberlour Bicentenary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberlour-bicentenary/"><img src="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/sett.png" alt="Aberlour Bicentenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/">Moss</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><img src="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/sett.png" alt="Moss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moss/">Moss</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moss/"><img src="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/sett.png" alt="Moss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

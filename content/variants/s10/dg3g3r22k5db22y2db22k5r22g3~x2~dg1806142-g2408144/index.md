@@ -8,10 +8,10 @@ crumbs:
 - name: "MacLeod Society of Scotland"
   url: "/tartans/m/ma/macleod-society-of-scotland/"
 - name: "MacLeod Society of Scotland Clan Tartan"
-  url: "/setts/dg3g3r22k5db22y2db22k5r22g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg3g3r22k5db22y2db22k5r22g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macleod-society-of-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRKBGBKRG](/stripes/ggrkbgbkrg/).
 
 Part of the [MacLeod Society of Scotland](/tartans/m/ma/macleod-society-of-scotland/) tartan — the named design grouping this sett with its other cloths.

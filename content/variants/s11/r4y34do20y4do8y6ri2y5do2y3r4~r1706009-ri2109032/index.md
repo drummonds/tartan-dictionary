@@ -12,10 +12,10 @@ crumbs:
 - name: "Morgan"
   url: "/tartans/m/mo/morgan-2/"
 - name: "Morgan Welsh Name Tartan"
-  url: "/setts/r4y34do20y4do8y6ri2y5do2y3r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4y34do20y4do8y6ri2y5do2y3r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/morgan-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGBGRGBGR](/stripes/rgbgbgrgbgr/).
 
 Part of the [Morgan](/tartans/m/mo/morgan-2/) tartan — the named design grouping this sett with its other cloths.

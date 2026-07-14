@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r13y1k3ly1dg4r1k2y1w1~x4~y2602166-ly3307090/">Gillespie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r13y1k3ly1dg4r1k2y1w1~x4~y2602166-ly3307090/"><img src="/variants/s9/r13y1k3ly1dg4r1k2y1w1~x4~y2602166-ly3307090/sett.png" alt="Gillespie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gi/gillespie/">Gillespie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/gillespie/"><img src="/variants/s9/r13y1k3ly1dg4r1k2y1w1~x4~y2602166-ly3307090/sett.png" alt="Gillespie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

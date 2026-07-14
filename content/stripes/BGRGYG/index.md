@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/">Hutcheson (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/"><img src="/variants/s6/db8y4r30dg30lo3dg4~x2/sett.png" alt="Hutcheson (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hutcheson/">Hutcheson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hutcheson/"><img src="/variants/s6/db8y4r30dg30lo3dg4~x2/sett.png" alt="Hutcheson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

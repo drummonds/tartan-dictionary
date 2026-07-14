@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/">Burnett of Leys</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><img src="/variants/s8/r92db10r8w3r8g4r8lo3~x2/sett.png" alt="Burnett of Leys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burnett-of-leys/">Burnett of Leys</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burnett-of-leys/"><img src="/variants/s8/r92db10r8w3r8g4r8lo3~x2/sett.png" alt="Burnett of Leys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

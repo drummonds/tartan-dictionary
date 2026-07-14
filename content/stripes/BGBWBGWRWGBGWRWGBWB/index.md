@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/">Gorman Spring (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/"><img src="/variants/s19/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/sett.png" alt="Gorman Spring (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gorman-spring/">Gorman Spring</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gorman-spring/"><img src="/variants/s19/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/sett.png" alt="Gorman Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

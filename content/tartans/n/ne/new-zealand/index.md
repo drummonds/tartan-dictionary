@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k21lb2k5lb9k13g2/"
+- "/setts/k21w2k5w9k13g2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkwkwk/">GKWKWK</a></nav>
 Its design is pattern [GKWKWK](/stripes/gkwkwk/) — the page of every tartan sharing this colour sequence.
 
 District tartan designed by Timely Marketing Promotions, Christchurch, New Zealand.
@@ -15,10 +19,10 @@ The **New Zealand** tartan groups 2 setts — the same named design recorded as 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k21lb2k5lb9k13g2/">New Zealand</a> ★</td><td><code>K/84 LB8 K20 LB36 K52 G/8</code></td><td>324</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k21lb2k5lb9k13g2/"><img src="/variants/s6/k21lb2k5lb9k13g2~x4/sett.png" alt="New Zealand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k21w2k5w9k13g2/">District Tartan</a></td><td><code>K/84 W8 K20 W36 K52 G/8</code></td><td>324</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k21w2k5w9k13g2/"><img src="/variants/s6/k21w2k5w9k13g2~x4/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k21lb2k5lb9k13g2~x4/">New Zealand</a> ★</td><td><code>K/84 LB8 K20 LB36 K52 G/8</code></td><td>324</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k21lb2k5lb9k13g2~x4/"><img src="/variants/s6/k21lb2k5lb9k13g2~x4/sett.png" alt="New Zealand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k21w2k5w9k13g2~x4/">District Tartan</a></td><td><code>K/84 W8 K20 W36 K52 G/8</code></td><td>324</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k21w2k5w9k13g2~x4/"><img src="/variants/s6/k21w2k5w9k13g2~x4/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k19r2k20db6k8db6ly2~x2/"><circle cx="396.6" cy="172.1" r="4" fill="#3465a4"><title>Wyse</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="366.2" cy="119.6" r="4" fill="#3465a4"><title>Pride of Nova Scotia</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="304.7" cy="165.8" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/"><circle cx="358.4" cy="136.7" r="4" fill="#3465a4"><title>Anzac</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="342.1" cy="177.9" r="4" fill="#3465a4"><title>Black</title></circle></a><a href="/variants/s6/k40db10g6k2g3k2~x2/"><circle cx="421.0" cy="128.9" r="4" fill="#3465a4"><title>Daks</title></circle></a><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><circle cx="334.8" cy="146.4" r="4" fill="#3465a4"><title>Lundy Reform</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="454.1" cy="163.0" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="309.7" cy="142.0" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="249.6" cy="177.8" r="4" fill="#3465a4"><title>Frame</title></circle></a><circle cx="385.1" cy="175.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k19r2k20db6k8db6ly2~x2/"><circle cx="397.8" cy="172.4" r="4" fill="#3465a4"><title>Wyse</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="367.4" cy="119.8" r="4" fill="#3465a4"><title>Pride of Nova Scotia</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="305.7" cy="166.0" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/"><circle cx="359.7" cy="136.9" r="4" fill="#3465a4"><title>Anzac</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="343.2" cy="178.1" r="4" fill="#3465a4"><title>Black</title></circle></a><a href="/variants/s6/k40db10g6k2g3k2~x2/"><circle cx="422.3" cy="129.2" r="4" fill="#3465a4"><title>Daks</title></circle></a><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><circle cx="336.0" cy="146.5" r="4" fill="#3465a4"><title>Lundy Reform</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="455.5" cy="163.5" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="310.7" cy="142.1" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="250.4" cy="177.8" r="4" fill="#3465a4"><title>Frame</title></circle></a><circle cx="386.4" cy="175.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

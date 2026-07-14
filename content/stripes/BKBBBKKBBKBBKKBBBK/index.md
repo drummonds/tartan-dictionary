@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4~x2/">Hughes (USA) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4~x2/"><img src="/variants/s16/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4~x2/sett.png" alt="Hughes (USA) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hughes-3/">Hughes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hughes-3/"><img src="/variants/s16/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4~x2/sett.png" alt="Hughes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

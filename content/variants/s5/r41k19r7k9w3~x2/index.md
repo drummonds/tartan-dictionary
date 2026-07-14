@@ -12,10 +12,10 @@ crumbs:
 - name: "MacGregor"
   url: "/tartans/m/ma/macgregor-4/"
 - name: "MacGregor, Black (Personal)"
-  url: "/setts/r41k19r7k9w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r41k19r7k9w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKW](/stripes/rkrkw/).
 
 Part of the [MacGregor](/tartans/m/ma/macgregor-4/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2461](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2005 — MacGregor, Black (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2461">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Woven for Mrs Carol MacGregor (mother of film star Ewan MacGregor) for family use and inspired by seeing a business card printed with a very dark version of the tartan. The conventional green has been changed to black. Woven by Lochcarron of Scotland.</em></li>
-<li>2005 — MacGregor - 2005 (Black - Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6988">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #101010"></span><br><em>Woven for Mrs Carol MacGregor (mother of film star Ewan MacGregor) for family use and inspired by seeing a business card printed with a very dark version of the tartan. The conventional green has been changed to black. Woven by Lochcarron of Scotland. Not sure how this can be restricted as a very dark G would look K. PEM Nov 10</em></li>
+<li>2005 — MacGregor - 2005 (Black - Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6988/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #101010"></span><br><em>Woven for Mrs Carol MacGregor (mother of film star Ewan MacGregor) for family use and inspired by seeing a business card printed with a very dark version of the tartan. The conventional green has been changed to black. Woven by Lochcarron of Scotland. Not sure how this can be restricted as a very dark G would look K. PEM Nov 10</em></li>
 </ul>
 </details>
 

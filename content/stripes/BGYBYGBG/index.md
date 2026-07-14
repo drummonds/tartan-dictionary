@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/">Dogwood</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/"><img src="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/sett.png" alt="Dogwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dogwood-2/">Dogwood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dogwood-2/"><img src="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/sett.png" alt="Dogwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

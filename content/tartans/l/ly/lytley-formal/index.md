@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dbi1db1r1dp2dr1ly1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbrbby/">BBRBBY</a></nav>
 Its design is pattern [BBRBBY](/stripes/bbrbby/) — the page of every tartan sharing this colour sequence.
 
 The **Lytley Formal** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Lytley Formal** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dbi1db1r1dp2dr1ly1/">Lytley Formal</a></td><td><code>DBi/10 DB10 R10 DP20 DR10 LY/10</code></td><td>120</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dbi1db1r1dp2dr1ly1/"><img src="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/sett.png" alt="Lytley Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/">Lytley Formal</a></td><td><code>DBi/10 DB10 R10 DP20 DR10 LY/10</code></td><td>120</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/"><img src="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/sett.png" alt="Lytley Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/"><circle cx="81.8" cy="334.2" r="4" fill="#3465a4"><title>Currens</title></circle></a><a href="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/"><circle cx="219.0" cy="304.0" r="4" fill="#3465a4"><title>Blairgowrie Berries and Cherries</title></circle></a><a href="/variants/s4/db2dr1k1lb1~x10/"><circle cx="93.4" cy="322.9" r="4" fill="#3465a4"><title>Kucher, Gregory</title></circle></a><a href="/variants/s6/g2y1lo1r1dp1db1~x36/"><circle cx="21.9" cy="327.5" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="126.4" cy="209.5" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll</title></circle></a><a href="/variants/s4/r10db5lb5n4~x8/"><circle cx="163.1" cy="333.3" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri2806019-r2108022/"><circle cx="14.0" cy="332.0" r="4" fill="#3465a4"><title>Krifa-Jean</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.4" cy="216.8" r="4" fill="#3465a4"><title>Falardeau-Murphy</title></circle></a><a href="/variants/s6/db12y8r5k6db7g5~x4/"><circle cx="86.4" cy="291.8" r="4" fill="#3465a4"><title>Mitchell, Martin</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.4" cy="226.6" r="4" fill="#3465a4"><title>Ryan/Fehder</title></circle></a><circle cx="35.6" cy="324.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/"><circle cx="81.5" cy="333.9" r="4" fill="#3465a4"><title>Currens</title></circle></a><a href="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/"><circle cx="218.9" cy="303.9" r="4" fill="#3465a4"><title>Blairgowrie Berries and Cherries</title></circle></a><a href="/variants/s4/db2dr1k1lb1~x10/"><circle cx="93.4" cy="322.7" r="4" fill="#3465a4"><title>Kucher, Gregory</title></circle></a><a href="/variants/s6/g2y1lo1r1dp1db1~x36/"><circle cx="21.3" cy="327.1" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="126.5" cy="209.2" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll</title></circle></a><a href="/variants/s4/r10db5lb5n4~x8/"><circle cx="163.0" cy="333.1" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri2806019-r2108022/"><circle cx="14.0" cy="331.4" r="4" fill="#3465a4"><title>Krifa-Jean</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.3" cy="216.5" r="4" fill="#3465a4"><title>Falardeau-Murphy</title></circle></a><a href="/variants/s6/db12y8r5k6db7g5~x4/"><circle cx="86.4" cy="291.6" r="4" fill="#3465a4"><title>Mitchell, Martin</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.5" cy="226.3" r="4" fill="#3465a4"><title>Ryan/Fehder</title></circle></a><circle cx="35.2" cy="324.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

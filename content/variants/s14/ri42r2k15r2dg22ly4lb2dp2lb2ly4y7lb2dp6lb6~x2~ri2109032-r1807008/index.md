@@ -12,10 +12,10 @@ crumbs:
 - name: "Dundee"
   url: "/tartans/d/du/dundee-4/"
 - name: "Dundee #3"
-  url: "/setts/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dundee-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRKRGYWBWYGWBW](/stripes/rrkrgywbwygwbw/).
 
 Part of the [Dundee](/tartans/d/du/dundee-4/) tartan — the named design grouping this sett with its other cloths.

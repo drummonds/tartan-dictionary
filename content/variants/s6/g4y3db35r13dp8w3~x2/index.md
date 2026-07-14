@@ -8,15 +8,15 @@ crumbs:
 - name: "Kilsyth"
   url: "/tartans/k/ki/kilsyth/"
 - name: "Kilsyth"
-  url: "/setts/g4y3db35r13dp8w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4y3db35r13dp8w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GBRBWBRBGG](/stripes/gbrbwbrbgg/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kilsyth/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBRBW](/stripes/ggbrbw/).
 
 Part of the [Kilsyth](/tartans/k/ki/kilsyth/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1977](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1977)
 
@@ -28,7 +28,7 @@ Earliest known date: January 2002 Kilsyth in Scotland, Canada, Australia, New Ze
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Kilsyth (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1977">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Clan/Family tartan for people from Kilsyth (Scotland) and surrounding area and all who have ancestral links with Kilsyth - in particular, inhabitants of Kilsyth Canada, Australia, New Zealand and America. Designed by William & Colin Chalmers of Howe Rd, Kilsyth, Scotland.</em></li>
-<li>January 2002 — Kilsyth (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4073">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>District tartan for people from Kilsyth (Scotland) and surrounding area and all who have ancestral links with Kilsyth - in particular, inhabitants of Kilsyth Canada, Australia, New Zealand and America. Designed by William & Colin Chalmers of Howe Rd, Kilsyth, Scotland.</em></li>
+<li>January 2002 — Kilsyth (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4073/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>District tartan for people from Kilsyth (Scotland) and surrounding area and all who have ancestral links with Kilsyth - in particular, inhabitants of Kilsyth Canada, Australia, New Zealand and America. Designed by William & Colin Chalmers of Howe Rd, Kilsyth, Scotland.</em></li>
 <li>January 2002 — Kilsyth District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4073">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 </ul>
 </details>
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4073
 
 ## Thread count
-G/8 Y6 DB70 R26 DP16 W6 DP16 R26 DB70 Y/6
+G/8 Y6 DB70 R26 DP16 W/6
 
-One full sett is **486 threads**.
+One full sett is **250 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/8 Y6 DB70 R26 DP16 W6 DP16 R26 DB70 Y/6 — 486 threads; it folds to the canonical 250-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **486 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/8 Y6 DB70 R26 DP16 W6 DP16 R26 DB70 Y/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/8 Y6 DB70 R26 DP16 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

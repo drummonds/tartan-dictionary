@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/">Royal British Legion, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><img src="/variants/s7/r6b2g20k3db8dg2b4~x2/sett.png" alt="Royal British Legion, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-british-legion-the/">Royal British Legion, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-british-legion-the/"><img src="/variants/s7/r6b2g20k3db8dg2b4~x2/sett.png" alt="Royal British Legion, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

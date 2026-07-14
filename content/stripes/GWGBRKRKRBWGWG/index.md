@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/">Teirney (Estimated threadcount)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/"><img src="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/sett.png" alt="Teirney (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/teirney/">Teirney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/teirney/"><img src="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/sett.png" alt="Teirney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Austin WI"
   url: "/tartans/a/au/austin-wi/"
 - name: "Austin WI"
-  url: "/setts/dr3k3dr3g6k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3k3dr3g6k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/austin-wi/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGK](/stripes/bkbgk/).
 
 Part of the [Austin WI](/tartans/a/au/austin-wi/) tartan — the named design grouping this sett with its other cloths.

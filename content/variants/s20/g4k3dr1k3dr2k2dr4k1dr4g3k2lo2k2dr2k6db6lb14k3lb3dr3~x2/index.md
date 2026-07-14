@@ -8,10 +8,10 @@ crumbs:
 - name: "Quadra"
   url: "/tartans/q/qu/quadra/"
 - name: "Quadra"
-  url: "/setts/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/q/qu/quadra/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWBKBKYKGBKBKBKBKG](/stripes/bwkwbkbkykgbkbkbkbkg/).
 
 Part of the [Quadra](/tartans/q/qu/quadra/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/">Wanstall</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/"><img src="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/sett.png" alt="Wanstall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wanstall-2/">Wanstall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wanstall-2/"><img src="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/sett.png" alt="Wanstall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

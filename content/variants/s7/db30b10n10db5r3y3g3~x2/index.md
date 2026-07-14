@@ -8,10 +8,10 @@ crumbs:
 - name: "Wrigglesworth Family Canada"
   url: "/tartans/w/wr/wrigglesworth-family-canada/"
 - name: "Wrigglesworth Family Canada (Personal)"
-  url: "/setts/db30b10n10db5r3y3g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db30b10n10db5r3y3g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wr/wrigglesworth-family-canada/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBRGG](/stripes/bbbbrgg/).
 
 Part of the [Wrigglesworth Family Canada](/tartans/w/wr/wrigglesworth-family-canada/) tartan — the named design grouping this sett with its other cloths.

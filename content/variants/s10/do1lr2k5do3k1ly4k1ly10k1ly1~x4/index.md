@@ -10,10 +10,10 @@ crumbs:
 - name: "Campbell 'Camel'"
   url: "/tartans/c/ca/campbell-camel/"
 - name: "Campbell 'Camel'"
-  url: "/setts/do1lr2k5do3k1ly4k1ly10k1ly1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do1lr2k5do3k1ly4k1ly10k1ly1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-camel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKBKYKYKY](/stripes/bykbkykyky/).
 
 Part of the [Campbell 'Camel'](/tartans/c/ca/campbell-camel/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=505](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1988 — Campbell 'Camel' (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=505">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#381C0C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XT #381C0C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #B0B0B0"></span><br><em>Sold in 1988 at Lady Knowe Mill, Moffat, as 'Braemar Camel' and sold in 1989 at Spean Bridge mill outlet mistitled 'Campbell of Braemar'.</em></li>
-<li>1988 — Campbell, 'Camel' (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4427">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#381C0C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XT #381C0C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #B0B0B0"></span><br><em>Sold in 1988 at Lady Knowe Mill, Moffat, as "Braemar Camel" and sold in 1989 at Spean Bridge mill outlet as "Campbell of Braemar", Someone obviously having misinterpeted the spoken word !</em></li>
+<li>1988 — Campbell, 'Camel' (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4427/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#381C0C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XT #381C0C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #B0B0B0"></span><br><em>Sold in 1988 at Lady Knowe Mill, Moffat, as "Braemar Camel" and sold in 1989 at Spean Bridge mill outlet as "Campbell of Braemar", Someone obviously having misinterpeted the spoken word !</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/">Willsher Wedding (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><img src="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/sett.png" alt="Willsher Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/willsher-wedding-2/">Willsher Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/willsher-wedding-2/"><img src="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/sett.png" alt="Willsher Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

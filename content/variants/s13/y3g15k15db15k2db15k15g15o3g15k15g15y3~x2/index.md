@@ -12,10 +12,10 @@ crumbs:
 - name: "MacBride"
   url: "/tartans/m/ma/macbride/"
 - name: "MacBride Family Tartan"
-  url: "/setts/y3g15k15db15k2db15k15g15o3g15k15g15y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3g15k15db15k2db15k15g15o3g15k15g15y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macbride/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBKBKGRGKGG](/stripes/ggkbkbkgrgkgg/).
 
 Part of the [MacBride](/tartans/m/ma/macbride/) tartan — the named design grouping this sett with its other cloths.

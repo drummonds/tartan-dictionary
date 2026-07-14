@@ -8,10 +8,10 @@ crumbs:
 - name: "Proctor"
   url: "/tartans/p/pr/proctor/"
 - name: "Proctor"
-  url: "/setts/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/proctor/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBKWKBKGKGKG](/stripes/ggkbkwkbkgkgkg/).
 
 Part of the [Proctor](/tartans/p/pr/proctor/) tartan — the named design grouping this sett with its other cloths.

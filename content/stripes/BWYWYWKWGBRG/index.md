@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/">Robitaille, Jean-Francois (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/"><img src="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/sett.png" alt="Robitaille, Jean-Francois (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robitaille-jean-francois-perso/">Robitaille, Jean-Francois (Perso</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robitaille-jean-francois-perso/"><img src="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/sett.png" alt="Robitaille, Jean-Francois (Perso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

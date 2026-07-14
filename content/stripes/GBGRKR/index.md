@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r14k3r14g13db8g13~x2/">Tulsa District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r14k3r14g13db8g13~x2/"><img src="/variants/s6/r14k3r14g13db8g13~x2/sett.png" alt="Tulsa District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/dg14db8dg14r14k3r14~x2/">Tulsa, City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><img src="/variants/s6/dg14db8dg14r14k3r14~x2/sett.png" alt="Tulsa, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/tulsa/">Tulsa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/tulsa/"><img src="/variants/s6/r14k3r14g13db8g13~x2/sett.png" alt="Tulsa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/tulsa-city-of/">Tulsa, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/tulsa-city-of/"><img src="/variants/s6/dg14db8dg14r14k3r14~x2/sett.png" alt="Tulsa, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

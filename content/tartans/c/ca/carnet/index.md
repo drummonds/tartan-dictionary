@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/do6g3do3g11do1g2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgbg/">BGBGBG</a></nav>
 Its design is pattern [BGBGBG](/stripes/bgbgbg/) — the page of every tartan sharing this colour sequence.
 
 The **Carnet** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Carnet** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/do6g3do3g11do1g2/">Carnet</a></td><td><code>DO/24 G12 DO12 G44 DO4 G/8</code></td><td>176</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/do6g3do3g11do1g2/"><img src="/variants/s6/do6g3do3g11do1g2~x4/sett.png" alt="Carnet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/do6g3do3g11do1g2~x4/">Carnet</a></td><td><code>DO/24 G12 DO12 G44 DO4 G/8</code></td><td>176</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/do6g3do3g11do1g2~x4/"><img src="/variants/s6/do6g3do3g11do1g2~x4/sett.png" alt="Carnet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dg4o2dg13w2o13dg2o4~x2/"><circle cx="313.6" cy="244.9" r="4" fill="#3465a4"><title>Crossnor</title></circle></a><a href="/variants/s6/dg86lo44dg21lo44dg86lb10/"><circle cx="375.7" cy="259.2" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/"><circle cx="444.1" cy="258.8" r="4" fill="#3465a4"><title>Harmony 11</title></circle></a><a href="/variants/s7/g16lo3g14dr16g2dr2g3~x2/"><circle cx="396.7" cy="257.0" r="4" fill="#3465a4"><title>Scott Autumn</title></circle></a><a href="/variants/s6/dg5g3dg24g24dg3g5~x2/"><circle cx="439.0" cy="300.3" r="4" fill="#3465a4"><title>Erskine</title></circle></a><a href="/variants/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="382.3" cy="289.7" r="4" fill="#3465a4"><title>Confederate Cavalry</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="493.3" cy="254.3" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.5" cy="285.9" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/variants/s7/g3dy2g18dy21lo2g3lo2~x2/"><circle cx="358.6" cy="235.1" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/variants/s4/g9dy20g40w5~x2/"><circle cx="415.6" cy="284.6" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><circle cx="463.7" cy="282.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dg4o2dg13w2o13dg2o4~x2/"><circle cx="314.1" cy="245.0" r="4" fill="#3465a4"><title>Crossnor</title></circle></a><a href="/variants/s6/dg86lo44dg21lo44dg86lb10/"><circle cx="376.3" cy="259.4" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/"><circle cx="444.6" cy="259.2" r="4" fill="#3465a4"><title>Harmony 11</title></circle></a><a href="/variants/s7/g16lo3g14dr16g2dr2g3~x2/"><circle cx="397.2" cy="257.3" r="4" fill="#3465a4"><title>Scott Autumn</title></circle></a><a href="/variants/s6/dg5g3dg24g24dg3g5~x2/"><circle cx="439.4" cy="300.8" r="4" fill="#3465a4"><title>Erskine</title></circle></a><a href="/variants/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="382.6" cy="290.0" r="4" fill="#3465a4"><title>Confederate Cavalry</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="493.9" cy="254.7" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="452.1" cy="286.3" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/variants/s7/g3dy2g18dy21lo2g3lo2~x2/"><circle cx="359.0" cy="235.3" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/variants/s4/g9dy20g40w5~x2/"><circle cx="416.1" cy="285.0" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><circle cx="464.3" cy="282.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

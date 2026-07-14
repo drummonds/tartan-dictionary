@@ -8,15 +8,15 @@ crumbs:
 - name: "King Edward"
   url: "/tartans/k/ki/king-edward/"
 - name: "King Edward VII"
-  url: "/setts/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGGRGRGBKBKBKBGGGBKBKBKBGRGRGGGR](/stripes/gggrgrgbkbkbkbgggbkbkbkbgrgrgggr/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/king-edward/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBKBKBKBGRGRGGGR](/stripes/ggbkbkbkbgrgrgggr/).
 
 Part of the [King Edward](/tartans/k/ki/king-edward/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1981](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1981)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1559
 
 ## Thread count
-R/6 G5 Y3 G10 R3 G6 R3 G62 T21 K10 T10 K10 T10 K10 T21 G84 Y8 G84 T21 K10 T10 K10 T10 K10 T21 G62 R3 G6 R3 G10 Y3 G/5
+Y/8 G84 T21 K10 T10 K10 T10 K10 T21 G62 R3 G6 R3 G10 Y3 G5 R/6
 
-One full sett is **1089 threads**.
+One full sett is **550 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/6 G5 Y3 G10 R3 G6 R3 G62 T21 K10 T10 K10 T10 K10 T21 G84 Y8 G84 T21 K10 T10 K10 T10 K10 T21 G62 R3 G6 R3 G10 Y3 G/5 — 1089 threads; it folds to the canonical 550-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **1089 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 G5 Y3 G10 R3 G6 R3 G62 T21 K10 T10 K10 T10 K10 T21 G84 Y8 G84 T21 K10 T10 K10 T10 K10 T21 G62 R3 G6 R3 G10 Y3 G/5 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/8 G84 T21 K10 T10 K10 T10 K10 T21 G62 R3 G6 R3 G10 Y3 G5 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

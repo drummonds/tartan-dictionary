@@ -12,10 +12,10 @@ crumbs:
 - name: "Praetorian"
   url: "/tartans/p/pr/praetorian-2/"
 - name: "Praetorian"
-  url: "/setts/w1dr1y1r8k1lb1w8lb1k8lb1w1r8lb1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w1dr1y1r8k1lb1w8lb1k8lb1w1r8lb1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/praetorian-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGRKWWWKWWRWW](/stripes/wbgrkwwwkwwrww/).
 
 Part of the [Praetorian](/tartans/p/pr/praetorian-2/) tartan — the named design grouping this sett with its other cloths.

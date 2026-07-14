@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k78y16k2dt2k2y2k3r2k10/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkbkgkrk/">KGKBKGKRK</a></nav>
 Its design is pattern [KGKBKGKRK](/stripes/kgkbkgkrk/) — the page of every tartan sharing this colour sequence.
 
 The **Scotland's Lionheart** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Scotland's Lionheart** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k78y16k2dt2k2y2k3r2k10/">Scotland's Lionheart</a></td><td><code>K/156 Y32 K4 DT4 K4 Y4 K6 R4 K/20</code></td><td>292</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k78y16k2dt2k2y2k3r2k10/"><img src="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/sett.png" alt="Scotland's Lionheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/">Scotland's Lionheart</a></td><td><code>K/156 Y32 K4 DT4 K4 Y4 K6 R4 K/20</code></td><td>292</td><td>2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/"><img src="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/sett.png" alt="Scotland's Lionheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="521.4" cy="39.0" r="4" fill="#3465a4"><title>Payne of Wallins Creek</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="484.8" cy="53.8" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s9/y2k4y1k4r5k50n1k2r1~x2/"><circle cx="574.1" cy="29.4" r="4" fill="#3465a4"><title>Magdalene</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="497.4" cy="61.1" r="4" fill="#3465a4"><title>Whitaker</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="391.1" cy="23.5" r="4" fill="#3465a4"><title>Williams Dress</title></circle></a><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/"><circle cx="565.9" cy="35.5" r="4" fill="#3465a4"><title>Selkirk Silver Band</title></circle></a><a href="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/"><circle cx="490.4" cy="58.5" r="4" fill="#3465a4"><title>Marine Harvest</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="498.3" cy="21.7" r="4" fill="#3465a4"><title>Noordermeer</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="499.3" cy="41.4" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="544.5" cy="80.6" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><circle cx="524.7" cy="45.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="523.2" cy="39.4" r="4" fill="#3465a4"><title>Payne of Wallins Creek</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="486.5" cy="54.2" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s9/y2k4y1k4r5k50n1k2r1~x2/"><circle cx="576.0" cy="30.0" r="4" fill="#3465a4"><title>Magdalene</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="499.1" cy="61.5" r="4" fill="#3465a4"><title>Whitaker</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="392.6" cy="23.7" r="4" fill="#3465a4"><title>Williams Dress</title></circle></a><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/"><circle cx="567.7" cy="36.0" r="4" fill="#3465a4"><title>Selkirk Silver Band</title></circle></a><a href="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/"><circle cx="492.1" cy="58.9" r="4" fill="#3465a4"><title>Marine Harvest</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="500.1" cy="22.1" r="4" fill="#3465a4"><title>Noordermeer</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="501.0" cy="41.8" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="546.3" cy="81.1" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><circle cx="526.5" cy="45.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

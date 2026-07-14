@@ -10,10 +10,10 @@ crumbs:
 - name: "Amnesty International"
   url: "/tartans/a/am/amnesty-international/"
 - name: "Amnesty International Corporate Tartan"
-  url: "/setts/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/am/amnesty-international/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRBWBRKYKRBK](/stripes/brkrbwbrkykrbk/).
 
 Part of the [Amnesty International](/tartans/a/am/amnesty-international/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/">Hebridean Thistle (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/"><img src="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/sett.png" alt="Hebridean Thistle (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebridean-thistle/">Hebridean Thistle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-thistle/"><img src="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/sett.png" alt="Hebridean Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,17 +8,17 @@ crumbs:
 - name: "Cummins"
   url: "/tartans/c/cu/cummins/"
 - name: "Cummins (Personal)"
-  url: "/setts/k9b5w5k9b14k5w5k9w5k5b8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k9b5w5k9b14k5w5k9w5k5b8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cummins/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWKBKWBK](/stripes/bkwkwkbkwbk/).
 
 Part of the [Cummins](/tartans/c/cu/cummins/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10729](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10729)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/10729/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10729/*)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -30,7 +30,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10729](h
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

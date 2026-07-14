@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n10k3w3k3w3k3n10k7db20r3~x2/">Meeting Professionals International</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n10k3w3k3w3k3n10k7db20r3~x2/"><img src="/variants/s10/n10k3w3k3w3k3n10k7db20r3~x2/sett.png" alt="Meeting Professionals International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/meeting-professionals-international/">Meeting Professionals International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meeting-professionals-international/"><img src="/variants/s10/n10k3w3k3w3k3n10k7db20r3~x2/sett.png" alt="Meeting Professionals International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

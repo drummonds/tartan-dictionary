@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/">Bertea, A H (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><img src="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/sett.png" alt="Bertea, A H (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bertea-a-h/">Bertea, A H</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bertea-a-h/"><img src="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/sett.png" alt="Bertea, A H sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

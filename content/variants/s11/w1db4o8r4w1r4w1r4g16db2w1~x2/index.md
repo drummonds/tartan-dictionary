@@ -10,10 +10,10 @@ crumbs:
 - name: "Stuart / Stewart, Riding Cloak"
   url: "/tartans/s/st/stuart-stewart-riding-cloak/"
 - name: "Stuart / Stewart, Riding Cloak"
-  url: "/setts/w1db4o8r4w1r4w1r4g16db2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w1db4o8r4w1r4w1r4g16db2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stuart-stewart-riding-cloak/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGRWRWRRBW](/stripes/wbgrwrwrrbw/).
 
 Part of the [Stuart / Stewart, Riding Cloak](/tartans/s/st/stuart-stewart-riding-cloak/) tartan — the named design grouping this sett with its other cloths.

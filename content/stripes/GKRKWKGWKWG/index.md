@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/">Laggen Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/"><img src="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/sett.png" alt="Laggen Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laggen-dress-2/">Laggen Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laggen-dress-2/"><img src="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/sett.png" alt="Laggen Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

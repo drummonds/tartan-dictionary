@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/macneil/"
 - name: "MacNeil"
   url: "/families/macneil/"
+aliases:
+- "/setts/g45w2r3k15r3db15r3db15/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbrkrwg/">BRBRKRWG</a></nav>
 A tartan of the [MacNeil](/families/macneil/) family.
 Its design is pattern [BRBRKRWG](/stripes/brbrkrwg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacNeil 3** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g45w2r3k15r3db15r3db15/">MacNeil 3</a></td><td><code>G/90 W4 R6 K30 R6 DB30 R6 DB/30</code></td><td>284</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g45w2r3k15r3db15r3db15/"><img src="/variants/s8/g45w2r3k15r3db15r3db15~x2/sett.png" alt="MacNeil 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/">MacNeil 3</a></td><td><code>G/90 W4 R6 K30 R6 DB30 R6 DB/30</code></td><td>284</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><img src="/variants/s8/g45w2r3k15r3db15r3db15~x2/sett.png" alt="MacNeil 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="197.1" cy="119.8" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><a href="/variants/s9/k4g34y1k18g3db18r3g3r3~x2/"><circle cx="220.6" cy="98.1" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><circle cx="205.0" cy="129.7" r="4" fill="#3465a4"><title>Smoke Showing</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="182.5" cy="125.5" r="4" fill="#3465a4"><title>Hope-Vere</title></circle></a><a href="/variants/s7/t24k8g8r2g8k1w2~x2/"><circle cx="217.5" cy="141.3" r="4" fill="#3465a4"><title>Ferguson of Atholl</title></circle></a><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><circle cx="231.8" cy="101.2" r="4" fill="#3465a4"><title>John.W.Mackay</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="223.5" cy="131.6" r="4" fill="#3465a4"><title>McFadden</title></circle></a><a href="/variants/s12/dr6g1lb2g24k3g3k3g3k8db8lb2db4~x2/"><circle cx="197.1" cy="105.9" r="4" fill="#3465a4"><title>Kerby/Kirby</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/"><circle cx="191.7" cy="101.3" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><circle cx="232.6" cy="156.7" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><circle cx="207.1" cy="122.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="197.7" cy="119.7" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><a href="/variants/s9/k4g34y1k18g3db18r3g3r3~x2/"><circle cx="221.3" cy="98.0" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><circle cx="205.6" cy="129.5" r="4" fill="#3465a4"><title>Smoke Showing</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="183.0" cy="125.4" r="4" fill="#3465a4"><title>Hope-Vere</title></circle></a><a href="/variants/s7/t24k8g8r2g8k1w2~x2/"><circle cx="218.0" cy="141.1" r="4" fill="#3465a4"><title>Ferguson of Atholl</title></circle></a><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><circle cx="232.5" cy="101.1" r="4" fill="#3465a4"><title>John.W.Mackay</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="224.1" cy="131.6" r="4" fill="#3465a4"><title>McFadden</title></circle></a><a href="/variants/s12/dr6g1lb2g24k3g3k3g3k8db8lb2db4~x2/"><circle cx="197.7" cy="105.7" r="4" fill="#3465a4"><title>Kerby/Kirby</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/"><circle cx="192.2" cy="101.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><circle cx="233.2" cy="156.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><circle cx="207.7" cy="122.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

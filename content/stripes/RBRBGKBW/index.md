@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/">Saint Margaret of Scotland Youth Group</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><img src="/variants/s8/r30db5r3db33g8k3db8w2~x2/sett.png" alt="Saint Margaret of Scotland Youth Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/saint-margaret-of-scotland-youth-group/">Saint Margaret of Scotland Youth Group</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/saint-margaret-of-scotland-youth-group/"><img src="/variants/s8/r30db5r3db33g8k3db8w2~x2/sett.png" alt="Saint Margaret of Scotland Youth Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

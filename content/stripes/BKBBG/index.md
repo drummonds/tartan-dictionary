@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db3k1n3dp4g3~x4/">Crinnion (Middlesbrough) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db3k1n3dp4g3~x4/"><img src="/variants/s5/db3k1n3dp4g3~x4/sett.png" alt="Crinnion (Middlesbrough) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crinnion/">Crinnion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crinnion/"><img src="/variants/s5/db3k1n3dp4g3~x4/sett.png" alt="Crinnion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

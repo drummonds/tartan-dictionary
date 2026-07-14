@@ -8,10 +8,10 @@ crumbs:
 - name: "McHattie"
   url: "/tartans/m/mc/mchattie/"
 - name: "McHattie (Personal)"
-  url: "/setts/k45db2r4y1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k45db2r4y1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mchattie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRGW](/stripes/kbrgw/).
 
 Part of the [McHattie](/tartans/m/mc/mchattie/) tartan — the named design grouping this sett with its other cloths.

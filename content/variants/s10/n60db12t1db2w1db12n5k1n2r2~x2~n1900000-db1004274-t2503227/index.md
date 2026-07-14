@@ -12,10 +12,10 @@ crumbs:
 - name: "Kervegant"
   url: "/tartans/k/ke/kervegant/"
 - name: "Kervegant (Personal)"
-  url: "/setts/n60db12t1db2w1db12n5k1n2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n60db12t1db2w1db12n5k1n2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kervegant/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWBBKBR](/stripes/bbbbwbbkbr/).
 
 Part of the [Kervegant](/tartans/k/ke/kervegant/) tartan — the named design grouping this sett with its other cloths.

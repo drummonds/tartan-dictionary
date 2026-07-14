@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/">Maier (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/"><img src="/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/sett.png" alt="Maier (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maier/">Maier</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maier/"><img src="/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/sett.png" alt="Maier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

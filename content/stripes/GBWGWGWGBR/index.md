@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g5db3lb3g5w4dy2lb1dy2db1r1/">Northern College (Ontario)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g5db3lb3g5w4dy2lb1dy2db1r1/"><img src="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6~g2203152/sett.png" alt="Northern College (Ontario) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/g10db6lb6g10w8y3lb2y3db2r2/">Northern College Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g10db6lb6g10w8y3lb2y3db2r2/"><img src="/variants/s10/g10db6lb6g10w8y3lb2y3db2r2/sett.png" alt="Northern College Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/northern-college/">Northern College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/northern-college/"><img src="/variants/s10/g10db6lb6g10w8y3lb2y3db2r2/sett.png" alt="Northern College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

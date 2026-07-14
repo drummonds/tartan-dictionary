@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/">Munro</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/"><img src="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/sett.png" alt="Munro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/munro-2/">Munro</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/munro-2/"><img src="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/sett.png" alt="Munro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

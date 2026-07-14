@@ -6,7 +6,12 @@ crumbs:
   url: "/"
 - name: "Clan Manx"
   url: "/clan/manx/"
+aliases:
+- "/setts/r24ly2n3dy2w10r4n3dy3w2/"
+- "/setts/r24y2n3dy2w10r4n3dy3w2/"
+- "/setts/r24y2n3o2w10r4n3o3w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rybgwrbgw/">RYBGWRBGW</a></nav>
 A tartan of [Clan Manx](/clan/manx/).
 Its design is pattern [RYBGWRBGW](/stripes/rybgwrbgw/) — the page of every tartan sharing this colour sequence.
 
@@ -16,12 +21,12 @@ The **Manx Laxey** tartan groups 3 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r24ly2n3dy2w10r4n3dy3w2/">Manx Laxey</a> ★</td><td><code>R/48 LY4 N6 DY4 W20 R8 N6 DY6 W/4</code></td><td>160</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r24ly2n3dy2w10r4n3dy3w2/"><img src="/variants/s9/r24ly2n3dy2w10r4n3dy3w2~x2~ly3307090-dy1603076/sett.png" alt="Manx Laxey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r24y2n3dy2w10r4n3dy3w2/">Red District Tartan</a></td><td><code>R/48 Y4 N6 DY4 W20 R8 N6 DY6 W/4</code></td><td>160</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r24y2n3dy2w10r4n3dy3w2/"><img src="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/sett.png" alt="Red District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r24y2n3o2w10r4n3o3w2/">Red</a></td><td><code>R/48 Y4 N6 O4 W20 R8 N6 O6 W/4</code></td><td>160</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r24y2n3o2w10r4n3o3w2/"><img src="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/sett.png" alt="Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r24ly2n3dy2w10r4n3dy3w2~x2~ly3307090-dy1603076/">Manx Laxey</a> ★</td><td><code>R/48 LY4 N6 DY4 W20 R8 N6 DY6 W/4</code></td><td>160</td><td>1981</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r24ly2n3dy2w10r4n3dy3w2~x2~ly3307090-dy1603076/"><img src="/variants/s9/r24ly2n3dy2w10r4n3dy3w2~x2~ly3307090-dy1603076/sett.png" alt="Manx Laxey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/">Red District Tartan</a></td><td><code>R/48 Y4 N6 DY4 W20 R8 N6 DY6 W/4</code></td><td>160</td><td>1981</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/"><img src="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/sett.png" alt="Red District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/">Red</a></td><td><code>R/48 Y4 N6 O4 W20 R8 N6 O6 W/4</code></td><td>160</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/"><img src="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/sett.png" alt="Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -41,6 +46,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/"><circle cx="236.2" cy="146.6" r="4" fill="#3465a4"><title>Drummond of Perth Dress</title></circle></a><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="418.6" cy="158.2" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><circle cx="322.5" cy="136.5" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/variants/s8/r3lo15g4db6w2r30db6ly3~x2/"><circle cx="234.5" cy="143.7" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="271.3" cy="121.9" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s9/r67y3b6dg3w25r10b6dg7w3~x2/"><circle cx="331.9" cy="103.1" r="4" fill="#3465a4"><title>Drummond of Perth, dress</title></circle></a><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><circle cx="281.4" cy="136.9" r="4" fill="#3465a4"><title>Longniddry Dress</title></circle></a><a href="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/"><circle cx="326.4" cy="139.8" r="4" fill="#3465a4"><title>Loch Linnhe</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="290.9" cy="149.7" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/"><circle cx="242.8" cy="166.9" r="4" fill="#3465a4"><title>MIT1951</title></circle></a><circle cx="275.3" cy="148.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/"><circle cx="236.7" cy="146.4" r="4" fill="#3465a4"><title>Drummond of Perth Dress</title></circle></a><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="419.4" cy="158.3" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><circle cx="323.2" cy="136.5" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/variants/s8/r3lo15g4db6w2r30db6ly3~x2/"><circle cx="234.9" cy="143.5" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="271.8" cy="121.7" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s9/r67y3b6dg3w25r10b6dg7w3~x2/"><circle cx="332.7" cy="103.0" r="4" fill="#3465a4"><title>Drummond of Perth, dress</title></circle></a><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><circle cx="282.1" cy="136.8" r="4" fill="#3465a4"><title>Longniddry Dress</title></circle></a><a href="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/"><circle cx="327.1" cy="139.8" r="4" fill="#3465a4"><title>Loch Linnhe</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="291.4" cy="149.6" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/"><circle cx="243.2" cy="166.8" r="4" fill="#3465a4"><title>MIT1951</title></circle></a><circle cx="275.8" cy="148.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -10,17 +10,17 @@ crumbs:
 - name: "Ailsa Gold"
   url: "/tartans/a/ai/ailsa-gold/"
 - name: "Ailsa, Gold (Dance)"
-  url: "/setts/lo8w3lo28w32dp3w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo8w3lo28w32dp3w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ai/ailsa-gold/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWYWY](/stripes/wbwywy/).
 
 Part of the [Ailsa Gold](/tartans/a/ai/ailsa-gold/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7605](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7605)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7605/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7605/*)
 
 ## Provenance
 
@@ -29,7 +29,7 @@ Earliest known date: March 2008 One of a series of dancer's tartans for the Hous
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>March 2008 — Ailsa, Gold (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7605">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8B400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #F8B400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E0C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson.</em></li>
+<li>March 2008 — Ailsa, Gold (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7605/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8B400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #F8B400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E0C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson.</em></li>
 <li>March 2008 — Ailsa Gold Fashion Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7605">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8B400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #F8B400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E0C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span></li>
 <li>undated — Ailsa Gold (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5629">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8B400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #F8B400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0E0C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>One of a series of dancer's tartans by Kirsty Anderson, House of Edgar.</em></li>
 </ul>
@@ -45,7 +45,7 @@ Earliest known date: March 2008 One of a series of dancer's tartans for the Hous
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

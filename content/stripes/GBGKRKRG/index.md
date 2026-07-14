@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/">Garvock (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><img src="/variants/s8/g28db3g3k10r2k10r20y4~x2/sett.png" alt="Garvock (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/garvock/">Garvock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/garvock/"><img src="/variants/s8/g28db3g3k10r2k10r20y4~x2/sett.png" alt="Garvock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

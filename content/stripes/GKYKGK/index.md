@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/">Wallace Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/"><img src="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/sett.png" alt="Wallace Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wallace-hunting/">Wallace Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wallace-hunting/"><img src="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/sett.png" alt="Wallace Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

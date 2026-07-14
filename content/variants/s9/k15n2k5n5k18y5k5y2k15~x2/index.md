@@ -8,10 +8,10 @@ crumbs:
 - name: "Laois Irish County"
   url: "/tartans/l/la/laois-irish-county/"
 - name: "Laois Irish County Tartan"
-  url: "/setts/k15n2k5n5k18y5k5y2k15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k15n2k5n5k18y5k5y2k15/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/laois-irish-county/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKGKGK](/stripes/kbkbkgkgk/).
 
 Part of the [Laois Irish County](/tartans/l/la/laois-irish-county/) tartan — the named design grouping this sett with its other cloths.

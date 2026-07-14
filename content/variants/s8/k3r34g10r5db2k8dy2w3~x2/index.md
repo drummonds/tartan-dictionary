@@ -10,10 +10,10 @@ crumbs:
 - name: "Lambert Greer"
   url: "/tartans/l/la/lambert-greer/"
 - name: "Lambert (Front Royal) Greer"
-  url: "/setts/k3r34g10r5db2k8dy2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3r34g10r5db2k8dy2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lambert-greer/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRBKGW](/stripes/krgrbkgw/).
 
 Part of the [Lambert Greer](/tartans/l/la/lambert-greer/) tartan — the named design grouping this sett with its other cloths.

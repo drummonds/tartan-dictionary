@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb8db10dbi69w6dbi6r8t19lb3~lb3300000-db0705267-dbi1404245-t2105244/">Virginia International Tattoo Hixon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb8db10dbi69w6dbi6r8t19lb3~lb3300000-db0705267-dbi1404245-t2105244/"><img src="/variants/s8/lb8db10dbi69w6dbi6r8t19lb3~lb3300000-db0705267-dbi1404245-t2105244/sett.png" alt="Virginia International Tattoo Hixon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/virginia-international-tattoo-hixon/">Virginia International Tattoo Hixon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/virginia-international-tattoo-hixon/"><img src="/variants/s8/lb8db10dbi69w6dbi6r8t19lb3~lb3300000-db0705267-dbi1404245-t2105244/sett.png" alt="Virginia International Tattoo Hixon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

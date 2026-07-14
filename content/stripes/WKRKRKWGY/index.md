@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb16k1r7k1r7k1lb7g24ly4~x2/">Knockando Woolmill (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb16k1r7k1r7k1lb7g24ly4~x2/"><img src="/variants/s9/lb16k1r7k1r7k1lb7g24ly4~x2/sett.png" alt="Knockando Woolmill (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/kn/knockando-woolmill/">Knockando Woolmill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kn/knockando-woolmill/"><img src="/variants/s9/lb16k1r7k1r7k1lb7g24ly4~x2/sett.png" alt="Knockando Woolmill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

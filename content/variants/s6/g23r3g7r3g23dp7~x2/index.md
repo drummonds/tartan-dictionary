@@ -10,10 +10,10 @@ crumbs:
 - name: "Highland Spring"
   url: "/tartans/h/hi/highland-spring-5/"
 - name: "Highland Spring (1997)"
-  url: "/setts/g23r3g7r3g23dp7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g23r3g7r3g23dp7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highland-spring-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGRG](/stripes/bgrgrg/).
 
 Part of the [Highland Spring](/tartans/h/hi/highland-spring-5/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w2ly4db1ly1db40n6g18r2g2w1~x2/">O'Mahony, The (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w2ly4db1ly1db40n6g18r2g2w1~x2/"><img src="/variants/s10/w2ly4db1ly1db40n6g18r2g2w1~x2/sett.png" alt="O'Mahony, The (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-mahony-the/">O'Mahony, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-mahony-the/"><img src="/variants/s10/w2ly4db1ly1db40n6g18r2g2w1~x2/sett.png" alt="O'Mahony, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

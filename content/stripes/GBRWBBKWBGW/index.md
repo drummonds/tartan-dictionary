@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/">Brehat (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/"><img src="/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/sett.png" alt="Brehat (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brehat/">Brehat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brehat/"><img src="/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/sett.png" alt="Brehat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

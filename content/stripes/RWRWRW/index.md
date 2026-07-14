@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2w1r9w9r1w2~x6/">Erskine Red &amp; White (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2w1r9w9r1w2~x6/"><img src="/variants/s6/r2w1r9w9r1w2~x6/sett.png" alt="Erskine Red &amp; White (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r6w2r29w29r2w6~x2/">Erskine, Burgundy (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r6w2r29w29r2w6~x2/"><img src="/variants/s6/r6w2r29w29r2w6~x2/sett.png" alt="Erskine, Burgundy (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/er/erskine-3/">Erskine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-3/"><img src="/variants/s6/r6w2r29w29r2w6~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/er/erskine-red/">Erskine Red &amp;</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-red/"><img src="/variants/s6/r2w1r9w9r1w2~x6/sett.png" alt="Erskine Red &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/o3w17o11w2o11w2~x4/">Fallow Deer, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/o3w17o11w2o11w2~x4/"><img src="/variants/s6/o3w17o11w2o11w2~x4/sett.png" alt="Fallow Deer, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/fallow-deer-the/">Fallow Deer, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/fallow-deer-the/"><img src="/variants/s6/o3w17o11w2o11w2~x4/sett.png" alt="Fallow Deer, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

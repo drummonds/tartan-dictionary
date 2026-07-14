@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k16lb2lp2ly2lp10lb4ly6lb10ly6lb10ly4lb10ly4lb10ly2lb32ly2lb10lp4ly14lb10ly10lb6ly10lb6ly10lb6ly10lb4ly10lb2ly28lb3ly10lp6lb4ly16/">Shapiro (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k16lb2lp2ly2lp10lb4ly6lb10ly6lb10ly4lb10ly4lb10ly2lb32ly2lb10lp4ly14lb10ly10lb6ly10lb6ly10lb6ly10lb4ly10lb2ly28lb3ly10lp6lb4ly16/"><img src="/variants/s37/k16lb2lp2ly2lp10lb4ly6lb10ly6lb10ly4lb10ly4lb10ly2lb32ly2lb10lp4ly14lb10ly10lb6ly10lb6ly10lb6ly10lb4ly10lb2ly28lb3ly10lp6lb4ly16~x2~ly3104101/sett.png" alt="Shapiro (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shapiro/">Shapiro</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shapiro/"><img src="/variants/s37/k16lb2lp2ly2lp10lb4ly6lb10ly6lb10ly4lb10ly4lb10ly2lb32ly2lb10lp4ly14lb10ly10lb6ly10lb6ly10lb6ly10lb4ly10lb2ly28lb3ly10lp6lb4ly16~x2~ly3104101/sett.png" alt="Shapiro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

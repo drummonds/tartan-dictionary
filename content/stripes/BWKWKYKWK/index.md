@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/">Burberry (Counterfeit #4)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><img src="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/sett.png" alt="Burberry (Counterfeit #4) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burberry-2/">Burberry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burberry-2/"><img src="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

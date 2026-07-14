@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2~x4/">Ste-Anne-de-Portneuf</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2~x4/"><img src="/variants/s17/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2~x4/sett.png" alt="Ste-Anne-de-Portneuf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/ste-anne-de-portneuf/">Ste-Anne-de-Portneuf</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/ste-anne-de-portneuf/"><img src="/variants/s17/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2~x4/sett.png" alt="Ste-Anne-de-Portneuf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

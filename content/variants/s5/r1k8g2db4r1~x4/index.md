@@ -11,11 +11,11 @@ crumbs:
   url: "/families/nairn/"
 - name: "Nairn"
   url: "/tartans/n/na/nairn-2/"
-- name: "Nairn (Name)"
-  url: "/setts/r1k8g2db4r1/"
+- name: "Nairn Family Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1k8g2db4r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/na/nairn-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGKR](/stripes/rbgkr/).
 
 Part of the [Nairn](/tartans/n/na/nairn-2/) tartan — the named design grouping this sett with its other cloths.

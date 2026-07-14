@@ -12,10 +12,10 @@ crumbs:
 - name: "Zinnen of Scene"
   url: "/tartans/z/zi/zinnen-of-scene/"
 - name: "Zinnen of Scene (Luxembourg) (Personal)"
-  url: "/setts/dg32w2y2dy2y6k2db6y2db2w2db2dg10r5w2r4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg32w2y2dy2y6k2db6y2db2w2db2dg10r5w2r4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/z/zi/zinnen-of-scene/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGGGKBGBWBGRWRW](/stripes/gwgggkbgbwbgrwrw/).
 
 Part of the [Zinnen of Scene](/tartans/z/zi/zinnen-of-scene/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r4ly3g4ly4t4ly4g4~x2/">Lochwood Estate Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r4ly3g4ly4t4ly4g4~x2/"><img src="/variants/s7/r4ly3g4ly4t4ly4g4~x2/sett.png" alt="Lochwood Estate Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochwood-estate-check/">Lochwood Estate Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochwood-estate-check/"><img src="/variants/s7/r4ly3g4ly4t4ly4g4~x2/sett.png" alt="Lochwood Estate Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

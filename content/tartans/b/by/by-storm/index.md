@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp5r3dp18g8k8dpi31k2dpi4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkgbrb/">BKBKGBRB</a></nav>
 Its design is pattern [BKBKGBRB](/stripes/bkbkgbrb/) — the page of every tartan sharing this colour sequence.
 
 The **By Storm** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **By Storm** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp5r3dp18g8k8dpi31k2dpi4/">By Storm</a></td><td><code>DP/10 R6 DP36 G16 K16 DPi62 K4 DPi/8</code></td><td>298</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp5r3dp18g8k8dpi31k2dpi4/"><img src="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/sett.png" alt="By Storm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/">By Storm</a></td><td><code>DP/10 R6 DP36 G16 K16 DPi62 K4 DPi/8</code></td><td>298</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><img src="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/sett.png" alt="By Storm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dy6o2dy12k4dp14k1dy3ly2~x2/"><circle cx="273.6" cy="179.0" r="4" fill="#3465a4"><title>Mica</title></circle></a><a href="/variants/s8/dp1r4dp1r1dp12k6db16w1~x2/"><circle cx="219.3" cy="150.0" r="4" fill="#3465a4"><title>First</title></circle></a><a href="/variants/s8/k4dr2lr2dr28db27dr2k2lo2~x2/"><circle cx="296.1" cy="144.5" r="4" fill="#3465a4"><title>Toronto Fire Services</title></circle></a><a href="/variants/s8/dg8db5k1db17r10db2r10n2~x2/"><circle cx="229.5" cy="165.8" r="4" fill="#3465a4"><title>Harrower, John Anthony</title></circle></a><a href="/variants/s6/n9k16dg10k22dp67y4/"><circle cx="306.8" cy="156.7" r="4" fill="#3465a4"><title>Widows Sons Scotland</title></circle></a><a href="/variants/s7/db4dg2r17dr9dg10db30n2~x2/"><circle cx="273.7" cy="190.6" r="4" fill="#3465a4"><title>Dempster, Ross</title></circle></a><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="209.9" cy="135.0" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><a href="/variants/s8/dp24do2g3o2g3k11do29w2~x2/"><circle cx="214.3" cy="141.5" r="4" fill="#3465a4"><title>Alba</title></circle></a><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><circle cx="278.4" cy="146.0" r="4" fill="#3465a4"><title>McCall</title></circle></a><a href="/variants/s10/dp24k2dp2lo2dp2k20db16n2db2n3~x2/"><circle cx="214.8" cy="151.5" r="4" fill="#3465a4"><title>D'Souza</title></circle></a><circle cx="258.5" cy="163.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dy6o2dy12k4dp14k1dy3ly2~x2/"><circle cx="274.1" cy="179.0" r="4" fill="#3465a4"><title>Mica</title></circle></a><a href="/variants/s8/dp1r4dp1r1dp12k6db16w1~x2/"><circle cx="219.8" cy="149.8" r="4" fill="#3465a4"><title>First</title></circle></a><a href="/variants/s8/k4dr2lr2dr28db27dr2k2lo2~x2/"><circle cx="296.8" cy="144.5" r="4" fill="#3465a4"><title>Toronto Fire Services</title></circle></a><a href="/variants/s8/dg8db5k1db17r10db2r10n2~x2/"><circle cx="230.0" cy="165.7" r="4" fill="#3465a4"><title>Harrower, John Anthony</title></circle></a><a href="/variants/s6/n9k16dg10k22dp67y4/"><circle cx="307.6" cy="156.7" r="4" fill="#3465a4"><title>Widows Sons Scotland</title></circle></a><a href="/variants/s7/db4dg2r17dr9dg10db30n2~x2/"><circle cx="274.1" cy="190.5" r="4" fill="#3465a4"><title>Dempster, Ross</title></circle></a><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="210.5" cy="134.8" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><a href="/variants/s8/dp24do2g3o2g3k11do29w2~x2/"><circle cx="214.7" cy="141.4" r="4" fill="#3465a4"><title>Alba</title></circle></a><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><circle cx="279.0" cy="145.9" r="4" fill="#3465a4"><title>McCall</title></circle></a><a href="/variants/s10/dp24k2dp2lo2dp2k20db16n2db2n3~x2/"><circle cx="215.3" cy="151.3" r="4" fill="#3465a4"><title>D'Souza</title></circle></a><circle cx="259.0" cy="163.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

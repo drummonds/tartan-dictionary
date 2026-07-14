@@ -28,16 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/w30k1w1k2~x2/">Covenanter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w30k1w1k2~x2/"><img src="/variants/s4/w30k1w1k2~x2/sett.png" alt="Covenanter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/k22w3k3w22~x2/">MacPhee (B&amp;W) Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k22w3k3w22~x2/"><img src="/variants/s4/k22w3k3w22~x2/sett.png" alt="MacPhee (B&amp;W) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/k7w6k1/">Lendrum (B&amp;W)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k7w6k1/"><img src="/variants/s3/k7w6k1/sett.png" alt="Lendrum (B&amp;W) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s2/k1lb1~x6/">Shepherd or Falkirk</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s2/k1lb1~x6/"><img src="/variants/s2/k1lb1~x6/sett.png" alt="Shepherd or Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/covenanter/">Covenanter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/covenanter/"><img src="/variants/s4/w30k1w1k2~x2/sett.png" alt="Covenanter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macphee/">MacPhee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macphee/"><img src="/variants/s4/k22w3k3w22~x2/sett.png" alt="MacPhee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wallace-dress/">Wallace Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wallace-dress/"><img src="/variants/s4/k7w6k1w6~x4/sett.png" alt="Wallace Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

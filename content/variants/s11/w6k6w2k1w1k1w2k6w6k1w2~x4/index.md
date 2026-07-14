@@ -10,17 +10,17 @@ crumbs:
 - name: "Scott"
   url: "/families/scott/"
 - name: "Scott"
-  url: "/tartans/s/sc/scott-2/"
-- name: "Scott, Sir Walter"
-  url: "/setts/w6k6w2k1w1k1w2k6w6k1w2/"
+  url: "/tartans/s/sc/scott-6/"
+- name: "Scott (Sir Walter Scott) (Personal)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w6k6w2k1w1k1w2k6w6k1w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scott-6/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/).
 
-Part of the [Scott](/tartans/s/sc/scott-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scott](/tartans/s/sc/scott-6/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3694](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3694)
 
@@ -33,7 +33,7 @@ Earliest known date: 1822 Smibert (1850) publishes this design which he says, ".
 <ul>
 <li>01/01/1822 — Scott (Sir Walter Scott) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3694">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Smibert (1850) publishes this design which he says, ''..was produced for his own use by Sir Walter Scott in 1822, and that he wore it in private, in the form of a Lowland shepherd's plaid. See also #1825 (original Scottish Tartans Authority reference) by A & K Johnson which is a shortened version of this which modern weavers have ignored in favour of this Smibert version.</em></li>
 <li>1822 — Scott Black and White Personal Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1826">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span></li>
-<li>1850 — Scott - 1850 B & W (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1826">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Smibert (1850) publishes this design which he says, ''..was produced for his own use by Sir Walter Scott in 1822, and that he wore it in private, in the form of a Lowland shepherd's plaid. See also #1825 by A & K Johnson which is a shortened version of this which modern weavers have ignored in favour of this Smibert version.</em></li>
+<li>1850 — Scott - 1850 B & W (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1826/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Smibert (1850) publishes this design which he says, ''..was produced for his own use by Sir Walter Scott in 1822, and that he wore it in private, in the form of a Lowland shepherd's plaid. See also #1825 by A & K Johnson which is a shortened version of this which modern weavers have ignored in favour of this Smibert version.</em></li>
 </ul>
 </details>
 
@@ -62,9 +62,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1826
 
 ## Thread count
-W/8 K4 W24 K24 W8 K4 W4 K4 W8 K24 W24 K24 W8 K4 W4 K4 W8 K24 W24 K/4
+W/24 K24 W8 K4 W4 K4 W8 K24 W24 K4 W/8
 
-One full sett is **468 threads**.
+One full sett is **240 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/8 K4 W24 K24 W8 K4 W4 K4 W8 K24 W24 K24 W8 K4 W4 K4 W8 K24 W24 K/4 — 468 threads; it folds to the canonical 240-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -73,7 +75,7 @@ One full sett is **468 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/8 K4 W24 K24 W8 K4 W4 K4 W8 K24 W24 K24 W8 K4 W4 K4 W8 K24 W24 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/24 K24 W8 K4 W4 K4 W8 K24 W24 K4 W/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

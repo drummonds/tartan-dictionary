@@ -8,10 +8,10 @@ crumbs:
 - name: "NASSA"
   url: "/tartans/n/na/nassa/"
 - name: "North American Sheep Breeders Association"
-  url: "/setts/n2w1ly17n14w15n2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n2w1ly17n14w15n2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/na/nassa/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWYBWBW](/stripes/bwybwbw/).
 
 Part of the [NASSA](/tartans/n/na/nassa/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3088](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/2007 — North American Sheep Breeders Association (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3088">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F8E8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>Designed by Kathy Baker (Nier Lakes Shetland Sheep, Alberta) and Linda Wendelboe in consultation with Gordon Kirkbright of Fraser Kirkbright of Vancouver. The tartan 'showcased' the natural colours of North American Shetland wool for North American Shetland Sheep Association's 2004 AGM, 'Focus on Fibre', held in Olds, Alberta. The tartan was woven from naturally coloured Canadian Shetland sheep wool.</em></li>
-<li>Feb 2007 — NASSA (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7097">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F8E8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>Full name of tartan is North American Shetland Sheep Breeders Association. Designed by Kathy Baker (Nier Lakes Shetland Sheep, Alberta) and Linda Wendelboe in consultation with Gordon Kirkbright of Fraser Kirkbright of Vancouver. The tartan 'showcased' the natural colours of North American Shetland wool for NASSA's 2004 AGM 'Focus on Fibre' held in Olds, Alberta. It was made from naturally coloured Canadian Shetland wool. Woven Sample</em></li>
+<li>Feb 2007 — NASSA (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7097/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F8E8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>Full name of tartan is North American Shetland Sheep Breeders Association. Designed by Kathy Baker (Nier Lakes Shetland Sheep, Alberta) and Linda Wendelboe in consultation with Gordon Kirkbright of Fraser Kirkbright of Vancouver. The tartan 'showcased' the natural colours of North American Shetland wool for NASSA's 2004 AGM 'Focus on Fibre' held in Olds, Alberta. It was made from naturally coloured Canadian Shetland wool. Woven Sample</em></li>
 </ul>
 </details>
 

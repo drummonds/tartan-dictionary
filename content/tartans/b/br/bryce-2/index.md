@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/bryce/"
 - name: "Bryce"
   url: "/families/bryce/"
+aliases:
+- "/setts/dr5o35dr46ly5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brby/">BRBY</a></nav>
 A tartan of the [Bryce](/families/bryce/) family.
 Its design is pattern [BRBY](/stripes/brby/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **Bryce** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr5o35dr46ly5/">Bryce</a></td><td><code>DR/10 O70 DR92 LY/10</code></td><td>344</td><td>1953</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr5o35dr46ly5/"><img src="/variants/s4/dr5o35dr46ly5~x2/sett.png" alt="Bryce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dr5o35dr46ly5~x2/">Bryce</a></td><td><code>DR/10 O70 DR92 LY/10</code></td><td>344</td><td>1953</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dr5o35dr46ly5~x2/"><img src="/variants/s4/dr5o35dr46ly5~x2/sett.png" alt="Bryce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -33,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="385.1" cy="258.3" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s5/o23dr4o23dr32lo4~x2/"><circle cx="393.3" cy="280.7" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="348.9" cy="250.0" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="372.2" cy="305.5" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama</title></circle></a><a href="/variants/s5/r18y3r18y30k4~x2/"><circle cx="344.8" cy="242.4" r="4" fill="#3465a4"><title>Shire of Hornwood</title></circle></a><a href="/variants/s5/r37dy9r3g9dy3~x2/"><circle cx="444.1" cy="205.2" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="465.5" cy="281.7" r="4" fill="#3465a4"><title>MacGregor of Glenstrae</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="329.0" cy="223.6" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="435.4" cy="180.8" r="4" fill="#3465a4"><title>Unidentified Cant</title></circle></a><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="404.9" cy="290.2" r="4" fill="#3465a4"><title>Applecross</title></circle></a><circle cx="409.6" cy="262.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="385.7" cy="258.5" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s5/o23dr4o23dr32lo4~x2/"><circle cx="393.7" cy="281.0" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="349.4" cy="250.2" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="372.5" cy="305.7" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama</title></circle></a><a href="/variants/s5/r18y3r18y30k4~x2/"><circle cx="345.3" cy="242.6" r="4" fill="#3465a4"><title>Shire of Hornwood</title></circle></a><a href="/variants/s5/r37dy9r3g9dy3~x2/"><circle cx="445.0" cy="205.5" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="466.3" cy="282.1" r="4" fill="#3465a4"><title>MacGregor of Glenstrae</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="329.4" cy="223.7" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="436.3" cy="181.0" r="4" fill="#3465a4"><title>Unidentified Cant</title></circle></a><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="405.5" cy="290.5" r="4" fill="#3465a4"><title>Applecross</title></circle></a><circle cx="410.2" cy="263.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

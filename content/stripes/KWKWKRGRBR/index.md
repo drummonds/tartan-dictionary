@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r16db1r1dy1r4k18w1k1w1k1~x4/">Regimbal, Leonel–Jean (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r16db1r1dy1r4k18w1k1w1k1~x4/"><img src="/variants/s10/r16db1r1dy1r4k18w1k1w1k1~x4/sett.png" alt="Regimbal, Leonel–Jean (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/regimbal-leonel-jean/">Regimbal, Leonel–Jean</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/regimbal-leonel-jean/"><img src="/variants/s10/r16db1r1dy1r4k18w1k1w1k1~x4/sett.png" alt="Regimbal, Leonel–Jean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

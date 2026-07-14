@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/naysmith/"
 - name: "Naysmith"
   url: "/families/naysmith/"
+aliases:
+- "/setts/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbbkwkwkbw/">WBBKWKWKBW</a></nav>
 A tartan of the [Naysmith](/families/naysmith/) family.
 Its design is pattern [WBBKWKWKBW](/stripes/wbbkwkwkbw/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **Naysmith** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2/">Naysmith</a></td><td><code>LBi/8 DR4 DB28 K8 LBi8 K6 LBi6 K4 DR4 LB/4</code></td><td>—</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2/"><img src="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/sett.png" alt="Naysmith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/">Naysmith</a></td><td><code>LBi/4 DR2 DB14 K4 LBi4 K3 LBi3 K2 DR2 LB/2</code></td><td>—</td><td>1996</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/"><img src="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/sett.png" alt="Naysmith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Louisburg"
   url: "/tartans/l/lo/louisburg/"
 - name: "Louisburg Canadian District Tartan"
-  url: "/setts/n22y10w3k8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n22y10w3k8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/louisburg/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWK](/stripes/bgwk/).
 
 Part of the [Louisburg](/tartans/l/lo/louisburg/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Pople"
   url: "/tartans/p/po/pople/"
 - name: "Pople"
-  url: "/setts/k10dr9n8y8w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10dr9n8y8w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/pople/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBGW](/stripes/kbbgw/).
 
 Part of the [Pople](/tartans/p/po/pople/) tartan — the named design grouping this sett with its other cloths.

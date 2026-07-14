@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/">Murray of Abercairney</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/"><img src="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/sett.png" alt="Murray of Abercairney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-abercairney-2/">Murray of Abercairney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-of-abercairney-2/"><img src="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/sett.png" alt="Murray of Abercairney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Mississippi"
   url: "/tartans/m/mi/mississippi/"
 - name: "Mississippi District Tartan"
-  url: "/setts/dg5g10db1dg5g5r2dg5g5y1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg5g10db1dg5g5r2dg5g5y1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/mississippi/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGGRGGGW](/stripes/ggbggrgggw/).
 
 Part of the [Mississippi](/tartans/m/mi/mississippi/) tartan — the named design grouping this sett with its other cloths.

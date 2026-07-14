@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r48db3ly2dg14r8db3lb4w3~x2/">Drummond of Fingask</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r48db3ly2dg14r8db3lb4w3~x2/"><img src="/variants/s8/r48db3ly2dg14r8db3lb4w3~x2/sett.png" alt="Drummond of Fingask sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-threipland-of-fingask/">Murray Threipland of Fingask</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-threipland-of-fingask/"><img src="/variants/s8/r48db3ly2dg14r8db3lb4w3~x2/sett.png" alt="Murray Threipland of Fingask sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

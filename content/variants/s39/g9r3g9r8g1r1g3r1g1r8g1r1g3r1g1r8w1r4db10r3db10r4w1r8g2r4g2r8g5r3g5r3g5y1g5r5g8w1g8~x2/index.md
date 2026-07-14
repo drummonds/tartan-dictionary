@@ -12,10 +12,10 @@ crumbs:
 - name: "Lumsden"
   url: "/tartans/l/lu/lumsden/"
 - name: "Lumsden"
-  url: "/setts/g9r3g9r8g1r1g3r1g1r8g1r1g3r1g1r8w1r4db10r3db10r4w1r8g2r4g2r8g5r3g5r3g5y1g5r5g8w1g8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g9r3g9r8g1r1g3r1g1r8g1r1g3r1g1r8w1r4db10r3db10r4w1r8g2r4g2r8g5r3g5r3g5y1g5r5g8w1g8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lu/lumsden/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGRGRGRGRWRBRBRWRGRGRGRGRGGGRGWG](/stripes/grgrgrgrgrgrgrgrwrbrbrwrgrgrgrgrgggrgwg/).
 
 Part of the [Lumsden](/tartans/l/lu/lumsden/) tartan — the named design grouping this sett with its other cloths.

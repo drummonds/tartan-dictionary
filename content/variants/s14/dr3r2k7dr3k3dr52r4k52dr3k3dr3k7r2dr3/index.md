@@ -8,10 +8,10 @@ crumbs:
 - name: "Old Aberdeen Diamond Jubilee"
   url: "/tartans/o/ol/old-aberdeen-diamond-jubilee/"
 - name: "Old Aberdeen Diamond Jubilee"
-  url: "/setts/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ol/old-aberdeen-diamond-jubilee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBKBKRBKBKRB](/stripes/brkbkbkrbkbkrb/).
 
 Part of the [Old Aberdeen Diamond Jubilee](/tartans/o/ol/old-aberdeen-diamond-jubilee/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10546](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2012 — Old Aberdeen Diamond Jubilee (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10546">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8B0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8B0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Created for the celebrations to mark the Queen's visit to Old Aberdeen in the year of her Diamond Jubilee, 2012.</em></li>
-<li>01/01/2012 — Old Aberdeen Diamond Jubilee (Fash) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10546">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Created for the celebrations to mark the Queen's visit to Old Aberdeen in the year of her Diamond Jubilee, 2012. Permission to weave this tartan should be sought from Philip King Tailoring Ltd. A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Records of Scotland.</em></li>
+<li>01/01/2012 — Old Aberdeen Diamond Jubilee (Fash) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10546/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Created for the celebrations to mark the Queen's visit to Old Aberdeen in the year of her Diamond Jubilee, 2012. Permission to weave this tartan should be sought from Philip King Tailoring Ltd. A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Records of Scotland.</em></li>
 </ul>
 </details>
 

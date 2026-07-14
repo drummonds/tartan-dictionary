@@ -12,10 +12,10 @@ crumbs:
 - name: "Matheson"
   url: "/tartans/m/ma/matheson/"
 - name: "Matheson (WCWM)"
-  url: "/setts/g4dr4g2dr2g2dr18db4g4dr2g2dr2g3dr4g2dr2g2dr2db4g4dr2g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4dr4g2dr2g2dr18db4g4dr2g2dr2g3dr4g2dr2g2dr2db4g4dr2g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/matheson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBGBGBGBGBGBBGBGBG](/stripes/gbgbbgbgbgbgbgbbgbgbg/).
 
 Part of the [Matheson](/tartans/m/ma/matheson/) tartan — the named design grouping this sett with its other cloths.

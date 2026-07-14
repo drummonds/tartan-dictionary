@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k3w2n27k31o3/"
+- "/setts/k3w2n27k31lp3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwbkr/">KWBKR</a></nav>
 Its design is pattern [KWBKR](/stripes/kwbkr/) — the page of every tartan sharing this colour sequence.
 
 The **Kelley Oliphint** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Kelley Oliphint** tartan groups 2 setts — the same named design recorded
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3w2n27k31o3/">Kelley Oliphint</a> ★</td><td><code>K/6 W4 N54 K62 O/6</code></td><td>252</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3w2n27k31o3/"><img src="/variants/s5/k3w2n27k31o3~x2/sett.png" alt="Kelley Oliphint sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3w2n27k31lp3/">(Commemorative)</a></td><td><code>K/6 W4 N54 K62 LP/6</code></td><td>252</td><td>2020</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3w2n27k31lp3/"><img src="/variants/s5/k3w2n27k31lp3~x2/sett.png" alt="(Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k3w2n27k31o3~x2/">Kelley Oliphint</a> ★</td><td><code>K/6 W4 N54 K62 O/6</code></td><td>252</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k3w2n27k31o3~x2/"><img src="/variants/s5/k3w2n27k31o3~x2/sett.png" alt="Kelley Oliphint sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k3w2n27k31lp3~x2/">(Commemorative)</a></td><td><code>K/6 W4 N54 K62 LP/6</code></td><td>252</td><td>2020</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k3w2n27k31lp3~x2/"><img src="/variants/s5/k3w2n27k31lp3~x2/sett.png" alt="(Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/y3k1n24k35w3~x2/"><circle cx="316.6" cy="122.0" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="296.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="293.5" cy="170.7" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="309.7" cy="142.0" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="338.4" cy="161.8" r="4" fill="#3465a4"><title>Glen Coe</title></circle></a><a href="/variants/s5/k37w9k3g9w3~x2/"><circle cx="335.0" cy="162.9" r="4" fill="#3465a4"><title>Glencoe</title></circle></a><a href="/variants/s5/k3w3k3n10dr1~x6/"><circle cx="218.0" cy="193.9" r="4" fill="#3465a4"><title>Greystone</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="278.0" cy="146.9" r="4" fill="#3465a4"><title>Dunfermline Athletic</title></circle></a><a href="/variants/s6/r2k28n5w12n14r2~x2/"><circle cx="187.3" cy="158.6" r="4" fill="#3465a4"><title>Callaway</title></circle></a><a href="/variants/s5/k5w7k5n20db1~x4/"><circle cx="256.0" cy="161.2" r="4" fill="#3465a4"><title>Burberry</title></circle></a><circle cx="278.0" cy="153.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/y3k1n24k35w3~x2/"><circle cx="317.6" cy="122.1" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="297.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="294.5" cy="170.8" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="310.7" cy="142.1" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="339.5" cy="162.0" r="4" fill="#3465a4"><title>Glen Coe</title></circle></a><a href="/variants/s5/k37w9k3g9w3~x2/"><circle cx="336.0" cy="163.1" r="4" fill="#3465a4"><title>Glencoe</title></circle></a><a href="/variants/s5/k3w3k3n10dr1~x6/"><circle cx="218.6" cy="193.8" r="4" fill="#3465a4"><title>Greystone</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="279.0" cy="147.0" r="4" fill="#3465a4"><title>Dunfermline Athletic</title></circle></a><a href="/variants/s6/r2k28n5w12n14r2~x2/"><circle cx="187.9" cy="158.4" r="4" fill="#3465a4"><title>Callaway</title></circle></a><a href="/variants/s5/k5w7k5n20db1~x4/"><circle cx="256.7" cy="161.1" r="4" fill="#3465a4"><title>Burberry</title></circle></a><circle cx="278.8" cy="153.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

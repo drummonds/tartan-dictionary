@@ -12,10 +12,10 @@ crumbs:
 - name: "Lasting"
   url: "/tartans/l/la/lasting/"
 - name: "Lasting Family Tartan"
-  url: "/setts/w2dp7w2lb6w2y4w2dp4w2y4w2g19w2dp7w2dp7w2r19w4r3lb2r3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2dp7w2lb6w2y4w2dp4w2y4w2g19w2dp7w2dp7w2r19w4r3lb2r3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lasting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWWWGWBWGWGWBWBWRWRWRW](/stripes/wbwwwgwbwgwgwbwbwrwrwrw/).
 
 Part of the [Lasting](/tartans/l/la/lasting/) tartan — the named design grouping this sett with its other cloths.

@@ -11,11 +11,11 @@ crumbs:
   url: "/families/gow/"
 - name: "Gow Hunting"
   url: "/tartans/g/go/gow-hunting-2/"
-- name: "Gow, hunting"
-  url: "/setts/k24g12k1y3k1g12k1r3k1g12k12dbi12db3dbi12/"
+- name: "Gow Hunting #2"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k24g12k1y3k1g12k1r3k1g12k12dbi12db3dbi12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/gow-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKGKRKGKGKGK](/stripes/bbbkgkrkgkgkgk/).
 
 Part of the [Gow Hunting](/tartans/g/go/gow-hunting-2/) tartan — the named design grouping this sett with its other cloths.

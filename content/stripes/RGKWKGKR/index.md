@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r50y8k2w2k2y8k22r3~x2/">FIRES Center of Excelence</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r50y8k2w2k2y8k22r3~x2/"><img src="/variants/s8/r50y8k2w2k2y8k22r3~x2/sett.png" alt="FIRES Center of Excelence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fires-center-of-excelence/">FIRES Center of Excelence</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fires-center-of-excelence/"><img src="/variants/s8/r50y8k2w2k2y8k22r3~x2/sett.png" alt="FIRES Center of Excelence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

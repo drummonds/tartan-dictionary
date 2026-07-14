@@ -8,10 +8,10 @@ crumbs:
 - name: "Lévesque, Pascal"
   url: "/tartans/l/l/l-vesque-pascal/"
 - name: "Lévesque, Pascal (Personal)"
-  url: "/setts/g8r2lb3y2g4n4g14db2n2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8r2lb3y2g4n4g14db2n2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/l/l-vesque-pascal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGGWRG](/stripes/bbbgbggwrg/).
 
 Part of the [Lévesque, Pascal](/tartans/l/l/l-vesque-pascal/) tartan — the named design grouping this sett with its other cloths.

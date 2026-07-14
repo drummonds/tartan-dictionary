@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/">Harden (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/"><img src="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/sett.png" alt="Harden (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/k1r14lb8k9y1k2w2k2g10r15k4r12w1~x2/">Wilson's, No 1</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k1r14lb8k9y1k2w2k2g10r15k4r12w1~x2/"><img src="/variants/s13/k1r14lb8k9y1k2w2k2g10r15k4r12w1~x2/sett.png" alt="Wilson's, No 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harden-2/">Harden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harden-2/"><img src="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/sett.png" alt="Harden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-1/">Wilson's, No 1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-1/"><img src="/variants/s13/k1r14lb8k9y1k2w2k2g10r15k4r12w1~x2/sett.png" alt="Wilson's, No 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

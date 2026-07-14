@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dt72dr2dt2dr5dt4y2dt4dr5dt2db2dt2db15lb2db3r2~x2~dt1102249-db1404245/">Royal Caledonian Curling Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dt72dr2dt2dr5dt4y2dt4dr5dt2db2dt2db15lb2db3r2~x2~dt1102249-db1404245/"><img src="/variants/s15/dt72dr2dt2dr5dt4y2dt4dr5dt2db2dt2db15lb2db3r2~x2~dt1102249-db1404245/sett.png" alt="Royal Caledonian Curling Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-caledonian-curling-club/">Royal Caledonian Curling Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-caledonian-curling-club/"><img src="/variants/s15/dt72dr2dt2dr5dt4y2dt4dr5dt2db2dt2db15lb2db3r2~x2~dt1102249-db1404245/sett.png" alt="Royal Caledonian Curling Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

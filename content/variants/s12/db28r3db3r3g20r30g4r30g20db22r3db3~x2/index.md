@@ -8,10 +8,10 @@ crumbs:
 - name: "Fraser Stewart of Athol"
   url: "/tartans/f/fr/fraser-stewart-of-athol/"
 - name: "Fraser Stewart of Athol"
-  url: "/setts/db28r3db3r3g20r30g4r30g20db22r3db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db28r3db3r3g20r30g4r30g20db22r3db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraser-stewart-of-athol/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
 
 Part of the [Fraser Stewart of Athol](/tartans/f/fr/fraser-stewart-of-athol/) tartan — the named design grouping this sett with its other cloths.

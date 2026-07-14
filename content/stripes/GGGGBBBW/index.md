@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/">Hall (P.I.E.) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/"><img src="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/sett.png" alt="Hall (P.I.E.) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hall-2/">Hall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hall-2/"><img src="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/sett.png" alt="Hall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

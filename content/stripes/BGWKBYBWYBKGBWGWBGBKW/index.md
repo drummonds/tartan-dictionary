@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12~y2602166-ly3307090/">Lions Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12~y2602166-ly3307090/"><img src="/variants/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12~y2602166-ly3307090/sett.png" alt="Lions Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/lions-club/">Lions Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/lions-club/"><img src="/variants/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12~y2602166-ly3307090/sett.png" alt="Lions Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/">Rafferty (Estimated threadcount)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/"><img src="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/sett.png" alt="Rafferty (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rafferty/">Rafferty</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rafferty/"><img src="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/sett.png" alt="Rafferty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

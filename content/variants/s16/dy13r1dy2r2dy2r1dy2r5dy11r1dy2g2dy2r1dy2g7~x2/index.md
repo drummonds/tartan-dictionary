@@ -10,15 +10,15 @@ crumbs:
 - name: "Sarna"
   url: "/families/sarna/"
 - name: "Sarna"
-  url: "/tartans/s/sa/sarna-2/"
+  url: "/tartans/s/sa/sarna-3/"
 - name: "Särna District Tartan"
-  url: "/setts/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sarna-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGGGRGRGRGRGRG](/stripes/ggrgggrgrgrgrgrg/).
 
-Part of the [Sarna](/tartans/s/sa/sarna-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sarna](/tartans/s/sa/sarna-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
@@ -33,7 +33,7 @@ Earliest known date: 1783 Sarna is a town in Sweden.
 <ul>
 <li>1783 — Särna District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2039">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span></li>
 <li>01/01/2002 — Sarna (Town) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3655">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>No details - possible same source as Sarna (Gudrun Joyce sample).</em></li>
-<li>pre 2002 — Sarna (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2039">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Sarna is a small Swedish town approximately 61degrees north and 13 degrees east.</em></li>
+<li>pre 2002 — Sarna (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2039/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Sarna is a small Swedish town approximately 61degrees north and 13 degrees east.</em></li>
 </ul>
 </details>
 

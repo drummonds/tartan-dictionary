@@ -12,10 +12,10 @@ crumbs:
 - name: "Grant"
   url: "/tartans/g/gr/grant-3/"
 - name: "Grant (Official)"
-  url: "/setts/r8db2r2db2r32lb2r2db8r2g2r2g27r2db2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8db2r2db2r32lb2r2db8r2g2r2g27r2db2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grant-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
 
 Part of the [Grant](/tartans/g/gr/grant-3/) tartan — the named design grouping this sett with its other cloths.

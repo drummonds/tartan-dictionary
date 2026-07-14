@@ -8,10 +8,10 @@ crumbs:
 - name: "Auld Scotland Weavers"
   url: "/tartans/a/au/auld-scotland-weavers/"
 - name: "Auld Scotland Weavers Tartan"
-  url: "/setts/k2ly12dr3ly3dr12g12n12y12g1lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2ly12dr3ly3dr12g12n12y12g1lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/auld-scotland-weavers/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYBYBGBGGW](/stripes/kybybgbggw/).
 
 Part of the [Auld Scotland Weavers](/tartans/a/au/auld-scotland-weavers/) tartan — the named design grouping this sett with its other cloths.

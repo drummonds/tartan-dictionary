@@ -11,11 +11,11 @@ crumbs:
   url: "/families/cochrane/"
 - name: "Cochrane"
   url: "/tartans/c/co/cochrane-2/"
-- name: "Cochrane"
-  url: "/setts/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2/"
+- name: "Cochrane Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cochrane-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBRKGRGRGRGRG](/stripes/gbrbrkgrgrgrgrg/).
 
 Part of the [Cochrane](/tartans/c/co/cochrane-2/) tartan — the named design grouping this sett with its other cloths.

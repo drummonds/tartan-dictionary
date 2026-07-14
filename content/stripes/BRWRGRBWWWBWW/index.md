@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/">MacGillivray Dress, Janice</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><img src="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/sett.png" alt="MacGillivray Dress, Janice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/">MacGillivray Dress, Janice (Personal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><img src="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/sett.png" alt="MacGillivray Dress, Janice (Personal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgillivray-dress-janice/">MacGillivray Dress, Janice</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgillivray-dress-janice/"><img src="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/sett.png" alt="MacGillivray Dress, Janice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

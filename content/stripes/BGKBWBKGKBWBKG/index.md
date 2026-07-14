@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/">Tiger of Sweden</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/"><img src="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/sett.png" alt="Tiger of Sweden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tiger-of-sweden/">Tiger of Sweden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tiger-of-sweden/"><img src="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/sett.png" alt="Tiger of Sweden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

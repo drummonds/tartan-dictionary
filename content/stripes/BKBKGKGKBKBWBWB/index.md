@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/">Skarpathiotakis, George (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/"><img src="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/sett.png" alt="Skarpathiotakis, George (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skarpathiotakis-george/">Skarpathiotakis, George</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skarpathiotakis-george/"><img src="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/sett.png" alt="Skarpathiotakis, George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

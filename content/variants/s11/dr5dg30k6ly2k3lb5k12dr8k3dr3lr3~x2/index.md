@@ -8,10 +8,10 @@ crumbs:
 - name: "King George"
   url: "/tartans/k/ki/king-george-3/"
 - name: "King George (Nash)"
-  url: "/setts/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/king-george-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKYKWKBKBY](/stripes/bgkykwkbkby/).
 
 Part of the [King George](/tartans/k/ki/king-george-3/) tartan — the named design grouping this sett with its other cloths.

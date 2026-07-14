@@ -8,15 +8,15 @@ crumbs:
 - name: "Grand Lodge of Canada"
   url: "/tartans/g/gr/grand-lodge-of-canada/"
 - name: "Grand Lodge of Canada"
-  url: "/setts/t5k1r15k2t3k10r5db15r5k2dy4k2r1k2db15r15k4r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t5k1r15k2t3k10r5db15r5k2dy4k2r1k2db15r15k4r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKRKBKRBRKGKRKBRKRKRBKRKGKRBRKBKRK](/stripes/bkrkbkrbrkgkrkbrkrkrbkrkgkrbrkbkrk/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grand-lodge-of-canada/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKRKBKRBRKGKRKBRKR](/stripes/bkrkbkrbrkgkrkbrkr/).
 
 Part of the [Grand Lodge of Canada](/tartans/g/gr/grand-lodge-of-canada/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4892](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4892)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 3006
 
 ## Thread count
-T/10 K2 R30 K4 T6 K20 R10 DB30 R10 K4 DY8 K4 R2 K4 DB30 R30 K8 R4 K8 R30 DB30 K4 R2 K4 DY8 K4 R10 DB30 R10 K20 T6 K4 R30 K/2
+T/10 K2 R30 K4 T6 K20 R10 DB30 R10 K4 DY8 K4 R2 K4 DB30 R30 K8 R/4
 
-One full sett is **824 threads**.
+One full sett is **418 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/10 K2 R30 K4 T6 K20 R10 DB30 R10 K4 DY8 K4 R2 K4 DB30 R30 K8 R4 K8 R30 DB30 K4 R2 K4 DY8 K4 R10 DB30 R10 K20 T6 K4 R30 K/2 — 824 threads; it folds to the canonical 418-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **824 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/10 K2 R30 K4 T6 K20 R10 DB30 R10 K4 DY8 K4 R2 K4 DB30 R30 K8 R4 K8 R30 DB30 K4 R2 K4 DY8 K4 R10 DB30 R10 K20 T6 K4 R30 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/10 K2 R30 K4 T6 K20 R10 DB30 R10 K4 DY8 K4 R2 K4 DB30 R30 K8 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

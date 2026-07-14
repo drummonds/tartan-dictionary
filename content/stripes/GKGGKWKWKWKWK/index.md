@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g30k1g2dy2k2w1k12w1k2w2k2w1k6~x2/">Currie of Balilone (Variant Franklin)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g30k1g2dy2k2w1k12w1k2w2k2w1k6~x2/"><img src="/variants/s13/g30k1g2dy2k2w1k12w1k2w2k2w1k6~x2/sett.png" alt="Currie of Balilone (Variant Franklin) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/currie-of-balilone-2/">Currie of Balilone</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/currie-of-balilone-2/"><img src="/variants/s13/g30k1g2dy2k2w1k12w1k2w2k2w1k6~x2/sett.png" alt="Currie of Balilone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

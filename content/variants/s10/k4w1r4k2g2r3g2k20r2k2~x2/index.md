@@ -8,10 +8,10 @@ crumbs:
 - name: "Valdres, Kvam & Vang"
   url: "/tartans/v/va/valdres-kvam-vang/"
 - name: "Valdres, Kvam & Vang #3"
-  url: "/setts/k4w1r4k2g2r3g2k20r2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4w1r4k2g2r3g2k20r2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/va/valdres-kvam-vang/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGRGKRWK](/stripes/krkgrgkrwk/).
 
 Part of the [Valdres, Kvam & Vang](/tartans/v/va/valdres-kvam-vang/) tartan — the named design grouping this sett with its other cloths.

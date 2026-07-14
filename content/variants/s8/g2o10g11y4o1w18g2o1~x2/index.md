@@ -8,10 +8,10 @@ crumbs:
 - name: "Aviemore, Check"
   url: "/tartans/a/av/aviemore-check-2/"
 - name: "Aviemore, Check"
-  url: "/setts/g2o10g11y4o1w18g2o1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2o10g11y4o1w18g2o1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/av/aviemore-check-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGRWGR](/stripes/grggrwgr/).
 
 Part of the [Aviemore, Check](/tartans/a/av/aviemore-check-2/) tartan — the named design grouping this sett with its other cloths.

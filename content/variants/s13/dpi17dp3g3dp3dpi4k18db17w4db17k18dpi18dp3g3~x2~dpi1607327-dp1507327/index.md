@@ -8,22 +8,22 @@ crumbs:
 - name: "Heart of Scotland"
   url: "/tartans/h/he/heart-of-scotland/"
 - name: "Heart of Scotland (Fashion)"
-  url: "/setts/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/heart-of-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBKBWBKBBG](/stripes/bbgbbkbwbkbbg/).
 
 Part of the [Heart of Scotland](/tartans/h/he/heart-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3105](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3105)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3105/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3105/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>2000 — Heart of Scotland (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3105">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#303070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OX #303070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Ruthven Milne of Piob Mhor, Blairgowrie. Not recorded or registered with anyone so its existance and its 'duplicated' name were not known until September 2002.</em></li>
+<li>2000 — Heart of Scotland (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3105/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#303070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OX #303070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Ruthven Milne of Piob Mhor, Blairgowrie. Not recorded or registered with anyone so its existance and its 'duplicated' name were not known until September 2002.</em></li>
 <li>undated — Heart of Scotland (Milne) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5165">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#303070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OX #303070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Ruthven Milne of Piob Mhor, Blairgowrie. Not recorded or registered with anyone so its existence and its 'duplicated' name were not known until September 2002.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3105](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

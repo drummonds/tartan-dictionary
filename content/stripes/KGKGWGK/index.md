@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k4y4w35y1k36y4k2~x2/">Gleneagles, Hotel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><img src="/variants/s7/k4y4w35y1k36y4k2~x2/sett.png" alt="Gleneagles, Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/gleneagles-hotel/">Gleneagles, Hotel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneagles-hotel/"><img src="/variants/s7/k4y4w35y1k36y4k2~x2/sett.png" alt="Gleneagles, Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

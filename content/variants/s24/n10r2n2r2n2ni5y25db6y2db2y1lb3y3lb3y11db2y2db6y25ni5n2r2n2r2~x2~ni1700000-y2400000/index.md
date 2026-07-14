@@ -8,10 +8,10 @@ crumbs:
 - name: "LOOK Keith"
   url: "/tartans/l/lo/look-keith-2/"
 - name: "LOOK Keith"
-  url: "/setts/n10r2n2r2n2ni5y25db6y2db2y1lb3y3lb3y11db2y2db6y25ni5n2r2n2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n10r2n2r2n2ni5y25db6y2db2y1lb3y3lb3y11db2y2db6y25ni5n2r2n2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/look-keith-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBGBGBGWGWGBGBGBBRBR](/stripes/brbrbbgbgbgwgwgbgbgbbrbr/).
 
 Part of the [LOOK Keith](/tartans/l/lo/look-keith-2/) tartan — the named design grouping this sett with its other cloths.

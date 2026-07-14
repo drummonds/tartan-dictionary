@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k19o7k26o3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krkr/">KRKR</a></nav>
 Its design is pattern [KRKR](/stripes/krkr/) — the page of every tartan sharing this colour sequence.
 
 The **Crombie House Check** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Crombie House Check** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k19o7k26o3/">Crombie House Check</a></td><td><code>K/38 O14 K52 O/6</code></td><td>176</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k19o7k26o3/"><img src="/variants/s4/k19o7k26o3~x2/sett.png" alt="Crombie House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k19o7k26o3~x2/">Crombie House Check</a></td><td><code>K/38 O14 K52 O/6</code></td><td>176</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k19o7k26o3~x2/"><img src="/variants/s4/k19o7k26o3~x2/sett.png" alt="Crombie House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/k10r3k1~x4/"><circle cx="471.0" cy="205.1" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><a href="/variants/s5/k13n8k15dp2k8~x2/"><circle cx="420.8" cy="235.7" r="4" fill="#3465a4"><title>Warwick</title></circle></a><a href="/variants/s4/k34y3k34y26~x2/"><circle cx="386.8" cy="234.7" r="4" fill="#3465a4"><title>Raeburn</title></circle></a><a href="/variants/s4/k20dr3k20dr20~x2/"><circle cx="412.8" cy="296.4" r="4" fill="#3465a4"><title>Wcwm 9275-1333-2</title></circle></a><a href="/variants/s4/k20dp3k20dp20~x2/"><circle cx="407.9" cy="292.9" r="4" fill="#3465a4"><title>Wcwm 9275-1333-1</title></circle></a><a href="/variants/s4/k60lb3k9g7/"><circle cx="564.7" cy="140.6" r="4" fill="#3465a4"><title>Wallington</title></circle></a><a href="/variants/s4/k35lo3w3g3~x4/"><circle cx="439.6" cy="139.8" r="4" fill="#3465a4"><title>Dhillon</title></circle></a><a href="/variants/s3/k67r32k6/"><circle cx="400.8" cy="211.7" r="4" fill="#3465a4"><title>Lendrum or MacFarlane</title></circle></a><a href="/variants/s4/k72w3k11db9/"><circle cx="590.9" cy="141.6" r="4" fill="#3465a4"><title>Dunnotar</title></circle></a><a href="/variants/s4/k30dp5k10dp9~x4/"><circle cx="498.3" cy="267.9" r="4" fill="#3465a4"><title>Leonard Hunting</title></circle></a><circle cx="482.2" cy="222.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/k10r3k1~x4/"><circle cx="472.4" cy="205.6" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><a href="/variants/s5/k13n8k15dp2k8~x2/"><circle cx="422.0" cy="236.2" r="4" fill="#3465a4"><title>Warwick</title></circle></a><a href="/variants/s4/k34y3k34y26~x2/"><circle cx="387.9" cy="235.1" r="4" fill="#3465a4"><title>Raeburn</title></circle></a><a href="/variants/s4/k20dr3k20dr20~x2/"><circle cx="413.6" cy="296.9" r="4" fill="#3465a4"><title>Wcwm 9275-1333-2</title></circle></a><a href="/variants/s4/k20dp3k20dp20~x2/"><circle cx="408.8" cy="293.3" r="4" fill="#3465a4"><title>Wcwm 9275-1333-1</title></circle></a><a href="/variants/s4/k60lb3k9g7/"><circle cx="566.5" cy="141.3" r="4" fill="#3465a4"><title>Wallington</title></circle></a><a href="/variants/s4/k35lo3w3g3~x4/"><circle cx="441.0" cy="140.1" r="4" fill="#3465a4"><title>Dhillon</title></circle></a><a href="/variants/s3/k67r32k6/"><circle cx="402.0" cy="212.1" r="4" fill="#3465a4"><title>Lendrum or MacFarlane</title></circle></a><a href="/variants/s4/k72w3k11db9/"><circle cx="592.7" cy="142.3" r="4" fill="#3465a4"><title>Dunnotar</title></circle></a><a href="/variants/s4/k30dp5k10dp9~x4/"><circle cx="499.4" cy="268.5" r="4" fill="#3465a4"><title>Leonard Hunting</title></circle></a><circle cx="483.7" cy="222.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

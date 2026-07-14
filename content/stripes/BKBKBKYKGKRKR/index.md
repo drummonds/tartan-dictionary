@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dr4k4dr65k8dr6k35ly2k2g7k35r3k2r4/">Firefighters' Memorial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dr4k4dr65k8dr6k35ly2k2g7k35r3k2r4/"><img src="/variants/s13/dr4k4dr65k8dr6k35ly2k2g7k35r3k2r4/sett.png" alt="Firefighters' Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/firefighters-memorial/">Firefighters' Memorial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/firefighters-memorial/"><img src="/variants/s13/dr4k4dr65k8dr6k35ly2k2g7k35r3k2r4/sett.png" alt="Firefighters' Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

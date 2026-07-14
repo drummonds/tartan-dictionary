@@ -12,15 +12,15 @@ crumbs:
 - name: "Arizona"
   url: "/tartans/a/ar/arizona-2/"
 - name: "Arizona American District Tartan"
-  url: "/setts/dy3g2w2r2dy12k12g12r2g2t2g2y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy3g2w2r2dy12k12g12r2g2t2g2y2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGWRGKGRGBGGGBGRGKGRWG](/stripes/ggwrgkgrgbgggbgrgkgrwg/).
+provenance below. It is one weaving of the [sett](/tartans/a/ar/arizona-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGRGKGRWGG](/stripes/ggbgrgkgrwgg/).
 
 Part of the [Arizona](/tartans/a/ar/arizona-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5706](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5706)
 
@@ -45,9 +45,11 @@ Earliest known date: 1995 Designed by Phil Smith and proclaimed by Governor Symi
 </details>
 
 ## Thread count
-DY/6 G4 W4 R4 DY24 K24 G24 R4 G4 T4 G4 Y4 G4 T4 G4 R4 G24 K24 DY24 R4 W4 G/4
+DY/6 G4 W4 R4 DY24 K24 G24 R4 G4 T4 G4 Y/4
 
-One full sett is **410 threads**.
+One full sett is **210 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DY/6 G4 W4 R4 DY24 K24 G24 R4 G4 T4 G4 Y4 G4 T4 G4 R4 G24 K24 DY24 R4 W4 G/4 — 410 threads; it folds to the canonical 210-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **410 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/6 G4 W4 R4 DY24 K24 G24 R4 G4 T4 G4 Y4 G4 T4 G4 R4 G24 K24 DY24 R4 W4 G/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/6 G4 W4 R4 DY24 K24 G24 R4 G4 T4 G4 Y/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

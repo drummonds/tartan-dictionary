@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dy5r21y21w2db1~x2/">Haughey (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dy5r21y21w2db1~x2/"><img src="/variants/s5/dy5r21y21w2db1~x2/sett.png" alt="Haughey (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/haughey/">Haughey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haughey/"><img src="/variants/s5/dy5r21y21w2db1~x2/sett.png" alt="Haughey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

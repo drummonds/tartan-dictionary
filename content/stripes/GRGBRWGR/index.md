@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/">McGirr (Letterkenny) David, (Pers.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><img src="/variants/s8/g4r1g15t5r1w5g4r1~x4/sett.png" alt="McGirr (Letterkenny) David, (Pers.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcgirr-david/">McGirr David</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcgirr-david/"><img src="/variants/s8/g4r1g15t5r1w5g4r1~x4/sett.png" alt="McGirr David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k62w10y10k4w18k4ly3w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwgkwkyw/">KWGKWKYW</a></nav>
 Its design is pattern [KWGKWKYW](/stripes/kwgkwkyw/) — the page of every tartan sharing this colour sequence.
 
 The **Colbert Check** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Colbert Check** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k62w10y10k4w18k4ly3w4/">Colbert Check</a></td><td><code>K/62 W10 Y10 K4 W18 K4 LY3 W/4</code></td><td>164</td><td>~1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k62w10y10k4w18k4ly3w4/"><img src="/variants/s8/k62w10y10k4w18k4ly3w4/sett.png" alt="Colbert Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k62w10y10k4w18k4ly3w4/">Colbert Check</a></td><td><code>K/62 W10 Y10 K4 W18 K4 LY3 W/4</code></td><td>164</td><td>~1980</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><img src="/variants/s8/k62w10y10k4w18k4ly3w4/sett.png" alt="Colbert Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="316.3" cy="119.0" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><circle cx="379.7" cy="85.4" r="4" fill="#3465a4"><title>Moonlight Glen</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="294.6" cy="88.9" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/variants/s8/r1k1n1k15n15k1n1r1~x4/"><circle cx="300.4" cy="130.3" r="4" fill="#3465a4"><title>Bundy, Dress</title></circle></a><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="338.6" cy="92.0" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="373.8" cy="126.9" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><circle cx="331.4" cy="150.3" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="289.0" cy="109.0" r="4" fill="#3465a4"><title>Universal Scientific Indust</title></circle></a><a href="/variants/s9/y4k4g12k37w4k4w16k2w4~x2/"><circle cx="243.2" cy="115.1" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="294.0" cy="88.4" r="4" fill="#3465a4"><title>Richecourt, Baron of</title></circle></a><circle cx="306.3" cy="99.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="317.3" cy="119.1" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><circle cx="380.9" cy="85.6" r="4" fill="#3465a4"><title>Moonlight Glen</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="295.7" cy="88.9" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/variants/s8/r1k1n1k15n15k1n1r1~x4/"><circle cx="301.4" cy="130.4" r="4" fill="#3465a4"><title>Bundy, Dress</title></circle></a><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="339.8" cy="92.1" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="375.1" cy="127.1" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><circle cx="332.4" cy="150.5" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="290.0" cy="109.0" r="4" fill="#3465a4"><title>Universal Scientific Indust</title></circle></a><a href="/variants/s9/y4k4g12k37w4k4w16k2w4~x2/"><circle cx="244.0" cy="115.0" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="295.0" cy="88.4" r="4" fill="#3465a4"><title>Richecourt, Baron of</title></circle></a><circle cx="307.4" cy="99.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

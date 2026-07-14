@@ -10,10 +10,10 @@ crumbs:
 - name: "Dundee Pink Variation"
   url: "/tartans/d/du/dundee-pink-variation/"
 - name: "Dundee Pink Variation"
-  url: "/setts/m42dr2k15dr2dg22ly4lbi2dp2lbi2ly4lb7lbi2dp6lbi6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/m42dr2k15dr2dg22ly4lbi2dp2lbi2ly4lb7lbi2dp6lbi6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dundee-pink-variation/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBGYWBWYWWBW](/stripes/rbkbgywbwywwbw/).
 
 Part of the [Dundee Pink Variation](/tartans/d/du/dundee-pink-variation/) tartan — the named design grouping this sett with its other cloths.

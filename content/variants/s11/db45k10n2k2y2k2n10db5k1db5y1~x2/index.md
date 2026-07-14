@@ -12,10 +12,10 @@ crumbs:
 - name: "Skye"
   url: "/tartans/s/sk/skye/"
 - name: "Skye District Tartan"
-  url: "/setts/db45k10n2k2y2k2n10db5k1db5y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db45k10n2k2y2k2n10db5k1db5y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sk/skye/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKBBKBG](/stripes/bkbkgkbbkbg/).
 
 Part of the [Skye](/tartans/s/sk/skye/) tartan — the named design grouping this sett with its other cloths.

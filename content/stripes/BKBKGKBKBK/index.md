@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/">Webster, Colin Wesley (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/"><img src="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/sett.png" alt="Webster, Colin Wesley (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/webster-colin-wesley/">Webster, Colin Wesley</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/webster-colin-wesley/"><img src="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/sett.png" alt="Webster, Colin Wesley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

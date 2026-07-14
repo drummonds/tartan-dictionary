@@ -8,15 +8,15 @@ crumbs:
 - name: "Svanholm"
   url: "/tartans/s/sv/svanholm/"
 - name: "Svanholm (Personal)"
-  url: "/setts/y4k1m14k1w2k1dp28k4y2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4k1m14k1w2k1dp28k4y2w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKRKWKBKGWGKBKWKRK](/stripes/gkrkwkbkgwgkbkwkrk/).
+provenance below. It is one weaving of the [sett](/tartans/s/sv/svanholm/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKRKWKBKGW](/stripes/gkrkwkbkgw/).
 
 Part of the [Svanholm](/tartans/s/sv/svanholm/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4050](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4050)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4050](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/2000 — Svanholm (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4050">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Designed for Lars Svanholm from Gavle in the Gastrikland area of Sweden by the late Don Smith (2002) of Heraldic Graphics, Glasgow. The colours are based on the yellow and white plus the two shades of purple of the Styvmorsviol wild pansy. Estimated thread count for display purposes only.</em></li>
-<li>2001 — Svanholm (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4016">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Designed for Lars Svanholm from Gavle in the Gastrikland area of Sweden by the late Don Smith (2002?) of Heraldic Graphics, Glasgow. The colours are based on the yellow and white plus the two shades of purple of the Styvmorsviol wild pansy. Estimated thread count for display purposes only.</em></li>
+<li>2001 — Svanholm (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4016/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Designed for Lars Svanholm from Gavle in the Gastrikland area of Sweden by the late Don Smith (2002?) of Heraldic Graphics, Glasgow. The colours are based on the yellow and white plus the two shades of purple of the Styvmorsviol wild pansy. Estimated thread count for display purposes only.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2807
 
 ## Thread count
-Y/8 K2 M28 K2 W4 K2 DP56 K8 Y4 W6 Y4 K8 DP56 K2 W4 K2 M28 K/2
+Y/8 K2 M28 K2 W4 K2 DP56 K8 Y4 W/6
 
-One full sett is **442 threads**.
+One full sett is **226 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/8 K2 M28 K2 W4 K2 DP56 K8 Y4 W6 Y4 K8 DP56 K2 W4 K2 M28 K/2 — 442 threads; it folds to the canonical 226-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **442 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/8 K2 M28 K2 W4 K2 DP56 K8 Y4 W6 Y4 K8 DP56 K2 W4 K2 M28 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/8 K2 M28 K2 W4 K2 DP56 K8 Y4 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

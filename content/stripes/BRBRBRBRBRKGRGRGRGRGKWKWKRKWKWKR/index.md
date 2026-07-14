@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2k4w16k1r4k1w16k4w2k12r1~x2/">MacDonald Dress Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2k4w16k1r4k1w16k4w2k12r1~x2/"><img src="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2k4w16k1r4k1w16k4w2k12r1~x2/sett.png" alt="MacDonald Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-dress-2/">MacDonald Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-dress-2/"><img src="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2k4w16k1r4k1w16k4w2k12r1~x2/sett.png" alt="MacDonald Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

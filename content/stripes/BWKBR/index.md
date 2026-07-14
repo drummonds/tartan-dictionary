@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dt30lb2k6db3r3~x4/">Edinburgh Crystal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dt30lb2k6db3r3~x4/"><img src="/variants/s5/dt30lb2k6db3r3~x4/sett.png" alt="Edinburgh Crystal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/dt30w2k6db3r3~x4/">Edinburgh Crystal (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dt30w2k6db3r3~x4/"><img src="/variants/s5/dt30w2k6db3r3~x4/sett.png" alt="Edinburgh Crystal (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-crystal/">Edinburgh Crystal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-crystal/"><img src="/variants/s5/dt30w2k6db3r3~x4/sett.png" alt="Edinburgh Crystal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/db12lb1k2db1r1~x8/">Lochcarron (1985)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db12lb1k2db1r1~x8/"><img src="/variants/s5/db12lb1k2db1r1~x8/sett.png" alt="Lochcarron (1985) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochcarron/">Lochcarron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochcarron/"><img src="/variants/s5/db12lb1k2db1r1~x8/sett.png" alt="Lochcarron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

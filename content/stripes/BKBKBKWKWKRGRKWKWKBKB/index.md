@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/db22k2db4k2db4k8w2k2w2k10r5y2r5k10w2k2w2k8db18k2db4~x2/">Tartan Army</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/db22k2db4k2db4k8w2k2w2k10r5y2r5k10w2k2w2k8db18k2db4~x2/"><img src="/variants/s21/db22k2db4k2db4k8w2k2w2k10r5y2r5k10w2k2w2k8db18k2db4~x2/sett.png" alt="Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tartan-army-3/">Tartan Army</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-army-3/"><img src="/variants/s21/db22k2db4k2db4k8w2k2w2k10r5y2r5k10w2k2w2k8db18k2db4~x2/sett.png" alt="Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

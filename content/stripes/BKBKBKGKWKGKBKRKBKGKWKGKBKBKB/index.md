@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/">MacKenzie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/"><img src="/variants/s29/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/sett.png" alt="MacKenzie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackenzie-5/">MacKenzie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackenzie-5/"><img src="/variants/s29/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/sett.png" alt="MacKenzie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r10dy60db13w24db24dy8/">Bronte House Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r10dy60db13w24db24dy8/"><img src="/variants/s6/r10dy60db13w24db24dy8/sett.png" alt="Bronte House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bronte-house-check/">Bronte House Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bronte-house-check/"><img src="/variants/s6/r10dy60db13w24db24dy8/sett.png" alt="Bronte House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/g3dp3w1dp3g3r1~x4/">Wilson's No.113</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g3dp3w1dp3g3r1~x4/"><img src="/variants/s6/g3dp3w1dp3g3r1~x4/sett.png" alt="Wilson's No.113 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-113/">Wilson's No.113</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-113/"><img src="/variants/s6/g3dp3w1dp3g3r1~x4/sett.png" alt="Wilson's No.113 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg1n8lb5n23lb5db3lb5dp3lb5dg5lb3w1~x2/">Hand Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg1n8lb5n23lb5db3lb5dp3lb5dg5lb3w1~x2/"><img src="/variants/s12/dg1n8lb5n23lb5db3lb5dp3lb5dg5lb3w1~x2/sett.png" alt="Hand Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/">Hand, Edinburgh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/"><img src="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/sett.png" alt="Hand, Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hand/">Hand</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hand/"><img src="/variants/s12/dg1n8lb5n23lb5db3lb5dp3lb5dg5lb3w1~x2/sett.png" alt="Hand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hand-edinburgh/">Hand, Edinburgh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hand-edinburgh/"><img src="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/sett.png" alt="Hand, Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

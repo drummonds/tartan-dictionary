@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g3r12dg12g5r2db30g2r2~x2/">Rannoch Moor (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g3r12dg12g5r2db30g2r2~x2/"><img src="/variants/s8/g3r12dg12g5r2db30g2r2~x2/sett.png" alt="Rannoch Moor (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rannoch-moor/">Rannoch Moor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rannoch-moor/"><img src="/variants/s8/g3r12dg12g5r2db30g2r2~x2/sett.png" alt="Rannoch Moor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

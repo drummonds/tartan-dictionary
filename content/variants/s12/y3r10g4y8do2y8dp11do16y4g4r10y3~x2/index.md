@@ -8,10 +8,10 @@ crumbs:
 - name: "Hallowfield Wood"
   url: "/tartans/h/ha/hallowfield-wood/"
 - name: "Hallowfield Wood"
-  url: "/setts/y3r10g4y8do2y8dp11do16y4g4r10y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3r10g4y8do2y8dp11do16y4g4r10y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hallowfield-wood/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGBBGBGGRG](/stripes/grggbbgbggrg/).
 
 Part of the [Hallowfield Wood](/tartans/h/ha/hallowfield-wood/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/r1k1dg8k1db1k1db1k1db1k1db8w1db2w1db8k1db1k1db1k1db1k1dg8k1lo1~x4/">Recovery Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/r1k1dg8k1db1k1db1k1db1k1db8w1db2w1db8k1db1k1db1k1db1k1dg8k1lo1~x4/"><img src="/variants/s25/r1k1dg8k1db1k1db1k1db1k1db8w1db2w1db8k1db1k1db1k1db1k1dg8k1lo1~x4/sett.png" alt="Recovery Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/recovery-hunting/">Recovery Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/recovery-hunting/"><img src="/variants/s25/r1k1dg8k1db1k1db1k1db1k1db8w1db2w1db8k1db1k1db1k1db1k1dg8k1lo1~x4/sett.png" alt="Recovery Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

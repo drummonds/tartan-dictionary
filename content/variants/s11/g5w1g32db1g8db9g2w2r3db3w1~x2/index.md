@@ -8,10 +8,10 @@ crumbs:
 - name: "Portosalvo"
   url: "/tartans/p/po/portosalvo/"
 - name: "Portosalvo"
-  url: "/setts/g5w1g32db1g8db9g2w2r3db3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g5w1g32db1g8db9g2w2r3db3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/portosalvo/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBGBGWRBW](/stripes/gwgbgbgwrbw/).
 
 Part of the [Portosalvo](/tartans/p/po/portosalvo/) tartan — the named design grouping this sett with its other cloths.

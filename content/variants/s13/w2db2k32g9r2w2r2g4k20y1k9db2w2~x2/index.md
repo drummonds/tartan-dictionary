@@ -8,10 +8,10 @@ crumbs:
 - name: "Nova Scotia Medical Examiner Service"
   url: "/tartans/n/no/nova-scotia-medical-examiner-service/"
 - name: "Nova Scotia Medical Examiner Service"
-  url: "/setts/w2db2k32g9r2w2r2g4k20y1k9db2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2db2k32g9r2w2r2g4k20y1k9db2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/nova-scotia-medical-examiner-service/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKGKGRWRGKBW](/stripes/wbkgkgrwrgkbw/).
 
 Part of the [Nova Scotia Medical Examiner Service](/tartans/n/no/nova-scotia-medical-examiner-service/) tartan — the named design grouping this sett with its other cloths.

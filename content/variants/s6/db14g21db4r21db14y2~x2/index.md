@@ -12,10 +12,10 @@ crumbs:
 - name: "Kilgour"
   url: "/tartans/k/ki/kilgour/"
 - name: "Kilgour"
-  url: "/setts/db14g21db4r21db14y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db14g21db4r21db14y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kilgour/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBG](/stripes/bgbrbg/).
 
 Part of the [Kilgour](/tartans/k/ki/kilgour/) tartan — the named design grouping this sett with its other cloths.

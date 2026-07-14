@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w7dy7w7dy40r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgwgw/">RGWGW</a></nav>
 Its design is pattern [RGWGW](/stripes/rgwgw/) — the page of every tartan sharing this colour sequence.
 
 Corporate tartan created for Coca Cola, produced by the Janet Helm Company of Vancouver.
@@ -14,8 +17,8 @@ The **Coca Cola US** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w7dy7w7dy40r3/">Coca Cola US</a></td><td><code>W/14 DY14 W14 DY80 R/6</code></td><td>236</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w7dy7w7dy40r3/"><img src="/variants/s5/w7dy7w7dy40r3~x2/sett.png" alt="Coca Cola US sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w7dy7w7dy40r3~x2/">Coca Cola US</a></td><td><code>W/14 DY14 W14 DY80 R/6</code></td><td>236</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w7dy7w7dy40r3~x2/"><img src="/variants/s5/w7dy7w7dy40r3~x2/sett.png" alt="Coca Cola US sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -28,6 +31,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="450.5" cy="125.6" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="389.0" cy="173.9" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s5/lb15do15lb15do80r6/"><circle cx="455.1" cy="189.9" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="458.9" cy="186.1" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="396.0" cy="156.0" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s8/y20w2y20k4w3y3k3w2/"><circle cx="407.5" cy="161.5" r="4" fill="#3465a4"><title>Guzzo Check</title></circle></a><a href="/variants/s5/dy38w9dy3k9w3~x2/"><circle cx="352.6" cy="165.5" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s5/r8dg3r4dg44w4~x2/"><circle cx="476.2" cy="172.6" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="373.8" cy="126.9" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s5/r2y33k5w3g2~x2/"><circle cx="406.7" cy="125.4" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><circle cx="432.2" cy="176.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="451.7" cy="126.0" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="390.0" cy="174.2" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s5/lb15do15lb15do80r6/"><circle cx="456.2" cy="190.2" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="460.1" cy="186.4" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="397.3" cy="156.3" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s8/y20w2y20k4w3y3k3w2/"><circle cx="408.6" cy="161.7" r="4" fill="#3465a4"><title>Guzzo Check</title></circle></a><a href="/variants/s5/dy38w9dy3k9w3~x2/"><circle cx="353.6" cy="165.7" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s5/r8dg3r4dg44w4~x2/"><circle cx="477.3" cy="173.0" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="375.1" cy="127.1" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s5/r2y33k5w3g2~x2/"><circle cx="407.8" cy="125.6" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><circle cx="433.3" cy="176.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

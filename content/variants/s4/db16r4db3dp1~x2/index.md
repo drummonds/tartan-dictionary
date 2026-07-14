@@ -12,10 +12,10 @@ crumbs:
 - name: "Elliott"
   url: "/tartans/e/el/elliott/"
 - name: "Elliott"
-  url: "/setts/db16r4db3dp1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16r4db3dp1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/el/elliott/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRB](/stripes/bbrb/).
 
 Part of the [Elliott](/tartans/e/el/elliott/) tartan — the named design grouping this sett with its other cloths.

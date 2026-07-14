@@ -8,10 +8,10 @@ crumbs:
 - name: "Joker, The"
   url: "/tartans/j/jo/joker-the/"
 - name: "Joker, The"
-  url: "/setts/t18k2t4k6dp12lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t18k2t4k6dp12lo1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/jo/joker-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBY](/stripes/bkbkby/).
 
 Part of the [Joker, The](/tartans/j/jo/joker-the/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4615](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2005 — Joker, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4615">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><br><em>Design for the tartan trousers worn by Jack Nicholson as the Joker in the 1989 Batman film. Design re-created from film stills by Andy Garringer and woven by House of Tartan in July 2008.</em></li>
-<li>pre 2005 — Joker, The (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6769">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><br><em>Dec 2007 - asked by Great Scot International if we could identify the tartan trousers worn by Jack Nicholson as the Joker in the 1989 Batman film. It turns out to be this one. A more accurate threadcount from a photo of the Joker is: LR/2 P16 K10 LB6 K2 LB/18. Woven sample received from House of Tartan in July 2008.</em></li>
+<li>pre 2005 — Joker, The (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6769/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><br><em>Dec 2007 - asked by Great Scot International if we could identify the tartan trousers worn by Jack Nicholson as the Joker in the 1989 Batman film. It turns out to be this one. A more accurate threadcount from a photo of the Joker is: LR/2 P16 K10 LB6 K2 LB/18. Woven sample received from House of Tartan in July 2008.</em></li>
 </ul>
 </details>
 

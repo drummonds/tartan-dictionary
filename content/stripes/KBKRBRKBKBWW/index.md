@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/">Earthrise</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/"><img src="/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/sett.png" alt="Earthrise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ea/earthrise/">Earthrise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ea/earthrise/"><img src="/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/sett.png" alt="Earthrise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

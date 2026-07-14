@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/">King Pootatau Te Wherowhero</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/"><img src="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/sett.png" alt="King Pootatau Te Wherowhero sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/king-pootatau-te-wherowhero/">King Pootatau Te Wherowhero</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/king-pootatau-te-wherowhero/"><img src="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/sett.png" alt="King Pootatau Te Wherowhero sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

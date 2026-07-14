@@ -10,15 +10,15 @@ crumbs:
 - name: "Highland Sky"
   url: "/tartans/h/hi/highland-sky-2/"
 - name: "Highland Sky"
-  url: "/setts/n43db2n3dt11n2db2n1lb1n20w4n7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n43db2n3dt11n2db2n1lb1n20w4n7/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWBBBBBBBBBBBBBWBW](/stripes/bwbwbbbbbbbbbbbbbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highland-sky-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBBWBWB](/stripes/bbbbbbbwbwb/).
 
 Part of the [Highland Sky](/tartans/h/hi/highland-sky-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1717](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1717)
 
@@ -46,9 +46,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6825
 
 ## Thread count
-N/14 W8 N40 LB2 N2 DB4 N4 DT22 N6 DB4 N86 DB4 N6 DT22 N4 DB4 N2 LB2 N40 W/8
+N/86 DB4 N6 DT22 N4 DB4 N2 LB2 N40 W8 N/14
 
-One full sett is **546 threads**.
+One full sett is **284 threads**.
+
+<p class="recorded-note">The source recorded this cloth as N/14 W8 N40 LB2 N2 DB4 N4 DT22 N6 DB4 N86 DB4 N6 DT22 N4 DB4 N2 LB2 N40 W/8 — 546 threads; it folds to the canonical 284-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -57,7 +59,7 @@ One full sett is **546 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/14 W8 N40 LB2 N2 DB4 N4 DT22 N6 DB4 N86 DB4 N6 DT22 N4 DB4 N2 LB2 N40 W/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/86 DB4 N6 DT22 N4 DB4 N2 LB2 N40 W8 N/14 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

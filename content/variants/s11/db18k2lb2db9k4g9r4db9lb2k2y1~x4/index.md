@@ -12,10 +12,10 @@ crumbs:
 - name: "Amarillo"
   url: "/tartans/a/am/amarillo/"
 - name: "Amarillo District Tartan"
-  url: "/setts/db18k2lb2db9k4g9r4db9lb2k2y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18k2lb2db9k4g9r4db9lb2k2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/am/amarillo/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBKGRBWKG](/stripes/bkwbkgrbwkg/).
 
 Part of the [Amarillo](/tartans/a/am/amarillo/) tartan — the named design grouping this sett with its other cloths.

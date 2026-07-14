@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db2w2r2w2r2db2r2db12dy1db2w2~x4/">Good Morning America (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db2w2r2w2r2db2r2db12dy1db2w2~x4/"><img src="/variants/s11/db2w2r2w2r2db2r2db12dy1db2w2~x4/sett.png" alt="Good Morning America (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/good-morning-america/">Good Morning America</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/good-morning-america/"><img src="/variants/s11/db2w2r2w2r2db2r2db12dy1db2w2~x4/sett.png" alt="Good Morning America sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

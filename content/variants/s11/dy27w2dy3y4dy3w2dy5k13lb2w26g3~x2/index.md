@@ -12,10 +12,10 @@ crumbs:
 - name: "MacKellar Dress"
   url: "/tartans/m/ma/mackellar-dress/"
 - name: "MacKellar Dress Clan Tartan"
-  url: "/setts/dy27w2dy3y4dy3w2dy5k13lb2w26g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy27w2dy3y4dy3w2dy5k13lb2w26g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackellar-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGGGWGKWWG](/stripes/gwgggwgkwwg/).
 
 Part of the [MacKellar Dress](/tartans/m/ma/mackellar-dress/) tartan — the named design grouping this sett with its other cloths.

@@ -12,22 +12,22 @@ crumbs:
 - name: "Stewart of Killiecrankie"
   url: "/tartans/s/st/stewart-of-killiecrankie/"
 - name: "Stewart of Urrard (Clan?)"
-  url: "/setts/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-of-killiecrankie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBRGRBRGRGR](/stripes/grgrbrgrbrgrgr/).
 
 Part of the [Stewart of Killiecrankie](/tartans/s/st/stewart-of-killiecrankie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=898](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=898)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/898/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/898/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 1930 — Stewart of Urrard (Clan?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=898">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>Peter MacDonald swatch collection. Mackinlay scale. According to McGH this is also known as Stewart of Killicrankie. A kilt in this material was brought into the Scottish Tartans Society which could be dated to before 1930. It belonged to a member of the Stewart Society at that time. The threadcount and the name were documented by Mackinlay, who studied and collected tartans between 1930 and 1950.The Society also has a sample by Coulson Bonner which has the blue as black. Woven sample.</em></li>
+<li>pre 1930 — Stewart of Urrard (Clan?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/898/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>Peter MacDonald swatch collection. Mackinlay scale. According to McGH this is also known as Stewart of Killicrankie. A kilt in this material was brought into the Scottish Tartans Society which could be dated to before 1930. It belonged to a member of the Stewart Society at that time. The threadcount and the name were documented by Mackinlay, who studied and collected tartans between 1930 and 1950.The Society also has a sample by Coulson Bonner which has the blue as black. Woven sample.</em></li>
 <li>undated — Stewart of Killiecrankie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4984">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>Peter MacDonald swatch collection. Mackinlay scale. According to McGH this is also known as Stewart of Killicrankie. A kilt in this material was brought into the Scottish Tartans Society which could be dated to before 1930. It belonged to a member of the Stewart Society at that time. The threadcount and the name were documented by Mackinlay, who studied and collected tartans between 1930 and 1950. The Scottish Tartans Society also has a sample by Coulson Bonner which has the blue as black.</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=898](htt
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

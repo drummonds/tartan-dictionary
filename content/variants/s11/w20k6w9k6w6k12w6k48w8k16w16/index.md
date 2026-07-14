@@ -12,10 +12,10 @@ crumbs:
 - name: "MacLean"
   url: "/tartans/m/ma/maclean/"
 - name: "MacLean, Black & White"
-  url: "/setts/w20k6w9k6w6k12w6k48w8k16w16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w20k6w9k6w6k12w6k48w8k16w16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclean/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/).
 
 Part of the [MacLean](/tartans/m/ma/maclean/) tartan — the named design grouping this sett with its other cloths.

@@ -5,17 +5,13 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Clan Ramada"
-  url: "/clan/ramada/"
-- name: "Ramada"
-  url: "/families/ramada/"
 - name: "Ramada"
   url: "/tartans/r/ra/ramada/"
 - name: "Ramada"
-  url: "/setts/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/ramada/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRGRBBRBRBBRGRBBR](/stripes/grrgrbbrbrbbrgrbbr/).
 
 Part of the [Ramada](/tartans/r/ra/ramada/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3450](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/2004 — Ramada (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3450">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B81400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #B81400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#50507C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #50507C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D07878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #D07878"></span><br><em>Re-created from an artifact in the Telfer Dunbar collection at the Scottish Tartans Museum. The unusual bleaching effect that has occurred either by design or by age, has been enhanced in this new design. It is a feature often seen in silk fabrics over 200 years old.</em></li>
-<li>Sept 2004 — Ramada (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6374">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B81400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #B81400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#50507C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #50507C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007844;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #007844"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D07878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #D07878"></span><br><em>Re-created from an artifact in the Telfer Dunbar collection at the Scottish Tartans Museum. The unusual bleaching effect that has occurred either by design or by age, has been enhanced in this new design. It is a feature often seen in silk fabrics over 200 years old. This cannot be regarded as a new and unique design as it is a copy of 4466 which is the Telfer Dunbar 18th century sample mentioned above.</em></li>
+<li>Sept 2004 — Ramada (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6374/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B81400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #B81400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#50507C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #50507C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007844;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #007844"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D07878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #D07878"></span><br><em>Re-created from an artifact in the Telfer Dunbar collection at the Scottish Tartans Museum. The unusual bleaching effect that has occurred either by design or by age, has been enhanced in this new design. It is a feature often seen in silk fabrics over 200 years old. This cannot be regarded as a new and unique design as it is a copy of 4466 which is the Telfer Dunbar 18th century sample mentioned above.</em></li>
 </ul>
 </details>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k53dy4k7dy2k4r30w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkgkrw/">KGKGKRW</a></nav>
 Its design is pattern [KGKGKRW](/stripes/kgkgkrw/) — the page of every tartan sharing this colour sequence.
 
 The **Partick Thistle Football Club** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Partick Thistle Football Club** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k53dy4k7dy2k4r30w3/">Partick Thistle Football Club</a></td><td><code>K/106 DY8 K14 DY4 K8 R60 W/6</code></td><td>300</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k53dy4k7dy2k4r30w3/"><img src="/variants/s7/k53dy4k7dy2k4r30w3~x2/sett.png" alt="Partick Thistle Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/">Partick Thistle Football Club</a></td><td><code>K/106 DY8 K14 DY4 K8 R60 W/6</code></td><td>300</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><img src="/variants/s7/k53dy4k7dy2k4r30w3~x2/sett.png" alt="Partick Thistle Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="278.0" cy="121.2" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="260.8" cy="121.3" r="4" fill="#3465a4"><title>Cunard O' The Clyde</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="278.0" cy="146.9" r="4" fill="#3465a4"><title>Dunfermline Athletic</title></circle></a><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><circle cx="319.1" cy="68.6" r="4" fill="#3465a4"><title>MacEvil</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="423.0" cy="119.2" r="4" fill="#3465a4"><title>Perry Dress</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="294.8" cy="67.9" r="4" fill="#3465a4"><title>Distripress</title></circle></a><a href="/variants/s6/w4k24dy5k10dy12r1~x2/"><circle cx="321.4" cy="144.1" r="4" fill="#3465a4"><title>Livingston Football Club</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="373.8" cy="126.9" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="275.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="403.0" cy="109.7" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><circle cx="344.4" cy="93.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="279.0" cy="121.2" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="261.7" cy="121.2" r="4" fill="#3465a4"><title>Cunard O' The Clyde</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="279.0" cy="147.0" r="4" fill="#3465a4"><title>Dunfermline Athletic</title></circle></a><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><circle cx="320.2" cy="68.7" r="4" fill="#3465a4"><title>MacEvil</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="424.3" cy="119.5" r="4" fill="#3465a4"><title>Perry Dress</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="295.9" cy="67.9" r="4" fill="#3465a4"><title>Distripress</title></circle></a><a href="/variants/s6/w4k24dy5k10dy12r1~x2/"><circle cx="322.4" cy="144.3" r="4" fill="#3465a4"><title>Livingston Football Club</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="375.1" cy="127.1" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="276.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="404.4" cy="110.0" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><circle cx="345.6" cy="93.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

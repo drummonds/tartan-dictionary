@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/dg1r1dg6r6ri6r1ri6r6dg1r1dg1r1dg6r1dg1r1dg1r6ri6r1ri6r6dg6r1~x8~r1707016-ri2109032/">MacNab of Arthurston</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/dg1r1dg6r6ri6r1ri6r6dg1r1dg1r1dg6r1dg1r1dg1r6ri6r1ri6r6dg6r1~x8~r1707016-ri2109032/"><img src="/variants/s24/dg1r1dg6r6ri6r1ri6r6dg1r1dg1r1dg6r1dg1r1dg1r6ri6r1ri6r6dg6r1~x8~r1707016-ri2109032/sett.png" alt="MacNab of Arthurston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnab-of-arthurston/">MacNab of Arthurston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnab-of-arthurston/"><img src="/variants/s24/dg1r1dg6r6ri6r1ri6r6dg1r1dg1r1dg6r1dg1r1dg1r6ri6r1ri6r6dg6r1~x8~r1707016-ri2109032/sett.png" alt="MacNab of Arthurston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

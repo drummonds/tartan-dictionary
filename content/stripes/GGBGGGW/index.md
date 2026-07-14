@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y6dy14db10dy58g3dy8w2/">Kozmyk (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y6dy14db10dy58g3dy8w2/"><img src="/variants/s7/y6dy14db10dy58g3dy8w2/sett.png" alt="Kozmyk (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ko/kozmyk/">Kozmyk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ko/kozmyk/"><img src="/variants/s7/y6dy14db10dy58g3dy8w2/sett.png" alt="Kozmyk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

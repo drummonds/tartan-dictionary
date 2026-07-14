@@ -8,10 +8,10 @@ crumbs:
 - name: "Dalriada"
   url: "/tartans/d/da/dalriada/"
 - name: "Dalriada"
-  url: "/setts/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dalriada/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRGRRGRBRGRGRGRWR](/stripes/grrgrrgrbrgrgrgrwr/).
 
 Part of the [Dalriada](/tartans/d/da/dalriada/) tartan — the named design grouping this sett with its other cloths.

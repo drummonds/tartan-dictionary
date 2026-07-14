@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/g21db34r14w6~x2/">Harbison (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g21db34r14w6~x2/"><img src="/variants/s4/g21db34r14w6~x2/sett.png" alt="Harbison (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harbison-2/">Harbison</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harbison-2/"><img src="/variants/s4/g21db34r14w6~x2/sett.png" alt="Harbison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/">Porcelanosa</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><img src="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/sett.png" alt="Porcelanosa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/porcelanosa/">Porcelanosa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/porcelanosa/"><img src="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/sett.png" alt="Porcelanosa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

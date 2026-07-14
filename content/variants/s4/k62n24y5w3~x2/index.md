@@ -10,10 +10,10 @@ crumbs:
 - name: "Perry , Alex"
   url: "/tartans/p/pe/perry-alex/"
 - name: "Perry (Calgary), Alex (Personal)"
-  url: "/setts/k62n24y5w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k62n24y5w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/perry-alex/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGW](/stripes/kbgw/).
 
 Part of the [Perry , Alex](/tartans/p/pe/perry-alex/) tartan — the named design grouping this sett with its other cloths.

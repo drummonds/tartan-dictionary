@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db9k16db9r7db4r9w2r2lb2r9db4r7~x2/">Tullis Russell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db9k16db9r7db4r9w2r2lb2r9db4r7~x2/"><img src="/variants/s12/db9k16db9r7db4r9w2r2lb2r9db4r7~x2/sett.png" alt="Tullis Russell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/tullis-russell/">Tullis Russell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/tullis-russell/"><img src="/variants/s12/db9k16db9r7db4r9w2r2lb2r9db4r7~x2/sett.png" alt="Tullis Russell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

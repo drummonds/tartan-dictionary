@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/">Grampian Police</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/"><img src="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/sett.png" alt="Grampian Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grampian-police/">Grampian Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grampian-police/"><img src="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/sett.png" alt="Grampian Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

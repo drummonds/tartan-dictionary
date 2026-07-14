@@ -12,10 +12,10 @@ crumbs:
 - name: "Hepburn"
   url: "/tartans/h/he/hepburn/"
 - name: "Hepburn"
-  url: "/setts/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hepburn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRKGKGKBRBKGKGKRGRBG](/stripes/brgrkgkgkbrbkgkgkrgrbg/).
 
 Part of the [Hepburn](/tartans/h/he/hepburn/) tartan — the named design grouping this sett with its other cloths.

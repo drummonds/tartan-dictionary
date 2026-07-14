@@ -8,10 +8,10 @@ crumbs:
 - name: "Abbotsford"
   url: "/tartans/a/ab/abbotsford/"
 - name: "Abbotsford Commemorative Tartan"
-  url: "/setts/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ab/abbotsford/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGBKWKWKWKWKWKGRGWGK](/stripes/gkwkgbkwkwkwkwkwkgrgwgk/).
 
 Part of the [Abbotsford](/tartans/a/ab/abbotsford/) tartan — the named design grouping this sett with its other cloths.

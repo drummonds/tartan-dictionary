@@ -12,15 +12,15 @@ crumbs:
 - name: "Hannay"
   url: "/tartans/h/ha/hannay/"
 - name: "Hannay Blue"
-  url: "/setts/k9t4k2t4k2t30k9t4db14dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k9t4k2t4k2t30k9t4db14dy2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBKBBGBBKBKBKBK](/stripes/bkbkbkbbgbbkbkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hannay/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBBKBKBKBK](/stripes/gbbkbkbkbk/).
 
 Part of the [Hannay](/tartans/h/ha/hannay/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1588](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1588)
 
@@ -60,9 +60,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6509
 
 ## Thread count
-K/18 T8 K4 T8 K4 T60 K18 T8 DB28 DY4 DB28 T8 K18 T60 K4 T8 K4 T/8
+K/18 T8 K4 T8 K4 T60 K18 T8 DB28 DY/4
 
-One full sett is **570 threads**.
+One full sett is **298 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/18 T8 K4 T8 K4 T60 K18 T8 DB28 DY4 DB28 T8 K18 T60 K4 T8 K4 T/8 — 570 threads; it folds to the canonical 298-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -71,7 +73,7 @@ One full sett is **570 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/18 T8 K4 T8 K4 T60 K18 T8 DB28 DY4 DB28 T8 K18 T60 K4 T8 K4 T/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/18 T8 K4 T8 K4 T60 K18 T8 DB28 DY/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

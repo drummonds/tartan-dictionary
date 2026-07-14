@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/">West Virginia Old Shawl</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><img src="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/sett.png" alt="West Virginia Old Shawl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/west-virginia-old-shawl/">West Virginia Old Shawl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/west-virginia-old-shawl/"><img src="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/sett.png" alt="West Virginia Old Shawl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

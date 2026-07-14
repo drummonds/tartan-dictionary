@@ -12,10 +12,10 @@ crumbs:
 - name: "Dewar"
   url: "/tartans/d/de/dewar-3/"
 - name: "Dewar (WCWM)"
-  url: "/setts/db1dy1db7dy5y7lr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1dy1db7dy5y7lr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/dewar-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGY](/stripes/bgbggy/).
 
 Part of the [Dewar](/tartans/d/de/dewar-3/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=925](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1979 — Dewar (WCWM) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=925">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#084848;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #084848"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1979 — Dewar (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4675">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#084848;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #084848"></span><br><em>A WCWM Fashion tartan. Sample in STA's Johnston Collection. Possibly pre 1969 according to an article of that year by Kathleeen Sinclair of Winnipeg on some Canadian tartans - published ij the Tartans Society Proceedings. (EBW Dec. 2014) See also tjhe more attractive Aljean version at 3400. Aljean - women's clothes retailer in Vancouver Canada traded under Aljean name from 1950-2012.</em></li>
+<li>pre 1979 — Dewar (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4675/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#084848;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #084848"></span><br><em>A WCWM Fashion tartan. Sample in STA's Johnston Collection. Possibly pre 1969 according to an article of that year by Kathleeen Sinclair of Winnipeg on some Canadian tartans - published ij the Tartans Society Proceedings. (EBW Dec. 2014) See also tjhe more attractive Aljean version at 3400. Aljean - women's clothes retailer in Vancouver Canada traded under Aljean name from 1950-2012.</em></li>
 </ul>
 </details>
 

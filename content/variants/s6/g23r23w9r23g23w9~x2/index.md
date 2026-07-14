@@ -8,10 +8,10 @@ crumbs:
 - name: "Omani Regiment 2nd Pipe Sqn."
   url: "/tartans/o/om/omani-regiment-2nd-pipe-sqn/"
 - name: "Omani Regiment 2nd Pipe Sqn."
-  url: "/setts/g23r23w9r23g23w9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g23r23w9r23g23w9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/om/omani-regiment-2nd-pipe-sqn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWRGW](/stripes/grwrgw/).
 
 Part of the [Omani Regiment 2nd Pipe Sqn.](/tartans/o/om/omani-regiment-2nd-pipe-sqn/) tartan — the named design grouping this sett with its other cloths.

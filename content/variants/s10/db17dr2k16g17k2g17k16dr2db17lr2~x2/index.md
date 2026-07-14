@@ -12,10 +12,10 @@ crumbs:
 - name: "Mitchell"
   url: "/tartans/m/mi/mitchell/"
 - name: "Mitchell"
-  url: "/setts/db17dr2k16g17k2g17k16dr2db17lr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db17dr2k16g17k2g17k16dr2db17lr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/mitchell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGKGKBBY](/stripes/bbkgkgkbby/).
 
 Part of the [Mitchell](/tartans/m/mi/mitchell/) tartan — the named design grouping this sett with its other cloths.

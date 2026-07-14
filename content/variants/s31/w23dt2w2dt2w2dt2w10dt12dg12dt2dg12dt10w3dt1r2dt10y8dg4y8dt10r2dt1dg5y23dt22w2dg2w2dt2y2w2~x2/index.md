@@ -8,10 +8,10 @@ crumbs:
 - name: "Pentecostal Assemblies of Canada"
   url: "/tartans/p/pe/pentecostal-assemblies-of-canada/"
 - name: "Pentecostal Assemblies of Canada"
-  url: "/setts/w23dt2w2dt2w2dt2w10dt12dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w23dt2w2dt2w2dt2w10dt12dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/pentecostal-assemblies-of-canada/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWBWBGBGBWBRBGGGBRBGGBWGWBGW](/stripes/wbwbwbwbgbgbwbrbgggbrbggbwgwbgw/).
 
 Part of the [Pentecostal Assemblies of Canada](/tartans/p/pe/pentecostal-assemblies-of-canada/) tartan — the named design grouping this sett with its other cloths.

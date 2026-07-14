@@ -12,10 +12,10 @@ crumbs:
 - name: "Grant of Ballindalloch"
   url: "/tartans/g/gr/grant-of-ballindalloch-2/"
 - name: "Grant of Ballindalloch"
-  url: "/setts/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grant-of-ballindalloch-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRGRGRKRBRKRKR](/stripes/rkrgrgrkrbrkrkr/).
 
 Part of the [Grant of Ballindalloch](/tartans/g/gr/grant-of-ballindalloch-2/) tartan — the named design grouping this sett with its other cloths.

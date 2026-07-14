@@ -12,10 +12,10 @@ crumbs:
 - name: "Hamilton Hunting"
   url: "/tartans/h/ha/hamilton-hunting/"
 - name: "Hamilton Hunting Clan Tartan"
-  url: "/setts/db5g2db5g8w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5g2db5g8w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hamilton-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGW](/stripes/bgbgw/).
 
 Part of the [Hamilton Hunting](/tartans/h/ha/hamilton-hunting/) tartan — the named design grouping this sett with its other cloths.

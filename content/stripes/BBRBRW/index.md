@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dr24n5o9n2o9w9~x4/">Plaid Wine</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr24n5o9n2o9w9~x4/"><img src="/variants/s6/dr24n5o9n2o9w9~x4/sett.png" alt="Plaid Wine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pl/plaid-wine/">Plaid Wine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pl/plaid-wine/"><img src="/variants/s6/dr24n5o9n2o9w9~x4/sett.png" alt="Plaid Wine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

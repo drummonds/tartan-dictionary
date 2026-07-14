@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db35k10db4w2db3r2y2~x2/">Laidlaw's Highland Drovers (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db35k10db4w2db3r2y2~x2/"><img src="/variants/s7/db35k10db4w2db3r2y2~x2/sett.png" alt="Laidlaw's Highland Drovers (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laidlaw-s-highland-drovers/">Laidlaw's Highland Drovers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laidlaw-s-highland-drovers/"><img src="/variants/s7/db35k10db4w2db3r2y2~x2/sett.png" alt="Laidlaw's Highland Drovers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

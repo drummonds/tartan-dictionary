@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/">Lachance (Canada) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><img src="/variants/s7/n50lb50y1db27g18do9y4~x2/sett.png" alt="Lachance (Canada) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lachance-2/">Lachance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lachance-2/"><img src="/variants/s7/n50lb50y1db27g18do9y4~x2/sett.png" alt="Lachance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

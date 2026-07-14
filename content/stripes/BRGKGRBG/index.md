@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db1r1y1k15y15r1db1y1~x4/">Pittsburgh St Andrew's Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db1r1y1k15y15r1db1y1~x4/"><img src="/variants/s8/db1r1y1k15y15r1db1y1~x4/sett.png" alt="Pittsburgh St Andrew's Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pittsburgh-st-andrew-s-society/">Pittsburgh St Andrew's Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pittsburgh-st-andrew-s-society/"><img src="/variants/s8/db1r1y1k15y15r1db1y1~x4/sett.png" alt="Pittsburgh St Andrew's Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Oklahoma State University"
   url: "/tartans/o/ok/oklahoma-state-university-2/"
 - name: "Oklahoma State University American Corporate Tartan"
-  url: "/setts/lo80k52w7o12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo80k52w7o12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ok/oklahoma-state-university-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKY](/stripes/rwky/).
 
 Part of the [Oklahoma State University](/tartans/o/ok/oklahoma-state-university-2/) tartan — the named design grouping this sett with its other cloths.

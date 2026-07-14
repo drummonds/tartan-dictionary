@@ -12,10 +12,10 @@ crumbs:
 - name: "Stewart Mourning"
   url: "/tartans/s/st/stewart-mourning-2/"
 - name: "Stewart Mourning Clan Tartan"
-  url: "/setts/k43w4k6w2k3w2k3w9k5w3k3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k43w4k6w2k3w2k3w9k5w3k3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-mourning-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWKW](/stripes/kwkwkwkwkwkw/).
 
 Part of the [Stewart Mourning](/tartans/s/st/stewart-mourning-2/) tartan — the named design grouping this sett with its other cloths.

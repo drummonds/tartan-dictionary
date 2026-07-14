@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/">King (Austria) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/"><img src="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/sett.png" alt="King (Austria) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/king/">King</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/king/"><img src="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/sett.png" alt="King sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/macleod/"
 - name: "MacLeod, Arisaid"
   url: "/tartans/m/ma/macleod-arisaid/"
-- name: "MacLeod, Arisaid"
-  url: "/setts/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1/"
+- name: "McDougall, Miss Anne (Personal)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macleod-arisaid/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRRWBWGWRRRWBWGWRRW](/stripes/wrrwbwgwrrrwbwgwrrw/).
 
 Part of the [MacLeod, Arisaid](/tartans/m/ma/macleod-arisaid/) tartan — the named design grouping this sett with its other cloths.

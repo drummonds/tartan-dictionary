@@ -12,10 +12,10 @@ crumbs:
 - name: "Porteous"
   url: "/tartans/p/po/porteous/"
 - name: "Porteous"
-  url: "/setts/k3y3db20g25lb18w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3y3db20g25lb18w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/porteous/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBGWW](/stripes/kgbgww/).
 
 Part of the [Porteous](/tartans/p/po/porteous/) tartan — the named design grouping this sett with its other cloths.

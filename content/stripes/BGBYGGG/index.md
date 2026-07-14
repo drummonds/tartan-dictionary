@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/">Caledonian Maple</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><img src="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/sett.png" alt="Caledonian Maple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledonian-maple/">Caledonian Maple</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-maple/"><img src="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/sett.png" alt="Caledonian Maple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

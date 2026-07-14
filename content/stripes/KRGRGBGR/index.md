@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r33g17db50g17r11g17r9k7/">Carnegie #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r33g17db50g17r11g17r9k7/"><img src="/variants/s8/r33g17db50g17r11g17r9k7/sett.png" alt="Carnegie #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carnegie-3/">Carnegie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carnegie-3/"><img src="/variants/s8/r33g17db50g17r11g17r9k7/sett.png" alt="Carnegie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

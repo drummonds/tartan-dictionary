@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/">George Heriot's School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/"><img src="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/sett.png" alt="George Heriot's School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/george-heriot-s/">George Heriot's</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/george-heriot-s/"><img src="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/sett.png" alt="George Heriot's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr2do22g22do3db12y2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgbbg/">BBGBBG</a></nav>
 Its design is pattern [BBGBBG](/stripes/bbgbbg/) — the page of every tartan sharing this colour sequence.
 
 The **Lisbon** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Lisbon** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr2do22g22do3db12y2/">Lisbon</a></td><td><code>Y/4 DB24 DO6 G44 DO44 DR/4</code></td><td>244</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr2do22g22do3db12y2/"><img src="/variants/s6/dr2do22g22do3db12y2~x2/sett.png" alt="Lisbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr2do22g22do3db12y2~x2/">Lisbon</a></td><td><code>DR/4 DO44 G44 DO6 DB24 Y/4</code></td><td>244</td><td>1983</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><img src="/variants/s6/dr2do22g22do3db12y2~x2/sett.png" alt="Lisbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.3" cy="220.0" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/"><circle cx="280.3" cy="191.6" r="4" fill="#3465a4"><title>Kilkenny, County</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.8" cy="268.3" r="4" fill="#3465a4"><title>Corey</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="295.4" cy="278.7" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="266.9" cy="249.1" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="320.1" cy="224.2" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/"><circle cx="275.9" cy="204.2" r="4" fill="#3465a4"><title>State Seal of Minnesota</title></circle></a><a href="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0804274-dbi1605267/"><circle cx="243.8" cy="233.5" r="4" fill="#3465a4"><title>Unidentified Waistcoat</title></circle></a><a href="/variants/s6/g6ly3g26dg10dt30w3~x2/"><circle cx="257.8" cy="243.8" r="4" fill="#3465a4"><title>Wcwm 1716</title></circle></a><a href="/variants/s6/dr6do26dt28g26dt8y3~x2/"><circle cx="287.2" cy="295.9" r="4" fill="#3465a4"><title>House of Bruar</title></circle></a><circle cx="276.6" cy="245.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.5" cy="219.9" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/"><circle cx="280.7" cy="191.6" r="4" fill="#3465a4"><title>Kilkenny, County</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.8" cy="268.3" r="4" fill="#3465a4"><title>Corey</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="295.4" cy="278.8" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="267.0" cy="249.1" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="320.3" cy="224.2" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/"><circle cx="276.0" cy="204.2" r="4" fill="#3465a4"><title>State Seal of Minnesota</title></circle></a><a href="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0804274-dbi1605267/"><circle cx="243.8" cy="233.5" r="4" fill="#3465a4"><title>Unidentified Waistcoat</title></circle></a><a href="/variants/s6/g6ly3g26dg10dt30w3~x2/"><circle cx="257.9" cy="243.8" r="4" fill="#3465a4"><title>Wcwm 1716</title></circle></a><a href="/variants/s6/dr6do26dt28g26dt8y3~x2/"><circle cx="287.1" cy="296.0" r="4" fill="#3465a4"><title>House of Bruar</title></circle></a><circle cx="276.7" cy="245.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

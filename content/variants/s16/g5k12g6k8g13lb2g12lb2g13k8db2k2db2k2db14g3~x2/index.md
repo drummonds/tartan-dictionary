@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Na Connaught"
   url: "/tartans/r/ro/royal-na-connaught/"
 - name: "Royal Na Connaught"
-  url: "/setts/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-na-connaught/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKBKGWGWGKGKG](/stripes/gbkbkbkgwgwgkgkg/).
 
 Part of the [Royal Na Connaught](/tartans/r/ro/royal-na-connaught/) tartan — the named design grouping this sett with its other cloths.

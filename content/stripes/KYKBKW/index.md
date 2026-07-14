@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k1ly2k3db12k18w1~x2/">Jon's Theme (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><img src="/variants/s6/k1ly2k3db12k18w1~x2/sett.png" alt="Jon's Theme (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jon-s-theme/">Jon's Theme</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jon-s-theme/"><img src="/variants/s6/k1ly2k3db12k18w1~x2/sett.png" alt="Jon's Theme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

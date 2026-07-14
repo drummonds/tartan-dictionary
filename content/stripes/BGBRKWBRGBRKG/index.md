@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db2g6db27r2k2w2db2r24g23db2r2k2y2~x2/">Olympic Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db2g6db27r2k2w2db2r24g23db2r2k2y2~x2/"><img src="/variants/s13/db2g6db27r2k2w2db2r24g23db2r2k2y2~x2/sett.png" alt="Olympic Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/olympic/">Olympic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/olympic/"><img src="/variants/s13/db2g6db27r2k2w2db2r24g23db2r2k2y2~x2/sett.png" alt="Olympic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

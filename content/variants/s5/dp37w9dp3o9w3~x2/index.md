@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen App"
   url: "/tartans/g/gl/glen-app/"
 - name: "Glen App"
-  url: "/setts/dp37w9dp3o9w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp37w9dp3o9w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-app/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRW](/stripes/bwbrw/).
 
 Part of the [Glen App](/tartans/g/gl/glen-app/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "MacColl"
   url: "/tartans/m/ma/maccoll/"
 - name: "MacColl"
-  url: "/setts/r12db1r1g8r2db1r1db3r1db1r12g1r1g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12db1r1g8r2db1r1db3r1db1r12g1r1g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maccoll/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/).
 
 Part of the [MacColl](/tartans/m/ma/maccoll/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2315](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1819 — MacColl (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2315">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>The MacColl tartan was produced by Wilson's of Bannockburn in 1797 under the name of 'Bruce', later known as 'Old Bruce'. The MacColls are a branch of the Clan Donald who settled around Loch Fyne. Some of the clan living in the Ballachulish area took protection from the Stewart of Appin. There is a strong similarity in the pattern structure of the 'Appin' and the MacColl tartans.</em></li>
-<li>1950 (Setts) — MacColl (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=878">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Thread count doubled for clarity. Green is even darker than shown here. First shown in Setts hence the c1950 date.</em></li>
+<li>1950 (Setts) — MacColl (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/878/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Thread count doubled for clarity. Green is even darker than shown here. First shown in Setts hence the c1950 date.</em></li>
 </ul>
 </details>
 

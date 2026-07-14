@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Elg"
   url: "/tartans/g/gl/glen-elg/"
 - name: "Glen Elg"
-  url: "/setts/o2g1w4dg1w4dg3w1g3dg2w2g2w2dg1w2g3w1o1g6w1g32o1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o2g1w4dg1w4dg3w1g3dg2w2g2w2dg1w2g3w1o1g6w1g32o1g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-elg/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWGRWGWGWGWGGWGWGWGR](/stripes/grgwgrwgwgwgwggwgwgwgr/).
 
 Part of the [Glen Elg](/tartans/g/gl/glen-elg/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1374](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Glen Elg (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1374">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#447438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #447438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C8000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SS #9C8000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><br><em>No details.</em></li>
-<li>pre 2002 — Glen Elg (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5004">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#447438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #447438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C8000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SS #9C8000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span></li>
+<li>pre 2002 — Glen Elg (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5004/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#447438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #447438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C8000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SS #9C8000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span></li>
 </ul>
 </details>
 

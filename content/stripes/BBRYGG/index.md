@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g2y1lo1r1dp1db1~x36/">Rainbow (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g2y1lo1r1dp1db1~x36/"><img src="/variants/s6/g2y1lo1r1dp1db1~x36/sett.png" alt="Rainbow (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rainbow-4/">Rainbow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rainbow-4/"><img src="/variants/s6/g2y1lo1r1dp1db1~x36/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

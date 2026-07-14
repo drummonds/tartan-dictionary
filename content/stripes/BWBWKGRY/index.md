@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db4w8db8w10k16g4r38lo1/">Edinburgh Napier University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db4w8db8w10k16g4r38lo1/"><img src="/variants/s8/db4w8db8w10k16g4r38lo1/sett.png" alt="Edinburgh Napier University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-napier-university/">Edinburgh Napier University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-napier-university/"><img src="/variants/s8/db4w8db8w10k16g4r38lo1/sett.png" alt="Edinburgh Napier University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

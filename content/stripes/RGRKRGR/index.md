@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r4g14r5k6r24g2r4~x2/">Auld Lang Syne (red) Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><img src="/variants/s7/r4g14r5k6r24g2r4~x2/sett.png" alt="Auld Lang Syne (red) Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r3g16r4k6r28g1r3~x2/">Maxwell</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3g16r4k6r28g1r3~x2/"><img src="/variants/s7/r3g16r4k6r28g1r3~x2/sett.png" alt="Maxwell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auld-lang-syne-7/">Auld Lang Syne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auld-lang-syne-7/"><img src="/variants/s7/r4g14r5k6r24g2r4~x2/sett.png" alt="Auld Lang Syne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maxwell/">Maxwell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maxwell/"><img src="/variants/s7/r3g16r4k6r28g1r3~x2/sett.png" alt="Maxwell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

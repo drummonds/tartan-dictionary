@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db1n6k6r1~x10/">Mayer, Chris (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db1n6k6r1~x10/"><img src="/variants/s4/db1n6k6r1~x10/sett.png" alt="Mayer, Chris (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mayer-chris/">Mayer, Chris</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mayer-chris/"><img src="/variants/s4/db1n6k6r1~x10/sett.png" alt="Mayer, Chris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

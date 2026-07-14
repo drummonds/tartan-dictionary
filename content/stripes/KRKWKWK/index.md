@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/">Lundy Reform</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><img src="/variants/s7/k2lb5k1lb1k10r1k1~x4/sett.png" alt="Lundy Reform sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lu/lundy-reform/">Lundy Reform</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/lundy-reform/"><img src="/variants/s7/k2lb5k1lb1k10r1k1~x4/sett.png" alt="Lundy Reform sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

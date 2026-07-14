@@ -11,11 +11,11 @@ crumbs:
   url: "/families/clergy/"
 - name: "Clergy"
   url: "/tartans/c/cl/clergy-11/"
-- name: "Clergy"
-  url: "/setts/db1g1db6k6g1k6g1db2g1db3g1/"
+- name: "Cargill"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1g1db6k6g1k6g1db2g1db3g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clergy-11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGKGBGBG](/stripes/bgbkgkgbgbg/).
 
 Part of the [Clergy](/tartans/c/cl/clergy-11/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5138](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1880 — Cargill (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5138">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Known more commonly as 'Clergy' or 'Beachan na Clerich' this tartan has also been called 'Cargill' The Clans Originaux 1880 version appears to have blue lines on the black Strathmore Woollen Co. of Forfar produce this as Clergy Green.</em></li>
-<li>1880 — Cargill (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3132">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Known more commonly as "Clergy" or "Beachan na Clerich" this tartan has also been called "Cargill" The Clans Originaux 1880 version appears to have blue lines on the black but it could just be a bad photograph of the woven sample. Strathmore Woollen Co. of Forfar do this as Clergy Green.</em></li>
+<li>1880 — Cargill (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3132/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Known more commonly as "Clergy" or "Beachan na Clerich" this tartan has also been called "Cargill" The Clans Originaux 1880 version appears to have blue lines on the black but it could just be a bad photograph of the woven sample. Strathmore Woollen Co. of Forfar do this as Clergy Green.</em></li>
 </ul>
 </details>
 

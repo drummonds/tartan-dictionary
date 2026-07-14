@@ -8,10 +8,10 @@ crumbs:
 - name: "Aberdeenshire Home Colours"
   url: "/tartans/a/ab/aberdeenshire-home-colours/"
 - name: "Aberdeenshire Home Colours"
-  url: "/setts/lb19lo12r4y8n4g6lg16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb19lo12r4y8n4g6lg16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ab/aberdeenshire-home-colours/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYRGBGY](/stripes/wyrgbgy/).
 
 Part of the [Aberdeenshire Home Colours](/tartans/a/ab/aberdeenshire-home-colours/) tartan — the named design grouping this sett with its other cloths.

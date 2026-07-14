@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Wcwm"
   url: "/clan/wcwm/"
+aliases:
+- "/setts/k93dr2k4w2k8n8k2n16w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbkwkbkbw/">KBKWKBKBW</a></nav>
 A tartan of [Clan Wcwm](/clan/wcwm/).
 Its design is pattern [KBKWKBKBW](/stripes/kbkwkbkbw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Wcwm 1669-3** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k93dr2k4w2k8n8k2n16w2/">Wcwm 1669-3</a></td><td><code>K/186 DR4 K8 W4 K16 N16 K4 N32 W/4</code></td><td>358</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k93dr2k4w2k8n8k2n16w2/"><img src="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/sett.png" alt="Wcwm 1669-3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/">Wcwm 1669-3</a></td><td><code>K/186 DR4 K8 W4 K16 N16 K4 N32 W/4</code></td><td>358</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><img src="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/sett.png" alt="Wcwm 1669-3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="454.6" cy="94.7" r="4" fill="#3465a4"><title>Laird Abdullah</title></circle></a><a href="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/"><circle cx="490.4" cy="58.5" r="4" fill="#3465a4"><title>Marine Harvest</title></circle></a><a href="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/"><circle cx="469.8" cy="52.7" r="4" fill="#3465a4"><title>Marine Harvest Scotland</title></circle></a><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="521.4" cy="39.0" r="4" fill="#3465a4"><title>Payne of Wallins Creek</title></circle></a><a href="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/"><circle cx="428.9" cy="91.8" r="4" fill="#3465a4"><title>Provincewide HOG Chapter</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="458.7" cy="78.8" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="443.4" cy="63.9" r="4" fill="#3465a4"><title>Racing Stewart, Stealth</title></circle></a><a href="/variants/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="465.4" cy="76.5" r="4" fill="#3465a4"><title>Volkswagen Black Trim</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="484.8" cy="53.8" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="498.3" cy="21.7" r="4" fill="#3465a4"><title>Noordermeer</title></circle></a><circle cx="499.3" cy="41.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="456.1" cy="95.1" r="4" fill="#3465a4"><title>Laird Abdullah</title></circle></a><a href="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/"><circle cx="492.1" cy="58.9" r="4" fill="#3465a4"><title>Marine Harvest</title></circle></a><a href="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/"><circle cx="471.4" cy="53.0" r="4" fill="#3465a4"><title>Marine Harvest Scotland</title></circle></a><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="523.2" cy="39.4" r="4" fill="#3465a4"><title>Payne of Wallins Creek</title></circle></a><a href="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/"><circle cx="430.3" cy="92.1" r="4" fill="#3465a4"><title>Provincewide HOG Chapter</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="460.1" cy="79.1" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="444.9" cy="64.3" r="4" fill="#3465a4"><title>Racing Stewart, Stealth</title></circle></a><a href="/variants/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="467.0" cy="76.9" r="4" fill="#3465a4"><title>Volkswagen Black Trim</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="486.5" cy="54.2" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="500.1" cy="22.1" r="4" fill="#3465a4"><title>Noordermeer</title></circle></a><circle cx="501.0" cy="41.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

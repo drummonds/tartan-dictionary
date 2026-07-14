@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r25ly5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/">Skye Highland Outfitters (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r25ly5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/"><img src="/variants/s12/r25ly5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/sett.png" alt="Skye Highland Outfitters (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skye-highland-outfitters/">Skye Highland Outfitters</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skye-highland-outfitters/"><img src="/variants/s12/r25ly5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/sett.png" alt="Skye Highland Outfitters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3~x4/">MacEochaidh (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3~x4/"><img src="/variants/s13/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3~x4/sett.png" alt="MacEochaidh (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maceochaidh/">MacEochaidh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maceochaidh/"><img src="/variants/s13/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3~x4/sett.png" alt="MacEochaidh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

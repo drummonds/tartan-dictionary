@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/">The Trew 40th</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/"><img src="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/sett.png" alt="The Trew 40th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/the-trew-40th/">The Trew 40th</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/the-trew-40th/"><img src="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/sett.png" alt="The Trew 40th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

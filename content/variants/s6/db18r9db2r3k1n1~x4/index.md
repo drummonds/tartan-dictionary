@@ -10,15 +10,15 @@ crumbs:
 - name: "MacGregor"
   url: "/families/macgregor/"
 - name: "MacGregor"
-  url: "/tartans/m/ma/macgregor-11/"
+  url: "/tartans/m/ma/macgregor-9/"
 - name: "MacGregor, Modern"
-  url: "/setts/db18r9db2r3k1n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18r9db2r3k1n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRBRB](/stripes/bkrbrb/).
 
-Part of the [MacGregor](/tartans/m/ma/macgregor-11/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor](/tartans/m/ma/macgregor-9/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5690](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>undated — MacGregor, Modern (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5690">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>This tartan is very similar to the Macgregor of Cardney, with the green changed to red and red to blue. The term 'modern' refers to its age and not the colours. Worn by the One Gregor Society Pipeband at the European Pipeband Championships in Lisburn, Northern Ireland (Jul 08).</em></li>
-<li>c2004 — MacGregor - 2004 (Pipe Band) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7691">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>This appears to be another example of the indiscriminate changing of a tartan without any consultion with the clan chief. Seen by Peter MacDonald being worn by the 'Clan Gregor Society' Pipeband at the European PB Championships in Lisburn, NI (Jul 08). In the programme the tartan is named 'Modern MacGregor'. This is Macgregor of Cardney with the G changed to R and R to B. The term 'modern' refers to its age and not the colours. Apparently it was designed c2004 by the then bandmaster who wanted a R, B & W sett (the pale line is definitely gray in the material).</em></li>
+<li>c2004 — MacGregor - 2004 (Pipe Band) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7691/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>This appears to be another example of the indiscriminate changing of a tartan without any consultion with the clan chief. Seen by Peter MacDonald being worn by the 'Clan Gregor Society' Pipeband at the European PB Championships in Lisburn, NI (Jul 08). In the programme the tartan is named 'Modern MacGregor'. This is Macgregor of Cardney with the G changed to R and R to B. The term 'modern' refers to its age and not the colours. Apparently it was designed c2004 by the then bandmaster who wanted a R, B & W sett (the pale line is definitely gray in the material).</em></li>
 </ul>
 </details>
 

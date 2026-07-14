@@ -12,10 +12,10 @@ crumbs:
 - name: "Queensferry"
   url: "/tartans/q/qu/queensferry/"
 - name: "Queensferry"
-  url: "/setts/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/q/qu/queensferry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBBBGBGBGBGWBG](/stripes/bbgbbbbgbgbgbgwbg/).
 
 Part of the [Queensferry](/tartans/q/qu/queensferry/) tartan — the named design grouping this sett with its other cloths.

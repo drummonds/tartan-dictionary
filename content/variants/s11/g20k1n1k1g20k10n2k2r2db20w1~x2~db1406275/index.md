@@ -8,15 +8,15 @@ crumbs:
 - name: "Storrie"
   url: "/tartans/s/st/storrie/"
 - name: "Storrie"
-  url: "/setts/g20k1n1k1g20k10n2k2r2db20w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g20k1n1k1g20k10n2k2r2db20w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKBKGKBKRBWBRKBKGKBK](/stripes/gkbkgkbkrbwbrkbkgkbk/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/storrie/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBKGKBKRBW](/stripes/gkbkgkbkrbw/).
 
 Part of the [Storrie](/tartans/s/st/storrie/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5131](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5131)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3107
 
 ## Thread count
-G/40 K2 N2 K2 G40 K20 N4 K4 R4 DB40 W2 DB40 R4 K4 N4 K20 G40 K2 N2 K/2
+G/40 K2 N2 K2 G40 K20 N4 K4 R4 DB40 W/2
 
-One full sett is **514 threads**.
+One full sett is **278 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/40 K2 N2 K2 G40 K20 N4 K4 R4 DB40 W2 DB40 R4 K4 N4 K20 G40 K2 N2 K/2 — 514 threads; it folds to the canonical 278-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **514 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/40 K2 N2 K2 G40 K20 N4 K4 R4 DB40 W2 DB40 R4 K4 N4 K20 G40 K2 N2 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/40 K2 N2 K2 G40 K20 N4 K4 R4 DB40 W/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

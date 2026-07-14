@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/blue/"
 - name: "Blue"
   url: "/families/blue/"
+aliases:
+- "/setts/n14r4n14lb15db13w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbwbw/">BRBWBW</a></nav>
 A tartan of the [Blue](/families/blue/) family.
 Its design is pattern [BRBWBW](/stripes/brbwbw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Blue** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n14r4n14lb15db13w3/">Blue</a></td><td><code>N/28 R8 N28 LB30 DB26 W/6</code></td><td>218</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n14r4n14lb15db13w3/"><img src="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/">Blue</a></td><td><code>N/28 R8 N28 LB30 DB26 W/6</code></td><td>218</td><td>1985</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/"><img src="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r4t3lb11db8t2r4/"><circle cx="146.8" cy="260.5" r="4" fill="#3465a4"><title>St. Edmunds</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="227.4" cy="247.2" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="146.7" cy="266.7" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/"><circle cx="130.4" cy="271.4" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/"><circle cx="208.5" cy="224.2" r="4" fill="#3465a4"><title>SABA</title></circle></a><a href="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/"><circle cx="104.9" cy="206.5" r="4" fill="#3465a4"><title>Mary Washington</title></circle></a><a href="/variants/s5/db9y9db9lb23r3~x2/"><circle cx="211.4" cy="250.8" r="4" fill="#3465a4"><title>Tilburg</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="243.8" cy="215.4" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s6/r9t6db13t21n18w4~x2/"><circle cx="174.8" cy="287.0" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.9" cy="204.4" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><circle cx="164.7" cy="269.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r4t3lb11db8t2r4/"><circle cx="146.8" cy="260.3" r="4" fill="#3465a4"><title>St. Edmunds</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="227.5" cy="247.1" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="146.7" cy="266.5" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/"><circle cx="130.2" cy="271.1" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/"><circle cx="208.7" cy="223.9" r="4" fill="#3465a4"><title>SABA</title></circle></a><a href="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/"><circle cx="105.1" cy="206.1" r="4" fill="#3465a4"><title>Mary Washington</title></circle></a><a href="/variants/s5/db9y9db9lb23r3~x2/"><circle cx="211.6" cy="250.7" r="4" fill="#3465a4"><title>Tilburg</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="244.2" cy="215.3" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s6/r9t6db13t21n18w4~x2/"><circle cx="174.6" cy="286.9" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="144.1" cy="204.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><circle cx="164.8" cy="269.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

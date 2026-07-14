@@ -8,15 +8,15 @@ crumbs:
 - name: "Sackett"
   url: "/tartans/s/sa/sackett/"
 - name: "Sackett"
-  url: "/setts/k8dy8k1dy8k8lb1dg8k1dg8k8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8dy8k1dy8k8lb1dg8k1dg8k8/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGKWGKGKGKGWKGKGK](/stripes/gkgkwgkgkgkgwkgkgk/).
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sackett/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGKGKWGKGK](/stripes/kgkgkwgkgk/).
 
 Part of the [Sackett](/tartans/s/sa/sackett/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3634](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3634)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3634](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2006 — Sackett (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3634">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#907048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #907048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004028"></span><br><em>Designed by Matthew Newsome for Gary Sackett (USA). Sackett is an English name, with roots in Kent. This tartan is based upon a tartan woven by Bolingbrook & Jones, English tartan weavers in Norwich. The colours of green and brown are meant to reflect the family's agricultural background. Black and silver (grey) are said to be from the Sackett Arms. May be worn by any of the name. Woven sample.</em></li>
-<li>2006 — Sackett (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6918">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#907048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #907048"></span><br><em>Designed by Matthew Newsome for Gary Sackett (USA). Sackett is an English name, with roots in Kent. This tartan is based upon a tartan woven by Bolingbrook & Jones, English tartan weavers in Norwich. The colors of green and brown are meant to reflect the family's agricultural background. Black and silver (grey) are said to be from the Sackett Arms. May be worn by any of the name. Woven sample.</em></li>
+<li>2006 — Sackett (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6918/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#907048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #907048"></span><br><em>Designed by Matthew Newsome for Gary Sackett (USA). Sackett is an English name, with roots in Kent. This tartan is based upon a tartan woven by Bolingbrook & Jones, English tartan weavers in Norwich. The colors of green and brown are meant to reflect the family's agricultural background. Black and silver (grey) are said to be from the Sackett Arms. May be worn by any of the name. Woven sample.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6918
 
 ## Thread count
-K/32 DY32 K4 DY32 K32 LB4 DG32 K4 DG32 K32 DG32 K4 DG32 LB4 K32 DY32 K4 DY/32
+K/32 DY32 K4 DY32 K32 LB4 DG32 K4 DG32 K/32
 
-One full sett is **752 threads**.
+One full sett is **408 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/32 DY32 K4 DY32 K32 LB4 DG32 K4 DG32 K32 DG32 K4 DG32 LB4 K32 DY32 K4 DY/32 — 752 threads; it folds to the canonical 408-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **752 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/32 DY32 K4 DY32 K32 LB4 DG32 K4 DG32 K32 DG32 K4 DG32 LB4 K32 DY32 K4 DY/32 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/32 DY32 K4 DY32 K32 LB4 DG32 K4 DG32 K/32 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

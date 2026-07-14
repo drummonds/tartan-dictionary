@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/">Dundee</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/"><img src="/variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/sett.png" alt="Dundee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s14/r42ri2k15ri2g22dy4w2dp2w2dy4lb7w2dp6w6~x2~r2109032-ri2406019/">Dundee (1819) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r42ri2k15ri2g22dy4w2dp2w2dy4lb7w2dp6w6~x2~r2109032-ri2406019/"><img src="/variants/s14/r42ri2k15ri2g22dy4w2dp2w2dy4lb7w2dp6w6~x2~r2109032-ri2406019/sett.png" alt="Dundee (1819) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dundee/">Dundee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dundee/"><img src="/variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/sett.png" alt="Dundee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

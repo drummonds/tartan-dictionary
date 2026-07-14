@@ -8,15 +8,15 @@ crumbs:
 - name: "Kilburnie"
   url: "/tartans/k/ki/kilburnie/"
 - name: "Kilburnie"
-  url: "/setts/db12k2db2k2r3k2lb6k2w2k2lb6k2y2k2db6k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db12k2db2k2r3k2lb6k2w2k2lb6k2y2k2db6k2r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKRKWKWKWKGKBKRKBKGKWKWKWKRKBK](/stripes/bkbkrkwkwkwkgkbkrkbkgkwkwkwkrkbk/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kilburnie/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKRKWKWKWKGKBKR](/stripes/bkbkrkwkwkwkgkbkr/).
 
 Part of the [Kilburnie](/tartans/k/ki/kilburnie/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1964](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1964)
 
@@ -29,7 +29,7 @@ Earliest known date: 1985 No count given.
 <ul>
 <li>01/01/1985 — Kilburnie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1964">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Seen in the Moffat Weaver's Shop, Blairgowrie, Perthshire.</em></li>
 <li>1985 — Kilburnie Trade Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=284">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span></li>
-<li>pre 2002 — Kilburnie (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=284">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>No further details.</em></li>
+<li>pre 2002 — Kilburnie (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/284/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>No further details.</em></li>
 <li>undated — Kilburnie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5480B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5480B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #F0C000"></span></li>
 </ul>
 </details>
@@ -59,9 +59,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 284
 
 ## Thread count
-DB/24 K4 DB4 K4 R6 K4 LB12 K4 W4 K4 LB12 K4 Y4 K4 DB12 K4 R4 K4 DB12 K4 Y4 K4 LB12 K4 W4 K4 LB12 K4 R6 K4 DB4 K/4
+DB/24 K4 DB4 K4 R6 K4 LB12 K4 W4 K4 LB12 K4 Y4 K4 DB12 K4 R/4
 
-One full sett is **372 threads**.
+One full sett is **200 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/24 K4 DB4 K4 R6 K4 LB12 K4 W4 K4 LB12 K4 Y4 K4 DB12 K4 R4 K4 DB12 K4 Y4 K4 LB12 K4 W4 K4 LB12 K4 R6 K4 DB4 K/4 — 372 threads; it folds to the canonical 200-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -70,7 +72,7 @@ One full sett is **372 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/24 K4 DB4 K4 R6 K4 LB12 K4 W4 K4 LB12 K4 Y4 K4 DB12 K4 R4 K4 DB12 K4 Y4 K4 LB12 K4 W4 K4 LB12 K4 R6 K4 DB4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/24 K4 DB4 K4 R6 K4 LB12 K4 W4 K4 LB12 K4 Y4 K4 DB12 K4 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/">Sarros (Personal) XX</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><img src="/variants/s8/k2w2db8k4g33r2g16w2~x2/sett.png" alt="Sarros (Personal) XX sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/">Sarros, Terrence (USA) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/"><img src="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/sett.png" alt="Sarros, Terrence (USA) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sarros-xx/">Sarros XX</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sarros-xx/"><img src="/variants/s8/k2w2db8k4g33r2g16w2~x2/sett.png" alt="Sarros XX sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sarros-terrence/">Sarros, Terrence</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sarros-terrence/"><img src="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/sett.png" alt="Sarros, Terrence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

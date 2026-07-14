@@ -8,10 +8,10 @@ crumbs:
 - name: "Michigan State Police"
   url: "/tartans/m/mi/michigan-state-police/"
 - name: "Michigan State Police"
-  url: "/setts/db4k2db20k13y1k2y2k2y1dp23n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4k2db20k13y1k2y2k2y1dp23n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/michigan-state-police/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGKGKGKBKB](/stripes/bbgkgkgkbkb/).
 
 Part of the [Michigan State Police](/tartans/m/mi/michigan-state-police/) tartan — the named design grouping this sett with its other cloths.

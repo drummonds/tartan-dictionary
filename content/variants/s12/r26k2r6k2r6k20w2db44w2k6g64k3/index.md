@@ -12,10 +12,10 @@ crumbs:
 - name: "Jardine Dress"
   url: "/tartans/j/ja/jardine-dress/"
 - name: "Jardine Dress Family Tartan"
-  url: "/setts/r26k2r6k2r6k20w2db44w2k6g64k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r26k2r6k2r6k20w2db44w2k6g64k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ja/jardine-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKWBWKRKRKR](/stripes/kgkwbwkrkrkr/).
 
 Part of the [Jardine Dress](/tartans/j/ja/jardine-dress/) tartan — the named design grouping this sett with its other cloths.

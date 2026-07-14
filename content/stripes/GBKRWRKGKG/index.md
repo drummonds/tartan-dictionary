@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g1db28k11r5w1r5k11y1k2g1~x2/">Scragg Moran (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g1db28k11r5w1r5k11y1k2g1~x2/"><img src="/variants/s10/g1db28k11r5w1r5k11y1k2g1~x2/sett.png" alt="Scragg Moran (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scragg-moran/">Scragg Moran</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scragg-moran/"><img src="/variants/s10/g1db28k11r5w1r5k11y1k2g1~x2/sett.png" alt="Scragg Moran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

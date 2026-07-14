@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/">Sillars (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/"><img src="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/sett.png" alt="Sillars (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/seller/">Seller</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/seller/"><img src="/variants/s12/g46k3db6y2db3y2db3g7r6db2r3w4~x2/sett.png" alt="Seller sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sillars/">Sillars</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sillars/"><img src="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2~w4000000/sett.png" alt="Sillars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g11ly10db11t33w3~x2/">Sterling (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g11ly10db11t33w3~x2/"><img src="/variants/s5/g11ly10db11t33w3~x2/sett.png" alt="Sterling (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/sterling/">Sterling</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/sterling/"><img src="/variants/s5/g11ly10db11t33w3~x2/sett.png" alt="Sterling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

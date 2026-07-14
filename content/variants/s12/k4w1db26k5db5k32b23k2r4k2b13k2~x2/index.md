@@ -8,10 +8,10 @@ crumbs:
 - name: "Naomia Melvina Young Wedding Dress"
   url: "/tartans/n/na/naomia-melvina-young-wedding-dress/"
 - name: "Naomia Melvina Young Wedding Dress"
-  url: "/setts/k4w1db26k5db5k32b23k2r4k2b13k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4w1db26k5db5k32b23k2r4k2b13k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/na/naomia-melvina-young-wedding-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRKBKBKBWK](/stripes/kbkrkbkbkbwk/).
 
 Part of the [Naomia Melvina Young Wedding Dress](/tartans/n/na/naomia-melvina-young-wedding-dress/) tartan — the named design grouping this sett with its other cloths.

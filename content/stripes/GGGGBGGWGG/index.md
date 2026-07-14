@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/">Hayden (Dublin) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/"><img src="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/sett.png" alt="Hayden (Dublin) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/">Hayden, Thomas (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/"><img src="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/sett.png" alt="Hayden, Thomas (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hayden/">Hayden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hayden/"><img src="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/sett.png" alt="Hayden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hayden-thomas/">Hayden, Thomas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hayden-thomas/"><img src="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/sett.png" alt="Hayden, Thomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

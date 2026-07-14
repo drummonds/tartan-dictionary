@@ -8,10 +8,10 @@ crumbs:
 - name: "South Africa"
   url: "/tartans/s/so/south-africa/"
 - name: "South Africa"
-  url: "/setts/w4k1db24k1r8w2g8w2db8k1y2k8y2k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4k1db24k1r8w2g8w2db8k1y2k8y2k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/south-africa/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKBWGWRKBKW](/stripes/kgkgkbwgwrkbkw/).
 
 Part of the [South Africa](/tartans/s/so/south-africa/) tartan — the named design grouping this sett with its other cloths.

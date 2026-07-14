@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/">Thomas of Craigie (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><img src="/variants/s8/y2k4y1dg16k14db23k4r1~x2/sett.png" alt="Thomas of Craigie (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/r2k4db23k14g16y1k4y2~x2/">Thomas, baron of Craigie, Robert (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r2k4db23k14g16y1k4y2~x2/"><img src="/variants/s8/r2k4db23k14g16y1k4y2~x2/sett.png" alt="Thomas, baron of Craigie, Robert (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thomas-of-craigie/">Thomas of Craigie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thomas-of-craigie/"><img src="/variants/s8/y2k4y1dg16k14db23k4r1~x2/sett.png" alt="Thomas of Craigie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thomas-baron-of-craigie-robert/">Thomas, baron of Craigie, Robert</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thomas-baron-of-craigie-robert/"><img src="/variants/s8/r2k4db23k14g16y1k4y2~x2/sett.png" alt="Thomas, baron of Craigie, Robert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

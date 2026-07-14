@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/">Manitoba Province</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/"><img src="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/sett.png" alt="Manitoba Province sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manitoba-province/">Manitoba Province</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manitoba-province/"><img src="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/sett.png" alt="Manitoba Province sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4w1g13k11db11lb3~x4/">New York Fire Department Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4w1g13k11db11lb3~x4/"><img src="/variants/s6/k4w1g13k11db11lb3~x4/sett.png" alt="New York Fire Department Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k14w3g42k36db40lb10/">New York Firemen's Pipe Band Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k14w3g42k36db40lb10/"><img src="/variants/s6/k14w3g42k36db40lb10/sett.png" alt="New York Firemen's Pipe Band Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-york-fire-department-pipe-band/">New York Fire Department Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-york-fire-department-pipe-band/"><img src="/variants/s6/k4w1g13k11db11lb3~x4/sett.png" alt="New York Fire Department Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-york-firemen-s-pipe-band/">New York Firemen's Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-york-firemen-s-pipe-band/"><img src="/variants/s6/k14w3g42k36db40lb10/sett.png" alt="New York Firemen's Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/">Leach Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/"><img src="/variants/s6/k3lb1g21k2dr3lb2~x2/sett.png" alt="Leach Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leach-hunting/">Leach Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leach-hunting/"><img src="/variants/s6/k3lb1g21k2dr3lb2~x2/sett.png" alt="Leach Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

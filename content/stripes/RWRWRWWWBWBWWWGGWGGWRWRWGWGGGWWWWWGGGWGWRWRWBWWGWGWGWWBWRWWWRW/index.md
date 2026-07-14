@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y2w2dg2w2y2w2lb2dp10w2r20w2lb6w2r14w1~x2/">Ritch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y2w2dg2w2y2w2lb2dp10w2r20w2lb6w2r14w1~x2/"><img src="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y2w2dg2w2y2w2lb2dp10w2r20w2lb6w2r14w1~x2/sett.png" alt="Ritch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1/">Ritch (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1/"><img src="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1/sett.png" alt="Ritch (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/ritch-3/">Ritch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/ritch-3/"><img src="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1/sett.png" alt="Ritch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

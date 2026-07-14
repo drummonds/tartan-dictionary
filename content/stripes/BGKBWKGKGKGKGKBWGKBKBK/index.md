@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/">Alberta, Quebec, Nova Scotia.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/"><img src="/variants/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/sett.png" alt="Alberta, Quebec, Nova Scotia. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alberta-quebec-nova-scotia/">Alberta, Quebec Nova Scotia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alberta-quebec-nova-scotia/"><img src="/variants/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/sett.png" alt="Alberta, Quebec Nova Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

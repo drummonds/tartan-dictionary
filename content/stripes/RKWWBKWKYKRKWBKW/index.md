@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/w2k15n7lb7k1r1k1lr7k1w7k7n7lb7w1k1r1~x2/">Borders (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/w2k15n7lb7k1r1k1lr7k1w7k7n7lb7w1k1r1~x2/"><img src="/variants/s16/w2k15n7lb7k1r1k1lr7k1w7k7n7lb7w1k1r1~x2/sett.png" alt="Borders (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/borders/">Borders</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/borders/"><img src="/variants/s16/w2k15n7lb7k1r1k1lr7k1w7k7n7lb7w1k1r1~x2/sett.png" alt="Borders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

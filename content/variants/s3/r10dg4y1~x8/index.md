@@ -8,15 +8,15 @@ crumbs:
 - name: "Lugo"
   url: "/tartans/l/lu/lugo/"
 - name: "Lugo (2013)"
-  url: "/setts/r10dg4y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r10dg4y1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGGR](/stripes/gggr/).
+provenance below. It is one weaving of the [sett](/tartans/l/lu/lugo/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGR](/stripes/ggr/).
 
 Part of the [Lugo](/tartans/l/lu/lugo/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10946](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10946)
 
@@ -43,9 +43,11 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10946](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10946)
 
 ## Thread count
-R/80 DG32 Y8 DG/32
+R/80 DG32 Y/8
 
-One full sett is **192 threads**.
+One full sett is **152 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/80 DG32 Y8 DG/32 — 192 threads; it folds to the canonical 152-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **192 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/80 DG32 Y8 DG/32 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/80 DG32 Y/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr60db12lb1db2w1db12dr5k1dr2n2~x2/">Kervgant Dress (Personal))</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr60db12lb1db2w1db12dr5k1dr2n2~x2/"><img src="/variants/s10/dr60db12lb1db2w1db12dr5k1dr2n2~x2/sett.png" alt="Kervgant Dress (Personal)) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kervgant-dress/">Kervgant Dress )</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kervgant-dress/"><img src="/variants/s10/dr60db12lb1db2w1db12dr5k1dr2n2~x2/sett.png" alt="Kervgant Dress ) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

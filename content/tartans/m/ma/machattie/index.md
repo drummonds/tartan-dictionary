@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k45db2dr2r2y1w1/"
 ---
-Its design is pattern [BBRGWGRBBK](/stripes/bbrgwgrbbk/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbbrgw/">KBBRGW</a></nav>
+Its design is pattern [KBBRGW](/stripes/kbbrgw/) — the page of every tartan sharing this colour sequence.
 
 The **MacHattie** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k45db2dr2r2y1w1/">MacHattie</a></td><td><code>K/90 DB4 DR4 R4 Y2 W2 Y2 R4 DR4 DB/4</code></td><td>120</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k45db2dr2r2y1w1/"><img src="/variants/s6/k45db2dr2r2y1w1~x2/sett.png" alt="MacHattie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k45db2dr2r2y1w1~x2/">MacHattie</a></td><td><code>K/90 DB4 DR4 R4 Y2 W/2</code></td><td>120</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k45db2dr2r2y1w1~x2/"><img src="/variants/s6/k45db2dr2r2y1w1~x2/sett.png" alt="MacHattie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="550.6" cy="58.5" r="4" fill="#3465a4"><title>McHattie</title></circle></a><a href="/variants/s5/k50db3p2r3w1~x4/"><circle cx="556.3" cy="57.0" r="4" fill="#3465a4"><title>Fettes</title></circle></a><a href="/variants/s4/r2k50n2r1~x2/"><circle cx="626.0" cy="95.4" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="402.7" cy="42.1" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="391.7" cy="48.9" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="544.0" cy="69.7" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="477.7" cy="146.4" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><circle cx="530.4" cy="53.8" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/variants/s8/k108n4lb4w2lb4n1db2w2~x2/"><circle cx="541.6" cy="14.3" r="4" fill="#3465a4"><title>Modern Craft</title></circle></a><a href="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/"><circle cx="535.7" cy="14.0" r="4" fill="#3465a4"><title>Modern Craft</title></circle></a><circle cx="545.9" cy="37.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="552.5" cy="59.0" r="4" fill="#3465a4"><title>McHattie</title></circle></a><a href="/variants/s5/k50db3p2r3w1~x4/"><circle cx="558.2" cy="57.5" r="4" fill="#3465a4"><title>Fettes</title></circle></a><a href="/variants/s4/r2k50n2r1~x2/"><circle cx="626.0" cy="96.3" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="404.1" cy="42.3" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="393.1" cy="49.1" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="545.8" cy="70.3" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="479.2" cy="146.9" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><circle cx="532.1" cy="54.2" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/variants/s8/k108n4lb4w2lb4n1db2w2~x2/"><circle cx="543.5" cy="14.7" r="4" fill="#3465a4"><title>Modern Craft</title></circle></a><a href="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/"><circle cx="537.7" cy="14.0" r="4" fill="#3465a4"><title>Modern Craft</title></circle></a><circle cx="547.7" cy="38.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

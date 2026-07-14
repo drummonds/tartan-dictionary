@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db18w4db3y12~x2/">Genesee Community College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db18w4db3y12~x2/"><img src="/variants/s4/db18w4db3y12~x2/sett.png" alt="Genesee Community College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/genesee-community-college/">Genesee Community College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/genesee-community-college/"><img src="/variants/s4/db18w4db3y12~x2/sett.png" alt="Genesee Community College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

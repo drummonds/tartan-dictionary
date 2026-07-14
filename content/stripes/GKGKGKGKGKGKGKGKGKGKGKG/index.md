@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/">Garwhal Rifles (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/"><img src="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/sett.png" alt="Garwhal Rifles (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/garwhal-rifles/">Garwhal Rifles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/garwhal-rifles/"><img src="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/sett.png" alt="Garwhal Rifles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

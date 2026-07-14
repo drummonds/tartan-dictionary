@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/">Perth (Duke of.. ) Portrait Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/"><img src="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/sett.png" alt="Perth (Duke of.. ) Portrait Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perth-2/">Perth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perth-2/"><img src="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/sett.png" alt="Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

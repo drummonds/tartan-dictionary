@@ -12,10 +12,10 @@ crumbs:
 - name: "Hamilton"
   url: "/tartans/h/ha/hamilton-3/"
 - name: "Hamilton"
-  url: "/setts/r15db8r2db8r2db8r15w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r15db8r2db8r2db8r15w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hamilton-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRW](/stripes/rbrbrbrw/).
 
 Part of the [Hamilton](/tartans/h/ha/hamilton-3/) tartan — the named design grouping this sett with its other cloths.

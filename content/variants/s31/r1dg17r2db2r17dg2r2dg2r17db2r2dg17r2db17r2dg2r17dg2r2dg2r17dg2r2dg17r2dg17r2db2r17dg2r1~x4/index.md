@@ -12,10 +12,10 @@ crumbs:
 - name: "MacInroy of The Burn"
   url: "/tartans/m/ma/macinroy-of-the-burn/"
 - name: "MacInroy of The Burn"
-  url: "/setts/r1dg17r2db2r17dg2r2dg2r17db2r2dg17r2db17r2dg2r17dg2r2dg2r17dg2r2dg17r2dg17r2db2r17dg2r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1dg17r2db2r17dg2r2dg2r17db2r2dg17r2db17r2dg2r17dg2r2dg2r17dg2r2dg17r2dg17r2db2r17dg2r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macinroy-of-the-burn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRGRGRBRGRBRGRGRGRGRGRGRBRGR](/stripes/rgrbrgrgrbrgrbrgrgrgrgrgrgrbrgr/).
 
 Part of the [MacInroy of The Burn](/tartans/m/ma/macinroy-of-the-burn/) tartan — the named design grouping this sett with its other cloths.

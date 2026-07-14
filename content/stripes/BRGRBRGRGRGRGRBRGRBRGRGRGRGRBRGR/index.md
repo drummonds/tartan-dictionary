@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s32/r17g12r6db33r4g4r33g4r4g4r33g4r4db33r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/">Na Fir Dileas (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s32/r17g12r6db33r4g4r33g4r4g4r33g4r4db33r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/"><img src="/variants/s32/r17g12r6db33r4g4r33g4r4g4r33g4r4db33r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/sett.png" alt="Na Fir Dileas (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/na-fir-dileas/">Na Fir Dileas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/na-fir-dileas/"><img src="/variants/s32/r17g12r6db33r4g4r33g4r4g4r33g4r4db33r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/sett.png" alt="Na Fir Dileas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

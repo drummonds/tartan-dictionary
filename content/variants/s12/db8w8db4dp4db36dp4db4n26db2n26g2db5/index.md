@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Historic Scotland"
-  url: "/tartans/h/hi/historic-scotland/"
+  url: "/tartans/h/hi/historic-scotland-3/"
 - name: "Historic Scotland (1998)"
-  url: "/setts/db8w8db4dp4db36dp4db4n26db2n26g2db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8w8db4dp4db36dp4db4n26db2n26g2db5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBBBBBBBBGBGBBBBBBBBW](/stripes/bwbbbbbbbbgbgbbbbbbbbw/).
+provenance below. It is one weaving of the [sett](/tartans/h/hi/historic-scotland-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBBBBBBBBWB](/stripes/bgbbbbbbbbwb/).
 
-Part of the [Historic Scotland](/tartans/h/hi/historic-scotland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Historic Scotland](/tartans/h/hi/historic-scotland-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1739](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1739)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1739](ht
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — Historic Scotland (1998) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1739">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>A modification of its first corporate tartan #2122 (original Scottish Tartans Authority reference). Thought to have been designed by Betty Davies (Chief Designer for Scottish Fashion International of Edinburgh) and woven by D.C. Dalgliesh.</em></li>
-<li>February 1998 — Historic Scotland (1998) (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2547">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>A modification of its first corporate tartan (#2122). Thought to have been designed by Betty Davies (Chief Designer for Scottish Fashion International of Edinburgh) and woven by D C Dalgliesh.</em></li>
+<li>February 1998 — Historic Scotland (1998) (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2547/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>A modification of its first corporate tartan (#2122). Thought to have been designed by Betty Davies (Chief Designer for Scottish Fashion International of Edinburgh) and woven by D C Dalgliesh.</em></li>
 <li>undated — Historic Scotland (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="J #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #800080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#808080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #808080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span></li>
 </ul>
 </details>
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2547
 
 ## Thread count
-DB/8 W8 DB4 DP4 DB36 DP4 DB4 N26 DB2 N26 G2 DB5 G2 N26 DB2 N26 DB4 DP4 DB36 DP4 DB4 W/8
+DB/8 W8 DB4 DP4 DB36 DP4 DB4 N26 DB2 N26 G2 DB/5
 
-One full sett is **474 threads**.
+One full sett is **245 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/8 W8 DB4 DP4 DB36 DP4 DB4 N26 DB2 N26 G2 DB5 G2 N26 DB2 N26 DB4 DP4 DB36 DP4 DB4 W/8 — 474 threads; it folds to the canonical 245-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **474 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 W8 DB4 DP4 DB36 DP4 DB4 N26 DB2 N26 G2 DB5 G2 N26 DB2 N26 DB4 DP4 DB36 DP4 DB4 W/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 W8 DB4 DP4 DB36 DP4 DB4 N26 DB2 N26 G2 DB/5 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r3k2r23b3r3w23r3b3~x2/">Cameron, Hose for E</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r3k2r23b3r3w23r3b3~x2/"><img src="/variants/s8/r3k2r23b3r3w23r3b3~x2/sett.png" alt="Cameron, Hose for E sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cameron-hose-for-e/">Cameron, Hose for E</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-hose-for-e/"><img src="/variants/s8/r3k2r23b3r3w23r3b3~x2/sett.png" alt="Cameron, Hose for E sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dr3r3lb23r3dr3r23k2r3~x2/">Hose #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr3r3lb23r3dr3r23k2r3~x2/"><img src="/variants/s8/dr3r3lb23r3dr3r23k2r3~x2/sett.png" alt="Hose #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hose-3/">Hose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hose-3/"><img src="/variants/s8/dr3r3lb23r3dr3r23k2r3~x2/sett.png" alt="Hose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

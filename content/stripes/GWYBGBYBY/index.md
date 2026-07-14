@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/">WestJet</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/"><img src="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/sett.png" alt="WestJet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westjet/">WestJet</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westjet/"><img src="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/sett.png" alt="WestJet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

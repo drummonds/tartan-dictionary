@@ -8,9 +8,14 @@ crumbs:
   url: "/clan/macmillan/"
 - name: "MacMillan"
   url: "/families/macmillan/"
+aliases:
+- "/setts/db3y1db12k4y2k4dg8r2dg8r1/"
+- "/setts/db3y1db12k4y2k4g8r2g8r1/"
+- "/setts/db6dy2db18k6dy3k6g14r3g10r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbkgkgrgr/">BGBKGKGRGR</a></nav>
 A tartan of the [MacMillan](/families/macmillan/) family.
-Its design is pattern [BGBKGKGRGRGRGKGKBG](/stripes/bgbkgkgrgrgrgkgkbg/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [BGBKGKGRGR](/stripes/bgbkgkgrgr/) — the page of every tartan sharing this colour sequence.
 
 Hunting MacMillan blending the old red and yellow stripes with the Vestiarium greens and blues; this version omits the black stripe outlining the blue square.
 
@@ -20,12 +25,12 @@ The **MacMillan Hunting** tartan groups 3 setts — the same named design record
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db3y1db12k4y2k4dg8r2dg8r1/">MacMillan Hunting</a> ★</td><td><code>DB/12 Y4 DB48 K16 Y8 K16 DG32 R8 DG32 R4 DG32 R8 DG32 K16 Y8 K16 DB48 Y/4</code></td><td>344</td><td>1890</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3y1db12k4y2k4dg8r2dg8r1/"><img src="/variants/s10/db3y1db12k4y2k4dg8r2dg8r1~x4/sett.png" alt="MacMillan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db3y1db12k4y2k4g8r2g8r1/">MacMillan Hunting</a></td><td><code>DB/6 Y2 DB24 K8 Y4 K8 G16 R4 G16 R/2</code></td><td>172</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3y1db12k4y2k4g8r2g8r1/"><img src="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/sett.png" alt="MacMillan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db6dy2db18k6dy3k6g14r3g10r2/">Clan Tartan</a></td><td><code>DB/12 DY4 DB36 K12 DY6 K12 G28 R6 G20 R/4</code></td><td>264</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db6dy2db18k6dy3k6g14r3g10r2/"><img src="/variants/s10/db6dy2db18k6dy3k6g14r3g10r2~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db3y1db12k4y2k4dg8r2dg8r1~x4/">MacMillan Hunting</a> ★</td><td><code>DB/12 Y4 DB48 K16 Y8 K16 DG32 R8 DG32 R/4</code></td><td>344</td><td>1890</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db3y1db12k4y2k4dg8r2dg8r1~x4/"><img src="/variants/s10/db3y1db12k4y2k4dg8r2dg8r1~x4/sett.png" alt="MacMillan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/">MacMillan Hunting</a></td><td><code>DB/6 Y2 DB24 K8 Y4 K8 G16 R4 G16 R/2</code></td><td>172</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/"><img src="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/sett.png" alt="MacMillan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db6dy2db18k6dy3k6g14r3g10r2~x2/">Clan Tartan</a></td><td><code>DB/12 DY4 DB36 K12 DY6 K12 G28 R6 G20 R/4</code></td><td>264</td><td>1906</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db6dy2db18k6dy3k6g14r3g10r2~x2/"><img src="/variants/s10/db6dy2db18k6dy3k6g14r3g10r2~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -46,6 +51,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/dg10k9db11lb1db3lo1db10k9dg11lb1dg3lo1~x4/"><circle cx="161.1" cy="178.9" r="4" fill="#3465a4"><title>Scottish Womens Rural Institute (Cor</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="177.0" cy="174.3" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="208.4" cy="185.7" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s12/dg16k16db4dg3db12lo2db12dg3db4k16dg16dr4~x2/"><circle cx="169.4" cy="207.7" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s7/dr4dg16k16db4dg3db12lo2~x2/"><circle cx="163.5" cy="217.5" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s9/k30db20k10db5w2db10dg20r2dg10/"><circle cx="189.8" cy="174.4" r="4" fill="#3465a4"><title>Cailleach</title></circle></a><a href="/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"><circle cx="166.6" cy="146.3" r="4" fill="#3465a4"><title>Clark of Ulva</title></circle></a><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><circle cx="147.8" cy="197.1" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/"><circle cx="210.2" cy="196.8" r="4" fill="#3465a4"><title>Ferguson of Woodhill</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="177.6" cy="145.9" r="4" fill="#3465a4"><title>Bell's Whisky</title></circle></a><circle cx="176.3" cy="181.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/dg10k9db11lb1db3lo1db10k9dg11lb1dg3lo1~x4/"><circle cx="161.4" cy="178.7" r="4" fill="#3465a4"><title>Scottish Womens Rural Institute (Cor</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="177.4" cy="174.2" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="208.8" cy="185.6" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s12/dg16k16db4dg3db12lo2db12dg3db4k16dg16dr4~x2/"><circle cx="169.6" cy="207.6" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s7/dr4dg16k16db4dg3db12lo2~x2/"><circle cx="163.7" cy="217.3" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s9/k30db20k10db5w2db10dg20r2dg10/"><circle cx="190.3" cy="174.3" r="4" fill="#3465a4"><title>Cailleach</title></circle></a><a href="/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"><circle cx="167.0" cy="146.1" r="4" fill="#3465a4"><title>Clark of Ulva</title></circle></a><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><circle cx="148.0" cy="197.0" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/"><circle cx="210.5" cy="196.7" r="4" fill="#3465a4"><title>Ferguson of Woodhill</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="178.1" cy="145.7" r="4" fill="#3465a4"><title>Bell's Whisky</title></circle></a><circle cx="176.6" cy="181.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

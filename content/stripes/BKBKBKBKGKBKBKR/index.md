@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/">Flaumandrum</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/"><img src="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/sett.png" alt="Flaumandrum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fl/flaumandrum/">Flaumandrum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/flaumandrum/"><img src="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/sett.png" alt="Flaumandrum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

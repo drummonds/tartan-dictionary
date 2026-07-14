@@ -12,10 +12,10 @@ crumbs:
 - name: "Boswell Dress"
   url: "/tartans/b/bo/boswell-dress-2/"
 - name: "Boswell Dress Personal Tartan"
-  url: "/setts/w13r3w2k5w2r3w13db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w13r3w2k5w2r3w13db8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/boswell-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWKWRW](/stripes/bwrwkwrw/).
 
 Part of the [Boswell Dress](/tartans/b/bo/boswell-dress-2/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Franconian"
   url: "/tartans/f/fr/franconian/"
 - name: "Franconian"
-  url: "/setts/k23dbi5k5g5k5g25db5g5k5g5k23r5k5y5k23g5k5g5k5g25k5g5k5dbi5k23g7r5g5w5g5r5g7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k23dbi5k5g5k5g25db5g5k5g5k23r5k5y5k23g5k5g5k5g25k5g5k5dbi5k23g7r5g5w5g5r5g7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/franconian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWGRGKBKGKGKGKGKGKRKGKGBGKGKBK](/stripes/grgwgrgkbkgkgkgkgkgkrkgkgbgkgkbk/).
 
 Part of the [Franconian](/tartans/f/fr/franconian/) tartan — the named design grouping this sett with its other cloths.

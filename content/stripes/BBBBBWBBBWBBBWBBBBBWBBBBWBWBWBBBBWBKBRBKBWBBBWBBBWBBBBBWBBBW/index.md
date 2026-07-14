@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s60/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2~x2~db1106275/">Takla Makan (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s60/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2~x2~db1106275/"><img src="/variants/s60/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2~x2~db1106275/sett.png" alt="Takla Makan (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/takla-makan-2/">Takla Makan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/takla-makan-2/"><img src="/variants/s60/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2~x2~db1106275/sett.png" alt="Takla Makan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

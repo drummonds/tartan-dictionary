@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/">Scott Green (Sir Walter)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/"><img src="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/sett.png" alt="Scott Green (Sir Walter) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scott-4/">Scott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scott-4/"><img src="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

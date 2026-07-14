@@ -10,10 +10,10 @@ crumbs:
 - name: "Ailsa Craig"
   url: "/tartans/a/ai/ailsa-craig-2/"
 - name: "Ailsa Craig"
-  url: "/setts/r5w2o20dy2k16w18k2w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5w2o20dy2k16w18k2w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ai/ailsa-craig-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGKWKW](/stripes/rwrgkwkw/).
 
 Part of the [Ailsa Craig](/tartans/a/ai/ailsa-craig-2/) tartan — the named design grouping this sett with its other cloths.

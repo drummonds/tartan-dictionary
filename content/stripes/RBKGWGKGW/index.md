@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/">Arrol</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/"><img src="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/sett.png" alt="Arrol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r5db15k15g15w2g15k15g15w2~x2/">Arrol Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r5db15k15g15w2g15k15g15w2~x2/"><img src="/variants/s9/r5db15k15g15w2g15k15g15w2~x2/sett.png" alt="Arrol Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arrol/">Arrol</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arrol/"><img src="/variants/s9/r5db15k15g15w2g15k15g15w2~x2/sett.png" alt="Arrol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

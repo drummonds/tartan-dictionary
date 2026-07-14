@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k6y3k18g20k2db3k2g4~x2/">Choinka Family (Inverness)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k6y3k18g20k2db3k2g4~x2/"><img src="/variants/s8/k6y3k18g20k2db3k2g4~x2/sett.png" alt="Choinka Family (Inverness) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/choinka/">Choinka</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/choinka/"><img src="/variants/s8/k6y3k18g20k2db3k2g4~x2/sett.png" alt="Choinka sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

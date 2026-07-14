@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/">Lister (Misty Mountain)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><img src="/variants/s7/dy8n29dy8y3dy8n8y3~x2/sett.png" alt="Lister (Misty Mountain) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/lister/">Lister</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/lister/"><img src="/variants/s7/dy8n29dy8y3dy8n8y3~x2/sett.png" alt="Lister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

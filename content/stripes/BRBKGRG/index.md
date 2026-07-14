@@ -28,20 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/">Blair</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/"><img src="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/sett.png" alt="Blair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db4r1db18k20g18r1g4~x2/">Blair (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db4r1db18k20g18r1g4~x2/"><img src="/variants/s7/db4r1db18k20g18r1g4~x2/sett.png" alt="Blair (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db3r1db10k8g10r1g3~x4/">Blair Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><img src="/variants/s7/db3r1db10k8g10r1g3~x4/sett.png" alt="Blair Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db3r2db22k11g22r2g3~x2/">Gammell (1978) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><img src="/variants/s7/db3r2db22k11g22r2g3~x2/sett.png" alt="Gammell (1978) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db3r2db21k11g21r2g3/">MacThomas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db3r2db21k11g21r2g3/"><img src="/variants/s7/db3r2db21k11g21r2g3/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db2r2db21k11g21r2g2~x2/">MacThomas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db2r2db21k11g21r2g2~x2/"><img src="/variants/s7/db2r2db21k11g21r2g2~x2/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db3r2db22k11g24o2g3~x2/">MacThomas Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3r2db22k11g24o2g3~x2/"><img src="/variants/s7/db3r2db22k11g24o2g3~x2/sett.png" alt="MacThomas Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blair/">Blair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blair/"><img src="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/sett.png" alt="Blair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gammell/">Gammell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gammell/"><img src="/variants/s7/db3r2db22k11g22r2g3~x2/sett.png" alt="Gammell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macthomas/">MacThomas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macthomas/"><img src="/variants/s7/db3r2db21k11g21r2g3/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

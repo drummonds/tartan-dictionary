@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/">Rhode Island State American District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/"><img src="/variants/s7/dg4t28dg11w2dg2g14y2~x2/sett.png" alt="Rhode Island State American District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/rh/rhode-island-state/">Rhode Island State</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/rh/rhode-island-state/"><img src="/variants/s7/dg4t28dg11w2dg2g14y2~x2/sett.png" alt="Rhode Island State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

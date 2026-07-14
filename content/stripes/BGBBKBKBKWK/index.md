@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/">Lawtie (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><img src="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/sett.png" alt="Lawtie (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lawtie/">Lawtie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lawtie/"><img src="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/sett.png" alt="Lawtie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

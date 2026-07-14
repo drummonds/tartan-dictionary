@@ -8,10 +8,10 @@ crumbs:
 - name: "St George's School"
   url: "/tartans/s/st/st-george-s-school/"
 - name: "St George's School"
-  url: "/setts/dr10k4dr4k6dr28k10dy4db30k4db7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr10k4dr4k6dr28k10dy4db30k4db7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-george-s-school/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGKBKBKB](/stripes/bkbgkbkbkb/).
 
 Part of the [St George's School](/tartans/s/st/st-george-s-school/) tartan — the named design grouping this sett with its other cloths.

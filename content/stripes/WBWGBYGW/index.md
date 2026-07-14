@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w5n49w3dg24dr5ly4dy30w4~x2/">State Seal of New Mexico (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w5n49w3dg24dr5ly4dy30w4~x2/"><img src="/variants/s8/w5n49w3dg24dr5ly4dy30w4~x2/sett.png" alt="State Seal of New Mexico (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-new-mexico/">State Seal of New Mexico</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-new-mexico/"><img src="/variants/s8/w5n49w3dg24dr5ly4dy30w4~x2/sett.png" alt="State Seal of New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

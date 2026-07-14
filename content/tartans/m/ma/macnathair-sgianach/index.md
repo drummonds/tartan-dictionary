@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db1r1k12g1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brkg/">BRKG</a></nav>
 Its design is pattern [BRKG](/stripes/brkg/) — the page of every tartan sharing this colour sequence.
 
 The **MacNathair Sgianach** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **MacNathair Sgianach** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db1r1k12g1/">MacNathair Sgianach</a></td><td><code>DB/4 R4 K48 G/4</code></td><td>112</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db1r1k12g1/"><img src="/variants/s4/db1r1k12g1~x4/sett.png" alt="MacNathair Sgianach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db1r1k12g1~x4/">MacNathair Sgianach</a></td><td><code>DB/4 R4 K48 G/4</code></td><td>112</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/db1r1k12g1~x4/"><img src="/variants/s4/db1r1k12g1~x4/sett.png" alt="MacNathair Sgianach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/k11db2r1~x8/"><circle cx="495.3" cy="199.4" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s4/k35lo3w3g3~x4/"><circle cx="439.6" cy="139.8" r="4" fill="#3465a4"><title>Dhillon</title></circle></a><a href="/variants/s3/k27dg10r2~x4/"><circle cx="439.3" cy="218.2" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/variants/s3/k20w2db1~x6/"><circle cx="551.8" cy="149.9" r="4" fill="#3465a4"><title>Fily</title></circle></a><a href="/variants/s3/k69r14y5~x2/"><circle cx="468.9" cy="175.5" r="4" fill="#3465a4"><title>Batson</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="544.0" cy="69.7" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="450.3" cy="152.9" r="4" fill="#3465a4"><title>Rogues , The</title></circle></a><a href="/variants/s4/dr1k20lb5dr1~x4/"><circle cx="438.4" cy="142.7" r="4" fill="#3465a4"><title>Dobelman</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="550.6" cy="58.5" r="4" fill="#3465a4"><title>McHattie</title></circle></a><a href="/variants/s4/k62db15w6y4~x2/"><circle cx="391.9" cy="148.7" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><circle cx="477.7" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/k11db2r1~x8/"><circle cx="496.8" cy="199.9" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s4/k35lo3w3g3~x4/"><circle cx="441.0" cy="140.1" r="4" fill="#3465a4"><title>Dhillon</title></circle></a><a href="/variants/s3/k27dg10r2~x4/"><circle cx="440.5" cy="218.6" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/variants/s3/k20w2db1~x6/"><circle cx="553.5" cy="150.5" r="4" fill="#3465a4"><title>Fily</title></circle></a><a href="/variants/s3/k69r14y5~x2/"><circle cx="470.3" cy="176.0" r="4" fill="#3465a4"><title>Batson</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="545.8" cy="70.3" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="451.7" cy="153.3" r="4" fill="#3465a4"><title>Rogues , The</title></circle></a><a href="/variants/s4/dr1k20lb5dr1~x4/"><circle cx="439.8" cy="143.1" r="4" fill="#3465a4"><title>Dobelman</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="552.5" cy="59.0" r="4" fill="#3465a4"><title>McHattie</title></circle></a><a href="/variants/s4/k62db15w6y4~x2/"><circle cx="393.1" cy="149.0" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><circle cx="479.2" cy="146.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

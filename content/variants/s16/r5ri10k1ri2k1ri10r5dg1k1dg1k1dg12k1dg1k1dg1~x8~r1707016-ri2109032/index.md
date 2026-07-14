@@ -8,10 +8,10 @@ crumbs:
 - name: "Lindsay Earl of Crawford"
   url: "/tartans/l/li/lindsay-earl-of-crawford/"
 - name: "Lindsay Earl of Crawford"
-  url: "/setts/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/lindsay-earl-of-crawford/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGRRKRKRR](/stripes/gkgkgkgkgrrkrkrr/).
 
 Part of the [Lindsay Earl of Crawford](/tartans/l/li/lindsay-earl-of-crawford/) tartan — the named design grouping this sett with its other cloths.

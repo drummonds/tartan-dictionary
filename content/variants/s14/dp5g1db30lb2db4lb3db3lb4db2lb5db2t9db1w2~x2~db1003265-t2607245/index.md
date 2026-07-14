@@ -8,10 +8,10 @@ crumbs:
 - name: "Crombie, Harry"
   url: "/tartans/c/cr/crombie-harry/"
 - name: "Crombie, Harry (Personal)"
-  url: "/setts/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crombie-harry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBWBWBWBBBW](/stripes/bgbwbwbwbwbbbw/).
 
 Part of the [Crombie, Harry](/tartans/c/cr/crombie-harry/) tartan — the named design grouping this sett with its other cloths.

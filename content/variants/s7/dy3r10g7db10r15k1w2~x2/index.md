@@ -10,10 +10,10 @@ crumbs:
 - name: "East Kilbride"
   url: "/tartans/e/ea/east-kilbride-3/"
 - name: "East Kilbride (Original) District Tartan"
-  url: "/setts/dy3r10g7db10r15k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy3r10g7db10r15k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ea/east-kilbride-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBRKW](/stripes/grgbrkw/).
 
 Part of the [East Kilbride](/tartans/e/ea/east-kilbride-3/) tartan — the named design grouping this sett with its other cloths.

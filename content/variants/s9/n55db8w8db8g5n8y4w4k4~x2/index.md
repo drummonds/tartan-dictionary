@@ -8,10 +8,10 @@ crumbs:
 - name: "Ofsharick, Matthew"
   url: "/tartans/o/of/ofsharick-matthew/"
 - name: "Ofsharick, Matthew (Personal)"
-  url: "/setts/n55db8w8db8g5n8y4w4k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n55db8w8db8g5n8y4w4k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/of/ofsharick-matthew/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBGBGWK](/stripes/bbwbgbgwk/).
 
 Part of the [Ofsharick, Matthew](/tartans/o/of/ofsharick-matthew/) tartan — the named design grouping this sett with its other cloths.

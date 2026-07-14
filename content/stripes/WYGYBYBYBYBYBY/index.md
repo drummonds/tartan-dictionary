@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/ly44dr6ly6dr6ly6dr6ly6dr6ly44t3ly3g3ly3lb3/">Catalan (92 Olympics)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/ly44dr6ly6dr6ly6dr6ly6dr6ly44t3ly3g3ly3lb3/"><img src="/variants/s14/ly44dr6ly6dr6ly6dr6ly6dr6ly44t3ly3g3ly3lb3/sett.png" alt="Catalan (92 Olympics) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/catalan/">Catalan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/catalan/"><img src="/variants/s14/ly44dr6ly6dr6ly6dr6ly6dr6ly44t3ly3g3ly3lb3/sett.png" alt="Catalan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

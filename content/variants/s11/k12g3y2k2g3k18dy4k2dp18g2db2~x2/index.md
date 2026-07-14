@@ -8,10 +8,10 @@ crumbs:
 - name: "Sturm"
   url: "/tartans/s/st/sturm/"
 - name: "Sturm (2016)"
-  url: "/setts/k12g3y2k2g3k18dy4k2dp18g2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k12g3y2k2g3k18dy4k2dp18g2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/sturm/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGKGKGGK](/stripes/bgbkgkgkggk/).
 
 Part of the [Sturm](/tartans/s/st/sturm/) tartan — the named design grouping this sett with its other cloths.

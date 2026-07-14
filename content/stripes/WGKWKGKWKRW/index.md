@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/w2r16k1lb2k1y4k1lb2k1g16lb1/">Baxter (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w2r16k1lb2k1y4k1lb2k1g16lb1/"><img src="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/sett.png" alt="Baxter (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/">Baxter Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><img src="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/sett.png" alt="Baxter Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baxter-3/">Baxter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baxter-3/"><img src="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/sett.png" alt="Baxter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baxter-of-balgavies/">Baxter of Balgavies</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baxter-of-balgavies/"><img src="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/sett.png" alt="Baxter of Balgavies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

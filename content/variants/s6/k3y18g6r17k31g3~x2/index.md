@@ -10,10 +10,10 @@ crumbs:
 - name: "MacMillan Variant"
   url: "/tartans/m/ma/macmillan-variant/"
 - name: "MacMillan Varient (Unidentified)"
-  url: "/setts/k3y18g6r17k31g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3y18g6r17k31g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macmillan-variant/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRGGK](/stripes/gkrggk/).
 
 Part of the [MacMillan Variant](/tartans/m/ma/macmillan-variant/) tartan — the named design grouping this sett with its other cloths.

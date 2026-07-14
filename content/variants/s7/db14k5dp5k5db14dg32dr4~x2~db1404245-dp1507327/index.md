@@ -8,10 +8,10 @@ crumbs:
 - name: "Bennachie Whisky"
   url: "/tartans/b/be/bennachie-whisky/"
 - name: "Bennachie (Whisky)"
-  url: "/setts/db14k5dp5k5db14dg32dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db14k5dp5k5db14dg32dr4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/bennachie-whisky/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBKB](/stripes/bgbkbkb/).
 
 Part of the [Bennachie Whisky](/tartans/b/be/bennachie-whisky/) tartan — the named design grouping this sett with its other cloths.

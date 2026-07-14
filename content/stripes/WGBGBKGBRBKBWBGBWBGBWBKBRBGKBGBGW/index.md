@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/">Kumikyoku - Tone of Forest</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/"><img src="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/sett.png" alt="Kumikyoku - Tone of Forest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ku/kumikyoku-4/">Kumikyoku</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ku/kumikyoku-4/"><img src="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/sett.png" alt="Kumikyoku sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

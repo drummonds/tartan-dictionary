@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/">Owen (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/"><img src="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/sett.png" alt="Owen (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ow/owen/">Owen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ow/owen/"><img src="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/sett.png" alt="Owen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

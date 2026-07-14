@@ -12,10 +12,10 @@ crumbs:
 - name: "Kile"
   url: "/tartans/k/ki/kile/"
 - name: "Kile"
-  url: "/setts/db20w3db3w3db3w3k5y10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db20w3db3w3db3w3k5y10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kile/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWKG](/stripes/bwbwbwkg/).
 
 Part of the [Kile](/tartans/k/ki/kile/) tartan — the named design grouping this sett with its other cloths.

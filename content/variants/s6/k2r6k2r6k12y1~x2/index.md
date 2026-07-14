@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/macqueen/"
 - name: "MacQueen"
   url: "/tartans/m/ma/macqueen/"
-- name: "MacQueen"
-  url: "/setts/k2r6k2r6k12y1/"
+- name: "MacQueen Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2r6k2r6k12y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macqueen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRK](/stripes/gkrkrk/).
 
 Part of the [MacQueen](/tartans/m/ma/macqueen/) tartan — the named design grouping this sett with its other cloths.

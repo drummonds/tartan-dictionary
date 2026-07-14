@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Tummel"
   url: "/tartans/l/lo/loch-tummel/"
 - name: "Loch Tummel"
-  url: "/setts/o38w9o3do9w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o38w9o3do9w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-tummel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRBW](/stripes/rwrbw/).
 
 Part of the [Loch Tummel](/tartans/l/lo/loch-tummel/) tartan — the named design grouping this sett with its other cloths.

@@ -10,17 +10,17 @@ crumbs:
 - name: "Hogmany"
   url: "/families/hogmany/"
 - name: "Hogmany"
-  url: "/tartans/h/ho/hogmany-2/"
+  url: "/tartans/h/ho/hogmany/"
 - name: "Hogmany Plaid"
-  url: "/setts/r2w7db3w3db3w3db3w1db12dbi14r1dbi1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2w7db3w3db3w3db3w1db12dbi14r1dbi1r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBBWBWBWBWRWBWBWBWBBRBR](/stripes/brbbwbwbwbwrwbwbwbwbbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hogmany/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBBWBWBWBWR](/stripes/rbrbbwbwbwbwr/).
 
-Part of the [Hogmany](/tartans/h/ho/hogmany-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hogmany](/tartans/h/ho/hogmany/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1746](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1746)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1746](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1999 — Hogmany Plaid (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1746">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Created to signify the birth of 'A Brand New Year 1st January 2000'. Tartan Society graphic incorrect. Thin white missing.</em></li>
-<li>1999 — Hogmany Plaid (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2621">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Scottish Tartans Society records: created by Parkland Fabrics Ltd of Huddersfield for Park Mills to mark 1st January 2000. Tartan Society graphic incorrect. Thin white missing.</em></li>
+<li>1999 — Hogmany Plaid (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2621/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Scottish Tartans Society records: created by Parkland Fabrics Ltd of Huddersfield for Park Mills to mark 1st January 2000. Tartan Society graphic incorrect. Thin white missing.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2621
 
 ## Thread count
-R/4 DBi2 R2 DBi28 DB24 W2 DB6 W6 DB6 W6 DB6 W14 R4 W14 DB6 W6 DB6 W6 DB6 W2 DB24 DBi28 R2 DBi/2
+R/4 W14 DB6 W6 DB6 W6 DB6 W2 DB24 DBi28 R2 DBi2 R/4
 
-One full sett is **418 threads**.
+One full sett is **212 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/4 DBi2 R2 DBi28 DB24 W2 DB6 W6 DB6 W6 DB6 W14 R4 W14 DB6 W6 DB6 W6 DB6 W2 DB24 DBi28 R2 DBi/2 — 418 threads; it folds to the canonical 212-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **418 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 DBi2 R2 DBi28 DB24 W2 DB6 W6 DB6 W6 DB6 W14 R4 W14 DB6 W6 DB6 W6 DB6 W2 DB24 DBi28 R2 DBi/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 W14 DB6 W6 DB6 W6 DB6 W2 DB24 DBi28 R2 DBi2 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Doral"
   url: "/tartans/d/do/doral/"
 - name: "Doral"
-  url: "/setts/db26dg6db2dg17dy4w1dy4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db26dg6db2dg17dy4w1dy4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/doral/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGWG](/stripes/bgbggwg/).
 
 Part of the [Doral](/tartans/d/do/doral/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=952](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Doral (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=952">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0C5454;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BG #0C5454"></span><span style="display:inline-block;width:.85em;height:.85em;background:#343400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DAG #343400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BW #FCFCFC"></span><br><em>Asymmetric. From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Woven sample.</em></li>
-<li>1972 — Doral (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4691">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0C5454;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BG #0C5454"></span><span style="display:inline-block;width:.85em;height:.85em;background:#343400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DAG #343400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BW #FCFCFC"></span><br><em>Asymmetric. From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Woven sample.</em></li>
+<li>1972 — Doral (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4691/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0C5454;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BG #0C5454"></span><span style="display:inline-block;width:.85em;height:.85em;background:#343400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DAG #343400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BW #FCFCFC"></span><br><em>Asymmetric. From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Woven sample.</em></li>
 </ul>
 </details>
 

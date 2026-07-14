@@ -28,13 +28,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/dy6lb38k3~x2/">Poulain League (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dy6lb38k3~x2/"><img src="/variants/s3/dy6lb38k3~x2/sett.png" alt="Poulain League (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k5lb4y1~x2/">Wilson's, No 118</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k5lb4y1~x2/"><img src="/variants/s3/k5lb4y1~x2/sett.png" alt="Wilson's, No 118 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/poulain-league/">Poulain League</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/poulain-league/"><img src="/variants/s3/dy6lb38k3~x2/sett.png" alt="Poulain League sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-118-2/">Wilson's, No 118</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-118-2/"><img src="/variants/s3/k5lb4y1~x2/sett.png" alt="Wilson's, No 118 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/g4lb1k2~x4/">Wilson's, No 45</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/g4lb1k2~x4/"><img src="/variants/s3/g4lb1k2~x4/sett.png" alt="Wilson's, No 45 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-079/">Wilson's No.079</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-079/"><img src="/variants/s4/k7w1g7lb1~x2/sett.png" alt="Wilson's No.079 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-45/">Wilson's, No 45</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-45/"><img src="/variants/s3/g4lb1k2~x4/sett.png" alt="Wilson's, No 45 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

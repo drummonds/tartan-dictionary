@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9/">Golden Broom</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9/"><img src="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2~r2806019/sett.png" alt="Golden Broom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/golden-broom/">Golden Broom</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/golden-broom/"><img src="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2~r2806019/sett.png" alt="Golden Broom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Nobiliary Fraternity. . ."
   url: "/tartans/n/no/nobiliary-fraternity/"
 - name: "Nobiliary Fraternity"
-  url: "/setts/dp11t2k10g10y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp11t2k10g10y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/nobiliary-fraternity/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGG](/stripes/bbkgg/).
 
 Part of the [Nobiliary Fraternity. . .](/tartans/n/no/nobiliary-fraternity/) tartan — the named design grouping this sett with its other cloths.

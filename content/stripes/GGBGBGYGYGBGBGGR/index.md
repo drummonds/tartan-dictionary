@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/y5g16db8g4db4g4lr38g4lr38g4db4g4db8g16y5r3~x2/">Nova Scotia Dress #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/y5g16db8g4db4g4lr38g4lr38g4db4g4db8g16y5r3~x2/"><img src="/variants/s16/y5g16db8g4db4g4lr38g4lr38g4db4g4db8g16y5r3~x2/sett.png" alt="Nova Scotia Dress #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/nova-scotia-dress/">Nova Scotia Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nova-scotia-dress/"><img src="/variants/s16/y5g16db8g4db4g4lr38g4lr38g4db4g4db8g16y5r3~x2/sett.png" alt="Nova Scotia Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

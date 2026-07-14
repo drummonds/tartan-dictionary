@@ -8,22 +8,22 @@ crumbs:
 - name: "Ben Ledi"
   url: "/tartans/b/be/ben-ledi/"
 - name: "Ben Ledi (Fashion)"
-  url: "/setts/w60o3w3o8w3o3dg24n12o3n16o4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w60o3w3o8w3o3dg24n12o3n16o4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/ben-ledi/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBGRWRWRW](/stripes/rbrbgrwrwrw/).
 
 Part of the [Ben Ledi](/tartans/b/be/ben-ledi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3676](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3676)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3676/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3676/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1984 — Ben Ledi (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3676">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #F8F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#688038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #688038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #1C1C1C"></span><br><em>Sample in STA Johnston Collection.</em></li>
+<li>1984 — Ben Ledi (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3676/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #F8F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#688038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #688038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #1C1C1C"></span><br><em>Sample in STA Johnston Collection.</em></li>
 <li>undated — Ben Ledi (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4951">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #F8F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#688038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #688038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #1C1C1C"></span><br><em>Threadcount taken by STA from a woven sample.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3676](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

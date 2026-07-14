@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/">Dinarzh: (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/"><img src="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/sett.png" alt="Dinarzh: (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/dinarzh/">Dinarzh:</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/dinarzh/"><img src="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/sett.png" alt="Dinarzh: sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

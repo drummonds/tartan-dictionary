@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/">Cambridge</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/"><img src="/variants/s15/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/sett.png" alt="Cambridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cambridge-2/">Cambridge</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cambridge-2/"><img src="/variants/s15/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/sett.png" alt="Cambridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

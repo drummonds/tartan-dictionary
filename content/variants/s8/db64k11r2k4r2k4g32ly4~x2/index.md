@@ -8,15 +8,15 @@ crumbs:
 - name: "Sinclair-Brown"
   url: "/tartans/s/si/sinclair-brown/"
 - name: "Sinclair-Brown (Personal)"
-  url: "/setts/db64k11r2k4r2k4g32ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db64k11r2k4r2k4g32ly4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKRKRKGYGKRKRK](/stripes/bkrkrkgygkrkrk/).
+provenance below. It is one weaving of the [sett](/tartans/s/si/sinclair-brown/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKRKRKGY](/stripes/bkrkrkgy/).
 
 Part of the [Sinclair-Brown](/tartans/s/si/sinclair-brown/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3799](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3799)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3799](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Sinclair-Brown (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3799">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Family use of Mr Nicholas Sinclair-Brown. London, 1991.</em></li>
-<li>pre 2002 — Sinclair-Brown (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2189">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Thought to be a personal tartan for a Sinclair-Brown family. Thought to be from Lochcarron.</em></li>
+<li>pre 2002 — Sinclair-Brown (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2189/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Thought to be a personal tartan for a Sinclair-Brown family. Thought to be from Lochcarron.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2189
 
 ## Thread count
-DB/128 K22 R4 K8 R4 K8 G64 LY8 G64 K8 R4 K8 R4 K/22
+DB/128 K22 R4 K8 R4 K8 G64 LY/8
 
-One full sett is **562 threads**.
+One full sett is **356 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/128 K22 R4 K8 R4 K8 G64 LY8 G64 K8 R4 K8 R4 K/22 — 562 threads; it folds to the canonical 356-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **562 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/128 K22 R4 K8 R4 K8 G64 LY8 G64 K8 R4 K8 R4 K/22 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/128 K22 R4 K8 R4 K8 G64 LY/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

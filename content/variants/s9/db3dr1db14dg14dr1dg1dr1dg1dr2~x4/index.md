@@ -12,10 +12,10 @@ crumbs:
 - name: "Breckon Hunting"
   url: "/tartans/b/br/breckon-hunting/"
 - name: "Breckon Hunting"
-  url: "/setts/db3dr1db14dg14dr1dg1dr1dg1dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3dr1db14dg14dr1dg1dr1dg1dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/breckon-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBGB](/stripes/bbbgbgbgb/).
 
 Part of the [Breckon Hunting](/tartans/b/br/breckon-hunting/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10031](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>20/04/2009 — Breckon Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10031">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#233634;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #233634"></span><span style="display:inline-block;width:.85em;height:.85em;background:#51200F;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #51200F"></span><span style="display:inline-block;width:.85em;height:.85em;background:#27371D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #27371D"></span><br><em>The name Breckon was found in Angus where the family lived in the town of Brechin. Issac of Breckon in 1178 was the first to use the name as a surname. The name, Breckon, occurs frequently along with its spelling variations (Brechin, Breechin, Breichen, Brichan, Brichane, Breching, Brechyn). The Brecheen or Brechin tartan was registered in 1996. A Breckon tartan was designed and recorded with the Scottish Tartans Authority, using the 2 colours from the Breckon Coat of Arms (gold and red) and including blue and a simular pattern to compliment the Angus District tartan. The Hunting version uses the same pattern as the Breckon tartan, incorporating blue and red from the Breckon and Angus tartans, and green. This tartan is for the use of all of the name and spelling variations thereof.</em></li>
-<li>Apr. 2009 — Breckon Hunting (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10031">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>A hunting version of #7908 Breckon designed by Richard Breckon.</em></li>
+<li>Apr. 2009 — Breckon Hunting (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10031/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>A hunting version of #7908 Breckon designed by Richard Breckon.</em></li>
 </ul>
 </details>
 

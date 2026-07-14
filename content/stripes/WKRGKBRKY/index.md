@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/">Loch Awe</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><img src="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/sett.png" alt="Loch Awe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-awe/">Loch Awe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-awe/"><img src="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/sett.png" alt="Loch Awe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

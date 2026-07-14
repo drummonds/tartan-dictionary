@@ -12,10 +12,10 @@ crumbs:
 - name: "Lanark"
   url: "/tartans/l/la/lanark/"
 - name: "Lanarkshire"
-  url: "/setts/dg31y4dg6k19db18lb9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg31y4dg6k19db18lb9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lanark/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKBW](/stripes/gggkbw/).
 
 Part of the [Lanark](/tartans/l/la/lanark/) tartan — the named design grouping this sett with its other cloths.

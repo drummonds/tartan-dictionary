@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/">Orkney Magnus</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/"><img src="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/sett.png" alt="Orkney Magnus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/orkney-magnus/">Orkney Magnus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/orkney-magnus/"><img src="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/sett.png" alt="Orkney Magnus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

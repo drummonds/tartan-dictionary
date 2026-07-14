@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/alabama/"
 - name: "Alabama"
   url: "/families/alabama/"
+aliases:
+- "/setts/r3lb8k9g16r12n12lo3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rwkgrby/">RWKGRBY</a></nav>
 A tartan of the [Alabama](/families/alabama/) family.
 Its design is pattern [RWKGRBY](/stripes/rwkgrby/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Alabama** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3lb8k9g16r12n12lo3/">Alabama</a></td><td><code>LO/6 N24 R24 G32 K18 LB16 R/6</code></td><td>240</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3lb8k9g16r12n12lo3/"><img src="/variants/s7/r3lb8k9g16r12n12lo3~x2/sett.png" alt="Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3lb8k9g16r12n12lo3~x2/">Alabama</a></td><td><code>R/6 LB16 K18 G32 R24 N24 LO/6</code></td><td>240</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3lb8k9g16r12n12lo3~x2/"><img src="/variants/s7/r3lb8k9g16r12n12lo3~x2/sett.png" alt="Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/"><circle cx="19.0" cy="223.1" r="4" fill="#3465a4"><title>Ellis</title></circle></a><a href="/variants/s9/g8n8lb7r5dy2k2dy2k2dy2~x2/"><circle cx="14.0" cy="222.6" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s10/y6k1y3g3w3r3k2r3db3w3~x2/"><circle cx="14.0" cy="217.2" r="4" fill="#3465a4"><title>Williams Lake</title></circle></a><a href="/variants/s10/y6k1y3g3w3dr3k2dr3db3w3~x2/"><circle cx="14.0" cy="220.0" r="4" fill="#3465a4"><title>City of Williams Lake</title></circle></a><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="43.6" cy="195.1" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg</title></circle></a><a href="/variants/s8/k14y3g18r15w2r3w2dp14~x2/"><circle cx="46.6" cy="170.1" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s8/k14ly3g18r15w2r3w2dp14~x2~dp1607327/"><circle cx="49.1" cy="172.6" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="56.6" cy="189.5" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="214.1" r="4" fill="#3465a4"><title>Kilkenny County Crest</title></circle></a><a href="/variants/s7/k16y16r16g3db7w7k7~x2/"><circle cx="20.4" cy="207.3" r="4" fill="#3465a4"><title>Eusa</title></circle></a><circle cx="16.0" cy="229.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/"><circle cx="18.8" cy="222.6" r="4" fill="#3465a4"><title>Ellis</title></circle></a><a href="/variants/s9/g8n8lb7r5dy2k2dy2k2dy2~x2/"><circle cx="14.0" cy="222.1" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s10/y6k1y3g3w3r3k2r3db3w3~x2/"><circle cx="14.0" cy="216.7" r="4" fill="#3465a4"><title>Williams Lake</title></circle></a><a href="/variants/s10/y6k1y3g3w3dr3k2dr3db3w3~x2/"><circle cx="14.0" cy="219.5" r="4" fill="#3465a4"><title>City of Williams Lake</title></circle></a><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="43.7" cy="194.7" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg</title></circle></a><a href="/variants/s8/k14y3g18r15w2r3w2dp14~x2/"><circle cx="46.7" cy="169.7" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s8/k14ly3g18r15w2r3w2dp14~x2~dp1607327/"><circle cx="49.1" cy="172.2" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="56.6" cy="189.1" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="213.6" r="4" fill="#3465a4"><title>Kilkenny County Crest</title></circle></a><a href="/variants/s7/k16y16r16g3db7w7k7~x2/"><circle cx="20.4" cy="206.9" r="4" fill="#3465a4"><title>Eusa</title></circle></a><circle cx="15.8" cy="229.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/">Coeur D'Alene Firefighters Richard Gaines Memorial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/"><img src="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/sett.png" alt="Coeur D'Alene Firefighters Richard Gaines Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coeur-d-alene-firefighters-corporat/">Coeur D'Alene Firefighters (Corporat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coeur-d-alene-firefighters-corporat/"><img src="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/sett.png" alt="Coeur D'Alene Firefighters (Corporat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

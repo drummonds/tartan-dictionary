@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/">Duchess of Albany</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/"><img src="/variants/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/sett.png" alt="Duchess of Albany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duchess-of-albany/">Duchess of Albany</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duchess-of-albany/"><img src="/variants/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/sett.png" alt="Duchess of Albany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

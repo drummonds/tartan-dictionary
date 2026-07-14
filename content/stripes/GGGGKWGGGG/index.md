@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/">Irish National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/"><img src="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/sett.png" alt="Irish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ir/irish-national/">Irish National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ir/irish-national/"><img src="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/sett.png" alt="Irish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

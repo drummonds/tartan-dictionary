@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db2lb2db3lb8g4db4g3db8r12g7r3g2k1w1~x2/">Jones-MacGregor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db2lb2db3lb8g4db4g3db8r12g7r3g2k1w1~x2/"><img src="/variants/s14/db2lb2db3lb8g4db4g3db8r12g7r3g2k1w1~x2/sett.png" alt="Jones-MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jones-macgregor-2/">Jones-MacGregor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jones-macgregor-2/"><img src="/variants/s14/db2lb2db3lb8g4db4g3db8r12g7r3g2k1w1~x2/sett.png" alt="Jones-MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

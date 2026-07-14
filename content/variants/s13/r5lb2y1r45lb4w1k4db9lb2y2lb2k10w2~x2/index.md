@@ -8,10 +8,10 @@ crumbs:
 - name: "Stratford Police Pipe Band"
   url: "/tartans/s/st/stratford-police-pipe-band/"
 - name: "Stratford Police Pipe Band (Ontario)"
-  url: "/setts/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stratford-police-pipe-band/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGRWWKBWGWKW](/stripes/rwgrwwkbwgwkw/).
 
 Part of the [Stratford Police Pipe Band](/tartans/s/st/stratford-police-pipe-band/) tartan — the named design grouping this sett with its other cloths.

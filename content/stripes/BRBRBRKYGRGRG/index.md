@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/">Unnamed C20th - Unregistered Error</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><img src="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/sett.png" alt="Unnamed C20th - Unregistered Error sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unnamed-c20th/">Unnamed C20th</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-c20th/"><img src="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

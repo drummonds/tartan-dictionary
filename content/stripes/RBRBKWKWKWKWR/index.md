@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/">Hogmany Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/"><img src="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/sett.png" alt="Hogmany Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hogmany-2/">Hogmany</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hogmany-2/"><img src="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/sett.png" alt="Hogmany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

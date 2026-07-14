@@ -12,10 +12,10 @@ crumbs:
 - name: "Strathtummel"
   url: "/tartans/s/st/strathtummel-3/"
 - name: "Strathtummel District Tartan"
-  url: "/setts/k37dp2k2dp3k13dp10w2dp10dg1dp2dg2dp2dg9dp13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k37dp2k2dp3k13dp10w2dp10dg1dp2dg2dp2dg9dp13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathtummel-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBWBKBKBK](/stripes/bgbgbgbwbkbkbk/).
 
 Part of the [Strathtummel](/tartans/s/st/strathtummel-3/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/">St Brigid's Quirindi</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/"><img src="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/sett.png" alt="St Brigid's Quirindi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-brigid-s-quirindi/">St Brigid's Quirindi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-brigid-s-quirindi/"><img src="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/sett.png" alt="St Brigid's Quirindi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

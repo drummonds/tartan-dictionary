@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r3g2w2g3db3g20k20db2k2db2ly15db3ly3~x2/">U.S. Ancient Order of Hibernians (Co</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r3g2w2g3db3g20k20db2k2db2ly15db3ly3~x2/"><img src="/variants/s13/r3g2w2g3db3g20k20db2k2db2ly15db3ly3~x2/sett.png" alt="U.S. Ancient Order of Hibernians (Co sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/u/u-s-ancient-order-of-hibernians-co/">U.S. Ancient Order of Hibernians (Co</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-ancient-order-of-hibernians-co/"><img src="/variants/s13/r3g2w2g3db3g20k20db2k2db2ly15db3ly3~x2/sett.png" alt="U.S. Ancient Order of Hibernians (Co sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

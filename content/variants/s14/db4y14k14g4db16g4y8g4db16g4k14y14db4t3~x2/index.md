@@ -12,10 +12,10 @@ crumbs:
 - name: "Hinnigan"
   url: "/tartans/h/hi/hinnigan-2/"
 - name: "Hinnigan (Personal)"
-  url: "/setts/db4y14k14g4db16g4y8g4db16g4k14y14db4t3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4y14k14g4db16g4y8g4db16g4k14y14db4t3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/hinnigan-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGKGBGGGBGKGB](/stripes/bbgkgbgggbgkgb/).
 
 Part of the [Hinnigan](/tartans/h/hi/hinnigan-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/">Hay Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/"><img src="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/sett.png" alt="Hay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hay-hunting/">Hay Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-hunting/"><img src="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/sett.png" alt="Hay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

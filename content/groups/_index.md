@@ -8,6 +8,10 @@ The dictionary's owners beyond the Scottish clans — ancient finds, districts a
 
 - [Ancient](/groups/ancient/)
 
+## Artefact
+
+- [Masai](/groups/masai/)
+
 ## Military
 
 - [Military](/groups/military/)

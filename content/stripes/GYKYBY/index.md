@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dy2ly14k14ly1dr14ly2~x2/">United Distillers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dy2ly14k14ly1dr14ly2~x2/"><img src="/variants/s6/dy2ly14k14ly1dr14ly2~x2/sett.png" alt="United Distillers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/united-distillers/">United Distillers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/united-distillers/"><img src="/variants/s6/dy2ly14k14ly1dr14ly2~x2/sett.png" alt="United Distillers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

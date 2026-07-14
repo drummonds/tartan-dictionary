@@ -10,10 +10,10 @@ crumbs:
 - name: "Anthony Plaid Stewart"
   url: "/tartans/a/an/anthony-plaid-stewart/"
 - name: "Anthony Plaid Stewart"
-  url: "/setts/dg18k1dy3k1lr1dg1dr2k2dr2lr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg18k1dy3k1lr1dg1dr2k2dr2lr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/anthony-plaid-stewart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKYGBKBY](/stripes/gkgkygbkby/).
 
 Part of the [Anthony Plaid Stewart](/tartans/a/an/anthony-plaid-stewart/) tartan — the named design grouping this sett with its other cloths.

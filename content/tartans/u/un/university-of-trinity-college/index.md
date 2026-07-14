@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k1r2lb1db5ly1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krwby/">KRWBY</a></nav>
 Its design is pattern [KRWBY](/stripes/krwby/) — the page of every tartan sharing this colour sequence.
 
 The **University of Trinity College** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **University of Trinity College** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k1r2lb1db5ly1/">University of Trinity College</a></td><td><code>K/16 R32 LB16 DB80 LY/16</code></td><td>288</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1r2lb1db5ly1/"><img src="/variants/s5/k1r2lb1db5ly1~x16/sett.png" alt="University of Trinity College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k1r2lb1db5ly1~x16/">University of Trinity College</a></td><td><code>K/16 R32 LB16 DB80 LY/16</code></td><td>288</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k1r2lb1db5ly1~x16/"><img src="/variants/s5/k1r2lb1db5ly1~x16/sett.png" alt="University of Trinity College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="216.0" cy="197.8" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s4/db8k3r4y1~x2/"><circle cx="226.7" cy="224.6" r="4" fill="#3465a4"><title>Unidentified 27</title></circle></a><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="76.1" cy="203.5" r="4" fill="#3465a4"><title>Reekie</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="205.2" cy="273.6" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="143.9" cy="184.4" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="232.5" cy="185.1" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s5/lg11db19dt38dr7k7~x2/"><circle cx="189.8" cy="238.0" r="4" fill="#3465a4"><title>Rose, Danny and Hanna</title></circle></a><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/"><circle cx="174.5" cy="221.1" r="4" fill="#3465a4"><title>Rose, Danny and Hanna</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.6" cy="221.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="156.0" cy="196.1" r="4" fill="#3465a4"><title>RSCDS Australia?</title></circle></a><circle cx="172.8" cy="205.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="216.5" cy="197.7" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s4/db8k3r4y1~x2/"><circle cx="227.2" cy="224.5" r="4" fill="#3465a4"><title>Unidentified 27</title></circle></a><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="76.2" cy="203.1" r="4" fill="#3465a4"><title>Reekie</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="205.5" cy="273.5" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="144.3" cy="184.1" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="233.2" cy="185.1" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s5/lg11db19dt38dr7k7~x2/"><circle cx="190.0" cy="238.0" r="4" fill="#3465a4"><title>Rose, Danny and Hanna</title></circle></a><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/"><circle cx="174.8" cy="220.9" r="4" fill="#3465a4"><title>Rose, Danny and Hanna</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.8" cy="221.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="156.4" cy="195.8" r="4" fill="#3465a4"><title>RSCDS Australia?</title></circle></a><circle cx="173.2" cy="205.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

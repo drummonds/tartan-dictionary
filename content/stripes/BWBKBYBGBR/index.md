@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/">Pride of the Highlands (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/"><img src="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/sett.png" alt="Pride of the Highlands (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-the-highlands/">Pride of the Highlands</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-the-highlands/"><img src="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/sett.png" alt="Pride of the Highlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

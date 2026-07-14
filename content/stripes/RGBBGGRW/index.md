@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/">Young Presidents Organisation Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/"><img src="/variants/s8/r6y15do4db12g12dy4r25w5~x2/sett.png" alt="Young Presidents Organisation Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yo/young-presidents-organisation-dress/">Young Presidents Organisation Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yo/young-presidents-organisation-dress/"><img src="/variants/s8/r6y15do4db12g12dy4r25w5~x2/sett.png" alt="Young Presidents Organisation Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

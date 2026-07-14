@@ -8,10 +8,10 @@ crumbs:
 - name: "Confederate Infantry"
   url: "/tartans/c/co/confederate-infantry/"
 - name: "Confederate Infantry"
-  url: "/setts/dg2ly14dg8ly3dg12db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2ly14dg8ly3dg12db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/confederate-infantry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYGYG](/stripes/bgygyg/).
 
 Part of the [Confederate Infantry](/tartans/c/co/confederate-infantry/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=731](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — Confederate Infantry (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=731">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003014;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AGG #003014"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>Yellow line changed to blue. Info from Tony Murray.</em></li>
-<li>1998 — Confederate Infantry (Military) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4568">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003014;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AGG #003014"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>Yellow line changed to blue. Info: Tony Murray.</em></li>
+<li>1998 — Confederate Infantry (Military) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4568/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003014;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AGG #003014"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A0783C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>Yellow line changed to blue. Info: Tony Murray.</em></li>
 </ul>
 </details>
 

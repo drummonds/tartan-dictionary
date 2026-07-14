@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o3dt1dp3dr8dg4dr3dg17dp11db6dp4db21dt1~x2/">Doane</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o3dt1dp3dr8dg4dr3dg17dp11db6dp4db21dt1~x2/"><img src="/variants/s12/o3dt1dp3dr8dg4dr3dg17dp11db6dp4db21dt1~x2/sett.png" alt="Doane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/doane/">Doane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/doane/"><img src="/variants/s12/o3dt1dp3dr8dg4dr3dg17dp11db6dp4db21dt1~x2/sett.png" alt="Doane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

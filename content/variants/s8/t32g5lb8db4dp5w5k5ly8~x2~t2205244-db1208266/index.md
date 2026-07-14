@@ -8,10 +8,10 @@ crumbs:
 - name: "Fremsaeter, Jenny"
   url: "/tartans/f/fr/fremsaeter-jenny/"
 - name: "Fremsaeter, Jenny (Personal)"
-  url: "/setts/t32g5lb8db4dp5w5k5ly8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t32g5lb8db4dp5w5k5ly8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fremsaeter-jenny/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBBWKY](/stripes/bgwbbwky/).
 
 Part of the [Fremsaeter, Jenny](/tartans/f/fr/fremsaeter-jenny/) tartan — the named design grouping this sett with its other cloths.

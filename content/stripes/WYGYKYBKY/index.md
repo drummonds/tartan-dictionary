@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/">MacManus</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><img src="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/sett.png" alt="MacManus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macmanus-2/">MacManus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macmanus-2/"><img src="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/sett.png" alt="MacManus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

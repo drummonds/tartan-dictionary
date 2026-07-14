@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r5db8k5db24k24dg24y5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggkbkbr/">GGKBKBR</a></nav>
 Its design is pattern [GGKBKBR](/stripes/ggkbkbr/) — the page of every tartan sharing this colour sequence.
 
 The **Heritage** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Heritage** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r5db8k5db24k24dg24y5/">Heritage</a></td><td><code>R/10 DB16 K10 DB48 K48 DG48 Y/10</code></td><td>360</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r5db8k5db24k24dg24y5/"><img src="/variants/s7/r5db8k5db24k24dg24y5~x2/sett.png" alt="Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/">Heritage</a></td><td><code>R/10 DB16 K10 DB48 K48 DG48 Y/10</code></td><td>360</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><img src="/variants/s7/r5db8k5db24k24dg24y5~x2/sett.png" alt="Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="225.7" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="142.2" cy="212.0" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="129.0" cy="237.9" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="132.5" cy="188.9" r="4" fill="#3465a4"><title>Fruin Colquhoun</title></circle></a><a href="/variants/s7/lb2g6y1k6db6k1db1~x2/"><circle cx="85.9" cy="207.0" r="4" fill="#3465a4"><title>Hogarth of Firhill</title></circle></a><a href="/variants/s7/db4k4db16k14dg14dr3dg3~x2/"><circle cx="205.7" cy="259.2" r="4" fill="#3465a4"><title>Inneryne</title></circle></a><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.3" cy="210.1" r="4" fill="#3465a4"><title>Royal Highland Society</title></circle></a><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><circle cx="111.1" cy="241.6" r="4" fill="#3465a4"><title>Atholl Highlanders</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="103.0" cy="222.1" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="143.3" cy="241.6" r="4" fill="#3465a4"><title>MacCaughan</title></circle></a><circle cx="135.8" cy="234.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.7" cy="225.6" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="142.6" cy="211.8" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="129.2" cy="237.7" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="132.8" cy="188.7" r="4" fill="#3465a4"><title>Fruin Colquhoun</title></circle></a><a href="/variants/s7/lb2g6y1k6db6k1db1~x2/"><circle cx="86.1" cy="206.8" r="4" fill="#3465a4"><title>Hogarth of Firhill</title></circle></a><a href="/variants/s7/db4k4db16k14dg14dr3dg3~x2/"><circle cx="205.9" cy="259.2" r="4" fill="#3465a4"><title>Inneryne</title></circle></a><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.5" cy="209.9" r="4" fill="#3465a4"><title>Royal Highland Society</title></circle></a><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><circle cx="111.3" cy="241.4" r="4" fill="#3465a4"><title>Atholl Highlanders</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="103.2" cy="221.8" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="143.4" cy="241.4" r="4" fill="#3465a4"><title>MacCaughan</title></circle></a><circle cx="135.9" cy="233.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

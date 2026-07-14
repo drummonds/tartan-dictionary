@@ -8,10 +8,10 @@ crumbs:
 - name: "Grotto Dove"
   url: "/tartans/g/gr/grotto-dove-2/"
 - name: "Grotto Dove (Dance)"
-  url: "/setts/w102dp20w4dp4w4dp4dg20r18dp3r10w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w102dp20w4dp4w4dp4dg20r18dp3r10w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grotto-dove-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWBGRBRW](/stripes/wbwbwbgrbrw/).
 
 Part of the [Grotto Dove](/tartans/g/gr/grotto-dove-2/) tartan — the named design grouping this sett with its other cloths.

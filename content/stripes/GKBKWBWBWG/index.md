@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/">Chieftain</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/"><img src="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/sett.png" alt="Chieftain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chieftain/">Chieftain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chieftain/"><img src="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/sett.png" alt="Chieftain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

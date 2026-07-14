@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/">Bressuire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/"><img src="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/sett.png" alt="Bressuire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bressuire/">Bressuire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bressuire/"><img src="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/sett.png" alt="Bressuire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

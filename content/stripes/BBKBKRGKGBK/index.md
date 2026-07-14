@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/">State Seal of Virginia (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/"><img src="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/sett.png" alt="State Seal of Virginia (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-virginia/">State Seal of Virginia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-virginia/"><img src="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/sett.png" alt="State Seal of Virginia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

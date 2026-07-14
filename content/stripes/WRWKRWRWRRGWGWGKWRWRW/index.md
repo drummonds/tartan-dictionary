@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/w16r2w2r2w2k16dg2lb2dg2lb2dg10r2o10lb2o2lb2o2k16w15r2w2~x2/">Cherry Valley New York (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/w16r2w2r2w2k16dg2lb2dg2lb2dg10r2o10lb2o2lb2o2k16w15r2w2~x2/"><img src="/variants/s21/w16r2w2r2w2k16dg2lb2dg2lb2dg10r2o10lb2o2lb2o2k16w15r2w2~x2/sett.png" alt="Cherry Valley New York (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/cherry-valley-new-york-2/">Cherry Valley New York</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/cherry-valley-new-york-2/"><img src="/variants/s21/w16r2w2r2w2k16dg2lb2dg2lb2dg10r2o10lb2o2lb2o2k16w15r2w2~x2/sett.png" alt="Cherry Valley New York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

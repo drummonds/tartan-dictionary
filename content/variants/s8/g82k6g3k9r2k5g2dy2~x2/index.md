@@ -12,10 +12,10 @@ crumbs:
 - name: "Crane of Clunie"
   url: "/tartans/c/cr/crane-of-clunie/"
 - name: "Crane of Cluny (Personal)"
-  url: "/setts/g82k6g3k9r2k5g2dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g82k6g3k9r2k5g2dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crane-of-clunie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKRKGKG](/stripes/ggkrkgkg/).
 
 Part of the [Crane of Clunie](/tartans/c/cr/crane-of-clunie/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=791](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — Crane of Cluny (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=791">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>One of three tartans designed for Stuart G Crane, Feudal Baron of Cluny in Fife. Tartan to be controlled by the Baron of Cluny.</em></li>
-<li>Aug. 1998 — Crane of Clunie (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2674">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Designed by the Scottish Tartans Society for Stuart G. Crane ( Feudal Baron of Cluny in Fife) using the colours in his Baronial coat of arms. Subsequent Clunie tartans (dress and hunting) can be seen at 6142 and 6143 respectively. DEsign very closely based on #790 - the Duke of Fife.</em></li>
+<li>Aug. 1998 — Crane of Clunie (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2674/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Designed by the Scottish Tartans Society for Stuart G. Crane ( Feudal Baron of Cluny in Fife) using the colours in his Baronial coat of arms. Subsequent Clunie tartans (dress and hunting) can be seen at 6142 and 6143 respectively. DEsign very closely based on #790 - the Duke of Fife.</em></li>
 </ul>
 </details>
 

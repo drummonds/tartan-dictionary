@@ -12,10 +12,10 @@ crumbs:
 - name: "MacGillivray"
   url: "/tartans/m/ma/macgillivray-3/"
 - name: "MacGillivray Hunting Clan Tartan"
-  url: "/setts/g19r7g7r7g7r14db3r3g19r3db3r66db7r14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g19r7g7r7g7r14db3r3g19r3db3r66db7r14/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgillivray-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/).
 
 Part of the [MacGillivray](/tartans/m/ma/macgillivray-3/) tartan — the named design grouping this sett with its other cloths.

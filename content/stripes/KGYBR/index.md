@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r17db7ly8g58k6~x2/">St Johns County Sheriff Office (Cor)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r17db7ly8g58k6~x2/"><img src="/variants/s5/r17db7ly8g58k6~x2/sett.png" alt="St Johns County Sheriff Office (Cor) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-johns-county-sheriff-office/">St Johns County Sheriff Office</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-johns-county-sheriff-office/"><img src="/variants/s5/r17db7ly8g58k6~x2/sett.png" alt="St Johns County Sheriff Office sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

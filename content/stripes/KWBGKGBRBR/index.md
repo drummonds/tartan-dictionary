@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/">Brotherston (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/"><img src="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/sett.png" alt="Brotherston (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brotherston/">Brotherston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brotherston/"><img src="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/sett.png" alt="Brotherston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

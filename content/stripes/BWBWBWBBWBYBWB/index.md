@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/">Balamory</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/"><img src="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/sett.png" alt="Balamory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/balamory/">Balamory</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/balamory/"><img src="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/sett.png" alt="Balamory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g18w3y1r2y1r3y1r10~x4/">Brisbane (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g18w3y1r2y1r3y1r10~x4/"><img src="/variants/s8/g18w3y1r2y1r3y1r10~x4/sett.png" alt="Brisbane (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g18lb3y1r2y1r3y1r10~x4/">Brisbane (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g18lb3y1r2y1r3y1r10~x4/"><img src="/variants/s8/g18lb3y1r2y1r3y1r10~x4/sett.png" alt="Brisbane (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brisbane/">Brisbane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brisbane/"><img src="/variants/s8/g18w3y1r2y1r3y1r10~x4/sett.png" alt="Brisbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

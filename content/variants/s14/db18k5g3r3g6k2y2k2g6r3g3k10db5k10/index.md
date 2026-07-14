@@ -8,10 +8,10 @@ crumbs:
 - name: "MacClellan"
   url: "/tartans/m/ma/macclellan/"
 - name: "MacClellan Clan Tartan"
-  url: "/setts/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macclellan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRGKGKGRGKBK](/stripes/bkgrgkgkgrgkbk/).
 
 Part of the [MacClellan](/tartans/m/ma/macclellan/) tartan — the named design grouping this sett with its other cloths.

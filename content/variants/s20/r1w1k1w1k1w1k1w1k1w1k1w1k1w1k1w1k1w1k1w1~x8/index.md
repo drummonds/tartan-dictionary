@@ -10,15 +10,15 @@ crumbs:
 - name: "Kerr Shepherd's"
   url: "/tartans/k/ke/kerr-shepherd-s/"
 - name: "Kerr Shepherd's Plaid"
-  url: "/setts/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW](/stripes/rwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkw/).
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kerr-shepherd-s/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWKWKWKWKWKWKWKWKWKW](/stripes/rwkwkwkwkwkwkwkwkwkw/).
 
 Part of the [Kerr Shepherd's](/tartans/k/ke/kerr-shepherd-s/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5284](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5284)
 
@@ -46,9 +46,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3936
 
 ## Thread count
-R/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W/8
+R/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W/8
 
-One full sett is **592 threads**.
+One full sett is **304 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W/8 — 592 threads; it folds to the canonical 304-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -57,7 +59,7 @@ One full sett is **592 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

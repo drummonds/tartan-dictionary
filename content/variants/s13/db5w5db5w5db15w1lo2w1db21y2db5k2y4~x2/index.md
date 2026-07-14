@@ -12,10 +12,10 @@ crumbs:
 - name: "Jouy"
   url: "/tartans/j/jo/jouy/"
 - name: "Jouy (La Chapelle Saint Sulpice) (Personal)"
-  url: "/setts/db5w5db5w5db15w1lo2w1db21y2db5k2y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5w5db5w5db15w1lo2w1db21y2db5k2y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/jo/jouy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWYWBGBKG](/stripes/bwbwbwywbgbkg/).
 
 Part of the [Jouy](/tartans/j/jo/jouy/) tartan — the named design grouping this sett with its other cloths.

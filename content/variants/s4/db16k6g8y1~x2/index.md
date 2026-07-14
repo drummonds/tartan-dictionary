@@ -10,10 +10,10 @@ crumbs:
 - name: "Sinclair, Sir John"
   url: "/tartans/s/si/sinclair-sir-john/"
 - name: "Sinclair, Sir John"
-  url: "/setts/db16k6g8y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16k6g8y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/sinclair-sir-john/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGG](/stripes/bkgg/).
 
 Part of the [Sinclair, Sir John](/tartans/s/si/sinclair-sir-john/) tartan — the named design grouping this sett with its other cloths.

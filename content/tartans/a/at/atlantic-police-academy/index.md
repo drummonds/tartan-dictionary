@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Atlantic"
   url: "/clan/atlantic/"
+aliases:
+- "/setts/k33ly4w3db33r2g2/"
+- "/setts/k33y4w3db33r2g2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grbwyk/">GRBWYK</a></nav>
 A tartan of [Clan Atlantic](/clan/atlantic/).
 Its design is pattern [GRBWYK](/stripes/grbwyk/) — the page of every tartan sharing this colour sequence.
 
@@ -16,10 +20,10 @@ The **Atlantic Police Academy** tartan groups 2 setts — the same named design 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k33ly4w3db33r2g2/">Atlantic Police Academy</a> ★</td><td><code>K/66 LY8 W6 DB66 R4 G/4</code></td><td>238</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k33ly4w3db33r2g2/"><img src="/variants/s6/k33ly4w3db33r2g2~x2/sett.png" alt="Atlantic Police Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k33y4w3db33r2g2/">(Corporate)</a></td><td><code>K/66 Y8 W6 DB66 R4 G/4</code></td><td>238</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k33y4w3db33r2g2/"><img src="/variants/s6/k33y4w3db33r2g2~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k33ly4w3db33r2g2~x2/">Atlantic Police Academy</a> ★</td><td><code>K/66 LY8 W6 DB66 R4 G/4</code></td><td>238</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><img src="/variants/s6/k33ly4w3db33r2g2~x2/sett.png" alt="Atlantic Police Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k33y4w3db33r2g2~x2/">(Corporate)</a></td><td><code>K/66 Y8 W6 DB66 R4 G/4</code></td><td>238</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k33y4w3db33r2g2~x2/"><img src="/variants/s6/k33y4w3db33r2g2~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="233.5" cy="139.8" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="166.2" cy="144.8" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="239.6" cy="122.6" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="205.0" cy="136.5" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="243.1" cy="113.2" r="4" fill="#3465a4"><title>Pipers' Trail</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="126.7" cy="142.4" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.2" cy="160.7" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="277.2" cy="155.7" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><circle cx="205.6" cy="112.2" r="4" fill="#3465a4"><title>Heirloom Dark Alba</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="272.4" cy="108.6" r="4" fill="#3465a4"><title>Fuller of Hopewell</title></circle></a><circle cx="206.8" cy="120.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="234.2" cy="139.7" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="166.8" cy="144.6" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="240.3" cy="122.5" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="205.6" cy="136.3" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="243.9" cy="113.1" r="4" fill="#3465a4"><title>Pipers' Trail</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="127.1" cy="142.1" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.9" cy="160.6" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="278.0" cy="155.8" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><circle cx="206.3" cy="112.1" r="4" fill="#3465a4"><title>Heirloom Dark Alba</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="273.3" cy="108.6" r="4" fill="#3465a4"><title>Fuller of Hopewell</title></circle></a><circle cx="207.5" cy="120.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

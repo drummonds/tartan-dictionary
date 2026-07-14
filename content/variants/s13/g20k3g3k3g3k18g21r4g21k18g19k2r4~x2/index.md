@@ -8,10 +8,10 @@ crumbs:
 - name: "Moncrieffe Athol"
   url: "/tartans/m/mo/moncrieffe-athol/"
 - name: "Moncrieffe Athol"
-  url: "/setts/g20k3g3k3g3k18g21r4g21k18g19k2r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g20k3g3k3g3k18g21r4g21k18g19k2r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/moncrieffe-athol/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGRGKGKR](/stripes/gkgkgkgrgkgkr/).
 
 Part of the [Moncrieffe Athol](/tartans/m/mo/moncrieffe-athol/) tartan — the named design grouping this sett with its other cloths.

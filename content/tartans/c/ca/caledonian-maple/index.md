@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Caledonian"
   url: "/clan/caledonian/"
+aliases:
+- "/setts/dr11dg1dr3ly7dg7dy5y3/"
+- "/setts/dr11dg1dr3y7dg7dy5ly3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbyggg/">BGBYGGG</a></nav>
 A tartan of [Clan Caledonian](/clan/caledonian/).
 Its design is pattern [BGBYGGG](/stripes/bgbyggg/) — the page of every tartan sharing this colour sequence.
 
@@ -16,10 +20,10 @@ The **Caledonian Maple** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr11dg1dr3ly7dg7dy5y3/">Caledonian Maple</a> ★</td><td><code>DR/44 DG4 DR12 LY28 DG28 DY20 Y/12</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr11dg1dr3ly7dg7dy5y3/"><img src="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/sett.png" alt="Caledonian Maple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dr11dg1dr3y7dg7dy5ly3/">(Fashion)</a></td><td><code>DR/44 DG4 DR12 Y28 DG28 DY20 LY/12</code></td><td>240</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr11dg1dr3y7dg7dy5ly3/"><img src="/variants/s7/dr11dg1dr3y7dg7dy5ly3~x4/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/">Caledonian Maple</a> ★</td><td><code>DR/44 DG4 DR12 LY28 DG28 DY20 Y/12</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><img src="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/sett.png" alt="Caledonian Maple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr11dg1dr3y7dg7dy5ly3~x4/">(Fashion)</a></td><td><code>DR/44 DG4 DR12 Y28 DG28 DY20 LY/12</code></td><td>240</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr11dg1dr3y7dg7dy5ly3~x4/"><img src="/variants/s7/dr11dg1dr3y7dg7dy5ly3~x4/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db8lo1g12dr10y2dr6y2dr4~x4/"><circle cx="255.5" cy="232.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s9/do3dy1lr1do1dy3do3lr3y6dp1~x6~do1301000-lr3100000/"><circle cx="176.6" cy="268.0" r="4" fill="#3465a4"><title>Toorak Chapler</title></circle></a><a href="/variants/s12/dg19dr3dg3dr15ly13dr15dg3dr3dg19dy6ly6do6~x2/"><circle cx="199.8" cy="241.0" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.3" cy="220.0" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/"><circle cx="146.3" cy="242.3" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="225.6" cy="236.2" r="4" fill="#3465a4"><title>Samye</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="196.0" cy="272.2" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><circle cx="173.5" cy="245.0" r="4" fill="#3465a4"><title>Tinkler, Andrew</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="235.9" cy="271.3" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><circle cx="236.9" cy="233.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="194.6" cy="246.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db8lo1g12dr10y2dr6y2dr4~x4/"><circle cx="255.7" cy="232.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s9/do3dy1lr1do1dy3do3lr3y6dp1~x6~do1301000-lr3100000/"><circle cx="176.3" cy="267.8" r="4" fill="#3465a4"><title>Toorak Chapler</title></circle></a><a href="/variants/s12/dg19dr3dg3dr15ly13dr15dg3dr3dg19dy6ly6do6~x2/"><circle cx="199.8" cy="240.9" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.5" cy="219.9" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/"><circle cx="146.2" cy="242.1" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="225.7" cy="236.1" r="4" fill="#3465a4"><title>Samye</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="196.1" cy="272.1" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><circle cx="173.4" cy="244.8" r="4" fill="#3465a4"><title>Tinkler, Andrew</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="235.9" cy="271.3" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><circle cx="237.0" cy="233.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="194.6" cy="246.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

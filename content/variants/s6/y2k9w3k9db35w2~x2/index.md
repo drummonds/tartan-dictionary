@@ -8,10 +8,10 @@ crumbs:
 - name: "Hannah"
   url: "/tartans/h/ha/hannah/"
 - name: "Hannah (Personal)"
-  url: "/setts/y2k9w3k9db35w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2k9w3k9db35w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hannah/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKBW](/stripes/gkwkbw/).
 
 Part of the [Hannah](/tartans/h/ha/hannah/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5976](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2007 — Hannah (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5976">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FFE600;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFE600"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003DF5;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #003DF5"></span><br><em>A tartan for those with the Hannah family name with the permission of John Hannah. The tartan colours were chosen to reflect the similarity with the other family names associated with Hannah, Hannay (STR #1587) & Hanna (STR #1584).</em></li>
-<li>pre 2009 — Hannah (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7910">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#30308C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #30308C"></span><br><em>A tartan for those with the Hannah family name with the permission of John Hannah. The tartan colours were chosen to reflect the similarity with the other family names associated with Hannah (Hannay & Hanna) (See STWR No :619 and 1255)</em></li>
+<li>pre 2009 — Hannah (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7910/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#30308C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #30308C"></span><br><em>A tartan for those with the Hannah family name with the permission of John Hannah. The tartan colours were chosen to reflect the similarity with the other family names associated with Hannah (Hannay & Hanna) (See STWR No :619 and 1255)</em></li>
 </ul>
 </details>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Hudson Bay Company"
   url: "/tartans/h/hu/hudson-bay-company-2/"
 - name: "Hudson's Bay Company"
-  url: "/setts/r2k34w2k2n27g1n2k3n2y1n2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k34w2k2n27g1n2k3n2y1n2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hudson-bay-company-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBKBGBKWKR](/stripes/rbgbkbgbkwkr/).
 
 Part of the [Hudson Bay Company](/tartans/h/hu/hudson-bay-company-2/) tartan — the named design grouping this sett with its other cloths.

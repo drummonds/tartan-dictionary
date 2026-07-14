@@ -8,10 +8,10 @@ crumbs:
 - name: "K9"
   url: "/tartans/k/k/k9/"
 - name: "K9"
-  url: "/setts/r40k2w1ly40k3w2k3r5db22r3w1k3r7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r40k2w1ly40k3w2k3r5db22r3w1k3r7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/k/k9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWRBRKWKYWKR](/stripes/rkwrbrkwkywkr/).
 
 Part of the [K9](/tartans/k/k/k9/) tartan — the named design grouping this sett with its other cloths.

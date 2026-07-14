@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g24db2r25y2k3~x2/">Bronte</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g24db2r25y2k3~x2/"><img src="/variants/s5/g24db2r25y2k3~x2/sett.png" alt="Bronte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/g24t2r25y2k3~x2/">Bronte (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g24t2r25y2k3~x2/"><img src="/variants/s5/g24t2r25y2k3~x2/sett.png" alt="Bronte (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bronte/">Bronte</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bronte/"><img src="/variants/s5/g24db2r25y2k3~x2/sett.png" alt="Bronte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

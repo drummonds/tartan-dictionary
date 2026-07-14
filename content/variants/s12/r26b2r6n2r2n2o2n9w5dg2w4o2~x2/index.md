@@ -12,10 +12,10 @@ crumbs:
 - name: "Rathmore"
   url: "/tartans/r/ra/rathmore-2/"
 - name: "Rathmore"
-  url: "/setts/r26b2r6n2r2n2o2n9w5dg2w4o2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r26b2r6n2r2n2o2n9w5dg2w4o2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/rathmore-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRBWGWR](/stripes/rbrbrbrbwgwr/).
 
 Part of the [Rathmore](/tartans/r/ra/rathmore-2/) tartan — the named design grouping this sett with its other cloths.

@@ -8,15 +8,15 @@ crumbs:
 - name: "Keela"
   url: "/tartans/k/ke/keela/"
 - name: "Keela"
-  url: "/setts/db7w3db2w6db16lb26dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db7w3db2w6db16lb26dr4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWBW](/stripes/bwbwbwbwbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/k/ke/keela/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWB](/stripes/bwbwbwb/).
 
 Part of the [Keela](/tartans/k/ke/keela/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1933](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1933)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6157
 
 ## Thread count
-DB/14 W6 DB4 W12 DB32 LB52 DR8 LB52 DB32 W12 DB4 W/6
+DB/14 W6 DB4 W12 DB32 LB52 DR/8
 
-One full sett is **448 threads**.
+One full sett is **234 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/14 W6 DB4 W12 DB32 LB52 DR8 LB52 DB32 W12 DB4 W/6 — 448 threads; it folds to the canonical 234-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **448 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/14 W6 DB4 W12 DB32 LB52 DR8 LB52 DB32 W12 DB4 W/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/14 W6 DB4 W12 DB32 LB52 DR/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

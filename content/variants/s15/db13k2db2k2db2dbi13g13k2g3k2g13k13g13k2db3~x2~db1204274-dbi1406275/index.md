@@ -8,10 +8,10 @@ crumbs:
 - name: "Bailey Atlanta National"
   url: "/tartans/b/ba/bailey-atlanta-national/"
 - name: "Bailey Atlanta National"
-  url: "/setts/db13k2db2k2db2dbi13g13k2g3k2g13k13g13k2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db13k2db2k2db2dbi13g13k2g3k2g13k13g13k2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bailey-atlanta-national/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBBGKGKGKGKB](/stripes/bkbkbbgkgkgkgkb/).
 
 Part of the [Bailey Atlanta National](/tartans/b/ba/bailey-atlanta-national/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=160](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1999 — Bailey Atlanta National (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=160">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed as a corporate tartan for the Atlanta National Gold Course Club.</em></li>
-<li>Jun. 1999 — Bailey Atlanta National (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2589">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed as a corporate tartan for the Atlanta National Golf Course Club. Reference to Bailey not known - perhaps part of the locality.</em></li>
+<li>Jun. 1999 — Bailey Atlanta National (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2589/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed as a corporate tartan for the Atlanta National Golf Course Club. Reference to Bailey not known - perhaps part of the locality.</em></li>
 </ul>
 </details>
 

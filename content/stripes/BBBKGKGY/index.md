@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/">McFadden (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><img src="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/sett.png" alt="McFadden (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcfadden/">McFadden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcfadden/"><img src="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/sett.png" alt="McFadden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

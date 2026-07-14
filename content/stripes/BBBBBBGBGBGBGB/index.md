@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50t11dr2t7dr2t7~x2/">Unidentified Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50t11dr2t7dr2t7~x2/"><img src="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50t11dr2t7dr2t7~x2/sett.png" alt="Unidentified Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/">Unidentified Plaid 2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/"><img src="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/sett.png" alt="Unidentified Plaid 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-13/">Unidentified</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-13/"><img src="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50t11dr2t7dr2t7~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-plaid-2/">Unidentified Plaid 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-plaid-2/"><img src="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/sett.png" alt="Unidentified Plaid 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,17 +8,17 @@ crumbs:
 - name: "State Seal of South Dakota"
   url: "/tartans/s/st/state-seal-of-south-dakota/"
 - name: "State Seal of South Dakota (Fashion)"
-  url: "/setts/dy49ly3dy6k7t21r4k16g12k1dy12k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy49ly3dy6k7t21r4k16g12k1dy12k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/state-seal-of-south-dakota/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGKBRKGKGK](/stripes/gygkbrkgkgk/).
 
 Part of the [State Seal of South Dakota](/tartans/s/st/state-seal-of-south-dakota/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8655](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8655)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/8655/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/8655/*)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -30,7 +30,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8655](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

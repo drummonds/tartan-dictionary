@@ -12,15 +12,15 @@ crumbs:
 - name: "Gow"
   url: "/tartans/g/go/gow/"
 - name: "Gow (Portrait)"
-  url: "/setts/r5dp5r1g5r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5dp5r1g5r5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRBRBRGR](/stripes/grbrbrgr/).
+provenance below. It is one weaving of the [sett](/tartans/g/go/gow/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRGR](/stripes/rbrgr/).
 
 Part of the [Gow](/tartans/g/go/gow/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1473](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1473)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1390
 
 ## Thread count
-R/40 G40 R8 DP40 R40 DP40 R8 G/40
+R/40 DP40 R8 G40 R/40
 
-One full sett is **432 threads**.
+One full sett is **256 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/40 G40 R8 DP40 R40 DP40 R8 G/40 — 432 threads; it folds to the canonical 256-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **432 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/40 G40 R8 DP40 R40 DP40 R8 G/40 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/40 DP40 R8 G40 R/40 tartan" width="880" height="480">
 
 ## Compared to the master
 

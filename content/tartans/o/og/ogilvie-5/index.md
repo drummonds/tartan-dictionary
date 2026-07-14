@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/ogilvie/"
 - name: "Ogilvie"
   url: "/families/ogilvie/"
+aliases:
+- "/setts/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgkrkrwkwrwkwrkrkgbwbgkrwrwrkgbgkrkr/">GBGKRKRWKWRWKWRKRKGBWBGKRWRWRKGBGKRKR</a></nav>
 A tartan of the [Ogilvie](/families/ogilvie/) family.
 Its design is pattern [GBGKRKRWKWRWKWRKRKGBWBGKRWRWRKGBGKRKR](/stripes/gbgkrkrwkwrwkwrkrkgbwbgkrwrwrkgbgkrkr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Ogilvie 5** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/">Ogilvie 5</a></td><td><code>R/6 K6 R6 K6 Y7 DB7 Y7 K8 R6 W5 R6 W5 R6 K8 Y8 DB8 W7 DB7 Y7 K8 R8 K8 R15 W2 K2 W2 R14 W2 K2 W2 R14 K8 R8 K8 Y6 DB6 Y/6</code></td><td>482</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/"><img src="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/sett.png" alt="Ogilvie 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/">Ogilvie 5</a></td><td><code>R/6 K6 R6 K6 Y7 DB7 Y7 K8 R6 W5 R6 W5 R6 K8 Y8 DB8 W7 DB7 Y7 K8 R8 K8 R15 W2 K2 W2 R14 W2 K2 W2 R14 K8 R8 K8 Y6 DB6 Y/6</code></td><td>482</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/"><img src="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/sett.png" alt="Ogilvie 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s36/db6k2db6y4k2r3y2r3w2r3k2y2db3w2db3y2k2r3w2r3k2y2db6k2db6k2db6y2k2r3w2r3w2r3k6w1~x2/"><circle cx="16.2" cy="157.2" r="4" fill="#3465a4"><title>Ogilvie</title></circle></a><a href="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/"><circle cx="14.0" cy="136.1" r="4" fill="#3465a4"><title>Ogilvy or Drummond of Strathallen</title></circle></a><a href="/variants/s34/db3lb2r12k2r2db2lo2o6lb2o6lo2k3r6lb2r6lb2r6k3lo4o6lo4k2r2k2r2k2r2k2lo2o6lo2db2lo2db2~x2~db1406275-o2500000/"><circle cx="22.1" cy="132.2" r="4" fill="#3465a4"><title>Ogilvie</title></circle></a><a href="/variants/s36/lb6y1k1r1k1r1k1r1k1y4lb3y4k3r3w1r3w1r3k3y1lb3w1lb3y1db1r1k1r4w1db1w1r4w1db1w1r4~x4/"><circle cx="14.7" cy="123.7" r="4" fill="#3465a4"><title>Ogilvie 3</title></circle></a><a href="/variants/s36/db5k1db5y2k1r3w1r3w1r3k1y1db3w1db3y1k1r3w1r3w1r3k1y1db5k1db5k1db5y1k1r3w1r3w1r3~x4/"><circle cx="72.7" cy="144.5" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><circle cx="27.0" cy="147.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s36/db6k2db6y4k2r3y2r3w2r3k2y2db3w2db3y2k2r3w2r3k2y2db6k2db6k2db6y2k2r3w2r3w2r3k6w1~x2/"><circle cx="16.3" cy="156.7" r="4" fill="#3465a4"><title>Ogilvie</title></circle></a><a href="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/"><circle cx="14.0" cy="135.6" r="4" fill="#3465a4"><title>Ogilvy or Drummond of Strathallen</title></circle></a><a href="/variants/s34/db3lb2r12k2r2db2lo2o6lb2o6lo2k3r6lb2r6lb2r6k3lo4o6lo4k2r2k2r2k2r2k2lo2o6lo2db2lo2db2~x2~db1406275-o2500000/"><circle cx="22.2" cy="131.7" r="4" fill="#3465a4"><title>Ogilvie</title></circle></a><a href="/variants/s36/lb6y1k1r1k1r1k1r1k1y4lb3y4k3r3w1r3w1r3k3y1lb3w1lb3y1db1r1k1r4w1db1w1r4w1db1w1r4~x4/"><circle cx="14.8" cy="123.1" r="4" fill="#3465a4"><title>Ogilvie 3</title></circle></a><a href="/variants/s36/db5k1db5y2k1r3w1r3w1r3k1y1db3w1db3y1k1r3w1r3w1r3k1y1db5k1db5k1db5y1k1r3w1r3w1r3~x4/"><circle cx="73.0" cy="144.1" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><circle cx="27.1" cy="147.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

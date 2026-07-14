@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/">National Wedding</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/"><img src="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/sett.png" alt="National Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/national-wedding/">National Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/national-wedding/"><img src="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/sett.png" alt="National Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

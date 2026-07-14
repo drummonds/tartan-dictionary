@@ -8,15 +8,15 @@ crumbs:
 - name: "Gyle"
   url: "/tartans/g/gy/gyle/"
 - name: "Gyle"
-  url: "/setts/lb8dg1dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb8dg1dr2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGWG](/stripes/bgwg/).
+provenance below. It is one weaving of the [sett](/tartans/g/gy/gyle/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGW](/stripes/bgw/).
 
 Part of the [Gyle](/tartans/g/gy/gyle/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1565](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1565)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1565](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/08/1999 — Gyle (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1565">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>The Gyle is a large modern shopping center on the western outskirsts of Edinburgh. This design was created by 8 year old Heather Nisbet.</em></li>
-<li>1999 — Gyle (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2692">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>The Gyle is a large modern shopping center on the western outskirts of Edinburgh. This design was created by 8 year old Heather Nisbet.</em></li>
+<li>1999 — Gyle (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2692/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>The Gyle is a large modern shopping center on the western outskirts of Edinburgh. This design was created by 8 year old Heather Nisbet.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2692
 
 ## Thread count
-DR/40 DG20 LB160 DG/20
+LB/160 DG20 DR/40
 
-One full sett is **420 threads**.
+One full sett is **240 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/40 DG20 LB160 DG/20 — 420 threads; it folds to the canonical 240-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **420 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/40 DG20 LB160 DG/20 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/160 DG20 DR/40 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

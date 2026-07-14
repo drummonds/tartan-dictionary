@@ -8,10 +8,10 @@ crumbs:
 - name: "Evergreen"
   url: "/tartans/e/ev/evergreen/"
 - name: "Evergreen"
-  url: "/setts/w2n30ly10w1ly10n1g10n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2n30ly10w1ly10n1g10n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ev/evergreen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBYWYBW](/stripes/bgbywybw/).
 
 Part of the [Evergreen](/tartans/e/ev/evergreen/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1140](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1978 — Evergreen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1140">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C3C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3C3C3C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A88C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A88C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#848870;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #848870"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1978 — Evergreen (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4830">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C3C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3C3C3C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A88C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A88C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#848870;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #848870"></span><br><em>Sample in STA's Johnston Collection.</em></li>
+<li>pre 1978 — Evergreen (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4830/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C3C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3C3C3C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A88C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A88C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#848870;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #848870"></span><br><em>Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

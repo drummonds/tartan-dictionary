@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2~x2/">Murtaugh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2~x2/"><img src="/variants/s21/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2~x2/sett.png" alt="Murtaugh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murtaugh/">Murtaugh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murtaugh/"><img src="/variants/s21/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2~x2/sett.png" alt="Murtaugh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

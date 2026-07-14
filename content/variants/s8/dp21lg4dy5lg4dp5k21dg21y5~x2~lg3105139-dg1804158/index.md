@@ -10,10 +10,10 @@ crumbs:
 - name: "Caledonian Labrador Retrievers"
   url: "/tartans/c/ca/caledonian-labrador-retrievers-2/"
 - name: "Caledonian Labrador Retrievers"
-  url: "/setts/dp21lg4dy5lg4dp5k21dg21y5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp21lg4dy5lg4dp5k21dg21y5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/caledonian-labrador-retrievers-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGYBKGG](/stripes/bygybkgg/).
 
 Part of the [Caledonian Labrador Retrievers](/tartans/c/ca/caledonian-labrador-retrievers-2/) tartan — the named design grouping this sett with its other cloths.

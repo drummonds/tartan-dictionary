@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/taplin/"
 - name: "Taplin"
   url: "/families/taplin/"
+aliases:
+- "/setts/r52k2r5y3r5k5r5g3r5k2r52/"
+- "/setts/r52k2r5g3r5k5r5ly3r5k2r52/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkrgrkrgrkr/">RKRGRKRGRKR</a></nav>
 A tartan of the [Taplin](/families/taplin/) family.
 Its design is pattern [RKRGRKRGRKR](/stripes/rkrgrkrgrkr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Taplin** tartan groups 2 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r52k2r5y3r5k5r5g3r5k2r52/">Taplin</a> ★</td><td><code>R/104 K4 R10 Y6 R10 K10 R10 G6 R10 K4 R/104</code></td><td>348</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r52k2r5y3r5k5r5g3r5k2r52/"><img src="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/sett.png" alt="Taplin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r52k2r5g3r5k5r5ly3r5k2r52/">(Name)</a></td><td><code>R/104 K4 R10 LY6 R10 K10 R10 G6 R10 K4 R/104</code></td><td>348</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r52k2r5g3r5k5r5ly3r5k2r52/"><img src="r52k2r5g3r5k5r5ly3r5k2r52-rev.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/">Taplin</a> ★</td><td><code>R/104 K4 R10 Y6 R10 K10 R10 G6 R10 K4 R/104</code></td><td>348</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/"><img src="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/sett.png" alt="Taplin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r52k2r5g3r5k5r5ly3r5k2r52~x2/">(Name)</a></td><td><code>R/104 K4 R10 G6 R10 K10 R10 LY6 R10 K4 R/104</code></td><td>348</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r52k2r5g3r5k5r5ly3r5k2r52~x2/"><img src="r52k2r5g3r5k5r5ly3r5k2r52-rev.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/r8g4r30lb6r2k1r2g6r8k1r4ly2~x2/"><circle cx="430.0" cy="73.7" r="4" fill="#3465a4"><title>Highland Queen</title></circle></a><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><circle cx="383.8" cy="47.9" r="4" fill="#3465a4"><title>Manchester Reds</title></circle></a><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"><circle cx="482.1" cy="86.1" r="4" fill="#3465a4"><title>MacPherson-Grant</title></circle></a><a href="/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/"><circle cx="382.6" cy="150.4" r="4" fill="#3465a4"><title>MacDonell of Keppach</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="98.2" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="511.5" cy="22.3" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="532.6" cy="47.6" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="530.3" cy="50.5" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><circle cx="601.3" cy="67.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/r8g4r30lb6r2k1r2g6r8k1r4ly2~x2/"><circle cx="431.2" cy="73.9" r="4" fill="#3465a4"><title>Highland Queen</title></circle></a><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><circle cx="385.1" cy="47.9" r="4" fill="#3465a4"><title>Manchester Reds</title></circle></a><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"><circle cx="483.5" cy="86.4" r="4" fill="#3465a4"><title>MacPherson-Grant</title></circle></a><a href="/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/"><circle cx="383.7" cy="150.6" r="4" fill="#3465a4"><title>MacDonell of Keppach</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="98.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="513.2" cy="22.5" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="534.3" cy="48.0" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="532.0" cy="50.8" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><circle cx="603.1" cy="67.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Purple Rain"
   url: "/tartans/p/pu/purple-rain/"
 - name: "Purple Rain"
-  url: "/setts/dp4n2dp24k1n8dp2n1dp2n4dp2n1dp2n16w2n1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4n2dp24k1n8dp2n1dp2n4dp2n1dp2n16w2n1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pu/purple-rain/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBBBBBBBBBWBW](/stripes/bbbkbbbbbbbbbwbw/).
 
 Part of the [Purple Rain](/tartans/p/pu/purple-rain/) tartan — the named design grouping this sett with its other cloths.

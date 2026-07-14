@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/">Delta Lambda Phi (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/"><img src="/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/sett.png" alt="Delta Lambda Phi (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/delta-lambda-phi/">Delta Lambda Phi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/delta-lambda-phi/"><img src="/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/sett.png" alt="Delta Lambda Phi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

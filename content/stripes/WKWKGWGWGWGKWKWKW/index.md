@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/lb15k2lb2k2lb2k14g12w2g4lb4g4w2g12k14lb15k2lb2~x2/">Arbuthnott (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/lb15k2lb2k2lb2k14g12w2g4lb4g4w2g12k14lb15k2lb2~x2/"><img src="/variants/s17/lb15k2lb2k2lb2k14g12w2g4lb4g4w2g12k14lb15k2lb2~x2/sett.png" alt="Arbuthnott (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arbuthnott/">Arbuthnott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arbuthnott/"><img src="/variants/s17/lb15k2lb2k2lb2k14g12w2g4lb4g4w2g12k14lb15k2lb2~x2/sett.png" alt="Arbuthnott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

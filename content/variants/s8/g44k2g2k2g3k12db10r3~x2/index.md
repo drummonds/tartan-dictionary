@@ -8,10 +8,10 @@ crumbs:
 - name: "Celtic Corporate Sport"
   url: "/tartans/c/ce/celtic-corporate-sport/"
 - name: "Celtic (New) Corporate Sport Tartan"
-  url: "/setts/g44k2g2k2g3k12db10r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g44k2g2k2g3k12db10r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ce/celtic-corporate-sport/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKBR](/stripes/gkgkgkbr/).
 
 Part of the [Celtic Corporate Sport](/tartans/c/ce/celtic-corporate-sport/) tartan — the named design grouping this sett with its other cloths.

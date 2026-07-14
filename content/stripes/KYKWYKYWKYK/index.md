@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/">Oregon State University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><img src="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/sett.png" alt="Oregon State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/oregon-state-university/">Oregon State University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/oregon-state-university/"><img src="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/sett.png" alt="Oregon State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

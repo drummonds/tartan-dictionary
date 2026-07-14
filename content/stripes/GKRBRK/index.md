@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g21k21r1db20r20k2~x2/">Skene of Cromar (Cant version)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g21k21r1db20r20k2~x2/"><img src="/variants/s6/g21k21r1db20r20k2~x2/sett.png" alt="Skene of Cromar (Cant version) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skene-of-cromar/">Skene of Cromar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skene-of-cromar/"><img src="/variants/s6/g21k21r1db20r20k2~x2/sett.png" alt="Skene of Cromar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

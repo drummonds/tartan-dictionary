@@ -8,15 +8,15 @@ crumbs:
 - name: "Cork, County"
   url: "/tartans/c/co/cork-county/"
 - name: "Cork, County"
-  url: "/setts/dg28dr12dg4k20ly2k3ly2k3dg7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg28dr12dg4k20ly2k3ly2k3dg7/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGKYKYKGKYKYKGBG](/stripes/bgkykykgkykykgbg/).
+provenance below. It is one weaving of the [sett](/tartans/c/co/cork-county/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGKYKYKG](/stripes/gbgkykykg/).
 
 Part of the [Cork, County](/tartans/c/co/cork-county/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=760](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=760)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2253
 
 ## Thread count
-DG/56 DR24 DG8 K40 LY4 K6 LY4 K6 DG14 K6 LY4 K6 LY4 K40 DG8 DR/24
+DG/56 DR24 DG8 K40 LY4 K6 LY4 K6 DG/14
 
-One full sett is **428 threads**.
+One full sett is **254 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/56 DR24 DG8 K40 LY4 K6 LY4 K6 DG14 K6 LY4 K6 LY4 K40 DG8 DR/24 — 428 threads; it folds to the canonical 254-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **428 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/56 DR24 DG8 K40 LY4 K6 LY4 K6 DG14 K6 LY4 K6 LY4 K40 DG8 DR/24 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/56 DR24 DG8 K40 LY4 K6 LY4 K6 DG/14 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

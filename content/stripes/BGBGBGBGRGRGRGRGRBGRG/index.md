@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4~x4/">Matheson Hunting (Highland Society of London)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4~x4/"><img src="/variants/s21/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4~x4/sett.png" alt="Matheson Hunting (Highland Society of London) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/matheson-hunting/">Matheson Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/matheson-hunting/"><img src="/variants/s21/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4~x4/sett.png" alt="Matheson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

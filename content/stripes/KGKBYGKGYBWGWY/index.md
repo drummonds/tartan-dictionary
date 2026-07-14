@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/">Scottish Wildcat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/"><img src="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/sett.png" alt="Scottish Wildcat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-wildcat-2/">Scottish Wildcat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-wildcat-2/"><img src="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/sett.png" alt="Scottish Wildcat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

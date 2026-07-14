@@ -8,10 +8,10 @@ crumbs:
 - name: "Antigua & Barbuda"
   url: "/tartans/a/an/antigua-barbuda/"
 - name: "Antigua & Barbuda"
-  url: "/setts/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/antigua-barbuda/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGYGYGYGYGYGYR](/stripes/rgygygygygygyr/).
 
 Part of the [Antigua & Barbuda](/tartans/a/an/antigua-barbuda/) tartan — the named design grouping this sett with its other cloths.

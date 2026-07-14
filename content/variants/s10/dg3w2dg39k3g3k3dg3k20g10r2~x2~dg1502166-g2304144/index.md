@@ -8,10 +8,10 @@ crumbs:
 - name: "Zorra Caledonian Society"
   url: "/tartans/z/zo/zorra-caledonian-society/"
 - name: "Zorra Caledonian Society"
-  url: "/setts/dg3w2dg39k3g3k3dg3k20g10r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg3w2dg39k3g3k3dg3k20g10r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/z/zo/zorra-caledonian-society/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKGKGKGR](/stripes/gwgkgkgkgr/).
 
 Part of the [Zorra Caledonian Society](/tartans/z/zo/zorra-caledonian-society/) tartan — the named design grouping this sett with its other cloths.

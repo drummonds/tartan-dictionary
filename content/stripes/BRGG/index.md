@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/y30g30r1db16~x2/">Barber Family 2011 (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/y30g30r1db16~x2/"><img src="/variants/s4/y30g30r1db16~x2/sett.png" alt="Barber Family 2011 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barber-family-2011/">Barber Family 2011</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barber-family-2011/"><img src="/variants/s4/y30g30r1db16~x2/sett.png" alt="Barber Family 2011 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/db62r24y5g3~x2/">Meaux, Luc G (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db62r24y5g3~x2/"><img src="/variants/s4/db62r24y5g3~x2/sett.png" alt="Meaux, Luc G (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/meaux-luc-g/">Meaux, Luc G</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meaux-luc-g/"><img src="/variants/s4/db62r24y5g3~x2/sett.png" alt="Meaux, Luc G sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/">Royal Dornoch Golf Club, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/"><img src="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/sett.png" alt="Royal Dornoch Golf Club, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-dornoch-golf-club-the/">Royal Dornoch Golf Club, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-dornoch-golf-club-the/"><img src="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/sett.png" alt="Royal Dornoch Golf Club, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

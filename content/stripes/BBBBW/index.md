@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db24t13db4t4w2~x2/">Gallaecia - Galicia National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db24t13db4t4w2~x2/"><img src="/variants/s5/db24t13db4t4w2~x2/sett.png" alt="Gallaecia - Galicia National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gallaecia/">Gallaecia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gallaecia/"><img src="/variants/s5/db24t13db4t4w2~x2/sett.png" alt="Gallaecia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/dp15dt5dp15dt21w2~x2/">Highland Spirit (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><img src="/variants/s5/dp15dt5dp15dt21w2~x2/sett.png" alt="Highland Spirit (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-spirit-2/">Highland Spirit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-spirit-2/"><img src="/variants/s5/dp15dt5dp15dt21w2~x2/sett.png" alt="Highland Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/n16dr2n10dr14lb5~x2/">Mowbray (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/n16dr2n10dr14lb5~x2/"><img src="/variants/s5/n16dr2n10dr14lb5~x2/sett.png" alt="Mowbray (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/mowbray/">Mowbray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/mowbray/"><img src="/variants/s5/n16dr2n10dr14lb5~x2/sett.png" alt="Mowbray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

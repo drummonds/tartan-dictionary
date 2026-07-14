@@ -8,10 +8,10 @@ crumbs:
 - name: "Emond, Kenneth"
   url: "/tartans/e/em/emond-kenneth/"
 - name: "Emond, Kenneth (Personal)"
-  url: "/setts/db36t21y4n12dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db36t21y4n12dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/em/emond-kenneth/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBB](/stripes/bbgbb/).
 
 Part of the [Emond, Kenneth](/tartans/e/em/emond-kenneth/) tartan — the named design grouping this sett with its other cloths.

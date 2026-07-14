@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb30t1lb1t16g5r5ly2t2dy15t1~x2~ly3307090-dy1603076/">Lyon, Jeffrey M (Hunting) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb30t1lb1t16g5r5ly2t2dy15t1~x2~ly3307090-dy1603076/"><img src="/variants/s10/lb30t1lb1t16g5r5ly2t2dy15t1~x2~ly3307090-dy1603076/sett.png" alt="Lyon, Jeffrey M (Hunting) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ly/lyon-jeffrey-m-2/">Lyon, Jeffrey M</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ly/lyon-jeffrey-m-2/"><img src="/variants/s10/lb30t1lb1t16g5r5ly2t2dy15t1~x2~ly3307090-dy1603076/sett.png" alt="Lyon, Jeffrey M sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

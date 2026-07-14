@@ -8,10 +8,10 @@ crumbs:
 - name: "Crookstoun, James"
   url: "/tartans/c/cr/crookstoun-james/"
 - name: "Crookstoun, James (West Lothian) (Personal)"
-  url: "/setts/b53w27r5k19y1g11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b53w27r5k19y1g11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crookstoun-james/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRKGG](/stripes/bwrkgg/).
 
 Part of the [Crookstoun, James](/tartans/c/cr/crookstoun-james/) tartan — the named design grouping this sett with its other cloths.

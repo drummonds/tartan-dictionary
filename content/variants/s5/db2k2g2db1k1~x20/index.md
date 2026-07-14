@@ -8,10 +8,10 @@ crumbs:
 - name: "Wandering Shepherd"
   url: "/tartans/w/wa/wandering-shepherd/"
 - name: "Shepherd, Derek (Wandering)"
-  url: "/setts/db2k2g2db1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2k2g2db1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/wandering-shepherd/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBK](/stripes/bkgbk/).
 
 Part of the [Wandering Shepherd](/tartans/w/wa/wandering-shepherd/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10169](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>17/02/2010 — Shepherd, Derek (Wandering) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10169">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#7AA9DD;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #7AA9DD"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0A0A0A;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #0A0A0A"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008040"></span><br><em>Derek Shepherd collecton.</em></li>
-<li>17th Feb. 2010 — Wandering Shepherd (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10169">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Apparently this tartan was created "in memory of the time spent wandering on cold rainy summer days."</em></li>
+<li>17th Feb. 2010 — Wandering Shepherd (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10169/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Apparently this tartan was created "in memory of the time spent wandering on cold rainy summer days."</em></li>
 </ul>
 </details>
 

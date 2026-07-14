@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k3w7g3k16g17w1g8k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgwgkgwk/">KGWGKGWK</a></nav>
 Its design is pattern [KGWGKGWK](/stripes/kgwgkgwk/) — the page of every tartan sharing this colour sequence.
 
 The **Utah Valley University** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Utah Valley University** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3w7g3k16g17w1g8k1/">Utah Valley University</a></td><td><code>K/6 W14 G6 K32 G34 W2 G16 K/2</code></td><td>216</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3w7g3k16g17w1g8k1/"><img src="/variants/s8/k3w7g3k16g17w1g8k1~x2/sett.png" alt="Utah Valley University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/">Utah Valley University</a></td><td><code>K/6 W14 G6 K32 G34 W2 G16 K/2</code></td><td>216</td><td>2016</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/"><img src="/variants/s8/k3w7g3k16g17w1g8k1~x2/sett.png" alt="Utah Valley University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="224.0" cy="179.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s8/dy2g1k1g26k11db6k1g2~x2/"><circle cx="312.6" cy="111.5" r="4" fill="#3465a4"><title>Mackie</title></circle></a><a href="/variants/s8/g6k16w1k16g8k4g12r2~x2/"><circle cx="260.9" cy="163.9" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/variants/s11/r2w1g18k12g1k3w1r2w1k2g2~x2/"><circle cx="228.2" cy="106.6" r="4" fill="#3465a4"><title>McKirgan</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="305.9" cy="150.5" r="4" fill="#3465a4"><title>Instakilt</title></circle></a><a href="/variants/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="307.4" cy="151.9" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><a href="/variants/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="295.8" cy="156.0" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/variants/s7/k2r7k6g12y1g1k2~x4/"><circle cx="179.8" cy="165.7" r="4" fill="#3465a4"><title>Blackstock Hunting</title></circle></a><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><circle cx="239.1" cy="183.9" r="4" fill="#3465a4"><title>Letham</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="258.2" cy="152.7" r="4" fill="#3465a4"><title>Page</title></circle></a><circle cx="235.1" cy="159.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="224.7" cy="179.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s8/dy2g1k1g26k11db6k1g2~x2/"><circle cx="313.5" cy="111.7" r="4" fill="#3465a4"><title>Mackie</title></circle></a><a href="/variants/s8/g6k16w1k16g8k4g12r2~x2/"><circle cx="261.7" cy="163.9" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/variants/s11/r2w1g18k12g1k3w1r2w1k2g2~x2/"><circle cx="229.0" cy="106.6" r="4" fill="#3465a4"><title>McKirgan</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="306.8" cy="150.6" r="4" fill="#3465a4"><title>Instakilt</title></circle></a><a href="/variants/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="308.3" cy="152.1" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><a href="/variants/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="296.6" cy="156.1" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/variants/s7/k2r7k6g12y1g1k2~x4/"><circle cx="180.4" cy="165.6" r="4" fill="#3465a4"><title>Blackstock Hunting</title></circle></a><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><circle cx="239.7" cy="183.9" r="4" fill="#3465a4"><title>Letham</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="258.9" cy="152.7" r="4" fill="#3465a4"><title>Page</title></circle></a><circle cx="235.8" cy="159.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

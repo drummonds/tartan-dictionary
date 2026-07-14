@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/">Crieff Red Dress (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/"><img src="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/sett.png" alt="Crieff Red Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crieff-red-dress/">Crieff Red Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crieff-red-dress/"><img src="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/sett.png" alt="Crieff Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

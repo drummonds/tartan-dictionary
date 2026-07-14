@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/tennant/"
 - name: "Tennant"
   url: "/families/tennant/"
+aliases:
+- "/setts/r1do7db7k7g7do7r1/"
+- "/setts/r1do7g7k7t7do7r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbbkgbr/">RBBKGBR</a></nav>
 A tartan of the [Tennant](/families/tennant/) family.
 Its design is pattern [RBBKGBR](/stripes/rbbkgbr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Tennant** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r1do7db7k7g7do7r1/">Tennant</a> ★</td><td><code>R/4 DO28 G28 K28 DB28 DO28 R/4</code></td><td>288</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1do7db7k7g7do7r1/"><img src="/variants/s7/r1do7db7k7g7do7r1~x4/sett.png" alt="Tennant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r1do7g7k7t7do7r1/">(Clan)</a></td><td><code>R/4 DO28 G28 K28 T28 DO28 R/4</code></td><td>288</td><td>~1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1do7g7k7t7do7r1/"><img src="/variants/s7/r1do7g7k7t7do7r1~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r1do7db7k7g7do7r1~x4/">Tennant</a> ★</td><td><code>R/4 DO28 DB28 K28 G28 DO28 R/4</code></td><td>288</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r1do7db7k7g7do7r1~x4/"><img src="/variants/s7/r1do7db7k7g7do7r1~x4/sett.png" alt="Tennant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r1do7g7k7t7do7r1~x4/">(Clan)</a></td><td><code>R/4 DO28 G28 K28 T28 DO28 R/4</code></td><td>288</td><td>~1930</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r1do7g7k7t7do7r1~x4/"><img src="/variants/s7/r1do7g7k7t7do7r1~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="144.0" cy="219.9" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/"><circle cx="145.7" cy="270.1" r="4" fill="#3465a4"><title>Wcwm 1310</title></circle></a><a href="/variants/s6/dr2k1db6k2g6o2~x4/"><circle cx="101.3" cy="229.9" r="4" fill="#3465a4"><title>MacEachain</title></circle></a><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="100.1" cy="240.4" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s7/r1dy7g7k7t7dy7r1~x4/"><circle cx="114.2" cy="232.8" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="173.0" cy="234.4" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="112.4" cy="229.4" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s8/y8g4db16g4k14y14db4t3~x2/"><circle cx="90.5" cy="223.9" r="4" fill="#3465a4"><title>Hinnigan</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.3" cy="216.0" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="128.6" cy="259.9" r="4" fill="#3465a4"><title>Isle of Gigha</title></circle></a><circle cx="128.0" cy="234.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="144.2" cy="219.8" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/"><circle cx="145.8" cy="269.9" r="4" fill="#3465a4"><title>Wcwm 1310</title></circle></a><a href="/variants/s6/dr2k1db6k2g6o2~x4/"><circle cx="101.4" cy="229.7" r="4" fill="#3465a4"><title>MacEachain</title></circle></a><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="100.2" cy="240.1" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s7/r1dy7g7k7t7dy7r1~x4/"><circle cx="114.3" cy="232.6" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="173.2" cy="234.3" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="112.6" cy="229.2" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s8/y8g4db16g4k14y14db4t3~x2/"><circle cx="90.5" cy="223.7" r="4" fill="#3465a4"><title>Hinnigan</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.6" cy="215.9" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="128.7" cy="259.8" r="4" fill="#3465a4"><title>Isle of Gigha</title></circle></a><circle cx="128.1" cy="234.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

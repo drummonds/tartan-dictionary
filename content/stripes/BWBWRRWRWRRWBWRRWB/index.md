@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6~n1900000-o2500000/">Miyuki #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6~n1900000-o2500000/"><img src="/variants/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6~n1900000-o2500000/sett.png" alt="Miyuki #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s18/n12lb14r3ri6lb10n28lb10ri6r3lb8ri10lb8r3ri6lb40n6lb6n6~n1900000-ri2109032/">Miyuki #3 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/n12lb14r3ri6lb10n28lb10ri6r3lb8ri10lb8r3ri6lb40n6lb6n6~n1900000-ri2109032/"><img src="/variants/s18/n12lb14r3ri6lb10n28lb10ri6r3lb8ri10lb8r3ri6lb40n6lb6n6~n1900000-ri2109032/sett.png" alt="Miyuki #3 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/miyuki-2/">Miyuki</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/miyuki-2/"><img src="/variants/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6~n1900000-o2500000/sett.png" alt="Miyuki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2w8k14dy25w2k2w2~x2/">Merric Dark Camel.. Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2w8k14dy25w2k2w2~x2/"><img src="/variants/s7/r2w8k14dy25w2k2w2~x2/sett.png" alt="Merric Dark Camel.. Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/merric-dark-camel/">Merric Dark Camel..</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/merric-dark-camel/"><img src="/variants/s7/r2w8k14dy25w2k2w2~x2/sett.png" alt="Merric Dark Camel.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

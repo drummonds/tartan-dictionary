@@ -34,22 +34,22 @@ A family of [Clan MacPherson](/clan/macpherson/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-10/"><img src="/variants/s15/r6db2r6g10y1k10db6k1db2k1db6r6w2k2r2~x2/sett.png" alt="MacPherson 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macpherson/">MacPherson</a></td><td>1831</td><td>1</td><td>1</td><td>5.94</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson/"><img src="r2k2w2r22t8k2t2k2t8k12ly2g16r22t4r22t4r22g16ly2k12t8k2t2k2t8r22w1k1r1-rev.png" alt="MacPherson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macpherson-dress-4/">MacPherson Dress</a></td><td>~2003</td><td>1</td><td>1</td><td>6.58</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-4/"><img src="/variants/s15/w13db3w13g10y2k7db5k2db2k2db5r8w2k2r2~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-dress-3/">MacPherson Dress</a></td><td>~2003</td><td>1</td><td>1</td><td>6.58</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-3/"><img src="/variants/s15/w13db3w13g10y2k7db5k2db2k2db5r8w2k2r2~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macpherson-3/">MacPherson 3</a></td><td>—</td><td>1</td><td>1</td><td>6.58</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-3/"><img src="/variants/s9/r1lb1k11lb1r1lb1w11lb1r1~x2/sett.png" alt="MacPherson 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macpherson-hunting/">MacPherson Hunting</a></td><td>1850</td><td>4</td><td>6</td><td>6.84</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-hunting/"><img src="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/sett.png" alt="MacPherson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macpherson-dress-6/">MacPherson Dress</a></td><td>1980</td><td>3</td><td>3</td><td>7.19</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-6/"><img src="/variants/s7/w4dr2w25r21w3r8y3~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-dress-5/">MacPherson Dress</a></td><td>1980</td><td>3</td><td>3</td><td>7.19</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-5/"><img src="/variants/s7/w4dr2w25r21w3r8y3~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macpherson-dress-2/">MacPherson Dress</a></td><td>1980</td><td>1</td><td>1</td><td>8.32</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-2/"><img src="/variants/s7/w5k3w31dp26w4dp10lb4~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macpherson-3/">MacPherson</a></td><td>1829</td><td>1</td><td>1</td><td>8.50</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-3/"><img src="dy1k4w2k11w17r2w1-rev.png" alt="MacPherson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macpherson-dress-5/">MacPherson Dress</a></td><td>1980</td><td>4</td><td>4</td><td>8.86</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-5/"><img src="/variants/s7/w5r3w26g20w3g8y3~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macpherson-dress-3/">MacPherson Dress</a></td><td>1842</td><td>4</td><td>5</td><td>9.26</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-3/"><img src="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-dress-4/">MacPherson Dress</a></td><td>1980</td><td>4</td><td>4</td><td>8.86</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-4/"><img src="/variants/s7/w5r3w26g20w3g8y3~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-dress-6/">MacPherson Dress</a></td><td>1842</td><td>4</td><td>5</td><td>9.26</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-6/"><img src="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macpherson-8/">MacPherson 8</a></td><td>—</td><td>1</td><td>1</td><td>9.40</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macpherson-8/"><img src="/variants/s6/r1w14k6w1k3y1~x4/sett.png" alt="MacPherson 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macpherson-2/">MacPherson</a></td><td>1800</td><td>1</td><td>1</td><td>9.47</td></tr>

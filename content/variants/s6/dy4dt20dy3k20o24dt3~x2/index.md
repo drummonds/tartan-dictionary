@@ -10,10 +10,10 @@ crumbs:
 - name: "Edinburgh Int.Conf. Centre"
   url: "/tartans/e/ed/edinburgh-int-conf-centre/"
 - name: "Edinburgh International Conference Centre, The"
-  url: "/setts/dy4dt20dy3k20o24dt3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy4dt20dy3k20o24dt3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-int-conf-centre/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKGBG](/stripes/brkgbg/).
 
 Part of the [Edinburgh Int.Conf. Centre](/tartans/e/ed/edinburgh-int-conf-centre/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1080](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Edinburgh International Conference Centre, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1080">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98481C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ST #98481C"></span><br><em>Designed for uniforms and gifts for the Edinburgh International Conference Centre in Morrison Street. It is based on the Morrison tartan.</em></li>
-<li>pre1996 — Edinburgh Int.Conf. Centre (Corp.) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2213">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98481C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ST #98481C"></span><br><em>Designed by Kinloch Anderson Ltd for uniforms and gifts for the Centre in Morrison Street hence, it is based on the Morrison tartan.</em></li>
+<li>pre1996 — Edinburgh Int.Conf. Centre (Corp.) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2213/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98481C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ST #98481C"></span><br><em>Designed by Kinloch Anderson Ltd for uniforms and gifts for the Centre in Morrison Street hence, it is based on the Morrison tartan.</em></li>
 </ul>
 </details>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Suffolk County Police"
   url: "/tartans/s/su/suffolk-county-police/"
 - name: "Suffolk County Police"
-  url: "/setts/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/su/suffolk-county-police/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKWBKBWBKBWKGKB](/stripes/bkgkwbkbwbkbwkgkb/).
 
 Part of the [Suffolk County Police](/tartans/s/su/suffolk-county-police/) tartan — the named design grouping this sett with its other cloths.

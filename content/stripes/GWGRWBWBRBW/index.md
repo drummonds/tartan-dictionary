@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/">Schuster (Perosnal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/"><img src="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/sett.png" alt="Schuster (Perosnal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/schuster/">Schuster</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/schuster/"><img src="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/sett.png" alt="Schuster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

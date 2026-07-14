@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/">West Virginia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/"><img src="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/sett.png" alt="West Virginia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/west-virginia/">West Virginia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/west-virginia/"><img src="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/sett.png" alt="West Virginia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

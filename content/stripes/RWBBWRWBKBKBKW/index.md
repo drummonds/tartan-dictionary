@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/">Russian Arctic Convoy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/"><img src="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/sett.png" alt="Russian Arctic Convoy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/russian-arctic-convoy/">Russian Arctic Convoy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/russian-arctic-convoy/"><img src="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/sett.png" alt="Russian Arctic Convoy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

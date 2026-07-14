@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/">MIT1951</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/"><img src="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/sett.png" alt="MIT1951 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mit1951/">MIT1951</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mit1951/"><img src="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/sett.png" alt="MIT1951 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

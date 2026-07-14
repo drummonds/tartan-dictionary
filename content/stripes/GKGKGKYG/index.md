@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/">Aberdeen-Angus Cattle Society (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/"><img src="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/sett.png" alt="Aberdeen-Angus Cattle Society (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberdeen-angus-cattle-society/">Aberdeen-Angus Cattle Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen-angus-cattle-society/"><img src="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/sett.png" alt="Aberdeen-Angus Cattle Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

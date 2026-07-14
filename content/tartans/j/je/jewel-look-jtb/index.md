@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/"
 ---
-Its design is pattern [GBGBGBRRBRWRBGBRWRBRRBGBGBGG](/stripes/gbgbgbrrbrwrbgbrwrbrrbgbgbgg/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbrwrbrrbgbgbgg/">GBRWRBRRBGBGBGG</a></nav>
+Its design is pattern [GBRWRBRRBGBGBGG](/stripes/gbrwrbrrbgbgbgg/) — the page of every tartan sharing this colour sequence.
 
 The **Jewel Look JTB** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/">Jewel Look JTB</a></td><td><code>Y/4 G2 N4 G20 N2 G2 N4 O21 R6 N4 R4 W3 R4 N2 G4 N2 R4 W3 R4 N4 R6 O21 N4 G2 N2 G20 N4 G/2</code></td><td>164</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/"><img src="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/sett.png" alt="Jewel Look JTB sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/">Jewel Look JTB</a></td><td><code>Y/4 G2 N4 G20 N2 G2 N4 O21 R6 N4 R4 W3 R4 N2 G/4</code></td><td>164</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/"><img src="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/sett.png" alt="Jewel Look JTB sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s15/lg2y1g2dg8g8o9g3y2r1o1r1o1r1o1r1~x2/"><circle cx="172.4" cy="186.2" r="4" fill="#3465a4"><title>Dixon, Clyde</title></circle></a><a href="/variants/s19/dg3dr2o2dr2n20b3n3dr8dg2dr2dg2dr2dg8o2dg2o2dg2o8ly3~x2/"><circle cx="187.6" cy="176.1" r="4" fill="#3465a4"><title>Wcwm 1528</title></circle></a><a href="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/"><circle cx="261.6" cy="181.4" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/"><circle cx="249.9" cy="166.1" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/variants/s12/g9b3g4o3g3o4g3dg11oi30b3oi4g3~x2~o2102055-oi2104058/"><circle cx="308.3" cy="214.8" r="4" fill="#3465a4"><title>Harmony 5</title></circle></a><a href="/variants/s12/dg4n2dg8do8y2n8y16k2do5n2y5ly2~x2/"><circle cx="171.5" cy="206.9" r="4" fill="#3465a4"><title>Blaylock Hunting</title></circle></a><circle cx="209.1" cy="190.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s15/lg2y1g2dg8g8o9g3y2r1o1r1o1r1o1r1~x2/"><circle cx="172.3" cy="186.0" r="4" fill="#3465a4"><title>Dixon, Clyde</title></circle></a><a href="/variants/s19/dg3dr2o2dr2n20b3n3dr8dg2dr2dg2dr2dg8o2dg2o2dg2o8ly3~x2/"><circle cx="187.5" cy="175.9" r="4" fill="#3465a4"><title>Wcwm 1528</title></circle></a><a href="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/"><circle cx="261.7" cy="181.3" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/"><circle cx="250.0" cy="166.0" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/variants/s12/g9b3g4o3g3o4g3dg11oi30b3oi4g3~x2~o2102055-oi2104058/"><circle cx="308.3" cy="214.8" r="4" fill="#3465a4"><title>Harmony 5</title></circle></a><a href="/variants/s12/dg4n2dg8do8y2n8y16k2do5n2y5ly2~x2/"><circle cx="171.4" cy="206.7" r="4" fill="#3465a4"><title>Blaylock Hunting</title></circle></a><circle cx="208.9" cy="190.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

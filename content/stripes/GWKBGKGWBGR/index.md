@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r30y30db5w5g5k5g3db3k3w3y3~x2/">Aguilar Gorrondona Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r30y30db5w5g5k5g3db3k3w3y3~x2/"><img src="/variants/s11/r30y30db5w5g5k5g3db3k3w3y3~x2/sett.png" alt="Aguilar Gorrondona Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ag/aguilar-gorrondona/">Aguilar Gorrondona</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ag/aguilar-gorrondona/"><img src="/variants/s11/r30y30db5w5g5k5g3db3k3w3y3~x2/sett.png" alt="Aguilar Gorrondona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

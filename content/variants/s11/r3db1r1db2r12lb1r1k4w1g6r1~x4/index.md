@@ -8,10 +8,10 @@ crumbs:
 - name: "McLinden, Thomas"
   url: "/tartans/m/mc/mclinden-thomas/"
 - name: "McLinden, Thomas (Personal)"
-  url: "/setts/r3db1r1db2r12lb1r1k4w1g6r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3db1r1db2r12lb1r1k4w1g6r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mclinden-thomas/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRWRKWGR](/stripes/rbrbrwrkwgr/).
 
 Part of the [McLinden, Thomas](/tartans/m/mc/mclinden-thomas/) tartan — the named design grouping this sett with its other cloths.

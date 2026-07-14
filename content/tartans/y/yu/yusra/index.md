@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/yusra/"
 - name: "Yusra"
   url: "/families/yusra/"
+aliases:
+- "/setts/r12k3w14db10k2db24r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbkbwkr/">RBKBWKR</a></nav>
 A tartan of the [Yusra](/families/yusra/) family.
 Its design is pattern [RBKBWKR](/stripes/rbkbwkr/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **Yusra** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r12k3w14db10k2db24r2/">Yusra</a></td><td><code>R/24 K6 W28 DB20 K4 DB48 R/4</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r12k3w14db10k2db24r2/"><img src="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/sett.png" alt="Yusra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/">Yusra</a></td><td><code>R/24 K6 W28 DB20 K4 DB48 R/4</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><img src="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/sett.png" alt="Yusra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -39,6 +42,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3k1w5k4db11r1~x4/"><circle cx="169.9" cy="173.4" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s7/r12y3w14db10y2db24r2~x2/"><circle cx="232.6" cy="185.4" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><circle cx="300.6" cy="153.8" r="4" fill="#3465a4"><title>Heritage of Wales</title></circle></a><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><circle cx="244.4" cy="146.5" r="4" fill="#3465a4"><title>Rui</title></circle></a><a href="/variants/s10/db11k4w5k1r3k1w5k4db11r1~x4~db1406275/"><circle cx="175.0" cy="156.7" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="285.9" cy="145.8" r="4" fill="#3465a4"><title>Wolverines</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="178.6" cy="199.9" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="205.5" cy="201.3" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.3" cy="146.6" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s8/r9w5lb57k5lb9r29k18w9/"><circle cx="195.6" cy="153.7" r="4" fill="#3465a4"><title>Yale College of Wrexham</title></circle></a><circle cx="207.7" cy="166.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3k1w5k4db11r1~x4/"><circle cx="170.5" cy="173.2" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s7/r12y3w14db10y2db24r2~x2/"><circle cx="233.1" cy="185.3" r="4" fill="#3465a4"><title>Yusra</title></circle></a><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><circle cx="301.5" cy="153.8" r="4" fill="#3465a4"><title>Heritage of Wales</title></circle></a><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><circle cx="245.2" cy="146.4" r="4" fill="#3465a4"><title>Rui</title></circle></a><a href="/variants/s10/db11k4w5k1r3k1w5k4db11r1~x4~db1406275/"><circle cx="175.6" cy="156.5" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="286.8" cy="145.8" r="4" fill="#3465a4"><title>Wolverines</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="179.0" cy="199.7" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="206.1" cy="201.2" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.9" cy="146.4" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s8/r9w5lb57k5lb9r29k18w9/"><circle cx="196.1" cy="153.4" r="4" fill="#3465a4"><title>Yale College of Wrexham</title></circle></a><circle cx="208.4" cy="165.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

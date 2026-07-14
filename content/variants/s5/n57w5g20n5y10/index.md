@@ -12,10 +12,10 @@ crumbs:
 - name: "Jahore"
   url: "/tartans/j/ja/jahore/"
 - name: "Jahore District Tartan"
-  url: "/setts/n57w5g20n5y10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n57w5g20n5y10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ja/jahore/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGBG](/stripes/bwgbg/).
 
 Part of the [Jahore](/tartans/j/ja/jahore/) tartan — the named design grouping this sett with its other cloths.

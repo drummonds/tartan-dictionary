@@ -8,10 +8,10 @@ crumbs:
 - name: "Marie Curie Fields Of Hope"
   url: "/tartans/m/ma/marie-curie-fields-of-hope/"
 - name: "Marie Curie Fields Of Hope"
-  url: "/setts/t12lo1t2lo1t3k5g10lo1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t12lo1t2lo1t3k5g10lo1g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/marie-curie-fields-of-hope/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBKGYG](/stripes/bybybkgyg/).
 
 Part of the [Marie Curie Fields Of Hope](/tartans/m/ma/marie-curie-fields-of-hope/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2833](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/08/1995 — Marie Curie Fields Of Hope (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2833">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed in 1995 to assist in charitable fund raising for the Marie Curie Fund. The yellow denotes the daffodil of the corporate symbol. Possibly designed by House of Edgar.</em></li>
-<li>1995 — Marie Curie Fields Of Hope (Corp) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2463">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed in 1995 to assist in charitable fund raising for the Marie Curie Fund. The yellow denotes the daffodil of the corporate symbol. Possibly designed by House of Edgar.</em></li>
+<li>1995 — Marie Curie Fields Of Hope (Corp) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2463/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed in 1995 to assist in charitable fund raising for the Marie Curie Fund. The yellow denotes the daffodil of the corporate symbol. Possibly designed by House of Edgar.</em></li>
 </ul>
 </details>
 

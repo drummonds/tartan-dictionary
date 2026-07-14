@@ -12,17 +12,17 @@ crumbs:
 - name: "MacAndrew Dress"
   url: "/tartans/m/ma/macandrew-dress/"
 - name: "MacAndrew Dress (Name)"
-  url: "/setts/r72k8r4g16r7n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r72k8r4g16r7n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macandrew-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRKR](/stripes/brgrkr/).
 
 Part of the [MacAndrew Dress](/tartans/m/ma/macandrew-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7608](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7608)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7608/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7608/*)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -34,7 +34,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7608](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

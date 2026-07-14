@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/midlothian/"
 - name: "Midlothian"
   url: "/families/midlothian/"
+aliases:
+- "/setts/db31t4db5k19g20lo4/"
+- "/setts/db31b4db5k19g20y4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbkgy/">BBBKGY</a></nav>
 A tartan of the [Midlothian](/families/midlothian/) family.
 Its design is pattern [BBBKGY](/stripes/bbbkgy/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Midlothian** tartan groups 2 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db31t4db5k19g20lo4/">Midlothian</a> ★</td><td><code>DB/62 T8 DB10 K38 G40 LO/8</code></td><td>262</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db31t4db5k19g20lo4/"><img src="/variants/s6/db31t4db5k19g20lo4~x2/sett.png" alt="Midlothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db31b4db5k19g20y4/">Midlothian</a></td><td><code>DB/62 B8 DB10 K38 G40 Y/8</code></td><td>262</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db31b4db5k19g20y4/"><img src="/variants/s6/db31b4db5k19g20y4~x2/sett.png" alt="Midlothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db31t4db5k19g20lo4~x2/">Midlothian</a> ★</td><td><code>DB/62 T8 DB10 K38 G40 LO/8</code></td><td>262</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><img src="/variants/s6/db31t4db5k19g20lo4~x2/sett.png" alt="Midlothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db31b4db5k19g20y4~x2/">Midlothian</a></td><td><code>DB/62 B8 DB10 K38 G40 Y/8</code></td><td>262</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db31b4db5k19g20y4~x2/"><img src="/variants/s6/db31b4db5k19g20y4~x2/sett.png" alt="Midlothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dr2db9k5g6db1~x4/"><circle cx="195.9" cy="230.9" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="103.0" cy="222.1" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="102.8" cy="211.9" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="116.7" cy="193.9" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="225.7" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="171.8" cy="167.6" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="131.3" cy="224.5" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="111.7" cy="209.9" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s6/k4w1g13k11db11lb3~x4/"><circle cx="123.1" cy="189.5" r="4" fill="#3465a4"><title>New York Fire Department Pipe Band</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="120.6" cy="229.4" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><circle cx="161.8" cy="201.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dr2db9k5g6db1~x4/"><circle cx="196.3" cy="230.9" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="103.2" cy="221.8" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="103.0" cy="211.6" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="117.0" cy="193.7" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.7" cy="225.6" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="172.3" cy="167.5" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="131.6" cy="224.3" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="112.0" cy="209.6" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s6/k4w1g13k11db11lb3~x4/"><circle cx="123.4" cy="189.3" r="4" fill="#3465a4"><title>New York Fire Department Pipe Band</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="120.8" cy="229.2" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><circle cx="162.2" cy="201.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/">Lorne, Louise of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><img src="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/sett.png" alt="Lorne, Louise of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/">Princess Louise</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/"><img src="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/sett.png" alt="Princess Louise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/louise-2/">Louise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/louise-2/"><img src="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/sett.png" alt="Louise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/princess-louise/">Princess Louise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-louise/"><img src="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/sett.png" alt="Princess Louise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

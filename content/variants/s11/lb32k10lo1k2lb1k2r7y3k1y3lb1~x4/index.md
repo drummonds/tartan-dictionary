@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Coe"
   url: "/tartans/g/gl/glen-coe-3/"
 - name: "Glen Coe #3"
-  url: "/setts/lb32k10lo1k2lb1k2r7y3k1y3lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb32k10lo1k2lb1k2r7y3k1y3lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-coe-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKGRKWKYKW](/stripes/wgkgrkwkykw/).
 
 Part of the [Glen Coe](/tartans/g/gl/glen-coe-3/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1373](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1982 — Glen Coe #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1373">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #F8E8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1982 — Glen Coe #2 (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5028">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #F8E8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><br><em>Sample in STA's Johnston Collection.</em></li>
+<li>pre 1982 — Glen Coe #2 (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5028/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #F8E8D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><br><em>Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Salt Lake County"
   url: "/tartans/s/sa/salt-lake-county-2/"
 - name: "Salt Lake County District Tartan"
-  url: "/setts/dr40k1dr3k1w3k4w3k1dr3k1dr40k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr40k1dr3k1w3k4w3k1dr3k1dr40k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/salt-lake-county-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWKWKBKBK](/stripes/bkbkwkwkbkbk/).
 
 Part of the [Salt Lake County](/tartans/s/sa/salt-lake-county-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/">North Dakota State University (Corp.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/"><img src="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/sett.png" alt="North Dakota State University (Corp. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/north-dakota-state-university-corp/">North Dakota State University (Corp.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/north-dakota-state-university-corp/"><img src="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/sett.png" alt="North Dakota State University (Corp. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

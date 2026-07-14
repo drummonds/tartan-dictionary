@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg2dp19dg2dp46lb2dp10dg3lp2r2~x2/">Spirit of Hoxa (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg2dp19dg2dp46lb2dp10dg3lp2r2~x2/"><img src="/variants/s9/dg2dp19dg2dp46lb2dp10dg3lp2r2~x2/sett.png" alt="Spirit of Hoxa (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-hoxa-2/">Spirit of Hoxa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-hoxa-2/"><img src="/variants/s9/dg2dp19dg2dp46lb2dp10dg3lp2r2~x2/sett.png" alt="Spirit of Hoxa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

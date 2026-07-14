@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dp9db6w1dg4dp2~x4/">Cathro</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp9db6w1dg4dp2~x4/"><img src="/variants/s5/dp9db6w1dg4dp2~x4/sett.png" alt="Cathro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/b9t6w1g4b2~x8/">Cathro (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/b9t6w1g4b2~x8/"><img src="/variants/s5/b9t6w1g4b2~x8/sett.png" alt="Cathro (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cathro/">Cathro</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cathro/"><img src="/variants/s5/dp9db6w1dg4dp2~x4/sett.png" alt="Cathro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

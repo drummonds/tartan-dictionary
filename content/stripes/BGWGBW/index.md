@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db12g8lb4g8db12lb5/">Sheffield High School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db12g8lb4g8db12lb5/"><img src="/variants/s6/db12g8lb4g8db12lb5/sett.png" alt="Sheffield High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/sheffield-high-school/">Sheffield High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/sheffield-high-school/"><img src="/variants/s6/db12g8lb4g8db12lb5/sett.png" alt="Sheffield High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

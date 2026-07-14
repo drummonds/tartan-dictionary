@@ -10,10 +10,10 @@ crumbs:
 - name: "Aberdeen University"
   url: "/tartans/a/ab/aberdeen-university/"
 - name: "Aberdeen University Corporate Tartan"
-  url: "/setts/y2r15k7db8y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2r15k7db8y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ab/aberdeen-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKRG](/stripes/gbkrg/).
 
 Part of the [Aberdeen University](/tartans/a/ab/aberdeen-university/) tartan — the named design grouping this sett with its other cloths.

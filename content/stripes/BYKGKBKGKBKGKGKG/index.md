@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/">Kettles, Ryan &amp; Alan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/"><img src="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/sett.png" alt="Kettles, Ryan &amp; Alan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kettles-ryan-alan/">Kettles, Ryan &amp; Alan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kettles-ryan-alan/"><img src="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/sett.png" alt="Kettles, Ryan &amp; Alan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

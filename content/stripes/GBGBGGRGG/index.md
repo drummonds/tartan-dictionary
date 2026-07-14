@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/">Arkansas (Unofficial)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/"><img src="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/sett.png" alt="Arkansas (Unofficial) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arkansas-2/">Arkansas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arkansas-2/"><img src="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/sett.png" alt="Arkansas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

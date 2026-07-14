@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/">North Berwick Pipe Band (Dancing)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><img src="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/sett.png" alt="North Berwick Pipe Band (Dancing) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/north-berwick-pipe-band/">North Berwick Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/north-berwick-pipe-band/"><img src="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/sett.png" alt="North Berwick Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

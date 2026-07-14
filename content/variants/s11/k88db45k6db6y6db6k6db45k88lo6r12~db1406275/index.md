@@ -8,15 +8,15 @@ crumbs:
 - name: "City of Rome Italian"
   url: "/tartans/c/ci/city-of-rome-italian/"
 - name: "City of Rome Italian Corporate Tartan"
-  url: "/setts/k88db45k6db6y6db6k6db45k88lo6r12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k88db45k6db6y6db6k6db45k88lo6r12/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBGBKBKYRYKBKBGBKBK](/stripes/bkbgbkbkyrykbkbgbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/c/ci/city-of-rome-italian/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBGBKBKYR](/stripes/kbkbgbkbkyr/).
 
 Part of the [City of Rome Italian](/tartans/c/ci/city-of-rome-italian/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6697](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6697)
 
@@ -41,9 +41,11 @@ Earliest known date: 2005 The background of black and navy blue are the colours 
 </details>
 
 ## Thread count
-K/88 DB45 K6 DB6 Y6 DB6 K6 DB45 K88 LO6 R12 LO6 K88 DB45 K6 DB6 Y6 DB6 K6 DB/45
+K/88 DB45 K6 DB6 Y6 DB6 K6 DB45 K88 LO6 R/12
 
-One full sett is **923 threads**.
+One full sett is **528 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/88 DB45 K6 DB6 Y6 DB6 K6 DB45 K88 LO6 R12 LO6 K88 DB45 K6 DB6 Y6 DB6 K6 DB/45 — 923 threads; it folds to the canonical 528-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **923 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/88 DB45 K6 DB6 Y6 DB6 K6 DB45 K88 LO6 R12 LO6 K88 DB45 K6 DB6 Y6 DB6 K6 DB/45 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/88 DB45 K6 DB6 Y6 DB6 K6 DB45 K88 LO6 R/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dy16y5k8y8k16dg48k4g46w8k8r8/">Louth County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dy16y5k8y8k16dg48k4g46w8k8r8/"><img src="/variants/s11/dy16y5k8y8k16dg48k4g46w8k8r8/sett.png" alt="Louth County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/louth-county-crest-range/">Louth County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/louth-county-crest-range/"><img src="/variants/s11/dy16y5k8y8k16dg48k4g46w8k8r8/sett.png" alt="Louth County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

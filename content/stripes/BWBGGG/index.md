@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db5w3db36g38y5g5~x2/">St. Andrew Society, Sao Paulo (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db5w3db36g38y5g5~x2/"><img src="/variants/s6/db5w3db36g38y5g5~x2/sett.png" alt="St. Andrew Society, Sao Paulo (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-andrew-society-sao-paulo/">St. Andrew Society, Sao Paulo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrew-society-sao-paulo/"><img src="/variants/s6/db5w3db36g38y5g5~x2/sett.png" alt="St. Andrew Society, Sao Paulo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Black"
   url: "/clan/black/"
+aliases:
+- "/setts/k62db15dp15o20lr5db5k15/"
+- "/setts/k62db15t15dy20ly5db5k15/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbbrybk/">KBBRYBK</a></nav>
 A tartan of [Clan Black](/clan/black/).
 Its design is pattern [KBBRYBK](/stripes/kbbrybk/) — the page of every tartan sharing this colour sequence.
 
@@ -16,10 +20,10 @@ The **Black Raven** tartan groups 2 setts — the same named design recorded as 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k62db15dp15o20lr5db5k15/">Black Raven</a> ★</td><td><code>K/124 DB30 DP30 O40 LR10 DB10 K/30</code></td><td>394</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k62db15dp15o20lr5db5k15/"><img src="/variants/s7/k62db15dp15o20lr5db5k15~x2/sett.png" alt="Black Raven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k62db15t15dy20ly5db5k15/">(Fashion)</a></td><td><code>K/124 DB30 T30 DY40 LY10 DB10 K/30</code></td><td>394</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k62db15t15dy20ly5db5k15/"><img src="/variants/s7/k62db15t15dy20ly5db5k15~x2/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k62db15dp15o20lr5db5k15~x2/">Black Raven</a> ★</td><td><code>K/124 DB30 DP30 O40 LR10 DB10 K/30</code></td><td>394</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k62db15dp15o20lr5db5k15~x2/"><img src="/variants/s7/k62db15dp15o20lr5db5k15~x2/sett.png" alt="Black Raven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k62db15t15dy20ly5db5k15~x2/">(Fashion)</a></td><td><code>K/124 DB30 T30 DY40 LY10 DB10 K/30</code></td><td>394</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k62db15t15dy20ly5db5k15~x2/"><img src="/variants/s7/k62db15t15dy20ly5db5k15~x2/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="277.2" cy="155.7" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s7/r3ly2dp26k13y2k8w3~x2~ly3307090-y2502222/"><circle cx="193.0" cy="123.5" r="4" fill="#3465a4"><title>Curnow of Kernow</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="256.2" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="271.6" cy="130.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="218.2" cy="137.4" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="217.7" cy="107.3" r="4" fill="#3465a4"><title>Kaptain</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="240.5" cy="147.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="264.9" cy="158.0" r="4" fill="#3465a4"><title>Murdoch Clebration</title></circle></a><a href="/variants/s6/n9k16dg10k22dp67y4/"><circle cx="306.8" cy="156.7" r="4" fill="#3465a4"><title>Widows Sons Scotland</title></circle></a><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/"><circle cx="220.8" cy="139.7" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><circle cx="246.6" cy="141.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="278.0" cy="155.8" r="4" fill="#3465a4"><title>Martinez, Clément</title></circle></a><a href="/variants/s7/r3ly2dp26k13y2k8w3~x2~ly3307090-y2502222/"><circle cx="193.6" cy="123.3" r="4" fill="#3465a4"><title>Curnow of Kernow</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="257.1" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="272.4" cy="130.2" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="219.0" cy="137.3" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="218.5" cy="107.2" r="4" fill="#3465a4"><title>Kaptain</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="241.2" cy="147.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="265.7" cy="158.0" r="4" fill="#3465a4"><title>Murdoch Clebration</title></circle></a><a href="/variants/s6/n9k16dg10k22dp67y4/"><circle cx="307.6" cy="156.7" r="4" fill="#3465a4"><title>Widows Sons Scotland</title></circle></a><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/"><circle cx="221.6" cy="139.6" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><circle cx="247.4" cy="141.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

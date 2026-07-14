@@ -10,15 +10,15 @@ crumbs:
 - name: "Harmony Eildon"
   url: "/tartans/h/ha/harmony-eildon/"
 - name: "Harmony Eildon"
-  url: "/setts/db41ti2w2ti2db5t12w31db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db41ti2w2ti2db5t12w31db4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBWBBBWBWBBBWB](/stripes/bbwbbbwbwbbbwb/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harmony-eildon/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBBBWB](/stripes/bbwbbbwb/).
 
 Part of the [Harmony Eildon](/tartans/h/ha/harmony-eildon/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1614](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1614)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1614](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1983 — Harmony Eildon (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1614">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>This appears under three different names - Longniddry (#5486), Eildon (#4799) and Harmony Eildon (#87) (original Scottish Tartans Authority references). Was registered by the Scottish Tartans Society as Harmony Check in 1983 but no more details.</em></li>
-<li>1983 — Harmony Eildon (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=87">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>A dance tartan produced by D C Dalgliesh of Selkirk which appears to be known by a few different names: Longniddry, Eildon and Harmony Check.</em></li>
+<li>1983 — Harmony Eildon (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/87/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>A dance tartan produced by D C Dalgliesh of Selkirk which appears to be known by a few different names: Longniddry, Eildon and Harmony Check.</em></li>
 </ul>
 </details>
 
@@ -55,9 +55,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 87
 
 ## Thread count
-DB/82 Ti4 W4 Ti4 DB10 T24 W62 DB8 W62 T24 DB10 Ti4 W4 Ti/4
+DB/82 Ti4 W4 Ti4 DB10 T24 W62 DB/8
 
-One full sett is **526 threads**.
+One full sett is **306 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/82 Ti4 W4 Ti4 DB10 T24 W62 DB8 W62 T24 DB10 Ti4 W4 Ti/4 — 526 threads; it folds to the canonical 306-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -66,7 +68,7 @@ One full sett is **526 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/82 Ti4 W4 Ti4 DB10 T24 W62 DB8 W62 T24 DB10 Ti4 W4 Ti/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/82 Ti4 W4 Ti4 DB10 T24 W62 DB/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

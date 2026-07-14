@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonald of Boisdale"
   url: "/tartans/m/ma/macdonald-of-boisdale/"
 - name: "MacDonald of Boisdale"
-  url: "/setts/r16w1db6w1r6w1db32w1r24b1g16b1r4b1g6b1r4w1db6w1r16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r16w1db6w1r6w1db32w1r24b1g16b1r4b1g6b1r4w1db6w1r16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-of-boisdale/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWRBGBRBGBRWBWRWBWR](/stripes/rwbwrbgbrbgbrwbwrwbwr/).
 
 Part of the [MacDonald of Boisdale](/tartans/m/ma/macdonald-of-boisdale/) tartan — the named design grouping this sett with its other cloths.

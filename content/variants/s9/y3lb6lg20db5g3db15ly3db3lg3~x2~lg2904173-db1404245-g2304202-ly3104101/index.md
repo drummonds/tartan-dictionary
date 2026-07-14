@@ -8,10 +8,10 @@ crumbs:
 - name: "WestJet"
   url: "/tartans/w/we/westjet/"
 - name: "WestJet"
-  url: "/setts/y3lb6lg20db5g3db15ly3db3lg3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3lb6lg20db5g3db15ly3db3lg3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/westjet/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWYBGBYBY](/stripes/gwybgbyby/).
 
 Part of the [WestJet](/tartans/w/we/westjet/) tartan — the named design grouping this sett with its other cloths.

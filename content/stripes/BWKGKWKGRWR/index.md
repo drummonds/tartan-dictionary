@@ -28,8 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db8lb1k6y1k2w2k2g12o28w1o4~x2/">MacLean of Kingairloch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db8lb1k6y1k2w2k2g12o28w1o4~x2/"><img src="/variants/s11/db8lb1k6y1k2w2k2g12o28w1o4~x2/sett.png" alt="MacLean of Kingairloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean-of-kingairloch-2/">MacLean of Kingairloch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-of-kingairloch-2/"><img src="/variants/s11/db8lb1k6y1k2w2k2g12o28w1o4~x2/sett.png" alt="MacLean of Kingairloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-scarlett-9/">Unidentified Scarlett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-scarlett-9/"><img src="/variants/s11/db9lb1k8y1k2w2k2g13r45w1r4~x2/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr32db2k8lo1k2lb2k2g18dr10k2dr2lb2~x4/">Stewart - Pr Ch Ed - Pendleton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr32db2k8lo1k2lb2k2g18dr10k2dr2lb2~x4/"><img src="/variants/s12/dr32db2k8lo1k2lb2k2g18dr10k2dr2lb2~x4/sett.png" alt="Stewart - Pr Ch Ed - Pendleton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart/">Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart/"><img src="/variants/s12/dr32db2k8lo1k2lb2k2g18dr10k2dr2lb2~x4/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/">Wcwm 1105</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/"><img src="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/sett.png" alt="Wcwm 1105 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wc/wcwm-1105/">Wcwm 1105</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wc/wcwm-1105/"><img src="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/sett.png" alt="Wcwm 1105 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

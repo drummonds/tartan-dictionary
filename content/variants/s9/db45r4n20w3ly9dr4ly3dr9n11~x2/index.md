@@ -8,10 +8,10 @@ crumbs:
 - name: "United Arrows House Check"
   url: "/tartans/u/un/united-arrows-house-check/"
 - name: "United Arrows House Check"
-  url: "/setts/db45r4n20w3ly9dr4ly3dr9n11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db45r4n20w3ly9dr4ly3dr9n11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/united-arrows-house-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBYWBRB](/stripes/bbybywbrb/).
 
 Part of the [United Arrows House Check](/tartans/u/un/united-arrows-house-check/) tartan — the named design grouping this sett with its other cloths.

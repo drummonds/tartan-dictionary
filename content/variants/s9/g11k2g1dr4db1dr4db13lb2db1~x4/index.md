@@ -12,10 +12,10 @@ crumbs:
 - name: "Dunbartonshire"
   url: "/tartans/d/du/dunbartonshire/"
 - name: "Dunbartonshire"
-  url: "/setts/g11k2g1dr4db1dr4db13lb2db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g11k2g1dr4db1dr4db13lb2db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunbartonshire/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBBGKG](/stripes/bwbbbbgkg/).
 
 Part of the [Dunbartonshire](/tartans/d/du/dunbartonshire/) tartan — the named design grouping this sett with its other cloths.

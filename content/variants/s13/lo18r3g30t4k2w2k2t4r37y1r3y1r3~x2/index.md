@@ -8,10 +8,10 @@ crumbs:
 - name: "Sri Lanka"
   url: "/tartans/s/sr/sri-lanka/"
 - name: "Sri Lanka"
-  url: "/setts/lo18r3g30t4k2w2k2t4r37y1r3y1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo18r3g30t4k2w2k2t4r37y1r3y1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sr/sri-lanka/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRBKWKBGRY](/stripes/rgrgrbkwkbgry/).
 
 Part of the [Sri Lanka](/tartans/s/sr/sri-lanka/) tartan — the named design grouping this sett with its other cloths.

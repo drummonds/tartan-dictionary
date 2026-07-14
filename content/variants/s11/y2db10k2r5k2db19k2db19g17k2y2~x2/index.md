@@ -8,10 +8,10 @@ crumbs:
 - name: "Montreat"
   url: "/tartans/m/mo/montreat/"
 - name: "Montreat"
-  url: "/setts/y2db10k2r5k2db19k2db19g17k2y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2db10k2r5k2db19k2db19g17k2y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/montreat/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKRKBKBGKG](/stripes/gbkrkbkbgkg/).
 
 Part of the [Montreat](/tartans/m/mo/montreat/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2995](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>09/01/1998 — Montreat (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2995">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#546488;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #546488"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><br><em>Designed by Marge Warren and Polly Wittering for Montreat Assembly in Montreat, North Carolina USA.</em></li>
-<li>1998 — Montreat (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2414">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#546488;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #546488"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><br><em>Designed by Marge Warren and Polly Wittering for Montreat Assembly in Montreat, North Carolina USA.</em></li>
+<li>1998 — Montreat (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2414/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#546488;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #546488"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><br><em>Designed by Marge Warren and Polly Wittering for Montreat Assembly in Montreat, North Carolina USA.</em></li>
 </ul>
 </details>
 

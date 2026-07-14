@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db15lb11lbi2lb1lbi1g4lbi1lb1lbi2lb11db15g5~x4~lb3103284-lbi3200000/">Highlands Country Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db15lb11lbi2lb1lbi1g4lbi1lb1lbi2lb11db15g5~x4~lb3103284-lbi3200000/"><img src="/variants/s12/db15lb11lbi2lb1lbi1g4lbi1lb1lbi2lb11db15g5~x4~lb3103284-lbi3200000/sett.png" alt="Highlands Country Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highlands-country-club/">Highlands Country Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highlands-country-club/"><img src="/variants/s12/db15lb11lbi2lb1lbi1g4lbi1lb1lbi2lb11db15g5~x4~lb3103284-lbi3200000/sett.png" alt="Highlands Country Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

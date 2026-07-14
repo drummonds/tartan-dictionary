@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/dr12dg12lb2dg12dr12dg2dr2dg2dr2dg6lo2dr1lo2dg6dr2dg2dr2dg2dr12db8dg8k2dr4k2dr4k2dg8db8~x2/">MacMaster (Name 2001)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/dr12dg12lb2dg12dr12dg2dr2dg2dr2dg6lo2dr1lo2dg6dr2dg2dr2dg2dr12db8dg8k2dr4k2dr4k2dg8db8~x2/"><img src="/variants/s28/dr12dg12lb2dg12dr12dg2dr2dg2dr2dg6lo2dr1lo2dg6dr2dg2dr2dg2dr12db8dg8k2dr4k2dr4k2dg8db8~x2/sett.png" alt="MacMaster (Name 2001) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macmaster-4/">MacMaster</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macmaster-4/"><img src="/variants/s28/dr12dg12lb2dg12dr12dg2dr2dg2dr2dg6lo2dr1lo2dg6dr2dg2dr2dg2dr12db8dg8k2dr4k2dr4k2dg8db8~x2/sett.png" alt="MacMaster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

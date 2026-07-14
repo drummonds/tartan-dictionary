@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/w3db3k1db3k1db15k1db2g15y1g2k20y1k2y2~x2/">Joseph Linn Family (Monohon) Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w3db3k1db3k1db15k1db2g15y1g2k20y1k2y2~x2/"><img src="/variants/s15/w3db3k1db3k1db15k1db2g15y1g2k20y1k2y2~x2/sett.png" alt="Joseph Linn Family (Monohon) Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/joseph-linn-2/">Joseph Linn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/joseph-linn-2/"><img src="/variants/s15/w3db3k1db3k1db15k1db2g15y1g2k20y1k2y2~x2/sett.png" alt="Joseph Linn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

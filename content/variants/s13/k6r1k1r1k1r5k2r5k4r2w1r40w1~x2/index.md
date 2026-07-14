@@ -8,10 +8,10 @@ crumbs:
 - name: "Jupiter Shop Channel Co Ltd"
   url: "/tartans/j/ju/jupiter-shop-channel-co-ltd/"
 - name: "Jupiter Shop Channel Co Ltd"
-  url: "/setts/k6r1k1r1k1r5k2r5k4r2w1r40w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6r1k1r1k1r5k2r5k4r2w1r40w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ju/jupiter-shop-channel-co-ltd/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRKRWRW](/stripes/krkrkrkrkrwrw/).
 
 Part of the [Jupiter Shop Channel Co Ltd](/tartans/j/ju/jupiter-shop-channel-co-ltd/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10826](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>02/02/2013 — Jupiter Shop Channel Co Ltd (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10826">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FC68B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #FC68B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><br><em>A corporate tartan for Jupiter Shop Channel Co Ltd, which operates as a television shopping company in Japan. The company was founded in 1996 and is based in Tokyo. The tartan incorporates the company's vibrant signature colour.</em></li>
-<li>February 2013 — Jupiter Shop Channel Co., Ltd (Corp) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10826">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Designed in February 2013 for the Japanese 'Shopping Channel' using their corporate colours of pink, black and white.</em></li>
+<li>February 2013 — Jupiter Shop Channel Co., Ltd (Corp) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10826/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Designed in February 2013 for the Japanese 'Shopping Channel' using their corporate colours of pink, black and white.</em></li>
 </ul>
 </details>
 

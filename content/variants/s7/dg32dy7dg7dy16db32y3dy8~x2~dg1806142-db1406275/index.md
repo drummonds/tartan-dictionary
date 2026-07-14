@@ -12,15 +12,15 @@ crumbs:
 - name: "Strange of Balcaskie"
   url: "/tartans/s/st/strange-of-balcaskie-2/"
 - name: "Strange of Balcaskie (Personal)"
-  url: "/setts/dg32dy7dg7dy16db32y3dy8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg32dy7dg7dy16db32y3dy8/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGGBGGGBGGGG](/stripes/gggbgggbgggg/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/strange-of-balcaskie-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBGGGG](/stripes/ggbgggg/).
 
 Part of the [Strange of Balcaskie](/tartans/s/st/strange-of-balcaskie-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3976](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3976)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2259
 
 ## Thread count
-DG/64 DY14 DG14 DY32 DB64 Y6 DY16 Y6 DB64 DY32 DG14 DY/14
+DG/64 DY14 DG14 DY32 DB64 Y6 DY/16
 
-One full sett is **602 threads**.
+One full sett is **340 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/64 DY14 DG14 DY32 DB64 Y6 DY16 Y6 DB64 DY32 DG14 DY/14 — 602 threads; it folds to the canonical 340-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **602 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/64 DY14 DG14 DY32 DB64 Y6 DY16 Y6 DB64 DY32 DG14 DY/14 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/64 DY14 DG14 DY32 DB64 Y6 DY/16 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

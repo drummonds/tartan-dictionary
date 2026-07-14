@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/">J &amp; B Whisky (Original)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/"><img src="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/sett.png" alt="J &amp; B Whisky (Original) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/j/j-b-whisky-2/">J &amp; B Whisky</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/j/j-b-whisky-2/"><img src="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/sett.png" alt="J &amp; B Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "International School of Aberdeen"
   url: "/tartans/i/in/international-school-of-aberdeen/"
 - name: "International School of Aberdeen"
-  url: "/setts/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/international-school-of-aberdeen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBGBRBRBGBWBW](/stripes/rbrbgbrbrbgbwbw/).
 
 Part of the [International School of Aberdeen](/tartans/i/in/international-school-of-aberdeen/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11216](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>17/11/2014 — International School of Aberdeen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11216">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#141E46;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #141E46"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><br><em>A corporate tartan combining the sporting and corporate colours of the International School of Aberdeen.</em></li>
-<li>November 2014 — International School of Aberdeen (Co (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11216">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A corporate tartan combining the sporting and corporate colours of the International School of Aberdeen.</em></li>
+<li>November 2014 — International School of Aberdeen (Co (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11216/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A corporate tartan combining the sporting and corporate colours of the International School of Aberdeen.</em></li>
 </ul>
 </details>
 

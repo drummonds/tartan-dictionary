@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k9lo6db9n2do3n2dg17db17lg5~x2/">Coats (New Zealand)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k9lo6db9n2do3n2dg17db17lg5~x2/"><img src="/variants/s9/k9lo6db9n2do3n2dg17db17lg5~x2/sett.png" alt="Coats (New Zealand) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coats/">Coats</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coats/"><img src="/variants/s9/k9lo6db9n2do3n2dg17db17lg5~x2/sett.png" alt="Coats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

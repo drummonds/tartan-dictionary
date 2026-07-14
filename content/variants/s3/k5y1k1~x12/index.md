@@ -10,17 +10,17 @@ crumbs:
 - name: "Justus"
   url: "/families/justus/"
 - name: "Justus"
-  url: "/tartans/j/ju/justus-2/"
+  url: "/tartans/j/ju/justus-3/"
 - name: "Justus"
-  url: "/setts/k5y1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5y1k1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGK](/stripes/gkgk/).
+provenance below. It is one weaving of the [sett](/tartans/j/ju/justus-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGK](/stripes/kgk/).
 
-Part of the [Justus](/tartans/j/ju/justus-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Justus](/tartans/j/ju/justus-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
@@ -41,9 +41,11 @@ Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http:/
 </details>
 
 ## Thread count
-K/60 Y12 K12 Y/12
+K/60 Y12 K/12
 
-One full sett is **120 threads**.
+One full sett is **96 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/60 Y12 K12 Y/12 — 120 threads; it folds to the canonical 96-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **120 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/60 Y12 K12 Y/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/60 Y12 K/12 tartan" width="880" height="480">
 
 ## Compared to the master
 

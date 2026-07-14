@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n12k2n2k2n2k12db12b3w1~x2~db1308266-b2009265/">de Franck, Matt (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n12k2n2k2n2k12db12b3w1~x2~db1308266-b2009265/"><img src="/variants/s9/n12k2n2k2n2k12db12b3w1~x2~db1308266-b2009265/sett.png" alt="de Franck, Matt (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/de-franck-matt/">de Franck, Matt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/de-franck-matt/"><img src="/variants/s9/n12k2n2k2n2k12db12b3w1~x2~db1308266-b2009265/sett.png" alt="de Franck, Matt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

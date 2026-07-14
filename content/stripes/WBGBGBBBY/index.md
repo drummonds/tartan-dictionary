@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w1dbi6g1dbi1g1dbi1db4dr5lo1~x4~dbi1406275-db1106275/">McLion (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w1dbi6g1dbi1g1dbi1db4dr5lo1~x4~dbi1406275-db1106275/"><img src="/variants/s9/w1dbi6g1dbi1g1dbi1db4dr5lo1~x4~dbi1406275-db1106275/sett.png" alt="McLion (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mclion/">McLion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mclion/"><img src="/variants/s9/w1dbi6g1dbi1g1dbi1db4dr5lo1~x4~dbi1406275-db1106275/sett.png" alt="McLion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

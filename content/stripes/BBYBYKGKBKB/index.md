@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/">Dutton, Stuart (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/"><img src="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/sett.png" alt="Dutton, Stuart (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dutton-stuart/">Dutton, Stuart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dutton-stuart/"><img src="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/sett.png" alt="Dutton, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

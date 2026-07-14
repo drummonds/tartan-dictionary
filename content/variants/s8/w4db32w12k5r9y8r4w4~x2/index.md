@@ -12,10 +12,10 @@ crumbs:
 - name: "Brunnbauer"
   url: "/tartans/b/br/brunnbauer/"
 - name: "Brunnbauer (2015)"
-  url: "/setts/w4db32w12k5r9y8r4w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db32w12k5r9y8r4w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brunnbauer/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWKRGRW](/stripes/wbwkrgrw/).
 
 Part of the [Brunnbauer](/tartans/b/br/brunnbauer/) tartan — the named design grouping this sett with its other cloths.

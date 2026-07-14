@@ -8,10 +8,10 @@ crumbs:
 - name: "New Mexico"
   url: "/tartans/n/ne/new-mexico-2/"
 - name: "New Mexico District Tartan"
-  url: "/setts/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/new-mexico-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBGBGRGBGBGR](/stripes/grgbgbgrgbgbgr/).
 
 Part of the [New Mexico](/tartans/n/ne/new-mexico-2/) tartan — the named design grouping this sett with its other cloths.

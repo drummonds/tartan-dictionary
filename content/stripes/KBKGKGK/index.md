@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k25y5k5g25k25t3k10~x2/">London Community Gospel Choir</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k25y5k5g25k25t3k10~x2/"><img src="/variants/s7/k25y5k5g25k25t3k10~x2/sett.png" alt="London Community Gospel Choir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/k25dy5k5dg25k25db3k10~x2/">London Community Gospel Choir, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k25dy5k5dg25k25db3k10~x2/"><img src="/variants/s7/k25dy5k5dg25k25db3k10~x2/sett.png" alt="London Community Gospel Choir, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/london-community-gospel-choir/">London Community Gospel Choir</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/london-community-gospel-choir/"><img src="/variants/s7/k25y5k5g25k25t3k10~x2/sett.png" alt="London Community Gospel Choir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/london-community-gospel-choir-the/">London Community Gospel Choir, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/london-community-gospel-choir-the/"><img src="/variants/s7/k25dy5k5dg25k25db3k10~x2/sett.png" alt="London Community Gospel Choir, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/k3g4k1g4k3db4k1~x2/">Unidentified No 63</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><img src="/variants/s7/k3g4k1g4k3db4k1~x2/sett.png" alt="Unidentified No 63 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-no-63/">Unidentified No 63</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-no-63/"><img src="/variants/s7/k3g4k1g4k3db4k1~x2/sett.png" alt="Unidentified No 63 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

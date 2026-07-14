@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/">Maine Dirigo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/"><img src="/variants/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/sett.png" alt="Maine Dirigo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maine-dirigo/">Maine Dirigo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maine-dirigo/"><img src="/variants/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/sett.png" alt="Maine Dirigo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

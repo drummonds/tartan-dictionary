@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db20y1dy1db3k1n2k1r10k1n2r4/">Blais (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db20y1dy1db3k1n2k1r10k1n2r4/"><img src="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/sett.png" alt="Blais (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blais/">Blais</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blais/"><img src="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/sett.png" alt="Blais sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

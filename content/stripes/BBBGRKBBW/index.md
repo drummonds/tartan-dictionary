@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/">Lochranza</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/"><img src="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/sett.png" alt="Lochranza sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochranza/">Lochranza</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochranza/"><img src="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/sett.png" alt="Lochranza sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

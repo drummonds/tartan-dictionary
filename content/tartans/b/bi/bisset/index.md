@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/bisset/"
 - name: "Bisset"
   url: "/families/bisset/"
+aliases:
+- "/setts/r9g18k6g6k3ly3g6db8w3/"
+- "/setts/r3g6k2g2k1y1g2db3w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgkgkygbw/">RGKGKYGBW</a></nav>
 A tartan of the [Bisset](/families/bisset/) family.
 Its design is pattern [RGKGKYGBW](/stripes/rgkgkygbw/) — the page of every tartan sharing this colour sequence.
 
@@ -20,10 +24,10 @@ The **Bisset** tartan groups 2 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r9g18k6g6k3ly3g6db8w3/">Bisset</a> ★</td><td><code>R/18 G36 K12 G12 K6 LY6 G12 DB16 W/6</code></td><td>224</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r9g18k6g6k3ly3g6db8w3/"><img src="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r3g6k2g2k1y1g2db3w1/">Bisset</a></td><td><code>R/12 G24 K8 G8 K4 Y4 G8 DB12 W/4</code></td><td>152</td><td>1976</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g6k2g2k1y1g2db3w1/"><img src="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/">Bisset</a> ★</td><td><code>R/18 G36 K12 G12 K6 LY6 G12 DB16 W/6</code></td><td>224</td><td>1977</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><img src="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/">Bisset</a></td><td><code>R/12 G24 K8 G8 K4 Y4 G8 DB12 W/4</code></td><td>152</td><td>1976</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><img src="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="221.3" cy="141.3" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s8/g5r4g19k10g8w4db18r4~x2/"><circle cx="119.2" cy="214.4" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="77.4" cy="194.9" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/"><circle cx="112.3" cy="152.5" r="4" fill="#3465a4"><title>Moskova</title></circle></a><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><circle cx="119.7" cy="154.2" r="4" fill="#3465a4"><title>Red Deer, City of</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="119.8" cy="199.3" r="4" fill="#3465a4"><title>Disciples of Christ MM</title></circle></a><a href="/variants/s9/k13y4g15w4r13w4g15w4db13~x2/"><circle cx="18.5" cy="221.8" r="4" fill="#3465a4"><title>Spirit of 1994</title></circle></a><a href="/variants/s9/g16b2dp13lb2k6y2g16lb2k12~x2/"><circle cx="129.6" cy="168.1" r="4" fill="#3465a4"><title>Wilson's, No 225</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.2" cy="172.5" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/"><circle cx="75.3" cy="242.9" r="4" fill="#3465a4"><title>Arrol</title></circle></a><circle cx="114.9" cy="188.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="221.9" cy="141.2" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s8/g5r4g19k10g8w4db18r4~x2/"><circle cx="119.4" cy="214.2" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="77.5" cy="194.6" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/"><circle cx="112.6" cy="152.2" r="4" fill="#3465a4"><title>Moskova</title></circle></a><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><circle cx="120.0" cy="153.9" r="4" fill="#3465a4"><title>Red Deer, City of</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="120.1" cy="199.1" r="4" fill="#3465a4"><title>Disciples of Christ MM</title></circle></a><a href="/variants/s9/k13y4g15w4r13w4g15w4db13~x2/"><circle cx="18.4" cy="221.3" r="4" fill="#3465a4"><title>Spirit of 1994</title></circle></a><a href="/variants/s9/g16b2dp13lb2k6y2g16lb2k12~x2/"><circle cx="129.9" cy="167.9" r="4" fill="#3465a4"><title>Wilson's, No 225</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.6" cy="172.4" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/"><circle cx="75.4" cy="242.6" r="4" fill="#3465a4"><title>Arrol</title></circle></a><circle cx="115.1" cy="188.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

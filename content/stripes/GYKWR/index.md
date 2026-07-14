@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r39lb22k11ly22g5~x2/">Abbink, Ingmar (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r39lb22k11ly22g5~x2/"><img src="/variants/s5/r39lb22k11ly22g5~x2/sett.png" alt="Abbink, Ingmar (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/abbink-ingmar/">Abbink, Ingmar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/abbink-ingmar/"><img src="/variants/s5/r39lb22k11ly22g5~x2/sett.png" alt="Abbink, Ingmar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

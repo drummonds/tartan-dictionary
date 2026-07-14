@@ -8,10 +8,10 @@ crumbs:
 - name: "Gold Country"
   url: "/tartans/g/go/gold-country/"
 - name: "Gold Country (California)"
-  url: "/setts/db18ni18y28n13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18ni18y28n13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/gold-country/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGB](/stripes/bbgb/).
 
 Part of the [Gold Country](/tartans/g/go/gold-country/) tartan — the named design grouping this sett with its other cloths.

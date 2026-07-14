@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/">Tom Morris (Official)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><img src="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/sett.png" alt="Tom Morris (Official) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/tom-morris/">Tom Morris</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/tom-morris/"><img src="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/sett.png" alt="Tom Morris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

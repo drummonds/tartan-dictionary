@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/">Mount Dora</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><img src="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/sett.png" alt="Mount Dora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/mount-dora/">Mount Dora</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/mount-dora/"><img src="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/sett.png" alt="Mount Dora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

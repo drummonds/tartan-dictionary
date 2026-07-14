@@ -12,10 +12,10 @@ crumbs:
 - name: "Virtuoso"
   url: "/tartans/v/vi/virtuoso/"
 - name: "Virtuoso"
-  url: "/setts/r4w4k4w4k4w4k2lb23w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4w4k4w4k4w4k2lb23w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vi/virtuoso/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWKWKWW](/stripes/rwkwkwkww/).
 
 Part of the [Virtuoso](/tartans/v/vi/virtuoso/) tartan — the named design grouping this sett with its other cloths.

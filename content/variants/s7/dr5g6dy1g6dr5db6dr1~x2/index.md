@@ -10,10 +10,10 @@ crumbs:
 - name: "Gleneagles Group"
   url: "/tartans/g/gl/gleneagles-group/"
 - name: "Gleneagles Group Corporate Tartan"
-  url: "/setts/dr5g6dy1g6dr5db6dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr5g6dy1g6dr5db6dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/gleneagles-group/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGGGB](/stripes/bbbgggb/).
 
 Part of the [Gleneagles Group](/tartans/g/gl/gleneagles-group/) tartan — the named design grouping this sett with its other cloths.

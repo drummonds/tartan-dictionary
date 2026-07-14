@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k10y9db11g12ly3g9~x2/">Centeno-Oxford (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k10y9db11g12ly3g9~x2/"><img src="/variants/s6/k10y9db11g12ly3g9~x2/sett.png" alt="Centeno-Oxford (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/centeno-oxford/">Centeno-Oxford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/centeno-oxford/"><img src="/variants/s6/k10y9db11g12ly3g9~x2/sett.png" alt="Centeno-Oxford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db15w2db15y2db15r2db15y2db15w2db15r4k2~x2/">Royal National Lifeboat Inst. (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db15w2db15y2db15r2db15y2db15w2db15r4k2~x2/"><img src="/variants/s13/db15w2db15y2db15r2db15y2db15w2db15r4k2~x2/sett.png" alt="Royal National Lifeboat Inst. (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-national-lifeboat-institution/">Royal National Lifeboat Institution</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-national-lifeboat-institution/"><img src="/variants/s13/db15w2db15y2db15r2db15y2db15w2db15r4k2~x2/sett.png" alt="Royal National Lifeboat Institution sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

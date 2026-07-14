@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/ly29lyi3t19w3t3r3g17t3g4w3~x2~ly2503076-lyi3407090/">State Seal of California (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/ly29lyi3t19w3t3r3g17t3g4w3~x2~ly2503076-lyi3407090/"><img src="/variants/s10/ly29lyi3t19w3t3r3g17t3g4w3~x2~ly2503076-lyi3407090/sett.png" alt="State Seal of California (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-california/">State Seal of California</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-california/"><img src="/variants/s10/ly29lyi3t19w3t3r3g17t3g4w3~x2~ly2503076-lyi3407090/sett.png" alt="State Seal of California sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

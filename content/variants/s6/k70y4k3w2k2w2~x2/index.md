@@ -12,15 +12,15 @@ crumbs:
 - name: "Kang"
   url: "/tartans/k/ka/kang-2/"
 - name: "Kang Personal Tartan"
-  url: "/setts/k70y4k3w2k2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k70y4k3w2k2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ka/kang-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKKKKKGKWKW](/stripes/kkkkkkgkwkw/).
 
 Part of the [Kang](/tartans/k/ka/kang-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7425](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7425)
 
@@ -45,9 +45,11 @@ Earliest known date: 2007 Designed by Catriona Duffy and David Kang
 </details>
 
 ## Thread count
-K/88 K6 K6 K6 K6 K28 Y8 K6 W4 K4 W/4
+K/140 Y8 K6 W4 K4 W/4
 
-One full sett is **240 threads**.
+One full sett is **188 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/88 K6 K6 K6 K6 K28 Y8 K6 W4 K4 W/4 — 240 threads; it folds to the canonical 188-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **240 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/88 K6 K6 K6 K6 K28 Y8 K6 W4 K4 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/140 Y8 K6 W4 K4 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

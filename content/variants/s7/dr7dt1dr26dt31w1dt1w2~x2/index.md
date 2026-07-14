@@ -8,15 +8,15 @@ crumbs:
 - name: "Greater Victoria Police PB"
   url: "/tartans/g/gr/greater-victoria-police-pb/"
 - name: "Greater Victoria Police PB"
-  url: "/setts/dr7dt1dr26dt31w1dt1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr7dt1dr26dt31w1dt1w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBBWBWBWBBB](/stripes/bbbbwbwbwbbb/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/greater-victoria-police-pb/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBWBW](/stripes/bbbbwbw/).
 
 Part of the [Greater Victoria Police PB](/tartans/g/gr/greater-victoria-police-pb/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1522](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1522)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1522](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Greater Victoria Police PB (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1522">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Instead of adopting an existing tartan, the executive decided to create its own history by designing a tartan of its own. The tartan's blue and red is representative of the police organizations in the Greater Victoria area. The white stripes are significant in that they denote Queen Victoria's colonial police force. The colonial police predated any other police organization on Vancouver Island.' Through Burnett's & Struth of Ontario. Lochcarron swatch.</em></li>
-<li>2000 circa — Greater Victoria Police PB (Corp) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6429">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>"Instead of adopting an existing tartan the executive decided to create its own history by designing a tartan of its own. The tartan?s blue and red is representative of the police organizations in the Greater Victoria area. The white stripes are significant in that they denote Queen Victoria?s colonial police force. The colonial police predated any other police organization on Vancouver Island." Through Burnett's & Struth of Ontario. Lochcarron swatch.</em></li>
+<li>2000 circa — Greater Victoria Police PB (Corp) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6429/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>"Instead of adopting an existing tartan the executive decided to create its own history by designing a tartan of its own. The tartan?s blue and red is representative of the police organizations in the Greater Victoria area. The white stripes are significant in that they denote Queen Victoria?s colonial police force. The colonial police predated any other police organization on Vancouver Island." Through Burnett's & Struth of Ontario. Lochcarron swatch.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6429
 
 ## Thread count
-DR/14 DT2 DR52 DT62 W2 DT2 W4 DT2 W2 DT62 DR52 DT/2
+DR/14 DT2 DR52 DT62 W2 DT2 W/4
 
-One full sett is **500 threads**.
+One full sett is **258 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/14 DT2 DR52 DT62 W2 DT2 W4 DT2 W2 DT62 DR52 DT/2 — 500 threads; it folds to the canonical 258-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **500 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/14 DT2 DR52 DT62 W2 DT2 W4 DT2 W2 DT62 DR52 DT/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/14 DT2 DR52 DT62 W2 DT2 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

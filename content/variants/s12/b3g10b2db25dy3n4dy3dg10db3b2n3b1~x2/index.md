@@ -8,10 +8,10 @@ crumbs:
 - name: "Bowhunter"
   url: "/tartans/b/bo/bowhunter/"
 - name: "Bowhunter"
-  url: "/setts/b3g10b2db25dy3n4dy3dg10db3b2n3b1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b3g10b2db25dy3n4dy3dg10db3b2n3b1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bowhunter/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGGBGBBGB](/stripes/bbbbggbgbbgb/).
 
 Part of the [Bowhunter](/tartans/b/bo/bowhunter/) tartan — the named design grouping this sett with its other cloths.

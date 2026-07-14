@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2/">GRM (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2/"><img src="/variants/s12/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2/sett.png" alt="GRM (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grm-2/">GRM</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grm-2/"><img src="/variants/s12/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2/sett.png" alt="GRM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

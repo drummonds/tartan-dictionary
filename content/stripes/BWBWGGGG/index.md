@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db4w2db1w18dg18g18y3g4~x2/">Gigha, Green (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db4w2db1w18dg18g18y3g4~x2/"><img src="/variants/s8/db4w2db1w18dg18g18y3g4~x2/sett.png" alt="Gigha, Green (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gi/gigha/">Gigha</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/gigha/"><img src="/variants/s8/db4w2db1w18dg18g18y3g4~x2/sett.png" alt="Gigha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

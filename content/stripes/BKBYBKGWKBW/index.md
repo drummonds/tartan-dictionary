@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/">Faulkner (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/"><img src="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/sett.png" alt="Faulkner (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/faulkner/">Faulkner</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/faulkner/"><img src="/variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/sett.png" alt="Faulkner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

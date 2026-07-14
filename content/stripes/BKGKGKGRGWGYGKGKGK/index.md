@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3~x2~n2203265/">Lorne - Marquis of (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3~x2~n2203265/"><img src="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3~x2~n2203265/sett.png" alt="Lorne - Marquis of (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/">Lorne Asymmetric (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/"><img src="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/sett.png" alt="Lorne Asymmetric (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lorne/">Lorne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lorne/"><img src="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3~x2~n2203265/sett.png" alt="Lorne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lorne-asymmetric/">Lorne Asymmetric</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lorne-asymmetric/"><img src="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/sett.png" alt="Lorne Asymmetric sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

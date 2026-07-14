@@ -10,10 +10,10 @@ crumbs:
 - name: "MacDonald, Flora"
   url: "/tartans/m/ma/macdonald-flora/"
 - name: "MacDonald, Flora (Plaid)"
-  url: "/setts/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-flora/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBWBKBRBKGRGRGKWKGRGRGKBKBKB](/stripes/bkbkbkbwbkbrbkgrgrgkwkgrgrgkbkbkb/).
 
 Part of the [MacDonald, Flora](/tartans/m/ma/macdonald-flora/) tartan — the named design grouping this sett with its other cloths.

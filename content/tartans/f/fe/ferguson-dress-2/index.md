@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/ferguson/"
 - name: "Ferguson"
   url: "/families/ferguson/"
+aliases:
+- "/setts/lb34db24w18dr3w18dg2w3/"
+- "/setts/lb34db24w18r3w18g2w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbwbwgw/">WBWBWGW</a></nav>
 A tartan of the [Ferguson](/families/ferguson/) family.
 Its design is pattern [WBWBWGW](/stripes/wbwbwgw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Ferguson Dress** tartan groups 2 setts — the same named design recorded 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb34db24w18dr3w18dg2w3/">Ferguson Dress</a> ★</td><td><code>LB/68 DB48 W36 DR6 W36 DG4 W/6</code></td><td>334</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb34db24w18dr3w18dg2w3/"><img src="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/sett.png" alt="Ferguson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lb34db24w18r3w18g2w3/">Ferguson, dress</a></td><td><code>LB/68 DB48 W36 R6 W36 G4 W/6</code></td><td>334</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb34db24w18r3w18g2w3/"><img src="/variants/s7/lb34db24w18r3w18g2w3~x2/sett.png" alt="Ferguson, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/">Ferguson Dress</a> ★</td><td><code>LB/68 DB48 W36 DR6 W36 DG4 W/6</code></td><td>334</td><td>1980</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><img src="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/sett.png" alt="Ferguson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb34db24w18r3w18g2w3~x2/">Ferguson, dress</a></td><td><code>LB/68 DB48 W36 R6 W36 G4 W/6</code></td><td>334</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb34db24w18r3w18g2w3~x2/"><img src="/variants/s7/lb34db24w18r3w18g2w3~x2/sett.png" alt="Ferguson, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -40,6 +44,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/"><circle cx="201.3" cy="144.9" r="4" fill="#3465a4"><title>South Canterbury Centre P. &amp; D. Assoc., Jubilee</title></circle></a><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="208.3" cy="151.1" r="4" fill="#3465a4"><title>South Canterbury Jubillee (Corporate</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="196.7" cy="210.8" r="4" fill="#3465a4"><title>Allanton Dress</title></circle></a><a href="/variants/s7/w8g5lb10dp24w30g2lp2~x2/"><circle cx="237.7" cy="189.9" r="4" fill="#3465a4"><title>Shiel</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.0" cy="190.9" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.4" cy="224.9" r="4" fill="#3465a4"><title>Wallace Blue Dress</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="258.5" cy="202.7" r="4" fill="#3465a4"><title>Shiel Lavender</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="324.4" cy="198.2" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s8/y8db4lb23w3db22w25db3w6~x2/"><circle cx="179.0" cy="231.4" r="4" fill="#3465a4"><title>Culloden Blue Dress Fancy</title></circle></a><a href="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/"><circle cx="221.4" cy="178.8" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><circle cx="209.9" cy="204.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/"><circle cx="201.7" cy="144.6" r="4" fill="#3465a4"><title>South Canterbury Centre P. &amp; D. Assoc., Jubilee</title></circle></a><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="208.6" cy="150.8" r="4" fill="#3465a4"><title>South Canterbury Jubillee (Corporate</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="196.8" cy="210.5" r="4" fill="#3465a4"><title>Allanton Dress</title></circle></a><a href="/variants/s7/w8g5lb10dp24w30g2lp2~x2/"><circle cx="238.0" cy="189.6" r="4" fill="#3465a4"><title>Shiel</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.3" cy="190.7" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.6" cy="224.7" r="4" fill="#3465a4"><title>Wallace Blue Dress</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="258.7" cy="202.5" r="4" fill="#3465a4"><title>Shiel Lavender</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="324.8" cy="198.1" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s8/y8db4lb23w3db22w25db3w6~x2/"><circle cx="179.1" cy="231.1" r="4" fill="#3465a4"><title>Culloden Blue Dress Fancy</title></circle></a><a href="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/"><circle cx="221.6" cy="178.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><circle cx="210.0" cy="203.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

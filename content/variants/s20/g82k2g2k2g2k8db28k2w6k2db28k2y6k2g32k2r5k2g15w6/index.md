@@ -12,15 +12,15 @@ crumbs:
 - name: "Ayre"
   url: "/tartans/a/ay/ayre-2/"
 - name: "Ayre Personal Tartan"
-  url: "/setts/g82k2g2k2g2k8db28k2w6k2db28k2y6k2g32k2r5k2g15w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g82k2g2k2g2k8db28k2w6k2db28k2y6k2g32k2r5k2g15w6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGKGKBKWKBKGKGKRKGWGKRKGKGKBKWKBKGKGK](/stripes/gkgkgkbkwkbkgkgkrkgwgkrkgkgkbkwkbkgkgk/).
+provenance below. It is one weaving of the [sett](/tartans/a/ay/ayre-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKGKBKWKBKGKGKRKGW](/stripes/gkgkgkbkwkbkgkgkrkgw/).
 
 Part of the [Ayre](/tartans/a/ay/ayre-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6305](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6305)
 
@@ -45,9 +45,11 @@ Earliest known date: 1819 This is Wilsons No. 038 (1819) and has been adopted by
 </details>
 
 ## Thread count
-G/82 K2 G2 K2 G2 K8 DB28 K2 W6 K2 DB28 K2 Y6 K2 G32 K2 R5 K2 G15 W6 G15 K2 R5 K2 G32 K2 Y6 K2 DB28 K2 W6 K2 DB28 K8 G2 K2 G2 K/2
+G/82 K2 G2 K2 G2 K8 DB28 K2 W6 K2 DB28 K2 Y6 K2 G32 K2 R5 K2 G15 W/6
 
-One full sett is **684 threads**.
+One full sett is **384 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/82 K2 G2 K2 G2 K8 DB28 K2 W6 K2 DB28 K2 Y6 K2 G32 K2 R5 K2 G15 W6 G15 K2 R5 K2 G32 K2 Y6 K2 DB28 K2 W6 K2 DB28 K8 G2 K2 G2 K/2 — 684 threads; it folds to the canonical 384-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **684 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/82 K2 G2 K2 G2 K8 DB28 K2 W6 K2 DB28 K2 Y6 K2 G32 K2 R5 K2 G15 W6 G15 K2 R5 K2 G32 K2 Y6 K2 DB28 K2 W6 K2 DB28 K8 G2 K2 G2 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/82 K2 G2 K2 G2 K8 DB28 K2 W6 K2 DB28 K2 Y6 K2 G32 K2 R5 K2 G15 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

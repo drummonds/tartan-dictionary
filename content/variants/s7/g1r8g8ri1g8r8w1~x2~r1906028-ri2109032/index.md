@@ -12,10 +12,10 @@ crumbs:
 - name: "MacKinnon, hunting"
   url: "/tartans/m/ma/mackinnon-hunting-5/"
 - name: "MacKinnon Hunting"
-  url: "/setts/g1r8g8ri1g8r8w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g1r8g8ri1g8r8w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackinnon-hunting-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRW](/stripes/grgrgrw/).
 
 Part of the [MacKinnon, hunting](/tartans/m/ma/mackinnon-hunting-5/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "MacNab VS"
   url: "/tartans/m/ma/macnab-vs/"
 - name: "MacNab VS"
-  url: "/setts/g6r2dr2g4dr2r12k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g6r2dr2g4dr2r12k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macnab-vs/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGBRK](/stripes/grbgbrk/).
 
 Part of the [MacNab VS](/tartans/m/ma/macnab-vs/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/">Black Country (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><img src="/variants/s8/k21r1k1y1k1r1k3w3~x6/sett.png" alt="Black Country (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-country/">Black Country</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-country/"><img src="/variants/s8/k21r1k1y1k1r1k3w3~x6/sett.png" alt="Black Country sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

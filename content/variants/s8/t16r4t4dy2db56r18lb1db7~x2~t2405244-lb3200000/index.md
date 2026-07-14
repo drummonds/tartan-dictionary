@@ -8,10 +8,10 @@ crumbs:
 - name: "Union Memorial"
   url: "/tartans/u/un/union-memorial-2/"
 - name: "Union Memorial Tartan"
-  url: "/setts/t16r4t4dy2db56r18lb1db7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t16r4t4dy2db56r18lb1db7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/union-memorial-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBRWB](/stripes/brbgbrwb/).
 
 Part of the [Union Memorial](/tartans/u/un/union-memorial-2/) tartan — the named design grouping this sett with its other cloths.

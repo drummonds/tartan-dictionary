@@ -12,10 +12,10 @@ crumbs:
 - name: "Anderson"
   url: "/tartans/a/an/anderson-14/"
 - name: "Anderson (MacGregor-Hastie #1)"
-  url: "/setts/r8lb16k2r4k2lb51k8w8k6y4k4y4k12r4k12r4g16k2r4k2r16g8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8lb16k2r4k2lb51k8w8k6y4k4y4k12r4k12r4g16k2r4k2r16g8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/anderson-14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRKGRKRKGKGKWKWKRKWR](/stripes/grkrkgrkrkgkgkwkwkrkwr/).
 
 Part of the [Anderson](/tartans/a/an/anderson-14/) tartan — the named design grouping this sett with its other cloths.

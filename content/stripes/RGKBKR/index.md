@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r8dg20k20db20k3r8~x2/">Atholl Highlanders (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><img src="/variants/s6/r8dg20k20db20k3r8~x2/sett.png" alt="Atholl Highlanders (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r2k1db6k2g6o2~x4/">MacCaughan or MacEachain Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2k1db6k2g6o2~x4/"><img src="/variants/s6/r2k1db6k2g6o2~x4/sett.png" alt="MacCaughan or MacEachain Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/at/atholl-highlanders/">Atholl Highlanders</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/at/atholl-highlanders/"><img src="/variants/s6/r8dg20k20db20k3r8~x2/sett.png" alt="Atholl Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maccaughan-or-maceachain/">MacCaughan, or MacEachain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccaughan-or-maceachain/"><img src="/variants/s6/r2k1db6k2g6o2~x4/sett.png" alt="MacCaughan, or MacEachain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

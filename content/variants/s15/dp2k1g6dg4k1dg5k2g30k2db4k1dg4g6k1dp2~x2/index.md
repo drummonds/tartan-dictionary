@@ -12,10 +12,10 @@ crumbs:
 - name: "Letham Hunting"
   url: "/tartans/l/le/letham-hunting-2/"
 - name: "Letham Hunting"
-  url: "/setts/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/letham-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGKBKGKGKGGKB](/stripes/bkggkbkgkgkggkb/).
 
 Part of the [Letham Hunting](/tartans/l/le/letham-hunting-2/) tartan — the named design grouping this sett with its other cloths.

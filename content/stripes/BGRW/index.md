@@ -28,16 +28,16 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db21g34r14w6~x2/">Harbison (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db21g34r14w6~x2/"><img src="/variants/s4/db21g34r14w6~x2/sett.png" alt="Harbison (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/db10g10r5w1~x2/">Thorntons Law Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db10g10r5w1~x2/"><img src="/variants/s4/db10g10r5w1~x2/sett.png" alt="Thorntons Law Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harbison/">Harbison</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harbison/"><img src="/variants/s4/db21g34r14w6~x2/sett.png" alt="Harbison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thorntons-law/">Thorntons Law</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thorntons-law/"><img src="/variants/s4/db10g10r5w1~x2/sett.png" alt="Thorntons Law sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/db39y8r3w1~x4/">Norwich University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db39y8r3w1~x4/"><img src="/variants/s4/db39y8r3w1~x4/sett.png" alt="Norwich University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/norwich-university/">Norwich University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-university/"><img src="/variants/s4/db39y8r3w1~x4/sett.png" alt="Norwich University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/dp4g10r1w1~x2~r2109032/">Wilson's No.189</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><img src="/variants/s4/dp4g10r1w1~x2~r2109032/sett.png" alt="Wilson's No.189 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-189/">Wilson's No.189</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-189/"><img src="/variants/s4/dp4g10r1w1~x2~r2109032/sett.png" alt="Wilson's No.189 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

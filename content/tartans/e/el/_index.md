@@ -19,7 +19,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/e/el/ellan-vannin-2/"><img src="/variants/s6/o2g8dp4w2o13t2~x4/sett.png" alt="Ellan Vannin" width="140"><br><strong>Ellan Vannin (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/e/el/ellene/"><img src="/variants/s22/k9r3k3lb11k3g11k3g3k3g11k3lb11k3r3k9r3k3g11k3lb11k3lb3~x2/sett.png" alt="Ellene )" width="140"><br><strong>Ellene ) (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/e/el/elliot/"><img src="/variants/s4/db44dy12db9dr3~x2/sett.png" alt="Elliot" width="140"><br><strong>Elliot (1)</strong></a><div class="clan-territory">Elliot</div></li>
-<li><a class="tartan" href="/tartans/e/el/elliot-2/"><img src="/variants/s4/db16dr4db3r1~x2/sett.png" alt="Elliot" width="140"><br><strong>Elliot (1)</strong></a><div class="clan-territory">Elliot</div></li>
+<li><a class="tartan" href="/tartans/e/el/elliot-2/"><img src="/variants/s4/db16dr4db3r1~x6/sett.png" alt="Elliot" width="140"><br><strong>Elliot (1)</strong></a><div class="clan-territory">Elliot</div></li>
 <li><a class="tartan" href="/tartans/e/el/elliot-3/"><img src="/variants/s6/db9dy12db44dy12db9dr3~x2/sett.png" alt="Elliot" width="140"><br><strong>Elliot (1)</strong></a><div class="clan-territory">Elliot</div></li>
 <li><a class="tartan" href="/tartans/e/el/elliott/"><img src="/variants/s4/db16r4db3dp1~x2/sett.png" alt="Elliott" width="140"><br><strong>Elliott (1)</strong></a><div class="clan-territory">Elliott</div></li>
 <li><a class="tartan" href="/tartans/e/el/elliott-2/"><img src="/variants/s4/db16b4db3r1~x2/sett.png" alt="Elliott" width="140"><br><strong>Elliott (1)</strong></a><div class="clan-territory">Elliott</div></li>
@@ -30,7 +30,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/e/el/elmore/"><img src="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/sett.png" alt="Elmore" width="140"><br><strong>Elmore (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/e/el/elora/"><img src="/variants/s8/db2g2db11n2w8lb12ly2lb2~x2/sett.png" alt="Elora" width="140"><br><strong>Elora (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/e/el/elphinstone/"><img src="/variants/s3/g12dp3g1~x2/sett.png" alt="Elphinstone" width="140"><br><strong>Elphinstone (2)</strong></a></li>
-<li><a class="tartan" href="/tartans/e/el/elphinstone-check/"><img src="/variants/s3/g6dp2g1~x4/sett.png" alt="Elphinstone Check" width="140"><br><strong>Elphinstone Check (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/el/elphinstone-check/"><img src="/variants/s3/g6dp2g1~x20/sett.png" alt="Elphinstone Check" width="140"><br><strong>Elphinstone Check (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/e/el/elsa-dance/"><img src="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/sett.png" alt="Elsa Dance" width="140"><br><strong>Elsa Dance (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/e/el/elvan/"><img src="/variants/s11/ly42dy10b2dy2w2dy2ly10w6dy2w3ly2~x2/sett.png" alt="Elvan" width="140"><br><strong>Elvan (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/e/el/elwyn-glen/"><img src="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/sett.png" alt="Elwyn Glen" width="140"><br><strong>Elwyn Glen (1)</strong></a></li>

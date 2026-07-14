@@ -12,10 +12,10 @@ crumbs:
 - name: "Harmon"
   url: "/tartans/h/ha/harmon/"
 - name: "Harmon (Personal)"
-  url: "/setts/k2r6y2r2y2r19db2g2db2r2dr4k2dr11g2dr2g2dr6y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2r6y2r2y2r19db2g2db2r2dr4k2dr11g2dr2g2dr6y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harmon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBKBRBGBRGRGRK](/stripes/gbgbgbkbrbgbrgrgrk/).
 
 Part of the [Harmon](/tartans/h/ha/harmon/) tartan — the named design grouping this sett with its other cloths.

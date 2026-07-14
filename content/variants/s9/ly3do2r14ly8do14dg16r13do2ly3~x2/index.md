@@ -8,15 +8,15 @@ crumbs:
 - name: "Monaghan, County"
   url: "/tartans/m/mo/monaghan-county/"
 - name: "Monaghan, County"
-  url: "/setts/ly3do2r14ly8do14dg16r13do2ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly3do2r14ly8do14dg16r13do2ly3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRGBYRBYBRYBGRBY](/stripes/brgbyrbybrybgrby/).
+provenance below. It is one weaving of the [sett](/tartans/m/mo/monaghan-county/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [YBRGBYRBY](/stripes/ybrgbyrby/).
 
 Part of the [Monaghan, County](/tartans/m/mo/monaghan-county/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2977](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2977)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2977](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Monaghan, County (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2977">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A03400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SR #A03400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These are not 'officially sanctioned' District tartans but have apparently proved popular and no doubt in time will be accepted as genuine District rather than Fashion tartans. Designed for Macnaughtons of Pitlochry as a collection of trade tartans.</em></li>
-<li>1997 — Monaghan, County (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2267">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A03400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SR #A03400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These were not 'officially sanctioned' District tartans but, like many of their historic district tartan predecessors have apparently proved popular enough to be regarded as 'District' rather than their original categorisation of 'Fashion'. Sample in STA's Johnston Collection.</em></li>
+<li>1997 — Monaghan, County (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2267/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="E #4C3428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A03400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SR #A03400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar. These were not 'officially sanctioned' District tartans but, like many of their historic district tartan predecessors have apparently proved popular enough to be regarded as 'District' rather than their original categorisation of 'Fashion'. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2267
 
 ## Thread count
-LY/6 DO4 R26 DG32 DO28 LY16 R28 DO4 LY6 DO4 R28 LY16 DO28 DG32 R26 DO/4
+LY/6 DO4 R28 LY16 DO28 DG32 R26 DO4 LY/6
 
-One full sett is **566 threads**.
+One full sett is **288 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LY/6 DO4 R26 DG32 DO28 LY16 R28 DO4 LY6 DO4 R28 LY16 DO28 DG32 R26 DO/4 — 566 threads; it folds to the canonical 288-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **566 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/6 DO4 R26 DG32 DO28 LY16 R28 DO4 LY6 DO4 R28 LY16 DO28 DG32 R26 DO/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/6 DO4 R28 LY16 DO28 DG32 R26 DO4 LY/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

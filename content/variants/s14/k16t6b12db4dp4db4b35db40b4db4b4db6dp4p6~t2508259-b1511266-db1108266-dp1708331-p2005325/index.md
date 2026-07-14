@@ -12,10 +12,10 @@ crumbs:
 - name: "Benedictus"
   url: "/tartans/b/be/benedictus/"
 - name: "Benedictus Blue (Personal)"
-  url: "/setts/k16t6b12db4dp4db4b35db40b4db4b4db6dp4p6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k16t6b12db4dp4db4b35db40b4db4b4db6dp4p6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/benedictus/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBBK](/stripes/bbbbbbbbbbbbbk/).
 
 Part of the [Benedictus](/tartans/b/be/benedictus/) tartan — the named design grouping this sett with its other cloths.

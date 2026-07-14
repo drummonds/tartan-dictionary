@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/">Beaudoux - Amis Picards (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/"><img src="/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/sett.png" alt="Beaudoux - Amis Picards (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/beaudoux/">Beaudoux</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/beaudoux/"><img src="/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/sett.png" alt="Beaudoux sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

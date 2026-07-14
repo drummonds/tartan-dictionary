@@ -12,10 +12,10 @@ crumbs:
 - name: "Donachie of Brockloch"
   url: "/tartans/d/do/donachie-of-brockloch/"
 - name: "Donachie of Brockloch"
-  url: "/setts/dr24g2dr2g20dr25g2dr2g2dr2g20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr24g2dr2g20dr25g2dr2g2dr2g20/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/donachie-of-brockloch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/).
 
 Part of the [Donachie of Brockloch](/tartans/d/do/donachie-of-brockloch/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=948](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/2003 — Donachie of Brockloch (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=948">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#6C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #6C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C24;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #003C24"></span><br><em>For the use of the Laird of Brockloch, his family, all those of the name of Donachie (and variants) and also anybody with an association with the Lairdship of Brockloch, Kirkcubrightshire. This, a modified version of the clan Donnachaidh tartan Scottish Tartrans World Register reference #893. D.C. Stewart wrote, "a fragment of which now belongs to the Clan Donnachaidh Society and is given the name Robertson. The plaid of which it was part is said to have been presented by the Prince to a member of the Robertson clan during the '45." (The Setts of the Scottish Tartans 1950.)</em></li>
-<li>pre 2005 — Donachie of Brockloch (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6702">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#940000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #940000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005834;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005834"></span><br><em>This is a modification of the Clan Donnachaidh tartan designed for the use of the Laird of Brockloch, his family and all of the name and its spelling variants. (STWR). www.donachiesociety.co.uk Woven by D C Dalgliesh of Selkirk. Note: It is such a slight modification of the Donachie (6138) that the STA would not have accepted it as a different tartan had it been approached to register it.</em></li>
+<li>pre 2005 — Donachie of Brockloch (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6702/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#940000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #940000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005834;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005834"></span><br><em>This is a modification of the Clan Donnachaidh tartan designed for the use of the Laird of Brockloch, his family and all of the name and its spelling variants. (STWR). www.donachiesociety.co.uk Woven by D C Dalgliesh of Selkirk. Note: It is such a slight modification of the Donachie (6138) that the STA would not have accepted it as a different tartan had it been approached to register it.</em></li>
 </ul>
 </details>
 

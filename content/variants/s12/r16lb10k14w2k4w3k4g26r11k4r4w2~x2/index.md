@@ -10,17 +10,17 @@ crumbs:
 - name: "Stewart"
   url: "/families/stewart/"
 - name: "Stewart"
-  url: "/tartans/s/st/stewart-11/"
+  url: "/tartans/s/st/stewart-2/"
 - name: "Stewart/Stuart - Prince Charles Edward"
-  url: "/setts/r16lb10k14w2k4w3k4g26r11k4r4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r16lb10k14w2k4w3k4g26r11k4r4w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWKWKWKGRKRWRKRGKWKWKW](/stripes/rwkwkwkgrkrwrkrgkwkwkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWKWKWKGRKRW](/stripes/rwkwkwkgrkrw/).
 
-Part of the [Stewart](/tartans/s/st/stewart-11/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stewart](/tartans/s/st/stewart-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3942](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3942)
 
@@ -32,7 +32,7 @@ Earliest known date: 1746 'Trews worn by Prince Charles Edward'
 <summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1745 — Stewart/Stuart - Prince Charles Edward (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3942">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>The reason for such a profusion of Prince Charles Edward tartans is said to be his habit of honouring his host 'of the day' by wearing his tartan. In his travels he obviously stayed/hid with many hosts.Trews in the West Higland Museum at Fort William. Where does this come from and is it correct? 2 x W and no Y lines - Scottish Tartans Authority May 2007.</em></li>
-<li>1745 — Stewart - Pr Ch Ed (Error?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1374">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>The reason for such a profusion of Prince Charles Edward tartans is said to be his habit of honouring his host 'of the day' by wearing his tartan. In his travels he obviously stayed/hid with many hosts.Trews in the West Higland Museum at Fort William. Where does this come from and is it correct? 2 x W and no Y lines - PEM May 07</em></li>
+<li>1745 — Stewart - Pr Ch Ed (Error?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1374/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>The reason for such a profusion of Prince Charles Edward tartans is said to be his habit of honouring his host 'of the day' by wearing his tartan. In his travels he obviously stayed/hid with many hosts.Trews in the West Higland Museum at Fort William. Where does this come from and is it correct? 2 x W and no Y lines - PEM May 07</em></li>
 <li>1746 — Stuart Pr Charles Edward Artifact Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1374">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span></li>
 <li>undated — Stuart / Stewart, Pr Charles Edward (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5480B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5480B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span></li>
 </ul>
@@ -63,9 +63,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1374
 
 ## Thread count
-R/32 LB20 K28 W4 K8 W6 K8 G52 R22 K8 R8 W4 R8 K8 R22 G52 K8 W6 K8 W4 K28 LB/20
+R/32 LB20 K28 W4 K8 W6 K8 G52 R22 K8 R8 W/4
 
-One full sett is **676 threads**.
+One full sett is **364 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/32 LB20 K28 W4 K8 W6 K8 G52 R22 K8 R8 W4 R8 K8 R22 G52 K8 W6 K8 W4 K28 LB/20 — 676 threads; it folds to the canonical 364-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -74,7 +76,7 @@ One full sett is **676 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/32 LB20 K28 W4 K8 W6 K8 G52 R22 K8 R8 W4 R8 K8 R22 G52 K8 W6 K8 W4 K28 LB/20 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/32 LB20 K28 W4 K8 W6 K8 G52 R22 K8 R8 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

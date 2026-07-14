@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dp4k3b18r3db34w3~x2/">Margach, William (Dumbarton)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><img src="/variants/s6/dp4k3b18r3db34w3~x2/sett.png" alt="Margach, William (Dumbarton) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/margach-william/">Margach, William</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/margach-william/"><img src="/variants/s6/dp4k3b18r3db34w3~x2/sett.png" alt="Margach, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

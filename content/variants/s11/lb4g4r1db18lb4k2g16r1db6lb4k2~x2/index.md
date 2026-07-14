@@ -8,10 +8,10 @@ crumbs:
 - name: "Coopers & Lybrand"
   url: "/tartans/c/co/coopers-lybrand-2/"
 - name: "Coopers & Lybrand"
-  url: "/setts/lb4g4r1db18lb4k2g16r1db6lb4k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4g4r1db18lb4k2g16r1db6lb4k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/coopers-lybrand-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBRGKWBRGW](/stripes/kwbrgkwbrgw/).
 
 Part of the [Coopers & Lybrand](/tartans/c/co/coopers-lybrand-2/) tartan — the named design grouping this sett with its other cloths.

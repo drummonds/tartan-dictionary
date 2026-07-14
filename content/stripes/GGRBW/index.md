@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g15y3r3dp8w2~x6/">ChuMac (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g15y3r3dp8w2~x6/"><img src="/variants/s5/g15y3r3dp8w2~x6/sett.png" alt="ChuMac (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chumac/">ChuMac</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chumac/"><img src="/variants/s5/g15y3r3dp8w2~x6/sett.png" alt="ChuMac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Culloden Unidentified"
   url: "/tartans/c/cu/culloden-unidentified-2/"
 - name: "Culloden Unidentified Plaid"
-  url: "/setts/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/culloden-unidentified-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRGRBRBRBRBRBRBRGRBRGRBRBRBRBRGRBRGRBRB](/stripes/brbrbrgrbrbrbrbrbrbrgrbrgrbrbrbrbrgrbrgrbrb/).
 
 Part of the [Culloden Unidentified](/tartans/c/cu/culloden-unidentified-2/) tartan — the named design grouping this sett with its other cloths.

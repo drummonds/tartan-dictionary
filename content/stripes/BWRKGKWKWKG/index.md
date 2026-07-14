@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/">Norwegian Night</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/"><img src="/variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/sett.png" alt="Norwegian Night sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/norwegian-night-2/">Norwegian Night</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norwegian-night-2/"><img src="/variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/sett.png" alt="Norwegian Night sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

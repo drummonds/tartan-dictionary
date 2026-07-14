@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/">Methodist Church</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/"><img src="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/sett.png" alt="Methodist Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/methodist-church/">Methodist Church</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/methodist-church/"><img src="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/sett.png" alt="Methodist Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

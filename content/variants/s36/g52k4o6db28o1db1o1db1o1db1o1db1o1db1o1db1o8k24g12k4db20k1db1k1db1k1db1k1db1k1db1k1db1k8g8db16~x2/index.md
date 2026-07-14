@@ -8,10 +8,10 @@ crumbs:
 - name: "13, Centennial Warp"
   url: "/tartans/0-9/0-9/13-centennial-warp/"
 - name: "13, Centennial Warp"
-  url: "/setts/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/0-9/0-9/13-centennial-warp/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBKBKBKBKBKBKBKGKRBRBRBRBRBRBRBRKG](/stripes/bgkbkbkbkbkbkbkbkgkrbrbrbrbrbrbrbrkg/).
 
 Part of the [13, Centennial Warp](/tartans/0-9/0-9/13-centennial-warp/) tartan — the named design grouping this sett with its other cloths.

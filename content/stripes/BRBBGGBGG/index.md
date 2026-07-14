@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/">Westbrook (2013)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/"><img src="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/sett.png" alt="Westbrook (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westbrook/">Westbrook</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westbrook/"><img src="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/sett.png" alt="Westbrook sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/">Norwegian Migration Period (Artefact</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/"><img src="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/sett.png" alt="Norwegian Migration Period (Artefact sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/norwegian-migration-period/">Norwegian Migration Period</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norwegian-migration-period/"><img src="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/sett.png" alt="Norwegian Migration Period sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

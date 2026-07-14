@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/">Black Watch Dress (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/"><img src="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/sett.png" alt="Black Watch Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-watch-dress-2/">Black Watch Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-watch-dress-2/"><img src="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/sett.png" alt="Black Watch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/sutherland-dress-2/">Sutherland Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sutherland-dress-2/"><img src="/variants/s13/db6k5db10k10g13k3g13k10w4db4w18db2w3~x2/sett.png" alt="Sutherland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

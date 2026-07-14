@@ -12,10 +12,10 @@ crumbs:
 - name: "MacTaggert"
   url: "/tartans/m/ma/mactaggert-2/"
 - name: "MacTaggert Clan Tartan"
-  url: "/setts/db9k12g2lb4g18lb4g2k12db12r2db2r2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db9k12g2lb4g18lb4g2k12db12r2db2r2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mactaggert-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGWGWGKBRBRB](/stripes/bkgwgwgkbrbrb/).
 
 Part of the [MacTaggert](/tartans/m/ma/mactaggert-2/) tartan — the named design grouping this sett with its other cloths.

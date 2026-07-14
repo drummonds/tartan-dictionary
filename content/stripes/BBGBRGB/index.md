@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db4dg2r17dr9dg10db30n2~x2/">Dempster, Ross (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db4dg2r17dr9dg10db30n2~x2/"><img src="/variants/s7/db4dg2r17dr9dg10db30n2~x2/sett.png" alt="Dempster, Ross (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/">Ross Dempster (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/"><img src="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/sett.png" alt="Ross Dempster (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dempster-ross/">Dempster, Ross</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/dempster-ross/"><img src="/variants/s7/db4dg2r17dr9dg10db30n2~x2/sett.png" alt="Dempster, Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-dempster/">Ross Dempster</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-dempster/"><img src="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/sett.png" alt="Ross Dempster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

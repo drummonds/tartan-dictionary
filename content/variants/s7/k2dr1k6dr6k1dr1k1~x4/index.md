@@ -12,10 +12,10 @@ crumbs:
 - name: "Campbell of Lochlane"
   url: "/tartans/c/ca/campbell-of-lochlane/"
 - name: "Campbell of Lochlane"
-  url: "/setts/k2dr1k6dr6k1dr1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2dr1k6dr6k1dr1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-of-lochlane/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBK](/stripes/kbkbkbk/).
 
 Part of the [Campbell of Lochlane](/tartans/c/ca/campbell-of-lochlane/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5031](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1730 — Campbell of Lochlane (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5031">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><br><em>Peter MacDonald swatch collection, Stone Mountain Games, in 1994. From the 1730 portrait of Sheriff Campbell of Lochlane near Crieff.</em></li>
-<li>1730 — Campbell of Lochlane (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3799">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><br><em>Peter MacDonald swatch collection, Stone Mountain Games, in 1994. From the 1730 portrait of Sheriff Campbell of Lochlane near Crieff.</em></li>
+<li>1730 — Campbell of Lochlane (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3799/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><br><em>Peter MacDonald swatch collection, Stone Mountain Games, in 1994. From the 1730 portrait of Sheriff Campbell of Lochlane near Crieff.</em></li>
 </ul>
 </details>
 

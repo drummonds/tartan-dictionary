@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db3t2w2t30w30r2w3~x2/">Torridon, Royal Blue (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3t2w2t30w30r2w3~x2/"><img src="/variants/s7/db3t2w2t30w30r2w3~x2/sett.png" alt="Torridon, Royal Blue (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/torridon-royal/">Torridon Royal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/torridon-royal/"><img src="/variants/s7/db3t2w2t30w30r2w3~x2/sett.png" alt="Torridon Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

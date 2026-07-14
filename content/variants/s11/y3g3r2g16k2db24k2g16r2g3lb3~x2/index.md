@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Tay"
   url: "/tartans/l/lo/loch-tay/"
 - name: "Loch Tay"
-  url: "/setts/y3g3r2g16k2db24k2g16r2g3lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3g3r2g16k2db24k2g16r2g3lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-tay/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGKBKGRGW](/stripes/ggrgkbkgrgw/).
 
 Part of the [Loch Tay](/tartans/l/lo/loch-tay/) tartan — the named design grouping this sett with its other cloths.

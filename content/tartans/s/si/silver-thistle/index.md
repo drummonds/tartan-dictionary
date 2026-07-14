@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k4n2k46db20k6dbi3g4/"
 ---
-Its design is pattern [BKBKBKBKBKBG](/stripes/bkbkbkbkbkbg/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkbkbk/">GBKBKBK</a></nav>
+Its design is pattern [GBKBKBK](/stripes/gbkbkbk/) — the page of every tartan sharing this colour sequence.
 
 The **Silver Thistle** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4n2k46db20k6dbi3g4/">Silver Thistle</a></td><td><code>G/8 DBi6 K12 DB40 K92 N4 K8 N4 K92 DB40 K12 DBi/6</code></td><td>324</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4n2k46db20k6dbi3g4/"><img src="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/sett.png" alt="Silver Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/">Silver Thistle</a></td><td><code>K/8 N4 K92 DB40 K12 DBi6 G/8</code></td><td>324</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><img src="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/sett.png" alt="Silver Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r1k23y3db16y3k22r1w1~x2/"><circle cx="337.0" cy="106.8" r="4" fill="#3465a4"><title>Schöbitz</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="356.8" cy="134.6" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s8/k2dbi6k1db7g13k11db42r2~x2~dbi1605267-db1003265/"><circle cx="347.4" cy="98.8" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><circle cx="315.4" cy="146.2" r="4" fill="#3465a4"><title>Patriot Weavers</title></circle></a><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="487.2" cy="103.8" r="4" fill="#3465a4"><title>Gibson, Robert</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="366.2" cy="119.6" r="4" fill="#3465a4"><title>Pride of Nova Scotia</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="304.7" cy="165.8" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="329.3" cy="140.1" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s6/k40db10g6k2g3k2~x2/"><circle cx="421.0" cy="128.9" r="4" fill="#3465a4"><title>Daks</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="378.2" cy="112.6" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><circle cx="382.7" cy="110.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r1k23y3db16y3k22r1w1~x2/"><circle cx="338.1" cy="106.9" r="4" fill="#3465a4"><title>Schöbitz</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="357.9" cy="134.8" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s8/k2dbi6k1db7g13k11db42r2~x2~dbi1605267-db1003265/"><circle cx="348.4" cy="98.9" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><circle cx="316.3" cy="146.3" r="4" fill="#3465a4"><title>Patriot Weavers</title></circle></a><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="488.7" cy="104.2" r="4" fill="#3465a4"><title>Gibson, Robert</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="367.4" cy="119.8" r="4" fill="#3465a4"><title>Pride of Nova Scotia</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="305.7" cy="166.0" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="330.4" cy="140.3" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s6/k40db10g6k2g3k2~x2/"><circle cx="422.3" cy="129.2" r="4" fill="#3465a4"><title>Daks</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="379.3" cy="112.7" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><circle cx="383.9" cy="110.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

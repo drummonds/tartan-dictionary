@@ -8,7 +8,13 @@ crumbs:
   url: "/clan/urquhart/"
 - name: "Urquhart"
   url: "/families/urquhart/"
+aliases:
+- "/setts/g1k1g8k8db8r1db8k8g1k1g1k1g3w1/"
+- "/setts/g4k1g1k1g1k8db8r1db8k8g8k1g1/"
+- "/setts/g8k1g1k1g1k8db8dr1db8k8g8k1g1/"
+- "/setts/g8k1g1k1g1k8db8r1db8k8g8k1g1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgkbrbkgkgkgw/">GKGKBRBKGKGKGW</a></nav>
 A tartan of the [Urquhart](/families/urquhart/) family.
 Its design is pattern [GKGKBRBKGKGKGW](/stripes/gkgkbrbkgkgkgw/) — the page of every tartan sharing this colour sequence.
 
@@ -20,14 +26,14 @@ The **Urquhart** tartan groups 4 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g1k1g8k8db8r1db8k8g1k1g1k1g3w1/">Urquhart</a> ★</td><td><code>G/2 K2 G16 K16 DB16 R2 DB16 K16 G2 K2 G2 K2 G6 W/2</code></td><td>200</td><td>1862</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g1k1g8k8db8r1db8k8g1k1g1k1g3w1/"><img src="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g4k1g1k1g1k8db8r1db8k8g8k1g1/">Urquhart</a></td><td><code>G/32 K8 G8 K8 G8 K64 DB64 R8 DB64 K64 G64 K8 G/8</code></td><td>776</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g4k1g1k1g1k8db8r1db8k8g8k1g1/"><img src="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g8k1g1k1g1k8db8dr1db8k8g8k1g1/">(Logan)</a></td><td><code>G/16 K2 G2 K2 G2 K16 DB16 DR2 DB16 K16 G16 K2 G/2</code></td><td>202</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8k1g1k1g1k8db8dr1db8k8g8k1g1/"><img src="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/sett.png" alt="(Logan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g8k1g1k1g1k8db8r1db8k8g8k1g1/">L</a></td><td><code>G/16 K2 G2 K2 G2 K16 DB16 R2 DB16 K16 G16 K2 G/2</code></td><td>202</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8k1g1k1g1k8db8r1db8k8g8k1g1/"><img src="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/sett.png" alt="L sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/">Urquhart</a> ★</td><td><code>G/2 K2 G16 K16 DB16 R2 DB16 K16 G2 K2 G2 K2 G6 W/2</code></td><td>200</td><td>1862</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/"><img src="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/">Urquhart</a></td><td><code>G/32 K8 G8 K8 G8 K64 DB64 R8 DB64 K64 G64 K8 G/8</code></td><td>776</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><img src="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/">(Logan)</a></td><td><code>G/16 K2 G2 K2 G2 K16 DB16 DR2 DB16 K16 G16 K2 G/2</code></td><td>202</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/"><img src="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/sett.png" alt="(Logan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/">L</a></td><td><code>G/16 K2 G2 K2 G2 K16 DB16 R2 DB16 K16 G16 K2 G/2</code></td><td>202</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/"><img src="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/sett.png" alt="L sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -46,6 +52,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/"><circle cx="133.8" cy="191.1" r="4" fill="#3465a4"><title>Poulter SG 100</title></circle></a><a href="/variants/s15/db17k3db3k3db3k17g17k2w2k2g17k17db17k2dr3~x2/"><circle cx="127.5" cy="151.0" r="4" fill="#3465a4"><title>Cumbernauld</title></circle></a><a href="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/"><circle cx="124.0" cy="142.7" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="159.1" cy="168.9" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/variants/s14/r2k1db8k8g8y2g8k8db1k1db1k1db4r1~x4/"><circle cx="106.1" cy="155.9" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s13/db11k1db1w1db1k8g8y1g8k8db8w1db1~x2/"><circle cx="138.2" cy="147.0" r="4" fill="#3465a4"><title>Logan Rogers Hunting</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/"><circle cx="128.8" cy="133.8" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="112.2" cy="163.0" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><circle cx="117.7" cy="156.4" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/variants/s15/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3~x2~ki0604259/"><circle cx="116.7" cy="146.0" r="4" fill="#3465a4"><title>Cumbernauld</title></circle></a><circle cx="129.0" cy="149.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/"><circle cx="134.2" cy="190.9" r="4" fill="#3465a4"><title>Poulter SG 100</title></circle></a><a href="/variants/s15/db17k3db3k3db3k17g17k2w2k2g17k17db17k2dr3~x2/"><circle cx="127.9" cy="150.8" r="4" fill="#3465a4"><title>Cumbernauld</title></circle></a><a href="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/"><circle cx="124.4" cy="142.4" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="159.5" cy="168.8" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/variants/s14/r2k1db8k8g8y2g8k8db1k1db1k1db4r1~x4/"><circle cx="106.4" cy="155.7" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s13/db11k1db1w1db1k8g8y1g8k8db8w1db1~x2/"><circle cx="138.6" cy="146.8" r="4" fill="#3465a4"><title>Logan Rogers Hunting</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/"><circle cx="129.2" cy="133.6" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="112.5" cy="162.8" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><circle cx="118.1" cy="156.2" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/variants/s15/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3~x2~ki0604259/"><circle cx="117.1" cy="145.7" r="4" fill="#3465a4"><title>Cumbernauld</title></circle></a><circle cx="129.4" cy="149.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

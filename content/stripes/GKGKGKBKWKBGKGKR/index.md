@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/">Cockburn - 1830 (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/"><img src="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/sett.png" alt="Cockburn - 1830 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cockburn-5/">Cockburn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cockburn-5/"><img src="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/sett.png" alt="Cockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

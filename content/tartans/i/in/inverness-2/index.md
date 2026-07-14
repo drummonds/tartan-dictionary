@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/inverness/"
 - name: "Inverness"
   url: "/families/inverness/"
+aliases:
+- "/setts/dr64k8w3k8w3b4w3dr18/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkwkwbwb/">BKWKWBWB</a></nav>
 A tartan of the [Inverness](/families/inverness/) family.
 Its design is pattern [BKWKWBWB](/stripes/bkwkwbwb/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Inverness** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr64k8w3k8w3b4w3dr18/">Inverness</a></td><td><code>DR/128 K16 W6 K16 W6 B8 W6 DR/36</code></td><td>280</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr64k8w3k8w3b4w3dr18/"><img src="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/sett.png" alt="Inverness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/">Inverness</a></td><td><code>DR/128 K16 W6 K16 W6 B8 W6 DR/36</code></td><td>280</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/"><img src="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/sett.png" alt="Inverness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="497.4" cy="61.1" r="4" fill="#3465a4"><title>Whitaker</title></circle></a><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/"><circle cx="502.8" cy="152.5" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="408.8" cy="99.3" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s6/k80r6g3r12k2w2~x2/"><circle cx="485.3" cy="59.8" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/"><circle cx="403.6" cy="78.9" r="4" fill="#3465a4"><title>Tweedside Variation</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="356.3" cy="35.8" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s6/k60dr3k5dr3lb18n3~x2/"><circle cx="389.7" cy="105.2" r="4" fill="#3465a4"><title>Ailsa, Navy</title></circle></a><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="403.0" cy="109.7" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.6" cy="113.7" r="4" fill="#3465a4"><title>Anthony</title></circle></a><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><circle cx="530.4" cy="53.8" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><circle cx="436.0" cy="96.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="499.1" cy="61.5" r="4" fill="#3465a4"><title>Whitaker</title></circle></a><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/"><circle cx="504.1" cy="152.9" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="409.9" cy="99.5" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s6/k80r6g3r12k2w2~x2/"><circle cx="487.0" cy="60.2" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/"><circle cx="405.0" cy="79.2" r="4" fill="#3465a4"><title>Tweedside Variation</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="357.6" cy="35.9" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s6/k60dr3k5dr3lb18n3~x2/"><circle cx="391.0" cy="105.4" r="4" fill="#3465a4"><title>Ailsa, Navy</title></circle></a><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="404.4" cy="110.0" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="429.7" cy="114.0" r="4" fill="#3465a4"><title>Anthony</title></circle></a><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><circle cx="532.1" cy="54.2" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><circle cx="437.4" cy="96.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

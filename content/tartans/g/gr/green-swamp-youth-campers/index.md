@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k8r2k13y2dg48db6/"
+- "/setts/k8r2k13dy2dg48db6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bggkrk/">BGGKRK</a></nav>
 Its design is pattern [BGGKRK](/stripes/bggkrk/) — the page of every tartan sharing this colour sequence.
 
 The **Green Swamp Youth Campers** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Green Swamp Youth Campers** tartan groups 2 setts — the same named desig
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k8r2k13y2dg48db6/">Green Swamp Youth Campers</a> ★</td><td><code>K/16 R4 K26 Y4 DG96 DB/12</code></td><td>288</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k8r2k13y2dg48db6/"><img src="/variants/s6/k8r2k13y2dg48db6~x2/sett.png" alt="Green Swamp Youth Campers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k8r2k13dy2dg48db6/">Green Swamp Youth Campers</a></td><td><code>K/16 R4 K26 DY4 DG96 DB/12</code></td><td>288</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k8r2k13dy2dg48db6/"><img src="/variants/s6/k8r2k13dy2dg48db6~x2/sett.png" alt="Green Swamp Youth Campers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k8r2k13y2dg48db6~x2/">Green Swamp Youth Campers</a> ★</td><td><code>K/16 R4 K26 Y4 DG96 DB/12</code></td><td>288</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><img src="/variants/s6/k8r2k13y2dg48db6~x2/sett.png" alt="Green Swamp Youth Campers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k8r2k13dy2dg48db6~x2/">Green Swamp Youth Campers</a></td><td><code>K/16 R4 K26 DY4 DG96 DB/12</code></td><td>288</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k8r2k13dy2dg48db6~x2/"><img src="/variants/s6/k8r2k13dy2dg48db6~x2/sett.png" alt="Green Swamp Youth Campers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="271.6" cy="130.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="373.6" cy="100.5" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="306.3" cy="155.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="313.9" cy="99.5" r="4" fill="#3465a4"><title>Henschke, Felix</title></circle></a><a href="/variants/s6/n5y1k5dg46k5r3~x2/"><circle cx="476.0" cy="98.9" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/"><circle cx="303.9" cy="133.4" r="4" fill="#3465a4"><title>U.S. Army</title></circle></a><a href="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/"><circle cx="258.8" cy="162.3" r="4" fill="#3465a4"><title>Waterford Irish County</title></circle></a><a href="/variants/s6/k43dg8k8db21dg10w2~x2/"><circle cx="319.7" cy="162.4" r="4" fill="#3465a4"><title>Longmuir</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="321.1" cy="181.9" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="382.2" cy="158.2" r="4" fill="#3465a4"><title>Abadia Da Cova</title></circle></a><circle cx="380.1" cy="135.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="272.4" cy="130.2" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="374.6" cy="100.7" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="307.2" cy="155.5" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="314.7" cy="99.5" r="4" fill="#3465a4"><title>Henschke, Felix</title></circle></a><a href="/variants/s6/n5y1k5dg46k5r3~x2/"><circle cx="477.2" cy="99.3" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/"><circle cx="304.6" cy="133.5" r="4" fill="#3465a4"><title>U.S. Army</title></circle></a><a href="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/"><circle cx="259.2" cy="162.3" r="4" fill="#3465a4"><title>Waterford Irish County</title></circle></a><a href="/variants/s6/k43dg8k8db21dg10w2~x2/"><circle cx="320.6" cy="162.6" r="4" fill="#3465a4"><title>Longmuir</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="321.8" cy="182.0" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="382.9" cy="158.4" r="4" fill="#3465a4"><title>Abadia Da Cova</title></circle></a><circle cx="381.0" cy="135.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

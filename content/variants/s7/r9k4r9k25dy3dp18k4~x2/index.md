@@ -8,10 +8,10 @@ crumbs:
 - name: "Wounded Warriors Canada"
   url: "/tartans/w/wo/wounded-warriors-canada/"
 - name: "Wounded Warriors Canada"
-  url: "/setts/r9k4r9k25dy3dp18k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r9k4r9k25dy3dp18k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wo/wounded-warriors-canada/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGKRKR](/stripes/kbgkrkr/).
 
 Part of the [Wounded Warriors Canada](/tartans/w/wo/wounded-warriors-canada/) tartan — the named design grouping this sett with its other cloths.

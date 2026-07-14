@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dr2k1db6k2g6o2~x4/">MacEachain (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr2k1db6k2g6o2~x4/"><img src="/variants/s6/dr2k1db6k2g6o2~x4/sett.png" alt="MacEachain (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maceachain/">MacEachain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maceachain/"><img src="/variants/s6/dr2k1db6k2g6o2~x4/sett.png" alt="MacEachain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db2k2db12k8g11r2~x2/">Murray (Variation) Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2k2db12k8g11r2~x2/"><img src="/variants/s6/db2k2db12k8g11r2~x2/sett.png" alt="Murray (Variation) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-2/">Murray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-2/"><img src="/variants/s6/db2k2db12k8g11r2~x2/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

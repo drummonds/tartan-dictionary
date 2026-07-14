@@ -12,10 +12,10 @@ crumbs:
 - name: "Stevens"
   url: "/tartans/s/st/stevens-3/"
 - name: "Stevens #2"
-  url: "/setts/db4lr3db4lr3o3n11o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4lr3db4lr3o3n11o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stevens-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYRBR](/stripes/bybyrbr/).
 
 Part of the [Stevens](/tartans/s/st/stevens-3/) tartan — the named design grouping this sett with its other cloths.

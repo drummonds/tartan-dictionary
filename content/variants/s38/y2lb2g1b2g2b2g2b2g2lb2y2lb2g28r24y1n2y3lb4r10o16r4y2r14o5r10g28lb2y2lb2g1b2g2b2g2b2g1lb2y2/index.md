@@ -8,10 +8,10 @@ crumbs:
 - name: "New Brunswick, variation"
   url: "/tartans/n/ne/new-brunswick-variation-2/"
 - name: "New Brunswick, variation"
-  url: "/setts/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/new-brunswick-variation-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBGBGBGWGWGRGBGWRRRGRRRGWGWGBGBGBGWG](/stripes/gwgbgbgbgwgwgrgbgwrrrgrrrgwgwgbgbgbgwg/).
 
 Part of the [New Brunswick, variation](/tartans/n/ne/new-brunswick-variation-2/) tartan — the named design grouping this sett with its other cloths.

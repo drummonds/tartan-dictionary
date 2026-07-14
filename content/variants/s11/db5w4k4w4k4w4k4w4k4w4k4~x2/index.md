@@ -10,10 +10,10 @@ crumbs:
 - name: "Buccleuch Check"
   url: "/tartans/b/bu/buccleuch-check/"
 - name: "Buccleuch Check (9 squares)"
-  url: "/setts/db5w4k4w4k4w4k4w4k4w4k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5w4k4w4k4w4k4w4k4w4k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/buccleuch-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKWKWKWK](/stripes/bwkwkwkwkwk/).
 
 Part of the [Buccleuch Check](/tartans/b/bu/buccleuch-check/) tartan — the named design grouping this sett with its other cloths.

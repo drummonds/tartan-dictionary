@@ -9,16 +9,16 @@ crumbs:
   url: "/clan/macfarlane/"
 - name: "MacFarlane VS"
   url: "/tartans/m/ma/macfarlane-vs/"
-- name: "Lendrum (B&W)"
-  url: "/setts/k7w6k1/"
+- name: "MacFarlane B/W or Lendrum Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7w6k1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKW](/stripes/kwkw/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macfarlane-vs/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWK](/stripes/kwk/).
 
 Part of the [MacFarlane VS](/tartans/m/ma/macfarlane-vs/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from house-of-tartan.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1251](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1251)
 
@@ -51,9 +51,11 @@ Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). 
 </details>
 
 ## Thread count
-K/14 W12 K2 W/12
+K/14 W12 K/2
 
-One full sett is **54 threads**.
+One full sett is **40 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/14 W12 K2 W/12 — 54 threads; it folds to the canonical 40-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -62,7 +64,7 @@ One full sett is **54 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/14 W12 K2 W/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/14 W12 K/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

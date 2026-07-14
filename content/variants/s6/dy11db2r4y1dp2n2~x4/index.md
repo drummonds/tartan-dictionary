@@ -8,10 +8,10 @@ crumbs:
 - name: "Windy Meadows"
   url: "/tartans/w/wi/windy-meadows/"
 - name: "Windy Meadows"
-  url: "/setts/dy11db2r4y1dp2n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy11db2r4y1dp2n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/windy-meadows/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGRBG](/stripes/bbgrbg/).
 
 Part of the [Windy Meadows](/tartans/w/wi/windy-meadows/) tartan — the named design grouping this sett with its other cloths.

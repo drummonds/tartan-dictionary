@@ -10,17 +10,17 @@ crumbs:
 - name: "Stewart of Ardshiel"
   url: "/families/stewart-of-ardshiel/"
 - name: "Stewart of Ardshiel"
-  url: "/tartans/s/st/stewart-of-ardshiel-2/"
+  url: "/tartans/s/st/stewart-of-ardshiel-3/"
 - name: "Stuart/Stewart of Ardshiel"
-  url: "/setts/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRRGRKWRKRWKRKRRGRRKRKWRKRWKRGRRKW](/stripes/krrgrkwrkrwkrkrrgrrkrkwrkrwkrgrrkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-of-ardshiel-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRRKRKWRKRWKRGRRKW](/stripes/grrkrkwrkrwkrgrrkw/).
 
-Part of the [Stewart of Ardshiel](/tartans/s/st/stewart-of-ardshiel-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stewart of Ardshiel](/tartans/s/st/stewart-of-ardshiel-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4017](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4017)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4017](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1810 — Stuart/Stewart of Ardshiel (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4017">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>There are minor differences between the warp and weft in the blue not shown in the illustration. This is the earliest record of a Stewart of Ardshiel tartan. It differs from the Stewart of Appin in that the Red is interchanged with the blue. Ardshiel is part of Appin and it may be a variation on a sett common to the area. Stewarts of Ardshiel are regarded as a sept of the Appin branch.</em></li>
-<li>1810 — Stewart of Ardshiel - 1816 (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=73">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>There are minor differences between the warp and weft in the blue not shown in the illustration. This is the earliest record of a Stewart of Ardshiel tartan. It differs from the Stewart of Appin in that the Red is interchanged with the blue. Ardshiel is part of Appin and it may be a variation on a sett common to the area. Stewarts of Ardshiel are regarded as a sept of the Appin branch.</em></li>
+<li>1810 — Stewart of Ardshiel - 1816 (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/73/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>There are minor differences between the warp and weft in the blue not shown in the illustration. This is the earliest record of a Stewart of Ardshiel tartan. It differs from the Stewart of Appin in that the Red is interchanged with the blue. Ardshiel is part of Appin and it may be a variation on a sett common to the area. Stewarts of Ardshiel are regarded as a sept of the Appin branch.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 73
 
 ## Thread count
-LB/4 K2 Ri2 R12 DG66 R4 K2 LB2 R6 K34 R6 LB2 K2 R65 K3 Ri2 R6 DG14 R6 Ri2 K3 R65 K2 LB2 R6 K34 R6 LB2 K2 R4 DG66 R12 Ri2 K/2
+DG/14 R6 Ri2 K3 R65 K2 LB2 R6 K34 R6 LB2 K2 R4 DG66 R12 Ri2 K2 LB/4
 
-One full sett is **894 threads**.
+One full sett is **450 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/4 K2 Ri2 R12 DG66 R4 K2 LB2 R6 K34 R6 LB2 K2 R65 K3 Ri2 R6 DG14 R6 Ri2 K3 R65 K2 LB2 R6 K34 R6 LB2 K2 R4 DG66 R12 Ri2 K/2 — 894 threads; it folds to the canonical 450-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **894 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/4 K2 Ri2 R12 DG66 R4 K2 LB2 R6 K34 R6 LB2 K2 R65 K3 Ri2 R6 DG14 R6 Ri2 K3 R65 K2 LB2 R6 K34 R6 LB2 K2 R4 DG66 R12 Ri2 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/14 R6 Ri2 K3 R65 K2 LB2 R6 K34 R6 LB2 K2 R4 DG66 R12 Ri2 K2 LB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

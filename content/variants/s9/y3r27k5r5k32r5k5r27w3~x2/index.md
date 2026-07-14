@@ -12,10 +12,10 @@ crumbs:
 - name: "MacIver"
   url: "/tartans/m/ma/maciver/"
 - name: "MacIver #2"
-  url: "/setts/y3r27k5r5k32r5k5r27w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3r27k5r5k32r5k5r27w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maciver/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRKRKRW](/stripes/grkrkrkrw/).
 
 Part of the [MacIver](/tartans/m/ma/maciver/) tartan — the named design grouping this sett with its other cloths.

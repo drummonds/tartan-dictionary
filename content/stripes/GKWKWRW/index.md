@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/">MacPherson - 1842 (VS) Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><img src="/variants/s7/dy1k4w2k11w17r2w1~x4/sett.png" alt="MacPherson - 1842 (VS) Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w3r1w30k20w3k9y1/">MacPherson 6</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w3r1w30k20w3k9y1/"><img src="/variants/s7/w3r1w30k20w3k9y1/sett.png" alt="MacPherson 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-3/">MacPherson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-3/"><img src="/variants/s7/dy1k4w2k11w17r2w1~x4/sett.png" alt="MacPherson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-dress-6/">MacPherson Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-6/"><img src="/variants/s7/w3r1w30k20w3k9y1/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

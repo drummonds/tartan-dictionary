@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/db5y1db1y1k4db15w1db2y1db2w1db15k4y1db1y1db5w1~x4/">SPA Association</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db5y1db1y1k4db15w1db2y1db2w1db15k4y1db1y1db5w1~x4/"><img src="/variants/s18/db5y1db1y1k4db15w1db2y1db2w1db15k4y1db1y1db5w1~x4/sett.png" alt="SPA Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spa-association/">SPA Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spa-association/"><img src="/variants/s18/db5y1db1y1k4db15w1db2y1db2w1db15k4y1db1y1db5w1~x4/sett.png" alt="SPA Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

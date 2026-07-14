@@ -8,10 +8,10 @@ crumbs:
 - name: "Bavidge"
   url: "/tartans/b/ba/bavidge/"
 - name: "Bavidge"
-  url: "/setts/db92k14db18dbi5db5dbi5db5dg32b16k5b7y8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db92k14db18dbi5db5dbi5db5dg32b16k5b7y8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bavidge/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBBBGBKBG](/stripes/bkbbbbbgbkbg/).
 
 Part of the [Bavidge](/tartans/b/ba/bavidge/) tartan — the named design grouping this sett with its other cloths.
@@ -54,7 +54,7 @@ One full sett is **324 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.68** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.67** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db2b22dg11y2dg11db2~x2/">Cetoloni</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><img src="/variants/s6/db2b22dg11y2dg11db2~x2/sett.png" alt="Cetoloni sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/cetoloni-4/">Cetoloni</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/cetoloni-4/"><img src="/variants/s6/db2b22dg11y2dg11db2~x2/sett.png" alt="Cetoloni sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Northfield Academy"
   url: "/tartans/n/no/northfield-academy/"
 - name: "Northfield Academy Corporate Tartan"
-  url: "/setts/lr2db1t2db2k1t12db2k11db28t1db3t2db3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lr2db1t2db2k1t12db2k11db28t1db3t2db3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/northfield-academy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBBBKBBKBBBY](/stripes/wbbbbbkbbkbbby/).
 
 Part of the [Northfield Academy](/tartans/n/no/northfield-academy/) tartan — the named design grouping this sett with its other cloths.

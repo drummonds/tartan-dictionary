@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1~x6/">Crosby (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1~x6/"><img src="/variants/s13/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1~x6/sett.png" alt="Crosby (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crosby/">Crosby</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crosby/"><img src="/variants/s13/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1~x6/sett.png" alt="Crosby sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

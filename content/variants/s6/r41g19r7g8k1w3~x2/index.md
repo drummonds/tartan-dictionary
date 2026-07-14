@@ -12,10 +12,10 @@ crumbs:
 - name: "MacGregor"
   url: "/tartans/m/ma/macgregor-2/"
 - name: "MacGregor #4"
-  url: "/setts/r41g19r7g8k1w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r41g19r7g8k1w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGKW](/stripes/rgrgkw/).
 
 Part of the [MacGregor](/tartans/m/ma/macgregor-2/) tartan — the named design grouping this sett with its other cloths.

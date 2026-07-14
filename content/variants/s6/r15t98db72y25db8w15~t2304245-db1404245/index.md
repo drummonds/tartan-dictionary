@@ -8,10 +8,10 @@ crumbs:
 - name: "Afternoon Tea / Earl"
   url: "/tartans/a/af/afternoon-tea-earl/"
 - name: "Afternoon Tea / Earl Grey"
-  url: "/setts/r15t98db72y25db8w15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r15t98db72y25db8w15/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/af/afternoon-tea-earl/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBGBW](/stripes/rbbgbw/).
 
 Part of the [Afternoon Tea / Earl](/tartans/a/af/afternoon-tea-earl/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Pharmaceutical Society Commemorative"
   url: "/tartans/r/ro/royal-pharmaceutical-society-commemorative/"
 - name: "Royal Pharmaceutical Society Commemorative Tartan"
-  url: "/setts/do3db2g19db6g2db6ly14w2dp4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do3db2g19db6g2db6ly14w2dp4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-pharmaceutical-society-commemorative/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBYWBW](/stripes/bbgbgbywbw/).
 
 Part of the [Royal Pharmaceutical Society Commemorative](/tartans/r/ro/royal-pharmaceutical-society-commemorative/) tartan — the named design grouping this sett with its other cloths.

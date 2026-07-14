@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/g30y3db8r25~x2/">Dohmen Family (Zuid-Nederland)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g30y3db8r25~x2/"><img src="/variants/s4/g30y3db8r25~x2/sett.png" alt="Dohmen Family (Zuid-Nederland) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dohmen/">Dohmen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dohmen/"><img src="/variants/s4/g30y3db8r25~x2/sett.png" alt="Dohmen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/r2db2g3y2~x5/">Sturch (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r2db2g3y2~x5/"><img src="/variants/s4/r2db2g3y2~x5/sett.png" alt="Sturch (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/sturch/">Sturch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/sturch/"><img src="/variants/s4/r2db2g3y2~x5/sett.png" alt="Sturch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

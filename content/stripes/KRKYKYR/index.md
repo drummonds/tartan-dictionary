@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k9r9k25lr30k5lr5r7/">Rocket Dog (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k9r9k25lr30k5lr5r7/"><img src="/variants/s7/k9r9k25lr30k5lr5r7/sett.png" alt="Rocket Dog (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rocket-dog/">Rocket Dog</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rocket-dog/"><img src="/variants/s7/k9r9k25lr30k5lr5r7/sett.png" alt="Rocket Dog sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

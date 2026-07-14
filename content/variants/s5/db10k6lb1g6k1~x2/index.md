@@ -8,15 +8,15 @@ crumbs:
 - name: "Unidentified No 115"
   url: "/tartans/u/un/unidentified-no-115/"
 - name: "Unidentified No 115"
-  url: "/setts/db10k6lb1g6k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10k6lb1g6k1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKWGKGWK](/stripes/bkwgkgwk/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-no-115/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKWGK](/stripes/bkwgk/).
 
 Part of the [Unidentified No 115](/tartans/u/un/unidentified-no-115/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4312](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4312)
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 247
 
 ## Thread count
-DB/20 K12 LB2 G12 K2 G12 LB2 K/12
+DB/20 K12 LB2 G12 K/2
 
-One full sett is **116 threads**.
+One full sett is **74 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/20 K12 LB2 G12 K2 G12 LB2 K/12 — 116 threads; it folds to the canonical 74-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **116 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/20 K12 LB2 G12 K2 G12 LB2 K/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/20 K12 LB2 G12 K/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

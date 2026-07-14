@@ -12,10 +12,10 @@ crumbs:
 - name: "Hosey"
   url: "/tartans/h/ho/hosey/"
 - name: "Hosey"
-  url: "/setts/r5db3t20db3dg5g20y3g20dg5db3t20db3w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5db3t20db3dg5g20y3g20dg5db3t20db3w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hosey/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBGGGGGBBBW](/stripes/rbbbgggggbbbw/).
 
 Part of the [Hosey](/tartans/h/ho/hosey/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/">Bottle Green (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/"><img src="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/sett.png" alt="Bottle Green (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bottle/">Bottle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bottle/"><img src="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/sett.png" alt="Bottle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

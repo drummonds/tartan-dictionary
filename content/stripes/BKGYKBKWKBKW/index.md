@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr4k2g13ly3k22dr2k2w13k7dr3k7w4~x2/">Tyrone County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr4k2g13ly3k22dr2k2w13k7dr3k7w4~x2/"><img src="/variants/s12/dr4k2g13ly3k22dr2k2w13k7dr3k7w4~x2/sett.png" alt="Tyrone County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ty/tyrone-county-crest/">Tyrone County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ty/tyrone-county-crest/"><img src="/variants/s12/dr4k2g13ly3k22dr2k2w13k7dr3k7w4~x2/sett.png" alt="Tyrone County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

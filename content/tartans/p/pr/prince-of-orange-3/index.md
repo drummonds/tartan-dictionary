@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db6b25o16k2db3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbrkb/">BBRKB</a></nav>
 Its design is pattern [BBRKB](/stripes/bbrkb/) — the page of every tartan sharing this colour sequence.
 
 The **Prince of Orange** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Prince of Orange** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db6b25o16k2db3/">Prince of Orange</a></td><td><code>DB/12 B50 O32 K4 DB/6</code></td><td>190</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db6b25o16k2db3/"><img src="/variants/s5/db6b25o16k2db3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db6b25o16k2db3~x2/">Prince of Orange</a></td><td><code>DB/12 B50 O32 K4 DB/6</code></td><td>190</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db6b25o16k2db3~x2/"><img src="/variants/s5/db6b25o16k2db3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="363.9" cy="158.3" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="293.6" cy="216.0" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="257.7" cy="217.4" r="4" fill="#3465a4"><title>Afternoon Tea / Earl</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="313.3" cy="205.0" r="4" fill="#3465a4"><title>Thorburn</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/"><circle cx="283.2" cy="217.9" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/variants/s5/k7lb3o30b30w3~x2/"><circle cx="214.9" cy="197.7" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="313.2" cy="254.0" r="4" fill="#3465a4"><title>Fong</title></circle></a><a href="/variants/s7/dp18g24k3db6dp2db5dp18~x2/"><circle cx="270.0" cy="198.0" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s5/b30k12db12k2w3~x2/"><circle cx="250.8" cy="178.6" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s8/n16k4w2k4n6b11n2b16~x2/"><circle cx="227.2" cy="216.2" r="4" fill="#3465a4"><title>Sidney</title></circle></a><circle cx="284.7" cy="207.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="364.9" cy="158.5" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="294.0" cy="216.0" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="258.0" cy="217.3" r="4" fill="#3465a4"><title>Afternoon Tea / Earl</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="313.9" cy="205.1" r="4" fill="#3465a4"><title>Thorburn</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/"><circle cx="283.8" cy="217.9" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/variants/s5/k7lb3o30b30w3~x2/"><circle cx="215.2" cy="197.6" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="313.6" cy="254.1" r="4" fill="#3465a4"><title>Fong</title></circle></a><a href="/variants/s7/dp18g24k3db6dp2db5dp18~x2/"><circle cx="270.6" cy="198.0" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s5/b30k12db12k2w3~x2/"><circle cx="251.5" cy="178.6" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s8/n16k4w2k4n6b11n2b16~x2/"><circle cx="227.6" cy="216.1" r="4" fill="#3465a4"><title>Sidney</title></circle></a><circle cx="285.3" cy="207.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

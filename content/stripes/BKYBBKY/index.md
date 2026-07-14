@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/">Scrymgeour (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/"><img src="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/sett.png" alt="Scrymgeour (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scrymgeour/">Scrymgeour</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scrymgeour/"><img src="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dg14w2db3g7dg2g7db3w2dg14lb2~x4/">Manx Ellan Vannin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg14w2db3g7dg2g7db3w2dg14lb2~x4/"><img src="/variants/s10/dg14w2db3g7dg2g7db3w2dg14lb2~x4/sett.png" alt="Manx Ellan Vannin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-ellan-vannin/">Manx Ellan Vannin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-ellan-vannin/"><img src="/variants/s10/dg14w2db3g7dg2g7db3w2dg14lb2~x4/sett.png" alt="Manx Ellan Vannin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

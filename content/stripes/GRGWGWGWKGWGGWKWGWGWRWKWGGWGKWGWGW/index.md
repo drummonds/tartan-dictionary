@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s34/g3r3g3lb3yi13lb5yi3lb5k9g3lb3g3yi6lb3k3lb16y3lb3g3lb3r3lb16k3lb3yi6g3lb3g3k9lb5yi3lb5yi13lb3~x2~yi2404144/">Shipley, Ian (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s34/g3r3g3lb3yi13lb5yi3lb5k9g3lb3g3yi6lb3k3lb16y3lb3g3lb3r3lb16k3lb3yi6g3lb3g3k9lb5yi3lb5yi13lb3~x2~yi2404144/"><img src="/variants/s34/g3r3g3lb3yi13lb5yi3lb5k9g3lb3g3yi6lb3k3lb16y3lb3g3lb3r3lb16k3lb3yi6g3lb3g3k9lb5yi3lb5yi13lb3~x2~yi2404144/sett.png" alt="Shipley, Ian (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shipley-ian-2/">Shipley, Ian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shipley-ian-2/"><img src="/variants/s34/g3r3g3lb3yi13lb5yi3lb5k9g3lb3g3yi6lb3k3lb16y3lb3g3lb3r3lb16k3lb3yi6g3lb3g3k9lb5yi3lb5yi13lb3~x2~yi2404144/sett.png" alt="Shipley, Ian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

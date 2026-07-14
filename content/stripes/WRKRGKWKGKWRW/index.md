@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/">Hay or Stewart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/"><img src="/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/sett.png" alt="Hay or Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~x2/">Hay, or Stewart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~x2/"><img src="/variants/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~x2/sett.png" alt="Hay, or Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hay-or-stewart/">Hay or Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-or-stewart/"><img src="/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/sett.png" alt="Hay or Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,16 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/">Donachie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><img src="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/sett.png" alt="Donachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/">Livingstone</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><img src="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/sett.png" alt="Livingstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/donachie/">Donachie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/donachie/"><img src="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/sett.png" alt="Donachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/livingstone-2/">Livingstone</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/livingstone-2/"><img src="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/sett.png" alt="Livingstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/r8g2r2g6r1g6r2g2r8y1/">Bruce</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r8g2r2g6r1g6r2g2r8y1/"><img src="/variants/s10/r8g2r2g6r1g6r2g2r8y1/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/r29g2r2g2r6dy21~x4/">Maguire Clan Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><img src="/variants/s6/r29g2r2g2r6dy21~x4/sett.png" alt="Maguire Clan Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bruce-2/">Bruce</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bruce-2/"><img src="/variants/s10/r8g2r2g6r1g6r2g2r8y1/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

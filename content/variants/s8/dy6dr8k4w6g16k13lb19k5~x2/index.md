@@ -8,10 +8,10 @@ crumbs:
 - name: "Kilkenny County, Crest Range"
   url: "/tartans/k/ki/kilkenny-county-crest-range/"
 - name: "Kilkenny County, Crest Range"
-  url: "/setts/dy6dr8k4w6g16k13lb19k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy6dr8k4w6g16k13lb19k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kilkenny-county-crest-range/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKWGKWK](/stripes/gbkwgkwk/).
 
 Part of the [Kilkenny County, Crest Range](/tartans/k/ki/kilkenny-county-crest-range/) tartan — the named design grouping this sett with its other cloths.

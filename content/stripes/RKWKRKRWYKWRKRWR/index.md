@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/">Puccini (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/"><img src="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/sett.png" alt="Puccini (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pu/puccini/">Puccini</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pu/puccini/"><img src="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/sett.png" alt="Puccini sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

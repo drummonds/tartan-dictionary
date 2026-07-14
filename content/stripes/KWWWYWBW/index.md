@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb70db5lb3lr5lb3w5lb3k5~x2/">Wyckoff, Ann Grainger Phillips Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb70db5lb3lr5lb3w5lb3k5~x2/"><img src="/variants/s8/lb70db5lb3lr5lb3w5lb3k5~x2/sett.png" alt="Wyckoff, Ann Grainger Phillips Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wy/wyckoff-ann-grainger-phillips-commemorative/">Wyckoff, Ann Grainger Phillips Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wy/wyckoff-ann-grainger-phillips-commemorative/"><img src="/variants/s8/lb70db5lb3lr5lb3w5lb3k5~x2/sett.png" alt="Wyckoff, Ann Grainger Phillips Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

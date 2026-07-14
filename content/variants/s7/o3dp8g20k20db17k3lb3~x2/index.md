@@ -12,10 +12,10 @@ crumbs:
 - name: "Gracey"
   url: "/tartans/g/gr/gracey/"
 - name: "Gracey (2013)"
-  url: "/setts/o3dp8g20k20db17k3lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o3dp8g20k20db17k3lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/gracey/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGKBKW](/stripes/rbgkbkw/).
 
 Part of the [Gracey](/tartans/g/gr/gracey/) tartan — the named design grouping this sett with its other cloths.

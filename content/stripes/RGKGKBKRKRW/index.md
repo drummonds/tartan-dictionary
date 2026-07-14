@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/">King George VI Royal Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/"><img src="/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/sett.png" alt="King George VI Royal Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/king-george-3/">King George</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/king-george-3/"><img src="/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/sett.png" alt="King George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

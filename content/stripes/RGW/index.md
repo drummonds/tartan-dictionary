@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/r4dg7lb4~x2/">Wilson's No.061</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r4dg7lb4~x2/"><img src="/variants/s3/r4dg7lb4~x2/sett.png" alt="Wilson's No.061 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/r4g2lb1~x4/">Wilson's, No 188</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r4g2lb1~x4/"><img src="/variants/s3/r4g2lb1~x4/sett.png" alt="Wilson's, No 188 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/r2g2lb1~x4/">Wilson's, No 207</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r2g2lb1~x4/"><img src="/variants/s3/r2g2lb1~x4/sett.png" alt="Wilson's, No 207 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/r4g7lb4~x2/">Wilson's, No 61</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r4g7lb4~x2/"><img src="/variants/s3/r4g7lb4~x2/sett.png" alt="Wilson's, No 61 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-061/">Wilson's No.061</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-061/"><img src="/variants/s3/r4dg7lb4~x2/sett.png" alt="Wilson's No.061 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-188-2/">Wilson's, No 188</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-188-2/"><img src="/variants/s3/r4g2lb1~x4/sett.png" alt="Wilson's, No 188 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-207-2/">Wilson's, No 207</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-207-2/"><img src="/variants/s3/r2g2lb1~x4/sett.png" alt="Wilson's, No 207 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-61/">Wilson's, No 61</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-61/"><img src="/variants/s3/r4g7lb4~x2/sett.png" alt="Wilson's, No 61 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

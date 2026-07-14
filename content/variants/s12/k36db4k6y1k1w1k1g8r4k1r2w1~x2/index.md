@@ -10,10 +10,10 @@ crumbs:
 - name: "Stewart, Black ground"
   url: "/tartans/s/st/stewart-black-ground/"
 - name: "Stewart, Black ground"
-  url: "/setts/k36db4k6y1k1w1k1g8r4k1r2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k36db4k6y1k1w1k1g8r4k1r2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-black-ground/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGKWKGRKRW](/stripes/kbkgkwkgrkrw/).
 
 Part of the [Stewart, Black ground](/tartans/s/st/stewart-black-ground/) tartan — the named design grouping this sett with its other cloths.

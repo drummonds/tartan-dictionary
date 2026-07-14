@@ -12,15 +12,15 @@ crumbs:
 - name: "Gracie"
   url: "/tartans/g/gr/gracie/"
 - name: "Gracie"
-  url: "/setts/g47dr3g6db35lo3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g47dr3g6db35lo3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBYBGBG](/stripes/bgbybgbg/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/gracie/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBY](/stripes/gbgby/).
 
 Part of the [Gracie](/tartans/g/gr/gracie/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1476](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1476)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1476](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/1996 — Gracie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1476">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Designed by James Gracie and Helen Houston, Scottish College of Textiles. For those of this name with James Gracie's permission but no means of contact available. This tartan was created for an article in Scots Magazine July 96.</em></li>
-<li>1996, Feb — Gracie (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2337">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Designed by James Gracie and Helen Houston, Scottish College of Textiles. For those of this name with James Gracie's permission but no means of contact available! This tartan was created for an article in Scots Magazine July 96.</em></li>
+<li>1996, Feb — Gracie (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2337/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Designed by James Gracie and Helen Houston, Scottish College of Textiles. For those of this name with James Gracie's permission but no means of contact available! This tartan was created for an article in Scots Magazine July 96.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2337
 
 ## Thread count
-G/94 DR6 G12 DB70 LO6 DB70 G12 DR/6
+G/94 DR6 G12 DB70 LO/6
 
-One full sett is **452 threads**.
+One full sett is **276 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/94 DR6 G12 DB70 LO6 DB70 G12 DR/6 — 452 threads; it folds to the canonical 276-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **452 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/94 DR6 G12 DB70 LO6 DB70 G12 DR/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/94 DR6 G12 DB70 LO/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

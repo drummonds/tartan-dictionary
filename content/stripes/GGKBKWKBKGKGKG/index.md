@@ -28,12 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/">Proctor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/"><img src="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/sett.png" alt="Proctor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/dg39k2dg2k2dg2k3t13k2w4k2t13k3dg24y3~x2/">Proctor (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dg39k2dg2k2dg2k3t13k2w4k2t13k3dg24y3~x2/"><img src="/variants/s14/dg39k2dg2k2dg2k3t13k2w4k2t13k3dg24y3~x2/sett.png" alt="Proctor (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24y3~x2~dg1703152-dt1602249-lb3500000/">Proctor Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24y3~x2~dg1703152-dt1602249-lb3500000/"><img src="/variants/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24y3~x2~dg1703152-dt1602249-lb3500000/sett.png" alt="Proctor Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/proctor/">Proctor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/proctor/"><img src="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/sett.png" alt="Proctor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

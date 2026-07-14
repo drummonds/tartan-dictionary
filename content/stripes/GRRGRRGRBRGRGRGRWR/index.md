@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/">Dalriada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/"><img src="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/sett.png" alt="Dalriada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dalriada/">Dalriada</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dalriada/"><img src="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/sett.png" alt="Dalriada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

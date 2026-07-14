@@ -28,16 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db6dr39db10dr10db21y5~x2/">Rajput</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db6dr39db10dr10db21y5~x2/"><img src="/variants/s6/db6dr39db10dr10db21y5~x2/sett.png" alt="Rajput sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db1dr3db1dr3db6g1~x8/">Robbins</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db1dr3db1dr3db6g1~x8/"><img src="/variants/s6/db1dr3db1dr3db6g1~x8/sett.png" alt="Robbins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rajput/">Rajput</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rajput/"><img src="/variants/s6/db6dr39db10dr10db21y5~x2/sett.png" alt="Rajput sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robbins/">Robbins</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robbins/"><img src="/variants/s6/db1dr3db1dr3db6g1~x8/sett.png" alt="Robbins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/y3b40db27b3db3b3/">Keeper of the Quaich</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y3b40db27b3db3b3/"><img src="/variants/s6/y3b40db27b3db3b3/sett.png" alt="Keeper of the Quaich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/do3db3do3db27do40dy3/">Keeper of the Quaich Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/do3db3do3db27do40dy3/"><img src="/variants/s6/do3db3do3db27do40dy3/sett.png" alt="Keeper of the Quaich Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/keeper-of-the-quaich/">Keeper of the Quaich</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/keeper-of-the-quaich/"><img src="/variants/s6/y3b40db27b3db3b3/sett.png" alt="Keeper of the Quaich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

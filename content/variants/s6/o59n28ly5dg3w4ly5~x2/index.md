@@ -10,10 +10,10 @@ crumbs:
 - name: "Dundhuin Gold"
   url: "/tartans/d/du/dundhuin-gold/"
 - name: "Dundhuin Gold"
-  url: "/setts/o59n28ly5dg3w4ly5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o59n28ly5dg3w4ly5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dundhuin-gold/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBYGWY](/stripes/rbygwy/).
 
 Part of the [Dundhuin Gold](/tartans/d/du/dundhuin-gold/) tartan — the named design grouping this sett with its other cloths.

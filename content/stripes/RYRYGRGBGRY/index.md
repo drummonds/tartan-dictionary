@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/">Vassseur Mignon ({Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/"><img src="/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/sett.png" alt="Vassseur Mignon ({Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/vassseur-mignon/">Vassseur Mignon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/vassseur-mignon/"><img src="/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/sett.png" alt="Vassseur Mignon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

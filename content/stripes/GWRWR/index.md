@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r27w3r6w2dg3/">Martin, Robert N (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r27w3r6w2dg3/"><img src="/variants/s5/r27w3r6w2dg3~x4/sett.png" alt="Martin, Robert N (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/martin-robert-n/">Martin, Robert N</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/martin-robert-n/"><img src="/variants/s5/r27w3r6w2dg3~x4/sett.png" alt="Martin, Robert N sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

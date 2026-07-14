@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r10dg3y3w1k2w1y3dg12w2r3w1~x4/">Unnamed C18th - Pr Ch Ed Plaid?</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r10dg3y3w1k2w1y3dg12w2r3w1~x4/"><img src="/variants/s11/r10dg3y3w1k2w1y3dg12w2r3w1~x4/sett.png" alt="Unnamed C18th - Pr Ch Ed Plaid? sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unnamed-c18th-7/">Unnamed C18th</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-c18th-7/"><img src="/variants/s11/r10dg3y3w1k2w1y3dg12w2r3w1~x4/sett.png" alt="Unnamed C18th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

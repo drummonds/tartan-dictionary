@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/">ASDA Wal-Mart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/"><img src="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/sett.png" alt="ASDA Wal-Mart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/as/asda-wal-mart/">ASDA Wal-Mart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/as/asda-wal-mart/"><img src="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/sett.png" alt="ASDA Wal-Mart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

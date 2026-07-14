@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/">Salich-Plaja of St. Genis (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/"><img src="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/sett.png" alt="Salich-Plaja of St. Genis (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/salich-plaja-of-st-genis/">Salich-Plaja of St. Genis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/salich-plaja-of-st-genis/"><img src="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/sett.png" alt="Salich-Plaja of St. Genis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

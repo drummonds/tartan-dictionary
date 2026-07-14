@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/">Campbell of Cawdor Dress Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/"><img src="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/sett.png" alt="Campbell of Cawdor Dress Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-of-cawdor-dress/">Campbell of Cawdor Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-cawdor-dress/"><img src="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/sett.png" alt="Campbell of Cawdor Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

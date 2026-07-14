@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/">Akins Clan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><img src="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/sett.png" alt="Akins Clan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/dr12r4dr4r4dr4db11dg12lb4~x2/">Akins Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr12r4dr4r4dr4db11dg12lb4~x2/"><img src="/variants/s8/dr12r4dr4r4dr4db11dg12lb4~x2/sett.png" alt="Akins Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ak/akins/">Akins</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ak/akins/"><img src="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/sett.png" alt="Akins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

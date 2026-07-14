@@ -8,10 +8,10 @@ crumbs:
 - name: "Gala Water Old"
   url: "/tartans/g/ga/gala-water-old/"
 - name: "Gallowater Old District Tartan"
-  url: "/setts/k19lb10dp19g40y10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k19lb10dp19g40y10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ga/gala-water-old/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWK](/stripes/ggbwk/).
 
 Part of the [Gala Water Old](/tartans/g/ga/gala-water-old/) tartan — the named design grouping this sett with its other cloths.

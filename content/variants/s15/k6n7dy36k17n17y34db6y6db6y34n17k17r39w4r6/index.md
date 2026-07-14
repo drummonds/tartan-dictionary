@@ -12,10 +12,10 @@ crumbs:
 - name: "Ruairidh"
   url: "/tartans/r/ru/ruairidh/"
 - name: "Ruairidh (Personal)"
-  url: "/setts/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ru/ruairidh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGKBGBGBGBKRWR](/stripes/kbgkbgbgbgbkrwr/).
 
 Part of the [Ruairidh](/tartans/r/ru/ruairidh/) tartan — the named design grouping this sett with its other cloths.

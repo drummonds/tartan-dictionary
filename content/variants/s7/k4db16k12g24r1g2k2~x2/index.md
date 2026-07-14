@@ -12,10 +12,10 @@ crumbs:
 - name: "Dundas"
   url: "/tartans/d/du/dundas/"
 - name: "Dundas Clan Tartan"
-  url: "/setts/k4db16k12g24r1g2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4db16k12g24r1g2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dundas/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGRGK](/stripes/kbkgrgk/).
 
 Part of the [Dundas](/tartans/d/du/dundas/) tartan — the named design grouping this sett with its other cloths.

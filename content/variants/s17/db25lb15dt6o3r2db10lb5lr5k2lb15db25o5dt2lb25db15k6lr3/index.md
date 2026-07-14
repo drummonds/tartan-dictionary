@@ -12,10 +12,10 @@ crumbs:
 - name: "Kennewell"
   url: "/tartans/k/ke/kennewell/"
 - name: "Kennewell (Personal)"
-  url: "/setts/db25lb15dt6o3r2db10lb5lr5k2lb15db25o5dt2lb25db15k6lr3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db25lb15dt6o3r2db10lb5lr5k2lb15db25o5dt2lb25db15k6lr3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kennewell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRRBWYKWBRBWBKY](/stripes/bwbrrbwykwbrbwbky/).
 
 Part of the [Kennewell](/tartans/k/ke/kennewell/) tartan — the named design grouping this sett with its other cloths.

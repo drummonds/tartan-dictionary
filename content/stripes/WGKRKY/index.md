@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/">Drambuie Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/"><img src="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/sett.png" alt="Drambuie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drambuie-dress/">Drambuie Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drambuie-dress/"><img src="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/sett.png" alt="Drambuie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

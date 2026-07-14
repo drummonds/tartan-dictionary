@@ -2,7 +2,7 @@
 title: "Tartans — Ki"
 date: 2023-03-18
 ---
-112 tartans beginning with Ki, each with the number of setts it groups. Back to [K](/tartans/k/) or the [A–Z](/tartans/).
+111 tartans beginning with Ki, each with the number of setts it groups. Back to [K](/tartans/k/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/k/ki/kiltwalk-the/"><img src="/variants/s9/dy2lb2ly4dy5ly5dy46ly7dy1w2~x2/sett.png" alt="KIltwalk, The" width="140"><br><strong>KIltwalk, The (1)</strong></a></li>
@@ -27,7 +27,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/k/ki/kile/"><img src="/variants/s8/db20w3db3w3db3w3k5dy10~x2/sett.png" alt="Kile" width="140"><br><strong>Kile (2)</strong></a><div class="clan-territory">Kile</div></li>
 <li><a class="tartan" href="/tartans/k/ki/kile-2/"><img src="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/sett.png" alt="Kile" width="140"><br><strong>Kile (1)</strong></a><div class="clan-territory">Kile</div></li>
 <li><a class="tartan" href="/tartans/k/ki/kilgour/"><img src="/variants/s6/db14g21db4r21db14y2~x2/sett.png" alt="Kilgour" width="140"><br><strong>Kilgour (1)</strong></a><div class="clan-territory">Kilgour</div></li>
-<li><a class="tartan" href="/tartans/k/ki/kilgour-2/"><img src="/variants/s8/db6k3r14k3g14k3db6y1~x4~db1406275/sett.png" alt="Kilgour" width="140"><br><strong>Kilgour (3)</strong></a><div class="clan-territory">Kilgour</div></li>
+<li><a class="tartan" href="/tartans/k/ki/kilgour-2/"><img src="/variants/s8/db6k3r14k3g14k3db6y1~x4/sett.png" alt="Kilgour" width="140"><br><strong>Kilgour (3)</strong></a><div class="clan-territory">Kilgour</div></li>
 <li><a class="tartan" href="/tartans/k/ki/kilkenny/"><img src="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/sett.png" alt="Kilkenny" width="140"><br><strong>Kilkenny (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ki/kilkenny-county-crest/"><img src="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/sett.png" alt="Kilkenny County Crest" width="140"><br><strong>Kilkenny County Crest (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ki/kilkenny-county-crest-range/"><img src="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/sett.png" alt="Kilkenny County, Crest Range" width="140"><br><strong>Kilkenny County, Crest Range (1)</strong></a></li>
@@ -56,7 +56,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/k/ki/kinfauns-castle/"><img src="/variants/s6/r4dp12dg2dp2dg46w1~x2/sett.png" alt="Kinfauns Castle" width="140"><br><strong>Kinfauns Castle (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ki/king/"><img src="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/sett.png" alt="King" width="140"><br><strong>King (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ki/king-2/"><img src="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/sett.png" alt="King" width="140"><br><strong>King (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/k/ki/king-edward/"><img src="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6~r2109032/sett.png" alt="King Edward" width="140"><br><strong>King Edward (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/k/ki/king-edward/"><img src="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/sett.png" alt="King Edward" width="140"><br><strong>King Edward (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ki/king-george/"><img src="/variants/s12/g42t3k8y2k2w3k2g12r5k2r2w2~x2/sett.png" alt="King George" width="140"><br><strong>King George (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ki/king-george-2/"><img src="/variants/s32/dg3lr3dg3r24dp1w1r3dp6r3w1dp1r3dg24r3dp1w1r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3~x4~lr3204029-r2109032/sett.png" alt="King George" width="140"><br><strong>King George (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ki/king-george-3/"><img src="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/sett.png" alt="King George" width="140"><br><strong>King George (2)</strong></a></li>
@@ -86,10 +86,9 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/k/ki/kinloch-anderson-dress-3/"><img src="/variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/sett.png" alt="Kinloch Anderson, dress" width="140"><br><strong>Kinloch Anderson, dress (1)</strong></a><div class="clan-territory">Clan Kinloch</div></li>
 <li><a class="tartan" href="/tartans/k/ki/kinloch-at-loch-awe/"><img src="/variants/s5/w18n29lb2dp3k1~x2/sett.png" alt="Kinloch at Loch Awe" width="140"><br><strong>Kinloch at Loch Awe (1)</strong></a><div class="clan-territory">Clan Kinloch</div></li>
 <li><a class="tartan" href="/tartans/k/ki/kinloch-of-loch-awe/"><img src="/variants/s5/w18n29t2dp3k1~x2~t2405244/sett.png" alt="Kinloch of Loch Awe" width="140"><br><strong>Kinloch of Loch Awe (1)</strong></a><div class="clan-territory">Kinloch of Loch Awe</div></li>
-<li><a class="tartan" href="/tartans/k/ki/kinnaird/"><img src="/variants/s8/b33k4b4k5b4k7db41r4~x2/sett.png" alt="Kinnaird" width="140"><br><strong>Kinnaird (1)</strong></a><div class="clan-territory">Kinnaird</div></li>
+<li><a class="tartan" href="/tartans/k/ki/kinnaird/"><img src="/variants/s8/n33k4n4k5n4k7db41r4~x2/sett.png" alt="Kinnaird" width="140"><br><strong>Kinnaird (2)</strong></a><div class="clan-territory">Kinnaird</div></li>
 <li><a class="tartan" href="/tartans/k/ki/kinnaird-2/"><img src="/variants/s6/g15k10r30dp2r20w1~x2/sett.png" alt="Kinnaird" width="140"><br><strong>Kinnaird (1)</strong></a><div class="clan-territory">Kinnaird</div></li>
 <li><a class="tartan" href="/tartans/k/ki/kinnaird-3/"><img src="/variants/s13/do17doi3do2doi1do1doi1do1doi1r3ly2do1ly2ri1~x4~do1103038-doi1402055-r1506019-ri2806019/sett.png" alt="Kinnaird" width="140"><br><strong>Kinnaird (1)</strong></a><div class="clan-territory">Kinnaird</div></li>
-<li><a class="tartan" href="/tartans/k/ki/kinnaird-4/"><img src="/variants/s8/n33k4n4k5n4k7db41r4~x2/sett.png" alt="Kinnaird" width="140"><br><strong>Kinnaird (1)</strong></a><div class="clan-territory">Kinnaird</div></li>
 <li><a class="tartan" href="/tartans/k/ki/kinnear-barony-of/"><img src="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/sett.png" alt="Kinnear Barony of.." width="140"><br><strong>Kinnear Barony of.. (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ki/kinnear-barony-of-2/"><img src="/variants/s20/k4r2k8g3k8g36k8g3r4lb2r3lo2r4g3k8g36k8g3k8r2~x2/sett.png" alt="Kinnear, Barony of" width="140"><br><strong>Kinnear, Barony of (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ki/kinnear-pilette-of/"><img src="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/sett.png" alt="Kinnear, Pilette of" width="140"><br><strong>Kinnear, Pilette of (1)</strong></a></li>
@@ -110,8 +109,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/k/ki/kipp/"><img src="/variants/s7/db2lo10lb1o8g7dr10lb2~x2/sett.png" alt="Kipp" width="140"><br><strong>Kipp (1)</strong></a><div class="clan-territory">Kipp</div></li>
 <li><a class="tartan" href="/tartans/k/ki/kipp-2/"><img src="/variants/s7/db1y7w1b7g7dr7w1~x2/sett.png" alt="Kipp" width="140"><br><strong>Kipp (1)</strong></a><div class="clan-territory">Kipp</div></li>
 <li><a class="tartan" href="/tartans/k/ki/kirk/"><img src="/variants/s7/r4g21r4k7r34lo3r4~x2/sett.png" alt="Kirk" width="140"><br><strong>Kirk (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/k/ki/kirk-in-the-hills/"><img src="/variants/s11/lb32db12k2y2k2db2lb8dr63k2r2dr9~x2/sett.png" alt="Kirk in the Hills" width="140"><br><strong>Kirk in the Hills (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/k/ki/kirk-in-the-hills-2/"><img src="/variants/s10/b16db6k1y1k1db6b4dr4k1r1~x4/sett.png" alt="Kirk in the Hills" width="140"><br><strong>Kirk in the Hills (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/k/ki/kirk-in-the-hills/"><img src="/variants/s10/b16db6k1y1k1db6b4dr4k1r1~x4/sett.png" alt="Kirk in the Hills" width="140"><br><strong>Kirk in the Hills (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/k/ki/kirk-in-the-hills-2/"><img src="/variants/s11/lb32db12k2y2k2db2lb8dr63k2r2dr9~x2/sett.png" alt="Kirk in the Hills" width="140"><br><strong>Kirk in the Hills (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ki/kirk-in-the-hills-3/"><img src="/variants/s10/lb16db6k1y1k1db1lb4dy4k1r1~x4/sett.png" alt="Kirk in the Hills" width="140"><br><strong>Kirk in the Hills (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/k/ki/kirkcaldy/"><img src="/variants/s6/lb23w3k10r2db45y1~x2/sett.png" alt="Kirkcaldy" width="140"><br><strong>Kirkcaldy (2)</strong></a><div class="clan-territory">Kirkcaldy</div></li>
 <li><a class="tartan" href="/tartans/k/ki/kirkcaldy-tartan-army/"><img src="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/sett.png" alt="Kirkcaldy Tartan Army" width="140"><br><strong>Kirkcaldy Tartan Army (1)</strong></a><div class="clan-territory">Clan Kirkcaldy</div></li>

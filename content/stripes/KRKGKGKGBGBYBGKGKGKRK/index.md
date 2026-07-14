@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/">Kinnear Barony of.. Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/"><img src="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/sett.png" alt="Kinnear Barony of.. Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinnear-barony-of/">Kinnear Barony of..</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinnear-barony-of/"><img src="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/sett.png" alt="Kinnear Barony of.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Gordon of Abergeldie"
   url: "/tartans/g/go/gordon-of-abergeldie/"
 - name: "Gordon of Abergeldie, (Red..)"
-  url: "/setts/r20w1k1b6y1g18/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r20w1k1b6y1g18/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/gordon-of-abergeldie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBKWR](/stripes/ggbkwr/).
 
 Part of the [Gordon of Abergeldie](/tartans/g/go/gordon-of-abergeldie/) tartan — the named design grouping this sett with its other cloths.

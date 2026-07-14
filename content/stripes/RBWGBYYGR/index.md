@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r3db7lb1dg6dbi5loi2lo2g2r3~x2~db1204274-dg1806142-dbi1406275-loi2906085-lo2706066-g2408144/">Bailey, Leslie A (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3db7lb1dg6dbi5loi2lo2g2r3~x2~db1204274-dg1806142-dbi1406275-loi2906085-lo2706066-g2408144/"><img src="/variants/s9/r3db7lb1dg6dbi5loi2lo2g2r3~x2~db1204274-dg1806142-dbi1406275-loi2906085-lo2706066-g2408144/sett.png" alt="Bailey, Leslie A (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bailey-leslie-a/">Bailey, Leslie A</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bailey-leslie-a/"><img src="/variants/s9/r3db7lb1dg6dbi5loi2lo2g2r3~x2~db1204274-dg1806142-dbi1406275-loi2906085-lo2706066-g2408144/sett.png" alt="Bailey, Leslie A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Brown Watch Dress"
   url: "/tartans/b/br/brown-watch-dress/"
 - name: "Brown Watch Dress"
-  url: "/setts/ly20do3ly3do3ly3do9w10do3w1do9ly10do3ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly20do3ly3do3ly3do9w10do3w1do9ly10do3ly3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brown-watch-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBYBWBWBYBYBY](/stripes/ybybwbwbybyby/).
 
 Part of the [Brown Watch Dress](/tartans/b/br/brown-watch-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=393](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Brown Watch Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=393">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Scottish Tartans Society notes that this threadcount was taken from an incomplete sample and the source was Scott Brothers of Hawick.</em></li>
-<li>pre 2002 — Brown Watch Dress (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1746">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>No details except STS notes that say this was taken from an incomplete sample and the source was Scott Bros of Hawick.</em></li>
+<li>pre 2002 — Brown Watch Dress (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1746/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>No details except STS notes that say this was taken from an incomplete sample and the source was Scott Bros of Hawick.</em></li>
 </ul>
 </details>
 

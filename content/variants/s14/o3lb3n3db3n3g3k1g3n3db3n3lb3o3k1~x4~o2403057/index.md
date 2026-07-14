@@ -12,10 +12,10 @@ crumbs:
 - name: "Stewarton"
   url: "/tartans/s/st/stewarton/"
 - name: "Stewarton (Personal)"
-  url: "/setts/o3lb3n3db3n3g3k1g3n3db3n3lb3o3k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o3lb3n3db3n3g3k1g3n3db3n3lb3o3k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewarton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWBBBGKGBBBWR](/stripes/krwbbbgkgbbbwr/).
 
 Part of the [Stewarton](/tartans/s/st/stewarton/) tartan — the named design grouping this sett with its other cloths.

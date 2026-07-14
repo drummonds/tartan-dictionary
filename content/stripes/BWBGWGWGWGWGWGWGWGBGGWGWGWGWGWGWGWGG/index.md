@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/db50w16db8dg8w1dg1w1dg1w1dg1w1dg1w1dg1w1dg1w20dg40db12dg24dgi8w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w28dgi6dg4~dgi1806142/">British Columbia (CIDD 28107)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/db50w16db8dg8w1dg1w1dg1w1dg1w1dg1w1dg1w1dg1w20dg40db12dg24dgi8w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w28dgi6dg4~dgi1806142/"><img src="/variants/s36/db50w16db8dg8w1dg1w1dg1w1dg1w1dg1w1dg1w1dg1w20dg40db12dg24dgi8w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w28dgi6dg4~dgi1806142/sett.png" alt="British Columbia (CIDD 28107) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s36/db50w16db8dg8w1dg1w1dg1w1dg1w1dg1w1dg1w1dg1w20dg40db12dg24g8w1g1w1g1w1g1w1g1w1g1w1g1w28g6dg4/">British Columbia (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/db50w16db8dg8w1dg1w1dg1w1dg1w1dg1w1dg1w1dg1w20dg40db12dg24g8w1g1w1g1w1g1w1g1w1g1w1g1w28g6dg4/"><img src="/variants/s36/db50w16db8dg8w1dg1w1dg1w1dg1w1dg1w1dg1w1dg1w20dg40db12dg24g8w1g1w1g1w1g1w1g1w1g1w1g1w28g6dg4/sett.png" alt="British Columbia (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/british-columbia/">British Columbia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/british-columbia/"><img src="/variants/s36/db50w16db8dg8w1dg1w1dg1w1dg1w1dg1w1dg1w1dg1w20dg40db12dg24dgi8w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w1dgi1w28dgi6dg4~dgi1806142/sett.png" alt="British Columbia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

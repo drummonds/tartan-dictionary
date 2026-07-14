@@ -12,10 +12,10 @@ crumbs:
 - name: "Orkney"
   url: "/tartans/o/or/orkney/"
 - name: "Orkney District Tartan"
-  url: "/setts/o3g1lb6k1g6o4k1lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o3g1lb6k1g6o4k1lo1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/or/orkney/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWKGRKY](/stripes/rgwkgrky/).
 
 Part of the [Orkney](/tartans/o/or/orkney/) tartan — the named design grouping this sett with its other cloths.

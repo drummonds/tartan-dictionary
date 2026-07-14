@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/">Commonwealth Games Scotland, Team Scotland 2014</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/"><img src="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/sett.png" alt="Commonwealth Games Scotland, Team Scotland 2014 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/commonwealth-games-scotland-team-scotland-2014/">Commonwealth Games Scotland, Team Scotland 2014</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/commonwealth-games-scotland-team-scotland-2014/"><img src="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/sett.png" alt="Commonwealth Games Scotland, Team Scotland 2014 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

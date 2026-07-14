@@ -8,10 +8,10 @@ crumbs:
 - name: "Hafren"
   url: "/tartans/h/ha/hafren/"
 - name: "Hafren (Personal)"
-  url: "/setts/g1t1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g1t1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hafren/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BG](/stripes/bg/).
 
 Part of the [Hafren](/tartans/h/ha/hafren/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1567](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1986 — Hafren (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1567">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#4C6878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #4C6878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Sir Michael Leighton. Threadcount guessed from photograph.</em></li>
-<li>1986-1993 — Hafren (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7073">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#4C6878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #4C6878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Sir Michael Leighton. Threadcount guessed from photograph.</em></li>
+<li>1986-1993 — Hafren (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7073/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#4C6878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #4C6878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed by Sir Michael Leighton. Threadcount guessed from photograph.</em></li>
 </ul>
 </details>
 

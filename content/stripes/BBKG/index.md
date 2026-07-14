@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/dg43k14db14dr2~x2/">Feddinch Club, St Andrews Limited, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dg43k14db14dr2~x2/"><img src="/variants/s4/dg43k14db14dr2~x2/sett.png" alt="Feddinch Club, St Andrews Limited, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/feddinch-club-st-andrews/">Feddinch Club, St Andrews</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/feddinch-club-st-andrews/"><img src="/variants/s4/dg43k14db14dr2~x2/sett.png" alt="Feddinch Club, St Andrews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

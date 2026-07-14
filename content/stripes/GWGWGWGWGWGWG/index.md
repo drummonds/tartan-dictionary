@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g24w1g2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/">MacDonald, Lord of the Isles Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g24w1g2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><img src="/variants/s13/g24w1g2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/sett.png" alt="MacDonald, Lord of the Isles Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-lord-of-the-isles-hunting-3/">MacDonald, Lord of the Isles Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-lord-of-the-isles-hunting-3/"><img src="/variants/s13/g24w1g2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/sett.png" alt="MacDonald, Lord of the Isles Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

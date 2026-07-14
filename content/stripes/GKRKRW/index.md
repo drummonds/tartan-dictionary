@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y6k5o4k48r36w6/">Drambuie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y6k5o4k48r36w6/"><img src="/variants/s6/y6k5o4k48r36w6/sett.png" alt="Drambuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drambuie/">Drambuie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drambuie/"><img src="/variants/s6/y6k5o4k48r36w6/sett.png" alt="Drambuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/y6k5r4k48o36w6/">Drambuie dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y6k5r4k48o36w6/"><img src="/variants/s6/y6k5r4k48o36w6/sett.png" alt="Drambuie dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drambuie-dress-2/">Drambuie dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drambuie-dress-2/"><img src="/variants/s6/y6k5r4k48o36w6/sett.png" alt="Drambuie dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

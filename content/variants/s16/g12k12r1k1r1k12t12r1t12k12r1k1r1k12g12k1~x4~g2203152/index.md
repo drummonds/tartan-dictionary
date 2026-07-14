@@ -12,10 +12,10 @@ crumbs:
 - name: "Guthrie"
   url: "/tartans/g/gu/guthrie/"
 - name: "Guthrie"
-  url: "/setts/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gu/guthrie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRKBRBKRKRKGK](/stripes/gkrkrkbrbkrkrkgk/).
 
 Part of the [Guthrie](/tartans/g/gu/guthrie/) tartan — the named design grouping this sett with its other cloths.

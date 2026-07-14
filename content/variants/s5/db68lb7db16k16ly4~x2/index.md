@@ -8,10 +8,10 @@ crumbs:
 - name: "Burnetts & Struth"
   url: "/tartans/b/bu/burnetts-struth/"
 - name: "Burnetts & Struth"
-  url: "/setts/db68lb7db16k16ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db68lb7db16k16ly4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/burnetts-struth/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKY](/stripes/bwbky/).
 
 Part of the [Burnetts & Struth](/tartans/b/bu/burnetts-struth/) tartan — the named design grouping this sett with its other cloths.

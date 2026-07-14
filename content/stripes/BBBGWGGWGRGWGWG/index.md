@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/">Druid (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"><img src="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/sett.png" alt="Druid (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/druid/">Druid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/druid/"><img src="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/sett.png" alt="Druid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k8dy2t21w3r2/">Oklahoma</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k8dy2t21w3r2/"><img src="/variants/s5/k8dy2t21w3r2~x4~t2205244/sett.png" alt="Oklahoma sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/">Oklahoma State American District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><img src="/variants/s5/k8y2t21w3r2~x4~t2205244/sett.png" alt="Oklahoma State American District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ok/oklahoma/">Oklahoma</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma/"><img src="/variants/s5/k8dy2t21w3r2~x4~t2205244/sett.png" alt="Oklahoma sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ok/oklahoma-state/">Oklahoma State</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma-state/"><img src="/variants/s5/k8y2t21w3r2~x4~t2205244/sett.png" alt="Oklahoma State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

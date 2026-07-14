@@ -12,15 +12,15 @@ crumbs:
 - name: "Dryer"
   url: "/tartans/d/dr/dryer-2/"
 - name: "Dryer"
-  url: "/setts/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/dr/dryer-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKGKBKBKKKBKBKGKBKBKBKB](/stripes/bkbkbkbkgkbkbkkkbkbkgkbkbkbkb/).
 
 Part of the [Dryer](/tartans/d/dr/dryer-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10099](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10099)
 

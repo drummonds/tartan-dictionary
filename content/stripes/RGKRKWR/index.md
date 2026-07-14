@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/">Triad Highland Games Proposed</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><img src="/variants/s7/r1g8k8r1k8lb8r1~x4/sett.png" alt="Triad Highland Games Proposed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/triad-highland-games/">Triad Highland Games</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/triad-highland-games/"><img src="/variants/s7/r1g8k8r1k8lb8r1~x4/sett.png" alt="Triad Highland Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

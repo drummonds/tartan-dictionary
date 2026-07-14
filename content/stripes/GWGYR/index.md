@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dy4lb11dy14ly30r4~x2/">Trinity Bicycles</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dy4lb11dy14ly30r4~x2/"><img src="/variants/s5/dy4lb11dy14ly30r4~x2/sett.png" alt="Trinity Bicycles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/trinity-bicycles/">Trinity Bicycles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/trinity-bicycles/"><img src="/variants/s5/dy4lb11dy14ly30r4~x2/sett.png" alt="Trinity Bicycles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

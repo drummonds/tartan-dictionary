@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/">Currens (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/"><img src="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/sett.png" alt="Currens (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/currens/">Currens</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/currens/"><img src="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/sett.png" alt="Currens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

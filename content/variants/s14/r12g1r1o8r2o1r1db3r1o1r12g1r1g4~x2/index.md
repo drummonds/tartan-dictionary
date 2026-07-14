@@ -12,10 +12,10 @@ crumbs:
 - name: "MacColl"
   url: "/tartans/m/ma/maccoll-3/"
 - name: "MacColl"
-  url: "/setts/r12g1r1o8r2o1r1db3r1o1r12g1r1g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12g1r1o8r2o1r1db3r1o1r12g1r1g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maccoll-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRRRBRRRRRGR](/stripes/grgrrrbrrrrrgr/).
 
 Part of the [MacColl](/tartans/m/ma/maccoll-3/) tartan — the named design grouping this sett with its other cloths.

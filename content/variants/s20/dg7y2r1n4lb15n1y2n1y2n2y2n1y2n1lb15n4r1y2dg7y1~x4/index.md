@@ -12,10 +12,10 @@ crumbs:
 - name: "Hutt"
   url: "/tartans/h/hu/hutt/"
 - name: "Hutt #1 (Personal)"
-  url: "/setts/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hutt/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRBWBGBGBGBGBWBRGG](/stripes/gggrbwbgbgbgbgbwbrgg/).
 
 Part of the [Hutt](/tartans/h/hu/hutt/) tartan — the named design grouping this sett with its other cloths.

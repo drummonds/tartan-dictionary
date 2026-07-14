@@ -8,10 +8,10 @@ crumbs:
 - name: "Tombow 140th Anniversary, The"
   url: "/tartans/t/to/tombow-140th-anniversary-the/"
 - name: "Tombow 140th Anniversary, The"
-  url: "/setts/g4y7lo9y9db20w2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4y7lo9y9db20w2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/tombow-140th-anniversary-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGYGG](/stripes/bwbgygg/).
 
 Part of the [Tombow 140th Anniversary, The](/tartans/t/to/tombow-140th-anniversary-the/) tartan — the named design grouping this sett with its other cloths.

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr3lb10dr3lb4dr20w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbwbw/">BWBWBW</a></nav>
 Its design is pattern [BWBWBW](/stripes/bwbwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Monica** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Monica** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr3lb10dr3lb4dr20w1/">Monica</a></td><td><code>DR/12 LB40 DR12 LB16 DR80 W/4</code></td><td>312</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr3lb10dr3lb4dr20w1/"><img src="/variants/s6/dr3lb10dr3lb4dr20w1~x4/sett.png" alt="Monica sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr3lb10dr3lb4dr20w1~x4/">Monica</a></td><td><code>DR/12 LB40 DR12 LB16 DR80 W/4</code></td><td>312</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr3lb10dr3lb4dr20w1~x4/"><img src="/variants/s6/dr3lb10dr3lb4dr20w1~x4/sett.png" alt="Monica sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lr40g13lr6db13lr22~x2/"><circle cx="421.5" cy="273.3" r="4" fill="#3465a4"><title>Burt's Highlanders</title></circle></a><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/"><circle cx="320.6" cy="171.4" r="4" fill="#3465a4"><title>Citylink Gold</title></circle></a><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/"><circle cx="392.1" cy="215.5" r="4" fill="#3465a4"><title>Cairn O'Mount</title></circle></a><a href="/variants/s6/db35lr8db21lr13db6ly4~x2/"><circle cx="437.2" cy="252.1" r="4" fill="#3465a4"><title>Auchterlonie</title></circle></a><a href="/variants/s6/dr5w2dr25w25dr2w5~x2/"><circle cx="373.0" cy="236.6" r="4" fill="#3465a4"><title>Erskine Dress Burgandy</title></circle></a><a href="/variants/s6/lr15do6lr1do3ly3lr1~x4/"><circle cx="400.7" cy="219.9" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="341.0" cy="226.9" r="4" fill="#3465a4"><title>Fraser Arisaid</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.7" cy="198.0" r="4" fill="#3465a4"><title>Glen Shiel</title></circle></a><circle cx="439.3" cy="206.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lr40g13lr6db13lr22~x2/"><circle cx="422.1" cy="273.5" r="4" fill="#3465a4"><title>Burt's Highlanders</title></circle></a><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/"><circle cx="321.1" cy="171.3" r="4" fill="#3465a4"><title>Citylink Gold</title></circle></a><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/"><circle cx="392.7" cy="215.7" r="4" fill="#3465a4"><title>Cairn O'Mount</title></circle></a><a href="/variants/s6/db35lr8db21lr13db6ly4~x2/"><circle cx="438.0" cy="252.3" r="4" fill="#3465a4"><title>Auchterlonie</title></circle></a><a href="/variants/s6/dr5w2dr25w25dr2w5~x2/"><circle cx="373.6" cy="236.7" r="4" fill="#3465a4"><title>Erskine Dress Burgandy</title></circle></a><a href="/variants/s6/lr15do6lr1do3ly3lr1~x4/"><circle cx="401.3" cy="220.0" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="341.4" cy="226.9" r="4" fill="#3465a4"><title>Fraser Arisaid</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="412.6" cy="198.2" r="4" fill="#3465a4"><title>Glen Shiel</title></circle></a><circle cx="440.1" cy="206.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

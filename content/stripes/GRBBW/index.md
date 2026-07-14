@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dy16r8t57db56lb8/">Bryson (1988)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dy16r8t57db56lb8/"><img src="/variants/s5/dy16r8t57db56lb8/sett.png" alt="Bryson (1988) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bryson-4/">Bryson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bryson-4/"><img src="/variants/s5/dy16r8t57db56lb8/sett.png" alt="Bryson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dy8g50db4lb2w5y2~x2/">Greenup (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><img src="/variants/s6/dy8g50db4lb2w5y2~x2/sett.png" alt="Greenup (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greenup/">Greenup</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greenup/"><img src="/variants/s6/dy8g50db4lb2w5y2~x2/sett.png" alt="Greenup sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

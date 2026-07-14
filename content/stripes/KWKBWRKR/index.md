@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k14w2k3n14lb6r14k2r3~x2/">Raytheon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k14w2k3n14lb6r14k2r3~x2/"><img src="/variants/s8/k14w2k3n14lb6r14k2r3~x2/sett.png" alt="Raytheon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/raytheon/">Raytheon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/raytheon/"><img src="/variants/s8/k14w2k3n14lb6r14k2r3~x2/sett.png" alt="Raytheon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

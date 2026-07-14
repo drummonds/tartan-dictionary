@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g8ly1g8ly12r1ly1~x4/">Forget Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g8ly1g8ly12r1ly1~x4/"><img src="/variants/s6/g8ly1g8ly12r1ly1~x4/sett.png" alt="Forget Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forget/">Forget</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forget/"><img src="/variants/s6/g8ly1g8ly12r1ly1~x4/sett.png" alt="Forget sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

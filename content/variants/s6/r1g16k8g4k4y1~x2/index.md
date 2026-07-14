@@ -12,10 +12,10 @@ crumbs:
 - name: "Forbes"
   url: "/tartans/f/fo/forbes-8/"
 - name: "Forbes #6"
-  url: "/setts/r1g16k8g4k4y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1g16k8g4k4y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/forbes-8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGR](/stripes/gkgkgr/).
 
 Part of the [Forbes](/tartans/f/fo/forbes-8/) tartan — the named design grouping this sett with its other cloths.

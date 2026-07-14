@@ -8,10 +8,10 @@ crumbs:
 - name: "MacDonald, Lord of the Isles Hunting"
   url: "/tartans/m/ma/macdonald-lord-of-the-isles-hunting-2/"
 - name: "MacDonald, Lord of the Isles Hunting #2"
-  url: "/setts/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-lord-of-the-isles-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/).
 
 Part of the [MacDonald, Lord of the Isles Hunting](/tartans/m/ma/macdonald-lord-of-the-isles-hunting-2/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5064](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1760 — MacDonald, Lord of the Isles Hunting #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5064">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>HRH Prince Charles holds the title Lord of the Isles is often to be seen in this tartan when he visits Scotland. Commercially it will appear in darker colours of green than those worn by the Prince. This tartan was also worn by Edward VIII (Duke of Windsor) and his father.</em></li>
-<li>1760 — MacDonald, Lord of the Isles Htg #1 (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3267">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>From the original portrait hung in Armadale Castle, Skye dating from about 1765. The blue green version is worn by Godfrey Macdonald, High Chief of the Macdonalds. This matches D W Stewart's woven silk sample in "Tartans Old and Rare".</em></li>
+<li>1760 — MacDonald, Lord of the Isles Htg #1 (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3267/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>From the original portrait hung in Armadale Castle, Skye dating from about 1765. The blue green version is worn by Godfrey Macdonald, High Chief of the Macdonalds. This matches D W Stewart's woven silk sample in "Tartans Old and Rare".</em></li>
 </ul>
 </details>
 

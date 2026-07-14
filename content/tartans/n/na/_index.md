@@ -14,7 +14,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/n/na/nance/"><img src="/variants/s11/dp52g14o2dg3dp2dg3g6lb6dg2lb6dp2~x2~g1903114-dg1806142/sett.png" alt="Nance" width="140"><br><strong>Nance (1)</strong></a><div class="clan-territory">Nance</div></li>
 <li><a class="tartan" href="/tartans/n/na/nance-2/"><img src="/variants/s10/db2lo1db6dr1db2dr2k2g6lb1g2~x4/sett.png" alt="Nance" width="140"><br><strong>Nance (1)</strong></a><div class="clan-territory">Nance</div></li>
 <li><a class="tartan" href="/tartans/n/na/naomia-melvina-young-wedding-dress/"><img src="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/sett.png" alt="Naomia Melvina Young Wedding Dress" width="140"><br><strong>Naomia Melvina Young Wedding Dress (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/n/na/napier/"><img src="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/sett.png" alt="Napier" width="140"><br><strong>Napier (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/n/na/napier/"><img src="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/sett.png" alt="Napier" width="140"><br><strong>Napier (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/na/napier-rose/"><img src="/variants/s11/k4w2k2w2k2w4k2w2k4r12w1~x4/sett.png" alt="Napier Rose" width="140"><br><strong>Napier Rose (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/na/nashotah-house/"><img src="/variants/s13/r2k2o6k10w2k14db8g15w2g7r5g1lo2~x2/sett.png" alt="Nashotah House" width="140"><br><strong>Nashotah House (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/n/na/nassau-county-firefighters/"><img src="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/sett.png" alt="Nassau County Firefighters" width="140"><br><strong>Nassau County Firefighters (1)</strong></a></li>

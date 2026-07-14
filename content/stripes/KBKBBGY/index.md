@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/">Royal Marines Condor (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><img src="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/sett.png" alt="Royal Marines Condor (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-marines-condor-2/">Royal Marines Condor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-marines-condor-2/"><img src="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/sett.png" alt="Royal Marines Condor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

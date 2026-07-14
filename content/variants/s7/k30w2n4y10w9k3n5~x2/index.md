@@ -10,10 +10,10 @@ crumbs:
 - name: "Virginia Commonwealth University"
   url: "/tartans/v/vi/virginia-commonwealth-university/"
 - name: "Virginia Commonwealth University"
-  url: "/setts/k30w2n4y10w9k3n5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k30w2n4y10w9k3n5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vi/virginia-commonwealth-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWGBWK](/stripes/bkwgbwk/).
 
 Part of the [Virginia Commonwealth University](/tartans/v/vi/virginia-commonwealth-university/) tartan — the named design grouping this sett with its other cloths.

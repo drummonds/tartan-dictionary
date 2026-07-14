@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/christie/"
 - name: "Christie"
   url: "/families/christie/"
+aliases:
+- "/setts/dt60w11r5db5k1y4/"
+- "/setts/dg60w11dr5t5k1ly4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwrbkg/">BWRBKG</a></nav>
 A tartan of the [Christie](/families/christie/) family.
 Its design is pattern [BWRBKG](/stripes/bwrbkg/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Christie Hunting** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dt60w11r5db5k1y4/">Christie Hunting</a> ★</td><td><code>DT/120 W22 R10 DB10 K2 Y/8</code></td><td>216</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dt60w11r5db5k1y4/"><img src="/variants/s6/dt60w11r5db5k1y4~x2/sett.png" alt="Christie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dg60w11dr5t5k1ly4/">(London) (Personal)</a></td><td><code>DG/120 W22 DR10 T10 K2 LY/8</code></td><td>216</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg60w11dr5t5k1ly4/"><img src="/variants/s6/dg60w11dr5t5k1ly4~x2/sett.png" alt="(London) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dt60w11r5db5k1y4~x2/">Christie Hunting</a> ★</td><td><code>DT/120 W22 R10 DB10 K2 Y/8</code></td><td>216</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><img src="/variants/s6/dt60w11r5db5k1y4~x2/sett.png" alt="Christie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg60w11dr5t5k1ly4~x2/">(London) (Personal)</a></td><td><code>DG/120 W22 DR10 T10 K2 LY/8</code></td><td>216</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg60w11dr5t5k1ly4~x2/"><img src="/variants/s6/dg60w11dr5t5k1ly4~x2/sett.png" alt="(London) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="430.5" cy="46.8" r="4" fill="#3465a4"><title>Greeven, Wolfgang H</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="404.1" cy="106.3" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="440.8" cy="77.2" r="4" fill="#3465a4"><title>Michael</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="391.7" cy="48.9" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="373.6" cy="100.5" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="301.7" cy="77.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="309.4" cy="78.5" r="4" fill="#3465a4"><title>Tainsh</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="402.7" cy="42.1" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="347.6" cy="101.2" r="4" fill="#3465a4"><title>Leblant-Macqueron</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.5" cy="102.2" r="4" fill="#3465a4"><title>Wilton</title></circle></a><circle cx="388.9" cy="60.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="431.8" cy="47.1" r="4" fill="#3465a4"><title>Greeven, Wolfgang H</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="405.2" cy="106.4" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="442.2" cy="77.5" r="4" fill="#3465a4"><title>Michael</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="393.1" cy="49.1" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="374.6" cy="100.7" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="302.7" cy="77.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="310.5" cy="78.5" r="4" fill="#3465a4"><title>Tainsh</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="404.1" cy="42.3" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="348.6" cy="101.2" r="4" fill="#3465a4"><title>Leblant-Macqueron</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="431.5" cy="102.3" r="4" fill="#3465a4"><title>Wilton</title></circle></a><circle cx="390.2" cy="60.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/">Red Chapeau</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/"><img src="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/sett.png" alt="Red Chapeau sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/red-chapeau/">Red Chapeau</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/red-chapeau/"><img src="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/sett.png" alt="Red Chapeau sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

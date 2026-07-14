@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r65g16r4dp4r4w5~x2/">Howard, Vincent (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><img src="/variants/s6/r65g16r4dp4r4w5~x2/sett.png" alt="Howard, Vincent (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/howard-vincent/">Howard, Vincent</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/howard-vincent/"><img src="/variants/s6/r65g16r4dp4r4w5~x2/sett.png" alt="Howard, Vincent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

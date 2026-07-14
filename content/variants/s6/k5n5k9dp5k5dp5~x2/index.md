@@ -8,10 +8,10 @@ crumbs:
 - name: "Charles Rennie Mackintosh"
   url: "/tartans/c/ch/charles-rennie-mackintosh/"
 - name: "Charles Rennie Mackintosh"
-  url: "/setts/k5n5k9dp5k5dp5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5n5k9dp5k5dp5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/charles-rennie-mackintosh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
 Part of the [Charles Rennie Mackintosh](/tartans/c/ch/charles-rennie-mackintosh/) tartan — the named design grouping this sett with its other cloths.

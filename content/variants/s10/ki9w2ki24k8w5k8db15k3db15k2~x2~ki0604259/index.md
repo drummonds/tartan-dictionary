@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Claymores"
   url: "/tartans/s/sc/scottish-claymores-2/"
 - name: "Scottish Claymores"
-  url: "/setts/ki9w2ki24k8w5k8db15k3db15k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ki9w2ki24k8w5k8db15k3db15k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-claymores-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKWKKWK](/stripes/kbkbkwkkwk/).
 
 Part of the [Scottish Claymores](/tartans/s/sc/scottish-claymores-2/) tartan — the named design grouping this sett with its other cloths.

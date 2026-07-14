@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/">MacDonald of Pr Edward Island Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/"><img src="/variants/s24/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/sett.png" alt="MacDonald of Pr Edward Island Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s24/r24db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/">MacDonald of Prince Edward Island</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/r24db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/"><img src="/variants/s24/r24db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/sett.png" alt="MacDonald of Prince Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-pr-edward-island/">MacDonald of Pr Edward Island</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-pr-edward-island/"><img src="/variants/s24/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/sett.png" alt="MacDonald of Pr Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-prince-edward-island/">MacDonald of Prince Edward Island</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-prince-edward-island/"><img src="/variants/s24/r24db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/sett.png" alt="MacDonald of Prince Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

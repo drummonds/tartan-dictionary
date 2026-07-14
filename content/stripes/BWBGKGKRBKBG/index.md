@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/">Me to You</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/"><img src="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/sett.png" alt="Me to You sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/me-to-you/">Me to You</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/me-to-you/"><img src="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/sett.png" alt="Me to You sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,15 +12,15 @@ crumbs:
 - name: "Stevens"
   url: "/tartans/s/st/stevens-2/"
 - name: "Stevens (Personal)"
-  url: "/setts/r6y3r3db24dbi24g24lb3y4lb3g24dbi10w3dbi10db24r3y3r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6y3r3db24dbi24g24lb3y4lb3g24dbi10w3dbi10db24r3y3r6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRBBGWGWGBWBBRGRGRBBWBGWGWGBBRGR](/stripes/grbbgwgwgbwbbrgrgrbbwbgwgwgbbrgr/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/stevens-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGRBBGWGWGBWBBRGR](/stripes/rgrbbgwgwgbwbbrgr/).
 
 Part of the [Stevens](/tartans/s/st/stevens-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3920](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3920)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3920](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2005 — Stevens (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3920">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>No details known.</em></li>
-<li>2005 — Stevens (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6664">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>No details</em></li>
+<li>2005 — Stevens (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6664/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>No details</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6664
 
 ## Thread count
-R/6 Y3 R3 DB24 DBi24 G24 LB3 Y4 LB3 G24 DBi10 W3 DBi10 DB24 R3 Y3 R6 Y3 R3 DB24 DBi10 W3 DBi10 G24 LB3 Y4 LB3 G24 DBi24 DB24 R3 Y/3
+R/6 Y3 R3 DB24 DBi24 G24 LB3 Y4 LB3 G24 DBi10 W3 DBi10 DB24 R3 Y3 R/6
 
-One full sett is **675 threads**.
+One full sett is **342 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/6 Y3 R3 DB24 DBi24 G24 LB3 Y4 LB3 G24 DBi10 W3 DBi10 DB24 R3 Y3 R6 Y3 R3 DB24 DBi10 W3 DBi10 G24 LB3 Y4 LB3 G24 DBi24 DB24 R3 Y/3 — 675 threads; it folds to the canonical 342-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **675 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 Y3 R3 DB24 DBi24 G24 LB3 Y4 LB3 G24 DBi10 W3 DBi10 DB24 R3 Y3 R6 Y3 R3 DB24 DBi10 W3 DBi10 G24 LB3 Y4 LB3 G24 DBi24 DB24 R3 Y/3 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 Y3 R3 DB24 DBi24 G24 LB3 Y4 LB3 G24 DBi10 W3 DBi10 DB24 R3 Y3 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

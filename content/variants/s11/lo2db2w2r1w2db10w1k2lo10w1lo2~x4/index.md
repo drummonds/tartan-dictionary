@@ -10,10 +10,10 @@ crumbs:
 - name: "Bear Baars"
   url: "/tartans/b/be/bear-baars/"
 - name: "Bear Baars (Personal)"
-  url: "/setts/lo2db2w2r1w2db10w1k2lo10w1lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo2db2w2r1w2db10w1k2lo10w1lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/bear-baars/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBWRWBWKYWY](/stripes/ybwrwbwkywy/).
 
 Part of the [Bear Baars](/tartans/b/be/bear-baars/) tartan — the named design grouping this sett with its other cloths.

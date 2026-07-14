@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/">Kildare County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/"><img src="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/sett.png" alt="Kildare County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kildare-county-crest/">Kildare County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kildare-county-crest/"><img src="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/sett.png" alt="Kildare County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

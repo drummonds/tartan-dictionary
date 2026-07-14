@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/">Int. Police Association (Official)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><img src="/variants/s7/db7r3db26lb2db2lb26y4~x2/sett.png" alt="Int. Police Association (Official) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db14r6db52lb4db4lb51y8/">International Police Association (IPA 2010)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><img src="/variants/s7/db14r6db52lb4db4lb51y8/sett.png" alt="International Police Association (IPA 2010) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/int-police-association/">Int. Police Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/int-police-association/"><img src="/variants/s7/db7r3db26lb2db2lb26y4~x2/sett.png" alt="Int. Police Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/international-police-association-2/">International Police Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/international-police-association-2/"><img src="/variants/s7/db14r6db52lb4db4lb51y8/sett.png" alt="International Police Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

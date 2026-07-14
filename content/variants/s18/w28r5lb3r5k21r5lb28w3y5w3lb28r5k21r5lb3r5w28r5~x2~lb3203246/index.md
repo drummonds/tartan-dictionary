@@ -10,10 +10,10 @@ crumbs:
 - name: "Stirling & Bannockburn Dress"
   url: "/tartans/s/st/stirling-bannockburn-dress-2/"
 - name: "Stirling & Bannockburn Dress"
-  url: "/setts/w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stirling-bannockburn-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRKRWWGWWRKRWRW](/stripes/rwrwrkrwwgwwrkrwrw/).
 
 Part of the [Stirling & Bannockburn Dress](/tartans/s/st/stirling-bannockburn-dress-2/) tartan — the named design grouping this sett with its other cloths.

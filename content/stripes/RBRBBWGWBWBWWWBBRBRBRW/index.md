@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/">Glasgow Garden Festival</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/"><img src="/variants/s22/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/sett.png" alt="Glasgow Garden Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow-garden-festival/">Glasgow Garden Festival</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-garden-festival/"><img src="/variants/s22/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/sett.png" alt="Glasgow Garden Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/dg13db2k2db2dg13g4db14dp2db14g4k12db2dg2db2dg2db2k12~x2/">National Trust for Scotland (Corpora</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/dg13db2k2db2dg13g4db14dp2db14g4k12db2dg2db2dg2db2k12~x2/"><img src="/variants/s17/dg13db2k2db2dg13g4db14dp2db14g4k12db2dg2db2dg2db2k12~x2/sett.png" alt="National Trust for Scotland (Corpora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/national-trust-for-scotland-corpora/">National Trust for Scotland (Corpora</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/national-trust-for-scotland-corpora/"><img src="/variants/s17/dg13db2k2db2dg13g4db14dp2db14g4k12db2dg2db2dg2db2k12~x2/sett.png" alt="National Trust for Scotland (Corpora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

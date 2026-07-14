@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonald of Lochmaddy"
   url: "/tartans/m/ma/macdonald-of-lochmaddy/"
 - name: "MacDonald of Lochmaddy"
-  url: "/setts/r13w1lb2r2g14r2w1lb2r2db4r2lb2w1r16g1r2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r13w1lb2r2g14r2w1lb2r2db4r2lb2w1r16g1r2g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-of-lochmaddy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRWWRBRWWRGRWWR](/stripes/grgrwwrbrwwrgrwwr/).
 
 Part of the [MacDonald of Lochmaddy](/tartans/m/ma/macdonald-of-lochmaddy/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/">Portosalvo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/"><img src="/variants/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/sett.png" alt="Portosalvo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/g5w1g32b1g8b9g2w2r3b3w1~x2/">Portosalvo (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g5w1g32b1g8b9g2w2r3b3w1~x2/"><img src="/variants/s11/g5w1g32b1g8b9g2w2r3b3w1~x2/sett.png" alt="Portosalvo (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/portosalvo/">Portosalvo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/portosalvo/"><img src="/variants/s11/g5w1g32b1g8b9g2w2r3b3w1~x2/sett.png" alt="Portosalvo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

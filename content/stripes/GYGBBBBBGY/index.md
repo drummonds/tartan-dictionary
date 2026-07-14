@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g3lr3g18db14dr5db14dr5db14g21lr3~x2/">Hamilton (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g3lr3g18db14dr5db14dr5db14g21lr3~x2/"><img src="/variants/s10/g3lr3g18db14dr5db14dr5db14g21lr3~x2/sett.png" alt="Hamilton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hamilton-2/">Hamilton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hamilton-2/"><img src="/variants/s10/g3lr3g18db14dr5db14dr5db14g21lr3~x2/sett.png" alt="Hamilton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

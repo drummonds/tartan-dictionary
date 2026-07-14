@@ -12,22 +12,22 @@ crumbs:
 - name: "Milne"
   url: "/tartans/m/mi/milne/"
 - name: "Milne (Personal)"
-  url: "/setts/w12dg2w12r17w12dg2w5p2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w12dg2w12r17w12dg2w5p2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/milne/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWRWGW](/stripes/bwgwrwgw/).
 
 Part of the [Milne](/tartans/m/mi/milne/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=634](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=634)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/634/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/634/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1985 — Milne (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=634">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D05054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #D05054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6840FC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CB #6840FC"></span><br><em>When this was first discovered on the top shelf of a kiltmaker's shop in Edinburgh in 1985 it was labelled "not for sale' and the Tartans Society was advised that it was a private tartan for one individual. However, in 1990 it was being offered commercially as a "dancer's fancy".Subsequent sample in STA Johnston Collection states "Private tartan for Milne Family in Canada by D.C. Dalgliesh"</em></li>
+<li>1985 — Milne (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/634/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D05054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #D05054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6840FC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CB #6840FC"></span><br><em>When this was first discovered on the top shelf of a kiltmaker's shop in Edinburgh in 1985 it was labelled "not for sale' and the Tartans Society was advised that it was a private tartan for one individual. However, in 1990 it was being offered commercially as a "dancer's fancy".Subsequent sample in STA Johnston Collection states "Private tartan for Milne Family in Canada by D.C. Dalgliesh"</em></li>
 <li>01/01/2003 — Milne (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2953">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D05054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #D05054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6840FC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CB #6840FC"></span><br><em>When this was first discovered on the top shelf of a kiltmaker's shop in Edinburgh in 1985 it was labelled 'not for sale' and the Tartans Society was advised that it was a private tartan for one individual. However, in 1990 it was being offered commercially as a 'dancer's fancy'. Subsequent sample in Scottish Tartans Authority Johnston Collection states 'Private tartan for Milne Family in Canada by D.C. Dalgliesh' Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. This tartan is made using Green, Royal Blue as dancer's tartans but the Milne dress is this Red one</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=634](htt
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

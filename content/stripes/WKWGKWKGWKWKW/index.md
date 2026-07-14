@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/">Kernbrownek (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/"><img src="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/sett.png" alt="Kernbrownek (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kernbrownek/">Kernbrownek</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kernbrownek/"><img src="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/sett.png" alt="Kernbrownek sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

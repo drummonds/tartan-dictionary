@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg1804158-ly2706114/">Entier</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg1804158-ly2706114/"><img src="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg1804158-ly2706114/sett.png" alt="Entier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/en/entier/">Entier</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/en/entier/"><img src="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg1804158-ly2706114/sett.png" alt="Entier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

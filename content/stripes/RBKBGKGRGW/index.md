@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/">Loch Freuchie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/"><img src="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/sett.png" alt="Loch Freuchie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-freuchie/">Loch Freuchie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-freuchie/"><img src="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/sett.png" alt="Loch Freuchie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

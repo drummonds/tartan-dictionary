@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dg24lyi8dg1ly2dg3r3dg5r3dg3ly2dg1lyi8dg24ly2~x2~dg1605139-lyi3104101-ly2705081/">St. Christopher</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dg24lyi8dg1ly2dg3r3dg5r3dg3ly2dg1lyi8dg24ly2~x2~dg1605139-lyi3104101-ly2705081/"><img src="/variants/s14/dg24lyi8dg1ly2dg3r3dg5r3dg3ly2dg1lyi8dg24ly2~x2~dg1605139-lyi3104101-ly2705081/sett.png" alt="St. Christopher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-christopher/">St. Christopher</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-christopher/"><img src="/variants/s14/dg24lyi8dg1ly2dg3r3dg5r3dg3ly2dg1lyi8dg24ly2~x2~dg1605139-lyi3104101-ly2705081/sett.png" alt="St. Christopher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

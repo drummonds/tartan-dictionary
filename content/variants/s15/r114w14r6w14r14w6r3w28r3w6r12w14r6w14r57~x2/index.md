@@ -12,10 +12,10 @@ crumbs:
 - name: "Menzies of Pitfoddels"
   url: "/tartans/m/me/menzies-of-pitfoddels/"
 - name: "Menzies of Pitfoddels"
-  url: "/setts/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/menzies-of-pitfoddels/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRWRWRWRWRWR](/stripes/rwrwrwrwrwrwrwr/).
 
 Part of the [Menzies of Pitfoddels](/tartans/m/me/menzies-of-pitfoddels/) tartan — the named design grouping this sett with its other cloths.

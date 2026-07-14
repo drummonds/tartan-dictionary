@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r4g4k2g31k10y3g5k11g6k3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkggkgkgr/">KGKGGKGKGR</a></nav>
 Its design is pattern [KGKGGKGKGR](/stripes/kgkggkgkgr/) — the page of every tartan sharing this colour sequence.
 
 The **MacArthur-Fox** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **MacArthur-Fox** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4g4k2g31k10y3g5k11g6k3/">MacArthur-Fox</a></td><td><code>R/8 G8 K4 G62 K20 Y6 G10 K22 G12 K/6</code></td><td>302</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4g4k2g31k10y3g5k11g6k3/"><img src="/variants/s10/r4g4k2g31k10y3g5k11g6k3~x2/sett.png" alt="MacArthur-Fox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4g4k2g31k10y3g5k11g6k3~x2/">MacArthur-Fox</a></td><td><code>R/8 G8 K4 G62 K20 Y6 G10 K22 G12 K/6</code></td><td>302</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r4g4k2g31k10y3g5k11g6k3~x2/"><img src="/variants/s10/r4g4k2g31k10y3g5k11g6k3~x2/sett.png" alt="MacArthur-Fox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/g5k2g30r2k10g5k2g5k10r2~x2/"><circle cx="323.1" cy="137.7" r="4" fill="#3465a4"><title>MacArthur-Fox 2000</title></circle></a><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/"><circle cx="265.3" cy="136.9" r="4" fill="#3465a4"><title>Manitoba Cue</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="267.6" cy="137.5" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s11/g17lb2b2lb2k21lb2k3g30k2lb2k4~x2/"><circle cx="258.6" cy="121.2" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/variants/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="295.8" cy="156.0" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/"><circle cx="249.4" cy="131.4" r="4" fill="#3465a4"><title>Bute Heather, Glencallum</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="258.2" cy="152.7" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="282.2" cy="149.9" r="4" fill="#3465a4"><title>MacArthur-Fox 1993</title></circle></a><a href="/variants/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8lb4~x2/"><circle cx="252.1" cy="130.8" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="218.1" cy="133.8" r="4" fill="#3465a4"><title>MacCarthy</title></circle></a><circle cx="280.2" cy="131.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/g5k2g30r2k10g5k2g5k10r2~x2/"><circle cx="324.1" cy="137.9" r="4" fill="#3465a4"><title>MacArthur-Fox 2000</title></circle></a><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/"><circle cx="266.1" cy="137.0" r="4" fill="#3465a4"><title>Manitoba Cue</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="268.5" cy="137.6" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s11/g17lb2b2lb2k21lb2k3g30k2lb2k4~x2/"><circle cx="259.4" cy="121.2" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/variants/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="296.6" cy="156.1" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/"><circle cx="250.1" cy="131.4" r="4" fill="#3465a4"><title>Bute Heather, Glencallum</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="258.9" cy="152.7" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="283.1" cy="150.0" r="4" fill="#3465a4"><title>MacArthur-Fox 1993</title></circle></a><a href="/variants/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8lb4~x2/"><circle cx="252.9" cy="130.8" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="218.8" cy="133.7" r="4" fill="#3465a4"><title>MacCarthy</title></circle></a><circle cx="281.0" cy="131.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

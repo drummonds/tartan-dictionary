@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/lo4g2lo2g2lo2g24k2r16w9db3/">North West Territories</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/lo4g2lo2g2lo2g24k2r16w9db3/"><img src="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2~w3600000/sett.png" alt="North West Territories sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/north-west-territories/">North West Territories</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/north-west-territories/"><img src="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2~w3600000/sett.png" alt="North West Territories sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

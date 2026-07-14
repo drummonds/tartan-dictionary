@@ -8,10 +8,10 @@ crumbs:
 - name: "Porter Drinkers', The"
   url: "/tartans/p/po/porter-drinkers-the/"
 - name: "Porter Drinkers', The"
-  url: "/setts/k2y6k2y11k9r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2y6k2y11k9r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/porter-drinkers-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKR](/stripes/kgkgkr/).
 
 Part of the [Porter Drinkers', The](/tartans/p/po/porter-drinkers-the/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Fiddes"
   url: "/tartans/f/fi/fiddes-6/"
 - name: "Fiddes"
-  url: "/setts/g12ri11dp12r3ri32dp8g8dp8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12ri11dp12r3ri32dp8g8dp8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fi/fiddes-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRRBRG](/stripes/bgbrrbrg/).
 
 Part of the [Fiddes](/tartans/f/fi/fiddes-6/) tartan — the named design grouping this sett with its other cloths.

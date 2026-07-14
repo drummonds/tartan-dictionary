@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dy12ly6dy2y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggyg/">GGYG</a></nav>
 Its design is pattern [GGYG](/stripes/ggyg/) — the page of every tartan sharing this colour sequence.
 
 The **Loch Garth** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Loch Garth** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dy12ly6dy2y1/">Loch Garth</a></td><td><code>DY/48 LY24 DY8 Y/4</code></td><td>116</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy12ly6dy2y1/"><img src="/variants/s4/dy12ly6dy2y1~x4/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dy12ly6dy2y1~x4/">Loch Garth</a></td><td><code>DY/48 LY24 DY8 Y/4</code></td><td>116</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dy12ly6dy2y1~x4/"><img src="/variants/s4/dy12ly6dy2y1~x4/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r1dy7ly25dy7r1~x2/"><circle cx="385.7" cy="165.7" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="411.7" cy="282.6" r="4" fill="#3465a4"><title>One Account</title></circle></a><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="389.0" cy="173.9" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s6/dy9lb3dy6lb3dy20y2~x2/"><circle cx="528.0" cy="223.8" r="4" fill="#3465a4"><title>Oman Sultanate of.. Regimental</title></circle></a><a href="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/"><circle cx="416.2" cy="269.4" r="4" fill="#3465a4"><title>Special, Saffron</title></circle></a><a href="/variants/s6/dg86lo44dg21lo44dg86lb10/"><circle cx="375.7" cy="259.2" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.7" cy="198.0" r="4" fill="#3465a4"><title>Glen Shiel</title></circle></a><a href="/variants/s3/y20db10w3~x2/"><circle cx="362.4" cy="298.1" r="4" fill="#3465a4"><title>Masai Shuka 04</title></circle></a><a href="/variants/s5/w7dy7w7dy40r3~x2/"><circle cx="432.2" cy="176.4" r="4" fill="#3465a4"><title>Coca Cola US</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="458.9" cy="186.1" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><circle cx="414.5" cy="235.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r1dy7ly25dy7r1~x2/"><circle cx="386.5" cy="165.9" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="412.4" cy="282.9" r="4" fill="#3465a4"><title>One Account</title></circle></a><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="390.0" cy="174.2" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s6/dy9lb3dy6lb3dy20y2~x2/"><circle cx="529.1" cy="224.3" r="4" fill="#3465a4"><title>Oman Sultanate of.. Regimental</title></circle></a><a href="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/"><circle cx="416.9" cy="269.7" r="4" fill="#3465a4"><title>Special, Saffron</title></circle></a><a href="/variants/s6/dg86lo44dg21lo44dg86lb10/"><circle cx="376.3" cy="259.4" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="412.6" cy="198.2" r="4" fill="#3465a4"><title>Glen Shiel</title></circle></a><a href="/variants/s3/y20db10w3~x2/"><circle cx="362.9" cy="298.3" r="4" fill="#3465a4"><title>Masai Shuka 04</title></circle></a><a href="/variants/s5/w7dy7w7dy40r3~x2/"><circle cx="433.3" cy="176.7" r="4" fill="#3465a4"><title>Coca Cola US</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="460.1" cy="186.4" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><circle cx="415.3" cy="235.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

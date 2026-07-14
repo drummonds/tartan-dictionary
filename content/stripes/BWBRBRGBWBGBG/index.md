@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/">Massachusetts - The Bay State</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/"><img src="/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/sett.png" alt="Massachusetts - The Bay State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/g6db3g3db11w2db4g2r4db5r2db24lb2db4~x2/">Massachusetts-The Bay State</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g6db3g3db11w2db4g2r4db5r2db24lb2db4~x2/"><img src="/variants/s13/g6db3g3db11w2db4g2r4db5r2db24lb2db4~x2/sett.png" alt="Massachusetts-The Bay State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/massachusetts/">Massachusetts</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/massachusetts/"><img src="/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/sett.png" alt="Massachusetts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/massachusetts-the-bay-state/">Massachusetts-The Bay State</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/massachusetts-the-bay-state/"><img src="/variants/s13/g6db3g3db11w2db4g2r4db5r2db24lb2db4~x2/sett.png" alt="Massachusetts-The Bay State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

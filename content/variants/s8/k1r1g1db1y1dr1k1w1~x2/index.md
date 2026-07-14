@@ -12,10 +12,10 @@ crumbs:
 - name: "Rainbow"
   url: "/tartans/r/ra/rainbow-6/"
 - name: "Rainbow"
-  url: "/setts/k1r1g1db1y1dr1k1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1r1g1db1y1dr1k1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/rainbow-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGBGBKW](/stripes/krgbgbkw/).
 
 Part of the [Rainbow](/tartans/r/ra/rainbow-6/) tartan — the named design grouping this sett with its other cloths.

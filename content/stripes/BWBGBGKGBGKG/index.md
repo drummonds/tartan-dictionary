@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/">Kelly of Sleat Hunting (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><img src="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/sett.png" alt="Kelly of Sleat Hunting (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kelly-of-sleat-hunting/">Kelly of Sleat Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kelly-of-sleat-hunting/"><img src="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/sett.png" alt="Kelly of Sleat Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

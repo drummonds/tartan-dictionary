@@ -8,10 +8,10 @@ crumbs:
 - name: "Legary"
   url: "/tartans/l/le/legary/"
 - name: "Legary"
-  url: "/setts/y5db15lb5db5lb40y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y5db15lb5db5lb40y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/legary/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBWG](/stripes/gbwbwg/).
 
 Part of the [Legary](/tartans/l/le/legary/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10041](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>27/05/2009 — Legary (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10041">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#EFF265;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #EFF265"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00006B;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #00006B"></span><span style="display:inline-block;width:.85em;height:.85em;background:#ABCDD9;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #ABCDD9"></span><br><em>A tartan to celebrate the name 'Legary' which the designer believes derives from Gary or Garye.</em></li>
-<li>27th May 2009 — Legary (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10041">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><br><em>For those of the name from the desinger Alan Legary who is a descendent of Sir John A. MacDonald. It's believed that the name may have come from Gary or Gayre. Glasgow born "Sir John A MacDonald (January 10 or 11, 1815 - June 6, 1891) was Canada's first prime minister, and was knighted for his efforts in bringing about Confederation. His role in creating Canada, and the realization of his dream to build a transcontinental railway, have fixed his place as a nation-builder in Canadian history." Copyright www.collectionscanada.gc.ca</em></li>
+<li>27th May 2009 — Legary (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10041/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><br><em>For those of the name from the desinger Alan Legary who is a descendent of Sir John A. MacDonald. It's believed that the name may have come from Gary or Gayre. Glasgow born "Sir John A MacDonald (January 10 or 11, 1815 - June 6, 1891) was Canada's first prime minister, and was knighted for his efforts in bringing about Confederation. His role in creating Canada, and the realization of his dream to build a transcontinental railway, have fixed his place as a nation-builder in Canadian history." Copyright www.collectionscanada.gc.ca</em></li>
 </ul>
 </details>
 

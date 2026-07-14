@@ -8,15 +8,15 @@ crumbs:
 - name: "Elphinstone"
   url: "/tartans/e/el/elphinstone/"
 - name: "Elphinstone"
-  url: "/setts/g12dp3g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12dp3g1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBG](/stripes/bgbg/).
+provenance below. It is one weaving of the [sett](/tartans/e/el/elphinstone/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBG](/stripes/gbg/).
 
 Part of the [Elphinstone](/tartans/e/el/elphinstone/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
@@ -37,9 +37,11 @@ Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http:/
 </details>
 
 ## Thread count
-G/24 DP6 G2 DP/6
+G/24 DP6 G/2
 
-One full sett is **46 threads**.
+One full sett is **38 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/24 DP6 G2 DP/6 — 46 threads; it folds to the canonical 38-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -48,7 +50,7 @@ One full sett is **46 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/24 DP6 G2 DP/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/24 DP6 G/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

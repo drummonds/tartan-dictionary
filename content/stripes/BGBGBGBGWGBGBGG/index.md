@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1dy3~x2/">Pitlochry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1dy3~x2/"><img src="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1dy3~x2/sett.png" alt="Pitlochry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pitlochry/">Pitlochry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pitlochry/"><img src="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1dy3~x2/sett.png" alt="Pitlochry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

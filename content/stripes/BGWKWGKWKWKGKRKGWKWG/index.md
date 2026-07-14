@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/">Mizzou (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"><img src="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/sett.png" alt="Mizzou (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mizzou/">Mizzou</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mizzou/"><img src="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/sett.png" alt="Mizzou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

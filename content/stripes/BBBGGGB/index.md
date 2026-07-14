@@ -28,17 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/">Baron of Crawfordjohn (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/"><img src="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/sett.png" alt="Baron of Crawfordjohn (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baron-of-crawfordjohn/">Baron of Crawfordjohn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baron-of-crawfordjohn/"><img src="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/sett.png" alt="Baron of Crawfordjohn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/do6dg6dy1dg6do5t6do1~x4/">Gleneagles (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/do6dg6dy1dg6do5t6do1~x4/"><img src="/variants/s7/do6dg6dy1dg6do5t6do1~x4/sett.png" alt="Gleneagles (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/gleneagles-2/">Gleneagles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneagles-2/"><img src="/variants/s7/do6dg6dy1dg6do5t6do1~x4/sett.png" alt="Gleneagles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/">Gleneagles Group</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/"><img src="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/">Gleneagles Group Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/"><img src="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/sett.png" alt="Gleneagles Group Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/gleneagles-group/">Gleneagles Group</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/gleneagles-group/"><img src="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

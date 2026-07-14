@@ -10,15 +10,15 @@ crumbs:
 - name: "MacPherson"
   url: "/families/macpherson/"
 - name: "MacPherson Dress"
-  url: "/tartans/m/ma/macpherson-dress-5/"
+  url: "/tartans/m/ma/macpherson-dress-4/"
 - name: "MacPherson Dress Blue (Dance) #2"
-  url: "/setts/w5r3w26g21w3g8y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5r3w26g21w3g8y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macpherson-dress-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGWRW](/stripes/ggwgwrw/).
 
-Part of the [MacPherson Dress](/tartans/m/ma/macpherson-dress-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacPherson Dress](/tartans/m/ma/macpherson-dress-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

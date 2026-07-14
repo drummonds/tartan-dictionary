@@ -8,10 +8,10 @@ crumbs:
 - name: "Stansbury"
   url: "/tartans/s/st/stansbury/"
 - name: "Stansbury (2014)"
-  url: "/setts/g28r3k28db8lb1g8r2k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g28r3k28db8lb1g8r2k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stansbury/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKBWGRK](/stripes/grkbwgrk/).
 
 Part of the [Stansbury](/tartans/s/st/stansbury/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "MacLeod and MacNicol"
   url: "/tartans/m/ma/macleod-and-macnicol/"
 - name: "MacLeod and MacNicol"
-  url: "/setts/r8g1r8g16r4k2lb1k4r8g1r8k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8g1r8g16r4k2lb1k4r8g1r8k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macleod-and-macnicol/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRKWKRGRGR](/stripes/krgrkwkrgrgr/).
 
 Part of the [MacLeod and MacNicol](/tartans/m/ma/macleod-and-macnicol/) tartan — the named design grouping this sett with its other cloths.

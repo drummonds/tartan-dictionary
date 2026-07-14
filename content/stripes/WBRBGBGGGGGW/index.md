@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w4dg1g31y1g4dg21db4dg1db36r2db9w2~x2/">St Ninian's Day</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w4dg1g31y1g4dg21db4dg1db36r2db9w2~x2/"><img src="/variants/s12/w4dg1g31y1g4dg21db4dg1db36r2db9w2~x2/sett.png" alt="St Ninian's Day sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-ninian-s-day/">St Ninian's Day</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-ninian-s-day/"><img src="/variants/s12/w4dg1g31y1g4dg21db4dg1db36r2db9w2~x2/sett.png" alt="St Ninian's Day sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

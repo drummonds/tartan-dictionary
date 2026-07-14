@@ -8,10 +8,10 @@ crumbs:
 - name: "Britten-Norman"
   url: "/tartans/b/br/britten-norman/"
 - name: "Britten-Norman"
-  url: "/setts/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/britten-norman/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWBKWKWKRKYKRKWKWK](/stripes/bwbwbwbwbwbkwkwkrkykrkwkwk/).
 
 Part of the [Britten-Norman](/tartans/b/br/britten-norman/) tartan — the named design grouping this sett with its other cloths.

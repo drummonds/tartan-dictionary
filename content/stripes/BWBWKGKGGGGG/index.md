@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/">Ross Arisaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/"><img src="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/sett.png" alt="Ross Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-arisaid/">Ross Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-arisaid/"><img src="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/sett.png" alt="Ross Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

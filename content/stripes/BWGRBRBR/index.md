@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/t9w2dg30o6dr2o2dr2o6~x2/">Ware/Warr (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/t9w2dg30o6dr2o2dr2o6~x2/"><img src="/variants/s8/t9w2dg30o6dr2o2dr2o6~x2/sett.png" alt="Ware/Warr (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/ware-warr/">Ware/Warr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/ware-warr/"><img src="/variants/s8/t9w2dg30o6dr2o2dr2o6~x2/sett.png" alt="Ware/Warr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

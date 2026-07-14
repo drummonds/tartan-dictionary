@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/">42nd Regiment (Musicians) (Mil.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><img src="/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/sett.png" alt="42nd Regiment (Musicians) (Mil.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/42nd-regiment/">42nd Regiment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/42nd-regiment/"><img src="/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/sett.png" alt="42nd Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/mulcahy/"
 - name: "Mulcahy"
   url: "/families/mulcahy/"
+aliases:
+- "/setts/db33k1db5k8g8r2g15y1w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkgrggw/">BKBKGRGGW</a></nav>
 A tartan of the [Mulcahy](/families/mulcahy/) family.
 Its design is pattern [BKBKGRGGW](/stripes/bkbkgrggw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Mulcahy** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db33k1db5k8g8r2g15y1w2/">Mulcahy</a></td><td><code>DB/66 K2 DB10 K16 G16 R4 G30 Y2 W/4</code></td><td>230</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db33k1db5k8g8r2g15y1w2/"><img src="/variants/s9/db33k1db5k8g8r2g15y1w2~x2/sett.png" alt="Mulcahy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db33k1db5k8g8r2g15y1w2~x2/">Mulcahy</a></td><td><code>DB/66 K2 DB10 K16 G16 R4 G30 Y2 W/4</code></td><td>230</td><td>2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db33k1db5k8g8r2g15y1w2~x2/"><img src="/variants/s9/db33k1db5k8g8r2g15y1w2~x2/sett.png" alt="Mulcahy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><circle cx="223.7" cy="81.2" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s10/w2ly4db1ly1db40n6g18r2g2w1~x2/"><circle cx="301.3" cy="76.5" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="250.1" cy="79.1" r="4" fill="#3465a4"><title>Huaum, Patrick Antoine )</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="221.4" cy="76.6" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="271.2" cy="82.3" r="4" fill="#3465a4"><title>Pilkington</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="202.4" cy="89.0" r="4" fill="#3465a4"><title>Sidey</title></circle></a><a href="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/"><circle cx="180.0" cy="111.3" r="4" fill="#3465a4"><title>Army Ranger</title></circle></a><a href="/variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/"><circle cx="194.7" cy="116.2" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/variants/s10/db49ly3dy13db12r4db5k7g26db4r2~x2/"><circle cx="277.9" cy="103.6" r="4" fill="#3465a4"><title>State Seal of Arkansas</title></circle></a><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="218.8" cy="87.8" r="4" fill="#3465a4"><title>1314</title></circle></a><circle cx="249.9" cy="86.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><circle cx="224.4" cy="81.0" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s10/w2ly4db1ly1db40n6g18r2g2w1~x2/"><circle cx="302.1" cy="76.4" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="250.9" cy="79.0" r="4" fill="#3465a4"><title>Huaum, Patrick Antoine )</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="222.1" cy="76.5" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="272.1" cy="82.2" r="4" fill="#3465a4"><title>Pilkington</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="203.1" cy="88.9" r="4" fill="#3465a4"><title>Sidey</title></circle></a><a href="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/"><circle cx="180.5" cy="111.1" r="4" fill="#3465a4"><title>Army Ranger</title></circle></a><a href="/variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/"><circle cx="195.3" cy="116.0" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/variants/s10/db49ly3dy13db12r4db5k7g26db4r2~x2/"><circle cx="278.6" cy="103.5" r="4" fill="#3465a4"><title>State Seal of Arkansas</title></circle></a><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="219.5" cy="87.6" r="4" fill="#3465a4"><title>1314</title></circle></a><circle cx="250.7" cy="86.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

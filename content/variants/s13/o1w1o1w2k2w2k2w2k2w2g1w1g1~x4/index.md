@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Flesk"
   url: "/tartans/g/gl/glen-flesk/"
 - name: "Glen Flesk"
-  url: "/setts/o1w1o1w2k2w2k2w2k2w2g1w1g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o1w1o1w2k2w2k2w2k2w2g1w1g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-flesk/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWKWKWKWRWR](/stripes/gwgwkwkwkwrwr/).
 
 Part of the [Glen Flesk](/tartans/g/gl/glen-flesk/) tartan — the named design grouping this sett with its other cloths.

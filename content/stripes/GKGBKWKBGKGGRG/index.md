@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/">Iowa American District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/"><img src="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/sett.png" alt="Iowa American District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/io/iowa/">Iowa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/io/iowa/"><img src="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/sett.png" alt="Iowa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

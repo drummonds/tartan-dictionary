@@ -10,10 +10,10 @@ crumbs:
 - name: "Edinburgh Napier University"
   url: "/tartans/e/ed/edinburgh-napier-university/"
 - name: "Edinburgh Napier University"
-  url: "/setts/db4w8db8w10k16g4r38lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4w8db8w10k16g4r38lo1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-napier-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKGRY](/stripes/bwbwkgry/).
 
 Part of the [Edinburgh Napier University](/tartans/e/ed/edinburgh-napier-university/) tartan — the named design grouping this sett with its other cloths.

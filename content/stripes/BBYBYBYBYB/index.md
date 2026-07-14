@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n4lr4do4lr4n4lr4do4lr4dr1n4~x4/">Brook (Estate Check)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n4lr4do4lr4n4lr4do4lr4dr1n4~x4/"><img src="/variants/s10/n4lr4do4lr4n4lr4do4lr4dr1n4~x4/sett.png" alt="Brook (Estate Check) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brook-2/">Brook</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brook-2/"><img src="/variants/s10/n4lr4do4lr4n4lr4do4lr4dr1n4~x4/sett.png" alt="Brook sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

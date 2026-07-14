@@ -8,17 +8,23 @@ crumbs:
   url: "/clan/priest/"
 - name: "Priest"
   url: "/families/priest/"
+aliases:
+- "/setts/k1lb1y7k8lb1k8lb1y2lb1k4lb1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwgkwkwgwkw/">KWGKWKWGWKW</a></nav>
 A tartan of the [Priest](/families/priest/) family.
 Its design is pattern [KWGKWKWGWKW](/stripes/kwgkwkwgwkw/) — the page of every tartan sharing this colour sequence.
 
-The **Priest** tartan is recorded as a single sett.
+The **Priest** tartan is one sett, recorded at 2 scales — the same proportion woven
+finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k1lb1y7k8lb1k8lb1y2lb1k4lb1/">Priest</a></td><td><code>K/4 LB4 Y28 K32 LB4 K32 LB4 Y8 LB4 K16 LB/4</code></td><td>136</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1lb1y7k8lb1k8lb1y2lb1k4lb1/"><img src="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/sett.png" alt="Priest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/">Priest</a></td><td><code>K/1 LB1 Y7 K8 LB1 K8 LB1 Y2 LB1 K4 LB/1</code></td><td>68</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/"><img src="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/sett.png" alt="Priest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/">Priest</a></td><td><code>K/2 LB2 Y14 K16 LB2 K16 LB2 Y4 LB2 K8 LB/2</code></td><td>136</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x4/">Priest</a></td><td><code>K/4 LB4 Y28 K32 LB4 K32 LB4 Y8 LB4 K16 LB/4</code></td><td>272</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/">Priest</a> · <a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x4/">Priest</a></td></tr>
 </tbody>
 </table>
@@ -32,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/"><circle cx="205.7" cy="138.3" r="4" fill="#3465a4"><title>Liberty Square</title></circle></a><a href="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/"><circle cx="268.5" cy="132.2" r="4" fill="#3465a4"><title>Black Forest</title></circle></a><a href="/variants/s11/g17lb2ly2lb2k21lb2k3g30k2lb2k4~x2~g1903114-ly2706114/"><circle cx="272.3" cy="117.8" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/"><circle cx="274.0" cy="156.5" r="4" fill="#3465a4"><title>Gaelic Society of Moscow</title></circle></a><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/"><circle cx="273.3" cy="164.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="312.1" cy="178.9" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/"><circle cx="298.8" cy="157.5" r="4" fill="#3465a4"><title>Coppa Romana</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="295.1" cy="174.9" r="4" fill="#3465a4"><title>West Point Military Academy</title></circle></a><a href="/variants/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/"><circle cx="292.1" cy="178.5" r="4" fill="#3465a4"><title>Pike Personal Weavers</title></circle></a><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="280.4" cy="181.5" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><circle cx="272.6" cy="162.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/"><circle cx="206.4" cy="138.2" r="4" fill="#3465a4"><title>Liberty Square</title></circle></a><a href="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/"><circle cx="269.4" cy="132.3" r="4" fill="#3465a4"><title>Black Forest</title></circle></a><a href="/variants/s11/g17lb2ly2lb2k21lb2k3g30k2lb2k4~x2~g1903114-ly2706114/"><circle cx="273.1" cy="117.8" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/"><circle cx="274.9" cy="156.6" r="4" fill="#3465a4"><title>Gaelic Society of Moscow</title></circle></a><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/"><circle cx="274.1" cy="164.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="312.9" cy="179.1" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/"><circle cx="299.8" cy="157.6" r="4" fill="#3465a4"><title>Coppa Romana</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="296.0" cy="175.0" r="4" fill="#3465a4"><title>West Point Military Academy</title></circle></a><a href="/variants/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/"><circle cx="293.0" cy="178.7" r="4" fill="#3465a4"><title>Pike Personal Weavers</title></circle></a><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="281.3" cy="181.7" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><circle cx="273.4" cy="162.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

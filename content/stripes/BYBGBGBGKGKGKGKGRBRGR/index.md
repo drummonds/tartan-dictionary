@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/db6ly1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg1806142-g2408144/">Recovery (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/db6ly1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg1806142-g2408144/"><img src="/variants/s21/db6ly1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg1806142-g2408144/sett.png" alt="Recovery (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/recovery/">Recovery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/recovery/"><img src="/variants/s21/db6ly1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg1806142-g2408144/sett.png" alt="Recovery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

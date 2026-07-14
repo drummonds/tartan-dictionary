@@ -10,17 +10,17 @@ crumbs:
 - name: "Ogilvie"
   url: "/families/ogilvie/"
 - name: "Ogilvie"
-  url: "/tartans/o/og/ogilvie-6/"
+  url: "/tartans/o/og/ogilvie-5/"
 - name: "Ogilvie (Black and White)"
-  url: "/setts/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkw/).
+provenance below. It is one weaving of the [sett](/tartans/o/og/ogilvie-5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkw/).
 
-Part of the [Ogilvie](/tartans/o/og/ogilvie-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ogilvie](/tartans/o/og/ogilvie-5/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3225](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3225)
 
@@ -32,7 +32,7 @@ Earliest known date: pre 2003 Full sett can be seen in STS files.
 <summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Ogilvie (Black and White) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3225">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Trade sett, MacGregor-Hastie collection. Scottish Tartans Society archive.</em></li>
-<li>pre 2002 — Ogilvie (B&W) (Fashion?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1250">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>No other details.</em></li>
+<li>pre 2002 — Ogilvie (B&W) (Fashion?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1250/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>No other details.</em></li>
 <li>pre 2003 — Ogilvy B/W Trade Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1250">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 <li>undated — Ogilvy, Black and White (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 </ul>
@@ -63,9 +63,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1250
 
 ## Thread count
-K/24 W4 K24 W4 K12 W4 K14 W12 K4 W12 K4 W4 K12 W4 K12 W4 K4 W24 K4 W24 K4 W24 K4 W4 K12 W4 K12 W4 K4 W12 K4 W12 K14 W4 K12 W4 K24 W/4
+K/24 W4 K24 W4 K12 W4 K14 W12 K4 W12 K4 W4 K12 W4 K12 W4 K4 W24 K4 W/24
 
-One full sett is **716 threads**.
+One full sett is **372 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/24 W4 K24 W4 K12 W4 K14 W12 K4 W12 K4 W4 K12 W4 K12 W4 K4 W24 K4 W24 K4 W24 K4 W4 K12 W4 K12 W4 K4 W12 K4 W12 K14 W4 K12 W4 K24 W/4 — 716 threads; it folds to the canonical 372-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -74,7 +76,7 @@ One full sett is **716 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/24 W4 K24 W4 K12 W4 K14 W12 K4 W12 K4 W4 K12 W4 K12 W4 K4 W24 K4 W24 K4 W24 K4 W4 K12 W4 K12 W4 K4 W12 K4 W12 K14 W4 K12 W4 K24 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/24 W4 K24 W4 K12 W4 K14 W12 K4 W12 K4 W4 K12 W4 K12 W4 K4 W24 K4 W/24 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

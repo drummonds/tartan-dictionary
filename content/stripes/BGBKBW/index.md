@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/">Diaspora</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/"><img src="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/sett.png" alt="Diaspora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/diaspora-2/">Diaspora</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/diaspora-2/"><img src="/variants/s6/db3dg1dr22k12db28w3~x2~db1405255-k0604259/sett.png" alt="Diaspora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db6g27db3k19dp27w3~x2/">Gold Brothers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><img src="/variants/s6/db6g27db3k19dp27w3~x2/sett.png" alt="Gold Brothers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/freedom/">Freedom</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/freedom/"><img src="/variants/s6/db6g27db3k19dp27w3~x2/sett.png" alt="Freedom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

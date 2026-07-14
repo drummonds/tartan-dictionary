@@ -8,10 +8,10 @@ crumbs:
 - name: "Lieuwen, Jeffrey Pascal"
   url: "/tartans/l/li/lieuwen-jeffrey-pascal/"
 - name: "Lieuwen, Jeffrey Pascal (Personal)"
-  url: "/setts/dp10db1dp2db1lb1db1lb2o2lb1k1y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp10db1dp2db1lb1db1lb2o2lb1k1y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/lieuwen-jeffrey-pascal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWBWRWKG](/stripes/bbbbwbwrwkg/).
 
 Part of the [Lieuwen, Jeffrey Pascal](/tartans/l/li/lieuwen-jeffrey-pascal/) tartan — the named design grouping this sett with its other cloths.

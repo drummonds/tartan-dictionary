@@ -8,10 +8,10 @@ crumbs:
 - name: "Fontainbleu"
   url: "/tartans/f/fo/fontainbleu/"
 - name: "Fontainbleu"
-  url: "/setts/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/fontainbleu/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBYRBRYRBRBBBRBYRBRYRBRBR](/stripes/brbyrbryrbrbbbrbyrbryrbrbr/).
 
 Part of the [Fontainbleu](/tartans/f/fo/fontainbleu/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1213](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1983 — Fontainbleu (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1213">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#70000C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #70000C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#606060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #606060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Asymmetric fashion tartan from West Coast Woolen Mills of Vancouver. Woven sample.</em></li>
-<li>pre 1983 — Fontainbleu (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4874">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#70000C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #70000C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#606060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #606060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Asymmetric fashion tartan from West Coast Woolen Mills of Vancouver. Woven sample.</em></li>
+<li>pre 1983 — Fontainbleu (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4874/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#70000C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #70000C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#606060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #606060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Asymmetric fashion tartan from West Coast Woolen Mills of Vancouver. Woven sample.</em></li>
 </ul>
 </details>
 

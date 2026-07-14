@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/">MacLoughlin of Ardmarnoch (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><img src="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/sett.png" alt="MacLoughlin of Ardmarnoch (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macloughlin-ardmarnoch/">MacLoughlin Ardmarnoch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macloughlin-ardmarnoch/"><img src="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/sett.png" alt="MacLoughlin Ardmarnoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/">Kinloch Anderson Check Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/"><img src="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/sett.png" alt="Kinloch Anderson Check Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinloch-anderson-check-2/">Kinloch Anderson Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinloch-anderson-check-2/"><img src="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/sett.png" alt="Kinloch Anderson Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

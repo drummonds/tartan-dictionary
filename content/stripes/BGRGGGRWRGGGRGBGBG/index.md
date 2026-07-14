@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/">Beguinot, (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/"><img src="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/sett.png" alt="Beguinot, (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/">Béguinot, Stéphane (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><img src="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/sett.png" alt="Béguinot, Stéphane (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/beguinot/">Beguinot</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/beguinot/"><img src="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/sett.png" alt="Beguinot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/b/b-guinot-st-phane/">Béguinot, Stéphane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/b/b-guinot-st-phane/"><img src="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/sett.png" alt="Béguinot, Stéphane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

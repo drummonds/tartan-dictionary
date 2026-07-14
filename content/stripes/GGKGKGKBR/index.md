@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/">Sarafilovic (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><img src="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/sett.png" alt="Sarafilovic (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sarafilovic/">Sarafilovic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sarafilovic/"><img src="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/sett.png" alt="Sarafilovic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

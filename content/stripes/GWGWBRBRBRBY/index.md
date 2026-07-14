@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/lo4db2r7db15r3db3r3db7w28dy7w6dy2/">Walker, Dress (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/lo4db2r7db15r3db3r3db7w28dy7w6dy2/"><img src="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r2109032/sett.png" alt="Walker, Dress (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/walker-dress-2/">Walker, Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/walker-dress-2/"><img src="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r2109032/sett.png" alt="Walker, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

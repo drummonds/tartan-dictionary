@@ -12,10 +12,10 @@ crumbs:
 - name: "Melville"
   url: "/tartans/m/me/melville-2/"
 - name: "Melville"
-  url: "/setts/k4w2g18k13db12k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4w2g18k13db12k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/melville-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGWK](/stripes/kbkgwk/).
 
 Part of the [Melville](/tartans/m/me/melville-2/) tartan — the named design grouping this sett with its other cloths.

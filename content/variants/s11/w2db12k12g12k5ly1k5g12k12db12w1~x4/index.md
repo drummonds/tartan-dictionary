@@ -12,10 +12,10 @@ crumbs:
 - name: "MacNeil"
   url: "/tartans/m/ma/macneil/"
 - name: "MacNeil"
-  url: "/setts/w2db12k12g12k5ly1k5g12k12db12w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2db12k12g12k5ly1k5g12k12db12w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macneil/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKGKYKGKBW](/stripes/wbkgkykgkbw/).
 
 Part of the [MacNeil](/tartans/m/ma/macneil/) tartan — the named design grouping this sett with its other cloths.

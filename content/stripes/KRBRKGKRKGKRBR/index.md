@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r16db8r2k3y1k3r2k3y1k3r2db8r16k1~x4/">Leslie Red (VS)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r16db8r2k3y1k3r2k3y1k3r2db8r16k1~x4/"><img src="/variants/s14/r16db8r2k3y1k3r2k3y1k3r2db8r16k1~x4/sett.png" alt="Leslie Red (VS) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leslie-3/">Leslie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leslie-3/"><img src="/variants/s14/r16db8r2k3y1k3r2k3y1k3r2db8r16k1~x4/sett.png" alt="Leslie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

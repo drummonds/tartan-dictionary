@@ -8,10 +8,10 @@ crumbs:
 - name: "Hegarty, Philip David"
   url: "/tartans/h/he/hegarty-philip-david/"
 - name: "Hegarty, Philip David (Personal)"
-  url: "/setts/g3k24y1r18db18w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3k24y1r18db18w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hegarty-philip-david/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRBW](/stripes/gkgrbw/).
 
 Part of the [Hegarty, Philip David](/tartans/h/he/hegarty-philip-david/) tartan — the named design grouping this sett with its other cloths.

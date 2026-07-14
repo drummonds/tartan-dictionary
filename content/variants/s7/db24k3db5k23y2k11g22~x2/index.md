@@ -12,10 +12,10 @@ crumbs:
 - name: "Mowat"
   url: "/tartans/m/mo/mowat-2/"
 - name: "Mowat (Clans Originaux)"
-  url: "/setts/db24k3db5k23y2k11g22/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db24k3db5k23y2k11g22/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/mowat-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKG](/stripes/bkbkgkg/).
 
 Part of the [Mowat](/tartans/m/mo/mowat-2/) tartan — the named design grouping this sett with its other cloths.

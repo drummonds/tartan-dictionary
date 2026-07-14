@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db2y1r4db4w2~x10/">Doohan (New South Wales), Andrew</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db2y1r4db4w2~x10/"><img src="/variants/s5/db2y1r4db4w2~x10/sett.png" alt="Doohan (New South Wales), Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/doohan-andrew/">Doohan , Andrew</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/doohan-andrew/"><img src="/variants/s5/db2y1r4db4w2~x10/sett.png" alt="Doohan , Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

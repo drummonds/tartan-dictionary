@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Ness"
   url: "/tartans/l/lo/loch-ness/"
 - name: "Loch Ness Trade Tartan"
-  url: "/setts/r10w2k10w10dy35k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r10w2k10w10dy35k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-ness/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWKWR](/stripes/kgwkwr/).
 
 Part of the [Loch Ness](/tartans/l/lo/loch-ness/) tartan — the named design grouping this sett with its other cloths.

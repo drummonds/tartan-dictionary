@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/t11k4g4o1g4k1r1~x4/">Ednie (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><img src="/variants/s7/t11k4g4o1g4k1r1~x4/sett.png" alt="Ednie (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/ednie/">Ednie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/ednie/"><img src="/variants/s7/t11k4g4o1g4k1r1~x4/sett.png" alt="Ednie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

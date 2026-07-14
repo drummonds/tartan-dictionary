@@ -8,10 +8,10 @@ crumbs:
 - name: "International Bear Pride"
   url: "/tartans/i/in/international-bear-pride/"
 - name: "International Bear Pride"
-  url: "/setts/k35do11n3w1ly3y1dy5k5n2w2do22/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k35do11n3w1ly3y1dy5k5n2w2do22/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/international-bear-pride/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGGYWBBK](/stripes/bwbkggywbbk/).
 
 Part of the [International Bear Pride](/tartans/i/in/international-bear-pride/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/k23g8ly8~x4/">Zwijnenberg, Frans (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k23g8ly8~x4/"><img src="/variants/s3/k23g8ly8~x4/sett.png" alt="Zwijnenberg, Frans (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/z/zw/zwijnenberg-frans/">Zwijnenberg, Frans</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/z/zw/zwijnenberg-frans/"><img src="/variants/s3/k23g8ly8~x4/sett.png" alt="Zwijnenberg, Frans sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

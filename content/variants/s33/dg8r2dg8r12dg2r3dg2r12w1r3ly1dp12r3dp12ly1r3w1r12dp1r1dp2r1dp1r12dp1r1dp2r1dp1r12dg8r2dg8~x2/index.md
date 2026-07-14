@@ -12,15 +12,15 @@ crumbs:
 - name: "Huntly"
   url: "/tartans/h/hu/huntly/"
 - name: "Huntly"
-  url: "/setts/dg8r2dg8r12dg2r3dg2r12w1r3ly1dp12r3dp12ly1r3w1r12dp1r1dp2r1dp1r12dp1r1dp2r1dp1r12dg8r2dg8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg8r2dg8r12dg2r3dg2r12w1r3ly1dp12r3dp12ly1r3w1r12dp1r1dp2r1dp1r12dp1r1dp2r1dp1r12dg8r2dg8/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRGRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGR](/stripes/grgrgrgrwrybrbyrwrbrbrbrbrbrbrgrgrgrbrbrbrbrbrbrwrybrbyrwrgrgrgr/).
+provenance below. It is one weaving of the [sett](/tartans/h/hu/huntly/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrybrbyrwrgrgrgrg/).
 
 Part of the [Huntly](/tartans/h/hu/huntly/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [64 stripe tartan](/stripes/stripes64/).
+Sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1795](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1795)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 853
 
 ## Thread count
-DG/16 R4 DG16 R24 DG4 R6 DG4 R24 W2 R6 LY2 DP24 R6 DP24 LY2 R6 W2 R24 DP2 R2 DP4 R2 DP2 R24 DP2 R2 DP4 R2 DP2 R24 DG16 R4 DG16 R4 DG16 R24 DP2 R2 DP4 R2 DP2 R24 DP2 R2 DP4 R2 DP2 R24 W2 R6 LY2 DP24 R6 DP24 LY2 R6 W2 R24 DG4 R6 DG4 R24 DG16 R/4
+DG/16 R4 DG16 R24 DG4 R6 DG4 R24 W2 R6 LY2 DP24 R6 DP24 LY2 R6 W2 R24 DP2 R2 DP4 R2 DP2 R24 DP2 R2 DP4 R2 DP2 R24 DG16 R4 DG/16
 
-One full sett is **1132 threads**.
+One full sett is **576 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/16 R4 DG16 R24 DG4 R6 DG4 R24 W2 R6 LY2 DP24 R6 DP24 LY2 R6 W2 R24 DP2 R2 DP4 R2 DP2 R24 DP2 R2 DP4 R2 DP2 R24 DG16 R4 DG16 R4 DG16 R24 DP2 R2 DP4 R2 DP2 R24 DP2 R2 DP4 R2 DP2 R24 W2 R6 LY2 DP24 R6 DP24 LY2 R6 W2 R24 DG4 R6 DG4 R24 DG16 R/4 — 1132 threads; it folds to the canonical 576-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **1132 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/16 R4 DG16 R24 DG4 R6 DG4 R24 W2 R6 LY2 DP24 R6 DP24 LY2 R6 W2 R24 DP2 R2 DP4 R2 DP2 R24 DP2 R2 DP4 R2 DP2 R24 DG16 R4 DG16 R4 DG16 R24 DP2 R2 DP4 R2 DP2 R24 DP2 R2 DP4 R2 DP2 R24 W2 R6 LY2 DP24 R6 DP24 LY2 R6 W2 R24 DG4 R6 DG4 R24 DG16 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/16 R4 DG16 R24 DG4 R6 DG4 R24 W2 R6 LY2 DP24 R6 DP24 LY2 R6 W2 R24 DP2 R2 DP4 R2 DP2 R24 DP2 R2 DP4 R2 DP2 R24 DG16 R4 DG/16 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

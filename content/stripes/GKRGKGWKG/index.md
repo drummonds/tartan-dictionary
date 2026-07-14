@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/">Graham, Red Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/"><img src="/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/sett.png" alt="Graham, Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/graham-red-dress/">Graham, Red Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-red-dress/"><img src="/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/sett.png" alt="Graham, Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

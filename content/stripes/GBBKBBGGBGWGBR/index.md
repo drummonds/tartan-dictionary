@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g12t5dr2k1dr2t5g12y3dr12g2w1g2dr12r3~x4/">Hyndman (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g12t5dr2k1dr2t5g12y3dr12g2w1g2dr12r3~x4/"><img src="/variants/s14/g12t5dr2k1dr2t5g12y3dr12g2w1g2dr12r3~x4/sett.png" alt="Hyndman (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hy/hyndman-2/">Hyndman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hy/hyndman-2/"><img src="/variants/s14/g12t5dr2k1dr2t5g12y3dr12g2w1g2dr12r3~x4/sett.png" alt="Hyndman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

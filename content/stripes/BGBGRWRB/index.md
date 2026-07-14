@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/">Duke of York (Royal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><img src="/variants/s8/db61r6w2r8y2db3y2db15~x2/sett.png" alt="Duke of York (Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db122r11w4r15y4db6y4db30/">Inverness, Duke of York</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><img src="/variants/s8/db122r11w4r15y4db6y4db30/sett.png" alt="Inverness, Duke of York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duke-of-york/">Duke of York</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duke-of-york/"><img src="/variants/s8/db61r6w2r8y2db3y2db15~x2/sett.png" alt="Duke of York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inverness-duke-of-york/">Inverness, Duke of York</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inverness-duke-of-york/"><img src="/variants/s8/db122r11w4r15y4db6y4db30/sett.png" alt="Inverness, Duke of York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

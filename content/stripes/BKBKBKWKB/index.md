@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/">Llewellen of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/"><img src="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/sett.png" alt="Llewellen of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ll/llewellen-of-wales/">Llewellen of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ll/llewellen-of-wales/"><img src="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/sett.png" alt="Llewellen of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

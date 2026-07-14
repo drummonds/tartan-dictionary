@@ -12,10 +12,10 @@ crumbs:
 - name: "Tweedside Hunting"
   url: "/tartans/t/tw/tweedside-hunting/"
 - name: "Tweedside Hunting"
-  url: "/setts/db18g2k2g5w2g2w2g2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18g2k2g5w2g2w2g2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tw/tweedside-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGWGWGK](/stripes/bgkgwgwgk/).
 
 Part of the [Tweedside Hunting](/tartans/t/tw/tweedside-hunting/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4168](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1968 — Tweedside Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4168">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FCFCFC"></span><br><em>The popular Tweedside Hunting tartan is a variation on a design from the weavers William Wilson & Sons of Bannockburn. The setting does not appear in any of the 19th century collections which suggests it is a 20th century creation. Woven by DC Dalgliesh in 1968.</em></li>
-<li>1968 — Tweedside Htg (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=163">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>A colour change on the 1840 red sett produced by D C Dalgliesh in 1968 (NOMINDEX notes). Sample in STA Johnston Collection. D.C.Dalgliesh weave. Green lightened to show sett. Samples in STA Dalgety Collection.</em></li>
+<li>1968 — Tweedside Htg (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/163/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>A colour change on the 1840 red sett produced by D C Dalgliesh in 1968 (NOMINDEX notes). Sample in STA Johnston Collection. D.C.Dalgliesh weave. Green lightened to show sett. Samples in STA Dalgety Collection.</em></li>
 </ul>
 </details>
 

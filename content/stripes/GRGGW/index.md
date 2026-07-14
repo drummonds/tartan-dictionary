@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/y9r31g12dy2lb9~x2/">Buncle (Duns)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/y9r31g12dy2lb9~x2/"><img src="/variants/s5/y9r31g12dy2lb9~x2/sett.png" alt="Buncle (Duns) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buncle/">Buncle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buncle/"><img src="/variants/s5/y9r31g12dy2lb9~x2/sett.png" alt="Buncle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

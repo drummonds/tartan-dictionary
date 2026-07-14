@@ -8,15 +8,15 @@ crumbs:
 - name: "Wilson's No.226"
   url: "/tartans/w/wi/wilson-s-no-226/"
 - name: "Wilson's No.226"
-  url: "/setts/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWKGYKBRBRGRKGKRGRBRBKYGKW](/stripes/rwkgykbrbrgrkgkrgrbrbkygkw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-226/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKRGRBRBKYGKWR](/stripes/gkrgrbrbkygkwr/).
 
 Part of the [Wilson's No.226](/tartans/w/wi/wilson-s-no-226/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4753](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4753)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 817
 
 ## Thread count
-R/50 W8 K8 G50 LO6 K30 T26 R10 T10 R30 G8 R10 K4 G6 K4 R10 G8 R30 T10 R10 T26 K30 LO6 G50 K8 W/8
+R/50 W8 K8 G50 LO6 K30 T26 R10 T10 R30 G8 R10 K4 G/6
 
-One full sett is **854 threads**.
+One full sett is **456 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/50 W8 K8 G50 LO6 K30 T26 R10 T10 R30 G8 R10 K4 G6 K4 R10 G8 R30 T10 R10 T26 K30 LO6 G50 K8 W/8 — 854 threads; it folds to the canonical 456-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **854 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/50 W8 K8 G50 LO6 K30 T26 R10 T10 R30 G8 R10 K4 G6 K4 R10 G8 R30 T10 R10 T26 K30 LO6 G50 K8 W/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/50 W8 K8 G50 LO6 K30 T26 R10 T10 R30 G8 R10 K4 G/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

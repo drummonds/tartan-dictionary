@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/t8k25g13m5ly5dr5m8~x2/">Bro-Menez Are (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t8k25g13m5ly5dr5m8~x2/"><img src="/variants/s7/t8k25g13m5ly5dr5m8~x2/sett.png" alt="Bro-Menez Are (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bro-menez-are/">Bro-Menez Are</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bro-menez-are/"><img src="/variants/s7/t8k25g13m5ly5dr5m8~x2/sett.png" alt="Bro-Menez Are sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

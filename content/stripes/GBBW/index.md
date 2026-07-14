@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/w4n28t48y3~x2~t2503227/">MacKerrell of Hillhouse Dress Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w4n28t48y3~x2~t2503227/"><img src="/variants/s4/w4n28t48y3~x2~t2503227/sett.png" alt="MacKerrell of Hillhouse Dress Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackerrell-of-hillhouse-dress/">MacKerrell of Hillhouse Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackerrell-of-hillhouse-dress/"><img src="/variants/s4/w4n28t48y3~x2~t2503227/sett.png" alt="MacKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/lb20dp3db7dy1~x4/">Peacock (Samantha)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb20dp3db7dy1~x4/"><img src="/variants/s4/lb20dp3db7dy1~x4/sett.png" alt="Peacock (Samantha) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/peacock-2/">Peacock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peacock-2/"><img src="/variants/s4/lb20dp3db7dy1~x4/sett.png" alt="Peacock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/g3db3dp4w1~x4/">Pride of the Glen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g3db3dp4w1~x4/"><img src="/variants/s4/g3db3dp4w1~x4/sett.png" alt="Pride of the Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-the-glen/">Pride of the Glen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-the-glen/"><img src="/variants/s4/g3db3dp4w1~x4/sett.png" alt="Pride of the Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

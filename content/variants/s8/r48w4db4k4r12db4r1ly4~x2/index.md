@@ -12,15 +12,15 @@ crumbs:
 - name: "Brodie of that Ilk and The Burn"
   url: "/tartans/b/br/brodie-of-that-ilk-and-the-burn/"
 - name: "Brodie of that Ilk and The Burn"
-  url: "/setts/r48w4db4k4r12db4r1ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r48w4db4k4r12db4r1ly4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWBKRBRYRBRKBW](/stripes/rwbkrbryrbrkbw/).
+provenance below. It is one weaving of the [sett](/tartans/b/br/brodie-of-that-ilk-and-the-burn/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWBKRBRY](/stripes/rwbkrbry/).
 
 Part of the [Brodie of that Ilk and The Burn](/tartans/b/br/brodie-of-that-ilk-and-the-burn/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from peter-1856.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from peter-1856.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [/posts/baronage-angus-mearns/](/posts/baronage-angus-mearns/)
 
@@ -59,9 +59,11 @@ See [The Baronage of Angus and Mearns](/posts/baronage-angus-mearns/) for the bo
 </details>
 
 ## Thread count
-R/96 W8 DB8 K8 R24 DB8 R2 LY8 R2 DB8 R24 K8 DB8 W/8
+R/96 W8 DB8 K8 R24 DB8 R2 LY/8
 
-One full sett is **336 threads**.
+One full sett is **220 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/96 W8 DB8 K8 R24 DB8 R2 LY8 R2 DB8 R24 K8 DB8 W/8 — 336 threads; it folds to the canonical 220-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -70,7 +72,7 @@ One full sett is **336 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/96 W8 DB8 K8 R24 DB8 R2 LY8 R2 DB8 R24 K8 DB8 W/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/96 W8 DB8 K8 R24 DB8 R2 LY/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

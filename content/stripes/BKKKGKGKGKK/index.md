@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/">Phillips (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/"><img src="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/sett.png" alt="Phillips (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/ph/phillips-4/">Phillips</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/ph/phillips-4/"><img src="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/sett.png" alt="Phillips sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

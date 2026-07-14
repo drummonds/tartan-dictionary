@@ -10,10 +10,10 @@ crumbs:
 - name: "Robertson Curtain"
   url: "/tartans/r/ro/robertson-curtain/"
 - name: "Robertson Curtain"
-  url: "/setts/r3g2r19db2r3db20r3g20r3db2r19g2r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3g2r19db2r3db20r3g20r3db2r19g2r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robertson-curtain/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRBRGRBRGR](/stripes/rgrbrbrgrbrgr/).
 
 Part of the [Robertson Curtain](/tartans/r/ro/robertson-curtain/) tartan — the named design grouping this sett with its other cloths.

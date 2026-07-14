@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2~x2~ki0700000-k0504259/">Metropolitan Atlanta Police</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2~x2~ki0700000-k0504259/"><img src="/variants/s13/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2~x2~ki0700000-k0504259/sett.png" alt="Metropolitan Atlanta Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/metropolitan-atlanta-police-2/">Metropolitan Atlanta Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/metropolitan-atlanta-police-2/"><img src="/variants/s13/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2~x2~ki0700000-k0504259/sett.png" alt="Metropolitan Atlanta Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

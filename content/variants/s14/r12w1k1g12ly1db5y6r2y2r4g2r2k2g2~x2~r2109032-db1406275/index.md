@@ -8,15 +8,15 @@ crumbs:
 - name: "Norwich No.058"
   url: "/tartans/n/no/norwich-no-058/"
 - name: "Norwich No.058"
-  url: "/setts/r12w1k1g12ly1db5y6r2y2r4g2r2k2g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12w1k1g12ly1db5y6r2y2r4g2r2k2g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWKGYBGRGRGRKGKRGRGRGBYGKW](/stripes/rwkgybgrgrgrkgkrgrgrgbygkw/).
+provenance below. It is one weaving of the [sett](/tartans/n/no/norwich-no-058/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKRGRGRGBYGKWR](/stripes/gkrgrgrgbygkwr/).
 
 Part of the [Norwich No.058](/tartans/n/no/norwich-no-058/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3189](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3189)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5557
 
 ## Thread count
-R/24 W2 K2 G24 LY2 DB10 Y12 R4 Y4 R8 G4 R4 K4 G4 K4 R4 G4 R8 Y4 R4 Y12 DB10 LY2 G24 K2 W/2
+R/24 W2 K2 G24 LY2 DB10 Y12 R4 Y4 R8 G4 R4 K4 G/4
 
-One full sett is **350 threads**.
+One full sett is **188 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/24 W2 K2 G24 LY2 DB10 Y12 R4 Y4 R8 G4 R4 K4 G4 K4 R4 G4 R8 Y4 R4 Y12 DB10 LY2 G24 K2 W/2 — 350 threads; it folds to the canonical 188-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **350 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/24 W2 K2 G24 LY2 DB10 Y12 R4 Y4 R8 G4 R4 K4 G4 K4 R4 G4 R8 Y4 R4 Y12 DB10 LY2 G24 K2 W/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/24 W2 K2 G24 LY2 DB10 Y12 R4 Y4 R8 G4 R4 K4 G/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

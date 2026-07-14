@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/">London Caledonian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/"><img src="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/sett.png" alt="London Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/london-caledonian/">London Caledonian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/london-caledonian/"><img src="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/sett.png" alt="London Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/">London Caledonian Games Association</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><img src="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/sett.png" alt="London Caledonian Games Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/london-caledonian-games-association/">London Caledonian Games Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/london-caledonian-games-association/"><img src="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/sett.png" alt="London Caledonian Games Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

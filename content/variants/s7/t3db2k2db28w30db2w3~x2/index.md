@@ -12,10 +12,10 @@ crumbs:
 - name: "Cunningham Dress"
   url: "/tartans/c/cu/cunningham-dress-3/"
 - name: "Cunningham, Dress Blue (Dance)"
-  url: "/setts/t3db2k2db28w30db2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t3db2k2db28w30db2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cunningham-dress-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBWBW](/stripes/bbkbwbw/).
 
 Part of the [Cunningham Dress](/tartans/c/cu/cunningham-dress-3/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=851](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Cunningham, Dress Blue (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=851">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2474E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #2474E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Like so many of the invented 'Dance' tartans this one is not known by the relevant Clan Cunningham Association (USA).</em></li>
-<li>pre 2002 — Cunningham Dress, Blue (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4642">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2474E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #2474E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Like so many of the invented 'Dance' tartans this one is not known by the relevant Clan Cunningham Association (USA). D C Dalgliesh has done a version of this with purple replacing the darker of the two blues.</em></li>
+<li>pre 2002 — Cunningham Dress, Blue (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4642/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2474E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #2474E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Like so many of the invented 'Dance' tartans this one is not known by the relevant Clan Cunningham Association (USA). D C Dalgliesh has done a version of this with purple replacing the darker of the two blues.</em></li>
 </ul>
 </details>
 

@@ -8,7 +8,13 @@ crumbs:
   url: "/clan/gunn/"
 - name: "Gunn"
   url: "/families/gunn/"
+aliases:
+- "/setts/dg2db12dg1k12dg12r2/"
+- "/setts/r2g12k12g1db12g1/"
+- "/setts/r2g12k12g1db12g2/"
+- "/setts/r4g12k12g2db12g3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgkgr/">GBGKGR</a></nav>
 A tartan of the [Gunn](/families/gunn/) family.
 Its design is pattern [GBGKGR](/stripes/gbgkgr/) — the page of every tartan sharing this colour sequence.
 
@@ -20,15 +26,17 @@ The **Gunn** tartan groups 4 setts — the same named design recorded as differe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg2db12dg1k12dg12r2/">Gunn</a> ★</td><td><code>R/4 DG24 K24 DG2 DB24 DG/4</code></td><td>156</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg2db12dg1k12dg12r2/"><img src="/variants/s6/dg2db12dg1k12dg12r2~x2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r2g12k12g1db12g1/">Gunn</a></td><td><code>R/4 G24 K24 G2 DB24 G/2</code></td><td>154</td><td>~1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2g12k12g1db12g1/"><img src="r2g12k12g1db12g1-rev.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r2g12k12g1db12g2/">Gunn</a></td><td><code>R/2 G12 K12 G1 DB12 G/2</code></td><td>78</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2g12k12g1db12g2/"><img src="r2g12k12g1db12g2-rev.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg2db12dg1k12dg12r2~x2/">Gunn</a> ★</td><td><code>DG/4 DB24 DG2 K24 DG24 R/4</code></td><td>156</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg2db12dg1k12dg12r2~x2/"><img src="/variants/s6/dg2db12dg1k12dg12r2~x2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r2g12k12g1db12g1~x2/">Gunn</a></td><td><code>R/4 G24 K24 G2 DB24 G/2</code></td><td>154</td><td>~1810</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r2g12k12g1db12g1~x2/"><img src="r2g12k12g1db12g1-rev.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r2g12k12g1db12g2/">Gunn</a></td><td><code>R/2 G12 K12 G1 DB12 G/2</code></td><td>78</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r2g12k12g1db12g2/"><img src="r2g12k12g1db12g2-rev.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/r2g12k12g1db12g2/">Gunn</a></td><td><code>R/2 G12 K12 G1 DB12 G/2</code></td><td>78</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/r2g12k12g1db12g2~x2/">Gunn</a></td><td><code>R/4 G24 K24 G2 DB24 G/4</code></td><td>156</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/r2g12k12g1db12g2/">Gunn</a> · <a href="/variants/s6/r2g12k12g1db12g2~x2/">Gunn</a></td></tr>
-<tr><td><a href="/setts/r4g12k12g2db12g3/">1810 (Clan)</a></td><td><code>R/8 G24 K24 G4 DB24 G/6</code></td><td>166</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4g12k12g2db12g3/"><img src="r4g12k12g2db12g3-rev.png" alt="1810 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r4g12k12g2db12g3~x2/">1810 (Clan)</a></td><td><code>R/8 G24 K24 G4 DB24 G/6</code></td><td>166</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r4g12k12g2db12g3~x2/"><img src="r4g12k12g2db12g3-rev.png" alt="1810 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -41,6 +49,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="149.6" cy="176.2" r="4" fill="#3465a4"><title>Curry</title></circle></a><a href="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/"><circle cx="199.8" cy="168.1" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/"><circle cx="207.3" cy="182.2" r="4" fill="#3465a4"><title>Bentley</title></circle></a><a href="/variants/s6/k2g12k12r1db12g2~x2/"><circle cx="164.3" cy="193.7" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="208.4" cy="185.7" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s6/dg6lo3dg26k10n30lb3~x2/"><circle cx="212.2" cy="197.8" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s7/dr4dg16k16db4dg3db12lo2~x2/"><circle cx="163.5" cy="217.5" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="261.3" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.3" cy="216.0" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="213.4" cy="215.9" r="4" fill="#3465a4"><title>Bareback</title></circle></a><circle cx="226.4" cy="215.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="149.9" cy="176.0" r="4" fill="#3465a4"><title>Curry</title></circle></a><a href="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/"><circle cx="200.3" cy="168.0" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/"><circle cx="207.7" cy="182.1" r="4" fill="#3465a4"><title>Bentley</title></circle></a><a href="/variants/s6/k2g12k12r1db12g2~x2/"><circle cx="164.7" cy="193.6" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="208.8" cy="185.6" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s6/dg6lo3dg26k10n30lb3~x2/"><circle cx="212.6" cy="197.7" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s7/dr4dg16k16db4dg3db12lo2~x2/"><circle cx="163.7" cy="217.3" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="261.9" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.6" cy="215.9" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="213.8" cy="215.8" r="4" fill="#3465a4"><title>Bareback</title></circle></a><circle cx="226.8" cy="215.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

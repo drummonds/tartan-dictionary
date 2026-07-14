@@ -11,11 +11,11 @@ crumbs:
   url: "/families/gandy-of-myrton/"
 - name: "Gandy of Myrton"
   url: "/tartans/g/ga/gandy-of-myrton/"
-- name: "Gandy of Myrton (Name)"
-  url: "/setts/r14w5db20k10lb10db10/"
+- name: "Gandy of Myrton Clan/Family Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r14w5db20k10lb10db10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ga/gandy-of-myrton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBWR](/stripes/bwkbwr/).
 
 Part of the [Gandy of Myrton](/tartans/g/ga/gandy-of-myrton/) tartan — the named design grouping this sett with its other cloths.

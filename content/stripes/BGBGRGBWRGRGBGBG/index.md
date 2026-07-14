@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/">Wallenberg, Nicolas (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/"><img src="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/sett.png" alt="Wallenberg, Nicolas (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wallenberg-nicolas/">Wallenberg, Nicolas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wallenberg-nicolas/"><img src="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/sett.png" alt="Wallenberg, Nicolas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

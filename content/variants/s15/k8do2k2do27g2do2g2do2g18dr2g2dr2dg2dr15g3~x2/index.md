@@ -12,15 +12,15 @@ crumbs:
 - name: "Strathmore"
   url: "/tartans/s/st/strathmore-2/"
 - name: "Strathmore District Tartan"
-  url: "/setts/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathmore-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGBGBGBKBKK](/stripes/gbgbgbgbgbgbkbkk/).
 
 Part of the [Strathmore](/tartans/s/st/strathmore-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10118](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10118)
 
@@ -45,9 +45,11 @@ Earliest known date: 20/11/2009 The name 'Strathmore' means the big valley and i
 </details>
 
 ## Thread count
-G/6 DR30 DG4 DR4 G4 DR4 G36 DO4 G4 DO4 G4 DO54 K4 DO4 K12 K/4
+K/16 DO4 K4 DO54 G4 DO4 G4 DO4 G36 DR4 G4 DR4 DG4 DR30 G/6
 
-One full sett is **354 threads**.
+One full sett is **342 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/6 DR30 DG4 DR4 G4 DR4 G36 DO4 G4 DO4 G4 DO54 K4 DO4 K12 K/4 — 354 threads; it folds to the canonical 342-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **354 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/6 DR30 DG4 DR4 G4 DR4 G36 DO4 G4 DO4 G4 DO54 K4 DO4 K12 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/16 DO4 K4 DO54 G4 DO4 G4 DO4 G36 DR4 G4 DR4 DG4 DR30 G/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

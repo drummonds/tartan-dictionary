@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k3g3lb2g11k12db18k2lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgwgkbkw/">KGWGKBKW</a></nav>
 Its design is pattern [KGWGKBKW](/stripes/kgwgkbkw/) — the page of every tartan sharing this colour sequence.
 
 The **Louisiana** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Louisiana** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3g3lb2g11k12db18k2lb3/">Louisiana</a></td><td><code>K/6 G6 LB4 G22 K24 DB36 K4 LB/6</code></td><td>204</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3g3lb2g11k12db18k2lb3/"><img src="/variants/s8/k3g3lb2g11k12db18k2lb3~x2/sett.png" alt="Louisiana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3g3lb2g11k12db18k2lb3~x2/">Louisiana</a></td><td><code>K/6 G6 LB4 G22 K24 DB36 K4 LB/6</code></td><td>204</td><td>2001</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3g3lb2g11k12db18k2lb3~x2/"><img src="/variants/s8/k3g3lb2g11k12db18k2lb3~x2/sett.png" alt="Louisiana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4db16k12g12r1g2k2~x2/"><circle cx="181.7" cy="168.3" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="133.6" cy="179.2" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb3203246-db1004274/"><circle cx="85.5" cy="173.4" r="4" fill="#3465a4"><title>Kagame</title></circle></a><a href="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/"><circle cx="138.3" cy="197.9" r="4" fill="#3465a4"><title>Alexander Hunting</title></circle></a><a href="/variants/s9/k2db3k2db18k11db2k11g25dp2~x2/"><circle cx="173.8" cy="164.8" r="4" fill="#3465a4"><title>Aitchison</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="163.5" cy="210.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/"><circle cx="156.6" cy="208.7" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/variants/s8/dg3g1dg1g8k8db8k2db3~x2/"><circle cx="137.0" cy="213.3" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s6/w4db4g22k20db20w3/"><circle cx="117.7" cy="216.5" r="4" fill="#3465a4"><title>Unidentified No 26</title></circle></a><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="151.4" cy="192.5" r="4" fill="#3465a4"><title>Granger/Grainger</title></circle></a><circle cx="139.0" cy="187.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k4db16k12g12r1g2k2~x2/"><circle cx="182.2" cy="168.2" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="133.9" cy="179.0" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb3203246-db1004274/"><circle cx="85.7" cy="173.1" r="4" fill="#3465a4"><title>Kagame</title></circle></a><a href="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/"><circle cx="138.7" cy="197.7" r="4" fill="#3465a4"><title>Alexander Hunting</title></circle></a><a href="/variants/s9/k2db3k2db18k11db2k11g25dp2~x2/"><circle cx="174.2" cy="164.7" r="4" fill="#3465a4"><title>Aitchison</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="163.9" cy="209.9" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/"><circle cx="156.9" cy="208.6" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/variants/s8/dg3g1dg1g8k8db8k2db3~x2/"><circle cx="137.2" cy="213.2" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s6/w4db4g22k20db20w3/"><circle cx="117.9" cy="216.3" r="4" fill="#3465a4"><title>Unidentified No 26</title></circle></a><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="151.8" cy="192.3" r="4" fill="#3465a4"><title>Granger/Grainger</title></circle></a><circle cx="139.3" cy="187.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

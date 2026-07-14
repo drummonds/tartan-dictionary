@@ -8,10 +8,10 @@ crumbs:
 - name: "Aviemore Highland"
   url: "/tartans/a/av/aviemore-highland/"
 - name: "Aviemore Highland"
-  url: "/setts/dg40k3w1k5r1k2ri10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg40k3w1k5r1k2ri10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/av/aviemore-highland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKRKR](/stripes/gkwkrkr/).
 
 Part of the [Aviemore Highland](/tartans/a/av/aviemore-highland/) tartan — the named design grouping this sett with its other cloths.

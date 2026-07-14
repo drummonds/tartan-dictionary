@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Nevis"
   url: "/tartans/g/gl/glen-nevis-2/"
 - name: "Glen Nevis"
-  url: "/setts/o22w2o2w2o4k5o5k5n5dr2n13w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o22w2o2w2o4k5o5k5n5dr2n13w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-nevis-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRKRKBBBW](/stripes/rwrwrkrkbbbw/).
 
 Part of the [Glen Nevis](/tartans/g/gl/glen-nevis-2/) tartan — the named design grouping this sett with its other cloths.

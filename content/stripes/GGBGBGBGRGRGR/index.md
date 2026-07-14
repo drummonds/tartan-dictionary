@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6~x2~dt1500000-yi2301120/">Johansson (Aneby, Sweden), Christian (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6~x2~dt1500000-yi2301120/"><img src="/variants/s13/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6~x2~dt1500000-yi2301120/sett.png" alt="Johansson (Aneby, Sweden), Christian (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/johansson-christian/">Johansson , Christian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/johansson-christian/"><img src="/variants/s13/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6~x2~dt1500000-yi2301120/sett.png" alt="Johansson , Christian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

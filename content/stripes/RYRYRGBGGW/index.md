@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111/">Auld Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111/"><img src="/variants/s10/r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111/sett.png" alt="Auld Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auld-scotland/">Auld Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auld-scotland/"><img src="/variants/s10/r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111/sett.png" alt="Auld Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

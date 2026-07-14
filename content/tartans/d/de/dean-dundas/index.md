@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r17k5w4k6y5db31k5g6w3/"
+- "/setts/r17k5w4k6ly5db31k5g6w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkwkgbkgw/">RKWKGBKGW</a></nav>
 Its design is pattern [RKWKGBKGW](/stripes/rkwkgbkgw/) — the page of every tartan sharing this colour sequence.
 
 The **Dean/Dundas** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Dean/Dundas** tartan groups 2 setts — the same named design recorded as 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r17k5w4k6y5db31k5g6w3/">Dean/Dundas</a> ★</td><td><code>R/34 K10 W8 K12 Y10 DB62 K10 G12 W/6</code></td><td>288</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r17k5w4k6y5db31k5g6w3/"><img src="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/sett.png" alt="Dean/Dundas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r17k5w4k6ly5db31k5g6w3/">(Personal)</a></td><td><code>R/34 K10 W8 K12 LY10 DB62 K10 G12 W/6</code></td><td>288</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r17k5w4k6ly5db31k5g6w3/"><img src="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/">Dean/Dundas</a> ★</td><td><code>R/34 K10 W8 K12 Y10 DB62 K10 G12 W/6</code></td><td>288</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><img src="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/sett.png" alt="Dean/Dundas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/">(Personal)</a></td><td><code>R/34 K10 W8 K12 LY10 DB62 K10 G12 W/6</code></td><td>288</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/"><img src="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/y3k21r7k2g10k2r7k2db21w3~x2/"><circle cx="90.3" cy="131.8" r="4" fill="#3465a4"><title>Tantallon</title></circle></a><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/"><circle cx="123.9" cy="115.2" r="4" fill="#3465a4"><title>Wcwm 1873-4</title></circle></a><a href="/variants/s11/w4db5r3db22dy4k3g17r7k2r7dy2~x2/"><circle cx="102.3" cy="136.5" r="4" fill="#3465a4"><title>Crosser Crozier</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="164.3" cy="122.5" r="4" fill="#3465a4"><title>Arundel County</title></circle></a><a href="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/"><circle cx="110.3" cy="130.3" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="93.2" cy="160.7" r="4" fill="#3465a4"><title>Eichelberger</title></circle></a><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="94.3" cy="134.1" r="4" fill="#3465a4"><title>Crozier</title></circle></a><a href="/variants/s11/k2db15w5db15r15w2k2g4y3g4k2~x2/"><circle cx="109.3" cy="141.6" r="4" fill="#3465a4"><title>Pride, George</title></circle></a><a href="/variants/s8/y3db3k2db18k26r21g2lb3~x2/"><circle cx="129.2" cy="125.4" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/variants/s9/w3db1w1db3k1y1k8g3dp2~x2/"><circle cx="79.7" cy="151.6" r="4" fill="#3465a4"><title>Scottish Cultural Society Ltd</title></circle></a><circle cx="105.1" cy="134.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/y3k21r7k2g10k2r7k2db21w3~x2/"><circle cx="90.6" cy="131.4" r="4" fill="#3465a4"><title>Tantallon</title></circle></a><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/"><circle cx="124.3" cy="114.9" r="4" fill="#3465a4"><title>Wcwm 1873-4</title></circle></a><a href="/variants/s11/w4db5r3db22dy4k3g17r7k2r7dy2~x2/"><circle cx="102.6" cy="136.1" r="4" fill="#3465a4"><title>Crosser Crozier</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="164.9" cy="122.3" r="4" fill="#3465a4"><title>Arundel County</title></circle></a><a href="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/"><circle cx="110.6" cy="130.0" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="93.6" cy="160.4" r="4" fill="#3465a4"><title>Eichelberger</title></circle></a><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="94.5" cy="133.8" r="4" fill="#3465a4"><title>Crozier</title></circle></a><a href="/variants/s11/k2db15w5db15r15w2k2g4y3g4k2~x2/"><circle cx="109.7" cy="141.3" r="4" fill="#3465a4"><title>Pride, George</title></circle></a><a href="/variants/s8/y3db3k2db18k26r21g2lb3~x2/"><circle cx="129.7" cy="125.1" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/variants/s9/w3db1w1db3k1y1k8g3dp2~x2/"><circle cx="80.0" cy="151.2" r="4" fill="#3465a4"><title>Scottish Cultural Society Ltd</title></circle></a><circle cx="105.5" cy="133.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

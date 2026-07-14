@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/">Bannockbane Tan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/"><img src="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/sett.png" alt="Bannockbane Tan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/do4y2do13y1w8lb13y2lb4~x2/">Bannockbane, Dark Tan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/do4y2do13y1w8lb13y2lb4~x2/"><img src="/variants/s8/do4y2do13y1w8lb13y2lb4~x2/sett.png" alt="Bannockbane, Dark Tan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bannockbane-tan/">Bannockbane Tan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-tan/"><img src="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/sett.png" alt="Bannockbane Tan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bannockbane-dark-tan/">Bannockbane, Dark Tan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-dark-tan/"><img src="/variants/s8/do4y2do13y1w8lb13y2lb4~x2/sett.png" alt="Bannockbane, Dark Tan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

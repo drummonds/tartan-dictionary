@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db6ly2db27r27ly2r2ly2r2db4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bryryrbyb/">BRYRYRBYB</a></nav>
 Its design is pattern [BRYRYRBYB](/stripes/bryryrbyb/) — the page of every tartan sharing this colour sequence.
 
 The **New Breckon** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **New Breckon** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db6ly2db27r27ly2r2ly2r2db4/">New Breckon</a></td><td><code>DB/12 LY4 DB54 R54 LY4 R4 LY4 R4 DB/8</code></td><td>276</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db6ly2db27r27ly2r2ly2r2db4/"><img src="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/sett.png" alt="New Breckon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/">New Breckon</a></td><td><code>DB/12 LY4 DB54 R54 LY4 R4 LY4 R4 DB/8</code></td><td>276</td><td>~2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/"><img src="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/sett.png" alt="New Breckon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/"><circle cx="350.0" cy="160.6" r="4" fill="#3465a4"><title>Breckon</title></circle></a><a href="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/"><circle cx="291.4" cy="131.3" r="4" fill="#3465a4"><title>Sea Dog Bamse</title></circle></a><a href="/variants/s7/db4r1db18r18db1r1w1~x2/"><circle cx="374.0" cy="158.8" r="4" fill="#3465a4"><title>St. Mildreds Check</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="298.8" cy="143.2" r="4" fill="#3465a4"><title>Mercer</title></circle></a><a href="/variants/s9/r60b15r4db10w2db10w2db10r4~x2/"><circle cx="369.6" cy="107.8" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="297.7" cy="143.1" r="4" fill="#3465a4"><title>Mercer, James</title></circle></a><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/"><circle cx="316.0" cy="182.8" r="4" fill="#3465a4"><title>POF</title></circle></a><a href="/variants/s7/r6w3r17db3r3db25r3~x2/"><circle cx="304.7" cy="196.8" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s12/db25r3db3r17w3r6w3r17db3r3db25r3~x2/"><circle cx="298.9" cy="182.0" r="4" fill="#3465a4"><title>Bon Accord Corporate Com</title></circle></a><a href="/variants/s10/db5r2db5w7db32w7r13db3r13w2~x2/"><circle cx="282.6" cy="160.5" r="4" fill="#3465a4"><title>America</title></circle></a><circle cx="332.8" cy="159.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/"><circle cx="350.8" cy="160.7" r="4" fill="#3465a4"><title>Breckon</title></circle></a><a href="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/"><circle cx="292.1" cy="131.2" r="4" fill="#3465a4"><title>Sea Dog Bamse</title></circle></a><a href="/variants/s7/db4r1db18r18db1r1w1~x2/"><circle cx="374.9" cy="158.9" r="4" fill="#3465a4"><title>St. Mildreds Check</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="299.5" cy="143.2" r="4" fill="#3465a4"><title>Mercer</title></circle></a><a href="/variants/s9/r60b15r4db10w2db10w2db10r4~x2/"><circle cx="370.5" cy="107.8" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="298.4" cy="143.0" r="4" fill="#3465a4"><title>Mercer, James</title></circle></a><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/"><circle cx="316.6" cy="182.8" r="4" fill="#3465a4"><title>POF</title></circle></a><a href="/variants/s7/r6w3r17db3r3db25r3~x2/"><circle cx="305.4" cy="196.8" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s12/db25r3db3r17w3r6w3r17db3r3db25r3~x2/"><circle cx="299.6" cy="182.0" r="4" fill="#3465a4"><title>Bon Accord Corporate Com</title></circle></a><a href="/variants/s10/db5r2db5w7db32w7r13db3r13w2~x2/"><circle cx="283.3" cy="160.4" r="4" fill="#3465a4"><title>America</title></circle></a><circle cx="333.6" cy="159.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

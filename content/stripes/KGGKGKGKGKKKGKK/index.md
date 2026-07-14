@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/">Eynon (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/"><img src="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/sett.png" alt="Eynon (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ey/eynon/">Eynon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ey/eynon/"><img src="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/sett.png" alt="Eynon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Soroptimist International"
   url: "/tartans/s/so/soroptimist-international/"
 - name: "Soroptimist International Corporate Tartan"
-  url: "/setts/dy2db12k6dp10k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy2db12k6dp10k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/soroptimist-international/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKW](/stripes/gbkbkw/).
 
 Part of the [Soroptimist International](/tartans/s/so/soroptimist-international/) tartan — the named design grouping this sett with its other cloths.

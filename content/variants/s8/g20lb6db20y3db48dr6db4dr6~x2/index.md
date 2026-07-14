@@ -8,15 +8,15 @@ crumbs:
 - name: "Warren Wilson College"
   url: "/tartans/w/wa/warren-wilson-college/"
 - name: "Warren Wilson College"
-  url: "/setts/g20lb6db20y3db48dr6db4dr6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g20lb6db20y3db48dr6db4dr6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GWBGBBBBBBBGBW](/stripes/gwbgbbbbbbbgbw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wa/warren-wilson-college/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBGBWG](/stripes/bbbbgbwg/).
 
 Part of the [Warren Wilson College](/tartans/w/wa/warren-wilson-college/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4492](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4492)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4492](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1994 — Warren Wilson College (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4492">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Warren Wilson College tartan Asheville, N.C. donated by Bob Martin. Designed by Mrs. Douglas Orr, wife of Pres. 1994. Woven by Sharon Grist (TECA member). Also Lochcarron sample, July 2000. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>1994 — Warren Wilson College (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2196">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Warren Wilson College, Asheville, North Carolina. Commissioned by Mrs. Douglas Orr, wife of the college President in 1994. Designed and initially woven by Sharon Grist. Lochcarron sample.</em></li>
+<li>1994 — Warren Wilson College (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2196/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Warren Wilson College, Asheville, North Carolina. Commissioned by Mrs. Douglas Orr, wife of the college President in 1994. Designed and initially woven by Sharon Grist. Lochcarron sample.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2196
 
 ## Thread count
-G/40 LB12 DB40 Y6 DB96 DR12 DB8 DR12 DB8 DR12 DB96 Y6 DB40 LB/12
+G/40 LB12 DB40 Y6 DB96 DR12 DB8 DR/12
 
-One full sett is **748 threads**.
+One full sett is **400 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/40 LB12 DB40 Y6 DB96 DR12 DB8 DR12 DB8 DR12 DB96 Y6 DB40 LB/12 — 748 threads; it folds to the canonical 400-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **748 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/40 LB12 DB40 Y6 DB96 DR12 DB8 DR12 DB8 DR12 DB96 Y6 DB40 LB/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/40 LB12 DB40 Y6 DB96 DR12 DB8 DR/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

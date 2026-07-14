@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lb3dr30k18db6g30k2~x2/">Bryant (Dalgleish) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><img src="/variants/s6/lb3dr30k18db6g30k2~x2/sett.png" alt="Bryant (Dalgleish) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bryant/">Bryant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bryant/"><img src="/variants/s6/lb3dr30k18db6g30k2~x2/sett.png" alt="Bryant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/k2loi4lo5o2lo1k1lo2k12lo2k1lo2o6loi7o3lo12o1lo4o1lo12loi1~x2~loi2905070-lo2706066/">Highland Aircraft</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/k2loi4lo5o2lo1k1lo2k12lo2k1lo2o6loi7o3lo12o1lo4o1lo12loi1~x2~loi2905070-lo2706066/"><img src="/variants/s20/k2loi4lo5o2lo1k1lo2k12lo2k1lo2o6loi7o3lo12o1lo4o1lo12loi1~x2~loi2905070-lo2706066/sett.png" alt="Highland Aircraft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-aircraft/">Highland Aircraft</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-aircraft/"><img src="/variants/s20/k2loi4lo5o2lo1k1lo2k12lo2k1lo2o6loi7o3lo12o1lo4o1lo12loi1~x2~loi2905070-lo2706066/sett.png" alt="Highland Aircraft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Lennie"
   url: "/tartans/l/le/lennie/"
 - name: "Lennie"
-  url: "/setts/k2dg10y2k9dp8dg2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2dg10y2k9dp8dg2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/lennie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGGK](/stripes/gbkggk/).
 
 Part of the [Lennie](/tartans/l/le/lennie/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2095](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1819 — Lennie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2095">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#740074;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #740074"></span><br><em>Wilson's 1819 pattern book No 231. Wilson's No 23. Wilsons of Bannockburn a weaving firm founded c1770 near Stirling. The Pattern books are in the National Museum of Antiquities, Edinburgh. Copies of the Pattern books and letters are in the Scottish Tartans Society archive.</em></li>
-<li>1819 — Lennie (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=725">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#740074;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #740074"></span><br><em>Wilson's 1819 pattern book No 231.</em></li>
+<li>1819 — Lennie (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/725/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #789484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#740074;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #740074"></span><br><em>Wilson's 1819 pattern book No 231.</em></li>
 </ul>
 </details>
 

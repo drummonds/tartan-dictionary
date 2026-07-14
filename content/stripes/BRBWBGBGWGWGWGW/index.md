@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/">Black and White Colourway</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/"><img src="/variants/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/sett.png" alt="Black and White Colourway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-and-white-colourway/">Black and White Colourway</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-and-white-colourway/"><img src="/variants/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/sett.png" alt="Black and White Colourway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

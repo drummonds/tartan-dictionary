@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db28y6k2y1k2y6w6g2w1g2w6db28n4k5g8k5n4~x2/">Bog Myrtle Corner</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db28y6k2y1k2y6w6g2w1g2w6db28n4k5g8k5n4~x2/"><img src="/variants/s17/db28y6k2y1k2y6w6g2w1g2w6db28n4k5g8k5n4~x2/sett.png" alt="Bog Myrtle Corner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bog-myrtle-corner/">Bog Myrtle Corner</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bog-myrtle-corner/"><img src="/variants/s17/db28y6k2y1k2y6w6g2w1g2w6db28n4k5g8k5n4~x2/sett.png" alt="Bog Myrtle Corner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

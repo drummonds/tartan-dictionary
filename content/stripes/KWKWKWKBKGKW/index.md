@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/">Ellis (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><img src="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/sett.png" alt="Ellis (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/ellis-2/">Ellis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/ellis-2/"><img src="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/sett.png" alt="Ellis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

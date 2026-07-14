@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg1r1g22dy21dg12r11g22r1dg1~x2/">MacNaughton Htg</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg1r1g22dy21dg12r11g22r1dg1~x2/"><img src="/variants/s9/dg1r1g22dy21dg12r11g22r1dg1~x2/sett.png" alt="MacNaughton Htg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnaughton-hunting/">MacNaughton Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macnaughton-hunting/"><img src="/variants/s9/dg1r1g22dy21dg12r11g22r1dg1~x2/sett.png" alt="MacNaughton Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

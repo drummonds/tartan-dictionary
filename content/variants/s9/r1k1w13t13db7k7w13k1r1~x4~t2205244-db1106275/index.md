@@ -8,10 +8,10 @@ crumbs:
 - name: "Bradey Blue Dress"
   url: "/tartans/b/br/bradey-blue-dress/"
 - name: "Bradey Blue Dress"
-  url: "/setts/r1k1w13t13db7k7w13k1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1k1w13t13db7k7w13k1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bradey-blue-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWBBKWKR](/stripes/rkwbbkwkr/).
 
 Part of the [Bradey Blue Dress](/tartans/b/br/bradey-blue-dress/) tartan — the named design grouping this sett with its other cloths.

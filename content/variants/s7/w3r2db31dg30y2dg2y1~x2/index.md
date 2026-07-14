@@ -12,10 +12,10 @@ crumbs:
 - name: "Caig"
   url: "/tartans/c/ca/caig-2/"
 - name: "Caig (Personal)"
-  url: "/setts/w3r2db31dg30y2dg2y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3r2db31dg30y2dg2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/caig-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGBRW](/stripes/ggggbrw/).
 
 Part of the [Caig](/tartans/c/ca/caig-2/) tartan — the named design grouping this sett with its other cloths.

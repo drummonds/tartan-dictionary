@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w4db1w2db3w24lb5db3lb1db1lb1db20w2~x2/">Menzies Royal Blue Dress Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w4db1w2db3w24lb5db3lb1db1lb1db20w2~x2/"><img src="/variants/s12/w4db1w2db3w24lb5db3lb1db1lb1db20w2~x2/sett.png" alt="Menzies Royal Blue Dress Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/menzies-royal-blue-dress/">Menzies Royal Blue Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/menzies-royal-blue-dress/"><img src="/variants/s12/w4db1w2db3w24lb5db3lb1db1lb1db20w2~x2/sett.png" alt="Menzies Royal Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

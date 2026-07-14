@@ -8,10 +8,10 @@ crumbs:
 - name: "Béguinot, Stéphane"
   url: "/tartans/b/b/b-guinot-st-phane/"
 - name: "Béguinot, Stéphane (Personal)"
-  url: "/setts/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/b/b-guinot-st-phane/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGGGRWRGGGRGBGBG](/stripes/bgrgggrwrgggrgbgbg/).
 
 Part of the [Béguinot, Stéphane](/tartans/b/b/b-guinot-st-phane/) tartan — the named design grouping this sett with its other cloths.

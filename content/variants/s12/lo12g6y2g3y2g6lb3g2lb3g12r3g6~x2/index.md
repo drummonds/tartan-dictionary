@@ -8,10 +8,10 @@ crumbs:
 - name: "O'Brien"
   url: "/tartans/o/o/o-brien/"
 - name: "O'Brien Irish Family Tartan"
-  url: "/setts/lo12g6y2g3y2g6lb3g2lb3g12r3g6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo12g6y2g3y2g6lb3g2lb3g12r3g6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-brien/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWGWGGGGGY](/stripes/grgwgwgggggy/).
 
 Part of the [O'Brien](/tartans/o/o/o-brien/) tartan — the named design grouping this sett with its other cloths.
@@ -58,7 +58,7 @@ One full sett is **204 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.19** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.06** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

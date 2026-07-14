@@ -8,10 +8,10 @@ crumbs:
 - name: "Town of Petawawa"
   url: "/tartans/t/to/town-of-petawawa/"
 - name: "Town of Petawawa"
-  url: "/setts/dg4w1db2y2k3db3w1dr22y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4w1db2y2k3db3w1dr22y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/town-of-petawawa/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBKGBWG](/stripes/gbwbkgbwg/).
 
 Part of the [Town of Petawawa](/tartans/t/to/town-of-petawawa/) tartan — the named design grouping this sett with its other cloths.

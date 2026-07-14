@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db2g12k13w1db13w2~x2/">Herd Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2g12k13w1db13w2~x2/"><img src="/variants/s6/db2g12k13w1db13w2~x2/sett.png" alt="Herd Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db3g12k13w2db13w3/">Herd/Hurd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db3g12k13w2db13w3/"><img src="/variants/s6/db3g12k13w2db13w3~x2~db1406275/sett.png" alt="Herd/Hurd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/herd/">Herd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/herd/"><img src="/variants/s6/b4dg25k24w3db24w4~x2/sett.png" alt="Herd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/b4dg25k24w3db24w4~x2/">Herd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/b4dg25k24w3db24w4~x2/"><img src="/variants/s6/b4dg25k24w3db24w4~x2/sett.png" alt="Herd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/herd-hurd/">Herd/Hurd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/herd-hurd/"><img src="/variants/s6/db3g12k13w2db13w3~x2~db1406275/sett.png" alt="Herd/Hurd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

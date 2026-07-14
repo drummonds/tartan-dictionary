@@ -10,15 +10,15 @@ crumbs:
 - name: "Walker, Michael"
   url: "/tartans/w/wa/walker-michael/"
 - name: "Walker, Michael (Personal)"
-  url: "/setts/lb14db14lb14w2o3w2db14lb14db6y2db6lb14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb14db14lb14w2o3w2db14lb14db6y2db6lb14/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBWBWRWWBWBWWRWBWBGBW](/stripes/bgbwbwrwwbwbwwrwbwbgbw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wa/walker-michael/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBGBWBWRWWBW](/stripes/wbgbwbwrwwbw/).
 
 Part of the [Walker, Michael](/tartans/w/wa/walker-michael/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4481](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4481)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4481](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/2003 — Walker, Michael (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4481">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B84C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #B84C00"></span><br><em>A family tartan for the sole use of Michael Walker and family of Converse, Texas. House of Tartan.</em></li>
-<li>Nov. 2003 — Walker, Michael (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6048">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B84C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #B84C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A family tartan for the sole use of Michael Walker and family of Converse, Texas. House of Tartan.</em></li>
+<li>Nov. 2003 — Walker, Michael (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6048/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B84C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #B84C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A family tartan for the sole use of Michael Walker and family of Converse, Texas. House of Tartan.</em></li>
 </ul>
 </details>
 
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6048
 
 ## Thread count
-LB/28 DB12 Y4 DB12 LB28 DB28 W4 O6 W4 LB28 DB28 LB28 DB28 LB28 W4 O6 W4 DB28 LB28 DB12 Y4 DB/12
+LB/28 DB28 LB28 W4 O6 W4 DB28 LB28 DB12 Y4 DB12 LB/28
 
-One full sett is **688 threads**.
+One full sett is **364 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/28 DB12 Y4 DB12 LB28 DB28 W4 O6 W4 LB28 DB28 LB28 DB28 LB28 W4 O6 W4 DB28 LB28 DB12 Y4 DB/12 — 688 threads; it folds to the canonical 364-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **688 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/28 DB12 Y4 DB12 LB28 DB28 W4 O6 W4 LB28 DB28 LB28 DB28 LB28 W4 O6 W4 DB28 LB28 DB12 Y4 DB/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/28 DB28 LB28 W4 O6 W4 DB28 LB28 DB12 Y4 DB12 LB/28 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Korner-MacPherson"
   url: "/tartans/k/ko/korner-macpherson/"
 - name: "Korner-Macpherson (Personal)"
-  url: "/setts/n5r3n35k28n4k11n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n5r3n35k28n4k11n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ko/korner-macpherson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBRB](/stripes/bkbkbrb/).
 
 Part of the [Korner-MacPherson](/tartans/k/ko/korner-macpherson/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10074](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>15/07/2009 — Korner-Macpherson (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10074">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#808080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #808080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Based on the MacPherson of Cluny known as Breacan Glas (the Pied Wagtail) as recorded in the 'Vestiarium Scoticum' of 1842, but with the white background changed to grey. Franz Korner from Munich in Bavaria requested a grey variation of the tartan for his own use in memory of his mother, a member of the MacPherson clan who came from Crubinmore.</em></li>
-<li>15th July 2009 — Korner-MacPherson (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10074">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>This is MacPherson of Cluny (Breacan Glas - Pied Wagtail) with the white changed to grey. Franz Korner is from Muncih in Bavaria and wanted this for his own use in memory of his mother who was a MacPherson from Crubinmore..</em></li>
+<li>15th July 2009 — Korner-MacPherson (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10074/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>This is MacPherson of Cluny (Breacan Glas - Pied Wagtail) with the white changed to grey. Franz Korner is from Muncih in Bavaria and wanted this for his own use in memory of his mother who was a MacPherson from Crubinmore..</em></li>
 </ul>
 </details>
 

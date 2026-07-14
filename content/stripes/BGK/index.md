@@ -28,16 +28,16 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/k1g22dr1~x4/">Kenmore Hunting (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k1g22dr1~x4/"><img src="/variants/s3/k1g22dr1~x4/sett.png" alt="Kenmore Hunting (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k11g16dr2~x4/">Kincaid of Kincaid (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k11g16dr2~x4/"><img src="/variants/s3/k11g16dr2~x4/sett.png" alt="Kincaid of Kincaid (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kenmore-hunting/">Kenmore Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kenmore-hunting/"><img src="/variants/s3/k1g22dr1~x4/sett.png" alt="Kenmore Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kincaid-of-kincaid/">Kincaid of Kincaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kincaid-of-kincaid/"><img src="/variants/s3/k11g16dr2~x4/sett.png" alt="Kincaid of Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/k8g7db8~x2/">Glenlyon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k8g7db8~x2/"><img src="/variants/s3/k8g7db8~x2/sett.png" alt="Glenlyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-lyon-4/">Glen Lyon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-lyon-4/"><img src="/variants/s3/k8g7db8~x2/sett.png" alt="Glen Lyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/k11g9dp10~x2~dp1607327/">Wilson's No.185</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k11g9dp10~x2~dp1607327/"><img src="/variants/s3/k11g9dp10~x2~dp1607327/sett.png" alt="Wilson's No.185 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-185/">Wilson's No.185</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-185/"><img src="/variants/s3/k11g9dp10~x2~dp1607327/sett.png" alt="Wilson's No.185 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

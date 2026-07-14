@@ -8,10 +8,10 @@ crumbs:
 - name: "Damm, Alexander"
   url: "/tartans/d/da/damm-alexander/"
 - name: "Damm, Alexander (Personal)"
-  url: "/setts/db11k1db1k1db1k7dg8r1n7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11k1db1k1db1k7dg8r1n7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/damm-alexander/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRB](/stripes/bkbkbkgrb/).
 
 Part of the [Damm, Alexander](/tartans/d/da/damm-alexander/) tartan — the named design grouping this sett with its other cloths.

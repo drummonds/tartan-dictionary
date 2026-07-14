@@ -8,10 +8,10 @@ crumbs:
 - name: "Puccini's Madama Butterfly"
   url: "/tartans/p/pu/puccini-s-madama-butterfly/"
 - name: "Puccini's Madama Butterfly"
-  url: "/setts/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pu/puccini-s-madama-butterfly/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRKRWKYWWKRKWKY](/stripes/rwrkrwkywwkrkwky/).
 
 Part of the [Puccini's Madama Butterfly](/tartans/p/pu/puccini-s-madama-butterfly/) tartan — the named design grouping this sett with its other cloths.

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k6r20w2dr9w3lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krwbww/">KRWBWW</a></nav>
 Its design is pattern [KRWBWW](/stripes/krwbww/) — the page of every tartan sharing this colour sequence.
 
 The **Thermos Un-named** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Thermos Un-named** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k6r20w2dr9w3lb2/">Thermos Un-named</a></td><td><code>K/12 R40 W4 DR18 W6 LB/4</code></td><td>152</td><td>~2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k6r20w2dr9w3lb2/"><img src="/variants/s6/k6r20w2dr9w3lb2~x2/sett.png" alt="Thermos Un-named sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k6r20w2dr9w3lb2~x2/">Thermos Un-named</a></td><td><code>K/12 R40 W4 DR18 W6 LB/4</code></td><td>152</td><td>~2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k6r20w2dr9w3lb2~x2/"><img src="/variants/s6/k6r20w2dr9w3lb2~x2/sett.png" alt="Thermos Un-named sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k7w2g2dr31r35y2~x2/"><circle cx="242.4" cy="125.4" r="4" fill="#3465a4"><title>Mason, David Elsworth</title></circle></a><a href="/variants/s7/r20k5dg5r5w5lr3dg3~x4/"><circle cx="200.9" cy="166.5" r="4" fill="#3465a4"><title>Mangles, Peter and Annette Family/Personal</title></circle></a><a href="/variants/s6/r97k18w5dr26k18n14/"><circle cx="266.4" cy="118.9" r="4" fill="#3465a4"><title>Bradley University</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="165.8" cy="211.0" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.8" cy="157.5" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s6/r6w3r37k16w16g4~x2/"><circle cx="228.9" cy="157.9" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="178.6" cy="154.1" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s5/dg4lb4k2r15ly4~x4/"><circle cx="205.8" cy="187.9" r="4" fill="#3465a4"><title>Benedict</title></circle></a><a href="/variants/s7/y17g7y6r43k5n6k13~x2/"><circle cx="180.1" cy="166.6" r="4" fill="#3465a4"><title>Keeling</title></circle></a><a href="/variants/s6/r3w1r20k8w8g2~x4/"><circle cx="261.2" cy="134.0" r="4" fill="#3465a4"><title>Nisbet Dress Rose</title></circle></a><circle cx="186.8" cy="154.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k7w2g2dr31r35y2~x2/"><circle cx="243.0" cy="125.3" r="4" fill="#3465a4"><title>Mason, David Elsworth</title></circle></a><a href="/variants/s7/r20k5dg5r5w5lr3dg3~x4/"><circle cx="201.4" cy="166.3" r="4" fill="#3465a4"><title>Mangles, Peter and Annette Family/Personal</title></circle></a><a href="/variants/s6/r97k18w5dr26k18n14/"><circle cx="267.2" cy="118.8" r="4" fill="#3465a4"><title>Bradley University</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="166.2" cy="210.8" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="161.3" cy="157.3" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s6/r6w3r37k16w16g4~x2/"><circle cx="229.5" cy="157.8" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="179.1" cy="153.9" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s5/dg4lb4k2r15ly4~x4/"><circle cx="206.2" cy="187.8" r="4" fill="#3465a4"><title>Benedict</title></circle></a><a href="/variants/s7/y17g7y6r43k5n6k13~x2/"><circle cx="180.6" cy="166.4" r="4" fill="#3465a4"><title>Keeling</title></circle></a><a href="/variants/s6/r3w1r20k8w8g2~x4/"><circle cx="261.9" cy="133.9" r="4" fill="#3465a4"><title>Nisbet Dress Rose</title></circle></a><circle cx="187.4" cy="154.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

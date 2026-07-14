@@ -8,10 +8,10 @@ crumbs:
 - name: "Cole-Dale"
   url: "/tartans/c/co/cole-dale/"
 - name: "Cole-Dale (Personal)"
-  url: "/setts/n8g4n8db2lb8r1m1lb8db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n8g4n8db2lb8r1m1lb8db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cole-dale/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBWRRWB](/stripes/bgbbwrrwb/).
 
 Part of the [Cole-Dale](/tartans/c/co/cole-dale/) tartan — the named design grouping this sett with its other cloths.

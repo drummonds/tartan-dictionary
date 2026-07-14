@@ -10,10 +10,10 @@ crumbs:
 - name: "Logan Rogers Hunting"
   url: "/tartans/l/lo/logan-rogers-hunting/"
 - name: "Logan Rogers Hunting"
-  url: "/setts/db11k1db1w1db1k8g8y1g8k8db8w1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11k1db1w1db1k8g8y1g8k8db8w1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/logan-rogers-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBKGGGKBWB](/stripes/bkbwbkgggkbwb/).
 
 Part of the [Logan Rogers Hunting](/tartans/l/lo/logan-rogers-hunting/) tartan — the named design grouping this sett with its other cloths.

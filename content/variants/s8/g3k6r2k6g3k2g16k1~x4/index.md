@@ -8,10 +8,10 @@ crumbs:
 - name: "Glenbarr"
   url: "/tartans/g/gl/glenbarr/"
 - name: "Glenbarr"
-  url: "/setts/g3k6r2k6g3k2g16k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3k6r2k6g3k2g16k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glenbarr/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKGKGK](/stripes/gkrkgkgk/).
 
 Part of the [Glenbarr](/tartans/g/gl/glenbarr/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1405](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1983 — Glenbarr (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1405">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>GlenBarr Bowman and Bateman Foundation provide accommodation and living facilities at Strathalbyn South Australian. The Tartan is based on the MacLean hunting in honour of the Rankine family who built Glenbarr. Both the Rankines and the MacLean families were Scottish Pioneers in Strathalbyn 1983.</em></li>
-<li>pre 2007 — Glenbarr (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7366">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>GlenBarr is a hotel and conference centre near Strathalbyn in South Australia. The Tartan is based on the MacLean hunting in honour of the Rankine family who built Glenbarr in 1842. Both the Rankines and the MacLean families were Scottish Pioneers in Strathalbyn 1983.</em></li>
+<li>pre 2007 — Glenbarr (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7366/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>GlenBarr is a hotel and conference centre near Strathalbyn in South Australia. The Tartan is based on the MacLean hunting in honour of the Rankine family who built Glenbarr in 1842. Both the Rankines and the MacLean families were Scottish Pioneers in Strathalbyn 1983.</em></li>
 </ul>
 </details>
 

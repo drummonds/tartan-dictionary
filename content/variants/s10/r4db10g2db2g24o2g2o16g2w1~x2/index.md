@@ -8,10 +8,10 @@ crumbs:
 - name: "Hilton Hotel Hong Kong"
   url: "/tartans/h/hi/hilton-hotel-hong-kong/"
 - name: "Kinfauns Castle"
-  url: "/setts/r4db10g2db2g24o2g2o16g2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4db10g2db2g24o2g2o16g2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/hilton-hotel-hong-kong/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGRGRGW](/stripes/rbgbgrgrgw/).
 
 Part of the [Hilton Hotel Hong Kong](/tartans/h/hi/hilton-hotel-hong-kong/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1979](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Kinfauns Castle (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1979">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#783055;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #783055"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Originally designed for the Hong Kong Hilton, this tartan is now used for Kinfauns Castle, a hotel by Perth, Scotland.</em></li>
-<li>early 1980s — Hilton Hotel Hong Kong (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3940">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #006818"></span></li>
+<li>early 1980s — Hilton Hotel Hong Kong (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3940/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #006818"></span></li>
 </ul>
 </details>
 

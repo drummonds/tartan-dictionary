@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k8lb2r2k6r2k2y1k2dy16g30k1r2k4lb2~x2/">Murphy, Andrew (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k8lb2r2k6r2k2y1k2dy16g30k1r2k4lb2~x2/"><img src="/variants/s14/k8lb2r2k6r2k2y1k2dy16g30k1r2k4lb2~x2/sett.png" alt="Murphy, Andrew (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murphy-andrew/">Murphy, Andrew</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murphy-andrew/"><img src="/variants/s14/k8lb2r2k6r2k2y1k2dy16g30k1r2k4lb2~x2/sett.png" alt="Murphy, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

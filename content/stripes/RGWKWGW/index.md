@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w13g13lb13k10w7y1r1~x4/">Lachine Historic</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w13g13lb13k10w7y1r1~x4/"><img src="/variants/s7/w13g13lb13k10w7y1r1~x4/sett.png" alt="Lachine Historic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lachine/">Lachine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lachine/"><img src="/variants/s7/w13g13lb13k10w7y1r1~x4/sett.png" alt="Lachine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

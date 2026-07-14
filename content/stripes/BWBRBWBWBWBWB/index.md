@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/n27lb3n28lb3n28lb3n31w2n31r36n20lb3n1~x2/">Clydesdale Bank</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/n27lb3n28lb3n28lb3n31w2n31r36n20lb3n1~x2/"><img src="/variants/s13/n27lb3n28lb3n28lb3n31w2n31r36n20lb3n1~x2/sett.png" alt="Clydesdale Bank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clydesdale-bank/">Clydesdale Bank</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clydesdale-bank/"><img src="/variants/s13/n27lb3n28lb3n28lb3n31w2n31r36n20lb3n1~x2/sett.png" alt="Clydesdale Bank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

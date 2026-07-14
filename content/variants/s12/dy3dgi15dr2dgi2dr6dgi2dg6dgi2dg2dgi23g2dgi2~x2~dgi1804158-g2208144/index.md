@@ -8,10 +8,10 @@ crumbs:
 - name: "INSEAD"
   url: "/tartans/i/in/insead/"
 - name: "INSEAD"
-  url: "/setts/dy3dgi15dr2dgi2dr6dgi2dg6dgi2dg2dgi23g2dgi2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy3dgi15dr2dgi2dr6dgi2dg6dgi2dg2dgi23g2dgi2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/insead/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGGGGGGG](/stripes/ggbgbggggggg/).
 
 Part of the [INSEAD](/tartans/i/in/insead/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/">Chess (Universal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/"><img src="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/sett.png" alt="Chess (Universal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chess/">Chess</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chess/"><img src="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/sett.png" alt="Chess sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

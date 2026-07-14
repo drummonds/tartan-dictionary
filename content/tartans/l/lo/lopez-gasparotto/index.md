@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r1n5k5db1k1db6y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkbkbr/">GBKBKBR</a></nav>
 Its design is pattern [GBKBKBR](/stripes/gbkbkbr/) — the page of every tartan sharing this colour sequence.
 
 The **Lopez-Gasparotto** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Lopez-Gasparotto** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r1n5k5db1k1db6y1/">Lopez-Gasparotto</a></td><td><code>R/8 N40 K40 DB8 K8 DB48 Y/8</code></td><td>304</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1n5k5db1k1db6y1/"><img src="/variants/s7/r1n5k5db1k1db6y1~x8/sett.png" alt="Lopez-Gasparotto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r1n5k5db1k1db6y1~x8/">Lopez-Gasparotto</a></td><td><code>R/8 N40 K40 DB8 K8 DB48 Y/8</code></td><td>304</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><img src="/variants/s7/r1n5k5db1k1db6y1~x8/sett.png" alt="Lopez-Gasparotto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/y8k4n39k37db36k6db7/"><circle cx="177.3" cy="199.7" r="4" fill="#3465a4"><title>Oceanic</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="126.7" cy="201.2" r="4" fill="#3465a4"><title>MacAllum of Berwick</title></circle></a><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="213.4" cy="215.9" r="4" fill="#3465a4"><title>Bareback</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="132.5" cy="188.9" r="4" fill="#3465a4"><title>Fruin Colquhoun</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="113.8" cy="193.4" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="142.2" cy="212.0" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="225.7" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.3" cy="210.1" r="4" fill="#3465a4"><title>Royal Highland Society</title></circle></a><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><circle cx="135.8" cy="234.0" r="4" fill="#3465a4"><title>Heritage</title></circle></a><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/"><circle cx="112.7" cy="181.0" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS</title></circle></a><circle cx="139.1" cy="208.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/y8k4n39k37db36k6db7/"><circle cx="177.7" cy="199.5" r="4" fill="#3465a4"><title>Oceanic</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="127.0" cy="201.0" r="4" fill="#3465a4"><title>MacAllum of Berwick</title></circle></a><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="213.8" cy="215.8" r="4" fill="#3465a4"><title>Bareback</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="132.8" cy="188.7" r="4" fill="#3465a4"><title>Fruin Colquhoun</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="114.0" cy="193.2" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="142.6" cy="211.8" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.7" cy="225.6" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><circle cx="156.5" cy="209.9" r="4" fill="#3465a4"><title>Royal Highland Society</title></circle></a><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><circle cx="135.9" cy="233.8" r="4" fill="#3465a4"><title>Heritage</title></circle></a><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/"><circle cx="112.9" cy="180.8" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS</title></circle></a><circle cx="139.3" cy="208.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

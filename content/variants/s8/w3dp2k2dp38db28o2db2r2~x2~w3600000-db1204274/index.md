@@ -10,15 +10,15 @@ crumbs:
 - name: "Gretna Gold"
   url: "/tartans/g/gr/gretna-gold/"
 - name: "Gretna Gold Fashion Tartan"
-  url: "/setts/w3dp2k2dp38db28o2db2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3dp2k2dp38db28o2db2r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBBKBWBKBBRBR](/stripes/brbbkbwbkbbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/gretna-gold/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBBKBW](/stripes/rbrbbkbw/).
 
 Part of the [Gretna Gold](/tartans/g/gr/gretna-gold/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6032](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6032)
 
@@ -43,9 +43,11 @@ Earliest known date: 01/01/2003 Presumably a fashion tartan. Lochcarron swatch.
 </details>
 
 ## Thread count
-R/4 DB4 O4 DB56 DP76 K4 DP4 W6 DP4 K4 DP76 DB56 O4 DB/4
+W/6 DP4 K4 DP76 DT56 O4 DT4 R/4
 
-One full sett is **604 threads**.
+One full sett is **306 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/4 DB4 O4 DB56 DP76 K4 DP4 W6 DP4 K4 DP76 DB56 O4 DB/4 — 604 threads; it folds to the canonical 306-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,13 +56,13 @@ One full sett is **604 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 DB4 O4 DB56 DP76 K4 DP4 W6 DP4 K4 DP76 DB56 O4 DB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/6 DP4 K4 DP76 DT56 O4 DT4 R/4 tartan" width="880" height="480">
 
 ## Compared to the master
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.61** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.62** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

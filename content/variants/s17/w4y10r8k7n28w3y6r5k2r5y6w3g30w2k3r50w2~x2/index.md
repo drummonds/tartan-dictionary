@@ -12,10 +12,10 @@ crumbs:
 - name: "Chattan"
   url: "/tartans/c/ch/chattan-3/"
 - name: "Chattan"
-  url: "/setts/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chattan-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGRKBWGRKRGWGWKRW](/stripes/wgrkbwgrkrgwgwkrw/).
 
 Part of the [Chattan](/tartans/c/ch/chattan-3/) tartan — the named design grouping this sett with its other cloths.

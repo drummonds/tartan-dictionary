@@ -10,10 +10,10 @@ crumbs:
 - name: "Skye Dress Blue, Isle of"
   url: "/tartans/s/sk/skye-dress-blue-isle-of/"
 - name: "Skye Dress Blue, Isle of (Dance)"
-  url: "/setts/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sk/skye-dress-blue-isle-of/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWBKWWWKWKWW](/stripes/bwkwbkwwwkwkww/).
 
 Part of the [Skye Dress Blue, Isle of](/tartans/s/sk/skye-dress-blue-isle-of/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3813](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Skye Dress Blue, Isle of (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3813">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#447480;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #447480"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>More confusion between Earl of Skye and Isle of Skye.</em></li>
-<li>pre 2002 — Skye Dress, Blue, Isle of (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5324">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#447480;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #447480"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>More confusion between Earl of Skye and and Isle of Skye.</em></li>
+<li>pre 2002 — Skye Dress, Blue, Isle of (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5324/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#447480;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #447480"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>More confusion between Earl of Skye and and Isle of Skye.</em></li>
 </ul>
 </details>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Herd"
   url: "/tartans/h/he/herd/"
 - name: "Herd Family Tartan"
-  url: "/setts/db2g12k13w1db13w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2g12k13w1db13w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/herd/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKWBW](/stripes/bgkwbw/).
 
 Part of the [Herd](/tartans/h/he/herd/) tartan — the named design grouping this sett with its other cloths.

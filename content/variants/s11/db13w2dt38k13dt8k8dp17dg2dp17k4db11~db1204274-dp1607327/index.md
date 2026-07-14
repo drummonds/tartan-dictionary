@@ -8,10 +8,10 @@ crumbs:
 - name: "Bute Heather"
   url: "/tartans/b/bu/bute-heather-4/"
 - name: "Bute Heather"
-  url: "/setts/db13w2dt38k13dt8k8dp17dg2dp17k4db11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db13w2dt38k13dt8k8dp17dg2dp17k4db11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/bute-heather-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBKBKBWB](/stripes/bkbgbkbkbwb/).
 
 Part of the [Bute Heather](/tartans/b/bu/bute-heather-4/) tartan — the named design grouping this sett with its other cloths.

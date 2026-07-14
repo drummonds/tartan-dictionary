@@ -5,17 +5,13 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Clan Walter"
-  url: "/clan/walter/"
-- name: "Walter"
-  url: "/families/walter/"
 - name: "Walter"
   url: "/tartans/w/wa/walter/"
 - name: "Walter"
-  url: "/setts/r24w3y4dg18dp18dy3lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r24w3y4dg18dp18dy3lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/walter/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGGBGW](/stripes/rwggbgw/).
 
 Part of the [Walter](/tartans/w/wa/walter/) tartan — the named design grouping this sett with its other cloths.

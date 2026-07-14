@@ -8,10 +8,10 @@ crumbs:
 - name: "Terre De'Ecosse"
   url: "/tartans/t/te/terre-de-ecosse/"
 - name: "Terre De'Ecosse"
-  url: "/setts/w3dgi7k3dgi3k3dgi3k13dg16ly4dg16k13dgi16k3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3dgi7k3dgi3k3dgi3k13dg16ly4dg16k13dgi16k3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/te/terre-de-ecosse/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKGKGKGYGKGKW](/stripes/wgkgkgkgygkgkw/).
 
 Part of the [Terre De'Ecosse](/tartans/t/te/terre-de-ecosse/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4095](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Terre De'Ecosse (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4095">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>March 2000 Weave of Lochcarron.</em></li>
-<li>2000 — Terre De'Ecosse (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4037">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>March 2000 Weave of Lochcarron.</em></li>
+<li>2000 — Terre De'Ecosse (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4037/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>March 2000 Weave of Lochcarron.</em></li>
 </ul>
 </details>
 

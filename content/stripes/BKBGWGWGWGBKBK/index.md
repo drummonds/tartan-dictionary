@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/">Ship Hector, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/"><img src="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/sett.png" alt="Ship Hector, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/ship-hector-the-2/">Ship Hector, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/ship-hector-the-2/"><img src="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/sett.png" alt="Ship Hector, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

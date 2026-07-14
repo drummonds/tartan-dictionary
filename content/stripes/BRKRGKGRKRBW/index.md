@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/">Souza Nery (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><img src="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/sett.png" alt="Souza Nery (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/souza-nery/">Souza Nery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/souza-nery/"><img src="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/sett.png" alt="Souza Nery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -11,11 +11,11 @@ crumbs:
   url: "/families/macdiarmid/"
 - name: "MacDiarmid Dress"
   url: "/tartans/m/ma/macdiarmid-dress/"
-- name: "MacDiarmid Dress"
-  url: "/setts/w38r12w37g32k3w4k3g32r4/"
+- name: "MacDiarmid Dress Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w38r12w37g32k3w4k3g32r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdiarmid-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKWKGWRW](/stripes/rgkwkgwrw/).
 
 Part of the [MacDiarmid Dress](/tartans/m/ma/macdiarmid-dress/) tartan — the named design grouping this sett with its other cloths.

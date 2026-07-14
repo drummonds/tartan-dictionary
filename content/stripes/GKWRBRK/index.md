@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k23r27db3r5w3k14y6~x2/">Hoffman Texas German</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><img src="/variants/s7/k23r27db3r5w3k14y6~x2/sett.png" alt="Hoffman Texas German sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hoffman-texas-german/">Hoffman Texas German</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hoffman-texas-german/"><img src="/variants/s7/k23r27db3r5w3k14y6~x2/sett.png" alt="Hoffman Texas German sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

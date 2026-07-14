@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w45dr2g9w2dr30/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwgbw/">BWGBW</a></nav>
 Its design is pattern [BWGBW](/stripes/bwgbw/) — the page of every tartan sharing this colour sequence.
 
 The **Malaysian Unknown** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Malaysian Unknown** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w45dr2g9w2dr30/">Malaysian Unknown</a></td><td><code>W/90 DR4 G18 W4 DR/60</code></td><td>202</td><td>~1969</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w45dr2g9w2dr30/"><img src="/variants/s5/w45dr2g9w2dr30~x2/sett.png" alt="Malaysian Unknown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w45dr2g9w2dr30~x2/">Malaysian Unknown</a></td><td><code>W/90 DR4 G18 W4 DR/60</code></td><td>202</td><td>~1969</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w45dr2g9w2dr30~x2/"><img src="/variants/s5/w45dr2g9w2dr30~x2/sett.png" alt="Malaysian Unknown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.7" cy="198.0" r="4" fill="#3465a4"><title>Glen Shiel</title></circle></a><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="360.9" cy="151.1" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s6/w44dg18w6dg11db1r4~x2/"><circle cx="352.1" cy="129.8" r="4" fill="#3465a4"><title>Westfalia Dress</title></circle></a><a href="/variants/s6/dg44w18dg6w11db1r4~x2/"><circle cx="352.2" cy="126.8" r="4" fill="#3465a4"><title>Westfalia</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="341.0" cy="226.9" r="4" fill="#3465a4"><title>Fraser Arisaid</title></circle></a><a href="/variants/s6/dr5w2dr25w25dr2w5~x2/"><circle cx="373.0" cy="236.6" r="4" fill="#3465a4"><title>Erskine Dress Burgandy</title></circle></a><a href="/variants/s6/n56w30n8r10n3r20/"><circle cx="327.1" cy="200.1" r="4" fill="#3465a4"><title>Walsh, Michael Edward</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="341.7" cy="235.3" r="4" fill="#3465a4"><title>Ailsa</title></circle></a><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><circle cx="390.9" cy="204.4" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/"><circle cx="281.4" cy="131.5" r="4" fill="#3465a4"><title>Longniddry Burgundy</title></circle></a><circle cx="339.2" cy="193.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="412.6" cy="198.2" r="4" fill="#3465a4"><title>Glen Shiel</title></circle></a><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="361.6" cy="151.2" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s6/w44dg18w6dg11db1r4~x2/"><circle cx="352.9" cy="129.8" r="4" fill="#3465a4"><title>Westfalia Dress</title></circle></a><a href="/variants/s6/dg44w18dg6w11db1r4~x2/"><circle cx="353.1" cy="126.9" r="4" fill="#3465a4"><title>Westfalia</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="341.4" cy="226.9" r="4" fill="#3465a4"><title>Fraser Arisaid</title></circle></a><a href="/variants/s6/dr5w2dr25w25dr2w5~x2/"><circle cx="373.6" cy="236.7" r="4" fill="#3465a4"><title>Erskine Dress Burgandy</title></circle></a><a href="/variants/s6/n56w30n8r10n3r20/"><circle cx="327.7" cy="200.1" r="4" fill="#3465a4"><title>Walsh, Michael Edward</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="342.1" cy="235.4" r="4" fill="#3465a4"><title>Ailsa</title></circle></a><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><circle cx="391.5" cy="204.5" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/"><circle cx="282.1" cy="131.4" r="4" fill="#3465a4"><title>Longniddry Burgundy</title></circle></a><circle cx="339.8" cy="193.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

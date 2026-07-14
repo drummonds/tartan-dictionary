@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/">Perry Ancient (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/"><img src="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/sett.png" alt="Perry Ancient (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perry/">Perry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perry/"><img src="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/sett.png" alt="Perry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

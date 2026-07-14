@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k54n11g13ly1t13w1~x2/">Kilmaine Saints (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k54n11g13ly1t13w1~x2/"><img src="/variants/s6/k54n11g13ly1t13w1~x2/sett.png" alt="Kilmaine Saints (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kilmaine-saints/">Kilmaine Saints</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilmaine-saints/"><img src="/variants/s6/k54n11g13ly1t13w1~x2/sett.png" alt="Kilmaine Saints sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Dalziel"
   url: "/clan/dalziel/"
+aliases:
+- "/setts/db56k4w1db6k20w2k20/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkwbkwk/">BKWBKWK</a></nav>
 A tartan of [Clan Dalziel](/clan/dalziel/).
 Its design is pattern [BKWBKWK](/stripes/bkwbkwk/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Dalziel Rugby Club** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db56k4w1db6k20w2k20/">Dalziel Rugby Club</a></td><td><code>DB/112 K8 W2 DB12 K40 W4 K/40</code></td><td>284</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db56k4w1db6k20w2k20/"><img src="/variants/s7/db56k4w1db6k20w2k20~x2/sett.png" alt="Dalziel Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db56k4w1db6k20w2k20~x2/">Dalziel Rugby Club</a></td><td><code>DB/112 K8 W2 DB12 K40 W4 K/40</code></td><td>284</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db56k4w1db6k20w2k20~x2/"><img src="/variants/s7/db56k4w1db6k20w2k20~x2/sett.png" alt="Dalziel Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="358.7" cy="144.0" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><circle cx="319.0" cy="134.9" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="307.1" cy="154.0" r="4" fill="#3465a4"><title>Oakleigh</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="357.1" cy="178.7" r="4" fill="#3465a4"><title>Casterton</title></circle></a><a href="/variants/s6/db52k28w5k3w2k10/"><circle cx="331.4" cy="141.6" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="366.2" cy="119.6" r="4" fill="#3465a4"><title>Pride of Nova Scotia</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="282.8" cy="171.2" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><a href="/variants/s6/k14db14k14db40k3db2~x2/"><circle cx="460.7" cy="199.7" r="4" fill="#3465a4"><title>Atlin</title></circle></a><a href="/variants/s7/db62k22w3k2w2k3r1~x2/"><circle cx="417.6" cy="70.1" r="4" fill="#3465a4"><title>Tyneside Blue, North Tyneside Pipe Band</title></circle></a><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="311.3" cy="184.0" r="4" fill="#3465a4"><title>Swan 2015, Brian E</title></circle></a><circle cx="406.4" cy="114.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="359.7" cy="144.2" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><circle cx="320.0" cy="135.0" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="308.0" cy="154.1" r="4" fill="#3465a4"><title>Oakleigh</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="358.1" cy="179.0" r="4" fill="#3465a4"><title>Casterton</title></circle></a><a href="/variants/s6/db52k28w5k3w2k10/"><circle cx="332.4" cy="141.8" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="367.4" cy="119.8" r="4" fill="#3465a4"><title>Pride of Nova Scotia</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="283.6" cy="171.2" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><a href="/variants/s6/k14db14k14db40k3db2~x2/"><circle cx="461.9" cy="200.1" r="4" fill="#3465a4"><title>Atlin</title></circle></a><a href="/variants/s7/db62k22w3k2w2k3r1~x2/"><circle cx="419.0" cy="70.3" r="4" fill="#3465a4"><title>Tyneside Blue, North Tyneside Pipe Band</title></circle></a><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="312.2" cy="184.2" r="4" fill="#3465a4"><title>Swan 2015, Brian E</title></circle></a><circle cx="407.6" cy="115.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

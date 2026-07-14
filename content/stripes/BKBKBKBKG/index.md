@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g17k1dr16k2n14k19n14k2dr6~x2/">Borthwick (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g17k1dr16k2n14k19n14k2dr6~x2/"><img src="/variants/s9/g17k1dr16k2n14k19n14k2dr6~x2/sett.png" alt="Borthwick (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/borthwick-2/">Borthwick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/borthwick-2/"><img src="/variants/s9/g17k1dr16k2n14k19n14k2dr6~x2/sett.png" alt="Borthwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

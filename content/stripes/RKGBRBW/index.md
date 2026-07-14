@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2k9g12db8r1db1w1~x4/">Genet, Citizen (Commem)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2k9g12db8r1db1w1~x4/"><img src="/variants/s7/r2k9g12db8r1db1w1~x4/sett.png" alt="Genet, Citizen (Commem) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/">Genet, Edmond Charles 'Citizen' (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><img src="/variants/s7/r4k9dg9db40r2db2w2~x2/sett.png" alt="Genet, Edmond Charles 'Citizen' (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/genet-citizen/">Genet, Citizen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/genet-citizen/"><img src="/variants/s7/r2k9g12db8r1db1w1~x4/sett.png" alt="Genet, Citizen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/genet-edmond-charles-citizen/">Genet, Edmond Charles 'Citizen'</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/genet-edmond-charles-citizen/"><img src="/variants/s7/r4k9dg9db40r2db2w2~x2/sett.png" alt="Genet, Edmond Charles 'Citizen' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

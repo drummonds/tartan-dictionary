@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/">Shanahan (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><img src="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/sett.png" alt="Shanahan (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shanahan-2/">Shanahan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shanahan-2/"><img src="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/sett.png" alt="Shanahan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

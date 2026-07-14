@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/">Covington, Christopher (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/"><img src="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/sett.png" alt="Covington, Christopher (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/covington-christopher/">Covington, Christopher</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/covington-christopher/"><img src="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/sett.png" alt="Covington, Christopher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

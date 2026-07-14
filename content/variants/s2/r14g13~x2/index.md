@@ -8,10 +8,10 @@ crumbs:
 - name: "Moncreiffe"
   url: "/tartans/m/mo/moncreiffe/"
 - name: "Moncreiffe (MacLachlan) Clan Tartan"
-  url: "/setts/r14g13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r14g13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/moncreiffe/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GR](/stripes/gr/).
 
 Part of the [Moncreiffe](/tartans/m/mo/moncreiffe/) tartan — the named design grouping this sett with its other cloths.

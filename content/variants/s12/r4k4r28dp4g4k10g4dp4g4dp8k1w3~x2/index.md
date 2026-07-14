@@ -12,10 +12,10 @@ crumbs:
 - name: "Kelly of Sleat"
   url: "/tartans/k/ke/kelly-of-sleat/"
 - name: "Kelly of Sleat Red"
-  url: "/setts/r4k4r28dp4g4k10g4dp4g4dp8k1w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k4r28dp4g4k10g4dp4g4dp8k1w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kelly-of-sleat/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRBGKGBGBKW](/stripes/rkrbgkgbgbkw/).
 
 Part of the [Kelly of Sleat](/tartans/k/ke/kelly-of-sleat/) tartan — the named design grouping this sett with its other cloths.

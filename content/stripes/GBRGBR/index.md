@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y42b15r28y12b6r20/">Kozlosky, Kilt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y42b15r28y12b6r20/"><img src="/variants/s6/y42b15r28y12b6r20/sett.png" alt="Kozlosky, Kilt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ko/kozlosky/">Kozlosky</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ko/kozlosky/"><img src="/variants/s6/y42b15r28y12b6r20/sett.png" alt="Kozlosky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

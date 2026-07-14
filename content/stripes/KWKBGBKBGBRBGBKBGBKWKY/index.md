@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2~x2/">West Lothian Woolen Mill</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2~x2/"><img src="/variants/s22/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2~x2/sett.png" alt="West Lothian Woolen Mill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/west-lothian-woolen-mill/">West Lothian Woolen Mill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/west-lothian-woolen-mill/"><img src="/variants/s22/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2~x2/sett.png" alt="West Lothian Woolen Mill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

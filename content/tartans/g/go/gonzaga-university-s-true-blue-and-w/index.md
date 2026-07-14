@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w6db2w3db2g2db20r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbgbwbw/">RBGBWBW</a></nav>
 Its design is pattern [RBGBWBW](/stripes/rbgbwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Gonzaga University's True Blue and W** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Gonzaga University's True Blue and W** tartan is recorded as a single sett
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w6db2w3db2g2db20r1/">Gonzaga University's True Blue and W</a></td><td><code>W/12 DB4 W6 DB4 G4 DB40 R/2</code></td><td>130</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w6db2w3db2g2db20r1/"><img src="/variants/s7/w6db2w3db2g2db20r1~x2/sett.png" alt="Gonzaga University's True Blue and W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w6db2w3db2g2db20r1~x2/">Gonzaga University's True Blue and W</a></td><td><code>W/12 DB4 W6 DB4 G4 DB40 R/2</code></td><td>130</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><img src="/variants/s7/w6db2w3db2g2db20r1~x2/sett.png" alt="Gonzaga University's True Blue and W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="303.5" cy="88.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="425.8" cy="100.9" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="496.2" cy="103.1" r="4" fill="#3465a4"><title>George, Stuart</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="404.5" cy="169.4" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="327.9" cy="176.4" r="4" fill="#3465a4"><title>Mortell</title></circle></a><a href="/variants/s7/db3g6db2y3db42k6w3~x2/"><circle cx="413.0" cy="102.1" r="4" fill="#3465a4"><title>Bro-sant-Brieg</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="350.0" cy="163.8" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="418.1" cy="143.1" r="4" fill="#3465a4"><title>Masai Shuka 29</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.5" cy="58.0" r="4" fill="#3465a4"><title>Stratford , City of</title></circle></a><a href="/variants/s8/t18r1t1r1t1k7t13w2~x4/"><circle cx="410.7" cy="129.7" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><circle cx="376.2" cy="134.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="304.5" cy="88.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="427.0" cy="101.0" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="497.5" cy="103.4" r="4" fill="#3465a4"><title>George, Stuart</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="405.6" cy="169.6" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="328.7" cy="176.5" r="4" fill="#3465a4"><title>Mortell</title></circle></a><a href="/variants/s7/db3g6db2y3db42k6w3~x2/"><circle cx="414.3" cy="102.3" r="4" fill="#3465a4"><title>Bro-sant-Brieg</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="350.8" cy="163.9" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="419.2" cy="143.3" r="4" fill="#3465a4"><title>Masai Shuka 29</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="437.8" cy="58.2" r="4" fill="#3465a4"><title>Stratford , City of</title></circle></a><a href="/variants/s8/t18r1t1r1t1k7t13w2~x4/"><circle cx="411.9" cy="129.9" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><circle cx="377.3" cy="134.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

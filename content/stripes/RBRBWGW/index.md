@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r8dp2r24db5w26dy2w8~x2/">Lennox Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r8dp2r24db5w26dy2w8~x2/"><img src="/variants/s7/r8dp2r24db5w26dy2w8~x2/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/">MacGiboney (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/"><img src="/variants/s7/r8dp2r24dp5w25dy2w8~x2/sett.png" alt="MacGiboney (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lennox-dress/">Lennox Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lennox-dress/"><img src="/variants/s7/r8dp2r24db5w26dy2w8~x2/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgiboney/">MacGiboney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgiboney/"><img src="/variants/s7/r8dp2r24dp5w25dy2w8~x2/sett.png" alt="MacGiboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

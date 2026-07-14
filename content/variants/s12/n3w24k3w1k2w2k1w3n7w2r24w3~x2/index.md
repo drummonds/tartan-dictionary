@@ -8,10 +8,10 @@ crumbs:
 - name: "Humanitarian Mission"
   url: "/tartans/h/hu/humanitarian-mission/"
 - name: "Humanitarian Mission (Dress)"
-  url: "/setts/n3w24k3w1k2w2k1w3n7w2r24w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n3w24k3w1k2w2k1w3n7w2r24w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/humanitarian-mission/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKWKWBWRW](/stripes/bwkwkwkwbwrw/).
 
 Part of the [Humanitarian Mission](/tartans/h/hu/humanitarian-mission/) tartan — the named design grouping this sett with its other cloths.

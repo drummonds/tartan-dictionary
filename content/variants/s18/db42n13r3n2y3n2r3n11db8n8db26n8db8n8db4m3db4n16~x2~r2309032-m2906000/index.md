@@ -12,10 +12,10 @@ crumbs:
 - name: "Cordiner"
   url: "/tartans/c/co/cordiner/"
 - name: "Cordiner (Boddam)"
-  url: "/setts/db42n13r3n2y3n2r3n11db8n8db26n8db8n8db4m3db4n16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db42n13r3n2y3n2r3n11db8n8db26n8db8n8db4m3db4n16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cordiner/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBBBBBBBBRBGBRBB](/stripes/bbrbbbbbbbbrbgbrbb/).
 
 Part of the [Cordiner](/tartans/c/co/cordiner/) tartan — the named design grouping this sett with its other cloths.

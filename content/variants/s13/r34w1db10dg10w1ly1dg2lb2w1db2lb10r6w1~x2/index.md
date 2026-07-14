@@ -12,15 +12,15 @@ crumbs:
 - name: "Holyrood"
   url: "/tartans/h/ho/holyrood/"
 - name: "Holyrood (Chair)"
-  url: "/setts/r34w1db10dg10w1ly1dg2lb2w1db2lb10r6w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r34w1db10dg10w1ly1dg2lb2w1db2lb10r6w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWBGWYGWWBWRWRWBWWGYWGBW](/stripes/rwbgwygwwbwrwrwbwwgywgbw/).
+provenance below. It is one weaving of the [sett](/tartans/h/ho/holyrood/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWBGWYGWWBWRW](/stripes/rwbgwygwwbwrw/).
 
 Part of the [Holyrood](/tartans/h/ho/holyrood/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1755](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1755)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1674
 
 ## Thread count
-R/68 W2 DB20 DG20 W2 LY2 DG4 LB4 W2 DB4 LB20 R12 W2 R12 LB20 DB4 W2 LB4 DG4 LY2 W2 DG20 DB20 W/2
+R/68 W2 DB20 DG20 W2 LY2 DG4 LB4 W2 DB4 LB20 R12 W/2
 
-One full sett is **438 threads**.
+One full sett is **254 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/68 W2 DB20 DG20 W2 LY2 DG4 LB4 W2 DB4 LB20 R12 W2 R12 LB20 DB4 W2 LB4 DG4 LY2 W2 DG20 DB20 W/2 — 438 threads; it folds to the canonical 254-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **438 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/68 W2 DB20 DG20 W2 LY2 DG4 LB4 W2 DB4 LB20 R12 W2 R12 LB20 DB4 W2 LB4 DG4 LY2 W2 DG20 DB20 W/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/68 W2 DB20 DG20 W2 LY2 DG4 LB4 W2 DB4 LB20 R12 W/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

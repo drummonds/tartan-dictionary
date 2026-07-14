@@ -10,10 +10,10 @@ crumbs:
 - name: "Washington, Stockman"
   url: "/tartans/w/wa/washington-stockman/"
 - name: "Washington, Stockman"
-  url: "/setts/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/washington-stockman/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKBKBBBBBKBGBGBKB](/stripes/bbbbkbkbbbbbkbgbgbkb/).
 
 Part of the [Washington, Stockman](/tartans/w/wa/washington-stockman/) tartan — the named design grouping this sett with its other cloths.

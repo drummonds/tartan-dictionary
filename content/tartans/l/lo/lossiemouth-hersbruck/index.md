@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g26db3g12k10dp15w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgkbw/">GBGKBW</a></nav>
 Its design is pattern [GBGKBW](/stripes/gbgkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Lossiemouth/Hersbruck** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Lossiemouth/Hersbruck** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g26db3g12k10dp15w2/">Lossiemouth/Hersbruck</a></td><td><code>G/52 DB6 G24 K20 DP30 W/4</code></td><td>216</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g26db3g12k10dp15w2/"><img src="/variants/s6/g26db3g12k10dp15w2~x2/sett.png" alt="Lossiemouth/Hersbruck sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g26db3g12k10dp15w2~x2/">Lossiemouth/Hersbruck</a></td><td><code>G/52 DB6 G24 K20 DP30 W/4</code></td><td>216</td><td>1996</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g26db3g12k10dp15w2~x2/"><img src="/variants/s6/g26db3g12k10dp15w2~x2/sett.png" alt="Lossiemouth/Hersbruck sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dg26ki3dg12k10b15w2~x2~ki0604259/"><circle cx="256.5" cy="186.4" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="269.5" cy="177.6" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="180.8" cy="202.6" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="184.7" cy="198.8" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="182.6" cy="202.6" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="178.9" cy="201.9" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="273.0" cy="210.3" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="246.6" cy="184.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s8/r3k8g17y2g17k8db8k2~x2/"><circle cx="185.7" cy="182.2" r="4" fill="#3465a4"><title>Aztec, New Mexico</title></circle></a><a href="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/"><circle cx="202.7" cy="138.9" r="4" fill="#3465a4"><title>Lethcoe</title></circle></a><circle cx="233.5" cy="181.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dg26ki3dg12k10b15w2~x2~ki0604259/"><circle cx="257.1" cy="186.5" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="270.2" cy="177.6" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="181.2" cy="202.5" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="185.1" cy="198.7" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="183.0" cy="202.6" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="179.4" cy="201.8" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="273.6" cy="210.4" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="247.2" cy="184.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s8/r3k8g17y2g17k8db8k2~x2/"><circle cx="186.2" cy="182.1" r="4" fill="#3465a4"><title>Aztec, New Mexico</title></circle></a><a href="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/"><circle cx="203.3" cy="138.8" r="4" fill="#3465a4"><title>Lethcoe</title></circle></a><circle cx="234.1" cy="181.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

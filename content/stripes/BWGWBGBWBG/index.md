@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/">Glenfinnan (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/"><img src="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/sett.png" alt="Glenfinnan (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenfinnan/">Glenfinnan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenfinnan/"><img src="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/sett.png" alt="Glenfinnan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

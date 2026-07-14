@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db35r2k16y2b25w2b6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brkgbwb/">BRKGBWB</a></nav>
 Its design is pattern [BRKGBWB](/stripes/brkgbwb/) — the page of every tartan sharing this colour sequence.
 
 The **Unidentified 7** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unidentified 7** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db35r2k16y2b25w2b6/">Unidentified 7</a></td><td><code>DB/70 R4 K32 Y4 B50 W4 B/12</code></td><td>270</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db35r2k16y2b25w2b6/"><img src="/variants/s7/db35r2k16y2b25w2b6~x2/sett.png" alt="Unidentified 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db35r2k16y2b25w2b6~x2/">Unidentified 7</a></td><td><code>DB/70 R4 K32 Y4 B50 W4 B/12</code></td><td>270</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db35r2k16y2b25w2b6~x2/"><img src="/variants/s7/db35r2k16y2b25w2b6~x2/sett.png" alt="Unidentified 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><circle cx="154.4" cy="122.1" r="4" fill="#3465a4"><title>US Forces Regimental</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="234.5" cy="105.6" r="4" fill="#3465a4"><title>U.S. Forces Thurso</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="157.4" cy="136.7" r="4" fill="#3465a4"><title>Madras College</title></circle></a><a href="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/"><circle cx="208.8" cy="125.9" r="4" fill="#3465a4"><title>U.S. 2001 Air Force</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.2" cy="160.7" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="195.9" cy="108.0" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="182.8" cy="91.7" r="4" fill="#3465a4"><title>Unidentified Lady's</title></circle></a><a href="/variants/s8/ki3r3g4db7ki3k39db15w3~x2~ki0700000-k0503265/"><circle cx="247.3" cy="125.4" r="4" fill="#3465a4"><title>American National</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="166.2" cy="144.8" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="194.7" cy="164.8" r="4" fill="#3465a4"><title>Nicolson of Harris</title></circle></a><circle cx="186.9" cy="135.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><circle cx="154.9" cy="121.8" r="4" fill="#3465a4"><title>US Forces Regimental</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="235.3" cy="105.5" r="4" fill="#3465a4"><title>U.S. Forces Thurso</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="157.8" cy="136.4" r="4" fill="#3465a4"><title>Madras College</title></circle></a><a href="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/"><circle cx="209.4" cy="125.7" r="4" fill="#3465a4"><title>U.S. 2001 Air Force</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.9" cy="160.6" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="196.5" cy="107.7" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="183.5" cy="91.4" r="4" fill="#3465a4"><title>Unidentified Lady's</title></circle></a><a href="/variants/s8/ki3r3g4db7ki3k39db15w3~x2~ki0700000-k0503265/"><circle cx="248.0" cy="125.3" r="4" fill="#3465a4"><title>American National</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="166.8" cy="144.6" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.1" cy="164.6" r="4" fill="#3465a4"><title>Nicolson of Harris</title></circle></a><circle cx="187.4" cy="135.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/">Spirit of Alva</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/"><img src="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/sett.png" alt="Spirit of Alva sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-alva/">Spirit of Alva</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-alva/"><img src="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/sett.png" alt="Spirit of Alva sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

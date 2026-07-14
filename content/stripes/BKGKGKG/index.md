@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dp50k8g4k1g4k1g14/">Ahmlaigh (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp50k8g4k1g4k1g14/"><img src="/variants/s7/dp50k8g4k1g4k1g14/sett.png" alt="Ahmlaigh (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ah/ahmlaigh/">Ahmlaigh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ah/ahmlaigh/"><img src="/variants/s7/dp50k8g4k1g4k1g14/sett.png" alt="Ahmlaigh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Allen"
   url: "/tartans/a/al/allen/"
 - name: "Allen - Northumbrian Hunting (Personal)"
-  url: "/setts/do16dr2do3dr4do2n12do18lb2do18n12do12dy2dr2dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do16dr2do3dr4do2n12do18lb2do18n12do12dy2dr2dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/allen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBWBBBGBG](/stripes/bbbbbbbwbbbgbg/).
 
 Part of the [Allen](/tartans/a/al/allen/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/">King Edward VII (Royal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/"><img src="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/sett.png" alt="King Edward VII (Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s17/y8g84db21k10db10k10db10k10db21g62r3g6r3g10y3g5r6~x2/">King Edward VII Royal Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/y8g84db21k10db10k10db10k10db21g62r3g6r3g10y3g5r6~x2/"><img src="/variants/s17/y8g84db21k10db10k10db10k10db21g62r3g6r3g10y3g5r6~x2/sett.png" alt="King Edward VII Royal Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/king-edward/">King Edward</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/king-edward/"><img src="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6~r2109032/sett.png" alt="King Edward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/">Glen Affric (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/"><img src="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/sett.png" alt="Glen Affric (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-affric/">Glen Affric</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-affric/"><img src="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/sett.png" alt="Glen Affric sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

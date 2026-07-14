@@ -11,16 +11,16 @@ crumbs:
   url: "/families/hanna/"
 - name: "Hanna"
   url: "/tartans/h/ha/hanna-2/"
-- name: "Hanna"
-  url: "/setts/k16w25db4w2db4w2db4w2db4w2db4w2db4/"
+- name: "Hanna (Bible) (Personal)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k16w25db4w2db4w2db4w2db4w2db4w2db4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWBWKWBWBWBWBWBW](/stripes/bwbwbwbwbwbwkwbwbwbwbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hanna-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWBWK](/stripes/bwbwbwbwbwbwk/).
 
 Part of the [Hanna](/tartans/h/ha/hanna-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1584](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1584)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 619
 
 ## Thread count
-DB/8 W4 DB8 W4 DB8 W4 DB8 W4 DB8 W4 DB8 W50 K32 W50 DB8 W4 DB8 W4 DB8 W4 DB8 W4 DB8 W/4
+K/32 W50 DB8 W4 DB8 W4 DB8 W4 DB8 W4 DB8 W4 DB/8
 
-One full sett is **508 threads**.
+One full sett is **260 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/8 W4 DB8 W4 DB8 W4 DB8 W4 DB8 W4 DB8 W50 K32 W50 DB8 W4 DB8 W4 DB8 W4 DB8 W4 DB8 W/4 — 508 threads; it folds to the canonical 260-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **508 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 W4 DB8 W4 DB8 W4 DB8 W4 DB8 W4 DB8 W50 K32 W50 DB8 W4 DB8 W4 DB8 W4 DB8 W4 DB8 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/32 W50 DB8 W4 DB8 W4 DB8 W4 DB8 W4 DB8 W4 DB/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

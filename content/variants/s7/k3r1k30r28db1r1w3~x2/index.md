@@ -12,10 +12,10 @@ crumbs:
 - name: "Cunningham"
   url: "/tartans/c/cu/cunningham/"
 - name: "Cunningham (VS) Clan Tartan"
-  url: "/setts/k3r1k30r28db1r1w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3r1k30r28db1r1w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cunningham/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRBRW](/stripes/krkrbrw/).
 
 Part of the [Cunningham](/tartans/c/cu/cunningham/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/">Down, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/"><img src="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/sett.png" alt="Down, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/down-county/">Down, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/down-county/"><img src="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/sett.png" alt="Down, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

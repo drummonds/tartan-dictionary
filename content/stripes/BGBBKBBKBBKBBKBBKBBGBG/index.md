@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2~x2/">Apache North Sea Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2~x2/"><img src="/variants/s22/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2~x2/sett.png" alt="Apache North Sea Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ap/apache-north-sea-commemorative/">Apache North Sea Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ap/apache-north-sea-commemorative/"><img src="/variants/s22/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2~x2/sett.png" alt="Apache North Sea Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

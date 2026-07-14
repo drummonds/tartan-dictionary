@@ -8,10 +8,10 @@ crumbs:
 - name: "Brockton"
   url: "/tartans/b/br/brockton/"
 - name: "Brockton"
-  url: "/setts/k2w1k2dr6k6dr3k28w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2w1k2dr6k6dr3k28w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brockton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKBKBKW](/stripes/kwkbkbkw/).
 
 Part of the [Brockton](/tartans/b/br/brockton/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=366](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/10/2004 — Brockton (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=366">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>A tartan to be used in the school uniform for Brockton Preparatory School, North Vancouver and woven by Fraser & Kirkbright, Vancouver.</em></li>
-<li>2004, October — Brockton (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6444">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>A tartan to be used as the school uniform for Brockton Preparatory School of North Vancouver. Weaver Fraser & Kirkbright of Vancouver. Woven sample in STA Collection.</em></li>
+<li>2004, October — Brockton (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6444/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>A tartan to be used as the school uniform for Brockton Preparatory School of North Vancouver. Weaver Fraser & Kirkbright of Vancouver. Woven sample in STA Collection.</em></li>
 </ul>
 </details>
 

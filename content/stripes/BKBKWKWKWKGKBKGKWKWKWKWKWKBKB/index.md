@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/dr2k1db8k6lb8k2lb2k2lb8k6g8k1dr2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1dr2~x2/">MacKinlay Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/dr2k1db8k6lb8k2lb2k2lb8k6g8k1dr2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1dr2~x2/"><img src="/variants/s29/dr2k1db8k6lb8k2lb2k2lb8k6g8k1dr2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1dr2~x2/sett.png" alt="MacKinlay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinlay-dress/">MacKinlay Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackinlay-dress/"><img src="/variants/s29/dr2k1db8k6lb8k2lb2k2lb8k6g8k1dr2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1dr2~x2/sett.png" alt="MacKinlay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6r12k1lo1~x4/">McCandlish, Red (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6r12k1lo1~x4/"><img src="/variants/s11/lb3k1dr12k1dr1k2dr1k6r12k1lo1~x4/sett.png" alt="McCandlish, Red (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maccandlish/">MacCandlish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccandlish/"><img src="/variants/s11/lb3k1dr12k1dr1k2dr1k6r12k1lo1~x4/sett.png" alt="MacCandlish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

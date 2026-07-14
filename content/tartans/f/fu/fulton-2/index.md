@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/fulton/"
 - name: "Fulton"
   url: "/families/fulton/"
+aliases:
+- "/setts/dp3k1g16dr5g6dr5g14dr16lo2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkgbgbgby/">BKGBGBGBY</a></nav>
 A tartan of the [Fulton](/families/fulton/) family.
 Its design is pattern [BKGBGBGBY](/stripes/bkgbgbgby/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Fulton** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp3k1g16dr5g6dr5g14dr16lo2/">Fulton</a></td><td><code>DP/6 K2 G32 DR10 G12 DR10 G28 DR32 LO/4</code></td><td>262</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp3k1g16dr5g6dr5g14dr16lo2/"><img src="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/sett.png" alt="Fulton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/">Fulton</a></td><td><code>DP/6 K2 G32 DR10 G12 DR10 G28 DR32 LO/4</code></td><td>262</td><td>1982</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/"><img src="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/sett.png" alt="Fulton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g8k2g13r4g12dp22g5y3~x2/"><circle cx="257.3" cy="184.2" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s9/db5r19k2g8r3g18k2g9k2~x2/"><circle cx="234.5" cy="176.7" r="4" fill="#3465a4"><title>Hubbard</title></circle></a><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="230.7" cy="175.0" r="4" fill="#3465a4"><title>McInery</title></circle></a><a href="/variants/s9/db1dy9g5dy1k5dy1g5dy9w1~x2/"><circle cx="235.6" cy="181.5" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="267.3" cy="130.7" r="4" fill="#3465a4"><title>Ronald</title></circle></a><a href="/variants/s9/db1o9g5o1k5o1g5o9w1~x2/"><circle cx="222.9" cy="174.3" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><circle cx="295.0" cy="137.4" r="4" fill="#3465a4"><title>Hynde</title></circle></a><a href="/variants/s13/y3k1g19r4g3r11g5r11g3r4g19k1w3~x2/"><circle cx="290.6" cy="131.6" r="4" fill="#3465a4"><title>Bruce Hunting</title></circle></a><a href="/variants/s8/lb5k1g30db15r8g30r8db2~x2/"><circle cx="318.8" cy="136.4" r="4" fill="#3465a4"><title>Shaw of Tordarroch</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.2" cy="172.5" r="4" fill="#3465a4"><title>Mayo</title></circle></a><circle cx="279.1" cy="170.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g8k2g13r4g12dp22g5y3~x2/"><circle cx="257.8" cy="184.2" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s9/db5r19k2g8r3g18k2g9k2~x2/"><circle cx="235.1" cy="176.7" r="4" fill="#3465a4"><title>Hubbard</title></circle></a><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="231.2" cy="175.0" r="4" fill="#3465a4"><title>McInery</title></circle></a><a href="/variants/s9/db1dy9g5dy1k5dy1g5dy9w1~x2/"><circle cx="236.1" cy="181.5" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="268.1" cy="130.7" r="4" fill="#3465a4"><title>Ronald</title></circle></a><a href="/variants/s9/db1o9g5o1k5o1g5o9w1~x2/"><circle cx="223.4" cy="174.3" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><circle cx="295.7" cy="137.4" r="4" fill="#3465a4"><title>Hynde</title></circle></a><a href="/variants/s13/y3k1g19r4g3r11g5r11g3r4g19k1w3~x2/"><circle cx="291.3" cy="131.6" r="4" fill="#3465a4"><title>Bruce Hunting</title></circle></a><a href="/variants/s8/lb5k1g30db15r8g30r8db2~x2/"><circle cx="319.5" cy="136.5" r="4" fill="#3465a4"><title>Shaw of Tordarroch</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.6" cy="172.4" r="4" fill="#3465a4"><title>Mayo</title></circle></a><circle cx="279.7" cy="170.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

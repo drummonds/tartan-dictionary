@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k3dr20k20dr3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbk/">BKBK</a></nav>
 Its design is pattern [BKBK](/stripes/bkbk/) — the page of every tartan sharing this colour sequence.
 
 The **Clan Anord** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Clan Anord** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3dr20k20dr3/">Clan Anord</a></td><td><code>K/6 DR40 K40 DR/6</code></td><td>172</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3dr20k20dr3/"><img src="/variants/s4/k3dr20k20dr3~x2/sett.png" alt="Clan Anord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k3dr20k20dr3~x2/">Clan Anord</a></td><td><code>K/6 DR40 K40 DR/6</code></td><td>172</td><td>~2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k3dr20k20dr3~x2/"><img src="/variants/s4/k3dr20k20dr3~x2/sett.png" alt="Clan Anord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/k5r26k26r5~x4/"><circle cx="282.1" cy="239.0" r="4" fill="#3465a4"><title>Ettrick</title></circle></a><a href="/variants/s4/k12dr7k1dr9~x4/"><circle cx="400.6" cy="265.4" r="4" fill="#3465a4"><title>Lendrum</title></circle></a><a href="/variants/s4/k20dr3k20dr20~x2/"><circle cx="412.8" cy="296.4" r="4" fill="#3465a4"><title>Wcwm 9275-1333-2</title></circle></a><a href="/variants/s5/r3k25r25k10lb3~x2/"><circle cx="271.8" cy="193.7" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/variants/s5/dr20k3dr4w2k7~x2/"><circle cx="385.4" cy="188.5" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/variants/s4/k1r8k8y1~x6/"><circle cx="268.1" cy="204.0" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k3r29k40lb3~x2/"><circle cx="318.7" cy="174.2" r="4" fill="#3465a4"><title>Wallace Red Dress</title></circle></a><a href="/variants/s4/k3db23k17r2~x2/"><circle cx="335.6" cy="217.7" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><a href="/variants/s5/k2dr4k7dr1k2~x2/"><circle cx="451.4" cy="255.5" r="4" fill="#3465a4"><title>Romsdal Tresfjord</title></circle></a><a href="/variants/s5/k13r2k13r19k2~x2/"><circle cx="317.3" cy="203.5" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><circle cx="380.9" cy="269.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/k5r26k26r5~x4/"><circle cx="282.9" cy="239.1" r="4" fill="#3465a4"><title>Ettrick</title></circle></a><a href="/variants/s4/k12dr7k1dr9~x4/"><circle cx="401.4" cy="265.8" r="4" fill="#3465a4"><title>Lendrum</title></circle></a><a href="/variants/s4/k20dr3k20dr20~x2/"><circle cx="413.6" cy="296.9" r="4" fill="#3465a4"><title>Wcwm 9275-1333-2</title></circle></a><a href="/variants/s5/r3k25r25k10lb3~x2/"><circle cx="272.6" cy="193.8" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/variants/s5/dr20k3dr4w2k7~x2/"><circle cx="386.5" cy="188.8" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/variants/s4/k1r8k8y1~x6/"><circle cx="268.9" cy="204.1" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k3r29k40lb3~x2/"><circle cx="319.8" cy="174.4" r="4" fill="#3465a4"><title>Wallace Red Dress</title></circle></a><a href="/variants/s4/k3db23k17r2~x2/"><circle cx="336.5" cy="217.9" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><a href="/variants/s5/k2dr4k7dr1k2~x2/"><circle cx="452.4" cy="256.0" r="4" fill="#3465a4"><title>Romsdal Tresfjord</title></circle></a><a href="/variants/s5/k13r2k13r19k2~x2/"><circle cx="318.3" cy="203.7" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><circle cx="381.7" cy="269.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

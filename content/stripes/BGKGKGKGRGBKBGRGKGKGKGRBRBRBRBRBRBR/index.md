@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6o9db3o3db3o3db3o6db10o3db3o3db3o3~x2/">Unidentified &quot;Old tartan&quot;</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6o9db3o3db3o3db3o6db10o3db3o3db3o3~x2/"><img src="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6o9db3o3db3o3db3o6db10o3db3o3db3o3~x2/sett.png" alt="Unidentified &quot;Old tartan&quot; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-old-tartan/">Unidentified &quot;Old tartan&quot;</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-old-tartan/"><img src="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6o9db3o3db3o3db3o6db10o3db3o3db3o3~x2/sett.png" alt="Unidentified &quot;Old tartan&quot; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

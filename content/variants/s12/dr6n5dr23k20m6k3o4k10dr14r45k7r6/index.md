@@ -8,10 +8,10 @@ crumbs:
 - name: "Sweetheart, The"
   url: "/tartans/s/sw/sweetheart-the/"
 - name: "Sweetheart, The"
-  url: "/setts/dr6n5dr23k20m6k3o4k10dr14r45k7r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr6n5dr23k20m6k3o4k10dr14r45k7r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sw/sweetheart-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKRKRKBRKR](/stripes/bbbkrkrkbrkr/).
 
 Part of the [Sweetheart, The](/tartans/s/sw/sweetheart-the/) tartan — the named design grouping this sett with its other cloths.

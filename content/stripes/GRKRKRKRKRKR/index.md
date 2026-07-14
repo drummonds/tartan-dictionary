@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/">Calgary, University of (Estimated Threadcount)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/"><img src="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/sett.png" alt="Calgary, University of (Estimated Threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/">German National (US) (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/"><img src="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/sett.png" alt="German National (US) (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/calgary-university-of/">Calgary, University of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/calgary-university-of/"><img src="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/sett.png" alt="Calgary, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/german-national/">German National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/german-national/"><img src="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/sett.png" alt="German National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y4k1m14k1w2k1dp28k4y2w3/"
 ---
-Its design is pattern [GKRKWKBKGWGKBKWKRK](/stripes/gkrkwkbkgwgkbkwkrk/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkrkwkbkgw/">GKRKWKBKGW</a></nav>
+Its design is pattern [GKRKWKBKGW](/stripes/gkrkwkbkgw/) — the page of every tartan sharing this colour sequence.
 
 The **Svanholm** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y4k1m14k1w2k1dp28k4y2w3/">Svanholm</a></td><td><code>Y/8 K2 M28 K2 W4 K2 DP56 K8 Y4 W6 Y4 K8 DP56 K2 W4 K2 M28 K/2</code></td><td>226</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y4k1m14k1w2k1dp28k4y2w3/"><img src="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/sett.png" alt="Svanholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/">Svanholm</a></td><td><code>Y/8 K2 M28 K2 W4 K2 DP56 K8 Y4 W/6</code></td><td>226</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/"><img src="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/sett.png" alt="Svanholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/"><circle cx="230.0" cy="86.9" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/variants/s11/r48k10db12k2r3k2db12k10n10k2y3~x2/"><circle cx="213.0" cy="82.7" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><circle cx="253.2" cy="90.2" r="4" fill="#3465a4"><title>Thomson, Reona Ellen</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><circle cx="260.7" cy="96.5" r="4" fill="#3465a4"><title>Richardson</title></circle></a><a href="/variants/s9/k4r32db9dp6db2dp3db2dp12w3/"><circle cx="219.9" cy="118.5" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/variants/s10/p48k10dy12k2p3k2dy12k10p2o3~x2/"><circle cx="281.8" cy="94.1" r="4" fill="#3465a4"><title>Wcwm 1684-2</title></circle></a><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="268.1" cy="106.6" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="210.4" cy="77.9" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="201.5" cy="121.8" r="4" fill="#3465a4"><title>Caledon</title></circle></a><a href="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/"><circle cx="188.5" cy="86.8" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><circle cx="234.8" cy="72.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/"><circle cx="230.7" cy="86.7" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/variants/s11/r48k10db12k2r3k2db12k10n10k2y3~x2/"><circle cx="213.7" cy="82.4" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><circle cx="254.0" cy="90.0" r="4" fill="#3465a4"><title>Thomson, Reona Ellen</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><circle cx="261.5" cy="96.4" r="4" fill="#3465a4"><title>Richardson</title></circle></a><a href="/variants/s9/k4r32db9dp6db2dp3db2dp12w3/"><circle cx="220.5" cy="118.3" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/variants/s10/p48k10dy12k2p3k2dy12k10p2o3~x2/"><circle cx="282.7" cy="94.0" r="4" fill="#3465a4"><title>Wcwm 1684-2</title></circle></a><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="269.0" cy="106.5" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="211.1" cy="77.7" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="202.2" cy="121.6" r="4" fill="#3465a4"><title>Caledon</title></circle></a><a href="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/"><circle cx="189.1" cy="86.5" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><circle cx="235.6" cy="71.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

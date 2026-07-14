@@ -8,15 +8,15 @@ crumbs:
 - name: "Scottish Scouts"
   url: "/tartans/s/sc/scottish-scouts/"
 - name: "Scottish Scouts (1922)"
-  url: "/setts/n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBBBBRBRBBBBBBBRBRBBBBB](/stripes/bbbbbbrbrbbbbbbbrbrbbbbb/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-scouts/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBBBRBRBBBB](/stripes/bbbbbbrbrbbbb/).
 
 Part of the [Scottish Scouts](/tartans/s/sc/scottish-scouts/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3745](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3745)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1294
 
 ## Thread count
-N/22 DT4 N4 DT4 N4 DT24 O24 DT4 O24 DT24 N22 DT4 N4 DT4 N22 DT24 O24 DT4 O24 DT24 N4 DT4 N4 DT/4
+N/22 DT4 N4 DT4 N4 DT24 O24 DT4 O24 DT24 N22 DT4 N/4
 
-One full sett is **594 threads**.
+One full sett is **310 threads**.
+
+<p class="recorded-note">The source recorded this cloth as N/22 DT4 N4 DT4 N4 DT24 O24 DT4 O24 DT24 N22 DT4 N4 DT4 N22 DT24 O24 DT4 O24 DT24 N4 DT4 N4 DT/4 — 594 threads; it folds to the canonical 310-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,6 +58,6 @@ One full sett is **594 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/22 DT4 N4 DT4 N4 DT24 O24 DT4 O24 DT24 N22 DT4 N4 DT4 N22 DT24 O24 DT4 O24 DT24 N4 DT4 N4 DT/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/22 DT4 N4 DT4 N4 DT24 O24 DT4 O24 DT24 N22 DT4 N/4 tartan" width="880" height="480">
 
 ID: /variants/s13/n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2~x2~n1900000-o2500000/

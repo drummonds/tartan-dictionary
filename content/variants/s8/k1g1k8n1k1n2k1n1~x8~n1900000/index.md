@@ -8,10 +8,10 @@ crumbs:
 - name: "Nightstalker"
   url: "/tartans/n/ni/nightstalker/"
 - name: "Nightstalker"
-  url: "/setts/k1g1k8n1k1n2k1n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1g1k8n1k1n2k1n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ni/nightstalker/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGK](/stripes/bkbkbkgk/).
 
 Part of the [Nightstalker](/tartans/n/ni/nightstalker/) tartan — the named design grouping this sett with its other cloths.

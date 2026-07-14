@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/">Chicago, University of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/"><img src="/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/sett.png" alt="Chicago, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chicago-university-of-2/">Chicago, University of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chicago-university-of-2/"><img src="/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/sett.png" alt="Chicago, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

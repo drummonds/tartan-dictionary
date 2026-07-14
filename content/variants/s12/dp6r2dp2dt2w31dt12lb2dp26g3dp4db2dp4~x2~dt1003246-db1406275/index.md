@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonald of Glencoe"
   url: "/tartans/m/ma/macdonald-of-glencoe-2/"
 - name: "MacDonald of Glencoe (Dance) Fashion Tartan"
-  url: "/setts/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-of-glencoe-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBWBWBBRB](/stripes/bbbgbwbwbbrb/).
 
 Part of the [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-2/) tartan — the named design grouping this sett with its other cloths.

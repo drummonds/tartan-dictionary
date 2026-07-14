@@ -8,10 +8,10 @@ crumbs:
 - name: "LS Curling"
   url: "/tartans/l/ls/ls-curling/"
 - name: "LS Curling"
-  url: "/setts/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/ls/ls-curling/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBKBGBGBKBGBGBBG](/stripes/gbbbkbgbgbkbgbgbbg/).
 
 Part of the [LS Curling](/tartans/l/ls/ls-curling/) tartan — the named design grouping this sett with its other cloths.

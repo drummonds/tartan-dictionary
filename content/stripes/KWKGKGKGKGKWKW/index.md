@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8lb4~x2/">Hartmann (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8lb4~x2/"><img src="/variants/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8lb4~x2/sett.png" alt="Hartmann (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hartmann/">Hartmann</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hartmann/"><img src="/variants/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8lb4~x2/sett.png" alt="Hartmann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Virginia Quadricentennial"
   url: "/tartans/v/vi/virginia-quadricentennial/"
 - name: "Virginia Quadricentennial"
-  url: "/setts/w40ly3w10ly6w20k3w2k3w10r4w2r8w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w40ly3w10ly6w20k3w2k3w10r4w2r8w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vi/virginia-quadricentennial/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRWRWKWKWYWYW](/stripes/wrwrwkwkwywyw/).
 
 Part of the [Virginia Quadricentennial](/tartans/v/vi/virginia-quadricentennial/) tartan — the named design grouping this sett with its other cloths.

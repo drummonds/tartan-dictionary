@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/">Hand (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/"><img src="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/sett.png" alt="Hand (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hand-2/">Hand</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hand-2/"><img src="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/sett.png" alt="Hand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

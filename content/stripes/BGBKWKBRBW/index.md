@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db3dg3db24k34w1k34db24r3db3w3~x2/">Al-Fadhli (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db3dg3db24k34w1k34db24r3db3w3~x2/"><img src="/variants/s10/db3dg3db24k34w1k34db24r3db3w3~x2/sett.png" alt="Al-Fadhli (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/al-fadhli/">Al-Fadhli</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/al-fadhli/"><img src="/variants/s10/db3dg3db24k34w1k34db24r3db3w3~x2/sett.png" alt="Al-Fadhli sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

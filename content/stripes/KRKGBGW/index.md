@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k10r5k5g55db2y1w1~x2/">Moeller, Karsten (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k10r5k5g55db2y1w1~x2/"><img src="/variants/s7/k10r5k5g55db2y1w1~x2/sett.png" alt="Moeller, Karsten (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moeller-karsten/">Moeller, Karsten</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moeller-karsten/"><img src="/variants/s7/k10r5k5g55db2y1w1~x2/sett.png" alt="Moeller, Karsten sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

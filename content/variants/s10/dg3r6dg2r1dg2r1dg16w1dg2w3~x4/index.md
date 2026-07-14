@@ -8,22 +8,22 @@ crumbs:
 - name: "Prince of Wales"
   url: "/tartans/p/pr/prince-of-wales/"
 - name: "Prince of Wales (Fashion)"
-  url: "/setts/dg3r6dg2r1dg2r1dg16w1dg2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg3r6dg2r1dg2r1dg16w1dg2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/prince-of-wales/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGWGW](/stripes/grgrgrgwgw/).
 
 Part of the [Prince of Wales](/tartans/p/pr/prince-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3306](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3306)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3306/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3306/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1978 — Prince of Wales (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3306">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00542C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #00542C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>From Lochcarron. Also produced by Ingles Buchan (Textiles). same as Duke of Rothesay, Hunting. James Cant note for the Prince of Wales states" This tartan, along with the red form, was issued by the Vyella Co. It was originally meant for the Rothesay (see #1533) but the division showing the single white line was omitted by mistake. Instead of withdrawing the material, the pattern was given the name 'Prince of Wales'".</em></li>
+<li>1978 — Prince of Wales (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3306/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00542C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #00542C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>From Lochcarron. Also produced by Ingles Buchan (Textiles). same as Duke of Rothesay, Hunting. James Cant note for the Prince of Wales states" This tartan, along with the red form, was issued by the Vyella Co. It was originally meant for the Rothesay (see #1533) but the division showing the single white line was omitted by mistake. Instead of withdrawing the material, the pattern was given the name 'Prince of Wales'".</em></li>
 <li>01/01/1998 — Prince of Wales (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3396">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00542C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #00542C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>From Lochcarron. Also produced by Ingles Buchan (Textiles). same as Duke of Rothesay, Hunting. James Cant note for the Prince of Wales states'. This tartan, along with the red form, was issued by the Vyella Co. It was originally meant for the Rothesay (see #1533, original Scottish Tartans Authority reference) but the division showing the single white line was omitted by mistake. Instead of withdrawing the material, the pattern was given the name 'Prince of Wales''.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3306](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

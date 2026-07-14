@@ -8,10 +8,10 @@ crumbs:
 - name: "McLeod-Bain"
   url: "/tartans/m/mc/mcleod-bain/"
 - name: "McLeod-Bain (Personal)"
-  url: "/setts/k4m4k19m9k9m19k2m2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4m4k19m9k9m19k2m2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcleod-bain/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRW](/stripes/krkrkrkrw/).
 
 Part of the [McLeod-Bain](/tartans/m/mc/mcleod-bain/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2896](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/2003 — McLeod-Bain (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2896">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Designed by C.K. & Finlay Mcleod Bain.</em></li>
-<li>Nov 2003 — McLeod-Bain (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6144">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Designed by C.K. & Finlay Mcleod Bain</em></li>
+<li>Nov 2003 — McLeod-Bain (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6144/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Designed by C.K. & Finlay Mcleod Bain</em></li>
 </ul>
 </details>
 

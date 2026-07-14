@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/o1g1o5g8lg1g1lg1~x4/">O'Neill Pipe Band 1983 (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/o1g1o5g8lg1g1lg1~x4/"><img src="/variants/s7/o1g1o5g8lg1g1lg1~x4/sett.png" alt="O'Neill Pipe Band 1983 (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-neill-pipe-band-1983-2/">O'Neill Pipe Band 1983</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-neill-pipe-band-1983-2/"><img src="/variants/s7/o1g1o5g8lg1g1lg1~x4/sett.png" alt="O'Neill Pipe Band 1983 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

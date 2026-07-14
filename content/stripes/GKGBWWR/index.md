@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2w1lb50db24g12k1y1~x2/">Pincock (Plockton), Dougie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2w1lb50db24g12k1y1~x2/"><img src="/variants/s7/r2w1lb50db24g12k1y1~x2/sett.png" alt="Pincock (Plockton), Dougie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pincock-dougie/">Pincock , Dougie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pincock-dougie/"><img src="/variants/s7/r2w1lb50db24g12k1y1~x2/sett.png" alt="Pincock , Dougie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

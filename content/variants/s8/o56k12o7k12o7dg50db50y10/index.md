@@ -12,10 +12,10 @@ crumbs:
 - name: "Sikh"
   url: "/tartans/s/si/sikh/"
 - name: "Sikh"
-  url: "/setts/o56k12o7k12o7dg50db50y10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o56k12o7k12o7dg50db50y10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/sikh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRKRKR](/stripes/gbgrkrkr/).
 
 Part of the [Sikh](/tartans/s/si/sikh/) tartan — the named design grouping this sett with its other cloths.

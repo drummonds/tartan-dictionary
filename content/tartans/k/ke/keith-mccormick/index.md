@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Keith"
   url: "/clan/keith/"
+aliases:
+- "/setts/k1db5k4g3k1g3k6g1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgkgkbk/">GKGKGKBK</a></nav>
 A tartan of [Clan Keith](/clan/keith/).
 Its design is pattern [GKGKGKBK](/stripes/gkgkgkbk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Keith McCormick** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k1db5k4g3k1g3k6g1/">Keith McCormick</a></td><td><code>K/4 DB20 K16 G12 K4 G12 K24 G/4</code></td><td>184</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1db5k4g3k1g3k6g1/"><img src="/variants/s8/k1db5k4g3k1g3k6g1~x4/sett.png" alt="Keith McCormick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k1db5k4g3k1g3k6g1~x4/">Keith McCormick</a></td><td><code>K/4 DB20 K16 G12 K4 G12 K24 G/4</code></td><td>184</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k1db5k4g3k1g3k6g1~x4/"><img src="/variants/s8/k1db5k4g3k1g3k6g1~x4/sett.png" alt="Keith McCormick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -38,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="280.4" cy="181.5" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><circle cx="137.1" cy="269.9" r="4" fill="#3465a4"><title>Unidentified No 63</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="296.6" cy="190.2" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="177.3" cy="214.8" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/k1dg5k5t5k1t1k1~x4/"><circle cx="183.5" cy="229.2" r="4" fill="#3465a4"><title>Strathspey District</title></circle></a><a href="/variants/s7/k1g5k5db5k1db1k1~x4/"><circle cx="182.8" cy="227.8" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/"><circle cx="128.3" cy="277.9" r="4" fill="#3465a4"><title>Norwich No.064</title></circle></a><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><circle cx="151.2" cy="205.9" r="4" fill="#3465a4"><title>Wilson's No 108</title></circle></a><a href="/variants/s7/k6g6r1g6k6db6k1~x2/"><circle cx="133.3" cy="234.0" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/"><circle cx="170.1" cy="191.0" r="4" fill="#3465a4"><title>Unnamed 5</title></circle></a><circle cx="208.6" cy="228.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="281.3" cy="181.7" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><circle cx="137.3" cy="269.9" r="4" fill="#3465a4"><title>Unidentified No 63</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="297.3" cy="190.4" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="177.8" cy="214.7" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/k1dg5k5t5k1t1k1~x4/"><circle cx="184.0" cy="229.2" r="4" fill="#3465a4"><title>Strathspey District</title></circle></a><a href="/variants/s7/k1g5k5db5k1db1k1~x4/"><circle cx="183.3" cy="227.7" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/"><circle cx="128.5" cy="277.8" r="4" fill="#3465a4"><title>Norwich No.064</title></circle></a><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><circle cx="151.6" cy="205.8" r="4" fill="#3465a4"><title>Wilson's No 108</title></circle></a><a href="/variants/s7/k6g6r1g6k6db6k1~x2/"><circle cx="133.6" cy="233.9" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/"><circle cx="170.6" cy="190.9" r="4" fill="#3465a4"><title>Unnamed 5</title></circle></a><circle cx="209.1" cy="228.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/b1r1k2r7k7r1k2w1~x6/">Nakayama (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b1r1k2r7k7r1k2w1~x6/"><img src="/variants/s8/b1r1k2r7k7r1k2w1~x6/sett.png" alt="Nakayama (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/">Nakayama (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><img src="/variants/s8/db1r1k2r7k7r1k2w1~x6/sett.png" alt="Nakayama (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/nakayama/">Nakayama</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/nakayama/"><img src="/variants/s8/db1r1k2r7k7r1k2w1~x6/sett.png" alt="Nakayama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

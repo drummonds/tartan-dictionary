@@ -8,10 +8,10 @@ crumbs:
 - name: "Hybelius, J-A"
   url: "/tartans/h/hy/hybelius-j-a/"
 - name: "Hybelius, J-A (Personal)"
-  url: "/setts/db58y2r1lb4y2r2lb7r8y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db58y2r1lb4y2r2lb7r8y6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hy/hybelius-j-a/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRWGRWRG](/stripes/bgrwgrwrg/).
 
 Part of the [Hybelius, J-A](/tartans/h/hy/hybelius-j-a/) tartan — the named design grouping this sett with its other cloths.

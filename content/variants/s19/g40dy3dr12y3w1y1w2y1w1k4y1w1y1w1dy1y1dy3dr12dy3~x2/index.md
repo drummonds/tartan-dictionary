@@ -8,10 +8,10 @@ crumbs:
 - name: "Tenon Tours"
   url: "/tartans/t/te/tenon-tours/"
 - name: "Tenon Tours"
-  url: "/setts/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/te/tenon-tours/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGGWGWGKWGWGWGBGG](/stripes/gbgggwgwgkwgwgwgbgg/).
 
 Part of the [Tenon Tours](/tartans/t/te/tenon-tours/) tartan — the named design grouping this sett with its other cloths.

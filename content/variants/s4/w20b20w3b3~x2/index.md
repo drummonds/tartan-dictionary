@@ -8,15 +8,15 @@ crumbs:
 - name: "Unidentified, Plaid Barbie's Moss"
   url: "/tartans/u/un/unidentified-plaid-barbie-s-moss/"
 - name: "Unidentified, Plaid Barbie's Moss"
-  url: "/setts/w20b20w3b3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w20b20w3b3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-plaid-barbie-s-moss/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBW](/stripes/bwbw/).
 
 Part of the [Unidentified, Plaid Barbie's Moss](/tartans/u/un/unidentified-plaid-barbie-s-moss/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
@@ -37,9 +37,11 @@ Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http:/
 </details>
 
 ## Thread count
-B/6 W6 B40 W40 B40 W/6
+W/40 B40 W6 B/6
 
-One full sett is **264 threads**.
+One full sett is **138 threads**.
+
+<p class="recorded-note">The source recorded this cloth as B/6 W6 B40 W40 B40 W/6 — 264 threads; it folds to the canonical 138-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -48,7 +50,7 @@ One full sett is **264 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="B/6 W6 B40 W40 B40 W/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/40 B40 W6 B/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

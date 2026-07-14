@@ -10,10 +10,10 @@ crumbs:
 - name: "MacPherson Dress Burgandy"
   url: "/tartans/m/ma/macpherson-dress-burgandy/"
 - name: "MacPherson Dress Burgandy Clan Tartan"
-  url: "/setts/w4k2w25r21w3r8y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4k2w25r21w3r8y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macpherson-dress-burgandy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWRWKW](/stripes/grwrwkw/).
 
 Part of the [MacPherson Dress Burgandy](/tartans/m/ma/macpherson-dress-burgandy/) tartan — the named design grouping this sett with its other cloths.

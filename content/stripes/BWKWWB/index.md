@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db23w8lb2k5w44db4~x2/">WaterAid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db23w8lb2k5w44db4~x2/"><img src="/variants/s6/db23w8lb2k5w44db4~x2/sett.png" alt="WaterAid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wateraid/">WaterAid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wateraid/"><img src="/variants/s6/db23w8lb2k5w44db4~x2/sett.png" alt="WaterAid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

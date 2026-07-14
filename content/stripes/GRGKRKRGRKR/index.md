@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/">MacPherson of Cluny</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><img src="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/sett.png" alt="MacPherson of Cluny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-of-cluny-2/">MacPherson of Cluny</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-of-cluny-2/"><img src="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/sett.png" alt="MacPherson of Cluny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

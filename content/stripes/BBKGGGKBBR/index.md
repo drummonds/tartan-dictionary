@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/">Huntly Gordon 2000</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/"><img src="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/sett.png" alt="Huntly Gordon 2000 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/huntly-gordon-2000/">Huntly Gordon 2000</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/huntly-gordon-2000/"><img src="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/sett.png" alt="Huntly Gordon 2000 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

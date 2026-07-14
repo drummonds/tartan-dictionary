@@ -12,15 +12,15 @@ crumbs:
 - name: "Hunt"
   url: "/tartans/h/hu/hunt/"
 - name: "Hunt (Personal)"
-  url: "/setts/r9y2r45y20ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r9y2r45y20ly3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGYGRGR](/stripes/grgygrgr/).
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hunt/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGRGY](/stripes/rgrgy/).
 
 Part of the [Hunt](/tartans/h/hu/hunt/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1787](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1787)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6254
 
 ## Thread count
-R/18 Y4 R90 Y40 LY6 Y40 R90 Y/4
+R/18 Y4 R90 Y40 LY/6
 
-One full sett is **562 threads**.
+One full sett is **292 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/18 Y4 R90 Y40 LY6 Y40 R90 Y/4 — 562 threads; it folds to the canonical 292-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **562 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/18 Y4 R90 Y40 LY6 Y40 R90 Y/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/18 Y4 R90 Y40 LY/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

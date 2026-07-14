@@ -10,17 +10,17 @@ crumbs:
 - name: "Harding"
   url: "/families/harding/"
 - name: "Harding"
-  url: "/tartans/h/ha/harding/"
+  url: "/tartans/h/ha/harding-2/"
 - name: "Harding"
-  url: "/setts/dg30dt2n7r14n7r7w1dt14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg30dt2n7r14n7r7w1dt14/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBRBRWBWRBRBBG](/stripes/bbrbrwbwrbrbbg/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harding-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWRBRBBG](/stripes/bwrbrbbg/).
 
-Part of the [Harding](/tartans/h/ha/harding/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Harding](/tartans/h/ha/harding-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1594](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1594)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6796
 
 ## Thread count
-DG/60 DT4 N14 R28 N14 R14 W2 DT28 W2 R14 N14 R28 N14 DT/4
+DG/60 DT4 N14 R28 N14 R14 W2 DT/28
 
-One full sett is **416 threads**.
+One full sett is **240 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/60 DT4 N14 R28 N14 R14 W2 DT28 W2 R14 N14 R28 N14 DT/4 — 416 threads; it folds to the canonical 240-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **416 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/60 DT4 N14 R28 N14 R14 W2 DT28 W2 R14 N14 R28 N14 DT/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/60 DT4 N14 R28 N14 R14 W2 DT/28 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

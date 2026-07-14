@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k4lb2db5lb7db9g14n4g1n4~x2/">Antigonish Centennial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k4lb2db5lb7db9g14n4g1n4~x2/"><img src="/variants/s9/k4lb2db5lb7db9g14n4g1n4~x2/sett.png" alt="Antigonish Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/antigonish/">Antigonish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/antigonish/"><img src="/variants/s9/k4lb2db5lb7db9g14n4g1n4~x2/sett.png" alt="Antigonish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

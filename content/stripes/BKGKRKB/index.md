@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db1k4r1k1y1k4db1~x6/">Justus Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db1k4r1k1y1k4db1~x6/"><img src="/variants/s7/db1k4r1k1y1k4db1~x6/sett.png" alt="Justus Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/justus/">Justus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/justus/"><img src="/variants/s7/db1k4r1k1y1k4db1~x6/sett.png" alt="Justus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/db24k4r3k4g24k4b4~x2/">Skene</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db24k4r3k4g24k4b4~x2/"><img src="/variants/s7/db24k4r3k4g24k4b4~x2/sett.png" alt="Skene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skene-3/">Skene</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skene-3/"><img src="/variants/s7/db24k4r3k4g24k4b4~x2/sett.png" alt="Skene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

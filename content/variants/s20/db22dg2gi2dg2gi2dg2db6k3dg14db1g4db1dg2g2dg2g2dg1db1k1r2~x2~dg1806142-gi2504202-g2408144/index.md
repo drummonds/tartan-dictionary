@@ -10,17 +10,17 @@ crumbs:
 - name: "Peter Pan"
   url: "/tartans/p/pe/peter-pan/"
 - name: "Peter Pan (Corporate)"
-  url: "/setts/db22dg2gi2dg2gi2dg2db6k3dg14db1g4db1dg2g2dg2g2dg1db1k1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db22dg2gi2dg2gi2dg2db6k3dg14db1g4db1dg2g2dg2g2dg1db1k1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/peter-pan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGGBKGBGBGGGGGBKR](/stripes/bgggggbkgbgbgggggbkr/).
 
 Part of the [Peter Pan](/tartans/p/pe/peter-pan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5505](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5505)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/5505/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5505/*)
 
 ## Provenance
 
@@ -29,7 +29,7 @@ Earliest known date: pre 1998 Designed by Lochcarron for the Great Ormond Street
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 1998 — Peter Pan (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5505">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0098A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BG #0098A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Lochcarron for the Great Ormond Street Hospital for Sick Children. J.M.Barrie donated all the rights to Peter Pan to the Hospital in 1929, confirmed in his will in 1937. The royalties go to the Hospital to support its work. Sample in STA Johnston Collection. Design registration cover renewed through Peter MacDonald in July/August 2002. Lochcarron sample of weathered version.</em></li>
+<li>pre 1998 — Peter Pan (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5505/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0098A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BG #0098A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Lochcarron for the Great Ormond Street Hospital for Sick Children. J.M.Barrie donated all the rights to Peter Pan to the Hospital in 1929, confirmed in his will in 1937. The royalties go to the Hospital to support its work. Sample in STA Johnston Collection. Design registration cover renewed through Peter MacDonald in July/August 2002. Lochcarron sample of weathered version.</em></li>
 <li>pre 1998 — Peter Pan Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5505">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0098A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BG #0098A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
 </ul>
 </details>
@@ -44,7 +44,7 @@ Earliest known date: pre 1998 Designed by Lochcarron for the Great Ormond Street
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

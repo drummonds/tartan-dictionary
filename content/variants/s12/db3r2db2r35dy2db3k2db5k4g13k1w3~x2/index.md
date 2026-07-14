@@ -8,10 +8,10 @@ crumbs:
 - name: "Celtic Nations"
   url: "/tartans/c/ce/celtic-nations/"
 - name: "Celtic Nations"
-  url: "/setts/db3r2db2r35dy2db3k2db5k4g13k1w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3r2db2r35dy2db3k2db5k4g13k1w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ce/celtic-nations/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGBKBKGKW](/stripes/brbrgbkbkgkw/).
 
 Part of the [Celtic Nations](/tartans/c/ce/celtic-nations/) tartan — the named design grouping this sett with its other cloths.

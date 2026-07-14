@@ -8,15 +8,15 @@ crumbs:
 - name: "O'Neill"
   url: "/tartans/o/o/o-neill-7/"
 - name: "O'Neill Clan/Family Tartan"
-  url: "/setts/lb6dg5dr5dg45k4dy24k4dg5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb6dg5dr5dg45k4dy24k4dg5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGKGBGWGBGKGK](/stripes/gkgkgbgwgbgkgk/).
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-neill-7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKGBGW](/stripes/gkgkgbgw/).
 
 Part of the [O'Neill](/tartans/o/o/o-neill-7/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4135](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4135)
 
@@ -41,9 +41,11 @@ Earliest known date: 1999 Designed by Linda Clifford, USA for a Timothy O'Neill 
 </details>
 
 ## Thread count
-DG/10 K8 DY48 K8 DG90 DR10 DG10 LB12 DG10 DR10 DG90 K8 DY48 K/8
+LB/12 DG10 DR10 DG90 K8 DY48 K8 DG/10
 
-One full sett is **722 threads**.
+One full sett is **370 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/10 K8 DY48 K8 DG90 DR10 DG10 LB12 DG10 DR10 DG90 K8 DY48 K/8 — 722 threads; it folds to the canonical 370-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **722 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/10 K8 DY48 K8 DG90 DR10 DG10 LB12 DG10 DR10 DG90 K8 DY48 K/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/12 DG10 DR10 DG90 K8 DY48 K8 DG/10 tartan" width="880" height="480">
 
 ## Compared to the master
 

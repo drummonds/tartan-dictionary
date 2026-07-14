@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k3r8y1r8g5r4db8r4db8r4g5r17w3~x2/">Bruce, William</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k3r8y1r8g5r4db8r4db8r4g5r17w3~x2/"><img src="/variants/s13/k3r8y1r8g5r4db8r4db8r4g5r17w3~x2/sett.png" alt="Bruce, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bruce-william/">Bruce, William</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bruce-william/"><img src="/variants/s13/k3r8y1r8g5r4db8r4db8r4g5r17w3~x2/sett.png" alt="Bruce, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

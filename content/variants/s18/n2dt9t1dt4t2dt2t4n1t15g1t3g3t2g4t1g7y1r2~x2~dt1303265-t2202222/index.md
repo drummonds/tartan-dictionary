@@ -8,10 +8,10 @@ crumbs:
 - name: "Glaz"
   url: "/tartans/g/gl/glaz/"
 - name: "Glaz"
-  url: "/setts/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glaz/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBGBGBGBGGR](/stripes/bbbbbbbbbgbgbgbggr/).
 
 Part of the [Glaz](/tartans/g/gl/glaz/) tartan — the named design grouping this sett with its other cloths.

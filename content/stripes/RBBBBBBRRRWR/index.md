@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o4w2o2r3o19b6db3b2db2b2db15o3~x2/">Scotch, House Cailean</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o4w2o2r3o19b6db3b2db2b2db15o3~x2/"><img src="/variants/s12/o4w2o2r3o19b6db3b2db2b2db15o3~x2/sett.png" alt="Scotch, House Cailean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotch-house-cailean/">Scotch, House Cailean</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-house-cailean/"><img src="/variants/s12/o4w2o2r3o19b6db3b2db2b2db15o3~x2/sett.png" alt="Scotch, House Cailean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

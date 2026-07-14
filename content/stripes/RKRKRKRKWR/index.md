@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/">Braemar, or Blair Atholl</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/"><img src="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/sett.png" alt="Braemar, or Blair Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/braemar-or-blair-atholl-2/">Braemar, or Blair Atholl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braemar-or-blair-atholl-2/"><img src="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/sett.png" alt="Braemar, or Blair Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

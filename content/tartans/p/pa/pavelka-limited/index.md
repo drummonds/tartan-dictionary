@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w3k48ly5w3ly3g2db5lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbgywykw/">WBGYWYKW</a></nav>
 Its design is pattern [WBGYWYKW](/stripes/wbgywykw/) — the page of every tartan sharing this colour sequence.
 
 The **Pavelka Limited** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Pavelka Limited** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w3k48ly5w3ly3g2db5lb3/">Pavelka Limited</a></td><td><code>W/6 K96 LY10 W6 LY6 G4 DB10 LB/6</code></td><td>276</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w3k48ly5w3ly3g2db5lb3/"><img src="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/sett.png" alt="Pavelka Limited sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/">Pavelka Limited</a></td><td><code>W/6 K96 LY10 W6 LY6 G4 DB10 LB/6</code></td><td>276</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><img src="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/sett.png" alt="Pavelka Limited sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="335.9" cy="83.6" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/"><circle cx="337.2" cy="57.6" r="4" fill="#3465a4"><title>Pavelka Ltd</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="402.7" cy="42.1" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="391.7" cy="48.9" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="309.4" cy="78.5" r="4" fill="#3465a4"><title>Tainsh</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="301.7" cy="77.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="302.7" cy="96.3" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="388.9" cy="60.5" r="4" fill="#3465a4"><title>Christie Hunting</title></circle></a><a href="/variants/s7/lo2w1db6w1ly2k17ly1~x2/"><circle cx="261.8" cy="109.8" r="4" fill="#3465a4"><title>East Tennessee State University</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="308.7" cy="71.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><circle cx="324.5" cy="57.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="337.1" cy="83.7" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/"><circle cx="338.4" cy="57.6" r="4" fill="#3465a4"><title>Pavelka Ltd</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="404.1" cy="42.3" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="393.1" cy="49.1" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="310.5" cy="78.5" r="4" fill="#3465a4"><title>Tainsh</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="302.7" cy="77.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="303.7" cy="96.3" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="390.2" cy="60.6" r="4" fill="#3465a4"><title>Christie Hunting</title></circle></a><a href="/variants/s7/lo2w1db6w1ly2k17ly1~x2/"><circle cx="262.7" cy="109.8" r="4" fill="#3465a4"><title>East Tennessee State University</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="309.9" cy="71.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><circle cx="325.6" cy="57.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

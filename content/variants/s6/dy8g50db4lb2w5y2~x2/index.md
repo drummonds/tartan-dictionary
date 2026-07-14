@@ -8,10 +8,10 @@ crumbs:
 - name: "Greenup"
   url: "/tartans/g/gr/greenup/"
 - name: "Greenup (2015)"
-  url: "/setts/dy8g50db4lb2w5y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy8g50db4lb2w5y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/greenup/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWWG](/stripes/ggbwwg/).
 
 Part of the [Greenup](/tartans/g/gr/greenup/) tartan — the named design grouping this sett with its other cloths.

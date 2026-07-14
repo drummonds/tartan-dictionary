@@ -12,10 +12,10 @@ crumbs:
 - name: "Wallace Green Dress"
   url: "/tartans/w/wa/wallace-green-dress/"
 - name: "Wallace Green Dress Fashion Tartan"
-  url: "/setts/w12g12w1g12w12ly1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w12g12w1g12w12ly1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/wallace-green-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWGWY](/stripes/wgwgwy/).
 
 Part of the [Wallace Green Dress](/tartans/w/wa/wallace-green-dress/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/db40k32w1~x2/">Shirra (2013)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/db40k32w1~x2/"><img src="/variants/s3/db40k32w1~x2/sett.png" alt="Shirra (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shirra/">Shirra</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shirra/"><img src="/variants/s3/db40k32w1~x2/sett.png" alt="Shirra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

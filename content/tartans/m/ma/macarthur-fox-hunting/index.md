@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr3g30k12g1k16lo2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgkgky/">BGKGKY</a></nav>
 Its design is pattern [BGKGKY](/stripes/bgkgky/) — the page of every tartan sharing this colour sequence.
 
 The **MacArthur-Fox Hunting** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **MacArthur-Fox Hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr3g30k12g1k16lo2/">MacArthur-Fox Hunting</a></td><td><code>DR/6 G60 K24 G2 K32 LO/4</code></td><td>246</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr3g30k12g1k16lo2/"><img src="/variants/s6/dr3g30k12g1k16lo2~x2/sett.png" alt="MacArthur-Fox Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr3g30k12g1k16lo2~x2/">MacArthur-Fox Hunting</a></td><td><code>DR/6 G60 K24 G2 K32 LO/4</code></td><td>246</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr3g30k12g1k16lo2~x2/"><img src="/variants/s6/dr3g30k12g1k16lo2~x2/sett.png" alt="MacArthur-Fox Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="293.8" cy="157.0" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="297.5" cy="160.1" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s7/dy3k36g14b2k2g14r3~x2/"><circle cx="250.3" cy="123.6" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x2/"><circle cx="286.7" cy="173.2" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="255.2" cy="149.4" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><circle cx="271.0" cy="120.3" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="215.5" cy="108.7" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s6/g70k26g12k14db3k16~x2/"><circle cx="333.1" cy="156.4" r="4" fill="#3465a4"><title>Duchess of Fife</title></circle></a><a href="/variants/s5/g3dr1k14g14lo1~x4/"><circle cx="269.0" cy="173.0" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="234.0" cy="190.5" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><circle cx="273.6" cy="134.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="294.6" cy="157.2" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="298.3" cy="160.2" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s7/dy3k36g14b2k2g14r3~x2/"><circle cx="251.1" cy="123.6" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x2/"><circle cx="287.5" cy="173.3" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="255.9" cy="149.5" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><circle cx="271.9" cy="120.4" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="216.2" cy="108.6" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s6/g70k26g12k14db3k16~x2/"><circle cx="334.0" cy="156.6" r="4" fill="#3465a4"><title>Duchess of Fife</title></circle></a><a href="/variants/s5/g3dr1k14g14lo1~x4/"><circle cx="269.8" cy="173.1" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="234.7" cy="190.6" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><circle cx="274.4" cy="134.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

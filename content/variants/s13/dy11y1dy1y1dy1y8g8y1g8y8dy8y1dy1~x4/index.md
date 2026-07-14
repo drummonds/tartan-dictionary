@@ -8,10 +8,10 @@ crumbs:
 - name: "Tyneside Scottish"
   url: "/tartans/t/ty/tyneside-scottish-2/"
 - name: "Tyneside Scottish (Green)"
-  url: "/setts/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ty/tyneside-scottish-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGGGGGGGG](/stripes/ggggggggggggg/).
 
 Part of the [Tyneside Scottish](/tartans/t/ty/tyneside-scottish-2/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4175](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1914 — Tyneside Scottish (Green) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4175">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>An unusual colour variation of Black Watch designed in 1914 for World War I Tyneside Scottish Regiment, now regarded as a district tartan. #1902 (original Scottish Tartans Authority reference) based on TECA original interpretation of JCT file.</em></li>
-<li>1914 — Tyneside Scottish (Green) (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5084">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>An unusual color variation of Black Watch designed in 1914 for World War I Tyneside Scottish Regiment, now regarded as a district tartan. this #1902 based on TECA original interpretation of JCT file.</em></li>
+<li>1914 — Tyneside Scottish (Green) (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5084/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>An unusual color variation of Black Watch designed in 1914 for World War I Tyneside Scottish Regiment, now regarded as a district tartan. this #1902 based on TECA original interpretation of JCT file.</em></li>
 </ul>
 </details>
 

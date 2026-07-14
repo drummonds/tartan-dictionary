@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/">Slanj</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/"><img src="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/sett.png" alt="Slanj sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sl/slanj/">Slanj</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sl/slanj/"><img src="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/sett.png" alt="Slanj sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/">Witches' Blood, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><img src="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/sett.png" alt="Witches' Blood, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/witches-blood-the/">Witches' Blood, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/witches-blood-the/"><img src="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/sett.png" alt="Witches' Blood, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

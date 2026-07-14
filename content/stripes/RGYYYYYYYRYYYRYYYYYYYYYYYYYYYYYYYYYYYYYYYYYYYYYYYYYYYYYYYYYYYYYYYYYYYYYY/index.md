@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s72/r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1l-h499fa911f29f75e1/">Unidentified (2013)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s72/r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1l-h499fa911f29f75e1/"><img src="/variants/s72/r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1l-h499fa911f29f75e1/sett.png?s=r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1~x2" alt="Unidentified (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-76/">Unidentified</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-76/"><img src="/variants/s72/r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1l-h499fa911f29f75e1/sett.png?s=r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1~x2" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

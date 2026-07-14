@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/">Astrobiology</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/"><img src="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/sett.png" alt="Astrobiology sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/as/astrobiology/">Astrobiology</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/as/astrobiology/"><img src="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/sett.png" alt="Astrobiology sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

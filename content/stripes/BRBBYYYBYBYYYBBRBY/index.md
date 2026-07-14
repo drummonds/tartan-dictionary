@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4~x2/">Gray, Hamilton John</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4~x2/"><img src="/variants/s18/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4~x2/sett.png" alt="Gray, Hamilton John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/gray-hamilton-john/">Gray, Hamilton John</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/gray-hamilton-john/"><img src="/variants/s18/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4~x2/sett.png" alt="Gray, Hamilton John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

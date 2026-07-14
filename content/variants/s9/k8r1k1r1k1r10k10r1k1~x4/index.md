@@ -10,17 +10,17 @@ crumbs:
 - name: "Murray of Ochtertyre"
   url: "/families/murray-of-ochtertyre/"
 - name: "Murray of Ochtertyre"
-  url: "/tartans/m/mu/murray-of-ochtertyre-2/"
+  url: "/tartans/m/mu/murray-of-ochtertyre/"
 - name: "Murray of Ochtertyre"
-  url: "/setts/k8r1k1r1k1r10k10r1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8r1k1r1k1r10k10r1k1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRKRKRKRKR](/stripes/krkrkrkrkrkrkrkr/).
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murray-of-ochtertyre/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRK](/stripes/krkrkrkrk/).
 
-Part of the [Murray of Ochtertyre](/tartans/m/mu/murray-of-ochtertyre-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Murray of Ochtertyre](/tartans/m/mu/murray-of-ochtertyre/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3067](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3067)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3067](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1746 — Murray of Ochtertyre (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3067">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Peter MacDonald swatch collection, Stone Mountain Games, in 1994.</em></li>
-<li>1746 — Murray of Ochtertyre - 1746 (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5642">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Peter MacDonald swatch collection from the portrait of Helen Murray of Ochtertyre.</em></li>
+<li>1746 — Murray of Ochtertyre - 1746 (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5642/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Peter MacDonald swatch collection from the portrait of Helen Murray of Ochtertyre.</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5642
 
 ## Thread count
-K/4 R4 K40 R40 K4 R4 K4 R4 K32 R4 K4 R4 K4 R40 K40 R/4
+K/32 R4 K4 R4 K4 R40 K40 R4 K/4
 
-One full sett is **464 threads**.
+One full sett is **236 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/4 R4 K40 R40 K4 R4 K4 R4 K32 R4 K4 R4 K4 R40 K40 R/4 — 464 threads; it folds to the canonical 236-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **464 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 R4 K40 R40 K4 R4 K4 R4 K32 R4 K4 R4 K4 R40 K40 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/32 R4 K4 R4 K4 R40 K40 R4 K/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

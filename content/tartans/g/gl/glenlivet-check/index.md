@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Glenlivet"
   url: "/clan/glenlivet/"
+aliases:
+- "/setts/dg18dr6dg75b6dg13ly35dg12b6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgygbgbg/">BGYGBGBG</a></nav>
 A tartan of [Clan Glenlivet](/clan/glenlivet/).
 Its design is pattern [BGYGBGBG](/stripes/bgygbgbg/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Glenlivet Check** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg18dr6dg75b6dg13ly35dg12b6/">Glenlivet Check</a></td><td><code>DG/18 DR6 DG75 B6 DG13 LY35 DG12 B/6</code></td><td>318</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg18dr6dg75b6dg13ly35dg12b6/"><img src="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/sett.png" alt="Glenlivet Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/">Glenlivet Check</a></td><td><code>DG/18 DR6 DG75 B6 DG13 LY35 DG12 B/6</code></td><td>318</td><td>1987</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><img src="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/sett.png" alt="Glenlivet Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="435.1" cy="200.8" r="4" fill="#3465a4"><title>Gayre Bodyguard</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.6" cy="200.5" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/"><circle cx="453.0" cy="234.9" r="4" fill="#3465a4"><title>Crow</title></circle></a><a href="/variants/s6/dg9lb3dg6lb3dg20y2~x2/"><circle cx="522.7" cy="229.6" r="4" fill="#3465a4"><title>Oman, Sultanate of..</title></circle></a><a href="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="318.7" cy="193.4" r="4" fill="#3465a4"><title>Hasegawa</title></circle></a><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><circle cx="415.1" cy="139.5" r="4" fill="#3465a4"><title>St. Christopher</title></circle></a><a href="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/"><circle cx="436.9" cy="194.4" r="4" fill="#3465a4"><title>Green Watch</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="291.9" cy="167.2" r="4" fill="#3465a4"><title>St. Patrick's Krewe</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="351.3" cy="196.2" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><circle cx="407.3" cy="188.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="435.9" cy="201.1" r="4" fill="#3465a4"><title>Gayre Bodyguard</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="315.3" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="326.2" cy="200.6" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/"><circle cx="453.7" cy="235.2" r="4" fill="#3465a4"><title>Crow</title></circle></a><a href="/variants/s6/dg9lb3dg6lb3dg20y2~x2/"><circle cx="523.8" cy="230.1" r="4" fill="#3465a4"><title>Oman, Sultanate of..</title></circle></a><a href="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="319.4" cy="193.5" r="4" fill="#3465a4"><title>Hasegawa</title></circle></a><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><circle cx="416.1" cy="139.7" r="4" fill="#3465a4"><title>St. Christopher</title></circle></a><a href="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/"><circle cx="437.8" cy="194.7" r="4" fill="#3465a4"><title>Green Watch</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="292.6" cy="167.2" r="4" fill="#3465a4"><title>St. Patrick's Krewe</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="351.9" cy="196.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><circle cx="408.1" cy="188.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

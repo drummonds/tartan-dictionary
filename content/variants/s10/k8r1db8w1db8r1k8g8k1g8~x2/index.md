@@ -12,10 +12,10 @@ crumbs:
 - name: "Hunter"
   url: "/tartans/h/hu/hunter/"
 - name: "Hunter Clan Tartan"
-  url: "/setts/k8r1db8w1db8r1k8g8k1g8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8r1db8w1db8r1k8g8k1g8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hunter/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKRBWBRK](/stripes/gkgkrbwbrk/).
 
 Part of the [Hunter](/tartans/h/hu/hunter/) tartan — the named design grouping this sett with its other cloths.

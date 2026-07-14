@@ -10,17 +10,17 @@ crumbs:
 - name: "Sutherland"
   url: "/families/sutherland/"
 - name: "Sutherland Dress"
-  url: "/tartans/s/su/sutherland-dress/"
+  url: "/tartans/s/su/sutherland-dress-2/"
 - name: "Sutherland Dress (Fashion)"
-  url: "/setts/db6k5db10k10g13k3g13k10w4db4w18db2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6k5db10k10g13k3g13k10w4db4w18db2w3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKWBWBWBWBWKGKGKBK](/stripes/bkbkgkgkwbwbwbwbwkgkgkbk/).
+provenance below. It is one weaving of the [sett](/tartans/s/su/sutherland-dress-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKWBWBW](/stripes/bkbkgkgkwbwbw/).
 
-Part of the [Sutherland Dress](/tartans/s/su/sutherland-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sutherland Dress](/tartans/s/su/sutherland-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4047](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4047)
 
@@ -62,9 +62,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 295
 
 ## Thread count
-DB/12 K10 DB20 K20 G26 K6 G26 K20 W8 DB8 W36 DB4 W6 DB4 W36 DB8 W8 K20 G26 K6 G26 K20 DB20 K/10
+DB/12 K10 DB20 K20 G26 K6 G26 K20 W8 DB8 W36 DB4 W/6
 
-One full sett is **750 threads**.
+One full sett is **386 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/12 K10 DB20 K20 G26 K6 G26 K20 W8 DB8 W36 DB4 W6 DB4 W36 DB8 W8 K20 G26 K6 G26 K20 DB20 K/10 — 750 threads; it folds to the canonical 386-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -73,7 +75,7 @@ One full sett is **750 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 K10 DB20 K20 G26 K6 G26 K20 W8 DB8 W36 DB4 W6 DB4 W36 DB8 W8 K20 G26 K6 G26 K20 DB20 K/10 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 K10 DB20 K20 G26 K6 G26 K20 W8 DB8 W36 DB4 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

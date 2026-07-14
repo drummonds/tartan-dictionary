@@ -8,10 +8,10 @@ crumbs:
 - name: "Rajput"
   url: "/tartans/r/ra/rajput/"
 - name: "Rajput"
-  url: "/setts/db6dr39db10dr10db21y5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6dr39db10dr10db21y5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/rajput/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBG](/stripes/bbbbbg/).
 
 Part of the [Rajput](/tartans/r/ra/rajput/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3447](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — Rajput (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3447">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A military tartan from the State of Rajisthan(sp?) in NW India, discovered by Colin Hutcheson during research in 2003.</em></li>
-<li>pre 2003 — Rajput (Military) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6047">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A military tartan from the State of Rajisthan(sp?) in NW India, discovered by Colin Hutcheson during research in 2003.</em></li>
+<li>pre 2003 — Rajput (Military) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6047/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A military tartan from the State of Rajisthan(sp?) in NW India, discovered by Colin Hutcheson during research in 2003.</em></li>
 </ul>
 </details>
 

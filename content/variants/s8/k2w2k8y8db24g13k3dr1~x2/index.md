@@ -8,10 +8,10 @@ crumbs:
 - name: "Froben, Christian"
   url: "/tartans/f/fr/froben-christian/"
 - name: "Froben, Christian (Personal)"
-  url: "/setts/k2w2k8y8db24g13k3dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2w2k8y8db24g13k3dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/froben-christian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBGKWK](/stripes/bkgbgkwk/).
 
 Part of the [Froben, Christian](/tartans/f/fr/froben-christian/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k16w15k4db12k22r2k6~x2/">Sanley-Cantamessa (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k16w15k4db12k22r2k6~x2/"><img src="/variants/s7/k16w15k4db12k22r2k6~x2/sett.png" alt="Sanley-Cantamessa (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sanley-cantamessa/">Sanley-Cantamessa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sanley-cantamessa/"><img src="/variants/s7/k16w15k4db12k22r2k6~x2/sett.png" alt="Sanley-Cantamessa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Southern Lakes"
   url: "/tartans/s/so/southern-lakes/"
 - name: "Southern Lakes"
-  url: "/setts/db32k2db4k2db8ly29w2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db32k2db4k2db8ly29w2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/southern-lakes/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBYWK](/stripes/bkbkbywk/).
 
 Part of the [Southern Lakes](/tartans/s/so/southern-lakes/) tartan — the named design grouping this sett with its other cloths.

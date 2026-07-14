@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/">MacDonald from Rawtenstall (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><img src="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/sett.png" alt="MacDonald from Rawtenstall (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-from-rawtenstall/">MacDonald from Rawtenstall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-from-rawtenstall/"><img src="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/sett.png" alt="MacDonald from Rawtenstall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

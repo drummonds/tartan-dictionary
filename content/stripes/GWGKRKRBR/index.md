@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/">Glen Chalmadale</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><img src="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/sett.png" alt="Glen Chalmadale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-chalmadale/">Glen Chalmadale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-chalmadale/"><img src="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/sett.png" alt="Glen Chalmadale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

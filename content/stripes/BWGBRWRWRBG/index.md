@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dp3~x2/">Kuehle Family Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dp3~x2/"><img src="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dp3~x2/sett.png" alt="Kuehle Family Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dr3~x2/">Kuehle Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dr3~x2/"><img src="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dr3~x2/sett.png" alt="Kuehle Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ku/kuehle-family-hunting/">Kuehle Family Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ku/kuehle-family-hunting/"><img src="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dp3~x2/sett.png" alt="Kuehle Family Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ku/kuehle-hunting/">Kuehle Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ku/kuehle-hunting/"><img src="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dr3~x2/sett.png" alt="Kuehle Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

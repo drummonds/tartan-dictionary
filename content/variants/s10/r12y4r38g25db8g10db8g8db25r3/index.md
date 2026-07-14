@@ -12,10 +12,10 @@ crumbs:
 - name: "MacEdward"
   url: "/tartans/m/ma/macedward/"
 - name: "MacEdward Tartan"
-  url: "/setts/r12y4r38g25db8g10db8g8db25r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12y4r38g25db8g10db8g8db25r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macedward/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGBGRGR](/stripes/rbgbgbgrgr/).
 
 Part of the [MacEdward](/tartans/m/ma/macedward/) tartan — the named design grouping this sett with its other cloths.

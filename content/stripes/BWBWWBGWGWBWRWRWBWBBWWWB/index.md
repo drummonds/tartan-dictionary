@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/">Stewart, Silk</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/"><img src="/variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/sett.png" alt="Stewart, Silk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-silk/">Stewart, Silk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-silk/"><img src="/variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/sett.png" alt="Stewart, Silk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

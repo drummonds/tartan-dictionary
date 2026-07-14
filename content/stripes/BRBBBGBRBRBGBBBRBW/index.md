@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/">Guild, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/"><img src="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/sett.png" alt="Guild, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/guild-the/">Guild, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/guild-the/"><img src="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/sett.png" alt="Guild, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

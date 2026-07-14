@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g4y3r2y22lb22w2lb3k2~x2/">Aguilar Pardo, Luis Alejandro (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g4y3r2y22lb22w2lb3k2~x2/"><img src="/variants/s8/g4y3r2y22lb22w2lb3k2~x2/sett.png" alt="Aguilar Pardo, Luis Alejandro (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ag/aguilar-pardo-luis-alejandro/">Aguilar Pardo, Luis Alejandro</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ag/aguilar-pardo-luis-alejandro/"><img src="/variants/s8/g4y3r2y22lb22w2lb3k2~x2/sett.png" alt="Aguilar Pardo, Luis Alejandro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

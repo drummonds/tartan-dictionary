@@ -10,10 +10,10 @@ crumbs:
 - name: "Robieson QAHS"
   url: "/tartans/r/ro/robieson-qahs/"
 - name: "Robieson QAHS"
-  url: "/setts/k1db1k8r1k1r8db1y8k1y1k8db1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1db1k8r1k1r8db1y8k1y1k8db1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robieson-qahs/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGKGBRKRKBK](/stripes/kbkgkgbrkrkbk/).
 
 Part of the [Robieson QAHS](/tartans/r/ro/robieson-qahs/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5790](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/2005 — Robieson QAHS (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5790">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0000FF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #0000FF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFF00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFFF00"></span><br><em>Designed by Graham Robieson (Dunfermline) using the colours of the Queen Anne High School (QAHS), Dunfermline, to commemorate the time that he, his brother and father spent there. Woven by Geoffrey (Tailor) Highland Crafts Limited.</em></li>
-<li>Nov. 2005 — Robieson QAHS (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7838">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by Graham Robieson of Dunfermline using the colours of The Queen Anne High School (QAHS) Dunfermline where he and his brother and father were educated. It can be used by anyone. Woven by Geoffrey (Tailor) Highland Crafts of Edinburgh.</em></li>
+<li>Nov. 2005 — Robieson QAHS (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7838/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by Graham Robieson of Dunfermline using the colours of The Queen Anne High School (QAHS) Dunfermline where he and his brother and father were educated. It can be used by anyone. Woven by Geoffrey (Tailor) Highland Crafts of Edinburgh.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/">Hamilton of Clayton (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/"><img src="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/sett.png" alt="Hamilton of Clayton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hamilton-of-clayton/">Hamilton of Clayton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hamilton-of-clayton/"><img src="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/sett.png" alt="Hamilton of Clayton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

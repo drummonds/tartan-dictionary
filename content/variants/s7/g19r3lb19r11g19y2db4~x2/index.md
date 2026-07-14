@@ -12,10 +12,10 @@ crumbs:
 - name: "Rotary"
   url: "/tartans/r/ro/rotary/"
 - name: "Rotary Corporate Tartan"
-  url: "/setts/g19r3lb19r11g19y2db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g19r3lb19r11g19y2db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/rotary/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGRWRG](/stripes/bggrwrg/).
 
 Part of the [Rotary](/tartans/r/ro/rotary/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Bodog.com"
   url: "/tartans/b/bo/bodog-com/"
 - name: "Bodog.com"
-  url: "/setts/r3k25r25k10lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k25r25k10lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bodog-com/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKW](/stripes/rkrkw/).
 
 Part of the [Bodog.com](/tartans/b/bo/bodog-com/) tartan — the named design grouping this sett with its other cloths.

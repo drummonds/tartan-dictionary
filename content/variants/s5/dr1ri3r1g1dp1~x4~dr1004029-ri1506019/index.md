@@ -8,10 +8,10 @@ crumbs:
 - name: "Blairgowrie Berries and Cherries"
   url: "/tartans/b/bl/blairgowrie-berries-and-cherries/"
 - name: "Blairgowrie Berries and Cherries"
-  url: "/setts/dr1ri3r1g1dp1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr1ri3r1g1dp1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blairgowrie-berries-and-cherries/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRRB](/stripes/bgrrb/).
 
 Part of the [Blairgowrie Berries and Cherries](/tartans/b/bl/blairgowrie-berries-and-cherries/) tartan — the named design grouping this sett with its other cloths.

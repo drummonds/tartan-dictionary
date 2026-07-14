@@ -10,10 +10,10 @@ crumbs:
 - name: "Stewart Grey Fancy"
   url: "/tartans/s/st/stewart-grey-fancy/"
 - name: "Stewart Grey Fancy Tartan"
-  url: "/setts/r1n20r1n3w1k1w1k4n3k1n2y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1n20r1n3w1k1w1k4n3k1n2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-grey-fancy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKWKWBRBR](/stripes/gbkbkwkwbrbr/).
 
 Part of the [Stewart Grey Fancy](/tartans/s/st/stewart-grey-fancy/) tartan — the named design grouping this sett with its other cloths.

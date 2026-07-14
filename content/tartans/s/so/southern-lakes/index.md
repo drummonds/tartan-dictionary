@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db32k2db4k2db8ly29w2k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkbywk/">BKBKBYWK</a></nav>
 Its design is pattern [BKBKBYWK](/stripes/bkbkbywk/) — the page of every tartan sharing this colour sequence.
 
 The **Southern Lakes** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Southern Lakes** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db32k2db4k2db8ly29w2k2/">Southern Lakes</a></td><td><code>DB/32 K2 DB4 K2 DB8 LY29 W2 K/2</code></td><td>128</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db32k2db4k2db8ly29w2k2/"><img src="/variants/s8/db32k2db4k2db8ly29w2k2/sett.png" alt="Southern Lakes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db32k2db4k2db8ly29w2k2/">Southern Lakes</a></td><td><code>DB/32 K2 DB4 K2 DB8 LY29 W2 K/2</code></td><td>128</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><img src="/variants/s8/db32k2db4k2db8ly29w2k2/sett.png" alt="Southern Lakes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/"><circle cx="293.4" cy="120.2" r="4" fill="#3465a4"><title>MacLachlan, Gold Dress</title></circle></a><a href="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/"><circle cx="278.0" cy="149.8" r="4" fill="#3465a4"><title>Nowell/Noel 1951</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="252.1" cy="84.1" r="4" fill="#3465a4"><title>Motherwell F.C.</title></circle></a><a href="/variants/s6/k30t40dy3t5w2t6~x2/"><circle cx="320.1" cy="142.3" r="4" fill="#3465a4"><title>Micron</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.7" cy="81.3" r="4" fill="#3465a4"><title>Bell</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="303.5" cy="88.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s7/k16w30lb36k10lb10k83lb6/"><circle cx="280.8" cy="164.2" r="4" fill="#3465a4"><title>Glasgow Warriors</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/"><circle cx="318.3" cy="120.1" r="4" fill="#3465a4"><title>California Riverside, Uni.</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/"><circle cx="325.7" cy="118.0" r="4" fill="#3465a4"><title>Doune</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="257.8" cy="132.3" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><circle cx="277.9" cy="128.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/"><circle cx="294.3" cy="120.2" r="4" fill="#3465a4"><title>MacLachlan, Gold Dress</title></circle></a><a href="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/"><circle cx="278.8" cy="149.8" r="4" fill="#3465a4"><title>Nowell/Noel 1951</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="252.9" cy="83.9" r="4" fill="#3465a4"><title>Motherwell F.C.</title></circle></a><a href="/variants/s6/k30t40dy3t5w2t6~x2/"><circle cx="321.1" cy="142.4" r="4" fill="#3465a4"><title>Micron</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="282.6" cy="81.2" r="4" fill="#3465a4"><title>Bell</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="304.5" cy="88.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s7/k16w30lb36k10lb10k83lb6/"><circle cx="281.6" cy="164.2" r="4" fill="#3465a4"><title>Glasgow Warriors</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/"><circle cx="319.4" cy="120.2" r="4" fill="#3465a4"><title>California Riverside, Uni.</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/"><circle cx="326.6" cy="118.0" r="4" fill="#3465a4"><title>Doune</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="258.6" cy="132.2" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><circle cx="278.7" cy="128.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

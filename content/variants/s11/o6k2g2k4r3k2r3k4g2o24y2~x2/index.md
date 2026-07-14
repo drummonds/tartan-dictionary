@@ -8,10 +8,10 @@ crumbs:
 - name: "Finnegan"
   url: "/tartans/f/fi/finnegan/"
 - name: "Finnegan"
-  url: "/setts/o6k2g2k4r3k2r3k4g2o24y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o6k2g2k4r3k2r3k4g2o24y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fi/finnegan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKRKRKGKR](/stripes/grgkrkrkgkr/).
 
 Part of the [Finnegan](/tartans/f/fi/finnegan/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1184](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1988 — Finnegan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1184">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A06400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SR #A06400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection. Sample also in Scotspun folder in the Jack Dalgety Collection.</em></li>
-<li>pre 1988 — Finnegan (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4859">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A06400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SR #A06400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Sample in STA's Johnston Collection. Sample also in Scotspun folder in Jack Dalgety Collection.</em></li>
+<li>pre 1988 — Finnegan (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4859/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A06400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SR #A06400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Sample in STA's Johnston Collection. Sample also in Scotspun folder in Jack Dalgety Collection.</em></li>
 </ul>
 </details>
 

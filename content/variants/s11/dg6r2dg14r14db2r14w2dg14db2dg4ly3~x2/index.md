@@ -12,10 +12,10 @@ crumbs:
 - name: "Hunter"
   url: "/tartans/h/hu/hunter-6/"
 - name: "Hunter (USA)"
-  url: "/setts/dg6r2dg14r14db2r14w2dg14db2dg4ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg6r2dg14r14db2r14w2dg14db2dg4ly3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hunter-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBRWGBGY](/stripes/grgrbrwgbgy/).
 
 Part of the [Hunter](/tartans/h/hu/hunter-6/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1790](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — Hunter (USA) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1790">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><br><em>Colour change by Peter MacDonald, with R & B reversed, for some US Clan Hunter members.</em></li>
-<li>1984 — Hunter (USA) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5230">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><br><em>Colour change by Peter MacDonald, with R & B reversed, for some US Clan Hunter members.</em></li>
+<li>1984 — Hunter (USA) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5230/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><br><em>Colour change by Peter MacDonald, with R & B reversed, for some US Clan Hunter members.</em></li>
 </ul>
 </details>
 

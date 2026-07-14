@@ -8,10 +8,10 @@ crumbs:
 - name: "Java St Andrew Society hunting"
   url: "/tartans/j/ja/java-st-andrew-society-hunting/"
 - name: "Java St Andrew Society hunting"
-  url: "/setts/db50dg26k9dg4w2r2dg10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db50dg26k9dg4w2r2dg10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ja/java-st-andrew-society-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGWRG](/stripes/bgkgwrg/).
 
 Part of the [Java St Andrew Society hunting](/tartans/j/ja/java-st-andrew-society-hunting/) tartan — the named design grouping this sett with its other cloths.

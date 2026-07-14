@@ -28,16 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k1r1k1db7k1g1k1~x8/">Eglinton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k1r1k1db7k1g1k1~x8/"><img src="/variants/s7/k1r1k1db7k1g1k1~x8/sett.png" alt="Eglinton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k4r5k4db28k4g5k4/">Montgomery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k4r5k4db28k4g5k4/"><img src="/variants/s7/k4r5k4db28k4g5k4/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/k4r5k4dr28k4g5k4/">Montgomery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k4r5k4dr28k4g5k4/"><img src="/variants/s7/k4r5k4dr28k4g5k4/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/k4r5k4dp28k4g5k4~x2/">Montgomrie/Montgomery of Eglinton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k4r5k4dp28k4g5k4~x2/"><img src="/variants/s7/k4r5k4dp28k4g5k4~x2/sett.png" alt="Montgomrie/Montgomery of Eglinton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/eg/eglinton/">Eglinton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eg/eglinton/"><img src="/variants/s7/k1r1k1db7k1g1k1~x8/sett.png" alt="Eglinton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/montgomery/">Montgomery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montgomery/"><img src="/variants/s7/k4r5k4db28k4g5k4/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

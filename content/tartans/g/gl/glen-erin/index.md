@@ -6,7 +6,12 @@ crumbs:
   url: "/"
 - name: "Clan Glen"
   url: "/clan/glen/"
+aliases:
+- "/setts/db16dg8t8dg8db16r3do3g3/"
+- "/setts/db16dg8dbi8dg8db16r3dy3g3/"
+- "/setts/db16g8dbi8g8db16r3o3b3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgbrbg/">BGBGBRBG</a></nav>
 A tartan of [Clan Glen](/clan/glen/).
 Its design is pattern [BGBGBRBG](/stripes/bgbgbrbg/) — the page of every tartan sharing this colour sequence.
 
@@ -18,12 +23,12 @@ The **Glen Erin** tartan groups 3 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db16dg8t8dg8db16r3do3g3/">Glen Erin</a> ★</td><td><code>DB/32 DG16 T16 DG16 DB32 R6 DO6 G/6</code></td><td>222</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db16dg8t8dg8db16r3do3g3/"><img src="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/sett.png" alt="Glen Erin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db16dg8dbi8dg8db16r3dy3g3/">Canadian Tartan</a></td><td><code>DB/32 DG16 DBi16 DG16 DB32 R6 DY6 G/6</code></td><td>—</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db16dg8dbi8dg8db16r3dy3g3/"><img src="/variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/sett.png" alt="Canadian Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db16g8dbi8g8db16r3o3b3/">Glen Erin</a></td><td><code>DB/32 G16 DBi16 G16 DB32 R6 O6 B/6</code></td><td>—</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db16g8dbi8g8db16r3o3b3/"><img src="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/sett.png" alt="Glen Erin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/">Glen Erin</a> ★</td><td><code>DB/32 DG16 T16 DG16 DB32 R6 DO6 G/6</code></td><td>222</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/"><img src="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/sett.png" alt="Glen Erin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/">Canadian Tartan</a></td><td><code>DB/16 DG8 DBi8 DG8 DB16 R3 DY3 G/3</code></td><td>—</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/"><img src="/variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/sett.png" alt="Canadian Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/">Glen Erin</a></td><td><code>DB/16 G8 DBi8 G8 DB16 R3 O3 B/3</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/"><img src="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/sett.png" alt="Glen Erin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="173.6" cy="242.8" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.4" cy="214.6" r="4" fill="#3465a4"><title>Patel</title></circle></a><a href="/variants/s7/db25r10db25w8o6g8y5~x2/"><circle cx="205.1" cy="215.1" r="4" fill="#3465a4"><title>Barneys</title></circle></a><a href="/variants/s11/t9db2lb2t10db4y8r4t7lb2db2y2~x4/"><circle cx="232.6" cy="251.6" r="4" fill="#3465a4"><title>Healy</title></circle></a><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/"><circle cx="317.8" cy="217.4" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s8/db3dg10db5y1db10k1dr4w1~x4/"><circle cx="270.8" cy="194.0" r="4" fill="#3465a4"><title>Cot-Hach l)</title></circle></a><a href="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/"><circle cx="136.3" cy="215.8" r="4" fill="#3465a4"><title>Adamson</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="249.0" cy="221.0" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/"><circle cx="215.5" cy="176.4" r="4" fill="#3465a4"><title>Connor</title></circle></a><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><circle cx="180.3" cy="244.8" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><circle cx="227.8" cy="251.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="173.6" cy="242.6" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.6" cy="214.5" r="4" fill="#3465a4"><title>Patel</title></circle></a><a href="/variants/s7/db25r10db25w8o6g8y5~x2/"><circle cx="205.4" cy="214.9" r="4" fill="#3465a4"><title>Barneys</title></circle></a><a href="/variants/s11/t9db2lb2t10db4y8r4t7lb2db2y2~x4/"><circle cx="232.6" cy="251.5" r="4" fill="#3465a4"><title>Healy</title></circle></a><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/"><circle cx="318.3" cy="217.4" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s8/db3dg10db5y1db10k1dr4w1~x4/"><circle cx="271.2" cy="194.0" r="4" fill="#3465a4"><title>Cot-Hach l)</title></circle></a><a href="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/"><circle cx="136.2" cy="215.5" r="4" fill="#3465a4"><title>Adamson</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="249.2" cy="221.0" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/"><circle cx="215.7" cy="176.3" r="4" fill="#3465a4"><title>Connor</title></circle></a><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><circle cx="180.4" cy="244.6" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><circle cx="228.0" cy="251.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

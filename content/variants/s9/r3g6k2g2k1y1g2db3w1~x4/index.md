@@ -12,10 +12,10 @@ crumbs:
 - name: "Bisset"
   url: "/tartans/b/bi/bisset/"
 - name: "Bisset Clan Tartan"
-  url: "/setts/r3g6k2g2k1y1g2db3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3g6k2g2k1y1g2db3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bi/bisset/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGKGGBW](/stripes/rgkgkggbw/).
 
 Part of the [Bisset](/tartans/b/bi/bisset/) tartan — the named design grouping this sett with its other cloths.

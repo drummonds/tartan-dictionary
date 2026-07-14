@@ -12,15 +12,15 @@ crumbs:
 - name: "Weir"
   url: "/tartans/w/we/weir/"
 - name: "Weir"
-  url: "/setts/g18k1lb3k1g3k8db18k1lo1k5lo1k1db18k8g2k1lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g18k1lb3k1g3k8db18k1lo1k5lo1k1db18k8g2k1lb2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKWKGKBKYKYKBKGKWKGKBKYKYKBKGKWK](/stripes/gkwkgkbkykykbkgkwkgkbkykykbkgkwk/).
+provenance below. It is one weaving of the [sett](/tartans/w/we/weir/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKWKGKBKYKYKBKGKW](/stripes/gkwkgkbkykykbkgkw/).
 
 Part of the [Weir](/tartans/w/we/weir/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4584](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4584)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4584](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1880 — Weir (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4584">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C8CFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #3C8CFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C89800"></span><br><em>Thread count from Scottish Tartans Society Sindex and JCT Sindex files. This is the same as Hope Vere. Note: There is great confusion and a host of conflicting claims on various versions of Weir and Hope Weir. The closest to the original Clans Originaux is at #320 (original Scottish Tartans Authority reference).</em></li>
-<li>1880 — Weir (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4254">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C8CFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #3C8CFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C89800"></span><br><em>Thread count from STS Sindex and JCT Sindex files. This is the same as Hope Vere. Note: There is great confusion and a host of conflicting claims on various versions of Weir and Hope Weir/Vere. The closest to the original Clans Originaux is at #320.</em></li>
+<li>1880 — Weir (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4254/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C8CFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #3C8CFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C89800"></span><br><em>Thread count from STS Sindex and JCT Sindex files. This is the same as Hope Vere. Note: There is great confusion and a host of conflicting claims on various versions of Weir and Hope Weir/Vere. The closest to the original Clans Originaux is at #320.</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4254
 
 ## Thread count
-G/36 K2 LB6 K2 G6 K16 DB36 K2 LO2 K10 LO2 K2 DB36 K16 G4 K2 LB4 K2 G4 K16 DB36 K2 LO2 K10 LO2 K2 DB36 K16 G6 K2 LB6 K/2
+G/36 K2 LB6 K2 G6 K16 DB36 K2 LO2 K10 LO2 K2 DB36 K16 G4 K2 LB/4
 
-One full sett is **618 threads**.
+One full sett is **328 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/36 K2 LB6 K2 G6 K16 DB36 K2 LO2 K10 LO2 K2 DB36 K16 G4 K2 LB4 K2 G4 K16 DB36 K2 LO2 K10 LO2 K2 DB36 K16 G6 K2 LB6 K/2 — 618 threads; it folds to the canonical 328-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **618 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/36 K2 LB6 K2 G6 K16 DB36 K2 LO2 K10 LO2 K2 DB36 K16 G4 K2 LB4 K2 G4 K16 DB36 K2 LO2 K10 LO2 K2 DB36 K16 G6 K2 LB6 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/36 K2 LB6 K2 G6 K16 DB36 K2 LO2 K10 LO2 K2 DB36 K16 G4 K2 LB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

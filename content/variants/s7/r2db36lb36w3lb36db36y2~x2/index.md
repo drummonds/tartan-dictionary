@@ -12,10 +12,10 @@ crumbs:
 - name: "MacKerrell"
   url: "/tartans/m/ma/mackerrell/"
 - name: "MacKerrell"
-  url: "/setts/r2db36lb36w3lb36db36y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2db36lb36w3lb36db36y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackerrell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWWWBR](/stripes/gbwwwbr/).
 
 Part of the [MacKerrell](/tartans/m/ma/mackerrell/) tartan — the named design grouping this sett with its other cloths.

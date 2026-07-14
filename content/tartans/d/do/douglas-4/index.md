@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/douglas/"
 - name: "Douglas"
   url: "/families/douglas/"
+aliases:
+- "/setts/k7lb3o30b30w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwrbw/">KWRBW</a></nav>
 A tartan of the [Douglas](/families/douglas/) family.
 Its design is pattern [KWRBW](/stripes/kwrbw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Douglas** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k7lb3o30b30w3/">Douglas</a></td><td><code>K/14 LB6 O60 B60 W/6</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k7lb3o30b30w3/"><img src="/variants/s5/k7lb3o30b30w3~x2/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k7lb3o30b30w3~x2/">Douglas</a></td><td><code>K/14 LB6 O60 B60 W/6</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k7lb3o30b30w3~x2/"><img src="/variants/s5/k7lb3o30b30w3~x2/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db30r3w10g14r3o30~x2/"><circle cx="148.8" cy="209.5" r="4" fill="#3465a4"><title>Cercle de Fermières Varennes</title></circle></a><a href="/variants/s6/w2k1o10k6t12ly2~x2/"><circle cx="130.0" cy="176.8" r="4" fill="#3465a4"><title>Soroptimist International (Corporate</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="209.8" cy="156.9" r="4" fill="#3465a4"><title>Prehospital EMS</title></circle></a><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="295.9" cy="210.3" r="4" fill="#3465a4"><title>Bagpipe Shop</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="169.0" cy="139.1" r="4" fill="#3465a4"><title>Dignan Corporate School</title></circle></a><a href="/variants/s6/r2o8db2lb4k4lb1~x6/"><circle cx="123.6" cy="207.3" r="4" fill="#3465a4"><title>Thomson's, Fancy</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.4" cy="143.9" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="243.8" cy="215.4" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s7/n3db1n11w1k5t14ly3~x4/"><circle cx="164.8" cy="167.8" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.6" cy="221.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="214.9" cy="197.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db30r3w10g14r3o30~x2/"><circle cx="148.9" cy="209.2" r="4" fill="#3465a4"><title>Cercle de Fermières Varennes</title></circle></a><a href="/variants/s6/w2k1o10k6t12ly2~x2/"><circle cx="130.3" cy="176.6" r="4" fill="#3465a4"><title>Soroptimist International (Corporate</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="210.4" cy="156.7" r="4" fill="#3465a4"><title>Prehospital EMS</title></circle></a><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="296.3" cy="210.3" r="4" fill="#3465a4"><title>Bagpipe Shop</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="169.4" cy="138.8" r="4" fill="#3465a4"><title>Dignan Corporate School</title></circle></a><a href="/variants/s6/r2o8db2lb4k4lb1~x6/"><circle cx="123.8" cy="207.0" r="4" fill="#3465a4"><title>Thomson's, Fancy</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.8" cy="143.6" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="244.2" cy="215.3" r="4" fill="#3465a4"><title>Jamieson, Robert</title></circle></a><a href="/variants/s7/n3db1n11w1k5t14ly3~x4/"><circle cx="165.1" cy="167.6" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.8" cy="221.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="215.2" cy="197.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/o5lb13do4r4do27lb3do4o5/">Daks, Blue Loden</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/o5lb13do4r4do27lb3do4o5/"><img src="/variants/s8/o5lb13do4r4do27lb3do4o5/sett.png" alt="Daks, Blue Loden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/daks-blue-loden/">Daks, Blue Loden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daks-blue-loden/"><img src="/variants/s8/o5lb13do4r4do27lb3do4o5/sett.png" alt="Daks, Blue Loden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/">Longniddry Dress, Red (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><img src="/variants/s8/r35db2w2db2r4dr10w25r3~x2/sett.png" alt="Longniddry Dress, Red (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/longniddry-dress/">Longniddry Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/longniddry-dress/"><img src="/variants/s8/r35db2w2db2r4dr10w25r3~x2/sett.png" alt="Longniddry Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

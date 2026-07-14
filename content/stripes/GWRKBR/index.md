@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g5w1r5k5db43r1~x2/">Michael (John) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g5w1r5k5db43r1~x2/"><img src="/variants/s6/g5w1r5k5db43r1~x2/sett.png" alt="Michael (John) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/michael/">Michael</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/michael/"><img src="/variants/s6/g5w1r5k5db43r1~x2/sett.png" alt="Michael sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

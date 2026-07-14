@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y2b16g2b2g16dp2w15lb2w2lb16y2~x2/">Robinson, Barbara Ann (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y2b16g2b2g16dp2w15lb2w2lb16y2~x2/"><img src="/variants/s11/y2b16g2b2g16dp2w15lb2w2lb16y2~x2/sett.png" alt="Robinson, Barbara Ann (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robinson-barbara-ann-2/">Robinson, Barbara Ann</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robinson-barbara-ann-2/"><img src="/variants/s11/y2b16g2b2g16dp2w15lb2w2lb16y2~x2/sett.png" alt="Robinson, Barbara Ann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

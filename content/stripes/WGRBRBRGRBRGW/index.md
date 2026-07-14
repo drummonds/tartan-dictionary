@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/">Robertson 1820 - White line</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/"><img src="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/sett.png" alt="Robertson 1820 - White line sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robertson-2/">Robertson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-2/"><img src="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/sett.png" alt="Robertson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

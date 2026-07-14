@@ -10,10 +10,10 @@ crumbs:
 - name: "Stinson Ancient U.S.A."
   url: "/tartans/s/st/stinson-ancient-u-s-a/"
 - name: "Stinson Ancient U.S.A. Tartan"
-  url: "/setts/k7db20lb2r6lb2k20y3g20db27r3db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7db20lb2r6lb2k20y3g20db27r3db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stinson-ancient-u-s-a/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGGKWRWBK](/stripes/brbggkwrwbk/).
 
 Part of the [Stinson Ancient U.S.A.](/tartans/s/st/stinson-ancient-u-s-a/) tartan — the named design grouping this sett with its other cloths.

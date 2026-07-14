@@ -12,10 +12,10 @@ crumbs:
 - name: "Leach Hunting"
   url: "/tartans/l/le/leach-hunting/"
 - name: "Leach Hunting"
-  url: "/setts/k3lb1g21k2dr3lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3lb1g21k2dr3lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/leach-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGKBW](/stripes/kwgkbw/).
 
 Part of the [Leach Hunting](/tartans/l/le/leach-hunting/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2075](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/1995 — Leach Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2075">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#501400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HT #501400"></span><br><em>The name is that of physicians and has been in Scotland for centuries. Can be worn by all people with all spellings of the name Leach.</em></li>
-<li>pre 1997 — Leach Htg (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2357">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#501400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HT #501400"></span><br><em>Correct version of Leach/Leitch Htg not known at this stage (17.11.02). Originally the name given to physicians and has been in Scotland for centuries. Can be worn by all people with all spellings of the name Leach.</em></li>
+<li>pre 1997 — Leach Htg (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2357/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#501400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HT #501400"></span><br><em>Correct version of Leach/Leitch Htg not known at this stage (17.11.02). Originally the name given to physicians and has been in Scotland for centuries. Can be worn by all people with all spellings of the name Leach.</em></li>
 </ul>
 </details>
 

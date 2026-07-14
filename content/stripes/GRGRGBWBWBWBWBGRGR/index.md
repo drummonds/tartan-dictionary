@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24y3~x2/">Chinese Scottish</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24y3~x2/"><img src="/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24y3~x2/sett.png" alt="Chinese Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chinese-scottish-2/">Chinese Scottish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chinese-scottish-2/"><img src="/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24y3~x2/sett.png" alt="Chinese Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

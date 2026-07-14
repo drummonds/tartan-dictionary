@@ -12,10 +12,10 @@ crumbs:
 - name: "Daughter of Mull"
   url: "/tartans/d/da/daughter-of-mull/"
 - name: "Daughter of Mull"
-  url: "/setts/dp1lb1g1w1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp1lb1g1w1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/daughter-of-mull/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWR](/stripes/bwgwr/).
 
 Part of the [Daughter of Mull](/tartans/d/da/daughter-of-mull/) tartan — the named design grouping this sett with its other cloths.

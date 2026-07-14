@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db3g6y1r3~x10/">Delroeux, John Michael (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db3g6y1r3~x10/"><img src="/variants/s4/db3g6y1r3~x10/sett.png" alt="Delroeux, John Michael (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/delroeux-john-michael/">Delroeux, John Michael</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/delroeux-john-michael/"><img src="/variants/s4/db3g6y1r3~x10/sett.png" alt="Delroeux, John Michael sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,7 +15,7 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/c/cl/clergy-11/">Clergy</a> ★</td><td>1880</td><td>2</td><td>3</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-11/"><img src="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-11/"><img src="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clergy-3/">Clergy 3</a></td><td>—</td><td>1</td><td>1</td><td>0.47</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-3/"><img src="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/sett.png" alt="Clergy 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clergy-6/">Clergy</a></td><td>2002</td><td>1</td><td>1</td><td>1.70</td></tr>
@@ -31,7 +31,7 @@ crumbs:
 <tr><td><a href="/tartans/c/cl/clergy-3/">Clergy</a></td><td>—</td><td>1</td><td>1</td><td>4.63</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-3/"><img src="/variants/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clergy-2/">Clergy</a></td><td>—</td><td>1</td><td>2</td><td>8.65</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-2/"><img src="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-2/"><img src="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clergy-10/">Clergy</a></td><td>—</td><td>1</td><td>1</td><td>8.97</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clergy-10/"><img src="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clergy/">Clergy</a></td><td>—</td><td>1</td><td>1</td><td>9.27</td></tr>

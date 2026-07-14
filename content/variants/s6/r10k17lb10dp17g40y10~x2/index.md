@@ -8,10 +8,10 @@ crumbs:
 - name: "Gallowater, Original"
   url: "/tartans/g/ga/gallowater-original/"
 - name: "Gallowater, Original"
-  url: "/setts/r10k17lb10dp17g40y10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r10k17lb10dp17g40y10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ga/gallowater-original/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWKR](/stripes/ggbwkr/).
 
 Part of the [Gallowater, Original](/tartans/g/ga/gallowater-original/) tartan — the named design grouping this sett with its other cloths.

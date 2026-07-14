@@ -10,15 +10,15 @@ crumbs:
 - name: "Hebrides, Outer"
   url: "/tartans/h/he/hebrides-outer/"
 - name: "Hebrides, Outer"
-  url: "/setts/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3dy1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3dy1r3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGRGRGRGGRGGRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgrggrggrgrgrgrgrgrgr/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebrides-outer/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGRGRGRGGR](/stripes/grgrgrgrgrgrgrggr/).
 
 Part of the [Hebrides, Outer](/tartans/h/he/hebrides-outer/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1674](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1674)
 
@@ -47,9 +47,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2035
 
 ## Thread count
-G/18 R4 G6 R40 G4 R2 G4 R4 G40 R4 G6 R4 G4 R44 G6 DY2 R6 DY2 G6 R44 G4 R4 G6 R4 G40 R4 G4 R2 G4 R40 G6 R/4
+G/18 R4 G6 R40 G4 R2 G4 R4 G40 R4 G6 R4 G4 R44 G6 DY2 R/6
 
-One full sett is **722 threads**.
+One full sett is **372 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/18 R4 G6 R40 G4 R2 G4 R4 G40 R4 G6 R4 G4 R44 G6 DY2 R6 DY2 G6 R44 G4 R4 G6 R4 G40 R4 G4 R2 G4 R40 G6 R/4 — 722 threads; it folds to the canonical 372-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -58,7 +60,7 @@ One full sett is **722 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/18 R4 G6 R40 G4 R2 G4 R4 G40 R4 G6 R4 G4 R44 G6 DY2 R6 DY2 G6 R44 G4 R4 G6 R4 G40 R4 G4 R2 G4 R40 G6 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/18 R4 G6 R40 G4 R2 G4 R4 G40 R4 G6 R4 G4 R44 G6 DY2 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

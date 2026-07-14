@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267/">Scottish Bear (Mathan Albannach)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267/"><img src="/variants/s11/dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267/sett.png" alt="Scottish Bear (Mathan Albannach) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-bear/">Scottish Bear</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-bear/"><img src="/variants/s11/dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267/sett.png" alt="Scottish Bear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/">Down County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><img src="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/sett.png" alt="Down County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/down-county-crest-range/">Down County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/down-county-crest-range/"><img src="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/sett.png" alt="Down County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

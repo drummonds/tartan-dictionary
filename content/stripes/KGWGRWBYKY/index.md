@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/">Bird Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/"><img src="/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/sett.png" alt="Bird Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bi/bird-2/">Bird</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/bird-2/"><img src="/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/sett.png" alt="Bird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

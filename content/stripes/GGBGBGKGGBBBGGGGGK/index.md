@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2~x2/">Harmon Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2~x2/"><img src="/variants/s18/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2~x2/sett.png" alt="Harmon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harmon-hunting/">Harmon Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harmon-hunting/"><img src="/variants/s18/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2~x2/sett.png" alt="Harmon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

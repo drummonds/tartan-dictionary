@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3wi6t20dt2b19w3~x2~wi3600000-t2607245-dt1001120-b2409265/">Tartan Explorer, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3wi6t20dt2b19w3~x2~wi3600000-t2607245-dt1001120-b2409265/"><img src="/variants/s6/k3wi6t20dt2b19w3~x2~wi3600000-t2607245-dt1001120-b2409265/sett.png" alt="Tartan Explorer, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tartan-explorer-the/">Tartan Explorer, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-explorer-the/"><img src="/variants/s6/k3wi6t20dt2b19w3~x2~wi3600000-t2607245-dt1001120-b2409265/sett.png" alt="Tartan Explorer, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

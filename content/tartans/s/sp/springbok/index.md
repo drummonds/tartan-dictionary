@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/springbok/"
 - name: "Springbok"
   url: "/families/springbok/"
+aliases:
+- "/setts/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggggggwggyyw/">GGGGGGWGGYYW</a></nav>
 A tartan of the [Springbok](/families/springbok/) family.
 Its design is pattern [GGGGGGWGGYYW](/stripes/ggggggwggyyw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Springbok** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2/">Springbok</a></td><td><code>DG/6 DGi4 DG80 G4 DG8 G16 W2 DGi8 DG4 LY8 LYi8 W/4</code></td><td>294</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2/"><img src="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/sett.png" alt="Springbok sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/">Springbok</a></td><td><code>DG/6 DGi4 DG80 G4 DG8 G16 W2 DGi8 DG4 LY8 LYi8 W/4</code></td><td>294</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/"><img src="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/sett.png" alt="Springbok sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/"><circle cx="338.9" cy="168.6" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s9/dp4g24dg6lg4dg4lg4dg44lo1w4~g2408144-lg3105139/"><circle cx="340.2" cy="111.7" r="4" fill="#3465a4"><title>Macmillan Cancer Support</title></circle></a><a href="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/"><circle cx="448.4" cy="106.5" r="4" fill="#3465a4"><title>Heather Isle</title></circle></a><a href="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/"><circle cx="384.9" cy="60.4" r="4" fill="#3465a4"><title>Wallenberg, Nicolas</title></circle></a><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dp3~x2/"><circle cx="395.2" cy="107.8" r="4" fill="#3465a4"><title>Kuehle Family Hunting</title></circle></a><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dr3~x2/"><circle cx="396.8" cy="108.7" r="4" fill="#3465a4"><title>Kuehle Hunting</title></circle></a><a href="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/"><circle cx="418.7" cy="66.1" r="4" fill="#3465a4"><title>Original Tartan Ltd</title></circle></a><a href="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/"><circle cx="444.1" cy="120.3" r="4" fill="#3465a4"><title>Hayden</title></circle></a><circle cx="388.6" cy="84.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/"><circle cx="339.5" cy="168.7" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s9/dp4g24dg6lg4dg4lg4dg44lo1w4~g2408144-lg3105139/"><circle cx="340.8" cy="111.7" r="4" fill="#3465a4"><title>Macmillan Cancer Support</title></circle></a><a href="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/"><circle cx="449.3" cy="106.7" r="4" fill="#3465a4"><title>Heather Isle</title></circle></a><a href="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/"><circle cx="385.8" cy="60.5" r="4" fill="#3465a4"><title>Wallenberg, Nicolas</title></circle></a><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dp3~x2/"><circle cx="396.0" cy="108.0" r="4" fill="#3465a4"><title>Kuehle Family Hunting</title></circle></a><a href="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dr3~x2/"><circle cx="397.6" cy="108.8" r="4" fill="#3465a4"><title>Kuehle Hunting</title></circle></a><a href="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/"><circle cx="419.7" cy="66.3" r="4" fill="#3465a4"><title>Original Tartan Ltd</title></circle></a><a href="/variants/s10/g60dg5w5y5dg9db4dg5g5dg1y5~x2/"><circle cx="444.9" cy="120.5" r="4" fill="#3465a4"><title>Hayden</title></circle></a><circle cx="389.4" cy="84.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

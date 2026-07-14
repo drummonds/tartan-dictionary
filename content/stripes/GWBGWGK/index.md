@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g18w55n19g20w2g20k5/">Michigan State University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g18w55n19g20w2g20k5/"><img src="/variants/s7/g18w55n19g20w2g20k5/sett.png" alt="Michigan State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/michigan-state-university/">Michigan State University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/michigan-state-university/"><img src="/variants/s7/g18w55n19g20w2g20k5/sett.png" alt="Michigan State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

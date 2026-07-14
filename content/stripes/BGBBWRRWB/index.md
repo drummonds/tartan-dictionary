@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n8g4n8db2lb8r1m1lb8db2~n2203265-db0705267-r2209032-m2610337/">Cole-Dale (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n8g4n8db2lb8r1m1lb8db2~n2203265-db0705267-r2209032-m2610337/"><img src="/variants/s9/n8g4n8db2lb8r1m1lb8db2~n2203265-db0705267-r2209032-m2610337/sett.png" alt="Cole-Dale (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cole-dale/">Cole-Dale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cole-dale/"><img src="/variants/s9/n8g4n8db2lb8r1m1lb8db2~n2203265-db0705267-r2209032-m2610337/sett.png" alt="Cole-Dale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

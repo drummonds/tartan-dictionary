@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Guard of Oman 4th Band Squadro"
   url: "/tartans/r/ro/royal-guard-of-oman-4th-band-squadro/"
 - name: "Royal Guard of Oman 4th Band Squadron"
-  url: "/setts/g38r24k9r9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g38r24k9r9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-guard-of-oman-4th-band-squadro/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKR](/stripes/grkr/).
 
 Part of the [Royal Guard of Oman 4th Band Squadro](/tartans/r/ro/royal-guard-of-oman-4th-band-squadro/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10991](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>20/10/2010 — Royal Guard of Oman 4th Band Squadron (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10991">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Created for the 4th Band Squadron of the Royal Guard of Oman ladies band, to be used for fly plaids and pipers' plaids.</em></li>
-<li>2014 — Royal Guard of Oman 4th Band Squadro (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10991">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Created for the 4th Band Squadron of the Royal Guard of Oman ladies band, to be used for fly plaids and pipers' plaids.</em></li>
+<li>2014 — Royal Guard of Oman 4th Band Squadro (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10991/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Created for the 4th Band Squadron of the Royal Guard of Oman ladies band, to be used for fly plaids and pipers' plaids.</em></li>
 </ul>
 </details>
 

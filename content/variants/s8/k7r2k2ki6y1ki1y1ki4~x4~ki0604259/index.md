@@ -8,10 +8,10 @@ crumbs:
 - name: "Printing Industries of America"
   url: "/tartans/p/pr/printing-industries-of-america/"
 - name: "Printing Industries of America"
-  url: "/setts/k7r2k2ki6y1ki1y1ki4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7r2k2ki6y1ki1y1ki4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/printing-industries-of-america/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKKRK](/stripes/kgkgkkrk/).
 
 Part of the [Printing Industries of America](/tartans/p/pr/printing-industries-of-america/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3413](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1999 — Printing Industries of America (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3413">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DDB #000034"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><br><em>Designed by Robert Hall and modified by Phil Smith.</em></li>
-<li>1999 — Printing Industries of America (Corp (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5446">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DDB #000034"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><br><em>Designed by Robert Hall and modified by Phil Smith.</em></li>
+<li>1999 — Printing Industries of America (Corp (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5446/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DDB #000034"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><br><em>Designed by Robert Hall and modified by Phil Smith.</em></li>
 </ul>
 </details>
 

@@ -11,7 +11,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/f/fo/fong-wedding/"><img src="/variants/s4/r21b43dt86w10~b1511266-dt1203284/sett.png" alt="Fong Wedding" width="140"><br><strong>Fong Wedding (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fo/fontainbleu/"><img src="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/sett.png" alt="Fontainbleu" width="140"><br><strong>Fontainbleu (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fo/forand/"><img src="/variants/s5/k100r1n10db10y2~x2/sett.png" alt="Forand" width="140"><br><strong>Forand (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/f/fo/forbes/"><img src="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/sett.png" alt="Forbes" width="140"><br><strong>Forbes (2)</strong></a><div class="clan-territory">Forbes</div></li>
+<li><a class="tartan" href="/tartans/f/fo/forbes/"><img src="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/sett.png" alt="Forbes" width="140"><br><strong>Forbes (2)</strong></a><div class="clan-territory">Forbes</div></li>
 <li><a class="tartan" href="/tartans/f/fo/forbes-2/"><img src="/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/sett.png" alt="Forbes" width="140"><br><strong>Forbes (3)</strong></a><div class="clan-territory">Forbes</div></li>
 <li><a class="tartan" href="/tartans/f/fo/forbes-3/"><img src="/variants/s7/db1k1db6k6g6k1w1~x2/sett.png" alt="Forbes" width="140"><br><strong>Forbes (1)</strong></a><div class="clan-territory">Forbes</div></li>
 <li><a class="tartan" href="/tartans/f/fo/forbes-4/"><img src="/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/sett.png" alt="Forbes" width="140"><br><strong>Forbes (1)</strong></a><div class="clan-territory">Forbes</div></li>
@@ -33,8 +33,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/f/fo/forbo-nairn-2/"><img src="/variants/s8/g8k7db12r2db12k7g8lb2~x4~db1406275/sett.png" alt="Forbo Nairn" width="140"><br><strong>Forbo Nairn (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fo/ford-etal/"><img src="/variants/s8/k3w1r16k1g21t9k6w1~x4/sett.png" alt="Ford &amp; Etal" width="140"><br><strong>Ford & Etal (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fo/forde/"><img src="/variants/s10/g30y2k3r2k2r2k3y2k2g4~x2/sett.png" alt="Forde" width="140"><br><strong>Forde (4)</strong></a></li>
-<li><a class="tartan" href="/tartans/f/fo/forfar/"><img src="/variants/s10/lb3dy1lb23w20ly1w4db22lb4db4r1~x2/sett.png" alt="Forfar" width="140"><br><strong>Forfar (2)</strong></a><div class="clan-territory">Forfar</div></li>
-<li><a class="tartan" href="/tartans/f/fo/forfar-farmington/"><img src="/variants/s12/dg5w3dg15r3dg15y3k10dg19db3k3db3dg3~x2/sett.png" alt="Forfar Farmington" width="140"><br><strong>Forfar Farmington (1)</strong></a><div class="clan-territory">Clan Forfar</div></li>
+<li><a class="tartan" href="/tartans/f/fo/forfar/"><img src="/variants/s10/lb3dy1lb23w20ly1w4db22lb4db4r1~x2/sett.png" alt="Forfar" width="140"><br><strong>Forfar (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fo/forfar-farmington/"><img src="/variants/s12/dg5w3dg15r3dg15y3k10dg19db3k3db3dg3~x2/sett.png" alt="Forfar Farmington" width="140"><br><strong>Forfar Farmington (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/f/fo/forget/"><img src="/variants/s6/g8y1g8y12r1y1~x4/sett.png" alt="Forget" width="140"><br><strong>Forget (2)</strong></a><div class="clan-territory">Forget</div></li>
 <li><a class="tartan" href="/tartans/f/fo/forget-2/"><img src="/variants/s6/r42k2w2k18w2k5~x2/sett.png" alt="Forget" width="140"><br><strong>Forget (1)</strong></a><div class="clan-territory">Forget</div></li>
 <li><a class="tartan" href="/tartans/f/fo/forres/"><img src="/variants/s6/g2lo1g5k4do5dr1~x4/sett.png" alt="Forres" width="140"><br><strong>Forres (1)</strong></a></li>

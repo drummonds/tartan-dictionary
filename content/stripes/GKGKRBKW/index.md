@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y1k6g32k12r12b9k6w1~x2/">McGeachie (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y1k6g32k12r12b9k6w1~x2/"><img src="/variants/s8/y1k6g32k12r12b9k6w1~x2/sett.png" alt="McGeachie (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcgeachie/">McGeachie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcgeachie/"><img src="/variants/s8/y1k6g32k12r12b9k6w1~x2/sett.png" alt="McGeachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

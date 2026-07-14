@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/">Morrison</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/"><img src="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/sett.png" alt="Morrison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g9w4g15r17k5r7k5r32g5/">Morrison LC</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g9w4g15r17k5r7k5r32g5/"><img src="/variants/s9/g9w4g15r17k5r7k5r32g5/sett.png" alt="Morrison LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/morrison/">Morrison</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morrison/"><img src="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/sett.png" alt="Morrison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/morrison-lc/">Morrison LC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morrison-lc/"><img src="/variants/s9/g9w4g15r17k5r7k5r32g5/sett.png" alt="Morrison LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

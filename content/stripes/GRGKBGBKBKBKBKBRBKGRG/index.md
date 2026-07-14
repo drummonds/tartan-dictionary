@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/">Allen (1998)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><img src="/variants/s21/g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/sett.png" alt="Allen (1998) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/">Allen, Christopher Holler</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/"><img src="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/sett.png" alt="Allen, Christopher Holler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/allen-3/">Allen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allen-3/"><img src="/variants/s21/g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/sett.png" alt="Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/allen-christopher-holler/">Allen, Christopher Holler</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allen-christopher-holler/"><img src="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/sett.png" alt="Allen, Christopher Holler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

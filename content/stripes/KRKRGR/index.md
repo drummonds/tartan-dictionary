@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k8r1k8r11y1r1~x4/">Swanstrom (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k8r1k8r11y1r1~x4/"><img src="/variants/s6/k8r1k8r11y1r1~x4/sett.png" alt="Swanstrom (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sw/swanstrom/">Swanstrom</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/swanstrom/"><img src="/variants/s6/k8r1k8r11y1r1~x4/sett.png" alt="Swanstrom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

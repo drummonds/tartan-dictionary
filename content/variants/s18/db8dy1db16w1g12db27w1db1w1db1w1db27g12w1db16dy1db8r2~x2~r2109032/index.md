@@ -8,10 +8,10 @@ crumbs:
 - name: "World Youth Congress"
   url: "/tartans/w/wo/world-youth-congress-2/"
 - name: "World Youth Congress"
-  url: "/setts/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wo/world-youth-congress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWGBWBWBWBGWBGBR](/stripes/bgbwgbwbwbwbgwbgbr/).
 
 Part of the [World Youth Congress](/tartans/w/wo/world-youth-congress-2/) tartan — the named design grouping this sett with its other cloths.

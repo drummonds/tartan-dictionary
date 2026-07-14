@@ -8,10 +8,10 @@ crumbs:
 - name: "NewGeneration Alchemy Inc"
   url: "/tartans/n/ne/newgeneration-alchemy-inc/"
 - name: "NewGeneration Alchemy (NGA) Inc"
-  url: "/setts/k31r2k10db1k1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k31r2k10db1k1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/newgeneration-alchemy-inc/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKBKW](/stripes/krkbkw/).
 
 Part of the [NewGeneration Alchemy Inc](/tartans/n/ne/newgeneration-alchemy-inc/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11058](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>05/06/2013 — NewGeneration Alchemy (NGA) Inc (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11058">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0000CD;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #0000CD"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><br><em>The NewGeneration Alchemy (NGA) Inc Tartan has been created for the exclusive use of the company as part of its trademark.</em></li>
-<li>2014 — NewGeneration Alchemy (NGA) Inc (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11058">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>The NewGeneration Alchemy (NGA) Inc Tartan has been created for the exclusive use of the company as part of its trademark.</em></li>
+<li>2014 — NewGeneration Alchemy (NGA) Inc (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11058/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>The NewGeneration Alchemy (NGA) Inc Tartan has been created for the exclusive use of the company as part of its trademark.</em></li>
 </ul>
 </details>
 

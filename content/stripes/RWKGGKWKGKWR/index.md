@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r26w1k8y1g13k1w4k1y2k4lb3r8~x4/">Drummond Relic</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r26w1k8y1g13k1w4k1y2k4lb3r8~x4/"><img src="/variants/s12/r26w1k8y1g13k1w4k1y2k4lb3r8~x4/sett.png" alt="Drummond Relic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dr/drummond-relic/">Drummond Relic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-relic/"><img src="/variants/s12/r26w1k8y1g13k1w4k1y2k4lb3r8~x4/sett.png" alt="Drummond Relic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

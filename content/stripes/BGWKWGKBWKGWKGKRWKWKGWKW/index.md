@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/w8k2w6y8k34w4k2w4r6k12y18k12w4g6k65w4db6k12y8w8k2w6y8b6~db1105255-b1511266/">Lindenwood University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/w8k2w6y8k34w4k2w4r6k12y18k12w4g6k65w4db6k12y8w8k2w6y8b6~db1105255-b1511266/"><img src="/variants/s24/w8k2w6y8k34w4k2w4r6k12y18k12w4g6k65w4db6k12y8w8k2w6y8b6~db1105255-b1511266/sett.png" alt="Lindenwood University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/lindenwood-university/">Lindenwood University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/lindenwood-university/"><img src="/variants/s24/w8k2w6y8k34w4k2w4r6k12y18k12w4g6k65w4db6k12y8w8k2w6y8b6~db1105255-b1511266/sett.png" alt="Lindenwood University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

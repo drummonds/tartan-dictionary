@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Turnbull"
   url: "/clan/turnbull/"
+aliases:
+- "/setts/db10g4w27db40r4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgwbr/">BGWBR</a></nav>
 A tartan of [Clan Turnbull](/clan/turnbull/).
 Its design is pattern [BGWBR](/stripes/bgwbr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Turnbull Dress, Bruce** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db10g4w27db40r4/">Turnbull Dress, Bruce</a></td><td><code>DB/20 G8 W54 DB80 R/8</code></td><td>312</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db10g4w27db40r4/"><img src="/variants/s5/db10g4w27db40r4~x2/sett.png" alt="Turnbull Dress, Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db10g4w27db40r4~x2/">Turnbull Dress, Bruce</a></td><td><code>DB/20 G8 W54 DB80 R/8</code></td><td>312</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db10g4w27db40r4~x2/"><img src="/variants/s5/db10g4w27db40r4~x2/sett.png" alt="Turnbull Dress, Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/w11db20y3db8~x2/"><circle cx="356.4" cy="275.6" r="4" fill="#3465a4"><title>Lucard, Stéphane</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="288.6" cy="162.7" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="348.2" cy="199.5" r="4" fill="#3465a4"><title>McNiff, Kevin</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="368.5" cy="146.1" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="258.2" cy="232.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="259.6" cy="172.4" r="4" fill="#3465a4"><title>Indian Pipe Band</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="335.1" cy="200.0" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="285.9" cy="145.8" r="4" fill="#3465a4"><title>Wolverines</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="323.1" cy="283.8" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="254.7" cy="160.2" r="4" fill="#3465a4"><title>Oklahoma State</title></circle></a><circle cx="295.0" cy="202.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/w11db20y3db8~x2/"><circle cx="357.0" cy="275.7" r="4" fill="#3465a4"><title>Lucard, Stéphane</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="289.4" cy="162.7" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="348.9" cy="199.6" r="4" fill="#3465a4"><title>McNiff, Kevin</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="369.4" cy="146.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="258.7" cy="232.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="260.3" cy="172.3" r="4" fill="#3465a4"><title>Indian Pipe Band</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="335.7" cy="200.1" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="286.8" cy="145.8" r="4" fill="#3465a4"><title>Wolverines</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="323.6" cy="283.9" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="255.5" cy="160.2" r="4" fill="#3465a4"><title>Oklahoma State</title></circle></a><circle cx="295.7" cy="202.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

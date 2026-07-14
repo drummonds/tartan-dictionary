@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/">Shadow Halls</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><img src="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/sett.png" alt="Shadow Halls sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shadow-halls/">Shadow Halls</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shadow-halls/"><img src="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/sett.png" alt="Shadow Halls sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

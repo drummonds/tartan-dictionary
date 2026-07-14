@@ -8,10 +8,10 @@ crumbs:
 - name: "Tantallon"
   url: "/tartans/t/ta/tantallon/"
 - name: "Tantallon #2"
-  url: "/setts/y3k22r7k2g10k2r7k2db22w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3k22r7k2g10k2r7k2db22w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ta/tantallon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKGKRKBW](/stripes/gkrkgkrkbw/).
 
 Part of the [Tantallon](/tartans/t/ta/tantallon/) tartan — the named design grouping this sett with its other cloths.

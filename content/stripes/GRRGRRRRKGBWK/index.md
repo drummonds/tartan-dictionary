@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g4r1ri1dg2r1ri1r1ri1k12g18db23w2k3~x2~r2109032-ri2806019/">St. Andrews Grand (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g4r1ri1dg2r1ri1r1ri1k12g18db23w2k3~x2~r2109032-ri2806019/"><img src="/variants/s13/g4r1ri1dg2r1ri1r1ri1k12g18db23w2k3~x2~r2109032-ri2806019/sett.png" alt="St. Andrews Grand (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-andrews-grand/">St. Andrews Grand</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-grand/"><img src="/variants/s13/g4r1ri1dg2r1ri1r1ri1k12g18db23w2k3~x2~r2109032-ri2806019/sett.png" alt="St. Andrews Grand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

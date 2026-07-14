@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db4y2g24y2k12db3k2db2k2db14dr1db1dr3~x2/">Baron of Greencastle Htg (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db4y2g24y2k12db3k2db2k2db14dr1db1dr3~x2/"><img src="/variants/s13/db4y2g24y2k12db3k2db2k2db14dr1db1dr3~x2/sett.png" alt="Baron of Greencastle Htg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baron-of-greencastle-hunting/">Baron of Greencastle Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baron-of-greencastle-hunting/"><img src="/variants/s13/db4y2g24y2k12db3k2db2k2db14dr1db1dr3~x2/sett.png" alt="Baron of Greencastle Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

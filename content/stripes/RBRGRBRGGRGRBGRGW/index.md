@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r2dp17r2g3r2dp2r20g1y1r1g2r2dp18g2r24g3w1~x2/">Plowman #2 (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r2dp17r2g3r2dp2r20g1y1r1g2r2dp18g2r24g3w1~x2/"><img src="/variants/s17/r2dp17r2g3r2dp2r20g1y1r1g2r2dp18g2r24g3w1~x2/sett.png" alt="Plowman #2 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pl/plowman/">Plowman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pl/plowman/"><img src="/variants/s17/r2dp17r2g3r2dp2r20g1y1r1g2r2dp18g2r24g3w1~x2/sett.png" alt="Plowman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

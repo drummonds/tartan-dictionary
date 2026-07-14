@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/">Forbes - 1880 (Clans Originaux)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><img src="/variants/s8/w2g4k7w2k1w11db2w2~x4/sett.png" alt="Forbes - 1880 (Clans Originaux) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forbes-5/">Forbes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forbes-5/"><img src="/variants/s8/w2g4k7w2k1w11db2w2~x4/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

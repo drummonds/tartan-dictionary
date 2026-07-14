@@ -12,17 +12,17 @@ crumbs:
 - name: "MacMillan"
   url: "/tartans/m/ma/macmillan-4/"
 - name: "MacMillan - 2002 (Black - Unofficial"
-  url: "/setts/k3ly18g6dr17k31g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3ly18g6dr17k31g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macmillan-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBGYK](/stripes/gkbgyk/).
 
 Part of the [MacMillan](/tartans/m/ma/macmillan-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2581](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2581)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/2581/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2581/*)
 
 ## Provenance
 
@@ -31,7 +31,7 @@ Earliest known date: pre 2002 This unauthorised and symmetrical version of the t
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2002 — MacMillan - 2002 (Black - Unofficial (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2581">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004810;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004810"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>This unauthorised and symmetrical version of the traditional asymmetrical MacMillan clan tartan is produced by Marton Mills of Yorkshire. Although not recognised as a MacMillan tartan by the Chief (Jan. 2008), it seems to have gained some popularity in the USA. Originally brought to light by a Graeme Ross of Aberdeen, there may be a sample in the Scottish Tartans Society archives.</em></li>
+<li>pre 2002 — MacMillan - 2002 (Black - Unofficial (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2581/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004810;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004810"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>This unauthorised and symmetrical version of the traditional asymmetrical MacMillan clan tartan is produced by Marton Mills of Yorkshire. Although not recognised as a MacMillan tartan by the Chief (Jan. 2008), it seems to have gained some popularity in the USA. Originally brought to light by a Graeme Ross of Aberdeen, there may be a sample in the Scottish Tartans Society archives.</em></li>
 <li>pre 2002 — MacMillan Black Fashion Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2581">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004810;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004810"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span></li>
 </ul>
 </details>
@@ -46,7 +46,7 @@ Earliest known date: pre 2002 This unauthorised and symmetrical version of the t
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

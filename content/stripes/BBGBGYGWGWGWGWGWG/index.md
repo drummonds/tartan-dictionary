@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8dr2g4do1dp2~x2/">Bryant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8dr2g4do1dp2~x2/"><img src="/variants/s17/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8dr2g4do1dp2~x2/sett.png" alt="Bryant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s17/g20w2g2w2g2w8g2w2g2w2g20ly4g8dr2g4do1dp2~x2/">Bryant (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/g20w2g2w2g2w8g2w2g2w2g20ly4g8dr2g4do1dp2~x2/"><img src="/variants/s17/g20w2g2w2g2w8g2w2g2w2g20ly4g8dr2g4do1dp2~x2/sett.png" alt="Bryant (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bryant-2/">Bryant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bryant-2/"><img src="/variants/s17/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8dr2g4do1dp2~x2/sett.png" alt="Bryant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

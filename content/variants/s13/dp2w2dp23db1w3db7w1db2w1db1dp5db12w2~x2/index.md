@@ -8,10 +8,10 @@ crumbs:
 - name: "Meiji Rugby 1923"
   url: "/tartans/m/me/meiji-rugby-1923/"
 - name: "Meiji Rugby 1923"
-  url: "/setts/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/meiji-rugby-1923/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBWBWBWBBBW](/stripes/bwbbwbwbwbbbw/).
 
 Part of the [Meiji Rugby 1923](/tartans/m/me/meiji-rugby-1923/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10037](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>11/05/2009 — Meiji Rugby 1923 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10037">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#9400D3;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #9400D3"></span><span style="display:inline-block;width:.85em;height:.85em;background:#ECECC6;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #ECECC6"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000080"></span><br><em>Designed for Meiji University, Tokyo, Japan, this tartan is on a deep purple base as this is considered to be one of the noblest colours and is used by the University to instill the highest levels of ambition and achievement in their students.</em></li>
-<li>May 2009 — Meiji Rugby 1923 (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10037">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><br><em>Designed by Lochcarron of Scotland for Meiji University in Tokyo which was founded in 1881. The deep purple used as the ground colour is regarded as one of the most noble of colours and is used by the University to instill the highest levels of ambition and achievement amongst its students. In the woven sample the purple and dark blue are so close as to be almost indistinguishable.</em></li>
+<li>May 2009 — Meiji Rugby 1923 (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10037/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><br><em>Designed by Lochcarron of Scotland for Meiji University in Tokyo which was founded in 1881. The deep purple used as the ground colour is regarded as one of the most noble of colours and is used by the University to instill the highest levels of ambition and achievement amongst its students. In the woven sample the purple and dark blue are so close as to be almost indistinguishable.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g36lb2r2lb2r2lb2r30dg1r1dg4~x2/">Connaught (Lochcarron)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g36lb2r2lb2r2lb2r30dg1r1dg4~x2/"><img src="/variants/s10/g36lb2r2lb2r2lb2r30dg1r1dg4~x2/sett.png" alt="Connaught (Lochcarron) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connaught/">Connaught</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connaught/"><img src="/variants/s10/g36lb2r2lb2r2lb2r30dg1r1dg4~x2/sett.png" alt="Connaught sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Marine Harvest"
   url: "/tartans/m/ma/marine-harvest/"
 - name: "Marine Harvest (Scotland)"
-  url: "/setts/db10lb2k2db1k6lb1k45lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10lb2k2db1k6lb1k45lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/marine-harvest/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBKWKY](/stripes/bwkbkwky/).
 
 Part of the [Marine Harvest](/tartans/m/ma/marine-harvest/) tartan — the named design grouping this sett with its other cloths.

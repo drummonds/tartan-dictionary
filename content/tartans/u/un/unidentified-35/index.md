@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db4do2db2w2do9o27r4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbwbrr/">BBBWBRR</a></nav>
 Its design is pattern [BBBWBRR](/stripes/bbbwbrr/) — the page of every tartan sharing this colour sequence.
 
 The **Unidentified 35** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unidentified 35** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db4do2db2w2do9o27r4/">Unidentified 35</a></td><td><code>R/12 O81 DO27 W6 DB6 DO6 DB/12</code></td><td>276</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db4do2db2w2do9o27r4/"><img src="/variants/s7/db4do2db2w2do9o27r4~x3/sett.png" alt="Unidentified 35 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db4do2db2w2do9o27r4~x3/">Unidentified 35</a></td><td><code>DB/12 DO6 DB6 W6 DO27 O81 R/12</code></td><td>276</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db4do2db2w2do9o27r4~x3/"><img src="/variants/s7/db4do2db2w2do9o27r4~x3/sett.png" alt="Unidentified 35 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g4y9g3db4g3w3r32g4y3~x2/"><circle cx="280.5" cy="163.4" r="4" fill="#3465a4"><title>Antrim County Crest</title></circle></a><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="316.6" cy="151.5" r="4" fill="#3465a4"><title>Elbrick Dress</title></circle></a><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/"><circle cx="259.9" cy="177.8" r="4" fill="#3465a4"><title>Leckie</title></circle></a><a href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/"><circle cx="306.2" cy="172.1" r="4" fill="#3465a4"><title>Spragg</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="334.5" cy="180.3" r="4" fill="#3465a4"><title>Duminiak</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="338.6" cy="144.3" r="4" fill="#3465a4"><title>Redpath, Robert A</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="302.7" cy="103.6" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="290.9" cy="149.7" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s6/db18y2o6y2o19r3~x2/"><circle cx="312.6" cy="219.6" r="4" fill="#3465a4"><title>Balfour blue &amp;</title></circle></a><a href="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r1906038-ri2109032/"><circle cx="255.0" cy="170.0" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><circle cx="321.6" cy="166.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g4y9g3db4g3w3r32g4y3~x2/"><circle cx="281.0" cy="163.3" r="4" fill="#3465a4"><title>Antrim County Crest</title></circle></a><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="317.2" cy="151.4" r="4" fill="#3465a4"><title>Elbrick Dress</title></circle></a><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/"><circle cx="260.3" cy="177.7" r="4" fill="#3465a4"><title>Leckie</title></circle></a><a href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/"><circle cx="306.6" cy="172.1" r="4" fill="#3465a4"><title>Spragg</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="335.0" cy="180.3" r="4" fill="#3465a4"><title>Duminiak</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="339.1" cy="144.3" r="4" fill="#3465a4"><title>Redpath, Robert A</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="303.4" cy="103.5" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="291.4" cy="149.6" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s6/db18y2o6y2o19r3~x2/"><circle cx="313.1" cy="219.6" r="4" fill="#3465a4"><title>Balfour blue &amp;</title></circle></a><a href="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r1906038-ri2109032/"><circle cx="255.5" cy="169.8" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><circle cx="322.1" cy="166.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

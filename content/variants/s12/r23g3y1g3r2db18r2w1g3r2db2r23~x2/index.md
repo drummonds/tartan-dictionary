@@ -12,10 +12,10 @@ crumbs:
 - name: "Mair"
   url: "/tartans/m/ma/mair/"
 - name: "Mair Family Tartan"
-  url: "/setts/r23g3y1g3r2db18r2w1g3r2db2r23/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r23g3y1g3r2db18r2w1g3r2db2r23/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mair/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGWRBRGGGR](/stripes/rbrgwrbrgggr/).
 
 Part of the [Mair](/tartans/m/ma/mair/) tartan — the named design grouping this sett with its other cloths.

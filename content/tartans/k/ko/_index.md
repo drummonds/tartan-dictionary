@@ -10,7 +10,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/k/ko/kormylo/"><img src="/variants/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2~x2/sett.png" alt="Kormylo" width="140"><br><strong>Kormylo (1)</strong></a><div class="clan-territory">Kormylo</div></li>
 <li><a class="tartan" href="/tartans/k/ko/kormylo-2/"><img src="/variants/s12/y2r9db3dg12r2db40r2dg20db2r18db2w2~x2/sett.png" alt="Kormylo" width="140"><br><strong>Kormylo (1)</strong></a><div class="clan-territory">Kormylo</div></li>
 <li><a class="tartan" href="/tartans/k/ko/korner-macpherson/"><img src="/variants/s7/n5r3n35k28n4k11n2~x2/sett.png" alt="Korner-MacPherson" width="140"><br><strong>Korner-MacPherson (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/k/ko/kozlosky/"><img src="/variants/s6/dy21ri8r14dy6ri3r10~x2~ri2806019-r2109032/sett.png" alt="Kozlosky" width="140"><br><strong>Kozlosky (1)</strong></a><div class="clan-territory">Kozlosky</div></li>
-<li><a class="tartan" href="/tartans/k/ko/kozlosky-2/"><img src="/variants/s6/y42b15r28y12b6r20/sett.png" alt="Kozlosky" width="140"><br><strong>Kozlosky (1)</strong></a><div class="clan-territory">Kozlosky</div></li>
+<li><a class="tartan" href="/tartans/k/ko/kozlosky/"><img src="/variants/s6/y42b15r28y12b6r20/sett.png" alt="Kozlosky" width="140"><br><strong>Kozlosky (1)</strong></a><div class="clan-territory">Kozlosky</div></li>
+<li><a class="tartan" href="/tartans/k/ko/kozlosky-2/"><img src="/variants/s6/dy21ri8r14dy6ri3r10~x2~ri2806019-r2109032/sett.png" alt="Kozlosky" width="140"><br><strong>Kozlosky (1)</strong></a><div class="clan-territory">Kozlosky</div></li>
 <li><a class="tartan" href="/tartans/k/ko/kozmyk/"><img src="/variants/s7/y6dy14db10dy58g3dy8w2/sett.png" alt="Kozmyk" width="140"><br><strong>Kozmyk (1)</strong></a></li>
 </ul>

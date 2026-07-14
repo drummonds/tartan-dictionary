@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db24k6lo4k6lb4k6g24dr48db5dr6k5~x2/">Unidentified Furnishing</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db24k6lo4k6lb4k6g24dr48db5dr6k5~x2/"><img src="/variants/s11/db24k6lo4k6lb4k6g24dr48db5dr6k5~x2/sett.png" alt="Unidentified Furnishing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-furnishing-2/">Unidentified Furnishing</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-furnishing-2/"><img src="/variants/s11/db24k6lo4k6lb4k6g24dr48db5dr6k5~x2/sett.png" alt="Unidentified Furnishing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

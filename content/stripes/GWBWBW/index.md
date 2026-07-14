@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lb48n28w4n28lb48y3~x2/">McKerrell of Hillhouse Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb48n28w4n28lb48y3~x2/"><img src="/variants/s6/lb48n28w4n28lb48y3~x2/sett.png" alt="McKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress-2/">McKerrell of Hillhouse Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress-2/"><img src="/variants/s6/lb48n28w4n28lb48y3~x2/sett.png" alt="McKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/w7db16w20db3w3y3~x2/">Unidentified (Shirt)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w7db16w20db3w3y3~x2/"><img src="/variants/s6/w7db16w20db3w3y3~x2/sett.png" alt="Unidentified (Shirt) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-78/">Unidentified</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-78/"><img src="/variants/s6/w7db16w20db3w3y3~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

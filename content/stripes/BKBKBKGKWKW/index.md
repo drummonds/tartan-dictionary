@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/">Kang (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/"><img src="/variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/sett.png" alt="Kang (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ka/kang/">Kang</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/kang/"><img src="/variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/sett.png" alt="Kang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

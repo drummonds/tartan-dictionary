@@ -12,10 +12,10 @@ crumbs:
 - name: "Gray Hunting"
   url: "/tartans/g/gr/gray-hunting/"
 - name: "Gray Hunting Family Tartan"
-  url: "/setts/k3w1g29n8r2n2r2n2r8g7k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3w1g29n8r2n2r2n2r8g7k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/gray-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRBRBRBGWK](/stripes/kgrbrbrbgwk/).
 
 Part of the [Gray Hunting](/tartans/g/gr/gray-hunting/) tartan — the named design grouping this sett with its other cloths.

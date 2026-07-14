@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/">Empire Golf Check (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/"><img src="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/sett.png" alt="Empire Golf Check (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/em/empire-golf-check/">Empire Golf Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/em/empire-golf-check/"><img src="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/sett.png" alt="Empire Golf Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

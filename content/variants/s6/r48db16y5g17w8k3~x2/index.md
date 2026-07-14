@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish American Society of Michigan"
   url: "/tartans/s/sc/scottish-american-society-of-michigan/"
 - name: "Scottish American Society of Michigan (Official)"
-  url: "/setts/r48db16y5g17w8k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r48db16y5g17w8k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-american-society-of-michigan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGGBR](/stripes/kwggbr/).
 
 Part of the [Scottish American Society of Michigan](/tartans/s/sc/scottish-american-society-of-michigan/) tartan — the named design grouping this sett with its other cloths.

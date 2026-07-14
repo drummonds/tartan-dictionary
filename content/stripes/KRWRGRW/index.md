@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k2r4w1r10g12r2w2~x4/">Starr (1978) (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><img src="/variants/s7/k2r4w1r10g12r2w2~x4/sett.png" alt="Starr (1978) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/starr/">Starr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/starr/"><img src="/variants/s7/k2r4w1r10g12r2w2~x4/sett.png" alt="Starr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

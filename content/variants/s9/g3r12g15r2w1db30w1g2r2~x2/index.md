@@ -10,10 +10,10 @@ crumbs:
 - name: "Christmas Morning"
   url: "/tartans/c/ch/christmas-morning/"
 - name: "Christmas Morning"
-  url: "/setts/g3r12g15r2w1db30w1g2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3r12g15r2w1db30w1g2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/christmas-morning/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRWBWGR](/stripes/grgrwbwgr/).
 
 Part of the [Christmas Morning](/tartans/c/ch/christmas-morning/) tartan — the named design grouping this sett with its other cloths.

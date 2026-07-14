@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/">Melville Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/"><img src="/variants/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/sett.png" alt="Melville Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/melville-3/">Melville</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/melville-3/"><img src="/variants/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

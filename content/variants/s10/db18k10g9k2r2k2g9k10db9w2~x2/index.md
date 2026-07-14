@@ -12,10 +12,10 @@ crumbs:
 - name: "Robertson Hunting"
   url: "/tartans/r/ro/robertson-hunting-2/"
 - name: "Robertson Hunting Clan Tartan"
-  url: "/setts/db18k10g9k2r2k2g9k10db9w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18k10g9k2r2k2g9k10db9w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robertson-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKRKGKBW](/stripes/bkgkrkgkbw/).
 
 Part of the [Robertson Hunting](/tartans/r/ro/robertson-hunting-2/) tartan — the named design grouping this sett with its other cloths.

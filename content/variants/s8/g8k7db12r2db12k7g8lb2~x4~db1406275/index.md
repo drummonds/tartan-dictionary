@@ -8,10 +8,10 @@ crumbs:
 - name: "Forbo Nairn"
   url: "/tartans/f/fo/forbo-nairn-2/"
 - name: "Forbo Nairn Corporate Tartan"
-  url: "/setts/g8k7db12r2db12k7g8lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8k7db12r2db12k7g8lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/forbo-nairn-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBRBKGW](/stripes/gkbrbkgw/).
 
 Part of the [Forbo Nairn](/tartans/f/fo/forbo-nairn-2/) tartan — the named design grouping this sett with its other cloths.

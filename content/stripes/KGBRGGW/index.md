@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/">Mayo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><img src="/variants/s7/k4g16db11r16g25y2lb3~x2/sett.png" alt="Mayo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mayo/">Mayo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mayo/"><img src="/variants/s7/k4g16db11r16g25y2lb3~x2/sett.png" alt="Mayo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

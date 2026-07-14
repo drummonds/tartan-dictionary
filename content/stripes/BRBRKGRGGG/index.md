@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/">Biskup (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><img src="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/sett.png" alt="Biskup (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bi/biskup/">Biskup</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/biskup/"><img src="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/sett.png" alt="Biskup sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

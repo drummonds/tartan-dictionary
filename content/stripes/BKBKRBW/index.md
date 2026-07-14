@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/">Thomson, Reona Ellen (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><img src="/variants/s7/w2dp5r34k5n9k12dp1~x2/sett.png" alt="Thomson, Reona Ellen (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thomson-reona-ellen/">Thomson, Reona Ellen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thomson-reona-ellen/"><img src="/variants/s7/w2dp5r34k5n9k12dp1~x2/sett.png" alt="Thomson, Reona Ellen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

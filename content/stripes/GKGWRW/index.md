@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y5k2g4lb18r25w5~x2/">Christie (London)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y5k2g4lb18r25w5~x2/"><img src="/variants/s6/y5k2g4lb18r25w5~x2/sett.png" alt="Christie (London) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/christie/">Christie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/christie/"><img src="/variants/s6/y5k2g4lb18r25w5~x2/sett.png" alt="Christie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

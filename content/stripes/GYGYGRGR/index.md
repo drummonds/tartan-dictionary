@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/">Oakwood</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/"><img src="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/sett.png" alt="Oakwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/oa/oakwood/">Oakwood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/oa/oakwood/"><img src="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/sett.png" alt="Oakwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

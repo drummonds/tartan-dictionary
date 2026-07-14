@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db24r6w6r6w6r6db25k12t36y6/">Lopatinsky (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db24r6w6r6w6r6db25k12t36y6/"><img src="/variants/s10/db24r6w6r6w6r6db25k12t36y6/sett.png" alt="Lopatinsky (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lopatinsky/">Lopatinsky</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lopatinsky/"><img src="/variants/s10/db24r6w6r6w6r6db25k12t36y6/sett.png" alt="Lopatinsky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

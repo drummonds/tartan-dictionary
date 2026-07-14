@@ -12,10 +12,10 @@ crumbs:
 - name: "MacKintosh 6"
   url: "/tartans/m/ma/mackintosh-6/"
 - name: "Nisbet Family Tartan"
-  url: "/setts/r5w2r28k12g16r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5w2r28k12g16r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackintosh-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKRWR](/stripes/rgkrwr/).
 
 Part of the [MacKintosh 6](/tartans/m/ma/mackintosh-6/) tartan — the named design grouping this sett with its other cloths.

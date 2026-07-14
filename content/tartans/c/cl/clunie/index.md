@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w12db48k13n22k3y6/"
+- "/setts/y6k2n11k7db24w6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkbkbw/">GKBKBW</a></nav>
 Its design is pattern [GKBKBW](/stripes/gkbkbw/) — the page of every tartan sharing this colour sequence.
 
 Designed 2005 by David McGill for the Clunie name, with colours drawn from the Clunie coat of arms.
@@ -15,10 +19,10 @@ The **Clunie** tartan groups 2 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w12db48k13n22k3y6/">Clunie</a> ★</td><td><code>W/12 DB48 K13 N22 K3 Y/6</code></td><td>190</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w12db48k13n22k3y6/"><img src="/variants/s6/w12db48k13n22k3y6/sett.png" alt="Clunie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/y6k2n11k7db24w6/">(Name)</a></td><td><code>Y/12 K4 N22 K14 DB48 W/12</code></td><td>200</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y6k2n11k7db24w6/"><img src="y6k2n11k7db24w6-rev.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w12db48k13n22k3y6/">Clunie</a> ★</td><td><code>W/12 DB48 K13 N22 K3 Y/6</code></td><td>190</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w12db48k13n22k3y6/"><img src="/variants/s6/w12db48k13n22k3y6/sett.png" alt="Clunie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y6k2n11k7db24w6~x2/">(Name)</a></td><td><code>Y/12 K4 N22 K14 DB48 W/12</code></td><td>200</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y6k2n11k7db24w6~x2/"><img src="y6k2n11k7db24w6-rev.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="160.4" cy="171.8" r="4" fill="#3465a4"><title>Thomson Dress</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="209.8" cy="156.9" r="4" fill="#3465a4"><title>Prehospital EMS</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="163.3" cy="150.7" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s7/db3lb24k11db20w2db5y3~x2/"><circle cx="166.6" cy="163.3" r="4" fill="#3465a4"><title>Icelandair</title></circle></a><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/"><circle cx="196.4" cy="145.9" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/"><circle cx="185.1" cy="162.3" r="4" fill="#3465a4"><title>Longford County Crest</title></circle></a><a href="/variants/s6/y8k2db20t4w1k2~x4~db1404245-t2503227/"><circle cx="285.6" cy="144.9" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="233.5" cy="139.8" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s6/r2db23k14g16k2w2~x2/"><circle cx="158.7" cy="173.7" r="4" fill="#3465a4"><title>MacPhail Hunting</title></circle></a><a href="/variants/s7/lb6k8lb6g12db29w3db4~x2/"><circle cx="188.8" cy="177.9" r="4" fill="#3465a4"><title>Dickson</title></circle></a><circle cx="194.0" cy="158.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="160.9" cy="171.6" r="4" fill="#3465a4"><title>Thomson Dress</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="210.4" cy="156.7" r="4" fill="#3465a4"><title>Prehospital EMS</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="163.8" cy="150.5" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s7/db3lb24k11db20w2db5y3~x2/"><circle cx="167.1" cy="163.1" r="4" fill="#3465a4"><title>Icelandair</title></circle></a><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/"><circle cx="196.9" cy="145.8" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/"><circle cx="185.7" cy="162.2" r="4" fill="#3465a4"><title>Longford County Crest</title></circle></a><a href="/variants/s6/y8k2db20t4w1k2~x4~db1404245-t2503227/"><circle cx="286.3" cy="144.9" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="234.2" cy="139.7" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s6/r2db23k14g16k2w2~x2/"><circle cx="159.2" cy="173.6" r="4" fill="#3465a4"><title>MacPhail Hunting</title></circle></a><a href="/variants/s7/lb6k8lb6g12db29w3db4~x2/"><circle cx="189.3" cy="177.7" r="4" fill="#3465a4"><title>Dickson</title></circle></a><circle cx="194.6" cy="157.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

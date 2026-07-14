@@ -12,10 +12,10 @@ crumbs:
 - name: "Kumikyoku"
   url: "/tartans/k/ku/kumikyoku-4/"
 - name: "Kumikyoku - Tone of Forest"
-  url: "/setts/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ku/kumikyoku-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBGBKGBRBKBWBGBWBGBWBKBRBGKBGBGW](/stripes/wgbgbkgbrbkbwbgbwbgbwbkbrbgkbgbgw/).
 
 Part of the [Kumikyoku](/tartans/k/ku/kumikyoku-4/) tartan — the named design grouping this sett with its other cloths.

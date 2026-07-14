@@ -11,11 +11,11 @@ crumbs:
   url: "/families/moran/"
 - name: "Moran"
   url: "/tartans/m/mo/moran/"
-- name: "Moran (Wedding) (Personal)"
-  url: "/setts/db5r3g2r3dg12t34g2w2/"
+- name: "Moran (Drummond) Personal Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5r3g2r3dg12t34g2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/moran/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGBGW](/stripes/brgrgbgw/).
 
 Part of the [Moran](/tartans/m/mo/moran/) tartan — the named design grouping this sett with its other cloths.

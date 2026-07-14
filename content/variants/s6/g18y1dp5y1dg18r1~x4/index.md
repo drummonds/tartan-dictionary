@@ -8,10 +8,10 @@ crumbs:
 - name: "Symonds"
   url: "/tartans/s/sy/symonds/"
 - name: "Symonds (2016)"
-  url: "/setts/g18y1dp5y1dg18r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g18y1dp5y1dg18r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sy/symonds/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGGR](/stripes/ggbggr/).
 
 Part of the [Symonds](/tartans/s/sy/symonds/) tartan — the named design grouping this sett with its other cloths.

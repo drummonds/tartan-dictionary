@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/">Redgate in Connecticut (Ulster-Scots)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/"><img src="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/sett.png" alt="Redgate in Connecticut (Ulster-Scots) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/redgate-in-connecticut/">Redgate in Connecticut</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/redgate-in-connecticut/"><img src="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/sett.png" alt="Redgate in Connecticut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Clyde"
   url: "/tartans/c/cl/clyde-4/"
 - name: "Clyde Trade Tartan"
-  url: "/setts/lb4n2lb18r2n5o16r2o2r2o2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4n2lb18r2n5o16r2o2r2o2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/clyde-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRRRRBRWBW](/stripes/rrrrrbrwbw/).
 
 Part of the [Clyde](/tartans/c/cl/clyde-4/) tartan — the named design grouping this sett with its other cloths.

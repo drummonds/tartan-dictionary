@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/">Derick Wardrope (Portobello) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/"><img src="/variants/s9/dr3g32k4g4k11db3k7dr4w3/sett.png" alt="Derick Wardrope (Portobello) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/derick-wardrope/">Derick Wardrope</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/derick-wardrope/"><img src="/variants/s9/dr3g32k4g4k11db3k7dr4w3/sett.png" alt="Derick Wardrope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

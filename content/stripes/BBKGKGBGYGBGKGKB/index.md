@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/ti16k12g2k2dg32t2dg2lr3dg2t2dg32k2g2k12ti16dr3~x2~ti2503227-t2405244/">Scottish Ambulance Service</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/ti16k12g2k2dg32t2dg2lr3dg2t2dg32k2g2k12ti16dr3~x2~ti2503227-t2405244/"><img src="/variants/s16/ti16k12g2k2dg32t2dg2lr3dg2t2dg32k2g2k12ti16dr3~x2~ti2503227-t2405244/sett.png" alt="Scottish Ambulance Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-ambulance-service/">Scottish Ambulance Service</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-ambulance-service/"><img src="/variants/s16/ti16k12g2k2dg32t2dg2lr3dg2t2dg32k2g2k12ti16dr3~x2~ti2503227-t2405244/sett.png" alt="Scottish Ambulance Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

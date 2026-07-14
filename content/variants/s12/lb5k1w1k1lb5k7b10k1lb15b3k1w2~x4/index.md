@@ -8,10 +8,10 @@ crumbs:
 - name: "Faulds"
   url: "/tartans/f/fa/faulds/"
 - name: "Faulds"
-  url: "/setts/lb5k1w1k1lb5k7b10k1lb15b3k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb5k1w1k1lb5k7b10k1lb15b3k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fa/faulds/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBWKBKWKWKW](/stripes/wkbwkbkwkwkw/).
 
 Part of the [Faulds](/tartans/f/fa/faulds/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1152](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2007 — Faulds (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1152">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B4D4EC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #B4D4EC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A474E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PB #A474E0"></span><br><em>Designed on the Instructions of Mr. David Faulds (an entertainer) Tommy Gemmell</em></li>
-<li>pre 2007 — Faulds (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7162">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B4D4EC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #B4D4EC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A474E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PB #A474E0"></span><br><em>Designed by David & Claire Faulds for their personal use as there was no Faulds tartan.</em></li>
+<li>pre 2007 — Faulds (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7162/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B4D4EC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #B4D4EC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A474E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PB #A474E0"></span><br><em>Designed by David & Claire Faulds for their personal use as there was no Faulds tartan.</em></li>
 </ul>
 </details>
 

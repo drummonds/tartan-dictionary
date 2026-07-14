@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/">Great Dane, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/"><img src="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2~db1104274/sett.png" alt="Great Dane, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/great-dane-the/">Great Dane, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/great-dane-the/"><img src="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2~db1104274/sett.png" alt="Great Dane, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k75lb2w2k2y2dg4r3k2r4k1w4k2lb5~x2/">New World Celts (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k75lb2w2k2y2dg4r3k2r4k1w4k2lb5~x2/"><img src="/variants/s13/k75lb2w2k2y2dg4r3k2r4k1w4k2lb5~x2/sett.png" alt="New World Celts (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-world-celts/">New World Celts</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-world-celts/"><img src="/variants/s13/k75lb2w2k2y2dg4r3k2r4k1w4k2lb5~x2/sett.png" alt="New World Celts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

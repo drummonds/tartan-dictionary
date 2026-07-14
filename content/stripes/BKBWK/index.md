@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dr20k3dr4w2k7~x2/">Loevenstein Castle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr20k3dr4w2k7~x2/"><img src="/variants/s5/dr20k3dr4w2k7~x2/sett.png" alt="Loevenstein Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loevenstein-castle/">Loevenstein Castle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loevenstein-castle/"><img src="/variants/s5/dr20k3dr4w2k7~x2/sett.png" alt="Loevenstein Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

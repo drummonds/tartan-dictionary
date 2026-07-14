@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/n57w5g20n5y10/">Jahore District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/n57w5g20n5y10/"><img src="/variants/s5/n57w5g20n5y10/sett.png" alt="Jahore District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/jahore/">Jahore</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/jahore/"><img src="/variants/s5/n57w5g20n5y10/sett.png" alt="Jahore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

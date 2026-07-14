@@ -10,17 +10,17 @@ crumbs:
 - name: "Menzies"
   url: "/families/menzies/"
 - name: "Menzies"
-  url: "/tartans/m/me/menzies-2/"
+  url: "/tartans/m/me/menzies/"
 - name: "Menzies"
-  url: "/setts/r24t3w1g9r12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r24t3w1g9r12/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GWBRBWGR](/stripes/gwbrbwgr/).
+provenance below. It is one weaving of the [sett](/tartans/m/me/menzies/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBWGR](/stripes/rbwgr/).
 
-Part of the [Menzies](/tartans/m/me/menzies-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Menzies](/tartans/m/me/menzies/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from logan-1831.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from logan-1831.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
@@ -61,9 +61,11 @@ Later records of the **Menzies** name adjusted Logan's counts: [Menzies](/varian
 </details>
 
 ## Thread count
-R/96 G72 W8 T24 R192 T24 W8 G/72
+R/192 T24 W8 G72 R/96
 
-One full sett is **824 threads**.
+One full sett is **496 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/96 G72 W8 T24 R192 T24 W8 G/72 — 824 threads; it folds to the canonical 496-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -72,7 +74,7 @@ One full sett is **824 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/96 G72 W8 T24 R192 T24 W8 G/72 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/192 T24 W8 G72 R/96 tartan" width="880" height="480">
 
 ## Compared to the master
 

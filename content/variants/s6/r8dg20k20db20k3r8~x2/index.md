@@ -8,22 +8,22 @@ crumbs:
 - name: "Atholl Highlanders"
   url: "/tartans/a/at/atholl-highlanders/"
 - name: "Atholl Highlanders (Military)"
-  url: "/setts/r8dg20k20db20k3r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8dg20k20db20k3r8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/at/atholl-highlanders/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKBKR](/stripes/rgkbkr/).
 
 Part of the [Atholl Highlanders](/tartans/a/at/atholl-highlanders/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3017](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3017)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3017/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3017/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2002 — Atholl Highlanders (Military) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3017">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D05054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #D05054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>The Duke of Atholl's own Regiment. The Duke of Atholl - Blair Atholl Castle is in Perthshire- is the only individual in the United Kingdom who is still legally allowed to keep his own private army.C f Wilsons' Coarse Kilt with Red. STA sample from D C Dalgliesh 1986.</em></li>
+<li>pre 2002 — Atholl Highlanders (Military) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3017/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D05054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #D05054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>The Duke of Atholl's own Regiment. The Duke of Atholl - Blair Atholl Castle is in Perthshire- is the only individual in the United Kingdom who is still legally allowed to keep his own private army.C f Wilsons' Coarse Kilt with Red. STA sample from D C Dalgliesh 1986.</em></li>
 <li>undated — Atholl Highlanders (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5144">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D05054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #D05054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>The Atholl Highlanders are the Duke of Atholl's own Regiment. The Duke of Atholl (Blair Atholl, Perthshire) is the only individual in the United Kingdom who is still legally allowed to keep his own private army.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3017](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

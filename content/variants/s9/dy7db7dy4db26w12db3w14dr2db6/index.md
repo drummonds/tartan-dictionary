@@ -12,10 +12,10 @@ crumbs:
 - name: "Aquascutum"
   url: "/tartans/a/aq/aquascutum/"
 - name: "Aquascutum (Kinloch Anderson)"
-  url: "/setts/dy7db7dy4db26w12db3w14dr2db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy7db7dy4db26w12db3w14dr2db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/aq/aquascutum/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWBGBG](/stripes/bbwbwbgbg/).
 
 Part of the [Aquascutum](/tartans/a/aq/aquascutum/) tartan — the named design grouping this sett with its other cloths.

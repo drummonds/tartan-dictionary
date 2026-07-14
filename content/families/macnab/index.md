@@ -32,12 +32,12 @@ A family of [Clan MacNab](/clan/macnab/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macnab-6/"><img src="/variants/s7/g28r7dr7g14dr7r48k4~x2/sett.png" alt="MacNab sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macnab-2/">MacNab</a></td><td>—</td><td>1</td><td>1</td><td>7.73</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macnab-2/"><img src="/variants/s13/g8r1g1r1g1r6do8r1do8r6g7r1g1/sett.png" alt="MacNab sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/m/ma/macnab-5/">MacNab 5</a></td><td>—</td><td>1</td><td>2</td><td>8.12</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macnab-5/"><img src="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2209032-r1707016/sett.png" alt="MacNab 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macnab-5/">MacNab 5</a></td><td>—</td><td>1</td><td>2</td><td>7.88</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macnab-5/"><img src="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/sett.png" alt="MacNab 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macnab/">MacNab</a></td><td>1831</td><td>2</td><td>3</td><td>8.20</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macnab/"><img src="/variants/s13/g8dr1g1dr1g1dr6r8dr1r8dr6g7dr1g1~r1908029/sett.png" alt="MacNab sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macnab-3/">MacNab 3</a></td><td>~1816</td><td>1</td><td>3</td><td>9.23</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macnab-3/"><img src="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r1807008-ri2109032/sett.png" alt="MacNab 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macnab-3/"><img src="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/sett.png" alt="MacNab 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macnab-4/">MacNab</a></td><td>1831</td><td>1</td><td>1</td><td>11.69</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macnab-4/"><img src="r1g6r6ri6r1ri6r6g1r1g1r1g1r1g6r1g1r1g1r6ri6r1ri6r6g6r1g1-rev.png" alt="MacNab sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macnab-7/">MacNab</a></td><td>1819</td><td>2</td><td>2</td><td>23.28</td></tr>

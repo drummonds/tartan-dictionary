@@ -8,10 +8,10 @@ crumbs:
 - name: "Samye"
   url: "/tartans/s/sa/samye/"
 - name: "Samye #2"
-  url: "/setts/y28r11g11db11w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y28r11g11db11w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/samye/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBW](/stripes/grgbw/).
 
 Part of the [Samye](/tartans/s/sa/samye/) tartan — the named design grouping this sett with its other cloths.

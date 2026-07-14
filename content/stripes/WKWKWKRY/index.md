@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/w23k4w4k4w4k22o23ly5/">Aberlour</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w23k4w4k4w4k22o23ly5/"><img src="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/sett.png" alt="Aberlour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberlour/">Aberlour</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberlour/"><img src="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/sett.png" alt="Aberlour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

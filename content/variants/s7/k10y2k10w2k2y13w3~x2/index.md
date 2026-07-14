@@ -8,10 +8,10 @@ crumbs:
 - name: "Nooten-Boom"
   url: "/tartans/n/no/nooten-boom/"
 - name: "Nooten-Boom (Personal)"
-  url: "/setts/k10y2k10w2k2y13w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10y2k10w2k2y13w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/nooten-boom/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKWKGW](/stripes/kgkwkgw/).
 
 Part of the [Nooten-Boom](/tartans/n/no/nooten-boom/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3145](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Nooten-Boom (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3145">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by the late Don Smith (died 2002) of Heraldic Graphics, Glasgow, for Mr A Nooten-Boom II, FGA, DGA, CRAeC from Herefordshire, England. Don Smith of Heraldic Graphics' notes state 'the five different shades of yellow represent some of the many shades of gold'. Only one shade of yellow is shown here.</em></li>
-<li>2002 — Nooten-Boom (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4021">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by the late Don Smith (2002?) of Heraldic Graphics, Glasgow for Mr A Nooten-Boom II, FGA, DGA, CRAeC from Herefordshire, England. Don Smith of Heraldic Graphics' notes state "The five different shades of yellow represent some of the many shades of gold." Unfortunatly his graphic used only one shade so the gradations cannot be shown here.</em></li>
+<li>2002 — Nooten-Boom (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4021/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by the late Don Smith (2002?) of Heraldic Graphics, Glasgow for Mr A Nooten-Boom II, FGA, DGA, CRAeC from Herefordshire, England. Don Smith of Heraldic Graphics' notes state "The five different shades of yellow represent some of the many shades of gold." Unfortunatly his graphic used only one shade so the gradations cannot be shown here.</em></li>
 </ul>
 </details>
 

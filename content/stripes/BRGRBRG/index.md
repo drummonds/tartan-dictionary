@@ -28,17 +28,17 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg28r4dp25r22dg27r4dp2~x2/">Glasgow, Ciity of (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg28r4dp25r22dg27r4dp2~x2/"><img src="/variants/s7/dg28r4dp25r22dg27r4dp2~x2/sett.png" alt="Glasgow, Ciity of (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g28r4dp25r22g27r4dp2~x2/">Glasgow, City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g28r4dp25r22g27r4dp2~x2/"><img src="/variants/s7/g28r4dp25r22g27r4dp2~x2/sett.png" alt="Glasgow, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g28r4dp27r27g28r5dp2~x2/">Madder</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g28r4dp27r27g28r5dp2~x2/"><img src="/variants/s7/g28r4dp27r27g28r5dp2~x2/sett.png" alt="Madder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow-ciity-of/">Glasgow, Ciity of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-ciity-of/"><img src="/variants/s7/dg28r4dp25r22dg27r4dp2~x2/sett.png" alt="Glasgow, Ciity of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow-city-of/">Glasgow, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow-city-of/"><img src="/variants/s7/g28r4dp25r22g27r4dp2~x2/sett.png" alt="Glasgow, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/madder/">Madder</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/madder/"><img src="/variants/s7/g28r4dp27r27g28r5dp2~x2/sett.png" alt="Madder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/db30r5g30r22db30r5g4/">GS Gaelic School (School)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db30r5g30r22db30r5g4/"><img src="/variants/s7/db30r5g30r22db30r5g4/sett.png" alt="GS Gaelic School (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g25r4db24r21g25r3db4~x2/">Glasgow #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><img src="/variants/s7/g25r4db24r21g25r3db4~x2/sett.png" alt="Glasgow #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gs/gs-gaelic-school/">GS Gaelic School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gs/gs-gaelic-school/"><img src="/variants/s7/db30r5g30r22db30r5g4/sett.png" alt="GS Gaelic School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glasgow/">Glasgow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glasgow/"><img src="/variants/s7/g25r4db24r21g25r3db4~x2/sett.png" alt="Glasgow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

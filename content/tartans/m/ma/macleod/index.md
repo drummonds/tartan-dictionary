@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/macleod/"
 - name: "MacLeod"
   url: "/families/macleod/"
+aliases:
+- "/setts/r3k2g15k10db20k2y2/"
+- "/setts/ly4k2t20k10g15k2r3/"
+- "/setts/r3k2g15k10db21k1y2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkbkgkr/">GKBKGKR</a></nav>
 A tartan of the [MacLeod](/families/macleod/) family.
 Its design is pattern [GKBKGKR](/stripes/gkbkgkr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,13 +23,15 @@ The **MacLeod** tartan groups 3 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3k2g15k10db20k2y2/">MacLeod</a> ★</td><td><code>R/6 K4 G30 K20 DB40 K4 Y/4</code></td><td>206</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3k2g15k10db20k2y2/"><img src="/variants/s7/r3k2g15k10db20k2y2~x2/sett.png" alt="MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3k2g15k10db20k2y2~x2/">MacLeod</a> ★</td><td><code>R/3 K2 G15 K10 DB20 K2 Y/2</code></td><td>103</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><img src="/variants/s7/r3k2g15k10db20k2y2~x2/sett.png" alt="MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/r3k2g15k10db20k2y2/">MacLeod</a></td><td><code>R/3 K2 G15 K10 DB20 K2 Y/2</code></td><td>103</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r3k2g15k10db20k2y2~x2/">Macleod of Harris</a></td><td><code>R/6 K4 G30 K20 DB40 K4 Y/4</code></td><td>206</td><td>1831</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r3k2g15k10db20k2y2/">MacLeod</a> · <a href="/variants/s7/r3k2g15k10db20k2y2~x2/">Macleod of Harris</a></td></tr>
-<tr><td><a href="/setts/ly4k2t20k10g15k2r3/">(Clan)</a></td><td><code>LY/8 K4 T40 K20 G30 K4 R/6</code></td><td>210</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly4k2t20k10g15k2r3/"><img src="ly4k2t20k10g15k2r3-rev.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r3k2g15k10db21k1y2/">MacLeod</a></td><td><code>R/3 K2 G15 K10 DB21 K1 Y/2</code></td><td>103</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3k2g15k10db21k1y2/"><img src="/variants/s7/r3k2g15k10db21k1y2/sett.png" alt="MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/">(Clan)</a></td><td><code>LY/8 K4 T40 K20 G30 K4 R/6</code></td><td>210</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><img src="ly4k2t20k10g15k2r3-rev.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3k2g15k10db21k1y2/">MacLeod</a></td><td><code>R/3 K2 G15 K10 DB21 K1 Y/2</code></td><td>103</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3k2g15k10db21k1y2/"><img src="/variants/s7/r3k2g15k10db21k1y2/sett.png" alt="MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -43,6 +50,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="158.5" cy="168.7" r="4" fill="#3465a4"><title>MacLeod Small</title></circle></a><a href="/variants/s7/r3k2db25k28g25k2r3~x2/"><circle cx="174.5" cy="163.5" r="4" fill="#3465a4"><title>Coarse</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/"><circle cx="102.4" cy="188.0" r="4" fill="#3465a4"><title>Argyll</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="107.6" cy="189.5" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1w2/"><circle cx="96.5" cy="185.9" r="4" fill="#3465a4"><title>Campbell Cawdor</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="137.4" cy="174.0" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="162.6" cy="196.4" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="177.4" cy="176.0" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="177.2" cy="176.1" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="136.8" cy="162.3" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><circle cx="147.9" cy="171.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="158.9" cy="168.6" r="4" fill="#3465a4"><title>MacLeod Small</title></circle></a><a href="/variants/s7/r3k2db25k28g25k2r3~x2/"><circle cx="175.0" cy="163.4" r="4" fill="#3465a4"><title>Coarse</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/"><circle cx="102.6" cy="187.7" r="4" fill="#3465a4"><title>Argyll</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="107.8" cy="189.3" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1w2/"><circle cx="96.8" cy="185.6" r="4" fill="#3465a4"><title>Campbell Cawdor</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="137.8" cy="173.8" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="163.0" cy="196.3" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="177.8" cy="175.9" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="177.6" cy="175.9" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="137.1" cy="162.0" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><circle cx="148.3" cy="171.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

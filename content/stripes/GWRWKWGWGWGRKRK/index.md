@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/">Huntly Old</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/"><img src="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/sett.png" alt="Huntly Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/huntly-old/">Huntly Old</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/huntly-old/"><img src="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/sett.png" alt="Huntly Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

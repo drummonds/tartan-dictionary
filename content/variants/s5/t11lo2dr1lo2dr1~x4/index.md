@@ -12,10 +12,10 @@ crumbs:
 - name: "Carlisle"
   url: "/tartans/c/ca/carlisle/"
 - name: "Carlisle Ancient"
-  url: "/setts/t11lo2dr1lo2dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t11lo2dr1lo2dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/carlisle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYB](/stripes/bybyb/).
 
 Part of the [Carlisle](/tartans/c/ca/carlisle/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=563](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1988 — Carlisle Ancient (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=563">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2474E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #2474E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by C. Justus, of North Carolina for all Carlisles to wear. Tartan Society records call this Carlisle 'Ancient' which it certainly isn't, either in age or colour. The Justus were an old Perthshire family.</em></li>
-<li>pre 1988 — Carlisle Ancient (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=680">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2474E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #2474E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by C. Justus, of North Carolina for all Carlisles to wear. Tartan Society records call this Carlisle 'Ancient' which it certainly isn't, either in age or colour.</em></li>
+<li>pre 1988 — Carlisle Ancient (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/680/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2474E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #2474E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by C. Justus, of North Carolina for all Carlisles to wear. Tartan Society records call this Carlisle 'Ancient' which it certainly isn't, either in age or colour.</em></li>
 </ul>
 </details>
 

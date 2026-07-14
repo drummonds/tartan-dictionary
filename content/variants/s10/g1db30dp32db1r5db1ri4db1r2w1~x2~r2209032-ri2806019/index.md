@@ -8,10 +8,10 @@ crumbs:
 - name: "Gill, Anil"
   url: "/tartans/g/gi/gill-anil/"
 - name: "Gill, Anil (Personal)"
-  url: "/setts/g1db30dp32db1r5db1ri4db1r2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g1db30dp32db1r5db1ri4db1r2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gi/gill-anil/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBRBRBRW](/stripes/gbbbrbrbrw/).
 
 Part of the [Gill, Anil](/tartans/g/gi/gill-anil/) tartan — the named design grouping this sett with its other cloths.

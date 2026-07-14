@@ -12,10 +12,10 @@ crumbs:
 - name: "Presley of Lonmay"
   url: "/tartans/p/pr/presley-of-lonmay/"
 - name: "Presley of Lonmay #2"
-  url: "/setts/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/presley-of-lonmay/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRBKGWGKGWGK](/stripes/bkrbkgwgkgwgk/).
 
 Part of the [Presley of Lonmay](/tartans/p/pr/presley-of-lonmay/) tartan — the named design grouping this sett with its other cloths.

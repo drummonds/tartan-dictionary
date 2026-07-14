@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/ly15r3ly3r1ly35g5w2db2g35r1g3r3ly5w2db2~x2/">Keilar (2013)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/ly15r3ly3r1ly35g5w2db2g35r1g3r3ly5w2db2~x2/"><img src="/variants/s15/ly15r3ly3r1ly35g5w2db2g35r1g3r3ly5w2db2~x2/sett.png" alt="Keilar (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/keilar/">Keilar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/keilar/"><img src="/variants/s15/ly15r3ly3r1ly35g5w2db2g35r1g3r3ly5w2db2~x2/sett.png" alt="Keilar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

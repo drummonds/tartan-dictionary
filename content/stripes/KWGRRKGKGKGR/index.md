@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/">Fullerton, Terrance (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/"><img src="/variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/sett.png" alt="Fullerton, Terrance (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fu/fullerton-terrance/">Fullerton, Terrance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fu/fullerton-terrance/"><img src="/variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/sett.png" alt="Fullerton, Terrance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

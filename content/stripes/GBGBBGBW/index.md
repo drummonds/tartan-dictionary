@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w9db3y3db24dbi24y2dbi2y2~x2~db1106275-dbi1404245/">Halesowen #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w9db3y3db24dbi24y2dbi2y2~x2~db1106275-dbi1404245/"><img src="/variants/s8/w9db3y3db24dbi24y2dbi2y2~x2~db1106275-dbi1404245/sett.png" alt="Halesowen #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/">Halesowen (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><img src="/variants/s8/w9t3y3t24db24y2db2y2~x2/sett.png" alt="Halesowen (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/halesowen/">Halesowen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/halesowen/"><img src="/variants/s8/w9t3y3t24db24y2db2y2~x2/sett.png" alt="Halesowen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

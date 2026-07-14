@@ -8,10 +8,10 @@ crumbs:
 - name: "Afternoon Tea / Mint Tea"
   url: "/tartans/a/af/afternoon-tea-mint-tea/"
 - name: "Afternoon Tea / Mint Tea"
-  url: "/setts/w15lg98db72lb25db8ly15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w15lg98db72lb25db8ly15/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/af/afternoon-tea-mint-tea/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYBWBY](/stripes/wybwby/).
 
 Part of the [Afternoon Tea / Mint Tea](/tartans/a/af/afternoon-tea-mint-tea/) tartan — the named design grouping this sett with its other cloths.

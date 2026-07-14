@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db2lo10lb1o8g7dr10lb2~x2/">Kipp (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db2lo10lb1o8g7dr10lb2~x2/"><img src="/variants/s7/db2lo10lb1o8g7dr10lb2~x2/sett.png" alt="Kipp (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kipp/">Kipp</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kipp/"><img src="/variants/s7/db2lo10lb1o8g7dr10lb2~x2/sett.png" alt="Kipp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

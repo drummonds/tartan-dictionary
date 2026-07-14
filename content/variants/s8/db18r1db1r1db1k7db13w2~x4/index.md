@@ -8,10 +8,10 @@ crumbs:
 - name: "Tokyo Bluebells"
   url: "/tartans/t/to/tokyo-bluebells/"
 - name: "Tokyo Bluebells"
-  url: "/setts/db18r1db1r1db1k7db13w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18r1db1r1db1k7db13w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/tokyo-bluebells/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBKBW](/stripes/brbrbkbw/).
 
 Part of the [Tokyo Bluebells](/tartans/t/to/tokyo-bluebells/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Vosko"
   url: "/tartans/v/vo/vosko/"
 - name: "Vosko Family Tartan"
-  url: "/setts/db25k12y4k9r6k9y4k12g25/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db25k12y4k9r6k9y4k12g25/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vo/vosko/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKRKGKG](/stripes/bkgkrkgkg/).
 
 Part of the [Vosko](/tartans/v/vo/vosko/) tartan — the named design grouping this sett with its other cloths.

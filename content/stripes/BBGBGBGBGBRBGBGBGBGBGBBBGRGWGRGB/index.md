@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/">Franconian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/"><img src="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/sett.png" alt="Franconian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/franconian-2/">Franconian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/franconian-2/"><img src="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/sett.png" alt="Franconian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

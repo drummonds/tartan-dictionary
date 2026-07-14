@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r60w28ly2lb3~x2/">Willis, H Graham</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r60w28ly2lb3~x2/"><img src="/variants/s4/r60w28ly2lb3~x2/sett.png" alt="Willis, H Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/willis-h-graham/">Willis, H Graham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/willis-h-graham/"><img src="/variants/s4/r60w28ly2lb3~x2/sett.png" alt="Willis, H Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

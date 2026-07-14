@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2~x2/">Thormanby Buccaneer Bay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2~x2/"><img src="/variants/s16/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2~x2/sett.png" alt="Thormanby Buccaneer Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thormanby-buccaneer-bay/">Thormanby Buccaneer Bay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thormanby-buccaneer-bay/"><img src="/variants/s16/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2~x2/sett.png" alt="Thormanby Buccaneer Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

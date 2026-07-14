@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3~x2/">Casey (Dress) Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3~x2/"><img src="/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3~x2/sett.png" alt="Casey (Dress) Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k4r1k1r1k1r8w2r8k1r1k1r1k4~x2/">Casey Dress (Estimated threadcount)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k4r1k1r1k1r8w2r8k1r1k1r1k4~x2/"><img src="/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k4r1k1r1k1r8w2r8k1r1k1r1k4~x2/sett.png" alt="Casey Dress (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/casey/">Casey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/casey/"><img src="/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3~x2/sett.png" alt="Casey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/casey-dress/">Casey Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/casey-dress/"><img src="/variants/s26/w14y2w14k4w4k8w3k8w4k4w14r2w14k4r1k1r1k1r8w2r8k1r1k1r1k4~x2/sett.png" alt="Casey Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

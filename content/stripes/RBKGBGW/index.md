@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/">Game Fair</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/"><img src="/variants/s7/r3db12k12dg12t2dg12w3~x2/sett.png" alt="Game Fair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/game-fair/">Game Fair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/game-fair/"><img src="/variants/s7/r3db12k12dg12t2dg12w3~x2/sett.png" alt="Game Fair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

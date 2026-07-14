@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/">Downie Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><img src="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/sett.png" alt="Downie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/downie-dress/">Downie Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/downie-dress/"><img src="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/sett.png" alt="Downie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

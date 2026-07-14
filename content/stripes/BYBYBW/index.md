@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db1ly5db1ly5db2w1~x4/">Tokharion</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db1ly5db1ly5db2w1~x4/"><img src="/variants/s6/db1ly5db1ly5db2w1~x4/sett.png" alt="Tokharion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/tokharion/">Tokharion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/tokharion/"><img src="/variants/s6/db1ly5db1ly5db2w1~x4/sett.png" alt="Tokharion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

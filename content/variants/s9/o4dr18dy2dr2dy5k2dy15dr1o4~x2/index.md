@@ -8,10 +8,10 @@ crumbs:
 - name: "Redwoods"
   url: "/tartans/r/re/redwoods/"
 - name: "Redwoods"
-  url: "/setts/o4dr18dy2dr2dy5k2dy15dr1o4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o4dr18dy2dr2dy5k2dy15dr1o4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/redwoods/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGKGBR](/stripes/rbgbgkgbr/).
 
 Part of the [Redwoods](/tartans/r/re/redwoods/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3484](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Redwoods (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3484">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#746450;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #746450"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1972 — Redwoods (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5422">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#746450;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #746450"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Sample in STA Johnston Collection.</em></li>
+<li>pre 1972 — Redwoods (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5422/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#746450;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #746450"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

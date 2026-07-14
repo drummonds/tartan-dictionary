@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/b6db6g6r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgr/">BBGR</a></nav>
 Its design is pattern [BBGR](/stripes/bbgr/) — the page of every tartan sharing this colour sequence.
 
 The **Unnamed No 40** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unnamed No 40** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b6db6g6r1/">Unnamed No 40</a></td><td><code>B/12 DB12 G12 R/2</code></td><td>62</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b6db6g6r1/"><img src="/variants/s4/b6db6g6r1~x2/sett.png" alt="Unnamed No 40 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/b6db6g6r1~x2/">Unnamed No 40</a></td><td><code>B/12 DB12 G12 R/2</code></td><td>62</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/b6db6g6r1~x2/"><img src="/variants/s4/b6db6g6r1~x2/sett.png" alt="Unnamed No 40 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/t6db6g6r1~x2~t2503227-db1406275-r2109032/"><circle cx="195.3" cy="322.4" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><a href="/variants/s4/lb6db6g6r1~x2/"><circle cx="143.9" cy="297.5" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="265.1" cy="249.2" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="225.3" cy="261.2" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="260.3" cy="259.4" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="290.8" cy="304.7" r="4" fill="#3465a4"><title>Wilson's No 62</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="260.7" cy="262.7" r="4" fill="#3465a4"><title>Unidentified 10</title></circle></a><a href="/variants/s3/db6g5r1~x4/"><circle cx="295.1" cy="306.7" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="294.3" cy="308.6" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="147.2" cy="220.5" r="4" fill="#3465a4"><title>Bath</title></circle></a><circle cx="184.2" cy="314.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/t6db6g6r1~x2~t2503227-db1406275-r2109032/"><circle cx="195.1" cy="322.3" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><a href="/variants/s4/lb6db6g6r1~x2/"><circle cx="143.9" cy="297.3" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="265.4" cy="249.2" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="225.5" cy="261.2" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="260.6" cy="259.5" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="291.1" cy="304.9" r="4" fill="#3465a4"><title>Wilson's No 62</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="261.0" cy="262.8" r="4" fill="#3465a4"><title>Unidentified 10</title></circle></a><a href="/variants/s3/db6g5r1~x4/"><circle cx="295.5" cy="306.8" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="294.6" cy="308.7" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="147.4" cy="220.3" r="4" fill="#3465a4"><title>Bath</title></circle></a><circle cx="184.1" cy="314.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

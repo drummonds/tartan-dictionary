@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1ly6k1g8r4g4r4g14k22t4k4t4k4t24~x2/">MacDonald, Flora (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1ly6k1g8r4g4r4g14k22t4k4t4k4t24~x2/"><img src="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1ly6k1g8r4g4r4g14k22t4k4t4k4t24~x2/sett.png" alt="MacDonald, Flora (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-flora/">MacDonald, Flora</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-flora/"><img src="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1ly6k1g8r4g4r4g14k22t4k4t4k4t24~x2/sett.png" alt="MacDonald, Flora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

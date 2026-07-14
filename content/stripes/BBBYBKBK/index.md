@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/">Private SA Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><img src="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/sett.png" alt="Private SA Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/private-sa-club/">Private SA Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/private-sa-club/"><img src="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/sett.png" alt="Private SA Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

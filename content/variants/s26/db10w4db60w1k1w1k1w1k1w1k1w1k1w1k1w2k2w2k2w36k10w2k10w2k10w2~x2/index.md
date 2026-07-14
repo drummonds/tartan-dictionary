@@ -8,15 +8,15 @@ crumbs:
 - name: "Kilbarchan Unidentified No. 5"
   url: "/tartans/k/ki/kilbarchan-unidentified-no-5/"
 - name: "Kilbarchan Unidentified No. 5"
-  url: "/setts/db10w4db60w1k1w1k1w1k1w1k1w1k1w1k1w2k2w2k2w36k10w2k10w2k10w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10w4db60w1k1w1k1w1k1w1k1w1k1w1k1w2k2w2k2w36k10w2k10w2k10w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWBW](/stripes/bwbwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwbw/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kilbarchan-unidentified-no-5/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWKWKWKWKWKWKWKWKWKWKWKW](/stripes/bwbwkwkwkwkwkwkwkwkwkwkwkw/).
 
 Part of the [Kilbarchan Unidentified No. 5](/tartans/k/ki/kilbarchan-unidentified-no-5/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [50 stripe tartan](/stripes/stripes50/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1962](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1962)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4417
 
 ## Thread count
-DB/20 W8 DB120 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W4 K4 W4 K4 W72 K20 W4 K20 W4 K20 W4 K20 W4 K20 W4 K20 W72 K4 W4 K4 W4 K2 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W2 DB120 W/8
+DB/20 W8 DB120 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W4 K4 W4 K4 W72 K20 W4 K20 W4 K20 W/4
 
-One full sett is **1252 threads**.
+One full sett is **640 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/20 W8 DB120 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W4 K4 W4 K4 W72 K20 W4 K20 W4 K20 W4 K20 W4 K20 W4 K20 W72 K4 W4 K4 W4 K2 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W2 DB120 W/8 — 1252 threads; it folds to the canonical 640-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **1252 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/20 W8 DB120 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W4 K4 W4 K4 W72 K20 W4 K20 W4 K20 W4 K20 W4 K20 W4 K20 W72 K4 W4 K4 W4 K2 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W2 DB120 W/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/20 W8 DB120 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W2 K2 W4 K4 W4 K4 W72 K20 W4 K20 W4 K20 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

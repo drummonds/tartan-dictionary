@@ -8,10 +8,10 @@ crumbs:
 - name: "Knights Templar St Andrews"
   url: "/tartans/k/kn/knights-templar-st-andrews-2/"
 - name: "Knights Templar St Andrews Corporate Tartan"
-  url: "/setts/w4r1db18k6w5k4w4k4w3k2r1db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4r1db18k6w5k4w4k4w3k2r1db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/kn/knights-templar-st-andrews-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKWKWKWKBRW](/stripes/brkwkwkwkbrw/).
 
 Part of the [Knights Templar St Andrews](/tartans/k/kn/knights-templar-st-andrews-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6~lb3201240-lr2800000/">Life Goes On Foundation (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6~lb3201240-lr2800000/"><img src="/variants/s13/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6~lb3201240-lr2800000/sett.png" alt="Life Goes On Foundation (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/life-goes-on-foundation/">Life Goes on Foundation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/life-goes-on-foundation/"><img src="/variants/s13/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6~lb3201240-lr2800000/sett.png" alt="Life Goes on Foundation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

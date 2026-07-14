@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/">Marie Curie Fields of Hope</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><img src="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/sett.png" alt="Marie Curie Fields of Hope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/marie-curie-fields-of-hope-2/">Marie Curie Fields of Hope</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/marie-curie-fields-of-hope-2/"><img src="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/sett.png" alt="Marie Curie Fields of Hope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

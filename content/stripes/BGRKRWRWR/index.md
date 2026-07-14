@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/">Royal Scottish Assurance</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><img src="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/sett.png" alt="Royal Scottish Assurance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/">Royal Scottish Assurance (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><img src="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/sett.png" alt="Royal Scottish Assurance (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-scottish-assurance/">Royal Scottish Assurance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-scottish-assurance/"><img src="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/sett.png" alt="Royal Scottish Assurance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

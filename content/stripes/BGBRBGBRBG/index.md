@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db60y6db11r25db11y6~x2/">South Australian Pipes &amp; Drums</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db60y6db11r25db11y6~x2/"><img src="/variants/s6/db60y6db11r25db11y6~x2/sett.png" alt="South Australian Pipes &amp; Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/">Unidentified Specimen #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/"><img src="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/sett.png" alt="Unidentified Specimen #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-specimen-2/">Unidentified Specimen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-specimen-2/"><img src="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/sett.png" alt="Unidentified Specimen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

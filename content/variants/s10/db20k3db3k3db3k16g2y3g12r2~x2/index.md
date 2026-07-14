@@ -12,10 +12,10 @@ crumbs:
 - name: "Barnes"
   url: "/tartans/b/ba/barnes/"
 - name: "Barnes"
-  url: "/setts/db20k3db3k3db3k16g2y3g12r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db20k3db3k3db3k16g2y3g12r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barnes/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGGGR](/stripes/bkbkbkgggr/).
 
 Part of the [Barnes](/tartans/b/ba/barnes/) tartan — the named design grouping this sett with its other cloths.

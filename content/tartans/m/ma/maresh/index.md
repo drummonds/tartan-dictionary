@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k3y3g22db6k17g6db22r3db3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbgkbggk/">BRBGKBGGK</a></nav>
 Its design is pattern [BRBGKBGGK](/stripes/brbgkbggk/) — the page of every tartan sharing this colour sequence.
 
 The **Maresh** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Maresh** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3y3g22db6k17g6db22r3db3/">Maresh</a></td><td><code>K/6 Y6 G44 DB12 K34 G12 DB44 R6 DB/6</code></td><td>328</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3y3g22db6k17g6db22r3db3/"><img src="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/sett.png" alt="Maresh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/">Maresh</a></td><td><code>K/6 Y6 G44 DB12 K34 G12 DB44 R6 DB/6</code></td><td>328</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/"><img src="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/sett.png" alt="Maresh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="119.8" cy="183.8" r="4" fill="#3465a4"><title>Wood</title></circle></a><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/"><circle cx="133.7" cy="175.2" r="4" fill="#3465a4"><title>Mantle</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="133.4" cy="160.0" r="4" fill="#3465a4"><title>Ogilvie of Inverarity / Ochterlonie</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="147.9" cy="171.2" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><circle cx="111.4" cy="179.1" r="4" fill="#3465a4"><title>Akins Hunting</title></circle></a><a href="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/"><circle cx="153.2" cy="155.8" r="4" fill="#3465a4"><title>Barnes</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="137.4" cy="174.0" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="95.1" cy="174.9" r="4" fill="#3465a4"><title>Hunter of Peebleshire</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="158.5" cy="168.7" r="4" fill="#3465a4"><title>MacLeod Small</title></circle></a><a href="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/"><circle cx="105.1" cy="187.5" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><circle cx="134.7" cy="182.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="120.1" cy="183.6" r="4" fill="#3465a4"><title>Wood</title></circle></a><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/"><circle cx="134.1" cy="175.0" r="4" fill="#3465a4"><title>Mantle</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="133.8" cy="159.8" r="4" fill="#3465a4"><title>Ogilvie of Inverarity / Ochterlonie</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="148.3" cy="171.0" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><circle cx="111.6" cy="178.9" r="4" fill="#3465a4"><title>Akins Hunting</title></circle></a><a href="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/"><circle cx="153.7" cy="155.6" r="4" fill="#3465a4"><title>Barnes</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="137.8" cy="173.8" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="95.4" cy="174.6" r="4" fill="#3465a4"><title>Hunter of Peebleshire</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="158.9" cy="168.6" r="4" fill="#3465a4"><title>MacLeod Small</title></circle></a><a href="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/"><circle cx="105.4" cy="187.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><circle cx="135.0" cy="181.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

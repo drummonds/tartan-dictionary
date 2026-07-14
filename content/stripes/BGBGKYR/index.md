@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db8g2db10g12k1lr1r1~x4/">Nowell/Noel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db8g2db10g12k1lr1r1~x4/"><img src="/variants/s7/db8g2db10g12k1lr1r1~x4/sett.png" alt="Nowell/Noel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db3g4db20g24k2lr3r1~x2/">Nowell/Noel (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3g4db20g24k2lr3r1~x2/"><img src="/variants/s7/db3g4db20g24k2lr3r1~x2/sett.png" alt="Nowell/Noel (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/nowell-noel/">Nowell/Noel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nowell-noel/"><img src="/variants/s7/db3g4db20g24k2lr3r1~x2/sett.png" alt="Nowell/Noel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

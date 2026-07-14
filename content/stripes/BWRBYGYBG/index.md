@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/">Ogilvie of Inverquharity or Ohio</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><img src="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/sett.png" alt="Ogilvie of Inverquharity or Ohio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/oh/ohio/">Ohio</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/oh/ohio/"><img src="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/sett.png" alt="Ohio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

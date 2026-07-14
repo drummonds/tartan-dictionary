@@ -11,11 +11,11 @@ crumbs:
   url: "/families/connel/"
 - name: "Connel"
   url: "/tartans/c/co/connel/"
-- name: "Connel (Clan)"
-  url: "/setts/y1k8r8w1/"
+- name: "Connel Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1k8r8w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/connel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRW](/stripes/gkrw/).
 
 Part of the [Connel](/tartans/c/co/connel/) tartan — the named design grouping this sett with its other cloths.

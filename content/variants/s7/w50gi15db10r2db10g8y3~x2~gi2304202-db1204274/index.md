@@ -8,10 +8,10 @@ crumbs:
 - name: "Nimah, Carissa & Bassem"
   url: "/tartans/n/ni/nimah-carissa-bassem/"
 - name: "Nimah, Carissa & Bassem (Personal)"
-  url: "/setts/w50gi15db10r2db10g8y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w50gi15db10r2db10g8y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ni/nimah-carissa-bassem/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBRBGW](/stripes/ggbrbgw/).
 
 Part of the [Nimah, Carissa & Bassem](/tartans/n/ni/nimah-carissa-bassem/) tartan — the named design grouping this sett with its other cloths.

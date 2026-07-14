@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/ri1dr4r10ly2w1~x4~ri2806019-r2109032/">Love (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/ri1dr4r10ly2w1~x4~ri2806019-r2109032/"><img src="/variants/s5/ri1dr4r10ly2w1~x4~ri2806019-r2109032/sett.png" alt="Love (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/love/">Love</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/love/"><img src="/variants/s5/ri1dr4r10ly2w1~x4~ri2806019-r2109032/sett.png" alt="Love sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

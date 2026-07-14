@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/stevenson/"
 - name: "Stevenson"
   url: "/families/stevenson/"
+aliases:
+- "/setts/dr1g6ly1dr2ly1dr2ly1db6ly1/"
+- "/setts/r1g6y1r2y1r2y1db6y1/"
+- "/setts/r1g8y1r2y1r2y1db8y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgybybyby/">BGYBYBYBY</a></nav>
 A tartan of the [Stevenson](/families/stevenson/) family.
 Its design is pattern [BGYBYBYBY](/stripes/bgybybyby/) — the page of every tartan sharing this colour sequence.
 
@@ -18,12 +23,12 @@ The **Stevenson** tartan groups 3 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr1g6ly1dr2ly1dr2ly1db6ly1/">Stevenson</a> ★</td><td><code>DR/8 G48 LY8 DR16 LY8 DR16 LY8 DB48 LY/8</code></td><td>320</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr1g6ly1dr2ly1dr2ly1db6ly1/"><img src="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r1g6y1r2y1r2y1db6y1/">Stevenson</a></td><td><code>R/2 G12 Y2 R4 Y2 R4 Y2 DB12 Y/2</code></td><td>80</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1g6y1r2y1r2y1db6y1/"><img src="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r1g8y1r2y1r2y1db8y1/">Family Tartan</a></td><td><code>R/4 G32 Y4 R8 Y4 R8 Y4 DB32 Y/4</code></td><td>192</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1g8y1r2y1r2y1db8y1/"><img src="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/">Stevenson</a> ★</td><td><code>DR/8 G48 LY8 DR16 LY8 DR16 LY8 DB48 LY/8</code></td><td>320</td><td>1980</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/"><img src="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/">Stevenson</a></td><td><code>R/2 G12 Y2 R4 Y2 R4 Y2 DB12 Y/2</code></td><td>80</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/"><img src="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/">Family Tartan</a></td><td><code>R/4 G32 Y4 R8 Y4 R8 Y4 DB32 Y/4</code></td><td>192</td><td>1980</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/"><img src="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="202.3" cy="218.1" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="217.9" cy="244.7" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s16/g6ly1dr2ly1dr2ly1db6ly1db6ly1dr2ly1dr2ly1g6dr1~x8/"><circle cx="146.8" cy="222.9" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><circle cx="184.2" cy="226.3" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/"><circle cx="153.8" cy="226.1" r="4" fill="#3465a4"><title>Elwyn Glen</title></circle></a><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/"><circle cx="120.0" cy="242.3" r="4" fill="#3465a4"><title>Black Watch Dress, Brown/Grey</title></circle></a><a href="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/"><circle cx="148.0" cy="204.9" r="4" fill="#3465a4"><title>Leitrem County Crest</title></circle></a><a href="/variants/s11/dr3db14g14db2dr14db2dr14db2g14db2lo3~x2/"><circle cx="224.1" cy="242.9" r="4" fill="#3465a4"><title>Clare Irish County</title></circle></a><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><circle cx="202.4" cy="214.4" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="192.6" cy="231.2" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><circle cx="157.7" cy="242.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="202.6" cy="218.0" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="217.9" cy="244.6" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s16/g6ly1dr2ly1dr2ly1db6ly1db6ly1dr2ly1dr2ly1g6dr1~x8/"><circle cx="146.7" cy="222.7" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><circle cx="184.4" cy="226.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/"><circle cx="153.7" cy="225.8" r="4" fill="#3465a4"><title>Elwyn Glen</title></circle></a><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/"><circle cx="119.9" cy="242.0" r="4" fill="#3465a4"><title>Black Watch Dress, Brown/Grey</title></circle></a><a href="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/"><circle cx="148.0" cy="204.6" r="4" fill="#3465a4"><title>Leitrem County Crest</title></circle></a><a href="/variants/s11/dr3db14g14db2dr14db2dr14db2g14db2lo3~x2/"><circle cx="224.2" cy="242.8" r="4" fill="#3465a4"><title>Clare Irish County</title></circle></a><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><circle cx="202.4" cy="214.2" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="192.5" cy="231.0" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><circle cx="157.6" cy="242.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

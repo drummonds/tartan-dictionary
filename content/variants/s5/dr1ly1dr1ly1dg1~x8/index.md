@@ -8,10 +8,10 @@ crumbs:
 - name: "Ballindalloch Check"
   url: "/tartans/b/ba/ballindalloch-check/"
 - name: "Ballindalloch Check"
-  url: "/setts/dr1ly1dr1ly1dg1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr1ly1dr1ly1dg1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/ballindalloch-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYG](/stripes/bybyg/).
 
 Part of the [Ballindalloch Check](/tartans/b/ba/ballindalloch-check/) tartan — the named design grouping this sett with its other cloths.

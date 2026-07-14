@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/k6g1k1g4ly1r1ly4r1ly2g4k1g1k8w1k2~x4/">Confessore (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k6g1k1g4ly1r1ly4r1ly2g4k1g1k8w1k2~x4/"><img src="/variants/s15/k6g1k1g4ly1r1ly4r1ly2g4k1g1k8w1k2~x4/sett.png" alt="Confessore (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/confessore/">Confessore</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/confessore/"><img src="/variants/s15/k6g1k1g4ly1r1ly4r1ly2g4k1g1k8w1k2~x4/sett.png" alt="Confessore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

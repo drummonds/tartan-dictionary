@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r8g4r30db6r2k1r2g6r8k1r4y2~x2/">Highland Queen (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r8g4r30db6r2k1r2g6r8k1r4y2~x2/"><img src="/variants/s12/r8g4r30db6r2k1r2g6r8k1r4y2~x2/sett.png" alt="Highland Queen (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-queen/">Highland Queen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-queen/"><img src="/variants/s12/r8g4r30db6r2k1r2g6r8k1r4y2~x2/sett.png" alt="Highland Queen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

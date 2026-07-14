@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032/">New York Caledonian Club Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032/"><img src="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032/sett.png" alt="New York Caledonian Club Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-york-caledonian-club-dress/">New York Caledonian Club Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-york-caledonian-club-dress/"><img src="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032/sett.png" alt="New York Caledonian Club Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

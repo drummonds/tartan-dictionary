@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/hepburn/"
 - name: "Hepburn"
   url: "/families/hepburn/"
+aliases:
+- "/setts/db13lb1db3lb6y1lb1/"
+- "/setts/db13b1db3b6y1b1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbwgw/">BWBWGW</a></nav>
 A tartan of the [Hepburn](/families/hepburn/) family.
 Its design is pattern [BWBWGW](/stripes/bwbwgw/) — the page of every tartan sharing this colour sequence.
 
@@ -20,10 +24,10 @@ The **Hepburn** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db13lb1db3lb6y1lb1/">Hepburn</a> ★</td><td><code>DB/52 LB4 DB12 LB24 Y4 LB/4</code></td><td>144</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db13lb1db3lb6y1lb1/"><img src="/variants/s6/db13lb1db3lb6y1lb1~x4/sett.png" alt="Hepburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db13b1db3b6y1b1/">Hepburn</a></td><td><code>DB/52 B4 DB12 B24 Y4 B/4</code></td><td>144</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db13b1db3b6y1b1/"><img src="/variants/s6/db13b1db3b6y1b1~x4/sett.png" alt="Hepburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/">Hepburn</a> ★</td><td><code>DB/52 LB4 DB12 LB24 Y4 LB/4</code></td><td>144</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><img src="/variants/s6/db13lb1db3lb6y1lb1~x4/sett.png" alt="Hepburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db13b1db3b6y1b1~x4/">Hepburn</a></td><td><code>DB/52 B4 DB12 B24 Y4 B/4</code></td><td>144</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db13b1db3b6y1b1~x4/"><img src="/variants/s6/db13b1db3b6y1b1~x4/sett.png" alt="Hepburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -42,6 +46,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.8" cy="180.0" r="4" fill="#3465a4"><title>Hoosier</title></circle></a><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/"><circle cx="435.4" cy="118.1" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="397.0" cy="246.3" r="4" fill="#3465a4"><title>Gallaecia</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="408.8" cy="191.4" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s5/db72lb6db12lb17w6~x2/"><circle cx="498.7" cy="223.2" r="4" fill="#3465a4"><title>GulfMark</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="290.1" cy="176.9" r="4" fill="#3465a4"><title>International Police Association</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="289.1" cy="176.7" r="4" fill="#3465a4"><title>Int. Police Association</title></circle></a><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="387.9" cy="204.6" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s6/db5lb1db15lb25db1lb5~x4/"><circle cx="453.0" cy="217.2" r="4" fill="#3465a4"><title>Dram!</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.9" cy="156.3" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><circle cx="416.0" cy="208.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="462.7" cy="180.3" r="4" fill="#3465a4"><title>Hoosier</title></circle></a><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/"><circle cx="436.6" cy="118.3" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="397.7" cy="246.4" r="4" fill="#3465a4"><title>Gallaecia</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="409.8" cy="191.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s5/db72lb6db12lb17w6~x2/"><circle cx="499.7" cy="223.5" r="4" fill="#3465a4"><title>GulfMark</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="290.7" cy="176.8" r="4" fill="#3465a4"><title>International Police Association</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="289.7" cy="176.7" r="4" fill="#3465a4"><title>Int. Police Association</title></circle></a><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="388.6" cy="204.7" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s6/db5lb1db15lb25db1lb5~x4/"><circle cx="453.7" cy="217.4" r="4" fill="#3465a4"><title>Dram!</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="541.1" cy="156.7" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><circle cx="416.8" cy="209.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

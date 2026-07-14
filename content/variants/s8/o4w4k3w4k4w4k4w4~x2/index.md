@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Feshie"
   url: "/tartans/g/gl/glen-feshie/"
 - name: "Glen Feshie Check"
-  url: "/setts/o4w4k3w4k4w4k4w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o4w4k3w4k4w4k4w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-feshie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWKWKW](/stripes/rwkwkwkw/).
 
 Part of the [Glen Feshie](/tartans/g/gl/glen-feshie/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1378](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1834 — Glen Feshie Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1378">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C82800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LC #C82800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0DCBC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F0DCBC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><br><em>The Feshie is one of the clear torrents that come down from the Cairngorm Mountains to join the River Spey. According to 'Our Scottish District Checks' (E S Harrison 1968) it was designed by the wife of the then owner who was disturbed because she had no tartan, so she designed the plaid which Mr Ellice and the gillies and keepers wore from that time to this present date (1968).</em></li>
-<li>1834 - 1841 — Glen Feshie (Estate Check) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5008">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C82800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LC #C82800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0DCBC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F0DCBC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><br><em>The Feshie is one of the clear torrents that come down from the Cairngorm Mountains to join the River Spey. According to "Our Scottish District Checks" (E S Harrison 1968) it was designed by the wife of the then owner who 'was disturbed because she had no tartan, so she designed the plaid which Mr Ellice and the gillies and keepers wore from that time to this present date (1968).</em></li>
+<li>1834 - 1841 — Glen Feshie (Estate Check) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5008/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C82800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LC #C82800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0DCBC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F0DCBC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><br><em>The Feshie is one of the clear torrents that come down from the Cairngorm Mountains to join the River Spey. According to "Our Scottish District Checks" (E S Harrison 1968) it was designed by the wife of the then owner who 'was disturbed because she had no tartan, so she designed the plaid which Mr Ellice and the gillies and keepers wore from that time to this present date (1968).</em></li>
 </ul>
 </details>
 

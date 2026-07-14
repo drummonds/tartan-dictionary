@@ -7,18 +7,18 @@ crumbs:
   url: "/"
 - name: "Armstrong"
   url: "/tartans/a/ar/armstrong/"
-- name: "Armstrong"
-  url: "/setts/r3db12k1db1k1db2k12g30k1g2/"
+- name: "Armstrong (Clan)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3db12k1db1k1db2k12g30k1g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/armstrong/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBKBKBR](/stripes/gkgkbkbkbr/).
 
 Part of the [Armstrong](/tartans/a/ar/armstrong/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=793](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=793)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/793/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/793/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: 1842 An act passed by the Scottish parliament in 1587 refer
 <details class="attestations">
 <summary>6 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1842 — Armstrong (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=793">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>The Armstrongs were a lowland family and as such would not traditionally have had a tartan. However . . . the Sobieski Stewarts 'invented' one for them in their 1842 Vestiarium Scoticum and it took hold as it was then included in J Claude's 1880 pattern books 'Clans Originaux' and 'Scotch Tartans' with a much lighter green. Lochcarron swatch.</em></li>
+<li>1842 — Armstrong (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/793/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>The Armstrongs were a lowland family and as such would not traditionally have had a tartan. However . . . the Sobieski Stewarts 'invented' one for them in their 1842 Vestiarium Scoticum and it took hold as it was then included in J Claude's 1880 pattern books 'Clans Originaux' and 'Scotch Tartans' with a much lighter green. Lochcarron swatch.</em></li>
 <li>1842 — Armstrong Clan Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=793">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span></li>
 <li>undated — Armstrong (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00004C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00004C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004C00"></span></li>
 <li>undated — Armstrong (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span></li>
@@ -46,7 +46,7 @@ Earliest known date: 1842 An act passed by the Scottish parliament in 1587 refer
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

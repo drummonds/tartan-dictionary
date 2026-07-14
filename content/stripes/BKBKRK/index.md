@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k7r2k33db33k2db7~x2/">Casterton (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k7r2k33db33k2db7~x2/"><img src="/variants/s6/k7r2k33db33k2db7~x2/sett.png" alt="Casterton (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/casterton/">Casterton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/casterton/"><img src="/variants/s6/k7r2k33db33k2db7~x2/sett.png" alt="Casterton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db80k28dp9k3o5k12~x2/">Earl Blue Marl</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db80k28dp9k3o5k12~x2/"><img src="/variants/s6/db80k28dp9k3o5k12~x2/sett.png" alt="Earl Blue Marl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ea/earl-blue-marl/">Earl Blue Marl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ea/earl-blue-marl/"><img src="/variants/s6/db80k28dp9k3o5k12~x2/sett.png" alt="Earl Blue Marl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/n58k22n8k17r5k14~x2/">Flynn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n58k22n8k17r5k14~x2/"><img src="/variants/s6/n58k22n8k17r5k14~x2/sett.png" alt="Flynn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fl/flynn/">Flynn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/flynn/"><img src="/variants/s6/n58k22n8k17r5k14~x2/sett.png" alt="Flynn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

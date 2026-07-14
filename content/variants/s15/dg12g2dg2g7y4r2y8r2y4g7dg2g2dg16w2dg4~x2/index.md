@@ -12,10 +12,10 @@ crumbs:
 - name: "Confessore"
   url: "/tartans/c/co/confessore-2/"
 - name: "Confessore Family Tartan"
-  url: "/setts/dg12g2dg2g7y4r2y8r2y4g7dg2g2dg16w2dg4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg12g2dg2g7y4r2y8r2y4g7dg2g2dg16w2dg4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/confessore-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGRGRGGGGGWG](/stripes/gggggrgrgggggwg/).
 
 Part of the [Confessore](/tartans/c/co/confessore-2/) tartan — the named design grouping this sett with its other cloths.

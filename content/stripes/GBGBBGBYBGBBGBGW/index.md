@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/">Scottish Borderland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/"><img src="/variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/sett.png" alt="Scottish Borderland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-borderland-2/">Scottish Borderland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-borderland-2/"><img src="/variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/sett.png" alt="Scottish Borderland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

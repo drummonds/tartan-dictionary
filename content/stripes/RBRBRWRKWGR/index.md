@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/">McLinden, Thomas (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><img src="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/sett.png" alt="McLinden, Thomas (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mclinden-thomas/">McLinden, Thomas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mclinden-thomas/"><img src="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/sett.png" alt="McLinden, Thomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

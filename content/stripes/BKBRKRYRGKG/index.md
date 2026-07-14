@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/">Bracken (WCWM)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/"><img src="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/sett.png" alt="Bracken (WCWM) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bracken-2/">Bracken</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bracken-2/"><img src="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/sett.png" alt="Bracken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

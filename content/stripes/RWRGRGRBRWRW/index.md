@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/">1745 Trading (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><img src="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/sett.png" alt="1745 Trading (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/1745-trading/">1745 Trading</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/1745-trading/"><img src="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/sett.png" alt="1745 Trading sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

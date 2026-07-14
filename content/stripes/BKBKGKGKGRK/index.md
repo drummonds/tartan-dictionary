@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/">Louise of Lorne</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/"><img src="/variants/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/sett.png" alt="Louise of Lorne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/louise/">Louise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/louise/"><img src="/variants/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/sett.png" alt="Louise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dr3g30k12g1k16lo2~x2/">MacArthur-Fox Htg (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr3g30k12g1k16lo2~x2/"><img src="/variants/s6/dr3g30k12g1k16lo2~x2/sett.png" alt="MacArthur-Fox Htg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macarthur-fox-hunting/">MacArthur-Fox Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macarthur-fox-hunting/"><img src="/variants/s6/dr3g30k12g1k16lo2~x2/sett.png" alt="MacArthur-Fox Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

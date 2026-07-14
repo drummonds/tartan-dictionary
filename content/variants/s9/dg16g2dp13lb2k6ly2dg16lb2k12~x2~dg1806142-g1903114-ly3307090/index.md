@@ -8,15 +8,15 @@ crumbs:
 - name: "Wilson's No.225"
   url: "/tartans/w/wi/wilson-s-no-225/"
 - name: "Wilson's No.225"
-  url: "/setts/dg16g2dp13lb2k6ly2dg16lb2k12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg16g2dp13lb2k6ly2dg16lb2k12/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GBWKYGWKWGYKWBGG](/stripes/gbwkygwkwgykwbgg/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-225/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBWKYGWK](/stripes/ggbwkygwk/).
 
 Part of the [Wilson's No.225](/tartans/w/wi/wilson-s-no-225/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4752](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4752)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 751
 
 ## Thread count
-DG/32 G4 DP26 LB4 K12 LY4 DG32 LB4 K24 LB4 DG32 LY4 K12 LB4 DP26 G/4
+DG/32 G4 DP26 LB4 K12 LY4 DG32 LB4 K/24
 
-One full sett is **420 threads**.
+One full sett is **228 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/32 G4 DP26 LB4 K12 LY4 DG32 LB4 K24 LB4 DG32 LY4 K12 LB4 DP26 G/4 — 420 threads; it folds to the canonical 228-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **420 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/32 G4 DP26 LB4 K12 LY4 DG32 LB4 K24 LB4 DG32 LY4 K12 LB4 DP26 G/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/32 G4 DP26 LB4 K12 LY4 DG32 LB4 K/24 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/">MacDonald of Aird &amp; Valley (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/"><img src="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/sett.png" alt="MacDonald of Aird &amp; Valley (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-aird-valley/">MacDonald of Aird &amp; Valley</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-aird-valley/"><img src="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/sett.png" alt="MacDonald of Aird &amp; Valley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

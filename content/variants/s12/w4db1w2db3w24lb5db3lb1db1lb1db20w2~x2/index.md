@@ -10,10 +10,10 @@ crumbs:
 - name: "Menzies Royal Blue Dress"
   url: "/tartans/m/me/menzies-royal-blue-dress/"
 - name: "Menzies Royal Blue Dress Tartan"
-  url: "/setts/w4db1w2db3w24lb5db3lb1db1lb1db20w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db1w2db3w24lb5db3lb1db1lb1db20w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/menzies-royal-blue-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWBWWBWBW](/stripes/wbwbwbwwbwbw/).
 
 Part of the [Menzies Royal Blue Dress](/tartans/m/me/menzies-royal-blue-dress/) tartan — the named design grouping this sett with its other cloths.

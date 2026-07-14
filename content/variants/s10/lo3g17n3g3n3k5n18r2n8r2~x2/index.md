@@ -8,10 +8,10 @@ crumbs:
 - name: "Donegal Irish County"
   url: "/tartans/d/do/donegal-irish-county/"
 - name: "Donegal Irish County Tartan"
-  url: "/setts/lo3g17n3g3n3k5n18r2n8r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo3g17n3g3n3k5n18r2n8r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/donegal-irish-county/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKBGBGY](/stripes/rbrbkbgbgy/).
 
 Part of the [Donegal Irish County](/tartans/d/do/donegal-irish-county/) tartan — the named design grouping this sett with its other cloths.

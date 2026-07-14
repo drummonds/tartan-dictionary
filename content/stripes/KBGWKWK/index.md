@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/">Wild Highlanders (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/"><img src="/variants/s7/k36w3k10w3dg28dr6k18~x2/sett.png" alt="Wild Highlanders (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wild-highlanders/">Wild Highlanders</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wild-highlanders/"><img src="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/sett.png" alt="Wild Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

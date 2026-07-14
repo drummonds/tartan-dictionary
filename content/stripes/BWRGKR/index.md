@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db6w3r3g55k10r3~x4/">Military Medical Memorial (USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db6w3r3g55k10r3~x4/"><img src="/variants/s6/db6w3r3g55k10r3~x4/sett.png" alt="Military Medical Memorial (USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/military-medical-memorial/">Military Medical Memorial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/military-medical-memorial/"><img src="/variants/s6/db6w3r3g55k10r3~x4/sett.png" alt="Military Medical Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

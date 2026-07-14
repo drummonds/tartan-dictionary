@@ -12,10 +12,10 @@ crumbs:
 - name: "Ayrton"
   url: "/tartans/a/ay/ayrton/"
 - name: "Ayrton Family Tartan"
-  url: "/setts/r4k2g25k2lb10k2g4k2db25k2y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4k2g25k2lb10k2g4k2db25k2y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ay/ayrton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKGKWKGKR](/stripes/gkbkgkwkgkr/).
 
 Part of the [Ayrton](/tartans/a/ay/ayrton/) tartan — the named design grouping this sett with its other cloths.

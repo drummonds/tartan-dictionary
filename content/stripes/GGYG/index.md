@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/dy12ly6dy2y1~x4/">Loch Garth Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dy12ly6dy2y1~x4/"><img src="/variants/s4/dy12ly6dy2y1~x4/sett.png" alt="Loch Garth Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-garth/">Loch Garth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-garth/"><img src="/variants/s4/dy12ly6dy2y1~x4/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/g3ly6dg4g2~x2/">Pilgrims (Bedford)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g3ly6dg4g2~x2/"><img src="/variants/s4/g3ly6dg4g2~x2/sett.png" alt="Pilgrims (Bedford) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pilgrims/">Pilgrims</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pilgrims/"><img src="/variants/s4/g3ly6dg4g2~x2/sett.png" alt="Pilgrims sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

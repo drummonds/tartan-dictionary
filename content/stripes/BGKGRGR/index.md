@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db50g4k22g23r1g1r2~x2/">Casely of Mannerston (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db50g4k22g23r1g1r2~x2/"><img src="/variants/s7/db50g4k22g23r1g1r2~x2/sett.png" alt="Casely of Mannerston (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/casely-of-mannerston/">Casely of Mannerston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/casely-of-mannerston/"><img src="/variants/s7/db50g4k22g23r1g1r2~x2/sett.png" alt="Casely of Mannerston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

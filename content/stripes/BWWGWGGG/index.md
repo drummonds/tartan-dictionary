@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dg18g6dy3w1dy3w1lb6db6/">Iroquois Falls Centenary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dg18g6dy3w1dy3w1lb6db6/"><img src="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/sett.png" alt="Iroquois Falls Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ir/iroquois-falls-centenary/">Iroquois Falls Centenary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ir/iroquois-falls-centenary/"><img src="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/sett.png" alt="Iroquois Falls Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

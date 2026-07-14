@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/">Simon and Friends (Hamburg) (Persona</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/"><img src="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/sett.png" alt="Simon and Friends (Hamburg) (Persona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/">Simon and Friends (Hamburg) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/"><img src="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/sett.png" alt="Simon and Friends (Hamburg) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/simon-and-friends/">Simon and Friends</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/simon-and-friends/"><img src="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/sett.png" alt="Simon and Friends sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/simon-and-friends-persona/">Simon and Friends (Persona</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/simon-and-friends-persona/"><img src="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/sett.png" alt="Simon and Friends (Persona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

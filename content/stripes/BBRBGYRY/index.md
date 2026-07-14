@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/">Union Memorial Tartan (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><img src="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/sett.png" alt="Union Memorial Tartan (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/union-memorial/">Union Memorial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/union-memorial/"><img src="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/sett.png" alt="Union Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

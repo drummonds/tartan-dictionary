@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/">Ruben Delanghe (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><img src="/variants/s10/g14k5db2r21g18k4db18r9k2r12/sett.png" alt="Ruben Delanghe (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/ruben-delanghe/">Ruben Delanghe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/ruben-delanghe/"><img src="/variants/s10/g14k5db2r21g18k4db18r9k2r12/sett.png" alt="Ruben Delanghe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Edinburgh, '86 Border"
   url: "/tartans/e/ed/edinburgh-86-border/"
 - name: "Edinburgh, '86 Border"
-  url: "/setts/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-86-border/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBRBBBWBWBWBWBWBWBBBR](/stripes/bbbbbbbbbbbrbbbwbwbwbwbwbwbbbr/).
 
 Part of the [Edinburgh, '86 Border](/tartans/e/ed/edinburgh-86-border/) tartan — the named design grouping this sett with its other cloths.

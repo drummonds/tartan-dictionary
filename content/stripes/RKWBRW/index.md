@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/o24k4lb10db3o3w2~x2/">Cramer (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/o24k4lb10db3o3w2~x2/"><img src="/variants/s6/o24k4lb10db3o3w2~x2/sett.png" alt="Cramer (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/cramer-2/">Cramer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/cramer-2/"><img src="/variants/s6/o24k4lb10db3o3w2~x2/sett.png" alt="Cramer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

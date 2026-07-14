@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s40/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3k3db14k10lb8w3r3w3lb8k10db13k3db3k3db13k10lb10w4r4w4lb10k10db3k3db3k3~x2/">Palatine Union (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s40/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3k3db14k10lb8w3r3w3lb8k10db13k3db3k3db13k10lb10w4r4w4lb10k10db3k3db3k3~x2/"><img src="/variants/s40/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3k3db14k10lb8w3r3w3lb8k10db13k3db3k3db13k10lb10w4r4w4lb10k10db3k3db3k3~x2/sett.png" alt="Palatine Union (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/palatine-union/">Palatine Union</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/palatine-union/"><img src="/variants/s40/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3k3db14k10lb8w3r3w3lb8k10db13k3db3k3db13k10lb10w4r4w4lb10k10db3k3db3k3~x2/sett.png" alt="Palatine Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

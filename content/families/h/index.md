@@ -3,7 +3,7 @@ title: "Families & clans — H"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-127 clans and families beginning with H. [Back to the A–Z](/families/).
+126 clans and families beginning with H. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/families/hackett/"><img src="/variants/s7/k20w4r4dg20w5dg2g2~x2~dg1806142-g2408144/sett.png" alt="Hackett" width="140"><br><strong>Hackett</strong></a></li>
@@ -12,7 +12,6 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s9/b4t3b6k2db12g2db2g24lb2~x2~b1813263-t2508259-db1208266-lb3105255/"><strong>Halcrow Howell</strong></a></li>
 <li><a class="tartan" href="/families/hall/"><img src="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/sett.png" alt="Hall" width="140"><br><strong>Hall</strong></a></li>
 <li><a class="tartan" href="/families/halliday/"><img src="/variants/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8~g2408144-m2110326/sett.png" alt="Halliday" width="140"><br><strong>Halliday</strong></a></li>
-<li><a class="tartan" href="/families/hallingdal/"><img src="/variants/s12/r2dy1k2r13k2r2k2r2k12r2dy1g2~x2/sett.png" alt="Hallingdal" width="140"><br><strong>Hallingdal</strong></a></li>
 <li><a class="tartan" href="/families/hamburg/"><img src="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/sett.png" alt="Hamburg" width="140"><br><strong>Hamburg</strong></a></li>
 <li><a class="tartan" href="/families/hami/"><img src="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/sett.png" alt="Hami" width="140"><br><strong>Hami</strong></a></li>
 <li><a class="tartan" href="/families/hamilton/"><img src="/variants/s5/db8g2db8g15lb2~x4/sett.png" alt="Hamilton" width="140"><br><strong>Hamilton</strong></a></li>

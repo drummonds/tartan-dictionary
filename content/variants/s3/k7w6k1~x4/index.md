@@ -10,15 +10,15 @@ crumbs:
 - name: "MacFarlane VS"
   url: "/tartans/m/ma/macfarlane-vs/"
 - name: "Lendrum (B&W)"
-  url: "/setts/k7w6k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7w6k1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKW](/stripes/kwkw/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macfarlane-vs/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWK](/stripes/kwk/).
 
 Part of the [MacFarlane VS](/tartans/m/ma/macfarlane-vs/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 
@@ -26,9 +26,9 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293](ht
 <summary>6 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1842 — Lendrum (B&W) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This tartan is unnamed in the Highland Society of London Collection (original has a much smaller sett). A sample in the Inverness Museum and also in the MacGregor Hastie Collection is labelled Wallace Dress. It's also known as the Lendrum or Black and White MacFarlane. Sample in Scottish Tartans Authority's Dalgety Collection.</em></li>
-<li>1842 — Wallace Dress (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1251">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This tartan is unnamed in the Highland Society of London Collection (original has a much smaller sett). A sample in the Inverness Museum and also in the MacGregor Hastie Collection is labelled Wallace Dress. It's also known as the Lendrum or Black and White MacFarlane. Sample in STA Dalgety Collection.</em></li>
-<li>1842 — MacFarlane B & W (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3051">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This tartan is unnamed in the Highland Society of London Collection (original has a much smaller sett). A sample in the Inverness Museum and also in the MacGregor Hastie Collection is labelled Wallace Dress. It's also known as the Lendrum or Black and White MacFarlane. There is an alternative MacFarlane B & W on record with a slightly different thread count. Sample in STA Dalgety Collection.</em></li>
-<li>1842 — Lendrum (B&W) (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3086">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This tartan is unnamed in the Highland Society of London Collection (original has a much smaller sett). A sample in the Inverness Museum and also in the MacGregor Hastie Collection is labelled Wallace Dress. It's also known as the Lendrum or Black and White MacFarlane. Sample in STA Dalgety Collection.</em></li>
+<li>1842 — Wallace Dress (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1251/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This tartan is unnamed in the Highland Society of London Collection (original has a much smaller sett). A sample in the Inverness Museum and also in the MacGregor Hastie Collection is labelled Wallace Dress. It's also known as the Lendrum or Black and White MacFarlane. Sample in STA Dalgety Collection.</em></li>
+<li>1842 — MacFarlane B & W (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3051/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This tartan is unnamed in the Highland Society of London Collection (original has a much smaller sett). A sample in the Inverness Museum and also in the MacGregor Hastie Collection is labelled Wallace Dress. It's also known as the Lendrum or Black and White MacFarlane. There is an alternative MacFarlane B & W on record with a slightly different thread count. Sample in STA Dalgety Collection.</em></li>
+<li>1842 — Lendrum (B&W) (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3086/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This tartan is unnamed in the Highland Society of London Collection (original has a much smaller sett). A sample in the Inverness Museum and also in the MacGregor Hastie Collection is labelled Wallace Dress. It's also known as the Lendrum or Black and White MacFarlane. Sample in STA Dalgety Collection.</em></li>
 <li>undated — MacFarlane, Lendrum Black and White (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 <li>undated — Wallace dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
 </ul>
@@ -58,9 +58,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3086
 
 ## Thread count
-K/28 W24 K4 W/24
+K/28 W24 K/4
 
-One full sett is **108 threads**.
+One full sett is **80 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/28 W24 K4 W/24 — 108 threads; it folds to the canonical 80-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -69,7 +71,7 @@ One full sett is **108 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/28 W24 K4 W/24 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/28 W24 K/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

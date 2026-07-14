@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/b124k60w1k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkwk/">BKWK</a></nav>
 Its design is pattern [BKWK](/stripes/bkwk/) — the page of every tartan sharing this colour sequence.
 
 The **Pride of New Zealand, The** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Pride of New Zealand, The** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b124k60w1k2/">Pride of New Zealand, The</a></td><td><code>B/248 K120 W2 K/4</code></td><td>496</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b124k60w1k2/"><img src="/variants/s4/b124k60w1k2~x2/sett.png" alt="Pride of New Zealand, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/b124k60w1k2~x2/">Pride of New Zealand, The</a></td><td><code>B/248 K120 W2 K/4</code></td><td>496</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/b124k60w1k2~x2/"><img src="/variants/s4/b124k60w1k2~x2/sett.png" alt="Pride of New Zealand, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="317.7" cy="136.2" r="4" fill="#3465a4"><title>Hannah</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="336.9" cy="99.5" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="300.5" cy="189.0" r="4" fill="#3465a4"><title>Mirror</title></circle></a><a href="/variants/s6/db48k32r1k8r3w3~x2/"><circle cx="334.4" cy="104.1" r="4" fill="#3465a4"><title>Koot Wedding</title></circle></a><a href="/variants/s3/db40k32w1~x2/"><circle cx="403.0" cy="200.1" r="4" fill="#3465a4"><title>Shirra</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="342.1" cy="81.8" r="4" fill="#3465a4"><title>Grahame Laurie Band</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="266.0" cy="138.8" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s4/n62k30w1k1~x2/"><circle cx="437.3" cy="129.6" r="4" fill="#3465a4"><title>Pride of New Zealand</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="337.4" cy="94.0" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="506.7" cy="163.5" r="4" fill="#3465a4"><title>St. John</title></circle></a><circle cx="431.7" cy="126.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="318.7" cy="136.3" r="4" fill="#3465a4"><title>Hannah</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="338.0" cy="99.5" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="301.3" cy="189.1" r="4" fill="#3465a4"><title>Mirror</title></circle></a><a href="/variants/s6/db48k32r1k8r3w3~x2/"><circle cx="335.5" cy="104.2" r="4" fill="#3465a4"><title>Koot Wedding</title></circle></a><a href="/variants/s3/db40k32w1~x2/"><circle cx="404.0" cy="200.4" r="4" fill="#3465a4"><title>Shirra</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="343.2" cy="81.9" r="4" fill="#3465a4"><title>Grahame Laurie Band</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="266.9" cy="138.7" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s4/n62k30w1k1~x2/"><circle cx="438.6" cy="129.9" r="4" fill="#3465a4"><title>Pride of New Zealand</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="338.4" cy="94.0" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="508.0" cy="163.8" r="4" fill="#3465a4"><title>St. John</title></circle></a><circle cx="433.1" cy="126.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

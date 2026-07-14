@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s34/w52lb4t6db28t1w1t1w1t1w1t1w1t1w1t1w1t8w24db12w4db20lb1db1lb1db1lb1db1lb1db1lb1db1w8lb8db16~x2/">Lake Superior Ice Water Mansion</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s34/w52lb4t6db28t1w1t1w1t1w1t1w1t1w1t1w1t8w24db12w4db20lb1db1lb1db1lb1db1lb1db1lb1db1w8lb8db16~x2/"><img src="/variants/s34/w52lb4t6db28t1w1t1w1t1w1t1w1t1w1t1w1t8w24db12w4db20lb1db1lb1db1lb1db1lb1db1lb1db1w8lb8db16~x2/sett.png" alt="Lake Superior Ice Water Mansion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lake-superior/">Lake Superior</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lake-superior/"><img src="/variants/s34/w52lb4t6db28t1w1t1w1t1w1t1w1t1w1t1w1t8w24db12w4db20lb1db1lb1db1lb1db1lb1db1lb1db1w8lb8db16~x2/sett.png" alt="Lake Superior sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

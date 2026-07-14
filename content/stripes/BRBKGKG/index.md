@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dp2r2dp16k17dg16k2y2/">Zangenberg (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dp2r2dp16k17dg16k2y2/"><img src="/variants/s7/dp2r2dp16k17dg16k2y2~x2~r2109032/sett.png" alt="Zangenberg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/z/za/zangenberg/">Zangenberg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/z/za/zangenberg/"><img src="/variants/s7/dp2r2dp16k17dg16k2y2~x2~r2109032/sett.png" alt="Zangenberg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

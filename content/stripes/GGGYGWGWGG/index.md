@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/">Carter (Savannah) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/"><img src="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/sett.png" alt="Carter (Savannah) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carter/">Carter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carter/"><img src="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/sett.png" alt="Carter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

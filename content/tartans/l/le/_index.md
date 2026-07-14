@@ -27,7 +27,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/l/le/leblant-macqueron-2/"><img src="/variants/s7/lb5dy6w2g7w2t44w2~x2/sett.png" alt="Leblant-Macqueron" width="140"><br><strong>Leblant-Macqueron (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/l/le/lebrun/"><img src="/variants/s10/lr40k11do8lr2do8k6lr2k16lr1k16~x2/sett.png" alt="Lebrun" width="140"><br><strong>Lebrun (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/l/le/leckie/"><img src="/variants/s7/r3b1r12o3dg12w1dg2~x4/sett.png" alt="Leckie" width="140"><br><strong>Leckie (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/l/le/ledford/"><img src="/variants/s3/g9n4dy1~x8/sett.png" alt="Ledford" width="140"><br><strong>Ledford (2)</strong></a><div class="clan-territory">Ledford</div></li>
+<li><a class="tartan" href="/tartans/l/le/ledford/"><img src="/variants/s3/g9n4dy1~x4/sett.png" alt="Ledford" width="140"><br><strong>Ledford (2)</strong></a><div class="clan-territory">Ledford</div></li>
 <li><a class="tartan" href="/tartans/l/le/lee/"><img src="/variants/s7/g2k1g12dr4g3db9lb2~x4/sett.png" alt="Lee" width="140"><br><strong>Lee (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/l/le/lee-cox/"><img src="/variants/s17/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3~x2/sett.png" alt="Lee Cox" width="140"><br><strong>Lee Cox (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/l/le/leeds-university/"><img src="/variants/s8/g9r2g2r2g2r8g11w2~x4/sett.png" alt="Leeds University" width="140"><br><strong>Leeds University (1)</strong></a></li>

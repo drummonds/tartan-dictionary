@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/lb14k3lb28g6db4lb2db2lb14r12g3r4lb4~x2/">Grant of Achnarrow Error 1983</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lb14k3lb28g6db4lb2db2lb14r12g3r4lb4~x2/"><img src="/variants/s12/lb14k3lb28g6db4lb2db2lb14r12g3r4lb4~x2/sett.png" alt="Grant of Achnarrow Error 1983 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grant-of-achnarrow-4/">Grant of Achnarrow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-of-achnarrow-4/"><img src="/variants/s12/lb14k3lb28g6db4lb2db2lb14r12g3r4lb4~x2/sett.png" alt="Grant of Achnarrow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

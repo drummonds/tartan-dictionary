@@ -12,10 +12,10 @@ crumbs:
 - name: "MacFie"
   url: "/tartans/m/ma/macfie/"
 - name: "MacFie"
-  url: "/setts/y2r12g2r1g32r1g2r12w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2r12g2r1g32r1g2r12w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macfie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRW](/stripes/grgrgrgrw/).
 
 Part of the [MacFie](/tartans/m/ma/macfie/) tartan — the named design grouping this sett with its other cloths.

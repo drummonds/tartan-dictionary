@@ -12,10 +12,10 @@ crumbs:
 - name: "Young"
   url: "/tartans/y/yo/young-2/"
 - name: "Young"
-  url: "/setts/k3dbi3g15db15dp5r3y2dp1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3dbi3g15db15dp5r3y2dp1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/yo/young-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBBGBK](/stripes/bgrbbgbk/).
 
 Part of the [Young](/tartans/y/yo/young-2/) tartan — the named design grouping this sett with its other cloths.

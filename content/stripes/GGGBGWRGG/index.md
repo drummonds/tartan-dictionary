@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g4y9g3db4g3w3r32g4y3~x2/">Antrim County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g4y9g3db4g3w3r32g4y3~x2/"><img src="/variants/s9/g4y9g3db4g3w3r32g4y3~x2/sett.png" alt="Antrim County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/antrim-county-crest/">Antrim County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/antrim-county-crest/"><img src="/variants/s9/g4y9g3db4g3w3r32g4y3~x2/sett.png" alt="Antrim County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

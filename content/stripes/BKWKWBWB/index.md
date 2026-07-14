@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/">Inverness - 2000 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/"><img src="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/sett.png" alt="Inverness - 2000 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inverness-2/">Inverness</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inverness-2/"><img src="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/sett.png" alt="Inverness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

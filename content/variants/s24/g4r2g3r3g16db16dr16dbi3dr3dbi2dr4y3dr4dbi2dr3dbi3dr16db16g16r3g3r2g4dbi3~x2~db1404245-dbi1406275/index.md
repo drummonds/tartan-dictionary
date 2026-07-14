@@ -12,10 +12,10 @@ crumbs:
 - name: "Cuthill"
   url: "/tartans/c/cu/cuthill/"
 - name: "Cuthill Clan/Family Tartan"
-  url: "/setts/g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3dr4dbi2dr3dbi3dr16db16g16r3g3r2g4dbi3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3dr4dbi2dr3dbi3dr16db16g16r3g3r2g4dbi3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cuthill/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGRGBBBBBBGBBBBBBGRGRG](/stripes/bgrgrgbbbbbbgbbbbbbgrgrg/).
 
 Part of the [Cuthill](/tartans/c/cu/cuthill/) tartan — the named design grouping this sett with its other cloths.

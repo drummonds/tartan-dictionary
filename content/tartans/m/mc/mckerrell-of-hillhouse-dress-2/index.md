@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/mckerrell/"
 - name: "McKerrell of Hillhouse"
   url: "/families/mckerrell-of-hillhouse/"
+aliases:
+- "/setts/lb48n28w4n28lb48y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwbwbw/">GWBWBW</a></nav>
 A tartan of the [McKerrell of Hillhouse](/families/mckerrell-of-hillhouse/) family.
 Its design is pattern [GWBWBW](/stripes/gwbwbw/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **McKerrell of Hillhouse Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb48n28w4n28lb48y3/">McKerrell of Hillhouse Dress</a></td><td><code>LB/96 N56 W8 N56 LB96 Y/6</code></td><td>534</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb48n28w4n28lb48y3/"><img src="/variants/s6/lb48n28w4n28lb48y3~x2/sett.png" alt="McKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb48n28w4n28lb48y3~x2/">McKerrell of Hillhouse Dress</a></td><td><code>LB/96 N56 W8 N56 LB96 Y/6</code></td><td>534</td><td>1996</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb48n28w4n28lb48y3~x2/"><img src="/variants/s6/lb48n28w4n28lb48y3~x2/sett.png" alt="McKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -33,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="407.4" cy="208.8" r="4" fill="#3465a4"><title>Whitley</title></circle></a><a href="/variants/s6/b30w7b18w11b6y3~x2/"><circle cx="446.8" cy="248.7" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/variants/s6/n2w2y7lb14n2w2~x2/"><circle cx="317.2" cy="269.8" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s4/w4n28lb48y3~x2/"><circle cx="430.9" cy="253.9" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s5/dg30w8b32y1b8~x2/"><circle cx="345.2" cy="201.0" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/"><circle cx="346.7" cy="217.7" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><circle cx="323.4" cy="197.3" r="4" fill="#3465a4"><title>Clackson Arisaid</title></circle></a><a href="/variants/s5/lb65r27w2lb4dy5~x2/"><circle cx="465.4" cy="160.0" r="4" fill="#3465a4"><title>Perry Arisaid</title></circle></a><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><circle cx="530.6" cy="281.2" r="4" fill="#3465a4"><title>Harmony 13</title></circle></a><a href="/variants/s6/dr2lb2n18lb1n2db2~x4/"><circle cx="576.1" cy="213.7" r="4" fill="#3465a4"><title>St. Giles Cathedral</title></circle></a><circle cx="429.5" cy="257.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.1" cy="208.9" r="4" fill="#3465a4"><title>Whitley</title></circle></a><a href="/variants/s6/b30w7b18w11b6y3~x2/"><circle cx="447.6" cy="249.0" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/variants/s6/n2w2y7lb14n2w2~x2/"><circle cx="317.2" cy="269.8" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s4/w4n28lb48y3~x2/"><circle cx="431.3" cy="254.1" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s5/dg30w8b32y1b8~x2/"><circle cx="345.7" cy="201.0" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/"><circle cx="347.1" cy="217.7" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><circle cx="323.9" cy="197.3" r="4" fill="#3465a4"><title>Clackson Arisaid</title></circle></a><a href="/variants/s5/lb65r27w2lb4dy5~x2/"><circle cx="466.3" cy="160.1" r="4" fill="#3465a4"><title>Perry Arisaid</title></circle></a><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><circle cx="531.2" cy="281.6" r="4" fill="#3465a4"><title>Harmony 13</title></circle></a><a href="/variants/s6/dr2lb2n18lb1n2db2~x4/"><circle cx="577.0" cy="214.1" r="4" fill="#3465a4"><title>St. Giles Cathedral</title></circle></a><circle cx="429.9" cy="257.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

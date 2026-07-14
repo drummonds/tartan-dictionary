@@ -10,10 +10,10 @@ crumbs:
 - name: "Mitsukoshi Sendai"
   url: "/tartans/m/mi/mitsukoshi-sendai/"
 - name: "Mitsukoshi Sendai"
-  url: "/setts/n4k1w1k1w1k1n4db2g6r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n4k1w1k1w1k1n4db2g6r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/mitsukoshi-sendai/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWKBBGR](/stripes/bkwkwkbbgr/).
 
 Part of the [Mitsukoshi Sendai](/tartans/m/mi/mitsukoshi-sendai/) tartan — the named design grouping this sett with its other cloths.

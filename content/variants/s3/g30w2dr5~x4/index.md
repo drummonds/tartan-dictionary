@@ -8,10 +8,10 @@ crumbs:
 - name: "S3"
   url: "/tartans/s/s/s3/"
 - name: "S3"
-  url: "/setts/g30w2dr5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g30w2dr5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/s/s3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWG](/stripes/bwg/).
 
 Part of the [S3](/tartans/s/s/s3/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3630](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>16/03/2004 — S3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3630">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><br><em>S3 stands for Strategic Staffing Solutions, an IT recruitment company founded in Detroit, 1990.</em></li>
-<li>pre 2004 — Strategic Staffing Solutions (Corpor (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6227">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><br><em>S3 stands for Strategic Staffing Solutions an IT recrutiment company that was founded in Detroit in 1990 and now has offices throughout the USA. Woven sample from Ronnie Hek Juky 2014.</em></li>
+<li>pre 2004 — Strategic Staffing Solutions (Corpor (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6227/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><br><em>S3 stands for Strategic Staffing Solutions an IT recrutiment company that was founded in Detroit in 1990 and now has offices throughout the USA. Woven sample from Ronnie Hek Juky 2014.</em></li>
 </ul>
 </details>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Broberg"
   url: "/tartans/b/br/broberg/"
 - name: "Broberg (Scania) (Personal)"
-  url: "/setts/dr80lb40k5dy6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr80lb40k5dy6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/broberg/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKG](/stripes/bwkg/).
 
 Part of the [Broberg](/tartans/b/br/broberg/) tartan — the named design grouping this sett with its other cloths.

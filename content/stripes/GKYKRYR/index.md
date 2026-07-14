@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/">Alister Grant 'Mohr', the Laird's Champion</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/"><img src="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/sett.png" alt="Alister Grant 'Mohr', the Laird's Champion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alister-grant-mohr-the-laird-s-champion/">Alister Grant 'Mohr', the Laird's Champion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alister-grant-mohr-the-laird-s-champion/"><img src="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/sett.png" alt="Alister Grant 'Mohr', the Laird's Champion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

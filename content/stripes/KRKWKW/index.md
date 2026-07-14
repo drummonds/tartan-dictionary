@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lb5k1w11k1r42k1~x2/">Davet (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><img src="/variants/s6/lb5k1w11k1r42k1~x2/sett.png" alt="Davet (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/davet/">Davet</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/davet/"><img src="/variants/s6/lb5k1w11k1r42k1~x2/sett.png" alt="Davet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

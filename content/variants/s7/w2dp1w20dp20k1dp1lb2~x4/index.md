@@ -12,10 +12,10 @@ crumbs:
 - name: "Cunningham Dress"
   url: "/tartans/c/cu/cunningham-dress-3/"
 - name: "Cunningham Dress Purple (Dance) Fashion Tartan"
-  url: "/setts/w2dp1w20dp20k1dp1lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2dp1w20dp20k1dp1lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cunningham-dress-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKBWBW](/stripes/wbkbwbw/).
 
 Part of the [Cunningham Dress](/tartans/c/cu/cunningham-dress-3/) tartan — the named design grouping this sett with its other cloths.

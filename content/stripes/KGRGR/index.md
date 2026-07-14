@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r18y3r18y30k4~x2/">Shire of Hornwood (USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r18y3r18y30k4~x2/"><img src="/variants/s5/r18y3r18y30k4~x2/sett.png" alt="Shire of Hornwood (USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shire-of-hornwood/">Shire of Hornwood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shire-of-hornwood/"><img src="/variants/s5/r18y3r18y30k4~x2/sett.png" alt="Shire of Hornwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

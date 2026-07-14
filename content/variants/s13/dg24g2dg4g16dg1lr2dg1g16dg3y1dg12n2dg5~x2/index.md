@@ -8,17 +8,17 @@ crumbs:
 - name: "O'Neill"
   url: "/tartans/o/o/o-neill/"
 - name: "O'Neill (Personal)"
-  url: "/setts/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-neill/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGGGGYGGGGG](/stripes/gbgggggyggggg/).
 
 Part of the [O'Neill](/tartans/o/o/o-neill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5967](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5967)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/5967/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5967/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: 2003 Designed for personal use.
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>2003 — O'Neill (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5967">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004828;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004828"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006810;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006810"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Martin T O'Neill from Milngavie in Glasgow designed his personal tartan with help from Blair Urquhart at the House of Tartan. Many variations were tried, working with the uncompromising combination of green and yellow. Martin looked at Irish National #2245 and at MacLean of Duart Hunting #824 while working on his design. The entire O'Neill family assembled at Comrie for the final choice which Martin will wear at his wedding.</em></li>
+<li>2003 — O'Neill (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5967/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004828;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004828"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006810;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006810"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Martin T O'Neill from Milngavie in Glasgow designed his personal tartan with help from Blair Urquhart at the House of Tartan. Many variations were tried, working with the uncompromising combination of green and yellow. Martin looked at Irish National #2245 and at MacLean of Duart Hunting #824 while working on his design. The entire O'Neill family assembled at Comrie for the final choice which Martin will wear at his wedding.</em></li>
 <li>2003 — O'Neill Personal Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5967">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004828;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004828"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006810;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006810"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Earliest known date: 2003 Designed for personal use.
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

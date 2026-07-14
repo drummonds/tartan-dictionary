@@ -12,10 +12,10 @@ crumbs:
 - name: "Lashbrooke of Barrowfield"
   url: "/tartans/l/la/lashbrooke-of-barrowfield/"
 - name: "Lashbrooke of Barrowfield (Personal)"
-  url: "/setts/db3y2t12db14r2db4dy6y4w24r2w2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3y2t12db14r2db4dy6y4w24r2w2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lashbrooke-of-barrowfield/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBRBGGWRWB](/stripes/bgbbrbggwrwb/).
 
 Part of the [Lashbrooke of Barrowfield](/tartans/l/la/lashbrooke-of-barrowfield/) tartan — the named design grouping this sett with its other cloths.

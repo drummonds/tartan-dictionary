@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/">MacKusick Family Tartan of North America</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><img src="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/sett.png" alt="MacKusick Family Tartan of North America sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackusick-family-tartan-of-north-america/">MacKusick Family Tartan of North America</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackusick-family-tartan-of-north-america/"><img src="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/sett.png" alt="MacKusick Family Tartan of North America sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

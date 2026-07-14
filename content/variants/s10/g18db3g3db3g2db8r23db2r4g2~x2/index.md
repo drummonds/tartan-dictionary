@@ -8,10 +8,10 @@ crumbs:
 - name: "McGlynn"
   url: "/tartans/m/mc/mcglynn/"
 - name: "McGlynn"
-  url: "/setts/g18db3g3db3g2db8r23db2r4g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g18db3g3db3g2db8r23db2r4g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcglynn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBRBRG](/stripes/gbgbgbrbrg/).
 
 Part of the [McGlynn](/tartans/m/mc/mcglynn/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2885](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — McGlynn (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2885">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#980044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LDR #980044"></span><br><em>This came into being as a commemorative tartan commissioned by Jim McGlynn and dedicated to his late son Andrew James McGlynn who died in 1993. The red and blue are the colours of the Canadian Forces Engineers and the green represents the Canadian Forces base at Borden, Ontario. This tartan can be worn by all of the name McGlynn and its spelling variants.</em></li>
-<li>2003 — McGlynn (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6020">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#980044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LDR #980044"></span><br><em>This came into being as a commemorative tartan commissioned by Jim McGlynn and dedicated to his late son Andrew James McGlynn who died in 1993. The red and blue are the colours of the Canadian Forces Engineers and the green represents the Canadian Forces base at Borden, Ontario. This tartan can be worn by all of the name McGlynn and its spelling variants.</em></li>
+<li>2003 — McGlynn (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6020/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#980044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LDR #980044"></span><br><em>This came into being as a commemorative tartan commissioned by Jim McGlynn and dedicated to his late son Andrew James McGlynn who died in 1993. The red and blue are the colours of the Canadian Forces Engineers and the green represents the Canadian Forces base at Borden, Ontario. This tartan can be worn by all of the name McGlynn and its spelling variants.</em></li>
 </ul>
 </details>
 

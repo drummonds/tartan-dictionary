@@ -12,10 +12,10 @@ crumbs:
 - name: "Bryant"
   url: "/tartans/b/br/bryant-2/"
 - name: "Bryant"
-  url: "/setts/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8dr2g4do1dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8dr2g4do1dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bryant-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGYGWGWGWGWGWG](/stripes/bbgbgygwgwgwgwgwg/).
 
 Part of the [Bryant](/tartans/b/br/bryant-2/) tartan — the named design grouping this sett with its other cloths.

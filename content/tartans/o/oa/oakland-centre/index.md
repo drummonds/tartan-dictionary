@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w3r2w1k2r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkwrw/">RKWRW</a></nav>
 Its design is pattern [RKWRW](/stripes/rkwrw/) — the page of every tartan sharing this colour sequence.
 
 The **Oakland Centre** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Oakland Centre** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w3r2w1k2r2/">Oakland Centre</a></td><td><code>W/12 R8 W4 K8 R/8</code></td><td>60</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w3r2w1k2r2/"><img src="/variants/s5/w3r2w1k2r2~x4/sett.png" alt="Oakland Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w3r2w1k2r2~x4/">Oakland Centre</a></td><td><code>W/12 R8 W4 K8 R/8</code></td><td>60</td><td>2016</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w3r2w1k2r2~x4/"><img src="/variants/s5/w3r2w1k2r2~x4/sett.png" alt="Oakland Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="195.7" cy="211.3" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s5/r21k21w10k10w21~x2/"><circle cx="82.7" cy="310.3" r="4" fill="#3465a4"><title>Havel</title></circle></a><a href="/variants/s4/k5w37r37w5~x2/"><circle cx="270.3" cy="229.0" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/variants/s5/b8w13r3w2k5~x2/"><circle cx="171.5" cy="226.2" r="4" fill="#3465a4"><title>Boswell Dress</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="240.0" cy="210.6" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s6/r15n9w4k12r15k5~x2/"><circle cx="152.3" cy="245.7" r="4" fill="#3465a4"><title>Eastern Kentucky University</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="165.8" cy="211.0" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="144.6" cy="193.1" r="4" fill="#3465a4"><title>Merrilees Dress</title></circle></a><a href="/variants/s4/r2g1w1k1~x20/"><circle cx="65.5" cy="308.3" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/variants/s5/r3k10r10g10r3~x4/"><circle cx="156.7" cy="272.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="110.9" cy="298.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="196.2" cy="211.2" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s5/r21k21w10k10w21~x2/"><circle cx="82.7" cy="310.1" r="4" fill="#3465a4"><title>Havel</title></circle></a><a href="/variants/s4/k5w37r37w5~x2/"><circle cx="270.8" cy="229.0" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/variants/s5/b8w13r3w2k5~x2/"><circle cx="171.9" cy="225.9" r="4" fill="#3465a4"><title>Boswell Dress</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="240.6" cy="210.5" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s6/r15n9w4k12r15k5~x2/"><circle cx="152.6" cy="245.6" r="4" fill="#3465a4"><title>Eastern Kentucky University</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="166.2" cy="210.8" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="145.0" cy="192.8" r="4" fill="#3465a4"><title>Merrilees Dress</title></circle></a><a href="/variants/s4/r2g1w1k1~x20/"><circle cx="65.5" cy="308.1" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/variants/s5/r3k10r10g10r3~x4/"><circle cx="157.0" cy="272.6" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="111.0" cy="298.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

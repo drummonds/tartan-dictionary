@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/">Scottish Scouts</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/"><img src="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/sett.png" alt="Scottish Scouts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-scouts-4/">Scottish Scouts</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-scouts-4/"><img src="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/sett.png" alt="Scottish Scouts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/">Tyneside Scottish District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/"><img src="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/sett.png" alt="Tyneside Scottish District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ty/tyneside/">Tyneside</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ty/tyneside/"><img src="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/sett.png" alt="Tyneside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

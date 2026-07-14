@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/">Inverness Htg (Royal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/"><img src="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/sett.png" alt="Inverness Htg (Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inverness-hunting/">Inverness Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inverness-hunting/"><img src="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/sett.png" alt="Inverness Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

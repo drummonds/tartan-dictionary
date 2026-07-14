@@ -8,10 +8,10 @@ crumbs:
 - name: "Gouranga"
   url: "/tartans/g/go/gouranga/"
 - name: "Gouranga"
-  url: "/setts/db15k3db19w3db5y5r3y5lb3y5k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db15k3db19w3db5y5r3y5lb3y5k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/gouranga/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBGRGWGK](/stripes/bkbwbgrgwgk/).
 
 Part of the [Gouranga](/tartans/g/go/gouranga/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Griffith of Wales"
   url: "/tartans/g/gr/griffith-of-wales/"
 - name: "Griffith of Wales"
-  url: "/setts/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/griffith-of-wales/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBRBBBYBBBRBBBBBY](/stripes/bbbbbrbbbybbbrbbbbby/).
 
 Part of the [Griffith of Wales](/tartans/g/gr/griffith-of-wales/) tartan — the named design grouping this sett with its other cloths.

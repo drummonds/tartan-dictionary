@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db3o1w1o25w1o1dp3/"
 ---
-Its design is pattern [BRWRWRBRWRWR](/stripes/brwrwrbrwrwr/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brwr/">BRWR</a></nav>
+Its design is pattern [BRWR](/stripes/brwr/) — the page of every tartan sharing this colour sequence.
 
 The **St. Giles Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db3o1w1o25w1o1dp3/">St. Giles Check</a></td><td><code>DB/12 O4 W4 O100 W4 O4 DP12 O4 W4 O100 W4 O/4</code></td><td>256</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3o1w1o25w1o1dp3/"><img src="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/sett.png" alt="St. Giles Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/">St. Giles Check</a></td><td><code>DB/12 O4 W4 O100 W4 O4 DP/12</code></td><td>256</td><td>1984</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/"><img src="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/sett.png" alt="St. Giles Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db3n1w1n25w1n1dp3~x2/"><circle cx="594.7" cy="169.2" r="4" fill="#3465a4"><title>St Giles Check</title></circle></a><a href="/variants/s8/n74dp9n4r5n4dp9n37db9~x2/"><circle cx="622.6" cy="198.6" r="4" fill="#3465a4"><title>Rikaco Vintage</title></circle></a><a href="/variants/s6/dr2lb2n18lb1n2db2~x4/"><circle cx="576.1" cy="213.7" r="4" fill="#3465a4"><title>St. Giles Cathedral</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="431.3" cy="104.5" r="4" fill="#3465a4"><title>Highland Autumn</title></circle></a><a href="/variants/s9/n44do4n1k1n4y4k1db4do4~x2/"><circle cx="553.7" cy="103.2" r="4" fill="#3465a4"><title>Fermanagh</title></circle></a><a href="/variants/s9/lb70db5lb3w5lb3w5lb3r5lb8~x2/"><circle cx="592.9" cy="137.6" r="4" fill="#3465a4"><title>Wyckoff, Ann Grainger Phillips</title></circle></a><a href="/variants/s5/n65r27w2n4y5~x2/"><circle cx="549.9" cy="194.7" r="4" fill="#3465a4"><title>Perry, Arisaid</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="437.6" cy="83.3" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall</title></circle></a><circle cx="557.4" cy="139.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db3n1w1n25w1n1dp3~x2/"><circle cx="595.8" cy="169.7" r="4" fill="#3465a4"><title>St Giles Check</title></circle></a><a href="/variants/s8/n74dp9n4r5n4dp9n37db9~x2/"><circle cx="623.7" cy="199.1" r="4" fill="#3465a4"><title>Rikaco Vintage</title></circle></a><a href="/variants/s6/dr2lb2n18lb1n2db2~x4/"><circle cx="577.0" cy="214.1" r="4" fill="#3465a4"><title>St. Giles Cathedral</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="432.6" cy="104.7" r="4" fill="#3465a4"><title>Highland Autumn</title></circle></a><a href="/variants/s9/n44do4n1k1n4y4k1db4do4~x2/"><circle cx="554.9" cy="103.5" r="4" fill="#3465a4"><title>Fermanagh</title></circle></a><a href="/variants/s9/lb70db5lb3w5lb3w5lb3r5lb8~x2/"><circle cx="594.1" cy="138.0" r="4" fill="#3465a4"><title>Wyckoff, Ann Grainger Phillips</title></circle></a><a href="/variants/s5/n65r27w2n4y5~x2/"><circle cx="550.7" cy="195.1" r="4" fill="#3465a4"><title>Perry, Arisaid</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="438.8" cy="83.4" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall</title></circle></a><circle cx="558.6" cy="140.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

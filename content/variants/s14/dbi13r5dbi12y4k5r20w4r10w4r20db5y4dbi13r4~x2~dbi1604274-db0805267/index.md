@@ -12,10 +12,10 @@ crumbs:
 - name: "Ogilvie 4"
   url: "/tartans/o/og/ogilvie-4/"
 - name: "Ogilvie 4"
-  url: "/setts/dbi13r5dbi12y4k5r20w4r10w4r20db5y4dbi13r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi13r5dbi12y4k5r20w4r10w4r20db5y4dbi13r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/og/ogilvie-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGKRWRWRBGBR](/stripes/brbgkrwrwrbgbr/).
 
 Part of the [Ogilvie 4](/tartans/o/og/ogilvie-4/) tartan — the named design grouping this sett with its other cloths.

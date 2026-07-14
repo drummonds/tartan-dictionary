@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/">Gemmell Blue (2001) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/"><img src="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/sett.png" alt="Gemmell Blue (2001) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/gemmell-3/">Gemmell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/gemmell-3/"><img src="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/sett.png" alt="Gemmell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

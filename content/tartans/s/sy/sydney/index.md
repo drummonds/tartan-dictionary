@@ -4,8 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/n16k4w2k4n6o11n2o16/"
+- "/setts/n6k2w1k2n3r6n1r6/"
 ---
-Its design is pattern [BKWKBRBRBRBKWK](/stripes/bkwkbrbrbrbkwk/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkwkbrbr/">BKWKBRBR</a></nav>
+Its design is pattern [BKWKBRBR](/stripes/bkwkbrbr/) — the page of every tartan sharing this colour sequence.
 
 The **Sydney** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
@@ -13,10 +17,10 @@ The **Sydney** tartan groups 2 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n16k4w2k4n6o11n2o16/">Sydney</a> ★</td><td><code>N/32 K8 W4 K8 N12 O22 N4 O32 N4 O22 N12 K8 W4 K/8</code></td><td>180</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n16k4w2k4n6o11n2o16/"><img src="/variants/s8/n16k4w2k4n6o11n2o16~x2/sett.png" alt="Sydney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/n6k2w1k2n3r6n1r6/">(Nova Scotia)</a></td><td><code>N/24 K8 W4 K8 N12 R24 N4 R24 N4 R24 N12 K8 W4 K/8</code></td><td>168</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n6k2w1k2n3r6n1r6/"><img src="/variants/s8/n6k2w1k2n3r6n1r6~x4/sett.png" alt="(Nova Scotia) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n16k4w2k4n6o11n2o16~x2/">Sydney</a> ★</td><td><code>N/32 K8 W4 K8 N12 O22 N4 O/32</code></td><td>180</td><td>1986</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n16k4w2k4n6o11n2o16~x2/"><img src="/variants/s8/n16k4w2k4n6o11n2o16~x2/sett.png" alt="Sydney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n6k2w1k2n3r6n1r6~x4/">(Nova Scotia)</a></td><td><code>N/24 K8 W4 K8 N12 R24 N4 R/24</code></td><td>168</td><td>1986</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n6k2w1k2n3r6n1r6~x4/"><img src="/variants/s8/n6k2w1k2n3r6n1r6~x4/sett.png" alt="(Nova Scotia) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -35,6 +39,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/"><circle cx="217.1" cy="197.9" r="4" fill="#3465a4"><title>Sidney</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="225.9" cy="183.9" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><a href="/variants/s5/o30k7n20ly4k4~x2/"><circle cx="222.9" cy="215.1" r="4" fill="#3465a4"><title>Drumfintley</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/"><circle cx="237.7" cy="203.6" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/variants/s5/n26k10r10y10n3~x2/"><circle cx="228.2" cy="226.6" r="4" fill="#3465a4"><title>Ikelman No 2</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/"><circle cx="244.1" cy="202.4" r="4" fill="#3465a4"><title>Convention of the Baronage</title></circle></a><a href="/variants/s8/db4r11db1g8r2g4k1y2~x4/"><circle cx="183.5" cy="176.9" r="4" fill="#3465a4"><title>Craik of Assington</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.5" cy="175.3" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.1" cy="177.2" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/"><circle cx="181.8" cy="200.2" r="4" fill="#3465a4"><title>Alister Grant 'Mohr', the Laird's Champion</title></circle></a><circle cx="231.1" cy="214.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/"><circle cx="217.5" cy="197.8" r="4" fill="#3465a4"><title>Sidney</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="226.4" cy="183.8" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><a href="/variants/s5/o30k7n20ly4k4~x2/"><circle cx="223.3" cy="215.1" r="4" fill="#3465a4"><title>Drumfintley</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/"><circle cx="238.0" cy="203.5" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/variants/s5/n26k10r10y10n3~x2/"><circle cx="228.6" cy="226.5" r="4" fill="#3465a4"><title>Ikelman No 2</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/"><circle cx="244.5" cy="202.3" r="4" fill="#3465a4"><title>Convention of the Baronage</title></circle></a><a href="/variants/s8/db4r11db1g8r2g4k1y2~x4/"><circle cx="183.8" cy="176.8" r="4" fill="#3465a4"><title>Craik of Assington</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="192.0" cy="175.1" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.7" cy="177.2" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/"><circle cx="182.1" cy="200.1" r="4" fill="#3465a4"><title>Alister Grant 'Mohr', the Laird's Champion</title></circle></a><circle cx="231.5" cy="214.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

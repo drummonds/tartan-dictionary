@@ -12,10 +12,10 @@ crumbs:
 - name: "Beck Dress"
   url: "/tartans/b/be/beck-dress/"
 - name: "Beck Dress (Personal)"
-  url: "/setts/k4lb2w15r6w25lb2k4lb2w15lb4k2lb4k2lb4k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4lb2w15r6w25lb2k4lb2w15lb4k2lb4k2lb4k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/beck-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWWWKWWRWWK](/stripes/kwkwkwwwkwwrwwk/).
 
 Part of the [Beck Dress](/tartans/b/be/beck-dress/) tartan — the named design grouping this sett with its other cloths.

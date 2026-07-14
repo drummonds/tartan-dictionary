@@ -11,11 +11,11 @@ crumbs:
   url: "/families/davidson-of-tulloch/"
 - name: "Davidson of Tulloch"
   url: "/tartans/d/da/davidson-of-tulloch/"
-- name: "Davidson of Tulloch"
-  url: "/setts/r1db6k3g6w1/"
+- name: "Davidson of Tulloch #2"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1db6k3g6w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/davidson-of-tulloch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGW](/stripes/rbkgw/).
 
 Part of the [Davidson of Tulloch](/tartans/d/da/davidson-of-tulloch/) tartan — the named design grouping this sett with its other cloths.

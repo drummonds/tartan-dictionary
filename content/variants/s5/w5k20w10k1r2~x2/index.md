@@ -10,15 +10,15 @@ crumbs:
 - name: "Cornish Flag"
   url: "/tartans/c/co/cornish-flag/"
 - name: "St. Piran Cornish Flag"
-  url: "/setts/w5k20w10k1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5k20w10k1r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKWKWKR](/stripes/kwkwkwkr/).
+provenance below. It is one weaving of the [sett](/tartans/c/co/cornish-flag/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKWKW](/stripes/rkwkw/).
 
 Part of the [Cornish Flag](/tartans/c/co/cornish-flag/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3903](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3903)
 
@@ -31,7 +31,7 @@ Earliest known date: 1983 An alternative source gives this sett as having been p
 <ul>
 <li>01/01/1983 — St. Piran Cornish Flag (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3903">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>This tartan was originally called the St Piran (patron saint of Cornwall) and was to be woven by Abi Armstrong Evans and marketed in conjunction with Donald Rawe of Padstow. There was a very complicated 'High Court' parting of the ways however and Donald Rawe abandonded his claims to the rights of this tartan (which had been registered by Abi Armstrong Evans) and went on to design the St Piran Dress tartan (#1685, original Scottish Tartans Authority reference). To avoid confusion, Abi Evans then changed the name of this 'St Piran' to the 'Cornish Flag'. Still available from Abi Evans of Trevecca. This update at 21st Sept 2005. Free for anyone to weave (Abi Evans May 2006). The white cross on the black represents the flag of Cornwall and the symbol of St Piran, patron saint of the Cornish tin miners. The red represents the scarlet leg and beak of the Cornish chough, the national bird.</em></li>
 <li>1983 — St Piran Cornish Flag District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1618">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
-<li>1984 — Cornish Flag (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1618">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This tartan was originally called the St Piran (patron saint of Cornwall) and was to be woven by Abi Armstrong Evans and marketed in conjunction with Donald Rawe of Padstow. There was a very complicated 'High Court' parting of the ways however and Donald Rawe abandonded his claims to the rights of this tartan (which had been registered by Abi Armstrong Evans) and went on to design the St Piran Dress tartan (#1685). To avoid confusion, Abi Evans then changed the name of this 'St Piran' to the 'Cornish Flag'. The white cross on the black represents the flag of Cornwall and the symbol of St Piran, patron saint of the Cornish tin miners. The red represents the scarlet leg and beak of the Cornish chough, the national bird.</em></li>
+<li>1984 — Cornish Flag (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1618/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This tartan was originally called the St Piran (patron saint of Cornwall) and was to be woven by Abi Armstrong Evans and marketed in conjunction with Donald Rawe of Padstow. There was a very complicated 'High Court' parting of the ways however and Donald Rawe abandonded his claims to the rights of this tartan (which had been registered by Abi Armstrong Evans) and went on to design the St Piran Dress tartan (#1685). To avoid confusion, Abi Evans then changed the name of this 'St Piran' to the 'Cornish Flag'. The white cross on the black represents the flag of Cornwall and the symbol of St Piran, patron saint of the Cornish tin miners. The red represents the scarlet leg and beak of the Cornish chough, the national bird.</em></li>
 <li>undated — St Piran, Cornish Flag (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span></li>
 </ul>
 </details>
@@ -61,9 +61,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1618
 
 ## Thread count
-R/4 K2 W20 K40 W10 K40 W20 K/2
+W/10 K40 W20 K2 R/4
 
-One full sett is **270 threads**.
+One full sett is **138 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/4 K2 W20 K40 W10 K40 W20 K/2 — 270 threads; it folds to the canonical 138-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -72,7 +74,7 @@ One full sett is **270 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 K2 W20 K40 W10 K40 W20 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/10 K40 W20 K2 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

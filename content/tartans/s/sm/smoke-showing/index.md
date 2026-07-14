@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y3k18w2k4g12n33k4n5g3/"
+- "/setts/g3n5k4n33g12k4w2n18ly3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkbgkwkg/">GBKBGKWKG</a></nav>
 Its design is pattern [GBKBGKWKG](/stripes/gbkbgkwkg/) — the page of every tartan sharing this colour sequence.
 
 The **Smoke Showing** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Smoke Showing** tartan groups 2 setts — the same named design recorded a
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y3k18w2k4g12n33k4n5g3/">Smoke Showing</a> ★</td><td><code>Y/6 K36 W4 K8 G24 N66 K8 N10 G/6</code></td><td>324</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y3k18w2k4g12n33k4n5g3/"><img src="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/sett.png" alt="Smoke Showing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g3n5k4n33g12k4w2n18ly3/">(UFES)</a></td><td><code>LY/6 N36 W4 K8 G24 N66 K8 N10 G/6</code></td><td>324</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g3n5k4n33g12k4w2n18ly3/"><img src="g3n5k4n33g12k4w2n18ly3-rev.png" alt="(UFES) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/">Smoke Showing</a> ★</td><td><code>Y/6 K36 W4 K8 G24 N66 K8 N10 G/6</code></td><td>324</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><img src="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/sett.png" alt="Smoke Showing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/">(UFES)</a></td><td><code>G/6 N10 K8 N66 G24 K8 W4 N36 LY/6</code></td><td>324</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/"><img src="g3n5k4n33g12k4w2n18ly3-rev.png" alt="(UFES) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/db6k3r2k3dg31k6dg2k6lo13k2dg2~x2/"><circle cx="197.4" cy="107.6" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="207.1" cy="122.6" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="197.9" cy="124.6" r="4" fill="#3465a4"><title>Dinwoodie</title></circle></a><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="178.8" cy="136.3" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="206.3" cy="147.1" r="4" fill="#3465a4"><title>Jones Hunting</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="182.5" cy="125.5" r="4" fill="#3465a4"><title>Hope-Vere</title></circle></a><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="179.0" cy="116.6" r="4" fill="#3465a4"><title>Murray-Hetherington</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="160.2" cy="142.2" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="229.9" cy="152.3" r="4" fill="#3465a4"><title>Bryan Wedding</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="169.7" cy="157.5" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><circle cx="205.0" cy="129.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/db6k3r2k3dg31k6dg2k6lo13k2dg2~x2/"><circle cx="198.0" cy="107.5" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="207.7" cy="122.5" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="198.4" cy="124.4" r="4" fill="#3465a4"><title>Dinwoodie</title></circle></a><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="179.3" cy="136.1" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="206.8" cy="147.0" r="4" fill="#3465a4"><title>Jones Hunting</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="183.0" cy="125.4" r="4" fill="#3465a4"><title>Hope-Vere</title></circle></a><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="179.5" cy="116.4" r="4" fill="#3465a4"><title>Murray-Hetherington</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="160.7" cy="142.0" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="230.5" cy="152.2" r="4" fill="#3465a4"><title>Bryan Wedding</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="170.2" cy="157.4" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><circle cx="205.6" cy="129.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

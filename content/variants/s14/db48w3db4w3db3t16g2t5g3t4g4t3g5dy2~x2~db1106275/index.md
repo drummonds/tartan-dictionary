@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St Andrews"
-  url: "/tartans/s/st/st-andrews/"
+  url: "/tartans/s/st/st-andrews-2/"
 - name: "St. Andrews"
-  url: "/setts/db48w3db4w3db3t16g2t5g3t4g4t3g5dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db48w3db4w3db3t16g2t5g3t4g4t3g5dy2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWBBGBGBGBGGGBGBGBGBBWBW](/stripes/bwbwbbgbgbgbgggbgbgbgbbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-andrews-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBBGBGBGBGG](/stripes/bwbwbbgbgbgbgg/).
 
-Part of the [St Andrews](/tartans/s/st/st-andrews/) tartan — the named design grouping this sett with its other cloths.
+Part of the [St Andrews](/tartans/s/st/st-andrews-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3874](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3874)
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5899
 
 ## Thread count
-DB/96 W6 DB8 W6 DB6 T32 G4 T10 G6 T8 G8 T6 G10 DY4 G10 T6 G8 T8 G6 T10 G4 T32 DB6 W6 DB8 W/6
+DB/96 W6 DB8 W6 DB6 T32 G4 T10 G6 T8 G8 T6 G10 DY/4
 
-One full sett is **538 threads**.
+One full sett is **320 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/96 W6 DB8 W6 DB6 T32 G4 T10 G6 T8 G8 T6 G10 DY4 G10 T6 G8 T8 G6 T10 G4 T32 DB6 W6 DB8 W/6 — 538 threads; it folds to the canonical 320-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **538 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/96 W6 DB8 W6 DB6 T32 G4 T10 G6 T8 G8 T6 G10 DY4 G10 T6 G8 T8 G6 T10 G4 T32 DB6 W6 DB8 W/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/96 W6 DB8 W6 DB6 T32 G4 T10 G6 T8 G8 T6 G10 DY/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

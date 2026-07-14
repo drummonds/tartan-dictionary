@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/w2n2g2dy1y10w7r3w13db5y10w1g2n2w2r1~x4/">Contrecoeur Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w2n2g2dy1y10w7r3w13db5y10w1g2n2w2r1~x4/"><img src="/variants/s15/w2n2g2dy1y10w7r3w13db5y10w1g2n2w2r1~x4/sett.png" alt="Contrecoeur Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/contrecoeur-dress/">Contrecoeur Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/contrecoeur-dress/"><img src="/variants/s15/w2n2g2dy1y10w7r3w13db5y10w1g2n2w2r1~x4/sett.png" alt="Contrecoeur Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

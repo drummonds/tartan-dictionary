@@ -10,10 +10,10 @@ crumbs:
 - name: "Aberdeen F.C."
   url: "/tartans/a/ab/aberdeen-f-c-2/"
 - name: "Aberdeen F.C. Corporate Tartan"
-  url: "/setts/lo5db1r2db4r36db22w4y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo5db1r2db4r36db22w4y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ab/aberdeen-f-c-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBRBRBY](/stripes/gwbrbrby/).
 
 Part of the [Aberdeen F.C.](/tartans/a/ab/aberdeen-f-c-2/) tartan — the named design grouping this sett with its other cloths.

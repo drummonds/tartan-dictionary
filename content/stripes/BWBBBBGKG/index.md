@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/">Dunbartonshire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/"><img src="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/sett.png" alt="Dunbartonshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunbartonshire/">Dunbartonshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunbartonshire/"><img src="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/sett.png" alt="Dunbartonshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

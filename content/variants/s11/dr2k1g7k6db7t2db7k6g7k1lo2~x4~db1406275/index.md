@@ -10,17 +10,17 @@ crumbs:
 - name: "Smith"
   url: "/families/smith/"
 - name: "Smith"
-  url: "/tartans/s/sm/smith-2/"
+  url: "/tartans/s/sm/smith-3/"
 - name: "Smith"
-  url: "/setts/dr2k1g7k6db7t2db7k6g7k1lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr2k1g7k6db7t2db7k6g7k1lo2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKGKBBBKGKYKGKBBBKGK](/stripes/bkgkbbbkgkykgkbbbkgk/).
+provenance below. It is one weaving of the [sett](/tartans/s/sm/smith-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGKBBBKGKY](/stripes/bkgkbbbkgky/).
 
-Part of the [Smith](/tartans/s/sm/smith-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Smith](/tartans/s/sm/smith-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3822](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3822)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 488
 
 ## Thread count
-DR/8 K4 G28 K24 DB28 T8 DB28 K24 G28 K4 LO8 K4 G28 K24 DB28 T8 DB28 K24 G28 K/4
+DR/8 K4 G28 K24 DB28 T8 DB28 K24 G28 K4 LO/8
 
-One full sett is **724 threads**.
+One full sett is **368 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/8 K4 G28 K24 DB28 T8 DB28 K24 G28 K4 LO8 K4 G28 K24 DB28 T8 DB28 K24 G28 K/4 — 724 threads; it folds to the canonical 368-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **724 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/8 K4 G28 K24 DB28 T8 DB28 K24 G28 K4 LO8 K4 G28 K24 DB28 T8 DB28 K24 G28 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/8 K4 G28 K24 DB28 T8 DB28 K24 G28 K4 LO/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

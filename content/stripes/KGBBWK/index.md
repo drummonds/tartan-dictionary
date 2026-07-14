@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k6lb1dr18db6dg18k2~x2/">Eachaidh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k6lb1dr18db6dg18k2~x2/"><img src="/variants/s6/k6lb1dr18db6dg18k2~x2/sett.png" alt="Eachaidh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ea/eachaidh/">Eachaidh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ea/eachaidh/"><img src="/variants/s6/k6lb1dr18db6dg18k2~x2/sett.png" alt="Eachaidh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

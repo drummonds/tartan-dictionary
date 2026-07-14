@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r52y2db16y2db3w5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgbgbw/">RGBGBW</a></nav>
 Its design is pattern [RGBGBW](/stripes/rgbgbw/) — the page of every tartan sharing this colour sequence.
 
 The **Brock University Alumni Association** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Brock University Alumni Association** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r52y2db16y2db3w5/">Brock University Alumni Association</a></td><td><code>R/104 Y4 DB32 Y4 DB6 W/10</code></td><td>206</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r52y2db16y2db3w5/"><img src="/variants/s6/r52y2db16y2db3w5~x2/sett.png" alt="Brock University Alumni Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r52y2db16y2db3w5~x2/">Brock University Alumni Association</a></td><td><code>R/104 Y4 DB32 Y4 DB6 W/10</code></td><td>206</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r52y2db16y2db3w5~x2/"><img src="/variants/s6/r52y2db16y2db3w5~x2/sett.png" alt="Brock University Alumni Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r32w4db7y2lb2~x5/"><circle cx="409.3" cy="149.5" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s7/r68db9lb10db13y1db1y2~x2/"><circle cx="452.8" cy="90.1" r="4" fill="#3465a4"><title>Canadian Legion Branch 50</title></circle></a><a href="/variants/s4/r60w28y2lb3~x2/"><circle cx="425.1" cy="161.0" r="4" fill="#3465a4"><title>Willis, H Graham</title></circle></a><a href="/variants/s4/r32dg8lb4y1~x2/"><circle cx="491.0" cy="155.3" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="477.4" cy="71.7" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/variants/s7/r50db14w6db9y3db4r4~x2/"><circle cx="360.3" cy="138.3" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/variants/s4/db4r50g25w2~x2/"><circle cx="412.1" cy="180.2" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><circle cx="419.3" cy="73.3" r="4" fill="#3465a4"><title>Davet</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="471.3" cy="178.3" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="318.2" cy="101.5" r="4" fill="#3465a4"><title>Ostermeier</title></circle></a><circle cx="419.1" cy="122.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r32w4db7y2lb2~x5/"><circle cx="410.2" cy="149.6" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s7/r68db9lb10db13y1db1y2~x2/"><circle cx="454.0" cy="90.3" r="4" fill="#3465a4"><title>Canadian Legion Branch 50</title></circle></a><a href="/variants/s4/r60w28y2lb3~x2/"><circle cx="426.0" cy="161.1" r="4" fill="#3465a4"><title>Willis, H Graham</title></circle></a><a href="/variants/s4/r32dg8lb4y1~x2/"><circle cx="492.1" cy="155.6" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="478.8" cy="72.0" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/variants/s7/r50db14w6db9y3db4r4~x2/"><circle cx="361.3" cy="138.3" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/variants/s4/db4r50g25w2~x2/"><circle cx="413.0" cy="180.4" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><circle cx="420.6" cy="73.4" r="4" fill="#3465a4"><title>Davet</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="472.3" cy="178.6" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="319.2" cy="101.5" r="4" fill="#3465a4"><title>Ostermeier</title></circle></a><circle cx="420.1" cy="122.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

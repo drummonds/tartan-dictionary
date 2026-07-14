@@ -8,10 +8,10 @@ crumbs:
 - name: "Newton Primary"
   url: "/tartans/n/ne/newton-primary/"
 - name: "Newton Primary School"
-  url: "/setts/db26r3db3w2db3r3db6r6dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db26r3db3w2db3r3db6r6dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/newton-primary/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBRBRG](/stripes/brbwbrbrg/).
 
 Part of the [Newton Primary](/tartans/n/ne/newton-primary/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3131](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1997 — Newton Primary School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3131">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Woven by Elliots for Newton Primary School, Dunblane. Designed by pupils from P6 and P7 - Laura Aitken, Katherine Garner and Abigail Worthington - using the school colours.</em></li>
-<li>1998 — Newton Primary (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2417">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Woven by Elliots for this Dunblane primary school - not connected with the shooting tragedy school. Tartan Society notes say designed by pupils from P6 and P7 - Laura Aitken, Katherine Garner and Abigail Worthington.</em></li>
+<li>1998 — Newton Primary (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2417/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Woven by Elliots for this Dunblane primary school - not connected with the shooting tragedy school. Tartan Society notes say designed by pupils from P6 and P7 - Laura Aitken, Katherine Garner and Abigail Worthington.</em></li>
 </ul>
 </details>
 

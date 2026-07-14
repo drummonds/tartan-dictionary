@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/">Ottawa Fire Service (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><img src="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/sett.png" alt="Ottawa Fire Service (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ot/ottawa-fire-service/">Ottawa Fire Service</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ot/ottawa-fire-service/"><img src="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/sett.png" alt="Ottawa Fire Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

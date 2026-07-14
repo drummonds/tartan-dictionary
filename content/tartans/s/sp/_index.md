@@ -2,7 +2,7 @@
 title: "Tartans — Sp"
 date: 2023-03-18
 ---
-66 tartans beginning with Sp, each with the number of setts it groups. Back to [S](/tartans/s/) or the [A–Z](/tartans/).
+65 tartans beginning with Sp, each with the number of setts it groups. Back to [S](/tartans/s/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/s/sp/spa-association/"><img src="/variants/s18/db5y1db1y1k4db15w1db2y1db2w1db15k4y1db1y1db5w1~x4/sett.png" alt="SPA Association" width="140"><br><strong>SPA Association (1)</strong></a></li>
@@ -45,23 +45,22 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-morningside-2/"><img src="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/sett.png" alt="Spirit of Morningside" width="140"><br><strong>Spirit of Morningside (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-pakistan-the/"><img src="/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/sett.png" alt="Spirit of Pakistan, The" width="140"><br><strong>Spirit of Pakistan, The (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-riverside/"><img src="/variants/s4/n20w13y24k3~x2/sett.png" alt="Spirit of Riverside" width="140"><br><strong>Spirit of Riverside (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/sp/spirit-of-romania/"><img src="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2~db1108266-t2205244/sett.png" alt="Spirit of Romania" width="140"><br><strong>Spirit of Romania (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sp/spirit-of-romania/"><img src="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/sett.png" alt="Spirit of Romania" width="140"><br><strong>Spirit of Romania (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-russia-the/"><img src="/variants/s10/w4dbi2w1r2w16dbi16r16dbi12db1w4~x2~dbi1406275-db1204274/sett.png" alt="Spirit of Russia, The" width="140"><br><strong>Spirit of Russia, The (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-russia-the-2/"><img src="/variants/s10/w4db2w1r2w16db16r16db12k1w4~x2/sett.png" alt="Spirit of Russia, The" width="140"><br><strong>Spirit of Russia, The (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-scotland/"><img src="/variants/s11/dbi19k4dbi4db1dbi1db1dbi1dg5b3k1b4~x6~dbi1003265-dg1304144/sett.png" alt="Spirit of Scotland" width="140"><br><strong>Spirit of Scotland (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/sp/spirit-of-scotland-2/"><img src="/variants/s11/db96dp8db12b3db3b3db3dg20dp8k3dp14~x2~db1204274-dp1508310-b1813263/sett.png" alt="Spirit of Scotland" width="140"><br><strong>Spirit of Scotland (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/sp/spirit-of-scotland-3/"><img src="/variants/s11/dbi96dp8dbi12db3dbi3db3dbi3dg20dp8k3dp14~x2~dbi1204274-db1106275/sett.png" alt="Spirit of Scotland" width="140"><br><strong>Spirit of Scotland (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sp/spirit-of-scotland-2/"><img src="/variants/s11/db96dp8db12b3db3b3db3dg20dp8k3dp14~x2~db1204274-dp1508310-b1813263/sett.png" alt="Spirit of Scotland" width="140"><br><strong>Spirit of Scotland (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-south-korea/"><img src="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/sett.png" alt="Spirit of South Korea" width="140"><br><strong>Spirit of South Korea (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-south-lanarkshire/"><img src="/variants/s7/t13g2t12k8r1dt35ly1~x2~g2408144/sett.png" alt="Spirit of South Lanarkshire" width="140"><br><strong>Spirit of South Lanarkshire (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/sp/spirit-of-south-lanarkshire-distric/"><img src="/variants/s7/lb13g2lb12k8r1dt35ly1~x2~g2408144/sett.png" alt="Spirit of South Lanarkshire (Distric" width="140"><br><strong>Spirit of South Lanarkshire (Distric (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/sp/spirit-of-ulster/"><img src="/variants/s7/w2db4r2db90w2db4r1~x2~r2109032/sett.png" alt="Spirit of Ulster" width="140"><br><strong>Spirit of Ulster (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sp/spirit-of-south-lanarkshire-distric/"><img src="/variants/s7/lb13g2lb12k8r1dt35ly1~x2/sett.png" alt="Spirit of South Lanarkshire (Distric" width="140"><br><strong>Spirit of South Lanarkshire (Distric (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sp/spirit-of-ulster/"><img src="/variants/s7/w2db4r2db90w2db4r1~x2/sett.png" alt="Spirit of Ulster" width="140"><br><strong>Spirit of Ulster (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-wales/"><img src="/variants/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/sett.png" alt="Spirit of Wales" width="140"><br><strong>Spirit of Wales (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-wales-2/"><img src="/variants/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2~db1204274-dp1607327/sett.png" alt="Spirit of Wales" width="140"><br><strong>Spirit of Wales (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-west-lothian/"><img src="/variants/s11/db48dp2db5dp2db7g2w3g5k4w1g26~x2/sett.png" alt="Spirit of West Lothian" width="140"><br><strong>Spirit of West Lothian (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-de-jong/"><img src="/variants/s15/dt103lo12dt20db7k5w5r5w5k5db7dt5g32dp14k5dp22~dt1402277-db1306275/sett.png" alt="Spirit of de Jong" width="140"><br><strong>Spirit of de Jong (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-the-glen/"><img src="/variants/s11/b2dbii4db7dbii3dg20dbii5k7dbii3dp3dbi35w2~x2~dbii1406275-db1204274-dbi1404245/sett.png" alt="Spirit of the Glen" width="140"><br><strong>Spirit of the Glen (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spirit-of-the-glen-2/"><img src="/variants/s20/dbii4db7dbii3dg20dbii5k7dbii3dp3dbi35w2dbi35dp3dbii3k7dbii5dg20dbii3db7dbii4b2~x2~dbii1406275-db1204274-dbi1404245/sett.png" alt="Spirit of the Glen" width="140"><br><strong>Spirit of the Glen (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/sp/spotsylvania-county-sheriff/"><img src="/variants/s10/k2y2k24y2k2y2ly30w3g2r2~x2~ly2503076/sett.png" alt="Spotsylvania County Sheriff" width="140"><br><strong>Spotsylvania County Sheriff (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sp/spotsylvania-county-sheriff/"><img src="/variants/s10/k2y2k24y2k2y2ly30w3g2r2~x2/sett.png" alt="Spotsylvania County Sheriff" width="140"><br><strong>Spotsylvania County Sheriff (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spotsylvania-county-sherrif-s-office-of/"><img src="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/sett.png" alt="Spotsylvania County, Sherrif's Office of" width="140"><br><strong>Spotsylvania County, Sherrif's Office of (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spragg/"><img src="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/sett.png" alt="Spragg" width="140"><br><strong>Spragg (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/sp/spragg-andrew/"><img src="/variants/s7/dr2b16r1dr2r12y1lb1~x2/sett.png" alt="Spragg, Andrew" width="140"><br><strong>Spragg, Andrew (1)</strong></a></li>

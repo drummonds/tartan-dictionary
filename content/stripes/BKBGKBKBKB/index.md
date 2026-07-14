@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/">St George's School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/"><img src="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/sett.png" alt="St George's School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-george-s-school/">St George's School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-george-s-school/"><img src="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/sett.png" alt="St George's School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

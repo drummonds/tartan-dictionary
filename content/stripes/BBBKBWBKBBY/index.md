@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/">Varenne</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"><img src="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/sett.png" alt="Varenne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/varenne/">Varenne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/varenne/"><img src="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/sett.png" alt="Varenne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

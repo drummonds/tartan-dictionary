@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Ballet"
   url: "/tartans/s/sc/scottish-ballet-2/"
 - name: "Scottish Ballet"
-  url: "/setts/y5n22o15lp11o5n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y5n22o15lp11o5n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-ballet-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRBG](/stripes/brwrbg/).
 
 Part of the [Scottish Ballet](/tartans/s/sc/scottish-ballet-2/) tartan — the named design grouping this sett with its other cloths.

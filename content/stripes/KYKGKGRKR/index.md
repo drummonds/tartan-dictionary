@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/">MacMillan Society of Glasgow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/"><img src="/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/sett.png" alt="MacMillan Society of Glasgow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macmillan-society-of-glasgow/">MacMillan Society of Glasgow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macmillan-society-of-glasgow/"><img src="/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/sett.png" alt="MacMillan Society of Glasgow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

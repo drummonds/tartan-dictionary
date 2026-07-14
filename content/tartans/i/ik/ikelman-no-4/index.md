@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Ikelman"
   url: "/clan/ikelman/"
+aliases:
+- "/setts/r10k15g2k2w1k1w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkgkwkw/">RKGKWKW</a></nav>
 A tartan of [Clan Ikelman](/clan/ikelman/).
 Its design is pattern [RKGKWKW](/stripes/rkgkwkw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Ikelman No 4** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r10k15g2k2w1k1w1/">Ikelman No 4</a></td><td><code>R/40 K60 G8 K8 W4 K4 W/4</code></td><td>212</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r10k15g2k2w1k1w1/"><img src="/variants/s7/r10k15g2k2w1k1w1~x4/sett.png" alt="Ikelman No 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r10k15g2k2w1k1w1~x4/">Ikelman No 4</a></td><td><code>R/40 K60 G8 K8 W4 K4 W/4</code></td><td>212</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><img src="/variants/s7/r10k15g2k2w1k1w1~x4/sett.png" alt="Ikelman No 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="344.4" cy="93.3" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s6/k4r26k4w2k13y4~x2/"><circle cx="244.5" cy="144.5" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="260.8" cy="121.3" r="4" fill="#3465a4"><title>Cunard O' The Clyde</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="278.0" cy="146.9" r="4" fill="#3465a4"><title>Dunfermline Athletic</title></circle></a><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="252.5" cy="185.1" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="240.5" cy="147.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="275.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="328.5" cy="135.8" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="288.9" cy="136.6" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s6/r10w2k10w10dy35k5~x2/"><circle cx="218.6" cy="150.3" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><circle cx="278.0" cy="121.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="345.6" cy="93.4" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s6/k4r26k4w2k13y4~x2/"><circle cx="245.3" cy="144.5" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="261.7" cy="121.2" r="4" fill="#3465a4"><title>Cunard O' The Clyde</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="279.0" cy="147.0" r="4" fill="#3465a4"><title>Dunfermline Athletic</title></circle></a><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="253.3" cy="185.1" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="241.2" cy="147.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="276.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="329.7" cy="135.9" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="289.9" cy="136.7" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s6/r10w2k10w10dy35k5~x2/"><circle cx="219.3" cy="150.2" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><circle cx="279.0" cy="121.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

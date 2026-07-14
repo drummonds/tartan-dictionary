@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lg12k2r2k2r2k12dg11y2dg11k12lg11k2r2~x2~lg3101240-k0700000/">92nd Regiment Drummers' Plaid (Mil.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lg12k2r2k2r2k12dg11y2dg11k12lg11k2r2~x2~lg3101240-k0700000/"><img src="/variants/s13/lg12k2r2k2r2k12dg11y2dg11k12lg11k2r2~x2~lg3101240-k0700000/sett.png" alt="92nd Regiment Drummers' Plaid (Mil.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/92nd-regiment-drummers/">92nd Regiment Drummers'</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/92nd-regiment-drummers/"><img src="/variants/s13/lg12k2r2k2r2k12dg11y2dg11k12lg11k2r2~x2~lg3101240-k0700000/sett.png" alt="92nd Regiment Drummers' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

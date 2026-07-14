@@ -12,10 +12,10 @@ crumbs:
 - name: "Peacock"
   url: "/tartans/p/pe/peacock-2/"
 - name: "Peacock"
-  url: "/setts/b20dp3db7y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b20dp3db7y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/peacock-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBG](/stripes/bbbg/).
 
 Part of the [Peacock](/tartans/p/pe/peacock-2/) tartan — the named design grouping this sett with its other cloths.

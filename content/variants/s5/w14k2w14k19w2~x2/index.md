@@ -10,10 +10,10 @@ crumbs:
 - name: "MacLeod B&W"
   url: "/tartans/m/ma/macleod-b-w/"
 - name: "MacLeod Black & White"
-  url: "/setts/w14k2w14k19w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w14k2w14k19w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macleod-b-w/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKW](/stripes/wkwkw/).
 
 Part of the [MacLeod B&W](/tartans/m/ma/macleod-b-w/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2634](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1906 — MacLeod Black & White (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2634">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Published in W & A.K. Johnston's 1906 2 Vol work and detailed in Ruairidh MacLeod's 'The Tartans of Clan MacLeod'. Called MacLeod Black & White or Mourning. There are observers who state that attaching the label 'Mourning' to sombre tartans was a Victorian affectation.</em></li>
-<li>1906 — MacLeod B&W - 1906 (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1828">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Published in W & A.K. Johnston's 1906 2 Vol work and detailed in Ruairidh MacLeod's 'the Tartans of Clan MacLeod'. Called MacLeod Black & White or Mourning. There are observers who state that attaching the label 'Mourning' to sombre tartans was a Victorian affectation.</em></li>
+<li>1906 — MacLeod B&W - 1906 (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1828/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Published in W & A.K. Johnston's 1906 2 Vol work and detailed in Ruairidh MacLeod's 'the Tartans of Clan MacLeod'. Called MacLeod Black & White or Mourning. There are observers who state that attaching the label 'Mourning' to sombre tartans was a Victorian affectation.</em></li>
 </ul>
 </details>
 

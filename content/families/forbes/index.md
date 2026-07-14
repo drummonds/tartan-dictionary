@@ -17,7 +17,7 @@ A family of [Clan Forbes](/clan/forbes/).
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/f/fo/forbes/">Forbes</a> ★</td><td>1810</td><td>2</td><td>4</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fo/forbes/"><img src="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fo/forbes/"><img src="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fo/forbes-4/">Forbes</a></td><td>1831</td><td>1</td><td>1</td><td>2.32</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fo/forbes-4/"><img src="/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fo/forbes-2/">Forbes</a></td><td>—</td><td>3</td><td>3</td><td>3.39</td></tr>

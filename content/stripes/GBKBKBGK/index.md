@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g9t4k4t3k4t4g9k2~x4/">Keith Clan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g9t4k4t3k4t4g9k2~x4/"><img src="/variants/s8/g9t4k4t3k4t4g9k2~x4/sett.png" alt="Keith Clan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/keith/">Keith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/keith/"><img src="/variants/s8/g9t4k4t3k4t4g9k2~x4/sett.png" alt="Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/">Wilson's No.173</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/"><img src="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/sett.png" alt="Wilson's No.173 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-173/">Wilson's No.173</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-173/"><img src="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/sett.png" alt="Wilson's No.173 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

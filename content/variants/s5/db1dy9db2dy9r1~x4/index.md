@@ -8,10 +8,10 @@ crumbs:
 - name: "Brooks Brothers Tattersall Camel"
   url: "/tartans/b/br/brooks-brothers-tattersall-camel/"
 - name: "Brooks Brothers Tattersall Camel"
-  url: "/setts/db1dy9db2dy9r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1dy9db2dy9r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brooks-brothers-tattersall-camel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGR](/stripes/bgbgr/).
 
 Part of the [Brooks Brothers Tattersall Camel](/tartans/b/br/brooks-brothers-tattersall-camel/) tartan — the named design grouping this sett with its other cloths.

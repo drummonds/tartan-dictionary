@@ -12,10 +12,10 @@ crumbs:
 - name: "MacKerrell of Hillhouse Dress"
   url: "/tartans/m/ma/mackerrell-of-hillhouse-dress/"
 - name: "MacKerrell of Hillhouse Dress Personal Tartan"
-  url: "/setts/w4n28t48y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4n28t48y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackerrell-of-hillhouse-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBW](/stripes/gbbw/).
 
 Part of the [MacKerrell of Hillhouse Dress](/tartans/m/ma/mackerrell-of-hillhouse-dress/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/">Ayrshire Tourist Board</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/"><img src="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/sett.png" alt="Ayrshire Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayrshire-tourist-board-2/">Ayrshire Tourist Board</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ay/ayrshire-tourist-board-2/"><img src="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/sett.png" alt="Ayrshire Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

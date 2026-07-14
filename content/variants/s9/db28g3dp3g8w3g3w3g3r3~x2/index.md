@@ -12,10 +12,10 @@ crumbs:
 - name: "Todd"
   url: "/tartans/t/to/todd/"
 - name: "Todd Family Tartan"
-  url: "/setts/db28g3dp3g8w3g3w3g3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db28g3dp3g8w3g3w3g3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/todd/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGWGWGR](/stripes/bgbgwgwgr/).
 
 Part of the [Todd](/tartans/t/to/todd/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Mekos, The"
   url: "/tartans/m/me/mekos-the/"
 - name: "Mekos, The"
-  url: "/setts/dy19g23y3db15r11w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy19g23y3db15r11w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/mekos-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGBRW](/stripes/gggbrw/).
 
 Part of the [Mekos, The](/tartans/m/me/mekos-the/) tartan — the named design grouping this sett with its other cloths.

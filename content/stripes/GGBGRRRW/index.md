@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/">Etienne, Paschal Tache Sir...</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/"><img src="/variants/s8/w3o1r29o16g23db3g3y2~x2/sett.png" alt="Etienne, Paschal Tache Sir... sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/et/etienne-paschal-tache-sir-2/">Etienne, Paschal Tache Sir...</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/et/etienne-paschal-tache-sir-2/"><img src="/variants/s8/w3o1r29o16g23db3g3y2~x2/sett.png" alt="Etienne, Paschal Tache Sir... sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/">Braemar, Camel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/"><img src="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/sett.png" alt="Braemar, Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/braemar-camel/">Braemar, Camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braemar-camel/"><img src="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/sett.png" alt="Braemar, Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

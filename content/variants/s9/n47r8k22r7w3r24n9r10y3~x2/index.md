@@ -10,10 +10,10 @@ crumbs:
 - name: "Ulster Ancestry"
   url: "/tartans/u/ul/ulster-ancestry/"
 - name: "Ulster Ancestry"
-  url: "/setts/n47r8k22r7w3r24n9r10y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n47r8k22r7w3r24n9r10y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/ul/ulster-ancestry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRWRBRG](/stripes/brkrwrbrg/).
 
 Part of the [Ulster Ancestry](/tartans/u/ul/ulster-ancestry/) tartan — the named design grouping this sett with its other cloths.

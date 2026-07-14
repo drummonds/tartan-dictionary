@@ -12,10 +12,10 @@ crumbs:
 - name: "Dunlop"
   url: "/tartans/d/du/dunlop-2/"
 - name: "Dunlop"
-  url: "/setts/k3r1k30w1o28g1o1w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3r1k30w1o28g1o1w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunlop-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWRGRW](/stripes/krkwrgrw/).
 
 Part of the [Dunlop](/tartans/d/du/dunlop-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db22k3db3k3db3k15r2g19k1lb3k1g19r2k15db19k3db3~x2/">Sempill</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db22k3db3k3db3k15r2g19k1lb3k1g19r2k15db19k3db3~x2/"><img src="/variants/s17/db22k3db3k3db3k15r2g19k1lb3k1g19r2k15db19k3db3~x2/sett.png" alt="Sempill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/sempill/">Sempill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/sempill/"><img src="/variants/s17/db22k3db3k3db3k15r2g19k1lb3k1g19r2k15db19k3db3~x2/sett.png" alt="Sempill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/">Hanly</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/"><img src="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/sett.png" alt="Hanly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hanly/">Hanly</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hanly/"><img src="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/sett.png" alt="Hanly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/n6dp4n2w2n25k26y4/"
+- "/setts/n6dp4n2w2n24k25ly4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbwbkg/">BBBWBKG</a></nav>
 Its design is pattern [BBBWBKG](/stripes/bbbwbkg/) — the page of every tartan sharing this colour sequence.
 
 The **New York State Troopers** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **New York State Troopers** tartan groups 2 setts — the same named design 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n6dp4n2w2n25k26y4/">New York State Troopers</a> ★</td><td><code>N/12 DP8 N4 W4 N50 K52 Y/8</code></td><td>256</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n6dp4n2w2n25k26y4/"><img src="/variants/s7/n6dp4n2w2n25k26y4~x2/sett.png" alt="New York State Troopers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/n6dp4n2w2n24k25ly4/">(Corporate)</a></td><td><code>N/12 DP8 N4 W4 N48 K50 LY/8</code></td><td>248</td><td>~1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n6dp4n2w2n24k25ly4/"><img src="/variants/s7/n6dp4n2w2n24k25ly4~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/">New York State Troopers</a> ★</td><td><code>N/12 DP8 N4 W4 N50 K52 Y/8</code></td><td>256</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><img src="/variants/s7/n6dp4n2w2n25k26y4~x2/sett.png" alt="New York State Troopers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n6dp4n2w2n24k25ly4~x2/">(Corporate)</a></td><td><code>N/12 DP8 N4 W4 N48 K50 LY/8</code></td><td>248</td><td>~1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n6dp4n2w2n24k25ly4~x2/"><img src="/variants/s7/n6dp4n2w2n24k25ly4~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="187.7" cy="118.9" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><circle cx="185.8" cy="114.9" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce</title></circle></a><a href="/variants/s8/k35o2k3dp13g8w4g8dp8~x2/"><circle cx="199.5" cy="122.3" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="259.8" cy="96.6" r="4" fill="#3465a4"><title>Royal College of G.P.s</title></circle></a><a href="/variants/s7/r5lb2k30n26y2n2db4~x2/"><circle cx="195.7" cy="122.0" r="4" fill="#3465a4"><title>Milne-Murtaugh</title></circle></a><a href="/variants/s7/dp5lb2k30n26y2n2db4~x2/"><circle cx="201.6" cy="125.1" r="4" fill="#3465a4"><title>Milne-Murtagh</title></circle></a><a href="/variants/s7/r2w8k14dy25w2k2w2~x2/"><circle cx="204.9" cy="148.5" r="4" fill="#3465a4"><title>Merric Dark Camel..</title></circle></a><a href="/variants/s7/k40dp5k6y26n13k9dy3~x2/"><circle cx="237.0" cy="149.4" r="4" fill="#3465a4"><title>de Meuron Dress, The</title></circle></a><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/"><circle cx="220.8" cy="139.7" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><a href="/variants/s6/lb12g16k12g24dp75y4/"><circle cx="263.7" cy="141.8" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><circle cx="227.3" cy="143.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="188.3" cy="118.7" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><circle cx="186.4" cy="114.8" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce</title></circle></a><a href="/variants/s8/k35o2k3dp13g8w4g8dp8~x2/"><circle cx="200.2" cy="122.1" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="260.6" cy="96.5" r="4" fill="#3465a4"><title>Royal College of G.P.s</title></circle></a><a href="/variants/s7/r5lb2k30n26y2n2db4~x2/"><circle cx="196.3" cy="121.9" r="4" fill="#3465a4"><title>Milne-Murtaugh</title></circle></a><a href="/variants/s7/dp5lb2k30n26y2n2db4~x2/"><circle cx="202.2" cy="125.0" r="4" fill="#3465a4"><title>Milne-Murtagh</title></circle></a><a href="/variants/s7/r2w8k14dy25w2k2w2~x2/"><circle cx="205.5" cy="148.4" r="4" fill="#3465a4"><title>Merric Dark Camel..</title></circle></a><a href="/variants/s7/k40dp5k6y26n13k9dy3~x2/"><circle cx="237.7" cy="149.3" r="4" fill="#3465a4"><title>de Meuron Dress, The</title></circle></a><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/"><circle cx="221.6" cy="139.6" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><a href="/variants/s6/lb12g16k12g24dp75y4/"><circle cx="264.4" cy="141.7" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><circle cx="228.0" cy="143.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

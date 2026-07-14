@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3y2~x2/">Canmore Highland Games Dress (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3y2~x2/"><img src="/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3y2~x2/sett.png" alt="Canmore Highland Games Dress (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canmore-highland-games-dress/">Canmore Highland Games Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canmore-highland-games-dress/"><img src="/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3y2~x2/sett.png" alt="Canmore Highland Games Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

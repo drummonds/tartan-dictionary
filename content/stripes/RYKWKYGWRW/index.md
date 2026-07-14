@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r15ly30k1w6k1ly2dg16lb4r6w1~x2/">Westwood (Fashion?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r15ly30k1w6k1ly2dg16lb4r6w1~x2/"><img src="/variants/s10/r15ly30k1w6k1ly2dg16lb4r6w1~x2/sett.png" alt="Westwood (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westwood/">Westwood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westwood/"><img src="/variants/s10/r15ly30k1w6k1ly2dg16lb4r6w1~x2/sett.png" alt="Westwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

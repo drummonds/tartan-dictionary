@@ -12,10 +12,10 @@ crumbs:
 - name: "MacLeod of Raasay"
   url: "/tartans/m/ma/macleod-of-raasay/"
 - name: "MacLeod of Raasay Clan Tartan"
-  url: "/setts/k6r1k6r9k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6r1k6r9k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macleod-of-raasay/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRK](/stripes/krkrk/).
 
 Part of the [MacLeod of Raasay](/tartans/m/ma/macleod-of-raasay/) tartan — the named design grouping this sett with its other cloths.

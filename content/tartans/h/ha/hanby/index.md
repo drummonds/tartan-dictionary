@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg21dy10dg20k3dg10r3dg10w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gggkgrgw/">GGGKGRGW</a></nav>
 Its design is pattern [GGGKGRGW](/stripes/gggkgrgw/) — the page of every tartan sharing this colour sequence.
 
 The **Hanby** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Hanby** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg21dy10dg20k3dg10r3dg10w3/">Hanby</a></td><td><code>DG/42 DY20 DG40 K6 DG20 R6 DG20 W/6</code></td><td>272</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg21dy10dg20k3dg10r3dg10w3/"><img src="/variants/s8/dg21dy10dg20k3dg10r3dg10w3~x2/sett.png" alt="Hanby sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg21dy10dg20k3dg10r3dg10w3~x2/">Hanby</a></td><td><code>DG/42 DY20 DG40 K6 DG20 R6 DG20 W/6</code></td><td>272</td><td>2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg21dy10dg20k3dg10r3dg10w3~x2/"><img src="/variants/s8/dg21dy10dg20k3dg10r3dg10w3~x2/sett.png" alt="Hanby sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.6" cy="179.3" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="435.1" cy="200.8" r="4" fill="#3465a4"><title>Gayre Bodyguard</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s8/g8k2g13r4g12dp22g5y3~x2/"><circle cx="257.3" cy="184.2" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="549.8" cy="172.6" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="276.8" cy="212.3" r="4" fill="#3465a4"><title>Strath Halladale</title></circle></a><a href="/variants/s9/k3dg14k8dg8dr3dg4lo3dg24w3~x2/"><circle cx="338.5" cy="164.1" r="4" fill="#3465a4"><title>MacStumer Hunting</title></circle></a><a href="/variants/s9/dr3dg24k4dg10g3dg10dr5dy3n3~x2/"><circle cx="421.9" cy="214.8" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s6/g23r3g7r3g23dp7~x2/"><circle cx="504.9" cy="250.6" r="4" fill="#3465a4"><title>Highland Spring</title></circle></a><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><circle cx="289.9" cy="236.0" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><circle cx="415.7" cy="217.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="335.4" cy="179.5" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="435.9" cy="201.1" r="4" fill="#3465a4"><title>Gayre Bodyguard</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="315.3" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s8/g8k2g13r4g12dp22g5y3~x2/"><circle cx="257.8" cy="184.2" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="551.0" cy="173.1" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="277.4" cy="212.4" r="4" fill="#3465a4"><title>Strath Halladale</title></circle></a><a href="/variants/s9/k3dg14k8dg8dr3dg4lo3dg24w3~x2/"><circle cx="339.4" cy="164.3" r="4" fill="#3465a4"><title>MacStumer Hunting</title></circle></a><a href="/variants/s9/dr3dg24k4dg10g3dg10dr5dy3n3~x2/"><circle cx="422.4" cy="215.1" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s6/g23r3g7r3g23dp7~x2/"><circle cx="505.8" cy="251.1" r="4" fill="#3465a4"><title>Highland Spring</title></circle></a><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><circle cx="290.4" cy="236.2" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><circle cx="416.5" cy="217.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

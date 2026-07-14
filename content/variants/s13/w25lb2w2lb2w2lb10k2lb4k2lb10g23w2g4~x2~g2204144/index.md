@@ -11,11 +11,11 @@ crumbs:
   url: "/families/oliphant/"
 - name: "Oliphant Dress"
   url: "/tartans/o/ol/oliphant-dress/"
-- name: "Oliphant Dress (Clan)"
-  url: "/setts/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4/"
+- name: "Oliphant Dress Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ol/oliphant-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWKWKWWWWWW](/stripes/gwgwkwkwwwwww/).
 
 Part of the [Oliphant Dress](/tartans/o/ol/oliphant-dress/) tartan — the named design grouping this sett with its other cloths.

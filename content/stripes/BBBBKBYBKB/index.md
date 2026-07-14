@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dp24k2dp2lo2dp2k20db16n2db2n3~x2/">D'Souza (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dp24k2dp2lo2dp2k20db16n2db2n3~x2/"><img src="/variants/s10/dp24k2dp2lo2dp2k20db16n2db2n3~x2/sett.png" alt="D'Souza (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/d/d-souza/">D'Souza</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/d/d-souza/"><img src="/variants/s10/dp24k2dp2lo2dp2k20db16n2db2n3~x2/sett.png" alt="D'Souza sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

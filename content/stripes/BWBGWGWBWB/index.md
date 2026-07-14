@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db14lb2db3lb2g10lb32g10db10lb2db3~x2/">Fraser Arisaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db14lb2db3lb2g10lb32g10db10lb2db3~x2/"><img src="/variants/s10/db14lb2db3lb2g10lb32g10db10lb2db3~x2/sett.png" alt="Fraser Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/db14w2db3w2g10w32g10db10w2db3~x2/">Fraser, Arisaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db14w2db3w2g10w32g10db10w2db3~x2/"><img src="/variants/s10/db14w2db3w2g10w32g10db10w2db3~x2/sett.png" alt="Fraser, Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-arisaid/">Fraser Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-arisaid/"><img src="/variants/s10/db14lb2db3lb2g10lb32g10db10lb2db3~x2/sett.png" alt="Fraser Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

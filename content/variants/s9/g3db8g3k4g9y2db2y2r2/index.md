@@ -8,10 +8,10 @@ crumbs:
 - name: "Maitland"
   url: "/tartans/m/ma/maitland/"
 - name: "Maitland"
-  url: "/setts/g3db8g3k4g9y2db2y2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3db8g3k4g9y2db2y2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maitland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGGBGR](/stripes/gbgkggbgr/).
 
 Part of the [Maitland](/tartans/m/ma/maitland/) tartan — the named design grouping this sett with its other cloths.

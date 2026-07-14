@@ -8,10 +8,10 @@ crumbs:
 - name: "Mull"
   url: "/tartans/m/mu/mull/"
 - name: "Mull or Glenlyon District Tartan"
-  url: "/setts/k5g4lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5g4lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/mull/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGW](/stripes/kgw/).
 
 Part of the [Mull](/tartans/m/mu/mull/) tartan — the named design grouping this sett with its other cloths.

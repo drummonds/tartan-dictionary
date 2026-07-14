@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg17lb3dg17k15w33db8w33k15dg17lb3dg17lb3~x2/">MacRobart Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg17lb3dg17k15w33db8w33k15dg17lb3dg17lb3~x2/"><img src="/variants/s12/dg17lb3dg17k15w33db8w33k15dg17lb3dg17lb3~x2/sett.png" alt="MacRobart Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macrobart/">MacRobart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrobart/"><img src="/variants/s12/dg17lb3dg17k15w33db8w33k15dg17lb3dg17lb3~x2/sett.png" alt="MacRobart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

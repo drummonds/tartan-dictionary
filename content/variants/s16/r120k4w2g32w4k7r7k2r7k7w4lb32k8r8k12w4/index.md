@@ -12,10 +12,10 @@ crumbs:
 - name: "Chattan"
   url: "/tartans/c/ch/chattan-2/"
 - name: "Chattan, Clan"
-  url: "/setts/r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chattan-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWGWKRKRKWWKRKW](/stripes/rkwgwkrkrkwwkrkw/).
 
 Part of the [Chattan](/tartans/c/ch/chattan-2/) tartan — the named design grouping this sett with its other cloths.

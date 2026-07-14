@@ -10,10 +10,10 @@ crumbs:
 - name: "Traill Clan/Family Weavers"
   url: "/tartans/t/tr/traill-clan-family-weavers/"
 - name: "Traill Clan/Family Weavers Tartan"
-  url: "/setts/dr16y2dy7y2t24k2g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr16y2dy7y2t24k2g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tr/traill-clan-family-weavers/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGBKG](/stripes/bgggbkg/).
 
 Part of the [Traill Clan/Family Weavers](/tartans/t/tr/traill-clan-family-weavers/) tartan — the named design grouping this sett with its other cloths.

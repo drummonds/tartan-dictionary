@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k31r2k10db1k1w1~x4/">NewGeneration Alchemy (NGA) Inc</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k31r2k10db1k1w1~x4/"><img src="/variants/s6/k31r2k10db1k1w1~x4/sett.png" alt="NewGeneration Alchemy (NGA) Inc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/newgeneration-alchemy-inc/">NewGeneration Alchemy Inc</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/newgeneration-alchemy-inc/"><img src="/variants/s6/k31r2k10db1k1w1~x4/sett.png" alt="NewGeneration Alchemy Inc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

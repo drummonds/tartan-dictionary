@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Morris"
   url: "/clan/morris/"
+aliases:
+- "/setts/w6y3db3y2db3y4db48y4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbgbgw/">GBGBGBGW</a></nav>
 A tartan of [Clan Morris](/clan/morris/).
 Its design is pattern [GBGBGBGW](/stripes/gbgbgbgw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Morris** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w6y3db3y2db3y4db48y4/">Morris</a></td><td><code>W/6 Y3 DB3 Y2 DB3 Y4 DB48 Y/4</code></td><td>136</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w6y3db3y2db3y4db48y4/"><img src="/variants/s8/w6y3db3y2db3y4db48y4/sett.png" alt="Morris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w6y3db3y2db3y4db48y4/">Morris</a></td><td><code>W/6 Y3 DB3 Y2 DB3 Y4 DB48 Y/4</code></td><td>136</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w6y3db3y2db3y4db48y4/"><img src="/variants/s8/w6y3db3y2db3y4db48y4/sett.png" alt="Morris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/y4db48y4db3y2db3y3w4/"><circle cx="536.8" cy="136.9" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/"><circle cx="463.4" cy="146.3" r="4" fill="#3465a4"><title>University of North Carolina</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="496.2" cy="103.1" r="4" fill="#3465a4"><title>George, Stuart</title></circle></a><a href="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/"><circle cx="602.5" cy="114.6" r="4" fill="#3465a4"><title>University of Delaware</title></circle></a><a href="/variants/s11/db48g4db6y2db2lr2db2g10lr6db2lr5~x2/"><circle cx="433.3" cy="119.0" r="4" fill="#3465a4"><title>Damson</title></circle></a><a href="/variants/s9/db43y5db1y4db1y2db7w1db2~x2/"><circle cx="626.0" cy="118.6" r="4" fill="#3465a4"><title>University of Delaware Fightin' Blue Hen</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="506.7" cy="163.5" r="4" fill="#3465a4"><title>St. John</title></circle></a><a href="/variants/s10/db6ly2db7g4db3g6db2g4db39y2~x2/"><circle cx="518.0" cy="147.3" r="4" fill="#3465a4"><title>Seletar</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="455.0" cy="95.8" r="4" fill="#3465a4"><title>Ottawa Fire Service</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.9" cy="156.3" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><circle cx="507.5" cy="136.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/y4db48y4db3y2db3y3w4/"><circle cx="538.1" cy="137.3" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/"><circle cx="464.5" cy="146.6" r="4" fill="#3465a4"><title>University of North Carolina</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="497.5" cy="103.4" r="4" fill="#3465a4"><title>George, Stuart</title></circle></a><a href="/variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/"><circle cx="604.0" cy="115.0" r="4" fill="#3465a4"><title>University of Delaware</title></circle></a><a href="/variants/s11/db48g4db6y2db2lr2db2g10lr6db2lr5~x2/"><circle cx="434.3" cy="119.1" r="4" fill="#3465a4"><title>Damson</title></circle></a><a href="/variants/s9/db43y5db1y4db1y2db7w1db2~x2/"><circle cx="626.0" cy="119.2" r="4" fill="#3465a4"><title>University of Delaware Fightin' Blue Hen</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="508.0" cy="163.8" r="4" fill="#3465a4"><title>St. John</title></circle></a><a href="/variants/s10/db6ly2db7g4db3g6db2g4db39y2~x2/"><circle cx="519.2" cy="147.7" r="4" fill="#3465a4"><title>Seletar</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="456.3" cy="96.0" r="4" fill="#3465a4"><title>Ottawa Fire Service</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="541.1" cy="156.7" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><circle cx="508.8" cy="136.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

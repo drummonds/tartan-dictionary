@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1~x4~ly2503076-lyi3104101/">Tiree</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1~x4~ly2503076-lyi3104101/"><img src="/variants/s11/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1~x4~ly2503076-lyi3104101/sett.png" alt="Tiree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tiree/">Tiree</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tiree/"><img src="/variants/s11/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1~x4~ly2503076-lyi3104101/sett.png" alt="Tiree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

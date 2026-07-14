@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dt4k2dt2k4dt20k43dt2k4dt2~x2/">Dark Island Black (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dt4k2dt2k4dt20k43dt2k4dt2~x2/"><img src="/variants/s9/dt4k2dt2k4dt20k43dt2k4dt2~x2/sett.png" alt="Dark Island Black (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dark-island/">Dark Island</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dark-island/"><img src="/variants/s9/dt4k2dt2k4dt20k43dt2k4dt2~x2/sett.png" alt="Dark Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/">Grey Breton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/"><img src="/variants/s9/n14k19n14k6n14k6n14k47n6/sett.png" alt="Grey Breton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grey-breton/">Grey Breton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grey-breton/"><img src="/variants/s9/n14k19n14k6n14k6n14k47n6/sett.png" alt="Grey Breton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/">Trotter (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><img src="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/sett.png" alt="Trotter (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/trotter/">Trotter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/trotter/"><img src="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/sett.png" alt="Trotter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

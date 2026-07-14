@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db140r11db14y11/">Gem</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db140r11db14y11/"><img src="/variants/s4/db140r11db14y11/sett.png" alt="Gem sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/db32r3db4y3~x2/">MacLaine of Lochbuie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db32r3db4y3~x2/"><img src="/variants/s4/db32r3db4y3~x2/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/gem/">Gem</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/gem/"><img src="/variants/s4/db140r11db14y11/sett.png" alt="Gem sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclaine-of-lochbuie/">MacLaine of Lochbuie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclaine-of-lochbuie/"><img src="/variants/s4/db32r3db4y3~x2/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

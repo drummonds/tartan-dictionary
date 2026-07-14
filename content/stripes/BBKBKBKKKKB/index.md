@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr2k39db3k2db3k2db3dr2~x2/">Impulse (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr2k39db3k2db3k2db3dr2~x2/"><img src="/variants/s8/dr2k39db3k2db3k2db3dr2~x2/sett.png" alt="Impulse (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/im/impulse-2/">Impulse</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/im/impulse-2/"><img src="/variants/s8/dr2k39db3k2db3k2db3dr2~x2/sett.png" alt="Impulse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

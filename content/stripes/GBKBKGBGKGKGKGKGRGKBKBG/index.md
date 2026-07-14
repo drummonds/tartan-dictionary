@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2/">Gunning, Robert Maxwell Stewart (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2/"><img src="/variants/s23/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2/sett.png" alt="Gunning, Robert Maxwell Stewart (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/gunning-robert-maxwell-stewart/">Gunning, Robert Maxwell Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/gunning-robert-maxwell-stewart/"><img src="/variants/s23/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2/sett.png" alt="Gunning, Robert Maxwell Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

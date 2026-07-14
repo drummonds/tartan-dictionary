@@ -8,10 +8,10 @@ crumbs:
 - name: "Dellen"
   url: "/tartans/d/de/dellen/"
 - name: "Dellen"
-  url: "/setts/k80r6g3r12k2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k80r6g3r12k2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/dellen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRKW](/stripes/krgrkw/).
 
 Part of the [Dellen](/tartans/d/de/dellen/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11271](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>08/01/2015 — Dellen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11271">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1714;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #1C1714"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B62531;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #B62531"></span><span style="display:inline-block;width:.85em;height:.85em;background:#06392B;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #06392B"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F9F5EF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F9F5EF"></span><br><em>The Dellen tartan is named for the lake system consisting of two lakes, Northern and Southern Dellen, in Helsingland, Sweden. The colours in this tartan are inspired by the traditional costume of Delsbo, a locality in Hudiksvall, in the vicinity of the two lakes.</em></li>
-<li>2015 — Dellen (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11271">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CC4438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ASR #CC4438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>The Dellen tartan is named for the lake system consisting of two lakes, Northern and Southern Dellen, in Sweden. The colours in this tartan are inspired by the traditional costume of Delsbo, a locality in Hudiksvall, in the vicinity of the two lakes.</em></li>
+<li>2015 — Dellen (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11271/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#CC4438;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ASR #CC4438"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>The Dellen tartan is named for the lake system consisting of two lakes, Northern and Southern Dellen, in Sweden. The colours in this tartan are inspired by the traditional costume of Delsbo, a locality in Hudiksvall, in the vicinity of the two lakes.</em></li>
 </ul>
 </details>
 

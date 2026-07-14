@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/r5y1r8w1db20w1lb20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/">Whitworth Artifact Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/r5y1r8w1db20w1lb20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><img src="/variants/s20/r5y1r8w1db20w1lb20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/sett.png" alt="Whitworth Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wh/whitworth-3/">Whitworth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wh/whitworth-3/"><img src="/variants/s20/r5dy1r8w1db20w1lb20w1g20dy1r5dy1r5dy1g20dy2r52w1dy5w1~x2/sett.png" alt="Whitworth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

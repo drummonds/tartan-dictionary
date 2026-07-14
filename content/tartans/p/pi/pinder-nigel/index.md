@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g12k4g12w1t6w1y4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgwbwg/">GKGWBWG</a></nav>
 Its design is pattern [GKGWBWG](/stripes/gkgwbwg/) — the page of every tartan sharing this colour sequence.
 
 The **Pinder, Nigel** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Pinder, Nigel** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g12k4g12w1t6w1y4/">Pinder, Nigel</a></td><td><code>G/48 K16 G48 W4 T24 W4 Y/16</code></td><td>256</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g12k4g12w1t6w1y4/"><img src="/variants/s7/g12k4g12w1t6w1y4~x4/sett.png" alt="Pinder, Nigel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g12k4g12w1t6w1y4~x4/">Pinder, Nigel</a></td><td><code>G/48 K16 G48 W4 T24 W4 Y/16</code></td><td>256</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g12k4g12w1t6w1y4~x4/"><img src="/variants/s7/g12k4g12w1t6w1y4~x4/sett.png" alt="Pinder, Nigel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="236.0" cy="164.4" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="311.4" cy="129.6" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4~x2/"><circle cx="229.5" cy="208.0" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="269.5" cy="177.6" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="260.5" cy="149.3" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><circle cx="257.7" cy="139.2" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="176.2" cy="165.7" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="221.3" cy="141.3" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s4/k5g40db20ly3~x2/"><circle cx="313.2" cy="201.2" r="4" fill="#3465a4"><title>Byers</title></circle></a><a href="/variants/s4/k5g40db20y3~x2/"><circle cx="321.4" cy="204.5" r="4" fill="#3465a4"><title>Robert Byers</title></circle></a><circle cx="271.3" cy="192.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="236.6" cy="164.4" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.1" cy="129.6" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4~x2/"><circle cx="230.0" cy="208.0" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="270.2" cy="177.6" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="261.2" cy="149.3" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><circle cx="258.3" cy="139.1" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="176.6" cy="165.5" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="221.9" cy="141.2" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s4/k5g40db20ly3~x2/"><circle cx="313.9" cy="201.3" r="4" fill="#3465a4"><title>Byers</title></circle></a><a href="/variants/s4/k5g40db20y3~x2/"><circle cx="322.1" cy="204.7" r="4" fill="#3465a4"><title>Robert Byers</title></circle></a><circle cx="271.8" cy="192.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

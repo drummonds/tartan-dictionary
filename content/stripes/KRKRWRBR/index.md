@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/">Whitaker (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><img src="/variants/s8/k60r3k15r3lb2r5db3r2~x2/sett.png" alt="Whitaker (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wh/whitaker/">Whitaker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wh/whitaker/"><img src="/variants/s8/k60r3k15r3lb2r5db3r2~x2/sett.png" alt="Whitaker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

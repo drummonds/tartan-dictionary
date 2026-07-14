@@ -8,10 +8,10 @@ crumbs:
 - name: "Hayden"
   url: "/tartans/h/ha/hayden/"
 - name: "Hayden (Dublin) (Personal)"
-  url: "/setts/g60dg5w5y5dg9db4dg5g5dg1y5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g60dg5w5y5dg9db4dg5g5dg1y5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hayden/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGBGGWGG](/stripes/ggggbggwgg/).
 
 Part of the [Hayden](/tartans/h/ha/hayden/) tartan — the named design grouping this sett with its other cloths.

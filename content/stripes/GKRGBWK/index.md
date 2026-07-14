@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/">Cooke (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/"><img src="/variants/s7/k6lb2db12g8r5k2g3~x4/sett.png" alt="Cooke (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cooke/">Cooke</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cooke/"><img src="/variants/s7/k6lb2db12g8r5k2g3~x4/sett.png" alt="Cooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

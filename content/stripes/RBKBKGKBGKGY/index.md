@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/">van der Watt Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/"><img src="/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/sett.png" alt="van der Watt Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/van-der-watt/">van der Watt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/van-der-watt/"><img src="/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/sett.png" alt="van der Watt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

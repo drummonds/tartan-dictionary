@@ -12,10 +12,10 @@ crumbs:
 - name: "Ayrshire"
   url: "/tartans/a/ay/ayrshire-2/"
 - name: "Ayrshire (International Tartans)"
-  url: "/setts/dp11db2lb4db21k16g19y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp11db2lb4db21k16g19y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ay/ayrshire-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBKGG](/stripes/bbwbkgg/).
 
 Part of the [Ayrshire](/tartans/a/ay/ayrshire-2/) tartan — the named design grouping this sett with its other cloths.

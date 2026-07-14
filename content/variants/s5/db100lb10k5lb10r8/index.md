@@ -8,10 +8,10 @@ crumbs:
 - name: "Waugh"
   url: "/tartans/w/wa/waugh/"
 - name: "Waugh"
-  url: "/setts/db100lb10k5lb10r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db100lb10k5lb10r8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/waugh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWR](/stripes/bwkwr/).
 
 Part of the [Waugh](/tartans/w/wa/waugh/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10028](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>08/05/2009 — Waugh (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10028">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#65909A;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #65909A"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B22222;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #B22222"></span><br><em>The Waugh family wished to design and register a Waugh tartan to link the family to their Scottish and Gaelic heritage. The colours have been chosen from the palette available at http://www.visibone.com/colorlab/</em></li>
-<li>May 2009 — Waugh (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10028">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#7098B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #7098B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#980000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #980000"></span><br><em>With no known 'Waugh' tartan in being, the designer has created one for use by all those of the name, either by birth, marriage, extended family or association (pipe band, cultural society etc). Ordered through Houston Kilts of Paisley.</em></li>
+<li>May 2009 — Waugh (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10028/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#7098B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #7098B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#980000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #980000"></span><br><em>With no known 'Waugh' tartan in being, the designer has created one for use by all those of the name, either by birth, marriage, extended family or association (pipe band, cultural society etc). Ordered through Houston Kilts of Paisley.</em></li>
 </ul>
 </details>
 

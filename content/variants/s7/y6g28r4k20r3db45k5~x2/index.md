@@ -8,10 +8,10 @@ crumbs:
 - name: "Nery"
   url: "/tartans/n/ne/nery/"
 - name: "Nery"
-  url: "/setts/y6g28r4k20r3db45k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y6g28r4k20r3db45k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/nery/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRKRBK](/stripes/ggrkrbk/).
 
 Part of the [Nery](/tartans/n/ne/nery/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3107](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Nery (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3107">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>An alternative threadcount recorded by the Tartan Education and Cultural Association (TECA) replaces the black overcheck with white.</em></li>
-<li>pre 2002 — Nery (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4109">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>TECA count replaces black overcheck with white. Assumed to be for all of the name.</em></li>
+<li>pre 2002 — Nery (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4109/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>TECA count replaces black overcheck with white. Assumed to be for all of the name.</em></li>
 </ul>
 </details>
 

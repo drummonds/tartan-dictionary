@@ -12,10 +12,10 @@ crumbs:
 - name: "Tennant"
   url: "/tartans/t/te/tennant/"
 - name: "Tennant"
-  url: "/setts/r1do7db7k7g7do7r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1do7db7k7g7do7r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/te/tennant/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBKGBR](/stripes/rbbkgbr/).
 
 Part of the [Tennant](/tartans/t/te/tennant/) tartan — the named design grouping this sett with its other cloths.

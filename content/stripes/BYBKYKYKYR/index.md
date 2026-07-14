@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/">Motherwell F.C. Fir Park Dress (Spor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><img src="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/sett.png" alt="Motherwell F.C. Fir Park Dress (Spor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/motherwell-f-c-fir-park-dress-spor/">Motherwell F.C. Fir Park Dress (Spor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/motherwell-f-c-fir-park-dress-spor/"><img src="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/sett.png" alt="Motherwell F.C. Fir Park Dress (Spor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

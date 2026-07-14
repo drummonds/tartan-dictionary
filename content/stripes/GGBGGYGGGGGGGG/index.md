@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/y3dy3dg2dy6g7dg2y3dg2ly3dg5y3b3y20dy2~x2~ly2705081/">Stewart Camel (Lochcarron)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/y3dy3dg2dy6g7dg2y3dg2ly3dg5y3b3y20dy2~x2~ly2705081/"><img src="/variants/s14/y3dy3dg2dy6g7dg2y3dg2ly3dg5y3b3y20dy2~x2~ly2705081/sett.png" alt="Stewart Camel (Lochcarron) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-camel/">Stewart Camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-camel/"><img src="/variants/s14/y3dy3dg2dy6g7dg2y3dg2ly3dg5y3b3y20dy2~x2~ly2705081/sett.png" alt="Stewart Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

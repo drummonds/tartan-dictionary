@@ -12,10 +12,10 @@ crumbs:
 - name: "Scrymgeour"
   url: "/tartans/s/sc/scrymgeour-2/"
 - name: "Scrymgeour"
-  url: "/setts/r46k3y6db8r6k3y46/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r46k3y6db8r6k3y46/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scrymgeour-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRBGKR](/stripes/gkrbgkr/).
 
 Part of the [Scrymgeour](/tartans/s/sc/scrymgeour-2/) tartan — the named design grouping this sett with its other cloths.

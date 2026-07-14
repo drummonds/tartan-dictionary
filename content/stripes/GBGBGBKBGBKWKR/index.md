@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/">Wupper Pipes &amp; Drums (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/"><img src="/variants/s14/o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/sett.png" alt="Wupper Pipes &amp; Drums (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wu/wupper-pipes-drums/">Wupper Pipes &amp; Drums</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wu/wupper-pipes-drums/"><img src="/variants/s14/o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/sett.png" alt="Wupper Pipes &amp; Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

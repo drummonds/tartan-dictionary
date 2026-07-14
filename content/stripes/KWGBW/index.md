@@ -28,26 +28,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k7lt3dg18db18w2~x2/">Bhatti</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k7lt3dg18db18w2~x2/"><img src="/variants/s5/k7lt3dg18db18w2~x2/sett.png" alt="Bhatti sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k7lb3g18db18w2~x2/">Bhatti (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k7lb3g18db18w2~x2/"><img src="/variants/s5/k7lb3g18db18w2~x2/sett.png" alt="Bhatti (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k2lb2g8db8w1/">Douglas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k2lb2g8db8w1/"><img src="/variants/s5/k2lb2g8db8w1/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k1lb1g8db8w1~x4/">Douglas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k1lb1g8db8w1~x4/"><img src="/variants/s5/k1lb1g8db8w1~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k2w2g8db8w1/">Douglas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k2w2g8db8w1/"><img src="/variants/s5/k2w2g8db8w1/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k4w2g8db8w1/">Douglas Green</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k4w2g8db8w1/"><img src="/variants/s5/k4w2g8db8w1/sett.png" alt="Douglas Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k4lb2g8db8w1/">Dougles Green</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k4lb2g8db8w1/"><img src="/variants/s5/k4lb2g8db8w1/sett.png" alt="Dougles Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bh/bhatti/">Bhatti</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bh/bhatti/"><img src="/variants/s5/k7lt3dg18db18w2~x2/sett.png" alt="Bhatti sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/douglas/">Douglas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas/"><img src="/variants/s5/k2w2g8db8w1/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dougles/">Dougles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dougles/"><img src="/variants/s5/k4lb2g8db8w1/sett.png" alt="Dougles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k7lb3dy30db30w3~x2/">Douglas, (Brown)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k7lb3dy30db30w3~x2/"><img src="/variants/s5/k7lb3dy30db30w3~x2/sett.png" alt="Douglas, (Brown) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k4lb3g13dp12w2~x2/">Wilson's No 148</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k4lb3g13dp12w2~x2/"><img src="/variants/s5/k4lb3g13dp12w2~x2/sett.png" alt="Wilson's No 148 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-148/">Wilson's No 148</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-148/"><img src="/variants/s5/k4lb3g13dp12w2~x2/sett.png" alt="Wilson's No 148 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

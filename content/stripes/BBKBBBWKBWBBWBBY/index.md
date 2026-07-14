@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2~x2/">Midnight Sunrise</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2~x2/"><img src="/variants/s16/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2~x2/sett.png" alt="Midnight Sunrise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/midnight-sunrise/">Midnight Sunrise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/midnight-sunrise/"><img src="/variants/s16/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2~x2/sett.png" alt="Midnight Sunrise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

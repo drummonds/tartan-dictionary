@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan MacMillan"
   url: "/clan/macmillan/"
+aliases:
+- "/setts/ly10k2g3k2g40k2g3dr25g6ly10k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kygbgkgkgky/">KYGBGKGKGKY</a></nav>
 A tartan of [Clan MacMillan](/clan/macmillan/).
 Its design is pattern [KYGBGKGKGKY](/stripes/kygbgkgkgky/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **MacMillan Anc** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly10k2g3k2g40k2g3dr25g6ly10k1/">MacMillan Anc</a></td><td><code>LY/20 K4 G6 K4 G80 K4 G6 DR50 G12 LY20 K/2</code></td><td>394</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly10k2g3k2g40k2g3dr25g6ly10k1/"><img src="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/sett.png" alt="MacMillan Anc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/">MacMillan Anc</a></td><td><code>LY/20 K4 G6 K4 G80 K4 G6 DR50 G12 LY20 K/2</code></td><td>394</td><td>1880</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/"><img src="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/sett.png" alt="MacMillan Anc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/"><circle cx="252.5" cy="137.7" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/"><circle cx="229.5" cy="73.0" r="4" fill="#3465a4"><title>Lomond</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="284.9" cy="93.5" r="4" fill="#3465a4"><title>Gray Hunting</title></circle></a><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="244.5" cy="102.6" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang</title></circle></a><a href="/variants/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="294.4" cy="135.8" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><circle cx="256.5" cy="108.8" r="4" fill="#3465a4"><title>Keirnan</title></circle></a><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><circle cx="297.1" cy="129.4" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="230.4" cy="89.7" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/variants/s9/g32w1k3w1gi14g7k3dp3w1~x2~g1903114-gi2408144/"><circle cx="337.5" cy="99.7" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/variants/s10/r6g2w21g2y2k8y2g32w1k3~x2/"><circle cx="201.0" cy="86.3" r="4" fill="#3465a4"><title>Fiander, Julian</title></circle></a><circle cx="278.3" cy="97.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/"><circle cx="253.0" cy="137.7" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/"><circle cx="230.2" cy="72.8" r="4" fill="#3465a4"><title>Lomond</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="285.7" cy="93.5" r="4" fill="#3465a4"><title>Gray Hunting</title></circle></a><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="245.3" cy="102.5" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang</title></circle></a><a href="/variants/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="295.1" cy="135.8" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><circle cx="257.3" cy="108.8" r="4" fill="#3465a4"><title>Keirnan</title></circle></a><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><circle cx="297.9" cy="129.5" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="231.1" cy="89.5" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/variants/s9/g32w1k3w1gi14g7k3dp3w1~x2~g1903114-gi2408144/"><circle cx="338.4" cy="99.8" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/variants/s10/r6g2w21g2y2k8y2g32w1k3~x2/"><circle cx="201.6" cy="86.1" r="4" fill="#3465a4"><title>Fiander, Julian</title></circle></a><circle cx="279.0" cy="97.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

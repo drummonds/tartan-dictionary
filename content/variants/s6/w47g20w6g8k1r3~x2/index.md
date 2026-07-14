@@ -12,10 +12,10 @@ crumbs:
 - name: "MacGregor Dress"
   url: "/tartans/m/ma/macgregor-dress/"
 - name: "MacGregor Dress Green Clan Tartan"
-  url: "/setts/w47g20w6g8k1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w47g20w6g8k1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGWGW](/stripes/rkgwgw/).
 
 Part of the [MacGregor Dress](/tartans/m/ma/macgregor-dress/) tartan — the named design grouping this sett with its other cloths.

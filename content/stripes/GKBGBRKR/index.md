@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/">Sandberg of Greenock (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><img src="/variants/s8/y3k12db1g5db12r1k2r1~x4/sett.png" alt="Sandberg of Greenock (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sandberg-of-greenock/">Sandberg of Greenock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sandberg-of-greenock/"><img src="/variants/s8/y3k12db1g5db12r1k2r1~x4/sett.png" alt="Sandberg of Greenock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

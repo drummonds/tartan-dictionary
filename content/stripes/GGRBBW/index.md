@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w2dp2db25r3y3g1~x4/">Pool, Robert David (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><img src="/variants/s6/w2dp2db25r3y3g1~x4/sett.png" alt="Pool, Robert David (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/pool-robert-david/">Pool, Robert David</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/pool-robert-david/"><img src="/variants/s6/w2dp2db25r3y3g1~x4/sett.png" alt="Pool, Robert David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

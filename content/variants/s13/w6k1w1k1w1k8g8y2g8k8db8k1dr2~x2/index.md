@@ -12,10 +12,10 @@ crumbs:
 - name: "Farquharson Dress"
   url: "/tartans/f/fa/farquharson-dress/"
 - name: "Farquharson Dress"
-  url: "/setts/w6k1w1k1w1k8g8y2g8k8db8k1dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w6k1w1k1w1k8g8y2g8k8db8k1dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fa/farquharson-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGGGKWKWKW](/stripes/bkbkgggkwkwkw/).
 
 Part of the [Farquharson Dress](/tartans/f/fa/farquharson-dress/) tartan — the named design grouping this sett with its other cloths.

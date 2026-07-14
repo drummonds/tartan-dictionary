@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r6w3n6lb10r38w2n4/">Washington State University Cougar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r6w3n6lb10r38w2n4/"><img src="/variants/s7/r6w3n6lb10r38w2n4/sett.png" alt="Washington State University Cougar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/washington-state-university-cougar/">Washington State University Cougar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/washington-state-university-cougar/"><img src="/variants/s7/r6w3n6lb10r38w2n4/sett.png" alt="Washington State University Cougar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

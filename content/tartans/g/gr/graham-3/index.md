@@ -8,17 +8,20 @@ crumbs:
   url: "/clan/graham/"
 - name: "Graham"
   url: "/families/graham/"
+aliases:
+- "/setts/g12k4g1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkg/">GKG</a></nav>
 A tartan of the [Graham](/families/graham/) family.
-Its design is pattern [GKGK](/stripes/gkgk/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [GKG](/stripes/gkg/) — the page of every tartan sharing this colour sequence.
 
 The **Graham** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g12k4g1/">Graham</a></td><td><code>G/24 K8 G2 K/8</code></td><td>42</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g12k4g1/"><img src="/variants/s3/g12k4g1~x2/sett.png" alt="Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/g12k4g1~x2/">Graham</a></td><td><code>G/24 K8 G/2</code></td><td>42</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/g12k4g1~x2/"><img src="/variants/s3/g12k4g1~x2/sett.png" alt="Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/g30k20g3~x2/"><circle cx="344.4" cy="252.4" r="4" fill="#3465a4"><title>Scotch Tape</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="348.0" cy="254.9" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s4/g22k3g25k4~x2/"><circle cx="524.9" cy="242.1" r="4" fill="#3465a4"><title>Campbell Simpson</title></circle></a><a href="/variants/s4/g4k5g4ly1~x2/"><circle cx="236.5" cy="282.6" r="4" fill="#3465a4"><title>Wilson's No.118</title></circle></a><a href="/variants/s5/g50k6b11g25ly4~x2/"><circle cx="454.8" cy="200.6" r="4" fill="#3465a4"><title>Glen of Daviot</title></circle></a><a href="/variants/s4/g14k80g14y5~x2/"><circle cx="413.4" cy="164.4" r="4" fill="#3465a4"><title>Westgate</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="606.7" cy="197.0" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s3/g12dp3g1~x2/"><circle cx="590.3" cy="276.7" r="4" fill="#3465a4"><title>Elphinstone</title></circle></a><a href="/variants/s3/g12db3g1~x2/"><circle cx="595.5" cy="281.9" r="4" fill="#3465a4"><title>Montgomerie</title></circle></a><a href="/variants/s3/g30w2dr5~x4/"><circle cx="576.7" cy="250.4" r="4" fill="#3465a4"><title>S3</title></circle></a><circle cx="451.5" cy="228.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/g30k20g3~x2/"><circle cx="345.3" cy="252.7" r="4" fill="#3465a4"><title>Scotch Tape</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="348.8" cy="255.2" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s4/g22k3g25k4~x2/"><circle cx="526.1" cy="242.8" r="4" fill="#3465a4"><title>Campbell Simpson</title></circle></a><a href="/variants/s4/g4k5g4ly1~x2/"><circle cx="236.9" cy="282.8" r="4" fill="#3465a4"><title>Wilson's No.118</title></circle></a><a href="/variants/s5/g50k6b11g25ly4~x2/"><circle cx="455.8" cy="201.0" r="4" fill="#3465a4"><title>Glen of Daviot</title></circle></a><a href="/variants/s4/g14k80g14y5~x2/"><circle cx="414.6" cy="164.8" r="4" fill="#3465a4"><title>Westgate</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="608.1" cy="197.7" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s3/g12dp3g1~x2/"><circle cx="591.3" cy="277.4" r="4" fill="#3465a4"><title>Elphinstone</title></circle></a><a href="/variants/s3/g12db3g1~x2/"><circle cx="596.5" cy="282.6" r="4" fill="#3465a4"><title>Montgomerie</title></circle></a><a href="/variants/s3/g30w2dr5~x4/"><circle cx="577.7" cy="251.0" r="4" fill="#3465a4"><title>S3</title></circle></a><circle cx="452.6" cy="228.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

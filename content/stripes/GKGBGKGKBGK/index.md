@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/">Priest</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/"><img src="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/sett.png" alt="Priest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/priest-2/">Priest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/priest-2/"><img src="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/sett.png" alt="Priest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

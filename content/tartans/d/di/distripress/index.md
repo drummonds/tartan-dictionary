@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r6k1w4k4n15r1k35o2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkrbkwkr/">RKRBKWKR</a></nav>
 Its design is pattern [RKRBKWKR](/stripes/rkrbkwkr/) — the page of every tartan sharing this colour sequence.
 
 The **Distripress** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Distripress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r6k1w4k4n15r1k35o2/">Distripress</a></td><td><code>R/12 K2 W8 K8 N30 R2 K70 O/4</code></td><td>256</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6k1w4k4n15r1k35o2/"><img src="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/sett.png" alt="Distripress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/">Distripress</a></td><td><code>R/12 K2 W8 K8 N30 R2 K70 O/4</code></td><td>256</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><img src="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/sett.png" alt="Distripress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db12w1db2k3r15k1y2k39r2~x2/"><circle cx="296.7" cy="56.2" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes</title></circle></a><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><circle cx="319.1" cy="68.6" r="4" fill="#3465a4"><title>MacEvil</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="275.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="344.4" cy="93.3" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s7/k60w2r10dg6w4r15y10~x2/"><circle cx="276.3" cy="83.0" r="4" fill="#3465a4"><title>Iberia Dress</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="259.8" cy="96.6" r="4" fill="#3465a4"><title>Royal College of G.P.s</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="290.8" cy="90.6" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="308.7" cy="71.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="356.3" cy="35.8" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/"><circle cx="198.6" cy="90.9" r="4" fill="#3465a4"><title>Letter Dress</title></circle></a><circle cx="294.8" cy="67.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db12w1db2k3r15k1y2k39r2~x2/"><circle cx="297.8" cy="56.2" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes</title></circle></a><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><circle cx="320.2" cy="68.7" r="4" fill="#3465a4"><title>MacEvil</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="276.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="345.6" cy="93.4" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s7/k60w2r10dg6w4r15y10~x2/"><circle cx="277.3" cy="83.0" r="4" fill="#3465a4"><title>Iberia Dress</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="260.6" cy="96.5" r="4" fill="#3465a4"><title>Royal College of G.P.s</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="291.8" cy="90.6" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="309.9" cy="71.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="357.6" cy="35.9" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/"><circle cx="199.3" cy="90.7" r="4" fill="#3465a4"><title>Letter Dress</title></circle></a><circle cx="295.9" cy="67.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

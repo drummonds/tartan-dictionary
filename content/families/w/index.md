@@ -3,7 +3,7 @@ title: "Families & clans — W"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-76 clans and families beginning with W. [Back to the A–Z](/families/).
+75 clans and families beginning with W. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/families/wacker/"><img src="/variants/s11/dbi6k3dbi3db13g13k1g13db13w1dbi3k3~x2~dbi1406275-db1404245/sett.png" alt="Wacker" width="140"><br><strong>Wacker</strong></a></li>
@@ -13,7 +13,6 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/waipu/"><img src="/variants/s22/g8db16k5y2dp1y2k5db7r2db7g16db7r2db7k5y2dp1y2k5db16g8w1~x2/sett.png" alt="Waipu" width="140"><br><strong>Waipu</strong></a></li>
 <li><a class="tartan" href="/families/walker/"><img src="/variants/s12/dy4db2r7db15r4db3r4db7r28dg7r6dg2/sett.png" alt="Walker" width="140"><br><strong>Walker</strong></a></li>
 <li><a class="tartan" href="/families/wallace/"><img src="/variants/s4/k1r8k8y1/sett.png" alt="Wallace" width="140"><br><strong>Wallace</strong></a></li>
-<li><a class="tartan" href="/families/walter/"><img src="/variants/s7/r24w3y4dg18dp18g3lb4~x2/sett.png" alt="Walter" width="140"><br><strong>Walter</strong></a></li>
 <li><a class="tartan" href="/families/walters/"><img src="/variants/s4/dg2dp2dg24g1~x4~dg1806142-g2408144/sett.png" alt="Walters" width="140"><br><strong>Walters</strong></a></li>
 <li><a class="tartan" href="/variants/s8/g78db13y6r3y5g6db9y6~x2/"><strong>Walterström</strong></a></li>
 <li><a class="tartan" href="/variants/s5/db2k2g2db1k1~x20/"><strong>Wandering Shepherd</strong></a></li>

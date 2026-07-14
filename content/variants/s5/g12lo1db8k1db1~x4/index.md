@@ -12,10 +12,10 @@ crumbs:
 - name: "Rowan"
   url: "/tartans/r/ro/rowan-2/"
 - name: "Rowan (Personal)"
-  url: "/setts/g12lo1db8k1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12lo1db8k1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/rowan-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBYG](/stripes/bkbyg/).
 
 Part of the [Rowan](/tartans/r/ro/rowan-2/) tartan — the named design grouping this sett with its other cloths.

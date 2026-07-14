@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/">Scottish Association for N.S. (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><img src="/variants/s9/db46y4db4y4db6k16n66w11r6/sett.png" alt="Scottish Association for N.S. (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db46y4db4y4db6k16n66lb11r6/">Scottish Association for Neurological Sciences</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db46y4db4y4db6k16n66lb11r6/"><img src="/variants/s9/db46y4db4y4db6k16n66lb11r6/sett.png" alt="Scottish Association for Neurological Sciences sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-association-for-n-s/">Scottish Association for N.S.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-association-for-n-s/"><img src="/variants/s9/db46y4db4y4db6k16n66w11r6/sett.png" alt="Scottish Association for N.S. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-association-for-neurological-sciences/">Scottish Association for Neurological Sciences</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-association-for-neurological-sciences/"><img src="/variants/s9/db46y4db4y4db6k16n66lb11r6/sett.png" alt="Scottish Association for Neurological Sciences sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

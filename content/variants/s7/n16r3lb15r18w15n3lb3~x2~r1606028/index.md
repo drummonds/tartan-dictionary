@@ -10,15 +10,15 @@ crumbs:
 - name: "Glasgow Fancy"
   url: "/tartans/g/gl/glasgow-fancy/"
 - name: "Glasgow Fancy Tartan"
-  url: "/setts/n16r3lb15r18w15n3lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n16r3lb15r18w15n3lb3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWRWRBRWRWBW](/stripes/bwrwrbrwrwbw/).
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glasgow-fancy/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRWRWBW](/stripes/brwrwbw/).
 
 Part of the [Glasgow Fancy](/tartans/g/gl/glasgow-fancy/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4993](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4993)
 
@@ -43,9 +43,11 @@ Earliest known date: 1984 From Dalgliesh Dancers Fancies swatch book. Sample in 
 </details>
 
 ## Thread count
-LB/6 N6 W30 R36 LB30 R6 N32 R6 LB30 R36 W30 N/6
+N/32 R6 LB30 R36 W30 N6 LB/6
 
-One full sett is **496 threads**.
+One full sett is **254 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/6 N6 W30 R36 LB30 R6 N32 R6 LB30 R36 W30 N/6 — 496 threads; it folds to the canonical 254-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **496 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/6 N6 W30 R36 LB30 R6 N32 R6 LB30 R36 W30 N/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/32 R6 LB30 R36 W30 N6 LB/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

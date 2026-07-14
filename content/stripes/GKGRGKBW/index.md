@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/">Dunfermline Bank of Scotland (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><img src="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/sett.png" alt="Dunfermline Bank of Scotland (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g24k4g6r4g6k19db22w5~x2/">MacRae, Ancient hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g24k4g6r4g6k19db22w5~x2/"><img src="/variants/s8/g24k4g6r4g6k19db22w5~x2/sett.png" alt="MacRae, Ancient hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunfermline-bank-of-scotland/">Dunfermline Bank of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunfermline-bank-of-scotland/"><img src="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/sett.png" alt="Dunfermline Bank of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/">MacRae Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/"><img src="/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/sett.png" alt="MacRae Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macrae-hunting/">MacRae Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrae-hunting/"><img src="/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/sett.png" alt="MacRae Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

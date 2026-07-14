@@ -8,15 +8,15 @@ crumbs:
 - name: "St John's"
   url: "/tartans/s/st/st-john-s/"
 - name: "St John's"
-  url: "/setts/w2db1w15lb12w1dy3db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2db1w15lb12w1dy3db1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWWWGBGWWWBW](/stripes/bwwwgbgwwwbw/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-john-s/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGWWWBW](/stripes/bgwwwbw/).
 
 Part of the [St John's](/tartans/s/st/st-john-s/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3894](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3894)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3894](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/2003 — St John's (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3894">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Designed by Robert W Norcross of Clarksburg, Massachusetts and woven by him in cotton for use in his local church vestments.</em></li>
-<li>Feb 2003 — St. John's (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5787">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Designed by Robert W Norcross of Clarksburg, Maine and woven by him in cotton for use in his local church vestments. Count checked against woven sample in STA Collection.</em></li>
+<li>Feb 2003 — St. John's (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5787/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Designed by Robert W Norcross of Clarksburg, Maine and woven by him in cotton for use in his local church vestments. Count checked against woven sample in STA Collection.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5787
 
 ## Thread count
-W/12 DB6 W90 LB72 W6 DY18 DB6 DY18 W6 LB72 W90 DB/6
+W/12 DB6 W90 LB72 W6 DY18 DB/6
 
-One full sett is **786 threads**.
+One full sett is **402 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/12 DB6 W90 LB72 W6 DY18 DB6 DY18 W6 LB72 W90 DB/6 — 786 threads; it folds to the canonical 402-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **786 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/12 DB6 W90 LB72 W6 DY18 DB6 DY18 W6 LB72 W90 DB/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/12 DB6 W90 LB72 W6 DY18 DB/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

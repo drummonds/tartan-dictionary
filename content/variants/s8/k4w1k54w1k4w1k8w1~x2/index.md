@@ -12,15 +12,15 @@ crumbs:
 - name: "YMCA"
   url: "/tartans/y/ym/ymca/"
 - name: "YMCA Corporate Tartan"
-  url: "/setts/k4w1k54w1k4w1k8w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4w1k54w1k4w1k8w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/ym/ymca/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKKKKWKWKW](/stripes/kwkkkkwkwkw/).
 
 Part of the [YMCA](/tartans/y/ym/ymca/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10999](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10999)
 

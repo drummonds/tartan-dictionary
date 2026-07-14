@@ -8,10 +8,10 @@ crumbs:
 - name: "Herbage of Laggan"
   url: "/tartans/h/he/herbage-of-laggan/"
 - name: "Herbage of Laggan (Personal)"
-  url: "/setts/g68k22n28dr3n12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g68k22n28dr3n12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/herbage-of-laggan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKG](/stripes/bbbkg/).
 
 Part of the [Herbage of Laggan](/tartans/h/he/herbage-of-laggan/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1690](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1985 — Herbage of Laggan (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1690">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>A personal tartan for Herbage of Laggan, a millionaire greengrocer who bought the Laggan estates in early 1980's. Herbage later went bankrupt and sold Laggan. Sample in Scottish Tartans Authority Johnston Collection.</em></li>
-<li>pre 1985 — Herbage of Laggan (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=811">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>A personal tartan for Herbage of Laggan, A millionaire greengrocer who bought the Laggan estates in early 1980's. Herbage later went bankrupt and sold Laggan. Sample in STA's Johnston Collection. Sindex notes say "Tartan Society design for . . "</em></li>
+<li>pre 1985 — Herbage of Laggan (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/811/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>A personal tartan for Herbage of Laggan, A millionaire greengrocer who bought the Laggan estates in early 1980's. Herbage later went bankrupt and sold Laggan. Sample in STA's Johnston Collection. Sindex notes say "Tartan Society design for . . "</em></li>
 </ul>
 </details>
 

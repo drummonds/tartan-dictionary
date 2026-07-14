@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db12lb1dr3lb1dr3lb1db6~x4/">BC Corps of Commissionaires</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db12lb1dr3lb1dr3lb1db6~x4/"><img src="/variants/s7/db12lb1dr3lb1dr3lb1db6~x4/sett.png" alt="BC Corps of Commissionaires sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bc/bc-corps-of-commissionaires/">BC Corps of Commissionaires</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bc/bc-corps-of-commissionaires/"><img src="/variants/s7/db12lb1dr3lb1dr3lb1db6~x4/sett.png" alt="BC Corps of Commissionaires sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/b13w13b30w13b11w2b8~x2/">Jubilation Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/b13w13b30w13b11w2b8~x2/"><img src="/variants/s7/b13w13b30w13b11w2b8~x2/sett.png" alt="Jubilation Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/jubilation/">Jubilation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/jubilation/"><img src="/variants/s7/b13w13b30w13b11w2b8~x2/sett.png" alt="Jubilation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/">Keela (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><img src="/variants/s7/db7w3db2w6db16lb26dr4~x2/sett.png" alt="Keela (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/keela/">Keela</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/keela/"><img src="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/sett.png" alt="Keela sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

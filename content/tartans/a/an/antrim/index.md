@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g5k2g17y2k5y2b5k17g2y4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggkbgkggkg/">GGKBGKGGKG</a></nav>
 Its design is pattern [GGKBGKGGKG](/stripes/ggkbgkggkg/) — the page of every tartan sharing this colour sequence.
 
 The **Antrim** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Antrim** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g5k2g17y2k5y2b5k17g2y4/">Antrim</a></td><td><code>G/10 K4 G34 Y4 K10 Y4 B10 K34 G4 Y/8</code></td><td>226</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g5k2g17y2k5y2b5k17g2y4/"><img src="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/sett.png" alt="Antrim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/">Antrim</a></td><td><code>G/10 K4 G34 Y4 K10 Y4 B10 K34 G4 Y/8</code></td><td>226</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/"><img src="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/sett.png" alt="Antrim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="181.2" cy="157.1" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/"><circle cx="141.8" cy="176.5" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><a href="/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/"><circle cx="146.0" cy="145.8" r="4" fill="#3465a4"><title>Choinka</title></circle></a><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><circle cx="172.0" cy="158.3" r="4" fill="#3465a4"><title>Princess Louise</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="207.3" cy="166.3" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/"><circle cx="146.6" cy="175.0" r="4" fill="#3465a4"><title>74th Regiment of Foot</title></circle></a><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="159.1" cy="168.9" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/"><circle cx="179.1" cy="153.4" r="4" fill="#3465a4"><title>MacWilliams Wedding</title></circle></a><a href="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/"><circle cx="150.3" cy="150.1" r="4" fill="#3465a4"><title>Princess Louise</title></circle></a><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/"><circle cx="211.9" cy="158.2" r="4" fill="#3465a4"><title>Brunton</title></circle></a><circle cx="163.9" cy="171.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="181.7" cy="157.0" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/"><circle cx="142.2" cy="176.3" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><a href="/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/"><circle cx="146.4" cy="145.7" r="4" fill="#3465a4"><title>Choinka</title></circle></a><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><circle cx="172.5" cy="158.2" r="4" fill="#3465a4"><title>Princess Louise</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="207.8" cy="166.2" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/"><circle cx="147.0" cy="174.8" r="4" fill="#3465a4"><title>74th Regiment of Foot</title></circle></a><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="159.5" cy="168.8" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/"><circle cx="179.6" cy="153.3" r="4" fill="#3465a4"><title>MacWilliams Wedding</title></circle></a><a href="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/"><circle cx="150.6" cy="149.9" r="4" fill="#3465a4"><title>Princess Louise</title></circle></a><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/"><circle cx="212.6" cy="158.2" r="4" fill="#3465a4"><title>Brunton</title></circle></a><circle cx="164.3" cy="171.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k49dr1o4db5g5ly5~x2/">CREATeGlasgow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><img src="/variants/s6/k49dr1o4db5g5ly5~x2/sett.png" alt="CREATeGlasgow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/createglasgow/">CREATeGlasgow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/createglasgow/"><img src="/variants/s6/k49dr1o4db5g5ly5~x2/sett.png" alt="CREATeGlasgow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

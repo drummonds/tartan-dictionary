@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Sullivan McCragh"
-  url: "/tartans/o/o/o-sullivan-mccragh/"
+  url: "/tartans/o/o/o-sullivan-mccragh-2/"
 - name: "O'Sullivan McCragh (Personal)"
-  url: "/setts/g16r2g4ly2g4r2g16db2g3db2g3db10w2n12k2n5k2n12w2db10g3db2g3db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16r2g4ly2g4r2g16db2g3db2g3db10w2n12k2n5k2n12w2db10g3db2g3db2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGYGRGBGBGBWBKBKBWBGBGBGBGBWBKBKBWBGBGBGRGYGR](/stripes/grgygrgbgbgbwbkbkbwbgbgbgbgbwbkbkbwbgbgbgrgygr/).
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-sullivan-mccragh-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBWBKBKBWBGBGBGRGYGRG](/stripes/bgbgbwbkbkbwbgbgbgrgygrg/).
 
-Part of the [O'Sullivan McCragh](/tartans/o/o/o-sullivan-mccragh/) tartan — the named design grouping this sett with its other cloths.
+Part of the [O'Sullivan McCragh](/tartans/o/o/o-sullivan-mccragh-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [46 stripe tartan](/stripes/stripes46/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3273](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3273)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3273](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>undated — O'Sullivan McCragh (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3273">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>O'Sullivan McCragh was designed by Chris Aitken for Geoffrey (Tailor) Highland Crafts Ltd. in June 1994. See also Sulivan at 3310.</em></li>
-<li>Unknown — O'Sullivan McCragh (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2169">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>O'Sullivan McCragh was designed by Chris Aitken for Geoffrey (Tailor) Highland Crafts Ltd. in June 1994. See also Sulivan at 3310.</em></li>
+<li>Unknown — O'Sullivan McCragh (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2169/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>O'Sullivan McCragh was designed by Chris Aitken for Geoffrey (Tailor) Highland Crafts Ltd. in June 1994. See also Sulivan at 3310.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2169
 
 ## Thread count
-G/32 R4 G8 LY4 G8 R4 G32 DB4 G6 DB4 G6 DB20 W4 N24 K4 N10 K4 N24 W4 DB20 G6 DB4 G6 DB4 G6 DB4 G6 DB20 W4 N24 K4 N10 K4 N24 W4 DB20 G6 DB4 G6 DB4 G32 R4 G8 LY4 G8 R/4
+G/32 R4 G8 LY4 G8 R4 G32 DB4 G6 DB4 G6 DB20 W4 N24 K4 N10 K4 N24 W4 DB20 G6 DB4 G6 DB/4
 
-One full sett is **876 threads**.
+One full sett is **456 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/32 R4 G8 LY4 G8 R4 G32 DB4 G6 DB4 G6 DB20 W4 N24 K4 N10 K4 N24 W4 DB20 G6 DB4 G6 DB4 G6 DB4 G6 DB20 W4 N24 K4 N10 K4 N24 W4 DB20 G6 DB4 G6 DB4 G32 R4 G8 LY4 G8 R/4 — 876 threads; it folds to the canonical 456-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **876 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/32 R4 G8 LY4 G8 R4 G32 DB4 G6 DB4 G6 DB20 W4 N24 K4 N10 K4 N24 W4 DB20 G6 DB4 G6 DB4 G6 DB4 G6 DB20 W4 N24 K4 N10 K4 N24 W4 DB20 G6 DB4 G6 DB4 G32 R4 G8 LY4 G8 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/32 R4 G8 LY4 G8 R4 G32 DB4 G6 DB4 G6 DB20 W4 N24 K4 N10 K4 N24 W4 DB20 G6 DB4 G6 DB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

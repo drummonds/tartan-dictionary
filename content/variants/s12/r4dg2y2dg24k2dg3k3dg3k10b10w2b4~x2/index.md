@@ -8,10 +8,10 @@ crumbs:
 - name: "Kerby, from the Tennessee Cumberland Basin"
   url: "/tartans/k/ke/kerby-from-the-tennessee-cumberland-basin/"
 - name: "Kerby, from the Tennessee Cumberland Basin"
-  url: "/setts/r4dg2y2dg24k2dg3k3dg3k10b10w2b4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4dg2y2dg24k2dg3k3dg3k10b10w2b4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kerby-from-the-tennessee-cumberland-basin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGKGKGGGR](/stripes/bwbkgkgkgggr/).
 
 Part of the [Kerby, from the Tennessee Cumberland Basin](/tartans/k/ke/kerby-from-the-tennessee-cumberland-basin/) tartan — the named design grouping this sett with its other cloths.

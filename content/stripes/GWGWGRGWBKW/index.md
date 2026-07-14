@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y4lb1y2lb20y2r8y2lb20db16k1w4~x2/">Congo, The Democratic Republic of the</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y4lb1y2lb20y2r8y2lb20db16k1w4~x2/"><img src="/variants/s11/y4lb1y2lb20y2r8y2lb20db16k1w4~x2/sett.png" alt="Congo, The Democratic Republic of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/congo-the-democratic-republic-of-the/">Congo, The Democratic Republic of the</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/congo-the-democratic-republic-of-the/"><img src="/variants/s11/y4lb1y2lb20y2r8y2lb20db16k1w4~x2/sett.png" alt="Congo, The Democratic Republic of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/">West Point</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><img src="/variants/s8/k13n1k1n1k4n10y1n1~x6/sett.png" alt="West Point sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/">West Point Military Academy (Mil.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><img src="/variants/s8/k10n1k2n1k4n10y1n2~x4/sett.png" alt="West Point Military Academy (Mil.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/west-point/">West Point</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/west-point/"><img src="/variants/s8/k13n1k1n1k4n10y1n1~x6/sett.png" alt="West Point sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/west-point-military-academy/">West Point Military Academy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/west-point-military-academy/"><img src="/variants/s8/k10n1k2n1k4n10y1n2~x4/sett.png" alt="West Point Military Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/k/ke/kelvingrove-2/">Kelvingrove</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kelvingrove-2/"><img src="/variants/s8/k16t1k1t1k1t9g18t1~x4/sett.png" alt="Kelvingrove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

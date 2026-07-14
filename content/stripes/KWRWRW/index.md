@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k2w28r13w2r13w2~x2/">Buchanan #5</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k2w28r13w2r13w2~x2/"><img src="/variants/s6/k2w28r13w2r13w2~x2/sett.png" alt="Buchanan #5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w2r4w2r4w9k1~x2/">Buchanan VS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w2r4w2r4w9k1~x2/"><img src="/variants/s6/w2r4w2r4w9k1~x2/sett.png" alt="Buchanan VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buchanan-4/">Buchanan 4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buchanan-4/"><img src="/variants/s6/k2w28r13w2r13w2~x2/sett.png" alt="Buchanan 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buchanan-vs/">Buchanan VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buchanan-vs/"><img src="/variants/s6/w2r4w2r4w9k1~x2/sett.png" alt="Buchanan VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/k4lb28r6w12r12w3~x2/">Thompson, D.C. (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4lb28r6w12r12w3~x2/"><img src="/variants/s6/k4lb28r6w12r12w3~x2/sett.png" alt="Thompson, D.C. (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thompson-6/">Thompson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thompson-6/"><img src="/variants/s6/k4lb28r6w12r12w3~x2/sett.png" alt="Thompson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

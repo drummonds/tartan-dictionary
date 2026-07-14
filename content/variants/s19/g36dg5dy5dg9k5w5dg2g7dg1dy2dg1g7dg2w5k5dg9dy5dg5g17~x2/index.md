@@ -8,10 +8,10 @@ crumbs:
 - name: "Irish National"
   url: "/tartans/i/ir/irish-national-2/"
 - name: "Irish National District Tartan"
-  url: "/setts/g36dg5dy5dg9k5w5dg2g7dg1dy2dg1g7dg2w5k5dg9dy5dg5g17/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g36dg5dy5dg9k5w5dg2g7dg1dy2dg1g7dg2w5k5dg9dy5dg5g17/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/ir/irish-national-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGKWGGGGGGGWKGGGG](/stripes/ggggkwgggggggwkgggg/).
 
 Part of the [Irish National](/tartans/i/ir/irish-national-2/) tartan — the named design grouping this sett with its other cloths.

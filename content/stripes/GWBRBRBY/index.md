@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lo5db1r2db4r36db22w4y2~x2/">Aberdeen F.C. Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lo5db1r2db4r36db22w4y2~x2/"><img src="/variants/s8/lo5db1r2db4r36db22w4y2~x2/sett.png" alt="Aberdeen F.C. Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberdeen-f-c-2/">Aberdeen F.C.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen-f-c-2/"><img src="/variants/s8/lo5db1r2db4r36db22w4y2~x2/sett.png" alt="Aberdeen F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

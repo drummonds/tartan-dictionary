@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w4lb28db7y2g16lb4~x2/">Allanton (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><img src="/variants/s6/w4lb28db7y2g16lb4~x2/sett.png" alt="Allanton (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/allanton/">Allanton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allanton/"><img src="/variants/s6/w4lb28db7y2g16lb4~x2/sett.png" alt="Allanton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/">Manx Laxey (Blue)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><img src="/variants/s6/w4lb28dp7y2dg16lb4~x2/sett.png" alt="Manx Laxey (Blue) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laxey-manx/">Laxey Manx</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laxey-manx/"><img src="/variants/s6/w4lb28dp7y2dg16lb4~x2/sett.png" alt="Laxey Manx sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

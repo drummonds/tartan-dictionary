@@ -10,10 +10,10 @@ crumbs:
 - name: "MacLean, Donald"
   url: "/tartans/m/ma/maclean-donald/"
 - name: "MacLean, Donald Personal Tartan"
-  url: "/setts/g16lb3g3k10db12dr2k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16lb3g3k10db12dr2k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclean-donald/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKBBK](/stripes/gwgkbbk/).
 
 Part of the [MacLean, Donald](/tartans/m/ma/maclean-donald/) tartan — the named design grouping this sett with its other cloths.

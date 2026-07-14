@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/">Maryland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/"><img src="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/sett.png" alt="Maryland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maryland/">Maryland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maryland/"><img src="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/sett.png" alt="Maryland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "All Irish"
   url: "/tartans/a/al/all-irish-2/"
 - name: "All Irish Blue Irish District Tartan"
-  url: "/setts/n6lb2db2n30g2n2ly2gi4ly2g2ly1g18ly1lb2db2ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n6lb2db2n30g2n2ly2gi4ly2g2ly1g18ly1lb2db2ly4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBBGBYGYGYGYWBYBWYGYGYGYBGBBW](/stripes/bwbbgbygygygywbybwygygygybgbbw/).
+provenance below. It is one weaving of the [sett](/tartans/a/al/all-irish-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBBGBYGYGYGYWBY](/stripes/bwbbgbygygygywby/).
 
 Part of the [All Irish](/tartans/a/al/all-irish-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4066](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4066)
 
@@ -41,9 +41,11 @@ Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to
 </details>
 
 ## Thread count
-N/12 LB4 DB4 N60 G4 N4 LY4 Gi8 LY4 G4 LY2 G36 LY2 LB4 DB4 LY8 DB4 LB4 LY2 G36 LY2 G4 LY4 Gi8 LY4 N4 G4 N60 DB4 LB/4
+N/12 LB4 DB4 N60 G4 N4 LY4 Gi8 LY4 G4 LY2 G36 LY2 LB4 DB4 LY/8
 
-One full sett is **600 threads**.
+One full sett is **308 threads**.
+
+<p class="recorded-note">The source recorded this cloth as N/12 LB4 DB4 N60 G4 N4 LY4 Gi8 LY4 G4 LY2 G36 LY2 LB4 DB4 LY8 DB4 LB4 LY2 G36 LY2 G4 LY4 Gi8 LY4 N4 G4 N60 DB4 LB/4 — 600 threads; it folds to the canonical 308-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **600 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/12 LB4 DB4 N60 G4 N4 LY4 Gi8 LY4 G4 LY2 G36 LY2 LB4 DB4 LY8 DB4 LB4 LY2 G36 LY2 G4 LY4 Gi8 LY4 N4 G4 N60 DB4 LB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/12 LB4 DB4 N60 G4 N4 LY4 Gi8 LY4 G4 LY2 G36 LY2 LB4 DB4 LY/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

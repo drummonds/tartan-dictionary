@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/">Island Weavers (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><img src="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/sett.png" alt="Island Weavers (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/island-weavers/">Island Weavers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/island-weavers/"><img src="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/sett.png" alt="Island Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

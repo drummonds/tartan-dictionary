@@ -8,10 +8,10 @@ crumbs:
 - name: "Salvation Army Hunting"
   url: "/tartans/s/sa/salvation-army-hunting/"
 - name: "Salvation Army Hunting"
-  url: "/setts/dg8k1y2k1dg8db4dg8k1y2k1dg8db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg8k1y2k1dg8db4dg8k1y2k1dg8db5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/salvation-army-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGBGKGKG](/stripes/bgkgkgbgkgkg/).
 
 Part of the [Salvation Army Hunting](/tartans/s/sa/salvation-army-hunting/) tartan — the named design grouping this sett with its other cloths.

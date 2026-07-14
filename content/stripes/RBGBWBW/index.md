@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w6db2w3db2g2db20r1~x2/">Gonzaga University’s True Blue and White</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><img src="/variants/s7/w6db2w3db2g2db20r1~x2/sett.png" alt="Gonzaga University’s True Blue and White sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gonzaga-university-s-true-blue-and-w/">Gonzaga University's True Blue and W</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gonzaga-university-s-true-blue-and-w/"><img src="/variants/s7/w6db2w3db2g2db20r1~x2/sett.png" alt="Gonzaga University's True Blue and W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

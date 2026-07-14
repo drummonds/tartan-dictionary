@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k60dr3k5dr3lb18n3~x2/">Ailsa, Navy (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k60dr3k5dr3lb18n3~x2/"><img src="/variants/s6/k60dr3k5dr3lb18n3~x2/sett.png" alt="Ailsa, Navy (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ai/ailsa-navy-2/">Ailsa, Navy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ai/ailsa-navy-2/"><img src="/variants/s6/k60dr3k5dr3lb18n3~x2/sett.png" alt="Ailsa, Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/n32w4n4k24dp29k4/">Grammar School at Leeds (School)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/n32w4n4k24dp29k4/"><img src="/variants/s6/n32w4n4k24dp29k4/sett.png" alt="Grammar School at Leeds (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grammar-school-at-leeds/">Grammar School at Leeds</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grammar-school-at-leeds/"><img src="/variants/s6/n32w4n4k24dp29k4/sett.png" alt="Grammar School at Leeds sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,15 +12,15 @@ crumbs:
 - name: "Hunter of Peebleshire"
   url: "/tartans/h/hu/hunter-of-peebleshire/"
 - name: "Hunter of Peebleshire"
-  url: "/setts/g8k1g8k8r1db8w1db8r1k8r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8k1g8k8r1db8w1db8r1k8r1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGKRBWBRKRKRBWBRKGK](/stripes/gkgkrbwbrkrkrbwbrkgk/).
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hunter-of-peebleshire/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKRBWBRKR](/stripes/gkgkrbwbrkr/).
 
 Part of the [Hunter of Peebleshire](/tartans/h/hu/hunter-of-peebleshire/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1794](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1794)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1794](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Hunter of Peebleshire (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1794">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Scottish Tartans Society only gives this Hunter and says it is believed to be worn by the Hunters of Peebleshire. From JCT files identified: 'Telfer Dunbar's 'fancy' 197-? ' but no further explanation. According to the late L. Anderson of Galashiels (c.1939), this was worn by the Hunters of Peebleshire, Ayrshire, Angus and Renfrewshire - Sindex. Other notes called it 'Old Hunter' and stated 'Thread count of 'Old Hunter' quoted to Lord Lyon in Sept 1990 by Hunter of Hunterston in the course of saying that it was one that was frequently confused with the newer Clan Hunter submitted in 1985 - #719 (original Scottish Tartans Authority reference).' Duplicated at #5887 (original Scottish Tartans Authority reference).</em></li>
-<li>pre 2002 — Hunter of Peebleshire (Clan?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=789">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Tartans Society only gives this Hunter and says it is believed to be worn by the Hunters of Peebleshire. From JCT files identified: "Telfer Dunbar's 'fancy' 197-? " but no further explanation. According to the late L. Anderson of Galashiels (c.1939), this was worn by the Hunters of Peebleshire, Ayrshire, Angus and Renfrewshire - Sindex. Other notes called it 'Old Hunter' and stated "Thread count of 'Old Hunter' quoted to Lord Lyon in Sept 1990 by Hunter of Hunterston in the course of saying that it was one that was frequently confused with the newer Clan Hunter submitted in 1985 - #719."</em></li>
+<li>pre 2002 — Hunter of Peebleshire (Clan?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/789/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Tartans Society only gives this Hunter and says it is believed to be worn by the Hunters of Peebleshire. From JCT files identified: "Telfer Dunbar's 'fancy' 197-? " but no further explanation. According to the late L. Anderson of Galashiels (c.1939), this was worn by the Hunters of Peebleshire, Ayrshire, Angus and Renfrewshire - Sindex. Other notes called it 'Old Hunter' and stated "Thread count of 'Old Hunter' quoted to Lord Lyon in Sept 1990 by Hunter of Hunterston in the course of saying that it was one that was frequently confused with the newer Clan Hunter submitted in 1985 - #719."</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 789
 
 ## Thread count
-G/32 K4 G32 K32 R4 DB32 W4 DB32 R4 K32 R4 K32 R4 DB32 W4 DB32 R4 K32 G32 K/4
+G/32 K4 G32 K32 R4 DB32 W4 DB32 R4 K32 R/4
 
-One full sett is **740 threads**.
+One full sett is **388 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/32 K4 G32 K32 R4 DB32 W4 DB32 R4 K32 R4 K32 R4 DB32 W4 DB32 R4 K32 G32 K/4 — 740 threads; it folds to the canonical 388-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **740 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/32 K4 G32 K32 R4 DB32 W4 DB32 R4 K32 R4 K32 R4 DB32 W4 DB32 R4 K32 G32 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/32 K4 G32 K32 R4 DB32 W4 DB32 R4 K32 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

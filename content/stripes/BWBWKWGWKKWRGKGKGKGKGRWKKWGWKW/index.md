@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/">Znaimer (Canada)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/"><img src="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/sett.png" alt="Znaimer (Canada) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/z/zn/znaimer/">Znaimer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/z/zn/znaimer/"><img src="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/sett.png" alt="Znaimer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Takashimaya Dm Rose"
   url: "/tartans/t/ta/takashimaya-dm-rose/"
 - name: "Takashimaya Dm Rose"
-  url: "/setts/dp4b2lb11ly9y16n16ly2b4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4b2lb11ly9y16n16ly2b4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ta/takashimaya-dm-rose/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWYGBYB](/stripes/bbwygbyb/).
 
 Part of the [Takashimaya Dm Rose](/tartans/t/ta/takashimaya-dm-rose/) tartan — the named design grouping this sett with its other cloths.

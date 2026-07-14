@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r8y2r15g10r4g10r4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgrgrgr/">RGRGRGR</a></nav>
 Its design is pattern [RGRGRGR](/stripes/rgrgrgr/) — the page of every tartan sharing this colour sequence.
 
 The **Caspari** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Caspari** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r8y2r15g10r4g10r4/">Caspari</a></td><td><code>R/16 Y4 R30 G20 R8 G20 R/8</code></td><td>188</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r8y2r15g10r4g10r4/"><img src="/variants/s7/r8y2r15g10r4g10r4~x2/sett.png" alt="Caspari sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r8y2r15g10r4g10r4~x2/">Caspari</a></td><td><code>R/16 Y4 R30 G20 R8 G20 R/8</code></td><td>188</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r8y2r15g10r4g10r4~x2/"><img src="/variants/s7/r8y2r15g10r4g10r4~x2/sett.png" alt="Caspari sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/"><circle cx="418.0" cy="193.9" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/variants/s6/r1g3r1g3r8y1~x8/"><circle cx="393.3" cy="238.7" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s6/r1g6r1g6r15y1~x2/"><circle cx="409.8" cy="204.9" r="4" fill="#3465a4"><title>Cameron Clan D</title></circle></a><a href="/variants/s6/w11r32g12r5g12r5~x2/"><circle cx="293.8" cy="244.5" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/variants/s7/y1r3g7r3g7r3y1~x4/"><circle cx="350.6" cy="270.8" r="4" fill="#3465a4"><title>Unidentified 24</title></circle></a><a href="/variants/s6/w11r40g13r5g12r5~x2/"><circle cx="332.2" cy="223.2" r="4" fill="#3465a4"><title>Makhtoum</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="321.3" cy="210.3" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s7/k1r18g12r2g12r18w1~x2/"><circle cx="349.5" cy="168.5" r="4" fill="#3465a4"><title>MacKinnon 8</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x4/"><circle cx="449.2" cy="207.2" r="4" fill="#3465a4"><title>MacQuarie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/"><circle cx="364.3" cy="166.6" r="4" fill="#3465a4"><title>MacFie</title></circle></a><circle cx="357.7" cy="262.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/"><circle cx="418.8" cy="194.1" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/variants/s6/r1g3r1g3r8y1~x8/"><circle cx="393.9" cy="238.9" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s6/r1g6r1g6r15y1~x2/"><circle cx="410.6" cy="205.1" r="4" fill="#3465a4"><title>Cameron Clan D</title></circle></a><a href="/variants/s6/w11r32g12r5g12r5~x2/"><circle cx="294.3" cy="244.6" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/variants/s7/y1r3g7r3g7r3y1~x4/"><circle cx="351.0" cy="271.0" r="4" fill="#3465a4"><title>Unidentified 24</title></circle></a><a href="/variants/s6/w11r40g13r5g12r5~x2/"><circle cx="332.8" cy="223.3" r="4" fill="#3465a4"><title>Makhtoum</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="321.7" cy="210.3" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s7/k1r18g12r2g12r18w1~x2/"><circle cx="350.3" cy="168.6" r="4" fill="#3465a4"><title>MacKinnon 8</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x4/"><circle cx="450.0" cy="207.5" r="4" fill="#3465a4"><title>MacQuarie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/"><circle cx="365.0" cy="166.7" r="4" fill="#3465a4"><title>MacFie</title></circle></a><circle cx="358.2" cy="263.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

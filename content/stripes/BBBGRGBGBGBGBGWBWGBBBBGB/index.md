@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/db9dg2db9dt3db3dt8dg27w1db3w1dg27dt8dg5dt13dg4dt13dg5dt8dg27o4dg27dt8db3dt3~x2/">Barony of Gartly (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/db9dg2db9dt3db3dt8dg27w1db3w1dg27dt8dg5dt13dg4dt13dg5dt8dg27o4dg27dt8db3dt3~x2/"><img src="/variants/s24/db9dg2db9dt3db3dt8dg27w1db3w1dg27dt8dg5dt13dg4dt13dg5dt8dg27o4dg27dt8db3dt3~x2/sett.png" alt="Barony of Gartly (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barony-of-gartly/">Barony of Gartly</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barony-of-gartly/"><img src="/variants/s24/db9dg2db9dt3db3dt8dg27w1db3w1dg27dt8dg5dt13dg4dt13dg5dt8dg27o4dg27dt8db3dt3~x2/sett.png" alt="Barony of Gartly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

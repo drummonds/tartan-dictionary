@@ -12,10 +12,10 @@ crumbs:
 - name: "Greylock"
   url: "/tartans/g/gr/greylock/"
 - name: "Greylock"
-  url: "/setts/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/greylock/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKWYGWBWKGYG](/stripes/gwkwygwbwkgyg/).
 
 Part of the [Greylock](/tartans/g/gr/greylock/) tartan — the named design grouping this sett with its other cloths.

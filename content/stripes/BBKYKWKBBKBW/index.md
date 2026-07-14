@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/">British Caledonian Airways #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><img src="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/sett.png" alt="British Caledonian Airways #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/british-caledonian-airways-3/">British Caledonian Airways</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/british-caledonian-airways-3/"><img src="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/sett.png" alt="British Caledonian Airways sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

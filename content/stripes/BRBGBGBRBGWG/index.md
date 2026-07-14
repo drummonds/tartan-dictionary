@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/">Love Htg (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/"><img src="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/sett.png" alt="Love Htg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/love-hunting/">Love Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/love-hunting/"><img src="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/sett.png" alt="Love Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

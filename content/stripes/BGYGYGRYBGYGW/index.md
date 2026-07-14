@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/">Afghanistan Memorial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/"><img src="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/sett.png" alt="Afghanistan Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/af/afghanistan-memorial/">Afghanistan Memorial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/af/afghanistan-memorial/"><img src="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/sett.png" alt="Afghanistan Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

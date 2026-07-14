@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db12k4g12ly1g12k4db8r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkgygkbr/">BKGYGKBR</a></nav>
 Its design is pattern [BKGYGKBR](/stripes/bkgygkbr/) — the page of every tartan sharing this colour sequence.
 
 The **Art Pewter Silver** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Art Pewter Silver** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db12k4g12ly1g12k4db8r3/">Art Pewter Silver</a></td><td><code>DB/24 K8 G24 LY2 G24 K8 DB16 R/6</code></td><td>194</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db12k4g12ly1g12k4db8r3/"><img src="/variants/s8/db12k4g12ly1g12k4db8r3~x2/sett.png" alt="Art Pewter Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/">Art Pewter Silver</a></td><td><code>DB/24 K8 G24 LY2 G24 K8 DB16 R/6</code></td><td>194</td><td>1994</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><img src="/variants/s8/db12k4g12ly1g12k4db8r3~x2/sett.png" alt="Art Pewter Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="177.2" cy="176.1" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="136.2" cy="197.5" r="4" fill="#3465a4"><title>MacLean, Donald</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="135.0" cy="184.1" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="177.4" cy="176.0" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s9/t22k12g11y2g11k12t11k2r2~x2/"><circle cx="130.4" cy="181.0" r="4" fill="#3465a4"><title>Huntly Gordon Fancy</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16r4g16r2~x2/"><circle cx="190.1" cy="162.3" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s6/y2g23k21r2t22g2~x2/"><circle cx="140.7" cy="180.8" r="4" fill="#3465a4"><title>Royal Ashburn Golf Club</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="177.2" cy="176.5" r="4" fill="#3465a4"><title>Ednie</title></circle></a><a href="/variants/s7/db8g8db1g8k8db8y2~x2/"><circle cx="155.2" cy="241.1" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="116.7" cy="193.9" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><circle cx="166.3" cy="191.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="177.6" cy="175.9" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="136.4" cy="197.3" r="4" fill="#3465a4"><title>MacLean, Donald</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="135.3" cy="183.9" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="177.8" cy="175.9" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s9/t22k12g11y2g11k12t11k2r2~x2/"><circle cx="130.7" cy="180.8" r="4" fill="#3465a4"><title>Huntly Gordon Fancy</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16r4g16r2~x2/"><circle cx="190.5" cy="162.1" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s6/y2g23k21r2t22g2~x2/"><circle cx="141.0" cy="180.6" r="4" fill="#3465a4"><title>Royal Ashburn Golf Club</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="177.6" cy="176.4" r="4" fill="#3465a4"><title>Ednie</title></circle></a><a href="/variants/s7/db8g8db1g8k8db8y2~x2/"><circle cx="155.5" cy="241.0" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="117.0" cy="193.7" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><circle cx="166.7" cy="191.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

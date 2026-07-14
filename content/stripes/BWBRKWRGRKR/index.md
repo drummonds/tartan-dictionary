@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db8lb3db40r3k44lb3r3g40r2k4r7~x2/">Lochaber Cameron</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db8lb3db40r3k44lb3r3g40r2k4r7~x2/"><img src="/variants/s11/db8lb3db40r3k44lb3r3g40r2k4r7~x2/sett.png" alt="Lochaber Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochaber-cameron/">Lochaber Cameron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochaber-cameron/"><img src="/variants/s11/db8lb3db40r3k44lb3r3g40r2k4r7~x2/sett.png" alt="Lochaber Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

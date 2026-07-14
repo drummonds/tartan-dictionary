@@ -6,15 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Lindley"
-  url: "/tartans/u/un/unidentified-lindley/"
+  url: "/tartans/u/un/unidentified-lindley-2/"
 - name: "Unidentified Lindley #4"
-  url: "/setts/w3r30k4dg2db17y3db2y3db17dg2k4r30w3r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3r30k4dg2db17y3db2y3db17dg2k4r30w3r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-lindley-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRKGBGBGBGKRW](/stripes/rwrkgbgbgbgkrw/).
 
-Part of the [Unidentified Lindley](/tartans/u/un/unidentified-lindley/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Lindley](/tartans/u/un/unidentified-lindley-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

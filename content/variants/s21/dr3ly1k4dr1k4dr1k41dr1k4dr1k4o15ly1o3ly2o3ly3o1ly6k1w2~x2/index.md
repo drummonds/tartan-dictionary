@@ -8,10 +8,10 @@ crumbs:
 - name: "New Star"
   url: "/tartans/n/ne/new-star/"
 - name: "New Star"
-  url: "/setts/dr3ly1k4dr1k4dr1k41dr1k4dr1k4o15ly1o3ly2o3ly3o1ly6k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3ly1k4dr1k4dr1k41dr1k4dr1k4o15ly1o3ly2o3ly3o1ly6k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/new-star/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKBKBKBKBKRYRYRYRYKW](/stripes/bykbkbkbkbkryryryrykw/).
 
 Part of the [New Star](/tartans/n/ne/new-star/) tartan — the named design grouping this sett with its other cloths.

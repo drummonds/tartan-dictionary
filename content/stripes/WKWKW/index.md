@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w14k2w14k19w2~x2/">MacLeod Black &amp; White</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w14k2w14k19w2~x2/"><img src="/variants/s5/w14k2w14k19w2~x2/sett.png" alt="MacLeod Black &amp; White sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/w8k1w8k12w1~x2/">MacLeod Black &amp; White Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w8k1w8k12w1~x2/"><img src="/variants/s5/w8k1w8k12w1~x2/sett.png" alt="MacLeod Black &amp; White Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-b-w/">MacLeod B&amp;W</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-b-w/"><img src="/variants/s5/w14k2w14k19w2~x2/sett.png" alt="MacLeod B&amp;W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-black/">MacLeod Black &amp;</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-black/"><img src="/variants/s5/w8k1w8k12w1~x2/sett.png" alt="MacLeod Black &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

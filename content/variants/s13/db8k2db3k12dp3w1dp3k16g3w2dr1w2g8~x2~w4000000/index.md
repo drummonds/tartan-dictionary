@@ -12,10 +12,10 @@ crumbs:
 - name: "MacKusick"
   url: "/tartans/m/ma/mackusick/"
 - name: "MacKusick"
-  url: "/setts/db8k2db3k12dp3w1dp3k16g3w2dr1w2g8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8k2db3k12dp3w1dp3k16g3w2dr1w2g8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackusick/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWBKGWBWG](/stripes/bkbkbwbkgwbwg/).
 
 Part of the [MacKusick](/tartans/m/ma/mackusick/) tartan — the named design grouping this sett with its other cloths.

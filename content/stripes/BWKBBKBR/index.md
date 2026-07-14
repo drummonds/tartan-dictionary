@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db22w5k9db20n14k9n11r1~x2/">Akintiev (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db22w5k9db20n14k9n11r1~x2/"><img src="/variants/s8/db22w5k9db20n14k9n11r1~x2/sett.png" alt="Akintiev (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ak/akintiev/">Akintiev</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ak/akintiev/"><img src="/variants/s8/db22w5k9db20n14k9n11r1~x2/sett.png" alt="Akintiev sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

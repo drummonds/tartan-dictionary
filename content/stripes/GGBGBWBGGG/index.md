@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/">MacScott Family (America) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/"><img src="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/sett.png" alt="MacScott Family (America) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macscott/">MacScott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macscott/"><img src="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/sett.png" alt="MacScott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

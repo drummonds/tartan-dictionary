@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/">Urquhart (Brydone)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/"><img src="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/sett.png" alt="Urquhart (Brydone) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/ur/urquhart-3/">Urquhart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/ur/urquhart-3/"><img src="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

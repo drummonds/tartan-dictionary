@@ -8,10 +8,10 @@ crumbs:
 - name: "Delroeux, John Michael"
   url: "/tartans/d/de/delroeux-john-michael/"
 - name: "Delroeux, John Michael (Personal)"
-  url: "/setts/db3g6y1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3g6y1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/delroeux-john-michael/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGR](/stripes/bggr/).
 
 Part of the [Delroeux, John Michael](/tartans/d/de/delroeux-john-michael/) tartan — the named design grouping this sett with its other cloths.

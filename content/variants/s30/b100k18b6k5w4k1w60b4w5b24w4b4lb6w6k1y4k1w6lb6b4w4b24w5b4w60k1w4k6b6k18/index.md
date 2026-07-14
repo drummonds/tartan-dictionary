@@ -12,10 +12,10 @@ crumbs:
 - name: "Craig"
   url: "/tartans/c/cr/craig-3/"
 - name: "Craig (Paisley)"
-  url: "/setts/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/craig-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWKWBWBWBWWKGKWWBWBWBWKWKBK](/stripes/bkbkwkwbwbwbwwkgkwwbwbwbwkwkbk/).
 
 Part of the [Craig](/tartans/c/cr/craig-3/) tartan — the named design grouping this sett with its other cloths.

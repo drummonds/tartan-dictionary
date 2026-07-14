@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/">East Kilbride #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/"><img src="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/sett.png" alt="East Kilbride #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ea/east-kilbride-2/">East Kilbride</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ea/east-kilbride-2/"><img src="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/sett.png" alt="East Kilbride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Earl Blue Marl"
   url: "/tartans/e/ea/earl-blue-marl/"
 - name: "Earl Blue Marl"
-  url: "/setts/db80k28dp9k3o5k12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db80k28dp9k3o5k12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ea/earl-blue-marl/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKRK](/stripes/bkbkrk/).
 
 Part of the [Earl Blue Marl](/tartans/e/ea/earl-blue-marl/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1063](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/05/2005 — Earl Blue Marl (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1063">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><br><em>Designed and woven by Lochcarron for Glasgow company ACS Clothing. Possibly for use in their kilt hire trade.</em></li>
-<li>2005 May — Earl Blue Marl (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6867">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><br><em>Designed and woven by Lochcarron for Glasgow company ACS Clothing. Possibly for use in their kilt hire trade.</em></li>
+<li>2005 May — Earl Blue Marl (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6867/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><br><em>Designed and woven by Lochcarron for Glasgow company ACS Clothing. Possibly for use in their kilt hire trade.</em></li>
 </ul>
 </details>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Dunbarton"
   url: "/tartans/d/du/dunbarton-2/"
 - name: "Dunbarton (Quebec)"
-  url: "/setts/ly30r2ly2k5ly3y2ly3y22ly3k2ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly30r2ly2k5ly3y2ly3y22ly3k2ly3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunbarton-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YKYGYGYKYRY](/stripes/ykygygykyry/).
 
 Part of the [Dunbarton](/tartans/d/du/dunbarton-2/) tartan — the named design grouping this sett with its other cloths.

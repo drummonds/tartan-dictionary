@@ -11,11 +11,11 @@ crumbs:
   url: "/families/mactavish/"
 - name: "MacTavish"
   url: "/tartans/m/ma/mactavish-2/"
-- name: "MacTavish"
-  url: "/setts/lb2r12db2lb6k6lb1/"
+- name: "Thompson/Thomson/MacTavish"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb2r12db2lb6k6lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mactavish-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWBRW](/stripes/wkwbrw/).
 
 Part of the [MacTavish](/tartans/m/ma/mactavish-2/) tartan — the named design grouping this sett with its other cloths.

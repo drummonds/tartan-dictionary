@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/">Morgan in Maryland (USA) (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/"><img src="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/sett.png" alt="Morgan in Maryland (USA) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/morgan-in-maryland/">Morgan in Maryland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morgan-in-maryland/"><img src="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/sett.png" alt="Morgan in Maryland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

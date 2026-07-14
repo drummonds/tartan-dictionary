@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2/">Auchinachie (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2/"><img src="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2/sett.png" alt="Auchinachie (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auchinachie/">Auchinachie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auchinachie/"><img src="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2/sett.png" alt="Auchinachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

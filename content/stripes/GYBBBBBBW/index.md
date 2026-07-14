@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/">Tinkler (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/"><img src="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/sett.png" alt="Tinkler (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tinkler/">Tinkler</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tinkler/"><img src="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/sett.png" alt="Tinkler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

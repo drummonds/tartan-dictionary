@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/">Glen Tilt District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><img src="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/sett.png" alt="Glen Tilt District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-tilt/">Glen Tilt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-tilt/"><img src="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/sett.png" alt="Glen Tilt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

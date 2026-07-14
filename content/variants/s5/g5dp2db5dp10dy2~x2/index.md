@@ -12,10 +12,10 @@ crumbs:
 - name: "Bryson"
   url: "/tartans/b/br/bryson/"
 - name: "Bryson (2000)"
-  url: "/setts/g5dp2db5dp10dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g5dp2db5dp10dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bryson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBG](/stripes/gbbbg/).
 
 Part of the [Bryson](/tartans/b/br/bryson/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=410](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Bryson (2000) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=410">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>No details of this known at all. Could be regarded as a variation of Bryson.</em></li>
-<li>2000 — Bryson Check (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4156">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>No details of this known at all. Could be regarded as a variation of Bryson #3746.</em></li>
+<li>2000 — Bryson Check (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4156/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>No details of this known at all. Could be regarded as a variation of Bryson #3746.</em></li>
 </ul>
 </details>
 

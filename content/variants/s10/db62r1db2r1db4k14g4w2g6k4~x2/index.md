@@ -8,10 +8,10 @@ crumbs:
 - name: "Parr"
   url: "/tartans/p/pa/parr/"
 - name: "Parr Family Tartan"
-  url: "/setts/db62r1db2r1db4k14g4w2g6k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db62r1db2r1db4k14g4w2g6k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/parr/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBKGWGK](/stripes/brbrbkgwgk/).
 
 Part of the [Parr](/tartans/p/pa/parr/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Adams"
   url: "/tartans/a/ad/adams/"
 - name: "Adams"
-  url: "/setts/dr4g4k2g15do5g5do15g6w1db19dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4g4k2g15do5g5do15g6w1db19dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ad/adams/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWGBGBGKGB](/stripes/bbwgbgbgkgb/).
 
 Part of the [Adams](/tartans/a/ad/adams/) tartan — the named design grouping this sett with its other cloths.

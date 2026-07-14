@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db30r3w10g14r3o30~x2/">Cercle de Fermières Varennes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db30r3w10g14r3o30~x2/"><img src="/variants/s6/db30r3w10g14r3o30~x2/sett.png" alt="Cercle de Fermières Varennes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/cercle-de-fermi-res-varennes/">Cercle de Fermières Varennes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/cercle-de-fermi-res-varennes/"><img src="/variants/s6/db30r3w10g14r3o30~x2/sett.png" alt="Cercle de Fermières Varennes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k1db12k12g1k12db12g1~x4/">Marchmont (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><img src="/variants/s7/k1db12k12g1k12db12g1~x4/sett.png" alt="Marchmont (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/marchmont/">Marchmont</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/marchmont/"><img src="/variants/s7/k1db12k12g1k12db12g1~x4/sett.png" alt="Marchmont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Spens"
   url: "/tartans/s/sp/spens/"
 - name: "Spens Family Tartan"
-  url: "/setts/r56w2db6w2g32r11db6w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r56w2db6w2g32r11db6w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spens/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWGRBW](/stripes/rwbwgrbw/).
 
 Part of the [Spens](/tartans/s/sp/spens/) tartan — the named design grouping this sett with its other cloths.

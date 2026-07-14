@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/">Manchester City Football Club &quot;Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/"><img src="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/sett.png" alt="Manchester City Football Club &quot;Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manchester-city-football-club/">Manchester City Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manchester-city-football-club/"><img src="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/sett.png" alt="Manchester City Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

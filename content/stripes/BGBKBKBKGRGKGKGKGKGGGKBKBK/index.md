@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3/">Stewart Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3/"><img src="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3~dg1605139/sett.png" alt="Stewart Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s26/db8g2db8k2db2k2db2k4g11r2g11k4g2k9g2k9g2k4g11y2g11k4db2k2db2k4~x2/">Stuart/Stewart Hunting #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/db8g2db8k2db2k2db2k4g11r2g11k4g2k9g2k9g2k4g11y2g11k4db2k2db2k4~x2/"><img src="/variants/s26/db8g2db8k2db2k2db2k4g11r2g11k4g2k9g2k9g2k4g11y2g11k4db2k2db2k4~x2/sett.png" alt="Stuart/Stewart Hunting #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-hunting-3/">Stewart Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-hunting-3/"><img src="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3~dg1605139/sett.png" alt="Stewart Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

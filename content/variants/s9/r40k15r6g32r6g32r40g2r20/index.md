@@ -10,10 +10,10 @@ crumbs:
 - name: "Maxwell Variant"
   url: "/tartans/m/ma/maxwell-variant/"
 - name: "Maxwell Variant"
-  url: "/setts/r40k15r6g32r6g32r40g2r20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r40k15r6g32r6g32r40g2r20/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maxwell-variant/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRGRKR](/stripes/rgrgrgrkr/).
 
 Part of the [Maxwell Variant](/tartans/m/ma/maxwell-variant/) tartan — the named design grouping this sett with its other cloths.

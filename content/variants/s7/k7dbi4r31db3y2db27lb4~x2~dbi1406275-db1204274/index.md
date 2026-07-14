@@ -12,15 +12,15 @@ crumbs:
 - name: "Wishart Dress"
   url: "/tartans/w/wi/wishart-dress/"
 - name: "Wishart Dress"
-  url: "/setts/k7dbi4r31db3y2db27lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7dbi4r31db3y2db27lb4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBGBWBGBRBK](/stripes/brbgbwbgbrbk/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wishart-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBRBGBW](/stripes/kbrbgbw/).
 
 Part of the [Wishart Dress](/tartans/w/wi/wishart-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4768](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4768)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2104
 
 ## Thread count
-K/14 DBi8 R62 DB6 Y4 DB54 LB8 DB54 Y4 DB6 R62 DBi/8
+K/14 DB8 R62 DT6 Y4 DT54 LB/8
 
-One full sett is **558 threads**.
+One full sett is **290 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/14 DBi8 R62 DB6 Y4 DB54 LB8 DB54 Y4 DB6 R62 DBi/8 — 558 threads; it folds to the canonical 290-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **558 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/14 DBi8 R62 DB6 Y4 DB54 LB8 DB54 Y4 DB6 R62 DBi/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/14 DB8 R62 DT6 Y4 DT54 LB/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

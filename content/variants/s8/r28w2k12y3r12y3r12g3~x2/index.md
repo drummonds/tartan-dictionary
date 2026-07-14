@@ -8,10 +8,10 @@ crumbs:
 - name: "Hackston or Halkerston"
   url: "/tartans/h/ha/hackston-or-halkerston-2/"
 - name: "Hackston or Halkerston Family Tartan"
-  url: "/setts/r28w2k12y3r12y3r12g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r28w2k12y3r12y3r12g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hackston-or-halkerston-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGKWR](/stripes/grgrgkwr/).
 
 Part of the [Hackston or Halkerston](/tartans/h/ha/hackston-or-halkerston-2/) tartan — the named design grouping this sett with its other cloths.

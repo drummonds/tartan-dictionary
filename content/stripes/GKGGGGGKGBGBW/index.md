@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2~x2/">O'Doherty (Glasgow) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2~x2/"><img src="/variants/s13/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2~x2/sett.png" alt="O'Doherty (Glasgow) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-doherty/">O'Doherty</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-doherty/"><img src="/variants/s13/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2~x2/sett.png" alt="O'Doherty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

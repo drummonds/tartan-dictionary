@@ -12,10 +12,10 @@ crumbs:
 - name: "Ruthven"
   url: "/tartans/r/ru/ruthven/"
 - name: "Ruthven"
-  url: "/setts/w3g15db18r30db1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3g15db18r30db1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ru/ruthven/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBGW](/stripes/rbrbgw/).
 
 Part of the [Ruthven](/tartans/r/ru/ruthven/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "Rikaco Eve"
   url: "/tartans/r/ri/rikaco-eve/"
 - name: "Rikaco Eve"
-  url: "/setts/o4n4o2w36n14w2lb4o7m5w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o4n4o2w36n14w2lb4o7m5w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ri/rikaco-eve/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRWBWWRRW](/stripes/rbrwbwwrrw/).
 
 Part of the [Rikaco Eve](/tartans/r/ri/rikaco-eve/) tartan — the named design grouping this sett with its other cloths.

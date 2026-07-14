@@ -4,16 +4,22 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g71k4r4db9r4db4r36db4w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkrbrbrbw/">GKRBRBRBW</a></nav>
 Its design is pattern [GKRBRBRBW](/stripes/gkrbrbrbw/) — the page of every tartan sharing this colour sequence.
 
-The **Rattay** tartan is recorded as a single sett.
+The **Rattay** tartan is one sett, recorded at 2 scales — the same proportion woven
+finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g71k4r4db9r4db4r36db4w4/">Rattay</a></td><td><code>G/71 K4 R4 DB9 R4 DB4 R36 DB4 W/4</code></td><td>205</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g71k4r4db9r4db4r36db4w4/"><img src="/variants/s9/g71k4r4db9r4db4r36db4w4/sett.png" alt="Rattay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g71k4r4db9r4db4r36db4w4/">Rattay</a></td><td><code>G/71 K4 R4 DB9 R4 DB4 R36 DB4 W/4</code></td><td>205</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g71k4r4db9r4db4r36db4w4/"><img src="/variants/s9/g71k4r4db9r4db4r36db4w4/sett.png" alt="Rattay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/g71k4r4db9r4db4r36db4w4/">Rattray</a></td><td><code>G/71 K4 R4 DB9 R4 DB4 R36 DB4 W/4</code></td><td>205</td><td>~2003</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/g71k4r4db9r4db4r36db4w4~x2/">Rattay</a></td><td><code>G/142 K8 R8 DB18 R8 DB8 R72 DB8 W/8</code></td><td>410</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/g71k4r4db9r4db4r36db4w4/">Rattray</a> · <a href="/variants/s9/g71k4r4db9r4db4r36db4w4~x2/">Rattay</a></td></tr>
 </tbody>
 </table>
@@ -33,6 +39,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="270.1" cy="109.0" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/"><circle cx="227.9" cy="98.3" r="4" fill="#3465a4"><title>Glen Talloch</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="284.9" cy="93.5" r="4" fill="#3465a4"><title>Gray Hunting</title></circle></a><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><circle cx="256.1" cy="116.5" r="4" fill="#3465a4"><title>Humphries</title></circle></a><a href="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/"><circle cx="246.4" cy="117.0" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/variants/s8/k2r2k1r18g24k1g2lo2~x2/"><circle cx="298.8" cy="115.3" r="4" fill="#3465a4"><title>Gleneil</title></circle></a><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="225.3" cy="125.4" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ</title></circle></a><a href="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/"><circle cx="172.6" cy="119.1" r="4" fill="#3465a4"><title>Celts, Tartan of the</title></circle></a><a href="/variants/s13/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4~x2/"><circle cx="288.9" cy="81.9" r="4" fill="#3465a4"><title>Glen Coe</title></circle></a><a href="/variants/s13/g44r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="270.1" cy="86.0" r="4" fill="#3465a4"><title>Cochrane of Dundonald</title></circle></a><circle cx="266.3" cy="109.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="270.8" cy="108.9" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/"><circle cx="228.6" cy="98.2" r="4" fill="#3465a4"><title>Glen Talloch</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="285.7" cy="93.5" r="4" fill="#3465a4"><title>Gray Hunting</title></circle></a><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><circle cx="256.8" cy="116.4" r="4" fill="#3465a4"><title>Humphries</title></circle></a><a href="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/"><circle cx="247.1" cy="116.9" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/variants/s8/k2r2k1r18g24k1g2lo2~x2/"><circle cx="299.6" cy="115.3" r="4" fill="#3465a4"><title>Gleneil</title></circle></a><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="225.8" cy="125.2" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ</title></circle></a><a href="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/"><circle cx="173.1" cy="118.9" r="4" fill="#3465a4"><title>Celts, Tartan of the</title></circle></a><a href="/variants/s13/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4~x2/"><circle cx="289.8" cy="81.9" r="4" fill="#3465a4"><title>Glen Coe</title></circle></a><a href="/variants/s13/g44r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="270.8" cy="86.0" r="4" fill="#3465a4"><title>Cochrane of Dundonald</title></circle></a><circle cx="267.0" cy="109.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

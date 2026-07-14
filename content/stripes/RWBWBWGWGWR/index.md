@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/">Bendigo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/"><img src="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/sett.png" alt="Bendigo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bendigo/">Bendigo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bendigo/"><img src="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/sett.png" alt="Bendigo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

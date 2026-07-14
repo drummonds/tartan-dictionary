@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k1r1w1r15w15r1w1k1~x4/">Bundy, Dress Red (Personal Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k1r1w1r15w15r1w1k1~x4/"><img src="/variants/s8/k1r1w1r15w15r1w1k1~x4/sett.png" alt="Bundy, Dress Red (Personal Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/bundy-dress-2/">Bundy, Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/bundy-dress-2/"><img src="/variants/s8/k1r1w1r15w15r1w1k1~x4/sett.png" alt="Bundy, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

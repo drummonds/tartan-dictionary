@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db2g4lb11dp19db1dp19o4lo2/"
+- "/setts/db2lb11dp19db1dp19dpi4lo2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgwbbbry/">BGWBBBRY</a></nav>
 Its design is pattern [BGWBBBRY](/stripes/bgwbbbry/) — the page of every tartan sharing this colour sequence.
 
 The **Brigid Mhairi** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Brigid Mhairi** tartan groups 2 setts — the same named design recorded a
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db2g4lb11dp19db1dp19o4lo2/">Brigid Mhairi</a> ★</td><td><code>LO/4 O8 DP38 DB2 DP38 LB22 G8 DB/4</code></td><td>240</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2g4lb11dp19db1dp19o4lo2/"><img src="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/sett.png" alt="Brigid Mhairi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db2lb11dp19db1dp19dpi4lo2/">(Personal)</a></td><td><code>DB/4 LB22 DP38 DB2 DP38 DPi8 LO/4</code></td><td>224</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2lb11dp19db1dp19dpi4lo2/"><img src="/variants/s7/db2lb11dp19db1dp19dpi4lo2~x2~dp1105325-dpi1607327/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/">Brigid Mhairi</a> ★</td><td><code>DB/4 G8 LB22 DP38 DB2 DP38 O8 LO/4</code></td><td>240</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/"><img src="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/sett.png" alt="Brigid Mhairi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db2lb11dp19db1dp19dpi4lo2~x2~dp1105325-dpi1607327/">(Personal)</a></td><td><code>DB/4 LB22 DP38 DB2 DP38 DPi8 LO/4</code></td><td>224</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db2lb11dp19db1dp19dpi4lo2~x2~dp1105325-dpi1607327/"><img src="/variants/s7/db2lb11dp19db1dp19dpi4lo2~x2~dp1105325-dpi1607327/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="361.4" cy="198.4" r="4" fill="#3465a4"><title>McIntosh, Stuart</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="276.7" cy="146.5" r="4" fill="#3465a4"><title>Cramer</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="261.0" cy="165.9" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="297.8" cy="156.7" r="4" fill="#3465a4"><title>Tartan Lassie</title></circle></a><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/"><circle cx="319.7" cy="91.6" r="4" fill="#3465a4"><title>Queens University of Ontario</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.8" cy="117.4" r="4" fill="#3465a4"><title>Iberia Dress</title></circle></a><a href="/variants/s9/r4y2r34db10g4db4t4db23w3~x2~t2405244/"><circle cx="236.1" cy="127.1" r="4" fill="#3465a4"><title>Heirloom Red Alba</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="274.5" cy="192.1" r="4" fill="#3465a4"><title>Telfer, Brian William</title></circle></a><a href="/variants/s9/dp12r1g4r2dp10lb20db3lb9w1~x2/"><circle cx="218.8" cy="135.7" r="4" fill="#3465a4"><title>Japan-Scotland Society</title></circle></a><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="154.4" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><circle cx="309.5" cy="137.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="362.1" cy="198.5" r="4" fill="#3465a4"><title>McIntosh, Stuart</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="277.5" cy="146.4" r="4" fill="#3465a4"><title>Cramer</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="261.6" cy="165.7" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.5" cy="156.6" r="4" fill="#3465a4"><title>Tartan Lassie</title></circle></a><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/"><circle cx="320.5" cy="91.5" r="4" fill="#3465a4"><title>Queens University of Ontario</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="326.6" cy="117.4" r="4" fill="#3465a4"><title>Iberia Dress</title></circle></a><a href="/variants/s9/r4y2r34db10g4db4t4db23w3~x2~t2405244/"><circle cx="236.6" cy="126.9" r="4" fill="#3465a4"><title>Heirloom Red Alba</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="275.0" cy="192.0" r="4" fill="#3465a4"><title>Telfer, Brian William</title></circle></a><a href="/variants/s9/dp12r1g4r2dp10lb20db3lb9w1~x2/"><circle cx="219.3" cy="135.5" r="4" fill="#3465a4"><title>Japan-Scotland Society</title></circle></a><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="357.5" cy="154.4" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><circle cx="310.3" cy="137.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

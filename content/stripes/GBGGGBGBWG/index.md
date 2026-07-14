@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy22t2dy3y4dy3t2dy12t4w19dy3~x2/">Burns Battalion (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy22t2dy3y4dy3t2dy12t4w19dy3~x2/"><img src="/variants/s10/dy22t2dy3y4dy3t2dy12t4w19dy3~x2/sett.png" alt="Burns Battalion (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burns-battalion/">Burns Battalion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burns-battalion/"><img src="/variants/s10/dy22t2dy3y4dy3t2dy12t4w19dy3~x2/sett.png" alt="Burns Battalion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

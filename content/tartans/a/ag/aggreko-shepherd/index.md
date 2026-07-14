@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lo10w4dg30k22dg27n4lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbgkgwy/">WBGKGWY</a></nav>
 Its design is pattern [WBGKGWY](/stripes/wbgkgwy/) — the page of every tartan sharing this colour sequence.
 
 The **Aggreko Shepherd** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Aggreko Shepherd** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lo10w4dg30k22dg27n4lb2/">Aggreko Shepherd</a></td><td><code>LO/20 W8 DG60 K44 DG54 N8 LB/4</code></td><td>372</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lo10w4dg30k22dg27n4lb2/"><img src="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/sett.png" alt="Aggreko Shepherd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/">Aggreko Shepherd</a></td><td><code>LO/20 W8 DG60 K44 DG54 N8 LB/4</code></td><td>372</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/"><img src="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/sett.png" alt="Aggreko Shepherd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="236.0" cy="164.4" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="259.1" cy="148.3" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="221.3" cy="141.3" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="269.5" cy="177.6" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s6/lb12g16k12g24dp75y4/"><circle cx="263.7" cy="141.8" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/"><circle cx="234.6" cy="142.4" r="4" fill="#3465a4"><title>Holestone</title></circle></a><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="234.7" cy="182.5" r="4" fill="#3465a4"><title>Lee</title></circle></a><a href="/variants/s6/g26db3g12k10dp15w2~x2/"><circle cx="233.5" cy="181.6" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/"><circle cx="145.1" cy="149.9" r="4" fill="#3465a4"><title>Wilson's, No 33</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19w2g17r4~x2/"><circle cx="150.8" cy="156.2" r="4" fill="#3465a4"><title>Wilson's, No 2/33</title></circle></a><circle cx="230.0" cy="145.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="236.6" cy="164.4" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="259.8" cy="148.3" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="221.9" cy="141.2" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="270.2" cy="177.6" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s6/lb12g16k12g24dp75y4/"><circle cx="264.4" cy="141.7" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/"><circle cx="235.4" cy="142.3" r="4" fill="#3465a4"><title>Holestone</title></circle></a><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="235.2" cy="182.5" r="4" fill="#3465a4"><title>Lee</title></circle></a><a href="/variants/s6/g26db3g12k10dp15w2~x2/"><circle cx="234.1" cy="181.5" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/"><circle cx="145.4" cy="149.6" r="4" fill="#3465a4"><title>Wilson's, No 33</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19w2g17r4~x2/"><circle cx="151.1" cy="155.9" r="4" fill="#3465a4"><title>Wilson's, No 2/33</title></circle></a><circle cx="230.7" cy="145.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

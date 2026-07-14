@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb3k1do12k1do1k2do1k6n12k1lo1~x4/">MacCandlish Dress Grey</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb3k1do12k1do1k2do1k6n12k1lo1~x4/"><img src="/variants/s11/lb3k1do12k1do1k2do1k6n12k1lo1~x4/sett.png" alt="MacCandlish Dress Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maccandlish-dress/">MacCandlish Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccandlish-dress/"><img src="/variants/s11/lb3k1do12k1do1k2do1k6n12k1lo1~x4/sett.png" alt="MacCandlish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/">Mount Isla</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><img src="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/sett.png" alt="Mount Isla sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/mount-isla/">Mount Isla</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/mount-isla/"><img src="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/sett.png" alt="Mount Isla sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5g10w2~x2/">McBain</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5g10w2~x2/"><img src="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5g10w2~x2/sett.png" alt="McBain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcbain/">McBain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcbain/"><img src="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5g10w2~x2/sett.png" alt="McBain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

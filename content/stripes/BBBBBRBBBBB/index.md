@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2~n1700000-ni1803246/">Paul Henry (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2~n1700000-ni1803246/"><img src="/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2~n1700000-ni1803246/sett.png" alt="Paul Henry (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/paul-henry-2/">Paul Henry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/paul-henry-2/"><img src="/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2~n1700000-ni1803246/sett.png" alt="Paul Henry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

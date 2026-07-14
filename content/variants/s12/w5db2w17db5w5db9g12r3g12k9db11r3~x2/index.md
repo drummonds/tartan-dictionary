@@ -12,10 +12,10 @@ crumbs:
 - name: "Murray Dress"
   url: "/tartans/m/mu/murray-dress/"
 - name: "Murray Dress Trade Tartan"
-  url: "/setts/w5db2w17db5w5db9g12r3g12k9db11r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5db2w17db5w5db9g12r3g12k9db11r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murray-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGRGBWBWBW](/stripes/rbkgrgbwbwbw/).
 
 Part of the [Murray Dress](/tartans/m/mu/murray-dress/) tartan — the named design grouping this sett with its other cloths.

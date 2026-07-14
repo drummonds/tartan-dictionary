@@ -10,10 +10,10 @@ crumbs:
 - name: "Buchanan Incorrect"
   url: "/tartans/b/bu/buchanan-incorrect/"
 - name: "Buchanan Incorrect"
-  url: "/setts/db3g1k3db3k3g1db3g1r6w1r6db4y5db1y5g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3g1k3db3k3g1db3g1r6w1r6db4y5db1y5g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/buchanan-incorrect/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBKGBGRWRBGBGG](/stripes/bgkbkgbgrwrbgbgg/).
 
 Part of the [Buchanan Incorrect](/tartans/b/bu/buchanan-incorrect/) tartan — the named design grouping this sett with its other cloths.

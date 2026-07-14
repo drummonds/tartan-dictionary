@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g3lo3k10lo26k3lo3~x2/">Volkswagen Orange Trim</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g3lo3k10lo26k3lo3~x2/"><img src="/variants/s6/g3lo3k10lo26k3lo3~x2/sett.png" alt="Volkswagen Orange Trim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vo/volkswagen-orange-trim/">Volkswagen Orange Trim</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vo/volkswagen-orange-trim/"><img src="/variants/s6/g3lo3k10lo26k3lo3~x2/sett.png" alt="Volkswagen Orange Trim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

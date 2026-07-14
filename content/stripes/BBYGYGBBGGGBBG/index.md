@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5~x2/">Westmeath Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5~x2/"><img src="/variants/s14/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5~x2/sett.png" alt="Westmeath Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westmeath-irish-county/">Westmeath Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westmeath-irish-county/"><img src="/variants/s14/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5~x2/sett.png" alt="Westmeath Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

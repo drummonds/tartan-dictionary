@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k10o24dr3o3dr24dg3o6k6~x2/">Earle's Flame</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k10o24dr3o3dr24dg3o6k6~x2/"><img src="/variants/s8/k10o24dr3o3dr24dg3o6k6~x2/sett.png" alt="Earle's Flame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ea/earle-s-flame/">Earle's Flame</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ea/earle-s-flame/"><img src="/variants/s8/k10o24dr3o3dr24dg3o6k6~x2/sett.png" alt="Earle's Flame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/k4r37db37r2db37g37r37k4/">Skene, of Cromar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k4r37db37r2db37g37r37k4/"><img src="/variants/s8/k4r37db37r2db37g37r37k4/sett.png" alt="Skene, of Cromar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skene-of-cromar-2/">Skene of Cromar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skene-of-cromar-2/"><img src="/variants/s8/k4r37db37r2db37g37r37k4/sett.png" alt="Skene of Cromar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/o3k7o2w2oi12k2oi2o3~x2~o2102055-oi2104058/">Daks</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/o3k7o2w2oi12k2oi2o3~x2~o2102055-oi2104058/"><img src="/variants/s8/o3k7o2w2oi12k2oi2o3~x2~o2102055-oi2104058/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/daks-15/">Daks</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daks-15/"><img src="/variants/s8/o3k7o2w2oi12k2oi2o3~x2~o2102055-oi2104058/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

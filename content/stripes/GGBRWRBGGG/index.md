@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/">Swiss Highlander</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/"><img src="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/sett.png" alt="Swiss Highlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/">Swiss Highlander (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/"><img src="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/sett.png" alt="Swiss Highlander (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sw/swiss-highlander/">Swiss Highlander</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/swiss-highlander/"><img src="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/sett.png" alt="Swiss Highlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

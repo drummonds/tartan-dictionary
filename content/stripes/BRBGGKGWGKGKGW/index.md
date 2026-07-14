@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/">Presbyterian Synod of Living Waters (USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/"><img src="/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/sett.png" alt="Presbyterian Synod of Living Waters (USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/presbyterian-synod-of-living-waters/">Presbyterian Synod of Living Waters</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/presbyterian-synod-of-living-waters/"><img src="/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/sett.png" alt="Presbyterian Synod of Living Waters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

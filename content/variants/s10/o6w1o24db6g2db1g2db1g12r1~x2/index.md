@@ -12,10 +12,10 @@ crumbs:
 - name: "Chisholm Hunting"
   url: "/tartans/c/ch/chisholm-hunting/"
 - name: "Chisholm hunting"
-  url: "/setts/o6w1o24db6g2db1g2db1g12r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o6w1o24db6g2db1g2db1g12r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chisholm-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGBGBRWR](/stripes/rgbgbgbrwr/).
 
 Part of the [Chisholm Hunting](/tartans/c/ch/chisholm-hunting/) tartan — the named design grouping this sett with its other cloths.

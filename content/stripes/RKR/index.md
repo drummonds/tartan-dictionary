@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/r18k3r2~x4/">Buie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r18k3r2~x4/"><img src="/variants/s3/r18k3r2~x4/sett.png" alt="Buie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buie/">Buie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buie/"><img src="/variants/s3/r18k3r2~x4/sett.png" alt="Buie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/masai-shuka-12/">Masai Shuka 12</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/masai-shuka-12/"><img src="/variants/s3/r25k5r1~x4/sett.png" alt="Masai Shuka 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

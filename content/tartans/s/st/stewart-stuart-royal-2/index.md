@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/n11k16n4k4w4k4w19k14w4k14w4k14w19k4w4k4n4k16n11k8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkwkwkwkwkwkwkbkbk/">BKBKWKWKWKWKWKWKBKBK</a></nav>
 Its design is pattern [BKBKWKWKWKWKWKWKBKBK](/stripes/bkbkwkwkwkwkwkwkbkbk/) — the page of every tartan sharing this colour sequence.
 
 The **Stewart/Stuart Royal** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Stewart/Stuart Royal** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n11k16n4k4w4k4w19k14w4k14w4k14w19k4w4k4n4k16n11k8/">Stewart/Stuart Royal</a></td><td><code>N/11 K16 N4 K4 W4 K4 W19 K14 W4 K14 W4 K14 W19 K4 W4 K4 N4 K16 N11 K/8</code></td><td>345</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n11k16n4k4w4k4w19k14w4k14w4k14w19k4w4k4n4k16n11k8/"><img src="/variants/s20/n11k16n4k4w4k4w19k14w4k14w4k14w19k4w4k4n4k16n11k8/sett.png" alt="Stewart/Stuart Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/n11k16n4k4w4k4w19k14w4k14w4k14w19k4w4k4n4k16n11k8/">Stewart/Stuart Royal</a></td><td><code>N/11 K16 N4 K4 W4 K4 W19 K14 W4 K14 W4 K14 W19 K4 W4 K4 N4 K16 N11 K/8</code></td><td>345</td><td>1880</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/n11k16n4k4w4k4w19k14w4k14w4k14w19k4w4k4n4k16n11k8/"><img src="/variants/s20/n11k16n4k4w4k4w19k14w4k14w4k14w19k4w4k4n4k16n11k8/sett.png" alt="Stewart/Stuart Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/k14w4k14w19k4w4k4n4k16n11k8/"><circle cx="207.4" cy="203.7" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/variants/s15/k10w10k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="167.2" cy="214.3" r="4" fill="#3465a4"><title>Blackcraig</title></circle></a><a href="/variants/s20/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12~x2/"><circle cx="248.6" cy="183.9" r="4" fill="#3465a4"><title>Ogilvie</title></circle></a><a href="/variants/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="171.2" cy="216.0" r="4" fill="#3465a4"><title>Blackcraig</title></circle></a><a href="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="148.3" cy="179.9" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s17/dr3k8w2k3w2k2w6b3w6k2w2k3w2k4lb2k10w3~x2/"><circle cx="136.7" cy="170.7" r="4" fill="#3465a4"><title>Clanedin</title></circle></a><a href="/variants/s11/n1w1n6k6w1k6w1n1w1n3w1~x2/"><circle cx="181.8" cy="187.7" r="4" fill="#3465a4"><title>Clergy 6</title></circle></a><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><circle cx="149.0" cy="183.7" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><circle cx="175.8" cy="187.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/k14w4k14w19k4w4k4n4k16n11k8/"><circle cx="208.0" cy="203.7" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/variants/s15/k10w10k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="167.7" cy="214.2" r="4" fill="#3465a4"><title>Blackcraig</title></circle></a><a href="/variants/s20/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12~x2/"><circle cx="249.3" cy="183.9" r="4" fill="#3465a4"><title>Ogilvie</title></circle></a><a href="/variants/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="171.7" cy="215.9" r="4" fill="#3465a4"><title>Blackcraig</title></circle></a><a href="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="148.7" cy="179.7" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s17/dr3k8w2k3w2k2w6b3w6k2w2k3w2k4lb2k10w3~x2/"><circle cx="137.1" cy="170.5" r="4" fill="#3465a4"><title>Clanedin</title></circle></a><a href="/variants/s11/n1w1n6k6w1k6w1n1w1n3w1~x2/"><circle cx="182.3" cy="187.6" r="4" fill="#3465a4"><title>Clergy 6</title></circle></a><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><circle cx="149.5" cy="183.5" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><circle cx="176.4" cy="187.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

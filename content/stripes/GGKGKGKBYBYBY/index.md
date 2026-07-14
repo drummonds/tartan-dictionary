@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/">Clerke of Ulva</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><img src="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/sett.png" alt="Clerke of Ulva sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clerke-of-ulva-2/">Clerke of Ulva</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clerke-of-ulva-2/"><img src="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/sett.png" alt="Clerke of Ulva sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

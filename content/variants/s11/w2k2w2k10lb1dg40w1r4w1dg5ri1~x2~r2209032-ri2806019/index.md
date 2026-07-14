@@ -10,10 +10,10 @@ crumbs:
 - name: "Knox, David Paul"
   url: "/tartans/k/kn/knox-david-paul/"
 - name: "Knox, David Paul (Personal)"
-  url: "/setts/w2k2w2k10lb1dg40w1r4w1dg5ri1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2k2w2k10lb1dg40w1r4w1dg5ri1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/kn/knox-david-paul/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWRWGWKWKW](/stripes/rgwrwgwkwkw/).
 
 Part of the [Knox, David Paul](/tartans/k/kn/knox-david-paul/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/">Cheape of Torosay (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/"><img src="/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/sett.png" alt="Cheape of Torosay (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/cheape-of-torosay/">Cheape of Torosay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/cheape-of-torosay/"><img src="/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/sett.png" alt="Cheape of Torosay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

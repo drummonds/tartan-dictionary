@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g4dr14g14ly6dr1w30g2dr1~x2/">British Columbia #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g4dr14g14ly6dr1w30g2dr1~x2/"><img src="/variants/s8/g4dr14g14ly6dr1w30g2dr1~x2/sett.png" alt="British Columbia #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/">Dogwood Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/"><img src="/variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/sett.png" alt="Dogwood Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/british-columbia-2/">British Columbia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/british-columbia-2/"><img src="/variants/s8/g4dr14g14ly6dr1w30g2dr1~x2/sett.png" alt="British Columbia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dogwood/">Dogwood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dogwood/"><img src="/variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/sett.png" alt="Dogwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/">National Trust</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><img src="/variants/s8/g2do8g8ly3do1w12g2do1~x2/sett.png" alt="National Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/national-trust-2/">National Trust</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/national-trust-2/"><img src="/variants/s8/g2do8g8ly3do1w12g2do1~x2/sett.png" alt="National Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

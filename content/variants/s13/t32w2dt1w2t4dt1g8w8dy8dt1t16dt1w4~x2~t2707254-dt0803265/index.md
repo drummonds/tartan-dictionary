@@ -8,10 +8,10 @@ crumbs:
 - name: "Spirit of India"
   url: "/tartans/s/sp/spirit-of-india/"
 - name: "Spirit of India"
-  url: "/setts/t32w2dt1w2t4dt1g8w8dy8dt1t16dt1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t32w2dt1w2t4dt1g8w8dy8dt1t16dt1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spirit-of-india/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBBGWGBBBW](/stripes/bwbwbbgwgbbbw/).
 
 Part of the [Spirit of India](/tartans/s/sp/spirit-of-india/) tartan — the named design grouping this sett with its other cloths.

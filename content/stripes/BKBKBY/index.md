@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/t11k1t3k5dp9lo1~x2/">Joker Fancy Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/t11k1t3k5dp9lo1~x2/"><img src="/variants/s6/t11k1t3k5dp9lo1~x2/sett.png" alt="Joker Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/t18k2t4k6dp12lo1~x2/">Joker, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/t18k2t4k6dp12lo1~x2/"><img src="/variants/s6/t18k2t4k6dp12lo1~x2/sett.png" alt="Joker, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/joker-fancy/">Joker Fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/joker-fancy/"><img src="/variants/s6/t11k1t3k5dp9lo1~x2/sett.png" alt="Joker Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/joker-the/">Joker, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/joker-the/"><img src="/variants/s6/t18k2t4k6dp12lo1~x2/sett.png" alt="Joker, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

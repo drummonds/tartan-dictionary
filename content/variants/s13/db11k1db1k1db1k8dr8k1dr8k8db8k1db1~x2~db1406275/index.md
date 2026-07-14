@@ -8,15 +8,15 @@ crumbs:
 - name: "Wine Watch"
   url: "/tartans/w/wi/wine-watch/"
 - name: "Wine Watch"
-  url: "/setts/db11k1db1k1db1k8dr8k1dr8k8db8k1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11k1db1k1db1k8dr8k1dr8k8db8k1db1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbkbkbkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wine-watch/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkb/).
 
 Part of the [Wine Watch](/tartans/w/wi/wine-watch/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5142](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5142)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3075
 
 ## Thread count
-DB/22 K2 DB2 K2 DB2 K16 DR16 K2 DR16 K16 DB16 K2 DB2 K2 DB16 K16 DR16 K2 DR16 K16 DB2 K2 DB2 K/2
+DB/22 K2 DB2 K2 DB2 K16 DR16 K2 DR16 K16 DB16 K2 DB/2
 
-One full sett is **392 threads**.
+One full sett is **208 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/22 K2 DB2 K2 DB2 K16 DR16 K2 DR16 K16 DB16 K2 DB2 K2 DB16 K16 DR16 K2 DR16 K16 DB2 K2 DB2 K/2 — 392 threads; it folds to the canonical 208-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **392 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/22 K2 DB2 K2 DB2 K16 DR16 K2 DR16 K16 DB16 K2 DB2 K2 DB16 K16 DR16 K2 DR16 K16 DB2 K2 DB2 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/22 K2 DB2 K2 DB2 K16 DR16 K2 DR16 K16 DB16 K2 DB/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

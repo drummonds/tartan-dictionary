@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/">Chattan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/"><img src="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/sett.png" alt="Chattan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chattan-3/">Chattan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chattan-3/"><img src="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/sett.png" alt="Chattan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

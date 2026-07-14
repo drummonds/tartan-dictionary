@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Manitoba"
   url: "/clan/manitoba/"
+aliases:
+- "/setts/y3db8w3db34r34dg4r4w2/"
+- "/setts/ly3db8w3db34r34g4r4w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbwbrgrw/">GBWBRGRW</a></nav>
 A tartan of [Clan Manitoba](/clan/manitoba/).
 Its design is pattern [GBWBRGRW](/stripes/gbwbrgrw/) — the page of every tartan sharing this colour sequence.
 
@@ -16,10 +20,10 @@ The **Manitoba Masonic** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y3db8w3db34r34dg4r4w2/">Manitoba Masonic</a> ★</td><td><code>Y/6 DB16 W6 DB68 R68 DG8 R8 W/4</code></td><td>358</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y3db8w3db34r34dg4r4w2/"><img src="/variants/s8/y3db8w3db34r34dg4r4w2~x2/sett.png" alt="Manitoba Masonic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/ly3db8w3db34r34g4r4w2/">(Corporate)</a></td><td><code>LY/6 DB16 W6 DB68 R68 G8 R8 W/4</code></td><td>358</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly3db8w3db34r34g4r4w2/"><img src="/variants/s8/ly3db8w3db34r34g4r4w2~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/">Manitoba Masonic</a> ★</td><td><code>Y/6 DB16 W6 DB68 R68 DG8 R8 W/4</code></td><td>358</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><img src="/variants/s8/y3db8w3db34r34dg4r4w2~x2/sett.png" alt="Manitoba Masonic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly3db8w3db34r34g4r4w2~x2/">(Corporate)</a></td><td><code>LY/6 DB16 W6 DB68 R68 G8 R8 W/4</code></td><td>358</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly3db8w3db34r34g4r4w2~x2/"><img src="/variants/s8/ly3db8w3db34r34g4r4w2~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/"><circle cx="233.5" cy="140.1" r="4" fill="#3465a4"><title>Cherry, John S</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.0" cy="174.9" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s8/dg8db5k1db17r10db2r10n2~x2/"><circle cx="229.5" cy="165.8" r="4" fill="#3465a4"><title>Harrower, John Anthony</title></circle></a><a href="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/"><circle cx="291.4" cy="131.3" r="4" fill="#3465a4"><title>Sea Dog Bamse</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.3" cy="146.6" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="294.9" cy="184.6" r="4" fill="#3465a4"><title>Superfast Ferries</title></circle></a><a href="/variants/s9/r4y2r34db10g4db4t4db23w3~x2~t2405244/"><circle cx="236.1" cy="127.1" r="4" fill="#3465a4"><title>Heirloom Red Alba</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="230.0" cy="143.8" r="4" fill="#3465a4"><title>Americana</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="298.8" cy="143.2" r="4" fill="#3465a4"><title>Mercer</title></circle></a><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="297.7" cy="143.1" r="4" fill="#3465a4"><title>Mercer, James</title></circle></a><circle cx="268.5" cy="136.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/"><circle cx="234.1" cy="139.9" r="4" fill="#3465a4"><title>Cherry, John S</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.5" cy="174.8" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s8/dg8db5k1db17r10db2r10n2~x2/"><circle cx="230.0" cy="165.7" r="4" fill="#3465a4"><title>Harrower, John Anthony</title></circle></a><a href="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/"><circle cx="292.1" cy="131.2" r="4" fill="#3465a4"><title>Sea Dog Bamse</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.9" cy="146.4" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="295.5" cy="184.6" r="4" fill="#3465a4"><title>Superfast Ferries</title></circle></a><a href="/variants/s9/r4y2r34db10g4db4t4db23w3~x2~t2405244/"><circle cx="236.6" cy="126.9" r="4" fill="#3465a4"><title>Heirloom Red Alba</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="230.7" cy="143.6" r="4" fill="#3465a4"><title>Americana</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="299.5" cy="143.2" r="4" fill="#3465a4"><title>Mercer</title></circle></a><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="298.4" cy="143.0" r="4" fill="#3465a4"><title>Mercer, James</title></circle></a><circle cx="269.1" cy="135.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

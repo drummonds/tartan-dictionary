@@ -8,10 +8,10 @@ crumbs:
 - name: "Tartan Army Whisky"
   url: "/tartans/t/ta/tartan-army-whisky/"
 - name: "Tartan Army Whisky"
-  url: "/setts/r26g5dg7dr2do9lo1loi1dg4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r26g5dg7dr2do9lo1loi1dg4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ta/tartan-army-whisky/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYYBBGGR](/stripes/gyybbggr/).
 
 Part of the [Tartan Army Whisky](/tartans/t/ta/tartan-army-whisky/) tartan — the named design grouping this sett with its other cloths.

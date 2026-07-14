@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r2g5db27g11o2~x2/">Hector James</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r2g5db27g11o2~x2/"><img src="/variants/s5/r2g5db27g11o2~x2/sett.png" alt="Hector James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hector-james/">Hector, James</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hector-james/"><img src="/variants/s5/r2g5db27g11o2~x2/sett.png" alt="Hector, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

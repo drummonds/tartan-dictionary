@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/">Haughdale</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/"><img src="/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/sett.png" alt="Haughdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/haughdale/">Haughdale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haughdale/"><img src="/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/sett.png" alt="Haughdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

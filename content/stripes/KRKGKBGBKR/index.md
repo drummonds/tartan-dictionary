@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/">Process Safety Solutions Ltd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><img src="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/sett.png" alt="Process Safety Solutions Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/process-safety-solutions-ltd/">Process Safety Solutions Ltd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/process-safety-solutions-ltd/"><img src="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/sett.png" alt="Process Safety Solutions Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

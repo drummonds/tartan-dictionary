@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/bell/"
 - name: "Bell of the Borders"
   url: "/families/bell-of-the-borders/"
+aliases:
+- "/setts/r3g2k9b2k2b24y2b2y1/"
+- "/setts/r3g2k9lb2k2lb24y2lb2y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgbkbkgr/">GBGBKBKGR</a></nav>
 A tartan of the [Bell of the Borders](/families/bell-of-the-borders/) family.
 Its design is pattern [GBGBKBKGR](/stripes/gbgbkbkgr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Bell of the Borders.** tartan groups 2 setts — the same named design rec
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3g2k9b2k2b24y2b2y1/">Bell of the Borders.</a> ★</td><td><code>R/6 G4 K18 B4 K4 B48 Y4 B4 Y/2</code></td><td>180</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g2k9b2k2b24y2b2y1/"><img src="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/sett.png" alt="Bell of the Borders. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r3g2k9lb2k2lb24y2lb2y1/">Bell of the Borders (Name)</a></td><td><code>R/12 G8 K36 LB8 K8 LB96 Y8 LB8 Y/4</code></td><td>360</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g2k9lb2k2lb24y2lb2y1/"><img src="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/sett.png" alt="Bell of the Borders (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/">Bell of the Borders.</a> ★</td><td><code>R/6 G4 K18 B4 K4 B48 Y4 B4 Y/2</code></td><td>180</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><img src="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/sett.png" alt="Bell of the Borders. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/">Bell of the Borders (Name)</a></td><td><code>R/12 G8 K36 LB8 K8 LB96 Y8 LB8 Y/4</code></td><td>360</td><td>1984</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/"><img src="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/sett.png" alt="Bell of the Borders (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -40,6 +44,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.7" cy="81.3" r="4" fill="#3465a4"><title>Bell</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="277.9" cy="128.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s13/b38k4r3dy6w2dy2w2dy2k12b6dy2b6w2~x2/"><circle cx="266.6" cy="77.3" r="4" fill="#3465a4"><title>Leando Dress</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="265.8" cy="110.6" r="4" fill="#3465a4"><title>Jack Sinclair</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="347.6" cy="101.2" r="4" fill="#3465a4"><title>Leblant-Macqueron</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="274.7" cy="80.8" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="273.4" cy="97.3" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><a href="/variants/s11/db74r6k12y3k3w3r16db8k3r4w3~x2/"><circle cx="322.1" cy="61.4" r="4" fill="#3465a4"><title>Suffolk County Police</title></circle></a><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/"><circle cx="328.7" cy="94.2" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, hunting</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="355.1" cy="88.2" r="4" fill="#3465a4"><title>European Union</title></circle></a><circle cx="303.5" cy="88.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="282.6" cy="81.2" r="4" fill="#3465a4"><title>Bell</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="278.7" cy="128.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s13/b38k4r3dy6w2dy2w2dy2k12b6dy2b6w2~x2/"><circle cx="267.5" cy="77.2" r="4" fill="#3465a4"><title>Leando Dress</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="266.7" cy="110.5" r="4" fill="#3465a4"><title>Jack Sinclair</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="348.6" cy="101.2" r="4" fill="#3465a4"><title>Leblant-Macqueron</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="275.7" cy="80.7" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="274.2" cy="97.3" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><a href="/variants/s11/db74r6k12y3k3w3r16db8k3r4w3~x2/"><circle cx="323.2" cy="61.4" r="4" fill="#3465a4"><title>Suffolk County Police</title></circle></a><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/"><circle cx="329.7" cy="94.2" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, hunting</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="356.2" cy="88.2" r="4" fill="#3465a4"><title>European Union</title></circle></a><circle cx="304.5" cy="88.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

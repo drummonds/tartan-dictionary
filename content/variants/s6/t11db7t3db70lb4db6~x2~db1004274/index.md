@@ -12,10 +12,10 @@ crumbs:
 - name: "Auchairne"
   url: "/tartans/a/au/auchairne-2/"
 - name: "Auchairne"
-  url: "/setts/t11db7t3db70lb4db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t11db7t3db70lb4db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/auchairne-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWB](/stripes/bbbbwb/).
 
 Part of the [Auchairne](/tartans/a/au/auchairne-2/) tartan — the named design grouping this sett with its other cloths.

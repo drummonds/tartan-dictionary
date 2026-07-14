@@ -8,10 +8,10 @@ crumbs:
 - name: "Wright, Anne"
   url: "/tartans/w/wr/wright-anne/"
 - name: "Wright, Anne (Personal)"
-  url: "/setts/db12lb6g30db9r8y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db12lb6g30db9r8y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wr/wright-anne/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGBRG](/stripes/bwgbrg/).
 
 Part of the [Wright, Anne](/tartans/w/wr/wright-anne/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "Michie Dress, Andrew"
   url: "/tartans/m/mi/michie-dress-andrew/"
 - name: "Michie Dress, Andrew"
-  url: "/setts/dp62g5dg20db5k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp62g5dg20db5k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/michie-dress-andrew/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBK](/stripes/bggbk/).
 
 Part of the [Michie Dress, Andrew](/tartans/m/mi/michie-dress-andrew/) tartan — the named design grouping this sett with its other cloths.

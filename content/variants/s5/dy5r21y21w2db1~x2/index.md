@@ -12,10 +12,10 @@ crumbs:
 - name: "Haughey"
   url: "/tartans/h/ha/haughey/"
 - name: "Haughey (2015)"
-  url: "/setts/dy5r21y21w2db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy5r21y21w2db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/haughey/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGRG](/stripes/bwgrg/).
 
 Part of the [Haughey](/tartans/h/ha/haughey/) tartan — the named design grouping this sett with its other cloths.

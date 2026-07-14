@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/">Langhein Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/"><img src="/variants/s7/k40dg15k10r2k10y2k10~x2/sett.png" alt="Langhein Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/langhein/">Langhein</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/langhein/"><img src="/variants/s7/k40dg15k10r2k10y2k10~x2/sett.png" alt="Langhein sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/">Entrepreneurial Spark</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/"><img src="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/sett.png" alt="Entrepreneurial Spark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/en/entrepreneurial-spark/">Entrepreneurial Spark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/en/entrepreneurial-spark/"><img src="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/sett.png" alt="Entrepreneurial Spark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Huntly Old"
   url: "/tartans/h/hu/huntly-old/"
 - name: "Huntly Old"
-  url: "/setts/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/huntly-old/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRWKWGWGWGRKRK](/stripes/gwrwkwgwgwgrkrk/).
 
 Part of the [Huntly Old](/tartans/h/hu/huntly-old/) tartan — the named design grouping this sett with its other cloths.

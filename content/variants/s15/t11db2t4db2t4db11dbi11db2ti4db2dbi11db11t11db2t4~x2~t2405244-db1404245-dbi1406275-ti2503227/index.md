@@ -8,10 +8,10 @@ crumbs:
 - name: "William Murdoch"
   url: "/tartans/w/wi/william-murdoch/"
 - name: "William Murdoch (Scottish Gas) Corporate Tartan"
-  url: "/setts/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/william-murdoch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbb/).
 
 Part of the [William Murdoch](/tartans/w/wi/william-murdoch/) tartan — the named design grouping this sett with its other cloths.

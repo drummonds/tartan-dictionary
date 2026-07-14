@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/">Borrodale</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/"><img src="/variants/s8/r5db3r3db29k29g29w4r4~x2/sett.png" alt="Borrodale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/borrodale/">Borrodale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/borrodale/"><img src="/variants/s8/r5db3r3db29k29g29w4r4~x2/sett.png" alt="Borrodale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

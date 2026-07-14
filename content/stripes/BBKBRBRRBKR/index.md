@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n2dr2k37dr3ri2dr3r1ri4dr4k19ri1~x2~dr1302028-ri1606028/">Brodie, Graeme (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n2dr2k37dr3ri2dr3r1ri4dr4k19ri1~x2~dr1302028-ri1606028/"><img src="/variants/s11/n2dr2k37dr3ri2dr3r1ri4dr4k19ri1~x2~dr1302028-ri1606028/sett.png" alt="Brodie, Graeme (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brodie-graeme/">Brodie, Graeme</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brodie-graeme/"><img src="/variants/s11/n2dr2k37dr3ri2dr3r1ri4dr4k19ri1~x2~dr1302028-ri1606028/sett.png" alt="Brodie, Graeme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

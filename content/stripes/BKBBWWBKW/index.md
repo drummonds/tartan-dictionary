@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/">Hebridean Arisaid Blue (Dance) Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/"><img src="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/sett.png" alt="Hebridean Arisaid Blue (Dance) Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebridean-arisaid-2/">Hebridean Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-arisaid-2/"><img src="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/sett.png" alt="Hebridean Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

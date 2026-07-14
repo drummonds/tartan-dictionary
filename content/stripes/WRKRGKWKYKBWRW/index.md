@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/">Hay - Stewart (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><img src="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/sett.png" alt="Hay - Stewart (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hay-3/">Hay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-3/"><img src="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/sett.png" alt="Hay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

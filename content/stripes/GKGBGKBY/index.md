@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/">Guelph, City Of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><img src="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/sett.png" alt="Guelph, City Of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/guelph-city-of/">Guelph, City Of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/guelph-city-of/"><img src="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/sett.png" alt="Guelph, City Of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/dr18k3dr2~x4/">Buie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dr18k3dr2~x4/"><img src="/variants/s3/dr18k3dr2~x4/sett.png" alt="Buie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buie/">Buie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buie/"><img src="/variants/s3/dr18k3dr2~x4/sett.png" alt="Buie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/b3k2db2~x4/">Glen Lyon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/b3k2db2~x4/"><img src="/variants/s3/b3k2db2~x4/sett.png" alt="Glen Lyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-lyon-4/">Glen Lyon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-lyon-4/"><img src="/variants/s3/b3k2db2~x4/sett.png" alt="Glen Lyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/db1k12db1~x10/">Staines (2013)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/db1k12db1~x10/"><img src="/variants/s3/db1k12db1~x10/sett.png" alt="Staines (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/staines/">Staines</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/staines/"><img src="/variants/s3/db1k12db1~x10/sett.png" alt="Staines sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

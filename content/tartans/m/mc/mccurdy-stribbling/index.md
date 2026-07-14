@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db15k20n12r34lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbrw/">BKBRW</a></nav>
 Its design is pattern [BKBRW](/stripes/bkbrw/) — the page of every tartan sharing this colour sequence.
 
 The **McCurdy-Stribbling** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **McCurdy-Stribbling** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db15k20n12r34lb3/">McCurdy-Stribbling</a></td><td><code>DB/30 K40 N24 R68 LB/6</code></td><td>300</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db15k20n12r34lb3/"><img src="/variants/s5/db15k20n12r34lb3~x2/sett.png" alt="McCurdy-Stribbling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db15k20n12r34lb3~x2/">McCurdy-Stribbling</a></td><td><code>DB/30 K40 N24 R68 LB/6</code></td><td>300</td><td>~2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db15k20n12r34lb3~x2/"><img src="/variants/s5/db15k20n12r34lb3~x2/sett.png" alt="McCurdy-Stribbling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="143.9" cy="184.4" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="140.6" cy="187.4" r="4" fill="#3465a4"><title>Baillie of Polkemmet</title></circle></a><a href="/variants/s5/dy4r27k12db15dy4~x2/"><circle cx="181.4" cy="215.0" r="4" fill="#3465a4"><title>Aberdeen University</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="221.4" cy="135.3" r="4" fill="#3465a4"><title>Wormeck German</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.8" cy="157.5" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="178.6" cy="154.1" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s6/dg3b3r22k5ki22y2~x2~ki0604259/"><circle cx="157.3" cy="143.6" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="165.8" cy="211.0" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s6/dr11n3dr12k11t11w1~x2/"><circle cx="193.2" cy="205.9" r="4" fill="#3465a4"><title>Dunfermline</title></circle></a><a href="/variants/s5/k4db2o13m13w2~x4/"><circle cx="165.0" cy="207.0" r="4" fill="#3465a4"><title>Think Pink</title></circle></a><circle cx="151.8" cy="196.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="144.3" cy="184.1" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="141.0" cy="187.1" r="4" fill="#3465a4"><title>Baillie of Polkemmet</title></circle></a><a href="/variants/s5/dy4r27k12db15dy4~x2/"><circle cx="181.8" cy="214.9" r="4" fill="#3465a4"><title>Aberdeen University</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="222.2" cy="135.2" r="4" fill="#3465a4"><title>Wormeck German</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="161.3" cy="157.3" r="4" fill="#3465a4"><title>Rose Dress White Dress</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="179.1" cy="153.9" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s6/dg3b3r22k5ki22y2~x2~ki0604259/"><circle cx="157.8" cy="143.4" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="166.2" cy="210.8" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s6/dr11n3dr12k11t11w1~x2/"><circle cx="193.6" cy="205.8" r="4" fill="#3465a4"><title>Dunfermline</title></circle></a><a href="/variants/s5/k4db2o13m13w2~x4/"><circle cx="165.3" cy="206.7" r="4" fill="#3465a4"><title>Think Pink</title></circle></a><circle cx="152.2" cy="196.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

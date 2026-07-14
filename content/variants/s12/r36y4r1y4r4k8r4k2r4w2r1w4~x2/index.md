@@ -8,10 +8,10 @@ crumbs:
 - name: "Manchester Reds"
   url: "/tartans/m/ma/manchester-reds/"
 - name: "Manchester Reds"
-  url: "/setts/r36y4r1y4r4k8r4k2r4w2r1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r36y4r1y4r4k8r4k2r4w2r1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/manchester-reds/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRKRKRWRW](/stripes/rgrgrkrkrwrw/).
 
 Part of the [Manchester Reds](/tartans/m/ma/manchester-reds/) tartan — the named design grouping this sett with its other cloths.

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g16db4g8k2y1k6w8r10/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgkgkwr/">GBGKGKWR</a></nav>
 Its design is pattern [GBGKGKWR](/stripes/gbgkgkwr/) — the page of every tartan sharing this colour sequence.
 
 The **Red Deer, City of** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Red Deer, City of** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g16db4g8k2y1k6w8r10/">Red Deer, City of</a></td><td><code>G/32 DB8 G16 K4 Y2 K12 W16 R/20</code></td><td>168</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g16db4g8k2y1k6w8r10/"><img src="/variants/s8/g16db4g8k2y1k6w8r10~x2/sett.png" alt="Red Deer, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/">Red Deer, City of</a></td><td><code>G/32 DB8 G16 K4 Y2 K12 W16 R/20</code></td><td>168</td><td>1996</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><img src="/variants/s8/g16db4g8k2y1k6w8r10~x2/sett.png" alt="Red Deer, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="126.0" cy="191.2" r="4" fill="#3465a4"><title>Entre Rios Province</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/"><circle cx="145.1" cy="149.9" r="4" fill="#3465a4"><title>Wilson's, No 33</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="137.5" cy="137.4" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="149.7" cy="146.7" r="4" fill="#3465a4"><title>Garvock</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="114.9" cy="188.3" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19w2g17r4~x2/"><circle cx="150.8" cy="156.2" r="4" fill="#3465a4"><title>Wilson's, No 2/33</title></circle></a><a href="/variants/s8/db2w12k8g8r2g8k1y2~x2/"><circle cx="85.0" cy="160.1" r="4" fill="#3465a4"><title>MacLaren Dress</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="182.1" cy="142.3" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S</title></circle></a><a href="/variants/s6/g27db12k12r9k1y2~x2/"><circle cx="185.4" cy="143.5" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="83.8" cy="154.4" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><circle cx="119.7" cy="154.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="126.3" cy="191.0" r="4" fill="#3465a4"><title>Entre Rios Province</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/"><circle cx="145.4" cy="149.6" r="4" fill="#3465a4"><title>Wilson's, No 33</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="138.0" cy="137.2" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="150.1" cy="146.5" r="4" fill="#3465a4"><title>Garvock</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="115.1" cy="188.0" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19w2g17r4~x2/"><circle cx="151.1" cy="155.9" r="4" fill="#3465a4"><title>Wilson's, No 2/33</title></circle></a><a href="/variants/s8/db2w12k8g8r2g8k1y2~x2/"><circle cx="85.2" cy="159.8" r="4" fill="#3465a4"><title>MacLaren Dress</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="182.6" cy="142.2" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S</title></circle></a><a href="/variants/s6/g27db12k12r9k1y2~x2/"><circle cx="185.9" cy="143.4" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="84.1" cy="154.1" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><circle cx="120.0" cy="153.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

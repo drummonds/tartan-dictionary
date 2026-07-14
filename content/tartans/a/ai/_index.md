@@ -8,7 +8,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/a/ai/ais-group/"><img src="/variants/s15/k56dt3lb6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lb6~dt1102249-db1605267-t2003208/sett.png" alt="AIS Group" width="140"><br><strong>AIS Group (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ai/aiton/"><img src="/variants/s8/db6k1g3k1db3k1g10r3~x2/sett.png" alt="AIton" width="140"><br><strong>AIton (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/a/ai/ailsa/"><img src="/variants/s6/y8w3y28w32dp3w4~x2/sett.png" alt="Ailsa" width="140"><br><strong>Ailsa (1)</strong></a><div class="clan-territory">Ailsa</div></li>
-<li><a class="tartan" href="/tartans/a/ai/ailsa-2/"><img src="/variants/s6/r8dr3r28w32dr3w4~x2~r2108022/sett.png" alt="Ailsa" width="140"><br><strong>Ailsa (1)</strong></a><div class="clan-territory">Ailsa</div></li>
+<li><a class="tartan" href="/tartans/a/ai/ailsa-2/"><img src="/variants/s6/r8dr3r28w32dr3w4~x2/sett.png" alt="Ailsa" width="140"><br><strong>Ailsa (1)</strong></a><div class="clan-territory">Ailsa</div></li>
 <li><a class="tartan" href="/tartans/a/ai/ailsa-3/"><img src="/variants/s9/o9w9o9n25o1w1o1w1g3~x2~o2500000-n1900000/sett.png" alt="Ailsa" width="140"><br><strong>Ailsa (1)</strong></a><div class="clan-territory">Ailsa</div></li>
 <li><a class="tartan" href="/tartans/a/ai/ailsa-craig/"><img src="/variants/s8/r5w2db20y2k16w18k2w5~x2/sett.png" alt="Ailsa Craig" width="140"><br><strong>Ailsa Craig (2)</strong></a><div class="clan-territory">Clan Ailsa</div></li>
 <li><a class="tartan" href="/tartans/a/ai/ailsa-craig-2/"><img src="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/sett.png" alt="Ailsa Craig" width="140"><br><strong>Ailsa Craig (1)</strong></a><div class="clan-territory">Clan Ailsa</div></li>

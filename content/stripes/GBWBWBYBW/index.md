@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w12db79lo6db53lb4db22lp10db24g8/">Centrica Energy (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w12db79lo6db53lb4db22lp10db24g8/"><img src="/variants/s9/w12db79lo6db53lb4db22lp10db24g8/sett.png" alt="Centrica Energy (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/centrica-energy/">Centrica Energy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/centrica-energy/"><img src="/variants/s9/w12db79lo6db53lb4db22lp10db24g8/sett.png" alt="Centrica Energy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

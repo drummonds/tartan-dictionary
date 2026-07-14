@@ -8,10 +8,10 @@ crumbs:
 - name: "Montessori School of Denver"
   url: "/tartans/m/mo/montessori-school-of-denver/"
 - name: "Montessori School of Denver"
-  url: "/setts/g25r9lb3y7w3dp11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g25r9lb3y7w3dp11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/montessori-school-of-denver/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWRG](/stripes/bwgwrg/).
 
 Part of the [Montessori School of Denver](/tartans/m/mo/montessori-school-of-denver/) tartan — the named design grouping this sett with its other cloths.

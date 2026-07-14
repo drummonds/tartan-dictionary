@@ -10,10 +10,10 @@ crumbs:
 - name: "Dunbar, John Telfer"
   url: "/tartans/d/du/dunbar-john-telfer/"
 - name: "Dunbar, John Telfer (Personal)"
-  url: "/setts/do5k2do28k10do26k4do4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do5k2do28k10do26k4do4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunbar-john-telfer/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKB](/stripes/bkbkbkb/).
 
 Part of the [Dunbar, John Telfer](/tartans/d/du/dunbar-john-telfer/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1020](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Dunbar, John Telfer (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1020">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Private family sett. 'Tartans' (1999) by Johnston/Smith refers to it as 'Fancy'.</em></li>
-<li>pre 2002 — Dunbar, John Telfer (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4745">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#883000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #883000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Private family sett. 'Tartans' (1999) by Johnston/Smith refers to it as 'Fancy'.</em></li>
+<li>pre 2002 — Dunbar, John Telfer (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4745/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#883000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #883000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Private family sett. 'Tartans' (1999) by Johnston/Smith refers to it as 'Fancy'.</em></li>
 </ul>
 </details>
 

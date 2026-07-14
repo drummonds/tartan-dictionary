@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Ness in Scotland"
   url: "/tartans/l/lo/loch-ness-in-scotland/"
 - name: "Loch Ness in Scotland"
-  url: "/setts/g2db14lg6n1g1n6r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2db14lg6n1g1n6r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-ness-in-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBYBGBR](/stripes/gbybgbr/).
 
 Part of the [Loch Ness in Scotland](/tartans/l/lo/loch-ness-in-scotland/) tartan — the named design grouping this sett with its other cloths.

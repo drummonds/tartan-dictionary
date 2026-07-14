@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/">Melieres-Frost</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/"><img src="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/sett.png" alt="Melieres-Frost sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/melieres-frost/">Melieres-Frost</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/melieres-frost/"><img src="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/sett.png" alt="Melieres-Frost sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

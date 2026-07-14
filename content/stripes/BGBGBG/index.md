@@ -28,23 +28,22 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/do1dy6do6dy1n6dy1~x8/">Brown Heather (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/do1dy6do6dy1n6dy1~x8/"><img src="/variants/s6/do1dy6do6dy1n6dy1~x8/sett.png" alt="Brown Heather (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inkster-2/">Inkster</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inkster-2/"><img src="/variants/s6/g25db10dy3db2dy2db6~x2/sett.png" alt="Inkster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal/">Royal &amp;</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal/"><img src="/variants/s6/g49db16dy3db2dy2db6~x2/sett.png" alt="Royal &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/do6g3do3g11do1g2~x4/">Carnet (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/do6g3do3g11do1g2~x4/"><img src="/variants/s6/do6g3do3g11do1g2~x4/sett.png" alt="Carnet (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brown-heather/">Brown Heather</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brown-heather/"><img src="/variants/s6/do1dy6do6dy1n6dy1~x8/sett.png" alt="Brown Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dy6dp2dy29dp29dy2dp6~x2/">Harmony 11</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dy6dp2dy29dp29dy2dp6~x2/"><img src="/variants/s6/dy6dp2dy29dp29dy2dp6~x2/sett.png" alt="Harmony 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carnet/">Carnet</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carnet/"><img src="/variants/s6/do6g3do3g11do1g2~x4/sett.png" alt="Carnet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db6g2db29g29db2g6~x2/">Harmony 12</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db6g2db29g29db2g6~x2/"><img src="/variants/s6/db6g2db29g29db2g6~x2/sett.png" alt="Harmony 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harmony-11/">Harmony 11</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-11/"><img src="/variants/s6/dy6dp2dy29dp29dy2dp6~x2/sett.png" alt="Harmony 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/">Harmony 12 #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/"><img src="/variants/s6/dy6n2dy29n29dy2n6~x2/sett.png" alt="Harmony 12 #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/g49db16dy3db2dy2db6~x2/">Royal and Ancient, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g49db16dy3db2dy2db6~x2/"><img src="/variants/s6/g49db16dy3db2dy2db6~x2/sett.png" alt="Royal and Ancient, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harmony-12/">Harmony 12</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-12/"><img src="/variants/s6/db6g2db29g29db2g6~x2/sett.png" alt="Harmony 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

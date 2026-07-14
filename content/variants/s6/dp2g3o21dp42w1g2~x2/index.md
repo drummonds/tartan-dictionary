@@ -12,10 +12,10 @@ crumbs:
 - name: "SiMBA"
   url: "/tartans/s/si/simba-2/"
 - name: "SiMBA"
-  url: "/setts/dp2g3o21dp42w1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2g3o21dp42w1g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/simba-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBWG](/stripes/bgrbwg/).
 
 Part of the [SiMBA](/tartans/s/si/simba-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/">Antarctic</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/"><img src="/variants/s12/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/sett.png" alt="Antarctic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/antarctic/">Antarctic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/antarctic/"><img src="/variants/s12/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/sett.png" alt="Antarctic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

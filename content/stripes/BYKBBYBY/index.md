@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/">US Air Force Reserve Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><img src="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/sett.png" alt="US Air Force Reserve Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/us/us-air-force-reserve-pipe-band/">US Air Force Reserve Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/us/us-air-force-reserve-pipe-band/"><img src="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/sett.png" alt="US Air Force Reserve Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

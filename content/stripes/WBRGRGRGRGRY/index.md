@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/">Bruce County (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/"><img src="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/sett.png" alt="Bruce County (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bruce-county/">Bruce County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bruce-county/"><img src="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/sett.png" alt="Bruce County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

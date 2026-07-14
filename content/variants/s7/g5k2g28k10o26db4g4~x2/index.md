@@ -8,10 +8,10 @@ crumbs:
 - name: "John Telfar, Dunbar hunting"
   url: "/tartans/j/jo/john-telfar-dunbar-hunting-2/"
 - name: "John Telfar, Dunbar hunting"
-  url: "/setts/g5k2g28k10o26db4g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g5k2g28k10o26db4g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/jo/john-telfar-dunbar-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRKGKG](/stripes/gbrkgkg/).
 
 Part of the [John Telfar, Dunbar hunting](/tartans/j/jo/john-telfar-dunbar-hunting-2/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Lebrun"
   url: "/tartans/l/le/lebrun/"
 - name: "Lebrun"
-  url: "/setts/lr40k11do8lr2do8k6lr2k16lr1k16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lr40k11do8lr2do8k6lr2k16lr1k16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/lebrun/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYKBYBKY](/stripes/kykykbybky/).
 
 Part of the [Lebrun](/tartans/l/le/lebrun/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2077](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Lebrun (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2077">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #F8F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#985428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #985428"></span><br><em>From Highland Queen Sportswear of Toronto in 1972. Woven sample. Can't see the complete sett so not too sure of second broad white band.</em></li>
-<li>pre 1972 — Lebrun (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5404">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #F8F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#985428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #985428"></span><br><em>Asymmetric. From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Woven sample. Can't see the complete sett so not too sure of second broad white band.</em></li>
+<li>pre 1972 — Lebrun (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5404/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #F8F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#985428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #985428"></span><br><em>Asymmetric. From Highland Queen Sportswear of 196 Spadina Avenue Toronto in 1972. Woven sample. Can't see the complete sett so not too sure of second broad white band.</em></li>
 </ul>
 </details>
 

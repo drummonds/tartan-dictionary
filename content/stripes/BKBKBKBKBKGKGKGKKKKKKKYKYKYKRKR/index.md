@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/dp2k2dp1k14db1k2db2k2db1k14g1k2g2k2g1k36lo1k2lo2k2lo1k14r1k2r2~x2/">Same Sex Marriage</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/dp2k2dp1k14db1k2db2k2db1k14g1k2g2k2g1k36lo1k2lo2k2lo1k14r1k2r2~x2/"><img src="/variants/s25/dp2k2dp1k14db1k2db2k2db1k14g1k2g2k2g1k36lo1k2lo2k2lo1k14r1k2r2~x2/sett.png" alt="Same Sex Marriage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/same-sex-marriage/">Same Sex Marriage</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/same-sex-marriage/"><img src="/variants/s25/dp2k2dp1k14db1k2db2k2db1k14g1k2g2k2g1k36lo1k2lo2k2lo1k14r1k2r2~x2/sett.png" alt="Same Sex Marriage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

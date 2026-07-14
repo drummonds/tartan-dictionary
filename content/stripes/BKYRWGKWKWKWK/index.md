@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5ly3k3db14/">Western Australia-Pending (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5ly3k3db14/"><img src="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5ly3k3db14/sett.png" alt="Western Australia-Pending (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/western-australia-pending/">Western Australia-Pending</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/western-australia-pending/"><img src="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5ly3k3db14/sett.png" alt="Western Australia-Pending sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

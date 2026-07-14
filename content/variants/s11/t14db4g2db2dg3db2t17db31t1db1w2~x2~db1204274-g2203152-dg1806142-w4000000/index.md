@@ -8,15 +8,15 @@ crumbs:
 - name: "Schiehallion"
   url: "/tartans/s/sc/schiehallion/"
 - name: "Schiehallion"
-  url: "/setts/t14db4g2db2dg3db2t17db31t1db1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t14db4g2db2dg3db2t17db31t1db1w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBBBGBGBBBGBGBBBBBW](/stripes/bbbbbgbgbbbgbgbbbbbw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/schiehallion/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBGBBBBBW](/stripes/bbgbgbbbbbw/).
 
 Part of the [Schiehallion](/tartans/s/sc/schiehallion/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3664](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3664)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5903
 
 ## Thread count
-W/4 DB2 T2 DB62 T34 DB4 DG6 DB4 G4 DB8 T28 DB8 G4 DB4 DG6 DB4 T34 DB62 T2 DB/2
+T/28 DT8 G4 DT4 DG6 DT4 T34 DT62 T2 DT2 W/4
 
-One full sett is **562 threads**.
+One full sett is **284 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/4 DB2 T2 DB62 T34 DB4 DG6 DB4 G4 DB8 T28 DB8 G4 DB4 DG6 DB4 T34 DB62 T2 DB/2 — 562 threads; it folds to the canonical 284-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **562 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/4 DB2 T2 DB62 T34 DB4 DG6 DB4 G4 DB8 T28 DB8 G4 DB4 DG6 DB4 T34 DB62 T2 DB/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/28 DT8 G4 DT4 DG6 DT4 T34 DT62 T2 DT2 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

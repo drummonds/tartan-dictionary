@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/">Blackdown Hills Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><img src="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/sett.png" alt="Blackdown Hills Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blackdown-hills/">Blackdown Hills</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blackdown-hills/"><img src="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/sett.png" alt="Blackdown Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/">MacCaslan (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/"><img src="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/sett.png" alt="MacCaslan (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maccaslan/">MacCaslan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccaslan/"><img src="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/sett.png" alt="MacCaslan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

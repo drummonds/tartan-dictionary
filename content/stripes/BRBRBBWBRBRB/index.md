@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/">Shieldhall (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/"><img src="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/sett.png" alt="Shieldhall (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shieldhall-2/">Shieldhall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shieldhall-2/"><img src="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/sett.png" alt="Shieldhall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

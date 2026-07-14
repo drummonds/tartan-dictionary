@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/">Chinzei Keiai School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/"><img src="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/sett.png" alt="Chinzei Keiai School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chinzei-keiai-school/">Chinzei Keiai School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chinzei-keiai-school/"><img src="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/sett.png" alt="Chinzei Keiai School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

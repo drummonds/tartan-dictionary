@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/">Lawlis/Lawless</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><img src="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/sett.png" alt="Lawlis/Lawless sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lawlis-lawless/">Lawlis/Lawless</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lawlis-lawless/"><img src="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/sett.png" alt="Lawlis/Lawless sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/dr3y2dr12y2dr3y8dr2y8dr2~x2/">MacMillan Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dr3y2dr12y2dr3y8dr2y8dr2~x2/"><img src="/variants/s9/dr3y2dr12y2dr3y8dr2y8dr2~x2/sett.png" alt="MacMillan Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macmillan-dress/">MacMillan Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macmillan-dress/"><img src="/variants/s9/dr3y2dr12y2dr3y8dr2y8dr2~x2/sett.png" alt="MacMillan Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/">Manx Centenary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/"><img src="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/sett.png" alt="Manx Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-centenary/">Manx Centenary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-centenary/"><img src="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/sett.png" alt="Manx Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Hakkarain"
   url: "/tartans/h/ha/hakkarain/"
 - name: "Hakkarain (Personal)"
-  url: "/setts/ki37w18k37r2k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ki37w18k37r2k2r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKRKRKRKW](/stripes/kwkrkrkrkw/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hakkarain/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKRKR](/stripes/kwkrkr/).
 
 Part of the [Hakkarain](/tartans/h/ha/hakkarain/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1570](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1570)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1570](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Hakkarain (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1570">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #000040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A personal tartan designed by Jari Hakkarainen of Porvoo in Finland. Blue needs to be much draker, Midnight blue. Sample in Scottish Tartans Authority's Collection.</em></li>
-<li>pre 2004 — Hakkarain (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6151">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #000040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A personal tartan designed by Jari Hakkarainen of Porvoo in Finland. Blue needs to be much draker Midnight blue. Sample in STA Collection.</em></li>
+<li>pre 2004 — Hakkarain (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6151/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #000040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A personal tartan designed by Jari Hakkarainen of Porvoo in Finland. Blue needs to be much draker Midnight blue. Sample in STA Collection.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6151
 
 ## Thread count
-Ki/74 W36 K74 R4 K4 R4 K4 R4 K74 W/36
+Ki/74 W36 K74 R4 K4 R/4
 
-One full sett is **518 threads**.
+One full sett is **314 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Ki/74 W36 K74 R4 K4 R4 K4 R4 K74 W/36 — 518 threads; it folds to the canonical 314-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **518 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Ki/74 W36 K74 R4 K4 R4 K4 R4 K74 W/36 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Ki/74 W36 K74 R4 K4 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

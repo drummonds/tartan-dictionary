@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/">Lindley-Highfield (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/"><img src="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/sett.png" alt="Lindley-Highfield (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/lindley-highfield/">Lindley-Highfield</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/lindley-highfield/"><img src="/variants/s7/dg7dp3w1g2dg1lp2dp1~x8/sett.png" alt="Lindley-Highfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

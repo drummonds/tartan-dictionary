@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o63k4lb9y2db4y2db4o11r8lb2r4w5~x2/">Seller, Sillar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o63k4lb9y2db4y2db4o11r8lb2r4w5~x2/"><img src="/variants/s12/o63k4lb9y2db4y2db4o11r8lb2r4w5~x2/sett.png" alt="Seller, Sillar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/seller-sillar/">Seller, Sillar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/seller-sillar/"><img src="/variants/s12/o63k4lb9y2db4y2db4o11r8lb2r4w5~x2/sett.png" alt="Seller, Sillar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

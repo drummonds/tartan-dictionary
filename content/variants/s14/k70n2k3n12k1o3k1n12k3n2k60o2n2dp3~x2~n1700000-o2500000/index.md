@@ -12,10 +12,10 @@ crumbs:
 - name: "Grassi"
   url: "/tartans/g/gr/grassi-2/"
 - name: "Grassi (2009)"
-  url: "/setts/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grassi-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRKBKBKRKBKBK](/stripes/bbrkbkbkrkbkbk/).
 
 Part of the [Grassi](/tartans/g/gr/grassi-2/) tartan — the named design grouping this sett with its other cloths.

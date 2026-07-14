@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dp26ly2r3ly2dp26k13y2k8w3k8y2k13~x2~ly3307090-y2502222/">Curnow of Kernow (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dp26ly2r3ly2dp26k13y2k8w3k8y2k13~x2~ly3307090-y2502222/"><img src="/variants/s12/dp26ly2r3ly2dp26k13y2k8w3k8y2k13~x2~ly3307090-y2502222/sett.png" alt="Curnow of Kernow (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/curnow-of-kernow-2/">Curnow of Kernow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/curnow-of-kernow-2/"><img src="/variants/s12/dp26ly2r3ly2dp26k13y2k8w3k8y2k13~x2~ly3307090-y2502222/sett.png" alt="Curnow of Kernow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

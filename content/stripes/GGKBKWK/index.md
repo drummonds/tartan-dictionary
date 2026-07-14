@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k2lb25k2t8k2g28y2~x2/">Presley of Lonmay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k2lb25k2t8k2g28y2~x2/"><img src="/variants/s7/k2lb25k2t8k2g28y2~x2/sett.png" alt="Presley of Lonmay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/presley-of-lonmay-2/">Presley of Lonmay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/presley-of-lonmay-2/"><img src="/variants/s7/k2lb25k2t8k2g28y2~x2/sett.png" alt="Presley of Lonmay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

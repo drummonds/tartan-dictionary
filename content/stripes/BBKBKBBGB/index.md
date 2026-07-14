@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dp6db4k4db26k12dp3dbi42dy4dbi4~db1204274-dbi1605267/">Goldblatt, Joe Jeff (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp6db4k4db26k12dp3dbi42dy4dbi4~db1204274-dbi1605267/"><img src="/variants/s9/dp6db4k4db26k12dp3dbi42dy4dbi4~db1204274-dbi1605267/sett.png" alt="Goldblatt, Joe Jeff (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/dp6db4k4db26k12dp3dbi42y4dbi4~db1404245-dbi1406275/">Goldblatt, Joe, Jeff (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp6db4k4db26k12dp3dbi42y4dbi4~db1404245-dbi1406275/"><img src="/variants/s9/dp6db4k4db26k12dp3dbi42y4dbi4~db1404245-dbi1406275/sett.png" alt="Goldblatt, Joe, Jeff (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/goldblatt-joe-jeff/">Goldblatt, Joe Jeff</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/goldblatt-joe-jeff/"><img src="/variants/s9/dp6db4k4db26k12dp3dbi42dy4dbi4~db1204274-dbi1605267/sett.png" alt="Goldblatt, Joe Jeff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

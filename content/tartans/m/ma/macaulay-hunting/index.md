@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/macaulay/"
 - name: "MacAulay"
   url: "/families/macaulay/"
+aliases:
+- "/setts/g6k16w1k16g8k4g12r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkwkgkgr/">GKWKGKGR</a></nav>
 A tartan of the [MacAulay](/families/macaulay/) family.
 Its design is pattern [GKWKGKGR](/stripes/gkwkgkgr/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **MacAulay Hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g6k16w1k16g8k4g12r2/">MacAulay Hunting</a></td><td><code>G/12 K32 W2 K32 G16 K8 G24 R/4</code></td><td>244</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g6k16w1k16g8k4g12r2/"><img src="/variants/s8/g6k16w1k16g8k4g12r2~x2/sett.png" alt="MacAulay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g6k16w1k16g8k4g12r2~x2/">MacAulay Hunting</a></td><td><code>G/12 K32 W2 K32 G16 K8 G24 R/4</code></td><td>244</td><td>1850</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g6k16w1k16g8k4g12r2~x2/"><img src="/variants/s8/g6k16w1k16g8k4g12r2~x2/sett.png" alt="MacAulay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -41,6 +44,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="224.0" cy="179.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/"><circle cx="235.1" cy="159.1" r="4" fill="#3465a4"><title>Utah Valley University</title></circle></a><a href="/variants/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="307.4" cy="151.9" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="296.6" cy="190.2" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><a href="/variants/s6/r2g12k12g1k12g2~x2/"><circle cx="299.1" cy="188.4" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="301.4" cy="111.5" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="255.2" cy="149.4" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x2/"><circle cx="286.7" cy="173.2" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="282.2" cy="149.9" r="4" fill="#3465a4"><title>MacArthur-Fox 1993</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="235.4" cy="137.9" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><circle cx="260.9" cy="163.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="224.7" cy="179.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/"><circle cx="235.8" cy="159.1" r="4" fill="#3465a4"><title>Utah Valley University</title></circle></a><a href="/variants/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="308.3" cy="152.1" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="297.3" cy="190.4" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><a href="/variants/s6/r2g12k12g1k12g2~x2/"><circle cx="300.0" cy="188.6" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="302.4" cy="111.6" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="255.9" cy="149.5" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x2/"><circle cx="287.5" cy="173.3" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="283.1" cy="150.0" r="4" fill="#3465a4"><title>MacArthur-Fox 1993</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="236.1" cy="137.9" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><circle cx="261.7" cy="163.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

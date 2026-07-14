@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/">Gaelic College of St.Anns</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/"><img src="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/sett.png" alt="Gaelic College of St.Anns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gaelic-college-of-st-anns/">Gaelic College of St.Anns</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gaelic-college-of-st-anns/"><img src="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/sett.png" alt="Gaelic College of St.Anns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

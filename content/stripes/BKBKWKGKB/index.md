@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db16k3db40k22lb3k25g3k6dt10~db1404245-dt1102249/">Comme Ça Il Conte</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db16k3db40k22lb3k25g3k6dt10~db1404245-dt1102249/"><img src="/variants/s9/db16k3db40k22lb3k25g3k6dt10~db1404245-dt1102249/sett.png" alt="Comme Ça Il Conte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/comme-a-il-conte/">Comme Ça Il Conte</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/comme-a-il-conte/"><img src="/variants/s9/db16k3db40k22lb3k25g3k6dt10~db1404245-dt1102249/sett.png" alt="Comme Ça Il Conte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

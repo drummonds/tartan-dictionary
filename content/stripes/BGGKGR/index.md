@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r12g4k8dy3y62dr8~x2/">Shawn Jones Afghan Memorial, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r12g4k8dy3y62dr8~x2/"><img src="/variants/s6/r12g4k8dy3y62dr8~x2/sett.png" alt="Shawn Jones Afghan Memorial, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shawn-jones-afghan-memorial-the/">Shawn Jones Afghan Memorial, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shawn-jones-afghan-memorial-the/"><img src="/variants/s6/r12g4k8dy3y62dr8~x2/sett.png" alt="Shawn Jones Afghan Memorial, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

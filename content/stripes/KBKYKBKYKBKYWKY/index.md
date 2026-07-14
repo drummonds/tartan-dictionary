@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/">Black Onyx</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><img src="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/sett.png" alt="Black Onyx sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-onyx/">Black Onyx</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-onyx/"><img src="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/sett.png" alt="Black Onyx sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "GulfMark"
   url: "/tartans/g/gu/gulfmark/"
 - name: "GulfMark"
-  url: "/setts/db72lb6db12lb17w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db72lb6db12lb17w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gu/gulfmark/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWW](/stripes/bwbww/).
 
 Part of the [GulfMark](/tartans/g/gu/gulfmark/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10325](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/2009 — GulfMark (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10325">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3C4266;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #3C4266"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6675A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #6675A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><br><em>This tartan was commissioned to celebrate 20 years of excellent service to the global oil and gas industry. GulfMark Offshore is the largest operator of Platform Supply vessels in the North Sea. GulfMark owns, operates and manages a modern fleet of offshore support vessels.</em></li>
-<li>1st Sept. 2009 — Gulfmark (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10325">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>This tartan was commissioned to celebrate 20 years of excellent service to the global oil and gas industry. GulfMark Offshore is the largest operator of Platform Supply vessels in the North Sea. GulfMark owns, operates and manages a modern fleet of offshore support vessels. This tartan is for the corporate use of GulfMark. Its use and production is controlled by Millsom & Main Ltd. Woven sample from Lochcarron of Scotland in Braeriach for MIlsom & Main Sept 2009.</em></li>
+<li>1st Sept. 2009 — Gulfmark (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10325/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>This tartan was commissioned to celebrate 20 years of excellent service to the global oil and gas industry. GulfMark Offshore is the largest operator of Platform Supply vessels in the North Sea. GulfMark owns, operates and manages a modern fleet of offshore support vessels. This tartan is for the corporate use of GulfMark. Its use and production is controlled by Millsom & Main Ltd. Woven sample from Lochcarron of Scotland in Braeriach for MIlsom & Main Sept 2009.</em></li>
 </ul>
 </details>
 

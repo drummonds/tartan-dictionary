@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r10dbi24r4k30g36db5~dbi1604274-db0805267/">MacWilliam</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r10dbi24r4k30g36db5~dbi1604274-db0805267/"><img src="/variants/s6/r10dbi24r4k30g36db5~dbi1604274-db0805267/sett.png" alt="MacWilliam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macwilliam/">MacWilliam</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macwilliam/"><img src="/variants/s6/r10dbi24r4k30g36db5~dbi1604274-db0805267/sett.png" alt="MacWilliam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/r7db20r4k18g20dp5~x2/">Williamson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><img src="/variants/s6/r7db20r4k18g20dp5~x2/sett.png" alt="Williamson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/williamson/">Williamson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/williamson/"><img src="/variants/s6/r7db20r4k18g20dp5~x2/sett.png" alt="Williamson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

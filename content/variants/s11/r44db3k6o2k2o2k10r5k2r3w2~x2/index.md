@@ -8,10 +8,10 @@ crumbs:
 - name: "Hilton"
   url: "/tartans/h/hi/hilton/"
 - name: "Hilton Plaid"
-  url: "/setts/r44db3k6o2k2o2k10r5k2r3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r44db3k6o2k2o2k10r5k2r3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/hilton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKRKRKRKRW](/stripes/rbkrkrkrkrw/).
 
 Part of the [Hilton](/tartans/h/hi/hilton/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/w3k9lb2k1lb2k1lb2k1lb2k1lb20lo2lb20k1lb2k1lb2k1lb2k1lb2k2b2~x2/">Made in Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/w3k9lb2k1lb2k1lb2k1lb2k1lb20lo2lb20k1lb2k1lb2k1lb2k1lb2k2b2~x2/"><img src="/variants/s23/w3k9lb2k1lb2k1lb2k1lb2k1lb20lo2lb20k1lb2k1lb2k1lb2k1lb2k2b2~x2/sett.png" alt="Made in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/made-in-scotland/">Made in Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/made-in-scotland/"><img src="/variants/s23/w3k9lb2k1lb2k1lb2k1lb2k1lb20lo2lb20k1lb2k1lb2k1lb2k1lb2k2b2~x2/sett.png" alt="Made in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

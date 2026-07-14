@@ -12,10 +12,10 @@ crumbs:
 - name: "Williams"
   url: "/tartans/w/wi/williams-2/"
 - name: "Williams (New York) (Personal)"
-  url: "/setts/k30db6k6db41lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k30db6k6db41lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/williams-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBW](/stripes/kbkbw/).
 
 Part of the [Williams](/tartans/w/wi/williams-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10107](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>23/11/2009 — Williams (New York) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10107">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #000080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#87CEEB;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #87CEEB"></span><br><em>This tartan was created to unite the designer's Scottish heritage with the selfless, mystical nature of his Zen practice.</em></li>
-<li>23rd Nov. 2009 — Williams (New York) (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10107">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Created to unite the designer's Scotish heritage with the "selfless, mystical nature of his Zen practice."</em></li>
+<li>23rd Nov. 2009 — Williams (New York) (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10107/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Created to unite the designer's Scotish heritage with the "selfless, mystical nature of his Zen practice."</em></li>
 </ul>
 </details>
 

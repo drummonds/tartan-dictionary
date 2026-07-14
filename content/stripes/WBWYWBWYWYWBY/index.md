@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w16n2w2ly2w2n24wi2ly1wi1ly1wi12n1ly2~x4~w3502000-wi3802111/">Fiona</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w16n2w2ly2w2n24wi2ly1wi1ly1wi12n1ly2~x4~w3502000-wi3802111/"><img src="/variants/s13/w16n2w2ly2w2n24wi2ly1wi1ly1wi12n1ly2~x4~w3502000-wi3802111/sett.png" alt="Fiona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fiona/">Fiona</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fiona/"><img src="/variants/s13/w16n2w2ly2w2n24wi2ly1wi1ly1wi12n1ly2~x4~w3502000-wi3802111/sett.png" alt="Fiona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Hot Boontjie"
   url: "/tartans/h/ho/hot-boontjie/"
 - name: "Hot Boontjie"
-  url: "/setts/dr4g4k1w2k1g18k32r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4g4k1w2k1g18k32r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hot-boontjie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKWKGKR](/stripes/bgkwkgkr/).
 
 Part of the [Hot Boontjie](/tartans/h/ho/hot-boontjie/) tartan — the named design grouping this sett with its other cloths.

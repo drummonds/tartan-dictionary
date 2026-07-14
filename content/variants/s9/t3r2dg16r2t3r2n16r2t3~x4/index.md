@@ -10,22 +10,22 @@ crumbs:
 - name: "MacPherson Gathering 1996"
   url: "/tartans/m/ma/macpherson-gathering-1996/"
 - name: "MacPherson Gathering 1996"
-  url: "/setts/t3r2dg16r2t3r2n16r2t3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t3r2dg16r2t3r2n16r2t3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macpherson-gathering-1996/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRGRB](/stripes/brbrbrgrb/).
 
 Part of the [MacPherson Gathering 1996](/tartans/m/ma/macpherson-gathering-1996/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3552](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3552)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3552/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3552/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1996 — MacPherson Gathering 1996 (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3552">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><br><em>Designed in April 1996 by Ewan MacPherson with assistance from Lochcarron for the 1996 MacPherson Gathering in Glentruim. Sample in STA Johnston Collection. Lochcarron swatch. Count doubled to show sett.</em></li>
+<li>1996 — MacPherson Gathering 1996 (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3552/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><br><em>Designed in April 1996 by Ewan MacPherson with assistance from Lochcarron for the 1996 MacPherson Gathering in Glentruim. Sample in STA Johnston Collection. Lochcarron swatch. Count doubled to show sett.</em></li>
 <li>undated — MacPherson Gathering 1996 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4860">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><br><em>Designed in April 1996 by Ewan MacPherson with assistance from Lochcarron for the 1996 MacPherson Gathering in Glentruim. Threadcount doubled to show sett.</em></li>
 </ul>
 </details>
@@ -40,7 +40,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3552](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

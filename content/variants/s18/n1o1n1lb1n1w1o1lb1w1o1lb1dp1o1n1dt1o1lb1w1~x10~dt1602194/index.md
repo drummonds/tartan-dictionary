@@ -12,10 +12,10 @@ crumbs:
 - name: "Welly"
   url: "/tartans/w/we/welly/"
 - name: "Welly (Personal)"
-  url: "/setts/n1o1n1lb1n1w1o1lb1w1o1lb1dp1o1n1dt1o1lb1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n1o1n1lb1n1w1o1lb1w1o1lb1dp1o1n1dt1o1lb1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/welly/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBWRWWRWBRBBRWW](/stripes/brbwbwrwwrwbrbbrww/).
 
 Part of the [Welly](/tartans/w/we/welly/) tartan — the named design grouping this sett with its other cloths.

@@ -8,22 +8,22 @@ crumbs:
 - name: "Gravesend Grammar School"
   url: "/tartans/g/gr/gravesend-grammar-school/"
 - name: "Gravesend Grammar School (Corp)"
-  url: "/setts/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/gravesend-grammar-school/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBRBRBBGB](/stripes/bgbbrbrbbgb/).
 
 Part of the [Gravesend Grammar School](/tartans/g/gr/gravesend-grammar-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7100](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7100)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7100/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7100/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>May 2002 — Gravesend Grammar School (Corp) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7100">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><br><em>Designed by Helen Marshall of Marton Mills for Gravesend Grammar School for Girls. The copyright was initially claimed by Banner Ltd (school uniform suppliers) but in error and it was reassigned in 2008 to Gravesend Grammar.</em></li>
+<li>May 2002 — Gravesend Grammar School (Corp) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7100/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><br><em>Designed by Helen Marshall of Marton Mills for Gravesend Grammar School for Girls. The copyright was initially claimed by Banner Ltd (school uniform suppliers) but in error and it was reassigned in 2008 to Gravesend Grammar.</em></li>
 <li>01/02/2007 — Gravesend Grammar School for Girls (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1516">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><br><em>Designed by Helen Marshall of Marton Mills for Banner Ltd of Reddish, Stockport for Gravesend Grammar School for Girls.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7100](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

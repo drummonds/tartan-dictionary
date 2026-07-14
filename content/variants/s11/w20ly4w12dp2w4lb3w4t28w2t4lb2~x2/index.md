@@ -12,10 +12,10 @@ crumbs:
 - name: "Portree"
   url: "/tartans/p/po/portree/"
 - name: "Portree Blue (Dance)"
-  url: "/setts/w20ly4w12dp2w4lb3w4t28w2t4lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w20ly4w12dp2w4lb3w4t28w2t4lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/portree/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWWWBWYW](/stripes/wbwbwwwbwyw/).
 
 Part of the [Portree](/tartans/p/po/portree/) tartan — the named design grouping this sett with its other cloths.

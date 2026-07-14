@@ -28,14 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18dg2r4dg2r18dg18r2dg9~x4/">MacTier of Durris</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18dg2r4dg2r18dg18r2dg9~x4/"><img src="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18dg2r4dg2r18dg18r2dg9~x4/sett.png" alt="MacTier of Durris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/">MacTier of Durris</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/"><img src="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/sett.png" alt="MacTier of Durris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9/">Ross</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9/"><img src="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/sett.png" alt="Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g18~x2/">Ross #5</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g18~x2/"><img src="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g18~x2/sett.png" alt="Ross #5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mactier-of-durris/">MacTier of Durris</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mactier-of-durris/"><img src="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/sett.png" alt="MacTier of Durris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-6/">Ross 6</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-6/"><img src="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g18~x2/sett.png" alt="Ross 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

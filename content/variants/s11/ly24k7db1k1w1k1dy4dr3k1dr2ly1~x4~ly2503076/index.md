@@ -8,10 +8,10 @@ crumbs:
 - name: "U.S. Customs & Border Protection (C"
   url: "/tartans/u/u/u-s-customs-border-protection-c/"
 - name: "U.S. Customs & Border Protection"
-  url: "/setts/ly24k7db1k1w1k1dy4dr3k1dr2ly1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly24k7db1k1w1k1dy4dr3k1dr2ly1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/u/u-s-customs-border-protection-c/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBKBGKWKBKY](/stripes/ybkbgkwkbky/).
 
 Part of the [U.S. Customs & Border Protection (C](/tartans/u/u/u-s-customs-border-protection-c/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/">Queen of the South</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><img src="/variants/s7/w3dg22b11db3b11g4b2~x2/sett.png" alt="Queen of the South sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/queen-of-the-south/">Queen of the South</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/queen-of-the-south/"><img src="/variants/s7/w3dg22b11db3b11g4b2~x2/sett.png" alt="Queen of the South sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

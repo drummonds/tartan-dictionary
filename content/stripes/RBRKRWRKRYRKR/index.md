@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/">First Special Service Force</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><img src="/variants/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/sett.png" alt="First Special Service Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/first-special-service-force/">First Special Service Force</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/first-special-service-force/"><img src="/variants/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/sett.png" alt="First Special Service Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Bannockbane"
   url: "/tartans/b/ba/bannockbane/"
 - name: "Bannockbane Blue #1"
-  url: "/setts/k4lo2k13lo1w8t13lo2t4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4lo2k13lo1w8t13lo2t4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bannockbane/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBWYKYK](/stripes/bybwykyk/).
 
 Part of the [Bannockbane](/tartans/b/ba/bannockbane/) tartan — the named design grouping this sett with its other cloths.

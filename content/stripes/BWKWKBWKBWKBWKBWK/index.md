@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/">Purdy Black (Illinois)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/"><img src="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/sett.png" alt="Purdy Black (Illinois) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pu/purdy/">Purdy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pu/purdy/"><img src="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/sett.png" alt="Purdy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

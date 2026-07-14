@@ -8,10 +8,10 @@ crumbs:
 - name: "Lawlis/Lawless"
   url: "/tartans/l/la/lawlis-lawless/"
 - name: "Lawlis/Lawless"
-  url: "/setts/db10dg1db1dg1db1dg2dr12dg1dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10dg1db1dg1db1dg2dr12dg1dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lawlis-lawless/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGB](/stripes/bgbgbgbgb/).
 
 Part of the [Lawlis/Lawless](/tartans/l/la/lawlis-lawless/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Lawlis/Lawless (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Worn by Russell Mosher of Miami, Florida at Miami Games 1996. He acquired it from a discount fabric store and when told it had no identification he requested that it be named for his Grandfather Lawlis of West Virginia. Note that it is Lindsay sett with green and blue interchanged .</em></li>
-<li>1996 — Lawlis/Lawless (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5399">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Worn by Russell Mosher of Miami, Florida at Miami Games 1996. He acquired it from a discount fabric store and when told it had no identification he requested that it be named for his Grandfather Lawlis of West Virginia. Note that it is Lindsay sett with green and blue interchanged .</em></li>
+<li>1996 — Lawlis/Lawless (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5399/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Worn by Russell Mosher of Miami, Florida at Miami Games 1996. He acquired it from a discount fabric store and when told it had no identification he requested that it be named for his Grandfather Lawlis of West Virginia. Note that it is Lindsay sett with green and blue interchanged .</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2~x2/">Canfield (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2~x2/"><img src="/variants/s11/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2~x2/sett.png" alt="Canfield (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canfield/">Canfield</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canfield/"><img src="/variants/s11/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2~x2/sett.png" alt="Canfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Leonard Hunting"
   url: "/tartans/l/le/leonard-hunting/"
 - name: "Leonard Hunting"
-  url: "/setts/k10dp5k30dp5k10dp9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10dp5k30dp5k10dp9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/leonard-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
 Part of the [Leonard Hunting](/tartans/l/le/leonard-hunting/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/">Amstartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/"><img src="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/sett.png" alt="Amstartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/amstartan/">Amstartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/amstartan/"><img src="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/sett.png" alt="Amstartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

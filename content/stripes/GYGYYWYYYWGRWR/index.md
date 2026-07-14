@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/">Sakura (Japanese Four Seasons)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/"><img src="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/sett.png" alt="Sakura (Japanese Four Seasons) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sakura/">Sakura</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sakura/"><img src="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/sett.png" alt="Sakura sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

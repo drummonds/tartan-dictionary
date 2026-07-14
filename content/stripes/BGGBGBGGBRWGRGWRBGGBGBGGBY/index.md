@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/">McGran (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/"><img src="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/sett.png" alt="McGran (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcgran/">McGran</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcgran/"><img src="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/sett.png" alt="McGran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

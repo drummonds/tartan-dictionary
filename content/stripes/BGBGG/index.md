@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g7dy6dt7dy1dt2~x6/">Bright of Garth (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g7dy6dt7dy1dt2~x6/"><img src="/variants/s5/g7dy6dt7dy1dt2~x6/sett.png" alt="Bright of Garth (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bright-of-garth/">Bright of Garth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bright-of-garth/"><img src="/variants/s5/g7dy6dt7dy1dt2~x6/sett.png" alt="Bright of Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

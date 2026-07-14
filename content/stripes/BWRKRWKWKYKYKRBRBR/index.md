@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/">Westwood MacAndreas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/"><img src="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/sett.png" alt="Westwood MacAndreas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westwood-macandreas/">Westwood MacAndreas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westwood-macandreas/"><img src="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/sett.png" alt="Westwood MacAndreas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

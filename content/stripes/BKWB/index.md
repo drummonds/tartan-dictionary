@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/dr1k20lb5dr1~x4/">Dobelman (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dr1k20lb5dr1~x4/"><img src="/variants/s4/dr1k20lb5dr1~x4/sett.png" alt="Dobelman (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dobelman/">Dobelman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dobelman/"><img src="/variants/s4/dr1k20lb5dr1~x4/sett.png" alt="Dobelman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/n62w11k4db17~x2/">Thunderlord (Celtic Group, USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/n62w11k4db17~x2/"><img src="/variants/s4/n62w11k4db17~x2/sett.png" alt="Thunderlord (Celtic Group, USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thunderlord/">Thunderlord</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thunderlord/"><img src="/variants/s4/n62w11k4db17~x2/sett.png" alt="Thunderlord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

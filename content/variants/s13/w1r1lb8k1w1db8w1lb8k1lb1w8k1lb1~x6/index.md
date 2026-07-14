@@ -8,10 +8,10 @@ crumbs:
 - name: "Euphoria"
   url: "/tartans/e/eu/euphoria/"
 - name: "Euphoria"
-  url: "/setts/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/eu/euphoria/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWWKWWBWKWRW](/stripes/wkwwkwwbwkwrw/).
 
 Part of the [Euphoria](/tartans/e/eu/euphoria/) tartan — the named design grouping this sett with its other cloths.

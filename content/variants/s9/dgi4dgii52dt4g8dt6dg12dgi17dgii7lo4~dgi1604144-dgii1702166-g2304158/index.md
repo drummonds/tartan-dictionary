@@ -8,10 +8,10 @@ crumbs:
 - name: "The McAlbourne"
   url: "/tartans/t/th/the-mcalbourne/"
 - name: "The McAlbourne"
-  url: "/setts/dgi4dgii52dt4g8dt6dg12dgi17dgii7lo4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dgi4dgii52dt4g8dt6dg12dgi17dgii7lo4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/the-mcalbourne/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGGGY](/stripes/ggbgbgggy/).
 
 Part of the [The McAlbourne](/tartans/t/th/the-mcalbourne/) tartan — the named design grouping this sett with its other cloths.

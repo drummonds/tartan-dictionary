@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4y4k6y4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/">Unidentified Plaid arisaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4y4k6y4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/"><img src="/variants/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4y4k6y4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/sett.png" alt="Unidentified Plaid arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-plaid-arisaid/">Unidentified Plaid arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-plaid-arisaid/"><img src="/variants/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4y4k6y4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/sett.png" alt="Unidentified Plaid arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -11,11 +11,11 @@ crumbs:
   url: "/families/tweedside/"
 - name: "Tweedside"
   url: "/tartans/t/tw/tweedside/"
-- name: "Tweedside Red"
-  url: "/setts/k18r2k2r5w2r2w2r2k2/"
+- name: "Tweedside District Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k18r2k2r5w2r2w2r2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tw/tweedside/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRWRWRK](/stripes/krkrwrwrk/).
 
 Part of the [Tweedside](/tartans/t/tw/tweedside/) tartan — the named design grouping this sett with its other cloths.

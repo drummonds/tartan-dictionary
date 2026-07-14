@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/t2db3k1db3n3g4r1~x8/">New York City</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t2db3k1db3n3g4r1~x8/"><img src="/variants/s7/t2db3k1db3n3g4r1~x8/sett.png" alt="New York City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-york-city-2/">New York City</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-york-city-2/"><img src="/variants/s7/t2db3k1db3n3g4r1~x8/sett.png" alt="New York City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

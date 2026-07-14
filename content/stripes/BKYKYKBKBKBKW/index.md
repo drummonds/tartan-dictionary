@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/">Bredillet (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/"><img src="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/sett.png" alt="Bredillet (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bredillet/">Bredillet</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bredillet/"><img src="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/sett.png" alt="Bredillet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

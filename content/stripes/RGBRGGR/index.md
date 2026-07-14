@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2y1db8r1g7y1r2~x6/">Cercle de Fermières de Saint-Élie d'Orford</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><img src="/variants/s7/r2y1db8r1g7y1r2~x6/sett.png" alt="Cercle de Fermières de Saint-Élie d'Orford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/cercle-de-fermi-res-de-saint-lie-d-orford/">Cercle de Fermières de Saint-Élie d'Orford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/cercle-de-fermi-res-de-saint-lie-d-orford/"><img src="/variants/s7/r2y1db8r1g7y1r2~x6/sett.png" alt="Cercle de Fermières de Saint-Élie d'Orford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

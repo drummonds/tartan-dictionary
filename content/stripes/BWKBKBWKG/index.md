@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y75k6w3n2k6n2k6w3n2/">Norton (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y75k6w3n2k6n2k6w3n2/"><img src="/variants/s9/y75k6w3n2k6n2k6w3n2/sett.png" alt="Norton (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/norton/">Norton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norton/"><img src="/variants/s9/y75k6w3n2k6n2k6w3n2/sett.png" alt="Norton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

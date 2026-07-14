@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/">State Seal of New Hampshire (Fash.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/"><img src="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/sett.png" alt="State Seal of New Hampshire (Fash.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-new-hampshire/">State Seal of New Hampshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-new-hampshire/"><img src="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/sett.png" alt="State Seal of New Hampshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

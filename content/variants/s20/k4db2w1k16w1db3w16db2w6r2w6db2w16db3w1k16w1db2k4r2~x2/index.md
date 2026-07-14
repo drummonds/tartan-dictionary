@@ -10,15 +10,15 @@ crumbs:
 - name: "Scott"
   url: "/families/scott/"
 - name: "Scott"
-  url: "/tartans/s/sc/scott-3/"
+  url: "/tartans/s/sc/scott-2/"
 - name: "Scott (MacRae)"
-  url: "/setts/k4db2w1k16w1db3w16db2w6r2w6db2w16db3w1k16w1db2k4r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4db2w1k16w1db3w16db2w6r2w6db2w16db3w1k16w1db2k4r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scott-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWKWBWBWRWBWBWKWBKR](/stripes/kbwkwbwbwrwbwbwkwbkr/).
 
-Part of the [Scott](/tartans/s/sc/scott-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scott](/tartans/s/sc/scott-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

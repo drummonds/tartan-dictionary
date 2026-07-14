@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/">Arnold (California)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/"><img src="/variants/s25/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/sett.png" alt="Arnold (California) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arnold/">Arnold</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arnold/"><img src="/variants/s25/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/sett.png" alt="Arnold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

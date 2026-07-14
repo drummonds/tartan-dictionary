@@ -8,10 +8,10 @@ crumbs:
 - name: "Reilly fae the Mearns"
   url: "/tartans/r/re/reilly-fae-the-mearns/"
 - name: "Reilly fae the Mearns"
-  url: "/setts/g2w5dg1k7w1dg2k6dg6g9r1g30y2g3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2w5dg1k7w1dg2k6dg6g9r1g30y2g3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/reilly-fae-the-mearns/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKWGKGGRGGGW](/stripes/gwgkwgkggrgggw/).
 
 Part of the [Reilly fae the Mearns](/tartans/r/re/reilly-fae-the-mearns/) tartan — the named design grouping this sett with its other cloths.

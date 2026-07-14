@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41y4~x2/">Philadelphia Police and Fire P&amp;D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41y4~x2/"><img src="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41y4~x2/sett.png" alt="Philadelphia Police and Fire P&amp;D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/ph/philadelphia-police-and-fire-p-d/">Philadelphia Police and Fire P&amp;D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/ph/philadelphia-police-and-fire-p-d/"><img src="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41y4~x2/sett.png" alt="Philadelphia Police and Fire P&amp;D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

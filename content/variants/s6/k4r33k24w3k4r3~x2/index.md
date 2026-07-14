@@ -8,10 +8,10 @@ crumbs:
 - name: "Monmouth College"
   url: "/tartans/m/mo/monmouth-college/"
 - name: "Monmouth College"
-  url: "/setts/k4r33k24w3k4r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4r33k24w3k4r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/monmouth-college/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWKR](/stripes/krkwkr/).
 
 Part of the [Monmouth College](/tartans/m/mo/monmouth-college/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2985](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/06/1996 — Monmouth College (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2985">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>For Monmouth College in Monmouth, Illinois. June 1996. Sample in Scottish Tartans Authority's Johnston Collection. Colours checked against sample July 2003. Lochcarron swatch in archives.</em></li>
-<li>June 1996 — Monmouth College (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5672">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>For Monmouth College in Monmouth, Illinois. June 1996. Sample in STA Johnston Collection. Colours checked against sample July 2003. Lochcarron swatch in archives.</em></li>
+<li>June 1996 — Monmouth College (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5672/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>For Monmouth College in Monmouth, Illinois. June 1996. Sample in STA Johnston Collection. Colours checked against sample July 2003. Lochcarron swatch in archives.</em></li>
 </ul>
 </details>
 

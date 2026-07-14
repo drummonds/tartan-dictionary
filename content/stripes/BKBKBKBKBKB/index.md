@@ -28,14 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/do18k5do34k12do8k8do24k5do24k5do14/">Black Shadow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/do18k5do34k12do8k8do24k5do24k5do14/"><img src="/variants/s11/do18k5do34k12do8k8do24k5do24k5do14/sett.png" alt="Black Shadow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-shadow-2/">Black Shadow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-shadow-2/"><img src="/variants/s11/do18k5do34k12do8k8do24k5do24k5do14/sett.png" alt="Black Shadow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s11/db9k3db17k6db4k4db12k3db12k3db7~x2/">Black Shadow Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db9k3db17k6db4k4db12k3db12k3db7~x2/"><img src="/variants/s11/db9k3db17k6db4k4db12k3db12k3db7~x2/sett.png" alt="Black Shadow Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/">Bute Heather, Black (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/"><img src="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/sett.png" alt="Bute Heather, Black (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/bute-heather-6/">Bute Heather</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/bute-heather-6/"><img src="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/sett.png" alt="Bute Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

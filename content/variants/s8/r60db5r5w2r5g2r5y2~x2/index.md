@@ -12,10 +12,10 @@ crumbs:
 - name: "Burnett of Leys"
   url: "/tartans/b/bu/burnett-of-leys/"
 - name: "Burnett of Leys Family Tartan"
-  url: "/setts/r60db5r5w2r5g2r5y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r60db5r5w2r5g2r5y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/burnett-of-leys/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRWRBR](/stripes/grgrwrbr/).
 
 Part of the [Burnett of Leys](/tartans/b/bu/burnett-of-leys/) tartan — the named design grouping this sett with its other cloths.

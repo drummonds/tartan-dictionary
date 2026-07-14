@@ -8,10 +8,10 @@ crumbs:
 - name: "Shapiro"
   url: "/tartans/s/sh/shapiro/"
 - name: "Shapiro (Personal)"
-  url: "/setts/k16lb2lp2ly2lp10lb4ly6lb10ly6lb10ly4lb10ly4lb10ly2lb32ly2lb10lp4ly14lb10ly10lb6ly10lb6ly10lb6ly10lb4ly10lb2ly28lb3ly10lp6lb4ly16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k16lb2lp2ly2lp10lb4ly6lb10ly6lb10ly4lb10ly4lb10ly2lb32ly2lb10lp4ly14lb10ly10lb6ly10lb6ly10lb6ly10lb4ly10lb2ly28lb3ly10lp6lb4ly16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shapiro/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWWYWWYWYWYWYWYWYWWYWYWYWYWYWYWYWYWWY](/stripes/kwwywwywywywywywywwywywywywywywywywwy/).
 
 Part of the [Shapiro](/tartans/s/sh/shapiro/) tartan — the named design grouping this sett with its other cloths.

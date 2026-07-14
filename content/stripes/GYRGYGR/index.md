@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r4g4lo4g12r22lo1g4~x4/">Spice Apple</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r4g4lo4g12r22lo1g4~x4/"><img src="/variants/s7/r4g4lo4g12r22lo1g4~x4/sett.png" alt="Spice Apple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spice-apple/">Spice Apple</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spice-apple/"><img src="/variants/s7/r4g4lo4g12r22lo1g4~x4/sett.png" alt="Spice Apple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/">Australian, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/"><img src="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/sett.png" alt="Australian, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/australian-dress-2/">Australian, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/australian-dress-2/"><img src="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/sett.png" alt="Australian, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

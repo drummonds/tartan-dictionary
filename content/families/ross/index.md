@@ -20,8 +20,8 @@ A family of [Clan Ross](/clan/ross/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/ross-3/"><img src="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18~x2/sett.png" alt="Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/ross-4/">Ross</a></td><td>—</td><td>1</td><td>1</td><td>1.45</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/ross-4/"><img src="/variants/s20/db18r2db18r18g2r4g2r18g18r2g18r2g18r18db1r1db2r1db1r18~x2/sett.png" alt="Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ro/ross/">Ross</a></td><td>1819</td><td>1</td><td>2</td><td>1.57</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/ross/"><img src="/variants/s28/r25g6r25g29r4g8r4g29dp32g6dp32g29dp2g2dp4g2dp2g29dp2g2dp4g2dp2g29r25g6r25dp2/sett.png" alt="Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-2/">Ross</a></td><td>1819</td><td>1</td><td>2</td><td>1.57</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/ross-2/"><img src="/variants/s28/r25g6r25g29r4g8r4g29dp32g6dp32g29dp2g2dp4g2dp2g29dp2g2dp4g2dp2g29r25g6r25dp2/sett.png" alt="Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/ross-6/">Ross 6</a></td><td>—</td><td>1</td><td>1</td><td>2.23</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/ross-6/"><img src="r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g18-rev.png" alt="Ross 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/ross-2/">Ross 2</a></td><td>—</td><td>1</td><td>1</td><td>2.55</td></tr>
@@ -50,7 +50,7 @@ A family of [Clan Ross](/clan/ross/).
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/ross-hunting/"><img src="dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2-rev.png" alt="Ross Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/ross-hunting-4/">Ross Hunting</a></td><td>1850</td><td>1</td><td>1</td><td>9.18</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/ross-hunting-4/"><img src="dg6g3dg3g4dg4k5dg3k5dg28r2dg4r2-rev.png" alt="Ross Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/r/ro/ross-2/">Ross</a></td><td>2013</td><td>1</td><td>1</td><td>9.46</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/ross-2/"><img src="k6r2k10g6k3dgi8k3dg9k13r5k1dp2-rev.png" alt="Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross/">Ross</a></td><td>2013</td><td>1</td><td>1</td><td>9.46</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/ross/"><img src="k6r2k10g6k3dgi8k3dg9k13r5k1dp2-rev.png" alt="Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

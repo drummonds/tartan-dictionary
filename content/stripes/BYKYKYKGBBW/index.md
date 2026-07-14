@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/">Swedish #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/"><img src="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/sett.png" alt="Swedish #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/">Swedish District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/"><img src="/variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/sett.png" alt="Swedish District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sw/swedish-2/">Swedish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/swedish-2/"><img src="/variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/sett.png" alt="Swedish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sw/swedish-dance/">Swedish Dance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/swedish-dance/"><img src="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/sett.png" alt="Swedish Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

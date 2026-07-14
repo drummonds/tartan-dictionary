@@ -8,10 +8,10 @@ crumbs:
 - name: "Beynon"
   url: "/tartans/b/be/beynon/"
 - name: "Beynon"
-  url: "/setts/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/beynon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBKBGBGBGBGGK](/stripes/bkgbkbgbgbgbggk/).
 
 Part of the [Beynon](/tartans/b/be/beynon/) tartan — the named design grouping this sett with its other cloths.

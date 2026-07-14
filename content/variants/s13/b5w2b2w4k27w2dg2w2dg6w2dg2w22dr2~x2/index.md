@@ -8,10 +8,10 @@ crumbs:
 - name: "Robert Wiseman Dairies, Golden Jubilee"
   url: "/tartans/r/ro/robert-wiseman-dairies-golden-jubilee/"
 - name: "Robert Wiseman Dairies, Golden Jubilee"
-  url: "/setts/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robert-wiseman-dairies-golden-jubilee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKWGWGWGWB](/stripes/bwbwkwgwgwgwb/).
 
 Part of the [Robert Wiseman Dairies, Golden Jubilee](/tartans/r/ro/robert-wiseman-dairies-golden-jubilee/) tartan — the named design grouping this sett with its other cloths.

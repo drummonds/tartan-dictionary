@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2~x2~o2500000-n1900000/">Highland Granite Weavers Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2~x2~o2500000-n1900000/"><img src="/variants/s18/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2~x2~o2500000-n1900000/sett.png" alt="Highland Granite Weavers Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-granite-weavers/">Highland Granite Weavers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-granite-weavers/"><img src="/variants/s18/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2~x2~o2500000-n1900000/sett.png" alt="Highland Granite Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/">Edinburgh Fire (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/"><img src="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/sett.png" alt="Edinburgh Fire (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-fire/">Edinburgh Fire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-fire/"><img src="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/sett.png" alt="Edinburgh Fire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

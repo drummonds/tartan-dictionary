@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db9r12dg9db5w2~x4/">Battle of Prestonpans (1745) Herit</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db9r12dg9db5w2~x4/"><img src="/variants/s5/db9r12dg9db5w2~x4/sett.png" alt="Battle of Prestonpans (1745) Herit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/battle-of-prestonpans-herit/">Battle of Prestonpans Herit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/battle-of-prestonpans-herit/"><img src="/variants/s5/db9r12dg9db5w2~x4/sett.png" alt="Battle of Prestonpans Herit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/db25r1g1n9w4~x2/">Tailor Ishida, Kobe</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db25r1g1n9w4~x2/"><img src="/variants/s5/db25r1g1n9w4~x2/sett.png" alt="Tailor Ishida, Kobe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tailor-ishida-kobe/">Tailor Ishida, Kobe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tailor-ishida-kobe/"><img src="/variants/s5/db25r1g1n9w4~x2/sett.png" alt="Tailor Ishida, Kobe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

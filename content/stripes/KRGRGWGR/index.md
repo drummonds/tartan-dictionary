@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/">Comyn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><img src="/variants/s8/k1r9g2r2g4w1g4r1~x2/sett.png" alt="Comyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/r3g9w1g9r3g6r18k2~x2/">Cumming #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r3g9w1g9r3g6r18k2~x2/"><img src="/variants/s8/r3g9w1g9r3g6r18k2~x2/sett.png" alt="Cumming #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/comyn/">Comyn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/comyn/"><img src="/variants/s8/k1r9g2r2g4w1g4r1~x2/sett.png" alt="Comyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cumming-5/">Cumming</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cumming-5/"><img src="/variants/s8/r3g9w1g9r3g6r18k2~x2/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

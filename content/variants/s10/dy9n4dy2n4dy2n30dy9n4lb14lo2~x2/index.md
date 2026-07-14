@@ -12,10 +12,10 @@ crumbs:
 - name: "Hanna of Leith"
   url: "/tartans/h/ha/hanna-of-leith/"
 - name: "Hanna of Leith (yellow line)"
-  url: "/setts/dy9n4dy2n4dy2n30dy9n4lb14lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy9n4dy2n4dy2n30dy9n4lb14lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hanna-of-leith/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGBWY](/stripes/gbgbgbgbwy/).
 
 Part of the [Hanna of Leith](/tartans/h/ha/hanna-of-leith/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1585](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1960 — Hanna of Leith (yellow line) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1585">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Made in the 1960's by A & J Scott, kiltmakers in Aberdeen and used by 'Hannahs' of 'Leith'. Swatch in collection of Alexander Hannah.</em></li>
-<li>1960 — Hanna of Leith (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5144">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Made in the 1960's by A & J Scott, kiltmakers, Aberdeen and used by "Hannahs" of "Leith". Swatch in collection of Alexander Hannah. #5145 is the same tartan minus the yellow line and with the comment "The yellow line could be omitted"</em></li>
+<li>1960 — Hanna of Leith (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5144/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Made in the 1960's by A & J Scott, kiltmakers, Aberdeen and used by "Hannahs" of "Leith". Swatch in collection of Alexander Hannah. #5145 is the same tartan minus the yellow line and with the comment "The yellow line could be omitted"</em></li>
 </ul>
 </details>
 

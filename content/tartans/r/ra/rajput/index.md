@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db6dr39db10dr10db21y5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbg/">BBBBBG</a></nav>
 Its design is pattern [BBBBBG](/stripes/bbbbbg/) — the page of every tartan sharing this colour sequence.
 
 The **Rajput** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Rajput** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db6dr39db10dr10db21y5/">Rajput</a></td><td><code>DB/12 DR78 DB20 DR20 DB42 Y/10</code></td><td>342</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db6dr39db10dr10db21y5/"><img src="/variants/s6/db6dr39db10dr10db21y5~x2/sett.png" alt="Rajput sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db6dr39db10dr10db21y5~x2/">Rajput</a></td><td><code>DB/12 DR78 DB20 DR20 DB42 Y/10</code></td><td>342</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db6dr39db10dr10db21y5~x2/"><img src="/variants/s6/db6dr39db10dr10db21y5~x2/sett.png" alt="Rajput sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db1dr3db1dr3db6g1~x8/"><circle cx="415.7" cy="305.2" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/variants/s6/r2db13dr3db3dr16lb2~x4/"><circle cx="336.4" cy="235.0" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/variants/s5/dr30db10dr3db30m3~x2/"><circle cx="449.5" cy="276.4" r="4" fill="#3465a4"><title>Feniston</title></circle></a><a href="/variants/s5/db13n6dr51db51n5~x2/"><circle cx="480.9" cy="312.1" r="4" fill="#3465a4"><title>Hillsdale</title></circle></a><a href="/variants/s10/db16dr3g3dr10db24dr3db3dr3db3dr10~x2/"><circle cx="470.4" cy="265.7" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="421.6" cy="293.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><circle cx="451.7" cy="322.5" r="4" fill="#3465a4"><title>Highland Spirit</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="379.3" cy="261.4" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="423.4" cy="308.0" r="4" fill="#3465a4"><title>Daks-Simpson</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.6" cy="307.2" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><circle cx="451.5" cy="295.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db1dr3db1dr3db6g1~x8/"><circle cx="416.1" cy="305.5" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/variants/s6/r2db13dr3db3dr16lb2~x4/"><circle cx="336.9" cy="235.1" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/variants/s5/dr30db10dr3db30m3~x2/"><circle cx="450.1" cy="276.7" r="4" fill="#3465a4"><title>Feniston</title></circle></a><a href="/variants/s5/db13n6dr51db51n5~x2/"><circle cx="481.2" cy="312.5" r="4" fill="#3465a4"><title>Hillsdale</title></circle></a><a href="/variants/s10/db16dr3g3dr10db24dr3db3dr3db3dr10~x2/"><circle cx="471.0" cy="266.0" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="422.1" cy="293.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><circle cx="452.0" cy="322.8" r="4" fill="#3465a4"><title>Highland Spirit</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="379.8" cy="261.6" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="423.5" cy="308.3" r="4" fill="#3465a4"><title>Daks-Simpson</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.6" cy="307.4" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><circle cx="452.0" cy="295.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

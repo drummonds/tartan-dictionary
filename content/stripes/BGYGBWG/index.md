@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr30dg18lr3dg18dr20lb3g3~x2~lr2800000-lb3203246/">Tartan for London, A (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr30dg18lr3dg18dr20lb3g3~x2~lr2800000-lb3203246/"><img src="/variants/s7/dr30dg18lr3dg18dr20lb3g3~x2~lr2800000-lb3203246/sett.png" alt="Tartan for London, A (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tartan-for-london-a/">Tartan for London, A</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tartan-for-london-a/"><img src="/variants/s7/dr30dg18lr3dg18dr20lb3g3~x2~lr2800000-lb3203246/sett.png" alt="Tartan for London, A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

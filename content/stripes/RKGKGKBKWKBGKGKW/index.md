@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/">Cockburn of Ormiston Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/"><img src="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/sett.png" alt="Cockburn of Ormiston Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cockburn-of-ormiston-dress/">Cockburn of Ormiston Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cockburn-of-ormiston-dress/"><img src="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/sett.png" alt="Cockburn of Ormiston Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

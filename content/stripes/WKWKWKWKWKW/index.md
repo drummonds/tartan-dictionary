@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/w20k6w9k6w6k12w6k48w8k16w16/">MacLean, Black &amp; White</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w20k6w9k6w6k12w6k48w8k16w16/"><img src="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16/sett.png" alt="MacLean, Black &amp; White sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/">Scott, Sir Walter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/"><img src="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/sett.png" alt="Scott, Sir Walter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean/">MacLean</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean/"><img src="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16/sett.png" alt="MacLean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scott-6/">Scott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scott-6/"><img src="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

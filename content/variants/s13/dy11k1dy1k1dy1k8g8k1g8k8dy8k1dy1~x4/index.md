@@ -10,10 +10,10 @@ crumbs:
 - name: "Brown Watch"
   url: "/tartans/b/br/brown-watch/"
 - name: "Brown Watch Trade Tartan"
-  url: "/setts/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brown-watch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/).
 
 Part of the [Brown Watch](/tartans/b/br/brown-watch/) tartan — the named design grouping this sett with its other cloths.

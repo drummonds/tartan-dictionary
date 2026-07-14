@@ -29,7 +29,7 @@ crumbs:
 <tr><td><a href="/tartans/m/ma/macquarrie-5/">MacQuarrie 5</a></td><td>—</td><td>1</td><td>1</td><td>5.55</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macquarrie-5/"><img src="r4g5r2k6r18k2r4-rev.png" alt="MacQuarrie 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macquarrie-1815/">MacQuarrie 1815</a></td><td>—</td><td>2</td><td>3</td><td>6.48</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macquarrie-1815/"><img src="/variants/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2~x2/sett.png" alt="MacQuarrie 1815 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macquarrie-1815/"><img src="/variants/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2/sett.png" alt="MacQuarrie 1815 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macquarrie-7/">MacQuarrie 7</a></td><td>1886</td><td>1</td><td>1</td><td>7.07</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macquarrie-7/"><img src="/variants/s6/r16dg1r1dg1r4dg12~x2/sett.png" alt="MacQuarrie 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

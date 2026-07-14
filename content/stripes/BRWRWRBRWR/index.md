@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r40w1r1db8r1w1r6w1r1db8~x2/">Miyuki #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r40w1r1db8r1w1r6w1r1db8~x2/"><img src="/variants/s10/r40w1r1db8r1w1r6w1r1db8~x2/sett.png" alt="Miyuki #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/miyuki-3/">Miyuki</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/miyuki-3/"><img src="/variants/s10/r40w1r1db8r1w1r6w1r1db8~x2/sett.png" alt="Miyuki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

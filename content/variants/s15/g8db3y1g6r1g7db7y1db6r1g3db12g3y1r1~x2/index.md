@@ -8,10 +8,10 @@ crumbs:
 - name: "Platt"
   url: "/tartans/p/pl/platt/"
 - name: "Platt Family Tartan"
-  url: "/setts/g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pl/platt/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGRGBGBRGBGGR](/stripes/gbggrgbgbrgbggr/).
 
 Part of the [Platt](/tartans/p/pl/platt/) tartan — the named design grouping this sett with its other cloths.

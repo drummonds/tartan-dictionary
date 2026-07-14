@@ -8,10 +8,10 @@ crumbs:
 - name: "Vancouver Centennial"
   url: "/tartans/v/va/vancouver-centennial/"
 - name: "Vancouver Centennial Commemorative Tartan"
-  url: "/setts/g4y2g24w12db26r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4y2g24w12db26r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/va/vancouver-centennial/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGWBR](/stripes/gggwbr/).
 
 Part of the [Vancouver Centennial](/tartans/v/va/vancouver-centennial/) tartan — the named design grouping this sett with its other cloths.

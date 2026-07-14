@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/hebridean/"
 - name: "Hebridean Heather"
   url: "/tartans/h/he/hebridean-heather-2/"
-- name: "Hebridean Heather (Fashion)"
-  url: "/setts/n4db2n7dt30n8dt7r5db1w2/"
+- name: "Hebridean Heather Fashion Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n4db2n7dt30n8dt7r5db1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebridean-heather-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBRBW](/stripes/bbbbbbrbw/).
 
 Part of the [Hebridean Heather](/tartans/h/he/hebridean-heather-2/) tartan — the named design grouping this sett with its other cloths.

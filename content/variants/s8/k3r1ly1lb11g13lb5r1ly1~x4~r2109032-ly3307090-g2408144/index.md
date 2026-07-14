@@ -12,15 +12,15 @@ crumbs:
 - name: "Snodgrass"
   url: "/tartans/s/sn/snodgrass/"
 - name: "Snodgrass"
-  url: "/setts/k3r1ly1lb11g13lb5r1ly1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3r1ly1lb11g13lb5r1ly1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRYWGWRYRWGWYR](/stripes/krywgwryrwgwyr/).
+provenance below. It is one weaving of the [sett](/tartans/s/sn/snodgrass/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRYWGWRY](/stripes/krywgwry/).
 
 Part of the [Snodgrass](/tartans/s/sn/snodgrass/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3827](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3827)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1216
 
 ## Thread count
-K/12 R4 LY4 LB44 G52 LB20 R4 LY4 R4 LB20 G52 LB44 LY4 R/4
+K/12 R4 LY4 LB44 G52 LB20 R4 LY/4
 
-One full sett is **528 threads**.
+One full sett is **272 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/12 R4 LY4 LB44 G52 LB20 R4 LY4 R4 LB20 G52 LB44 LY4 R/4 — 528 threads; it folds to the canonical 272-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **528 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 R4 LY4 LB44 G52 LB20 R4 LY4 R4 LB20 G52 LB44 LY4 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 R4 LY4 LB44 G52 LB20 R4 LY/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

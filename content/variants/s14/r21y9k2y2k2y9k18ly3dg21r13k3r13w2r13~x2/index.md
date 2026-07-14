@@ -8,15 +8,15 @@ crumbs:
 - name: "Wilson's No.155"
   url: "/tartans/w/wi/wilson-s-no-155/"
 - name: "Wilson's No.155"
-  url: "/setts/r21y9k2y2k2y9k18ly3dg21r13k3r13w2r13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r21y9k2y2k2y9k18ly3dg21r13k3r13w2r13/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGKGKYGRKRWRWRKRGYKGKGKGR](/stripes/gkgkgkygrkrwrwrkrgykgkgkgr/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-155/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGKGKGKYGRKRWR](/stripes/rgkgkgkygrkrwr/).
 
 Part of the [Wilson's No.155](/tartans/w/wi/wilson-s-no-155/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4699](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4699)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5597
 
 ## Thread count
-R/42 Y18 K4 Y4 K4 Y18 K36 LY6 DG42 R26 K6 R26 W4 R26 W4 R26 K6 R26 DG42 LY6 K36 Y18 K4 Y4 K4 Y/18
+R/42 Y18 K4 Y4 K4 Y18 K36 LY6 DG42 R26 K6 R26 W4 R/26
 
-One full sett is **852 threads**.
+One full sett is **456 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/42 Y18 K4 Y4 K4 Y18 K36 LY6 DG42 R26 K6 R26 W4 R26 W4 R26 K6 R26 DG42 LY6 K36 Y18 K4 Y4 K4 Y/18 — 852 threads; it folds to the canonical 456-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **852 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/42 Y18 K4 Y4 K4 Y18 K36 LY6 DG42 R26 K6 R26 W4 R26 W4 R26 K6 R26 DG42 LY6 K36 Y18 K4 Y4 K4 Y/18 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/42 Y18 K4 Y4 K4 Y18 K36 LY6 DG42 R26 K6 R26 W4 R/26 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

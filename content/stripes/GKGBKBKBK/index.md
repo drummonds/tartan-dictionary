@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k80n4k44n50k36n4y12k12y45/">Melange</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k80n4k44n50k36n4y12k12y45/"><img src="/variants/s9/k80n4k44n50k36n4y12k12y45/sett.png" alt="Melange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/melange/">Melange</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/melange/"><img src="/variants/s9/k80n4k44n50k36n4y12k12y45/sett.png" alt="Melange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

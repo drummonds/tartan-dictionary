@@ -28,16 +28,16 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k4y1k4y6r1~x4/">MacLeod Dress Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k4y1k4y6r1~x4/"><img src="/variants/s5/k4y1k4y6r1~x4/sett.png" alt="MacLeod Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k8y1k8y12r1/">MacLeod of Lewis</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k8y1k8y12r1/"><img src="/variants/s5/k8y1k8y12r1~x2/sett.png" alt="MacLeod of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-dress/">MacLeod Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-dress/"><img src="/variants/s5/k4y1k4y6r1~x4/sett.png" alt="MacLeod Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-of-lewis/">MacLeod of Lewis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-of-lewis/"><img src="/variants/s5/k8y1k8y12r1~x2/sett.png" alt="MacLeod of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k19g8k10g31r3/">MacArthur-Fox Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k19g8k10g31r3/"><img src="/variants/s5/k19g8k10g31r3/sett.png" alt="MacArthur-Fox Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macarthur-fox-2/">MacArthur-Fox</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macarthur-fox-2/"><img src="/variants/s5/k19g8k10g31r3/sett.png" alt="MacArthur-Fox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k8y1k8g13r2~x4/">Tolmie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k8y1k8g13r2~x4/"><img src="/variants/s5/k8y1k8g13r2~x4/sett.png" alt="Tolmie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/tolmie/">Tolmie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/tolmie/"><img src="/variants/s5/k8y1k8g13r2~x4/sett.png" alt="Tolmie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

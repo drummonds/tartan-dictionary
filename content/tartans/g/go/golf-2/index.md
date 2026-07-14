@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/golf/"
 - name: "GOLF"
   url: "/families/golf/"
+aliases:
+- "/setts/k10dp3k6g1k6g1k6g2k6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbkgkgkgk/">KBKGKGKGK</a></nav>
 A tartan of the [GOLF](/families/golf/) family.
 Its design is pattern [KBKGKGKGK](/stripes/kbkgkgkgk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **GOLF** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k10dp3k6g1k6g1k6g2k6/">GOLF</a></td><td><code>K/20 DP6 K12 G2 K12 G2 K12 G4 K/12</code></td><td>132</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k10dp3k6g1k6g1k6g2k6/"><img src="/variants/s9/k10dp3k6g1k6g1k6g2k6~x2/sett.png" alt="GOLF sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k10dp3k6g1k6g1k6g2k6~x2/">GOLF</a></td><td><code>K/20 DP6 K12 G2 K12 G2 K12 G4 K/12</code></td><td>132</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k10dp3k6g1k6g1k6g2k6~x2/"><img src="/variants/s9/k10dp3k6g1k6g1k6g2k6~x2/sett.png" alt="GOLF sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><circle cx="461.1" cy="140.9" r="4" fill="#3465a4"><title>Renwick</title></circle></a><a href="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/"><circle cx="435.6" cy="174.8" r="4" fill="#3465a4"><title>Laois Irish County</title></circle></a><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/"><circle cx="500.5" cy="104.5" r="4" fill="#3465a4"><title>St. Mirren Football Club</title></circle></a><a href="/variants/s10/k18lb9k18lr2k2lr2k18ly9k18lr2/"><circle cx="346.4" cy="157.5" r="4" fill="#3465a4"><title>London Fog Black 2</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="427.7" cy="234.0" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc</title></circle></a><a href="/variants/s8/k22g11k2g4k2g6k58lb6~x2/"><circle cx="450.9" cy="97.2" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/"><circle cx="493.7" cy="145.0" r="4" fill="#3465a4"><title>Langhein</title></circle></a><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><circle cx="448.6" cy="121.9" r="4" fill="#3465a4"><title>Langhein, Alex</title></circle></a><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="386.0" cy="168.6" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s9/g12k8n6k22n3k8n3k40g6/"><circle cx="389.8" cy="149.6" r="4" fill="#3465a4"><title>Jensen, Sven</title></circle></a><circle cx="464.1" cy="186.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><circle cx="462.6" cy="141.4" r="4" fill="#3465a4"><title>Renwick</title></circle></a><a href="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/"><circle cx="436.9" cy="175.3" r="4" fill="#3465a4"><title>Laois Irish County</title></circle></a><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/"><circle cx="502.2" cy="105.0" r="4" fill="#3465a4"><title>St. Mirren Football Club</title></circle></a><a href="/variants/s10/k18lb9k18lr2k2lr2k18ly9k18lr2/"><circle cx="347.6" cy="157.7" r="4" fill="#3465a4"><title>London Fog Black 2</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="428.7" cy="234.5" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc</title></circle></a><a href="/variants/s8/k22g11k2g4k2g6k58lb6~x2/"><circle cx="452.4" cy="97.6" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/"><circle cx="495.1" cy="145.5" r="4" fill="#3465a4"><title>Langhein</title></circle></a><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><circle cx="450.0" cy="122.3" r="4" fill="#3465a4"><title>Langhein, Alex</title></circle></a><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="387.2" cy="168.9" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s9/g12k8n6k22n3k8n3k40g6/"><circle cx="391.1" cy="149.9" r="4" fill="#3465a4"><title>Jensen, Sven</title></circle></a><circle cx="465.5" cy="187.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

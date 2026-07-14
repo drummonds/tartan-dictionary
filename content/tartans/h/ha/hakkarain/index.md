@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ki37w18k37r2k2r2/"
 ---
-Its design is pattern [KWKRKRKRKW](/stripes/kwkrkrkrkw/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwkrkr/">KWKRKR</a></nav>
+Its design is pattern [KWKRKR](/stripes/kwkrkr/) — the page of every tartan sharing this colour sequence.
 
 The **Hakkarain** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ki37w18k37r2k2r2/">Hakkarain</a></td><td><code>Ki/74 W36 K74 R4 K4 R4 K4 R4 K74 W/36</code></td><td>314</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ki37w18k37r2k2r2/"><img src="/variants/s6/ki37w18k37r2k2r2~x2~ki0705267-k0700000/sett.png" alt="Hakkarain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ki37w18k37r2k2r2~x2~ki0705267-k0700000/">Hakkarain</a></td><td><code>Ki/74 W36 K74 R4 K4 R/4</code></td><td>314</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ki37w18k37r2k2r2~x2~ki0705267-k0700000/"><img src="/variants/s6/ki37w18k37r2k2r2~x2~ki0705267-k0700000/sett.png" alt="Hakkarain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r3k12g4db12r1k2r1~x4/"><circle cx="190.8" cy="166.1" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><a href="/variants/s6/k2w1k12g5db11r1~x2/"><circle cx="188.1" cy="164.1" r="4" fill="#3465a4"><title>New England</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="232.5" cy="185.1" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="256.2" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s5/dr3k1t27k27w3~x2/"><circle cx="265.5" cy="141.9" r="4" fill="#3465a4"><title>Bro-Spirit of Northmen</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="163.1" cy="150.5" r="4" fill="#3465a4"><title>Sandberg of Greenock</title></circle></a><a href="/variants/s5/db16r1k16w1r1~x4/"><circle cx="283.0" cy="158.0" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><circle cx="161.0" cy="147.1" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/"><circle cx="185.1" cy="162.3" r="4" fill="#3465a4"><title>Longford County Crest</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="266.0" cy="138.8" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><circle cx="202.3" cy="147.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r3k12g4db12r1k2r1~x4/"><circle cx="191.4" cy="166.0" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><a href="/variants/s6/k2w1k12g5db11r1~x2/"><circle cx="188.7" cy="164.0" r="4" fill="#3465a4"><title>New England</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="233.2" cy="185.1" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="257.1" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s5/dr3k1t27k27w3~x2/"><circle cx="266.3" cy="141.9" r="4" fill="#3465a4"><title>Bro-Spirit of Northmen</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="163.6" cy="150.3" r="4" fill="#3465a4"><title>Sandberg of Greenock</title></circle></a><a href="/variants/s5/db16r1k16w1r1~x4/"><circle cx="283.9" cy="158.1" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><circle cx="161.5" cy="146.9" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/"><circle cx="185.7" cy="162.2" r="4" fill="#3465a4"><title>Longford County Crest</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="266.9" cy="138.7" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><circle cx="202.9" cy="147.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/">Dixon, Clyde (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/"><img src="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/sett.png" alt="Dixon, Clyde (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/dixon-clyde/">Dixon, Clyde</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/dixon-clyde/"><img src="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/sett.png" alt="Dixon, Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

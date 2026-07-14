@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lo4db23k4g16db23lb4/">Baptist Union of Scotland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lo4db23k4g16db23lb4/"><img src="/variants/s6/lo4db23k4g16db23lb4/sett.png" alt="Baptist Union of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baptist-union-of-scotland/">Baptist Union of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baptist-union-of-scotland/"><img src="/variants/s6/lo4db23k4g16db23lb4/sett.png" alt="Baptist Union of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/r36k2w1g18w1dy2y2r3k1r3y2dy2w1lb18k5r4y5dy2w2~x2/">Chattan Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/r36k2w1g18w1dy2y2r3k1r3y2dy2w1lb18k5r4y5dy2w2~x2/"><img src="/variants/s19/r36k2w1g18w1dy2y2r3k1r3y2dy2w1lb18k5r4y5dy2w2~x2/sett.png" alt="Chattan Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chattan-4/">Chattan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chattan-4/"><img src="/variants/s19/r36k2w1g18w1dy2y2r3k1r3y2dy2w1lb18k5r4y5dy2w2~x2/sett.png" alt="Chattan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s19/r24k1w1g6w1g1y2r2k1r2y2g1w1lb6k2r3y3g2w1~x2/">MacKintosh (Chief) Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/r24k1w1g6w1g1y2r2k1r2y2g1w1lb6k2r3y3g2w1~x2/"><img src="/variants/s19/r24k1w1g6w1g1y2r2k1r2y2g1w1lb6k2r3y3g2w1~x2/sett.png" alt="MacKintosh (Chief) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackintosh/">MacKintosh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh/"><img src="/variants/s19/r24k1w1g6w1g1y2r2k1r2y2g1w1lb6k2r3y3g2w1~x2/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

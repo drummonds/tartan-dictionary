@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w6g5r5g45k4ly24k4g5/"
+- "/setts/lb6dg5dr5dg45k4dy24k4dg5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkykgrgw/">GKYKGRGW</a></nav>
 Its design is pattern [GKYKGRGW](/stripes/gkykgrgw/) — the page of every tartan sharing this colour sequence.
 
 Irish family tartan with a mustard or dark saffron stripe.
@@ -15,10 +19,10 @@ The **O'Neill** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w6g5r5g45k4ly24k4g5/">O'Neill</a> ★</td><td><code>W/12 G10 R10 G90 K8 LY48 K8 G/10</code></td><td>370</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w6g5r5g45k4ly24k4g5/"><img src="/variants/s8/w6g5r5g45k4ly24k4g5~x2/sett.png" alt="O'Neill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lb6dg5dr5dg45k4dy24k4dg5/">Clan/Family Tartan</a></td><td><code>DG/10 K8 DY48 K8 DG90 DR10 DG10 LB12 DG10 DR10 DG90 K8 DY48 K/8</code></td><td>370</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb6dg5dr5dg45k4dy24k4dg5/"><img src="/variants/s8/lb6dg5dr5dg45k4dy24k4dg5~x2/sett.png" alt="Clan/Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w6g5r5g45k4ly24k4g5~x2/">O'Neill</a> ★</td><td><code>W/12 G10 R10 G90 K8 LY48 K8 G/10</code></td><td>370</td><td>1999</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w6g5r5g45k4ly24k4g5~x2/"><img src="/variants/s8/w6g5r5g45k4ly24k4g5~x2/sett.png" alt="O'Neill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb6dg5dr5dg45k4dy24k4dg5~x2/">Clan/Family Tartan</a></td><td><code>LB/12 DG10 DR10 DG90 K8 DY48 K8 DG/10</code></td><td>370</td><td>1999</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb6dg5dr5dg45k4dy24k4dg5~x2/"><img src="/variants/s8/lb6dg5dr5dg45k4dy24k4dg5~x2/sett.png" alt="Clan/Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w6g5r5g45k4o24k4g5~x2/"><circle cx="264.3" cy="150.4" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><circle cx="257.7" cy="139.2" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><circle cx="256.1" cy="116.5" r="4" fill="#3465a4"><title>Humphries</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="305.9" cy="150.5" r="4" fill="#3465a4"><title>Instakilt</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="311.4" cy="129.6" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/"><circle cx="201.3" cy="151.1" r="4" fill="#3465a4"><title>MacMillan Society of Glasgow</title></circle></a><a href="/variants/s11/k1gi3w3g15k1g3gi2k1gi1lg1w1~x2~gi2408144-g2007139/"><circle cx="259.0" cy="119.5" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.1" cy="108.6" r="4" fill="#3465a4"><title>Steel</title></circle></a><a href="/variants/s8/y1g1r1g6k6g6w1g1~x4/"><circle cx="232.7" cy="180.4" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/"><circle cx="259.7" cy="117.9" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><circle cx="250.7" cy="149.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/w6g5r5g45k4o24k4g5~x2/"><circle cx="264.9" cy="150.4" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><circle cx="258.3" cy="139.1" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><circle cx="256.8" cy="116.4" r="4" fill="#3465a4"><title>Humphries</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="306.8" cy="150.6" r="4" fill="#3465a4"><title>Instakilt</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.1" cy="129.6" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/"><circle cx="201.8" cy="151.0" r="4" fill="#3465a4"><title>MacMillan Society of Glasgow</title></circle></a><a href="/variants/s11/k1gi3w3g15k1g3gi2k1gi1lg1w1~x2~gi2408144-g2007139/"><circle cx="259.6" cy="119.5" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.7" cy="108.5" r="4" fill="#3465a4"><title>Steel</title></circle></a><a href="/variants/s8/y1g1r1g6k6g6w1g1~x4/"><circle cx="233.3" cy="180.4" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/"><circle cx="260.3" cy="117.9" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><circle cx="251.2" cy="149.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

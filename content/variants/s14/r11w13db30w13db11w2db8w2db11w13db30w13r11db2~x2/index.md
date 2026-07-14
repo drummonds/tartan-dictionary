@@ -12,10 +12,10 @@ crumbs:
 - name: "Jubilation"
   url: "/tartans/j/ju/jubilation-2/"
 - name: "Jubilation"
-  url: "/setts/r11w13db30w13db11w2db8w2db11w13db30w13r11db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r11w13db30w13db11w2db8w2db11w13db30w13r11db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ju/jubilation-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWBWBWBWBWBWR](/stripes/brwbwbwbwbwbwr/).
 
 Part of the [Jubilation](/tartans/j/ju/jubilation-2/) tartan — the named design grouping this sett with its other cloths.

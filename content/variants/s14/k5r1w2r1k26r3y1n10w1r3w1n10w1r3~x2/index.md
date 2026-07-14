@@ -8,10 +8,10 @@ crumbs:
 - name: "El Dorado Hills Firefighters Pipes and Drums"
   url: "/tartans/e/el/el-dorado-hills-firefighters-pipes-and-drums/"
 - name: "El Dorado Hills Firefighters Pipes and Drums"
-  url: "/setts/k5r1w2r1k26r3y1n10w1r3w1n10w1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5r1w2r1k26r3y1n10w1r3w1n10w1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/el/el-dorado-hills-firefighters-pipes-and-drums/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRKRGBWRWBWR](/stripes/krwrkrgbwrwbwr/).
 
 Part of the [El Dorado Hills Firefighters Pipes and Drums](/tartans/e/el/el-dorado-hills-firefighters-pipes-and-drums/) tartan — the named design grouping this sett with its other cloths.

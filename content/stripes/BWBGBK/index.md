@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db24w4db24y4dr5k4~x2/">De Grussa</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db24w4db24y4dr5k4~x2/"><img src="/variants/s6/db24w4db24y4dr5k4~x2/sett.png" alt="De Grussa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/de-grussa/">De Grussa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/de-grussa/"><img src="/variants/s6/db24w4db24y4dr5k4~x2/sett.png" alt="De Grussa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/k30t40dy3t5w2t6~x2/">Micron</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k30t40dy3t5w2t6~x2/"><img src="/variants/s6/k30t40dy3t5w2t6~x2/sett.png" alt="Micron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/micron/">Micron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/micron/"><img src="/variants/s6/k30t40dy3t5w2t6~x2/sett.png" alt="Micron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

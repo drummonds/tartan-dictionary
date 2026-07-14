@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/">Kerry County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/"><img src="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/sett.png" alt="Kerry County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kerry-county-crest/">Kerry County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kerry-county-crest/"><img src="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/sett.png" alt="Kerry County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dt6o1dt40n1dt12o12n6o2r2o4~x2~o2500000-n1900000/">Dark Lochnagar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dt6o1dt40n1dt12o12n6o2r2o4~x2~o2500000-n1900000/"><img src="/variants/s10/dt6o1dt40n1dt12o12n6o2r2o4~x2~o2500000-n1900000/sett.png" alt="Dark Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/">Lochnagar Dark (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/"><img src="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/sett.png" alt="Lochnagar Dark (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dark-lochnagar/">Dark Lochnagar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dark-lochnagar/"><img src="/variants/s10/dt6o1dt40n1dt12o12n6o2r2o4~x2~o2500000-n1900000/sett.png" alt="Dark Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochnagar-dark/">Lochnagar Dark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochnagar-dark/"><img src="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/sett.png" alt="Lochnagar Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

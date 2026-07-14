@@ -12,10 +12,10 @@ crumbs:
 - name: "MacLachlan"
   url: "/tartans/m/ma/maclachlan-3/"
 - name: "MacLachlan (Chief's Dress)"
-  url: "/setts/k6ly2k21ly2k6ly24k2ly6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6ly2k21ly2k6ly24k2ly6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclachlan-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYKYKY](/stripes/kykykyky/).
 
 Part of the [MacLachlan](/tartans/m/ma/maclachlan-3/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2585](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1842 — MacLachlan (Chief's Dress) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2585">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><br><em>Scottish Tartans Society notes: The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. In 1893 D.W. Stewart said: 'in use by present MacLachlan of MacLachlan' which is why this is often called the Chief's sett.</em></li>
-<li>1842 — MacLachlan - 1842 (Chief's Dress) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1277">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #E8C000"></span><br><em>STS notes: The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. In 1893, D.W. Stewart said: "in use by present MacLachlan of MacLachlan" which is why this is often called the Chief's sett (pattern).</em></li>
+<li>1842 — MacLachlan - 1842 (Chief's Dress) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1277/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #E8C000"></span><br><em>STS notes: The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. In 1893, D.W. Stewart said: "in use by present MacLachlan of MacLachlan" which is why this is often called the Chief's sett (pattern).</em></li>
 </ul>
 </details>
 

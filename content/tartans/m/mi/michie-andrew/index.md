@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Michie"
   url: "/clan/michie/"
+aliases:
+- "/setts/dp62g5dg20lb5k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bggwk/">BGGWK</a></nav>
 A tartan of [Clan Michie](/clan/michie/).
 Its design is pattern [BGGWK](/stripes/bggwk/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Michie, Andrew** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp62g5dg20lb5k1/">Michie, Andrew</a></td><td><code>DP/124 G10 DG40 LB10 K/2</code></td><td>246</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp62g5dg20lb5k1/"><img src="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/sett.png" alt="Michie, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/">Michie, Andrew</a></td><td><code>DP/124 G10 DG40 LB10 K/2</code></td><td>246</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/"><img src="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/sett.png" alt="Michie, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="497.5" cy="133.1" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="404.1" cy="106.3" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4/"><circle cx="397.8" cy="153.0" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="440.8" cy="77.2" r="4" fill="#3465a4"><title>Michael</title></circle></a><a href="/variants/s5/n52k10do16n1w2~x2/"><circle cx="433.3" cy="124.6" r="4" fill="#3465a4"><title>Wcwm 1163</title></circle></a><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/"><circle cx="394.7" cy="105.3" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="388.9" cy="60.5" r="4" fill="#3465a4"><title>Christie Hunting</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="425.3" cy="178.6" r="4" fill="#3465a4"><title>Meaux, Luc G</title></circle></a><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/"><circle cx="435.9" cy="92.6" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s7/db67w1ly6r5dg25db3k5~x2/"><circle cx="382.7" cy="78.9" r="4" fill="#3465a4"><title>Guide Dogs</title></circle></a><circle cx="430.8" cy="103.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="498.6" cy="133.4" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="405.2" cy="106.4" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4/"><circle cx="398.9" cy="153.2" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="442.2" cy="77.5" r="4" fill="#3465a4"><title>Michael</title></circle></a><a href="/variants/s5/n52k10do16n1w2~x2/"><circle cx="434.4" cy="124.9" r="4" fill="#3465a4"><title>Wcwm 1163</title></circle></a><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/"><circle cx="395.7" cy="105.4" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="390.2" cy="60.6" r="4" fill="#3465a4"><title>Christie Hunting</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="426.3" cy="178.8" r="4" fill="#3465a4"><title>Meaux, Luc G</title></circle></a><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/"><circle cx="437.4" cy="92.9" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s7/db67w1ly6r5dg25db3k5~x2/"><circle cx="383.8" cy="79.0" r="4" fill="#3465a4"><title>Guide Dogs</title></circle></a><circle cx="432.0" cy="103.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/">Moncton, City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/"><img src="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/sett.png" alt="Moncton, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moncton-city-of/">Moncton, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moncton-city-of/"><img src="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/sett.png" alt="Moncton, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

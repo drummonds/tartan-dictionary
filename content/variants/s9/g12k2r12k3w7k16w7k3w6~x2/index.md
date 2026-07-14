@@ -12,10 +12,10 @@ crumbs:
 - name: "Borthwick Dress"
   url: "/tartans/b/bo/borthwick-dress/"
 - name: "Borthwick Dress"
-  url: "/setts/g12k2r12k3w7k16w7k3w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g12k2r12k3w7k16w7k3w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/borthwick-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKWKWKW](/stripes/gkrkwkwkw/).
 
 Part of the [Borthwick Dress](/tartans/b/bo/borthwick-dress/) tartan — the named design grouping this sett with its other cloths.

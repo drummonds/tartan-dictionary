@@ -8,10 +8,10 @@ crumbs:
 - name: "Auld Alliance"
   url: "/tartans/a/au/auld-alliance/"
 - name: "Auld Alliance"
-  url: "/setts/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/auld-alliance/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWRBBBBBBBBBW](/stripes/bbbbwrbbbbbbbbbw/).
 
 Part of the [Auld Alliance](/tartans/a/au/auld-alliance/) tartan — the named design grouping this sett with its other cloths.

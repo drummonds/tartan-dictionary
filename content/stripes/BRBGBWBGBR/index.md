@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r16db6y4db6w1db6y4db6r16db1~x4~db1406275/">Superfast Ferries</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r16db6y4db6w1db6y4db6r16db1~x4~db1406275/"><img src="/variants/s10/r16db6y4db6w1db6y4db6r16db1~x4~db1406275/sett.png" alt="Superfast Ferries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/superfast-ferries-2/">Superfast Ferries</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/superfast-ferries-2/"><img src="/variants/s10/r16db6y4db6w1db6y4db6r16db1~x4~db1406275/sett.png" alt="Superfast Ferries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

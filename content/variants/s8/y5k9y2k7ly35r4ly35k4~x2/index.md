@@ -12,10 +12,10 @@ crumbs:
 - name: "Wilbers"
   url: "/tartans/w/wi/wilbers-2/"
 - name: "Wilbers"
-  url: "/setts/y5k9y2k7ly35r4ly35k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y5k9y2k7ly35r4ly35k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilbers-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKYRYK](/stripes/gkgkyryk/).
 
 Part of the [Wilbers](/tartans/w/wi/wilbers-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5274](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2007 — Wilbers (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5274">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B49440;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B49440"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Keith Lumsdem for Michael Wilbers of Bad Bentheim, Germany. The colours come from the family coat of arms and the family can be traced back to Helschen Hanover in the 15th century.</em></li>
-<li>pre 2007 — Wilbers (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7151">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B49440;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B49440"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Keith Lumsdem for Michael Wilbers of Bad Bentheim, Germany. The colours come from the family coat of arms and the family can be traced back to Helschen Hanover in the 15th century.</em></li>
+<li>pre 2007 — Wilbers (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7151/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B49440;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B49440"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Keith Lumsdem for Michael Wilbers of Bad Bentheim, Germany. The colours come from the family coat of arms and the family can be traced back to Helschen Hanover in the 15th century.</em></li>
 </ul>
 </details>
 

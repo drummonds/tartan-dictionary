@@ -8,15 +8,15 @@ crumbs:
 - name: "St. Giles Check"
   url: "/tartans/s/st/st-giles-check-2/"
 - name: "St. Giles Check"
-  url: "/setts/db3o1w1o25w1o1dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3o1w1o25w1o1dp3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRWRWRBRWRWR](/stripes/brwrwrbrwrwr/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-giles-check-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRWR](/stripes/brwr/).
 
 Part of the [St. Giles Check](/tartans/s/st/st-giles-check-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3893](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3893)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 387
 
 ## Thread count
-DB/12 O4 W4 O100 W4 O4 DP12 O4 W4 O100 W4 O/4
+DB/12 O4 W4 O100 W4 O4 DP/12
 
-One full sett is **496 threads**.
+One full sett is **256 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/12 O4 W4 O100 W4 O4 DP12 O4 W4 O100 W4 O/4 — 496 threads; it folds to the canonical 256-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **496 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 O4 W4 O100 W4 O4 DP12 O4 W4 O100 W4 O/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 O4 W4 O100 W4 O4 DP/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

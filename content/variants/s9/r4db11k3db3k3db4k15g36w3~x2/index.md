@@ -12,10 +12,10 @@ crumbs:
 - name: "Semple"
   url: "/tartans/s/se/semple-2/"
 - name: "Semple Family Tartan"
-  url: "/setts/r4db11k3db3k3db4k15g36w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4db11k3db3k3db4k15g36w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/se/semple-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKBKGW](/stripes/rbkbkbkgw/).
 
 Part of the [Semple](/tartans/s/se/semple-2/) tartan — the named design grouping this sett with its other cloths.

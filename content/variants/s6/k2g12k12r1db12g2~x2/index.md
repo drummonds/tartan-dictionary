@@ -12,10 +12,10 @@ crumbs:
 - name: "Ferguson of Balquhidder"
   url: "/tartans/f/fe/ferguson-of-balquhidder/"
 - name: "Ferguson of Balquhidder"
-  url: "/setts/k2g12k12r1db12g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2g12k12r1db12g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/ferguson-of-balquhidder/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRKGK](/stripes/gbrkgk/).
 
 Part of the [Ferguson of Balquhidder](/tartans/f/fe/ferguson-of-balquhidder/) tartan — the named design grouping this sett with its other cloths.

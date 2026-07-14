@@ -12,10 +12,10 @@ crumbs:
 - name: "Dalziel"
   url: "/tartans/d/da/dalziel/"
 - name: "Dalziel #1"
-  url: "/setts/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dalziel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/).
 
 Part of the [Dalziel](/tartans/d/da/dalziel/) tartan — the named design grouping this sett with its other cloths.

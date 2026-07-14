@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db4r11db1g8r2g4k1y2~x4/">Craik of Assington Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db4r11db1g8r2g4k1y2~x4/"><img src="/variants/s8/db4r11db1g8r2g4k1y2~x4/sett.png" alt="Craik of Assington Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/craik-of-assington/">Craik of Assington</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/craik-of-assington/"><img src="/variants/s8/db4r11db1g8r2g4k1y2~x4/sett.png" alt="Craik of Assington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

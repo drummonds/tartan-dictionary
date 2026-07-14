@@ -12,10 +12,10 @@ crumbs:
 - name: "Moray of Abercairney"
   url: "/tartans/m/mo/moray-of-abercairney/"
 - name: "Moray of Abercairney Clan Tartan"
-  url: "/setts/db3lb1k1r12ri1g9r1lb1db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3lb1k1r12ri1g9r1lb1db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/moray-of-abercairney/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKRRGRWB](/stripes/bwkrrgrwb/).
 
 Part of the [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney/) tartan — the named design grouping this sett with its other cloths.

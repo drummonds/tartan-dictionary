@@ -8,10 +8,10 @@ crumbs:
 - name: "Knights Breton"
   url: "/tartans/k/kn/knights-breton/"
 - name: "Knights Breton"
-  url: "/setts/r19k8r18k50w14k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r19k8r18k50w14k6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/kn/knights-breton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKRKR](/stripes/kwkrkr/).
 
 Part of the [Knights Breton](/tartans/k/kn/knights-breton/) tartan — the named design grouping this sett with its other cloths.

@@ -11,11 +11,11 @@ crumbs:
   url: "/families/macnicol/"
 - name: "MacNicol Hunting"
   url: "/tartans/m/ma/macnicol-hunting/"
-- name: "MacNicol Hunting"
-  url: "/setts/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/"
+- name: "Cunningham, hunting"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macnicol-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKBRKRGKGKWKG](/stripes/bkgkgkbrkrgkgkwkg/).
 
 Part of the [MacNicol Hunting](/tartans/m/ma/macnicol-hunting/) tartan — the named design grouping this sett with its other cloths.

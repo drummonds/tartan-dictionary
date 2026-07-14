@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/">Justerini &amp; Brooks</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/"><img src="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/sett.png" alt="Justerini &amp; Brooks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/justerini-brooks/">Justerini &amp; Brooks</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/justerini-brooks/"><img src="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/sett.png" alt="Justerini &amp; Brooks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

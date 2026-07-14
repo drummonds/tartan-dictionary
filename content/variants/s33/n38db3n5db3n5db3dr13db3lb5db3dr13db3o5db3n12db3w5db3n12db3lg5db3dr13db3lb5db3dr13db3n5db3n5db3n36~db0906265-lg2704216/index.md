@@ -12,10 +12,10 @@ crumbs:
 - name: "Kumikyoku"
   url: "/tartans/k/ku/kumikyoku/"
 - name: "Kumikyoku - Wind of Thistle"
-  url: "/setts/n38db3n5db3n5db3dr13db3lb5db3dr13db3o5db3n12db3w5db3n12db3lg5db3dr13db3lb5db3dr13db3n5db3n5db3n36/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n38db3n5db3n5db3dr13db3lb5db3dr13db3o5db3n12db3w5db3n12db3lg5db3dr13db3lb5db3dr13db3n5db3n5db3n36/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ku/kumikyoku/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBWBBBRBBBWBBBYBBBWBBBBBBBB](/stripes/bbbbbbbbwbbbrbbbwbbbybbbwbbbbbbbb/).
 
 Part of the [Kumikyoku](/tartans/k/ku/kumikyoku/) tartan — the named design grouping this sett with its other cloths.

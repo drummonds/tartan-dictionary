@@ -10,15 +10,15 @@ crumbs:
 - name: "Hebrides South Uist"
   url: "/tartans/h/he/hebrides-south-uist/"
 - name: "Hebrides South Uist #2"
-  url: "/setts/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGGGBGGYGGGBGGGGWGWGGGGBGGGYGGBGGG](/stripes/bgggbggygggbggggwgwggggbgggyggbggg/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebrides-south-uist/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGGBGGYGGGBGGGGWG](/stripes/bgggbggygggbggggwg/).
 
 Part of the [Hebrides South Uist](/tartans/h/he/hebrides-south-uist/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1669](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1669)
 
@@ -47,9 +47,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2008
 
 ## Thread count
-DB/38 Y4 G6 Y4 DB4 Y40 G2 LY2 Y2 G4 Y4 DB36 Y4 G4 Y44 G6 W2 Y6 W2 G6 Y44 G4 Y4 DB36 Y4 G4 Y2 LY2 G2 Y40 DB4 Y4 G6 Y/4
+DB/38 Y4 G6 Y4 DB4 Y40 G2 LY2 Y2 G4 Y4 DB36 Y4 G4 Y44 G6 W2 Y/6
 
-One full sett is **718 threads**.
+One full sett is **380 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/38 Y4 G6 Y4 DB4 Y40 G2 LY2 Y2 G4 Y4 DB36 Y4 G4 Y44 G6 W2 Y6 W2 G6 Y44 G4 Y4 DB36 Y4 G4 Y2 LY2 G2 Y40 DB4 Y4 G6 Y/4 — 718 threads; it folds to the canonical 380-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -58,7 +60,7 @@ One full sett is **718 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/38 Y4 G6 Y4 DB4 Y40 G2 LY2 Y2 G4 Y4 DB36 Y4 G4 Y44 G6 W2 Y6 W2 G6 Y44 G4 Y4 DB36 Y4 G4 Y2 LY2 G2 Y40 DB4 Y4 G6 Y/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/38 Y4 G6 Y4 DB4 Y40 G2 LY2 Y2 G4 Y4 DB36 Y4 G4 Y44 G6 W2 Y/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Hueg Formal"
   url: "/tartans/h/hu/hueg-formal/"
 - name: "Hueg (Munich) Formal (Personal)"
-  url: "/setts/n4dp3n13dg8r12g4r12n4r5w4r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n4dp3n13dg8r12g4r12n4r5w4r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hueg-formal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGRGRBRWR](/stripes/bbbgrgrbrwr/).
 
 Part of the [Hueg Formal](/tartans/h/hu/hueg-formal/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/b4w1r11b2w2dp11lb4w2lb4dp11w2dg4y4w1dp5w1y4dg4w2g10dg4w2dg4g10w2lb2dp6w1dp6lb2w2b2r11w1b4w1~x2/">Waggrall</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/b4w1r11b2w2dp11lb4w2lb4dp11w2dg4y4w1dp5w1y4dg4w2g10dg4w2dg4g10w2lb2dp6w1dp6lb2w2b2r11w1b4w1~x2/"><img src="/variants/s36/b4w1r11b2w2dp11lb4w2lb4dp11w2dg4y4w1dp5w1y4dg4w2g10dg4w2dg4g10w2lb2dp6w1dp6lb2w2b2r11w1b4w1~x2/sett.png" alt="Waggrall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/waggrall-2/">Waggrall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/waggrall-2/"><img src="/variants/s36/b4w1r11b2w2dp11lb4w2lb4dp11w2dg4y4w1dp5w1y4dg4w2g10dg4w2dg4g10w2lb2dp6w1dp6lb2w2b2r11w1b4w1~x2/sett.png" alt="Waggrall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

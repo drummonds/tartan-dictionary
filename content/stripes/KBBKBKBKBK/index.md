@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/">Douglas (WCWM)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/"><img src="/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/sett.png" alt="Douglas (WCWM) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/k2dr26n26k2n3k2n3k14dr2k2~x2/">Wcwm 1527</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k2dr26n26k2n3k2n3k14dr2k2~x2/"><img src="/variants/s10/k2dr26n26k2n3k2n3k14dr2k2~x2/sett.png" alt="Wcwm 1527 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/douglas-6/">Douglas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-6/"><img src="/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wc/wcwm-1527/">Wcwm 1527</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wc/wcwm-1527/"><img src="/variants/s10/k2dr26n26k2n3k2n3k14dr2k2~x2/sett.png" alt="Wcwm 1527 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

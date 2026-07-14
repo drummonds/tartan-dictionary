@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w1k1y1dg8k1lb1w8lb1k8lb1w1dg8lb1w1~x6/">Praetorian, Green (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w1k1y1dg8k1lb1w8lb1k8lb1w1dg8lb1w1~x6/"><img src="/variants/s14/w1k1y1dg8k1lb1w8lb1k8lb1w1dg8lb1w1~x6/sett.png" alt="Praetorian, Green (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/praetorian-3/">Praetorian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/praetorian-3/"><img src="/variants/s14/w1k1y1dg8k1lb1w8lb1k8lb1w1dg8lb1w1~x6/sett.png" alt="Praetorian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

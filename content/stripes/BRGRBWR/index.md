@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r5w36dp14r9g28r8dp2~x2/">MacKintosh, Arisaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r5w36dp14r9g28r8dp2~x2/"><img src="/variants/s7/r5w36dp14r9g28r8dp2~x2/sett.png" alt="MacKintosh, Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackintosh-arisaid/">MacKintosh, Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-arisaid/"><img src="/variants/s7/r5w36dp14r9g28r8dp2~x2/sett.png" alt="MacKintosh, Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

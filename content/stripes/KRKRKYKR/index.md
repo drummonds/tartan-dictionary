@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r20k1ly3k1r60k30r48k4~x2/">Barkwell (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r20k1ly3k1r60k30r48k4~x2/"><img src="/variants/s8/r20k1ly3k1r60k30r48k4~x2/sett.png" alt="Barkwell (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barkwell/">Barkwell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barkwell/"><img src="/variants/s8/r20k1ly3k1r60k30r48k4~x2/sett.png" alt="Barkwell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

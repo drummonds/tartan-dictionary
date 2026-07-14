@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r1k8dg2db4r1~x8/">Nairn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r1k8dg2db4r1~x8/"><img src="/variants/s5/r1k8dg2db4r1~x8/sett.png" alt="Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r1k8g2db4r1/">Nairn (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r1k8g2db4r1/"><img src="/variants/s5/r1k8g2db4r1~x4/sett.png" alt="Nairn (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/nairn-2/">Nairn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/nairn-2/"><img src="/variants/s5/r1k8g2db4r1~x4/sett.png" alt="Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

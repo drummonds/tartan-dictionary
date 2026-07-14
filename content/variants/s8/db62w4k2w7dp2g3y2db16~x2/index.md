@@ -12,10 +12,10 @@ crumbs:
 - name: "Boat of Garten"
   url: "/tartans/b/bo/boat-of-garten-2/"
 - name: "Boat of Garten"
-  url: "/setts/db62w4k2w7dp2g3y2db16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db62w4k2w7dp2g3y2db16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/boat-of-garten-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBWKWB](/stripes/bggbwkwb/).
 
 Part of the [Boat of Garten](/tartans/b/bo/boat-of-garten-2/) tartan — the named design grouping this sett with its other cloths.

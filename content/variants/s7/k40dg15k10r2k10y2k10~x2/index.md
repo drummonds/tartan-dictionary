@@ -8,10 +8,10 @@ crumbs:
 - name: "Langhein"
   url: "/tartans/l/la/langhein/"
 - name: "Langhein Family Tartan"
-  url: "/setts/k40dg15k10r2k10y2k10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k40dg15k10r2k10y2k10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/langhein/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRKGK](/stripes/kgkrkgk/).
 
 Part of the [Langhein](/tartans/l/la/langhein/) tartan — the named design grouping this sett with its other cloths.

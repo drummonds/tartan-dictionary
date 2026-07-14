@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/kirkcaldy/"
 - name: "Kirkcaldy"
   url: "/families/kirkcaldy/"
+aliases:
+- "/setts/lb23w3k10r2db45y1/"
+- "/setts/t23w3k10r2db45dy1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbrkww/">GBRKWW</a></nav>
 A tartan of the [Kirkcaldy](/families/kirkcaldy/) family.
 Its design is pattern [GBRKWW](/stripes/gbrkww/) — the page of every tartan sharing this colour sequence.
 
@@ -20,10 +24,10 @@ The **Kirkcaldy** tartan groups 2 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb23w3k10r2db45y1/">Kirkcaldy</a> ★</td><td><code>LB/46 W6 K20 R4 DB90 Y/2</code></td><td>288</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb23w3k10r2db45y1/"><img src="/variants/s6/lb23w3k10r2db45y1~x2/sett.png" alt="Kirkcaldy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/t23w3k10r2db45dy1/">Name Tartan</a></td><td><code>T/46 W6 K20 R4 DB90 DY/2</code></td><td>288</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t23w3k10r2db45dy1/"><img src="/variants/s6/t23w3k10r2db45dy1~x2/sett.png" alt="Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb23w3k10r2db45y1~x2/">Kirkcaldy</a> ★</td><td><code>LB/46 W6 K20 R4 DB90 Y/2</code></td><td>288</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb23w3k10r2db45y1~x2/"><img src="/variants/s6/lb23w3k10r2db45y1~x2/sett.png" alt="Kirkcaldy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t23w3k10r2db45dy1~x2/">Name Tartan</a></td><td><code>T/46 W6 K20 R4 DB90 DY/2</code></td><td>288</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/t23w3k10r2db45dy1~x2/"><img src="/variants/s6/t23w3k10r2db45dy1~x2/sett.png" alt="Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="149.4" r="4" fill="#3465a4"><title>Shearer</title></circle></a><a href="/variants/s7/dr4lb16k3db44dr1w3y2~x2/"><circle cx="320.7" cy="65.4" r="4" fill="#3465a4"><title>Dress</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="243.1" cy="113.2" r="4" fill="#3465a4"><title>Pipers' Trail</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="282.6" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="233.5" cy="139.8" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s7/r8y2b7y2db24k2g1~x2/"><circle cx="268.2" cy="113.4" r="4" fill="#3465a4"><title>Traill</title></circle></a><a href="/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/"><circle cx="330.9" cy="65.6" r="4" fill="#3465a4"><title>Hier Family, Kilcreggan</title></circle></a><a href="/variants/s7/r2w1lb50db24g12k1y1~x2/"><circle cx="274.9" cy="59.7" r="4" fill="#3465a4"><title>Pincock , Dougie</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="234.5" cy="105.6" r="4" fill="#3465a4"><title>U.S. Forces Thurso</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="182.8" cy="91.7" r="4" fill="#3465a4"><title>Unidentified Lady's</title></circle></a><circle cx="262.6" cy="78.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.9" cy="149.3" r="4" fill="#3465a4"><title>Shearer</title></circle></a><a href="/variants/s7/dr4lb16k3db44dr1w3y2~x2/"><circle cx="321.8" cy="65.3" r="4" fill="#3465a4"><title>Dress</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="243.9" cy="113.1" r="4" fill="#3465a4"><title>Pipers' Trail</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="283.4" cy="126.5" r="4" fill="#3465a4"><title>Marion</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="234.2" cy="139.7" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s7/r8y2b7y2db24k2g1~x2/"><circle cx="268.9" cy="113.3" r="4" fill="#3465a4"><title>Traill</title></circle></a><a href="/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/"><circle cx="331.8" cy="65.5" r="4" fill="#3465a4"><title>Hier Family, Kilcreggan</title></circle></a><a href="/variants/s7/r2w1lb50db24g12k1y1~x2/"><circle cx="275.7" cy="59.5" r="4" fill="#3465a4"><title>Pincock , Dougie</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="235.3" cy="105.5" r="4" fill="#3465a4"><title>U.S. Forces Thurso</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="183.5" cy="91.4" r="4" fill="#3465a4"><title>Unidentified Lady's</title></circle></a><circle cx="263.5" cy="78.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

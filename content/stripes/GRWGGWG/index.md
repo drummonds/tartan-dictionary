@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g60r7w10dg16g15w3g15~x2/">Deer Park (Loton) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g60r7w10dg16g15w3g15~x2/"><img src="/variants/s7/g60r7w10dg16g15w3g15~x2/sett.png" alt="Deer Park (Loton) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/deer-park/">Deer Park</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/deer-park/"><img src="/variants/s7/g60r7w10dg16g15w3g15~x2/sett.png" alt="Deer Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

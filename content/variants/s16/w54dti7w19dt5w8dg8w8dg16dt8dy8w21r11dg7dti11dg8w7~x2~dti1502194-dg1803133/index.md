@@ -8,10 +8,10 @@ crumbs:
 - name: "Beckett Beaumont"
   url: "/tartans/b/be/beckett-beaumont/"
 - name: "Beckett Beaumont"
-  url: "/setts/w54dti7w19dt5w8dg8w8dg16dt8dy8w21r11dg7dti11dg8w7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w54dti7w19dt5w8dg8w8dg16dt8dy8w21r11dg7dti11dg8w7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/beckett-beaumont/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWGWGBGWRGBGW](/stripes/wbwbwgwgbgwrgbgw/).
 
 Part of the [Beckett Beaumont](/tartans/b/be/beckett-beaumont/) tartan — the named design grouping this sett with its other cloths.

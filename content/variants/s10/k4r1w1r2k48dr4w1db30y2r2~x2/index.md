@@ -8,10 +8,10 @@ crumbs:
 - name: "RCACA"
   url: "/tartans/r/rc/rcaca/"
 - name: "RCACA"
-  url: "/setts/k4r1w1r2k48dr4w1db30y2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4r1w1r2k48dr4w1db30y2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/rc/rcaca/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRKBWBGR](/stripes/krwrkbwbgr/).
 
 Part of the [RCACA](/tartans/r/rc/rcaca/) tartan — the named design grouping this sett with its other cloths.

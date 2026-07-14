@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr5lr1dr1lg1dr1n5o6dr1o6n5lg5dr1~x4~lr2800000-lg2901240-n1900000-o2500000/">Lakin (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr5lr1dr1lg1dr1n5o6dr1o6n5lg5dr1~x4~lr2800000-lg2901240-n1900000-o2500000/"><img src="/variants/s12/dr5lr1dr1lg1dr1n5o6dr1o6n5lg5dr1~x4~lr2800000-lg2901240-n1900000-o2500000/sett.png" alt="Lakin (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lakin/">Lakin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lakin/"><img src="/variants/s12/dr5lr1dr1lg1dr1n5o6dr1o6n5lg5dr1~x4~lr2800000-lg2901240-n1900000-o2500000/sett.png" alt="Lakin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

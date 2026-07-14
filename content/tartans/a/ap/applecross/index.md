@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg18r2dg7r18/"
+- "/setts/r18g7r2g18/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgr/">GRGR</a></nav>
 Its design is pattern [GRGR](/stripes/grgr/) — the page of every tartan sharing this colour sequence.
 
 The **Applecross** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,12 @@ The **Applecross** tartan groups 2 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg18r2dg7r18/">Applecross</a> ★</td><td><code>DG/36 R4 DG14 R/36</code></td><td>108</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg18r2dg7r18/"><img src="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/sett.png" alt="Applecross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r18g7r2g18/">(District)</a></td><td><code>R/72 G28 R8 G/72</code></td><td>108</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r18g7r2g18/"><img src="/variants/s4/r18g7r2g18~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/">Applecross</a> ★</td><td><code>DG/36 R4 DG14 R/36</code></td><td>108</td><td>1850</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><img src="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/sett.png" alt="Applecross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r18g7r2g18~x4/">(District)</a></td><td><code>R/18 G7 R2 G/18</code></td><td>54</td><td>1850</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r18g7r2g18~x4/"><img src="/variants/s4/r18g7r2g18~x4/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s4/r18g7r2g18~x2/">(MacDonald)</a></td><td><code>R/36 G14 R4 G/36</code></td><td>108</td><td>~1947</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s4/r18g7r2g18~x4/">(District)</a></td><td><code>R/72 G28 R8 G/72</code></td><td>216</td><td>1850</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s4/r18g7r2g18~x2/">(MacDonald)</a> · <a href="/variants/s4/r18g7r2g18~x4/">(District)</a></td></tr>
 </tbody>
 </table>
@@ -30,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/g16r1g2r11~x8/"><circle cx="442.7" cy="244.6" r="4" fill="#3465a4"><title>Middleton</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="317.5" cy="228.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="316.3" cy="214.6" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/k1r5g10r5g1~x4/"><circle cx="301.8" cy="220.3" r="4" fill="#3465a4"><title>Murray, Lord George</title></circle></a><a href="/variants/s4/r38g2r5g16/"><circle cx="523.5" cy="218.3" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/variants/s6/g5w2r27g27r5w2~x2/"><circle cx="337.1" cy="206.1" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s5/g8r2g9r16g1~x2/"><circle cx="395.2" cy="243.2" r="4" fill="#3465a4"><title>MacGregor of Glen Strae</title></circle></a><a href="/variants/s4/g2r4g2lb1~x4/"><circle cx="262.0" cy="322.8" r="4" fill="#3465a4"><title>Wilson's No.188</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="348.9" cy="250.0" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="385.1" cy="258.3" r="4" fill="#3465a4"><title>Bryce</title></circle></a><circle cx="404.9" cy="290.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/g16r1g2r11~x8/"><circle cx="443.5" cy="245.0" r="4" fill="#3465a4"><title>Middleton</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="318.1" cy="228.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="317.0" cy="214.7" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/k1r5g10r5g1~x4/"><circle cx="302.4" cy="220.5" r="4" fill="#3465a4"><title>Murray, Lord George</title></circle></a><a href="/variants/s4/r38g2r5g16/"><circle cx="524.5" cy="218.8" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/variants/s6/g5w2r27g27r5w2~x2/"><circle cx="337.6" cy="206.2" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s5/g8r2g9r16g1~x2/"><circle cx="395.8" cy="243.5" r="4" fill="#3465a4"><title>MacGregor of Glen Strae</title></circle></a><a href="/variants/s4/g2r4g2lb1~x4/"><circle cx="262.1" cy="322.8" r="4" fill="#3465a4"><title>Wilson's No.188</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="349.4" cy="250.2" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="385.7" cy="258.5" r="4" fill="#3465a4"><title>Bryce</title></circle></a><circle cx="405.5" cy="290.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Harry/Parry"
   url: "/tartans/h/ha/harry-parry/"
 - name: "Harry/Parry"
-  url: "/setts/db6ly3db3ly15r7db7r5db17r46ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6ly3db3ly15r7db7r5db17r46ly4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harry-parry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYRBRBRY](/stripes/bybyrbrbry/).
 
 Part of the [Harry/Parry](/tartans/h/ha/harry-parry/) tartan — the named design grouping this sett with its other cloths.

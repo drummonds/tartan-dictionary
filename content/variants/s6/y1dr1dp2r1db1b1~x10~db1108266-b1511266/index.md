@@ -8,10 +8,10 @@ crumbs:
 - name: "Lytley alias Parsons Formal"
   url: "/tartans/l/ly/lytley-alias-parsons-formal/"
 - name: "Lytley alias Parsons Formal (Personal)"
-  url: "/setts/y1dr1dp2r1db1b1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1dr1dp2r1db1b1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/ly/lytley-alias-parsons-formal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBBG](/stripes/bbrbbg/).
 
 Part of the [Lytley alias Parsons Formal](/tartans/l/ly/lytley-alias-parsons-formal/) tartan — the named design grouping this sett with its other cloths.

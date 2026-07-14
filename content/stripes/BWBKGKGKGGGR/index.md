@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/">Kerby, from the Tennessee Cumberland Basin</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><img src="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/sett.png" alt="Kerby, from the Tennessee Cumberland Basin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kerby-from-the-tennessee-cumberland-basin/">Kerby, from the Tennessee Cumberland Basin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kerby-from-the-tennessee-cumberland-basin/"><img src="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/sett.png" alt="Kerby, from the Tennessee Cumberland Basin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

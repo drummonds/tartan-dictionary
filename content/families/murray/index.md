@@ -17,7 +17,7 @@ A family of [Clan Murray](/clan/murray/).
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/m/mu/murray/">Murray</a> ★</td><td>1831</td><td>1</td><td>3</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/murray/"><img src="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/murray/"><img src="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mu/murray-4/">Murray</a></td><td>1831</td><td>1</td><td>1</td><td>2.90</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/murray-4/"><img src="/variants/s25/db2k1db6k6g6r2g6k6db1k1db1k1db6k1db1k1db1k6g6r2g6k6db6k1db1~x8/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mu/murray-2/">Murray</a></td><td>1810</td><td>1</td><td>1</td><td>3.41</td></tr>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/">Derry County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/"><img src="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/sett.png" alt="Derry County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/derry-county-crest-range/">Derry County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/derry-county-crest-range/"><img src="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/sett.png" alt="Derry County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

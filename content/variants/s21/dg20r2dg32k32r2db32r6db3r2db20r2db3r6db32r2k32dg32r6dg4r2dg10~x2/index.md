@@ -12,10 +12,10 @@ crumbs:
 - name: "Macdonald of Rossie"
   url: "/tartans/m/ma/macdonald-of-rossie/"
 - name: "Macdonald of Rossie"
-  url: "/setts/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-of-rossie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKRBRBRBRBRBRKGRGRG](/stripes/grgkrbrbrbrbrbrkgrgrg/).
 
 Part of the [Macdonald of Rossie](/tartans/m/ma/macdonald-of-rossie/) tartan — the named design grouping this sett with its other cloths.

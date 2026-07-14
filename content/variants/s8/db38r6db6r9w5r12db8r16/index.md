@@ -10,10 +10,10 @@ crumbs:
 - name: "Edinburgh Marketing"
   url: "/tartans/e/ed/edinburgh-marketing/"
 - name: "Edinburgh Marketing Corporate Tartan"
-  url: "/setts/db38r6db6r9w5r12db8r16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db38r6db6r9w5r12db8r16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-marketing/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRWRBR](/stripes/brbrwrbr/).
 
 Part of the [Edinburgh Marketing](/tartans/e/ed/edinburgh-marketing/) tartan — the named design grouping this sett with its other cloths.

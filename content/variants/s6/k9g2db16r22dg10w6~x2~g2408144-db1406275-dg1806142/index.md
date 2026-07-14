@@ -12,10 +12,10 @@ crumbs:
 - name: "Nicolson of Taransay"
   url: "/tartans/n/ni/nicolson-of-taransay/"
 - name: "Nicolson of Taransay (Personal)"
-  url: "/setts/k9g2db16r22dg10w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k9g2db16r22dg10w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ni/nicolson-of-taransay/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBRGW](/stripes/kgbrgw/).
 
 Part of the [Nicolson of Taransay](/tartans/n/ni/nicolson-of-taransay/) tartan — the named design grouping this sett with its other cloths.

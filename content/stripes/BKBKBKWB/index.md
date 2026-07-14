@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/">MacEvil (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><img src="/variants/s8/dr35w8k85n6k4n14k2dp4/sett.png" alt="MacEvil (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macevil/">MacEvil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macevil/"><img src="/variants/s8/dr35w8k85n6k4n14k2dp4/sett.png" alt="MacEvil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

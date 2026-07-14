@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/">Institute of Directors (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/"><img src="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/sett.png" alt="Institute of Directors (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/institute-of-directors/">Institute of Directors</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/institute-of-directors/"><img src="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/sett.png" alt="Institute of Directors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

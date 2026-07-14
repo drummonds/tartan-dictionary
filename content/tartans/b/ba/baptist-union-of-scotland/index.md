@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lo4db23k4g16db23lb4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbgkby/">WBGKBY</a></nav>
 Its design is pattern [WBGKBY](/stripes/wbgkby/) — the page of every tartan sharing this colour sequence.
 
 The **Baptist Union of Scotland** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Baptist Union of Scotland** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lo4db23k4g16db23lb4/">Baptist Union of Scotland</a></td><td><code>LB/4 DB23 G16 K4 DB23 LO/4</code></td><td>140</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lo4db23k4g16db23lb4/"><img src="/variants/s6/lo4db23k4g16db23lb4/sett.png" alt="Baptist Union of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lo4db23k4g16db23lb4/">Baptist Union of Scotland</a></td><td><code>LO/4 DB23 K4 G16 DB23 LB/4</code></td><td>140</td><td>2001</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lo4db23k4g16db23lb4/"><img src="/variants/s6/lo4db23k4g16db23lb4/sett.png" alt="Baptist Union of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="161.8" cy="201.2" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db11w2db11k4g8r1~x2/"><circle cx="251.7" cy="187.9" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s7/db25r10db25w8o6g8y5~x2/"><circle cx="205.1" cy="215.1" r="4" fill="#3465a4"><title>Barneys</title></circle></a><a href="/variants/s5/lo1db6k5db6lb1~x6~db1406275-lb3300000/"><circle cx="291.8" cy="229.7" r="4" fill="#3465a4"><title>Bank of Scotland</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/"><circle cx="283.2" cy="217.9" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/variants/s6/lb3k2g2k1db10w1~x8/"><circle cx="212.3" cy="158.9" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s6/r1g9db9k1db1w1~x6/"><circle cx="222.5" cy="177.7" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s6/db24w4db24y4dr5k4~x2/"><circle cx="365.9" cy="190.2" r="4" fill="#3465a4"><title>De Grussa</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="288.6" cy="162.7" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="341.6" cy="174.6" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><circle cx="261.4" cy="210.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="162.2" cy="201.1" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db11w2db11k4g8r1~x2/"><circle cx="252.4" cy="187.9" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s7/db25r10db25w8o6g8y5~x2/"><circle cx="205.4" cy="214.9" r="4" fill="#3465a4"><title>Barneys</title></circle></a><a href="/variants/s5/lo1db6k5db6lb1~x6~db1406275-lb3300000/"><circle cx="292.6" cy="229.8" r="4" fill="#3465a4"><title>Bank of Scotland</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/"><circle cx="283.8" cy="217.9" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/variants/s6/lb3k2g2k1db10w1~x8/"><circle cx="212.9" cy="158.8" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s6/r1g9db9k1db1w1~x6/"><circle cx="223.1" cy="177.6" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s6/db24w4db24y4dr5k4~x2/"><circle cx="366.9" cy="190.3" r="4" fill="#3465a4"><title>De Grussa</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="289.4" cy="162.7" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="342.5" cy="174.8" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><circle cx="262.1" cy="210.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

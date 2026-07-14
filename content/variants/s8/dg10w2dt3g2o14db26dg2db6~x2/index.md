@@ -8,15 +8,15 @@ crumbs:
 - name: "Spirit of Fife"
   url: "/tartans/s/sp/spirit-of-fife/"
 - name: "Spirit of Fife"
-  url: "/setts/dg10w2dt3g2o14db26dg2db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg10w2dt3g2o14db26dg2db6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GWBGRBGBGBRGBW](/stripes/gwbgrbgbgbrgbw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spirit-of-fife/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBRGBWG](/stripes/bgbrgbwg/).
 
 Part of the [Spirit of Fife](/tartans/s/sp/spirit-of-fife/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3863](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3863)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3863](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/2005 — Spirit of Fife (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3863">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>Designed by Claire Donaldson of The House of Edgar, Perth for Robert Mathieson of The Kilt Centre in Hamilton who was responding to a request from Fife Radio for a new tartan for the county. Different warp & weft. Colours very poor here - refer to weaver's printout.</em></li>
-<li>2005 Feb — Spirit of Fife (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6526">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>Designed by Claire Donaldson of The House of Edgar, Perth for Robert Mathieson of The Kilt Centre in Hamilton who was responding to a request from Fife Radio for a new tartan for the county. Different warp & weft. Colours very poor here - refer to weaver's printout.</em></li>
+<li>2005 Feb — Spirit of Fife (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6526/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#14283C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #14283C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B468AC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #B468AC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>Designed by Claire Donaldson of The House of Edgar, Perth for Robert Mathieson of The Kilt Centre in Hamilton who was responding to a request from Fife Radio for a new tartan for the county. Different warp & weft. Colours very poor here - refer to weaver's printout.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6526
 
 ## Thread count
-DG/20 W4 DT6 G4 O28 DB52 DG4 DB12 DG4 DB52 O28 G4 DT6 W/4
+DG/20 W4 DT6 G4 O28 DB52 DG4 DB/12
 
-One full sett is **432 threads**.
+One full sett is **228 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/20 W4 DT6 G4 O28 DB52 DG4 DB12 DG4 DB52 O28 G4 DT6 W/4 — 432 threads; it folds to the canonical 228-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **432 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/20 W4 DT6 G4 O28 DB52 DG4 DB12 DG4 DB52 O28 G4 DT6 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/20 W4 DT6 G4 O28 DB52 DG4 DB/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Robinson, Barbara Ann"
   url: "/tartans/r/ro/robinson-barbara-ann/"
 - name: "Robinson, Barbara Ann (Personal)"
-  url: "/setts/y1db8g1db1g8k1w8lb1w1lb8y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1db8g1db1g8k1w8lb1w1lb8y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robinson-barbara-ann/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGKWWWWG](/stripes/gbgbgkwwwwg/).
 
 Part of the [Robinson, Barbara Ann](/tartans/r/ro/robinson-barbara-ann/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db12t2dg10db16dg6db2dg2db2dg6r2db5w2~x2~db0906265-t2105244/">Ayre Robinson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db12t2dg10db16dg6db2dg2db2dg6r2db5w2~x2~db0906265-t2105244/"><img src="/variants/s12/db12t2dg10db16dg6db2dg2db2dg6r2db5w2~x2~db0906265-t2105244/sett.png" alt="Ayre Robinson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayre-robinson/">Ayre Robinson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ay/ayre-robinson/"><img src="/variants/s12/db12t2dg10db16dg6db2dg2db2dg6r2db5w2~x2~db0906265-t2105244/sett.png" alt="Ayre Robinson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

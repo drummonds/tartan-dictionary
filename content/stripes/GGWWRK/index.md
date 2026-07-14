@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3r24lb16w11y1g3~x2/">Bro-sant-Malou</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3r24lb16w11y1g3~x2/"><img src="/variants/s6/k3r24lb16w11y1g3~x2/sett.png" alt="Bro-sant-Malou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bro-sant-malou/">Bro-sant-Malou</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bro-sant-malou/"><img src="/variants/s6/k3r24lb16w11y1g3~x2/sett.png" alt="Bro-sant-Malou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/k62r9w7lb6y3g6~x2/">Tainsh (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><img src="/variants/s6/k62r9w7lb6y3g6~x2/sett.png" alt="Tainsh (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tainsh/">Tainsh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tainsh/"><img src="/variants/s6/k62r9w7lb6y3g6~x2/sett.png" alt="Tainsh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Raeburn"
   url: "/tartans/r/ra/raeburn/"
 - name: "Raeburn"
-  url: "/setts/k34y3k34y26/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k34y3k34y26/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/raeburn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGK](/stripes/gkgk/).
 
 Part of the [Raeburn](/tartans/r/ra/raeburn/) tartan — the named design grouping this sett with its other cloths.

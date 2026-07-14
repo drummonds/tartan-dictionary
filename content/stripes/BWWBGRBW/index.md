@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/">Hier Family, Kilcreggan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/"><img src="/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/sett.png" alt="Hier Family, Kilcreggan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hier-family-kilcreggan/">Hier Family, Kilcreggan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hier-family-kilcreggan/"><img src="/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/sett.png" alt="Hier Family, Kilcreggan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

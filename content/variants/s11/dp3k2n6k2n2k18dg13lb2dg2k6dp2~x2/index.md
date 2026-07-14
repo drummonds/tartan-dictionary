@@ -8,10 +8,10 @@ crumbs:
 - name: "Dama Resort"
   url: "/tartans/d/da/dama-resort/"
 - name: "Dama Resort"
-  url: "/setts/dp3k2n6k2n2k18dg13lb2dg2k6dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3k2n6k2n2k18dg13lb2dg2k6dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dama-resort/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWGKB](/stripes/bkbkbkgwgkb/).
 
 Part of the [Dama Resort](/tartans/d/da/dama-resort/) tartan — the named design grouping this sett with its other cloths.

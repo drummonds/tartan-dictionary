@@ -8,15 +8,15 @@ crumbs:
 - name: "O'Monaghan"
   url: "/tartans/o/o/o-monaghan/"
 - name: "O'Monaghan (Personal)"
-  url: "/setts/y25w2lb4lo7lb4w2ly25w2lb4lo7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y25w2lb4lo7lb4w2ly25w2lb4lo7/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [WWYWWYWWGWWYWWYWWY](/stripes/wwywwywwgwwywwywwy/).
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-monaghan/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWWYWWYWWY](/stripes/gwwywwywwy/).
 
 Part of the [O'Monaghan](/tartans/o/o/o-monaghan/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3247](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3247)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3247](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — O'Monaghan (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3247">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WB #789484"></span><br><em>No details apart from Jamie Scarlett MBE's comments: 'There are two pieces of O'Monaghan, a large piece of Lochcarron with mustard yellow squares and a standard 18ins x 12ins of mine with buff squares. My client claimed to be The O'Monaghan.' Sample of buff squared version in the Scottish Tartans Authority's Scarlett Collection.</em></li>
-<li>pre 2004 — O'Monaghan (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6266">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WB #789484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>. No details apart from Jamie's comments: "There are two pieces of O'Monaghan , a large piece of Lochcarron with mustard yellow squares and a standard 18ins x 12ins of mine with buff squares. My client claimed to be THE O'Monaghan." Sample of buff squared version in the Scarlett Collection.</em></li>
+<li>pre 2004 — O'Monaghan (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6266/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#789484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WB #789484"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>. No details apart from Jamie's comments: "There are two pieces of O'Monaghan , a large piece of Lochcarron with mustard yellow squares and a standard 18ins x 12ins of mine with buff squares. My client claimed to be THE O'Monaghan." Sample of buff squared version in the Scarlett Collection.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6266
 
 ## Thread count
-LO/14 LB8 W4 LY50 W4 LB8 LO14 LB8 W4 Y50 W4 LB8 LO14 LB8 W4 LY50 W4 LB/8
+Y/50 W4 LB8 LO14 LB8 W4 LY50 W4 LB8 LO/14
 
-One full sett is **506 threads**.
+One full sett is **264 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LO/14 LB8 W4 LY50 W4 LB8 LO14 LB8 W4 Y50 W4 LB8 LO14 LB8 W4 LY50 W4 LB/8 — 506 threads; it folds to the canonical 264-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,6 +65,6 @@ One full sett is **506 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LO/14 LB8 W4 LY50 W4 LB8 LO14 LB8 W4 Y50 W4 LB8 LO14 LB8 W4 LY50 W4 LB/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/50 W4 LB8 LO14 LB8 W4 LY50 W4 LB8 LO/14 tartan" width="880" height="480">
 
 ID: /variants/s10/y25w2lb4lo7lb4w2ly25w2lb4lo7~x2/

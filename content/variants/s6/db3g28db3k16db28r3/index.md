@@ -8,10 +8,10 @@ crumbs:
 - name: "Flower of Scotland"
   url: "/tartans/f/fl/flower-of-scotland/"
 - name: "Flower of Scotland"
-  url: "/setts/db3g28db3k16db28r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3g28db3k16db28r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fl/flower-of-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBR](/stripes/bgbkbr/).
 
 Part of the [Flower of Scotland](/tartans/f/fl/flower-of-scotland/) tartan — the named design grouping this sett with its other cloths.
@@ -54,7 +54,7 @@ One full sett is **156 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.29** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.27** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

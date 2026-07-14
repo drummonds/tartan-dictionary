@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w6n2db6n2db25n2dr1n2ly3lb5w6n4~x2/">Mead of Poetry, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w6n2db6n2db25n2dr1n2ly3lb5w6n4~x2/"><img src="/variants/s12/w6n2db6n2db25n2dr1n2ly3lb5w6n4~x2/sett.png" alt="Mead of Poetry, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/mead-of-poetry/">Mead of Poetry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/mead-of-poetry/"><img src="/variants/s12/w6n2db6n2db25n2dr1n2ly3lb5w6n4~x2/sett.png" alt="Mead of Poetry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

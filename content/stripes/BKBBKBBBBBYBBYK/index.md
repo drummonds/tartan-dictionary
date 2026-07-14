@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db11k1dr3db6k1db6dr3db4dr7db11ly1db11dr7ly2k4~x2/">James (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db11k1dr3db6k1db6dr3db4dr7db11ly1db11dr7ly2k4~x2/"><img src="/variants/s15/db11k1dr3db6k1db6dr3db4dr7db11ly1db11dr7ly2k4~x2/sett.png" alt="James (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/james-of-wales/">James of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/james-of-wales/"><img src="/variants/s15/db11k1dr3db6k1db6dr3db4dr7db11ly1db11dr7ly2k4/sett.png" alt="James of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

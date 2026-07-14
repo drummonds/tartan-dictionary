@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/">Lindsay Earl of Crawford</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/"><img src="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/sett.png" alt="Lindsay Earl of Crawford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/lindsay-earl-of-crawford/">Lindsay Earl of Crawford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/lindsay-earl-of-crawford/"><img src="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/sett.png" alt="Lindsay Earl of Crawford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

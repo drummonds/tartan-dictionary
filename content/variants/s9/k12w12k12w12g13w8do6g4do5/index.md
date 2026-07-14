@@ -10,10 +10,10 @@ crumbs:
 - name: "Burns Heritage Check"
   url: "/tartans/b/bu/burns-heritage-check/"
 - name: "Burns Heritage Check"
-  url: "/setts/k12w12k12w12g13w8do6g4do5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k12w12k12w12g13w8do6g4do5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/burns-heritage-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWGWKWK](/stripes/bgbwgwkwk/).
 
 Part of the [Burns Heritage Check](/tartans/b/bu/burns-heritage-check/) tartan — the named design grouping this sett with its other cloths.
@@ -56,7 +56,7 @@ One full sett is **151 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.64** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.62** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

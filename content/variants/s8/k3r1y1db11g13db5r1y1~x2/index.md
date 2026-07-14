@@ -12,10 +12,10 @@ crumbs:
 - name: "Snodgrass"
   url: "/tartans/s/sn/snodgrass/"
 - name: "Snodgrass Family Tartan"
-  url: "/setts/k3r1y1db11g13db5r1y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3r1y1db11g13db5r1y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sn/snodgrass/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGBGRK](/stripes/grbgbgrk/).
 
 Part of the [Snodgrass](/tartans/s/sn/snodgrass/) tartan — the named design grouping this sett with its other cloths.

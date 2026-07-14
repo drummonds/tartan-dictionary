@@ -8,10 +8,10 @@ crumbs:
 - name: "Tomatin Distillery"
   url: "/tartans/t/to/tomatin-distillery/"
 - name: "Tomatin Distillery"
-  url: "/setts/do9k8n15dy50k3dr2k2dg1k2do1k1dy9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do9k8n15dy50k3dr2k2dg1k2do1k1dy9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/tomatin-distillery/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGKBKGKBKG](/stripes/bkbgkbkgkbkg/).
 
 Part of the [Tomatin Distillery](/tartans/t/to/tomatin-distillery/) tartan — the named design grouping this sett with its other cloths.

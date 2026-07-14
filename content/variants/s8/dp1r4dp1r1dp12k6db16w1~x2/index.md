@@ -12,10 +12,10 @@ crumbs:
 - name: "First"
   url: "/tartans/f/fi/first/"
 - name: "First"
-  url: "/setts/dp1r4dp1r1dp12k6db16w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp1r4dp1r1dp12k6db16w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fi/first/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBKBW](/stripes/brbrbkbw/).
 
 Part of the [First](/tartans/f/fi/first/) tartan — the named design grouping this sett with its other cloths.

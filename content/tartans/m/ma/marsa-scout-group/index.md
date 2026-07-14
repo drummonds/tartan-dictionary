@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r4k1db8k1r2k44g8k1y2k1g4/"
+- "/setts/r4k2db8r2k44g8k1ly2k1g4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgkgkrkbkr/">GKGKGKRKBKR</a></nav>
 Its design is pattern [GKGKGKRKBKR](/stripes/gkgkgkrkbkr/) — the page of every tartan sharing this colour sequence.
 
 The **Marsa Scout Group** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Marsa Scout Group** tartan groups 2 setts — the same named design record
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4k1db8k1r2k44g8k1y2k1g4/">Marsa Scout Group</a> ★</td><td><code>R/8 K2 DB16 K2 R4 K88 G16 K2 Y4 K2 G/8</code></td><td>288</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4k1db8k1r2k44g8k1y2k1g4/"><img src="/variants/s11/r4k1db8k1r2k44g8k1y2k1g4~x2/sett.png" alt="Marsa Scout Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r4k2db8r2k44g8k1ly2k1g4/">Marsa Scout Group</a></td><td><code>R/8 K4 DB16 R4 K88 G16 K2 LY4 K2 G/8</code></td><td>288</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4k2db8r2k44g8k1ly2k1g4/"><img src="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/sett.png" alt="Marsa Scout Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r4k1db8k1r2k44g8k1y2k1g4~x2/">Marsa Scout Group</a> ★</td><td><code>R/8 K2 DB16 K2 R4 K88 G16 K2 Y4 K2 G/8</code></td><td>288</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r4k1db8k1r2k44g8k1y2k1g4~x2/"><img src="/variants/s11/r4k1db8k1r2k44g8k1y2k1g4~x2/sett.png" alt="Marsa Scout Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/">Marsa Scout Group</a></td><td><code>R/8 K4 DB16 R4 K88 G16 K2 LY4 K2 G/8</code></td><td>288</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/"><img src="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/sett.png" alt="Marsa Scout Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="330.9" cy="41.7" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s11/k50dg7k4w2k2y2k2dg7k2g3y2~x2/"><circle cx="414.5" cy="53.0" r="4" fill="#3465a4"><title>Initial City Link</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="364.4" cy="34.3" r="4" fill="#3465a4"><title>Goldwire</title></circle></a><a href="/variants/s10/lb6dg2lb2dg5k49r2k2r4g10k2~x2/"><circle cx="312.2" cy="55.8" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/"><circle cx="338.1" cy="36.4" r="4" fill="#3465a4"><title>Estonian National</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="356.3" cy="35.8" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="320.3" cy="25.2" r="4" fill="#3465a4"><title>Coleburn</title></circle></a><a href="/variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/"><circle cx="341.5" cy="61.8" r="4" fill="#3465a4"><title>Arbroath Smokie</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="391.1" cy="23.5" r="4" fill="#3465a4"><title>Williams Dress</title></circle></a><a href="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/"><circle cx="360.2" cy="50.4" r="4" fill="#3465a4"><title>Longmount</title></circle></a><circle cx="345.2" cy="30.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="332.1" cy="41.7" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s11/k50dg7k4w2k2y2k2dg7k2g3y2~x2/"><circle cx="416.0" cy="53.3" r="4" fill="#3465a4"><title>Initial City Link</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="365.7" cy="34.5" r="4" fill="#3465a4"><title>Goldwire</title></circle></a><a href="/variants/s10/lb6dg2lb2dg5k49r2k2r4g10k2~x2/"><circle cx="313.4" cy="55.9" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/"><circle cx="339.4" cy="36.5" r="4" fill="#3465a4"><title>Estonian National</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="357.6" cy="35.9" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="321.5" cy="25.2" r="4" fill="#3465a4"><title>Coleburn</title></circle></a><a href="/variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/"><circle cx="342.6" cy="61.9" r="4" fill="#3465a4"><title>Arbroath Smokie</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="392.6" cy="23.7" r="4" fill="#3465a4"><title>Williams Dress</title></circle></a><a href="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/"><circle cx="361.5" cy="50.5" r="4" fill="#3465a4"><title>Longmount</title></circle></a><circle cx="346.5" cy="30.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

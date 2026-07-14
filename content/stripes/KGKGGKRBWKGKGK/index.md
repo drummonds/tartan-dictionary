@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/">Tarassow Russian Scouts Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/"><img src="/variants/s14/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/sett.png" alt="Tarassow Russian Scouts Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tarassow-russian-scouts/">Tarassow Russian Scouts</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tarassow-russian-scouts/"><img src="/variants/s14/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/sett.png" alt="Tarassow Russian Scouts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

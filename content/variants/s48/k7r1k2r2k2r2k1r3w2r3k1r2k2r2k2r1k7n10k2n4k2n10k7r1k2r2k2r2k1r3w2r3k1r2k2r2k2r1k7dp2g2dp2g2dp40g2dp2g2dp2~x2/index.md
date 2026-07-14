@@ -10,10 +10,10 @@ crumbs:
 - name: "Arran, Isle of"
   url: "/tartans/a/ar/arran-isle-of-2/"
 - name: "Arran, Isle of (Lochcarron)"
-  url: "/setts/k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4k2n10k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7dp2g2dp2g2dp40g2dp2g2dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4k2n10k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7dp2g2dp2g2dp40g2dp2g2dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/arran-isle-of-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBKRKRKRKRWRKRKRKRKBKBKBKRKRKRKRWRKRKRKRK](/stripes/bgbgbgbgbkrkrkrkrwrkrkrkrkbkbkbkrkrkrkrwrkrkrkrk/).
 
 Part of the [Arran, Isle of](/tartans/a/ar/arran-isle-of-2/) tartan — the named design grouping this sett with its other cloths.

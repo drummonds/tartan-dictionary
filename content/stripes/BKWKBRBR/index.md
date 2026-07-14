@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/">Sidney (Nova Scotia) Canadian Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/"><img src="/variants/s8/n16k4w2k4n6r11n2r16~x2/sett.png" alt="Sidney (Nova Scotia) Canadian Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sidney/">Sidney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sidney/"><img src="/variants/s8/n16k4w2k4n6r11n2r16~x2/sett.png" alt="Sidney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/n16k4w2k4n6o11n2o16~x2/">Sydney (Nova Scotia) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/n16k4w2k4n6o11n2o16~x2/"><img src="/variants/s8/n16k4w2k4n6o11n2o16~x2/sett.png" alt="Sydney (Nova Scotia) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sy/sydney/">Sydney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sy/sydney/"><img src="/variants/s8/n16k4w2k4n6o11n2o16~x2/sett.png" alt="Sydney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dp38k12ri15r4ri15k2w4~x2~ri2906009-r2007025/">Ferguson's Promise</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp38k12ri15r4ri15k2w4~x2~ri2906009-r2007025/"><img src="/variants/s7/dp38k12ri15r4ri15k2w4~x2~ri2906009-r2007025/sett.png" alt="Ferguson's Promise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/dr38k12ri15r4ri15k2w4~x2~ri2806019-r2108022/">Ferguson's Promise (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr38k12ri15r4ri15k2w4~x2~ri2806019-r2108022/"><img src="/variants/s7/dr38k12ri15r4ri15k2w4~x2~ri2806019-r2108022/sett.png" alt="Ferguson's Promise (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-s-promise/">Ferguson's Promise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-s-promise/"><img src="/variants/s7/dp38k12ri15r4ri15k2w4~x2~ri2906009-r2007025/sett.png" alt="Ferguson's Promise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

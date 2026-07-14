@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k4lo9k13g6lo3g9w4~x2/">Ramsay (Orange)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k4lo9k13g6lo3g9w4~x2/"><img src="/variants/s7/k4lo9k13g6lo3g9w4~x2/sett.png" alt="Ramsay (Orange) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/ramsay-5/">Ramsay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/ramsay-5/"><img src="/variants/s7/k4lo9k13g6lo3g9w4~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

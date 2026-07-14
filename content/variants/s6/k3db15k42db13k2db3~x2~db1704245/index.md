@@ -12,15 +12,15 @@ crumbs:
 - name: "McWilliams"
   url: "/tartans/m/mc/mcwilliams-2/"
 - name: "McWilliams Personal Tartan"
-  url: "/setts/k3db15k42db13k2db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3db15k42db13k2db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcwilliams-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKKKKKKKBK](/stripes/bkbkkkkkkkbk/).
 
 Part of the [McWilliams](/tartans/m/mc/mcwilliams-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11154](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11154)
 

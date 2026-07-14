@@ -4,16 +4,23 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai"
+  url: "/groups/masai/"
+- name: "Last of the Masai"
+  url: "/groups/masai/last-of-the-masai/"
+aliases:
+- "/setts/r25k5r1/"
 ---
-Its design is pattern [KRKR](/stripes/krkr/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkr/">RKR</a></nav>
+Its design is pattern [RKR](/stripes/rkr/) — the page of every tartan sharing this colour sequence.
 
 The **Masai Shuka 12** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r25k5r1/">Masai Shuka 12</a></td><td><code>R/100 K20 R4 K/20</code></td><td>144</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r25k5r1/"><img src="/variants/s3/r25k5r1~x4/sett.png" alt="Masai Shuka 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/r25k5r1~x4/">Masai Shuka 12</a></td><td><code>R/100 K20 R/4</code></td><td>144</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/r25k5r1~x4/"><img src="/variants/s3/r25k5r1~x4/sett.png" alt="Masai Shuka 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/r18k3r2~x4/"><circle cx="563.7" cy="196.9" r="4" fill="#3465a4"><title>Buie</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4/"><circle cx="534.7" cy="170.6" r="4" fill="#3465a4"><title>Martin, Robert N</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="505.3" cy="195.8" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/"><circle cx="510.1" cy="195.5" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><a href="/variants/s6/g4r16k5r50g4w1~x4/"><circle cx="552.9" cy="77.0" r="4" fill="#3465a4"><title>Chalet</title></circle></a><a href="/variants/s3/r63k16y5~x2/"><circle cx="443.5" cy="181.4" r="4" fill="#3465a4"><title>McPeek</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="485.5" cy="83.7" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="474.8" cy="201.3" r="4" fill="#3465a4"><title>International Karate Alliance</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="388.2" cy="199.3" r="4" fill="#3465a4"><title>Masai Shuka 20</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="380.1" cy="239.5" r="4" fill="#3465a4"><title>Masai Shuka 28</title></circle></a><circle cx="565.1" cy="153.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/r18k3r2~x4/"><circle cx="565.3" cy="197.4" r="4" fill="#3465a4"><title>Buie</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4/"><circle cx="536.0" cy="171.0" r="4" fill="#3465a4"><title>Martin, Robert N</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="506.2" cy="196.1" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/"><circle cx="511.1" cy="195.8" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><a href="/variants/s6/g4r16k5r50g4w1~x4/"><circle cx="554.5" cy="77.4" r="4" fill="#3465a4"><title>Chalet</title></circle></a><a href="/variants/s3/r63k16y5~x2/"><circle cx="444.7" cy="181.6" r="4" fill="#3465a4"><title>McPeek</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="486.9" cy="83.9" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="476.1" cy="201.7" r="4" fill="#3465a4"><title>International Karate Alliance</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="389.3" cy="199.5" r="4" fill="#3465a4"><title>Masai Shuka 20</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="380.8" cy="239.7" r="4" fill="#3465a4"><title>Masai Shuka 28</title></circle></a><circle cx="566.7" cy="154.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

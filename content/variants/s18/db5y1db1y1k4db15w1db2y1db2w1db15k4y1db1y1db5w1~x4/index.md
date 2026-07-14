@@ -8,10 +8,10 @@ crumbs:
 - name: "SPA Association"
   url: "/tartans/s/sp/spa-association/"
 - name: "SPA Association"
-  url: "/setts/db5y1db1y1k4db15w1db2y1db2w1db15k4y1db1y1db5w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5y1db1y1k4db15w1db2y1db2w1db15k4y1db1y1db5w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spa-association/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKBWBGBWBKGBGBW](/stripes/bgbgkbwbgbwbkgbgbw/).
 
 Part of the [SPA Association](/tartans/s/sp/spa-association/) tartan — the named design grouping this sett with its other cloths.

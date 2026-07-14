@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/granger/"
 - name: "Granger"
   url: "/families/granger/"
+aliases:
+- "/setts/b40k4b12k21b17w4/"
+- "/setts/db40k4db12k21g27w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkbw/">BKBKBW</a></nav>
 A tartan of the [Granger](/families/granger/) family.
 Its design is pattern [BKBKBW](/stripes/bkbkbw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Granger** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b40k4b12k21b17w4/">Granger</a> ★</td><td><code>B/80 K8 B24 K42 B34 W/8</code></td><td>304</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b40k4b12k21b17w4/"><img src="/variants/s6/b40k4b12k21b17w4~x2/sett.png" alt="Granger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db40k4db12k21g27w4/">(Personal)</a></td><td><code>DB/80 K8 DB24 K42 G54 W/8</code></td><td>344</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db40k4db12k21g27w4/"><img src="/variants/s6/db40k4db12k21g27w4~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/b40k4b12k21b17w4~x2/">Granger</a> ★</td><td><code>B/80 K8 B24 K42 B34 W/8</code></td><td>304</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/b40k4b12k21b17w4~x2/"><img src="/variants/s6/b40k4b12k21b17w4~x2/sett.png" alt="Granger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db40k4db12k21g27w4~x2/">(Personal)</a></td><td><code>DB/80 K8 DB24 K42 G54 W/8</code></td><td>344</td><td>1994</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db40k4db12k21g27w4~x2/"><img src="/variants/s6/db40k4db12k21g27w4~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="423.3" cy="225.2" r="4" fill="#3465a4"><title>Auchterlonie</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="333.0" cy="182.8" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s6/db9k9db9k9db42lb5~x2/"><circle cx="423.5" cy="199.6" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/variants/s6/r1t8k3t1k3t1~x8/"><circle cx="298.2" cy="198.4" r="4" fill="#3465a4"><title>Mackay</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x4/"><circle cx="351.4" cy="211.2" r="4" fill="#3465a4"><title>Morgan</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="376.2" cy="134.6" r="4" fill="#3465a4"><title>Gonzaga University's True Blue and W</title></circle></a><a href="/variants/s6/db5k2db14k14db2lp2~x2/"><circle cx="310.2" cy="216.0" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/variants/s8/w4n15db8k4db28k2db4w2/"><circle cx="306.9" cy="152.4" r="4" fill="#3465a4"><title>Kelvinside Academy</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="456.8" cy="133.4" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s6/db9k4lb1k4db9r1~x4~db1406275/"><circle cx="334.4" cy="201.3" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><circle cx="366.5" cy="194.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="424.2" cy="225.4" r="4" fill="#3465a4"><title>Auchterlonie</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="333.9" cy="182.9" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s6/db9k9db9k9db42lb5~x2/"><circle cx="424.6" cy="199.9" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/variants/s6/r1t8k3t1k3t1~x8/"><circle cx="299.0" cy="198.5" r="4" fill="#3465a4"><title>Mackay</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x4/"><circle cx="352.2" cy="211.5" r="4" fill="#3465a4"><title>Morgan</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="377.3" cy="134.7" r="4" fill="#3465a4"><title>Gonzaga University's True Blue and W</title></circle></a><a href="/variants/s6/db5k2db14k14db2lp2~x2/"><circle cx="311.0" cy="216.2" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/variants/s8/w4n15db8k4db28k2db4w2/"><circle cx="307.8" cy="152.4" r="4" fill="#3465a4"><title>Kelvinside Academy</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="458.2" cy="133.7" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s6/db9k4lb1k4db9r1~x4~db1406275/"><circle cx="335.3" cy="201.5" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><circle cx="367.5" cy="195.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

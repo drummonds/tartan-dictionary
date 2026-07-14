@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Etive"
   url: "/tartans/l/lo/loch-etive/"
 - name: "Loch Etive"
-  url: "/setts/y3db3k2db18k26r21g2lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3db3k2db18k26r21g2lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-etive/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKRGW](/stripes/gbkbkrgw/).
 
 Part of the [Loch Etive](/tartans/l/lo/loch-etive/) tartan — the named design grouping this sett with its other cloths.

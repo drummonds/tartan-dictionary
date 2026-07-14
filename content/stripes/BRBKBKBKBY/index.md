@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/">Brady 60th (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/"><img src="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/sett.png" alt="Brady 60th (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brady-60th/">Brady 60th</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brady-60th/"><img src="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/sett.png" alt="Brady 60th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

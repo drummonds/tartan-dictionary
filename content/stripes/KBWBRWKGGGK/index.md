@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k2db15w5db15r15w2k2g4y3g4k2~x2/">Pride, George (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k2db15w5db15r15w2k2g4y3g4k2~x2/"><img src="/variants/s11/k2db15w5db15r15w2k2g4y3g4k2~x2/sett.png" alt="Pride, George (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-george/">Pride, George</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-george/"><img src="/variants/s11/k2db15w5db15r15w2k2g4y3g4k2~x2/sett.png" alt="Pride, George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y4dg30g15db5lb10y4~x2/">MPS Emerald Society NCLEES 2012</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><img src="/variants/s6/y4dg30g15db5lb10y4~x2/sett.png" alt="MPS Emerald Society NCLEES 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mp/mps-emerald-society-nclees-2012/">MPS Emerald Society NCLEES 2012</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mp/mps-emerald-society-nclees-2012/"><img src="/variants/s6/y4dg30g15db5lb10y4~x2/sett.png" alt="MPS Emerald Society NCLEES 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

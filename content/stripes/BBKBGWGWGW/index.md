@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/">Windsor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><img src="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/sett.png" alt="Windsor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/windsor/">Windsor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/windsor/"><img src="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/sett.png" alt="Windsor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

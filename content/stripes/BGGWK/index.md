@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/">Michie, Andrew (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/"><img src="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/sett.png" alt="Michie, Andrew (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/michie-andrew/">Michie, Andrew</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/michie-andrew/"><img src="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/sett.png" alt="Michie, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

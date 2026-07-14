@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/andover/"
 - name: "Andover"
   url: "/families/andover/"
+aliases:
+- "/setts/r1n12k7do10r1/"
+- "/setts/r1n12k6ly1do10r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbkkbr/">RBKKBR</a></nav>
 A tartan of the [Andover](/families/andover/) family.
 Its design is pattern [RBKKBR](/stripes/rbkkbr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Andover** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r1n12k7do10r1/">Andover</a> ★</td><td><code>R/4 N48 K24 K4 DO40 R/4</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1n12k7do10r1/"><img src="/variants/s5/r1n12k7do10r1~x4/sett.png" alt="Andover sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r1n12k6ly1do10r1/">(Fashion)</a></td><td><code>R/4 N48 K24 LY4 DO40 R/4</code></td><td>240</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1n12k6ly1do10r1/"><img src="/variants/s6/r1n12k6ly1do10r1~x4/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r1n12k7do10r1~x4/">Andover</a> ★</td><td><code>R/4 N48 K28 DO40 R/4</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r1n12k7do10r1~x4/"><img src="/variants/s5/r1n12k7do10r1~x4/sett.png" alt="Andover sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r1n12k6ly1do10r1~x4/">(Fashion)</a></td><td><code>R/4 N48 K24 LY4 DO40 R/4</code></td><td>240</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r1n12k6ly1do10r1~x4/"><img src="/variants/s6/r1n12k6ly1do10r1~x4/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="162.2" cy="189.7" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special</title></circle></a><a href="/variants/s5/n8dr3dt34k34dp3~x2~n1900000-dt1600000/"><circle cx="239.3" cy="191.6" r="4" fill="#3465a4"><title>Passion of Scotland Pewter</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="203.3" cy="228.7" r="4" fill="#3465a4"><title>Mayer, Chris</title></circle></a><a href="/variants/s5/o30k7n20ly4k4~x2/"><circle cx="222.9" cy="215.1" r="4" fill="#3465a4"><title>Drumfintley</title></circle></a><a href="/variants/s6/g4dr28db6g10k10g3~x2/"><circle cx="228.6" cy="202.0" r="4" fill="#3465a4"><title>Canadian Autumn</title></circle></a><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><circle cx="189.6" cy="209.6" r="4" fill="#3465a4"><title>Lindsay Hunting</title></circle></a><a href="/variants/s5/k8lo2n30dr30lb3~x2/"><circle cx="253.1" cy="187.7" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s6/o3k17dt11o2oi20w2~x2~dt1600000-oi2500000/"><circle cx="133.2" cy="179.4" r="4" fill="#3465a4"><title>Commonwealth Games Council</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="171.5" cy="231.6" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th</title></circle></a><a href="/variants/s6/g3k15r8g2n8k2~x4/"><circle cx="170.0" cy="198.0" r="4" fill="#3465a4"><title>Thompson</title></circle></a><circle cx="221.1" cy="216.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="162.6" cy="189.6" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special</title></circle></a><a href="/variants/s5/n8dr3dt34k34dp3~x2~n1900000-dt1600000/"><circle cx="239.8" cy="191.6" r="4" fill="#3465a4"><title>Passion of Scotland Pewter</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="203.8" cy="228.6" r="4" fill="#3465a4"><title>Mayer, Chris</title></circle></a><a href="/variants/s5/o30k7n20ly4k4~x2/"><circle cx="223.3" cy="215.1" r="4" fill="#3465a4"><title>Drumfintley</title></circle></a><a href="/variants/s6/g4dr28db6g10k10g3~x2/"><circle cx="229.1" cy="202.0" r="4" fill="#3465a4"><title>Canadian Autumn</title></circle></a><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><circle cx="190.0" cy="209.5" r="4" fill="#3465a4"><title>Lindsay Hunting</title></circle></a><a href="/variants/s5/k8lo2n30dr30lb3~x2/"><circle cx="253.5" cy="187.7" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s6/o3k17dt11o2oi20w2~x2~dt1600000-oi2500000/"><circle cx="133.5" cy="179.2" r="4" fill="#3465a4"><title>Commonwealth Games Council</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="171.7" cy="231.5" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th</title></circle></a><a href="/variants/s6/g3k15r8g2n8k2~x4/"><circle cx="170.5" cy="197.9" r="4" fill="#3465a4"><title>Thompson</title></circle></a><circle cx="221.5" cy="216.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

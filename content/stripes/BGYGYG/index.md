@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg2ly14dg8ly3dg12db2~x2/">Confederate Infantry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg2ly14dg8ly3dg12db2~x2/"><img src="/variants/s6/dg2ly14dg8ly3dg12db2~x2/sett.png" alt="Confederate Infantry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/confederate-infantry/">Confederate Infantry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/confederate-infantry/"><img src="/variants/s6/dg2ly14dg8ly3dg12db2~x2/sett.png" alt="Confederate Infantry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

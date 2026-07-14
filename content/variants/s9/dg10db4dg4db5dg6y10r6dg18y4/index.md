@@ -12,10 +12,10 @@ crumbs:
 - name: "Arkansas"
   url: "/tartans/a/ar/arkansas-2/"
 - name: "Arkansas (Unofficial)"
-  url: "/setts/dg10db4dg4db5dg6y10r6dg18y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg10db4dg4db5dg6y10r6dg18y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/arkansas-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGGRGG](/stripes/gbgbggrgg/).
 
 Part of the [Arkansas](/tartans/a/ar/arkansas-2/) tartan — the named design grouping this sett with its other cloths.

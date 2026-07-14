@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/">Dilanan (Musselburgh) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/"><img src="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/sett.png" alt="Dilanan (Musselburgh) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/dilanan/">Dilanan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/dilanan/"><img src="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/sett.png" alt="Dilanan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

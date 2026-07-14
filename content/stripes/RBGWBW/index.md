@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r6db1y1w1db2w3~x4/">Winnipeg Embroiderers' Guild</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r6db1y1w1db2w3~x4/"><img src="/variants/s6/r6db1y1w1db2w3~x4/sett.png" alt="Winnipeg Embroiderers' Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r12db2y2w2db4w3~x2/">Winnipeg Embroiders' Guild (Corp.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r12db2y2w2db4w3~x2/"><img src="/variants/s6/r12db2y2w2db4w3~x2/sett.png" alt="Winnipeg Embroiders' Guild (Corp.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/winnipeg-embroiderers-guild/">Winnipeg Embroiderers' Guild</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/winnipeg-embroiderers-guild/"><img src="/variants/s6/r6db1y1w1db2w3~x4/sett.png" alt="Winnipeg Embroiderers' Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/winnipeg-embroiders-guild/">Winnipeg Embroiders' Guild</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/winnipeg-embroiders-guild/"><img src="/variants/s6/r12db2y2w2db4w3~x2/sett.png" alt="Winnipeg Embroiders' Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

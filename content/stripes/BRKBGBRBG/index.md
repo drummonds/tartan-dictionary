@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n3r3k38n25y3n6r7n3y2~x2/">Greater St Louis Area Firefighters Highland Guard</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n3r3k38n25y3n6r7n3y2~x2/"><img src="/variants/s9/n3r3k38n25y3n6r7n3y2~x2/sett.png" alt="Greater St Louis Area Firefighters Highland Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greater-st-louis-area-firefighters-highland-guard/">Greater St Louis Area Firefighters Highland Guard</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greater-st-louis-area-firefighters-highland-guard/"><img src="/variants/s9/n3r3k38n25y3n6r7n3y2~x2/sett.png" alt="Greater St Louis Area Firefighters Highland Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Labrador"
   url: "/tartans/l/la/labrador/"
 - name: "Labrador"
-  url: "/setts/lb11k2lb2k2dy2k11dg30r2dg3k1w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb11k2lb2k2dy2k11dg30r2dg3k1w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/labrador/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGRGKGKWKW](/stripes/wkgrgkgkwkw/).
 
 Part of the [Labrador](/tartans/l/la/labrador/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Toshach"
   url: "/tartans/t/to/toshach/"
 - name: "Toshach"
-  url: "/setts/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/toshach/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGWGGGGWGWGRGGGGWGGGW](/stripes/gggwggggwgwgrggggwgggw/).
 
 Part of the [Toshach](/tartans/t/to/toshach/) tartan — the named design grouping this sett with its other cloths.

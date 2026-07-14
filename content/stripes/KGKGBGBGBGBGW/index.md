@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/">Marthas Vineyard (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><img src="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/sett.png" alt="Marthas Vineyard (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/">Mayhew (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/"><img src="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/sett.png" alt="Mayhew (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/marthas-vineyard/">Marthas Vineyard</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/marthas-vineyard/"><img src="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/sett.png" alt="Marthas Vineyard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mayhew/">Mayhew</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mayhew/"><img src="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/sett.png" alt="Mayhew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

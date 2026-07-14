@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/">Ruairidh (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/"><img src="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/sett.png" alt="Ruairidh (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/ruairidh/">Ruairidh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/ruairidh/"><img src="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/sett.png" alt="Ruairidh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

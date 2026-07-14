@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/">Ashers of Nairn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><img src="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/sett.png" alt="Ashers of Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/as/ashers-of-nairn/">Ashers of Nairn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/as/ashers-of-nairn/"><img src="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/sett.png" alt="Ashers of Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

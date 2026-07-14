@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/">21st Century (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/"><img src="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/sett.png" alt="21st Century (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/lb4db38g6dr2g6dr36lo2dr3~x2/">Scotland 2000 (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb4db38g6dr2g6dr36lo2dr3~x2/"><img src="/variants/s8/lb4db38g6dr2g6dr36lo2dr3~x2/sett.png" alt="Scotland 2000 (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/21st-century/">21st Century</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/21st-century/"><img src="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/sett.png" alt="21st Century sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotland-2000/">Scotland 2000</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-2000/"><img src="/variants/s8/lb4db38g6dr2g6dr36lo2dr3~x2/sett.png" alt="Scotland 2000 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

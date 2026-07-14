@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3ly18g6dr17k31g3~x2/">MacMillan - 2002 (Black - Unofficial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3ly18g6dr17k31g3~x2/"><img src="/variants/s6/k3ly18g6dr17k31g3~x2/sett.png" alt="MacMillan - 2002 (Black - Unofficial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macmillan-4/">MacMillan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macmillan-4/"><img src="/variants/s6/k3ly18g6dr17k31g3~x2/sett.png" alt="MacMillan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/k10lo4dg34db34k1y3~x2/">Singh, Gopal (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><img src="/variants/s6/k10lo4dg34db34k1y3~x2/sett.png" alt="Singh, Gopal (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/singh-gopal/">Singh, Gopal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/singh-gopal/"><img src="/variants/s6/k10lo4dg34db34k1y3~x2/sett.png" alt="Singh, Gopal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

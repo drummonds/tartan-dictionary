@@ -10,10 +10,10 @@ crumbs:
 - name: "MacMillan Anc"
   url: "/tartans/m/ma/macmillan-anc/"
 - name: "MacMillan Anc (Clans Originaux)"
-  url: "/setts/ly10k2g3k2g40k2g3dr25g6ly10k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly10k2g3k2g40k2g3dr25g6ly10k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macmillan-anc/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYGBGKGKGKY](/stripes/kygbgkgkgky/).
 
 Part of the [MacMillan Anc](/tartans/m/ma/macmillan-anc/) tartan — the named design grouping this sett with its other cloths.

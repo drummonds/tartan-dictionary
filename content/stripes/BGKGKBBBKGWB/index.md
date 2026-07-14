@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/n3g12k5g2k5n2dr2n2k5g12w2n3~x2/">Wilcox, Yu, Cruikshank Reunion</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n3g12k5g2k5n2dr2n2k5g12w2n3~x2/"><img src="/variants/s12/n3g12k5g2k5n2dr2n2k5g12w2n3~x2/sett.png" alt="Wilcox, Yu, Cruikshank Reunion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilcox-yu-cruikshank-reunion/">Wilcox, Yu, Cruikshank Reunion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilcox-yu-cruikshank-reunion/"><img src="/variants/s12/n3g12k5g2k5n2dr2n2k5g12w2n3~x2/sett.png" alt="Wilcox, Yu, Cruikshank Reunion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

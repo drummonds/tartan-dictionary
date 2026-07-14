@@ -10,10 +10,10 @@ crumbs:
 - name: "Edinburgh District"
   url: "/tartans/e/ed/edinburgh-district/"
 - name: "Edinburgh District"
-  url: "/setts/w3db25dr3r3dr3r5g10dr3k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3db25dr3r3dr3r5g10dr3k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-district/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGRBRBBW](/stripes/kbgrbrbbw/).
 
 Part of the [Edinburgh District](/tartans/e/ed/edinburgh-district/) tartan — the named design grouping this sett with its other cloths.

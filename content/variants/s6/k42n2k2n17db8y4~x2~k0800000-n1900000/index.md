@@ -8,10 +8,10 @@ crumbs:
 - name: "Connecticut State Police Pipe Band"
   url: "/tartans/c/co/connecticut-state-police-pipe-band/"
 - name: "Connecticut State Police Pipe Band"
-  url: "/setts/k42n2k2n17db8y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k42n2k2n17db8y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/connecticut-state-police-pipe-band/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBKBK](/stripes/gbbkbk/).
 
 Part of the [Connecticut State Police Pipe Band](/tartans/c/co/connecticut-state-police-pipe-band/) tartan — the named design grouping this sett with its other cloths.

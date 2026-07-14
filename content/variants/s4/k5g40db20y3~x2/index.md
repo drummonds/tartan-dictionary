@@ -8,10 +8,10 @@ crumbs:
 - name: "Robert Byers"
   url: "/tartans/r/ro/robert-byers/"
 - name: "Robert Byers Family - Dooballagh, Ireland"
-  url: "/setts/k5g40db20y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5g40db20y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robert-byers/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGK](/stripes/gbgk/).
 
 Part of the [Robert Byers](/tartans/r/ro/robert-byers/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Sail Chalmadale"
   url: "/tartans/s/sa/sail-chalmadale/"
 - name: "Sail Chalmadale"
-  url: "/setts/db4w1db17dr28dp17r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4w1db17dr28dp17r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sail-chalmadale/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBR](/stripes/bwbbbr/).
 
 Part of the [Sail Chalmadale](/tartans/s/sa/sail-chalmadale/) tartan — the named design grouping this sett with its other cloths.

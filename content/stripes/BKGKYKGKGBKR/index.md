@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2~o2500000-n1900000/">Castlefield (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2~o2500000-n1900000/"><img src="/variants/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2~o2500000-n1900000/sett.png" alt="Castlefield (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/castlefield/">Castlefield</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/castlefield/"><img src="/variants/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2~o2500000-n1900000/sett.png" alt="Castlefield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

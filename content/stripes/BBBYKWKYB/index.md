@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/">Strakan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><img src="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/sett.png" alt="Strakan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strakan/">Strakan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strakan/"><img src="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/sett.png" alt="Strakan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

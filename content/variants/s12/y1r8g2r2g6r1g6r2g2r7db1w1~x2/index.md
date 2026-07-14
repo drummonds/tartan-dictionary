@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/bruce/"
 - name: "Bruce County"
   url: "/tartans/b/br/bruce-county/"
-- name: "Bruce County"
-  url: "/setts/y1r8g2r2g6r1g6r2g2r7db1w1/"
+- name: "Bruce County District Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1r8g2r2g6r1g6r2g2r7db1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bruce-county/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGRBW](/stripes/grgrgrgrgrbw/).
 
 Part of the [Bruce County](/tartans/b/br/bruce-county/) tartan — the named design grouping this sett with its other cloths.

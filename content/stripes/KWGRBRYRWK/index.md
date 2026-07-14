@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/">Nassau County Firefighters (P&amp;D)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/"><img src="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/sett.png" alt="Nassau County Firefighters (P&amp;D) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/nassau-county-firefighters/">Nassau County Firefighters</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/nassau-county-firefighters/"><img src="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/sett.png" alt="Nassau County Firefighters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

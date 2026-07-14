@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db4g7k4g7y4~x2/">DAKS House (C.6700.040)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db4g7k4g7y4~x2/"><img src="/variants/s5/db4g7k4g7y4~x2/sett.png" alt="DAKS House (C.6700.040) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/dy4g7k4g7db4~x2/">Daks (House)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dy4g7k4g7db4~x2/"><img src="/variants/s5/dy4g7k4g7db4~x2/sett.png" alt="Daks (House) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/daks-house/">DAKS House</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daks-house/"><img src="/variants/s5/db4g7k4g7y4~x2/sett.png" alt="DAKS House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/daks-13/">Daks</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/daks-13/"><img src="/variants/s5/dy4g7k4g7db4~x2/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/">Landels (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><img src="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/sett.png" alt="Landels (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/landels/">Landels</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/landels/"><img src="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/sett.png" alt="Landels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

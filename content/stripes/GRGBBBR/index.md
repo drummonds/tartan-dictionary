@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri2806019-r2108022/">Krifa-Jean (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri2806019-r2108022/"><img src="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri2806019-r2108022/sett.png" alt="Krifa-Jean (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/kr/krifa-jean/">Krifa-Jean</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kr/krifa-jean/"><img src="/variants/s7/dg4ri5y4db4do2n4r4~x10~ri2806019-r2108022/sett.png" alt="Krifa-Jean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

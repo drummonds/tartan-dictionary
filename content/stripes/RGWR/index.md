@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r5g5w3r5/">Menzies</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r5g5w3r5/"><img src="/variants/s4/r5g5w3r5/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/menzies/">Menzies</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/menzies/"><img src="/variants/s4/r5g5w3r5/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

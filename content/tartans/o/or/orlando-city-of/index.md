@@ -4,8 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db12k1g16db1g1db14g3db14r2/"
+- "/setts/db12ly1g16db1g1db14g3db14r2/"
 ---
-Its design is pattern [BKGBGBGBRBGBGBGK](/stripes/bkgbgbgbrbgbgbgk/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkgbgbgbr/">BKGBGBGBR</a></nav>
+Its design is pattern [BKGBGBGBR](/stripes/bkgbgbgbr/) — the page of every tartan sharing this colour sequence.
 
 The **Orlando, City of** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
@@ -13,10 +17,10 @@ The **Orlando, City of** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db12k1g16db1g1db14g3db14r2/">Orlando, City of</a> ★</td><td><code>DB/48 K4 G64 DB4 G4 DB56 G12 DB56 R8 DB56 G12 DB56 G4 DB4 G64 K/4</code></td><td>456</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db12k1g16db1g1db14g3db14r2/"><img src="/variants/s9/db12k1g16db1g1db14g3db14r2~x4~db1406275/sett.png" alt="Orlando, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db12ly1g16db1g1db14g3db14r2/">(District)</a></td><td><code>DB/48 LY4 G64 DB4 G4 DB56 G12 DB56 R/8</code></td><td>456</td><td>~2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db12ly1g16db1g1db14g3db14r2/"><img src="/variants/s9/db12ly1g16db1g1db14g3db14r2~x4/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db12k1g16db1g1db14g3db14r2~x4~db1406275/">Orlando, City of</a> ★</td><td><code>DB/48 K4 G64 DB4 G4 DB56 G12 DB56 R/8</code></td><td>456</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db12k1g16db1g1db14g3db14r2~x4~db1406275/"><img src="/variants/s9/db12k1g16db1g1db14g3db14r2~x4~db1406275/sett.png" alt="Orlando, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db12ly1g16db1g1db14g3db14r2~x4/">(District)</a></td><td><code>DB/48 LY4 G64 DB4 G4 DB56 G12 DB56 R/8</code></td><td>456</td><td>~2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db12ly1g16db1g1db14g3db14r2~x4/"><img src="/variants/s9/db12ly1g16db1g1db14g3db14r2~x4/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/"><circle cx="300.2" cy="203.2" r="4" fill="#3465a4"><title>St. Andrews New Golf Club</title></circle></a><a href="/variants/s10/db26dg6db26r2dg26w1r6db2r6db13~x2/"><circle cx="394.8" cy="172.6" r="4" fill="#3465a4"><title>Unidentified Plaid 9</title></circle></a><a href="/variants/s8/t36db6t5r3k2r3t5db18~x2/"><circle cx="359.8" cy="153.8" r="4" fill="#3465a4"><title>Leonard</title></circle></a><a href="/variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/"><circle cx="324.6" cy="134.8" r="4" fill="#3465a4"><title>MacLachlan, Green Dress</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="341.6" cy="169.1" r="4" fill="#3465a4"><title>De Nardi Hunting</title></circle></a><a href="/variants/s10/db15g7y3g7db40g7y3g7db15r5~x2~db1406275/"><circle cx="390.7" cy="182.6" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="356.5" cy="151.7" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="363.9" cy="158.3" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s9/n22b9k4n14dr2n11k2n2k2~x2/"><circle cx="410.9" cy="179.1" r="4" fill="#3465a4"><title>Greyhound Grenadiers Pipe Band</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="375.5" cy="176.2" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><circle cx="373.1" cy="165.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/"><circle cx="300.7" cy="203.3" r="4" fill="#3465a4"><title>St. Andrews New Golf Club</title></circle></a><a href="/variants/s10/db26dg6db26r2dg26w1r6db2r6db13~x2/"><circle cx="395.6" cy="172.7" r="4" fill="#3465a4"><title>Unidentified Plaid 9</title></circle></a><a href="/variants/s8/t36db6t5r3k2r3t5db18~x2/"><circle cx="360.7" cy="153.9" r="4" fill="#3465a4"><title>Leonard</title></circle></a><a href="/variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/"><circle cx="325.5" cy="134.9" r="4" fill="#3465a4"><title>MacLachlan, Green Dress</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="342.4" cy="169.2" r="4" fill="#3465a4"><title>De Nardi Hunting</title></circle></a><a href="/variants/s10/db15g7y3g7db40g7y3g7db15r5~x2~db1406275/"><circle cx="391.5" cy="182.8" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="357.4" cy="151.8" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="364.9" cy="158.5" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s9/n22b9k4n14dr2n11k2n2k2~x2/"><circle cx="411.8" cy="179.3" r="4" fill="#3465a4"><title>Greyhound Grenadiers Pipe Band</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="376.3" cy="176.4" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><circle cx="374.1" cy="166.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

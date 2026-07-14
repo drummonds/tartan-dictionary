@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/">Institute of Directors (Scotland)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/"><img src="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/sett.png" alt="Institute of Directors (Scotland) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/institute-of-directors-2/">Institute of Directors</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/institute-of-directors-2/"><img src="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/sett.png" alt="Institute of Directors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

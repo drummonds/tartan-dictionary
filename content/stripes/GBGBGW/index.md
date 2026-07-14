@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg30dr2dg8dr1dg5w2/">Dewi Sant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg30dr2dg8dr1dg5w2/"><img src="/variants/s6/dg30dr2dg8dr1dg5w2/sett.png" alt="Dewi Sant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dewi-sant/">Dewi Sant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/dewi-sant/"><img src="/variants/s6/dg30dr2dg8dr1dg5w2/sett.png" alt="Dewi Sant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

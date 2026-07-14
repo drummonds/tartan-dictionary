@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y2w21db16lb8db30w8db1~x2/">Muir, John</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y2w21db16lb8db30w8db1~x2/"><img src="/variants/s7/y2w21db16lb8db30w8db1~x2/sett.png" alt="Muir, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/muir-john/">Muir, John</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/muir-john/"><img src="/variants/s7/y2w21db16lb8db30w8db1~x2/sett.png" alt="Muir, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/">Talisker</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><img src="/variants/s7/db16lb4db1lb2db24w1y4~x2/sett.png" alt="Talisker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/talisker/">Talisker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/talisker/"><img src="/variants/s7/db16lb4db1lb2db24w1y4~x2/sett.png" alt="Talisker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

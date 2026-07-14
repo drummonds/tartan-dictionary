@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/">MacKirgan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/"><img src="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/sett.png" alt="MacKirgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/">McKirgan/Mackirgan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/"><img src="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/sett.png" alt="McKirgan/Mackirgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackirgan/">MacKirgan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackirgan/"><img src="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/sett.png" alt="MacKirgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mckirgan-mackirgan/">McKirgan/Mackirgan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mckirgan-mackirgan/"><img src="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/sett.png" alt="McKirgan/Mackirgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Ramsay"
   url: "/tartans/r/ra/ramsay-3/"
 - name: "Ramsay (Green Fashion)"
-  url: "/setts/g1dr7g7n2dr1dg15lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g1dr7g7n2dr1dg15lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/ramsay-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBGW](/stripes/gbgbbgw/).
 
 Part of the [Ramsay](/tartans/r/ra/ramsay-3/) tartan — the named design grouping this sett with its other cloths.

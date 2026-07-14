@@ -8,22 +8,22 @@ crumbs:
 - name: "MacMillan Society of Glasgow"
   url: "/tartans/m/ma/macmillan-society-of-glasgow/"
 - name: "MacMillan Society of Glasgow"
-  url: "/setts/r16k3r16g44k3g8k3ly20k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r16k3r16g44k3g8k3ly20k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macmillan-society-of-glasgow/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKGKGRKR](/stripes/kykgkgrkr/).
 
 Part of the [MacMillan Society of Glasgow](/tartans/m/ma/macmillan-society-of-glasgow/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1271](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1271)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/1271/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1271/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>June 1952 — MacMillan Society of Glasgow (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1271">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><br><em>Reputed to have been specially designed for the MacvMillan Clan Society of Glasgow. First seen inm specimen form from weavers Peter Anderson of Galashiels June 1952.</em></li>
+<li>June 1952 — MacMillan Society of Glasgow (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1271/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><br><em>Reputed to have been specially designed for the MacvMillan Clan Society of Glasgow. First seen inm specimen form from weavers Peter Anderson of Galashiels June 1952.</em></li>
 <li>01/01/2002 — MacMillan Society of Glasgow (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2661">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><br><em>Reputed to have been specially designed and woven for the MacMillan Clan Society of Glasgow. Threadcount taken from sample in the MacGregor-Hastie collection in the Scottish Tartans Society archive.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1271](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2~x2~t2304245-db1004274/">Weait (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2~x2~t2304245-db1004274/"><img src="/variants/s24/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2~x2~t2304245-db1004274/sett.png" alt="Weait (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/weait/">Weait</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/weait/"><img src="/variants/s24/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2~x2~t2304245-db1004274/sett.png" alt="Weait sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

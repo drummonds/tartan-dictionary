@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4~x2/">Carstairs</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4~x2/"><img src="/variants/s14/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4~x2/sett.png" alt="Carstairs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carstairs/">Carstairs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carstairs/"><img src="/variants/s14/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4~x2/sett.png" alt="Carstairs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

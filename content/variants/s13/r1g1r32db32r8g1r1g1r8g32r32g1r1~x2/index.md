@@ -12,10 +12,10 @@ crumbs:
 - name: "Grant of Rothiemurchus"
   url: "/tartans/g/gr/grant-of-rothiemurchus/"
 - name: "Grant of Rothiemurchus Artifact Tartan"
-  url: "/setts/r1g1r32db32r8g1r1g1r8g32r32g1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1g1r32db32r8g1r1g1r8g32r32g1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grant-of-rothiemurchus/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRGRGRGRGR](/stripes/rgrbrgrgrgrgr/).
 
 Part of the [Grant of Rothiemurchus](/tartans/g/gr/grant-of-rothiemurchus/) tartan — the named design grouping this sett with its other cloths.

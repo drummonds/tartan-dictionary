@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/o2db19t6b44w2~x2/">World Fed. of Bldg Contractors (Corp</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/o2db19t6b44w2~x2/"><img src="/variants/s5/o2db19t6b44w2~x2/sett.png" alt="World Fed. of Bldg Contractors (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/world-fed-of-bldg-contractors-corp/">World Fed. of Bldg Contractors (Corp</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/world-fed-of-bldg-contractors-corp/"><img src="/variants/s5/o2db19t6b44w2~x2/sett.png" alt="World Fed. of Bldg Contractors (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

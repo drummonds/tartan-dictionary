@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/">Dewar, Christian (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><img src="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/sett.png" alt="Dewar, Christian (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dewar-christian/">Dewar, Christian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/dewar-christian/"><img src="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/sett.png" alt="Dewar, Christian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

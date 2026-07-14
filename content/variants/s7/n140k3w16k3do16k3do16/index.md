@@ -8,10 +8,10 @@ crumbs:
 - name: "Crail"
   url: "/tartans/c/cr/crail/"
 - name: "Crail"
-  url: "/setts/n140k3w16k3do16k3do16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n140k3w16k3do16k3do16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crail/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWKB](/stripes/bkbkwkb/).
 
 Part of the [Crail](/tartans/c/cr/crail/) tartan — the named design grouping this sett with its other cloths.

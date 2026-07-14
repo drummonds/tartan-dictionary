@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/">Spragg (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/"><img src="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/sett.png" alt="Spragg (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spragg/">Spragg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spragg/"><img src="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/sett.png" alt="Spragg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

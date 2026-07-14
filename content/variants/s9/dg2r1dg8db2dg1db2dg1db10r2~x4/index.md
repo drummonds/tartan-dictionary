@@ -8,10 +8,10 @@ crumbs:
 - name: "Barnaby Brown Pibroch"
   url: "/tartans/b/ba/barnaby-brown-pibroch/"
 - name: "Barnaby Brown Pibroch"
-  url: "/setts/dg2r1dg8db2dg1db2dg1db10r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2r1dg8db2dg1db2dg1db10r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barnaby-brown-pibroch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBGBGBR](/stripes/grgbgbgbr/).
 
 Part of the [Barnaby Brown Pibroch](/tartans/b/ba/barnaby-brown-pibroch/) tartan — the named design grouping this sett with its other cloths.

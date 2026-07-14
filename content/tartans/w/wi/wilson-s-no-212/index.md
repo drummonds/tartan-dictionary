@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r2g9r2lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgrw/">RGRW</a></nav>
 Its design is pattern [RGRW](/stripes/rgrw/) — the page of every tartan sharing this colour sequence.
 
 The **Wilson's No.212** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Wilson's No.212** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2g9r2lb2/">Wilson's No.212</a></td><td><code>R/8 G36 R8 LB/8</code></td><td>104</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2g9r2lb2/"><img src="/variants/s4/r2g9r2lb2~x4~r2109032/sett.png" alt="Wilson's No.212 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r2g9r2lb2~x4~r2109032/">Wilson's No.212</a></td><td><code>R/8 G36 R8 LB/8</code></td><td>104</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r2g9r2lb2~x4~r2109032/"><img src="/variants/s4/r2g9r2lb2~x4~r2109032/sett.png" alt="Wilson's No.212 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="212.4" cy="226.0" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s5/g6y1r1lb2r2~x4/"><circle cx="279.8" cy="265.8" r="4" fill="#3465a4"><title>Wilson's No.179</title></circle></a><a href="/variants/s4/g38r24k9r9~x2/"><circle cx="224.9" cy="268.8" r="4" fill="#3465a4"><title>Royal Guard of Oman 4th Band Squadro</title></circle></a><a href="/variants/s5/r2g17r8db8y2~x4/"><circle cx="249.6" cy="243.2" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="348.9" cy="250.0" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="385.1" cy="258.3" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s3/g9r2lb2~x4/"><circle cx="421.1" cy="304.5" r="4" fill="#3465a4"><title>Wilson's, No 212</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="291.7" cy="342.5" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="222.8" cy="305.9" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s4/g16r1g2r11~x8/"><circle cx="442.7" cy="244.6" r="4" fill="#3465a4"><title>Middleton</title></circle></a><circle cx="354.9" cy="285.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="212.8" cy="226.0" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s5/g6y1r1lb2r2~x4/"><circle cx="279.9" cy="265.9" r="4" fill="#3465a4"><title>Wilson's No.179</title></circle></a><a href="/variants/s4/g38r24k9r9~x2/"><circle cx="225.3" cy="268.8" r="4" fill="#3465a4"><title>Royal Guard of Oman 4th Band Squadro</title></circle></a><a href="/variants/s5/r2g17r8db8y2~x4/"><circle cx="249.9" cy="243.2" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="349.4" cy="250.2" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="385.7" cy="258.5" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s3/g9r2lb2~x4/"><circle cx="421.6" cy="304.8" r="4" fill="#3465a4"><title>Wilson's, No 212</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="291.9" cy="342.6" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="222.8" cy="305.8" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s4/g16r1g2r11~x8/"><circle cx="443.5" cy="245.0" r="4" fill="#3465a4"><title>Middleton</title></circle></a><circle cx="355.3" cy="285.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

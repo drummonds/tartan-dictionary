@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db1dy9g5dy1k5dy1g5dy9w1~x2/">Duchess of York</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db1dy9g5dy1k5dy1g5dy9w1~x2/"><img src="/variants/s9/db1dy9g5dy1k5dy1g5dy9w1~x2/sett.png" alt="Duchess of York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db2dy18dg10dy1k10dy2dg10dy18w2~x2/">Duchess of York (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db2dy18dg10dy1k10dy2dg10dy18w2~x2/"><img src="/variants/s9/db2dy18dg10dy1k10dy2dg10dy18w2~x2/sett.png" alt="Duchess of York (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duchess-of-york/">Duchess of York</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duchess-of-york/"><img src="/variants/s9/db1dy9g5dy1k5dy1g5dy9w1~x2/sett.png" alt="Duchess of York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

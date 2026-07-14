@@ -10,10 +10,10 @@ crumbs:
 - name: "Lochaber Old"
   url: "/tartans/l/lo/lochaber-old/"
 - name: "Lochaber Old.. District Tartan"
-  url: "/setts/db3r1db35r1db16lb1db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3r1db35r1db16lb1db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lochaber-old/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBWB](/stripes/brbrbwb/).
 
 Part of the [Lochaber Old](/tartans/l/lo/lochaber-old/) tartan — the named design grouping this sett with its other cloths.

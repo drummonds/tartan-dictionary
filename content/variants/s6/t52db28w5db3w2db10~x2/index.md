@@ -8,15 +8,15 @@ crumbs:
 - name: "St. Andrews, Earl of"
   url: "/tartans/s/st/st-andrews-earl-of-2/"
 - name: "St. Andrews, Earl of"
-  url: "/setts/t52db28w5db3w2db10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t52db28w5db3w2db10/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBWBWBWBWB](/stripes/bbwbwbwbwb/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-andrews-earl-of-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBWBWB](/stripes/bbwbwb/).
 
 Part of the [St. Andrews, Earl of](/tartans/s/st/st-andrews-earl-of-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3885](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3885)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 85
 
 ## Thread count
-T/104 DB56 W10 DB6 W4 DB20 W4 DB6 W10 DB/56
+T/104 DB56 W10 DB6 W4 DB/20
 
-One full sett is **392 threads**.
+One full sett is **276 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/104 DB56 W10 DB6 W4 DB20 W4 DB6 W10 DB/56 — 392 threads; it folds to the canonical 276-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **392 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/104 DB56 W10 DB6 W4 DB20 W4 DB6 W10 DB/56 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/104 DB56 W10 DB6 W4 DB/20 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

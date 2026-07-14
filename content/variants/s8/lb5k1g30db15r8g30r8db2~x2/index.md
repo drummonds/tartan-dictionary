@@ -12,15 +12,15 @@ crumbs:
 - name: "Shaw of Tordarroch"
   url: "/tartans/s/sh/shaw-of-tordarroch/"
 - name: "Shaw of Tordarroch Green (Hunting)"
-  url: "/setts/lb5k1g30db15r8g30r8db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb5k1g30db15r8g30r8db2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KGBRGRBRGRBGKW](/stripes/kgbrgrbrgrbgkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shaw-of-tordarroch/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGRBGKW](/stripes/brgrbgkw/).
 
 Part of the [Shaw of Tordarroch](/tartans/s/sh/shaw-of-tordarroch/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3778](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3778)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3778](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1971 — Shaw of Tordarroch Green (Hunting) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3778">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Recorded in Lord Lyon Book - LCB 23 on 7th December 1971. Checked against Sindex May 2002. Sindex states 'Designed by D.C. Stewart 1969 for Major C.J. Shaw of Tordarroch MBE as a replacement for the existing Shaw derived from an erroneous sett portrayed by R.R. McIan of Farquhar Shaw, the Black Watch mutineer. By permission of the Colonel of the Black Watch, the erroneous sett will be retained for use by the Clan in memory of Cpl Farquhar Shaw. Slightly different samples in the Dalgety & Scarlett Collections. Sample in Scottish Tartans Authority Johnston Collection amd Scottish Tartans Authority Dalgety Collection. Also known as 'Green Shaw of Tordarroch'.</em></li>
-<li>1971 — Shaw of Tordarroch Green (Htg) (Clan (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=318">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Recorded in Lord Lyon Book - LCB 23 on 7th December 1971. Checked against Sindex May 2002. Sindex states "Designed by D.C.Stewart 1969 for Major C J Shaw of Tordarroch MBE as a replacement for the existing Shaw derived from an erroneous sett portrayed by R R McIan of Farquhar Shaw, the Black Watch mutineer. By permission of the Colonel of the Black Watch, the erroneous sett will be retained for use by the Clan in memory of Cpl Farquhar Shaw. Slightly different samples in the Dalgety & Scarlett Collections. Sample in STA Johnston Collection. Sample in STA Dalgety Collection.</em></li>
+<li>1971 — Shaw of Tordarroch Green (Htg) (Clan (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/318/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Recorded in Lord Lyon Book - LCB 23 on 7th December 1971. Checked against Sindex May 2002. Sindex states "Designed by D.C.Stewart 1969 for Major C J Shaw of Tordarroch MBE as a replacement for the existing Shaw derived from an erroneous sett portrayed by R R McIan of Farquhar Shaw, the Black Watch mutineer. By permission of the Colonel of the Black Watch, the erroneous sett will be retained for use by the Clan in memory of Cpl Farquhar Shaw. Slightly different samples in the Dalgety & Scarlett Collections. Sample in STA Johnston Collection. Sample in STA Dalgety Collection.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 318
 
 ## Thread count
-LB/10 K2 G60 DB30 R16 G60 R16 DB4 R16 G60 R16 DB30 G60 K/2
+LB/10 K2 G60 DB30 R16 G60 R16 DB/4
 
-One full sett is **752 threads**.
+One full sett is **382 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/10 K2 G60 DB30 R16 G60 R16 DB4 R16 G60 R16 DB30 G60 K/2 — 752 threads; it folds to the canonical 382-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **752 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/10 K2 G60 DB30 R16 G60 R16 DB4 R16 G60 R16 DB30 G60 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/10 K2 G60 DB30 R16 G60 R16 DB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

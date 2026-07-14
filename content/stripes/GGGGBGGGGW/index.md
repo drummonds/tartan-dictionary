@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy2gi2dy16gi2dp17dg10g10gi15dg1w2~x2~gi2203152-g2004173/">Grewar</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy2gi2dy16gi2dp17dg10g10gi15dg1w2~x2~gi2203152-g2004173/"><img src="/variants/s10/dy2gi2dy16gi2dp17dg10g10gi15dg1w2~x2~gi2203152-g2004173/sett.png" alt="Grewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/dy2g2dy16g2dp17dg10gi10g15dg1w2~x2~gi2004173/">Grewar (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy2g2dy16g2dp17dg10gi10g15dg1w2~x2~gi2004173/"><img src="/variants/s10/dy2g2dy16g2dp17dg10gi10g15dg1w2~x2~gi2004173/sett.png" alt="Grewar (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grewar/">Grewar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grewar/"><img src="/variants/s10/dy2gi2dy16gi2dp17dg10g10gi15dg1w2~x2~gi2203152-g2004173/sett.png" alt="Grewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Methven"
   url: "/tartans/m/me/methven/"
 - name: "Methven"
-  url: "/setts/r2dg3dy18r2dy2r21g6dg2g2dg24lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2dg3dy18r2dy2r21g6dg2g2dg24lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/methven/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGRGRGGGGY](/stripes/rggrgrggggy/).
 
 Part of the [Methven](/tartans/m/me/methven/) tartan — the named design grouping this sett with its other cloths.

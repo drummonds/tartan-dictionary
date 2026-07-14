@@ -8,10 +8,10 @@ crumbs:
 - name: "Norwegian Centennial"
   url: "/tartans/n/no/norwegian-centennial/"
 - name: "Norwegian Centennial"
-  url: "/setts/w24db50k2db8k4db2k4db8k2r40w5db10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w24db50k2db8k4db2k4db8k2r40w5db10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/norwegian-centennial/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRKBKBKBKBW](/stripes/bwrkbkbkbkbw/).
 
 Part of the [Norwegian Centennial](/tartans/n/no/norwegian-centennial/) tartan — the named design grouping this sett with its other cloths.

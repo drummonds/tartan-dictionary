@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/macwilliam/"
 - name: "MacWilliam"
   url: "/families/macwilliam/"
+aliases:
+- "/setts/dy2g12k10r1t16r2t16r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggkrbrbr/">GGKRBRBR</a></nav>
 A tartan of the [MacWilliam](/families/macwilliam/) family.
 Its design is pattern [GGKRBRBR](/stripes/ggkrbrbr/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **MacWilliam** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dy2g12k10r1t16r2t16r1/">MacWilliam</a></td><td><code>DY/8 G48 K40 R4 T64 R8 T64 R/4</code></td><td>468</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy2g12k10r1t16r2t16r1/"><img src="/variants/s8/dy2g12k10r1t16r2t16r1~x4/sett.png" alt="MacWilliam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/">MacWilliam</a></td><td><code>DY/8 G48 K40 R4 T64 R8 T64 R/4</code></td><td>468</td><td>1880</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><img src="/variants/s8/dy2g12k10r1t16r2t16r1~x4/sett.png" alt="MacWilliam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -33,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="234.7" cy="182.5" r="4" fill="#3465a4"><title>Lee</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="235.5" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="214.4" cy="166.6" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="207.1" cy="122.6" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="246.6" cy="184.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><circle cx="166.3" cy="191.4" r="4" fill="#3465a4"><title>Art Pewter Silver</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="223.5" cy="131.6" r="4" fill="#3465a4"><title>McFadden</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="230.1" cy="116.0" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><circle cx="209.5" cy="154.6" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="193.6" cy="194.6" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><circle cx="232.6" cy="156.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="235.2" cy="182.5" r="4" fill="#3465a4"><title>Lee</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="236.1" cy="174.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="214.9" cy="166.5" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="207.7" cy="122.5" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="247.2" cy="184.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><circle cx="166.7" cy="191.2" r="4" fill="#3465a4"><title>Art Pewter Silver</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="224.1" cy="131.6" r="4" fill="#3465a4"><title>McFadden</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="230.8" cy="115.9" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><circle cx="210.0" cy="154.5" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="194.0" cy="194.6" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><circle cx="233.2" cy="156.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

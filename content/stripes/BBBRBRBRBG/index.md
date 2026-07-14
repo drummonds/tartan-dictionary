@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/">FC Barcelona (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/"><img src="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/sett.png" alt="FC Barcelona (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fc/fc-barcelona/">FC Barcelona</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fc/fc-barcelona/"><img src="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/sett.png" alt="FC Barcelona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

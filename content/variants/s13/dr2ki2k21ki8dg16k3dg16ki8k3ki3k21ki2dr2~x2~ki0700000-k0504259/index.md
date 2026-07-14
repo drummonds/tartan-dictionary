@@ -8,10 +8,10 @@ crumbs:
 - name: "Metropolitan Atlanta Police"
   url: "/tartans/m/me/metropolitan-atlanta-police-2/"
 - name: "Metropolitan Atlanta Police"
-  url: "/setts/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/metropolitan-atlanta-police-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKKKGKGKKKKKB](/stripes/bkkkgkgkkkkkb/).
 
 Part of the [Metropolitan Atlanta Police](/tartans/m/me/metropolitan-atlanta-police-2/) tartan — the named design grouping this sett with its other cloths.

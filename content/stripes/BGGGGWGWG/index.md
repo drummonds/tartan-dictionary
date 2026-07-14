@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/">Crumlish (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/"><img src="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/sett.png" alt="Crumlish (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crumlish/">Crumlish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crumlish/"><img src="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/sett.png" alt="Crumlish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

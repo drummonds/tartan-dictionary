@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db5dy2dg4n3w1lb5~x8/">Heriot Bay Local (Quadra Island, British Columbia)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db5dy2dg4n3w1lb5~x8/"><img src="/variants/s6/db5dy2dg4n3w1lb5~x8/sett.png" alt="Heriot Bay Local (Quadra Island, British Columbia) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heriot-bay-local/">Heriot Bay Local</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heriot-bay-local/"><img src="/variants/s6/db5dy2dg4n3w1lb5~x8/sett.png" alt="Heriot Bay Local sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

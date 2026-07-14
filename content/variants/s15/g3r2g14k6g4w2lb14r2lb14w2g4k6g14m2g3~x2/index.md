@@ -8,15 +8,15 @@ crumbs:
 - name: "Scottish Heritage USA"
   url: "/tartans/s/sc/scottish-heritage-usa/"
 - name: "Scottish Heritage USA (SHUSA)"
-  url: "/setts/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGKGWWRWWGKGRGRGKGWWRWWGKGR](/stripes/grgkgwwrwwgkgrgrgkgwwrwwgkgr/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-heritage-usa/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGKGWWR](/stripes/grgkgwwr/).
 
 Part of the [Scottish Heritage USA](/tartans/s/sc/scottish-heritage-usa/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3722](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3722)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3722](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Scottish Heritage USA (SHUSA) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3722">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><br><em>Design by Phil Smith, 2000. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>2000 — Scottish Heritage USA (SHUSA) (Corp) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4106">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><br><em>Design by Phil Smith, 2000. Sample in STA Johnston Collection.</em></li>
+<li>2000 — Scottish Heritage USA (SHUSA) (Corp) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4106/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04094;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #C04094"></span><br><em>Design by Phil Smith, 2000. Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4106
 
 ## Thread count
-G/6 R4 G28 K12 G8 W4 LB28 R4 LB28 W4 G8 K12 G28 M4 G6 M4 G28 K12 G8 W4 LB28 R4 LB28 W4 G8 K12 G28 R/4
+G/6 R4 G28 K12 G8 W4 LB28 R4 LB28 W4 G8 K12 G28 M4 G/6
 
-One full sett is **702 threads**.
+One full sett is **356 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/6 R4 G28 K12 G8 W4 LB28 R4 LB28 W4 G8 K12 G28 M4 G6 M4 G28 K12 G8 W4 LB28 R4 LB28 W4 G8 K12 G28 R/4 — 702 threads; it folds to the canonical 356-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **702 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/6 R4 G28 K12 G8 W4 LB28 R4 LB28 W4 G8 K12 G28 M4 G6 M4 G28 K12 G8 W4 LB28 R4 LB28 W4 G8 K12 G28 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/6 R4 G28 K12 G8 W4 LB28 R4 LB28 W4 G8 K12 G28 M4 G/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

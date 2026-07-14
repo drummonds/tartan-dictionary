@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k30r10y1k8w3~x4/">Union Fire Club Pipes and Drums</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k30r10y1k8w3~x4/"><img src="/variants/s5/k30r10y1k8w3~x4/sett.png" alt="Union Fire Club Pipes and Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/union-fire-club-pipes-and-drums/">Union Fire Club Pipes and Drums</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/union-fire-club-pipes-and-drums/"><img src="/variants/s5/k30r10y1k8w3~x4/sett.png" alt="Union Fire Club Pipes and Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

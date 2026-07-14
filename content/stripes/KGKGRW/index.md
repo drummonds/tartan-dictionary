@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k72g23k7g8r1w3~x2/">MacGregor, Black (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k72g23k7g8r1w3~x2/"><img src="/variants/s6/k72g23k7g8r1w3~x2/sett.png" alt="MacGregor, Black (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-black/">MacGregor (Black)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-black/"><img src="/variants/s6/k72g23k7g8r1w3~x2/sett.png" alt="MacGregor (Black) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

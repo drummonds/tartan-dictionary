@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/">Cooper</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/"><img src="/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/sett.png" alt="Cooper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cooper-3/">Cooper</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cooper-3/"><img src="/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/sett.png" alt="Cooper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

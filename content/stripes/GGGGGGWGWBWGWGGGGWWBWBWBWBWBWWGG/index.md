@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s32/dg12y1lb1w1dr2w1db1w1db4w1db1w1dr2w1lb1y1dg12y1dg1w1y3w1db5w1y3w1dg1y1dg12y1dg1y1~x2/">Henry (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s32/dg12y1lb1w1dr2w1db1w1db4w1db1w1dr2w1lb1y1dg12y1dg1w1y3w1db5w1y3w1dg1y1dg12y1dg1y1~x2/"><img src="/variants/s32/dg12y1lb1w1dr2w1db1w1db4w1db1w1dr2w1lb1y1dg12y1dg1w1y3w1db5w1y3w1dg1y1dg12y1dg1y1~x2/sett.png" alt="Henry (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/henry/">Henry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/henry/"><img src="/variants/s32/dg12y1lb1w1dr2w1db1w1db4w1db1w1dr2w1lb1y1dg12y1dg1w1y3w1db5w1y3w1dg1y1dg12y1dg1y1~x2/sett.png" alt="Henry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

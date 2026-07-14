@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg20r8dg20y8g20k5~x2/">Cates Armigers (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg20r8dg20y8g20k5~x2/"><img src="/variants/s6/dg20r8dg20y8g20k5~x2/sett.png" alt="Cates Armigers (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cates-armigers/">Cates Armigers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cates-armigers/"><img src="/variants/s6/dg20r8dg20y8g20k5~x2/sett.png" alt="Cates Armigers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

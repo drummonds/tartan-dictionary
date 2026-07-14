@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/ly2dy2w12dy2ly2k6dr8k1w2k1dr8k6do8k1ly2~x2/">Dunkeld</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/ly2dy2w12dy2ly2k6dr8k1w2k1dr8k6do8k1ly2~x2/"><img src="/variants/s15/ly2dy2w12dy2ly2k6dr8k1w2k1dr8k6do8k1ly2~x2/sett.png" alt="Dunkeld sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunkeld/">Dunkeld</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunkeld/"><img src="/variants/s15/ly2dy2w12dy2ly2k6dr8k1w2k1dr8k6do8k1ly2~x2/sett.png" alt="Dunkeld sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

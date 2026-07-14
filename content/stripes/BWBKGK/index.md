@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4g16k13db16lb3db3~x2/">I Y</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4g16k13db16lb3db3~x2/"><img src="/variants/s6/k4g16k13db16lb3db3~x2/sett.png" alt="I Y sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/i/i-y/">I Y</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/i/i-y/"><img src="/variants/s6/k4g16k13db16lb3db3~x2/sett.png" alt="I Y sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/k4y1k18db18lb1db4~x4/">Lyndon Prep (School)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4y1k18db18lb1db4~x4/"><img src="/variants/s6/k4y1k18db18lb1db4~x4/sett.png" alt="Lyndon Prep (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ly/lyndon-prep/">Lyndon Prep</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ly/lyndon-prep/"><img src="/variants/s6/k4y1k18db18lb1db4~x4/sett.png" alt="Lyndon Prep sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

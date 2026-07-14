@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/">Irving of Glentulchan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><img src="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/sett.png" alt="Irving of Glentulchan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ir/irving-of-glentulchan/">Irving of Glentulchan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ir/irving-of-glentulchan/"><img src="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/sett.png" alt="Irving of Glentulchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

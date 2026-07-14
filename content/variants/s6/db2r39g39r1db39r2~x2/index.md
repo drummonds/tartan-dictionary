@@ -12,10 +12,10 @@ crumbs:
 - name: "Mar"
   url: "/tartans/m/ma/mar-2/"
 - name: "Mar"
-  url: "/setts/db2r39g39r1db39r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2r39g39r1db39r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mar-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBR](/stripes/brgrbr/).
 
 Part of the [Mar](/tartans/m/ma/mar-2/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Les Cercles de Fermieres du Quebec"
   url: "/tartans/l/le/les-cercles-de-fermieres-du-quebec/"
 - name: "Les Cercles de Fermieres du Quebec"
-  url: "/setts/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/les-cercles-de-fermieres-du-quebec/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBGGGWKBGWGGRKR](/stripes/bgwbgggwkbgwggrkr/).
 
 Part of the [Les Cercles de Fermieres du Quebec](/tartans/l/le/les-cercles-de-fermieres-du-quebec/) tartan — the named design grouping this sett with its other cloths.

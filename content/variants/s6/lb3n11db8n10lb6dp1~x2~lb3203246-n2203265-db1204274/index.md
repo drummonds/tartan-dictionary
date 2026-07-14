@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Ness Water"
   url: "/tartans/l/lo/loch-ness-water/"
 - name: "Loch Ness Water"
-  url: "/setts/lb3n11db8n10lb6dp1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb3n11db8n10lb6dp1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-ness-water/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBW](/stripes/bwbbbw/).
 
 Part of the [Loch Ness Water](/tartans/l/lo/loch-ness-water/) tartan — the named design grouping this sett with its other cloths.

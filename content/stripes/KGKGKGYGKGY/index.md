@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/">American Monahan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/"><img src="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/sett.png" alt="American Monahan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/american-monahan/">American Monahan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/american-monahan/"><img src="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/sett.png" alt="American Monahan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

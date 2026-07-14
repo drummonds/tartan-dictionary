@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/">Hebridean Celebration</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/"><img src="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/sett.png" alt="Hebridean Celebration sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebridean-celebration/">Hebridean Celebration</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-celebration/"><img src="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/sett.png" alt="Hebridean Celebration sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

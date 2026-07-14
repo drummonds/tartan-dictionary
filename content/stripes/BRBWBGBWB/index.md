@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/">Mercer Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><img src="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/sett.png" alt="Mercer Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/">Mercer, James (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><img src="/variants/s9/db24w3db4y6db4w3db15r52db6/sett.png" alt="Mercer, James (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/mercer-2/">Mercer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/mercer-2/"><img src="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/sett.png" alt="Mercer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/mercer-james/">Mercer, James</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/mercer-james/"><img src="/variants/s9/db24w3db4y6db4w3db15r52db6/sett.png" alt="Mercer, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

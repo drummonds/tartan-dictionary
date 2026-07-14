@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/lb24t3lb3k6lo1k1lb1k1g8dr4k1dr2lb1dr2k1dr4g8k1lb1k1lo1k6lb3t3lb24dr2~x4/">Stewart Victoria</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/lb24t3lb3k6lo1k1lb1k1g8dr4k1dr2lb1dr2k1dr4g8k1lb1k1lo1k6lb3t3lb24dr2~x4/"><img src="/variants/s26/lb24t3lb3k6lo1k1lb1k1g8dr4k1dr2lb1dr2k1dr4g8k1lb1k1lo1k6lb3t3lb24dr2~x4/sett.png" alt="Stewart Victoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-victoria/">Stewart Victoria</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-victoria/"><img src="/variants/s26/lb24t3lb3k6lo1k1lb1k1g8dr4k1dr2lb1dr2k1dr4g8k1lb1k1lo1k6lb3t3lb24dr2~x4/sett.png" alt="Stewart Victoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

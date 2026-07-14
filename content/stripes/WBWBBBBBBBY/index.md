@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/">Jewish (Kosher) (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/"><img src="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/sett.png" alt="Jewish (Kosher) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/je/jewish-2/">Jewish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/je/jewish-2/"><img src="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/sett.png" alt="Jewish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

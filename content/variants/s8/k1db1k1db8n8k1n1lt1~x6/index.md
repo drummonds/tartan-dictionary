@@ -8,10 +8,10 @@ crumbs:
 - name: "Auld Lang Syne Burns Commemorative"
   url: "/tartans/a/au/auld-lang-syne-burns-commemorative/"
 - name: "Auld Lang Syne Burns Commemorative Tartan"
-  url: "/setts/k1db1k1db8n8k1n1lt1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1db1k1db8n8k1n1lt1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/auld-lang-syne-burns-commemorative/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBBKBW](/stripes/kbkbbkbw/).
 
 Part of the [Auld Lang Syne Burns Commemorative](/tartans/a/au/auld-lang-syne-burns-commemorative/) tartan — the named design grouping this sett with its other cloths.

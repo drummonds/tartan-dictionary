@@ -8,7 +8,14 @@ crumbs:
   url: "/clan/turnbull/"
 - name: "Turnbull"
   url: "/families/turnbull/"
+aliases:
+- "/setts/dr7y3g28db28w3/"
+- "/setts/k2dy1g10db10w1/"
+- "/setts/k7y3g28db28w3/"
+- "/setts/r2y1g10db10w1/"
+- "/setts/r7y3g28db28w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bggbw/">BGGBW</a></nav>
 A tartan of the [Turnbull](/families/turnbull/) family.
 Its design is pattern [BGGBW](/stripes/bggbw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,16 +25,16 @@ The **Turnbull Hunting** tartan groups 5 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr7y3g28db28w3/">Turnbull Hunting</a> ★</td><td><code>DR/14 Y6 G56 DB56 W/6</code></td><td>256</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr7y3g28db28w3/"><img src="/variants/s5/dr7y3g28db28w3~x2/sett.png" alt="Turnbull Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k2dy1g10db10w1/">(1983) #2</a></td><td><code>K/12 DY6 G60 DB60 W/6</code></td><td>270</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2dy1g10db10w1/"><img src="/variants/s5/k2dy1g10db10w1~x6/sett.png" alt="(1983) #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k7y3g28db28w3/">Turnbull, hunting</a></td><td><code>K/14 Y6 G56 DB56 W/6</code></td><td>256</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k7y3g28db28w3/"><img src="/variants/s5/k7y3g28db28w3~x2/sett.png" alt="Turnbull, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r2y1g10db10w1/">(Name)</a></td><td><code>R/12 Y6 G60 DB60 W/6</code></td><td>270</td><td>1979</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2y1g10db10w1/"><img src="/variants/s5/r2y1g10db10w1~x6/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r7y3g28db28w3/">Turnbull, hunting</a></td><td><code>R/14 Y6 G56 DB56 W/6</code></td><td>256</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r7y3g28db28w3/"><img src="/variants/s5/r7y3g28db28w3~x2/sett.png" alt="Turnbull, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr7y3g28db28w3~x2/">Turnbull Hunting</a> ★</td><td><code>DR/14 Y6 G56 DB56 W/6</code></td><td>256</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr7y3g28db28w3~x2/"><img src="/variants/s5/dr7y3g28db28w3~x2/sett.png" alt="Turnbull Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k2dy1g10db10w1~x6/">(1983) #2</a></td><td><code>K/12 DY6 G60 DB60 W/6</code></td><td>270</td><td>1983</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k2dy1g10db10w1~x6/"><img src="/variants/s5/k2dy1g10db10w1~x6/sett.png" alt="(1983) #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k7y3g28db28w3~x2/">Turnbull, hunting</a></td><td><code>K/14 Y6 G56 DB56 W/6</code></td><td>256</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k7y3g28db28w3~x2/"><img src="/variants/s5/k7y3g28db28w3~x2/sett.png" alt="Turnbull, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r2y1g10db10w1~x6/">(Name)</a></td><td><code>R/12 Y6 G60 DB60 W/6</code></td><td>270</td><td>1979</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r2y1g10db10w1~x6/"><img src="/variants/s5/r2y1g10db10w1~x6/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r7y3g28db28w3~x2/">Turnbull, hunting</a></td><td><code>R/14 Y6 G56 DB56 W/6</code></td><td>256</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r7y3g28db28w3~x2/"><img src="/variants/s5/r7y3g28db28w3~x2/sett.png" alt="Turnbull, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -47,6 +54,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="261.9" cy="180.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="225.3" cy="261.2" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="234.6" cy="201.9" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="189.3" cy="187.4" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="260.3" cy="259.4" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="270.6" cy="228.0" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="253.8" cy="235.3" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="260.7" cy="262.7" r="4" fill="#3465a4"><title>Unidentified 10</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.8" cy="268.3" r="4" fill="#3465a4"><title>Corey</title></circle></a><a href="/variants/s5/dg35db40w11y3dg7~x2/"><circle cx="280.8" cy="231.4" r="4" fill="#3465a4"><title>Fife Ethylene Plant</title></circle></a><circle cx="239.9" cy="236.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="262.4" cy="180.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="225.5" cy="261.2" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="234.9" cy="201.8" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="189.6" cy="187.2" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="260.6" cy="259.5" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="270.9" cy="228.0" r="4" fill="#3465a4"><title>Highland Spring Dress</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="254.1" cy="235.2" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="261.0" cy="262.8" r="4" fill="#3465a4"><title>Unidentified 10</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.8" cy="268.3" r="4" fill="#3465a4"><title>Corey</title></circle></a><a href="/variants/s5/dg35db40w11y3dg7~x2/"><circle cx="281.2" cy="231.4" r="4" fill="#3465a4"><title>Fife Ethylene Plant</title></circle></a><circle cx="240.1" cy="236.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

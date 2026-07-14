@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w8g5dp10lb24w30g2lp2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wgbwwgw/">WGBWWGW</a></nav>
 Its design is pattern [WGBWWGW](/stripes/wgbwwgw/) — the page of every tartan sharing this colour sequence.
 
 One of a series of dancers' tartans designed by Kirsty Anderson for House of Edgar's in-house collection.
@@ -14,8 +17,8 @@ The **Shiel Lavender** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w8g5dp10lb24w30g2lp2/">Shiel Lavender</a></td><td><code>W/16 G10 DP20 LB48 W60 G4 LP/4</code></td><td>304</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w8g5dp10lb24w30g2lp2/"><img src="/variants/s7/w8g5dp10lb24w30g2lp2~x2/sett.png" alt="Shiel Lavender sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/">Shiel Lavender</a></td><td><code>W/16 G10 DP20 LB48 W60 G4 LP/4</code></td><td>304</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><img src="/variants/s7/w8g5dp10lb24w30g2lp2~x2/sett.png" alt="Shiel Lavender sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -35,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w8g5lb10dp24w30g2lp2~x2/"><circle cx="237.7" cy="189.9" r="4" fill="#3465a4"><title>Shiel</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="196.7" cy="210.8" r="4" fill="#3465a4"><title>Allanton Dress</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.5" cy="199.7" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="248.1" cy="190.0" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.0" cy="190.9" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="324.4" cy="198.2" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s6/w15y2db5n3lb40db10/"><circle cx="307.7" cy="178.2" r="4" fill="#3465a4"><title>Herriot New Zealand</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="270.6" cy="192.5" r="4" fill="#3465a4"><title>Laxey Manx</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="293.5" cy="209.5" r="4" fill="#3465a4"><title>Allanton</title></circle></a><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><circle cx="209.9" cy="204.0" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><circle cx="258.5" cy="202.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w8g5lb10dp24w30g2lp2~x2/"><circle cx="238.0" cy="189.6" r="4" fill="#3465a4"><title>Shiel</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="196.8" cy="210.5" r="4" fill="#3465a4"><title>Allanton Dress</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.8" cy="199.5" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="248.4" cy="189.8" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.3" cy="190.7" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="324.8" cy="198.1" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s6/w15y2db5n3lb40db10/"><circle cx="308.1" cy="178.1" r="4" fill="#3465a4"><title>Herriot New Zealand</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="271.0" cy="192.4" r="4" fill="#3465a4"><title>Laxey Manx</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="293.8" cy="209.4" r="4" fill="#3465a4"><title>Allanton</title></circle></a><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><circle cx="210.0" cy="203.7" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><circle cx="258.7" cy="202.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

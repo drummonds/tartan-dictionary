@@ -12,10 +12,10 @@ crumbs:
 - name: "Muir"
   url: "/tartans/m/mu/muir/"
 - name: "Muir/Moore"
-  url: "/setts/db60k15g10r2g10r2g10r2g10k1y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db60k15g10r2g10r2g10r2g10k1y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/muir/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRGRGRGKG](/stripes/bkgrgrgrgkg/).
 
 Part of the [Muir](/tartans/m/mu/muir/) tartan — the named design grouping this sett with its other cloths.

@@ -8,17 +8,17 @@ crumbs:
 - name: "Prince George"
   url: "/tartans/p/pr/prince-george/"
 - name: "Prince George (Royal)"
-  url: "/setts/g6w4g3w4g2w7g2w2g5r15w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g6w4g3w4g2w7g2w2g5r15w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/prince-george/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWGWGRW](/stripes/gwgwgwgwgrw/).
 
 Part of the [Prince George](/tartans/p/pr/prince-george/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=942](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=942)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/942/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/942/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: pre 2003 The warmth and glow of the fertile soil, The green
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 1918 — Prince George (Royal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=942">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#009C20;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #009C20"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>No details known. A Prince George tartan was listed in the 1930 publication 'The Land of the Gael' by a John Ross FSA. Also appears in a large book (Page 91) of almost 400 hand-painted warp strips by James Cant (died 1960) and presented to Jack Dalgety of Forfar (Alex Dalgety & Son). 11th March 2015. Burberry Catalogue produced during WWI by John Ross lists the Prince George as a Royal Tartan.</em></li>
+<li>pre 1918 — Prince George (Royal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/942/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#009C20;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #009C20"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>No details known. A Prince George tartan was listed in the 1930 publication 'The Land of the Gael' by a John Ross FSA. Also appears in a large book (Page 91) of almost 400 hand-painted warp strips by James Cant (died 1960) and presented to Jack Dalgety of Forfar (Alex Dalgety & Son). 11th March 2015. Burberry Catalogue produced during WWI by John Ross lists the Prince George as a Royal Tartan.</em></li>
 <li>pre 2003 — Prince George Royal Family Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=942">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
 <li>undated — Prince George (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span></li>
 </ul>
@@ -43,7 +43,7 @@ Earliest known date: pre 2003 The warmth and glow of the fertile soil, The green
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

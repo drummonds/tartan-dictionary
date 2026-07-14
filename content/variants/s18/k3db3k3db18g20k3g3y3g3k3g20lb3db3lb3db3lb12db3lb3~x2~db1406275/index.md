@@ -11,16 +11,16 @@ crumbs:
   url: "/families/johnston/"
 - name: "Johnston Dress"
   url: "/tartans/j/jo/johnston-dress/"
-- name: "Johnston Dress (Clan?)"
-  url: "/setts/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3/"
+- name: "Johnston Dress (Dalgleish)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBGKGGGKGWBWBWBWBWBWBWGKGGGKGBKBK](/stripes/bkbgkgggkgwbwbwbwbwbwbwgkgggkgbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/j/jo/johnston-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBGKGGGKGWBWBWBW](/stripes/kbkbgkgggkgwbwbwbw/).
 
 Part of the [Johnston Dress](/tartans/j/jo/johnston-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1897](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1897)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5308
 
 ## Thread count
-K/6 DB6 K6 DB36 G40 K6 G6 Y6 G6 K6 G40 LB6 DB6 LB6 DB6 LB24 DB6 LB6 DB6 LB24 DB6 LB6 DB6 LB6 G40 K6 G6 Y6 G6 K6 G40 DB36 K6 DB/6
+K/6 DB6 K6 DB36 G40 K6 G6 Y6 G6 K6 G40 LB6 DB6 LB6 DB6 LB24 DB6 LB/6
 
-One full sett is **860 threads**.
+One full sett is **436 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/6 DB6 K6 DB36 G40 K6 G6 Y6 G6 K6 G40 LB6 DB6 LB6 DB6 LB24 DB6 LB6 DB6 LB24 DB6 LB6 DB6 LB6 G40 K6 G6 Y6 G6 K6 G40 DB36 K6 DB/6 — 860 threads; it folds to the canonical 436-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **860 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 DB6 K6 DB36 G40 K6 G6 Y6 G6 K6 G40 LB6 DB6 LB6 DB6 LB24 DB6 LB6 DB6 LB24 DB6 LB6 DB6 LB6 G40 K6 G6 Y6 G6 K6 G40 DB36 K6 DB/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 DB6 K6 DB36 G40 K6 G6 Y6 G6 K6 G40 LB6 DB6 LB6 DB6 LB24 DB6 LB/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

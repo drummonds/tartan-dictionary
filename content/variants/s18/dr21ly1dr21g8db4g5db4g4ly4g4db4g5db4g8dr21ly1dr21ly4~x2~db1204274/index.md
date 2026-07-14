@@ -12,10 +12,10 @@ crumbs:
 - name: "Rice of Wales"
   url: "/tartans/r/ri/rice-of-wales/"
 - name: "Rice of Wales"
-  url: "/setts/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ri/rice-of-wales/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBGBGBGYGBGBGBYBY](/stripes/bybgbgbgygbgbgbyby/).
 
 Part of the [Rice of Wales](/tartans/r/ri/rice-of-wales/) tartan — the named design grouping this sett with its other cloths.

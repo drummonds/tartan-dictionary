@@ -12,10 +12,10 @@ crumbs:
 - name: "Sidey"
   url: "/tartans/s/si/sidey/"
 - name: "Sidey Family (Dundee) (Personal)"
-  url: "/setts/db4w1k2db25k12b1k2g16k2r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4w1k2db25k12b1k2g16k2r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/sidey/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBKBKGKR](/stripes/bwkbkbkgkr/).
 
 Part of the [Sidey](/tartans/s/si/sidey/) tartan — the named design grouping this sett with its other cloths.

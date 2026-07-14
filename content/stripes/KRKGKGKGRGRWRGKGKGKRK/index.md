@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/k4r2k10dg3k10dg30k8dg3r4y2r4lb2r4dg3k8dg30k10dg3k10r2k4~x2/">Pilette of Kinnear (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/k4r2k10dg3k10dg30k8dg3r4y2r4lb2r4dg3k8dg30k10dg3k10r2k4~x2/"><img src="/variants/s21/k4r2k10dg3k10dg30k8dg3r4y2r4lb2r4dg3k8dg30k10dg3k10r2k4~x2/sett.png" alt="Pilette of Kinnear (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pilette-of-kinnear/">Pilette of Kinnear</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pilette-of-kinnear/"><img src="/variants/s21/k4r2k10dg3k10dg30k8dg3r4y2r4lb2r4dg3k8dg30k10dg3k10r2k4~x2/sett.png" alt="Pilette of Kinnear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

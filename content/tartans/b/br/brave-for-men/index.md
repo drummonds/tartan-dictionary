@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k5dy5k5dy34n33k6n5lb2/"
+- "/setts/k5dy5k5dy34n33k6n5o2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkgbkbw/">KGKGBKBW</a></nav>
 Its design is pattern [KGKGBKBW](/stripes/kgkgbkbw/) — the page of every tartan sharing this colour sequence.
 
 Fashion tartan for men, sample preserved by the Scottish Register of Tartans.
@@ -15,10 +19,10 @@ The **Brave for Men** tartan groups 2 setts — the same named design recorded a
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k5dy5k5dy34n33k6n5lb2/">Brave for Men</a> ★</td><td><code>K/5 DY5 K5 DY34 N33 K6 N5 LB/2</code></td><td>183</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k5dy5k5dy34n33k6n5lb2/"><img src="/variants/s8/k5dy5k5dy34n33k6n5lb2/sett.png" alt="Brave for Men sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k5dy5k5dy34n33k6n5o2/">(Fashion)</a></td><td><code>K/5 DY5 K5 DY34 N33 K6 N5 O/2</code></td><td>183</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k5dy5k5dy34n33k6n5o2/"><img src="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k5dy5k5dy34n33k6n5lb2/">Brave for Men</a> ★</td><td><code>K/5 DY5 K5 DY34 N33 K6 N5 LB/2</code></td><td>183</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k5dy5k5dy34n33k6n5lb2/"><img src="/variants/s8/k5dy5k5dy34n33k6n5lb2/sett.png" alt="Brave for Men sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/">(Fashion)</a></td><td><code>K/5 DY5 K5 DY34 N33 K6 N5 O/2</code></td><td>183</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/"><img src="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g22k3g1k3g2dp8dr1dp8dr16~x2/"><circle cx="225.1" cy="149.3" r="4" fill="#3465a4"><title>Queen of Scots</title></circle></a><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="235.3" cy="177.3" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s10/dt8lb2dt27k10n4k2n3k2n16dt2~x2~dt1300000-n1800000/"><circle cx="307.4" cy="175.6" r="4" fill="#3465a4"><title>Highland Granite</title></circle></a><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><circle cx="214.4" cy="151.9" r="4" fill="#3465a4"><title>Ormiston</title></circle></a><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/"><circle cx="285.7" cy="171.8" r="4" fill="#3465a4"><title>Cork, County</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="217.7" cy="159.6" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/"><circle cx="220.2" cy="167.0" r="4" fill="#3465a4"><title>Speyside</title></circle></a><a href="/variants/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/"><circle cx="247.5" cy="137.9" r="4" fill="#3465a4"><title>Cozumel</title></circle></a><a href="/variants/s10/k2dr26n26k2n3k2n3k14dr2k2~x2/"><circle cx="252.8" cy="155.2" r="4" fill="#3465a4"><title>Wcwm 1527</title></circle></a><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><circle cx="213.3" cy="167.6" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><circle cx="273.0" cy="163.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g22k3g1k3g2dp8dr1dp8dr16~x2/"><circle cx="225.6" cy="149.3" r="4" fill="#3465a4"><title>Queen of Scots</title></circle></a><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="235.8" cy="177.3" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s10/dt8lb2dt27k10n4k2n3k2n16dt2~x2~dt1300000-n1800000/"><circle cx="308.0" cy="175.7" r="4" fill="#3465a4"><title>Highland Granite</title></circle></a><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><circle cx="214.8" cy="151.8" r="4" fill="#3465a4"><title>Ormiston</title></circle></a><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/"><circle cx="286.3" cy="171.9" r="4" fill="#3465a4"><title>Cork, County</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="218.2" cy="159.5" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/"><circle cx="220.7" cy="166.9" r="4" fill="#3465a4"><title>Speyside</title></circle></a><a href="/variants/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/"><circle cx="248.0" cy="137.8" r="4" fill="#3465a4"><title>Cozumel</title></circle></a><a href="/variants/s10/k2dr26n26k2n3k2n3k14dr2k2~x2/"><circle cx="253.4" cy="155.2" r="4" fill="#3465a4"><title>Wcwm 1527</title></circle></a><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><circle cx="213.8" cy="167.6" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><circle cx="273.6" cy="163.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

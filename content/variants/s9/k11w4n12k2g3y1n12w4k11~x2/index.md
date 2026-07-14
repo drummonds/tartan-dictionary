@@ -8,15 +8,15 @@ crumbs:
 - name: "Hancock"
   url: "/tartans/h/ha/hancock/"
 - name: "Hancock Personal Tartan"
-  url: "/setts/k11w4n12k2g3y1n12w4k11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k11w4n12k2g3y1n12w4k11/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWBKGGBWKWBGGKBW](/stripes/kwbkggbwkwbggkbw/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hancock/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWBGGKBWK](/stripes/kwbggkbwk/).
 
 Part of the [Hancock](/tartans/h/ha/hancock/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6469](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6469)
 
@@ -41,9 +41,11 @@ Earliest known date: 2004, October A personal tartan designed by Trevor Hancock 
 </details>
 
 ## Thread count
-K/22 W8 N24 K4 G6 Y2 N24 W8 K22 W8 N24 Y2 G6 K4 N24 W/8
+K/22 W8 N24 K4 G6 Y2 N24 W8 K/22
 
-One full sett is **362 threads**.
+One full sett is **196 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/22 W8 N24 K4 G6 Y2 N24 W8 K22 W8 N24 Y2 G6 K4 N24 W/8 — 362 threads; it folds to the canonical 196-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **362 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/22 W8 N24 K4 G6 Y2 N24 W8 K22 W8 N24 Y2 G6 K4 N24 W/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/22 W8 N24 K4 G6 Y2 N24 W8 K/22 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

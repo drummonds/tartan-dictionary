@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/w4db1g9db9r9db1y4db1r9db9g1db1g1db1g4db1w4~x2/">Alaskan Scottish</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/w4db1g9db9r9db1y4db1r9db9g1db1g1db1g4db1w4~x2/"><img src="/variants/s17/w4db1g9db9r9db1y4db1r9db9g1db1g1db1g4db1w4~x2/sett.png" alt="Alaskan Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alaskan-scottish/">Alaskan Scottish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alaskan-scottish/"><img src="/variants/s17/w4db1g9db9r9db1y4db1r9db9g1db1g1db1g4db1w4~x2/sett.png" alt="Alaskan Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

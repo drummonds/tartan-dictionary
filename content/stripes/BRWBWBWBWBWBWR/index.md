@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/">Jubilation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/"><img src="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/sett.png" alt="Jubilation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/jubilation-2/">Jubilation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/jubilation-2/"><img src="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/sett.png" alt="Jubilation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

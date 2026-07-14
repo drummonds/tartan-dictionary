@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Boxell, Baron"
   url: "/tartans/b/bo/boxell-baron/"
-- name: "Boxell, Baron (Personal)"
-  url: "/setts/dp27y2dp2k12g6o2g12k12db12r2db2/"
+- name: "Boxell of West Niddry, Baron (Personal)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp27y2dp2k12g6o2g12k12db12r2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/boxell-baron/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGRGKBRB](/stripes/bgbkgrgkbrb/).
 
 Part of the [Boxell, Baron](/tartans/b/bo/boxell-baron/) tartan — the named design grouping this sett with its other cloths.

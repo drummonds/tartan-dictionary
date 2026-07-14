@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/ly60do3ly4r3~x2/">Rabbie's Dram (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/ly60do3ly4r3~x2/"><img src="/variants/s4/ly60do3ly4r3~x2/sett.png" alt="Rabbie's Dram (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rabbie-s-dram/">Rabbie's Dram</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rabbie-s-dram/"><img src="/variants/s4/ly60do3ly4r3~x2/sett.png" alt="Rabbie's Dram sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

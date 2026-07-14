@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y4k3db6dbi4db57n3db3n3db3r3~x2~db1204274-dbi1406275/">U.S. Law Enforcement</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y4k3db6dbi4db57n3db3n3db3r3~x2~db1204274-dbi1406275/"><img src="/variants/s10/y4k3db6dbi4db57n3db3n3db3r3~x2~db1204274-dbi1406275/sett.png" alt="U.S. Law Enforcement sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/u/u-s-law-enforcement/">U.S. Law Enforcement</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-law-enforcement/"><img src="/variants/s10/y4k3db6dbi4db57n3db3n3db3r3~x2~db1204274-dbi1406275/sett.png" alt="U.S. Law Enforcement sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/">Alaska Highlanders Pipes &amp; Drums Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/"><img src="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/sett.png" alt="Alaska Highlanders Pipes &amp; Drums Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alaska-highlanders-pipes-drums/">Alaska Highlanders Pipes &amp; Drums</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alaska-highlanders-pipes-drums/"><img src="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/sett.png" alt="Alaska Highlanders Pipes &amp; Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

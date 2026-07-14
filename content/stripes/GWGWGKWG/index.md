@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g25w1dg2w1g6k2w2dg3~x2/">Marshall University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g25w1dg2w1g6k2w2dg3~x2/"><img src="/variants/s8/g25w1dg2w1g6k2w2dg3~x2/sett.png" alt="Marshall University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/marshall-university/">Marshall University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/marshall-university/"><img src="/variants/s8/g25w1dg2w1g6k2w2dg3~x2/sett.png" alt="Marshall University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "SmartWool"
   url: "/tartans/s/sm/smartwool/"
 - name: "SmartWool"
-  url: "/setts/k200dy3lo3dy3lo3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k200dy3lo3dy3lo3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sm/smartwool/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYGY](/stripes/kgygy/).
 
 Part of the [SmartWool](/tartans/s/sm/smartwool/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3820](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/2003 — SmartWool (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3820">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><br><em>Created for the Smartwool Corporation of Steamboat Springs, Colorado. Johnstons of Elgin produced scarves in the tartan for corporate use.</em></li>
-<li>March 2003 — SmartWool (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5828">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><br><em>Corporate tartan for the Smartwool Corporation of Steamboat Springs, Colorado. Only scarves produced at time of registration - from Johnstons (of Elgin). Smartwool did not wish it specifically recorded with the STA.</em></li>
+<li>March 2003 — SmartWool (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5828/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><br><em>Corporate tartan for the Smartwool Corporation of Steamboat Springs, Colorado. Only scarves produced at time of registration - from Johnstons (of Elgin). Smartwool did not wish it specifically recorded with the STA.</em></li>
 </ul>
 </details>
 

@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/hill/"
 - name: "Hill"
   url: "/families/hill/"
+aliases:
+- "/setts/k4r2k28db31y1db2y1db2w3/"
+- "/setts/w3db2y1db2y1db31k28r2k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krkbgbgbw/">KRKBGBGBW</a></nav>
 A tartan of the [Hill](/families/hill/) family.
 Its design is pattern [KRKBGBGBW](/stripes/krkbgbgbw/) — the page of every tartan sharing this colour sequence.
 
@@ -20,10 +24,10 @@ The **Hill** tartan groups 2 setts — the same named design recorded as differe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4r2k28db31y1db2y1db2w3/">Hill</a> ★</td><td><code>K/8 R4 K56 DB62 Y2 DB4 Y2 DB4 W/6</code></td><td>282</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4r2k28db31y1db2y1db2w3/"><img src="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/sett.png" alt="Hill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w3db2y1db2y1db31k28r2k2/">(Name)</a></td><td><code>W/6 DB4 Y2 DB4 Y2 DB62 K56 R4 K/4</code></td><td>278</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w3db2y1db2y1db31k28r2k2/"><img src="w3db2y1db2y1db31k28r2k2-rev.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/">Hill</a> ★</td><td><code>K/8 R4 K56 DB62 Y2 DB4 Y2 DB4 W/6</code></td><td>282</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><img src="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/sett.png" alt="Hill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w3db2y1db2y1db31k28r2k2~x2/">(Name)</a></td><td><code>W/6 DB4 Y2 DB4 Y2 DB62 K56 R4 K/4</code></td><td>278</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w3db2y1db2y1db31k28r2k2~x2/"><img src="w3db2y1db2y1db31k28r2k2-rev.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -36,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><circle cx="205.6" cy="112.2" r="4" fill="#3465a4"><title>Heirloom Dark Alba</title></circle></a><a href="/variants/s9/db18w2db2r3db21k28dy1k1g2~x2/"><circle cx="278.9" cy="87.2" r="4" fill="#3465a4"><title>St Andrew's College</title></circle></a><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="294.6" cy="142.9" r="4" fill="#3465a4"><title>Murdoch Celebration</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="306.8" cy="98.9" r="4" fill="#3465a4"><title>Weir</title></circle></a><a href="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/"><circle cx="294.6" cy="71.1" r="4" fill="#3465a4"><title>Grampian Police</title></circle></a><a href="/variants/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="301.4" cy="90.5" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="272.4" cy="108.6" r="4" fill="#3465a4"><title>Fuller of Hopewell</title></circle></a><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/"><circle cx="238.3" cy="105.7" r="4" fill="#3465a4"><title>Dugan</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="256.2" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s10/r3w2r2db2r2db24k28r2k3y1~x2/"><circle cx="245.8" cy="73.4" r="4" fill="#3465a4"><title>Locky</title></circle></a><circle cx="282.1" cy="77.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><circle cx="206.3" cy="112.1" r="4" fill="#3465a4"><title>Heirloom Dark Alba</title></circle></a><a href="/variants/s9/db18w2db2r3db21k28dy1k1g2~x2/"><circle cx="279.8" cy="87.2" r="4" fill="#3465a4"><title>St Andrew's College</title></circle></a><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="295.5" cy="142.9" r="4" fill="#3465a4"><title>Murdoch Celebration</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="307.7" cy="99.0" r="4" fill="#3465a4"><title>Weir</title></circle></a><a href="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/"><circle cx="295.6" cy="71.1" r="4" fill="#3465a4"><title>Grampian Police</title></circle></a><a href="/variants/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="302.5" cy="90.6" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="273.3" cy="108.6" r="4" fill="#3465a4"><title>Fuller of Hopewell</title></circle></a><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/"><circle cx="239.1" cy="105.6" r="4" fill="#3465a4"><title>Dugan</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="257.1" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s10/r3w2r2db2r2db24k28r2k3y1~x2/"><circle cx="246.7" cy="73.3" r="4" fill="#3465a4"><title>Locky</title></circle></a><circle cx="283.1" cy="77.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Argentine Flag"
   url: "/tartans/a/ar/argentine-flag/"
 - name: "Argentine Flag"
-  url: "/setts/lb26w2y1w3y2w3y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb26w2y1w3y2w3y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/argentine-flag/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWW](/stripes/gwgwgww/).
 
 Part of the [Argentine Flag](/tartans/a/ar/argentine-flag/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Earliest known date: Jan. 2004 This tartan has been created to be a seamlessly t
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>15/01/2004 — Argentine Flag (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10007">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#0099CC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #0099CC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFF00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFFF00"></span><br><em>This tartan has been created to be a seamlessly tileable version of the Argentine flag for a computer screen. See http://www.vaughanster.com/plaids-Argentine_Flag.htm</em></li>
-<li>Jan. 2004 — Argentine Flag (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10007">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>This tartan has been created to be a seamlessly tileable version of the Argentine flag for a computer screen. See http://www.vaughanster.com/plaids-Argentine_Flag.htm</em></li>
+<li>Jan. 2004 — Argentine Flag (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10007/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>This tartan has been created to be a seamlessly tileable version of the Argentine flag for a computer screen. See http://www.vaughanster.com/plaids-Argentine_Flag.htm</em></li>
 <li>undated — Argentine Flag Fashion Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10007">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span></li>
 </ul>
 </details>

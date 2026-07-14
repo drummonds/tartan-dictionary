@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k16y16r16g3db7w7k7~x2/">Eusa</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k16y16r16g3db7w7k7~x2/"><img src="/variants/s7/k16y16r16g3db7w7k7~x2/sett.png" alt="Eusa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/eu/eusa/">Eusa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eu/eusa/"><img src="/variants/s7/k16y16r16g3db7w7k7~x2/sett.png" alt="Eusa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

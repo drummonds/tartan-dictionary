@@ -8,10 +8,10 @@ crumbs:
 - name: "Cork County, Crest Range"
   url: "/tartans/c/co/cork-county-crest-range/"
 - name: "Cork County, Crest Range"
-  url: "/setts/r7k6r62k15r20n15dy10k16db10k3w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r7k6r62k15r20n15dy10k16db10k3w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cork-county-crest-range/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRBGKBKW](/stripes/rkrkrbgkbkw/).
 
 Part of the [Cork County, Crest Range](/tartans/c/co/cork-county-crest-range/) tartan — the named design grouping this sett with its other cloths.

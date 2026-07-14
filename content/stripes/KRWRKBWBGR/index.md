@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/">RCACA</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/"><img src="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/sett.png" alt="RCACA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/rc/rcaca/">RCACA</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/rc/rcaca/"><img src="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/sett.png" alt="RCACA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

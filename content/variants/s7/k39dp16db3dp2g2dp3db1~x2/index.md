@@ -8,15 +8,15 @@ crumbs:
 - name: "Torridon Dress"
   url: "/tartans/t/to/torridon-dress/"
 - name: "Torridon Dress Tartan"
-  url: "/setts/k39dp16db3dp2g2dp3db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k39dp16db3dp2g2dp3db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/torridon-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBBKKKKK](/stripes/bbgbbbkkkkk/).
 
 Part of the [Torridon Dress](/tartans/t/to/torridon-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8185](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8185)
 
@@ -41,9 +41,11 @@ Earliest known date:
 </details>
 
 ## Thread count
-K/4 K56 K8 K2 K8 DP32 DB6 DP4 G4 DP6 DB/2
+K/78 DP32 DB6 DP4 G4 DP6 DB/2
 
-One full sett is **258 threads**.
+One full sett is **184 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/4 K56 K8 K2 K8 DP32 DB6 DP4 G4 DP6 DB/2 — 258 threads; it folds to the canonical 184-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **258 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 K56 K8 K2 K8 DP32 DB6 DP4 G4 DP6 DB/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/78 DP32 DB6 DP4 G4 DP6 DB/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

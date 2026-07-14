@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/morris/"
 - name: "Morris of Balgonie"
   url: "/families/morris-of-balgonie/"
+aliases:
+- "/setts/w2dg20b3k10dy20ly2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wgbkgy/">WGBKGY</a></nav>
 A tartan of the [Morris of Balgonie](/families/morris-of-balgonie/) family.
 Its design is pattern [WGBKGY](/stripes/wgbkgy/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Morris of Balgonie Hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2dg20b3k10dy20ly2/">Morris of Balgonie Hunting</a></td><td><code>LY/4 DY40 K20 B6 DG40 W/4</code></td><td>220</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2dg20b3k10dy20ly2/"><img src="/variants/s6/w2dg20b3k10dy20ly2~x2/sett.png" alt="Morris of Balgonie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w2dg20b3k10dy20ly2~x2/">Morris of Balgonie Hunting</a></td><td><code>W/4 DG40 B6 K20 DY40 LY/4</code></td><td>220</td><td>1989</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w2dg20b3k10dy20ly2~x2/"><img src="/variants/s6/w2dg20b3k10dy20ly2~x2/sett.png" alt="Morris of Balgonie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/"><circle cx="104.0" cy="152.4" r="4" fill="#3465a4"><title>McCarter</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="151.0" cy="160.2" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="119.4" cy="198.2" r="4" fill="#3465a4"><title>Freedom</title></circle></a><a href="/variants/s6/r4k15lb4dt15dg24y4~x2/"><circle cx="116.1" cy="215.0" r="4" fill="#3465a4"><title>Haughfoot</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.3" cy="216.0" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="180.1" cy="194.2" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="235.0" cy="158.8" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s6/db9w2dg25do10k15dp4~x2/"><circle cx="175.8" cy="201.3" r="4" fill="#3465a4"><title>Staley</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="123.1" cy="170.5" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s7/do8w8k16dg32db3y5w5~x2/"><circle cx="121.1" cy="155.1" r="4" fill="#3465a4"><title>Mellor, Phillip</title></circle></a><circle cx="160.4" cy="190.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/"><circle cx="104.2" cy="152.1" r="4" fill="#3465a4"><title>McCarter</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="151.3" cy="160.0" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="119.7" cy="198.0" r="4" fill="#3465a4"><title>Freedom</title></circle></a><a href="/variants/s6/r4k15lb4dt15dg24y4~x2/"><circle cx="116.2" cy="214.8" r="4" fill="#3465a4"><title>Haughfoot</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.6" cy="215.9" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="180.4" cy="194.0" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="235.5" cy="158.7" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s6/db9w2dg25do10k15dp4~x2/"><circle cx="176.0" cy="201.2" r="4" fill="#3465a4"><title>Staley</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="123.4" cy="170.3" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s7/do8w8k16dg32db3y5w5~x2/"><circle cx="121.5" cy="154.8" r="4" fill="#3465a4"><title>Mellor, Phillip</title></circle></a><circle cx="160.6" cy="190.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "McNiff, Kevin"
   url: "/tartans/m/mc/mcniff-kevin/"
 - name: "McNiff, Kevin (Personal)"
-  url: "/setts/g20r7db40w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g20r7db40w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcniff-kevin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBW](/stripes/grbw/).
 
 Part of the [McNiff, Kevin](/tartans/m/mc/mcniff-kevin/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11140](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>09/09/2014 — McNiff, Kevin (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11140">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C14;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #003C14"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F8F8F8"></span><br><em>The Kevin McNiff tartan has been created for the personal use of the designer and his immediate family using colours of particular significance to him.</em></li>
-<li>2014 — McNiff, Kevin (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11140">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>The Kevin McNiff tartan has been created for the personal use of the designer and his immediate family using colours of particular significance to him.</em></li>
+<li>2014 — McNiff, Kevin (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11140/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>The Kevin McNiff tartan has been created for the personal use of the designer and his immediate family using colours of particular significance to him.</em></li>
 </ul>
 </details>
 

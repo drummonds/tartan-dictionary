@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db21k10dt8r3~x2/">Rangers 1989 (Sports)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db21k10dt8r3~x2/"><img src="/variants/s4/db21k10dt8r3~x2/sett.png" alt="Rangers 1989 (Sports) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rangers-1989-2/">Rangers 1989</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-1989-2/"><img src="/variants/s4/db21k10dt8r3~x2/sett.png" alt="Rangers 1989 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

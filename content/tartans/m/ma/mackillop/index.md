@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/mackillop/"
 - name: "MacKillop"
   url: "/families/mackillop/"
+aliases:
+- "/setts/g4r2k2r20lb1k7r2g10r3k2/"
+- "/setts/g4r4k2r20lb1k7r2g10r3k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grkrwkrgrk/">GRKRWKRGRK</a></nav>
 A tartan of the [MacKillop](/families/mackillop/) family.
 Its design is pattern [GRKRWKRGRK](/stripes/grkrwkrgrk/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **MacKillop** tartan groups 2 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g4r2k2r20lb1k7r2g10r3k2/">MacKillop</a> ★</td><td><code>G/8 R4 K4 R40 LB2 K14 R4 G20 R6 K/4</code></td><td>200</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g4r2k2r20lb1k7r2g10r3k2/"><img src="/variants/s10/g4r2k2r20lb1k7r2g10r3k2~x2/sett.png" alt="MacKillop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g4r4k2r20lb1k7r2g10r3k2/">MacKillop</a></td><td><code>G/8 R8 K4 R40 LB2 K14 R4 G20 R6 K/4</code></td><td>208</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g4r4k2r20lb1k7r2g10r3k2/"><img src="/variants/s10/g4r4k2r20lb1k7r2g10r3k2~x2/sett.png" alt="MacKillop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g4r2k2r20lb1k7r2g10r3k2~x2/">MacKillop</a> ★</td><td><code>G/8 R4 K4 R40 LB2 K14 R4 G20 R6 K/4</code></td><td>200</td><td>1985</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g4r2k2r20lb1k7r2g10r3k2~x2/"><img src="/variants/s10/g4r2k2r20lb1k7r2g10r3k2~x2/sett.png" alt="MacKillop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g4r4k2r20lb1k7r2g10r3k2~x2/">MacKillop</a></td><td><code>G/8 R8 K4 R40 LB2 K14 R4 G20 R6 K/4</code></td><td>208</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g4r4k2r20lb1k7r2g10r3k2~x2/"><img src="/variants/s10/g4r4k2r20lb1k7r2g10r3k2~x2/sett.png" alt="MacKillop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="238.5" cy="106.2" r="4" fill="#3465a4"><title>Unidentified No 3</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="233.0" cy="119.8" r="4" fill="#3465a4"><title>Hannay Dress</title></circle></a><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><circle cx="280.6" cy="68.3" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/"><circle cx="231.9" cy="83.6" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="234.0" cy="137.6" r="4" fill="#3465a4"><title>Blair Atholl</title></circle></a><a href="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/"><circle cx="190.5" cy="126.3" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><circle cx="285.5" cy="121.2" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/variants/s7/r1lb5k8o18lb1k1lb1~x4/"><circle cx="259.2" cy="124.3" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><a href="/variants/s8/r45k2r2k28w16r4k4lo2/"><circle cx="248.7" cy="98.6" r="4" fill="#3465a4"><title>Barbecue</title></circle></a><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><circle cx="252.7" cy="95.9" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><circle cx="251.2" cy="113.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="239.3" cy="106.1" r="4" fill="#3465a4"><title>Unidentified No 3</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="233.7" cy="119.7" r="4" fill="#3465a4"><title>Hannay Dress</title></circle></a><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><circle cx="281.5" cy="68.2" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/"><circle cx="232.7" cy="83.4" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="234.6" cy="137.5" r="4" fill="#3465a4"><title>Blair Atholl</title></circle></a><a href="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/"><circle cx="191.0" cy="126.1" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><circle cx="286.4" cy="121.2" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/variants/s7/r1lb5k8o18lb1k1lb1~x4/"><circle cx="260.0" cy="124.3" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><a href="/variants/s8/r45k2r2k28w16r4k4lo2/"><circle cx="249.5" cy="98.5" r="4" fill="#3465a4"><title>Barbecue</title></circle></a><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><circle cx="253.5" cy="95.8" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><circle cx="251.9" cy="113.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/">Mariverain</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/"><img src="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/sett.png" alt="Mariverain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mariverain/">Mariverain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mariverain/"><img src="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/sett.png" alt="Mariverain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/">Hackston (Green stripe) or Halkerston</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/"><img src="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/sett.png" alt="Hackston (Green stripe) or Halkerston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hackston-or-halkerston/">Hackston or Halkerston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hackston-or-halkerston/"><img src="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/sett.png" alt="Hackston or Halkerston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

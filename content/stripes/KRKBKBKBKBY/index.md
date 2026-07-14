@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25ly4~x2/">Caledonian Orient (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25ly4~x2/"><img src="/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25ly4~x2/sett.png" alt="Caledonian Orient (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledonian-orient/">Caledonian Orient</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-orient/"><img src="/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25ly4~x2/sett.png" alt="Caledonian Orient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Duchess of Fife"
   url: "/tartans/d/du/duchess-of-fife/"
 - name: "Duchess of Fife"
-  url: "/setts/g70k26g12k14t3k16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g70k26g12k14t3k16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duchess-of-fife/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBK](/stripes/gkgkbk/).
 
 Part of the [Duchess of Fife](/tartans/d/du/duchess-of-fife/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1002](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1880 — Duchess of Fife (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1002">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>Despite the claim, this does not appear in Clans Originaux. Variation of Duke of Fife. Woven in green instead of customary blue-green. It has been accepted as fact for very many years that J Claude's 1880 'Clans Originaux' contained many Irish tartans. In 2003 the Tartans Authority obtained photo copies of the contents pages of the only copy known to exist and they revealed that of the 185 tartans shown, not one of them was Irish. This 'fiction' has been absorbed into tartan history unfortunately and it will take many years to eradicate.. The only copy known to exist is owned by Pendleton Mills of Portland, Oregon</em></li>
-<li>1880 — Duchess of Fife (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=781">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>From J.R.Dalgety, 1984. From a pattern book of Fraser Ross & Co., Glasgow c.1870-1880. Sample in McGregor Hastie Collection at STS. Duke of Fife #790 is the same but with red on black in place of blue.</em></li>
+<li>1880 — Duchess of Fife (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/781/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>From J.R.Dalgety, 1984. From a pattern book of Fraser Ross & Co., Glasgow c.1870-1880. Sample in McGregor Hastie Collection at STS. Duke of Fife #790 is the same but with red on black in place of blue.</em></li>
 </ul>
 </details>
 

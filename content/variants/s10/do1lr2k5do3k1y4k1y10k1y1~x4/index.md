@@ -8,10 +8,10 @@ crumbs:
 - name: "Braemar, Camel"
   url: "/tartans/b/br/braemar-camel/"
 - name: "Braemar, Camel"
-  url: "/setts/do1lr2k5do3k1y4k1y10k1y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do1lr2k5do3k1y4k1y10k1y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/braemar-camel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKBKGKGKG](/stripes/bykbkgkgkg/).
 
 Part of the [Braemar, Camel](/tartans/b/br/braemar-camel/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5394](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1988 — Braemar, Camel (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5394">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#7C4420;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #7C4420"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #A0783C"></span><br><em>Sold in 1988 at Lady Knowe Mill, Moffat, as 'Braemar, Camel' and sold in 1989 at Spean Bridge Mill outlet as 'Campbell of Braemar'.</em></li>
-<li>1988 — Braemar, Camel (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3726">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#7C4420;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #7C4420"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F4F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #F4F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #A0783C"></span><br><em>Sold in 1988 at Lady Knowe Mill, Moffat, as "Braemar, Camel" and sold in 1989 at Spean Bridge Mill outlet as "Campbell of Braemar". Sample in STA Johnston Collection.</em></li>
+<li>1988 — Braemar, Camel (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3726/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#7C4420;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #7C4420"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F4F4D0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #F4F4D0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A0783C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #A0783C"></span><br><em>Sold in 1988 at Lady Knowe Mill, Moffat, as "Braemar, Camel" and sold in 1989 at Spean Bridge Mill outlet as "Campbell of Braemar". Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

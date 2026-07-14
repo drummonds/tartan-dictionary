@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/">Grampian Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/"><img src="/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/sett.png" alt="Grampian Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grampian-2/">Grampian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grampian-2/"><img src="/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

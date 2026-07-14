@@ -12,15 +12,15 @@ crumbs:
 - name: "Sonsub"
   url: "/tartans/s/so/sonsub-2/"
 - name: "Sonsub Corporate Tartan"
-  url: "/setts/k61n20ly2n20k5ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k61n20ly2n20k5ly4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/so/sonsub-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKKKKBYBKY](/stripes/kkkkkbybky/).
 
 Part of the [Sonsub](/tartans/s/so/sonsub-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6984](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6984)
 
@@ -45,9 +45,11 @@ Earliest known date: 2006 Corporate colours for Sonsub Ltd, Bridge of Don, Aberd
 </details>
 
 ## Thread count
-K/60 K10 K38 K10 K4 N40 LY4 N40 K10 LY/8
+K/122 N40 LY4 N40 K10 LY/8
 
-One full sett is **380 threads**.
+One full sett is **318 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/60 K10 K38 K10 K4 N40 LY4 N40 K10 LY/8 — 380 threads; it folds to the canonical 318-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **380 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/60 K10 K38 K10 K4 N40 LY4 N40 K10 LY/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/122 N40 LY4 N40 K10 LY/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

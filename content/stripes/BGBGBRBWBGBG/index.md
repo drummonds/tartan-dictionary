@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/y7db5y25db26lb4db4r3db4g4db26y25db5/">O Savaaoo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y7db5y25db26lb4db4r3db4g4db26y25db5/"><img src="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2~db1106275/sett.png" alt="O Savaaoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-savanao/">O Savanao</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-savanao/"><img src="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2~db1106275/sett.png" alt="O Savanao sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Thorntons Law"
   url: "/tartans/t/th/thorntons-law/"
 - name: "Thorntons Law Corporate Tartan"
-  url: "/setts/db10g10r5w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10g10r5w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thorntons-law/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRW](/stripes/bgrw/).
 
 Part of the [Thorntons Law](/tartans/t/th/thorntons-law/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Earliest known date: 2005 Thorntons WS is a Dundee based solictors, estate agent
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>2005 — Thorntons Law Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6862">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00AC94;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BG #00AC94"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SR #C80030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span></li>
-<li>2006 January — Thorntons Law (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6862">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0098A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BG #0098A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Asymmetric. A corporate identity for Scottish solicitorsThorntons Law LLP. The corporate colours are red (Property Services), green (Legal Services) and blue (Investment Services), superimposed with a white 'T' designating the name Thorntons. Asymmetric and dealt with by the House of Tartan, Comrie.</em></li>
+<li>2006 January — Thorntons Law (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6862/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0098A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BG #0098A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Asymmetric. A corporate identity for Scottish solicitorsThorntons Law LLP. The corporate colours are red (Property Services), green (Legal Services) and blue (Investment Services), superimposed with a white 'T' designating the name Thorntons. Asymmetric and dealt with by the House of Tartan, Comrie.</em></li>
 </ul>
 </details>
 

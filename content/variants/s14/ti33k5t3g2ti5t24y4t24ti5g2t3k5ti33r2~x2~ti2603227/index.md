@@ -8,10 +8,10 @@ crumbs:
 - name: "Los Angeles"
   url: "/tartans/l/lo/los-angeles/"
 - name: "Los Angeles District Tartan"
-  url: "/setts/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/los-angeles/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBBGBBGBKBR](/stripes/bkbgbbgbbgbkbr/).
 
 Part of the [Los Angeles](/tartans/l/lo/los-angeles/) tartan — the named design grouping this sett with its other cloths.

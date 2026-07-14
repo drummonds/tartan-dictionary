@@ -1,0 +1,35 @@
+---
+title: Pattern RBRBRGGRBRGRBRGRBRKBRBKR
+date: 2023-03-18
+aliases:
+- /patterns/rbrbrggrbrgrbrgrbrkbrbkr/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RBRBRGGRBRGRBRGRBRKBRBKR</span></div>
+
+It is a 24 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern RBRBRGGRBRGRBRGRBRKBRBKR" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "RBRBRGGRBRGRBRGRBRKBRBKR" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/tartans/h/he/hebrides-inner-3/">Hebrides, Inner</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebrides-inner-3/"><img src="/variants/s24/r47dbi3r1dbi3r11dg4g4r5dbi2r1g4r1dbi2r5g4r4db8r1k2dbi4r1dbi4k2r23~x2~dbi1406275-db1204274/sett.png" alt="Hebrides, Inner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

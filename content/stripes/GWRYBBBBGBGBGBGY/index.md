@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/">Missouri (Proposed)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/"><img src="/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/sett.png" alt="Missouri (Proposed) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/missouri/">Missouri</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/missouri/"><img src="/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/sett.png" alt="Missouri sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/">St. Leonards (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><img src="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/sett.png" alt="St. Leonards (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-leonards/">St. Leonards</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-leonards/"><img src="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/sett.png" alt="St. Leonards sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

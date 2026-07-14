@@ -8,10 +8,10 @@ crumbs:
 - name: "Roscommon"
   url: "/tartans/r/ro/roscommon/"
 - name: "Roscommon"
-  url: "/setts/b32do6o5do6dg19o3dg5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b32do6o5do6dg19o3dg5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/roscommon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBGRG](/stripes/bbrbgrg/).
 
 Part of the [Roscommon](/tartans/r/ro/roscommon/) tartan — the named design grouping this sett with its other cloths.

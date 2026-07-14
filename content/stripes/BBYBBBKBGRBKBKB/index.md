@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/">Westminster College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/"><img src="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/sett.png" alt="Westminster College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2dbi2db42lr1db21dbi2~x2~dbi1406275-lr2800000/">Westminster College (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2dbi2db42lr1db21dbi2~x2~dbi1406275-lr2800000/"><img src="/variants/s15/db2k2db2k21db2r2g21db2k2db2dbi2db42lr1db21dbi2~x2~dbi1406275-lr2800000/sett.png" alt="Westminster College (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westminster-college/">Westminster College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westminster-college/"><img src="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/sett.png" alt="Westminster College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

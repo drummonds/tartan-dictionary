@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k2ly6k2ly11k9r1~x2/">Porter Drinkers (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><img src="/variants/s6/k2ly6k2ly11k9r1~x2/sett.png" alt="Porter Drinkers (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/porter-drinkers/">Porter Drinkers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/porter-drinkers/"><img src="/variants/s6/k2ly6k2ly11k9r1~x2/sett.png" alt="Porter Drinkers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

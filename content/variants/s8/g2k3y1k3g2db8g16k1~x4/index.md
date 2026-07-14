@@ -8,10 +8,10 @@ crumbs:
 - name: "Harley , Robert"
   url: "/tartans/h/ha/harley-robert/"
 - name: "Harley (Leslie), Robert"
-  url: "/setts/g2k3y1k3g2db8g16k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2k3y1k3g2db8g16k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harley-robert/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGBGK](/stripes/gkgkgbgk/).
 
 Part of the [Harley , Robert](/tartans/h/ha/harley-robert/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10986](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>06/03/2013 — Harley (Leslie), Robert (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10986">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005020;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005020"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFE600;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFE600"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000048"></span><br><em>Designed by Robert Harley in remembrance of his father, also Robert Harley, who served in the Home Guard in Leslie during World War II. This tartan mixes the colours of the Black Watch with the sett of the Leslie Red.</em></li>
-<li>2014 — Harley (Leslie), Robert (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10986">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by Robert Harley, who spent the first five years of his life in Leslie, Fife, to commemorative his father, also Robert Harley, who served in the Home Guard in Leslie during World War II. This tartan mixes the colours of the Black Watch with the sett of the Leslie Red.</em></li>
+<li>2014 — Harley (Leslie), Robert (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10986/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><br><em>Designed by Robert Harley, who spent the first five years of his life in Leslie, Fife, to commemorative his father, also Robert Harley, who served in the Home Guard in Leslie during World War II. This tartan mixes the colours of the Black Watch with the sett of the Leslie Red.</em></li>
 </ul>
 </details>
 

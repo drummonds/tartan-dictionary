@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/">House of Timber Wolf (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/"><img src="/variants/s29/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/sett.png" alt="House of Timber Wolf (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/house-of-timber-wolf/">House of Timber Wolf</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/house-of-timber-wolf/"><img src="/variants/s29/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/sett.png" alt="House of Timber Wolf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

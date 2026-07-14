@@ -8,10 +8,10 @@ crumbs:
 - name: "Help for Heroes"
   url: "/tartans/h/he/help-for-heroes-2/"
 - name: "Help for Heroes"
-  url: "/setts/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/help-for-heroes-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBBBBBBBBBBBBWR](/stripes/bybbbbbbbbbbbbwr/).
 
 Part of the [Help for Heroes](/tartans/h/he/help-for-heroes-2/) tartan — the named design grouping this sett with its other cloths.

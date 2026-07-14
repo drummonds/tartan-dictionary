@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/">Clanton (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/"><img src="/variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/sett.png" alt="Clanton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clanton/">Clanton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clanton/"><img src="/variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/sett.png" alt="Clanton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

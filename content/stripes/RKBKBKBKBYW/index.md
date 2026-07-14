@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lb13lr2n38k13n8k8n17k2n17k4o11~n1900000-o2500000/">Bute Heather, Grey (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lb13lr2n38k13n8k8n17k2n17k4o11~n1900000-o2500000/"><img src="/variants/s11/lb13lr2n38k13n8k8n17k2n17k4o11~n1900000-o2500000/sett.png" alt="Bute Heather, Grey (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/bute-heather-2/">Bute Heather</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/bute-heather-2/"><img src="/variants/s11/lb13lr2n38k13n8k8n17k2n17k4o11~n1900000-o2500000/sett.png" alt="Bute Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

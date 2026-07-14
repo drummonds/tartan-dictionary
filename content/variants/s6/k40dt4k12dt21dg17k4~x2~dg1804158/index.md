@@ -12,10 +12,10 @@ crumbs:
 - name: "Granger"
   url: "/tartans/g/gr/granger-2/"
 - name: "Granger Family Tartan"
-  url: "/setts/k40dt4k12dt21dg17k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k40dt4k12dt21dg17k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/granger-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGK](/stripes/kbkbgk/).
 
 Part of the [Granger](/tartans/g/gr/granger-2/) tartan — the named design grouping this sett with its other cloths.

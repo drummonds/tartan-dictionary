@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s44/r8w1g2r2w1r1w1r1w1r2g3r1w1r6w1r1g12r1w1r16w1r1g12r1w1r6w1r1db4r1w1r2g3w1r2w1g3r3w1r1db2r1w1r8/">MacAlister</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s44/r8w1g2r2w1r1w1r1w1r2g3r1w1r6w1r1g12r1w1r16w1r1g12r1w1r6w1r1db4r1w1r2g3w1r2w1g3r3w1r1db2r1w1r8/"><img src="/variants/s44/r8w1g2r2w1r1w1r1w1r2g3r1w1r6w1r1g12r1w1r16w1r1g12r1w1r6w1r1db4r1w1r2g3w1r2w1g3r3w1r1db2r1w1r8/sett.png" alt="MacAlister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macalister-2/">MacAlister</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macalister-2/"><img src="/variants/s44/r8w1g2r2w1r1w1r1w1r2g3r1w1r6w1r1g12r1w1r16w1r1g12r1w1r6w1r1db4r1w1r2g3w1r2w1g3r3w1r1db2r1w1r8/sett.png" alt="MacAlister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

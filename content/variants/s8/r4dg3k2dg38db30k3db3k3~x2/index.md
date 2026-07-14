@@ -12,10 +12,10 @@ crumbs:
 - name: "Peter of Lee"
   url: "/tartans/p/pe/peter-of-lee-2/"
 - name: "Peter of Lee Family Tartan"
-  url: "/setts/r4dg3k2dg38db30k3db3k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4dg3k2dg38db30k3db3k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/peter-of-lee-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGKGR](/stripes/kbkbgkgr/).
 
 Part of the [Peter of Lee](/tartans/p/pe/peter-of-lee-2/) tartan — the named design grouping this sett with its other cloths.

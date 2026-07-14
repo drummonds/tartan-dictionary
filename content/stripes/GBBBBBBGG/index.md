@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/">Children 1st (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/"><img src="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/sett.png" alt="Children 1st (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/children-1st/">Children 1st</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/children-1st/"><img src="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/sett.png" alt="Children 1st sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

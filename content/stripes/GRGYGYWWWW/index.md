@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/">Michigan, State of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><img src="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/sett.png" alt="Michigan, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/michigan-state-of/">Michigan, State of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/michigan-state-of/"><img src="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/sett.png" alt="Michigan, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

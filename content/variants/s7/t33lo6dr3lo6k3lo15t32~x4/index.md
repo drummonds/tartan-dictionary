@@ -12,15 +12,15 @@ crumbs:
 - name: "Carlisle"
   url: "/tartans/c/ca/carlisle-4/"
 - name: "Carlisle (Family)"
-  url: "/setts/t33lo6dr3lo6k3lo15t32/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t33lo6dr3lo6k3lo15t32/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BYKYBYBYBYKY](/stripes/bykybybybyky/).
+provenance below. It is one weaving of the [sett](/tartans/c/ca/carlisle-4/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYBYKYB](/stripes/bybykyb/).
 
 Part of the [Carlisle](/tartans/c/ca/carlisle-4/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=562](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=562)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=562](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1988 — Carlisle (Family) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=562">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3474FC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #3474FC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><br><em>Derived from the Coat of Arms.,MR C Justus, North Carolina, The Justus were an old Perthshire family.</em></li>
-<li>pre 1988 — Carlisle Family (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=674">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3474FC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #3474FC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>American. Designed by C. Justus, of North Carolina for those of the name Carlisle to wear.</em></li>
+<li>pre 1988 — Carlisle Family (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/674/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3474FC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FSB #3474FC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C88C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #C88C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>American. Designed by C. Justus, of North Carolina for those of the name Carlisle to wear.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 674
 
 ## Thread count
-T/128 LO60 K12 LO24 DR12 LO24 T132 LO24 DR12 LO24 K12 LO/60
+T/132 LO24 DR12 LO24 K12 LO60 T/128
 
-One full sett is **860 threads**.
+One full sett is **524 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/128 LO60 K12 LO24 DR12 LO24 T132 LO24 DR12 LO24 K12 LO/60 — 860 threads; it folds to the canonical 524-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **860 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/128 LO60 K12 LO24 DR12 LO24 T132 LO24 DR12 LO24 K12 LO/60 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/132 LO24 DR12 LO24 K12 LO60 T/128 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

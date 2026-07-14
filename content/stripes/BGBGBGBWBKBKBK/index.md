@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k37dp2k2dp3k13dp10w2dp10dg1dp2dg2dp2dg9dp13~x2/">Strathtummel District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k37dp2k2dp3k13dp10w2dp10dg1dp2dg2dp2dg9dp13~x2/"><img src="/variants/s14/k37dp2k2dp3k13dp10w2dp10dg1dp2dg2dp2dg9dp13~x2/sett.png" alt="Strathtummel District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathtummel-3/">Strathtummel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathtummel-3/"><img src="/variants/s14/k37dp2k2dp3k13dp10w2dp10dg1dp2dg2dp2dg9dp13~x2/sett.png" alt="Strathtummel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

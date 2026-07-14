@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/">Fulbright Foundation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/"><img src="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/sett.png" alt="Fulbright Foundation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fu/fulbright-foundation/">Fulbright Foundation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fu/fulbright-foundation/"><img src="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/sett.png" alt="Fulbright Foundation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

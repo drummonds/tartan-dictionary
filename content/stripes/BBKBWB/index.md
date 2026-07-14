@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db40t16k5b16w2dp6~x2/">MacFarland-Collins (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db40t16k5b16w2dp6~x2/"><img src="/variants/s6/db40t16k5b16w2dp6~x2/sett.png" alt="MacFarland-Collins (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macfarland-collins/">MacFarland-Collins</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macfarland-collins/"><img src="/variants/s6/db40t16k5b16w2dp6~x2/sett.png" alt="MacFarland-Collins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db40b16k5dt16w2dp6~x2/">McFarland-Collins</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db40b16k5dt16w2dp6~x2/"><img src="/variants/s6/db40b16k5dt16w2dp6~x2/sett.png" alt="McFarland-Collins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcfarland-collins/">McFarland-Collins</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcfarland-collins/"><img src="/variants/s6/db40b16k5dt16w2dp6~x2/sett.png" alt="McFarland-Collins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

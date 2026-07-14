@@ -6,19 +6,19 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Historic Scotland"
-  url: "/tartans/h/hi/historic-scotland-2/"
+  url: "/tartans/h/hi/historic-scotland/"
 - name: "Historic Scotland (pre 1998) (Corp)"
-  url: "/setts/dt4lb1dt1lb3dt24o9k1o9k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt4lb1dt1lb3dt24o9k1o9k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/historic-scotland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBRKRK](/stripes/bwbwbrkrk/).
 
-Part of the [Historic Scotland](/tartans/h/hi/historic-scotland-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Historic Scotland](/tartans/h/hi/historic-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2122](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2122)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/2122/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2122/*)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -30,7 +30,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2122](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
@@ -55,6 +55,21 @@ One full sett is **206 threads**.
 # Sample pattern
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/8 LB2 DT2 LB6 DT48 O18 K2 O18 K/6 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **0.13** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<figure class="master-compare" style="margin:0">
+<span style="position:relative;display:inline-block;max-width:100%">
+<img src="compare.png" alt="this sett (top) woven against the master sett (bottom)" style="width:100%;max-width:740px;display:block">
+<span style="position:absolute;top:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">this sett</span>
+<span style="position:absolute;bottom:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">master sett ★</span>
+</span>
+<figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/db4lb1db1lb3db24o9k1o9k3/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
+</figure>
 
 ## Nearest tartan variants
 

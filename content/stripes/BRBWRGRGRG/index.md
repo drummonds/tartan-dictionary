@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/">Stewart of Appin, Ancient hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/"><img src="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/sett.png" alt="Stewart of Appin, Ancient hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-appin-hunting/">Stewart of Appin Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-hunting/"><img src="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/sett.png" alt="Stewart of Appin Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

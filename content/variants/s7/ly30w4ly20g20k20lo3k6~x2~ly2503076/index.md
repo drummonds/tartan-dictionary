@@ -8,10 +8,10 @@ crumbs:
 - name: "St Andrews Bay"
   url: "/tartans/s/st/st-andrews-bay/"
 - name: "St Andrews Bay"
-  url: "/setts/ly30w4ly20g20k20lo3k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly30w4ly20g20k20lo3k6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-andrews-bay/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKGYWY](/stripes/kykgywy/).
 
 Part of the [St Andrews Bay](/tartans/s/st/st-andrews-bay/) tartan — the named design grouping this sett with its other cloths.

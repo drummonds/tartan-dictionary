@@ -8,15 +8,15 @@ crumbs:
 - name: "Clan Strathclyde"
   url: "/clan/strathclyde/"
 - name: "Strathclyde, University of"
-  url: "/tartans/s/st/strathclyde-university-of-2/"
+  url: "/tartans/s/st/strathclyde-university-of/"
 - name: "Strathclyde, University of"
-  url: "/setts/db7k1r3k1db24k1w3k3dg3k3dg3g19k2w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db7k1r3k1db24k1w3k3dg3k3dg3g19k2w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathclyde-university-of/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKBKWKGKGGKW](/stripes/bkrkbkwkgkggkw/).
 
-Part of the [Strathclyde, University of](/tartans/s/st/strathclyde-university-of-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Strathclyde, University of](/tartans/s/st/strathclyde-university-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
@@ -51,6 +51,21 @@ One full sett is **286 threads**.
 # Sample pattern
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/14 K2 R6 K2 DB48 K2 W6 K6 DG6 K6 DG6 G38 K4 W/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **2.00** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<figure class="master-compare" style="margin:0">
+<span style="position:relative;display:inline-block;max-width:100%">
+<img src="compare.png" alt="this sett (top) woven against the master sett (bottom)" style="width:100%;max-width:740px;display:block">
+<span style="position:absolute;top:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">this sett</span>
+<span style="position:absolute;bottom:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">master sett ★</span>
+</span>
+<figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/db7k1r3k1db24k1w3k3g3k3g3dg19k2w4/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
+</figure>
 
 ## Nearest tartan variants
 

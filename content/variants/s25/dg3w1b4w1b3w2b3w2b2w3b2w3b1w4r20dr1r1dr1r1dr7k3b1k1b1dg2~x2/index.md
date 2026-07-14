@@ -8,10 +8,10 @@ crumbs:
 - name: "A J Gallacher"
   url: "/tartans/a/a/a-j-gallacher/"
 - name: "A J Gallacher"
-  url: "/setts/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/a/a-j-gallacher/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKBRBRBRWBWBWBWBWBWBWG](/stripes/gbkbkbrbrbrwbwbwbwbwbwbwg/).
 
 Part of the [A J Gallacher](/tartans/a/a/a-j-gallacher/) tartan — the named design grouping this sett with its other cloths.

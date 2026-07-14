@@ -12,10 +12,10 @@ crumbs:
 - name: "Glenorchy"
   url: "/tartans/g/gl/glenorchy-2/"
 - name: "Glenorchy #2"
-  url: "/setts/g3r2w1db18r2g8r4lb1db8r2g18r2w1db3lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3r2w1db18r2g8r4lb1db8r2g18r2w1db3lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glenorchy-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWBRGRWBRGRWBW](/stripes/grwbrgrwbrgrwbw/).
 
 Part of the [Glenorchy](/tartans/g/gl/glenorchy-2/) tartan — the named design grouping this sett with its other cloths.

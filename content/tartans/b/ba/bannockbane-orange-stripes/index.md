@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Bannockbane"
   url: "/clan/bannockbane/"
+aliases:
+- "/setts/do2lo2do15lo1w10ly15lo2ly2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bybywyyy/">BYBYWYYY</a></nav>
 A tartan of [Clan Bannockbane](/clan/bannockbane/).
 Its design is pattern [BYBYWYYY](/stripes/bybywyyy/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Bannockbane Orange Stripes** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/do2lo2do15lo1w10ly15lo2ly2/">Bannockbane Orange Stripes</a></td><td><code>DO/4 LO4 DO30 LO2 W20 LY30 LO4 LY/4</code></td><td>188</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/do2lo2do15lo1w10ly15lo2ly2/"><img src="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/sett.png" alt="Bannockbane Orange Stripes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/">Bannockbane Orange Stripes</a></td><td><code>DO/4 LO4 DO30 LO2 W20 LY30 LO4 LY/4</code></td><td>188</td><td>1975</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/"><img src="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/sett.png" alt="Bannockbane Orange Stripes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/do4r3do21r2w14ly22r3ly4~x2/"><circle cx="175.3" cy="192.9" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="291.3" cy="230.1" r="4" fill="#3465a4"><title>Elgin</title></circle></a><a href="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/"><circle cx="172.6" cy="198.3" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><circle cx="266.8" cy="232.0" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell</title></circle></a><a href="/variants/s7/n2w1ly17n14w15n2w2~x2/"><circle cx="293.9" cy="249.1" r="4" fill="#3465a4"><title>NASSA</title></circle></a><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><circle cx="269.8" cy="219.6" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><circle cx="235.9" cy="241.9" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><circle cx="228.9" cy="214.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/do4r3do21r2w14ly22r3ly4~x2/"><circle cx="175.5" cy="192.6" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="291.5" cy="230.0" r="4" fill="#3465a4"><title>Elgin</title></circle></a><a href="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/"><circle cx="172.6" cy="198.0" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><circle cx="266.9" cy="231.8" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell</title></circle></a><a href="/variants/s7/n2w1ly17n14w15n2w2~x2/"><circle cx="293.9" cy="249.0" r="4" fill="#3465a4"><title>NASSA</title></circle></a><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><circle cx="270.1" cy="219.5" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><circle cx="236.0" cy="241.7" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><circle cx="228.9" cy="213.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

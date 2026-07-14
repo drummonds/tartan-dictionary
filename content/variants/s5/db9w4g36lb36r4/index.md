@@ -12,10 +12,10 @@ crumbs:
 - name: "Alvis of Lee"
   url: "/tartans/a/al/alvis-of-lee/"
 - name: "Alvis of Lee (Personal)"
-  url: "/setts/db9w4g36lb36r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db9w4g36lb36r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/alvis-of-lee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWR](/stripes/bwgwr/).
 
 Part of the [Alvis of Lee](/tartans/a/al/alvis-of-lee/) tartan — the named design grouping this sett with its other cloths.

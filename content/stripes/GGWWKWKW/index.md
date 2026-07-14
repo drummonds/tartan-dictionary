@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/">Alexander Brothers - 2007? (Corp.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><img src="/variants/s8/g5y2lb20w2k20w20k2w5~x2/sett.png" alt="Alexander Brothers - 2007? (Corp.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alexander-brothers/">Alexander Brothers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alexander-brothers/"><img src="/variants/s8/g5y2lb20w2k20w20k2w5~x2/sett.png" alt="Alexander Brothers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

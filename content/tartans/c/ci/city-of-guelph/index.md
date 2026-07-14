@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g28k4g5b4g5k19db19y2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkgbgkg/">GBKGBGKG</a></nav>
 Its design is pattern [GBKGBGKG](/stripes/gbkgbgkg/) — the page of every tartan sharing this colour sequence.
 
 The **City of Guelph** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **City of Guelph** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g28k4g5b4g5k19db19y2/">City of Guelph</a></td><td><code>G/56 K8 G10 B8 G10 K38 DB38 Y/4</code></td><td>284</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g28k4g5b4g5k19db19y2/"><img src="/variants/s8/g28k4g5b4g5k19db19y2~x2/sett.png" alt="City of Guelph sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/">City of Guelph</a></td><td><code>G/56 K8 G10 B8 G10 K38 DB38 Y/4</code></td><td>284</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><img src="/variants/s8/g28k4g5b4g5k19db19y2~x2/sett.png" alt="City of Guelph sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="169.7" cy="157.5" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="156.9" cy="175.6" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1y1~x4/"><circle cx="199.0" cy="164.0" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/t18k7g5r4g7k1y2~x2/"><circle cx="177.6" cy="164.3" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="182.5" cy="125.5" r="4" fill="#3465a4"><title>Hope-Vere</title></circle></a><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="178.8" cy="136.3" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/"><circle cx="211.7" cy="167.2" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14/"><circle cx="197.6" cy="166.9" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/"><circle cx="158.8" cy="165.5" r="4" fill="#3465a4"><title>Allen</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="177.2" cy="176.5" r="4" fill="#3465a4"><title>Ednie</title></circle></a><circle cx="180.1" cy="159.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="170.2" cy="157.4" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="157.3" cy="175.4" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1y1~x4/"><circle cx="199.5" cy="163.8" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/t18k7g5r4g7k1y2~x2/"><circle cx="178.0" cy="164.1" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="183.0" cy="125.4" r="4" fill="#3465a4"><title>Hope-Vere</title></circle></a><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="179.3" cy="136.1" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/"><circle cx="212.2" cy="167.1" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14/"><circle cx="198.1" cy="166.9" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/"><circle cx="159.2" cy="165.3" r="4" fill="#3465a4"><title>Allen</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="177.6" cy="176.4" r="4" fill="#3465a4"><title>Ednie</title></circle></a><circle cx="180.6" cy="159.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

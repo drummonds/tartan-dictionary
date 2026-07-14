@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/">Stewart of Athol Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/sett.png" alt="Stewart of Athol Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/">Stewart of Atholl (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/sett.png" alt="Stewart of Atholl (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-athol/">Stewart of Athol</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-athol/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/sett.png" alt="Stewart of Athol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-of-atholl/">Stewart of Atholl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-of-atholl/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/sett.png" alt="Stewart of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/g24k3g2k3g4k4r20k3r6/">Alma College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g24k3g2k3g4k4r20k3r6/"><img src="/variants/s9/g24k3g2k3g4k4r20k3r6~x2~g2504202/sett.png" alt="Alma College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alma-college/">Alma College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alma-college/"><img src="/variants/s9/g24k3g2k3g4k4r20k3r6~x2~g2504202/sett.png" alt="Alma College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Fletcher C"
   url: "/tartans/f/fl/fletcher-c/"
 - name: "Fletcher C"
-  url: "/setts/db6k1db6k8r1g8r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6k1db6k8r1g8r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fl/fletcher-c/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKRGR](/stripes/bkbkrgr/).
 
 Part of the [Fletcher C](/tartans/f/fl/fletcher-c/) tartan — the named design grouping this sett with its other cloths.

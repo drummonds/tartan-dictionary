@@ -12,10 +12,10 @@ crumbs:
 - name: "Humphries"
   url: "/tartans/h/hu/humphries/"
 - name: "Humphries (Personal)"
-  url: "/setts/db16k4db4k4db6k14dg17k2r3k2dg17k14db18w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16k4db4k4db6k14dg17k2r3k2dg17k14db18w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/humphries/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKRKGKBW](/stripes/bkbkbkgkrkgkbw/).
 
 Part of the [Humphries](/tartans/h/hu/humphries/) tartan — the named design grouping this sett with its other cloths.

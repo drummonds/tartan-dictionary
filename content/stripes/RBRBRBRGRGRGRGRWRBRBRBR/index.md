@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/r7db6r3db4r3db11r18y3r18g10r7g15r7g15r18lb3r18db11r3db4r3db6r7~x2/">Fox, Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/r7db6r3db4r3db11r18y3r18g10r7g15r7g15r18lb3r18db11r3db4r3db6r7~x2/"><img src="/variants/s23/r7db6r3db4r3db11r18y3r18g10r7g15r7g15r18lb3r18db11r3db4r3db6r7~x2/sett.png" alt="Fox, Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/fox/">Fox</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fox/"><img src="/variants/s23/r7db6r3db4r3db11r18y3r18g10r7g15r7g15r18lb3r18db11r3db4r3db6r7~x2/sett.png" alt="Fox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

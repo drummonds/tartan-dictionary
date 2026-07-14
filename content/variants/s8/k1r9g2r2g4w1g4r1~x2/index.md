@@ -8,10 +8,10 @@ crumbs:
 - name: "Comyn"
   url: "/tartans/c/co/comyn/"
 - name: "Comyn"
-  url: "/setts/k1r9g2r2g4w1g4r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1r9g2r2g4w1g4r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/comyn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRGWGR](/stripes/krgrgwgr/).
 
 Part of the [Comyn](/tartans/c/co/comyn/) tartan — the named design grouping this sett with its other cloths.

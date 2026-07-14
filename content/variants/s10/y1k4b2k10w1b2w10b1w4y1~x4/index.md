@@ -8,10 +8,10 @@ crumbs:
 - name: "Chieftain"
   url: "/tartans/c/ch/chieftain/"
 - name: "Chieftain"
-  url: "/setts/y1k4b2k10w1b2w10b1w4y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1k4b2k10w1b2w10b1w4y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chieftain/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKWBWBWG](/stripes/gkbkwbwbwg/).
 
 Part of the [Chieftain](/tartans/c/ch/chieftain/) tartan — the named design grouping this sett with its other cloths.

@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Wcwm"
   url: "/clan/wcwm/"
+aliases:
+- "/setts/dp40k8ly8dp4ly1dp4lr8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkybyby/">BKYBYBY</a></nav>
 A tartan of [Clan Wcwm](/clan/wcwm/).
 Its design is pattern [BKYBYBY](/stripes/bkybyby/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Wcwm 4907-2** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp40k8ly8dp4ly1dp4lr8/">Wcwm 4907-2</a></td><td><code>DP/160 K32 LY32 DP16 LY4 DP16 LR/32</code></td><td>392</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp40k8ly8dp4ly1dp4lr8/"><img src="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/sett.png" alt="Wcwm 4907-2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/">Wcwm 4907-2</a></td><td><code>DP/160 K32 LY32 DP16 LY4 DP16 LR/32</code></td><td>392</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/"><img src="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/sett.png" alt="Wcwm 4907-2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp2g3o21dp42w1g2~x2/"><circle cx="452.1" cy="129.3" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s9/db5r16db4k3db4k3db43r15w1~x2/"><circle cx="372.9" cy="87.5" r="4" fill="#3465a4"><title>Falkirk Football Club</title></circle></a><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/"><circle cx="394.7" cy="105.3" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/"><circle cx="323.4" cy="128.8" r="4" fill="#3465a4"><title>Western Illinois University</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="318.2" cy="101.5" r="4" fill="#3465a4"><title>Ostermeier</title></circle></a><a href="/variants/s6/db25r8db3r4k1w3~x2/"><circle cx="362.9" cy="119.5" r="4" fill="#3465a4"><title>Clan Gregor</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="320.7" cy="94.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="319.2" cy="111.8" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s8/db57k1r12db1g12r14db1r2~x2/"><circle cx="379.4" cy="78.9" r="4" fill="#3465a4"><title>McBrayer</title></circle></a><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="338.2" cy="87.6" r="4" fill="#3465a4"><title>Knights Templar</title></circle></a><circle cx="380.8" cy="91.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dp2g3o21dp42w1g2~x2/"><circle cx="453.2" cy="129.5" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s9/db5r16db4k3db4k3db43r15w1~x2/"><circle cx="374.1" cy="87.6" r="4" fill="#3465a4"><title>Falkirk Football Club</title></circle></a><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/"><circle cx="395.7" cy="105.4" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/"><circle cx="324.4" cy="128.8" r="4" fill="#3465a4"><title>Western Illinois University</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="319.2" cy="101.5" r="4" fill="#3465a4"><title>Ostermeier</title></circle></a><a href="/variants/s6/db25r8db3r4k1w3~x2/"><circle cx="364.0" cy="119.6" r="4" fill="#3465a4"><title>Clan Gregor</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="321.7" cy="94.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="320.2" cy="111.8" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s8/db57k1r12db1g12r14db1r2~x2/"><circle cx="380.5" cy="79.0" r="4" fill="#3465a4"><title>McBrayer</title></circle></a><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="339.3" cy="87.6" r="4" fill="#3465a4"><title>Knights Templar</title></circle></a><circle cx="382.0" cy="91.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

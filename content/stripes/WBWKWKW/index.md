@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w6t3w20k2w3k25w3~x2/">Forbes Dress (Clans Originaux)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><img src="/variants/s7/w6t3w20k2w3k25w3~x2/sett.png" alt="Forbes Dress (Clans Originaux) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forbes-dress-2/">Forbes Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forbes-dress-2/"><img src="/variants/s7/w6t3w20k2w3k25w3~x2/sett.png" alt="Forbes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

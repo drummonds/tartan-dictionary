@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/lo80k52w7n12/">Oklahoma State University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lo80k52w7n12/"><img src="/variants/s4/lo80k52w7n12/sett.png" alt="Oklahoma State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ok/oklahoma-state-university/">Oklahoma State University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma-state-university/"><img src="/variants/s4/lo80k52w7n12/sett.png" alt="Oklahoma State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/n62w11k4lg17~x2/">Thunderlord (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/n62w11k4lg17~x2/"><img src="/variants/s4/n62w11k4lg17~x2/sett.png" alt="Thunderlord (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thunderlord-2/">Thunderlord</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thunderlord-2/"><img src="/variants/s4/n62w11k4lg17~x2/sett.png" alt="Thunderlord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

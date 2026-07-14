@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r18g9r2g3k1n1~x4/">MacGregor of Cardney - 1930 (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r18g9r2g3k1n1~x4/"><img src="/variants/s6/r18g9r2g3k1n1~x4/sett.png" alt="MacGregor of Cardney - 1930 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r96g42r16g17k4n6/">MacGregor, Glengyle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r96g42r16g17k4n6/"><img src="/variants/s6/r96g42r16g17k4n6/sett.png" alt="MacGregor, Glengyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-of-cardney/">MacGregor of Cardney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-of-cardney/"><img src="/variants/s6/r18g9r2g3k1n1~x4/sett.png" alt="MacGregor of Cardney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-glengyle/">MacGregor, Glengyle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-glengyle/"><img src="/variants/s6/r96g42r16g17k4n6/sett.png" alt="MacGregor, Glengyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

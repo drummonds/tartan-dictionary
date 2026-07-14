@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/">Chambers, Christopher J (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><img src="/variants/s7/lb13dr1g13w1k1w7k3~x2/sett.png" alt="Chambers, Christopher J (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chambers-christopher-j-2/">Chambers, Christopher J</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chambers-christopher-j-2/"><img src="/variants/s7/lb13dr1g13w1k1w7k3~x2/sett.png" alt="Chambers, Christopher J sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

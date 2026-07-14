@@ -8,10 +8,10 @@ crumbs:
 - name: "Kentucky State"
   url: "/tartans/k/ke/kentucky-state/"
 - name: "Kentucky State American District Tartan"
-  url: "/setts/ly3r3lb4w2db11dg13k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly3r3lb4w2db11dg13k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kentucky-state/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBWWRY](/stripes/kgbwwry/).
 
 Part of the [Kentucky State](/tartans/k/ke/kentucky-state/) tartan — the named design grouping this sett with its other cloths.

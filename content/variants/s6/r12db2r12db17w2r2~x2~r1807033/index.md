@@ -8,10 +8,10 @@ crumbs:
 - name: "British European"
   url: "/tartans/b/br/british-european/"
 - name: "British European"
-  url: "/setts/r12db2r12db17w2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12db2r12db17w2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/british-european/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBWR](/stripes/rbrbwr/).
 
 Part of the [British European](/tartans/b/br/british-european/) tartan — the named design grouping this sett with its other cloths.

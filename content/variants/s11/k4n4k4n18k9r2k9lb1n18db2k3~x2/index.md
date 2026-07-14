@@ -12,10 +12,10 @@ crumbs:
 - name: "Moggach"
   url: "/tartans/m/mo/moggach/"
 - name: "Moggach (Strathspey)"
-  url: "/setts/k4n4k4n18k9r2k9lb1n18db2k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4n4k4n18k9r2k9lb1n18db2k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/moggach/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBWKRKBKBK](/stripes/kbbwkrkbkbk/).
 
 Part of the [Moggach](/tartans/m/mo/moggach/) tartan — the named design grouping this sett with its other cloths.

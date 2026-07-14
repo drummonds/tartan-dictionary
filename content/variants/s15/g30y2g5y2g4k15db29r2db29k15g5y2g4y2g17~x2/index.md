@@ -6,15 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified"
-  url: "/tartans/u/un/unidentified-39/"
+  url: "/tartans/u/un/unidentified-36/"
 - name: "Unidentified B'gowrie Unknown Tartan"
-  url: "/setts/g30y2g5y2g4k15db29r2db29k15g5y2g4y2g17/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g30y2g5y2g4k15db29r2db29k15g5y2g4y2g17/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-36/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGKBRBKGGGGG](/stripes/gggggkbrbkggggg/).
 
-Part of the [Unidentified](/tartans/u/un/unidentified-39/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified](/tartans/u/un/unidentified-36/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

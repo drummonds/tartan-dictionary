@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp3r14g2dp10r2g14dp3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgrbgrb/">BGRBGRB</a></nav>
 Its design is pattern [BGRBGRB](/stripes/bgrbgrb/) — the page of every tartan sharing this colour sequence.
 
 Designed for the 1987 World Netball Championship.
@@ -14,8 +17,8 @@ The **Scottish Netball** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp3r14g2dp10r2g14dp3/">Scottish Netball</a></td><td><code>DP/6 R28 G4 DP20 R4 G28 DP/6</code></td><td>180</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp3r14g2dp10r2g14dp3/"><img src="/variants/s7/dp3r14g2dp10r2g14dp3~x2/sett.png" alt="Scottish Netball sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp3r14g2dp10r2g14dp3~x2/">Scottish Netball</a></td><td><code>DP/6 R28 G4 DP20 R4 G28 DP/6</code></td><td>180</td><td>1986</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp3r14g2dp10r2g14dp3~x2/"><img src="/variants/s7/dp3r14g2dp10r2g14dp3~x2/sett.png" alt="Scottish Netball sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +37,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g28r4dp27r27g28r5dp2~x2/"><circle cx="281.3" cy="225.5" r="4" fill="#3465a4"><title>Madder</title></circle></a><a href="/variants/s7/g28r4dp25r22g27r4dp2~x2/"><circle cx="293.5" cy="224.2" r="4" fill="#3465a4"><title>Glasgow, City of</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="243.7" cy="201.5" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s6/dp4r3dp26r26g26r4~x2/"><circle cx="246.3" cy="240.8" r="4" fill="#3465a4"><title>Unidentified 16</title></circle></a><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><circle cx="260.9" cy="232.9" r="4" fill="#3465a4"><title>MacFadyan</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="230.9" cy="231.3" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/dp2r4g12r3dp6r10w2~x2/"><circle cx="209.5" cy="238.9" r="4" fill="#3465a4"><title>MacKintosh-Geddes</title></circle></a><a href="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/"><circle cx="219.3" cy="235.7" r="4" fill="#3465a4"><title>Unidentified Scarlett</title></circle></a><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><circle cx="198.1" cy="228.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s8/g12r11dp12b3r32dp8g8dp8~x2/"><circle cx="258.7" cy="213.8" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><circle cx="222.6" cy="245.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g28r4dp27r27g28r5dp2~x2/"><circle cx="281.7" cy="225.6" r="4" fill="#3465a4"><title>Madder</title></circle></a><a href="/variants/s7/g28r4dp25r22g27r4dp2~x2/"><circle cx="294.0" cy="224.3" r="4" fill="#3465a4"><title>Glasgow, City of</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="244.0" cy="201.4" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s6/dp4r3dp26r26g26r4~x2/"><circle cx="246.6" cy="240.7" r="4" fill="#3465a4"><title>Unidentified 16</title></circle></a><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><circle cx="261.3" cy="232.9" r="4" fill="#3465a4"><title>MacFadyan</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="231.2" cy="231.3" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/dp2r4g12r3dp6r10w2~x2/"><circle cx="209.8" cy="238.8" r="4" fill="#3465a4"><title>MacKintosh-Geddes</title></circle></a><a href="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/"><circle cx="219.5" cy="235.6" r="4" fill="#3465a4"><title>Unidentified Scarlett</title></circle></a><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><circle cx="198.2" cy="228.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s8/g12r11dp12b3r32dp8g8dp8~x2/"><circle cx="259.1" cy="213.8" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><circle cx="222.8" cy="245.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db0705267-dbi1204274/">Rhys of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db0705267-dbi1204274/"><img src="/variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db0705267-dbi1204274/sett.png" alt="Rhys of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/rh/rhys-of-wales/">Rhys of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/rh/rhys-of-wales/"><img src="/variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db0705267-dbi1204274/sett.png" alt="Rhys of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

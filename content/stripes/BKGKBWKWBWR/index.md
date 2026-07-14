@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/">Historic Caledonian Railway Enthusiasts', The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/"><img src="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/sett.png" alt="Historic Caledonian Railway Enthusiasts', The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/historic-caledonian-railway-enthusiasts-the/">Historic Caledonian Railway Enthusiasts', The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/historic-caledonian-railway-enthusiasts-the/"><img src="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/sett.png" alt="Historic Caledonian Railway Enthusiasts', The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

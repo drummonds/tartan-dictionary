@@ -8,15 +8,15 @@ crumbs:
 - name: "Robert Lee Jordan Defiance"
   url: "/tartans/r/ro/robert-lee-jordan-defiance/"
 - name: "Robert Lee Jordan Defiance (Personal)"
-  url: "/setts/k4dg21dp1dg3dp12db3dp3db4dp3db24k1w5r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4dg21dp1dg3dp12db3dp3db4dp3db24k1w5r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robert-lee-jordan-defiance/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKGBGBBBBBBKWR](/stripes/kkgbgbbbbbbkwr/).
 
 Part of the [Robert Lee Jordan Defiance](/tartans/r/ro/robert-lee-jordan-defiance/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3520](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3520)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7297
 
 ## Thread count
-R/6 W10 K2 DB48 DP6 DB8 DP6 DB6 DP24 DG6 DP2 DG42 K2 K/6
+K/8 DG42 DP2 DG6 DP24 DB6 DP6 DB8 DP6 DB48 K2 W10 R/6
 
-One full sett is **336 threads**.
+One full sett is **334 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/6 W10 K2 DB48 DP6 DB8 DP6 DB6 DP24 DG6 DP2 DG42 K2 K/6 — 336 threads; it folds to the canonical 334-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **336 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 W10 K2 DB48 DP6 DB8 DP6 DB6 DP24 DG6 DP2 DG42 K2 K/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 DG42 DP2 DG6 DP24 DB6 DP6 DB8 DP6 DB48 K2 W10 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

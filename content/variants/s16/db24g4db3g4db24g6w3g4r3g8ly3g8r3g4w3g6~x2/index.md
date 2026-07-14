@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Borders Tourist Board"
   url: "/tartans/s/sc/scottish-borders-tourist-board/"
 - name: "Scottish Borders Tourist Board"
-  url: "/setts/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-borders-tourist-board/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGWGRGYGRGWG](/stripes/bgbgbgwgrgygrgwg/).
 
 Part of the [Scottish Borders Tourist Board](/tartans/s/sc/scottish-borders-tourist-board/) tartan — the named design grouping this sett with its other cloths.

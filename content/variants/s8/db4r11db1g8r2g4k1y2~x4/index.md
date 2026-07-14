@@ -12,10 +12,10 @@ crumbs:
 - name: "Craik of Assington"
   url: "/tartans/c/cr/craik-of-assington/"
 - name: "Craik of Assington Personal Tartan"
-  url: "/setts/db4r11db1g8r2g4k1y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4r11db1g8r2g4k1y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/craik-of-assington/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGRGKG](/stripes/brbgrgkg/).
 
 Part of the [Craik of Assington](/tartans/c/cr/craik-of-assington/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/">Ross Hunting Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/"><img src="/variants/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/sett.png" alt="Ross Hunting Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-hunting-3/">Ross Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-hunting-3/"><img src="/variants/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/sett.png" alt="Ross Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

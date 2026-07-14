@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r1db6g1k1g1k1g6k1lb1k1db3k3g3w1~x8/">Elgin-Landshut</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r1db6g1k1g1k1g6k1lb1k1db3k3g3w1~x8/"><img src="/variants/s14/r1db6g1k1g1k1g6k1lb1k1db3k3g3w1~x8/sett.png" alt="Elgin-Landshut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elgin-landshut/">Elgin-Landshut</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elgin-landshut/"><img src="/variants/s14/r1db6g1k1g1k1g6k1lb1k1db3k3g3w1~x8/sett.png" alt="Elgin-Landshut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

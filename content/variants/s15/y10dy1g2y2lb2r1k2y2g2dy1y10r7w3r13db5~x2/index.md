@@ -12,10 +12,10 @@ crumbs:
 - name: "Contrecoeur"
   url: "/tartans/c/co/contrecoeur-2/"
 - name: "Contrecoeur Corporate Tartan"
-  url: "/setts/y10dy1g2y2lb2r1k2y2g2dy1y10r7w3r13db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y10dy1g2y2lb2r1k2y2g2dy1y10r7w3r13db5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/contrecoeur-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRGGGGKRWGGGG](/stripes/brwrggggkrwgggg/).
 
 Part of the [Contrecoeur](/tartans/c/co/contrecoeur-2/) tartan — the named design grouping this sett with its other cloths.

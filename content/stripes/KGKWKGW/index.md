@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k10y2k10w2k2y13w3~x2/">Nooten-Boom (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k10y2k10w2k2y13w3~x2/"><img src="/variants/s7/k10y2k10w2k2y13w3~x2/sett.png" alt="Nooten-Boom (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/nooten-boom/">Nooten-Boom</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nooten-boom/"><img src="/variants/s7/k10y2k10w2k2y13w3~x2/sett.png" alt="Nooten-Boom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

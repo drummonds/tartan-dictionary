@@ -8,10 +8,10 @@ crumbs:
 - name: "Fujisankei Serene"
   url: "/tartans/f/fu/fujisankei-serene-2/"
 - name: "Fujisankei Serene"
-  url: "/setts/n1lb6db4lb1db16dt1db4dt6lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n1lb6db4lb1db16dt1db4dt6lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fu/fujisankei-serene-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBBBBW](/stripes/bwbwbbbbw/).
 
 Part of the [Fujisankei Serene](/tartans/f/fu/fujisankei-serene-2/) tartan — the named design grouping this sett with its other cloths.

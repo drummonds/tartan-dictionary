@@ -8,22 +8,22 @@ crumbs:
 - name: "Pars, Dress"
   url: "/tartans/p/pa/pars-dress/"
 - name: "Pars, Dress (Sports)"
-  url: "/setts/w10k1w5k7w7r2w7k50w7k2w7k7w5k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w10k1w5k7w7r2w7k50w7k2w7k7w5k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/pars-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWRWKWKW](/stripes/kwkwkwkwrwkwkw/).
 
 Part of the [Pars, Dress](/tartans/p/pa/pars-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3834](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3834)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3834/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3834/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1998 — Pars, Dress (Sports) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3834">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This started life in 1998 as the Dundermline Athletic F.C. tartan (also known as the Pars). Its design was a collaboration between Charlie Brine (proprietor of the Dunfermline Kilt Co.,and an ex-Pars player in 1969) and the Strathmore Woollen Company of Forfar. Charlie then re-categorised this one as the Dress version and had the new one at 7538 designed. No-one knows from where the nickname of 'Pars' appeared although there are many amusing and fanciful explanations to be found on the club wesbite.</em></li>
+<li>1998 — Pars, Dress (Sports) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3834/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This started life in 1998 as the Dundermline Athletic F.C. tartan (also known as the Pars). Its design was a collaboration between Charlie Brine (proprietor of the Dunfermline Kilt Co.,and an ex-Pars player in 1969) and the Strathmore Woollen Company of Forfar. Charlie then re-categorised this one as the Dress version and had the new one at 7538 designed. No-one knows from where the nickname of 'Pars' appeared although there are many amusing and fanciful explanations to be found on the club wesbite.</em></li>
 <li>undated — Pars, Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5125">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This started life in 1998 as the Dunfermline Athletic Football Club tartan (also known as the Pars). Its design was a collaboration between Charlie Brine (proprietor of the Dunfermline Kilt Co., and an ex-Pars player in 1969) and the Strathmore Woollen Company of Forfar. Charlie then re-categorsied this one as the Dress version and designed the new team one. No-one knows from where the nickname of 'Pars' appeared although there are many amusing and fanciful explanations to be found on the club website.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3834](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

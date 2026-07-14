@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/">Rathmore</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><img src="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/sett.png" alt="Rathmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rathmore-2/">Rathmore</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rathmore-2/"><img src="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/sett.png" alt="Rathmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

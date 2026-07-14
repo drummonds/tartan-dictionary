@@ -8,10 +8,10 @@ crumbs:
 - name: "Unidentified fragment"
   url: "/tartans/u/un/unidentified-fragment-2/"
 - name: "Unidentified fragment"
-  url: "/setts/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-fragment-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKBKGKGGGKGKBKWK](/stripes/bkrkbkgkgggkgkbkwk/).
 
 Part of the [Unidentified fragment](/tartans/u/un/unidentified-fragment-2/) tartan — the named design grouping this sett with its other cloths.

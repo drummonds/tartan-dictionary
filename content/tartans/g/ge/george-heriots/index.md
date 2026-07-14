@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan George"
   url: "/clan/george/"
+aliases:
+- "/setts/y3k1n24k35w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkbkw/">GKBKW</a></nav>
 A tartan of [Clan George](/clan/george/).
 Its design is pattern [GKBKW](/stripes/gkbkw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **George Heriots** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y3k1n24k35w3/">George Heriots</a></td><td><code>Y/6 K2 N48 K70 W/6</code></td><td>252</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y3k1n24k35w3/"><img src="/variants/s5/y3k1n24k35w3~x2/sett.png" alt="George Heriots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/y3k1n24k35w3~x2/">George Heriots</a></td><td><code>Y/6 K2 N48 K70 W/6</code></td><td>252</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/y3k1n24k35w3~x2/"><img src="/variants/s5/y3k1n24k35w3~x2/sett.png" alt="George Heriots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/n62k30w1k1~x2/"><circle cx="437.3" cy="129.6" r="4" fill="#3465a4"><title>Pride of New Zealand</title></circle></a><a href="/variants/s5/k3w2n27k31o3~x2/"><circle cx="278.0" cy="153.8" r="4" fill="#3465a4"><title>Kelley Oliphint</title></circle></a><a href="/variants/s5/k5w7k5n20db1~x4/"><circle cx="256.0" cy="161.2" r="4" fill="#3465a4"><title>Burberry</title></circle></a><a href="/variants/s4/k62n24y5w3~x2/"><circle cx="368.8" cy="148.7" r="4" fill="#3465a4"><title>Perry , Alex</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="296.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="301.7" cy="77.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="362.7" cy="130.0" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s5/dr3k1t27k27w3~x2/"><circle cx="265.5" cy="141.9" r="4" fill="#3465a4"><title>Bro-Spirit of Northmen</title></circle></a><a href="/variants/s7/k30w2n4y10w9k3n5~x2/"><circle cx="229.4" cy="141.6" r="4" fill="#3465a4"><title>Virginia Commonwealth University</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="306.3" cy="155.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><circle cx="316.6" cy="122.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/n62k30w1k1~x2/"><circle cx="438.6" cy="129.9" r="4" fill="#3465a4"><title>Pride of New Zealand</title></circle></a><a href="/variants/s5/k3w2n27k31o3~x2/"><circle cx="278.8" cy="153.9" r="4" fill="#3465a4"><title>Kelley Oliphint</title></circle></a><a href="/variants/s5/k5w7k5n20db1~x4/"><circle cx="256.7" cy="161.1" r="4" fill="#3465a4"><title>Burberry</title></circle></a><a href="/variants/s4/k62n24y5w3~x2/"><circle cx="369.9" cy="148.9" r="4" fill="#3465a4"><title>Perry , Alex</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="297.5" cy="154.5" r="4" fill="#3465a4"><title>Cornish Flag</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="302.7" cy="77.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="363.8" cy="130.2" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s5/dr3k1t27k27w3~x2/"><circle cx="266.3" cy="141.9" r="4" fill="#3465a4"><title>Bro-Spirit of Northmen</title></circle></a><a href="/variants/s7/k30w2n4y10w9k3n5~x2/"><circle cx="230.2" cy="141.6" r="4" fill="#3465a4"><title>Virginia Commonwealth University</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="307.2" cy="155.5" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><circle cx="317.6" cy="122.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

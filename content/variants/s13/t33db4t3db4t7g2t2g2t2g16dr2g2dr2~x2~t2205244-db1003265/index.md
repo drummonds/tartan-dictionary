@@ -8,10 +8,10 @@ crumbs:
 - name: "International Cricket Council"
   url: "/tartans/i/in/international-cricket-council/"
 - name: "International Cricket Council"
-  url: "/setts/t33db4t3db4t7g2t2g2t2g16dr2g2dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t33db4t3db4t7g2t2g2t2g16dr2g2dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/international-cricket-council/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBGBGBGBGB](/stripes/bbbbbgbgbgbgb/).
 
 Part of the [International Cricket Council](/tartans/i/in/international-cricket-council/) tartan — the named design grouping this sett with its other cloths.

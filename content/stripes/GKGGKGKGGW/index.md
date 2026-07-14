@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y1k1g1dg30k1dg2k2dg1g10w1~x2~g2408144-dg1806142/">Celtic F.C. Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y1k1g1dg30k1dg2k2dg1g10w1~x2~g2408144-dg1806142/"><img src="/variants/s10/y1k1g1dg30k1dg2k2dg1g10w1~x2~g2408144-dg1806142/sett.png" alt="Celtic F.C. Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/celtic-f-c/">Celtic F.C.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/celtic-f-c/"><img src="/variants/s10/y1k1g1dg30k1dg2k2dg1g10w1~x2~g2408144-dg1806142/sett.png" alt="Celtic F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

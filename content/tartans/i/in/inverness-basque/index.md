@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Inverness"
   url: "/clan/inverness/"
+aliases:
+- "/setts/r22g6k3g16w22/"
+- "/setts/r33g9k5g24w33/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgkgw/">RGKGW</a></nav>
 A tartan of [Clan Inverness](/clan/inverness/).
 Its design is pattern [RGKGW](/stripes/rgkgw/) — the page of every tartan sharing this colour sequence.
 
@@ -16,10 +20,10 @@ The **Inverness Basque** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r22g6k3g16w22/">Inverness Basque</a> ★</td><td><code>R/22 G6 K3 G16 W/22</code></td><td>94</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r22g6k3g16w22/"><img src="/variants/s5/r22g6k3g16w22/sett.png" alt="Inverness Basque sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r33g9k5g24w33/">(District)</a></td><td><code>R/66 G18 K10 G48 W/66</code></td><td>284</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r33g9k5g24w33/"><img src="/variants/s5/r33g9k5g24w33~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r22g6k3g16w22/">Inverness Basque</a> ★</td><td><code>R/22 G6 K3 G16 W/22</code></td><td>94</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r22g6k3g16w22/"><img src="/variants/s5/r22g6k3g16w22/sett.png" alt="Inverness Basque sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r33g9k5g24w33~x2/">(District)</a></td><td><code>R/66 G18 K10 G48 W/66</code></td><td>284</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r33g9k5g24w33~x2/"><img src="/variants/s5/r33g9k5g24w33~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r44g6k3g16w22/"><circle cx="234.1" cy="180.5" r="4" fill="#3465a4"><title>Basque</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="161.8" cy="194.5" r="4" fill="#3465a4"><title>Un-named</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="141.8" cy="258.7" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="176.2" cy="200.0" r="4" fill="#3465a4"><title>Sachie Hara</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="95.6" cy="220.4" r="4" fill="#3465a4"><title>Aboyne</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="180.8" cy="185.1" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="158.3" cy="273.6" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="126.0" cy="191.2" r="4" fill="#3465a4"><title>Entre Rios Province</title></circle></a><a href="/variants/s7/dg20r3n3r15w19dg3lb2~x2/"><circle cx="149.1" cy="188.7" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="125.3" cy="228.7" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><circle cx="122.0" cy="238.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r44g6k3g16w22/"><circle cx="234.6" cy="180.3" r="4" fill="#3465a4"><title>Basque</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="162.2" cy="194.3" r="4" fill="#3465a4"><title>Un-named</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="142.0" cy="258.6" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="176.5" cy="199.9" r="4" fill="#3465a4"><title>Sachie Hara</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="95.8" cy="220.1" r="4" fill="#3465a4"><title>Aboyne</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="181.2" cy="184.9" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="158.5" cy="273.5" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="126.3" cy="191.0" r="4" fill="#3465a4"><title>Entre Rios Province</title></circle></a><a href="/variants/s7/dg20r3n3r15w19dg3lb2~x2/"><circle cx="149.3" cy="188.4" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="125.5" cy="228.5" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><circle cx="122.1" cy="238.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

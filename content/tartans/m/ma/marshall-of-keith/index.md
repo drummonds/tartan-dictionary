@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/marshall/"
 - name: "Marshall of Keith"
   url: "/families/marshall-of-keith/"
+aliases:
+- "/setts/b10k10b10dg26y5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbgg/">BKBGG</a></nav>
 A tartan of the [Marshall of Keith](/families/marshall-of-keith/) family.
 Its design is pattern [BKBGG](/stripes/bkbgg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Marshall of Keith** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b10k10b10dg26y5/">Marshall of Keith</a></td><td><code>B/20 K20 B20 DG52 Y/10</code></td><td>214</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b10k10b10dg26y5/"><img src="/variants/s5/b10k10b10dg26y5~x2/sett.png" alt="Marshall of Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/b10k10b10dg26y5~x2/">Marshall of Keith</a></td><td><code>B/20 K20 B20 DG52 Y/10</code></td><td>214</td><td>1989</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/b10k10b10dg26y5~x2/"><img src="/variants/s5/b10k10b10dg26y5~x2/sett.png" alt="Marshall of Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="162.9" cy="279.6" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s6/dr5t35k24t9g9dr5~x2/"><circle cx="213.8" cy="212.0" r="4" fill="#3465a4"><title>Notre Dame Marching Guard</title></circle></a><a href="/variants/s5/db6k6db6o14dy3~x2/"><circle cx="163.0" cy="264.3" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="134.2" cy="220.2" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="220.0" cy="220.4" r="4" fill="#3465a4"><title>Trafalgar</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="218.5" cy="220.1" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="148.4" cy="209.8" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="244.4" cy="266.1" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.3" cy="216.0" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s7/k7db11k3db11dy11g22db3~x2~db1605267/"><circle cx="163.3" cy="238.9" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative</title></circle></a><circle cx="186.5" cy="261.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="163.1" cy="279.5" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s6/dr5t35k24t9g9dr5~x2/"><circle cx="214.3" cy="211.9" r="4" fill="#3465a4"><title>Notre Dame Marching Guard</title></circle></a><a href="/variants/s5/db6k6db6o14dy3~x2/"><circle cx="163.2" cy="264.2" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="134.5" cy="220.0" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="220.5" cy="220.4" r="4" fill="#3465a4"><title>Trafalgar</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="218.9" cy="220.1" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="148.8" cy="209.7" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="244.9" cy="266.2" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="157.6" cy="215.9" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/variants/s7/k7db11k3db11dy11g22db3~x2~db1605267/"><circle cx="163.5" cy="238.8" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative</title></circle></a><circle cx="186.7" cy="261.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

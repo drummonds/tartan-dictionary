@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w18k1db4g4dp10lo2~x4/">Edgar-Feyen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w18k1db4g4dp10lo2~x4/"><img src="/variants/s6/w18k1db4g4dp10lo2~x4/sett.png" alt="Edgar-Feyen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edgar-feyen/">Edgar-Feyen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edgar-feyen/"><img src="/variants/s6/w18k1db4g4dp10lo2~x4/sett.png" alt="Edgar-Feyen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

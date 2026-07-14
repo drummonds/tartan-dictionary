@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3n31k3n3k27y3~x2/">Scottish National Party (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3n31k3n3k27y3~x2/"><img src="/variants/s6/k3n31k3n3k27y3~x2/sett.png" alt="Scottish National Party (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-national-party/">Scottish National Party</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-national-party/"><img src="/variants/s6/k3n31k3n3k27y3~x2/sett.png" alt="Scottish National Party sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

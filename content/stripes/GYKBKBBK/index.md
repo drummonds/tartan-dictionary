@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/">Waterford</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/"><img src="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/sett.png" alt="Waterford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/waterford-2/">Waterford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/waterford-2/"><img src="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/sett.png" alt="Waterford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

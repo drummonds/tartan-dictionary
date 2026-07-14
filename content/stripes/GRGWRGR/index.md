@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg4o2dg13w2o13dg2o4~x2/">Crossnor School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg4o2dg13w2o13dg2o4~x2/"><img src="/variants/s7/dg4o2dg13w2o13dg2o4~x2/sett.png" alt="Crossnor School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crossnor/">Crossnor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crossnor/"><img src="/variants/s7/dg4o2dg13w2o13dg2o4~x2/sett.png" alt="Crossnor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

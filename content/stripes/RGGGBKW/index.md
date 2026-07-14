@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w10k52db52dg24y10dg5r5/">Harvey of Cornwall (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w10k52db52dg24y10dg5r5/"><img src="/variants/s7/w10k52db52dg24y10dg5r5/sett.png" alt="Harvey of Cornwall (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harvey-of-cornwall/">Harvey of Cornwall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harvey-of-cornwall/"><img src="/variants/s7/w10k52db52dg24y10dg5r5/sett.png" alt="Harvey of Cornwall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

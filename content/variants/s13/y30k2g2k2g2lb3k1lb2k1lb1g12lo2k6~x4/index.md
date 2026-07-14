@@ -12,10 +12,10 @@ crumbs:
 - name: "Lomond"
   url: "/tartans/l/lo/lomond/"
 - name: "Lomond (1983)"
-  url: "/setts/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lomond/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGWKWKWGYK](/stripes/gkgkgwkwkwgyk/).
 
 Part of the [Lomond](/tartans/l/lo/lomond/) tartan — the named design grouping this sett with its other cloths.

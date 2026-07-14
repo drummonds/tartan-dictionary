@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g2lb2db33r2k35g33k1r2k1g2~x2~db1406275-k0700000/">Lochaber - 1819 (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g2lb2db33r2k35g33k1r2k1g2~x2~db1406275-k0700000/"><img src="/variants/s10/g2lb2db33r2k35g33k1r2k1g2~x2~db1406275-k0700000/sett.png" alt="Lochaber - 1819 (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2/">Lochaber District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2/"><img src="/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2/sett.png" alt="Lochaber District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochaber-5/">Lochaber</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochaber-5/"><img src="/variants/s10/g2lb2db33r2k35g33k1r2k1g2~x2~db1406275-k0700000/sett.png" alt="Lochaber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,15 +10,15 @@ crumbs:
 - name: "Heather Isle"
   url: "/tartans/h/he/heather-isle/"
 - name: "Heather Isle"
-  url: "/setts/g80db16dp8dpi10g8ly1db6n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g80db16dp8dpi10g8ly1db6n1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBGYBBBYGBBBG](/stripes/bbbgybbbygbbbg/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/heather-isle/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBYGBBBG](/stripes/bbygbbbg/).
 
 Part of the [Heather Isle](/tartans/h/he/heather-isle/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1647](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1647)
 
@@ -30,7 +30,7 @@ Earliest known date: 2006 Designed in September 2005 for Lochcarron's new range 
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/2006 — Heather Isle (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1647">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#808834;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #808834"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RY #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Designed in September 2005 for Lochcarron's new range and woven in several different qualities for kilts, ladies' skirts and scarves.</em></li>
-<li>2006 Sept. — Heather Isle (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6902">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#808834;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #808834"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RY #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Designed in September 2005 for Lochcarron's new range and woven in several different qualities for kilts, ladies' skirts and scarves. The original count from Lochcarron stipulated light blue in place of this green but the woven sample used green so the count has been changed. It may be that the green version is meant to be 'weathered.'</em></li>
+<li>2006 Sept. — Heather Isle (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6902/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#808834;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #808834"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RY #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Designed in September 2005 for Lochcarron's new range and woven in several different qualities for kilts, ladies' skirts and scarves. The original count from Lochcarron stipulated light blue in place of this green but the woven sample used green so the count has been changed. It may be that the green version is meant to be 'weathered.'</em></li>
 <li>2006 — Heather Isle Weavers Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6902">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#808834;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #808834"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RY #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span></li>
 </ul>
 </details>
@@ -59,9 +59,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6902
 
 ## Thread count
-G/160 DB32 DP16 DPi20 G16 LY2 DB12 N2 DB12 LY2 G16 DPi20 DP16 DB/32
+G/160 DB32 DP16 DPi20 G16 LY2 DB12 N/2
 
-One full sett is **524 threads**.
+One full sett is **358 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/160 DB32 DP16 DPi20 G16 LY2 DB12 N2 DB12 LY2 G16 DPi20 DP16 DB/32 — 524 threads; it folds to the canonical 358-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -70,7 +72,7 @@ One full sett is **524 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/160 DB32 DP16 DPi20 G16 LY2 DB12 N2 DB12 LY2 G16 DPi20 DP16 DB/32 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/160 DB32 DP16 DPi20 G16 LY2 DB12 N/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

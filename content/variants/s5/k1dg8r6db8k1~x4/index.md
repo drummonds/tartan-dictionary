@@ -10,22 +10,22 @@ crumbs:
 - name: "Edinburgh Military Tattoo 50th"
   url: "/tartans/e/ed/edinburgh-military-tattoo-50th/"
 - name: "Edinburgh Tattoo 50th (Commemorative"
-  url: "/setts/k1dg8r6db8k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1dg8r6db8k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-military-tattoo-50th/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRGK](/stripes/kbrgk/).
 
 Part of the [Edinburgh Military Tattoo 50th](/tartans/e/ed/edinburgh-military-tattoo-50th/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3614](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3614)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3614/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3614/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1998 — Edinburgh Tattoo 50th (Commemorative (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3614">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000090;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000090"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008854;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #008854"></span><br><em>Based on a Wilsons of Bannockburn sett, designed by Peter MacDonald in 1998 for the Edinburgh Military Tattoo to celebrate their 50th anniversary in 2000. The colours depict the three military forces - Navy, Army & Air Force with the black from Edinburgh's heraldic arms. Launched on June 16th 1999 in time for the final Tattoo of the 20th century.</em></li>
+<li>1998 — Edinburgh Tattoo 50th (Commemorative (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3614/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000090;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000090"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008854;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #008854"></span><br><em>Based on a Wilsons of Bannockburn sett, designed by Peter MacDonald in 1998 for the Edinburgh Military Tattoo to celebrate their 50th anniversary in 2000. The colours depict the three military forces - Navy, Army & Air Force with the black from Edinburgh's heraldic arms. Launched on June 16th 1999 in time for the final Tattoo of the 20th century.</em></li>
 <li>undated — Edinburgh Military Tattoo 50th (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4960">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000048"></span><br><em>Based on a Wilsons of Bannockburn sett, designed by Peter MacDonald in 1998 for the Edinburgh Military Tattoo to celebrate their 50th anniversary in 2000. The colours depict the three military forces - Navy, Army & Air Force with the black from Edinburgh's heraldic arms. Launched on June 16th 1999 in time for the final Tattoo of the 20th century.</em></li>
 </ul>
 </details>
@@ -40,7 +40,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3614](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

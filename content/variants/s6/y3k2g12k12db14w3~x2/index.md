@@ -11,11 +11,11 @@ crumbs:
   url: "/families/macneil-of-barra/"
 - name: "MacNeil of Barra"
   url: "/tartans/m/ma/macneil-of-barra/"
-- name: "MacNeil of Barra"
-  url: "/setts/y3k2g12k12db14w3/"
+- name: "MacNeil Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3k2g12k12db14w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macneil-of-barra/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBW](/stripes/gkgkbw/).
 
 Part of the [MacNeil of Barra](/tartans/m/ma/macneil-of-barra/) tartan — the named design grouping this sett with its other cloths.

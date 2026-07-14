@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/w4db8w1dbi1lo6dbi3r6dbi1w4/">Wombles #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w4db8w1dbi1lo6dbi3r6dbi1w4/"><img src="/variants/s9/w4db8w1dbi1lo6dbi3r6dbi1w4~x2~db0804274-dbi1605267/sett.png" alt="Wombles #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/wombles-4/">Wombles 4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/wombles-4/"><img src="/variants/s9/w4db8w1dbi1lo6dbi3r6dbi1w4~x2~db0804274-dbi1605267/sett.png" alt="Wombles 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

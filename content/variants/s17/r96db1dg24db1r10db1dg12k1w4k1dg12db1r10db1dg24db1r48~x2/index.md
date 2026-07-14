@@ -12,10 +12,10 @@ crumbs:
 - name: "Macaulay of Ardincaple"
   url: "/tartans/m/ma/macaulay-of-ardincaple-2/"
 - name: "Macaulay of Ardincaple"
-  url: "/setts/r96db1dg24db1r10db1dg12k1w4k1dg12db1r10db1dg24db1r48/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r96db1dg24db1r10db1dg12k1w4k1dg12db1r10db1dg24db1r48/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macaulay-of-ardincaple-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBRBGKWKGBRBGBR](/stripes/rbgbrbgkwkgbrbgbr/).
 
 Part of the [Macaulay of Ardincaple](/tartans/m/ma/macaulay-of-ardincaple-2/) tartan — the named design grouping this sett with its other cloths.

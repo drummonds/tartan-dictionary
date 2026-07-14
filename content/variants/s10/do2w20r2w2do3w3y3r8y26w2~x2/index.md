@@ -8,10 +8,10 @@ crumbs:
 - name: "Liama, The"
   url: "/tartans/l/li/liama-the/"
 - name: "Liama, The"
-  url: "/setts/do2w20r2w2do3w3y3r8y26w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do2w20r2w2do3w3y3r8y26w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/liama-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWBWGRGW](/stripes/bwrwbwgrgw/).
 
 Part of the [Liama, The](/tartans/l/li/liama-the/) tartan — the named design grouping this sett with its other cloths.

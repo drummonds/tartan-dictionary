@@ -4,8 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lb4r1y1lb12do4dg10y1r3/"
 ---
-Its design is pattern [RGWBGGRGGBWGRW](/stripes/rgwbggrggbwgrw/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rggbwgrw/">RGGBWGRW</a></nav>
+Its design is pattern [RGGBWGRW](/stripes/rggbwgrw/) — the page of every tartan sharing this colour sequence.
 
 Designed 1997 by Douglas Herring, winning Caledonian Society of Hawaii contest for state tartan; colours symbolise monarchy, lava, soil, plants, sky, ocean.
 
@@ -14,8 +17,8 @@ The **Hawaii** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb4r1y1lb12do4dg10y1r3/">Hawaii</a></td><td><code>LB/16 R4 Y4 LB48 DO16 DG40 Y4 R12 Y4 DG40 DO16 LB48 Y4 R/4</code></td><td>260</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb4r1y1lb12do4dg10y1r3/"><img src="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/sett.png" alt="Hawaii sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/">Hawaii</a></td><td><code>LB/16 R4 Y4 LB48 DO16 DG40 Y4 R/12</code></td><td>260</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/"><img src="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/sett.png" alt="Hawaii sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +37,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="235.9" cy="188.5" r="4" fill="#3465a4"><title>Heckenberg Hunting</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="203.0" cy="223.2" r="4" fill="#3465a4"><title>Inglis</title></circle></a><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/"><circle cx="236.4" cy="183.3" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><circle cx="196.6" cy="191.1" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/variants/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="164.4" cy="169.6" r="4" fill="#3465a4"><title>Culloden Dress</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="234.6" cy="201.9" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="189.3" cy="187.4" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s7/db49y12r12y12dg32w8db3/"><circle cx="207.5" cy="184.5" r="4" fill="#3465a4"><title>Kuznetsov</title></circle></a><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="227.1" cy="184.0" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/variants/s6/r3w33dp8dg18r9g3~x2/"><circle cx="177.6" cy="183.3" r="4" fill="#3465a4"><title>MacKintosh Dress</title></circle></a><circle cx="202.2" cy="178.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="236.3" cy="188.4" r="4" fill="#3465a4"><title>Heckenberg Hunting</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="203.2" cy="223.1" r="4" fill="#3465a4"><title>Inglis</title></circle></a><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/"><circle cx="236.7" cy="183.1" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><circle cx="197.0" cy="190.9" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/variants/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="164.7" cy="169.3" r="4" fill="#3465a4"><title>Culloden Dress</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="234.9" cy="201.8" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="189.6" cy="187.2" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s7/db49y12r12y12dg32w8db3/"><circle cx="207.9" cy="184.3" r="4" fill="#3465a4"><title>Kuznetsov</title></circle></a><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="227.4" cy="183.9" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/variants/s6/r3w33dp8dg18r9g3~x2/"><circle cx="177.9" cy="183.1" r="4" fill="#3465a4"><title>MacKintosh Dress</title></circle></a><circle cx="202.5" cy="177.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

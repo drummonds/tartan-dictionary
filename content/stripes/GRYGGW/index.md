@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g1r9lo9y9g6w1~x4/">Max Reger, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g1r9lo9y9g6w1~x4/"><img src="/variants/s6/g1r9lo9y9g6w1~x4/sett.png" alt="Max Reger, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/max-reger-the/">Max Reger, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/max-reger-the/"><img src="/variants/s6/g1r9lo9y9g6w1~x4/sett.png" alt="Max Reger, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

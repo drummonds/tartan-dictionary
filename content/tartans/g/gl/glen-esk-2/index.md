@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Glen"
   url: "/clan/glen/"
+aliases:
+- "/setts/g10r1g1r2g8db10g1ly1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgrgbgy/">GRGRGBGY</a></nav>
 A tartan of [Clan Glen](/clan/glen/).
 Its design is pattern [GRGRGBGY](/stripes/grgrgbgy/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Glen Esk** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g10r1g1r2g8db10g1ly1/">Glen Esk</a></td><td><code>G/40 R4 G4 R8 G32 DB40 G4 LY/4</code></td><td>228</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g10r1g1r2g8db10g1ly1/"><img src="/variants/s8/g10r1g1r2g8db10g1ly1~x4/sett.png" alt="Glen Esk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/">Glen Esk</a></td><td><code>G/40 R4 G4 R8 G32 DB40 G4 LY/4</code></td><td>228</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><img src="/variants/s8/g10r1g1r2g8db10g1ly1~x4/sett.png" alt="Glen Esk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="246.6" cy="184.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="280.4" cy="232.3" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="274.7" cy="250.5" r="4" fill="#3465a4"><title>Cameron of Lochiel</title></circle></a><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="322.9" cy="177.6" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.2" cy="199.7" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="405.8" cy="160.9" r="4" fill="#3465a4"><title>Island Weavers</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="325.0" cy="177.0" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="351.3" cy="196.2" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="367.8" cy="193.5" r="4" fill="#3465a4"><title>McGirr David</title></circle></a><circle cx="325.6" cy="200.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="247.2" cy="184.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="315.3" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="280.8" cy="232.3" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="275.0" cy="250.6" r="4" fill="#3465a4"><title>Cameron of Lochiel</title></circle></a><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="323.5" cy="177.7" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.7" cy="199.9" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="406.7" cy="161.1" r="4" fill="#3465a4"><title>Island Weavers</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="325.6" cy="177.1" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="351.9" cy="196.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="368.4" cy="193.7" r="4" fill="#3465a4"><title>McGirr David</title></circle></a><circle cx="326.2" cy="200.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

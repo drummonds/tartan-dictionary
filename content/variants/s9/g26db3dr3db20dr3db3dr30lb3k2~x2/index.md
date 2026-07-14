@@ -8,10 +8,10 @@ crumbs:
 - name: "Ormiston"
   url: "/tartans/o/or/ormiston/"
 - name: "Ormiston (Personal)"
-  url: "/setts/g26db3dr3db20dr3db3dr30lb3k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g26db3dr3db20dr3db3dr30lb3k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/or/ormiston/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBBBBWK](/stripes/gbbbbbbwk/).
 
 Part of the [Ormiston](/tartans/o/or/ormiston/) tartan — the named design grouping this sett with its other cloths.

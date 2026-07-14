@@ -12,10 +12,10 @@ crumbs:
 - name: "Benyon of Wales"
   url: "/tartans/b/be/benyon-of-wales/"
 - name: "Benyon of Wales"
-  url: "/setts/db22k1dg3db6k1db6dg3db4dg7db11y1db11dg7y2k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db22k1dg3db6k1db6dg3db4dg7db11y1db11dg7y2k6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/benyon-of-wales/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBKBGBGBGBGGK](/stripes/bkgbkbgbgbgbggk/).
 
 Part of the [Benyon of Wales](/tartans/b/be/benyon-of-wales/) tartan — the named design grouping this sett with its other cloths.

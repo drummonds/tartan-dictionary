@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/">Quebec (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/"><img src="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/sett.png" alt="Quebec (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/quebec/">Quebec</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/quebec/"><img src="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/sett.png" alt="Quebec sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Lambert Hunting"
   url: "/tartans/l/la/lambert-hunting/"
 - name: "Lambert (Front Royal) Hunting"
-  url: "/setts/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lambert-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRKBWBKRGGGK](/stripes/gggrkbwbkrgggk/).
 
 Part of the [Lambert Hunting](/tartans/l/la/lambert-hunting/) tartan — the named design grouping this sett with its other cloths.

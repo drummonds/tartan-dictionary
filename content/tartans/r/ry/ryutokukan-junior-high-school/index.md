@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r6dg13k5r20w3/"
+- "/setts/dr6dg13k5dr20w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgkrw/">RGKRW</a></nav>
 Its design is pattern [RGKRW](/stripes/rgkrw/) — the page of every tartan sharing this colour sequence.
 
 Designed for a respected Japanese junior high school, reflecting dignity and intelligence.
@@ -15,10 +19,10 @@ The **Ryutokukan Junior High School** tartan groups 2 setts — the same named d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r6dg13k5r20w3/">Ryutokukan Junior High School</a> ★</td><td><code>R/12 DG26 K10 R40 W/6</code></td><td>170</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6dg13k5r20w3/"><img src="/variants/s5/r6dg13k5r20w3~x2/sett.png" alt="Ryutokukan Junior High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dr6dg13k5dr20w3/">(Corp)</a></td><td><code>DR/12 DG26 K10 DR40 W/6</code></td><td>170</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr6dg13k5dr20w3/"><img src="/variants/s5/dr6dg13k5dr20w3~x2/sett.png" alt="(Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r6dg13k5r20w3~x2/">Ryutokukan Junior High School</a> ★</td><td><code>R/12 DG26 K10 R40 W/6</code></td><td>170</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r6dg13k5r20w3~x2/"><img src="/variants/s5/r6dg13k5r20w3~x2/sett.png" alt="Ryutokukan Junior High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr6dg13k5dr20w3~x2/">(Corp)</a></td><td><code>DR/12 DG26 K10 DR40 W/6</code></td><td>170</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr6dg13k5dr20w3~x2/"><img src="/variants/s5/dr6dg13k5dr20w3~x2/sett.png" alt="(Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.8" cy="161.8" r="4" fill="#3465a4"><title>MacKintosh 6</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="316.3" cy="214.6" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="192.3" cy="178.1" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s6/r10g24k10r28lb3r6~x2/"><circle cx="246.8" cy="195.9" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><a href="/variants/s7/r20k5g5r5w5n3g3~x4/"><circle cx="203.2" cy="171.1" r="4" fill="#3465a4"><title>Mangles, Peter and Annette</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="195.7" cy="211.3" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s7/r20k5dg5r5w5lr3dg3~x4/"><circle cx="200.9" cy="166.5" r="4" fill="#3465a4"><title>Mangles, Peter and Annette Family/Personal</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="317.5" cy="228.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="291.9" cy="175.0" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s6/r6w3r37k16w16g4~x2/"><circle cx="228.9" cy="157.9" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><circle cx="240.0" cy="210.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="258.6" cy="161.7" r="4" fill="#3465a4"><title>MacKintosh 6</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="317.0" cy="214.7" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="192.8" cy="178.0" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s6/r10g24k10r28lb3r6~x2/"><circle cx="247.3" cy="195.9" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><a href="/variants/s7/r20k5g5r5w5n3g3~x4/"><circle cx="203.7" cy="170.9" r="4" fill="#3465a4"><title>Mangles, Peter and Annette</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="196.2" cy="211.2" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s7/r20k5dg5r5w5lr3dg3~x4/"><circle cx="201.4" cy="166.3" r="4" fill="#3465a4"><title>Mangles, Peter and Annette Family/Personal</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="318.1" cy="228.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="292.7" cy="175.0" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s6/r6w3r37k16w16g4~x2/"><circle cx="229.5" cy="157.8" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><circle cx="240.6" cy="210.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k10lb30g3lb3g3lb3r6~x2/">Kinding (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k10lb30g3lb3g3lb3r6~x2/"><img src="/variants/s7/k10lb30g3lb3g3lb3r6~x2/sett.png" alt="Kinding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinding/">Kinding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinding/"><img src="/variants/s7/k10lb30g3lb3g3lb3r6~x2/sett.png" alt="Kinding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Chicago University of.."
   url: "/tartans/c/ch/chicago-university-of/"
 - name: "Chicago University of.. Corporate Tartan"
-  url: "/setts/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chicago-university-of/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/).
 
 Part of the [Chicago University of..](/tartans/c/ch/chicago-university-of/) tartan — the named design grouping this sett with its other cloths.

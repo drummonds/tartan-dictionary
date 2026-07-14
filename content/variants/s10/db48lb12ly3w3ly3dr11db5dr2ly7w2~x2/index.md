@@ -10,15 +10,15 @@ crumbs:
 - name: "Holyrood Golden Jubilee"
   url: "/tartans/h/ho/holyrood-golden-jubilee/"
 - name: "Holyrood Golden Jubilee II"
-  url: "/setts/db48lb12ly3w3ly3dr11db5dr2ly7w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db48lb12ly3w3ly3dr11db5dr2ly7w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWYWYBBBYWYBBBYWYW](/stripes/bwywybbbywybbbywyw/).
+provenance below. It is one weaving of the [sett](/tartans/h/ho/holyrood-golden-jubilee/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWYWYBBBYW](/stripes/bwywybbbyw/).
 
 Part of the [Holyrood Golden Jubilee](/tartans/h/ho/holyrood-golden-jubilee/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1756](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1756)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1756](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/2002 — Holyrood Golden Jubilee II (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1756">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Alistair Buchan of Lochcarron of Scotland to commemorate the Golden Jubilee of Queen Elizabeth II in 2002. Additional notes from the Scottish Tartans Society say: 'Holyrood is the Scottish equivalent of Buckingham Palace, the Queen's official residence in Scotland. She is guarded by 'The Royal Company of Archers', a non military force provided by the chiefs of the clans. Lochcarron swatch. Very slightly different version being marketed by Lochcarron as 'Heirloom Holyrood Gold'. So similar as not to warrant inclusion.</em></li>
-<li>March 2002 — Holyrood Golden Jubilee II (Commemo) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6405">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Alistair Buchan of Lochcarron of Scotland to commemorate the Golden Jubilee of Queen Elizabeth II in 2002. Additional notes from the STS say: "Holyrood is the Scottish equivalent of Buckingham Palace, the Queen's official residence in Scotland. She is guarded by 'The Royal Company of Archers', a non military force provided by the chiefs of the clans. Lochcarron swatch. Very slightly different version being marketed by Lochcarron as 'Heirloom Holyrood Gold'. So similar as not to warrant inclusion.</em></li>
+<li>March 2002 — Holyrood Golden Jubilee II (Commemo) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6405/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Alistair Buchan of Lochcarron of Scotland to commemorate the Golden Jubilee of Queen Elizabeth II in 2002. Additional notes from the STS say: "Holyrood is the Scottish equivalent of Buckingham Palace, the Queen's official residence in Scotland. She is guarded by 'The Royal Company of Archers', a non military force provided by the chiefs of the clans. Lochcarron swatch. Very slightly different version being marketed by Lochcarron as 'Heirloom Holyrood Gold'. So similar as not to warrant inclusion.</em></li>
 </ul>
 </details>
 
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6405
 
 ## Thread count
-DB/96 LB24 LY6 W6 LY6 DR22 DB10 DR4 LY14 W4 LY14 DR4 DB10 DR22 LY6 W6 LY6 LB/24
+DB/96 LB24 LY6 W6 LY6 DR22 DB10 DR4 LY14 W/4
 
-One full sett is **448 threads**.
+One full sett is **284 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/96 LB24 LY6 W6 LY6 DR22 DB10 DR4 LY14 W4 LY14 DR4 DB10 DR22 LY6 W6 LY6 LB/24 — 448 threads; it folds to the canonical 284-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **448 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/96 LB24 LY6 W6 LY6 DR22 DB10 DR4 LY14 W4 LY14 DR4 DB10 DR22 LY6 W6 LY6 LB/24 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/96 LB24 LY6 W6 LY6 DR22 DB10 DR4 LY14 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

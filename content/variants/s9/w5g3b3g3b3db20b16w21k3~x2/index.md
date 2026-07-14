@@ -12,10 +12,10 @@ crumbs:
 - name: "Oliver Dress"
   url: "/tartans/o/ol/oliver-dress-3/"
 - name: "Oliver, dress"
-  url: "/setts/w5g3b3g3b3db20b16w21k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5g3b3g3b3db20b16w21k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ol/oliver-dress-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBBBGBGW](/stripes/kwbbbgbgw/).
 
 Part of the [Oliver Dress](/tartans/o/ol/oliver-dress-3/) tartan — the named design grouping this sett with its other cloths.

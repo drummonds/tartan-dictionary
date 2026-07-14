@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Dunbarton"
   url: "/clan/dunbarton/"
+aliases:
+- "/setts/lo8r2lo2k5lo2o2lo3o7lo3k2lo3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ykyryrykyry/">YKYRYRYKYRY</a></nav>
 A tartan of [Clan Dunbarton](/clan/dunbarton/).
 Its design is pattern [YKYRYRYKYRY](/stripes/ykyryrykyry/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Dunbarton Warp/Weft** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lo8r2lo2k5lo2o2lo3o7lo3k2lo3/">Dunbarton Warp/Weft</a></td><td><code>LO/16 R4 LO4 K10 LO4 O4 LO6 O14 LO6 K4 LO/6</code></td><td>134</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lo8r2lo2k5lo2o2lo3o7lo3k2lo3/"><img src="/variants/s11/lo8r2lo2k5lo2o2lo3o7lo3k2lo3~x2/sett.png" alt="Dunbarton Warp/Weft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lo8r2lo2k5lo2o2lo3o7lo3k2lo3~x2/">Dunbarton Warp/Weft</a></td><td><code>LO/16 R4 LO4 K10 LO4 O4 LO6 O14 LO6 K4 LO/6</code></td><td>134</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lo8r2lo2k5lo2o2lo3o7lo3k2lo3~x2/"><img src="/variants/s11/lo8r2lo2k5lo2o2lo3o7lo3k2lo3~x2/sett.png" alt="Dunbarton Warp/Weft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r6g1r6db1g3k3g3~x4/"><circle cx="209.0" cy="219.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2/"><circle cx="189.2" cy="170.7" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="241.4" cy="174.0" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5/"><circle cx="249.2" cy="173.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s8/r3dg6ly2db2ly11dg2ly2r3~x2/"><circle cx="203.4" cy="221.0" r="4" fill="#3465a4"><title>Invertere</title></circle></a><circle cx="179.4" cy="218.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r6g1r6db1g3k3g3~x4/"><circle cx="209.5" cy="219.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2/"><circle cx="189.8" cy="170.6" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="242.0" cy="173.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5/"><circle cx="249.9" cy="173.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s8/r3dg6ly2db2ly11dg2ly2r3~x2/"><circle cx="203.7" cy="220.9" r="4" fill="#3465a4"><title>Invertere</title></circle></a><circle cx="179.7" cy="217.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

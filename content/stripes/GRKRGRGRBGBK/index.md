@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/">Harris, Jeffrey S (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/"><img src="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/sett.png" alt="Harris, Jeffrey S (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harris-jeffrey-s/">Harris, Jeffrey S</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harris-jeffrey-s/"><img src="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/sett.png" alt="Harris, Jeffrey S sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

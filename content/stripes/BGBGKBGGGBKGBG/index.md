@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/">Scottish Power Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><img src="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/sett.png" alt="Scottish Power Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-power/">Scottish Power</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-power/"><img src="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/sett.png" alt="Scottish Power sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dy2db12k6dp10k1w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkbkw/">GBKBKW</a></nav>
 Its design is pattern [GBKBKW](/stripes/gbkbkw/) — the page of every tartan sharing this colour sequence.
 
 The **Soroptimist International** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Soroptimist International** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dy2db12k6dp10k1w2/">Soroptimist International</a></td><td><code>DY/4 DB24 K12 DP20 K2 W/4</code></td><td>124</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy2db12k6dp10k1w2/"><img src="/variants/s6/dy2db12k6dp10k1w2~x2/sett.png" alt="Soroptimist International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy2db12k6dp10k1w2~x2/">Soroptimist International</a></td><td><code>DY/4 DB24 K12 DP20 K2 W/4</code></td><td>124</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy2db12k6dp10k1w2~x2/"><img src="/variants/s6/dy2db12k6dp10k1w2~x2/sett.png" alt="Soroptimist International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="213.4" cy="215.9" r="4" fill="#3465a4"><title>Bareback</title></circle></a><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="176.8" cy="206.8" r="4" fill="#3465a4"><title>Grammar School at Leeds</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="139.1" cy="208.8" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="194.0" cy="158.0" r="4" fill="#3465a4"><title>Clunie</title></circle></a><a href="/variants/s6/dp3db17n13dp2k20w2~x2/"><circle cx="152.4" cy="191.2" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s7/r1k1db10k1dp4k9y1~x4/"><circle cx="218.1" cy="171.3" r="4" fill="#3465a4"><title>Graeme High School Homecoming 2009</title></circle></a><a href="/variants/s7/dr5b20k13db42k13b20y5~x2/"><circle cx="153.8" cy="205.9" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><circle cx="148.3" cy="154.8" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.2" cy="160.7" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="177.0" cy="174.3" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><circle cx="176.0" cy="189.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="213.8" cy="215.8" r="4" fill="#3465a4"><title>Bareback</title></circle></a><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="177.2" cy="206.6" r="4" fill="#3465a4"><title>Grammar School at Leeds</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="139.3" cy="208.6" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="194.6" cy="157.8" r="4" fill="#3465a4"><title>Clunie</title></circle></a><a href="/variants/s6/dp3db17n13dp2k20w2~x2/"><circle cx="152.8" cy="191.0" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s7/r1k1db10k1dp4k9y1~x4/"><circle cx="218.6" cy="171.2" r="4" fill="#3465a4"><title>Graeme High School Homecoming 2009</title></circle></a><a href="/variants/s7/dr5b20k13db42k13b20y5~x2/"><circle cx="154.1" cy="205.7" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><circle cx="148.7" cy="154.6" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="208.9" cy="160.6" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="177.4" cy="174.2" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><circle cx="176.3" cy="189.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Redpath, Robert A"
   url: "/tartans/r/re/redpath-robert-a/"
 - name: "Redpath, Robert A (Personal)"
-  url: "/setts/r26n4r1dp2g1n4g14lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r26n4r1dp2g1n4g14lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/redpath-robert-a/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBGBGW](/stripes/rbrbgbgw/).
 
 Part of the [Redpath, Robert A](/tartans/r/re/redpath-robert-a/) tartan — the named design grouping this sett with its other cloths.

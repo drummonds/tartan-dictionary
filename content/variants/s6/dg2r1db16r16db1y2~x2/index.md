@@ -12,10 +12,10 @@ crumbs:
 - name: "Galloway Dress"
   url: "/tartans/g/ga/galloway-dress/"
 - name: "Galloway Dress (Yellow Line)"
-  url: "/setts/dg2r1db16r16db1y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2r1db16r16db1y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ga/galloway-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBRG](/stripes/gbrbrg/).
 
 Part of the [Galloway Dress](/tartans/g/ga/galloway-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1303](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1950 — Galloway Dress (Yellow Line) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1303">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>This sett is taken from a sample in MacGregor-Hastie Collection at the Scottish Tartans Society. It is the more usual form of the dress version. Designed by Councillor John Hannay. c1949-50, and woven by Cree Mills Ltd of Newton Stewart, Wigtonshire.</em></li>
-<li>1950 — Galloway Dress (Yellow Line) (Dist) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=850">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>This is the more usual form of the Dress Galloway as designed by Councillor John Hannay of London in 1950. Thread count from the Macgregor Hastie Collection..</em></li>
+<li>1950 — Galloway Dress (Yellow Line) (Dist) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/850/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>This is the more usual form of the Dress Galloway as designed by Councillor John Hannay of London in 1950. Thread count from the Macgregor Hastie Collection..</em></li>
 </ul>
 </details>
 

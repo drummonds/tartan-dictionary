@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db20k2g3k2db20r3k20r2k20r3g30y3g1y2~x2/">Glynn of Glynstewart (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db20k2g3k2db20r3k20r2k20r3g30y3g1y2~x2/"><img src="/variants/s14/db20k2g3k2db20r3k20r2k20r3g30y3g1y2~x2/sett.png" alt="Glynn of Glynstewart (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glynn-of-glynnstewart/">Glynn of Glynnstewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glynn-of-glynnstewart/"><img src="/variants/s14/db20k2g3k2db20r3k20r2k20r3g30y3g1y2~x2/sett.png" alt="Glynn of Glynnstewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

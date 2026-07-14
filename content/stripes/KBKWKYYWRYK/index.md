@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k10db13k3lb7k1ly20lyi3lb13r5ly47k3~x2~ly2503076-lyi2705081/">State Seal of Georgia (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k10db13k3lb7k1ly20lyi3lb13r5ly47k3~x2~ly2503076-lyi2705081/"><img src="/variants/s11/k10db13k3lb7k1ly20lyi3lb13r5ly47k3~x2~ly2503076-lyi2705081/sett.png" alt="State Seal of Georgia (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-georgia/">State Seal of Georgia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-georgia/"><img src="/variants/s11/k10db13k3lb7k1ly20lyi3lb13r5ly47k3~x2~ly2503076-lyi2705081/sett.png" alt="State Seal of Georgia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

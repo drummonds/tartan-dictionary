@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/">Shiel, Claret (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><img src="/variants/s7/w8dr5dp10r24w30dr2db2~x2/sett.png" alt="Shiel, Claret (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shiel-claret/">Shiel Claret</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shiel-claret/"><img src="/variants/s7/w8dr5dp10r24w30dr2db2~x2/sett.png" alt="Shiel Claret sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

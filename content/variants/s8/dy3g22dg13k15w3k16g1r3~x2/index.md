@@ -8,10 +8,10 @@ crumbs:
 - name: "Lawson, William"
   url: "/tartans/l/la/lawson-william/"
 - name: "Lawson, William"
-  url: "/setts/dy3g22dg13k15w3k16g1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy3g22dg13k15w3k16g1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lawson-william/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKWKGR](/stripes/gggkwkgr/).
 
 Part of the [Lawson, William](/tartans/l/la/lawson-william/) tartan — the named design grouping this sett with its other cloths.

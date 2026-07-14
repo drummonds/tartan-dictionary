@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/">Raznotravie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/"><img src="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/sett.png" alt="Raznotravie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/raznotravie-2/">Raznotravie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/raznotravie-2/"><img src="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/sett.png" alt="Raznotravie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/ly11r2ly11w6ly7w6~x2/">Virgin One</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/ly11r2ly11w6ly7w6~x2/"><img src="/variants/s6/ly11r2ly11w6ly7w6~x2/sett.png" alt="Virgin One sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/virgin-one-2/">Virgin One</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/virgin-one-2/"><img src="/variants/s6/ly11r2ly11w6ly7w6~x2/sett.png" alt="Virgin One sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

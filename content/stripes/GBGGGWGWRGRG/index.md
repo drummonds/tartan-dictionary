@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/yi12n2dy4y2dy3w3dy3w19r30yi2r4dy2~x2~yi2400000-n1700000/">MacLean of Duart Dress #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/yi12n2dy4y2dy3w3dy3w19r30yi2r4dy2~x2~yi2400000-n1700000/"><img src="/variants/s12/yi12n2dy4y2dy3w3dy3w19r30yi2r4dy2~x2~yi2400000-n1700000/sett.png" alt="MacLean of Duart Dress #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean-of-duart-dress-5/">MacLean of Duart Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-dress-5/"><img src="/variants/s12/yi12n2dy4y2dy3w3dy3w19r30yi2r4dy2~x2~yi2400000-n1700000/sett.png" alt="MacLean of Duart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

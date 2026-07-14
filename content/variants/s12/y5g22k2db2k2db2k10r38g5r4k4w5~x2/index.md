@@ -12,10 +12,10 @@ crumbs:
 - name: "Boyd"
   url: "/tartans/b/bo/boyd/"
 - name: "Boyd"
-  url: "/setts/y5g22k2db2k2db2k10r38g5r4k4w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y5g22k2db2k2db2k10r38g5r4k4w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/boyd/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBKBKRGRKW](/stripes/ggkbkbkrgrkw/).
 
 Part of the [Boyd](/tartans/b/bo/boyd/) tartan — the named design grouping this sett with its other cloths.

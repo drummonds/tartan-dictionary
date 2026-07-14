@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g16t6dr6t4w2t80lo3t10y2/">Heart of Strathearn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g16t6dr6t4w2t80lo3t10y2/"><img src="/variants/s9/g16t6dr6t4w2t80lo3t10y2~w3600000/sett.png" alt="Heart of Strathearn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heart-of-strathearn/">Heart of Strathearn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heart-of-strathearn/"><img src="/variants/s9/g16t6dr6t4w2t80lo3t10y2~w3600000/sett.png" alt="Heart of Strathearn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

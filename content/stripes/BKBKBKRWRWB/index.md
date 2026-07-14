@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dp6k3n19k6n4k3o12lb4o12w2dp5~x2~n1900000-o2500000/">Scotland Forever Antique (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dp6k3n19k6n4k3o12lb4o12w2dp5~x2~n1900000-o2500000/"><img src="/variants/s11/dp6k3n19k6n4k3o12lb4o12w2dp5~x2~n1900000-o2500000/sett.png" alt="Scotland Forever Antique (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotland-forever-antique/">Scotland Forever Antique</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-forever-antique/"><img src="/variants/s11/dp6k3n19k6n4k3o12lb4o12w2dp5~x2~n1900000-o2500000/sett.png" alt="Scotland Forever Antique sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

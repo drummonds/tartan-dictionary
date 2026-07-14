@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/wcwm/"
 - name: "Wcwm"
   url: "/families/wcwm/"
+aliases:
+- "/setts/g6ly3g26dg10dt30w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gyggbw/">GYGGBW</a></nav>
 A tartan of the [Wcwm](/families/wcwm/) family.
 Its design is pattern [GYGGBW](/stripes/gyggbw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Wcwm 1716** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g6ly3g26dg10dt30w3/">Wcwm 1716</a></td><td><code>G/12 LY6 G52 DG20 DT60 W/6</code></td><td>294</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g6ly3g26dg10dt30w3/"><img src="/variants/s6/g6ly3g26dg10dt30w3~x2/sett.png" alt="Wcwm 1716 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g6ly3g26dg10dt30w3~x2/">Wcwm 1716</a></td><td><code>G/12 LY6 G52 DG20 DT60 W/6</code></td><td>294</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g6ly3g26dg10dt30w3~x2/"><img src="/variants/s6/g6ly3g26dg10dt30w3~x2/sett.png" alt="Wcwm 1716 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="266.9" cy="249.1" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><a href="/variants/s6/ly4dg30g15db5t10ly4~x2/"><circle cx="232.9" cy="251.8" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.6" cy="247.5" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="293.2" cy="215.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.6" cy="245.6" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s6/g2dg7db3w2g14b2~x4/"><circle cx="277.3" cy="242.4" r="4" fill="#3465a4"><title>Manx, Ellan Vannin</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.8" cy="268.3" r="4" fill="#3465a4"><title>Corey</title></circle></a><a href="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/"><circle cx="275.9" cy="204.2" r="4" fill="#3465a4"><title>State Seal of Minnesota</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="232.2" cy="231.2" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/"><circle cx="265.6" cy="221.6" r="4" fill="#3465a4"><title>Valley, of the</title></circle></a><circle cx="257.8" cy="243.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="267.0" cy="249.1" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><a href="/variants/s6/ly4dg30g15db5t10ly4~x2/"><circle cx="232.9" cy="251.7" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.7" cy="247.4" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="293.4" cy="215.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.7" cy="245.6" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s6/g2dg7db3w2g14b2~x4/"><circle cx="277.5" cy="242.4" r="4" fill="#3465a4"><title>Manx, Ellan Vannin</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.8" cy="268.3" r="4" fill="#3465a4"><title>Corey</title></circle></a><a href="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/"><circle cx="276.0" cy="204.2" r="4" fill="#3465a4"><title>State Seal of Minnesota</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="232.4" cy="231.2" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/"><circle cx="265.9" cy="221.6" r="4" fill="#3465a4"><title>Valley, of the</title></circle></a><circle cx="257.9" cy="243.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

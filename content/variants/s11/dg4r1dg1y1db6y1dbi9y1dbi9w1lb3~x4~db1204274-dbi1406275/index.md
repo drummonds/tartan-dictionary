@@ -10,17 +10,17 @@ crumbs:
 - name: "Knox"
   url: "/families/knox/"
 - name: "Knox"
-  url: "/tartans/k/kn/knox/"
+  url: "/tartans/k/kn/knox-3/"
 - name: "Knox #2"
-  url: "/setts/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [WBGBGBGGRGRGGBGBGBWW](/stripes/wbgbgbggrgrggbgbgbww/).
+provenance below. It is one weaving of the [sett](/tartans/k/kn/knox-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRGGBGBGBWW](/stripes/grggbgbgbww/).
 
-Part of the [Knox](/tartans/k/kn/knox/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Knox](/tartans/k/kn/knox-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2012](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2012)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5711
 
 ## Thread count
-LB/12 W4 DBi36 Y4 DBi36 Y4 DB24 Y4 DG4 R4 DG16 R4 DG4 Y4 DB24 Y4 DBi36 Y4 DBi36 W/4
+DG/16 R4 DG4 Y4 DT24 Y4 DB36 Y4 DB36 W4 LB/12
 
-One full sett is **520 threads**.
+One full sett is **268 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/12 W4 DBi36 Y4 DBi36 Y4 DB24 Y4 DG4 R4 DG16 R4 DG4 Y4 DB24 Y4 DBi36 Y4 DBi36 W/4 — 520 threads; it folds to the canonical 268-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **520 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/12 W4 DBi36 Y4 DBi36 Y4 DB24 Y4 DG4 R4 DG16 R4 DG4 Y4 DB24 Y4 DBi36 Y4 DBi36 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/16 R4 DG4 Y4 DT24 Y4 DB36 Y4 DB36 W4 LB/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

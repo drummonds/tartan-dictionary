@@ -10,15 +10,15 @@ crumbs:
 - name: "Gretna Gold"
   url: "/tartans/g/gr/gretna-gold/"
 - name: "Gretna Gold"
-  url: "/setts/w3dp2ly2dp38db28o2db2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3dp2ly2dp38db28o2db2r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBBYBWBYBBRBR](/stripes/brbbybwbybbrbr/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/gretna-gold/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBBYBW](/stripes/rbrbbybw/).
 
 Part of the [Gretna Gold](/tartans/g/gr/gretna-gold/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1539](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1539)
 
@@ -46,9 +46,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6032
 
 ## Thread count
-R/4 DB4 O4 DB56 DP76 LY4 DP4 W6 DP4 LY4 DP76 DB56 O4 DB/4
+W/6 DP4 LY4 DP76 DT56 O4 DT4 R/4
 
-One full sett is **604 threads**.
+One full sett is **306 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/4 DB4 O4 DB56 DP76 LY4 DP4 W6 DP4 LY4 DP76 DB56 O4 DB/4 — 604 threads; it folds to the canonical 306-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -57,7 +59,7 @@ One full sett is **604 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 DB4 O4 DB56 DP76 LY4 DP4 W6 DP4 LY4 DP76 DB56 O4 DB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/6 DP4 LY4 DP76 DT56 O4 DT4 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

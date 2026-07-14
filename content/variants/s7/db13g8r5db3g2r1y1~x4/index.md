@@ -8,10 +8,10 @@ crumbs:
 - name: "Fibonacci7"
   url: "/tartans/f/fi/fibonacci7/"
 - name: "Fibonacci7"
-  url: "/setts/db13g8r5db3g2r1y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db13g8r5db3g2r1y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fi/fibonacci7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBGRG](/stripes/bgrbgrg/).
 
 Part of the [Fibonacci7](/tartans/f/fi/fibonacci7/) tartan — the named design grouping this sett with its other cloths.

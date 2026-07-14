@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s80/dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1-h6ddc73a164bb2d01/">Virginia (USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s80/dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1-h6ddc73a164bb2d01/"><img src="/variants/s80/dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1-h6ddc73a164bb2d01/sett.png?s=dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1~dg1806142-g2408144-t2205244" alt="Virginia (USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/virginia-2/">Virginia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/virginia-2/"><img src="/variants/s80/dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1-h6ddc73a164bb2d01/sett.png?s=dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1~dg1806142-g2408144-t2205244" alt="Virginia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r3w2r9dt15w2dt15lb9r2lb3~x2~dt0900000-lb3200000/">Dogrobes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3w2r9dt15w2dt15lb9r2lb3~x2~dt0900000-lb3200000/"><img src="/variants/s9/r3w2r9dt15w2dt15lb9r2lb3~x2~dt0900000-lb3200000/sett.png" alt="Dogrobes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dogrobes/">Dogrobes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dogrobes/"><img src="/variants/s9/r3w2r9dt15w2dt15lb9r2lb3~x2~dt0900000-lb3200000/sett.png" alt="Dogrobes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

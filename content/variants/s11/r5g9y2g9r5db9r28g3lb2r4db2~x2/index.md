@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Creran"
   url: "/tartans/l/lo/loch-creran/"
 - name: "Loch Creran"
-  url: "/setts/r5g9y2g9r5db9r28g3lb2r4db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5g9y2g9r5db9r28g3lb2r4db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-creran/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWGRBRGGGR](/stripes/brwgrbrgggr/).
 
 Part of the [Loch Creran](/tartans/l/lo/loch-creran/) tartan — the named design grouping this sett with its other cloths.

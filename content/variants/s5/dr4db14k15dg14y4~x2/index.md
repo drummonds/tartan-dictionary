@@ -8,10 +8,10 @@ crumbs:
 - name: "Scots Heritage"
   url: "/tartans/s/sc/scots-heritage/"
 - name: "Scots Heritage"
-  url: "/setts/dr4db14k15dg14y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4db14k15dg14y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scots-heritage/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGG](/stripes/bbkgg/).
 
 Part of the [Scots Heritage](/tartans/s/sc/scots-heritage/) tartan — the named design grouping this sett with its other cloths.

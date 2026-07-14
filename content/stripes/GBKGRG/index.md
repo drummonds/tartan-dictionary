@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g1db6k6g6r1g1~x6/">Callum Beg (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g1db6k6g6r1g1~x6/"><img src="/variants/s6/g1db6k6g6r1g1~x6/sett.png" alt="Callum Beg (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/callum-beg/">Callum Beg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/callum-beg/"><img src="/variants/s6/g1db6k6g6r1g1~x6/sett.png" alt="Callum Beg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

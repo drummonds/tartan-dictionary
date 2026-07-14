@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/">California Highway Patrol (Corporate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/"><img src="/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/sett.png" alt="California Highway Patrol (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/california-highway-patrol-corporate/">California Highway Patrol (Corporate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/california-highway-patrol-corporate/"><img src="/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/sett.png" alt="California Highway Patrol (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Wilson's No.190"
   url: "/tartans/w/wi/wilson-s-no-190/"
 - name: "Wilson's No.190"
-  url: "/setts/k3y2k13w2lb11r12w2r12k12y2g12r12w2r12lb11w2k13y2k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3y2k13w2lb11r12w2r12k12y2g12r12w2r12lb11w2k13y2k3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKWWRWRKGGRWRWWKGKGKWWRWRGGKRWRWWKGK](/stripes/gkwwrwrkggrwrwwkgkgkwwrwrggkrwrwwkgk/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-190/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGKWWRWRGGKRWRWWKGK](/stripes/kgkwwrwrggkrwrwwkgk/).
 
 Part of the [Wilson's No.190](/tartans/w/wi/wilson-s-no-190/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4723](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4723)
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1267
 
 ## Thread count
-K/6 Y4 K26 W4 LB22 R24 W4 R24 K24 Y4 G24 R24 W4 R24 LB22 W4 K26 Y4 K6 Y4 K26 W4 LB22 R24 W4 R24 G24 Y4 K24 R24 W4 R24 LB22 W4 K26 Y/4
+K/6 Y4 K26 W4 LB22 R24 W4 R24 K24 Y4 G24 R24 W4 R24 LB22 W4 K26 Y4 K/6
 
-One full sett is **1086 threads**.
+One full sett is **548 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/6 Y4 K26 W4 LB22 R24 W4 R24 K24 Y4 G24 R24 W4 R24 LB22 W4 K26 Y4 K6 Y4 K26 W4 LB22 R24 W4 R24 G24 Y4 K24 R24 W4 R24 LB22 W4 K26 Y/4 — 1086 threads; it folds to the canonical 548-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **1086 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 Y4 K26 W4 LB22 R24 W4 R24 K24 Y4 G24 R24 W4 R24 LB22 W4 K26 Y4 K6 Y4 K26 W4 LB22 R24 W4 R24 G24 Y4 K24 R24 W4 R24 LB22 W4 K26 Y/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 Y4 K26 W4 LB22 R24 W4 R24 K24 Y4 G24 R24 W4 R24 LB22 W4 K26 Y4 K/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

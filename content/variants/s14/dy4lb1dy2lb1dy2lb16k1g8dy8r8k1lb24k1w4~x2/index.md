@@ -8,10 +8,10 @@ crumbs:
 - name: "Ethiopia"
   url: "/tartans/e/et/ethiopia/"
 - name: "Ethiopia"
-  url: "/setts/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/et/ethiopia/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWKGGRKWKW](/stripes/gwgwgwkggrkwkw/).
 
 Part of the [Ethiopia](/tartans/e/et/ethiopia/) tartan — the named design grouping this sett with its other cloths.

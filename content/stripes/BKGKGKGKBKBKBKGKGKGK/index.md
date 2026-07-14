@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2~dbi1204274-db1106275/">Phillips of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2~dbi1204274-db1106275/"><img src="/variants/s20/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2~dbi1204274-db1106275/sett.png" alt="Phillips of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/ph/phillips-of-wales/">Phillips of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/ph/phillips-of-wales/"><img src="/variants/s20/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2~dbi1204274-db1106275/sett.png" alt="Phillips of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

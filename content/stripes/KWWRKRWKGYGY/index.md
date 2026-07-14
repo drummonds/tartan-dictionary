@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/">Ogg of Tarragann</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><img src="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/sett.png" alt="Ogg of Tarragann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/">Ogg of Tarragann (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/"><img src="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/sett.png" alt="Ogg of Tarragann (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/og/ogg-of-tarragann/">Ogg of Tarragann</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogg-of-tarragann/"><img src="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/sett.png" alt="Ogg of Tarragann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

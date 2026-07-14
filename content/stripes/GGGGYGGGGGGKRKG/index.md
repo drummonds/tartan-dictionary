@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/">Ensign of Ontario (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/"><img src="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/sett.png" alt="Ensign of Ontario (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/en/ensign-of-ontario/">Ensign of Ontario</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/en/ensign-of-ontario/"><img src="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/sett.png" alt="Ensign of Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

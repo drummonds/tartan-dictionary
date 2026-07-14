@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w20dbi14dp14w4db2lb2dp7~x2~dbi1405255-db0906265/">Earl of St. Andrews Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w20dbi14dp14w4db2lb2dp7~x2~dbi1405255-db0906265/"><img src="/variants/s7/w20dbi14dp14w4db2lb2dp7~x2~dbi1405255-db0906265/sett.png" alt="Earl of St. Andrews Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/w20dbi14t14w4db2lb2t7~x2~dbi1406275-db1404245/">Earl of St. Andrews Dress (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w20dbi14t14w4db2lb2t7~x2~dbi1406275-db1404245/"><img src="/variants/s7/w20dbi14t14w4db2lb2t7~x2~dbi1406275-db1404245/sett.png" alt="Earl of St. Andrews Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ea/earl-of-st-andrews-dress/">Earl of St. Andrews Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ea/earl-of-st-andrews-dress/"><img src="/variants/s7/w20dbi14dp14w4db2lb2dp7~x2~dbi1405255-db0906265/sett.png" alt="Earl of St. Andrews Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

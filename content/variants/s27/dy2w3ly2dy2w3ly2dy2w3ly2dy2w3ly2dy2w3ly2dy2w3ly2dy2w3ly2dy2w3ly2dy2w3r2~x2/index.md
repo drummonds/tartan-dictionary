@@ -8,10 +8,10 @@ crumbs:
 - name: "Glenmoidart"
   url: "/tartans/g/gl/glenmoidart/"
 - name: "Glenmoidart"
-  url: "/setts/dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glenmoidart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWYGWYGWYGWYGWYGWYGWYGWYGWR](/stripes/gwygwygwygwygwygwygwygwygwr/).
 
 Part of the [Glenmoidart](/tartans/g/gl/glenmoidart/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1425](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Glenmoidart (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1425">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#502814;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #502814"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>The Woolly Mill, Scotland.</em></li>
-<li>pre 2002 — Glenmoidart (Estate Check) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5039">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#502814;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #502814"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>Asymmetric. The Woolly Mill, Scotland</em></li>
+<li>pre 2002 — Glenmoidart (Estate Check) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5039/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#502814;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #502814"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>Asymmetric. The Woolly Mill, Scotland</em></li>
 </ul>
 </details>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Dollar Academy"
   url: "/tartans/d/do/dollar-academy/"
 - name: "Dollar Academy (1999)"
-  url: "/setts/lb2dbi19k4dbi4k4g9db2k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb2dbi19k4dbi4k4g9db2k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/dollar-academy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGKBKBW](/stripes/kbgkbkbw/).
 
 Part of the [Dollar Academy](/tartans/d/do/dollar-academy/) tartan — the named design grouping this sett with its other cloths.

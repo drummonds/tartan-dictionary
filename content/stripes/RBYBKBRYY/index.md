@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/">Uddingston Rugby Club Centenary (Cor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/"><img src="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/sett.png" alt="Uddingston Rugby Club Centenary (Cor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/ud/uddingston-rugby-club-centenary-cor/">Uddingston Rugby Club Centenary (Cor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/ud/uddingston-rugby-club-centenary-cor/"><img src="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/sett.png" alt="Uddingston Rugby Club Centenary (Cor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

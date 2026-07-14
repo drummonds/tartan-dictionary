@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/">Glackin-McColgan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/"><img src="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/sett.png" alt="Glackin-McColgan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glackin-mccolgan/">Glackin-McColgan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glackin-mccolgan/"><img src="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/sett.png" alt="Glackin-McColgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

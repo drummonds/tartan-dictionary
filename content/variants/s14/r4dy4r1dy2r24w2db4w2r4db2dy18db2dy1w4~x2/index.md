@@ -8,10 +8,10 @@ crumbs:
 - name: "San Francisco"
   url: "/tartans/s/sa/san-francisco/"
 - name: "San Francisco"
-  url: "/setts/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/san-francisco/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRWBWRBGBGW](/stripes/rgrgrwbwrbgbgw/).
 
 Part of the [San Francisco](/tartans/s/sa/san-francisco/) tartan — the named design grouping this sett with its other cloths.

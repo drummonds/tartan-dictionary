@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3db15w13o6db2o2r2~x2/">Thom(p)son, Navy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><img src="/variants/s7/r3db15w13o6db2o2r2~x2/sett.png" alt="Thom(p)son, Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thomson-navy/">Thomson, Navy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thomson-navy/"><img src="/variants/s7/r3db15w13o6db2o2r2~x2/sett.png" alt="Thomson, Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

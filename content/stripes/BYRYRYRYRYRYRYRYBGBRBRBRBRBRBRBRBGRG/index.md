@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24ly8r1ly1r1ly1r1ly1r1ly1r1ly1r1ly1r28ly6do4/">Newfoundland (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24ly8r1ly1r1ly1r1ly1r1ly1r1ly1r1ly1r28ly6do4/"><img src="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24ly8r1ly1r1ly1r1ly1r1ly1r1ly1r1ly1r28ly6do4/sett.png" alt="Newfoundland (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/newfoundland-3/">Newfoundland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/newfoundland-3/"><img src="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24ly8r1ly1r1ly1r1ly1r1ly1r1ly1r1ly1r28ly6do4/sett.png" alt="Newfoundland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

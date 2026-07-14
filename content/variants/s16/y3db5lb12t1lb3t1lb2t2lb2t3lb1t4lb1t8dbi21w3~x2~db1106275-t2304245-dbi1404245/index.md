@@ -8,10 +8,10 @@ crumbs:
 - name: "Ryder Cup, The"
   url: "/tartans/r/ry/ryder-cup-the/"
 - name: "Ryder Cup, The"
-  url: "/setts/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ry/ryder-cup-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBWBWBWBWBWBBW](/stripes/gbwbwbwbwbwbwbbw/).
 
 Part of the [Ryder Cup, The](/tartans/r/ry/ryder-cup-the/) tartan — the named design grouping this sett with its other cloths.

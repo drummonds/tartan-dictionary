@@ -12,22 +12,22 @@ crumbs:
 - name: "Stewart of Appin 1"
   url: "/tartans/s/st/stewart-of-appin-1/"
 - name: "Stewart of Appin Htg (error)"
-  url: "/setts/g8r3g3r5g26db7lb3db28r3db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8r3g3r5g26db7lb3db28r3db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-of-appin-1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBGRGRG](/stripes/brbwbgrgrg/).
 
 Part of the [Stewart of Appin 1](/tartans/s/st/stewart-of-appin-1/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/428/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/428/*)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2002 — Stewart of Appin Htg (error) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>No details. Same sett as 430 (which is called 'Hunting') but with blue between green and azure rather than brown as in 430. What is the source for this sett? PEM Aug 07.</em></li>
+<li>pre 2002 — Stewart of Appin Htg (error) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/428/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>No details. Same sett as 430 (which is called 'Hunting') but with blue between green and azure rather than brown as in 430. What is the source for this sett? PEM Aug 07.</em></li>
 <li>undated — Stuart/Stewart of Appin (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4011">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005020;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005020"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #DC0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C4084;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C4084"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C82AF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #3C82AF"></span><br><em>Scottish Tartans Society archive.</em></li>
 <li>undated — Stewart of Appin 1 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5480B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5480B0"></span></li>
 </ul>
@@ -43,7 +43,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428](htt
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

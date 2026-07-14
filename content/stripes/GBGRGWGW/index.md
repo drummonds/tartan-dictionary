@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w4g10lb24g42r3dy4dr4y2/">Muskoka Canadian Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w4g10lb24g42r3dy4dr4y2/"><img src="/variants/s8/w4g10lb24g42r3dy4dr4y2/sett.png" alt="Muskoka Canadian Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/muskoka/">Muskoka</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/muskoka/"><img src="/variants/s8/w4g10lb24g42r3dy4dr4y2/sett.png" alt="Muskoka sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/">Campbell, New Louden</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/"><img src="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/sett.png" alt="Campbell, New Louden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-new-louden-2/">Campbell, New Louden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-new-louden-2/"><img src="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/sett.png" alt="Campbell, New Louden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

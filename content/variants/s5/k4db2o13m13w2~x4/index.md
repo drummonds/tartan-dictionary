@@ -8,10 +8,10 @@ crumbs:
 - name: "Think Pink"
   url: "/tartans/t/th/think-pink/"
 - name: "Think Pink (ICF)"
-  url: "/setts/k4db2o13m13w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4db2o13m13w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/think-pink/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRRW](/stripes/kbrrw/).
 
 Part of the [Think Pink](/tartans/t/th/think-pink/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4100](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Think Pink (ICF) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4100">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DDB #000034"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C09898;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #C09898"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC5078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZZ #DC5078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #C8C8C8"></span><br><em>Designed by Lochcarron for the Imperial Cancer Research Fund.</em></li>
-<li>pre 2002 — Think Pink (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5134">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DDB #000034"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C09898;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #C09898"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC5078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZZ #DC5078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #C8C8C8"></span><br><em>Designed by Lochcarron for the Imperial Cancer Research Fund.</em></li>
+<li>pre 2002 — Think Pink (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5134/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DDB #000034"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C09898;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #C09898"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC5078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZZ #DC5078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #C8C8C8"></span><br><em>Designed by Lochcarron for the Imperial Cancer Research Fund.</em></li>
 </ul>
 </details>
 

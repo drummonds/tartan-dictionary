@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k10r26k2r4k2r26k3dg36k3g30k3y2~y2400000/">Pope Welsh Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k10r26k2r4k2r26k3dg36k3g30k3y2~y2400000/"><img src="/variants/s12/k10r26k2r4k2r26k3dg36k3g30k3y2~y2400000/sett.png" alt="Pope Welsh Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/pope/">Pope</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/pope/"><img src="/variants/s12/k10r26k2r4k2r26k3dg36k3g30k3y2~y2400000/sett.png" alt="Pope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

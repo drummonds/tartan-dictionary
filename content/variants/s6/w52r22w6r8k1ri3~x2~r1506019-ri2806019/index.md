@@ -10,15 +10,15 @@ crumbs:
 - name: "MacGregor"
   url: "/families/macgregor/"
 - name: "MacGregor"
-  url: "/tartans/m/ma/macgregor-12/"
+  url: "/tartans/m/ma/macgregor-10/"
 - name: "MacGregor Dress Burgundy (Dance)"
-  url: "/setts/w52r22w6r8k1ri3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w52r22w6r8k1ri3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRWRW](/stripes/rkrwrw/).
 
-Part of the [MacGregor](/tartans/m/ma/macgregor-12/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor](/tartans/m/ma/macgregor-10/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -32,7 +32,7 @@ Earliest known date: 1975 A dancers tartan based on MacGregor
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1975 — MacGregor Dress Burgundy (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2452">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DWR #800028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><br><em>Circa.1975 from Dalgliesh. Possibly a Dalgleish Dancers' Fancy. Original threadcount from MacGregor-Hastie collection, 1983, Scottish Tartans Society archive. R6/K2/G16/W12/G42/W104.</em></li>
-<li>1975 — MacGregor - 1975 (Dance, Burgundy) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1577">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DWR #800028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><br><em>C.1975 from Dalgliesh. Possibly a Dalgleish Dancers' Fancy</em></li>
+<li>1975 — MacGregor - 1975 (Dance, Burgundy) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1577/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DWR #800028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><br><em>C.1975 from Dalgliesh. Possibly a Dalgleish Dancers' Fancy</em></li>
 <li>1975 — MacGregor Dress Burgundy Fancy Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6533">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DWR #800028"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span></li>
 </ul>
 </details>

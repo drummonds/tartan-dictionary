@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/">Ormiston (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><img src="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/sett.png" alt="Ormiston (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/ormiston/">Ormiston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/ormiston/"><img src="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/sett.png" alt="Ormiston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/o1lp1o1t1o1w1lp1t1w1lp1t1dp1lp1o1n1lp1t1w1~x10~o2500000-n1900000/">Welly (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/o1lp1o1t1o1w1lp1t1w1lp1t1dp1lp1o1n1lp1t1w1~x10~o2500000-n1900000/"><img src="/variants/s18/o1lp1o1t1o1w1lp1t1w1lp1t1dp1lp1o1n1lp1t1w1~x10~o2500000-n1900000/sett.png" alt="Welly (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/welly-2/">Welly</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/welly-2/"><img src="/variants/s18/o1lp1o1t1o1w1lp1t1w1lp1t1dp1lp1o1n1lp1t1w1~x10~o2500000-n1900000/sett.png" alt="Welly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "MacKintosh, Arisaid"
   url: "/tartans/m/ma/mackintosh-arisaid/"
 - name: "MacKintosh, Arisaid"
-  url: "/setts/r5w36dp14r9g28r8dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5w36dp14r9g28r8dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackintosh-arisaid/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBWR](/stripes/brgrbwr/).
 
 Part of the [MacKintosh, Arisaid](/tartans/m/ma/mackintosh-arisaid/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Chartered Institute of Bankers"
   url: "/tartans/c/ch/chartered-institute-of-bankers/"
 - name: "Chartered Institute of Bankers"
-  url: "/setts/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chartered-institute-of-bankers/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBWBWGWBWBKBKBK](/stripes/gkbkbkbwbwgwbwbkbkbk/).
 
 Part of the [Chartered Institute of Bankers](/tartans/c/ch/chartered-institute-of-bankers/) tartan — the named design grouping this sett with its other cloths.

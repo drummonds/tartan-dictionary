@@ -8,10 +8,10 @@ crumbs:
 - name: "Bryan Wedding"
   url: "/tartans/b/br/bryan-wedding/"
 - name: "Bryan Wedding (Personal)"
-  url: "/setts/dy30ly5t10k10w2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy30ly5t10k10w2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bryan-wedding/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYBKWK](/stripes/gybkwk/).
 
 Part of the [Bryan Wedding](/tartans/b/br/bryan-wedding/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r4db18dr4g19w25r10w4~x2/">Fraser Red Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r4db18dr4g19w25r10w4~x2/"><img src="/variants/s7/r4db18dr4g19w25r10w4~x2/sett.png" alt="Fraser Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-red-dress/">Fraser Red Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-red-dress/"><img src="/variants/s7/r4db18dr4g19w25r10w4~x2/sett.png" alt="Fraser Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Tenmaya"
   url: "/tartans/t/te/tenmaya/"
 - name: "Tenmaya"
-  url: "/setts/w3n36b6dg6b6dg12b32w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3n36b6dg6b6dg12b32w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/te/tenmaya/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBGBGBW](/stripes/wbbgbgbw/).
 
 Part of the [Tenmaya](/tartans/t/te/tenmaya/) tartan — the named design grouping this sett with its other cloths.

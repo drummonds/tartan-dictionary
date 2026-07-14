@@ -12,10 +12,10 @@ crumbs:
 - name: "Sempill"
   url: "/tartans/s/se/sempill/"
 - name: "Sempill"
-  url: "/setts/db22k3db3k3db3k15r2g19k1lb3k1g19r2k15db19k3db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db22k3db3k3db3k15r2g19k1lb3k1g19r2k15db19k3db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/se/sempill/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKRGKWKGRKBKB](/stripes/bkbkbkrgkwkgrkbkb/).
 
 Part of the [Sempill](/tartans/s/se/sempill/) tartan — the named design grouping this sett with its other cloths.

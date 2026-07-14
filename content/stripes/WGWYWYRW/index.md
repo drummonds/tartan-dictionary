@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb2o24ly14lb25ly14lb25y20lb2~x2/">Froach's Grian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb2o24ly14lb25ly14lb25y20lb2~x2/"><img src="/variants/s8/lb2o24ly14lb25ly14lb25y20lb2~x2/sett.png" alt="Froach's Grian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraoch-s-grian/">Fraoch's Grian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraoch-s-grian/"><img src="/variants/s8/lb2o24ly14lb25ly14lb25y20lb2~x2/sett.png" alt="Fraoch's Grian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ly15r98do72m25do8lb15/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbrbry/">WBRBRY</a></nav>
 Its design is pattern [WBRBRY](/stripes/wbrbry/) — the page of every tartan sharing this colour sequence.
 
 The **Afternoon Tea / Apple Tea** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Afternoon Tea / Apple Tea** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly15r98do72m25do8lb15/">Afternoon Tea / Apple Tea</a></td><td><code>LY/15 R98 DO72 M25 DO8 LB/15</code></td><td>436</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly15r98do72m25do8lb15/"><img src="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/sett.png" alt="Afternoon Tea / Apple Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/">Afternoon Tea / Apple Tea</a></td><td><code>LY/15 R98 DO72 M25 DO8 LB/15</code></td><td>436</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/"><img src="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/sett.png" alt="Afternoon Tea / Apple Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="329.0" cy="223.6" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s6/k7w2dg2o31dr35ly2~x2/"><circle cx="251.9" cy="140.4" r="4" fill="#3465a4"><title>Mason</title></circle></a><a href="/variants/s6/dr24n5o9n2o9w9~x4/"><circle cx="222.0" cy="217.3" r="4" fill="#3465a4"><title>Plaid Wine</title></circle></a><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/"><circle cx="259.9" cy="177.8" r="4" fill="#3465a4"><title>Leckie</title></circle></a><a href="/variants/s5/k4db2o13m13w2~x4/"><circle cx="165.0" cy="207.0" r="4" fill="#3465a4"><title>Think Pink</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="251.3" cy="207.6" r="4" fill="#3465a4"><title>Stevens</title></circle></a><a href="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/"><circle cx="242.8" cy="166.9" r="4" fill="#3465a4"><title>MIT1951</title></circle></a><a href="/variants/s7/r3ly2r18db8w1o18r2~x2/"><circle cx="294.8" cy="176.6" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/"><circle cx="233.0" cy="124.9" r="4" fill="#3465a4"><title>Snelgrove</title></circle></a><a href="/variants/s8/g12r11dp12b3r32dp8g8dp8~x2/"><circle cx="258.7" cy="213.8" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><circle cx="244.5" cy="193.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="329.4" cy="223.7" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s6/k7w2dg2o31dr35ly2~x2/"><circle cx="252.4" cy="140.3" r="4" fill="#3465a4"><title>Mason</title></circle></a><a href="/variants/s6/dr24n5o9n2o9w9~x4/"><circle cx="222.3" cy="217.2" r="4" fill="#3465a4"><title>Plaid Wine</title></circle></a><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/"><circle cx="260.3" cy="177.7" r="4" fill="#3465a4"><title>Leckie</title></circle></a><a href="/variants/s5/k4db2o13m13w2~x4/"><circle cx="165.3" cy="206.7" r="4" fill="#3465a4"><title>Think Pink</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="251.6" cy="207.5" r="4" fill="#3465a4"><title>Stevens</title></circle></a><a href="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/"><circle cx="243.2" cy="166.8" r="4" fill="#3465a4"><title>MIT1951</title></circle></a><a href="/variants/s7/r3ly2r18db8w1o18r2~x2/"><circle cx="295.2" cy="176.5" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/"><circle cx="233.6" cy="124.8" r="4" fill="#3465a4"><title>Snelgrove</title></circle></a><a href="/variants/s8/g12r11dp12b3r32dp8g8dp8~x2/"><circle cx="259.1" cy="213.8" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><circle cx="244.8" cy="193.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

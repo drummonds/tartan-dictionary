@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr4k4ly3k4dr54r5k54dr4k3db9k2w4/">German American</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr4k4ly3k4dr54r5k54dr4k3db9k2w4/"><img src="/variants/s12/dr4k4ly3k4dr54r5k54dr4k3db9k2w4/sett.png" alt="German American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/german-american/">German American</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/german-american/"><img src="/variants/s12/dr4k4ly3k4dr54r5k54dr4k3db9k2w4/sett.png" alt="German American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

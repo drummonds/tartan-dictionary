@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3~x2/">Callum Scotch House Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3~x2/"><img src="/variants/s12/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3~x2/sett.png" alt="Callum Scotch House Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/callum-scotch-house/">Callum Scotch House</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/callum-scotch-house/"><img src="/variants/s12/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3~x2/sett.png" alt="Callum Scotch House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y7k1db22k2db1k2db4k2db1k2db4k18w5~x2~k0503265-db1605267/">Swedish</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y7k1db22k2db1k2db4k2db1k2db4k18w5~x2~k0503265-db1605267/"><img src="/variants/s13/y7k1db22k2db1k2db4k2db1k2db4k18w5~x2~k0503265-db1605267/sett.png" alt="Swedish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sw/swedish/">Swedish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/swedish/"><img src="/variants/s13/y7k1db22k2db1k2db4k2db1k2db4k18w5~x2~k0503265-db1605267/sett.png" alt="Swedish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

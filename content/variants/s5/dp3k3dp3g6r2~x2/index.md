@@ -12,10 +12,10 @@ crumbs:
 - name: "Austin"
   url: "/tartans/a/au/austin-2/"
 - name: "Austin (Wilson's No 137)"
-  url: "/setts/dp3k3dp3g6r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3k3dp3g6r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/austin-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGR](/stripes/bkbgr/).
 
 Part of the [Austin](/tartans/a/au/austin-2/) tartan — the named design grouping this sett with its other cloths.

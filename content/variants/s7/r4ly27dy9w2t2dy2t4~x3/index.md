@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified"
-  url: "/tartans/u/un/unidentified-26/"
+  url: "/tartans/u/un/unidentified-79/"
 - name: "Unidentified #25"
-  url: "/setts/r4ly27dy9w2t2dy2t4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4ly27dy9w2t2dy2t4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBWGYRYGWBG](/stripes/bgbwgyrygwbg/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-79/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBWGYR](/stripes/bgbwgyr/).
 
-Part of the [Unidentified](/tartans/u/un/unidentified-26/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified](/tartans/u/un/unidentified-79/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4226](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4226)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 599
 
 ## Thread count
-T/12 DY6 T6 W6 DY27 LY81 R12 LY81 DY27 W6 T6 DY/6
+R/12 LY81 DY27 W6 T6 DY6 T/12
 
-One full sett is **534 threads**.
+One full sett is **276 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/12 DY6 T6 W6 DY27 LY81 R12 LY81 DY27 W6 T6 DY/6 — 534 threads; it folds to the canonical 276-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **534 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/12 DY6 T6 W6 DY27 LY81 R12 LY81 DY27 W6 T6 DY/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/12 LY81 DY27 W6 T6 DY6 T/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

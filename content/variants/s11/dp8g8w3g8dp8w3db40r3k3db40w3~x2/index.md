@@ -8,10 +8,10 @@ crumbs:
 - name: "World Peace"
   url: "/tartans/w/wo/world-peace/"
 - name: "World Peace"
-  url: "/setts/dp8g8w3g8dp8w3db40r3k3db40w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp8g8w3g8dp8w3db40r3k3db40w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wo/world-peace/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGBWBRKBW](/stripes/bgwgbwbrkbw/).
 
 Part of the [World Peace](/tartans/w/wo/world-peace/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db24k6r6y12g6db6g6db12y1k1r2~x2/">Berwick Friendship</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db24k6r6y12g6db6g6db12y1k1r2~x2/"><img src="/variants/s11/db24k6r6y12g6db6g6db12y1k1r2~x2/sett.png" alt="Berwick Friendship sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/t24k6r6y12g6t6g6t12y1k1r2~x2/">Berwick Friendship (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/t24k6r6y12g6t6g6t12y1k1r2~x2/"><img src="/variants/s11/t24k6r6y12g6t6g6t12y1k1r2~x2/sett.png" alt="Berwick Friendship (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/berwick-friendship/">Berwick Friendship</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/berwick-friendship/"><img src="/variants/s11/db24k6r6y12g6db6g6db12y1k1r2~x2/sett.png" alt="Berwick Friendship sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

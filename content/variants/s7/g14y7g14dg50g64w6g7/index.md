@@ -8,10 +8,10 @@ crumbs:
 - name: "Freedom of Derry"
   url: "/tartans/f/fr/freedom-of-derry/"
 - name: "Freedom of Derry"
-  url: "/setts/g14y7g14dg50g64w6g7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g14y7g14dg50g64w6g7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/freedom-of-derry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGWG](/stripes/gggggwg/).
 
 Part of the [Freedom of Derry](/tartans/f/fr/freedom-of-derry/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1277](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/2007 — Freedom of Derry (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1277">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Helen Marshall of Marton Mills for Elizabeth Allen Kilthire of Carfin, Lanarkshire for their kilthire business.</em></li>
-<li>March 2007 — Freedom of Derry (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7195">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Helen Marshall of Marton Mills for Elizabeth Allen Kilthire of Carfin, Lanarkshire for their kilthire business.</em></li>
+<li>March 2007 — Freedom of Derry (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7195/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by Helen Marshall of Marton Mills for Elizabeth Allen Kilthire of Carfin, Lanarkshire for their kilthire business.</em></li>
 </ul>
 </details>
 

@@ -6,16 +6,16 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Cant"
-  url: "/tartans/u/un/unidentified-cant-10/"
+  url: "/tartans/u/un/unidentified-cant-12/"
 - name: "Unidentified Cant #04"
-  url: "/setts/ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg4w2r4w2dg4w2dbi9/"
+  url: ""
 slug_full: "ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg4w2r4w2dg4w2dbi9~x2~ri2109032-r1807008-db1106275-dbi1204274"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg4w2r4w2dg4w2dbi9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-cant-12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWRWGWRBWBRWRWRWRBWBRWGWRWGWBGWGBWRBWBRWRWRWRWRBWBRWBGWGBWRWRWBGWGBWRBWBRWRWRWR](/stripes/bwgwrwgwrbwbrwrwrwrbwbrwgwrwgwbgwgbwrbwbrwrwrwrwrbwbrwbgwgbwrwrwbgwgbwrbwbrwrwrwr/).
 
-Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant-10/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant-12/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
 

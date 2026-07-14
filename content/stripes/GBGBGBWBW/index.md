@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/">Kildonan Brown (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><img src="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/sett.png" alt="Kildonan Brown (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kildonan-3/">Kildonan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kildonan-3/"><img src="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/sett.png" alt="Kildonan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/g33db4g4db4g4db12w33db3w6~x2/">Lindsay Dress, Green (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g33db4g4db4g4db12w33db3w6~x2/"><img src="/variants/s9/g33db4g4db4g4db12w33db3w6~x2/sett.png" alt="Lindsay Dress, Green (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/lindsay-dress/">Lindsay Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/lindsay-dress/"><img src="/variants/s9/g33db4g4db4g4db12w33db3w6~x2/sett.png" alt="Lindsay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

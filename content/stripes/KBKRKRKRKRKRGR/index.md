@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/">Black (Hebridean) (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/"><img src="/variants/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/sett.png" alt="Black (Hebridean) (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black/">Black</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black/"><img src="/variants/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/sett.png" alt="Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

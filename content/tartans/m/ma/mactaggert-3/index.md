@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/mactaggert/"
 - name: "MacTaggert"
   url: "/families/mactaggert/"
+aliases:
+- "/setts/g9lb2g1k6db6r1db1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbkgwg/">BRBKGWG</a></nav>
 A tartan of the [MacTaggert](/families/mactaggert/) family.
 Its design is pattern [BRBKGWG](/stripes/brbkgwg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacTaggert** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g9lb2g1k6db6r1db1/">MacTaggert</a></td><td><code>G/18 LB4 G2 K12 DB12 R2 DB/2</code></td><td>84</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g9lb2g1k6db6r1db1/"><img src="/variants/s7/g9lb2g1k6db6r1db1~x2/sett.png" alt="MacTaggert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/">MacTaggert</a></td><td><code>G/18 LB4 G2 K12 DB12 R2 DB/2</code></td><td>84</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><img src="/variants/s7/g9lb2g1k6db6r1db1~x2/sett.png" alt="MacTaggert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="136.2" cy="197.5" r="4" fill="#3465a4"><title>MacLean, Donald</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="177.2" cy="176.1" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="192.9" cy="181.8" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><circle cx="166.3" cy="191.4" r="4" fill="#3465a4"><title>Art Pewter Silver</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="177.4" cy="176.0" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="111.7" cy="209.9" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="163.5" cy="210.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s7/y4k2t20k10g15k2r3~x2/"><circle cx="128.3" cy="181.0" r="4" fill="#3465a4"><title>Green MacLeod</title></circle></a><a href="/variants/s6/g52lb7g9k35db35k7/"><circle cx="167.8" cy="215.5" r="4" fill="#3465a4"><title>Redland</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="133.4" cy="160.0" r="4" fill="#3465a4"><title>Ogilvie of Inverarity / Ochterlonie</title></circle></a><circle cx="135.0" cy="184.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="136.4" cy="197.3" r="4" fill="#3465a4"><title>MacLean, Donald</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="177.6" cy="175.9" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="193.4" cy="181.7" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><circle cx="166.7" cy="191.2" r="4" fill="#3465a4"><title>Art Pewter Silver</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="177.8" cy="175.9" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="112.0" cy="209.6" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="163.9" cy="209.9" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s7/y4k2t20k10g15k2r3~x2/"><circle cx="128.6" cy="180.8" r="4" fill="#3465a4"><title>Green MacLeod</title></circle></a><a href="/variants/s6/g52lb7g9k35db35k7/"><circle cx="168.1" cy="215.4" r="4" fill="#3465a4"><title>Redland</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="133.8" cy="159.8" r="4" fill="#3465a4"><title>Ogilvie of Inverarity / Ochterlonie</title></circle></a><circle cx="135.3" cy="183.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

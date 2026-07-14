@@ -8,10 +8,10 @@ crumbs:
 - name: "Unidentified Early 18th Centuary"
   url: "/tartans/u/un/unidentified-early-18th-centuary/"
 - name: "Unidentified Early 18th Centuary #2"
-  url: "/setts/r9g2r3g2r9g3r3db3r3g3r3db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r9g2r3g2r9g3r3db3r3g3r3db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-early-18th-centuary/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRGRGRGR](/stripes/brgrbrgrgrgr/).
 
 Part of the [Unidentified Early 18th Centuary](/tartans/u/un/unidentified-early-18th-centuary/) tartan — the named design grouping this sett with its other cloths.

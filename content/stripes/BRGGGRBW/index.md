@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db16r14g16dy3g16r14db16w3~x2/">Forrester (James) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db16r14g16dy3g16r14db16w3~x2/"><img src="/variants/s8/db16r14g16dy3g16r14db16w3~x2/sett.png" alt="Forrester (James) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db16r14g16y3g16r14db16w3~x2/">James William Forrester of S. Carolina</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db16r14g16y3g16r14db16w3~x2/"><img src="/variants/s8/db16r14g16y3g16r14db16w3~x2/sett.png" alt="James William Forrester of S. Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forrester-2/">Forrester</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forrester-2/"><img src="/variants/s8/db16r14g16dy3g16r14db16w3~x2/sett.png" alt="Forrester sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/james-william-forrester-of-s-carolina/">James William Forrester of S. Carolina</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/james-william-forrester-of-s-carolina/"><img src="/variants/s8/db16r14g16y3g16r14db16w3~x2/sett.png" alt="James William Forrester of S. Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

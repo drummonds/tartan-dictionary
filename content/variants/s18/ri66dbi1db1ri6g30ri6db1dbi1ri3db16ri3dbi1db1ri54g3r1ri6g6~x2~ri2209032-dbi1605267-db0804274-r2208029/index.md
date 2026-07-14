@@ -6,15 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified"
-  url: "/tartans/u/un/unidentified-65/"
+  url: "/tartans/u/un/unidentified-61/"
 - name: "Unidentified #34"
-  url: "/setts/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-61/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRGRBBRBRBBRGRBBR](/stripes/grrgrbbrbrbbrgrbbr/).
 
-Part of the [Unidentified](/tartans/u/un/unidentified-65/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified](/tartans/u/un/unidentified-61/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

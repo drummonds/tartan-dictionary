@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/">Granger/Grainger (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><img src="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/sett.png" alt="Granger/Grainger (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/granger-grainger/">Granger/Grainger</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/granger-grainger/"><img src="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/sett.png" alt="Granger/Grainger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

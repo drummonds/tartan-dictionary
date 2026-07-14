@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/">Greeven, Wolfgang H (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><img src="/variants/s8/dg62r5w1r4g5y4k4w2~x2/sett.png" alt="Greeven, Wolfgang H (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greeven-wolfgang-h/">Greeven, Wolfgang H</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greeven-wolfgang-h/"><img src="/variants/s8/dg62r5w1r4g5y4k4w2~x2/sett.png" alt="Greeven, Wolfgang H sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

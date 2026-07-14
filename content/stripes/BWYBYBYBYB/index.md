@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/">Virginia Tech</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/"><img src="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/sett.png" alt="Virginia Tech sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/dr6lo2dr36lo18dr2lo4dr2lo6w3db4~x2/">Virginia Tech (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr6lo2dr36lo18dr2lo4dr2lo6w3db4~x2/"><img src="/variants/s10/dr6lo2dr36lo18dr2lo4dr2lo6w3db4~x2/sett.png" alt="Virginia Tech (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/virginia-tech/">Virginia Tech</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/virginia-tech/"><img src="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/sett.png" alt="Virginia Tech sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

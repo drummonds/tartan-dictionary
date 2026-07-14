@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r3w30b10k3dp15g2dp3g1~x2/">S.O.B.H.D. (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r3w30b10k3dp15g2dp3g1~x2/"><img src="/variants/s8/r3w30b10k3dp15g2dp3g1~x2/sett.png" alt="S.O.B.H.D. (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/sobhd/">SOBHD</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/sobhd/"><img src="/variants/s8/r3w30b10k3dp15g2dp3g1~x2/sett.png" alt="SOBHD sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

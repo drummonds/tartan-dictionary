@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/lb3n6k4lb2~x2/">Bedford Check (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb3n6k4lb2~x2/"><img src="/variants/s4/lb3n6k4lb2~x2/sett.png" alt="Bedford Check (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bedford-check/">Bedford Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bedford-check/"><img src="/variants/s4/lb3n6k4lb2~x2/sett.png" alt="Bedford Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

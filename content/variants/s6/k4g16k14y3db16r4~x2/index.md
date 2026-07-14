@@ -12,10 +12,10 @@ crumbs:
 - name: "Birse"
   url: "/tartans/b/bi/birse/"
 - name: "Birse Family Tartan"
-  url: "/setts/k4g16k14y3db16r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4g16k14y3db16r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bi/birse/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGBR](/stripes/kgkgbr/).
 
 Part of the [Birse](/tartans/b/bi/birse/) tartan — the named design grouping this sett with its other cloths.

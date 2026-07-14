@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g68k22n28dr3n12~x2/">Herbage of Laggan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g68k22n28dr3n12~x2/"><img src="/variants/s5/g68k22n28dr3n12~x2/sett.png" alt="Herbage of Laggan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/herbage-of-laggan/">Herbage of Laggan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/herbage-of-laggan/"><img src="/variants/s5/g68k22n28dr3n12~x2/sett.png" alt="Herbage of Laggan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/n5dp3n18k16y3~x4/">New York State Police Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/n5dp3n18k16y3~x4/"><img src="/variants/s5/n5dp3n18k16y3~x4/sett.png" alt="New York State Police Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-york-state-police/">New York State Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-york-state-police/"><img src="/variants/s5/n5dp3n18k16y3~x4/sett.png" alt="New York State Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

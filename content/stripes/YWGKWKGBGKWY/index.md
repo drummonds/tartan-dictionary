@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/">Walker, Gauvin (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><img src="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/sett.png" alt="Walker, Gauvin (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/walker-gauvin-2/">Walker, Gauvin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/walker-gauvin-2/"><img src="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/sett.png" alt="Walker, Gauvin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

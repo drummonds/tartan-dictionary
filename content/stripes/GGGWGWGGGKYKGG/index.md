@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/">Wexford Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/"><img src="/variants/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/sett.png" alt="Wexford Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wexford-irish-county/">Wexford Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wexford-irish-county/"><img src="/variants/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/sett.png" alt="Wexford Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

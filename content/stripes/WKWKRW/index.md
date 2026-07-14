@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lb2r12k2lb6k6lb1~x2/">Thompson/Thomson/MacTavish #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb2r12k2lb6k6lb1~x2/"><img src="/variants/s6/lb2r12k2lb6k6lb1~x2/sett.png" alt="Thompson/Thomson/MacTavish #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/">Thomson, Red (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><img src="/variants/s6/lb4r28k6lb12k12lb3~x2/sett.png" alt="Thomson, Red (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mactavish-3/">MacTavish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mactavish-3/"><img src="/variants/s6/lb2r12k2lb6k6lb1~x2/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thomson/">Thomson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thomson/"><img src="/variants/s6/lb4r28k6lb12k12lb3~x2/sett.png" alt="Thomson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

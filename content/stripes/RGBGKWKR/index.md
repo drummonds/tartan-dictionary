@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r72k6lb2k11y2db2y2r18~x2/">Princess Elizabeth (Royal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r72k6lb2k11y2db2y2r18~x2/"><img src="/variants/s8/r72k6lb2k11y2db2y2r18~x2/sett.png" alt="Princess Elizabeth (Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/r42k4w1k6y1db1y1r12~x2/">Princess Elizabeth Royal Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r42k4w1k6y1db1y1r12~x2/"><img src="/variants/s8/r42k4w1k6y1db1y1r12~x2/sett.png" alt="Princess Elizabeth Royal Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/princess-elizabeth/">Princess Elizabeth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-elizabeth/"><img src="/variants/s8/r72k6lb2k11y2db2y2r18~x2/sett.png" alt="Princess Elizabeth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

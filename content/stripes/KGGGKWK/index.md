@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k13dy28y13dy28k18w18k13~x2/">Boxer Beauty</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k13dy28y13dy28k18w18k13~x2/"><img src="/variants/s7/k13dy28y13dy28k18w18k13~x2/sett.png" alt="Boxer Beauty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boxer-beauty/">Boxer Beauty</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boxer-beauty/"><img src="/variants/s7/k13dy28y13dy28k18w18k13~x2/sett.png" alt="Boxer Beauty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

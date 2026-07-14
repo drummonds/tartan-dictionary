@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/">Aberdeen Asset Management (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/"><img src="/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/sett.png" alt="Aberdeen Asset Management (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberdeen-asset-management/">Aberdeen Asset Management</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen-asset-management/"><img src="/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/sett.png" alt="Aberdeen Asset Management sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

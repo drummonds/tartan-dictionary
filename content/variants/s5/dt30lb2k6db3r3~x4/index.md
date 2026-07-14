@@ -10,10 +10,10 @@ crumbs:
 - name: "Edinburgh Crystal"
   url: "/tartans/e/ed/edinburgh-crystal/"
 - name: "Edinburgh Crystal"
-  url: "/setts/dt30lb2k6db3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt30lb2k6db3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-crystal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBR](/stripes/bwkbr/).
 
 Part of the [Edinburgh Crystal](/tartans/e/ed/edinburgh-crystal/) tartan — the named design grouping this sett with its other cloths.

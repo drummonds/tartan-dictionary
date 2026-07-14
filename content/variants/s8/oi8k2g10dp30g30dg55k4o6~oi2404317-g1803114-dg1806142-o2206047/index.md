@@ -12,10 +12,10 @@ crumbs:
 - name: "Aberuchill"
   url: "/tartans/a/ab/aberuchill/"
 - name: "Aberuchill District Tartan"
-  url: "/setts/oi8k2g10dp30g30dg55k4o6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/oi8k2g10dp30g30dg55k4o6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ab/aberuchill/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGBGGKR](/stripes/rkgbggkr/).
 
 Part of the [Aberuchill](/tartans/a/ab/aberuchill/) tartan — the named design grouping this sett with its other cloths.

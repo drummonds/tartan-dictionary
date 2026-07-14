@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brkbkbkrbkbkrb/">BRKBKBKRBKBKRB</a></nav>
 Its design is pattern [BRKBKBKRBKBKRB](/stripes/brkbkbkrbkbkrb/) — the page of every tartan sharing this colour sequence.
 
 The **Old Aberdeen Diamond Jubilee** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Old Aberdeen Diamond Jubilee** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/">Old Aberdeen Diamond Jubilee</a></td><td><code>DR/3 R2 K7 DR3 K3 DR52 R4 K52 DR3 K3 DR3 K7 R2 DR/3</code></td><td>288</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/"><img src="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/sett.png" alt="Old Aberdeen Diamond Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/">Old Aberdeen Diamond Jubilee</a></td><td><code>DR/3 R2 K7 DR3 K3 DR52 R4 K52 DR3 K3 DR3 K7 R2 DR/3</code></td><td>288</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/"><img src="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/sett.png" alt="Old Aberdeen Diamond Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/"><circle cx="383.5" cy="58.7" r="4" fill="#3465a4"><title>Calgary, University of</title></circle></a><a href="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/"><circle cx="328.7" cy="62.9" r="4" fill="#3465a4"><title>German Heritage</title></circle></a><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="303.0" cy="109.3" r="4" fill="#3465a4"><title>Hebridean 8</title></circle></a><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="319.6" cy="73.8" r="4" fill="#3465a4"><title>University of Georgia</title></circle></a><a href="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/"><circle cx="430.9" cy="91.0" r="4" fill="#3465a4"><title>Llewellen of Wales</title></circle></a><a href="/variants/s14/k37dp2k2dp3k13dp10w2dp10dg1dp2dg2dp2dg9dp13~x2/"><circle cx="320.4" cy="91.8" r="4" fill="#3465a4"><title>Strathtummel</title></circle></a><a href="/variants/s9/k3ly1k14dr14ly1dr1ly1dr1k2~x4/"><circle cx="305.1" cy="132.6" r="4" fill="#3465a4"><title>Breckon</title></circle></a><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><circle cx="314.4" cy="95.1" r="4" fill="#3465a4"><title>MacAlister of Skye</title></circle></a><circle cx="369.3" cy="90.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/"><circle cx="384.9" cy="58.9" r="4" fill="#3465a4"><title>Calgary, University of</title></circle></a><a href="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/"><circle cx="329.8" cy="63.0" r="4" fill="#3465a4"><title>German Heritage</title></circle></a><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="304.1" cy="109.4" r="4" fill="#3465a4"><title>Hebridean 8</title></circle></a><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="320.8" cy="73.9" r="4" fill="#3465a4"><title>University of Georgia</title></circle></a><a href="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/"><circle cx="432.1" cy="91.2" r="4" fill="#3465a4"><title>Llewellen of Wales</title></circle></a><a href="/variants/s14/k37dp2k2dp3k13dp10w2dp10dg1dp2dg2dp2dg9dp13~x2/"><circle cx="321.3" cy="91.9" r="4" fill="#3465a4"><title>Strathtummel</title></circle></a><a href="/variants/s9/k3ly1k14dr14ly1dr1ly1dr1k2~x4/"><circle cx="306.1" cy="132.8" r="4" fill="#3465a4"><title>Breckon</title></circle></a><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><circle cx="315.4" cy="95.1" r="4" fill="#3465a4"><title>MacAlister of Skye</title></circle></a><circle cx="370.4" cy="91.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

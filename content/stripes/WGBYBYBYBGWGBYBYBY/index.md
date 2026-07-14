@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3~x2/">Lamont Heather</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3~x2/"><img src="/variants/s18/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3~x2/sett.png" alt="Lamont Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lamont-heather/">Lamont Heather</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lamont-heather/"><img src="/variants/s18/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3~x2/sett.png" alt="Lamont Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

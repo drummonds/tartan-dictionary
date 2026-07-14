@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w4k1dy4k1ly3k1dy4db48w3dr25db4dr3w3~x2/">State Seal of Colorado (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w4k1dy4k1ly3k1dy4db48w3dr25db4dr3w3~x2/"><img src="/variants/s13/w4k1dy4k1ly3k1dy4db48w3dr25db4dr3w3~x2/sett.png" alt="State Seal of Colorado (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-colorado/">State Seal of Colorado</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-colorado/"><img src="/variants/s13/w4k1dy4k1ly3k1dy4db48w3dr25db4dr3w3~x2/sett.png" alt="State Seal of Colorado sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

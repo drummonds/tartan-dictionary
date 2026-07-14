@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db68lb4dr10ly2dr3w3dr3g11db8dr3db3w3~x2~db1404245-lb3203246-ly3307090-w4000000/">Shaughnessy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db68lb4dr10ly2dr3w3dr3g11db8dr3db3w3~x2~db1404245-lb3203246-ly3307090-w4000000/"><img src="/variants/s12/db68lb4dr10ly2dr3w3dr3g11db8dr3db3w3~x2~db1404245-lb3203246-ly3307090-w4000000/sett.png" alt="Shaughnessy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shaughnessy/">Shaughnessy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shaughnessy/"><img src="/variants/s12/db68lb4dr10ly2dr3w3dr3g11db8dr3db3w3~x2~db1404245-lb3203246-ly3307090-w4000000/sett.png" alt="Shaughnessy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

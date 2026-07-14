@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k28y1w2y1k3w17k5w3db2w10g2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwbwkwkgwgk/">GWBWKWKGWGK</a></nav>
 Its design is pattern [GWBWKWKGWGK](/stripes/gwbwkwkgwgk/) — the page of every tartan sharing this colour sequence.
 
 The **Bro-Roazhon** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Bro-Roazhon** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k28y1w2y1k3w17k5w3db2w10g2/">Bro-Roazhon</a></td><td><code>K/56 Y2 W4 Y2 K6 W34 K10 W6 DB4 W20 G/4</code></td><td>236</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k28y1w2y1k3w17k5w3db2w10g2/"><img src="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/sett.png" alt="Bro-Roazhon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/">Bro-Roazhon</a></td><td><code>K/56 Y2 W4 Y2 K6 W34 K10 W6 DB4 W20 G/4</code></td><td>236</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/"><img src="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/sett.png" alt="Bro-Roazhon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="228.2" cy="81.0" r="4" fill="#3465a4"><title>Liddell</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="252.1" cy="84.1" r="4" fill="#3465a4"><title>Motherwell F.C.</title></circle></a><a href="/variants/s10/k8dr3lb4dg4lb48k48dg4k4dy3lb8~dg1804158/"><circle cx="212.9" cy="96.0" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><a href="/variants/s9/y4k4g12k37w4k4w16k2w4~x2/"><circle cx="243.2" cy="115.1" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><a href="/variants/s11/lo1n8lb2k15lb20dr1lb1dr1lb8n3lb1~x2/"><circle cx="235.5" cy="105.6" r="4" fill="#3465a4"><title>Harris</title></circle></a><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/"><circle cx="252.5" cy="89.9" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.7" cy="81.3" r="4" fill="#3465a4"><title>Bell</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.9" cy="73.8" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><a href="/variants/s13/lb4b1w1b1k29lb3y1k4lb20k2db1k3lb3~x2/"><circle cx="250.0" cy="40.7" r="4" fill="#3465a4"><title>Silverton</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="257.5" cy="53.5" r="4" fill="#3465a4"><title>Glen Coe</title></circle></a><circle cx="237.3" cy="76.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="229.1" cy="80.8" r="4" fill="#3465a4"><title>Liddell</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="252.9" cy="83.9" r="4" fill="#3465a4"><title>Motherwell F.C.</title></circle></a><a href="/variants/s10/k8dr3lb4dg4lb48k48dg4k4dy3lb8~dg1804158/"><circle cx="213.7" cy="95.8" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><a href="/variants/s9/y4k4g12k37w4k4w16k2w4~x2/"><circle cx="244.0" cy="115.0" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><a href="/variants/s11/lo1n8lb2k15lb20dr1lb1dr1lb8n3lb1~x2/"><circle cx="236.2" cy="105.4" r="4" fill="#3465a4"><title>Harris</title></circle></a><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/"><circle cx="253.3" cy="89.8" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="282.6" cy="81.2" r="4" fill="#3465a4"><title>Bell</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="326.9" cy="73.8" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><a href="/variants/s13/lb4b1w1b1k29lb3y1k4lb20k2db1k3lb3~x2/"><circle cx="251.0" cy="40.5" r="4" fill="#3465a4"><title>Silverton</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="258.4" cy="53.4" r="4" fill="#3465a4"><title>Glen Coe</title></circle></a><circle cx="238.2" cy="76.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

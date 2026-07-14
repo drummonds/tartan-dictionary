@@ -28,18 +28,18 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/">Eildon (1980)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/"><img src="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/sett.png" alt="Eildon (1980) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db41lb2w2lb2db5b12w31db4~x2/">Harmony, Eildon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db41lb2w2lb2db5b12w31db4~x2/"><img src="/variants/s8/db41lb2w2lb2db5b12w31db4~x2/sett.png" alt="Harmony, Eildon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/">Longniddry Eildon Blue Dress Fancy Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/"><img src="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/sett.png" alt="Longniddry Eildon Blue Dress Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ei/eildon/">Eildon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ei/eildon/"><img src="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/sett.png" alt="Eildon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harmony-eildon/">Harmony Eildon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-eildon/"><img src="/variants/s8/db41lb2w2lb2db5b12w31db4~x2/sett.png" alt="Harmony Eildon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/longniddry-eildon-blue-dress-fancy/">Longniddry Eildon Blue Dress Fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/longniddry-eildon-blue-dress-fancy/"><img src="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/sett.png" alt="Longniddry Eildon Blue Dress Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dt42lb2lbi2lb2dt5db12lbi32dt4~x2~lb3103284-lbi3200000/">Longniddry Blue (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dt42lb2lbi2lb2dt5db12lbi32dt4~x2~lb3103284-lbi3200000/"><img src="/variants/s8/dt42lb2lbi2lb2dt5db12lbi32dt4~x2~lb3103284-lbi3200000/sett.png" alt="Longniddry Blue (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/longniddry-3/">Longniddry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/longniddry-3/"><img src="/variants/s8/dt42lb2lbi2lb2dt5db12lbi32dt4~x2~lb3103284-lbi3200000/sett.png" alt="Longniddry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/dp42lb2w2lb2dp5t12w32dp4/">Longniddry Purple</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dp42lb2w2lb2dp5t12w32dp4/"><img src="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~dp1607327-lb3103284-t2405244/sett.png" alt="Longniddry Purple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/longniddry-dress-2/">Longniddry Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/longniddry-dress-2/"><img src="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~dp1607327-lb3103284-t2405244/sett.png" alt="Longniddry Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

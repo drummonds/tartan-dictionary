@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144/">All Ireland Green (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144/"><img src="/variants/s13/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144/sett.png" alt="All Ireland Green (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/all-ireland-2/">All Ireland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/all-ireland-2/"><img src="/variants/s13/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144/sett.png" alt="All Ireland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

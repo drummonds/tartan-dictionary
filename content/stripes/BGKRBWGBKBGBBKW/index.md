@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/">Clare County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/"><img src="/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/sett.png" alt="Clare County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clare-county-crest-range/">Clare County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clare-county-crest-range/"><img src="/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/sett.png" alt="Clare County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

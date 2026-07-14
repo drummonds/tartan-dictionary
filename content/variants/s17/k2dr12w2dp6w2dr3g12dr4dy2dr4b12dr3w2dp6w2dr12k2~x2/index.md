@@ -8,10 +8,10 @@ crumbs:
 - name: "Haughdale"
   url: "/tartans/h/ha/haughdale/"
 - name: "Haughdale"
-  url: "/setts/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/haughdale/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWBWBBBGBGBWBWBK](/stripes/kbwbwbbbgbgbwbwbk/).
 
 Part of the [Haughdale](/tartans/h/ha/haughdale/) tartan — the named design grouping this sett with its other cloths.

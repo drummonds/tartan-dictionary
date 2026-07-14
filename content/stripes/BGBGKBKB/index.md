@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/">Baird</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/"><img src="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/sett.png" alt="Baird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db3k2db8k8g8dp1g1dp3/">Baird (Modern)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db3k2db8k8g8dp1g1dp3/"><img src="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/sett.png" alt="Baird (Modern) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baird-2/">Baird</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baird-2/"><img src="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/sett.png" alt="Baird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

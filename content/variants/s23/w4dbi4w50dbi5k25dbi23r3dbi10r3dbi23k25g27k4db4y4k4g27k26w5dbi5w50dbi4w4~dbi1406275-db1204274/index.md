@@ -12,10 +12,10 @@ crumbs:
 - name: "Malcolm, Dress"
   url: "/tartans/m/ma/malcolm-dress-3/"
 - name: "Malcolm, Dress"
-  url: "/setts/w4dbi4w50dbi5k25dbi23r3dbi10r3dbi23k25g27k4db4y4k4g27k26w5dbi5w50dbi4w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4dbi4w50dbi5k25dbi23r3dbi10r3dbi23k25g27k4db4y4k4g27k26w5dbi5w50dbi4w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/malcolm-dress-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBKBRBRBKGKBGKGKWBWBW](/stripes/wbwbkbrbrbkgkbgkgkwbwbw/).
 
 Part of the [Malcolm, Dress](/tartans/m/ma/malcolm-dress-3/) tartan — the named design grouping this sett with its other cloths.

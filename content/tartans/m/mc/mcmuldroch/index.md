@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/mcmuldroch/"
 - name: "McMuldroch"
   url: "/families/mcmuldroch/"
+aliases:
+- "/setts/g19k18dr18w2y2dp2y2w2dr8dp3/"
+- "/setts/g19k18r18ly2w2dp2ly2w2r8dp3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbwgbgwbkg/">BBWGBGWBKG</a></nav>
 A tartan of the [McMuldroch](/families/mcmuldroch/) family.
 Its design is pattern [BBWGBGWBKG](/stripes/bbwgbgwbkg/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **McMuldroch** tartan groups 2 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g19k18dr18w2y2dp2y2w2dr8dp3/">McMuldroch</a> ★</td><td><code>G/38 K36 DR36 W4 Y4 DP4 Y4 W4 DR16 DP/6</code></td><td>260</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g19k18dr18w2y2dp2y2w2dr8dp3/"><img src="/variants/s10/g19k18dr18w2y2dp2y2w2dr8dp3~x2/sett.png" alt="McMuldroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g19k18r18ly2w2dp2ly2w2r8dp3/">(2014)</a></td><td><code>G/38 K36 R36 LY4 W4 DP4 LY4 W4 R16 DP/6</code></td><td>260</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g19k18r18ly2w2dp2ly2w2r8dp3/"><img src="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/sett.png" alt="(2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g19k18dr18w2y2dp2y2w2dr8dp3~x2/">McMuldroch</a> ★</td><td><code>G/38 K36 DR36 W4 Y4 DP4 Y4 W4 DR16 DP/6</code></td><td>260</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g19k18dr18w2y2dp2y2w2dr8dp3~x2/"><img src="/variants/s10/g19k18dr18w2y2dp2y2w2dr8dp3~x2/sett.png" alt="McMuldroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/">(2014)</a></td><td><code>G/38 K36 R36 LY4 W4 DP4 LY4 W4 R16 DP/6</code></td><td>260</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><img src="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/sett.png" alt="(2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/y8g2k4lo1k1lb1k1do8y3k1y1lb1~x4/"><circle cx="110.9" cy="143.7" r="4" fill="#3465a4"><title>Wcwm 9275-1258</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3db18g2y3~x2/"><circle cx="63.2" cy="151.8" r="4" fill="#3465a4"><title>Stirling and Bannockburn</title></circle></a><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/"><circle cx="114.6" cy="135.7" r="4" fill="#3465a4"><title>Kelsey, William</title></circle></a><a href="/variants/s12/y4g20r3db11lb3r11g11r3k20r3k3lb3~x2/"><circle cx="51.6" cy="156.5" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s11/dr8k3o3dt28k20o28w3o3w3o3w6/"><circle cx="109.0" cy="141.4" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="115.2" cy="142.6" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/"><circle cx="151.8" cy="117.9" r="4" fill="#3465a4"><title>King George</title></circle></a><a href="/variants/s9/r2k2w2k14dg13g6y2k2w2~x2/"><circle cx="104.6" cy="150.7" r="4" fill="#3465a4"><title>Madewell</title></circle></a><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/"><circle cx="100.7" cy="131.0" r="4" fill="#3465a4"><title>Gotts</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="83.8" cy="154.4" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><circle cx="102.1" cy="143.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/y8g2k4lo1k1lb1k1do8y3k1y1lb1~x4/"><circle cx="111.2" cy="143.4" r="4" fill="#3465a4"><title>Wcwm 9275-1258</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3db18g2y3~x2/"><circle cx="63.3" cy="151.4" r="4" fill="#3465a4"><title>Stirling and Bannockburn</title></circle></a><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/"><circle cx="114.9" cy="135.4" r="4" fill="#3465a4"><title>Kelsey, William</title></circle></a><a href="/variants/s12/y4g20r3db11lb3r11g11r3k20r3k3lb3~x2/"><circle cx="51.8" cy="156.1" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s11/dr8k3o3dt28k20o28w3o3w3o3w6/"><circle cx="109.4" cy="141.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="115.4" cy="142.3" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/"><circle cx="152.3" cy="117.6" r="4" fill="#3465a4"><title>King George</title></circle></a><a href="/variants/s9/r2k2w2k14dg13g6y2k2w2~x2/"><circle cx="105.0" cy="150.4" r="4" fill="#3465a4"><title>Madewell</title></circle></a><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/"><circle cx="100.9" cy="130.7" r="4" fill="#3465a4"><title>Gotts</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="84.1" cy="154.1" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><circle cx="102.4" cy="142.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

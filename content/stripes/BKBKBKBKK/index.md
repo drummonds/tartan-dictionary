@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k21n1k1n1k1n1k1n7~x4/">Lunar (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k21n1k1n1k1n1k1n7~x4/"><img src="/variants/s8/k21n1k1n1k1n1k1n7~x4/sett.png" alt="Lunar (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lu/lunar-2/">Lunar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/lunar-2/"><img src="/variants/s8/k21n1k1n1k1n1k1n7~x4/sett.png" alt="Lunar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,20 +28,20 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/">Emerald, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/"><img src="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/sett.png" alt="Emerald, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/em/emerald/">Emerald</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/em/emerald/"><img src="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/sett.png" alt="Emerald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dg5g3dg24g24dg3g5~x2/">Erskine Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg5g3dg24g24dg3g5~x2/"><img src="/variants/s6/dg5g3dg24g24dg3g5~x2/sett.png" alt="Erskine Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/er/erskine-5/">Erskine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-5/"><img src="/variants/s6/dg5g3dg24g24dg3g5~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/">Harmony 11 #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/"><img src="/variants/s6/dy6g2dy29g29dy2g6~x2/sett.png" alt="Harmony 11 #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harmony-11-2/">Harmony 11</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-11-2/"><img src="/variants/s6/dy6g2dy29g29dy2g6~x2/sett.png" alt="Harmony 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dg30g13dg7g30dg2y4~x2/">MacSporran Rejected design</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg30g13dg7g30dg2y4~x2/"><img src="/variants/s6/dg30g13dg7g30dg2y4~x2/sett.png" alt="MacSporran Rejected design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macsporran-rejected-design/">MacSporran Rejected design</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macsporran-rejected-design/"><img src="/variants/s6/dg30g13dg7g30dg2y4~x2/sett.png" alt="MacSporran Rejected design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/y11dg5y10g4dg26y4~x2/">North Dakota State University Bison</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y11dg5y10g4dg26y4~x2/"><img src="/variants/s6/y11dg5y10g4dg26y4~x2/sett.png" alt="North Dakota State University Bison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/north-dakota-state-university-bison/">North Dakota State University Bison</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/north-dakota-state-university-bison/"><img src="/variants/s6/y11dg5y10g4dg26y4~x2/sett.png" alt="North Dakota State University Bison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

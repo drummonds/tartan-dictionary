@@ -28,10 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb5k1g30dp15r8g30r8dp2/">Shaw of Tordarroch Hunting Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb5k1g30dp15r8g30r8dp2/"><img src="/variants/s8/lb5k1g30dp15r8g30r8dp2/sett.png" alt="Shaw of Tordarroch Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/lb5k1dg30dp15r8dg30r8dp2~x2/">Shaw of Tordarroch, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb5k1dg30dp15r8dg30r8dp2~x2/"><img src="/variants/s8/lb5k1dg30dp15r8dg30r8dp2~x2/sett.png" alt="Shaw of Tordarroch, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shaw-of-tordarroch/">Shaw of Tordarroch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shaw-of-tordarroch/"><img src="/variants/s8/lb5k1g30db15r8g30r8db2~x2/sett.png" alt="Shaw of Tordarroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/s/sh/shaw-of-tordarroch-hunting/">Shaw of Tordarroch, hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shaw-of-tordarroch-hunting/"><img src="/variants/s8/lb5k1g30dp15r8g30r8dp2/sett.png" alt="Shaw of Tordarroch, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

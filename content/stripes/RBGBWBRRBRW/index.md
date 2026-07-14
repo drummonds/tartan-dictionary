@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/">Cavalier, Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><img src="/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/sett.png" alt="Cavalier, Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cavalier/">Cavalier</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cavalier/"><img src="/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/sett.png" alt="Cavalier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "STLTH"
   url: "/tartans/s/st/stlth/"
 - name: "STLTH"
-  url: "/setts/dt4k2dt4k45n2k3n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt4k2dt4k45n2k3n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stlth/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKB](/stripes/bkbkbkb/).
 
 Part of the [STLTH](/tartans/s/st/stlth/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10752](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>21/12/2012 — STLTH (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10752">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1E2025;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MN #1E2025"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1714;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #1C1714"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3F4441;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3F4441"></span><br><em>Corporate tartan created as branding for the STLTH computer consultancy services company, registered in the USA in 2011. The name STLTH is a shortened version of the word 'STEALTH'.</em></li>
-<li>21/12/2012 — STLTH (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10752">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><br><em>Corporate tartan created as branding for the STLTH computer consultancy services company, registered in the USA in 2011. The name STLTH is a shortened version of the word 'STEALTH'. No commercial use of this tartan is permitted without expressed permission from the designer, and any party wishing to use or reproduce this tartan should first seek permission from the designer.</em></li>
+<li>21/12/2012 — STLTH (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10752/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><br><em>Corporate tartan created as branding for the STLTH computer consultancy services company, registered in the USA in 2011. The name STLTH is a shortened version of the word 'STEALTH'. No commercial use of this tartan is permitted without expressed permission from the designer, and any party wishing to use or reproduce this tartan should first seek permission from the designer.</em></li>
 </ul>
 </details>
 

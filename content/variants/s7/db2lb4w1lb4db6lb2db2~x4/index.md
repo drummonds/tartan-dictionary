@@ -8,10 +8,10 @@ crumbs:
 - name: "Langdons"
   url: "/tartans/l/la/langdons/"
 - name: "Langdons"
-  url: "/setts/db2lb4w1lb4db6lb2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2lb4w1lb4db6lb2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/langdons/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWWWB](/stripes/bwbwwwb/).
 
 Part of the [Langdons](/tartans/l/la/langdons/) tartan — the named design grouping this sett with its other cloths.

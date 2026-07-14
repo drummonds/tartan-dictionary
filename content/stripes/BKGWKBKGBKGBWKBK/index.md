@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/">Northern Guard Supporters</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><img src="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/sett.png" alt="Northern Guard Supporters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/northern-guard-supporters/">Northern Guard Supporters</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/northern-guard-supporters/"><img src="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/sett.png" alt="Northern Guard Supporters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

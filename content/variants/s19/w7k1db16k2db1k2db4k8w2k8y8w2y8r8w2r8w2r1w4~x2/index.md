@@ -8,10 +8,10 @@ crumbs:
 - name: "German"
   url: "/tartans/g/ge/german/"
 - name: "German"
-  url: "/setts/w7k1db16k2db1k2db4k8w2k8y8w2y8r8w2r8w2r1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w7k1db16k2db1k2db4k8w2k8y8w2y8r8w2r8w2r1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ge/german/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKBKBKWKGWGRWRWRW](/stripes/wkbkbkbkwkgwgrwrwrw/).
 
 Part of the [German](/tartans/g/ge/german/) tartan — the named design grouping this sett with its other cloths.

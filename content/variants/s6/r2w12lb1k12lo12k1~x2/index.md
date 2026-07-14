@@ -12,10 +12,10 @@ crumbs:
 - name: "Dutch Dress"
   url: "/tartans/d/du/dutch-dress/"
 - name: "Dutch Dress District Tartan"
-  url: "/setts/r2w12lb1k12lo12k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2w12lb1k12lo12k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dutch-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKWWR](/stripes/kykwwr/).
 
 Part of the [Dutch Dress](/tartans/d/du/dutch-dress/) tartan — the named design grouping this sett with its other cloths.

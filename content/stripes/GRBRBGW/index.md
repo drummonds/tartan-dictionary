@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/">MacCord / McCord (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/"><img src="/variants/s7/dg6r2db1r3db16g20w2~x2/sett.png" alt="MacCord / McCord (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maccord-mccord/">MacCord / McCord</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccord-mccord/"><img src="/variants/s7/dg6r2db1r3db16g20w2~x2/sett.png" alt="MacCord / McCord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

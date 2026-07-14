@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r3db6g5db1g1db3y6w6y2w6r2~x2/">Canice-Moodie (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r3db6g5db1g1db3y6w6y2w6r2~x2/"><img src="/variants/s11/r3db6g5db1g1db3y6w6y2w6r2~x2/sett.png" alt="Canice-Moodie (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canice-moodie/">Canice-Moodie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canice-moodie/"><img src="/variants/s11/r3db6g5db1g1db3y6w6y2w6r2~x2/sett.png" alt="Canice-Moodie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

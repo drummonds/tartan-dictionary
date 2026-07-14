@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s66/r8lb2k15lb2t5lb2dg20g2dg4g2dg20g3ly3r2lb2r2ly3g3dg20lb2r32lb2dg20lb2t5lb2g4k15lb2t20lb2r8lb2r8lb2t20lb2k15g4lb2t5lb2dg20lb2r32lb2dg20g3ly3r2lb2r2ly3g3dg20g2dg4g2dg20lb2t5lb2k15lb2r8lb2~lb3200000-t2503-hc89951fb8ca95beb/">Hunter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s66/r8lb2k15lb2t5lb2dg20g2dg4g2dg20g3ly3r2lb2r2ly3g3dg20lb2r32lb2dg20lb2t5lb2g4k15lb2t20lb2r8lb2r8lb2t20lb2k15g4lb2t5lb2dg20lb2r32lb2dg20g3ly3r2lb2r2ly3g3dg20g2dg4g2dg20lb2t5lb2k15lb2r8lb2~lb3200000-t2503-hc89951fb8ca95beb/"><img src="/variants/s66/r8lb2k15lb2t5lb2dg20g2dg4g2dg20g3ly3r2lb2r2ly3g3dg20lb2r32lb2dg20lb2t5lb2g4k15lb2t20lb2r8lb2r8lb2t20lb2k15g4lb2t5lb2dg20lb2r32lb2dg20g3ly3r2lb2r2ly3g3dg20g2dg4g2dg20lb2t5lb2k15lb2r8lb2~lb3200000-t2503-hc89951fb8ca95beb/sett.png?s=r8lb2k15lb2t5lb2dg20g2dg4g2dg20g3ly3r2lb2r2ly3g3dg20lb2r32lb2dg20lb2t5lb2g4k15lb2t20lb2r8lb2r8lb2t20lb2k15g4lb2t5lb2dg20lb2r32lb2dg20g3ly3r2lb2r2ly3g3dg20g2dg4g2dg20lb2t5lb2k15lb2r8lb2~lb3200000-t2503227-dg1806142-g1903114-ly3307090" alt="Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hunter-3/">Hunter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hunter-3/"><img src="/variants/s66/r8lb2k15lb2t5lb2dg20g2dg4g2dg20g3ly3r2lb2r2ly3g3dg20lb2r32lb2dg20lb2t5lb2g4k15lb2t20lb2r8lb2r8lb2t20lb2k15g4lb2t5lb2dg20lb2r32lb2dg20g3ly3r2lb2r2ly3g3dg20g2dg4g2dg20lb2t5lb2k15lb2r8lb2~lb3200000-t2503-hc89951fb8ca95beb/sett.png?s=r8lb2k15lb2t5lb2dg20g2dg4g2dg20g3ly3r2lb2r2ly3g3dg20lb2r32lb2dg20lb2t5lb2g4k15lb2t20lb2r8lb2r8lb2t20lb2k15g4lb2t5lb2dg20lb2r32lb2dg20g3ly3r2lb2r2ly3g3dg20g2dg4g2dg20lb2t5lb2k15lb2r8lb2~lb3200000-t2503227-dg1806142-g1903114-ly3307090" alt="Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

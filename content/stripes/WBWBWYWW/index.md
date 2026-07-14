@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w4lb1ly2lb22b20w2b4w2~x2/">Gorman Blue (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w4lb1ly2lb22b20w2b4w2~x2/"><img src="/variants/s8/w4lb1ly2lb22b20w2b4w2~x2/sett.png" alt="Gorman Blue (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/gorman/">Gorman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gorman/"><img src="/variants/s8/w4lb1ly2lb22b20w2b4w2~x2/sett.png" alt="Gorman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

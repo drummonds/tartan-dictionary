@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2~x2/">Mehrtens variant (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2~x2/"><img src="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2~x2/sett.png" alt="Mehrtens variant (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/mehrtens-variant/">Mehrtens variant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/mehrtens-variant/"><img src="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2~x2/sett.png" alt="Mehrtens variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

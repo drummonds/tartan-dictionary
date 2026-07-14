@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/">Elwyn Glen (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/"><img src="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/sett.png" alt="Elwyn Glen (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elwyn-glen/">Elwyn Glen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elwyn-glen/"><img src="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/sett.png" alt="Elwyn Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

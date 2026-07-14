@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db100lb10k5lb10r8/">Waugh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db100lb10k5lb10r8/"><img src="/variants/s5/db100lb10k5lb10r8/sett.png" alt="Waugh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/waugh/">Waugh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/waugh/"><img src="/variants/s5/db100lb10k5lb10r8/sett.png" alt="Waugh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

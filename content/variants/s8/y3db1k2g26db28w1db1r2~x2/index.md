@@ -10,10 +10,10 @@ crumbs:
 - name: "Johnston, Diana Hunting"
   url: "/tartans/j/jo/johnston-diana-hunting/"
 - name: "Johnston, Diana Hunting (Personal)"
-  url: "/setts/y3db1k2g26db28w1db1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3db1k2g26db28w1db1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/jo/johnston-diana-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGBWBR](/stripes/gbkgbwbr/).
 
 Part of the [Johnston, Diana Hunting](/tartans/j/jo/johnston-diana-hunting/) tartan — the named design grouping this sett with its other cloths.

@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db2r2db10r10db1r10g10r1db2~x4/">Fraser (Wilson 1820)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db2r2db10r10db1r10g10r1db2~x4/"><img src="/variants/s9/db2r2db10r10db1r10g10r1db2~x4/sett.png" alt="Fraser (Wilson 1820) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/fraser-8/">Fraser</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-8/"><img src="/variants/s9/db2r2db10r10db1r10g10r1db2~x4/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/">Lovat or Fraser Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/"><img src="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/sett.png" alt="Lovat or Fraser Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lovat-or-fraser/">Lovat or Fraser</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lovat-or-fraser/"><img src="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/sett.png" alt="Lovat or Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/">MacPherson Gathering 1996</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/"><img src="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/sett.png" alt="MacPherson Gathering 1996 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-gathering-1996/">MacPherson Gathering 1996</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-gathering-1996/"><img src="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/sett.png" alt="MacPherson Gathering 1996 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

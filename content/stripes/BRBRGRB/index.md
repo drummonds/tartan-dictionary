@@ -28,15 +28,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db8r3db1r3g14r3db1~x4/">Logan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><img src="/variants/s7/db8r3db1r3g14r3db1~x4/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db3r25db17r5g22r9db3~x2/">MacFadyan (MacGregor Hastie)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><img src="/variants/s7/db3r25db17r5g22r9db3~x2/sett.png" alt="MacFadyan (MacGregor Hastie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db9r3db1r3g9r3db1~x2/">Skene</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><img src="/variants/s7/db9r3db1r3g9r3db1~x2/sett.png" alt="Skene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/logan-11/">Logan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-11/"><img src="/variants/s7/db8r3db1r3g14r3db1~x4/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macfadyan/">MacFadyan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macfadyan/"><img src="/variants/s7/db3r25db17r5g22r9db3~x2/sett.png" alt="MacFadyan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sk/skene-4/">Skene</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sk/skene-4/"><img src="/variants/s7/db9r3db1r3g9r3db1~x2/sett.png" alt="Skene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/">Logan Light</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><img src="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/sett.png" alt="Logan Light sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/logan-light/">Logan Light</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-light/"><img src="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/sett.png" alt="Logan Light sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

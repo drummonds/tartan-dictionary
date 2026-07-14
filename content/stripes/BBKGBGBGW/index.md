@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/">Ebdon-Muir (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/"><img src="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/sett.png" alt="Ebdon-Muir (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/eb/ebdon-muir-2/">Ebdon-Muir</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eb/ebdon-muir-2/"><img src="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/sett.png" alt="Ebdon-Muir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

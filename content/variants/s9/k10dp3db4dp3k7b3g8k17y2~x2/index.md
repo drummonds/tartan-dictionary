@@ -10,10 +10,10 @@ crumbs:
 - name: "Ayrshire Tourist Board"
   url: "/tartans/a/ay/ayrshire-tourist-board/"
 - name: "Ayrshire Tourist Board"
-  url: "/setts/k10dp3db4dp3k7b3g8k17y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10dp3db4dp3k7b3g8k17y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ay/ayrshire-tourist-board/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBKBBBK](/stripes/gkgbkbbbk/).
 
 Part of the [Ayrshire Tourist Board](/tartans/a/ay/ayrshire-tourist-board/) tartan — the named design grouping this sett with its other cloths.

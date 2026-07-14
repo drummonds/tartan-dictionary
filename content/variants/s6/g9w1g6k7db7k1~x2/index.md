@@ -8,10 +8,10 @@ crumbs:
 - name: "Menteith"
   url: "/tartans/m/me/menteith/"
 - name: "Menteith"
-  url: "/setts/g9w1g6k7db7k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g9w1g6k7db7k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/menteith/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKBK](/stripes/gwgkbk/).
 
 Part of the [Menteith](/tartans/m/me/menteith/) tartan — the named design grouping this sett with its other cloths.

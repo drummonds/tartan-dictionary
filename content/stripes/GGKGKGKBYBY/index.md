@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/">Clark of Ulva (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"><img src="/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/sett.png" alt="Clark of Ulva (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clark-of-ulva/">Clark of Ulva</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clark-of-ulva/"><img src="/variants/s11/y3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/sett.png" alt="Clark of Ulva sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

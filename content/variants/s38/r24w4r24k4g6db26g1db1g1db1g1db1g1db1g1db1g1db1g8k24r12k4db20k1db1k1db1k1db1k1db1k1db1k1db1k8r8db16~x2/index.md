@@ -8,22 +8,22 @@ crumbs:
 - name: "Canadian Confederation"
   url: "/tartans/c/ca/canadian-confederation-2/"
 - name: "Canadian Confederation (Commemorat)"
-  url: "/setts/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/canadian-confederation-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBKBKBKBKBKBKBKRKGBGBGBGBGBGBGBGKRWR](/stripes/brkbkbkbkbkbkbkbkrkgbgbgbgbgbgbgbgkrwr/).
 
 Part of the [Canadian Confederation](/tartans/c/ca/canadian-confederation-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [38 stripe tartan](/stripes/stripes38/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1964](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1964)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/1964/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1964/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1965 — Canadian Confederation (Commemorat) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1964">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>Asymmetric. Said to have been produced for Eatons of Toronto (a major national department store) and registered to Pik Mills on 26.11.1965. Its structure is very similar to the 'Fathers of the Confederation series. Updated 16th April 2009 with information received from Canadian researcher John Fitzpatrick.</em></li>
+<li>1965 — Canadian Confederation (Commemorat) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1964/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>Asymmetric. Said to have been produced for Eatons of Toronto (a major national department store) and registered to Pik Mills on 26.11.1965. Its structure is very similar to the 'Fathers of the Confederation series. Updated 16th April 2009 with information received from Canadian researcher John Fitzpatrick.</em></li>
 <li>01/01/1967 — Canadian Confederation (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=545">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>Produced for Eatons of Toronto. This matches the Scottish Tartans Society count but a note attached to the latter says: 'Re-do this sett to make 12 single thread strips where 8 exist here.' No 're-doing' has taken place yet.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1964](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

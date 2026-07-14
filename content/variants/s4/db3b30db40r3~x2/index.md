@@ -10,10 +10,10 @@ crumbs:
 - name: "Sanix Large"
   url: "/tartans/s/sa/sanix-large/"
 - name: "Sanix Large Muted"
-  url: "/setts/db3b30db40r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3b30db40r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sanix-large/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBR](/stripes/bbbr/).
 
 Part of the [Sanix Large](/tartans/s/sa/sanix-large/) tartan — the named design grouping this sett with its other cloths.

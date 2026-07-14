@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Tartans Authority"
   url: "/tartans/s/sc/scottish-tartans-authority/"
 - name: "Wilson's No.060"
-  url: "/setts/k16db2lb2db4g16r2k15db6lb2k3lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k16db2lb2db4g16r2k15db6lb2k3lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-tartans-authority/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWBGRKBWKW](/stripes/kbwbgrkbwkw/).
 
 Part of the [Scottish Tartans Authority](/tartans/s/sc/scottish-tartans-authority/) tartan — the named design grouping this sett with its other cloths.

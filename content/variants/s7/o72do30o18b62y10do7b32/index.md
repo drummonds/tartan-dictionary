@@ -8,10 +8,10 @@ crumbs:
 - name: "Manhattan Ethnic"
   url: "/tartans/m/ma/manhattan-ethnic-2/"
 - name: "Manhattan Ethnic"
-  url: "/setts/o72do30o18b62y10do7b32/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o72do30o18b62y10do7b32/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/manhattan-ethnic-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBRBR](/stripes/bbgbrbr/).
 
 Part of the [Manhattan Ethnic](/tartans/m/ma/manhattan-ethnic-2/) tartan — the named design grouping this sett with its other cloths.

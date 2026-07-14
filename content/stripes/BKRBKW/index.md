@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db75k4r25db6k6w2~x2/">Hong Kong St Andrew's Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db75k4r25db6k6w2~x2/"><img src="/variants/s6/db75k4r25db6k6w2~x2/sett.png" alt="Hong Kong St Andrew's Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hong-kong-st-andrew-s-society/">Hong Kong St Andrew's Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hong-kong-st-andrew-s-society/"><img src="/variants/s6/db75k4r25db6k6w2~x2/sett.png" alt="Hong Kong St Andrew's Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

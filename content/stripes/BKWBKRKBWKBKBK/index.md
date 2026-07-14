@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/">Bristow Helicopters</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/"><img src="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/sett.png" alt="Bristow Helicopters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bristow-helicopters/">Bristow Helicopters</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bristow-helicopters/"><img src="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/sett.png" alt="Bristow Helicopters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

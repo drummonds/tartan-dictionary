@@ -12,10 +12,10 @@ crumbs:
 - name: "Crane of Clunie"
   url: "/tartans/c/cr/crane-of-clunie/"
 - name: "Crane of Clunie"
-  url: "/setts/g165k12g6k18r4k10g4y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g165k12g6k18r4k10g4y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crane-of-clunie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKRKGKG](/stripes/ggkrkgkg/).
 
 Part of the [Crane of Clunie](/tartans/c/cr/crane-of-clunie/) tartan — the named design grouping this sett with its other cloths.

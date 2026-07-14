@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k20db50dg50r3k3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbgrk/">KBGRK</a></nav>
 Its design is pattern [KBGRK](/stripes/kbgrk/) — the page of every tartan sharing this colour sequence.
 
 The **Louisville Spaulding** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Louisville Spaulding** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k20db50dg50r3k3/">Louisville Spaulding</a></td><td><code>K/40 DB100 DG100 R6 K/6</code></td><td>458</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k20db50dg50r3k3/"><img src="/variants/s5/k20db50dg50r3k3~x2/sett.png" alt="Louisville Spaulding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k20db50dg50r3k3~x2/">Louisville Spaulding</a></td><td><code>K/40 DB100 DG100 R6 K/6</code></td><td>458</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k20db50dg50r3k3~x2/"><img src="/variants/s5/k20db50dg50r3k3~x2/sett.png" alt="Louisville Spaulding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><circle cx="269.9" cy="147.2" r="4" fill="#3465a4"><title>Singh, Gopal</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="319.2" cy="233.4" r="4" fill="#3465a4"><title>Dallard</title></circle></a><a href="/variants/s5/db37dg37n8k3dp5~x2/"><circle cx="337.5" cy="245.3" r="4" fill="#3465a4"><title>Dallard</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9dr1~x4/"><circle cx="345.5" cy="190.9" r="4" fill="#3465a4"><title>Monarchs</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="271.6" cy="130.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="219.6" cy="169.5" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="198.0" cy="191.6" r="4" fill="#3465a4"><title>Landels</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4/"><circle cx="223.1" cy="193.3" r="4" fill="#3465a4"><title>Leahy</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="261.3" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="188.3" cy="206.9" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><circle cx="290.4" cy="210.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><circle cx="270.5" cy="147.2" r="4" fill="#3465a4"><title>Singh, Gopal</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="319.5" cy="233.6" r="4" fill="#3465a4"><title>Dallard</title></circle></a><a href="/variants/s5/db37dg37n8k3dp5~x2/"><circle cx="337.8" cy="245.4" r="4" fill="#3465a4"><title>Dallard</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9dr1~x4/"><circle cx="346.2" cy="191.1" r="4" fill="#3465a4"><title>Monarchs</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="272.4" cy="130.2" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="220.1" cy="169.5" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="198.4" cy="191.5" r="4" fill="#3465a4"><title>Landels</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4/"><circle cx="223.6" cy="193.3" r="4" fill="#3465a4"><title>Leahy</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="261.9" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="188.6" cy="206.8" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><circle cx="290.9" cy="210.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

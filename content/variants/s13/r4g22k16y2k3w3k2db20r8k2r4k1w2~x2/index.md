@@ -12,10 +12,10 @@ crumbs:
 - name: "Louise of Lorne"
   url: "/tartans/l/lo/louise-of-lorne/"
 - name: "Galt Sir Alexander.. Family Tartan"
-  url: "/setts/r4g22k16y2k3w3k2db20r8k2r4k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4g22k16y2k3w3k2db20r8k2r4k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/louise-of-lorne/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGKWKBRKRKW](/stripes/rgkgkwkbrkrkw/).
 
 Part of the [Louise of Lorne](/tartans/l/lo/louise-of-lorne/) tartan — the named design grouping this sett with its other cloths.

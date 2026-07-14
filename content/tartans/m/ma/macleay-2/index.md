@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/macleay/"
 - name: "MacLeay"
   url: "/families/macleay/"
+aliases:
+- "/setts/r27db4k4db4k4lb6y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwkbkbr/">GWKBKBR</a></nav>
 A tartan of the [MacLeay](/families/macleay/) family.
 Its design is pattern [GWKBKBR](/stripes/gwkbkbr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacLeay** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r27db4k4db4k4lb6y1/">MacLeay</a></td><td><code>R/108 DB16 K16 DB16 K16 LB24 Y/4</code></td><td>288</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r27db4k4db4k4lb6y1/"><img src="/variants/s7/r27db4k4db4k4lb6y1~x4/sett.png" alt="MacLeay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/">MacLeay</a></td><td><code>R/108 DB16 K16 DB16 K16 LB24 Y/4</code></td><td>288</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><img src="/variants/s7/r27db4k4db4k4lb6y1~x4/sett.png" alt="MacLeay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="319.2" cy="111.8" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><circle cx="253.2" cy="90.2" r="4" fill="#3465a4"><title>Thomson, Reona Ellen</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="318.2" cy="101.5" r="4" fill="#3465a4"><title>Ostermeier</title></circle></a><a href="/variants/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="269.9" cy="98.1" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/"><circle cx="300.6" cy="113.5" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s6/r97k18w5dr26k18n14/"><circle cx="266.4" cy="118.9" r="4" fill="#3465a4"><title>Bradley University</title></circle></a><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><circle cx="274.8" cy="94.9" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="320.7" cy="94.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="259.2" cy="65.9" r="4" fill="#3465a4"><title>Aberdeen Football Club</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="258.9" cy="66.4" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><circle cx="271.1" cy="97.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="320.2" cy="111.8" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><circle cx="254.0" cy="90.0" r="4" fill="#3465a4"><title>Thomson, Reona Ellen</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="319.2" cy="101.5" r="4" fill="#3465a4"><title>Ostermeier</title></circle></a><a href="/variants/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="270.8" cy="98.0" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/"><circle cx="301.4" cy="113.4" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s6/r97k18w5dr26k18n14/"><circle cx="267.2" cy="118.8" r="4" fill="#3465a4"><title>Bradley University</title></circle></a><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><circle cx="275.6" cy="94.8" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="321.7" cy="94.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="260.2" cy="65.8" r="4" fill="#3465a4"><title>Aberdeen Football Club</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="259.8" cy="66.3" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><circle cx="272.0" cy="97.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

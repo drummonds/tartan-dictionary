@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g23r23w9r23g23w9~x2/">Omani Regiment 2nd Pipe Sqn.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g23r23w9r23g23w9~x2/"><img src="/variants/s6/g23r23w9r23g23w9~x2/sett.png" alt="Omani Regiment 2nd Pipe Sqn. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/om/omani-regiment-2nd-pipe-sqn/">Omani Regiment 2nd Pipe Sqn.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/om/omani-regiment-2nd-pipe-sqn/"><img src="/variants/s6/g23r23w9r23g23w9~x2/sett.png" alt="Omani Regiment 2nd Pipe Sqn. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

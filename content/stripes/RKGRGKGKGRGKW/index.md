@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2w4~x2/">Crihfield Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2w4~x2/"><img src="/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2w4~x2/sett.png" alt="Crihfield Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crihfield/">Crihfield</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crihfield/"><img src="/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2w4~x2/sett.png" alt="Crihfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -11,11 +11,11 @@ crumbs:
   url: "/families/maclaren/"
 - name: "MacLaren"
   url: "/tartans/m/ma/maclaren/"
-- name: "MacLaren"
-  url: "/setts/db24k8g8r2g8k1y2/"
+- name: "MacLaren Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db24k8g8r2g8k1y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclaren/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRGKG](/stripes/bkgrgkg/).
 
 Part of the [MacLaren](/tartans/m/ma/maclaren/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/">Pienaar (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/"><img src="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/sett.png" alt="Pienaar (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pienaar/">Pienaar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pienaar/"><img src="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/sett.png" alt="Pienaar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/">Fowler</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/"><img src="/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/sett.png" alt="Fowler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/fowler/">Fowler</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fowler/"><img src="/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/sett.png" alt="Fowler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

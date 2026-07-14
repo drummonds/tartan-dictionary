@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/g56dy13ly18~x2/">Colonial Marine (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/g56dy13ly18~x2/"><img src="/variants/s3/g56dy13ly18~x2/sett.png" alt="Colonial Marine (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/colonial-marine/">Colonial Marine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/colonial-marine/"><img src="/variants/s3/g56dy13ly18~x2/sett.png" alt="Colonial Marine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

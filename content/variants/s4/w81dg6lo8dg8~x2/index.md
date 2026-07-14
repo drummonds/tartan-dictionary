@@ -10,10 +10,10 @@ crumbs:
 - name: "Young in Australia"
   url: "/tartans/y/yo/young-in-australia-2/"
 - name: "Young in Australia"
-  url: "/setts/w81dg6lo8dg8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w81dg6lo8dg8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/y/yo/young-in-australia-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGW](/stripes/gygw/).
 
 Part of the [Young in Australia](/tartans/y/yo/young-in-australia-2/) tartan — the named design grouping this sett with its other cloths.

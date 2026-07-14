@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/">California Department of Forestry (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/"><img src="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/sett.png" alt="California Department of Forestry (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/california-department-of-forestry/">California Department of Forestry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/california-department-of-forestry/"><img src="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/sett.png" alt="California Department of Forestry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

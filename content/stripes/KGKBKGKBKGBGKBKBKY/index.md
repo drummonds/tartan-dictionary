@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/">New House Highland (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/"><img src="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/sett.png" alt="New House Highland (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-house-highland/">New House Highland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-house-highland/"><img src="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/sett.png" alt="New House Highland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

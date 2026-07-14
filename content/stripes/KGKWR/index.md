@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k10g4k1lb2r1~x10/">Brotherhood of the Kilt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k10g4k1lb2r1~x10/"><img src="/variants/s5/k10g4k1lb2r1~x10/sett.png" alt="Brotherhood of the Kilt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brotherhood-of-the/">Brotherhood of the</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brotherhood-of-the/"><img src="/variants/s5/k10g4k1lb2r1~x10/sett.png" alt="Brotherhood of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k23y3k23w36r4~x2/">Macleod, Winnifred Mary, Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k23y3k23w36r4~x2/"><img src="/variants/s5/k23y3k23w36r4~x2/sett.png" alt="Macleod, Winnifred Mary, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-winnifred/">Macleod, Winnifred</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-winnifred/"><img src="/variants/s5/k23y3k23w36r4~x2/sett.png" alt="Macleod, Winnifred sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

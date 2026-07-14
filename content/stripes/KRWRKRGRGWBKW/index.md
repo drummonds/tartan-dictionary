@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/">Peacock (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><img src="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/sett.png" alt="Peacock (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/peacock/">Peacock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peacock/"><img src="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/sett.png" alt="Peacock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

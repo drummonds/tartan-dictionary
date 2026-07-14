@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dy19g23y3db15r11w5~x2/">Mekos, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><img src="/variants/s6/dy19g23y3db15r11w5~x2/sett.png" alt="Mekos, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/mekos-the/">Mekos, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/mekos-the/"><img src="/variants/s6/dy19g23y3db15r11w5~x2/sett.png" alt="Mekos, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

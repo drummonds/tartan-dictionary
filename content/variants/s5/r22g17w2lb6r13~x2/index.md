@@ -10,15 +10,15 @@ crumbs:
 - name: "Menzies"
   url: "/families/menzies/"
 - name: "Menzies"
-  url: "/tartans/m/me/menzies-2/"
+  url: "/tartans/m/me/menzies/"
 - name: "Menzies"
-  url: "/setts/r22g17w2lb6r13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r22g17w2lb6r13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/menzies/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWWR](/stripes/rgwwr/).
 
-Part of the [Menzies](/tartans/m/me/menzies-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Menzies](/tartans/m/me/menzies/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

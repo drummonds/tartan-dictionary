@@ -8,15 +8,15 @@ crumbs:
 - name: "Johore"
   url: "/tartans/j/jo/johore/"
 - name: "Johore"
-  url: "/setts/n57w5g20n5lo10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n57w5g20n5lo10/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWGBYBGW](/stripes/bwgbybgw/).
+provenance below. It is one weaving of the [sett](/tartans/j/jo/johore/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWGBY](/stripes/bwgby/).
 
 Part of the [Johore](/tartans/j/jo/johore/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1902](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1902)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1902](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1880 — Johore (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1902">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>From Thomas. Gordon & Sons, Glasgow and presented to the Sultan of Jahore by Queen Victoria during his visit to Balmoral circa 1880. Confusion is sometimes caused by the mis-spelling 'Jahore' with an 'a'. Johor is the Malay spelling, Johore is the English.</em></li>
-<li>1880 — Johore (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1309">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>From Thomas. Gordon & Sons, Glasgow and presented to the Sultan of Johor(e) by Queen Victoria during his visit to Balmoral circa 1880. Ibrahim H.H. Tunku Abubeker Bin. GCMG. KCSI. Sultan of 'JOHORE' (1833 - 1895) was the grandson of the Malayan Prince who ceded Singapore to Sir Stamford Raffles. Was western educated and a great friend of Queen Victoria who created him Emperor of Johor. He died on July 1895 at Bailey's Hotel, London and was taken back to Johor and laid to rest at the royal mausoleum named Makam Mahmoodiah. An 1891 Vanity Fair cartoon shows the Sultan with a piece of predominantly yellow tartan which places a question mark over the accuracy of this entry which is still being sporadically researched.</em></li>
+<li>1880 — Johore (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1309/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>From Thomas. Gordon & Sons, Glasgow and presented to the Sultan of Johor(e) by Queen Victoria during his visit to Balmoral circa 1880. Ibrahim H.H. Tunku Abubeker Bin. GCMG. KCSI. Sultan of 'JOHORE' (1833 - 1895) was the grandson of the Malayan Prince who ceded Singapore to Sir Stamford Raffles. Was western educated and a great friend of Queen Victoria who created him Emperor of Johor. He died on July 1895 at Bailey's Hotel, London and was taken back to Johor and laid to rest at the royal mausoleum named Makam Mahmoodiah. An 1891 Vanity Fair cartoon shows the Sultan with a piece of predominantly yellow tartan which places a question mark over the accuracy of this entry which is still being sporadically researched.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1309
 
 ## Thread count
-N/114 W10 G40 N10 LO20 N10 G40 W/10
+N/114 W10 G40 N10 LO/20
 
-One full sett is **384 threads**.
+One full sett is **254 threads**.
+
+<p class="recorded-note">The source recorded this cloth as N/114 W10 G40 N10 LO20 N10 G40 W/10 — 384 threads; it folds to the canonical 254-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **384 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/114 W10 G40 N10 LO20 N10 G40 W/10 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/114 W10 G40 N10 LO/20 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

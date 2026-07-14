@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb54dy4n4g12o4g8w1g8db6~x2/">Cadenhead (2015)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb54dy4n4g12o4g8w1g8db6~x2/"><img src="/variants/s9/lb54dy4n4g12o4g8w1g8db6~x2/sett.png" alt="Cadenhead (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cadenhead/">Cadenhead</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cadenhead/"><img src="/variants/s9/lb54dy4n4g12o4g8w1g8db6~x2/sett.png" alt="Cadenhead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db34ly6dg6r2w2r2dg10ly8db23w2~x2/">International Pairs (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db34ly6dg6r2w2r2dg10ly8db23w2~x2/"><img src="/variants/s10/db34ly6dg6r2w2r2dg10ly8db23w2~x2/sett.png" alt="International Pairs (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/international-pairs/">International Pairs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/international-pairs/"><img src="/variants/s10/db34ly6dg6r2w2r2dg10ly8db23w2~x2/sett.png" alt="International Pairs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

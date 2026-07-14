@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k10dg9w2dg9k10r1db8dp12k3/">Hunter Graham</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k10dg9w2dg9k10r1db8dp12k3/"><img src="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/sett.png" alt="Hunter Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hunter-graham/">Hunter Graham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hunter-graham/"><img src="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/sett.png" alt="Hunter Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

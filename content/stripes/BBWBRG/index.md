@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dt15db55w1dp5r2y1~x2/">Venters (Edinburgh)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dt15db55w1dp5r2y1~x2/"><img src="/variants/s6/dt15db55w1dp5r2y1~x2/sett.png" alt="Venters (Edinburgh) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/ve/venters-2/">Venters</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/ve/venters-2/"><img src="/variants/s6/dt15db55w1dp5r2y1~x2/sett.png" alt="Venters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

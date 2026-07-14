@@ -10,10 +10,10 @@ crumbs:
 - name: "Gleneagles Gold"
   url: "/tartans/g/gl/gleneagles-gold/"
 - name: "Gleneagles Gold (Dalgleish)"
-  url: "/setts/k4ly4lb32ly1k32ly4k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4ly4lb32ly1k32ly4k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/gleneagles-gold/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYWYK](/stripes/kykywyk/).
 
 Part of the [Gleneagles Gold](/tartans/g/gl/gleneagles-gold/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1411](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — Gleneagles Gold (Dalgleish) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1411">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>Designed and woven by D.C. Dalgliesh Ltd Selkirk for Gleneagles Hotel Perthshire, c1988 a Trade sett. A new design was produced in 1989.</em></li>
-<li>1984 — Gleneagles Gold (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1269">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>By Dalgleish. STS notes say "A new design was produced in 1989." but does not say which. No further details.</em></li>
+<li>1984 — Gleneagles Gold (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1269/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>By Dalgleish. STS notes say "A new design was produced in 1989." but does not say which. No further details.</em></li>
 </ul>
 </details>
 

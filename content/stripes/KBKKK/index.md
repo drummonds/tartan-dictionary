@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/k48db23k2~x2/">McTear's Auctioneers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k48db23k2~x2/"><img src="/variants/s3/k48db23k2~x2/sett.png" alt="McTear's Auctioneers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mctear-s-auctioneers/">McTear's Auctioneers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mctear-s-auctioneers/"><img src="/variants/s3/k48db23k2~x2/sett.png" alt="McTear's Auctioneers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

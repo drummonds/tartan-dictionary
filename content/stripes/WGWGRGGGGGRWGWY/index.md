@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/ly6lb5g4lb5r2dy5g2dy14g10dy1r30dy10lb14g5lb2~x2/">el Corte</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/ly6lb5g4lb5r2dy5g2dy14g10dy1r30dy10lb14g5lb2~x2/"><img src="/variants/s15/ly6lb5g4lb5r2dy5g2dy14g10dy1r30dy10lb14g5lb2~x2/sett.png" alt="el Corte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/el-corte/">el Corte</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/el-corte/"><img src="/variants/s15/ly6lb5g4lb5r2dy5g2dy14g10dy1r30dy10lb14g5lb2~x2/sett.png" alt="el Corte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

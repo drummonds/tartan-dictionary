@@ -8,10 +8,10 @@ crumbs:
 - name: "Cotswolds Distillery"
   url: "/tartans/c/co/cotswolds-distillery/"
 - name: "Cotswolds Distillery"
-  url: "/setts/k4lb12n3lb3n3lb4ly17lb15dy4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4lb12n3lb3n3lb4ly17lb15dy4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cotswolds-distillery/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWYWBWBWK](/stripes/gwywbwbwk/).
 
 Part of the [Cotswolds Distillery](/tartans/c/co/cotswolds-distillery/) tartan — the named design grouping this sett with its other cloths.

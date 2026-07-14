@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/b16y2b4y2b5k14g28y2g7/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgbkggg/">BGBGBKGGG</a></nav>
 Its design is pattern [BGBGBKGGG](/stripes/bgbgbkggg/) — the page of every tartan sharing this colour sequence.
 
 The **Marie Curie Fields of Hope** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Marie Curie Fields of Hope** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b16y2b4y2b5k14g28y2g7/">Marie Curie Fields of Hope</a></td><td><code>B/32 Y4 B8 Y4 B10 K28 G56 Y4 G/14</code></td><td>274</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b16y2b4y2b5k14g28y2g7/"><img src="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/sett.png" alt="Marie Curie Fields of Hope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/">Marie Curie Fields of Hope</a></td><td><code>B/32 Y4 B8 Y4 B10 K28 G56 Y4 G/14</code></td><td>274</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><img src="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/sett.png" alt="Marie Curie Fields of Hope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/t12lo1t2lo1t3k5g10lo1g2~x4/"><circle cx="225.6" cy="178.0" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="213.8" cy="176.2" r="4" fill="#3465a4"><title>Riley</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="209.5" cy="186.0" r="4" fill="#3465a4"><title>AIton</title></circle></a><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><circle cx="194.1" cy="140.7" r="4" fill="#3465a4"><title>Sardar Chadha</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="177.2" cy="176.5" r="4" fill="#3465a4"><title>Ednie</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16r4g16r2~x2/"><circle cx="190.1" cy="162.3" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s9/b22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="193.0" cy="193.8" r="4" fill="#3465a4"><title>Graden</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="192.9" cy="181.8" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14/"><circle cx="197.6" cy="166.9" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s8/g28r2k15db2k2db2k2db18~x2/"><circle cx="198.3" cy="152.0" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><circle cx="208.7" cy="165.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/t12lo1t2lo1t3k5g10lo1g2~x4/"><circle cx="226.0" cy="177.9" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="214.3" cy="176.1" r="4" fill="#3465a4"><title>Riley</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="209.9" cy="186.0" r="4" fill="#3465a4"><title>AIton</title></circle></a><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><circle cx="194.6" cy="140.6" r="4" fill="#3465a4"><title>Sardar Chadha</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="177.6" cy="176.4" r="4" fill="#3465a4"><title>Ednie</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16r4g16r2~x2/"><circle cx="190.5" cy="162.1" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s9/b22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="193.4" cy="193.6" r="4" fill="#3465a4"><title>Graden</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="193.4" cy="181.7" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14/"><circle cx="198.1" cy="166.9" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s8/g28r2k15db2k2db2k2db18~x2/"><circle cx="198.9" cy="151.9" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><circle cx="209.2" cy="165.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

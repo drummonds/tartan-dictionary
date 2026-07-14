@@ -8,10 +8,10 @@ crumbs:
 - name: "Torana"
   url: "/tartans/t/to/torana/"
 - name: "Torana"
-  url: "/setts/r13dt13o5lo2dt13lo13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r13dt13o5lo2dt13lo13/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/torana/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRYBY](/stripes/rbryby/).
 
 Part of the [Torana](/tartans/t/to/torana/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5748](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2008 — Torana (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5748">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Robert Melideo restoring a 1977 General Motors-Holden Torana motor car had this tartan re-created from a fabric sample. Sample repeat is approximately 4.5 inches. This threadcount has been increased by 25% to maintain this dimension with the slightly thinner yarn used in 15oz heavy weight cloth.</em></li>
-<li>2008 — Torana (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7778">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Robert Melideo restoring a 1977 GMH Torana had this tartan re-created from a fabric sample. Sample repeat is approximately 4.5 inches. This threadcount has been increased by 25% to maintain this dimension with the slightly thinner yarn used in 15oz heavy weight cloth.</em></li>
+<li>2008 — Torana (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7778/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Robert Melideo restoring a 1977 GMH Torana had this tartan re-created from a fabric sample. Sample repeat is approximately 4.5 inches. This threadcount has been increased by 25% to maintain this dimension with the slightly thinner yarn used in 15oz heavy weight cloth.</em></li>
 </ul>
 </details>
 

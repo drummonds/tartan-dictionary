@@ -8,10 +8,10 @@ crumbs:
 - name: "Hanson"
   url: "/tartans/h/ha/hanson/"
 - name: "Hanson (2016)"
-  url: "/setts/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hanson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWKBKBKBKW](/stripes/bkbkwkbkbkbkw/).
 
 Part of the [Hanson](/tartans/h/ha/hanson/) tartan — the named design grouping this sett with its other cloths.

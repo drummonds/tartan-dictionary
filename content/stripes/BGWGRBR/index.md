@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r80dr8r4dy4lb4dy45n8/">Isaia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r80dr8r4dy4lb4dy45n8/"><img src="/variants/s7/r80dr8r4dy4lb4dy45n8/sett.png" alt="Isaia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/isaia/">Isaia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isaia/"><img src="/variants/s7/r80dr8r4dy4lb4dy45n8/sett.png" alt="Isaia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

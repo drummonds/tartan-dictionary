@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/">Elystan Glodrydd (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/"><img src="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/sett.png" alt="Elystan Glodrydd (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elystan-glodrydd-3/">Elystan Glodrydd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elystan-glodrydd-3/"><img src="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/sett.png" alt="Elystan Glodrydd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

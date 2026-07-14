@@ -12,10 +12,10 @@ crumbs:
 - name: "Gracie"
   url: "/tartans/g/gr/gracie/"
 - name: "Gracie"
-  url: "/setts/g47r3g6db35y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g47r3g6db35y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/gracie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRG](/stripes/gbgrg/).
 
 Part of the [Gracie](/tartans/g/gr/gracie/) tartan — the named design grouping this sett with its other cloths.

@@ -12,15 +12,15 @@ crumbs:
 - name: "Kerr Hunting"
   url: "/tartans/k/ke/kerr-hunting/"
 - name: "Kerr Hunting"
-  url: "/setts/g16k2g2k2g4k10t19k2t2k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16k2g2k2g4k10t19k2t2k3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKGKGKGKBKBK](/stripes/bkbkgkgkgkgkgkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kerr-hunting/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGKGKBKBK](/stripes/gkgkgkbkbk/).
 
 Part of the [Kerr Hunting](/tartans/k/ke/kerr-hunting/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1955](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1955)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1955](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Kerr Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1955">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Lochcarron thread count reflects a more popular appearance</em></li>
-<li>pre 2002 — Kerr Htg (Clan?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=782">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>Lochcarron thread count reflects a more popular appearance.</em></li>
+<li>pre 2002 — Kerr Htg (Clan?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/782/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>Lochcarron thread count reflects a more popular appearance.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 782
 
 ## Thread count
-K/6 T4 K4 T38 K20 G8 K4 G4 K4 G32 K4 G4 K4 G8 K20 T38 K4 T/4
+G/32 K4 G4 K4 G8 K20 T38 K4 T4 K/6
 
-One full sett is **410 threads**.
+One full sett is **210 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/6 T4 K4 T38 K20 G8 K4 G4 K4 G32 K4 G4 K4 G8 K20 T38 K4 T/4 — 410 threads; it folds to the canonical 210-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **410 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 T4 K4 T38 K20 G8 K4 G4 K4 G32 K4 G4 K4 G8 K20 T38 K4 T/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/32 K4 G4 K4 G8 K20 T38 K4 T4 K/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

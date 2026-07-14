@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/">Robb Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/"><img src="/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/sett.png" alt="Robb Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robb-dress/">Robb Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robb-dress/"><img src="/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/sett.png" alt="Robb Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

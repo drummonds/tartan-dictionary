@@ -8,10 +8,10 @@ crumbs:
 - name: "Bon Accord"
   url: "/tartans/b/bo/bon-accord/"
 - name: "Bon Accord"
-  url: "/setts/r6w3r17db3r3db25r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6w3r17db3r3db25r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bon-accord/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRWR](/stripes/rbrbrwr/).
 
 Part of the [Bon Accord](/tartans/b/bo/bon-accord/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=307](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1995 — Bon Accord (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=307">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>Designed by Michael King of Philip King Ltd. A tartan for the City of Aberdeen. Approved by the City Council and launched at the Aberdeen Highland Games in June 1995.</em></li>
-<li>Apr. 1995 — Bon Accord (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2229">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>'Bon Accord' is the Aberdeen City motto and this tartan was designed by Michael King of Philip King Ltd. as the city's tartan. It was approved by the City council and launched at the Aberdeen Highland Games in June 1995.</em></li>
+<li>Apr. 1995 — Bon Accord (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2229/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><br><em>'Bon Accord' is the Aberdeen City motto and this tartan was designed by Michael King of Philip King Ltd. as the city's tartan. It was approved by the City council and launched at the Aberdeen Highland Games in June 1995.</em></li>
 </ul>
 </details>
 

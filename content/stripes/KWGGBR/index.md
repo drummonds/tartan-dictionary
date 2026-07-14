@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r48db16y5g17w8k3~x2/">Scottish American Society of Michigan (Official)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r48db16y5g17w8k3~x2/"><img src="/variants/s6/r48db16y5g17w8k3~x2/sett.png" alt="Scottish American Society of Michigan (Official) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-american-society-of-michigan/">Scottish American Society of Michigan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-american-society-of-michigan/"><img src="/variants/s6/r48db16y5g17w8k3~x2/sett.png" alt="Scottish American Society of Michigan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

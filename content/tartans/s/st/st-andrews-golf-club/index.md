@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r1g3t1g5k1g1k9db12w1/"
+- "/setts/w1db12k9dg1k1dg5lb1dg3lo1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgbgkgkbw/">RGBGKGKBW</a></nav>
 Its design is pattern [RGBGKGKBW](/stripes/rgbgkgkbw/) — the page of every tartan sharing this colour sequence.
 
 Designed by the club's Secretary and Chairman with House of Tartan; colours from the club crest.
@@ -15,10 +19,10 @@ The **St Andrews Golf Club** tartan groups 2 setts — the same named design rec
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r1g3t1g5k1g1k9db12w1/">St Andrews Golf Club</a> ★</td><td><code>R/4 G12 T4 G20 K4 G4 K36 DB48 W/4</code></td><td>264</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1g3t1g5k1g1k9db12w1/"><img src="/variants/s9/r1g3t1g5k1g1k9db12w1~x4~t2402222-db1004274/sett.png" alt="St Andrews Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w1db12k9dg1k1dg5lb1dg3lo1/">St. Andrews Golf Club (Corporate)</a></td><td><code>LO/4 DG12 LB4 DG20 K4 DG4 K36 DB48 W/4</code></td><td>264</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w1db12k9dg1k1dg5lb1dg3lo1/"><img src="w1db12k9dg1k1dg5lb1dg3lo1-rev.png" alt="St. Andrews Golf Club (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r1g3t1g5k1g1k9db12w1~x4~t2402222-db1004274/">St Andrews Golf Club</a> ★</td><td><code>R/4 G12 T4 G20 K4 G4 K36 DB48 W/4</code></td><td>264</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r1g3t1g5k1g1k9db12w1~x4~t2402222-db1004274/"><img src="/variants/s9/r1g3t1g5k1g1k9db12w1~x4~t2402222-db1004274/sett.png" alt="St Andrews Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w1db12k9dg1k1dg5lb1dg3lo1~x4/">St. Andrews Golf Club (Corporate)</a></td><td><code>W/4 DB48 K36 DG4 K4 DG20 LB4 DG12 LO/4</code></td><td>264</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w1db12k9dg1k1dg5lb1dg3lo1~x4/"><img src="w1db12k9dg1k1dg5lb1dg3lo1-rev.png" alt="St. Andrews Golf Club (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/"><circle cx="122.5" cy="133.4" r="4" fill="#3465a4"><title>Leung</title></circle></a><a href="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/"><circle cx="110.3" cy="130.3" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18dy2w3~x2/"><circle cx="102.0" cy="136.0" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s8/r2k8y1k8g13db13lo1r2~x2/"><circle cx="103.7" cy="148.2" r="4" fill="#3465a4"><title>Sey</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="115.2" cy="142.6" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s7/r3g2db27k19g27dp2y3~x2/"><circle cx="139.1" cy="150.9" r="4" fill="#3465a4"><title>Christian Hunting</title></circle></a><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/"><circle cx="121.1" cy="138.6" r="4" fill="#3465a4"><title>Big Rory</title></circle></a><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/"><circle cx="119.3" cy="121.9" r="4" fill="#3465a4"><title>Loch Freuchie</title></circle></a><a href="/variants/s8/k6w3k2db30r9k4g20dy3~x2/"><circle cx="137.9" cy="130.2" r="4" fill="#3465a4"><title>Minnesota</title></circle></a><a href="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/"><circle cx="98.5" cy="130.9" r="4" fill="#3465a4"><title>George</title></circle></a><circle cx="128.8" cy="132.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/"><circle cx="122.9" cy="133.2" r="4" fill="#3465a4"><title>Leung</title></circle></a><a href="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/"><circle cx="110.6" cy="130.0" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18dy2w3~x2/"><circle cx="102.3" cy="135.7" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s8/r2k8y1k8g13db13lo1r2~x2/"><circle cx="104.0" cy="147.9" r="4" fill="#3465a4"><title>Sey</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="115.4" cy="142.3" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s7/r3g2db27k19g27dp2y3~x2/"><circle cx="139.4" cy="150.6" r="4" fill="#3465a4"><title>Christian Hunting</title></circle></a><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/"><circle cx="121.5" cy="138.3" r="4" fill="#3465a4"><title>Big Rory</title></circle></a><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/"><circle cx="119.7" cy="121.7" r="4" fill="#3465a4"><title>Loch Freuchie</title></circle></a><a href="/variants/s8/k6w3k2db30r9k4g20dy3~x2/"><circle cx="138.4" cy="129.9" r="4" fill="#3465a4"><title>Minnesota</title></circle></a><a href="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/"><circle cx="98.8" cy="130.5" r="4" fill="#3465a4"><title>George</title></circle></a><circle cx="129.2" cy="132.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -12,10 +12,10 @@ crumbs:
 - name: "Baillie of Polkemett"
   url: "/tartans/b/ba/baillie-of-polkemett-2/"
 - name: "Baillie of Polkemett"
-  url: "/setts/w3db12k12r20g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3db12k12r20g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/baillie-of-polkemett-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKBW](/stripes/grkbw/).
 
 Part of the [Baillie of Polkemett](/tartans/b/ba/baillie-of-polkemett-2/) tartan — the named design grouping this sett with its other cloths.

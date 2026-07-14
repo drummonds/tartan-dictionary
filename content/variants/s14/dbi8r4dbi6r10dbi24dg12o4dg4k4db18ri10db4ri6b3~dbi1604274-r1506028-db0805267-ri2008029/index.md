@@ -12,10 +12,10 @@ crumbs:
 - name: "Hyndman"
   url: "/tartans/h/hy/hyndman/"
 - name: "Hyndman (Omagh)"
-  url: "/setts/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hy/hyndman/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBGRGKBRBRB](/stripes/brbrbgrgkbrbrb/).
 
 Part of the [Hyndman](/tartans/h/hy/hyndman/) tartan — the named design grouping this sett with its other cloths.

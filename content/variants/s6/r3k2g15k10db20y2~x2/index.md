@@ -12,10 +12,10 @@ crumbs:
 - name: "MacLeod of Assynt"
   url: "/tartans/m/ma/macleod-of-assynt/"
 - name: "MacLeod of Assynt Clan Tartan"
-  url: "/setts/r3k2g15k10db20y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k2g15k10db20y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macleod-of-assynt/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGKR](/stripes/gbkgkr/).
 
 Part of the [MacLeod of Assynt](/tartans/m/ma/macleod-of-assynt/) tartan — the named design grouping this sett with its other cloths.

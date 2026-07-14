@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/y3k2r9k1do8k1r2k1n8k1ni2k1n16k1ni12k4n2~x2~n1602305-ni2001240/">Golden Glow</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/y3k2r9k1do8k1r2k1n8k1ni2k1n16k1ni12k4n2~x2~n1602305-ni2001240/"><img src="/variants/s17/y3k2r9k1do8k1r2k1n8k1ni2k1n16k1ni12k4n2~x2~n1602305-ni2001240/sett.png" alt="Golden Glow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s17/y3k2r9k1dp8k1r2k1n8k1ni2k1n16k1ni12k4n2~x2~n2002249-ni2302249/">Golden Glow (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/y3k2r9k1dp8k1r2k1n8k1ni2k1n16k1ni12k4n2~x2~n2002249-ni2302249/"><img src="/variants/s17/y3k2r9k1dp8k1r2k1n8k1ni2k1n16k1ni12k4n2~x2~n2002249-ni2302249/sett.png" alt="Golden Glow (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/golden-glow/">Golden Glow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/golden-glow/"><img src="/variants/s17/y3k2r9k1do8k1r2k1n8k1ni2k1n16k1ni12k4n2~x2~n1602305-ni2001240/sett.png" alt="Golden Glow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

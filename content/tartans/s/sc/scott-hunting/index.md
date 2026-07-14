@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/scott/"
 - name: "Scott"
   url: "/families/scott/"
+aliases:
+- "/setts/r3dy26r3dy3lb2dy3r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgrgwgr/">RGRGWGR</a></nav>
 A tartan of the [Scott](/families/scott/) family.
 Its design is pattern [RGRGWGR](/stripes/rgrgwgr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Scott Hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3dy26r3dy3lb2dy3r3/">Scott Hunting</a></td><td><code>R/6 DY52 R6 DY6 LB4 DY6 R/6</code></td><td>160</td><td>~2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3dy26r3dy3lb2dy3r3/"><img src="/variants/s7/r3dy26r3dy3lb2dy3r3~x2/sett.png" alt="Scott Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3dy26r3dy3lb2dy3r3~x2/">Scott Hunting</a></td><td><code>R/6 DY52 R6 DY6 LB4 DY6 R/6</code></td><td>160</td><td>~2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3dy26r3dy3lb2dy3r3~x2/"><img src="/variants/s7/r3dy26r3dy3lb2dy3r3~x2/sett.png" alt="Scott Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/"><circle cx="502.8" cy="152.5" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="450.5" cy="125.6" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s8/dg48r4dg2r4dg6r2dg3r9~x2/"><circle cx="561.1" cy="149.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/"><circle cx="433.4" cy="83.1" r="4" fill="#3465a4"><title>Mead Hunting</title></circle></a><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="554.6" cy="147.5" r="4" fill="#3465a4"><title>University of Chicago</title></circle></a><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/"><circle cx="416.1" cy="210.7" r="4" fill="#3465a4"><title>Waverley Care Aids Trust</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="458.9" cy="186.1" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s5/r8dg3r4dg44w4~x2/"><circle cx="476.2" cy="172.6" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/variants/s5/lb15do15lb15do80r6/"><circle cx="455.1" cy="189.9" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><circle cx="507.6" cy="168.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/"><circle cx="504.1" cy="152.9" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="451.7" cy="126.0" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s8/dg48r4dg2r4dg6r2dg3r9~x2/"><circle cx="562.5" cy="150.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/"><circle cx="434.7" cy="83.4" r="4" fill="#3465a4"><title>Mead Hunting</title></circle></a><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="556.1" cy="148.0" r="4" fill="#3465a4"><title>University of Chicago</title></circle></a><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/"><circle cx="417.0" cy="211.0" r="4" fill="#3465a4"><title>Waverley Care Aids Trust</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="460.1" cy="186.4" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s5/r8dg3r4dg44w4~x2/"><circle cx="477.3" cy="173.0" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/variants/s5/lb15do15lb15do80r6/"><circle cx="456.2" cy="190.2" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><circle cx="508.8" cy="169.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

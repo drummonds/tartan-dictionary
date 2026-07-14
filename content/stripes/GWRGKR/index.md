@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r60k40y3o5lp3dg12~x2/">Rei Okamoto (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r60k40y3o5lp3dg12~x2/"><img src="/variants/s6/r60k40y3o5lp3dg12~x2/sett.png" alt="Rei Okamoto (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/rei-okamoto/">Rei Okamoto</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/rei-okamoto/"><img src="/variants/s6/r60k40y3o5lp3dg12~x2/sett.png" alt="Rei Okamoto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

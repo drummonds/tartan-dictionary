@@ -8,10 +8,10 @@ crumbs:
 - name: "Balmaha"
   url: "/tartans/b/ba/balmaha/"
 - name: "Balmaha"
-  url: "/setts/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/balmaha/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGKGKBKBKGGGG](/stripes/bwgkgkbkbkgggg/).
 
 Part of the [Balmaha](/tartans/b/ba/balmaha/) tartan — the named design grouping this sett with its other cloths.

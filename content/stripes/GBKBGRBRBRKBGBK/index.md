@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/">Lumsden Green</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/"><img src="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/sett.png" alt="Lumsden Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lu/lumsden-3/">Lumsden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/lumsden-3/"><img src="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/sett.png" alt="Lumsden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

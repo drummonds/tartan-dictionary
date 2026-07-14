@@ -8,15 +8,15 @@ crumbs:
 - name: "Royal Scottish Pipe Band Association"
   url: "/tartans/r/ro/royal-scottish-pipe-band-association-2/"
 - name: "Royal Scottish Pipe Band Association"
-  url: "/setts/k9r2g3r2k15r2g3r2t20k1lb6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k9r2g3r2k15r2g3r2t20k1lb6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-scottish-pipe-band-association-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKRGRKRGRBKW](/stripes/kkrgrkrgrbkw/).
 
 Part of the [Royal Scottish Pipe Band Association](/tartans/r/ro/royal-scottish-pipe-band-association-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3611](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3611)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2623
 
 ## Thread count
-LB/12 K2 T40 R4 G6 R4 K30 R4 G6 R4 K12 K/6
+K/18 R4 G6 R4 K30 R4 G6 R4 T40 K2 LR/12
 
-One full sett is **242 threads**.
+One full sett is **230 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/12 K2 T40 R4 G6 R4 K30 R4 G6 R4 K12 K/6 — 242 threads; it folds to the canonical 230-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **242 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/12 K2 T40 R4 G6 R4 K30 R4 G6 R4 K12 K/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/18 R4 G6 R4 K30 R4 G6 R4 T40 K2 LR/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

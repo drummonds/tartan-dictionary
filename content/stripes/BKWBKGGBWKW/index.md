@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/">Veere</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><img src="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/sett.png" alt="Veere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/ve/veere/">Veere</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/ve/veere/"><img src="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/sett.png" alt="Veere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

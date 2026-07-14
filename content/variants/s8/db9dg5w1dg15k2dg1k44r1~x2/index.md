@@ -8,10 +8,10 @@ crumbs:
 - name: "Ataç, H.M. & I.C."
   url: "/tartans/a/at/ata-h-m-i-c/"
 - name: "Ataç, H.M. & I.C. (Personal)"
-  url: "/setts/db9dg5w1dg15k2dg1k44r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db9dg5w1dg15k2dg1k44r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/at/ata-h-m-i-c/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGKGKR](/stripes/bgwgkgkr/).
 
 Part of the [Ataç, H.M. & I.C.](/tartans/a/at/ata-h-m-i-c/) tartan — the named design grouping this sett with its other cloths.

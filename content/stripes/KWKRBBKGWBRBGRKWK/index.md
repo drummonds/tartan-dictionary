@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/">Brinkie's Brae (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/"><img src="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/sett.png" alt="Brinkie's Brae (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brinkie-s-brae/">Brinkie's Brae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brinkie-s-brae/"><img src="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/sett.png" alt="Brinkie's Brae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

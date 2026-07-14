@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/">Einigkeit</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/"><img src="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/sett.png" alt="Einigkeit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ei/einigkeit/">Einigkeit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ei/einigkeit/"><img src="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/sett.png" alt="Einigkeit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

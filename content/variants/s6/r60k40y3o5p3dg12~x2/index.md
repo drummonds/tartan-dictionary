@@ -8,10 +8,10 @@ crumbs:
 - name: "Rei Okamoto"
   url: "/tartans/r/re/rei-okamoto/"
 - name: "Rei Okamoto (Personal)"
-  url: "/setts/r60k40y3o5p3dg12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r60k40y3o5p3dg12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/rei-okamoto/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRGKR](/stripes/gbrgkr/).
 
 Part of the [Rei Okamoto](/tartans/r/re/rei-okamoto/) tartan — the named design grouping this sett with its other cloths.

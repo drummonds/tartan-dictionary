@@ -12,10 +12,10 @@ crumbs:
 - name: "Brodie Dress"
   url: "/tartans/b/br/brodie-dress-2/"
 - name: "Brodie"
-  url: "/setts/k2r16k8y1k8r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2r16k8y1k8r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brodie-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKR](/stripes/krkgkr/).
 
 Part of the [Brodie Dress](/tartans/b/br/brodie-dress-2/) tartan — the named design grouping this sett with its other cloths.

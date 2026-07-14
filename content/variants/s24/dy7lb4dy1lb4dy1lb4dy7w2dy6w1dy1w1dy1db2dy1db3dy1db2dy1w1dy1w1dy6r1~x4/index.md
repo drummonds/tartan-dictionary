@@ -12,10 +12,10 @@ crumbs:
 - name: "Ottawa"
   url: "/tartans/o/ot/ottawa/"
 - name: "Ottawa District Tartan"
-  url: "/setts/dy7lb4dy1lb4dy1lb4dy7w2dy6w1dy1w1dy1db2dy1db3dy1db2dy1w1dy1w1dy6r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy7lb4dy1lb4dy1lb4dy7w2dy6w1dy1w1dy1db2dy1db3dy1db2dy1w1dy1w1dy6r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ot/ottawa/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWGWGWGWGBGBGBGWGWGR](/stripes/gwgwgwgwgwgwgbgbgbgwgwgr/).
 
 Part of the [Ottawa](/tartans/o/ot/ottawa/) tartan — the named design grouping this sett with its other cloths.

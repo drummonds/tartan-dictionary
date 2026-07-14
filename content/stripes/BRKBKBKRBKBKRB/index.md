@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/">Old Aberdeen Diamond Jubilee</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/"><img src="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/sett.png" alt="Old Aberdeen Diamond Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/old-aberdeen-diamond-jubilee/">Old Aberdeen Diamond Jubilee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/old-aberdeen-diamond-jubilee/"><img src="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/sett.png" alt="Old Aberdeen Diamond Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

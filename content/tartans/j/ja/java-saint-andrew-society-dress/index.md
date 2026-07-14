@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db50r26k9r4w2lo2r10/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brkrwyr/">BRKRWYR</a></nav>
 Its design is pattern [BRKRWYR](/stripes/brkrwyr/) — the page of every tartan sharing this colour sequence.
 
 The **Java Saint Andrew Society Dress** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Java Saint Andrew Society Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db50r26k9r4w2lo2r10/">Java Saint Andrew Society Dress</a></td><td><code>DB/100 R52 K18 R8 W4 LO4 R/20</code></td><td>292</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db50r26k9r4w2lo2r10/"><img src="/variants/s7/db50r26k9r4w2lo2r10~x2/sett.png" alt="Java Saint Andrew Society Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/">Java Saint Andrew Society Dress</a></td><td><code>DB/100 R52 K18 R8 W4 LO4 R/20</code></td><td>292</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><img src="/variants/s7/db50r26k9r4w2lo2r10~x2/sett.png" alt="Java Saint Andrew Society Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="338.2" cy="87.6" r="4" fill="#3465a4"><title>Knights Templar</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="230.0" cy="143.8" r="4" fill="#3465a4"><title>Americana</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x4/"><circle cx="285.0" cy="151.4" r="4" fill="#3465a4"><title>Robinson Dress Dress</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><circle cx="260.7" cy="96.5" r="4" fill="#3465a4"><title>Richardson</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="256.3" cy="129.9" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="355.1" cy="142.2" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="195.9" cy="108.0" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="201.5" cy="121.8" r="4" fill="#3465a4"><title>Caledon</title></circle></a><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="262.2" cy="111.8" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="312.3" cy="172.0" r="4" fill="#3465a4"><title>Galloway Dress</title></circle></a><circle cx="268.1" cy="106.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="339.3" cy="87.6" r="4" fill="#3465a4"><title>Knights Templar</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="230.7" cy="143.6" r="4" fill="#3465a4"><title>Americana</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x4/"><circle cx="285.8" cy="151.3" r="4" fill="#3465a4"><title>Robinson Dress Dress</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><circle cx="261.5" cy="96.4" r="4" fill="#3465a4"><title>Richardson</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="257.0" cy="129.8" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="356.1" cy="142.3" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="196.5" cy="107.7" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="202.2" cy="121.6" r="4" fill="#3465a4"><title>Caledon</title></circle></a><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="263.0" cy="111.6" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="313.0" cy="172.0" r="4" fill="#3465a4"><title>Galloway Dress</title></circle></a><circle cx="269.0" cy="106.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

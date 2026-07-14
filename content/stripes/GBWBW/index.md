@@ -28,11 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/y3db27w16dr27w3~x2/">Common Ground (Dress)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/y3db27w16dr27w3~x2/"><img src="/variants/s5/y3db27w16dr27w3~x2/sett.png" alt="Common Ground (Dress) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alloway-primary/">Alloway Primary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alloway-primary/"><img src="/variants/s5/lb30db1w4n10y18~x2/sett.png" alt="Alloway Primary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/lb9dt3lb1dt12y1~x4/">North Sea Commission</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><img src="/variants/s5/lb9dt3lb1dt12y1~x4/sett.png" alt="North Sea Commission sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/common-ground/">Common Ground</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/common-ground/"><img src="/variants/s5/y3db27w16dr27w3~x2/sett.png" alt="Common Ground sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/n/no/north-sea-commission/">North Sea Commission</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/north-sea-commission/"><img src="/variants/s5/lb9dt3lb1dt12y1~x4/sett.png" alt="North Sea Commission sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dp4db1n15db2n2db2n2db12dp2db2dp2db2dp14db1g4~x2/">Scottish-Shop Switzerland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dp4db1n15db2n2db2n2db12dp2db2dp2db2dp14db1g4~x2/"><img src="/variants/s15/dp4db1n15db2n2db2n2db12dp2db2dp2db2dp14db1g4~x2/sett.png" alt="Scottish-Shop Switzerland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-shop-switzerland/">Scottish-Shop Switzerland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-shop-switzerland/"><img src="/variants/s15/dp4db1n15db2n2db2n2db12dp2db2dp2db2dp14db1g4~x2/sett.png" alt="Scottish-Shop Switzerland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

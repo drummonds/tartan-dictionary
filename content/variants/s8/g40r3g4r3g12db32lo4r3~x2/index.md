@@ -8,10 +8,10 @@ crumbs:
 - name: "US Marine Corps"
   url: "/tartans/u/us/us-marine-corps/"
 - name: "US Marine Corps"
-  url: "/setts/g40r3g4r3g12db32lo4r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g40r3g4r3g12db32lo4r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/us/us-marine-corps/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGBYR](/stripes/grgrgbyr/).
 
 Part of the [US Marine Corps](/tartans/u/us/us-marine-corps/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Drummond"
   url: "/tartans/d/dr/drummond/"
 - name: "Drummond, Grey (Clans Originaux)"
-  url: "/setts/k5w3k3lb10w3k3w2k6w1k15w3k3w2k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5w3k3lb10w3k3w2k6w1k15w3k3w2k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/dr/drummond/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWWKWK](/stripes/kwkwkwkwkwwkwk/).
 
 Part of the [Drummond](/tartans/d/dr/drummond/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=994](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1880 — Drummond, Grey (Clans Originaux) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=994">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>This count is not guaranteed as accurate since it is taken from a photograph of the Drummond Grey in the Clans Originaux pattern book of 1880. The Drummond Grey shown at #1125 (original Scottish Tartans Authority reference) now regarded as being inaccurate.</em></li>
-<li>1880 — Drummond, Grey (Clans Originaux) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6290">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>This count is not guaranteed as accurate since it is taken from a photograph of the Drummond Grey in the Clans Originaux pattern book of 1880. The Drummond Grey shown at #1125 now regarded as being inaccurate.</em></li>
+<li>1880 — Drummond, Grey (Clans Originaux) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6290/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>This count is not guaranteed as accurate since it is taken from a photograph of the Drummond Grey in the Clans Originaux pattern book of 1880. The Drummond Grey shown at #1125 now regarded as being inaccurate.</em></li>
 </ul>
 </details>
 

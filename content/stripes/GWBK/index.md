@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k62db15w6y4~x2/">C-Tec N.I. Ltd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k62db15w6y4~x2/"><img src="/variants/s4/k62db15w6y4~x2/sett.png" alt="C-Tec N.I. Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/c/c-tec-n-i-ltd/">C-Tec N.I. Ltd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/c/c-tec-n-i-ltd/"><img src="/variants/s4/k62db15w6y4~x2/sett.png" alt="C-Tec N.I. Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/k11dp4lb1g9~x4/">Wilson's, No 228</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k11dp4lb1g9~x4/"><img src="/variants/s4/k11dp4lb1g9~x4/sett.png" alt="Wilson's, No 228 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-228-3/">Wilson's, No 228</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-228-3/"><img src="/variants/s4/k11dp4lb1g9~x4/sett.png" alt="Wilson's, No 228 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

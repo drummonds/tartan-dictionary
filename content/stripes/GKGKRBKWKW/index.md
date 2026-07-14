@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/">Murray-Hetherington (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><img src="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/sett.png" alt="Murray-Hetherington (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-hetherington/">Murray-Hetherington</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-hetherington/"><img src="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/sett.png" alt="Murray-Hetherington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

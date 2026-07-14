@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/">Moran Family Ubique</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/"><img src="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/sett.png" alt="Moran Family Ubique sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moran-family-ubique/">Moran Family Ubique</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moran-family-ubique/"><img src="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/sett.png" alt="Moran Family Ubique sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

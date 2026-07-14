@@ -8,10 +8,10 @@ crumbs:
 - name: "Cleghorn"
   url: "/tartans/c/cl/cleghorn/"
 - name: "Cleghorn (Personal)"
-  url: "/setts/g8r3g30k8w3k36w8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8r3g30k8w3k36w8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cl/cleghorn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKWKW](/stripes/grgkwkw/).
 
 Part of the [Cleghorn](/tartans/c/cl/cleghorn/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=671](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Cleghorn (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=671">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0F0F0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F0F0F0"></span><br><em>No details.</em></li>
-<li>pre 2002 — Cleghorn (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4144">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0F0F0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F0F0F0"></span><br><em>No details but assumed to be 'Personal' since D C Dalgliesh specialised in short runs of special tartans.</em></li>
+<li>pre 2002 — Cleghorn (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4144/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0F0F0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F0F0F0"></span><br><em>No details but assumed to be 'Personal' since D C Dalgliesh specialised in short runs of special tartans.</em></li>
 </ul>
 </details>
 

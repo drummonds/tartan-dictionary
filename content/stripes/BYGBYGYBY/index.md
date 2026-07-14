@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/">Land's End Camel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/"><img src="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/sett.png" alt="Land's End Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/land-s-end-camel/">Land's End Camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/land-s-end-camel/"><img src="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/sett.png" alt="Land's End Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

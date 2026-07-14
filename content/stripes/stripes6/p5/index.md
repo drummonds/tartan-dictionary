@@ -6,13 +6,6 @@ weight: 6
 1,378 setts across 1,307 tartans with 6 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes6/p4/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <a href="/stripes/stripes6/p3/">3</a> <a href="/stripes/stripes6/p4/">4</a> <strong>5</strong> </nav>
 
-### KGWKWR
-<a class="pat" href="/stripes/kgwkwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">KGWKWR</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.05 | [Loch Ness Trade Tartan](/variants/s6/r10w2k10w10dy35k5~x2/) | house-of-tartan |
-
 ### KGYKRK
 <a class="pat" href="/stripes/kgykrk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">KGYKRK</span></a>
 
@@ -40,13 +33,6 @@ weight: 6
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.05 | [Connell (Personal?)](/variants/s6/r2g2r1g12r3k1~x4/) | tartans-authority |
-
-### KRGRKR
-<a class="pat" href="/stripes/krgrkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">KRGRKR</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.05 | [Macan, of Lurgyvallan (Hose)](/variants/s4/r10k1r4g6~x2/) | weddslist |
 
 ### KRGYBW
 <a class="pat" href="/stripes/krgybw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KRGYBW</span></a>
@@ -82,6 +68,13 @@ weight: 6
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.06 | [Dutch Dress](/variants/s6/r2w12y1k12o12k1~x2/) | register-of-tartans |
+
+### KRKR
+<a class="pat" href="/stripes/krkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">KRKR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.01 | [Ewing](/variants/s4/k23r3k1r12~x4/) | register-of-tartans |
 
 ### KRKRBW
 <a class="pat" href="/stripes/krkrbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KRKRBW</span></a>
@@ -237,8 +230,8 @@ weight: 6
 |---|---|---|
 | 0.10 | [Dahlonega (District)](/variants/s6/r5g18y2k14lb5k4~x2/) | tartans-authority |
 
-### KWKRKW
-<a class="pat" href="/stripes/kwkrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KWKRKW</span></a>
+### KWKR
+<a class="pat" href="/stripes/kwkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">KWKR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
@@ -250,6 +243,13 @@ weight: 6
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.03 | [Ramsay Red Clan Tartan](/variants/s6/ri5r2ri30k28w2k4~x2~ri2109032-r1807008/) | house-of-tartan |
+
+### KWKW
+<a class="pat" href="/stripes/kwkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KWKW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.00 | [Wallace Dress](/variants/s4/k7w6k1w6~x4/) | register-of-tartans |
 
 ### KWKWGW
 <a class="pat" href="/stripes/kwkwgw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KWKWGW</span></a>
@@ -313,6 +313,13 @@ weight: 6
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.06 | [Dutch Dress District Tartan](/variants/s6/r2w12lb1k12lo12k1~x2/) | house-of-tartan |
+
+### KYKY
+<a class="pat" href="/stripes/kyky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KYKY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Justus #2 (Personal)](/variants/s4/k5lo1k1lo1~x20/) | register-of-tartans |
 
 ### KYKYKR
 <a class="pat" href="/stripes/kykykr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">KYKYKR</span></a>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/">MX-5 Owners' Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><img src="/variants/s7/r6db27lb2g2lb2g30w4~x2/sett.png" alt="MX-5 Owners' Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mx/mx-5-owners-club/">MX-5 Owners' Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mx/mx-5-owners-club/"><img src="/variants/s7/r6db27lb2g2lb2g30w4~x2/sett.png" alt="MX-5 Owners' Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Robertson D"
   url: "/tartans/r/ro/robertson-d/"
 - name: "Robertson D"
-  url: "/setts/r5g2r30db3r3db30r3g30r3db3r30g2r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5g2r30db3r3db30r3g30r3db3r30g2r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robertson-d/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRBRGRBRGR](/stripes/rgrbrbrgrbrgr/).
 
 Part of the [Robertson D](/tartans/r/ro/robertson-d/) tartan — the named design grouping this sett with its other cloths.

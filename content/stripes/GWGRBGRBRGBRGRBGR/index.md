@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/">Stirling Weavers Guild Artifact Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/"><img src="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/sett.png" alt="Stirling Weavers Guild Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stirling-weavers-guild/">Stirling Weavers Guild</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stirling-weavers-guild/"><img src="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/sett.png" alt="Stirling Weavers Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

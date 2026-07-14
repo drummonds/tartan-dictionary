@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w3dr30dg3db3dr3dy3db8lb3dy3db3w3~x2/">Lansdowne Course, Blairgowrie Golf Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w3dr30dg3db3dr3dy3db8lb3dy3db3w3~x2/"><img src="/variants/s11/w3dr30dg3db3dr3dy3db8lb3dy3db3w3~x2/sett.png" alt="Lansdowne Course, Blairgowrie Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lansdowne-course-blairgowrie-golf-club/">Lansdowne Course, Blairgowrie Golf Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lansdowne-course-blairgowrie-golf-club/"><img src="/variants/s11/w3dr30dg3db3dr3dy3db8lb3dy3db3w3~x2/sett.png" alt="Lansdowne Course, Blairgowrie Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

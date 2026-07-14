@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k14w4k8y45w3k1y2~x2/">Kernow Spirit (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k14w4k8y45w3k1y2~x2/"><img src="/variants/s7/k14w4k8y45w3k1y2~x2/sett.png" alt="Kernow Spirit (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kernow-spirit/">Kernow Spirit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kernow-spirit/"><img src="/variants/s7/k14w4k8y45w3k1y2~x2/sett.png" alt="Kernow Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

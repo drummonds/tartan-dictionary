@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r62db8w20k3g4~x2/">Nicolson Dress (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r62db8w20k3g4~x2/"><img src="/variants/s5/r62db8w20k3g4~x2/sett.png" alt="Nicolson Dress (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ni/nicolson-dress/">Nicolson Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nicolson-dress/"><img src="/variants/s5/r62db8w20k3g4~x2/sett.png" alt="Nicolson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/dy12k4w2n6r3~x2/">Strathblane (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dy12k4w2n6r3~x2/"><img src="/variants/s5/dy12k4w2n6r3~x2/sett.png" alt="Strathblane (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathblane-2/">Strathblane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathblane-2/"><img src="/variants/s5/dy12k4w2n6r3~x2/sett.png" alt="Strathblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

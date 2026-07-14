@@ -10,17 +10,17 @@ crumbs:
 - name: "Kozlosky"
   url: "/families/kozlosky/"
 - name: "Kozlosky"
-  url: "/tartans/k/ko/kozlosky/"
+  url: "/tartans/k/ko/kozlosky-2/"
 - name: "Kozlosky (Personal)"
-  url: "/setts/dy21ri8r14dy6ri3r10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy21ri8r14dy6ri3r10/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RGRRGRRGRR](/stripes/rgrrgrrgrr/).
+provenance below. It is one weaving of the [sett](/tartans/k/ko/kozlosky-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRRGRR](/stripes/grrgrr/).
 
-Part of the [Kozlosky](/tartans/k/ko/kozlosky/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kozlosky](/tartans/k/ko/kozlosky-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2014](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2014)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2014](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1980 — Kozlosky (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2014">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>Based on a curtain fabric and apparently designed by Gordon Teall for Joespeh (sic) Kozlosky who is said to have worn it as a kilt. He later gifted it to the Scottish Tartans Society but some time after that asked for its return. This was refused apparently on the grounds that such a vital part of Scotland's cultural heritage should remain in the country. Further note in Scottish Tartans Society records say: Note: LR (pink) should be pinker - possibly fluorescent. Fabric is fireproof cotton.</em></li>
-<li>pre 2002 — Kozlosky (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2046">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Said to have been a joke perpetrated by Dr Gordon Teal (STS) and friends at Stone Mountain Games in Georgie in response to a Mr Kozlosky enquiring as to the existance of a tartan for his name. Some fire-rpoof cotton fabric was hastily acquired from the nearby town and fashioned into a kilt which Mr Kozlosky apparently wore and later donated to the STS. Some time after he asked for its return which was refused on the grounds that such a vital part of Scotland's cultural heritage should remain in the country. Further note in STS records say: "Note: LR (pink) should be pinker - possibly fluorescent. Fabric is fireproof cotton."</em></li>
+<li>pre 2002 — Kozlosky (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2046/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Said to have been a joke perpetrated by Dr Gordon Teal (STS) and friends at Stone Mountain Games in Georgie in response to a Mr Kozlosky enquiring as to the existance of a tartan for his name. Some fire-rpoof cotton fabric was hastily acquired from the nearby town and fashioned into a kilt which Mr Kozlosky apparently wore and later donated to the STS. Some time after he asked for its return which was refused on the grounds that such a vital part of Scotland's cultural heritage should remain in the country. Further note in STS records say: "Note: LR (pink) should be pinker - possibly fluorescent. Fabric is fireproof cotton."</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2046
 
 ## Thread count
-R/20 Ri6 DY12 R28 Ri16 DY42 Ri16 R28 DY12 Ri/6
+DY/42 Ri16 R28 DY12 Ri6 R/20
 
-One full sett is **346 threads**.
+One full sett is **186 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/20 Ri6 DY12 R28 Ri16 DY42 Ri16 R28 DY12 Ri/6 — 346 threads; it folds to the canonical 186-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **346 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/20 Ri6 DY12 R28 Ri16 DY42 Ri16 R28 DY12 Ri/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/42 Ri16 R28 DY12 Ri6 R/20 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

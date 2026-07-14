@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg4lb2db18r2k4r6lb1w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwbrkrww/">GWBRKRWW</a></nav>
 Its design is pattern [GWBRKRWW](/stripes/gwbrkrww/) — the page of every tartan sharing this colour sequence.
 
 The **Glenn** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Glenn** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg4lb2db18r2k4r6lb1w1/">Glenn</a></td><td><code>DG/16 LB8 DB72 R8 K16 R24 LB4 W/4</code></td><td>284</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg4lb2db18r2k4r6lb1w1/"><img src="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/sett.png" alt="Glenn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/">Glenn</a></td><td><code>DG/16 LB8 DB72 R8 K16 R24 LB4 W/4</code></td><td>284</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><img src="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/sett.png" alt="Glenn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="262.8" cy="74.5" r="4" fill="#3465a4"><title>Stewart Blue MINI</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="234.5" cy="105.6" r="4" fill="#3465a4"><title>U.S. Forces Thurso</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="142.6" cy="140.8" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="159.0" cy="118.2" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><circle cx="154.4" cy="122.1" r="4" fill="#3465a4"><title>US Forces Regimental</title></circle></a><a href="/variants/s7/db35r2k16y2b25w2b6~x2/"><circle cx="186.9" cy="135.2" r="4" fill="#3465a4"><title>Unidentified 7</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="164.3" cy="122.5" r="4" fill="#3465a4"><title>Arundel County</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><circle cx="190.0" cy="120.3" r="4" fill="#3465a4"><title>Scottish Association for N.S.</title></circle></a><a href="/variants/s9/db1w2t12k2db2k2dp15db2y1~x2/"><circle cx="170.2" cy="123.5" r="4" fill="#3465a4"><title>Hek</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="201.3" cy="76.6" r="4" fill="#3465a4"><title>Sidey Dress</title></circle></a><circle cx="195.9" cy="108.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="263.8" cy="74.4" r="4" fill="#3465a4"><title>Stewart Blue MINI</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="235.3" cy="105.5" r="4" fill="#3465a4"><title>U.S. Forces Thurso</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="143.1" cy="140.5" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="159.6" cy="117.9" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><circle cx="154.9" cy="121.8" r="4" fill="#3465a4"><title>US Forces Regimental</title></circle></a><a href="/variants/s7/db35r2k16y2b25w2b6~x2/"><circle cx="187.4" cy="135.0" r="4" fill="#3465a4"><title>Unidentified 7</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="164.9" cy="122.3" r="4" fill="#3465a4"><title>Arundel County</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><circle cx="190.5" cy="120.1" r="4" fill="#3465a4"><title>Scottish Association for N.S.</title></circle></a><a href="/variants/s9/db1w2t12k2db2k2dp15db2y1~x2/"><circle cx="170.6" cy="123.2" r="4" fill="#3465a4"><title>Hek</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="202.1" cy="76.4" r="4" fill="#3465a4"><title>Sidey Dress</title></circle></a><circle cx="196.5" cy="107.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

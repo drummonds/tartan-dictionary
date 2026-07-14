@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db6r8db1r2y5r5db5r5y1r2db1r2db1r6~x2/">Munro (Culloden)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db6r8db1r2y5r5db5r5y1r2db1r2db1r6~x2/"><img src="/variants/s14/db6r8db1r2y5r5db5r5y1r2db1r2db1r6~x2/sett.png" alt="Munro (Culloden) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/">Munro Old Artifact Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/"><img src="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/sett.png" alt="Munro Old Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/munro-3/">Munro</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/munro-3/"><img src="/variants/s14/db6r8db1r2y5r5db5r5y1r2db1r2db1r6~x2/sett.png" alt="Munro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/munro-old/">Munro Old</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/munro-old/"><img src="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/sett.png" alt="Munro Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

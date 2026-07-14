@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k3g18do3g3do3g3do18dy3do3dy3do3dy12db2dy12do9dy12g2db2~x2/">Van Ingelgem Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k3g18do3g3do3g3do18dy3do3dy3do3dy12db2dy12do9dy12g2db2~x2/"><img src="/variants/s18/k3g18do3g3do3g3do18dy3do3dy3do3dy12db2dy12do9dy12g2db2~x2/sett.png" alt="Van Ingelgem Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/van-ingelgem-hunting/">Van Ingelgem Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/van-ingelgem-hunting/"><img src="/variants/s18/k3g18do3g3do3g3do18dy3do3dy3do3dy12db2dy12do9dy12g2db2~x2/sett.png" alt="Van Ingelgem Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

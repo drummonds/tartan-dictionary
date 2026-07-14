@@ -21,8 +21,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/k4y2k27y2k8y31k2y4~x2/"><img src="/variants/s8/k4y2k27y2k8y31k2y4~x2/sett.png" alt="Watertown Library Assoc." width="140"><br>Watertown Library Assoc.</a></li>
 <li><a class="tartan" href="/variants/s6/dr8g2dr2k1dr1g2~x10/"><img src="/variants/s6/dr8g2dr2k1dr1g2~x10/sett.png" alt="Waverley Care Aids Trust" width="140"><br>Waverley Care Aids Trust</a></li>
 <li><a class="tartan" href="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/"><img src="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/sett.png" alt="Waverley Check" width="140"><br>Waverley Check</a></li>
-<li><a class="tartan" href="/variants/s8/k1db24r1lo1y1g1dbi1dp1~x7~db0906265-dbi1208266/"><img src="/variants/s8/k1db24r1lo1y1g1dbi1dp1~x7~db0906265-dbi1208266/sett.png" alt="Way of the Rainbow" width="140"><br>Way of the Rainbow</a></li>
 <li><a class="tartan" href="/variants/s8/k1db24r1dy1ly1g1dbi1lp1~x7~db1204274-dbi1706275/"><img src="/variants/s8/k1db24r1dy1ly1g1dbi1lp1~x7~db1204274-dbi1706275/sett.png" alt="Way of the Rainbow" width="140"><br>Way of the Rainbow</a></li>
+<li><a class="tartan" href="/variants/s8/k1db24r1lo1y1g1dbi1dp1~x7~db0906265-dbi1208266/"><img src="/variants/s8/k1db24r1lo1y1g1dbi1dp1~x7~db0906265-dbi1208266/sett.png" alt="Way of the Rainbow" width="140"><br>Way of the Rainbow</a></li>
 <li><a class="tartan" href="/variants/s7/o32w2o9lyi2o12ly21r1~x2~lyi3407090-ly2503076/"><img src="/variants/s7/o32w2o9lyi2o12ly21r1~x2~lyi3407090-ly2503076/sett.png" alt="Weathered Cyclist (Corporate)" width="140"><br>Weathered Cyclist (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s11/w3n30dg3db3dr3dy3db8n3dy3db3w3~x2/"><img src="/variants/s11/w3n30dg3db3dr3dy3db8n3dy3db3w3~x2/sett.png" alt="Wee Course, Blairgowrie Golf Club, The" width="140"><br>Wee Course, Blairgowrie Golf Club, The</a></li>
 <li><a class="tartan" href="/variants/s4/db80w1lo8w3~x2/"><img src="/variants/s4/db80w1lo8w3~x2/sett.png" alt="Weir Minerals" width="140"><br>Weir Minerals</a></li>
@@ -48,8 +48,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/r2k1r2k14w1k1w1~x8/"><img src="/variants/s7/r2k1r2k14w1k1w1~x8/sett.png" alt="White Stripes Hunting" width="140"><br>White Stripes Hunting</a></li>
 <li><a class="tartan" href="/variants/s7/k7w3k7w45r3w3r3~x2/"><img src="/variants/s7/k7w3k7w45r3w3r3~x2/sett.png" alt="White Stripes, The" width="140"><br>White Stripes, The</a></li>
 <li><a class="tartan" href="/variants/s6/n9k16dg10k22dp67y4/"><img src="/variants/s6/n9k16dg10k22dp67y4/sett.png" alt="Widows Sons Scotland (MRA)" width="140"><br>Widows Sons Scotland (MRA)</a></li>
-<li><a class="tartan" href="/variants/s6/lb12g16k12g24dp75y4/"><img src="/variants/s6/lb12g16k12g24dp75y4/sett.png" alt="Widows Sons Scotland Dress" width="140"><br>Widows Sons Scotland Dress</a></li>
 <li><a class="tartan" href="/variants/s6/lb12g12k12g24dp75ly4/"><img src="/variants/s6/lb12g12k12g24dp75ly4/sett.png" alt="Widows Sons Scotland Dress" width="140"><br>Widows Sons Scotland Dress</a></li>
+<li><a class="tartan" href="/variants/s6/lb12g16k12g24dp75y4/"><img src="/variants/s6/lb12g16k12g24dp75y4/sett.png" alt="Widows Sons Scotland Dress" width="140"><br>Widows Sons Scotland Dress</a></li>
 <li><a class="tartan" href="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/"><img src="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/sett.png" alt="Wilbers" width="140"><br>Wilbers</a></li>
 <li><a class="tartan" href="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5~x2/"><img src="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5~x2/sett.png" alt="Wild Geese (Corporate)" width="140"><br>Wild Geese (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><img src="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/sett.png" alt="Wild Highlanders" width="140"><br>Wild Highlanders</a></li>

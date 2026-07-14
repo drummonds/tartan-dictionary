@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3~x2~dt1500000-y2301120/">Bartlett, Chris (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3~x2~dt1500000-y2301120/"><img src="/variants/s13/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3~x2~dt1500000-y2301120/sett.png" alt="Bartlett, Chris (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bartlett-chris/">Bartlett, Chris</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bartlett-chris/"><img src="/variants/s13/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3~x2~dt1500000-y2301120/sett.png" alt="Bartlett, Chris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

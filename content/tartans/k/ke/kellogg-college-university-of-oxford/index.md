@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r21db61y8w21/"
+- "/setts/r21db61dy8w21/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbgw/">RBGW</a></nav>
 Its design is pattern [RBGW](/stripes/rbgw/) — the page of every tartan sharing this colour sequence.
 
 The **Kellogg College University of Oxford** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Kellogg College University of Oxford** tartan groups 2 setts — the same 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r21db61y8w21/">Kellogg College University of Oxford</a> ★</td><td><code>R/42 DB122 Y16 W/42</code></td><td>360</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r21db61y8w21/"><img src="/variants/s4/r21db61y8w21~x2/sett.png" alt="Kellogg College University of Oxford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r21db61dy8w21/">Kellogg College University of Oxford</a></td><td><code>R/42 DB122 DY16 W/42</code></td><td>360</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r21db61dy8w21/"><img src="/variants/s4/r21db61dy8w21~x2/sett.png" alt="Kellogg College University of Oxford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r21db61y8w21~x2/">Kellogg College University of Oxford</a> ★</td><td><code>R/42 DB122 Y16 W/42</code></td><td>360</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r21db61y8w21~x2/"><img src="/variants/s4/r21db61y8w21~x2/sett.png" alt="Kellogg College University of Oxford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r21db61dy8w21~x2/">Kellogg College University of Oxford</a></td><td><code>R/42 DB122 DY16 W/42</code></td><td>360</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r21db61dy8w21~x2/"><img src="/variants/s4/r21db61dy8w21~x2/sett.png" alt="Kellogg College University of Oxford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="172.8" cy="205.7" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s4/db8k3r4y1~x2/"><circle cx="226.7" cy="224.6" r="4" fill="#3465a4"><title>Unidentified 27</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="300.5" cy="189.0" r="4" fill="#3465a4"><title>Mirror</title></circle></a><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="184.3" cy="255.6" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="198.3" cy="276.3" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="199.5" cy="207.7" r="4" fill="#3465a4"><title>MacRae Dress</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="313.2" cy="254.0" r="4" fill="#3465a4"><title>Fong</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="205.2" cy="273.6" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="195.8" cy="244.0" r="4" fill="#3465a4"><title>Common Ground</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.6" cy="221.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="258.2" cy="232.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="173.2" cy="205.6" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s4/db8k3r4y1~x2/"><circle cx="227.2" cy="224.5" r="4" fill="#3465a4"><title>Unidentified 27</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="301.3" cy="189.1" r="4" fill="#3465a4"><title>Mirror</title></circle></a><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="184.6" cy="255.4" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="198.5" cy="276.2" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="200.0" cy="207.6" r="4" fill="#3465a4"><title>MacRae Dress</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="313.6" cy="254.1" r="4" fill="#3465a4"><title>Fong</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="205.5" cy="273.5" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="196.0" cy="243.8" r="4" fill="#3465a4"><title>Common Ground</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.8" cy="221.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="258.7" cy="232.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

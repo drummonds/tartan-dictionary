@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg8k8dg8y6k3y6~x2/">Hage-West (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg8k8dg8y6k3y6~x2/"><img src="/variants/s6/dg8k8dg8y6k3y6~x2/sett.png" alt="Hage-West (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hage-west/">Hage-West</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hage-west/"><img src="/variants/s6/dg8k8dg8y6k3y6~x2/sett.png" alt="Hage-West sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

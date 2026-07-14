@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db2lb4w1lb4db6lb2db2~x4/">Langdons</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db2lb4w1lb4db6lb2db2~x4/"><img src="/variants/s7/db2lb4w1lb4db6lb2db2~x4/sett.png" alt="Langdons sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/t2lb4w1lb4t6lb2t2~x4~t2004245-lb3203246/">Langdons (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t2lb4w1lb4t6lb2t2~x4~t2004245-lb3203246/"><img src="/variants/s7/t2lb4w1lb4t6lb2t2~x4~t2004245-lb3203246/sett.png" alt="Langdons (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/langdons/">Langdons</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/langdons/"><img src="/variants/s7/db2lb4w1lb4db6lb2db2~x4/sett.png" alt="Langdons sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

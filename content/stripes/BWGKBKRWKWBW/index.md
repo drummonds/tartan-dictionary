@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db10w1g10k40n8k40r10w1k10w1n10w1~x2/">EthosEnergy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db10w1g10k40n8k40r10w1k10w1n10w1~x2/"><img src="/variants/s12/db10w1g10k40n8k40r10w1k10w1n10w1~x2/sett.png" alt="EthosEnergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/et/ethosenergy/">EthosEnergy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/et/ethosenergy/"><img src="/variants/s12/db10w1g10k40n8k40r10w1k10w1n10w1~x2/sett.png" alt="EthosEnergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

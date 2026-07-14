@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/">Macdonald of Rossie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/"><img src="/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/sett.png" alt="Macdonald of Rossie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-rossie/">Macdonald of Rossie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-rossie/"><img src="/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/sett.png" alt="Macdonald of Rossie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

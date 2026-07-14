@@ -8,15 +8,15 @@ crumbs:
 - name: "Kilbarchan Unidentified No. 2"
   url: "/tartans/k/ki/kilbarchan-unidentified-no-2/"
 - name: "Kilbarchan Unidentified No. 2"
-  url: "/setts/r3k1lb14k13g14y3g14k14w4lb4w23lb1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k1lb14k13g14y3g14k14w4lb4w23lb1r3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWWWWKGGGKWKRKWKGGGKWWWW](/stripes/rwwwwkgggkwkrkwkgggkwwww/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kilbarchan-unidentified-no-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKWKGGGKWWWWR](/stripes/rkwkgggkwwwwr/).
 
 Part of the [Kilbarchan Unidentified No. 2](/tartans/k/ki/kilbarchan-unidentified-no-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1961](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1961)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5951
 
 ## Thread count
-R/6 LB2 W46 LB8 W8 K28 G28 Y6 G28 K26 LB28 K2 R6 K2 LB28 K26 G28 Y6 G28 K28 W8 LB8 W46 LB/2
+R/6 K2 LB28 K26 G28 Y6 G28 K28 W8 LB8 W46 LB2 R/6
 
-One full sett is **856 threads**.
+One full sett is **432 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/6 LB2 W46 LB8 W8 K28 G28 Y6 G28 K26 LB28 K2 R6 K2 LB28 K26 G28 Y6 G28 K28 W8 LB8 W46 LB/2 — 856 threads; it folds to the canonical 432-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **856 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 LB2 W46 LB8 W8 K28 G28 Y6 G28 K26 LB28 K2 R6 K2 LB28 K26 G28 Y6 G28 K28 W8 LB8 W46 LB/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 K2 LB28 K26 G28 Y6 G28 K28 W8 LB8 W46 LB2 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

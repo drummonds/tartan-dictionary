@@ -10,10 +10,10 @@ crumbs:
 - name: "Laval Dress, Tartan de"
   url: "/tartans/l/la/laval-dress-tartan-de/"
 - name: "Laval Dress, Tartan de"
-  url: "/setts/db2lb2db7dr8lb10db2lb2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2lb2db7dr8lb10db2lb2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/laval-dress-tartan-de/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBWBWB](/stripes/bwbbwbwb/).
 
 Part of the [Laval Dress, Tartan de](/tartans/l/la/laval-dress-tartan-de/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2063](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1988 — Laval Dress, Tartan de (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2063">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#680028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #680028"></span><br><em>See note on the Laval tartan. In an attempt to find a translation of the English word `Dress' as in Dress Tartan, the designers suggested that this sett be known as `Tartan de La Ville de Laval - Gala'. See Laval (previous record)</em></li>
-<li>1988 — Laval Dress, Tartan de (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2121">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#680028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #680028"></span><br><em>See note on the Laval tartan. In an attempt to find a translation of the English word `Dress' as in Dress Tartan, the designers suggested that this sett be known as `Tartan de La Ville de Laval - Gala'. See Laval (2020)</em></li>
+<li>1988 — Laval Dress, Tartan de (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2121/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#680028;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WR #680028"></span><br><em>See note on the Laval tartan. In an attempt to find a translation of the English word `Dress' as in Dress Tartan, the designers suggested that this sett be known as `Tartan de La Ville de Laval - Gala'. See Laval (2020)</em></li>
 </ul>
 </details>
 

@@ -12,15 +12,15 @@ crumbs:
 - name: "Wolverine"
   url: "/tartans/w/wo/wolverine/"
 - name: "Wolverine Corporate Tartan"
-  url: "/setts/y8k3db40k15y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y8k3db40k15y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wo/wolverine/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKKG](/stripes/gkbkkg/).
 
 Part of the [Wolverine](/tartans/w/wo/wolverine/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10748](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10748)
 

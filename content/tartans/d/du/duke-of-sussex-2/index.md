@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r114g10w3g16ly3g3ly3r28/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgwgygyr/">RGWGYGYR</a></nav>
 Its design is pattern [RGWGYGYR](/stripes/rgwgygyr/) — the page of every tartan sharing this colour sequence.
 
 The **Duke of Sussex** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Duke of Sussex** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r114g10w3g16ly3g3ly3r28/">Duke of Sussex</a></td><td><code>R/228 G20 W6 G32 LY6 G6 LY6 R/56</code></td><td>436</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r114g10w3g16ly3g3ly3r28/"><img src="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/sett.png" alt="Duke of Sussex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/">Duke of Sussex</a></td><td><code>R/228 G20 W6 G32 LY6 G6 LY6 R/56</code></td><td>436</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/"><img src="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/sett.png" alt="Duke of Sussex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r65w2r3dr4g11r3g3r11~x2/"><circle cx="586.4" cy="103.0" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><circle cx="493.7" cy="51.9" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="485.5" cy="83.7" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s7/r18g1k5g1k1g1r9~x2/"><circle cx="446.2" cy="121.1" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><circle cx="569.4" cy="84.9" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><circle cx="601.6" cy="97.0" r="4" fill="#3465a4"><title>Earl of Inverness</title></circle></a><a href="/variants/s8/r70t1r2g12k2g1k10w1~x2/"><circle cx="447.9" cy="30.5" r="4" fill="#3465a4"><title>Zamzam</title></circle></a><a href="/variants/s6/g4r16k5r50g4w1~x4/"><circle cx="552.9" cy="77.0" r="4" fill="#3465a4"><title>Chalet</title></circle></a><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><circle cx="563.1" cy="74.5" r="4" fill="#3465a4"><title>Prince of Denmark</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="606.8" cy="82.2" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><circle cx="575.8" cy="97.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r65w2r3dr4g11r3g3r11~x2/"><circle cx="587.8" cy="103.5" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><circle cx="495.2" cy="52.1" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="486.9" cy="83.9" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s7/r18g1k5g1k1g1r9~x2/"><circle cx="447.5" cy="121.4" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><circle cx="570.9" cy="85.2" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><circle cx="603.1" cy="97.4" r="4" fill="#3465a4"><title>Earl of Inverness</title></circle></a><a href="/variants/s8/r70t1r2g12k2g1k10w1~x2/"><circle cx="449.4" cy="30.7" r="4" fill="#3465a4"><title>Zamzam</title></circle></a><a href="/variants/s6/g4r16k5r50g4w1~x4/"><circle cx="554.5" cy="77.4" r="4" fill="#3465a4"><title>Chalet</title></circle></a><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><circle cx="564.6" cy="74.8" r="4" fill="#3465a4"><title>Prince of Denmark</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="608.4" cy="82.6" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><circle cx="577.2" cy="98.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

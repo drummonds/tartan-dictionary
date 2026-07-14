@@ -28,16 +28,16 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db2r7db2r7db22y2~x2/">MacQueen variant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2r7db2r7db22y2~x2/"><img src="/variants/s6/db2r7db2r7db22y2~x2/sett.png" alt="MacQueen variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db1r3db1r3db6g1~x4/">Robbins Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db1r3db1r3db6g1~x4/"><img src="/variants/s6/db1r3db1r3db6g1~x4/sett.png" alt="Robbins Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macqueen-variant/">MacQueen variant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macqueen-variant/"><img src="/variants/s6/db2r7db2r7db22y2~x2/sett.png" alt="MacQueen variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robbins/">Robbins</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robbins/"><img src="/variants/s6/db1r3db1r3db6g1~x4/sett.png" alt="Robbins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/">HMS Duncan Regimental Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/"><img src="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/sett.png" alt="HMS Duncan Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hm/hms-duncan-regimental/">HMS Duncan Regimental</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hm/hms-duncan-regimental/"><img src="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/sett.png" alt="HMS Duncan Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/g49db16o3db2o2db6~x2/">Royal and Ancient, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g49db16o3db2o2db6~x2/"><img src="/variants/s6/g49db16o3db2o2db6~x2/sett.png" alt="Royal and Ancient, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-and-ancient-the/">Royal and Ancient, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-and-ancient-the/"><img src="/variants/s6/g49db16o3db2o2db6~x2/sett.png" alt="Royal and Ancient, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

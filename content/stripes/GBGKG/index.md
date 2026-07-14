@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g7db1g2k3g2~x4/">Peterhead</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g7db1g2k3g2~x4/"><img src="/variants/s5/g7db1g2k3g2~x4/sett.png" alt="Peterhead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/peterhead/">Peterhead</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peterhead/"><img src="/variants/s5/g7db1g2k3g2~x4/sett.png" alt="Peterhead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g20dr10ly2db100w1y10/">Ravetta (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g20dr10ly2db100w1y10/"><img src="/variants/s6/g20dr10ly2db100w1y10/sett.png" alt="Ravetta (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/ravetta/">Ravetta</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/ravetta/"><img src="/variants/s6/g20dr10ly2db100w1y10/sett.png" alt="Ravetta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

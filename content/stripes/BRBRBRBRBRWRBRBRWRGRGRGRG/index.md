@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/dp9r2dp9r9dp1r1dp2r1dp1r9w1r4dp11r2dp11r4w1r9g2r4g2r9g9r2g9~x2/">Lumsden of Clova</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/dp9r2dp9r9dp1r1dp2r1dp1r9w1r4dp11r2dp11r4w1r9g2r4g2r9g9r2g9~x2/"><img src="/variants/s25/dp9r2dp9r9dp1r1dp2r1dp1r9w1r4dp11r2dp11r4w1r9g2r4g2r9g9r2g9~x2/sett.png" alt="Lumsden of Clova sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/">Lumsden of Clova (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/"><img src="/variants/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/sett.png" alt="Lumsden of Clova (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lu/lumsden-of-clova/">Lumsden of Clova</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/lumsden-of-clova/"><img src="/variants/s25/dp9r2dp9r9dp1r1dp2r1dp1r9w1r4dp11r2dp11r4w1r9g2r4g2r9g9r2g9~x2/sett.png" alt="Lumsden of Clova sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

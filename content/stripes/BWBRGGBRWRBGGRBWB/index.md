@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/b50w2db7o2g33dg12db7o3w2o3db7dg12g33o2db7w2b17~x2/">Spens, Fragment</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/b50w2db7o2g33dg12db7o3w2o3db7dg12g33o2db7w2b17~x2/"><img src="/variants/s17/b50w2db7o2g33dg12db7o3w2o3db7dg12g33o2db7w2b17~x2/sett.png" alt="Spens, Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spens-fragment-2/">Spens, Fragment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spens-fragment-2/"><img src="/variants/s17/b50w2db7o2g33dg12db7o3w2o3db7dg12g33o2db7w2b17~x2/sett.png" alt="Spens, Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

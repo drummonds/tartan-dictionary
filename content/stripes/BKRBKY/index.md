@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db9k9r3db9k9ly1~x4/">Old Brigade</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db9k9r3db9k9ly1~x4/"><img src="/variants/s6/db9k9r3db9k9ly1~x4/sett.png" alt="Old Brigade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/old-brigade/">Old Brigade</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/old-brigade/"><img src="/variants/s6/db9k9r3db9k9ly1~x4/sett.png" alt="Old Brigade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

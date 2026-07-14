@@ -12,10 +12,10 @@ crumbs:
 - name: "MacQuarrie 2"
   url: "/tartans/m/ma/macquarrie-2/"
 - name: "MacQuarrie #6"
-  url: "/setts/r6g16r4db12r16lb1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6g16r4db12r16lb1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macquarrie-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRWR](/stripes/rgrbrwr/).
 
 Part of the [MacQuarrie 2](/tartans/m/ma/macquarrie-2/) tartan — the named design grouping this sett with its other cloths.

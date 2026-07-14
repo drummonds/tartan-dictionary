@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w3k2t4w4t3w11k2g3y3k3t12r19k2~x2/">Badminton Cup</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w3k2t4w4t3w11k2g3y3k3t12r19k2~x2/"><img src="/variants/s13/w3k2t4w4t3w11k2g3y3k3t12r19k2~x2/sett.png" alt="Badminton Cup sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/k3r19db12k3y3g3k2w11db3w4db4k2w3~x2/">Badminton World Federation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k3r19db12k3y3g3k2w11db3w4db4k2w3~x2/"><img src="/variants/s13/k3r19db12k3y3g3k2w11db3w4db4k2w3~x2/sett.png" alt="Badminton World Federation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/badminton-cup/">Badminton Cup</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/badminton-cup/"><img src="/variants/s13/w3k2t4w4t3w11k2g3y3k3t12r19k2~x2/sett.png" alt="Badminton Cup sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/badminton-world-federation/">Badminton World Federation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/badminton-world-federation/"><img src="/variants/s13/k3r19db12k3y3g3k2w11db3w4db4k2w3~x2/sett.png" alt="Badminton World Federation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

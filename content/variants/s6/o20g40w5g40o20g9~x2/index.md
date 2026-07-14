@@ -8,10 +8,10 @@ crumbs:
 - name: "O'Neill"
   url: "/tartans/o/o/o-neill-6/"
 - name: "O'Neill (Australia)"
-  url: "/setts/o20g40w5g40o20g9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o20g40w5g40o20g9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-neill-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWGR](/stripes/grgwgr/).
 
 Part of the [O'Neill](/tartans/o/o/o-neill-6/) tartan — the named design grouping this sett with its other cloths.

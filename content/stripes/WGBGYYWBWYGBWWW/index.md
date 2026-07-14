@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2~x2~dy1603076-lyi3307090/">Bonnie Prince Charlie (Hudson Bay)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2~x2~dy1603076-lyi3307090/"><img src="/variants/s15/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2~x2~dy1603076-lyi3307090/sett.png" alt="Bonnie Prince Charlie (Hudson Bay) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bonnie-prince-charlie-2/">Bonnie Prince Charlie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bonnie-prince-charlie-2/"><img src="/variants/s15/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2~x2~dy1603076-lyi3307090/sett.png" alt="Bonnie Prince Charlie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

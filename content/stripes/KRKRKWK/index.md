@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k4r40k1r3k1w3k4~x2/">Salt Lake County (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k4r40k1r3k1w3k4~x2/"><img src="/variants/s7/k4r40k1r3k1w3k4~x2/sett.png" alt="Salt Lake County (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/salt-lake-county/">Salt Lake County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/salt-lake-county/"><img src="/variants/s7/k4r40k1r3k1w3k4~x2/sett.png" alt="Salt Lake County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

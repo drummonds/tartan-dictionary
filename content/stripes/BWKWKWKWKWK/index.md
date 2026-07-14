@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db5w4k4w4k4w4k4w4k4w4k4~x2/">Buccleuch Check (9 squares)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db5w4k4w4k4w4k4w4k4w4k4~x2/"><img src="/variants/s11/db5w4k4w4k4w4k4w4k4w4k4~x2/sett.png" alt="Buccleuch Check (9 squares) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/t5w4k4w4k4w4k4w4k4w4k4~x2/">Scott of Buccleuch (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/t5w4k4w4k4w4k4w4k4w4k4~x2/"><img src="/variants/s11/t5w4k4w4k4w4k4w4k4w4k4~x2/sett.png" alt="Scott of Buccleuch (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buccleuch-check/">Buccleuch Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buccleuch-check/"><img src="/variants/s11/db5w4k4w4k4w4k4w4k4w4k4~x2/sett.png" alt="Buccleuch Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scott-of-buccleuch/">Scott of Buccleuch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scott-of-buccleuch/"><img src="/variants/s11/t5w4k4w4k4w4k4w4k4w4k4~x2/sett.png" alt="Scott of Buccleuch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

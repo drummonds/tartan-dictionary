@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3n28k3r22k8w3~x2/">Henkel (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3n28k3r22k8w3~x2/"><img src="/variants/s6/k3n28k3r22k8w3~x2/sett.png" alt="Henkel (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/henkel/">Henkel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/henkel/"><img src="/variants/s6/k3n28k3r22k8w3~x2/sett.png" alt="Henkel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

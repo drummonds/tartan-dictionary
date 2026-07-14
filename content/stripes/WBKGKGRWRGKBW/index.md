@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w2db2k32g9r2w2r2g4k20y1k9db2w2~x2/">Nova Scotia Medical Examiner Service</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w2db2k32g9r2w2r2g4k20y1k9db2w2~x2/"><img src="/variants/s13/w2db2k32g9r2w2r2g4k20y1k9db2w2~x2/sett.png" alt="Nova Scotia Medical Examiner Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/nova-scotia-medical-examiner-service/">Nova Scotia Medical Examiner Service</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nova-scotia-medical-examiner-service/"><img src="/variants/s13/w2db2k32g9r2w2r2g4k20y1k9db2w2~x2/sett.png" alt="Nova Scotia Medical Examiner Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

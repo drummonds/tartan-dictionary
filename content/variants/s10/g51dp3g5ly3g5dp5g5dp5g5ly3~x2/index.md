@@ -10,15 +10,15 @@ crumbs:
 - name: "Highland Hospice"
   url: "/tartans/h/hi/highland-hospice/"
 - name: "Highland Hospice"
-  url: "/setts/g51dp3g5ly3g5dp5g5dp5g5ly3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g51dp3g5ly3g5dp5g5dp5g5ly3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGYGBGBGYGBGBGYGBG](/stripes/bgygbgbgygbgbgygbg/).
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highland-hospice/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGYGBGBGY](/stripes/gbgygbgbgy/).
 
 Part of the [Highland Hospice](/tartans/h/hi/highland-hospice/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1711](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1711)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1711](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Highland Hospice (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1711">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#28003C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #28003C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Designed by Polly Wittering of the House of Edgar C.1996. Handled through Hector Russell.</em></li>
-<li>1996 — Highland Hospice (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5189">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#28003C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #28003C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Designed by Polly Wittering of the House of Edgar C.1996. Handled through Hector Russell.</em></li>
+<li>1996 — Highland Hospice (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5189/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#28003C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #28003C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Designed by Polly Wittering of the House of Edgar C.1996. Handled through Hector Russell.</em></li>
 </ul>
 </details>
 
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5189
 
 ## Thread count
-G/102 DP6 G10 LY6 G10 DP10 G10 DP10 G10 LY6 G10 DP10 G10 DP10 G10 LY6 G10 DP/6
+G/102 DP6 G10 LY6 G10 DP10 G10 DP10 G10 LY/6
 
-One full sett is **396 threads**.
+One full sett is **252 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/102 DP6 G10 LY6 G10 DP10 G10 DP10 G10 LY6 G10 DP10 G10 DP10 G10 LY6 G10 DP/6 — 396 threads; it folds to the canonical 252-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **396 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/102 DP6 G10 LY6 G10 DP10 G10 DP10 G10 LY6 G10 DP10 G10 DP10 G10 LY6 G10 DP/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/102 DP6 G10 LY6 G10 DP10 G10 DP10 G10 LY/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

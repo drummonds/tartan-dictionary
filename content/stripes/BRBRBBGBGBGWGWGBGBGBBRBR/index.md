@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/n10r2n2r2n2ni5y25db6y2db2y1lb3y3lb3y11db2y2db6y25ni5n2r2n2r2~x2~ni1700000-y2400000/">LOOK Keith</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/n10r2n2r2n2ni5y25db6y2db2y1lb3y3lb3y11db2y2db6y25ni5n2r2n2r2~x2~ni1700000-y2400000/"><img src="/variants/s24/n10r2n2r2n2ni5y25db6y2db2y1lb3y3lb3y11db2y2db6y25ni5n2r2n2r2~x2~ni1700000-y2400000/sett.png" alt="LOOK Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/look-keith-2/">LOOK Keith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/look-keith-2/"><img src="/variants/s24/n10r2n2r2n2ni5y25db6y2db2y1lb3y3lb3y11db2y2db6y25ni5n2r2n2r2~x2~ni1700000-y2400000/sett.png" alt="LOOK Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

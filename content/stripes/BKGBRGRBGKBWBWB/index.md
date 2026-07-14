@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/">Pride of Bannockburn Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/"><img src="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/sett.png" alt="Pride of Bannockburn Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-bannockburn/">Pride of Bannockburn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-bannockburn/"><img src="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/sett.png" alt="Pride of Bannockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

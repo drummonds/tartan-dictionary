@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r8w3r28w32k3w4~x2/">Ailsa, Pink (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r8w3r28w32k3w4~x2/"><img src="/variants/s6/r8w3r28w32k3w4~x2/sett.png" alt="Ailsa, Pink (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w5k20w2r5w20r2~x2/">Gangs of New York Fashion Check Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w5k20w2r5w20r2~x2/"><img src="/variants/s6/w5k20w2r5w20r2~x2/sett.png" alt="Gangs of New York Fashion Check Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ai/ailsa-pink/">Ailsa Pink</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ai/ailsa-pink/"><img src="/variants/s6/r8w3r28w32k3w4~x2/sett.png" alt="Ailsa Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gangs-of-new-york-fashion-check/">Gangs of New York Fashion Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gangs-of-new-york-fashion-check/"><img src="/variants/s6/w5k20w2r5w20r2~x2/sett.png" alt="Gangs of New York Fashion Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

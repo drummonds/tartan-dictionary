@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/">Brice</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><img src="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/sett.png" alt="Brice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brice-2/">Brice</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brice-2/"><img src="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/sett.png" alt="Brice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

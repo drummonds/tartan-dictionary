@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k70lo5k3n4dp4n4k3lo12/">State University of New York College at Buffalo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k70lo5k3n4dp4n4k3lo12/"><img src="/variants/s8/k70lo5k3n4dp4n4k3lo12/sett.png" alt="State University of New York College at Buffalo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-university-of-new-york-college-at-buffalo/">State University of New York College at Buffalo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-university-of-new-york-college-at-buffalo/"><img src="/variants/s8/k70lo5k3n4dp4n4k3lo12/sett.png" alt="State University of New York College at Buffalo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

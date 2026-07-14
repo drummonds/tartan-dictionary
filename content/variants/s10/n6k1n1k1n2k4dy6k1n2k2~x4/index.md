@@ -12,10 +12,10 @@ crumbs:
 - name: "Tyndrum"
   url: "/tartans/t/ty/tyndrum/"
 - name: "Tyndrum District Tartan"
-  url: "/setts/n6k1n1k1n2k4dy6k1n2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n6k1n1k1n2k4dy6k1n2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ty/tyndrum/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKBK](/stripes/bkbkbkgkbk/).
 
 Part of the [Tyndrum](/tartans/t/ty/tyndrum/) tartan — the named design grouping this sett with its other cloths.

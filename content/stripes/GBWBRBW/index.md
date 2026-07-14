@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y2db3w6db15r24db3w2~x2/">Fazzolettone (Fashion?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><img src="/variants/s7/y2db3w6db15r24db3w2~x2/sett.png" alt="Fazzolettone (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/fazzolettone/">Fazzolettone</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/fazzolettone/"><img src="/variants/s7/y2db3w6db15r24db3w2~x2/sett.png" alt="Fazzolettone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

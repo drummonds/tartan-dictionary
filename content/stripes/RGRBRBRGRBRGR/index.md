@@ -28,16 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/">Robertson 1</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/"><img src="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/sett.png" alt="Robertson 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/">Robertson 1819</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/"><img src="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/sett.png" alt="Robertson 1819 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/">Robertson Curtain</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/"><img src="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/sett.png" alt="Robertson Curtain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/">Robertson D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/"><img src="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/sett.png" alt="Robertson D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r5g2r30db3r3db30r3g30r3db3r30g2r5/">Robertson D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r5g2r30db3r3db30r3g30r3db3r30g2r5/"><img src="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/sett.png" alt="Robertson D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robertson-6/">Robertson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-6/"><img src="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/sett.png" alt="Robertson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robertson-1/">Robertson 1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-1/"><img src="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/sett.png" alt="Robertson 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robertson-curtain/">Robertson Curtain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-curtain/"><img src="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/sett.png" alt="Robertson Curtain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robertson-d/">Robertson D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robertson-d/"><img src="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/sett.png" alt="Robertson D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

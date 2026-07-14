@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/dp8k11g9w2~x2/">Wilson's No 220</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dp8k11g9w2~x2/"><img src="/variants/s4/dp8k11g9w2~x2/sett.png" alt="Wilson's No 220 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/dp5k5g5w1~x4~dp1607327/">Wilson's No.220</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dp5k5g5w1~x4~dp1607327/"><img src="/variants/s4/dp5k5g5w1~x4~dp1607327/sett.png" alt="Wilson's No.220 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-220/">Wilson's No 220</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-220/"><img src="/variants/s4/dp8k11g9w2~x2/sett.png" alt="Wilson's No 220 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-220-2/">Wilson's No.220</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-220-2/"><img src="/variants/s4/dp5k5g5w1~x4~dp1607327/sett.png" alt="Wilson's No.220 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/dr14k3dg3w1~x2/">Bacon, Red (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dr14k3dg3w1~x2/"><img src="/variants/s4/dr14k3dg3w1~x2/sett.png" alt="Bacon, Red (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bacon/">Bacon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bacon/"><img src="/variants/s4/dr14k3dg3w1~x2/sett.png" alt="Bacon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

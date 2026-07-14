@@ -28,17 +28,17 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db40w8db25w14db8y4~x2/">Auchterlonie (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db40w8db25w14db8y4~x2/"><img src="/variants/s6/db40w8db25w14db8y4~x2/sett.png" alt="Auchterlonie (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/b30w7b18w11b6y3~x2/">Ochterlonie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/b30w7b18w11b6y3~x2/"><img src="/variants/s6/b30w7b18w11b6y3~x2/sett.png" alt="Ochterlonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/y1b15w5b1w5b1~x4/">Whitley (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y1b15w5b1w5b1~x4/"><img src="/variants/s6/y1b15w5b1w5b1~x4/sett.png" alt="Whitley (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auchterlonie-2/">Auchterlonie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auchterlonie-2/"><img src="/variants/s6/db40w8db25w14db8y4~x2/sett.png" alt="Auchterlonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/oc/ochterlonie/">Ochterlonie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/oc/ochterlonie/"><img src="/variants/s6/b30w7b18w11b6y3~x2/sett.png" alt="Ochterlonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wh/whitley/">Whitley</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wh/whitley/"><img src="/variants/s6/y1b15w5b1w5b1~x4/sett.png" alt="Whitley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db9lb3db6lb3db20dy2~x2/">Oman RAF, Sultanate of (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db9lb3db6lb3db20dy2~x2/"><img src="/variants/s6/db9lb3db6lb3db20dy2~x2/sett.png" alt="Oman RAF, Sultanate of (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db24lb6db10lb6db32dy3~x2/">Sultan of Qaboo's Air Force</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db24lb6db10lb6db32dy3~x2/"><img src="/variants/s6/db24lb6db10lb6db32dy3~x2/sett.png" alt="Sultan of Qaboo's Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/om/oman-raf-sultanate-of/">Oman RAF, Sultanate of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/om/oman-raf-sultanate-of/"><img src="/variants/s6/db9lb3db6lb3db20dy2~x2/sett.png" alt="Oman RAF, Sultanate of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/sultan-of-qaboo-s-air-force/">Sultan of Qaboo's Air Force</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sultan-of-qaboo-s-air-force/"><img src="/variants/s6/db24lb6db10lb6db32dy3~x2/sett.png" alt="Sultan of Qaboo's Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

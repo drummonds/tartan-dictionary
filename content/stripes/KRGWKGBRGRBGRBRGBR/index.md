@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2~x2/">MacFarhadian (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2~x2/"><img src="/variants/s18/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2~x2/sett.png" alt="MacFarhadian (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macfarhadian/">MacFarhadian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macfarhadian/"><img src="/variants/s18/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2~x2/sett.png" alt="MacFarhadian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

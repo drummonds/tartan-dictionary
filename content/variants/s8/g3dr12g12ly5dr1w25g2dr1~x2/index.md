@@ -12,10 +12,10 @@ crumbs:
 - name: "Dogwood"
   url: "/tartans/d/do/dogwood/"
 - name: "Dogwood Trade Tartan"
-  url: "/setts/g3dr12g12ly5dr1w25g2dr1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3dr12g12ly5dr1w25g2dr1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/dogwood/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBYGBG](/stripes/bgwbygbg/).
 
 Part of the [Dogwood](/tartans/d/do/dogwood/) tartan — the named design grouping this sett with its other cloths.

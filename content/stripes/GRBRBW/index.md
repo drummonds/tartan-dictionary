@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g3r2db22r22db2w3~x2/">Galloway Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g3r2db22r22db2w3~x2/"><img src="/variants/s6/g3r2db22r22db2w3~x2/sett.png" alt="Galloway Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g1r1db16r16db1w1~x2/">Galloway, dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g1r1db16r16db1w1~x2/"><img src="/variants/s6/g1r1db16r16db1w1~x2/sett.png" alt="Galloway, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/galloway-4/">Galloway</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/galloway-4/"><img src="/variants/s6/g3r2db22r22db2w3~x2/sett.png" alt="Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/galloway-dress/">Galloway Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/galloway-dress/"><img src="/variants/s6/g1r1db16r16db1w1~x2/sett.png" alt="Galloway Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

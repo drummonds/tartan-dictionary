@@ -8,10 +8,10 @@ crumbs:
 - name: "Hilton Check"
   url: "/tartans/h/hi/hilton-check/"
 - name: "Hilton Check"
-  url: "/setts/dg25k1y2k1dg4k1dr2k1dg4k1lr2k1dg25/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg25k1y2k1dg4k1dr2k1dg4k1lr2k1dg25/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/hilton-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKBKGKYKG](/stripes/gkgkgkbkgkykg/).
 
 Part of the [Hilton Check](/tartans/h/hi/hilton-check/) tartan — the named design grouping this sett with its other cloths.

@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan George"
   url: "/clan/george/"
+aliases:
+- "/setts/db62w2db4w5db6y2dr8y3w4/"
+- "/setts/db62w2db4w5db6y2r8y3w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbwbgbgw/">BWBWBGBGW</a></nav>
 A tartan of [Clan George](/clan/george/).
 Its design is pattern [BWBWBGBGW](/stripes/bwbwbgbgw/) — the page of every tartan sharing this colour sequence.
 
@@ -16,10 +20,10 @@ The **George, Stuart** tartan groups 2 setts — the same named design recorded 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db62w2db4w5db6y2dr8y3w4/">George, Stuart</a> ★</td><td><code>DB/124 W4 DB8 W10 DB12 Y4 DR16 Y6 W/8</code></td><td>252</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db62w2db4w5db6y2dr8y3w4/"><img src="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/sett.png" alt="George, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db62w2db4w5db6y2r8y3w4/">(Personal)</a></td><td><code>DB/124 W4 DB8 W10 DB12 Y4 R16 Y6 W/8</code></td><td>252</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db62w2db4w5db6y2r8y3w4/"><img src="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/">George, Stuart</a> ★</td><td><code>DB/124 W4 DB8 W10 DB12 Y4 DR16 Y6 W/8</code></td><td>252</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><img src="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/sett.png" alt="George, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/">(Personal)</a></td><td><code>DB/124 W4 DB8 W10 DB12 Y4 R16 Y6 W/8</code></td><td>252</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><img src="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="543.2" cy="105.0" r="4" fill="#3465a4"><title>Duke of York</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="551.4" cy="104.4" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s8/db61w4db2w7b2g3y2db16~x2/"><circle cx="524.4" cy="97.3" r="4" fill="#3465a4"><title>Boat of Garten</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="158.0" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="376.2" cy="134.6" r="4" fill="#3465a4"><title>Gonzaga University's True Blue and W</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="425.8" cy="100.9" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/"><circle cx="469.7" cy="84.3" r="4" fill="#3465a4"><title>St. Petersburg City</title></circle></a><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/"><circle cx="604.9" cy="149.9" r="4" fill="#3465a4"><title>Inverness Hunting</title></circle></a><a href="/variants/s11/w3dbi3w1db44o1db2o1dr4o1db5ly2~x2~dbi1409278-db1404245-o2500000/"><circle cx="492.0" cy="50.5" r="4" fill="#3465a4"><title>Jewish</title></circle></a><a href="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/"><circle cx="537.3" cy="85.6" r="4" fill="#3465a4"><title>Jewish</title></circle></a><circle cx="496.2" cy="103.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="544.7" cy="105.4" r="4" fill="#3465a4"><title>Duke of York</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="552.9" cy="104.8" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s8/db61w4db2w7b2g3y2db16~x2/"><circle cx="525.9" cy="97.6" r="4" fill="#3465a4"><title>Boat of Garten</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="521.1" cy="158.4" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="377.3" cy="134.7" r="4" fill="#3465a4"><title>Gonzaga University's True Blue and W</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="427.0" cy="101.0" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/"><circle cx="471.0" cy="84.5" r="4" fill="#3465a4"><title>St. Petersburg City</title></circle></a><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/"><circle cx="606.2" cy="150.4" r="4" fill="#3465a4"><title>Inverness Hunting</title></circle></a><a href="/variants/s11/w3dbi3w1db44o1db2o1dr4o1db5ly2~x2~dbi1409278-db1404245-o2500000/"><circle cx="493.3" cy="50.8" r="4" fill="#3465a4"><title>Jewish</title></circle></a><a href="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/"><circle cx="538.4" cy="85.9" r="4" fill="#3465a4"><title>Jewish</title></circle></a><circle cx="497.5" cy="103.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

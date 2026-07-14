@@ -12,10 +12,10 @@ crumbs:
 - name: "Hannigan of Dirleton"
   url: "/tartans/h/ha/hannigan-of-dirleton/"
 - name: "Hannigan of Dirleton"
-  url: "/setts/dp4g4dg2w3g27dg30y1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4g4dg2w3g27dg30y1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hannigan-of-dirleton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGWGGGR](/stripes/bggwgggr/).
 
 Part of the [Hannigan of Dirleton](/tartans/h/ha/hannigan-of-dirleton/) tartan — the named design grouping this sett with its other cloths.

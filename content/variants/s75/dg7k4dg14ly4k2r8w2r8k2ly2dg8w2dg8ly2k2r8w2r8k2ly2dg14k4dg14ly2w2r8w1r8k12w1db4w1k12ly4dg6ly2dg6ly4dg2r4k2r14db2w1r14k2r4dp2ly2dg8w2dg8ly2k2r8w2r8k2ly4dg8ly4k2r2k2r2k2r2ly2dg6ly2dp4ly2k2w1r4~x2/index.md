@@ -12,10 +12,10 @@ crumbs:
 - name: "Ogilvy of Inverquharity"
   url: "/tartans/o/og/ogilvy-of-inverquharity/"
 - name: "Ogilvy of Inverquharity"
-  url: "/setts/dg7k4dg14ly4k2r8w2r8k2ly2dg8w2dg8ly2k2r8w2r8k2ly2dg14k4dg14ly2w2r8w1r8k12w1db4w1k12ly4dg6ly2dg6ly4dg2r4k2r14db2w1r14k2r4dp2ly2dg8w2dg8ly2k2r8w2r8k2ly4dg8ly4k2r2k2r2k2r2ly2dg6ly2dp4ly2k2w1r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg7k4dg14ly4k2r8w2r8k2ly2dg8w2dg8ly2k2r8w2r8k2ly2dg14k4dg14ly2w2r8w1r8k12w1db4w1k12ly4dg6ly2dg6ly4dg2r4k2r14db2w1r14k2r4dp2ly2dg8w2dg8ly2k2r8w2r8k2ly4dg8ly4k2r2k2r2k2r2ly2dg6ly2dp4ly2k2w1r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/og/ogilvy-of-inverquharity/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGYKRWRKYGWGYKRWRKYGKGYWRWRKWBWKYGYGYGRKRBWRKRBYGWGYKRWRKYGYKRKRKRYGYBYKWR](/stripes/gkgykrwrkygwgykrwrkygkgywrwrkwbwkygygygrkrbwrkrbygwgykrwrkygykrkrkrygybykwr/).
 
 Part of the [Ogilvy of Inverquharity](/tartans/o/og/ogilvy-of-inverquharity/) tartan — the named design grouping this sett with its other cloths.

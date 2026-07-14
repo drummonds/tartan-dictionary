@@ -8,10 +8,10 @@ crumbs:
 - name: "Stewart/Stuart of Appin"
   url: "/tartans/s/st/stewart-stuart-of-appin/"
 - name: "Stewart/Stuart of Appin #2"
-  url: "/setts/r2lb1db2r24g2r2db8r2g2r4g24r2lb1db2r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2lb1db2r24g2r2db8r2g2r4g24r2lb1db2r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-stuart-of-appin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWBRGRBRGRGRWBRBWRGRGRBRGRBWR](/stripes/grwbrgrbrgrgrwbrbwrgrgrbrgrbwr/).
 
 Part of the [Stewart/Stuart of Appin](/tartans/s/st/stewart-stuart-of-appin/) tartan — the named design grouping this sett with its other cloths.

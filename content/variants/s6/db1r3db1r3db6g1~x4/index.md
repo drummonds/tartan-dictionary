@@ -12,10 +12,10 @@ crumbs:
 - name: "Robbins"
   url: "/tartans/r/ro/robbins/"
 - name: "Robbins Family Tartan"
-  url: "/setts/db1r3db1r3db6g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1r3db1r3db6g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robbins/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBG](/stripes/brbrbg/).
 
 Part of the [Robbins](/tartans/r/ro/robbins/) tartan — the named design grouping this sett with its other cloths.

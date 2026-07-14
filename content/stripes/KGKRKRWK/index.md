@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k42lb2r3k5r16k8y2k3~x2/">Highland Brewing Company (USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k42lb2r3k5r16k8y2k3~x2/"><img src="/variants/s8/k42lb2r3k5r16k8y2k3~x2/sett.png" alt="Highland Brewing Company (USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-brewing-company/">Highland Brewing Company</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-brewing-company/"><img src="/variants/s8/k42lb2r3k5r16k8y2k3~x2/sett.png" alt="Highland Brewing Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

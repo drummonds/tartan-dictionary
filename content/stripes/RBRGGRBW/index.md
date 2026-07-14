@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/">Elbrick Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><img src="/variants/s8/r6t22r6g20y2r45t2w5~x2/sett.png" alt="Elbrick Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elbrick-dress/">Elbrick Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elbrick-dress/"><img src="/variants/s8/r6t22r6g20y2r45t2w5~x2/sett.png" alt="Elbrick Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

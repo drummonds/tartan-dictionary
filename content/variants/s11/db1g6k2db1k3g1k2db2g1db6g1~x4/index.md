@@ -10,10 +10,10 @@ crumbs:
 - name: "Black Water"
   url: "/tartans/b/bl/black-water/"
 - name: "Black Water"
-  url: "/setts/db1g6k2db1k3g1k2db2g1db6g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1g6k2db1k3g1k2db2g1db6g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/black-water/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBKGKBGBG](/stripes/bgkbkgkbgbg/).
 
 Part of the [Black Water](/tartans/b/bl/black-water/) tartan — the named design grouping this sett with its other cloths.

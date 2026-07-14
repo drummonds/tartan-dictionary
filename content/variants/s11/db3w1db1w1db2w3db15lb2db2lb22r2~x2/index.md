@@ -10,10 +10,10 @@ crumbs:
 - name: "Commonwealth Games 1986"
   url: "/tartans/c/co/commonwealth-games-1986-2/"
 - name: "Commonwealth Games 1986 #2"
-  url: "/setts/db3w1db1w1db2w3db15lb2db2lb22r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3w1db1w1db2w3db15lb2db2lb22r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/commonwealth-games-1986-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWR](/stripes/bwbwbwbwbwr/).
 
 Part of the [Commonwealth Games 1986](/tartans/c/co/commonwealth-games-1986-2/) tartan — the named design grouping this sett with its other cloths.

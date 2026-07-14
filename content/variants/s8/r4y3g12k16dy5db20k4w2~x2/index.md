@@ -12,15 +12,15 @@ crumbs:
 - name: "Iowa"
   url: "/tartans/i/io/iowa-2/"
 - name: "Iowa"
-  url: "/setts/r4y3g12k16dy5db20k4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4y3g12k16dy5db20k4w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGKGBKWKBGKGGR](/stripes/ggkgbkwkbgkggr/).
+provenance below. It is one weaving of the [sett](/tartans/i/io/iowa-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGGKGBKW](/stripes/rggkgbkw/).
 
 Part of the [Iowa](/tartans/i/io/iowa-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1850](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1850)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1850](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/2004 — Iowa (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1850">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Iowa has a rich history of Scottish influence in the founding of towns, cities,and counties; and that history is reflected in place names and celebrations throughout Iowa. Iowans of Scottish & Scots-Irish descent have shown leadership in the fields of science, industry, literature, politics, exploration, & conservation. The Iowa Scottish Heritage Society desired to give to the people of Iowa a tartan that symbolizes the state. Blue for the sky, rivers & lakes. Green for the fields our farmers plant. Black for the rich soil for which we are blessed. White for the snow we get. Red for the barns and the state flower the wild rose. Brown (Tan) for the earth. Yellow for corn and the state bird the Goldfinch. Adopted by the State of Iowa General Assembly, House resolution No 149 by Heaton & Whitaker (undated). Sample.</em></li>
-<li>Sept 2004 — Iowa (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6051">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Iowa has a rich history of Scottish influence in the founding of towns, cities,and counties; and that history is reflected in place names and celebrations throughout Iowa. Iowans of Scottish & Scots-Irish descent have shown leadership in the fields of science, industry, literature, politics, exploration, & conservation. The Iowa Scottish Heritage Society desired to give to the people of Iowa a tartan that symbolizes the state. Blue for the sky, rivers & lakes, Green for the fields our farmers plant. Black for the rich soil for which we are blessed. White for the snow we get. Red for the barns and the state flower the wild rose. Brown(Tan) for the earth. Yellow for corn and the state bird the Goldfinch. Adopted by the State of Iowa General Assembly, House resolution No 149 by Heaton & Whitaker (undated). Sample.</em></li>
+<li>Sept 2004 — Iowa (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6051/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Iowa has a rich history of Scottish influence in the founding of towns, cities,and counties; and that history is reflected in place names and celebrations throughout Iowa. Iowans of Scottish & Scots-Irish descent have shown leadership in the fields of science, industry, literature, politics, exploration, & conservation. The Iowa Scottish Heritage Society desired to give to the people of Iowa a tartan that symbolizes the state. Blue for the sky, rivers & lakes, Green for the fields our farmers plant. Black for the rich soil for which we are blessed. White for the snow we get. Red for the barns and the state flower the wild rose. Brown(Tan) for the earth. Yellow for corn and the state bird the Goldfinch. Adopted by the State of Iowa General Assembly, House resolution No 149 by Heaton & Whitaker (undated). Sample.</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6051
 
 ## Thread count
-R/8 Y6 G24 K32 DY10 DB40 K8 W4 K8 DB40 DY10 K32 G24 Y/6
+R/8 Y6 G24 K32 DY10 DB40 K8 W/4
 
-One full sett is **490 threads**.
+One full sett is **252 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/8 Y6 G24 K32 DY10 DB40 K8 W4 K8 DB40 DY10 K32 G24 Y/6 — 490 threads; it folds to the canonical 252-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **490 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 Y6 G24 K32 DY10 DB40 K8 W4 K8 DB40 DY10 K32 G24 Y/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 Y6 G24 K32 DY10 DB40 K8 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

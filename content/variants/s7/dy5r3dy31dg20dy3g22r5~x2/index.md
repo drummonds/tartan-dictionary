@@ -12,10 +12,10 @@ crumbs:
 - name: "Ballantrae"
   url: "/tartans/b/ba/ballantrae-2/"
 - name: "Ballantrae (Dalgety)"
-  url: "/setts/dy5r3dy31dg20dy3g22r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy5r3dy31dg20dy3g22r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/ballantrae-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGGGR](/stripes/grggggr/).
 
 Part of the [Ballantrae](/tartans/b/ba/ballantrae-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=177](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Ballantrae (Dalgety) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=177">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>This was recorded as being from Macnaughtons of Pitlochry but subsequent Sindex notes say it was from Jack Dalgety. It is presumed therefore Scottish Register of Tartans #178 is from Macnaughtons.</em></li>
-<li>pre 2002 — Ballantrae - Dalgety (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1541">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>This was recorded as being from Macnaughtons of Pitlochry but subsequent Sindex notes say it was from Jack Dalgety. It is presumed therefore that 5852 is from Macnaughtons.</em></li>
+<li>pre 2002 — Ballantrae - Dalgety (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1541/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>This was recorded as being from Macnaughtons of Pitlochry but subsequent Sindex notes say it was from Jack Dalgety. It is presumed therefore that 5852 is from Macnaughtons.</em></li>
 </ul>
 </details>
 

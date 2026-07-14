@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/">Langtree</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><img src="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/sett.png" alt="Langtree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/langtree/">Langtree</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/langtree/"><img src="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/sett.png" alt="Langtree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Debian"
   url: "/tartans/d/de/debian/"
 - name: "Debian"
-  url: "/setts/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/debian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBKBWKWRWKWRWKWRWKWKWKWRWRWKWKWBKB](/stripes/bgbbkbwkwrwkwrwkwrwkwkwkwrwrwkwkwbkb/).
 
 Part of the [Debian](/tartans/d/de/debian/) tartan — the named design grouping this sett with its other cloths.

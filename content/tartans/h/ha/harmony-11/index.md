@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/harmony/"
 - name: "Harmony"
   url: "/families/harmony/"
+aliases:
+- "/setts/dy6dp2dy29dp29dy2dp6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgbg/">BGBGBG</a></nav>
 A tartan of the [Harmony](/families/harmony/) family.
 Its design is pattern [BGBGBG](/stripes/bgbgbg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Harmony 11** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dy6dp2dy29dp29dy2dp6/">Harmony 11</a></td><td><code>DY/12 DP4 DY58 DP58 DY4 DP/12</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy6dp2dy29dp29dy2dp6/"><img src="/variants/s6/dy6dp2dy29dp29dy2dp6~x2/sett.png" alt="Harmony 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy6dp2dy29dp29dy2dp6~x2/">Harmony 11</a></td><td><code>DY/12 DP4 DY58 DP58 DY4 DP/12</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy6dp2dy29dp29dy2dp6~x2/"><img src="/variants/s6/dy6dp2dy29dp29dy2dp6~x2/sett.png" alt="Harmony 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/"><circle cx="626.0" cy="332.3" r="4" fill="#3465a4"><title>Mary Erskin</title></circle></a><circle cx="626.0" cy="335.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/"><circle cx="626.0" cy="333.0" r="4" fill="#3465a4"><title>Mary Erskin</title></circle></a><circle cx="626.0" cy="336.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

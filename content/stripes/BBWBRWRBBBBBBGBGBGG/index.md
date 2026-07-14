@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dg3dt3dg3dt3dg12g4~o2600000/">Glenlea</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dg3dt3dg3dt3dg12g4~o2600000/"><img src="/variants/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dg3dt3dg3dt3dg12g4~o2600000/sett.png" alt="Glenlea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenlea/">Glenlea</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenlea/"><img src="/variants/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dg3dt3dg3dt3dg12g4~o2600000/sett.png" alt="Glenlea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db6w10g10r2y3r1db3~x2/">Ainslie Lake.. District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db6w10g10r2y3r1db3~x2/"><img src="/variants/s7/db6w10g10r2y3r1db3~x2/sett.png" alt="Ainslie Lake.. District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db6w10g10r2dy3r1db3~x2/">Ainslie, Lake</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db6w10g10r2dy3r1db3~x2/"><img src="/variants/s7/db6w10g10r2dy3r1db3~x2/sett.png" alt="Ainslie, Lake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ai/ainslie-lake/">Ainslie, Lake</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ai/ainslie-lake/"><img src="/variants/s7/db6w10g10r2dy3r1db3~x2/sett.png" alt="Ainslie, Lake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

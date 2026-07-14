@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/r55dp1dy1r3dp7r3dy1dp1r3g16r3dp1dy1k3w1g5r3k2dp2w1~x2/">Fennell Grandmothers (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/r55dp1dy1r3dp7r3dy1dp1r3g16r3dp1dy1k3w1g5r3k2dp2w1~x2/"><img src="/variants/s20/r55dp1dy1r3dp7r3dy1dp1r3g16r3dp1dy1k3w1g5r3k2dp2w1~x2/sett.png" alt="Fennell Grandmothers (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/">Fennell Grandmothers Canadian Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/"><img src="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/sett.png" alt="Fennell Grandmothers Canadian Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fennell-grandmothers/">Fennell Grandmothers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fennell-grandmothers/"><img src="/variants/s20/r55dp1dy1r3dp7r3dy1dp1r3g16r3dp1dy1k3w1g5r3k2dp2w1~x2/sett.png" alt="Fennell Grandmothers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fennell-grandmothers-canadian/">Fennell Grandmothers Canadian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fennell-grandmothers-canadian/"><img src="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/sett.png" alt="Fennell Grandmothers Canadian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/">Damm, Alexander (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/"><img src="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/sett.png" alt="Damm, Alexander (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/damm-alexander/">Damm, Alexander</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/damm-alexander/"><img src="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/sett.png" alt="Damm, Alexander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

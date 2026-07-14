@@ -12,10 +12,10 @@ crumbs:
 - name: "Reid"
   url: "/tartans/r/re/reid-2/"
 - name: "Reid (Mill City)"
-  url: "/setts/dbi11db11b11lg11g11dg11w3r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi11db11b11lg11g11dg11w3r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/reid-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBYGGWR](/stripes/bbbyggwr/).
 
 Part of the [Reid](/tartans/r/re/reid-2/) tartan — the named design grouping this sett with its other cloths.

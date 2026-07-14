@@ -10,17 +10,17 @@ crumbs:
 - name: "Stephenson"
   url: "/families/stephenson/"
 - name: "Stephenson Hunting"
-  url: "/tartans/s/st/stephenson-hunting/"
+  url: "/tartans/s/st/stephenson-hunting-2/"
 - name: "Stephenson Hunting #2"
-  url: "/setts/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKBKBGKWKWKGKBKRKBKGKWKWKGBKBK](/stripes/gkbkbgkwkwkgkbkrkbkgkwkwkgbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/stephenson-hunting-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKBKBGKWKWKGKBKR](/stripes/gkbkbgkwkwkgkbkr/).
 
-Part of the [Stephenson Hunting](/tartans/s/st/stephenson-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stephenson Hunting](/tartans/s/st/stephenson-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3919](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3919)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 770
 
 ## Thread count
-G/8 K4 T36 K36 T36 G36 K4 W4 K8 W4 K4 G36 K36 T36 K4 R8 K4 T36 K36 G36 K4 W4 K8 W4 K4 G36 T36 K36 T36 K/4
+R/8 K4 T36 K36 G36 K4 W4 K8 W4 K4 G36 T36 K36 T36 K4 G/8
 
-One full sett is **1156 threads**.
+One full sett is **584 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/8 K4 T36 K36 T36 G36 K4 W4 K8 W4 K4 G36 K36 T36 K4 R8 K4 T36 K36 G36 K4 W4 K8 W4 K4 G36 T36 K36 T36 K/4 — 1156 threads; it folds to the canonical 584-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **1156 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/8 K4 T36 K36 T36 G36 K4 W4 K8 W4 K4 G36 K36 T36 K4 R8 K4 T36 K36 G36 K4 W4 K8 W4 K4 G36 T36 K36 T36 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 K4 T36 K36 G36 K4 W4 K8 W4 K4 G36 T36 K36 T36 K4 G/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Virginia International Tattoo Hixon"
   url: "/tartans/v/vi/virginia-international-tattoo-hixon/"
 - name: "Virginia International Tattoo Hixon"
-  url: "/setts/lb8db10dbi69w6dbi6r8t19lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb8db10dbi69w6dbi6r8t19lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vi/virginia-international-tattoo-hixon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBWBRBW](/stripes/wbbwbrbw/).
 
 Part of the [Virginia International Tattoo Hixon](/tartans/v/vi/virginia-international-tattoo-hixon/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/">Dundee F.C. Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/"><img src="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/sett.png" alt="Dundee F.C. Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dundee-f-c/">Dundee F.C.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dundee-f-c/"><img src="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/sett.png" alt="Dundee F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

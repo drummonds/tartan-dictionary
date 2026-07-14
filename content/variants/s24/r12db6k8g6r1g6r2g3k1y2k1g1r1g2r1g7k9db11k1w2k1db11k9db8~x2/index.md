@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonald of Pr Edward Island"
   url: "/tartans/m/ma/macdonald-of-pr-edward-island/"
 - name: "MacDonald of Pr Edward Island Tartan"
-  url: "/setts/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-of-pr-edward-island/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWKBKGRGRGKGKGRGRGKBR](/stripes/bkbkwkbkgrgrgkgkgrgrgkbr/).
 
 Part of the [MacDonald of Pr Edward Island](/tartans/m/ma/macdonald-of-pr-edward-island/) tartan — the named design grouping this sett with its other cloths.

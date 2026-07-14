@@ -12,10 +12,10 @@ crumbs:
 - name: "Cetoloni"
   url: "/tartans/c/ce/cetoloni-3/"
 - name: "Cetoloni (Personal)"
-  url: "/setts/db1r12k6y1k6db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1r12k6y1k6db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ce/cetoloni-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKRB](/stripes/bkgkrb/).
 
 Part of the [Cetoloni](/tartans/c/ce/cetoloni-3/) tartan — the named design grouping this sett with its other cloths.

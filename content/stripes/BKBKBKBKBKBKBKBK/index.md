@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/k4dt2k43dt20k4dt2k2dt4k2dt2k4dt20k43dt2k4dt2~x2/">Dark Island</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/k4dt2k43dt20k4dt2k2dt4k2dt2k4dt20k43dt2k4dt2~x2/"><img src="/variants/s16/k4dt2k43dt20k4dt2k2dt4k2dt2k4dt20k43dt2k4dt2~x2/sett.png" alt="Dark Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dark-island-2/">Dark Island</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dark-island-2/"><img src="/variants/s16/k4dt2k43dt20k4dt2k2dt4k2dt2k4dt20k43dt2k4dt2~x2/sett.png" alt="Dark Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/">Saul (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/"><img src="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/sett.png" alt="Saul (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/saul-2/">Saul</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/saul-2/"><img src="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/sett.png" alt="Saul sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

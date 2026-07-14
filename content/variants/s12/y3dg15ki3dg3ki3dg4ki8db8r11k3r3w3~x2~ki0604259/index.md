@@ -8,10 +8,10 @@ crumbs:
 - name: "Chattahoochee"
   url: "/tartans/c/ch/chattahoochee/"
 - name: "Chattahoochee"
-  url: "/setts/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chattahoochee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGKGKBRKRW](/stripes/ggkgkgkbrkrw/).
 
 Part of the [Chattahoochee](/tartans/c/ch/chattahoochee/) tartan — the named design grouping this sett with its other cloths.

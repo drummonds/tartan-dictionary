@@ -8,10 +8,10 @@ crumbs:
 - name: "U.S. Special Forces"
   url: "/tartans/u/u/u-s-special-forces/"
 - name: "U.S. Special Forces"
-  url: "/setts/db3k3w1dr3k8db2dg36db2k8w1k3db3y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3k3w1dr3k8db2dg36db2k8w1k3db3y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/u/u-s-special-forces/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBKBGBKWKBG](/stripes/bkwbkbgbkwkbg/).
 
 Part of the [U.S. Special Forces](/tartans/u/u/u-s-special-forces/) tartan — the named design grouping this sett with its other cloths.

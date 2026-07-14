@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDuff Dress"
   url: "/tartans/m/ma/macduff-dress-3/"
 - name: "MacDuff Dress"
-  url: "/setts/w4k1w4g6k4w5r1lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4k1w4g6k4w5r1lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macduff-dress-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWGKWRW](/stripes/wkwgkwrw/).
 
 Part of the [MacDuff Dress](/tartans/m/ma/macduff-dress-3/) tartan — the named design grouping this sett with its other cloths.

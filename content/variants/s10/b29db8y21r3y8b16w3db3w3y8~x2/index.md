@@ -8,10 +8,10 @@ crumbs:
 - name: "Morneau , Richard"
   url: "/tartans/m/mo/morneau-richard/"
 - name: "Morneau (Quebec), Richard (Personal)"
-  url: "/setts/b29db8y21r3y8b16w3db3w3y8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b29db8y21r3y8b16w3db3w3y8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/morneau-richard/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGRGBWBWG](/stripes/bbgrgbwbwg/).
 
 Part of the [Morneau , Richard](/tartans/m/mo/morneau-richard/) tartan — the named design grouping this sett with its other cloths.

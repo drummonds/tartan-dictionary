@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/">Murray of Atholl, Red Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/"><img src="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/sett.png" alt="Murray of Atholl, Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/">Unidentified Sample #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><img src="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/sett.png" alt="Unidentified Sample #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-atholl-red-dress/">Murray of Atholl, Red Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-of-atholl-red-dress/"><img src="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/sett.png" alt="Murray of Atholl, Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-sample-2/">Unidentified Sample</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-sample-2/"><img src="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/sett.png" alt="Unidentified Sample sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

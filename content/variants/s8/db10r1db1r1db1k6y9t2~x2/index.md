@@ -8,10 +8,10 @@ crumbs:
 - name: "Antique 2000"
   url: "/tartans/a/an/antique-2000/"
 - name: "Antique 2000"
-  url: "/setts/db10r1db1r1db1k6y9t2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10r1db1r1db1k6y9t2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/antique-2000/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBRBRB](/stripes/bgkbrbrb/).
 
 Part of the [Antique 2000](/tartans/a/an/antique-2000/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=97](http
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2001 — Antique 2000 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=97">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><br><em>Produced for The Scotch House by Lochcarron of Scotland.</em></li>
-<li>2001 — Antique 2000 (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4087">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><br><em>Colours not quite right yet. Produced for The Scotch House. Lochcarron swatch.</em></li>
+<li>2001 — Antique 2000 (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4087/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><br><em>Colours not quite right yet. Produced for The Scotch House. Lochcarron swatch.</em></li>
 </ul>
 </details>
 

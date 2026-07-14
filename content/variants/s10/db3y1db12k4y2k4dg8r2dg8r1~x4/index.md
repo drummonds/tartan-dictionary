@@ -12,15 +12,15 @@ crumbs:
 - name: "MacMillan Hunting"
   url: "/tartans/m/ma/macmillan-hunting-2/"
 - name: "MacMillan Hunting #2"
-  url: "/setts/db3y1db12k4y2k4dg8r2dg8r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3y1db12k4y2k4dg8r2dg8r1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBKGKGRGRGRGKGKBG](/stripes/bgbkgkgrgrgrgkgkbg/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macmillan-hunting-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBKGKGRGR](/stripes/bgbkgkgrgr/).
 
 Part of the [MacMillan Hunting](/tartans/m/ma/macmillan-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2660](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2660)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2660](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1890 — MacMillan Hunting #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2660">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>W & A K Johnstons' 1906 book explains that this tartan was designed and manufactured in 1890 by Baillie Donald Macmillan, J.P. of Partick, a representataive of the Loch Arkaig branch of the clan, and Chieftain of the Clan Macmillan Society. Patented and registered as Breacanseilgmhicgillemhaoil 'it has already attained great popularity, almost completely supplanting the old clan tartan.' Apparently the former President of the Clan MacMillan Society, Major Cameron Macmillan, always referred to this as Baillie Macmillan's tartan. Cameron was a boy in the 1890s when this tartan was a new product issuing from the Baillie's highland outfitting establishment in Partick. It's said that it did not really catch on until the late Chief, General Sir Gordon MacMillan, decided to dress all his family in it to make them easily identifiable from the rest of the clan who wore the Ancient. An idea which rather collapsed by Sir Gordon's move popularising the Hunting sett. A slightly different story is told in the 1906 Johnstons book.</em></li>
-<li>1906 — MacMillan Htg (1906) (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=668">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>STS has ref of "Adam No 75. ".</em></li>
+<li>1906 — MacMillan Htg (1906) (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/668/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>STS has ref of "Adam No 75. ".</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 668
 
 ## Thread count
-DB/12 Y4 DB48 K16 Y8 K16 DG32 R8 DG32 R4 DG32 R8 DG32 K16 Y8 K16 DB48 Y/4
+DB/12 Y4 DB48 K16 Y8 K16 DG32 R8 DG32 R/4
 
-One full sett is **672 threads**.
+One full sett is **344 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/12 Y4 DB48 K16 Y8 K16 DG32 R8 DG32 R4 DG32 R8 DG32 K16 Y8 K16 DB48 Y/4 — 672 threads; it folds to the canonical 344-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **672 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 Y4 DB48 K16 Y8 K16 DG32 R8 DG32 R4 DG32 R8 DG32 K16 Y8 K16 DB48 Y/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 Y4 DB48 K16 Y8 K16 DG32 R8 DG32 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

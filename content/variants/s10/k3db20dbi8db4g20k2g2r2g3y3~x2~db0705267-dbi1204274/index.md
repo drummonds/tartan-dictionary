@@ -12,10 +12,10 @@ crumbs:
 - name: "Schmidt"
   url: "/tartans/s/sc/schmidt/"
 - name: "Schmidt (2014)"
-  url: "/setts/k3db20dbi8db4g20k2g2r2g3y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3db20dbi8db4g20k2g2r2g3y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/schmidt/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGKGBBBK](/stripes/ggrgkgbbbk/).
 
 Part of the [Schmidt](/tartans/s/sc/schmidt/) tartan — the named design grouping this sett with its other cloths.

@@ -11,11 +11,11 @@ crumbs:
   url: "/families/dalrymple-of-castleton/"
 - name: "Dalrymple of Castleton"
   url: "/tartans/d/da/dalrymple-of-castleton-3/"
-- name: "Dalrymple, of Castleton"
-  url: "/setts/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1/"
+- name: "Dalrymple of Castleton Portrait Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dalrymple-of-castleton-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGKGBWBGRBW](/stripes/grgrgkgbwbgrbw/).
 
 Part of the [Dalrymple of Castleton](/tartans/d/da/dalrymple-of-castleton-3/) tartan — the named design grouping this sett with its other cloths.

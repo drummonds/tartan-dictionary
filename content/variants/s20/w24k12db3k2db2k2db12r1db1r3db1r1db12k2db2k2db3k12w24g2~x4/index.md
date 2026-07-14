@@ -10,10 +10,10 @@ crumbs:
 - name: "Sutherland, Dress Royal"
   url: "/tartans/s/su/sutherland-dress-royal/"
 - name: "Sutherland, Dress Royal (Dance)"
-  url: "/setts/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/su/sutherland-dress-royal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKBKBKBRBRBRBKBKBKW](/stripes/gwkbkbkbrbrbrbkbkbkw/).
 
 Part of the [Sutherland, Dress Royal](/tartans/s/su/sutherland-dress-royal/) tartan — the named design grouping this sett with its other cloths.

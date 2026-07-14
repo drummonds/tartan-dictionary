@@ -10,10 +10,10 @@ crumbs:
 - name: "Inverness Basque"
   url: "/tartans/i/in/inverness-basque/"
 - name: "Inverness Basque"
-  url: "/setts/r22g6k3g16w22/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r22g6k3g16w22/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/inverness-basque/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGW](/stripes/rgkgw/).
 
 Part of the [Inverness Basque](/tartans/i/in/inverness-basque/) tartan — the named design grouping this sett with its other cloths.

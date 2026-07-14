@@ -12,10 +12,10 @@ crumbs:
 - name: "Hanna"
   url: "/tartans/h/ha/hanna-2/"
 - name: "Hanna Personal Tartan"
-  url: "/setts/k8w13db2w1db2w1db2w1db2w1db2w1db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8w13db2w1db2w1db2w1db2w1db2w1db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hanna-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWBWK](/stripes/bwbwbwbwbwbwk/).
 
 Part of the [Hanna](/tartans/h/ha/hanna-2/) tartan — the named design grouping this sett with its other cloths.

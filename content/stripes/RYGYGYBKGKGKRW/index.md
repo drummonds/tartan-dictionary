@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/">Berwick -upon-Tweed (asymmetric)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><img src="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/sett.png" alt="Berwick -upon-Tweed (asymmetric) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/">Berwick District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/"><img src="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/sett.png" alt="Berwick District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/berwick-2/">Berwick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/berwick-2/"><img src="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/sett.png" alt="Berwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/berwick-upon-tweed/">Berwick -upon-Tweed</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/berwick-upon-tweed/"><img src="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/sett.png" alt="Berwick -upon-Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Seaforth"
   url: "/tartans/s/se/seaforth/"
-- name: "Seaforth Estate Check"
-  url: "/setts/dr1ly1k1ly1y1ly1k1ly1y1/"
+- name: "Seaforth Estate Check Estate Check Weavers Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr1ly1k1ly1y1ly1k1ly1y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/se/seaforth/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKYGYKYG](/stripes/bykygykyg/).
 
 Part of the [Seaforth](/tartans/s/se/seaforth/) tartan — the named design grouping this sett with its other cloths.

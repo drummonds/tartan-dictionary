@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/">Scottish National Dress District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/"><img src="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/sett.png" alt="Scottish National Dress District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-national-dress/">Scottish National Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-national-dress/"><img src="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/sett.png" alt="Scottish National Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

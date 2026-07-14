@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/">Wiseman Dairies Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/"><img src="/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/sett.png" alt="Wiseman Dairies Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wiseman-dairies/">Wiseman Dairies</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wiseman-dairies/"><img src="/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/sett.png" alt="Wiseman Dairies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

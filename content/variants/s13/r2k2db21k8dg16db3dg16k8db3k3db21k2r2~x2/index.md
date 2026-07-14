@@ -8,10 +8,10 @@ crumbs:
 - name: "Metropolitan Atlanta Police, Emerald Society"
   url: "/tartans/m/me/metropolitan-atlanta-police-emerald-society/"
 - name: "Metropolitan Atlanta Police, Emerald Society"
-  url: "/setts/r2k2db21k8dg16db3dg16k8db3k3db21k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k2db21k8dg16db3dg16k8db3k3db21k2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/metropolitan-atlanta-police-emerald-society/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBKBKGBGKBKR](/stripes/rkbkbkgbgkbkr/).
 
 Part of the [Metropolitan Atlanta Police, Emerald Society](/tartans/m/me/metropolitan-atlanta-police-emerald-society/) tartan — the named design grouping this sett with its other cloths.

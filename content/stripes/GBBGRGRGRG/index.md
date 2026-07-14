@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000/">Annan (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000/"><img src="/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000/sett.png" alt="Annan (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/annan-3/">Annan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/annan-3/"><img src="/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000/sett.png" alt="Annan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

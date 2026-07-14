@@ -8,10 +8,10 @@ crumbs:
 - name: "AIS Group"
   url: "/tartans/a/ai/ais-group/"
 - name: "AIS Group"
-  url: "/setts/k56dt3lb6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lb6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k56dt3lb6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lb6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ai/ais-group/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWBWBBBBBWBBBW](/stripes/kbwbwbbbbbwbbbw/).
 
 Part of the [AIS Group](/tartans/a/ai/ais-group/) tartan — the named design grouping this sett with its other cloths.

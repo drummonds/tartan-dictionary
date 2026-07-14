@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dp10db1dp2db1lb1db1lb2o2lb1k1y2~x10/">Lieuwen, Jeffrey Pascal (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dp10db1dp2db1lb1db1lb2o2lb1k1y2~x10/"><img src="/variants/s11/dp10db1dp2db1lb1db1lb2o2lb1k1y2~x10/sett.png" alt="Lieuwen, Jeffrey Pascal (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/lieuwen-jeffrey-pascal/">Lieuwen, Jeffrey Pascal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/lieuwen-jeffrey-pascal/"><img src="/variants/s11/dp10db1dp2db1lb1db1lb2o2lb1k1y2~x10/sett.png" alt="Lieuwen, Jeffrey Pascal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

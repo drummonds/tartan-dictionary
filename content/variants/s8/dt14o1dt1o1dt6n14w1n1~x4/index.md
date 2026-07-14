@@ -8,10 +8,10 @@ crumbs:
 - name: "Corrie"
   url: "/tartans/c/co/corrie/"
 - name: "Corrie"
-  url: "/setts/dt14o1dt1o1dt6n14w1n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt14o1dt1o1dt6n14w1n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/corrie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBWB](/stripes/brbrbbwb/).
 
 Part of the [Corrie](/tartans/c/co/corrie/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=773](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — Corrie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=773">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98481C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ST #98481C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Johnston sample.</em></li>
-<li>1984 — Corrie (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6875">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98481C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ST #98481C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Johnston sample.</em></li>
+<li>1984 — Corrie (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6875/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98481C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ST #98481C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Johnston sample.</em></li>
 </ul>
 </details>
 

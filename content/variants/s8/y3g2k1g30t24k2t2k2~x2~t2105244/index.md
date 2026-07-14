@@ -11,16 +11,16 @@ crumbs:
   url: "/families/johnston/"
 - name: "Johnston"
   url: "/tartans/j/jo/johnston/"
-- name: "Johnston (Clan)"
-  url: "/setts/y3g2k1g30t24k2t2k2/"
+- name: "Johnston/Johnstone"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3g2k1g30t24k2t2k2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGKGBKBKBKBGKG](/stripes/ggkgbkbkbkbgkg/).
+provenance below. It is one weaving of the [sett](/tartans/j/jo/johnston/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGKGBKBK](/stripes/ggkgbkbk/).
 
 Part of the [Johnston](/tartans/j/jo/johnston/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1899](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1899)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1063
 
 ## Thread count
-Y/6 G4 K2 G60 T48 K4 T4 K4 T4 K4 T48 G60 K2 G/4
+Y/6 G4 K2 G60 B48 K4 B4 K/4
 
-One full sett is **498 threads**.
+One full sett is **254 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/6 G4 K2 G60 T48 K4 T4 K4 T4 K4 T48 G60 K2 G/4 — 498 threads; it folds to the canonical 254-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **498 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/6 G4 K2 G60 T48 K4 T4 K4 T4 K4 T48 G60 K2 G/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/6 G4 K2 G60 B48 K4 B4 K/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

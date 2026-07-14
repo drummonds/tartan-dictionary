@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/">Gill, Anil (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/"><img src="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/sett.png" alt="Gill, Anil (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gi/gill-anil/">Gill, Anil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/gill-anil/"><img src="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/sett.png" alt="Gill, Anil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

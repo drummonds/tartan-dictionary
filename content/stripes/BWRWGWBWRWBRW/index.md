@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/">Bermuda Blue (1962) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/"><img src="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/sett.png" alt="Bermuda Blue (1962) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bermuda/">Bermuda</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bermuda/"><img src="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/sett.png" alt="Bermuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

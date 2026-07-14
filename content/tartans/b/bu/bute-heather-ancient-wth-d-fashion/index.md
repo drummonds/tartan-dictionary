@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ly5n2y8n1y8n4y4n6y18lb1ly5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ybgbgbgbgwy/">YBGBGBGBGWY</a></nav>
 Its design is pattern [YBGBGBGBGWY](/stripes/ybgbgbgbgwy/) — the page of every tartan sharing this colour sequence.
 
 The **Bute Heather, Ancient Wth'd (Fashion** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Bute Heather, Ancient Wth'd (Fashion** tartan is recorded as a single sett
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly5n2y8n1y8n4y4n6y18lb1ly5/">Bute Heather, Ancient Wth'd (Fashion</a></td><td><code>LY/10 N4 Y16 N2 Y16 N8 Y8 N12 Y36 LB2 LY/10</code></td><td>228</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly5n2y8n1y8n4y4n6y18lb1ly5/"><img src="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/sett.png" alt="Bute Heather, Ancient Wth'd (Fashion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/">Bute Heather, Ancient Wth'd (Fashion</a></td><td><code>LY/10 N4 Y16 N2 Y16 N8 Y8 N12 Y36 LB2 LY/10</code></td><td>228</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/"><img src="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/sett.png" alt="Bute Heather, Ancient Wth'd (Fashion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/"><circle cx="455.2" cy="237.2" r="4" fill="#3465a4"><title>Howells</title></circle></a><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/"><circle cx="481.3" cy="254.3" r="4" fill="#3465a4"><title>Wicklow Irish County</title></circle></a><circle cx="482.8" cy="252.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/"><circle cx="455.6" cy="237.5" r="4" fill="#3465a4"><title>Howells</title></circle></a><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/"><circle cx="481.6" cy="254.6" r="4" fill="#3465a4"><title>Wicklow Irish County</title></circle></a><circle cx="483.1" cy="252.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

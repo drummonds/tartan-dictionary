@@ -10,10 +10,10 @@ crumbs:
 - name: "Hebridean Cairn"
   url: "/tartans/h/he/hebridean-cairn-3/"
 - name: "Hebridean Cairn"
-  url: "/setts/n18o2n10o3n3o3n2o3n3o3n10o2n18o1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n18o2n10o3n3o3n2o3n3o3n10o2n18o1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hebridean-cairn-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRBRBRBR](/stripes/brbrbrbrbrbrbr/).
 
 Part of the [Hebridean Cairn](/tartans/h/he/hebridean-cairn-3/) tartan — the named design grouping this sett with its other cloths.

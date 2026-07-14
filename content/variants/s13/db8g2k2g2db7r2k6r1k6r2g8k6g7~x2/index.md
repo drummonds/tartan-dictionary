@@ -12,10 +12,10 @@ crumbs:
 - name: "Stewart of Achnacone"
   url: "/tartans/s/st/stewart-of-achnacone/"
 - name: "Stewart of Achnacone Clan Tartan"
-  url: "/setts/db8g2k2g2db7r2k6r1k6r2g8k6g7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8g2k2g2db7r2k6r1k6r2g8k6g7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-of-achnacone/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGBRKRKRGKG](/stripes/bgkgbrkrkrgkg/).
 
 Part of the [Stewart of Achnacone](/tartans/s/st/stewart-of-achnacone/) tartan — the named design grouping this sett with its other cloths.

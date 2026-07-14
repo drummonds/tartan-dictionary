@@ -10,10 +10,10 @@ crumbs:
 - name: "Australian Heavy Horse"
   url: "/tartans/a/au/australian-heavy-horse/"
 - name: "Australian Heavy Horse"
-  url: "/setts/lb4g2lb18k2n5do16w2n2lr2lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4g2lb18k2n5do16w2n2lr2lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/australian-heavy-horse/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWKBBWBYW](/stripes/wgwkbbwbyw/).
 
 Part of the [Australian Heavy Horse](/tartans/a/au/australian-heavy-horse/) tartan — the named design grouping this sett with its other cloths.

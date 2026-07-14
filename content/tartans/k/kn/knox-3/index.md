@@ -8,17 +8,20 @@ crumbs:
   url: "/clan/knox/"
 - name: "Knox"
   url: "/families/knox/"
+aliases:
+- "/setts/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grggbgbgbww/">GRGGBGBGBWW</a></nav>
 A tartan of the [Knox](/families/knox/) family.
-Its design is pattern [BWWYBYBWYBBYBGBYGKW](/stripes/bwwybybwybbybgbygkw/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [GRGGBGBGBWW](/stripes/grggbgbgbww/) — the page of every tartan sharing this colour sequence.
 
 The **Knox** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db10lb3lbi2lo2db21lo6db31lb2lo2dr11dt12lo2dp2g15dr2lo4g7k2lbi10/">Knox</a></td><td><code>DB/20 LB6 LBi4 LO4 DB42 LO12 DB62 LB4 LO4 DR22 DT24 LO4 DP4 G30 DR4 LO8 G14 K4 LBi/20</code></td><td>—</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db10lb3lbi2lo2db21lo6db31lb2lo2dr11dt12lo2dp2g15dr2lo4g7k2lbi10/"><img src="/variants/s19/db10lb3lbi2lo2db21lo6db31lb2lo2dr11dt12lo2dp2g15dr2lo4g7k2lbi10~x2~lb3103284-lbi3200000/sett.png" alt="Knox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db1204274-dbi1406275/">Knox</a></td><td><code>DG/4 R1 DG1 Y1 DB6 Y1 DBi9 Y1 DBi9 W1 LB/3</code></td><td>—</td><td>1998</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db1204274-dbi1406275/"><img src="/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db1204274-dbi1406275/sett.png" alt="Knox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -27,4 +30,4 @@ The **Knox** tartan is recorded as a single sett.
 
 This tartan is also recorded under:
 
-- Knox #1
+- Knox #2

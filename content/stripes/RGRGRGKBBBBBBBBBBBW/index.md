@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/w20t43db2t6db2t4db4t2db6t2db14dr20k7y7r4y3r2y20r13~t2105244-db1004274/">Declaration of Scottish Independence, Arbroath 1320</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/w20t43db2t6db2t4db4t2db6t2db14dr20k7y7r4y3r2y20r13~t2105244-db1004274/"><img src="/variants/s19/w20t43db2t6db2t4db4t2db6t2db14dr20k7y7r4y3r2y20r13~t2105244-db1004274/sett.png" alt="Declaration of Scottish Independence, Arbroath 1320 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/declaration-of-scottish-independence-arbroath-1320/">Declaration of Scottish Independence, Arbroath 1320</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/declaration-of-scottish-independence-arbroath-1320/"><img src="/variants/s19/w20t43db2t6db2t4db4t2db6t2db14dr20k7y7r4y3r2y20r13~t2105244-db1004274/sett.png" alt="Declaration of Scottish Independence, Arbroath 1320 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

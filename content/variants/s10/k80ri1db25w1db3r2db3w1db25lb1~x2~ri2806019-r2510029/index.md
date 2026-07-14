@@ -8,10 +8,10 @@ crumbs:
 - name: "Pompili, Antonio and Alessandro"
   url: "/tartans/p/po/pompili-antonio-and-alessandro/"
 - name: "Pompili, Antonio and Alessandro (Personal)"
-  url: "/setts/k80ri1db25w1db3r2db3w1db25lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k80ri1db25w1db3r2db3w1db25lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/pompili-antonio-and-alessandro/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBWBRBWBW](/stripes/krbwbrbwbw/).
 
 Part of the [Pompili, Antonio and Alessandro](/tartans/p/po/pompili-antonio-and-alessandro/) tartan — the named design grouping this sett with its other cloths.

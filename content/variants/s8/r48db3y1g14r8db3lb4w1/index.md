@@ -8,10 +8,10 @@ crumbs:
 - name: "Prince Charles Cloak"
   url: "/tartans/p/pr/prince-charles-cloak/"
 - name: "Prince Charles Cloak"
-  url: "/setts/r48db3y1g14r8db3lb4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r48db3y1g14r8db3lb4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/prince-charles-cloak/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGGRBWW](/stripes/rbggrbww/).
 
 Part of the [Prince Charles Cloak](/tartans/p/pr/prince-charles-cloak/) tartan — the named design grouping this sett with its other cloths.

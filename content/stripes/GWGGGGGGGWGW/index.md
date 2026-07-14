@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g4w2g24y8g2y4g2y16g8w2g1w4~x2/">Australian Spirit</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g4w2g24y8g2y4g2y16g8w2g1w4~x2/"><img src="/variants/s12/g4w2g24y8g2y4g2y16g8w2g1w4~x2/sett.png" alt="Australian Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/australian-spirit/">Australian Spirit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/australian-spirit/"><img src="/variants/s12/g4w2g24y8g2y4g2y16g8w2g1w4~x2/sett.png" alt="Australian Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

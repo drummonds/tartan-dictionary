@@ -12,10 +12,10 @@ crumbs:
 - name: "Dryburgh"
   url: "/tartans/d/dr/dryburgh/"
 - name: "Dryburgh Clan Tartan"
-  url: "/setts/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/dr/dryburgh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBRWRWRWRBKBKBK](/stripes/gkbkbkbrwrwrwrbkbkbk/).
 
 Part of the [Dryburgh](/tartans/d/dr/dryburgh/) tartan — the named design grouping this sett with its other cloths.

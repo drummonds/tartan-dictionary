@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lo2k3db6dr4k48dr4db6k3lb2~x2/">Highland Park</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lo2k3db6dr4k48dr4db6k3lb2~x2/"><img src="/variants/s9/lo2k3db6dr4k48dr4db6k3lb2~x2/sett.png" alt="Highland Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-park/">Highland Park</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-park/"><img src="/variants/s9/lo2k3db6dr4k48dr4db6k3lb2~x2/sett.png" alt="Highland Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

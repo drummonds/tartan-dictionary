@@ -10,10 +10,10 @@ crumbs:
 - name: "Australian Spirit"
   url: "/tartans/a/au/australian-spirit/"
 - name: "Australian Spirit"
-  url: "/setts/g4w2g24y8g2y4g2y16g8w2g1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4w2g24y8g2y4g2y16g8w2g1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/australian-spirit/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGGGGGGGWGW](/stripes/gwgggggggwgw/).
 
 Part of the [Australian Spirit](/tartans/a/au/australian-spirit/) tartan — the named design grouping this sett with its other cloths.

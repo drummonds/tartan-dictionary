@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4dy3k30lg33r1lg4~x2/">Intergen (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4dy3k30lg33r1lg4~x2/"><img src="/variants/s6/k4dy3k30lg33r1lg4~x2/sett.png" alt="Intergen (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/intergen-2/">Intergen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/intergen-2/"><img src="/variants/s6/k4dy3k30lg33r1lg4~x2/sett.png" alt="Intergen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

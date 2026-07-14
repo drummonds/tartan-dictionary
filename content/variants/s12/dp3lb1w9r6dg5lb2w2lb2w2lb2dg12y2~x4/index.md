@@ -8,10 +8,10 @@ crumbs:
 - name: "Fredericton"
   url: "/tartans/f/fr/fredericton/"
 - name: "Fredericton #1"
-  url: "/setts/dp3lb1w9r6dg5lb2w2lb2w2lb2dg12y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3lb1w9r6dg5lb2w2lb2w2lb2dg12y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fredericton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWRGWWWWWGG](/stripes/bwwrgwwwwwgg/).
 
 Part of the [Fredericton](/tartans/f/fr/fredericton/) tartan — the named design grouping this sett with its other cloths.

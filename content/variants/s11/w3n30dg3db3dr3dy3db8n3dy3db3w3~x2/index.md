@@ -8,10 +8,10 @@ crumbs:
 - name: "Wee Course, Blairgowrie Golf Club, The"
   url: "/tartans/w/we/wee-course-blairgowrie-golf-club-the/"
 - name: "Wee Course, Blairgowrie Golf Club, The"
-  url: "/setts/w3n30dg3db3dr3dy3db8n3dy3db3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w3n30dg3db3dr3dy3db8n3dy3db3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/wee-course-blairgowrie-golf-club-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBBGBBGBW](/stripes/wbgbbgbbgbw/).
 
 Part of the [Wee Course, Blairgowrie Golf Club, The](/tartans/w/we/wee-course-blairgowrie-golf-club-the/) tartan — the named design grouping this sett with its other cloths.

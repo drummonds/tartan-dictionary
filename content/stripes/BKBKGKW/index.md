@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db1k1db6k6g6k1w1~x2/">Forbes #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><img src="/variants/s7/db1k1db6k6g6k1w1~x2/sett.png" alt="Forbes #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db1k6db6k6g6k1w1/">Forbes LC</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db1k6db6k6g6k1w1/"><img src="/variants/s7/db1k6db6k6g6k1w1/sett.png" alt="Forbes LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forbes-3/">Forbes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forbes-3/"><img src="/variants/s7/db1k1db6k6g6k1w1~x2/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/forbes-lc/">Forbes LC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forbes-lc/"><img src="/variants/s7/db1k6db6k6g6k1w1/sett.png" alt="Forbes LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/">Baillie (Highland Society)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/"><img src="/variants/s7/dp3k1dp8k6g8k1w2~x2/sett.png" alt="Baillie (Highland Society) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baillie-2/">Baillie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baillie-2/"><img src="/variants/s7/dp3k1dp8k6g8k1w2~x2/sett.png" alt="Baillie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

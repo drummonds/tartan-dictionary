@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18lb3~x2/">Innes of Learney Htg (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18lb3~x2/"><img src="/variants/s16/w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18lb3~x2/sett.png" alt="Innes of Learney Htg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/innes-of-learney-hunting-2/">Innes of Learney Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/innes-of-learney-hunting-2/"><img src="/variants/s16/w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18lb3~x2/sett.png" alt="Innes of Learney Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

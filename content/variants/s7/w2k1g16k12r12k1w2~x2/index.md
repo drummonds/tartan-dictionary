@@ -8,10 +8,10 @@ crumbs:
 - name: "Prince Edward Island"
   url: "/tartans/p/pr/prince-edward-island-2/"
 - name: "Prince Edward Island District Tartan"
-  url: "/setts/w2k1g16k12r12k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2k1g16k12r12k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/prince-edward-island-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGKRKW](/stripes/wkgkrkw/).
 
 Part of the [Prince Edward Island](/tartans/p/pr/prince-edward-island-2/) tartan — the named design grouping this sett with its other cloths.

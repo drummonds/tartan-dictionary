@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19~x2/">Doyel (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19~x2/"><img src="/variants/s15/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19~x2/sett.png" alt="Doyel (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/doyel/">Doyel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/doyel/"><img src="/variants/s15/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19~x2/sett.png" alt="Doyel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/">Bowling</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><img src="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/sett.png" alt="Bowling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/">Bowling (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/"><img src="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/sett.png" alt="Bowling (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bowling/">Bowling</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bowling/"><img src="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/sett.png" alt="Bowling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

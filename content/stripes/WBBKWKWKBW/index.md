@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/">Naysmith, William A (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/"><img src="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/sett.png" alt="Naysmith, William A (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/naysmith/">Naysmith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/naysmith/"><img src="/variants/s10/lbi4dr2db14k4lbi4k3lbi3k2dr2lb2~x2~lbi3200000-lb3103284/sett.png" alt="Naysmith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

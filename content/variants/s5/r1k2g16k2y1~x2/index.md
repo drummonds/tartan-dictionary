@@ -10,10 +10,10 @@ crumbs:
 - name: "Mar District"
   url: "/tartans/m/ma/mar-district/"
 - name: "Skene or Tribe of Mar"
-  url: "/setts/r1k2g16k2y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1k2g16k2y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mar-district/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKR](/stripes/gkgkr/).
 
 Part of the [Mar District](/tartans/m/ma/mar-district/) tartan — the named design grouping this sett with its other cloths.

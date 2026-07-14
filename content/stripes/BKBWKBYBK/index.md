@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/">Tayside Police (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/"><img src="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/sett.png" alt="Tayside Police (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tayside-police/">Tayside Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tayside-police/"><img src="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/sett.png" alt="Tayside Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

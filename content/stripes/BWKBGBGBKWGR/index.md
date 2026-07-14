@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/">Quigley of Knockcroghery (Modern)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/"><img src="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/sett.png" alt="Quigley of Knockcroghery (Modern) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/quigley-of-knockcroghery/">Quigley of Knockcroghery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/quigley-of-knockcroghery/"><img src="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/sett.png" alt="Quigley of Knockcroghery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

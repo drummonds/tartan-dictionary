@@ -8,10 +8,10 @@ crumbs:
 - name: "Grange School"
   url: "/tartans/g/gr/grange-school/"
 - name: "Grange School"
-  url: "/setts/n27lr3n14k3n13k3ly23/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n27lr3n14k3n13k3ly23/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grange-school/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBKBKY](/stripes/bybkbky/).
 
 Part of the [Grange School](/tartans/g/gr/grange-school/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1494](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/1988 — Grange School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1494">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#606060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #606060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #B0B0B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BDY #C89800"></span><br><em>This tartan was originally registered with the Scottish Tartans Society in 1988. The sett is based on the school colours.</em></li>
-<li>pre 2002 — Grange School (School) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5094">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#606060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #606060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #B0B0B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BDY #C89800"></span><br><em>Not known which Grange School - there are many.</em></li>
+<li>pre 2002 — Grange School (School) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5094/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#606060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #606060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B0B0B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #B0B0B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C89800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BDY #C89800"></span><br><em>Not known which Grange School - there are many.</em></li>
 </ul>
 </details>
 

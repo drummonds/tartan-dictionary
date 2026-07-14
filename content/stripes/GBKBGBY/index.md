@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g23db3k8db4g4db56ly8/">Tern House</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g23db3k8db4g4db56ly8/"><img src="/variants/s7/g23db3k8db4g4db56ly8/sett.png" alt="Tern House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/tern-house/">Tern House</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/tern-house/"><img src="/variants/s7/g23db3k8db4g4db56ly8/sett.png" alt="Tern House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg12w2k5g24k4dg9k2g13k4dg13k2y3~x2/">Handley (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg12w2k5g24k4dg9k2g13k4dg13k2y3~x2/"><img src="/variants/s12/dg12w2k5g24k4dg9k2g13k4dg13k2y3~x2/sett.png" alt="Handley (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/handley/">Handley</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/handley/"><img src="/variants/s12/dg12w2k5g24k4dg9k2g13k4dg13k2y3~x2/sett.png" alt="Handley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

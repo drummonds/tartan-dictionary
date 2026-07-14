@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/">Brad Majors (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><img src="/variants/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/sett.png" alt="Brad Majors (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brad-majors/">Brad Majors</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brad-majors/"><img src="/variants/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/sett.png" alt="Brad Majors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

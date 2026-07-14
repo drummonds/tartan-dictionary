@@ -8,10 +8,10 @@ crumbs:
 - name: "PSN Test"
   url: "/tartans/p/ps/psn-test/"
 - name: "PSN Test"
-  url: "/setts/db25lo1db6t1db6lb4ti3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db25lo1db6t1db6lb4ti3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/ps/psn-test/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBBBWBW](/stripes/bybbbwbw/).
 
 Part of the [PSN Test](/tartans/p/ps/psn-test/) tartan — the named design grouping this sett with its other cloths.

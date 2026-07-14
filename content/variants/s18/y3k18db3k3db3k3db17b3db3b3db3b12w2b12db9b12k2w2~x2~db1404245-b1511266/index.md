@@ -8,10 +8,10 @@ crumbs:
 - name: "Van Ingelgem Dress"
   url: "/tartans/v/va/van-ingelgem-dress/"
 - name: "Van Ingelgem Dress (Personal)"
-  url: "/setts/y3k18db3k3db3k3db17b3db3b3db3b12w2b12db9b12k2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3k18db3k3db3k3db17b3db3b3db3b12w2b12db9b12k2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/va/van-ingelgem-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBBBBBBWBBBKW](/stripes/gkbkbkbbbbbbwbbbkw/).
 
 Part of the [Van Ingelgem Dress](/tartans/v/va/van-ingelgem-dress/) tartan — the named design grouping this sett with its other cloths.

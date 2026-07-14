@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/">Livingstone (Australia) Official</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/"><img src="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/sett.png" alt="Livingstone (Australia) Official sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/livingstone-official/">Livingstone Official</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/livingstone-official/"><img src="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/sett.png" alt="Livingstone Official sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

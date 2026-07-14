@@ -8,10 +8,10 @@ crumbs:
 - name: "Brun, Pierre Emmanuel"
   url: "/tartans/b/br/brun-pierre-emmanuel/"
 - name: "Brun, Pierre Emmanuel (Personal)"
-  url: "/setts/y40db8k20g11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y40db8k20g11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brun-pierre-emmanuel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKG](/stripes/gbkg/).
 
 Part of the [Brun, Pierre Emmanuel](/tartans/b/br/brun-pierre-emmanuel/) tartan — the named design grouping this sett with its other cloths.

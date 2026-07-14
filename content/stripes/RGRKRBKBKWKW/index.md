@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/">Niagara Region</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><img src="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/sett.png" alt="Niagara Region sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ni/niagara-region/">Niagara Region</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/niagara-region/"><img src="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/sett.png" alt="Niagara Region sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

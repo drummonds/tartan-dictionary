@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/">Austin College Page</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/"><img src="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/sett.png" alt="Austin College Page sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/austin-college-page/">Austin College Page</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/austin-college-page/"><img src="/variants/s10/r3y2r2y3r3y7r3k7r14y2~x2/sett.png" alt="Austin College Page sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

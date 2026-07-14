@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/">Schranz-Gritte</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/"><img src="/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/sett.png" alt="Schranz-Gritte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/schranz-gritte/">Schranz-Gritte</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/schranz-gritte/"><img src="/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/sett.png" alt="Schranz-Gritte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

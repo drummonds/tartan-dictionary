@@ -12,22 +12,22 @@ crumbs:
 - name: "Kelly of Sleat Hunting"
   url: "/tartans/k/ke/kelly-of-sleat-hunting/"
 - name: "Kelly of Sleat Hunting (Name)"
-  url: "/setts/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kelly-of-sleat-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBGKGBGKG](/stripes/bwbgbgkgbgkg/).
 
 Part of the [Kelly of Sleat Hunting](/tartans/k/ke/kelly-of-sleat-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3871](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3871)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3871/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3871/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1995 — Kelly of Sleat Hunting (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3871">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Phil Smith for the Kelly of Sleat Family associated with Clan Donald at the request of Dr Douglas Kelly, Chaplain of the Grandfather Mountain Highland Games. Sample in STA Johnston Collection. For North American customers it is being woven by Fraser & Kirkbright of Vancouver. Great Scot International (Tel: 704 556 1555) are the North American distributors.</em></li>
+<li>1995 — Kelly of Sleat Hunting (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3871/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Phil Smith for the Kelly of Sleat Family associated with Clan Donald at the request of Dr Douglas Kelly, Chaplain of the Grandfather Mountain Highland Games. Sample in STA Johnston Collection. For North American customers it is being woven by Fraser & Kirkbright of Vancouver. Great Scot International (Tel: 704 556 1555) are the North American distributors.</em></li>
 <li>undated — Kelly of Sleat Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5143">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005448;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DBG #005448"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Phil Smith for the Kelly of Sleat Family associated with Clan Donald at the request of Dr Douglas Kelly, Chaplain of the Grandfather Mountain Highland Games. Sample in Scottish Tartans Authority Johnston Collection. Green still not quite right. For North American customers it is being woven by Fraser & Kirkbright of Vancouver. Great Scot International (Tel: 704 556 1555) are the North American distributors.</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3871](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

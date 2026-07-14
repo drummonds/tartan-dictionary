@@ -10,10 +10,10 @@ crumbs:
 - name: "Scotland the Brave"
   url: "/tartans/s/sc/scotland-the-brave/"
 - name: "Scotland the Brave"
-  url: "/setts/ki6w1ki40dp1k12dg12dp6dg2b2dg4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ki6w1ki40dp1k12dg12dp6dg2b2dg4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scotland-the-brave/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGKBKWK](/stripes/gbgbgkbkwk/).
 
 Part of the [Scotland the Brave](/tartans/s/sc/scotland-the-brave/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/">Dyce</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/"><img src="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/sett.png" alt="Dyce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2/">Dyce Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2/"><img src="/variants/s14/db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2/sett.png" alt="Dyce Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/dy/dyce-3/">Dyce</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dy/dyce-3/"><img src="/variants/s14/db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2/sett.png" alt="Dyce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

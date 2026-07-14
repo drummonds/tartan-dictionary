@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/">Green Bay, Wisconsin (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/"><img src="/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/sett.png" alt="Green Bay, Wisconsin (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/green-bay-wisconsin/">Green Bay, Wisconsin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/green-bay-wisconsin/"><img src="/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/sett.png" alt="Green Bay, Wisconsin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

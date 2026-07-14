@@ -8,10 +8,10 @@ crumbs:
 - name: "Islay Whisky Club"
   url: "/tartans/i/is/islay-whisky-club/"
 - name: "Islay Whisky Club Corporate Weavers Tartan"
-  url: "/setts/dg4lb3dp3dr30dgi4lb3dp3dgi4dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4lb3dp3dr30dgi4lb3dp3dgi4dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/is/islay-whisky-club/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWBBGWBGBGBWGBBWG](/stripes/ggwbbgwbgbgbwgbbwg/).
 
 Part of the [Islay Whisky Club](/tartans/i/is/islay-whisky-club/) tartan — the named design grouping this sett with its other cloths.

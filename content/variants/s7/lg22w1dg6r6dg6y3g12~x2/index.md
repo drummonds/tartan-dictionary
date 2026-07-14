@@ -12,10 +12,10 @@ crumbs:
 - name: "Dalveen"
   url: "/tartans/d/da/dalveen/"
 - name: "Dalveen (2004)"
-  url: "/setts/lg22w1dg6r6dg6y3g12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lg22w1dg6r6dg6y3g12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/dalveen/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRGWY](/stripes/gggrgwy/).
 
 Part of the [Dalveen](/tartans/d/da/dalveen/) tartan — the named design grouping this sett with its other cloths.

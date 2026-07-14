@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w4n20k13db2k2db2k2db16lb4~x2/">Royal College of Surgeons of Edinburgh, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w4n20k13db2k2db2k2db16lb4~x2/"><img src="/variants/s9/w4n20k13db2k2db2k2db16lb4~x2/sett.png" alt="Royal College of Surgeons of Edinburgh, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-college-of-surgeons/">Royal College of Surgeons. . .</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-college-of-surgeons/"><img src="/variants/s9/w4n20k13db2k2db2k2db16lb4~x2/sett.png" alt="Royal College of Surgeons. . . sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

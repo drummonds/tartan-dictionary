@@ -10,10 +10,10 @@ crumbs:
 - name: "Culloden Worn by Pr Charles"
   url: "/tartans/c/cu/culloden-worn-by-pr-charles/"
 - name: "Culloden Worn by Pr Charles"
-  url: "/setts/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/culloden-worn-by-pr-charles/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGGWGBWBBRWRWGW](/stripes/wggwgbwbbrwrwgw/).
 
 Part of the [Culloden Worn by Pr Charles](/tartans/c/cu/culloden-worn-by-pr-charles/) tartan — the named design grouping this sett with its other cloths.

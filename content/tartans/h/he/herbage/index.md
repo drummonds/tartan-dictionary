@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g25k8n10r1n3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbkg/">BRBKG</a></nav>
 Its design is pattern [BRBKG](/stripes/brbkg/) — the page of every tartan sharing this colour sequence.
 
 The **Herbage** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Herbage** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g25k8n10r1n3/">Herbage</a></td><td><code>G/100 K32 N40 R4 N/12</code></td><td>264</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g25k8n10r1n3/"><img src="/variants/s5/g25k8n10r1n3~x4/sett.png" alt="Herbage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g25k8n10r1n3~x4/">Herbage</a></td><td><code>G/100 K32 N40 R4 N/12</code></td><td>264</td><td>1983</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/g25k8n10r1n3~x4/"><img src="/variants/s5/g25k8n10r1n3~x4/sett.png" alt="Herbage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g68k22n28dr3n12~x2/"><circle cx="288.1" cy="183.0" r="4" fill="#3465a4"><title>Herbage of Laggan</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="274.8" cy="148.0" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="273.4" cy="148.6" r="4" fill="#3465a4"><title>Limerick County Crest</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="301.2" cy="153.3" r="4" fill="#3465a4"><title>Holehouse, Dag</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="259.1" cy="148.3" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s5/g62k40y3k3w3~x2/"><circle cx="304.9" cy="143.5" r="4" fill="#3465a4"><title>O'Donoghue</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="343.0" cy="187.1" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="288.7" cy="149.4" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/variants/s7/n2k20r2g3r4g35r1~x2/"><circle cx="312.2" cy="101.7" r="4" fill="#3465a4"><title>Williams, Jodi</title></circle></a><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><circle cx="327.6" cy="124.9" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><circle cx="300.2" cy="172.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g68k22n28dr3n12~x2/"><circle cx="288.7" cy="183.1" r="4" fill="#3465a4"><title>Herbage of Laggan</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="275.5" cy="148.0" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="274.1" cy="148.6" r="4" fill="#3465a4"><title>Limerick County Crest</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="301.8" cy="153.4" r="4" fill="#3465a4"><title>Holehouse, Dag</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="259.8" cy="148.3" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s5/g62k40y3k3w3~x2/"><circle cx="305.8" cy="143.6" r="4" fill="#3465a4"><title>O'Donoghue</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="343.8" cy="187.3" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="289.4" cy="149.5" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/variants/s7/n2k20r2g3r4g35r1~x2/"><circle cx="313.2" cy="101.8" r="4" fill="#3465a4"><title>Williams, Jodi</title></circle></a><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><circle cx="328.4" cy="125.0" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><circle cx="300.8" cy="172.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

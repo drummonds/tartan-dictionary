@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4~x2/">Murray of Dunmore (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4~x2/"><img src="/variants/s21/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4~x2/sett.png" alt="Murray of Dunmore (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-dunmore/">Murray of Dunmore</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-of-dunmore/"><img src="/variants/s21/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4~x2/sett.png" alt="Murray of Dunmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

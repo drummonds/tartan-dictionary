@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/">Connecticut</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/"><img src="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/sett.png" alt="Connecticut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/">Connecticut, State of (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/"><img src="/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/sett.png" alt="Connecticut, State of (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connecticut/">Connecticut</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connecticut/"><img src="/variants/s10/db20n2w1n5dg8y1dg2r1dg8n16~x4/sett.png" alt="Connecticut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connecticut-state-of/">Connecticut, State of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connecticut-state-of/"><img src="/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/sett.png" alt="Connecticut, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

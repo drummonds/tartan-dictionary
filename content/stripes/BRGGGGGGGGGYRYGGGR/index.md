@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/">Cuillins of Skye (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/"><img src="/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/sett.png" alt="Cuillins of Skye (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cuillins-of-skye/">Cuillins of Skye</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cuillins-of-skye/"><img src="/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/sett.png" alt="Cuillins of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

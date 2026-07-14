@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/b3db3b3db3b3dr22y2db2r22lb5r8y2lb2~x2/">Pitcairn Trust Company</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/b3db3b3db3b3dr22y2db2r22lb5r8y2lb2~x2/"><img src="/variants/s13/b3db3b3db3b3dr22y2db2r22lb5r8y2lb2~x2/sett.png" alt="Pitcairn Trust Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pitcairn-trust-company/">Pitcairn Trust Company</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pitcairn-trust-company/"><img src="/variants/s13/b3db3b3db3b3dr22y2db2r22lb5r8y2lb2~x2/sett.png" alt="Pitcairn Trust Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

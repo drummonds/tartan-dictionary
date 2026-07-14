@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db5r2db5w7db32w7r13db3r13w2~x2/">America (Eagle version)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db5r2db5w7db32w7r13db3r13w2~x2/"><img src="/variants/s10/db5r2db5w7db32w7r13db3r13w2~x2/sett.png" alt="America (Eagle version) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/america/">America</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/america/"><img src="/variants/s10/db5r2db5w7db32w7r13db3r13w2~x2/sett.png" alt="America sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr6g1lb2g24k3g3k3g3k8db8lb2db4~x2/">Kerby/Kirby</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr6g1lb2g24k3g3k3g3k8db8lb2db4~x2/"><img src="/variants/s12/dr6g1lb2g24k3g3k3g3k8db8lb2db4~x2/sett.png" alt="Kerby/Kirby sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kerby-kirby/">Kerby/Kirby</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kerby-kirby/"><img src="/variants/s12/dr6g1lb2g24k3g3k3g3k8db8lb2db4~x2/sett.png" alt="Kerby/Kirby sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

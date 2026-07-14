@@ -12,10 +12,10 @@ crumbs:
 - name: "Patel"
   url: "/tartans/p/pa/patel/"
 - name: "Patel (2013)"
-  url: "/setts/dg3y2dr10dg10db20dg12r3db10w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg3y2dr10dg10db20dg12r3db10w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/patel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGRBW](/stripes/ggbgbgrbw/).
 
 Part of the [Patel](/tartans/p/pa/patel/) tartan — the named design grouping this sett with its other cloths.

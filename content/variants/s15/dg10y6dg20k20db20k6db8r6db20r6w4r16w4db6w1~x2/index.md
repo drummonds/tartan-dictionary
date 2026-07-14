@@ -10,15 +10,15 @@ crumbs:
 - name: "Watson"
   url: "/families/watson/"
 - name: "Watson"
-  url: "/tartans/w/wa/watson/"
+  url: "/tartans/w/wa/watson-2/"
 - name: "Watson - Kirby (Personal)"
-  url: "/setts/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/watson-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKBKBRBRWRWBW](/stripes/gggkbkbrbrwrwbw/).
 
-Part of the [Watson](/tartans/w/wa/watson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Watson](/tartans/w/wa/watson-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

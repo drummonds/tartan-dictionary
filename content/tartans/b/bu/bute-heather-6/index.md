@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkbkbkbkb/">BKBKBKBKBKB</a></nav>
 Its design is pattern [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/) — the page of every tartan sharing this colour sequence.
 
 The **Bute Heather** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Bute Heather** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/">Bute Heather</a></td><td><code>DT/13 K2 DT38 K13 DT28 K8 DT17 K2 DT17 K4 DT/11</code></td><td>282</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/"><img src="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/sett.png" alt="Bute Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/">Bute Heather</a></td><td><code>DT/13 K2 DT38 K13 DT28 K8 DT17 K2 DT17 K4 DT/11</code></td><td>282</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/"><img src="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/sett.png" alt="Bute Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><circle cx="344.8" cy="200.3" r="4" fill="#3465a4"><title>MacLoughlin Ardmarnoch</title></circle></a><circle cx="581.2" cy="204.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><circle cx="345.7" cy="200.6" r="4" fill="#3465a4"><title>MacLoughlin Ardmarnoch</title></circle></a><circle cx="582.6" cy="204.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

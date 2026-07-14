@@ -12,10 +12,10 @@ crumbs:
 - name: "Falconer of Labhdal"
   url: "/tartans/f/fa/falconer-of-labhdal/"
 - name: "Falconer of Labhdal Personal Tartan"
-  url: "/setts/k7lb7g20lb2g2lb2g20lb7k7lb7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7lb7g20lb2g2lb2g20lb7k7lb7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fa/falconer-of-labhdal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGWGWGWKW](/stripes/kwgwgwgwkw/).
 
 Part of the [Falconer of Labhdal](/tartans/f/fa/falconer-of-labhdal/) tartan — the named design grouping this sett with its other cloths.

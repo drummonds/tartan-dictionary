@@ -10,10 +10,10 @@ crumbs:
 - name: "Shepherd, Derek"
   url: "/tartans/s/sh/shepherd-derek-2/"
 - name: "Shepherd, Derek (Modern)"
-  url: "/setts/dy2dg1dy2dg1lb1dg1lb8k40dy5dg40lb10dg1lb5k15dg1lb7dg1lb1dg1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy2dg1dy2dg1lb1dg1lb8k40dy5dg40lb10dg1lb5k15dg1lb7dg1lb1dg1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shepherd-derek-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGWGWKGGWGWKGWGWG](/stripes/ggggwgwkggwgwkgwgwg/).
 
 Part of the [Shepherd, Derek](/tartans/s/sh/shepherd-derek-2/) tartan — the named design grouping this sett with its other cloths.

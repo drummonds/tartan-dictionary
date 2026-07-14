@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Thomson"
   url: "/clan/thomson/"
+aliases:
+- "/setts/r4o30k6w13k13w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rrkwkw/">RRKWKW</a></nav>
 A tartan of [Clan Thomson](/clan/thomson/).
 Its design is pattern [RRKWKW](/stripes/rrkwkw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Thomson camel** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4o30k6w13k13w3/">Thomson camel</a></td><td><code>R/8 O60 K12 W26 K26 W/6</code></td><td>262</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4o30k6w13k13w3/"><img src="/variants/s6/r4o30k6w13k13w3~x2/sett.png" alt="Thomson camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r4o30k6w13k13w3~x2/">Thomson camel</a></td><td><code>R/8 O60 K12 W26 K26 W/6</code></td><td>262</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r4o30k6w13k13w3~x2/"><img src="/variants/s6/r4o30k6w13k13w3~x2/sett.png" alt="Thomson camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/lb12lo75k22w12k22w16lb8/"><circle cx="177.9" cy="176.9" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/variants/s6/r10w2k10w10o35k5~x2/"><circle cx="219.8" cy="150.5" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s5/k6w6k6o21r2~x4/"><circle cx="219.0" cy="178.6" r="4" fill="#3465a4"><title>Burberry, Check</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="180.8" cy="185.1" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="169.5" cy="189.8" r="4" fill="#3465a4"><title>Thomson Camel</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="158.3" cy="193.5" r="4" fill="#3465a4"><title>Thompson Camel</title></circle></a><a href="/variants/s5/db6lo25dy16k2db3~x2/"><circle cx="229.2" cy="181.3" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s7/r2w8k14o25w2k2w2~x2/"><circle cx="200.5" cy="145.0" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/variants/s5/o30k7n20ly4k4~x2/"><circle cx="222.9" cy="215.1" r="4" fill="#3465a4"><title>Drumfintley</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="144.6" cy="193.1" r="4" fill="#3465a4"><title>Merrilees Dress</title></circle></a><circle cx="168.7" cy="177.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/lb12lo75k22w12k22w16lb8/"><circle cx="178.3" cy="176.7" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/variants/s6/r10w2k10w10o35k5~x2/"><circle cx="220.4" cy="150.3" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s5/k6w6k6o21r2~x4/"><circle cx="219.6" cy="178.6" r="4" fill="#3465a4"><title>Burberry, Check</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="181.2" cy="184.9" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="169.9" cy="189.6" r="4" fill="#3465a4"><title>Thomson Camel</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="158.6" cy="193.3" r="4" fill="#3465a4"><title>Thompson Camel</title></circle></a><a href="/variants/s5/db6lo25dy16k2db3~x2/"><circle cx="229.7" cy="181.2" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s7/r2w8k14o25w2k2w2~x2/"><circle cx="201.1" cy="144.8" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/variants/s5/o30k7n20ly4k4~x2/"><circle cx="223.3" cy="215.1" r="4" fill="#3465a4"><title>Drumfintley</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="145.0" cy="192.8" r="4" fill="#3465a4"><title>Merrilees Dress</title></circle></a><circle cx="169.1" cy="177.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

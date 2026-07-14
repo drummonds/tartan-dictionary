@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/">Motherwell Football Club. Modern</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><img src="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/sett.png" alt="Motherwell Football Club. Modern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/motherwell-f-c/">Motherwell F.C.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/motherwell-f-c/"><img src="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/sett.png" alt="Motherwell F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

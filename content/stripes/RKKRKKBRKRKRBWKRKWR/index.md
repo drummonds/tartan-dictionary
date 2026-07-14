@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/">Taggart Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><img src="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/sett.png" alt="Taggart Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/taggart/">Taggart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/taggart/"><img src="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/sett.png" alt="Taggart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

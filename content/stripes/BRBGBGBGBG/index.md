@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/">Cape Breton University Chemistry Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><img src="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/sett.png" alt="Cape Breton University Chemistry Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cape-breton-university-chemistry-society/">Cape Breton University Chemistry Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cape-breton-university-chemistry-society/"><img src="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/sett.png" alt="Cape Breton University Chemistry Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w3y3r2y13k3y4k22y4k3y16dp2w3~x2/">Loch Sween</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w3y3r2y13k3y4k22y4k3y16dp2w3~x2/"><img src="/variants/s12/w3y3r2y13k3y4k22y4k3y16dp2w3~x2/sett.png" alt="Loch Sween sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-sween/">Loch Sween</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-sween/"><img src="/variants/s12/w3y3r2y13k3y4k22y4k3y16dp2w3~x2/sett.png" alt="Loch Sween sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

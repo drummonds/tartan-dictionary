@@ -10,10 +10,10 @@ crumbs:
 - name: "Manx, Mannin"
   url: "/tartans/m/ma/manx-mannin-2/"
 - name: "Manx, Mannin Plaid"
-  url: "/setts/y1o5r5w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1o5r5w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/manx-mannin-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRW](/stripes/grrw/).
 
 Part of the [Manx, Mannin](/tartans/m/ma/manx-mannin-2/) tartan — the named design grouping this sett with its other cloths.

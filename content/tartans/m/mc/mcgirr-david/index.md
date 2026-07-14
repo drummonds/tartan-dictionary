@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g4r1g15t5r1w5g4r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgbrwgr/">GRGBRWGR</a></nav>
 Its design is pattern [GRGBRWGR](/stripes/grgbrwgr/) — the page of every tartan sharing this colour sequence.
 
 The **McGirr David** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **McGirr David** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g4r1g15t5r1w5g4r1/">McGirr David</a></td><td><code>G/16 R4 G60 T20 R4 W20 G16 R/4</code></td><td>268</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g4r1g15t5r1w5g4r1/"><img src="/variants/s8/g4r1g15t5r1w5g4r1~x4/sett.png" alt="McGirr David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/">McGirr David</a></td><td><code>G/16 R4 G60 T20 R4 W20 G16 R/4</code></td><td>268</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><img src="/variants/s8/g4r1g15t5r1w5g4r1~x4/sett.png" alt="McGirr David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="322.9" cy="177.6" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.2" cy="199.7" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="325.0" cy="177.0" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps</title></circle></a><a href="/variants/s7/dr3g22db16g14dr2g6lo2~x2/"><circle cx="386.2" cy="235.4" r="4" fill="#3465a4"><title>Scottish Scouts</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="449.1" cy="187.8" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="280.4" cy="232.3" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s8/g13dp1g1dp1g3t5k4y2~x4/"><circle cx="264.6" cy="161.0" r="4" fill="#3465a4"><title>Carrick Hunting</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.6" cy="200.5" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="387.0" cy="143.4" r="4" fill="#3465a4"><title>Seattle</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="405.8" cy="160.9" r="4" fill="#3465a4"><title>Island Weavers</title></circle></a><circle cx="367.8" cy="193.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="323.5" cy="177.7" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.7" cy="199.9" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="325.6" cy="177.1" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps</title></circle></a><a href="/variants/s7/dr3g22db16g14dr2g6lo2~x2/"><circle cx="386.8" cy="235.6" r="4" fill="#3465a4"><title>Scottish Scouts</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="449.8" cy="188.1" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="280.8" cy="232.3" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s8/g13dp1g1dp1g3t5k4y2~x4/"><circle cx="265.2" cy="161.0" r="4" fill="#3465a4"><title>Carrick Hunting</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="326.2" cy="200.6" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="387.8" cy="143.6" r="4" fill="#3465a4"><title>Seattle</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="406.7" cy="161.1" r="4" fill="#3465a4"><title>Island Weavers</title></circle></a><circle cx="368.4" cy="193.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r16db2n6r3k4lb2db40lb6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbbrkwbw/">RBBRKWBW</a></nav>
 Its design is pattern [RBBRKWBW](/stripes/rbbrkwbw/) — the page of every tartan sharing this colour sequence.
 
 The **St. Leonards** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **St. Leonards** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r16db2n6r3k4lb2db40lb6/">St. Leonards</a></td><td><code>R/32 DB4 N12 R6 K8 LB4 DB80 LB/12</code></td><td>272</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r16db2n6r3k4lb2db40lb6/"><img src="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/sett.png" alt="St. Leonards sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/">St. Leonards</a></td><td><code>R/32 DB4 N12 R6 K8 LB4 DB80 LB/12</code></td><td>272</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><img src="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/sett.png" alt="St. Leonards sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="341.3" cy="115.3" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen'</title></circle></a><a href="/variants/s6/db25r8db3r4k1w3~x2/"><circle cx="362.9" cy="119.5" r="4" fill="#3465a4"><title>Clan Gregor</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="355.1" cy="142.2" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/k4db32r30db2w5k2~x2/"><circle cx="245.7" cy="140.4" r="4" fill="#3465a4"><title>Masai Shuka 17</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.8" cy="117.4" r="4" fill="#3465a4"><title>Iberia Dress</title></circle></a><a href="/variants/s10/k4w3k3r13db24r8db26lb12k3w2~x2/"><circle cx="196.4" cy="134.4" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="256.3" cy="129.9" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/"><circle cx="230.0" cy="86.9" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="265.8" cy="110.6" r="4" fill="#3465a4"><title>Jack Sinclair</title></circle></a><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><circle cx="300.6" cy="153.8" r="4" fill="#3465a4"><title>Heritage of Wales</title></circle></a><circle cx="271.0" cy="108.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="342.3" cy="115.4" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen'</title></circle></a><a href="/variants/s6/db25r8db3r4k1w3~x2/"><circle cx="364.0" cy="119.6" r="4" fill="#3465a4"><title>Clan Gregor</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="356.1" cy="142.3" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/k4db32r30db2w5k2~x2/"><circle cx="246.4" cy="140.3" r="4" fill="#3465a4"><title>Masai Shuka 17</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="326.6" cy="117.4" r="4" fill="#3465a4"><title>Iberia Dress</title></circle></a><a href="/variants/s10/k4w3k3r13db24r8db26lb12k3w2~x2/"><circle cx="197.0" cy="134.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="257.0" cy="129.8" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/"><circle cx="230.7" cy="86.7" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="266.7" cy="110.5" r="4" fill="#3465a4"><title>Jack Sinclair</title></circle></a><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><circle cx="301.5" cy="153.8" r="4" fill="#3465a4"><title>Heritage of Wales</title></circle></a><circle cx="271.9" cy="108.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

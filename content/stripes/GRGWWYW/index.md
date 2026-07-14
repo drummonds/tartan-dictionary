@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g3r1g12w4lb15ly1lb3~x4/">Postcode Lottery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g3r1g12w4lb15ly1lb3~x4/"><img src="/variants/s7/g3r1g12w4lb15ly1lb3~x4/sett.png" alt="Postcode Lottery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/postcode-lottery/">Postcode Lottery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/postcode-lottery/"><img src="/variants/s7/g3r1g12w4lb15ly1lb3~x4/sett.png" alt="Postcode Lottery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

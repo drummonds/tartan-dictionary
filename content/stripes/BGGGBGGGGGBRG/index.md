@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2~x2/">MacVicar, McVicar, McVicker</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2~x2/"><img src="/variants/s13/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2~x2/sett.png" alt="MacVicar, McVicar, McVicker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/">MacVicker (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/"><img src="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/sett.png" alt="MacVicker (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macvicar-mcvicar-mcvicker/">MacVicar, McVicar, McVicker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macvicar-mcvicar-mcvicker/"><img src="/variants/s13/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2~x2/sett.png" alt="MacVicar, McVicar, McVicker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macvicker/">MacVicker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macvicker/"><img src="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/sett.png" alt="MacVicker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

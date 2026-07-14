@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/">Federal Memorial Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/"><img src="/variants/s13/db3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/sett.png" alt="Federal Memorial Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/b3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/">Federal Memorial Dress (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/b3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/"><img src="/variants/s13/b3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/sett.png" alt="Federal Memorial Dress (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/federal-memorial-dress/">Federal Memorial Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/federal-memorial-dress/"><img src="/variants/s13/db3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/sett.png" alt="Federal Memorial Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,15 +12,15 @@ crumbs:
 - name: "Hamilton of Brandon"
   url: "/tartans/h/ha/hamilton-of-brandon/"
 - name: "Hamilton of Brandon"
-  url: "/setts/ly16k7w1g7k1dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly16k7w1g7k1dy3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGWKYKWGK](/stripes/gkgwkykwgk/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hamilton-of-brandon/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GKGWKY](/stripes/gkgwky/).
 
 Part of the [Hamilton of Brandon](/tartans/h/ha/hamilton-of-brandon/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1579](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1579)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1579](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1997 — Hamilton of Brandon (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1579">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>From D C Dalgliesh as 'Hamilton of Brandon', but Scottish Tartans Society sindex names it as 'Brandon (Manitoba)'. Why the Scottish Tartans Society should claim that is not explained. One of the titles of the 14th Duke was in fact the 11th Duke of Brandon which was awarded in 1711 and the City of Brandon in Manitoba was not founded until 1882. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1997 — Hamilton of Brandon (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5141">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>From D C Dalgliesh as "Hamilton of Brandon", but STS sindex names it as "Brandon (Manitoba)". Why the STS should claim that is not explained. One of the titles of the 14th Duke was in fact the 11th Duke of Brandon which was awarded in 1711 and the City of Brandon in Manitoba was not founded until 1882. Sample in STA's Johnston Collection.</em></li>
+<li>pre 1997 — Hamilton of Brandon (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5141/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><br><em>From D C Dalgliesh as "Hamilton of Brandon", but STS sindex names it as "Brandon (Manitoba)". Why the STS should claim that is not explained. One of the titles of the 14th Duke was in fact the 11th Duke of Brandon which was awarded in 1711 and the City of Brandon in Manitoba was not founded until 1882. Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5141
 
 ## Thread count
-DY/12 K4 G28 W4 K28 LY64 K28 W4 G28 K/4
+LY/64 K28 W4 G28 K4 DY/12
 
-One full sett is **392 threads**.
+One full sett is **204 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DY/12 K4 G28 W4 K28 LY64 K28 W4 G28 K/4 — 392 threads; it folds to the canonical 204-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **392 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/12 K4 G28 W4 K28 LY64 K28 W4 G28 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/64 K28 W4 G28 K4 DY/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/">Benson (New England)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/"><img src="/variants/s7/k16t2k8r3lr3r3k8~x2/sett.png" alt="Benson (New England) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/benson/">Benson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/benson/"><img src="/variants/s7/k16t2k8r3lr3r3k8~x2/sett.png" alt="Benson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

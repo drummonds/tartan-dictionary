@@ -12,10 +12,10 @@ crumbs:
 - name: "Fitzgibbon"
   url: "/tartans/f/fi/fitzgibbon-2/"
 - name: "Fitzgibbon"
-  url: "/setts/dg2ly6g24r2dy2dg1dy6dg10g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2ly6g24r2dy2dg1dy6dg10g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fi/fitzgibbon-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGRGYG](/stripes/gggggrgyg/).
 
 Part of the [Fitzgibbon](/tartans/f/fi/fitzgibbon-2/) tartan — the named design grouping this sett with its other cloths.

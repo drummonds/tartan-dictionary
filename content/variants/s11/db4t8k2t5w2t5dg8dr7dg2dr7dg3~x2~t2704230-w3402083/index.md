@@ -12,10 +12,10 @@ crumbs:
 - name: "DunBroch"
   url: "/tartans/d/du/dunbroch/"
 - name: "DunBroch"
-  url: "/setts/db4t8k2t5w2t5dg8dr7dg2dr7dg3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4t8k2t5w2t5dg8dr7dg2dr7dg3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunbroch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBWBGBGBG](/stripes/bbkbwbgbgbg/).
 
 Part of the [DunBroch](/tartans/d/du/dunbroch/) tartan — the named design grouping this sett with its other cloths.

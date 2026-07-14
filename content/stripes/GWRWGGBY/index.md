@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lg4n2dg24dy10w12r1w12dg2~x2/">Reuben J Jolley Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lg4n2dg24dy10w12r1w12dg2~x2/"><img src="/variants/s8/lg4n2dg24dy10w12r1w12dg2~x2/sett.png" alt="Reuben J Jolley Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/reuben-j-jolley/">Reuben J Jolley</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/reuben-j-jolley/"><img src="/variants/s8/lg4n2dg24dy10w12r1w12dg2~x2/sett.png" alt="Reuben J Jolley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

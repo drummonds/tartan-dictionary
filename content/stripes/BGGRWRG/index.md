@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g19r3lb19r11g19y2db4~x2/">Rotary Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g19r3lb19r11g19y2db4~x2/"><img src="/variants/s7/g19r3lb19r11g19y2db4~x2/sett.png" alt="Rotary Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rotary/">Rotary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rotary/"><img src="/variants/s7/g19r3lb19r11g19y2db4~x2/sett.png" alt="Rotary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

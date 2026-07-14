@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g8r2g9r16w1~x2/">MacGregor of Balquhidder</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g8r2g9r16w1~x2/"><img src="/variants/s5/g8r2g9r16w1~x2/sett.png" alt="MacGregor of Balquhidder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/dg24r3dg16r33w4/">Unidentified Plaid #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dg24r3dg16r33w4/"><img src="/variants/s5/dg24r3dg16r33w4/sett.png" alt="Unidentified Plaid #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-of-balquhidder/">MacGregor of Balquhidder</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-of-balquhidder/"><img src="/variants/s5/g8r2g9r16w1~x2/sett.png" alt="MacGregor of Balquhidder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-15/">Unidentified</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-15/"><img src="/variants/s5/dg24r3dg16r33w4/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "MacKay of Strathnaver"
   url: "/tartans/m/ma/mackay-of-strathnaver-2/"
 - name: "MacKay of Strathnaver Clan Tartan"
-  url: "/setts/g18r1k18r1n18r1o18r1dr18r1dy18r1lr18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1g18/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g18r1k18r1n18r1o18r1dr18r1dy18r1lr18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1g18/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackay-of-strathnaver-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRBRRRBRGRYRYRGRBRRRBRKRG](/stripes/grkrbrrrbrgryryrgrbrrrbrkrg/).
 
 Part of the [MacKay of Strathnaver](/tartans/m/ma/mackay-of-strathnaver-2/) tartan — the named design grouping this sett with its other cloths.

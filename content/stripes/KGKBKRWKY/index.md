@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/">Care Leaver</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/"><img src="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/sett.png" alt="Care Leaver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/care-leaver/">Care Leaver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/care-leaver/"><img src="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/sett.png" alt="Care Leaver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

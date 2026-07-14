@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbwgbbwgg/">BGBWGBBWGG</a></nav>
 Its design is pattern [BGBWGBBWGG](/stripes/bgbwgbbwgg/) — the page of every tartan sharing this colour sequence.
 
 The **Islay Whisky Club** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Islay Whisky Club** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2/">Islay Whisky Club</a></td><td><code>DR/60 DGi8 DP6 LB6 DGi8 DR60 DP6 LB6 DG8 DY/4</code></td><td>280</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2/"><img src="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/sett.png" alt="Islay Whisky Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/">Islay Whisky Club</a></td><td><code>DR/60 DGi8 DP6 LB6 DGi8 DR60 DP6 LB6 DG8 DY/4</code></td><td>280</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/"><img src="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/sett.png" alt="Islay Whisky Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dr3dy15g4db6w2dr30db6y3~x2/"><circle cx="318.1" cy="194.7" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="336.8" cy="111.3" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s5/dr35w3dr8y2dg11~x2/"><circle cx="513.8" cy="204.6" r="4" fill="#3465a4"><title>Highlands of Wyomissing</title></circle></a><a href="/variants/s9/dp35dt2dy1dt1lb1dt5dr2g5lo4~x2/"><circle cx="402.1" cy="88.2" r="4" fill="#3465a4"><title>Millennium</title></circle></a><a href="/variants/s13/w3dr35db3dr2db3dr10dg3dr2dg3dr2dg3dr10y2~x2/"><circle cx="520.0" cy="139.9" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s18/dg4lb3dp3dr30dgi4lb3dp3dgi4dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/"><circle cx="390.7" cy="130.3" r="4" fill="#3465a4"><title>Islay Whisky Club</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="445.9" cy="155.1" r="4" fill="#3465a4"><title>Glencross</title></circle></a><circle cx="457.5" cy="157.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dr3dy15g4db6w2dr30db6y3~x2/"><circle cx="318.4" cy="194.7" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="337.6" cy="111.4" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s5/dr35w3dr8y2dg11~x2/"><circle cx="514.8" cy="204.9" r="4" fill="#3465a4"><title>Highlands of Wyomissing</title></circle></a><a href="/variants/s9/dp35dt2dy1dt1lb1dt5dr2g5lo4~x2/"><circle cx="403.0" cy="88.2" r="4" fill="#3465a4"><title>Millennium</title></circle></a><a href="/variants/s13/w3dr35db3dr2db3dr10dg3dr2dg3dr2dg3dr10y2~x2/"><circle cx="521.1" cy="140.2" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s18/dg4lb3dp3dr30dgi4lb3dp3dgi4dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/"><circle cx="391.4" cy="130.4" r="4" fill="#3465a4"><title>Islay Whisky Club</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="446.7" cy="155.3" r="4" fill="#3465a4"><title>Glencross</title></circle></a><circle cx="458.3" cy="157.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

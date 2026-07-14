@@ -12,10 +12,10 @@ crumbs:
 - name: "Murray of Arthurstone"
   url: "/tartans/m/mu/murray-of-arthurstone/"
 - name: "Murray of Arthurstone"
-  url: "/setts/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murray-of-arthurstone/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGRGKBKBKBKBKBKGRGKBKB](/stripes/bkbkgrgkbkbkbkbkbkgrgkbkb/).
 
 Part of the [Murray of Arthurstone](/tartans/m/mu/murray-of-arthurstone/) tartan — the named design grouping this sett with its other cloths.

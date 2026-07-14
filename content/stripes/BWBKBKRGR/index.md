@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/">Caledon (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><img src="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/sett.png" alt="Caledon (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledon/">Caledon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledon/"><img src="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/sett.png" alt="Caledon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

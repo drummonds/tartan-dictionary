@@ -8,10 +8,10 @@ crumbs:
 - name: "Sea Bees Regimental"
   url: "/tartans/s/se/sea-bees-regimental/"
 - name: "Sea Bees Regimental Tartan"
-  url: "/setts/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/se/sea-bees-regimental/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGGGGGWGBGGGRGGGGGRGGG](/stripes/bgwgggggwgbgggrgggggrggg/).
 
 Part of the [Sea Bees Regimental](/tartans/s/se/sea-bees-regimental/) tartan — the named design grouping this sett with its other cloths.

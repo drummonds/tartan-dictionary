@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/">Tinkler, Andrew (Stobart Group)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><img src="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/sett.png" alt="Tinkler, Andrew (Stobart Group) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tinkler-andrew/">Tinkler, Andrew</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tinkler-andrew/"><img src="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/sett.png" alt="Tinkler, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

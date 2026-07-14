@@ -12,10 +12,10 @@ crumbs:
 - name: "MacLaurin of Broich"
   url: "/tartans/m/ma/maclaurin-of-broich/"
 - name: "MacLaurin of Broich"
-  url: "/setts/db37k16dg6r6dg12k2ly4k2dg12r6dg6k20db72k20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db37k16dg6r6dg12k2ly4k2dg12r6dg6k20db72k20/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclaurin-of-broich/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRGKYKGRGKBK](/stripes/bkgrgkykgrgkbk/).
 
 Part of the [MacLaurin of Broich](/tartans/m/ma/maclaurin-of-broich/) tartan — the named design grouping this sett with its other cloths.

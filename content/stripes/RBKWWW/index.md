@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lb20w2lb5k2db10r3~x2/">St. Christopher's School (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb20w2lb5k2db10r3~x2/"><img src="/variants/s6/lb20w2lb5k2db10r3~x2/sett.png" alt="St. Christopher's School (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-christopher-s-school/">St. Christopher's School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-christopher-s-school/"><img src="/variants/s6/lb20w2lb5k2db10r3~x2/sett.png" alt="St. Christopher's School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

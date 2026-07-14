@@ -8,10 +8,10 @@ crumbs:
 - name: "G8 Summit"
   url: "/tartans/g/g/g8-summit-2/"
 - name: "G8 Summit Corporate Tartan"
-  url: "/setts/g9db2r2db50lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db50r2db2g9dp4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g9db2r2db50lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db1lr1db50r2db2g9dp4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/g/g8-summit-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBYBYBYBYBYBYBYBYBRBG](/stripes/bgbrbybybybybybybybybrbg/).
 
 Part of the [G8 Summit](/tartans/g/g/g8-summit-2/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Denny Hunting"
   url: "/tartans/d/de/denny-hunting/"
 - name: "Denny Hunting Clan Tartan"
-  url: "/setts/k1g6k1g6r16db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1g6k1g6r16db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/denny-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGKGK](/stripes/brgkgk/).
 
 Part of the [Denny Hunting](/tartans/d/de/denny-hunting/) tartan — the named design grouping this sett with its other cloths.

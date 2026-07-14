@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3~x2~lt3606171-db1007262-lr3200000/">Help for Heroes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3~x2~lt3606171-db1007262-lr3200000/"><img src="/variants/s16/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3~x2~lt3606171-db1007262-lr3200000/sett.png" alt="Help for Heroes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/help-for-heroes-2/">Help for Heroes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/help-for-heroes-2/"><img src="/variants/s16/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3~x2~lt3606171-db1007262-lr3200000/sett.png" alt="Help for Heroes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

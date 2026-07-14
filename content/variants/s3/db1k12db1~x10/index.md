@@ -12,10 +12,10 @@ crumbs:
 - name: "Staines"
   url: "/tartans/s/st/staines/"
 - name: "Staines (2013)"
-  url: "/setts/db1k12db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1k12db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/staines/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKB](/stripes/bkb/).
 
 Part of the [Staines](/tartans/s/st/staines/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/">Scottish Canals (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/"><img src="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/sett.png" alt="Scottish Canals (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-canals/">Scottish Canals</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-canals/"><img src="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/sett.png" alt="Scottish Canals sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

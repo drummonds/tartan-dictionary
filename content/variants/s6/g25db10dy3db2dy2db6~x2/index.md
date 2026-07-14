@@ -10,17 +10,17 @@ crumbs:
 - name: "Inkster"
   url: "/families/inkster/"
 - name: "Inkster"
-  url: "/tartans/i/in/inkster/"
+  url: "/tartans/i/in/inkster-2/"
 - name: "Inkster"
-  url: "/setts/g25db10dy3db2dy2db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g25db10dy3db2dy2db6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/).
+provenance below. It is one weaving of the [sett](/tartans/i/in/inkster-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBGBG](/stripes/bgbgbg/).
 
-Part of the [Inkster](/tartans/i/in/inkster/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Inkster](/tartans/i/in/inkster-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1826](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1826)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2310
 
 ## Thread count
-DB/12 DY4 DB4 DY6 DB20 G50 DB20 DY6 DB4 DY/4
+G/50 DB20 DY6 DB4 DY4 DB/12
 
-One full sett is **244 threads**.
+One full sett is **130 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/12 DY4 DB4 DY6 DB20 G50 DB20 DY6 DB4 DY/4 — 244 threads; it folds to the canonical 130-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **244 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 DY4 DB4 DY6 DB20 G50 DB20 DY6 DB4 DY/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/50 DB20 DY6 DB4 DY4 DB/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

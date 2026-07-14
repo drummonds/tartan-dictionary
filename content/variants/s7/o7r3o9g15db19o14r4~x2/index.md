@@ -8,10 +8,10 @@ crumbs:
 - name: "Dorward"
   url: "/tartans/d/do/dorward/"
 - name: "Dorward"
-  url: "/setts/o7r3o9g15db19o14r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o7r3o9g15db19o14r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/dorward/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRBGRRR](/stripes/rrbgrrr/).
 
 Part of the [Dorward](/tartans/d/do/dorward/) tartan — the named design grouping this sett with its other cloths.

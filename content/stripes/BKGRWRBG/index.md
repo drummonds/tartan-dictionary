@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/">Sustainability (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/"><img src="/variants/s8/db20k3g18r12lb4r12db15y4~x2/sett.png" alt="Sustainability (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/sustainability/">Sustainability</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sustainability/"><img src="/variants/s8/db20k3g18r12lb4r12db15y4~x2/sett.png" alt="Sustainability sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

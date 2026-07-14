@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008/">Colville (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008/"><img src="/variants/s11/ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008/sett.png" alt="Colville (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/colville/">Colville</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/colville/"><img src="/variants/s11/ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008/sett.png" alt="Colville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

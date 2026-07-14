@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/manitoba/"
 - name: "Manitoba"
   url: "/families/manitoba/"
+aliases:
+- "/setts/db4w1db2w18g3w1r9y4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbwgwrg/">BWBWGWRG</a></nav>
 A tartan of the [Manitoba](/families/manitoba/) family.
 Its design is pattern [BWBWGWRG](/stripes/bwbwgwrg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Manitoba Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db4w1db2w18g3w1r9y4/">Manitoba Dress</a></td><td><code>DB/16 W4 DB8 W72 G12 W4 R36 Y/16</code></td><td>304</td><td>1958</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db4w1db2w18g3w1r9y4/"><img src="/variants/s8/db4w1db2w18g3w1r9y4~x4/sett.png" alt="Manitoba Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/">Manitoba Dress</a></td><td><code>DB/16 W4 DB8 W72 G12 W4 R36 Y/16</code></td><td>304</td><td>1958</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><img src="/variants/s8/db4w1db2w18g3w1r9y4~x4/sett.png" alt="Manitoba Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/y42db2w2db2y5lo12w32r4~x2/"><circle cx="264.0" cy="143.8" r="4" fill="#3465a4"><title>Comrie Gold</title></circle></a><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><circle cx="256.0" cy="132.5" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/variants/s6/r3w33dp8dg18r9g3~x2/"><circle cx="177.6" cy="183.3" r="4" fill="#3465a4"><title>MacKintosh Dress</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="248.1" cy="190.0" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><a href="/variants/s6/w36db12w1r12g16y2~x2/"><circle cx="230.7" cy="144.2" r="4" fill="#3465a4"><title>MacNappy</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="216.2" cy="162.3" r="4" fill="#3465a4"><title>Shiel Claret</title></circle></a><a href="/variants/s7/w30o4w3dp2r2dp24wi2~x2~w3901060-wi4000000/"><circle cx="256.0" cy="141.0" r="4" fill="#3465a4"><title>St Andrews Links Dress</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.5" cy="199.7" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="232.2" cy="169.2" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="263.1" cy="123.3" r="4" fill="#3465a4"><title>Ben Cleuch</title></circle></a><circle cx="217.0" cy="144.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/y42db2w2db2y5lo12w32r4~x2/"><circle cx="264.5" cy="143.6" r="4" fill="#3465a4"><title>Comrie Gold</title></circle></a><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><circle cx="256.4" cy="132.3" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/variants/s6/r3w33dp8dg18r9g3~x2/"><circle cx="177.9" cy="183.1" r="4" fill="#3465a4"><title>MacKintosh Dress</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="248.4" cy="189.8" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><a href="/variants/s6/w36db12w1r12g16y2~x2/"><circle cx="231.2" cy="144.0" r="4" fill="#3465a4"><title>MacNappy</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="216.6" cy="162.0" r="4" fill="#3465a4"><title>Shiel Claret</title></circle></a><a href="/variants/s7/w30o4w3dp2r2dp24wi2~x2~w3901060-wi4000000/"><circle cx="256.6" cy="140.8" r="4" fill="#3465a4"><title>St Andrews Links Dress</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.8" cy="199.5" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="232.7" cy="169.0" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="263.6" cy="123.1" r="4" fill="#3465a4"><title>Ben Cleuch</title></circle></a><circle cx="217.4" cy="144.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

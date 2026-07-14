@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/">Border Sett</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/"><img src="/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/sett.png" alt="Border Sett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/">Wilson's Blanket Sett - Border</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/"><img src="/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/sett.png" alt="Wilson's Blanket Sett - Border sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/border-sett/">Border Sett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/border-sett/"><img src="/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/sett.png" alt="Border Sett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-blanket-sett/">Wilson's Blanket Sett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-blanket-sett/"><img src="/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/sett.png" alt="Wilson's Blanket Sett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

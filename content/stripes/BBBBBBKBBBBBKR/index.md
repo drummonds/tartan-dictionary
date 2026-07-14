@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr2db2dr1db2dr1db28k6dr2b1dr2b1dr24k1r1~x2~db1404245-b2409265/">Chisholm, Christopher (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr2db2dr1db2dr1db28k6dr2b1dr2b1dr24k1r1~x2~db1404245-b2409265/"><img src="/variants/s14/dr2db2dr1db2dr1db28k6dr2b1dr2b1dr24k1r1~x2~db1404245-b2409265/sett.png" alt="Chisholm, Christopher (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chisholm-christopher/">Chisholm, Christopher</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chisholm-christopher/"><img src="/variants/s14/dr2db2dr1db2dr1db28k6dr2b1dr2b1dr24k1r1~x2~db1404245-b2409265/sett.png" alt="Chisholm, Christopher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

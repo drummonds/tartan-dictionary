@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/">Tau-Taurini (Provisional) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/"><img src="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/sett.png" alt="Tau-Taurini (Provisional) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tau-taurini/">Tau-Taurini</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tau-taurini/"><img src="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/sett.png" alt="Tau-Taurini sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

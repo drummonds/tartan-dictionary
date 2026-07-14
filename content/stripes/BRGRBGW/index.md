@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db6r15g41r15db20g41lb6/">Bean Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db6r15g41r15db20g41lb6/"><img src="/variants/s7/db6r15g41r15db20g41lb6/sett.png" alt="Bean Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bean-hunting/">Bean Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bean-hunting/"><img src="/variants/s7/db6r15g41r15db20g41lb6/sett.png" alt="Bean Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

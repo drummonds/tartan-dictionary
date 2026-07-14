@@ -8,10 +8,10 @@ crumbs:
 - name: "Donnolly"
   url: "/tartans/d/do/donnolly/"
 - name: "Donnolly"
-  url: "/setts/db3dg21db3o21db35w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3dg21db3o21db35w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/donnolly/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBW](/stripes/bgbrbw/).
 
 Part of the [Donnolly](/tartans/d/do/donnolly/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=951](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — Donnolly (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=951">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04C08;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MR #C04C08"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>One of a series of Irish name tartans designed by Scotch Corner of Gateshead, England.</em></li>
-<li>2003 — Donnolly (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6034">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04C08;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MR #C04C08"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Thought to be one of Scotch Corner's many Irish tartan inventions. Lochcarron swatch.</em></li>
+<li>2003 — Donnolly (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6034/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C04C08;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MR #C04C08"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Thought to be one of Scotch Corner's many Irish tartan inventions. Lochcarron swatch.</em></li>
 </ul>
 </details>
 

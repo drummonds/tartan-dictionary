@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/">Wolfe (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/"><img src="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/sett.png" alt="Wolfe (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/wolfe/">Wolfe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/wolfe/"><img src="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/sett.png" alt="Wolfe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

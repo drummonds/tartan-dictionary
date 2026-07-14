@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/">Feis An Eilein</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><img src="/variants/s7/n2r9db8dr4db8g2y2~x8/sett.png" alt="Feis An Eilein sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/feis-an-eilein/">Feis An Eilein</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/feis-an-eilein/"><img src="/variants/s7/n2r9db8dr4db8g2y2~x8/sett.png" alt="Feis An Eilein sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

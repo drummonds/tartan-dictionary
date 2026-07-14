@@ -12,10 +12,10 @@ crumbs:
 - name: "Gunn"
   url: "/tartans/g/gu/gunn-2/"
 - name: "Gunn (2011) Personal Tartan"
-  url: "/setts/t20k20g20r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t20k20g20r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gu/gunn-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGR](/stripes/bkgr/).
 
 Part of the [Gunn](/tartans/g/gu/gunn-2/) tartan — the named design grouping this sett with its other cloths.

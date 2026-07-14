@@ -12,10 +12,10 @@ crumbs:
 - name: "Liddell"
   url: "/tartans/l/li/liddell/"
 - name: "Liddell (Newfane, New York)"
-  url: "/setts/y2db3y2db22lb8r1lb3r1lb22k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2db3y2db22lb8r1lb3r1lb22k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/liddell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBWRWRWKW](/stripes/gbgbwrwrwkw/).
 
 Part of the [Liddell](/tartans/l/li/liddell/) tartan — the named design grouping this sett with its other cloths.

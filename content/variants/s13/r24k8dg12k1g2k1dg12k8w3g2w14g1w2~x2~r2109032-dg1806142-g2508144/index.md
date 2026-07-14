@@ -8,10 +8,10 @@ crumbs:
 - name: "Hohenzollern Staff"
   url: "/tartans/h/ho/hohenzollern-staff/"
 - name: "Hohenzollern Staff"
-  url: "/setts/r24k8dg12k1g2k1dg12k8w3g2w14g1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r24k8dg12k1g2k1dg12k8w3g2w14g1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hohenzollern-staff/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKGKGKWGWGW](/stripes/rkgkgkgkwgwgw/).
 
 Part of the [Hohenzollern Staff](/tartans/h/ho/hohenzollern-staff/) tartan — the named design grouping this sett with its other cloths.

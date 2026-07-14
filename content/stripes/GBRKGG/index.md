@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y2g23k21r2t22g2~x2/">Royal Ashburn Golf Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y2g23k21r2t22g2~x2/"><img src="/variants/s6/y2g23k21r2t22g2~x2/sett.png" alt="Royal Ashburn Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-ashburn-golf-club/">Royal Ashburn Golf Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-ashburn-golf-club/"><img src="/variants/s6/y2g23k21r2t22g2~x2/sett.png" alt="Royal Ashburn Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

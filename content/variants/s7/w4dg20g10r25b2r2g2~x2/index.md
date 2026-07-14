@@ -10,10 +10,10 @@ crumbs:
 - name: "Caledonian Brewery"
   url: "/tartans/c/ca/caledonian-brewery-2/"
 - name: "Caledonian Brewery"
-  url: "/setts/w4dg20g10r25b2r2g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4dg20g10r25b2r2g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/caledonian-brewery-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRGGW](/stripes/grbrggw/).
 
 Part of the [Caledonian Brewery](/tartans/c/ca/caledonian-brewery-2/) tartan — the named design grouping this sett with its other cloths.

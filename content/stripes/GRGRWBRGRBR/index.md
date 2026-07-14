@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/">MacDonell of Keppoch (artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/"><img src="/variants/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/sett.png" alt="MacDonell of Keppoch (artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonell-of-keppoch-2/">MacDonell of Keppoch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonell-of-keppoch-2/"><img src="/variants/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

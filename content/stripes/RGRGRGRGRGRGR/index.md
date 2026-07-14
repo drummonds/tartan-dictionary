@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r10g12r3g12r12g4r5g5r12y4r5g12r4~x2/">MacRurie MacRory Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r10g12r3g12r12g4r5g5r12y4r5g12r4~x2/"><img src="/variants/s13/r10g12r3g12r12g4r5g5r12y4r5g12r4~x2/sett.png" alt="MacRurie MacRory Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/r8g10r2g10r9g3r4g4r10y3r3g10r3~x2/">MacRurie/MacRory</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r8g10r2g10r9g3r4g4r10y3r3g10r3~x2/"><img src="/variants/s13/r8g10r2g10r9g3r4g4r10y3r3g10r3~x2/sett.png" alt="MacRurie/MacRory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macrory/">MacRory</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrory/"><img src="/variants/s13/r8g10r2g10r9g3r4g4r10y3r3g10r3~x2/sett.png" alt="MacRory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macrurie-macrory/">MacRurie MacRory</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macrurie-macrory/"><img src="/variants/s13/r10g12r3g12r12g4r5g5r12y4r5g12r4~x2/sett.png" alt="MacRurie MacRory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

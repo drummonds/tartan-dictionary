@@ -8,10 +8,10 @@ crumbs:
 - name: "Sacramento City Fire Department"
   url: "/tartans/s/sa/sacramento-city-fire-department/"
 - name: "Sacramento City Fire Department"
-  url: "/setts/db2w1db15k5g11k1r3k1g11k5db17w1db17k5g11k1r3k1g11k5db15w1db2y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2w1db15k5g11k1r3k1g11k5db17w1db17k5g11k1r3k1g11k5db15w1db2y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sacramento-city-fire-department/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGKRKGKBWBKGKRKGKBWBG](/stripes/bwbkgkrkgkbwbkgkrkgkbwbg/).
 
 Part of the [Sacramento City Fire Department](/tartans/s/sa/sacramento-city-fire-department/) tartan — the named design grouping this sett with its other cloths.

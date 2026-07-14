@@ -10,10 +10,10 @@ crumbs:
 - name: "Johnston, Diana Dress"
   url: "/tartans/j/jo/johnston-diana-dress/"
 - name: "Johnston, Diana Dress (Personal)"
-  url: "/setts/r10db4r3db6w3db4w3db40g73k4db2y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r10db4r3db6w3db4w3db40g73k4db2y6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/jo/johnston-diana-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGBWBWBRBR](/stripes/gbkgbwbwbrbr/).
 
 Part of the [Johnston, Diana Dress](/tartans/j/jo/johnston-diana-dress/) tartan — the named design grouping this sett with its other cloths.

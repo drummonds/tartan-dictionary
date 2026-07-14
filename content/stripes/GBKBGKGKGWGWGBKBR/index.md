@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r2db14k2n5g3w1g3w1g3k1g3k1g3n5k2db14y2~x2/">Service of Drymen Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r2db14k2n5g3w1g3w1g3k1g3k1g3n5k2db14y2~x2/"><img src="/variants/s17/r2db14k2n5g3w1g3w1g3k1g3k1g3n5k2db14y2~x2/sett.png" alt="Service of Drymen Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/service-of-drymen/">Service of Drymen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/service-of-drymen/"><img src="/variants/s17/r2db14k2n5g3w1g3w1g3k1g3k1g3n5k2db14y2~x2/sett.png" alt="Service of Drymen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

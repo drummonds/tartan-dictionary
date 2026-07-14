@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/">Miyuki, House Check Grey, 1003A</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/"><img src="/variants/s18/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/sett.png" alt="Miyuki, House Check Grey, 1003A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/miyuki-house-check-grey-1003a/">Miyuki, House Check Grey, 1003A</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/miyuki-house-check-grey-1003a/"><img src="/variants/s18/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/sett.png" alt="Miyuki, House Check Grey, 1003A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

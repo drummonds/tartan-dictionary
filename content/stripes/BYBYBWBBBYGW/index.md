@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db54ly9db16ly2dp3w3dp3dr27db13ly3g5w2~x2/">Queen's University Ont. (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db54ly9db16ly2dp3w3dp3dr27db13ly3g5w2~x2/"><img src="/variants/s12/db54ly9db16ly2dp3w3dp3dr27db13ly3g5w2~x2/sett.png" alt="Queen's University Ont. (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/queen-s-university-ont/">Queen's University Ont.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/queen-s-university-ont/"><img src="/variants/s12/db54ly9db16ly2dp3w3dp3dr27db13ly3g5w2~x2/sett.png" alt="Queen's University Ont. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

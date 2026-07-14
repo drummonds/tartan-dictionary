@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/y3r10g4y8do2y8dp11do16y4g4r10y3~x2/">Hallowfield Wood</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/y3r10g4y8do2y8dp11do16y4g4r10y3~x2/"><img src="/variants/s12/y3r10g4y8do2y8dp11do16y4g4r10y3~x2/sett.png" alt="Hallowfield Wood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hallowfield-wood/">Hallowfield Wood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hallowfield-wood/"><img src="/variants/s12/y3r10g4y8do2y8dp11do16y4g4r10y3~x2/sett.png" alt="Hallowfield Wood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/">McCanna NW Htg (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/"><img src="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/sett.png" alt="McCanna NW Htg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mccanna-nw-hunting/">McCanna NW Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccanna-nw-hunting/"><img src="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/sett.png" alt="McCanna NW Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

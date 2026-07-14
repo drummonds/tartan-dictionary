@@ -12,10 +12,10 @@ crumbs:
 - name: "Drummond of Strathallan"
   url: "/tartans/d/dr/drummond-of-strathallan-2/"
 - name: "Drummond of Strathallan Clan Tartan"
-  url: "/setts/r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/dr/drummond-of-strathallan-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKGGGKRWRKGGWGGBRKRWBWRWBWRKRBGGGGGKWBWKRWRWRKGGKGKGGKRWRWRKGGW](/stripes/rkrkgggkrwrkggwggbrkrwbwrwbwrkrbgggggkwbwkrwrwrkggkgkggkrwrwrkggw/).
 
 Part of the [Drummond of Strathallan](/tartans/d/dr/drummond-of-strathallan-2/) tartan — the named design grouping this sett with its other cloths.

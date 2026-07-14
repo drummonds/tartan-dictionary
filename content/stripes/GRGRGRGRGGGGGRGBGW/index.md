@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/">Ben Murad (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/"><img src="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/sett.png" alt="Ben Murad (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/ben-murad/">Ben Murad</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/ben-murad/"><img src="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/sett.png" alt="Ben Murad sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

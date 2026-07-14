@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dbi88db35w3db10/">Scottish Tourist Board (1990)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dbi88db35w3db10/"><img src="/variants/s4/dbi88db35w3db10~dbi1406275-db1404245/sett.png" alt="Scottish Tourist Board (1990) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-tourist-board/">Scottish Tourist Board</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-tourist-board/"><img src="/variants/s4/dbi88db35w3db10~dbi1406275-db1404245/sett.png" alt="Scottish Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

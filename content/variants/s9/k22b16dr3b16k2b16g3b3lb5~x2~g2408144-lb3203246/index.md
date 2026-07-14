@@ -12,15 +12,15 @@ crumbs:
 - name: "Jethart"
   url: "/tartans/j/je/jethart/"
 - name: "Jethart"
-  url: "/setts/k22b16dr3b16k2b16g3b3lb5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k22b16dr3b16k2b16g3b3lb5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBKBBBKBBBKBGBW](/stripes/bgbkbbbkbbbkbgbw/).
+provenance below. It is one weaving of the [sett](/tartans/j/je/jethart/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBBBKBGBW](/stripes/kbbbkbgbw/).
 
 Part of the [Jethart](/tartans/j/je/jethart/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1891](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1891)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2314
 
 ## Thread count
-LB/10 B6 G6 B32 K4 B32 DR6 B32 K44 B32 DR6 B32 K4 B32 G6 B/6
+K/44 B32 DR6 B32 K4 B32 G6 B6 LB/10
 
-One full sett is **564 threads**.
+One full sett is **290 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/10 B6 G6 B32 K4 B32 DR6 B32 K44 B32 DR6 B32 K4 B32 G6 B/6 — 564 threads; it folds to the canonical 290-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **564 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/10 B6 G6 B32 K4 B32 DR6 B32 K44 B32 DR6 B32 K4 B32 G6 B/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/44 B32 DR6 B32 K4 B32 G6 B6 LB/10 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

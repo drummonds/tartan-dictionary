@@ -8,10 +8,10 @@ crumbs:
 - name: "Studio Wolf Polysun"
   url: "/tartans/s/st/studio-wolf-polysun/"
 - name: "Studio Wolf Polysun"
-  url: "/setts/lo18r3w3r3lo2r1w1g1lo2y1r1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo18r3w3r3lo2r1w1g1lo2y1r1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/studio-wolf-polysun/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGYGWRYRWRY](/stripes/krgygwryrwry/).
 
 Part of the [Studio Wolf Polysun](/tartans/s/st/studio-wolf-polysun/) tartan — the named design grouping this sett with its other cloths.

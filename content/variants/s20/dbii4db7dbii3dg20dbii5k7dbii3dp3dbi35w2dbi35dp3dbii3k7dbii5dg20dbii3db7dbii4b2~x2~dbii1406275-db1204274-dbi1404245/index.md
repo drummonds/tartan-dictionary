@@ -8,10 +8,10 @@ crumbs:
 - name: "Spirit of the Glen"
   url: "/tartans/s/sp/spirit-of-the-glen-2/"
 - name: "Spirit of the Glen"
-  url: "/setts/dbii4db7dbii3dg20dbii5k7dbii3dp3dbi35w2dbi35dp3dbii3k7dbii5dg20dbii3db7dbii4b2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbii4db7dbii3dg20dbii5k7dbii3dp3dbi35w2dbi35dp3dbii3k7dbii5dg20dbii3db7dbii4b2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spirit-of-the-glen-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBKBBBWBBBKBGBBB](/stripes/bbbbgbkbbbwbbbkbgbbb/).
 
 Part of the [Spirit of the Glen](/tartans/s/sp/spirit-of-the-glen-2/) tartan — the named design grouping this sett with its other cloths.

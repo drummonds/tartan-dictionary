@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k8y1k1r1k4db1~x12/">Justus</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k8y1k1r1k4db1~x12/"><img src="/variants/s6/k8y1k1r1k4db1~x12/sett.png" alt="Justus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db12k1r70k1g12k1~x2/">Lawers Estate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db12k1r70k1g12k1~x2/"><img src="/variants/s6/db12k1r70k1g12k1~x2/sett.png" alt="Lawers Estate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/justus-2/">Justus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/justus-2/"><img src="/variants/s6/k8y1k1r1k4db1~x12/sett.png" alt="Justus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lawers-estate/">Lawers Estate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lawers-estate/"><img src="/variants/s6/db12k1r70k1g12k1~x2/sett.png" alt="Lawers Estate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2~x2/">MacKenzie Hunting (Brown)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2~x2/"><img src="/variants/s15/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2~x2/sett.png" alt="MacKenzie Hunting (Brown) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackenzie-brown-hunting/">MacKenzie Brown Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackenzie-brown-hunting/"><img src="/variants/s15/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2~x2/sett.png" alt="MacKenzie Brown Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

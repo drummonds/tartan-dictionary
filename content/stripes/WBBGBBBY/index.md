@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/">Washington DC (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><img src="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/sett.png" alt="Washington DC (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/washington-dc/">Washington DC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/washington-dc/"><img src="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/sett.png" alt="Washington DC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

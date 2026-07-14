@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k14lo3w8lo4k6w9k31g1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkwkywyk/">GKWKYWYK</a></nav>
 Its design is pattern [GKWKYWYK](/stripes/gkwkywyk/) — the page of every tartan sharing this colour sequence.
 
 The **Entrepreneurial Spark** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Entrepreneurial Spark** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k14lo3w8lo4k6w9k31g1/">Entrepreneurial Spark</a></td><td><code>K/28 LO6 W16 LO8 K12 W18 K62 G/2</code></td><td>274</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k14lo3w8lo4k6w9k31g1/"><img src="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/sett.png" alt="Entrepreneurial Spark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/">Entrepreneurial Spark</a></td><td><code>K/28 LO6 W16 LO8 K12 W18 K62 G/2</code></td><td>274</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/"><img src="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/sett.png" alt="Entrepreneurial Spark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="373.8" cy="126.9" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="363.2" cy="168.2" r="4" fill="#3465a4"><title>Sligo Irish County</title></circle></a><a href="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/"><circle cx="428.9" cy="91.8" r="4" fill="#3465a4"><title>Provincewide HOG Chapter</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="356.3" cy="35.8" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s5/k37w9k3g9w3~x2/"><circle cx="335.0" cy="162.9" r="4" fill="#3465a4"><title>Glencoe</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="338.4" cy="161.8" r="4" fill="#3465a4"><title>Glen Coe</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="278.0" cy="121.2" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s7/k1n2k7n11k18y2k1~x2/"><circle cx="365.4" cy="141.5" r="4" fill="#3465a4"><title>DDB Canada</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="316.3" cy="119.0" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/"><circle cx="343.7" cy="85.7" r="4" fill="#3465a4"><title>Pride of Scotland Royal</title></circle></a><circle cx="336.2" cy="101.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="375.1" cy="127.1" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="364.2" cy="168.4" r="4" fill="#3465a4"><title>Sligo Irish County</title></circle></a><a href="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/"><circle cx="430.3" cy="92.1" r="4" fill="#3465a4"><title>Provincewide HOG Chapter</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="357.6" cy="35.9" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s5/k37w9k3g9w3~x2/"><circle cx="336.0" cy="163.1" r="4" fill="#3465a4"><title>Glencoe</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="339.5" cy="162.0" r="4" fill="#3465a4"><title>Glen Coe</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="279.0" cy="121.2" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s7/k1n2k7n11k18y2k1~x2/"><circle cx="366.6" cy="141.8" r="4" fill="#3465a4"><title>DDB Canada</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="317.3" cy="119.1" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/"><circle cx="344.9" cy="85.8" r="4" fill="#3465a4"><title>Pride of Scotland Royal</title></circle></a><circle cx="337.3" cy="101.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

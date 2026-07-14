@@ -12,10 +12,10 @@ crumbs:
 - name: "Cowan of Inveresk"
   url: "/tartans/c/co/cowan-of-inveresk/"
 - name: "Cowan of Inveresk (Personal)"
-  url: "/setts/r4g16w2k15db15k2db2y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4g16w2k15db15k2db2y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cowan-of-inveresk/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKWGR](/stripes/gbkbkwgr/).
 
 Part of the [Cowan of Inveresk](/tartans/c/co/cowan-of-inveresk/) tartan — the named design grouping this sett with its other cloths.

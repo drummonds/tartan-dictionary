@@ -12,10 +12,10 @@ crumbs:
 - name: "Mariverain"
   url: "/tartans/m/ma/mariverain-2/"
 - name: "Mariverain"
-  url: "/setts/db3b8db5r1db5b2y1b2r5db4y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3b8db5r1db5b2y1b2r5db4y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mariverain-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBBGBRBG](/stripes/bbbrbbgbrbg/).
 
 Part of the [Mariverain](/tartans/m/ma/mariverain-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db1w4r1w1y1w4db1~x12/">Justus dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db1w4r1w1y1w4db1~x12/"><img src="/variants/s7/db1w4r1w1y1w4db1~x12/sett.png" alt="Justus dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/justus-dress-2/">Justus dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/justus-dress-2/"><img src="/variants/s7/db1w4r1w1y1w4db1~x12/sett.png" alt="Justus dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

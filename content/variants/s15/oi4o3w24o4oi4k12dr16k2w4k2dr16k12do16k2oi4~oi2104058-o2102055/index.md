@@ -12,10 +12,10 @@ crumbs:
 - name: "Dunkeld"
   url: "/tartans/d/du/dunkeld-2/"
 - name: "Dunkeld"
-  url: "/setts/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunkeld-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBKBKWKBKRRWRR](/stripes/rkbkbkwkbkrrwrr/).
 
 Part of the [Dunkeld](/tartans/d/du/dunkeld-2/) tartan — the named design grouping this sett with its other cloths.

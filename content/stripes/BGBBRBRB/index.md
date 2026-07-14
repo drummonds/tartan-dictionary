@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/">Akins</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/"><img src="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/sett.png" alt="Akins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ak/akins/">Akins</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ak/akins/"><img src="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/sett.png" alt="Akins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/">Cairngorms National Park</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/"><img src="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/sett.png" alt="Cairngorms National Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cairngorms-national-park-2/">Cairngorms National Park</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cairngorms-national-park-2/"><img src="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/sett.png" alt="Cairngorms National Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -7,16 +7,16 @@ crumbs:
   url: "/"
 - name: "Round Table"
   url: "/tartans/r/ro/round-table/"
-- name: "Round Table (1997)"
-  url: "/setts/db47dg14dp5do2dr3dg7/"
+- name: "Round Table of Britain and Ire Corporate Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db47dg14dp5do2dr3dg7/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBBBGBBBG](/stripes/bgbbbgbbbg/).
+provenance below. It is one weaving of the [sett](/tartans/r/ro/round-table/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBBBG](/stripes/bgbbbg/).
 
 Part of the [Round Table](/tartans/r/ro/round-table/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2365](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2365)
 
@@ -41,9 +41,11 @@ Earliest known date: 1997 Designed by Polly Wittering of House of Edgar in June 
 </details>
 
 ## Thread count
-DB/94 DG28 DP10 DO4 DR6 DG14 DR6 DO4 DP10 DG/28
+DT/94 DG28 DP10 DO4 DR6 DG/14
 
-One full sett is **286 threads**.
+One full sett is **204 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/94 DG28 DP10 DO4 DR6 DG14 DR6 DO4 DP10 DG/28 — 286 threads; it folds to the canonical 204-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **286 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/94 DG28 DP10 DO4 DR6 DG14 DR6 DO4 DP10 DG/28 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/94 DG28 DP10 DO4 DR6 DG/14 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

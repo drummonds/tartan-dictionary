@@ -12,17 +12,17 @@ crumbs:
 - name: "Carrick"
   url: "/tartans/c/ca/carrick/"
 - name: "Carrick (Clan)"
-  url: "/setts/r28db12r3g20dp1g2dp1g2r7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r28db12r3g20dp1g2dp1g2r7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/carrick/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGBGBGR](/stripes/rbrgbgbgr/).
 
 Part of the [Carrick](/tartans/c/ca/carrick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1389](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1389)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/1389/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1389/*)
 
 ## Provenance
 
@@ -31,7 +31,7 @@ Earliest known date: c.1930 The Ayrshire Earldom of Carrick is associated with t
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1930 — Carrick (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1389">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>District Tartans book states that this was designed about 1930 for Councillor John Hannay by Arthur Galt of Hugh Galt & Sons Ltd., of Barrhill, Girvan. The name Carrick has a Gaelic derivation ('rock') and may refer to the island of Ailsa Craig off the Ayrshire coast. See also Carrick Green. The Ayrshire Earldom of Carrick is associated with two major families, the Fergusons and the Kennedys. This tartan and its associated Hunting version at #721 were for some time considered as District & Personal tartans respectively, but this misunderstanding has now been rectified (June 2010)</em></li>
+<li>1930 — Carrick (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1389/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><br><em>District Tartans book states that this was designed about 1930 for Councillor John Hannay by Arthur Galt of Hugh Galt & Sons Ltd., of Barrhill, Girvan. The name Carrick has a Gaelic derivation ('rock') and may refer to the island of Ailsa Craig off the Ayrshire coast. See also Carrick Green. The Ayrshire Earldom of Carrick is associated with two major families, the Fergusons and the Kennedys. This tartan and its associated Hunting version at #721 were for some time considered as District & Personal tartans respectively, but this misunderstanding has now been rectified (June 2010)</em></li>
 <li>c.1930 — Carrick District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1389">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span></li>
 <li>undated — Carrick (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#800080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #800080"></span></li>
 </ul>
@@ -47,7 +47,7 @@ Earliest known date: c.1930 The Ayrshire Earldom of Carrick is associated with t
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

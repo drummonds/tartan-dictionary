@@ -8,10 +8,10 @@ crumbs:
 - name: "Bouguet, Adrian Hunting"
   url: "/tartans/b/bo/bouguet-adrian-hunting/"
 - name: "Bouguet, Adrian Hunting (Personal)"
-  url: "/setts/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bouguet-adrian-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWYGYWGWYGYW](/stripes/rwygywgwygyw/).
 
 Part of the [Bouguet, Adrian Hunting](/tartans/b/bo/bouguet-adrian-hunting/) tartan — the named design grouping this sett with its other cloths.

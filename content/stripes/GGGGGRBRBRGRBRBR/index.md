@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/">O'Brian #1 (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/"><img src="/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/sett.png" alt="O'Brian #1 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-brian/">O'Brian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-brian/"><img src="/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/sett.png" alt="O'Brian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

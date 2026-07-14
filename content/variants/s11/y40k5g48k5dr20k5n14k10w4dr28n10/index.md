@@ -8,10 +8,10 @@ crumbs:
 - name: "Kildare County, Crest Range"
   url: "/tartans/k/ki/kildare-county-crest-range/"
 - name: "Kildare County, Crest Range"
-  url: "/setts/y40k5g48k5dr20k5n14k10w4dr28n10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y40k5g48k5dr20k5n14k10w4dr28n10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kildare-county-crest-range/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWKBKBKGKG](/stripes/bbwkbkbkgkg/).
 
 Part of the [Kildare County, Crest Range](/tartans/k/ki/kildare-county-crest-range/) tartan — the named design grouping this sett with its other cloths.

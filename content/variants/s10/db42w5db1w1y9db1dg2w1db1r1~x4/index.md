@@ -8,10 +8,10 @@ crumbs:
 - name: "Stratford , City of"
   url: "/tartans/s/st/stratford-city-of/"
 - name: "Stratford (Ontario), City of"
-  url: "/setts/db42w5db1w1y9db1dg2w1db1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db42w5db1w1y9db1dg2w1db1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stratford-city-of/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWGBGWBR](/stripes/bwbwgbgwbr/).
 
 Part of the [Stratford , City of](/tartans/s/st/stratford-city-of/) tartan — the named design grouping this sett with its other cloths.

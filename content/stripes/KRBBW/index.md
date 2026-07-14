@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/">Rose, Danny and Hanna (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/"><img src="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/sett.png" alt="Rose, Danny and Hanna (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rose-danny-and-hanna-2/">Rose, Danny and Hanna</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rose-danny-and-hanna-2/"><img src="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/sett.png" alt="Rose, Danny and Hanna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

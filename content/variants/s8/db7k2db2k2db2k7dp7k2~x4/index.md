@@ -10,10 +10,10 @@ crumbs:
 - name: "Glasgow Academy"
   url: "/tartans/g/gl/glasgow-academy-2/"
 - name: "Glasgow Academy"
-  url: "/setts/db7k2db2k2db2k7dp7k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db7k2db2k2db2k7dp7k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glasgow-academy-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBK](/stripes/bkbkbkbk/).
 
 Part of the [Glasgow Academy](/tartans/g/gl/glasgow-academy-2/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1351](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1992 — Glasgow Academy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1351">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><br><em>Designed as the result of the merger of two Glasgow schools: The Westbourne School for girls and the Glasgow Academy. The Westbourne uniform was predominately purple and the Academy blue. The design is based on the Black Watch. Sample in Scottish Tartans Authority's Johnston Collection. Woven by Lochcarron.</em></li>
-<li>1996 — Glasgow Academy (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2052">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><br><em>Designed as the result of the merger of two Glasgow schools: The Westbourne School for girls and the Glasgow Academy. The Westbourne uniform was predominately purple and the Academy blue. The design is based on the Black Watch. Sample in STA's Johnston Collection. Woven by Lochcarron.</em></li>
+<li>1996 — Glasgow Academy (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2052/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><br><em>Designed as the result of the merger of two Glasgow schools: The Westbourne School for girls and the Glasgow Academy. The Westbourne uniform was predominately purple and the Academy blue. The design is based on the Black Watch. Sample in STA's Johnston Collection. Woven by Lochcarron.</em></li>
 </ul>
 </details>
 

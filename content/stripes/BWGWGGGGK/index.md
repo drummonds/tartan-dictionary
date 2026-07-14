@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/">McClurg, William Thomas (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/"><img src="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/sett.png" alt="McClurg, William Thomas (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcclurg-william-thomas/">McClurg, William Thomas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcclurg-william-thomas/"><img src="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/sett.png" alt="McClurg, William Thomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/">Ballarat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/"><img src="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/sett.png" alt="Ballarat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/ballarat/">Ballarat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/ballarat/"><img src="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/sett.png" alt="Ballarat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

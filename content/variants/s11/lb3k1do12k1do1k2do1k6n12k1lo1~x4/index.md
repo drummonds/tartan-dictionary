@@ -12,10 +12,10 @@ crumbs:
 - name: "MacCandlish Dress"
   url: "/tartans/m/ma/maccandlish-dress/"
 - name: "MacCandlish Dress Grey"
-  url: "/setts/lb3k1do12k1do1k2do1k6n12k1lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb3k1do12k1do1k2do1k6n12k1lo1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maccandlish-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKBKBKBKY](/stripes/wkbkbkbkbky/).
 
 Part of the [MacCandlish Dress](/tartans/m/ma/maccandlish-dress/) tartan — the named design grouping this sett with its other cloths.

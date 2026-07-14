@@ -10,10 +10,10 @@ crumbs:
 - name: "Glasgow, University of"
   url: "/tartans/g/gl/glasgow-university-of/"
 - name: "Glasgow, University of"
-  url: "/setts/k2db22g4k7b2k2w2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2db22g4k7b2k2w2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glasgow-university-of/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBKGBK](/stripes/bwkbkgbk/).
 
 Part of the [Glasgow, University of](/tartans/g/gl/glasgow-university-of/) tartan — the named design grouping this sett with its other cloths.

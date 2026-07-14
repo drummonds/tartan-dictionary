@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp9db6w1dg4dp2/"
+- "/setts/b9t6w1g4b2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbwgb/">BBWGB</a></nav>
 Its design is pattern [BBWGB](/stripes/bbwgb/) — the page of every tartan sharing this colour sequence.
 
 The **Cathro** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Cathro** tartan groups 2 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp9db6w1dg4dp2/">Cathro</a> ★</td><td><code>DP/36 DB24 W4 DG16 DP/8</code></td><td>132</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp9db6w1dg4dp2/"><img src="/variants/s5/dp9db6w1dg4dp2~x4/sett.png" alt="Cathro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/b9t6w1g4b2/">(Name)</a></td><td><code>B/72 T48 W8 G32 B/16</code></td><td>264</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b9t6w1g4b2/"><img src="/variants/s5/b9t6w1g4b2~x8/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dp9db6w1dg4dp2~x4/">Cathro</a> ★</td><td><code>DP/36 DB24 W4 DG16 DP/8</code></td><td>132</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dp9db6w1dg4dp2~x4/"><img src="/variants/s5/dp9db6w1dg4dp2~x4/sett.png" alt="Cathro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/b9t6w1g4b2~x8/">(Name)</a></td><td><code>B/72 T48 W8 G32 B/16</code></td><td>264</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/b9t6w1g4b2~x8/"><img src="/variants/s5/b9t6w1g4b2~x8/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><circle cx="329.9" cy="274.7" r="4" fill="#3465a4"><title>Sterling, Rob (Persona</title></circle></a><a href="/variants/s6/dp10y3dp8db42g5n5~x2/"><circle cx="437.8" cy="227.1" r="4" fill="#3465a4"><title>Cheadle</title></circle></a><a href="/variants/s5/g5dp2db5dp10dy2~x2/"><circle cx="308.8" cy="307.1" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s5/db23dp2g11dp24lb3~x2/"><circle cx="303.1" cy="259.0" r="4" fill="#3465a4"><title>Scottish Open Squash</title></circle></a><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/"><circle cx="358.6" cy="212.3" r="4" fill="#3465a4"><title>Discover Islay</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="293.5" cy="215.1" r="4" fill="#3465a4"><title>Woodcock</title></circle></a><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><circle cx="397.4" cy="282.6" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/variants/s7/g3dg12dpi6gi3dp15ly2dp2~x2~g2203152-dpi1607327-gi2405139-dp1105325/"><circle cx="218.9" cy="234.4" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="352.1" cy="300.9" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/"><circle cx="298.5" cy="254.1" r="4" fill="#3465a4"><title>Wilson's No.199</title></circle></a><circle cx="347.6" cy="286.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><circle cx="330.0" cy="274.8" r="4" fill="#3465a4"><title>Sterling, Rob (Persona</title></circle></a><a href="/variants/s6/dp10y3dp8db42g5n5~x2/"><circle cx="438.3" cy="227.3" r="4" fill="#3465a4"><title>Cheadle</title></circle></a><a href="/variants/s5/g5dp2db5dp10dy2~x2/"><circle cx="308.9" cy="307.2" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s5/db23dp2g11dp24lb3~x2/"><circle cx="303.3" cy="259.0" r="4" fill="#3465a4"><title>Scottish Open Squash</title></circle></a><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/"><circle cx="359.2" cy="212.4" r="4" fill="#3465a4"><title>Discover Islay</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="294.0" cy="215.1" r="4" fill="#3465a4"><title>Woodcock</title></circle></a><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><circle cx="397.7" cy="282.8" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/variants/s7/g3dg12dpi6gi3dp15ly2dp2~x2~g2203152-dpi1607327-gi2405139-dp1105325/"><circle cx="218.9" cy="234.2" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="352.5" cy="301.1" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/"><circle cx="298.9" cy="254.2" r="4" fill="#3465a4"><title>Wilson's No.199</title></circle></a><circle cx="347.9" cy="286.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

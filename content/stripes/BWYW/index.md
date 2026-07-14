@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db80w1lo8w3~x2/">Weir Minerals (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db80w1lo8w3~x2/"><img src="/variants/s4/db80w1lo8w3~x2/sett.png" alt="Weir Minerals (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/weir-minerals/">Weir Minerals</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/weir-minerals/"><img src="/variants/s4/db80w1lo8w3~x2/sett.png" alt="Weir Minerals sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

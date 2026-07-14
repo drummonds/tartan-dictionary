@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/">Roscommon Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/"><img src="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/sett.png" alt="Roscommon Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/">Roscommon, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/"><img src="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/sett.png" alt="Roscommon, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/roscommon-irish-county/">Roscommon Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roscommon-irish-county/"><img src="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/sett.png" alt="Roscommon Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/roscommon-county/">Roscommon, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roscommon-county/"><img src="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/sett.png" alt="Roscommon, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

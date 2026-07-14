@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/">Princess Marina #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/"><img src="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/sett.png" alt="Princess Marina #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/">Princess Marina (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/"><img src="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/sett.png" alt="Princess Marina (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/princess-marina/">Princess Marina</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-marina/"><img src="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/sett.png" alt="Princess Marina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

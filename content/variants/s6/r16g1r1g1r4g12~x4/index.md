@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "MacQuarie"
   url: "/tartans/m/ma/macquarie/"
-- name: "MacQuarie"
-  url: "/setts/r16g1r1g1r4g12/"
+- name: "MacQuarrie #5"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r16g1r1g1r4g12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macquarie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGR](/stripes/grgrgr/).
 
 Part of the [MacQuarie](/tartans/m/ma/macquarie/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2732](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1886 — MacQuarrie #5 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2732">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>D C Stewart (STR #4633) now most often used and illustrated in most books from 1886 onwards. J Grant's version of the MacQuarrie tartan is the one used today and illustrated in Bain's pocketbook. The earliest reference to a related MacQuarrie sett appears in the Cockburn Collection (c.1815). D.C. Stewart says, 'The MacQuarrie tartan now most often used is related to the red MacDonald. MacQuarrie's were followers of the Lords of the Isles and held lands on the Isle of Mull. The chiefship today is vacant.</em></li>
-<li>1886 — MacQuarrie - 1886 (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=892">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>D.C.Stewart # 180 --- now most often used and illustrated in most books from 1886 onwards. J. Grant's version of the MacQuarrie tartan is the one used today and illustrated in Bain's pocketbook. The earliest reference to a related MacQuarrie sett appears in the Cockburn Collection (c.1815). D C Stewart says, ''The MacQuarrie tartan now most often used is related to the red MacDonald.... MacQuarrie's were followers of the Lords of the Isles and held lands on the Isle of Mull. The chiefship today is vacant." Sample in STA Dalgety Collection.</em></li>
+<li>1886 — MacQuarrie - 1886 (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/892/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>D.C.Stewart # 180 --- now most often used and illustrated in most books from 1886 onwards. J. Grant's version of the MacQuarrie tartan is the one used today and illustrated in Bain's pocketbook. The earliest reference to a related MacQuarrie sett appears in the Cockburn Collection (c.1815). D C Stewart says, ''The MacQuarrie tartan now most often used is related to the red MacDonald.... MacQuarrie's were followers of the Lords of the Isles and held lands on the Isle of Mull. The chiefship today is vacant." Sample in STA Dalgety Collection.</em></li>
 </ul>
 </details>
 

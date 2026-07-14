@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/">Ralston (USA)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/"><img src="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/sett.png" alt="Ralston (USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/ralston/">Ralston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/ralston/"><img src="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/sett.png" alt="Ralston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

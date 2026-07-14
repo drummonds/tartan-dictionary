@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dy3dg8db12r24w3~x2/">McGill University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dy3dg8db12r24w3~x2/"><img src="/variants/s5/dy3dg8db12r24w3~x2/sett.png" alt="McGill University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcgill-university/">McGill University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcgill-university/"><img src="/variants/s5/dy3dg8db12r24w3~x2/sett.png" alt="McGill University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

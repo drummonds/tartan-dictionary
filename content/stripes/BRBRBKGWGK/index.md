@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/">Parr</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/"><img src="/variants/s10/t106r3t4r6t8k28g8w4g12k8/sett.png" alt="Parr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/">Parr Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><img src="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/sett.png" alt="Parr Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/parr/">Parr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/parr/"><img src="/variants/s10/t106r3t4r6t8k28g8w4g12k8/sett.png" alt="Parr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

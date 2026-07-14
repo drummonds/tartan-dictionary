@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/">Reid of Straloch (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/"><img src="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/sett.png" alt="Reid of Straloch (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/">Reid of Straloch (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/"><img src="/variants/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/sett.png" alt="Reid of Straloch (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/reid-of-straloch/">Reid of Straloch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/reid-of-straloch/"><img src="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/sett.png" alt="Reid of Straloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

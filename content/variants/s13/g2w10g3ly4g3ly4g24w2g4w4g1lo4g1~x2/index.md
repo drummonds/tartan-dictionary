@@ -8,10 +8,10 @@ crumbs:
 - name: "McGill"
   url: "/tartans/m/mc/mcgill/"
 - name: "McGill (Personal)"
-  url: "/setts/g2w10g3ly4g3ly4g24w2g4w4g1lo4g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2w10g3ly4g3ly4g24w2g4w4g1lo4g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcgill/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGYGYGWGWGYG](/stripes/gwgygygwgwgyg/).
 
 Part of the [McGill](/tartans/m/mc/mcgill/) tartan — the named design grouping this sett with its other cloths.

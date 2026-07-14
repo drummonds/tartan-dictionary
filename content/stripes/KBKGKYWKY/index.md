@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k2t8k6g35k8ly2w2k2ly2~x2/">160th SOAR(A) Night Stalkers (Mil.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k2t8k6g35k8ly2w2k2ly2~x2/"><img src="/variants/s9/k2t8k6g35k8ly2w2k2ly2~x2/sett.png" alt="160th SOAR(A) Night Stalkers (Mil.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/160th-soar-night-stalkers/">160th SOAR Night Stalkers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/160th-soar-night-stalkers/"><img src="/variants/s9/k2t8k6g35k8ly2w2k2ly2~x2/sett.png" alt="160th SOAR Night Stalkers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

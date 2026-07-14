@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/">Stewart Blue MINI Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><img src="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/sett.png" alt="Stewart Blue MINI Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-blue-mini/">Stewart Blue MINI</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-blue-mini/"><img src="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/sett.png" alt="Stewart Blue MINI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

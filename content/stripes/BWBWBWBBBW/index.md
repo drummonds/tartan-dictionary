@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/">Siddle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/"><img src="/variants/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/sett.png" alt="Siddle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/siddle/">Siddle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/siddle/"><img src="/variants/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/sett.png" alt="Siddle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

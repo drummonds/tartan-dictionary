@@ -12,10 +12,10 @@ crumbs:
 - name: "Gabrielle"
   url: "/tartans/g/ga/gabrielle/"
 - name: "Gabrielle"
-  url: "/setts/k48r4k6lr2k2dr2k2r10ly6k2ly3dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k48r4k6lr2k2dr2k2r10ly6k2ly3dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ga/gabrielle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKYRKBKYKRK](/stripes/bykyrkbkykrk/).
 
 Part of the [Gabrielle](/tartans/g/ga/gabrielle/) tartan — the named design grouping this sett with its other cloths.

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg20dr1ly1dr1w1dg1dr1w1b5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbgwbybg/">BWBGWBYBG</a></nav>
 Its design is pattern [BWBGWBYBG](/stripes/bwbgwbybg/) — the page of every tartan sharing this colour sequence.
 
 The **Scotts Valley** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Scotts Valley** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg20dr1ly1dr1w1dg1dr1w1b5/">Scotts Valley</a></td><td><code>DG/80 DR4 LY4 DR4 W4 DG4 DR4 W4 B/20</code></td><td>156</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg20dr1ly1dr1w1dg1dr1w1b5/"><img src="/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/sett.png" alt="Scotts Valley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/">Scotts Valley</a></td><td><code>DG/80 DR4 LY4 DR4 W4 DG4 DR4 W4 B/20</code></td><td>156</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/"><img src="/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/sett.png" alt="Scotts Valley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"><circle cx="400.9" cy="191.1" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn</title></circle></a><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="336.8" cy="111.3" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><circle cx="362.5" cy="162.5" r="4" fill="#3465a4"><title>Crieff and Strathearn</title></circle></a><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/"><circle cx="308.7" cy="130.7" r="4" fill="#3465a4"><title>Pienaar</title></circle></a><a href="/variants/s5/g47dr3g6db35lo3~x2/"><circle cx="378.6" cy="219.2" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.2" cy="199.7" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="378.8" cy="158.7" r="4" fill="#3465a4"><title>Spencer</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="325.0" cy="177.0" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps</title></circle></a><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="322.9" cy="177.6" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="440.5" cy="172.5" r="4" fill="#3465a4"><title>Leblant-Macqueron</title></circle></a><circle cx="411.3" cy="127.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"><circle cx="401.4" cy="191.3" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn</title></circle></a><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="337.6" cy="111.4" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><circle cx="363.2" cy="162.6" r="4" fill="#3465a4"><title>Crieff and Strathearn</title></circle></a><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/"><circle cx="309.4" cy="130.7" r="4" fill="#3465a4"><title>Pienaar</title></circle></a><a href="/variants/s5/g47dr3g6db35lo3~x2/"><circle cx="379.2" cy="219.4" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.7" cy="199.9" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.5" cy="158.9" r="4" fill="#3465a4"><title>Spencer</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="325.6" cy="177.1" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps</title></circle></a><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="323.5" cy="177.7" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="441.1" cy="172.7" r="4" fill="#3465a4"><title>Leblant-Macqueron</title></circle></a><circle cx="412.1" cy="128.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Chinese Scottish"
   url: "/tartans/c/ch/chinese-scottish/"
-- name: "Chinese Scottish (Corporate)"
-  url: "/setts/db58w2db1w1db6g3r3g6r24y3/"
+- name: "Chinese Scottish District Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db58w2db1w1db6g3r3g6r24y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chinese-scottish/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBGRGRG](/stripes/bwbwbgrgrg/).
 
 Part of the [Chinese Scottish](/tartans/c/ch/chinese-scottish/) tartan — the named design grouping this sett with its other cloths.

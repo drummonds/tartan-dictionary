@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Parliament"
   url: "/tartans/s/sc/scottish-parliament/"
 - name: "Scottish Parliament"
-  url: "/setts/db8g11k3g11dr12ki10y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8g11k3g11dr12ki10y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-parliament/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGBKG](/stripes/bgkgbkg/).
 
 Part of the [Scottish Parliament](/tartans/s/sc/scottish-parliament/) tartan — the named design grouping this sett with its other cloths.

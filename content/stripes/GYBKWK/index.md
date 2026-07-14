@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/">Bryan Wedding (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><img src="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/sett.png" alt="Bryan Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bryan-wedding/">Bryan Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bryan-wedding/"><img src="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/sett.png" alt="Bryan Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

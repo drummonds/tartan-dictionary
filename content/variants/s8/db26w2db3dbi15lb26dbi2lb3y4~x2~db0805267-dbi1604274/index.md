@@ -10,10 +10,10 @@ crumbs:
 - name: "Banff and Buchan"
   url: "/tartans/b/ba/banff-and-buchan-2/"
 - name: "Banff, and Buchan"
-  url: "/setts/db26w2db3dbi15lb26dbi2lb3y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db26w2db3dbi15lb26dbi2lb3y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/banff-and-buchan-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBWBWG](/stripes/bwbbwbwg/).
 
 Part of the [Banff and Buchan](/tartans/b/ba/banff-and-buchan-2/) tartan — the named design grouping this sett with its other cloths.

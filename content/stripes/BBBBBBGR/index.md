@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/">Cranstoun</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/"><img src="/variants/s8/b14db1b1db1b3db6g12r2~x2/sett.png" alt="Cranstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/cranstoun-2/">Cranstoun</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/cranstoun-2/"><img src="/variants/s8/b14db1b1db1b3db6g12r2~x2/sett.png" alt="Cranstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/">Crantock</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/"><img src="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/sett.png" alt="Crantock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crantock-2/">Crantock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crantock-2/"><img src="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/sett.png" alt="Crantock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

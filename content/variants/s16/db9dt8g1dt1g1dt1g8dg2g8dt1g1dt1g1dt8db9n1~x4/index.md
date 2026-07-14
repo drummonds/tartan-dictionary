@@ -8,10 +8,10 @@ crumbs:
 - name: "Cowal Highland Games"
   url: "/tartans/c/co/cowal-highland-games/"
 - name: "Cowal Highland Games Corporate Tartan"
-  url: "/setts/db9dt8g1dt1g1dt1g8dg2g8dt1g1dt1g1dt8db9n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db9dt8g1dt1g1dt1g8dg2g8dt1g1dt1g1dt8db9n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cowal-highland-games/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBGGGBGBGBB](/stripes/bbbgbgbgggbgbgbb/).
 
 Part of the [Cowal Highland Games](/tartans/c/co/cowal-highland-games/) tartan — the named design grouping this sett with its other cloths.

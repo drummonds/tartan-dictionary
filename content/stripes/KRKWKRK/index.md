@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k72r3k11lb9k11r3k37/">Chafyn House (School)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k72r3k11lb9k11r3k37/"><img src="/variants/s7/k72r3k11lb9k11r3k37/sett.png" alt="Chafyn House (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/k14r2k4lb3k12r8k1~x2/">Punky Princess (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k14r2k4lb3k12r8k1~x2/"><img src="/variants/s7/k14r2k4lb3k12r8k1~x2/sett.png" alt="Punky Princess (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chafyn-house/">Chafyn House</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chafyn-house/"><img src="/variants/s7/k72r3k11lb9k11r3k37/sett.png" alt="Chafyn House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pu/punky-princess/">Punky Princess</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pu/punky-princess/"><img src="/variants/s7/k14r2k4lb3k12r8k1~x2/sett.png" alt="Punky Princess sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

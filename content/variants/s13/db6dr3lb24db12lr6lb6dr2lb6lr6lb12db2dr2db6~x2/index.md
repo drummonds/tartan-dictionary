@@ -8,15 +8,15 @@ crumbs:
 - name: "Illinois State"
   url: "/tartans/i/il/illinois-state/"
 - name: "Illinois St.Andrews Society"
-  url: "/setts/db6dr3lb24db12lr6lb6dr2lb6lr6lb12db2dr2db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6dr3lb24db12lr6lb6dr2lb6lr6lb12db2dr2db6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBWBYWBWYWBBBBBWYWBWYBWB](/stripes/bbwbywbwywbbbbbwywbwybwb/).
+provenance below. It is one weaving of the [sett](/tartans/i/il/illinois-state/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBWYWBWYBWBB](/stripes/bbbwywbwybwbb/).
 
 Part of the [Illinois State](/tartans/i/il/illinois-state/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1817](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1817)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1817](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1990 — Illinois St.Andrews Society (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1817">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><br><em>Designed by Frances Gillan of or for, the Illinois St. Andrews Society - a philanthropic body founded by Scots in 1854. The tartan was designed to mark the 150th anniversary in 1990. The colours represent the State of Illinois Flag, the Chicago sports teams and the St Andrew's flag. Sample in Scottish Tartans Authority's Johnston Collection. Sometimes regarded as the State tartan but it has never been adopted as such.</em></li>
-<li>1990 — Illinois State (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2051">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><br><em>Designed by Frances Gillan of or for, the Illinois St. Andrews Society - a philanthropic body founded by Scots in 1854. The tartan was designed to mark the 150th anniversary in 1990. The colours represent the State of Illinois Flag, the Chicago sports teams and the St Andrew's flag. Sample in STA's Johnston Collection. Sometimes regarded as the State tartan but it has never been adopted as such. JUNE 2012 - SEE BELOW Accepted as the Illinois State Tartan in June 2012 through House Bill 4492 in the Illinois Senate where it was unanimous (44 - 0). The final step will be the signing in summer 2012 by State Governor Quinn.</em></li>
+<li>1990 — Illinois State (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2051/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><br><em>Designed by Frances Gillan of or for, the Illinois St. Andrews Society - a philanthropic body founded by Scots in 1854. The tartan was designed to mark the 150th anniversary in 1990. The colours represent the State of Illinois Flag, the Chicago sports teams and the St Andrew's flag. Sample in STA's Johnston Collection. Sometimes regarded as the State tartan but it has never been adopted as such. JUNE 2012 - SEE BELOW Accepted as the Illinois State Tartan in June 2012 through House Bill 4492 in the Illinois Senate where it was unanimous (44 - 0). The final step will be the signing in summer 2012 by State Governor Quinn.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2051
 
 ## Thread count
-DB/12 DR6 LB48 DB24 LR12 LB12 DR4 LB12 LR12 LB24 DB4 DR4 DB12 DR4 DB4 LB24 LR12 LB12 DR4 LB12 LR12 DB24 LB48 DR/6
+DB/12 DR6 LB48 DB24 LR12 LB12 DR4 LB12 LR12 LB24 DB4 DR4 DB/12
 
-One full sett is **678 threads**.
+One full sett is **348 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/12 DR6 LB48 DB24 LR12 LB12 DR4 LB12 LR12 LB24 DB4 DR4 DB12 DR4 DB4 LB24 LR12 LB12 DR4 LB12 LR12 DB24 LB48 DR/6 — 678 threads; it folds to the canonical 348-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **678 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 DR6 LB48 DB24 LR12 LB12 DR4 LB12 LR12 LB24 DB4 DR4 DB12 DR4 DB4 LB24 LR12 LB12 DR4 LB12 LR12 DB24 LB48 DR/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 DR6 LB48 DB24 LR12 LB12 DR4 LB12 LR12 LB24 DB4 DR4 DB/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

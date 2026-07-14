@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/">Dorcas (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/"><img src="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/sett.png" alt="Dorcas (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dorcas-2/">Dorcas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dorcas-2/"><img src="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/sett.png" alt="Dorcas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

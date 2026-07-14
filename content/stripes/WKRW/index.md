@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/lb3o6k4lb2~x2~o2500000/">Bedford Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb3o6k4lb2~x2~o2500000/"><img src="/variants/s4/lb3o6k4lb2~x2~o2500000/sett.png" alt="Bedford Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bedford-check-2/">Bedford Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bedford-check-2/"><img src="/variants/s4/lb3o6k4lb2~x2~o2500000/sett.png" alt="Bedford Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/w1k10r10w1~x4/">Masai Shuka 01 (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w1k10r10w1~x4/"><img src="/variants/s4/w1k10r10w1~x4/sett.png" alt="Masai Shuka 01 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/masai-shuka-01/">Masai Shuka 01</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/masai-shuka-01/"><img src="/variants/s4/w1k10r10w1~x4/sett.png" alt="Masai Shuka 01 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

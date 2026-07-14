@@ -12,10 +12,10 @@ crumbs:
 - name: "Milne dress"
   url: "/tartans/m/mi/milne-dress/"
 - name: "Milne dress green"
-  url: "/setts/w14lb3w14y1dg20w15lb3w7dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w14lb3w14y1dg20w15lb3w7dp3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/milne-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWWGGWWW](/stripes/bwwwggwww/).
 
 Part of the [Milne dress](/tartans/m/mi/milne-dress/) tartan — the named design grouping this sett with its other cloths.

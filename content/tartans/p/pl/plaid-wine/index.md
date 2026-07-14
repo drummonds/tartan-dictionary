@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr24n5o9n2o9w9/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbrbrw/">BBRBRW</a></nav>
 Its design is pattern [BBRBRW](/stripes/bbrbrw/) — the page of every tartan sharing this colour sequence.
 
 The **Plaid Wine** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Plaid Wine** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr24n5o9n2o9w9/">Plaid Wine</a></td><td><code>DR/96 N20 O36 N8 O36 W/36</code></td><td>332</td><td>1973</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr24n5o9n2o9w9/"><img src="/variants/s6/dr24n5o9n2o9w9~x4/sett.png" alt="Plaid Wine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr24n5o9n2o9w9~x4/">Plaid Wine</a></td><td><code>DR/96 N20 O36 N8 O36 W/36</code></td><td>332</td><td>1973</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr24n5o9n2o9w9~x4/"><img src="/variants/s6/dr24n5o9n2o9w9~x4/sett.png" alt="Plaid Wine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="246.3" cy="199.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s6/w6g15db18r30g2r4~x2/"><circle cx="238.1" cy="194.3" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/"><circle cx="230.3" cy="194.1" r="4" fill="#3465a4"><title>James of Glencarr</title></circle></a><a href="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/"><circle cx="190.7" cy="202.3" r="4" fill="#3465a4"><title>St. Andrews</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="239.3" cy="240.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="270.1" cy="191.7" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="273.6" cy="193.1" r="4" fill="#3465a4"><title>MacQuarrie 2</title></circle></a><a href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/"><circle cx="244.5" cy="193.1" r="4" fill="#3465a4"><title>Afternoon Tea / Apple Tea</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="243.7" cy="201.5" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><circle cx="233.3" cy="184.4" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><circle cx="222.0" cy="217.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="246.7" cy="198.9" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s6/w6g15db18r30g2r4~x2/"><circle cx="238.5" cy="194.1" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/"><circle cx="230.7" cy="194.0" r="4" fill="#3465a4"><title>James of Glencarr</title></circle></a><a href="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/"><circle cx="191.0" cy="202.2" r="4" fill="#3465a4"><title>St. Andrews</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="239.6" cy="240.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="270.6" cy="191.6" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="274.1" cy="193.1" r="4" fill="#3465a4"><title>MacQuarrie 2</title></circle></a><a href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/"><circle cx="244.8" cy="193.0" r="4" fill="#3465a4"><title>Afternoon Tea / Apple Tea</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="244.0" cy="201.4" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><circle cx="233.7" cy="184.3" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><circle cx="222.3" cy="217.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

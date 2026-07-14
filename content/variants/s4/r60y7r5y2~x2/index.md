@@ -8,10 +8,10 @@ crumbs:
 - name: "Scania 1658"
   url: "/tartans/s/sc/scania-1658/"
 - name: "Scania 1658"
-  url: "/setts/r60y7r5y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r60y7r5y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scania-1658/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGR](/stripes/grgr/).
 
 Part of the [Scania 1658](/tartans/s/sc/scania-1658/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10978](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>19/11/2013 — Scania 1658 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10978">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFE600;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFE600"></span><br><em>This tartan commemorates the year 1658 when the country of Scania (Skåne), part of Denmark for 700 years, became part of Sweden. Scania included the following ten cities: Falsterbo, Helsingborg, Landskrona, Kristianstad, Lund, Malmo, Simrishamn Skanörvägen, Ystad and Ängelholm. This tartan is for Scania people’s Danish ancestors and their children. It can be worn by anyone who lives in Scania or has relatives from the country. The tartan uses the red and yellow from the flag of Scania.</em></li>
-<li>2014 — Scania 1658 (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10978">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>This tartan commemorates the year 1658 when the country of Scania (Sk?ne), part of Denmark for 700 years, became part of Sweden. This tartan is intended for those in Scania who have Danish ancestors and their children. The tartan uses the red and yellow from the Scania flag.</em></li>
+<li>2014 — Scania 1658 (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10978/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>This tartan commemorates the year 1658 when the country of Scania (Sk?ne), part of Denmark for 700 years, became part of Sweden. This tartan is intended for those in Scania who have Danish ancestors and their children. The tartan uses the red and yellow from the Scania flag.</em></li>
 </ul>
 </details>
 

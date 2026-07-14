@@ -8,15 +8,15 @@ crumbs:
 - name: "Unidentified Lindley"
   url: "/tartans/u/un/unidentified-lindley-7/"
 - name: "Unidentified Lindley #2"
-  url: "/setts/r18db2r2db2r3db14dg29y1dg2y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r18db2r2db2r3db14dg29y1dg2y4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGGBRBRBRBRBRBGGGG](/stripes/gggbrbrbrbrbrbgggg/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-lindley-7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGGGBRBRBR](/stripes/ggggbrbrbr/).
 
 Part of the [Unidentified Lindley](/tartans/u/un/unidentified-lindley-7/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4304](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4304)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6346
 
 ## Thread count
-Y/8 DG4 Y2 DG58 DB28 R6 DB4 R4 DB4 R36 DB4 R4 DB4 R6 DB28 DG58 Y2 DG/4
+R/36 DB4 R4 DB4 R6 DB28 DG58 Y2 DG4 Y/8
 
-One full sett is **516 threads**.
+One full sett is **264 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/8 DG4 Y2 DG58 DB28 R6 DB4 R4 DB4 R36 DB4 R4 DB4 R6 DB28 DG58 Y2 DG/4 — 516 threads; it folds to the canonical 264-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **516 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/8 DG4 Y2 DG58 DB28 R6 DB4 R4 DB4 R36 DB4 R4 DB4 R6 DB28 DG58 Y2 DG/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/36 DB4 R4 DB4 R6 DB28 DG58 Y2 DG4 Y/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

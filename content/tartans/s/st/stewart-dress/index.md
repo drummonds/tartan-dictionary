@@ -8,7 +8,13 @@ crumbs:
   url: "/clan/stewart/"
 - name: "Stewart"
   url: "/families/stewart/"
+aliases:
+- "/setts/w31db4k6y2k2w2k2g7r4k2r2w2/"
+- "/setts/w36db4k6y1k1w1k1g8r4k1r2w1/"
+- "/setts/w36db5k5y1k1w1k1g8r4k1r2w1/"
+- "/setts/w39db3k6y3k3w3k3g8r5k3r3w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbkgkwkgrkrw/">WBKGKWKGRKRW</a></nav>
 A tartan of the [Stewart](/families/stewart/) family.
 Its design is pattern [WBKGKWKGRKRW](/stripes/wbkgkwkgrkrw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,15 +24,17 @@ The **Stewart Dress** tartan groups 4 setts — the same named design recorded a
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w31db4k6y2k2w2k2g7r4k2r2w2/">Stewart Dress</a> ★</td><td><code>W/62 DB8 K12 Y4 K4 W4 K4 G14 R8 K4 R4 W/4</code></td><td>198</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w31db4k6y2k2w2k2g7r4k2r2w2/"><img src="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w36db4k6y1k1w1k1g8r4k1r2w1/">Stewart Dress</a></td><td><code>W/72 DB8 K12 Y2 K2 W2 K2 G16 R8 K2 R4 W/2</code></td><td>95</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w36db4k6y1k1w1k1g8r4k1r2w1/"><img src="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/">Stewart Dress</a> ★</td><td><code>W/62 DB8 K12 Y4 K4 W4 K4 G14 R8 K4 R4 W/4</code></td><td>198</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/"><img src="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/">Stewart Dress</a></td><td><code>W/36 DB4 K6 Y1 K1 W1 K1 G8 R4 K1 R2 W/1</code></td><td>95</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/"><img src="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/">Stewart Dress</a></td><td><code>W/36 DB4 K6 Y1 K1 W1 K1 G8 R4 K1 R2 W/1</code></td><td>95</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/">Stewart Dress</a></td><td><code>W/72 DB8 K12 Y2 K2 W2 K2 G16 R8 K2 R4 W/2</code></td><td>190</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/">Stewart Dress</a> · <a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/">Stewart Dress</a></td></tr>
-<tr><td><a href="/setts/w36db5k5y1k1w1k1g8r4k1r2w1/">Stewart Dress</a></td><td><code>W/36 DB5 K5 Y1 K1 W1 K1 G8 R4 K1 R2 W/1</code></td><td>95</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w36db5k5y1k1w1k1g8r4k1r2w1/"><img src="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w39db3k6y3k3w3k3g8r5k3r3w3/">Stuart/Stewart Dress</a></td><td><code>W/78 DB6 K12 Y6 K6 W6 K6 G16 R10 K6 R6 W/6</code></td><td>244</td><td>~1750</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w39db3k6y3k3w3k3g8r5k3r3w3/"><img src="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/sett.png" alt="Stuart/Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/">Stewart Dress</a></td><td><code>W/36 DB5 K5 Y1 K1 W1 K1 G8 R4 K1 R2 W/1</code></td><td>95</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/"><img src="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/">Stuart/Stewart Dress</a></td><td><code>W/78 DB6 K12 Y6 K6 W6 K6 G16 R10 K6 R6 W/6</code></td><td>244</td><td>~1750</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/"><img src="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/sett.png" alt="Stuart/Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -47,6 +55,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/"><circle cx="168.2" cy="77.8" r="4" fill="#3465a4"><title>Stewart Dress MINI</title></circle></a><a href="/variants/s13/dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2~x2/"><circle cx="120.2" cy="99.3" r="4" fill="#3465a4"><title>Hay-Stewart</title></circle></a><a href="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/"><circle cx="260.8" cy="34.1" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/"><circle cx="233.8" cy="76.8" r="4" fill="#3465a4"><title>Glenmore</title></circle></a><a href="/variants/s14/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="183.2" cy="53.8" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="130.4" cy="92.9" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="212.9" cy="97.1" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="226.7" cy="103.5" r="4" fill="#3465a4"><title>Braveheart</title></circle></a><a href="/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/"><circle cx="160.1" cy="105.6" r="4" fill="#3465a4"><title>Hay or Stewart</title></circle></a><a href="/variants/s10/w3k1w20dp1db6g6o3g1o1g2~x4/"><circle cx="216.0" cy="99.3" r="4" fill="#3465a4"><title>Scotland the Brave Dress</title></circle></a><circle cx="188.2" cy="72.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/"><circle cx="168.8" cy="77.4" r="4" fill="#3465a4"><title>Stewart Dress MINI</title></circle></a><a href="/variants/s13/dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2~x2/"><circle cx="120.6" cy="98.9" r="4" fill="#3465a4"><title>Hay-Stewart</title></circle></a><a href="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/"><circle cx="261.7" cy="33.9" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/"><circle cx="234.6" cy="76.6" r="4" fill="#3465a4"><title>Glenmore</title></circle></a><a href="/variants/s14/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="183.8" cy="53.5" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="130.9" cy="92.6" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="213.5" cy="96.9" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="227.4" cy="103.3" r="4" fill="#3465a4"><title>Braveheart</title></circle></a><a href="/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/"><circle cx="160.6" cy="105.2" r="4" fill="#3465a4"><title>Hay or Stewart</title></circle></a><a href="/variants/s10/w3k1w20dp1db6g6o3g1o1g2~x4/"><circle cx="216.6" cy="99.0" r="4" fill="#3465a4"><title>Scotland the Brave Dress</title></circle></a><circle cx="188.8" cy="71.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

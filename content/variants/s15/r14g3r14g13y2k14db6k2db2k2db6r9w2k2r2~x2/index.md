@@ -12,10 +12,10 @@ crumbs:
 - name: "MacPherson 7"
   url: "/tartans/m/ma/macpherson-7/"
 - name: "MacPherson #8"
-  url: "/setts/r14g3r14g13y2k14db6k2db2k2db6r9w2k2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r14g3r14g13y2k14db6k2db2k2db6r9w2k2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macpherson-7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGGKBKBKBRWKR](/stripes/rgrggkbkbkbrwkr/).
 
 Part of the [MacPherson 7](/tartans/m/ma/macpherson-7/) tartan — the named design grouping this sett with its other cloths.

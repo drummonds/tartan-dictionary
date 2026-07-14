@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/w2lb2dg8k2lb6dg5r5ly5r4w2r4ly5r5dg5lb6k2r10ly2~x2/">Kutztown (Berks Co., PA) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/w2lb2dg8k2lb6dg5r5ly5r4w2r4ly5r5dg5lb6k2r10ly2~x2/"><img src="/variants/s18/w2lb2dg8k2lb6dg5r5ly5r4w2r4ly5r5dg5lb6k2r10ly2~x2/sett.png" alt="Kutztown (Berks Co., PA) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ku/kutztown/">Kutztown</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ku/kutztown/"><img src="/variants/s18/w2lb2dg8k2lb6dg5r5ly5r4w2r4ly5r5dg5lb6k2r10ly2~x2/sett.png" alt="Kutztown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

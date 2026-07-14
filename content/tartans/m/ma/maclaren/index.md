@@ -8,7 +8,13 @@ crumbs:
   url: "/clan/maclaren/"
 - name: "MacLaren"
   url: "/families/maclaren/"
+aliases:
+- "/setts/db12k4g4r1g4k1y1/"
+- "/setts/db12k4g4r1g4k1lo1/"
+- "/setts/db24k8g8r2g8k1y2/"
+- "/setts/dp9k7g5r4g7k1y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkgrgkg/">BKGRGKG</a></nav>
 A tartan of the [MacLaren](/families/maclaren/) family.
 Its design is pattern [BKGRGKG](/stripes/bkgrgkg/) — the page of every tartan sharing this colour sequence.
 
@@ -18,15 +24,17 @@ The **MacLaren** tartan groups 4 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db12k4g4r1g4k1y1/">MacLaren</a> ★</td><td><code>DB/48 K16 G16 R4 G16 K4 Y/4</code></td><td>164</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db12k4g4r1g4k1y1/"><img src="/variants/s7/db12k4g4r1g4k1y1~x4/sett.png" alt="MacLaren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db12k4g4r1g4k1lo1/">(Clan)</a></td><td><code>DB/48 K16 G16 R4 G16 K4 LO/4</code></td><td>164</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db12k4g4r1g4k1lo1/"><img src="/variants/s7/db12k4g4r1g4k1lo1~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db24k8g8r2g8k1y2/">MacLaren</a></td><td><code>DB/24 K8 G8 R2 G8 K1 Y/2</code></td><td>160</td><td>~1820</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db24k8g8r2g8k1y2/"><img src="/variants/s7/db24k8g8r2g8k1y2~x2/sett.png" alt="MacLaren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db12k4g4r1g4k1y1~x4/">MacLaren</a> ★</td><td><code>DB/48 K16 G16 R4 G16 K4 Y/4</code></td><td>164</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db12k4g4r1g4k1y1~x4/"><img src="/variants/s7/db12k4g4r1g4k1y1~x4/sett.png" alt="MacLaren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db12k4g4r1g4k1lo1~x4/">(Clan)</a></td><td><code>DB/48 K16 G16 R4 G16 K4 LO/4</code></td><td>164</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db12k4g4r1g4k1lo1~x4/"><img src="/variants/s7/db12k4g4r1g4k1lo1~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db24k8g8r2g8k1y2~x2/">MacLaren</a></td><td><code>DB/24 K8 G8 R2 G8 K1 Y/2</code></td><td>80</td><td>~1820</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db24k8g8r2g8k1y2~x2/"><img src="/variants/s7/db24k8g8r2g8k1y2~x2/sett.png" alt="MacLaren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/db24k8g8r2g8k1y2/">MacLaren</a></td><td><code>DB/24 K8 G8 R2 G8 K1 Y/2</code></td><td>80</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/db24k8g8r2g8k1y2~x2/">MacLaren</a></td><td><code>DB/48 K16 G16 R4 G16 K2 Y/4</code></td><td>160</td><td>~1820</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/db24k8g8r2g8k1y2/">MacLaren</a> · <a href="/variants/s7/db24k8g8r2g8k1y2~x2/">MacLaren</a></td></tr>
-<tr><td><a href="/setts/dp9k7g5r4g7k1y1/">#2</a></td><td><code>DP/18 K14 G10 R8 G14 K2 Y/2</code></td><td>116</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp9k7g5r4g7k1y1/"><img src="/variants/s7/dp9k7g5r4g7k1y1~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/">#2</a></td><td><code>DP/18 K14 G10 R8 G14 K2 Y/2</code></td><td>116</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><img src="/variants/s7/dp9k7g5r4g7k1y1~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -45,6 +53,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db18k10g6r4g6k1w2~x2/"><circle cx="153.1" cy="154.8" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2~x2/"><circle cx="216.3" cy="131.9" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/variants/s7/db24k8g8dp2g8k1w2~x2/"><circle cx="220.5" cy="134.5" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"><circle cx="177.9" cy="151.3" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra</title></circle></a><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="166.0" cy="180.1" r="4" fill="#3465a4"><title>Paterson</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="192.9" cy="181.8" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><circle cx="180.1" cy="159.1" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="156.9" cy="175.6" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="169.7" cy="157.5" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="242.7" cy="136.0" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><circle cx="199.0" cy="164.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db18k10g6r4g6k1w2~x2/"><circle cx="153.5" cy="154.5" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2~x2/"><circle cx="216.9" cy="131.8" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/variants/s7/db24k8g8dp2g8k1w2~x2/"><circle cx="221.1" cy="134.4" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"><circle cx="178.5" cy="151.2" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra</title></circle></a><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="166.4" cy="179.9" r="4" fill="#3465a4"><title>Paterson</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="193.4" cy="181.7" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><circle cx="180.6" cy="159.0" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="157.3" cy="175.4" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="170.2" cy="157.4" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="243.4" cy="135.9" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><circle cx="199.5" cy="163.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

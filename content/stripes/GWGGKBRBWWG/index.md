@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dg34w6g20yi20k2dr2r2dr2lb24w40y13~g1903114-yi2303114/">Jones, Alexander Michael (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dg34w6g20yi20k2dr2r2dr2lb24w40y13~g1903114-yi2303114/"><img src="/variants/s11/dg34w6g20yi20k2dr2r2dr2lb24w40y13~g1903114-yi2303114/sett.png" alt="Jones, Alexander Michael (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jones-alexander-michael/">Jones, Alexander Michael</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jones-alexander-michael/"><img src="/variants/s11/dg34w6g20yi20k2dr2r2dr2lb24w40y13~g1903114-yi2303114/sett.png" alt="Jones, Alexander Michael sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

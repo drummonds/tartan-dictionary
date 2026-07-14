@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/">Watret</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/"><img src="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/sett.png" alt="Watret sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/watret/">Watret</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/watret/"><img src="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/sett.png" alt="Watret sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

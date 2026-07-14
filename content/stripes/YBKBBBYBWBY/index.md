@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/">Bennet Dress (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/"><img src="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/sett.png" alt="Bennet Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bennet-dress/">Bennet Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bennet-dress/"><img src="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/sett.png" alt="Bennet Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

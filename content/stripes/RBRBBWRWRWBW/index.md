@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/">Meath</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/"><img src="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/sett.png" alt="Meath sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/meath/">Meath</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/meath/"><img src="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/sett.png" alt="Meath sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

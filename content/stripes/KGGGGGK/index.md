@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k2dg19g2dg2g19dg2k2~x2/">Hunting Kenmore Trade Com. Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k2dg19g2dg2g19dg2k2~x2/"><img src="/variants/s7/k2dg19g2dg2g19dg2k2~x2/sett.png" alt="Hunting Kenmore Trade Com. Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hunting-kenmore-trade-com/">Hunting Kenmore Trade Com.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hunting-kenmore-trade-com/"><img src="/variants/s7/k2dg19g2dg2g19dg2k2~x2/sett.png" alt="Hunting Kenmore Trade Com. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

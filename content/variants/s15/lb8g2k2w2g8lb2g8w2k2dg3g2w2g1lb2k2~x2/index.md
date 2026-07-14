@@ -12,10 +12,10 @@ crumbs:
 - name: "Gayre Dress"
   url: "/tartans/g/ga/gayre-dress/"
 - name: "Gayre Dress"
-  url: "/setts/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ga/gayre-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGWGGKWGWGWKGW](/stripes/kwgwggkwgwgwkgw/).
 
 Part of the [Gayre Dress](/tartans/g/ga/gayre-dress/) tartan — the named design grouping this sett with its other cloths.

@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Glen"
   url: "/clan/glen/"
+aliases:
+- "/setts/dg37dy9dg3r9dy3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gggrg/">GGGRG</a></nav>
 A tartan of [Clan Glen](/clan/glen/).
 Its design is pattern [GGGRG](/stripes/gggrg/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Glen Trool** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg37dy9dg3r9dy3/">Glen Trool</a></td><td><code>DG/74 DY18 DG6 R18 DY/6</code></td><td>164</td><td>~1945</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg37dy9dg3r9dy3/"><img src="/variants/s5/dg37dy9dg3r9dy3~x2/sett.png" alt="Glen Trool sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dg37dy9dg3r9dy3~x2/">Glen Trool</a></td><td><code>DG/74 DY18 DG6 R18 DY/6</code></td><td>164</td><td>~1945</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dg37dy9dg3r9dy3~x2/"><img src="/variants/s5/dg37dy9dg3r9dy3~x2/sett.png" alt="Glen Trool sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="493.3" cy="254.3" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s5/g25y6dg5r3y10~x4/"><circle cx="392.9" cy="297.9" r="4" fill="#3465a4"><title>Pendlebury, Andrew</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x4/"><circle cx="396.4" cy="208.7" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.5" cy="285.9" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="368.3" cy="202.6" r="4" fill="#3465a4"><title>Fernandes</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="517.5" cy="244.0" r="4" fill="#3465a4"><title>Glen Trool</title></circle></a><a href="/variants/s4/dy5dt32dy32w5~x2/"><circle cx="396.7" cy="322.2" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><a href="/variants/s6/y11dg5y10g4dg26y4~x2/"><circle cx="400.1" cy="302.5" r="4" fill="#3465a4"><title>North Dakota State University Bison</title></circle></a><a href="/variants/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="382.3" cy="289.7" r="4" fill="#3465a4"><title>Confederate Cavalry</title></circle></a><a href="/variants/s7/dy48dp11g16y16dy11r3dy11~x2/"><circle cx="385.6" cy="210.6" r="4" fill="#3465a4"><title>Shannon</title></circle></a><circle cx="509.2" cy="253.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="493.9" cy="254.7" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s5/g25y6dg5r3y10~x4/"><circle cx="393.0" cy="298.1" r="4" fill="#3465a4"><title>Pendlebury, Andrew</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x4/"><circle cx="397.1" cy="209.0" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="452.1" cy="286.3" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="368.8" cy="202.8" r="4" fill="#3465a4"><title>Fernandes</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="518.2" cy="244.5" r="4" fill="#3465a4"><title>Glen Trool</title></circle></a><a href="/variants/s4/dy5dt32dy32w5~x2/"><circle cx="396.9" cy="322.5" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><a href="/variants/s6/y11dg5y10g4dg26y4~x2/"><circle cx="400.4" cy="302.9" r="4" fill="#3465a4"><title>North Dakota State University Bison</title></circle></a><a href="/variants/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="382.6" cy="290.0" r="4" fill="#3465a4"><title>Confederate Cavalry</title></circle></a><a href="/variants/s7/dy48dp11g16y16dy11r3dy11~x2/"><circle cx="386.1" cy="210.8" r="4" fill="#3465a4"><title>Shannon</title></circle></a><circle cx="509.8" cy="253.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/">Innes of Raemoir and Cowie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/"><img src="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/sett.png" alt="Innes of Raemoir and Cowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/innes-of-raemoir-and-cowie/">Innes of Raemoir and Cowie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/innes-of-raemoir-and-cowie/"><img src="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/sett.png" alt="Innes of Raemoir and Cowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

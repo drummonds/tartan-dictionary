@@ -12,10 +12,10 @@ crumbs:
 - name: "MacPhail"
   url: "/tartans/m/ma/macphail/"
 - name: "MacPhail Clan Tartan"
-  url: "/setts/r25db7r3g13lb1k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r25db7r3g13lb1k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macphail/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGRBR](/stripes/kwgrbr/).
 
 Part of the [MacPhail](/tartans/m/ma/macphail/) tartan — the named design grouping this sett with its other cloths.

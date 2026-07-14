@@ -8,15 +8,15 @@ crumbs:
 - name: "Wagga Wagga"
   url: "/tartans/w/wa/wagga-wagga/"
 - name: "Wagga Wagga"
-  url: "/setts/dg16k6dg16g32k2dy7y2dy7y2dy7t13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg16k6dg16g32k2dy7y2dy7y2dy7t13/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKGGKGGGGGBGGGGGKGGK](/stripes/gkggkgggggbgggggkggk/).
+provenance below. It is one weaving of the [sett](/tartans/w/wa/wagga-wagga/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGGGGGKGGKG](/stripes/bgggggkggkg/).
 
 Part of the [Wagga Wagga](/tartans/w/wa/wagga-wagga/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4473](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4473)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4473](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Wagga Wagga (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4473">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>Designed by Daphne Apelbee of Wagga Wagga and Betty Johnston of The House of Tartan (Australia). Wagga Wagga is a town of 57,000+ and is 300 miles southwest of Sydney, Australia. Wagga Wagga is Australian Aboriginal for 'Place of many crows'. Wagga Wagga is New South Wales largest inland city.</em></li>
-<li>pre 2004 — Wagga Wagga (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6178">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>Designed by Daphne Apelbee of Wagga Wagga and Betty Johnston of The House of Tartan (Australia). Wagga Wagga is a town of 57,000+ and is 300 miles southwest of Sydney, Australia. Wagga Wagga is Maori for 'Place of many crows'.</em></li>
+<li>pre 2004 — Wagga Wagga (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6178/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00643C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AG #00643C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>Designed by Daphne Apelbee of Wagga Wagga and Betty Johnston of The House of Tartan (Australia). Wagga Wagga is a town of 57,000+ and is 300 miles southwest of Sydney, Australia. Wagga Wagga is Maori for 'Place of many crows'.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2964
 
 ## Thread count
-DG/16 K6 DG16 G32 K2 DY7 Y2 DY7 Y2 DY7 T13 DY7 Y2 DY7 Y2 DY7 K2 G32 DG16 K/6
+DG/16 K6 DG16 G32 K2 DY7 Y2 DY7 Y2 DY7 T/13
 
-One full sett is **360 threads**.
+One full sett is **191 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/16 K6 DG16 G32 K2 DY7 Y2 DY7 Y2 DY7 T13 DY7 Y2 DY7 Y2 DY7 K2 G32 DG16 K/6 — 360 threads; it folds to the canonical 191-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **360 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/16 K6 DG16 G32 K2 DY7 Y2 DY7 Y2 DY7 T13 DY7 Y2 DY7 Y2 DY7 K2 G32 DG16 K/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/16 K6 DG16 G32 K2 DY7 Y2 DY7 Y2 DY7 T/13 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

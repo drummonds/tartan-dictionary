@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/">Bonnie Brae School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/"><img src="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/sett.png" alt="Bonnie Brae School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bonnie-brae-3/">Bonnie Brae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bonnie-brae-3/"><img src="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/sett.png" alt="Bonnie Brae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

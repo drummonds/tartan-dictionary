@@ -12,10 +12,10 @@ crumbs:
 - name: "West of Wells"
   url: "/tartans/w/we/west-of-wells/"
 - name: "West of Wells"
-  url: "/setts/dg28k2db3k11db3k2db17b4lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg28k2db3k11db3k2db17b4lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/west-of-wells/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBBW](/stripes/gkbkbkbbw/).
 
 Part of the [West of Wells](/tartans/w/we/west-of-wells/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Middleton"
   url: "/tartans/m/mi/middleton/"
 - name: "Middleton"
-  url: "/setts/g16r1g2r11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16r1g2r11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/middleton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGR](/stripes/grgr/).
 
 Part of the [Middleton](/tartans/m/mi/middleton/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Earliest known date: 1906 Sir Thomas Middleton of Rosefarm in Cromarty was a dis
 <summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1906 — Middleton (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2947">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>See also Applecross. From W & A K Johnston 1906. Sample in Scottish Tartans Authority's Johnston Collection. Sample in Scottish Tartans Authority's Dalgety Collection. This is the same as MacDonald of Sleat - see #904 (original Scottish Tartans Authority reference).</em></li>
-<li>pre 1906 — Middleton (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=903">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>See also Applecross. From W & A K Johnston 1906. Sample in STA Johnston Collection. Sample in STA Dalgety Collection. This is the same as MacDonald of Sleat - see #904. 'Middleton of Kinfauns' name comes from the Sinclair/Brown Scrapbook, Page 255.</em></li>
+<li>pre 1906 — Middleton (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/903/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>See also Applecross. From W & A K Johnston 1906. Sample in STA Johnston Collection. Sample in STA Dalgety Collection. This is the same as MacDonald of Sleat - see #904. 'Middleton of Kinfauns' name comes from the Sinclair/Brown Scrapbook, Page 255.</em></li>
 <li>1906 — Middleton Family Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=903">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
 <li>undated — Middleton (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span></li>
 </ul>

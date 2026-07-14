@@ -8,10 +8,10 @@ crumbs:
 - name: "Abbink, Ingmar"
   url: "/tartans/a/ab/abbink-ingmar/"
 - name: "Abbink, Ingmar (Personal)"
-  url: "/setts/r39db22k11y22g5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r39db22k11y22g5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ab/abbink-ingmar/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBR](/stripes/ggkbr/).
 
 Part of the [Abbink, Ingmar](/tartans/a/ab/abbink-ingmar/) tartan — the named design grouping this sett with its other cloths.

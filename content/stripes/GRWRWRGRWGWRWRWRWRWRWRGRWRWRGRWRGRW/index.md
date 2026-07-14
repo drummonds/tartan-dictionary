@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s35/g3r3lb9r12lb1r1g1r1lb1g1lb6r1lb1r1lb1r1lb1r1lb6r1lb1r1g1r1lb1r12lb9r3g3r7lb3r3g1r4lb3~x4/">Murray of Polmaise</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s35/g3r3lb9r12lb1r1g1r1lb1g1lb6r1lb1r1lb1r1lb1r1lb6r1lb1r1g1r1lb1r12lb9r3g3r7lb3r3g1r4lb3~x4/"><img src="/variants/s35/g3r3lb9r12lb1r1g1r1lb1g1lb6r1lb1r1lb1r1lb1r1lb6r1lb1r1g1r1lb1r12lb9r3g3r7lb3r3g1r4lb3~x4/sett.png" alt="Murray of Polmaise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-polmaise/">Murray of Polmaise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-of-polmaise/"><img src="/variants/s35/g3r3lb9r12lb1r1g1r1lb1g1lb6r1lb1r1lb1r1lb1r1lb6r1lb1r1g1r1lb1r12lb9r3g3r7lb3r3g1r4lb3~x4/sett.png" alt="Murray of Polmaise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

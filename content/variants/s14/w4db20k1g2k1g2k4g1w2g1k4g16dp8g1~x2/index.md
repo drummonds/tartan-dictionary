@@ -8,10 +8,10 @@ crumbs:
 - name: "St Andrew"
   url: "/tartans/s/st/st-andrew/"
 - name: "St Andrew"
-  url: "/setts/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-andrew/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGWGKGKGKBW](/stripes/gbgkgwgkgkgkbw/).
 
 Part of the [St Andrew](/tartans/s/st/st-andrew/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "Gudbrandsdalen, Rondastakken"
   url: "/tartans/g/gu/gudbrandsdalen-rondastakken-2/"
 - name: "Gudbrandsdalen, Rondastakken"
-  url: "/setts/ri65w2ri3r4dg11ri3dg3ri11/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ri65w2ri3r4dg11ri3dg3ri11/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gu/gudbrandsdalen-rondastakken-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRRWR](/stripes/rgrgrrwr/).
 
 Part of the [Gudbrandsdalen, Rondastakken](/tartans/g/gu/gudbrandsdalen-rondastakken-2/) tartan — the named design grouping this sett with its other cloths.

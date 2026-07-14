@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/bartlett/"
 - name: "Bartlett"
   url: "/families/bartlett/"
+aliases:
+- "/setts/r4ly40n12o2n12ly30k2ly4k2ly4o2ly3k3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kyrykykybrbyr/">KYRYKYKYBRBYR</a></nav>
 A tartan of the [Bartlett](/families/bartlett/) family.
 Its design is pattern [KYRYKYKYBRBYR](/stripes/kyrykykybrbyr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Bartlett** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4ly40n12o2n12ly30k2ly4k2ly4o2ly3k3/">Bartlett</a></td><td><code>R/8 LY80 N24 O4 N24 LY60 K4 LY8 K4 LY8 O4 LY6 K/6</code></td><td>466</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4ly40n12o2n12ly30k2ly4k2ly4o2ly3k3/"><img src="/variants/s13/r4ly40n12o2n12ly30k2ly4k2ly4o2ly3k3~x2~n1900000-o2500000/sett.png" alt="Bartlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r4ly40n12o2n12ly30k2ly4k2ly4o2ly3k3~x2~n1900000-o2500000/">Bartlett</a></td><td><code>R/8 LY80 N24 O4 N24 LY60 K4 LY8 K4 LY8 O4 LY6 K/6</code></td><td>466</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r4ly40n12o2n12ly30k2ly4k2ly4o2ly3k3~x2~n1900000-o2500000/"><img src="/variants/s13/r4ly40n12o2n12ly30k2ly4k2ly4o2ly3k3~x2~n1900000-o2500000/sett.png" alt="Bartlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s13/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3~x2~dt1500000-y2301120/"><circle cx="331.3" cy="86.4" r="4" fill="#3465a4"><title>Bartlett, Chris</title></circle></a><a href="/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/"><circle cx="306.1" cy="63.3" r="4" fill="#3465a4"><title>Australian</title></circle></a><a href="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/"><circle cx="399.5" cy="80.5" r="4" fill="#3465a4"><title>Bourbon, Sebastien</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/"><circle cx="310.0" cy="129.9" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/variants/s12/ly10w1ly12k7w2k7ly12w1r4w1ly12k2~x2/"><circle cx="275.2" cy="154.8" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s13/y3k1g19r4g3r11g5r11g3r4g19k1w3~x2/"><circle cx="290.6" cy="131.6" r="4" fill="#3465a4"><title>Bruce Hunting</title></circle></a><a href="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/"><circle cx="339.9" cy="125.6" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/variants/s12/ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4/"><circle cx="424.2" cy="60.7" r="4" fill="#3465a4"><title>London Fog Camel</title></circle></a><circle cx="341.5" cy="91.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s13/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3~x2~dt1500000-y2301120/"><circle cx="332.3" cy="86.4" r="4" fill="#3465a4"><title>Bartlett, Chris</title></circle></a><a href="/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/"><circle cx="306.9" cy="63.3" r="4" fill="#3465a4"><title>Australian</title></circle></a><a href="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/"><circle cx="400.5" cy="80.6" r="4" fill="#3465a4"><title>Bourbon, Sebastien</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/"><circle cx="310.8" cy="130.0" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/variants/s12/ly10w1ly12k7w2k7ly12w1r4w1ly12k2~x2/"><circle cx="275.9" cy="154.8" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s13/y3k1g19r4g3r11g5r11g3r4g19k1w3~x2/"><circle cx="291.3" cy="131.6" r="4" fill="#3465a4"><title>Bruce Hunting</title></circle></a><a href="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/"><circle cx="340.8" cy="125.7" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/variants/s12/ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4/"><circle cx="425.4" cy="60.8" r="4" fill="#3465a4"><title>London Fog Camel</title></circle></a><circle cx="342.4" cy="91.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

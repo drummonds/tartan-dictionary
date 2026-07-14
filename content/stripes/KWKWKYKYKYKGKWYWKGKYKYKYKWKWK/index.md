@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/">Vaughan (Welsh Name) Welsh Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/"><img src="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/sett.png" alt="Vaughan (Welsh Name) Welsh Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/vaughan-2/">Vaughan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/vaughan-2/"><img src="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/sett.png" alt="Vaughan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

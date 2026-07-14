@@ -8,10 +8,10 @@ crumbs:
 - name: "Canadian Fancy"
   url: "/tartans/c/ca/canadian-fancy/"
 - name: "Canadian Fancy"
-  url: "/setts/g4dy25g6db12g12db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4dy25g6db12g12db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/canadian-fancy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGG](/stripes/bgbggg/).
 
 Part of the [Canadian Fancy](/tartans/c/ca/canadian-fancy/) tartan — the named design grouping this sett with its other cloths.

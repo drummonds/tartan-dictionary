@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg12g6r1g10dp8y2w2~x4/">Connelly, James (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg12g6r1g10dp8y2w2~x4/"><img src="/variants/s7/dg12g6r1g10dp8y2w2~x4/sett.png" alt="Connelly, James (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connelly-james/">Connelly, James</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connelly-james/"><img src="/variants/s7/dg12g6r1g10dp8y2w2~x4/sett.png" alt="Connelly, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s31/w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10~x4/">Wcwm 1131</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10~x4/"><img src="/variants/s31/w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10~x4/sett.png" alt="Wcwm 1131 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wc/wcwm-1131/">Wcwm 1131</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wc/wcwm-1131/"><img src="/variants/s31/w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10~x4/sett.png" alt="Wcwm 1131 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

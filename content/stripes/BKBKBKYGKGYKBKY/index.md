@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/">Mulholland (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><img src="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/sett.png" alt="Mulholland (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/mulholland/">Mulholland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/mulholland/"><img src="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/sett.png" alt="Mulholland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

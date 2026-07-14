@@ -8,10 +8,10 @@ crumbs:
 - name: "Loch Long One Design"
   url: "/tartans/l/lo/loch-long-one-design/"
 - name: "Loch Long One Design"
-  url: "/setts/y4k28r2db22b8db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4k28r2db22b8db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/loch-long-one-design/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRKG](/stripes/bbbrkg/).
 
 Part of the [Loch Long One Design](/tartans/l/lo/loch-long-one-design/) tartan — the named design grouping this sett with its other cloths.

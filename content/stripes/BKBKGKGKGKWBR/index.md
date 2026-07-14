@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dbi8k4db15k16g16k4g6k4g16k16w2db6o6~dbi1406275-db1404245/">Free (Universal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dbi8k4db15k16g16k4g6k4g16k16w2db6o6~dbi1406275-db1404245/"><img src="/variants/s13/dbi8k4db15k16g16k4g6k4g16k16w2db6o6~dbi1406275-db1404245/sett.png" alt="Free (Universal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/free/">Free</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/free/"><img src="/variants/s13/dbi8k4db15k16g16k4g6k4g16k16w2db6o6~dbi1406275-db1404245/sett.png" alt="Free sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

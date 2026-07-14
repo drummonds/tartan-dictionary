@@ -8,10 +8,10 @@ crumbs:
 - name: "Victory"
   url: "/tartans/v/vi/victory/"
 - name: "Victory"
-  url: "/setts/k2dr3k36n2k5n7ly3lb5g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2dr3k36n2k5n7ly3lb5g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vi/victory/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWYBKBKBK](/stripes/gwybkbkbk/).
 
 Part of the [Victory](/tartans/v/vi/victory/) tartan — the named design grouping this sett with its other cloths.

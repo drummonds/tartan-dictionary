@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r9w27k7w45lb60dg4lo5/">Ch. Supt. Everett and Mrs Julene Sum</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r9w27k7w45lb60dg4lo5/"><img src="/variants/s7/r9w27k7w45lb60dg4lo5/sett.png" alt="Ch. Supt. Everett and Mrs Julene Sum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r9w25k7w45lb60dg4ly5/">Ch. Supt. Everett and Mrs Julene Summerfield Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r9w25k7w45lb60dg4ly5/"><img src="/variants/s7/r9w25k7w45lb60dg4ly5/sett.png" alt="Ch. Supt. Everett and Mrs Julene Summerfield Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/ch-supt-everett-and-mrs-julene-sum/">Ch. Supt. Everett and Mrs Julene Sum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/ch-supt-everett-and-mrs-julene-sum/"><img src="/variants/s7/r9w27k7w45lb60dg4lo5/sett.png" alt="Ch. Supt. Everett and Mrs Julene Sum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/ch-supt-everett-and-mrs-julene-summerfield-dress/">Ch. Supt. Everett and Mrs Julene Summerfield Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/ch-supt-everett-and-mrs-julene-summerfield-dress/"><img src="/variants/s7/r9w25k7w45lb60dg4ly5/sett.png" alt="Ch. Supt. Everett and Mrs Julene Summerfield Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

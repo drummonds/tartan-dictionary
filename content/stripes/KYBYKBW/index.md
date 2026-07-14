@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k8ly2dp6ly2k36db84w7/">Grahame Laurie Band (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><img src="/variants/s7/k8ly2dp6ly2k36db84w7/sett.png" alt="Grahame Laurie Band (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grahame-laurie-band/">Grahame Laurie Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grahame-laurie-band/"><img src="/variants/s7/k8ly2dp6ly2k36db84w7/sett.png" alt="Grahame Laurie Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

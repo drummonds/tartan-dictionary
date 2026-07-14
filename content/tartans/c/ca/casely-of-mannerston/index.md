@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/casely/"
 - name: "Casely of Mannerston"
   url: "/families/casely-of-mannerston/"
+aliases:
+- "/setts/db50g4k22g23r1g1r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgkgrgr/">BGKGRGR</a></nav>
 A tartan of the [Casely of Mannerston](/families/casely-of-mannerston/) family.
 Its design is pattern [BGKGRGR](/stripes/bgkgrgr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Casely of Mannerston** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db50g4k22g23r1g1r2/">Casely of Mannerston</a></td><td><code>DB/100 G8 K44 G46 R2 G2 R/4</code></td><td>308</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db50g4k22g23r1g1r2/"><img src="/variants/s7/db50g4k22g23r1g1r2~x2/sett.png" alt="Casely of Mannerston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db50g4k22g23r1g1r2~x2/">Casely of Mannerston</a></td><td><code>DB/100 G8 K44 G46 R2 G2 R/4</code></td><td>308</td><td>1990</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db50g4k22g23r1g1r2~x2/"><img src="/variants/s7/db50g4k22g23r1g1r2~x2/sett.png" alt="Casely of Mannerston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><circle cx="276.1" cy="129.6" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><a href="/variants/s9/k6db49g10k2g10k2lr26k2g2~x2/"><circle cx="228.5" cy="110.6" r="4" fill="#3465a4"><title>Madras 3</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="242.7" cy="136.0" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="230.1" cy="116.0" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s9/k4g34y1k18g3db18r3g3r3~x2/"><circle cx="220.6" cy="98.1" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><circle cx="231.8" cy="101.2" r="4" fill="#3465a4"><title>John.W.Mackay</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14db64lb9db3/"><circle cx="217.0" cy="121.0" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/variants/s9/db33k1db5k8g8r2g15y1w2~x2/"><circle cx="249.9" cy="86.8" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s6/r2db38k20w1dg20r2/"><circle cx="286.0" cy="137.0" r="4" fill="#3465a4"><title>Waterfront</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><circle cx="278.7" cy="89.8" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><circle cx="297.7" cy="106.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><circle cx="276.8" cy="129.5" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><a href="/variants/s9/k6db49g10k2g10k2lr26k2g2~x2/"><circle cx="229.2" cy="110.5" r="4" fill="#3465a4"><title>Madras 3</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="243.4" cy="135.9" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="230.8" cy="115.9" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s9/k4g34y1k18g3db18r3g3r3~x2/"><circle cx="221.3" cy="98.0" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><circle cx="232.5" cy="101.1" r="4" fill="#3465a4"><title>John.W.Mackay</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14db64lb9db3/"><circle cx="217.6" cy="120.9" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/variants/s9/db33k1db5k8g8r2g15y1w2~x2/"><circle cx="250.7" cy="86.7" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s6/r2db38k20w1dg20r2/"><circle cx="286.7" cy="137.0" r="4" fill="#3465a4"><title>Waterfront</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><circle cx="279.6" cy="89.8" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><circle cx="298.6" cy="106.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/">Crombie, Harry (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><img src="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/sett.png" alt="Crombie, Harry (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crombie-harry/">Crombie, Harry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crombie-harry/"><img src="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/sett.png" alt="Crombie, Harry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

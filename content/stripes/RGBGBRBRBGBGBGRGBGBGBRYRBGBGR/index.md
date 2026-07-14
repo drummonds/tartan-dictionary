@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/r2g4n2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11n2g4r2~x2~ri1606028/">Shearer</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/r2g4n2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11n2g4r2~x2~ri1606028/"><img src="/variants/s29/r2g4n2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11n2g4r2~x2~ri1606028/sett.png" alt="Shearer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shearer/">Shearer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shearer/"><img src="/variants/s29/r2g4n2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11n2g4r2~x2~ri1606028/sett.png" alt="Shearer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

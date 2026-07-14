@@ -8,10 +8,10 @@ crumbs:
 - name: "AON"
   url: "/tartans/a/ao/aon/"
 - name: "AON"
-  url: "/setts/r5db10r5dg5r25y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5db10r5dg5r25y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ao/aon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBR](/stripes/grgrbr/).
 
 Part of the [AON](/tartans/a/ao/aon/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=99](http
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/2001 — AON (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=99">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Founded in 1680 in Glasgow, this insurance firm now has its global HQ in Chicago with representation in over 120 countries. In Gaelic, Aon means 'oneness'.</em></li>
-<li>pre 2002 — Aon (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4012">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Founded in 1680 this insurance firm originally from Glasgow now has its global HQ in Chicago with representation in over 120 countries. Aon is a world leader in risk management, insurance broking, reinsurance and human capital consulting services. In Gaelic, Aon means "oneness". This is an estimated thread count for display purposes only.</em></li>
+<li>pre 2002 — Aon (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4012/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Founded in 1680 this insurance firm originally from Glasgow now has its global HQ in Chicago with representation in over 120 countries. Aon is a world leader in risk management, insurance broking, reinsurance and human capital consulting services. In Gaelic, Aon means "oneness". This is an estimated thread count for display purposes only.</em></li>
 </ul>
 </details>
 

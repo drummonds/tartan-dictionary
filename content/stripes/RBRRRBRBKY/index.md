@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r23db2r1o2r1db2r4db10k2lo2~x2/">Chang-Miller (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r23db2r1o2r1db2r4db10k2lo2~x2/"><img src="/variants/s10/r23db2r1o2r1db2r4db10k2lo2~x2/sett.png" alt="Chang-Miller (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chang-miller/">Chang-Miller</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chang-miller/"><img src="/variants/s10/r23db2r1o2r1db2r4db10k2lo2~x2/sett.png" alt="Chang-Miller sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

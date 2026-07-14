@@ -8,10 +8,10 @@ crumbs:
 - name: "Lundy Reform"
   url: "/tartans/l/lu/lundy-reform/"
 - name: "Lundy Reform"
-  url: "/setts/k2lb5k1lb1k10r1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2lb5k1lb1k10r1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lu/lundy-reform/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWKWK](/stripes/krkwkwk/).
 
 Part of the [Lundy Reform](/tartans/l/lu/lundy-reform/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2250](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Lundy Reform (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2250">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Named 'reform' in order to distinguish it from the other Lundy tartan. It is claimed that this is for the 're-formed' Clan Lundy Society USA Inc per Mr. Walker Lundy, PO Box 3312, Texarkana, USA who says that he was elected Chief.</em></li>
-<li>pre 2002 — Lundy Reform (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5515">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Named 'reform' in order to distinguish it from the other Lundy tartan. It is claimed that this is for the 're-formed' Clan Lundy Society USA Inc per Mr. Walker Lundy, PO Box 3312, Texarkana, USA who says that he was elected Chief. Chiefs cannot be elected by unrepresentative sections of a clan or grouping.</em></li>
+<li>pre 2002 — Lundy Reform (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5515/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Named 'reform' in order to distinguish it from the other Lundy tartan. It is claimed that this is for the 're-formed' Clan Lundy Society USA Inc per Mr. Walker Lundy, PO Box 3312, Texarkana, USA who says that he was elected Chief. Chiefs cannot be elected by unrepresentative sections of a clan or grouping.</em></li>
 </ul>
 </details>
 

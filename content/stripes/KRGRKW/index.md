@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k80r6g3r12k2w2~x2/">Dellen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k80r6g3r12k2w2~x2/"><img src="/variants/s6/k80r6g3r12k2w2~x2/sett.png" alt="Dellen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k6r2g17r16k1lb2~x2/">Unidentified #15</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k6r2g17r16k1lb2~x2/"><img src="/variants/s6/k6r2g17r16k1lb2~x2/sett.png" alt="Unidentified #15 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dellen/">Dellen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/dellen/"><img src="/variants/s6/k80r6g3r12k2w2~x2/sett.png" alt="Dellen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-12/">Unidentified 12</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-12/"><img src="/variants/s6/k6r2g17r16k1lb2~x2/sett.png" alt="Unidentified 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

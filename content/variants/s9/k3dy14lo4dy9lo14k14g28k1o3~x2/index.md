@@ -10,10 +10,10 @@ crumbs:
 - name: "Dutch Friendship"
   url: "/tartans/d/du/dutch-friendship/"
 - name: "Dutch Friendship"
-  url: "/setts/k3dy14lo4dy9lo14k14g28k1o3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3dy14lo4dy9lo14k14g28k1o3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dutch-friendship/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYGYKGKR](/stripes/kgygykgkr/).
 
 Part of the [Dutch Friendship](/tartans/d/du/dutch-friendship/) tartan — the named design grouping this sett with its other cloths.

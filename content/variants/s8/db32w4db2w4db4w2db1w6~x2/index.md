@@ -10,10 +10,10 @@ crumbs:
 - name: "Menzies Navy design"
   url: "/tartans/m/me/menzies-navy-design/"
 - name: "Menzies Navy design Tartan"
-  url: "/setts/db32w4db2w4db4w2db1w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db32w4db2w4db4w2db1w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/menzies-navy-design/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBW](/stripes/bwbwbwbw/).
 
 Part of the [Menzies Navy design](/tartans/m/me/menzies-navy-design/) tartan — the named design grouping this sett with its other cloths.

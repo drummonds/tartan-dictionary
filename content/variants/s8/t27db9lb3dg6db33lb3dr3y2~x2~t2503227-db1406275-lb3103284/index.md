@@ -10,10 +10,10 @@ crumbs:
 - name: "Blue Ridge Highlands Heritage"
   url: "/tartans/b/bl/blue-ridge-highlands-heritage/"
 - name: "Blue Ridge Highlands Heritage"
-  url: "/setts/t27db9lb3dg6db33lb3dr3y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t27db9lb3dg6db33lb3dr3y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blue-ridge-highlands-heritage/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWGBWBG](/stripes/bbwgbwbg/).
 
 Part of the [Blue Ridge Highlands Heritage](/tartans/b/bl/blue-ridge-highlands-heritage/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/">Stuart-Houghton Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/"><img src="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/sett.png" alt="Stuart-Houghton Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stuart-houghton-dress-2/">Stuart-Houghton Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stuart-houghton-dress-2/"><img src="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/sett.png" alt="Stuart-Houghton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/">Springbok (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/"><img src="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/sett.png" alt="Springbok (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/springbok/">Springbok</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/springbok/"><img src="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/sett.png" alt="Springbok sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

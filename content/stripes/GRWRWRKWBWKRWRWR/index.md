@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24y3~x2/">Heart of Midlothian Football Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24y3~x2/"><img src="/variants/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24y3~x2/sett.png" alt="Heart of Midlothian Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heart-of-midlothian-football-club/">Heart of Midlothian Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heart-of-midlothian-football-club/"><img src="/variants/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24y3~x2/sett.png" alt="Heart of Midlothian Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

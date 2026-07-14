@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3~x2/">Robert Lee Jordan Defiance (Per.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3~x2/"><img src="/variants/s14/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3~x2/sett.png" alt="Robert Lee Jordan Defiance (Per.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robert-lee-jordan-defiance/">Robert Lee Jordan Defiance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robert-lee-jordan-defiance/"><img src="/variants/s14/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3~x2/sett.png" alt="Robert Lee Jordan Defiance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

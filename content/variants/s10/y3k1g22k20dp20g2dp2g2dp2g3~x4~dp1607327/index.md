@@ -8,15 +8,15 @@ crumbs:
 - name: "Urbino"
   url: "/tartans/u/ur/urbino/"
 - name: "Urbino"
-  url: "/setts/y3k1g22k20dp20g2dp2g2dp2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3k1g22k20dp20g2dp2g2dp2g3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBGBKGKGKGKBGBGBG](/stripes/bgbgbkgkgkgkbgbgbg/).
+provenance below. It is one weaving of the [sett](/tartans/u/ur/urbino/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGBGBKGKG](/stripes/gbgbgbkgkg/).
 
 Part of the [Urbino](/tartans/u/ur/urbino/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4428](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4428)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4362
 
 ## Thread count
-G/12 DP8 G8 DP8 G8 DP80 K80 G88 K4 Y12 K4 G88 K80 DP80 G8 DP8 G8 DP/8
+Y/12 K4 G88 K80 DP80 G8 DP8 G8 DP8 G/12
 
-One full sett is **1164 threads**.
+One full sett is **592 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/12 DP8 G8 DP8 G8 DP80 K80 G88 K4 Y12 K4 G88 K80 DP80 G8 DP8 G8 DP/8 — 1164 threads; it folds to the canonical 592-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **1164 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/12 DP8 G8 DP8 G8 DP80 K80 G88 K4 Y12 K4 G88 K80 DP80 G8 DP8 G8 DP/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/12 K4 G88 K80 DP80 G8 DP8 G8 DP8 G/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/">Victorian Highland Pipe Band Assoc</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/"><img src="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/sett.png" alt="Victorian Highland Pipe Band Assoc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/">Victorian Highland Pipe Band Association (Australia)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/"><img src="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/sett.png" alt="Victorian Highland Pipe Band Association (Australia) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/victorian-highland-pipe-band-assoc/">Victorian Highland Pipe Band Assoc</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/victorian-highland-pipe-band-assoc/"><img src="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/sett.png" alt="Victorian Highland Pipe Band Assoc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/victorian-highland-pipe-band-association/">Victorian Highland Pipe Band Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/victorian-highland-pipe-band-association/"><img src="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/sett.png" alt="Victorian Highland Pipe Band Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

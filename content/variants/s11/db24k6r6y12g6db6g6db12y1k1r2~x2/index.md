@@ -10,10 +10,10 @@ crumbs:
 - name: "Berwick Friendship"
   url: "/tartans/b/be/berwick-friendship/"
 - name: "Berwick Friendship"
-  url: "/setts/db24k6r6y12g6db6g6db12y1k1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db24k6r6y12g6db6g6db12y1k1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/berwick-friendship/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRGGBGBGKR](/stripes/bkrggbgbgkr/).
 
 Part of the [Berwick Friendship](/tartans/b/be/berwick-friendship/) tartan — the named design grouping this sett with its other cloths.

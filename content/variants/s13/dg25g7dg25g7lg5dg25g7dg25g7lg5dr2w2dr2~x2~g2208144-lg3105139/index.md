@@ -12,10 +12,10 @@ crumbs:
 - name: "Pino"
   url: "/tartans/p/pi/pino/"
 - name: "Pino Family (Pennsylvania) (Personal)"
-  url: "/setts/dg25g7dg25g7lg5dg25g7dg25g7lg5dr2w2dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg25g7dg25g7lg5dg25g7dg25g7lg5dr2w2dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pi/pino/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBYGGGGYGGGG](/stripes/bwbyggggygggg/).
 
 Part of the [Pino](/tartans/p/pi/pino/) tartan — the named design grouping this sett with its other cloths.

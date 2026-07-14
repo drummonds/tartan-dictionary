@@ -10,17 +10,17 @@ crumbs:
 - name: "Wacker"
   url: "/families/wacker/"
 - name: "Wacker"
-  url: "/tartans/w/wa/wacker-2/"
+  url: "/tartans/w/wa/wacker/"
 - name: "Wacker"
-  url: "/setts/dbi6k3dbi3db13g13k1g13db13w1dbi3k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi6k3dbi3db13g13k1g13db13w1dbi3k3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBBGKGBWBKBWBGKGBBK](/stripes/bkbbgkgbwbkbwbgkgbbk/).
+provenance below. It is one weaving of the [sett](/tartans/w/wa/wacker/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBBGKGBWBK](/stripes/bkbbgkgbwbk/).
 
-Part of the [Wacker](/tartans/w/wa/wacker-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wacker](/tartans/w/wa/wacker/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4472](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4472)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4472](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/2000 — Wacker (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4472">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed in March 2000 by Robin Birch of Connell Reid Kiltmakers of Blairgowrie for a customer. Could possibly be considered a clan/family tartan for those of the name Wacker.</em></li>
-<li>2000 — Wacker (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2689">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed in March 2000 by Robin Birch of Connell Reid Kiltmakers of Blairgowrie for a Dr. Wacker but can be worn by anyone of the name.</em></li>
+<li>2000 — Wacker (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2689/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed in March 2000 by Robin Birch of Connell Reid Kiltmakers of Blairgowrie for a Dr. Wacker but can be worn by anyone of the name.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2689
 
 ## Thread count
-DBi/12 K6 DBi6 DB26 G26 K2 G26 DB26 W2 DBi6 K6 DBi6 W2 DB26 G26 K2 G26 DB26 DBi6 K/6
+DBi/12 K6 DBi6 DB26 G26 K2 G26 DB26 W2 DBi6 K/6
 
-One full sett is **522 threads**.
+One full sett is **270 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DBi/12 K6 DBi6 DB26 G26 K2 G26 DB26 W2 DBi6 K6 DBi6 W2 DB26 G26 K2 G26 DB26 DBi6 K/6 — 522 threads; it folds to the canonical 270-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **522 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DBi/12 K6 DBi6 DB26 G26 K2 G26 DB26 W2 DBi6 K6 DBi6 W2 DB26 G26 K2 G26 DB26 DBi6 K/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DBi/12 K6 DBi6 DB26 G26 K2 G26 DB26 W2 DBi6 K/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

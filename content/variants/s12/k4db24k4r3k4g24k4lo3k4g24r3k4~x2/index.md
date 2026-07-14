@@ -12,10 +12,10 @@ crumbs:
 - name: "Skene"
   url: "/tartans/s/sk/skene-2/"
 - name: "Skene (Maclan)"
-  url: "/setts/k4db24k4r3k4g24k4lo3k4g24r3k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4db24k4r3k4g24k4lo3k4g24r3k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sk/skene-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRKGKYKGRK](/stripes/kbkrkgkykgrk/).
 
 Part of the [Skene](/tartans/s/sk/skene-2/) tartan — the named design grouping this sett with its other cloths.

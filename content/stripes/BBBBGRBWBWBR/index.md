@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/">Scobie (Blackford)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/"><img src="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/sett.png" alt="Scobie (Blackford) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scobie/">Scobie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scobie/"><img src="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/sett.png" alt="Scobie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g12k8n6k22n3k8n3k40g6/">Jensen, Sven (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g12k8n6k22n3k8n3k40g6/"><img src="/variants/s9/g12k8n6k22n3k8n3k40g6/sett.png" alt="Jensen, Sven (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/je/jensen-sven/">Jensen, Sven</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/je/jensen-sven/"><img src="/variants/s9/g12k8n6k22n3k8n3k40g6/sett.png" alt="Jensen, Sven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/">Java Saint Andrew Society Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><img src="/variants/s7/db50g26k9g4lb2dr2g10~x2/sett.png" alt="Java Saint Andrew Society Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/java-saint-andrew-society-hunting/">Java Saint Andrew Society Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/java-saint-andrew-society-hunting/"><img src="/variants/s7/db50g26k9g4lb2dr2g10~x2/sett.png" alt="Java Saint Andrew Society Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

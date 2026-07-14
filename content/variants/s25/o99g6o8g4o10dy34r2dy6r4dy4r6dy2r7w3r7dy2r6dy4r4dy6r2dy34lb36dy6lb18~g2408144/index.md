@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Cant"
-  url: "/tartans/u/un/unidentified-cant-11/"
+  url: "/tartans/u/un/unidentified-cant-9/"
 - name: "Unidentified Cant #11"
-  url: "/setts/o99g6o8g4o10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34lb36dy6lb18/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o99g6o8g4o10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34lb36dy6lb18/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GWGRGRGRGRWRGRGRGRGRGRGRGRGRGRGRGRGRWRGRGRGRGWGW](/stripes/gwgrgrgrgrwrgrgrgrgrgrgrgrgrgrgrgrgrwrgrgrgrgwgw/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-cant-9/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGRGRGRGRGRGRWRGRGRGRGWGW](/stripes/rgrgrgrgrgrgrwrgrgrgrgwgw/).
 
-Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant-11/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant-9/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [48 stripe tartan](/stripes/stripes48/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5389](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5389)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3961
 
 ## Thread count
-LB/18 DY6 LB36 DY34 R2 DY6 R4 DY4 R6 DY2 R7 W3 R7 DY2 R6 DY4 R4 DY6 R2 DY34 O10 G4 O8 G6 O99 G6 O8 G4 O10 DY34 R2 DY6 R4 DY4 R6 DY2 R7 W3 R7 DY2 R6 DY4 R4 DY6 R2 DY34 LB36 DY/6
+O/99 G6 O8 G4 O10 DY34 R2 DY6 R4 DY4 R6 DY2 R7 W3 R7 DY2 R6 DY4 R4 DY6 R2 DY34 LB36 DY6 LB/18
 
-One full sett is **1022 threads**.
+One full sett is **523 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/18 DY6 LB36 DY34 R2 DY6 R4 DY4 R6 DY2 R7 W3 R7 DY2 R6 DY4 R4 DY6 R2 DY34 O10 G4 O8 G6 O99 G6 O8 G4 O10 DY34 R2 DY6 R4 DY4 R6 DY2 R7 W3 R7 DY2 R6 DY4 R4 DY6 R2 DY34 LB36 DY/6 — 1022 threads; it folds to the canonical 523-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **1022 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/18 DY6 LB36 DY34 R2 DY6 R4 DY4 R6 DY2 R7 W3 R7 DY2 R6 DY4 R4 DY6 R2 DY34 O10 G4 O8 G6 O99 G6 O8 G4 O10 DY34 R2 DY6 R4 DY4 R6 DY2 R7 W3 R7 DY2 R6 DY4 R4 DY6 R2 DY34 LB36 DY/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="O/99 G6 O8 G4 O10 DY34 R2 DY6 R4 DY4 R6 DY2 R7 W3 R7 DY2 R6 DY4 R4 DY6 R2 DY34 LB36 DY6 LB/18 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

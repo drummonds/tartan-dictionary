@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/dy10k1r1k3r1k1dy1r1dy3r1dy1y1dg3y1dg1ly1y3ly1y1ly10~x4~dy1201180-dg1501120/">Spice of Life</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/dy10k1r1k3r1k1dy1r1dy3r1dy1y1dg3y1dg1ly1y3ly1y1ly10~x4~dy1201180-dg1501120/"><img src="/variants/s20/dy10k1r1k3r1k1dy1r1dy3r1dy1y1dg3y1dg1ly1y3ly1y1ly10~x4~dy1201180-dg1501120/sett.png" alt="Spice of Life sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spice-of-life-2/">Spice of Life</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spice-of-life-2/"><img src="/variants/s20/dy10k1r1k3r1k1dy1r1dy3r1dy1y1dg3y1dg1ly1y3ly1y1ly10~x4~dy1201180-dg1501120/sett.png" alt="Spice of Life sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -17,7 +17,7 @@ A family of [Clan Cameron](/clan/cameron/).
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/c/ca/cameron-of-locheil/">Cameron of Locheil</a> ★</td><td>1764</td><td>1</td><td>3</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/cameron-of-locheil/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/cameron-of-locheil/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/ca/cameron-of-locheil-2/">Cameron of Locheil</a></td><td>—</td><td>1</td><td>1</td><td>3.93</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ca/cameron-of-locheil-2/"><img src="db4r1db1r18db10r1g1r6g10r6w1r4db1-rev.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/ca/cameron-of-locheil-3/">Cameron of Locheil</a></td><td>—</td><td>1</td><td>1</td><td>4.09</td></tr>

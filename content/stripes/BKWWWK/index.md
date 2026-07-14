@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k10lb2w5lb4k50t2~x2/">London Fog Black</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><img src="/variants/s6/k10lb2w5lb4k50t2~x2/sett.png" alt="London Fog Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/london-fog/">London Fog</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/london-fog/"><img src="/variants/s6/k10lb2w5lb4k50t2~x2/sett.png" alt="London Fog sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

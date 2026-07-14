@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1~x2~o2500000-n1900000/">Cornish Pascoe (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1~x2~o2500000-n1900000/"><img src="/variants/s17/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1~x2~o2500000-n1900000/sett.png" alt="Cornish Pascoe (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cornish-pascoe/">Cornish Pascoe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-pascoe/"><img src="/variants/s17/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1~x2~o2500000-n1900000/sett.png" alt="Cornish Pascoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

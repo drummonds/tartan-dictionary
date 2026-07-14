@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db2dr1k1lb1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbkw/">BBKW</a></nav>
 Its design is pattern [BBKW](/stripes/bbkw/) — the page of every tartan sharing this colour sequence.
 
 The **Kucher, Gregory** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Kucher, Gregory** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db2dr1k1lb1/">Kucher, Gregory</a></td><td><code>DB/20 DR10 K10 LB/10</code></td><td>70</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db2dr1k1lb1/"><img src="/variants/s4/db2dr1k1lb1~x10/sett.png" alt="Kucher, Gregory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db2dr1k1lb1~x10/">Kucher, Gregory</a></td><td><code>DB/20 DR10 K10 LB/10</code></td><td>70</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/db2dr1k1lb1~x10/"><img src="/variants/s4/db2dr1k1lb1~x10/sett.png" alt="Kucher, Gregory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/"><circle cx="174.5" cy="221.1" r="4" fill="#3465a4"><title>Rose, Danny and Hanna</title></circle></a><a href="/variants/s3/r4k7lb4~x2~r2109032/"><circle cx="126.3" cy="338.9" r="4" fill="#3465a4"><title>Wilson's No.198</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="198.3" cy="276.3" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="91.9" cy="255.4" r="4" fill="#3465a4"><title>Gandy of Myrton</title></circle></a><a href="/variants/s3/db1k2r1~x42/"><circle cx="178.2" cy="327.0" r="4" fill="#3465a4"><title>Allen, Nicholas</title></circle></a><a href="/variants/s4/b9g9k10lb2~x2/"><circle cx="98.1" cy="279.6" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="146.7" cy="266.7" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="141.5" cy="289.0" r="4" fill="#3465a4"><title>Clark Clerk</title></circle></a><a href="/variants/s5/db13k4y4k4r13~x4/"><circle cx="114.1" cy="257.7" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/k4g8k7db8r4~x2/"><circle cx="54.3" cy="319.3" r="4" fill="#3465a4"><title>Durham</title></circle></a><circle cx="93.4" cy="322.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/"><circle cx="174.8" cy="220.9" r="4" fill="#3465a4"><title>Rose, Danny and Hanna</title></circle></a><a href="/variants/s3/r4k7lb4~x2~r2109032/"><circle cx="126.5" cy="338.8" r="4" fill="#3465a4"><title>Wilson's No.198</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="198.5" cy="276.2" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="92.0" cy="255.1" r="4" fill="#3465a4"><title>Gandy of Myrton</title></circle></a><a href="/variants/s3/db1k2r1~x42/"><circle cx="178.5" cy="327.0" r="4" fill="#3465a4"><title>Allen, Nicholas</title></circle></a><a href="/variants/s4/b9g9k10lb2~x2/"><circle cx="98.1" cy="279.4" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="146.7" cy="266.5" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="141.6" cy="288.9" r="4" fill="#3465a4"><title>Clark Clerk</title></circle></a><a href="/variants/s5/db13k4y4k4r13~x4/"><circle cx="114.3" cy="257.5" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/k4g8k7db8r4~x2/"><circle cx="54.2" cy="319.1" r="4" fill="#3465a4"><title>Durham</title></circle></a><circle cx="93.4" cy="322.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

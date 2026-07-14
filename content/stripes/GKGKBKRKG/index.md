@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg115k15r8k4t8k4y8k4g8~x2/">Granvert</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg115k15r8k4t8k4y8k4g8~x2/"><img src="/variants/s9/dg115k15r8k4t8k4y8k4g8~x2/sett.png" alt="Granvert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/granvert/">Granvert</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/granvert/"><img src="/variants/s9/dg115k15r8k4t8k4y8k4g8~x2/sett.png" alt="Granvert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/daks/"
 - name: "Daks"
   url: "/families/daks/"
+aliases:
+- "/setts/k40db10g6k2g3k2/"
+- "/setts/ki25k7ki2k2ki2k2db10g6k2g3ki2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkgbkkkkkk/">KGKGBKKKKKK</a></nav>
 A tartan of the [Daks](/families/daks/) family.
 Its design is pattern [KGKGBKKKKKK](/stripes/kgkgbkkkkkk/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Daks** tartan groups 2 setts — the same named design recorded as differe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k40db10g6k2g3k2/">Daks</a> ★</td><td><code>K/50 K14 K4 K4 K4 K4 DB20 G12 K4 G6 K/4</code></td><td>168</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k40db10g6k2g3k2/"><img src="/variants/s6/k40db10g6k2g3k2~x2/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/ki25k7ki2k2ki2k2db10g6k2g3ki2/">(Chino Check) (Fashion)</a></td><td><code>Ki/50 K14 Ki4 K4 Ki4 K4 DB20 G12 K4 G6 Ki/4</code></td><td>198</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ki25k7ki2k2ki2k2db10g6k2g3ki2/"><img src="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/sett.png" alt="(Chino Check) (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k40db10g6k2g3k2~x2/">Daks</a> ★</td><td><code>K/80 DB20 G12 K4 G6 K/4</code></td><td>168</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k40db10g6k2g3k2~x2/"><img src="/variants/s6/k40db10g6k2g3k2~x2/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/">(Chino Check) (Fashion)</a></td><td><code>Ki/50 K14 Ki4 K4 Ki4 K4 DB20 G12 K4 G6 Ki/4</code></td><td>198</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/"><img src="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/sett.png" alt="(Chino Check) (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="302.9" cy="186.2" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="329.3" cy="140.1" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="431.0" cy="65.9" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="356.8" cy="134.6" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="461.7" cy="143.6" r="4" fill="#3465a4"><title>Kalkofen</title></circle></a><a href="/variants/s6/k60dr3k5dr3lb18n3~x2/"><circle cx="389.7" cy="105.2" r="4" fill="#3465a4"><title>Ailsa, Navy</title></circle></a><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><circle cx="348.7" cy="136.7" r="4" fill="#3465a4"><title>Childers Regimental</title></circle></a><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><circle cx="489.1" cy="105.0" r="4" fill="#3465a4"><title>Clan Inebriated</title></circle></a><a href="/variants/s7/dg42k10y2k6dg10k11dg2~x2/"><circle cx="452.1" cy="169.8" r="4" fill="#3465a4"><title>Laggen Dress</title></circle></a><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><circle cx="382.7" cy="110.5" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><circle cx="421.0" cy="128.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="303.8" cy="186.4" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="330.4" cy="140.3" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="432.5" cy="66.2" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="357.9" cy="134.8" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="463.0" cy="144.0" r="4" fill="#3465a4"><title>Kalkofen</title></circle></a><a href="/variants/s6/k60dr3k5dr3lb18n3~x2/"><circle cx="391.0" cy="105.4" r="4" fill="#3465a4"><title>Ailsa, Navy</title></circle></a><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><circle cx="349.8" cy="137.0" r="4" fill="#3465a4"><title>Childers Regimental</title></circle></a><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><circle cx="490.6" cy="105.4" r="4" fill="#3465a4"><title>Clan Inebriated</title></circle></a><a href="/variants/s7/dg42k10y2k6dg10k11dg2~x2/"><circle cx="453.2" cy="170.2" r="4" fill="#3465a4"><title>Laggen Dress</title></circle></a><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><circle cx="383.9" cy="110.8" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><circle cx="422.3" cy="129.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

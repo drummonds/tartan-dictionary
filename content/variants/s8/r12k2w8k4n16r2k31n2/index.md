@@ -8,10 +8,10 @@ crumbs:
 - name: "Distripress Annual Congress 2012"
   url: "/tartans/d/di/distripress-annual-congress-2012/"
 - name: "Distripress Annual Congress 2012"
-  url: "/setts/r12k2w8k4n16r2k31n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12k2w8k4n16r2k31n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/distripress-annual-congress-2012/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRBKWKR](/stripes/bkrbkwkr/).
 
 Part of the [Distripress Annual Congress 2012](/tartans/d/di/distripress-annual-congress-2012/) tartan — the named design grouping this sett with its other cloths.

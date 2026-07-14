@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/">Cameron Boyle, The (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/"><img src="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/sett.png" alt="Cameron Boyle, The (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cameron-boyle-the/">Cameron Boyle, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-boyle-the/"><img src="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/sett.png" alt="Cameron Boyle, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

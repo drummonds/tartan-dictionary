@@ -10,10 +10,10 @@ crumbs:
 - name: "Ross, Old"
   url: "/tartans/r/ro/ross-old/"
 - name: "Ross, Old"
-  url: "/setts/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/ross-old/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRGRGRGR](/stripes/brbrbrbrgrgrgr/).
 
 Part of the [Ross, Old](/tartans/r/ro/ross-old/) tartan — the named design grouping this sett with its other cloths.

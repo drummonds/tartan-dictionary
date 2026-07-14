@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dp10y3dp8db42g5n5~x2/">Cheadle (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dp10y3dp8db42g5n5~x2/"><img src="/variants/s6/dp10y3dp8db42g5n5~x2/sett.png" alt="Cheadle (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/cheadle/">Cheadle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/cheadle/"><img src="/variants/s6/dp10y3dp8db42g5n5~x2/sett.png" alt="Cheadle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/">Discover Islay (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/"><img src="/variants/s6/dp6y1dp20db6g19dp2~x4/sett.png" alt="Discover Islay (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/discover-islay/">Discover Islay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/discover-islay/"><img src="/variants/s6/dp6y1dp20db6g19dp2~x4/sett.png" alt="Discover Islay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db2g15do3db7g7db2~x4/">Green Highland, The (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2g15do3db7g7db2~x4/"><img src="/variants/s6/db2g15do3db7g7db2~x4/sett.png" alt="Green Highland, The (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/green-highland-the/">Green Highland, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/green-highland-the/"><img src="/variants/s6/db2g15do3db7g7db2~x4/sett.png" alt="Green Highland, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

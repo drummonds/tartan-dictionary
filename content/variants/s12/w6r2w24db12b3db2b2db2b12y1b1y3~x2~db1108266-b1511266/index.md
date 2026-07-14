@@ -8,10 +8,10 @@ crumbs:
 - name: "Payeur, François"
   url: "/tartans/p/pa/payeur-fran-ois/"
 - name: "Payeur, François (Personal)"
-  url: "/setts/w6r2w24db12b3db2b2db2b12y1b1y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w6r2w24db12b3db2b2db2b12y1b1y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/payeur-fran-ois/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBBBBBWRW](/stripes/gbgbbbbbbwrw/).
 
 Part of the [Payeur, François](/tartans/p/pa/payeur-fran-ois/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/">College of William &amp; Mary Schools Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/"><img src="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/sett.png" alt="College of William &amp; Mary Schools Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/college-of-william-mary-schools/">College of William &amp; Mary Schools</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/college-of-william-mary-schools/"><img src="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/sett.png" alt="College of William &amp; Mary Schools sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

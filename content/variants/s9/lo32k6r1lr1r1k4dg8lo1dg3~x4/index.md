@@ -8,10 +8,10 @@ crumbs:
 - name: "Durango"
   url: "/tartans/d/du/durango/"
 - name: "Durango"
-  url: "/setts/lo32k6r1lr1r1k4dg8lo1dg3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lo32k6r1lr1r1k4dg8lo1dg3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/durango/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGKRYRKY](/stripes/gygkryrky/).
 
 Part of the [Durango](/tartans/d/du/durango/) tartan — the named design grouping this sett with its other cloths.

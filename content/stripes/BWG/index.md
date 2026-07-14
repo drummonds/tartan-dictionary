@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/dy1w2db1~x12/">Aquascutum</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dy1w2db1~x12/"><img src="/variants/s3/dy1w2db1~x12/sett.png" alt="Aquascutum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/aq/aquascutum-3/">Aquascutum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/aq/aquascutum-3/"><img src="/variants/s3/dy1w2db1~x12/sett.png" alt="Aquascutum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/g30w2dr5~x4/">S3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/g30w2dr5~x4/"><img src="/variants/s3/g30w2dr5~x4/sett.png" alt="S3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/s/s3/">S3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/s/s3/"><img src="/variants/s3/g30w2dr5~x4/sett.png" alt="S3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

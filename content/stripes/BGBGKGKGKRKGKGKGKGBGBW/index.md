@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/db14g2db2g14k2g14k2g2k9r2k8y2k9g2k2g14k2g14db2g2db14w2~x2/">Dow - Aerlift</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/db14g2db2g14k2g14k2g2k9r2k8y2k9g2k2g14k2g14db2g2db14w2~x2/"><img src="/variants/s22/db14g2db2g14k2g14k2g2k9r2k8y2k9g2k2g14k2g14db2g2db14w2~x2/sett.png" alt="Dow - Aerlift sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dow/">Dow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dow/"><img src="/variants/s22/db14g2db2g14k2g14k2g2k9r2k8y2k9g2k2g14k2g14db2g2db14w2~x2/sett.png" alt="Dow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

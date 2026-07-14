@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k12g3y2k2g3k18dy4k2dp18g2db2~x2/">Sturm (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k12g3y2k2g3k18dy4k2dp18g2db2~x2/"><img src="/variants/s11/k12g3y2k2g3k18dy4k2dp18g2db2~x2/sett.png" alt="Sturm (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/sturm/">Sturm</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/sturm/"><img src="/variants/s11/k12g3y2k2g3k18dy4k2dp18g2db2~x2/sett.png" alt="Sturm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

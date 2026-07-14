@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Leach"
   url: "/clan/leach/"
+aliases:
+- "/setts/b32w1k3w1g14b7k3dr3w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwkwgbkbw/">BWKWGBKBW</a></nav>
 A tartan of [Clan Leach](/clan/leach/).
 Its design is pattern [BWKWGBKBW](/stripes/bwkwgbkbw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Leach, Leech, Leitch, hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b32w1k3w1g14b7k3dr3w1/">Leach, Leech, Leitch, hunting</a></td><td><code>B/64 W2 K6 W2 G28 B14 K6 DR6 W/2</code></td><td>194</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b32w1k3w1g14b7k3dr3w1/"><img src="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/sett.png" alt="Leach, Leech, Leitch, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/">Leach, Leech, Leitch, hunting</a></td><td><code>B/64 W2 K6 W2 G28 B14 K6 DR6 W/2</code></td><td>194</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/"><img src="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/sett.png" alt="Leach, Leech, Leitch, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="334.1" cy="121.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="262.8" cy="74.5" r="4" fill="#3465a4"><title>Stewart Blue MINI</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="303.5" cy="88.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s11/db48dp2db5dp2db7g2w3g5k4w1g26~x2/"><circle cx="338.1" cy="65.4" r="4" fill="#3465a4"><title>Spirit of West Lothian</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="265.8" cy="110.6" r="4" fill="#3465a4"><title>Jack Sinclair</title></circle></a><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/"><circle cx="342.4" cy="66.5" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="355.1" cy="88.2" r="4" fill="#3465a4"><title>European Union</title></circle></a><a href="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/"><circle cx="365.2" cy="111.8" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/"><circle cx="292.5" cy="71.8" r="4" fill="#3465a4"><title>Ambulance Victoria</title></circle></a><a href="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/"><circle cx="327.5" cy="120.5" r="4" fill="#3465a4"><title>Edinburgh Festival</title></circle></a><circle cx="328.7" cy="94.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="335.0" cy="121.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="263.8" cy="74.4" r="4" fill="#3465a4"><title>Stewart Blue MINI</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="304.5" cy="88.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s11/db48dp2db5dp2db7g2w3g5k4w1g26~x2/"><circle cx="339.2" cy="65.4" r="4" fill="#3465a4"><title>Spirit of West Lothian</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="266.7" cy="110.5" r="4" fill="#3465a4"><title>Jack Sinclair</title></circle></a><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/"><circle cx="343.5" cy="66.6" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="356.2" cy="88.2" r="4" fill="#3465a4"><title>European Union</title></circle></a><a href="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/"><circle cx="366.2" cy="111.9" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/"><circle cx="293.5" cy="71.7" r="4" fill="#3465a4"><title>Ambulance Victoria</title></circle></a><a href="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/"><circle cx="328.3" cy="120.5" r="4" fill="#3465a4"><title>Edinburgh Festival</title></circle></a><circle cx="329.7" cy="94.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

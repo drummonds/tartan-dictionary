@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k4o8m30k8o6k8o12w3~x2/">Believe - Corinna</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><img src="/variants/s8/k4o8m30k8o6k8o12w3~x2/sett.png" alt="Believe - Corinna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/believe/">Believe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/believe/"><img src="/variants/s8/k4o8m30k8o6k8o12w3~x2/sett.png" alt="Believe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

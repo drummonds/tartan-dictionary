@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y6b38k3b38y6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbkbg/">GBKBG</a></nav>
 Its design is pattern [GBKBG](/stripes/gbkbg/) — the page of every tartan sharing this colour sequence.
 
 The **The Poulain League** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **The Poulain League** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y6b38k3b38y6/">The Poulain League</a></td><td><code>Y/12 B76 K6 B76 Y/12</code></td><td>340</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y6b38k3b38y6/"><img src="/variants/s5/y6b38k3b38y6~x2/sett.png" alt="The Poulain League sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/y6b38k3b38y6~x2/">The Poulain League</a></td><td><code>Y/12 B76 K6 B76 Y/12</code></td><td>340</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/y6b38k3b38y6~x2/"><img src="/variants/s5/y6b38k3b38y6~x2/sett.png" alt="The Poulain League sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dy1db9dy2db9r1~x4/"><circle cx="621.4" cy="267.3" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall</title></circle></a><a href="/variants/s4/db140r11db14y11/"><circle cx="626.0" cy="205.9" r="4" fill="#3465a4"><title>Gem</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="450.0" cy="155.3" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s4/db50k12db21w5~x2/"><circle cx="480.8" cy="213.6" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/variants/s4/db32r3db4y3~x2/"><circle cx="620.8" cy="214.8" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s4/db102r11db14w11/"><circle cx="538.7" cy="200.0" r="4" fill="#3465a4"><title>Westfield</title></circle></a><a href="/variants/s5/db32r3db4k1y3~x2/"><circle cx="591.7" cy="124.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s3/dy6lb38k3~x2/"><circle cx="480.3" cy="191.5" r="4" fill="#3465a4"><title>Poulain League</title></circle></a><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="469.3" cy="160.8" r="4" fill="#3465a4"><title>Steffen, Morris</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="477.6" cy="167.9" r="4" fill="#3465a4"><title>Steffen, Markus</title></circle></a><circle cx="574.0" cy="217.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dy1db9dy2db9r1~x4/"><circle cx="622.5" cy="268.0" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall</title></circle></a><a href="/variants/s4/db140r11db14y11/"><circle cx="626.0" cy="206.6" r="4" fill="#3465a4"><title>Gem</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="451.3" cy="155.7" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s4/db50k12db21w5~x2/"><circle cx="482.1" cy="214.1" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/variants/s4/db32r3db4y3~x2/"><circle cx="622.3" cy="215.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s4/db102r11db14w11/"><circle cx="540.1" cy="200.5" r="4" fill="#3465a4"><title>Westfield</title></circle></a><a href="/variants/s5/db32r3db4k1y3~x2/"><circle cx="593.4" cy="125.0" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s3/dy6lb38k3~x2/"><circle cx="481.6" cy="191.8" r="4" fill="#3465a4"><title>Poulain League</title></circle></a><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="470.6" cy="161.1" r="4" fill="#3465a4"><title>Steffen, Morris</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="478.8" cy="168.2" r="4" fill="#3465a4"><title>Steffen, Markus</title></circle></a><circle cx="575.3" cy="218.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

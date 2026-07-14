@@ -8,10 +8,10 @@ crumbs:
 - name: "Maryville College"
   url: "/tartans/m/ma/maryville-college/"
 - name: "Maryville College"
-  url: "/setts/k13dr40r13n8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k13dr40r13n8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maryville-college/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBK](/stripes/brbk/).
 
 Part of the [Maryville College](/tartans/m/ma/maryville-college/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2848](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Maryville College (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2848">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E86000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #E86000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Maryville College is located in the city of Maryville, just 15 minutes south of Knoxville, Tennessee's third-largest city. www.maryvillecollege.edu. Woven by Strathmore.</em></li>
-<li>pre 2004 — Maryville College (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6154">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E86000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #E86000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Maryville College is located in the city of Maryville, just 15 minutes south of Knoxville, Tennessee's third-largest city. www.maryvillecollege.edu Woven by Strathmore.</em></li>
+<li>pre 2004 — Maryville College (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6154/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="M #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E86000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #E86000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Maryville College is located in the city of Maryville, just 15 minutes south of Knoxville, Tennessee's third-largest city. www.maryvillecollege.edu Woven by Strathmore.</em></li>
 </ul>
 </details>
 

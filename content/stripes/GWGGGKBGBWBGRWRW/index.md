@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/dg32w2y2dy2y6k2db6y2db2w2db2dg10r5w2r4w2~x2/">Zinnen of Scene (Luxembourg) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/dg32w2y2dy2y6k2db6y2db2w2db2dg10r5w2r4w2~x2/"><img src="/variants/s16/dg32w2y2dy2y6k2db6y2db2w2db2dg10r5w2r4w2~x2/sett.png" alt="Zinnen of Scene (Luxembourg) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/z/zi/zinnen-of-scene/">Zinnen of Scene</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/z/zi/zinnen-of-scene/"><img src="/variants/s16/dg32w2y2dy2y6k2db6y2db2w2db2dg10r5w2r4w2~x2/sett.png" alt="Zinnen of Scene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

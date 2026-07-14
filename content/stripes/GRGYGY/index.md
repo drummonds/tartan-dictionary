@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg68r24dg8ly18dg3ly18~x2/">MacMillan/Isetan (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg68r24dg8ly18dg3ly18~x2/"><img src="/variants/s6/dg68r24dg8ly18dg3ly18~x2/sett.png" alt="MacMillan/Isetan (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macmillan-isetan/">MacMillan/Isetan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macmillan-isetan/"><img src="/variants/s6/dg68r24dg8ly18dg3ly18~x2/sett.png" alt="MacMillan/Isetan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

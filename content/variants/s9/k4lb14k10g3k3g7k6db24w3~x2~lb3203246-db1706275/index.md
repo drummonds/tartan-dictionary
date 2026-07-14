@@ -12,15 +12,15 @@ crumbs:
 - name: "Kagame"
   url: "/tartans/k/ka/kagame-2/"
 - name: "Kagame Personal Tartan"
-  url: "/setts/k4lb14k10g3k3g7k6db24w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4lb14k10g3k3g7k6db24w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ka/kagame-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKKGKGKBW](/stripes/kwkkgkgkbw/).
 
 Part of the [Kagame](/tartans/k/ka/kagame-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7077](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7077)
 

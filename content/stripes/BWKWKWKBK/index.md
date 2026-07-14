@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40k4~x2/">Doune District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40k4~x2/"><img src="/variants/s9/n10lb11k2lb3k2lb2k8n40k4~x2/sett.png" alt="Doune District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/doune/">Doune</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/doune/"><img src="/variants/s9/n10lb11k2lb3k2lb2k8n40k4~x2/sett.png" alt="Doune sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

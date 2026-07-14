@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/mackinnon/"
 - name: "MacKinnon"
   url: "/families/mackinnon/"
+aliases:
+- "/setts/r3g20r25w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgrw/">RGRW</a></nav>
 A tartan of the [MacKinnon](/families/mackinnon/) family.
 Its design is pattern [RGRW](/stripes/rgrw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacKinnon 11** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3g20r25w3/">MacKinnon 11</a></td><td><code>R/12 G80 R100 W/12</code></td><td>384</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g20r25w3/"><img src="/variants/s4/r3g20r25w3~x4/sett.png" alt="MacKinnon 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r3g20r25w3~x4/">MacKinnon 11</a></td><td><code>R/12 G80 R100 W/12</code></td><td>384</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r3g20r25w3~x4/"><img src="/variants/s4/r3g20r25w3~x4/sett.png" alt="MacKinnon 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="385.1" cy="258.3" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="378.5" cy="228.3" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="465.5" cy="281.7" r="4" fill="#3465a4"><title>MacGregor of Glenstrae</title></circle></a><a href="/variants/s4/r2g9r2lb2~x4~r2109032/"><circle cx="354.9" cy="285.5" r="4" fill="#3465a4"><title>Wilson's No.212</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="435.4" cy="180.8" r="4" fill="#3465a4"><title>Unidentified Cant</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="316.3" cy="214.6" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="317.5" cy="228.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="324.2" cy="234.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="343.6" cy="233.7" r="4" fill="#3465a4"><title>Menzies 1819</title></circle></a><a href="/variants/s5/r8lg15t12r29w4~x2/"><circle cx="278.8" cy="252.0" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><circle cx="348.9" cy="250.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="385.7" cy="258.5" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="379.4" cy="228.5" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="466.3" cy="282.1" r="4" fill="#3465a4"><title>MacGregor of Glenstrae</title></circle></a><a href="/variants/s4/r2g9r2lb2~x4~r2109032/"><circle cx="355.3" cy="285.7" r="4" fill="#3465a4"><title>Wilson's No.212</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="436.3" cy="181.0" r="4" fill="#3465a4"><title>Unidentified Cant</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="317.0" cy="214.7" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="318.1" cy="228.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="324.7" cy="234.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="344.2" cy="233.8" r="4" fill="#3465a4"><title>Menzies 1819</title></circle></a><a href="/variants/s5/r8lg15t12r29w4~x2/"><circle cx="279.2" cy="251.9" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><circle cx="349.4" cy="250.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

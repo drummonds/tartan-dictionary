@@ -10,10 +10,10 @@ crumbs:
 - name: "Dunoon Irish"
   url: "/tartans/d/du/dunoon-irish/"
 - name: "Dunoon Irish"
-  url: "/setts/w2dg13o13w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2dg13o13w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunoon-irish/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGRW](/stripes/wgrw/).
 
 Part of the [Dunoon Irish](/tartans/d/du/dunoon-irish/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1049](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1935 — Dunoon Irish (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1049">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B84C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #B84C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Designed by a Harry Bayne in 1935. Specimen was in the Coulson Bonnar Collection (Scottish Tartans Society).</em></li>
-<li>1935 — Dunoon Irish (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1802">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B84C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #B84C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006C3C"></span><br><em>Designed by a Henry Bayne in for a Glasgow irish pipe band. 1935. Specimen was in the Coulson Bonnar Clollection (Tartans Society). Woven sample from the Tom Sinclair Scrapbook.</em></li>
+<li>1935 — Dunoon Irish (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1802/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B84C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DO #B84C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006C3C"></span><br><em>Designed by a Henry Bayne in for a Glasgow irish pipe band. 1935. Specimen was in the Coulson Bonnar Clollection (Tartans Society). Woven sample from the Tom Sinclair Scrapbook.</em></li>
 </ul>
 </details>
 

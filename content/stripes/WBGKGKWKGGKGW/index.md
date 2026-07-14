@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w2dy3k2dy6g8k2w2k2g2k6y3db14w1~x2/">Bowling Irish Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w2dy3k2dy6g8k2w2k2g2k6y3db14w1~x2/"><img src="/variants/s13/w2dy3k2dy6g8k2w2k2g2k6y3db14w1~x2/sett.png" alt="Bowling Irish Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bowling/">Bowling</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bowling/"><img src="/variants/s13/w2dy3k2dy6g8k2w2k2g2k6y3db14w1~x2/sett.png" alt="Bowling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

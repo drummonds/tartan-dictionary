@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/">Liberty, Egal'ty, Fratern'ty and Progress Blue Lodge</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/"><img src="/variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/sett.png" alt="Liberty, Egal'ty, Fratern'ty and Progress Blue Lodge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/progress-blue-lodge/">Progress Blue Lodge</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/progress-blue-lodge/"><img src="/variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/sett.png" alt="Progress Blue Lodge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

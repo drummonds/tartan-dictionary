@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db2k2db12k11g16w2~x2/">Campbell of Argyll (Smiths)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2k2db12k11g16w2~x2/"><img src="/variants/s6/db2k2db12k11g16w2~x2/sett.png" alt="Campbell of Argyll (Smiths) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db2k2db12k11g12w2~x2/">Campbell, The White Stripe</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2k2db12k11g12w2~x2/"><img src="/variants/s6/db2k2db12k11g12w2~x2/sett.png" alt="Campbell, The White Stripe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db40k4db12k21g27w4~x2/">Granger (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db40k4db12k21g27w4~x2/"><img src="/variants/s6/db40k4db12k21g27w4~x2/sett.png" alt="Granger (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-of-argyll/">Campbell of Argyll</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-of-argyll/"><img src="/variants/s6/db2k2db12k11g16w2~x2/sett.png" alt="Campbell of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-the-white-stripe/">Campbell, The White Stripe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-the-white-stripe/"><img src="/variants/s6/db2k2db12k11g12w2~x2/sett.png" alt="Campbell, The White Stripe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/granger/">Granger</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/granger/"><img src="/variants/s6/db40k4db12k21g27w4~x2/sett.png" alt="Granger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

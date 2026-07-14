@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g4y1k1lb4g1y1k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggkwggk/">GGKWGGK</a></nav>
 Its design is pattern [GGKWGGK](/stripes/ggkwggk/) — the page of every tartan sharing this colour sequence.
 
 The **Verble** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Verble** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g4y1k1lb4g1y1k1/">Verble</a></td><td><code>G/48 Y12 K12 LB48 G12 Y12 K/12</code></td><td>252</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g4y1k1lb4g1y1k1/"><img src="/variants/s7/g4y1k1lb4g1y1k1~x12/sett.png" alt="Verble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g4y1k1lb4g1y1k1~x12/">Verble</a></td><td><code>G/48 Y12 K12 LB48 G12 Y12 K/12</code></td><td>252</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g4y1k1lb4g1y1k1~x12/"><img src="/variants/s7/g4y1k1lb4g1y1k1~x12/sett.png" alt="Verble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/lb3g12k14lb11r3lb3~x2/"><circle cx="108.8" cy="237.2" r="4" fill="#3465a4"><title>Wellington or Waterloo</title></circle></a><a href="/variants/s6/y1g6k5g1db5g1~x2/"><circle cx="163.3" cy="228.2" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/"><circle cx="120.3" cy="232.3" r="4" fill="#3465a4"><title>Wellington or Waterloo Commemorative</title></circle></a><a href="/variants/s6/k2g13k11lb4w9k2~x2/"><circle cx="100.4" cy="216.1" r="4" fill="#3465a4"><title>Loch Leven, Check</title></circle></a><a href="/variants/s7/k9w38k22g31k5g31y5/"><circle cx="142.1" cy="210.8" r="4" fill="#3465a4"><title>Lawsons' Whisky</title></circle></a><a href="/variants/s8/g5r4g19k10g8w4db18r4~x2/"><circle cx="119.2" cy="214.4" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/variants/s7/y6k6g30k8lb18k6y3~x2/"><circle cx="146.7" cy="188.7" r="4" fill="#3465a4"><title>Cape Breton</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="125.3" cy="228.7" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s6/k3g14k14g2t14r3~x2/"><circle cx="125.3" cy="221.0" r="4" fill="#3465a4"><title>Morrison Society</title></circle></a><a href="/variants/s8/k11g3k3g3k3g9w18k3~x2/"><circle cx="136.9" cy="203.1" r="4" fill="#3465a4"><title>Lamont Dress</title></circle></a><circle cx="123.1" cy="237.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/lb3g12k14lb11r3lb3~x2/"><circle cx="109.0" cy="237.0" r="4" fill="#3465a4"><title>Wellington or Waterloo</title></circle></a><a href="/variants/s6/y1g6k5g1db5g1~x2/"><circle cx="163.6" cy="228.1" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/"><circle cx="120.5" cy="232.1" r="4" fill="#3465a4"><title>Wellington or Waterloo Commemorative</title></circle></a><a href="/variants/s6/k2g13k11lb4w9k2~x2/"><circle cx="100.7" cy="215.9" r="4" fill="#3465a4"><title>Loch Leven, Check</title></circle></a><a href="/variants/s7/k9w38k22g31k5g31y5/"><circle cx="142.4" cy="210.7" r="4" fill="#3465a4"><title>Lawsons' Whisky</title></circle></a><a href="/variants/s8/g5r4g19k10g8w4db18r4~x2/"><circle cx="119.4" cy="214.2" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/variants/s7/y6k6g30k8lb18k6y3~x2/"><circle cx="147.0" cy="188.5" r="4" fill="#3465a4"><title>Cape Breton</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="125.5" cy="228.5" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s6/k3g14k14g2t14r3~x2/"><circle cx="125.6" cy="220.8" r="4" fill="#3465a4"><title>Morrison Society</title></circle></a><a href="/variants/s8/k11g3k3g3k3g9w18k3~x2/"><circle cx="137.3" cy="202.9" r="4" fill="#3465a4"><title>Lamont Dress</title></circle></a><circle cx="123.2" cy="237.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

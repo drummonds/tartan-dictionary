@@ -8,10 +8,10 @@ crumbs:
 - name: "Hewett"
   url: "/tartans/h/he/hewett/"
 - name: "Hewett"
-  url: "/setts/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/hewett/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRBKYKWWKWWKYKBRWR](/stripes/krwrbkykwwkwwkykbrwr/).
 
 Part of the [Hewett](/tartans/h/he/hewett/) tartan — the named design grouping this sett with its other cloths.

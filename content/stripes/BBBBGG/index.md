@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g20dg11n6dr2dp3n1~x2/">Chiti, Cristiano (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g20dg11n6dr2dp3n1~x2/"><img src="/variants/s6/g20dg11n6dr2dp3n1~x2/sett.png" alt="Chiti, Cristiano (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chiti-cristiano/">Chiti, Cristiano</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chiti-cristiano/"><img src="/variants/s6/g20dg11n6dr2dp3n1~x2/sett.png" alt="Chiti, Cristiano sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

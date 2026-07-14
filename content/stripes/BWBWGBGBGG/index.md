@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/">Jones (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><img src="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/sett.png" alt="Jones (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jones-2/">Jones</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jones-2/"><img src="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/sett.png" alt="Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

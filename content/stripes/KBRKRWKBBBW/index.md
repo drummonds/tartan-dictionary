@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2~k0700000-t2405244-o2500000-ki0803038-lb3200000-n1900000/">Oban Mist</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2~k0700000-t2405244-o2500000-ki0803038-lb3200000-n1900000/"><img src="/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2~k0700000-t2405244-o2500000-ki0803038-lb3200000-n1900000/sett.png" alt="Oban Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ob/oban-mist-2/">Oban Mist</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ob/oban-mist-2/"><img src="/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2~k0700000-t2405244-o2500000-ki0803038-lb3200000-n1900000/sett.png" alt="Oban Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

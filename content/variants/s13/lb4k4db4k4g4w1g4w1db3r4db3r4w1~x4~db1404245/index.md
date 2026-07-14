@@ -8,10 +8,10 @@ crumbs:
 - name: "Stanners"
   url: "/tartans/s/st/stanners/"
 - name: "Stanners (Personal)"
-  url: "/setts/lb4k4db4k4g4w1g4w1db3r4db3r4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4k4db4k4g4w1g4w1db3r4db3r4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stanners/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKGWGWBRBRW](/stripes/wkbkgwgwbrbrw/).
 
 Part of the [Stanners](/tartans/s/st/stanners/) tartan — the named design grouping this sett with its other cloths.

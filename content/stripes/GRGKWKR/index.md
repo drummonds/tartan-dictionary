@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r20k14w2k14g9r3g11~x2/">Brough</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><img src="/variants/s7/r20k14w2k14g9r3g11~x2/sett.png" alt="Brough sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g6r2g13k6w2k16r3~x2/">Sinclair Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g6r2g13k6w2k16r3~x2/"><img src="/variants/s7/g6r2g13k6w2k16r3~x2/sett.png" alt="Sinclair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brough/">Brough</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brough/"><img src="/variants/s7/r20k14w2k14g9r3g11~x2/sett.png" alt="Brough sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sinclair-hunting-2/">Sinclair Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sinclair-hunting-2/"><img src="/variants/s7/g6r2g13k6w2k16r3~x2/sett.png" alt="Sinclair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

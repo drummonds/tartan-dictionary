@@ -5,22 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
-- name: "Clan Hallingdal"
-  url: "/clan/hallingdal/"
-- name: "Hallingdal"
-  url: "/families/hallingdal/"
 - name: "Hallingdal"
   url: "/tartans/h/ha/hallingdal/"
 - name: "Hallingdal"
-  url: "/setts/r2dy1k2r13k2r2k2r2k12r2dy1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2dy1k2r13k2r2k2r2k12r2dy1g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGRKRKRKRKGRGKRKRKRKRG](/stripes/ggrkrkrkrkgrgkrkrkrkrg/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hallingdal/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGRKRKRKRKGR](/stripes/ggrkrkrkrkgr/).
 
 Part of the [Hallingdal](/tartans/h/ha/hallingdal/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1574](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1574)
 
@@ -28,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1574](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1970 — Hallingdal (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1574">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Erik Paulsen (Scottish Tartans Society Member) records that this pattern was produced around 1970 in Halligndal - a secluded valley in central Norway. He states that in Hallingdal there is a living tradition of tartan but that he can find no concrete evidence of Scottish influence in the area. Sample donated to the Scottish Tartans Society by Elizabeth Speir.</em></li>
-<li>1970 — Hallingdal (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1021">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Erik Paulsen (STS Member) records that this pattern was produced around 1970 in Hallingdal - a secluded valley in central Norway. He states that in Hallingdal there is a living tradition of tartan but that he can find no concrete evidence of Scottish influence in the area. Sample donated to the STS by Elizabeth Speir.</em></li>
+<li>1970 — Hallingdal (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1021/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Erik Paulsen (STS Member) records that this pattern was produced around 1970 in Hallingdal - a secluded valley in central Norway. He states that in Hallingdal there is a living tradition of tartan but that he can find no concrete evidence of Scottish influence in the area. Sample donated to the STS by Elizabeth Speir.</em></li>
 </ul>
 </details>
 
@@ -57,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1021
 
 ## Thread count
-G/4 DY2 R4 K24 R4 K4 R4 K4 R26 K4 DY2 R4 DY2 K4 R26 K4 R4 K4 R4 K24 R4 DY/2
+R/4 DY2 K4 R26 K4 R4 K4 R4 K24 R4 DY2 G/4
 
-One full sett is **322 threads**.
+One full sett is **164 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/4 DY2 R4 K24 R4 K4 R4 K4 R26 K4 DY2 R4 DY2 K4 R26 K4 R4 K4 R4 K24 R4 DY/2 — 322 threads; it folds to the canonical 164-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +66,7 @@ One full sett is **322 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/4 DY2 R4 K24 R4 K4 R4 K4 R26 K4 DY2 R4 DY2 K4 R26 K4 R4 K4 R4 K24 R4 DY/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 DY2 K4 R26 K4 R4 K4 R4 K24 R4 DY2 G/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/r1db1y1~x40/">Mothers Pride</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r1db1y1~x40/"><img src="/variants/s3/r1db1y1~x40/sett.png" alt="Mothers Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/mothers-pride/">Mothers Pride</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/mothers-pride/"><img src="/variants/s3/r1db1y1~x40/sett.png" alt="Mothers Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/">Wilson's No.084</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/"><img src="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/sett.png" alt="Wilson's No.084 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-084/">Wilson's No.084</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-084/"><img src="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/sett.png" alt="Wilson's No.084 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/">Pitcairn Heritage (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/"><img src="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/sett.png" alt="Pitcairn Heritage (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pitcairn-heritage/">Pitcairn Heritage</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pitcairn-heritage/"><img src="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/sett.png" alt="Pitcairn Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

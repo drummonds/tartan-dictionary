@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/">Wicklow County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/"><img src="/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/sett.png" alt="Wicklow County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wicklow-county-crest/">Wicklow County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wicklow-county-crest/"><img src="/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/sett.png" alt="Wicklow County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

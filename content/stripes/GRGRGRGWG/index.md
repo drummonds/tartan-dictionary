@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dy21r2g18r2g18r2dg8w6dy10~x2/">Red Dirt Girl</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy21r2g18r2g18r2dg8w6dy10~x2/"><img src="/variants/s9/dy21r2g18r2g18r2dg8w6dy10~x2/sett.png" alt="Red Dirt Girl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/red-dirt-girl/">Red Dirt Girl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/red-dirt-girl/"><img src="/variants/s9/dy21r2g18r2g18r2dg8w6dy10~x2/sett.png" alt="Red Dirt Girl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

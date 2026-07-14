@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/">Teylu Coleman (Cornwall)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/"><img src="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/sett.png" alt="Teylu Coleman (Cornwall) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/teylu-coleman/">Teylu Coleman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/teylu-coleman/"><img src="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/sett.png" alt="Teylu Coleman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

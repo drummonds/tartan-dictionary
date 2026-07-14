@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/brunnbauer/"
 - name: "Brunnbauer"
   url: "/families/brunnbauer/"
+aliases:
+- "/setts/w4db32w12k5r9y8r4w4/"
+- "/setts/w4lb32w12k5r9lo8r4w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbwkrgrw/">WBWKRGRW</a></nav>
 A tartan of the [Brunnbauer](/families/brunnbauer/) family.
 Its design is pattern [WBWKRGRW](/stripes/wbwkrgrw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Brunnbauer** tartan groups 2 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w4db32w12k5r9y8r4w4/">Brunnbauer</a> ★</td><td><code>W/8 DB64 W24 K10 R18 Y16 R8 W/8</code></td><td>296</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w4db32w12k5r9y8r4w4/"><img src="/variants/s8/w4db32w12k5r9y8r4w4~x2/sett.png" alt="Brunnbauer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w4lb32w12k5r9lo8r4w4/">(2015)</a></td><td><code>W/8 LB64 W24 K10 R18 LO16 R8 W/8</code></td><td>296</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w4lb32w12k5r9lo8r4w4/"><img src="/variants/s8/w4lb32w12k5r9lo8r4w4~x2/sett.png" alt="(2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w4db32w12k5r9y8r4w4~x2/">Brunnbauer</a> ★</td><td><code>W/8 DB64 W24 K10 R18 Y16 R8 W/8</code></td><td>296</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w4db32w12k5r9y8r4w4~x2/"><img src="/variants/s8/w4db32w12k5r9y8r4w4~x2/sett.png" alt="Brunnbauer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w4lb32w12k5r9lo8r4w4~x2/">(2015)</a></td><td><code>W/8 LB64 W24 K10 R18 LO16 R8 W/8</code></td><td>296</td><td>2015</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w4lb32w12k5r9lo8r4w4~x2/"><img src="/variants/s8/w4lb32w12k5r9lo8r4w4~x2/sett.png" alt="(2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="108.8" cy="159.5" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/"><circle cx="118.3" cy="140.1" r="4" fill="#3465a4"><title>Thomson</title></circle></a><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><circle cx="110.4" cy="174.1" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><circle cx="104.6" cy="169.5" r="4" fill="#3465a4"><title>St. Francis Xavier University</title></circle></a><a href="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/"><circle cx="137.8" cy="145.0" r="4" fill="#3465a4"><title>Hanna of Stirlingshire</title></circle></a><a href="/variants/s8/w5db6r18k8lb5k4db27w3~x2/"><circle cx="143.0" cy="158.6" r="4" fill="#3465a4"><title>Clinton</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="138.5" cy="176.5" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/"><circle cx="130.3" cy="143.4" r="4" fill="#3465a4"><title>Thompson Variant</title></circle></a><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><circle cx="123.4" cy="184.8" r="4" fill="#3465a4"><title>Kile</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="108.0" cy="161.0" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><circle cx="127.2" cy="159.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="109.2" cy="159.2" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/"><circle cx="118.7" cy="139.7" r="4" fill="#3465a4"><title>Thomson</title></circle></a><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><circle cx="110.7" cy="173.7" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><circle cx="104.9" cy="169.2" r="4" fill="#3465a4"><title>St. Francis Xavier University</title></circle></a><a href="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/"><circle cx="138.3" cy="144.7" r="4" fill="#3465a4"><title>Hanna of Stirlingshire</title></circle></a><a href="/variants/s8/w5db6r18k8lb5k4db27w3~x2/"><circle cx="143.4" cy="158.3" r="4" fill="#3465a4"><title>Clinton</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="138.9" cy="176.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/"><circle cx="130.7" cy="143.1" r="4" fill="#3465a4"><title>Thompson Variant</title></circle></a><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><circle cx="123.7" cy="184.5" r="4" fill="#3465a4"><title>Kile</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="108.2" cy="160.6" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><circle cx="127.6" cy="159.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

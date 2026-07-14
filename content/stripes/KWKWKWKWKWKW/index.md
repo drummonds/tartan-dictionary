@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/">Stewart Mourning Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><img src="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/sett.png" alt="Stewart Mourning Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scott-8/">Scott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scott-8/"><img src="/variants/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-mourning-2/">Stewart Mourning</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-mourning-2/"><img src="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/sett.png" alt="Stewart Mourning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

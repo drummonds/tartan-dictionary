@@ -8,10 +8,10 @@ crumbs:
 - name: "Englehart"
   url: "/tartans/e/en/englehart/"
 - name: "Englehart Commemorative Tartan"
-  url: "/setts/g53r13db2y22/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g53r13db2y22/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/en/englehart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRG](/stripes/gbrg/).
 
 Part of the [Englehart](/tartans/e/en/englehart/) tartan — the named design grouping this sett with its other cloths.

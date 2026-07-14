@@ -12,15 +12,15 @@ crumbs:
 - name: "Sinclair Dress"
   url: "/tartans/s/si/sinclair-dress-2/"
 - name: "Sinclair Dress (Dance)"
-  url: "/setts/db4r2db31k10g4w21g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4r2db31k10g4w21g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBKGWGWGKBR](/stripes/brbkgwgwgkbr/).
+provenance below. It is one weaving of the [sett](/tartans/s/si/sinclair-dress-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBKGWG](/stripes/brbkgwg/).
 
 Part of the [Sinclair Dress](/tartans/s/si/sinclair-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3794](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3794)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3794](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — Sinclair Dress (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3794">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#38409C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XB #38409C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Count apparently form the files of D.C.Dalgliesh Ltd, Selkirk in 1998. This appears to be the Sinclair (Personal) with the thin red overcheck changed to green. Possibly Dancers' Fancy instead of Clan/Family.</em></li>
-<li>1998 — Sinclair Dress (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2434">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#38409C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XB #38409C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Count apparently form the files of D.C.Dalgliesh Ltd, Selkirk in 1998. This appears to be the Sinclair (Personal) with the thin red overcheck changed to green. Possibly a Dance tartan.</em></li>
+<li>1998 — Sinclair Dress (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2434/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#38409C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XB #38409C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Count apparently form the files of D.C.Dalgliesh Ltd, Selkirk in 1998. This appears to be the Sinclair (Personal) with the thin red overcheck changed to green. Possibly a Dance tartan.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2434
 
 ## Thread count
-DB/8 R4 DB62 K20 G8 W42 G4 W42 G8 K20 DB62 R/4
+DB/8 R4 DB62 K20 G8 W42 G/4
 
-One full sett is **556 threads**.
+One full sett is **284 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/8 R4 DB62 K20 G8 W42 G4 W42 G8 K20 DB62 R/4 — 556 threads; it folds to the canonical 284-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **556 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 R4 DB62 K20 G8 W42 G4 W42 G8 K20 DB62 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 R4 DB62 K20 G8 W42 G/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y3db24r3db8k1lb16k1db3w3~x2/">MacCormick Festive</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y3db24r3db8k1lb16k1db3w3~x2/"><img src="/variants/s9/y3db24r3db8k1lb16k1db3w3~x2/sett.png" alt="MacCormick Festive sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maccormick-festive/">MacCormick Festive</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccormick-festive/"><img src="/variants/s9/y3db24r3db8k1lb16k1db3w3~x2/sett.png" alt="MacCormick Festive sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k13n8k15dp2k8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbkbk/">KBKBK</a></nav>
 Its design is pattern [KBKBK](/stripes/kbkbk/) — the page of every tartan sharing this colour sequence.
 
 The **Warwick** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Warwick** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k13n8k15dp2k8/">Warwick</a></td><td><code>K/16 DP4 K30 N16 K/26</code></td><td>142</td><td>~1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k13n8k15dp2k8/"><img src="/variants/s5/k13n8k15dp2k8~x2/sett.png" alt="Warwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k13n8k15dp2k8~x2/">Warwick</a></td><td><code>K/26 N16 K30 DP4 K/16</code></td><td>142</td><td>~1989</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k13n8k15dp2k8~x2/"><img src="/variants/s5/k13n8k15dp2k8~x2/sett.png" alt="Warwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="474.8" cy="132.4" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="430.9" cy="134.6" r="4" fill="#3465a4"><title>Believe</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="314.4" cy="210.0" r="4" fill="#3465a4"><title>Lords of Skye</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="396.0" cy="156.0" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="454.1" cy="163.0" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="302.8" cy="184.8" r="4" fill="#3465a4"><title>MacSween</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="342.1" cy="177.9" r="4" fill="#3465a4"><title>Black</title></circle></a><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><circle cx="364.8" cy="156.7" r="4" fill="#3465a4"><title>Cowe</title></circle></a><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/"><circle cx="347.7" cy="164.1" r="4" fill="#3465a4"><title>Benson</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="461.7" cy="143.6" r="4" fill="#3465a4"><title>Kalkofen</title></circle></a><circle cx="420.8" cy="235.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="476.4" cy="132.9" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="432.4" cy="135.0" r="4" fill="#3465a4"><title>Believe</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="315.4" cy="210.2" r="4" fill="#3465a4"><title>Lords of Skye</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="397.3" cy="156.3" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="455.5" cy="163.5" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="303.7" cy="185.0" r="4" fill="#3465a4"><title>MacSween</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="343.2" cy="178.1" r="4" fill="#3465a4"><title>Black</title></circle></a><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><circle cx="366.0" cy="156.9" r="4" fill="#3465a4"><title>Cowe</title></circle></a><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/"><circle cx="348.9" cy="164.3" r="4" fill="#3465a4"><title>Benson</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="463.0" cy="144.0" r="4" fill="#3465a4"><title>Kalkofen</title></circle></a><circle cx="422.0" cy="236.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

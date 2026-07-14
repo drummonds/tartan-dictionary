@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/">Holehouse, Dag (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><img src="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/sett.png" alt="Holehouse, Dag (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holehouse-dag/">Holehouse, Dag</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holehouse-dag/"><img src="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/sett.png" alt="Holehouse, Dag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Brad Majors"
   url: "/tartans/b/br/brad-majors/"
 - name: "Brad Majors"
-  url: "/setts/y3r2k7r2db7r18k2r2k2r18db7r2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3r2k7r2db7r18k2r2k2r18db7r2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brad-majors/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRBRKRKRBRK](/stripes/grkrbrkrkrbrk/).
 
 Part of the [Brad Majors](/tartans/b/br/brad-majors/) tartan — the named design grouping this sett with its other cloths.

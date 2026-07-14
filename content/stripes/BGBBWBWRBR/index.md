@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db4y3db17b6w2do6w2r24do3r4~x2/">Asman Family</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db4y3db17b6w2do6w2r24do3r4~x2/"><img src="/variants/s10/db4y3db17b6w2do6w2r24do3r4~x2/sett.png" alt="Asman Family sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/as/asman/">Asman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/as/asman/"><img src="/variants/s10/db4y3db17b6w2do6w2r24do3r4~x2/sett.png" alt="Asman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

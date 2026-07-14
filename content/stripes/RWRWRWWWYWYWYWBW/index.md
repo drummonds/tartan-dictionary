@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/lb19db4lb19ly5lb2ly19lb2ly5lb19w2lb19r5lb2r19lb2r5~x2/">McBeams Boy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/lb19db4lb19ly5lb2ly19lb2ly5lb19w2lb19r5lb2r19lb2r5~x2/"><img src="/variants/s16/lb19db4lb19ly5lb2ly19lb2ly5lb19w2lb19r5lb2r19lb2r5~x2/sett.png" alt="McBeams Boy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcbeams-boy/">McBeams Boy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcbeams-boy/"><img src="/variants/s16/lb19db4lb19ly5lb2ly19lb2ly5lb19w2lb19r5lb2r19lb2r5~x2/sett.png" alt="McBeams Boy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "McCartney"
   url: "/tartans/m/mc/mccartney-2/"
 - name: "McCartney (Day)"
-  url: "/setts/dp4dg2dp24dg8k2r2k2y2k10dp2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4dg2dp24dg8k2r2k2y2k10dp2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mccartney-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKRKGKBW](/stripes/bgbgkrkgkbw/).
 
 Part of the [McCartney](/tartans/m/mc/mccartney-2/) tartan — the named design grouping this sett with its other cloths.

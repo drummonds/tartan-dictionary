@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/lr3db28dt12dr22dg1~x2/">Diaspora (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><img src="/variants/s5/lr3db28dt12dr22dg1~x2/sett.png" alt="Diaspora (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/diaspora/">Diaspora</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/diaspora/"><img src="/variants/s5/lr3db28dt12dr22dg1~x2/sett.png" alt="Diaspora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

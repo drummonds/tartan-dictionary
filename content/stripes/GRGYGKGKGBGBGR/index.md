@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2~o2404072-ly3207098/">Eildon (1996)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2~o2404072-ly3207098/"><img src="/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2~o2404072-ly3207098/sett.png" alt="Eildon (1996) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ei/eildon-2/">Eildon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ei/eildon-2/"><img src="/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2~o2404072-ly3207098/sett.png" alt="Eildon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

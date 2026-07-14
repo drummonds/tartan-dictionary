@@ -8,10 +8,10 @@ crumbs:
 - name: "Cork Irish County"
   url: "/tartans/c/co/cork-irish-county/"
 - name: "Cork Irish County Tartan"
-  url: "/setts/g28dr12g4db20lo2db3lo2db3g7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g28dr12g4db20lo2db3lo2db3g7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cork-irish-county/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBYBYBG](/stripes/gbgbybybg/).
 
 Part of the [Cork Irish County](/tartans/c/co/cork-irish-county/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w9k2db9k1lb9w12ly2w12lb24w9lb9~x2/">Tricotisse</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w9k2db9k1lb9w12ly2w12lb24w9lb9~x2/"><img src="/variants/s11/w9k2db9k1lb9w12ly2w12lb24w9lb9~x2/sett.png" alt="Tricotisse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/tricotisse/">Tricotisse</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/tricotisse/"><img src="/variants/s11/w9k2db9k1lb9w12ly2w12lb24w9lb9~x2/sett.png" alt="Tricotisse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

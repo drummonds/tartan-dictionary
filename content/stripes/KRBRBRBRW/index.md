@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/">Rose of Kilravock (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><img src="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/sett.png" alt="Rose of Kilravock (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rose-of-kilravock/">Rose of Kilravock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rose-of-kilravock/"><img src="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/sett.png" alt="Rose of Kilravock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

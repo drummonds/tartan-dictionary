@@ -10,10 +10,10 @@ crumbs:
 - name: "Campbell, New Louden"
   url: "/tartans/c/ca/campbell-new-louden/"
 - name: "Campbell, New Louden"
-  url: "/setts/r25w2o5dg2db2o5w2g12w2b2o2r5k2r5o2b2w2o9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r25w2o5dg2db2o5w2g12w2b2o2r5k2r5o2b2w2o9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-new-louden/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBRRKRRBWGWRBGRWR](/stripes/rwbrrkrrbwgwrbgrwr/).
 
 Part of the [Campbell, New Louden](/tartans/c/ca/campbell-new-louden/) tartan — the named design grouping this sett with its other cloths.

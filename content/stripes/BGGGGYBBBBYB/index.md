@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/">State Seal of Montana (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/"><img src="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/sett.png" alt="State Seal of Montana (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-montana/">State Seal of Montana</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-montana/"><img src="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/sett.png" alt="State Seal of Montana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

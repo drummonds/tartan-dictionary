@@ -12,10 +12,10 @@ crumbs:
 - name: "Vance"
   url: "/tartans/v/va/vance/"
 - name: "Vance (Family Association)"
-  url: "/setts/r4db24w2g13db2k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4db24w2g13db2k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/va/vance/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGWBR](/stripes/kbgwbr/).
 
 Part of the [Vance](/tartans/v/va/vance/) tartan — the named design grouping this sett with its other cloths.

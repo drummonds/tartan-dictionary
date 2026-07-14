@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db3g11lb2db11b6g3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgwbbg/">BGWBBG</a></nav>
 Its design is pattern [BGWBBG](/stripes/bgwbbg/) — the page of every tartan sharing this colour sequence.
 
 The **Unnamed, No 29** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unnamed, No 29** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db3g11lb2db11b6g3/">Unnamed, No 29</a></td><td><code>G/6 B12 DB22 LB4 G22 DB/6</code></td><td>132</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3g11lb2db11b6g3/"><img src="/variants/s6/db3g11lb2db11b6g3~x2/sett.png" alt="Unnamed, No 29 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db3g11lb2db11b6g3~x2/">Unnamed, No 29</a></td><td><code>DB/6 G22 LB4 DB22 B12 G/6</code></td><td>132</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><img src="/variants/s6/db3g11lb2db11b6g3~x2/sett.png" alt="Unnamed, No 29 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/"><circle cx="230.3" cy="295.6" r="4" fill="#3465a4"><title>Unidentified No 29</title></circle></a><a href="/variants/s5/db8g2db8g15lb2~x4/"><circle cx="322.8" cy="283.9" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.8" cy="267.5" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="344.1" cy="269.8" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="290.5" cy="248.2" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="339.1" cy="250.3" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="183.9" cy="215.7" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress 1990</title></circle></a><a href="/variants/s7/g2db15n5g2db2g7w2~x4/"><circle cx="279.4" cy="239.0" r="4" fill="#3465a4"><title>Chambers Bay</title></circle></a><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><circle cx="282.7" cy="212.5" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/variants/s7/r1dy7g7db7g7db7r1~x8/"><circle cx="197.0" cy="271.2" r="4" fill="#3465a4"><title>Tennant</title></circle></a><circle cx="228.3" cy="293.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/"><circle cx="230.3" cy="295.6" r="4" fill="#3465a4"><title>Unidentified No 29</title></circle></a><a href="/variants/s5/db8g2db8g15lb2~x4/"><circle cx="323.1" cy="284.1" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.7" cy="267.4" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="344.6" cy="270.0" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="290.8" cy="248.3" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="339.4" cy="250.4" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="184.0" cy="215.5" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress 1990</title></circle></a><a href="/variants/s7/g2db15n5g2db2g7w2~x4/"><circle cx="279.7" cy="239.0" r="4" fill="#3465a4"><title>Chambers Bay</title></circle></a><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><circle cx="282.9" cy="212.4" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/variants/s7/r1dy7g7db7g7db7r1~x8/"><circle cx="197.1" cy="271.1" r="4" fill="#3465a4"><title>Tennant</title></circle></a><circle cx="228.3" cy="292.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

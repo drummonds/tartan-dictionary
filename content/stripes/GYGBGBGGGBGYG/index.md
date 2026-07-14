@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/">U.S. Seabees (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/"><img src="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/sett.png" alt="U.S. Seabees (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/u/u-s-seabees/">U.S. Seabees</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-seabees/"><img src="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2~db1406275/sett.png" alt="U.S. Seabees sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

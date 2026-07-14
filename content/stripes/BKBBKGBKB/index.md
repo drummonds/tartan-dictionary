@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/">Montrose (Macnaughton variation)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><img src="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/sett.png" alt="Montrose (Macnaughton variation) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/montrose-2/">Montrose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montrose-2/"><img src="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

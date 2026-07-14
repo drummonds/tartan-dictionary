@@ -28,8 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/k10r3k1~x4/">Red Watch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k10r3k1~x4/"><img src="/variants/s3/k10r3k1~x4/sett.png" alt="Red Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/lendrum-or-macfarlane/">Lendrum or MacFarlane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/lendrum-or-macfarlane/"><img src="/variants/s3/k67r32k6/sett.png" alt="Lendrum or MacFarlane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macfarlane-red/">MacFarlane Red &amp;</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macfarlane-red/"><img src="/variants/s3/k30r17k3~x4/sett.png" alt="MacFarlane Red &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/red-watch/">Red Watch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/red-watch/"><img src="/variants/s3/k10r3k1~x4/sett.png" alt="Red Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

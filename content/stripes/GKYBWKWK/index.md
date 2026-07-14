@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k54lb6k6lb6n20lo40k6y3/">Clyde Valley HOG</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k54lb6k6lb6n20lo40k6y3/"><img src="/variants/s8/k54lb6k6lb6n20lo40k6y3/sett.png" alt="Clyde Valley HOG sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clyde-valley-hog/">Clyde Valley HOG</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clyde-valley-hog/"><img src="/variants/s8/k54lb6k6lb6n20lo40k6y3/sett.png" alt="Clyde Valley HOG sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

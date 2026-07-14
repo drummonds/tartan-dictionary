@@ -8,10 +8,10 @@ crumbs:
 - name: "Tweedsmuir Dress"
   url: "/tartans/t/tw/tweedsmuir-dress/"
 - name: "Tweedsmuir Dress (Dance)"
-  url: "/setts/g1dg15dp1dg1dp1dg2dp6w15lb1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g1dg15dp1dg1dp1dg2dp6w15lb1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tw/tweedsmuir-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGBWWW](/stripes/ggbgbgbwww/).
 
 Part of the [Tweedsmuir Dress](/tartans/t/tw/tweedsmuir-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4170](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>undated — Tweedsmuir Dress (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4170">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#406054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GN #406054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>DC Dalgliesh calls this Dress Tweedsmuir but is in fact the Lindsay sett.</em></li>
-<li>Unknown — Tweedsmuir Dress (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6568">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#406054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GN #406054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>D C Dalgliesh calls this Dress Tweedsmuir but is in fact the Lindsay sett.</em></li>
+<li>Unknown — Tweedsmuir Dress (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6568/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#406054;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GN #406054"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>D C Dalgliesh calls this Dress Tweedsmuir but is in fact the Lindsay sett.</em></li>
 </ul>
 </details>
 

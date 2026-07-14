@@ -12,10 +12,10 @@ crumbs:
 - name: "Strathclyde"
   url: "/tartans/s/st/strathclyde-2/"
 - name: "Strathclyde"
-  url: "/setts/k4db2k15w10b15db2b4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4db2k15w10b15db2b4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathclyde-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWKBK](/stripes/bbbwkbk/).
 
 Part of the [Strathclyde](/tartans/s/st/strathclyde-2/) tartan — the named design grouping this sett with its other cloths.

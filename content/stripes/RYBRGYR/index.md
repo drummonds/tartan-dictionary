@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/">Cercle de Fermieres de St-Elie . . .</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><img src="/variants/s7/r2ly1t8r1g7ly1r2~x6/sett.png" alt="Cercle de Fermieres de St-Elie . . . sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/cercle-de-fermieres-de-st-elie/">Cercle de Fermieres de St-Elie . . .</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/cercle-de-fermieres-de-st-elie/"><img src="/variants/s7/r2ly1t8r1g7ly1r2~x6/sett.png" alt="Cercle de Fermieres de St-Elie . . . sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

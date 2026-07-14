@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/">Ferrari (Coldrerio)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/"><img src="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/sett.png" alt="Ferrari (Coldrerio) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferrari/">Ferrari</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferrari/"><img src="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/sett.png" alt="Ferrari sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

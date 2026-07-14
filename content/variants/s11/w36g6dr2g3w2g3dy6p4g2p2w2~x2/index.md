@@ -12,15 +12,15 @@ crumbs:
 - name: "Strathyre Dress"
   url: "/tartans/s/st/strathyre-dress-2/"
 - name: "Strathyre Dress District Tartan"
-  url: "/setts/w36g6dr2g3w2g3dy6p4g2p2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w36g6dr2g3w2g3dy6p4g2p2w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GBGWGGBGBWBGBGGWGBGW](/stripes/gbgwggbgbwbgbggwgbgw/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathyre-dress-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBGBGGWGBGW](/stripes/wbgbggwgbgw/).
 
 Part of the [Strathyre Dress](/tartans/s/st/strathyre-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3227](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3227)
 
@@ -45,9 +45,11 @@ Earliest known date: 1996 From Dalgleish May, 1996. Stewart Modern. Could be Dan
 </details>
 
 ## Thread count
-W/72 G12 DR4 G6 W4 G6 DY12 P8 G4 P4 W4 P4 G4 P8 DY12 G6 W4 G6 DR4 G/12
+W/72 G12 DR4 G6 W4 G6 DY12 P8 G4 P4 W/4
 
-One full sett is **308 threads**.
+One full sett is **196 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/72 G12 DR4 G6 W4 G6 DY12 P8 G4 P4 W4 P4 G4 P8 DY12 G6 W4 G6 DR4 G/12 — 308 threads; it folds to the canonical 196-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **308 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/72 G12 DR4 G6 W4 G6 DY12 P8 G4 P4 W4 P4 G4 P8 DY12 G6 W4 G6 DR4 G/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/72 G12 DR4 G6 W4 G6 DY12 P8 G4 P4 W/4 tartan" width="880" height="480">
 
 ## Compared to the master
 

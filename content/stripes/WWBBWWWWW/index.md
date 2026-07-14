@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb5w3lt7lb5lt27b8db43w3lt3~lb3500000-w4000000-lt3104245-b2208266-db1108266/">Queensferry High School: Ferry Fling</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb5w3lt7lb5lt27b8db43w3lt3~lb3500000-w4000000-lt3104245-b2208266-db1108266/"><img src="/variants/s9/lb5w3lt7lb5lt27b8db43w3lt3~lb3500000-w4000000-lt3104245-b2208266-db1108266/sett.png" alt="Queensferry High School: Ferry Fling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/queensferry-high-school-ferry-fling/">Queensferry High School: Ferry Fling</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/queensferry-high-school-ferry-fling/"><img src="/variants/s9/lb5w3lt7lb5lt27b8db43w3lt3~lb3500000-w4000000-lt3104245-b2208266-db1108266/sett.png" alt="Queensferry High School: Ferry Fling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/">Dublin County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/"><img src="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/sett.png" alt="Dublin County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dublin-county-crest-range/">Dublin County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dublin-county-crest-range/"><img src="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/sett.png" alt="Dublin County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

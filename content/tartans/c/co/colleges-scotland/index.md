@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/t1k50r1k2n4db7w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkrkbbw/">BKRKBBW</a></nav>
 Its design is pattern [BKRKBBW](/stripes/bkrkbbw/) — the page of every tartan sharing this colour sequence.
 
 The **Colleges Scotland** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Colleges Scotland** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t1k50r1k2n4db7w1/">Colleges Scotland</a></td><td><code>T/2 K100 R2 K4 N8 DB14 W/2</code></td><td>260</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t1k50r1k2n4db7w1/"><img src="/variants/s7/t1k50r1k2n4db7w1~x2/sett.png" alt="Colleges Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/t1k50r1k2n4db7w1~x2/">Colleges Scotland</a></td><td><code>T/2 K100 R2 K4 N8 DB14 W/2</code></td><td>260</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><img src="/variants/s7/t1k50r1k2n4db7w1~x2/sett.png" alt="Colleges Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/"><circle cx="418.0" cy="97.5" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="497.4" cy="61.1" r="4" fill="#3465a4"><title>Whitaker</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="482.4" cy="87.5" r="4" fill="#3465a4"><title>London Fog</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="506.9" cy="54.4" r="4" fill="#3465a4"><title>Perratt</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="391.7" cy="48.9" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="431.0" cy="65.9" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="544.0" cy="69.7" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s8/k83y2db4r2k8g5r4w3~x2/"><circle cx="484.5" cy="17.0" r="4" fill="#3465a4"><title>Spirit of Lanarkshire</title></circle></a><a href="/variants/s8/db8r1k6r1dy8r1k45dy1~x2/"><circle cx="484.3" cy="76.2" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="402.7" cy="42.1" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><circle cx="483.6" cy="28.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/"><circle cx="419.4" cy="97.8" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="499.1" cy="61.5" r="4" fill="#3465a4"><title>Whitaker</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="484.1" cy="87.9" r="4" fill="#3465a4"><title>London Fog</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="508.6" cy="54.8" r="4" fill="#3465a4"><title>Perratt</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="393.1" cy="49.1" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="432.5" cy="66.2" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="545.8" cy="70.3" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s8/k83y2db4r2k8g5r4w3~x2/"><circle cx="486.3" cy="17.4" r="4" fill="#3465a4"><title>Spirit of Lanarkshire</title></circle></a><a href="/variants/s8/db8r1k6r1dy8r1k45dy1~x2/"><circle cx="485.8" cy="76.6" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="404.1" cy="42.3" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><circle cx="485.3" cy="28.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

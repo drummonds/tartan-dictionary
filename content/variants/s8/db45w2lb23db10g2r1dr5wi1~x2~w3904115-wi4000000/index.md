@@ -8,10 +8,10 @@ crumbs:
 - name: "Hier Family, Kilcreggan"
   url: "/tartans/h/hi/hier-family-kilcreggan/"
 - name: "Hier Family, Kilcreggan (Personal)"
-  url: "/setts/db45w2lb23db10g2r1dr5wi1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db45w2lb23db10g2r1dr5wi1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/hier-family-kilcreggan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWBGRBW](/stripes/bwwbgrbw/).
 
 Part of the [Hier Family, Kilcreggan](/tartans/h/hi/hier-family-kilcreggan/) tartan — the named design grouping this sett with its other cloths.

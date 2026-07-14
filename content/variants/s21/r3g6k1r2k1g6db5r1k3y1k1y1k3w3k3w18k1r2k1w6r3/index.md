@@ -10,10 +10,10 @@ crumbs:
 - name: "Anderson P"
   url: "/tartans/a/an/anderson-p/"
 - name: "Anderson P"
-  url: "/setts/r3g6k1r2k1g6db5r1k3y1k1y1k3w3k3w18k1r2k1w6r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3g6k1r2k1g6db5r1k3y1k1y1k3w3k3w18k1r2k1w6r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/anderson-p/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKRKGBRKGKGKWKWKRKWR](/stripes/rgkrkgbrkgkgkwkwkrkwr/).
 
 Part of the [Anderson P](/tartans/a/an/anderson-p/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/">Idaho Centennial Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/"><img src="/variants/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/sett.png" alt="Idaho Centennial Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/id/idaho/">Idaho</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/id/idaho/"><img src="/variants/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/sett.png" alt="Idaho sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

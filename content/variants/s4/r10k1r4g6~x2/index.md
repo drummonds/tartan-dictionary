@@ -12,15 +12,15 @@ crumbs:
 - name: "Macan, of Lurgyvallan"
   url: "/tartans/m/ma/macan-of-lurgyvallan-3/"
 - name: "Macan, of Lurgyvallan (Hose)"
-  url: "/setts/r10k1r4g6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r10k1r4g6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRGRKR](/stripes/krgrkr/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macan-of-lurgyvallan-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRKR](/stripes/grkr/).
 
 Part of the [Macan, of Lurgyvallan](/tartans/m/ma/macan-of-lurgyvallan-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
@@ -41,9 +41,11 @@ Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http:/
 </details>
 
 ## Thread count
-R/20 K2 R8 G12 R8 K/2
+R/20 K2 R8 G/12
 
-One full sett is **82 threads**.
+One full sett is **52 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/20 K2 R8 G12 R8 K/2 — 82 threads; it folds to the canonical 52-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -52,7 +54,7 @@ One full sett is **82 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/20 K2 R8 G12 R8 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/20 K2 R8 G/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

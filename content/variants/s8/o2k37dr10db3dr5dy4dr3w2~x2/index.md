@@ -8,10 +8,10 @@ crumbs:
 - name: "Westin Kierland"
   url: "/tartans/w/we/westin-kierland/"
 - name: "Westin Kierland"
-  url: "/setts/o2k37dr10db3dr5dy4dr3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o2k37dr10db3dr5dy4dr3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/westin-kierland/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBBBGBW](/stripes/rkbbbgbw/).
 
 Part of the [Westin Kierland](/tartans/w/we/westin-kierland/) tartan — the named design grouping this sett with its other cloths.

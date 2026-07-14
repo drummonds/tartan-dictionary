@@ -10,10 +10,10 @@ crumbs:
 - name: "Lochcarron Camel"
   url: "/tartans/l/lo/lochcarron-camel/"
 - name: "Lochcarron Camel"
-  url: "/setts/ly12w1k2ly1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly12w1k2ly1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lochcarron-camel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYKWY](/stripes/rykwy/).
 
 Part of the [Lochcarron Camel](/tartans/l/lo/lochcarron-camel/) tartan — the named design grouping this sett with its other cloths.

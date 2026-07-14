@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k27dg10r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgr/">KGR</a></nav>
 Its design is pattern [KGR](/stripes/kgr/) — the page of every tartan sharing this colour sequence.
 
 The **The Caledonian Hotel** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **The Caledonian Hotel** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k27dg10r2/">The Caledonian Hotel</a></td><td><code>K/108 DG40 R/8</code></td><td>196</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k27dg10r2/"><img src="/variants/s3/k27dg10r2~x4/sett.png" alt="The Caledonian Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/k27dg10r2~x4/">The Caledonian Hotel</a></td><td><code>K/108 DG40 R/8</code></td><td>196</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/k27dg10r2~x4/"><img src="/variants/s3/k27dg10r2~x4/sett.png" alt="The Caledonian Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/g9k18r2~x4/"><circle cx="314.3" cy="228.1" r="4" fill="#3465a4"><title>Cowie, Justine</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="477.7" cy="146.4" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="397.9" cy="183.0" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s3/k11db2r1~x8/"><circle cx="495.3" cy="199.4" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s3/k69r14y5~x2/"><circle cx="468.9" cy="175.5" r="4" fill="#3465a4"><title>Batson</title></circle></a><a href="/variants/s4/g14k80g14y5~x2/"><circle cx="413.4" cy="164.4" r="4" fill="#3465a4"><title>Westgate</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="450.3" cy="152.9" r="4" fill="#3465a4"><title>Rogues , The</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="343.0" cy="187.1" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s4/k61dg10g20w4~x2~dg1806142-g2408144/"><circle cx="321.2" cy="165.2" r="4" fill="#3465a4"><title>Wesley Owen 2010</title></circle></a><a href="/variants/s3/k10r3k1~x4/"><circle cx="471.0" cy="205.1" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><circle cx="439.3" cy="218.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/g9k18r2~x4/"><circle cx="315.2" cy="228.4" r="4" fill="#3465a4"><title>Cowie, Justine</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="479.2" cy="146.9" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="398.9" cy="183.2" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s3/k11db2r1~x8/"><circle cx="496.8" cy="199.9" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s3/k69r14y5~x2/"><circle cx="470.3" cy="176.0" r="4" fill="#3465a4"><title>Batson</title></circle></a><a href="/variants/s4/g14k80g14y5~x2/"><circle cx="414.6" cy="164.8" r="4" fill="#3465a4"><title>Westgate</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="451.7" cy="153.3" r="4" fill="#3465a4"><title>Rogues , The</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="343.8" cy="187.3" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s4/k61dg10g20w4~x2~dg1806142-g2408144/"><circle cx="322.2" cy="165.4" r="4" fill="#3465a4"><title>Wesley Owen 2010</title></circle></a><a href="/variants/s3/k10r3k1~x4/"><circle cx="472.4" cy="205.6" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><circle cx="440.5" cy="218.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

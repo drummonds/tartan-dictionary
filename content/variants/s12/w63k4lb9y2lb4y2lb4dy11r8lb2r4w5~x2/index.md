@@ -10,17 +10,17 @@ crumbs:
 - name: "Seller"
   url: "/families/seller/"
 - name: "Seller Dress"
-  url: "/tartans/s/se/seller-dress-2/"
+  url: "/tartans/s/se/seller-dress/"
 - name: "Seller, Reproduction Dress"
-  url: "/setts/w63k4lb9y2lb4y2lb4dy11r8lb2r4w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w63k4lb9y2lb4y2lb4dy11r8lb2r4w5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWGWGWGRWRWRWRGWGWGWKW](/stripes/kwgwgwgrwrwrwrgwgwgwkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/se/seller-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WKWGWGWGRWRW](/stripes/wkwgwgwgrwrw/).
 
-Part of the [Seller Dress](/tartans/s/se/seller-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Seller Dress](/tartans/s/se/seller-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3763](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3763)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3763](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Seller, Reproduction Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3763">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>The design is based on the Sillers connection with the Isle of Arran and the Clan Stewart 1978. D.C Dalgliesh a weaving firm in Selkirk.</em></li>
-<li>pre 2002 — Seller Dress (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1811">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Weaver said to be D.C. Dalgliesh of Selkirk.</em></li>
+<li>pre 2002 — Seller Dress (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1811/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Weaver said to be D.C. Dalgliesh of Selkirk.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1811
 
 ## Thread count
-W/126 K8 LB18 Y4 LB8 Y4 LB8 DY22 R16 LB4 R8 W10 R8 LB4 R16 DY22 LB8 Y4 LB8 Y4 LB18 K/8
+W/126 K8 LB18 Y4 LB8 Y4 LB8 DY22 R16 LB4 R8 W/10
 
-One full sett is **538 threads**.
+One full sett is **336 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/126 K8 LB18 Y4 LB8 Y4 LB8 DY22 R16 LB4 R8 W10 R8 LB4 R16 DY22 LB8 Y4 LB8 Y4 LB18 K/8 — 538 threads; it folds to the canonical 336-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **538 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/126 K8 LB18 Y4 LB8 Y4 LB8 DY22 R16 LB4 R8 W10 R8 LB4 R16 DY22 LB8 Y4 LB8 Y4 LB18 K/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/126 K8 LB18 Y4 LB8 Y4 LB8 DY22 R16 LB4 R8 W/10 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

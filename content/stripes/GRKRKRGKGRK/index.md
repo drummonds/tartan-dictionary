@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/">Army Cadet Force (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><img src="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/sett.png" alt="Army Cadet Force (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/army-cadet-force/">Army Cadet Force</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/army-cadet-force/"><img src="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/sett.png" alt="Army Cadet Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Grey Watch"
   url: "/tartans/g/gr/grey-watch/"
 - name: "Grey Watch Trade Tartan"
-  url: "/setts/n25k4n4k4n4w20k5w20k20n4k4n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n25k4n4k4n4w20k5w20k20n4k4n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grey-watch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWKWKBKB](/stripes/bkbkbwkwkbkb/).
 
 Part of the [Grey Watch](/tartans/g/gr/grey-watch/) tartan — the named design grouping this sett with its other cloths.

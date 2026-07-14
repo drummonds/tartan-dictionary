@@ -12,10 +12,10 @@ crumbs:
 - name: "Quinn"
   url: "/tartans/q/qu/quinn/"
 - name: "Quinn"
-  url: "/setts/r1b8k4g6k4b8y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1b8k4g6k4b8y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/q/qu/quinn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGKBR](/stripes/gbkgkbr/).
 
 Part of the [Quinn](/tartans/q/qu/quinn/) tartan — the named design grouping this sett with its other cloths.

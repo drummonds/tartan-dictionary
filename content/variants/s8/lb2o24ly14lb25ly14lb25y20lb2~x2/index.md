@@ -8,10 +8,10 @@ crumbs:
 - name: "Fraoch's Grian"
   url: "/tartans/f/fr/fraoch-s-grian/"
 - name: "Froach's Grian"
-  url: "/setts/lb2o24ly14lb25ly14lb25y20lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb2o24ly14lb25ly14lb25y20lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraoch-s-grian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWYWYRW](/stripes/wgwywyrw/).
 
 Part of the [Fraoch's Grian](/tartans/f/fr/fraoch-s-grian/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1282](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2007 — Froach's Grian (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1282">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#94ACC4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #94ACC4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A fashion tartan designed by Joan MacLeod for her business, The Tartan Company in Portree, Isle of Skye. Different warp & weft.</em></li>
-<li>pre 2007 — Fraoch's Grian (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7095">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#94ACC4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #94ACC4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A fashion tartan designed by Joan MacLeod for her business, The Tartan Company in Portree, Isle of Skye. Different warp & weft. Pronounced 'Frooks Gree Han.'</em></li>
+<li>pre 2007 — Fraoch's Grian (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7095/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#94ACC4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #94ACC4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C68A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MP #9C68A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A fashion tartan designed by Joan MacLeod for her business, The Tartan Company in Portree, Isle of Skye. Different warp & weft. Pronounced 'Frooks Gree Han.'</em></li>
 </ul>
 </details>
 

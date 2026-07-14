@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/">Westmeath County, Crest Range</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/"><img src="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/sett.png" alt="Westmeath County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westmeath-county-crest-range/">Westmeath County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westmeath-county-crest-range/"><img src="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/sett.png" alt="Westmeath County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

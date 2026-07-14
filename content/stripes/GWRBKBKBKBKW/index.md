@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/y4w2r19n8k1n3k2n2k3n2k26lb4~x2/">Aberdeen Forever</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/y4w2r19n8k1n3k2n2k3n2k26lb4~x2/"><img src="/variants/s12/y4w2r19n8k1n3k2n2k3n2k26lb4~x2/sett.png" alt="Aberdeen Forever sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/">Aberdeen Forever (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/"><img src="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/sett.png" alt="Aberdeen Forever (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberdeen-forever/">Aberdeen Forever</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen-forever/"><img src="/variants/s12/y4w2r19n8k1n3k2n2k3n2k26lb4~x2/sett.png" alt="Aberdeen Forever sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

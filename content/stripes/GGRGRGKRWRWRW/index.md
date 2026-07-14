@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/">Carnegie Dress Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/"><img src="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/sett.png" alt="Carnegie Dress Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/">Valley of the Green #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/"><img src="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/sett.png" alt="Valley of the Green #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carnegie-dress/">Carnegie Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carnegie-dress/"><img src="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/sett.png" alt="Carnegie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/valley-of-the/">Valley of the</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/valley-of-the/"><img src="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/sett.png" alt="Valley of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

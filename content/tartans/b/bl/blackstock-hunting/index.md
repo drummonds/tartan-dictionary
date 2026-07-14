@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/blackstock/"
 - name: "Blackstock"
   url: "/families/blackstock/"
+aliases:
+- "/setts/k2r7k6g12y1g1k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgggkrk/">KGGGKRK</a></nav>
 A tartan of the [Blackstock](/families/blackstock/) family.
 Its design is pattern [KGGGKRK](/stripes/kgggkrk/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **Blackstock Hunting** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k2r7k6g12y1g1k2/">Blackstock Hunting</a></td><td><code>K/8 R28 K24 G48 Y4 G4 K/8</code></td><td>232</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2r7k6g12y1g1k2/"><img src="/variants/s7/k2r7k6g12y1g1k2~x4/sett.png" alt="Blackstock Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k2r7k6g12y1g1k2~x4/">Blackstock Hunting</a></td><td><code>K/8 R28 K24 G48 Y4 G4 K/8</code></td><td>232</td><td>1982</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k2r7k6g12y1g1k2~x4/"><img src="/variants/s7/k2r7k6g12y1g1k2~x4/sett.png" alt="Blackstock Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -39,6 +42,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="160.2" cy="142.2" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3/"><circle cx="178.3" cy="198.4" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/k4r5k2y21g8k2~x2/"><circle cx="233.2" cy="178.9" r="4" fill="#3465a4"><title>MacDuck</title></circle></a><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/"><circle cx="211.9" cy="158.2" r="4" fill="#3465a4"><title>Brunton</title></circle></a><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="189.5" cy="192.8" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="149.7" cy="146.7" r="4" fill="#3465a4"><title>Garvock</title></circle></a><a href="/variants/s6/k3ly18g6dr17k31g3~x2/"><circle cx="168.4" cy="182.9" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/"><circle cx="199.4" cy="150.2" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s7/w2k1g16k12r12k1w2~x2/"><circle cx="151.5" cy="152.2" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/variants/s6/r4k2lb10k10y28k3~x2/"><circle cx="222.7" cy="158.0" r="4" fill="#3465a4"><title>Thomson Camel</title></circle></a><circle cx="179.8" cy="165.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="160.7" cy="142.0" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3/"><circle cx="178.7" cy="198.3" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/k4r5k2y21g8k2~x2/"><circle cx="233.7" cy="178.8" r="4" fill="#3465a4"><title>MacDuck</title></circle></a><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/"><circle cx="212.6" cy="158.2" r="4" fill="#3465a4"><title>Brunton</title></circle></a><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="189.9" cy="192.7" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="150.1" cy="146.5" r="4" fill="#3465a4"><title>Garvock</title></circle></a><a href="/variants/s6/k3ly18g6dr17k31g3~x2/"><circle cx="168.9" cy="182.7" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/"><circle cx="199.9" cy="150.2" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s7/w2k1g16k12r12k1w2~x2/"><circle cx="152.0" cy="152.1" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/variants/s6/r4k2lb10k10y28k3~x2/"><circle cx="223.4" cy="157.9" r="4" fill="#3465a4"><title>Thomson Camel</title></circle></a><circle cx="180.4" cy="165.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

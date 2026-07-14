@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/">Bear Baars (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/"><img src="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/sett.png" alt="Bear Baars (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bear-baars/">Bear Baars</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bear-baars/"><img src="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/sett.png" alt="Bear Baars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

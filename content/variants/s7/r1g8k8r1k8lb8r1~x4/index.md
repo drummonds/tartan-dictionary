@@ -8,10 +8,10 @@ crumbs:
 - name: "Triad Highland Games"
   url: "/tartans/t/tr/triad-highland-games/"
 - name: "Triad Highland Games Proposed"
-  url: "/setts/r1g8k8r1k8lb8r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1g8k8r1k8lb8r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tr/triad-highland-games/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKRKWR](/stripes/rgkrkwr/).
 
 Part of the [Triad Highland Games](/tartans/t/tr/triad-highland-games/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4149](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/2003 — Triad Highland Games Proposed (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4149">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>Proposed tartan for Triad Highland Games, Inc. These Games are held in August originally in Greensboro North Carolina. Organised through Great Scot International.</em></li>
-<li>2003 Feb — Triad Highland Games (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6527">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>For the Triad Highland Games, North Carolina. www.triadhighlandgames.org . Twinned with the Waipu Highland Games in Waipu, New Zealand!</em></li>
+<li>2003 Feb — Triad Highland Games (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6527/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E87878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CLR #E87878"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>For the Triad Highland Games, North Carolina. www.triadhighlandgames.org . Twinned with the Waipu Highland Games in Waipu, New Zealand!</em></li>
 </ul>
 </details>
 

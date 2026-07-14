@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y5g16k16db16k2db2~x2/">Hudson Valley Reg. Police P &amp; D (Cor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y5g16k16db16k2db2~x2/"><img src="/variants/s6/y5g16k16db16k2db2~x2/sett.png" alt="Hudson Valley Reg. Police P &amp; D (Cor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/hudson-valley-reg-police-p-d-cor/">Hudson Valley Reg. Police P &amp; D (Cor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/hudson-valley-reg-police-p-d-cor/"><img src="/variants/s6/y5g16k16db16k2db2~x2/sett.png" alt="Hudson Valley Reg. Police P &amp; D (Cor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

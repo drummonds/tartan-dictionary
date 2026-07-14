@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lo17y17o17g26db5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgrgy/">BGRGY</a></nav>
 Its design is pattern [BGRGY](/stripes/bgrgy/) — the page of every tartan sharing this colour sequence.
 
 The **Wild Mustard Dreams** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Wild Mustard Dreams** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lo17y17o17g26db5/">Wild Mustard Dreams</a></td><td><code>LO/34 Y34 O34 G52 DB/10</code></td><td>284</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lo17y17o17g26db5/"><img src="/variants/s5/lo17y17o17g26db5~x2/sett.png" alt="Wild Mustard Dreams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/lo17y17o17g26db5~x2/">Wild Mustard Dreams</a></td><td><code>LO/34 Y34 O34 G52 DB/10</code></td><td>284</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/lo17y17o17g26db5~x2/"><img src="/variants/s5/lo17y17o17g26db5~x2/sett.png" alt="Wild Mustard Dreams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lo17ly17lo17g26db5~x2/"><circle cx="227.4" cy="338.8" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><a href="/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/"><circle cx="161.1" cy="247.6" r="4" fill="#3465a4"><title>YPO Dress</title></circle></a><a href="/variants/s7/n5g4w1g4o4dg4y1~x4/"><circle cx="150.4" cy="300.1" r="4" fill="#3465a4"><title>Devon Original</title></circle></a><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/"><circle cx="155.3" cy="366.0" r="4" fill="#3465a4"><title>Dunans Rising</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="303.4" cy="307.6" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/variants/s5/o2g10dy15o10g2~x4/"><circle cx="291.5" cy="299.0" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.2" cy="309.6" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="225.6" cy="236.2" r="4" fill="#3465a4"><title>Samye</title></circle></a><circle cx="166.3" cy="329.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/lo17ly17lo17g26db5~x2/"><circle cx="227.1" cy="338.7" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><a href="/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/"><circle cx="160.8" cy="247.3" r="4" fill="#3465a4"><title>YPO Dress</title></circle></a><a href="/variants/s7/n5g4w1g4o4dg4y1~x4/"><circle cx="150.0" cy="299.9" r="4" fill="#3465a4"><title>Devon Original</title></circle></a><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/"><circle cx="154.9" cy="366.0" r="4" fill="#3465a4"><title>Dunans Rising</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="303.4" cy="307.7" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/variants/s5/o2g10dy15o10g2~x4/"><circle cx="291.6" cy="299.1" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.0" cy="309.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="225.7" cy="236.1" r="4" fill="#3465a4"><title>Samye</title></circle></a><circle cx="165.8" cy="329.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

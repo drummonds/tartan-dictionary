@@ -8,10 +8,10 @@ crumbs:
 - name: "Purple Thistle"
   url: "/tartans/p/pu/purple-thistle/"
 - name: "Purple Thistle"
-  url: "/setts/dp3o15n3o3r1o1r1o1r1o1r1o1r1o1r12w15dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3o15n3o3r1o1r1o1r1o1r1o1r1o1r12w15dp3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pu/purple-thistle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRRRRRRRRRRRRWB](/stripes/brbrrrrrrrrrrrrwb/).
 
 Part of the [Purple Thistle](/tartans/p/pu/purple-thistle/) tartan — the named design grouping this sett with its other cloths.

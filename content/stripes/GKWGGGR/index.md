@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r16y2dy7y2lb24k2g2~x2/">Traill (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r16y2dy7y2lb24k2g2~x2/"><img src="/variants/s7/r16y2dy7y2lb24k2g2~x2/sett.png" alt="Traill (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/traill-2/">Traill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/traill-2/"><img src="/variants/s7/r16y2dy7y2lb24k2g2~x2/sett.png" alt="Traill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

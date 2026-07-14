@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/">Mortell (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><img src="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/sett.png" alt="Mortell (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/mortell/">Mortell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/mortell/"><img src="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/sett.png" alt="Mortell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

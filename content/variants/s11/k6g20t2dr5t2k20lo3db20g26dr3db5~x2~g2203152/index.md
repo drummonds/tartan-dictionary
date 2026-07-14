@@ -12,15 +12,15 @@ crumbs:
 - name: "Stephenson"
   url: "/tartans/s/st/stephenson/"
 - name: "Stephenson"
-  url: "/setts/k6g20t2dr5t2k20lo3db20g26dr3db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6g20t2dr5t2k20lo3db20g26dr3db5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBGBYKBBBGKGBBBKYBGB](/stripes/bbgbykbbbgkgbbbkybgb/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/stephenson/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBGBYKBBBGK](/stripes/bbgbykbbbgk/).
 
 Part of the [Stephenson](/tartans/s/st/stephenson/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3917](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3917)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 517
 
 ## Thread count
-DB/10 DR6 G52 DB40 LO6 K40 T4 DR10 T4 G40 K12 G40 T4 DR10 T4 K40 LO6 DB40 G52 DR/6
+K/12 G40 T4 DR10 T4 K40 LO6 DB40 G52 DR6 DB/10
 
-One full sett is **836 threads**.
+One full sett is **426 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/10 DR6 G52 DB40 LO6 K40 T4 DR10 T4 G40 K12 G40 T4 DR10 T4 K40 LO6 DB40 G52 DR/6 — 836 threads; it folds to the canonical 426-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **836 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/10 DR6 G52 DB40 LO6 K40 T4 DR10 T4 G40 K12 G40 T4 DR10 T4 K40 LO6 DB40 G52 DR/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 G40 T4 DR10 T4 K40 LO6 DB40 G52 DR6 DB/10 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

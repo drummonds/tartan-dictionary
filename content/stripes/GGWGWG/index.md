@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dy9lb3dy6lb3dy20y2~x2/">Oman Sultanate of.. Regimental Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dy9lb3dy6lb3dy20y2~x2/"><img src="/variants/s6/dy9lb3dy6lb3dy20y2~x2/sett.png" alt="Oman Sultanate of.. Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/om/oman-sultanate-of-regimental/">Oman Sultanate of.. Regimental</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/om/oman-sultanate-of-regimental/"><img src="/variants/s6/dy9lb3dy6lb3dy20y2~x2/sett.png" alt="Oman Sultanate of.. Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dg9lb3dg6lb3dg20y2~x2/">Oman, Sultanate of..</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg9lb3dg6lb3dg20y2~x2/"><img src="/variants/s6/dg9lb3dg6lb3dg20y2~x2/sett.png" alt="Oman, Sultanate of.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/om/oman-sultanate-of/">Oman, Sultanate of..</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/om/oman-sultanate-of/"><img src="/variants/s6/dg9lb3dg6lb3dg20y2~x2/sett.png" alt="Oman, Sultanate of.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

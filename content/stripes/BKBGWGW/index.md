@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dr5k3dr9dg56lb4dg2w3/">MTV</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr5k3dr9dg56lb4dg2w3/"><img src="/variants/s7/dr5k3dr9dg56lb4dg2w3/sett.png" alt="MTV sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mt/mtv/">MTV</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mt/mtv/"><img src="/variants/s7/dr5k3dr9dg56lb4dg2w3/sett.png" alt="MTV sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/t6k3t37y41w3y6w3~x2/">Tilburg Hunting (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t6k3t37y41w3y6w3~x2/"><img src="/variants/s7/t6k3t37y41w3y6w3~x2/sett.png" alt="Tilburg Hunting (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/tilburg-hunting/">Tilburg Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/tilburg-hunting/"><img src="/variants/s7/t6k3t37y41w3y6w3~x2/sett.png" alt="Tilburg Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

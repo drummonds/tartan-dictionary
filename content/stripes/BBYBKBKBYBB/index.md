@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr2db6lr2db2k9dbi30k9db5lr4db2dr2~x2~db1106275-dbi1406275/">Rangers Football Club Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr2db6lr2db2k9dbi30k9db5lr4db2dr2~x2~db1106275-dbi1406275/"><img src="/variants/s11/dr2db6lr2db2k9dbi30k9db5lr4db2dr2~x2~db1106275-dbi1406275/sett.png" alt="Rangers Football Club Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rangers-football-club-dress/">Rangers Football Club Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-football-club-dress/"><img src="/variants/s11/dr2db6lr2db2k9dbi30k9db5lr4db2dr2~x2~db1106275-dbi1406275/sett.png" alt="Rangers Football Club Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

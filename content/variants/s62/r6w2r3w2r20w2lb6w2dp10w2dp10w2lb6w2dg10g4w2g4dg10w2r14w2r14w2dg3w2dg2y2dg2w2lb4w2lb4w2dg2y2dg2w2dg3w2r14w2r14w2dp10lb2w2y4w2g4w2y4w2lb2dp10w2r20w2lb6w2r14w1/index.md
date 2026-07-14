@@ -12,17 +12,17 @@ crumbs:
 - name: "Ritch"
   url: "/tartans/r/ri/ritch-3/"
 - name: "Ritch (Fashion)"
-  url: "/setts/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ri/ritch-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRWWWBWBWWWGGWGGWRWRWGWGGGWWWWWGGGWGWRWRWBWWGWGWGWWBWRWWWRW](/stripes/rwrwrwwwbwbwwwggwggwrwrwgwgggwwwwwgggwgwrwrwbwwgwgwgwwbwrwwwrw/).
 
 Part of the [Ritch](/tartans/r/ri/ritch-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [62 stripe tartan](/stripes/stripes62/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1698](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1698)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/1698/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1698/*)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -34,7 +34,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1698](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

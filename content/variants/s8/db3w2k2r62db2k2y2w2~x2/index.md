@@ -8,10 +8,10 @@ crumbs:
 - name: "Singer Sewing Machine Company"
   url: "/tartans/s/si/singer-sewing-machine-company/"
 - name: "Singer Sewing Machine Company"
-  url: "/setts/db3w2k2r62db2k2y2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db3w2k2r62db2k2y2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/singer-sewing-machine-company/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKRBKGW](/stripes/bwkrbkgw/).
 
 Part of the [Singer Sewing Machine Company](/tartans/s/si/singer-sewing-machine-company/) tartan — the named design grouping this sett with its other cloths.

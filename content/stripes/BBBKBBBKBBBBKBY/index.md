@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/">Cornwall</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/"><img src="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/sett.png" alt="Cornwall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cornwall/">Cornwall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cornwall/"><img src="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/sett.png" alt="Cornwall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

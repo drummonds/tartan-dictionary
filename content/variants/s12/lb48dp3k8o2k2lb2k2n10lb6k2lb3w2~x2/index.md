@@ -10,10 +10,10 @@ crumbs:
 - name: "Wcwm 9275-1405"
   url: "/tartans/w/wc/wcwm-9275-1405/"
 - name: "Wcwm 9275-1405"
-  url: "/setts/lb48dp3k8o2k2lb2k2n10lb6k2lb3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb48dp3k8o2k2lb2k2n10lb6k2lb3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wc/wcwm-9275-1405/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKRKWKBWKWW](/stripes/wbkrkwkbwkww/).
 
 Part of the [Wcwm 9275-1405](/tartans/w/wc/wcwm-9275-1405/) tartan — the named design grouping this sett with its other cloths.

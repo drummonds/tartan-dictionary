@@ -8,10 +8,10 @@ crumbs:
 - name: "Kildare"
   url: "/tartans/k/ki/kildare/"
 - name: "Kildare"
-  url: "/setts/b8do2b13r4b12lb22b5y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b8do2b13r4b12lb22b5y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kildare/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBWBG](/stripes/bbbrbwbg/).
 
 Part of the [Kildare](/tartans/k/ki/kildare/) tartan — the named design grouping this sett with its other cloths.

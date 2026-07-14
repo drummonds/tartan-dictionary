@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w1o1n4o7lp1w1~x4~o2500000-n1900000/">Lochnagar Plaid (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w1o1n4o7lp1w1~x4~o2500000-n1900000/"><img src="/variants/s6/w1o1n4o7lp1w1~x4~o2500000-n1900000/sett.png" alt="Lochnagar Plaid (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochnagar-3/">Lochnagar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochnagar-3/"><img src="/variants/s6/w1o1n4o7lp1w1~x4~o2500000-n1900000/sett.png" alt="Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

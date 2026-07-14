@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Applecross"
   url: "/tartans/a/ap/applecross/"
-- name: "Applecross (District)"
-  url: "/setts/r18g7r2g18/"
+- name: "Applecross (MacDonald) District Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r18g7r2g18/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ap/applecross/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGR](/stripes/grgr/).
 
 Part of the [Applecross](/tartans/a/ap/applecross/) tartan — the named design grouping this sett with its other cloths.

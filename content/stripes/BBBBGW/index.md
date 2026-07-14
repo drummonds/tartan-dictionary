@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db2t9dr1db5g5lb2~x4/">American Express</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><img src="/variants/s6/db2t9dr1db5g5lb2~x4/sett.png" alt="American Express sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db2b9dr1db9dg9w2~x4/">American Express</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2b9dr1db9dg9w2~x4/"><img src="/variants/s6/db2b9dr1db9dg9w2~x4/sett.png" alt="American Express sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/american-express-2/">American Express</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/american-express-2/"><img src="/variants/s6/db2t9dr1db5g5lb2~x4/sett.png" alt="American Express sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

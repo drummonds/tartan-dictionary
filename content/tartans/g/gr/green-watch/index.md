@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg10ly1dg1ly1lr2dg1ly1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gygyygy/">GYGYYGY</a></nav>
 Its design is pattern [GYGYYGY](/stripes/gygyygy/) — the page of every tartan sharing this colour sequence.
 
 The **Green Watch** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Green Watch** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg10ly1dg1ly1lr2dg1ly1/">Green Watch</a></td><td><code>DG/40 LY4 DG4 LY4 LR8 DG4 LY/4</code></td><td>92</td><td>1973</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg10ly1dg1ly1lr2dg1ly1/"><img src="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/sett.png" alt="Green Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/">Green Watch</a></td><td><code>DG/40 LY4 DG4 LY4 LR8 DG4 LY/4</code></td><td>92</td><td>1973</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/"><img src="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/sett.png" alt="Green Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dg2ly14dg8ly3dg12db2~x2/"><circle cx="306.6" cy="259.7" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/variants/s7/g3dy2g18dy21lo2g3lo2~x2/"><circle cx="358.6" cy="235.1" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><circle cx="407.3" cy="188.2" r="4" fill="#3465a4"><title>Glenlivet Check</title></circle></a><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="404.1" cy="139.2" r="4" fill="#3465a4"><title>St. Patrick</title></circle></a><a href="/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/"><circle cx="433.3" cy="179.9" r="4" fill="#3465a4"><title>Menzies Brown &amp;</title></circle></a><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><circle cx="415.1" cy="139.5" r="4" fill="#3465a4"><title>St. Christopher</title></circle></a><a href="/variants/s10/g3dr6g2dr1g2dr1g16lr1g2lr3~x4/"><circle cx="450.6" cy="191.1" r="4" fill="#3465a4"><title>Prince of Wales Fashion Weavers</title></circle></a><circle cx="436.9" cy="194.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dg2ly14dg8ly3dg12db2~x2/"><circle cx="307.0" cy="259.8" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/variants/s7/g3dy2g18dy21lo2g3lo2~x2/"><circle cx="359.0" cy="235.3" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><circle cx="408.1" cy="188.5" r="4" fill="#3465a4"><title>Glenlivet Check</title></circle></a><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="405.0" cy="139.4" r="4" fill="#3465a4"><title>St. Patrick</title></circle></a><a href="/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/"><circle cx="434.3" cy="180.1" r="4" fill="#3465a4"><title>Menzies Brown &amp;</title></circle></a><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><circle cx="416.1" cy="139.7" r="4" fill="#3465a4"><title>St. Christopher</title></circle></a><a href="/variants/s10/g3dr6g2dr1g2dr1g16lr1g2lr3~x4/"><circle cx="451.4" cy="191.4" r="4" fill="#3465a4"><title>Prince of Wales Fashion Weavers</title></circle></a><circle cx="437.8" cy="194.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

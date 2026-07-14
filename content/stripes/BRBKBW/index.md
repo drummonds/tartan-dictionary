@@ -28,8 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/do2o11do2k11do16w2~x4/">Portrait, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/do2o11do2k11do16w2~x4/"><img src="/variants/s6/do2o11do2k11do16w2~x4/sett.png" alt="Portrait, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kintore/">Kintore</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kintore/"><img src="/variants/s6/dp2r1dp5k4db5lb1~x4/sett.png" alt="Kintore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/p/po/portrait-the/">Portrait, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/portrait-the/"><img src="/variants/s6/do2o11do2k11do16w2~x4/sett.png" alt="Portrait, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

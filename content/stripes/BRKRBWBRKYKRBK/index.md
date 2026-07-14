@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/">Amnesty International Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/"><img src="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/sett.png" alt="Amnesty International Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/amnesty-international/">Amnesty International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/amnesty-international/"><img src="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/sett.png" alt="Amnesty International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

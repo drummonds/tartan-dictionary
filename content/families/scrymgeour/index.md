@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/s/sc/scrymgeour/">Scrymgeour</a> ★</td><td>1971</td><td>2</td><td>2</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scrymgeour/"><img src="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sc/scrymgeour-2/">Scrymgeour</a></td><td>1971</td><td>3</td><td>4</td><td>0.40</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scrymgeour-2/"><img src="/variants/s7/r15k1y2db3r2k1y15~x6/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scrymgeour-2/"><img src="/variants/s7/r15k1y2db3r2k1y15~x3/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

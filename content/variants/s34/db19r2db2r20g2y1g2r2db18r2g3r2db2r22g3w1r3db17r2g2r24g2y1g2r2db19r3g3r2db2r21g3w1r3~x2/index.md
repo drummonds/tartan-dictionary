@@ -8,10 +8,10 @@ crumbs:
 - name: "Unidentified 18th Centuary plain weave"
   url: "/tartans/u/un/unidentified-18th-centuary-plain-weave/"
 - name: "Unidentified 18th Centuary plain weave"
-  url: "/setts/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-18th-centuary-plain-weave/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGGGRBRGRBRGWRBRGRGGGRBRGRBRGWR](/stripes/brbrgggrbrgrbrgwrbrgrgggrbrgrbrgwr/).
 
 Part of the [Unidentified 18th Centuary plain weave](/tartans/u/un/unidentified-18th-centuary-plain-weave/) tartan — the named design grouping this sett with its other cloths.

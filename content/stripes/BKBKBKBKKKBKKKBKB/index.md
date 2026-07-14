@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dp34k2dp4k6dp4k20dp5k2dp2k2dp5k2dp8~x2/">Birrell (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dp34k2dp4k6dp4k20dp5k2dp2k2dp5k2dp8~x2/"><img src="/variants/s13/dp34k2dp4k6dp4k20dp5k2dp2k2dp5k2dp8~x2/sett.png" alt="Birrell (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bi/birrell/">Birrell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/birrell/"><img src="/variants/s13/dp34k2dp4k6dp4k20dp5k2dp2k2dp5k2dp8~x2/sett.png" alt="Birrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

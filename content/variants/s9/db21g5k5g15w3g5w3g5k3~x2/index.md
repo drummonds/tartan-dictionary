@@ -12,10 +12,10 @@ crumbs:
 - name: "Tweedside Hunting"
   url: "/tartans/t/tw/tweedside-hunting/"
 - name: "Tweedside, hunting"
-  url: "/setts/db21g5k5g15w3g5w3g5k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db21g5k5g15w3g5w3g5k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tw/tweedside-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGWGWGK](/stripes/bgkgwgwgk/).
 
 Part of the [Tweedside Hunting](/tartans/t/tw/tweedside-hunting/) tartan — the named design grouping this sett with its other cloths.

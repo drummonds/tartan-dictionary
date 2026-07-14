@@ -11,11 +11,11 @@ crumbs:
   url: "/families/kennedy/"
 - name: "Kennedy"
   url: "/tartans/k/ke/kennedy-3/"
-- name: "Kennedy"
-  url: "/setts/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2/"
+- name: "Kennedy Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kennedy-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGGRGRGBKBKBKBGR](/stripes/kgggrgrgbkbkbkbgr/).
 
 Part of the [Kennedy](/tartans/k/ke/kennedy-3/) tartan — the named design grouping this sett with its other cloths.

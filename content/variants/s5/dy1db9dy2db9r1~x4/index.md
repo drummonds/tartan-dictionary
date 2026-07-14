@@ -8,10 +8,10 @@ crumbs:
 - name: "Brooks Brothers Tattersall"
   url: "/tartans/b/br/brooks-brothers-tattersall-2/"
 - name: "Brooks Brothers Tattersall Blue"
-  url: "/setts/dy1db9dy2db9r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy1db9dy2db9r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brooks-brothers-tattersall-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBR](/stripes/gbgbr/).
 
 Part of the [Brooks Brothers Tattersall](/tartans/b/br/brooks-brothers-tattersall-2/) tartan — the named design grouping this sett with its other cloths.

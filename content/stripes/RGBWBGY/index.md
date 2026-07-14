@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/">Newfoundland (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/"><img src="/variants/s7/r6g4do14w4do7g30lo4~x2/sett.png" alt="Newfoundland (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/newfoundland/">Newfoundland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/newfoundland/"><img src="/variants/s7/r6g4do14w4do7g30lo4~x2/sett.png" alt="Newfoundland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

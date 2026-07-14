@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/">Delta Dental Association</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/"><img src="/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/sett.png" alt="Delta Dental Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/delta-dental-association/">Delta Dental Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/delta-dental-association/"><img src="/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/sett.png" alt="Delta Dental Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

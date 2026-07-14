@@ -12,15 +12,15 @@ crumbs:
 - name: "Kinross"
   url: "/tartans/k/ki/kinross-2/"
 - name: "Kinross"
-  url: "/setts/dg20db2g6db2dg4db27lo2db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg20db2g6db2dg4db27lo2db8/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBGBYBYBGBGBG](/stripes/bgbgbybybgbgbg/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kinross-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYBGBGBG](/stripes/bybgbgbg/).
 
 Part of the [Kinross](/tartans/k/ki/kinross-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1997](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1997)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1997](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Kinross (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1997">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>An interior decorators' drapery fabric from Brunschwig & Fils of North White Plains New York State. The note on the sample in the Johnston Collection states 'Named Kinross by Brunschwig & Fils . . . it was turned up by their designers when researching in Britain many years ago and has since been lost.' Unfortunately no dates are given and it's not known if the name was just a marketing ploy or if it was originally called Kinross. No connection with Kinross (Family) #4179 (original Scottish Tartans Authority reference).</em></li>
-<li>pre 2002 — Kinross (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5362">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>An interior decorators' drapery fabric from Brunschwig & Fils of North White Plains New York State. The note on the sample in the Johnston Collection states "Named Kinross by Brunschwig & Fils . . . it was turned up by their designers when researching in Britain many years ago and has since been lost." Unfortunately no dates are given and it's not known if the name was just a marketing ploy or if it was originally called Kinross. The company also has London offices: Brunschwig & Fils, 10 Chelsea Harbour, London - Interior Design/Decoration near Fulham Broadway Tube Station. No connection with Kinross (Family) @ #4179.</em></li>
+<li>pre 2002 — Kinross (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5362/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>An interior decorators' drapery fabric from Brunschwig & Fils of North White Plains New York State. The note on the sample in the Johnston Collection states "Named Kinross by Brunschwig & Fils . . . it was turned up by their designers when researching in Britain many years ago and has since been lost." Unfortunately no dates are given and it's not known if the name was just a marketing ploy or if it was originally called Kinross. The company also has London offices: Brunschwig & Fils, 10 Chelsea Harbour, London - Interior Design/Decoration near Fulham Broadway Tube Station. No connection with Kinross (Family) @ #4179.</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5362
 
 ## Thread count
-DG/40 DB4 G12 DB4 DG8 DB54 LO4 DB16 LO4 DB54 DG8 DB4 G12 DB/4
+DG/40 DB4 G12 DB4 DG8 DB54 LO4 DB/16
 
-One full sett is **412 threads**.
+One full sett is **228 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/40 DB4 G12 DB4 DG8 DB54 LO4 DB16 LO4 DB54 DG8 DB4 G12 DB/4 — 412 threads; it folds to the canonical 228-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **412 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/40 DB4 G12 DB4 DG8 DB54 LO4 DB16 LO4 DB54 DG8 DB4 G12 DB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/40 DB4 G12 DB4 DG8 DB54 LO4 DB/16 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

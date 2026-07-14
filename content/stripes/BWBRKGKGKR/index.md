@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/">Richardson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><img src="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/sett.png" alt="Richardson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/">Richardson (Personal?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/"><img src="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/sett.png" alt="Richardson (Personal?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/richardson/">Richardson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/richardson/"><img src="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/sett.png" alt="Richardson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

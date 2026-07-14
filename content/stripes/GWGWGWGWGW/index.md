@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g1w1g8w1g8w1g2w1g4w1~x4/">Cowper (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g1w1g8w1g8w1g2w1g4w1~x4/"><img src="/variants/s10/g1w1g8w1g8w1g2w1g4w1~x4/sett.png" alt="Cowper (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cowper/">Cowper</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cowper/"><img src="/variants/s10/g1w1g8w1g8w1g2w1g4w1~x4/sett.png" alt="Cowper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

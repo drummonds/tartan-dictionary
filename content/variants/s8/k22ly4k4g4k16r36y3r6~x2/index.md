@@ -8,10 +8,10 @@ crumbs:
 - name: "Dean Brae"
   url: "/tartans/d/de/dean-brae/"
 - name: "Dean Brae"
-  url: "/setts/k22ly4k4g4k16r36y3r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k22ly4k4g4k16r36y3r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/dean-brae/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKGKRGR](/stripes/kykgkrgr/).
 
 Part of the [Dean Brae](/tartans/d/de/dean-brae/) tartan — the named design grouping this sett with its other cloths.

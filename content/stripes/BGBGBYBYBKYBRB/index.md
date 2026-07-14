@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/t10r4t44lr8k8t4lr4t4lr50t8g6t5y4db6~t2405244-lr2800000/">RAF Kinloss (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/t10r4t44lr8k8t4lr4t4lr50t8g6t5y4db6~t2405244-lr2800000/"><img src="/variants/s14/t10r4t44lr8k8t4lr4t4lr50t8g6t5y4db6~t2405244-lr2800000/sett.png" alt="RAF Kinloss (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/raf-kinloss-2/">RAF Kinloss</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/raf-kinloss-2/"><img src="/variants/s14/t10r4t44lr8k8t4lr4t4lr50t8g6t5y4db6~t2405244-lr2800000/sett.png" alt="RAF Kinloss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

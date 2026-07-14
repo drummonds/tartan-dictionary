@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/">New Jersey</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/"><img src="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/sett.png" alt="New Jersey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-jersey/">New Jersey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-jersey/"><img src="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/sett.png" alt="New Jersey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

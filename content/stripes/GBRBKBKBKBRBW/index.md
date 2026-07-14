@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y2db3r2db19k7db6k22db6k7db19r2db3w2~x2/">MacIver of Strome (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><img src="/variants/s13/y2db3r2db19k7db6k22db6k7db19r2db3w2~x2/sett.png" alt="MacIver of Strome (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maciver-of-strome/">MacIver of Strome</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maciver-of-strome/"><img src="/variants/s13/y2db3r2db19k7db6k22db6k7db19r2db3w2~x2/sett.png" alt="MacIver of Strome sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Southwell"
   url: "/tartans/s/so/southwell/"
 - name: "Southwell (Personal)"
-  url: "/setts/dg39r2w1r2db14w14dg2g10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg39r2w1r2db14w14dg2g10/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGWBRWRGRWRBWG](/stripes/ggwbrwrgrwrbwg/).
+provenance below. It is one weaving of the [sett](/tartans/s/so/southwell/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGWBRWRG](/stripes/ggwbrwrg/).
 
 Part of the [Southwell](/tartans/s/so/southwell/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3847](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3847)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3847](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/09/2002 — Southwell (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3847">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Betty Johnston of House of Tartan in Canberra, Australia for an Australian family in the wool industry. No design rationale available. Green threadcount thought to be 78 but not guaranteed. The white shown here is possibly cream.</em></li>
-<li>pre 2005 — Southwell (Australian) (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6744">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>Designed by Betty Johnston of House of Tartan in Canberra, Australia for an Australian family in the wool industry. No design rationale available. Green threadcount thought to be 78 but not guaranteed. The white shown here is possibly cream.</em></li>
+<li>pre 2005 — Southwell (Australian) (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6744/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>Designed by Betty Johnston of House of Tartan in Canberra, Australia for an Australian family in the wool industry. No design rationale available. Green threadcount thought to be 78 but not guaranteed. The white shown here is possibly cream.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2780
 
 ## Thread count
-G/20 DG4 W28 DB28 R4 W2 R4 DG78 R4 W2 R4 DB28 W28 DG/4
+DG/78 R4 W2 R4 DB28 W28 DG4 G/20
 
-One full sett is **452 threads**.
+One full sett is **238 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/20 DG4 W28 DB28 R4 W2 R4 DG78 R4 W2 R4 DB28 W28 DG/4 — 452 threads; it folds to the canonical 238-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **452 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/20 DG4 W28 DB28 R4 W2 R4 DG78 R4 W2 R4 DB28 W28 DG/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/78 R4 W2 R4 DB28 W28 DG4 G/20 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

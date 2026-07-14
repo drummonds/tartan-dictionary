@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/">Schneidersohne Centenary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/"><img src="/variants/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/sett.png" alt="Schneidersohne Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/schneidersohne-centenary/">Schneidersohne Centenary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/schneidersohne-centenary/"><img src="/variants/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/sett.png" alt="Schneidersohne Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

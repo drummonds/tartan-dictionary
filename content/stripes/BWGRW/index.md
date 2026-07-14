@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db26lb6g1r1w2~x2/">Special Air Service</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db26lb6g1r1w2~x2/"><img src="/variants/s5/db26lb6g1r1w2~x2/sett.png" alt="Special Air Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/special-air-service/">Special Air Service</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/special-air-service/"><img src="/variants/s5/db26lb6g1r1w2~x2/sett.png" alt="Special Air Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

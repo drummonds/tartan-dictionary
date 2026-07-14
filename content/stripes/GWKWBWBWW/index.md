@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/">Royal College of Midwives</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/"><img src="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/sett.png" alt="Royal College of Midwives sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/midwives/">Midwives</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/midwives/"><img src="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/sett.png" alt="Midwives sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

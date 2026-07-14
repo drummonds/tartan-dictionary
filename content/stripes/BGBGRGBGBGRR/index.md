@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db22g4db4g17o17g17db4g4db22y8o8r8~x2/">Niagara Falls</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db22g4db4g17o17g17db4g4db22y8o8r8~x2/"><img src="/variants/s12/db22g4db4g17o17g17db4g4db22y8o8r8~x2/sett.png" alt="Niagara Falls sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ni/niagara-falls/">Niagara Falls</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/niagara-falls/"><img src="/variants/s12/db22g4db4g17o17g17db4g4db22y8o8r8~x2/sett.png" alt="Niagara Falls sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,13 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db6w1t18k6t4k4dp8dg1dp8k2db5~x2~db1108266-dp1708331/">Bute Heather, Ancient</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db6w1t18k6t4k4dp8dg1dp8k2db5~x2~db1108266-dp1708331/"><img src="/variants/s11/db6w1t18k6t4k4dp8dg1dp8k2db5~x2~db1108266-dp1708331/sett.png" alt="Bute Heather, Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/db6w1dt18k6dt4k4dp8dg1dp8k2db5~x2~db1003265-dt1203284-dp0804317/">Bute Heather, Modern</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db6w1dt18k6dt4k4dp8dg1dp8k2db5~x2~db1003265-dt1203284-dp0804317/"><img src="/variants/s11/db6w1dt18k6dt4k4dp8dg1dp8k2db5~x2~db1003265-dt1203284-dp0804317/sett.png" alt="Bute Heather, Modern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/db13w2dt38k13dt8k8dp17dg2dp17k4db11/">Bute Heather</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db13w2dt38k13dt8k8dp17dg2dp17k4db11/"><img src="/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11~db1204274-dp1607327/sett.png" alt="Bute Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/bute-heather-4/">Bute Heather</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/bute-heather-4/"><img src="/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11~db1204274-dp1607327/sett.png" alt="Bute Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w8dt2w1dt2w1dt2r3dt3w1~x4/">Canadian Winter Games 1987</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w8dt2w1dt2w1dt2r3dt3w1~x4/"><img src="/variants/s9/w8dt2w1dt2w1dt2r3dt3w1~x4/sett.png" alt="Canadian Winter Games 1987 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canadian-winter-games-1987/">Canadian Winter Games 1987</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canadian-winter-games-1987/"><img src="/variants/s9/w8dt2w1dt2w1dt2r3dt3w1~x4/sett.png" alt="Canadian Winter Games 1987 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/">Jeux Canada Games '87 (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/"><img src="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/sett.png" alt="Jeux Canada Games '87 (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/je/jeux-canada-games-87/">Jeux Canada Games '87</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/je/jeux-canada-games-87/"><img src="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/sett.png" alt="Jeux Canada Games '87 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

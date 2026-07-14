@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/">Boucherville (Tartan de..), dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/"><img src="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/sett.png" alt="Boucherville (Tartan de..), dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/">Boucherville Formal District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/"><img src="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/sett.png" alt="Boucherville Formal District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boucherville-dress/">Boucherville Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boucherville-dress/"><img src="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/sett.png" alt="Boucherville Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boucherville-formal/">Boucherville Formal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boucherville-formal/"><img src="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/sett.png" alt="Boucherville Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/">Hibernian F. C. (2004) (C orporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/"><img src="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/sett.png" alt="Hibernian F. C. (2004) (C orporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g22w2g22k18dg12dp6k2w1~x2/">Hibernian Football Club</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g22w2g22k18dg12dp6k2w1~x2/"><img src="/variants/s8/g22w2g22k18dg12dp6k2w1~x2/sett.png" alt="Hibernian Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hibernian-f-c/">Hibernian F. C.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hibernian-f-c/"><img src="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/sett.png" alt="Hibernian F. C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hibernian-football-club-3/">Hibernian Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hibernian-football-club-3/"><img src="/variants/s8/g22w2g22k18dg12dp6k2w1~x2/sett.png" alt="Hibernian Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

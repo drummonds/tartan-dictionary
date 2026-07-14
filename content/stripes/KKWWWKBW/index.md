@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/">Modern Craft (Masonic)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/"><img src="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/sett.png" alt="Modern Craft (Masonic) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/modern-craft/">Modern Craft</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/modern-craft/"><img src="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/sett.png" alt="Modern Craft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

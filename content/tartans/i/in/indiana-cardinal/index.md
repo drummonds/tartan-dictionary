@@ -4,8 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db8lo1g12dr10y2dr6y2dr4/"
+- "/setts/db8y1g12r10ly2r6ly2r4/"
 ---
-Its design is pattern [BYGBGBGBGBGBGY](/stripes/bygbgbgbgbgbgy/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbgbgyb/">BGBGBGYB</a></nav>
+Its design is pattern [BGBGBGYB](/stripes/bgbgbgyb/) — the page of every tartan sharing this colour sequence.
 
 The **Indiana "Cardinal"** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
@@ -13,10 +17,10 @@ The **Indiana "Cardinal"** tartan groups 2 setts — the same named design recor
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db8lo1g12dr10y2dr6y2dr4/">Indiana &quot;Cardinal&quot;</a> ★</td><td><code>DB/32 LO4 G48 DR40 Y8 DR24 Y8 DR16 Y8 DR24 Y8 DR40 G48 LO/4</code></td><td>312</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8lo1g12dr10y2dr6y2dr4/"><img src="/variants/s8/db8lo1g12dr10y2dr6y2dr4~x4/sett.png" alt="Indiana &quot;Cardinal&quot; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db8y1g12r10ly2r6ly2r4/">Indiana &quot;Cardinal&quot;</a></td><td><code>DB/32 Y4 G48 R40 LY8 R24 LY8 R/16</code></td><td>312</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8y1g12r10ly2r6ly2r4/"><img src="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/sett.png" alt="Indiana &quot;Cardinal&quot; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db8lo1g12dr10y2dr6y2dr4~x4/">Indiana &quot;Cardinal&quot;</a> ★</td><td><code>DB/32 LO4 G48 DR40 Y8 DR24 Y8 DR/16</code></td><td>312</td><td>1992</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db8lo1g12dr10y2dr6y2dr4~x4/"><img src="/variants/s8/db8lo1g12dr10y2dr6y2dr4~x4/sett.png" alt="Indiana &quot;Cardinal&quot; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/">Indiana &quot;Cardinal&quot;</a></td><td><code>DB/32 Y4 G48 R40 LY8 R24 LY8 R/16</code></td><td>312</td><td>1992</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/"><img src="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/sett.png" alt="Indiana &quot;Cardinal&quot; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -35,6 +39,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="364.4" cy="229.1" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="181.6" cy="211.4" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.3" cy="220.0" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/"><circle cx="256.9" cy="252.8" r="4" fill="#3465a4"><title>Scottish Ballet</title></circle></a><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><circle cx="194.6" cy="246.4" r="4" fill="#3465a4"><title>Caledonian Maple</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.6" cy="245.6" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><circle cx="202.4" cy="214.4" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><a href="/variants/s9/yi25dp3yi8dp13y8lr2g11yi2dp3~x2~yi2602194-lr2800000/"><circle cx="281.7" cy="219.2" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.0" cy="229.9" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="232.5" cy="211.9" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><circle cx="255.5" cy="232.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="364.9" cy="229.3" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="181.7" cy="211.2" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.5" cy="219.9" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/"><circle cx="257.0" cy="252.8" r="4" fill="#3465a4"><title>Scottish Ballet</title></circle></a><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><circle cx="194.6" cy="246.2" r="4" fill="#3465a4"><title>Caledonian Maple</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.7" cy="245.6" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><circle cx="202.4" cy="214.2" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><a href="/variants/s9/yi25dp3yi8dp13y8lr2g11yi2dp3~x2~yi2602194-lr2800000/"><circle cx="281.8" cy="219.1" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.4" cy="229.9" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="232.7" cy="211.8" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><circle cx="255.7" cy="232.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

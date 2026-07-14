@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dt24k24ki2w6ki2y2ki16lb5r6w2~x2~dt1501240-k0504259-ki0700000/">Scotland's International - Home</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dt24k24ki2w6ki2y2ki16lb5r6w2~x2~dt1501240-k0504259-ki0700000/"><img src="/variants/s10/dt24k24ki2w6ki2y2ki16lb5r6w2~x2~dt1501240-k0504259-ki0700000/sett.png" alt="Scotland's International - Home sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/db24k24ki2w6ki2y2ki16lb5r6w2~x2~k0504259-ki0700000/">Scotland's International - Home (Fas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db24k24ki2w6ki2y2ki16lb5r6w2~x2~k0504259-ki0700000/"><img src="/variants/s10/db24k24ki2w6ki2y2ki16lb5r6w2~x2~k0504259-ki0700000/sett.png" alt="Scotland's International - Home (Fas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotland-s-international/">Scotland's International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-s-international/"><img src="/variants/s10/dt24k24ki2w6ki2y2ki16lb5r6w2~x2~dt1501240-k0504259-ki0700000/sett.png" alt="Scotland's International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

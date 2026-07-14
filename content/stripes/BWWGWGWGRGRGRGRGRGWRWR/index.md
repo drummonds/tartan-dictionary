@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/db30w2lb3g3lb3g3lb3g16r3g3r3g3r3g3r3g25r15g4lb4r8w2r15~x2/">Wilson (Janet) #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/db30w2lb3g3lb3g3lb3g16r3g3r3g3r3g3r3g25r15g4lb4r8w2r15~x2/"><img src="/variants/s22/db30w2lb3g3lb3g3lb3g16r3g3r3g3r3g3r3g25r15g4lb4r8w2r15~x2/sett.png" alt="Wilson (Janet) #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson/">Wilson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson/"><img src="/variants/s22/db30w2lb3g3lb3g3lb3g16r3g3r3g3r3g3r3g25r15g4lb4r8w2r15~x2/sett.png" alt="Wilson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/">Wilson, Janet (1780 Original)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/"><img src="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/sett.png" alt="Wilson, Janet (1780 Original) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-janet/">Wilson, Janet</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-janet/"><img src="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/sett.png" alt="Wilson, Janet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

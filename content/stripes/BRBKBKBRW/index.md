@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db5r16db4k3db4k3db43r15w1~x2/">Falkirk Football Club (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db5r16db4k3db4k3db43r15w1~x2/"><img src="/variants/s9/db5r16db4k3db4k3db43r15w1~x2/sett.png" alt="Falkirk Football Club (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/falkirk-football-club/">Falkirk Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/falkirk-football-club/"><img src="/variants/s9/db5r16db4k3db4k3db43r15w1~x2/sett.png" alt="Falkirk Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

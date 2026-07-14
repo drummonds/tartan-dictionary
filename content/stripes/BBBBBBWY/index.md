@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/">Marist School, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/"><img src="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/sett.png" alt="Marist School, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/marist/">Marist</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/marist/"><img src="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/sett.png" alt="Marist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/db40dg34r5dg34k6dg34y5dg34db40dbi6db40dg34y5dg34k6dg34r5dg34db40dbi6~db1204274-dbi1406275/">Pendleton dress Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/db40dg34r5dg34k6dg34y5dg34db40dbi6db40dg34y5dg34k6dg34r5dg34db40dbi6~db1204274-dbi1406275/"><img src="/variants/s20/db40dg34r5dg34k6dg34y5dg34db40dbi6db40dg34y5dg34k6dg34r5dg34db40dbi6~db1204274-dbi1406275/sett.png" alt="Pendleton dress Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/pendleton-dress-3/">Pendleton dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/pendleton-dress-3/"><img src="/variants/s20/db40dg34r5dg34k6dg34y5dg34db40dbi6db40dg34y5dg34k6dg34r5dg34db40dbi6~db1204274-dbi1406275/sett.png" alt="Pendleton dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

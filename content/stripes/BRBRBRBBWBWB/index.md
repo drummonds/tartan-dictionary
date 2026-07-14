@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/">Eidart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><img src="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/sett.png" alt="Eidart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/n4w2n2w3n20db6r3db2r2db2r17db3~x2/">Eidart Scotch House Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n4w2n2w3n20db6r3db2r2db2r17db3~x2/"><img src="/variants/s12/n4w2n2w3n20db6r3db2r2db2r17db3~x2/sett.png" alt="Eidart Scotch House Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ei/eidart/">Eidart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ei/eidart/"><img src="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/sett.png" alt="Eidart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ei/eidart-scotch-house/">Eidart Scotch House</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ei/eidart-scotch-house/"><img src="/variants/s12/n4w2n2w3n20db6r3db2r2db2r17db3~x2/sett.png" alt="Eidart Scotch House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

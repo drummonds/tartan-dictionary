@@ -12,10 +12,10 @@ crumbs:
 - name: "Riddoch"
   url: "/tartans/r/ri/riddoch/"
 - name: "Riddoch"
-  url: "/setts/db8k1db1k1db1k8r1g14r1k8db9k1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8k1db1k1db1k8r1g14r1k8db9k1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ri/riddoch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKRGRKBKB](/stripes/bkbkbkrgrkbkb/).
 
 Part of the [Riddoch](/tartans/r/ri/riddoch/) tartan — the named design grouping this sett with its other cloths.

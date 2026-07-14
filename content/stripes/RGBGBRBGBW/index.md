@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r3y1db15g16db3r6db6g8db15w3~x2/">Steve Walls Commemorative</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r3y1db15g16db3r6db6g8db15w3~x2/"><img src="/variants/s10/r3y1db15g16db3r6db6g8db15w3~x2/sett.png" alt="Steve Walls Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/steve-walls/">Steve Walls</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/steve-walls/"><img src="/variants/s10/r3y1db15g16db3r6db6g8db15w3~x2/sett.png" alt="Steve Walls sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

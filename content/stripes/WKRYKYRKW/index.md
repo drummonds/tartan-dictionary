@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb6k2r32lo2k6lo2r4k2lb3~x2/">Lantern, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb6k2r32lo2k6lo2r4k2lb3~x2/"><img src="/variants/s9/lb6k2r32lo2k6lo2r4k2lb3~x2/sett.png" alt="Lantern, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lantern-the/">Lantern, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lantern-the/"><img src="/variants/s9/lb6k2r32lo2k6lo2r4k2lb3~x2/sett.png" alt="Lantern, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

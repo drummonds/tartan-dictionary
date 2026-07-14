@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/">Pro Simon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/"><img src="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/sett.png" alt="Pro Simon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pro-simon/">Pro Simon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pro-simon/"><img src="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/sett.png" alt="Pro Simon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

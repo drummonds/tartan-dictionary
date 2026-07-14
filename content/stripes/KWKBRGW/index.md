@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb4y1r28db24k5lb5k3~x4/">McKnight #2 (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb4y1r28db24k5lb5k3~x4/"><img src="/variants/s7/lb4y1r28db24k5lb5k3~x4/sett.png" alt="McKnight #2 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcknight/">McKnight</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcknight/"><img src="/variants/s7/lb4y1r28db24k5lb5k3~x4/sett.png" alt="McKnight sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

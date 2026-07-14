@@ -8,10 +8,10 @@ crumbs:
 - name: "McRae, Dress"
   url: "/tartans/m/mc/mcrae-dress/"
 - name: "McRae, Dress"
-  url: "/setts/r2k6db4w2k14w1db4w16db2w6r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k6db4w2k14w1db4w16db2w6r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcrae-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBWKWBWBWR](/stripes/rkbwkwbwbwr/).
 
 Part of the [McRae, Dress](/tartans/m/mc/mcrae-dress/) tartan — the named design grouping this sett with its other cloths.

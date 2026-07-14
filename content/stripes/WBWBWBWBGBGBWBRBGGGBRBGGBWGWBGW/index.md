@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s31/w23dt2w2dt2w2dt2w10dt12dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/">Pentecostal Assemblies of Canada</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/w23dt2w2dt2w2dt2w10dt12dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/"><img src="/variants/s31/w23dt2w2dt2w2dt2w10dt12dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/sett.png" alt="Pentecostal Assemblies of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/pentecostal-assemblies-of-canada/">Pentecostal Assemblies of Canada</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/pentecostal-assemblies-of-canada/"><img src="/variants/s31/w23dt2w2dt2w2dt2w10dt12dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/sett.png" alt="Pentecostal Assemblies of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Lambert Kai"
   url: "/tartans/l/la/lambert-kai/"
 - name: "Lambert (Front Royal) Kai"
-  url: "/setts/k3g34db10g5r2k8dy2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3g34db10g5r2k8dy2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lambert-kai/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBGRKGW](/stripes/kgbgrkgw/).
 
 Part of the [Lambert Kai](/tartans/l/la/lambert-kai/) tartan — the named design grouping this sett with its other cloths.

@@ -8,15 +8,15 @@ crumbs:
 - name: "Coleman, Sarah-Louise"
   url: "/tartans/c/co/coleman-sarah-louise/"
 - name: "Coleman, Sarah-Louise (Personal)"
-  url: "/setts/dp3n1g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3n1g2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBG](/stripes/bbbg/).
+provenance below. It is one weaving of the [sett](/tartans/c/co/coleman-sarah-louise/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBG](/stripes/bbg/).
 
 Part of the [Coleman, Sarah-Louise](/tartans/c/co/coleman-sarah-louise/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11027](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11027)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11027](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>18/03/2014 — Coleman, Sarah-Louise (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11027">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Created for the designer’s wedding using colours which represent Scotland to her: purple for Scottish mountains covered in heather, green for islands dotted in the sea and silver for the wild seas in stormy weather.</em></li>
-<li>2014 — Coleman, Sarah-Louise (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11027">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>A personal family tartan for the designer to wear at her wedding, using colours that remind her of the Scottish landscape (purple for heather, green for islands and grey for stormy seas).</em></li>
+<li>2014 — Coleman, Sarah-Louise (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11027/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>A personal family tartan for the designer to wear at her wedding, using colours that remind her of the Scottish landscape (purple for heather, green for islands and grey for stormy seas).</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 11027
 
 ## Thread count
-G/20 N10 DP30 N/10
+DP/30 N10 G/20
 
-One full sett is **110 threads**.
+One full sett is **70 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/20 N10 DP30 N/10 — 110 threads; it folds to the canonical 70-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **110 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/20 N10 DP30 N/10 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/30 N10 G/20 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

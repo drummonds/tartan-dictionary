@@ -12,10 +12,10 @@ crumbs:
 - name: "Massachusetts"
   url: "/tartans/m/ma/massachusetts-2/"
 - name: "Massachusetts (Unofficial)"
-  url: "/setts/r1db12k5ly3db5lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1db12k5ly3db5lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/massachusetts-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKYBW](/stripes/rbkybw/).
 
 Part of the [Massachusetts](/tartans/m/ma/massachusetts-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db2r1db10w1dy4g8y1g2~x4/">Ayrshire District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db2r1db10w1dy4g8y1g2~x4/"><img src="/variants/s8/db2r1db10w1dy4g8y1g2~x4/sett.png" alt="Ayrshire District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/t36r2t4w1dy14g4y2g18~x2/">Yorkland (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/t36r2t4w1dy14g4y2g18~x2/"><img src="/variants/s8/t36r2t4w1dy14g4y2g18~x2/sett.png" alt="Yorkland (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayrshire/">Ayrshire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ay/ayrshire/"><img src="/variants/s8/db2r1db10w1dy4g8y1g2~x4/sett.png" alt="Ayrshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yo/yorkland-2/">Yorkland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yo/yorkland-2/"><img src="/variants/s8/t36r2t4w1dy14g4y2g18~x2/sett.png" alt="Yorkland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

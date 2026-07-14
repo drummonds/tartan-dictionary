@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s30/db12g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db11dy24lo4dy4w2dg20r8dy4r5w4r5dy4r8/">Unidentified Victorian fancy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s30/db12g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db11dy24lo4dy4w2dg20r8dy4r5w4r5dy4r8/"><img src="/variants/s30/db12g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db11dy24lo4dy4w2dg20r8dy4r5w4r5dy4r8/sett.png" alt="Unidentified Victorian fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-victorian-fancy/">Unidentified Victorian fancy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-victorian-fancy/"><img src="/variants/s30/db12g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db11dy24lo4dy4w2dg20r8dy4r5w4r5dy4r8/sett.png" alt="Unidentified Victorian fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2/"
+- "/setts/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbbbbbgbgbgbggr/">BBBBBBBBBGBGBGBGGR</a></nav>
 Its design is pattern [BBBBBBBBBGBGBGBGGR](/stripes/bbbbbbbbbgbgbgbggr/) — the page of every tartan sharing this colour sequence.
 
 The **Glaz** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Glaz** tartan groups 2 setts — the same named design recorded as differe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2/">Glaz</a> ★</td><td><code>R/4 Y2 G14 T2 G8 T4 G6 T6 G2 T30 N2 T8 DT4 T4 DT8 T2 DT18 N/4</code></td><td>248</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2/"><img src="/variants/s18/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2~x2~dt1303265-t2202222/sett.png" alt="Glaz sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2/">(Fashion)</a></td><td><code>N/4 DB18 DBi2 DB8 DBi4 DB4 DBi8 N2 DBi30 G2 DBi6 G6 DBi4 G8 DBi2 G14 DY2 R/4</code></td><td>248</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2/"><img src="/variants/s18/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2~x2~db1404245-dbi1406275/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2~x2~dt1303265-t2202222/">Glaz</a> ★</td><td><code>N/4 DT18 T2 DT8 T4 DT4 T8 N2 T30 G2 T6 G6 T4 G8 T2 G14 Y2 R/4</code></td><td>248</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2~x2~dt1303265-t2202222/"><img src="/variants/s18/n2dt9t1dt4t2dt2t4n1t15g1t3g3t2g4t1g7y1r2~x2~dt1303265-t2202222/sett.png" alt="Glaz sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2~x2~db1404245-dbi1406275/">(Fashion)</a></td><td><code>N/4 DB18 DBi2 DB8 DBi4 DB4 DBi8 N2 DBi30 G2 DBi6 G6 DBi4 G8 DBi2 G14 DY2 R/4</code></td><td>248</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2~x2~db1404245-dbi1406275/"><img src="/variants/s18/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2~x2~db1404245-dbi1406275/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/"><circle cx="339.0" cy="174.7" r="4" fill="#3465a4"><title>Hand</title></circle></a><a href="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/"><circle cx="310.1" cy="218.5" r="4" fill="#3465a4"><title>Pitcairn Hunting</title></circle></a><a href="/variants/s13/b3t3b3t3b3g22t2y2t22r5b8y2t2~x2/"><circle cx="314.6" cy="223.5" r="4" fill="#3465a4"><title>Pitcairn Heritage Hunting</title></circle></a><a href="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/"><circle cx="308.2" cy="130.9" r="4" fill="#3465a4"><title>Heriot Watt University</title></circle></a><a href="/variants/s10/t5w1o9t5r4t5g20y1g1y1~x4/"><circle cx="294.9" cy="191.2" r="4" fill="#3465a4"><title>Hobkirk</title></circle></a><circle cx="290.6" cy="182.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/"><circle cx="339.3" cy="174.7" r="4" fill="#3465a4"><title>Hand</title></circle></a><a href="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/"><circle cx="310.1" cy="218.4" r="4" fill="#3465a4"><title>Pitcairn Hunting</title></circle></a><a href="/variants/s13/b3t3b3t3b3g22t2y2t22r5b8y2t2~x2/"><circle cx="314.6" cy="223.5" r="4" fill="#3465a4"><title>Pitcairn Heritage Hunting</title></circle></a><a href="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/"><circle cx="308.6" cy="130.9" r="4" fill="#3465a4"><title>Heriot Watt University</title></circle></a><a href="/variants/s10/t5w1o9t5r4t5g20y1g1y1~x4/"><circle cx="295.0" cy="191.1" r="4" fill="#3465a4"><title>Hobkirk</title></circle></a><circle cx="290.7" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

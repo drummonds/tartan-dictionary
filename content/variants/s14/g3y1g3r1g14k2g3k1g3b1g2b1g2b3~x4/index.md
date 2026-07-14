@@ -8,10 +8,10 @@ crumbs:
 - name: "New South Wales"
   url: "/tartans/n/ne/new-south-wales/"
 - name: "New South Wales"
-  url: "/setts/g3y1g3r1g14k2g3k1g3b1g2b1g2b3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3y1g3r1g14k2g3k1g3b1g2b1g2b3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/ne/new-south-wales/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGKGKGRGGG](/stripes/bgbgbgkgkgrggg/).
 
 Part of the [New South Wales](/tartans/n/ne/new-south-wales/) tartan — the named design grouping this sett with its other cloths.

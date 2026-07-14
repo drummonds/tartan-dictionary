@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/">International Bear Pride</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/"><img src="/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/sett.png" alt="International Bear Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/international-bear-pride/">International Bear Pride</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/international-bear-pride/"><img src="/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/sett.png" alt="International Bear Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

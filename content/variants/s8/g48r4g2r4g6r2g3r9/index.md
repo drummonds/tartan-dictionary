@@ -11,11 +11,11 @@ crumbs:
   url: "/families/menzies/"
 - name: "Menzies Hunting"
   url: "/tartans/m/me/menzies-hunting/"
-- name: "Menzies"
-  url: "/setts/g48r4g2r4g6r2g3r9/"
+- name: "Menzies Hunting"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g48r4g2r4g6r2g3r9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/menzies-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGR](/stripes/grgrgrgr/).
 
 Part of the [Menzies Hunting](/tartans/m/me/menzies-hunting/) tartan — the named design grouping this sett with its other cloths.

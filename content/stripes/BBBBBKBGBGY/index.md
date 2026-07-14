@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/">Cameron of Erracht (WCWM)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/"><img src="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/sett.png" alt="Cameron of Erracht (WCWM) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cameron-of-erracht-2/">Cameron of Erracht</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-of-erracht-2/"><img src="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/sett.png" alt="Cameron of Erracht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

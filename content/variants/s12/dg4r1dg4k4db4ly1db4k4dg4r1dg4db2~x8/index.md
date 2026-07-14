@@ -8,10 +8,10 @@ crumbs:
 - name: "Isle of Gigha"
   url: "/tartans/i/is/isle-of-gigha/"
 - name: "Isle of Gigha"
-  url: "/setts/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/is/isle-of-gigha/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGKBYBKGRG](/stripes/bgrgkbybkgrg/).
 
 Part of the [Isle of Gigha](/tartans/i/is/isle-of-gigha/) tartan — the named design grouping this sett with its other cloths.

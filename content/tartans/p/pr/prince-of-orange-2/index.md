@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lb6b28o20lb3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbrw/">WBRW</a></nav>
 Its design is pattern [WBRW](/stripes/wbrw/) — the page of every tartan sharing this colour sequence.
 
 The **Prince of Orange** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Prince of Orange** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb6b28o20lb3/">Prince of Orange</a></td><td><code>LB/12 B56 O40 LB/6</code></td><td>210</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb6b28o20lb3/"><img src="/variants/s4/lb6b28o20lb3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/lb6b28o20lb3~x2/">Prince of Orange</a></td><td><code>LB/12 B56 O40 LB/6</code></td><td>210</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/lb6b28o20lb3~x2/"><img src="/variants/s4/lb6b28o20lb3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db6b25o16k2db3~x2/"><circle cx="284.7" cy="207.3" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s5/r1o8r2db8lb1~x2/"><circle cx="245.5" cy="231.4" r="4" fill="#3465a4"><title>Unamed, Riding cloak 1745</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="344.2" cy="253.7" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="293.6" cy="216.0" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><circle cx="295.6" cy="303.7" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/variants/s7/r2b1db8b8o8b1o1~x2/"><circle cx="227.6" cy="238.5" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="313.2" cy="254.0" r="4" fill="#3465a4"><title>Fong</title></circle></a><a href="/variants/s6/w1dp1o7n4o1w1~x4~o2500000-n1900000/"><circle cx="324.7" cy="244.6" r="4" fill="#3465a4"><title>Lochnagar</title></circle></a><circle cx="362.3" cy="288.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db6b25o16k2db3~x2/"><circle cx="285.3" cy="207.3" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s5/r1o8r2db8lb1~x2/"><circle cx="245.8" cy="231.4" r="4" fill="#3465a4"><title>Unamed, Riding cloak 1745</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="344.8" cy="253.8" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="294.0" cy="216.0" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><circle cx="295.7" cy="303.7" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/variants/s7/r2b1db8b8o8b1o1~x2/"><circle cx="227.8" cy="238.4" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="313.6" cy="254.1" r="4" fill="#3465a4"><title>Fong</title></circle></a><a href="/variants/s6/w1dp1o7n4o1w1~x4~o2500000-n1900000/"><circle cx="325.0" cy="244.6" r="4" fill="#3465a4"><title>Lochnagar</title></circle></a><circle cx="362.6" cy="288.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

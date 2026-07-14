@@ -10,10 +10,10 @@ crumbs:
 - name: "Thomas Blake Glover"
   url: "/tartans/t/th/thomas-blake-glover/"
 - name: "Thomas Blake Glover Corporate Tartan"
-  url: "/setts/dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1db2dr16db4dr6db8dr16ly6dr16ly6dr16db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1db2dr16db4dr6db8dr16ly6dr16ly6dr16db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thomas-blake-glover/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBYBBBBBBYBBBBBBYBYB](/stripes/bbybybbbbbbybbbbbbybyb/).
 
 Part of the [Thomas Blake Glover](/tartans/t/th/thomas-blake-glover/) tartan — the named design grouping this sett with its other cloths.

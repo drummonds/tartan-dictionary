@@ -12,10 +12,10 @@ crumbs:
 - name: "Murray of Tullibardine"
   url: "/tartans/m/mu/murray-of-tullibardine/"
 - name: "Murray of Tullibardine"
-  url: "/setts/db4r2db2r3db12r3db2r2k5r2db2r22db26r6g6r22g23r14db8r7k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4r2db2r3db12r3db2r2k5r2db2r22db26r6g6r22g23r14db8r7k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murray-of-tullibardine/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/).
 
 Part of the [Murray of Tullibardine](/tartans/m/mu/murray-of-tullibardine/) tartan — the named design grouping this sett with its other cloths.

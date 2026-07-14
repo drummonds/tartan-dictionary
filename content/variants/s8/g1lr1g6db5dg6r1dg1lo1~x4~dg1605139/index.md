@@ -11,11 +11,11 @@ crumbs:
   url: "/families/vermont/"
 - name: "Vermont"
   url: "/tartans/v/ve/vermont-2/"
-- name: "Vermont"
-  url: "/setts/g1lr1g6db5dg6r1dg1lo1/"
+- name: "Vermont District USA Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g1lr1g6db5dg6r1dg1lo1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/ve/vermont-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGBGRGY](/stripes/gygbgrgy/).
 
 Part of the [Vermont](/tartans/v/ve/vermont-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r1w1db8lb12y1lb1k2w3k6db1lb1y1lb1db1w1r1~x6/">Buchanan, John &amp; Isabella</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r1w1db8lb12y1lb1k2w3k6db1lb1y1lb1db1w1r1~x6/"><img src="/variants/s16/r1w1db8lb12y1lb1k2w3k6db1lb1y1lb1db1w1r1~x6/sett.png" alt="Buchanan, John &amp; Isabella sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buchanan-john-isabella-2/">Buchanan, John &amp; Isabella</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buchanan-john-isabella-2/"><img src="/variants/s16/r1w1db8lb12y1lb1k2w3k6db1lb1y1lb1db1w1r1~x6/sett.png" alt="Buchanan, John &amp; Isabella sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

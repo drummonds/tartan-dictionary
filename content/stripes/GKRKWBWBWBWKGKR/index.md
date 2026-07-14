@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6/">Oromocto</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6/"><img src="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000/sett.png" alt="Oromocto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/oromocto/">Oromocto</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/oromocto/"><img src="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000/sett.png" alt="Oromocto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

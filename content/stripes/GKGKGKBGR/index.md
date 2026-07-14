@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/">Trades House</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><img src="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/sett.png" alt="Trades House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/trades-house/">Trades House</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/trades-house/"><img src="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/sett.png" alt="Trades House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

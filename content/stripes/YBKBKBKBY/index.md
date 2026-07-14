@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/ly1t12k6db1k1db1k1db6ly1~x4/">Elgin City Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/ly1t12k6db1k1db1k1db6ly1~x4/"><img src="/variants/s9/ly1t12k6db1k1db1k1db6ly1~x4/sett.png" alt="Elgin City Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elgin-city-band/">Elgin City Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elgin-city-band/"><img src="/variants/s9/ly1t12k6db1k1db1k1db6ly1~x4/sett.png" alt="Elgin City Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

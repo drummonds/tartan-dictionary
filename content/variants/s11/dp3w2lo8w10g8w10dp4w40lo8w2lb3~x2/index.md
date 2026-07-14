@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Scarlett"
-  url: "/tartans/u/un/unidentified-scarlett-14/"
+  url: "/tartans/u/un/unidentified-scarlett-8/"
 - name: "Unidentified Scarlett #4"
-  url: "/setts/dp3w2lo8w10g8w10dp4w40lo8w2lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3w2lo8w10g8w10dp4w40lo8w2lb3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWYWGWBWYWWWYWBWGWYW](/stripes/bwywgwbwywwwywbwgwyw/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-scarlett-8/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWYWGWBWYWW](/stripes/bwywgwbwyww/).
 
-Part of the [Unidentified Scarlett](/tartans/u/un/unidentified-scarlett-14/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Scarlett](/tartans/u/un/unidentified-scarlett-8/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4377](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4377)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6323
 
 ## Thread count
-DP/6 W4 LO16 W20 G16 W20 DP8 W80 LO16 W4 LB6 W4 LO16 W80 DP8 W20 G16 W20 LO16 W/4
+DP/6 W4 LO16 W20 G16 W20 DP8 W80 LO16 W4 LB/6
 
-One full sett is **750 threads**.
+One full sett is **380 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/6 W4 LO16 W20 G16 W20 DP8 W80 LO16 W4 LB6 W4 LO16 W80 DP8 W20 G16 W20 LO16 W/4 — 750 threads; it folds to the canonical 380-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,6 +57,6 @@ One full sett is **750 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/6 W4 LO16 W20 G16 W20 DP8 W80 LO16 W4 LB6 W4 LO16 W80 DP8 W20 G16 W20 LO16 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/6 W4 LO16 W20 G16 W20 DP8 W80 LO16 W4 LB/6 tartan" width="880" height="480">
 
 ID: /variants/s11/dp3w2lo8w10g8w10dp4w40lo8w2lb3~x2/

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/">Junor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><img src="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/sett.png" alt="Junor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ju/junor-3/">Junor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ju/junor-3/"><img src="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/sett.png" alt="Junor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Bahrain, Royal"
   url: "/tartans/b/ba/bahrain-royal/"
 - name: "Bahrain, Royal"
-  url: "/setts/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/bahrain-royal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRBRBGWGRWRW](/stripes/brbrbrbrbrbgwgrwrw/).
 
 Part of the [Bahrain, Royal](/tartans/b/ba/bahrain-royal/) tartan — the named design grouping this sett with its other cloths.

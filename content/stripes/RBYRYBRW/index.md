@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/">Snowbird</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/"><img src="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/sett.png" alt="Snowbird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sn/snowbird/">Snowbird</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sn/snowbird/"><img src="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/sett.png" alt="Snowbird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

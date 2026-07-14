@@ -8,11 +8,11 @@ crumbs:
 - name: "Unnamed C18th"
   url: "/tartans/u/un/unnamed-c18th-2/"
 - name: "Unnamed C18th - Cant Counts"
-  url: "/setts/db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1/"
+  url: ""
 slug_full: "db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1~x2~ri2806019-r2109032"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10lb3w1ri6r12w1r12ri6w1lb3db10r6w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1lb3db10lb3w1dg10y6w1lb2w1lb2w1y6dg10w1r6db10lb3w1ri6r12w1r12ri6w1lb3db10r6ri5w1dg10y6w1lb2w1lb2w1y6dg10w1lb3db10lb3w1ri5r6w1r6ri5w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unnamed-c18th-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWRRWRRWWBRWGGWWWWWGGWWBWWRRWRRWWBWWGGWWWWWGGWRBWWRRWRRWWBRRWGGWWWWWGGWWBWWRRWRRW](/stripes/bwwrrwrrwwbrwggwwwwwggwwbwwrrwrrwwbwwggwwwwwggwrbwwrrwrrwwbrrwggwwwwwggwwbwwrrwrrw/).
 
 Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-2/) tartan — the named design grouping this sett with its other cloths.

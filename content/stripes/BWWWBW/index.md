@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db5lb5w1lb5db5lb1~x4/">Manx Cornaa (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db5lb5w1lb5db5lb1~x4/"><img src="/variants/s6/db5lb5w1lb5db5lb1~x4/sett.png" alt="Manx Cornaa (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-cornaa/">Manx Cornaa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-cornaa/"><img src="/variants/s6/db5lb5w1lb5db5lb1~x4/sett.png" alt="Manx Cornaa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

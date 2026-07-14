@@ -10,10 +10,10 @@ crumbs:
 - name: "Stewart Dress MINI"
   url: "/tartans/s/st/stewart-dress-mini/"
 - name: "Stewart Dress MINI Tartan"
-  url: "/setts/w15db2k3y1k1w1k1g3r4k1r1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w15db2k3y1k1w1k1g3r4k1r1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-dress-mini/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKGKWKGRKRW](/stripes/wbkgkwkgrkrw/).
 
 Part of the [Stewart Dress MINI](/tartans/s/st/stewart-dress-mini/) tartan — the named design grouping this sett with its other cloths.

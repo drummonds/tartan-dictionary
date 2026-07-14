@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/">MacDonald of Denovan Htg (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/"><img src="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/sett.png" alt="MacDonald of Denovan Htg (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-denovan-2/">MacDonald of Denovan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-denovan-2/"><img src="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/sett.png" alt="MacDonald of Denovan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

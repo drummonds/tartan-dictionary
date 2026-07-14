@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/">State Seal of Iowa (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><img src="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/sett.png" alt="State Seal of Iowa (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-iowa/">State Seal of Iowa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-iowa/"><img src="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/sett.png" alt="State Seal of Iowa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

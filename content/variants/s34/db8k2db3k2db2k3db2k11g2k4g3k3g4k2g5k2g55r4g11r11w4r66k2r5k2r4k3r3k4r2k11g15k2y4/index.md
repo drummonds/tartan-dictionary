@@ -8,10 +8,10 @@ crumbs:
 - name: "Paisley Fancy Reduced"
   url: "/tartans/p/pa/paisley-fancy-reduced/"
 - name: "Paisley Fancy Reduced"
-  url: "/setts/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/paisley-fancy-reduced/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKG](/stripes/bkbkbkbkgkgkgkgkgrgrwrkrkrkrkrkgkg/).
 
 Part of the [Paisley Fancy Reduced](/tartans/p/pa/paisley-fancy-reduced/) tartan — the named design grouping this sett with its other cloths.

@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/macnab/"
 - name: "MacNab"
   url: "/families/macnab/"
+aliases:
+- "/setts/g15r3dp11lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grbw/">GRBW</a></nav>
 A tartan of the [MacNab](/families/macnab/) family.
 Its design is pattern [GRBW](/stripes/grbw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacNab 7** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g15r3dp11lb2/">MacNab 7</a></td><td><code>G/30 R6 DP22 LB/4</code></td><td>90</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g15r3dp11lb2/"><img src="/variants/s4/g15r3dp11lb2~x2/sett.png" alt="MacNab 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/g15r3dp11lb2~x2/">MacNab 7</a></td><td><code>G/30 R6 DP22 LB/4</code></td><td>90</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/g15r3dp11lb2~x2/"><img src="/variants/s4/g15r3dp11lb2~x2/sett.png" alt="MacNab 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/dp5g6y1~x4/"><circle cx="324.9" cy="325.7" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.2" cy="228.9" r="4" fill="#3465a4"><title>ChuMac</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="150.1" cy="219.8" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="152.2" cy="216.7" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="137.8" cy="224.0" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="352.5" cy="223.0" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><circle cx="350.4" cy="221.2" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/"><circle cx="372.5" cy="230.5" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/variants/s5/dp19w2g12lb3k4~x2/"><circle cx="200.2" cy="188.7" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="273.9" cy="261.5" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><circle cx="263.7" cy="255.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/dp5g6y1~x4/"><circle cx="325.2" cy="325.9" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.5" cy="228.8" r="4" fill="#3465a4"><title>ChuMac</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="150.3" cy="219.6" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="152.5" cy="216.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="137.9" cy="223.7" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="353.1" cy="223.2" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><circle cx="351.0" cy="221.4" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/"><circle cx="373.1" cy="230.7" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/variants/s5/dp19w2g12lb3k4~x2/"><circle cx="200.7" cy="188.6" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="274.2" cy="261.5" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><circle cx="264.0" cy="255.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

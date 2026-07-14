@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/">Unidentified, Fragment</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/"><img src="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/sett.png" alt="Unidentified, Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-fragment-3/">Unidentified, Fragment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-fragment-3/"><img src="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/sett.png" alt="Unidentified, Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

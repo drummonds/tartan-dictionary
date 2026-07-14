@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/">Caledonian (WCWM)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/"><img src="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/sett.png" alt="Caledonian (WCWM) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledonian-2/">Caledonian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-2/"><img src="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

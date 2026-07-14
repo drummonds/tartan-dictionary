@@ -8,10 +8,10 @@ crumbs:
 - name: "Tom Morris"
   url: "/tartans/t/to/tom-morris/"
 - name: "Tom Morris (Official)"
-  url: "/setts/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/tom-morris/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWBWGWBWBW](/stripes/wbwbwbwgwbwbw/).
 
 Part of the [Tom Morris](/tartans/t/to/tom-morris/) tartan — the named design grouping this sett with its other cloths.

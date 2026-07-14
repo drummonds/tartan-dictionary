@@ -8,10 +8,10 @@ crumbs:
 - name: "Baluch Regiment"
   url: "/tartans/b/ba/baluch-regiment-2/"
 - name: "Baluch Regiment"
-  url: "/setts/r4g24r6g4r4g6r44g1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4g24r6g4r4g6r44g1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/baluch-regiment-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRGRGW](/stripes/rgrgrgrgw/).
 
 Part of the [Baluch Regiment](/tartans/b/ba/baluch-regiment-2/) tartan — the named design grouping this sett with its other cloths.

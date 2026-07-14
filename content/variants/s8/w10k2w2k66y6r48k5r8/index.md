@@ -10,15 +10,15 @@ crumbs:
 - name: "Sutherland de Albergaria"
   url: "/tartans/s/su/sutherland-de-albergaria/"
 - name: "Sutherland de Albergaria (Personal)"
-  url: "/setts/w10k2w2k66y6r48k5r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w10k2w2k66y6r48k5r8/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKGRKRKRGKWKW](/stripes/kwkgrkrkrgkwkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/su/sutherland-de-albergaria/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKRGKWKW](/stripes/rkrgkwkw/).
 
 Part of the [Sutherland de Albergaria](/tartans/s/su/sutherland-de-albergaria/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4045](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4045)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4045](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Sutherland de Albergaria (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4045">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A personal tartan for the family of Stepehen de Albergaria and his family - said to have close Scottish and Portugese connections. Family coat of arms was granted by the Spanish King of Arms 7 November 2002 and matriculated in the Court of the Lord Lyon 24 March 2003. Motto:- En Avant Sans Peur.</em></li>
-<li>pre 2004 — Sutherland de Albergaria (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6233">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A personal tartan for the family of Stepehen de Albergaria and his family - said to have close Scottish and Portugese connections. Family coat of arms was granted by the Spanish King of Arms 7 November 2002 and matriculated in the Court of the Lord Lyon 24 March 2003. Motto:- En Avant Sans Peur.</em></li>
+<li>pre 2004 — Sutherland de Albergaria (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6233/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A personal tartan for the family of Stepehen de Albergaria and his family - said to have close Scottish and Portugese connections. Family coat of arms was granted by the Spanish King of Arms 7 November 2002 and matriculated in the Court of the Lord Lyon 24 March 2003. Motto:- En Avant Sans Peur.</em></li>
 </ul>
 </details>
 
@@ -54,9 +54,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6233
 
 ## Thread count
-W/10 K2 W2 K66 Y6 R48 K5 R8 K5 R48 Y6 K66 W2 K/2
+W/10 K2 W2 K66 Y6 R48 K5 R/8
 
-One full sett is **540 threads**.
+One full sett is **276 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/10 K2 W2 K66 Y6 R48 K5 R8 K5 R48 Y6 K66 W2 K/2 — 540 threads; it folds to the canonical 276-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -65,7 +67,7 @@ One full sett is **540 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/10 K2 W2 K66 Y6 R48 K5 R8 K5 R48 Y6 K66 W2 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/10 K2 W2 K66 Y6 R48 K5 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

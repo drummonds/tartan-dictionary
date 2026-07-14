@@ -12,10 +12,10 @@ crumbs:
 - name: "Inverary"
   url: "/tartans/i/in/inverary-2/"
 - name: "Inverary Clan Tartan"
-  url: "/setts/dg10k1db13k3w9y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg10k1db13k3w9y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/inverary-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKWG](/stripes/gkbkwg/).
 
 Part of the [Inverary](/tartans/i/in/inverary-2/) tartan — the named design grouping this sett with its other cloths.

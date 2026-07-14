@@ -11,11 +11,11 @@ crumbs:
   url: "/families/reid/"
 - name: "Reid"
   url: "/tartans/r/re/reid-4/"
-- name: "Reid, Green"
-  url: "/setts/w1r2g10r2g2k8g2db8g2r2g10r2w1/"
+- name: "Reid Family Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w1r2g10r2g2k8g2db8g2r2g10r2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/reid-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRGRGBGKGRGRW](/stripes/wrgrgbgkgrgrw/).
 
 Part of the [Reid](/tartans/r/re/reid-4/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Daly"
   url: "/tartans/d/da/daly/"
 - name: "Daly (2016)"
-  url: "/setts/k5r3k24dg13k3db3k3db11k6dg3k3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5r3k24dg13k3db3k3db11k6dg3k3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/da/daly/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKBKBKGKR](/stripes/krkgkbkbkgkr/).
 
 Part of the [Daly](/tartans/d/da/daly/) tartan — the named design grouping this sett with its other cloths.

@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/lb6b28o20lb3~x2/">Prince of Orange</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lb6b28o20lb3~x2/"><img src="/variants/s4/lb6b28o20lb3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/prince-of-orange-2/">Prince of Orange</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-of-orange-2/"><img src="/variants/s4/lb6b28o20lb3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/w14t5r1lb1~x8/">Triplett, Jack Arnold</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w14t5r1lb1~x8/"><img src="/variants/s4/w14t5r1lb1~x8/sett.png" alt="Triplett, Jack Arnold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tr/triplett-jack-arnold/">Triplett, Jack Arnold</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tr/triplett-jack-arnold/"><img src="/variants/s4/w14t5r1lb1~x8/sett.png" alt="Triplett, Jack Arnold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

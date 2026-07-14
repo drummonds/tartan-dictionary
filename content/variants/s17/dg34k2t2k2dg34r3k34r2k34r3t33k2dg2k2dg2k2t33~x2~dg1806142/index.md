@@ -12,15 +12,15 @@ crumbs:
 - name: "Stewart of Bute"
   url: "/tartans/s/st/stewart-of-bute/"
 - name: "Stewart of Bute"
-  url: "/setts/dg34k2t2k2dg34r3k34r2k34r3t33k2dg2k2dg2k2t33/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg34k2t2k2dg34r3k34r2k34r3t33k2dg2k2dg2k2t33/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKGKGKBRKRKRGKBKGKBKGRKRKRBKGKGK](/stripes/bkgkgkbrkrkrgkbkgkbkgrkrkrbkgkgk/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-of-bute/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGKGKBRKRKRGKBKG](/stripes/bkgkgkbrkrkrgkbkg/).
 
 Part of the [Stewart of Bute](/tartans/s/st/stewart-of-bute/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3937](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3937)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5989
 
 ## Thread count
-T/66 K4 DG4 K4 DG4 K4 T66 R6 K68 R4 K68 R6 DG68 K4 T4 K4 DG68 K4 T4 K4 DG68 R6 K68 R4 K68 R6 T66 K4 DG4 K4 DG4 K/4
+DG/68 K4 T4 K4 DG68 R6 K68 R4 K68 R6 T66 K4 DG4 K4 DG4 K4 T/66
 
-One full sett is **1470 threads**.
+One full sett is **770 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/66 K4 DG4 K4 DG4 K4 T66 R6 K68 R4 K68 R6 DG68 K4 T4 K4 DG68 K4 T4 K4 DG68 R6 K68 R4 K68 R6 T66 K4 DG4 K4 DG4 K/4 — 1470 threads; it folds to the canonical 770-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **1470 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/66 K4 DG4 K4 DG4 K4 T66 R6 K68 R4 K68 R6 DG68 K4 T4 K4 DG68 K4 T4 K4 DG68 R6 K68 R4 K68 R6 T66 K4 DG4 K4 DG4 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/68 K4 T4 K4 DG68 R6 K68 R4 K68 R6 T66 K4 DG4 K4 DG4 K4 T/66 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

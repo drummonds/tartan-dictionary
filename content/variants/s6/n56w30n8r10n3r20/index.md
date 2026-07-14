@@ -8,10 +8,10 @@ crumbs:
 - name: "Walsh, Michael Edward"
   url: "/tartans/w/wa/walsh-michael-edward/"
 - name: "Walsh, Michael Edward (Personal)"
-  url: "/setts/n56w30n8r10n3r20/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n56w30n8r10n3r20/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wa/walsh-michael-edward/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRBR](/stripes/bwbrbr/).
 
 Part of the [Walsh, Michael Edward](/tartans/w/wa/walsh-michael-edward/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11204](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2015 — Walsh, Michael Edward (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11204">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A0A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #A0A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed as a personal family tartan and to celebrate the 10th wedding anniversary of Michael Edward Walsh and Eliza Pui-wah Walsh in Edinburgh, Scotland.</em></li>
-<li>2015 — Walsh, Michael Edward (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11204">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed as a personal family tartan and to celebrate the 10th wedding anniversary of Michael Edward Walsh and Eliza Pui-wah Walsh in Edinburgh, Scotland.</em></li>
+<li>2015 — Walsh, Michael Edward (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11204/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed as a personal family tartan and to celebrate the 10th wedding anniversary of Michael Edward Walsh and Eliza Pui-wah Walsh in Edinburgh, Scotland.</em></li>
 </ul>
 </details>
 

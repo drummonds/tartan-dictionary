@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r32w4db7ly2lb2~x5/">Sildesalaten</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r32w4db7ly2lb2~x5/"><img src="/variants/s5/r32w4db7ly2lb2~x5/sett.png" alt="Sildesalaten sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sildesalaten/">Sildesalaten</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sildesalaten/"><img src="/variants/s5/r32w4db7ly2lb2~x5/sett.png" alt="Sildesalaten sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

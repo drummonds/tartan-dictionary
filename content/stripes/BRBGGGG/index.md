@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g5y5g5y35dr44r3dr3/">Fernandes (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g5y5g5y35dr44r3dr3/"><img src="/variants/s7/g5y5g5y35dr44r3dr3~x2/sett.png" alt="Fernandes (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fernandes/">Fernandes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fernandes/"><img src="/variants/s7/g5y5g5y35dr44r3dr3~x2/sett.png" alt="Fernandes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

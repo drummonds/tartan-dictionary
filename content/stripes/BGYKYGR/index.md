@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db27g5ly8k20ly3g15r3~x2/">Nelson Mandela (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db27g5ly8k20ly3g15r3~x2/"><img src="/variants/s7/db27g5ly8k20ly3g15r3~x2/sett.png" alt="Nelson Mandela (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/nelson-mandela/">Nelson Mandela</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/nelson-mandela/"><img src="/variants/s7/db27g5ly8k20ly3g15r3~x2/sett.png" alt="Nelson Mandela sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

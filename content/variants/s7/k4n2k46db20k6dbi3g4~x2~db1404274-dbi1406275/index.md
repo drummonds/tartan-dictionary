@@ -8,15 +8,15 @@ crumbs:
 - name: "Silver Thistle"
   url: "/tartans/s/si/silver-thistle/"
 - name: "Silver Thistle"
-  url: "/setts/k4n2k46db20k6dbi3g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4n2k46db20k6dbi3g4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBG](/stripes/bkbkbkbkbkbg/).
+provenance below. It is one weaving of the [sett](/tartans/s/si/silver-thistle/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKBKBK](/stripes/gbkbkbk/).
 
 Part of the [Silver Thistle](/tartans/s/si/silver-thistle/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3789](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3789)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3789](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/06/2005 — Silver Thistle (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3789">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#303070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OX #303070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Design by Claire Donaldson of The House of Edgar for The Kilt Centre in Hamilton.</em></li>
-<li>2005 June — Silver Thistle (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6686">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#303070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OX #303070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Design by Claire Donaldson of The House of Edgar for The Kilt Centre in Hamilton.</em></li>
+<li>2005 June — Silver Thistle (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6686/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#303070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OX #303070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Design by Claire Donaldson of The House of Edgar for The Kilt Centre in Hamilton.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6686
 
 ## Thread count
-G/8 DBi6 K12 DB40 K92 N4 K8 N4 K92 DB40 K12 DBi/6
+K/8 N4 K92 DB40 K12 DBi6 G/8
 
-One full sett is **634 threads**.
+One full sett is **324 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/8 DBi6 K12 DB40 K92 N4 K8 N4 K92 DB40 K12 DBi/6 — 634 threads; it folds to the canonical 324-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **634 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/8 DBi6 K12 DB40 K92 N4 K8 N4 K92 DB40 K12 DBi/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 N4 K92 DB40 K12 DBi6 G/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

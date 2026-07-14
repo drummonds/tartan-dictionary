@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/">Scottish Bakers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/"><img src="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/sett.png" alt="Scottish Bakers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-bakers/">Scottish Bakers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-bakers/"><img src="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/sett.png" alt="Scottish Bakers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

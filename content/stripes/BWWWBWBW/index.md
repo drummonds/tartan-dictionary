@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db2lb2w11lb5n5w2db1lb2~x2/">Conquergood Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db2lb2w11lb5n5w2db1lb2~x2/"><img src="/variants/s8/db2lb2w11lb5n5w2db1lb2~x2/sett.png" alt="Conquergood Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/conquergood-2/">Conquergood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/conquergood-2/"><img src="/variants/s8/db2lb2w11lb5n5w2db1lb2~x2/sett.png" alt="Conquergood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

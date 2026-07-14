@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1~x2/">Angotta</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1~x2/"><img src="/variants/s13/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1~x2/sett.png" alt="Angotta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/angotta/">Angotta</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/angotta/"><img src="/variants/s13/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1~x2/sett.png" alt="Angotta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

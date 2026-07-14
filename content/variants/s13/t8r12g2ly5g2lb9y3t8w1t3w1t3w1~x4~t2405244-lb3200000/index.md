@@ -8,10 +8,10 @@ crumbs:
 - name: "Saint Joseph de Sorel"
   url: "/tartans/s/sa/saint-joseph-de-sorel/"
 - name: "Saint Joseph de Sorel #2"
-  url: "/setts/t8r12g2ly5g2lb9y3t8w1t3w1t3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t8r12g2ly5g2lb9y3t8w1t3w1t3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/saint-joseph-de-sorel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGYGWGBWBWBW](/stripes/brgygwgbwbwbw/).
 
 Part of the [Saint Joseph de Sorel](/tartans/s/sa/saint-joseph-de-sorel/) tartan — the named design grouping this sett with its other cloths.

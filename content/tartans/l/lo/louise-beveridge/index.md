@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Louise"
   url: "/clan/louise/"
+aliases:
+- "/setts/lb40w25db16lb8db4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbww/">BWBWW</a></nav>
 A tartan of [Clan Louise](/clan/louise/).
 Its design is pattern [BWBWW](/stripes/bwbww/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Louise Beveridge** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb40w25db16lb8db4/">Louise Beveridge</a></td><td><code>LB/80 W50 DB32 LB16 DB/8</code></td><td>284</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb40w25db16lb8db4/"><img src="/variants/s5/lb40w25db16lb8db4~x2/sett.png" alt="Louise Beveridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/lb40w25db16lb8db4~x2/">Louise Beveridge</a></td><td><code>LB/80 W50 DB32 LB16 DB/8</code></td><td>284</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/lb40w25db16lb8db4~x2/"><img src="/variants/s5/lb40w25db16lb8db4~x2/sett.png" alt="Louise Beveridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="397.0" cy="246.3" r="4" fill="#3465a4"><title>Gallaecia</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.1" cy="236.1" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="453.0" cy="249.8" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.4" cy="224.9" r="4" fill="#3465a4"><title>Wallace Blue Dress</title></circle></a><a href="/variants/s5/db2w2b8db8w1~x2/"><circle cx="318.5" cy="282.5" r="4" fill="#3465a4"><title>Laval</title></circle></a><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="387.9" cy="204.6" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s6/db5lb5w1lb5db5lb1~x4/"><circle cx="297.0" cy="313.4" r="4" fill="#3465a4"><title>Manx Cornaa</title></circle></a><a href="/variants/s4/b1db5b5w1~x4/"><circle cx="348.9" cy="325.1" r="4" fill="#3465a4"><title>Manx, Cornaa</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.7" cy="285.4" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s5/w2g29lb12db29lb2~x2/"><circle cx="261.7" cy="238.8" r="4" fill="#3465a4"><title>Wallace</title></circle></a><circle cx="325.6" cy="283.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="397.7" cy="246.4" r="4" fill="#3465a4"><title>Gallaecia</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.5" cy="236.1" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="453.5" cy="250.0" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.6" cy="224.7" r="4" fill="#3465a4"><title>Wallace Blue Dress</title></circle></a><a href="/variants/s5/db2w2b8db8w1~x2/"><circle cx="318.9" cy="282.6" r="4" fill="#3465a4"><title>Laval</title></circle></a><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="388.6" cy="204.7" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s6/db5lb5w1lb5db5lb1~x4/"><circle cx="297.2" cy="313.4" r="4" fill="#3465a4"><title>Manx Cornaa</title></circle></a><a href="/variants/s4/b1db5b5w1~x4/"><circle cx="349.2" cy="325.2" r="4" fill="#3465a4"><title>Manx, Cornaa</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="360.1" cy="285.5" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s5/w2g29lb12db29lb2~x2/"><circle cx="261.9" cy="238.7" r="4" fill="#3465a4"><title>Wallace</title></circle></a><circle cx="325.8" cy="283.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

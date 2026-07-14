@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/">Harmon of Plenderleith (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/"><img src="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/sett.png" alt="Harmon of Plenderleith (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harmon-of-plenderleith/">Harmon of Plenderleith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harmon-of-plenderleith/"><img src="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/sett.png" alt="Harmon of Plenderleith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

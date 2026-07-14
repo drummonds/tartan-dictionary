@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/n6r1k6r1g6~x6/">Timespan (MacKay) Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/n6r1k6r1g6~x6/"><img src="/variants/s5/n6r1k6r1g6~x6/sett.png" alt="Timespan (MacKay) Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/timespan/">Timespan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/timespan/"><img src="/variants/s5/n6r1k6r1g6~x6/sett.png" alt="Timespan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

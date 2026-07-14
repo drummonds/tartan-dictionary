@@ -8,10 +8,10 @@ crumbs:
 - name: "Connemarra"
   url: "/tartans/c/co/connemarra/"
 - name: "Connemarra Irish District Tartan"
-  url: "/setts/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/connemarra/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGGBGKGBGGW](/stripes/gwggbgkgbggw/).
 
 Part of the [Connemarra](/tartans/c/co/connemarra/) tartan — the named design grouping this sett with its other cloths.

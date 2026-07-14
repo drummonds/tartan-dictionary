@@ -8,15 +8,15 @@ crumbs:
 - name: "Hyland Evening"
   url: "/tartans/h/hy/hyland-evening/"
 - name: "Hyland Evening (Personal)"
-  url: "/setts/dp3lo2r19o4dpi6k36dpi2lo3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3lo2r19o4dpi6k36dpi2lo3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BYRRBKBYBKBRRY](/stripes/byrrbkbybkbrry/).
+provenance below. It is one weaving of the [sett](/tartans/h/hy/hyland-evening/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYRRBKBY](/stripes/byrrbkby/).
 
 Part of the [Hyland Evening](/tartans/h/hy/hyland-evening/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1805](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1805)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1805](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>28/05/2002 — Hyland Evening (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1805">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #DC943C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B03000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BR #B03000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Erica Randall of House of Edgar for Christopher Hyland of New York. A private family tartan based on the Maxwell Hunting as Mr Hyland's Mother was a 'Kirk'. Recorded Scottish Tartans Authority.</em></li>
-<li>May 2002 — Hyland Evening (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3829">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #DC943C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B03000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BR #B03000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Erica Randall of House of Edgar for Christopher Hyland of New York. A private family tartan based on the Maxwell Hunting as Mr Hyland's Mother was a 'Kirk'. Recorded STA 28th May 2002.</em></li>
+<li>May 2002 — Hyland Evening (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3829/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC943C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AY #DC943C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B03000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BR #B03000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Erica Randall of House of Edgar for Christopher Hyland of New York. A private family tartan based on the Maxwell Hunting as Mr Hyland's Mother was a 'Kirk'. Recorded STA 28th May 2002.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2750
 
 ## Thread count
-DP/6 LO4 R38 O8 DPi12 K72 DPi4 LO6 DPi4 K72 DPi12 O8 R38 LO/4
+DP/6 LO4 R38 O8 DPi12 K72 DPi4 LO/6
 
-One full sett is **566 threads**.
+One full sett is **288 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/6 LO4 R38 O8 DPi12 K72 DPi4 LO6 DPi4 K72 DPi12 O8 R38 LO/4 — 566 threads; it folds to the canonical 288-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **566 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/6 LO4 R38 O8 DPi12 K72 DPi4 LO6 DPi4 K72 DPi12 O8 R38 LO/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/6 LO4 R38 O8 DPi12 K72 DPi4 LO/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

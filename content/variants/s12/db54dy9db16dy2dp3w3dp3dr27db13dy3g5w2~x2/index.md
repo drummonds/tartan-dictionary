@@ -8,10 +8,10 @@ crumbs:
 - name: "Queens University Kingston Ontario"
   url: "/tartans/q/qu/queens-university-kingston-ontario/"
 - name: "Queens University Kingston Ontario"
-  url: "/setts/db54dy9db16dy2dp3w3dp3dr27db13dy3g5w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db54dy9db16dy2dp3w3dp3dr27db13dy3g5w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/q/qu/queens-university-kingston-ontario/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWBBBGGW](/stripes/bgbgbwbbbggw/).
 
 Part of the [Queens University Kingston Ontario](/tartans/q/qu/queens-university-kingston-ontario/) tartan — the named design grouping this sett with its other cloths.

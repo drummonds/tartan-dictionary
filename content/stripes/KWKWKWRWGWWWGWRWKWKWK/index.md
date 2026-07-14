@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/">Emergency Medical Services Memorial Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/"><img src="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/sett.png" alt="Emergency Medical Services Memorial Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/em/emergency-medical-services-memorial/">Emergency Medical Services Memorial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/em/emergency-medical-services-memorial/"><img src="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/sett.png" alt="Emergency Medical Services Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

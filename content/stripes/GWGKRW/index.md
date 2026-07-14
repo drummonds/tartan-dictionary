@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g36lb4g8k29r24w7~x2/">Entre Rios Province (Provisional</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><img src="/variants/s6/g36lb4g8k29r24w7~x2/sett.png" alt="Entre Rios Province (Provisional sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/en/entre-rios-province/">Entre Rios Province</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/en/entre-rios-province/"><img src="/variants/s6/g36lb4g8k29r24w7~x2/sett.png" alt="Entre Rios Province sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

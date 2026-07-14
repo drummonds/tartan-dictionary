@@ -8,10 +8,10 @@ crumbs:
 - name: "Delaware Fine Spirits Guild"
   url: "/tartans/d/de/delaware-fine-spirits-guild/"
 - name: "Delaware Fine Spirits Guild"
-  url: "/setts/k10dg25k10g15y1g5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10dg25k10g15y1g5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/delaware-fine-spirits-guild/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKGK](/stripes/gggkgk/).
 
 Part of the [Delaware Fine Spirits Guild](/tartans/d/de/delaware-fine-spirits-guild/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Innes of Learney Hunting"
   url: "/tartans/i/in/innes-of-learney-hunting/"
 - name: "Innes of Learney Hunting (Personal)"
-  url: "/setts/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/innes-of-learney-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKGYGBGBGKGWGKGBGBGYGKGKGK](/stripes/bkgkgkgygbgbgkgwgkgbgbgygkgkgk/).
 
 Part of the [Innes of Learney Hunting](/tartans/i/in/innes-of-learney-hunting/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/db1k2r1~x42/">Allen, Nicholas (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/db1k2r1~x42/"><img src="/variants/s3/db1k2r1~x42/sett.png" alt="Allen, Nicholas (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/allen-nicholas/">Allen, Nicholas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allen-nicholas/"><img src="/variants/s3/db1k2r1~x42/sett.png" alt="Allen, Nicholas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

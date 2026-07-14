@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/">Frogaletto (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/"><img src="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/sett.png" alt="Frogaletto (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/frogaletto/">Frogaletto</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/frogaletto/"><img src="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/sett.png" alt="Frogaletto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

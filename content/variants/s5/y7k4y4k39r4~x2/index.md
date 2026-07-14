@@ -8,10 +8,10 @@ crumbs:
 - name: "Welsh National"
   url: "/tartans/w/we/welsh-national-3/"
 - name: "Welsh National #3"
-  url: "/setts/y7k4y4k39r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y7k4y4k39r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/welsh-national-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKR](/stripes/gkgkr/).
 
 Part of the [Welsh National](/tartans/w/we/welsh-national-3/) tartan — the named design grouping this sett with its other cloths.

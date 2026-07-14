@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r6w3r17k3r3k25r3~x2/">Bon Accord</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r6w3r17k3r3k25r3~x2/"><img src="/variants/s7/r6w3r17k3r3k25r3~x2/sett.png" alt="Bon Accord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bon-accord-2/">Bon Accord</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bon-accord-2/"><img src="/variants/s7/r6w3r17k3r3k25r3~x2/sett.png" alt="Bon Accord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/r8w4r50k12r4k15o5~x2/">Instakilt, Pink (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r8w4r50k12r4k15o5~x2/"><img src="/variants/s7/r8w4r50k12r4k15o5~x2/sett.png" alt="Instakilt, Pink (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/instakilt-pink/">Instakilt, Pink</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/instakilt-pink/"><img src="/variants/s7/r8w4r50k12r4k15o5~x2/sett.png" alt="Instakilt, Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

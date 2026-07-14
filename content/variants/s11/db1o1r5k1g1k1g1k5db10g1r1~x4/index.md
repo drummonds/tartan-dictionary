@@ -8,10 +8,10 @@ crumbs:
 - name: "Okada, Yayoi"
   url: "/tartans/o/ok/okada-yayoi/"
 - name: "Okada, Yayoi (Personal)"
-  url: "/setts/db1o1r5k1g1k1g1k5db10g1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1o1r5k1g1k1g1k5db10g1r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ok/okada-yayoi/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRRKGKGKBGR](/stripes/brrkgkgkbgr/).
 
 Part of the [Okada, Yayoi](/tartans/o/ok/okada-yayoi/) tartan — the named design grouping this sett with its other cloths.

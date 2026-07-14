@@ -8,10 +8,10 @@ crumbs:
 - name: "Martin's Own"
   url: "/tartans/m/ma/martin-s-own/"
 - name: "Martin's Own"
-  url: "/setts/k10lb1k2lb1k4lb10g1lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10lb1k2lb1k4lb10g1lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/martin-s-own/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWGW](/stripes/kwkwkwgw/).
 
 Part of the [Martin's Own](/tartans/m/ma/martin-s-own/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3433](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Martin's Own (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3433">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>This is the West Point tartan #1130 (original Scottish Tartans Authority reference) with an indigo overdye created by kiltmaker/historian Bob Martin as a personal sett. D C Dalgliesh was the weaver.</em></li>
-<li>2004 — Martin's Own (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6590">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>This is the West Point tartan (#1130) with an indigo overdye created for his own use by kiltmaker/historian Bob Martin . D C Dalgliesh was the weaver. Woven sample.</em></li>
+<li>2004 — Martin's Own (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6590/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>This is the West Point tartan (#1130) with an indigo overdye created for his own use by kiltmaker/historian Bob Martin . D C Dalgliesh was the weaver. Woven sample.</em></li>
 </ul>
 </details>
 

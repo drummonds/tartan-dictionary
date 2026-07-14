@@ -8,10 +8,10 @@ crumbs:
 - name: "Maine State"
   url: "/tartans/m/ma/maine-state/"
 - name: "Maine State District Tartan"
-  url: "/setts/g2r2lb21db2lb2db6lb2db2g33r2lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2r2lb21db2lb2db6lb2db2g33r2lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maine-state/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWBWBWBGRW](/stripes/grwbwbwbgrw/).
 
 Part of the [Maine State](/tartans/m/ma/maine-state/) tartan — the named design grouping this sett with its other cloths.

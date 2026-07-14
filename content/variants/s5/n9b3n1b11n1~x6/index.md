@@ -8,10 +8,10 @@ crumbs:
 - name: "MacCallum HS of Philadelphia"
   url: "/tartans/m/ma/maccallum-hs-of-philadelphia/"
 - name: "MacCallum High School"
-  url: "/setts/n9b3n1b11n1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n9b3n1b11n1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maccallum-hs-of-philadelphia/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBB](/stripes/bbbbb/).
 
 Part of the [MacCallum HS of Philadelphia](/tartans/m/ma/maccallum-hs-of-philadelphia/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2308](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — MacCallum High School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2308">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><br><em>Maccallum High School, Philadelphia USA. The threadcount was taken from a sample in the J Rutledge, Belfast and Edinburgh Collection in the Scottish Tartans Society archive.</em></li>
-<li>pre 2002 — MacCallum HS of Philadelphia (Corp) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1279">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><br><em>From the J. Rutledge Collection, Belfast.</em></li>
+<li>pre 2002 — MacCallum HS of Philadelphia (Corp) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1279/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3850C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #3850C8"></span><br><em>From the J. Rutledge Collection, Belfast.</em></li>
 </ul>
 </details>
 

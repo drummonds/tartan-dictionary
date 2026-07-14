@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r25k1y2k1y2k1r10db18w2db12/"
+- "/setts/r25k1y2k1y2k1r10t18w2t12/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbrkgkgkr/">BWBRKGKGKR</a></nav>
 Its design is pattern [BWBRKGKGKR](/stripes/bwbrkgkgkr/) — the page of every tartan sharing this colour sequence.
 
 The **Richardson** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Richardson** tartan groups 2 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r25k1y2k1y2k1r10db18w2db12/">Richardson</a> ★</td><td><code>R/50 K2 Y4 K2 Y4 K2 R20 DB36 W4 DB/24</code></td><td>222</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r25k1y2k1y2k1r10db18w2db12/"><img src="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/sett.png" alt="Richardson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r25k1y2k1y2k1r10t18w2t12/">(Personal?)</a></td><td><code>R/50 K2 Y4 K2 Y4 K2 R20 T36 W4 T/24</code></td><td>222</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r25k1y2k1y2k1r10t18w2t12/"><img src="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/sett.png" alt="(Personal?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/">Richardson</a> ★</td><td><code>R/50 K2 Y4 K2 Y4 K2 R20 DB36 W4 DB/24</code></td><td>222</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><img src="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/sett.png" alt="Richardson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/">(Personal?)</a></td><td><code>R/50 K2 Y4 K2 Y4 K2 R20 T36 W4 T/24</code></td><td>222</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/"><img src="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/sett.png" alt="(Personal?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="268.1" cy="106.6" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/"><circle cx="219.3" cy="123.6" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="208.6" cy="111.1" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s11/r48k10db12k2r3k2db12k10n10k2y3~x2/"><circle cx="213.0" cy="82.7" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/"><circle cx="234.8" cy="72.0" r="4" fill="#3465a4"><title>Svanholm</title></circle></a><a href="/variants/s9/k4r32db9dp6db2dp3db2dp12w3/"><circle cx="219.9" cy="118.5" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="187.6" cy="95.3" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="201.5" cy="121.8" r="4" fill="#3465a4"><title>Caledon</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="320.7" cy="94.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="262.2" cy="111.8" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><circle cx="260.7" cy="96.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="269.0" cy="106.5" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/"><circle cx="220.0" cy="123.4" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="209.2" cy="110.9" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s11/r48k10db12k2r3k2db12k10n10k2y3~x2/"><circle cx="213.7" cy="82.4" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/"><circle cx="235.6" cy="71.8" r="4" fill="#3465a4"><title>Svanholm</title></circle></a><a href="/variants/s9/k4r32db9dp6db2dp3db2dp12w3/"><circle cx="220.5" cy="118.3" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="188.1" cy="95.0" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="202.2" cy="121.6" r="4" fill="#3465a4"><title>Caledon</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="321.7" cy="94.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="263.0" cy="111.6" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><circle cx="261.5" cy="96.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

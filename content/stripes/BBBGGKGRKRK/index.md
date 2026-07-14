@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k4r1k3r2dy3k12dg10dgi18db3n3db3~x2~dgi1705139/">Blake, William &amp; Agnes (Australia)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k4r1k3r2dy3k12dg10dgi18db3n3db3~x2~dgi1705139/"><img src="/variants/s11/k4r1k3r2dy3k12dg10dgi18db3n3db3~x2~dgi1705139/sett.png" alt="Blake, William &amp; Agnes (Australia) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blake-william-agnes/">Blake, William &amp; Agnes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blake-william-agnes/"><img src="/variants/s11/k4r1k3r2dy3k12dg10dgi18db3n3db3~x2~dgi1705139/sett.png" alt="Blake, William &amp; Agnes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

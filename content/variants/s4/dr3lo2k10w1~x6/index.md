@@ -8,15 +8,15 @@ crumbs:
 - name: "St. Eloi"
   url: "/tartans/s/st/st-eloi/"
 - name: "St. Eloi"
-  url: "/setts/dr3lo2k10w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3lo2k10w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BYKWKY](/stripes/bykwky/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-eloi/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BYKW](/stripes/bykw/).
 
 Part of the [St. Eloi](/tartans/s/st/st-eloi/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3889](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3889)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3889](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1997 — St. Eloi (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3889">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Le tartan de St. Eloi des Ouvriers - French workers' tartan. Thread count tripled for display purposes. Viv Sharp sent a sticker of this tartan in 2006 saying it was a French commercial tartan and had a WWII connection.</em></li>
-<li>pre 1997 — St. Eloi (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5306">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Le tartan de St. Eloi des Ouvriers - French workers' tartan. Thread count tripled for display purposes. Viv Sharp sent a sticker of this tartan in 2006 saying it was a French commercial tartan and had a WWII connection. Viv Sharpe notes: "A modern French tartan based on medieval blue, malleable gold and the red of the forge as a tribute to the manual workers of this world without whom society would founder."</em></li>
+<li>pre 1997 — St. Eloi (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5306/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Le tartan de St. Eloi des Ouvriers - French workers' tartan. Thread count tripled for display purposes. Viv Sharp sent a sticker of this tartan in 2006 saying it was a French commercial tartan and had a WWII connection. Viv Sharpe notes: "A modern French tartan based on medieval blue, malleable gold and the red of the forge as a tribute to the manual workers of this world without whom society would founder."</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5306
 
 ## Thread count
-DR/18 LO12 K60 W6 K60 LO/12
+DR/18 LO12 K60 W/6
 
-One full sett is **306 threads**.
+One full sett is **168 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/18 LO12 K60 W6 K60 LO/12 — 306 threads; it folds to the canonical 168-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **306 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/18 LO12 K60 W6 K60 LO/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/18 LO12 K60 W/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

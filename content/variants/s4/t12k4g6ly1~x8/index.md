@@ -12,15 +12,15 @@ crumbs:
 - name: "Sinclair of Ulbster"
   url: "/tartans/s/si/sinclair-of-ulbster/"
 - name: "Sinclair of Ulbster"
-  url: "/setts/t12k4g6ly1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t12k4g6ly1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKGYGK](/stripes/bkgygk/).
+provenance below. It is one weaving of the [sett](/tartans/s/si/sinclair-of-ulbster/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKGY](/stripes/bkgy/).
 
 Part of the [Sinclair of Ulbster](/tartans/s/si/sinclair-of-ulbster/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3798](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3798)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3798](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1796 — Sinclair of Ulbster (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3798">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><br><em>Peter MacDonald swatch collection, Stone Mountain Games, in 1994. Taken from the trews in Raeburn's 1796 portrait of Sir John Sinclair of Ulbster who is portrayed as a Colonel in the Rothesay and Caithness Fencibles by Sir Henry Raeburn. Sir John is noted for having introduced agricultural innovations such as the Rotation of Crops. Blue lightened to show sett.</em></li>
-<li>1796 — Sinclair of Ulbster (Portrait) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=339">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><br><em>Peter MacDonald swatch collection, Stone Mountain Games, in 1994. Taken from the trews in Raeburn's 1796 portrait of Sir John Sinclair of Ulbster who is portrayed as a Colonel in the Rothesay and Caithness Fencibles by Sir Henry Raeburn. Sir John is noted for having introduced agricultural innovations such as the Rotation of Crops. Blue lightened to show sett.</em></li>
+<li>1796 — Sinclair of Ulbster (Portrait) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/339/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><br><em>Peter MacDonald swatch collection, Stone Mountain Games, in 1994. Taken from the trews in Raeburn's 1796 portrait of Sir John Sinclair of Ulbster who is portrayed as a Colonel in the Rothesay and Caithness Fencibles by Sir Henry Raeburn. Sir John is noted for having introduced agricultural innovations such as the Rotation of Crops. Blue lightened to show sett.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 339
 
 ## Thread count
-T/96 K32 G48 LY8 G48 K/32
+T/96 K32 G48 LY/8
 
-One full sett is **400 threads**.
+One full sett is **264 threads**.
+
+<p class="recorded-note">The source recorded this cloth as T/96 K32 G48 LY8 G48 K/32 — 400 threads; it folds to the canonical 264-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **400 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/96 K32 G48 LY8 G48 K/32 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/96 K32 G48 LY/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

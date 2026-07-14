@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/">Aberdeen (Johnston and Smith)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/"><img src="/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/sett.png" alt="Aberdeen (Johnston and Smith) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/aberdeen-4/">Aberdeen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/aberdeen-4/"><img src="/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/sett.png" alt="Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

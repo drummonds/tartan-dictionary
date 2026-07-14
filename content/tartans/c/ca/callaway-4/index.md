@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/callaway/"
 - name: "Callaway"
   url: "/families/callaway/"
+aliases:
+- "/setts/r2k28n5w12n14r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbwbkr/">RBWBKR</a></nav>
 A tartan of the [Callaway](/families/callaway/) family.
 Its design is pattern [RBWBKR](/stripes/rbwbkr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Callaway** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2k28n5w12n14r2/">Callaway</a></td><td><code>R/4 K56 N10 W24 N28 R/4</code></td><td>244</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2k28n5w12n14r2/"><img src="/variants/s6/r2k28n5w12n14r2~x2/sett.png" alt="Callaway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r2k28n5w12n14r2~x2/">Callaway</a></td><td><code>R/4 K56 N10 W24 N28 R/4</code></td><td>244</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r2k28n5w12n14r2~x2/"><img src="/variants/s6/r2k28n5w12n14r2~x2/sett.png" alt="Callaway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r8k18r6k18t27k2w3~x2/"><circle cx="194.5" cy="165.8" r="4" fill="#3465a4"><title>MacKean</title></circle></a><a href="/variants/s7/r2w8k14dy25w2k2w2~x2/"><circle cx="204.9" cy="148.5" r="4" fill="#3465a4"><title>Merric Dark Camel..</title></circle></a><a href="/variants/s8/r12k2w8k4n16r2k31n2/"><circle cx="208.0" cy="132.3" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/variants/s7/k30w2n4y10w9k3n5~x2/"><circle cx="229.4" cy="141.6" r="4" fill="#3465a4"><title>Virginia Commonwealth University</title></circle></a><a href="/variants/s5/k3w2n27k31o3~x2/"><circle cx="278.0" cy="153.8" r="4" fill="#3465a4"><title>Kelley Oliphint</title></circle></a><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/"><circle cx="194.7" cy="137.3" r="4" fill="#3465a4"><title>Hermitage Academy</title></circle></a><a href="/variants/s8/k4y2k13y1w8n13y2n4~x2/"><circle cx="143.1" cy="167.5" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/lb12g2lb4g2lb4k33g13r4~x2/"><circle cx="199.3" cy="133.7" r="4" fill="#3465a4"><title>Brown of the Southeast</title></circle></a><a href="/variants/s6/r4n41k5w14k18r4~x2/"><circle cx="198.6" cy="168.9" r="4" fill="#3465a4"><title>Downside</title></circle></a><a href="/variants/s6/r10w2k10w10dy35k5~x2/"><circle cx="218.6" cy="150.3" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><circle cx="187.3" cy="158.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r8k18r6k18t27k2w3~x2/"><circle cx="195.2" cy="165.7" r="4" fill="#3465a4"><title>MacKean</title></circle></a><a href="/variants/s7/r2w8k14dy25w2k2w2~x2/"><circle cx="205.5" cy="148.4" r="4" fill="#3465a4"><title>Merric Dark Camel..</title></circle></a><a href="/variants/s8/r12k2w8k4n16r2k31n2/"><circle cx="208.7" cy="132.2" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/variants/s7/k30w2n4y10w9k3n5~x2/"><circle cx="230.2" cy="141.6" r="4" fill="#3465a4"><title>Virginia Commonwealth University</title></circle></a><a href="/variants/s5/k3w2n27k31o3~x2/"><circle cx="278.8" cy="153.9" r="4" fill="#3465a4"><title>Kelley Oliphint</title></circle></a><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/"><circle cx="195.3" cy="137.2" r="4" fill="#3465a4"><title>Hermitage Academy</title></circle></a><a href="/variants/s8/k4y2k13y1w8n13y2n4~x2/"><circle cx="143.5" cy="167.3" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/lb12g2lb4g2lb4k33g13r4~x2/"><circle cx="199.9" cy="133.6" r="4" fill="#3465a4"><title>Brown of the Southeast</title></circle></a><a href="/variants/s6/r4n41k5w14k18r4~x2/"><circle cx="199.2" cy="168.8" r="4" fill="#3465a4"><title>Downside</title></circle></a><a href="/variants/s6/r10w2k10w10dy35k5~x2/"><circle cx="219.3" cy="150.2" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><circle cx="187.9" cy="158.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

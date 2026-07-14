@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/n18o2n10o3n3o3n2o3n3o3n10o2n18o1~x4~n1900000-o2500000/">Hebridean Cairn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/n18o2n10o3n3o3n2o3n3o3n10o2n18o1~x4~n1900000-o2500000/"><img src="/variants/s14/n18o2n10o3n3o3n2o3n3o3n10o2n18o1~x4~n1900000-o2500000/sett.png" alt="Hebridean Cairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebridean-cairn-3/">Hebridean Cairn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebridean-cairn-3/"><img src="/variants/s14/n18o2n10o3n3o3n2o3n3o3n10o2n18o1~x4~n1900000-o2500000/sett.png" alt="Hebridean Cairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

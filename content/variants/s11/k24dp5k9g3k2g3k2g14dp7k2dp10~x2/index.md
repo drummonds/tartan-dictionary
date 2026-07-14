@@ -12,10 +12,10 @@ crumbs:
 - name: "Paxton"
   url: "/tartans/p/pa/paxton-3/"
 - name: "Paxton (Personal)"
-  url: "/setts/k24dp5k9g3k2g3k2g14dp7k2dp10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k24dp5k9g3k2g3k2g14dp7k2dp10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/paxton-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGKGKGKBK](/stripes/bkbgkgkgkbk/).
 
 Part of the [Paxton](/tartans/p/pa/paxton-3/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/">Georgia, State of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><img src="/variants/s8/g36k2g2k2g3k12lb10r20~x2/sett.png" alt="Georgia, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/">Georgia, State of (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/"><img src="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/sett.png" alt="Georgia, State of (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/georgia/">Georgia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/georgia/"><img src="/variants/s8/g36k2g2k2g3k12lb10r20~x2/sett.png" alt="Georgia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/georgia-state-of/">Georgia, State of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/georgia-state-of/"><img src="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/sett.png" alt="Georgia, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "McBrayer Dress"
   url: "/tartans/m/mc/mcbrayer-dress/"
 - name: "McBrayer Dress"
-  url: "/setts/w57k1r12w1g12r14w1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w57k1r12w1g12r14w1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcbrayer-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGWRKW](/stripes/rwrgwrkw/).
 
 Part of the [McBrayer Dress](/tartans/m/mc/mcbrayer-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2301](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1982 — McBrayer Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2301">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F4E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F4E0C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#508844;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #508844"></span><br><em>Woven sample from Madam May McKerrell of Hillhouse, May 2007. This is the old blanket sett adopted for the McBrair family.</em></li>
-<li>1982? — McBrayer Dress (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7205">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F4E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F4E0C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#508844;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #508844"></span><br><em>Designed by tartan doyen Jamie Scarlett MBE for a Mrs McBrayer from Lochmaben (Madam May McKerrell of Hillhouse). This is the old blanket sett adopted for the McBrair family.</em></li>
+<li>1982? — McBrayer Dress (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7205/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F4E0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F4E0C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#508844;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #508844"></span><br><em>Designed by tartan doyen Jamie Scarlett MBE for a Mrs McBrayer from Lochmaben (Madam May McKerrell of Hillhouse). This is the old blanket sett adopted for the McBrair family.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do1400000-o2500000/">Glen and Son, William (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do1400000-o2500000/"><img src="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do1400000-o2500000/sett.png" alt="Glen and Son, William (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-and-son-william/">Glen and Son, William</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-and-son-william/"><img src="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do1400000-o2500000/sett.png" alt="Glen and Son, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

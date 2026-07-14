@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k4m4k19m9k9m19k2m2w3~x2/">McLeod-Bain (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k4m4k19m9k9m19k2m2w3~x2/"><img src="/variants/s9/k4m4k19m9k9m19k2m2w3~x2/sett.png" alt="McLeod-Bain (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/">Pink MacLeod (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/"><img src="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/sett.png" alt="Pink MacLeod (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcleod-bain/">McLeod-Bain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcleod-bain/"><img src="/variants/s9/k4m4k19m9k9m19k2m2w3~x2/sett.png" alt="McLeod-Bain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pink-macleod/">Pink MacLeod</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pink-macleod/"><img src="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/sett.png" alt="Pink MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

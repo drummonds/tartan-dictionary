@@ -8,10 +8,10 @@ crumbs:
 - name: "Unidentified Fisherwife's"
   url: "/tartans/u/un/unidentified-fisherwife-s/"
 - name: "Unidentified Fisherwife's Plaid"
-  url: "/setts/w80lb1r14lb9r24w2r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w80lb1r14lb9r24w2r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-fisherwife-s/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRWW](/stripes/rwrwrww/).
 
 Part of the [Unidentified Fisherwife's](/tartans/u/un/unidentified-fisherwife-s/) tartan — the named design grouping this sett with its other cloths.

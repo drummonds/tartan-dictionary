@@ -12,10 +12,10 @@ crumbs:
 - name: "Tweedside"
   url: "/tartans/t/tw/tweedside/"
 - name: "Tweedside Red"
-  url: "/setts/k18r2k2r5w2r2w2r2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k18r2k2r5w2r2w2r2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tw/tweedside/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRWRWRK](/stripes/krkrwrwrk/).
 
 Part of the [Tweedside](/tartans/t/tw/tweedside/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4169](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1840 — Tweedside Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4169">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Count taken from a fine silk specimen c.1840 which is in a book (Wilson No.4) belonging to the Scottish Tartans Society. Although this tartan - like so many that have a geographical name - is now regarded as a District tartan ('the River Tweed runs through the Scottish Borders) it doubtless started life as a fashion tartan so named by its designers/weavers, Wilsons of Bannockburn.</em></li>
-<li>1840 — Tweedside Red (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1175">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Count taken from a fine silk specimen C.1840 which is in a book (Wilson No.4) belonging to the Scottish Tartans Society. Although this tartan - like so many that have a geographical name - is now regarded as a District tartan ('the River Tweed runs through the Scottish Borders) it doubtless started life as a fashion tartan so named by its designers/weavers, Wilsons of Bannockburn.</em></li>
+<li>1840 — Tweedside Red (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1175/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Count taken from a fine silk specimen C.1840 which is in a book (Wilson No.4) belonging to the Scottish Tartans Society. Although this tartan - like so many that have a geographical name - is now regarded as a District tartan ('the River Tweed runs through the Scottish Borders) it doubtless started life as a fashion tartan so named by its designers/weavers, Wilsons of Bannockburn.</em></li>
 </ul>
 </details>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "MacRurie MacRory"
   url: "/tartans/m/ma/macrurie-macrory/"
 - name: "MacRurie MacRory Tartan"
-  url: "/setts/r10g12r3g12r12g4r5g5r12y4r5g12r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r10g12r3g12r12g4r5g5r12y4r5g12r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macrurie-macrory/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRGRGRGRGR](/stripes/rgrgrgrgrgrgr/).
 
 Part of the [MacRurie MacRory](/tartans/m/ma/macrurie-macrory/) tartan — the named design grouping this sett with its other cloths.

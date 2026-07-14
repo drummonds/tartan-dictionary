@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g9r2g2r2g2r8g11w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgrgrgw/">GRGRGRGW</a></nav>
 Its design is pattern [GRGRGRGW](/stripes/grgrgrgw/) — the page of every tartan sharing this colour sequence.
 
 The **Leeds University** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Leeds University** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g9r2g2r2g2r8g11w2/">Leeds University</a></td><td><code>G/36 R8 G8 R8 G8 R32 G44 W/8</code></td><td>260</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g9r2g2r2g2r8g11w2/"><img src="/variants/s8/g9r2g2r2g2r8g11w2~x4/sett.png" alt="Leeds University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/">Leeds University</a></td><td><code>G/36 R8 G8 R8 G8 R32 G44 W/8</code></td><td>260</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><img src="/variants/s8/g9r2g2r2g2r8g11w2~x4/sett.png" alt="Leeds University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="429.8" cy="217.1" r="4" fill="#3465a4"><title>Leeds, University of</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="352.6" cy="177.8" r="4" fill="#3465a4"><title>Maxwell Hunting</title></circle></a><a href="/variants/s7/g16lo3g14dr16g2dr2g3~x2/"><circle cx="396.7" cy="257.0" r="4" fill="#3465a4"><title>Scott Autumn</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="321.1" cy="222.1" r="4" fill="#3465a4"><title>Burnett of Powis</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="412.5" cy="159.2" r="4" fill="#3465a4"><title>Rothesay Hunting</title></circle></a><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="367.8" cy="193.5" r="4" fill="#3465a4"><title>McGirr David</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="264.6" cy="237.6" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="321.3" cy="210.3" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s6/r2g2r16g15r2g2~x2/"><circle cx="388.7" cy="241.6" r="4" fill="#3465a4"><title>Unidentified NW Highlands</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.6" cy="200.5" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><circle cx="355.7" cy="247.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="430.6" cy="217.4" r="4" fill="#3465a4"><title>Leeds, University of</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="353.5" cy="178.0" r="4" fill="#3465a4"><title>Maxwell Hunting</title></circle></a><a href="/variants/s7/g16lo3g14dr16g2dr2g3~x2/"><circle cx="397.2" cy="257.3" r="4" fill="#3465a4"><title>Scott Autumn</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="321.6" cy="222.2" r="4" fill="#3465a4"><title>Burnett of Powis</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="413.3" cy="159.5" r="4" fill="#3465a4"><title>Rothesay Hunting</title></circle></a><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="368.4" cy="193.7" r="4" fill="#3465a4"><title>McGirr David</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="264.9" cy="237.6" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="321.7" cy="210.3" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s6/r2g2r16g15r2g2~x2/"><circle cx="389.3" cy="241.8" r="4" fill="#3465a4"><title>Unidentified NW Highlands</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="326.2" cy="200.6" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><circle cx="356.2" cy="247.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

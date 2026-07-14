@@ -12,15 +12,15 @@ crumbs:
 - name: "Greenshields"
   url: "/tartans/g/gr/greenshields/"
 - name: "Greenshields (Personal)"
-  url: "/setts/db40lb3db3lb3db3lb4dg8g8n8w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db40lb3db3lb3db3lb4dg8g8n8w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWBWGGBWBGGWBWBW](/stripes/bwbwbwggbwbggwbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/greenshields/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWGGBW](/stripes/bwbwbwggbw/).
 
 Part of the [Greenshields](/tartans/g/gr/greenshields/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1530)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1530](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/2005 — Greenshields (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1530">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>The sett is based on the Isle of Skye tartan with the colour influence of the Douglas tartan - the Greenshields of Lanarkshire were said to be closely associated with the Douglasses.</em></li>
-<li>2005 Feb. — Greenshields, Simon (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6578">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>The sett is based on the Isle of Skye tartan with the colour influence of the Douglas tartan - the Greenshields of Lanarkshire were said to be closely associated with the Douglasses. In the absence of evidence to the contrary this is assumed to be 'Personal.'</em></li>
+<li>2005 Feb. — Greenshields, Simon (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6578/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>The sett is based on the Isle of Skye tartan with the colour influence of the Douglas tartan - the Greenshields of Lanarkshire were said to be closely associated with the Douglasses. In the absence of evidence to the contrary this is assumed to be 'Personal.'</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6578
 
 ## Thread count
-DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W4 N16 G16 DG16 LB8 DB6 LB6 DB6 LB/6
+DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W/4
 
-One full sett is **402 threads**.
+One full sett is **244 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W4 N16 G16 DG16 LB8 DB6 LB6 DB6 LB/6 — 402 threads; it folds to the canonical 244-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **402 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W4 N16 G16 DG16 LB8 DB6 LB6 DB6 LB/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

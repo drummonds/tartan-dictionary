@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/">Hyndman (Omagh)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/"><img src="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/sett.png" alt="Hyndman (Omagh) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hy/hyndman/">Hyndman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hy/hyndman/"><img src="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/sett.png" alt="Hyndman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

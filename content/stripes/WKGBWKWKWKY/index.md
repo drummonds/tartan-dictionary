@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/">Sligo County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/"><img src="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/sett.png" alt="Sligo County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sl/sligo-county-crest/">Sligo County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sl/sligo-county-crest/"><img src="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/sett.png" alt="Sligo County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

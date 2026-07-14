@@ -12,10 +12,10 @@ crumbs:
 - name: "Grahame of Morphie"
   url: "/tartans/g/gr/grahame-of-morphie/"
 - name: "Grahame of Morphie"
-  url: "/setts/k2db12k12dg1t2dg16t2dg1k12db12k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2db12k12dg1t2dg16t2dg1k12db12k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grahame-of-morphie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGBGBGKBK](/stripes/kbkgbgbgkbk/).
 
 Part of the [Grahame of Morphie](/tartans/g/gr/grahame-of-morphie/) tartan — the named design grouping this sett with its other cloths.

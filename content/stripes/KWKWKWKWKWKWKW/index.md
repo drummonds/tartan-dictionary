@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/">Heolbellva ha Materi (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/"><img src="/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/sett.png" alt="Heolbellva ha Materi (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heolbellva-ha-materi/">Heolbellva ha Materi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heolbellva-ha-materi/"><img src="/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/sett.png" alt="Heolbellva ha Materi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

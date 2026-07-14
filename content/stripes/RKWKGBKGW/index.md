@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/">Dean/Dundas (Melbourne, Australia) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><img src="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/sett.png" alt="Dean/Dundas (Melbourne, Australia) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/dean-dundas/">Dean/Dundas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/dean-dundas/"><img src="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/sett.png" alt="Dean/Dundas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

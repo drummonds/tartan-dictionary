@@ -8,10 +8,10 @@ crumbs:
 - name: "Monica"
   url: "/tartans/m/mo/monica/"
 - name: "Monica"
-  url: "/setts/dr3lb10dr3lb4dr20w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3lb10dr3lb4dr20w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/monica/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
 
 Part of the [Monica](/tartans/m/mo/monica/) tartan — the named design grouping this sett with its other cloths.

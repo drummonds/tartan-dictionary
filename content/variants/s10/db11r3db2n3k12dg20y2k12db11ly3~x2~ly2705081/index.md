@@ -11,11 +11,11 @@ crumbs:
   url: "/families/wisconsin/"
 - name: "Wisconsin"
   url: "/tartans/w/wi/wisconsin/"
-- name: "Wisconsin (US State)"
-  url: "/setts/db11r3db2n3k12dg20y2k12db11ly3/"
+- name: "Wisconsin State American District Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11r3db2n3k12dg20y2k12db11ly3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wisconsin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBKGGKBY](/stripes/brbbkggkby/).
 
 Part of the [Wisconsin](/tartans/w/wi/wisconsin/) tartan — the named design grouping this sett with its other cloths.

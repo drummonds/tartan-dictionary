@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/">Powys (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/"><img src="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/sett.png" alt="Powys (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/powys/">Powys</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/powys/"><img src="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/sett.png" alt="Powys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

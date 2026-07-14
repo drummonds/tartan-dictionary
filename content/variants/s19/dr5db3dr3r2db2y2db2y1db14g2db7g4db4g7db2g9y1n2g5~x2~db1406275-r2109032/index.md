@@ -12,15 +12,15 @@ crumbs:
 - name: "Hart of Scotland"
   url: "/tartans/h/ha/hart-of-scotland/"
 - name: "Hart of Scotland"
-  url: "/setts/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBBRBGBGBGBGBGBGGBGBGGBGBGBGBGBGBRBB](/stripes/bbbrbgbgbgbgbgbggbgbggbgbgbgbgbgbrbb/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/hart-of-scotland/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBRBGBGBGBGBGBGGBG](/stripes/bbbrbgbgbgbgbgbggbg/).
 
 Part of the [Hart of Scotland](/tartans/h/ha/hart-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1619](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1619)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2872
 
 ## Thread count
-DR/10 DB6 DR6 R4 DB4 Y4 DB4 Y2 DB28 G4 DB14 G8 DB8 G14 DB4 G18 Y2 N4 G10 N4 Y2 G18 DB4 G14 DB8 G8 DB14 G4 DB28 Y2 DB4 Y4 DB4 R4 DR6 DB/6
+DR/10 DB6 DR6 R4 DB4 Y4 DB4 Y2 DB28 G4 DB14 G8 DB8 G14 DB4 G18 Y2 N4 G/10
 
-One full sett is **560 threads**.
+One full sett is **288 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/10 DB6 DR6 R4 DB4 Y4 DB4 Y2 DB28 G4 DB14 G8 DB8 G14 DB4 G18 Y2 N4 G10 N4 Y2 G18 DB4 G14 DB8 G8 DB14 G4 DB28 Y2 DB4 Y4 DB4 R4 DR6 DB/6 — 560 threads; it folds to the canonical 288-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **560 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/10 DB6 DR6 R4 DB4 Y4 DB4 Y2 DB28 G4 DB14 G8 DB8 G14 DB4 G18 Y2 N4 G10 N4 Y2 G18 DB4 G14 DB8 G8 DB14 G4 DB28 Y2 DB4 Y4 DB4 R4 DR6 DB/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/10 DB6 DR6 R4 DB4 Y4 DB4 Y2 DB28 G4 DB14 G8 DB8 G14 DB4 G18 Y2 N4 G/10 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

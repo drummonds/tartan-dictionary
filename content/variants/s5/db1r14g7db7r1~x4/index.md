@@ -12,22 +12,22 @@ crumbs:
 - name: "Fraser of Boblainy, Hugh"
   url: "/tartans/f/fr/fraser-of-boblainy-hugh/"
 - name: "Fraser of Boblainy, Hugh (Personal)"
-  url: "/setts/db1r14g7db7r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1r14g7db7r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraser-of-boblainy-hugh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBR](/stripes/brgbr/).
 
 Part of the [Fraser of Boblainy, Hugh](/tartans/f/fr/fraser-of-boblainy-hugh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2528)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/2528/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2528/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1805 — Fraser of Boblainy, Hugh (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2528">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Based on research by James D. Scarlett, reference "Tartan Banner", spring 1990, referring to a plaid of Hugh Fraser of Boblainy, last of that line, who inherited estate from a cousin in 1805. JDS took the count from a 'spectacle-shaped' fragment measuring 14ins x 6ins. Tartan Society records have the same count but incorrect graphic. Photo of spectacle-shaped piece in STA archives.</em></li>
+<li>1805 — Fraser of Boblainy, Hugh (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2528/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Based on research by James D. Scarlett, reference "Tartan Banner", spring 1990, referring to a plaid of Hugh Fraser of Boblainy, last of that line, who inherited estate from a cousin in 1805. JDS took the count from a 'spectacle-shaped' fragment measuring 14ins x 6ins. Tartan Society records have the same count but incorrect graphic. Photo of spectacle-shaped piece in STA archives.</em></li>
 <li>undated — Fraser of Boblainy, Hugh (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1263">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C85858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KR #C85858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Based on research by Jamie Scarlett MBE, reference 'Tartan Banner', spring 1990, referring to a plaid of Hugh Fraser of Boblainy, last of that line, who inherited estate from a cousin in 1805. Jamie Scarlett MBE took the count from a 'spectacle-shaped' fragment measuring 14ins x 6ins. Scottish Tartans Society records have the same count but incorrect graphic. Lochcarron sample.</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2528](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

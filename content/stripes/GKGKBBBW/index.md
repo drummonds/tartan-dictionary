@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/">Fujitsu</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/"><img src="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/sett.png" alt="Fujitsu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fu/fujitsu/">Fujitsu</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fu/fujitsu/"><img src="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/sett.png" alt="Fujitsu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

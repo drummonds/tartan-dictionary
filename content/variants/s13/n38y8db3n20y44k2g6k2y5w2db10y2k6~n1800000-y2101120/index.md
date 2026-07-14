@@ -8,10 +8,10 @@ crumbs:
 - name: "Giants Causeway, The"
   url: "/tartans/g/gi/giants-causeway-the/"
 - name: "Giants Causeway, The"
-  url: "/setts/n38y8db3n20y44k2g6k2y5w2db10y2k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n38y8db3n20y44k2g6k2y5w2db10y2k6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gi/giants-causeway-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBGKGKGWBGK](/stripes/bgbbgkgkgwbgk/).
 
 Part of the [Giants Causeway, The](/tartans/g/gi/giants-causeway-the/) tartan — the named design grouping this sett with its other cloths.

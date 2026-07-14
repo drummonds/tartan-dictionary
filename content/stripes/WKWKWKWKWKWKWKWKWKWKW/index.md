@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/w1k2w1k2w1k2w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x4/">Glenurquhart Estate Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/w1k2w1k2w1k2w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x4/"><img src="/variants/s21/w1k2w1k2w1k2w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x4/sett.png" alt="Glenurquhart Estate Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenurquhart/">Glenurquhart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenurquhart/"><img src="/variants/s21/w1k2w1k2w1k2w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x4/sett.png" alt="Glenurquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

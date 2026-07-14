@@ -8,15 +8,15 @@ crumbs:
 - name: "Wilson's No.167"
   url: "/tartans/w/wi/wilson-s-no-167/"
 - name: "Wilson's No.167"
-  url: "/setts/k20lb2k6g16dp4k9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k20lb2k6g16dp4k9/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKGBKBGKW](/stripes/kwkgbkbgkw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilson-s-no-167/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBGKWK](/stripes/kbgkwk/).
 
 Part of the [Wilson's No.167](/tartans/w/wi/wilson-s-no-167/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4708](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4708)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1036
 
 ## Thread count
-K/40 LB4 K12 G32 DP8 K18 DP8 G32 K12 LB/4
+K/40 LB4 K12 G32 DP8 K/18
 
-One full sett is **296 threads**.
+One full sett is **170 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/40 LB4 K12 G32 DP8 K18 DP8 G32 K12 LB/4 — 296 threads; it folds to the canonical 170-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **296 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 LB4 K12 G32 DP8 K18 DP8 G32 K12 LB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 LB4 K12 G32 DP8 K/18 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

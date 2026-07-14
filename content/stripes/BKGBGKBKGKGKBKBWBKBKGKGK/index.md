@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/">Buchanan(Mtd)MacGregor Hastie V. Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/"><img src="/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/sett.png" alt="Buchanan(Mtd)MacGregor Hastie V. Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buchananmacgregor-hastie/">BuchananMacGregor Hastie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buchananmacgregor-hastie/"><img src="/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/sett.png" alt="BuchananMacGregor Hastie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

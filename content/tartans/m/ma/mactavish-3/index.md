@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/mactavish/"
 - name: "MacTavish"
   url: "/families/mactavish/"
+aliases:
+- "/setts/db4r30k6db13k13db3/"
+- "/setts/lb2r12k2lb6k6lb1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkrb/">BKBKRB</a></nav>
 A tartan of the [MacTavish](/families/mactavish/) family.
 Its design is pattern [BKBKRB](/stripes/bkbkrb/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **MacTavish** tartan groups 2 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db4r30k6db13k13db3/">MacTavish</a> ★</td><td><code>DB/8 R60 K12 DB26 K26 DB/6</code></td><td>262</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db4r30k6db13k13db3/"><img src="/variants/s6/db4r30k6db13k13db3~x2/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lb2r12k2lb6k6lb1/">Thompson/Thomson/MacTavish #2</a></td><td><code>LB/4 R24 K4 LB12 K12 LB/2</code></td><td>110</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb2r12k2lb6k6lb1/"><img src="/variants/s6/lb2r12k2lb6k6lb1~x2/sett.png" alt="Thompson/Thomson/MacTavish #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db4r30k6db13k13db3~x2/">MacTavish</a> ★</td><td><code>DB/8 R60 K12 DB26 K26 DB/6</code></td><td>262</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db4r30k6db13k13db3~x2/"><img src="/variants/s6/db4r30k6db13k13db3~x2/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb2r12k2lb6k6lb1~x2/">Thompson/Thomson/MacTavish #2</a></td><td><code>LB/4 R24 K4 LB12 K12 LB/2</code></td><td>110</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb2r12k2lb6k6lb1~x2/"><img src="/variants/s6/lb2r12k2lb6k6lb1~x2/sett.png" alt="Thompson/Thomson/MacTavish #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -41,6 +45,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><circle cx="201.0" cy="191.1" r="4" fill="#3465a4"><title>Thomson</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="231.2" cy="157.3" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="167.5" cy="187.5" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.3" cy="146.6" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/"><circle cx="209.8" cy="169.2" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="175.1" cy="231.5" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="181.6" cy="204.2" r="4" fill="#3465a4"><title>Inder</title></circle></a><a href="/variants/s7/r9k4r9k25dy3dp18k4~x2/"><circle cx="202.5" cy="184.6" r="4" fill="#3465a4"><title>Wounded Warriors Canada</title></circle></a><a href="/variants/s6/r3db3r20k20db20g3~x2/"><circle cx="144.5" cy="205.8" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="164.9" cy="164.6" r="4" fill="#3465a4"><title>Aitken</title></circle></a><circle cx="222.4" cy="189.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><circle cx="201.6" cy="191.0" r="4" fill="#3465a4"><title>Thomson</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="232.0" cy="157.3" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="167.9" cy="187.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="200.9" cy="146.4" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/"><circle cx="210.4" cy="169.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="175.4" cy="231.3" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="182.0" cy="204.1" r="4" fill="#3465a4"><title>Inder</title></circle></a><a href="/variants/s7/r9k4r9k25dy3dp18k4~x2/"><circle cx="203.1" cy="184.6" r="4" fill="#3465a4"><title>Wounded Warriors Canada</title></circle></a><a href="/variants/s6/r3db3r20k20db20g3~x2/"><circle cx="144.8" cy="205.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="165.4" cy="164.5" r="4" fill="#3465a4"><title>Aitken</title></circle></a><circle cx="223.0" cy="189.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

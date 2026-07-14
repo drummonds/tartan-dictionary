@@ -9,16 +9,16 @@ crumbs:
   url: "/clan/macgregor/"
 - name: "MacGregor"
   url: "/families/macgregor/"
-- name: "MacGregor"
-  url: "/tartans/m/ma/macgregor-10/"
+- name: "MacGregor (Black)"
+  url: "/tartans/m/ma/macgregor-black/"
 - name: "MacGregor, Black (Personal)"
-  url: "/setts/k72g23k7g8r1w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k72g23k7g8r1w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-black/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGRW](/stripes/kgkgrw/).
 
-Part of the [MacGregor](/tartans/m/ma/macgregor-10/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor (Black)](/tartans/m/ma/macgregor-black/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2462](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/03/2005 — MacGregor, Black (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2462">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A personal tartan for Ronan MacGregor of the Scottish Tartans Museum in Franklin, North Carolina. A colour change of MacGregor (black and red transposed) from Matt Newsome (Museum Curator) and Ronan MacGrgegor. Being woven by D.C. Dalgliesh of Selkirk, Scotland. Woven sample.</em></li>
-<li>2005 March — MacGregor - 2005 (Ronan - Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6588">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A personal tartan for Ronan MacGregor of the Scottish Tartans Museum in Franklin, North Carolina. A colour change of MacGregor (black and red transposed) from Matt Newsome (Museum Curator) and Ronan MacGrgegor. Being woven by D.C. Dalgliesh of Selkirk, Scotland. Woven sample.</em></li>
+<li>2005 March — MacGregor - 2005 (Ronan - Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6588/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A personal tartan for Ronan MacGregor of the Scottish Tartans Museum in Franklin, North Carolina. A colour change of MacGregor (black and red transposed) from Matt Newsome (Museum Curator) and Ronan MacGrgegor. Being woven by D.C. Dalgliesh of Selkirk, Scotland. Woven sample.</em></li>
 </ul>
 </details>
 

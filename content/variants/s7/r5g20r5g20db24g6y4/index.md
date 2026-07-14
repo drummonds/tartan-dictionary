@@ -12,10 +12,10 @@ crumbs:
 - name: "Cameron of Lochiel"
   url: "/tartans/c/ca/cameron-of-lochiel/"
 - name: "Cameron of Lochiel (Hunting) Clan/Family Tartan"
-  url: "/setts/r5g20r5g20db24g6y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5g20r5g20db24g6y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/cameron-of-lochiel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGRGR](/stripes/ggbgrgr/).
 
 Part of the [Cameron of Lochiel](/tartans/c/ca/cameron-of-lochiel/) tartan — the named design grouping this sett with its other cloths.

@@ -28,15 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r5db26k12w2~x4/">Mirror (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r5db26k12w2~x4/"><img src="/variants/s4/r5db26k12w2~x4/sett.png" alt="Mirror (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/r4db32k15w2~x2/">Scottish Nuclear</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r4db32k15w2~x2/"><img src="/variants/s4/r4db32k15w2~x2/sett.png" alt="Scottish Nuclear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/r1db9k4lb1~x4/">Scottish Nuclear (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r1db9k4lb1~x4/"><img src="/variants/s4/r1db9k4lb1~x4/sett.png" alt="Scottish Nuclear (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mirror/">Mirror</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mirror/"><img src="/variants/s4/r5db26k12w2~x4/sett.png" alt="Mirror sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-nuclear/">Scottish Nuclear</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-nuclear/"><img src="/variants/s4/r4db32k15w2~x2/sett.png" alt="Scottish Nuclear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/r5n32k31w5/">Loganair, Uniform Skirt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r5n32k31w5/"><img src="/variants/s4/r5n32k31w5/sett.png" alt="Loganair, Uniform Skirt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loganair-uniform-skirt/">Loganair Uniform Skirt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loganair-uniform-skirt/"><img src="/variants/s4/r5n32k31w5/sett.png" alt="Loganair Uniform Skirt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

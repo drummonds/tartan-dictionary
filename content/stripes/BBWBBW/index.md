@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db1n8w1db4dr8w1~x6/">Little's Chauffeur Drive</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><img src="/variants/s6/db1n8w1db4dr8w1~x6/sett.png" alt="Little's Chauffeur Drive sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/little-s-chauffeur-drive/">Little's Chauffeur Drive</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/little-s-chauffeur-drive/"><img src="/variants/s6/db1n8w1db4dr8w1~x6/sett.png" alt="Little's Chauffeur Drive sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

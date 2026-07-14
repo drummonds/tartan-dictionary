@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k8dr26k22dt110w4k5w4/">Edinburgh, The University of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k8dr26k22dt110w4k5w4/"><img src="/variants/s7/k8dr26k22dt110w4k5w4/sett.png" alt="Edinburgh, The University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-the-university-of/">Edinburgh, The University of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-the-university-of/"><img src="/variants/s7/k8dr26k22dt110w4k5w4/sett.png" alt="Edinburgh, The University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/k8dr26k22db110w4k5w4/">University of Edinburgh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k8dr26k22db110w4k5w4/"><img src="/variants/s7/k8dr26k22db110w4k5w4/sett.png" alt="University of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/university-of-edinburgh/">University of Edinburgh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/university-of-edinburgh/"><img src="/variants/s7/k8dr26k22db110w4k5w4/sett.png" alt="University of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,15 +12,15 @@ crumbs:
 - name: "Otago"
   url: "/tartans/o/ot/otago/"
 - name: "Otago"
-  url: "/setts/ly16k2ly6k2r2k2db15g1db1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly16k2ly6k2r2k2db15g1db1w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KYKRKBGBWBGBKRKYKY](/stripes/kykrkbgbwbgbkrkyky/).
+provenance below. It is one weaving of the [sett](/tartans/o/ot/otago/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBGBKRKYKY](/stripes/wbgbkrkyky/).
 
 Part of the [Otago](/tartans/o/ot/otago/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3275](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3275)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3275](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1988 — Otago (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3275">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A district tartan with the authority of the Otago District Council. To commemorate the early settlers to Otago who were mostly Crofters and Shepherds form Scotland, seeking to settle the land. Many other nationalities came seeking their fortunes in the Goldfields of Otago and stayed. License to distribute is held by The Suit Surgeons Ltd, New Zealand.</em></li>
-<li>Jun. 1994 — Otago (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2317">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A district tartan with the authority of the Otago District Council. To commemorate the early settlers to Otago who were mostly Crofters and Shepherds form Scotland, seeking to settle the land. Many other nationalities came seeking their fortunes in the Goldfields of Otago and stayed. License to distribute is held by The Suit Surgeons Ltd, 120 Lower Stuart Street, Dunedin, New Zealand, phone +64 3 477-1001 or fax +64 3 477-1002.</em></li>
+<li>Jun. 1994 — Otago (District) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2317/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>A district tartan with the authority of the Otago District Council. To commemorate the early settlers to Otago who were mostly Crofters and Shepherds form Scotland, seeking to settle the land. Many other nationalities came seeking their fortunes in the Goldfields of Otago and stayed. License to distribute is held by The Suit Surgeons Ltd, 120 Lower Stuart Street, Dunedin, New Zealand, phone +64 3 477-1001 or fax +64 3 477-1002.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2317
 
 ## Thread count
-LY/32 K4 LY12 K4 R4 K4 DB30 G2 DB2 W4 DB2 G2 DB30 K4 R4 K4 LY12 K/4
+LY/32 K4 LY12 K4 R4 K4 DB30 G2 DB2 W/4
 
-One full sett is **284 threads**.
+One full sett is **160 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LY/32 K4 LY12 K4 R4 K4 DB30 G2 DB2 W4 DB2 G2 DB30 K4 R4 K4 LY12 K/4 — 284 threads; it folds to the canonical 160-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **284 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/32 K4 LY12 K4 R4 K4 DB30 G2 DB2 W4 DB2 G2 DB30 K4 R4 K4 LY12 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/32 K4 LY12 K4 R4 K4 DB30 G2 DB2 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

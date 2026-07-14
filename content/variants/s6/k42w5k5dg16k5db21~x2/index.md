@@ -12,10 +12,10 @@ crumbs:
 - name: "Givens"
   url: "/tartans/g/gi/givens/"
 - name: "Givens (Arizona)"
-  url: "/setts/k42w5k5dg16k5db21/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k42w5k5dg16k5db21/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gi/givens/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKWK](/stripes/bkgkwk/).
 
 Part of the [Givens](/tartans/g/gi/givens/) tartan — the named design grouping this sett with its other cloths.

@@ -10,10 +10,10 @@ crumbs:
 - name: "MacRae, Special Hunting"
   url: "/tartans/m/ma/macrae-special-hunting/"
 - name: "MacRae, Special Hunting"
-  url: "/setts/dg18db2dg5r2dg5k21ki20k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg18db2dg5r2dg5k21ki20k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macrae-special-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRGKKK](/stripes/gbgrgkkk/).
 
 Part of the [MacRae, Special Hunting](/tartans/m/ma/macrae-special-hunting/) tartan — the named design grouping this sett with its other cloths.

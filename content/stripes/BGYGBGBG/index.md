@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/">Glenlivet Check (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><img src="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/sett.png" alt="Glenlivet Check (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenlivet-check/">Glenlivet Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenlivet-check/"><img src="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/sett.png" alt="Glenlivet Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

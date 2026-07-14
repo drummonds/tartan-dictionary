@@ -8,10 +8,10 @@ crumbs:
 - name: "Tiger"
   url: "/tartans/t/ti/tiger/"
 - name: "Tiger"
-  url: "/setts/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ti/tiger/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGRGBGRGBGBWBG](/stripes/bwbgrgbgrgbgbwbg/).
 
 Part of the [Tiger](/tartans/t/ti/tiger/) tartan — the named design grouping this sett with its other cloths.

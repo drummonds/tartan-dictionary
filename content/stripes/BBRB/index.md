@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db16r4db3dp1~x2/">Elliott</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db16r4db3dp1~x2/"><img src="/variants/s4/db16r4db3dp1~x2/sett.png" alt="Elliott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/elliott/">Elliott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/elliott/"><img src="/variants/s4/db16r4db3dp1~x2/sett.png" alt="Elliott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/n30r1n15db4~x2/">Kincardine Tweed</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/n30r1n15db4~x2/"><img src="/variants/s4/n30r1n15db4~x2/sett.png" alt="Kincardine Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kincardine-tweed/">Kincardine Tweed</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kincardine-tweed/"><img src="/variants/s4/n30r1n15db4~x2/sett.png" alt="Kincardine Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

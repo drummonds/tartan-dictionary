@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w2dy44db8dy2db2dy3r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgbgbgw/">RGBGBGW</a></nav>
 Its design is pattern [RGBGBGW](/stripes/rgbgbgw/) — the page of every tartan sharing this colour sequence.
 
 The **Reece, Mathew** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Reece, Mathew** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2dy44db8dy2db2dy3r1/">Reece, Mathew</a></td><td><code>W/4 DY88 DB16 DY4 DB4 DY6 R/2</code></td><td>242</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2dy44db8dy2db2dy3r1/"><img src="/variants/s7/w2dy44db8dy2db2dy3r1~x2/sett.png" alt="Reece, Mathew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w2dy44db8dy2db2dy3r1~x2/">Reece, Mathew</a></td><td><code>W/4 DY88 DB16 DY4 DB4 DY6 R/2</code></td><td>242</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w2dy44db8dy2db2dy3r1~x2/"><img src="/variants/s7/w2dy44db8dy2db2dy3r1~x2/sett.png" alt="Reece, Mathew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/y6dy14db10dy58g3dy8w2/"><circle cx="583.4" cy="158.7" r="4" fill="#3465a4"><title>Kozmyk</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="551.4" cy="104.4" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="543.2" cy="105.0" r="4" fill="#3465a4"><title>Duke of York</title></circle></a><a href="/variants/s8/dy96db8dy8w3dy8g3dy8r3~x2/"><circle cx="626.0" cy="102.6" r="4" fill="#3465a4"><title>Burnett of Leys Hunting</title></circle></a><a href="/variants/s6/r4dp12dg2dp2dg46w1~x2/"><circle cx="556.9" cy="142.9" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s9/r2g2r2g4y3dy45g2dy3g2~x2/"><circle cx="544.0" cy="129.5" r="4" fill="#3465a4"><title>Welsh Stanley–Gpa</title></circle></a><circle cx="599.5" cy="114.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/y6dy14db10dy58g3dy8w2/"><circle cx="584.5" cy="159.2" r="4" fill="#3465a4"><title>Kozmyk</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="552.9" cy="104.8" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="544.7" cy="105.4" r="4" fill="#3465a4"><title>Duke of York</title></circle></a><a href="/variants/s8/dy96db8dy8w3dy8g3dy8r3~x2/"><circle cx="626.0" cy="103.3" r="4" fill="#3465a4"><title>Burnett of Leys Hunting</title></circle></a><a href="/variants/s6/r4dp12dg2dp2dg46w1~x2/"><circle cx="558.1" cy="143.4" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s9/r2g2r2g4y3dy45g2dy3g2~x2/"><circle cx="545.2" cy="129.9" r="4" fill="#3465a4"><title>Welsh Stanley–Gpa</title></circle></a><circle cx="600.9" cy="115.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

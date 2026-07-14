@@ -8,23 +8,23 @@ crumbs:
 - name: "Atlas Textile"
   url: "/tartans/a/at/atlas-textile/"
 - name: "Johnston Orange/Black (Corporate)"
-  url: "/setts/w1lo1k1lo12k12lo1k1lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w1lo1k1lo12k12lo1k1lo1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/at/atlas-textile/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYKYKYKY](/stripes/wykykyky/).
 
 Part of the [Atlas Textile](/tartans/a/at/atlas-textile/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5307)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/5307/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5307/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1945 — Johnston Orange/Black (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5307">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This black & orange variation of Johnston was used commercially ca. 1945 to 1965 by Atlas Asbestos Co. ( Atlas Textile Co.,) of North Wales. PA, USA. Owned by a Johnston family who modified the ink on printing plates when the "company colours" of orange and black were adopted.</em></li>
-<li>pre 2010 — Atlas Textile (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8090">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>This black and orange (the company colours) variation of the Johnston tartan used commercially ca. 1945 to 1965 by the Atlas Textile Co. of North Wales, Pennsylvania. B This was Bill Johnston's family company - BJ was a great tartan supporter, researcher and benefactor who was President of TECA Prior to World War II Bill travelled widely for the family firm, even to Japan. As a Quaker he would not serve in the military but was also exempt because of his essential military supply service. The Atlas Textile Company made parachuite webbing during the war and they also made the wick for every single Zippo lighter - a famous lighter used during World War II because the hinged lid shielded the flame from the wind. Info from Dr Phil DSmith Feb. 2010.</em></li>
+<li>1945 — Johnston Orange/Black (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5307/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>This black & orange variation of Johnston was used commercially ca. 1945 to 1965 by Atlas Asbestos Co. ( Atlas Textile Co.,) of North Wales. PA, USA. Owned by a Johnston family who modified the ink on printing plates when the "company colours" of orange and black were adopted.</em></li>
+<li>pre 2010 — Atlas Textile (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/8090/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>This black and orange (the company colours) variation of the Johnston tartan used commercially ca. 1945 to 1965 by the Atlas Textile Co. of North Wales, Pennsylvania. B This was Bill Johnston's family company - BJ was a great tartan supporter, researcher and benefactor who was President of TECA Prior to World War II Bill travelled widely for the family firm, even to Japan. As a Quaker he would not serve in the military but was also exempt because of his essential military supply service. The Atlas Textile Company made parachuite webbing during the war and they also made the wick for every single Zippo lighter - a famous lighter used during World War II because the hinged lid shielded the flame from the wind. Info from Dr Phil DSmith Feb. 2010.</em></li>
 </ul>
 </details>
 
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5307](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

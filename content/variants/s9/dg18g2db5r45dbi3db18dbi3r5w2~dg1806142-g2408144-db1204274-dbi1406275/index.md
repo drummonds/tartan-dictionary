@@ -12,10 +12,10 @@ crumbs:
 - name: "MacNiven"
   url: "/tartans/m/ma/macniven/"
 - name: "MacNiven Family Tartan"
-  url: "/setts/dg18g2db5r45dbi3db18dbi3r5w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg18g2db5r45dbi3db18dbi3r5w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macniven/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBRBBBRW](/stripes/ggbrbbbrw/).
 
 Part of the [MacNiven](/tartans/m/ma/macniven/) tartan — the named design grouping this sett with its other cloths.

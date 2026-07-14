@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db31b4db5k19g20y4~x2/">Midlothian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db31b4db5k19g20y4~x2/"><img src="/variants/s6/db31b4db5k19g20y4~x2/sett.png" alt="Midlothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/midlothian/">Midlothian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/midlothian/"><img src="/variants/s6/db31b4db5k19g20y4~x2/sett.png" alt="Midlothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/">Golfing Stewart (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><img src="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="Golfing Stewart (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/">Royal &amp; Ancient/Golfing Stewart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><img src="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="Royal &amp; Ancient/Golfing Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/golfing-stewart/">Golfing Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/golfing-stewart/"><img src="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="Golfing Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-ancient-golfing-stewart/">Royal &amp; Ancient/Golfing Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-ancient-golfing-stewart/"><img src="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="Royal &amp; Ancient/Golfing Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Colvin"
   url: "/tartans/c/co/colvin/"
 - name: "Colvin"
-  url: "/setts/b36w4b4w4b16dg64r9b6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b36w4b4w4b16dg64r9b6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/colvin/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBWBWB](/stripes/brgbwbwb/).
 
 Part of the [Colvin](/tartans/c/co/colvin/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=719](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — Colvin (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=719">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><br><em>Designed by Phil Smith, February 1998, for the Paul Colvin family but applicable to all of the name 'Colvin/Colvine'. Swatch in Scottish Tartans Authority's Johnston Collection</em></li>
-<li>pre 1998 — Colvin (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4196">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><br><em>Designed by Phil Smith, Feb 1998, for the Paul Colvin family but applicable to all of the name "Colvin/Colvine". Swatch in STA's Johnston Collection</em></li>
+<li>pre 1998 — Colvin (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4196/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#004C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #004C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #8C0000"></span><br><em>Designed by Phil Smith, Feb 1998, for the Paul Colvin family but applicable to all of the name "Colvin/Colvine". Swatch in STA's Johnston Collection</em></li>
 </ul>
 </details>
 

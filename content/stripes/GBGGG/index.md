@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g13dy3g1do3dy1~x6/">Glen Boig</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g13dy3g1do3dy1~x6/"><img src="/variants/s5/g13dy3g1do3dy1~x6/sett.png" alt="Glen Boig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/g37dy9g3do9dy3~x2/">Glen Boig Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g37dy9g3do9dy3~x2/"><img src="/variants/s5/g37dy9g3do9dy3~x2/sett.png" alt="Glen Boig Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-boig-2/">Glen Boig</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-boig-2/"><img src="/variants/s5/g37dy9g3do9dy3~x2/sett.png" alt="Glen Boig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

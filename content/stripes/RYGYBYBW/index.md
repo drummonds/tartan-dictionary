@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r1ly1g6ly15do2ly1do6w1~x4/">Connacht #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r1ly1g6ly15do2ly1do6w1~x4/"><img src="/variants/s8/r1ly1g6ly15do2ly1do6w1~x4/sett.png" alt="Connacht #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connacht-6/">Connacht</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connacht-6/"><img src="/variants/s8/r1ly1g6ly15do2ly1do6w1~x4/sett.png" alt="Connacht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

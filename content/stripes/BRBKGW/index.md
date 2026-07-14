@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db1r1db6k6g6w1~x2/">Wellington</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db1r1db6k6g6w1~x2/"><img src="/variants/s6/db1r1db6k6g6w1~x2/sett.png" alt="Wellington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/lb3g8k9db7r2db2~x2/">Wellington, or Waterloo</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb3g8k9db7r2db2~x2/"><img src="/variants/s6/lb3g8k9db7r2db2~x2/sett.png" alt="Wellington, or Waterloo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wellington-4/">Wellington</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wellington-4/"><img src="/variants/s6/db1r1db6k6g6w1~x2/sett.png" alt="Wellington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wellington-or-waterloo/">Wellington or Waterloo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wellington-or-waterloo/"><img src="/variants/s6/lb3g8k9db7r2db2~x2/sett.png" alt="Wellington or Waterloo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

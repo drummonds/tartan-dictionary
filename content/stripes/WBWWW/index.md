@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/lb37w9lb3db9w3~x2/">Loch Lomond</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lb37w9lb3db9w3~x2/"><img src="/variants/s5/lb37w9lb3db9w3~x2/sett.png" alt="Loch Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-lomond-3/">Loch Lomond</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-lomond-3/"><img src="/variants/s5/lb37w9lb3db9w3~x2/sett.png" alt="Loch Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/w50db7w7lb7w18~x2/">Sephardim (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w50db7w7lb7w18~x2/"><img src="/variants/s5/w50db7w7lb7w18~x2/sett.png" alt="Sephardim (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/sephardim/">Sephardim</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/sephardim/"><img src="/variants/s5/w50db7w7lb7w18~x2/sett.png" alt="Sephardim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

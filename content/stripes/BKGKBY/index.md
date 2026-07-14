@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dr1k1g6k6db6lr1~x4/">Gaines Center for the Humanities</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><img src="/variants/s6/dr1k1g6k6db6lr1~x4/sett.png" alt="Gaines Center for the Humanities sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gaines-center-for-humanities/">Gaines Center for Humanities</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gaines-center-for-humanities/"><img src="/variants/s6/dr1k1g6k6db6lr1~x4/sett.png" alt="Gaines Center for Humanities sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

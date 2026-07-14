@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/">MacKillop (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/"><img src="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/sett.png" alt="MacKillop (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackillop-2/">MacKillop</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackillop-2/"><img src="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/sett.png" alt="MacKillop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/">Wcwm 9275-1626</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/"><img src="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/sett.png" alt="Wcwm 9275-1626 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wc/wcwm-9275-1626/">Wcwm 9275-1626</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wc/wcwm-9275-1626/"><img src="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/sett.png" alt="Wcwm 9275-1626 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

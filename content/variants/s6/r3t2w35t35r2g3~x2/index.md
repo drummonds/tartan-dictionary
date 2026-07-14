@@ -10,17 +10,17 @@ crumbs:
 - name: "Galloway"
   url: "/families/galloway/"
 - name: "Galloway"
-  url: "/tartans/g/ga/galloway-2/"
+  url: "/tartans/g/ga/galloway/"
 - name: "Galloway (Dance)"
-  url: "/setts/r3t2w35t35r2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3t2w35t35r2g3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRBWBRBWBR](/stripes/grbwbrbwbr/).
+provenance below. It is one weaving of the [sett](/tartans/g/ga/galloway/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRBWBR](/stripes/grbwbr/).
 
-Part of the [Galloway](/tartans/g/ga/galloway-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Galloway](/tartans/g/ga/galloway/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1302](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1302)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1302](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1980 — Galloway (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1302">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>No details.</em></li>
-<li>1980 — Galloway (Dance) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4953">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><br><em>Woven Sample.</em></li>
+<li>1980 — Galloway (Dance) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4953/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><br><em>Woven Sample.</em></li>
 </ul>
 </details>
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4953
 
 ## Thread count
-G/6 R4 T70 W70 T4 R6 T4 W70 T70 R/4
+R/6 T4 W70 T70 R4 G/6
 
-One full sett is **606 threads**.
+One full sett is **308 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/6 R4 T70 W70 T4 R6 T4 W70 T70 R/4 — 606 threads; it folds to the canonical 308-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **606 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/6 R4 T70 W70 T4 R6 T4 W70 T70 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 T4 W70 T70 R4 G/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s52/r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4~x2/">Mystery Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s52/r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4~x2/"><img src="/variants/s52/r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4~x2/sett.png" alt="Mystery Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/my/mystery/">Mystery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/my/mystery/"><img src="/variants/s52/r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4~x2/sett.png" alt="Mystery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

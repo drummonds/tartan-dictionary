@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w2r2db16k14g15r2ly2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wrbkgry/">WRBKGRY</a></nav>
 Its design is pattern [WRBKGRY](/stripes/wrbkgry/) — the page of every tartan sharing this colour sequence.
 
 The **Council of Scottish Clans & Ass.** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Council of Scottish Clans & Ass.** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2r2db16k14g15r2ly2/">Council of Scottish Clans &amp; Ass.</a></td><td><code>LY/4 R4 G30 K28 DB32 R4 W/4</code></td><td>204</td><td>~2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2r2db16k14g15r2ly2/"><img src="/variants/s7/w2r2db16k14g15r2ly2~x2/sett.png" alt="Council of Scottish Clans &amp; Ass. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/">Council of Scottish Clans &amp; Ass.</a></td><td><code>W/4 R4 DB32 K28 G30 R4 LY/4</code></td><td>204</td><td>~2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><img src="/variants/s7/w2r2db16k14g15r2ly2~x2/sett.png" alt="Council of Scottish Clans &amp; Ass. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="81.6" cy="215.3" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="86.4" cy="169.9" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="114.1" cy="170.0" r="4" fill="#3465a4"><title>Morris of Eddergoll</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="126.7" cy="142.4" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s6/y1k1g9k9db8w1~x4/"><circle cx="127.4" cy="187.9" r="4" fill="#3465a4"><title>MacNeil 4</title></circle></a><a href="/variants/s6/y3k2g12k12db14w3~x2/"><circle cx="83.3" cy="210.9" r="4" fill="#3465a4"><title>MacNeil of Barra</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="142.6" cy="140.8" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="102.8" cy="211.9" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="107.6" cy="165.4" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/variants/s8/r6db3r3db32k30g30y3r3~x2/"><circle cx="127.1" cy="160.5" r="4" fill="#3465a4"><title>MacDonald of Borrodale</title></circle></a><circle cx="76.9" cy="170.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="81.6" cy="215.0" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s6/w3b22r3k22g22y2~x2/"><circle cx="86.6" cy="169.6" r="4" fill="#3465a4"><title>Morris of Balgonie</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="114.4" cy="169.7" r="4" fill="#3465a4"><title>Morris of Eddergoll</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="127.1" cy="142.1" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s6/y1k1g9k9db8w1~x4/"><circle cx="127.8" cy="187.7" r="4" fill="#3465a4"><title>MacNeil 4</title></circle></a><a href="/variants/s6/y3k2g12k12db14w3~x2/"><circle cx="83.4" cy="210.6" r="4" fill="#3465a4"><title>MacNeil of Barra</title></circle></a><a href="/variants/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="143.1" cy="140.5" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="103.0" cy="211.6" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="107.9" cy="165.1" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/variants/s8/r6db3r3db32k30g30y3r3~x2/"><circle cx="127.4" cy="160.3" r="4" fill="#3465a4"><title>MacDonald of Borrodale</title></circle></a><circle cx="77.1" cy="169.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

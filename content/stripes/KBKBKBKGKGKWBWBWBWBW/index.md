@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/">Campbell, Forty Second</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/"><img src="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/sett.png" alt="Campbell, Forty Second sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s20/k8t10k2t2k2t10k8g11k2g11k8w2t2w14t1w3t1w14t2w2~x2/">Campbell, The 42nd Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/k8t10k2t2k2t10k8g11k2g11k8w2t2w14t1w3t1w14t2w2~x2/"><img src="/variants/s20/k8t10k2t2k2t10k8g11k2g11k8w2t2w14t1w3t1w14t2w2~x2/sett.png" alt="Campbell, The 42nd Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-forty-second/">Campbell, Forty Second</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-forty-second/"><img src="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/sett.png" alt="Campbell, Forty Second sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-the-42nd-dress/">Campbell, The 42nd Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-the-42nd-dress/"><img src="/variants/s20/k8t10k2t2k2t10k8g11k2g11k8w2t2w14t1w3t1w14t2w2~x2/sett.png" alt="Campbell, The 42nd Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

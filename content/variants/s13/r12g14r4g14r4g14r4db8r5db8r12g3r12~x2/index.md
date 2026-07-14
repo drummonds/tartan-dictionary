@@ -12,10 +12,10 @@ crumbs:
 - name: "Grant of Monymusk"
   url: "/tartans/g/gr/grant-of-monymusk/"
 - name: "Grant of Monymusk"
-  url: "/setts/r12g14r4g14r4g14r4db8r5db8r12g3r12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12g14r4g14r4g14r4db8r5db8r12g3r12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grant-of-monymusk/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRBRGRGRGR](/stripes/rgrbrbrgrgrgr/).
 
 Part of the [Grant of Monymusk](/tartans/g/gr/grant-of-monymusk/) tartan — the named design grouping this sett with its other cloths.

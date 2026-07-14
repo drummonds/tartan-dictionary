@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/">Grant, Piper to the Laird of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/"><img src="/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/sett.png" alt="Grant, Piper to the Laird of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grant-piper-to-the-laird-of/">Grant, Piper to the Laird of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-piper-to-the-laird-of/"><img src="/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/sett.png" alt="Grant, Piper to the Laird of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

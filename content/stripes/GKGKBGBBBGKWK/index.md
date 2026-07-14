@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/">Clifford</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/"><img src="/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/sett.png" alt="Clifford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clifford-2/">Clifford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clifford-2/"><img src="/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/sett.png" alt="Clifford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

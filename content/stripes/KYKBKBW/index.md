@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/">Pride of Nova Scotia (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><img src="/variants/s7/k3ly2k36db16k5db2w3~x2/sett.png" alt="Pride of Nova Scotia (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-nova-scotia/">Pride of Nova Scotia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-nova-scotia/"><img src="/variants/s7/k3ly2k36db16k5db2w3~x2/sett.png" alt="Pride of Nova Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

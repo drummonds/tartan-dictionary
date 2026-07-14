@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/">Le Cercle des Femmes (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/"><img src="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/sett.png" alt="Le Cercle des Femmes (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/le-cercle-des-femmes/">Le Cercle des Femmes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/le-cercle-des-femmes/"><img src="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/sett.png" alt="Le Cercle des Femmes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

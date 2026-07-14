@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y8k3b2db1w6g12db2~x2/">Carmen Lau (Hong Kong) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y8k3b2db1w6g12db2~x2/"><img src="/variants/s7/y8k3b2db1w6g12db2~x2/sett.png" alt="Carmen Lau (Hong Kong) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carmen-lau-2/">Carmen Lau</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carmen-lau-2/"><img src="/variants/s7/y8k3b2db1w6g12db2~x2/sett.png" alt="Carmen Lau sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

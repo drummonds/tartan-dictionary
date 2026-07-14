@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k5g14db12g4~x4/">MacCurdie (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k5g14db12g4~x4/"><img src="/variants/s4/k5g14db12g4~x4/sett.png" alt="MacCurdie (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maccurdie/">MacCurdie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maccurdie/"><img src="/variants/s4/k5g14db12g4~x4/sett.png" alt="MacCurdie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/k5g40db20y3~x2/">Robert Byers Family - Dooballagh, Ireland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k5g40db20y3~x2/"><img src="/variants/s4/k5g40db20y3~x2/sett.png" alt="Robert Byers Family - Dooballagh, Ireland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robert-byers/">Robert Byers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robert-byers/"><img src="/variants/s4/k5g40db20y3~x2/sett.png" alt="Robert Byers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

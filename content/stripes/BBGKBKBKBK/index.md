@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/">Racing Stewart (Stealth)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><img src="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/sett.png" alt="Racing Stewart (Stealth) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/">Racing Stewart, Stealth (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><img src="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/sett.png" alt="Racing Stewart, Stealth (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/racing-stewart/">Racing Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/racing-stewart/"><img src="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/sett.png" alt="Racing Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/racing-stewart-stealth/">Racing Stewart, Stealth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/racing-stewart-stealth/"><img src="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/sett.png" alt="Racing Stewart, Stealth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/">MacGregor</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><img src="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/">Maconachie of Meadowbank</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/"><img src="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/sett.png" alt="Maconachie of Meadowbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor/">MacGregor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor/"><img src="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maconachie-of-meadowbank/">Maconachie of Meadowbank</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maconachie-of-meadowbank/"><img src="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/sett.png" alt="Maconachie of Meadowbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

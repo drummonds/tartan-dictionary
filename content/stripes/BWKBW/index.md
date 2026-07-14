@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dp2w14k15dp14w2~x2/">Furman University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp2w14k15dp14w2~x2/"><img src="/variants/s5/dp2w14k15dp14w2~x2/sett.png" alt="Furman University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fu/furman-university/">Furman University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fu/furman-university/"><img src="/variants/s5/dp2w14k15dp14w2~x2/sett.png" alt="Furman University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r6k2r12g10k3w2k3y2k8w4db6w12r4/">Victoria (Patons)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r6k2r12g10k3w2k3y2k8w4db6w12r4/"><img src="/variants/s13/r6k2r12g10k3w2k3y2k8w4db6w12r4/sett.png" alt="Victoria (Patons) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/victoria-2/">Victoria</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/victoria-2/"><img src="/variants/s13/r6k2r12g10k3w2k3y2k8w4db6w12r4/sett.png" alt="Victoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

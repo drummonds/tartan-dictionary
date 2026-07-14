@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/">Armagh Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/"><img src="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/sett.png" alt="Armagh Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/armagh/">Armagh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/armagh/"><img src="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/sett.png" alt="Armagh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

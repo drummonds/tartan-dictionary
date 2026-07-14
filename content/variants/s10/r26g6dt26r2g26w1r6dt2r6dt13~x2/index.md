@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unnamed C18/19th"
-  url: "/tartans/u/un/unnamed-c18-19th/"
+  url: "/tartans/u/un/unnamed-c18-19th-2/"
 - name: "Unnamed C18/19th - Antigonish (A)"
-  url: "/setts/r26g6dt26r2g26w1r6dt2r6dt13/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r26g6dt26r2g26w1r6dt2r6dt13/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBRWGRBGRGBRGWRBR](/stripes/brbrwgrbgrgbrgwrbr/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unnamed-c18-19th-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBRWGRBGR](/stripes/brbrwgrbgr/).
 
-Part of the [Unnamed C18/19th](/tartans/u/un/unnamed-c18-19th/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unnamed C18/19th](/tartans/u/un/unnamed-c18-19th-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4412](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4412)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6162
 
 ## Thread count
-DT/26 R12 DT4 R12 W2 G52 R4 DT52 G12 R52 G12 DT52 R4 G52 W2 R12 DT4 R/12
+R/52 G12 DT52 R4 G52 W2 R12 DT4 R12 DT/26
 
-One full sett is **718 threads**.
+One full sett is **378 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DT/26 R12 DT4 R12 W2 G52 R4 DT52 G12 R52 G12 DT52 R4 G52 W2 R12 DT4 R/12 — 718 threads; it folds to the canonical 378-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **718 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/26 R12 DT4 R12 W2 G52 R4 DT52 G12 R52 G12 DT52 R4 G52 W2 R12 DT4 R/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/52 G12 DT52 R4 G52 W2 R12 DT4 R12 DT/26 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

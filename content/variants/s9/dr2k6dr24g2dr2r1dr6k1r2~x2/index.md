@@ -12,10 +12,10 @@ crumbs:
 - name: "Fitzgibbon"
   url: "/tartans/f/fi/fitzgibbon/"
 - name: "Fitzgibbon Red"
-  url: "/setts/dr2k6dr24g2dr2r1dr6k1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr2k6dr24g2dr2r1dr6k1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fi/fitzgibbon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBRBKR](/stripes/bkbgbrbkr/).
 
 Part of the [Fitzgibbon](/tartans/f/fi/fitzgibbon/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10035](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>20/05/2009 — Fitzgibbon Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10035">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A3262A;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #A3262A"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2D2D2D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #2D2D2D"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C5627;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #1C5627"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BD2125;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #BD2125"></span><br><em>This tartan has the same pattern as the Fitzgibbon tartan but uses different colours. The Fitzgibbon tartan is predominantly green. The Fitzgibbon Red is for use by all of the name Fitzgibbon, Fitzgibbons, Fitz-Gibbon, Gibbons, or any other variant.</em></li>
-<li>20th May 2009 — Fitzgibbon Red (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10035">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This tartan has the same pattern as the predominantly green Fitzgibbon tartan and can be worn by all of the name and its variants - Fitzgibbons, FitzGibbon, Gibbons etc.</em></li>
+<li>20th May 2009 — Fitzgibbon Red (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10035/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>This tartan has the same pattern as the predominantly green Fitzgibbon tartan and can be worn by all of the name and its variants - Fitzgibbons, FitzGibbon, Gibbons etc.</em></li>
 </ul>
 </details>
 

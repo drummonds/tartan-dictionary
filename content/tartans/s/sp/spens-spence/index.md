@@ -4,8 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dr56w2t6w2g32dr11t6w5/"
+- "/setts/dr26w1db10w1dg32dr11db8lb3w1/"
 ---
-Its design is pattern [BWBWGBBWBBGWBW](/stripes/bwbwgbbwbbgwbw/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbwgbbw/">BWBWGBBW</a></nav>
+Its design is pattern [BWBWGBBW](/stripes/bwbwgbbw/) — the page of every tartan sharing this colour sequence.
 
 The **Spens/Spence** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
@@ -13,10 +17,10 @@ The **Spens/Spence** tartan groups 2 setts — the same named design recorded as
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr56w2t6w2g32dr11t6w5/">Spens/Spence</a> ★</td><td><code>DR/112 W4 T12 W4 G64 DR22 T12 W10 T12 DR22 G64 W4 T12 W/4</code></td><td>358</td><td>1816</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr56w2t6w2g32dr11t6w5/"><img src="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/sett.png" alt="Spens/Spence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dr26w1db10w1dg32dr11db8lb3w1/">(Clan)</a></td><td><code>DR/52 W2 DB20 W2 DG64 DR22 DB16 LB6 W/2</code></td><td>318</td><td>~1816</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr26w1db10w1dg32dr11db8lb3w1/"><img src="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/">Spens/Spence</a> ★</td><td><code>DR/112 W4 T12 W4 G64 DR22 T12 W/10</code></td><td>358</td><td>1816</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><img src="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/sett.png" alt="Spens/Spence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/">(Clan)</a></td><td><code>DR/52 W2 DB20 W2 DG64 DR22 DB16 LB6 W/2</code></td><td>318</td><td>~1816</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/"><img src="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/do22ly11dg2ly4dg2ly6dg16do42lr6~x2/"><circle cx="352.7" cy="173.3" r="4" fill="#3465a4"><title>Kenmore</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="445.9" cy="155.1" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="320.5" cy="164.3" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/"><circle cx="392.1" cy="215.5" r="4" fill="#3465a4"><title>Cairn O'Mount</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.0" cy="229.9" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="339.9" cy="172.9" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/variants/s8/dg2ly1dg11dr50ly12db2ly4db2~x2/"><circle cx="418.5" cy="112.8" r="4" fill="#3465a4"><title>Slessor</title></circle></a><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="364.4" cy="229.1" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="340.7" cy="156.1" r="4" fill="#3465a4"><title>Milling-Kristensen</title></circle></a><a href="/variants/s8/y52db6lb3db2lb2db2lb16dr3~x2/"><circle cx="428.1" cy="152.1" r="4" fill="#3465a4"><title>Scotch House</title></circle></a><circle cx="360.9" cy="151.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/do22ly11dg2ly4dg2ly6dg16do42lr6~x2/"><circle cx="353.3" cy="173.4" r="4" fill="#3465a4"><title>Kenmore</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="446.7" cy="155.3" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="321.2" cy="164.3" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/"><circle cx="392.7" cy="215.7" r="4" fill="#3465a4"><title>Cairn O'Mount</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.4" cy="229.9" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="340.4" cy="172.9" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/variants/s8/dg2ly1dg11dr50ly12db2ly4db2~x2/"><circle cx="419.4" cy="113.0" r="4" fill="#3465a4"><title>Slessor</title></circle></a><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="364.9" cy="229.3" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="341.5" cy="156.1" r="4" fill="#3465a4"><title>Milling-Kristensen</title></circle></a><a href="/variants/s8/y52db6lb3db2lb2db2lb16dr3~x2/"><circle cx="428.9" cy="152.2" r="4" fill="#3465a4"><title>Scotch House</title></circle></a><circle cx="361.6" cy="151.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

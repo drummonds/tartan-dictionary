@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g40n1dp4n1dp4k4r1k1r1k1r1k1r2w4~x2/">Mighty Men</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g40n1dp4n1dp4k4r1k1r1k1r1k1r2w4~x2/"><img src="/variants/s14/g40n1dp4n1dp4k4r1k1r1k1r1k1r2w4~x2/sett.png" alt="Mighty Men sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mighty-men/">Mighty Men</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mighty-men/"><img src="/variants/s14/g40n1dp4n1dp4k4r1k1r1k1r1k1r2w4~x2/sett.png" alt="Mighty Men sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

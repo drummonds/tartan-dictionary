@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/">Farquharson Dress (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/"><img src="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/sett.png" alt="Farquharson Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fa/farquharson-dress/">Farquharson Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fa/farquharson-dress/"><img src="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/sett.png" alt="Farquharson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

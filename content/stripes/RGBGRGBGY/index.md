@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/">Cruikshank (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/"><img src="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/sett.png" alt="Cruikshank (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/cruikshank/">Cruikshank</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/cruikshank/"><img src="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/sett.png" alt="Cruikshank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Grant, Champion"
   url: "/tartans/g/gr/grant-champion/"
 - name: "Grant, Champion"
-  url: "/setts/r14y2r6k1y14k1g10y1g10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r14y2r6k1y14k1g10y1g10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grant-champion/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKGKRGR](/stripes/gggkgkrgr/).
 
 Part of the [Grant, Champion](/tartans/g/gr/grant-champion/) tartan — the named design grouping this sett with its other cloths.

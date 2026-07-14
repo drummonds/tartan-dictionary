@@ -10,10 +10,10 @@ crumbs:
 - name: "Moran Family Ubique"
   url: "/tartans/m/mo/moran-family-ubique/"
 - name: "Moran Family Ubique"
-  url: "/setts/dg68k2dg2k2dg2dy8r8k8dy2db7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg68k2dg2k2dg2dy8r8k8dy2db7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/moran-family-ubique/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKRGGKGKG](/stripes/bgkrggkgkg/).
 
 Part of the [Moran Family Ubique](/tartans/m/mo/moran-family-ubique/) tartan — the named design grouping this sett with its other cloths.

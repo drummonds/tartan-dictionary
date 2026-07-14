@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/g24k3g3k3g3k18dt2t2dt2t2dt13w3dt13t2dt2t2dt2k18g19k4g4~x2~t2405244/">Dorris</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/g24k3g3k3g3k18dt2t2dt2t2dt13w3dt13t2dt2t2dt2k18g19k4g4~x2~t2405244/"><img src="/variants/s21/g24k3g3k3g3k18dt2t2dt2t2dt13w3dt13t2dt2t2dt2k18g19k4g4~x2~t2405244/sett.png" alt="Dorris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/dorris/">Dorris</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/dorris/"><img src="/variants/s21/g24k3g3k3g3k18dt2t2dt2t2dt13w3dt13t2dt2t2dt2k18g19k4g4~x2~t2405244/sett.png" alt="Dorris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

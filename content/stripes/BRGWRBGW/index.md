@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/">James of Glencarr (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/"><img src="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/sett.png" alt="James of Glencarr (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/james-of-glencarr/">James of Glencarr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/james-of-glencarr/"><img src="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/sett.png" alt="James of Glencarr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

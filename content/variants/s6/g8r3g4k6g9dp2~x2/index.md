@@ -8,10 +8,10 @@ crumbs:
 - name: "Milton"
   url: "/tartans/m/mi/milton/"
 - name: "Milton"
-  url: "/setts/g8r3g4k6g9dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8r3g4k6g9dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mi/milton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGRG](/stripes/bgkgrg/).
 
 Part of the [Milton](/tartans/m/mi/milton/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Tyneside Scottish"
   url: "/tartans/t/ty/tyneside-scottish/"
 - name: "Tyneside Scottish (Khaki)"
-  url: "/setts/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ty/tyneside-scottish/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgb/).
 
 Part of the [Tyneside Scottish](/tartans/t/ty/tyneside-scottish/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4176](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1914 — Tyneside Scottish (Khaki) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4176">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><br><em>An unusual colour variation of Black Watch designed during World War 1 (WW1) for Tyneside Scottish Regiment, but regiment disbanded after WW1 and tartan came to be regarded as a district tartan. Sometimes includes blue, sometimes dark brown, sometimes purple and sometimes green. This version based on JCT telephone reading of his Sindex file card 2 Dec 1994. 't'= khaki. Possibly had the nickname of 'Sandbag tartan' (Alasdair Campbell of Airds, Aug. 2005).</em></li>
-<li>1914 — Tyneside Scottish Khaki (Milit/Dist) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><br><em>An unusual colour variation of Black Watch designed during World War 1 (WW1) for Tyneside Scottish Regiment, but regiment disbanded after WW1 and tartan came to be regarded as a district tartan. Sometimes includes blue, sometimes dark brown, sometimes purple and sometimes green. This version based on JCT telephone reading of his Sindex file card 2 Dec 1994. "t"= khaki. Possibly had the nickname of 'Sandbag tartan' (Alasdair Campbell of Airds, Aug. 2005).</em></li>
+<li>1914 — Tyneside Scottish Khaki (Milit/Dist) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5082/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C1C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AK #1C1C1C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8C7038;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="TK #8C7038"></span><br><em>An unusual colour variation of Black Watch designed during World War 1 (WW1) for Tyneside Scottish Regiment, but regiment disbanded after WW1 and tartan came to be regarded as a district tartan. Sometimes includes blue, sometimes dark brown, sometimes purple and sometimes green. This version based on JCT telephone reading of his Sindex file card 2 Dec 1994. "t"= khaki. Possibly had the nickname of 'Sandbag tartan' (Alasdair Campbell of Airds, Aug. 2005).</em></li>
 </ul>
 </details>
 

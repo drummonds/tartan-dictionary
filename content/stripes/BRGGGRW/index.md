@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db24r27g20y6g20r2lb3~x2/">Buchanhaven Heritage</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db24r27g20y6g20r2lb3~x2/"><img src="/variants/s7/db24r27g20y6g20r2lb3~x2/sett.png" alt="Buchanhaven Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buchanhaven-heritage/">Buchanhaven Heritage</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buchanhaven-heritage/"><img src="/variants/s7/db24r27g20y6g20r2lb3~x2/sett.png" alt="Buchanhaven Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

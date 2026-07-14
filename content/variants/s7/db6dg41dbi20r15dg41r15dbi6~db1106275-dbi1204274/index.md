@@ -12,10 +12,10 @@ crumbs:
 - name: "Bean Hunting"
   url: "/tartans/b/be/bean-hunting-2/"
 - name: "Bean Hunting Clan Tartan"
-  url: "/setts/db6dg41dbi20r15dg41r15dbi6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6dg41dbi20r15dg41r15dbi6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/bean-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRGRB](/stripes/bgbrgrb/).
 
 Part of the [Bean Hunting](/tartans/b/be/bean-hunting-2/) tartan — the named design grouping this sett with its other cloths.

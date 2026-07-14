@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/">McFly School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/"><img src="/variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/sett.png" alt="McFly School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcfly/">McFly</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcfly/"><img src="/variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/sett.png" alt="McFly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

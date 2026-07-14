@@ -8,10 +8,10 @@ crumbs:
 - name: "Myres Castle"
   url: "/tartans/m/my/myres-castle/"
 - name: "Myres Castle"
-  url: "/setts/dgi3dg12o6dgii3dp15oi2dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dgi3dg12o6dgii3dp15oi2dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/my/myres-castle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGRGG](/stripes/brbgrgg/).
 
 Part of the [Myres Castle](/tartans/m/my/myres-castle/) tartan — the named design grouping this sett with its other cloths.

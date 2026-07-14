@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/">Western Illinois University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/"><img src="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/sett.png" alt="Western Illinois University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/western-illinois-university/">Western Illinois University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/western-illinois-university/"><img src="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/sett.png" alt="Western Illinois University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

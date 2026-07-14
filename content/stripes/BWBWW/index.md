@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db24lb13db4lb4w2~x2/">Gallaecia (Unofficial) (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db24lb13db4lb4w2~x2/"><img src="/variants/s5/db24lb13db4lb4w2~x2/sett.png" alt="Gallaecia (Unofficial) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/db72lb6db12lb17w6~x2/">GulfMark</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db72lb6db12lb17w6~x2/"><img src="/variants/s5/db72lb6db12lb17w6~x2/sett.png" alt="GulfMark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/lb40w25db16lb8db4~x2/">Louise Beveridge (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lb40w25db16lb8db4~x2/"><img src="/variants/s5/lb40w25db16lb8db4~x2/sett.png" alt="Louise Beveridge (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gallaecia/">Gallaecia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gallaecia/"><img src="/variants/s5/db24lb13db4lb4w2~x2/sett.png" alt="Gallaecia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/gulfmark/">GulfMark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/gulfmark/"><img src="/variants/s5/db72lb6db12lb17w6~x2/sett.png" alt="GulfMark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/louise-beveridge/">Louise Beveridge</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/louise-beveridge/"><img src="/variants/s5/lb40w25db16lb8db4~x2/sett.png" alt="Louise Beveridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

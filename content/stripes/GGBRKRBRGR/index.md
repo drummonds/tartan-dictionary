@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/">Stirling &amp; Bannockburn (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><img src="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/sett.png" alt="Stirling &amp; Bannockburn (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stirling-bannockburn/">Stirling &amp; Bannockburn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stirling-bannockburn/"><img src="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/sett.png" alt="Stirling &amp; Bannockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3/">Barkway (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3/"><img src="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/sett.png" alt="Barkway (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barkway-wedding-2012/">Barkway Wedding 2012</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barkway-wedding-2012/"><img src="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/sett.png" alt="Barkway Wedding 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

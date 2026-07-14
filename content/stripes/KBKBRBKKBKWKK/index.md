@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/">Pride of Norway</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/"><img src="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/sett.png" alt="Pride of Norway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-norway-2/">Pride of Norway</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-norway-2/"><img src="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/sett.png" alt="Pride of Norway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

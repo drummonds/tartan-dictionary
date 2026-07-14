@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/r3g12r2g1r1g1r4db3r1db3r28db1r3db2~x2/">Ross #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/r3g12r2g1r1g1r4db3r1db3r28db1r3db2~x2/"><img src="/variants/s14/r3g12r2g1r1g1r4db3r1db3r28db1r3db2~x2/sett.png" alt="Ross #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-5/">Ross 5</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-5/"><img src="/variants/s14/r3g12r2g1r1g1r4db3r1db3r28db1r3db2~x2/sett.png" alt="Ross 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/">Ross, Old</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/"><img src="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/sett.png" alt="Ross, Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/ross-old/">Ross, Old</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/ross-old/"><img src="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/sett.png" alt="Ross, Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

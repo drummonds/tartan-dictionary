@@ -10,10 +10,10 @@ crumbs:
 - name: "Braveheart Commemorative"
   url: "/tartans/b/br/braveheart-commemorative/"
 - name: "Braveheart Commemorative Tartan"
-  url: "/setts/k30db3k4dp2k2dp2k2dg10r6k2r3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k30db3k4dp2k2dp2k2dg10r6k2r3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/braveheart-commemorative/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/).
 
 Part of the [Braveheart Commemorative](/tartans/b/br/braveheart-commemorative/) tartan — the named design grouping this sett with its other cloths.

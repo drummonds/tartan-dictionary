@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb26w2y1w3y2w3y4~x2/">Argentine Flag</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb26w2y1w3y2w3y4~x2/"><img src="/variants/s7/lb26w2y1w3y2w3y4~x2/sett.png" alt="Argentine Flag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/argentine-flag/">Argentine Flag</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/argentine-flag/"><img src="/variants/s7/lb26w2y1w3y2w3y4~x2/sett.png" alt="Argentine Flag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

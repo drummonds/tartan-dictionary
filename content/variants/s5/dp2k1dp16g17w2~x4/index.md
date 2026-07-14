@@ -8,10 +8,10 @@ crumbs:
 - name: "Kansai Highland Games"
   url: "/tartans/k/ka/kansai-highland-games/"
 - name: "Kansai Highland Games"
-  url: "/setts/dp2k1dp16g17w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp2k1dp16g17w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ka/kansai-highland-games/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGW](/stripes/bkbgw/).
 
 Part of the [Kansai Highland Games](/tartans/k/ka/kansai-highland-games/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1928](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/08/1999 — Kansai Highland Games (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1928">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>The Kansai Highland Games were founded in 1989 by Maud Robertson Ramsey (Lady Ramsey MBE) These games are held annually in October in Kobe, Japan. No details of tartan known. Estimated threadcount for display purposes only.</em></li>
-<li>1999 — Kansai Highland Games (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3988">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>The Kansai Highland Games were founded in 1989 by Maud Robertson Ramsey Nomiyamh (Lady Ramsey MBE) These games are held annually in October in Kobe, Japan.</em></li>
+<li>1999 — Kansai Highland Games (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3988/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>The Kansai Highland Games were founded in 1989 by Maud Robertson Ramsey Nomiyamh (Lady Ramsey MBE) These games are held annually in October in Kobe, Japan.</em></li>
 </ul>
 </details>
 

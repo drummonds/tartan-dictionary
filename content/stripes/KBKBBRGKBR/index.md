@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/">Wardlaw</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><img src="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/sett.png" alt="Wardlaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wardlaw/">Wardlaw</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wardlaw/"><img src="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/sett.png" alt="Wardlaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

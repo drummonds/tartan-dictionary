@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/">Young in Australia (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/"><img src="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/sett.png" alt="Young in Australia (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yo/young-in-australia/">Young in Australia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yo/young-in-australia/"><img src="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/sett.png" alt="Young in Australia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y3g14k9r2k9db18k3w1~x2/">Ayre (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y3g14k9r2k9db18k3w1~x2/"><img src="/variants/s8/y3g14k9r2k9db18k3w1~x2/sett.png" alt="Ayre (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayre/">Ayre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ay/ayre/"><img src="/variants/s8/y3g14k9r2k9db18k3w1~x2/sett.png" alt="Ayre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Anglicare"
   url: "/tartans/a/an/anglicare/"
 - name: "Anglicare"
-  url: "/setts/b12w4b4k12db12k4db8b12lb12w11r4w8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b12w4b4k12db12k4db8b12lb12w11r4w8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/anglicare/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKBBWWRW](/stripes/bwbkbkbbwwrw/).
 
 Part of the [Anglicare](/tartans/a/an/anglicare/) tartan — the named design grouping this sett with its other cloths.

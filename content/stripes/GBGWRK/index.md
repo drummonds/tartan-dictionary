@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k8r12w8g15db30y5~x2/">Reekie (Edmonton)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k8r12w8g15db30y5~x2/"><img src="/variants/s6/k8r12w8g15db30y5~x2/sett.png" alt="Reekie (Edmonton) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/reekie/">Reekie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/reekie/"><img src="/variants/s6/k8r12w8g15db30y5~x2/sett.png" alt="Reekie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

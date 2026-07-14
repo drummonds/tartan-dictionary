@@ -8,10 +8,10 @@ crumbs:
 - name: "MacCaskill"
   url: "/tartans/m/ma/maccaskill/"
 - name: "MacCaskill Family Tartan"
-  url: "/setts/k2r1g15k15db15y1k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2r1g15k15db15y1k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maccaskill/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBKGRK](/stripes/kgbkgrk/).
 
 Part of the [MacCaskill](/tartans/m/ma/maccaskill/) tartan — the named design grouping this sett with its other cloths.

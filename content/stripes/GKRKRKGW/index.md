@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/">Hoa Sen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><img src="/variants/s8/y8k2r23k1r17k1g4w3~x2/sett.png" alt="Hoa Sen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hoa-sen/">Hoa Sen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hoa-sen/"><img src="/variants/s8/y8k2r23k1r17k1g4w3~x2/sett.png" alt="Hoa Sen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

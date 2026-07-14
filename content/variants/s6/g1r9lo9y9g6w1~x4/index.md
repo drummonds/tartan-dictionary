@@ -8,10 +8,10 @@ crumbs:
 - name: "Max Reger, The"
   url: "/tartans/m/ma/max-reger-the/"
 - name: "Max Reger, The"
-  url: "/setts/g1r9lo9y9g6w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g1r9lo9y9g6w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/max-reger-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRYGGW](/stripes/gryggw/).
 
 Part of the [Max Reger, The](/tartans/m/ma/max-reger-the/) tartan — the named design grouping this sett with its other cloths.

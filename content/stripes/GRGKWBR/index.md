@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r12db68w7k39g75r6g6/">Rhun (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r12db68w7k39g75r6g6/"><img src="/variants/s7/r12db68w7k39g75r6g6/sett.png" alt="Rhun (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r2db16w1k16g30r1g2~x2/">Sinclair Hunting Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><img src="/variants/s7/r2db16w1k16g30r1g2~x2/sett.png" alt="Sinclair Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/rh/rhun/">Rhun</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/rh/rhun/"><img src="/variants/s7/r12db68w7k39g75r6g6/sett.png" alt="Rhun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sinclair-hunting/">Sinclair Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sinclair-hunting/"><img src="/variants/s7/r2db16w1k16g30r1g2~x2/sett.png" alt="Sinclair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

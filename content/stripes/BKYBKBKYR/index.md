@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dp3k40ly3dp6k10dp10k3ly1r3~x2/">Midnight Glen (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp3k40ly3dp6k10dp10k3ly1r3~x2/"><img src="/variants/s9/dp3k40ly3dp6k10dp10k3ly1r3~x2/sett.png" alt="Midnight Glen (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/midnight-glen/">Midnight Glen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/midnight-glen/"><img src="/variants/s9/dp3k40ly3dp6k10dp10k3ly1r3~x2/sett.png" alt="Midnight Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

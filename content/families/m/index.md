@@ -3,7 +3,7 @@ title: "Families & clans — M"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-377 clans and families beginning with M. [Back to the A–Z](/families/).
+376 clans and families beginning with M. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><strong>M'Kleod</strong></a></li>
@@ -363,7 +363,6 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/mungall/"><img src="/variants/s15/lg27g7r2k7y2k7r2g7db10r2lg9r3lg2r2db3~x2/sett.png" alt="Mungall" width="140"><br><strong>Mungall</strong></a></li>
 <li><a class="tartan" href="/families/munro/"><img src="/variants/s14/db6r8db1r2y5r5db5r5y1r2db1r2db1r6~x2/sett.png" alt="Munro" width="140"><br><strong>Munro</strong></a></li>
 <li><a class="tartan" href="/families/munro-of-lindertis/"><img src="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/sett.png" alt="Munro of Lindertis" width="140"><br><strong>Munro of Lindertis</strong></a></li>
-<li><a class="tartan" href="/families/munster/"><img src="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/sett.png" alt="Munster" width="140"><br><strong>Munster</strong></a></li>
 <li><a class="tartan" href="/families/murdoch/"><img src="/variants/s6/k2dr1dbi17dr17db1y2~x4~dbi1404245-db1204274/sett.png" alt="Murdoch" width="140"><br><strong>Murdoch</strong></a></li>
 <li><a class="tartan" href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/"><strong>Murison</strong></a></li>
 <li><a class="tartan" href="/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/"><strong>Murison, Ina</strong></a></li>

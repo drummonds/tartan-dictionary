@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish National"
-  url: "/tartans/s/sc/scottish-national/"
+  url: "/tartans/s/sc/scottish-national-3/"
 - name: "Scottish National Hunting"
-  url: "/setts/n66m3g3m3g16dr8g3dr3r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n66m3g3m3g16dr8g3dr3r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRGRGBGBRBGBGRGR](/stripes/brgrgbgbrbgbgrgr/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-national-3/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRGRGBGBR](/stripes/brgrgbgbr/).
 
-Part of the [Scottish National](/tartans/s/sc/scottish-national/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish National](/tartans/s/sc/scottish-national-3/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3732](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3732)
 
@@ -28,7 +28,7 @@ Earliest known date: 1996 Designed by Michael King of Philip King Ltd, Aberdeen.
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Scottish National Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3732">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#981C70;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ER #981C70"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><br><em>Designed by Michael King of Philip King Ltd, Aberdeen.</em></li>
-<li>1996 — Scottish National Htg (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2240">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#981C70;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ER #981C70"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><br><em>Designed by Michael King of Philip King Ltd, Aberdeen for anyone to wear..</em></li>
+<li>1996 — Scottish National Htg (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2240/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#981C70;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ER #981C70"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><br><em>Designed by Michael King of Philip King Ltd, Aberdeen for anyone to wear..</em></li>
 <li>1996 — Scottish National (hunting) Universal Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2240">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#981C70;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ER #981C70"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ET #4C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SCR #A00048"></span></li>
 </ul>
 </details>
@@ -58,9 +58,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2240
 
 ## Thread count
-N/132 M6 G6 M6 G32 DR16 G6 DR6 R8 DR6 G6 DR16 G32 M6 G6 M/6
+N/132 M6 G6 M6 G32 DR16 G6 DR6 R/8
 
-One full sett is **454 threads**.
+One full sett is **296 threads**.
+
+<p class="recorded-note">The source recorded this cloth as N/132 M6 G6 M6 G32 DR16 G6 DR6 R8 DR6 G6 DR16 G32 M6 G6 M/6 — 454 threads; it folds to the canonical 296-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -69,7 +71,7 @@ One full sett is **454 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/132 M6 G6 M6 G32 DR16 G6 DR6 R8 DR6 G6 DR16 G32 M6 G6 M/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/132 M6 G6 M6 G32 DR16 G6 DR6 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1/">Dalrymple, of Castleton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1/"><img src="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2008029-r1707016/sett.png" alt="Dalrymple, of Castleton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dalrymple-of-castleton-3/">Dalrymple of Castleton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dalrymple-of-castleton-3/"><img src="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2008029-r1707016/sett.png" alt="Dalrymple of Castleton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

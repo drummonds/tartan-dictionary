@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dg35db40w11y3dg7~x2/">Fife Ethylene Plant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dg35db40w11y3dg7~x2/"><img src="/variants/s5/dg35db40w11y3dg7~x2/sett.png" alt="Fife Ethylene Plant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fife-ethylene-plant/">Fife Ethylene Plant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fife-ethylene-plant/"><img src="/variants/s5/dg35db40w11y3dg7~x2/sett.png" alt="Fife Ethylene Plant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

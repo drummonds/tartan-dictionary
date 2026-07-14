@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/">South Australia (Disputed)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/"><img src="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/sett.png" alt="South Australia (Disputed) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/south-australia/">South Australia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/south-australia/"><img src="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/sett.png" alt="South Australia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

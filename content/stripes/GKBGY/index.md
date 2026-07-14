@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g50k6b11g25ly4~x2/">Glen of Daviot (Dalgleish)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g50k6b11g25ly4~x2/"><img src="/variants/s5/g50k6b11g25ly4~x2/sett.png" alt="Glen of Daviot (Dalgleish) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-of-daviot/">Glen of Daviot</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-of-daviot/"><img src="/variants/s5/g50k6b11g25ly4~x2/sett.png" alt="Glen of Daviot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

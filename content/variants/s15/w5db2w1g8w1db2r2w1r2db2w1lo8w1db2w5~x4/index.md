@@ -12,15 +12,15 @@ crumbs:
 - name: "Wombles"
   url: "/tartans/w/wo/wombles-2/"
 - name: "Wombles #4"
-  url: "/setts/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWYWBRWRBWGWBWBWGWBRWRBWYWBW](/stripes/bwywbrwrbwgwbwbwgwbrwrbwywbw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wo/wombles-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/).
 
 Part of the [Wombles](/tartans/w/wo/wombles-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4775](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4775)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4775](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1970 — Wombles #4 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4775">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>The Wombles were a very popular children's TV programme during the 1970s. They were small furry animal puppets that lived in burrows on Wimbldon Common and came out at night to clean up the rubbish left by people. Scottish Tartans Society records state that Wombles International, of Jacob's Well Mews, London, patented this design which is a variant of the Jacobite tartan. The status of the other Wombles recorded here are in doubt - they are possibly design exercises produced before settling on #4775. A note of caution: #6077 (original Scottish Tartans Authority reference) is a count taken from an actual sample which differs quite a bit from the other reported 'Wombles' setts.</em></li>
-<li>1970s — Wombles 5 (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1783">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>The Wombles were a very popular children's TV programme during the 1970s. They were small furry animal puppets that lived in burrows on Wimbldon Common and came out at night to clean up the rubbish left by people. Tartan Society records state that Wombles International, of Jacob's Well Mews, London, patented this design which is a variant of the Jacobite tartan. The status of the other Wombles recorded here are in doubt - they are possibly design exercises produced before settling on 1783. A note of caution: #6077 is a count taken from an actual sample which differs quite a bit from the other reported 'Wombles' setts.</em></li>
+<li>1970s — Wombles 5 (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1783/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="C #A00048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>The Wombles were a very popular children's TV programme during the 1970s. They were small furry animal puppets that lived in burrows on Wimbldon Common and came out at night to clean up the rubbish left by people. Tartan Society records state that Wombles International, of Jacob's Well Mews, London, patented this design which is a variant of the Jacobite tartan. The status of the other Wombles recorded here are in doubt - they are possibly design exercises produced before settling on 1783. A note of caution: #6077 is a count taken from an actual sample which differs quite a bit from the other reported 'Wombles' setts.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1783
 
 ## Thread count
-W/20 DB8 W4 LO32 W4 DB8 R8 W4 R8 DB8 W4 G32 W4 DB8 W20 DB8 W4 G32 W4 DB8 R8 W4 R8 DB8 W4 LO32 W4 DB/8
+W/20 DB8 W4 G32 W4 DB8 R8 W4 R8 DB8 W4 LO32 W4 DB8 W/20
 
-One full sett is **580 threads**.
+One full sett is **304 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/20 DB8 W4 LO32 W4 DB8 R8 W4 R8 DB8 W4 G32 W4 DB8 W20 DB8 W4 G32 W4 DB8 R8 W4 R8 DB8 W4 LO32 W4 DB/8 — 580 threads; it folds to the canonical 304-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **580 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/20 DB8 W4 LO32 W4 DB8 R8 W4 R8 DB8 W4 G32 W4 DB8 W20 DB8 W4 G32 W4 DB8 R8 W4 R8 DB8 W4 LO32 W4 DB/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/20 DB8 W4 G32 W4 DB8 R8 W4 R8 DB8 W4 LO32 W4 DB8 W/20 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

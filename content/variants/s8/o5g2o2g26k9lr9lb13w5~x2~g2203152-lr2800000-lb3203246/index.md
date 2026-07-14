@@ -12,10 +12,10 @@ crumbs:
 - name: "Alexander of Menstry Hunting"
   url: "/tartans/a/al/alexander-of-menstry-hunting/"
 - name: "Alexander of Menstry Hunting"
-  url: "/setts/o5g2o2g26k9lr9lb13w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o5g2o2g26k9lr9lb13w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/alexander-of-menstry-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGKYWW](/stripes/rgrgkyww/).
 
 Part of the [Alexander of Menstry Hunting](/tartans/a/al/alexander-of-menstry-hunting/) tartan — the named design grouping this sett with its other cloths.

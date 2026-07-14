@@ -8,10 +8,10 @@ crumbs:
 - name: "Brittany Hunting French Fancy"
   url: "/tartans/b/br/brittany-hunting-french-fancy/"
 - name: "Brittany National Walking"
-  url: "/setts/lb4dy27ly8k4ly8k4ly8o11y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4dy27ly8k4ly8k4ly8o11y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brittany-hunting-french-fancy/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRYKYKYGW](/stripes/grykykygw/).
 
 Part of the [Brittany Hunting French Fancy](/tartans/b/br/brittany-hunting-french-fancy/) tartan — the named design grouping this sett with its other cloths.

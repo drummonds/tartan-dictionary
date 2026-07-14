@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k1w1k1w1k1w1k1w1o1~x6/">Dupplin (Estate Check)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k1w1k1w1k1w1k1w1o1~x6/"><img src="/variants/s9/k1w1k1w1k1w1k1w1o1~x6/sett.png" alt="Dupplin (Estate Check) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dupplin/">Dupplin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dupplin/"><img src="/variants/s9/k1w1k1w1k1w1k1w1o1~x6/sett.png" alt="Dupplin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/">MacKnight (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/"><img src="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/sett.png" alt="MacKnight (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macknight/">MacKnight</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macknight/"><img src="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/sett.png" alt="MacKnight sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

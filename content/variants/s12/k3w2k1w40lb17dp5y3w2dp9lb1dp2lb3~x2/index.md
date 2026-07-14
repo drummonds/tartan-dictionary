@@ -12,10 +12,10 @@ crumbs:
 - name: "Allandale Blue Dress"
   url: "/tartans/a/al/allandale-blue-dress/"
 - name: "Allandale Blue Dress Tartan"
-  url: "/setts/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/allandale-blue-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWWBGWBWBW](/stripes/kwkwwbgwbwbw/).
 
 Part of the [Allandale Blue Dress](/tartans/a/al/allandale-blue-dress/) tartan — the named design grouping this sett with its other cloths.

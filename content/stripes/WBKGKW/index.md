@@ -28,17 +28,17 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/lb3k2g2k1db10w1~x8/">Isle of Harris (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb3k2g2k1db10w1~x8/"><img src="/variants/s6/lb3k2g2k1db10w1~x8/sett.png" alt="Isle of Harris (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w1db9k9g9k2w1~x4/">MacNeil 1</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w1db9k9g9k2w1~x4/"><img src="/variants/s6/w1db9k9g9k2w1~x4/sett.png" alt="MacNeil 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/lb3k16g16k16db3lb3~x2/">Murray</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb3k16g16k16db3lb3~x2/"><img src="/variants/s6/lb3k16g16k16db3lb3~x2/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/lb1db11k11g11k2lb1~x2/">Unidentified No 59</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/lb1db11k11g11k2lb1~x2/"><img src="/variants/s6/lb1db11k11g11k2lb1~x2/sett.png" alt="Unidentified No 59 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/isle-of-harris-2/">Isle of Harris</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-harris-2/"><img src="/variants/s6/lb3k2g2k1db10w1~x8/sett.png" alt="Isle of Harris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macneil-1/">MacNeil 1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macneil-1/"><img src="/variants/s6/w1db9k9g9k2w1~x4/sett.png" alt="MacNeil 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-3/">Murray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-3/"><img src="/variants/s6/lb3k16g16k16db3lb3~x2/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-no-59/">Unidentified No 59</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-no-59/"><img src="/variants/s6/lb1db11k11g11k2lb1~x2/sett.png" alt="Unidentified No 59 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/w2dp10k10g9k3w2~x2/">MacNeil 2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w2dp10k10g9k3w2~x2/"><img src="/variants/s6/w2dp10k10g9k3w2~x2/sett.png" alt="MacNeil 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macneil-2/">MacNeil 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macneil-2/"><img src="/variants/s6/w2dp10k10g9k3w2~x2/sett.png" alt="MacNeil 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

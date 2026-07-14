@@ -8,10 +8,10 @@ crumbs:
 - name: "Broz Sanz Elementary School"
   url: "/tartans/b/br/broz-sanz-elementary-school/"
 - name: "Broz Sanz Elementary School"
-  url: "/setts/n20r2db4lb2db4r2db4k1db1k1db1k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n20r2db4lb2db4r2db4k1db1k1db1k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/broz-sanz-elementary-school/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBRBKBKBK](/stripes/brbwbrbkbkbk/).
 
 Part of the [Broz Sanz Elementary School](/tartans/b/br/broz-sanz-elementary-school/) tartan — the named design grouping this sett with its other cloths.

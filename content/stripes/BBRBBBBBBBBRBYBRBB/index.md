@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4o3db4n16~x2/">Cordiner (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4o3db4n16~x2/"><img src="/variants/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4o3db4n16~x2/sett.png" alt="Cordiner (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cordiner/">Cordiner</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cordiner/"><img src="/variants/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4o3db4n16~x2/sett.png" alt="Cordiner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

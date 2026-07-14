@@ -12,10 +12,10 @@ crumbs:
 - name: "Baxter"
   url: "/tartans/b/ba/baxter/"
 - name: "Baxter"
-  url: "/setts/t2g16k1t2k1lo4k1lo4k1t2k1dr16w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t2g16k1t2k1lo4k1lo4k1t2k1dr16w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/baxter/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBKYKYKBKBW](/stripes/bgkbkykykbkbw/).
 
 Part of the [Baxter](/tartans/b/ba/baxter/) tartan — the named design grouping this sett with its other cloths.

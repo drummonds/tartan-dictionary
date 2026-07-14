@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/">Ainslie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/"><img src="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/sett.png" alt="Ainslie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ai/ainslie-2/">Ainslie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ai/ainslie-2/"><img src="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/sett.png" alt="Ainslie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

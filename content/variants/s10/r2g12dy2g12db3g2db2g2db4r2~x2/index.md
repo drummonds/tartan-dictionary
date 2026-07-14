@@ -12,10 +12,10 @@ crumbs:
 - name: "Ayrton of Laoch"
   url: "/tartans/a/ay/ayrton-of-laoch/"
 - name: "Ayrton of Laoch (Personal)"
-  url: "/setts/r2g12dy2g12db3g2db2g2db4r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2g12dy2g12db3g2db2g2db4r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ay/ayrton-of-laoch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGBGGGR](/stripes/rbgbgbgggr/).
 
 Part of the [Ayrton of Laoch](/tartans/a/ay/ayrton-of-laoch/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=156](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1978 — Ayrton of Laoch (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=156">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Designed by Mr S Ayrton of Drymen near Glasgow. Details taken from Tartans Society Sindex in 2002.</em></li>
-<li>1978/9 — Ayrton of Laoch (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1330">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Status not known. Designed (along with four Ayrtons) by Mr S Ayrton of Drymen near Glasgow. Details entered from Tartans Society Sindex archives in 2002. Mr Ayrton requested that it should be restricted.</em></li>
+<li>1978/9 — Ayrton of Laoch (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1330/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Status not known. Designed (along with four Ayrtons) by Mr S Ayrton of Drymen near Glasgow. Details entered from Tartans Society Sindex archives in 2002. Mr Ayrton requested that it should be restricted.</em></li>
 </ul>
 </details>
 

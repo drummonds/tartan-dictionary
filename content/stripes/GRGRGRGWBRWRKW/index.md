@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/lb18k1r1w1r4db4lb4g4r1g1r1g1r1g1~x4/">Hill 70</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/lb18k1r1w1r4db4lb4g4r1g1r1g1r1g1~x4/"><img src="/variants/s14/lb18k1r1w1r4db4lb4g4r1g1r1g1r1g1~x4/sett.png" alt="Hill 70 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hill-70/">Hill 70</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hill-70/"><img src="/variants/s14/lb18k1r1w1r4db4lb4g4r1g1r1g1r1g1~x4/sett.png" alt="Hill 70 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

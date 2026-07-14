@@ -8,10 +8,10 @@ crumbs:
 - name: "Lawrie"
   url: "/tartans/l/la/lawrie/"
 - name: "Lawrie Clan Tartan"
-  url: "/setts/dp6dy2dp1g25db16k2db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp6dy2dp1g25db16k2db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lawrie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKB](/stripes/bgbgbkb/).
 
 Part of the [Lawrie](/tartans/l/la/lawrie/) tartan — the named design grouping this sett with its other cloths.

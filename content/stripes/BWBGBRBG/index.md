@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/">Royal Agricultural Winter Fair</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/"><img src="/variants/s8/db32w1db1y2db1r1db4dg16~x4/sett.png" alt="Royal Agricultural Winter Fair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-agricultural-winter-fair/">Royal Agricultural Winter Fair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-agricultural-winter-fair/"><img src="/variants/s8/db32w1db1y2db1r1db4dg16~x4/sett.png" alt="Royal Agricultural Winter Fair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

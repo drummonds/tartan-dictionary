@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/r16g1r1g1r1g4k1lb1k1y1k1t6db4t6k1y1k1lb1k1g4r12g1r1k1~x4~lb3200000-t2503227/">Macan of Lurgyvallan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/r16g1r1g1r1g4k1lb1k1y1k1t6db4t6k1y1k1lb1k1g4r12g1r1k1~x4~lb3200000-t2503227/"><img src="/variants/s24/r16g1r1g1r1g4k1lb1k1y1k1t6db4t6k1y1k1lb1k1g4r12g1r1k1~x4~lb3200000-t2503227/sett.png" alt="Macan of Lurgyvallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macan-of-lurgyvallan/">MacAn of Lurgyvallan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macan-of-lurgyvallan/"><img src="/variants/s24/r16g1r1g1r1g4k1lb1k1y1k1t6db4t6k1y1k1lb1k1g4r12g1r1k1~x4~lb3200000-t2503227/sett.png" alt="MacAn of Lurgyvallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

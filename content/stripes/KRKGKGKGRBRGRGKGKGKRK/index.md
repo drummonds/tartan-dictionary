@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/">Kinnear, Pilette of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/"><img src="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/sett.png" alt="Kinnear, Pilette of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinnear-pilette-of/">Kinnear, Pilette of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinnear-pilette-of/"><img src="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/sett.png" alt="Kinnear, Pilette of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

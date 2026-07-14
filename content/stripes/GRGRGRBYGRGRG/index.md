@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/">Barbecue Presbyterian Church (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/"><img src="/variants/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/sett.png" alt="Barbecue Presbyterian Church (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barbecue-presbyterian-church/">Barbecue Presbyterian Church</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barbecue-presbyterian-church/"><img src="/variants/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/sett.png" alt="Barbecue Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

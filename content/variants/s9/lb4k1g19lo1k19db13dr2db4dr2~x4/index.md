@@ -12,15 +12,15 @@ crumbs:
 - name: "Whitson"
   url: "/tartans/w/wh/whitson/"
 - name: "Whitson"
-  url: "/setts/lb4k1g19lo1k19db13dr2db4dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb4k1g19lo1k19db13dr2db4dr2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KGYKBBBBBBBKYGKW](/stripes/kgykbbbbbbbkygkw/).
+provenance below. It is one weaving of the [sett](/tartans/w/wh/whitson/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBBBKYGKW](/stripes/bbbbkygkw/).
 
 Part of the [Whitson](/tartans/w/wh/whitson/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4617](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4617)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4617](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1981 — Whitson (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4617">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C6040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #3C6040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0C585C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #0C585C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>UK Design No 514358. Sett designed by Scottish Tartans Society for Angus Whitson, Montrose, May 1984 To be the Whitson Tartan. Sample in Scottish Tartans Authority's Collection.</em></li>
-<li>ca. 1984 — Whitson (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1422">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C6040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #3C6040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0C585C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #0C585C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Angus Whitson and his family with help from Micheil MacDonald and then woven by Peter MacDonald. Can be worn by all of the name. angus@writehand.co.uk Sample in STA Collection.</em></li>
+<li>ca. 1984 — Whitson (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1422/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C6040;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #3C6040"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0C585C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #0C585C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>Designed by Angus Whitson and his family with help from Micheil MacDonald and then woven by Peter MacDonald. Can be worn by all of the name. angus@writehand.co.uk Sample in STA Collection.</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1422
 
 ## Thread count
-LB/16 K4 G76 LO4 K76 DB52 DR8 DB16 DR8 DB16 DR8 DB52 K76 LO4 G76 K/4
+LB/16 K4 G76 LO4 K76 DB52 DR8 DB16 DR/8
 
-One full sett is **972 threads**.
+One full sett is **496 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/16 K4 G76 LO4 K76 DB52 DR8 DB16 DR8 DB16 DR8 DB52 K76 LO4 G76 K/4 — 972 threads; it folds to the canonical 496-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **972 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/16 K4 G76 LO4 K76 DB52 DR8 DB16 DR8 DB16 DR8 DB52 K76 LO4 G76 K/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/16 K4 G76 LO4 K76 DB52 DR8 DB16 DR/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

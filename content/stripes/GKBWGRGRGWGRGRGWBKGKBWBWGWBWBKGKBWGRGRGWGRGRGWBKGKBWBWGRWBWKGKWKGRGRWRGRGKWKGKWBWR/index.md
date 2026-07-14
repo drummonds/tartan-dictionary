@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s82/r5w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3g3k7w5db5w23r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3k5db1w4db4w19g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3~x2/">Victoria Highland Dress #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s82/r5w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3g3k7w5db5w23r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3k5db1w4db4w19g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3~x2/"><img src="/variants/s82/r5w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3g3k7w5db5w23r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3k5db1w4db4w19g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3~x2/sett.png" alt="Victoria Highland Dress #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/victoria-highland-dress-2/">Victoria Highland Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/victoria-highland-dress-2/"><img src="/variants/s82/r5w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3g3k7w5db5w23r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3k5db1w4db4w19g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3~x2/sett.png" alt="Victoria Highland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

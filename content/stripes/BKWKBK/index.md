@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k1db7k4lb1k4b1~x4/">Scottish Express International</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k1db7k4lb1k4b1~x4/"><img src="/variants/s6/k1db7k4lb1k4b1~x4/sett.png" alt="Scottish Express International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-express-international/">Scottish Express International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-express-international/"><img src="/variants/s6/k1db7k4lb1k4b1~x4/sett.png" alt="Scottish Express International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

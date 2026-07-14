@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/">Gammell (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><img src="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/sett.png" alt="Gammell (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gammell-2/">Gammell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gammell-2/"><img src="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/sett.png" alt="Gammell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

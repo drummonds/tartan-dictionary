@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/r2k12g2w5g2k2r2k5b10k2b4k2b4k2b4k10w2k1r2~x2/">Southwick</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/r2k12g2w5g2k2r2k5b10k2b4k2b4k2b4k10w2k1r2~x2/"><img src="/variants/s19/r2k12g2w5g2k2r2k5b10k2b4k2b4k2b4k10w2k1r2~x2/sett.png" alt="Southwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/southwick/">Southwick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/southwick/"><img src="/variants/s19/r2k12g2w5g2k2r2k5b10k2b4k2b4k2b4k10w2k1r2~x2/sett.png" alt="Southwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

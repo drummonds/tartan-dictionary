@@ -8,15 +8,15 @@ crumbs:
 - name: "Satchidananda"
   url: "/tartans/s/sa/satchidananda/"
 - name: "Satchidananda (Personal)"
-  url: "/setts/dy18ly4lb10w2r20ly5r2w2dy6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy18ly4lb10w2r20ly5r2w2dy6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GWRYRWWYGYWWRYRW](/stripes/gwryrwwygywwryrw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sa/satchidananda/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWRYRWWYG](/stripes/gwryrwwyg/).
 
 Part of the [Satchidananda](/tartans/s/sa/satchidananda/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3657](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3657)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3657](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/07/1901 — Satchidananda (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3657">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FC5000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #FC5000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><br><em>Designed by Giovanna McCall of the Ananda Weavery in Yogaville, Virginia. It is reported that this handwoven tartan was presented to the Reverand Sri Swami Satchiananda (founder of Integral Yoga International) on his 87th Birthday (22nd December 2001). The sample was hand woven at 22 tpi making a sett of 5.5 inches. Estimated count for display purposes only. Orange should be much brighter.</em></li>
-<li>2001 — Satchidananda (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3979">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FC5000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #FC5000"></span><br><em>Designed by Giovanna McCall of the Ananda Weavery in Yogaville, Virginia. It is reported that this handwoven tartan was presented to the Reverand Sri Swami Satchiananda (founder of Integral Yoga International) on his 87th Birthday ( 22nd December 2001). The sample was hand woven at 22 tpi making a sett of 5.5 inches. Estimated count for display purposes only. Orange should be much brighter.</em></li>
+<li>2001 — Satchidananda (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3979/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FC5000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AR #FC5000"></span><br><em>Designed by Giovanna McCall of the Ananda Weavery in Yogaville, Virginia. It is reported that this handwoven tartan was presented to the Reverand Sri Swami Satchiananda (founder of Integral Yoga International) on his 87th Birthday ( 22nd December 2001). The sample was hand woven at 22 tpi making a sett of 5.5 inches. Estimated count for display purposes only. Orange should be much brighter.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2853
 
 ## Thread count
-DY/12 W4 R4 LY10 R40 W4 LB20 LY8 DY36 LY8 LB20 W4 R40 LY10 R4 W/4
+DY/36 LY8 LB20 W4 R40 LY10 R4 W4 DY/12
 
-One full sett is **440 threads**.
+One full sett is **228 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DY/12 W4 R4 LY10 R40 W4 LB20 LY8 DY36 LY8 LB20 W4 R40 LY10 R4 W/4 — 440 threads; it folds to the canonical 228-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **440 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/12 W4 R4 LY10 R40 W4 LB20 LY8 DY36 LY8 LB20 W4 R40 LY10 R4 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/36 LY8 LB20 W4 R40 LY10 R4 W4 DY/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

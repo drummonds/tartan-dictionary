@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r2dg6r2dg6r16ly1~x4/">Cameron (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r2dg6r2dg6r16ly1~x4/"><img src="/variants/s6/r2dg6r2dg6r16ly1~x4/sett.png" alt="Cameron (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r29dg2r2dg2r6ly21~x4/">Maguire, Black (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r29dg2r2dg2r6ly21~x4/"><img src="/variants/s6/r29dg2r2dg2r6ly21~x4/sett.png" alt="Maguire, Black (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cameron-4/">Cameron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-4/"><img src="/variants/s6/r2dg6r2dg6r16ly1~x4/sett.png" alt="Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maguire-2/">Maguire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maguire-2/"><img src="/variants/s6/r29dg2r2dg2r6ly21~x4/sett.png" alt="Maguire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

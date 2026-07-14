@@ -12,10 +12,10 @@ crumbs:
 - name: "Dundas"
   url: "/tartans/d/du/dundas-3/"
 - name: "Dundas, (Red)"
-  url: "/setts/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dundas-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBKRKWRBRWKRGRBKW](/stripes/grbkrkwrbrwkrgrbkw/).
 
 Part of the [Dundas](/tartans/d/du/dundas-3/) tartan — the named design grouping this sett with its other cloths.

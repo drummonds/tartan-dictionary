@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/">Rankin, John (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/"><img src="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/sett.png" alt="Rankin, John (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rankin-john/">Rankin, John</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rankin-john/"><img src="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/sett.png" alt="Rankin, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

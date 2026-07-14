@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/db1n2db2n1db32w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1~x2/">Kilnsey (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/db1n2db2n1db32w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1~x2/"><img src="/variants/s28/db1n2db2n1db32w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1~x2/sett.png" alt="Kilnsey (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kilnsey/">Kilnsey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilnsey/"><img src="/variants/s28/db1n2db2n1db32w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1~x2/sett.png" alt="Kilnsey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

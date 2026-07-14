@@ -8,22 +8,22 @@ crumbs:
 - name: "Debbie Munro Memorial"
   url: "/tartans/d/de/debbie-munro-memorial/"
 - name: "Debbie Munro Memorial (Corporate)"
-  url: "/setts/t26lp11t3lp4k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t26lp11t3lp4k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/debbie-munro-memorial/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWK](/stripes/bwbwk/).
 
 Part of the [Debbie Munro Memorial](/tartans/d/de/debbie-munro-memorial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7638](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7638)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7638/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7638/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>May 2008 — Debbie Munro Memorial (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7638">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C9C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #003C9C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FC9CD4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #FC9CD4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed in memory of cancer victim, Debbie Munro and to be used for kilts for a Californian rugby team in a tournament in Edinburgh in Sep 2008 The colors taken from those of Cancer ribbons.</em></li>
+<li>May 2008 — Debbie Munro Memorial (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7638/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C9C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #003C9C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FC9CD4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #FC9CD4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed in memory of cancer victim, Debbie Munro and to be used for kilts for a Californian rugby team in a tournament in Edinburgh in Sep 2008 The colors taken from those of Cancer ribbons.</em></li>
 <li>undated — Debbie Munro Memorial (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5653">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#003C9C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #003C9C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FC9CD4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CR #FC9CD4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed in memory of cancer victim, Debbie Munro and to be used for kilts for a Californian rugby team in a tournament in Edinburgh in September 2008. The colors taken from those of Cancer ribbons.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7638](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

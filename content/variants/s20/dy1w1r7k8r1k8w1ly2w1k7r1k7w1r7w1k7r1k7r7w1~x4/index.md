@@ -8,15 +8,15 @@ crumbs:
 - name: "Order of the Holy Sepulchre"
   url: "/tartans/o/or/order-of-the-holy-sepulchre/"
 - name: "Order of the Holy Sepulchre"
-  url: "/setts/dy1w1r7k8r1k8w1ly2w1k7r1k7w1r7w1k7r1k7r7w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy1w1r7k8r1k8w1ly2w1k7r1k7w1r7w1k7r1k7r7w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GWRKRKWYWKRKWRWKRKRWRKRKWRWKRKWYWKRKRW](/stripes/gwrkrkwywkrkwrwkrkrwrkrkwrwkrkwywkrkrw/).
+provenance below. It is one weaving of the [sett](/tartans/o/or/order-of-the-holy-sepulchre/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWRKRKWYWKRKWRWKRKRW](/stripes/gwrkrkwywkrkwrwkrkrw/).
 
 Part of the [Order of the Holy Sepulchre](/tartans/o/or/order-of-the-holy-sepulchre/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4816](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4816)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4816](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1990 — Order of the Holy Sepulchre (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4816">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Scottish Tartans Society notes say based on Wilsons Priests or Clergy. Has the approval of the Lieutenant of the Order in Scotland. The Order was one of a number of knightly orders founded at the time of the Crusades. Yellow & white were the colours of Jerusalem, red was the colour of the cresses worn by Crusaders and black refers to the Canons Regular at the Holy Sepulchre (Iain Zaczek notes).</em></li>
-<li>1990 — Order of the Holy Sepulchre (Corp) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2161">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Tartan Society notes say based on Wilsons Priests or Clergy. Has the approval of the Lieutenant of the Order in Scotland. The Order was one of a number of knightly orders founded at the time of the Crusades. Yellow & white were the coloiours of Jerusalem, red was the colour of the cresses worn by Crusaders and black refers to the Canons Regular at the Holy Sepulchre (Iain Zaczek notes).</em></li>
+<li>1990 — Order of the Holy Sepulchre (Corp) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2161/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Tartan Society notes say based on Wilsons Priests or Clergy. Has the approval of the Lieutenant of the Order in Scotland. The Order was one of a number of knightly orders founded at the time of the Crusades. Yellow & white were the coloiours of Jerusalem, red was the colour of the cresses worn by Crusaders and black refers to the Canons Regular at the Holy Sepulchre (Iain Zaczek notes).</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2161
 
 ## Thread count
-DY/4 W4 R28 K32 R4 K32 W4 LY8 W4 K28 R4 K28 W4 R28 W4 K28 R4 K28 R28 W4 R28 K28 R4 K28 W4 R28 W4 K28 R4 K28 W4 LY8 W4 K32 R4 K32 R28 W/4
+DY/4 W4 R28 K32 R4 K32 W4 LY8 W4 K28 R4 K28 W4 R28 W4 K28 R4 K28 R28 W/4
 
-One full sett is **1208 threads**.
+One full sett is **608 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DY/4 W4 R28 K32 R4 K32 W4 LY8 W4 K28 R4 K28 W4 R28 W4 K28 R4 K28 R28 W4 R28 K28 R4 K28 W4 R28 W4 K28 R4 K28 W4 LY8 W4 K32 R4 K32 R28 W/4 — 1208 threads; it folds to the canonical 608-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **1208 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/4 W4 R28 K32 R4 K32 W4 LY8 W4 K28 R4 K28 W4 R28 W4 K28 R4 K28 R28 W4 R28 K28 R4 K28 W4 R28 W4 K28 R4 K28 W4 LY8 W4 K32 R4 K32 R28 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/4 W4 R28 K32 R4 K32 W4 LY8 W4 K28 R4 K28 W4 R28 W4 K28 R4 K28 R28 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

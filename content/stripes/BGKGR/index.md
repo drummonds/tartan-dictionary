@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r10g3k1g3t1~x16/">Espy (Fashion?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r10g3k1g3t1~x16/"><img src="/variants/s5/r10g3k1g3t1~x16/sett.png" alt="Espy (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/es/espy/">Espy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/es/espy/"><img src="/variants/s5/r10g3k1g3t1~x16/sett.png" alt="Espy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

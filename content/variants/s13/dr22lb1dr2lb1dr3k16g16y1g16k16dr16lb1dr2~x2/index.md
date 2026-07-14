@@ -8,22 +8,22 @@ crumbs:
 - name: "Beartrap"
   url: "/tartans/b/be/beartrap/"
 - name: "Beartrap (Military)"
-  url: "/setts/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/be/beartrap/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGGGKBWBWB](/stripes/bwbkgggkbwbwb/).
 
 Part of the [Beartrap](/tartans/b/be/beartrap/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7624](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7624)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7624/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7624/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>April 2008 — Beartrap (Military) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7624">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8C8D4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #B8C8D4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by Brian Wilton of the STA for the Patrol & Reconnaissance Wing Eleven of the Airborne ASW - anti-submarine flying wing. Their emblem is a serrated beartrap about to close on a submarine and since their function was similar to the original Black Watch, that tartan was used with just a change of colours to incorporate the the ASW emblem. The Black Watch was raised in Aberfeldy in 1739 for the purpose of 'watching the braes' and the anti submarine flying wing was formed to 'watch the waves.'</em></li>
+<li>April 2008 — Beartrap (Military) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7624/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8C8D4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #B8C8D4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by Brian Wilton of the STA for the Patrol & Reconnaissance Wing Eleven of the Airborne ASW - anti-submarine flying wing. Their emblem is a serrated beartrap about to close on a submarine and since their function was similar to the original Black Watch, that tartan was used with just a change of colours to incorporate the the ASW emblem. The Black Watch was raised in Aberfeldy in 1739 for the purpose of 'watching the braes' and the anti submarine flying wing was formed to 'watch the waves.'</em></li>
 <li>undated — Beartrap (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5643">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8C8D4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #B8C8D4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by Brian Wilton, Scottish Tartans Authority, for the Patrol & Reconnaissance Wing Eleven of the Airborne Anti-Submarine Flying Wing. Their emblem is a serrated beartrap about to close on a submarine and, since their function was similar to the original Black Watch, the design was based on the Black Watch tartan, with a change of colours to incorporate the the ASW emblem.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7624](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

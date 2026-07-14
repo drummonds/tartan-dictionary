@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb40db12ly2db2lb2db2g6w21r2lb2~x2/">Corryvrechan Dress (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb40db12ly2db2lb2db2g6w21r2lb2~x2/"><img src="/variants/s10/lb40db12ly2db2lb2db2g6w21r2lb2~x2/sett.png" alt="Corryvrechan Dress (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/corryvrechan-dress/">Corryvrechan Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/corryvrechan-dress/"><img src="/variants/s10/lb40db12ly2db2lb2db2g6w21r2lb2~x2/sett.png" alt="Corryvrechan Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

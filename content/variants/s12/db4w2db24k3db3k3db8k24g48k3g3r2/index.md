@@ -11,11 +11,11 @@ crumbs:
   url: "/families/urquhart/"
 - name: "Urquhart"
   url: "/tartans/u/ur/urquhart/"
-- name: "Urquhart (White Line)"
-  url: "/setts/db4w2db24k3db3k3db8k24g48k3g3r2/"
+- name: "Urquhart White Line Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4w2db24k3db3k3db8k24g48k3g3r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/ur/urquhart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKBKGKGR](/stripes/bwbkbkbkgkgr/).
 
 Part of the [Urquhart](/tartans/u/ur/urquhart/) tartan — the named design grouping this sett with its other cloths.

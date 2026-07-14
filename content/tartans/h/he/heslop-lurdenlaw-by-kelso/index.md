@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/n44dg12db1r6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbr/">BGBR</a></nav>
 Its design is pattern [BGBR](/stripes/bgbr/) — the page of every tartan sharing this colour sequence.
 
 Created for the Heslop family descended from William Douglas Heslop (b.1857); wearable by anyone named Heslop.
@@ -14,8 +17,8 @@ The **Heslop Lurdenlaw by Kelso** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n44dg12db1r6/">Heslop Lurdenlaw by Kelso</a></td><td><code>N/88 DG24 DB2 R/12</code></td><td>152</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n44dg12db1r6/"><img src="/variants/s4/n44dg12db1r6~x2/sett.png" alt="Heslop Lurdenlaw by Kelso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/n44dg12db1r6~x2/">Heslop Lurdenlaw by Kelso</a></td><td><code>N/88 DG24 DB2 R/12</code></td><td>152</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/n44dg12db1r6~x2/"><img src="/variants/s4/n44dg12db1r6~x2/sett.png" alt="Heslop Lurdenlaw by Kelso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s4/n44dg12db1r6~x2/">Heslop Lurdenlaw by Kelso</a> · <a href="/variants/s4/n44dg12db1r6~x2~r1406028/">Heslop, William D Name Tartan</a></td></tr>
 </tbody>
 </table>
@@ -35,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/"><circle cx="474.7" cy="125.1" r="4" fill="#3465a4"><title>Kenspeckle</title></circle></a><a href="/variants/s4/dg43k14db14dr2~x2/"><circle cx="408.5" cy="217.9" r="4" fill="#3465a4"><title>Feddinch Club, St Andrews</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="422.0" cy="133.2" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s5/n60g13n9dr8y4~x2/"><circle cx="626.0" cy="275.9" r="4" fill="#3465a4"><title>Ballantyne</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="489.6" cy="220.1" r="4" fill="#3465a4"><title>Meaux</title></circle></a><a href="/variants/s3/dr104dg39lo4~x2/"><circle cx="626.0" cy="290.7" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/variants/s5/dg31lo1dg18db18dr1~x2/"><circle cx="605.3" cy="255.1" r="4" fill="#3465a4"><title>Miramichi</title></circle></a><a href="/variants/s5/n65r27w2n4y5~x2/"><circle cx="549.9" cy="194.7" r="4" fill="#3465a4"><title>Perry, Arisaid</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="496.3" cy="273.4" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s5/n57w5g20n5lo10~x2/"><circle cx="447.2" cy="247.6" r="4" fill="#3465a4"><title>Johore</title></circle></a><circle cx="578.1" cy="203.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/"><circle cx="475.8" cy="125.4" r="4" fill="#3465a4"><title>Kenspeckle</title></circle></a><a href="/variants/s4/dg43k14db14dr2~x2/"><circle cx="409.3" cy="218.2" r="4" fill="#3465a4"><title>Feddinch Club, St Andrews</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="422.9" cy="133.4" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s5/n60g13n9dr8y4~x2/"><circle cx="626.0" cy="276.5" r="4" fill="#3465a4"><title>Ballantyne</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="490.5" cy="220.5" r="4" fill="#3465a4"><title>Meaux</title></circle></a><a href="/variants/s3/dr104dg39lo4~x2/"><circle cx="626.0" cy="291.4" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/variants/s5/dg31lo1dg18db18dr1~x2/"><circle cx="606.1" cy="255.7" r="4" fill="#3465a4"><title>Miramichi</title></circle></a><a href="/variants/s5/n65r27w2n4y5~x2/"><circle cx="550.7" cy="195.1" r="4" fill="#3465a4"><title>Perry, Arisaid</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="496.7" cy="273.8" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s5/n57w5g20n5lo10~x2/"><circle cx="447.7" cy="247.8" r="4" fill="#3465a4"><title>Johore</title></circle></a><circle cx="579.0" cy="204.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -12,10 +12,10 @@ crumbs:
 - name: "Diana, Plaid dress"
   url: "/tartans/d/di/diana-plaid-dress-2/"
 - name: "Diana, Plaid dress"
-  url: "/setts/w46r3w7do2y2do2w2do11o6b2o3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w46r3w7do2y2do2w2do11o6b2o3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/diana-plaid-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBRBWBGBWRW](/stripes/wrbrbwbgbwrw/).
 
 Part of the [Diana, Plaid dress](/tartans/d/di/diana-plaid-dress-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/">MacPherson-Grant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"><img src="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/sett.png" alt="MacPherson-Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-grant/">MacPherson-Grant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-grant/"><img src="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/sett.png" alt="MacPherson-Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

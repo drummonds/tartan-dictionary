@@ -12,10 +12,10 @@ crumbs:
 - name: "Wylie"
   url: "/tartans/w/wy/wylie/"
 - name: "Wylie"
-  url: "/setts/db45k3db10o4k1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db45k3db10o4k1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wy/wylie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRKW](/stripes/bkbrkw/).
 
 Part of the [Wylie](/tartans/w/wy/wylie/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Sirrell"
   url: "/tartans/s/si/sirrell/"
 - name: "Sirrell (2014)"
-  url: "/setts/n19w20dp18r2k7lb15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n19w20dp18r2k7lb15/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/sirrell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRKW](/stripes/bwbrkw/).
 
 Part of the [Sirrell](/tartans/s/si/sirrell/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "Simple Technology"
   url: "/tartans/s/si/simple-technology-2/"
 - name: "Simple Technology"
-  url: "/setts/g28db9dg18w3dg18db9g28r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g28db9dg18w3dg18db9g28r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/simple-technology-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWGBGR](/stripes/gbgwgbgr/).
 
 Part of the [Simple Technology](/tartans/s/si/simple-technology-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dp13r8w5dg24w5r10w5r10~x2/">Chaudhri (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp13r8w5dg24w5r10w5r10~x2/"><img src="/variants/s8/dp13r8w5dg24w5r10w5r10~x2/sett.png" alt="Chaudhri (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/dp13r8w5g24w5r10w5r10~x2/">Chaudhri, Zafar Iqbal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp13r8w5g24w5r10w5r10~x2/"><img src="/variants/s8/dp13r8w5g24w5r10w5r10~x2/sett.png" alt="Chaudhri, Zafar Iqbal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chaudhri/">Chaudhri</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chaudhri/"><img src="/variants/s8/dp13r8w5dg24w5r10w5r10~x2/sett.png" alt="Chaudhri sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chaudhri-zafar-iqbal/">Chaudhri, Zafar Iqbal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chaudhri-zafar-iqbal/"><img src="/variants/s8/dp13r8w5g24w5r10w5r10~x2/sett.png" alt="Chaudhri, Zafar Iqbal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

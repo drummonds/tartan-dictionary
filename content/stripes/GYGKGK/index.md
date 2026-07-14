@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g18ly2g18k4g2k15~x2/">MacArthur (Highland Society)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g18ly2g18k4g2k15~x2/"><img src="/variants/s6/g18ly2g18k4g2k15~x2/sett.png" alt="MacArthur (Highland Society) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macarthur/">MacArthur</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macarthur/"><img src="/variants/s6/g18ly2g18k4g2k15~x2/sett.png" alt="MacArthur sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

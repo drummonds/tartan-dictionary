@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y4db22g3k3g3k3g12w22k2r3~x2/">Californian MacLeod</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y4db22g3k3g3k3g12w22k2r3~x2/"><img src="/variants/s10/y4db22g3k3g3k3g12w22k2r3~x2/sett.png" alt="Californian MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/">MacLeod Special Dress (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/"><img src="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/sett.png" alt="MacLeod Special Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/">MacLeod, Californian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/"><img src="/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/sett.png" alt="MacLeod, Californian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/californian-macleod/">Californian MacLeod</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/californian-macleod/"><img src="/variants/s10/y4db22g3k3g3k3g12w22k2r3~x2/sett.png" alt="Californian MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-special-dress/">MacLeod Special Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-special-dress/"><img src="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/sett.png" alt="MacLeod Special Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macleod-californian/">MacLeod, Californian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-californian/"><img src="/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/sett.png" alt="MacLeod, Californian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

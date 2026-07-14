@@ -12,10 +12,10 @@ crumbs:
 - name: "Glenshee"
   url: "/tartans/g/gl/glenshee/"
 - name: "Glenshee Trade Tartan"
-  url: "/setts/r12w1r2lb1n3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r12w1r2lb1n3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glenshee/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWR](/stripes/bwrwr/).
 
 Part of the [Glenshee](/tartans/g/gl/glenshee/) tartan — the named design grouping this sett with its other cloths.

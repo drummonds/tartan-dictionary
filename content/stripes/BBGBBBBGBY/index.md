@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr3dp14dg14dp2dr14dp2dr14dg14dp2ly3~x2/">Clare, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr3dp14dg14dp2dr14dp2dr14dg14dp2ly3~x2/"><img src="/variants/s10/dr3dp14dg14dp2dr14dp2dr14dg14dp2ly3~x2/sett.png" alt="Clare, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clare-county/">Clare, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clare-county/"><img src="/variants/s10/dr3dp14dg14dp2dr14dp2dr14dg14dp2ly3~x2/sett.png" alt="Clare, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/">Kinfauns Castle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/"><img src="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/sett.png" alt="Kinfauns Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hilton-hotel-hong-kong/">Hilton Hotel Hong Kong</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hilton-hotel-hong-kong/"><img src="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/sett.png" alt="Hilton Hotel Hong Kong sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

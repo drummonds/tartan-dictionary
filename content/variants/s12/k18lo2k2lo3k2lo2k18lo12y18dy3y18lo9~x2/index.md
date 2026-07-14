@@ -10,10 +10,10 @@ crumbs:
 - name: "Kinloch Anderson Check"
   url: "/tartans/k/ki/kinloch-anderson-check-2/"
 - name: "Kinloch Anderson Check Fashion Tartan"
-  url: "/setts/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kinloch-anderson-check-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYKYKYGGGY](/stripes/kykykykygggy/).
 
 Part of the [Kinloch Anderson Check](/tartans/k/ki/kinloch-anderson-check-2/) tartan — the named design grouping this sett with its other cloths.

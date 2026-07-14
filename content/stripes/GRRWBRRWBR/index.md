@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/">Fearns McIntosh Millennium (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/"><img src="/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/sett.png" alt="Fearns McIntosh Millennium (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fearns-mcintosh-millennium/">Fearns McIntosh Millennium</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fearns-mcintosh-millennium/"><img src="/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/sett.png" alt="Fearns McIntosh Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

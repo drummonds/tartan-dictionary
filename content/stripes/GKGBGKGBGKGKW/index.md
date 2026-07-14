@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/">Robieson, Graham Alexander (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/"><img src="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/sett.png" alt="Robieson, Graham Alexander (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robieson-graham-alexander/">Robieson, Graham Alexander</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robieson-graham-alexander/"><img src="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/sett.png" alt="Robieson, Graham Alexander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

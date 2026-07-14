@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w18k1db4g4dp10lo2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wkbgby/">WKBGBY</a></nav>
 Its design is pattern [WKBGBY](/stripes/wkbgby/) — the page of every tartan sharing this colour sequence.
 
 The **Edgar-Feyen** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Edgar-Feyen** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w18k1db4g4dp10lo2/">Edgar-Feyen</a></td><td><code>W/72 K4 DB16 G16 DP40 LO/8</code></td><td>232</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w18k1db4g4dp10lo2/"><img src="/variants/s6/w18k1db4g4dp10lo2~x4/sett.png" alt="Edgar-Feyen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w18k1db4g4dp10lo2~x4/">Edgar-Feyen</a></td><td><code>W/72 K4 DB16 G16 DP40 LO/8</code></td><td>232</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w18k1db4g4dp10lo2~x4/"><img src="/variants/s6/w18k1db4g4dp10lo2~x4/sett.png" alt="Edgar-Feyen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="193.0" cy="136.4" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="152.8" cy="132.4" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s9/w37k4db12g12w2lr2r23w4r6~x2~lr2805035-r1506019/"><circle cx="147.1" cy="114.7" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.4" cy="143.9" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s8/r3w30b10k3dp15g2dp3g1~x2/"><circle cx="184.9" cy="90.7" r="4" fill="#3465a4"><title>SOBHD</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.5" cy="129.5" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="209.8" cy="156.9" r="4" fill="#3465a4"><title>Prehospital EMS</title></circle></a><a href="/variants/s7/w39db9k10g11r7k3r7~x2/"><circle cx="149.0" cy="145.8" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.2" cy="121.6" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="145.0" cy="160.7" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><circle cx="166.9" cy="135.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="193.5" cy="136.1" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.2" cy="132.1" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s9/w37k4db12g12w2lr2r23w4r6~x2~lr2805035-r1506019/"><circle cx="147.5" cy="114.3" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.8" cy="143.6" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s8/r3w30b10k3dp15g2dp3g1~x2/"><circle cx="185.5" cy="90.3" r="4" fill="#3465a4"><title>SOBHD</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.8" cy="129.1" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="210.4" cy="156.7" r="4" fill="#3465a4"><title>Prehospital EMS</title></circle></a><a href="/variants/s7/w39db9k10g11r7k3r7~x2/"><circle cx="149.4" cy="145.5" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.6" cy="121.3" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="145.3" cy="160.4" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><circle cx="167.3" cy="135.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

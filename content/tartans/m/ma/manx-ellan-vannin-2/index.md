@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Manx"
   url: "/clan/manx/"
+aliases:
+- "/setts/g2dg7db3w2g14b2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgwbgg/">BGWBGG</a></nav>
 A tartan of [Clan Manx](/clan/manx/).
 Its design is pattern [BGWBGG](/stripes/bgwbgg/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Manx, Ellan Vannin** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g2dg7db3w2g14b2/">Manx, Ellan Vannin</a></td><td><code>B/8 G56 W8 DB12 DG28 G/8</code></td><td>224</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g2dg7db3w2g14b2/"><img src="/variants/s6/g2dg7db3w2g14b2~x4/sett.png" alt="Manx, Ellan Vannin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g2dg7db3w2g14b2~x4/">Manx, Ellan Vannin</a></td><td><code>G/8 DG28 DB12 W8 G56 B/8</code></td><td>224</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g2dg7db3w2g14b2~x4/"><img src="/variants/s6/g2dg7db3w2g14b2~x4/sett.png" alt="Manx, Ellan Vannin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g36dg5db17w2g14n3dp2~x2/"><circle cx="366.8" cy="178.4" r="4" fill="#3465a4"><title>Mounth, The</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="232.2" cy="231.2" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s6/ly4dg30g15db5t10ly4~x2/"><circle cx="232.9" cy="251.8" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.6" cy="247.5" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/variants/s7/g10db42r5dg42g42y5g10/"><circle cx="220.7" cy="236.7" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s10/dg14w2db3g7dg2g7db3w2dg14lb2~x4/"><circle cx="255.6" cy="219.2" r="4" fill="#3465a4"><title>Manx Ellan Vannin</title></circle></a><a href="/variants/s6/g6ly3g26dg10dt30w3~x2/"><circle cx="257.8" cy="243.8" r="4" fill="#3465a4"><title>Wcwm 1716</title></circle></a><a href="/variants/s4/dp6g15dg15w2~x2/"><circle cx="243.1" cy="296.6" r="4" fill="#3465a4"><title>Thistle and Kudzu Scottish Society</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="253.8" cy="264.5" r="4" fill="#3465a4"><title>Phinn</title></circle></a><a href="/variants/s8/db3dy7g2y2g14dy2g2db3~x2/"><circle cx="317.2" cy="252.3" r="4" fill="#3465a4"><title>Daks</title></circle></a><circle cx="277.3" cy="242.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g36dg5db17w2g14n3dp2~x2/"><circle cx="367.4" cy="178.5" r="4" fill="#3465a4"><title>Mounth, The</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="232.4" cy="231.2" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s6/ly4dg30g15db5t10ly4~x2/"><circle cx="232.9" cy="251.7" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.7" cy="247.4" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/variants/s7/g10db42r5dg42g42y5g10/"><circle cx="220.8" cy="236.7" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s10/dg14w2db3g7dg2g7db3w2dg14lb2~x4/"><circle cx="255.9" cy="219.2" r="4" fill="#3465a4"><title>Manx Ellan Vannin</title></circle></a><a href="/variants/s6/g6ly3g26dg10dt30w3~x2/"><circle cx="257.9" cy="243.8" r="4" fill="#3465a4"><title>Wcwm 1716</title></circle></a><a href="/variants/s4/dp6g15dg15w2~x2/"><circle cx="243.1" cy="296.6" r="4" fill="#3465a4"><title>Thistle and Kudzu Scottish Society</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="253.9" cy="264.5" r="4" fill="#3465a4"><title>Phinn</title></circle></a><a href="/variants/s8/db3dy7g2y2g14dy2g2db3~x2/"><circle cx="317.4" cy="252.4" r="4" fill="#3465a4"><title>Daks</title></circle></a><circle cx="277.5" cy="242.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

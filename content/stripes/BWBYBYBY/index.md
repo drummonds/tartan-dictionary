@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/">Turnberry Manx Snaefell Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><img src="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/sett.png" alt="Turnberry Manx Snaefell Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/turnberry-manx-snaefell/">Turnberry Manx Snaefell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/turnberry-manx-snaefell/"><img src="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/sett.png" alt="Turnberry Manx Snaefell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

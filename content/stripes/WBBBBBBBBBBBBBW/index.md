@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/lb6t2db4dbi12t48dbi8ti8tii10ti9dbi8ti24dbi8t6dbi4lb4~x2~lb3203246-t2205244-db1106275-dbi1204274-ti2308259-tii2405244/">Ferring Pharmaceuticals</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/lb6t2db4dbi12t48dbi8ti8tii10ti9dbi8ti24dbi8t6dbi4lb4~x2~lb3203246-t2205244-db1106275-dbi1204274-ti2308259-tii2405244/"><img src="/variants/s15/lb6t2db4dbi12t48dbi8ti8tii10ti9dbi8ti24dbi8t6dbi4lb4~x2~lb3203246-t2205244-db1106275-dbi1204274-ti2308259-tii2405244/sett.png" alt="Ferring Pharmaceuticals sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferring-pharmaceuticals/">Ferring Pharmaceuticals</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferring-pharmaceuticals/"><img src="/variants/s15/lb6t2db4dbi12t48dbi8ti8tii10ti9dbi8ti24dbi8t6dbi4lb4~x2~lb3203246-t2205244-db1106275-dbi1204274-ti2308259-tii2405244/sett.png" alt="Ferring Pharmaceuticals sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

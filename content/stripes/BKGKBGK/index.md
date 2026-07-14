@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/t3k1g4k1t4g9k2~x4/">Outdoorsmen (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t3k1g4k1t4g9k2~x4/"><img src="/variants/s7/t3k1g4k1t4g9k2~x4/sett.png" alt="Outdoorsmen (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ou/outdoorsmen/">Outdoorsmen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ou/outdoorsmen/"><img src="/variants/s7/t3k1g4k1t4g9k2~x4/sett.png" alt="Outdoorsmen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

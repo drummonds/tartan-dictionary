@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y21g26db62w2dg2w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggbwgw/">GGBWGW</a></nav>
 Its design is pattern [GGBWGW](/stripes/ggbwgw/) — the page of every tartan sharing this colour sequence.
 
 The **Nynaeshamn Whisky Society** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Nynaeshamn Whisky Society** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y21g26db62w2dg2w2/">Nynaeshamn Whisky Society</a></td><td><code>Y/21 G26 DB62 W2 DG2 W/2</code></td><td>207</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y21g26db62w2dg2w2/"><img src="/variants/s6/y21g26db62w2dg2w2/sett.png" alt="Nynaeshamn Whisky Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y21g26db62w2dg2w2/">Nynaeshamn Whisky Society</a></td><td><code>Y/21 G26 DB62 W2 DG2 W/2</code></td><td>207</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y21g26db62w2dg2w2/"><img src="/variants/s6/y21g26db62w2dg2w2/sett.png" alt="Nynaeshamn Whisky Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db62ly4dy10do3g21~x2/"><circle cx="403.5" cy="187.6" r="4" fill="#3465a4"><title>McGovern</title></circle></a><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="313.7" cy="162.0" r="4" fill="#3465a4"><title>Kruenaegel and Schropp</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="261.9" cy="180.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="344.4" cy="146.7" r="4" fill="#3465a4"><title>Caig</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="359.0" cy="179.5" r="4" fill="#3465a4"><title>Katsushika</title></circle></a><a href="/variants/s7/db50g25y3n8r1w1r1~x2/"><circle cx="363.3" cy="103.1" r="4" fill="#3465a4"><title>Wells</title></circle></a><a href="/variants/s5/dg30w8b32y1b8~x2/"><circle cx="345.2" cy="201.0" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s5/g30w8db32y1db8~x2/"><circle cx="328.8" cy="196.8" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><a href="/variants/s6/g6n16db49lb14db2w6~x2~n1702249-db1106275/"><circle cx="316.5" cy="166.1" r="4" fill="#3465a4"><title>Gorman</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.2" cy="145.7" r="4" fill="#3465a4"><title>Kruenaegel-Schropp</title></circle></a><circle cx="345.1" cy="160.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db62ly4dy10do3g21~x2/"><circle cx="404.2" cy="187.8" r="4" fill="#3465a4"><title>McGovern</title></circle></a><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="314.2" cy="161.9" r="4" fill="#3465a4"><title>Kruenaegel and Schropp</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="262.4" cy="180.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="345.1" cy="146.8" r="4" fill="#3465a4"><title>Caig</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="359.7" cy="179.6" r="4" fill="#3465a4"><title>Katsushika</title></circle></a><a href="/variants/s7/db50g25y3n8r1w1r1~x2/"><circle cx="364.1" cy="103.1" r="4" fill="#3465a4"><title>Wells</title></circle></a><a href="/variants/s5/dg30w8b32y1b8~x2/"><circle cx="345.7" cy="201.0" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s5/g30w8db32y1db8~x2/"><circle cx="329.4" cy="196.8" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><a href="/variants/s6/g6n16db49lb14db2w6~x2~n1702249-db1106275/"><circle cx="317.1" cy="166.1" r="4" fill="#3465a4"><title>Gorman</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.8" cy="145.6" r="4" fill="#3465a4"><title>Kruenaegel-Schropp</title></circle></a><circle cx="345.7" cy="160.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

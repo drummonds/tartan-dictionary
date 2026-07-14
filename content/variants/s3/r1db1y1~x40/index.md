@@ -8,10 +8,10 @@ crumbs:
 - name: "Mothers Pride"
   url: "/tartans/m/mo/mothers-pride/"
 - name: "Mothers Pride"
-  url: "/setts/r1db1y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1db1y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/mothers-pride/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBR](/stripes/gbr/).
 
 Part of the [Mothers Pride](/tartans/m/mo/mothers-pride/) tartan — the named design grouping this sett with its other cloths.

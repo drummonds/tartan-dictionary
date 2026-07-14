@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w45dr2g9w2dr30~x2/">Malaysian Unknown (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w45dr2g9w2dr30~x2/"><img src="/variants/s5/w45dr2g9w2dr30~x2/sett.png" alt="Malaysian Unknown (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/malaysian-unknown/">Malaysian Unknown</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/malaysian-unknown/"><img src="/variants/s5/w45dr2g9w2dr30~x2/sett.png" alt="Malaysian Unknown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/db67w10y14db10w2/">St. John (Corporate?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db67w10y14db10w2/"><img src="/variants/s5/db67w10y14db10w2/sett.png" alt="St. John (Corporate?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-john/">St. John</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-john/"><img src="/variants/s5/db67w10y14db10w2/sett.png" alt="St. John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

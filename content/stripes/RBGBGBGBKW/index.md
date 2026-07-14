@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r4t60g35t4y4t4dy12t18k3w2/">Fogarty (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r4t60g35t4y4t4dy12t18k3w2/"><img src="/variants/s10/r4t60g35t4y4t4dy12t18k3w2/sett.png" alt="Fogarty (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fo/fogarty/">Fogarty</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/fogarty/"><img src="/variants/s10/r4t60g35t4y4t4dy12t18k3w2/sett.png" alt="Fogarty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

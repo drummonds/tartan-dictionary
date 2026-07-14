@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/">Wellecomme, Bernard (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"><img src="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/sett.png" alt="Wellecomme, Bernard (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wellecomme-bernard/">Wellecomme, Bernard</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wellecomme-bernard/"><img src="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/sett.png" alt="Wellecomme, Bernard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/b16r1g16w1dy1w8dr3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgwgwb/">BRGWGWB</a></nav>
 Its design is pattern [BRGWGWB](/stripes/brgwgwb/) — the page of every tartan sharing this colour sequence.
 
 The **Chambers, Christopher J** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Chambers, Christopher J** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b16r1g16w1dy1w8dr3/">Chambers, Christopher J</a></td><td><code>B/32 R2 G32 W2 DY2 W16 DR/6</code></td><td>146</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b16r1g16w1dy1w8dr3/"><img src="/variants/s7/b16r1g16w1dy1w8dr3~x2/sett.png" alt="Chambers, Christopher J sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/b16r1g16w1dy1w8dr3~x2/">Chambers, Christopher J</a></td><td><code>B/32 R2 G32 W2 DY2 W16 DR/6</code></td><td>146</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/b16r1g16w1dy1w8dr3~x2/"><img src="/variants/s7/b16r1g16w1dy1w8dr3~x2/sett.png" alt="Chambers, Christopher J sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.6" cy="131.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="145.1" cy="127.2" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/"><circle cx="201.0" cy="176.5" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/variants/s7/db20r2g9w6y4k2g8~x2/"><circle cx="126.2" cy="172.4" r="4" fill="#3465a4"><title>Crofters</title></circle></a><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"><circle cx="149.8" cy="174.6" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="241.9" cy="167.9" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="236.8" cy="192.8" r="4" fill="#3465a4"><title>Eeraerts, Laurent</title></circle></a><a href="/variants/s6/k3y3db20g25lb18w3~x2/"><circle cx="104.9" cy="192.8" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><circle cx="157.9" cy="151.6" r="4" fill="#3465a4"><title>Ohio</title></circle></a><a href="/variants/s6/g4y2g24w12db26r1~x2/"><circle cx="220.0" cy="163.1" r="4" fill="#3465a4"><title>Vancouver Centennial</title></circle></a><circle cx="172.8" cy="168.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.9" cy="131.6" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="145.5" cy="126.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/"><circle cx="201.2" cy="176.3" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/variants/s7/db20r2g9w6y4k2g8~x2/"><circle cx="126.4" cy="172.1" r="4" fill="#3465a4"><title>Crofters</title></circle></a><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"><circle cx="150.0" cy="174.3" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="242.3" cy="167.8" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.1" cy="192.6" r="4" fill="#3465a4"><title>Eeraerts, Laurent</title></circle></a><a href="/variants/s6/k3y3db20g25lb18w3~x2/"><circle cx="105.0" cy="192.5" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><circle cx="158.1" cy="151.3" r="4" fill="#3465a4"><title>Ohio</title></circle></a><a href="/variants/s6/g4y2g24w12db26r1~x2/"><circle cx="220.4" cy="162.9" r="4" fill="#3465a4"><title>Vancouver Centennial</title></circle></a><circle cx="173.0" cy="168.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

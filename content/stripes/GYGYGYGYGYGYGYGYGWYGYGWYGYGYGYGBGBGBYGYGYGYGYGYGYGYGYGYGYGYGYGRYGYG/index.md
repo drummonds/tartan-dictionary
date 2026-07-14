@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s67/y1ly1y1ly1r4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1do28g28db4g28do28y1ly1y1ly1y1ly1y1ly1w4y1ly1y1ly1w4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1~x2/">Hash House Harriers Trail (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s67/y1ly1y1ly1r4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1do28g28db4g28do28y1ly1y1ly1y1ly1y1ly1w4y1ly1y1ly1w4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1~x2/"><img src="/variants/s67/y1ly1y1ly1r4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1do28g28db4g28do28y1ly1y1ly1y1ly1y1ly1w4y1ly1y1ly1w4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1~x2/sett.png" alt="Hash House Harriers Trail (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hash-house-harriers-trail/">Hash House Harriers Trail</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hash-house-harriers-trail/"><img src="/variants/s67/y1ly1y1ly1r4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1do28g28db4g28do28y1ly1y1ly1y1ly1y1ly1w4y1ly1y1ly1w4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1~x2/sett.png" alt="Hash House Harriers Trail sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

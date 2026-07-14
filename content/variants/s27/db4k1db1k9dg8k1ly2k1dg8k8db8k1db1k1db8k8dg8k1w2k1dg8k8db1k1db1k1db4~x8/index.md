@@ -12,10 +12,10 @@ crumbs:
 - name: "Campbell of Stracathro"
   url: "/tartans/c/ca/campbell-of-stracathro/"
 - name: "Campbell of Stracathro"
-  url: "/setts/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-of-stracathro/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKWKGKBKBKBKGKYKGKBKB](/stripes/bkbkbkgkwkgkbkbkbkgkykgkbkb/).
 
 Part of the [Campbell of Stracathro](/tartans/c/ca/campbell-of-stracathro/) tartan — the named design grouping this sett with its other cloths.

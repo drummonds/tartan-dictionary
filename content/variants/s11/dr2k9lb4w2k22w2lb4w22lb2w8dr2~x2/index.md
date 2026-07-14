@@ -12,10 +12,10 @@ crumbs:
 - name: "MacRae"
   url: "/tartans/m/ma/macrae-9/"
 - name: "MacRae, Dress"
-  url: "/setts/dr2k9lb4w2k22w2lb4w22lb2w8dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr2k9lb4w2k22w2lb4w22lb2w8dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macrae-9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWWKWWWWWB](/stripes/bkwwkwwwwwb/).
 
 Part of the [MacRae](/tartans/m/ma/macrae-9/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5213](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1977 — MacRae, Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5213">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Sometimes known as 'Scott, dress'. Probably a 'fancy' dress pattern for the Dance world. Known to have been in production by Laird Portch 1977 & Lochcarron 1985. 'Scott, dress (Mackinlay scale)'. Very close to West Coast Woolen Mills version at #3563 (original Scottish Tartans Authority reference).</em></li>
-<li>1977 — MacRae - 1977 (Dress) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3570">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Sometimes known as "Scott, dress". probably a 'fancy' dress pattern for the Dance world. Known to have been in production by Laird Portch 1977 & Lochcarron 1985. 'Scott, dress (Mackinlay scale)'. Very close to West Coast Woolen Mills version at #3563.</em></li>
+<li>1977 — MacRae - 1977 (Dress) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3570/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Sometimes known as "Scott, dress". probably a 'fancy' dress pattern for the Dance world. Known to have been in production by Laird Portch 1977 & Lochcarron 1985. 'Scott, dress (Mackinlay scale)'. Very close to West Coast Woolen Mills version at #3563.</em></li>
 </ul>
 </details>
 

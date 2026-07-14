@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/">St Brigid's Parish Triple Celebratio</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/"><img src="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/sett.png" alt="St Brigid's Parish Triple Celebratio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-brigid-s-parish-triple-celebratio/">St Brigid's Parish Triple Celebratio</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-brigid-s-parish-triple-celebratio/"><img src="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/sett.png" alt="St Brigid's Parish Triple Celebratio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

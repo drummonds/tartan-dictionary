@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s92/g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly6g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6l-h7b5faa3442048204/">Ogilvie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s92/g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly6g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6l-h7b5faa3442048204/"><img src="/variants/s92/g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly6g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6l-h7b5faa3442048204/sett.png?s=g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly6g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6ly2dp4ly2k2w1r4~x2" alt="Ogilvie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/og/ogilvie-7/">Ogilvie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/og/ogilvie-7/"><img src="/variants/s92/g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly6g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6l-h7b5faa3442048204/sett.png?s=g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly6g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6ly2dp4ly2k2w1r4~x2" alt="Ogilvie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

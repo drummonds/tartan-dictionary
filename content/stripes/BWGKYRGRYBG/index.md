@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dg2db24ly1r2dg2r2ly1k24dg24w2db2~x2~dg1802166-db1204274-ly3307090/">Smithsonian (Corporate) American Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dg2db24ly1r2dg2r2ly1k24dg24w2db2~x2~dg1802166-db1204274-ly3307090/"><img src="/variants/s11/dg2db24ly1r2dg2r2ly1k24dg24w2db2~x2~dg1802166-db1204274-ly3307090/sett.png" alt="Smithsonian (Corporate) American Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sm/smithsonian-2/">Smithsonian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sm/smithsonian-2/"><img src="/variants/s11/dg2db24ly1r2dg2r2ly1k24dg24w2db2~x2~dg1802166-db1204274-ly3307090/sett.png" alt="Smithsonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

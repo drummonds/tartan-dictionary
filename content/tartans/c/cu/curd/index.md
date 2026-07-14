@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db1lb9w3y3db9y1g1r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwwgbggr/">BWWGBGGR</a></nav>
 Its design is pattern [BWWGBGGR](/stripes/bwwgbggr/) — the page of every tartan sharing this colour sequence.
 
 The **Curd** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Curd** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db1lb9w3y3db9y1g1r1/">Curd</a></td><td><code>R/4 G4 Y4 DB36 Y12 W12 LB36 DB/4</code></td><td>216</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db1lb9w3y3db9y1g1r1/"><img src="/variants/s8/db1lb9w3y3db9y1g1r1~x4/sett.png" alt="Curd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/">Curd</a></td><td><code>DB/4 LB36 W12 Y12 DB36 Y4 G4 R/4</code></td><td>216</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><img src="/variants/s8/db1lb9w3y3db9y1g1r1~x4/sett.png" alt="Curd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db4r1w1r1db4k2lb6y1~x6/"><circle cx="96.9" cy="183.5" r="4" fill="#3465a4"><title>Lopatinsky</title></circle></a><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/"><circle cx="162.8" cy="157.8" r="4" fill="#3465a4"><title>Fulbright Foundation</title></circle></a><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.4" cy="142.9" r="4" fill="#3465a4"><title>Lyon, Jeffrey M</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.9" cy="204.4" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s9/r2db12dg2b11dg4db5b2w24g2~x2/"><circle cx="134.1" cy="152.2" r="4" fill="#3465a4"><title>Fraser Gathering, dress</title></circle></a><a href="/variants/s6/db13w13db4ly2g8r3~x2/"><circle cx="129.7" cy="231.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s10/db28r3w3r3w3r3db28k12lb38wi8~w3600000-wi3905105/"><circle cx="144.3" cy="124.1" r="4" fill="#3465a4"><title>GYL</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.1" cy="185.9" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s10/lb6g20lb6w15db5w2db15n4db10r2~x2/"><circle cx="100.3" cy="187.7" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress</title></circle></a><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="145.0" cy="160.7" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><circle cx="132.9" cy="174.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db4r1w1r1db4k2lb6y1~x6/"><circle cx="97.1" cy="183.1" r="4" fill="#3465a4"><title>Lopatinsky</title></circle></a><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/"><circle cx="163.1" cy="157.4" r="4" fill="#3465a4"><title>Fulbright Foundation</title></circle></a><a href="/variants/s10/lb27db2lb2db16g5r5y2db2dy14db2~x2/"><circle cx="159.7" cy="142.6" r="4" fill="#3465a4"><title>Lyon, Jeffrey M</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="144.1" cy="204.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s9/r2db12dg2b11dg4db5b2w24g2~x2/"><circle cx="134.3" cy="151.8" r="4" fill="#3465a4"><title>Fraser Gathering, dress</title></circle></a><a href="/variants/s6/db13w13db4ly2g8r3~x2/"><circle cx="129.8" cy="230.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s10/db28r3w3r3w3r3db28k12lb38wi8~w3600000-wi3905105/"><circle cx="144.8" cy="123.7" r="4" fill="#3465a4"><title>GYL</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.1" cy="185.4" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s10/lb6g20lb6w15db5w2db15n4db10r2~x2/"><circle cx="100.3" cy="187.3" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress</title></circle></a><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="145.3" cy="160.4" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><circle cx="133.1" cy="173.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

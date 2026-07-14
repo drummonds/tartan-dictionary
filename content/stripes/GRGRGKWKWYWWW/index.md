@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb10w18lb4lo6lb45k30lb4k4y4r4y4r4y4/">Les Coeurs de Lions en Bleu</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb10w18lb4lo6lb45k30lb4k4y4r4y4r4y4/"><img src="/variants/s13/lb10w18lb4lo6lb45k30lb4k4y4r4y4r4y4/sett.png" alt="Les Coeurs de Lions en Bleu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/les-coeurs-de-lions-en-bleu/">Les Coeurs de Lions en Bleu</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/les-coeurs-de-lions-en-bleu/"><img src="/variants/s13/lb10w18lb4lo6lb45k30lb4k4y4r4y4r4y4/sett.png" alt="Les Coeurs de Lions en Bleu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

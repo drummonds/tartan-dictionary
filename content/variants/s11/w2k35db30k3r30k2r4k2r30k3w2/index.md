@@ -12,10 +12,10 @@ crumbs:
 - name: "Gwyn"
   url: "/tartans/g/gw/gwyn/"
 - name: "Gwyn Welsh Name Tartan"
-  url: "/setts/w2k35db30k3r30k2r4k2r30k3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2k35db30k3r30k2r4k2r30k3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gw/gwyn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKRKRKRKW](/stripes/wkbkrkrkrkw/).
 
 Part of the [Gwyn](/tartans/g/gw/gwyn/) tartan — the named design grouping this sett with its other cloths.

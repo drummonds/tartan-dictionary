@@ -8,17 +8,20 @@ crumbs:
   url: "/clan/vass/"
 - name: "Vass"
   url: "/families/vass/"
+aliases:
+- "/setts/db6w1ly6dy12r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwygr/">BWYGR</a></nav>
 A tartan of the [Vass](/families/vass/) family.
-Its design is pattern [BWYGRGYW](/stripes/bwygrgyw/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [BWYGR](/stripes/bwygr/) — the page of every tartan sharing this colour sequence.
 
 The **Vass** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db6w1ly6dy12r2/">Vass</a></td><td><code>DB/24 W4 LY24 DY48 R8 DY48 LY24 W/4</code></td><td>184</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db6w1ly6dy12r2/"><img src="/variants/s5/db6w1ly6dy12r2~x4/sett.png" alt="Vass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db6w1ly6dy12r2~x4/">Vass</a></td><td><code>DB/24 W4 LY24 DY48 R/8</code></td><td>184</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db6w1ly6dy12r2~x4/"><img src="/variants/s5/db6w1ly6dy12r2~x4/sett.png" alt="Vass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.6" cy="221.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><circle cx="203.2" cy="189.6" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="189.3" cy="187.4" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="225.6" cy="236.2" r="4" fill="#3465a4"><title>Samye</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="229.9" cy="152.3" r="4" fill="#3465a4"><title>Bryan Wedding</title></circle></a><a href="/variants/s7/db24r27g20y6g20r2lb3~x2/"><circle cx="195.5" cy="209.4" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><a href="/variants/s6/db30r3w10g14r3o30~x2/"><circle cx="148.8" cy="209.5" r="4" fill="#3465a4"><title>Cercle de Fermières Varennes</title></circle></a><a href="/variants/s6/r10dy60db13w24db24dy8/"><circle cx="224.3" cy="218.7" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.2" cy="213.3" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s7/ly4dy2ly21db11w2n20r3~x2/"><circle cx="174.9" cy="187.2" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><circle cx="200.4" cy="206.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.8" cy="221.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><circle cx="203.5" cy="189.4" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="189.6" cy="187.2" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="225.7" cy="236.1" r="4" fill="#3465a4"><title>Samye</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="230.5" cy="152.2" r="4" fill="#3465a4"><title>Bryan Wedding</title></circle></a><a href="/variants/s7/db24r27g20y6g20r2lb3~x2/"><circle cx="195.6" cy="209.2" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><a href="/variants/s6/db30r3w10g14r3o30~x2/"><circle cx="148.9" cy="209.2" r="4" fill="#3465a4"><title>Cercle de Fermières Varennes</title></circle></a><a href="/variants/s6/r10dy60db13w24db24dy8/"><circle cx="224.7" cy="218.6" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.5" cy="213.1" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s7/ly4dy2ly21db11w2n20r3~x2/"><circle cx="175.0" cy="186.9" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><circle cx="200.7" cy="206.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

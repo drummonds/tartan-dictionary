@@ -12,10 +12,10 @@ crumbs:
 - name: "Dickson"
   url: "/tartans/d/di/dickson/"
 - name: "Dickson (Kirkcudbrightshire)"
-  url: "/setts/lb6k8lb6g12db29w3db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb6k8lb6g12db29w3db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/dickson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGWKW](/stripes/bwbgwkw/).
 
 Part of the [Dickson](/tartans/d/di/dickson/) tartan — the named design grouping this sett with its other cloths.

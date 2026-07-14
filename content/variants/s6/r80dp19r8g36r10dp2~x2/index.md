@@ -8,10 +8,10 @@ crumbs:
 - name: "Lovat or Fraser"
   url: "/tartans/l/lo/lovat-or-fraser-2/"
 - name: "Lovat or Fraser #2"
-  url: "/setts/r80dp19r8g36r10dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r80dp19r8g36r10dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/lovat-or-fraser-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBR](/stripes/brgrbr/).
 
 Part of the [Lovat or Fraser](/tartans/l/lo/lovat-or-fraser-2/) tartan — the named design grouping this sett with its other cloths.

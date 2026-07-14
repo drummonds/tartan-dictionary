@@ -8,10 +8,10 @@ crumbs:
 - name: "Tern House"
   url: "/tartans/t/te/tern-house/"
 - name: "Tern House"
-  url: "/setts/g23db3k8db4g4db56dy8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g23db3k8db4g4db56dy8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/te/tern-house/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKBG](/stripes/gbgbkbg/).
 
 Part of the [Tern House](/tartans/t/te/tern-house/) tartan — the named design grouping this sett with its other cloths.

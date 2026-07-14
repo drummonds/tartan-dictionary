@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/wedding/"
 - name: "Wedding"
   url: "/families/wedding/"
+aliases:
+- "/setts/o2r1dp30w1y2/"
+- "/setts/ri2dp30w1ly2r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwbrr/">GWBRR</a></nav>
 A tartan of the [Wedding](/families/wedding/) family.
 Its design is pattern [GWBRR](/stripes/gwbrr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Wedding** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/o2r1dp30w1y2/">Wedding</a> ★</td><td><code>Y/4 W2 DP60 R2 O/4</code></td><td>136</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/o2r1dp30w1y2/"><img src="/variants/s5/o2r1dp30w1y2~x2/sett.png" alt="Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/ri2dp30w1ly2r1/">(Fashion)</a></td><td><code>Ri/4 DP60 W2 LY4 R/2</code></td><td>138</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ri2dp30w1ly2r1/"><img src="/variants/s5/ri2dp30w1ly2r1~x2~ri2806019-r2109032/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/o2r1dp30w1y2~x2/">Wedding</a> ★</td><td><code>O/4 R2 DP60 W2 Y/4</code></td><td>136</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/o2r1dp30w1y2~x2/"><img src="/variants/s5/o2r1dp30w1y2~x2/sett.png" alt="Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/ri2dp30w1ly2r1~x2~ri2806019-r2109032/">(Fashion)</a></td><td><code>Ri/4 DP60 W2 LY4 R/2</code></td><td>138</td><td>~2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/ri2dp30w1ly2r1~x2~ri2806019-r2109032/"><img src="/variants/s5/ri2dp30w1ly2r1~x2~ri2806019-r2109032/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dy1k2dp27k2dg1~x2/"><circle cx="626.0" cy="139.0" r="4" fill="#3465a4"><title>Western Carolina University</title></circle></a><a href="/variants/s5/k50db3p2r3w1~x4/"><circle cx="556.3" cy="57.0" r="4" fill="#3465a4"><title>Fettes</title></circle></a><a href="/variants/s4/y2k3dr31w1~x4/"><circle cx="590.0" cy="123.6" r="4" fill="#3465a4"><title>Riddick Furya</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="520.0" cy="113.1" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="404.1" cy="106.3" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="544.0" cy="69.7" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s6/k45db2dr2r2y1w1~x2/"><circle cx="545.9" cy="37.5" r="4" fill="#3465a4"><title>MacHattie</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="550.6" cy="58.5" r="4" fill="#3465a4"><title>McHattie</title></circle></a><a href="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/"><circle cx="430.8" cy="103.4" r="4" fill="#3465a4"><title>Michie, Andrew</title></circle></a><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="497.5" cy="133.1" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><circle cx="590.9" cy="106.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/dy1k2dp27k2dg1~x2/"><circle cx="626.0" cy="139.6" r="4" fill="#3465a4"><title>Western Carolina University</title></circle></a><a href="/variants/s5/k50db3p2r3w1~x4/"><circle cx="558.2" cy="57.5" r="4" fill="#3465a4"><title>Fettes</title></circle></a><a href="/variants/s4/y2k3dr31w1~x4/"><circle cx="591.7" cy="124.1" r="4" fill="#3465a4"><title>Riddick Furya</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="521.6" cy="113.5" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="405.2" cy="106.4" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="545.8" cy="70.3" r="4" fill="#3465a4"><title>Forand</title></circle></a><a href="/variants/s6/k45db2dr2r2y1w1~x2/"><circle cx="547.7" cy="38.0" r="4" fill="#3465a4"><title>MacHattie</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="552.5" cy="59.0" r="4" fill="#3465a4"><title>McHattie</title></circle></a><a href="/variants/s5/dp62g5dg20lb5k1~x2~g2408144-dg1806142/"><circle cx="432.0" cy="103.6" r="4" fill="#3465a4"><title>Michie, Andrew</title></circle></a><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="498.6" cy="133.4" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><circle cx="592.5" cy="106.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

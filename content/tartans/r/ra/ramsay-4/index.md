@@ -8,7 +8,14 @@ crumbs:
   url: "/clan/ramsay/"
 - name: "Ramsay"
   url: "/families/ramsay/"
+aliases:
+- "/setts/k4w1k28r30dp1r3/"
+- "/setts/k4w2k28r30b1r3/"
+- "/setts/k4w2k28r30db1r3/"
+- "/setts/k4w2k28r30dr1r3/"
+- "/setts/ri5r2ri30k28w2k4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwkrbr/">KWKRBR</a></nav>
 A tartan of the [Ramsay](/families/ramsay/) family.
 Its design is pattern [KWKRBR](/stripes/kwkrbr/) — the page of every tartan sharing this colour sequence.
 
@@ -18,16 +25,16 @@ The **Ramsay** tartan groups 5 setts — the same named design recorded as diffe
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4w1k28r30dp1r3/">Ramsay</a> ★</td><td><code>K/8 W2 K56 R60 DP2 R/6</code></td><td>254</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4w1k28r30dp1r3/"><img src="/variants/s6/k4w1k28r30dp1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k4w2k28r30b1r3/">Ramsay</a></td><td><code>K/8 W4 K56 R60 B2 R/6</code></td><td>258</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4w2k28r30b1r3/"><img src="/variants/s6/k4w2k28r30b1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k4w2k28r30db1r3/">Ramsay</a></td><td><code>K/8 W4 K56 R60 DB2 R/6</code></td><td>258</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4w2k28r30db1r3/"><img src="/variants/s6/k4w2k28r30db1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k4w2k28r30dr1r3/">Ramsay</a></td><td><code>K/8 W4 K56 R60 DR2 R/6</code></td><td>258</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4w2k28r30dr1r3/"><img src="/variants/s6/k4w2k28r30dr1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/ri5r2ri30k28w2k4/">Red Clan Tartan</a></td><td><code>Ri/10 R4 Ri60 K56 W4 K/8</code></td><td>266</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ri5r2ri30k28w2k4/"><img src="ri5r2ri30k28w2k4-rev.png" alt="Red Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4w1k28r30dp1r3~x2/">Ramsay</a> ★</td><td><code>K/8 W2 K56 R60 DP2 R/6</code></td><td>254</td><td>1842</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><img src="/variants/s6/k4w1k28r30dp1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4w2k28r30b1r3~x2/">Ramsay</a></td><td><code>K/8 W4 K56 R60 B2 R/6</code></td><td>258</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4w2k28r30b1r3~x2/"><img src="/variants/s6/k4w2k28r30b1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4w2k28r30db1r3~x2/">Ramsay</a></td><td><code>K/8 W4 K56 R60 DB2 R/6</code></td><td>258</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4w2k28r30db1r3~x2/"><img src="/variants/s6/k4w2k28r30db1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4w2k28r30dr1r3~x2/">Ramsay</a></td><td><code>K/8 W4 K56 R60 DR2 R/6</code></td><td>258</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4w2k28r30dr1r3~x2/"><img src="/variants/s6/k4w2k28r30dr1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ri5r2ri30k28w2k4~x2~ri2109032-r1807008/">Red Clan Tartan</a></td><td><code>Ri/10 R4 Ri60 K56 W4 K/8</code></td><td>266</td><td>1842</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ri5r2ri30k28w2k4~x2~ri2109032-r1807008/"><img src="ri5r2ri30k28w2k4-rev.png" alt="Red Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -47,6 +54,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="317.6" cy="113.2" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s8/w3k3w3k37r40w1r2lo3~x2/"><circle cx="278.4" cy="69.3" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><a href="/variants/s6/k4r33k24w3k4r3~x2/"><circle cx="283.9" cy="154.4" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="295.9" cy="85.0" r="4" fill="#3465a4"><title>Cunningham</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="223.7" cy="151.8" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s6/k2r16k8y1k8r2/"><circle cx="288.4" cy="156.4" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s5/k22w1k12r43w1~x2/"><circle cx="351.6" cy="114.3" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><a href="/variants/s5/r4k1r24k22r2~x2/"><circle cx="365.9" cy="146.8" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s6/k8r1k8r11y1r1~x4/"><circle cx="288.4" cy="171.1" r="4" fill="#3465a4"><title>Swanstrom</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="275.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><circle cx="307.6" cy="101.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="318.6" cy="113.3" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s8/w3k3w3k37r40w1r2lo3~x2/"><circle cx="279.4" cy="69.2" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><a href="/variants/s6/k4r33k24w3k4r3~x2/"><circle cx="284.9" cy="154.5" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="297.0" cy="85.0" r="4" fill="#3465a4"><title>Cunningham</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="224.5" cy="151.7" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s6/k2r16k8y1k8r2/"><circle cx="289.3" cy="156.4" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s5/k22w1k12r43w1~x2/"><circle cx="352.8" cy="114.4" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><a href="/variants/s5/r4k1r24k22r2~x2/"><circle cx="367.1" cy="147.0" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s6/k8r1k8r11y1r1~x4/"><circle cx="289.3" cy="171.2" r="4" fill="#3465a4"><title>Swanstrom</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="276.4" cy="80.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria</title></circle></a><circle cx="308.7" cy="101.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Auld Lang Syne"
   url: "/tartans/a/au/auld-lang-syne-6/"
 - name: "Auld Lang Syne"
-  url: "/setts/k1t1k1t7dy7k1dy1lt1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1t1k1t7dy7k1dy1lt1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/auld-lang-syne-6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGKGW](/stripes/kbkbgkgw/).
 
 Part of the [Auld Lang Syne](/tartans/a/au/auld-lang-syne-6/) tartan — the named design grouping this sett with its other cloths.

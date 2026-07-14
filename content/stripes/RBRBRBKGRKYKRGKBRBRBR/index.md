@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/">Logan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/"><img src="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s21/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5~x2/">MacLagan of Glenquiech</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5~x2/"><img src="/variants/s21/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5~x2/sett.png" alt="MacLagan of Glenquiech sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/logan-9/">Logan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/logan-9/"><img src="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclagan-of-glenquiech-2/">MacLagan of Glenquiech</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclagan-of-glenquiech-2/"><img src="/variants/s21/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5~x2/sett.png" alt="MacLagan of Glenquiech sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

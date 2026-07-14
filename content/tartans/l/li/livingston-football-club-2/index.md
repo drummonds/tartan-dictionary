@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Livingston"
   url: "/clan/livingston/"
+aliases:
+- "/setts/w4k24dy5k10dy12r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgkgkw/">RGKGKW</a></nav>
 A tartan of [Clan Livingston](/clan/livingston/).
 Its design is pattern [RGKGKW](/stripes/rgkgkw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Livingston Football Club** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w4k24dy5k10dy12r1/">Livingston Football Club</a></td><td><code>W/8 K48 DY10 K20 DY24 R/2</code></td><td>214</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w4k24dy5k10dy12r1/"><img src="/variants/s6/w4k24dy5k10dy12r1~x2/sett.png" alt="Livingston Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w4k24dy5k10dy12r1~x2/">Livingston Football Club</a></td><td><code>W/8 K48 DY10 K20 DY24 R/2</code></td><td>214</td><td>2001</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w4k24dy5k10dy12r1~x2/"><img src="/variants/s6/w4k24dy5k10dy12r1~x2/sett.png" alt="Livingston Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -35,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="286.7" cy="195.1" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="344.4" cy="93.3" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="423.0" cy="119.2" r="4" fill="#3465a4"><title>Perry Dress</title></circle></a><a href="/variants/s5/k30r10y1k8w3~x4/"><circle cx="405.3" cy="110.1" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="306.3" cy="155.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="362.7" cy="130.0" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="396.0" cy="156.0" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="382.0" cy="111.3" r="4" fill="#3465a4"><title>Perry, hunting</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="309.7" cy="142.0" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s5/y3k1n24k35w3~x2/"><circle cx="316.6" cy="122.0" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><circle cx="321.4" cy="144.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="287.6" cy="195.3" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="345.6" cy="93.4" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="424.3" cy="119.5" r="4" fill="#3465a4"><title>Perry Dress</title></circle></a><a href="/variants/s5/k30r10y1k8w3~x4/"><circle cx="406.7" cy="110.4" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="307.2" cy="155.5" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="363.8" cy="130.2" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="397.3" cy="156.3" r="4" fill="#3465a4"><title>Perry</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="383.3" cy="111.6" r="4" fill="#3465a4"><title>Perry, hunting</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="310.7" cy="142.1" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s5/y3k1n24k35w3~x2/"><circle cx="317.6" cy="122.1" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><circle cx="322.4" cy="144.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

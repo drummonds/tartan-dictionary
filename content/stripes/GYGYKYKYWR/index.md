@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r22lb3ly14k3ly14k3ly14y3ly14y3~x2/">Sutherland of Duffus (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r22lb3ly14k3ly14k3ly14y3ly14y3~x2/"><img src="/variants/s10/r22lb3ly14k3ly14k3ly14y3ly14y3~x2/sett.png" alt="Sutherland of Duffus (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/sutherland-of-duffus/">Sutherland of Duffus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sutherland-of-duffus/"><img src="/variants/s10/r22lb3ly14k3ly14k3ly14y3ly14y3~x2/sett.png" alt="Sutherland of Duffus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

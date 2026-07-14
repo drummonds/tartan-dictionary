@@ -11,16 +11,16 @@ crumbs:
   url: "/families/selkirk/"
 - name: "Selkirk"
   url: "/tartans/s/se/selkirk-2/"
-- name: "Selkirk (Name)"
-  url: "/setts/dp11y2k10g10lo2/"
+- name: "Selkirk (Personal) Original"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp11y2k10g10lo2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGKGYGKG](/stripes/bgkgygkg/).
+provenance below. It is one weaving of the [sett](/tartans/s/se/selkirk-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKGY](/stripes/bgkgy/).
 
 Part of the [Selkirk](/tartans/s/se/selkirk-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4856](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4856)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3196
 
 ## Thread count
-DP/22 Y4 K20 G20 LO4 G20 K20 Y/4
+DP/22 Y4 K20 G20 LO/4
 
-One full sett is **202 threads**.
+One full sett is **114 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DP/22 Y4 K20 G20 LO4 G20 K20 Y/4 — 202 threads; it folds to the canonical 114-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **202 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/22 Y4 K20 G20 LO4 G20 K20 Y/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/22 Y4 K20 G20 LO/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

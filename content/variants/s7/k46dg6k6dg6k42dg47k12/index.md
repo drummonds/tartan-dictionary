@@ -8,10 +8,10 @@ crumbs:
 - name: "Taiheiyo Club, Inc"
   url: "/tartans/t/ta/taiheiyo-club-inc/"
 - name: "Taiheiyo Club, Inc."
-  url: "/setts/k46dg6k6dg6k42dg47k12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k46dg6k6dg6k42dg47k12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ta/taiheiyo-club-inc/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGK](/stripes/kgkgkgk/).
 
 Part of the [Taiheiyo Club, Inc](/tartans/t/ta/taiheiyo-club-inc/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11210](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>22/12/2014 — Taiheiyo Club, Inc. (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11210">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>A corporate tartan for use by members of Taiheiyo Club, Inc., which operates 17 domestic golf courses in Japan.</em></li>
-<li>2015 — Taiheiyo Club, Inc (warp) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11210">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>A corporate tartan for use by members of Taiheiyo Club, Inc., which operates 17 domestic golf courses in Japan. Weft count: K/16 G62 K54 G8 K8 G8 K/56</em></li>
+<li>2015 — Taiheiyo Club, Inc (warp) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11210/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>A corporate tartan for use by members of Taiheiyo Club, Inc., which operates 17 domestic golf courses in Japan. Weft count: K/16 G62 K54 G8 K8 G8 K/56</em></li>
 </ul>
 </details>
 

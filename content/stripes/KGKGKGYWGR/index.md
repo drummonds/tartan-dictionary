@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k2y2k24y2k2y2ly30w3g2r2/">Spotsylvania County Sheriff (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k2y2k24y2k2y2ly30w3g2r2/"><img src="/variants/s10/k2y2k24y2k2y2ly30w3g2r2~x2~ly2503076/sett.png" alt="Spotsylvania County Sheriff (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spotsylvania-county-sheriff/">Spotsylvania County Sheriff</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spotsylvania-county-sheriff/"><img src="/variants/s10/k2y2k24y2k2y2ly30w3g2r2~x2~ly2503076/sett.png" alt="Spotsylvania County Sheriff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

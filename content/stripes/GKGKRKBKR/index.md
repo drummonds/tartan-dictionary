@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/y2k4y1k4r5k50n1k2r1~x2/">Magdalene</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y2k4y1k4r5k50n1k2r1~x2/"><img src="/variants/s9/y2k4y1k4r5k50n1k2r1~x2/sett.png" alt="Magdalene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/magdalene/">Magdalene</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/magdalene/"><img src="/variants/s9/y2k4y1k4r5k50n1k2r1~x2/sett.png" alt="Magdalene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

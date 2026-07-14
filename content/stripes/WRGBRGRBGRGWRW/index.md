@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/">MacKinnon #12</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/"><img src="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/sett.png" alt="MacKinnon #12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/w2r4lb2g8r16g2db4r2g16r6db2g2r3lb2~x2/">MacKinnon #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/w2r4lb2g8r16g2db4r2g16r6db2g2r3lb2~x2/"><img src="/variants/s14/w2r4lb2g8r16g2db4r2g16r6db2g2r3lb2~x2/sett.png" alt="MacKinnon #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-6/">MacKinnon 6</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackinnon-6/"><img src="/variants/s14/w2r4lb2g8r16g2db4r2g16r6db2g2r3lb2~x2/sett.png" alt="MacKinnon 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinnon-9/">MacKinnon 9</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackinnon-9/"><img src="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/sett.png" alt="MacKinnon 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

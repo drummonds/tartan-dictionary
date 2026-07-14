@@ -8,10 +8,10 @@ crumbs:
 - name: "Plymouth/Armada 400, Armada"
   url: "/tartans/p/pl/plymouth-armada-400-armada/"
 - name: "Plymouth/Armada 400, Armada"
-  url: "/setts/dbi40r2dbi7db5o2db3w2db10n6dbi2n4w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi40r2dbi7db5o2db3w2db10n6dbi2n4w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pl/plymouth-armada-400-armada/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBRBWBBBBW](/stripes/brbbrbwbbbbw/).
 
 Part of the [Plymouth/Armada 400, Armada](/tartans/p/pl/plymouth-armada-400-armada/) tartan — the named design grouping this sett with its other cloths.

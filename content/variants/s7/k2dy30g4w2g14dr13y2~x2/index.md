@@ -8,10 +8,10 @@ crumbs:
 - name: "Red Rum Commemorative"
   url: "/tartans/r/re/red-rum-commemorative/"
 - name: "Red Rum Commemorative Tartan"
-  url: "/setts/k2dy30g4w2g14dr13y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2dy30g4w2g14dr13y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/red-rum-commemorative/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWGGK](/stripes/gbgwggk/).
 
 Part of the [Red Rum Commemorative](/tartans/r/re/red-rum-commemorative/) tartan — the named design grouping this sett with its other cloths.

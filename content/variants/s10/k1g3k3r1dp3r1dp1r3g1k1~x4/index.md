@@ -12,10 +12,10 @@ crumbs:
 - name: "MacInroy"
   url: "/tartans/m/ma/macinroy-2/"
 - name: "MacInroy Clan Tartan"
-  url: "/setts/k1g3k3r1dp3r1dp1r3g1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1g3k3r1dp3r1dp1r3g1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macinroy-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRBRBRGK](/stripes/kgkrbrbrgk/).
 
 Part of the [MacInroy](/tartans/m/ma/macinroy-2/) tartan — the named design grouping this sett with its other cloths.

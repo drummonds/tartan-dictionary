@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/">Highland, Blue (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/"><img src="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/sett.png" alt="Highland, Blue (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-2/">Highland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-2/"><img src="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/sett.png" alt="Highland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/">State Seal of Connecticut (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/"><img src="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/sett.png" alt="State Seal of Connecticut (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-connecticut/">State Seal of Connecticut</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-connecticut/"><img src="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/sett.png" alt="State Seal of Connecticut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

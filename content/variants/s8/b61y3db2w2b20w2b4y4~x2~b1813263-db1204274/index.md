@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Warrant Holders"
   url: "/tartans/r/ro/royal-warrant-holders/"
 - name: "Royal Warrant Holders"
-  url: "/setts/b61y3db2w2b20w2b4y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b61y3db2w2b20w2b4y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-warrant-holders/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBWBG](/stripes/bgbwbwbg/).
 
 Part of the [Royal Warrant Holders](/tartans/r/ro/royal-warrant-holders/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "McLion"
   url: "/tartans/m/mc/mclion-2/"
 - name: "McLion"
-  url: "/setts/b1dr5dg4db1g1db1g1db6w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b1dr5dg4db1g1db1g1db6w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mclion-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBGBW](/stripes/bbgbgbgbw/).
 
 Part of the [McLion](/tartans/m/mc/mclion-2/) tartan — the named design grouping this sett with its other cloths.

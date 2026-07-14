@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/">Bryson (1988) (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><img src="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/sett.png" alt="Bryson (1988) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bryson-3/">Bryson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bryson-3/"><img src="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/sett.png" alt="Bryson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/">Heidrick Family (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><img src="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/sett.png" alt="Heidrick Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heidrick/">Heidrick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heidrick/"><img src="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/sett.png" alt="Heidrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

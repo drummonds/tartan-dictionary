@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1ly2~x2~dg1806142-g2408144/">Redmond (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1ly2~x2~dg1806142-g2408144/"><img src="/variants/s17/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1ly2~x2~dg1806142-g2408144/sett.png" alt="Redmond (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/redmond/">Redmond</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/redmond/"><img src="/variants/s17/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1ly2~x2~dg1806142-g2408144/sett.png" alt="Redmond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

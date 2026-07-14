@@ -6,17 +6,20 @@ crumbs:
   url: "/"
 - name: "Clan Stirling"
   url: "/clan/stirling/"
+aliases:
+- "/setts/g22r3w1g2r3lb16k3dy2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkwrgwrg/">GKWRGWRG</a></nav>
 A tartan of [Clan Stirling](/clan/stirling/).
-Its design is pattern [GRWGRWKGKWRGWR](/stripes/grwgrwkgkwrgwr/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [GKWRGWRG](/stripes/gkwrgwrg/) — the page of every tartan sharing this colour sequence.
 
 The **Stirling University** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g22r3w1g2r3lb16k3dy2/">Stirling University</a></td><td><code>G/88 R12 W4 G8 R12 LB64 K12 DY8 K12 LB64 R12 G8 W4 R/12</code></td><td>320</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g22r3w1g2r3lb16k3dy2/"><img src="/variants/s8/g22r3w1g2r3lb16k3dy2~x4/sett.png" alt="Stirling University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g22r3w1g2r3lb16k3dy2~x4/">Stirling University</a></td><td><code>G/88 R12 W4 G8 R12 LB64 K12 DY/8</code></td><td>320</td><td>1994</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g22r3w1g2r3lb16k3dy2~x4/"><img src="/variants/s8/g22r3w1g2r3lb16k3dy2~x4/sett.png" alt="Stirling University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -35,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="225.3" cy="125.4" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ</title></circle></a><a href="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/"><circle cx="286.0" cy="109.8" r="4" fill="#3465a4"><title>Shiach</title></circle></a><a href="/variants/s9/g32lb3dp3lb3g2k20b17dr3lo4~x2~lb3300000-b2603265/"><circle cx="113.7" cy="111.8" r="4" fill="#3465a4"><title>Colorado</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="199.6" cy="150.8" r="4" fill="#3465a4"><title>Shawlands International</title></circle></a><a href="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/"><circle cx="156.1" cy="142.3" r="4" fill="#3465a4"><title>Morgan in Maryland</title></circle></a><a href="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/"><circle cx="156.2" cy="143.0" r="4" fill="#3465a4"><title>Morgan in Maryland</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.6" cy="131.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.2" cy="121.6" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="148.6" cy="114.7" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/variants/s8/w3k1r4g20k3t30w4r2~x2/"><circle cx="238.4" cy="119.6" r="4" fill="#3465a4"><title>Scottish Prison Service</title></circle></a><circle cx="210.6" cy="116.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="225.8" cy="125.2" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ</title></circle></a><a href="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/"><circle cx="286.8" cy="109.8" r="4" fill="#3465a4"><title>Shiach</title></circle></a><a href="/variants/s9/g32lb3dp3lb3g2k20b17dr3lo4~x2~lb3300000-b2603265/"><circle cx="114.1" cy="111.5" r="4" fill="#3465a4"><title>Colorado</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="200.1" cy="150.6" r="4" fill="#3465a4"><title>Shawlands International</title></circle></a><a href="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/"><circle cx="156.4" cy="142.1" r="4" fill="#3465a4"><title>Morgan in Maryland</title></circle></a><a href="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/"><circle cx="156.5" cy="142.7" r="4" fill="#3465a4"><title>Morgan in Maryland</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.9" cy="131.6" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.6" cy="121.3" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.0" cy="114.4" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/variants/s8/w3k1r4g20k3t30w4r2~x2/"><circle cx="239.0" cy="119.4" r="4" fill="#3465a4"><title>Scottish Prison Service</title></circle></a><circle cx="211.1" cy="116.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

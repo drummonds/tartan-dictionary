@@ -12,10 +12,10 @@ crumbs:
 - name: "Mehrtens"
   url: "/tartans/m/me/mehrtens/"
 - name: "Mehrtens (Personal)"
-  url: "/setts/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/me/mehrtens/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRKRKBKBRBRBW](/stripes/rkrkrkrkbkbrbrbw/).
 
 Part of the [Mehrtens](/tartans/m/me/mehrtens/) tartan — the named design grouping this sett with its other cloths.

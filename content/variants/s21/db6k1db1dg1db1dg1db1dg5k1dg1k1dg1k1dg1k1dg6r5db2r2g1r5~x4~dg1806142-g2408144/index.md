@@ -12,10 +12,10 @@ crumbs:
 - name: "Recovery"
   url: "/tartans/r/re/recovery/"
 - name: "Recovery"
-  url: "/setts/db6k1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6k1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/recovery/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBGBGKGKGKGKGRBRGR](/stripes/bkbgbgbgkgkgkgkgrbrgr/).
 
 Part of the [Recovery](/tartans/r/re/recovery/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/">Cornish, hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/"><img src="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/sett.png" alt="Cornish, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cornish-hunting-2/">Cornish Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-hunting-2/"><img src="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/sett.png" alt="Cornish Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

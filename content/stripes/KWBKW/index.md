@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k3w2n27k31lp3~x2/">Kelley Oliphint (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k3w2n27k31lp3~x2/"><img src="/variants/s5/k3w2n27k31lp3~x2/sett.png" alt="Kelley Oliphint (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kelley-oliphint/">Kelley Oliphint</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kelley-oliphint/"><img src="/variants/s5/k3w2n27k31lp3~x2/sett.png" alt="Kelley Oliphint sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

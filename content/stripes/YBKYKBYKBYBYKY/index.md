@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/">Agincourt (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/"><img src="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/sett.png" alt="Agincourt (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ag/agincourt/">Agincourt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ag/agincourt/"><img src="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/sett.png" alt="Agincourt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Dunbar of Pitgaveny"
   url: "/tartans/d/du/dunbar-of-pitgaveny/"
 - name: "Dunbar of Pitgaveny"
-  url: "/setts/n19w1n19r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n19w1n19r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunbar-of-pitgaveny/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBR](/stripes/bwbr/).
 
 Part of the [Dunbar of Pitgaveny](/tartans/d/du/dunbar-of-pitgaveny/) tartan — the named design grouping this sett with its other cloths.

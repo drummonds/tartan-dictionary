@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/">Thompson Variant</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/"><img src="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/sett.png" alt="Thompson Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thompson-variant/">Thompson Variant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thompson-variant/"><img src="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/sett.png" alt="Thompson Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

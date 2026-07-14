@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/o24lb2o4n2k6lb2o14k3lb4n8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwkrwkbrwr/">BWKRWKBRWR</a></nav>
 Its design is pattern [BWKRWKBRWR](/stripes/bwkrwkbrwr/) — the page of every tartan sharing this colour sequence.
 
 The **Dobrain** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Dobrain** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/o24lb2o4n2k6lb2o14k3lb4n8/">Dobrain</a></td><td><code>O/48 LB4 O8 N4 K12 LB4 O28 K6 LB8 N/16</code></td><td>212</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/o24lb2o4n2k6lb2o14k3lb4n8/"><img src="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/sett.png" alt="Dobrain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/">Dobrain</a></td><td><code>O/48 LB4 O8 N4 K12 LB4 O28 K6 LB8 N/16</code></td><td>212</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><img src="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/sett.png" alt="Dobrain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/"><circle cx="278.8" cy="150.8" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/variants/s7/k4o2r2o2k2o15y2~x4/"><circle cx="330.0" cy="162.2" r="4" fill="#3465a4"><title>Welsh, National</title></circle></a><a href="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/"><circle cx="245.7" cy="141.8" r="4" fill="#3465a4"><title>Braemar, or Blair Atholl</title></circle></a><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="232.8" cy="159.2" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="283.2" cy="132.0" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/variants/s10/o28k2o28k2o2k2do29k2r2k2~x2/"><circle cx="344.6" cy="134.0" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><circle cx="257.7" cy="181.2" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="294.8" cy="147.4" r="4" fill="#3465a4"><title>McInally</title></circle></a><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><circle cx="321.3" cy="120.5" r="4" fill="#3465a4"><title>McAlifyfe</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5/"><circle cx="249.2" cy="173.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><circle cx="303.3" cy="151.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/"><circle cx="279.5" cy="150.8" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/variants/s7/k4o2r2o2k2o15y2~x4/"><circle cx="330.8" cy="162.3" r="4" fill="#3465a4"><title>Welsh, National</title></circle></a><a href="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/"><circle cx="246.4" cy="141.8" r="4" fill="#3465a4"><title>Braemar, or Blair Atholl</title></circle></a><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="233.4" cy="159.2" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="284.0" cy="132.0" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/variants/s10/o28k2o28k2o2k2do29k2r2k2~x2/"><circle cx="345.4" cy="134.2" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><circle cx="258.3" cy="181.1" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="295.6" cy="147.4" r="4" fill="#3465a4"><title>McInally</title></circle></a><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><circle cx="322.1" cy="120.6" r="4" fill="#3465a4"><title>McAlifyfe</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5/"><circle cx="249.9" cy="173.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><circle cx="304.0" cy="151.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

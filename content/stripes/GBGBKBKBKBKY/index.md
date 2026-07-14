@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/">Walker, Evening (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/"><img src="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/sett.png" alt="Walker, Evening (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/walker-evening/">Walker, Evening</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/walker-evening/"><img src="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/sett.png" alt="Walker, Evening sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Stutterheim"
   url: "/tartans/s/st/stutterheim/"
 - name: "Stutterheim"
-  url: "/setts/k4y18db44k3y10k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4y18db44k3y10k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stutterheim/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBKGK](/stripes/kgbkgk/).
 
 Part of the [Stutterheim](/tartans/s/st/stutterheim/) tartan — the named design grouping this sett with its other cloths.

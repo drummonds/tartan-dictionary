@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/">MacTaggert</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><img src="/variants/s7/g9lb2g1k6db6r1db1~x2/sett.png" alt="MacTaggert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/">MacThomas (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><img src="/variants/s7/dg5lp3dg32k16db32r3db5~x2/sett.png" alt="MacThomas (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mactaggert-3/">MacTaggert</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mactaggert-3/"><img src="/variants/s7/g9lb2g1k6db6r1db1~x2/sett.png" alt="MacTaggert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macthomas/">MacThomas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macthomas/"><img src="/variants/s7/dg5lp3dg32k16db32r3db5~x2/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/db2r1db16k5g2w11g1~x4/">Sinclair dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db2r1db16k5g2w11g1~x4/"><img src="/variants/s7/db2r1db16k5g2w11g1~x4/sett.png" alt="Sinclair dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/si/sinclair-dress-2/">Sinclair Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/si/sinclair-dress-2/"><img src="/variants/s7/db4r2db31k10g4w21g2~x2/sett.png" alt="Sinclair Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s32/k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2k1g14k1w2k1t5r1t5k1y2k1g14k2g2k6r2~x2/">Duncan of Sketraw Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s32/k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2k1g14k1w2k1t5r1t5k1y2k1g14k2g2k6r2~x2/"><img src="/variants/s32/k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2k1g14k1w2k1t5r1t5k1y2k1g14k2g2k6r2~x2/sett.png" alt="Duncan of Sketraw Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duncan-of-sketraw-2/">Duncan of Sketraw</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duncan-of-sketraw-2/"><img src="/variants/s32/k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2k1g14k1w2k1t5r1t5k1y2k1g14k2g2k6r2~x2/sett.png" alt="Duncan of Sketraw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

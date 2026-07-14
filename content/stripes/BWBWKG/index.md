@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dp2w12t11lb12k1g2/">Isle of Barra</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dp2w12t11lb12k1g2/"><img src="/variants/s6/dp2w12t11lb12k1g2~x4~dp1607327/sett.png" alt="Isle of Barra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/is/isle-of-barra/">Isle of Barra</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-barra/"><img src="/variants/s6/dp2w12t11lb12k1g2~x4~dp1607327/sett.png" alt="Isle of Barra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

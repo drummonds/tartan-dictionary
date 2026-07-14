@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r48k1w8r2w1r2w8r2w1r2w8k1db16k1w4~x2/">Japanese (nihon)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r48k1w8r2w1r2w8r2w1r2w8k1db16k1w4~x2/"><img src="/variants/s15/r48k1w8r2w1r2w8r2w1r2w8k1db16k1w4~x2/sett.png" alt="Japanese (nihon) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/japanese/">Japanese</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/japanese/"><img src="/variants/s15/r48k1w8r2w1r2w8r2w1r2w8k1db16k1w4~x2/sett.png" alt="Japanese sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Green Thistle"
   url: "/tartans/g/gr/green-thistle/"
 - name: "Green Thistle"
-  url: "/setts/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/green-thistle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBYBYBYBYBYBYYYW](/stripes/wgbybybybybybyyyw/).
 
 Part of the [Green Thistle](/tartans/g/gr/green-thistle/) tartan — the named design grouping this sett with its other cloths.

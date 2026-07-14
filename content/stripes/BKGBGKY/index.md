@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/">MacLaurin of Broich (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/"><img src="/variants/s7/db36k8g3dr3g6k1lo2~x2/sett.png" alt="MacLaurin of Broich (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclaurin-of-broich-2/">MacLaurin of Broich</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclaurin-of-broich-2/"><img src="/variants/s7/db36k8g3dr3g6k1lo2~x2/sett.png" alt="MacLaurin of Broich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

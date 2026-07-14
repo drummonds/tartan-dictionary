@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Norwich Collection No. 60"
   url: "/tartans/n/no/norwich-collection-no-60/"
-- name: "Wilson's, No 159"
-  url: "/setts/dp8k11g9r2/"
+- name: "Norwich Collection No. 60"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp8k11g9r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/norwich-collection-no-60/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGR](/stripes/bkgr/).
 
 Part of the [Norwich Collection No. 60](/tartans/n/no/norwich-collection-no-60/) tartan — the named design grouping this sett with its other cloths.

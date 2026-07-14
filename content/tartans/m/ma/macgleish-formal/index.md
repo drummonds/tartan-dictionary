@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r50k25dg10n5ly2/"
+- "/setts/r50k25g10n5y2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkgby/">RKGBY</a></nav>
 Its design is pattern [RKGBY](/stripes/rkgby/) — the page of every tartan sharing this colour sequence.
 
 The **MacGleish Formal** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **MacGleish Formal** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r50k25dg10n5ly2/">MacGleish Formal</a> ★</td><td><code>R/100 K50 DG20 N10 LY/4</code></td><td>264</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r50k25dg10n5ly2/"><img src="/variants/s5/r50k25dg10n5ly2~x2/sett.png" alt="MacGleish Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r50k25g10n5y2/">(Personal)</a></td><td><code>R/100 K50 G20 N10 Y/4</code></td><td>264</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r50k25g10n5y2/"><img src="/variants/s5/r50k25g10n5y2~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r50k25dg10n5ly2~x2/">MacGleish Formal</a> ★</td><td><code>R/100 K50 DG20 N10 LY/4</code></td><td>264</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r50k25dg10n5ly2~x2/"><img src="/variants/s5/r50k25dg10n5ly2~x2/sett.png" alt="MacGleish Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r50k25g10n5y2~x2/">(Personal)</a></td><td><code>R/100 K50 G20 N10 Y/4</code></td><td>264</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r50k25g10n5y2~x2/"><img src="/variants/s5/r50k25g10n5y2~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="221.4" cy="135.3" r="4" fill="#3465a4"><title>Wormeck German</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="269.3" cy="162.1" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="292.4" cy="164.7" r="4" fill="#3465a4"><title>Billy Apple®</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="273.1" cy="126.3" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s6/g4r52k20dy9g2y1~x2/"><circle cx="331.2" cy="69.6" r="4" fill="#3465a4"><title>Jack, John</title></circle></a><a href="/variants/s6/r60k40y3o5p3dg12~x2/"><circle cx="222.5" cy="103.5" r="4" fill="#3465a4"><title>Rei Okamoto</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="271.0" cy="160.3" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="335.3" cy="115.6" r="4" fill="#3465a4"><title>Nicolson Dress</title></circle></a><a href="/variants/s6/g15k10r30dp2r20w1~x2/"><circle cx="326.6" cy="123.0" r="4" fill="#3465a4"><title>Kinnaird</title></circle></a><a href="/variants/s6/k7w2dg2o31dr35ly2~x2/"><circle cx="251.9" cy="140.4" r="4" fill="#3465a4"><title>Mason</title></circle></a><circle cx="273.2" cy="120.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="222.2" cy="135.2" r="4" fill="#3465a4"><title>Wormeck German</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="270.2" cy="162.1" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="293.3" cy="164.8" r="4" fill="#3465a4"><title>Billy Apple®</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="274.0" cy="126.3" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s6/g4r52k20dy9g2y1~x2/"><circle cx="332.3" cy="69.6" r="4" fill="#3465a4"><title>Jack, John</title></circle></a><a href="/variants/s6/r60k40y3o5p3dg12~x2/"><circle cx="223.2" cy="103.4" r="4" fill="#3465a4"><title>Rei Okamoto</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="271.9" cy="160.3" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="336.2" cy="115.6" r="4" fill="#3465a4"><title>Nicolson Dress</title></circle></a><a href="/variants/s6/g15k10r30dp2r20w1~x2/"><circle cx="327.5" cy="123.0" r="4" fill="#3465a4"><title>Kinnaird</title></circle></a><a href="/variants/s6/k7w2dg2o31dr35ly2~x2/"><circle cx="252.4" cy="140.3" r="4" fill="#3465a4"><title>Mason</title></circle></a><circle cx="274.1" cy="120.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

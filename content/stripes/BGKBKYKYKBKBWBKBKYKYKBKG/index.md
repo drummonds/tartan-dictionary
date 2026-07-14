@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/">Baxter Clan/Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/"><img src="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/sett.png" alt="Baxter Clan/Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baxter-2/">Baxter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baxter-2/"><img src="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/sett.png" alt="Baxter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

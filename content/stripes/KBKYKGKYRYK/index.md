@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/">Derry County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><img src="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/sett.png" alt="Derry County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/derry-county-crest/">Derry County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/derry-county-crest/"><img src="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/sett.png" alt="Derry County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

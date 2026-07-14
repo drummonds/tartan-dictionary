@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/machardy/"
 - name: "MacHardy"
   url: "/families/machardy/"
+aliases:
+- "/setts/g4r4k12w2k12g32r4k3/"
+- "/setts/k3r1g32k12w1k12r1g3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grkwkgrk/">GRKWKGRK</a></nav>
 A tartan of the [MacHardy](/families/machardy/) family.
 Its design is pattern [GRKWKGRK](/stripes/grkwkgrk/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **MacHardy** tartan groups 2 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g4r4k12w2k12g32r4k3/">MacHardy</a> ★</td><td><code>G/8 R8 K24 W4 K24 G64 R8 K/6</code></td><td>278</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g4r4k12w2k12g32r4k3/"><img src="/variants/s8/g4r4k12w2k12g32r4k3~x2/sett.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3r1g32k12w1k12r1g3/">MacHardy</a></td><td><code>K/6 R2 G64 K24 W2 K24 R2 G/6</code></td><td>248</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3r1g32k12w1k12r1g3/"><img src="k3r1g32k12w1k12r1g3-rev.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/">MacHardy</a> ★</td><td><code>G/8 R8 K24 W4 K24 G64 R8 K/6</code></td><td>278</td><td>1880</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><img src="/variants/s8/g4r4k12w2k12g32r4k3~x2/sett.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/">MacHardy</a></td><td><code>K/6 R2 G64 K24 W2 K24 R2 G/6</code></td><td>248</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/"><img src="k3r1g32k12w1k12r1g3-rev.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k83r16g56k2w5k2g56r5~x2/"><circle cx="272.7" cy="101.0" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="255.2" cy="149.4" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="258.2" cy="152.7" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s7/g6r2g13k6w2k16r3~x2/"><circle cx="183.4" cy="189.1" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/"><circle cx="208.0" cy="135.4" r="4" fill="#3465a4"><title>Derick Wardrope</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="215.5" cy="108.7" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><circle cx="203.8" cy="162.9" r="4" fill="#3465a4"><title>Cleghorn</title></circle></a><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/"><circle cx="204.2" cy="145.0" r="4" fill="#3465a4"><title>Bro-Leon</title></circle></a><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><circle cx="227.2" cy="151.1" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="264.8" cy="125.8" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><circle cx="235.4" cy="137.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k83r16g56k2w5k2g56r5~x2/"><circle cx="273.6" cy="101.0" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="255.9" cy="149.5" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="258.9" cy="152.7" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s7/g6r2g13k6w2k16r3~x2/"><circle cx="184.0" cy="189.1" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/"><circle cx="208.6" cy="135.3" r="4" fill="#3465a4"><title>Derick Wardrope</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="216.2" cy="108.6" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><circle cx="204.4" cy="162.9" r="4" fill="#3465a4"><title>Cleghorn</title></circle></a><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/"><circle cx="204.9" cy="144.9" r="4" fill="#3465a4"><title>Bro-Leon</title></circle></a><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><circle cx="227.9" cy="151.1" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="265.7" cy="125.8" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><circle cx="236.1" cy="137.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

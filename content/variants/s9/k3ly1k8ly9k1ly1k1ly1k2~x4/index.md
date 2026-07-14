@@ -10,15 +10,15 @@ crumbs:
 - name: "Justus Black & Gold (Persona"
   url: "/tartans/j/ju/justus-black-gold-persona/"
 - name: "Justus Black & Gold (Angus) (Personal)"
-  url: "/setts/k3ly1k8ly9k1ly1k1ly1k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3ly1k8ly9k1ly1k1ly1k2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KYKYKYKYKYKYKYKY](/stripes/kykykykykykykyky/).
+provenance below. It is one weaving of the [sett](/tartans/j/ju/justus-black-gold-persona/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KYKYKYKYK](/stripes/kykykykyk/).
 
 Part of the [Justus Black & Gold (Persona](/tartans/j/ju/justus-black-gold-persona/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1918](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1918)
 
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1918](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1999 — Justus Black & Gold (Angus) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1918">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>One of 7 tartans created by Christopher Carlisle Justus in Hendersonville NC - 1986. Status not known and no evidence of actual commercial weaving although he appears to be a weaver (Sindex notes). Significance of (Angus) not known. This range of Justus 'tartans' are included for historical reasons only: were the Scottish Tartans Authority's asked to Register a range such as this, it would decline or at least limit the number to three and offer advice on tartan design.</em></li>
-<li>Unknown — Justus Black & Gold (Angus) (Persona (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2732">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>One of 7 tartans created by Christopher Carlisle Justus in Hendersonville NC - 1986. Status not known and no evidence of actual commercial weaving although he appears to be a weaver (Sindex notes).. Significance of (Angus) not known. This range of Justus 'tartans' are included for historical reasons only: were the Scottish Tartans Authority asked to Register a range such as this, it would decline or at least limit the number to three and offer advice on tartan design.</em></li>
+<li>Unknown — Justus Black & Gold (Angus) (Persona (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2732/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>One of 7 tartans created by Christopher Carlisle Justus in Hendersonville NC - 1986. Status not known and no evidence of actual commercial weaving although he appears to be a weaver (Sindex notes).. Significance of (Angus) not known. This range of Justus 'tartans' are included for historical reasons only: were the Scottish Tartans Authority asked to Register a range such as this, it would decline or at least limit the number to three and offer advice on tartan design.</em></li>
 </ul>
 </details>
 
@@ -55,9 +55,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2732
 
 ## Thread count
-K/12 LY4 K32 LY36 K4 LY4 K4 LY4 K8 LY4 K4 LY4 K4 LY36 K32 LY/4
+K/12 LY4 K32 LY36 K4 LY4 K4 LY4 K/8
 
-One full sett is **376 threads**.
+One full sett is **196 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/12 LY4 K32 LY36 K4 LY4 K4 LY4 K8 LY4 K4 LY4 K4 LY36 K32 LY/4 — 376 threads; it folds to the canonical 196-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -66,7 +68,7 @@ One full sett is **376 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 LY4 K32 LY36 K4 LY4 K4 LY4 K8 LY4 K4 LY4 K4 LY36 K32 LY/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 LY4 K32 LY36 K4 LY4 K4 LY4 K/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

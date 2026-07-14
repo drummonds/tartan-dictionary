@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dg60r2dg8r1dg5w2/">St. David's (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dg60r2dg8r1dg5w2/"><img src="/variants/s6/dg60r2dg8r1dg5w2/sett.png" alt="St. David's (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-david-s/">St. David's</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-david-s/"><img src="/variants/s6/dg60r2dg8r1dg5w2/sett.png" alt="St. David's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/dt12db3dt2dr4dt2db20lo2db4lo2db20dt2dr4dt2db3dt12db2~x2~db1406275/">Stone of Destiny, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/dt12db3dt2dr4dt2db20lo2db4lo2db20dt2dr4dt2db3dt12db2~x2~db1406275/"><img src="/variants/s16/dt12db3dt2dr4dt2db20lo2db4lo2db20dt2dr4dt2db3dt12db2~x2~db1406275/sett.png" alt="Stone of Destiny, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stone-of-destiny-the/">Stone of Destiny, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stone-of-destiny-the/"><img src="/variants/s16/dt12db3dt2dr4dt2db20lo2db4lo2db20dt2dr4dt2db3dt12db2~x2~db1406275/sett.png" alt="Stone of Destiny, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

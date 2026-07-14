@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k2db2r2k24r2g6r6db2k6r2g27r2k2/">Buchan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k2db2r2k24r2g6r6db2k6r2g27r2k2/"><img src="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/sett.png" alt="Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k1db1r1k8r1g6r6db1k6r1g8r1k1/">Cumming</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k1db1r1k8r1g6r6db1k6r1g8r1k1/"><img src="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/buchan-3/">Buchan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/buchan-3/"><img src="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/sett.png" alt="Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cumming-4/">Cumming</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cumming-4/"><img src="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

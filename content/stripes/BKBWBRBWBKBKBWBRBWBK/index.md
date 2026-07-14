@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2~dbi1406275-db1106275/">Rangers F. C. Dress Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2~dbi1406275-db1106275/"><img src="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2~dbi1406275-db1106275/sett.png" alt="Rangers F. C. Dress Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rangers-f-c-dress/">Rangers F. C. Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-f-c-dress/"><img src="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2~dbi1406275-db1106275/sett.png" alt="Rangers F. C. Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dr27g20k7w3dy3dr2dy3w3dy6dp6k2dr3dy4dp3~x2/">Roman Family Tribute (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dr27g20k7w3dy3dr2dy3w3dy6dp6k2dr3dy4dp3~x2/"><img src="/variants/s14/dr27g20k7w3dy3dr2dy3w3dy6dp6k2dr3dy4dp3~x2/sett.png" alt="Roman Family Tribute (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/roman-family-tribute/">Roman Family Tribute</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/roman-family-tribute/"><img src="/variants/s14/dr27g20k7w3dy3dr2dy3w3dy6dp6k2dr3dy4dp3~x2/sett.png" alt="Roman Family Tribute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

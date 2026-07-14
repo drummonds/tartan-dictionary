@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lb25r10lb25w8b6g8y5~x2/">Barneys (Scunthorpe) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lb25r10lb25w8b6g8y5~x2/"><img src="/variants/s7/lb25r10lb25w8b6g8y5~x2/sett.png" alt="Barneys (Scunthorpe) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barneys-2/">Barneys</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barneys-2/"><img src="/variants/s7/lb25r10lb25w8b6g8y5~x2/sett.png" alt="Barneys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

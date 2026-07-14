@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/">Young, Christina</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/"><img src="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/sett.png" alt="Young, Christina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/yo/young-christina/">Young, Christina</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/yo/young-christina/"><img src="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/sett.png" alt="Young, Christina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

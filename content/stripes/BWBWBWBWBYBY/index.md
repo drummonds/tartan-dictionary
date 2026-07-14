@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/">Lysaght Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/"><img src="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/sett.png" alt="Lysaght Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ly/lysaght-dress/">Lysaght Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ly/lysaght-dress/"><img src="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/sett.png" alt="Lysaght Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

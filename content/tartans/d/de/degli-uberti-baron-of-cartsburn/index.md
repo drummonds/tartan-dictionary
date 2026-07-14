@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db8r1k6r1dy8r1k45dy1/"
+- "/setts/db8r1k6r1ly8r1k45ly1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brkrgrkg/">BRKRGRKG</a></nav>
 Its design is pattern [BRKRGRKG](/stripes/brkrgrkg/) — the page of every tartan sharing this colour sequence.
 
 The **degli Uberti, Baron of Cartsburn** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **degli Uberti, Baron of Cartsburn** tartan groups 2 setts — the same name
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db8r1k6r1dy8r1k45dy1/">degli Uberti, Baron of Cartsburn</a> ★</td><td><code>DB/16 R2 K12 R2 DY16 R2 K90 DY/2</code></td><td>266</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8r1k6r1dy8r1k45dy1/"><img src="/variants/s8/db8r1k6r1dy8r1k45dy1~x2/sett.png" alt="degli Uberti, Baron of Cartsburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db8r1k6r1ly8r1k45ly1/">(P)</a></td><td><code>DB/16 R2 K12 R2 LY16 R2 K90 LY/2</code></td><td>266</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8r1k6r1ly8r1k45ly1/"><img src="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/sett.png" alt="(P) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db8r1k6r1dy8r1k45dy1~x2/">degli Uberti, Baron of Cartsburn</a> ★</td><td><code>DB/16 R2 K12 R2 DY16 R2 K90 DY/2</code></td><td>266</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db8r1k6r1dy8r1k45dy1~x2/"><img src="/variants/s8/db8r1k6r1dy8r1k45dy1~x2/sett.png" alt="degli Uberti, Baron of Cartsburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/">(P)</a></td><td><code>DB/16 R2 K12 R2 LY16 R2 K90 LY/2</code></td><td>266</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/"><img src="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/sett.png" alt="(P) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r1k23y3db16y3k22r1w1~x2/"><circle cx="337.0" cy="106.8" r="4" fill="#3465a4"><title>Schöbitz</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="497.4" cy="61.1" r="4" fill="#3465a4"><title>Whitaker</title></circle></a><a href="/variants/s6/k80r6g3r12k2w2~x2/"><circle cx="485.3" cy="59.8" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="423.0" cy="119.2" r="4" fill="#3465a4"><title>Perry Dress</title></circle></a><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><circle cx="483.6" cy="28.5" r="4" fill="#3465a4"><title>Colleges Scotland</title></circle></a><a href="/variants/s9/k5ly1dg7dr1k45dr5ly3k4ly3~x2/"><circle cx="445.6" cy="56.1" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="458.7" cy="78.8" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/"><circle cx="418.0" cy="97.5" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="487.2" cy="103.8" r="4" fill="#3465a4"><title>Gibson, Robert</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="544.0" cy="69.7" r="4" fill="#3465a4"><title>Forand</title></circle></a><circle cx="484.3" cy="76.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r1k23y3db16y3k22r1w1~x2/"><circle cx="338.1" cy="106.9" r="4" fill="#3465a4"><title>Schöbitz</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="499.1" cy="61.5" r="4" fill="#3465a4"><title>Whitaker</title></circle></a><a href="/variants/s6/k80r6g3r12k2w2~x2/"><circle cx="487.0" cy="60.2" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="424.3" cy="119.5" r="4" fill="#3465a4"><title>Perry Dress</title></circle></a><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><circle cx="485.3" cy="28.8" r="4" fill="#3465a4"><title>Colleges Scotland</title></circle></a><a href="/variants/s9/k5ly1dg7dr1k45dr5ly3k4ly3~x2/"><circle cx="447.1" cy="56.4" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="460.1" cy="79.1" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/"><circle cx="419.4" cy="97.8" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="488.7" cy="104.2" r="4" fill="#3465a4"><title>Gibson, Robert</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="545.8" cy="70.3" r="4" fill="#3465a4"><title>Forand</title></circle></a><circle cx="485.8" cy="76.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

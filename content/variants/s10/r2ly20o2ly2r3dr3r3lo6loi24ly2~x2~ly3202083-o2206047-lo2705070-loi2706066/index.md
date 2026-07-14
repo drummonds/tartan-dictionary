@@ -8,10 +8,10 @@ crumbs:
 - name: "Golden Heather, The"
   url: "/tartans/g/go/golden-heather-the/"
 - name: "Golden Heather, The"
-  url: "/setts/r2ly20o2ly2r3dr3r3lo6loi24ly2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2ly20o2ly2r3dr3r3lo6loi24ly2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/go/golden-heather-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYRYRBRYYY](/stripes/ryryrbryyy/).
 
 Part of the [Golden Heather, The](/tartans/g/go/golden-heather-the/) tartan — the named design grouping this sett with its other cloths.

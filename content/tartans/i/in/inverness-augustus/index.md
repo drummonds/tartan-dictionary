@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Inverness"
   url: "/clan/inverness/"
+aliases:
+- "/setts/dr18g1k5g1k1g1dr9/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgkgkgb/">BGKGKGB</a></nav>
 A tartan of [Clan Inverness](/clan/inverness/).
 Its design is pattern [BGKGKGB](/stripes/bgkgkgb/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Inverness Augustus** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr18g1k5g1k1g1dr9/">Inverness Augustus</a></td><td><code>DR/36 G2 K10 G2 K2 G2 DR/18</code></td><td>90</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr18g1k5g1k1g1dr9/"><img src="/variants/s7/dr18g1k5g1k1g1dr9~x2/sett.png" alt="Inverness Augustus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/">Inverness Augustus</a></td><td><code>DR/36 G2 K10 G2 K2 G2 DR/18</code></td><td>90</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/"><img src="/variants/s7/dr18g1k5g1k1g1dr9~x2/sett.png" alt="Inverness Augustus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -35,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="371.5" cy="108.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/"><circle cx="436.0" cy="96.1" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="328.7" cy="118.3" r="4" fill="#3465a4"><title>Hunter of Bute</title></circle></a><a href="/variants/s5/r3k16dg2k2dg2~x2/"><circle cx="415.6" cy="180.0" r="4" fill="#3465a4"><title>Gadsden</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="496.5" cy="137.0" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="554.6" cy="147.5" r="4" fill="#3465a4"><title>University of Chicago</title></circle></a><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><circle cx="485.7" cy="107.8" r="4" fill="#3465a4"><title>Fitzgibbon</title></circle></a><a href="/variants/s7/r3dy26r3dy3lb2dy3r3~x2/"><circle cx="507.6" cy="168.7" r="4" fill="#3465a4"><title>Scott Hunting</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.6" cy="113.7" r="4" fill="#3465a4"><title>Anthony</title></circle></a><a href="/variants/s6/r8dg12lr5k11dg42k3~x2/"><circle cx="359.6" cy="161.7" r="4" fill="#3465a4"><title>Sir Billi</title></circle></a><circle cx="502.8" cy="152.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="372.6" cy="108.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/"><circle cx="437.4" cy="96.3" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="329.7" cy="118.4" r="4" fill="#3465a4"><title>Hunter of Bute</title></circle></a><a href="/variants/s5/r3k16dg2k2dg2~x2/"><circle cx="416.8" cy="180.4" r="4" fill="#3465a4"><title>Gadsden</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="498.1" cy="137.6" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="556.1" cy="148.0" r="4" fill="#3465a4"><title>University of Chicago</title></circle></a><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><circle cx="487.1" cy="108.2" r="4" fill="#3465a4"><title>Fitzgibbon</title></circle></a><a href="/variants/s7/r3dy26r3dy3lb2dy3r3~x2/"><circle cx="508.8" cy="169.1" r="4" fill="#3465a4"><title>Scott Hunting</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="429.7" cy="114.0" r="4" fill="#3465a4"><title>Anthony</title></circle></a><a href="/variants/s6/r8dg12lr5k11dg42k3~x2/"><circle cx="360.6" cy="162.0" r="4" fill="#3465a4"><title>Sir Billi</title></circle></a><circle cx="504.1" cy="152.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

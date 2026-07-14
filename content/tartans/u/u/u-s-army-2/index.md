@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db6k17y4dg51dy3g4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkgggg/">BKGGGG</a></nav>
 Its design is pattern [BKGGGG](/stripes/bkgggg/) — the page of every tartan sharing this colour sequence.
 
 The **U.S. Army** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **U.S. Army** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db6k17y4dg51dy3g4/">U.S. Army</a></td><td><code>DB/12 K34 Y8 DG102 DY6 G/8</code></td><td>320</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db6k17y4dg51dy3g4/"><img src="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/sett.png" alt="U.S. Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/">U.S. Army</a></td><td><code>DB/12 K34 Y8 DG102 DY6 G/8</code></td><td>320</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/"><img src="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/sett.png" alt="U.S. Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="357.1" cy="115.5" r="4" fill="#3465a4"><title>Military Medical Memorial</title></circle></a><a href="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/"><circle cx="202.7" cy="138.9" r="4" fill="#3465a4"><title>Lethcoe</title></circle></a><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><circle cx="257.7" cy="139.2" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s6/db3g19dg29k11r4y2~x2/"><circle cx="183.9" cy="165.9" r="4" fill="#3465a4"><title>Zimmermann, Martin</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="373.6" cy="100.5" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="236.0" cy="164.4" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="380.1" cy="135.7" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="203.2" cy="155.2" r="4" fill="#3465a4"><title>Royal British Legion</title></circle></a><a href="/variants/s6/g15y1dy2db5k4dg5~x6/"><circle cx="195.5" cy="169.7" r="4" fill="#3465a4"><title>Dobson</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.2" cy="196.5" r="4" fill="#3465a4"><title>Clare, Richard</title></circle></a><circle cx="303.9" cy="133.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="358.2" cy="115.7" r="4" fill="#3465a4"><title>Military Medical Memorial</title></circle></a><a href="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/"><circle cx="203.3" cy="138.8" r="4" fill="#3465a4"><title>Lethcoe</title></circle></a><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><circle cx="258.3" cy="139.1" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s6/db3g19dg29k11r4y2~x2/"><circle cx="184.2" cy="165.8" r="4" fill="#3465a4"><title>Zimmermann, Martin</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="374.6" cy="100.7" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="236.6" cy="164.4" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="381.0" cy="135.9" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="203.7" cy="155.0" r="4" fill="#3465a4"><title>Royal British Legion</title></circle></a><a href="/variants/s6/g15y1dy2db5k4dg5~x6/"><circle cx="195.9" cy="169.5" r="4" fill="#3465a4"><title>Dobson</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.8" cy="196.7" r="4" fill="#3465a4"><title>Clare, Richard</title></circle></a><circle cx="304.6" cy="133.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

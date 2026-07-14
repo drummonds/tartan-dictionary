@@ -10,10 +10,10 @@ crumbs:
 - name: "Australian Donkey"
   url: "/tartans/a/au/australian-donkey-2/"
 - name: "Australian Donkey"
-  url: "/setts/k4n13m3lr7w3ly25r2ly3o4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4n13m3lr7w3ly25r2ly3o4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/australian-donkey-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRYWYRYR](/stripes/kbrywyryr/).
 
 Part of the [Australian Donkey](/tartans/a/au/australian-donkey-2/) tartan — the named design grouping this sett with its other cloths.

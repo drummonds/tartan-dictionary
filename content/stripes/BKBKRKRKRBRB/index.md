@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/">Monarch of Argyll (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/"><img src="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/sett.png" alt="Monarch of Argyll (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/monarch-of-argyll-2/">Monarch of Argyll</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/monarch-of-argyll-2/"><img src="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/sett.png" alt="Monarch of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

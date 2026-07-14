@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/">Erskine Veterans</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/"><img src="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/sett.png" alt="Erskine Veterans sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/er/erskine-veterans/">Erskine Veterans</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-veterans/"><img src="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/sett.png" alt="Erskine Veterans sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

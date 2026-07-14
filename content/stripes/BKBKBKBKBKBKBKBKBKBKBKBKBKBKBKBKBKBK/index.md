@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/">MacKay, Marled</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/"><img src="/variants/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/sett.png" alt="MacKay, Marled sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackay-marled/">MacKay, Marled</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackay-marled/"><img src="/variants/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/sett.png" alt="MacKay, Marled sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2b1db8b8o8b1o1~x2/">Over Mountain</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2b1db8b8o8b1o1~x2/"><img src="/variants/s7/r2b1db8b8o8b1o1~x2/sett.png" alt="Over Mountain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ov/over-mountain-2/">Over Mountain</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ov/over-mountain-2/"><img src="/variants/s7/r2b1db8b8o8b1o1~x2/sett.png" alt="Over Mountain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

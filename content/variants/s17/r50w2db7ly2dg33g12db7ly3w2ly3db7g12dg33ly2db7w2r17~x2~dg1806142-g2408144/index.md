@@ -10,15 +10,15 @@ crumbs:
 - name: "Spens Fragment"
   url: "/tartans/s/sp/spens-fragment/"
 - name: "Spens Fragment"
-  url: "/setts/r50w2db7ly2dg33g12db7ly3w2ly3db7g12dg33ly2db7w2r17/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r50w2db7ly2dg33g12db7ly3w2ly3db7g12dg33ly2db7w2r17/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWBYGGBYWYBGGYBWRWBYGGBYWYBGGYBW](/stripes/rwbyggbywybggybwrwbyggbywybggybw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spens-fragment/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RWBYGGBYWYBGGYBWR](/stripes/rwbyggbywybggybwr/).
 
 Part of the [Spens Fragment](/tartans/s/sp/spens-fragment/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3859](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3859)
 
@@ -47,9 +47,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1681
 
 ## Thread count
-R/34 W4 DB14 LY4 DG66 G24 DB14 LY6 W4 LY6 DB14 G24 DG66 LY4 DB14 W4 R100 W4 DB14 LY4 DG66 G24 DB14 LY6 W4 LY6 DB14 G24 DG66 LY4 DB14 W/4
+R/100 W4 DB14 LY4 DG66 G24 DB14 LY6 W4 LY6 DB14 G24 DG66 LY4 DB14 W4 R/34
 
-One full sett is **1302 threads**.
+One full sett is **670 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/34 W4 DB14 LY4 DG66 G24 DB14 LY6 W4 LY6 DB14 G24 DG66 LY4 DB14 W4 R100 W4 DB14 LY4 DG66 G24 DB14 LY6 W4 LY6 DB14 G24 DG66 LY4 DB14 W/4 — 1302 threads; it folds to the canonical 670-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -58,7 +60,7 @@ One full sett is **1302 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/34 W4 DB14 LY4 DG66 G24 DB14 LY6 W4 LY6 DB14 G24 DG66 LY4 DB14 W4 R100 W4 DB14 LY4 DG66 G24 DB14 LY6 W4 LY6 DB14 G24 DG66 LY4 DB14 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/100 W4 DB14 LY4 DG66 G24 DB14 LY6 W4 LY6 DB14 G24 DG66 LY4 DB14 W4 R/34 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

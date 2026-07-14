@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/">Scottish Chamber Orchestra, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"><img src="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/sett.png" alt="Scottish Chamber Orchestra, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-chamber-orchestra/">Scottish Chamber Orchestra</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-chamber-orchestra/"><img src="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/sett.png" alt="Scottish Chamber Orchestra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

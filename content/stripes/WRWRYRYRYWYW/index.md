@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/w1r3w1r28ly1r3ly3r1ly28w1ly3w1~x2/">Bob the Builder (Corporate?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/w1r3w1r28ly1r3ly3r1ly28w1ly3w1~x2/"><img src="/variants/s12/w1r3w1r28ly1r3ly3r1ly28w1ly3w1~x2/sett.png" alt="Bob the Builder (Corporate?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bob-the-builder/">Bob the Builder</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bob-the-builder/"><img src="/variants/s12/w1r3w1r28ly1r3ly3r1ly28w1ly3w1~x2/sett.png" alt="Bob the Builder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

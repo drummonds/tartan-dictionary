@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k4dg33k18dy10g19dy3dg15k1ly3~x2/">Leinster Ancestry (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k4dg33k18dy10g19dy3dg15k1ly3~x2/"><img src="/variants/s9/k4dg33k18dy10g19dy3dg15k1ly3~x2/sett.png" alt="Leinster Ancestry (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leinster-ancestry/">Leinster Ancestry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leinster-ancestry/"><img src="/variants/s9/k4dg33k18dy10g19dy3dg15k1ly3~x2/sett.png" alt="Leinster Ancestry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

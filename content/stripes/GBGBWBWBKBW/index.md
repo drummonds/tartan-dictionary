@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/">Hynde (Sir John)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><img src="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/sett.png" alt="Hynde (Sir John) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/">Hynde (Sir John) (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/"><img src="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/sett.png" alt="Hynde (Sir John) (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hy/hynde/">Hynde</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hy/hynde/"><img src="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/sett.png" alt="Hynde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/">Donachie of Brockloch Ancient Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/"><img src="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/sett.png" alt="Donachie of Brockloch Ancient Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/donachie-of-brockloch-ancient-hunting/">Donachie of Brockloch Ancient Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/donachie-of-brockloch-ancient-hunting/"><img src="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/sett.png" alt="Donachie of Brockloch Ancient Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

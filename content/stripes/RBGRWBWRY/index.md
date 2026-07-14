@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/ly25r2w2db2w2r13dy28db2r3~x2/">Brousseau (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/ly25r2w2db2w2r13dy28db2r3~x2/"><img src="/variants/s9/ly25r2w2db2w2r13dy28db2r3~x2/sett.png" alt="Brousseau (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brousseau/">Brousseau</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brousseau/"><img src="/variants/s9/ly25r2w2db2w2r13dy28db2r3~x2/sett.png" alt="Brousseau sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

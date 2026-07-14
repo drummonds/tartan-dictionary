@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/">Haig Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/"><img src="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/sett.png" alt="Haig Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/haig-check/">Haig Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haig-check/"><img src="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/sett.png" alt="Haig Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

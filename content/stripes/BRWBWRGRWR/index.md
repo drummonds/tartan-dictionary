@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/">Glenaladale</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><img src="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/sett.png" alt="Glenaladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenaladale/">Glenaladale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenaladale/"><img src="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/sett.png" alt="Glenaladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/">Glenfinnan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><img src="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/sett.png" alt="Glenfinnan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenfinnan-2/">Glenfinnan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenfinnan-2/"><img src="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/sett.png" alt="Glenfinnan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

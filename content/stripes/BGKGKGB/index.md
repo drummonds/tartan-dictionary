@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db5dg8k1y2k1dg8db4~x4/">Salvation Army Htg (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db5dg8k1y2k1dg8db4~x4/"><img src="/variants/s7/db5dg8k1y2k1dg8db4~x4/sett.png" alt="Salvation Army Htg (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db40g8k1y2k1g8db5~x4/">Salvation Army Hunting Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db40g8k1y2k1g8db5~x4/"><img src="/variants/s7/db40g8k1y2k1g8db5~x4/sett.png" alt="Salvation Army Hunting Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inverness-augustus/">Inverness Augustus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inverness-augustus/"><img src="/variants/s7/dr18g1k5g1k1g1dr9~x2/sett.png" alt="Inverness Augustus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/">Inverness Augustus</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/"><img src="/variants/s7/dr18g1k5g1k1g1dr9~x2/sett.png" alt="Inverness Augustus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/salvation-army-hunting-2/">Salvation Army Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/salvation-army-hunting-2/"><img src="/variants/s7/db5dg8k1y2k1dg8db4~x4/sett.png" alt="Salvation Army Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

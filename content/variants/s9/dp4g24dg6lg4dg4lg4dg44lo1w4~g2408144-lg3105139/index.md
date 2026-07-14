@@ -10,10 +10,10 @@ crumbs:
 - name: "Macmillan Cancer Support"
   url: "/tartans/m/ma/macmillan-cancer-support/"
 - name: "Macmillan Cancer Support"
-  url: "/setts/dp4g24dg6lg4dg4lg4dg44lo1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4g24dg6lg4dg4lg4dg44lo1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macmillan-cancer-support/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGYGYGYW](/stripes/bggygygyw/).
 
 Part of the [Macmillan Cancer Support](/tartans/m/ma/macmillan-cancer-support/) tartan — the named design grouping this sett with its other cloths.

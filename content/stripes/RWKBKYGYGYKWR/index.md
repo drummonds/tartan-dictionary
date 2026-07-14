@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/">Cahaba Memorial (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/"><img src="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/sett.png" alt="Cahaba Memorial (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cahaba-memorial-2/">Cahaba Memorial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cahaba-memorial-2/"><img src="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/sett.png" alt="Cahaba Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

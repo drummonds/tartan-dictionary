@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g4do21ly10do5ly4dr4db10g6db30w4~x2/">State Seal of Arizona (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g4do21ly10do5ly4dr4db10g6db30w4~x2/"><img src="/variants/s10/g4do21ly10do5ly4dr4db10g6db30w4~x2/sett.png" alt="State Seal of Arizona (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-arizona/">State Seal of Arizona</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-arizona/"><img src="/variants/s10/g4do21ly10do5ly4dr4db10g6db30w4~x2/sett.png" alt="State Seal of Arizona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

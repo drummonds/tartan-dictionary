@@ -8,10 +8,10 @@ crumbs:
 - name: "Brigid Mhairi"
   url: "/tartans/b/br/brigid-mhairi/"
 - name: "Brigid Mhairi"
-  url: "/setts/db2g4lb11dp19db1dp19o4lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2g4lb11dp19db1dp19o4lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brigid-mhairi/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBBBRY](/stripes/bgwbbbry/).
 
 Part of the [Brigid Mhairi](/tartans/b/br/brigid-mhairi/) tartan — the named design grouping this sett with its other cloths.

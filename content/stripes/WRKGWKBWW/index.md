@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/">Moran (Virgin Islands) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><img src="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/sett.png" alt="Moran (Virgin Islands) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/moran-3/">Moran</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/moran-3/"><img src="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/sett.png" alt="Moran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

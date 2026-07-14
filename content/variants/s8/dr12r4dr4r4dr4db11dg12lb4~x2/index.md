@@ -12,10 +12,10 @@ crumbs:
 - name: "Akins"
   url: "/tartans/a/ak/akins/"
 - name: "Akins Clan Tartan"
-  url: "/setts/dr12r4dr4r4dr4db11dg12lb4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr12r4dr4r4dr4db11dg12lb4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ak/akins/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBGW](/stripes/brbrbbgw/).
 
 Part of the [Akins](/tartans/a/ak/akins/) tartan — the named design grouping this sett with its other cloths.

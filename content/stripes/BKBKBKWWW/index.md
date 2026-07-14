@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/">(1) Abercrombie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/"><img src="/variants/s9/db27k4db4k4db4k14lb14w2lb27/sett.png" alt="(1) Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ab/abercrombie-2/">Abercrombie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ab/abercrombie-2/"><img src="/variants/s9/db27k4db4k4db4k14lb14w2lb27/sett.png" alt="Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/">de Franck, Matt (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><img src="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/sett.png" alt="de Franck, Matt (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/de-franck-matt-2/">de Franck, Matt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/de-franck-matt-2/"><img src="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/sett.png" alt="de Franck, Matt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

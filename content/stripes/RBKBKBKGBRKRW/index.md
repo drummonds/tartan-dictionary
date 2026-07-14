@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/">Alberta Caledonia (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/"><img src="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/sett.png" alt="Alberta Caledonia (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alberta-caledonia/">Alberta Caledonia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alberta-caledonia/"><img src="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/sett.png" alt="Alberta Caledonia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

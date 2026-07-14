@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s43/k4ki1ly2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1ly2~x2~k0504259-ki0700000/">Arnold (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s43/k4ki1ly2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1ly2~x2~k0504259-ki0700000/"><img src="/variants/s43/k4ki1ly2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1ly2~x2~k0504259-ki0700000/sett.png" alt="Arnold (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arnold-2/">Arnold</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arnold-2/"><img src="/variants/s43/k4ki1ly2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1ly2~x2~k0504259-ki0700000/sett.png" alt="Arnold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

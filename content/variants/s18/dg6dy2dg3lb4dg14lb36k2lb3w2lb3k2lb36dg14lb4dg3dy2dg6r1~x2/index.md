@@ -12,10 +12,10 @@ crumbs:
 - name: "Sarasota"
   url: "/tartans/s/sa/sarasota/"
 - name: "Sarasota - Dunfermline District Tartan"
-  url: "/setts/dg6dy2dg3lb4dg14lb36k2lb3w2lb3k2lb36dg14lb4dg3dy2dg6r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg6dy2dg3lb4dg14lb36k2lb3w2lb3k2lb36dg14lb4dg3dy2dg6r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sarasota/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGWGWKWWWKWGWGGGR](/stripes/gggwgwkwwwkwgwgggr/).
 
 Part of the [Sarasota](/tartans/s/sa/sarasota/) tartan — the named design grouping this sett with its other cloths.

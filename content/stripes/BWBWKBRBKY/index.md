@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/">Gillies Dress Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/"><img src="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/sett.png" alt="Gillies Dress Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gi/gillies-dress-3/">Gillies Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/gillies-dress-3/"><img src="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/sett.png" alt="Gillies Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

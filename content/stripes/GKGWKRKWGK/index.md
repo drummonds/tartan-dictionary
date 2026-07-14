@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/">Highlands of Durham #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/"><img src="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/sett.png" alt="Highlands of Durham #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highlands-of-durham-2/">Highlands of Durham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highlands-of-durham-2/"><img src="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/sett.png" alt="Highlands of Durham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,15 +8,15 @@ crumbs:
 - name: "Harazeen"
   url: "/tartans/h/ha/harazeen/"
 - name: "Harazeen"
-  url: "/setts/r2g1w1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2g1w1k1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWGRKWGR](/stripes/kwgrkwgr/).
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harazeen/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWGR](/stripes/kwgr/).
 
 Part of the [Harazeen](/tartans/h/ha/harazeen/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10249](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10249)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10249](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>24/06/2010 — Harazeen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10249">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008B00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008B00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>This tartan is based on the colours of the United Arab Emirates (UAE) and Palestinian flags. It is named Harazeen to commemorate the designer's Palestinian/UAE friend tartan.</em></li>
-<li>pre 2010 — Harazeen (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10249">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00801C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #00801C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>This tartan is based on the colours of the United Arab Emirates (UAE) and Palestinian flags. It is named Harazeen to commemorate the designer's Palestinian/UAE friend tartan.</em></li>
+<li>pre 2010 — Harazeen (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10249/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00801C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #00801C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>This tartan is based on the colours of the United Arab Emirates (UAE) and Palestinian flags. It is named Harazeen to commemorate the designer's Palestinian/UAE friend tartan.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 10249
 
 ## Thread count
-R/40 G20 W20 K20 R40 G20 W20 K/20
+R/40 G20 W20 K/20
 
-One full sett is **340 threads**.
+One full sett is **140 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/40 G20 W20 K20 R40 G20 W20 K/20 — 340 threads; it folds to the canonical 140-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **340 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/40 G20 W20 K20 R40 G20 W20 K/20 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/40 G20 W20 K/20 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

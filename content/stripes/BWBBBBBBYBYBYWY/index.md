@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2~x2/">Winthrop University (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2~x2/"><img src="/variants/s15/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2~x2/sett.png" alt="Winthrop University (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/winthrop-university/">Winthrop University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/winthrop-university/"><img src="/variants/s15/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2~x2/sett.png" alt="Winthrop University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

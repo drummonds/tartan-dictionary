@@ -8,9 +8,13 @@ crumbs:
   url: "/clan/strange/"
 - name: "Strange of Balcaskie"
   url: "/families/strange-of-balcaskie/"
+aliases:
+- "/setts/dg32dy7dg7dy16db32y3dy8/"
+- "/setts/g32dy7g7dy16db32y3dy8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggbgggg/">GGBGGGG</a></nav>
 A tartan of the [Strange of Balcaskie](/families/strange-of-balcaskie/) family.
-Its design is pattern [GGGBGGGBGGGG](/stripes/gggbgggbgggg/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [GGBGGGG](/stripes/ggbgggg/) — the page of every tartan sharing this colour sequence.
 
 Designed by Kenny Dalgliesh in 1996 for the Strange of Balcaskie family; recorded in Lyon Court Book.
 
@@ -20,10 +24,10 @@ The **Strange of Balcaskie** tartan groups 2 setts — the same named design rec
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg32dy7dg7dy16db32y3dy8/">Strange of Balcaskie</a> ★</td><td><code>DG/64 DY14 DG14 DY32 DB64 Y6 DY16 Y6 DB64 DY32 DG14 DY/14</code></td><td>340</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg32dy7dg7dy16db32y3dy8/"><img src="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg1806142-db1406275/sett.png" alt="Strange of Balcaskie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g32dy7g7dy16db32y3dy8/">(Clan)</a></td><td><code>G/64 DY14 G14 DY32 DB64 Y6 DY/16</code></td><td>340</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g32dy7g7dy16db32y3dy8/"><img src="/variants/s7/g32dy7g7dy16db32y3dy8~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg1806142-db1406275/">Strange of Balcaskie</a> ★</td><td><code>DG/64 DY14 DG14 DY32 DB64 Y6 DY/16</code></td><td>340</td><td>1995</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg1806142-db1406275/"><img src="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg1806142-db1406275/sett.png" alt="Strange of Balcaskie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g32dy7g7dy16db32y3dy8~x2/">(Clan)</a></td><td><code>G/64 DY14 G14 DY32 DB64 Y6 DY/16</code></td><td>340</td><td>1995</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g32dy7g7dy16db32y3dy8~x2/"><img src="/variants/s7/g32dy7g7dy16db32y3dy8~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/g32dy7g7dy16db32y3dy8~x2/">(Clan)</a> · <a href="/variants/s7/g32dy7g7dy16db32y3dy8~x2~db1406275/">Family Tartan</a></td></tr>
 </tbody>
 </table>
@@ -37,6 +41,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db8y1dg5y12r1dg2~x6/"><circle cx="291.0" cy="228.1" r="4" fill="#3465a4"><title>McCabe</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7dg7dr2~x4/"><circle cx="337.5" cy="278.5" r="4" fill="#3465a4"><title>Caledonian Hotel</title></circle></a><a href="/variants/s6/dr6do26dt28g26dt8y3~x2/"><circle cx="287.2" cy="295.9" r="4" fill="#3465a4"><title>House of Bruar</title></circle></a><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/"><circle cx="275.9" cy="249.7" r="4" fill="#3465a4"><title>Tupper. Sir Charles..</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="295.4" cy="278.7" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.7" cy="256.6" r="4" fill="#3465a4"><title>Dewar, Christian</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="402.9" cy="314.4" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s7/dr18db12w2db12dg8dr3dg10~x2/"><circle cx="282.8" cy="296.8" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/"><circle cx="277.6" cy="288.2" r="4" fill="#3465a4"><title>House of Bruar</title></circle></a><a href="/variants/s5/g7dy6dt7dy1dt2~x6/"><circle cx="333.7" cy="347.5" r="4" fill="#3465a4"><title>Bright of Garth</title></circle></a><circle cx="316.2" cy="279.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db8y1dg5y12r1dg2~x6/"><circle cx="291.3" cy="228.2" r="4" fill="#3465a4"><title>McCabe</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7dg7dr2~x4/"><circle cx="337.5" cy="278.6" r="4" fill="#3465a4"><title>Caledonian Hotel</title></circle></a><a href="/variants/s6/dr6do26dt28g26dt8y3~x2/"><circle cx="287.1" cy="296.0" r="4" fill="#3465a4"><title>House of Bruar</title></circle></a><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/"><circle cx="276.0" cy="249.7" r="4" fill="#3465a4"><title>Tupper. Sir Charles..</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="295.4" cy="278.8" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.9" cy="256.6" r="4" fill="#3465a4"><title>Dewar, Christian</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.0" cy="314.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s7/dr18db12w2db12dg8dr3dg10~x2/"><circle cx="282.8" cy="296.8" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/"><circle cx="277.4" cy="288.3" r="4" fill="#3465a4"><title>House of Bruar</title></circle></a><a href="/variants/s5/g7dy6dt7dy1dt2~x6/"><circle cx="333.6" cy="347.7" r="4" fill="#3465a4"><title>Bright of Garth</title></circle></a><circle cx="316.2" cy="279.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

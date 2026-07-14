@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/">Austin College (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/"><img src="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/sett.png" alt="Austin College (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/austin-college/">Austin College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/austin-college/"><img src="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/sett.png" alt="Austin College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

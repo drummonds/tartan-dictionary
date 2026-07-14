@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dp55r3dp6lo1dp2db2dp2lb12r1dp8g2~x2/">Alzheimer Scotland Action on Dementia</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dp55r3dp6lo1dp2db2dp2lb12r1dp8g2~x2/"><img src="/variants/s11/dp55r3dp6lo1dp2db2dp2lb12r1dp8g2~x2/sett.png" alt="Alzheimer Scotland Action on Dementia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alzheimer-scotland-action-on-dementia/">Alzheimer Scotland Action on Dementia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alzheimer-scotland-action-on-dementia/"><img src="/variants/s11/dp55r3dp6lo1dp2db2dp2lb12r1dp8g2~x2/sett.png" alt="Alzheimer Scotland Action on Dementia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

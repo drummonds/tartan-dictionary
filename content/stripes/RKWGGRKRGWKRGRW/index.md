@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/r160k2w1g36y9r4k1r4y9lb36k9r9y9r4lb3~x2/">MacPherson, The Crubin Plaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/r160k2w1g36y9r4k1r4y9lb36k9r9y9r4lb3~x2/"><img src="/variants/s15/r160k2w1g36y9r4k1r4y9lb36k9r9y9r4lb3~x2/sett.png" alt="MacPherson, The Crubin Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-the-crubin/">MacPherson, The Crubin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-the-crubin/"><img src="/variants/s15/r160k2w1g36y9r4k1r4y9lb36k9r9y9r4lb3~x2/sett.png" alt="MacPherson, The Crubin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

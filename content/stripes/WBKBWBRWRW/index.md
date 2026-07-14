@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/">Harris, Royal Blue (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/"><img src="/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/sett.png" alt="Harris, Royal Blue (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harris-royal/">Harris Royal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harris-royal/"><img src="/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/sett.png" alt="Harris Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

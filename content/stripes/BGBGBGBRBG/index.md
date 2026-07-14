@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g6t8r2t2y2t16g18t4g4t3~x2~g2203152-t2503227/">Blue Ridge</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g6t8r2t2y2t16g18t4g4t3~x2~g2203152-t2503227/"><img src="/variants/s10/g6t8r2t2y2t16g18t4g4t3~x2~g2203152-t2503227/sett.png" alt="Blue Ridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blue-ridge/">Blue Ridge</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blue-ridge/"><img src="/variants/s10/g6t8r2t2y2t16g18t4g4t3~x2~g2203152-t2503227/sett.png" alt="Blue Ridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

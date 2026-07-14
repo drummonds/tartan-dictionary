@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/">Stewart (King George VI)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><img src="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/sett.png" alt="Stewart (King George VI) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stewart-11/">Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-11/"><img src="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

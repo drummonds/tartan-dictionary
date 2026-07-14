@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/">State Seal of Nebraska (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/"><img src="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/sett.png" alt="State Seal of Nebraska (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-nebraska/">State Seal of Nebraska</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-nebraska/"><img src="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/sett.png" alt="State Seal of Nebraska sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

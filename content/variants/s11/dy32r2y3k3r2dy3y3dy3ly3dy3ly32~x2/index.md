@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Talloch"
   url: "/tartans/g/gl/glen-talloch/"
 - name: "Glen Talloch"
-  url: "/setts/dy32r2y3k3r2dy3y3dy3ly3dy3ly32/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy32r2y3k3r2dy3y3dy3ly3dy3ly32/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-talloch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKRGGGYGY](/stripes/grgkrgggygy/).
 
 Part of the [Glen Talloch](/tartans/g/gl/glen-talloch/) tartan — the named design grouping this sett with its other cloths.

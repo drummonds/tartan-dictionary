@@ -8,10 +8,10 @@ crumbs:
 - name: "All Ireland"
   url: "/tartans/a/al/all-ireland-2/"
 - name: "All Ireland Green"
-  url: "/setts/dgi6g2dr2dgi30n2g4n2dg2n1dg20n1g2dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dgi6g2dr2dgi30n2g4n2dg2n1dg20n1g2dr4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/al/all-ireland-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBGBGG](/stripes/bgbgbgbgbgbgg/).
 
 Part of the [All Ireland](/tartans/a/al/all-ireland-2/) tartan — the named design grouping this sett with its other cloths.

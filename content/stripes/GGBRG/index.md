@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dy46dg23t23r4y4~x2/">McMoosie Htg (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dy46dg23t23r4y4~x2/"><img src="/variants/s5/dy46dg23t23r4y4~x2/sett.png" alt="McMoosie Htg (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcmoosie-hunting/">McMoosie Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcmoosie-hunting/"><img src="/variants/s5/dy46dg23t23r4y4~x2/sett.png" alt="McMoosie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

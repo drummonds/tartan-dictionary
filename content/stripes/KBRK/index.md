@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k21r8n13k8/">New Exeter Check (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k21r8n13k8/"><img src="/variants/s4/k21r8n13k8/sett.png" alt="New Exeter Check (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-exeter-check/">New Exeter Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-exeter-check/"><img src="/variants/s4/k21r8n13k8/sett.png" alt="New Exeter Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

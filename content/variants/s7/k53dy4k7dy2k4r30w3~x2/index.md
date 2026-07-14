@@ -8,10 +8,10 @@ crumbs:
 - name: "Partick Thistle Football Club"
   url: "/tartans/p/pa/partick-thistle-football-club/"
 - name: "Partick Thistle Football Club"
-  url: "/setts/k53dy4k7dy2k4r30w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k53dy4k7dy2k4r30w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/partick-thistle-football-club/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKRW](/stripes/kgkgkrw/).
 
 Part of the [Partick Thistle Football Club](/tartans/p/pa/partick-thistle-football-club/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3298](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Partick Thistle Football Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3298">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Lochcarron swatch. Woven in Jan 2002 'for Newline Products' of Kirkintilloch. Chall Building, Broomhill Industrial Estate.</em></li>
-<li>Jan 2002 — Partick Thistle F.C. (Sports) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6401">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Lochcarron swatch. Woven in Jan 2002 'for Newline Products' of Kirkintilloch. Chall Building, Broomhill Industrial Estate, Kirkintilloch, G66 1TQ. Tel: 0141-776-0072 | Fax:0141-776-1102</em></li>
+<li>Jan 2002 — Partick Thistle F.C. (Sports) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6401/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><br><em>Lochcarron swatch. Woven in Jan 2002 'for Newline Products' of Kirkintilloch. Chall Building, Broomhill Industrial Estate, Kirkintilloch, G66 1TQ. Tel: 0141-776-0072 | Fax:0141-776-1102</em></li>
 </ul>
 </details>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Morrison"
   url: "/tartans/m/mo/morrison/"
 - name: "Morrison Old Clan Tartan"
-  url: "/setts/r6g4r24k4r6k4r12g12w3g6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6g4r24k4r6k4r12g12w3g6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/morrison/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRKRKRGR](/stripes/gwgrkrkrgr/).
 
 Part of the [Morrison](/tartans/m/mo/morrison/) tartan — the named design grouping this sett with its other cloths.

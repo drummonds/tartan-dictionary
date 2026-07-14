@@ -8,10 +8,10 @@ crumbs:
 - name: "Norham and Ladykirk"
   url: "/tartans/n/no/norham-and-ladykirk-2/"
 - name: "Norham and Ladykirk"
-  url: "/setts/dg50db12n7db12dr10w7k2w7k2w7dr10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg50db12n7db12dr10w7k2w7k2w7dr10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/norham-and-ladykirk-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKWBBBBG](/stripes/bwkwkwbbbbg/).
 
 Part of the [Norham and Ladykirk](/tartans/n/no/norham-and-ladykirk-2/) tartan — the named design grouping this sett with its other cloths.

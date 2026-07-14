@@ -12,10 +12,10 @@ crumbs:
 - name: "Campbell, hunting"
   url: "/tartans/c/ca/campbell-hunting-2/"
 - name: "Campbell, hunting"
-  url: "/setts/db4k1w2k3y1n12o1k12o12r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4k1w2k3y1n12o1k12o12r4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-hunting-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKGBRKRR](/stripes/bkwkgbrkrr/).
 
 Part of the [Campbell, hunting](/tartans/c/ca/campbell-hunting-2/) tartan — the named design grouping this sett with its other cloths.

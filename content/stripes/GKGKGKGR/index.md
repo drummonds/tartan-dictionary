@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/">Manor (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><img src="/variants/s8/dg14k1dg2k1dg2k10g14r2/sett.png" alt="Manor (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manor/">Manor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manor/"><img src="/variants/s8/dg14k1dg2k1dg2k10g14r2/sett.png" alt="Manor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

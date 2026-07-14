@@ -8,10 +8,10 @@ crumbs:
 - name: "Princess Louise"
   url: "/tartans/p/pr/princess-louise/"
 - name: "Princess Louise"
-  url: "/setts/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/princess-louise/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGKGKGKBKBKBKG](/stripes/brgkgkgkbkbkbkg/).
 
 Part of the [Princess Louise](/tartans/p/pr/princess-louise/) tartan — the named design grouping this sett with its other cloths.

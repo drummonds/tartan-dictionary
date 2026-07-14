@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w12k3g50w3k13ly6~x2/">Limerick County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><img src="/variants/s6/w12k3g50w3k13ly6~x2/sett.png" alt="Limerick County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/li/limerick-county-crest/">Limerick County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/li/limerick-county-crest/"><img src="/variants/s6/w12k3g50w3k13ly6~x2/sett.png" alt="Limerick County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

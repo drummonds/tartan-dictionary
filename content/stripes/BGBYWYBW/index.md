@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w2n30ly10w1ly10n1g10n1~x4/">Evergreen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w2n30ly10w1ly10n1g10n1~x4/"><img src="/variants/s8/w2n30ly10w1ly10n1g10n1~x4/sett.png" alt="Evergreen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ev/evergreen/">Evergreen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ev/evergreen/"><img src="/variants/s8/w2n30ly10w1ly10n1g10n1~x4/sett.png" alt="Evergreen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

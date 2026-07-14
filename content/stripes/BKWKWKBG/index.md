@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/">Sneddon, Jonathan Taylor (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><img src="/variants/s8/db15k2w2k2w2k16n22y2~x4/sett.png" alt="Sneddon, Jonathan Taylor (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sn/sneddon-jonathan-taylor/">Sneddon, Jonathan Taylor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sn/sneddon-jonathan-taylor/"><img src="/variants/s8/db15k2w2k2w2k16n22y2~x4/sett.png" alt="Sneddon, Jonathan Taylor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

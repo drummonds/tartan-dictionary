@@ -12,10 +12,10 @@ crumbs:
 - name: "Logan"
   url: "/tartans/l/lo/logan/"
 - name: "Logan (Dark)"
-  url: "/setts/k15r4k1r4dg15r4k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k15r4k1r4dg15r4k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/logan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRKRK](/stripes/krgrkrk/).
 
 Part of the [Logan](/tartans/l/lo/logan/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/">Adamson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/"><img src="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/sett.png" alt="Adamson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ad/adamson/">Adamson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ad/adamson/"><img src="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/sett.png" alt="Adamson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

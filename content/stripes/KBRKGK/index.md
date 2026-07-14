@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3db12r2k12g12k3~x2/">Ferguson of Balquhidder #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3db12r2k12g12k3~x2/"><img src="/variants/s6/k3db12r2k12g12k3~x2/sett.png" alt="Ferguson of Balquhidder #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k3db14r2k14g14k3~x2/">Gallamore</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3db14r2k14g14k3~x2/"><img src="/variants/s6/k3db14r2k14g14k3~x2/sett.png" alt="Gallamore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-of-balquhidder-2/">Ferguson of Balquhidder</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-of-balquhidder-2/"><img src="/variants/s6/k3db12r2k12g12k3~x2/sett.png" alt="Ferguson of Balquhidder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gallamore/">Gallamore</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gallamore/"><img src="/variants/s6/k3db14r2k14g14k3~x2/sett.png" alt="Gallamore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/k4dg5k2o21b8k2~x2/">MacDuck</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4dg5k2o21b8k2~x2/"><img src="/variants/s6/k4dg5k2o21b8k2~x2/sett.png" alt="MacDuck sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macduck/">MacDuck</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macduck/"><img src="/variants/s6/k4dg5k2o21b8k2~x2/sett.png" alt="MacDuck sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

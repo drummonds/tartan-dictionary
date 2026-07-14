@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dy12dbi2dy2dbi30db3dbi2db13w4~x2~dbi1406275-db1204274/">Highlands School (N. Carolina) Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy12dbi2dy2dbi30db3dbi2db13w4~x2~dbi1406275-db1204274/"><img src="/variants/s8/dy12dbi2dy2dbi30db3dbi2db13w4~x2~dbi1406275-db1204274/sett.png" alt="Highlands School (N. Carolina) Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/y12dbi2y2dbi30db3dbi2db13w4~x2~dbi1604274-db0805267/">Highlands School, (North Carolina)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y12dbi2y2dbi30db3dbi2db13w4~x2~dbi1604274-db0805267/"><img src="/variants/s8/y12dbi2y2dbi30db3dbi2db13w4~x2~dbi1604274-db0805267/sett.png" alt="Highlands School, (North Carolina) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highlands-school-2/">Highlands School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highlands-school-2/"><img src="/variants/s8/y12dbi2y2dbi30db3dbi2db13w4~x2~dbi1604274-db0805267/sett.png" alt="Highlands School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

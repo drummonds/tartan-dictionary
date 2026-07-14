@@ -8,17 +8,17 @@ crumbs:
 - name: "Grand Lodge of Canada"
   url: "/tartans/g/gr/grand-lodge-of-canada/"
 - name: "Grand Lodge of Canada (Corporate)"
-  url: "/setts/lb5k1r15k2lb3k10r5db15r5k2dy4k2r1k2db15r15k4r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb5k1r15k2lb3k10r5db15r5k2dy4k2r1k2db15r15k4r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRKWKRBRKGKRKBRKRKRBKRKGKRBRKWKRKW](/stripes/krkwkrbrkgkrkbrkrkrbkrkgkrbrkwkrkw/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grand-lodge-of-canada/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKRBKRKGKRBRKWKRKW](/stripes/rkrbkrkgkrbrkwkrkw/).
 
 Part of the [Grand Lodge of Canada](/tartans/g/gr/grand-lodge-of-canada/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6353](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6353)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/6353/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6353/*)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -30,7 +30,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6353](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
@@ -43,9 +43,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6353
 
 ## Thread count
-LB/10 K2 R30 K4 LB6 K20 R10 DB30 R10 K4 DY8 K4 R2 K4 DB30 R30 K8 R4 K8 R30 DB30 K4 R2 K4 DY8 K4 R10 DB30 R10 K20 LB6 K4 R30 K/2
+LB/10 K2 R30 K4 LB6 K20 R10 DB30 R10 K4 DY8 K4 R2 K4 DB30 R30 K8 R/4
 
-One full sett is **824 threads**.
+One full sett is **418 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/10 K2 R30 K4 LB6 K20 R10 DB30 R10 K4 DY8 K4 R2 K4 DB30 R30 K8 R4 K8 R30 DB30 K4 R2 K4 DY8 K4 R10 DB30 R10 K20 LB6 K4 R30 K/2 — 824 threads; it folds to the canonical 418-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **824 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/10 K2 R30 K4 LB6 K20 R10 DB30 R10 K4 DY8 K4 R2 K4 DB30 R30 K8 R4 K8 R30 DB30 K4 R2 K4 DY8 K4 R10 DB30 R10 K20 LB6 K4 R30 K/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/10 K2 R30 K4 LB6 K20 R10 DB30 R10 K4 DY8 K4 R2 K4 DB30 R30 K8 R/4 tartan" width="880" height="480">
 
 ## Compared to the master
 

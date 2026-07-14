@@ -8,10 +8,10 @@ crumbs:
 - name: "Brazell"
   url: "/tartans/b/br/brazell/"
 - name: "Brazell (Personal)"
-  url: "/setts/db7y1db7lb11r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db7y1db7lb11r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brazell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWR](/stripes/bgbwr/).
 
 Part of the [Brazell](/tartans/b/br/brazell/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=344](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/2002 — Brazell (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=344">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #000064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0596FA;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #0596FA"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #DC0000"></span><br><em>The name Brazell is of Irish extraction. The family emigrated from Scotland and settled in Texas, USA.</em></li>
-<li>pre 2007 — Brazell (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7348">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>For the sole use of Robert Cathro and family. Threadcount from STWR and triplied for clarity.</em></li>
+<li>pre 2007 — Brazell (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7348/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C1C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #1C1C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>For the sole use of Robert Cathro and family. Threadcount from STWR and triplied for clarity.</em></li>
 </ul>
 </details>
 

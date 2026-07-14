@@ -12,10 +12,10 @@ crumbs:
 - name: "MacMichael"
   url: "/tartans/m/ma/macmichael/"
 - name: "MacMichael Family Tartan"
-  url: "/setts/r1db1r8w1k2db16k2w1g8db1g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1db1r8w1k2db16k2w1g8db1g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macmichael/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWKBKWRBR](/stripes/gbgwkbkwrbr/).
 
 Part of the [MacMichael](/tartans/m/ma/macmichael/) tartan — the named design grouping this sett with its other cloths.

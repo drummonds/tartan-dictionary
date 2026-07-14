@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db4w3t6db40t8db12g3~x2/">JetBlue (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><img src="/variants/s7/db4w3t6db40t8db12g3~x2/sett.png" alt="JetBlue (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/je/jetblue/">JetBlue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/je/jetblue/"><img src="/variants/s7/db4w3t6db40t8db12g3~x2/sett.png" alt="JetBlue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

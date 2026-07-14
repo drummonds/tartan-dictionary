@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/">Duns Pipe Band</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><img src="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/sett.png" alt="Duns Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duns-pipe-band/">Duns Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duns-pipe-band/"><img src="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/sett.png" alt="Duns Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

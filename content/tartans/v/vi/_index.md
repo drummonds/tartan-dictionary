@@ -5,7 +5,7 @@ date: 2023-03-18
 40 tartans beginning with Vi, each with the number of setts it groups. Back to [V](/tartans/v/) or the [A–Z](/tartans/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/v/vi/victoria/"><img src="/variants/s10/g24w2k4w2k8r2db51k2lb8w1~x2~r2806019/sett.png" alt="Victoria" width="140"><br><strong>Victoria (1)</strong></a><div class="clan-territory">Victoria</div></li>
+<li><a class="tartan" href="/tartans/v/vi/victoria/"><img src="/variants/s10/g24w2k4w2k8r2db51k2lb8w1~x2/sett.png" alt="Victoria" width="140"><br><strong>Victoria (1)</strong></a><div class="clan-territory">Victoria</div></li>
 <li><a class="tartan" href="/tartans/v/vi/victoria-2/"><img src="/variants/s13/r6k2r12g10k3w2k3y2k8w4db6w12r4/sett.png" alt="Victoria" width="140"><br><strong>Victoria (1)</strong></a><div class="clan-territory">Victoria</div></li>
 <li><a class="tartan" href="/tartans/v/vi/victoria-3/"><img src="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/sett.png" alt="Victoria" width="140"><br><strong>Victoria (1)</strong></a><div class="clan-territory">Victoria</div></li>
 <li><a class="tartan" href="/tartans/v/vi/victoria-4/"><img src="/variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/sett.png" alt="Victoria" width="140"><br><strong>Victoria (1)</strong></a><div class="clan-territory">Victoria</div></li>
@@ -31,7 +31,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/v/vi/vinther-niels-christian/"><img src="/variants/s8/n3r14w1k2g2k16db20n1~x2/sett.png" alt="Vinther, Niels Christian" width="140"><br><strong>Vinther, Niels Christian (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/vi/vipont/"><img src="/variants/s7/dy3k36g14b2k2g14r3~x2/sett.png" alt="Vipont" width="140"><br><strong>Vipont (2)</strong></a><div class="clan-territory">Vipont</div></li>
 <li><a class="tartan" href="/tartans/v/vi/vipont-2/"><img src="/variants/s7/r4g14k3o3g12db36w4~x2/sett.png" alt="Vipont" width="140"><br><strong>Vipont (3)</strong></a><div class="clan-territory">Vipont</div></li>
-<li><a class="tartan" href="/tartans/v/vi/virgin/"><img src="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/sett.png" alt="Virgin" width="140"><br><strong>Virgin (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/v/vi/virgin/"><img src="/variants/s8/r51n2r6k10r2k4n3k3~x2/sett.png" alt="Virgin" width="140"><br><strong>Virgin (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/vi/virgin-one/"><img src="/variants/s4/ly7w6ly11r2~x2/sett.png" alt="Virgin One" width="140"><br><strong>Virgin One (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/vi/virgin-one-2/"><img src="/variants/s6/ly11r2ly11w6ly7w6~x2/sett.png" alt="Virgin One" width="140"><br><strong>Virgin One (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/v/vi/virginia/"><img src="/variants/s46/dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1~g2408144-dg1806142/sett.png" alt="Virginia" width="140"><br><strong>Virginia (1)</strong></a><div class="clan-territory">Virginia</div></li>
@@ -44,5 +44,5 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/v/vi/virginia-tech/"><img src="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/sett.png" alt="Virginia Tech" width="140"><br><strong>Virginia Tech (2)</strong></a><div class="clan-territory">Clan Virginia</div></li>
 <li><a class="tartan" href="/tartans/v/vi/virtuoso/"><img src="/variants/s9/r4w4k4w4k4w4k2lb23w2~x2/sett.png" alt="Virtuoso" width="140"><br><strong>Virtuoso (1)</strong></a><div class="clan-territory">Virtuoso</div></li>
 <li><a class="tartan" href="/tartans/v/vi/virtuoso-2/"><img src="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/sett.png" alt="Virtuoso" width="140"><br><strong>Virtuoso (1)</strong></a><div class="clan-territory">Virtuoso</div></li>
-<li><a class="tartan" href="/tartans/v/vi/visit-scotland-corporate/"><img src="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2~db1406275/sett.png" alt="Visit Scotland Corporate)" width="140"><br><strong>Visit Scotland Corporate) (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/v/vi/visit-scotland-corporate/"><img src="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2/sett.png" alt="Visit Scotland Corporate)" width="140"><br><strong>Visit Scotland Corporate) (1)</strong></a></li>
 </ul>

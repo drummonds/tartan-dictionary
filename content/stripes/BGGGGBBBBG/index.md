@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/">New South Wales Waratah</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/"><img src="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/sett.png" alt="New South Wales Waratah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-south-wales-waratah/">New South Wales Waratah</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-south-wales-waratah/"><img src="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/sett.png" alt="New South Wales Waratah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

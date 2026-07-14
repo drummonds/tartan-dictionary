@@ -8,15 +8,15 @@ crumbs:
 - name: "Mother's Pride"
   url: "/tartans/m/mo/mother-s-pride/"
 - name: "Mother's Pride"
-  url: "/setts/dr10db10lo1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr10db10lo1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BBYB](/stripes/bbyb/).
+provenance below. It is one weaving of the [sett](/tartans/m/mo/mother-s-pride/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BBY](/stripes/bby/).
 
 Part of the [Mother's Pride](/tartans/m/mo/mother-s-pride/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1997 — Mother's Pride (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Different warp and weft. The weft has White instead of Yellow. An adaptation by the Scottish Tartans Society from a design on bread packaging.</em></li>
-<li>pre 1997 — Mother's Pride (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2312">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Different warp and weft. The weft has White instead of Yellow. An adaptation by the STS from a design on bread packaging.</em></li>
+<li>pre 1997 — Mother's Pride (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2312/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Different warp and weft. The weft has White instead of Yellow. An adaptation by the STS from a design on bread packaging.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2312
 
 ## Thread count
-DR/40 DB40 LO4 DB/40
+DR/40 DB40 LO/4
 
-One full sett is **168 threads**.
+One full sett is **124 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DR/40 DB40 LO4 DB/40 — 168 threads; it folds to the canonical 124-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **168 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/40 DB40 LO4 DB/40 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/40 DB40 LO/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r60db8w3db10y3lb4y3r19~x2/">Princess Elizabeth #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r60db8w3db10y3lb4y3r19~x2/"><img src="/variants/s8/r60db8w3db10y3lb4y3r19~x2/sett.png" alt="Princess Elizabeth #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/princess-elizabeth-2/">Princess Elizabeth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-elizabeth-2/"><img src="/variants/s8/r60db8w3db10y3lb4y3r19~x2/sett.png" alt="Princess Elizabeth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

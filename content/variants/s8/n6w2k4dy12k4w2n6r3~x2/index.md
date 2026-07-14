@@ -12,10 +12,10 @@ crumbs:
 - name: "Strathblane"
   url: "/tartans/s/st/strathblane-3/"
 - name: "Strathblane"
-  url: "/setts/n6w2k4dy12k4w2n6r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n6w2k4dy12k4w2n6r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/strathblane-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGKWBR](/stripes/bwkgkwbr/).
 
 Part of the [Strathblane](/tartans/s/st/strathblane-3/) tartan — the named design grouping this sett with its other cloths.

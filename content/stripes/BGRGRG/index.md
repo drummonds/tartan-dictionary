@@ -28,13 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db64g20r4g3r4g3/">Wilson</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db64g20r4g3r4g3/"><img src="/variants/s6/db64g20r4g3r4g3/sett.png" alt="Wilson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db48g14r3g2r3g2~x2/">Wilson #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db48g14r3g2r3g2~x2/"><img src="/variants/s6/db48g14r3g2r3g2~x2/sett.png" alt="Wilson #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/highland-spring-5/">Highland Spring</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-spring-5/"><img src="/variants/s6/g23r3g7r3g23dp7~x2/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/g23r3g7r3g23dp7~x2/">Highland Spring (1997)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g23r3g7r3g23dp7~x2/"><img src="/variants/s6/g23r3g7r3g23dp7~x2/sett.png" alt="Highland Spring (1997) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-2/">Wilson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-2/"><img src="/variants/s6/db64g20r4g3r4g3/sett.png" alt="Wilson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

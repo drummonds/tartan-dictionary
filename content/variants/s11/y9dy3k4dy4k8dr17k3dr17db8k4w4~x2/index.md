@@ -8,10 +8,10 @@ crumbs:
 - name: "Laois County, Crest Range"
   url: "/tartans/l/la/laois-county-crest-range/"
 - name: "Laois County, Crest Range"
-  url: "/setts/y9dy3k4dy4k8dr17k3dr17db8k4w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y9dy3k4dy4k8dr17k3dr17db8k4w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/laois-county-crest-range/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGKBKBBKW](/stripes/ggkgkbkbbkw/).
 
 Part of the [Laois County, Crest Range](/tartans/l/la/laois-county-crest-range/) tartan — the named design grouping this sett with its other cloths.

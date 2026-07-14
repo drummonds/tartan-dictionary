@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/">Montmorency</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/"><img src="/variants/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/sett.png" alt="Montmorency sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/montmorency-3/">Montmorency</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/montmorency-3/"><img src="/variants/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/sett.png" alt="Montmorency sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

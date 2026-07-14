@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/">Chindecella Gorse (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/"><img src="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/sett.png" alt="Chindecella Gorse (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/chindecella-gorse/">Chindecella Gorse</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chindecella-gorse/"><img src="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/sett.png" alt="Chindecella Gorse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/">Heil, Rudiger (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><img src="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/sett.png" alt="Heil, Rudiger (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heil-rudiger/">Heil, Rudiger</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heil-rudiger/"><img src="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/sett.png" alt="Heil, Rudiger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

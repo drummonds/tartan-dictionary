@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/">Marsa Scout Group</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/"><img src="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/sett.png" alt="Marsa Scout Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/marsa-scout-group/">Marsa Scout Group</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/marsa-scout-group/"><img src="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/sett.png" alt="Marsa Scout Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

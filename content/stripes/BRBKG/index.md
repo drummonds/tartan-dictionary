@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g25k8n10r1n3~x4/">Herbage Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g25k8n10r1n3~x4/"><img src="/variants/s5/g25k8n10r1n3~x4/sett.png" alt="Herbage Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/herbage/">Herbage</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/herbage/"><img src="/variants/s5/g25k8n10r1n3~x4/sett.png" alt="Herbage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/db32r3db4k1y3/">MacLaine of Lochbuie Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db32r3db4k1y3/"><img src="/variants/s5/db32r3db4k1y3/sett.png" alt="MacLaine of Lochbuie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclaine-of-lochbuie-hunting/">MacLaine of Lochbuie Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclaine-of-lochbuie-hunting/"><img src="/variants/s5/db32r3db4k1y3/sett.png" alt="MacLaine of Lochbuie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

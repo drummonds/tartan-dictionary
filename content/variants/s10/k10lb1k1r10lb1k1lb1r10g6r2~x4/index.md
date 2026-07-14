@@ -8,15 +8,15 @@ crumbs:
 - name: "Scoepaig fragment"
   url: "/tartans/s/sc/scoepaig-fragment/"
 - name: "Unidentified (Scolpaig)"
-  url: "/setts/k10lb1k1r10lb1k1lb1r10g6r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10lb1k1r10lb1k1lb1r10g6r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKRWKWRGRGRWKWRKW](/stripes/kwkrwkwrgrgrwkwrkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scoepaig-fragment/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKRWKWRGR](/stripes/kwkrwkwrgr/).
 
 Part of the [Scoepaig fragment](/tartans/s/sc/scoepaig-fragment/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4271](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4271)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1056
 
 ## Thread count
-K/40 LB4 K4 R40 LB4 K4 LB4 R40 G24 R8 G24 R40 LB4 K4 LB4 R40 K4 LB/4
+K/40 LB4 K4 R40 LB4 K4 LB4 R40 G24 R/8
 
-One full sett is **548 threads**.
+One full sett is **296 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/40 LB4 K4 R40 LB4 K4 LB4 R40 G24 R8 G24 R40 LB4 K4 LB4 R40 K4 LB/4 — 548 threads; it folds to the canonical 296-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **548 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 LB4 K4 R40 LB4 K4 LB4 R40 G24 R8 G24 R40 LB4 K4 LB4 R40 K4 LB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 LB4 K4 R40 LB4 K4 LB4 R40 G24 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/">Milne, Dress (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/"><img src="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/sett.png" alt="Milne, Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/milne-dress-2/">Milne, Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/milne-dress-2/"><img src="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/sett.png" alt="Milne, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

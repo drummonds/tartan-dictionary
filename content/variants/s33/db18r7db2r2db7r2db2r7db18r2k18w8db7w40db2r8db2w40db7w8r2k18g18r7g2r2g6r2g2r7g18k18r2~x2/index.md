@@ -12,10 +12,10 @@ crumbs:
 - name: "MacDonald Dress"
   url: "/tartans/m/ma/macdonald-dress-5/"
 - name: "MacDonald Dress Clan Tartan"
-  url: "/setts/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18g18r7g2r2g6r2g2r7g18k18r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18g18r7g2r2g6r2g2r7g18k18r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macdonald-dress-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRBRKWBWBRBWBWRKGRGRGRGRGKR](/stripes/brbrbrbrbrkwbwbrbwbwrkgrgrgrgrgkr/).
 
 Part of the [MacDonald Dress](/tartans/m/ma/macdonald-dress-5/) tartan — the named design grouping this sett with its other cloths.

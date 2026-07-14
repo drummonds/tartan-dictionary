@@ -8,10 +8,10 @@ crumbs:
 - name: "Pierce"
   url: "/tartans/p/pi/pierce/"
 - name: "Pierce"
-  url: "/setts/o6dr4o24dg14ly9o3ly3o3ly9dg24o9ly6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o6dr4o24dg14ly9o3ly3o3ly9dg24o9ly6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pi/pierce/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGYRYRYGRY](/stripes/rbrgyryrygry/).
 
 Part of the [Pierce](/tartans/p/pi/pierce/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3336](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Pierce (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3336">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#98481C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ST #98481C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>Designed for Dr. Albert Pierce by Phil Smith, February 2000. Applicable to all of the surname 'Pierce', 'Pearce', 'Pearse', and other spellings. Colours from Phil Smith graphic.</em></li>
-<li>Aug. 2000 — Pierce (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4150">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#98481C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ST #98481C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>Designed for Dr. Albert Pierce by Phil Smith, February 2000. Applicable to all of the surname "Pierce", "Pearce", "Pearse", and other spellings. Colours from Phil Smith graphic.</em></li>
+<li>Aug. 2000 — Pierce (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4150/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#98481C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ST #98481C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><br><em>Designed for Dr. Albert Pierce by Phil Smith, February 2000. Applicable to all of the surname "Pierce", "Pearce", "Pearse", and other spellings. Colours from Phil Smith graphic.</em></li>
 </ul>
 </details>
 

@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k5g8ly5g3ly5~x4/">Angle Dress (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k5g8ly5g3ly5~x4/"><img src="/variants/s5/k5g8ly5g3ly5~x4/sett.png" alt="Angle Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/angle-dress/">Angle Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/angle-dress/"><img src="/variants/s5/k5g8ly5g3ly5~x4/sett.png" alt="Angle Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k75g26lr2g4lo5~x2/">Perry Hunting (Green) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k75g26lr2g4lo5~x2/"><img src="/variants/s5/k75g26lr2g4lo5~x2/sett.png" alt="Perry Hunting (Green) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/perry-hunting/">Perry Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/perry-hunting/"><img src="/variants/s5/k75g26lr2g4lo5~x2/sett.png" alt="Perry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k200dy3lo3dy3lo3/">SmartWool</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k200dy3lo3dy3lo3/"><img src="/variants/s5/k200dy3lo3dy3lo3/sett.png" alt="SmartWool sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sm/smartwool/">SmartWool</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sm/smartwool/"><img src="/variants/s5/k200dy3lo3dy3lo3/sett.png" alt="SmartWool sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

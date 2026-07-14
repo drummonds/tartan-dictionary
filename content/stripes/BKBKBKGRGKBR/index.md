@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db12k2db2k2db2k12g12r3g12k12db12r3~x2/">Glenalmond College</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db12k2db2k2db2k12g12r3g12k12db12r3~x2/"><img src="/variants/s12/db12k2db2k2db2k12g12r3g12k12db12r3~x2/sett.png" alt="Glenalmond College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/">Murray of Atholl #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><img src="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/sett.png" alt="Murray of Atholl #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glenalmond-college/">Glenalmond College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glenalmond-college/"><img src="/variants/s12/db12k2db2k2db2k12g12r3g12k12db12r3~x2/sett.png" alt="Glenalmond College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-atholl/">Murray of Atholl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-of-atholl/"><img src="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/sett.png" alt="Murray of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Lindley"
-  url: "/tartans/u/un/unidentified-lindley-6/"
+  url: "/tartans/u/un/unidentified-lindley/"
 - name: "Unidentified Lindley #7"
-  url: "/setts/t3w1t1w1dg22w1t1w1t3k11dg22r1dg1r2dg1r1dg22k11t16w1t4w1t16w1t4w1t16k11dg22r1dg1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t3w1t1w1dg22w1t1w1t3k11dg22r1dg1r2dg1r1dg22k11t16w1t4w1t16w1t4w1t16k11dg22r1dg1r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGKBWBWBWBWBKGRGRGRGKBWBWGWBWBWBWGWBWBKGRGRGRGKBWBWBWBWBKGRGR](/stripes/grgkbwbwbwbwbkgrgrgrgkbwbwgwbwbwbwgwbwbkgrgrgrgkbwbwbwbwbkgrgr/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-lindley/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWGWBWBKGRGRGRGKBWBWBWBWBKGRGR](/stripes/bwbwgwbwbkgrgrgrgkbwbwbwbwbkgrgr/).
 
-Part of the [Unidentified Lindley](/tartans/u/un/unidentified-lindley-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Lindley](/tartans/u/un/unidentified-lindley/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [62 stripe tartan](/stripes/stripes62/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4309](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4309)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6351
 
 ## Thread count
-R/4 DG2 R2 DG44 K22 T32 W2 T8 W2 T32 W2 T8 W2 T32 K22 DG44 R2 DG2 R4 DG2 R2 DG44 K22 T6 W2 T2 W2 DG44 W2 T2 W2 T6 W2 T2 W2 DG44 W2 T2 W2 T6 K22 DG44 R2 DG2 R4 DG2 R2 DG44 K22 T32 W2 T8 W2 T32 W2 T8 W2 T32 K22 DG44 R2 DG/2
+T/6 W2 T2 W2 DG44 W2 T2 W2 T6 K22 DG44 R2 DG2 R4 DG2 R2 DG44 K22 T32 W2 T8 W2 T32 W2 T8 W2 T32 K22 DG44 R2 DG2 R/4
 
-One full sett is **1598 threads**.
+One full sett is **802 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/4 DG2 R2 DG44 K22 T32 W2 T8 W2 T32 W2 T8 W2 T32 K22 DG44 R2 DG2 R4 DG2 R2 DG44 K22 T6 W2 T2 W2 DG44 W2 T2 W2 T6 W2 T2 W2 DG44 W2 T2 W2 T6 K22 DG44 R2 DG2 R4 DG2 R2 DG44 K22 T32 W2 T8 W2 T32 W2 T8 W2 T32 K22 DG44 R2 DG/2 — 1598 threads; it folds to the canonical 802-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **1598 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 DG2 R2 DG44 K22 T32 W2 T8 W2 T32 W2 T8 W2 T32 K22 DG44 R2 DG2 R4 DG2 R2 DG44 K22 T6 W2 T2 W2 DG44 W2 T2 W2 T6 W2 T2 W2 DG44 W2 T2 W2 T6 K22 DG44 R2 DG2 R4 DG2 R2 DG44 K22 T32 W2 T8 W2 T32 W2 T8 W2 T32 K22 DG44 R2 DG/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/6 W2 T2 W2 DG44 W2 T2 W2 T6 K22 DG44 R2 DG2 R4 DG2 R2 DG44 K22 T32 W2 T8 W2 T32 W2 T8 W2 T32 K22 DG44 R2 DG2 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

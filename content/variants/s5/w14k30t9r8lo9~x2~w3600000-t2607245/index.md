@@ -8,10 +8,10 @@ crumbs:
 - name: "Heidrick"
   url: "/tartans/h/he/heidrick/"
 - name: "Heidrick Family (Personal)"
-  url: "/setts/w14k30t9r8lo9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w14k30t9r8lo9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/heidrick/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBRY](/stripes/wkbry/).
 
 Part of the [Heidrick](/tartans/h/he/heidrick/) tartan — the named design grouping this sett with its other cloths.

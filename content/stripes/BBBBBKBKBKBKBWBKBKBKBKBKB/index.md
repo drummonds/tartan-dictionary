@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/">Arran, Isle of (Strathmore)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/"><img src="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/sett.png" alt="Arran, Isle of (Strathmore) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arran-isle-of/">Arran, Isle of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arran-isle-of/"><img src="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/sett.png" alt="Arran, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

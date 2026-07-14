@@ -11,11 +11,11 @@ crumbs:
   url: "/families/maclaine-of-lochbuie/"
 - name: "MacLaine of Lochbuie"
   url: "/tartans/m/ma/maclaine-of-lochbuie-2/"
-- name: "MacLaine of Lochbuie"
-  url: "/setts/r32g8lb4y1/"
+- name: "MacLaine of Lochbuie Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r32g8lb4y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclaine-of-lochbuie-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGR](/stripes/gwgr/).
 
 Part of the [MacLaine of Lochbuie](/tartans/m/ma/maclaine-of-lochbuie-2/) tartan — the named design grouping this sett with its other cloths.

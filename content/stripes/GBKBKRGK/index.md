@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/">Brabender</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/"><img src="/variants/s8/k1g4r1k4db1k1db7g1~x6/sett.png" alt="Brabender sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brabender/">Brabender</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brabender/"><img src="/variants/s8/k1g4r1k4db1k1db7g1~x6/sett.png" alt="Brabender sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

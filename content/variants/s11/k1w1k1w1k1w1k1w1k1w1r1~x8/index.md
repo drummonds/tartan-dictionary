@@ -10,17 +10,17 @@ crumbs:
 - name: "Kerr Shepherd's"
   url: "/tartans/k/ke/kerr-shepherd-s/"
 - name: "Kerr Shepherd's Plaid (Clan)"
-  url: "/setts/k1w1k1w1k1w1k1w1k1w1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1w1k1w1k1w1k1w1k1w1r1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RWKWKWKWKWKWKWKWKWKW](/stripes/rwkwkwkwkwkwkwkwkwkw/).
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kerr-shepherd-s/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWR](/stripes/kwkwkwkwkwr/).
 
 Part of the [Kerr Shepherd's](/tartans/k/ke/kerr-shepherd-s/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3936](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3936)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/3936/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3936/*)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -32,7 +32,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3936](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3936
 
 ## Thread count
-R/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W/8
+K/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 R/8
 
-One full sett is **304 threads**.
+One full sett is **160 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W/8 — 304 threads; it folds to the canonical 160-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **304 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K8 W/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 R/8 tartan" width="880" height="480">
 
 ## Compared to the master
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/">Muylle, Jelle (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><img src="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/sett.png" alt="Muylle, Jelle (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/muylle-jelle/">Muylle, Jelle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/muylle-jelle/"><img src="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/sett.png" alt="Muylle, Jelle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

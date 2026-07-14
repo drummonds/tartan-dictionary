@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/fraser/"
 - name: "Fraser Gathering Dress"
   url: "/tartans/f/fr/fraser-gathering-dress/"
-- name: "Fraser Gathering Dress (1997)"
-  url: "/setts/r2db12dg2g11dg4db5g2w24g2/"
+- name: "Fraser Gathering Dress Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2db12dg2g11dg4db5g2w24g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraser-gathering-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBGGGBR](/stripes/gwgbgggbr/).
 
 Part of the [Fraser Gathering Dress](/tartans/f/fr/fraser-gathering-dress/) tartan — the named design grouping this sett with its other cloths.

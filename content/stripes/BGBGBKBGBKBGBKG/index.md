@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/">Williams (Welsh Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/"><img src="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/sett.png" alt="Williams (Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/williams-3/">Williams</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/williams-3/"><img src="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/sett.png" alt="Williams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

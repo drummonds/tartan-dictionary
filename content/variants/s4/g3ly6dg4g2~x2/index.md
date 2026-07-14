@@ -8,10 +8,10 @@ crumbs:
 - name: "Pilgrims"
   url: "/tartans/p/pi/pilgrims/"
 - name: "Pilgrims (Bedford)"
-  url: "/setts/g3ly6dg4g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3ly6dg4g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pi/pilgrims/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGYG](/stripes/ggyg/).
 
 Part of the [Pilgrims](/tartans/p/pi/pilgrims/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3339](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1999 — Pilgrims (Bedford) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3339">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCCC00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003800"></span><br><em>Designed by Pilgrims School for their school uniform. Pilgrims is a new school in Bedford, England.</em></li>
-<li>1999 — Pilgrims School, Bedford (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5503">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCCC00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003800"></span><br><em>Designed by Pilgrims School for their school uniform. Pilgrims is a new school in Bedford, England.</em></li>
+<li>1999 — Pilgrims School, Bedford (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5503/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCCC00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003800"></span><br><em>Designed by Pilgrims School for their school uniform. Pilgrims is a new school in Bedford, England.</em></li>
 </ul>
 </details>
 

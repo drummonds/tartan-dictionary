@@ -12,10 +12,10 @@ crumbs:
 - name: "Boucherville"
   url: "/tartans/b/bo/boucherville/"
 - name: "Boucherville (Tartan de..) District Tartan"
-  url: "/setts/g20y2n5w4g2n2g2n2db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g20y2n5w4g2n2g2n2db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/boucherville/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGWBGG](/stripes/bbgbgwbgg/).
 
 Part of the [Boucherville](/tartans/b/bo/boucherville/) tartan — the named design grouping this sett with its other cloths.

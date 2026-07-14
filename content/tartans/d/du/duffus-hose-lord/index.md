@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ly11r6k10ly10k10dy10r4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rgkykry/">RGKYKRY</a></nav>
 Its design is pattern [RGKYKRY](/stripes/rgkykry/) — the page of every tartan sharing this colour sequence.
 
 The **Duffus Hose, Lord** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Duffus Hose, Lord** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly11r6k10ly10k10dy10r4/">Duffus Hose, Lord</a></td><td><code>LY/22 R12 K20 LY20 K20 DY20 R/8</code></td><td>214</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly11r6k10ly10k10dy10r4/"><img src="/variants/s7/ly11r6k10ly10k10dy10r4~x2/sett.png" alt="Duffus Hose, Lord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/ly11r6k10ly10k10dy10r4~x2/">Duffus Hose, Lord</a></td><td><code>LY/22 R12 K20 LY20 K20 DY20 R/8</code></td><td>214</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/ly11r6k10ly10k10dy10r4~x2/"><img src="/variants/s7/ly11r6k10ly10k10dy10r4~x2/sett.png" alt="Duffus Hose, Lord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/y15r7k12y12k12dy12r7~x2/"><circle cx="48.2" cy="311.4" r="4" fill="#3465a4"><title>Duffus Lord...</title></circle></a><a href="/variants/s7/y15r7k12y12k12o12r7~x2/"><circle cx="45.7" cy="310.4" r="4" fill="#3465a4"><title>Duffus, Lord</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="113.4" cy="276.7" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="102.2" cy="217.4" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s7/k13dy28y13dy28k18w18k13~x2/"><circle cx="77.1" cy="285.8" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/"><circle cx="58.2" cy="230.8" r="4" fill="#3465a4"><title>Akins Dress</title></circle></a><a href="/variants/s4/r2g1w1k1~x20/"><circle cx="65.5" cy="308.3" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="141.8" cy="258.7" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s6/r2k1db2k1g2k1~x28/"><circle cx="40.0" cy="302.8" r="4" fill="#3465a4"><title>Burnicle</title></circle></a><a href="/variants/s8/g6dp3k3dp3k3dp3g6r2~x2~dp1607327-r2109032/"><circle cx="106.0" cy="275.7" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><circle cx="34.7" cy="289.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/y15r7k12y12k12dy12r7~x2/"><circle cx="48.1" cy="311.1" r="4" fill="#3465a4"><title>Duffus Lord...</title></circle></a><a href="/variants/s7/y15r7k12y12k12o12r7~x2/"><circle cx="45.6" cy="310.1" r="4" fill="#3465a4"><title>Duffus, Lord</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="113.5" cy="276.5" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="102.3" cy="217.1" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s7/k13dy28y13dy28k18w18k13~x2/"><circle cx="77.2" cy="285.6" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/"><circle cx="58.3" cy="230.5" r="4" fill="#3465a4"><title>Akins Dress</title></circle></a><a href="/variants/s4/r2g1w1k1~x20/"><circle cx="65.5" cy="308.1" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="142.0" cy="258.6" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s6/r2k1db2k1g2k1~x28/"><circle cx="40.0" cy="302.5" r="4" fill="#3465a4"><title>Burnicle</title></circle></a><a href="/variants/s8/g6dp3k3dp3k3dp3g6r2~x2~dp1607327-r2109032/"><circle cx="106.1" cy="275.5" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><circle cx="34.7" cy="289.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -12,15 +12,15 @@ crumbs:
 - name: "Walker Hunting"
   url: "/tartans/w/wa/walker-hunting/"
 - name: "Walker Hunting"
-  url: "/setts/r4db2g7db15g3db3g3db7g28k7g6k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4db2g7db15g3db3g3db7g28k7g6k2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGKGKGKGBGBGBGBR](/stripes/bgbgbgbgkgkgkgbgbgbgbr/).
+provenance below. It is one weaving of the [sett](/tartans/w/wa/walker-hunting/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KGKGBGBGBGBR](/stripes/kgkgbgbgbgbr/).
 
 Part of the [Walker Hunting](/tartans/w/wa/walker-hunting/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4477](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4477)
 
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4477](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1992 — Walker Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4477">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#205034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #205034"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Swatch received from R.W.Hawks via Phil Smith, January 1992. Hawks advises Oct. 1993 he is agreeable for any Walkers to use these tartans. Sample in Scottish Tartans Authority Johnston Collection. October 2005: Threadcount altered slightly to agree with printed details supplied by Robert W Hawks at Stone Mountian Games, Georgia, 2005. Woven Sample.</em></li>
-<li>1992 — Walker Hunting (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2069">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#205034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #205034"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Swatch received from R.W.Hawks via Phil Smith, January 1992. Hawks advises Oct. 1993 he is agreeable for any Walkers to use these tartans. Sample in STA Johnston Collection. Oct 2005: Threadcount altered slightly to agree with printed details supplied by Robert W Hawks at Stone Mountian Games, Georgia, 2005. Woven Sample</em></li>
+<li>1992 — Walker Hunting (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2069/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#205034;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #205034"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Swatch received from R.W.Hawks via Phil Smith, January 1992. Hawks advises Oct. 1993 he is agreeable for any Walkers to use these tartans. Sample in STA Johnston Collection. Oct 2005: Threadcount altered slightly to agree with printed details supplied by Robert W Hawks at Stone Mountian Games, Georgia, 2005. Woven Sample</em></li>
 </ul>
 </details>
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2069
 
 ## Thread count
-R/8 DB4 G14 DB30 G6 DB6 G6 DB14 G56 K14 G12 K4 G12 K14 G56 DB14 G6 DB6 G6 DB30 G14 DB/4
+R/8 DB4 G14 DB30 G6 DB6 G6 DB14 G56 K14 G12 K/4
 
-One full sett is **660 threads**.
+One full sett is **336 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/8 DB4 G14 DB30 G6 DB6 G6 DB14 G56 K14 G12 K4 G12 K14 G56 DB14 G6 DB6 G6 DB30 G14 DB/4 — 660 threads; it folds to the canonical 336-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **660 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 DB4 G14 DB30 G6 DB6 G6 DB14 G56 K14 G12 K4 G12 K14 G56 DB14 G6 DB6 G6 DB30 G14 DB/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 DB4 G14 DB30 G6 DB6 G6 DB14 G56 K14 G12 K/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

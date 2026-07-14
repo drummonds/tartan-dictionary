@@ -8,10 +8,10 @@ crumbs:
 - name: "Wicklow"
   url: "/tartans/w/wi/wicklow/"
 - name: "Wicklow"
-  url: "/setts/do2db4g12db3do6lb2db24do2db2g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do2db4g12db3do6lb2db24do2db2g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wicklow/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBWBBBG](/stripes/bbgbbwbbbg/).
 
 Part of the [Wicklow](/tartans/w/wi/wicklow/) tartan — the named design grouping this sett with its other cloths.

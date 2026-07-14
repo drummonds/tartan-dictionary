@@ -8,10 +8,10 @@ crumbs:
 - name: "Spirit of Morningside"
   url: "/tartans/s/sp/spirit-of-morningside/"
 - name: "Spirit of Morningside"
-  url: "/setts/dp4db5dp3db50k15g3k5g32w2g3w2g32k5g5k15db50dp3k5dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4db5dp3db50k15g3k5g32w2g3w2g32k5g5k15db50dp3k5dp3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spirit-of-morningside/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKGKGWGWGKGKBBKB](/stripes/bbbbkgkgwgwgkgkbbkb/).
 
 Part of the [Spirit of Morningside](/tartans/s/sp/spirit-of-morningside/) tartan — the named design grouping this sett with its other cloths.

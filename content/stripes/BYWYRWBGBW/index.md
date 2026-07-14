@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb49db25g16db4w3r8ly4lb18ly1db9~x2/">State Seal of Hawaii (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb49db25g16db4w3r8ly4lb18ly1db9~x2/"><img src="/variants/s10/lb49db25g16db4w3r8ly4lb18ly1db9~x2/sett.png" alt="State Seal of Hawaii (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-hawaii/">State Seal of Hawaii</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-hawaii/"><img src="/variants/s10/lb49db25g16db4w3r8ly4lb18ly1db9~x2/sett.png" alt="State Seal of Hawaii sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/">Duke of Sussex (Earl of Inverness)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/"><img src="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/sett.png" alt="Duke of Sussex (Earl of Inverness) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duke-of-sussex-2/">Duke of Sussex</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duke-of-sussex-2/"><img src="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/sett.png" alt="Duke of Sussex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

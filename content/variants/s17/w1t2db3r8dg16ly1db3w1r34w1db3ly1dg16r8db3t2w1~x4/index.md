@@ -12,10 +12,10 @@ crumbs:
 - name: "Drummond of Drumtochty"
   url: "/tartans/d/dr/drummond-of-drumtochty/"
 - name: "Drummond of Drumtochty"
-  url: "/setts/w1t2db3r8dg16ly1db3w1r34w1db3ly1dg16r8db3t2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w1t2db3r8dg16ly1db3w1r34w1db3ly1dg16r8db3t2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/dr/drummond-of-drumtochty/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBRGYBWRWBYGRBBW](/stripes/wbbrgybwrwbygrbbw/).
 
 Part of the [Drummond of Drumtochty](/tartans/d/dr/drummond-of-drumtochty/) tartan — the named design grouping this sett with its other cloths.

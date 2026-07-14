@@ -10,17 +10,17 @@ crumbs:
 - name: "Sutherland"
   url: "/families/sutherland/"
 - name: "Sutherland Dress"
-  url: "/tartans/s/su/sutherland-dress-2/"
+  url: "/tartans/s/su/sutherland-dress/"
 - name: "Sutherland Dress (Dance)"
-  url: "/setts/w6g2w28k13t6k4t4k4t16r2t2r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w6g2w28k13t6k4t4k4t16r2t2r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GWKBKBKBRBRBRBKBKBKWGW](/stripes/gwkbkbkbrbrbrbkbkbkwgw/).
+provenance below. It is one weaving of the [sett](/tartans/s/su/sutherland-dress/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RBRBKBKBKWGW](/stripes/rbrbkbkbkwgw/).
 
-Part of the [Sutherland Dress](/tartans/s/su/sutherland-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sutherland Dress](/tartans/s/su/sutherland-dress/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4046](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4046)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1426
 
 ## Thread count
-W/12 G4 W56 K26 T12 K8 T8 K8 T32 R4 T4 R8 T4 R4 T32 K8 T8 K8 T12 K26 W56 G/4
+W/12 G4 W56 K26 T12 K8 T8 K8 T32 R4 T4 R/8
 
-One full sett is **672 threads**.
+One full sett is **344 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/12 G4 W56 K26 T12 K8 T8 K8 T32 R4 T4 R8 T4 R4 T32 K8 T8 K8 T12 K26 W56 G/4 — 672 threads; it folds to the canonical 344-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **672 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/12 G4 W56 K26 T12 K8 T8 K8 T32 R4 T4 R8 T4 R4 T32 K8 T8 K8 T12 K26 W56 G/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/12 G4 W56 K26 T12 K8 T8 K8 T32 R4 T4 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

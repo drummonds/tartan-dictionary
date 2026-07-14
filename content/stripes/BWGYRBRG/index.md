@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/">Loyalhanna</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><img src="/variants/s8/db15w2g2ly15r3db21r3g15~x2/sett.png" alt="Loyalhanna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loyalhanna-2/">Loyalhanna</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loyalhanna-2/"><img src="/variants/s8/db15w2g2ly15r3db21r3g15~x2/sett.png" alt="Loyalhanna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg24k5dg6r6dg6k20t20w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgrgkbw/">GKGRGKBW</a></nav>
 Its design is pattern [GKGRGKBW](/stripes/gkgrgkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Dunfermline Bank of Scotland** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Dunfermline Bank of Scotland** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg24k5dg6r6dg6k20t20w2/">Dunfermline Bank of Scotland</a></td><td><code>DG/48 K10 DG12 R12 DG12 K40 T40 W/4</code></td><td>304</td><td>~2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg24k5dg6r6dg6k20t20w2/"><img src="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/sett.png" alt="Dunfermline Bank of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/">Dunfermline Bank of Scotland</a></td><td><code>DG/48 K10 DG12 R12 DG12 K40 T40 W/4</code></td><td>304</td><td>~2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><img src="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/sett.png" alt="Dunfermline Bank of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="169.7" cy="157.5" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><circle cx="180.1" cy="159.1" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/variants/s7/db18k10g6r4g6k1w2~x2/"><circle cx="153.1" cy="154.8" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="116.7" cy="193.9" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1y1~x4/"><circle cx="199.0" cy="164.0" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/r2k9g12db8r1db1w1~x4/"><circle cx="133.3" cy="162.7" r="4" fill="#3465a4"><title>Genet, Citizen</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="136.8" cy="162.3" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/variants/s7/db27g5y8k20y3g15r3~x2/"><circle cx="116.4" cy="193.0" r="4" fill="#3465a4"><title>Nelson Mandela</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="147.9" cy="171.2" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/g3db12b1k12g13r2g2~x2/"><circle cx="161.1" cy="170.3" r="4" fill="#3465a4"><title>MacPhadran</title></circle></a><circle cx="156.9" cy="175.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="170.2" cy="157.4" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><circle cx="180.6" cy="159.0" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/variants/s7/db18k10g6r4g6k1w2~x2/"><circle cx="153.5" cy="154.5" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="117.0" cy="193.7" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1y1~x4/"><circle cx="199.5" cy="163.8" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/r2k9g12db8r1db1w1~x4/"><circle cx="133.6" cy="162.5" r="4" fill="#3465a4"><title>Genet, Citizen</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="137.1" cy="162.0" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/variants/s7/db27g5y8k20y3g15r3~x2/"><circle cx="116.6" cy="192.7" r="4" fill="#3465a4"><title>Nelson Mandela</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="148.3" cy="171.0" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/g3db12b1k12g13r2g2~x2/"><circle cx="161.5" cy="170.1" r="4" fill="#3465a4"><title>MacPhadran</title></circle></a><circle cx="157.3" cy="175.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

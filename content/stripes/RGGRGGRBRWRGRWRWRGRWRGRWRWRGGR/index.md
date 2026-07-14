@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s30/r12g3y1r2y1g3r3db3r6lb1r1g8r1lb1r12lb1r1g8r1lb1r6g2r1lb1r2lb1r1g3y1r4~x4/">MacAlister (Gourlay Steele Collection)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s30/r12g3y1r2y1g3r3db3r6lb1r1g8r1lb1r12lb1r1g8r1lb1r6g2r1lb1r2lb1r1g3y1r4~x4/"><img src="/variants/s30/r12g3y1r2y1g3r3db3r6lb1r1g8r1lb1r12lb1r1g8r1lb1r6g2r1lb1r2lb1r1g3y1r4~x4/sett.png" alt="MacAlister (Gourlay Steele Collection) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macalister/">MacAlister</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macalister/"><img src="/variants/s30/r12g3y1r2y1g3r3db3r6lb1r1g8r1lb1r12lb1r1g8r1lb1r6g2r1lb1r2lb1r1g3y1r4~x4/sett.png" alt="MacAlister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

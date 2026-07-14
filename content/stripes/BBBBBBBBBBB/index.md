@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3~x2~dp1305314-db1006275-dpi1406332/">Royal Delight</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3~x2~dp1305314-db1006275-dpi1406332/"><img src="/variants/s11/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3~x2~dp1305314-db1006275-dpi1406332/sett.png" alt="Royal Delight sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-delight/">Royal Delight</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-delight/"><img src="/variants/s11/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3~x2~dp1305314-db1006275-dpi1406332/sett.png" alt="Royal Delight sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

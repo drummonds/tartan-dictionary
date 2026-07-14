@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y2k1g36k1r2k1r2k1g36k1lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgkrkrkgkw/">GKGKRKRKGKW</a></nav>
 Its design is pattern [GKGKRKRKGKW](/stripes/gkgkrkrkgkw/) — the page of every tartan sharing this colour sequence.
 
 The **Unidentified 23** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unidentified 23** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y2k1g36k1r2k1r2k1g36k1lb2/">Unidentified 23</a></td><td><code>Y/4 K2 G72 K2 R4 K2 R4 K2 G72 K2 LB/4</code></td><td>332</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y2k1g36k1r2k1r2k1g36k1lb2/"><img src="/variants/s11/y2k1g36k1r2k1r2k1g36k1lb2~x2/sett.png" alt="Unidentified 23 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/y2k1g36k1r2k1r2k1g36k1lb2~x2/">Unidentified 23</a></td><td><code>Y/4 K2 G72 K2 R4 K2 R4 K2 G72 K2 LB/4</code></td><td>332</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/y2k1g36k1r2k1r2k1g36k1lb2~x2/"><img src="/variants/s11/y2k1g36k1r2k1r2k1g36k1lb2~x2/sett.png" alt="Unidentified 23 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="340.4" cy="54.8" r="4" fill="#3465a4"><title>Princess Mary</title></circle></a><a href="/variants/s7/r5k3r9dg56db4dg2w3/"><circle cx="420.7" cy="86.8" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><circle cx="454.1" cy="151.7" r="4" fill="#3465a4"><title>Inman</title></circle></a><a href="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/"><circle cx="350.6" cy="15.1" r="4" fill="#3465a4"><title>Hong Kong, University of</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="606.7" cy="197.0" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="382.3" cy="88.3" r="4" fill="#3465a4"><title>Arnold Palmer</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.6" cy="124.3" r="4" fill="#3465a4"><title>Sarros XX</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="422.2" cy="104.7" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s8/g83k6g3k9r2k5g2y2~x2/"><circle cx="489.3" cy="63.8" r="4" fill="#3465a4"><title>Stewart from Cairnie</title></circle></a><a href="/variants/s8/g82k6g3k9r2k5g2dy2~x2/"><circle cx="486.7" cy="64.1" r="4" fill="#3465a4"><title>Crane of Clunie</title></circle></a><circle cx="540.2" cy="66.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.4" cy="54.9" r="4" fill="#3465a4"><title>Princess Mary</title></circle></a><a href="/variants/s7/r5k3r9dg56db4dg2w3/"><circle cx="421.9" cy="87.0" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><circle cx="455.2" cy="152.1" r="4" fill="#3465a4"><title>Inman</title></circle></a><a href="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/"><circle cx="351.7" cy="15.1" r="4" fill="#3465a4"><title>Hong Kong, University of</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="608.1" cy="197.7" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="383.4" cy="88.5" r="4" fill="#3465a4"><title>Arnold Palmer</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="359.6" cy="124.5" r="4" fill="#3465a4"><title>Sarros XX</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="423.3" cy="104.9" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s8/g83k6g3k9r2k5g2y2~x2/"><circle cx="490.7" cy="64.2" r="4" fill="#3465a4"><title>Stewart from Cairnie</title></circle></a><a href="/variants/s8/g82k6g3k9r2k5g2dy2~x2/"><circle cx="488.1" cy="64.5" r="4" fill="#3465a4"><title>Crane of Clunie</title></circle></a><circle cx="541.7" cy="67.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

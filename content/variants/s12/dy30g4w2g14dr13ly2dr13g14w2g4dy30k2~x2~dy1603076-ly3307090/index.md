@@ -8,10 +8,10 @@ crumbs:
 - name: "Red Rum"
   url: "/tartans/r/re/red-rum/"
 - name: "Red Rum"
-  url: "/setts/dy30g4w2g14dr13ly2dr13g14w2g4dy30k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy30g4w2g14dr13ly2dr13g14w2g4dy30k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/red-rum/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGBYBGWGGK](/stripes/ggwgbybgwggk/).
 
 Part of the [Red Rum](/tartans/r/re/red-rum/) tartan — the named design grouping this sett with its other cloths.

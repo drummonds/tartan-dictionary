@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/">Finnegan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/"><img src="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/sett.png" alt="Finnegan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/finnegan/">Finnegan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/finnegan/"><img src="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/sett.png" alt="Finnegan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -9,11 +9,11 @@ crumbs:
   url: "/clan/maclachlan/"
 - name: "MacLachlan W"
   url: "/tartans/m/ma/maclachlan-w/"
-- name: "MacLachlan W"
-  url: "/setts/r24w2y3g16k16w2y3/"
+- name: "MacLachlan Old Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r24w2y3g16k16w2y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclachlan-w/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKGGWR](/stripes/gwkggwr/).
 
 Part of the [MacLachlan W](/tartans/m/ma/maclachlan-w/) tartan — the named design grouping this sett with its other cloths.

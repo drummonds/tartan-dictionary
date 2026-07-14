@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/glencross/"
 - name: "Glencross"
   url: "/families/glencross/"
+aliases:
+- "/setts/w2dr45y3db8dg8w2/"
+- "/setts/w2dr45y3dg8db8w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbgbgw/">WBGBGW</a></nav>
 A tartan of the [Glencross](/families/glencross/) family.
 Its design is pattern [WBGBGW](/stripes/wbgbgw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Glencross** tartan groups 2 setts — the same named design recorded as di
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2dr45y3db8dg8w2/">Glencross</a> ★</td><td><code>W/4 DR90 Y6 DB16 DG16 W/4</code></td><td>264</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2dr45y3db8dg8w2/"><img src="/variants/s6/w2dr45y3db8dg8w2~x2/sett.png" alt="Glencross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/w2dr45y3dg8db8w2/">(Moniaive) (Personal)</a></td><td><code>W/4 DR90 Y6 DG16 DB16 W/4</code></td><td>264</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2dr45y3dg8db8w2/"><img src="/variants/s6/w2dr45y3dg8db8w2~x2/sett.png" alt="(Moniaive) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w2dr45y3db8dg8w2~x2/">Glencross</a> ★</td><td><code>W/4 DR90 Y6 DB16 DG16 W/4</code></td><td>264</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><img src="/variants/s6/w2dr45y3db8dg8w2~x2/sett.png" alt="Glencross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w2dr45y3dg8db8w2~x2/">(Moniaive) (Personal)</a></td><td><code>W/4 DR90 Y6 DG16 DB16 W/4</code></td><td>264</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w2dr45y3dg8db8w2~x2/"><img src="/variants/s6/w2dr45y3dg8db8w2~x2/sett.png" alt="(Moniaive) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dr62ly7g7r3w3db13w3r5~x2/"><circle cx="322.5" cy="98.7" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="340.7" cy="156.1" r="4" fill="#3465a4"><title>Milling-Kristensen</title></circle></a><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="336.8" cy="111.3" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="489.6" cy="220.1" r="4" fill="#3465a4"><title>Meaux</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="334.5" cy="180.3" r="4" fill="#3465a4"><title>Duminiak</title></circle></a><a href="/variants/s5/dr35w3dr8y2dg11~x2/"><circle cx="513.8" cy="204.6" r="4" fill="#3465a4"><title>Highlands of Wyomissing</title></circle></a><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="383.3" cy="123.5" r="4" fill="#3465a4"><title>Kuehle</title></circle></a><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="360.9" cy="151.1" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.7" cy="198.0" r="4" fill="#3465a4"><title>Glen Shiel</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.8" cy="117.4" r="4" fill="#3465a4"><title>Iberia Dress</title></circle></a><circle cx="445.9" cy="155.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dr62ly7g7r3w3db13w3r5~x2/"><circle cx="323.3" cy="98.7" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="341.5" cy="156.1" r="4" fill="#3465a4"><title>Milling-Kristensen</title></circle></a><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="337.6" cy="111.4" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="490.5" cy="220.5" r="4" fill="#3465a4"><title>Meaux</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="335.0" cy="180.3" r="4" fill="#3465a4"><title>Duminiak</title></circle></a><a href="/variants/s5/dr35w3dr8y2dg11~x2/"><circle cx="514.8" cy="204.9" r="4" fill="#3465a4"><title>Highlands of Wyomissing</title></circle></a><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="384.0" cy="123.5" r="4" fill="#3465a4"><title>Kuehle</title></circle></a><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="361.6" cy="151.2" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="412.6" cy="198.2" r="4" fill="#3465a4"><title>Glen Shiel</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="326.6" cy="117.4" r="4" fill="#3465a4"><title>Iberia Dress</title></circle></a><circle cx="446.7" cy="155.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Sheffield, City of"
   url: "/tartans/s/sh/sheffield-city-of/"
 - name: "Sheffield, City of"
-  url: "/setts/lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sh/sheffield-city-of/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGKBGBGBGBKGW](/stripes/rwgkbgbgbgbkgw/).
 
 Part of the [Sheffield, City of](/tartans/s/sh/sheffield-city-of/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/">Un-named Dutch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/"><img src="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/sett.png" alt="Un-named Dutch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/un-named-dutch/">Un-named Dutch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/un-named-dutch/"><img src="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/sett.png" alt="Un-named Dutch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

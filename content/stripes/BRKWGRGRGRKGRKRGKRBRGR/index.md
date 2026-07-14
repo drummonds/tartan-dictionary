@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/">Hay or Leith</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/"><img src="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/sett.png" alt="Hay or Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hay-or-leith/">Hay or Leith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hay-or-leith/"><img src="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/sett.png" alt="Hay or Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

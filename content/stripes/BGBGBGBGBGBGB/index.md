@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/">Tyneside Scottish (Khaki)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/"><img src="/variants/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/sett.png" alt="Tyneside Scottish (Khaki) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ty/tyneside-scottish/">Tyneside Scottish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ty/tyneside-scottish/"><img src="/variants/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/sett.png" alt="Tyneside Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

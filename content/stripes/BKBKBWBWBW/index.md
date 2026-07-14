@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/">Law Society of Scotland (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><img src="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/sett.png" alt="Law Society of Scotland (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/law-society-of-scotland-2/">Law Society of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/law-society-of-scotland-2/"><img src="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/sett.png" alt="Law Society of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

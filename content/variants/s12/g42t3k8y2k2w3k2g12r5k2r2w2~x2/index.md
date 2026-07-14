@@ -8,15 +8,15 @@ crumbs:
 - name: "King George"
   url: "/tartans/k/ki/king-george/"
 - name: "King George VI (Green Stewart)"
-  url: "/setts/g42t3k8y2k2w3k2g12r5k2r2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g42t3k8y2k2w3k2g12r5k2r2w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKGKWKGRKRWRKRGKWKGKBG](/stripes/bkgkwkgrkrwrkrgkwkgkbg/).
+provenance below. It is one weaving of the [sett](/tartans/k/ki/king-george/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBKGKWKGRKRW](/stripes/gbkgkwkgrkrw/).
 
 Part of the [King George](/tartans/k/ki/king-george/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1985](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1985)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1985](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1930 — King George VI (Green Stewart) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1985">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><br><em>This is the authentic King George VI tartan referred to in the past by Harry Lindley of Kinloch Anderson as 'Green Stewart' to protect it from being mis-used by the world at large. Made at the King's request by Royal Warrant Holders Wm Anderson, George Street, Edinburgh, it gave him an exclusive tartan to wear which was different from Royal Stewart. Today King George's kilt is worn from time to time by HRH Prince Charles, Prince of Wales. This differs from Princess Mary in having broader white lines within the black guards. Like the Balmoral, it is expected that weavers in the United Kingdom - and hopefully, further afield - will respect the fact that this tartan is exclusively for the use of the British Royal family.</em></li>
-<li>1930's — King George VI (Royal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5845">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><br><em>This is the authentic King George VI tartan referred to in the past by Harry Lindley of Kinloch Anderson as 'Green Stewart' to protect it from being mis-used by the world at large. Made and designed at the King's request by Royal Warrant Holders Wm Anderson, George Street, Edinburgh, it gave him an exclusive tartan to wear which was different from Royal Stewart. Today King George's kilt is worn from time to time by HRH Prince Charles, Prince of Wales. This differs from Princess Mary in having broader white lines within the black guards. Like the Balmoral, it is expected that weavers in the United Kingdom - and hopefully, further afield - will respect the fact that this tartan is exclusively for the use of the British Royal family.</em></li>
+<li>1930's — King George VI (Royal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5845/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="S #C8002C"></span><br><em>This is the authentic King George VI tartan referred to in the past by Harry Lindley of Kinloch Anderson as 'Green Stewart' to protect it from being mis-used by the world at large. Made and designed at the King's request by Royal Warrant Holders Wm Anderson, George Street, Edinburgh, it gave him an exclusive tartan to wear which was different from Royal Stewart. Today King George's kilt is worn from time to time by HRH Prince Charles, Prince of Wales. This differs from Princess Mary in having broader white lines within the black guards. Like the Balmoral, it is expected that weavers in the United Kingdom - and hopefully, further afield - will respect the fact that this tartan is exclusively for the use of the British Royal family.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5845
 
 ## Thread count
-G/84 T6 K16 Y4 K4 W6 K4 G24 R10 K4 R4 W4 R4 K4 R10 G24 K4 W6 K4 Y4 K16 T/6
+G/84 T6 K16 Y4 K4 W6 K4 G24 R10 K4 R4 W/4
 
-One full sett is **414 threads**.
+One full sett is **252 threads**.
+
+<p class="recorded-note">The source recorded this cloth as G/84 T6 K16 Y4 K4 W6 K4 G24 R10 K4 R4 W4 R4 K4 R10 G24 K4 W6 K4 Y4 K16 T/6 — 414 threads; it folds to the canonical 252-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **414 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/84 T6 K16 Y4 K4 W6 K4 G24 R10 K4 R4 W4 R4 K4 R10 G24 K4 W6 K4 Y4 K16 T/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/84 T6 K16 Y4 K4 W6 K4 G24 R10 K4 R4 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

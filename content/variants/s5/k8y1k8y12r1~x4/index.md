@@ -11,11 +11,11 @@ crumbs:
   url: "/families/macleod-of-lewis/"
 - name: "MacLeod of Lewis"
   url: "/tartans/m/ma/macleod-of-lewis/"
-- name: "MacLeod of Lewis"
-  url: "/setts/k8y1k8y12r1/"
+- name: "MacLeod of Lewis (Vestiarium Scoticum)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8y1k8y12r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macleod-of-lewis/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGR](/stripes/kgkgr/).
 
 Part of the [MacLeod of Lewis](/tartans/m/ma/macleod-of-lewis/) tartan — the named design grouping this sett with its other cloths.

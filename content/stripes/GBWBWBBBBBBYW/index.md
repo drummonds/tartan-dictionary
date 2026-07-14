@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg12dp3lb3dp3lb3dp12db3dp3db2dp2db14ly1w3~x2/">Scottish Tourist Guides Assoc. (Corp</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg12dp3lb3dp3lb3dp12db3dp3db2dp2db14ly1w3~x2/"><img src="/variants/s13/dg12dp3lb3dp3lb3dp12db3dp3db2dp2db14ly1w3~x2/sett.png" alt="Scottish Tourist Guides Assoc. (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-tourist-guides-assoc-corp/">Scottish Tourist Guides Assoc. (Corp</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-tourist-guides-assoc-corp/"><img src="/variants/s13/dg12dp3lb3dp3lb3dp12db3dp3db2dp2db14ly1w3~x2/sett.png" alt="Scottish Tourist Guides Assoc. (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

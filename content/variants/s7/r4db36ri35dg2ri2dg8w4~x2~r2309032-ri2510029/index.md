@@ -8,10 +8,10 @@ crumbs:
 - name: "Cherry, John S"
   url: "/tartans/c/ch/cherry-john-s/"
 - name: "Cherry, John S (Personal)"
-  url: "/setts/r4db36ri35dg2ri2dg8w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4db36ri35dg2ri2dg8w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/cherry-john-s/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGRGW](/stripes/rbrgrgw/).
 
 Part of the [Cherry, John S](/tartans/c/ch/cherry-john-s/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/">Dewar, Robert Alexander</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/"><img src="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/sett.png" alt="Dewar, Robert Alexander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/robert-dewar/">Robert Dewar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robert-dewar/"><img src="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/sett.png" alt="Robert Dewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

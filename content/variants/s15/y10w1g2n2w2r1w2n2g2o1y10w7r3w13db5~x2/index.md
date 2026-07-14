@@ -12,10 +12,10 @@ crumbs:
 - name: "Contreceour Dress"
   url: "/tartans/c/co/contreceour-dress/"
 - name: "Contreceour dress"
-  url: "/setts/y10w1g2n2w2r1w2n2g2o1y10w7r3w13db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y10w1g2n2w2r1w2n2g2o1y10w7r3w13db5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/contreceour-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWGRGBWRWBGWG](/stripes/bwrwgrgbwrwbgwg/).
 
 Part of the [Contreceour Dress](/tartans/c/co/contreceour-dress/) tartan — the named design grouping this sett with its other cloths.

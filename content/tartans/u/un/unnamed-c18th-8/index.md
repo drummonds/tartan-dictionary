@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w120k2db4g3w2k2r8w2r3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rwrkwgbkw/">RWRKWGBKW</a></nav>
 Its design is pattern [RWRKWGBKW](/stripes/rwrkwgbkw/) — the page of every tartan sharing this colour sequence.
 
 The **Unnamed C18th** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Unnamed C18th** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w120k2db4g3w2k2r8w2r3/">Unnamed C18th</a></td><td><code>W/240 K4 DB8 G6 W4 K4 R16 W4 R/6</code></td><td>338</td><td>~1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w120k2db4g3w2k2r8w2r3/"><img src="/variants/s9/w120k2db4g3w2k2r8w2r3~x2/sett.png" alt="Unnamed C18th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w120k2db4g3w2k2r8w2r3~x2/">Unnamed C18th</a></td><td><code>W/240 K4 DB8 G6 W4 K4 R16 W4 R/6</code></td><td>338</td><td>~1800</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w120k2db4g3w2k2r8w2r3~x2/"><img src="/variants/s9/w120k2db4g3w2k2r8w2r3~x2/sett.png" alt="Unnamed C18th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="358.6" cy="43.3" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/variants/s7/k7w3k7w45r3w3r3~x2/"><circle cx="386.0" cy="121.2" r="4" fill="#3465a4"><title>White Stripes</title></circle></a><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><circle cx="333.4" cy="31.8" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/variants/s10/w102k3ly3k3w3k12db14g12w3r3~x2/"><circle cx="337.7" cy="35.5" r="4" fill="#3465a4"><title>Halford-Macleod, Miss Emma</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="350.9" cy="77.5" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="333.7" cy="81.5" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s8/w83k6w3k9r2k5w2y2~x2/"><circle cx="459.4" cy="45.5" r="4" fill="#3465a4"><title>Crane of Cluny Dress</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="437.6" cy="83.3" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall</title></circle></a><a href="/variants/s6/w52r22w6r8k1db3~x2/"><circle cx="379.7" cy="95.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="533.4" cy="22.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="359.7" cy="43.2" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/variants/s7/k7w3k7w45r3w3r3~x2/"><circle cx="387.1" cy="121.3" r="4" fill="#3465a4"><title>White Stripes</title></circle></a><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><circle cx="334.5" cy="31.7" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/variants/s10/w102k3ly3k3w3k12db14g12w3r3~x2/"><circle cx="338.7" cy="35.4" r="4" fill="#3465a4"><title>Halford-Macleod, Miss Emma</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="351.8" cy="77.4" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="334.6" cy="81.4" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s8/w83k6w3k9r2k5w2y2~x2/"><circle cx="460.9" cy="45.6" r="4" fill="#3465a4"><title>Crane of Cluny Dress</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="438.8" cy="83.4" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall</title></circle></a><a href="/variants/s6/w52r22w6r8k1db3~x2/"><circle cx="380.8" cy="95.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="535.0" cy="22.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

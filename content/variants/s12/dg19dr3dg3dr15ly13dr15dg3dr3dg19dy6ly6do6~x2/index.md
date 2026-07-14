@@ -8,10 +8,10 @@ crumbs:
 - name: "Maple Leaf"
   url: "/tartans/m/ma/maple-leaf-4/"
 - name: "Maple Leaf"
-  url: "/setts/dg19dr3dg3dr15ly13dr15dg3dr3dg19dy6ly6do6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg19dr3dg3dr15ly13dr15dg3dr3dg19dy6ly6do6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maple-leaf-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGGBGBYBGBG](/stripes/byggbgbybgbg/).
 
 Part of the [Maple Leaf](/tartans/m/ma/maple-leaf-4/) tartan — the named design grouping this sett with its other cloths.

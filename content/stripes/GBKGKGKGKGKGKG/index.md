@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g11db1k1g2k12y1k12g2k2g11k2g2k12y1~x4/">Hopetoun Rejected design</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g11db1k1g2k12y1k12g2k2g11k2g2k12y1~x4/"><img src="/variants/s14/g11db1k1g2k12y1k12g2k2g11k2g2k12y1~x4/sett.png" alt="Hopetoun Rejected design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hopetoun-rejected-design/">Hopetoun Rejected design</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hopetoun-rejected-design/"><img src="/variants/s14/g11db1k1g2k12y1k12g2k2g11k2g2k12y1~x4/sett.png" alt="Hopetoun Rejected design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

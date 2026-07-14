@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k40dg15k10o2k10lo2k10lo2/"
+- "/setts/k40dg15k10o2k10lo2k10/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkrkyky/">KGKRKYKY</a></nav>
 Its design is pattern [KGKRKYKY](/stripes/kgkrkyky/) — the page of every tartan sharing this colour sequence.
 
 The **Langhein, Alex** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Langhein, Alex** tartan groups 2 setts — the same named design recorded 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k40dg15k10o2k10lo2k10lo2/">Langhein, Alex</a> ★</td><td><code>K/80 DG30 K20 O4 K20 LO4 K20 LO/4</code></td><td>280</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k40dg15k10o2k10lo2k10lo2/"><img src="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/sett.png" alt="Langhein, Alex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k40dg15k10o2k10lo2k10/">(Personal)</a></td><td><code>K/80 DG30 K20 O4 K20 LO4 K/20</code></td><td>256</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k40dg15k10o2k10lo2k10/"><img src="/variants/s7/k40dg15k10o2k10lo2k10~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/">Langhein, Alex</a> ★</td><td><code>K/80 DG30 K20 O4 K20 LO4 K20 LO/4</code></td><td>280</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><img src="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/sett.png" alt="Langhein, Alex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k40dg15k10o2k10lo2k10~x2/">(Personal)</a></td><td><code>K/80 DG30 K20 O4 K20 LO4 K/20</code></td><td>256</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k40dg15k10o2k10lo2k10~x2/"><img src="/variants/s7/k40dg15k10o2k10lo2k10~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/"><circle cx="493.7" cy="145.0" r="4" fill="#3465a4"><title>Langhein</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="461.7" cy="143.6" r="4" fill="#3465a4"><title>Kalkofen</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="458.7" cy="78.8" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="443.4" cy="63.9" r="4" fill="#3465a4"><title>Racing Stewart, Stealth</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="438.5" cy="134.8" r="4" fill="#3465a4"><title>Sunderland of Scotland</title></circle></a><a href="/variants/s9/g12k8n6k22n3k8n3k40g6/"><circle cx="389.8" cy="149.6" r="4" fill="#3465a4"><title>Jensen, Sven</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="454.6" cy="94.7" r="4" fill="#3465a4"><title>Laird Abdullah</title></circle></a><a href="/variants/s10/k49o8k4n6oi4n6k4o8k49oi2~n1900000-oi2500000/"><circle cx="430.0" cy="83.9" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/variants/s11/k14n2k2n5k25w1n9o3k3w1k14~x2/"><circle cx="394.6" cy="92.4" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="356.8" cy="134.6" r="4" fill="#3465a4"><title>Childers</title></circle></a><circle cx="448.6" cy="121.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/"><circle cx="495.1" cy="145.5" r="4" fill="#3465a4"><title>Langhein</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="463.0" cy="144.0" r="4" fill="#3465a4"><title>Kalkofen</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="460.1" cy="79.1" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="444.9" cy="64.3" r="4" fill="#3465a4"><title>Racing Stewart, Stealth</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="439.9" cy="135.2" r="4" fill="#3465a4"><title>Sunderland of Scotland</title></circle></a><a href="/variants/s9/g12k8n6k22n3k8n3k40g6/"><circle cx="391.1" cy="149.9" r="4" fill="#3465a4"><title>Jensen, Sven</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="456.1" cy="95.1" r="4" fill="#3465a4"><title>Laird Abdullah</title></circle></a><a href="/variants/s10/k49o8k4n6oi4n6k4o8k49oi2~n1900000-oi2500000/"><circle cx="431.5" cy="84.2" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/variants/s11/k14n2k2n5k25w1n9o3k3w1k14~x2/"><circle cx="396.0" cy="92.7" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="357.9" cy="134.8" r="4" fill="#3465a4"><title>Childers</title></circle></a><circle cx="450.0" cy="122.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

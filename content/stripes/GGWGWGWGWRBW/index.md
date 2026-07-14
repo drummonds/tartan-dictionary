@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1/">Dunblane</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1/"><img src="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/sett.png" alt="Dunblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/">Dunblane District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/"><img src="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/sett.png" alt="Dunblane District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunblane/">Dunblane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunblane/"><img src="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/sett.png" alt="Dunblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

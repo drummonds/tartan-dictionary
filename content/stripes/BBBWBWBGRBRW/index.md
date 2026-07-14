@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/">Louth Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/"><img src="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/sett.png" alt="Louth Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/louth-irish-county/">Louth Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/louth-irish-county/"><img src="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/sett.png" alt="Louth Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

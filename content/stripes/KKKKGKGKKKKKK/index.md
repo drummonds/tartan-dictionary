@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/">Royal Regiment of Scotland (Mltry)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/"><img src="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/sett.png" alt="Royal Regiment of Scotland (Mltry) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-regiment-of-scotland/">Royal Regiment of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-regiment-of-scotland/"><img src="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/sett.png" alt="Royal Regiment of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

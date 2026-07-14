@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/">Laois County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/"><img src="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/sett.png" alt="Laois County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/laois-county-crest/">Laois County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/laois-county-crest/"><img src="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/sett.png" alt="Laois County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

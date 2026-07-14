@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/y3g2k1g30db24k2db2k2/">Johnston</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y3g2k1g30db24k2db2k2/"><img src="/variants/s8/y3g2k1g30db24k2db2k2/sett.png" alt="Johnston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2/">Johnston (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2/"><img src="/variants/s8/y3g2k1g30t24k2t2k2~x2/sett.png" alt="Johnston (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/johnston/">Johnston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/johnston/"><img src="/variants/s8/y3g2k1g30db24k2db2k2/sett.png" alt="Johnston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

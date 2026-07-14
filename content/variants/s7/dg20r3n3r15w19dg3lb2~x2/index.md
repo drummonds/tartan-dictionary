@@ -12,10 +12,10 @@ crumbs:
 - name: "Glasgow"
   url: "/tartans/g/gl/glasgow-5/"
 - name: "Glasgow"
-  url: "/setts/dg20r3n3r15w19dg3lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg20r3n3r15w19dg3lb2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glasgow-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRWGW](/stripes/grbrwgw/).
 
 Part of the [Glasgow](/tartans/g/gl/glasgow-5/) tartan — the named design grouping this sett with its other cloths.

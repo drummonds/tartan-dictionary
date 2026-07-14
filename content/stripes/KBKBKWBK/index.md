@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k1db5w2k30db30k1db1k1~x2/">Binder Wedding (Personal) Name Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k1db5w2k30db30k1db1k1~x2/"><img src="/variants/s8/k1db5w2k30db30k1db1k1~x2/sett.png" alt="Binder Wedding (Personal) Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bi/binder-wedding-2/">Binder Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bi/binder-wedding-2/"><img src="/variants/s8/k1db5w2k30db30k1db1k1~x2/sett.png" alt="Binder Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

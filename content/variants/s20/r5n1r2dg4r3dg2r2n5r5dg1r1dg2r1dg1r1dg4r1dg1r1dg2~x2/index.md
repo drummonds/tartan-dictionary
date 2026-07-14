@@ -12,10 +12,10 @@ crumbs:
 - name: "MacIntosh"
   url: "/tartans/m/ma/macintosh/"
 - name: "MacIntosh Ancient"
-  url: "/setts/r5n1r2dg4r3dg2r2n5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5n1r2dg4r3dg2r2n5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macintosh/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGRGRBRGRGRBR](/stripes/grgrgrgrgrgrbrgrgrbr/).
 
 Part of the [MacIntosh](/tartans/m/ma/macintosh/) tartan — the named design grouping this sett with its other cloths.

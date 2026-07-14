@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db39ly8dr3w1~x4/">Norwich University (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db39ly8dr3w1~x4/"><img src="/variants/s4/db39ly8dr3w1~x4/sett.png" alt="Norwich University (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/norwich-university/">Norwich University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/norwich-university/"><img src="/variants/s4/db39ly8dr3w1~x4/sett.png" alt="Norwich University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

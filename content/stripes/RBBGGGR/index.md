@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/">Brodie, Silver</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><img src="/variants/s7/r3dg20y2dg20n20b20r3~x2/sett.png" alt="Brodie, Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brodie-silver-3/">Brodie, Silver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brodie-silver-3/"><img src="/variants/s7/r3dg20y2dg20n20b20r3~x2/sett.png" alt="Brodie, Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/">Lunting Papi (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/"><img src="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/sett.png" alt="Lunting Papi (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lu/lunting-papi/">Lunting Papi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/lunting-papi/"><img src="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/sett.png" alt="Lunting Papi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

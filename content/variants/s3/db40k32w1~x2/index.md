@@ -8,10 +8,10 @@ crumbs:
 - name: "Shirra"
   url: "/tartans/s/sh/shirra/"
 - name: "Shirra (2013)"
-  url: "/setts/db40k32w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db40k32w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sh/shirra/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKW](/stripes/bkw/).
 
 Part of the [Shirra](/tartans/s/sh/shirra/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10930](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>08/10/2013 — Shirra (2013) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10930">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#0000CD;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #0000CD"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><br><em>Created by the designers to celebrate their Scottish heritage and as a tribute to their father who spent much of his childhood in Scotland.</em></li>
-<li>2013 — Shirra (2013) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10930">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Created by the designers to celebrate their Scottish heritage and as a tribute to their father who spent much of his childhood in Scotland.</em></li>
+<li>2013 — Shirra (2013) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10930/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Created by the designers to celebrate their Scottish heritage and as a tribute to their father who spent much of his childhood in Scotland.</em></li>
 </ul>
 </details>
 

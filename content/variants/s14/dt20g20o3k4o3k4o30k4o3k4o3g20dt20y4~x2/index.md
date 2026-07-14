@@ -12,10 +12,10 @@ crumbs:
 - name: "Sikh"
   url: "/tartans/s/si/sikh-2/"
 - name: "Sikh Clan/Family Tartan"
-  url: "/setts/dt20g20o3k4o3k4o30k4o3k4o3g20dt20y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dt20g20o3k4o3k4o30k4o3k4o3g20dt20y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/sikh-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRKRKRKRKRGBG](/stripes/bgrkrkrkrkrgbg/).
 
 Part of the [Sikh](/tartans/s/si/sikh-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dy6r30n2k3n30g3n2r25w6~x2/">Virginia Military Institute, New Market</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy6r30n2k3n30g3n2r25w6~x2/"><img src="/variants/s9/dy6r30n2k3n30g3n2r25w6~x2/sett.png" alt="Virginia Military Institute, New Market sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/y6r30n2k3n30g3n2r25w6~x2/">Virginia Military Institute, New Market</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/y6r30n2k3n30g3n2r25w6~x2/"><img src="/variants/s9/y6r30n2k3n30g3n2r25w6~x2/sett.png" alt="Virginia Military Institute, New Market sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/virginia-military-institute/">Virginia Military Institute</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/virginia-military-institute/"><img src="/variants/s9/dy6r30n2k3n30g3n2r25w6~x2/sett.png" alt="Virginia Military Institute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vi/virginia-military-institute-new-market/">Virginia Military Institute, New Market</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/virginia-military-institute-new-market/"><img src="/variants/s9/y6r30n2k3n30g3n2r25w6~x2/sett.png" alt="Virginia Military Institute, New Market sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

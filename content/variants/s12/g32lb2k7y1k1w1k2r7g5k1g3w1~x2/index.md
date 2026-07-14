@@ -8,10 +8,10 @@ crumbs:
 - name: "Royal Stewart"
   url: "/tartans/r/ro/royal-stewart/"
 - name: "Stuart/Stewart (Variant)"
-  url: "/setts/g32lb2k7y1k1w1k2r7g5k1g3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g32lb2k7y1k1w1k2r7g5k1g3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/royal-stewart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKGKWKRGKGW](/stripes/gwkgkwkrgkgw/).
 
 Part of the [Royal Stewart](/tartans/r/ro/royal-stewart/) tartan — the named design grouping this sett with its other cloths.

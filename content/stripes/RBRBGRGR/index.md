@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r3db3r3db10g10r3g3r3~x2/">Flora MacDonald</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r3db3r3db10g10r3g3r3~x2/"><img src="/variants/s8/r3db3r3db10g10r3g3r3~x2/sett.png" alt="Flora MacDonald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fl/flora-macdonald/">Flora MacDonald</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fl/flora-macdonald/"><img src="/variants/s8/r3db3r3db10g10r3g3r3~x2/sett.png" alt="Flora MacDonald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

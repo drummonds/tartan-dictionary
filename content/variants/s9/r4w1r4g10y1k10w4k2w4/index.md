@@ -10,10 +10,10 @@ crumbs:
 - name: "Cumming LO"
   url: "/tartans/c/cu/cumming-lo/"
 - name: "Cumming LO"
-  url: "/setts/r4w1r4g10y1k10w4k2w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4w1r4g10y1k10w4k2w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cumming-lo/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGGKWKW](/stripes/rwrggkwkw/).
 
 Part of the [Cumming LO](/tartans/c/cu/cumming-lo/) tartan — the named design grouping this sett with its other cloths.
@@ -56,7 +56,7 @@ One full sett is **72 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **2.00** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **2.29** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">

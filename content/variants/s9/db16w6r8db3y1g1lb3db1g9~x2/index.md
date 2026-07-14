@@ -12,10 +12,10 @@ crumbs:
 - name: "Ohio"
   url: "/tartans/o/oh/ohio/"
 - name: "Ohio District Tartan"
-  url: "/setts/db16w6r8db3y1g1lb3db1g9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16w6r8db3y1g1lb3db1g9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/oh/ohio/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBGGWBG](/stripes/bwrbggwbg/).
 
 Part of the [Ohio](/tartans/o/oh/ohio/) tartan — the named design grouping this sett with its other cloths.

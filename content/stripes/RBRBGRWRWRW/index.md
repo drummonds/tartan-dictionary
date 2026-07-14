@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/">Ben Ledi (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><img src="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/sett.png" alt="Ben Ledi (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/ben-ledi/">Ben Ledi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/ben-ledi/"><img src="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/sett.png" alt="Ben Ledi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

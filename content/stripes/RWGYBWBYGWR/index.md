@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/r1w8g2ly2db6w1db6ly2g2w8o1~x4/">MacKessog Wedding (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/r1w8g2ly2db6w1db6ly2g2w8o1~x4/"><img src="/variants/s11/r1w8g2ly2db6w1db6ly2g2w8o1~x4/sett.png" alt="MacKessog Wedding (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackessog-wedding/">MacKessog Wedding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackessog-wedding/"><img src="/variants/s11/r1w8g2ly2db6w1db6ly2g2w8o1~x4/sett.png" alt="MacKessog Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

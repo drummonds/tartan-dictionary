@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w3r2dp31g30y2dp2y1~x2/">Caig (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w3r2dp31g30y2dp2y1~x2/"><img src="/variants/s7/w3r2dp31g30y2dp2y1~x2/sett.png" alt="Caig (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caig/">Caig</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caig/"><img src="/variants/s7/w3r2dp31g30y2dp2y1~x2/sett.png" alt="Caig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

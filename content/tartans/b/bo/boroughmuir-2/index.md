@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/boroughmuir/"
 - name: "Boroughmuir"
   url: "/families/boroughmuir/"
+aliases:
+- "/setts/dg30w8b32y1b8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbwg/">BGBWG</a></nav>
 A tartan of the [Boroughmuir](/families/boroughmuir/) family.
 Its design is pattern [BGBWG](/stripes/bgbwg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Boroughmuir** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg30w8b32y1b8/">Boroughmuir</a></td><td><code>DG/60 W16 B64 Y2 B/16</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg30w8b32y1b8/"><img src="/variants/s5/dg30w8b32y1b8~x2/sett.png" alt="Boroughmuir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dg30w8b32y1b8~x2/">Boroughmuir</a></td><td><code>DG/60 W16 B64 Y2 B/16</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dg30w8b32y1b8~x2/"><img src="/variants/s5/dg30w8b32y1b8~x2/sett.png" alt="Boroughmuir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g30w8db32y1db8~x2/"><circle cx="328.8" cy="196.8" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="258.9" cy="170.0" r="4" fill="#3465a4"><title>Wright, Anne</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="344.1" cy="269.8" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="313.6" cy="214.4" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="270.6" cy="192.5" r="4" fill="#3465a4"><title>Laxey Manx</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="335.1" cy="200.0" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="432.2" cy="192.5" r="4" fill="#3465a4"><title>MaleHsuHK</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="433.6" cy="192.9" r="4" fill="#3465a4"><title>Hsu</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="348.2" cy="199.5" r="4" fill="#3465a4"><title>McNiff, Kevin</title></circle></a><a href="/variants/s6/g4y2g24w12db26r1~x2/"><circle cx="220.0" cy="163.1" r="4" fill="#3465a4"><title>Vancouver Centennial</title></circle></a><circle cx="345.2" cy="201.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g30w8db32y1db8~x2/"><circle cx="329.4" cy="196.8" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="259.3" cy="169.9" r="4" fill="#3465a4"><title>Wright, Anne</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="344.6" cy="270.0" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.0" cy="214.4" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="271.0" cy="192.4" r="4" fill="#3465a4"><title>Laxey Manx</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="335.7" cy="200.1" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="433.1" cy="192.7" r="4" fill="#3465a4"><title>MaleHsuHK</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="434.5" cy="193.1" r="4" fill="#3465a4"><title>Hsu</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="348.9" cy="199.6" r="4" fill="#3465a4"><title>McNiff, Kevin</title></circle></a><a href="/variants/s6/g4y2g24w12db26r1~x2/"><circle cx="220.4" cy="162.9" r="4" fill="#3465a4"><title>Vancouver Centennial</title></circle></a><circle cx="345.7" cy="201.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

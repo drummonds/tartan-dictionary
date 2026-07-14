@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/t5dy2dg4n3w1t5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bggbwb/">BGGBWB</a></nav>
 Its design is pattern [BGGBWB](/stripes/bggbwb/) — the page of every tartan sharing this colour sequence.
 
 The **Heriot Bay** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Heriot Bay** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t5dy2dg4n3w1t5/">Heriot Bay</a></td><td><code>T/40 DY16 DG32 N24 W8 T/40</code></td><td>240</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t5dy2dg4n3w1t5/"><img src="/variants/s6/t5dy2dg4n3w1t5~x8/sett.png" alt="Heriot Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t5dy2dg4n3w1t5~x8/">Heriot Bay</a></td><td><code>T/40 DY16 DG32 N24 W8 T/40</code></td><td>240</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><img src="/variants/s6/t5dy2dg4n3w1t5~x8/sett.png" alt="Heriot Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><circle cx="329.9" cy="274.7" r="4" fill="#3465a4"><title>Sterling, Rob (Persona</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="271.6" cy="255.2" r="4" fill="#3465a4"><title>Sterling</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.2" cy="309.6" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/db2dp3g3n6y2~x2/"><circle cx="207.4" cy="356.7" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="199.8" cy="303.0" r="4" fill="#3465a4"><title>Battle of Prestonpans Heritage Trust, The</title></circle></a><a href="/variants/s5/db7dg8g15b6y3~x10/"><circle cx="194.2" cy="318.5" r="4" fill="#3465a4"><title>Unidentified, Silk</title></circle></a><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="173.6" cy="242.8" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="373.8" cy="249.5" r="4" fill="#3465a4"><title>Craig Devlin</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.2" cy="242.5" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s6/t2g13t11y4w9t2~x2/"><circle cx="217.9" cy="297.5" r="4" fill="#3465a4"><title>Loch Leven</title></circle></a><circle cx="250.1" cy="317.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><circle cx="330.0" cy="274.8" r="4" fill="#3465a4"><title>Sterling, Rob (Persona</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="271.7" cy="255.1" r="4" fill="#3465a4"><title>Sterling</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.0" cy="309.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/db2dp3g3n6y2~x2/"><circle cx="207.0" cy="356.6" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="199.8" cy="302.9" r="4" fill="#3465a4"><title>Battle of Prestonpans Heritage Trust, The</title></circle></a><a href="/variants/s5/db7dg8g15b6y3~x10/"><circle cx="193.9" cy="318.4" r="4" fill="#3465a4"><title>Unidentified, Silk</title></circle></a><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="173.6" cy="242.6" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.2" cy="249.6" r="4" fill="#3465a4"><title>Craig Devlin</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.4" cy="242.5" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s6/t2g13t11y4w9t2~x2/"><circle cx="217.7" cy="297.4" r="4" fill="#3465a4"><title>Loch Leven</title></circle></a><circle cx="250.0" cy="317.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

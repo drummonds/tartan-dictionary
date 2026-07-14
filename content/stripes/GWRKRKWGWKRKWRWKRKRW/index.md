@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/">Holy Sepulchre Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/"><img src="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/sett.png" alt="Holy Sepulchre Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holy-sepulchre/">Holy Sepulchre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holy-sepulchre/"><img src="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/sett.png" alt="Holy Sepulchre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

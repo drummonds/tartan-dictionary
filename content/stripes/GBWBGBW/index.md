@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y4db4lb5dbi24y2db24w4~x2~db1204274-dbi1406275/">Mina Perhonen Japanese Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y4db4lb5dbi24y2db24w4~x2~db1204274-dbi1406275/"><img src="/variants/s7/y4db4lb5dbi24y2db24w4~x2~db1204274-dbi1406275/sett.png" alt="Mina Perhonen Japanese Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mina-perhonen-japanese/">Mina Perhonen Japanese</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mina-perhonen-japanese/"><img src="/variants/s7/y4db4lb5dbi24y2db24w4~x2~db1204274-dbi1406275/sett.png" alt="Mina Perhonen Japanese sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

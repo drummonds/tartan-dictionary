@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w11r32g12r5g12r5~x2/">Al-Maktoum</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w11r32g12r5g12r5~x2/"><img src="/variants/s6/w11r32g12r5g12r5~x2/sett.png" alt="Al-Maktoum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w11r40g13r5g12r5~x2/">Makhtoum Regimental Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w11r40g13r5g12r5~x2/"><img src="/variants/s6/w11r40g13r5g12r5~x2/sett.png" alt="Makhtoum Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/al-maktoum/">Al-Maktoum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/al-maktoum/"><img src="/variants/s6/w11r32g12r5g12r5~x2/sett.png" alt="Al-Maktoum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/makhtoum/">Makhtoum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/makhtoum/"><img src="/variants/s6/w11r40g13r5g12r5~x2/sett.png" alt="Makhtoum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

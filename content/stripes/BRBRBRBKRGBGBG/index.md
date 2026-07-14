@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/">Applestone</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/"><img src="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/sett.png" alt="Applestone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ap/applestone/">Applestone</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ap/applestone/"><img src="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/sett.png" alt="Applestone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

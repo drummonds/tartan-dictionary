@@ -28,10 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/g30k20g3~x2/">Scotch Tape (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/g30k20g3~x2/"><img src="/variants/s3/g30k20g3~x2/sett.png" alt="Scotch Tape (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/dg1k20dg1~x6~dg1804158/">Stirling of Keir</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dg1k20dg1~x6~dg1804158/"><img src="/variants/s3/dg1k20dg1~x6~dg1804158/sett.png" alt="Stirling of Keir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/graham-3/">Graham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-3/"><img src="/variants/s3/g12k4g1~x2/sett.png" alt="Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotch-tape/">Scotch Tape</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-tape/"><img src="/variants/s3/g30k20g3~x2/sett.png" alt="Scotch Tape sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stirling-of-keir-2/">Stirling of Keir</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stirling-of-keir-2/"><img src="/variants/s3/dg1k20dg1~x6~dg1804158/sett.png" alt="Stirling of Keir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

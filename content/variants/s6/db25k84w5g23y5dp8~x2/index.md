@@ -8,10 +8,10 @@ crumbs:
 - name: "Woodward, R Glenn"
   url: "/tartans/w/wo/woodward-r-glenn/"
 - name: "Woodward, R Glenn (Personal)"
-  url: "/setts/db25k84w5g23y5dp8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db25k84w5g23y5dp8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wo/woodward-r-glenn/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGWKB](/stripes/bggwkb/).
 
 Part of the [Woodward, R Glenn](/tartans/w/wo/woodward-r-glenn/) tartan — the named design grouping this sett with its other cloths.

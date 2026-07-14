@@ -8,10 +8,10 @@ crumbs:
 - name: "Khalsa"
   url: "/tartans/k/kh/khalsa/"
 - name: "Khalsa"
-  url: "/setts/db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/kh/khalsa/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWYBGBYGKWBWKW](/stripes/bwbwbwbwbwybgbygkwbwkw/).
 
 Part of the [Khalsa](/tartans/k/kh/khalsa/) tartan — the named design grouping this sett with its other cloths.

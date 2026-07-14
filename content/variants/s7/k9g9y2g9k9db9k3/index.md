@@ -10,10 +10,10 @@ crumbs:
 - name: "Campbell Breadalbane"
   url: "/tartans/c/ca/campbell-breadalbane/"
 - name: "Campbell Breadalbane"
-  url: "/setts/k9g9y2g9k9db9k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k9g9y2g9k9db9k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-breadalbane/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGGGK](/stripes/kbkgggk/).
 
 Part of the [Campbell Breadalbane](/tartans/c/ca/campbell-breadalbane/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g12k4g12w1t6w1y4~x4/">Pinder, Nigel (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g12k4g12w1t6w1y4~x4/"><img src="/variants/s7/g12k4g12w1t6w1y4~x4/sett.png" alt="Pinder, Nigel (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pinder-nigel/">Pinder, Nigel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pinder-nigel/"><img src="/variants/s7/g12k4g12w1t6w1y4~x4/sett.png" alt="Pinder, Nigel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

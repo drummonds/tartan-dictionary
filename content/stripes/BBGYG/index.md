@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dg31lo1dg18db18dr1~x2/">Miramichi</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dg31lo1dg18db18dr1~x2/"><img src="/variants/s5/dg31lo1dg18db18dr1~x2/sett.png" alt="Miramichi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/miramichi/">Miramichi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/miramichi/"><img src="/variants/s5/dg31lo1dg18db18dr1~x2/sett.png" alt="Miramichi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

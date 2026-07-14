@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k5w25r6k45w4~x2/">Shembe Zulu Church</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k5w25r6k45w4~x2/"><img src="/variants/s5/k5w25r6k45w4~x2/sett.png" alt="Shembe Zulu Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shembe-zulu-church/">Shembe Zulu Church</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shembe-zulu-church/"><img src="/variants/s5/k5w25r6k45w4~x2/sett.png" alt="Shembe Zulu Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

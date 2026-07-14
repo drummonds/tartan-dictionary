@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/">University of Alberta (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/"><img src="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/sett.png" alt="University of Alberta (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/university-of-alberta/">University of Alberta</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/university-of-alberta/"><img src="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/sett.png" alt="University of Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Fountain of the Strong"
   url: "/tartans/f/fo/fountain-of-the-strong/"
 - name: "Fountain of the Strong"
-  url: "/setts/o6k3dg3k6dr2k2dr2k6dg3o14dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o6k3dg3k6dr2k2dr2k6dg3o14dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/fountain-of-the-strong/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKBKBKGKR](/stripes/grgkbkbkgkr/).
 
 Part of the [Fountain of the Strong](/tartans/f/fo/fountain-of-the-strong/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1239](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1972 — Fountain of the Strong (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1239">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C06430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OO #C06430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#184800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #184800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B82C28;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #B82C28"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1972 — Fountain of the Strong (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4904">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C06430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OO #C06430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#184800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #184800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B82C28;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #B82C28"></span><br><em>Sample in STA's Johnston Collection.</em></li>
+<li>pre 1972 — Fountain of the Strong (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4904/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C06430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OO #C06430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#184800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #184800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B82C28;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #B82C28"></span><br><em>Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

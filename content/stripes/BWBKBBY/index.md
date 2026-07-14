@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/">Dignan School of Dancing</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><img src="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/sett.png" alt="Dignan School of Dancing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/di/dignan-corporate-school/">Dignan Corporate School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/di/dignan-corporate-school/"><img src="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/sett.png" alt="Dignan Corporate School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

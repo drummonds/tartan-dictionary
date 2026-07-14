@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k11lb38r11g11k5~x2/">All as One (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k11lb38r11g11k5~x2/"><img src="/variants/s5/k11lb38r11g11k5~x2/sett.png" alt="All as One (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/all-as-one/">All as One</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/all-as-one/"><img src="/variants/s5/k11lb38r11g11k5~x2/sett.png" alt="All as One sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

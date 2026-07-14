@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r4ly3dt24dy26g3ly21dp2ly4~x2/">Goddin mab Gododdin (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r4ly3dt24dy26g3ly21dp2ly4~x2/"><img src="/variants/s8/r4ly3dt24dy26g3ly21dp2ly4~x2/sett.png" alt="Goddin mab Gododdin (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/goddin-mab-gododdin/">Goddin mab Gododdin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/goddin-mab-gododdin/"><img src="/variants/s8/r4ly3dt24dy26g3ly21dp2ly4~x2/sett.png" alt="Goddin mab Gododdin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

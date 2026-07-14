@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/g2w29lb12db29lb2~x2/">Wallace Blue Dress (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/g2w29lb12db29lb2~x2/"><img src="/variants/s5/g2w29lb12db29lb2~x2/sett.png" alt="Wallace Blue Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wallace-blue-dress/">Wallace Blue Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wallace-blue-dress/"><img src="/variants/s5/g2w29lb12db29lb2~x2/sett.png" alt="Wallace Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

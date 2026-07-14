@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k42w5dg16k10db21~x2/">Givens (Arizona)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k42w5dg16k10db21~x2/"><img src="/variants/s5/k42w5dg16k10db21~x2/sett.png" alt="Givens (Arizona) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/db12k17g19w2k5~x2/">Wilson's Folio 131</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db12k17g19w2k5~x2/"><img src="/variants/s5/db12k17g19w2k5~x2/sett.png" alt="Wilson's Folio 131 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gi/givens/">Givens</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/givens/"><img src="/variants/s5/k42w5dg16k10db21~x2/sett.png" alt="Givens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-folio-131/">Wilson's Folio 131</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-folio-131/"><img src="/variants/s5/db12k17g19w2k5~x2/sett.png" alt="Wilson's Folio 131 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

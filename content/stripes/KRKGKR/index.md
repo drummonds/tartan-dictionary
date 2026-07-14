@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k2r16k8y1k8r2/">Brodie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k2r16k8y1k8r2/"><img src="/variants/s6/k2r16k8y1k8r2/sett.png" alt="Brodie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k3r15k11y2k4r3~x2/">Brodie (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3r15k11y2k4r3~x2/"><img src="/variants/s6/k3r15k11y2k4r3~x2/sett.png" alt="Brodie (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brodie-2/">Brodie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brodie-2/"><img src="/variants/s6/k3r15k11y2k4r3~x2/sett.png" alt="Brodie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brodie-dress-2/">Brodie Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brodie-dress-2/"><img src="/variants/s6/k2r16k8y1k8r2/sett.png" alt="Brodie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

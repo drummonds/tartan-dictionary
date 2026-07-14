@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/t64k3g14k4t4k12lo4~x2/">Murray of Elibank</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/t64k3g14k4t4k12lo4~x2/"><img src="/variants/s7/t64k3g14k4t4k12lo4~x2/sett.png" alt="Murray of Elibank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murray-of-elibank/">Murray of Elibank</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murray-of-elibank/"><img src="/variants/s7/t64k3g14k4t4k12lo4~x2/sett.png" alt="Murray of Elibank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

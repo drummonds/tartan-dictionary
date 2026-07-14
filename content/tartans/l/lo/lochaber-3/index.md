@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/lochaber/"
 - name: "Lochaber"
   url: "/families/lochaber/"
+aliases:
+- "/setts/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbbbbbgygygyg/">BBBBBBBGYGYGYG</a></nav>
 A tartan of the [Lochaber](/families/lochaber/) family.
 Its design is pattern [BBBBBBBGYGYGYG](/stripes/bbbbbbbgygygyg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Lochaber** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1/">Lochaber</a></td><td><code>DO/20 N4 DO12 N24 DO4 N12 DO4 DY20 LY4 DY12 LY24 DY4 LY12 DY/2</code></td><td>294</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1/"><img src="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/sett.png" alt="Lochaber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/">Lochaber</a></td><td><code>DO/20 N4 DO12 N24 DO4 N12 DO4 DY20 LY4 DY12 LY24 DY4 LY12 DY/2</code></td><td>294</td><td>1996</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/"><img src="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/sett.png" alt="Lochaber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6~x2/"><circle cx="167.5" cy="242.0" r="4" fill="#3465a4"><title>Glenmorangie</title></circle></a><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/"><circle cx="120.0" cy="242.3" r="4" fill="#3465a4"><title>Black Watch Dress, Brown/Grey</title></circle></a><a href="/variants/s16/g6ly1dr2ly1dr2ly1db6ly1db6ly1dr2ly1dr2ly1g6dr1~x8/"><circle cx="146.8" cy="222.9" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><circle cx="168.4" cy="227.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6~x2/"><circle cx="167.4" cy="241.8" r="4" fill="#3465a4"><title>Glenmorangie</title></circle></a><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/"><circle cx="119.9" cy="242.0" r="4" fill="#3465a4"><title>Black Watch Dress, Brown/Grey</title></circle></a><a href="/variants/s16/g6ly1dr2ly1dr2ly1db6ly1db6ly1dr2ly1dr2ly1g6dr1~x8/"><circle cx="146.7" cy="222.7" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><circle cx="168.3" cy="227.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

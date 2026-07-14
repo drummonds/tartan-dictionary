@@ -8,10 +8,10 @@ crumbs:
 - name: "Lions"
   url: "/tartans/l/li/lions/"
 - name: "Lions Canadian Tartan"
-  url: "/setts/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/li/lions/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWKGBWGBKWBWWWBWBKW](/stripes/bwwkgbwgbkwbwwwbwbkw/).
 
 Part of the [Lions](/tartans/l/li/lions/) tartan — the named design grouping this sett with its other cloths.

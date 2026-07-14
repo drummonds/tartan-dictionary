@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k8dr3lb4dg4lb48k48dg4k4dy3lb8~dg1804158/">Kingsbarns Golf Links</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k8dr3lb4dg4lb48k48dg4k4dy3lb8~dg1804158/"><img src="/variants/s10/k8dr3lb4dg4lb48k48dg4k4dy3lb8~dg1804158/sett.png" alt="Kingsbarns Golf Links sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kingsbarns-golf-links/">Kingsbarns Golf Links</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kingsbarns-golf-links/"><img src="/variants/s10/k8dr3lb4dg4lb48k48dg4k4dy3lb8~dg1804158/sett.png" alt="Kingsbarns Golf Links sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Heather"
   url: "/tartans/h/he/heather-2/"
 - name: "Heather (R.S.S.P.C.C.) Corporate Tartan"
-  url: "/setts/db4w3lb28w3dp16w4dp8lp46g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4w3lb28w3dp16w4dp8lp46g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/he/heather-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWWBWBWG](/stripes/bwwwbwbwg/).
 
 Part of the [Heather](/tartans/h/he/heather-2/) tartan — the named design grouping this sett with its other cloths.

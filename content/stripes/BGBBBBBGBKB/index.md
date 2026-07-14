@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/">Rabbie Burns</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/"><img src="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/sett.png" alt="Rabbie Burns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rabbie-burns/">Rabbie Burns</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rabbie-burns/"><img src="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/sett.png" alt="Rabbie Burns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

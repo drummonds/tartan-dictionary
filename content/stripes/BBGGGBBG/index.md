@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dp30n20dg8y3dg8n20dp30y2/">Wicks (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dp30n20dg8y3dg8n20dp30y2/"><img src="/variants/s8/dp30n20dg8y3dg8n20dp30y2~x2/sett.png" alt="Wicks (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wicks-2/">Wicks</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wicks-2/"><img src="/variants/s8/dp30n20dg8y3dg8n20dp30y2~x2/sett.png" alt="Wicks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

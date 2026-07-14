@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s32/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2~x2/">Strathearn Dress (Fashion?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s32/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2~x2/"><img src="/variants/s32/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2~x2/sett.png" alt="Strathearn Dress (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathearn-dress/">Strathearn Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathearn-dress/"><img src="/variants/s32/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2~x2/sett.png" alt="Strathearn Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s31/lri8k1lr2k1lri2k8dp8lb2dp1k2lb2dp8k8lri8k2lr1k2lri8k8dp8lb1dp2k1dp2lb1lri8k8lri2k2lr1k2~x2~lri3203019-lr2805035/">McLosek (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s31/lri8k1lr2k1lri2k8dp8lb2dp1k2lb2dp8k8lri8k2lr1k2lri8k8dp8lb1dp2k1dp2lb1lri8k8lri2k2lr1k2~x2~lri3203019-lr2805035/"><img src="/variants/s31/lri8k1lr2k1lri2k8dp8lb2dp1k2lb2dp8k8lri8k2lr1k2lri8k8dp8lb1dp2k1dp2lb1lri8k8lri2k2lr1k2~x2~lri3203019-lr2805035/sett.png" alt="McLosek (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mclosek/">McLosek</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mclosek/"><img src="/variants/s31/lri8k1lr2k1lri2k8dp8lb2dp1k2lb2dp8k8lri8k2lr1k2lri8k8dp8lb1dp2k1dp2lb1lri8k8lri2k2lr1k2~x2~lri3203019-lr2805035/sett.png" alt="McLosek sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

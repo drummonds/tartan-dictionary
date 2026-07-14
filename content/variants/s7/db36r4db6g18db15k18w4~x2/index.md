@@ -8,15 +8,15 @@ crumbs:
 - name: "Grainger"
   url: "/tartans/g/gr/grainger/"
 - name: "Grainger"
-  url: "/setts/db36r4db6g18db15k18w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db36r4db6g18db15k18w4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBGBKWKBGBR](/stripes/brbgbkwkbgbr/).
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grainger/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBGBKW](/stripes/brbgbkw/).
 
 Part of the [Grainger](/tartans/g/gr/grainger/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1488](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1488)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1488](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1968 — Grainger (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1488">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Designed by Dr Phil Smith of Georgia in 1968 for a Paul Grainger of West Chester, Pennsylvania. See also #2226 (original Scottish Tartans Authority reference) said to have been designed by a Steve Granger of Germany. This Grainger tartan can be worn by all of the name.</em></li>
-<li>1968 — Grainger (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6603">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Designed by Dr Phil Smith in 1968 for a Paul Grainger of West Chester, Pennsylvania. See also #2226 said to have been designed by a Steve Granger of Germany. This Grainger tartan can be worn by all of the name.</em></li>
+<li>1968 — Grainger (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6603/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="CW #FCFCFC"></span><br><em>Designed by Dr Phil Smith in 1968 for a Paul Grainger of West Chester, Pennsylvania. See also #2226 said to have been designed by a Steve Granger of Germany. This Grainger tartan can be worn by all of the name.</em></li>
 </ul>
 </details>
 
@@ -52,9 +52,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6603
 
 ## Thread count
-DB/72 R8 DB12 G36 DB30 K36 W8 K36 DB30 G36 DB12 R/8
+DB/72 R8 DB12 G36 DB30 K36 W/8
 
-One full sett is **568 threads**.
+One full sett is **324 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/72 R8 DB12 G36 DB30 K36 W8 K36 DB30 G36 DB12 R/8 — 568 threads; it folds to the canonical 324-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -63,7 +65,7 @@ One full sett is **568 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/72 R8 DB12 G36 DB30 K36 W8 K36 DB30 G36 DB12 R/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/72 R8 DB12 G36 DB30 K36 W/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lb12y2lb1k5lb4k2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwkwgw/">KWKWGW</a></nav>
 Its design is pattern [KWKWGW](/stripes/kwkwgw/) — the page of every tartan sharing this colour sequence.
 
 The **Rea** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Rea** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb12y2lb1k5lb4k2/">Rea</a></td><td><code>LB/48 Y8 LB4 K20 LB16 K/8</code></td><td>152</td><td>1973</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb12y2lb1k5lb4k2/"><img src="/variants/s6/lb12y2lb1k5lb4k2~x4/sett.png" alt="Rea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/">Rea</a></td><td><code>LB/48 Y8 LB4 K20 LB16 K/8</code></td><td>152</td><td>1973</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><img src="/variants/s6/lb12y2lb1k5lb4k2~x4/sett.png" alt="Rea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/b40k4b12k21b17w4~x2/"><circle cx="366.5" cy="194.9" r="4" fill="#3465a4"><title>Granger</title></circle></a><a href="/variants/s6/r1t8k3t1k3t1~x8/"><circle cx="298.2" cy="198.4" r="4" fill="#3465a4"><title>Mackay</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="277.9" cy="128.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s6/k30t40dy3t5w2t6~x2/"><circle cx="320.1" cy="142.3" r="4" fill="#3465a4"><title>Micron</title></circle></a><a href="/variants/s7/k3lb10dy5lb29k10r6k2~x2/"><circle cx="266.2" cy="141.1" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><a href="/variants/s6/lb3k3lb3k3n15dr1~x4/"><circle cx="270.4" cy="159.4" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="404.5" cy="169.4" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="259.6" cy="172.4" r="4" fill="#3465a4"><title>Indian Pipe Band</title></circle></a><a href="/variants/s7/r5k3lb22k17lb22k3y5~x2/"><circle cx="225.5" cy="183.8" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/variants/s5/k27w29k5w14r2~x2/"><circle cx="279.2" cy="186.6" r="4" fill="#3465a4"><title>McPartlin</title></circle></a><circle cx="333.0" cy="182.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/b40k4b12k21b17w4~x2/"><circle cx="367.5" cy="195.1" r="4" fill="#3465a4"><title>Granger</title></circle></a><a href="/variants/s6/r1t8k3t1k3t1~x8/"><circle cx="299.0" cy="198.5" r="4" fill="#3465a4"><title>Mackay</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="278.7" cy="128.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s6/k30t40dy3t5w2t6~x2/"><circle cx="321.1" cy="142.4" r="4" fill="#3465a4"><title>Micron</title></circle></a><a href="/variants/s7/k3lb10dy5lb29k10r6k2~x2/"><circle cx="267.1" cy="141.0" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><a href="/variants/s6/lb3k3lb3k3n15dr1~x4/"><circle cx="271.1" cy="159.4" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="405.6" cy="169.6" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="260.3" cy="172.3" r="4" fill="#3465a4"><title>Indian Pipe Band</title></circle></a><a href="/variants/s7/r5k3lb22k17lb22k3y5~x2/"><circle cx="226.1" cy="183.7" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/variants/s5/k27w29k5w14r2~x2/"><circle cx="280.0" cy="186.6" r="4" fill="#3465a4"><title>McPartlin</title></circle></a><circle cx="333.9" cy="182.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

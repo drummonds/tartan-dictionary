@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/">Bermuda Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/"><img src="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/sett.png" alt="Bermuda Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/">Bermuda, Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/"><img src="/variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/sett.png" alt="Bermuda, Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/bermuda/">Bermuda</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/bermuda/"><img src="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/sett.png" alt="Bermuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

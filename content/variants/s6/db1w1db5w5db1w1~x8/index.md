@@ -10,10 +10,10 @@ crumbs:
 - name: "Erskine Blanket"
   url: "/tartans/e/er/erskine-blanket/"
 - name: "Erskine Blanket"
-  url: "/setts/db1w1db5w5db1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1w1db5w5db1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/er/erskine-blanket/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
 
 Part of the [Erskine Blanket](/tartans/e/er/erskine-blanket/) tartan — the named design grouping this sett with its other cloths.

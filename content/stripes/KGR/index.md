@@ -28,18 +28,20 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k11g17r3/">Kincaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k11g17r3/"><img src="/variants/s3/k11g17r3/sett.png" alt="Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k4g6r1~x10/">Kincaid of Kincaid Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k4g6r1~x10/"><img src="/variants/s3/k4g6r1~x10/sett.png" alt="Kincaid of Kincaid Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k27dg10r2~x4/">The Caledonian Hotel</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k27dg10r2~x4/"><img src="/variants/s3/k27dg10r2~x4/sett.png" alt="The Caledonian Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k11g9r10~x2/">Wilson's No.204</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k11g9r10~x2/"><img src="/variants/s3/k11g9r10~x2/sett.png" alt="Wilson's No.204 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k1g1r1~x8/">Wilson's, No 187</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k1g1r1~x8/"><img src="/variants/s3/k1g1r1~x8/sett.png" alt="Wilson's, No 187 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k5g4r2~x2/">Wilson's, No 94</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k5g4r2~x2/"><img src="/variants/s3/k5g4r2~x2/sett.png" alt="Wilson's, No 94 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-lyon-3/">Glen Lyon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-lyon-3/"><img src="/variants/s3/k6g5r2~x2/sett.png" alt="Glen Lyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kincaid/">Kincaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kincaid/"><img src="/variants/s3/k11g17r3/sett.png" alt="Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kincaid-of-kincaid/">Kincaid of Kincaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kincaid-of-kincaid/"><img src="/variants/s3/k4g6r1~x10/sett.png" alt="Kincaid of Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/the-caledonian-hotel/">The Caledonian Hotel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/the-caledonian-hotel/"><img src="/variants/s3/k27dg10r2~x4/sett.png" alt="The Caledonian Hotel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-187/">Wilson's No.187</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-187/"><img src="/variants/s3/k1g1r1~x8~r2109032/sett.png" alt="Wilson's No.187 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-204/">Wilson's No.204</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-204/"><img src="/variants/s3/k11g9r10~x2/sett.png" alt="Wilson's No.204 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-94/">Wilson's, No 94</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-94/"><img src="/variants/s3/k5g4r2~x2/sett.png" alt="Wilson's, No 94 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Lamont"
   url: "/tartans/l/la/lamont-2/"
 - name: "Lamont #2"
-  url: "/setts/dp11dy2dp2dy2dp2dy11g14w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp11dy2dp2dy2dp2dy11g14w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/la/lamont-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGGW](/stripes/bgbgbggw/).
 
 Part of the [Lamont](/tartans/l/la/lamont-2/) tartan — the named design grouping this sett with its other cloths.

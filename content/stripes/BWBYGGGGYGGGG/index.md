@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg25g7dg25g7lg5dg25g7dg25g7lg5dr2w2dr2~x2~g2208144-lg3105139/">Pino Family (Pennsylvania) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg25g7dg25g7lg5dg25g7dg25g7lg5dr2w2dr2~x2~g2208144-lg3105139/"><img src="/variants/s13/dg25g7dg25g7lg5dg25g7dg25g7lg5dr2w2dr2~x2~g2208144-lg3105139/sett.png" alt="Pino Family (Pennsylvania) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pino/">Pino</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pino/"><img src="/variants/s13/dg25g7dg25g7lg5dg25g7dg25g7lg5dr2w2dr2~x2~g2208144-lg3105139/sett.png" alt="Pino sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

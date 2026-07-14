@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/">New Brunswick, or Beaverbrook</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/"><img src="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/sett.png" alt="New Brunswick, or Beaverbrook sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-brunswick-or-beaverbrook-2/">New Brunswick, or Beaverbrook</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-brunswick-or-beaverbrook-2/"><img src="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/sett.png" alt="New Brunswick, or Beaverbrook sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

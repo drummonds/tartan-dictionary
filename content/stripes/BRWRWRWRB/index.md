@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db25r46w11r11w7r11w11r46db12/">Twilfit</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db25r46w11r11w7r11w11r46db12/"><img src="/variants/s9/db25r46w11r11w7r11w11r46db12/sett.png" alt="Twilfit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tw/twilfit/">Twilfit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tw/twilfit/"><img src="/variants/s9/db25r46w11r11w7r11w11r46db12/sett.png" alt="Twilfit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

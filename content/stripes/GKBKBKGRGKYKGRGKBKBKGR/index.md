@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2~x2~ly3307090/">Paterson Clan/Family Weavers Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2~x2~ly3307090/"><img src="/variants/s22/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2~x2~ly3307090/sett.png" alt="Paterson Clan/Family Weavers Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/paterson-clan-family-weavers/">Paterson Clan/Family Weavers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/paterson-clan-family-weavers/"><img src="/variants/s22/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2~x2~ly3307090/sett.png" alt="Paterson Clan/Family Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

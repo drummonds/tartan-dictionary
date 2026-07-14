@@ -12,10 +12,10 @@ crumbs:
 - name: "Paton"
   url: "/tartans/p/pa/paton/"
 - name: "Paton Family Tartan"
-  url: "/setts/r3g24k28g19y3g3y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3g24k28g19y3g3y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pa/paton/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGKGR](/stripes/ggggkgr/).
 
 Part of the [Paton](/tartans/p/pa/paton/) tartan — the named design grouping this sett with its other cloths.

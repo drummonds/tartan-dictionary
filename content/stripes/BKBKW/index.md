@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dr3k1t27k27w3~x2/">Bro-Spirit of Northmen (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr3k1t27k27w3~x2/"><img src="/variants/s5/dr3k1t27k27w3~x2/sett.png" alt="Bro-Spirit of Northmen (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bro-spirit-of-northmen/">Bro-Spirit of Northmen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bro-spirit-of-northmen/"><img src="/variants/s5/dr3k1t27k27w3~x2/sett.png" alt="Bro-Spirit of Northmen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/b30k12db12k2w3~x2/">MacNeil - 1994 (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/b30k12db12k2w3~x2/"><img src="/variants/s5/b30k12db12k2w3~x2/sett.png" alt="MacNeil - 1994 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macneil-3/">MacNeil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macneil-3/"><img src="/variants/s5/b30k12db12k2w3~x2/sett.png" alt="MacNeil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

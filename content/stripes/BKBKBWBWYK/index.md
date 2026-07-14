@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/">California Riverside, Uni. (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/"><img src="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/sett.png" alt="California Riverside, Uni. (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/california-riverside-uni/">California Riverside, Uni.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/california-riverside-uni/"><img src="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/sett.png" alt="California Riverside, Uni. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

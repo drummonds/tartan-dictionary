@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/">Nocken Blue Modern Tartan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/"><img src="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/sett.png" alt="Nocken Blue Modern Tartan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/nocken/">Nocken</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nocken/"><img src="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/sett.png" alt="Nocken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

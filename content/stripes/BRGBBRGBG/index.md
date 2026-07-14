@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dy2n1dy1o3n3db3dy2r2db1~x4/">Titanic</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dy2n1dy1o3n3db3dy2r2db1~x4/"><img src="/variants/s9/dy2n1dy1o3n3db3dy2r2db1~x4/sett.png" alt="Titanic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ti/titanic-2/">Titanic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ti/titanic-2/"><img src="/variants/s9/dy2n1dy1o3n3db3dy2r2db1~x4/sett.png" alt="Titanic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

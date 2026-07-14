@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k4r1k3ly1k1w1k1dy8g12r1g2k1~x4/">Murphy (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k4r1k3ly1k1w1k1dy8g12r1g2k1~x4/"><img src="/variants/s12/k4r1k3ly1k1w1k1dy8g12r1g2k1~x4/sett.png" alt="Murphy (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/">Tara (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/"><img src="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/sett.png" alt="Tara (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murphy/">Murphy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murphy/"><img src="/variants/s12/k4r1k3ly1k1w1k1dy8g12r1g2k1~x4/sett.png" alt="Murphy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tara/">Tara</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tara/"><img src="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/sett.png" alt="Tara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

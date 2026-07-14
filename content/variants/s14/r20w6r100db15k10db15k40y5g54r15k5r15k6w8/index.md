@@ -8,10 +8,10 @@ crumbs:
 - name: "Unidentified Bedspread"
   url: "/tartans/u/un/unidentified-bedspread/"
 - name: "Unidentified Bedspread"
-  url: "/setts/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-bedspread/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRBKBKGGRKRKW](/stripes/rwrbkbkggrkrkw/).
 
 Part of the [Unidentified Bedspread](/tartans/u/un/unidentified-bedspread/) tartan — the named design grouping this sett with its other cloths.

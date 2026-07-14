@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/">Strathtay (District?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/"><img src="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/sett.png" alt="Strathtay (District?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/strathtay-3/">Strathtay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/strathtay-3/"><img src="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/sett.png" alt="Strathtay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

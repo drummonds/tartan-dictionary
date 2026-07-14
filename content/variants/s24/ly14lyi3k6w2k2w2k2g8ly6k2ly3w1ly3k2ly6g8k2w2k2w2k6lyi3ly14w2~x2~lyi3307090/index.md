@@ -8,10 +8,10 @@ crumbs:
 - name: "O'Farrell"
   url: "/tartans/o/o/o-farrell-3/"
 - name: "O'Farrell"
-  url: "/setts/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/o/o-farrell-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYYKWKWKGYKYWYKYGKWKWKYY](/stripes/wyykwkwkgykywykygkwkwkyy/).
 
 Part of the [O'Farrell](/tartans/o/o/o-farrell-3/) tartan — the named design grouping this sett with its other cloths.

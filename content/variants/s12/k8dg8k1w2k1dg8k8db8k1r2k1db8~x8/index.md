@@ -12,10 +12,10 @@ crumbs:
 - name: "Mackenzie of Woodstock"
   url: "/tartans/m/ma/mackenzie-of-woodstock/"
 - name: "Mackenzie of Woodstock"
-  url: "/setts/k8dg8k1w2k1dg8k8db8k1r2k1db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k8dg8k1w2k1dg8k8db8k1r2k1db8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mackenzie-of-woodstock/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKBKGKWKGK](/stripes/bkrkbkgkwkgk/).
 
 Part of the [Mackenzie of Woodstock](/tartans/m/ma/mackenzie-of-woodstock/) tartan — the named design grouping this sett with its other cloths.

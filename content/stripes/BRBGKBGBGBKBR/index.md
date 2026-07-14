@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/">Balmoral</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/"><img src="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/sett.png" alt="Balmoral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/">Balmoral, Gillies</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"><img src="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/sett.png" alt="Balmoral, Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/balmoral-3/">Balmoral</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/balmoral-3/"><img src="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/sett.png" alt="Balmoral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/balmoral-gillies-2/">Balmoral, Gillies</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/balmoral-gillies-2/"><img src="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/sett.png" alt="Balmoral, Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

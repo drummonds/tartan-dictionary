@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/">Kagame (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/"><img src="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/sett.png" alt="Kagame (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ka/kagame/">Kagame</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/kagame/"><img src="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/sett.png" alt="Kagame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/">Walls, Steve C (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/"><img src="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/sett.png" alt="Walls, Steve C (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/walls-steve-c-2/">Walls, Steve C</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/walls-steve-c-2/"><img src="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/sett.png" alt="Walls, Steve C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

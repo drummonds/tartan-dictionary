@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dbi4dp8dbi3dp2dbi64lb24r4db3lb4db3w8r4~dbi1003265-db0906265/">Royal Navy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dbi4dp8dbi3dp2dbi64lb24r4db3lb4db3w8r4~dbi1003265-db0906265/"><img src="/variants/s12/dbi4dp8dbi3dp2dbi64lb24r4db3lb4db3w8r4~dbi1003265-db0906265/sett.png" alt="Royal Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-navy/">Royal Navy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-navy/"><img src="/variants/s12/dbi4dp8dbi3dp2dbi64lb24r4db3lb4db3w8r4~dbi1003265-db0906265/sett.png" alt="Royal Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

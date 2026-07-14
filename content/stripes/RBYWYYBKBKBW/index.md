@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/">Murison, Ina</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/"><img src="/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/sett.png" alt="Murison, Ina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mu/murison-ina/">Murison, Ina</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mu/murison-ina/"><img src="/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/sett.png" alt="Murison, Ina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

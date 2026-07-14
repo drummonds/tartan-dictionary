@@ -8,10 +8,10 @@ crumbs:
 - name: "Londonderry"
   url: "/tartans/l/lo/londonderry/"
 - name: "Londonderry"
-  url: "/setts/b6k2g12dg8b5k2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b6k2g12dg8b5k2g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/londonderry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGBKG](/stripes/bkggbkg/).
 
 Part of the [Londonderry](/tartans/l/lo/londonderry/) tartan — the named design grouping this sett with its other cloths.

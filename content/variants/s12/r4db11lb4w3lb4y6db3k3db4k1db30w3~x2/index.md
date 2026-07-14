@@ -8,10 +8,10 @@ crumbs:
 - name: "Murison"
   url: "/tartans/m/mu/murison/"
 - name: "Murison (2014)"
-  url: "/setts/r4db11lb4w3lb4y6db3k3db4k1db30w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4db11lb4w3lb4y6db3k3db4k1db30w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murison/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWWWGBKBKBW](/stripes/rbwwwgbkbkbw/).
 
 Part of the [Murison](/tartans/m/mu/murison/) tartan — the named design grouping this sett with its other cloths.

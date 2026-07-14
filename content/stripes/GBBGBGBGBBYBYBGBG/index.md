@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/">Fermanagh, County (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/"><img src="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/sett.png" alt="Fermanagh, County (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/fermanagh-county-2/">Fermanagh, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/fermanagh-county-2/"><img src="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/sett.png" alt="Fermanagh, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

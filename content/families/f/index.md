@@ -3,7 +3,7 @@ title: "Families & clans — F"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-65 clans and families beginning with F. [Back to the A–Z](/families/).
+64 clans and families beginning with F. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s7/k10dp4db25w1g13db13r3~x2/"><strong>Faber</strong></a></li>
@@ -45,7 +45,6 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/forbes/"><img src="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2/sett.png" alt="Forbes" width="140"><br><strong>Forbes</strong></a></li>
 <li><a class="tartan" href="/families/forbes-of-druinnor/"><img src="/variants/s16/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2~x2/sett.png" alt="Forbes of Druinnor" width="140"><br><strong>Forbes of Druinnor</strong></a></li>
 <li><a class="tartan" href="/families/forbes-of-druminnor/"><img src="/variants/s18/k6db3dg4r8dg13k3dg3k3dg3k3dg4db4dy3db3dy3db3dy3db3~x2/sett.png" alt="Forbes of Druminnor" width="140"><br><strong>Forbes of Druminnor</strong></a></li>
-<li><a class="tartan" href="/families/forfar/"><img src="/variants/s10/lb3dy1lb23w20ly1w4db22lb4db4r1~x2/sett.png" alt="Forfar" width="140"><br><strong>Forfar</strong></a></li>
 <li><a class="tartan" href="/families/forget/"><img src="/variants/s6/g8y1g8y12r1y1~x4/sett.png" alt="Forget" width="140"><br><strong>Forget</strong></a></li>
 <li><a class="tartan" href="/families/forrester/"><img src="/variants/s8/db16r14g16dy3g16r14db16w3~x2/sett.png" alt="Forrester" width="140"><br><strong>Forrester</strong></a></li>
 <li><a class="tartan" href="/families/forsyth/"><img src="/variants/s10/k23lb25r4lb25k23y2g25k4g25y2~x2/sett.png" alt="Forsyth" width="140"><br><strong>Forsyth</strong></a></li>

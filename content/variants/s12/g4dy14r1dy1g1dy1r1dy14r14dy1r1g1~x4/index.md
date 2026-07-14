@@ -12,10 +12,10 @@ crumbs:
 - name: "Frame"
   url: "/tartans/f/fr/frame-3/"
 - name: "Frame (Ferniegair) (Personal)"
-  url: "/setts/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/frame-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGGGRGRGRG](/stripes/ggrgggrgrgrg/).
 
 Part of the [Frame](/tartans/f/fr/frame-3/) tartan — the named design grouping this sett with its other cloths.

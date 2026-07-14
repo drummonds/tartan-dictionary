@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/">Lomond Mist</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/"><img src="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/sett.png" alt="Lomond Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lomond-mist/">Lomond Mist</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lomond-mist/"><img src="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/sett.png" alt="Lomond Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

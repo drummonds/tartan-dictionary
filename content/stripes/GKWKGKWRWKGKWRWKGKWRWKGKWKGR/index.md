@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22~x2/">Wilson's No.017</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22~x2/"><img src="/variants/s28/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22~x2/sett.png" alt="Wilson's No.017 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-017/">Wilson's No.017</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-017/"><img src="/variants/s28/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22~x2/sett.png" alt="Wilson's No.017 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Moon"
   url: "/tartans/m/mo/moon/"
 - name: "Moon (Georgia, USA)"
-  url: "/setts/w4k1r5db3r8g8k1y3k1lb4db27lb4k1y3k1g8r8db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4k1r5db3r8g8k1y3k1lb4db27lb4k1y3k1g8r8db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/moon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGKGKWBWKGKGRBRKW](/stripes/brgkgkwbwkgkgrbrkw/).
 
 Part of the [Moon](/tartans/m/mo/moon/) tartan — the named design grouping this sett with its other cloths.

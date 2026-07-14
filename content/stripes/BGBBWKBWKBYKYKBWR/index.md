@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db4dy2db4n6w2k2n6w2k2n13ly3k4ly3k8db6w2r4~x2/">Clauweart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db4dy2db4n6w2k2n6w2k2n13ly3k4ly3k8db6w2r4~x2/"><img src="/variants/s17/db4dy2db4n6w2k2n6w2k2n13ly3k4ly3k8db6w2r4~x2/sett.png" alt="Clauweart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clauweart/">Clauweart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clauweart/"><img src="/variants/s17/db4dy2db4n6w2k2n6w2k2n13ly3k4ly3k8db6w2r4~x2/sett.png" alt="Clauweart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/">Nicolson of Harris (Clan?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><img src="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/sett.png" alt="Nicolson of Harris (Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ni/nicolson-of-harris/">Nicolson of Harris</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ni/nicolson-of-harris/"><img src="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/sett.png" alt="Nicolson of Harris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

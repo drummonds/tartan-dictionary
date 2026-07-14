@@ -8,10 +8,10 @@ crumbs:
 - name: "Eastern States Exposition-West Springfield"
   url: "/tartans/e/ea/eastern-states-exposition-west-springfield/"
 - name: "Eastern States Exposition-West Springfield"
-  url: "/setts/dp1g1db2y1db16lb16db1w2r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp1g1db2y1db16lb16db1w2r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ea/eastern-states-exposition-west-springfield/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWBWR](/stripes/bgbgbwbwr/).
 
 Part of the [Eastern States Exposition-West Springfield](/tartans/e/ea/eastern-states-exposition-west-springfield/) tartan — the named design grouping this sett with its other cloths.

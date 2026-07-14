@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Gudbrandsdalen"
   url: "/clan/gudbrandsdalen/"
+aliases:
+- "/setts/r65w1r6k8g8r6k3r11/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkrgkrwr/">RKRGKRWR</a></nav>
 A tartan of [Clan Gudbrandsdalen](/clan/gudbrandsdalen/).
 Its design is pattern [RKRGKRWR](/stripes/rkrgkrwr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Gudbrandsdalen, Rondastakken** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r65w1r6k8g8r6k3r11/">Gudbrandsdalen, Rondastakken</a></td><td><code>R/130 W2 R12 K16 G16 R12 K6 R/22</code></td><td>280</td><td>1830</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r65w1r6k8g8r6k3r11/"><img src="/variants/s8/r65w1r6k8g8r6k3r11~x2/sett.png" alt="Gudbrandsdalen, Rondastakken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/">Gudbrandsdalen, Rondastakken</a></td><td><code>R/130 W2 R12 K16 G16 R12 K6 R/22</code></td><td>280</td><td>1830</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><img src="/variants/s8/r65w1r6k8g8r6k3r11~x2/sett.png" alt="Gudbrandsdalen, Rondastakken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -35,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="98.2" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="606.8" cy="82.2" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="532.6" cy="47.6" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="491.0" cy="96.2" r="4" fill="#3465a4"><title>Rose of Kilravock</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="490.4" cy="89.2" r="4" fill="#3465a4"><title>MacAndrew Dress</title></circle></a><a href="/variants/s7/k2r1k2r14w1r1w1~x8/"><circle cx="416.9" cy="108.7" r="4" fill="#3465a4"><title>White Stripes Dress</title></circle></a><a href="/variants/s7/r44lb3k22r5k2r3w2~x2/"><circle cx="355.3" cy="90.5" r="4" fill="#3465a4"><title>Hilton Champion Corporate Golf</title></circle></a><a href="/variants/s11/r45k3y4k3r45k1dp2k1r2g8r2~x2/"><circle cx="518.8" cy="34.9" r="4" fill="#3465a4"><title>O'Malley</title></circle></a><a href="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/"><circle cx="405.2" cy="14.0" r="4" fill="#3465a4"><title>Brittish Lions</title></circle></a><a href="/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/"><circle cx="535.1" cy="40.2" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><circle cx="530.3" cy="50.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="98.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="608.4" cy="82.6" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="534.3" cy="48.0" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="492.5" cy="96.5" r="4" fill="#3465a4"><title>Rose of Kilravock</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="491.8" cy="89.4" r="4" fill="#3465a4"><title>MacAndrew Dress</title></circle></a><a href="/variants/s7/k2r1k2r14w1r1w1~x8/"><circle cx="418.2" cy="108.9" r="4" fill="#3465a4"><title>White Stripes Dress</title></circle></a><a href="/variants/s7/r44lb3k22r5k2r3w2~x2/"><circle cx="356.5" cy="90.6" r="4" fill="#3465a4"><title>Hilton Champion Corporate Golf</title></circle></a><a href="/variants/s11/r45k3y4k3r45k1dp2k1r2g8r2~x2/"><circle cx="520.4" cy="35.1" r="4" fill="#3465a4"><title>O'Malley</title></circle></a><a href="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/"><circle cx="406.5" cy="14.0" r="4" fill="#3465a4"><title>Brittish Lions</title></circle></a><a href="/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/"><circle cx="536.8" cy="40.5" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><circle cx="532.0" cy="50.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

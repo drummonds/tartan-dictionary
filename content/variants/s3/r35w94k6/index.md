@@ -8,10 +8,10 @@ crumbs:
 - name: "St Georges Check"
   url: "/tartans/s/st/st-georges-check/"
 - name: "St Georges Check"
-  url: "/setts/r35w94k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r35w94k6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-georges-check/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWR](/stripes/kwr/).
 
 Part of the [St Georges Check](/tartans/s/st/st-georges-check/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10303](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>07/10/2010 — St Georges Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10303">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>This design is based on the St George Cross and is to be used for trousers, shorts, jackets, waistcoasts and accessories, but not for kilts.</em></li>
-<li>7th Oct. 2010 — St. George's Check (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10303">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D40000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #D40000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>This design is based on the St George Cross and is to be used for trousers, shorts, jackets, waistcoats and accessories, but not for kilts. Can only be purchased from Clan Scotland or Slanj</em></li>
+<li>7th Oct. 2010 — St. George's Check (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10303/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D40000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #D40000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>This design is based on the St George Cross and is to be used for trousers, shorts, jackets, waistcoats and accessories, but not for kilts. Can only be purchased from Clan Scotland or Slanj</em></li>
 </ul>
 </details>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Manx Dress"
   url: "/tartans/m/ma/manx-dress/"
 - name: "Manx Dress District Tartan"
-  url: "/setts/g4w28dp8y2db17g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4w28dp8y2db17g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/manx-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBWG](/stripes/gbgbwg/).
 
 Part of the [Manx Dress](/tartans/m/ma/manx-dress/) tartan — the named design grouping this sett with its other cloths.

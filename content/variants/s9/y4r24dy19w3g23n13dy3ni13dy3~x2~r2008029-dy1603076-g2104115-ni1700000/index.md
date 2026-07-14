@@ -12,10 +12,10 @@ crumbs:
 - name: "Teallach"
   url: "/tartans/t/te/teallach/"
 - name: "Teallach"
-  url: "/setts/y4r24dy19w3g23n13dy3ni13dy3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4r24dy19w3g23n13dy3ni13dy3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/te/teallach/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGWGRG](/stripes/gbgbgwgrg/).
 
 Part of the [Teallach](/tartans/t/te/teallach/) tartan — the named design grouping this sett with its other cloths.

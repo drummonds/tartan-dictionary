@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/lr40g13lr6db13lr22~x2/">Burt's Highlanders (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lr40g13lr6db13lr22~x2/"><img src="/variants/s5/lr40g13lr6db13lr22~x2/sett.png" alt="Burt's Highlanders (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burt-s-highlanders/">Burt's Highlanders</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burt-s-highlanders/"><img src="/variants/s5/lr40g13lr6db13lr22~x2/sett.png" alt="Burt's Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

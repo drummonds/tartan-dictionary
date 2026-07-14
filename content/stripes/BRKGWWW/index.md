@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/">US Forces (Thurso) Regimental Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><img src="/variants/s7/db35r2k16y2lb25w2lb6~x2/sett.png" alt="US Forces (Thurso) Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/us/us-forces-regimental/">US Forces Regimental</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/us/us-forces-regimental/"><img src="/variants/s7/db35r2k16y2lb25w2lb6~x2/sett.png" alt="US Forces Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

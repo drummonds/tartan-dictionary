@@ -12,22 +12,22 @@ crumbs:
 - name: "Poulter"
   url: "/tartans/p/po/poulter-2/"
 - name: "Poulter, Green (Corporate)"
-  url: "/setts/o25k4o4k4o4k23g23y4g23k23o23k4o4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o25k4o4k4o4k23g23y4g23k23o23k4o4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/poulter-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKGGGKRKRKR](/stripes/rkrkgggkrkrkr/).
 
 Part of the [Poulter](/tartans/p/po/poulter-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7508](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7508)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7508/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7508/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2008 — Poulter, Green (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7508">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B8A87C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #B8A87C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>One of four colourways for corporate tartans for professional golfer Ian Poulter's fashion range. Woven in polyster/viscose. Count and sample from Lochcarron.</em></li>
+<li>pre 2008 — Poulter, Green (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7508/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B8A87C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #B8A87C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>One of four colourways for corporate tartans for professional golfer Ian Poulter's fashion range. Woven in polyster/viscose. Count and sample from Lochcarron.</em></li>
 <li>undated — Poulter Green (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5546">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#B8A87C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #B8A87C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>One of four colourways for corporate tartans for professional golfer Ian Poulter's fashion range. Woven in polyster/viscose. Count and sample from Lochcarron.</em></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7508](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

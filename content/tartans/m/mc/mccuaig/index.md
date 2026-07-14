@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/mccuaig/"
 - name: "McCuaig"
   url: "/families/mccuaig/"
+aliases:
+- "/setts/k10y3k2t20k10g15k2r3w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkbkgkrw/">KGKBKGKRW</a></nav>
 A tartan of the [McCuaig](/families/mccuaig/) family.
 Its design is pattern [KGKBKGKRW](/stripes/kgkbkgkrw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **McCuaig** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k10y3k2t20k10g15k2r3w3/">McCuaig</a></td><td><code>K/20 Y6 K4 T40 K20 G30 K4 R6 W/6</code></td><td>246</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k10y3k2t20k10g15k2r3w3/"><img src="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/sett.png" alt="McCuaig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/">McCuaig</a></td><td><code>K/20 Y6 K4 T40 K20 G30 K4 R6 W/6</code></td><td>246</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/"><img src="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/sett.png" alt="McCuaig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/"><circle cx="86.1" cy="160.9" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><a href="/variants/s10/k6g14t2r3t2k16y2ti16g16r3~x2~t2304245-ti2607245/"><circle cx="84.3" cy="162.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s7/y4k2t20k10g15k2r3~x2/"><circle cx="128.3" cy="181.0" r="4" fill="#3465a4"><title>Green MacLeod</title></circle></a><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="123.5" cy="138.4" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s9/dr2lb1g7r1k7g1db7r1g2~x8~dr1004029-r1606028/"><circle cx="86.1" cy="169.2" r="4" fill="#3465a4"><title>MacCraig</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="123.0" cy="174.7" r="4" fill="#3465a4"><title>Peebles Beltane Centenary</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1w2/"><circle cx="96.5" cy="185.9" r="4" fill="#3465a4"><title>Campbell Cawdor</title></circle></a><a href="/variants/s12/db7w3g3db18ly3k15ly3g17dr6g3dr2g7~x2/"><circle cx="83.6" cy="160.5" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/variants/s7/do8w8k16dg32db3y5w5~x2/"><circle cx="121.1" cy="155.1" r="4" fill="#3465a4"><title>Mellor, Phillip</title></circle></a><a href="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/"><circle cx="102.3" cy="137.0" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><circle cx="89.1" cy="153.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/"><circle cx="86.3" cy="160.6" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><a href="/variants/s10/k6g14t2r3t2k16y2ti16g16r3~x2~t2304245-ti2607245/"><circle cx="84.5" cy="161.9" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s7/y4k2t20k10g15k2r3~x2/"><circle cx="128.6" cy="180.8" r="4" fill="#3465a4"><title>Green MacLeod</title></circle></a><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="123.8" cy="138.1" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s9/dr2lb1g7r1k7g1db7r1g2~x8~dr1004029-r1606028/"><circle cx="86.3" cy="168.9" r="4" fill="#3465a4"><title>MacCraig</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="123.2" cy="174.5" r="4" fill="#3465a4"><title>Peebles Beltane Centenary</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1w2/"><circle cx="96.8" cy="185.6" r="4" fill="#3465a4"><title>Campbell Cawdor</title></circle></a><a href="/variants/s12/db7w3g3db18ly3k15ly3g17dr6g3dr2g7~x2/"><circle cx="83.8" cy="160.2" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/variants/s7/do8w8k16dg32db3y5w5~x2/"><circle cx="121.5" cy="154.8" r="4" fill="#3465a4"><title>Mellor, Phillip</title></circle></a><a href="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/"><circle cx="102.6" cy="136.7" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><circle cx="89.3" cy="152.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

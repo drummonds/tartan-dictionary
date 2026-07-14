@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/">Wojtek Memorial Trust</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/"><img src="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/sett.png" alt="Wojtek Memorial Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wo/wojtek-memorial-trust/">Wojtek Memorial Trust</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wo/wojtek-memorial-trust/"><img src="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/sett.png" alt="Wojtek Memorial Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

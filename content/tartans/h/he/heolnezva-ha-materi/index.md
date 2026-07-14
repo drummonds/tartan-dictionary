@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k80w1k6w2k5w3k4w4k3w5k2w6k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kwkwkwkwkwkwk/">KWKWKWKWKWKWK</a></nav>
 Its design is pattern [KWKWKWKWKWKWK](/stripes/kwkwkwkwkwkwk/) — the page of every tartan sharing this colour sequence.
 
 The **Heolnezva ha Materi** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Heolnezva ha Materi** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k80w1k6w2k5w3k4w4k3w5k2w6k1/">Heolnezva ha Materi</a></td><td><code>K/160 W2 K12 W4 K10 W6 K8 W8 K6 W10 K4 W12 K/2</code></td><td>326</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k80w1k6w2k5w3k4w4k3w5k2w6k1/"><img src="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/sett.png" alt="Heolnezva ha Materi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/">Heolnezva ha Materi</a></td><td><code>K/160 W2 K12 W4 K10 W6 K8 W8 K6 W10 K4 W12 K/2</code></td><td>326</td><td>~2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/"><img src="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/sett.png" alt="Heolnezva ha Materi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="528.7" cy="57.8" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="439.7" cy="92.4" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="479.7" cy="62.1" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="539.6" cy="36.9" r="4" fill="#3465a4"><title>London Fog</title></circle></a><a href="/variants/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="488.8" cy="79.9" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/variants/s8/k38y1w7y1k4y2k3y2~x2/"><circle cx="471.7" cy="62.4" r="4" fill="#3465a4"><title>Erck, Georges van</title></circle></a><circle cx="539.6" cy="19.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="530.5" cy="58.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="441.1" cy="92.7" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="481.5" cy="62.5" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="541.5" cy="37.4" r="4" fill="#3465a4"><title>London Fog</title></circle></a><a href="/variants/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="490.5" cy="80.3" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/variants/s8/k38y1w7y1k4y2k3y2~x2/"><circle cx="473.4" cy="62.8" r="4" fill="#3465a4"><title>Erck, Georges van</title></circle></a><circle cx="541.6" cy="19.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

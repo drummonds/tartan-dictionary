@@ -8,10 +8,10 @@ crumbs:
 - name: "Margach, William"
   url: "/tartans/m/ma/margach-william/"
 - name: "Margach, William (Dumbarton)"
-  url: "/setts/dp4k3b18r3db34w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp4k3b18r3db34w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/margach-william/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRBW](/stripes/bkbrbw/).
 
 Part of the [Margach, William](/tartans/m/ma/margach-william/) tartan — the named design grouping this sett with its other cloths.

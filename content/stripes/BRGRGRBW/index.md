@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dp2r9g8r4y1r4db10w2~x4/">De Maynard (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dp2r9g8r4y1r4db10w2~x4/"><img src="/variants/s8/dp2r9g8r4y1r4db10w2~x4/sett.png" alt="De Maynard (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/de-maynard/">De Maynard</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/de-maynard/"><img src="/variants/s8/dp2r9g8r4y1r4db10w2~x4/sett.png" alt="De Maynard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/db7r3g7r1g7r3db7lb1~x2/">Hebrides #8</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db7r3g7r1g7r3db7lb1~x2/"><img src="/variants/s8/db7r3g7r1g7r3db7lb1~x2/sett.png" alt="Hebrides #8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/hebrides-8/">Hebrides</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/hebrides-8/"><img src="/variants/s8/db7r3g7r1g7r3db7lb1~x2/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

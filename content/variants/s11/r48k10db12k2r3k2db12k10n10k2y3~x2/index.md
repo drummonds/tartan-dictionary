@@ -8,10 +8,10 @@ crumbs:
 - name: "Brooks Brothers"
   url: "/tartans/b/br/brooks-brothers/"
 - name: "Brooks Brothers (WCWM)"
-  url: "/setts/r48k10db12k2r3k2db12k10n10k2y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r48k10db12k2r3k2db12k10n10k2y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/brooks-brothers/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKRKBKR](/stripes/gkbkbkrkbkr/).
 
 Part of the [Brooks Brothers](/tartans/b/br/brooks-brothers/) tartan — the named design grouping this sett with its other cloths.

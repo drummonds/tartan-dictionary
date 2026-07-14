@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/">Maine, Original State of (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/"><img src="/variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/sett.png" alt="Maine, Original State of (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maine-original-state-of/">Maine, Original State of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maine-original-state-of/"><img src="/variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/sett.png" alt="Maine, Original State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

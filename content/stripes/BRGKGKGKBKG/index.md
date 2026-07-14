@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/">Princess Louise (Royal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><img src="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/sett.png" alt="Princess Louise (Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/princess-louise-2/">Princess Louise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-louise-2/"><img src="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/sett.png" alt="Princess Louise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

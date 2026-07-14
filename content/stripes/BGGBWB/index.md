@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/t5dy2dg4n3w1t5~x8/">Heriot Bay (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><img src="/variants/s6/t5dy2dg4n3w1t5~x8/sett.png" alt="Heriot Bay (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heriot-bay/">Heriot Bay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heriot-bay/"><img src="/variants/s6/t5dy2dg4n3w1t5~x8/sett.png" alt="Heriot Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db2w14dp4y1g8db2~x2/">Manx Laxey, dress green</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db2w14dp4y1g8db2~x2/"><img src="/variants/s6/db2w14dp4y1g8db2~x2/sett.png" alt="Manx Laxey, dress green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manx-laxey-dress/">Manx Laxey Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manx-laxey-dress/"><img src="/variants/s6/db2w14dp4y1g8db2~x2/sett.png" alt="Manx Laxey Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

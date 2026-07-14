@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/">Intelligent Finance (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/"><img src="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/sett.png" alt="Intelligent Finance (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/intelligent-finance/">Intelligent Finance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/intelligent-finance/"><img src="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/sett.png" alt="Intelligent Finance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

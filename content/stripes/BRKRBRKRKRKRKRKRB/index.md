@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/db4r1k1r1k4r1k1r1k4r1k1r1db4r1k1r1db4~x4/">Mary Stuart (Fashion?</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/db4r1k1r1k4r1k1r1k4r1k1r1db4r1k1r1db4~x4/"><img src="/variants/s17/db4r1k1r1k4r1k1r1k4r1k1r1db4r1k1r1db4~x4/sett.png" alt="Mary Stuart (Fashion? sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mary-stuart-fashion/">Mary Stuart (Fashion?</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mary-stuart-fashion/"><img src="/variants/s17/db4r1k1r1k4r1k1r1k4r1k1r1db4r1k1r1db4~x4/sett.png" alt="Mary Stuart (Fashion? sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

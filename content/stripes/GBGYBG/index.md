@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g4db36lg6g16db16g3/">City of Kincardine</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g4db36lg6g16db16g3/"><img src="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/sett.png" alt="City of Kincardine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-kincardine/">City of Kincardine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-kincardine/"><img src="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/sett.png" alt="City of Kincardine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

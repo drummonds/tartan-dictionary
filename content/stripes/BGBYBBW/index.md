@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dp2dg8dr1lo1db4dbi16lb1~x4~dp1508310-dbi1607286/">Ellan Vannin (1958)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp2dg8dr1lo1db4dbi16lb1~x4~dp1508310-dbi1607286/"><img src="/variants/s7/dp2dg8dr1lo1db4dbi16lb1~x4~dp1508310-dbi1607286/sett.png" alt="Ellan Vannin (1958) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/ellan-vannin/">Ellan Vannin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/ellan-vannin/"><img src="/variants/s7/dp2dg8dr1lo1db4dbi16lb1~x4~dp1508310-dbi1607286/sett.png" alt="Ellan Vannin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

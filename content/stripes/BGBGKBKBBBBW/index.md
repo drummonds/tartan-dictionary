@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/">Kinloch Anderson Castle Grey</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/"><img src="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/sett.png" alt="Kinloch Anderson Castle Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinloch-anderson-castle/">Kinloch Anderson Castle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinloch-anderson-castle/"><img src="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/sett.png" alt="Kinloch Anderson Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

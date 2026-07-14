@@ -8,9 +8,12 @@ crumbs:
   url: "/clan/hebridean/"
 - name: "Hebridean"
   url: "/families/hebridean/"
+aliases:
+- "/setts/k2r2k12r2k2r18k2r2k12r2w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/krkrkrkrkrw/">KRKRKRKRKRW</a></nav>
 A tartan of the [Hebridean](/families/hebridean/) family.
-Its design is pattern [KRKRKRKRKRWRKRKRKRKR](/stripes/krkrkrkrkrwrkrkrkrkr/) — the page of every tartan sharing this colour sequence.
+Its design is pattern [KRKRKRKRKRW](/stripes/krkrkrkrkrw/) — the page of every tartan sharing this colour sequence.
 
 District tartan from the Bute Collection housed at Mount Stewart, Rothesay.
 
@@ -19,8 +22,8 @@ The **Hebridean 8** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k2r2k12r2k2r18k2r2k12r2w1/">Hebridean 8</a></td><td><code>K/4 R4 K24 R4 K4 R36 K4 R4 K24 R4 W2 R4 K24 R4 K4 R36 K4 R4 K24 R/4</code></td><td>222</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2r2k12r2k2r18k2r2k12r2w1/"><img src="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/sett.png" alt="Hebridean 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/">Hebridean 8</a></td><td><code>K/4 R4 K24 R4 K4 R36 K4 R4 K24 R4 W/2</code></td><td>222</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><img src="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/sett.png" alt="Hebridean 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -40,6 +43,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/"><circle cx="300.0" cy="96.2" r="4" fill="#3465a4"><title>Johnnie Walker</title></circle></a><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="319.6" cy="73.8" r="4" fill="#3465a4"><title>University of Georgia</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/"><circle cx="286.0" cy="106.9" r="4" fill="#3465a4"><title>Walkers Shortbread</title></circle></a><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><circle cx="234.0" cy="133.6" r="4" fill="#3465a4"><title>Canterbury</title></circle></a><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><circle cx="296.0" cy="123.0" r="4" fill="#3465a4"><title>Hanna of Falkirk</title></circle></a><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="207.2" cy="142.6" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/"><circle cx="256.9" cy="162.5" r="4" fill="#3465a4"><title>German National</title></circle></a><a href="/variants/s9/k8r1k1r1k1r10k10r1k1~x4/"><circle cx="348.4" cy="148.0" r="4" fill="#3465a4"><title>Murray of Ochtertyre</title></circle></a><a href="/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/"><circle cx="288.8" cy="117.1" r="4" fill="#3465a4"><title>Westwood MacBrick</title></circle></a><a href="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/"><circle cx="383.5" cy="58.7" r="4" fill="#3465a4"><title>Calgary, University of</title></circle></a><circle cx="303.0" cy="109.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/"><circle cx="301.1" cy="96.2" r="4" fill="#3465a4"><title>Johnnie Walker</title></circle></a><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="320.8" cy="73.9" r="4" fill="#3465a4"><title>University of Georgia</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/"><circle cx="287.0" cy="106.9" r="4" fill="#3465a4"><title>Walkers Shortbread</title></circle></a><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><circle cx="234.9" cy="133.5" r="4" fill="#3465a4"><title>Canterbury</title></circle></a><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><circle cx="297.0" cy="123.0" r="4" fill="#3465a4"><title>Hanna of Falkirk</title></circle></a><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="207.9" cy="142.5" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/"><circle cx="257.8" cy="162.6" r="4" fill="#3465a4"><title>German National</title></circle></a><a href="/variants/s9/k8r1k1r1k1r10k10r1k1~x4/"><circle cx="349.6" cy="148.2" r="4" fill="#3465a4"><title>Murray of Ochtertyre</title></circle></a><a href="/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/"><circle cx="289.8" cy="117.1" r="4" fill="#3465a4"><title>Westwood MacBrick</title></circle></a><a href="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/"><circle cx="384.9" cy="58.9" r="4" fill="#3465a4"><title>Calgary, University of</title></circle></a><circle cx="304.1" cy="109.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

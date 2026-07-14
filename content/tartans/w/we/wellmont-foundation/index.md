@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dt12w2dt13dg3g2r24g3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwbggrg/">BWBGGRG</a></nav>
 Its design is pattern [BWBGGRG](/stripes/bwbggrg/) — the page of every tartan sharing this colour sequence.
 
 The **Wellmont Foundation** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Wellmont Foundation** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dt12w2dt13dg3g2r24g3/">Wellmont Foundation</a></td><td><code>DT/24 W4 DT26 DG6 G4 R48 G/6</code></td><td>206</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dt12w2dt13dg3g2r24g3/"><img src="/variants/s7/dt12w2dt13dg3g2r24g3~x2/sett.png" alt="Wellmont Foundation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/">Wellmont Foundation</a></td><td><code>DT/24 W4 DT26 DG6 G4 R48 G/6</code></td><td>206</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/"><img src="/variants/s7/dt12w2dt13dg3g2r24g3~x2/sett.png" alt="Wellmont Foundation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db1r12g6y1g6db1~x4/"><circle cx="298.6" cy="211.6" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="187.2" cy="197.6" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s5/y2dg17g4r15dg1~x2/"><circle cx="309.2" cy="204.8" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/"><circle cx="247.4" cy="198.3" r="4" fill="#3465a4"><title>Hutcheson</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="274.9" cy="226.8" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/"><circle cx="243.1" cy="181.7" r="4" fill="#3465a4"><title>Hutcheson</title></circle></a><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/"><circle cx="259.9" cy="177.8" r="4" fill="#3465a4"><title>Leckie</title></circle></a><a href="/variants/s6/dg7w1dg18db6r18dg2~x2/"><circle cx="317.4" cy="193.1" r="4" fill="#3465a4"><title>Finlaggan</title></circle></a><a href="/variants/s10/g6dg2g3dg2g6db8r20ly2r3g2~x2/"><circle cx="214.1" cy="173.9" r="4" fill="#3465a4"><title>Connolly Dress</title></circle></a><a href="/variants/s7/w4dg20g10r25lb2r2g2~x2/"><circle cx="214.2" cy="176.5" r="4" fill="#3465a4"><title>Caledonian Brewery</title></circle></a><circle cx="242.1" cy="182.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db1r12g6y1g6db1~x4/"><circle cx="299.0" cy="211.6" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="187.4" cy="197.4" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s5/y2dg17g4r15dg1~x2/"><circle cx="309.7" cy="204.9" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/"><circle cx="247.8" cy="198.3" r="4" fill="#3465a4"><title>Hutcheson</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="275.2" cy="226.7" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/"><circle cx="243.4" cy="181.6" r="4" fill="#3465a4"><title>Hutcheson</title></circle></a><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/"><circle cx="260.3" cy="177.7" r="4" fill="#3465a4"><title>Leckie</title></circle></a><a href="/variants/s6/dg7w1dg18db6r18dg2~x2/"><circle cx="318.0" cy="193.2" r="4" fill="#3465a4"><title>Finlaggan</title></circle></a><a href="/variants/s10/g6dg2g3dg2g6db8r20ly2r3g2~x2/"><circle cx="214.4" cy="173.7" r="4" fill="#3465a4"><title>Connolly Dress</title></circle></a><a href="/variants/s7/w4dg20g10r25lb2r2g2~x2/"><circle cx="214.5" cy="176.3" r="4" fill="#3465a4"><title>Caledonian Brewery</title></circle></a><circle cx="242.5" cy="181.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

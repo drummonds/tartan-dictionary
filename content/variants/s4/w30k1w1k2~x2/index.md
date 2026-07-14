@@ -8,10 +8,10 @@ crumbs:
 - name: "Covenanter"
   url: "/tartans/c/co/covenanter/"
 - name: "Covenanter"
-  url: "/setts/w30k1w1k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w30k1w1k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/covenanter/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKW](/stripes/kwkw/).
 
 Part of the [Covenanter](/tartans/c/co/covenanter/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=779](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2004 — Covenanter (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=779">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>From James Cant MA's (d1960) manuscript book of 450+ hand-painted tartan colour strips and dated 1882. No other information.</em></li>
-<li>pre 2004 — Covenanter (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6377">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>From James Cant MA's (d1960) manuscript book of 450+ hand-painted tartan colour strips and dated 1882. No other information. Hardly a tartan.</em></li>
+<li>pre 2004 — Covenanter (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6377/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>From James Cant MA's (d1960) manuscript book of 450+ hand-painted tartan colour strips and dated 1882. No other information. Hardly a tartan.</em></li>
 </ul>
 </details>
 

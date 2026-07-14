@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g8r3g30k8w3k36w8~x2/">Cleghorn (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><img src="/variants/s7/g8r3g30k8w3k36w8~x2/sett.png" alt="Cleghorn (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/cleghorn/">Cleghorn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/cleghorn/"><img src="/variants/s7/g8r3g30k8w3k36w8~x2/sett.png" alt="Cleghorn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

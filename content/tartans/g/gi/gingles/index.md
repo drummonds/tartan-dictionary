@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k60w8lo15dp74k14/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kbywk/">KBYWK</a></nav>
 Its design is pattern [KBYWK](/stripes/kbywk/) — the page of every tartan sharing this colour sequence.
 
 The **Gingles** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Gingles** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k60w8lo15dp74k14/">Gingles</a></td><td><code>K/60 W8 LO15 DP74 K/14</code></td><td>268</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k60w8lo15dp74k14/"><img src="/variants/s5/k60w8lo15dp74k14/sett.png" alt="Gingles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k60w8lo15dp74k14/">Gingles</a></td><td><code>K/60 W8 LO15 DP74 K/14</code></td><td>268</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k60w8lo15dp74k14/"><img src="/variants/s5/k60w8lo15dp74k14/sett.png" alt="Gingles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k4dg3dp18k18w2~x2/"><circle cx="262.4" cy="196.6" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/variants/s7/k62db15dp15o20lr5db5k15~x2/"><circle cx="246.6" cy="141.8" r="4" fill="#3465a4"><title>Black Raven</title></circle></a><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/"><circle cx="182.6" cy="200.8" r="4" fill="#3465a4"><title>Teylu Coleman</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="168.2" cy="163.6" r="4" fill="#3465a4"><title>Jewell of Kernow</title></circle></a><a href="/variants/s6/w6k29o29dp7k3r3~x2~o2500000/"><circle cx="159.6" cy="160.7" r="4" fill="#3465a4"><title>Jewell of Kernow</title></circle></a><a href="/variants/s5/dp8y6k2n1w1~x8/"><circle cx="194.8" cy="196.8" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/"><circle cx="223.3" cy="180.6" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="181.6" cy="204.2" r="4" fill="#3465a4"><title>Inder</title></circle></a><a href="/variants/s5/k14r4k25db30w4~x2/"><circle cx="234.2" cy="207.5" r="4" fill="#3465a4"><title>Britannia</title></circle></a><a href="/variants/s7/r9k4r9k25dy3dp18k4~x2/"><circle cx="202.5" cy="184.6" r="4" fill="#3465a4"><title>Wounded Warriors Canada</title></circle></a><circle cx="210.2" cy="184.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k4dg3dp18k18w2~x2/"><circle cx="263.2" cy="196.6" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/variants/s7/k62db15dp15o20lr5db5k15~x2/"><circle cx="247.4" cy="141.8" r="4" fill="#3465a4"><title>Black Raven</title></circle></a><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/"><circle cx="183.0" cy="200.7" r="4" fill="#3465a4"><title>Teylu Coleman</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="168.7" cy="163.5" r="4" fill="#3465a4"><title>Jewell of Kernow</title></circle></a><a href="/variants/s6/w6k29o29dp7k3r3~x2~o2500000/"><circle cx="160.1" cy="160.5" r="4" fill="#3465a4"><title>Jewell of Kernow</title></circle></a><a href="/variants/s5/dp8y6k2n1w1~x8/"><circle cx="195.3" cy="196.6" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/"><circle cx="223.9" cy="180.5" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="182.0" cy="204.1" r="4" fill="#3465a4"><title>Inder</title></circle></a><a href="/variants/s5/k14r4k25db30w4~x2/"><circle cx="234.9" cy="207.5" r="4" fill="#3465a4"><title>Britannia</title></circle></a><a href="/variants/s7/r9k4r9k25dy3dp18k4~x2/"><circle cx="203.1" cy="184.6" r="4" fill="#3465a4"><title>Wounded Warriors Canada</title></circle></a><circle cx="210.9" cy="184.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

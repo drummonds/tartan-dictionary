@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w3db1k14db2k1g6k1db30ly3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbkbkgkby/">WBKBKGKBY</a></nav>
 Its design is pattern [WBKBKGKBY](/stripes/wbkbkgkby/) — the page of every tartan sharing this colour sequence.
 
 The **Bro-Kerne** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Bro-Kerne** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w3db1k14db2k1g6k1db30ly3/">Bro-Kerne</a></td><td><code>LY/6 DB60 K2 G12 K2 DB4 K28 DB2 W/6</code></td><td>232</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w3db1k14db2k1g6k1db30ly3/"><img src="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/sett.png" alt="Bro-Kerne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/">Bro-Kerne</a></td><td><code>W/6 DB2 K28 DB4 K2 G12 K2 DB60 LY/6</code></td><td>232</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><img src="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/sett.png" alt="Bro-Kerne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><circle cx="278.7" cy="89.8" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.0" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="337.4" cy="94.0" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="303.5" cy="88.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/"><circle cx="254.6" cy="128.7" r="4" fill="#3465a4"><title>Dinwiddie Hunting</title></circle></a><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><circle cx="289.0" cy="71.1" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><circle cx="268.7" cy="98.7" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="271.2" cy="82.3" r="4" fill="#3465a4"><title>Pilkington</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="273.4" cy="97.3" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="282.1" cy="77.3" r="4" fill="#3465a4"><title>Hill</title></circle></a><circle cx="274.7" cy="80.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><circle cx="279.6" cy="89.8" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="303.9" cy="108.7" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="338.4" cy="94.0" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="304.5" cy="88.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/"><circle cx="255.3" cy="128.6" r="4" fill="#3465a4"><title>Dinwiddie Hunting</title></circle></a><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><circle cx="290.0" cy="71.1" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><circle cx="269.5" cy="98.7" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="272.1" cy="82.2" r="4" fill="#3465a4"><title>Pilkington</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="274.2" cy="97.3" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="283.1" cy="77.3" r="4" fill="#3465a4"><title>Hill</title></circle></a><circle cx="275.7" cy="80.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

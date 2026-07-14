@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s62/dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~db-h889fa5b41bfbc535/">Millennium (Texcraft)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s62/dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~db-h889fa5b41bfbc535/"><img src="/variants/s62/dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~db-h889fa5b41bfbc535/sett.png?s=dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~dbi1406275-db1204274" alt="Millennium (Texcraft) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/millennium-2/">Millennium</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/millennium-2/"><img src="/variants/s62/dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~db-h889fa5b41bfbc535/sett.png?s=dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~dbi1406275-db1204274" alt="Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/justus/"
 - name: "Justus"
   url: "/families/justus/"
+aliases:
+- "/setts/b1lr4dr1lr1lo1lr4b1/"
+- "/setts/b1lr4dr1lr1ly1lr4b1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bybyyyb/">BYBYYYB</a></nav>
 A tartan of the [Justus](/families/justus/) family.
 Its design is pattern [BYBYYYB](/stripes/bybyyyb/) — the page of every tartan sharing this colour sequence.
 
@@ -20,10 +24,10 @@ The **Justus Dress** tartan groups 2 setts — the same named design recorded as
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b1lr4dr1lr1lo1lr4b1/">Justus Dress</a> ★</td><td><code>B/12 LR48 DR12 LR12 LO12 LR48 B/12</code></td><td>288</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b1lr4dr1lr1lo1lr4b1/"><img src="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/sett.png" alt="Justus Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/b1lr4dr1lr1ly1lr4b1/">(Personal)</a></td><td><code>B/12 LR48 DR12 LR12 LY12 LR48 B/12</code></td><td>288</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b1lr4dr1lr1ly1lr4b1/"><img src="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/">Justus Dress</a> ★</td><td><code>B/12 LR48 DR12 LR12 LO12 LR48 B/12</code></td><td>288</td><td>1986</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/"><img src="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/sett.png" alt="Justus Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/">(Personal)</a></td><td><code>B/12 LR48 DR12 LR12 LY12 LR48 B/12</code></td><td>288</td><td>1986</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/"><img src="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

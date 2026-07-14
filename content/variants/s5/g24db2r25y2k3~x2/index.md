@@ -8,10 +8,10 @@ crumbs:
 - name: "Bronte"
   url: "/tartans/b/br/bronte/"
 - name: "Bronte"
-  url: "/setts/g24db2r25y2k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g24db2r25y2k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bronte/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRGK](/stripes/gbrgk/).
 
 Part of the [Bronte](/tartans/b/br/bronte/) tartan — the named design grouping this sett with its other cloths.

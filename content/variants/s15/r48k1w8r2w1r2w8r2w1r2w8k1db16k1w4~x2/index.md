@@ -8,10 +8,10 @@ crumbs:
 - name: "Japanese"
   url: "/tartans/j/ja/japanese/"
 - name: "Japanese (nihon)"
-  url: "/setts/r48k1w8r2w1r2w8r2w1r2w8k1db16k1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r48k1w8r2w1r2w8r2w1r2w8k1db16k1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/j/ja/japanese/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWRWRWRWRWKBKW](/stripes/rkwrwrwrwrwkbkw/).
 
 Part of the [Japanese](/tartans/j/ja/japanese/) tartan — the named design grouping this sett with its other cloths.

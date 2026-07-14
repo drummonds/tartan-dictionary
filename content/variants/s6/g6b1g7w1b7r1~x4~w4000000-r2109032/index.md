@@ -12,10 +12,10 @@ crumbs:
 - name: "Norris"
   url: "/tartans/n/no/norris-2/"
 - name: "Norris (1957)"
-  url: "/setts/g6b1g7w1b7r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g6b1g7w1b7r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/norris-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWBR](/stripes/gbgwbr/).
 
 Part of the [Norris](/tartans/n/no/norris-2/) tartan — the named design grouping this sett with its other cloths.

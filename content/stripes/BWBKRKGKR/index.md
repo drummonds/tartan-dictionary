@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db12w1db2k3r15k1y2k39r2~x2/">Superstition Fire Honor Guard Pipes &amp; Drums</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db12w1db2k3r15k1y2k39r2~x2/"><img src="/variants/s9/db12w1db2k3r15k1y2k39r2~x2/sett.png" alt="Superstition Fire Honor Guard Pipes &amp; Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/superstition-fire-honor-guard-pipes/">Superstition Fire Honor Guard Pipes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/superstition-fire-honor-guard-pipes/"><img src="/variants/s9/db12w1db2k3r15k1y2k39r2~x2/sett.png" alt="Superstition Fire Honor Guard Pipes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,15 +10,15 @@ crumbs:
 - name: "Stewart Dress Purple Dance"
   url: "/tartans/s/st/stewart-dress-purple-dance/"
 - name: "Stewart Dress Purple Dance Tartan"
-  url: "/setts/w55dp12ly2dp3w2dg10dpi9dp2dpi6w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w55dp12ly2dp3w2dg10dpi9dp2dpi6w2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BYBWGBBBWBBBGWBYBW](/stripes/bybwgbbbwbbbgwbybw/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-dress-purple-dance/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [WBBBGWBYBW](/stripes/wbbbgwbybw/).
 
 Part of the [Stewart Dress Purple Dance](/tartans/s/st/stewart-dress-purple-dance/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6551](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6551)
 
@@ -43,9 +43,11 @@ Earliest known date: pre 1992 A D C Dalgliesh Dance variation of Stewart.
 </details>
 
 ## Thread count
-W/110 DP24 LY4 DP6 W4 DG20 DPi18 DP4 DPi12 W4 DPi12 DP4 DPi18 DG20 W4 DP6 LY4 DP/24
+W/110 DP24 LY4 DP6 W4 DG20 DPi18 DP4 DPi12 W/4
 
-One full sett is **462 threads**.
+One full sett is **298 threads**.
+
+<p class="recorded-note">The source recorded this cloth as W/110 DP24 LY4 DP6 W4 DG20 DPi18 DP4 DPi12 W4 DPi12 DP4 DPi18 DG20 W4 DP6 LY4 DP/24 — 462 threads; it folds to the canonical 298-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -54,7 +56,7 @@ One full sett is **462 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/110 DP24 LY4 DP6 W4 DG20 DPi18 DP4 DPi12 W4 DPi12 DP4 DPi18 DG20 W4 DP6 LY4 DP/24 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/110 DP24 LY4 DP6 W4 DG20 DPi18 DP4 DPi12 W/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

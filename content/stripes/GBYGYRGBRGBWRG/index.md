@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12~x4/">Heneghan (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12~x4/"><img src="/variants/s14/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12~x4/sett.png" alt="Heneghan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/g16r3w1db2g4r2db4g2r1lo1dy1lo1db6g12~x4/">Heneghan Commemorative Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g16r3w1db2g4r2db4g2r1lo1dy1lo1db6g12~x4/"><img src="/variants/s14/g16r3w1db2g4r2db4g2r1lo1dy1lo1db6g12~x4/sett.png" alt="Heneghan Commemorative Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heneghan/">Heneghan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heneghan/"><img src="/variants/s14/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12~x4/sett.png" alt="Heneghan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/heneghan-commemorative/">Heneghan Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/heneghan-commemorative/"><img src="/variants/s14/g16r3w1db2g4r2db4g2r1lo1dy1lo1db6g12~x4/sett.png" alt="Heneghan Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

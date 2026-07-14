@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db2lo1db6dr1db2dr2k2g6lb1g2~x4/">Nance (1998)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db2lo1db6dr1db2dr2k2g6lb1g2~x4/"><img src="/variants/s10/db2lo1db6dr1db2dr2k2g6lb1g2~x4/sett.png" alt="Nance (1998) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/nance-2/">Nance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/nance-2/"><img src="/variants/s10/db2lo1db6dr1db2dr2k2g6lb1g2~x4/sett.png" alt="Nance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

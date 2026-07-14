@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r2db1g2db1g19db2r27g2~x2/">Thomas of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r2db1g2db1g19db2r27g2~x2/"><img src="/variants/s8/r2db1g2db1g19db2r27g2~x2/sett.png" alt="Thomas of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thomas/">Thomas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thomas/"><img src="/variants/s8/r2db1g2db1g19db2r27g2~x2/sett.png" alt="Thomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

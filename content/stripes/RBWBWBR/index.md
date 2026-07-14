@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r52dr26w5dr3w2dr6r2~x2/">St. Andrews School (Delaware) (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r52dr26w5dr3w2dr6r2~x2/"><img src="/variants/s7/r52dr26w5dr3w2dr6r2~x2/sett.png" alt="St. Andrews School (Delaware) (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-andrews-school/">St. Andrews School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-andrews-school/"><img src="/variants/s7/r52dr26w5dr3w2dr6r2~x2/sett.png" alt="St. Andrews School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

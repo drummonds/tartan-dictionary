@@ -8,15 +8,15 @@ crumbs:
 - name: "Hunnisett/Edinchip"
   url: "/tartans/h/hu/hunnisett-edinchip-2/"
 - name: "Hunnisett/Edinchip (Personal)"
-  url: "/setts/db38w2db2k10g2dy2g22k3r3k3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db38w2db2k10g2dy2g22k3r3k3r3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBKGGGKRKRKRKGGGKBW](/stripes/bwbkgggkrkrkrkgggkbw/).
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hunnisett-edinchip-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBKGGGKRKR](/stripes/bwbkgggkrkr/).
 
 Part of the [Hunnisett/Edinchip](/tartans/h/hu/hunnisett-edinchip-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1786](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1786)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1786](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/04/1986 — Hunnisett/Edinchip (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1786">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Private tartan - no other details. Sample in Scottish Tartans Authority Scarlett Collection. Woven by Lochcarron in Ross-shire. Accredited 86004. Scottish Tartans Society archive.</em></li>
-<li>1986 April — Hunnisett/Edinchip (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=624">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Woven by Lochcarron in Ross-shire. Feb. 2010 - advised by Dr. Phil Smith that this is for all of the name.</em></li>
+<li>1986 April — Hunnisett/Edinchip (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/624/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Woven by Lochcarron in Ross-shire. Feb. 2010 - advised by Dr. Phil Smith that this is for all of the name.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 624
 
 ## Thread count
-DB/76 W4 DB4 K20 G4 DY4 G44 K6 R6 K6 R6 K6 R6 K6 G44 DY4 G4 K20 DB4 W/4
+DB/76 W4 DB4 K20 G4 DY4 G44 K6 R6 K6 R/6
 
-One full sett is **476 threads**.
+One full sett is **278 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/76 W4 DB4 K20 G4 DY4 G44 K6 R6 K6 R6 K6 R6 K6 G44 DY4 G4 K20 DB4 W/4 — 476 threads; it folds to the canonical 278-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **476 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/76 W4 DB4 K20 G4 DY4 G44 K6 R6 K6 R6 K6 R6 K6 G44 DY4 G4 K20 DB4 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/76 W4 DB4 K20 G4 DY4 G44 K6 R6 K6 R/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

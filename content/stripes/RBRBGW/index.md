@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/w3g15db18r30db1r2~x2/">Ruthven</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/w3g15db18r30db1r2~x2/"><img src="/variants/s6/w3g15db18r30db1r2~x2/sett.png" alt="Ruthven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ru/ruthven/">Ruthven</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/ruthven/"><img src="/variants/s6/w3g15db18r30db1r2~x2/sett.png" alt="Ruthven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

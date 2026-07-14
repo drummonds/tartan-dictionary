@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w5r3w26db21w3db8y3~x2/">MacPherson Blue/White Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><img src="/variants/s7/w5r3w26db21w3db8y3~x2/sett.png" alt="MacPherson Blue/White Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-blue-white/">MacPherson Blue/White</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-blue-white/"><img src="/variants/s7/w5r3w26db21w3db8y3~x2/sett.png" alt="MacPherson Blue/White sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/">MacPherson Dress, Blue (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><img src="/variants/s7/w5r3w26dt21w3dt8y3~x2/sett.png" alt="MacPherson Dress, Blue (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macpherson-dress-4/">MacPherson Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macpherson-dress-4/"><img src="/variants/s7/w5r3w26dt21w3dt8y3~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

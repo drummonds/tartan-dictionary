@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Lambert"
   url: "/clan/lambert/"
+aliases:
+- "/setts/k3g34db10g5r2k8dy2w3/"
+- "/setts/k3g34t10g5r2k8dy2w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgbgrkgw/">KGBGRKGW</a></nav>
 A tartan of [Clan Lambert](/clan/lambert/).
 Its design is pattern [KGBGRKGW](/stripes/kgbgrkgw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Lambert Kai** tartan groups 2 setts — the same named design recorded as 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3g34db10g5r2k8dy2w3/">Lambert Kai</a> ★</td><td><code>K/6 G68 DB20 G10 R4 K16 DY4 W/6</code></td><td>256</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3g34db10g5r2k8dy2w3/"><img src="/variants/s8/k3g34db10g5r2k8dy2w3~x2/sett.png" alt="Lambert Kai sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3g34t10g5r2k8dy2w3/">(Personal)</a></td><td><code>K/6 G68 T20 G10 R4 K16 DY4 W/6</code></td><td>256</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3g34t10g5r2k8dy2w3/"><img src="/variants/s8/k3g34t10g5r2k8dy2w3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3g34db10g5r2k8dy2w3~x2/">Lambert Kai</a> ★</td><td><code>K/6 G68 DB20 G10 R4 K16 DY4 W/6</code></td><td>256</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3g34db10g5r2k8dy2w3~x2/"><img src="/variants/s8/k3g34db10g5r2k8dy2w3~x2/sett.png" alt="Lambert Kai sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/">(Personal)</a></td><td><code>K/6 G68 T20 G10 R4 K16 DY4 W/6</code></td><td>256</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/"><img src="/variants/s8/k3g34t10g5r2k8dy2w3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="311.4" cy="129.6" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="220.2" cy="107.5" r="4" fill="#3465a4"><title>MacClure Hunting</title></circle></a><a href="/variants/s11/g9lo1g2r3g28k16lb1g8lb1db8r1~x2/"><circle cx="268.7" cy="82.2" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="221.3" cy="141.3" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s7/k5g2k5g2db8g25w4~x2/"><circle cx="257.1" cy="158.8" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.1" cy="108.6" r="4" fill="#3465a4"><title>Steel</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="230.1" cy="116.0" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="246.9" cy="105.9" r="4" fill="#3465a4"><title>Sarafilovic</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="270.8" cy="131.9" r="4" fill="#3465a4"><title>Henderson</title></circle></a><a href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="221.3" cy="94.8" r="4" fill="#3465a4"><title>Bottle</title></circle></a><circle cx="246.7" cy="108.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.1" cy="129.6" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="220.9" cy="107.4" r="4" fill="#3465a4"><title>MacClure Hunting</title></circle></a><a href="/variants/s11/g9lo1g2r3g28k16lb1g8lb1db8r1~x2/"><circle cx="269.5" cy="82.2" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="221.9" cy="141.2" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s7/k5g2k5g2db8g25w4~x2/"><circle cx="257.8" cy="158.8" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.7" cy="108.5" r="4" fill="#3465a4"><title>Steel</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="230.8" cy="115.9" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="247.6" cy="105.9" r="4" fill="#3465a4"><title>Sarafilovic</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="271.6" cy="131.9" r="4" fill="#3465a4"><title>Henderson</title></circle></a><a href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="221.9" cy="94.7" r="4" fill="#3465a4"><title>Bottle</title></circle></a><circle cx="247.5" cy="108.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

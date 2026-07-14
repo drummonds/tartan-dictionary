@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/ly78dr11g2dr6ly2dr3ly2dr43/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bybybgby/">BYBYBGBY</a></nav>
 Its design is pattern [BYBYBGBY](/stripes/bybybgby/) — the page of every tartan sharing this colour sequence.
 
 The **Montreal Granate** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Montreal Granate** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/ly78dr11g2dr6ly2dr3ly2dr43/">Montreal Granate</a></td><td><code>LY/156 DR22 G4 DR12 LY4 DR6 LY4 DR/86</code></td><td>346</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly78dr11g2dr6ly2dr3ly2dr43/"><img src="/variants/s8/ly78dr11g2dr6ly2dr3ly2dr43~x2/sett.png" alt="Montreal Granate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly78dr11g2dr6ly2dr3ly2dr43~x2/">Montreal Granate</a></td><td><code>LY/156 DR22 G4 DR12 LY4 DR6 LY4 DR/86</code></td><td>346</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly78dr11g2dr6ly2dr3ly2dr43~x2/"><img src="/variants/s8/ly78dr11g2dr6ly2dr3ly2dr43~x2/sett.png" alt="Montreal Granate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g18w3y1r2y1r3y1r10~x4/"><circle cx="305.9" cy="166.7" r="4" fill="#3465a4"><title>Brisbane</title></circle></a><a href="/variants/s7/lo17do5w1lo5w7do47lo7~x2/"><circle cx="426.6" cy="156.8" r="4" fill="#3465a4"><title>Pride of Cleveland Fall</title></circle></a><circle cx="413.0" cy="130.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g18w3y1r2y1r3y1r10~x4/"><circle cx="306.4" cy="166.7" r="4" fill="#3465a4"><title>Brisbane</title></circle></a><a href="/variants/s7/lo17do5w1lo5w7do47lo7~x2/"><circle cx="427.4" cy="156.9" r="4" fill="#3465a4"><title>Pride of Cleveland Fall</title></circle></a><circle cx="413.8" cy="130.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

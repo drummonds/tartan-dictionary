@@ -8,10 +8,10 @@ crumbs:
 - name: "Badminton World Federation"
   url: "/tartans/b/ba/badminton-world-federation/"
 - name: "Badminton World Federation"
-  url: "/setts/k3r19db12k3y3g3k2w11db3w4db4k2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3r19db12k3y3g3k2w11db3w4db4k2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/badminton-world-federation/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBKGGKWBWBKW](/stripes/krbkggkwbwbkw/).
 
 Part of the [Badminton World Federation](/tartans/b/ba/badminton-world-federation/) tartan — the named design grouping this sett with its other cloths.

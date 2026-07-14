@@ -12,10 +12,10 @@ crumbs:
 - name: "MatchPoint"
   url: "/tartans/m/ma/matchpoint/"
 - name: "MatchPoint"
-  url: "/setts/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/matchpoint/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBBBBBBKBRBW](/stripes/bgbbbbbbbbkbrbw/).
 
 Part of the [MatchPoint](/tartans/m/ma/matchpoint/) tartan — the named design grouping this sett with its other cloths.

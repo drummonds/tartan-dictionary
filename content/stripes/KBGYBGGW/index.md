@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k5t3dy4ly1db13dy13g29w2~x2/">Teviotdale</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k5t3dy4ly1db13dy13g29w2~x2/"><img src="/variants/s8/k5t3dy4ly1db13dy13g29w2~x2/sett.png" alt="Teviotdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/teviotdale-2/">Teviotdale</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/teviotdale-2/"><img src="/variants/s8/k5t3dy4ly1db13dy13g29w2~x2/sett.png" alt="Teviotdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

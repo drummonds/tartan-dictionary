@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/">Teddy Bear 111th Anniversary</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/"><img src="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/sett.png" alt="Teddy Bear 111th Anniversary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/te/teddy-bear-111th-anniversary-2/">Teddy Bear 111th Anniversary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/te/teddy-bear-111th-anniversary-2/"><img src="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/sett.png" alt="Teddy Bear 111th Anniversary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

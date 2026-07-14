@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y3db2k2db30w30dbi2w3~x2~db1208274-k0601240-dbi1406275/">Torridon, Saphire (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y3db2k2db30w30dbi2w3~x2~db1208274-k0601240-dbi1406275/"><img src="/variants/s7/y3db2k2db30w30dbi2w3~x2~db1208274-k0601240-dbi1406275/sett.png" alt="Torridon, Saphire (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/torridon-saphire/">Torridon Saphire</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/torridon-saphire/"><img src="/variants/s7/y3db2k2db30w30dbi2w3~x2~db1208274-k0601240-dbi1406275/sett.png" alt="Torridon Saphire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/dr104dg39lo4~x2/">Scottish Watch</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/dr104dg39lo4~x2/"><img src="/variants/s3/dr104dg39lo4~x2/sett.png" alt="Scottish Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/">Special, Saffron</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/"><img src="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/sett.png" alt="Special, Saffron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/special-saffron-3/">Special, Saffron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/special-saffron-3/"><img src="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/sett.png" alt="Special, Saffron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

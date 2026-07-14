@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/">Australian Federal Police</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/"><img src="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/sett.png" alt="Australian Federal Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/australian-federal-police/">Australian Federal Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/australian-federal-police/"><img src="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/sett.png" alt="Australian Federal Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

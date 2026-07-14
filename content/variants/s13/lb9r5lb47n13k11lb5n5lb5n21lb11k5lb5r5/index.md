@@ -12,10 +12,10 @@ crumbs:
 - name: "Balmoral"
   url: "/tartans/b/ba/balmoral-4/"
 - name: "Balmoral (Old and Rare) Royal Tartan"
-  url: "/setts/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/balmoral-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWBWBWKBWRW](/stripes/rwkwbwbwkbwrw/).
 
 Part of the [Balmoral](/tartans/b/ba/balmoral-4/) tartan — the named design grouping this sett with its other cloths.

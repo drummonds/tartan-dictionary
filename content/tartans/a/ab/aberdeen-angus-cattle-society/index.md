@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg8ly3k60dg3k3dg3k3dg4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgkgkyg/">GKGKGKYG</a></nav>
 Its design is pattern [GKGKGKYG](/stripes/gkgkgkyg/) — the page of every tartan sharing this colour sequence.
 
 The **Aberdeen-Angus Cattle Society** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Aberdeen-Angus Cattle Society** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg8ly3k60dg3k3dg3k3dg4/">Aberdeen-Angus Cattle Society</a></td><td><code>DG/16 LY6 K120 DG6 K6 DG6 K6 DG/8</code></td><td>324</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg8ly3k60dg3k3dg3k3dg4/"><img src="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/sett.png" alt="Aberdeen-Angus Cattle Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/">Aberdeen-Angus Cattle Society</a></td><td><code>DG/16 LY6 K120 DG6 K6 DG6 K6 DG/8</code></td><td>324</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/"><img src="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/sett.png" alt="Aberdeen-Angus Cattle Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k22g11k2g4k2g6k58lb6~x2/"><circle cx="450.9" cy="97.2" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/variants/s7/dg42k10y2k6dg10k11dg2~x2/"><circle cx="452.1" cy="169.8" r="4" fill="#3465a4"><title>Laggen Dress</title></circle></a><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="577.4" cy="120.6" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><circle cx="489.1" cy="105.0" r="4" fill="#3465a4"><title>Clan Inebriated</title></circle></a><a href="/variants/s9/k100dp8n4k4n4dp8k25db10n4/"><circle cx="513.7" cy="95.3" r="4" fill="#3465a4"><title>CI</title></circle></a><a href="/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/"><circle cx="480.9" cy="76.8" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="458.7" cy="78.8" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s8/k21n1k1n1k1n1k1n7~x4/"><circle cx="468.3" cy="116.1" r="4" fill="#3465a4"><title>Lunar</title></circle></a><a href="/variants/s10/k40dp2k6t2k2t2k10dp4w2dp5~x2/"><circle cx="462.9" cy="86.4" r="4" fill="#3465a4"><title>Ironside</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="443.4" cy="63.9" r="4" fill="#3465a4"><title>Racing Stewart, Stealth</title></circle></a><circle cx="507.1" cy="107.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k22g11k2g4k2g6k58lb6~x2/"><circle cx="452.4" cy="97.6" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/variants/s7/dg42k10y2k6dg10k11dg2~x2/"><circle cx="453.2" cy="170.2" r="4" fill="#3465a4"><title>Laggen Dress</title></circle></a><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="579.0" cy="121.3" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><circle cx="490.6" cy="105.4" r="4" fill="#3465a4"><title>Clan Inebriated</title></circle></a><a href="/variants/s9/k100dp8n4k4n4dp8k25db10n4/"><circle cx="515.2" cy="95.8" r="4" fill="#3465a4"><title>CI</title></circle></a><a href="/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/"><circle cx="482.6" cy="77.2" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="460.1" cy="79.1" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s8/k21n1k1n1k1n1k1n7~x4/"><circle cx="469.8" cy="116.6" r="4" fill="#3465a4"><title>Lunar</title></circle></a><a href="/variants/s10/k40dp2k6t2k2t2k10dp4w2dp5~x2/"><circle cx="464.4" cy="86.8" r="4" fill="#3465a4"><title>Ironside</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="444.9" cy="64.3" r="4" fill="#3465a4"><title>Racing Stewart, Stealth</title></circle></a><circle cx="508.6" cy="108.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

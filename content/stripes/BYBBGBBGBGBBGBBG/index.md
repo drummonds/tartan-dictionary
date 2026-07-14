@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42~x4/">Gudbrandsdalen of Mannsdrakt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42~x4/"><img src="/variants/s16/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42~x4/sett.png" alt="Gudbrandsdalen of Mannsdrakt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/gudbrandsdalen-of-mannsdrakt/">Gudbrandsdalen of Mannsdrakt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/gudbrandsdalen-of-mannsdrakt/"><img src="/variants/s16/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42~x4/sett.png" alt="Gudbrandsdalen of Mannsdrakt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

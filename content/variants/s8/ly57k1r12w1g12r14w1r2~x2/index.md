@@ -8,10 +8,10 @@ crumbs:
 - name: "MacBrair Hunting"
   url: "/tartans/m/ma/macbrair-hunting/"
 - name: "MacBrair Hunting"
-  url: "/setts/ly57k1r12w1g12r14w1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/ly57k1r12w1g12r14w1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macbrair-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGWRKY](/stripes/rwrgwrky/).
 
 Part of the [MacBrair Hunting](/tartans/m/ma/macbrair-hunting/) tartan — the named design grouping this sett with its other cloths.

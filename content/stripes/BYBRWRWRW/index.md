@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/">Sea Dog Bamse, Pride of Norway</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/"><img src="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/sett.png" alt="Sea Dog Bamse, Pride of Norway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/se/sea-dog-bamse/">Sea Dog Bamse</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/se/sea-dog-bamse/"><img src="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/sett.png" alt="Sea Dog Bamse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

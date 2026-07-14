@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/">Camelot (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/"><img src="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/sett.png" alt="Camelot (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/camelot/">Camelot</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/camelot/"><img src="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/sett.png" alt="Camelot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

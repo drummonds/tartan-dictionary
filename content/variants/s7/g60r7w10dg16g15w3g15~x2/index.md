@@ -8,10 +8,10 @@ crumbs:
 - name: "Deer Park"
   url: "/tartans/d/de/deer-park/"
 - name: "Deer Park (Loton) (Personal)"
-  url: "/setts/g60r7w10dg16g15w3g15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g60r7w10dg16g15w3g15/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/deer-park/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWGGWG](/stripes/grwggwg/).
 
 Part of the [Deer Park](/tartans/d/de/deer-park/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=904](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1986 — Deer Park (Loton) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=904">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8CA064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #8CA064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C03824;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #C03824"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Threadcount estimated from colour photograph.</em></li>
-<li>1986-1993 — Deer Park (Loton) (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7074">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8CA064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #8CA064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C03824;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #C03824"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Threadcount estimated from colour photograph</em></li>
+<li>1986-1993 — Deer Park (Loton) (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7074/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#8CA064;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #8CA064"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C03824;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #C03824"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8F8F8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #F8F8F8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Threadcount estimated from colour photograph</em></li>
 </ul>
 </details>
 

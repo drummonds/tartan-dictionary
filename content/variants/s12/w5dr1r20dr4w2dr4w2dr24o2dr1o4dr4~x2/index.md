@@ -8,10 +8,10 @@ crumbs:
 - name: "Chrysanthemum"
   url: "/tartans/c/ch/chrysanthemum/"
 - name: "Chrysanthemum (Japanese Four Seasons)"
-  url: "/setts/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chrysanthemum/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBWBWBRBW](/stripes/brbrbwbwbrbw/).
 
 Part of the [Chrysanthemum](/tartans/c/ch/chrysanthemum/) tartan — the named design grouping this sett with its other cloths.

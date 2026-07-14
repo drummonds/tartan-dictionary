@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/">Galway</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/"><img src="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/sett.png" alt="Galway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/galway/">Galway</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/galway/"><img src="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/sett.png" alt="Galway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

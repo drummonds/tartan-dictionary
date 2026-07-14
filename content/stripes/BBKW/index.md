@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/dr5n32k31w5~x2/">Loganair</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dr5n32k31w5~x2/"><img src="/variants/s4/dr5n32k31w5~x2/sett.png" alt="Loganair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/dr3n16k16lb3~x4/">Thompson, Dress (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dr3n16k16lb3~x4/"><img src="/variants/s4/dr3n16k16lb3~x4/sett.png" alt="Thompson, Dress (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loganair/">Loganair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loganair/"><img src="/variants/s4/dr5n32k31w5~x2/sett.png" alt="Loganair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thompson-dress/">Thompson, Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thompson-dress/"><img src="/variants/s4/dr3n16k16lb3~x4/sett.png" alt="Thompson, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/db2dr1k1lb1~x10/">Kucher, Gregory (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db2dr1k1lb1~x10/"><img src="/variants/s4/db2dr1k1lb1~x10/sett.png" alt="Kucher, Gregory (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ku/kucher-gregory/">Kucher, Gregory</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ku/kucher-gregory/"><img src="/variants/s4/db2dr1k1lb1~x10/sett.png" alt="Kucher, Gregory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

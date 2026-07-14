@@ -12,10 +12,10 @@ crumbs:
 - name: "Rollo"
   url: "/tartans/r/ro/rollo/"
 - name: "Rollo Family Tartan"
-  url: "/setts/k15g15y3g15k15g15r3g15k15db15k2db15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k15g15y3g15k15g15r3g15k15db15k2db15/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/rollo/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGRGKGGGK](/stripes/bkbkgrgkgggk/).
 
 Part of the [Rollo](/tartans/r/ro/rollo/) tartan — the named design grouping this sett with its other cloths.

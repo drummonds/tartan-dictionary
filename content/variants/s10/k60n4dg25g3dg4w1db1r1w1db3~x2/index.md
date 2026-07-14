@@ -8,10 +8,10 @@ crumbs:
 - name: "Gettelman"
   url: "/tartans/g/ge/gettelman/"
 - name: "Gettelman (2016)"
-  url: "/setts/k60n4dg25g3dg4w1db1r1w1db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k60n4dg25g3dg4w1db1r1w1db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/ge/gettelman/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBWGGGBK](/stripes/bwrbwgggbk/).
 
 Part of the [Gettelman](/tartans/g/ge/gettelman/) tartan — the named design grouping this sett with its other cloths.

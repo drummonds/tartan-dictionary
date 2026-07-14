@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db14lb2db2dr2db3k12g14k2g4k2g14db14lb14dr2~x2/">Scotland's National Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db14lb2db2dr2db3k12g14k2g4k2g14db14lb14dr2~x2/"><img src="/variants/s14/db14lb2db2dr2db3k12g14k2g4k2g14db14lb14dr2~x2/sett.png" alt="Scotland's National Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotland-s-national-dress/">Scotland's National Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotland-s-national-dress/"><img src="/variants/s14/db14lb2db2dr2db3k12g14k2g4k2g14db14lb14dr2~x2/sett.png" alt="Scotland's National Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

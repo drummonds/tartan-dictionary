@@ -4,8 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k50db3y3dr50/"
 ---
-Its design is pattern [BGBGBK](/stripes/bgbgbk/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbk/">BGBK</a></nav>
+Its design is pattern [BGBK](/stripes/bgbk/) — the page of every tartan sharing this colour sequence.
 
 Designed online by Bob Boulton for Hungerford Rugby Football Club, using club colours.
 
@@ -14,8 +17,8 @@ The **Hungerford RFC** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k50db3y3dr50/">Hungerford RFC</a></td><td><code>K/100 DB6 Y6 DR100 Y6 DB/6</code></td><td>224</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k50db3y3dr50/"><img src="/variants/s4/k50db3y3dr50~x2/sett.png" alt="Hungerford RFC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k50db3y3dr50~x2/">Hungerford RFC</a></td><td><code>K/100 DB6 Y6 DR/100</code></td><td>224</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k50db3y3dr50~x2/"><img src="/variants/s4/k50db3y3dr50~x2/sett.png" alt="Hungerford RFC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +37,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="269.3" cy="162.1" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="271.0" cy="160.3" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="397.9" cy="183.0" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s5/r1k8dg2db4r1~x8/"><circle cx="239.9" cy="202.0" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s5/db16r1k16w1r1~x4/"><circle cx="283.0" cy="158.0" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s4/k3db23k17r2~x2/"><circle cx="335.6" cy="217.7" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="394.2" cy="106.0" r="4" fill="#3465a4"><title>Jack</title></circle></a><a href="/variants/s3/k19lo1n19~x8/"><circle cx="310.2" cy="216.0" r="4" fill="#3465a4"><title>Wcwm 9275-1394</title></circle></a><a href="/variants/s3/k27dg10r2~x4/"><circle cx="439.3" cy="218.2" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="240.5" cy="147.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><circle cx="346.0" cy="197.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="270.2" cy="162.1" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="271.9" cy="160.3" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="398.9" cy="183.2" r="4" fill="#3465a4"><title>Bacon</title></circle></a><a href="/variants/s5/r1k8dg2db4r1~x8/"><circle cx="240.5" cy="202.0" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s5/db16r1k16w1r1~x4/"><circle cx="283.9" cy="158.1" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s4/k3db23k17r2~x2/"><circle cx="336.5" cy="217.9" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="395.2" cy="106.1" r="4" fill="#3465a4"><title>Jack</title></circle></a><a href="/variants/s3/k19lo1n19~x8/"><circle cx="311.0" cy="216.2" r="4" fill="#3465a4"><title>Wcwm 9275-1394</title></circle></a><a href="/variants/s3/k27dg10r2~x4/"><circle cx="440.5" cy="218.6" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="241.2" cy="147.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><circle cx="346.8" cy="197.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

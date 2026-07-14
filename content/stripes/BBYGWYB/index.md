@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db2n1ly1dg6w3ly4n1/">Equorian Olympic</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db2n1ly1dg6w3ly4n1/"><img src="/variants/s7/db2n1ly1dg6w3ly4n1/sett.png" alt="Equorian Olympic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/eq/equorian-olympic/">Equorian Olympic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eq/equorian-olympic/"><img src="/variants/s7/db2n1ly1dg6w3ly4n1/sett.png" alt="Equorian Olympic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

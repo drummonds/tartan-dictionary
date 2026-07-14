@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/">Bourbon, Sebastien (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/"><img src="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/sett.png" alt="Bourbon, Sebastien (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bourbon-sebastien/">Bourbon, Sebastien</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bourbon-sebastien/"><img src="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/sett.png" alt="Bourbon, Sebastien sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

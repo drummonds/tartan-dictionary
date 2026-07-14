@@ -10,10 +10,10 @@ crumbs:
 - name: "Campbell Simpson"
   url: "/tartans/c/ca/campbell-simpson-2/"
 - name: "Campbell Simpson (Dalgliesh)"
-  url: "/setts/g22k3g3dg16g6k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g22k3g3dg16g6k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/campbell-simpson-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGGK](/stripes/gkgggk/).
 
 Part of the [Campbell Simpson](/tartans/c/ca/campbell-simpson-2/) tartan — the named design grouping this sett with its other cloths.

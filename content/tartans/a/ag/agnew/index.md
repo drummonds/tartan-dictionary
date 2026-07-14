@@ -4,16 +4,22 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db53g42r14/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgr/">BGR</a></nav>
 Its design is pattern [BGR](/stripes/bgr/) — the page of every tartan sharing this colour sequence.
 
-The **Agnew** tartan is recorded as a single sett.
+The **Agnew** tartan is one sett, recorded at 2 scales — the same proportion woven
+finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db53g42r14/">Agnew</a></td><td><code>DB/106 G84 R/28</code></td><td>302</td><td>1976</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db53g42r14/"><img src="/variants/s3/db53g42r14~x2/sett.png" alt="Agnew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/db53g42r14~x2/">Agnew</a></td><td><code>DB/53 G42 R/14</code></td><td>151</td><td>1976</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/db53g42r14~x2/"><img src="/variants/s3/db53g42r14~x2/sett.png" alt="Agnew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s3/db53g42r14/">Agnew</a></td><td><code>DB/53 G42 R/14</code></td><td>151</td><td>1978</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s3/db53g42r14~x2/">Agnew</a></td><td><code>DB/106 G84 R/28</code></td><td>302</td><td>1976</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s3/db53g42r14/">Agnew</a> · <a href="/variants/s3/db53g42r14~x2/">Agnew</a></td></tr>
 </tbody>
 </table>
@@ -27,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/db6g5r1~x4/"><circle cx="295.1" cy="306.7" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="290.8" cy="304.7" r="4" fill="#3465a4"><title>Wilson's No 62</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="294.3" cy="308.6" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s3/g13r2lb13~x2/"><circle cx="311.5" cy="320.3" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="198.3" cy="276.3" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="291.7" cy="342.5" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="225.3" cy="261.2" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s3/r4dg7lb4~x2/"><circle cx="174.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="205.2" cy="273.6" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="207.6" cy="257.8" r="4" fill="#3465a4"><title>Thorntons Law</title></circle></a><circle cx="255.5" cy="333.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s3/db6g5r1~x4/"><circle cx="295.5" cy="306.8" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="291.1" cy="304.9" r="4" fill="#3465a4"><title>Wilson's No 62</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="294.6" cy="308.7" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s3/g13r2lb13~x2/"><circle cx="311.7" cy="320.4" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="198.5" cy="276.2" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="291.9" cy="342.6" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="225.5" cy="261.2" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s3/r4dg7lb4~x2/"><circle cx="174.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="205.5" cy="273.5" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="207.9" cy="257.7" r="4" fill="#3465a4"><title>Thorntons Law</title></circle></a><circle cx="255.8" cy="333.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

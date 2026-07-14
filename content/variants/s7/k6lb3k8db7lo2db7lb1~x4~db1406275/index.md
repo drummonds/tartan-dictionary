@@ -7,16 +7,16 @@ crumbs:
   url: "/"
 - name: "St. Johnstone F.C."
   url: "/tartans/s/st/st-johnstone-f-c/"
-- name: "St. Johnstone F.C. (Sports)"
-  url: "/setts/k6lb3k8db7lo2db7lb1/"
+- name: "St Johnstone F.C. Corporate Sport Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6lb3k8db7lo2db7lb1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKBYBWBYBKW](/stripes/kwkbybwbybkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-johnstone-f-c/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKBYBW](/stripes/kwkbybw/).
 
 Part of the [St. Johnstone F.C.](/tartans/s/st/st-johnstone-f-c/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2425](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2425)
 
@@ -57,9 +57,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2425
 
 ## Thread count
-K/24 LB12 K32 DB28 LO8 DB28 LB4 DB28 LO8 DB28 K32 LB/12
+K/24 LB12 K32 DB28 LO8 DB28 LB/4
 
-One full sett is **452 threads**.
+One full sett is **244 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/24 LB12 K32 DB28 LO8 DB28 LB4 DB28 LO8 DB28 K32 LB/12 — 452 threads; it folds to the canonical 244-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -68,7 +70,7 @@ One full sett is **452 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/24 LB12 K32 DB28 LO8 DB28 LB4 DB28 LO8 DB28 K32 LB/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/24 LB12 K32 DB28 LO8 DB28 LB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

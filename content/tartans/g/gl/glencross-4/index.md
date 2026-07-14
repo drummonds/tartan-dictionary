@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/glencross/"
 - name: "Glencross"
   url: "/families/glencross/"
+aliases:
+- "/setts/r31g19t27dt1w1y1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwbbgr/">GWBBGR</a></nav>
 A tartan of the [Glencross](/families/glencross/) family.
 Its design is pattern [GWBBGR](/stripes/gwbbgr/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Glencross** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r31g19t27dt1w1y1/">Glencross</a></td><td><code>R/62 G38 T54 DT2 W2 Y/2</code></td><td>256</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r31g19t27dt1w1y1/"><img src="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/sett.png" alt="Glencross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/">Glencross</a></td><td><code>R/62 G38 T54 DT2 W2 Y/2</code></td><td>256</td><td>2011</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/"><img src="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/sett.png" alt="Glencross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r31g19lg27b1w1lo1~x2/"><circle cx="238.9" cy="152.4" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="225.6" cy="236.2" r="4" fill="#3465a4"><title>Samye</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="256.1" cy="193.8" r="4" fill="#3465a4"><title>Eglinton, Duke of</title></circle></a><a href="/variants/s6/g2db1r29t29db1lo2~x2/"><circle cx="349.1" cy="150.6" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="370.6" cy="157.8" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/"><circle cx="242.6" cy="145.8" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="299.6" cy="204.4" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s5/y9r31g12dy2lb9~x2/"><circle cx="288.9" cy="211.3" r="4" fill="#3465a4"><title>Buncle</title></circle></a><a href="/variants/s6/g42y2b16db7do16r5~x2/"><circle cx="265.2" cy="181.0" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/"><circle cx="268.0" cy="148.4" r="4" fill="#3465a4"><title>Norwegian Migration Period</title></circle></a><circle cx="285.8" cy="168.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r31g19lg27b1w1lo1~x2/"><circle cx="239.2" cy="152.2" r="4" fill="#3465a4"><title>Glencross</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="225.7" cy="236.1" r="4" fill="#3465a4"><title>Samye</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="256.4" cy="193.8" r="4" fill="#3465a4"><title>Eglinton, Duke of</title></circle></a><a href="/variants/s6/g2db1r29t29db1lo2~x2/"><circle cx="349.7" cy="150.6" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="371.2" cy="157.8" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/"><circle cx="242.9" cy="145.7" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="299.8" cy="204.4" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s5/y9r31g12dy2lb9~x2/"><circle cx="289.2" cy="211.2" r="4" fill="#3465a4"><title>Buncle</title></circle></a><a href="/variants/s6/g42y2b16db7do16r5~x2/"><circle cx="265.5" cy="180.9" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s8/n30w4dt9lb2dt1y6dt8r8~x4/"><circle cx="268.3" cy="148.3" r="4" fill="#3465a4"><title>Norwegian Migration Period</title></circle></a><circle cx="286.1" cy="168.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

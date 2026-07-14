@@ -12,10 +12,10 @@ crumbs:
 - name: "Dickie"
   url: "/tartans/d/di/dickie-2/"
 - name: "Dickie"
-  url: "/setts/dg8o2dg12k6dg3db6o24k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg8o2dg12k6dg3db6o24k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/dickie-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKGBRK](/stripes/grgkgbrk/).
 
 Part of the [Dickie](/tartans/d/di/dickie-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=936](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1982 — Dickie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=936">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C82800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LC #C82800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>Designed in 1982 by Dr. Phil Smith for Robert Bruce Dickie, President of the Delco (Philadelphia) Scottish Games and President of the St. Andrews Society of Philadelphia. Can be worn by all of the name and its spelling variants.</em></li>
-<li>1982 — Dickie (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4192">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C82800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LC #C82800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>Designed in 1982 by Dr. Phil Smith for Robert Bruce Dickie, President of the Delco (Philadelphia) Scottish Games and President of the St. Andrews Society of Philadelphia. Can be worn by all of the name and its spelling variants.</em></li>
+<li>1982 — Dickie (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4192/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#146400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #146400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C82800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LC #C82800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #00008C"></span><br><em>Designed in 1982 by Dr. Phil Smith for Robert Bruce Dickie, President of the Delco (Philadelphia) Scottish Games and President of the St. Andrews Society of Philadelphia. Can be worn by all of the name and its spelling variants.</em></li>
 </ul>
 </details>
 

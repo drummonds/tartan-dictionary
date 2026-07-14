@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lg2dg9k16r2db30lg3dg6w1~x2~lg3304130-dg1202138/">Climb, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lg2dg9k16r2db30lg3dg6w1~x2~lg3304130-dg1202138/"><img src="/variants/s8/lg2dg9k16r2db30lg3dg6w1~x2~lg3304130-dg1202138/sett.png" alt="Climb, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/climb-the/">Climb, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/climb-the/"><img src="/variants/s8/lg2dg9k16r2db30lg3dg6w1~x2~lg3304130-dg1202138/sett.png" alt="Climb, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

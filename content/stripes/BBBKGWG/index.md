@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/">MacLean, Donald (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><img src="/variants/s7/g16lb3g3k10db12dr2db3~x2/sett.png" alt="MacLean, Donald (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maclean-donald/">MacLean, Donald</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maclean-donald/"><img src="/variants/s7/g16lb3g3k10db12dr2db3~x2/sett.png" alt="MacLean, Donald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

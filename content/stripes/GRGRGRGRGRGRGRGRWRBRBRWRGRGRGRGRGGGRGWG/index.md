@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s39/g9r3g9r8g1r1g3r1g1r8g1r1g3r1g1r8w1r4db10r3db10r4w1r8g2r4g2r8g5r3g5r3g5y1g5r5g8w1g8~x2/">Lumsden</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s39/g9r3g9r8g1r1g3r1g1r8g1r1g3r1g1r8w1r4db10r3db10r4w1r8g2r4g2r8g5r3g5r3g5y1g5r5g8w1g8~x2/"><img src="/variants/s39/g9r3g9r8g1r1g3r1g1r8g1r1g3r1g1r8w1r4db10r3db10r4w1r8g2r4g2r8g5r3g5r3g5y1g5r5g8w1g8~x2/sett.png" alt="Lumsden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g21w2g20r8g6y3g6r8g10r9g11r22g3r9g3r21w2r10db26r6db26r10w2r19g2r2g3r2g2r20g2r2g3r2g2r19g20r6g20/">Lumsden Waistcoat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g21w2g20r8g6y3g6r8g10r9g11r22g3r9g3r21w2r10db26r6db26r10w2r19g2r2g3r2g2r20g2r2g3r2g2r19g20r6g20/"><img src="/variants/s39/g21w2g20r8g6y3g6r8g10r9g11r22g3r9g3r21w2r10db26r6db26r10w2r19g2r2g3r2g2r20g2r2g3r2g2r19g20r6g20/sett.png" alt="Lumsden Waistcoat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lu/lumsden/">Lumsden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lu/lumsden/"><img src="/variants/s39/g21w2g20r8g6y3g6r8g10r9g11r22g3r9g3r21w2r10db26r6db26r10w2r19g2r2g3r2g2r20g2r2g3r2g2r19g20r6g20/sett.png" alt="Lumsden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

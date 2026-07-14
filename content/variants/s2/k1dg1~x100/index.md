@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Robin Hood"
   url: "/tartans/r/ro/robin-hood/"
-- name: "MacKillen Hunting"
-  url: "/setts/k1dg1/"
+- name: "Robin Hood/Wilson no.224/Rob Roy Hunting"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k1dg1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robin-hood/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GK](/stripes/gk/).
 
 Part of the [Robin Hood](/tartans/r/ro/robin-hood/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3537](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1819 — Robin Hood/Wilson no.224/Rob Roy Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3537">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Wilsons of Bannockburn was a weaving firm founded c1770 near Stirling. The Pattern books are in the National Museum of Antiquities, Edinburgh. Copies of the Pattern books and letters are prserved in the Scottish Tartans Society archive. This sett was sold at Haggerts of Aberfeldy as Rob Roy hunting in 1994.</em></li>
-<li>1819 — Robin Hood (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=785">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>This Wilsons sett 224 was found being sold at Haggarts of Aberfeldy as Rob Roy hunting. 1994.</em></li>
+<li>1819 — Robin Hood (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/785/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><br><em>This Wilsons sett 224 was found being sold at Haggarts of Aberfeldy as Rob Roy hunting. 1994.</em></li>
 </ul>
 </details>
 

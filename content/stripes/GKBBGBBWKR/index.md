@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r2k1w25db7dbi20g4dbi4dp8k1y2~x2~db1106275-dbi1406275/">Guardian of Scotland Dress (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r2k1w25db7dbi20g4dbi4dp8k1y2~x2~db1106275-dbi1406275/"><img src="/variants/s10/r2k1w25db7dbi20g4dbi4dp8k1y2~x2~db1106275-dbi1406275/sett.png" alt="Guardian of Scotland Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/guardian-of-scotland-dress/">Guardian of Scotland Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/guardian-of-scotland-dress/"><img src="/variants/s10/r2k1w25db7dbi20g4dbi4dp8k1y2~x2~db1106275-dbi1406275/sett.png" alt="Guardian of Scotland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/maclamroc/"
 - name: "MacLamroc"
   url: "/families/maclamroc/"
+aliases:
+- "/setts/y4k1dg16k16r1w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkgkrw/">GKGKRW</a></nav>
 A tartan of the [MacLamroc](/families/maclamroc/) family.
 Its design is pattern [GKGKRW](/stripes/gkgkrw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacLamroc** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y4k1dg16k16r1w3/">MacLamroc</a></td><td><code>Y/8 K2 DG32 K32 R2 W/6</code></td><td>150</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y4k1dg16k16r1w3/"><img src="/variants/s6/y4k1dg16k16r1w3~x2/sett.png" alt="MacLamroc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y4k1dg16k16r1w3~x2/">MacLamroc</a></td><td><code>Y/8 K2 DG32 K32 R2 W/6</code></td><td>150</td><td>1999</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><img src="/variants/s6/y4k1dg16k16r1w3~x2/sett.png" alt="MacLamroc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k3ly18g6dr17k31g3~x2/"><circle cx="168.4" cy="182.9" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s6/y2k6g33k33dp33w2~x2/"><circle cx="164.3" cy="160.4" r="4" fill="#3465a4"><title>MacNeil 8</title></circle></a><a href="/variants/s6/y1k1g9k9db8w1~x4/"><circle cx="127.4" cy="187.9" r="4" fill="#3465a4"><title>MacNeil 4</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="126.7" cy="142.4" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="137.5" cy="137.4" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/variants/s6/y3k1g20k20db18lb3~x2/"><circle cx="143.5" cy="162.1" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s6/ly3k1g20k20db18lb3~x2/"><circle cx="138.6" cy="160.3" r="4" fill="#3465a4"><title>Smith, Sir William</title></circle></a><a href="/variants/s6/y1k5g12k12db12w1~x4/"><circle cx="153.4" cy="184.1" r="4" fill="#3465a4"><title>MacNeil 5</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2~x2/"><circle cx="127.9" cy="178.0" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="154.3" cy="174.3" r="4" fill="#3465a4"><title>Bryant</title></circle></a><circle cx="195.2" cy="146.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k3ly18g6dr17k31g3~x2/"><circle cx="168.9" cy="182.7" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s6/y2k6g33k33dp33w2~x2/"><circle cx="164.8" cy="160.3" r="4" fill="#3465a4"><title>MacNeil 8</title></circle></a><a href="/variants/s6/y1k1g9k9db8w1~x4/"><circle cx="127.8" cy="187.7" r="4" fill="#3465a4"><title>MacNeil 4</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="127.1" cy="142.1" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="138.0" cy="137.2" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/variants/s6/y3k1g20k20db18lb3~x2/"><circle cx="143.9" cy="161.9" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s6/ly3k1g20k20db18lb3~x2/"><circle cx="138.9" cy="160.1" r="4" fill="#3465a4"><title>Smith, Sir William</title></circle></a><a href="/variants/s6/y1k5g12k12db12w1~x4/"><circle cx="153.8" cy="184.0" r="4" fill="#3465a4"><title>MacNeil 5</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2~x2/"><circle cx="128.2" cy="177.8" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="154.7" cy="174.2" r="4" fill="#3465a4"><title>Bryant</title></circle></a><circle cx="195.8" cy="146.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Wilding, Michael John"
   url: "/tartans/w/wi/wilding-michael-john/"
 - name: "Wilding, Michael John (Personal)"
-  url: "/setts/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wilding-michael-john/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWBKBKBKGWKW](/stripes/kbwbkbkbkgwkw/).
 
 Part of the [Wilding, Michael John](/tartans/w/wi/wilding-michael-john/) tartan — the named design grouping this sett with its other cloths.

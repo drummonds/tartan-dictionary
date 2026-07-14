@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r80lb40k5lo6/">Broberg (Scania) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r80lb40k5lo6/"><img src="/variants/s4/r80lb40k5lo6/sett.png" alt="Broberg (Scania) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/r3lb12k50ly3~x2/">Rogues, The (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r3lb12k50ly3~x2/"><img src="/variants/s4/r3lb12k50ly3~x2/sett.png" alt="Rogues, The (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/broberg/">Broberg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/broberg/"><img src="/variants/s4/r80lb40k5lo6/sett.png" alt="Broberg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/rogues-the/">Rogues , The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rogues-the/"><img src="/variants/s4/r3lb12k50ly3~x2/sett.png" alt="Rogues , The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/lo80k52w7o12~o2500000/">Oklahoma State University American Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/lo80k52w7o12~o2500000/"><img src="/variants/s4/lo80k52w7o12~o2500000/sett.png" alt="Oklahoma State University American Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ok/oklahoma-state-university-2/">Oklahoma State University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ok/oklahoma-state-university-2/"><img src="/variants/s4/lo80k52w7o12~o2500000/sett.png" alt="Oklahoma State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

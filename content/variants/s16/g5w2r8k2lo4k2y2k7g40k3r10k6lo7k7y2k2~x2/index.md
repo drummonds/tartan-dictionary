@@ -8,15 +8,15 @@ crumbs:
 - name: "Goldstraw"
   url: "/tartans/g/go/goldstraw/"
 - name: "Goldstraw (Personal)"
-  url: "/setts/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GKYKRKGKGKYKRWGWRKYKGKGKRKYKGK](/stripes/gkykrkgkgkykrwgwrkykgkgkrkykgk/).
+provenance below. It is one weaving of the [sett](/tartans/g/go/goldstraw/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWRKYKGKGKRKYKGK](/stripes/gwrkykgkgkrkykgk/).
 
 Part of the [Goldstraw](/tartans/g/go/goldstraw/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1447](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1447)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1447](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Goldstraw (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1447">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed by the late Don Smith (2002) of Heraldic Graphics, Glasgow for Martin Goldstraw of Shropshire, England. May be used by anyone of that name or variations such as Goostrey, Goostry, Goostree and Gostre. A tartan for the family of Goldstraw and Goostrey with the permission of Martin S.J. Goldstraw. Estimated thread count for display purposes only.</em></li>
-<li>2002 — Goldstraw (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5722">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by the late Don Smith (2002?) of Heraldic Graphics, Glasgow for Martin Goldstraw of Shropshire, England. May be used by anyone of that name or variations such as Goostrey, Goostry, Goostree and Gostre. Estimated thread count for display purposes only.</em></li>
+<li>2002 — Goldstraw (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5722/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D87C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="O #D87C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by the late Don Smith (2002?) of Heraldic Graphics, Glasgow for Martin Goldstraw of Shropshire, England. May be used by anyone of that name or variations such as Goostrey, Goostry, Goostree and Gostre. Estimated thread count for display purposes only.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2862
 
 ## Thread count
-K/4 Y4 K14 LO14 K12 R20 K6 G80 K14 Y4 K4 LO8 K4 R16 W4 G10 W4 R16 K4 LO8 K4 Y4 K14 G80 K6 R20 K12 LO14 K14 Y/4
+G/10 W4 R16 K4 LO8 K4 Y4 K14 G80 K6 R20 K12 LO14 K14 Y4 K/4
 
-One full sett is **836 threads**.
+One full sett is **422 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/4 Y4 K14 LO14 K12 R20 K6 G80 K14 Y4 K4 LO8 K4 R16 W4 G10 W4 R16 K4 LO8 K4 Y4 K14 G80 K6 R20 K12 LO14 K14 Y/4 — 836 threads; it folds to the canonical 422-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **836 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 Y4 K14 LO14 K12 R20 K6 G80 K14 Y4 K4 LO8 K4 R16 W4 G10 W4 R16 K4 LO8 K4 Y4 K14 G80 K6 R20 K12 LO14 K14 Y/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/10 W4 R16 K4 LO8 K4 Y4 K14 G80 K6 R20 K12 LO14 K14 Y4 K/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

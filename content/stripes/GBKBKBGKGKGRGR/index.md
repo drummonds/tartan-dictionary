@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2~x2/">Lochcarron Hunting Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2~x2/"><img src="/variants/s14/dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2~x2/sett.png" alt="Lochcarron Hunting Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochcarron-hunting/">Lochcarron Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochcarron-hunting/"><img src="/variants/s14/dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2~x2/sett.png" alt="Lochcarron Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

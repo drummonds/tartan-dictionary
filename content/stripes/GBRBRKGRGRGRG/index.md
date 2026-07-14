@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g22r4g2r2g2r4g12k12r2db10r4db4y3/">Cochrane LC</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g22r4g2r2g2r4g12k12r2db10r4db4y3/"><img src="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3/sett.png" alt="Cochrane LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/cochrane-lc/">Cochrane LC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cochrane-lc/"><img src="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3/sett.png" alt="Cochrane LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

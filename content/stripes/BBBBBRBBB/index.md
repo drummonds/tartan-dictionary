@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/">Leitrim</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><img src="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/sett.png" alt="Leitrim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leitrim/">Leitrim</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leitrim/"><img src="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/sett.png" alt="Leitrim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

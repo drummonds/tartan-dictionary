@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/">McCall (Caithness)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><img src="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/sett.png" alt="McCall (Caithness) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mccall/">McCall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mccall/"><img src="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/sett.png" alt="McCall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

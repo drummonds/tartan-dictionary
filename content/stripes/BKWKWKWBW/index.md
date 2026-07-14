@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db5k1lb2k1w6k1lb2db25lb2~x2/">Christopher Newport University</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db5k1lb2k1w6k1lb2db25lb2~x2/"><img src="/variants/s9/db5k1lb2k1w6k1lb2db25lb2~x2/sett.png" alt="Christopher Newport University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/christopher-newport-university/">Christopher Newport University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/christopher-newport-university/"><img src="/variants/s9/db5k1lb2k1w6k1lb2db25lb2~x2/sett.png" alt="Christopher Newport University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

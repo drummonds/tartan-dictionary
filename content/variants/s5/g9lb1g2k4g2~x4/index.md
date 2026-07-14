@@ -12,10 +12,10 @@ crumbs:
 - name: "Peterhead"
   url: "/tartans/p/pe/peterhead/"
 - name: "Peterhead (Personal)"
-  url: "/setts/g9lb1g2k4g2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g9lb1g2k4g2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pe/peterhead/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGWG](/stripes/gkgwg/).
 
 Part of the [Peterhead](/tartans/p/pe/peterhead/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3331](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/02/1997 — Peterhead (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3331">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#407058;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #407058"></span><span style="display:inline-block;width:.85em;height:.85em;background:#487088;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #487088"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Dawn Robson-Bell of Lochcarron for the Check Trading Co, Tokyo. Based on No.53, Mull or Glenlyon. Colour shades wrong. Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>1997 — Peterhead (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2368">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#407058;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #407058"></span><span style="display:inline-block;width:.85em;height:.85em;background:#487088;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #487088"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Dawn Robson-Bell of Lochcarron for the Check Trading Co, Tokyo. Based on No.53, Mull or Glenlyon. Colour shades wrong. Sample in STA Johnston Collection.</em></li>
+<li>1997 — Peterhead (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2368/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#407058;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #407058"></span><span style="display:inline-block;width:.85em;height:.85em;background:#487088;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #487088"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Designed by Dawn Robson-Bell of Lochcarron for the Check Trading Co, Tokyo. Based on No.53, Mull or Glenlyon. Colour shades wrong. Sample in STA Johnston Collection.</em></li>
 </ul>
 </details>
 

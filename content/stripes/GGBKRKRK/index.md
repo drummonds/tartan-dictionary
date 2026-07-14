@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k1r7k2r1k2do1g3y1~x4/">Craigmoor (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k1r7k2r1k2do1g3y1~x4/"><img src="/variants/s8/k1r7k2r1k2do1g3y1~x4/sett.png" alt="Craigmoor (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/craigmoor/">Craigmoor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/craigmoor/"><img src="/variants/s8/k1r7k2r1k2do1g3y1~x4/sett.png" alt="Craigmoor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

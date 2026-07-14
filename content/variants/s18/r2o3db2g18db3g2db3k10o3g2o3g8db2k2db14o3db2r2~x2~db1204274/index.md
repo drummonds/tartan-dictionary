@@ -11,11 +11,11 @@ crumbs:
   url: "/families/cooper/"
 - name: "Cooper"
   url: "/tartans/c/co/cooper-2/"
-- name: "Cooper (Clan)"
-  url: "/setts/r2o3db2g18db3g2db3k10o3g2o3g8db2k2db14o3db2r2/"
+- name: "Cooper/Couper (James Cant)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2o3db2g18db3g2db3k10o3g2o3g8db2k2db14o3db2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/cooper-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKBGRGRKBGBGBRR](/stripes/rbrbkbgrgrkbgbgbrr/).
 
 Part of the [Cooper](/tartans/c/co/cooper-2/) tartan — the named design grouping this sett with its other cloths.

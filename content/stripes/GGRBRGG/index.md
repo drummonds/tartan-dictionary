@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/">Tulloch Homes</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/"><img src="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/sett.png" alt="Tulloch Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tu/tulloch-homes-2/">Tulloch Homes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tu/tulloch-homes-2/"><img src="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/sett.png" alt="Tulloch Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

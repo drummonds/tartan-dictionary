@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/w6k20db2k2db29k2db2k3dr2k2dr4k2dr2k3g2k2g29k2g2k20w6~x2/">Genet of An Gwylvos (Montana)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/w6k20db2k2db29k2db2k3dr2k2dr4k2dr2k3g2k2g29k2g2k20w6~x2/"><img src="/variants/s21/w6k20db2k2db29k2db2k3dr2k2dr4k2dr2k3g2k2g29k2g2k20w6~x2/sett.png" alt="Genet of An Gwylvos (Montana) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ge/genet-of-an-gwylvos/">Genet of An Gwylvos</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ge/genet-of-an-gwylvos/"><img src="/variants/s21/w6k20db2k2db29k2db2k3dr2k2dr4k2dr2k3g2k2g29k2g2k20w6~x2/sett.png" alt="Genet of An Gwylvos sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

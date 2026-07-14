@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/">Tyrone, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/"><img src="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/sett.png" alt="Tyrone, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ty/tyrone-county/">Tyrone, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ty/tyrone-county/"><img src="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/sett.png" alt="Tyrone, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

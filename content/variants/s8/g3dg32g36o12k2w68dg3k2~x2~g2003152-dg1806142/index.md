@@ -8,10 +8,10 @@ crumbs:
 - name: "Kintail Dress"
   url: "/tartans/k/ki/kintail-dress/"
 - name: "Kintail Dress"
-  url: "/setts/g3dg32g36o12k2w68dg3k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g3dg32g36o12k2w68dg3k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kintail-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRKWGK](/stripes/gggrkwgk/).
 
 Part of the [Kintail Dress](/tartans/k/ki/kintail-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1999](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — Kintail Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1999">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#487044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #487044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #F8E8D8"></span><br><em>Sample in Scottish Tartans Authority's Johnston Collection.</em></li>
-<li>pre 1984 — Kintail Dress (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5363">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#487044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #487044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #F8E8D8"></span><br><em>Sample in STA's Johnston Collection.</em></li>
+<li>pre 1984 — Kintail Dress (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5363/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#487044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #487044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A07C58;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="FG #A07C58"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F8E8D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AW #F8E8D8"></span><br><em>Sample in STA's Johnston Collection.</em></li>
 </ul>
 </details>
 

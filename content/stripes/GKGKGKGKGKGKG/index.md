@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1~x4/">Brown Watch Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1~x4/"><img src="/variants/s13/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1~x4/sett.png" alt="Brown Watch Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/">Campbell Collegiate</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/"><img src="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/sett.png" alt="Campbell Collegiate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brown-watch/">Brown Watch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brown-watch/"><img src="/variants/s13/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1~x4/sett.png" alt="Brown Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campbell-collegiate/">Campbell Collegiate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campbell-collegiate/"><img src="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/sett.png" alt="Campbell Collegiate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/">Yamaguchi Tsutomu</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/"><img src="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/sett.png" alt="Yamaguchi Tsutomu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/y/ya/yamaguchi-tsutomu/">Yamaguchi Tsutomu</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/y/ya/yamaguchi-tsutomu/"><img src="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/sett.png" alt="Yamaguchi Tsutomu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

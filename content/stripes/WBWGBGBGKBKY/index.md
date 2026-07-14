@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/">Down County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><img src="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/sett.png" alt="Down County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/do/down-county-crest/">Down County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/down-county-crest/"><img src="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/sett.png" alt="Down County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

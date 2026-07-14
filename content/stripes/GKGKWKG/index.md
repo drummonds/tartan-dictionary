@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y6k6g30k8lb18k6y3~x2/">Cape Breton (yellow stripes) (Dist)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y6k6g30k8lb18k6y3~x2/"><img src="/variants/s7/y6k6g30k8lb18k6y3~x2/sett.png" alt="Cape Breton (yellow stripes) (Dist) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cape-breton-2/">Cape Breton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cape-breton-2/"><img src="/variants/s7/y6k6g30k8lb18k6y3~x2/sett.png" alt="Cape Breton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

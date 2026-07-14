@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Esk"
   url: "/tartans/g/gl/glen-esk-2/"
 - name: "Glen Esk"
-  url: "/setts/g10r1g1r2g8db10g1ly1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g10r1g1r2g8db10g1ly1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-esk-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGBGY](/stripes/grgrgbgy/).
 
 Part of the [Glen Esk](/tartans/g/gl/glen-esk-2/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Glen Esk (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C0030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LDR #9C0030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0000B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #0000B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCC800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCC800"></span><br><em>Fashion tartan found in Scotland 1993.</em></li>
-<li>pre 2002 — Glen Esk (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5006">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C0030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LDR #9C0030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0000B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #0000B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCC800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCC800"></span></li>
+<li>pre 2002 — Glen Esk (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5006/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#004800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #004800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#9C0030;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LDR #9C0030"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0000B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #0000B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCC800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YY #FCC800"></span></li>
 </ul>
 </details>
 

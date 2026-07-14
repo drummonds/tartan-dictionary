@@ -28,19 +28,15 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3~x2/">Cumbernauld District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3~x2/"><img src="/variants/s15/db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3~x2/sett.png" alt="Cumbernauld District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2/">MacKenzie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2/"><img src="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2/sett.png" alt="MacKenzie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/">MacKenzie - 1780 (Clan) as 78th</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/"><img src="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/sett.png" alt="MacKenzie - 1780 (Clan) as 78th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/">MacKenzie Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/"><img src="/variants/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/sett.png" alt="MacKenzie Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/">MacKenzie MINI Clan Miniature Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><img src="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/sett.png" alt="MacKenzie MINI Clan Miniature Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cumbernauld-2/">Cumbernauld</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cumbernauld-2/"><img src="/variants/s15/db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3~x2/sett.png" alt="Cumbernauld sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackenzie-6/">MacKenzie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackenzie-6/"><img src="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2/sett.png" alt="MacKenzie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackenzie-mini-clan-miniature/">MacKenzie MINI Clan Miniature</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackenzie-mini-clan-miniature/"><img src="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/sett.png" alt="MacKenzie MINI Clan Miniature sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/">78th Regiment (Highlanders) (Mil.)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/"><img src="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/sett.png" alt="78th Regiment (Highlanders) (Mil.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/78th-regiment/">78th Regiment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/78th-regiment/"><img src="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/sett.png" alt="78th Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

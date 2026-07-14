@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dbi11g15k2n5db3n11~x2~dbi1204274-db1106275/">Saorsa (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dbi11g15k2n5db3n11~x2~dbi1204274-db1106275/"><img src="/variants/s6/dbi11g15k2n5db3n11~x2~dbi1204274-db1106275/sett.png" alt="Saorsa (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/saorsa/">Saorsa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/saorsa/"><img src="/variants/s6/dbi11g15k2n5db3n11~x2~dbi1204274-db1106275/sett.png" alt="Saorsa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/">Williamson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/"><img src="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/sett.png" alt="Williamson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/williamson/">Williamson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/williamson/"><img src="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/sett.png" alt="Williamson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

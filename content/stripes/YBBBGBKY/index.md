@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/">Royal College of G.P.s (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><img src="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/sett.png" alt="Royal College of G.P.s (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-college-of-g-p-s/">Royal College of G.P.s</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-college-of-g-p-s/"><img src="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/sett.png" alt="Royal College of G.P.s sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

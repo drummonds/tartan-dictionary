@@ -8,10 +8,10 @@ crumbs:
 - name: "Highlands of Haliburton Dress"
   url: "/tartans/h/hi/highlands-of-haliburton-dress/"
 - name: "Highlands of Haliburton Dress"
-  url: "/setts/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/highlands-of-haliburton-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWRBBGWBGGBRG](/stripes/bwbwrbbgwbggbrg/).
 
 Part of the [Highlands of Haliburton Dress](/tartans/h/hi/highlands-of-haliburton-dress/) tartan — the named design grouping this sett with its other cloths.

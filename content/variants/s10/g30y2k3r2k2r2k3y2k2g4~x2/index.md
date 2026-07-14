@@ -8,10 +8,10 @@ crumbs:
 - name: "Forde"
   url: "/tartans/f/fo/forde/"
 - name: "Forde"
-  url: "/setts/g30y2k3r2k2r2k3y2k2g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g30y2k3r2k2r2k3y2k2g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fo/forde/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKRKRKGKG](/stripes/ggkrkrkgkg/).
 
 Part of the [Forde](/tartans/f/fo/forde/) tartan — the named design grouping this sett with its other cloths.

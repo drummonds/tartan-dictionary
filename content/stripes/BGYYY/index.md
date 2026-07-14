@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/lo17ly17lo17g26db5~x2/">Wild Mustard Dreams</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/lo17ly17lo17g26db5~x2/"><img src="/variants/s5/lo17ly17lo17g26db5~x2/sett.png" alt="Wild Mustard Dreams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wild-mustard-dreams/">Wild Mustard Dreams</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wild-mustard-dreams/"><img src="/variants/s5/lo17ly17lo17g26db5~x2/sett.png" alt="Wild Mustard Dreams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

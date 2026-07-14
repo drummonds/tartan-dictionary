@@ -12,22 +12,22 @@ crumbs:
 - name: "Robertson"
   url: "/tartans/r/ro/robertson-5/"
 - name: "Robertson - 1746 (Artefact)"
-  url: "/setts/g15r1g1r1g1r18g24r1g1r18g1r1g1r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g15r1g1r1g1r18g24r1g1r18g1r1g1r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ro/robertson-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgr/).
 
 Part of the [Robertson](/tartans/r/ro/robertson-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=893](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=893)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/893/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/893/*)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 1745 — Robertson - 1746 (Artefact) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=893">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>D.C.Stewart wrote, ''..a fragment of which now belongs to the Clan Donnachaidh Society, is given the name Robertson. The plaid of which it was part is said to have been presented by the Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans 1950.) Sindex notes say from the Museum of Antiquities, Edinburgh. Setts No. 254. Suspect that the original is actually a section from the culloden plaid. Ses - #4278. PEM</em></li>
+<li>pre 1745 — Robertson - 1746 (Artefact) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/893/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>D.C.Stewart wrote, ''..a fragment of which now belongs to the Clan Donnachaidh Society, is given the name Robertson. The plaid of which it was part is said to have been presented by the Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans 1950.) Sindex notes say from the Museum of Antiquities, Edinburgh. Setts No. 254. Suspect that the original is actually a section from the culloden plaid. Ses - #4278. PEM</em></li>
 <li>undated — Robertson #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3523">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#005020;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005020"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DC0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #DC0000"></span><br><em>D.C. Stewart wrote, "a fragment of which now belongs to the Clan Donnachaidh Society, is given the name Robertson. The plaid of which it was part is said to have been presented by the Prince to a Robertson during the '45." (The Setts of the Scottish Tartans 1950)</em></li>
 <li>undated — Robertson 2 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span></li>
 </ul>
@@ -43,7 +43,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=893](htt
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

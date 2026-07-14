@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/">Maver (Buckie)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/"><img src="/variants/s7/dg1y1dg1w1dg10r20y1~x4/sett.png" alt="Maver (Buckie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maver/">Maver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maver/"><img src="/variants/s7/dg1y1dg1w1dg10r20y1~x4/sett.png" alt="Maver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/b30y5b4r12/"
 ---
-Its design is pattern [BGBGBR](/stripes/bgbgbr/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbr/">BGBR</a></nav>
+Its design is pattern [BGBR](/stripes/bgbr/) — the page of every tartan sharing this colour sequence.
 
 The **UEFA** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b30y5b4r12/">UEFA</a></td><td><code>R/48 B16 Y20 B120 Y20 B/16</code></td><td>240</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/b30y5b4r12/"><img src="/variants/s4/b30y5b4r12~x4/sett.png" alt="UEFA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/b30y5b4r12~x4/">UEFA</a></td><td><code>B/120 Y20 B16 R/48</code></td><td>240</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/b30y5b4r12~x4/"><img src="/variants/s4/b30y5b4r12~x4/sett.png" alt="UEFA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="442.7" cy="232.7" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s4/db16r4db3dp1~x2/"><circle cx="561.1" cy="211.3" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/variants/s4/db20w1r12db12~x4/"><circle cx="448.9" cy="223.5" r="4" fill="#3465a4"><title>Masai Shuka 22</title></circle></a><a href="/variants/s3/lb8dg1dr2~x20/"><circle cx="446.6" cy="262.1" r="4" fill="#3465a4"><title>Gyle</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="349.2" cy="211.0" r="4" fill="#3465a4"><title>Masai Shuka 25</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="421.6" cy="293.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/r5db15g3db15y3db3~x2/"><circle cx="425.4" cy="244.1" r="4" fill="#3465a4"><title>Abertay University</title></circle></a><a href="/variants/s3/db23w4r4~x4/"><circle cx="422.3" cy="245.9" r="4" fill="#3465a4"><title>Auchmaliddie Samkoma</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="461.1" cy="191.3" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="425.3" cy="178.6" r="4" fill="#3465a4"><title>Meaux, Luc G</title></circle></a><circle cx="451.9" cy="270.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="443.6" cy="233.0" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s4/db16r4db3dp1~x2/"><circle cx="562.4" cy="211.8" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/variants/s4/db20w1r12db12~x4/"><circle cx="450.0" cy="223.8" r="4" fill="#3465a4"><title>Masai Shuka 22</title></circle></a><a href="/variants/s3/lb8dg1dr2~x20/"><circle cx="447.4" cy="262.4" r="4" fill="#3465a4"><title>Gyle</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="350.0" cy="211.1" r="4" fill="#3465a4"><title>Masai Shuka 25</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="422.1" cy="293.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/r5db15g3db15y3db3~x2/"><circle cx="426.3" cy="244.4" r="4" fill="#3465a4"><title>Abertay University</title></circle></a><a href="/variants/s3/db23w4r4~x4/"><circle cx="423.3" cy="246.2" r="4" fill="#3465a4"><title>Auchmaliddie Samkoma</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="461.9" cy="191.6" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="426.3" cy="178.8" r="4" fill="#3465a4"><title>Meaux, Luc G</title></circle></a><circle cx="452.6" cy="270.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

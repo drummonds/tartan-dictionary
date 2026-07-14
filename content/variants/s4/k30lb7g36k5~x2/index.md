@@ -12,10 +12,10 @@ crumbs:
 - name: "Innes Hunting"
   url: "/tartans/i/in/innes-hunting/"
 - name: "Innes Hunting"
-  url: "/setts/k30lb7g36k5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k30lb7g36k5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/in/innes-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWK](/stripes/kgwk/).
 
 Part of the [Innes Hunting](/tartans/i/in/innes-hunting/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1831](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>19/04/1969 — Innes Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1831">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #98C8E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Threadcount recorded by Colin Innes of Tulchan with agreement of the Duke of Roxburghe in the Lyon Court Books (writs section), 20, 19 April 1969. This is virtually identical to the Innes (Miniature) tartan (STR #1827) taken from a miniature of Georgina Innes at Edingight.</em></li>
-<li>pre 1969 — Innes Htg (Clan?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=368">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Recorded in Lyon Court Book LCB 20 dated 29th April 1969. Sample in STA Dalgety Collection. This is virtually #235 (Georgina Innes miniature) cut in half.</em></li>
+<li>pre 1969 — Innes Htg (Clan?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/368/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#98C8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #98C8E8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Recorded in Lyon Court Book LCB 20 dated 29th April 1969. Sample in STA Dalgety Collection. This is virtually #235 (Georgina Innes miniature) cut in half.</em></li>
 </ul>
 </details>
 

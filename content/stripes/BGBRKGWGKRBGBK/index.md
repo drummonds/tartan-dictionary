@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/">Lambert (Front Royal) Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><img src="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/sett.png" alt="Lambert (Front Royal) Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/t34g10t5r2k8dy2w3dy2k8r2t5g10t28k3~x2/">Lambert Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/t34g10t5r2k8dy2w3dy2k8r2t5g10t28k3~x2/"><img src="/variants/s14/t34g10t5r2k8dy2w3dy2k8r2t5g10t28k3~x2/sett.png" alt="Lambert Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lambert-dress/">Lambert Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lambert-dress/"><img src="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/sett.png" alt="Lambert Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

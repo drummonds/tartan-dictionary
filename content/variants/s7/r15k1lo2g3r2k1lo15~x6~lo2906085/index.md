@@ -12,15 +12,15 @@ crumbs:
 - name: "Scrymgeour"
   url: "/tartans/s/sc/scrymgeour/"
 - name: "Scrymgeour"
-  url: "/setts/r15k1lo2g3r2k1lo15/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r15k1lo2g3r2k1lo15/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KYGRKYKRGYKR](/stripes/kygrkykrgykr/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scrymgeour/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RKYGRKY](/stripes/rkygrky/).
 
 Part of the [Scrymgeour](/tartans/s/sc/scrymgeour/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3754](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3754)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1627
 
 ## Thread count
-R/90 K6 LO12 G18 R12 K6 LO90 K6 R12 G18 LO12 K/6
+R/90 K6 LO12 G18 R12 K6 LO/90
 
-One full sett is **480 threads**.
+One full sett is **288 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/90 K6 LO12 G18 R12 K6 LO90 K6 R12 G18 LO12 K/6 — 480 threads; it folds to the canonical 288-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **480 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/90 K6 LO12 G18 R12 K6 LO90 K6 R12 G18 LO12 K/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/90 K6 LO12 G18 R12 K6 LO/90 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/">Wells (1970) (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/"><img src="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/sett.png" alt="Wells (1970) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wells/">Wells</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wells/"><img src="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/sett.png" alt="Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

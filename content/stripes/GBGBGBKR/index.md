@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r6k55db8g6db10g6db6g4~x2/">Frederiction Police Force</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r6k55db8g6db10g6db6g4~x2/"><img src="/variants/s8/r6k55db8g6db10g6db6g4~x2/sett.png" alt="Frederiction Police Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/frederiction-police-force/">Frederiction Police Force</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/frederiction-police-force/"><img src="/variants/s8/r6k55db8g6db10g6db6g4~x2/sett.png" alt="Frederiction Police Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

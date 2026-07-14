@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w45t2w4t15w7/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbwbw/">WBWBW</a></nav>
 Its design is pattern [WBWBW](/stripes/wbwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Asahi** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Asahi** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w45t2w4t15w7/">Asahi</a></td><td><code>W/90 T4 W8 T30 W/14</code></td><td>188</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w45t2w4t15w7/"><img src="/variants/s5/w45t2w4t15w7~x2/sett.png" alt="Asahi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w45t2w4t15w7~x2/">Asahi</a></td><td><code>W/90 T4 W8 T30 W/14</code></td><td>188</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w45t2w4t15w7~x2/"><img src="/variants/s5/w45t2w4t15w7~x2/sett.png" alt="Asahi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w7db16w20db3w3y3~x2/"><circle cx="316.4" cy="250.4" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/w5db16w5db16w33dr3~x2/"><circle cx="344.5" cy="246.3" r="4" fill="#3465a4"><title>Buchanan Dress</title></circle></a><a href="/variants/s5/w50db7w7lb7w18~x2/"><circle cx="566.2" cy="270.2" r="4" fill="#3465a4"><title>Sephardim</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="341.0" cy="226.9" r="4" fill="#3465a4"><title>Fraser Arisaid</title></circle></a><a href="/variants/s4/db4w35db31w4~x2/"><circle cx="367.2" cy="283.3" r="4" fill="#3465a4"><title>Lewis Navy</title></circle></a><a href="/variants/s6/db3w16db4w3db12w2~x3/"><circle cx="354.5" cy="270.1" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><circle cx="530.6" cy="281.2" r="4" fill="#3465a4"><title>Harmony 13</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="440.6" cy="216.4" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><a href="/variants/s4/w20b20w3b3~x2/"><circle cx="379.4" cy="315.1" r="4" fill="#3465a4"><title>Unidentified, Plaid Barbie's Moss</title></circle></a><a href="/variants/s6/db6w2db29w29db2w6~x2/"><circle cx="375.9" cy="235.8" r="4" fill="#3465a4"><title>Erskine</title></circle></a><circle cx="585.6" cy="238.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/w7db16w20db3w3y3~x2/"><circle cx="316.9" cy="250.4" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/w5db16w5db16w33dr3~x2/"><circle cx="344.9" cy="246.4" r="4" fill="#3465a4"><title>Buchanan Dress</title></circle></a><a href="/variants/s5/w50db7w7lb7w18~x2/"><circle cx="567.1" cy="270.6" r="4" fill="#3465a4"><title>Sephardim</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="341.4" cy="226.9" r="4" fill="#3465a4"><title>Fraser Arisaid</title></circle></a><a href="/variants/s4/db4w35db31w4~x2/"><circle cx="367.7" cy="283.4" r="4" fill="#3465a4"><title>Lewis Navy</title></circle></a><a href="/variants/s6/db3w16db4w3db12w2~x3/"><circle cx="354.9" cy="270.2" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><circle cx="531.2" cy="281.6" r="4" fill="#3465a4"><title>Harmony 13</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="441.4" cy="216.6" r="4" fill="#3465a4"><title>Ikelman</title></circle></a><a href="/variants/s4/w20b20w3b3~x2/"><circle cx="379.7" cy="315.3" r="4" fill="#3465a4"><title>Unidentified, Plaid Barbie's Moss</title></circle></a><a href="/variants/s6/db6w2db29w29db2w6~x2/"><circle cx="376.5" cy="235.9" r="4" fill="#3465a4"><title>Erskine</title></circle></a><circle cx="586.5" cy="238.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

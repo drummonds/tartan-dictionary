@@ -10,10 +10,10 @@ crumbs:
 - name: "Drummond Relic"
   url: "/tartans/d/dr/drummond-relic/"
 - name: "Drummond Relic"
-  url: "/setts/r26w1k8y1g13k1w4k1y2k4lb3r8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r26w1k8y1g13k1w4k1y2k4lb3r8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/dr/drummond-relic/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKGGKWKGKWR](/stripes/rwkggkwkgkwr/).
 
 Part of the [Drummond Relic](/tartans/d/dr/drummond-relic/) tartan — the named design grouping this sett with its other cloths.

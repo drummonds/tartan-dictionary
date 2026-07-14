@@ -8,10 +8,10 @@ crumbs:
 - name: "Guszcza, The"
   url: "/tartans/g/gu/guszcza-the/"
 - name: "Guszcza, The (Personal)"
-  url: "/setts/n28r2n3w2n17y8lb16ly3lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n28r2n3w2n17y8lb16ly3lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gu/guszcza-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBGWYW](/stripes/brbwbgwyw/).
 
 Part of the [Guszcza, The](/tartans/g/gu/guszcza-the/) tartan — the named design grouping this sett with its other cloths.

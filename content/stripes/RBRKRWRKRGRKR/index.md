@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/">First Special Service Force</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/"><img src="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/sett.png" alt="First Special Service Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/">First Special Services Forces (Mil)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/"><img src="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/sett.png" alt="First Special Services Forces (Mil) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/first-special-service-force/">First Special Service Force</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/first-special-service-force/"><img src="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/sett.png" alt="First Special Service Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/first-special-services-forces/">First Special Services Forces</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/first-special-services-forces/"><img src="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/sett.png" alt="First Special Services Forces sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

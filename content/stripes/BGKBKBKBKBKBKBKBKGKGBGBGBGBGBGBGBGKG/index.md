@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/g50k4dy6db28dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/">Alberta</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/g50k4dy6db28dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/"><img src="/variants/s36/g50k4dy6db28dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/sett.png" alt="Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alberta/">Alberta</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alberta/"><img src="/variants/s36/g50k4dy6db28dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/sett.png" alt="Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/canadian-centennial-2/">Canadian Centennial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canadian-centennial-2/"><img src="/variants/s36/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/sett.png" alt="Canadian Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Twisted Kilt Society"
   url: "/tartans/t/tw/twisted-kilt-society/"
 - name: "Twisted Kilt Society"
-  url: "/setts/dg7n3dg1n2dg1n3dg6n1dy1n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg7n3dg1n2dg1n3dg6n1dy1n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/tw/twisted-kilt-society/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/).
 
 Part of the [Twisted Kilt Society](/tartans/t/tw/twisted-kilt-society/) tartan — the named design grouping this sett with its other cloths.

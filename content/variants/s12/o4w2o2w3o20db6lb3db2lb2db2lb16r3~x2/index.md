@@ -10,10 +10,10 @@ crumbs:
 - name: "Callum, Scotch House"
   url: "/tartans/c/ca/callum-scotch-house-2/"
 - name: "Callum, Scotch House"
-  url: "/setts/o4w2o2w3o20db6lb3db2lb2db2lb16r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o4w2o2w3o20db6lb3db2lb2db2lb16r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/callum-scotch-house-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWBWBRWRWR](/stripes/rwbwbwbrwrwr/).
 
 Part of the [Callum, Scotch House](/tartans/c/ca/callum-scotch-house-2/) tartan — the named design grouping this sett with its other cloths.

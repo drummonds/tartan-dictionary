@@ -12,10 +12,10 @@ crumbs:
 - name: "Hill"
   url: "/tartans/h/hi/hill/"
 - name: "Hill"
-  url: "/setts/k4r2k28db31y1db2y1db2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4r2k28db31y1db2y1db2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hi/hill/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKBGBGBW](/stripes/krkbgbgbw/).
 
 Part of the [Hill](/tartans/h/hi/hill/) tartan — the named design grouping this sett with its other cloths.

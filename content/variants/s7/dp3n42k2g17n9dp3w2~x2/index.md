@@ -8,10 +8,10 @@ crumbs:
 - name: "Barrance, Paul and Kelly"
   url: "/tartans/b/ba/barrance-paul-and-kelly/"
 - name: "Barrance, Paul and Kelly (Personal)"
-  url: "/setts/dp3n42k2g17n9dp3w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp3n42k2g17n9dp3w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barrance-paul-and-kelly/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGBBW](/stripes/bbkgbbw/).
 
 Part of the [Barrance, Paul and Kelly](/tartans/b/ba/barrance-paul-and-kelly/) tartan — the named design grouping this sett with its other cloths.

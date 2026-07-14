@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/y3db5dg2db2dg2w1dg4ly12r2lb2k2~x4/">Oregon American District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/y3db5dg2db2dg2w1dg4ly12r2lb2k2~x4/"><img src="/variants/s11/y3db5dg2db2dg2w1dg4ly12r2lb2k2~x4/sett.png" alt="Oregon American District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/oregon/">Oregon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/oregon/"><img src="/variants/s11/y3db5dg2db2dg2w1dg4ly12r2lb2k2~x4/sett.png" alt="Oregon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

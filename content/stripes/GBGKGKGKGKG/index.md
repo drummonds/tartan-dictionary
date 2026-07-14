@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g13k2g2k11y1k2y1k11g2b1g11~x4/">Hopetoun</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g13k2g2k11y1k2y1k11g2b1g11~x4/"><img src="/variants/s11/g13k2g2k11y1k2y1k11g2b1g11~x4/sett.png" alt="Hopetoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hopetoun/">Hopetoun</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hopetoun/"><img src="/variants/s11/g13k2g2k11y1k2y1k11g2b1g11~x4/sett.png" alt="Hopetoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

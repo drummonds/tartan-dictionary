@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/w2lb4r4ly1lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wwryw/">WWRYW</a></nav>
 Its design is pattern [WWRYW](/stripes/wwryw/) — the page of every tartan sharing this colour sequence.
 
 The **Doohan** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Doohan** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w2lb4r4ly1lb2/">Doohan</a></td><td><code>LB/20 LY10 R40 LB40 W/20</code></td><td>220</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w2lb4r4ly1lb2/"><img src="/variants/s5/w2lb4r4ly1lb2~x10/sett.png" alt="Doohan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w2lb4r4ly1lb2~x10/">Doohan</a></td><td><code>W/20 LB40 R40 LY10 LB/20</code></td><td>220</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w2lb4r4ly1lb2~x10/"><img src="/variants/s5/w2lb4r4ly1lb2~x10/sett.png" alt="Doohan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="172.1" cy="278.7" r="4" fill="#3465a4"><title>Doohan , Andrew</title></circle></a><a href="/variants/s5/t10w3t12ly14r4~x2/"><circle cx="257.7" cy="303.9" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="172.5" cy="275.0" r="4" fill="#3465a4"><title>Battle of Prestonpans Herit</title></circle></a><a href="/variants/s6/db1n8w1db4r8w1~x6/"><circle cx="209.0" cy="230.6" r="4" fill="#3465a4"><title>Little's</title></circle></a><a href="/variants/s5/g4r3lb1k1lb3~x4/"><circle cx="115.2" cy="282.0" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/variants/s5/y15r9lb30w3db4~x2/"><circle cx="257.7" cy="220.8" r="4" fill="#3465a4"><title>S.I.D.E.</title></circle></a><a href="/variants/s5/r30db20w15lb3ly3/"><circle cx="186.8" cy="206.6" r="4" fill="#3465a4"><title>Siddle, New</title></circle></a><a href="/variants/s6/r6db1y1w1db2w3~x4/"><circle cx="190.6" cy="225.0" r="4" fill="#3465a4"><title>Winnipeg Embroiderers' Guild</title></circle></a><a href="/variants/s6/r12db2y2w2db4w3~x2/"><circle cx="224.4" cy="215.1" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild</title></circle></a><a href="/variants/s4/lb15w2r20w3~x4/"><circle cx="337.1" cy="254.6" r="4" fill="#3465a4"><title>Masai Shuka 24</title></circle></a><circle cx="228.9" cy="314.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db2y1r4db4w2~x10/"><circle cx="172.3" cy="278.5" r="4" fill="#3465a4"><title>Doohan , Andrew</title></circle></a><a href="/variants/s5/t10w3t12ly14r4~x2/"><circle cx="257.7" cy="303.9" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="172.6" cy="274.8" r="4" fill="#3465a4"><title>Battle of Prestonpans Herit</title></circle></a><a href="/variants/s6/db1n8w1db4r8w1~x6/"><circle cx="209.2" cy="230.5" r="4" fill="#3465a4"><title>Little's</title></circle></a><a href="/variants/s5/g4r3lb1k1lb3~x4/"><circle cx="115.1" cy="281.7" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/variants/s5/y15r9lb30w3db4~x2/"><circle cx="258.0" cy="220.7" r="4" fill="#3465a4"><title>S.I.D.E.</title></circle></a><a href="/variants/s5/r30db20w15lb3ly3/"><circle cx="187.1" cy="206.3" r="4" fill="#3465a4"><title>Siddle, New</title></circle></a><a href="/variants/s6/r6db1y1w1db2w3~x4/"><circle cx="190.8" cy="224.8" r="4" fill="#3465a4"><title>Winnipeg Embroiderers' Guild</title></circle></a><a href="/variants/s6/r12db2y2w2db4w3~x2/"><circle cx="224.8" cy="215.0" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild</title></circle></a><a href="/variants/s4/lb15w2r20w3~x4/"><circle cx="337.5" cy="254.6" r="4" fill="#3465a4"><title>Masai Shuka 24</title></circle></a><circle cx="228.8" cy="314.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,16 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db4r3db3r22dg8r2~x2/">Auld Reekie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db4r3db3r22dg8r2~x2/"><img src="/variants/s6/db4r3db3r22dg8r2~x2/sett.png" alt="Auld Reekie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/">Auld Reekie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/"><img src="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/sett.png" alt="Auld Reekie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/au/auld-reekie/">Auld Reekie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/au/auld-reekie/"><img src="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/sett.png" alt="Auld Reekie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db48r18db6r13y4r14~x2/">Butler</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db48r18db6r13y4r14~x2/"><img src="/variants/s6/db48r18db6r13y4r14~x2/sett.png" alt="Butler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/butler/">Butler</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/butler/"><img src="/variants/s6/db48r18db6r13y4r14~x2/sett.png" alt="Butler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/dp4r3dp26r26g26r4~x2/">Unidentified #21</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dp4r3dp26r26g26r4~x2/"><img src="/variants/s6/dp4r3dp26r26g26r4~x2/sett.png" alt="Unidentified #21 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-16/">Unidentified 16</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-16/"><img src="/variants/s6/dp4r3dp26r26g26r4~x2/sett.png" alt="Unidentified 16 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bygyyygyggy/">BYGYYYGYGGY</a></nav>
 Its design is pattern [BYGYYYGYGGY](/stripes/bygyyygyggy/) — the page of every tartan sharing this colour sequence.
 
 The **Annand** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Annand** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3/">Annand</a></td><td><code>DP/8 LY16 G4 LY4 LO4 LY4 G4 LY4 DY12 G20 LY/6</code></td><td>158</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3/"><img src="/variants/s11/dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3~x2/sett.png" alt="Annand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3~x2/">Annand</a></td><td><code>DP/8 LY16 G4 LY4 LO4 LY4 G4 LY4 DY12 G20 LY/6</code></td><td>158</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3~x2/"><img src="/variants/s11/dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3~x2/sett.png" alt="Annand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><circle cx="173.5" cy="245.0" r="4" fill="#3465a4"><title>Tinkler, Andrew</title></circle></a><a href="/variants/s18/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3~x2/"><circle cx="163.4" cy="230.9" r="4" fill="#3465a4"><title>Lamont Heather</title></circle></a><a href="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/"><circle cx="166.7" cy="222.2" r="4" fill="#3465a4"><title>Bannockbane Dark</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="159.9" cy="264.3" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s15/ly18do3ly3do3ly3do16g16r2y2r2g16do16ly17do3ly3~x2/"><circle cx="155.9" cy="180.2" r="4" fill="#3465a4"><title>Lander</title></circle></a><a href="/variants/s13/g5dp1g1dp1g1dg3g3dg1g3dg3ly3lyi1ly1~x4~g1903114-lyi2706114/"><circle cx="230.9" cy="258.8" r="4" fill="#3465a4"><title>Balmoral Hotel Edinburgh</title></circle></a><circle cx="164.5" cy="246.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><circle cx="173.4" cy="244.8" r="4" fill="#3465a4"><title>Tinkler, Andrew</title></circle></a><a href="/variants/s18/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3~x2/"><circle cx="163.3" cy="230.7" r="4" fill="#3465a4"><title>Lamont Heather</title></circle></a><a href="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/"><circle cx="166.7" cy="221.9" r="4" fill="#3465a4"><title>Bannockbane Dark</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="159.8" cy="264.0" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s15/ly18do3ly3do3ly3do16g16r2y2r2g16do16ly17do3ly3~x2/"><circle cx="156.0" cy="179.9" r="4" fill="#3465a4"><title>Lander</title></circle></a><a href="/variants/s13/g5dp1g1dp1g1dg3g3dg1g3dg3ly3lyi1ly1~x4~g1903114-lyi2706114/"><circle cx="230.8" cy="258.7" r="4" fill="#3465a4"><title>Balmoral Hotel Edinburgh</title></circle></a><circle cx="164.4" cy="245.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

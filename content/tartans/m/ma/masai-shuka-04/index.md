@@ -4,7 +4,14 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai"
+  url: "/groups/masai/"
+- name: "Last of the Masai"
+  url: "/groups/masai/last-of-the-masai/"
+aliases:
+- "/setts/y20db10w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbw/">GBW</a></nav>
 Its design is pattern [GBW](/stripes/gbw/) — the page of every tartan sharing this colour sequence.
 
 The **Masai Shuka 04** tartan is recorded as a single sett.
@@ -12,8 +19,8 @@ The **Masai Shuka 04** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y20db10w3/">Masai Shuka 04</a></td><td><code>Y/40 DB20 W/6</code></td><td>86</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y20db10w3/"><img src="/variants/s3/y20db10w3~x2/sett.png" alt="Masai Shuka 04 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/y20db10w3~x2/">Masai Shuka 04</a></td><td><code>Y/40 DB20 W/6</code></td><td>86</td><td>~2007</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/y20db10w3~x2/"><img src="/variants/s3/y20db10w3~x2/sett.png" alt="Masai Shuka 04 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="324.7" cy="300.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s4/w11db20y3db8~x2/"><circle cx="356.4" cy="275.6" r="4" fill="#3465a4"><title>Lucard, Stéphane</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="323.1" cy="283.8" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="255.5" cy="333.2" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="371.5" cy="245.2" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s4/r1g8dy8w1~x2/"><circle cx="274.0" cy="253.9" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.7" cy="303.7" r="4" fill="#3465a4"><title>Outlander</title></circle></a><a href="/variants/s5/t10w3t12ly14r4~x2/"><circle cx="257.7" cy="303.9" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="411.7" cy="282.6" r="4" fill="#3465a4"><title>One Account</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="258.2" cy="232.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><circle cx="362.4" cy="298.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="324.9" cy="300.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s4/w11db20y3db8~x2/"><circle cx="357.0" cy="275.7" r="4" fill="#3465a4"><title>Lucard, Stéphane</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="323.6" cy="283.9" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="255.8" cy="333.3" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="372.0" cy="245.4" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s4/r1g8dy8w1~x2/"><circle cx="274.3" cy="254.0" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.9" cy="303.7" r="4" fill="#3465a4"><title>Outlander</title></circle></a><a href="/variants/s5/t10w3t12ly14r4~x2/"><circle cx="257.7" cy="303.9" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="412.4" cy="282.9" r="4" fill="#3465a4"><title>One Account</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="258.7" cy="232.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><circle cx="362.9" cy="298.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

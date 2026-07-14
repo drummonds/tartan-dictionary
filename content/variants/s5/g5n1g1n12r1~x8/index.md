@@ -8,10 +8,10 @@ crumbs:
 - name: "Ceredigion"
   url: "/tartans/c/ce/ceredigion/"
 - name: "Ceredigion (Personal)"
-  url: "/setts/g5n1g1n12r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g5n1g1n12r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ce/ceredigion/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBR](/stripes/gbgbr/).
 
 Part of the [Ceredigion](/tartans/c/ce/ceredigion/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=611](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1986 — Ceredigion (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=611">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C0C4A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #C0C4A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B44440;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #B44440"></span><br><em>One of six tartans designed by Sir Michael Leighton between 1986 and 1993. Count estimated from colour photograph.</em></li>
-<li>1986-1993 — Ceredigion (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7078">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C0C4A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #C0C4A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B44440;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #B44440"></span><br><em>One of six tartans designed by Sir Michael Leighton between 1986 and 1993. Count estimated from colour photograph.</em></li>
+<li>1986-1993 — Ceredigion (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7078/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C0C4A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #C0C4A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B44440;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #B44440"></span><br><em>One of six tartans designed by Sir Michael Leighton between 1986 and 1993. Count estimated from colour photograph.</em></li>
 </ul>
 </details>
 

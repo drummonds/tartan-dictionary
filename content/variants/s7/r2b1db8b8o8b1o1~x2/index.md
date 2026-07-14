@@ -8,10 +8,10 @@ crumbs:
 - name: "Over Mountain"
   url: "/tartans/o/ov/over-mountain-2/"
 - name: "Over Mountain"
-  url: "/setts/r2b1db8b8o8b1o1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2b1db8b8o8b1o1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ov/over-mountain-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBRBR](/stripes/rbbbrbr/).
 
 Part of the [Over Mountain](/tartans/o/ov/over-mountain-2/) tartan — the named design grouping this sett with its other cloths.

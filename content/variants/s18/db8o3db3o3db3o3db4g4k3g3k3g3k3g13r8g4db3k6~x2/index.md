@@ -10,10 +10,10 @@ crumbs:
 - name: "Glasgow Celtic Society"
   url: "/tartans/g/gl/glasgow-celtic-society/"
 - name: "Glasgow, Celtic Society"
-  url: "/setts/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glasgow-celtic-society/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBGKGKGKGRGBK](/stripes/brbrbrbgkgkgkgrgbk/).
 
 Part of the [Glasgow Celtic Society](/tartans/g/gl/glasgow-celtic-society/) tartan — the named design grouping this sett with its other cloths.

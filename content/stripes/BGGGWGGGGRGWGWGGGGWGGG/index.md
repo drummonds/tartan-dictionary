@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s22/dg10dgi4dg10w2dg10dgi2dg2dgi20w4dgi4w4dgi4r4dgi20dg2dgi2dg10w2dg10dgi4dg5b4~x2~dg1104144-dgi1704158/">Toshach</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s22/dg10dgi4dg10w2dg10dgi2dg2dgi20w4dgi4w4dgi4r4dgi20dg2dgi2dg10w2dg10dgi4dg5b4~x2~dg1104144-dgi1704158/"><img src="/variants/s22/dg10dgi4dg10w2dg10dgi2dg2dgi20w4dgi4w4dgi4r4dgi20dg2dgi2dg10w2dg10dgi4dg5b4~x2~dg1104144-dgi1704158/sett.png" alt="Toshach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/to/toshach-2/">Toshach</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/toshach-2/"><img src="/variants/s22/dg10dgi4dg10w2dg10dgi2dg2dgi20w4dgi4w4dgi4r4dgi20dg2dgi2dg10w2dg10dgi4dg5b4~x2~dg1104144-dgi1704158/sett.png" alt="Toshach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

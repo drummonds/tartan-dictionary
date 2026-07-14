@@ -12,10 +12,10 @@ crumbs:
 - name: "Fraser Hunting"
   url: "/tartans/f/fr/fraser-hunting-3/"
 - name: "Fraser Hunting (unmarked sample)"
-  url: "/setts/w2dy14g7dy1db7dy1db7dy1g7dy14r2dy14g7dy1db7dy1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2dy14g7dy1db7dy1db7dy1g7dy14r2dy14g7dy1db7dy1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fr/fraser-hunting-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGGRGGGBGBGGGW](/stripes/gbgggrgggbgbgggw/).
 
 Part of the [Fraser Hunting](/tartans/f/fr/fraser-hunting-3/) tartan — the named design grouping this sett with its other cloths.

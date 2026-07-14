@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k15lo2k10db18lr3~x2/">College of Radiographers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k15lo2k10db18lr3~x2/"><img src="/variants/s5/k15lo2k10db18lr3~x2/sett.png" alt="College of Radiographers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/college-of-radiographers/">College of Radiographers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/college-of-radiographers/"><img src="/variants/s5/k15lo2k10db18lr3~x2/sett.png" alt="College of Radiographers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

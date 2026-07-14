@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/k1w1r1~x14/">Dacre Estate Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k1w1r1~x14/"><img src="/variants/s3/k1w1r1~x14/sett.png" alt="Dacre Estate Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/r35w94k6/">St Georges Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r35w94k6/"><img src="/variants/s3/r35w94k6/sett.png" alt="St Georges Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/dacre/">Dacre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/dacre/"><img src="/variants/s3/k1w1r1~x14/sett.png" alt="Dacre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/st-georges-check/">St Georges Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/st-georges-check/"><img src="/variants/s3/r35w94k6/sett.png" alt="St Georges Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

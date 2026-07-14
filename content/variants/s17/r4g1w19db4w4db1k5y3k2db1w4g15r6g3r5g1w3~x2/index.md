@@ -12,10 +12,10 @@ crumbs:
 - name: "Victoria"
   url: "/tartans/v/vi/victoria-3/"
 - name: "Victoria"
-  url: "/setts/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/vi/victoria-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWBWBKGKBWGRGRGW](/stripes/rgwbwbkgkbwgrgrgw/).
 
 Part of the [Victoria](/tartans/v/vi/victoria-3/) tartan — the named design grouping this sett with its other cloths.

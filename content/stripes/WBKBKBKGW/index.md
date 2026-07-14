@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/">O'Neill (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><img src="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/sett.png" alt="O'Neill (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-neill-9/">O'Neill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-neill-9/"><img src="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/sett.png" alt="O'Neill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/">Royal College of Surgeons of Edinburgh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/"><img src="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/sett.png" alt="Royal College of Surgeons of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-college-of-surgeons-of-edinburgh/">Royal College of Surgeons of Edinburgh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-college-of-surgeons-of-edinburgh/"><img src="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/sett.png" alt="Royal College of Surgeons of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/">Hawick Common Riding (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/"><img src="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/sett.png" alt="Hawick Common Riding (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hawick-common-riding/">Hawick Common Riding</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hawick-common-riding/"><img src="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/sett.png" alt="Hawick Common Riding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/">31, Tartan (The.. )</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/"><img src="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/sett.png" alt="31, Tartan (The.. ) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/">American</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/"><img src="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/sett.png" alt="American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/0-9/0-9/31/">31</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/0-9/0-9/31/"><img src="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/sett.png" alt="31 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/am/american/">American</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/am/american/"><img src="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/sett.png" alt="American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

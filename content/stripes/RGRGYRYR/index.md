@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r5g2r2g35lo20r2lo20r2/">PeachyKeen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r5g2r2g35lo20r2lo20r2/"><img src="/variants/s8/r5g2r2g35lo20r2lo20r2/sett.png" alt="PeachyKeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pe/peachy-keen/">Peachy Keen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pe/peachy-keen/"><img src="/variants/s8/r5g2r2g35lo20r2lo20r2/sett.png" alt="Peachy Keen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

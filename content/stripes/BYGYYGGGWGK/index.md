@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k49dy15w2dy6g6dy16lyi3ly23dy9lyi2t9~x2~lyi2705081-ly2503076/">State Seal of Wyoming (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k49dy15w2dy6g6dy16lyi3ly23dy9lyi2t9~x2~lyi2705081-ly2503076/"><img src="/variants/s11/k49dy15w2dy6g6dy16lyi3ly23dy9lyi2t9~x2~lyi2705081-ly2503076/sett.png" alt="State Seal of Wyoming (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/state-seal-of-wyoming/">State Seal of Wyoming</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/state-seal-of-wyoming/"><img src="/variants/s11/k49dy15w2dy6g6dy16lyi3ly23dy9lyi2t9~x2~lyi2705081-ly2503076/sett.png" alt="State Seal of Wyoming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

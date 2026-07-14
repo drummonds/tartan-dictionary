@@ -8,10 +8,10 @@ crumbs:
 - name: "US Army Regimental"
   url: "/tartans/u/us/us-army-regimental/"
 - name: "US Army Regimental Tartan"
-  url: "/setts/db12k17y4dg51ly3g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db12k17y4dg51ly3g4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/us/us-army-regimental/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGYG](/stripes/bkggyg/).
 
 Part of the [US Army Regimental](/tartans/u/us/us-army-regimental/) tartan — the named design grouping this sett with its other cloths.

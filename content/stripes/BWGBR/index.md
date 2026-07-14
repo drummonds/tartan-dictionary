@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db6w1dy6do12r2~x4/">Vass (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db6w1dy6do12r2~x4/"><img src="/variants/s5/db6w1dy6do12r2~x4/sett.png" alt="Vass (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/va/vass/">Vass</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/va/vass/"><img src="/variants/s5/db6w1dy6do12r2~x4/sett.png" alt="Vass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Lloyd of Astargus"
   url: "/tartans/l/ll/lloyd-of-astargus/"
 - name: "LLoyd of Astargus Canadian Family Tartan"
-  url: "/setts/dr3db38k13w3n20dy2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3db38k13w3n20dy2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/ll/lloyd-of-astargus/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKWBG](/stripes/bbkwbg/).
 
 Part of the [Lloyd of Astargus](/tartans/l/ll/lloyd-of-astargus/) tartan — the named design grouping this sett with its other cloths.

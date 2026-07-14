@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/">Espana</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/"><img src="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/sett.png" alt="Espana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/es/espana/">Espana</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/es/espana/"><img src="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/sett.png" alt="Espana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

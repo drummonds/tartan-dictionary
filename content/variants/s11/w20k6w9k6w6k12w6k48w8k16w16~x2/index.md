@@ -11,11 +11,11 @@ crumbs:
   url: "/families/maclean/"
 - name: "MacLean"
   url: "/tartans/m/ma/maclean/"
-- name: "MacLean, Black & White"
-  url: "/setts/w20k6w9k6w6k12w6k48w8k16w16/"
+- name: "MacLean (Black and White)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w20k6w9k6w6k12w6k48w8k16w16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclean/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/).
 
 Part of the [MacLean](/tartans/m/ma/maclean/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2602](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — MacLean (Black and White) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2602">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Half actual count for display. James Mackinlay collected tartans between the 1930s -1950s. His collection is in the Scottish Tartans Society archive.</em></li>
-<li>pre 2002 — MacLean B & W (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1824">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>MacKinlay count. No further details.</em></li>
+<li>pre 2002 — MacLean B & W (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/1824/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>MacKinlay count. No further details.</em></li>
 </ul>
 </details>
 

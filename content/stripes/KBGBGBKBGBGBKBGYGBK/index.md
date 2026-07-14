@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/k19db2g10ly3g10db2k24db2g10db18g5db2k7db2g5db18g10db2k5~x2/">Offally Irish County Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/k19db2g10ly3g10db2k24db2g10db18g5db2k7db2g5db18g10db2k5~x2/"><img src="/variants/s19/k19db2g10ly3g10db2k24db2g10db18g5db2k7db2g5db18g10db2k5~x2/sett.png" alt="Offally Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/of/offally-irish-county/">Offally Irish County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/of/offally-irish-county/"><img src="/variants/s19/k19db2g10ly3g10db2k24db2g10db18g5db2k7db2g5db18g10db2k5~x2/sett.png" alt="Offally Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Anderson"
   url: "/tartans/a/an/anderson-3/"
 - name: "Anderson (Highland Society of London)"
-  url: "/setts/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/an/anderson-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRBRGRBRKGKGKWKWRKRWR](/stripes/rgrbrbrgrbrkgkgkwkwrkrwr/).
 
 Part of the [Anderson](/tartans/a/an/anderson-3/) tartan — the named design grouping this sett with its other cloths.

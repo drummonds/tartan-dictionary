@@ -12,15 +12,15 @@ crumbs:
 - name: "Walters"
   url: "/tartans/w/wa/walters/"
 - name: "Walters (Personal)"
-  url: "/setts/dg2dp2dg24g1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg2dp2dg24g1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGGGBG](/stripes/bgggbg/).
+provenance below. It is one weaving of the [sett](/tartans/w/wa/walters/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GBGG](/stripes/gbgg/).
 
 Part of the [Walters](/tartans/w/wa/walters/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4489](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4489)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4160
 
 ## Thread count
-DG/8 DP8 DG96 G4 DG96 DP/8
+DG/8 DP8 DG96 G/4
 
-One full sett is **424 threads**.
+One full sett is **220 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/8 DP8 DG96 G4 DG96 DP/8 — 424 threads; it folds to the canonical 220-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **424 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/8 DP8 DG96 G4 DG96 DP/8 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/8 DP8 DG96 G/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

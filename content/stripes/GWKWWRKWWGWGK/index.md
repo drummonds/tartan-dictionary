@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/">Nazarian (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/"><img src="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/sett.png" alt="Nazarian (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/na/nazarian/">Nazarian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/na/nazarian/"><img src="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/sett.png" alt="Nazarian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

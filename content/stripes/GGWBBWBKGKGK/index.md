@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/">Clan An Caigeann (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><img src="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/sett.png" alt="Clan An Caigeann (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clan-an-caigeann/">Clan An Caigeann</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clan-an-caigeann/"><img src="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/sett.png" alt="Clan An Caigeann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s54/dr17db1lr10db1dr4g10lr1g11dr11lr2db10g10dr2g1dr11g1dr2g11dr10g1dr42g1dr2g1dr2g1dr42g1dr2g1dr2g1dr2g1dr10g11dr2g1dr11g1dr2g10db10lr2dr11g11lr1g10dr4db1lr10db1dr17lr2~x2/">MacDonald of Staffa #6</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s54/dr17db1lr10db1dr4g10lr1g11dr11lr2db10g10dr2g1dr11g1dr2g11dr10g1dr42g1dr2g1dr2g1dr42g1dr2g1dr2g1dr2g1dr10g11dr2g1dr11g1dr2g10db10lr2dr11g11lr1g10dr4db1lr10db1dr17lr2~x2/"><img src="/variants/s54/dr17db1lr10db1dr4g10lr1g11dr11lr2db10g10dr2g1dr11g1dr2g11dr10g1dr42g1dr2g1dr2g1dr42g1dr2g1dr2g1dr2g1dr10g11dr2g1dr11g1dr2g10db10lr2dr11g11lr1g10dr4db1lr10db1dr17lr2~x2/sett.png" alt="MacDonald of Staffa #6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-staffa-2/">MacDonald of Staffa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-staffa-2/"><img src="/variants/s54/dr17db1lr10db1dr4g10lr1g11dr11lr2db10g10dr2g1dr11g1dr2g11dr10g1dr42g1dr2g1dr2g1dr42g1dr2g1dr2g1dr2g1dr10g11dr2g1dr11g1dr2g10db10lr2dr11g11lr1g10dr4db1lr10db1dr17lr2~x2/sett.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

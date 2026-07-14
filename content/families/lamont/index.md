@@ -15,7 +15,7 @@ crumbs:
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/l/la/lamont-5/">Lamont</a> ★</td><td>—</td><td>1</td><td>2</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/lamont-5/"><img src="/variants/s8/db10k1db1k1db2k8g10w1~x4/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/lamont-5/"><img src="/variants/s8/db10k1db1k1db2k8g10w1~x2/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/l/la/lamont/">Lamont</a></td><td>1810</td><td>3</td><td>4</td><td>2.55</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/lamont/"><img src="/variants/s13/db23k3db3k3db3k22g22w3g22k22db18k3db3~x2/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/l/la/lamont-dress/">Lamont Dress</a></td><td>2003</td><td>1</td><td>1</td><td>5.00</td></tr>

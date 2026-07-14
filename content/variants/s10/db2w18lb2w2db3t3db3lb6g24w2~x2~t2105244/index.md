@@ -10,10 +10,10 @@ crumbs:
 - name: "Blue Spruce, The"
   url: "/tartans/b/bl/blue-spruce-the/"
 - name: "Blue Spruce, The"
-  url: "/setts/db2w18lb2w2db3t3db3lb6g24w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2w18lb2w2db3t3db3lb6g24w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blue-spruce-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWWBBBWGW](/stripes/bwwwbbbwgw/).
 
 Part of the [Blue Spruce, The](/tartans/b/bl/blue-spruce-the/) tartan — the named design grouping this sett with its other cloths.

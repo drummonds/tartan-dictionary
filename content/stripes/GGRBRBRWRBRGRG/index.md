@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7y1~x2~r2109032/">Recycled Lamb, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7y1~x2~r2109032/"><img src="/variants/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7y1~x2~r2109032/sett.png" alt="Recycled Lamb, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/re/recycled-lamb-the/">Recycled Lamb, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/recycled-lamb-the/"><img src="/variants/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7y1~x2~r2109032/sett.png" alt="Recycled Lamb, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

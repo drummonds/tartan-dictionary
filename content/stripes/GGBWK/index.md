@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k19lb10dp19g40y10/">Gallowater Old District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k19lb10dp19g40y10/"><img src="/variants/s5/k19lb10dp19g40y10/sett.png" alt="Gallowater Old District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k4lb3dp11g14y2~x2/">Wellington, No 122</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k4lb3dp11g14y2~x2/"><img src="/variants/s5/k4lb3dp11g14y2~x2/sett.png" alt="Wellington, No 122 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/ga/gala-water-old/">Gala Water Old</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/ga/gala-water-old/"><img src="/variants/s5/k19lb10dp19g40y10/sett.png" alt="Gala Water Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wellington-no-122/">Wellington, No 122</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wellington-no-122/"><img src="/variants/s5/k4lb3dp11g14y2~x2/sett.png" alt="Wellington, No 122 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Kinnison"
   url: "/tartans/k/ki/kinnison/"
 - name: "Kinnison Family Tartan"
-  url: "/setts/db8k65w38y4w38y4w38k65r8k65w38g4w38g4w38k65db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db8k65w38y4w38y4w38k65r8k65w38g4w38g4w38k65db8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ki/kinnison/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWGWGWKRKWGWGWKB](/stripes/bkwgwgwkrkwgwgwkb/).
 
 Part of the [Kinnison](/tartans/k/ki/kinnison/) tartan — the named design grouping this sett with its other cloths.

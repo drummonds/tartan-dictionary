@@ -12,10 +12,10 @@ crumbs:
 - name: "Oakhall"
   url: "/tartans/o/oa/oakhall/"
 - name: "Oakhall"
-  url: "/setts/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/oa/oakhall/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGGKGGGBGBK](/stripes/bgbgggkgggbgbk/).
 
 Part of the [Oakhall](/tartans/o/oa/oakhall/) tartan — the named design grouping this sett with its other cloths.

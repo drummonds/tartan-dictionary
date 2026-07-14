@@ -12,10 +12,10 @@ crumbs:
 - name: "Pringle"
   url: "/tartans/p/pr/pringle/"
 - name: "Pringle"
-  url: "/setts/r4g64y4g4k6db4y4db56w4db4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4g64y4g4k6db4y4db56w4db4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/pringle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGKBGBWBW](/stripes/rgggkbgbwbw/).
 
 Part of the [Pringle](/tartans/p/pr/pringle/) tartan — the named design grouping this sett with its other cloths.

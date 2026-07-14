@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/">Notre Dame Marching Guard</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/"><img src="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/sett.png" alt="Notre Dame Marching Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/notre-dame-marching-guard/">Notre Dame Marching Guard</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/notre-dame-marching-guard/"><img src="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/sett.png" alt="Notre Dame Marching Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

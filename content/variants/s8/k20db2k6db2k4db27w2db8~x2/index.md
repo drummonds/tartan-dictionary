@@ -8,10 +8,10 @@ crumbs:
 - name: "Pride of Kinross"
   url: "/tartans/p/pr/pride-of-kinross/"
 - name: "Pride of Kinross"
-  url: "/setts/k20db2k6db2k4db27w2db8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k20db2k6db2k4db27w2db8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/pride-of-kinross/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKBK](/stripes/bwbkbkbk/).
 
 Part of the [Pride of Kinross](/tartans/p/pr/pride-of-kinross/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11282](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>08/10/2014 — Pride of Kinross (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11282">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><br><em>A fashion tartan to be used by the Kinross and Dustrict Pipe Band. The inspiration for the colours was drawn largely from Loch Leven, whose banks Kinross sits on, the lighter and darker blues, flecked through with white representing the changing nature of the loch through the seasons.</em></li>
-<li>2015 — Pride of Kinross (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11282">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>A fashion tartan to be used by the Kinross and District Pipe Band. The inspiration for the colours was drawn largely from Loch Leven, whose banks Kinross sits on, the lighter and darker blues, flecked through with white representing the changing nature of the loch through the seasons.</em></li>
+<li>2015 — Pride of Kinross (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11282/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>A fashion tartan to be used by the Kinross and District Pipe Band. The inspiration for the colours was drawn largely from Loch Leven, whose banks Kinross sits on, the lighter and darker blues, flecked through with white representing the changing nature of the loch through the seasons.</em></li>
 </ul>
 </details>
 

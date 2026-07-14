@@ -28,19 +28,19 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/db14k3dr3w1~x2/">Bacon, Blue</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db14k3dr3w1~x2/"><img src="/variants/s4/db14k3dr3w1~x2/sett.png" alt="Bacon, Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/db31k8dp4w2~x4/">Osborne, Luke Alexander (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db31k8dp4w2~x4/"><img src="/variants/s4/db31k8dp4w2~x4/sett.png" alt="Osborne, Luke Alexander (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bacon-2/">Bacon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bacon-2/"><img src="/variants/s4/db14k3dr3w1~x2/sett.png" alt="Bacon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/os/osborne-luke-alexander/">Osborne, Luke Alexander</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/os/osborne-luke-alexander/"><img src="/variants/s4/db31k8dp4w2~x4/sett.png" alt="Osborne, Luke Alexander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/db50k12db21w5~x2/">Coinean Dubh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db50k12db21w5~x2/"><img src="/variants/s4/db50k12db21w5~x2/sett.png" alt="Coinean Dubh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coinean-dubh/">Coinean Dubh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coinean-dubh/"><img src="/variants/s4/db50k12db21w5~x2/sett.png" alt="Coinean Dubh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/n12k8db15w8~x2/">Equity Vision Ltd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/n12k8db15w8~x2/"><img src="/variants/s4/n12k8db15w8~x2/sett.png" alt="Equity Vision Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/eq/equity-vision-ltd/">Equity Vision Ltd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eq/equity-vision-ltd/"><img src="/variants/s4/n12k8db15w8~x2/sett.png" alt="Equity Vision Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/n25k9n10w2~x4/">Graham Grey - 1820 (Fashion?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/n25k9n10w2~x4/"><img src="/variants/s4/n25k9n10w2~x4/sett.png" alt="Graham Grey - 1820 (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/graham-2/">Graham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-2/"><img src="/variants/s4/n25k9n10w2~x4/sett.png" alt="Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

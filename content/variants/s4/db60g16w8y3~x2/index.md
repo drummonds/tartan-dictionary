@@ -8,10 +8,10 @@ crumbs:
 - name: "MaleHsuHK"
   url: "/tartans/m/ma/malehsuhk/"
 - name: "MaleHsuHK (Hong Kong) (Personal)"
-  url: "/setts/db60g16w8y3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db60g16w8y3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/malehsuhk/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWG](/stripes/bgwg/).
 
 Part of the [MaleHsuHK](/tartans/m/ma/malehsuhk/) tartan — the named design grouping this sett with its other cloths.

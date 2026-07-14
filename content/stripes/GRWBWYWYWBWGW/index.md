@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16lb1~x4/">Gibbs/Gibson (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16lb1~x4/"><img src="/variants/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16lb1~x4/sett.png" alt="Gibbs/Gibson (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gi/gibbs-gibson-2/">Gibbs/Gibson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/gibbs-gibson-2/"><img src="/variants/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16lb1~x4/sett.png" alt="Gibbs/Gibson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

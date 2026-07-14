@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/">Proven</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/"><img src="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/sett.png" alt="Proven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/proven/">Proven</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/proven/"><img src="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/sett.png" alt="Proven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

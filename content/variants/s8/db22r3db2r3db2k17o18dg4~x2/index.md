@@ -8,10 +8,10 @@ crumbs:
 - name: "Scotch House 2000, antique"
   url: "/tartans/s/sc/scotch-house-2000-antique-2/"
 - name: "Scotch House 2000, antique"
-  url: "/setts/db22r3db2r3db2k17o18dg4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db22r3db2r3db2k17o18dg4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scotch-house-2000-antique-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBKRG](/stripes/brbrbkrg/).
 
 Part of the [Scotch House 2000, antique](/tartans/s/sc/scotch-house-2000-antique-2/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dy3g22dg13k15w3k16g1r3~x2/">Lawson, William</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dy3g22dg13k15w3k16g1r3~x2/"><img src="/variants/s8/dy3g22dg13k15w3k16g1r3~x2/sett.png" alt="Lawson, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lawson-william/">Lawson, William</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lawson-william/"><img src="/variants/s8/dy3g22dg13k15w3k16g1r3~x2/sett.png" alt="Lawson, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

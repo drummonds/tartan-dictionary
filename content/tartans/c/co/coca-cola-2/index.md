@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lb15do15lb15do80r6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbwbw/">RBWBW</a></nav>
 Its design is pattern [RBWBW](/stripes/rbwbw/) — the page of every tartan sharing this colour sequence.
 
 The **Coca Cola** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Coca Cola** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb15do15lb15do80r6/">Coca Cola</a></td><td><code>LB/15 DO15 LB15 DO80 R/6</code></td><td>241</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb15do15lb15do80r6/"><img src="/variants/s5/lb15do15lb15do80r6/sett.png" alt="Coca Cola sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/lb15do15lb15do80r6/">Coca Cola</a></td><td><code>LB/15 DO15 LB15 DO80 R/6</code></td><td>241</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/lb15do15lb15do80r6/"><img src="/variants/s5/lb15do15lb15do80r6/sett.png" alt="Coca Cola sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/"><circle cx="545.5" cy="234.9" r="4" fill="#3465a4"><title>Oman, Sultanate of / Oliver dress</title></circle></a><a href="/variants/s6/db1o5db1o5db2w1~x4/"><circle cx="369.7" cy="252.0" r="4" fill="#3465a4"><title>Tokharian</title></circle></a><a href="/variants/s5/w7dy7w7dy40r3~x2/"><circle cx="432.2" cy="176.4" r="4" fill="#3465a4"><title>Coca Cola US</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="458.9" cy="186.1" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="406.7" cy="208.8" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s5/r8dg3r4dg44w4~x2/"><circle cx="476.2" cy="172.6" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/variants/s7/db13k3db20o70db20o30w3~x2/"><circle cx="382.2" cy="147.3" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/variants/s6/db3o3db24o30db3o2~x2/"><circle cx="417.4" cy="207.5" r="4" fill="#3465a4"><title>Auburn University</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.7" cy="198.0" r="4" fill="#3465a4"><title>Glen Shiel</title></circle></a><a href="/variants/s5/dr27w3dr6w2g3~x4/"><circle cx="527.4" cy="185.0" r="4" fill="#3465a4"><title>Martin Family, Robert N</title></circle></a><circle cx="455.1" cy="189.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/"><circle cx="546.6" cy="235.4" r="4" fill="#3465a4"><title>Oman, Sultanate of / Oliver dress</title></circle></a><a href="/variants/s6/db1o5db1o5db2w1~x4/"><circle cx="370.4" cy="252.1" r="4" fill="#3465a4"><title>Tokharian</title></circle></a><a href="/variants/s5/w7dy7w7dy40r3~x2/"><circle cx="433.3" cy="176.7" r="4" fill="#3465a4"><title>Coca Cola US</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="460.1" cy="186.4" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="407.5" cy="209.0" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/variants/s5/r8dg3r4dg44w4~x2/"><circle cx="477.3" cy="173.0" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/variants/s7/db13k3db20o70db20o30w3~x2/"><circle cx="383.2" cy="147.5" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/variants/s6/db3o3db24o30db3o2~x2/"><circle cx="418.3" cy="207.7" r="4" fill="#3465a4"><title>Auburn University</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="412.6" cy="198.2" r="4" fill="#3465a4"><title>Glen Shiel</title></circle></a><a href="/variants/s5/dr27w3dr6w2g3~x4/"><circle cx="528.6" cy="185.4" r="4" fill="#3465a4"><title>Martin Family, Robert N</title></circle></a><circle cx="456.2" cy="190.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

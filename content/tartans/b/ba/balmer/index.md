@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/y2r5y2r5db49w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgrbw/">GRGRBW</a></nav>
 Its design is pattern [GRGRBW](/stripes/grgrbw/) — the page of every tartan sharing this colour sequence.
 
 The **Balmer** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Balmer** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/y2r5y2r5db49w2/">Balmer</a></td><td><code>Y/4 R10 Y4 R10 DB98 W/4</code></td><td>252</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/y2r5y2r5db49w2/"><img src="/variants/s6/y2r5y2r5db49w2~x2/sett.png" alt="Balmer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y2r5y2r5db49w2~x2/">Balmer</a></td><td><code>Y/4 R10 Y4 R10 DB98 W/4</code></td><td>252</td><td>2001</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y2r5y2r5db49w2~x2/"><img src="/variants/s6/y2r5y2r5db49w2~x2/sett.png" alt="Balmer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="440.8" cy="77.2" r="4" fill="#3465a4"><title>Michael</title></circle></a><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="587.3" cy="131.5" r="4" fill="#3465a4"><title>Coogan</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="404.1" cy="106.3" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="469.3" cy="160.8" r="4" fill="#3465a4"><title>Steffen, Morris</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="477.6" cy="167.9" r="4" fill="#3465a4"><title>Steffen, Markus</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="425.9" cy="77.3" r="4" fill="#3465a4"><title>Hybelius, J-A</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="520.0" cy="113.1" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps</title></circle></a><a href="/variants/s5/db32r3db4k1y3~x2/"><circle cx="591.7" cy="124.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s6/db80r8w1r8y20db15~x2/"><circle cx="495.7" cy="121.3" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="531.5" cy="144.5" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><circle cx="499.4" cy="118.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="442.2" cy="77.5" r="4" fill="#3465a4"><title>Michael</title></circle></a><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="588.6" cy="131.9" r="4" fill="#3465a4"><title>Coogan</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="405.2" cy="106.4" r="4" fill="#3465a4"><title>Pool, Robert David</title></circle></a><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="470.6" cy="161.1" r="4" fill="#3465a4"><title>Steffen, Morris</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="478.8" cy="168.2" r="4" fill="#3465a4"><title>Steffen, Markus</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="427.1" cy="77.4" r="4" fill="#3465a4"><title>Hybelius, J-A</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="521.6" cy="113.5" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps</title></circle></a><a href="/variants/s5/db32r3db4k1y3~x2/"><circle cx="593.4" cy="125.0" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s6/db80r8w1r8y20db15~x2/"><circle cx="497.0" cy="121.6" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="532.9" cy="144.9" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><circle cx="500.8" cy="119.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

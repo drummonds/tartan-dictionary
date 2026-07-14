@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/w2db20dg2g2dg2g4dg8y2r1/">Nova Scotia (Province)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w2db20dg2g2dg2g4dg8y2r1/"><img src="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2~dg1806142-g2408144/sett.png" alt="Nova Scotia (Province) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/nova-scotia-3/">Nova Scotia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nova-scotia-3/"><img src="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2~dg1806142-g2408144/sett.png" alt="Nova Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

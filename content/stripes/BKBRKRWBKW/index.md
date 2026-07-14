@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dr9k2dr2r13k2r2w1dr13k26w2/">Pride of Wales (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dr9k2dr2r13k2r2w1dr13k26w2/"><img src="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2/sett.png" alt="Pride of Wales (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/pride-of-wales/">Pride of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/pride-of-wales/"><img src="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2/sett.png" alt="Pride of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

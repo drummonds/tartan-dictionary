@@ -12,10 +12,10 @@ crumbs:
 - name: "Mar"
   url: "/tartans/m/ma/mar/"
 - name: "Mar (Tribe of..) District Tartan"
-  url: "/setts/r2k4g45k3y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k4g45k3y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mar/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKR](/stripes/gkgkr/).
 
 Part of the [Mar](/tartans/m/ma/mar/) tartan — the named design grouping this sett with its other cloths.

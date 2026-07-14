@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k3y1w9y1db9k3lb1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgwgbkw/">KGWGBKW</a></nav>
 Its design is pattern [KGWGBKW](/stripes/kgwgbkw/) — the page of every tartan sharing this colour sequence.
 
 The **St. Francis Xavier University** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **St. Francis Xavier University** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k3y1w9y1db9k3lb1/">St. Francis Xavier University</a></td><td><code>K/12 Y4 W36 Y4 DB36 K12 LB/4</code></td><td>200</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3y1w9y1db9k3lb1/"><img src="/variants/s7/k3y1w9y1db9k3lb1~x4/sett.png" alt="St. Francis Xavier University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/">St. Francis Xavier University</a></td><td><code>K/12 Y4 W36 Y4 DB36 K12 LB/4</code></td><td>200</td><td>1994</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><img src="/variants/s7/k3y1w9y1db9k3lb1~x4/sett.png" alt="St. Francis Xavier University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="108.8" cy="159.5" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="110.8" cy="167.3" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/"><circle cx="118.3" cy="140.1" r="4" fill="#3465a4"><title>Thomson</title></circle></a><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><circle cx="148.3" cy="154.8" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor</title></circle></a><a href="/variants/s6/w2k1o10k6t12ly2~x2/"><circle cx="130.0" cy="176.8" r="4" fill="#3465a4"><title>Soroptimist International (Corporate</title></circle></a><a href="/variants/s6/dg10k1db13k3w9y3~x2/"><circle cx="102.4" cy="184.8" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s8/w4db32w12k5r9y8r4w4~x2/"><circle cx="127.2" cy="159.7" r="4" fill="#3465a4"><title>Brunnbauer</title></circle></a><a href="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/"><circle cx="99.8" cy="174.2" r="4" fill="#3465a4"><title>Oliver Dress</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.4" cy="143.9" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="141.0" cy="147.4" r="4" fill="#3465a4"><title>Davidson</title></circle></a><circle cx="104.6" cy="169.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="109.2" cy="159.2" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="111.1" cy="167.0" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/"><circle cx="118.7" cy="139.7" r="4" fill="#3465a4"><title>Thomson</title></circle></a><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><circle cx="148.7" cy="154.6" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor</title></circle></a><a href="/variants/s6/w2k1o10k6t12ly2~x2/"><circle cx="130.3" cy="176.6" r="4" fill="#3465a4"><title>Soroptimist International (Corporate</title></circle></a><a href="/variants/s6/dg10k1db13k3w9y3~x2/"><circle cx="102.7" cy="184.5" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s8/w4db32w12k5r9y8r4w4~x2/"><circle cx="127.6" cy="159.4" r="4" fill="#3465a4"><title>Brunnbauer</title></circle></a><a href="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/"><circle cx="100.0" cy="173.8" r="4" fill="#3465a4"><title>Oliver Dress</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="155.8" cy="143.6" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="141.4" cy="147.1" r="4" fill="#3465a4"><title>Davidson</title></circle></a><circle cx="104.9" cy="169.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

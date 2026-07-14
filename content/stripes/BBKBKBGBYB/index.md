@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/">MacEdward (MacGregor Hastie)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/"><img src="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/sett.png" alt="MacEdward (MacGregor Hastie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macedward-2/">MacEdward</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macedward-2/"><img src="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/sett.png" alt="MacEdward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

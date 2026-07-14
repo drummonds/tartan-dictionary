@@ -10,17 +10,17 @@ crumbs:
 - name: "Gordonstoun"
   url: "/families/gordonstoun/"
 - name: "Gordonstoun"
-  url: "/tartans/g/go/gordonstoun-5/"
+  url: "/tartans/g/go/gordonstoun-2/"
 - name: "Gordonstoun #2"
-  url: "/setts/y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GBGBGBWBBGGGBBWBGBGBGW](/stripes/gbgbgbwbbgggbbwbgbgbgw/).
+provenance below. It is one weaving of the [sett](/tartans/g/go/gordonstoun-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GGBBWBGBGBGW](/stripes/ggbbwbgbgbgw/).
 
-Part of the [Gordonstoun](/tartans/g/go/gordonstoun-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gordonstoun](/tartans/g/go/gordonstoun-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1468](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1468)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 190
 
 ## Thread count
-LB/4 Gi4 DR4 Gi40 DR4 G22 DR22 LB4 T22 DR4 G38 Y10 G38 DR4 T22 LB4 DR22 G22 DR4 Gi40 DR4 Gi/4
+Y/10 G38 DR4 T22 LB4 DR22 G22 DR4 Gi40 DR4 Gi4 LB/4
 
-One full sett is **676 threads**.
+One full sett is **342 threads**.
+
+<p class="recorded-note">The source recorded this cloth as LB/4 Gi4 DR4 Gi40 DR4 G22 DR22 LB4 T22 DR4 G38 Y10 G38 DR4 T22 LB4 DR22 G22 DR4 Gi40 DR4 Gi/4 — 676 threads; it folds to the canonical 342-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **676 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/4 Gi4 DR4 Gi40 DR4 G22 DR22 LB4 T22 DR4 G38 Y10 G38 DR4 T22 LB4 DR22 G22 DR4 Gi40 DR4 Gi/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/10 G38 DR4 T22 LB4 DR22 G22 DR4 Gi40 DR4 Gi4 LB/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

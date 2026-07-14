@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/">Edmonton, City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/"><img src="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/sett.png" alt="Edmonton, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-edmonton/">City of Edmonton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-edmonton/"><img src="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/sett.png" alt="City of Edmonton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Prince Albert"
   url: "/tartans/p/pr/prince-albert-2/"
 - name: "Prince Albert"
-  url: "/setts/db23r6db6k10y3k2w2k2g11r12k2r10w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db23r6db6k10y3k2w2k2g11r12k2r10w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/prince-albert-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGKWKGRKRW](/stripes/brbkgkwkgrkrw/).
 
 Part of the [Prince Albert](/tartans/p/pr/prince-albert-2/) tartan — the named design grouping this sett with its other cloths.

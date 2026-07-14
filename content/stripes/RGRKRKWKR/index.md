@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r4k12w1k12r4k4r24g1r4/">Wemyss</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r4k12w1k12r4k4r24g1r4/"><img src="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/sett.png" alt="Wemyss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wemyss/">Wemyss</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wemyss/"><img src="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/sett.png" alt="Wemyss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

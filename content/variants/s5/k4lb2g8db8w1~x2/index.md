@@ -8,10 +8,10 @@ crumbs:
 - name: "Dougles"
   url: "/tartans/d/do/dougles/"
 - name: "Dougles Green"
-  url: "/setts/k4lb2g8db8w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4lb2g8db8w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/do/dougles/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGBW](/stripes/kwgbw/).
 
 Part of the [Dougles](/tartans/d/do/dougles/) tartan — the named design grouping this sett with its other cloths.

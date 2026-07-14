@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/">Millar (Kirkcaldy) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/"><img src="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/sett.png" alt="Millar (Kirkcaldy) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/millar/">Millar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/millar/"><img src="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/sett.png" alt="Millar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

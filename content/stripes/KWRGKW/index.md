@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k5w4r15g70k4w5~x2/">Tahrir (Liberation)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k5w4r15g70k4w5~x2/"><img src="/variants/s6/k5w4r15g70k4w5~x2/sett.png" alt="Tahrir (Liberation) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/ta/tahrir/">Tahrir</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/ta/tahrir/"><img src="/variants/s6/k5w4r15g70k4w5~x2/sett.png" alt="Tahrir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

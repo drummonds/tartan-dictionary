@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2b19w2b4k2~x2/">MacGiboney / MacGibboney</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2b19w2b4k2~x2/"><img src="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2b19w2b4k2~x2/sett.png" alt="MacGiboney / MacGibboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2db19w2db4k2~x2/">MacGiboney/MacGibboney</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2db19w2db4k2~x2/"><img src="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2db19w2db4k2~x2/sett.png" alt="MacGiboney/MacGibboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgibboney/">MacGibboney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgibboney/"><img src="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2db19w2db4k2~x2/sett.png" alt="MacGibboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgiboney-macgibboney/">MacGiboney / MacGibboney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgiboney-macgibboney/"><img src="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2b19w2b4k2~x2/sett.png" alt="MacGiboney / MacGibboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

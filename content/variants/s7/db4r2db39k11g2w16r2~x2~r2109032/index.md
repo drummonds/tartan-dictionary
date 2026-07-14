@@ -11,11 +11,11 @@ crumbs:
   url: "/families/sinclair/"
 - name: "Sinclair Dress"
   url: "/tartans/s/si/sinclair-dress-2/"
-- name: "Sinclair, The Jack"
-  url: "/setts/db4r2db39k11g2w16r2/"
+- name: "Sinclair Dress Personal Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4r2db39k11g2w16r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/si/sinclair-dress-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGWR](/stripes/brbkgwr/).
 
 Part of the [Sinclair Dress](/tartans/s/si/sinclair-dress-2/) tartan — the named design grouping this sett with its other cloths.

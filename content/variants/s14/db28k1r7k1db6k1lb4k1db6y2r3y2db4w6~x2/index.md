@@ -12,10 +12,10 @@ crumbs:
 - name: "Rabbinical"
   url: "/tartans/r/ra/rabbinical/"
 - name: "Rabbinical"
-  url: "/setts/db28k1r7k1db6k1lb4k1db6y2r3y2db4w6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db28k1r7k1db6k1lb4k1db6y2r3y2db4w6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ra/rabbinical/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKBKWKBGRGBW](/stripes/bkrkbkwkbgrgbw/).
 
 Part of the [Rabbinical](/tartans/r/ra/rabbinical/) tartan — the named design grouping this sett with its other cloths.

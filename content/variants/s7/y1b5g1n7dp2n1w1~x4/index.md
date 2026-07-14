@@ -12,10 +12,10 @@ crumbs:
 - name: "Deeside"
   url: "/tartans/d/de/deeside/"
 - name: "Deeside"
-  url: "/setts/y1b5g1n7dp2n1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y1b5g1n7dp2n1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/deeside/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBBW](/stripes/gbgbbbw/).
 
 Part of the [Deeside](/tartans/d/de/deeside/) tartan — the named design grouping this sett with its other cloths.

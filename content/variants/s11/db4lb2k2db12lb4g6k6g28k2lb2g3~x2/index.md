@@ -12,10 +12,10 @@ crumbs:
 - name: "Hudson Hunting"
   url: "/tartans/h/hu/hudson-hunting/"
 - name: "Hudson Hunting (Personal)"
-  url: "/setts/db4lb2k2db12lb4g6k6g28k2lb2g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4lb2k2db12lb4g6k6g28k2lb2g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/hu/hudson-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBWGKGKWG](/stripes/bwkbwgkgkwg/).
 
 Part of the [Hudson Hunting](/tartans/h/hu/hudson-hunting/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1777](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1997 — Hudson Hunting (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1777">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#788CB4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #788CB4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><br><em>No details known.</em></li>
-<li>1997 — Hudson Hunting (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5222">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#788CB4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #788CB4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><br><em>No details known.</em></li>
+<li>1997 — Hudson Hunting (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5222/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00008C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #00008C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#788CB4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #788CB4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><br><em>No details known.</em></li>
 </ul>
 </details>
 

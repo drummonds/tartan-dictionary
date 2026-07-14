@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/">Crieff and Strathearn District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><img src="/variants/s7/g55dp7r24g12db4y3db4~x2/sett.png" alt="Crieff and Strathearn District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cr/crieff-and-strathearn/">Crieff and Strathearn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cr/crieff-and-strathearn/"><img src="/variants/s7/g55dp7r24g12db4y3db4~x2/sett.png" alt="Crieff and Strathearn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s7/db2y1db18g7r7db1g1~x2/">Unnamed C20th - USA</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><img src="/variants/s7/db2y1db18g7r7db1g1~x2/sett.png" alt="Unnamed C20th - USA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unnamed-c20th-5/">Unnamed C20th</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-c20th-5/"><img src="/variants/s7/db2y1db18g7r7db1g1~x2/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

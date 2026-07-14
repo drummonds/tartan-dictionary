@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/">Nova Scotia Int. Tattoo (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><img src="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/sett.png" alt="Nova Scotia Int. Tattoo (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/nova-scotia-international-tatoo/">Nova Scotia International Tatoo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nova-scotia-international-tatoo/"><img src="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/sett.png" alt="Nova Scotia International Tatoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

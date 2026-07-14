@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/">Angus Dress 1992 (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/"><img src="/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/sett.png" alt="Angus Dress 1992 (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/an/angus-dress-1992/">Angus Dress 1992</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/angus-dress-1992/"><img src="/variants/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/sett.png" alt="Angus Dress 1992 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

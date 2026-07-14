@@ -8,10 +8,10 @@ crumbs:
 - name: "Sligo County, Crest Range"
   url: "/tartans/s/sl/sligo-county-crest-range/"
 - name: "Sligo County, Crest Range"
-  url: "/setts/y8k16lb8k52lb6k5w27dr20g14k5lb6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y8k16lb8k52lb6k5w27dr20g14k5lb6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sl/sligo-county-crest-range/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKWKWBGKW](/stripes/gkwkwkwbgkw/).
 
 Part of the [Sligo County, Crest Range](/tartans/s/sl/sligo-county-crest-range/) tartan — the named design grouping this sett with its other cloths.

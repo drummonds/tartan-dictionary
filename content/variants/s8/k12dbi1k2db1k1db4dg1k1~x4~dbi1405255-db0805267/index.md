@@ -8,10 +8,10 @@ crumbs:
 - name: "Scottish Funereal Association"
   url: "/tartans/s/sc/scottish-funereal-association/"
 - name: "Scottish Funereal Association"
-  url: "/setts/k12dbi1k2db1k1db4dg1k1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k12dbi1k2db1k1db4dg1k1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-funereal-association/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBGK](/stripes/kbkbkbgk/).
 
 Part of the [Scottish Funereal Association](/tartans/s/sc/scottish-funereal-association/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3718](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1996 — Scottish Funereal Association (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3718">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003478;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BE #003478"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BZ #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003014;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AGG #003014"></span><br><em>Sample from Lochcarron May 1996.</em></li>
-<li>1996 — Scottish Funereal Association (Corp) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5357">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003478;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BE #003478"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BZ #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003014;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AGG #003014"></span><br><em>Sample from Lochcarron May 1996</em></li>
+<li>1996 — Scottish Funereal Association (Corp) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5357/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003478;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BE #003478"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BZ #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003014;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AGG #003014"></span><br><em>Sample from Lochcarron May 1996</em></li>
 </ul>
 </details>
 

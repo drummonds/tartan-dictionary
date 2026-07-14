@@ -8,10 +8,10 @@ crumbs:
 - name: "MacMillan Society of Glasgow"
   url: "/tartans/m/ma/macmillan-society-of-glasgow/"
 - name: "MacMillan, Society of Glasgow"
-  url: "/setts/r16k3r16g44k3g8k3y20k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r16k3r16g44k3g8k3y20k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macmillan-society-of-glasgow/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGRKR](/stripes/kgkgkgrkr/).
 
 Part of the [MacMillan Society of Glasgow](/tartans/m/ma/macmillan-society-of-glasgow/) tartan — the named design grouping this sett with its other cloths.

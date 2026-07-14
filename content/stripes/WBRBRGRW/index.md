@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/">Utah Centennial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/"><img src="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/sett.png" alt="Utah Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/ut/utah-centennial/">Utah Centennial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/ut/utah-centennial/"><img src="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/sett.png" alt="Utah Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

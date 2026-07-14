@@ -10,15 +10,15 @@ crumbs:
 - name: "Lendrum or MacFarlane"
   url: "/tartans/l/le/lendrum-or-macfarlane/"
 - name: "Lendrum or MacFarlane Clan Tartan"
-  url: "/setts/k67r32k6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k67r32k6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KRKR](/stripes/krkr/).
+provenance below. It is one weaving of the [sett](/tartans/l/le/lendrum-or-macfarlane/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KRK](/stripes/krk/).
 
 Part of the [Lendrum or MacFarlane](/tartans/l/le/lendrum-or-macfarlane/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from house-of-tartan.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1190](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1190)
 
@@ -51,9 +51,11 @@ Earliest known date: (1815-20) MacGregor-Hastie's notes say 'The sett is the sam
 </details>
 
 ## Thread count
-K/67 R32 K6 R/32
+K/67 R32 K/6
 
-One full sett is **175 threads**.
+One full sett is **137 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/67 R32 K6 R/32 — 175 threads; it folds to the canonical 137-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -62,7 +64,7 @@ One full sett is **175 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/67 R32 K6 R/32 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/67 R32 K/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

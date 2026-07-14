@@ -8,15 +8,15 @@ crumbs:
 - name: "South Australian Pipes & Drums"
   url: "/tartans/s/so/south-australian-pipes-drums/"
 - name: "South Australian Pipes & Drums"
-  url: "/setts/db60y6db11r25db11y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db60y6db11r25db11y6/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGBRBGBRBG](/stripes/bgbrbgbrbg/).
+provenance below. It is one weaving of the [sett](/tartans/s/so/south-australian-pipes-drums/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBRBG](/stripes/bgbrbg/).
 
 Part of the [South Australian Pipes & Drums](/tartans/s/so/south-australian-pipes-drums/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3842](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3842)
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5890
 
 ## Thread count
-DB/120 Y12 DB22 R50 DB22 Y12 DB22 R50 DB22 Y/12
+DB/120 Y12 DB22 R50 DB22 Y/12
 
-One full sett is **556 threads**.
+One full sett is **344 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/120 Y12 DB22 R50 DB22 Y12 DB22 R50 DB22 Y/12 — 556 threads; it folds to the canonical 344-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **556 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/120 Y12 DB22 R50 DB22 Y12 DB22 R50 DB22 Y/12 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/120 Y12 DB22 R50 DB22 Y/12 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

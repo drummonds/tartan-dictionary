@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/b8w13r3w2k5~x2/">Boswell Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/b8w13r3w2k5~x2/"><img src="/variants/s5/b8w13r3w2k5~x2/sett.png" alt="Boswell Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boswell-dress/">Boswell Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boswell-dress/"><img src="/variants/s5/b8w13r3w2k5~x2/sett.png" alt="Boswell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

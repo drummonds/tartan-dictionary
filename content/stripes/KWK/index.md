@@ -28,8 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/k1w1k1~x10/">Northumberland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k1w1k1~x10/"><img src="/variants/s3/k1w1k1~x10/sett.png" alt="Northumberland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macfarlane-vs/">MacFarlane VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macfarlane-vs/"><img src="/variants/s3/k7w6k1/sett.png" alt="MacFarlane VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/northumberland/">Northumberland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/northumberland/"><img src="/variants/s3/k1w1k1~x10/sett.png" alt="Northumberland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

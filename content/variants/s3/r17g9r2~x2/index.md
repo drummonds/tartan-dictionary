@@ -12,15 +12,15 @@ crumbs:
 - name: "MacGregor of Glenstrae"
   url: "/tartans/m/ma/macgregor-of-glenstrae/"
 - name: "MacGregor of Glenstrae #2"
-  url: "/setts/r17g9r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r17g9r2/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRGR](/stripes/grgr/).
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macgregor-of-glenstrae/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RGR](/stripes/rgr/).
 
 Part of the [MacGregor of Glenstrae](/tartans/m/ma/macgregor-of-glenstrae/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2460](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2460)
 
@@ -56,9 +56,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 962
 
 ## Thread count
-R/34 G18 R4 G/18
+R/34 G18 R/4
 
-One full sett is **96 threads**.
+One full sett is **74 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/34 G18 R4 G/18 — 96 threads; it folds to the canonical 74-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -67,7 +69,7 @@ One full sett is **96 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/34 G18 R4 G/18 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/34 G18 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

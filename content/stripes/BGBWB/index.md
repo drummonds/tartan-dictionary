@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db19w6db105y4db5/">Greenock Morton F. C. (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db19w6db105y4db5/"><img src="/variants/s5/db19w6db105y4db5/sett.png" alt="Greenock Morton F. C. (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greenock-morton-football-club/">Greenock Morton Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greenock-morton-football-club/"><img src="/variants/s5/db19w6db105y4db5/sett.png" alt="Greenock Morton Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

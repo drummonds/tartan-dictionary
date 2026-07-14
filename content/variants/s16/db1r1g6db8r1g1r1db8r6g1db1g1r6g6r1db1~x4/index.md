@@ -10,10 +10,10 @@ crumbs:
 - name: "Crieff Hydro Hotel"
   url: "/tartans/c/cr/crieff-hydro-hotel/"
 - name: "Crieff Hydro Hotel"
-  url: "/setts/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/crieff-hydro-hotel/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBRGRBRGBGRGRB](/stripes/brgbrgrbrgbgrgrb/).
 
 Part of the [Crieff Hydro Hotel](/tartans/c/cr/crieff-hydro-hotel/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=805](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1990 — Crieff Hydro Hotel (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=805">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Instigated by Brian Wilton of the Scottish Tartans Authority and designed by Peter MacDonald for Crieff Hydro Hotel. Formed by changing the yellow of the Strathearn to blue (Wilsons' purple). Sample in Scottish Tartans Authority's Dalgety Collection.</em></li>
-<li>pre 1990 — Crieff Hydro Hotel (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5166">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Instigated by Brian Wilton and designed by Peter MacDonald for Crieff Hydro Hotel. Formed by changing the yellow of the Strathearn to blue (Wilsons' purple). Sample in STA Dalgety Collection.</em></li>
+<li>pre 1990 — Crieff Hydro Hotel (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5166/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Instigated by Brian Wilton and designed by Peter MacDonald for Crieff Hydro Hotel. Formed by changing the yellow of the Strathearn to blue (Wilsons' purple). Sample in STA Dalgety Collection.</em></li>
 </ul>
 </details>
 

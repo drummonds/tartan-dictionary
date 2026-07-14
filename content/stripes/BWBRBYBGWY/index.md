@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/n5lb5n2r47n18lr2n5g9lb7lr3~x2/">Rikaco Red (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/n5lb5n2r47n18lr2n5g9lb7lr3~x2/"><img src="/variants/s10/n5lb5n2r47n18lr2n5g9lb7lr3~x2/sett.png" alt="Rikaco Red (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ri/rikaco/">Rikaco</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ri/rikaco/"><img src="/variants/s10/n5lb5n2r47n18lr2n5g9lb7lr3~x2/sett.png" alt="Rikaco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

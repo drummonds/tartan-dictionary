@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db6r1db2r1db2k18r8g2/">Brown</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db6r1db2r1db2k18r8g2/"><img src="/variants/s8/db6r1db2r1db2k18r8g2~x2/sett.png" alt="Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/brown/">Brown</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/brown/"><img src="/variants/s8/db6r1db2r1db2k18r8g2~x2/sett.png" alt="Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/">Scotch House 2000, antique</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db22r3db2r3db2k17o18dg4~x2/"><img src="/variants/s8/db22r3db2r3db2k17o18dg4~x2/sett.png" alt="Scotch House 2000, antique sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scotch-house-2000-antique-2/">Scotch House 2000, antique</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-house-2000-antique-2/"><img src="/variants/s8/db22r3db2r3db2k17o18dg4~x2/sett.png" alt="Scotch House 2000, antique sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

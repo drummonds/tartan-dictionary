@@ -8,10 +8,10 @@ crumbs:
 - name: "TACC"
   url: "/tartans/t/ta/tacc/"
 - name: "TACC"
-  url: "/setts/n34k7n12k40n3k4lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n34k7n12k40n3k4lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/ta/tacc/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKW](/stripes/bkbkbkw/).
 
 Part of the [TACC](/tartans/t/ta/tacc/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10578](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/04/2010 — TACC (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10578">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#666666;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #666666"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#82CFFD;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #82CFFD"></span><br><em>The objective of the Tartan Army childrens Charity (TACC) is to support disadvantaged children in Scotland and in countries visited by the supporters of Scotland’s national football team. The tartan is intended to celebrate and benefit the work of the Tartan Army Childrens Charity (TACC) throughout Scotland and overseas. Designed using TACC's brand colour.</em></li>
-<li>01/04/2010 — TACC (Corporate) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10578">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Created for the supporters of the Tartan Army Childrens Charity and only to be woven by Lochcarron of Scotland and with the agreement of TACC. The objective of the Tartan Army Childrens Charity (TACC) is to support disadvantaged children in Scotland and in countries visited by the supporters of Scotland?s national football team. The tartan is intended to celebrate and benefit the work of the Tartan Army Childrens Charity (TACC) throughout Scotland and overseas. Designed using TACC's brand colour.</em></li>
+<li>01/04/2010 — TACC (Corporate) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10578/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Created for the supporters of the Tartan Army Childrens Charity and only to be woven by Lochcarron of Scotland and with the agreement of TACC. The objective of the Tartan Army Childrens Charity (TACC) is to support disadvantaged children in Scotland and in countries visited by the supporters of Scotland?s national football team. The tartan is intended to celebrate and benefit the work of the Tartan Army Childrens Charity (TACC) throughout Scotland and overseas. Designed using TACC's brand colour.</em></li>
 </ul>
 </details>
 

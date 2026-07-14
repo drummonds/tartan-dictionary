@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/">Haileybury</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/"><img src="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/sett.png" alt="Haileybury sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/haileybury/">Haileybury</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/haileybury/"><img src="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/sett.png" alt="Haileybury sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

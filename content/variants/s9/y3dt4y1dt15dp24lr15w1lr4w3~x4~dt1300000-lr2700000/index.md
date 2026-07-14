@@ -8,10 +8,10 @@ crumbs:
 - name: "Sean F Forrester"
   url: "/tartans/s/se/sean-f-forrester/"
 - name: "Sean F Forrester (Personal)"
-  url: "/setts/y3dt4y1dt15dp24lr15w1lr4w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y3dt4y1dt15dp24lr15w1lr4w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/se/sean-f-forrester/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBYWYW](/stripes/gbgbbywyw/).
 
 Part of the [Sean F Forrester](/tartans/s/se/sean-f-forrester/) tartan — the named design grouping this sett with its other cloths.

@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lb12g4dp4g4lb31n3db12w4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wbbwgbgw/">WBBWGBGW</a></nav>
 Its design is pattern [WBBWGBGW](/stripes/wbbwgbgw/) — the page of every tartan sharing this colour sequence.
 
 The **Yes Scotland** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Yes Scotland** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb12g4dp4g4lb31n3db12w4/">Yes Scotland</a></td><td><code>LB/24 G8 DP8 G8 LB62 N6 DB24 W/8</code></td><td>264</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb12g4dp4g4lb31n3db12w4/"><img src="/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/sett.png" alt="Yes Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/">Yes Scotland</a></td><td><code>LB/24 G8 DP8 G8 LB62 N6 DB24 W/8</code></td><td>264</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/"><img src="/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/sett.png" alt="Yes Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="357.6" cy="177.7" r="4" fill="#3465a4"><title>Bains</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="293.5" cy="209.5" r="4" fill="#3465a4"><title>Allanton</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="196.7" cy="210.8" r="4" fill="#3465a4"><title>Allanton Dress</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.5" cy="199.7" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><circle cx="210.4" cy="138.9" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="270.6" cy="192.5" r="4" fill="#3465a4"><title>Laxey Manx</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="317.3" cy="181.7" r="4" fill="#3465a4"><title>Herriot</title></circle></a><a href="/variants/s6/w15y2db5n3lb40db10/"><circle cx="307.7" cy="178.2" r="4" fill="#3465a4"><title>Herriot New Zealand</title></circle></a><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/"><circle cx="196.2" cy="191.8" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/"><circle cx="246.1" cy="153.3" r="4" fill="#3465a4"><title>Fermanagh</title></circle></a><circle cx="279.6" cy="183.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="358.1" cy="177.8" r="4" fill="#3465a4"><title>Bains</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="293.8" cy="209.4" r="4" fill="#3465a4"><title>Allanton</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="196.8" cy="210.5" r="4" fill="#3465a4"><title>Allanton Dress</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="244.8" cy="199.5" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><circle cx="210.8" cy="138.6" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="271.0" cy="192.4" r="4" fill="#3465a4"><title>Laxey Manx</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="317.8" cy="181.7" r="4" fill="#3465a4"><title>Herriot</title></circle></a><a href="/variants/s6/w15y2db5n3lb40db10/"><circle cx="308.1" cy="178.1" r="4" fill="#3465a4"><title>Herriot New Zealand</title></circle></a><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/"><circle cx="196.4" cy="191.6" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/"><circle cx="246.4" cy="153.1" r="4" fill="#3465a4"><title>Fermanagh</title></circle></a><circle cx="280.0" cy="183.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

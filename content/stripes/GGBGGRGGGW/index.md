@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dg5g10db1dg5g5r2dg5g5y1w1~x2/">Mississippi District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg5g10db1dg5g5r2dg5g5y1w1~x2/"><img src="/variants/s10/dg5g10db1dg5g5r2dg5g5y1w1~x2/sett.png" alt="Mississippi District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mississippi/">Mississippi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mississippi/"><img src="/variants/s10/dg5g10db1dg5g5r2dg5g5y1w1~x2/sett.png" alt="Mississippi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

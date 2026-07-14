@@ -8,10 +8,10 @@ crumbs:
 - name: "Caribou"
   url: "/tartans/c/ca/caribou/"
 - name: "Caribou"
-  url: "/setts/w1b4k1lt3k1n4db1n4k1lt3k1g4lt1g4k1lt3k1b4w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w1b4k1lt3k1n4db1n4k1lt3k1g4lt1g4k1lt3k1b4w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/caribou/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKWKBBBKWKGWGKWKBW](/stripes/wbkwkbbbkwkgwgkwkbw/).
 
 Part of the [Caribou](/tartans/c/ca/caribou/) tartan — the named design grouping this sett with its other cloths.

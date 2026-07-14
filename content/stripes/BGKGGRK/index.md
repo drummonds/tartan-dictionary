@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/">Coalfields Regeneration Trust, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><img src="/variants/s7/k2r1y1g8k15g2dp1~x2/sett.png" alt="Coalfields Regeneration Trust, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/coalfields-regeneration-trust-the-2/">Coalfields Regeneration Trust, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/coalfields-regeneration-trust-the-2/"><img src="/variants/s7/k2r1y1g8k15g2dp1~x2/sett.png" alt="Coalfields Regeneration Trust, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

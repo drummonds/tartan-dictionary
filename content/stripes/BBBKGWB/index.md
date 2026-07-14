@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/">Jack Sinclair (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><img src="/variants/s7/db4dr2db40k11g2w16dr2~x2/sett.png" alt="Jack Sinclair (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/jack-sinclair/">Jack Sinclair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/jack-sinclair/"><img src="/variants/s7/db4dr2db40k11g2w16dr2~x2/sett.png" alt="Jack Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

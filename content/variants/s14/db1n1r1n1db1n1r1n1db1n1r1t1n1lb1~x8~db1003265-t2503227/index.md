@@ -8,10 +8,10 @@ crumbs:
 - name: "Spey"
   url: "/tartans/s/sp/spey/"
 - name: "Spey"
-  url: "/setts/db1n1r1n1db1n1r1n1db1n1r1t1n1lb1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1n1r1n1db1n1r1n1db1n1r1t1n1lb1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spey/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBBBRBBBRBBW](/stripes/bbrbbbrbbbrbbw/).
 
 Part of the [Spey](/tartans/s/sp/spey/) tartan — the named design grouping this sett with its other cloths.

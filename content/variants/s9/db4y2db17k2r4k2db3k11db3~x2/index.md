@@ -12,10 +12,10 @@ crumbs:
 - name: "Stone of Destiny"
   url: "/tartans/s/st/stone-of-destiny/"
 - name: "Stone of Destiny"
-  url: "/setts/db4y2db17k2r4k2db3k11db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4y2db17k2r4k2db3k11db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stone-of-destiny/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKRKBKB](/stripes/bgbkrkbkb/).
 
 Part of the [Stone of Destiny](/tartans/s/st/stone-of-destiny/) tartan — the named design grouping this sett with its other cloths.

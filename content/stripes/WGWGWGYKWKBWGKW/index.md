@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/w6g6w6g12lb8g14ly24k4lb4k4dp44w12g20k4lb5/">Wexford County Crest (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w6g6w6g12lb8g14ly24k4lb4k4dp44w12g20k4lb5/"><img src="/variants/s15/w6g6w6g12lb8g14ly24k4lb4k4dp44w12g20k4lb5/sett.png" alt="Wexford County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wexford-county-crest/">Wexford County Crest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wexford-county-crest/"><img src="/variants/s15/w6g6w6g12lb8g14ly24k4lb4k4dp44w12g20k4lb5/sett.png" alt="Wexford County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

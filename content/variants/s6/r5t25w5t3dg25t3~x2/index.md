@@ -8,10 +8,10 @@ crumbs:
 - name: "Thayer USA"
   url: "/tartans/t/th/thayer-usa/"
 - name: "Thayer USA"
-  url: "/setts/r5t25w5t3dg25t3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5t25w5t3dg25t3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thayer-usa/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBR](/stripes/bgbwbr/).
 
 Part of the [Thayer USA](/tartans/t/th/thayer-usa/) tartan — the named design grouping this sett with its other cloths.

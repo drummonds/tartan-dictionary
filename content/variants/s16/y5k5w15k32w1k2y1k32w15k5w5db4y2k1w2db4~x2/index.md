@@ -8,10 +8,10 @@ crumbs:
 - name: "Deudon"
   url: "/tartans/d/de/deudon/"
 - name: "Deudon (2015)"
-  url: "/setts/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/deudon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGBWKWKGKWKWKG](/stripes/bwkgbwkwkgkwkwkg/).
 
 Part of the [Deudon](/tartans/d/de/deudon/) tartan — the named design grouping this sett with its other cloths.

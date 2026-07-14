@@ -8,10 +8,10 @@ crumbs:
 - name: "Aelfleda Arisaid"
   url: "/tartans/a/ae/aelfleda-arisaid/"
 - name: "Aelfleda Arisaid (Personal)"
-  url: "/setts/y4db5y4db5w8r2w24g2w8db5y4db5y4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y4db5y4db5w8r2w24g2w8db5y4db5y4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ae/aelfleda-arisaid/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBWGWRWBGBG](/stripes/gbgbwgwrwbgbg/).
 
 Part of the [Aelfleda Arisaid](/tartans/a/ae/aelfleda-arisaid/) tartan — the named design grouping this sett with its other cloths.

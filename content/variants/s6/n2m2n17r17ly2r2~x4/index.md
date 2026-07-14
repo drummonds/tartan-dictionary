@@ -8,10 +8,10 @@ crumbs:
 - name: "Cypress"
   url: "/tartans/c/cy/cypress/"
 - name: "Cypress"
-  url: "/setts/n2m2n17r17ly2r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n2m2n17r17ly2r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cy/cypress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRYR](/stripes/brbryr/).
 
 Part of the [Cypress](/tartans/c/cy/cypress/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=861](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Cypress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=861">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#70000C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #70000C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C3C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3C3C3C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E02CB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BLP #E02CB8"></span><br><em>No details.</em></li>
-<li>pre 2002 — Cypress (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4650">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#70000C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #70000C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C3C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3C3C3C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E02CB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BLP #E02CB8"></span><br><em>A WCWM Fashion tartan</em></li>
+<li>pre 2002 — Cypress (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4650/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#70000C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #70000C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><span style="display:inline-block;width:.85em;height:.85em;background:#3C3C3C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #3C3C3C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E02CB8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BLP #E02CB8"></span><br><em>A WCWM Fashion tartan</em></li>
 </ul>
 </details>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Nashotah House"
   url: "/tartans/n/na/nashotah-house/"
 - name: "Nashotah House"
-  url: "/setts/r2k2o6k10w2k14db8g15w2g7r5g1lo2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2k2o6k10w2k14db8g15w2g7r5g1lo2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/na/nashotah-house/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKWKBGWGRGY](/stripes/rkrkwkbgwgrgy/).
 
 Part of the [Nashotah House](/tartans/n/na/nashotah-house/) tartan — the named design grouping this sett with its other cloths.

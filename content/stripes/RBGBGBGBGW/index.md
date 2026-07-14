@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r8db8dg1db1dg27dp1y1dp3y3w1~x2/">Holyoke St. Patrick's</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r8db8dg1db1dg27dp1y1dp3y3w1~x2/"><img src="/variants/s10/r8db8dg1db1dg27dp1y1dp3y3w1~x2/sett.png" alt="Holyoke St. Patrick's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holyoke-st-patrick-s/">Holyoke St Patrick's</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holyoke-st-patrick-s/"><img src="/variants/s10/r8db8dg1db1dg27dp1y1dp3y3w1~x2/sett.png" alt="Holyoke St Patrick's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

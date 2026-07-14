@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/taylor/"
 - name: "Taylor"
   url: "/families/taylor/"
+aliases:
+- "/setts/g8k2g13r4g12dp22g5y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggbgrgkg/">GGBGRGKG</a></nav>
 A tartan of the [Taylor](/families/taylor/) family.
 Its design is pattern [GGBGRGKG](/stripes/ggbgrgkg/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Taylor** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g8k2g13r4g12dp22g5y3/">Taylor</a></td><td><code>G/16 K4 G26 R8 G24 DP44 G10 Y/6</code></td><td>254</td><td>1955</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8k2g13r4g12dp22g5y3/"><img src="/variants/s8/g8k2g13r4g12dp22g5y3~x2/sett.png" alt="Taylor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g8k2g13r4g12dp22g5y3~x2/">Taylor</a></td><td><code>G/16 K4 G26 R8 G24 DP44 G10 Y/6</code></td><td>254</td><td>1955</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g8k2g13r4g12dp22g5y3~x2/"><img src="/variants/s8/g8k2g13r4g12dp22g5y3~x2/sett.png" alt="Taylor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="246.6" cy="184.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s9/db1dy9g5dy1k5dy1g5dy9w1~x2/"><circle cx="235.6" cy="181.5" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/"><circle cx="279.1" cy="170.1" r="4" fill="#3465a4"><title>Fulton</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.6" cy="179.3" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="291.9" cy="167.2" r="4" fill="#3465a4"><title>St. Patrick's Krewe</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.6" cy="200.5" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="269.5" cy="177.6" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.2" cy="172.5" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/variants/s8/dg4g24dp4k6dg4dr3dg4dp3~x2/"><circle cx="202.8" cy="180.0" r="4" fill="#3465a4"><title>Womens Rural Institute</title></circle></a><circle cx="257.3" cy="184.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="247.2" cy="184.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s9/db1dy9g5dy1k5dy1g5dy9w1~x2/"><circle cx="236.1" cy="181.5" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/"><circle cx="279.7" cy="170.1" r="4" fill="#3465a4"><title>Fulton</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="315.3" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="335.4" cy="179.5" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="292.6" cy="167.2" r="4" fill="#3465a4"><title>St. Patrick's Krewe</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="326.2" cy="200.6" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="270.2" cy="177.6" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.6" cy="172.4" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/variants/s8/dg4g24dp4k6dg4dr3dg4dp3~x2/"><circle cx="203.2" cy="180.0" r="4" fill="#3465a4"><title>Womens Rural Institute</title></circle></a><circle cx="257.8" cy="184.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~x2/">Unidentified Scarlett #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~x2/"><img src="/variants/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~x2/sett.png" alt="Unidentified Scarlett #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-scarlett-2/">Unidentified Scarlett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-scarlett-2/"><img src="/variants/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~x2/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

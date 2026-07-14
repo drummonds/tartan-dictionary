@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Genet"
   url: "/clan/genet/"
+aliases:
+- "/setts/r2k9g12db8r1db1w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkgbrbw/">RKGBRBW</a></nav>
 A tartan of [Clan Genet](/clan/genet/).
 Its design is pattern [RKGBRBW](/stripes/rkgbrbw/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Genet, Citizen** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2k9g12db8r1db1w1/">Genet, Citizen</a></td><td><code>R/8 K36 G48 DB32 R4 DB4 W/4</code></td><td>260</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2k9g12db8r1db1w1/"><img src="/variants/s7/r2k9g12db8r1db1w1~x4/sett.png" alt="Genet, Citizen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2k9g12db8r1db1w1~x4/">Genet, Citizen</a></td><td><code>R/8 K36 G48 DB32 R4 DB4 W/4</code></td><td>260</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2k9g12db8r1db1w1~x4/"><img src="/variants/s7/r2k9g12db8r1db1w1~x4/sett.png" alt="Genet, Citizen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="116.7" cy="193.9" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="150.5" cy="166.3" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s8/r5k2db19g4k19g28k2y5~x2/"><circle cx="147.7" cy="153.0" r="4" fill="#3465a4"><title>Tait</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="133.4" cy="160.0" r="4" fill="#3465a4"><title>Ogilvie of Inverarity / Ochterlonie</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="137.3" cy="148.9" r="4" fill="#3465a4"><title>Colgan</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="169.7" cy="157.5" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="162.1" cy="168.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s7/g3db12b1k12g13r2g2~x2/"><circle cx="161.1" cy="170.3" r="4" fill="#3465a4"><title>MacPhadran</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="132.3" cy="144.0" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="156.9" cy="175.6" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland</title></circle></a><circle cx="133.3" cy="162.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="117.0" cy="193.7" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="150.8" cy="166.1" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s8/r5k2db19g4k19g28k2y5~x2/"><circle cx="148.1" cy="152.8" r="4" fill="#3465a4"><title>Tait</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="133.8" cy="159.8" r="4" fill="#3465a4"><title>Ogilvie of Inverarity / Ochterlonie</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="137.7" cy="148.6" r="4" fill="#3465a4"><title>Colgan</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="170.2" cy="157.4" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="162.5" cy="168.5" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s7/g3db12b1k12g13r2g2~x2/"><circle cx="161.5" cy="170.1" r="4" fill="#3465a4"><title>MacPhadran</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="132.7" cy="143.8" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="157.3" cy="175.4" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland</title></circle></a><circle cx="133.6" cy="162.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

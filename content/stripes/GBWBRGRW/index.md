@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/">Manitoba Masonic</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><img src="/variants/s8/y3db8w3db34r34dg4r4w2~x2/sett.png" alt="Manitoba Masonic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manitoba-masonic/">Manitoba Masonic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manitoba-masonic/"><img src="/variants/s8/y3db8w3db34r34dg4r4w2~x2/sett.png" alt="Manitoba Masonic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

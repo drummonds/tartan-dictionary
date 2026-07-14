@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/">AIton - 1979 (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><img src="/variants/s8/db6k1g3k1db3k1g10r3~x2/sett.png" alt="AIton - 1979 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/t5k1g3k1t3k1g10r3~x2/">Ayrton 1979 No. 2 (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/t5k1g3k1t3k1g10r3~x2/"><img src="/variants/s8/t5k1g3k1t3k1g10r3~x2/sett.png" alt="Ayrton 1979 No. 2 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ai/aiton/">AIton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ai/aiton/"><img src="/variants/s8/db6k1g3k1db3k1g10r3~x2/sett.png" alt="AIton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ay/ayrton-1979-no-2/">Ayrton 1979 No. 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ay/ayrton-1979-no-2/"><img src="/variants/s8/t5k1g3k1t3k1g10r3~x2/sett.png" alt="Ayrton 1979 No. 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

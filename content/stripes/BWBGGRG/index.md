@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/">Wellmont Foundation (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/"><img src="/variants/s7/dt12w2dt13dg3g2r24g3~x2/sett.png" alt="Wellmont Foundation (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wellmont-foundation/">Wellmont Foundation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wellmont-foundation/"><img src="/variants/s7/dt12w2dt13dg3g2r24g3~x2/sett.png" alt="Wellmont Foundation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

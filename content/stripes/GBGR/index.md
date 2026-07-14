@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/y22dp1g22r4~x4/">McWilliams (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/y22dp1g22r4~x4/"><img src="/variants/s4/y22dp1g22r4~x4/sett.png" alt="McWilliams (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/dy22dp1g22r4~x4/">McWilliams Hunting (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dy22dp1g22r4~x4/"><img src="/variants/s4/dy22dp1g22r4~x4/sett.png" alt="McWilliams Hunting (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcwilliams/">McWilliams</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcwilliams/"><img src="/variants/s4/y22dp1g22r4~x4/sett.png" alt="McWilliams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcwilliams-hunting/">McWilliams Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcwilliams-hunting/"><img src="/variants/s4/dy22dp1g22r4~x4/sett.png" alt="McWilliams Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/r1g16db16g1/">Barclay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r1g16db16g1/"><img src="/variants/s4/r1g16db16g1/sett.png" alt="Barclay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/barclay-hunting/">Barclay Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/barclay-hunting/"><img src="/variants/s4/r1g16db16g1/sett.png" alt="Barclay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -12,10 +12,10 @@ crumbs:
 - name: "Bryson"
   url: "/tartans/b/br/bryson-4/"
 - name: "Bryson (1988)"
-  url: "/setts/dy16r8t57db56lb8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dy16r8t57db56lb8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/br/bryson-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBBW](/stripes/grbbw/).
 
 Part of the [Bryson](/tartans/b/br/bryson-4/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/">Man, Isle of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/"><img src="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/sett.png" alt="Man, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/man-isle-of/">Man, Isle of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/man-isle-of/"><img src="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/sett.png" alt="Man, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Ogilvy VS"
   url: "/tartans/o/og/ogilvy-vs/"
 - name: "Ogilvy VS"
-  url: "/setts/db28y1db2k16g24k1g2r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db28y1db2k16g24k1g2r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/og/ogilvy-vs/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGKGR](/stripes/bgbkgkgr/).
 
 Part of the [Ogilvy VS](/tartans/o/og/ogilvy-vs/) tartan — the named design grouping this sett with its other cloths.

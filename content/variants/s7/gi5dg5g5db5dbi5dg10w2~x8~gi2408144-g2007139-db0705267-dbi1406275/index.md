@@ -8,10 +8,10 @@ crumbs:
 - name: "Pollard"
   url: "/tartans/p/po/pollard/"
 - name: "Pollard (2014)"
-  url: "/setts/gi5dg5g5db5dbi5dg10w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/gi5dg5g5db5dbi5dg10w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/pollard/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGBBGW](/stripes/gggbbgw/).
 
 Part of the [Pollard](/tartans/p/po/pollard/) tartan — the named design grouping this sett with its other cloths.

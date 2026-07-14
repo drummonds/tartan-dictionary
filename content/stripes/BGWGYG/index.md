@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/">City of Vancouver (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"><img src="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/sett.png" alt="City of Vancouver (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-vancouver/">City of Vancouver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-vancouver/"><img src="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/sett.png" alt="City of Vancouver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

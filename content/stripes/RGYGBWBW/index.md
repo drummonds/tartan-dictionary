@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w10db2w1db35g10ly3g10r4~x2/">Sandelin (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w10db2w1db35g10ly3g10r4~x2/"><img src="/variants/s8/w10db2w1db35g10ly3g10r4~x2/sett.png" alt="Sandelin (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sandelin/">Sandelin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sandelin/"><img src="/variants/s8/w10db2w1db35g10ly3g10r4~x2/sett.png" alt="Sandelin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

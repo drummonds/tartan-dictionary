@@ -8,10 +8,10 @@ crumbs:
 - name: "Canadian Estate"
   url: "/tartans/c/ca/canadian-estate/"
 - name: "Canadian Estate"
-  url: "/setts/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/canadian-estate/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBKBKBBBW](/stripes/gbgbgbkbkbbbw/).
 
 Part of the [Canadian Estate](/tartans/c/ca/canadian-estate/) tartan — the named design grouping this sett with its other cloths.

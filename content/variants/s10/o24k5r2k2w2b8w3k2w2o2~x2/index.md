@@ -10,10 +10,10 @@ crumbs:
 - name: "Stewart, Fawn"
   url: "/tartans/s/st/stewart-fawn-2/"
 - name: "Stewart, Fawn"
-  url: "/setts/o24k5r2k2w2b8w3k2w2o2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o24k5r2k2w2b8w3k2w2o2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stewart-fawn-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKWBWKWR](/stripes/rkrkwbwkwr/).
 
 Part of the [Stewart, Fawn](/tartans/s/st/stewart-fawn-2/) tartan — the named design grouping this sett with its other cloths.

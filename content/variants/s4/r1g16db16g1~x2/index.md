@@ -11,11 +11,11 @@ crumbs:
   url: "/families/barclay/"
 - name: "Barclay Hunting"
   url: "/tartans/b/ba/barclay-hunting/"
-- name: "Barclay"
-  url: "/setts/r1g16db16g1/"
+- name: "Barclay Hunting Clan Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r1g16db16g1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/ba/barclay-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGR](/stripes/gbgr/).
 
 Part of the [Barclay Hunting](/tartans/b/ba/barclay-hunting/) tartan — the named design grouping this sett with its other cloths.

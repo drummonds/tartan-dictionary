@@ -12,10 +12,10 @@ crumbs:
 - name: "Kuehle"
   url: "/tartans/k/ku/kuehle/"
 - name: "Kuehle Family (Personal)"
-  url: "/setts/n30db6o1w2o6w2o1db6n30lb1dp3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n30db6o1w2o6w2o1db6n30lb1dp3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ku/kuehle/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRWRWRBBWB](/stripes/bbrwrwrbbwb/).
 
 Part of the [Kuehle](/tartans/k/ku/kuehle/) tartan — the named design grouping this sett with its other cloths.

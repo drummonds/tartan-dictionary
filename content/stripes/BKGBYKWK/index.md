@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/">Froben, Christian (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/"><img src="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/sett.png" alt="Froben, Christian (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/froben-christian/">Froben, Christian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/froben-christian/"><img src="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/sett.png" alt="Froben, Christian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

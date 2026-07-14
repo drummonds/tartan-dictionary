@@ -4,7 +4,13 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g5db24g7k10g24dy2db2dy2r2/"
+- "/setts/g3db8g3k4g9y2db2y2r2/"
+- "/setts/g3db9g3k4g8y2db2y2r2/"
+- "/setts/g5db24g7k10g24y2db2y2r2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gbgkggbgr/">GBGKGGBGR</a></nav>
 Its design is pattern [GBGKGGBGR](/stripes/gbgkggbgr/) — the page of every tartan sharing this colour sequence.
 
 Restricted to the chief of Maitland, Lowland family of Dukes of Lauderdale; recorded 1960 with increased green and blue.
@@ -15,15 +21,17 @@ The **Maitland** tartan groups 4 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g5db24g7k10g24dy2db2dy2r2/">Maitland</a> ★</td><td><code>G/10 DB48 G14 K20 G48 DY4 DB4 DY4 R/4</code></td><td>298</td><td>1953</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g5db24g7k10g24dy2db2dy2r2/"><img src="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g3db8g3k4g9y2db2y2r2/">Maitland</a></td><td><code>G/6 DB16 G6 K8 G18 Y4 DB4 Y4 R/4</code></td><td>65</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g3db8g3k4g9y2db2y2r2/"><img src="/variants/s9/g3db8g3k4g9y2db2y2r2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/">Maitland</a> ★</td><td><code>G/10 DB48 G14 K20 G48 DY4 DB4 DY4 R/4</code></td><td>298</td><td>1953</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><img src="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g3db8g3k4g9y2db2y2r2/">Maitland</a></td><td><code>G/3 DB8 G3 K4 G9 Y2 DB2 Y2 R/2</code></td><td>65</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g3db8g3k4g9y2db2y2r2/"><img src="/variants/s9/g3db8g3k4g9y2db2y2r2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/g3db8g3k4g9y2db2y2r2/">Maitland</a></td><td><code>G/3 DB8 G3 K4 G9 Y2 DB2 Y2 R/2</code></td><td>65</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/g3db8g3k4g9y2db2y2r2~x2/">Maitland</a></td><td><code>G/6 DB16 G6 K8 G18 Y4 DB4 Y4 R/4</code></td><td>130</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/g3db8g3k4g9y2db2y2r2/">Maitland</a> · <a href="/variants/s9/g3db8g3k4g9y2db2y2r2~x2/">Maitland</a></td></tr>
-<tr><td><a href="/setts/g3db9g3k4g8y2db2y2r2/">Maitland</a></td><td><code>G/3 DB9 G3 K4 G8 Y2 DB2 Y2 R/2</code></td><td>65</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g3db9g3k4g8y2db2y2r2/"><img src="/variants/s9/g3db9g3k4g8y2db2y2r2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g5db24g7k10g24y2db2y2r2/">Maitland</a></td><td><code>G/10 DB48 G14 K20 G48 Y4 DB4 Y4 R/4</code></td><td>298</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g5db24g7k10g24y2db2y2r2/"><img src="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g3db9g3k4g8y2db2y2r2/">Maitland</a></td><td><code>G/3 DB9 G3 K4 G8 Y2 DB2 Y2 R/2</code></td><td>65</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g3db9g3k4g8y2db2y2r2/"><img src="/variants/s9/g3db9g3k4g8y2db2y2r2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/">Maitland</a></td><td><code>G/10 DB48 G14 K20 G48 Y4 DB4 Y4 R/4</code></td><td>298</td><td>1960</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/"><img src="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/sett.png" alt="Maitland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -43,6 +51,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="182.3" cy="132.9" r="4" fill="#3465a4"><title>Scottish Rugby Union</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="182.5" cy="125.5" r="4" fill="#3465a4"><title>Hope-Vere</title></circle></a><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/"><circle cx="158.8" cy="165.5" r="4" fill="#3465a4"><title>Allen</title></circle></a><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="178.8" cy="136.3" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="156.0" cy="163.5" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="177.2" cy="176.5" r="4" fill="#3465a4"><title>Ednie</title></circle></a><a href="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/"><circle cx="222.6" cy="167.4" r="4" fill="#3465a4"><title>Pride of Yorkland</title></circle></a><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="206.3" cy="147.1" r="4" fill="#3465a4"><title>Jones Hunting</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="169.7" cy="157.5" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="223.5" cy="131.6" r="4" fill="#3465a4"><title>McFadden</title></circle></a><circle cx="209.5" cy="154.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="182.8" cy="132.8" r="4" fill="#3465a4"><title>Scottish Rugby Union</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="183.0" cy="125.4" r="4" fill="#3465a4"><title>Hope-Vere</title></circle></a><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/"><circle cx="159.2" cy="165.3" r="4" fill="#3465a4"><title>Allen</title></circle></a><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="179.3" cy="136.1" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="156.4" cy="163.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="177.6" cy="176.4" r="4" fill="#3465a4"><title>Ednie</title></circle></a><a href="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/"><circle cx="223.2" cy="167.3" r="4" fill="#3465a4"><title>Pride of Yorkland</title></circle></a><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="206.8" cy="147.0" r="4" fill="#3465a4"><title>Jones Hunting</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="170.2" cy="157.4" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="224.1" cy="131.6" r="4" fill="#3465a4"><title>McFadden</title></circle></a><circle cx="210.0" cy="154.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

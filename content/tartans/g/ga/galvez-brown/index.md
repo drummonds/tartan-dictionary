@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db36dy5dr12r9dp5w12dy7/"
+- "/setts/db36ly5dr12r9dp5w12ly7/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bgbrbwg/">BGBRBWG</a></nav>
 Its design is pattern [BGBRBWG](/stripes/bgbrbwg/) — the page of every tartan sharing this colour sequence.
 
 Celebrates the Galvez-Brown union of Catalan and Scottish families; colours evoke the Saltire and Senyera flags.
@@ -15,10 +19,10 @@ The **Galvez-Brown** tartan groups 2 setts — the same named design recorded as
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db36dy5dr12r9dp5w12dy7/">Galvez-Brown</a> ★</td><td><code>DB/72 DY10 DR24 R18 DP10 W24 DY/14</code></td><td>258</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db36dy5dr12r9dp5w12dy7/"><img src="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/sett.png" alt="Galvez-Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db36ly5dr12r9dp5w12ly7/">(Personal)</a></td><td><code>DB/72 LY10 DR24 R18 DP10 W24 LY/14</code></td><td>258</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db36ly5dr12r9dp5w12ly7/"><img src="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/">Galvez-Brown</a> ★</td><td><code>DB/72 DY10 DR24 R18 DP10 W24 DY/14</code></td><td>258</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><img src="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/sett.png" alt="Galvez-Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/">(Personal)</a></td><td><code>DB/72 LY10 DR24 R18 DP10 W24 LY/14</code></td><td>258</td><td>2012</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/"><img src="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="261.0" cy="165.9" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.4" cy="226.6" r="4" fill="#3465a4"><title>Ryan/Fehder</title></circle></a><a href="/variants/s5/dp30ly7w6db30y8~x2/"><circle cx="184.3" cy="264.3" r="4" fill="#3465a4"><title>Pownall</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.4" cy="216.8" r="4" fill="#3465a4"><title>Falardeau-Murphy</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.9" cy="204.4" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.6" cy="221.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="126.4" cy="209.5" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="166.5" cy="182.4" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/"><circle cx="188.9" cy="153.3" r="4" fill="#3465a4"><title>Wingtip</title></circle></a><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="76.1" cy="203.5" r="4" fill="#3465a4"><title>Reekie</title></circle></a><circle cx="146.9" cy="193.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="261.6" cy="165.7" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.5" cy="226.3" r="4" fill="#3465a4"><title>Ryan/Fehder</title></circle></a><a href="/variants/s5/dp30ly7w6db30y8~x2/"><circle cx="184.4" cy="264.1" r="4" fill="#3465a4"><title>Pownall</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.3" cy="216.5" r="4" fill="#3465a4"><title>Falardeau-Murphy</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="144.1" cy="204.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="185.8" cy="221.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="126.5" cy="209.2" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="166.8" cy="182.1" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/"><circle cx="189.3" cy="153.1" r="4" fill="#3465a4"><title>Wingtip</title></circle></a><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="76.2" cy="203.1" r="4" fill="#3465a4"><title>Reekie</title></circle></a><circle cx="147.1" cy="193.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

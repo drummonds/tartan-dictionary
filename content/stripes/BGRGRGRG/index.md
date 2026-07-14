@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db4y1r12y2r2y12r1y4~x4/">Glassary #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db4y1r12y2r2y12r1y4~x4/"><img src="/variants/s8/db4y1r12y2r2y12r1y4~x4/sett.png" alt="Glassary #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glassary-2/">Glassary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glassary-2/"><img src="/variants/s8/db4y1r12y2r2y12r1y4~x4/sett.png" alt="Glassary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

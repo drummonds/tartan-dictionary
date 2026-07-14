@@ -8,10 +8,10 @@ crumbs:
 - name: "Argyll Campbell"
   url: "/tartans/a/ar/argyll-campbell/"
 - name: "Argyll Campbell"
-  url: "/setts/k3db17k20g18w4g18k20db18k2db2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3db17k20g18w4g18k20db18k2db2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/argyll-campbell/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGWGKBK](/stripes/bkbkgwgkbk/).
 
 Part of the [Argyll Campbell](/tartans/a/ar/argyll-campbell/) tartan — the named design grouping this sett with its other cloths.

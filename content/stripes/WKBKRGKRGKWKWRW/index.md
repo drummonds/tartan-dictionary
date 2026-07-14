@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/w4r2w1k2w8k6y6r6k6y6r6k1db16k1w4~x2/">Uganda</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w4r2w1k2w8k6y6r6k6y6r6k1db16k1w4~x2/"><img src="/variants/s15/w4r2w1k2w8k6y6r6k6y6r6k1db16k1w4~x2/sett.png" alt="Uganda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/ug/uganda/">Uganda</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/ug/uganda/"><img src="/variants/s15/w4r2w1k2w8k6y6r6k6y6r6k1db16k1w4~x2/sett.png" alt="Uganda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

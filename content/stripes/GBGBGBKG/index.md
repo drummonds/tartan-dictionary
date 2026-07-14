@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g13dp1g1dp1g3t5k4y2~x4/">Carrick Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g13dp1g1dp1g3t5k4y2~x4/"><img src="/variants/s8/g13dp1g1dp1g3t5k4y2~x4/sett.png" alt="Carrick Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/">Carrick Hunting District Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/"><img src="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/sett.png" alt="Carrick Hunting District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/carrick-hunting/">Carrick Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/carrick-hunting/"><img src="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/sett.png" alt="Carrick Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

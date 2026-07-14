@@ -12,10 +12,10 @@ crumbs:
 - name: "Outlander"
   url: "/tartans/o/ou/outlander-4/"
 - name: "Outlander #5"
-  url: "/setts/n13dy15n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n13dy15n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ou/outlander-4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGB](/stripes/bgb/).
 
 Part of the [Outlander](/tartans/o/ou/outlander-4/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11117](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/08/2014 — Outlander #5 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11117">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#4C3428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #4C3428"></span><br><em>Created for the television series Outlander. Ancient and weathered colours were used to simulate the natural wools and dyes available in the time period of the story.</em></li>
-<li>2014 — Outlander #5 (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11117">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><br><em>Created for the television series 'Outlander'. Ancient and weathered colours were used to simulate the natural wools and dyes available in the time period of the story. Created for the sole use of Sony Pictures Television Inc. Attn: Television Legal / Gregory K. Boone Address: Sony Pictures Entertainment 10202 West Washington Boulevard Harry Cohn Building, #111 Culver City, CA 90232 Only to be woven by Anthony Haines Textiles Ltd</em></li>
+<li>2014 — Outlander #5 (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/11117/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><br><em>Created for the television series 'Outlander'. Ancient and weathered colours were used to simulate the natural wools and dyes available in the time period of the story. Created for the sole use of Sony Pictures Television Inc. Attn: Television Legal / Gregory K. Boone Address: Sony Pictures Entertainment 10202 West Washington Boulevard Harry Cohn Building, #111 Culver City, CA 90232 Only to be woven by Anthony Haines Textiles Ltd</em></li>
 </ul>
 </details>
 

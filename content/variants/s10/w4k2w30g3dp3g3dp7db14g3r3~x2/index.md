@@ -12,10 +12,10 @@ crumbs:
 - name: "Edinburgh Dress"
   url: "/tartans/e/ed/edinburgh-dress/"
 - name: "Edinburgh Dress (Dance)"
-  url: "/setts/w4k2w30g3dp3g3dp7db14g3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w4k2w30g3dp3g3dp7db14g3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/e/ed/edinburgh-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBBGBGWKW](/stripes/rgbbgbgwkw/).
 
 Part of the [Edinburgh Dress](/tartans/e/ed/edinburgh-dress/) tartan — the named design grouping this sett with its other cloths.

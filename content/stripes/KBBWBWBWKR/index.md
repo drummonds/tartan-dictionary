@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/">Ryukoku University Heian Junior Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><img src="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/sett.png" alt="Ryukoku University Heian Junior Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/">Ryukoku University Heian Junior High School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/"><img src="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/sett.png" alt="Ryukoku University Heian Junior High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ry/ryukoku-university-heian-junior/">Ryukoku University Heian Junior</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ry/ryukoku-university-heian-junior/"><img src="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/sett.png" alt="Ryukoku University Heian Junior sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ry/ryukoku-university-heian-junior-high-school/">Ryukoku University Heian Junior High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ry/ryukoku-university-heian-junior-high-school/"><img src="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/sett.png" alt="Ryukoku University Heian Junior High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

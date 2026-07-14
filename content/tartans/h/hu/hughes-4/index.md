@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/hughes/"
 - name: "Hughes"
   url: "/families/hughes/"
+aliases:
+- "/setts/t4k12db3t4db3k3ly36db3t2ly3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbbbkybby/">BKBBBKYBBY</a></nav>
 A tartan of the [Hughes](/families/hughes/) family.
 Its design is pattern [BKBBBKYBBY](/stripes/bkbbbkybby/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **Hughes** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t4k12db3t4db3k3ly36db3t2ly3/">Hughes</a></td><td><code>T/8 K24 DB6 T8 DB6 K6 LY72 DB6 T4 LY/6</code></td><td>278</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t4k12db3t4db3k3ly36db3t2ly3/"><img src="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/sett.png" alt="Hughes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/">Hughes</a></td><td><code>T/8 K24 DB6 T8 DB6 K6 LY72 DB6 T4 LY/6</code></td><td>278</td><td>1975</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/"><img src="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/sett.png" alt="Hughes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="244.5" cy="102.6" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang</title></circle></a><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><circle cx="256.5" cy="108.8" r="4" fill="#3465a4"><title>Keirnan</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="187.6" cy="132.9" r="4" fill="#3465a4"><title>Burberry</title></circle></a><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><circle cx="219.0" cy="140.2" r="4" fill="#3465a4"><title>Georgia</title></circle></a><a href="/variants/s7/r2w10k15ly36w2k2w2~x2/"><circle cx="252.1" cy="133.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s15/g3k1g1r12g1r1g1k4g1lb2g15k1g1k1g3~x4/"><circle cx="262.1" cy="106.3" r="4" fill="#3465a4"><title>Hickey</title></circle></a><a href="/variants/s10/ly15n1ly2lo2ly2n1ly3k8n10ly3~x4/"><circle cx="238.7" cy="144.0" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/variants/s11/n2k1ly14n6ly2k10n2ly6n28k1ly2~x2/"><circle cx="294.0" cy="117.2" r="4" fill="#3465a4"><title>State Seal of Rhode Island</title></circle></a><a href="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/"><circle cx="225.4" cy="82.6" r="4" fill="#3465a4"><title>Waverley Check</title></circle></a><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/"><circle cx="287.5" cy="108.1" r="4" fill="#3465a4"><title>Cardiff City Football Club</title></circle></a><circle cx="251.0" cy="108.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="245.3" cy="102.5" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang</title></circle></a><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><circle cx="257.3" cy="108.8" r="4" fill="#3465a4"><title>Keirnan</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="188.1" cy="132.8" r="4" fill="#3465a4"><title>Burberry</title></circle></a><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><circle cx="219.5" cy="140.1" r="4" fill="#3465a4"><title>Georgia</title></circle></a><a href="/variants/s7/r2w10k15ly36w2k2w2~x2/"><circle cx="252.8" cy="133.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s15/g3k1g1r12g1r1g1k4g1lb2g15k1g1k1g3~x4/"><circle cx="262.8" cy="106.3" r="4" fill="#3465a4"><title>Hickey</title></circle></a><a href="/variants/s10/ly15n1ly2lo2ly2n1ly3k8n10ly3~x4/"><circle cx="239.3" cy="143.9" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/variants/s11/n2k1ly14n6ly2k10n2ly6n28k1ly2~x2/"><circle cx="294.8" cy="117.2" r="4" fill="#3465a4"><title>State Seal of Rhode Island</title></circle></a><a href="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/"><circle cx="226.1" cy="82.4" r="4" fill="#3465a4"><title>Waverley Check</title></circle></a><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/"><circle cx="288.4" cy="108.0" r="4" fill="#3465a4"><title>Cardiff City Football Club</title></circle></a><circle cx="251.7" cy="108.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

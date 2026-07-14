@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/k10y2k10w2k2y13w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kgkwkgw/">KGKWKGW</a></nav>
 Its design is pattern [KGKWKGW](/stripes/kgkwkgw/) — the page of every tartan sharing this colour sequence.
 
 The **Nooten-Boom** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Nooten-Boom** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k10y2k10w2k2y13w3/">Nooten-Boom</a></td><td><code>K/20 Y4 K20 W4 K4 Y26 W/6</code></td><td>142</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k10y2k10w2k2y13w3/"><img src="/variants/s7/k10y2k10w2k2y13w3~x2/sett.png" alt="Nooten-Boom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k10y2k10w2k2y13w3~x2/">Nooten-Boom</a></td><td><code>K/20 Y4 K20 W4 K4 Y26 W/6</code></td><td>142</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k10y2k10w2k2y13w3~x2/"><img src="/variants/s7/k10y2k10w2k2y13w3~x2/sett.png" alt="Nooten-Boom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4ly32k16r3k16ly4~x2/"><circle cx="244.7" cy="180.8" r="4" fill="#3465a4"><title>Unnamed C21st</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="284.9" cy="190.4" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="263.2" cy="186.5" r="4" fill="#3465a4"><title>Porter Drinkers</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="208.4" cy="223.6" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="293.9" cy="175.8" r="4" fill="#3465a4"><title>Scottish National Party</title></circle></a><a href="/variants/s5/k4y1k4y6r1~x4/"><circle cx="236.1" cy="233.9" r="4" fill="#3465a4"><title>MacLeod Dress</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="286.7" cy="195.1" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><a href="/variants/s6/k6y1k6y9r1y2~x2/"><circle cx="256.0" cy="202.9" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s5/w7k6dy15k24w3~x2/"><circle cx="240.8" cy="210.6" r="4" fill="#3465a4"><title>Longford County, Crest Range</title></circle></a><a href="/variants/s7/g6r2g13k6w2k16r3~x2/"><circle cx="183.4" cy="189.1" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><circle cx="225.8" cy="202.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k4ly32k16r3k16ly4~x2/"><circle cx="245.4" cy="180.9" r="4" fill="#3465a4"><title>Unnamed C21st</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="285.7" cy="190.5" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="263.9" cy="186.5" r="4" fill="#3465a4"><title>Porter Drinkers</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="208.9" cy="223.6" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="294.7" cy="175.9" r="4" fill="#3465a4"><title>Scottish National Party</title></circle></a><a href="/variants/s5/k4y1k4y6r1~x4/"><circle cx="236.8" cy="234.0" r="4" fill="#3465a4"><title>MacLeod Dress</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="287.6" cy="195.3" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><a href="/variants/s6/k6y1k6y9r1y2~x2/"><circle cx="256.7" cy="203.0" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s5/w7k6dy15k24w3~x2/"><circle cx="241.5" cy="210.6" r="4" fill="#3465a4"><title>Longford County, Crest Range</title></circle></a><a href="/variants/s7/g6r2g13k6w2k16r3~x2/"><circle cx="184.0" cy="189.1" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><circle cx="226.4" cy="202.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

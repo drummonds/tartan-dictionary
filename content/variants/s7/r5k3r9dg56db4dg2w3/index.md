@@ -12,10 +12,10 @@ crumbs:
 - name: "MTV"
   url: "/tartans/m/mt/mtv/"
 - name: "MTV"
-  url: "/setts/r5k3r9dg56db4dg2w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r5k3r9dg56db4dg2w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mt/mtv/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRGBGW](/stripes/rkrgbgw/).
 
 Part of the [MTV](/tartans/m/mt/mtv/) tartan — the named design grouping this sett with its other cloths.

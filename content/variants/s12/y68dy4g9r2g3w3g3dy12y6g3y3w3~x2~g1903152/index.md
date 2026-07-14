@@ -10,10 +10,10 @@ crumbs:
 - name: "Kelly Dress"
   url: "/tartans/k/ke/kelly-dress/"
 - name: "Kelly Dress"
-  url: "/setts/y68dy4g9r2g3w3g3dy12y6g3y3w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y68dy4g9r2g3w3g3dy12y6g3y3w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kelly-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRGWGGGGGW](/stripes/gggrgwgggggw/).
 
 Part of the [Kelly Dress](/tartans/k/ke/kelly-dress/) tartan — the named design grouping this sett with its other cloths.

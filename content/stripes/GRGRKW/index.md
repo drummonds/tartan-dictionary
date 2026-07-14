@@ -28,16 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g10r4g46r69k2w6/">Colchester &amp; District Pipes &amp; Drums</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g10r4g46r69k2w6/"><img src="/variants/s6/g10r4g46r69k2w6/sett.png" alt="Colchester &amp; District Pipes &amp; Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g9r2g9r14k1w2/">MacGregor of Balquhidder Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g9r2g9r14k1w2/"><img src="/variants/s6/g9r2g9r14k1w2~x2/sett.png" alt="MacGregor of Balquhidder Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/dg32r12dg6r6k2w3~x2/">Princess Margaret Rose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><img src="/variants/s6/dg32r12dg6r6k2w3~x2/sett.png" alt="Princess Margaret Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g32r12g6r6k2w3~x2/">Princess Margaret Rose (Royal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g32r12g6r6k2w3~x2/"><img src="/variants/s6/g32r12g6r6k2w3~x2/sett.png" alt="Princess Margaret Rose (Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g36r18g4r6k1w2~x2/">Princess Margaret Rose Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g36r18g4r6k1w2~x2/"><img src="/variants/s6/g36r18g4r6k1w2~x2/sett.png" alt="Princess Margaret Rose Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/colchester-district-p-d-corporate/">Colchester &amp; District P&amp;D (Corporate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/colchester-district-p-d-corporate/"><img src="/variants/s6/g10r4g46r69k2w6/sett.png" alt="Colchester &amp; District P&amp;D (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-of-balquhidder/">MacGregor of Balquhidder</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-of-balquhidder/"><img src="/variants/s6/g9r2g9r14k1w2~x2/sett.png" alt="MacGregor of Balquhidder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/princess-margaret-rose/">Princess Margaret Rose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-margaret-rose/"><img src="/variants/s6/dg32r12dg6r6k2w3~x2/sett.png" alt="Princess Margaret Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

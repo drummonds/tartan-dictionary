@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/">Pictou County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><img src="/variants/s8/db23w1r3w1db12y9g40dp3~x2/sett.png" alt="Pictou County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pi/pictou-county/">Pictou County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pi/pictou-county/"><img src="/variants/s8/db23w1r3w1db12y9g40dp3~x2/sett.png" alt="Pictou County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

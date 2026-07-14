@@ -12,10 +12,10 @@ crumbs:
 - name: "Derry"
   url: "/tartans/d/de/derry/"
 - name: "Derry Family (Olney, Buckinghamshire) (Personal)"
-  url: "/setts/w6lb36y12g19dg6r6dg6r28dg4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w6lb36y12g19dg6r6dg6r28dg4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/de/derry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGGGWW](/stripes/grgrgggww/).
 
 Part of the [Derry](/tartans/d/de/derry/) tartan — the named design grouping this sett with its other cloths.

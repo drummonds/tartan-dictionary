@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/">Unnamed</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/"><img src="/variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/sett.png" alt="Unnamed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unnamed-3/">Unnamed</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unnamed-3/"><img src="/variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/sett.png" alt="Unnamed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Thomson camel"
   url: "/tartans/t/th/thomson-camel-3/"
 - name: "Thom(p)son camel"
-  url: "/setts/r4o30k6w13k13w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r4o30k6w13k13w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/thomson-camel-3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRKWKW](/stripes/rrkwkw/).
 
 Part of the [Thomson camel](/tartans/t/th/thomson-camel-3/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3~x2/">Confederate Rose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3~x2/"><img src="/variants/s14/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3~x2/sett.png" alt="Confederate Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/confederate-rose/">Confederate Rose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/confederate-rose/"><img src="/variants/s14/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3~x2/sett.png" alt="Confederate Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

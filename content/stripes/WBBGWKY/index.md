@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w3dr3db16g32lb3k3lo2~x2/">Washington State (US State)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w3dr3db16g32lb3k3lo2~x2/"><img src="/variants/s7/w3dr3db16g32lb3k3lo2~x2/sett.png" alt="Washington State (US State) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/washington-state/">Washington State</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/washington-state/"><img src="/variants/s7/w3dr3db16g32lb3k3lo2~x2/sett.png" alt="Washington State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

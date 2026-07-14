@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/">Royal Stuart/Stewart</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/"><img src="/variants/s8/r7db2k2y1k2r2k1w1~x2/sett.png" alt="Royal Stuart/Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-stewart-5/">Royal Stewart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-stewart-5/"><img src="/variants/s8/r7db2k2y1k2r2k1w1~x2/sett.png" alt="Royal Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

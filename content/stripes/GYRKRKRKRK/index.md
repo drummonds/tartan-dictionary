@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/">Hannay Dress (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><img src="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/sett.png" alt="Hannay Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/hannay-dress/">Hannay Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hannay-dress/"><img src="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/sett.png" alt="Hannay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

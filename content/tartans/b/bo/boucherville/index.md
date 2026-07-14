@@ -8,7 +8,12 @@ crumbs:
   url: "/clan/boucherville/"
 - name: "Boucherville"
   url: "/families/boucherville/"
+aliases:
+- "/setts/g20y2n5w4g2n2g2n2t6/"
+- "/setts/dg20y2n5w4dg2n2dg2n2b6/"
+- "/setts/g20y2n5w4g2n2g2n2db6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbgbgwbgg/">BBGBGWBGG</a></nav>
 A tartan of the [Boucherville](/families/boucherville/) family.
 Its design is pattern [BBGBGWBGG](/stripes/bbgbgwbgg/) — the page of every tartan sharing this colour sequence.
 
@@ -20,13 +25,13 @@ The **Boucherville** tartan groups 3 setts — the same named design recorded as
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g20y2n5w4g2n2g2n2t6/">Boucherville</a> ★</td><td><code>G/40 Y4 N10 W8 G4 N4 G4 N4 T/12</code></td><td>128</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g20y2n5w4g2n2g2n2t6/"><img src="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/sett.png" alt="Boucherville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/">Boucherville</a> ★</td><td><code>G/40 Y4 N10 W8 G4 N4 G4 N4 T/12</code></td><td>128</td><td>1990</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/"><img src="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/sett.png" alt="Boucherville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2/">(District)</a> · <a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/">Boucherville</a></td></tr>
-<tr><td><a href="/setts/dg20y2n5w4dg2n2dg2n2b6/">(Tartan de..)</a></td><td><code>DG/40 Y4 N10 W8 DG4 N4 DG4 N4 B/12</code></td><td>128</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg20y2n5w4dg2n2dg2n2b6/"><img src="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/sett.png" alt="(Tartan de..) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g20y2n5w4g2n2g2n2db6/">(Tartan de..) District Tartan</a></td><td><code>G/40 Y4 N10 W8 G4 N4 G4 N4 DB/12</code></td><td>128</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g20y2n5w4g2n2g2n2db6/"><img src="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/sett.png" alt="(Tartan de..) District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/">(Tartan de..)</a></td><td><code>DG/40 Y4 N10 W8 DG4 N4 DG4 N4 B/12</code></td><td>128</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/"><img src="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/sett.png" alt="(Tartan de..) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/">(Tartan de..) District Tartan</a></td><td><code>G/40 Y4 N10 W8 G4 N4 G4 N4 DB/12</code></td><td>128</td><td>1990</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/"><img src="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/sett.png" alt="(Tartan de..) District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -39,6 +44,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><circle cx="308.9" cy="215.1" r="4" fill="#3465a4"><title>Lévesque, Pascal</title></circle></a><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/"><circle cx="331.7" cy="204.6" r="4" fill="#3465a4"><title>New South Wales Waratah</title></circle></a><a href="/variants/s7/lb4dg26g8lb8g8gi3lb2~x2~dg1806142-g2203152-gi2408144/"><circle cx="327.5" cy="256.2" r="4" fill="#3465a4"><title>Valley of the</title></circle></a><a href="/variants/s10/g12y6lo16dg10w6dg8g12dg70y9dg7~g2408144-dg1806142/"><circle cx="387.1" cy="204.4" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/"><circle cx="307.5" cy="227.1" r="4" fill="#3465a4"><title>Rhode Island State</title></circle></a><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"><circle cx="305.6" cy="260.0" r="4" fill="#3465a4"><title>City of Vancouver</title></circle></a><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><circle cx="308.1" cy="226.8" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/"><circle cx="296.9" cy="223.3" r="4" fill="#3465a4"><title>Roddy's Highland Spirit</title></circle></a><a href="/variants/s9/dg70y6n28g56n5g11n5g11b12/"><circle cx="309.1" cy="233.0" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="265.9" cy="238.9" r="4" fill="#3465a4"><title>Washington DC</title></circle></a><circle cx="343.8" cy="228.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><circle cx="309.2" cy="215.1" r="4" fill="#3465a4"><title>Lévesque, Pascal</title></circle></a><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/"><circle cx="332.0" cy="204.7" r="4" fill="#3465a4"><title>New South Wales Waratah</title></circle></a><a href="/variants/s7/lb4dg26g8lb8g8gi3lb2~x2~dg1806142-g2203152-gi2408144/"><circle cx="327.5" cy="256.3" r="4" fill="#3465a4"><title>Valley of the</title></circle></a><a href="/variants/s10/g12y6lo16dg10w6dg8g12dg70y9dg7~g2408144-dg1806142/"><circle cx="387.5" cy="204.6" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/"><circle cx="307.6" cy="227.2" r="4" fill="#3465a4"><title>Rhode Island State</title></circle></a><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"><circle cx="305.5" cy="260.0" r="4" fill="#3465a4"><title>City of Vancouver</title></circle></a><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><circle cx="308.2" cy="226.8" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/"><circle cx="296.9" cy="223.3" r="4" fill="#3465a4"><title>Roddy's Highland Spirit</title></circle></a><a href="/variants/s9/dg70y6n28g56n5g11n5g11b12/"><circle cx="309.2" cy="233.0" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="265.9" cy="238.8" r="4" fill="#3465a4"><title>Washington DC</title></circle></a><circle cx="344.0" cy="228.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

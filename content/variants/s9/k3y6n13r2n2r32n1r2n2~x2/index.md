@@ -12,10 +12,10 @@ crumbs:
 - name: "Fueglistal"
   url: "/tartans/f/fu/fueglistal/"
 - name: "Fueglistal (Aargau) (Personal)"
-  url: "/setts/k3y6n13r2n2r32n1r2n2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k3y6n13r2n2r32n1r2n2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fu/fueglistal/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBGK](/stripes/brbrbrbgk/).
 
 Part of the [Fueglistal](/tartans/f/fu/fueglistal/) tartan — the named design grouping this sett with its other cloths.

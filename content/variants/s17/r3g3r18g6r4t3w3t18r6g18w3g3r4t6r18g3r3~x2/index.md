@@ -12,10 +12,10 @@ crumbs:
 - name: "Reid of Straloch"
   url: "/tartans/r/re/reid-of-straloch/"
 - name: "Reid of Straloch (Personal)"
-  url: "/setts/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/re/reid-of-straloch/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRGWGRBWBRGRGR](/stripes/rgrbrgwgrbwbrgrgr/).
 
 Part of the [Reid of Straloch](/tartans/r/re/reid-of-straloch/) tartan — the named design grouping this sett with its other cloths.

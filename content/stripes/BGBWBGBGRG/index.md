@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g7r4g14db10g5db10w2db10g5db5~x2/">Edmonstone (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g7r4g14db10g5db10w2db10g5db5~x2/"><img src="/variants/s10/g7r4g14db10g5db10w2db10g5db5~x2/sett.png" alt="Edmonstone (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/dg7r4dg14db10dg5db10w2db10dg5db5~x2/">Edmonstone of Duntreath</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/dg7r4dg14db10dg5db10w2db10dg5db5~x2/"><img src="/variants/s10/dg7r4dg14db10dg5db10w2db10dg5db5~x2/sett.png" alt="Edmonstone of Duntreath sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edmonstone/">Edmonstone</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edmonstone/"><img src="/variants/s10/g7r4g14db10g5db10w2db10g5db5~x2/sett.png" alt="Edmonstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edmonstone-of-duntreath/">Edmonstone of Duntreath</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edmonstone-of-duntreath/"><img src="/variants/s10/dg7r4dg14db10dg5db10w2db10dg5db5~x2/sett.png" alt="Edmonstone of Duntreath sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s34/db6r3y14r3dr15y3dr15db5dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3db5dr15y3dr19r3y14r3~x2/">Confrerie de Vouvray Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s34/db6r3y14r3dr15y3dr15db5dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3db5dr15y3dr19r3y14r3~x2/"><img src="/variants/s34/db6r3y14r3dr15y3dr15db5dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3db5dr15y3dr19r3y14r3~x2/sett.png" alt="Confrerie de Vouvray Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/confrerie-de-vouvray-2/">Confrerie de Vouvray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/confrerie-de-vouvray-2/"><img src="/variants/s34/db6r3y14r3dr15y3dr15db5dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3db5dr15y3dr19r3y14r3~x2/sett.png" alt="Confrerie de Vouvray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Singh"
   url: "/clan/singh/"
+aliases:
+- "/setts/k10lo4dg34db34k1y3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gkbgyk/">GKBGYK</a></nav>
 A tartan of [Clan Singh](/clan/singh/).
 Its design is pattern [GKBGYK](/stripes/gkbgyk/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Singh, Gopal** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k10lo4dg34db34k1y3/">Singh, Gopal</a></td><td><code>K/20 LO8 DG68 DB68 K2 Y/6</code></td><td>318</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k10lo4dg34db34k1y3/"><img src="/variants/s6/k10lo4dg34db34k1y3~x2/sett.png" alt="Singh, Gopal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k10lo4dg34db34k1y3~x2/">Singh, Gopal</a></td><td><code>K/20 LO8 DG68 DB68 K2 Y/6</code></td><td>318</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><img src="/variants/s6/k10lo4dg34db34k1y3~x2/sett.png" alt="Singh, Gopal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k20db50dg50r3k3~x2/"><circle cx="290.4" cy="210.6" r="4" fill="#3465a4"><title>Louisville Spaulding</title></circle></a><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="198.0" cy="191.6" r="4" fill="#3465a4"><title>Landels</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="256.2" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="233.5" cy="139.8" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9dr1~x4/"><circle cx="345.5" cy="190.9" r="4" fill="#3465a4"><title>Monarchs</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="344.4" cy="146.7" r="4" fill="#3465a4"><title>Caig</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="271.6" cy="130.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="261.3" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland</title></circle></a><a href="/variants/s7/k12g8y1dg13lb1db31k8~x2/"><circle cx="206.6" cy="125.2" r="4" fill="#3465a4"><title>Chesters, Eric</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="235.0" cy="158.8" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><circle cx="269.9" cy="147.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/k20db50dg50r3k3~x2/"><circle cx="290.9" cy="210.7" r="4" fill="#3465a4"><title>Louisville Spaulding</title></circle></a><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="198.4" cy="191.5" r="4" fill="#3465a4"><title>Landels</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="257.1" cy="113.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="234.2" cy="139.7" r="4" fill="#3465a4"><title>Hatfield &amp; Mize</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9dr1~x4/"><circle cx="346.2" cy="191.1" r="4" fill="#3465a4"><title>Monarchs</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="345.1" cy="146.8" r="4" fill="#3465a4"><title>Caig</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="272.4" cy="130.2" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="261.9" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland</title></circle></a><a href="/variants/s7/k12g8y1dg13lb1db31k8~x2/"><circle cx="207.1" cy="125.1" r="4" fill="#3465a4"><title>Chesters, Eric</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="235.5" cy="158.7" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><circle cx="270.5" cy="147.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

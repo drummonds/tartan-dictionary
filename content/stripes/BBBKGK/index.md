@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k16dg32k8n4dr11n2~x2/">Mitchell, Cameron (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k16dg32k8n4dr11n2~x2/"><img src="/variants/s6/k16dg32k8n4dr11n2~x2/sett.png" alt="Mitchell, Cameron (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/mitchell-cameron/">Mitchell, Cameron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/mitchell-cameron/"><img src="/variants/s6/k16dg32k8n4dr11n2~x2/sett.png" alt="Mitchell, Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

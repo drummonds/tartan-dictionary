@@ -8,15 +8,15 @@ crumbs:
 - name: "Canadian Centennial"
   url: "/tartans/c/ca/canadian-centennial-2/"
 - name: "Canadian Centennial #3"
-  url: "/setts/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKGKGBGBGBGBGBGBGBGKGKBKBKBKBKBKBKBKG](/stripes/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkgkgbgbgbgbgbgbgbgkgkbkbkbkbkbkbkbkg/).
+provenance below. It is one weaving of the [sett](/tartans/c/ca/canadian-centennial-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKG](/stripes/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkg/).
 
 Part of the [Canadian Centennial](/tartans/c/ca/canadian-centennial-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [70 stripe tartan](/stripes/stripes70/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=544](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=544)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1944
 
 ## Thread count
-DB/32 G16 K16 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB40 K8 G24 K48 DY16 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB28 DY12 K8 G104 K8 DY12 DB28 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY16 K48 G24 K8 DB40 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K16 G/16
+G/104 K8 DY12 DB28 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY16 K48 G24 K8 DB40 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K16 G16 DB/32
 
-One full sett is **1280 threads**.
+One full sett is **664 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/32 G16 K16 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB40 K8 G24 K48 DY16 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB28 DY12 K8 G104 K8 DY12 DB28 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY16 K48 G24 K8 DB40 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K16 G/16 — 1280 threads; it folds to the canonical 664-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **1280 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/32 G16 K16 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB40 K8 G24 K48 DY16 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB28 DY12 K8 G104 K8 DY12 DB28 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY16 K48 G24 K8 DB40 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K16 G/16 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/104 K8 DY12 DB28 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY16 K48 G24 K8 DB40 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K16 G16 DB/32 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

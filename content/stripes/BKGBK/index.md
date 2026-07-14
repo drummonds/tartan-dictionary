@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db2k2g2db1k1~x20/">Shepherd, Derek (Wandering)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db2k2g2db1k1~x20/"><img src="/variants/s5/db2k2g2db1k1~x20/sett.png" alt="Shepherd, Derek (Wandering) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wa/wandering-shepherd/">Wandering Shepherd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wa/wandering-shepherd/"><img src="/variants/s5/db2k2g2db1k1~x20/sett.png" alt="Wandering Shepherd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

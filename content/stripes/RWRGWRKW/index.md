@@ -28,14 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/">McBrayer Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><img src="/variants/s8/w57k1r12w1g12r14w1r2~x2/sett.png" alt="McBrayer Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/">Unidentified Blanket</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><img src="/variants/s8/w50k1r12w1g12r13w1r2~x2/sett.png" alt="Unidentified Blanket sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/w50k1r14w1dg14r14w1r2~x4~w4000000/">Wilson's Blanket Pattern</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w50k1r14w1dg14r14w1r2~x4~w4000000/"><img src="/variants/s8/w50k1r14w1dg14r14w1r2~x4~w4000000/sett.png" alt="Wilson's Blanket Pattern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/w80k2r19w2dg19r22w2r4~x2/">Wilsons' Blanket Pattern (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w80k2r19w2dg19r22w2r4~x2/"><img src="/variants/s8/w80k2r19w2dg19r22w2r4~x2/sett.png" alt="Wilsons' Blanket Pattern (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcbrayer-dress/">McBrayer Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcbrayer-dress/"><img src="/variants/s8/w57k1r12w1g12r14w1r2~x2/sett.png" alt="McBrayer Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-blanket/">Unidentified Blanket</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-blanket/"><img src="/variants/s8/w50k1r12w1g12r13w1r2~x2/sett.png" alt="Unidentified Blanket sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-blanket-pattern/">Wilson's Blanket Pattern</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-blanket-pattern/"><img src="/variants/s8/w80k2r19w2dg19r22w2r4~x2/sett.png" alt="Wilson's Blanket Pattern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

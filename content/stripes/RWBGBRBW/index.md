@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ri22w2db11y4db11r6db2w10~x2~ri2806019-r2109032/">Thousand Islands Int. Council (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ri22w2db11y4db11r6db2w10~x2~ri2806019-r2109032/"><img src="/variants/s8/ri22w2db11y4db11r6db2w10~x2~ri2806019-r2109032/sett.png" alt="Thousand Islands Int. Council (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thousand-islands-int-council/">Thousand Islands Int. Council</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thousand-islands-int-council/"><img src="/variants/s8/ri22w2db11y4db11r6db2w10~x2~ri2806019-r2109032/sett.png" alt="Thousand Islands Int. Council sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

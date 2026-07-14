@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/r1dg1r6g5r6dg1r1dg9ly3g3do3dg9r1dg1r6dgi5r6dg1r1w1r1w12g1w12r1w1~x4~g2408144-dgi1806142/">Maple Leaf Dress (Lumsden)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/r1dg1r6g5r6dg1r1dg9ly3g3do3dg9r1dg1r6dgi5r6dg1r1w1r1w12g1w12r1w1~x4~g2408144-dgi1806142/"><img src="/variants/s26/r1dg1r6g5r6dg1r1dg9ly3g3do3dg9r1dg1r6dgi5r6dg1r1w1r1w12g1w12r1w1~x4~g2408144-dgi1806142/sett.png" alt="Maple Leaf Dress (Lumsden) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/maple-leaf-dress/">Maple Leaf Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maple-leaf-dress/"><img src="/variants/s26/r1dg1r6g5r6dg1r1dg9ly3g3do3dg9r1dg1r6dgi5r6dg1r1w1r1w12g1w12r1w1~x4~g2408144-dgi1806142/sett.png" alt="Maple Leaf Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

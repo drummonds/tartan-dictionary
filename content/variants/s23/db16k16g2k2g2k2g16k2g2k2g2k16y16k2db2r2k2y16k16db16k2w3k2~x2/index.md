@@ -8,10 +8,10 @@ crumbs:
 - name: "Ferrazza in Guidonia, Rome"
   url: "/tartans/f/fe/ferrazza-in-guidonia-rome/"
 - name: "Ferrazza in Guidonia, Rome (Personal)"
-  url: "/setts/db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2r2k2y16k16db16k2w3k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2r2k2y16k16db16k2w3k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/ferrazza-in-guidonia-rome/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKGKGKGKGKBRKGKBKWK](/stripes/bkgkgkgkgkgkgkbrkgkbkwk/).
 
 Part of the [Ferrazza in Guidonia, Rome](/tartans/f/fe/ferrazza-in-guidonia-rome/) tartan — the named design grouping this sett with its other cloths.

@@ -8,10 +8,10 @@ crumbs:
 - name: "McCamley"
   url: "/tartans/m/mc/mccamley/"
 - name: "McCamley (Personal)"
-  url: "/setts/dg29g16k8r4dg16g16y4r4k16gi4g28dg16/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg29g16k8r4dg16g16y4r4k16gi4g28dg16/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mccamley/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKRGGGRKGG](/stripes/gggkrgggrkgg/).
 
 Part of the [McCamley](/tartans/m/mc/mccamley/) tartan — the named design grouping this sett with its other cloths.

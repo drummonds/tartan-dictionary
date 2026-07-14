@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/">Châine des Rôtisseurs, (Grande Bretagne)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/"><img src="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/sett.png" alt="Châine des Rôtisseurs, (Grande Bretagne) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ch/ch-ine-des-r-tisseurs/">Châine des Rôtisseurs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/ch-ine-des-r-tisseurs/"><img src="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/sett.png" alt="Châine des Rôtisseurs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

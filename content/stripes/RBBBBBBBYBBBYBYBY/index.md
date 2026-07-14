@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/">Thom, Calum (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/"><img src="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/sett.png" alt="Thom, Calum (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thom-calum/">Thom, Calum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thom-calum/"><img src="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/sett.png" alt="Thom, Calum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Louisville Spaulding"
   url: "/tartans/l/lo/louisville-spaulding/"
 - name: "Louisville Spaulding (Personal)"
-  url: "/setts/k20db50dg50r3k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k20db50dg50r3k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/lo/louisville-spaulding/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGRK](/stripes/kbgrk/).
 
 Part of the [Louisville Spaulding](/tartans/l/lo/louisville-spaulding/) tartan — the named design grouping this sett with its other cloths.

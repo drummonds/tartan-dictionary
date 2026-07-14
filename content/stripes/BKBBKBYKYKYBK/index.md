@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/">Franklin (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><img src="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/sett.png" alt="Franklin (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/franklin-2/">Franklin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/franklin-2/"><img src="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/sett.png" alt="Franklin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

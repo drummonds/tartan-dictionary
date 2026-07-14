@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dp20dt5k19g19dy2~x2/">Martin Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp20dt5k19g19dy2~x2/"><img src="/variants/s5/dp20dt5k19g19dy2~x2/sett.png" alt="Martin Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/martin-hunting/">Martin Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/martin-hunting/"><img src="/variants/s5/dp20dt5k19g19dy2~x2/sett.png" alt="Martin Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/">Nobiliary Fraternity</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/"><img src="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/sett.png" alt="Nobiliary Fraternity sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/nobiliary-fraternity/">Nobiliary Fraternity. . .</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/nobiliary-fraternity/"><img src="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/sett.png" alt="Nobiliary Fraternity. . . sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/dr4db14k15dg14y4~x2/">Scots Heritage</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr4db14k15dg14y4~x2/"><img src="/variants/s5/dr4db14k15dg14y4~x2/sett.png" alt="Scots Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scots-heritage/">Scots Heritage</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scots-heritage/"><img src="/variants/s5/dr4db14k15dg14y4~x2/sett.png" alt="Scots Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

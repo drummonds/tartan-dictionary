@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db62ly4dy10do3g21~x2/">McGovern (2016)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db62ly4dy10do3g21~x2/"><img src="/variants/s5/db62ly4dy10do3g21~x2/sett.png" alt="McGovern (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcgovern/">McGovern</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcgovern/"><img src="/variants/s5/db62ly4dy10do3g21~x2/sett.png" alt="McGovern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,16 +28,16 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k5w7k5n20db1~x4/">Burberry Grey (Original)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k5w7k5n20db1~x4/"><img src="/variants/s5/k5w7k5n20db1~x4/sett.png" alt="Burberry Grey (Original) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k3w3k3n10dr1~x6/">Greystone (Burberry Grey)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k3w3k3n10dr1~x6/"><img src="/variants/s5/k3w3k3n10dr1~x6/sett.png" alt="Greystone (Burberry Grey) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bu/burberry-4/">Burberry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bu/burberry-4/"><img src="/variants/s5/k5w7k5n20db1~x4/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/greystone/">Greystone</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/greystone/"><img src="/variants/s5/k3w3k3n10dr1~x6/sett.png" alt="Greystone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/">Edinburgh Crystal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/"><img src="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/sett.png" alt="Edinburgh Crystal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-crystal/">Edinburgh Crystal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-crystal/"><img src="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/sett.png" alt="Edinburgh Crystal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/k4lb4k4n15dr2~x4/">Oban Grey (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k4lb4k4n15dr2~x4/"><img src="/variants/s5/k4lb4k4n15dr2~x4/sett.png" alt="Oban Grey (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ob/oban/">Oban</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ob/oban/"><img src="/variants/s5/k4lb4k4n15dr2~x4/sett.png" alt="Oban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

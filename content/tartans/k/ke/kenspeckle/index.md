@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg50r1dr20k2w1/"
+- "/setts/g50r1dr20k2w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grbkw/">GRBKW</a></nav>
 Its design is pattern [GRBKW](/stripes/grbkw/) — the page of every tartan sharing this colour sequence.
 
 The **Kenspeckle** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Kenspeckle** tartan groups 2 setts — the same named design recorded as d
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg50r1dr20k2w1/">Kenspeckle</a> ★</td><td><code>DG/100 R2 DR40 K4 W/2</code></td><td>194</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg50r1dr20k2w1/"><img src="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/sett.png" alt="Kenspeckle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g50r1dr20k2w1/">(Corporate)</a></td><td><code>G/100 R2 DR40 K4 W/2</code></td><td>194</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g50r1dr20k2w1/"><img src="/variants/s5/g50r1dr20k2w1~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/">Kenspeckle</a> ★</td><td><code>DG/100 R2 DR40 K4 W/2</code></td><td>194</td><td>2006</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/"><img src="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/sett.png" alt="Kenspeckle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g50r1dr20k2w1~x2/">(Corporate)</a></td><td><code>G/100 R2 DR40 K4 W/2</code></td><td>194</td><td>2006</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/g50r1dr20k2w1~x2/"><img src="/variants/s5/g50r1dr20k2w1~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g53w1r20k1w2r7~x2/"><circle cx="422.8" cy="107.7" r="4" fill="#3465a4"><title>Masai Shuka 10</title></circle></a><a href="/variants/s4/g72r25y8w5/"><circle cx="421.5" cy="221.9" r="4" fill="#3465a4"><title>Sugell</title></circle></a><a href="/variants/s6/r3k4lb2g64k6y3~x2/"><circle cx="467.5" cy="87.4" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="357.1" cy="115.5" r="4" fill="#3465a4"><title>Military Medical Memorial</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="430.5" cy="46.8" r="4" fill="#3465a4"><title>Greeven, Wolfgang H</title></circle></a><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="394.2" cy="106.0" r="4" fill="#3465a4"><title>Jack</title></circle></a><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><circle cx="373.2" cy="133.2" r="4" fill="#3465a4"><title>Mullikin</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="403.8" cy="170.0" r="4" fill="#3465a4"><title>Nolan</title></circle></a><a href="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/"><circle cx="415.0" cy="176.3" r="4" fill="#3465a4"><title>Nolan Family, John J</title></circle></a><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="382.2" cy="158.2" r="4" fill="#3465a4"><title>Abadia Da Cova</title></circle></a><circle cx="474.7" cy="125.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g53w1r20k1w2r7~x2/"><circle cx="423.8" cy="107.9" r="4" fill="#3465a4"><title>Masai Shuka 10</title></circle></a><a href="/variants/s4/g72r25y8w5/"><circle cx="422.2" cy="222.2" r="4" fill="#3465a4"><title>Sugell</title></circle></a><a href="/variants/s6/r3k4lb2g64k6y3~x2/"><circle cx="468.8" cy="87.7" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="358.2" cy="115.7" r="4" fill="#3465a4"><title>Military Medical Memorial</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="431.8" cy="47.1" r="4" fill="#3465a4"><title>Greeven, Wolfgang H</title></circle></a><a href="/variants/s6/g4dr52k20dy9g2ly1~x2/"><circle cx="395.2" cy="106.1" r="4" fill="#3465a4"><title>Jack</title></circle></a><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><circle cx="373.9" cy="133.3" r="4" fill="#3465a4"><title>Mullikin</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="404.4" cy="170.3" r="4" fill="#3465a4"><title>Nolan</title></circle></a><a href="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/"><circle cx="415.6" cy="176.5" r="4" fill="#3465a4"><title>Nolan Family, John J</title></circle></a><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="382.9" cy="158.4" r="4" fill="#3465a4"><title>Abadia Da Cova</title></circle></a><circle cx="475.8" cy="125.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

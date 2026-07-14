@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Glen"
   url: "/clan/glen/"
+aliases:
+- "/setts/n3db1n11w1k5t14ly3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbwkby/">BBBWKBY</a></nav>
 A tartan of [Clan Glen](/clan/glen/).
 Its design is pattern [BBBWKBY](/stripes/bbbwkby/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Glen Lyon** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n3db1n11w1k5t14ly3/">Glen Lyon</a></td><td><code>LY/12 T56 K20 W4 N44 DB4 N/12</code></td><td>280</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n3db1n11w1k5t14ly3/"><img src="/variants/s7/n3db1n11w1k5t14ly3~x4/sett.png" alt="Glen Lyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n3db1n11w1k5t14ly3~x4/">Glen Lyon</a></td><td><code>N/12 DB4 N44 W4 K20 T56 LY/12</code></td><td>280</td><td>1984</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n3db1n11w1k5t14ly3~x4/"><img src="/variants/s7/n3db1n11w1k5t14ly3~x4/sett.png" alt="Glen Lyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db20r2g9w6y4k2g8~x2/"><circle cx="126.2" cy="172.4" r="4" fill="#3465a4"><title>Crofters</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="165.0" cy="169.1" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><circle cx="132.6" cy="140.5" r="4" fill="#3465a4"><title>FWI of Ontario</title></circle></a><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><circle cx="198.0" cy="173.4" r="4" fill="#3465a4"><title>Bailies of Bennachie</title></circle></a><a href="/variants/s8/k16w6k4b64m19k8g42y6/"><circle cx="137.5" cy="130.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="169.0" cy="139.1" r="4" fill="#3465a4"><title>Dignan Corporate School</title></circle></a><a href="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/"><circle cx="179.4" cy="161.7" r="4" fill="#3465a4"><title>Allman-Jones</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="122.1" cy="158.7" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="151.2" cy="138.4" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/variants/s7/g20dg14db9y2db9k1w2~x4/"><circle cx="173.0" cy="168.0" r="4" fill="#3465a4"><title>Hughes</title></circle></a><circle cx="164.8" cy="167.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/db20r2g9w6y4k2g8~x2/"><circle cx="126.4" cy="172.1" r="4" fill="#3465a4"><title>Crofters</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="165.3" cy="168.9" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><circle cx="133.0" cy="140.2" r="4" fill="#3465a4"><title>FWI of Ontario</title></circle></a><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><circle cx="198.4" cy="173.2" r="4" fill="#3465a4"><title>Bailies of Bennachie</title></circle></a><a href="/variants/s8/k16w6k4b64m19k8g42y6/"><circle cx="137.9" cy="130.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="169.4" cy="138.8" r="4" fill="#3465a4"><title>Dignan Corporate School</title></circle></a><a href="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/"><circle cx="179.7" cy="161.5" r="4" fill="#3465a4"><title>Allman-Jones</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="122.3" cy="158.4" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="151.6" cy="138.1" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/variants/s7/g20dg14db9y2db9k1w2~x4/"><circle cx="173.3" cy="167.8" r="4" fill="#3465a4"><title>Hughes</title></circle></a><circle cx="165.1" cy="167.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

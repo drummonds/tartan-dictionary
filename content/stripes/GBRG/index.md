@@ -28,13 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/g53r13db2y22~x2/">Englehart Commemorative Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g53r13db2y22~x2/"><img src="/variants/s4/g53r13db2y22~x2/sett.png" alt="Englehart Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/g27r9b2y14~x4/">Englehart, City of</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/g27r9b2y14~x4/"><img src="/variants/s4/g27r9b2y14~x4/sett.png" alt="Englehart, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-englehart/">City of Englehart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-englehart/"><img src="/variants/s4/g27r9b2y14~x4/sett.png" alt="City of Englehart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/en/englehart/">Englehart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/en/englehart/"><img src="/variants/s4/g53r13db2y22~x2/sett.png" alt="Englehart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/dg1dr10r10dg1~x6/">Stirling of Keir (Clan)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dg1dr10r10dg1~x6/"><img src="/variants/s4/dg1dr10r10dg1~x6/sett.png" alt="Stirling of Keir (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/st/stirling-of-keir/">Stirling of Keir</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stirling-of-keir/"><img src="/variants/s4/dg1dr10r10dg1~x6/sett.png" alt="Stirling of Keir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

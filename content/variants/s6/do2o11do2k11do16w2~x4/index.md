@@ -8,10 +8,10 @@ crumbs:
 - name: "Portrait, The"
   url: "/tartans/p/po/portrait-the/"
 - name: "Portrait, The"
-  url: "/setts/do2o11do2k11do16w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/do2o11do2k11do16w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/po/portrait-the/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKBW](/stripes/brbkbw/).
 
 Part of the [Portrait, The](/tartans/p/po/portrait-the/) tartan — the named design grouping this sett with its other cloths.

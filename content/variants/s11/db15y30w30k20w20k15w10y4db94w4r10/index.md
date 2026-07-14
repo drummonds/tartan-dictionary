@@ -8,10 +8,10 @@ crumbs:
 - name: "Ar Lenn Vor"
   url: "/tartans/a/ar/ar-lenn-vor/"
 - name: "Ar Lenn Vor"
-  url: "/setts/db15y30w30k20w20k15w10y4db94w4r10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db15y30w30k20w20k15w10y4db94w4r10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/ar/ar-lenn-vor/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWKWKWGBWR](/stripes/bgwkwkwgbwr/).
 
 Part of the [Ar Lenn Vor](/tartans/a/ar/ar-lenn-vor/) tartan — the named design grouping this sett with its other cloths.

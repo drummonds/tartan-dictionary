@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/">Black Hills</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/"><img src="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/sett.png" alt="Black Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/black-hills/">Black Hills</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/black-hills/"><img src="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/sett.png" alt="Black Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

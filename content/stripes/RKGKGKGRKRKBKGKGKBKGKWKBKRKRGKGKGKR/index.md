@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s35/r2k6g2k2g14k1y1r1k1r1k3t9k1y2k1g11k1t2k1g11k1w2k1t9k1r1k1r1y1k1g14k2g2k6r2~x2/">Unidentified (R.J.Forsyth)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s35/r2k6g2k2g14k1y1r1k1r1k3t9k1y2k1g11k1t2k1g11k1w2k1t9k1r1k1r1y1k1g14k2g2k6r2~x2/"><img src="/variants/s35/r2k6g2k2g14k1y1r1k1r1k3t9k1y2k1g11k1t2k1g11k1w2k1t9k1r1k1r1y1k1g14k2g2k6r2~x2/sett.png" alt="Unidentified (R.J.Forsyth) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s35/r8k31g8k8g56k3y3r3k3r3k12db36k3y8k3g44k2db6k2g44k3w8k3db36k12r3k3r3y3k3g56k8g8k31r8~x2/">Unidentified Plaid 14</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s35/r8k31g8k8g56k3y3r3k3r3k12db36k3y8k3g44k2db6k2g44k3w8k3db36k12r3k3r3y3k3g56k8g8k31r8~x2/"><img src="/variants/s35/r8k31g8k8g56k3y3r3k3r3k12db36k3y8k3g44k2db6k2g44k3w8k3db36k12r3k3r3y3k3g56k8g8k31r8~x2/sett.png" alt="Unidentified Plaid 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-10/">Unidentified</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-10/"><img src="/variants/s35/r2k6g2k2g14k1y1r1k1r1k3t9k1y2k1g11k1t2k1g11k1w2k1t9k1r1k1r1y1k1g14k2g2k6r2~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-plaid-14/">Unidentified Plaid 14</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-plaid-14/"><img src="/variants/s35/r8k31g8k8g56k3y3r3k3r3k12db36k3y8k3g44k2db6k2g44k3w8k3db36k12r3k3r3y3k3g56k8g8k31r8~x2/sett.png" alt="Unidentified Plaid 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

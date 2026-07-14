@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dp5lb2k30n26y2n2db4~x2/">Milne-Murtagh (2009)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp5lb2k30n26y2n2db4~x2/"><img src="/variants/s7/dp5lb2k30n26y2n2db4~x2/sett.png" alt="Milne-Murtagh (2009) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/milne-murtagh/">Milne-Murtagh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/milne-murtagh/"><img src="/variants/s7/dp5lb2k30n26y2n2db4~x2/sett.png" alt="Milne-Murtagh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

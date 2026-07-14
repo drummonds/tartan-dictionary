@@ -10,10 +10,10 @@ crumbs:
 - name: "Connaught Ancestry"
   url: "/tartans/c/co/connaught-ancestry/"
 - name: "Connaught Ancestry"
-  url: "/setts/db4n21db8k4db4y4db9n9db38k1w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4n21db8k4db4y4db9n9db38k1w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/co/connaught-ancestry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBGBBBKW](/stripes/bbbkbgbbbkw/).
 
 Part of the [Connaught Ancestry](/tartans/c/co/connaught-ancestry/) tartan — the named design grouping this sett with its other cloths.

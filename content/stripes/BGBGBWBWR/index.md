@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dp1g1db2y1db16lb16db1w2r1~x4/">Eastern States Exposition-West Springfield</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp1g1db2y1db16lb16db1w2r1~x4/"><img src="/variants/s9/dp1g1db2y1db16lb16db1w2r1~x4/sett.png" alt="Eastern States Exposition-West Springfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ea/eastern-states-exposition-west-springfield/">Eastern States Exposition-West Springfield</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ea/eastern-states-exposition-west-springfield/"><img src="/variants/s9/dp1g1db2y1db16lb16db1w2r1~x4/sett.png" alt="Eastern States Exposition-West Springfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

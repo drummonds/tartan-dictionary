@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r15dr98db72lb25db8w15/">Afternoon Tea / Assam</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r15dr98db72lb25db8w15/"><img src="/variants/s6/r15dr98db72lb25db8w15/sett.png" alt="Afternoon Tea / Assam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/af/afternoon-tea-assam-2/">Afternoon Tea / Assam</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/af/afternoon-tea-assam-2/"><img src="/variants/s6/r15dr98db72lb25db8w15/sett.png" alt="Afternoon Tea / Assam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

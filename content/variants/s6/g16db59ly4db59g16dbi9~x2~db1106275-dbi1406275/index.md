@@ -8,10 +8,10 @@ crumbs:
 - name: "Oxford University"
   url: "/tartans/o/ox/oxford-university/"
 - name: "Oxford University"
-  url: "/setts/g16db59ly4db59g16dbi9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16db59ly4db59g16dbi9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/o/ox/oxford-university/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBYBG](/stripes/bgbybg/).
 
 Part of the [Oxford University](/tartans/o/ox/oxford-university/) tartan — the named design grouping this sett with its other cloths.

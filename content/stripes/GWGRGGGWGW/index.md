@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/">Holmston Primary (School)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/"><img src="/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/sett.png" alt="Holmston Primary (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/holmston-primary/">Holmston Primary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/holmston-primary/"><img src="/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/sett.png" alt="Holmston Primary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

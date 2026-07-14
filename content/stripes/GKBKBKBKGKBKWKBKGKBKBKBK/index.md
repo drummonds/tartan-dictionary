@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/">Davies of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/"><img src="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/sett.png" alt="Davies of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/da/davies-of-wales/">Davies of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/da/davies-of-wales/"><img src="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/sett.png" alt="Davies of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

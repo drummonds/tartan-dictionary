@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/">Oriel #1 (District)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/"><img src="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/sett.png" alt="Oriel #1 (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/or/oriel/">Oriel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/or/oriel/"><img src="/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/sett.png" alt="Oriel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

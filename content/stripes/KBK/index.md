@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/k4dt1k3~x10/">Ben Dubh (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k4dt1k3~x10/"><img src="/variants/s3/k4dt1k3~x10/sett.png" alt="Ben Dubh (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/k80dr1k60~x2/">Bodog</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/k80dr1k60~x2/"><img src="/variants/s3/k80dr1k60~x2/sett.png" alt="Bodog sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/be/ben-dubh-2/">Ben Dubh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/be/ben-dubh-2/"><img src="/variants/s3/k4dt1k3~x10/sett.png" alt="Ben Dubh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bodog/">Bodog</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bodog/"><img src="/variants/s3/k80dr1k60~x2/sett.png" alt="Bodog sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

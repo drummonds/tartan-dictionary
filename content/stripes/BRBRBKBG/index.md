@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg8db5k1db17r10db2r10n2~x2/">Harrower, John Anthony (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg8db5k1db17r10db2r10n2~x2/"><img src="/variants/s8/dg8db5k1db17r10db2r10n2~x2/sett.png" alt="Harrower, John Anthony (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ha/harrower-john-anthony/">Harrower, John Anthony</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/harrower-john-anthony/"><img src="/variants/s8/dg8db5k1db17r10db2r10n2~x2/sett.png" alt="Harrower, John Anthony sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/">Alamudi (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/"><img src="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/sett.png" alt="Alamudi (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/al/alamudi/">Alamudi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/alamudi/"><img src="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/sett.png" alt="Alamudi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

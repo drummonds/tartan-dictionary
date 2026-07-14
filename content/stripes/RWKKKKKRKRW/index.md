@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r44lb3k22r5k2r3w2~x2/">Hilton Champion Corporate Golf Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r44lb3k22r5k2r3w2~x2/"><img src="/variants/s7/r44lb3k22r5k2r3w2~x2/sett.png" alt="Hilton Champion Corporate Golf Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hilton-champion-corporate-golf/">Hilton Champion Corporate Golf</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hilton-champion-corporate-golf/"><img src="/variants/s7/r44lb3k22r5k2r3w2~x2/sett.png" alt="Hilton Champion Corporate Golf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

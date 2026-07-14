@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/">Sreijsener (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/"><img src="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/sett.png" alt="Sreijsener (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sr/sreijsener/">Sreijsener</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sr/sreijsener/"><img src="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/sett.png" alt="Sreijsener sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

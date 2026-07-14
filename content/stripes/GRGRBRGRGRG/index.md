@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/">MacDonald of Vallay (Uist) (?)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/"><img src="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/sett.png" alt="MacDonald of Vallay (Uist) (?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/">MacDonell of Glengarry #4</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><img src="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/sett.png" alt="MacDonell of Glengarry #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonald-of-vallay/">MacDonald of Vallay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-vallay/"><img src="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/sett.png" alt="MacDonald of Vallay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdonell-of-glengarry-3/">MacDonell of Glengarry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonell-of-glengarry-3/"><img src="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/sett.png" alt="MacDonell of Glengarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

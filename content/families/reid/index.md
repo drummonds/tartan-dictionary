@@ -17,7 +17,7 @@ A family of [Clan Reid](/clan/reid/).
 <thead><tr><th>Tartan</th><th>Date</th><th>Setts</th><th>Variants</th><th>ΔTartan</th></tr></thead>
 <tbody>
 <tr><td><a href="/tartans/r/re/reid-4/">Reid</a> ★</td><td>1991</td><td>1</td><td>2</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/re/reid-4/"><img src="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/sett.png" alt="Reid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/re/reid-4/"><img src="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/sett.png" alt="Reid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/re/reid-3/">Reid</a></td><td>~1991</td><td>1</td><td>1</td><td>7.06</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/re/reid-3/"><img src="dr3g3dr18g6dr4db3lb3db18dr6g18lb3g3dr3db4dr18g3dr3-rev.png" alt="Reid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/re/reid/">Reid</a></td><td>2003</td><td>1</td><td>1</td><td>—</td></tr>

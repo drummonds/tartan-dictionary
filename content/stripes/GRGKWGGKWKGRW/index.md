@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/">Campagna Center (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/"><img src="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/sett.png" alt="Campagna Center (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/campagna-center/">Campagna Center</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/campagna-center/"><img src="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/sett.png" alt="Campagna Center sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

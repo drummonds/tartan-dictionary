@@ -12,10 +12,10 @@ crumbs:
 - name: "MacCorquodale"
   url: "/tartans/m/ma/maccorquodale/"
 - name: "MacCorquodale"
-  url: "/setts/r7k4t28k24ti24k4t4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r7k4t28k24ti24k4t4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maccorquodale/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKR](/stripes/bkbkbkr/).
 
 Part of the [MacCorquodale](/tartans/m/ma/maccorquodale/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2326](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1981 — MacCorquodale (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2326">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Sample donated to the Scottish Tartans Society by Kinloch Anderson in 1981.</em></li>
-<li>1981 — MacCorquodale (Clan?) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=283">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Sample in the Tartans Society collection given to them in 1981 by Kinloch Anderson of Edinburgh. Reference also states that this is in or from the Dalgliesh Collection. Not known which is correct sett, this version or 3335. See also 2079 which is the Argyll District version and which has the black guards on the red. Sample in STA Dalgety Collection.</em></li>
+<li>1981 — MacCorquodale (Clan?) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/283/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Sample in the Tartans Society collection given to them in 1981 by Kinloch Anderson of Edinburgh. Reference also states that this is in or from the Dalgliesh Collection. Not known which is correct sett, this version or 3335. See also 2079 which is the Argyll District version and which has the black guards on the red. Sample in STA Dalgety Collection.</em></li>
 </ul>
 </details>
 

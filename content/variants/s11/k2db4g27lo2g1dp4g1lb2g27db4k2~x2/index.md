@@ -8,10 +8,10 @@ crumbs:
 - name: "Chapman-Smith, M & L"
   url: "/tartans/c/ch/chapman-smith-m-l/"
 - name: "Chapman-Smith, M & L (Personal)"
-  url: "/setts/k2db4g27lo2g1dp4g1lb2g27db4k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k2db4g27lo2g1dp4g1lb2g27db4k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ch/chapman-smith-m-l/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGWGBGYGBK](/stripes/kbgwgbgygbk/).
 
 Part of the [Chapman-Smith, M & L](/tartans/c/ch/chapman-smith-m-l/) tartan — the named design grouping this sett with its other cloths.

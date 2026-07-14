@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/g40db8g8o8dt5o13k9g40r4~db1906256-dt1603265/">Vorwerk, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g40db8g8o8dt5o13k9g40r4~db1906256-dt1603265/"><img src="/variants/s9/g40db8g8o8dt5o13k9g40r4~db1906256-dt1603265/sett.png" alt="Vorwerk, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/v/vo/vorwerk-the/">Vorwerk, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vo/vorwerk-the/"><img src="/variants/s9/g40db8g8o8dt5o13k9g40r4~db1906256-dt1603265/sett.png" alt="Vorwerk, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

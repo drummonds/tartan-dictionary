@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/">Mens Bigi</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><img src="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/sett.png" alt="Mens Bigi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/mens-bigi/">Mens Bigi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/mens-bigi/"><img src="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/sett.png" alt="Mens Bigi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

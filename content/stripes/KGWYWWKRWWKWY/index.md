@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2~x2/">Mazarian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2~x2/"><img src="/variants/s13/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2~x2/sett.png" alt="Mazarian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mazarian/">Mazarian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mazarian/"><img src="/variants/s13/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2~x2/sett.png" alt="Mazarian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

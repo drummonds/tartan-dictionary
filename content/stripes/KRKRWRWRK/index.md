@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/k18r2k2r5w2r2w2r2k2/">Tweedside Red</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/k18r2k2r5w2r2w2r2k2/"><img src="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/sett.png" alt="Tweedside Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/tw/tweedside/">Tweedside</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/tw/tweedside/"><img src="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/sett.png" alt="Tweedside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

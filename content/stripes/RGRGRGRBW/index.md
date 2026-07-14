@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r5g20r5g3r4g5r36do2w4/">Baluch Regiment (Military)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r5g20r5g3r4g5r36do2w4/"><img src="/variants/s9/r5g20r5g3r4g5r36do2w4~x2/sett.png" alt="Baluch Regiment (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/baluch-regiment/">Baluch Regiment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/baluch-regiment/"><img src="/variants/s9/r5g20r5g3r4g5r36do2w4~x2/sett.png" alt="Baluch Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

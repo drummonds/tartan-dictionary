@@ -12,10 +12,10 @@ crumbs:
 - name: "MacNab of Arthurston"
   url: "/tartans/m/ma/macnab-of-arthurston/"
 - name: "MacNab of Arthurston"
-  url: "/setts/dg1r1dg6r6ri6r1ri6r6dg1r1dg1r1dg6r1dg1r1dg1r6ri6r1ri6r6dg6r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg1r1dg6r6ri6r1ri6r6dg1r1dg1r1dg6r1dg1r1dg1r6ri6r1ri6r6dg6r1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macnab-of-arthurston/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRRRRRGRGRGRGRGRRRRRGR](/stripes/grgrrrrrgrgrgrgrgrrrrrgr/).
 
 Part of the [MacNab of Arthurston](/tartans/m/ma/macnab-of-arthurston/) tartan — the named design grouping this sett with its other cloths.

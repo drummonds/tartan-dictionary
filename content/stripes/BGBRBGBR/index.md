@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/">Jardine of Castlemilk Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/"><img src="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/sett.png" alt="Jardine of Castlemilk Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/ja/jardine-of-castlemilk/">Jardine of Castlemilk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/ja/jardine-of-castlemilk/"><img src="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/sett.png" alt="Jardine of Castlemilk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

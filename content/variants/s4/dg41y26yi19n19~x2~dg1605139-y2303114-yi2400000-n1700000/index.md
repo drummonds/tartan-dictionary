@@ -8,10 +8,10 @@ crumbs:
 - name: "Green Alaskan"
   url: "/tartans/g/gr/green-alaskan/"
 - name: "Green Alaskan"
-  url: "/setts/dg41y26yi19n19/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg41y26yi19n19/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/green-alaskan/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGG](/stripes/bggg/).
 
 Part of the [Green Alaskan](/tartans/g/gr/green-alaskan/) tartan — the named design grouping this sett with its other cloths.

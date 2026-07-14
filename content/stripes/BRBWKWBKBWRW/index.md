@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/">Balmoral Variant (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><img src="/variants/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/sett.png" alt="Balmoral Variant (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/balmoral-variant/">Balmoral Variant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/balmoral-variant/"><img src="/variants/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/sett.png" alt="Balmoral Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

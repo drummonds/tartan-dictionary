@@ -8,15 +8,15 @@ crumbs:
 - name: "Unidentified Cant"
   url: "/tartans/u/un/unidentified-cant-7/"
 - name: "Unidentified Cant #13"
-  url: "/setts/r44o4db16r4o6db8o6r6db2r4db2r4db2r6w1g24lb6w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r44o4db16r4o6db8o6r6db2r4db2r4db2r6w1g24lb6w1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [RBRRBRRBRBRBRWGWWWGWRBRBRBRRBRRBRR](/stripes/rbrrbrrbrbrbrwgwwwgwrbrbrbrrbrrbrr/).
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-cant-7/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [RRBRRBRRBRBRBRWGWW](/stripes/rrbrrbrrbrbrbrwgww/).
 
 Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant-7/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4906](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4906)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3958
 
 ## Thread count
-R/44 O4 DB16 R4 O6 DB8 O6 R6 DB2 R4 DB2 R4 DB2 R6 W1 G24 LB6 W1 LB6 G24 W1 R6 DB2 R4 DB2 R4 DB2 R6 O6 DB8 O6 R4 DB16 O/4
+R/44 O4 DB16 R4 O6 DB8 O6 R6 DB2 R4 DB2 R4 DB2 R6 W1 G24 LB6 W/1
 
-One full sett is **446 threads**.
+One full sett is **247 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/44 O4 DB16 R4 O6 DB8 O6 R6 DB2 R4 DB2 R4 DB2 R6 W1 G24 LB6 W1 LB6 G24 W1 R6 DB2 R4 DB2 R4 DB2 R6 O6 DB8 O6 R4 DB16 O/4 — 446 threads; it folds to the canonical 247-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **446 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/44 O4 DB16 R4 O6 DB8 O6 R6 DB2 R4 DB2 R4 DB2 R6 W1 G24 LB6 W1 LB6 G24 W1 R6 DB2 R4 DB2 R4 DB2 R6 O6 DB8 O6 R4 DB16 O/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/44 O4 DB16 R4 O6 DB8 O6 R6 DB2 R4 DB2 R4 DB2 R6 W1 G24 LB6 W/1 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

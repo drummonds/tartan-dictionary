@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r108g3r2db2r2y2n5w2r6w6~x2/">Swiss Country</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r108g3r2db2r2y2n5w2r6w6~x2/"><img src="/variants/s10/r108g3r2db2r2y2n5w2r6w6~x2/sett.png" alt="Swiss Country sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sw/swiss-country/">Swiss Country</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sw/swiss-country/"><img src="/variants/s10/r108g3r2db2r2y2n5w2r6w6~x2/sett.png" alt="Swiss Country sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

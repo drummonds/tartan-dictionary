@@ -12,10 +12,10 @@ crumbs:
 - name: "Mack of Stoneywood Dress"
   url: "/tartans/m/ma/mack-of-stoneywood-dress/"
 - name: "Mack of Stoneywood Dress (Personal)"
-  url: "/setts/db80dr1db2dr1db6dr10db1dr7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db80dr1db2dr1db6dr10db1dr7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/mack-of-stoneywood-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBB](/stripes/bbbbbbbb/).
 
 Part of the [Mack of Stoneywood Dress](/tartans/m/ma/mack-of-stoneywood-dress/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10795](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>24/01/2008 — Mack of Stoneywood Dress (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10795">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E3170D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #E3170D"></span><br><em>This sett embodies two elements from tartans associated with Charles Mack of Stoneywood, Baron of Stoneywood, Fraser and Hume. Fraser are connected with the area of Stoneywood near Aberdeen (Grampian) and Hume is a Borders Clan with connections to the Mack going back as early as 10th Century.</em></li>
-<li>Feb 2008 — Mack of Stoneywood Dress (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10795">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>This sett embodies two elements from tartans associated with Charles Mack of Stoneywood, Baron of Stoneywood, Fraser and Hume. Fraser are connected with the area of Stoneywood near Aberdeen (Grampian) and Hume is a Borders Clan with connections to the Mack going back as early as 10th Century. Designed for his personal use but others of the name and/or the area of the Barony will no doubt be given permission to wear it.</em></li>
+<li>Feb 2008 — Mack of Stoneywood Dress (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10795/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>This sett embodies two elements from tartans associated with Charles Mack of Stoneywood, Baron of Stoneywood, Fraser and Hume. Fraser are connected with the area of Stoneywood near Aberdeen (Grampian) and Hume is a Borders Clan with connections to the Mack going back as early as 10th Century. Designed for his personal use but others of the name and/or the area of the Barony will no doubt be given permission to wear it.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k18wi3k18g18t18k2w4k2t18g18k18wi3k18r3~x2~wi3703114-t2503227-w3600000/">Hislop/Hyslop Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k18wi3k18g18t18k2w4k2t18g18k18wi3k18r3~x2~wi3703114-t2503227-w3600000/"><img src="/variants/s14/k18wi3k18g18t18k2w4k2t18g18k18wi3k18r3~x2~wi3703114-t2503227-w3600000/sett.png" alt="Hislop/Hyslop Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hi/hislop-hyslop-hunting/">Hislop/Hyslop Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/hislop-hyslop-hunting/"><img src="/variants/s14/k18wi3k18g18t18k2w4k2t18g18k18wi3k18r3~x2~wi3703114-t2503227-w3600000/sett.png" alt="Hislop/Hyslop Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

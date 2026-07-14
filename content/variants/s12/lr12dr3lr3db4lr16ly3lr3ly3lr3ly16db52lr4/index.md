@@ -8,10 +8,10 @@ crumbs:
 - name: "Carsaig"
   url: "/tartans/c/ca/carsaig/"
 - name: "Carsaig"
-  url: "/setts/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/carsaig/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBYBYYYYYYBY](/stripes/ybybyyyyyyby/).
 
 Part of the [Carsaig](/tartans/c/ca/carsaig/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=579](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1984 — Carsaig (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=579">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#ACACAC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #ACACAC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DDB #000048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><br><em>Swatch in Scottish Tartans Authority's Johnston Collection. Shades poor.</em></li>
-<li>1984 — Carsaig (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4472">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#ACACAC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #ACACAC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DDB #000048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><br><em>Swatch in STA's Johnston Collection. Shades poor.</em></li>
+<li>1984 — Carsaig (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4472/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#ACACAC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SW #ACACAC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000048;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DDB #000048"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B07430;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #B07430"></span><br><em>Swatch in STA's Johnston Collection. Shades poor.</em></li>
 </ul>
 </details>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/y32k21r16lr6dt4/">Scottish American Athletic Assoc</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y32k21r16lr6dt4/"><img src="/variants/s5/y32k21r16lr6dt4~x2~r1706028/sett.png" alt="Scottish American Athletic Assoc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sc/scottish-american-athletic-assoc-co/">Scottish American Athletic Assoc (Co</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scottish-american-athletic-assoc-co/"><img src="/variants/s5/y32k21r16lr6dt4~x2~r1706028/sett.png" alt="Scottish American Athletic Assoc (Co sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

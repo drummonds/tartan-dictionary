@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2/">Prince David</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2/"><img src="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/sett.png" alt="Prince David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/prince-david-royal/">Prince David Royal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-david-royal/"><img src="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/sett.png" alt="Prince David Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/db18r3k9r3g23y3~x2/">Royal College of Physicians (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db18r3k9r3g23y3~x2/"><img src="/variants/s6/db18r3k9r3g23y3~x2/sett.png" alt="Royal College of Physicians (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db28r4k14r4dg33y4~x2/">Royal College of Physicians of Edinburgh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><img src="/variants/s6/db28r4k14r4dg33y4~x2/sett.png" alt="Royal College of Physicians of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-college-of-physicians/">Royal College of Physicians</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-college-of-physicians/"><img src="/variants/s6/db18r3k9r3g23y3~x2/sett.png" alt="Royal College of Physicians sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ro/royal-college-of-physicians-of-edinburgh/">Royal College of Physicians of Edinburgh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/royal-college-of-physicians-of-edinburgh/"><img src="/variants/s6/db28r4k14r4dg33y4~x2/sett.png" alt="Royal College of Physicians of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

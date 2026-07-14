@@ -8,10 +8,10 @@ crumbs:
 - name: "Ryutokukan Junior High School"
   url: "/tartans/r/ry/ryutokukan-junior-high-school/"
 - name: "Ryutokukan Junior High School"
-  url: "/setts/r6dg13k5r20w3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r6dg13k5r20w3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/ry/ryutokukan-junior-high-school/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKRW](/stripes/rgkrw/).
 
 Part of the [Ryutokukan Junior High School](/tartans/r/ry/ryutokukan-junior-high-school/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/">Clackson Hunting (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/"><img src="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/sett.png" alt="Clackson Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clackson-hunting/">Clackson Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clackson-hunting/"><img src="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/sett.png" alt="Clackson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

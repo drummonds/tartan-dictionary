@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r3k1lb10k1g2k1db8g12k1y3~x2/">Sullivan (Estimated threadcount)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r3k1lb10k1g2k1db8g12k1y3~x2/"><img src="/variants/s10/r3k1lb10k1g2k1db8g12k1y3~x2/sett.png" alt="Sullivan (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/sullivan/">Sullivan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/sullivan/"><img src="/variants/s10/r3k1lb10k1g2k1db8g12k1y3~x2/sett.png" alt="Sullivan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

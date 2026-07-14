@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k2g12k12r1db12g2~x2/">Ferguson of Balquhidder</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k2g12k12r1db12g2~x2/"><img src="/variants/s6/k2g12k12r1db12g2~x2/sett.png" alt="Ferguson of Balquhidder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k4g25k24r3db24g4~x2/">Ferguson of Balquhidder #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4g25k24r3db24g4~x2/"><img src="/variants/s6/k4g25k24r3db24g4~x2/sett.png" alt="Ferguson of Balquhidder #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-5/">Ferguson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-5/"><img src="/variants/s6/k4g25k24r3db24g4~x2/sett.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferguson-of-balquhidder/">Ferguson of Balquhidder</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferguson-of-balquhidder/"><img src="/variants/s6/k2g12k12r1db12g2~x2/sett.png" alt="Ferguson of Balquhidder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

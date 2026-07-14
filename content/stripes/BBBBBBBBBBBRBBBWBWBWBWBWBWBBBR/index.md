@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s30/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1~x2/">Edinburgh, '86 Border</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s30/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1~x2/"><img src="/variants/s30/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1~x2/sett.png" alt="Edinburgh, '86 Border sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/ed/edinburgh-86-border/">Edinburgh, '86 Border</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/ed/edinburgh-86-border/"><img src="/variants/s30/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1~x2/sett.png" alt="Edinburgh, '86 Border sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

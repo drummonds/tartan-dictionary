@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg5r9dg10w2dg2ly2dg10r9dg5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/grgwgygrg/">GRGWGYGRG</a></nav>
 Its design is pattern [GRGWGYGRG](/stripes/grgwgygrg/) — the page of every tartan sharing this colour sequence.
 
 The **Norwich No.077** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Norwich No.077** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg5r9dg10w2dg2ly2dg10r9dg5/">Norwich No.077</a></td><td><code>DG/10 R18 DG20 LY4 DG4 W4 DG20 R18 DG/10</code></td><td>196</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg5r9dg10w2dg2ly2dg10r9dg5/"><img src="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/sett.png" alt="Norwich No.077 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/">Norwich No.077</a></td><td><code>DG/10 R18 DG20 W4 DG4 LY4 DG20 R18 DG/10</code></td><td>196</td><td>1870</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/"><img src="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/sett.png" alt="Norwich No.077 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g5r9g10y2g2w2g10r9g5~x2/"><circle cx="300.7" cy="262.1" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/variants/s9/g2r3g4y1g1w1g4r3g2~x2/"><circle cx="296.8" cy="278.6" r="4" fill="#3465a4"><title>Unnamed 7</title></circle></a><a href="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/"><circle cx="233.5" cy="189.9" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="355.7" cy="247.0" r="4" fill="#3465a4"><title>Leeds University</title></circle></a><a href="/variants/s7/r6g1r6db1g3k3g3~x4/"><circle cx="209.0" cy="219.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/"><circle cx="267.5" cy="241.8" r="4" fill="#3465a4"><title>Lumsden Boghead</title></circle></a><a href="/variants/s9/db5r19k2g8r3g18k2g9k2~x2/"><circle cx="234.5" cy="176.7" r="4" fill="#3465a4"><title>Hubbard</title></circle></a><a href="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/"><circle cx="235.0" cy="235.5" r="4" fill="#3465a4"><title>Hall</title></circle></a><a href="/variants/s6/db1o5db1o5db2w1~x4/"><circle cx="369.7" cy="252.0" r="4" fill="#3465a4"><title>Tokharian</title></circle></a><a href="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/"><circle cx="307.1" cy="199.5" r="4" fill="#3465a4"><title>Peacock, Grahame</title></circle></a><circle cx="275.5" cy="240.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/g5r9g10y2g2w2g10r9g5~x2/"><circle cx="301.0" cy="262.2" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/variants/s9/g2r3g4y1g1w1g4r3g2~x2/"><circle cx="297.1" cy="278.7" r="4" fill="#3465a4"><title>Unnamed 7</title></circle></a><a href="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/"><circle cx="233.9" cy="189.8" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="356.2" cy="247.2" r="4" fill="#3465a4"><title>Leeds University</title></circle></a><a href="/variants/s7/r6g1r6db1g3k3g3~x4/"><circle cx="209.5" cy="219.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/"><circle cx="267.9" cy="241.8" r="4" fill="#3465a4"><title>Lumsden Boghead</title></circle></a><a href="/variants/s9/db5r19k2g8r3g18k2g9k2~x2/"><circle cx="235.1" cy="176.7" r="4" fill="#3465a4"><title>Hubbard</title></circle></a><a href="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/"><circle cx="235.2" cy="235.5" r="4" fill="#3465a4"><title>Hall</title></circle></a><a href="/variants/s6/db1o5db1o5db2w1~x4/"><circle cx="370.4" cy="252.1" r="4" fill="#3465a4"><title>Tokharian</title></circle></a><a href="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/"><circle cx="307.7" cy="199.5" r="4" fill="#3465a4"><title>Peacock, Grahame</title></circle></a><circle cx="276.0" cy="240.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

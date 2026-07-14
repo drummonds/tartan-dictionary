@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/">Blanton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/"><img src="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/sett.png" alt="Blanton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bl/blanton/">Blanton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bl/blanton/"><img src="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/sett.png" alt="Blanton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/">Metropolitan Atlanta Police (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/"><img src="/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/sett.png" alt="Metropolitan Atlanta Police (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/me/metropolitan-atlanta-police/">Metropolitan Atlanta Police</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/me/metropolitan-atlanta-police/"><img src="/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/sett.png" alt="Metropolitan Atlanta Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

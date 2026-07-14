@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dr1ly1dr1ly1dg1~x8/">Ballindalloch Check</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr1ly1dr1ly1dg1~x8/"><img src="/variants/s5/dr1ly1dr1ly1dg1~x8/sett.png" alt="Ballindalloch Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/ballindalloch-check/">Ballindalloch Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/ballindalloch-check/"><img src="/variants/s5/dr1ly1dr1ly1dg1~x8/sett.png" alt="Ballindalloch Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

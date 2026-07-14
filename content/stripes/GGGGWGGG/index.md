@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dg2dy2dg15dy1w1dg15dy2dg2~x2/">Bannockbane Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dg2dy2dg15dy1w1dg15dy2dg2~x2/"><img src="/variants/s8/dg2dy2dg15dy1w1dg15dy2dg2~x2/sett.png" alt="Bannockbane Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g2dy2g15dy1w1g15dy2g2~x2/">Bannockbane Hunting Trade Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g2dy2g15dy1w1g15dy2g2~x2/"><img src="/variants/s8/g2dy2g15dy1w1g15dy2g2~x2/sett.png" alt="Bannockbane Hunting Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bannockbane-hunting-2/">Bannockbane Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bannockbane-hunting-2/"><img src="/variants/s8/dg2dy2dg15dy1w1dg15dy2dg2~x2/sett.png" alt="Bannockbane Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

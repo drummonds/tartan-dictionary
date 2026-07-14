@@ -8,10 +8,10 @@ crumbs:
 - name: "Glenurquhart"
   url: "/tartans/g/gl/glenurquhart/"
 - name: "Glenurquhart Estate Check"
-  url: "/setts/w1k2w1k2w1k2w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w1k2w1k2w1k2w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glenurquhart/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWKWKWKWKWKWKWKWKW](/stripes/wkwkwkwkwkwkwkwkwkwkw/).
 
 Part of the [Glenurquhart](/tartans/g/gl/glenurquhart/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1440](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1840 — Glenurquhart Estate Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1440">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>From E S Harrison's 1968 book 'Our Scottish District Checks' : This is one of a small list of outstanding designs that have influenced designers all over the western world in men's and women's clothing. Adopted in the 1840s by Lady Caroline Countess of Seafield for her Glen Urquhart estate. Being a handloom weaver she is sometimes credited with being the designer but it seems more probable that it was made up by Elizabeth Macdougall of Lewston, a little village at the foot of the glen.</em></li>
-<li>1840s — Glenurquhart (Estate Check) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5048">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><br><em>From E S Harrison's 1968 book "Our Scottish District Checks" : This is one of a small list of outstanding designs that have influenced desingers all over the western world in men's and women's clothing. Adopted in the 1840s by Lady Caroline Countess of Seafield for her Glen Urquhart estate. Being a handloom weaver she is sometimes credited with being the designer but it seems more probable that it was made up by Elizabeth Macdougall of Lewston, a little village at the foot of the glen.</em></li>
+<li>1840s — Glenurquhart (Estate Check) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5048/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C8C8C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C8C8C8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="KK #000000"></span><br><em>From E S Harrison's 1968 book "Our Scottish District Checks" : This is one of a small list of outstanding designs that have influenced desingers all over the western world in men's and women's clothing. Adopted in the 1840s by Lady Caroline Countess of Seafield for her Glen Urquhart estate. Being a handloom weaver she is sometimes credited with being the designer but it seems more probable that it was made up by Elizabeth Macdougall of Lewston, a little village at the foot of the glen.</em></li>
 </ul>
 </details>
 

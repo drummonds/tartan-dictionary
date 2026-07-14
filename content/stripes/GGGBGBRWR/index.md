@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/">Hogeboom (Toronto) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/"><img src="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/sett.png" alt="Hogeboom (Toronto) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hogeboom-2/">Hogeboom</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hogeboom-2/"><img src="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/sett.png" alt="Hogeboom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

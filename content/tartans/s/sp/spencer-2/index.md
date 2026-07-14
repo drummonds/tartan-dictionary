@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/spencer/"
 - name: "Spencer"
   url: "/families/spencer/"
+aliases:
+- "/setts/g55y4db15w3r3w5/"
+- "/setts/g55y4db15w3dr3w5/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggbwrw/">GGBWRW</a></nav>
 A tartan of the [Spencer](/families/spencer/) family.
 Its design is pattern [GGBWRW](/stripes/ggbwrw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Spencer** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g55y4db15w3r3w5/">Spencer</a> ★</td><td><code>G/110 Y8 DB30 W6 R6 W/10</code></td><td>220</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g55y4db15w3r3w5/"><img src="/variants/s6/g55y4db15w3r3w5~x2/sett.png" alt="Spencer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g55y4db15w3dr3w5/">(2013)</a></td><td><code>G/110 Y8 DB30 W6 DR6 W/10</code></td><td>220</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g55y4db15w3dr3w5/"><img src="/variants/s6/g55y4db15w3dr3w5~x2/sett.png" alt="(2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g55y4db15w3r3w5~x2/">Spencer</a> ★</td><td><code>G/110 Y8 DB30 W6 R6 W/10</code></td><td>220</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g55y4db15w3r3w5~x2/"><img src="/variants/s6/g55y4db15w3r3w5~x2/sett.png" alt="Spencer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g55y4db15w3dr3w5~x2/">(2013)</a></td><td><code>G/110 Y8 DB30 W6 DR6 W/10</code></td><td>220</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><img src="/variants/s6/g55y4db15w3dr3w5~x2/sett.png" alt="(2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="346.9" cy="202.3" r="4" fill="#3465a4"><title>Farooq</title></circle></a><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="359.1" cy="131.5" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="355.2" cy="171.1" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="340.7" cy="156.1" r="4" fill="#3465a4"><title>Milling-Kristensen</title></circle></a><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="357.1" cy="115.5" r="4" fill="#3465a4"><title>Military Medical Memorial</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="371.5" cy="245.2" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.2" cy="196.5" r="4" fill="#3465a4"><title>Clare, Richard</title></circle></a><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><circle cx="439.9" cy="143.7" r="4" fill="#3465a4"><title>Greenup</title></circle></a><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="392.8" cy="252.9" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="372.0" cy="131.8" r="4" fill="#3465a4"><title>Tahrir</title></circle></a><circle cx="378.8" cy="158.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="347.6" cy="202.4" r="4" fill="#3465a4"><title>Farooq</title></circle></a><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="360.1" cy="131.6" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="355.9" cy="171.2" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="341.5" cy="156.1" r="4" fill="#3465a4"><title>Milling-Kristensen</title></circle></a><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="358.2" cy="115.7" r="4" fill="#3465a4"><title>Military Medical Memorial</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="372.0" cy="245.4" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.8" cy="196.7" r="4" fill="#3465a4"><title>Clare, Richard</title></circle></a><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><circle cx="440.7" cy="143.9" r="4" fill="#3465a4"><title>Greenup</title></circle></a><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="393.3" cy="253.1" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="373.0" cy="132.0" r="4" fill="#3465a4"><title>Tahrir</title></circle></a><circle cx="379.5" cy="158.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

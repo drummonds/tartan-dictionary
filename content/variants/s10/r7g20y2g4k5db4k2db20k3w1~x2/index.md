@@ -12,10 +12,10 @@ crumbs:
 - name: "McMeeken"
   url: "/tartans/m/mc/mcmeeken/"
 - name: "McMeeken"
-  url: "/setts/r7g20y2g4k5db4k2db20k3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r7g20y2g4k5db4k2db20k3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mc/mcmeeken/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGKBKBKW](/stripes/rgggkbkbkw/).
 
 Part of the [McMeeken](/tartans/m/mc/mcmeeken/) tartan — the named design grouping this sett with its other cloths.

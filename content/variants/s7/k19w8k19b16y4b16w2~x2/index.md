@@ -8,10 +8,10 @@ crumbs:
 - name: "St. Johnstone F.C."
   url: "/tartans/s/st/st-johnstone-f-c/"
 - name: "St Johnstone F.C."
-  url: "/setts/k19w8k19b16y4b16w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k19w8k19b16y4b16w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-johnstone-f-c/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKBGBW](/stripes/kwkbgbw/).
 
 Part of the [St. Johnstone F.C.](/tartans/s/st/st-johnstone-f-c/) tartan — the named design grouping this sett with its other cloths.

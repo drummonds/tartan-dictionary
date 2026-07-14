@@ -10,10 +10,10 @@ crumbs:
 - name: "North Carolina"
   url: "/tartans/n/no/north-carolina/"
 - name: "North Carolina"
-  url: "/setts/db64r8db1w8db4b15w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db64r8db1w8db4b15w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/north-carolina/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBBW](/stripes/brbwbbw/).
 
 Part of the [North Carolina](/tartans/n/no/north-carolina/) tartan — the named design grouping this sett with its other cloths.

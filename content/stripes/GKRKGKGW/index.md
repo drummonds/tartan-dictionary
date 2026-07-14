@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/">MacAulay of Lewis</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><img src="/variants/s8/g6k16r3k16g28k4g12w3~x2/sett.png" alt="MacAulay of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macaulay-of-lewis/">MacAulay of Lewis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macaulay-of-lewis/"><img src="/variants/s8/g6k16r3k16g28k4g12w3~x2/sett.png" alt="MacAulay of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -10,10 +10,10 @@ crumbs:
 - name: "Murdoch Celebration"
   url: "/tartans/m/mu/murdoch-celebration/"
 - name: "Murdoch Celebration (Personal)"
-  url: "/setts/db30r2db2r4db9k26w2k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db30r2db2r4db9k26w2k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mu/murdoch-celebration/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBKWK](/stripes/brbrbkwk/).
 
 Part of the [Murdoch Celebration](/tartans/m/mu/murdoch-celebration/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/">O'Sullivan McCragh Family Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/"><img src="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/sett.png" alt="O'Sullivan McCragh Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/o/o-sullivan-mccragh/">O'Sullivan McCragh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/o/o-sullivan-mccragh/"><img src="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/sett.png" alt="O'Sullivan McCragh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Bootneck 350"
   url: "/tartans/b/bo/bootneck-350/"
 - name: "Bootneck 350"
-  url: "/setts/k6r4k19g4db25r5g3y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k6r4k19g4db25r5g3y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bo/bootneck-350/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRBGKRK](/stripes/ggrbgkrk/).
 
 Part of the [Bootneck 350](/tartans/b/bo/bootneck-350/) tartan — the named design grouping this sett with its other cloths.

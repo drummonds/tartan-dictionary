@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/">MacKinlay Clan Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/"><img src="/variants/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/sett.png" alt="MacKinlay Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/">Safeway</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><img src="/variants/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/sett.png" alt="Safeway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/">Safeway</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/"><img src="/variants/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/sett.png" alt="Safeway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mackinlay-2/">MacKinlay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackinlay-2/"><img src="/variants/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/sett.png" alt="MacKinlay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/safeway/">Safeway</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/safeway/"><img src="/variants/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/sett.png" alt="Safeway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

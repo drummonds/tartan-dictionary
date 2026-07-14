@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/">Pacific</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/"><img src="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/sett.png" alt="Pacific sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pa/pacific/">Pacific</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pa/pacific/"><img src="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/sett.png" alt="Pacific sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

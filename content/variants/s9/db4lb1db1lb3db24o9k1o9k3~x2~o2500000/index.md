@@ -6,17 +6,17 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Historic Scotland"
-  url: "/tartans/h/hi/historic-scotland-5/"
+  url: "/tartans/h/hi/historic-scotland/"
 - name: "Historic Scotland"
-  url: "/setts/db4lb1db1lb3db24o9k1o9k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4lb1db1lb3db24o9k1o9k3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWBRKRKRKRBWBW](/stripes/bwbwbrkrkrkrbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/h/hi/historic-scotland/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBRKRK](/stripes/bwbwbrkrk/).
 
-Part of the [Historic Scotland](/tartans/h/hi/historic-scotland-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Historic Scotland](/tartans/h/hi/historic-scotland/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1738](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1738)
 
@@ -45,9 +45,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2122
 
 ## Thread count
-DB/8 LB2 DB2 LB6 DB48 O18 K2 O18 K6 O18 K2 O18 DB48 LB6 DB2 LB/2
+DB/8 LB2 DB2 LB6 DB48 O18 K2 O18 K/6
 
-One full sett is **402 threads**.
+One full sett is **206 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/8 LB2 DB2 LB6 DB48 O18 K2 O18 K6 O18 K2 O18 DB48 LB6 DB2 LB/2 — 402 threads; it folds to the canonical 206-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **402 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 LB2 DB2 LB6 DB48 O18 K2 O18 K6 O18 K2 O18 DB48 LB6 DB2 LB/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 LB2 DB2 LB6 DB48 O18 K2 O18 K/6 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

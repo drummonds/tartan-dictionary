@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dr16g16dr8k8y3k3db3k3y3dr14w3~x2/">Mars (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dr16g16dr8k8y3k3db3k3y3dr14w3~x2/"><img src="/variants/s11/dr16g16dr8k8y3k3db3k3y3dr14w3~x2/sett.png" alt="Mars (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/mars/">Mars</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mars/"><img src="/variants/s11/dr16g16dr8k8y3k3db3k3y3dr14w3~x2/sett.png" alt="Mars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

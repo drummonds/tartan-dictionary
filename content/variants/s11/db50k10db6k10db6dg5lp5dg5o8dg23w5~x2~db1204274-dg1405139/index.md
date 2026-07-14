@@ -8,15 +8,15 @@ crumbs:
 - name: "Scottish Hockey Union"
   url: "/tartans/s/sc/scottish-hockey-union/"
 - name: "Scottish Hockey Union"
-  url: "/setts/db50k10db6k10db6dg5lp5dg5o8dg23w5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db50k10db6k10db6dg5lp5dg5o8dg23w5/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBGWGRGWGRGWGBKBK](/stripes/bkbkbgwgrgwgrgwgbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scottish-hockey-union/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BKBKBGWGRGW](/stripes/bkbkbgwgrgw/).
 
 Part of the [Scottish Hockey Union](/tartans/s/sc/scottish-hockey-union/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3724](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3724)
 
@@ -44,9 +44,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5351
 
 ## Thread count
-DB/100 K20 DB12 K20 DB12 DG10 LP10 DG10 O16 DG46 W10 DG46 O16 DG10 LP10 DG10 DB12 K20 DB12 K/20
+DT/100 K20 DT12 K20 DT12 DG10 LP10 DG10 O16 DG46 W/10
 
-One full sett is **724 threads**.
+One full sett is **422 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/100 K20 DB12 K20 DB12 DG10 LP10 DG10 O16 DG46 W10 DG46 O16 DG10 LP10 DG10 DB12 K20 DB12 K/20 — 724 threads; it folds to the canonical 422-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -55,7 +57,7 @@ One full sett is **724 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/100 K20 DB12 K20 DB12 DG10 LP10 DG10 O16 DG46 W10 DG46 O16 DG10 LP10 DG10 DB12 K20 DB12 K/20 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/100 K20 DT12 K20 DT12 DG10 LP10 DG10 O16 DG46 W/10 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

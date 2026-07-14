@@ -10,10 +10,10 @@ crumbs:
 - name: "Fermanagh County, Crest Range"
   url: "/tartans/f/fe/fermanagh-county-crest-range/"
 - name: "Fermanagh County, Crest Range"
-  url: "/setts/dr4w6k10db5k3y16k3g33k1w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr4w6k10db5k3y16k3g33k1w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/f/fe/fermanagh-county-crest-range/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBKGKGKW](/stripes/bwkbkgkgkw/).
 
 Part of the [Fermanagh County, Crest Range](/tartans/f/fe/fermanagh-county-crest-range/) tartan — the named design grouping this sett with its other cloths.

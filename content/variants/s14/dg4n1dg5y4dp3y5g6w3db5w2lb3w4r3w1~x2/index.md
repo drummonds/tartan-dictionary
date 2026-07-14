@@ -8,10 +8,10 @@ crumbs:
 - name: "Werris Creek Catholic Parish"
   url: "/tartans/w/we/werris-creek-catholic-parish-2/"
 - name: "Werris Creek Catholic Parish"
-  url: "/setts/dg4n1dg5y4dp3y5g6w3db5w2lb3w4r3w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4n1dg5y4dp3y5g6w3db5w2lb3w4r3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/werris-creek-catholic-parish-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGBGGWBWWWRW](/stripes/gbggbggwbwwwrw/).
 
 Part of the [Werris Creek Catholic Parish](/tartans/w/we/werris-creek-catholic-parish-2/) tartan — the named design grouping this sett with its other cloths.

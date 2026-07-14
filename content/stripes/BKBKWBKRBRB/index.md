@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/">Ibrox</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><img src="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/sett.png" alt="Ibrox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/ib/ibrox/">Ibrox</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/ib/ibrox/"><img src="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/sett.png" alt="Ibrox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

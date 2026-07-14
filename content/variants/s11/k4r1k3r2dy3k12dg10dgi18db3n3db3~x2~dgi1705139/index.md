@@ -8,10 +8,10 @@ crumbs:
 - name: "Blake, William & Agnes"
   url: "/tartans/b/bl/blake-william-agnes/"
 - name: "Blake, William & Agnes (Australia)"
-  url: "/setts/k4r1k3r2dy3k12dg10dgi18db3n3db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4r1k3r2dy3k12dg10dgi18db3n3db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bl/blake-william-agnes/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGGKGRKRK](/stripes/bbbggkgrkrk/).
 
 Part of the [Blake, William & Agnes](/tartans/b/bl/blake-william-agnes/) tartan — the named design grouping this sett with its other cloths.

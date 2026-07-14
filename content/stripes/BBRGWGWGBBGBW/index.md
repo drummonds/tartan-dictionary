@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/t38do4r3dy6w2dy2w2dy2do12t6dy2t6w2~x2/">Leando Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/t38do4r3dy6w2dy2w2dy2do12t6dy2t6w2~x2/"><img src="/variants/s13/t38do4r3dy6w2dy2w2dy2do12t6dy2t6w2~x2/sett.png" alt="Leando Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/le/leando-dress/">Leando Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leando-dress/"><img src="/variants/s13/t38do4r3dy6w2dy2w2dy2do12t6dy2t6w2~x2/sett.png" alt="Leando Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

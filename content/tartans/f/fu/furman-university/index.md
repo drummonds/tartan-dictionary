@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dp2w14k15dp14w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwkbw/">BWKBW</a></nav>
 Its design is pattern [BWKBW](/stripes/bwkbw/) — the page of every tartan sharing this colour sequence.
 
 The **Furman University** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Furman University** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dp2w14k15dp14w2/">Furman University</a></td><td><code>DP/4 W28 K30 DP28 W/4</code></td><td>180</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dp2w14k15dp14w2/"><img src="/variants/s5/dp2w14k15dp14w2~x2/sett.png" alt="Furman University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dp2w14k15dp14w2~x2/">Furman University</a></td><td><code>DP/4 W28 K30 DP28 W/4</code></td><td>180</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dp2w14k15dp14w2~x2/"><img src="/variants/s5/dp2w14k15dp14w2~x2/sett.png" alt="Furman University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="195.7" cy="211.3" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="176.8" cy="206.8" r="4" fill="#3465a4"><title>Grammar School at Leeds</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="181.6" cy="204.2" r="4" fill="#3465a4"><title>Inder</title></circle></a><a href="/variants/s4/k4w35dp35o4~x2/"><circle cx="210.4" cy="198.4" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="178.6" cy="199.9" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="146.5" cy="190.8" r="4" fill="#3465a4"><title>Meg Merrilees Fancy</title></circle></a><a href="/variants/s4/dp5k5g5w1~x4~dp1607327/"><circle cx="95.5" cy="273.6" r="4" fill="#3465a4"><title>Wilson's No.220</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="136.3" cy="214.7" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s5/k4w3k4n9r1~x4/"><circle cx="168.9" cy="207.6" r="4" fill="#3465a4"><title>Oban</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="145.8" cy="191.5" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><circle cx="151.8" cy="229.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="196.2" cy="211.2" r="4" fill="#3465a4"><title>Braes High School Falkirk</title></circle></a><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="177.2" cy="206.6" r="4" fill="#3465a4"><title>Grammar School at Leeds</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="182.0" cy="204.1" r="4" fill="#3465a4"><title>Inder</title></circle></a><a href="/variants/s4/k4w35dp35o4~x2/"><circle cx="210.9" cy="198.2" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="179.0" cy="199.7" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="146.9" cy="190.6" r="4" fill="#3465a4"><title>Meg Merrilees Fancy</title></circle></a><a href="/variants/s4/dp5k5g5w1~x4~dp1607327/"><circle cx="95.6" cy="273.4" r="4" fill="#3465a4"><title>Wilson's No.220</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="136.6" cy="214.4" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s5/k4w3k4n9r1~x4/"><circle cx="169.4" cy="207.5" r="4" fill="#3465a4"><title>Oban</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="146.2" cy="191.2" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><circle cx="152.2" cy="229.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

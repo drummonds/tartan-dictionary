@@ -12,10 +12,10 @@ crumbs:
 - name: "Protheroe of Wales"
   url: "/tartans/p/pr/protheroe-of-wales/"
 - name: "Protheroe of Wales"
-  url: "/setts/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/p/pr/protheroe-of-wales/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBYBGBBGBGGGBGBBGBYBG](/stripes/bgbybgbbgbgggbgbbgbybg/).
 
 Part of the [Protheroe of Wales](/tartans/p/pr/protheroe-of-wales/) tartan — the named design grouping this sett with its other cloths.

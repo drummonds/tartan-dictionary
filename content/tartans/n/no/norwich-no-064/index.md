@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db12k16g14k5g14k16db12g4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkgkgkbg/">BKGKGKBG</a></nav>
 Its design is pattern [BKGKGKBG](/stripes/bkgkgkbg/) — the page of every tartan sharing this colour sequence.
 
 The **Norwich No.064** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Norwich No.064** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db12k16g14k5g14k16db12g4/">Norwich No.064</a></td><td><code>DB/24 K32 G28 K10 G28 K32 DB24 G/8</code></td><td>340</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db12k16g14k5g14k16db12g4/"><img src="/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/sett.png" alt="Norwich No.064 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/">Norwich No.064</a></td><td><code>DB/24 K32 G28 K10 G28 K32 DB24 G/8</code></td><td>340</td><td>1870</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/"><img src="/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/sett.png" alt="Norwich No.064 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g8k7db8r2db8k7g8k2~x2/"><circle cx="82.6" cy="267.4" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/variants/s8/db18k20g20k5g20k20db18lb3~x2/"><circle cx="115.4" cy="241.3" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s7/k4g4k1g4k4db4y1~x2/"><circle cx="118.8" cy="262.8" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><circle cx="137.1" cy="269.9" r="4" fill="#3465a4"><title>Unidentified No 63</title></circle></a><a href="/variants/s12/db4k3g4k1g4k3g4k1g4k3db4k1~x2~db1406275/"><circle cx="137.6" cy="257.6" r="4" fill="#3465a4"><title>Norwich No.063</title></circle></a><a href="/variants/s7/k12g12k2g12k12db12lb3~x2/"><circle cx="126.5" cy="242.3" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="156.9" cy="282.8" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s7/k9g9y2g9k9db9k3~x2/"><circle cx="120.0" cy="256.1" r="4" fill="#3465a4"><title>Campbell Breadalbane</title></circle></a><a href="/variants/s8/k1db5k4g3k1g3k6g1~x4/"><circle cx="208.6" cy="228.2" r="4" fill="#3465a4"><title>Keith McCormick</title></circle></a><a href="/variants/s7/k9g9ly2g9k9db9k3~x2/"><circle cx="115.4" cy="254.5" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><circle cx="128.3" cy="277.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/g8k7db8r2db8k7g8k2~x2/"><circle cx="82.7" cy="267.3" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/variants/s8/db18k20g20k5g20k20db18lb3~x2/"><circle cx="115.6" cy="241.2" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s7/k4g4k1g4k4db4y1~x2/"><circle cx="119.0" cy="262.7" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><circle cx="137.3" cy="269.9" r="4" fill="#3465a4"><title>Unidentified No 63</title></circle></a><a href="/variants/s12/db4k3g4k1g4k3g4k1g4k3db4k1~x2~db1406275/"><circle cx="137.8" cy="257.5" r="4" fill="#3465a4"><title>Norwich No.063</title></circle></a><a href="/variants/s7/k12g12k2g12k12db12lb3~x2/"><circle cx="126.7" cy="242.2" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="157.2" cy="282.8" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s7/k9g9y2g9k9db9k3~x2/"><circle cx="120.2" cy="256.0" r="4" fill="#3465a4"><title>Campbell Breadalbane</title></circle></a><a href="/variants/s8/k1db5k4g3k1g3k6g1~x4/"><circle cx="209.1" cy="228.2" r="4" fill="#3465a4"><title>Keith McCormick</title></circle></a><a href="/variants/s7/k9g9ly2g9k9db9k3~x2/"><circle cx="115.6" cy="254.4" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><circle cx="128.5" cy="277.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

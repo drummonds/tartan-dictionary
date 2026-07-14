@@ -8,22 +8,22 @@ crumbs:
 - name: "Hope-Vere"
   url: "/tartans/h/ho/hope-vere-2/"
 - name: "Hope-Vere (Lochcarron)"
-  url: "/setts/g16k1lb2k1g3k5db12k1y1k3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g16k1lb2k1g3k5db12k1y1k3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ho/hope-vere-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGKBKGK](/stripes/gkwkgkbkgk/).
 
 Part of the [Hope-Vere](/tartans/h/ho/hope-vere-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7736](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7736)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7736/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7736/*)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 1980 — Hope-Vere (Lochcarron) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7736">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#385C70;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #385C70"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A Hope Vere appears in J Claude's 1880 pattern books 'Clans Originaux' and 'Scotch Tartans' and is shown at #320. The version shown here misses out a section (BKGB) and is the one used by Lochcarron for Hope-Vere. However, for Weir they use the version shown in Clans Originaux. This divergence happened many years ago and the reasons are unknown.</em></li>
+<li>pre 1980 — Hope-Vere (Lochcarron) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7736/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#385C70;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #385C70"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A Hope Vere appears in J Claude's 1880 pattern books 'Clans Originaux' and 'Scotch Tartans' and is shown at #320. The version shown here misses out a section (BKGB) and is the one used by Lochcarron for Hope-Vere. However, for Weir they use the version shown in Clans Originaux. This divergence happened many years ago and the reasons are unknown.</em></li>
 <li>undated — Hope-Vere (Lochcarron) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5719">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#385C70;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #385C70"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A Hope Vere appears in J Claude's 1880 pattern books '1s Originaux' and 'Scotch Tartans' and is shown at #320 (original Scottish Tartans Authority reference). The version shown here misses out a section (BKGB) and is the one used by Lochcarron for Hope-Vere. However, for Weir they use the version shown in 1s Originaux. This divergence happened many years ago and the reasons are unknown.</em></li>
 </ul>
 </details>
@@ -38,7 +38,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7736](ht
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

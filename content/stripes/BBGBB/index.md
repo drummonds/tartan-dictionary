@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/">Emond, Kenneth (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/"><img src="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/sett.png" alt="Emond, Kenneth (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/em/emond-kenneth/">Emond, Kenneth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/em/emond-kenneth/"><img src="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/sett.png" alt="Emond, Kenneth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/">Wcwm 1255-1</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><img src="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/sett.png" alt="Wcwm 1255-1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wc/wcwm-1255-1/">Wcwm 1255-1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wc/wcwm-1255-1/"><img src="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/sett.png" alt="Wcwm 1255-1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Stott"
   url: "/tartans/s/st/stott/"
 - name: "Stott (Personal)"
-  url: "/setts/w2k25b2dg6dy2r6b2k25w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2k25b2dg6dy2r6b2k25w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stott/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBGGRBKW](/stripes/wkbggrbkw/).
 
 Part of the [Stott](/tartans/s/st/stott/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r10b44o5dg40o62r5o10/">Ballintrae</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r10b44o5dg40o62r5o10/"><img src="/variants/s7/r10b44o5dg40o62r5o10/sett.png" alt="Ballintrae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/ballintrae-2/">Ballintrae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/ballintrae-2/"><img src="/variants/s7/r10b44o5dg40o62r5o10/sett.png" alt="Ballintrae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

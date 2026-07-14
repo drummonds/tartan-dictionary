@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/">Loch Ness (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><img src="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/sett.png" alt="Loch Ness (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/loch-ness-3/">Loch Ness</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/loch-ness-3/"><img src="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/sett.png" alt="Loch Ness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

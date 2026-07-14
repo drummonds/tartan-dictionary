@@ -10,17 +10,17 @@ crumbs:
 - name: "Falkirk"
   url: "/families/falkirk/"
 - name: "Falkirk"
-  url: "/tartans/f/fa/falkirk/"
+  url: "/tartans/f/fa/falkirk-2/"
 - name: "Falkirk District Tartan"
-  url: "/setts/k4t4k2t4k2t22dy27y2r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k4t4k2t4k2t22dy27y2r3/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GGBKBKBKBKBKBGGR](/stripes/ggbkbkbkbkbkbggr/).
+provenance below. It is one weaving of the [sett](/tartans/f/fa/falkirk-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KBKBKBGGR](/stripes/kbkbkbggr/).
 
-Part of the [Falkirk](/tartans/f/fa/falkirk/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Falkirk](/tartans/f/fa/falkirk-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2347](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2347)
 
@@ -45,9 +45,11 @@ Earliest known date: 1989 The original Falkirk "Tartan" , now in the National Mu
 </details>
 
 ## Thread count
-R/6 Y4 DY54 T44 K4 T8 K4 T8 K8 T8 K4 T8 K4 T44 DY54 Y/4
+K/8 T8 K4 T8 K4 T44 DY54 Y4 R/6
 
-One full sett is **522 threads**.
+One full sett is **266 threads**.
+
+<p class="recorded-note">The source recorded this cloth as R/6 Y4 DY54 T44 K4 T8 K4 T8 K8 T8 K4 T8 K4 T44 DY54 Y/4 — 522 threads; it folds to the canonical 266-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -56,7 +58,7 @@ One full sett is **522 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 Y4 DY54 T44 K4 T8 K4 T8 K8 T8 K4 T8 K4 T44 DY54 Y/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 T8 K4 T8 K4 T44 DY54 Y4 R/6 tartan" width="880" height="480">
 
 ## Compared to the master
 

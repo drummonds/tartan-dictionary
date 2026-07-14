@@ -12,10 +12,10 @@ crumbs:
 - name: "Cuillins of Skye"
   url: "/tartans/c/cu/cuillins-of-skye-2/"
 - name: "Cuillins of Skye Fashion Tartan"
-  url: "/setts/dp19db2g9db2n19dp2n19db2g9db2r18g9r18db2g9db2dp19lb3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dp19db2g9db2n19dp2n19db2g9db2r18g9r18db2g9db2dp19lb3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cu/cuillins-of-skye-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBBBBGBRGRBGBBW](/stripes/bbgbbbbbgbrgrbgbbw/).
 
 Part of the [Cuillins of Skye](/tartans/c/cu/cuillins-of-skye-2/) tartan — the named design grouping this sett with its other cloths.

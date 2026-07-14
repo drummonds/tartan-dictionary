@@ -8,10 +8,10 @@ crumbs:
 - name: "Canadian Dental Association"
   url: "/tartans/c/ca/canadian-dental-association/"
 - name: "Canadian Dental Association"
-  url: "/setts/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/ca/canadian-dental-association/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKGKRKWKWKWKWKR](/stripes/krkgkgkrkwkwkwkwkr/).
 
 Part of the [Canadian Dental Association](/tartans/c/ca/canadian-dental-association/) tartan — the named design grouping this sett with its other cloths.

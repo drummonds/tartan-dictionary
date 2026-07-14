@@ -12,10 +12,10 @@ crumbs:
 - name: "Buie"
   url: "/tartans/b/bu/buie/"
 - name: "Buie"
-  url: "/setts/dr18k3dr2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr18k3dr2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/buie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKB](/stripes/bkb/).
 
 Part of the [Buie](/tartans/b/bu/buie/) tartan — the named design grouping this sett with its other cloths.

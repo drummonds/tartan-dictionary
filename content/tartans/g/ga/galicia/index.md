@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lb53k2w53k2r4lo7/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wkwkry/">WKWKRY</a></nav>
 Its design is pattern [WKWKRY](/stripes/wkwkry/) — the page of every tartan sharing this colour sequence.
 
 The **Galicia** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Galicia** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb53k2w53k2r4lo7/">Galicia</a></td><td><code>LB/106 K4 W106 K4 R8 LO/14</code></td><td>364</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb53k2w53k2r4lo7/"><img src="/variants/s6/lb53k2w53k2r4lo7~x2/sett.png" alt="Galicia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb53k2w53k2r4lo7~x2/">Galicia</a></td><td><code>LB/106 K4 W106 K4 R8 LO/14</code></td><td>364</td><td>1990</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb53k2w53k2r4lo7~x2/"><img src="/variants/s6/lb53k2w53k2r4lo7~x2/sett.png" alt="Galicia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="295.9" cy="210.3" r="4" fill="#3465a4"><title>Bagpipe Shop</title></circle></a><a href="/variants/s5/k3w29o9lb19k3~x2/"><circle cx="192.5" cy="199.7" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="382.0" cy="107.4" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="152.8" cy="132.4" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s6/k3o24lb16w11lo1g3~x2/"><circle cx="179.8" cy="141.6" r="4" fill="#3465a4"><title>Bro-sant-Malou</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="290.7" cy="148.3" r="4" fill="#3465a4"><title>Cornish National Day</title></circle></a><a href="/variants/s7/r9w27k7w45lb60dg4lo5/"><circle cx="219.1" cy="160.4" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Sum</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.2" cy="121.6" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s7/r9w25k7w45lb60dg4ly5/"><circle cx="216.4" cy="160.1" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/variants/s7/b26w28b14y3k1y2k1~x2/"><circle cx="301.3" cy="132.2" r="4" fill="#3465a4"><title>Gothenburg</title></circle></a><circle cx="293.5" cy="148.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="296.3" cy="210.3" r="4" fill="#3465a4"><title>Bagpipe Shop</title></circle></a><a href="/variants/s5/k3w29o9lb19k3~x2/"><circle cx="192.8" cy="199.5" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.0" cy="107.4" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.2" cy="132.1" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s6/k3o24lb16w11lo1g3~x2/"><circle cx="180.2" cy="141.3" r="4" fill="#3465a4"><title>Bro-sant-Malou</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.3" cy="148.2" r="4" fill="#3465a4"><title>Cornish National Day</title></circle></a><a href="/variants/s7/r9w27k7w45lb60dg4lo5/"><circle cx="219.4" cy="160.1" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Sum</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="225.6" cy="121.3" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s7/r9w25k7w45lb60dg4ly5/"><circle cx="216.7" cy="159.8" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/variants/s7/b26w28b14y3k1y2k1~x2/"><circle cx="302.1" cy="132.1" r="4" fill="#3465a4"><title>Gothenburg</title></circle></a><circle cx="294.0" cy="148.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

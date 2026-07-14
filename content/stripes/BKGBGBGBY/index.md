@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/">Fulton</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/"><img src="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/sett.png" alt="Fulton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fu/fulton-2/">Fulton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fu/fulton-2/"><img src="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/sett.png" alt="Fulton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

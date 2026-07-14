@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/">Manitoba (Commemorative)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/"><img src="/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/sett.png" alt="Manitoba (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/manitoba-3/">Manitoba</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/manitoba-3/"><img src="/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/sett.png" alt="Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

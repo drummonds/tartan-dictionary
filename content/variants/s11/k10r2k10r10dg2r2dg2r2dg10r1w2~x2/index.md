@@ -10,10 +10,10 @@ crumbs:
 - name: "North Berwick Pipe Band"
   url: "/tartans/n/no/north-berwick-pipe-band/"
 - name: "North Berwick Pipe Band (Dancing)"
-  url: "/setts/k10r2k10r10dg2r2dg2r2dg10r1w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k10r2k10r10dg2r2dg2r2dg10r1w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/n/no/north-berwick-pipe-band/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRGRGRGRW](/stripes/krkrgrgrgrw/).
 
 Part of the [North Berwick Pipe Band](/tartans/n/no/north-berwick-pipe-band/) tartan — the named design grouping this sett with its other cloths.

@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/r3k25r25k10lb3~x2/">Bodog.com</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r3k25r25k10lb3~x2/"><img src="/variants/s5/r3k25r25k10lb3~x2/sett.png" alt="Bodog.com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r36k18r4k7w2~x2/">Hopkins (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r36k18r4k7w2~x2/"><img src="/variants/s5/r36k18r4k7w2~x2/sett.png" alt="Hopkins (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r41k19r7k9w3~x2/">MacGregor, Black (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r41k19r7k9w3~x2/"><img src="/variants/s5/r41k19r7k9w3~x2/sett.png" alt="MacGregor, Black (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r20k2r2k15w1~x2/">Masai Shuka 15 (Artefact)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r20k2r2k15w1~x2/"><img src="/variants/s5/r20k2r2k15w1~x2/sett.png" alt="Masai Shuka 15 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/bodog-com/">Bodog.com</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/bodog-com/"><img src="/variants/s5/r3k25r25k10lb3~x2/sett.png" alt="Bodog.com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hopkins-2/">Hopkins</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hopkins-2/"><img src="/variants/s5/r36k18r4k7w2~x2/sett.png" alt="Hopkins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macgregor-4/">MacGregor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-4/"><img src="/variants/s5/r41k19r7k9w3~x2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/masai-shuka-15/">Masai Shuka 15</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/masai-shuka-15/"><img src="/variants/s5/r20k2r2k15w1~x2/sett.png" alt="Masai Shuka 15 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

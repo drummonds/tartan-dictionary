@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/do5g19dp5do5k5do5db36w3db36do5k5do5dp5g19do5db4~x2~dp1607327-db1406275/">Suzugamine</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/do5g19dp5do5k5do5db36w3db36do5k5do5dp5g19do5db4~x2~dp1607327-db1406275/"><img src="/variants/s16/do5g19dp5do5k5do5db36w3db36do5k5do5dp5g19do5db4~x2~dp1607327-db1406275/sett.png" alt="Suzugamine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/su/suzugamine-2/">Suzugamine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/su/suzugamine-2/"><img src="/variants/s16/do5g19dp5do5k5do5db36w3db36do5k5do5dp5g19do5db4~x2~dp1607327-db1406275/sett.png" alt="Suzugamine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

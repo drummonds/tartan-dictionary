@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s36/n2db1r8db1g2db1r4db4lo1db57w1db2w2db2w1db28lo1db4r4db1g2db1r8db1r8db1n2db1n2db1n2db1n2db1dg2db1~x2/">New York Tartan Day Parade</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s36/n2db1r8db1g2db1r4db4lo1db57w1db2w2db2w1db28lo1db4r4db1g2db1r8db1r8db1n2db1n2db1n2db1n2db1dg2db1~x2/"><img src="/variants/s36/n2db1r8db1g2db1r4db4lo1db57w1db2w2db2w1db28lo1db4r4db1g2db1r8db1r8db1n2db1n2db1n2db1n2db1dg2db1~x2/sett.png" alt="New York Tartan Day Parade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-york-tartan-day-parade/">New York Tartan Day Parade</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-york-tartan-day-parade/"><img src="/variants/s36/n2db1r8db1g2db1r4db4lo1db57w1db2w2db2w1db28lo1db4r4db1g2db1r8db1r8db1n2db1n2db1n2db1n2db1dg2db1~x2/sett.png" alt="New York Tartan Day Parade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

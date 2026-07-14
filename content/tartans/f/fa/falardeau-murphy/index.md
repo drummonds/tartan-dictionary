@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g21db21y3r21n3dp5n3/"
+- "/setts/g21lb21ly3r21n3dp5n3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbbrgbg/">BBBRGBG</a></nav>
 Its design is pattern [BBBRGBG](/stripes/bbbrgbg/) — the page of every tartan sharing this colour sequence.
 
 The **Falardeau-Murphy** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Falardeau-Murphy** tartan groups 2 setts — the same named design recorde
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g21db21y3r21n3dp5n3/">Falardeau-Murphy</a> ★</td><td><code>G/42 DB42 Y6 R42 N6 DP10 N/6</code></td><td>260</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g21db21y3r21n3dp5n3/"><img src="/variants/s7/g21db21y3r21n3dp5n3~x2/sett.png" alt="Falardeau-Murphy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g21lb21ly3r21n3dp5n3/">(Canada) (Personal)</a></td><td><code>G/42 LB42 LY6 R42 N6 DP10 N/6</code></td><td>260</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g21lb21ly3r21n3dp5n3/"><img src="/variants/s7/g21lb21ly3r21n3dp5n3~x2/sett.png" alt="(Canada) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/">Falardeau-Murphy</a> ★</td><td><code>G/42 DB42 Y6 R42 N6 DP10 N/6</code></td><td>260</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><img src="/variants/s7/g21db21y3r21n3dp5n3~x2/sett.png" alt="Falardeau-Murphy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g21lb21ly3r21n3dp5n3~x2/">(Canada) (Personal)</a></td><td><code>G/42 LB42 LY6 R42 N6 DP10 N/6</code></td><td>260</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g21lb21ly3r21n3dp5n3~x2/"><img src="/variants/s7/g21lb21ly3r21n3dp5n3~x2/sett.png" alt="(Canada) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="166.5" cy="182.4" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><circle cx="146.5" cy="237.3" r="4" fill="#3465a4"><title>McEachern, Andrew</title></circle></a><a href="/variants/s6/n7w1r6db10g10w1~x4/"><circle cx="137.1" cy="237.6" r="4" fill="#3465a4"><title>McEachem</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="126.4" cy="209.5" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll</title></circle></a><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><circle cx="146.9" cy="193.5" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"><circle cx="149.8" cy="174.6" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/variants/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/"><circle cx="109.1" cy="177.6" r="4" fill="#3465a4"><title>Leitrim, County</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.1" cy="239.8" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/"><circle cx="105.8" cy="197.4" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="107.4" cy="226.9" r="4" fill="#3465a4"><title>Jamestown Parish Church</title></circle></a><circle cx="122.4" cy="216.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="166.8" cy="182.1" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><circle cx="146.5" cy="237.1" r="4" fill="#3465a4"><title>McEachern, Andrew</title></circle></a><a href="/variants/s6/n7w1r6db10g10w1~x4/"><circle cx="137.1" cy="237.3" r="4" fill="#3465a4"><title>McEachem</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="126.5" cy="209.2" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll</title></circle></a><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><circle cx="147.1" cy="193.1" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"><circle cx="150.0" cy="174.3" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/variants/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/"><circle cx="109.1" cy="177.2" r="4" fill="#3465a4"><title>Leitrim, County</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.0" cy="239.5" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/"><circle cx="105.7" cy="197.0" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="107.3" cy="226.5" r="4" fill="#3465a4"><title>Jamestown Parish Church</title></circle></a><circle cx="122.3" cy="216.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

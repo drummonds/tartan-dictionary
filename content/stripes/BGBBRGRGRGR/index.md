@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/">MacDougall</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><img src="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdougal-4/">MacDougal 4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdougal-4/"><img src="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/sett.png" alt="MacDougal 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/dr4g8db6dr8r6g2r2g2r24g1r3/">MacDougall VS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dr4g8db6dr8r6g2r2g2r24g1r3/"><img src="/variants/s11/dr4g8db6dr8r6g2r2g2r24g1r3/sett.png" alt="MacDougall VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macdougall-vs-2/">MacDougall VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdougall-vs-2/"><img src="/variants/s11/dr4g8db6dr8r6g2r2g2r24g1r3/sett.png" alt="MacDougall VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

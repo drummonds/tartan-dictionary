@@ -7,18 +7,18 @@ crumbs:
   url: "/"
 - name: "Utah"
   url: "/tartans/u/ut/utah/"
-- name: "Utah"
-  url: "/setts/w2dr3dg9dr3db2dr3db3w1/"
+- name: "Utah (US State)"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2dr3dg9dr3db2dr3db3w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/ut/utah/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBBGBW](/stripes/wbbbbgbw/).
 
 Part of the [Utah](/tartans/u/ut/utah/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2702](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2702)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/2702/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2702/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: 1995 Utah state tartan was commissioned by Garry Bryant, Kd
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>1995 — Utah (US State) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2702">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>"Utah" state tartan was commissioned by Garry Bryant, KdeB, KCR, SC, designed by Dr. Phil Smith and adopted by a joint committee of the state's Scottish Societies and made official by Senate Resolution. A combination of the Logan and Skene tartans to honour the first two fur trappers to enter Utah. Sample in STA Johnston Collection. Tartan Society notes add: It is the Logan Tartan TS399 with a white over check added and a blue substituted for a white. Ephraim Logan was an early visitor to Cache Valley in northern Utah in 1824 naming the river after his clan/family name. Official threadcount tripled.</em></li>
+<li>1995 — Utah (US State) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2702/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><br><em>"Utah" state tartan was commissioned by Garry Bryant, KdeB, KCR, SC, designed by Dr. Phil Smith and adopted by a joint committee of the state's Scottish Societies and made official by Senate Resolution. A combination of the Logan and Skene tartans to honour the first two fur trappers to enter Utah. Sample in STA Johnston Collection. Tartan Society notes add: It is the Logan Tartan TS399 with a white over check added and a blue substituted for a white. Ephraim Logan was an early visitor to Cache Valley in northern Utah in 1824 naming the river after his clan/family name. Official threadcount tripled.</em></li>
 <li>1995 — Utah State American District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2702">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span></li>
 </ul>
 </details>
@@ -42,7 +42,7 @@ Earliest known date: 1995 Utah state tartan was commissioned by Garry Bryant, Kd
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

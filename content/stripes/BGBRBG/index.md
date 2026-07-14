@@ -28,14 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/dp3g1dp9r3~x4/">Highland Spring (1988)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/dp3g1dp9r3~x4/"><img src="/variants/s4/dp3g1dp9r3~x4/sett.png" alt="Highland Spring (1988) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kilgour/">Kilgour</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kilgour/"><img src="/variants/s6/db14g21db4r21db14y2~x2/sett.png" alt="Kilgour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db14g21db4r21db14y2~x2/">Kilgour</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db14g21db4r21db14y2~x2/"><img src="/variants/s6/db14g21db4r21db14y2~x2/sett.png" alt="Kilgour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/db60y6db11r25~x2/">South Australian Pipes &amp; Drums (Corp</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/db60y6db11r25~x2/"><img src="/variants/s4/db60y6db11r25~x2/sett.png" alt="South Australian Pipes &amp; Drums (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/so/south-australian-pipes-drums/">South Australian Pipes &amp; Drums</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/so/south-australian-pipes-drums/"><img src="/variants/s6/db60y6db11r25db11y6~x2/sett.png" alt="South Australian Pipes &amp; Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

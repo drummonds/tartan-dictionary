@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/">Frame (Edinburgh) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><img src="/variants/s7/k16g15k4lb12k22w2k6~x2/sett.png" alt="Frame (Edinburgh) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fr/frame/">Frame</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/frame/"><img src="/variants/s7/k16g15k4lb12k22w2k6~x2/sett.png" alt="Frame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db1204274-dbi1406275/">Clack (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db1204274-dbi1406275/"><img src="/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db1204274-dbi1406275/sett.png" alt="Clack (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cl/clack-2/">Clack</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clack-2/"><img src="/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db1204274-dbi1406275/sett.png" alt="Clack sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

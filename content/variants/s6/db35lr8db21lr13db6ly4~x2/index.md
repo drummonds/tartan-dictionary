@@ -12,10 +12,10 @@ crumbs:
 - name: "Auchterlonie"
   url: "/tartans/a/au/auchterlonie/"
 - name: "Ochterlonie"
-  url: "/setts/db35lr8db21lr13db6ly4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db35lr8db21lr13db6ly4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/au/auchterlonie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBY](/stripes/bybyby/).
 
 Part of the [Auchterlonie](/tartans/a/au/auchterlonie/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4825](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2002 — Ochterlonie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4825">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>None</em></li>
-<li>pre 2002 — Auchterlonie (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2677">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>This was said to be a private tartan for someone named Auchterlonie and was in the records of the late Jack Dalgety of Forfar. His version has a slightly different warp and weft. This version shown here was as woven by D C Dalgliesh, has the same warp and weft and was called Ochterlonie. Alternative version found in a large book (Page 91) of almost 400 hand-painted warp strips by James Cant (died 1960) and presented to Jack Dalgety of Forfar (Alex Dalgety & Son) which suggests that this #2677 is a corruption of the original.</em></li>
+<li>pre 2002 — Auchterlonie (Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2677/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B8B8B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DW #B8B8B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>This was said to be a private tartan for someone named Auchterlonie and was in the records of the late Jack Dalgety of Forfar. His version has a slightly different warp and weft. This version shown here was as woven by D C Dalgliesh, has the same warp and weft and was called Ochterlonie. Alternative version found in a large book (Page 91) of almost 400 hand-painted warp strips by James Cant (died 1960) and presented to Jack Dalgety of Forfar (Alex Dalgety & Son) which suggests that this #2677 is a corruption of the original.</em></li>
 </ul>
 </details>
 

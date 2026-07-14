@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r52k5y5k8o5do5k2r6k1y2~x2/">Braemar, Castle</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r52k5y5k8o5do5k2r6k1y2~x2/"><img src="/variants/s10/r52k5y5k8o5do5k2r6k1y2~x2/sett.png" alt="Braemar, Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/braemar-castle/">Braemar Castle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/braemar-castle/"><img src="/variants/s10/r52k5y5k8o5do5k2r6k1y2~x2/sett.png" alt="Braemar Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

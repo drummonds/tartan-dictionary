@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r2n18k2n3k20dy30w2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rbkbkgw/">RBKBKGW</a></nav>
 Its design is pattern [RBKBKGW](/stripes/rbkbkgw/) — the page of every tartan sharing this colour sequence.
 
 The **Bennett, J P.** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Bennett, J P.** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r2n18k2n3k20dy30w2/">Bennett, J P.</a></td><td><code>R/4 N36 K4 N6 K40 DY60 W/4</code></td><td>300</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2n18k2n3k20dy30w2/"><img src="/variants/s7/r2n18k2n3k20dy30w2~x2/sett.png" alt="Bennett, J P. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/">Bennett, J P.</a></td><td><code>R/4 N36 K4 N6 K40 DY60 W/4</code></td><td>300</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/"><img src="/variants/s7/r2n18k2n3k20dy30w2~x2/sett.png" alt="Bennett, J P. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2y18k2y3k20dy30w2~x2~y2300000/"><circle cx="187.5" cy="148.6" r="4" fill="#3465a4"><title>Bennett, John Paul</title></circle></a><a href="/variants/s7/dp18k7g5r4g7k1dy2~x2/"><circle cx="187.2" cy="153.9" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/variants/s9/dg14k2dg4r2dg4k14dp15k1w3~x2/"><circle cx="171.3" cy="152.7" r="4" fill="#3465a4"><title>MacRae Hunting</title></circle></a><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/"><circle cx="198.1" cy="163.3" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="167.9" cy="157.7" r="4" fill="#3465a4"><title>Cornish National</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="154.3" cy="174.3" r="4" fill="#3465a4"><title>Bryant</title></circle></a><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><circle cx="214.4" cy="151.9" r="4" fill="#3465a4"><title>Ormiston</title></circle></a><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="183.5" cy="171.3" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s6/y2k6g33k33dp33w2~x2/"><circle cx="164.3" cy="160.4" r="4" fill="#3465a4"><title>MacNeil 8</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="229.9" cy="152.3" r="4" fill="#3465a4"><title>Bryan Wedding</title></circle></a><circle cx="202.7" cy="156.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s7/r2y18k2y3k20dy30w2~x2~y2300000/"><circle cx="188.0" cy="148.5" r="4" fill="#3465a4"><title>Bennett, John Paul</title></circle></a><a href="/variants/s7/dp18k7g5r4g7k1dy2~x2/"><circle cx="187.6" cy="153.7" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/variants/s9/dg14k2dg4r2dg4k14dp15k1w3~x2/"><circle cx="171.8" cy="152.5" r="4" fill="#3465a4"><title>MacRae Hunting</title></circle></a><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/"><circle cx="198.5" cy="163.2" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="168.4" cy="157.6" r="4" fill="#3465a4"><title>Cornish National</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="154.7" cy="174.2" r="4" fill="#3465a4"><title>Bryant</title></circle></a><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><circle cx="214.8" cy="151.8" r="4" fill="#3465a4"><title>Ormiston</title></circle></a><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="184.0" cy="171.2" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s6/y2k6g33k33dp33w2~x2/"><circle cx="164.8" cy="160.3" r="4" fill="#3465a4"><title>MacNeil 8</title></circle></a><a href="/variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/"><circle cx="230.5" cy="152.2" r="4" fill="#3465a4"><title>Bryan Wedding</title></circle></a><circle cx="203.2" cy="156.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

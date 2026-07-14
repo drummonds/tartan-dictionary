@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan Victoria"
   url: "/clan/victoria/"
+aliases:
+- "/setts/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bygyrbwgyrbwbryygyywr/">BYGYRBWGYRBWBRYYGYYWR</a></nav>
 A tartan of [Clan Victoria](/clan/victoria/).
 Its design is pattern [BYGYRBWGYRBWBRYYGYYWR](/stripes/bygyrbwgyrbwbryygyywr/) — the page of every tartan sharing this colour sequence.
 
@@ -15,8 +18,8 @@ The **Victoria, County of** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/">Victoria, County of</a></td><td><code>N/36 LR3 G3 LR3 R20 N3 LB24 G32 LO3 R3 N3 LB6 N6 R3 LO3 LR3 G6 LR3 LO3 LB3 R/6</code></td><td>308</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/"><img src="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/sett.png" alt="Victoria, County of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/">Victoria, County of</a></td><td><code>N/36 LR3 G3 LR3 R20 N3 LB24 G32 LO3 R3 N3 LB6 N6 R3 LO3 LR3 G6 LR3 LO3 LB3 R/6</code></td><td>308</td><td>1984</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/"><img src="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/sett.png" alt="Victoria, County of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +32,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/"><circle cx="142.8" cy="165.4" r="4" fill="#3465a4"><title>Beguinot</title></circle></a><a href="/variants/s13/lb6dg2lb2dg5dr20o2dr2o25r2o2r4g10dr2~x2/"><circle cx="182.3" cy="148.9" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s17/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3~x2~gi2408144-g1903114/"><circle cx="242.4" cy="162.4" r="4" fill="#3465a4"><title>Prickly Thistle</title></circle></a><a href="/variants/s19/dg3dr2o2dr2n20b3n3dr8dg2dr2dg2dr2dg8o2dg2o2dg2o8ly3~x2/"><circle cx="187.6" cy="176.1" r="4" fill="#3465a4"><title>Wcwm 1528</title></circle></a><a href="/variants/s15/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4~x2/"><circle cx="204.8" cy="181.7" r="4" fill="#3465a4"><title>MacPherson 1</title></circle></a><a href="/variants/s15/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2~x2~o2102055-oi2104058/"><circle cx="108.6" cy="169.0" r="4" fill="#3465a4"><title>Hudson Bay Company</title></circle></a><circle cx="153.0" cy="145.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/"><circle cx="142.8" cy="165.0" r="4" fill="#3465a4"><title>Beguinot</title></circle></a><a href="/variants/s13/lb6dg2lb2dg5dr20o2dr2o25r2o2r4g10dr2~x2/"><circle cx="182.5" cy="148.7" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s17/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3~x2~gi2408144-g1903114/"><circle cx="242.5" cy="162.1" r="4" fill="#3465a4"><title>Prickly Thistle</title></circle></a><a href="/variants/s19/dg3dr2o2dr2n20b3n3dr8dg2dr2dg2dr2dg8o2dg2o2dg2o8ly3~x2/"><circle cx="187.5" cy="175.9" r="4" fill="#3465a4"><title>Wcwm 1528</title></circle></a><a href="/variants/s15/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4~x2/"><circle cx="204.8" cy="181.4" r="4" fill="#3465a4"><title>MacPherson 1</title></circle></a><a href="/variants/s15/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2~x2~o2102055-oi2104058/"><circle cx="108.5" cy="168.6" r="4" fill="#3465a4"><title>Hudson Bay Company</title></circle></a><circle cx="152.9" cy="145.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

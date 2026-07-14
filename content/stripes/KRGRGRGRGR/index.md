@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/">Connell (Dalgliesh) (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><img src="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/sett.png" alt="Connell (Dalgliesh) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connell/">Connell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connell/"><img src="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/sett.png" alt="Connell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

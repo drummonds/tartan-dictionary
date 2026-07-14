@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g6db1g1db1g3lb2r1lb2t3db1t1db1t6~x4/">McCulloch, Grant (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g6db1g1db1g3lb2r1lb2t3db1t1db1t6~x4/"><img src="/variants/s13/g6db1g1db1g3lb2r1lb2t3db1t1db1t6~x4/sett.png" alt="McCulloch, Grant (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mc/mcculloch-grant/">McCulloch, Grant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mc/mcculloch-grant/"><img src="/variants/s13/g6db1g1db1g3lb2r1lb2t3db1t1db1t6~x4/sett.png" alt="McCulloch, Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

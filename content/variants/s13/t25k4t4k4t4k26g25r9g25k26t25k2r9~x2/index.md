@@ -8,10 +8,10 @@ crumbs:
 - name: "Atholl"
   url: "/tartans/a/at/atholl/"
 - name: "Atholl"
-  url: "/setts/t25k4t4k4t4k26g25r9g25k26t25k2r9/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t25k4t4k4t4k26g25r9g25k26t25k2r9/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/a/at/atholl/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/).
 
 Part of the [Atholl](/tartans/a/at/atholl/) tartan — the named design grouping this sett with its other cloths.

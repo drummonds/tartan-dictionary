@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/db3ly2db32r28w2r2w2r2w3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bybrwrwrw/">BYBRWRWRW</a></nav>
 Its design is pattern [BYBRWRWRW](/stripes/bybrwrwrw/) — the page of every tartan sharing this colour sequence.
 
 The **Sea Dog Bamse** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Sea Dog Bamse** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db3ly2db32r28w2r2w2r2w3/">Sea Dog Bamse</a></td><td><code>DB/6 LY4 DB64 R56 W4 R4 W4 R4 W/6</code></td><td>292</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3ly2db32r28w2r2w2r2w3/"><img src="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/sett.png" alt="Sea Dog Bamse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/">Sea Dog Bamse</a></td><td><code>DB/6 LY4 DB64 R56 W4 R4 W4 R4 W/6</code></td><td>292</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/"><img src="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/sett.png" alt="Sea Dog Bamse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +35,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="297.7" cy="143.1" r="4" fill="#3465a4"><title>Mercer, James</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="298.8" cy="143.2" r="4" fill="#3465a4"><title>Mercer</title></circle></a><a href="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/"><circle cx="350.0" cy="160.6" r="4" fill="#3465a4"><title>Breckon</title></circle></a><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/"><circle cx="332.8" cy="159.3" r="4" fill="#3465a4"><title>New Breckon</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="268.5" cy="136.0" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s7/r6w3r17db3r3db25r3~x2/"><circle cx="304.7" cy="196.8" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s9/r4y2r34db10g4db4t4db23w3~x2~t2405244/"><circle cx="236.1" cy="127.1" r="4" fill="#3465a4"><title>Heirloom Red Alba</title></circle></a><a href="/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/"><circle cx="264.0" cy="138.8" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.0" cy="174.9" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s7/r15n3w10n7dp40w3dp6~x2/"><circle cx="295.4" cy="167.8" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><circle cx="291.4" cy="131.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="298.4" cy="143.0" r="4" fill="#3465a4"><title>Mercer, James</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="299.5" cy="143.2" r="4" fill="#3465a4"><title>Mercer</title></circle></a><a href="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/"><circle cx="350.8" cy="160.7" r="4" fill="#3465a4"><title>Breckon</title></circle></a><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/"><circle cx="333.6" cy="159.3" r="4" fill="#3465a4"><title>New Breckon</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="269.1" cy="135.9" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s7/r6w3r17db3r3db25r3~x2/"><circle cx="305.4" cy="196.8" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s9/r4y2r34db10g4db4t4db23w3~x2~t2405244/"><circle cx="236.6" cy="126.9" r="4" fill="#3465a4"><title>Heirloom Red Alba</title></circle></a><a href="/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/"><circle cx="264.6" cy="138.7" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.5" cy="174.8" r="4" fill="#3465a4"><title>Fazzolettone</title></circle></a><a href="/variants/s7/r15n3w10n7dp40w3dp6~x2/"><circle cx="296.1" cy="167.7" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><circle cx="292.1" cy="131.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

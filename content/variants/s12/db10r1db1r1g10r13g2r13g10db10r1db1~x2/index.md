@@ -10,15 +10,15 @@ crumbs:
 - name: "Inverness Fencibles"
   url: "/tartans/i/in/inverness-fencibles/"
 - name: "Inverness Fencibles"
-  url: "/setts/db10r1db1r1g10r13g2r13g10db10r1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db10r1db1r1g10r13g2r13g10db10r1db1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BRBGRGRGRBRBRBRGRGRGBR](/stripes/brbgrgrgrbrbrbrgrgrgbr/).
+provenance below. It is one weaving of the [sett](/tartans/i/in/inverness-fencibles/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
 
 Part of the [Inverness Fencibles](/tartans/i/in/inverness-fencibles/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1846](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1846)
 
@@ -55,9 +55,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 394
 
 ## Thread count
-DB/2 R2 DB20 G20 R26 G4 R26 G20 R2 DB2 R2 DB20 R2 DB2 R2 G20 R26 G4 R26 G20 DB20 R/2
+DB/20 R2 DB2 R2 G20 R26 G4 R26 G20 DB20 R2 DB/2
 
-One full sett is **536 threads**.
+One full sett is **270 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/2 R2 DB20 G20 R26 G4 R26 G20 R2 DB2 R2 DB20 R2 DB2 R2 G20 R26 G4 R26 G20 DB20 R/2 — 536 threads; it folds to the canonical 270-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -66,7 +68,7 @@ One full sett is **536 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/2 R2 DB20 G20 R26 G4 R26 G20 R2 DB2 R2 DB20 R2 DB2 R2 G20 R26 G4 R26 G20 DB20 R/2 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/20 R2 DB2 R2 G20 R26 G4 R26 G20 DB20 R2 DB/2 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

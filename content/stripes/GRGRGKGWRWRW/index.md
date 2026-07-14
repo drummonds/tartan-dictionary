@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/">Macallan Distillery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><img src="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/sett.png" alt="Macallan Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macallan-distillery/">Macallan Distillery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macallan-distillery/"><img src="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/sett.png" alt="Macallan Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

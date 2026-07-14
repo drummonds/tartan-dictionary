@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2~db1204274-dp1607327/">Spirit of Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2~db1204274-dp1607327/"><img src="/variants/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2~db1204274-dp1607327/sett.png" alt="Spirit of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sp/spirit-of-wales-2/">Spirit of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sp/spirit-of-wales-2/"><img src="/variants/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2~db1204274-dp1607327/sett.png" alt="Spirit of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

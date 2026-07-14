@@ -4,7 +4,12 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/t13lb13r1lb13g13y1g13t13w1/"
+- "/setts/db25lb25r2lb25g25y2g25db25w4/"
+- "/setts/db25w2db25lb25r2lb25g25dy2g25/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bwrwgggbw/">BWRWGGGBW</a></nav>
 Its design is pattern [BWRWGGGBW](/stripes/bwrwgggbw/) — the page of every tartan sharing this colour sequence.
 
 The **Royal Columbian** tartan groups 3 setts — the same named design recorded as different cloths
@@ -13,12 +18,12 @@ The **Royal Columbian** tartan groups 3 setts — the same named design recorded
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t13lb13r1lb13g13y1g13t13w1/">Royal Columbian</a> ★</td><td><code>T/52 LB52 R4 LB52 G52 Y4 G52 T52 W/4</code></td><td>592</td><td>1968</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/t13lb13r1lb13g13y1g13t13w1/"><img src="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/sett.png" alt="Royal Columbian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db25lb25r2lb25g25y2g25db25w4/">Royal Columbian</a></td><td><code>DB/50 LB50 R4 LB50 G50 Y4 G50 DB50 W/8</code></td><td>574</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db25lb25r2lb25g25y2g25db25w4/"><img src="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/sett.png" alt="Royal Columbian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db25w2db25lb25r2lb25g25dy2g25/">Canadian Tartan</a></td><td><code>DB/50 W4 DB50 LB50 R4 LB50 G50 DY4 G/50</code></td><td>524</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db25w2db25lb25r2lb25g25dy2g25/"><img src="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/sett.png" alt="Canadian Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/">Royal Columbian</a> ★</td><td><code>T/52 LB52 R4 LB52 G52 Y4 G52 T52 W/4</code></td><td>592</td><td>1968</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/"><img src="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/sett.png" alt="Royal Columbian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/">Royal Columbian</a></td><td><code>DB/50 LB50 R4 LB50 G50 Y4 G50 DB50 W/8</code></td><td>574</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/"><img src="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/sett.png" alt="Royal Columbian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/">Canadian Tartan</a></td><td><code>DB/50 W4 DB50 LB50 R4 LB50 G50 DY4 G/50</code></td><td>524</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/"><img src="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/sett.png" alt="Canadian Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="249.0" cy="221.0" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/"><circle cx="194.8" cy="228.0" r="4" fill="#3465a4"><title>WestJet</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="213.9" cy="174.8" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><circle cx="219.8" cy="246.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="249.2" cy="221.0" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/"><circle cx="194.7" cy="227.8" r="4" fill="#3465a4"><title>WestJet</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="214.1" cy="174.6" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><circle cx="219.6" cy="245.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -8,10 +8,10 @@ crumbs:
 - name: "Iron Horse"
   url: "/tartans/i/ir/iron-horse/"
 - name: "Iron Horse"
-  url: "/setts/k16n4lb3k2db1w1r1k2lb3n4k12/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k16n4lb3k2db1w1r1k2lb3n4k12/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/ir/iron-horse/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWKBWRKWBK](/stripes/kbwkbwrkwbk/).
 
 Part of the [Iron Horse](/tartans/i/ir/iron-horse/) tartan — the named design grouping this sett with its other cloths.

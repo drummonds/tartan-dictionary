@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s30/g10y3g3y1k2r2k2y1g3y3g10db21k2db2k2db21k15g15r2g15k15db2k2db2k2db31k2db2k2db2~x2/">Dundee Discovery</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s30/g10y3g3y1k2r2k2y1g3y3g10db21k2db2k2db21k15g15r2g15k15db2k2db2k2db31k2db2k2db2~x2/"><img src="/variants/s30/g10y3g3y1k2r2k2y1g3y3g10db21k2db2k2db21k15g15r2g15k15db2k2db2k2db31k2db2k2db2~x2/sett.png" alt="Dundee Discovery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dundee-discovery-2/">Dundee Discovery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dundee-discovery-2/"><img src="/variants/s30/g10y3g3y1k2r2k2y1g3y3g10db21k2db2k2db21k15g15r2g15k15db2k2db2k2db31k2db2k2db2~x2/sett.png" alt="Dundee Discovery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

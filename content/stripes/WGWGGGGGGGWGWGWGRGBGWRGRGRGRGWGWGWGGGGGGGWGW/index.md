@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s44/lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg28r24y1n2y3lb4r10dy16r4y2r15dy5r9dg28lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1~x2/">New Brunswick (Lyon Court Books)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s44/lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg28r24y1n2y3lb4r10dy16r4y2r15dy5r9dg28lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1~x2/"><img src="/variants/s44/lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg28r24y1n2y3lb4r10dy16r4y2r15dy5r9dg28lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1~x2/sett.png" alt="New Brunswick (Lyon Court Books) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-brunswick-3/">New Brunswick</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-brunswick-3/"><img src="/variants/s44/lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg28r24y1n2y3lb4r10dy16r4y2r15dy5r9dg28lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1~x2/sett.png" alt="New Brunswick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

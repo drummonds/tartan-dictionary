@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/db4dy2db14dy4db4o1k8g13y3g13k8dy10k3dy3~x2/">Humble, Gordon (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/db4dy2db14dy4db4o1k8g13y3g13k8dy10k3dy3~x2/"><img src="/variants/s14/db4dy2db14dy4db4o1k8g13y3g13k8dy10k3dy3~x2/sett.png" alt="Humble, Gordon (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/hu/humble-gordon/">Humble, Gordon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hu/humble-gordon/"><img src="/variants/s14/db4dy2db14dy4db4o1k8g13y3g13k8dy10k3dy3~x2/sett.png" alt="Humble, Gordon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

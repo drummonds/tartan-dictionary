@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/">Boring and Dull</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><img src="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/sett.png" alt="Boring and Dull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db5w4r1db26r26w1r8w5k1~x2/">Boring and Dull</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/db5w4r1db26r26w1r8w5k1~x2/"><img src="/variants/s9/db5w4r1db26r26w1r8w5k1~x2/sett.png" alt="Boring and Dull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/bo/boring-and-dull/">Boring and Dull</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boring-and-dull/"><img src="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/sett.png" alt="Boring and Dull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

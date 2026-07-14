@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/oi24do2oi3o6oi3do2dg15oi20do4~x2~oi2104058-o2102055/">Land's End (Unnamed Camel)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/oi24do2oi3o6oi3do2dg15oi20do4~x2~oi2104058-o2102055/"><img src="/variants/s9/oi24do2oi3o6oi3do2dg15oi20do4~x2~oi2104058-o2102055/sett.png" alt="Land's End (Unnamed Camel) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/land-s-end-4/">Land's End</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/land-s-end-4/"><img src="/variants/s9/oi24do2oi3o6oi3do2dg15oi20do4~x2~oi2104058-o2102055/sett.png" alt="Land's End sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

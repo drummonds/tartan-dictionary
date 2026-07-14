@@ -8,15 +8,15 @@ crumbs:
 - name: "St. Mirren Football Club"
   url: "/tartans/s/st/st-mirren-football-club/"
 - name: "St. Mirren Football Club"
-  url: "/setts/k7w2k21r2k34w5k3w2k7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k7w2k21r2k34w5k3w2k7/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [KWKRKWKWKWKWKRKW](/stripes/kwkrkwkwkwkwkrkw/).
+provenance below. It is one weaving of the [sett](/tartans/s/st/st-mirren-football-club/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [KWKRKWKWK](/stripes/kwkrkwkwk/).
 
 Part of the [St. Mirren Football Club](/tartans/s/st/st-mirren-football-club/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3901](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3901)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3901](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2001 — St. Mirren Football Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3901">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>St Mirren Football Club.</em></li>
-<li>2001 — St. Mirren Football Club (Sports) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3831">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>No details</em></li>
+<li>2001 — St. Mirren Football Club (Sports) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/3831/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>No details</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2857
 
 ## Thread count
-K/14 W4 K42 R4 K68 W10 K6 W4 K14 W4 K6 W10 K68 R4 K42 W/4
+K/14 W4 K42 R4 K68 W10 K6 W4 K/14
 
-One full sett is **590 threads**.
+One full sett is **304 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/14 W4 K42 R4 K68 W10 K6 W4 K14 W4 K6 W10 K68 R4 K42 W/4 — 590 threads; it folds to the canonical 304-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **590 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/14 W4 K42 R4 K68 W10 K6 W4 K14 W4 K6 W10 K68 R4 K42 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/14 W4 K42 R4 K68 W10 K6 W4 K/14 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

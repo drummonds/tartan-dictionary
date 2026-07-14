@@ -12,10 +12,10 @@ crumbs:
 - name: "MacLean of Duart, dress"
   url: "/tartans/m/ma/maclean-of-duart-dress-7/"
 - name: "MacLean of Duart, dress"
-  url: "/setts/n10b2do4y2do3w3do3o18w30r2w4do2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/n10b2do4y2do3w3do3o18w30r2w4do2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/maclean-of-duart-dress-7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBWBRWRWB](/stripes/bbbgbwbrwrwb/).
 
 Part of the [MacLean of Duart, dress](/tartans/m/ma/maclean-of-duart-dress-7/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/">Shenzhen (Sports)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/"><img src="/variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/sett.png" alt="Shenzhen (Sports) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sh/shenzhen-2/">Shenzhen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shenzhen-2/"><img src="/variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/sett.png" alt="Shenzhen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

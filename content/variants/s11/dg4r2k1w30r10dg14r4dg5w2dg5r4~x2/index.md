@@ -12,15 +12,15 @@ crumbs:
 - name: "Scott Dress"
   url: "/tartans/s/sc/scott-dress-2/"
 - name: "Scott Dress"
-  url: "/setts/dg4r2k1w30r10dg14r4dg5w2dg5r4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg4r2k1w30r10dg14r4dg5w2dg5r4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GRKWRGRGWGRGWGRGRWKR](/stripes/grkwrgrgwgrgwgrgrwkr/).
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scott-dress-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GRKWRGRGWGR](/stripes/grkwrgrgwgr/).
 
 Part of the [Scott Dress](/tartans/s/sc/scott-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3697](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3697)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1006
 
 ## Thread count
-DG/8 R4 K2 W60 R20 DG28 R8 DG10 W4 DG10 R8 DG10 W4 DG10 R8 DG28 R20 W60 K2 R/4
+DG/8 R4 K2 W60 R20 DG28 R8 DG10 W4 DG10 R/8
 
-One full sett is **604 threads**.
+One full sett is **308 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DG/8 R4 K2 W60 R20 DG28 R8 DG10 W4 DG10 R8 DG10 W4 DG10 R8 DG28 R20 W60 K2 R/4 — 604 threads; it folds to the canonical 308-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **604 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/8 R4 K2 W60 R20 DG28 R8 DG10 W4 DG10 R8 DG10 W4 DG10 R8 DG28 R20 W60 K2 R/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/8 R4 K2 W60 R20 DG28 R8 DG10 W4 DG10 R/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

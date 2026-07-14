@@ -8,10 +8,10 @@ crumbs:
 - name: "Stephen-Mathieson"
   url: "/tartans/s/st/stephen-mathieson/"
 - name: "Stephen-Mathieson"
-  url: "/setts/db16g1db1g1db1k12g1db1g1db1g6dp2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db16g1db1g1db1k12g1db1g1db1g6dp2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/st/stephen-mathieson/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGKBGBGB](/stripes/bgbgbgkbgbgb/).
 
 Part of the [Stephen-Mathieson](/tartans/s/st/stephen-mathieson/) tartan — the named design grouping this sett with its other cloths.

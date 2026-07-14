@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi1806142-g2203152/">New South Wales</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi1806142-g2203152/"><img src="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi1806142-g2203152/sett.png" alt="New South Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/new-south-wales-2/">New South Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/new-south-wales-2/"><img src="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi1806142-g2203152/sett.png" alt="New South Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

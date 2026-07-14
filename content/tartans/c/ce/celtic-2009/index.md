@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dgi40dg15g4dg4g4/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/ggggg/">GGGGG</a></nav>
 Its design is pattern [GGGGG](/stripes/ggggg/) — the page of every tartan sharing this colour sequence.
 
 The **Celtic 2009** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Celtic 2009** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dgi40dg15g4dg4g4/">Celtic 2009</a></td><td><code>DGi/80 DG30 G8 DG8 G/8</code></td><td>180</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dgi40dg15g4dg4g4/"><img src="/variants/s5/dgi40dg15g4dg4g4~x2~dgi1806142-g2203152/sett.png" alt="Celtic 2009 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dgi40dg15g4dg4g4~x2~dgi1806142-g2203152/">Celtic 2009</a></td><td><code>DGi/80 DG30 G8 DG8 G/8</code></td><td>180</td><td>~2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dgi40dg15g4dg4g4~x2~dgi1806142-g2203152/"><img src="/variants/s5/dgi40dg15g4dg4g4~x2~dgi1806142-g2203152/sett.png" alt="Celtic 2009 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/"><circle cx="459.7" cy="308.3" r="4" fill="#3465a4"><title>Emerald</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24ly3~x2~dgi1605139/"><circle cx="424.8" cy="321.1" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24k3~x2~dgi1605139/"><circle cx="408.6" cy="299.3" r="4" fill="#3465a4"><title>Park Estate</title></circle></a><a href="/variants/s4/y9g52dg15ly4~x2~y2202111-ly3005093/"><circle cx="491.6" cy="281.0" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife</title></circle></a><a href="/variants/s4/g1y9g9lo1~x4/"><circle cx="534.0" cy="366.0" r="4" fill="#3465a4"><title>Spring Morning</title></circle></a><a href="/variants/s8/dr4dg10lo1lb1dt4lb1dt25dr2~x2/"><circle cx="503.4" cy="209.6" r="4" fill="#3465a4"><title>Raymond of Doune</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2y3~x2~dg1806142-g2408144/"><circle cx="461.9" cy="269.0" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="402.9" cy="314.4" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/"><circle cx="558.2" cy="312.8" r="4" fill="#3465a4"><title>McGuigan, Julia</title></circle></a><a href="/variants/s5/dg31lo1dg18db18dr1~x2/"><circle cx="605.3" cy="255.1" r="4" fill="#3465a4"><title>Miramichi</title></circle></a><circle cx="575.1" cy="334.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/"><circle cx="459.8" cy="308.7" r="4" fill="#3465a4"><title>Emerald</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24ly3~x2~dgi1605139/"><circle cx="424.8" cy="321.4" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24k3~x2~dgi1605139/"><circle cx="408.8" cy="299.6" r="4" fill="#3465a4"><title>Park Estate</title></circle></a><a href="/variants/s4/y9g52dg15ly4~x2~y2202111-ly3005093/"><circle cx="492.0" cy="281.4" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife</title></circle></a><a href="/variants/s4/g1y9g9lo1~x4/"><circle cx="534.0" cy="366.0" r="4" fill="#3465a4"><title>Spring Morning</title></circle></a><a href="/variants/s8/dr4dg10lo1lb1dt4lb1dt25dr2~x2/"><circle cx="503.8" cy="209.9" r="4" fill="#3465a4"><title>Raymond of Doune</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2y3~x2~dg1806142-g2408144/"><circle cx="462.0" cy="269.3" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.0" cy="314.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/"><circle cx="558.5" cy="313.3" r="4" fill="#3465a4"><title>McGuigan, Julia</title></circle></a><a href="/variants/s5/dg31lo1dg18db18dr1~x2/"><circle cx="606.1" cy="255.7" r="4" fill="#3465a4"><title>Miramichi</title></circle></a><circle cx="575.3" cy="335.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

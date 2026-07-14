@@ -8,10 +8,10 @@ crumbs:
 - name: "Creek Indian Nation"
   url: "/tartans/c/cr/creek-indian-nation-2/"
 - name: "Creek Indian Nation"
-  url: "/setts/db2g4y1db1r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db2g4y1db1r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/c/cr/creek-indian-nation-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBR](/stripes/bggbr/).
 
 Part of the [Creek Indian Nation](/tartans/c/cr/creek-indian-nation-2/) tartan — the named design grouping this sett with its other cloths.

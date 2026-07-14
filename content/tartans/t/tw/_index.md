@@ -7,7 +7,7 @@ date: 2023-03-18
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/t/tw/tweedbank/"><img src="/variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/sett.png" alt="Tweedbank" width="140"><br><strong>Tweedbank (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/t/tw/tweedmouth-middle-school/"><img src="/variants/s12/o30y1k2g10k1r3k1r3k1r3k1w1~x2/sett.png" alt="Tweedmouth Middle School" width="140"><br><strong>Tweedmouth Middle School (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/t/tw/tweedside/"><img src="/variants/s9/k18r2k2r5w2r2w2r2k2~x4/sett.png" alt="Tweedside" width="140"><br><strong>Tweedside (1)</strong></a><div class="clan-territory">Tweedside</div></li>
+<li><a class="tartan" href="/tartans/t/tw/tweedside/"><img src="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/sett.png" alt="Tweedside" width="140"><br><strong>Tweedside (1)</strong></a><div class="clan-territory">Tweedside</div></li>
 <li><a class="tartan" href="/tartans/t/tw/tweedside-hunting/"><img src="/variants/s9/db18g2k2g5w2g2w2g2k2~x4/sett.png" alt="Tweedside Hunting" width="140"><br><strong>Tweedside Hunting (2)</strong></a><div class="clan-territory">Tweedside</div></li>
 <li><a class="tartan" href="/tartans/t/tw/tweedside-variation/"><img src="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/sett.png" alt="Tweedside Variation" width="140"><br><strong>Tweedside Variation (1)</strong></a><div class="clan-territory">Clan Tweedside</div></li>
 <li><a class="tartan" href="/tartans/t/tw/tweedsmuir-dress/"><img src="/variants/s10/g1dg15dp1dg1dp1dg2dp6w15lb1w1~x4/sett.png" alt="Tweedsmuir Dress" width="140"><br><strong>Tweedsmuir Dress (1)</strong></a></li>

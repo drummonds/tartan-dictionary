@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/ri65w2ri3r4dg11ri3dg3ri11~ri2008029-r1506028/">Gudbrandsdalen, Rondastakken</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/ri65w2ri3r4dg11ri3dg3ri11~ri2008029-r1506028/"><img src="/variants/s8/ri65w2ri3r4dg11ri3dg3ri11~ri2008029-r1506028/sett.png" alt="Gudbrandsdalen, Rondastakken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gu/gudbrandsdalen-rondastakken-2/">Gudbrandsdalen, Rondastakken</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gu/gudbrandsdalen-rondastakken-2/"><img src="/variants/s8/ri65w2ri3r4dg11ri3dg3ri11~ri2008029-r1506028/sett.png" alt="Gudbrandsdalen, Rondastakken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

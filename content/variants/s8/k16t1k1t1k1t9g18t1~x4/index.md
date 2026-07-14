@@ -12,15 +12,15 @@ crumbs:
 - name: "Kelvingrove"
   url: "/tartans/k/ke/kelvingrove-2/"
 - name: "Kelvingrove"
-  url: "/setts/k16t1k1t1k1t9g18t1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k16t1k1t1k1t9g18t1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BKBKBGBGBKBKBK](/stripes/bkbkbgbgbkbkbk/).
+provenance below. It is one weaving of the [sett](/tartans/k/ke/kelvingrove-2/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BGBKBKBK](/stripes/bgbkbkbk/).
 
 Part of the [Kelvingrove](/tartans/k/ke/kelvingrove-2/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1939](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1939)
 
@@ -48,9 +48,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5326
 
 ## Thread count
-K/64 T4 K4 T4 K4 T36 G72 T4 G72 T36 K4 T4 K4 T/4
+K/64 T4 K4 T4 K4 T36 G72 T/4
 
-One full sett is **564 threads**.
+One full sett is **316 threads**.
+
+<p class="recorded-note">The source recorded this cloth as K/64 T4 K4 T4 K4 T36 G72 T4 G72 T36 K4 T4 K4 T/4 — 564 threads; it folds to the canonical 316-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -59,7 +61,7 @@ One full sett is **564 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/64 T4 K4 T4 K4 T36 G72 T4 G72 T36 K4 T4 K4 T/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/64 T4 K4 T4 K4 T36 G72 T/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

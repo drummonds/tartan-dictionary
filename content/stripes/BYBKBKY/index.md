@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/n27lr3n14k3n13k3ly23~x2/">Grange School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/n27lr3n14k3n13k3ly23~x2/"><img src="/variants/s7/n27lr3n14k3n13k3ly23~x2/sett.png" alt="Grange School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/grange-school/">Grange School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grange-school/"><img src="/variants/s7/n27lr3n14k3n13k3ly23~x2/sett.png" alt="Grange School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

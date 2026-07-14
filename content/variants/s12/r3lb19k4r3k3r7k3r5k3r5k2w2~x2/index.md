@@ -8,10 +8,10 @@ crumbs:
 - name: "Duchess of Kent"
   url: "/tartans/d/du/duchess-of-kent/"
 - name: "Duchess of Kent Family Tartan"
-  url: "/setts/r3lb19k4r3k3r7k3r5k3r5k2w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r3lb19k4r3k3r7k3r5k3r5k2w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/duchess-of-kent/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKRKRKRKRKW](/stripes/rwkrkrkrkrkw/).
 
 Part of the [Duchess of Kent](/tartans/d/du/duchess-of-kent/) tartan — the named design grouping this sett with its other cloths.

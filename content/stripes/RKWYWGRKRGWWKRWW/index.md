@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/">MacGlashan #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/"><img src="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/sett.png" alt="MacGlashan #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macglashan-4/">MacGlashan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macglashan-4/"><img src="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/sett.png" alt="MacGlashan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

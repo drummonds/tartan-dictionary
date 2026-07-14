@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/">Wilson's No.043</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/"><img src="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/sett.png" alt="Wilson's No.043 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wi/wilson-s-no-043/">Wilson's No.043</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-043/"><img src="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/sett.png" alt="Wilson's No.043 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

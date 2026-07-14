@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/r2ly20o2ly2r3dr3r3lo6loi24ly2/">Golden Heather, The</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r2ly20o2ly2r3dr3r3lo6loi24ly2/"><img src="/variants/s10/r2ly20o2ly2r3dr3r3lo6loi24ly2~x2~ly3202083-o2206047-lo2705070-loi2706066/sett.png" alt="Golden Heather, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/go/golden-heather-the/">Golden Heather, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/golden-heather-the/"><img src="/variants/s10/r2ly20o2ly2r3dr3r3lo6loi24ly2~x2~ly3202083-o2206047-lo2705070-loi2706066/sett.png" alt="Golden Heather, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

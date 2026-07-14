@@ -12,10 +12,10 @@ crumbs:
 - name: "Sanix"
   url: "/tartans/s/sa/sanix/"
 - name: "Sanix Modern"
-  url: "/setts/r2db16k11b19y2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r2db16k11b19y2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sanix/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBR](/stripes/gbkbr/).
 
 Part of the [Sanix](/tartans/s/sa/sanix/) tartan — the named design grouping this sett with its other cloths.

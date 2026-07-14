@@ -12,10 +12,10 @@ crumbs:
 - name: "Sarna"
   url: "/tartans/s/sa/sarna/"
 - name: "Sarna"
-  url: "/setts/o13r1o2r2o2r1o2r5o11r1o2g2o2r1o2g7/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/o13r1o2r2o2r1o2r5o11r1o2g2o2r1o2g7/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sarna/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRRGRRRRRRRRRRR](/stripes/grrrgrrrrrrrrrrr/).
 
 Part of the [Sarna](/tartans/s/sa/sarna/) tartan — the named design grouping this sett with its other cloths.

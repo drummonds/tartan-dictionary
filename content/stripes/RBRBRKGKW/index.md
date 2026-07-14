@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/">Celtic Women International</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><img src="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/sett.png" alt="Celtic Women International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ce/celtic-women-international/">Celtic Women International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ce/celtic-women-international/"><img src="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/sett.png" alt="Celtic Women International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

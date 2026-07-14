@@ -12,15 +12,15 @@ crumbs:
 - name: "Heather"
   url: "/tartans/h/he/heather/"
 - name: "Heather (RSPCC)"
-  url: "/setts/db4lb3n30lb3dp16lb3dp10dpi48g4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db4lb3n30lb3dp16lb3dp10dpi48g4/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [BWBWBWBBGBBWBWBW](/stripes/bwbwbwbbgbbwbwbw/).
+provenance below. It is one weaving of the [sett](/tartans/h/he/heather/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [BWBWBWBBG](/stripes/bwbwbwbbg/).
 
 Part of the [Heather](/tartans/h/he/heather/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1646](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1646)
 
@@ -49,9 +49,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2108
 
 ## Thread count
-DB/8 LB6 N60 LB6 DP32 LB6 DP20 DPi96 G8 DPi96 DP20 LB6 DP32 LB6 N60 LB/6
+DB/8 LB6 N60 LB6 DP32 LB6 DP20 DPi96 G/8
 
-One full sett is **922 threads**.
+One full sett is **468 threads**.
+
+<p class="recorded-note">The source recorded this cloth as DB/8 LB6 N60 LB6 DP32 LB6 DP20 DPi96 G8 DPi96 DP20 LB6 DP32 LB6 N60 LB/6 — 922 threads; it folds to the canonical 468-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -60,7 +62,7 @@ One full sett is **922 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 LB6 N60 LB6 DP32 LB6 DP20 DPi96 G8 DPi96 DP20 LB6 DP32 LB6 N60 LB/6 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 LB6 N60 LB6 DP32 LB6 DP20 DPi96 G/8 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

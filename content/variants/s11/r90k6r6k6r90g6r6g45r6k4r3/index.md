@@ -8,10 +8,10 @@ crumbs:
 - name: "MacPherson-Grant"
   url: "/tartans/m/ma/macpherson-grant/"
 - name: "MacPherson-Grant"
-  url: "/setts/r90k6r6k6r90g6r6g45r6k4r3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r90k6r6k6r90g6r6g45r6k4r3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/macpherson-grant/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRGRGRKRKR](/stripes/rkrgrgrkrkr/).
 
 Part of the [MacPherson-Grant](/tartans/m/ma/macpherson-grant/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2726](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2003 — MacPherson-Grant (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2726">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Threadcount estimated by Dr Philip Smith from a portrait of Sir George MacPherson-Grant of Ballindalloch and Invereshie, 1st Baronet of Ballindalloch, in Ballindalloch Castle.</em></li>
-<li>pre 2003 — MacPherson-Grant (Portrait) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6055">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Count taken by Phil Smith from a portrait of Sir Robert MacPherson-Grant 1st Baronet of Ballindalloch in Ballindalloch Castle. Count halved to show sett.</em></li>
+<li>pre 2003 — MacPherson-Grant (Portrait) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/6055/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Count taken by Phil Smith from a portrait of Sir Robert MacPherson-Grant 1st Baronet of Ballindalloch in Ballindalloch Castle. Count halved to show sett.</em></li>
 </ul>
 </details>
 

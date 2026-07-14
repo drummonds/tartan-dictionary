@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g71k4r4db9r4db4r36db4w4/">Rattay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g71k4r4db9r4db4r36db4w4/"><img src="/variants/s9/g71k4r4db9r4db4r36db4w4/sett.png" alt="Rattay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/">Rattray</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/"><img src="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/sett.png" alt="Rattray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rattay/">Rattay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rattay/"><img src="/variants/s9/g71k4r4db9r4db4r36db4w4/sett.png" alt="Rattay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rattray/">Rattray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rattray/"><img src="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/sett.png" alt="Rattray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

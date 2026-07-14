@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/">Aviemore Dress Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/"><img src="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/sett.png" alt="Aviemore Dress Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/av/aviemore-dress/">Aviemore Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/av/aviemore-dress/"><img src="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/sett.png" alt="Aviemore Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

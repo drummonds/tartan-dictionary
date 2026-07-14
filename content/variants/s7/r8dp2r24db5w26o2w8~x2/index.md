@@ -12,10 +12,10 @@ crumbs:
 - name: "Lennox Dress"
   url: "/tartans/l/le/lennox-dress/"
 - name: "Lennox, dress"
-  url: "/setts/r8dp2r24db5w26o2w8/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r8dp2r24db5w26o2w8/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/l/le/lennox-dress/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBWRW](/stripes/rbrbwrw/).
 
 Part of the [Lennox Dress](/tartans/l/le/lennox-dress/) tartan — the named design grouping this sett with its other cloths.

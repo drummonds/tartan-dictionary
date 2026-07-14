@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/dg3w5dg3db6dg5db1dg12r1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/gwgbgbgr/">GWGBGBGR</a></nav>
 Its design is pattern [GWGBGBGR](/stripes/gwgbgbgr/) — the page of every tartan sharing this colour sequence.
 
 The **Hasegawa** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Hasegawa** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg3w5dg3db6dg5db1dg12r1/">Hasegawa</a></td><td><code>DG/6 W10 DG6 DB12 DG10 DB2 DG24 R/2</code></td><td>136</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg3w5dg3db6dg5db1dg12r1/"><img src="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/sett.png" alt="Hasegawa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/">Hasegawa</a></td><td><code>DG/6 W10 DG6 DB12 DG10 DB2 DG24 R/2</code></td><td>136</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><img src="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/sett.png" alt="Hasegawa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="291.9" cy="167.2" r="4" fill="#3465a4"><title>St. Patrick's Krewe</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="246.6" cy="184.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="222.7" cy="195.7" r="4" fill="#3465a4"><title>Strath Hallidale</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.6" cy="200.5" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s9/r2db10g1db2g1db2g8r1g2~x4/"><circle cx="303.1" cy="204.1" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="351.3" cy="196.2" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><circle cx="407.3" cy="188.2" r="4" fill="#3465a4"><title>Glenlivet Check</title></circle></a><a href="/variants/s10/db17g5db5g17db4g17k2dy2k2g5~x2/"><circle cx="285.5" cy="190.1" r="4" fill="#3465a4"><title>Hueg</title></circle></a><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><circle cx="224.8" cy="198.6" r="4" fill="#3465a4"><title>Harkness</title></circle></a><circle cx="318.7" cy="193.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="315.3" cy="178.2" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="292.6" cy="167.2" r="4" fill="#3465a4"><title>St. Patrick's Krewe</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="247.2" cy="184.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="223.2" cy="195.7" r="4" fill="#3465a4"><title>Strath Hallidale</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="326.2" cy="200.6" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s9/r2db10g1db2g1db2g8r1g2~x4/"><circle cx="303.7" cy="204.2" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="351.9" cy="196.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><circle cx="408.1" cy="188.5" r="4" fill="#3465a4"><title>Glenlivet Check</title></circle></a><a href="/variants/s10/db17g5db5g17db4g17k2dy2k2g5~x2/"><circle cx="286.2" cy="190.1" r="4" fill="#3465a4"><title>Hueg</title></circle></a><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><circle cx="225.1" cy="198.5" r="4" fill="#3465a4"><title>Harkness</title></circle></a><circle cx="319.4" cy="193.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

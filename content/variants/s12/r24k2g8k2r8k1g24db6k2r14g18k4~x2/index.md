@@ -10,10 +10,10 @@ crumbs:
 - name: "Grant, Piper to the Laird of"
   url: "/tartans/g/gr/grant-piper-to-the-laird-of/"
 - name: "Grant, Piper to the Laird of"
-  url: "/setts/r24k2g8k2r8k1g24db6k2r14g18k4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/r24k2g8k2r8k1g24db6k2r14g18k4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gr/grant-piper-to-the-laird-of/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRKBGKRKGKR](/stripes/kgrkbgkrkgkr/).
 
 Part of the [Grant, Piper to the Laird of](/tartans/g/gr/grant-piper-to-the-laird-of/) tartan — the named design grouping this sett with its other cloths.

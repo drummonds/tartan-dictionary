@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/">Caledonian Brewery Corporate Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><img src="/variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/sett.png" alt="Caledonian Brewery Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/caledonian-brewery/">Caledonian Brewery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/caledonian-brewery/"><img src="/variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/sett.png" alt="Caledonian Brewery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

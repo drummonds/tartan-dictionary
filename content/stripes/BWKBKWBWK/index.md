@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/">Provincewide HOG Chapter</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/"><img src="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/sett.png" alt="Provincewide HOG Chapter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/pr/provincewide-hog-chapter/">Provincewide HOG Chapter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/provincewide-hog-chapter/"><img src="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/sett.png" alt="Provincewide HOG Chapter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/">Glassary (Initial)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/"><img src="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/sett.png" alt="Glassary (Initial) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glassary/">Glassary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glassary/"><img src="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/sett.png" alt="Glassary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/db4r1db18n18lb1~x4/">Ardee (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db4r1db18n18lb1~x4/"><img src="/variants/s5/db4r1db18n18lb1~x4/sett.png" alt="Ardee (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/ardee/">Ardee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/ardee/"><img src="/variants/s5/db4r1db18n18lb1~x4/sett.png" alt="Ardee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

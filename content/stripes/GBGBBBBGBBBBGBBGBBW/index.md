@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/lb4dr10db6dg10db6dr22g6dr4db22dr4db22dg36db22dr4db22dr4g6db10g3/">Jorgensen of Taasinge (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/lb4dr10db6dg10db6dr22g6dr4db22dr4db22dg36db22dr4db22dr4g6db10g3/"><img src="/variants/s19/lb4dr10db6dg10db6dr22g6dr4db22dr4db22dg36db22dr4db22dr4g6db10g3/sett.png" alt="Jorgensen of Taasinge (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s19/lb4dr10dt6dg10dt6dr22g6dr4dt22dr4dt22dg36dt22dr4dt22dr4g6dt10g3~dt1103265-dg1704144/">Jrgensen of Taasingee (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/lb4dr10dt6dg10dt6dr22g6dr4dt22dr4dt22dg36dt22dr4dt22dr4g6dt10g3~dt1103265-dg1704144/"><img src="/variants/s19/lb4dr10dt6dg10dt6dr22g6dr4dt22dr4dt22dg36dt22dr4dt22dr4g6dt10g3~dt1103265-dg1704144/sett.png" alt="Jrgensen of Taasingee (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jo/jorgensen-of-taasinge/">Jorgensen of Taasinge</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jo/jorgensen-of-taasinge/"><img src="/variants/s19/lb4dr10db6dg10db6dr22g6dr4db22dr4db22dg36db22dr4db22dr4g6db10g3/sett.png" alt="Jorgensen of Taasinge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/j/jr/jrgensen-of-taasingee/">Jrgensen of Taasingee</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/j/jr/jrgensen-of-taasingee/"><img src="/variants/s19/lb4dr10dt6dg10dt6dr22g6dr4dt22dr4dt22dg36dt22dr4dt22dr4g6dt10g3~dt1103265-dg1704144/sett.png" alt="Jrgensen of Taasingee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

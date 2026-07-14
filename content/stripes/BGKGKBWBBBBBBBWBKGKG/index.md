@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/">Smithers</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><img src="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/sett.png" alt="Smithers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sm/smithers/">Smithers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sm/smithers/"><img src="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/sett.png" alt="Smithers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

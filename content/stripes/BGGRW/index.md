@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/w8r6y2g34db3~x2/">Milling-Christensen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/w8r6y2g34db3~x2/"><img src="/variants/s5/w8r6y2g34db3~x2/sett.png" alt="Milling-Christensen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mi/milling-christensen/">Milling-Christensen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mi/milling-christensen/"><img src="/variants/s5/w8r6y2g34db3~x2/sett.png" alt="Milling-Christensen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

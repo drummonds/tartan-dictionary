@@ -12,10 +12,10 @@ crumbs:
 - name: "Morddyn"
   url: "/tartans/m/mo/morddyn-2/"
 - name: "Morddyn"
-  url: "/setts/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/morddyn-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGYWWRWBWBGYGWRWWBWYWWBW](/stripes/bygywwrwbwbgygwrwwbwywwbw/).
 
 Part of the [Morddyn](/tartans/m/mo/morddyn-2/) tartan — the named design grouping this sett with its other cloths.

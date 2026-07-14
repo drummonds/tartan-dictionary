@@ -12,10 +12,10 @@ crumbs:
 - name: "Veere"
   url: "/tartans/v/ve/veere/"
 - name: "Veere"
-  url: "/setts/w7k11lb3db9g19y3k22db9lb3k3db6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w7k11lb3db9g19y3k22db9lb3k3db6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/v/ve/veere/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBKGGBWKW](/stripes/bkwbkggbwkw/).
 
 Part of the [Veere](/tartans/v/ve/veere/) tartan — the named design grouping this sett with its other cloths.

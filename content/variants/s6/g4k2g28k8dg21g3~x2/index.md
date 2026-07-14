@@ -12,10 +12,10 @@ crumbs:
 - name: "Dunbar Hunting"
   url: "/tartans/d/du/dunbar-hunting/"
 - name: "Dunbar Hunting"
-  url: "/setts/g4k2g28k8dg21g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g4k2g28k8dg21g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunbar-hunting/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGKG](/stripes/ggkgkg/).
 
 Part of the [Dunbar Hunting](/tartans/d/du/dunbar-hunting/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1017](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1986 — Dunbar Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1017">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Designed in 1986 and approved by the Chief of the Clan and Name, Col. Dr. Sir James Dunbar of Mochrum, Bt. but not recorded until 2000. Remarkable similarity to #776 (original Scottish Tartans Authority reference) - John Telfer Dunbar Hunting. The woven sample is not of the same proportions as this thread count.</em></li>
-<li>1986 — Dunbar Htg (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4744">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Designed in 1986 and approved by the Chief of the Clan and Name, Col. Dr. Sir James Dunbar of Mochrum, Bt. but not recorded until 2000. Remarkable similarity to 776 - John Telfer Dunbar Hunting. The woven sample is not of the same proportions as this thread count.</em></li>
+<li>1986 — Dunbar Htg (Clan) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4744/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Designed in 1986 and approved by the Chief of the Clan and Name, Col. Dr. Sir James Dunbar of Mochrum, Bt. but not recorded until 2000. Remarkable similarity to 776 - John Telfer Dunbar Hunting. The woven sample is not of the same proportions as this thread count.</em></li>
 </ul>
 </details>
 

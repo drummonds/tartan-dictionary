@@ -12,10 +12,10 @@ crumbs:
 - name: "Dunoon"
   url: "/tartans/d/du/dunoon/"
 - name: "Dunoon"
-  url: "/setts/w2g13b13w2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w2g13b13w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/du/dunoon/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGW](/stripes/wbgw/).
 
 Part of the [Dunoon](/tartans/d/du/dunoon/) tartan — the named design grouping this sett with its other cloths.

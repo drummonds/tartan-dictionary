@@ -8,10 +8,10 @@ crumbs:
 - name: "Wingtip"
   url: "/tartans/w/wi/wingtip/"
 - name: "Wingtip"
-  url: "/setts/db11lb1k3w1lg4dr5y1db5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db11lb1k3w1lg4dr5y1db5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/wi/wingtip/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBYWKWB](/stripes/bgbywkwb/).
 
 Part of the [Wingtip](/tartans/w/wi/wingtip/) tartan — the named design grouping this sett with its other cloths.

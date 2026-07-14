@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/">Hot Boontjie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><img src="/variants/s8/dr4g4k1w2k1g18k32r4~x2/sett.png" alt="Hot Boontjie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/ho/hot-boontjie/">Hot Boontjie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ho/hot-boontjie/"><img src="/variants/s8/dr4g4k1w2k1g18k32r4~x2/sett.png" alt="Hot Boontjie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

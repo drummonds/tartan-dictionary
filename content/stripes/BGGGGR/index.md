@@ -28,11 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db18y2dy6y2dy19r3/">Balfour #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db18y2dy6y2dy19r3/"><img src="/variants/s6/db18y2dy6y2dy19r3~x2/sett.png" alt="Balfour #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/db30y3dy11y3g33r6~x2/">Balfour Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/db30y3dy11y3g33r6~x2/"><img src="/variants/s6/db30y3dy11y3g33r6~x2/sett.png" alt="Balfour Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/balfour-hunting/">Balfour Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/balfour-hunting/"><img src="/variants/s6/db18y2dy6y2dy19r3~x2/sett.png" alt="Balfour Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

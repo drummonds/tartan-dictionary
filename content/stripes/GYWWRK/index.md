@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k3o24lb16w11lo1g3~x2/">Bro-sant-Malou (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k3o24lb16w11lo1g3~x2/"><img src="/variants/s6/k3o24lb16w11lo1g3~x2/sett.png" alt="Bro-sant-Malou (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/bro-sant-malou-2/">Bro-sant-Malou</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/bro-sant-malou-2/"><img src="/variants/s6/k3o24lb16w11lo1g3~x2/sett.png" alt="Bro-sant-Malou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

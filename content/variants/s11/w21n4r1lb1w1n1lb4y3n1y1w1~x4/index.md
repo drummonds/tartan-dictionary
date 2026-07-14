@@ -10,10 +10,10 @@ crumbs:
 - name: "Glen Ross"
   url: "/tartans/g/gl/glen-ross/"
 - name: "Glen Ross (WCWM - 1)"
-  url: "/setts/w21n4r1lb1w1n1lb4y3n1y1w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w21n4r1lb1w1n1lb4y3n1y1w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/g/gl/glen-ross/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRWWBWGBGW](/stripes/wbrwwbwgbgw/).
 
 Part of the [Glen Ross](/tartans/g/gl/glen-ross/) tartan — the named design grouping this sett with its other cloths.
@@ -26,7 +26,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1395](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1989 — Glen Ross (WCWM - 1) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1395">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C4C4C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C4C4C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#606060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #606060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#EC3800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OO #EC3800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#787878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LNN #787878"></span><br><em>From WCWM swatch held by Lochcarron.</em></li>
-<li>pre 1989 — Glen Ross (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5021">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C4C4C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C4C4C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#606060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #606060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#EC3800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OO #EC3800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#787878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LNN #787878"></span><br><em>Glen Ross (WCWM - 1) From WCWM swatch held by Lochcarron.</em></li>
+<li>pre 1989 — Glen Ross (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/5021/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C4C4C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #C4C4C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#606060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NN #606060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#EC3800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OO #EC3800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#787878;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LNN #787878"></span><br><em>Glen Ross (WCWM - 1) From WCWM swatch held by Lochcarron.</em></li>
 </ul>
 </details>
 

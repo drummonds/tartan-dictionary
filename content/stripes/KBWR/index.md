@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/k5n24w24r5~x2/">City of London (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k5n24w24r5~x2/"><img src="/variants/s4/k5n24w24r5~x2/sett.png" alt="City of London (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ci/city-of-london/">City of London</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ci/city-of-london/"><img src="/variants/s4/k5n24w24r5~x2/sett.png" alt="City of London sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/k19db18w9r3~x4/">Raven (Fashion)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k19db18w9r3~x4/"><img src="/variants/s4/k19db18w9r3~x4/sett.png" alt="Raven (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/raven/">Raven</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/raven/"><img src="/variants/s4/k19db18w9r3~x4/sett.png" alt="Raven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

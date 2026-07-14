@@ -7,11 +7,11 @@ crumbs:
   url: "/"
 - name: "Scotch Whisky Heritage"
   url: "/tartans/s/sc/scotch-whisky-heritage/"
-- name: "Scotch Whisky Heritage Centre"
-  url: "/setts/db73g16db10r8db10k4db10w2/"
+- name: "Scotch Whisky Heritage Corporate Tartan"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db73g16db10r8db10k4db10w2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sc/scotch-whisky-heritage/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBKBW](/stripes/bgbrbkbw/).
 
 Part of the [Scotch Whisky Heritage](/tartans/s/sc/scotch-whisky-heritage/) tartan — the named design grouping this sett with its other cloths.

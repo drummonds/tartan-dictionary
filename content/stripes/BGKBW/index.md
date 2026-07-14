@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/dp8y6k2n1w1~x8/">Ballater Victoria Week</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dp8y6k2n1w1~x8/"><img src="/variants/s5/dp8y6k2n1w1~x8/sett.png" alt="Ballater Victoria Week sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/ballater-victoria-week/">Ballater Victoria Week</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/ballater-victoria-week/"><img src="/variants/s5/dp8y6k2n1w1~x8/sett.png" alt="Ballater Victoria Week sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/dr6dg13k5dr20w3~x2/">Ryutokukan Junior High School (Corp)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/dr6dg13k5dr20w3~x2/"><img src="/variants/s5/dr6dg13k5dr20w3~x2/sett.png" alt="Ryutokukan Junior High School (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ry/ryutokukan-junior-high-school/">Ryutokukan Junior High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ry/ryutokukan-junior-high-school/"><img src="/variants/s5/dr6dg13k5dr20w3~x2/sett.png" alt="Ryutokukan Junior High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

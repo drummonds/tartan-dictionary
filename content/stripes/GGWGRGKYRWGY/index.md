@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/ly3g2w2r2ly12k2g12r2g2lb2g2y2/">Arizona</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/ly3g2w2r2ly12k2g12r2g2lb2g2y2/"><img src="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4~ly2503076/sett.png" alt="Arizona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/ar/arizona/">Arizona</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ar/arizona/"><img src="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4~ly2503076/sett.png" alt="Arizona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

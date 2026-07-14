@@ -12,10 +12,10 @@ crumbs:
 - name: "Montrose"
   url: "/tartans/m/mo/montrose-2/"
 - name: "Montrose (Macnaughton variation)"
-  url: "/setts/db1k1dr12g12k6db5dr12k1db1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1k1dr12g12k6db5dr12k1db1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/mo/montrose-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBKGBKB](/stripes/bkbbkgbkb/).
 
 Part of the [Montrose](/tartans/m/mo/montrose-2/) tartan — the named design grouping this sett with its other cloths.

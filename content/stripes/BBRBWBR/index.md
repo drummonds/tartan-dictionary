@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db2b2r1b16w1db20r2/">British American School (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db2b2r1b16w1db20r2/"><img src="/variants/s7/db2b2r1b16w1db20r2~x2~db1406275/sett.png" alt="British American School (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/br/british-american-school/">British American School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/br/british-american-school/"><img src="/variants/s7/db2b2r1b16w1db20r2~x2~db1406275/sett.png" alt="British American School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

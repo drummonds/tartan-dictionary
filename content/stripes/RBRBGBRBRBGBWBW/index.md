@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1~x2/">International School of Aberdeen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1~x2/"><img src="/variants/s15/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1~x2/sett.png" alt="International School of Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/international-school-of-aberdeen/">International School of Aberdeen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/international-school-of-aberdeen/"><img src="/variants/s15/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1~x2/sett.png" alt="International School of Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

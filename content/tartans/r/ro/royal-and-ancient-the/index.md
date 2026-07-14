@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g49db16o3db2o2db6/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brbrbg/">BRBRBG</a></nav>
 Its design is pattern [BRBRBG](/stripes/brbrbg/) — the page of every tartan sharing this colour sequence.
 
 The **Royal and Ancient, The** tartan is recorded as a single sett.
@@ -12,8 +15,8 @@ The **Royal and Ancient, The** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g49db16o3db2o2db6/">Royal and Ancient, The</a></td><td><code>G/98 DB32 O6 DB4 O4 DB/12</code></td><td>202</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g49db16o3db2o2db6/"><img src="/variants/s6/g49db16o3db2o2db6~x2/sett.png" alt="Royal and Ancient, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g49db16o3db2o2db6~x2/">Royal and Ancient, The</a></td><td><code>G/98 DB32 O6 DB4 O4 DB/12</code></td><td>202</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g49db16o3db2o2db6~x2/"><img src="/variants/s6/g49db16o3db2o2db6~x2/sett.png" alt="Royal and Ancient, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g50db20k3db2o2db5~x2/"><circle cx="382.3" cy="142.6" r="4" fill="#3465a4"><title>St Andrews Hotel, Golf Resort, and SPA</title></circle></a><a href="/variants/s6/g49db16dy3db2dy2db6~x2/"><circle cx="464.0" cy="193.0" r="4" fill="#3465a4"><title>Royal &amp;</title></circle></a><a href="/variants/s6/g45db14k3db2dy2db5~x2/"><circle cx="390.9" cy="144.8" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel, Golf Course and Spa</title></circle></a><a href="/variants/s6/g25db10dy3db2dy2db6~x2/"><circle cx="373.3" cy="237.7" r="4" fill="#3465a4"><title>Inkster</title></circle></a><a href="/variants/s5/g18db9k1db1w1~x4/"><circle cx="352.4" cy="166.5" r="4" fill="#3465a4"><title>Irvine</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="336.7" cy="166.2" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/variants/s5/g44db9r2db9g2~x2/"><circle cx="482.6" cy="189.9" r="4" fill="#3465a4"><title>Tyrconnell</title></circle></a><a href="/variants/s5/g12lo1db8k1db1~x4/"><circle cx="296.9" cy="192.0" r="4" fill="#3465a4"><title>Rowan</title></circle></a><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="336.2" cy="187.1" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/variants/s6/t136db45w7db4r4db16/"><circle cx="463.1" cy="152.8" r="4" fill="#3465a4"><title>S.C.O.T.S</title></circle></a><circle cx="444.4" cy="177.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/g50db20k3db2o2db5~x2/"><circle cx="383.2" cy="142.8" r="4" fill="#3465a4"><title>St Andrews Hotel, Golf Resort, and SPA</title></circle></a><a href="/variants/s6/g49db16dy3db2dy2db6~x2/"><circle cx="464.8" cy="193.3" r="4" fill="#3465a4"><title>Royal &amp;</title></circle></a><a href="/variants/s6/g45db14k3db2dy2db5~x2/"><circle cx="391.9" cy="145.0" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel, Golf Course and Spa</title></circle></a><a href="/variants/s6/g25db10dy3db2dy2db6~x2/"><circle cx="373.8" cy="237.9" r="4" fill="#3465a4"><title>Inkster</title></circle></a><a href="/variants/s5/g18db9k1db1w1~x4/"><circle cx="353.3" cy="166.7" r="4" fill="#3465a4"><title>Irvine</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="337.3" cy="166.3" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/variants/s5/g44db9r2db9g2~x2/"><circle cx="483.6" cy="190.3" r="4" fill="#3465a4"><title>Tyrconnell</title></circle></a><a href="/variants/s5/g12lo1db8k1db1~x4/"><circle cx="297.6" cy="192.1" r="4" fill="#3465a4"><title>Rowan</title></circle></a><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="337.0" cy="187.3" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/variants/s6/t136db45w7db4r4db16/"><circle cx="464.1" cy="153.1" r="4" fill="#3465a4"><title>S.C.O.T.S</title></circle></a><circle cx="445.3" cy="177.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

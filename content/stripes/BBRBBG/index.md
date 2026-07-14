@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/y1dr1dp2r1db1b1~x10~db1108266-b1511266/">Lytley alias Parsons Formal (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/y1dr1dp2r1db1b1~x10~db1108266-b1511266/"><img src="/variants/s6/y1dr1dp2r1db1b1~x10~db1108266-b1511266/sett.png" alt="Lytley alias Parsons Formal (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/ly/lytley-alias-parsons-formal/">Lytley alias Parsons Formal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/ly/lytley-alias-parsons-formal/"><img src="/variants/s6/y1dr1dp2r1db1b1~x10~db1108266-b1511266/sett.png" alt="Lytley alias Parsons Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -8,10 +8,10 @@ crumbs:
 - name: "Spanish shirt"
   url: "/tartans/s/sp/spanish-shirt/"
 - name: "Spanish shirt"
-  url: "/setts/w7r1w14k6y2k6g14r2g10y1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/w7r1w14k6y2k6g14r2g10y1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sp/spanish-shirt/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGKGKWRW](/stripes/ggrgkgkwrw/).
 
 Part of the [Spanish shirt](/tartans/s/sp/spanish-shirt/) tartan — the named design grouping this sett with its other cloths.

@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s16/r6t25dbi10db1dbi5db2dbi4db3dbi3db3dbi2db4dbi1db16lb6db3~x2~t2503227-dbi1404245-db1106275-lb3200000/">Help for Heroes (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s16/r6t25dbi10db1dbi5db2dbi4db3dbi3db3dbi2db4dbi1db16lb6db3~x2~t2503227-dbi1404245-db1106275-lb3200000/"><img src="/variants/s16/r6t25dbi10db1dbi5db2dbi4db3dbi3db3dbi2db4dbi1db16lb6db3~x2~t2503227-dbi1404245-db1106275-lb3200000/sett.png" alt="Help for Heroes (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/h/he/help-for-heroes-3/">Help for Heroes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/he/help-for-heroes-3/"><img src="/variants/s16/r6t25dbi10db1dbi5db2dbi4db3dbi3db3dbi2db4dbi1db16lb6db3~x2~t2503227-dbi1404245-db1106275-lb3200000/sett.png" alt="Help for Heroes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

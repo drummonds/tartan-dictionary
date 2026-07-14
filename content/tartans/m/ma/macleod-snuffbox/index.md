@@ -6,7 +6,10 @@ crumbs:
   url: "/"
 - name: "Clan MacLeod"
   url: "/clan/macleod/"
+aliases:
+- "/setts/k1ly12r1ly2k4r1k4ly2k1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/kykrkyryk/">KYKRKYRYK</a></nav>
 A tartan of [Clan MacLeod](/clan/macleod/).
 Its design is pattern [KYKRKYRYK](/stripes/kykrkyryk/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacLeod Snuffbox** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k1ly12r1ly2k4r1k4ly2k1/">MacLeod Snuffbox</a></td><td><code>K/4 LY48 R4 LY8 K16 R4 K16 LY8 K/4</code></td><td>216</td><td>1829</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1ly12r1ly2k4r1k4ly2k1/"><img src="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/sett.png" alt="MacLeod Snuffbox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/">MacLeod Snuffbox</a></td><td><code>K/4 LY48 R4 LY8 K16 R4 K16 LY8 K/4</code></td><td>216</td><td>1829</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/"><img src="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/sett.png" alt="MacLeod Snuffbox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -31,6 +34,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k1y12r1y2k4r1k4y2k1~x4/"><circle cx="298.8" cy="142.8" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s10/k3y3lr3y3k12y24k1y3k3w3~x2/"><circle cx="291.2" cy="100.3" r="4" fill="#3465a4"><title>Bruichladdich</title></circle></a><a href="/variants/s10/w2k13ly13r2ly13k13w2k6ly6r1~x2/"><circle cx="194.6" cy="163.3" r="4" fill="#3465a4"><title>Westwood MacStone</title></circle></a><a href="/variants/s10/dy1w2k5dy3k1ly5k1ly11k1ly1~x4/"><circle cx="222.2" cy="141.8" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="330.3" cy="162.6" r="4" fill="#3465a4"><title>Baileville</title></circle></a><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="234.0" cy="148.1" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/"><circle cx="285.6" cy="137.9" r="4" fill="#3465a4"><title>Atlas Textile</title></circle></a><a href="/variants/s7/r8ly6k11ly6k11ly30r3~x2/"><circle cx="256.0" cy="188.9" r="4" fill="#3465a4"><title>Blackberry</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="263.2" cy="186.5" r="4" fill="#3465a4"><title>Porter Drinkers</title></circle></a><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/"><circle cx="287.5" cy="108.1" r="4" fill="#3465a4"><title>Cardiff City Football Club</title></circle></a><circle cx="276.8" cy="139.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s9/k1y12r1y2k4r1k4y2k1~x4/"><circle cx="299.7" cy="142.9" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s10/k3y3lr3y3k12y24k1y3k3w3~x2/"><circle cx="292.1" cy="100.3" r="4" fill="#3465a4"><title>Bruichladdich</title></circle></a><a href="/variants/s10/w2k13ly13r2ly13k13w2k6ly6r1~x2/"><circle cx="195.1" cy="163.2" r="4" fill="#3465a4"><title>Westwood MacStone</title></circle></a><a href="/variants/s10/dy1w2k5dy3k1ly5k1ly11k1ly1~x4/"><circle cx="222.9" cy="141.8" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="331.3" cy="162.8" r="4" fill="#3465a4"><title>Baileville</title></circle></a><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="234.7" cy="148.0" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/"><circle cx="286.5" cy="138.0" r="4" fill="#3465a4"><title>Atlas Textile</title></circle></a><a href="/variants/s7/r8ly6k11ly6k11ly30r3~x2/"><circle cx="256.6" cy="188.9" r="4" fill="#3465a4"><title>Blackberry</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="263.9" cy="186.5" r="4" fill="#3465a4"><title>Porter Drinkers</title></circle></a><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/"><circle cx="288.4" cy="108.0" r="4" fill="#3465a4"><title>Cardiff City Football Club</title></circle></a><circle cx="277.7" cy="139.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

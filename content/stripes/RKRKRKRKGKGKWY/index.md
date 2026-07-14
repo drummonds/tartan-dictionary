@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/ly70w3k2y1k2y1k5r1k5r2k7r2k7r3~x2/">Desert</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/ly70w3k2y1k2y1k5r1k5r2k7r2k7r3~x2/"><img src="/variants/s14/ly70w3k2y1k2y1k5r1k5r2k7r2k7r3~x2/sett.png" alt="Desert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/desert/">Desert</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/desert/"><img src="/variants/s14/ly70w3k2y1k2y1k5r1k5r2k7r2k7r3~x2/sett.png" alt="Desert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

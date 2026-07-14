@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/">Kerry, County</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/"><img src="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/sett.png" alt="Kerry, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ke/kerry-county/">Kerry, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kerry-county/"><img src="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/sett.png" alt="Kerry, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

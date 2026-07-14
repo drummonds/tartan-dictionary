@@ -12,10 +12,10 @@ crumbs:
 - name: "Sanix"
   url: "/tartans/s/sa/sanix-2/"
 - name: "Sanix Muted"
-  url: "/setts/dr3dg40dy30dg3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dr3dg40dy30dg3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/s/sa/sanix-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGG](/stripes/bggg/).
 
 Part of the [Sanix](/tartans/s/sa/sanix-2/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4823](ht
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/12/1999 — Sanix Muted (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4823">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><br><em>Designed by Claire Donaldson of House of Edgar for a Japanese clothing manufacturer. The 'muted' does not signify a muted version of the Sanix Modern but a different tartan.</em></li>
-<li>Dec. 1999 — Sanix Muted (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2644">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><br><em>Designed by Claire Donaldson of House of Edgar for a Japanese clothing manufacturer. The 'muted' does not signify a muted version of the Sanix Modern but a different tartan.</em></li>
+<li>Dec. 1999 — Sanix Muted (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2644/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#603800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OT #603800"></span><br><em>Designed by Claire Donaldson of House of Edgar for a Japanese clothing manufacturer. The 'muted' does not signify a muted version of the Sanix Modern but a different tartan.</em></li>
 </ul>
 </details>
 

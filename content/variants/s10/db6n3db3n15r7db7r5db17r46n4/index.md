@@ -8,17 +8,17 @@ crumbs:
 - name: "Harry"
   url: "/tartans/h/ha/harry/"
 - name: "Harry (Welsh Name)"
-  url: "/setts/db6n3db3n15r7db7r5db17r46n4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db6n3db3n15r7db7r5db17r46n4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harry/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBRBRBRB](/stripes/bbbbrbrbrb/).
 
 Part of the [Harry](/tartans/h/ha/harry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7679](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7679)
+Original link <code>http://www.tartansauthority.com/tartan-ferret/display/7679/</code> — retired · [Internet Archive copy](https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7679/*)
 
 ## Provenance
 
@@ -27,7 +27,7 @@ Earliest known date: pre 2008 The tartan for this Welsh surname and its variatio
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>pre 2008 — Harry (Welsh Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7679">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#002C48;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #002C48"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>The tartan for this Welsh surname and its variations, is commercially accepted as a tartan or ?plaid? in Wales, this is one of the tartans actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant ?stripe?, vertically noticeable in the finished Kilt, or ?Cilt? in Wales. Available from Wales Tartan Centres in Swansea, +44 (0)1792 474685.</em></li>
+<li>pre 2008 — Harry (Welsh Name) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/7679/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#002C48;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #002C48"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>The tartan for this Welsh surname and its variations, is commercially accepted as a tartan or ?plaid? in Wales, this is one of the tartans actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant ?stripe?, vertically noticeable in the finished Kilt, or ?Cilt? in Wales. Available from Wales Tartan Centres in Swansea, +44 (0)1792 474685.</em></li>
 <li>pre 2008 — Harry Welsh Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7679">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#002C48;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #002C48"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
 <li>undated — Harry of Wales (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5681">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#002C48;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #002C48"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Different warp & weft. The name Harry comes from the Welsh Harri, first popular as a personal name from the English and Norman kings of that name. Despite there being no known tradition of tartan in Wales, this is one of a growing series of commercial Welsh 'name' tartans marketed by the Wales Tartan Centre in Cardiff. Their inclusion in this Index does not confer upon them ANY historical or genealogical credibility and the use of the words 'of Wales' is not of conventional territorial significance but is purely to identify the source and thus avoid confusion with surnames which have a genuine tartan connection.. Designed for The Wales Tartan Centre in Cardiff by Sheila Daniel of Cambrian Woollen Mill, Powys, they're unusual in that almost all of them incorporate odd numbered threads and have quite different warp & weft, both in thread numbers and sometimes colours. This places the classification of some of them as tartans in some doubt. Welsh Tartan Centre 01792 301144</em></li>
 </ul>
@@ -43,7 +43,7 @@ Earliest known date: pre 2008 The tartan for this Welsh surname and its variatio
 </dl>
 <p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
 <ol class="capture-chain">
-<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body’s archive — its tartan-ferret record browser is retired; dead record links are shown unlinked, with an Internet Archive copy (ITI numbers are not SRT references)</small></li>
 <li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
 <li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>

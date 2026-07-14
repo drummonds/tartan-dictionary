@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/">Queen Mary RMS</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><img src="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/sett.png" alt="Queen Mary RMS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/q/qu/queen-mary-rms/">Queen Mary RMS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/q/qu/queen-mary-rms/"><img src="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/sett.png" alt="Queen Mary RMS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

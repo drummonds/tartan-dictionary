@@ -8,7 +8,11 @@ crumbs:
   url: "/clan/rainbow/"
 - name: "Rainbow"
   url: "/families/rainbow/"
+aliases:
+- "/setts/g2y1lo1r1dp1db1/"
+- "/setts/dg2y1b1r1dp1db1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbrygg/">BBRYGG</a></nav>
 A tartan of the [Rainbow](/families/rainbow/) family.
 Its design is pattern [BBRYGG](/stripes/bbrygg/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Rainbow** tartan groups 2 setts — the same named design recorded as diff
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g2y1lo1r1dp1db1/">Rainbow</a> ★</td><td><code>G/72 Y36 LO36 R36 DP36 DB/36</code></td><td>396</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g2y1lo1r1dp1db1/"><img src="/variants/s6/g2y1lo1r1dp1db1~x36/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dg2y1b1r1dp1db1/">Rainbow</a></td><td><code>DG/72 Y36 B36 R36 DP36 DB/36</code></td><td>396</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg2y1b1r1dp1db1/"><img src="/variants/s6/dg2y1b1r1dp1db1~x36/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g2y1lo1r1dp1db1~x36/">Rainbow</a> ★</td><td><code>G/72 Y36 LO36 R36 DP36 DB/36</code></td><td>396</td><td>1999</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g2y1lo1r1dp1db1~x36/"><img src="/variants/s6/g2y1lo1r1dp1db1~x36/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg2y1b1r1dp1db1~x36/">Rainbow</a></td><td><code>DG/72 Y36 B36 R36 DP36 DB/36</code></td><td>396</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg2y1b1r1dp1db1~x36/"><img src="/variants/s6/dg2y1b1r1dp1db1~x36/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db15g15lo11r17m15~x2~r2109032-m2610337/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Highland Princess, The</title></circle></a><a href="/variants/s6/r8lo4y3g6lb6dp1~x5/"><circle cx="113.1" cy="260.8" r="4" fill="#3465a4"><title>Pride, The Tartan of</title></circle></a><a href="/variants/s4/r2db2g3y2~x5/"><circle cx="93.0" cy="366.0" r="4" fill="#3465a4"><title>Sturch</title></circle></a><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/"><circle cx="155.3" cy="366.0" r="4" fill="#3465a4"><title>Dunans Rising</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="109.0" cy="279.8" r="4" fill="#3465a4"><title>Clan Haggis World</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="136.3" cy="268.2" r="4" fill="#3465a4"><title>Breon</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.1" cy="239.8" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s4/r1g3dp3w1~x4/"><circle cx="142.1" cy="304.4" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="184.9" cy="298.1" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.2" cy="309.6" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><circle cx="21.9" cy="327.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/db15g15lo11r17m15~x2~r2109032-m2610337/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Highland Princess, The</title></circle></a><a href="/variants/s6/r8lo4y3g6lb6dp1~x5/"><circle cx="112.8" cy="260.5" r="4" fill="#3465a4"><title>Pride, The Tartan of</title></circle></a><a href="/variants/s4/r2db2g3y2~x5/"><circle cx="92.5" cy="366.0" r="4" fill="#3465a4"><title>Sturch</title></circle></a><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/"><circle cx="154.9" cy="366.0" r="4" fill="#3465a4"><title>Dunans Rising</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="108.8" cy="279.5" r="4" fill="#3465a4"><title>Clan Haggis World</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="136.3" cy="268.0" r="4" fill="#3465a4"><title>Breon</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="97.0" cy="239.5" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s4/r1g3dp3w1~x4/"><circle cx="142.1" cy="304.2" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="184.9" cy="298.0" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.0" cy="309.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><circle cx="21.3" cy="327.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

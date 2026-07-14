@@ -28,12 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g70k26g12k14t3k16~x2/">Duchess of Fife</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g70k26g12k14t3k16~x2/"><img src="/variants/s6/g70k26g12k14t3k16~x2/sett.png" alt="Duchess of Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g70k26g12k14db3k16~x2/">Duchess of Fife #2</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g70k26g12k14db3k16~x2/"><img src="/variants/s6/g70k26g12k14db3k16~x2/sett.png" alt="Duchess of Fife #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g30k12g6k6db2k5~x2/">Fife, Duchess of..</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g30k12g6k6db2k5~x2/"><img src="/variants/s6/g30k12g6k6db2k5~x2/sett.png" alt="Fife, Duchess of.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/duchess-of-fife/">Duchess of Fife</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/duchess-of-fife/"><img src="/variants/s6/g70k26g12k14t3k16~x2/sett.png" alt="Duchess of Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fi/fife-duchess-of/">Fife, Duchess of..</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fi/fife-duchess-of/"><img src="/variants/s6/g30k12g6k6db2k5~x2/sett.png" alt="Fife, Duchess of.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

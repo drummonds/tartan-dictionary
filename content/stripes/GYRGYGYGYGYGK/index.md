@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/">Glen Affric Fragment Artefact Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/"><img src="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/sett.png" alt="Glen Affric Fragment Artefact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gl/glen-affric-fragment-artefact/">Glen Affric Fragment Artefact</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gl/glen-affric-fragment-artefact/"><img src="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/sett.png" alt="Glen Affric Fragment Artefact sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

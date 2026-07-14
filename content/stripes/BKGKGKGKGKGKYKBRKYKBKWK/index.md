@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/">Ferrazza (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><img src="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/sett.png" alt="Ferrazza (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/f/fe/ferrazza/">Ferrazza</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fe/ferrazza/"><img src="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/sett.png" alt="Ferrazza sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

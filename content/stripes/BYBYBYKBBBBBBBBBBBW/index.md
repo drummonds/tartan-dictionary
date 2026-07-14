@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s19/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/">Declaration of Scottish Independence</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s19/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/"><img src="/variants/s19/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/sett.png" alt="Declaration of Scottish Independence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/de/declaration-of-scottish-independence/">Declaration of Scottish Independence</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/de/declaration-of-scottish-independence/"><img src="/variants/s19/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/sett.png" alt="Declaration of Scottish Independence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

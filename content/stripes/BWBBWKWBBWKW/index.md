@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/">Westgaard Ladies' (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/"><img src="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/sett.png" alt="Westgaard Ladies' (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/westgaard-ladies/">Westgaard Ladies'</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/westgaard-ladies/"><img src="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/sett.png" alt="Westgaard Ladies' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

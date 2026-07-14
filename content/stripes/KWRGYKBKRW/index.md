@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/w3r28k1n5k1ly3g8r5w21k2~x2/">Cape Breton Polish Society</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/w3r28k1n5k1ly3g8r5w21k2~x2/"><img src="/variants/s10/w3r28k1n5k1ly3g8r5w21k2~x2/sett.png" alt="Cape Breton Polish Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/ca/cape-breton-polish-society/">Cape Breton Polish Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/cape-breton-polish-society/"><img src="/variants/s10/w3r28k1n5k1ly3g8r5w21k2~x2/sett.png" alt="Cape Breton Polish Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

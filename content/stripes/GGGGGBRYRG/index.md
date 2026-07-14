@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/g6dg2g3dg2g6db8r20ly2r3g2~x2/">Connolly Dress (Name)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/g6dg2g3dg2g6db8r20ly2r3g2~x2/"><img src="/variants/s10/g6dg2g3dg2g6db8r20ly2r3g2~x2/sett.png" alt="Connolly Dress (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/co/connolly-dress/">Connolly Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/connolly-dress/"><img src="/variants/s10/g6dg2g3dg2g6db8r20ly2r3g2~x2/sett.png" alt="Connolly Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

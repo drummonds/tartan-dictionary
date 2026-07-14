@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w216k8dg24b24w4k4r45w8r12/">Unidentified, Arisaid</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w216k8dg24b24w4k4r45w8r12/"><img src="/variants/s9/w216k8dg24b24w4k4r45w8r12/sett.png" alt="Unidentified, Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/u/un/unidentified-arisaid/">Unidentified Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/u/un/unidentified-arisaid/"><img src="/variants/s9/w216k8dg24b24w4k4r45w8r12/sett.png" alt="Unidentified Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

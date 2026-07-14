@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/lr42dr10n2dr2w2dr2lr10w6dr2w3lr2~x2/">Nevis Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/lr42dr10n2dr2w2dr2lr10w6dr2w3lr2~x2/"><img src="/variants/s11/lr42dr10n2dr2w2dr2lr10w6dr2w3lr2~x2/sett.png" alt="Nevis Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/ne/nevis-dress/">Nevis Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/ne/nevis-dress/"><img src="/variants/s11/lr42dr10n2dr2w2dr2lr10w6dr2w3lr2~x2/sett.png" alt="Nevis Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

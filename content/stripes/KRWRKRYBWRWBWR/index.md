@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/">El Dorado Hills P &amp; D (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><img src="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/sett.png" alt="El Dorado Hills P &amp; D (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/e/el/el-dorado-hills-p-d/">El Dorado Hills P &amp; D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/el/el-dorado-hills-p-d/"><img src="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/sett.png" alt="El Dorado Hills P &amp; D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

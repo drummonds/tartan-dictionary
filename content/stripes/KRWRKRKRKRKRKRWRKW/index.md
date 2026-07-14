@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/">Noordermeer Personal Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/"><img src="/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/sett.png" alt="Noordermeer Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/n/no/noordermeer/">Noordermeer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/n/no/noordermeer/"><img src="/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/sett.png" alt="Noordermeer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

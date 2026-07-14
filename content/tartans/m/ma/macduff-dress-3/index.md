@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/macduff/"
 - name: "MacDuff"
   url: "/families/macduff/"
+aliases:
+- "/setts/w4k1w4g6k4w5r1lb2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wkwgkwrw/">WKWGKWRW</a></nav>
 A tartan of the [MacDuff](/families/macduff/) family.
 Its design is pattern [WKWGKWRW](/stripes/wkwgkwrw/) — the page of every tartan sharing this colour sequence.
 
@@ -17,8 +20,8 @@ The **MacDuff Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w4k1w4g6k4w5r1lb2/">MacDuff Dress</a></td><td><code>W/8 K2 W8 G12 K8 W10 R2 LB/4</code></td><td>96</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/w4k1w4g6k4w5r1lb2/"><img src="/variants/s8/w4k1w4g6k4w5r1lb2~x2/sett.png" alt="MacDuff Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w4k1w4g6k4w5r1lb2~x2/">MacDuff Dress</a></td><td><code>W/8 K2 W8 G12 K8 W10 R2 LB/4</code></td><td>96</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w4k1w4g6k4w5r1lb2~x2/"><img src="/variants/s8/w4k1w4g6k4w5r1lb2~x2/sett.png" alt="MacDuff Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -37,6 +40,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="169.6" cy="207.8" r="4" fill="#3465a4"><title>Birnham</title></circle></a><a href="/variants/s8/k6w11lb11r13db17w10k2w4~x2/"><circle cx="66.4" cy="211.6" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo Dress</title></circle></a><a href="/variants/s8/w16db4k12g4w6lo4w11y7~x2/"><circle cx="96.7" cy="213.3" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/"><circle cx="95.9" cy="214.3" r="4" fill="#3465a4"><title>MacLaren Albino</title></circle></a><a href="/variants/s8/w16db4k12dg4w6lo4w11y7~x2/"><circle cx="96.6" cy="212.2" r="4" fill="#3465a4"><title>MacLaren Dress</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="115.3" cy="162.6" r="4" fill="#3465a4"><title>Hackett, William</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/"><circle cx="99.3" cy="216.1" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="115.6" cy="168.3" r="4" fill="#3465a4"><title>Alexander Brothers</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.6" cy="152.5" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="123.2" cy="177.1" r="4" fill="#3465a4"><title>Barbour</title></circle></a><circle cx="113.8" cy="216.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="169.9" cy="207.5" r="4" fill="#3465a4"><title>Birnham</title></circle></a><a href="/variants/s8/k6w11lb11r13db17w10k2w4~x2/"><circle cx="66.4" cy="211.2" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo Dress</title></circle></a><a href="/variants/s8/w16db4k12g4w6lo4w11y7~x2/"><circle cx="96.9" cy="212.9" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/"><circle cx="96.1" cy="213.9" r="4" fill="#3465a4"><title>MacLaren Albino</title></circle></a><a href="/variants/s8/w16db4k12dg4w6lo4w11y7~x2/"><circle cx="96.8" cy="211.8" r="4" fill="#3465a4"><title>MacLaren Dress</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="115.6" cy="162.3" r="4" fill="#3465a4"><title>Hackett, William</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/"><circle cx="99.4" cy="215.7" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="115.8" cy="167.9" r="4" fill="#3465a4"><title>Alexander Brothers</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.9" cy="152.2" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="123.4" cy="176.8" r="4" fill="#3465a4"><title>Barbour</title></circle></a><circle cx="114.0" cy="215.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

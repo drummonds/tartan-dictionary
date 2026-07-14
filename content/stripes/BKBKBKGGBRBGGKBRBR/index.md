@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/dp6k2dp6k12dp3k13y2g18dp3r3dp3g18y2k13dp15r5dp3r5~x2/">Graham of Airth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/dp6k2dp6k12dp3k13y2g18dp3r3dp3g18y2k13dp15r5dp3r5~x2/"><img src="/variants/s18/dp6k2dp6k12dp3k13y2g18dp3r3dp3g18y2k13dp15r5dp3r5~x2/sett.png" alt="Graham of Airth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/g/gr/graham-of-airth/">Graham of Airth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-of-airth/"><img src="/variants/s18/dp6k2dp6k12dp3k13y2g18dp3r3dp3g18y2k13dp15r5dp3r5~x2/sett.png" alt="Graham of Airth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

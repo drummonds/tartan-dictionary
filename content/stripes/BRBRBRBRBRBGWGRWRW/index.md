@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/">Bahrain, Royal</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/"><img src="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/sett.png" alt="Bahrain, Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/b/ba/bahrain-royal/">Bahrain, Royal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/ba/bahrain-royal/"><img src="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/sett.png" alt="Bahrain, Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,7 +4,11 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/g21k14g9db21k3db12dp3/"
+- "/setts/dg21k14dg9b21k3b12dp3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bbkbgkg/">BBKBGKG</a></nav>
 Its design is pattern [BBKBGKG](/stripes/bbkbgkg/) — the page of every tartan sharing this colour sequence.
 
 The **Scotsman** tartan groups 2 setts — the same named design recorded as different cloths
@@ -13,10 +17,10 @@ The **Scotsman** tartan groups 2 setts — the same named design recorded as dif
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g21k14g9db21k3db12dp3/">Scotsman</a> ★</td><td><code>G/42 K28 G18 DB42 K6 DB24 DP/6</code></td><td>284</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/g21k14g9db21k3db12dp3/"><img src="/variants/s7/g21k14g9db21k3db12dp3~x2/sett.png" alt="Scotsman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dg21k14dg9b21k3b12dp3/">Scotsman</a></td><td><code>DG/42 K28 DG18 B42 K6 B24 DP/6</code></td><td>284</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg21k14dg9b21k3b12dp3/"><img src="/variants/s7/dg21k14dg9b21k3b12dp3~x2/sett.png" alt="Scotsman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g21k14g9db21k3db12dp3~x2/">Scotsman</a> ★</td><td><code>G/42 K28 G18 DB42 K6 DB24 DP/6</code></td><td>284</td><td>1999</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g21k14g9db21k3db12dp3~x2/"><img src="/variants/s7/g21k14g9db21k3db12dp3~x2/sett.png" alt="Scotsman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/">Scotsman</a></td><td><code>DG/42 K28 DG18 B42 K6 B24 DP/6</code></td><td>284</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/"><img src="/variants/s7/dg21k14dg9b21k3b12dp3~x2/sett.png" alt="Scotsman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -29,6 +33,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="225.7" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="148.4" cy="209.8" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="131.3" cy="224.5" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="134.2" cy="220.2" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/"><circle cx="139.9" cy="224.8" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="162.9" cy="279.6" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/"><circle cx="168.8" cy="192.2" r="4" fill="#3465a4"><title>Brabender</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14r5~x2/"><circle cx="105.8" cy="227.8" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/variants/s6/k3g14k14g2db15y2~x2/"><circle cx="146.8" cy="216.8" r="4" fill="#3465a4"><title>Glenturret</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3~x2/"><circle cx="133.7" cy="219.5" r="4" fill="#3465a4"><title>Morrison</title></circle></a><circle cx="163.4" cy="231.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="152.7" cy="225.6" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="148.8" cy="209.7" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="131.6" cy="224.3" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="134.5" cy="220.0" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/"><circle cx="140.2" cy="224.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="163.1" cy="279.5" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/"><circle cx="169.2" cy="192.1" r="4" fill="#3465a4"><title>Brabender</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14r5~x2/"><circle cx="106.0" cy="227.6" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/variants/s6/k3g14k14g2db15y2~x2/"><circle cx="147.1" cy="216.7" r="4" fill="#3465a4"><title>Glenturret</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3~x2/"><circle cx="134.0" cy="219.3" r="4" fill="#3465a4"><title>Morrison</title></circle></a><circle cx="163.7" cy="231.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

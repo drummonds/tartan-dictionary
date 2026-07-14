@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Black"
   url: "/clan/black/"
+aliases:
+- "/setts/k1dg6k6db6k1db1/"
+- "/setts/k5g23k18db21k33db3/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkgk/">BKBKGK</a></nav>
 A tartan of [Clan Black](/clan/black/).
 Its design is pattern [BKBKGK](/stripes/bkbkgk/) — the page of every tartan sharing this colour sequence.
 
@@ -16,10 +20,10 @@ The **Black Watch** tartan groups 2 setts — the same named design recorded as 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k1dg6k6db6k1db1/">Black Watch</a> ★</td><td><code>K/4 DG24 K24 DB24 K4 DB/4</code></td><td>160</td><td>1820</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1dg6k6db6k1db1/"><img src="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k5g23k18db21k33db3/">(variation)</a></td><td><code>K/10 G46 K36 DB42 K66 DB/6</code></td><td>396</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k5g23k18db21k33db3/"><img src="/variants/s6/k5g23k18db21k33db3~x2/sett.png" alt="(variation) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/">Black Watch</a> ★</td><td><code>K/4 DG24 K24 DB24 K4 DB/4</code></td><td>160</td><td>1820</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><img src="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k5g23k18db21k33db3~x2/">(variation)</a></td><td><code>K/10 G46 K36 DB42 K66 DB/6</code></td><td>396</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k5g23k18db21k33db3~x2/"><img src="/variants/s6/k5g23k18db21k33db3~x2/sett.png" alt="(variation) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -32,6 +36,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="156.9" cy="282.8" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s6/db4k2db16k10g18k3~x2/"><circle cx="193.5" cy="222.9" r="4" fill="#3465a4"><title>Wartley Hunting</title></circle></a><a href="/variants/s7/k2g10k9db9r1k1db2~x2/"><circle cx="163.0" cy="189.4" r="4" fill="#3465a4"><title>Reid and Taylor</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="138.8" cy="207.2" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="129.0" cy="237.9" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="162.6" cy="196.4" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="177.3" cy="214.8" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/k1dg5k5t5k1t1k1~x4/"><circle cx="183.5" cy="229.2" r="4" fill="#3465a4"><title>Strathspey District</title></circle></a><a href="/variants/s7/k1g5k5db5k1db1k1~x4/"><circle cx="182.8" cy="227.8" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/variants/s6/k4g16k13db16lb3db3~x2/"><circle cx="125.6" cy="235.1" r="4" fill="#3465a4"><title>I Y</title></circle></a><circle cx="229.1" cy="253.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="157.2" cy="282.8" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s6/db4k2db16k10g18k3~x2/"><circle cx="193.9" cy="222.9" r="4" fill="#3465a4"><title>Wartley Hunting</title></circle></a><a href="/variants/s7/k2g10k9db9r1k1db2~x2/"><circle cx="163.4" cy="189.3" r="4" fill="#3465a4"><title>Reid and Taylor</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="139.1" cy="207.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="129.2" cy="237.7" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="163.0" cy="196.3" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="177.8" cy="214.7" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/k1dg5k5t5k1t1k1~x4/"><circle cx="184.0" cy="229.2" r="4" fill="#3465a4"><title>Strathspey District</title></circle></a><a href="/variants/s7/k1g5k5db5k1db1k1~x4/"><circle cx="183.3" cy="227.7" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/variants/s6/k4g16k13db16lb3db3~x2/"><circle cx="125.9" cy="234.9" r="4" fill="#3465a4"><title>I Y</title></circle></a><circle cx="229.5" cy="253.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

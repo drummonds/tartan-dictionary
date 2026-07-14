@@ -8,10 +8,10 @@ crumbs:
 - name: "Unidentified, Toy Bear"
   url: "/tartans/u/un/unidentified-toy-bear/"
 - name: "Unidentified, Toy Bear"
-  url: "/setts/dg47y2dg5y2dg4k15db19r2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dg47y2dg5y2dg4k15db19r2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/u/un/unidentified-toy-bear/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGKBR](/stripes/gggggkbr/).
 
 Part of the [Unidentified, Toy Bear](/tartans/u/un/unidentified-toy-bear/) tartan — the named design grouping this sett with its other cloths.

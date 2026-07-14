@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/">Lochinvar Marine Harvest (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><img src="/variants/s24/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/sett.png" alt="Lochinvar Marine Harvest (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lochinvar-marine-harvest/">Lochinvar Marine Harvest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lochinvar-marine-harvest/"><img src="/variants/s24/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/sett.png" alt="Lochinvar Marine Harvest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

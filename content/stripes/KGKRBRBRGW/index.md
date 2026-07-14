@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/">MacInroy (Rattray)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/"><img src="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/sett.png" alt="MacInroy (Rattray) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/">Rattray of Lude</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><img src="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/sett.png" alt="Rattray of Lude sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/ma/macinroy-3/">MacInroy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macinroy-3/"><img src="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/rattray-of-lude/">Rattray of Lude</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rattray-of-lude/"><img src="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/sett.png" alt="Rattray of Lude sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

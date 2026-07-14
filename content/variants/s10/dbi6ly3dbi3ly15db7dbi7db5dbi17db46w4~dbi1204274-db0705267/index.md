@@ -12,10 +12,10 @@ crumbs:
 - name: "Rhys"
   url: "/tartans/r/rh/rhys-2/"
 - name: "Rhys Welsh Name Tartan"
-  url: "/setts/dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/r/rh/rhys-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBBBBBW](/stripes/bybybbbbbw/).
 
 Part of the [Rhys](/tartans/r/rh/rhys-2/) tartan — the named design grouping this sett with its other cloths.

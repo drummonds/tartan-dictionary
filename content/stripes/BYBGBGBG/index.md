@@ -28,8 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/">Leatherneck</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><img src="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/sett.png" alt="Leatherneck sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/ki/kinross-2/">Kinross</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinross-2/"><img src="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/sett.png" alt="Kinross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/l/le/leatherneck/">Leatherneck</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leatherneck/"><img src="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/sett.png" alt="Leatherneck sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

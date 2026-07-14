@@ -12,10 +12,10 @@ crumbs:
 - name: "Harmony 5"
   url: "/tartans/h/ha/harmony-5/"
 - name: "Harmony 5"
-  url: "/setts/g9r3g4dy3g3dy4g3o11ly30r3ly4g3/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g9r3g4dy3g3dy4g3o11ly30r3ly4g3/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/h/ha/harmony-5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGGGGRYRYG](/stripes/grgggggryryg/).
 
 Part of the [Harmony 5](/tartans/h/ha/harmony-5/) tartan — the named design grouping this sett with its other cloths.

@@ -12,10 +12,10 @@ crumbs:
 - name: "Westmeath"
   url: "/tartans/w/we/westmeath/"
 - name: "Westmeath"
-  url: "/setts/g11r6db6o2g3o2db6r6g36y2o2y2db5r5/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/g11r6db6o2g3o2db6r6g36y2o2y2db5r5/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/w/we/westmeath/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRGRBRGGRGBR](/stripes/grbrgrbrggrgbr/).
 
 Part of the [Westmeath](/tartans/w/we/westmeath/) tartan — the named design grouping this sett with its other cloths.

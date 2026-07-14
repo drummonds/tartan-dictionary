@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/db5k35lb3k2r3k2g3k2w3k2~x2/">Thin Blue Line UK</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/db5k35lb3k2r3k2g3k2w3k2~x2/"><img src="/variants/s10/db5k35lb3k2r3k2g3k2w3k2~x2/sett.png" alt="Thin Blue Line UK sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/t/th/thin-blue-line-uk/">Thin Blue Line UK</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/th/thin-blue-line-uk/"><img src="/variants/s10/db5k35lb3k2r3k2g3k2w3k2~x2/sett.png" alt="Thin Blue Line UK sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

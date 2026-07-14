@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/n70lo16t3o45/">Klymson (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/n70lo16t3o45/"><img src="/variants/s4/n70lo16t3o45/sett.png" alt="Klymson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/k/kl/klymson/">Klymson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/kl/klymson/"><img src="/variants/s4/n70lo16t3o45/sett.png" alt="Klymson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s4/o14n7ly7n2~x8~o2500000-n1900000/">Outlander #3</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/o14n7ly7n2~x8~o2500000-n1900000/"><img src="/variants/s4/o14n7ly7n2~x8~o2500000-n1900000/sett.png" alt="Outlander #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ou/outlander/">Outlander</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ou/outlander/"><img src="/variants/s4/o14n7ly7n2~x8~o2500000-n1900000/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

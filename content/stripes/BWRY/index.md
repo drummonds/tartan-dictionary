@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/ly24r1w1db1~x11/">Dutch Football (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/ly24r1w1db1~x11/"><img src="/variants/s4/ly24r1w1db1~x11/sett.png" alt="Dutch Football (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dutch-football/">Dutch Football</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dutch-football/"><img src="/variants/s4/ly24r1w1db1~x11/sett.png" alt="Dutch Football sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

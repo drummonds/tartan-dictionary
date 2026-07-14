@@ -4,7 +4,10 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/r33k20dg12r8k2r8/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/rkkgrkr/">RKKGRKR</a></nav>
 Its design is pattern [RKKGRKR](/stripes/rkkgrkr/) — the page of every tartan sharing this colour sequence.
 
 One of Polly Wittering's Irish district tartans for House of Edgar, in soft warm county colours.
@@ -14,8 +17,8 @@ The **Tipperary Irish County** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r33k20dg12r8k2r8/">Tipperary Irish County</a></td><td><code>R/66 K16 K24 DG24 R16 K4 R/16</code></td><td>250</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r33k20dg12r8k2r8/"><img src="/variants/s6/r33k20dg12r8k2r8~x2/sett.png" alt="Tipperary Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r33k20dg12r8k2r8~x2/">Tipperary Irish County</a></td><td><code>R/66 K40 DG24 R16 K4 R/16</code></td><td>250</td><td>1995</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r33k20dg12r8k2r8~x2/"><img src="/variants/s6/r33k20dg12r8k2r8~x2/sett.png" alt="Tipperary Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -28,6 +31,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r4k1r12k12r2~x2/"><circle cx="338.7" cy="186.5" r="4" fill="#3465a4"><title>Campbell of Armaddie</title></circle></a><a href="/variants/s5/r8k1r8k12r1~x2/"><circle cx="328.6" cy="192.5" r="4" fill="#3465a4"><title>MacLeod Black &amp;</title></circle></a><a href="/variants/s5/r4k1r24k22r2~x2/"><circle cx="365.9" cy="146.8" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s7/r44lb3k22r5k2r3w2~x2/"><circle cx="355.3" cy="90.5" r="4" fill="#3465a4"><title>Hilton Champion Corporate Golf</title></circle></a><a href="/variants/s6/r52k32g22r16y3r16/"><circle cx="281.6" cy="163.7" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s7/r8w4r50k12r4k15g5~x2/"><circle cx="317.8" cy="124.9" r="4" fill="#3465a4"><title>Instakilt</title></circle></a><a href="/variants/s7/r8w4r50k12r4k15o5~x2/"><circle cx="320.3" cy="124.5" r="4" fill="#3465a4"><title>Instakilt, Pink</title></circle></a><a href="/variants/s6/k8r1k8r11y1r1~x4/"><circle cx="288.4" cy="171.1" r="4" fill="#3465a4"><title>Swanstrom</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="340.5" cy="145.6" r="4" fill="#3465a4"><title>Hopkins</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="329.9" cy="161.1" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="307.9" cy="167.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s5/r4k1r12k12r2~x2/"><circle cx="339.8" cy="186.6" r="4" fill="#3465a4"><title>Campbell of Armaddie</title></circle></a><a href="/variants/s5/r8k1r8k12r1~x2/"><circle cx="329.6" cy="192.6" r="4" fill="#3465a4"><title>MacLeod Black &amp;</title></circle></a><a href="/variants/s5/r4k1r24k22r2~x2/"><circle cx="367.1" cy="147.0" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s7/r44lb3k22r5k2r3w2~x2/"><circle cx="356.5" cy="90.6" r="4" fill="#3465a4"><title>Hilton Champion Corporate Golf</title></circle></a><a href="/variants/s6/r52k32g22r16y3r16/"><circle cx="282.4" cy="163.7" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s7/r8w4r50k12r4k15g5~x2/"><circle cx="318.9" cy="124.9" r="4" fill="#3465a4"><title>Instakilt</title></circle></a><a href="/variants/s7/r8w4r50k12r4k15o5~x2/"><circle cx="321.4" cy="124.5" r="4" fill="#3465a4"><title>Instakilt, Pink</title></circle></a><a href="/variants/s6/k8r1k8r11y1r1~x4/"><circle cx="289.3" cy="171.2" r="4" fill="#3465a4"><title>Swanstrom</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="341.6" cy="145.7" r="4" fill="#3465a4"><title>Hopkins</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="331.0" cy="161.2" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="308.8" cy="167.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

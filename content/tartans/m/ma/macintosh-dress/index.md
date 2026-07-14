@@ -8,7 +8,10 @@ crumbs:
   url: "/clan/macintosh/"
 - name: "MacIntosh"
   url: "/families/macintosh/"
+aliases:
+- "/setts/r3w8db4g14r4db2/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/brgbwr/">BRGBWR</a></nav>
 A tartan of the [MacIntosh](/families/macintosh/) family.
 Its design is pattern [BRGBWR](/stripes/brgbwr/) — the page of every tartan sharing this colour sequence.
 
@@ -19,8 +22,8 @@ The **MacIntosh Dress** tartan is recorded as a single sett.
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3w8db4g14r4db2/">MacIntosh Dress</a></td><td><code>R/6 W16 DB8 G28 R8 DB/4</code></td><td>130</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3w8db4g14r4db2/"><img src="/variants/s6/r3w8db4g14r4db2~x2/sett.png" alt="MacIntosh Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r3w8db4g14r4db2~x2/">MacIntosh Dress</a></td><td><code>R/6 W16 DB8 G28 R8 DB/4</code></td><td>130</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r3w8db4g14r4db2~x2/"><img src="/variants/s6/r3w8db4g14r4db2~x2/sett.png" alt="MacIntosh Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -39,6 +42,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3w8db4dg14r4db2~x4/"><circle cx="159.7" cy="229.0" r="4" fill="#3465a4"><title>MacKintosh Dress</title></circle></a><a href="/variants/s5/g4r3lb1k1lb3~x4/"><circle cx="115.2" cy="282.0" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/variants/s6/db13w13db4ly2g8r3~x2/"><circle cx="129.7" cy="231.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.7" cy="205.4" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/db24r4g24r4w20r10g3w4~x2/"><circle cx="118.7" cy="215.9" r="4" fill="#3465a4"><title>Robertson Dress</title></circle></a><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/"><circle cx="202.2" cy="178.1" r="4" fill="#3465a4"><title>Hawaii</title></circle></a><a href="/variants/s7/r4db18dr4g19w25r10w4~x2/"><circle cx="103.6" cy="227.1" r="4" fill="#3465a4"><title>Fraser Red Dress</title></circle></a><a href="/variants/s6/lb4o28g6lb12k12lb3~x2/"><circle cx="188.4" cy="202.9" r="4" fill="#3465a4"><title>Thomson, Lord</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="197.5" cy="279.6" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s4/db8g8w4r1~x5/"><circle cx="176.7" cy="266.4" r="4" fill="#3465a4"><title>Farooq in Livingston</title></circle></a><circle cx="164.2" cy="237.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s6/r3w8db4dg14r4db2~x4/"><circle cx="159.9" cy="228.8" r="4" fill="#3465a4"><title>MacKintosh Dress</title></circle></a><a href="/variants/s5/g4r3lb1k1lb3~x4/"><circle cx="115.1" cy="281.7" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/variants/s6/db13w13db4ly2g8r3~x2/"><circle cx="129.8" cy="230.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.9" cy="205.2" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/db24r4g24r4w20r10g3w4~x2/"><circle cx="118.8" cy="215.5" r="4" fill="#3465a4"><title>Robertson Dress</title></circle></a><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/"><circle cx="202.5" cy="177.9" r="4" fill="#3465a4"><title>Hawaii</title></circle></a><a href="/variants/s7/r4db18dr4g19w25r10w4~x2/"><circle cx="103.5" cy="226.7" r="4" fill="#3465a4"><title>Fraser Red Dress</title></circle></a><a href="/variants/s6/lb4o28g6lb12k12lb3~x2/"><circle cx="188.8" cy="202.8" r="4" fill="#3465a4"><title>Thomson, Lord</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="197.6" cy="279.5" r="4" fill="#3465a4"><title>Harbison</title></circle></a><a href="/variants/s4/db8g8w4r1~x5/"><circle cx="176.8" cy="266.3" r="4" fill="#3465a4"><title>Farooq in Livingston</title></circle></a><circle cx="164.3" cy="237.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

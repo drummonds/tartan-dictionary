@@ -28,10 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/w5g2w34g34k2g2y4~x2/">Cunningham Dress Green (Dance)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/w5g2w34g34k2g2y4~x2/"><img src="/variants/s7/w5g2w34g34k2g2y4~x2/sett.png" alt="Cunningham Dress Green (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/y2g1k1g20w20g1w2~x4/">Cunningham Dress Green (Dance) Fashion Tartan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y2g1k1g20w20g1w2~x4/"><img src="/variants/s7/y2g1k1g20w20g1w2~x4/sett.png" alt="Cunningham Dress Green (Dance) Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/c/cu/cunningham-dress/">Cunningham Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cu/cunningham-dress/"><img src="/variants/s7/w5g2w34g34k2g2y4~x2/sett.png" alt="Cunningham Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

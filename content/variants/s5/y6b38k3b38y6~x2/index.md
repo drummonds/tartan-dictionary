@@ -8,10 +8,10 @@ crumbs:
 - name: "The Poulain League"
   url: "/tartans/t/th/the-poulain-league/"
 - name: "The Poulain League"
-  url: "/setts/y6b38k3b38y6/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y6b38k3b38y6/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/th/the-poulain-league/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBG](/stripes/gbkbg/).
 
 Part of the [The Poulain League](/tartans/t/th/the-poulain-league/) tartan — the named design grouping this sett with its other cloths.

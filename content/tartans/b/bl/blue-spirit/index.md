@@ -6,7 +6,11 @@ crumbs:
   url: "/"
 - name: "Clan Blue"
   url: "/clan/blue/"
+aliases:
+- "/setts/db3k13db3k22db49k2db2lb1/"
+- "/setts/db3k12db3k17db40k2db2w1/"
 ---
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/bkbkbkbw/">BKBKBKBW</a></nav>
 A tartan of [Clan Blue](/clan/blue/).
 Its design is pattern [BKBKBKBW](/stripes/bkbkbkbw/) — the page of every tartan sharing this colour sequence.
 
@@ -18,10 +22,10 @@ The **Blue Spirit** tartan groups 2 setts — the same named design recorded as 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db3k13db3k22db49k2db2lb1/">Blue Spirit</a> ★</td><td><code>DB/6 K26 DB6 K44 DB98 K4 DB4 LB/2</code></td><td>372</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3k13db3k22db49k2db2lb1/"><img src="/variants/s8/db3k13db3k22db49k2db2lb1~x2/sett.png" alt="Blue Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db3k12db3k17db40k2db2w1/">Fashion Tartan</a></td><td><code>DB/6 K24 DB6 K34 DB80 K4 DB4 W/2</code></td><td>312</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db3k12db3k17db40k2db2w1/"><img src="/variants/s8/db3k12db3k17db40k2db2w1~x2/sett.png" alt="Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db3k13db3k22db49k2db2lb1~x2/">Blue Spirit</a> ★</td><td><code>DB/6 K26 DB6 K44 DB98 K4 DB4 LB/2</code></td><td>372</td><td>2006</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db3k13db3k22db49k2db2lb1~x2/"><img src="/variants/s8/db3k13db3k22db49k2db2lb1~x2/sett.png" alt="Blue Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db3k12db3k17db40k2db2w1~x2/">Fashion Tartan</a></td><td><code>DB/6 K24 DB6 K34 DB80 K4 DB4 W/2</code></td><td>312</td><td>2006</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db3k12db3k17db40k2db2w1~x2/"><img src="/variants/s8/db3k12db3k17db40k2db2w1~x2/sett.png" alt="Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -34,6 +38,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="345.0" cy="168.6" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="312.6" cy="155.7" r="4" fill="#3465a4"><title>Auckland</title></circle></a><a href="/variants/s6/k14db14k14db40k3db2~x2/"><circle cx="460.7" cy="199.7" r="4" fill="#3465a4"><title>Atlin</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/"><circle cx="336.5" cy="168.7" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/variants/s8/k1db5w2k30db30k1db1k1~x2/"><circle cx="364.1" cy="110.4" r="4" fill="#3465a4"><title>Binder Wedding</title></circle></a><a href="/variants/s6/k3db15k42db13k2db3~x2~db1704245/"><circle cx="410.8" cy="165.0" r="4" fill="#3465a4"><title>McWilliams</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="350.6" cy="141.0" r="4" fill="#3465a4"><title>Trotter</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="331.1" cy="138.6" r="4" fill="#3465a4"><title>MacArthur Fox</title></circle></a><a href="/variants/s7/db56k4w1db6k20w2k20~x2/"><circle cx="406.4" cy="114.8" r="4" fill="#3465a4"><title>Dalziel Rugby Club</title></circle></a><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><circle cx="466.5" cy="97.9" r="4" fill="#3465a4"><title>Orman</title></circle></a><circle cx="452.1" cy="110.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="346.0" cy="168.8" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="313.5" cy="155.8" r="4" fill="#3465a4"><title>Auckland</title></circle></a><a href="/variants/s6/k14db14k14db40k3db2~x2/"><circle cx="461.9" cy="200.1" r="4" fill="#3465a4"><title>Atlin</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/"><circle cx="337.5" cy="168.9" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/variants/s8/k1db5w2k30db30k1db1k1~x2/"><circle cx="365.3" cy="110.6" r="4" fill="#3465a4"><title>Binder Wedding</title></circle></a><a href="/variants/s6/k3db15k42db13k2db3~x2~db1704245/"><circle cx="412.0" cy="165.3" r="4" fill="#3465a4"><title>McWilliams</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="351.6" cy="141.2" r="4" fill="#3465a4"><title>Trotter</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="332.1" cy="138.7" r="4" fill="#3465a4"><title>MacArthur Fox</title></circle></a><a href="/variants/s7/db56k4w1db6k20w2k20~x2/"><circle cx="407.6" cy="115.1" r="4" fill="#3465a4"><title>Dalziel Rugby Club</title></circle></a><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><circle cx="467.8" cy="98.2" r="4" fill="#3465a4"><title>Orman</title></circle></a><circle cx="453.4" cy="111.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

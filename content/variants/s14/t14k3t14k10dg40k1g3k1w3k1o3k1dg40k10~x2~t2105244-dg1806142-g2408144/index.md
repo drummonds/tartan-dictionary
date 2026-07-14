@@ -8,10 +8,10 @@ crumbs:
 - name: "Irish Diaspora"
   url: "/tartans/i/ir/irish-diaspora/"
 - name: "Irish Diaspora"
-  url: "/setts/t14k3t14k10dg40k1g3k1w3k1o3k1dg40k10/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/t14k3t14k10dg40k1g3k1w3k1o3k1dg40k10/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/i/ir/irish-diaspora/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKWKRKGK](/stripes/bkbkgkgkwkrkgk/).
 
 Part of the [Irish Diaspora](/tartans/i/ir/irish-diaspora/) tartan — the named design grouping this sett with its other cloths.

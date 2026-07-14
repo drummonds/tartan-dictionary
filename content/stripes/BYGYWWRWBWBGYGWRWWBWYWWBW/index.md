@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/">Morddyn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/"><img src="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/sett.png" alt="Morddyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/m/mo/morddyn-2/">Morddyn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/mo/morddyn-2/"><img src="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/sett.png" alt="Morddyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

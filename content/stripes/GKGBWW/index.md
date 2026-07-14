@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/g20k2g20dp25w2lb3~x2/">Lawrence of Broughty Ferry</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><img src="/variants/s6/g20k2g20dp25w2lb3~x2/sett.png" alt="Lawrence of Broughty Ferry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/la/lawrence-of-broughty-ferry/">Lawrence of Broughty Ferry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lawrence-of-broughty-ferry/"><img src="/variants/s6/g20k2g20dp25w2lb3~x2/sett.png" alt="Lawrence of Broughty Ferry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

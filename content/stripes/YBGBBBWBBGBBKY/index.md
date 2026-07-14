@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/lo2k2dr2db2g23dr24db2lb2db2dr2db27g6db2lo2~x2/">Olympicana</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/lo2k2dr2db2g23dr24db2lb2db2dr2db27g6db2lo2~x2/"><img src="/variants/s14/lo2k2dr2db2g23dr24db2lb2db2dr2db27g6db2lo2~x2/sett.png" alt="Olympicana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/o/ol/olympicana/">Olympicana</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/o/ol/olympicana/"><img src="/variants/s14/lo2k2dr2db2g23dr24db2lb2db2dr2db27g6db2lo2~x2/sett.png" alt="Olympicana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

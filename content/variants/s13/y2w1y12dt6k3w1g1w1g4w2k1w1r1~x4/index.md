@@ -8,15 +8,15 @@ crumbs:
 - name: "Diana Princess of Wales Memorial"
   url: "/tartans/d/di/diana-princess-of-wales-memorial/"
 - name: "Diana Princess of Wales Memorial"
-  url: "/setts/y2w1y12dt6k3w1g1w1g4w2k1w1r1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/y2w1y12dt6k3w1g1w1g4w2k1w1r1/) (the scale-free proportion — the
-same cloth at any scale or shade), whose colour order is pattern [GWGBKWGWGWKWRWKWGWGWKBGW](/stripes/gwgbkwgwgwkwrwkwgwgwkbgw/).
+provenance below. It is one weaving of the [sett](/tartans/d/di/diana-princess-of-wales-memorial/) (the scale-free proportion — the
+same cloth at any scale or shade), whose colour order is pattern [GWGBKWGWGWKWR](/stripes/gwgbkwgwgwkwr/).
 
 Part of the [Diana Princess of Wales Memorial](/tartans/d/di/diana-princess-of-wales-memorial/) tartan — the named design grouping this sett with its other cloths.
 
-Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=932](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=932)
 
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=932](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1997 — Diana Princess of Wales Memorial (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=932">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BCD4D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #BCD4D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5880A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #5880A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#04A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HS #04A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Alistair Buchan, Chairman of Lochcarron of Scotland to commemorate the life of Diana Princess of Wales and to raise money for her many charities. The design first appeared in September of 1997 and was relaunched by George Russell, chief executive of Scotland the Brand in December 1998.</em></li>
-<li>1997 — Diana Princess of Wales Mem. (Commem (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2515">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BCD4D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #BCD4D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5880A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #5880A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#04A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HS #04A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Alistair Buchan, Chairman of Lochcarron of Scotland to commemorate the life of Diana Princess of Wales and to raise money for her many charities. The design first appeared in September of 1997 and was relaunched by George Russell, chief executive of Scotland the Brand in December 1998. Royalties now go the 'Diana Award' charity.</em></li>
+<li>1997 — Diana Princess of Wales Mem. (Commem (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/2515/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BCD4D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AA #BCD4D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5880A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BN #5880A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#04A0A0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HS #04A0A0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Designed by Alistair Buchan, Chairman of Lochcarron of Scotland to commemorate the life of Diana Princess of Wales and to raise money for her many charities. The design first appeared in September of 1997 and was relaunched by George Russell, chief executive of Scotland the Brand in December 1998. Royalties now go the 'Diana Award' charity.</em></li>
 </ul>
 </details>
 
@@ -53,9 +53,11 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2515
 
 ## Thread count
-Y/8 W4 Y48 DT24 K12 W4 G4 W4 G16 W8 K4 W4 R4 W4 K4 W8 G16 W4 G4 W4 K12 DT24 Y48 W/4
+Y/8 W4 Y48 DT24 K12 W4 G4 W4 G16 W8 K4 W4 R/4
 
-One full sett is **540 threads**.
+One full sett is **276 threads**.
+
+<p class="recorded-note">The source recorded this cloth as Y/8 W4 Y48 DT24 K12 W4 G4 W4 G16 W8 K4 W4 R4 W4 K4 W8 G16 W4 G4 W4 K12 DT24 Y48 W/4 — 540 threads; it folds to the canonical 276-thread sett above.</p>
 
 ![Sett](sett.png)
 
@@ -64,7 +66,7 @@ One full sett is **540 threads**.
 
 # Sample pattern
 
-<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/8 W4 Y48 DT24 K12 W4 G4 W4 G16 W8 K4 W4 R4 W4 K4 W8 G16 W4 G4 W4 K12 DT24 Y48 W/4 tartan" width="880" height="480">
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/8 W4 Y48 DT24 K12 W4 G4 W4 G16 W8 K4 W4 R/4 tartan" width="880" height="480">
 
 ## Nearest tartan variants
 

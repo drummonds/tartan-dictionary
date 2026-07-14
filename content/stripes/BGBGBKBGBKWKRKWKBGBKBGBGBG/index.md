@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s26/db2y1db2y1db3k6db18g1db18k4w1k4o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/">Wupper</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s26/db2y1db2y1db3k6db18g1db18k4w1k4o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/"><img src="/variants/s26/db2y1db2y1db3k6db18g1db18k4w1k4o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/sett.png" alt="Wupper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/wu/wupper/">Wupper</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wu/wupper/"><img src="/variants/s26/db2y1db2y1db3k6db18g1db18k4w1k4o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/sett.png" alt="Wupper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

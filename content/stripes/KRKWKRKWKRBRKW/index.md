@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/">Popular</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/"><img src="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/sett.png" alt="Popular sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/p/po/popular/">Popular</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/popular/"><img src="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/sett.png" alt="Popular sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

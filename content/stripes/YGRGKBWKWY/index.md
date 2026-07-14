@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/">RAF Leuchars</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/"><img src="/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/sett.png" alt="RAF Leuchars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/r/ra/raf-leuchars/">RAF Leuchars</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/raf-leuchars/"><img src="/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/sett.png" alt="RAF Leuchars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

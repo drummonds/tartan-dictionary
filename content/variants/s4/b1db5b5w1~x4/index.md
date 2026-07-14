@@ -10,10 +10,10 @@ crumbs:
 - name: "Manx, Cornaa"
   url: "/tartans/m/ma/manx-cornaa-2/"
 - name: "Manx, Cornaa"
-  url: "/setts/b1db5b5w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/b1db5b5w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/m/ma/manx-cornaa-2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBW](/stripes/bbbw/).
 
 Part of the [Manx, Cornaa](/tartans/m/ma/manx-cornaa-2/) tartan — the named design grouping this sett with its other cloths.

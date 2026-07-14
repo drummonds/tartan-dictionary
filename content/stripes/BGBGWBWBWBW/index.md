@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s11/t45dy6t3dy6lb3dp5lb3dp5lb20t2lb3~x2/">Dunn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s11/t45dy6t3dy6lb3dp5lb3dp5lb20t2lb3~x2/"><img src="/variants/s11/t45dy6t3dy6lb3dp5lb3dp5lb20t2lb3~x2/sett.png" alt="Dunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/d/du/dunn-3/">Dunn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/du/dunn-3/"><img src="/variants/s11/t45dy6t3dy6lb3dp5lb3dp5lb20t2lb3~x2/sett.png" alt="Dunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

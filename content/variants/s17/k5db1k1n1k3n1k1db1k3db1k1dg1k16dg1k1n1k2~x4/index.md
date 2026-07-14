@@ -12,10 +12,10 @@ crumbs:
 - name: "Dickie"
   url: "/tartans/d/di/dickie/"
 - name: "Dickie (Glasgow)"
-  url: "/setts/k5db1k1n1k3n1k1db1k3db1k1dg1k16dg1k1n1k2/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/k5db1k1n1k3n1k1db1k3db1k1dg1k16dg1k1n1k2/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/d/di/dickie/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKBKGKGKBK](/stripes/kbkbkbkbkbkgkgkbk/).
 
 Part of the [Dickie](/tartans/d/di/dickie/) tartan — the named design grouping this sett with its other cloths.
@@ -28,7 +28,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10367](h
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>16/04/2010 — Dickie (Glasgow) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10367">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2F4F4F;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #2F4F4F"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #006400"></span><br><em>Designed for Mr Kevin Dickie, who wanted a very quiet blend of dark shades. It was based on the Keith tartan, related to the name, and the colour blocks reduced to a framework structure.</em></li>
-<li>16th Apr. 2010 — Dickie (Glasgow) (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10367">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Designed for Mr Kevin Dickie, who wanted a very quiet blend of dark shades. It was based on the Keith tartan, related to the name, and the colour blocks reduced to a framework structure. Woven by Geoffrey (Tailor) Ltd.</em></li>
+<li>16th Apr. 2010 — Dickie (Glasgow) (Personal) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/10367/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C5C5C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DN #5C5C5C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><br><em>Designed for Mr Kevin Dickie, who wanted a very quiet blend of dark shades. It was based on the Keith tartan, related to the name, and the colour blocks reduced to a framework structure. Woven by Geoffrey (Tailor) Ltd.</em></li>
 </ul>
 </details>
 

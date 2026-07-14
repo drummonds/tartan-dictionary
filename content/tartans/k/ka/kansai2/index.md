@@ -4,16 +4,19 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+aliases:
+- "/setts/lb2r1lb8g7ri1t6n1r1w1/"
 ---
-Its design is pattern [RWGRBBRWRBBRGWRW](/stripes/rwgrbbrwrbbrgwrw/) — the page of every tartan sharing this colour sequence.
+<nav class="crumbs crumbs-structural"><a href="/stripes/">Patterns</a> › <a href="/stripes/wrbbrgwrw/">WRBBRGWRW</a></nav>
+Its design is pattern [WRBBRGWRW](/stripes/wrbbrgwrw/) — the page of every tartan sharing this colour sequence.
 
 The **Kansai2** tartan is recorded as a single sett.
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb2r1lb8g7ri1t6n1r1w1/">Kansai2</a></td><td><code>LB/8 R4 LB32 G28 Ri4 T24 N4 R4 W4 R4 N4 T24 Ri4 G28 LB32 R/4</code></td><td>212</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb2r1lb8g7ri1t6n1r1w1/"><img src="/variants/s9/lb2r1lb8g7ri1t6n1r1w1~x4~r2109032-ri2806019/sett.png" alt="Kansai2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb2r1lb8g7ri1t6n1r1w1~x4~r2109032-ri2806019/">Kansai2</a></td><td><code>LB/8 R4 LB32 G28 Ri4 T24 N4 R4 W/4</code></td><td>212</td><td>2004</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb2r1lb8g7ri1t6n1r1w1~x4~r2109032-ri2806019/"><img src="/variants/s9/lb2r1lb8g7ri1t6n1r1w1~x4~r2109032-ri2806019/sett.png" alt="Kansai2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -26,6 +29,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10257 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
+Every grey dot is one of 10270 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/w3r10o6y8lb8g32b8r10b6w3~x4/"><circle cx="123.9" cy="177.2" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><a href="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/"><circle cx="133.8" cy="147.5" r="4" fill="#3465a4"><title>Glasgow Tattoo</title></circle></a><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><circle cx="191.6" cy="206.7" r="4" fill="#3465a4"><title>Ontex</title></circle></a><a href="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/"><circle cx="48.7" cy="178.2" r="4" fill="#3465a4"><title>Isle of Jura</title></circle></a><a href="/variants/s13/r5db3t20db3dg5g20y3g20dg5db3t20db3w5~db1004274-t2405244/"><circle cx="127.6" cy="191.9" r="4" fill="#3465a4"><title>Hosey</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="213.9" cy="174.8" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><circle cx="167.3" cy="220.8" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/"><circle cx="173.5" cy="201.5" r="4" fill="#3465a4"><title>Royal Pharmaceutical, Society</title></circle></a><a href="/variants/s9/g48n26w5dy7lb10g3t7n10r3~x2/"><circle cx="243.4" cy="171.2" r="4" fill="#3465a4"><title>State Seal of Mississippi</title></circle></a><circle cx="163.2" cy="203.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s10/w3r10o6y8lb8g32b8r10b6w3~x4/"><circle cx="123.9" cy="176.8" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><a href="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/"><circle cx="133.8" cy="147.1" r="4" fill="#3465a4"><title>Glasgow Tattoo</title></circle></a><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><circle cx="191.6" cy="206.4" r="4" fill="#3465a4"><title>Ontex</title></circle></a><a href="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/"><circle cx="48.5" cy="177.7" r="4" fill="#3465a4"><title>Isle of Jura</title></circle></a><a href="/variants/s13/r5db3t20db3dg5g20y3g20dg5db3t20db3w5~db1004274-t2405244/"><circle cx="127.5" cy="191.6" r="4" fill="#3465a4"><title>Hosey</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="214.1" cy="174.6" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><circle cx="167.2" cy="220.5" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/"><circle cx="173.5" cy="201.3" r="4" fill="#3465a4"><title>Royal Pharmaceutical, Society</title></circle></a><a href="/variants/s9/g48n26w5dy7lb10g3t7n10r3~x2/"><circle cx="243.5" cy="171.1" r="4" fill="#3465a4"><title>State Seal of Mississippi</title></circle></a><circle cx="163.1" cy="202.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

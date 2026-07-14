@@ -8,10 +8,10 @@ crumbs:
 - name: "Tokharian"
   url: "/tartans/t/to/tokharian/"
 - name: "Tokharian"
-  url: "/setts/db1o5db1o5db2w1/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db1o5db1o5db2w1/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/t/to/tokharian/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBW](/stripes/brbrbw/).
 
 Part of the [Tokharian](/tartans/t/to/tokharian/) tartan — the named design grouping this sett with its other cloths.

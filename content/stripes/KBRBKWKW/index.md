@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/w26k8w3k5db3r5n3k4~x2/">Lootens Jensen (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/w26k8w3k5db3r5n3k4~x2/"><img src="/variants/s8/w26k8w3k5db3r5n3k4~x2/sett.png" alt="Lootens Jensen (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/l/lo/lootens-jensen/">Lootens Jensen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/lootens-jensen/"><img src="/variants/s8/w26k8w3k5db3r5n3k4~x2/sett.png" alt="Lootens Jensen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

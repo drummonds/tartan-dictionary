@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s24/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3~x4/">Wedding Dress:1766</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s24/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3~x4/"><img src="/variants/s24/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3~x4/sett.png" alt="Wedding Dress:1766 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/w/we/wedding-dress-1766/">Wedding Dress:1766</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/we/wedding-dress-1766/"><img src="/variants/s24/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3~x4/sett.png" alt="Wedding Dress:1766 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

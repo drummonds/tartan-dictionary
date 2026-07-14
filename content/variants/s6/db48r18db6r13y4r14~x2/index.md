@@ -8,10 +8,10 @@ crumbs:
 - name: "Butler"
   url: "/tartans/b/bu/butler/"
 - name: "Butler"
-  url: "/setts/db48r18db6r13y4r14/"
+  url: ""
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
-provenance below. It is one weaving of the [sett](/setts/db48r18db6r13y4r14/) (the scale-free proportion — the
+provenance below. It is one weaving of the [sett](/tartans/b/bu/butler/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGR](/stripes/brbrgr/).
 
 Part of the [Butler](/tartans/b/bu/butler/) tartan — the named design grouping this sett with its other cloths.
@@ -24,7 +24,7 @@ Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=458](htt
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/2000 — Butler (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=458">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>One of a series of Irish name tartans designed by Scotch Corner of Gateshead, England.</em></li>
-<li>2000 — Butler (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4058">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Scotch Corner (a company in Gateshead, England) have produced various Irish surname tartans over the years but have never advised or consulted the Scottish Tartans Authority or offered any historical evidence to their designs. Since there is no known evidence of any Irish clan/family tartans having ever existed, these should not be regarded as genuine clan/family tartans but merely fashion designs given an Irish surname. However . . . . it may be considered that this is how many of Scotland's clan tartans originally came into being so perhaps in a hundred years or so, today's inventions will be regarded as tomorrow's genuine Irish clan/family tartans.</em></li>
+<li>2000 — Butler (Fashion) (tartans-authority, <a href="https://web.archive.org/web/*/http://www.tartansauthority.com/tartan-ferret/display/4058/*">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Scotch Corner (a company in Gateshead, England) have produced various Irish surname tartans over the years but have never advised or consulted the Scottish Tartans Authority or offered any historical evidence to their designs. Since there is no known evidence of any Irish clan/family tartans having ever existed, these should not be regarded as genuine clan/family tartans but merely fashion designs given an Irish surname. However . . . . it may be considered that this is how many of Scotland's clan tartans originally came into being so perhaps in a hundred years or so, today's inventions will be regarded as tomorrow's genuine Irish clan/family tartans.</em></li>
 </ul>
 </details>
 

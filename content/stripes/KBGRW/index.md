@@ -28,8 +28,8 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s5/k5db4g24r21w3~x2/">Sachie Hara Scottish Check (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/k5db4g24r21w3~x2/"><img src="/variants/s5/k5db4g24r21w3~x2/sett.png" alt="Sachie Hara Scottish Check (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/s/sa/sachie-hara/">Sachie Hara</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sa/sachie-hara/"><img src="/variants/s5/k5db4g24r21w3~x2/sett.png" alt="Sachie Hara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
